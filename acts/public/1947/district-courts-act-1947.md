@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-14_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Criminal Procedure Act 2011 in District Courts
 
@@ -11,7 +11,10 @@ _Consolidation as at 2013-12-05_
 (1) In this Act, unless the context otherwise requires,—
   - **bailiff** means a bailiff of a court, and includes any deputy bailiff and any person acting as bailiff pursuant to section 15
   - **Community Magistrate** means a Community Magistrate appointed under section 11A; and includes the Chief Community Magistrate
+  - **constable** has the meaning given by section 4 of the Policing Act 2008
   - **court** or means a court constituted under this Act
+  - **financial assessment hearing** has the meaning given by section 84E
+  - **financial statement** has the meaning given by section 84A
   - **High Court Rules** means the rules from time to time set out in Schedule 2 of the Judicature Act 1908
   - **interlocutory application** —
     (a) means any application to the court in any proceeding or intended proceeding for an order or a direction relating to a matter of procedure or for some relief ancillary to that claimed in a pleading; and
@@ -22,6 +25,7 @@ _Consolidation as at 2013-12-05_
   - **landlord** , in relation to any land, means the person entitled to the immediate reversion of that land, or, if the land is held in joint tenancy or tenancy in common, includes any one of the persons entitled to the immediate reversion
   - **officer** , in relation to a court, includes any Registrar of that court, and any clerk, bailiff, usher, or messenger in the service of that court
   - **party** means any person who is a plaintiff or defendant in any proceeding; and includes any person added to the proceeding
+  - **Police employee** has the meaning given by section 4 of the Policing Act 2008
   - **prescribed** means prescribed by the rules for the time being in force
   - **proceeding** means any application to the court for the exercise of the civil jurisdiction of the court other than an interlocutory application
   - **Registrar** means the Registrar of a court, and includes any Deputy Registrar
@@ -634,9 +638,7 @@ A proceeding may be brought in the High Court on a judgment or order of a Distri
 (4) Save as aforesaid, no proceeding shall be brought in a District Court on a judgment of the High Court.
 
 ### 69 Removal of judgment from one court to another
-(1) Where any final judgment or order for the payment of any sum of money is obtained in any one proceeding in a court, the judgment or order may be removed into any other court, and for that purpose the Registrar, upon the application of the judgment creditor or of any person on his behalf, shall issue a certificate thereof in the prescribed form. Every such certificate shall bear on the face thereof a statement that it has been issued for the purposes of this section, and it shall not be available for any other purpose.
-(2) No such certificate shall be issued before the expiration of the time allowed for giving notice of appeal or before the time at which execution could be issued out of the court first aforesaid, and if proceedings for enforcement of the judgment or order have been issued out of that court no such certificate shall be issued until after the withdrawal or completion of those proceedings.
-(3) The person obtaining the certificate may file the same in any other court by delivering it at the office of the Registrar; and thereupon all proceedings may be taken and enforced in and by that other court for the amount recoverable under the judgment or order, and any fees and costs paid or payable in connection with the obtaining and filing of the certificate, as fully and effectually as if the judgment or order had been a judgment of that other court signed and entered up at the time of filing the certificate, and no further proceedings shall be had or taken in the court from which the judgment or order has been removed as aforesaid.
+[Repealed]
 
 ### 70 Removal of judgment of abolished court
 (1) Where any court established under this or any former Act relating to courts is or has been abolished or is no longer a court appointed for the exercise of civil jurisdiction, the Minister of the Crown who is responsible for the Ministry of Justice may direct that the records of the court be delivered to the Registrar of some other court. In any such case all proceedings may be continued or completed, and all judgments and orders of the first-mentioned court may be enforced, in and by the last-mentioned court as fully and effectually as if the judgments and orders had been judgments and orders of that court.
@@ -714,7 +716,7 @@ For the purposes of enforcement proceedings, a judgment or order of the High Cou
 
 ### 79 Nature of proceedings for enforcement of judgment
 (1) Any judgment or order of any court or of any District Court Judge for the payment of a sum of money may be enforced in District Courts by any 1 or more of the proceedings following, that is to say,—
-  (a) execution against the goods and chattels of the judgment debtor under a distress warrant:
+  (a) execution against the goods and chattels of the judgment debtor under a warrant to seize property:
   (b) garnishee proceedings for the attachment of money due to the judgment debtor:
   (ba) proceedings for a charging order in respect of any property held by the judgment debtor and specified in section 96A(1A):
   (c) proceedings for an attachment order against the salary or wages of the judgment debtor.
@@ -724,8 +726,29 @@ For the purposes of enforcement proceedings, a judgment or order of the High Cou
   (b) by a fine not exceeding $1,000.
 (3) A judgment or order for the recovery of land may be enforced under a warrant for the recovery of land.
 (4) A judgment or order for the delivery of specific chattels may be enforced, by order of the District Court Judge, either under a warrant for the recovery of chattels or by committal.
-(5) Except by leave of a District Court Judge, no proceedings for the enforcement of a judgment or order shall be commenced in any court until after the expiry of 48 hours from the time of the entering of the judgment or the making of the order:provided that if the judgment or order is one which may be appealed against without the leave of the court, any District Court Judge may order a stay of any proceedings for the enforcement of the judgment or order until after the time allowed for giving notice of appeal has expired.
+(5) An attachment order to enforce a judgment or order for the payment of money may be made, and proceedings for such an attachment order may be commenced, at any time after the judgment is entered or the order made.
+(5A) Except as provided in subsection (5), proceedings to enforce a judgment or order may not be commenced unless—
+  (a) at least 48 hours have expired after the judgment was entered or the order made; or
+  (b) a Judge grants leave.
+(5B) Despite subsections (5) and (5A), if a judgment or order may be appealed against without the leave of the court, a Judge may order a stay of any proceedings to enforce the judgment or order, or order that an attachment order to enforce the judgment or order not take effect, until after the time allowed for giving notice of appeal has expired.
+(5C) Despite subsections (5) and (5A), an attachment order may be made, and proceedings for such an attachment order may be commenced, immediately after a judgment or order for the payment of money is filed if,—
+  (a) in the case of a money order (as defined in section 19(1A) of the Disputes Tribunals Act 1988 or, as the case may be, section 78(2AB) of the Residential Tenancies Act 1986),—
+    (i) the money order records that the parties have agreed to enforce the payment of money specified in the money order by way of an attachment order made under this Act; and
+    (ii) section 19(1B) of the Disputes Tribunals Act 1988 or, as the case may be, section 78(2AC) of the Residential Tenancies Act 1986 is complied with; or
+  (b) in the case of a judgment or order made by a court,—
+    (i) the judgment or order records that the parties have agreed to enforce the payment of money specified in the judgment or order by way of an attachment order made under this Act; and
+    (ii) subsection (5D) is complied with.
+(5D) This subsection is complied with if—
+  (a) the judgment or order was given or made at or following a hearing at which both parties were present; and
+  (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
+  (c) both parties agreed on the terms of the attachment order, including the details specified in section 84H; and
+  (d) the judgment or order includes the details specified in section 84H.
+(5E) Nothing in subsection (5D)(c) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3).
+(5F) For the purposes of subsection (5D), hearing includes a judicial settlement conference held under the rules.
 (6) It is hereby declared that 2 or more proceedings for the enforcement of a judgment or order may be taken concurrently, but the judgment creditor shall not be entitled to recover a greater sum than the amount owing under the judgment or order and the costs and fees of any proceedings for enforcement.
+
+### 79A Judgment may be enforced in any District Court
+A judgment or order of a District Court or a District Court Judge may be enforced in the District Court in which the judgment was entered or order made or in any other District Court (and enforcement proceedings may be taken concurrently in accordance with section 79(6) in more than 1 District Court).
 
 ### 80 Enforcement of judgments more than 6 years old
 (1) No judgment or order of the court more than 6 years old shall be enforced without the leave of the court unless some payment has been made into court by or on behalf of the party liable therefor within the 12 months immediately before the issue of the proceedings for enforcement.
@@ -745,54 +768,117 @@ If at any time it appears to the satisfaction of a Judge exercising jurisdiction
 ### 84 Stay of proceedings on appeal
 Notice of appeal shall not operate as a stay of proceedings under the decision appealed from unless the court or a Judge so orders or the amount of the judgment or order appealed against and its cost is deposited with the Registrar to abide the event of the appeal, or security is given to the satisfaction of the Registrar for that amount.
 
-**Discovery in aid of execution**
+**Information about judgment debtor's means**
 
-### 84A Notice to judgment debtor to complete financial statement
-(1) Any person who has obtained a judgment or order for the payment of money may serve on the judgment debtor a notice in the prescribed form requiring him or her to complete and return to that person, within 14 days after the date on which the notice is served on the judgment debtor, a statement in the prescribed form of—
-  (a) the judgment debtor's income and expenditure for the preceding 52 weeks; and
-  (b) the judgment debtor's assets and liabilities.
-(2) An additional copy of the prescribed form, for the judgment debtor's own use, shall be served with the notice.
+### 84A Filing of financial statement
+(1) In this Act, financial statement means a statement, in a form approved by the chief executive of the Ministry of Justice, of a judgment debtor's—
+  (a) assets and liabilities; and
+  (b) income and expenditure for the preceding 52 weeks.
+(2) A financial statement may be completed by the judgment creditor or the judgment debtor.
+(3) If the financial statement is completed by the judgment creditor, the statement must include details of the source of the information contained in the statement and the date to which the information relates.
+(4) A completed financial statement may be filed in the court at any time after a judgment or order for the payment of money is entered or made.
+(5) The party who files a completed financial statement must serve a copy of the statement on the other party.
 
-### 84B Order for examination of judgment debtor
-(1) Whether or not a notice has been served pursuant to section 84A, any person who has obtained a judgment or order for the payment of a sum of money may apply to the court ex parte for an order that the judgment debtor or, if the judgment debtor is a corporation, an officer of the judgment debtor, do attend before the court and be orally examined as to the judgment debtor's income, expenditure, assets, liabilities, and generally as to the judgment debtor's means for satisfying the judgment debt.
-(2) Whether or not a notice has been served pursuant to section 84A, any judgment debtor may apply to the court ex parte for an order under subsection (1).
-(3) Upon granting the application, the court may order the production at the examination of any books or other documents, and may impose such terms and conditions as it shall think proper in respect of the conduct of the examination or otherwise.
-(4) Where the order has been made on the application of the judgment creditor, a copy of the order in the prescribed form shall be served personally upon the judgment debtor at least 3 days before the date of the examination, and, if requested by the judgment debtor, the person effecting the service shall at the time of service pay or tender to the judgment debtor the travel expenses estimated to be payable under the Witnesses and Interpreters Fees Regulations 1974.
-(5) Where the order has been made on the application of the judgment debtor, a copy of the order in the prescribed form shall be served personally upon the judgment creditor at least 3 days before the date of the examination.
-(6) The jurisdiction of the District Court under this section may be exercised by the Registrar.
+### 84B Notice to complete financial statement
+(1) If a judgment creditor serves a notice to complete a financial statement on the judgment debtor, the judgment debtor must, within 14 days after the date of service,—
+  (a) complete a financial statement; and
+  (b) return it to the judgment creditor.
+(2) The notice to complete a financial statement must be—
+  (a) in a form approved by the chief executive of the Ministry of Justice; and
+  (b) accompanied by 2 copies of the approved form for a financial statement (1 for the judgment debtor to complete and return, the other for the judgment debtor's use).
 
-### 84C Where judgment debtor does not appear at examination or order cannot be served
-(1) If—the order shall not be enforced by committal, but a Judge or a Registrar may issue a warrant to arrest the debtor.
-  (a) any order made under section 84B cannot be served on the judgment debtor; or
-  (b) the judgment debtor fails to appear before the District Court at the time and place specified in any order made under that section, or at any subsequent time and place to which the examination is adjourned,—
-(2) Where the judgment debtor is arrested pursuant to this section, the following provisions shall apply:
-  (a) the judgment debtor shall be brought before a Judge or a Registrar as soon as possible for the purpose of commencing or continuing the examination:
-  (b) the judgment debtor shall be bailable as of right:
-  (c) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 shall apply with any necessary modifications as if any such appearance at the examination before a Judge or Registrar constituted part of the hearing of a charge, and as if references in those provisions to a court included references to a Judge or Registrar:
-  (d) if the judgment debtor cannot practically be brought immediately before a Judge or a Registrar, then a Police employee or bailiff may grant bail to the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
+### 84C Court to request information about judgment debtor's means
+(1) If a judgment creditor makes an application in a form approved by the chief executive of the Ministry of Justice, the court must request the judgment debtor to provide the court with information about the judgment debtor's means for satisfying the judgment debt.
+(2) The request may be made by any means of communication that the court considers appropriate.
+(3) The information may be provided at any place and using any means of communication that the court considers appropriate; and the court may request the person providing the information to verify it on oath.
+(4) The jurisdiction of the court under this section may be exercised by the Registrar.
 
-### 84D Conduct of examination
-(1) An examination under section 84B shall be made orally on oath before a District Court Judge or Registrar.
-(2) The judgment debtor shall appear personally, and may be represented by a barrister or solicitor who may examine the judgment debtor and be heard on the matter of the judgment debtor's means for satisfying the judgment.
-(3) The judgment debtor may be cross-examined by or on behalf of the judgment creditor.
-(4) Any witness may be cross-examined by or on behalf of the judgment debtor or judgment creditor.
-(5) Any examination under section 84B may from time to time be adjourned by the court to a time and place to be appointed.
+### 84D Court may order hearing if information about judgment debtor's means not provided, etc
+(1) This section applies if—
+  (a) no information about the judgment debtor's means for satisfying the judgment debt is provided to the court following a request under section 84C; or
+  (b) the court wishes to obtain information about the judgment debtor's means for satisfying the judgment debt in addition to information provided under section 84C before exercising its powers under section 84EC; or
+  (c) a person providing information to the court under section 84C refuses to verify it on oath.
+(2) The court may issue a summons, in a form approved by the chief executive of the Ministry of Justice, requiring the judgment debtor or, if the judgment debtor is a body corporate, an officer of the judgment debtor to attend a hearing and be questioned by the court about the judgment debtor's means for satisfying the judgment debt.
+(3) If the court issues a summons, the court may also—
+  (a) order any of the judgment debtor's books or other documents to be produced at the hearing:
+  (b) order that the hearing be held at a place other than in a court:
+  (c) impose such other terms and conditions as the court thinks proper in respect of the hearing.
+(4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)(a) and, at the same time as the summons is served, the judgment debtor must be notified of the court's power to cancel the hearing in the circumstances referred to in subsection (6).
+(5) The hearing must not be held until at least 3 working days or any shorter period agreed by the judgment debtor has passed after the date on which the summons was served.
+(6) The court may cancel a hearing if, before the date of the hearing,—
+  (a) such information about the judgment debtor's means for satisfying the judgment debt is provided that, in the opinion of the court, it is unnecessary for the hearing to take place; and
+  (b) if the court so requests, the person providing the information verifies it on oath.
+(7) If a hearing takes place,—
+  (a) the judgment debtor or, if the judgment debtor is a body corporate, an officer of the judgment debtor must appear in person:
+  (b) the court may require the judgment debtor or officer and any witness to take an oath before giving evidence:
+  (c) the judgment debtor may be represented by a barrister or solicitor who may question the judgment debtor or officer and be heard on the matter of the judgment debtor's means for satisfying the judgment debt:
+  (d) the judgment debtor or officer may be questioned by the court:
+  (e) any witness may be questioned by or on behalf of the judgment debtor or by the court.
+(8) A hearing may from time to time be adjourned by the court to a time and place to be appointed.
+(9) The jurisdiction of the court under this section may be exercised by the Registrar.
 
-### 84E Orders by court
-(1) Upon completion of an examination under section 84B, the District Court may, after giving the judgment creditor and judgment debtor an opportunity to be heard, do any 1 or more of the following:
-  (a) direct that 1 or more of the proceedings referred to in section 79(1) be commenced or continued, as the case may be, and also direct any steps to be taken in such proceedings, and, for any such purpose, issue any warrant or summons or make any order:
-  (b) make an order that the money owing under the judgment be paid by such instalments payable at such times as the court may fix:
-  (c) stay any proceedings for the enforcement of the judgment:
-  (d) make an order varying any order relating to the enforcement of the judgment made under this Act.
-(2) The court may do any 1 or more of the things referred to in subsection (1) as it considers appropriate, notwithstanding—
-  (a) that no application was made for the direction, order, or stay in question; or
-  (b) that application was made for a different direction, order, or stay.
-(3) The jurisdiction of the District Court under this section may be exercised by the Registrar.
+### 84E Application for financial assessment hearing
+(1) This section applies if a judgment creditor applies, in a form approved by the chief executive of the Ministry of Justice, for a hearing (a financial assessment hearing) for the judgment debtor or, if the judgment debtor is a body corporate, an officer of the judgment debtor to be questioned about the judgment debtor's means for satisfying the judgment debt.
+(2) The court must issue a summons, in a form approved by the chief executive of the Ministry of Justice, requiring the judgment debtor or an officer of the judgment debtor to attend the hearing.
+(3) The court may also—
+  (a) order any of the judgment debtor's books or other documents to be produced at the hearing:
+  (b) order that the hearing be held at a place other than in a court:
+  (c) impose such other terms and conditions as the court thinks proper in respect of the hearing.
+(4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)(b).
+(5) The hearing must not be held until at least 3 working days or any shorter period agreed by the parties has passed after the date on which the summons was served.
+(6) The court may cancel a hearing at the request of the judgment creditor.
+(7) The jurisdiction of the court under this section may be exercised by the Registrar.
+
+### 84EA Power to arrest judgment debtor or officer
+(1) This section applies if a summons issued under section 84D or 84E cannot be served on a judgment debtor.
+(2) This section also applies if—
+  (a) a summons was served on a judgment debtor at least 3 working days or any shorter period agreed under section 84D(5) or 84E(5) before the date of the hearing to which the summons relates; but
+  (b) the judgment debtor fails to appear in person at the hearing or at any subsequent adjournment of the hearing.
+(3) This section applies in relation to a judgment debtor that is a body corporate if—
+  (a) a summons was served on an officer of the judgment debtor (the relevant officer) at least 3 working days or any shorter period agreed under section 84D(5) or 84E(5) before the date of the hearing to which the summons relates; and
+  (b) an officer of the judgment debtor (whether or not the relevant officer) fails to appear in person at the hearing or at any subsequent adjournment of the hearing.
+(4) The summons must not be enforced by committal, but a Judge or Registrar may issue a warrant to arrest the judgment debtor or relevant officer.
+(5) If the judgment debtor or relevant officer is arrested under this section, the following provisions apply:
+  (a) the judgment debtor or relevant officer must be brought before a Judge or Registrar as soon as possible for the purpose of commencing or continuing the hearing:
+  (b) the judgment debtor or relevant officer is bailable as of right:
+  (c) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if an appearance at the hearing before a Judge or Registrar constituted part of the hearing of a charge, and as if references in those provisions to a court included references to a Judge or Registrar:
+  (d) if the judgment debtor or relevant officer cannot practicably be brought immediately before a Judge or Registrar, then a Police employee or bailiff may grant bail to the judgment debtor or relevant officer, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
+(6) In this section, summons means—
+  (a) a summons to attend a hearing under section 84D:
+  (b) a summons to attend a financial assessment hearing.
+
+### 84EB Financial assessment hearing
+(1) The judgment debtor or, if the judgment debtor is a body corporate, an officer of the judgment debtor must appear in person at a financial assessment hearing.
+(2) The court may require the judgment debtor or officer and any witness to take an oath before giving evidence.
+(3) The judgment debtor may be represented at the hearing by a barrister or solicitor who may question the judgment debtor or officer and be heard on the matter of the judgment debtor's means for satisfying the judgment debt.
+(4) The judgment debtor or officer may be questioned by or on behalf of the judgment creditor or by the court.
+(5) Any witness may be questioned by or on behalf of the judgment creditor or judgment debtor or by the court.
+(6) A financial assessment hearing may from time to time be adjourned by the court to a time and place to be appointed.
+(7) The jurisdiction of the court under this section may be exercised by the Registrar.
+
+### 84EC Orders by court following filing of financial statement, etc
+(1) This section applies if, after a judgment or order for the payment of money has been entered or made,—
+  (a) a financial statement is filed in the court; or
+  (b) the judgment debtor provides the court with information about the judgment debtor's means for satisfying the judgment debt under section 84C; or
+  (c) a hearing under section 84D or a financial assessment hearing takes place.
+(2) The court may do any 1 or more of the following:
+  (a) direct that 1 or more of the proceedings referred to in section 79(1) be commenced or continued (as the case may be), and direct that any steps be taken in such proceedings, and, for any such purpose, issue any warrant or summons or make any order:
+  (b) make an attachment order under section 84G:
+  (c) order that the money owing under the judgment or order be paid in instalments:
+  (d) stay any proceedings to enforce the judgment or order:
+  (e) vary any order made under this Act relating to the enforcement of the judgment or order.
+(3) The court may do any of the things referred to in subsection (2) even though—
+  (a) no application is made for the direction, order, or stay in question; or
+  (b) an application is made for a different direction, order, or stay; or
+  (c) no hearing takes place; or
+  (d) in a case where a financial statement is filed in the court by 1 party, the other party has not had the opportunity to make representations to the court about the financial statement.
+(4) The jurisdiction of the court under this section may be exercised by the Registrar.
 
 **Attachment orders**
 
 ### 84F Interpretation
 In sections 84G to 84M, unless the context otherwise requires,—
+  - **earnings period** has the meaning given by section 84H
   - **employer** , in relation to a judgment debtor, includes,—
     (a) a person by whom a retiring allowance or pension or other payment of a similar nature is payable to the judgment debtor:
     (b) the Accident Compensation Corporation in respect of weekly compensation payable to the judgment debtor under the Injury Prevention, Rehabilitation, and Compensation Act 2001:
@@ -806,52 +892,61 @@ In sections 84G to 84M, unless the context otherwise requires,—
     (c) a benefit within the meaning of the Social Security Act 1964.
 
 ### 84G Attachment orders
-(1) The court may, on the application of the judgment creditor at any time after judgment has been entered, make an attachment order under this section.
-(2) No attachment order shall be made unless the judgment debtor has been examined under section 84B.
-(3) An attachment order may be made against a person who is proved to the satisfaction of the court to be an employer of the judgment debtor.
-(4) The attachment order shall specify the person to whom the amounts to be deducted are to be paid.
-(5) Every attachment order may be made for a fixed period or so as to remain in force until the judgment debt has been paid in full.
-(6) Every attachment order shall specify an amount (known as the protected earnings rate) below which the net earnings or benefit paid to the judgment debtor shall not be reduced by reason of compliance with the order.
-(7) No attachment order under this Act shall operate so that, together with—the net earnings or any benefit of the judgment debtor are reduced below the protected earnings rate, and, where necessary, the specified amount to be deducted in any attachment order under this Act shall be reduced or cancelled accordingly.
-  (a) any attachment order under any other Act; and
-  (b) any deduction notice made under the Family Proceedings Act 1980 or issued under section 27Y of the Social Security Act 1964; and
-  (c) in the case of a benefit within the meaning of the Social Security Act 1964, any adjustment to or deduction from benefit under section 27X or section 86 of that Act,—
-(8)
-(9) Nothing in section 84 of the Social Security Act 1964 shall apply to an attachment order under this section.
-(10) The jurisdiction of the District Court under this section may be exercised by the Registrar.
+(1) The court may make an attachment order to enforce a judgment or order for the payment of money—
+  (a) in the circumstances referred to in section 79(5C); or
+  (b) in the circumstances referred to in section 84EC(1); or
+  (c) on the application of the judgment creditor or judgment debtor.
+(2) If an application is made under subsection (1)(c),—
+  (a) the party who makes the application must serve a copy of it on the other party; and
+  (b) the court may make the attachment order even though the other party has not had the opportunity to make representations to the court about the application.
+(3) If an attachment order is made, it must be served on the employer to whom the order relates, the judgment creditor, and the judgment debtor.
+(4) Except as otherwise ordered by the court, an attachment order takes effect when a copy of the order is served on the employer.
+(5) The jurisdiction of the court under this section may be exercised by the Registrar.
 
-### 84H Attachment order to be served on employer
-(1) Where an attachment order is made, a copy of the order shall be served on the employer to whom it relates, either personally or by leaving it at the employer's place of residence or business, or by sending it by letter addressed to the employer at the employer's place of residence or business.
-(2) Where service of an attachment order is effected by letter, then, in the absence of proof to the contrary, the order shall be deemed to have been served on the fourth working day after the day on which it was posted, and in proving service it shall be sufficient to prove that the letter was properly addressed and posted.
-(3) Every attachment order shall take effect when a copy of the order is served on the employer in accordance with this section.
+### 84H Content of attachment orders
+An attachment order must be in a form approved by the chief executive of the Ministry of Justice and must specify—
+  (a) the employer to whom the order relates; and
+  (b) whether deductions are to be made every week, fortnight, or month, or by reference to some other period (the earnings period); and
+  (c) the amount or percentage to be deducted from the judgment debtor's salary or wages for the earnings period; and
+  (d) the amount or percentage below which the net amount paid to the judgment debtor for the earnings period must not fall; and
+  (e) the name and address of the person to whom the amounts deducted are to be paid; and
+  (f) that the order is to remain in force until the judgment debt has been paid in full or, if the order is to remain in force for a fixed period, that period.
 
 ### 84I Effect of attachment orders
-(1) An attachment order shall direct that the money due and payable under the judgment shall, by way of weekly payments of such amount as is specified in the attachment order, be a charge on any salary or wages that from time to time while the attachment order remains in force become due and payable by the employer to the judgment debtor.
+(1) An attachment order shall direct that the money due and payable under the judgment shall, by way of sums of such amount, and payable by reference to such earnings period, as is specified in the attachment order, be a charge on any salary or wages that from time to time while the attachment order remains in force become due and payable by the employer to the judgment debtor.
 (2) The charge so created—
-  (a) shall accrue from week to week, and on such day of the week as is specified in the attachment order; and
+  (a) shall accrue from earnings period to earnings period, and on such day of the earnings period as is specified in the attachment order; and
   (b) shall attach to all salary or wages that become due by the employer to the judgment debtor at any time while the attachment order is in force, whether or not the contract of employment in respect of which the salary or wages so become due existed at the date of the attachment order; and
-  (c) shall be subject to—(whether the charge was created or the adjustment or deduction was authorised before or after the making of the attachment order under this Act); but
-    (i) any charge created by any attachment order or deduction notice made under the Family Proceedings Act 1980:
-    (ii) any charge created by any attachment order made under the Summary Proceedings Act 1957:
-    (iii) any deduction notice issued under the Child Support Act 1991:
-    (iiia) any deduction notice issued under section 157 of the Tax Administration Act 1994 (as applied by section 193 of the Student Loan Scheme Act 2011):
-    (iv) in the case of an attachment order against a benefit within the meaning of the Social Security Act 1964, any deduction from or adjustment to that benefit under section 86 of that Act,—
+  (c) shall be subject to any charge created by an attachment order under the Family Proceedings Act 1980 or the Summary Proceedings Act 1957 and to any item referred to in subsection (5)(a) and (b) (whether created, issued, or authorised before or after the date on which the order referred to in subsection (1) was made); but
   (d) shall prevail over and have priority to any assignment or charge created by the judgment debtor (whether before or after the making of the attachment order under this Act), and so that the attachment order shall have the same effect as if no such assignment or charge had been made or created by the judgment debtor.
+(3) Despite subsections (1) and (2), no attachment order is to operate so that, when its effect is considered either alone or with the effect of any item referred to in subsection (5), the net amount paid to a judgment debtor for an earnings period is below the protected earnings rate for the earnings period; and, where necessary, the amount to be deducted from the judgment debtor's salary or wages for the earnings period is treated as being reduced or cancelled accordingly.
+(4) Nothing in section 84 of the Social Security Act 1964 applies to an attachment order.
+(5) The items are—
+  (a) a deduction notice under the Child Support Act 1991, the Family Proceedings Act 1980, the Social Security Act 1964, or the Tax Administration Act 1994:
+  (b) a deduction for the recovery of payments under section 86 of the Social Security Act 1964:
+  (c) a charge created by an attachment order under this or any other Act.
+(6) In this section,—
+  - **net earnings** , in relation to an earnings period, means the balance left after deducting from the judgment debtor's salary or wages for the earnings period the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the Income Tax Act 2007 if the salary or wages were the only salary or wages paid to the judgment debtor by the employer for the earnings period
+  - **protected earnings rate** , in relation to an earnings period, means the higher of—
+    (a) 60% of net earnings for the earnings period; and
+    (b) the amount or percentage referred to in section 84H(d).
 
 ### 84J Liability of employer
-(1) Subject to section 84G(7), as long as an attachment order remains in force, the employer to whom it relates shall from time to time, whenever any money becomes due and payable by the employer to the judgment debtor by way of salary or wages,—
+(1) Subject to section 84I(3), as long as an attachment order remains in force, the employer to whom it relates shall from time to time, whenever any money becomes due and payable by the employer to the judgment debtor by way of salary or wages,—
   (a) deduct from that money such sum as is sufficient to satisfy the charge on the money so far as the same has accrued before the day on which the salary or wages becomes due and payable; and
   (b) not later than the 20th day of the month next after the month in which the deduction is made, pay the amount so deducted to the person specified in the attachment order.
 (2) All sums so deducted and paid shall be deemed to have been paid by the employer in satisfaction of the salary or wages payable by the employer to the judgment debtor.
 (3) All sums so deducted shall be deemed to have been paid by the judgment debtor in satisfaction of the judgment debtor's liability to pay the judgment debt.
-(4) Where a judgment debtor in respect of whom an attachment order is in force leaves or is dismissed from the employment of the employer, the employer shall within 7 days notify the Registrar of the court in which the attachment order was issued.
+(4) If the judgment debtor gives notice of resignation, or is given notice of dismissal, from the employment of the employer to whom the attachment order relates, the employer must, within 7 days after receiving or giving the notice, notify the person referred to in section 84H(e) of the date of the last day of the judgment debtor's employment.
+(4A) If the employer to whom the attachment order relates ceases to pay salary or wages to the judgment debtor for a reason other than the judgment debtor's dismissal or resignation from the employment of the employer, the employer must, within 7 days after ceasing to pay the salary or wages, notify the person referred to in section 84H(e) of the day on which the salary or wages ceased to be paid.
 (5) Where the employer makes default in the payment of any money in satisfaction of any such charge, that money shall become a debt due by the employer to the judgment creditor, and may be recovered by the judgment creditor by action in any court of competent jurisdiction.
 (6) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who fails without reasonable excuse to comply with paragraph (a) or paragraph (b) of subsection (1).
 
 ### 84K Wrongful treatment of employee
-(1) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who dismisses any employee or alters any employee's position in the employer's business or undertaking to the employee's prejudice by reason of an attachment order having been served on the employer.
-(2) In the prosecution for an offence against subsection (1) in which it is proved that the employer, within 6 months after the serving on the employer of an attachment order in respect of any employee, dismissed the employee or altered the employee's position in the employer's business or undertaking to the employee's prejudice, it shall be deemed to be proved that the action was taken by reason of the order having been served on the employer unless the employer proves to the contrary.
-(3) This section also applies to attachment orders made in the High Court.
+Every employer commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who dismisses any employee or alters any employee's position in the employer's business or undertaking to the employee's prejudice by reason of—
+  (a) the employee having been ordered to pay money owing under 1 or more judgments or orders imposed by a District Court or the High Court for the payment of a sum of money; or
+  (b) an attachment order having been served on the employer; or
+  (c) the employer becoming aware that an attachment order is being made or has been made in respect of the employee.
 
 ### 84L Extent to which attachment orders bind the Crown
 (1) In this section—
@@ -867,74 +962,101 @@ In sections 84G to 84M, unless the context otherwise requires,—
     (d) includes any person serving in any of the New Zealand Armed Forces:
     (e) includes a person to whom any retiring allowance or pension or other payment of a similar nature is payable out of the Government Superannuation Fund or the National Provident Fund.
 (2) Sections 84G to 84K and section 84M shall bind the Crown to the extent of and subject to subsections (3) and (4).
-(3) Where the judgment debtor is a servant of the Crown, an attachment order may be made against the Crown as employer, and—
-  (a) the employing department shall be named in the order as the employer; and
-  (b) service of the order shall be effected on the chief executive of the employing department, and also on any officer of the Crown (described by the name of the office, the name of the department, and the place where the officer is stationed) specified in the order; and
-  (c) service of the order shall be effected in accordance with section 84H, and, where service is effected by post, it shall be sufficient if the letter is addressed to the person to be served by that person's official title or any sufficient description without that person's personal name.
+(3) If the judgment debtor is a servant of the Crown, an attachment order may be made against the Crown as employer.
 (4) Where the judgment debtor is entitled to a benefit within the meaning of the Social Security Act 1964, an attachment order may be made against the chief executive of the department for the time being responsible for the administration of that Act, and—
-  (a) service of the order must be effected by leaving a copy of the order at, or sending a copy of the order by post to,—
-    (i) the District Office of that department nearest to the judgment debtor's place of residence; or
-    (ii) an address notified by the chief executive of that department to the chief executive of the Ministry of Justice; and
+  (a) service of the order must be effected—
+    (i) by leaving a copy of the order at, or sending a copy of the order by post to, either the District Office of the department nearest to the judgment debtor's place of residence or an address notified by the chief executive of the department to the chief executive of the Ministry of Justice; or
+    (ii) by sending the order in electronic form to an email address notified by the chief executive of the department to the chief executive of the Ministry of Justice; and
   (b) section 84K shall not apply.
 
 ### 84M Variation, suspension, and discharge of attachment orders
-(1) Any attachment order may at any time be varied, suspended, or discharged by a District Court, on the application on notice of the judgment creditor or judgment debtor, on good cause being shown to the satisfaction of the court why the order should be so varied, suspended, or discharged.
-(2) The variation, suspension, or discharge shall take effect when notice of it is served on the employer in accordance with section 84H.
-(3) The jurisdiction of a District Court under this section may be exercised by the Registrar of the court.
+(1) A judgment creditor or judgment debtor may apply to the court at any time for an attachment order to be varied, suspended, or discharged.
+(2) The party who makes an application under subsection (1) must serve a copy of the application on the other party.
+(3) If an application under subsection (1) is made, the court may vary, suspend, or discharge the attachment order if good cause is shown to the satisfaction of the court why the order should be so varied, suspended, or discharged.
+(4) The court may vary, suspend, or discharge the attachment order even though the other party has not had the opportunity to make representations to the court about the application.
+(5) If an attachment order is varied, suspended, or discharged under subsection (3), notice of the variation, suspension, or discharge must be served on the employer to whom the order relates, the judgment creditor, and the judgment debtor.
+(6) A variation, suspension, or discharge of an attachment order takes effect when the notice referred to in subsection (5) is served on the employer, unless (in the case of a discharge) subsection (7) applies.
+(7) An attachment order may also be discharged at any time by written notice from the judgment creditor to the employer to whom the order relates; and the discharge takes effect when the notice is given to the employer.
+(8) The jurisdiction of the court under this section may be exercised by the Registrar.
 
 **Review of Registrar's decision**
 
 ### 84N Review of Registrar's decision
-(1) Any person affected by any order or direction made by a Registrar under section 84B or section 84C or section 84E or section 84G or section 84M may apply to a District Court Judge for a review of the order or direction.
-(2) Every such application shall be made within 21 days of the making of the order or direction, or within such further time as a Judge, on application, may allow.
+(1) Any person affected by any order or direction made by a Registrar under section 84EA or section 84EC or section 84G or section 84M may apply to a District Court Judge for a review of the order or direction.
+(1A) However, a judgment creditor may apply for a review of an order or direction made by a Registrar under section 84EC or 84G only if a financial assessment hearing that was attended by the judgment creditor or his or her representative has taken place.
+(2) An application under subsection (1) shall be made within 21 days of the making of the order or direction, or within such further time as a Judge, on application, may allow.
 (3) The Judge may, on receiving any such application, order that any such order or direction shall be suspended pending the review.
 (4) On any such review the Judge may confirm, rescind, or vary the Registrar's order or direction, and the order or direction shall have effect, or cease to have effect, accordingly.
 
 **Contempt**
 
 ### 84O Contempt procedures
-(1) Where—the court may, on the application of the judgment creditor, order the respondent to do community work for a number of hours, not exceeding 200 hours, as the court thinks fit.
-  (a) a judgment debtor has been examined under section 84B; and
-  (b) the court is satisfied beyond reasonable doubt that—
-    (i) the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; and
-    (ii) all other methods of enforcing the judgment have been considered or tried and are inappropriate or unsuccessful,—
-(2) Every application under subsection (1) shall be supported by an affidavit setting out the details of the judgment debtor's alleged disobedience.
-(3) A copy of the application and affidavit referred to in subsection (2) shall be served on the judgment debtor.
-(4) If a copy of that application and affidavit cannot be served on the judgment debtor, or if the judgment debtor fails to appear at the hearing of the application, the Judge may issue a warrant to arrest the judgment debtor and bring the judgment debtor before the court as soon as possible.
-(5) A warrant under subsection (4) shall cease to have effect if the judgment debtor pays, or causes to be paid, the amount due under the judgment debt.
-(6) Where a judgment debtor is arrested under a warrant issued under subsection (4), the following provisions shall apply:
-  (a) the judgment debtor shall be bailable as of right:
-  (b) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 shall apply, with such modifications as may be necessary, as if the application under subsection (1) was the hearing of a charge:
-  (c) if the judgment debtor cannot practically be brought immediately before a Judge or a Registrar, then a Police employee or bailiff may grant bail to the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
-(7) An order made under subsection (1) shall have effect as if the judgment debtor, following conviction, had been sentenced to community work, and the relevant provisions of Part 2 of the Sentencing Act 2002, with any necessary modifications, shall apply accordingly.
-(8) Where a District Court, acting under this section, orders a respondent to do community work, the judgment debtor shall have the same right of appeal to the High Court against the order as the judgment debtor would have had if the judgment debtor had been convicted and sentenced by the District Court.
-(9) Detention pursuant to this section shall not operate to extinguish or affect the liability of the judgment debtor to pay the judgment debt.
-(10) Section 30 of the Sentencing Act 2002 applies in relation to this section as if the District Court were imposing a sentence of imprisonment.
+(1) No order may be made under subsection (3) unless any of the circumstances described in subsection (2) apply and the court is satisfied beyond reasonable doubt that—
+  (a) the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; and
+  (b) all other methods of enforcing the judgment have been considered or tried and are inappropriate or unsuccessful.
+(2) The circumstances referred to in subsection (1) are as follows:
+  (a) a financial statement has been filed in court:
+  (b) the court has been provided with information about the judgment debtor's means for satisfying the judgment debt under section 84C:
+  (c) a hearing under section 84D or a financial assessment hearing has taken place.
+(3) The court may, on the application of a judgment creditor, order the judgment debtor to do community work, not exceeding 200 hours, as the court thinks fit.
+(4) Alternatively, the court may impose any of the orders referred to in section 79(1), (3), or (4) or do any of the things referred to in section 84EC(2) instead of or in addition to ordering the judgment debtor to do community work under subsection (3).
+(5) An order made under subsection (3) has effect as if it were a sentence of community work, and the relevant provisions of Part 2 of the Sentencing Act 2002, with any necessary modifications, apply accordingly.
+(6) If a District Court, acting under this section, orders a respondent to do community work, the judgment debtor has the same right of appeal to the High Court against the order as the judgment debtor would have had if the judgment debtor had been convicted and sentenced by the District Court before a Judge alone in relation to a charge.
+(7) An order made under subsection (3) does not operate to extinguish or affect the liability of the judgment debtor to pay the judgment debt.
+
+### 84OA Process for dealing with application for contempt procedures
+(1) On receipt of an application under section 84O(3), the Registrar must—
+  (a) appoint a time and place for the hearing of the application if satisfied, on the basis of information provided with the application, that the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; or
+  (b) if not so satisfied, refer the application to a Judge.
+(2) On the referral of the application under subsection (1)(b), the Judge must—
+  (a) deal with the application on the papers; and
+  (b) consider whether he or she is satisfied, on the basis of information provided with the application, that the judgment debtor has sufficient means to pay the judgment debt but refuses to do so.
+(3) If the Judge is so satisfied, he or she must direct the Registrar to appoint a time and place for the hearing of the application.
+(4) If the Judge is not so satisfied, he or she must decline the application.
+(5) If the Registrar appoints a time and place for the hearing of the application under subsection (1)(a) or (3), the judgment debtor must be served with a copy of the application, and a notice of the time and place so appointed, by a person referred to in section 108A(3)(c).
+(6) The Registrar must notify the judgment creditor of the time and place so appointed.
+(7) If the application is declined under subsection (4), the Registrar must notify the judgment creditor that the application has been declined.
+
+### 84OB Warrant to arrest may be issued if judgment debtor cannot be served or fails to appear at hearing
+(1) If a copy of the application cannot be served on the judgment debtor under section 84OA(5), or if the judgment debtor fails to appear at the hearing of the application, a Judge or Registrar may issue a warrant to arrest the judgment debtor and bring the judgment debtor before the court as soon as possible.
+(2) A warrant under subsection (1) ceases to have effect if the judgment debtor pays, or causes to be paid, the amount due under the judgment debt.
+(3) If a judgment debtor is arrested under a warrant issued under subsection (1), the following provisions apply:
+  (a) the judgment debtor must be brought before a Judge or, if a Judge is not available, the Registrar:
+  (b) if the judgment debtor is brought before the Registrar, the Registrar must appoint a time and place for the judgment debtor to appear before a Judge for the purpose of commencing or continuing the hearing:
+  (c) the judgment debtor is bailable as of right:
+  (d) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 apply, with any modifications that may be necessary, as if the hearing of the application referred to in subsection (1) were the hearing of a charge:
+  (e) if the judgment debtor cannot practicably be brought immediately before a Judge or Registrar, then a Police employee or bailiff may grant bail to the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
 
 ### 84P Application of Part 1 of Legal Services Act 1991
 [Repealed]
 
 ### 84Q Judgment debtor doing community work to be discharged on payment
 (1) Where a judgment debtor is doing community work pursuant to an order under section 84O, the judgment debtor may pay, or cause to be paid, the amount due in respect of the judgment debt.
-(2) If the judgment debtor pays, or causes to be paid, the amount due, a probation officer, on being notified by the Registrar of the payment of that sum, must notify the judgment debtor that he or she is no longer required to report to a community work centre, unless there is some other reason for the judgment debtor being required to report.
+(2) If the judgment debtor pays, or causes to be paid, the amount due, a probation officer, on being notified by the Registrar of the payment of that sum, must notify the judgment debtor that he or she is no longer required to report for community work, unless there is some other reason for the judgment debtor being required to report.
 
-**Warrant of distress**
+**Warrants to seize property**
 
-### 85 Warrant of distress
-(1) A warrant of distress shall require the bailiff or constable to whom it is directed to levy or cause to be levied such sum of money as is adjudged or ordered to be paid, or so much thereof as then remains unpaid, and also the costs of the execution, and of previous proceedings (if any) for the enforcement of the judgment or order, by seizure and sale of the goods and chattels of the person liable under the judgment or order, and the warrant shall authorize the bailiff or constable aforesaid to seize—
+### 85 Warrant to seize property
+(1) A warrant to seize property shall require the bailiff or constable to whom it is directed to levy or cause to be levied such sum of money as is adjudged or ordered to be paid, or so much thereof as then remains unpaid, and also the costs of the execution, and of previous proceedings (if any) for the enforcement of the judgment or order, by seizure and sale of the goods and chattels of the person liable under the judgment or order, and the warrant shall authorize the bailiff or constable aforesaid to seize—
   (a) any of the goods and chattels of that person, except his necessary tools of trade to a value not exceeding $500 and his necessary household furniture and effects, including the wearing apparel of himself and his family to a value not exceeding $2,000; and
   (b) any money, bank notes, bills of exchange, promissory notes, bonds, specialties, or other securities for money belonging to that person.
 (2) The Governor-General may from time to time, by Order in Council, amend subsection (1) by increasing any amount specified in that subsection.
+(3) A warrant to seize property must be in a form approved by the chief executive of the Ministry of Justice.
 
 ### 85A Immobilisation of motor vehicles
-(1) A bailiff or constable executing a distress warrant may, instead of seizing a motor vehicle under a warrant of distress, immobilise the vehicle by attaching to it any device designed for the purpose, pending payment of the unpaid sum.
+(1) A bailiff or constable executing a warrant to seize property may, while seizing, or instead of seizing, a motor vehicle, immobilise the vehicle by attaching to it any device designed for the purpose, pending payment of the unpaid sum.
 (2) No vehicle may be immobilised under subsection (1) unless, at the time of its immobilisation, the vehicle—
   (a) is on private property; or
   (b) is in a public place and the bailiff or constable is satisfied that immobilising the vehicle will not cause undue inconvenience to other persons.
 (3) If a motor vehicle is immobilised under this section, a bailiff or constable—
   (a) may seize the vehicle at any time:
   (b) must, on the direction of the Registrar, seize the vehicle.
-(4) A person commits an offence if, without reasonable excuse, he or she tampers with, removes, or attempts to remove a device attached to a vehicle under subsection (1).
+(4) A person commits an offence if, without reasonable excuse, the person—
+  (a) tampers with, removes, or attempts to remove a device attached to a motor vehicle under subsection (1); or
+  (b) removes, or attempts to remove,—
+    (i) a motor vehicle to which a device is, or has been, attached; or
+    (ii) any part of that vehicle; or
+    (iii) any other property from that vehicle.
 (5) A person who commits an offence under subsection (4) is liable on conviction to a fine not exceeding $1,000.
 
 ### 86 Disposal of bills of exchange, etc, seized
@@ -942,46 +1064,56 @@ In sections 84G to 84M, unless the context otherwise requires,—
 (2) The said party may sue in the name of the person against whom execution has issued, or in the name of any person in whose name the person against whom execution has issued might have sued, for the recovery of the sum or sums secured or made payable thereby when the time of payment thereof arrives.
 
 ### 87 Penalty for rescue of goods seized
-If any person rescues or attempts to rescue any goods seized in execution under a warrant of distress, he shall be liable, either on an order made by the Judge in that behalf or on conviction, to a fine not exceeding $300, and any bailiff of the court or constable may take him into custody, with or without warrant, and bring him before the Judge.
+If any person rescues or attempts to rescue any goods seized in execution under a warrant to seize property, he shall be liable, either on an order made by the Judge in that behalf or on conviction, to a fine not exceeding $300, and any bailiff of the court or constable may take him into custody, with or without warrant, and bring him before the Judge.
 
 **Sale of goods seized**
 
 ### 88 Period to elapse before sale
-No goods seized in execution under a distress warrant shall be sold for the purpose of satisfying the warrant until the expiration of a period of at least 5 days next following the day on which the goods have been so seized unless—
+No goods seized in execution under a warrant to seize property shall be sold for the purpose of satisfying the warrant until the expiration of a period of at least 7 days next following the day on which the goods have been so seized unless—
   (a) the goods are of a perishable nature; or
   (b) the person whose goods have been seized so requests in writing.
 
 ### 89 Sale of goods by public auction unless otherwise ordered
-(1) Goods seized in execution under a warrant of distress shall be sold by public auction unless a court otherwise orders.
-(2) Any bailiff authorized to execute a warrant of distress may, with the prior written authority of the Registrar, sell by auction the goods and chattels seized thereunder without having taken out an auctioneer's licence, anything in the Auctioneers Act 1928 or in any other enactment or rule of law to the contrary notwithstanding.
+(1) Goods seized in execution under a warrant to seize property shall be sold by public auction unless a court otherwise orders.
+(2) Any bailiff authorized to execute a warrant to seize property may, with the prior written authority of the Registrar, sell by auction the goods and chattels seized thereunder without having taken out an auctioneer's licence, anything in the Auctioneers Act 1928 or in any other enactment or rule of law to the contrary notwithstanding.
+(3) The jurisdiction of a court under this section may be exercised by the Registrar.
 
 ### 90 Protection of bailiff selling goods under execution without notice of claim by third party
-(1) Where any goods in the possession of an execution debtor at the time of seizure by a bailiff charged with the enforcement of a distress warrant issued from a court are sold by the bailiff without any claim having been made to them—
-  (a) the purchaser of the goods so sold shall acquire a good title to those goods; and
+(1) Where any goods in the possession of an execution debtor at the time of seizure by a bailiff charged with the enforcement of a warrant to seize property issued from a court are sold by the bailiff without any claim having been made to them—
+  (a) the purchaser of the goods so sold shall acquire a good title to those goods free of all ownership interests and other proprietary interests held in them before the sale; and
   (b) no person shall be entitled to recover against the bailiff, or anyone lawfully acting under his authority, for any sale of the goods, or for paying over the proceeds thereof prior to receipt of a claim to the goods, unless it is proved that the person from whom recovery is sought had notice, or might by making reasonable inquiry have ascertained, that the goods were not the property of the execution debtor.
 (2) Nothing in this section shall affect the right of any claimant, who may prove that at the time of sale he had a title to any goods so seized, to any remedy to which he may be entitled against any person other than the bailiff.
 (3) The provisions of this section shall have effect subject to the sections 108 to 112 of the Insolvency Act 2006 and sections 251 and 252 of the Companies Act 1993.
 
 ### 91 Procedure when goods seized are secured under bill of sale
-Where goods have been seized under a warrant of distress, and some third person claims under a bill of sale or otherwise to be entitled to the goods by way of security for a debt, a Judge may order a sale of the whole or part of the goods upon such terms as to payment of the whole or part of the secured debt or otherwise as he thinks fit, and may direct the application of the proceeds of the sale in such manner and upon such terms as he deems just.
+(1) Where goods have been seized under a warrant to seize property, and some third person claims under a bill of sale or otherwise to be entitled to the goods by way of security for a debt, a Judge may order a sale of the whole or part of the goods upon such terms as to payment of the whole or part of the secured debt or otherwise as he thinks fit, and may direct the application of the proceeds of the sale in such manner and upon such terms as he deems just.
+(2) The purchaser of property sold under this section obtains, by virtue of this section, good title to the property free of all ownership interests and other proprietary interests held in the property before that sale.
+
+### 91A Personal property securities register to be checked
+(1) If property is seized under a warrant to seize property, the Registrar must, on the next working day after the property is seized, check whether a financing statement that relates to the property has been registered on the personal property securities register kept under the Personal Property Securities Act 1999.
+(2) If a financing statement has been registered, the bailiff must promptly notify the person named as the secured party in the financing statement of the following:
+  (a) that the court may, under section 89, sell the property after the expiration of 7 days from the date of seizure if the judgment debt remains unpaid and no claim has been made in respect of the property by a person other than the judgment debtor:
+  (b) the rights that may be available to the person under sections 93 and 94.
 
 **Claims in respect of goods seized**
 
 ### 92 Priority of High Court and District Court executions
-(1) Where a writ or warrant against the goods of a party has issued from the High Court, and a warrant of distress against the goods of the same party has issued under the provisions of this Act, the right to the goods seized shall be determined, as the case may be, by the priority of the time of the delivery of the writ or warrant to the Sheriff to be executed or of the application to the Registrar for the warrant of distress.
-(2) The Sheriff on demand shall, by writing signed by him, inform the bailiff to whom the warrant of distress is directed of the precise time of the delivery of the writ or warrant, and the bailiff of the District Court to whom the warrant of distress is directed shall on demand show the warrant to any Sheriff's officer, and such writing purporting to be so signed, and any endorsement on the warrant concerning the time of application to the Registrar for the warrant, shall respectively be sufficient justification to any Sheriff or bailiff acting thereon.
+(1) Where a writ or warrant against the goods of a party has issued from the High Court, and a warrant to seize property against the goods of the same party has issued under the provisions of this Act, the right to the goods seized shall be determined, as the case may be, by the priority of the time of the delivery of the writ or warrant to the Sheriff to be executed or of the application to the Registrar for the warrant to seize property.
+(2) The Sheriff on demand shall, by writing signed by him, inform the bailiff to whom the warrant to seize property is directed of the precise time of the delivery of the writ or warrant, and the bailiff of the District Court to whom the warrant to seize property is directed shall on demand show the warrant to any Sheriff's officer, and such writing purporting to be so signed, and any endorsement on the warrant concerning the time of application to the Registrar for the warrant, shall respectively be sufficient justification to any Sheriff or bailiff acting thereon.
 
 ### 93 Sale of goods where claim made thereto
-(1) Where a claim is made to or in respect of any goods seized in execution under a distress warrant issued out of a court, the claimant may—
+(1) Where a claim is made to or in respect of any goods seized in execution under a warrant to seize property issued out of a court, the claimant may—
   (a) deposit with the bailiff either—
     (i) the amount of the value of the goods claimed; or
     (ii) the sum which the bailiff is allowed to charge as costs for keeping possession of the goods until the decision of the Judge can be obtained on the claim; or
   (b) give the bailiff in the prescribed manner security for the value of the goods claimed.
 (2) For the purposes of this section, the amount of the value of the goods claimed shall, in case of dispute, be fixed by appraisement in the prescribed manner, and where the amount is deposited as aforesaid it shall be paid by the bailiff into court to abide the decision of the Judge upon the claim.
 (3) In default of the claimant complying with the foregoing provisions of this section, the bailiff shall sell the goods as if no such claim had been made, and shall pay into court the proceeds of the sale to abide the decision of the Judge.
+(4) The purchaser of property sold under this section obtains, by virtue of this section, good title to the property free of all ownership interests and other proprietary interests held in the property before that sale.
 
-### 94 Bailiff's interpleader
-(1) If a claim is made to or in respect of any goods or chattels seized in execution under a warrant of distress issued by a court, or in respect of the proceeds or value thereof, the bailiff may, before or after the return of the warrant, and whether an action has been commenced against him for such seizure or not, obtain from the Registrar a summons calling before the court the party at whose instance the process issued and the party making the claim.
+### 94 Third party claim process
+(1) If a claim is made to or in respect of any goods or chattels seized in execution under a warrant to seize property issued by a court, or in respect of the proceeds or value thereof, the bailiff may, before or after the return of the warrant, and whether an action has been commenced against him for such seizure or not, obtain from the Registrar a summons calling before the court the party at whose instance the process issued and the party making the claim.
+(1A) If a claim is made under section 93 in respect of property that is the subject of a financing statement registered on the personal property securities register kept under the Personal Property Securities Act 1999, the bailiff must obtain from the Registrar a summons calling before the court the party making the claim.
 (2) Upon the issue of the summons any action brought in any District Court or other court in respect of the claim or of any damage arising out of the execution of the warrant shall be stayed.
 (3) On the hearing of the summons, the Judge shall adjudicate upon the claim, and shall also adjudicate between the parties or either of them and the bailiff upon any claim to damages arising or capable of arising out of the execution of the warrant by the bailiff, and shall make such order in respect of any such claim and the costs of the proceedings as he thinks fit.
 
@@ -1060,7 +1192,7 @@ If at any time it appears to the satisfaction of a Judge that any person confine
 
 ### 104 Further proceedings if chattels not recovered
 (1) If the chattels are not recovered under the warrant aforesaid, application may be made to a Judge for an order or warrant of committal. The order or warrant of committal shall direct the committal of the person named therein for such period as the Judge thinks fit not exceeding 1 month.
-(2) If possession of the chattels is not recovered under the warrant referred to in the last preceding section, whether or not an order or warrant of committal is issued, the person entitled to the recovery of the chattels may obtain the issue of a warrant of distress for the value of the chattels, such value to be assessed in such manner as a Judge may direct.
+(2) If possession of the chattels is not recovered under the warrant referred to in the last preceding section, whether or not an order or warrant of committal is issued, the person entitled to the recovery of the chattels may obtain the issue of a warrant to seize property for the value of the chattels, such value to be assessed in such manner as a Judge may direct.
 
 **Liability and protection of officers**
 
@@ -1083,6 +1215,46 @@ No officer of a court in executing any warrant of the court, and no person at wh
 (1)
 (2)
 (3) In any proceeding commenced against a person for anything done in pursuance of this Act, the production of the warrant of the court shall be deemed sufficient proof of the authority of the court previous to the issue of the warrant.
+
+**Service**
+
+### 108A Service of documents under this Part
+(1) If a person is required to serve a document under sections 84A to 94, the requirement may be met in any of the following ways:
+  (a) by—
+    (i) delivering the document to the recipient or bringing it to the recipient's notice if the recipient refuses to accept it; or
+    (ii) leaving the document for the recipient at the recipient's place of residence with another person who appears to be of or over the age of 14 years; or
+    (iii) leaving the document for the recipient at the recipient's place of business or place of work with another person:
+  (b) by sending the document to the recipient by prepaid post addressed to the recipient's last known place of residence or business:
+  (c) if the recipient has a known electronic address, by sending it to the recipient at that address in electronic form.
+(2) For recipients to whom section 108B applies, subsection (1) is modified to the extent provided by that section.
+(3) Despite subsection (1), the following documents must be served in accordance with subsection (1)(a) or, where applicable, section 108B(2)(b) or (4):
+  (a) a summons issued under section 84D, which must be served by an authorised process server:
+  (b) a summons issued under section 84E, which must be served by or on behalf of the judgment creditor or by an authorised process server:
+  (c) a copy of the application and notice of the time and place appointed for the hearing of the application that is required to be served on the judgment debtor under section 84OA(5), which must be served by or on behalf of the judgment creditor or by an authorised process server.
+(4) This section is subject to section 84L(4)(a).
+(5) In this section and in section 108B,—
+  - **authorised process server** means a person who is—
+  (a) a constable; or
+  (b) a Police employee authorised by the Commissioner of Police to serve documents under this Act; or
+  (c) an officer of the court; or
+  (d) a person or a member of a class of persons authorised by a District Court Judge or Registrar to serve documents either generally or in respect of a particular case or class of case; or
+  (e) an officer or employee of a corporation that is authorised by the Secretary for Justice to serve documents under this Part
+  - **officer** , in relation to a body corporate or Crown organisation, includes a person involved in the decision making or management of the body or organisation
+  - **recipient** means the person required to be served
+  - **serve** , in relation to a document,—
+    (a) includes giving the document to a person; but
+    (b) does not include filing the document in a court under rules of court.
+
+### 108B Service provisions modified in special cases
+(1) If a document is served in accordance with this section, it is, for the purposes of section 108A, taken to be served on the recipient concerned.
+(2) If the recipient is a body corporate or a Crown organisation, a document may be served—
+  (a) if it may be served under section 108A(1)(b) or (c), by being sent, in accordance with either of those paragraphs, to the body corporate or Crown organisation for the attention of an officer or employee of that body or organisation:
+  (b) by being delivered to an officer or employee of the body corporate or Crown organisation at its head office, principal place of business, or registered office, or bringing it to the officer's notice or the employee's notice if that person refuses to accept it.
+(3) If a solicitor has signed a memorandum stating that the solicitor is authorised to accept service of a document on behalf of the recipient, the document may be served on the solicitor in any way authorised by section 108A.
+(4) In addition to the ways of service authorised by section 108A, a document may be served by delivering or sending it to, or by leaving it with,—
+  (a) in the case of a recipient who lives or works on board a vessel (including a vessel belonging to the Royal New Zealand Navy), the person on board who is apparently in charge of the vessel:
+  (b) in the case of a recipient who is a member of the New Zealand Armed Forces, the officer apparently in command of the unit or detachment to which the recipient belongs:
+  (c) in the case of a recipient who is a prisoner, the manager or other officer apparently in charge of the prison.
 
 ## Part 7 — Miscellaneous and general
 
@@ -1135,10 +1307,15 @@ All fees and fines payable in respect of proceedings in courts or before Judges 
 (1) Every document of a prescribed class issuing out of a court shall be sealed with the seal of the court.
 (2) All such summonses and other documents purporting to be sealed as aforesaid shall, in New Zealand, be received in evidence without further proof thereof.
 
-### 116A Proof of service of documents by officer or constable
-(1) Where any summons or any other document is served by any officer of a court or by any constable, the service may be proved either by an endorsement on a copy of the document showing the fact and the time and mode of service or in any other manner prescribed by the rules. Any such endorsement shall be signed by the person who served the summons or document.
-(2) Every officer or constable who wilfully endorses any false statement on a copy of any summons or document commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000, or to both.
-(3)
+### 116A Proof of service of documents
+(1) If any summons or any other document is served by a person who is authorised to do so under this Act, the rules, or any other enactment, the service may be proved—
+  (a) by an endorsement on a copy of the document or, where applicable, on a printout that records an electronic document, showing the fact, date, time, and mode of service; or
+  (b) in any other manner prescribed by the rules.
+(1A) An endorsement under subsection (1)(a) must be signed by the person who served the summons or document.
+(2) A person who wilfully endorses any false statement on a copy of any summons or document commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000, or to both.
+(3) If a document is served by sending it by prepaid post, then, unless the contrary is shown, the document is served when it would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the letter concerned was properly addressed and posted.
+(4) If a document is served by sending it in electronic form, then, unless the contrary is shown, the document is served at the time the electronic communication first enters an information system outside the control of its originator, and in proving service it is sufficient to prove that the document concerned was properly addressed and sent.
+(5) In this section, information system means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
 
 ### 117 Subtenant to give notice of proceeding to subtenant's immediate landlord
 Every subtenant to whom there is delivered notice of any proceeding taken under this Act for the recovery of any land demised to or held by the subtenant, or to whose knowledge it comes, shall forthwith give notice thereof to the subtenant's immediate landlord, and if the subtenant fails to do so the subtenant shall be liable to forfeit to the subtenant's immediate landlord an amount equal to not more than 3 years' improved or rack rent of the land, to be recovered by a proceeding taken in any District Court or other court having jurisdiction in respect of claims for such an amount.
@@ -1208,6 +1385,13 @@ No privilege shall be allowed to any solicitor to exempt him from the jurisdicti
   (c) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) No fee is payable for an application for the exercise of a power specified in subsection (1)(ba) or (bc).
 
+### 123AA Chief executive of Ministry of Justice may approve forms
+(1) The chief executive of the Ministry of Justice may approve and issue forms that the chief executive considers necessary for the purposes of this Act, not being forms required to be prescribed by regulations or rules made under this Act.
+(2) Without limiting subsection (1),—
+  (a) more than 1 form may be approved and issued in relation to the same matter; and
+  (b) a form may be described by any name that the chief executive considers appropriate even though it relates to a matter that is described by a different name under this Act, so long as the form refers to the appropriate provision of this Act.
+(3) Every document purporting to be a form approved and issued by the chief executive under and for the purposes of this Act is deemed to have been so approved and issued unless the chief executive otherwise certifies.
+
 ### 123A Reviews of decisions of Registrars concerning fees
 (1) Any person who is aggrieved by a decision of a Registrar or Deputy Registrar under regulations made under section 123(1)(ba) may apply to a Judge for a review of that decision.
 (2) An application under subsection (1) may be made within 20 working days after the date on which the applicant is notified of the decision of the Registrar or Deputy Registrar, or within any further time that the Judge allows on application made for that purpose either before or after the expiration of those 20 working days.
@@ -1264,6 +1448,9 @@ This Act is the District Courts Amendment Act 2011.
 ### 2 Commencement
 (1) Sections 3 and 5 to 8 come into force on the day after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
+
+### 3 Principal Act amended
+This Act amends the District Courts Act 1947.
 
 ### 44 Transitional provisions
 ((1)) Section 28I of the principal Act, as inserted by section 9 of this Act, does not apply in respect of any fine (as defined in section 79 of the Summary Proceedings Act 1957) that was imposed before the commencement of section 9 by a District Court in the exercise of its jurisdiction under Part 2A of the principal Act.
