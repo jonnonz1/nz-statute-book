@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-14_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -506,7 +506,7 @@ If the parties to a tenancy agree that, during a specified period or until the o
   (a) the date of the commencement of the tenancy or (in the case of a tenancy that was subsisting immediately before commencement of this Act) the date of the commencement of this Act; or
   (b) the date of the last review of rent,—
 (2A) Despite subsection (2), a tenant who is a party to a fixed term tenancy of premises held in a stratum estate under the Unit Titles Act 2010 may apply under subsection (1) within 3 months after the tenant is notified of a change or otherwise becomes aware of a change in the body corporate operational rules made under that Act, if that change affects the tenant.
-(3) For the purposes of this Act, the market rent for any tenancy shall be the rent that, without regard to the personal circumstances of the landlord or the tenant, a willing landlord might reasonably expect to receive and a willing tenant might reasonably expect to pay for the tenancy, taking into consideration the general level of rents (other than income-related rents within the meaning of section 42(1) of the Housing Restructuring and Tenancy Matters Act 1992) for comparable tenancies of comparable premises in the locality or in similar localities and such other matters as the Tribunal considers relevant.
+(3) For the purposes of this Act, the market rent for any tenancy shall be the rent that, without regard to the personal circumstances of the landlord or the tenant, a willing landlord might reasonably expect to receive and a willing tenant might reasonably expect to pay for the tenancy, taking into consideration the general level of rents (other than income-related rents within the meaning of section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992) for comparable tenancies of comparable premises in the locality or in similar localities and such other matters as the Tribunal considers relevant.
 (4) An order made under this section shall take effect on and from a date to be specified in the order, which may be the date of the order or any earlier or later date, but being no earlier than the date of the application for the order and no later than 30 days after the date of the order.
 
 ### 26 Duration of order determining market rent
@@ -1419,7 +1419,9 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (n) to order the landlord or the tenant under any tenancy agreement to which this Act applies to pay to the other party such sum by way of damages or compensation as the Tribunal shall assess in respect of the breach of any express or implied provision of the tenancy agreement or any provision of this Act:
   (o) to consider and determine any complaint by any party to a tenancy agreement or by the chief executive that any person has committed an unlawful act, and, where it finds such a complaint to be proved, to order the payment of such sum in the nature of exemplary damages, not exceeding the maximum prescribed by this Act, as the Tribunal may think just:
   (p) to approve the assignment by the tenant of the rights of the tenant under any tenancy agreement to which this Act applies, or the subletting by the tenant under any such tenancy agreement of the whole or any part of the premises, where the Tribunal finds that the landlord has withheld consent unreasonably and the assignment or subletting is not absolutely prohibited by the tenancy agreement:
+  (pa) to record in any order requiring a party to pay money to any other party that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947:
   (q) to make orders of a consequential or ancillary nature necessary to exercise or perfect the exercise of any of its jurisdiction.
+(2A) If subsection (2)(pa) applies, then section 78(2AB) to (2AD) apply.
 (3) The Tribunal shall have jurisdiction to make an order for the recovery by any person of any residential premises to which this Act applies, or the eviction of any person from any such premises, regardless of the value of the premises or the amount of any rent payable for the premises.
 (4) In respect of tenancy agreements, the Tribunal has jurisdiction to exercise, and may exercise, all the powers conferred on a court by section 264 of the Property Law Act 2007 (which relates to the granting of relief to the tenant against the landlord's refusal to enter into a renewal of a tenancy agreement or to sell the landlord's interest in the premises to the tenant).
 (4A) The Tribunal does not have jurisdiction to determine a dispute so far as it raises a question as to the landlord’s conduct in the landlord’s capacity as a provider of health or disability services and the conduct is of a kind about which a complaint may be made under the Health and Disability Commissioner Act 1994.
@@ -1445,6 +1447,21 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (a) shall, where the order is made otherwise than by consent; and
   (b) may, where the order is made by consent,—
 (2A) Where the Tribunal makes an order under any of paragraphs (b), (c), or (h) of subsection (1), the Tribunal may at the same time make an order under subsection (1)(d) to be complied with as an alternative to compliance with the first-mentioned order.
+(2AB) The Tribunal may record in an order made under subsection (1)(d) (a money order) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947 if—
+  (a) the money order was made at a hearing at which both parties were present; and
+  (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
+  (c) both parties agreed on the terms of the attachment order, including the details specified in subsection (2AC).
+(2AC) If subsection (2AB) applies, the money order must include the following details:
+  (a) the employer to whom the attachment order will relate; and
+  (b) whether deductions are to be made every week, fortnight, or month, or by reference to some other period (the earnings period); and
+  (c) the amount or percentage to be deducted from salary or wages for the earnings period; and
+  (d) the amount or percentage below which the net amount paid for the earnings period must not fall; and
+  (e) the name and address of the person to whom the amounts deducted are to be paid; and
+  (f) that the attachment order is to remain in force until the amount specified in the money order has been paid in full or, if the attachment order is to remain in force for a fixed period, that period.
+(2AD) Nothing in subsection (2AC)(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3) of the District Courts Act 1947.
+(2AE) If subsection (2AC) is complied with, the money order may be filed in any District Court and, if so filed, sections 79(5C) and 84F to 84N of the District Courts Act 1947 apply to the extent they are applicable and subject to any necessary modifications.
+(2AF) For the purposes of subsection (2AB)(a), hearing includes mediation.
+(2AG) In this section, employer and salary or wages have the same meanings as in section 84F of the District Courts Act 1947.
 (2B) Where the Tribunal makes any 2 orders under subsection (2) or subsection (2A), it is the right of the person in whose favour the order is made to choose which order to enforce under section 107.
 (3) Any order made by the Tribunal may be unconditional or subject to such conditions (whether as to the time for, or mode of, compliance, or otherwise) as the Tribunal thinks fit to impose.
 
@@ -1518,6 +1535,12 @@ If a dispute or part of a dispute raises a question as to the landlord’s condu
   (a) decline to seal the order, and direct the chief executive to refer the matter to a Tenancy Mediator for further consideration in accordance with any directions given by the Tenancy Adjudicator; or
   (b) direct that the matter be reconsidered and determined by the Tribunal.
 (7) Where any copy of an order made by a Tenancy Mediator is sealed under this section, it shall have effect as an order of the Tribunal, and shall be enforceable accordingly.
+(8) If a Tenancy Mediator makes an order under section 78(1)(d) to give effect to an agreed settlement, section 78(2AB) to (2AD) apply to the order, subject to the following modifications:
+  (a) section 78(2AB) and (2AD) must be read as if—
+    (i) the references to the money order were references to the agreed settlement; and
+    (ii) the reference to the Tribunal were a reference to the Tenancy Mediator; and
+    (iii) the reference to a hearing were a reference to mediation:
+  (b) the order made by the Tenancy Mediator under section 78(1)(d) may be filed in any District Court to be enforced as an attachment order only if it is sealed under this section.
 
 ### 89 Statements made in mediation to be subject to privilege
 (1) This section applies to any oral or written statement (including a statement contained in a document) made in the course of, and for the purposes of or in connection with, the mediation by a Tenancy Mediator of any dispute.
@@ -1881,7 +1904,7 @@ For the purpose of ensuring that the application and administration of this Act 
     (iv) the reports of Tenancy Mediators:
   (e) the withdrawal and amendment of applications:
   (f) the summoning of witnesses, and the payment of witnesses from public funds or otherwise:
-  (g) the duties, functions, and powers of chief executive and Tenancy Mediators:
+  (g) the duties, functions, and powers of the chief executive and Tenancy Mediators:
   (h) the transfers of proceedings from the Tribunal to a District Court:
   (i) the filing of orders of the Tribunal in a District Court for enforcement:
   (j) the searching of the records of the Tribunal.
