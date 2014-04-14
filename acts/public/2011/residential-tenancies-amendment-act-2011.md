@@ -1,5 +1,5 @@
 # Residential Tenancies Amendment Act 2011
-_Consolidation as at 2011-07-22_
+_Consolidation as at 2014-04-14_
 
 ### 1 Title
 This Act is the Residential Tenancies Amendment Act 2011.
@@ -11,14 +11,14 @@ This Act comes into force on a date appointed by the Governor-General by Order i
 This Act amends the Residential Tenancies Act 1986.
 
 ### 4 Jurisdiction of Tribunal
-(1) Section 77(2) is amended by inserting the following paragraph after paragraph (p):.
+(1) Section 77(2) is amended by inserting the following paragraph after paragraph (p):
   (pa) to record in any order requiring a party to pay money to any other party that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947:
 (2) Section 77 is amended by inserting the following subsection after subsection (2):
-  (2A) If subsection (2)(pa) applies, then section 78(2AB) to (2AD) apply.
+  (2A) If subsection (2)﻿(pa) applies, then section 78(2AB) to (2AD) apply.
 
 ### 5 Orders of Tribunal
 Section 78 is amended by inserting the following subsections after subsection (2A):
-  (2AB) The Tribunal may record in an order made under subsection (1)(d) (a money order) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947 if—
+  (2AB) The Tribunal may record in an order made under subsection (1)﻿(d) (a money order) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947 if—
     (a) the money order was made at a hearing at which both parties were present; and
     (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
     (c) both parties agreed on the terms of the attachment order, including the details specified in subsection (2AC).
@@ -29,16 +29,16 @@ Section 78 is amended by inserting the following subsections after subsection (2
     (d) the amount or percentage below which the net amount paid for the earnings period must not fall; and
     (e) the name and address of the person to whom the amounts deducted are to be paid; and
     (f) that the attachment order is to remain in force until the amount specified in the money order has been paid in full or, if the attachment order is to remain in force for a fixed period, that period.
-  (2AD) Nothing in subsection (2AC)(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3) of the District Courts Act 1947.
+  (2AD) Nothing in subsection (2AC)﻿(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3) of the District Courts Act 1947.
   (2AE) If subsection (2AC) is complied with, the money order may be filed in any District Court and, if so filed, sections 79(5C) and 84F to 84N of the District Courts Act 1947 apply to the extent they are applicable and subject to any necessary modifications.
-  (2AF) For the purposes of subsection (2AB)(a), hearing includes mediation.
+  (2AF) For the purposes of subsection (2AB)﻿(a), hearing includes mediation.
   (2AG) In this section, employer and salary or wages have the same meanings as in section 84F of the District Courts Act 1947.
 
 ### 6 Functions of Tenancy Mediators
 Section 88 is amended by adding the following subsection:
-  (8) If a Tenancy Mediator makes an order under section 78(1)(d) to give effect to an agreed settlement, section 78(2AB) to (2AD) apply to the order, subject to the following modifications:
+  (8) If a Tenancy Mediator makes an order under section 78(1)﻿(d) to give effect to an agreed settlement, section 78(2AB) to (2AD) apply to the order, subject to the following modifications:
     (a) section 78(2AB) and (2AD) must be read as if—
       (i) the references to the money order were references to the agreed settlement; and
       (ii) the reference to the Tribunal were a reference to the Tenancy Mediator; and
       (iii) the reference to a hearing were a reference to mediation:
-    (b) the order made by the Tenancy Mediator under section 78(1)(d) may be filed in any District Court to be enforced as an attachment order only if it is sealed under this section.
+    (b) the order made by the Tenancy Mediator under section 78(1)﻿(d) may be filed in any District Court to be enforced as an attachment order only if it is sealed under this section.
