@@ -1,5 +1,5 @@
 # Personal Property Securities Amendment Act 2011
-_Consolidation as at 2012-08-01_
+_Consolidation as at 2014-04-14_
 
 ### 1 Title
 This Act is the Personal Property Securities Amendment Act 2011.
@@ -19,8 +19,8 @@ The following section is inserted after section 167:Financing change statement c
     (a) falls within the collateral description included in a registered financing statement (the applicable financing statement); and
     (b) has been sold or disposed of under—
       (i) section 89, 91, or 93 of the District Courts Act 1947; or
-      (ii) section 137(1), 138, or 141(3)(b) of the Sentencing Act 2002; or
-      (iii) section 100L(1)(a) or 100P(1) of the Summary Proceedings Act 1957; or
+      (ii) section 137(1), 138, or 141(3)﻿(b) of the Sentencing Act 2002; or
+      (iii) section 100L(1)﻿(a) or 100P(1) of the Summary Proceedings Act 1957; or
       (iv) a sale order issued under rule 17.63 of the High Court Rules.
   (2) A court registrar may enter in the register a financing change statement that—
     (a) discharges the registration of the applicable financing statement if the collateral description in the applicable financing statement relates exclusively to the personal property; or
