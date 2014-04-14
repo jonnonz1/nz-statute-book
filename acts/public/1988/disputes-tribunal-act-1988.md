@@ -1,5 +1,5 @@
 # Disputes Tribunals Act 1988
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-14_
 
 > An Act to consolidate and amend the Small Claims Tribunals Act 1976
 
@@ -202,6 +202,8 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
 (2) Without limiting the generality of subsection (1), in making an assessment under that subsection, the Tribunal shall have regard to any factors that, in the Tribunal's opinion, are likely to impair the ability of either or both of the parties to negotiate an agreed settlement.
 (3) Where the parties reach an agreed settlement, the Tribunal may approve the settlement, and the settlement shall then take effect as if it were an order of the Tribunal made under subsection (8), and shall be enforceable in accordance with section 47.
 (4) In approving an agreed settlement pursuant to subsection (3), a Tribunal shall not be bound by the monetary restrictions provided for by subsections (4) to (7) of section 19.
+(4A) An agreed settlement approved by the Tribunal under subsection (3) may include the terms of any agreement between the parties for payment of any amount specified in the agreed settlement to be enforced by way of an attachment order made under the District Courts Act 1947.
+(4B) If subsection (4A) applies, then section 19(1A) to (1C) apply.
 (5) Where—the Tribunal shall proceed to determine the dispute.
   (a) it appears to the Tribunal that it would not be appropriate for it to assist the parties to negotiate an agreed settlement in relation to the claim; or
   (b) the parties are unable to reach an agreed settlement in relation to the claim; or
@@ -221,6 +223,20 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
   (e) where it appears to the Tribunal that an agreement between the parties, or any term of any such agreement, is harsh or unconscionable, or that any power conferred by an agreement between them has been exercised in a harsh or unconscionable manner, the Tribunal may make an order varying the agreement, or setting it aside (either wholly or in part):
   (f) where it appears to the Tribunal that an agreement between the parties has been induced by fraud, misrepresentation, or mistake, or any writing purporting to express the agreement between the parties does not accord with their true agreement, the Tribunal may make an order varying, or setting aside, the agreement or the writing (either wholly or in part):
   (g) the Tribunal may make an order dismissing the claim.
+(1A) The Tribunal may record in an order made under subsection (1)(a) (a money order) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947 if—
+  (a) the money order was made at a hearing at which both parties were present; and
+  (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
+  (c) both parties agreed on the terms of the attachment order, including the details specified in subsection (1B).
+(1B) If subsection (1A) applies, the money order must include the following details:
+  (a) the employer to whom the attachment order will relate; and
+  (b) whether deductions are to be made every week, fortnight, or month, or by reference to some other period (the earnings period); and
+  (c) the amount or percentage to be deducted from salary or wages for the earnings period; and
+  (d) the amount or percentage below which the net amount paid for the earnings period must not fall; and
+  (e) the name and address of the person to whom the amounts deducted are to be paid; and
+  (f) that the attachment order is to remain in force until the amount specified in the money order has been paid in full or, if the attachment order is to remain in force for a fixed period, that period.
+(1C) Nothing in subsection (1B)(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3) of the District Courts Act 1947.
+(1D) If subsection (1B) is complied with, the money order may be filed in any District Court and, if so filed, sections 79(5C) and 84F to 84N of the District Courts Act 1947 apply to the extent they are applicable and subject to any necessary modifications.
+(1E) In this section, employer and salary or wages have the same meanings as in section 84F of the District Courts Act 1947.
 (2) Any order made by a Tribunal may be unconditional, or subject to such conditions (whether as to the time for, or mode of, compliance, or otherwise) as the Tribunal thinks fit to impose.
 (3) Where a Tribunal makes a work order against a party, it shall, where the order is made under section 18(8) or section 46(2), at the same time make an order under subsection (1)(a) of this section to be complied with as an alternative to compliance with the work order.
 (4) Subject to section 20, a Tribunal shall not make an order under this Act that exceeds any of the monetary restrictions specified in subsection (5), and any order that exceeds any such restriction shall be entirely of no effect.
