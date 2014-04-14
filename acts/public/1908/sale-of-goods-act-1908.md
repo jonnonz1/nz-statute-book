@@ -1,5 +1,5 @@
 # Sale of Goods Act 1908
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-04-14_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the sale of goods
 
@@ -30,7 +30,7 @@ Enactments consolidated
   - **seller** means a person who sells or agrees to sell goods
   - **specific goods** means goods identified and agreed on at the time a contract of sale is made
   - **warranty** means an agreement with reference to goods which are the subject of a contract of sale, but collateral to the main purpose of such contract, the breach of which gives rise to a claim for damages, but not to a right to reject the goods and treat the contract as repudiated
-  - **writ of execution** means any writ of sale, warrant of distress, or other writ or warrant of execution under which chattels of any kind may be seized or taken to satisfy process issued out of any court.
+  - **writ of execution** means any writ of sale, warrant to seize property, or other writ or warrant of execution under which chattels of any kind may be seized or taken to satisfy process issued out of any court.
 (2) A thing is deemed to be done in good faith within the meaning of this Act when it is in fact done honestly, whether it is done negligently or not.
 (3) A person is deemed to be insolvent, within the meaning of this Act, who either has ceased to pay his debts in the ordinary course of business, or cannot pay his debts as they become due, whether he has committed an act of bankruptcy or not.
 (4) Goods are in a deliverable state within the meaning of this Act when they are in such a state that the buyer would under the contract be bound to take delivery of them.
@@ -121,7 +121,7 @@ Subject to the provisions of this Act and of any statute in that behalf, there i
 ### 17 Sale by sample
 (1) A contract of sale is a contract for sale by sample where there is a term in the contract, express or implied, to that effect.
 (2) In the case of a contract for sale by sample there is an implied condition—
-  (a) that the bulk shall correspond with the sample in quality;
+  (a) that the bulk shall correspond with the sample in quality; and
   (b) that the buyer shall have a reasonable opportunity of comparing the bulk with the sample; and
   (c) that the goods shall be free from any defect, rendering them unmerchantable, which would not be apparent on reasonable examination of the sample.
 
