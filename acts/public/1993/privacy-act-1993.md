@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-14_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1314,7 +1314,8 @@ In this Part, unless the context otherwise requires,—
     (ia) WorkSafe New Zealand:
     (j) any tertiary institution, secondary school, or private training establishment (as those terms are defined in the Education Act 1989) to which section 226A or section 238B of that Act applies, as from time to time notified to the Commissioner by the department for the time being responsible for the administration of the Social Security Act 1964:
     (k) the Ministry of Education:
-    (l) the New Zealand Teachers Council established under Part 10A of the Education Act 1989.
+    (l) the New Zealand Teachers Council established under Part 10A of the Education Act 1989:
+    (la) the agency or agencies appointed under section 100 of the Housing Restructuring and Tenancy Matters Act 1992.
 
 **Information matching guidelines**
 
@@ -1931,7 +1932,7 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 | Department of Corrections records |  |  |
 | --- | --- | --- |
 | Subject | Description | Access available to |
-| Community-based sentences, sentences of home detention, and conditions of release | Particulars of persons—areleased on probation or parole, or released on conditions under Part 6 of the Criminal Justice Act 1985, or sentenced to community service, periodic detention, supervision, or a community programme; or breleased on parole, home detention, or compassionate release under subpart 2 of Part 1 of the Parole Act 2002 or sentenced to supervision, intensive supervision, community work, community detention, or home detention. | Police (access is limited to—athe person's area of reporting:bin the case of a person released from a prison, the conditions of the person's release (whether imposed on release or imposed or varied subsequently, and including any direction issued to that person by a probation officer)Ministry of Justice |
+| Community-based sentences, sentences of home detention, and conditions of release | Particulars of persons—areleased on probation or parole, or released on conditions under Part 6 of the Criminal Justice Act 1985, or sentenced to community service, periodic detention, supervision, or a community programme; orbreleased on parole, home detention, or compassionate release under subpart 2 of Part 1 of the Parole Act 2002 or sentenced to supervision, intensive supervision, community work, community detention, or home detention. | Police (access is limited to—athe person's area of reporting:bin the case of a person released from a prison, the conditions of the person's release (whether imposed on release or imposed or varied subsequently, and including any direction issued to that person by a probation officer)Ministry of Justice |
 | Records of prisoners | Particulars of prisoners in a prison, including the date of release from the prison | Police (access is limited to the location and the date of release of the prisoner)Ministry of Justice |
 
 ## Schedule 5A — Basic principles of national application set out in Part Two of the OECD Guidelines
