@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-04-14_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -175,7 +175,7 @@ Every person exercising or performing a function, duty or power under this Act m
       (xv) any part of a lump sum income-related insurance payment received on the occurrence of a contingency by an applicant for a benefit that has been used or committed by the applicant—
         (A) to repay or pay any amounts on account of existing debt of the applicant; or
         (B) to pay any essential costs arising as a consequence of the applicant's health or disability (being costs arising from the contingency in respect of which the payment was made) to the extent that assistance towards those costs is not available under this Act or any other Act:
-      (xvi) any income-related rent within the meaning of section 42(1) of the Housing Restructuring and Tenancy Matters Act 1992:
+      (xvi) any income-related rent within the meaning of the Housing Restructuring and Tenancy Matters Act 1992:
       (xvii) any specified item or amount of income, or income from a specified source, that is declared not to be income for the purposes of this Act by regulations made under section 132:
       (xviii) any tax credit or amount received under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or under Part 11A of the Income Tax Act 1976
   - **income-related insurance payment** , in relation to a person, means a payment, or the value of any credit or service, that, in the opinion of the chief executive, having regard to the matters specified in subsection (4), is—
@@ -1790,8 +1790,9 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 (1) Subject to the provisions of this Act, the chief executive may grant to an applicant, from such date and for such period as the chief executive determines, an accommodation supplement to assist in meeting the applicant's accommodation costs.
 (2) No person is eligible for an accommodation supplement whose accommodation costs include—
   (a) payments, required to be made under a mortgage security to the Housing Corporation of New Zealand or the Crown in right of the Ministry of Maori Development, that in the chief executive's opinion are required to be made at a concessionary rate; or
-  (b) rent paid in respect of premises (whether owned by the Crown, the company, or any other person) let by or on behalf of the company for occupation by any person as a place of residence.
-(2A) In subsection (2), company has the same meaning as in the Housing Restructuring and Tenancy Matters Act 1992.
+  (b) rent paid in respect of premises (whether owned by the Crown, the company, or any other person) let by or on behalf of the company for occupation by any person as a place of residence;
+  (c) if the person has been assessed by the agency as being eligible to be allocated social housing, rent paid in respect of premises owned by a registered community housing provider or let by or on behalf of the provider for occupation by any person as a place of residence.
+(2A) In subsection (2), agency, company, and registered community housing provider have the meanings given to them by section 2 of the Housing Restructuring and Tenancy Matters Act 1992.
 (3) Notwithstanding anything to the contrary in this Act, a beneficiary being paid New Zealand superannuation or a veteran's pension shall not be entitled to be paid an accommodation supplement under this section unless the income of that beneficiary or the combined income of that beneficiary and his or her spouse or partner, as the case may be, is less than the appropriate amount in Part 2 of Schedule 31.
 (4) No person shall be granted an accommodation supplement if that person—
   (a) is receiving a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998; or
