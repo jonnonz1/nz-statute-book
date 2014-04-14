@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-04-14_
 
 > An Act—ato assess the minimum level of financial support payable by certain parents in respect of their children; andbto provide for the collection and payment of child support and spousal maintenance payments; andcto make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -2697,18 +2697,18 @@ Where—the Commissioner—
   (a) release the bankrupt from any personal liability under this Act, or from any proceedings for the enforcement of any liability under this Act, or for the punishment of any breach of any provision of this Act, whether in respect of money due at the time of the adjudication or of the filing of the petition or accruing due thereafter; or
   (b) affect any security for the payment of any liability under this Act, or the liability of any property to be made available in satisfaction of any liability under this Act, other than property that is or becomes assets in the bankruptcy.
 
-### 183 Warrant of distress
-(1) Where any financial support that is payable by any person under this Act (and any penalty or interest imposed thereon under this Act) is in arrear and unpaid for not less than 14 days, a District Court Judge may issue a warrant of distress against that person for the amount unpaid, or for so much of that amount as for the time being remains unpaid.
-(2) Every such warrant of distress shall be in the prescribed form, with any necessary modifications.
-(3) Except to the extent that they are modified or varied by this section or by any rules of procedure made under this Act, the provisions of the District Courts Act 1947 that apply to warrants of distress shall apply, with any necessary modifications, in respect of a warrant of distress issued under this section.
-(4) For the purpose of executing any warrant of distress, the bailiff executing it may at any time enter on any premises, by force if necessary, if the bailiff has reasonable cause to believe that the property in respect of which it is issued is on those premises:
+### 183 Warrant to seize property
+(1) Where any financial support that is payable by any person under this Act (and any penalty or interest imposed thereon under this Act) is in arrear and unpaid for not less than 14 days, a District Court Judge may issue a warrant to seize property against that person for the amount unpaid, or for so much of that amount as for the time being remains unpaid.
+(2) Every such warrant to seize property shall be in the prescribed form, with any necessary modifications.
+(3) Except to the extent that they are modified or varied by this section or by any rules of procedure made under this Act, the provisions of the District Courts Act 1947 that apply to warrants to seize property shall apply, with any necessary modifications, in respect of a warrant to seize property issued under this section.
+(4) For the purpose of executing any warrant to seize property, the bailiff executing it may at any time enter on any premises, by force if necessary, if the bailiff has reasonable cause to believe that the property in respect of which it is issued is on those premises:
   provided that if any person in actual occupation of the premises requires the bailiff to produce evidence of his or her authority, the bailiff executing the warrant shall produce the warrant before entering on the premises.
-(5) Where a person against whom a warrant of distress is issued pays or tenders to the bailiff executing the warrant the sum or sums therein mentioned together with the expenses of the distress up to the time of the payment or tender, the warrant shall be deemed to be satisfied.
-(6) Where goods have been seized under a warrant of distress and some third person claims to be entitled to the goods either as owner under a hire purchase agreement or under a bill of sale or otherwise by way of security for a debt, a court presided over by a Family Court Judge or District Court Judge may order a sale of the whole or part of the goods upon such terms as to payment of the whole or part of the secured debt or otherwise as the court thinks fit, and may direct the application of the proceeds of the sale in such manner and upon such terms as it deems just.
-(7) The surplus of the sale, if any, shall be handed by the bailiff to the Registrar, who shall pay the amount to the person against whom the warrant of distress is issued.
-(8) Any goods seized but not sold shall be returned or left by the bailiff at the place from which they were seized.
-(9) No distress made under the authority of this Act shall be deemed unlawful, nor shall any person making the same be deemed a trespasser, by reason of any defect or want of form in the warrant of distress, nor shall any such person be deemed a trespasser from the beginning by reason of any irregularity afterwards committed by that person; but all persons aggrieved by any such defect or irregularity may recover satisfaction for the special damage by action at law.
-(10) Sections 91 and 95 of the District Courts Act 1947 shall not apply in relation to a distress warrant issued under this section.
+(5) Where a person against whom a warrant to seize property is issued pays or tenders to the bailiff executing the warrant the sum or sums therein mentioned together with the expenses of the seizure of property up to the time of the payment or tender, the warrant shall be deemed to be satisfied.
+(6) Where goods have been seized under a warrant to seize property and some third person claims to be entitled to the goods either as owner under a hire purchase agreement or under a bill of sale or otherwise by way of security for a debt, a court presided over by a Family Court Judge or District Court Judge may order a sale of the whole or part of the goods upon such terms as to payment of the whole or part of the secured debt or otherwise as the court thinks fit, and may direct the application of the proceeds of the sale in such manner and upon such terms as it deems just.
+(7) The surplus of the sale, if any, shall be handed by the bailiff to the Registrar, who shall pay the amount to the person against whom the warrant to seize property is issued.
+(8)
+(9) No seizure of property made under the authority of this Act shall be deemed unlawful, nor shall any person making the same be deemed a trespasser, by reason of any defect or want of form in the warrant to seize property, nor shall any such person be deemed a trespasser from the beginning by reason of any irregularity afterwards committed by that person; but all persons aggrieved by any such defect or irregularity may recover satisfaction for the special damage by action at law.
+(10) Section 91 of the District Courts Act 1947 shall not apply in relation to a warrant to seize property issued under this section.
 
 **Charging orders**
 
