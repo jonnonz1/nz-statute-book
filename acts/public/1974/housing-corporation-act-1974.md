@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-04-14_
 
 > Title
 
@@ -192,8 +192,8 @@ Schedule 1A applies to the Corporation.
   (a) the Crown must pay to the Corporation all or part of that price (as the case requires); and
   (b) if the policy is for the Corporation to provide housing and related services to persons who are to be required to pay income-related rents rather than market rents for the housing, the agreement or notice concerned must state that the services are to be provided in return for the payment by the Crown to the Corporation of the difference between the amounts of market rents for the housing and the income-related rents charged.
 (2) If, because its statement of intent requires it to do so, the Corporation provides services that it cannot provide on normal business terms, the Crown may wholly or partly recompense it for doing so.
-(3) In subsection (1)(b), income-related rents and market rents have the meanings given to those terms by section 42(1) of the Housing Restructuring and Tenancy Matters Act 1992.
-(4) After the vesting day in relation to HNZ, every agreement between the Crown and HNZ entered into by virtue of a requirement under section 7 of the Housing Restructuring and Tenancy Matters Act 1992 (or under that section as applied by section 65 of that Act) has effect as if it were an agreement entered into under a direction under section 20(1)(b).
+(3) In subsection (1)(b), income-related rents and market rents have the meanings given to those terms by section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992.
+(4) After the vesting day in relation to HNZ, every agreement between the Crown and HNZ entered into by virtue of a requirement under section 7 of the Housing Restructuring and Tenancy Matters Act 1992 (or under that section as applied by section 85 of that Act) has effect as if it were an agreement entered into under a direction under section 20(1)(b).
 (5) Nothing in this section limits or affects the generality of section 20.
 
 ### 20C Application of sections 20 to 20B to subsidiaries
