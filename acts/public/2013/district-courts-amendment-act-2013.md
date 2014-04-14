@@ -1,5 +1,5 @@
 # District Courts Amendment Act 2013
-_Consolidation as at 2013-12-04_
+_Consolidation as at 2014-04-14_
 
 ### 1 Title
 This Act is the District Courts Amendment Act 2013.
