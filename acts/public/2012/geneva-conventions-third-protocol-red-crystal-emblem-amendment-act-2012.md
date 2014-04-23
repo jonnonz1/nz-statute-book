@@ -1,5 +1,5 @@
 # Geneva Conventions (Third Protocol—Red Crystal Emblem) Amendment Act 2012
-_Consolidation as at 2012-12-11_
+_Consolidation as at 2014-04-23_
 
 ### 1 Title
 This Act is the Geneva Conventions (Third Protocol—Red Crystal Emblem) Amendment Act 2012.
