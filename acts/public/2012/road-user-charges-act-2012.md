@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-23_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -171,7 +171,7 @@ Road user charges are payable in respect of the operation of a RUC vehicle.
   (b) a hubodometer that—
     (i) is fitted in accordance with regulations made under section 89; and
     (ii) accurately records the distance travelled by the RUC vehicle at all times.
-(3) However, in the case of a heavy RUC vehicle that is not fitted with an electronic distance recorder under subsection (2)(a), the RUC collector may dispense with the requirement for the vehicle to be fitted with a hubodometer under subsection (2)(b), if the RUC collector is satisfied that—
+(3) However, in the case of a heavy RUC vehicle that is not fitted with an electronic distance recorder under subsection (2)﻿(a), the RUC collector may dispense with the requirement for the vehicle to be fitted with a hubodometer under subsection (2)﻿(b), if the RUC collector is satisfied that—
   (a) because of the construction of the heavy RUC vehicle it is impracticable to affix a hubodometer to the vehicle; and
   (b) the heavy RUC vehicle is fitted with an odometer or another kind of distance recorder approved by the RUC collector.
 (4) A light RUC vehicle may be fitted with any kind of distance recorder that accurately records the distance travelled by the RUC vehicle at all times.
@@ -198,6 +198,11 @@ Road user charges are payable in respect of the operation of a RUC vehicle.
     (i) a distance licence that complies with subsection (2); or
     (ii) evidence of registration under an appropriate alternative payment scheme; or
   (b) operates a heavy RUC vehicle where the distance licence issued for the vehicle has expired in accordance with this Act.
+(4A) For the purposes of subsection (4), a person has a reasonable excuse if—
+  (a) a RUC licence is displayed or carried on the RUC vehicle concerned; and
+  (b) the RUC licence is not the correct licence for the vehicle's RUC vehicle type and RUC weight; but
+  (c) having regard to the RUC licence displayed or carried, sufficient payment has been made to cover the RUC charges that applied to the vehicle at the time of the offence.
+(4B) Subsection (4A) does not limit what constitutes a reasonable excuse for the purposes of subsection (4).
 (5) A person who commits an offence against subsection (4) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $3,000:
   (b) in the case of a body corporate, to a fine not exceeding $15,000.
@@ -222,15 +227,24 @@ The Agency must—
   (a) have a distance licence (as required by section 9) specifically for RUC vehicle type H; or
   (b) have an additional licence as well as the distance licence required by section 9.
 (3) However, subsection (2) does not apply if there is evidence that the RUC vehicle is registered under an appropriate alternative payment scheme.
-(4) An additional licence specified in subsection (2)(b) must—
+(4) An additional licence specified in subsection (2)﻿(b) must—
   (a) cover the difference between—
     (i) the maximum allowable mass under section 4.5(1) of Part 1 of the VDAM Rule 2002 for the RUC vehicle and any trailers towed by the RUC vehicle; and
     (ii) the maximum mass specified in the permit under which the RUC vehicle is operating; and
   (b) contain the information prescribed by regulations made under section 89 and be displayed in accordance with regulations made under that section.
-(5) A person commits an offence if the person, without reasonable excuse, operates a RUC vehicle to which this section applies on a road without a distance licence specifically for RUC vehicle type H, or an additional licence, or without evidence of being registered under an alternative payment scheme (as the case may be).
+(5) A person commits an offence if the person, without reasonable excuse, operates a RUC vehicle to which this section applies on a road without a distance licence specifically for RUC vehicle type H, or an additional licence, or in accordance with an agreement under section 12A, or without evidence of being registered under an alternative payment scheme (as the case may be).
 (6) A person who commits an offence against subsection (5) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $3,000:
   (b) in the case of a body corporate, to a fine not exceeding $15,000.
+
+### 12A Agreement to pay road user charges in relation to combination of vehicles
+(1) This section specifies the requirements for an agreement to pay road user charges for the purposes of section 12(5).
+(2) The requirements are that—
+  (a) the agreement is between the owner or operator of the vehicles concerned and the RUC collector; and
+  (b) the agreement relates to 2 or more vehicles (identified in the agreement by their registration numbers) combined to operate together temporarily; and
+  (c) each vehicle concerned has a distance licence; and
+  (d) any permit required under the Land Transport Act 1998 in relation to the combined operation of the vehicles has been issued; and
+  (e) under the agreement, the owner or operator agrees that (to the extent that all relevant information is not included in the agreement) the owner or operator will provide the information to the RUC collector under section 53(2) as soon as practicable after the information becomes available.
 
 **Other offences relating to distance recorders**
 
@@ -250,10 +264,10 @@ The Agency must—
   (a) operates any equipment in a RUC vehicle if the person knows, or ought to have known, the equipment will interfere with, or is likely to interfere with, the accurate operation of the distance recorder fitted to the vehicle:
   (b) installs any equipment in a RUC vehicle that is designed to interfere with the accurate operation of the distance recorder fitted to the vehicle:
   (c) possesses any equipment in a RUC vehicle that is designed to interfere with the accurate operation of the distance recorder fitted to the vehicle.
-(2) A person who commits an offence against subsection (1)(a) or (b) is liable on conviction,—
+(2) A person who commits an offence against subsection (1)﻿(a) or (b) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $15,000:
   (b) in the case of a body corporate, to a fine not exceeding $75,000.
-(3) A person who commits an offence against subsection (1)(c) is liable on conviction,—
+(3) A person who commits an offence against subsection (1)﻿(c) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $3,000:
   (b) in the case of a body corporate, to a fine not exceeding $15,000.
 
@@ -287,9 +301,9 @@ The Agency must—
   (b) be notified in the Gazette.
 (3) After approving a licence under subsection (1), the RUC collector must publish a copy of the licence, or in the case of an electronic licence, a facsimile of the display of the licence, on an Internet site maintained by, or on behalf of, the RUC collector.
 
-### 19 Display of RUC licence
-(1) A RUC licence must be displayed in accordance with regulations made under section 89.
-(2) A person commits an offence if the person operates a RUC vehicle on a road without displaying a RUC licence for the vehicle in accordance with subsection (1).
+### 19 Display or carriage of RUC licence
+(1) A RUC licence must be displayed or carried in accordance with regulations made under section 89.
+(2) A person commits an offence if the person operates a RUC vehicle on a road without displaying or carrying a RUC licence for the vehicle in accordance with subsection (1).
 (3) A person who commits an offence against subsection (2) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $1,000:
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
@@ -384,7 +398,7 @@ If 2 distance licences that relate to the same RUC vehicle both apply to a commo
     (ii) the distance recorder, or a registration plate, specified on the RUC licence has been removed from the RUC vehicle and a replacement RUC licence has been purchased; or
   (c) the RUC collector is satisfied, in respect of the licence relating to a RUC vehicle, that for any other reason this section should apply.
 (2) The holder of the RUC licence may surrender the licence to the RUC collector.
-(3) The RUC collector must, as soon as practicable after a licence has been surrendered under subsection (2), refund (or cause to be refunded) to the holder of the licence the amount of road user charges paid for the licence calculated in accordance with the following formula:(a − b) × c = dwhere—ais the maximum reading specified on the licencebis the reading of the RUC vehicle's distance recorder at the time the application is madecis the road user charges per kilometre rate at the time the licence was purchaseddis the amount of the refund.
+(3) The RUC collector must, as soon as practicable after being satisfied that subsection (1) applies in relation to a RUC licence, refund (or cause to be refunded) to the holder of the licence the amount of road user charges paid for the licence calculated in accordance with the following formula:(a − b) × c = dwhere—ais the maximum reading specified on the licencebis the reading of the RUC vehicle's distance recorder at the time the application is madecis the road user charges per kilometre rate at the time the licence was purchaseddis the amount of the refund.
 
 ### 33 RUC collector may waive or refund road user charges if satisfied charge is excessive
 (1) This section applies if, on application by the owner of a RUC vehicle, the RUC collector is of the opinion that the RUC vehicle type for the RUC vehicle will, or is likely to, result in payment of road user charges that are excessive in the circumstances.
@@ -438,6 +452,12 @@ If the RUC collector is satisfied that the person held liable for a debt relatin
   (a) the exemption is necessary because the purpose or design of the class of RUC vehicle means that the class of vehicle is unsuitable for regular road use; and
   (b) requiring road user charges to be paid in respect of the class of RUC vehicle would impose compliance costs that are disproportionate to the likely amount of road use by the class of vehicle.
 
+### 38A Exemption of RUC vehicles not required to be registered
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify the following RUC vehicles as vehicles in respect of which road user charges are not payable:
+  (a) all RUC vehicles that are exempt from registration under the Land Transport Act 1998; or
+  (b) 1 or more classes of RUC vehicles that are exempt from registration under the Land Transport Act 1998.
+(2) For the purposes of subsection (1), vehicles that are operated in circumstances in which no liability arises from their not being registered are to be treated as vehicles that are exempt from registration under the Land Transport Act 1998.
+
 **Exemptions granted by RUC collector**
 
 ### 39 RUC collector may exempt particular RUC vehicle unsuitable for regular road use
@@ -458,14 +478,18 @@ If the RUC collector is satisfied that the person held liable for a debt relatin
   (b) contain the information prescribed by regulations made under section 89; and
   (c) be accompanied by the prescribed fee (if any).
 (3) The RUC collector may grant an exemption in respect of an application made under subsection (1) if the RUC collector is satisfied that the light RUC vehicle to which the application relates—
-  (a) belongs to a class of light RUC vehicles prescribed by regulations made under section 89 for which an exemption may be granted; and
+  (a) is, under regulations made under section 89(l), a light RUC vehicle for which an exemption may be granted; and
   (b) will be operated almost exclusively off-road; and
   (c) satisfies any other criteria prescribed by regulations made under section 89 in order to qualify for the exemption.
 (4) An exemption granted under subsection (3) may be subject to any terms and conditions prescribed by regulations made under section 89.
 (5) A person commits an offence in respect of an application for an exemption under subsection (1) if the person provides information that the person knows, or ought to have known, is incorrect in a material particular.
-(6) A person who commits an offence against subsection (4) is liable on conviction,—
+(6) A person who commits an offence against subsection (5) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $15,000:
   (b) in the case of a body corporate, to a fine not exceeding $75,000.
+(7) A person commits an offence who operates, or permits to be operated, a light RUC vehicle in breach of any condition of an exemption granted under this section in relation to the vehicle.
+(8) A person who commits an offence against subsection (7) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $1,000:
+  (b) in the case of a body corporate, to a fine not exceeding $5,000.
 
 ### 41 Monitoring of exemption granted under section 40
 If an exemption is granted in respect of a light RUC vehicle under section 40, the RUC collector may monitor the ongoing operation of the vehicle in accordance with any prescribed terms and conditions of the exemption to determine whether the vehicle is being operated—
@@ -499,14 +523,14 @@ If an exemption is granted in respect of a light RUC vehicle under section 40, t
   (a) must be notified in the Gazette; and
   (b) may be on the terms and conditions that the RUC collector thinks fit; and
   (c) may be varied or revoked by the RUC collector by notice in writing to the electronic system provider concerned.
-(4) The RUC collector may, by notice in the Gazette, issue a code of practice to assist electronic system providers in complying with the requirement in subsection (2)(b)(i) for an electronic distance recorder to be fit for the purpose.
+(4) The RUC collector may, by notice in the Gazette, issue a code of practice to assist electronic system providers in complying with the requirement in subsection (2)﻿(b)﻿(i) for an electronic distance recorder to be fit for the purpose.
 (5) If a code of practice is issued under subsection (4), the RUC collector must make a copy of the code of practice available on an Internet site maintained by, or on behalf of, the RUC collector.
 
 ### 44 Obligation of electronic system provider to report tampering
 (1) An electronic system provider who knows, or has reasonable grounds to suspect, that any electronic system has been, or may have been, tampered with must, within 5 working days of becoming aware of the tampering or suspected tampering, report the matter to the RUC collector.
 (2) A report under subsection (1) must—
   (a) be made in the form approved by the RUC collector for the purpose; and
-  (b) contain any information required by the terms and conditions of the electronic system provider's approval under section 43(3)(b).
+  (b) contain any information required by the terms and conditions of the electronic system provider's approval under section 43(3)﻿(b).
 (3) If an electronic system provider has made a report to the RUC collector under subsection (1), the electronic system provider must not disclose to any person other than the RUC collector—
   (a) that the electronic system provider has made that report; or
   (b) any information from which the person to whom the disclosure is made could reasonably infer that the electronic system provider has made that report.
@@ -617,7 +641,7 @@ For the purposes of issuing an assessment under section 53(1), the RUC collector
   (a) the reasons for the assessment; and
   (b) how the assessment was calculated (including calculations for each individual RUC vehicle); and
   (c) the right to seek a review of the assessment under section 55.
-(4) For the purposes of subsection (3)(b), the assessment must be calculated using the rate of road user charges in force on the date on which the assessment is issued.
+(4) For the purposes of subsection (3)﻿(b), the assessment must be calculated using the rate of road user charges in force on the date on which the assessment is issued.
 (5) The owner or operator of a RUC vehicle who is issued with an assessment must—
   (a) pay the unpaid road user charges specified in the assessment within 2 months of the date specified on the assessment, unless the owner or operator has entered into an instalment arrangement under section 61 in respect of the unpaid amount; or
   (b) apply to the RUC collector, within 20 working days of the date specified on the assessment, for a review of the assessment under section 55.
@@ -630,7 +654,7 @@ For the purposes of issuing an assessment under section 53(1), the RUC collector
 (2) If an amended assessment has the effect of—
   (a) reducing or cancelling any liability for unpaid road user charges, the RUC collector must give notice of that reduction or cancellation to the owner or operator liable to pay the unpaid road user charges:
   (b) imposing any fresh liability or increasing any existing liability for unpaid road user charges, the RUC collector must issue a new assessment under section 53(1) to the owner or operator liable to pay the unpaid road user charges.
-(3) If an amended assessment has the effect of reducing or cancelling any liability of the owner or operator that has already been paid, the RUC collector must, within 5 working days of the date specified on the notice issued under subsection (2)(a), refund the difference between—
+(3) If an amended assessment has the effect of reducing or cancelling any liability of the owner or operator that has already been paid, the RUC collector must, within 5 working days of the date specified on the notice issued under subsection (2)﻿(a), refund the difference between—
   (a) the amount specified in the original assessment issued to the operator under section 53(1); and
   (b) the amount specified in the amended assessment under subsection (1).
 (4) To avoid doubt, the amount to be refunded under subsection (3) includes—
@@ -650,11 +674,11 @@ For the purposes of issuing an assessment under section 53(1), the RUC collector
   (d) specify the grounds for review; and
   (e) provide any evidence that may be required to substantiate the grounds for review.
 (3) If the RUC collector receives an application for a review, the RUC collector must, within 3 working days of receiving the application, confirm receipt of the application and specify the date on which the application was received.
-(4) The RUC collector must, within 20 working days of receiving an application for a review (or any longer period that the RUC collector considers to be necessary or appropriate), arrange for an appropriately qualified independent person to review the assessment within a time specified by the RUC collector, taking into account any evidence provided under subsection (2)(e) by the applicant.
+(4) The RUC collector must, within 20 working days of receiving an application for a review (or any longer period that the RUC collector considers to be necessary or appropriate), arrange for an appropriately qualified independent person to review the assessment within a time specified by the RUC collector, taking into account any evidence provided under subsection (2)﻿(e) by the applicant.
 (5) If, following a review under subsection (4), the RUC collector—
   (a) confirms, reduces, or cancels the assessment of any unpaid road user charges, the RUC collector must give, within 10 working days of the decision, notice of that confirmation, reduction, or cancellation to the person who applied for the review:
   (b) increases the amount of the original assessment of unpaid road user charges, the RUC collector must issue a new assessment under section 53(1) to the owner or operator of the RUC vehicle.
-(6) For the purposes of subsection (5)(b), the new assessment must be calculated using the rate of road user charges in force on the date on which the original assessment was issued.
+(6) For the purposes of subsection (5)﻿(b), the new assessment must be calculated using the rate of road user charges in force on the date on which the original assessment was issued.
 
 **Penalties**
 
@@ -666,19 +690,20 @@ For the purposes of issuing an assessment under section 53(1), the RUC collector
   (a) the person has applied for a review of the assessment under section 55; or
   (b) the person has entered into an instalment arrangement under section 61 and the RUC collector is satisfied that the person is meeting the person's obligations under the arrangement.
 
-### 57 Penalty for failure to pay after receipt of notice under section 55(5)(a)
+### 57 Penalty for failure to pay after receipt of notice under section 55(5)﻿(a)
 (1) This section applies to a person who—
-  (a) has received a notice under section 55(5)(a) confirming or reducing the amount of the person's liability for unpaid road charges following a review under that section; and
+  (a) has received a notice under section 55(5)﻿(a) confirming or reducing the amount of the person's liability for unpaid road user charges following a review under that section; and
   (b) fails to pay the amount of unpaid road user charges specified in the notice.
 (2) The person must pay an additional amount (a penalty) as follows:
-  (a) for an amount that remains unpaid after 1 month of the date specified on the notice given under section 55(5)(a), 10% of the unpaid amount; and
-  (b) for an amount that remains unpaid after 2 months of the date specified on the notice given under section 55(5)(a), 10% of the unpaid amount and the penalty imposed under paragraph (a).
+  (a) for an amount that remains unpaid after 1 month of the date specified on the notice given under section 55(5)﻿(a), 10% of the unpaid amount; and
+  (b) for an amount that remains unpaid after 2 months of the date specified on the notice given under section 55(5)﻿(a), 10% of the unpaid amount and the penalty imposed under paragraph (a).
+(3) However, subsection (2) does not apply if the person has entered into an instalment arrangement under section 61 and the RUC collector is satisfied that the person is meeting the person's obligations under the arrangement.
 
 ### 58 Penalty for failure to pay after issue of amended assessment or new assessment
 (1) This section applies to a person who—
   (a) has been issued with—
-    (i) an amended assessment for unpaid road user charges as provided in section 54(2)(b); or
-    (ii) a new assessment for unpaid road user charges following a review as provided in section 55(5)(b); and
+    (i) an amended assessment for unpaid road user charges as provided in section 54(2)﻿(b); or
+    (ii) a new assessment for unpaid road user charges following a review as provided in section 55(5)﻿(b); and
   (b) fails to pay the amount of unpaid road user charges specified in the amended assessment or new assessment (as the case may be).
 (2) The person must pay an additional amount (a penalty) as follows:
   (a) for an amount that remains unpaid after 2 months of the date specified on the amended assessment or new assessment, 10% of the unpaid amount; and
@@ -709,7 +734,7 @@ An amount of unpaid road user charges specified by the RUC collector in the asse
   (b) seek further information from the person who made the request; or
   (c) make a counter-offer to the person who made the request; or
   (d) refuse the request.
-(3) The RUC collector may refuse a request for an instalment arrangement under subsection (2)(d) if the RUC collector is satisfied on reasonable grounds that—
+(3) The RUC collector may refuse a request for an instalment arrangement under subsection (2)﻿(d) if the RUC collector is satisfied on reasonable grounds that—
   (a) entering into an instalment arrangement would not maximise the recovery of unpaid road user charges from the person; or
   (b) the person who made the request is able to pay all of the unpaid road user charges immediately; or
   (c) the request is frivolous or vexatious; or
@@ -721,7 +746,7 @@ An amount of unpaid road user charges specified by the RUC collector in the asse
   (a) remains in force; and
   (b) may be recovered by the RUC collector in accordance with section 60.
 (6) A person who has entered into an instalment arrangement with the RUC collector under subsection (1) may request a renegotiation of the arrangement at any time and, if a request for renegotiation of the instalment arrangement is made, subsection (2) applies to that request.
-(7) An interest charge may be applied to any payments made under an instalment arrangement entered into under this section at the rate determined under section 120E(1)(a) of the Tax Administration Act 1994.
+(7) An interest charge may be applied to any payments made under an instalment arrangement entered into under this section at the rate determined under section 120E(1)﻿(a) of the Tax Administration Act 1994.
 
 **Other provisions**
 
@@ -763,7 +788,7 @@ Following a vehicle inspection of a RUC vehicle, the vehicle inspector must repo
   (a) take extracts from the records or other information:
   (b) make copies of the records or other information at the place of inspection:
   (c) remove the records or other information if the RUC collector is satisfied that it is impracticable to copy the records or other information at the place of inspection.
-(3) If the RUC collector removes any records or other information under subsection (2)(c), the RUC collector must—
+(3) If the RUC collector removes any records or other information under subsection (2)﻿(c), the RUC collector must—
   (a) issue a receipt for the records or other information to the person from whom the records or other information was taken; and
   (b) return the records or other information as soon as practicable; and
   (c) for as long as the records or other information is held by the RUC collector, allow the person from whom the records or other information was taken, at any reasonable time, to inspect, and obtain copies of, the records or other information at the premises where the records or other information is held.
@@ -790,8 +815,8 @@ Following a vehicle inspection of a RUC vehicle, the vehicle inspector must repo
 
 ### Subpart 2 — Appeal against review of assessment
 
-### 68 Appeal to District Court against notice issued under section 55(5)(a)
-(1) A person may appeal to a District Court against a notice issued by the RUC collector under section 55(5)(a) that confirms or reduces an assessment of unpaid road user charges.
+### 68 Appeal to District Court against notice issued under section 55(5)﻿(a)
+(1) A person may appeal to a District Court against a notice issued by the RUC collector under section 55(5)﻿(a) that confirms or reduces an assessment of unpaid road user charges.
 (2) If an appeal is made under subsection (1), the District Court must determine whether the notice issued by the RUC collector is appropriate.
 
 ### 69 Procedure for appeal
@@ -815,14 +840,14 @@ Following a vehicle inspection of a RUC vehicle, the vehicle inspector must repo
 (2) On an appeal under this section, the Court of Appeal or the Supreme Court has the same power to adjudicate on the proceedings as the High Court had.
 (3) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 
-### 72 Notice issued under section 55(5)(a) to continue in force pending appeal
-A notice issued by the RUC collector under section 55(5)(a) confirming or reducing an amount of unpaid road user charges continues in force pending the determination of the appeal under section 68, 70, or 71, and no person is excused from complying with a provision of this Act on the grounds that an appeal is pending.
+### 72 Notice issued under section 55(5)﻿(a) to continue in force pending appeal
+A notice issued by the RUC collector under section 55(5)﻿(a) confirming or reducing an amount of unpaid road user charges continues in force pending the determination of the appeal under section 68, 70, or 71, and no person is excused from complying with a provision of this Act on the grounds that an appeal is pending.
 
 ### 73 Obligation to pay penalty not suspended by appeal
 The obligation to pay and the right to receive and recover a penalty imposed under section 56, 57, or 58 are not suspended by any appeal under this subpart.
 
 ### 74 RUC collector must refund overpayment of road user charges
-(1) If a person has received a notice under section 55(5)(a) that reduces or cancels the person's liability for unpaid road user charges or the person is successful in an appeal under section 68, 70, or 71, the RUC collector must refund to the person—
+(1) If a person has received a notice under section 55(5)﻿(a) that reduces or cancels the person's liability for unpaid road user charges or the person is successful in an appeal under section 68, 70, or 71, the RUC collector must refund to the person—
   (a) any amount of road user charges that the person has paid but was not required to pay (an overpayment); and
   (b) the amount of any penalty paid in respect of the overpayment.
 (2) The RUC collector must pay interest on any refunded overpayment and any refunded penalty at a rate to be determined under section 120E(1) to (3) of the Tax Administration Act 1994.
@@ -870,7 +895,7 @@ In this subpart,—
   (c) the lifting axle was capable of being altered by the fitted device so as to transmit to the roadway a portion of the RUC weight of the RUC vehicle; and
   (d) if the lifting axle had been transmitting a portion of the weight of the RUC vehicle to the roadway at the time of the offence, the RUC vehicle type number specified on the licence would have been correct for the RUC vehicle.
 (2) For the purposes of subsection (1), a lifting axle is an axle that is fitted with a device to alter the distribution of weight between the axles of a heavy RUC vehicle.
-(3) It is a defence in proceedings for an offence of operating a RUC vehicle without a properly working distance recorder under section 8(5)(a) or 13(1)(a) if the defendant proves that—
+(3) It is a defence in proceedings for an offence of operating a RUC vehicle without a properly working distance recorder under section 8(5)﻿(a) or 13(1)﻿(a) if the defendant proves that—
   (a) a distance recorder was fitted to the RUC vehicle at the time; and
   (b) it was not possible to obtain and fit a properly working distance recorder to the RUC vehicle, or to repair the distance recorder fitted to the RUC vehicle, during the period between the time the distance recorder was damaged, altered, or stopped properly working and the time when the alleged offence was committed; and
   (c) a properly working distance recorder was fitted to the RUC vehicle, or the distance recorder fitted to the RUC vehicle was repaired, as soon as practicable after the commission of the alleged offence.
@@ -879,21 +904,14 @@ In this subpart,—
 **Search warrants**
 
 ### 79 Power to issue search warrant in respect of alleged offence
-(1) A search warrant may be issued in accordance with section 198 of the Summary Proceedings Act 1957 in relation to an alleged specified offence against this Act.
-(2) Subsection (1) applies even though the offence is not punishable by imprisonment.
-(3) If a search warrant is issued under section 198 of the Summary Proceedings Act 1957, as provided for by subsection (1), the following provisions of that Act apply as far as they are applicable and with any necessary modifications:
-  (a) section 198B (which relates to computer access assistance):
-  (b) section 199 (which relates to the disposal of things seized).
-(4) It is declared that a person who, under section 199 of the Summary Proceedings Act 1957 (as applied by subsection (3)), has custody of any thing seized under a warrant provided for by subsection (1) may disclose any information contained in or derived from the thing only—
-  (a) for the purposes of section 199 of that Act (as so applied); or
-  (b) for the purposes of investigating or prosecuting an offence; or
-  (c) for the purpose of an appeal or other application that relates to an offence; or
-  (d) for the purposes of complying with any enactment or any order or direction of a court of competent jurisdiction.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant in relation to a place, vehicle, or other thing if, on application made by a constable in the manner provided in subpart 3 of Part 4 of that Act, he or she is satisfied that there are reasonable grounds—
+  (a) to suspect that an offence has been, is being, or will be committed against this Act; and
+  (b) to believe that the search will find evidential material in respect of the offence in the place, vehicle, or other thing.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 
-### 80 Offence relating to disclosing information acquired during inspection or search
-(1) A person commits an offence if the person, except in the performance of the person's duties, knowingly discloses any information acquired during—
-  (a) an inspection of records or other information under section 66 or 67; or
-  (b) a search authorised under section 79.
+### 80 Offence relating to disclosing information acquired during inspection
+(1) A person commits an offence if the person, except in the performance of the person's duties, knowingly discloses any information acquired during an inspection of records or other information under section 66 or 67.
 (2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $25,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
@@ -904,7 +922,7 @@ In this subpart,—
 (1) If a person is alleged to have committed an infringement offence, the person may either—
   (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be issued with an infringement notice as provided in section 82.
-(2) Proceedings commenced in the way described in subsection (1)(a) do not require leave of a District Court Judge or Registrar under section 21(1)(a) of the Summary Proceedings Act 1957.
+(2) Proceedings commenced in the way described in subsection (1)﻿(a) do not require leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
 
 ### 82 Issue of infringement notice and reminder notices
 Sections 139 and 140 of the Land Transport Act 1998 apply with any necessary modifications to the issue of an infringement notice or a reminder notice for an infringement offence under this Act.
@@ -933,7 +951,7 @@ Sections 139 and 140 of the Land Transport Act 1998 apply with any necessary mod
 (4) Regulations made under subsection (1),—
   (a) if made on or before 30 June in any year, expire on the close of 31 December of that year unless they are expressly confirmed by an Act of Parliament passed during that year; and
   (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year unless they are expressly confirmed by Act of Parliament passed before the end of that following year.
-(5) If any regulations expire by virtue of subsection (4)(a) or (b), any road user charges collected under those regulations in excess of the road user charges otherwise payable must, except as far as any other provision is made by an Act of Parliament, be refunded.
+(5) If any regulations expire by virtue of subsection (4)﻿(a) or (b), any road user charges collected under those regulations in excess of the road user charges otherwise payable must, except as far as any other provision is made by an Act of Parliament, be refunded.
 (6) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming regulations made under subsection (1) does not, unless there is any express provision to the contrary, affect the validity or confirmation of the Order in Council.
 
 ### 86 Licence for heavy RUC vehicle invalid 1 month after road user charges rate increased
@@ -963,13 +981,13 @@ The Governor-General may, by Order in Council, make regulations for 1 or more of
   (d) prescribing the circumstances in which the RUC collector may issue a RUC licence despite the road user charges (or part of the road user charges) payable for the licence not having been paid:
   (e) prescribing the information that must be included on a RUC licence:
   (f) prescribing distance amounts (in kilometres) in which a RUC licence may be sold, including different amounts for different types or forms of licence:
-  (g) specifying requirements for the display of a licence, including specifying different display requirements for different classes of RUC vehicle or different types or forms of licence:
+  (g) specifying requirements for the display or carriage of a licence, including specifying different display or carriage requirements for different classes of RUC vehicle or different types or forms of licence:
   (h) prescribing the methods of payment of road user charges, including different methods of payment for different types or forms of licence:
   (i) prescribing alternative payment schemes for paying road user charges for RUC vehicles issued with an electronic distance recorder, including prescribing different alternative payment schemes for different RUC vehicles:
   (j) specifying forms of evidence of registration under an alternative payment scheme for RUC vehicles fitted with an electronic distance recorder:
   (k) prescribing methods for refunding road user charges paid in respect of RUC vehicles fitted with an electronic distance recorder, which may be in addition to or in place of the provisions specified in this Act:
   (l) prescribing or specifying, in relation to exemptions that may be granted under section 40,—
-    (i) 1 or more classes of light RUC vehicles for which an exemption may be granted:
+    (i) that an exemption may be granted for any light RUC vehicle or for 1 or more classes of light RUC vehicles as specified in the regulations:
     (ii) any other criteria that a light RUC vehicle must satisfy in order for the vehicle to qualify for an exemption:
     (iii) any terms and conditions that apply in respect of an exemption, including the information that the RUC collector may require in order to monitor the ongoing operation of the vehicle under section 41:
     (iv) the information that must be contained in an application for an exemption:
@@ -998,6 +1016,21 @@ The Governor-General may, by Order in Council, make regulations for 1 or more of
     (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply:
   (c) providing for any other matters necessary for facilitating or ensuring an orderly transition from the provisions of the former Act to the provisions of this Act.
 (2) No regulations made under this section may be made, or continue in force, later than 1 year after the date on which this section comes into force.
+
+**RUC collector specifying rates of road user charges**
+
+### 90A RUC collector may, in certain cases, specify rate of road user charges
+(1) This section applies if—
+  (a) a vehicle is a RUC vehicle or combination vehicle; and
+  (b) the vehicle or combination vehicle requires a licence; and
+  (c) in the rates of road user charges specified in regulations under section 85, there is no rate that applies to the vehicle or combination vehicle.
+(2) The RUC collector may, by notice in the Gazette, specify a RUC vehicle type and rate of road user charge payable in respect of the class of RUC vehicle that includes that vehicle.
+(3) In specifying a rate of road user charge under subsection (2), the RUC collector must use the same methodology as used for the rates of road user charges specified in regulations made under section 85.
+(4) Section 85(4) and (5) applies to a rate of road user charge specified under this section as if the reference to regulations made under subsection (1) of that section were a reference to a notice in the Gazette under subsection (2) of this section.
+
+### 90B RUC collector to issue assessment for vehicles in respect of which rate specified under section 90A
+(1) After specifying a rate of road user charge under section 90A, the RUC collector must issue to the owner or operator of the vehicle or combination vehicle concerned an assessment of the amount of road user charges payable (including GST payable in respect of those charges).
+(2) The provisions of this Act apply, with any necessary modifications, to an assessment issued under this section as if it were an assessment issued under section 53(1).
 
 **Delegations**
 
@@ -1104,7 +1137,7 @@ The enactments listed in Schedule 3 are consequentially amended in the manner in
     (i) to the street address of the person's usual or last known place of residence; or
     (ii) to the street address of any of the person's usual or last known places of business; or
     (iii) to any other address, if the addressee has notified the RUC collector that the person accepts notices at that address.
-(4) For the purposes of subclause (3)(d), a notice given by post is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
+(4) For the purposes of subclause (3)﻿(d), a notice given by post is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
 
 ### Part 2 — Notice given to RUC collector
 
@@ -1117,6 +1150,6 @@ The enactments listed in Schedule 3 are consequentially amended in the manner in
   (a) by personal delivery, if the delivery is made during working hours; or
   (b) by electronic means of communication, if the person complies with the Electronic Transactions Act 2002; or
   (c) by post to the street address or post office box number for the office.
-(4) For the purposes of subclause (3)(c), a notice given by post is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
+(4) For the purposes of subclause (3)﻿(c), a notice given by post is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
 
 ## Schedule 3 — Consequential amendments to other enactments
