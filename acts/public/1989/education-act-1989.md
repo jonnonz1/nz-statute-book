@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-04-23_
 
 > An Act to reform the administration of education
 
@@ -27,7 +27,7 @@ _Consolidation as at 2014-01-01_
   - **enrolment scheme** means a scheme adopted (and not since abandoned) under section 11H; and includes any amendments to the scheme that have been adopted under section 11M
   - **government training establishment** has the same meaning as it has in section 159
   - **hostel** means a boarding establishment used mainly or solely for the accommodation of students enrolled at a registered school
-  - **industry training organisation** has the same meaning as in section 2 of the Industry Training Act 1992
+  - **industry training organisation** has the same meaning as in section 2 of the Industry Training and Apprenticeships Act 1992
   - **institution** has the same meaning as it has in section 159
   - **intermediate school** has the same meaning as in section 145(1)
   - **international student** , at any time, means a person who is not then a domestic student
@@ -62,7 +62,7 @@ _Consolidation as at 2014-01-01_
   - **sponsor** means a body approved by the Minister under section 158B to operate a partnership school kura hourua
   - **State school** means a school that is a primary school, a composite school, a secondary school, or a special school
   - **student** , in relation to a school or institution, means a person enrolled at the school or institution
-  - **tertiary component** , in relation to a secondary-tertiary programme, means the portion of the programme that consists of the participating student's apprenticeship training (as defined in section 5 of the Modern Apprenticeship Training Act 2000), or participation in tertiary education that—
+  - **tertiary component** , in relation to a secondary-tertiary programme, means the portion of the programme that consists of the participating student's apprenticeship training (as defined in section 13C of the Industry Training and Apprenticeships Act 1992), or participation in tertiary education that—
     (a) is provided by any 1 or more of the following:
       (i) a board of a secondary school, a composite school, or a special school that is a relevant school within the meaning of section 246:
       (ii) the managers of a school registered under section 35A, other than a school registered under that section only as a primary school:
@@ -4109,7 +4109,7 @@ The Official Information Act 1982 does not apply to a sponsor of a partnership s
     (c) the New Zealand Defence Force constituted by section 11(1) of the Defence Act 1990; or
     (d) the New Zealand Police
   - **grant** , in relation to an award, includes confer and issue
-  - **industry training organisation** means a body corporate for the time being recognised under section 5 or section 8(1) of the Industry Training Act 1992
+  - **industry training organisation** means a body corporate for the time being recognised under section 5 or section 8(1) of the Industry Training and Apprenticeships Act 1992
   - **institution** means—
     (a) a college of education; or
     (b) a polytechnic; or
@@ -6644,7 +6644,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 248B Standard-setting bodies
 (1) An approved standard-setting body includes—
-  (a) an industry training organisation within the meaning of the Industry Training Act 1992; and
+  (a) an industry training organisation within the meaning of the Industry Training and Apprenticeships Act 1992; and
   (b) the Ministry of Education; and
   (c) the Authority; and
   (d) any other body approved by the Authority under subsection (3).
@@ -6816,6 +6816,8 @@ In this Part, unless the context otherwise requires,—
   (e) prescribing the requirements for the protection of student fees that must be met by a private training establishment, any person to whom section 234D applies, any agent or person purporting to act as an agent for a student or private training establishment, and any independent trustee:
   (f) prescribing matters relating to the general operation of the Qualifications Framework and the Directory of Assessment Standards:
   (g) prescribing the quality assurance requirements that must be met by providers of adult and community education:
+  (ga) prescribing the amount of, or the method for determining, the annual registration fee required under section 11F of the Industry Training and Apprenticeships Act 1992, and when and how that fee is payable:
+  (gb) prescribing quality assurance requirements for industry training organisations, including, without limitation, requirements relating to the matters described in section 13B of the Industry Training and Apprenticeships Act 1992:
   (h) providing for the review, amendment, removal, or alteration of the status of qualifications and standards, including their components (including where amendments to titles occur, consequential amendments to programmes of study or training titles, accreditations, and consents to assess against standards):
   (i) providing any special requirements for NCEA and other secondary school qualifications or awards for the purposes of the Qualifications Framework:
   (j) providing for the conduct of assessments and examinations relating to any qualifications or awards:
@@ -6902,7 +6904,8 @@ In this Part, unless the context otherwise requires,—
     (x) consent for the use by a registered establishment of certain terms in its name:
     (xi) reporting credits for the purposes of rules made under section 253(1)﻿(o) and (p):
   (b) charge fees to any person or institution for any services provided by the Authority, including fees in relation to sitting for an examination conducted by the Authority, in relation to the making of any assessment by the Authority, or in relation to the granting to any person of an award certifying that the person had passed such an examination or been so assessed:
-  (c) charge fees to any person or institution for any quality assurance activities undertaken by the Authority.
+  (c) charge fees to any person or institution for any quality assurance activities undertaken by the Authority (including quality assurance activities undertaken in accordance with the Authority's functions under the Industry Training and Apprenticeships Act 1992):
+  (d) charge an application fee to a body corporate applying for recognition as an industry training organisation under section 6 of the Industry Training and Apprenticeships Act 1992.
 (3) A fee may not be charged under subsection (2)﻿(b) to a person who is a student at a relevant school unless the Minister has consented to the charging of the fee.
 (4) All fees that are to be charged under subsection (2) must be—
   (a) published on an Internet site maintained by or on behalf of the Authority; and
