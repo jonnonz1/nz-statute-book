@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-04-23_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3725,6 +3725,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 95(6) | Firearms, traps, nets, or similar objects found illegally in possession of any person in reserve and equipment found in possession of any person that has been used to commit offence in reserve may be seized by constable, ranger, or employee of administering body | All (except subpart 3) |
 |  | 100(1) | Officer who has good cause to suspect that offence against Reserves Act 1977 or regulations made under that Act has been committed, on, from, or in respect of certain boats may stop boat and exercise certain powers of search and seizure | All (except subpart 3) |
 | Resource Management Act 1991 | 334(1) | Constable or enforcement officer may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that at, in, on, over, or under any place or vehicle there is any thing in respect of which imprisonable offence under Resource Management Act 1991 or any regulations made under that Act has been committed or any thing that is evidence of such offence or that is intended to be used to commit such offence | All (except that sections 118 and 119 apply to constables only) |
+| Road User Charges Act 2012 | 79 | Constable may obtain and execute a search warrant for evidence of offences against Road User Charges Act 2012 | All (except sections 118 and 119 apply to constables only) |
 | Sale and Supply of Alcohol Act 2012 | 270 | Constable may obtain and execute search warrant if issuing officer is satisfied that there are reasonable grounds for believing that certain contraventions of Sale and Supply of Alcohol Act 2012 are occurring | All |
 | Tax Administration Act 1994 | 16 | Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may have full and free access to things described in section 16 of Tax Administration Act 1994 for purpose of inspection as described in that section, including making extracts and copies | Subparts 1, 3, 4, 7, 9, and 10 (except sections 102, 103(3)(b)(ii), 103(4)(g), 103(7), 115(1)(b), 118, 119, and 130(4)) |
 |  | 16C(2) | Commissioner of Inland Revenue or authorised employee of Inland Revenue Department may obtain and execute warrant to remove books and documents from place and retain them for full and complete inspection if issuing officer is satisfied that this may be required to enable applicant to exercise his or her functions under section 16 of Tax Administration Act 1994 | Subparts 1, 3, 4, 7, 9, and 10 (except sections 102, 103(3)(b)(ii), 103(4)(g), 103(7), 115(1)(b), 118, 119, and 130(4)) |
