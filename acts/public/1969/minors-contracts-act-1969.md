@@ -1,5 +1,5 @@
 # Minors' Contracts Act 1969
-_Consolidation as at 2011-04-01_
+_Consolidation as at 2014-04-23_
 
 > An Act to restate and reform the law relating to minors' contracts
 
@@ -32,7 +32,7 @@ This Act shall bind the Crown.
   (b) any provision of any such contract imposing an obligation on any party thereto who was a minor was harsh or oppressive,
 (3) For the purposes of subsection (2), the court may receive evidence of commercial practice in contracts of the same kind.
 (4) Nothing in subsection (2) shall apply to—
-  (a) any contract of apprenticeship to which the Industry Training Act 1992 applies; or
+  (a)
   (b) any indenture of apprenticeship to which section 29 of the Shipping and Seamen Act 1952 applies; or
   (c) any indenture of apprenticeship entered into under section 95 of the Defence Act 1990, section 222A of the Post Office Act 1959, section 83B of the Government Railways Act 1949, section 175B of the Coal Mines Act 1925, or section 70 of the State Services Act 1962; or
   (d) any agreement entered into under section 4A of the Maori Housing Amendment Act 1938.
@@ -41,7 +41,7 @@ This Act shall bind the Crown.
   (b) the compromise or settlement of any claim for money or damages made by or on behalf of any minor (whether alone or in conjunction with any other person).
 
 ### 6 Contracts of minors
-(1) Subject to the provisions of this section, every contract (other than a contract to which paragraph (b) or paragraph (c) of subsection 5(1) applies) entered into by a minor is unenforceable against the minor but otherwise has effect as if the minor were of full age.
+(1) Subject to the provisions of this section, every contract (other than a contract to which paragraph (b) or paragraph (c) of section 5(1) applies) entered into by a minor is unenforceable against the minor but otherwise has effect as if the minor were of full age.
 (2) The court may, in the course of any proceedings or on application made for the purpose, inquire into the fairness and reasonableness of any contract to which subsection (1) applies at the time the contract was entered into and—
   (a) if it finds that any such contract was fair and reasonable at that time it shall not be obliged to make any order but it may in its discretion—
     (i) enforce the contract against the minor:
