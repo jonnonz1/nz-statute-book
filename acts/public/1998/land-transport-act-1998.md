@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2013-11-01_
+_Consolidation as at 2014-04-23_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -4767,8 +4767,20 @@ An enforcement authority may, in relation to infringement offences against regul
   (b) a statutory entity (within the meaning of the Crown Entities Act 2004):
   (c) a department specified in Schedule 1 of the State Sector Act 1988.
 
+### 269A Additional fee for certain RUC vehicles
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, prescribe an additional fee payable in respect of—
+  (a) all RUC vehicles (within the meaning of the Road User Charges Act 2012) that are operated on road and that are exempt from paying road user charges under section 38 or 38A of that Act; or
+  (b) 1 or more classes of RUC vehicles that are operated on road and that are exempt from paying road user charges under section 38 or 38A of that Act.
+(2) The additional fee—
+  (a) is to be treated as land transport revenue for the purposes of the Land Transport Management Act 2003; and
+  (b) is to be set having regard to—
+    (i) the extent of the use of the vehicles on road; and
+    (ii) the likely costs that the vehicles generate when used on road; and
+  (c) is payable in addition to the fee payable in respect of an application for the licence for a motor vehicle or for the issue of trade plates (as the case may be).
+(3) An additional fee prescribed under subsection (1) may be set at different levels for different classes of vehicles (whether licensed or operating under trade plates).
+
 ### 270 Fees and charges identified as land transport revenue
-(1) This section applies to regulations made by Order in Council under section 269 that prescribe fees or charges that are identified as land transport revenue for the purposes of the Land Transport Management Act 2003 (relevant regulations).
+(1) This section applies to regulations made by Order in Council under section 269 or 269A that prescribe fees or charges that are identified or to be treated as land transport revenue for the purposes of the Land Transport Management Act 2003 (relevant regulations).
 (2) If relevant regulations are made on or before 30 June in any year, they expire on the close of 31 December of that year except so far as they are expressly confirmed by Act of Parliament passed during that year.
 (3) If relevant regulations are made on or after 1 July in any year, they expire on the close of 31 December in the following year except so far as they are expressly confirmed by Act of Parliament passed before the end of that following year.
 (4) If relevant regulations expire by virtue of subsection (2) or (3), the fees or charges replaced or altered by those regulations are, from the expiry of those regulations and until the fees or charges are again replaced or altered, the same as they were immediately before those regulations came into force.
