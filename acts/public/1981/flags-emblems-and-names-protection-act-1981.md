@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-23_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -304,7 +304,7 @@ The Governor-General may, from time to time, by Order in Council,—
 | Cultural Property (Protection in Armed Conflict) Act 2012: section 36 | Distinctive emblem of the Convention for the Protection of Cultural Property in the Event of Armed Conflict |
 | Gambling Act 2003: section 267 | New Zealand Lotteries Commission |
 | Gambling Act 2003: section 268 | Golden Kiwi |
-| Geneva Conventions Act 1958: section 8 | Red Cross or Geneva CrossRed CrescentRed Lion and Sun |
+| Geneva Conventions Act 1958: section 8 | Red Cross or Geneva CrossRed CrescentRed CrystalRed Lion and Sun |
 | Housing Corporation Act 1974: section 43 | Housing New Zealand Corporation and Housing Corporation of New Zealand |
 | Local Government Act 1974: section 696 | Coats of arms of city, borough, county, district, town, regional, and united councils |
 | Museum of New Zealand Te Papa Tongarewa Act 1992: section 23 | Museum of New Zealand, Te Papa Tongarewa, National Art Gallery, National Museum |
