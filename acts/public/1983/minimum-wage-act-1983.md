@@ -1,5 +1,5 @@
 # Minimum Wage Act 1983
-_Consolidation as at 2013-07-15_
+_Consolidation as at 2014-04-23_
 
 > An Act to consolidate and amend the law relating to minimum wages
 
@@ -127,7 +127,7 @@ Notwithstanding anything to the contrary in any enactment, award, collective agr
 
 ### 9 Workers to whom Act does not apply
 This Act shall not apply to—
-  (a) apprentices under apprenticeship contracts (within the meaning of section 2 of the Industry Training Act 1992):
+  (a)
   (b) apprentices bound by an indenture of apprenticeship entered into under the Maori Housing Amendment Act 1938, the New Zealand Railways Corporation Act 1981, the Defence Act 1971, the Post Office Act 1959, or the State Services Act 1962, or under any other Act:
   (c)
   (d) inmates of any charitable institution (not being persons residing on the premises by reason only of their being employed therein) who, as such inmates, do any work in or in connection with the institution.
