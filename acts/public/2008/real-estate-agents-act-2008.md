@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-04-23_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -129,7 +129,7 @@ This section establishes the Real Estate Agents Authority.
   (n) carry out any other function that the Minister may direct the Authority to perform in accordance with section 112 of the Crown Entities Act 2004; and
   (o) carry out any other functions that may be conferred on the Authority by this Act or any other enactment.
 (2) The Authority may, where it considers it appropriate to do so, consult with representatives of the real estate industry about any matter that relates to the functions of the Authority.
-(3) For the avoidance of doubt, nothing in subsection (1) affects the role of an industry training organisation for the time being recognised under the Industry Training Act 1992 as an industry training organisation for the real estate industry.
+(3) For the avoidance of doubt, nothing in subsection (1) affects the role of an industry training organisation for the time being recognised under the Industry Training and Apprenticeships Act 1992 as an industry training organisation for the real estate industry.
 
 **Membership of Authority**
 
