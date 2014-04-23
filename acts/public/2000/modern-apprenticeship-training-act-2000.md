@@ -1,5 +1,5 @@
 # Modern Apprenticeship Training Act 2000
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-04-23_
 
 ### 1 Title
 This Act is the Modern Apprenticeship Training Act 2000.
