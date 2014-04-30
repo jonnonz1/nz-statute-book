@@ -1,5 +1,5 @@
 # Estate and Gift Duties Act 1968
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-30_
 
 > An Act to consolidate and amend the law relating to estate duty and gift duty
 
@@ -439,7 +439,7 @@ Where the Commissioner is satisfied that any gift is made for or towards the mai
   (a) any gift to the New Zealand Historic Places Trust for the purposes of the Historic Places Act 1993:
   (b) any gift of a protected New Zealand object, as defined in the Protected Objects Act 1975, to the Minister of Internal Affairs on behalf of the Crown, or to any library, museum, or other public institution for the benefit of the public:
   (ba) any gift to the Museum of New Zealand Te Papa Tongarewa Board for the purposes of the Museum of New Zealand Te Papa Tongarewa Act 1992:
-  (c) any gift to the Arts Council of New Zealand Toi Aotearoa for the purposes of the Arts Council of New Zealand Toi Aotearoa Act 1994:
+  (c) any gift to the Arts Council of New Zealand Toi Aotearoa for the purposes of the Arts Council of New Zealand Toi Aotearoa Act 2014:
   (d) any gift to the Health Research Council of New Zealand for the purposes of health research:
   (da) any gift to Sport and Recreation New Zealand for the purposes of the Sport and Recreation New Zealand Act 2002:
   (e) any gift to the New Zealand Patriotic Fund Board, the Canteen Fund Board, or any Provincial Patriotic Council for any patriotic purpose, or under the provisions of section 10C of the Patriotic and Canteen Funds Act 1947 (as substituted by section 3 of the Patriotic and Canteen Funds Amendment Act 1987):
