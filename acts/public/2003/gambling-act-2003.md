@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-04-30_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -3098,7 +3098,7 @@ In addition to the powers specifically provided in this Act, the Board has all t
 
 ### 279 Allocation of profits to certain statutory bodies
 (1) The Board may allocate from the profits of New Zealand lotteries a specified sum of money for expenditure, in accordance with the terms of their statutes, by any of the following bodies:
-  (a) the Arts Council of New Zealand Toi Aotearoa constituted under the Arts Council of New Zealand Toi Aotearoa Act 1994:
+  (a) the Arts Council of New Zealand Toi Aotearoa constituted under the Arts Council of New Zealand Toi Aotearoa Act 2014:
   (b) the New Zealand Film Commission established under the New Zealand Film Commission Act 1978:
   (c) Sport and Recreation New Zealand, as established under the Sport and Recreation New Zealand Act 2002.
 (2) Where a sum is allocated to any of these bodies,—
