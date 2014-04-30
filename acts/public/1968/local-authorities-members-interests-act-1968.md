@@ -1,5 +1,5 @@
 # Local Authorities (Members' Interests) Act 1968
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-04-30_
 
 > An Act to consolidate and amend the law relating to the making of contracts between local authorities and the members thereof, and to the restrictions on the actions of such members when matters in which they have a pecuniary interest are under consideration
 
@@ -131,7 +131,7 @@ The Auditor-General shall, either on investigation following receipt of a compla
 | Administering bodies under the Reserves Act 1977 | Reserves Act 1977 (1977 No 66) |
 | Catchment Boards | Soil Conservation and Rivers Control Act 1941 (1941 No 12) |
 | Cemetery trustees | Burial and Cremation Act 1964 (1964 No 75) |
-| Community Arts Councils | Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19) |
+| Community Arts Councils | Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1) |
 | Community Boards | Local Government Act 2002 (2002 No 84) |
 | Domain Boards | Reserves and Domains Act 1953 (1953 No 69) |
 | Drainage Boards | Land Drainage Act 1908 (1908 No 96) |
