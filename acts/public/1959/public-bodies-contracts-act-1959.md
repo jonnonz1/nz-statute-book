@@ -1,5 +1,5 @@
 # Public Bodies Contracts Act 1959
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-04-30_
 
 > An Act to make provision for the making of contracts by local authorities and other public bodies
 
@@ -72,7 +72,7 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 | --- | --- |
 | Accident Compensation Corporation | Accident Compensation Act 2001 (2001 No 49) |
 | Aotea Centre Board of Management | Auckland Aotea Centre Empowering Act 1985 (1985 No 9 (L)) |
-| Arts Council of New Zealand Toi Aotearoa | Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19) |
+| Arts Council of New Zealand Toi Aotearoa | Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1) |
 | Broadcasting Commission | Broadcasting Act 1989 (1989 No 25) |
 | Christchurch Town Hall Board of Management | Christchurch Town Hall Board of Management Act 1976 (1976 No 2 (L)) |
 | Decimal Currency Board | Decimal Currency Act 1964 (1964 No 27) |
