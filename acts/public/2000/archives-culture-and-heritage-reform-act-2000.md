@@ -1,5 +1,5 @@
 # Archives, Culture, and Heritage Reform Act 2000
-_Consolidation as at 2006-11-01_
+_Consolidation as at 2014-04-30_
 
 ### 1 Title
 This Act is the Archives, Culture, and Heritage Reform Act 2000.
@@ -25,7 +25,7 @@ The purpose of this Act is—
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **responsible department** means the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Archives Act 1957
-  - **responsible ministry** means the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Arts Council of New Zealand Toi Aotearoa Act 1994
+  - **responsible ministry** means the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Arts Council of New Zealand Toi Aotearoa Act 2014
   - **transferred employee** means a person employed in the Department of Internal Affairs immediately before the commencement of this Act who is transferred to the responsible department under section 5.
 
 ### 5 Transfer of employees
@@ -61,7 +61,7 @@ A transferred employee is not entitled to receive any compensation for redundanc
 ### 10 References to functions being transferred to responsible department or responsible ministry
 (1) Unless the context otherwise requires, in any regulation, rule, order, agreement, deed, instrument, application, notice, direction, contract, lease, or other document in force at the commencement of this Act, the references specified in subsections (2) and (3) must be read in the manner indicated in those subsections.
 (2) Every reference to the Secretary for Internal Affairs, when used in relation to the National Archives, is a reference to the chief executive of the responsible department.
-(3) Every reference to the Secretary for Internal Affairs, when used in relation the Heritage Property Unit, Historical Branch of the Department of Internal Affairs, or the Dictionary of New Zealand Biography, is a reference to the chief executive of the responsible ministry.
+(3) Every reference to the Secretary for Internal Affairs, when used in relation to the Heritage Property Unit, Historical Branch of the Department of Internal Affairs, or the Dictionary of New Zealand Biography, is a reference to the chief executive of the responsible ministry.
 
 ### 11 Savings relating to brands, logos, marks, etc
 All names, brands, stamps, logos, emblems, marks, forms, and other representation or documents that were in use by the Department of Internal Affairs at any time before the date of commencement of this Act for the purposes of the National Archives, the Heritage Property Unit, the Historical Branch, or the Dictionary of New Zealand Biography—
