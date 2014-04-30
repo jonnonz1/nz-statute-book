@@ -1,5 +1,5 @@
 # Arts Council of New Zealand Toi Aotearoa Act 1994
-_Consolidation as at 2009-01-01_
+_Consolidation as at 2014-04-30_
 
 > An Act—ato constitute the Arts Council of New Zealand Toi Aotearoa; andbto constitute the Arts Board and Te Waka Toi; andcto dissolve the Queen Elizabeth the Second Arts Council of New Zealand, Regional Arts Councils, and the Council for Maori and South Pacific Arts; anddto repeal the Queen Elizabeth the Second Arts Council of New Zealand Act 1974
 
