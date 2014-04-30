@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2014-04-14_
+_Consolidation as at 2014-04-30_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -53,7 +53,7 @@ _Consolidation as at 2014-04-14_
   - **intelligence organisation** means—
     (a) the New Zealand Security Intelligence Service; and
     (b) the Government Communications Security Bureau
-  - **international organisation** means any organisation of states or governments of states or any organ or agency of any such organisation; and includes the Commonwealth Secretariat
+  - **international organisation** means any organisation of States or Governments of States or any organ or agency of any such organisation; and includes the Commonwealth Secretariat
   - **local authority** —
     (a) means a local authority or public body named or specified in Schedule 1 of the Local Government Official Information and Meetings Act 1987; and
     (b) includes—
@@ -300,23 +300,23 @@ The provisions of Schedule 1 shall have effect in relation to the Commissioner a
 (1) An agency may refuse to disclose any information requested pursuant to principle 6 if the disclosure of the information would be likely—
   (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
   (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by—
-    (i) the government of any other country or any agency of such a government; or
+    (i) the Government of any other country or any agency of such a Government; or
     (ii) any international organisation; or
   (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
   (d) to endanger the safety of any individual.
 (2) An agency may refuse to disclose any information requested pursuant to principle 6 if the disclosure of the information would be likely—
   (a) to prejudice the security or defence of—
-    (i) the self-governing state of the Cook Islands; or
-    (ii) the self-governing state of Niue; or
+    (i) the self-governing State of the Cook Islands; or
+    (ii) the self-governing State of Niue; or
     (iii) Tokelau; or
     (iv) the Ross Dependency; or
   (b) to prejudice relations between any of the Governments of—
     (i) New Zealand:
-    (ii) the self-governing state of the Cook Islands:
-    (iii) the self-governing state of Niue; or
+    (ii) the self-governing State of the Cook Islands:
+    (iii) the self-governing State of Niue; or
   (c) to prejudice the international relations of the Governments of—
-    (i) the self-governing state of the Cook Islands; or
-    (ii) the self-governing state of Niue.
+    (i) the self-governing State of the Cook Islands; or
+    (ii) the self-governing State of Niue.
 
 ### 28 Trade secrets
 (1) Subject to subsection (2), an agency may refuse to disclose any information requested pursuant to principle 6 if the withholding of the information is necessary to protect information where the making available of the information—
@@ -1393,7 +1393,7 @@ Where a specified agency derives or receives information produced by an authoris
     (b) a fine to which section 19 of the Crimes Act 1961 applies:
     (c) a fine to which section 43 or 45 of the Misuse of Drugs Amendment Act 1978 applies:
     (d)
-    (e) any amount payable under section 138A(1) of the Sentencing Act 2002
+    (e) any amount payable under section 138A(1) of the Sentencing Act 2002.
 
 ### 104 Reporting requirements
 (1) Every specified agency that is involved in an authorised information matching programme shall make such reports to the Commissioner in respect of that programme as the Commissioner may from time to time require.
@@ -1437,7 +1437,7 @@ Where a specified agency derives or receives information produced by an authoris
 
 ### 107 Amendment of information matching rules
 (1) For the purposes of this Part, the Governor-General may from time to time, by Order in Council, make such amendments to Schedule 4 as the Governor-General thinks fit.
-(2) The power conferred by subsection (1) includes the power to revoke Schedule 4 and substitute a new schedule.
+(2) The power conferred by subsection (1) includes the power to repeal Schedule 4 and substitute a new schedule.
 (3) No order that amends Schedule 4 shall be made otherwise than in accordance with the recommendations of the Commissioner.
 
 **Avoidance of controls on information matching**
@@ -1570,7 +1570,7 @@ Section 87 and Part 4 of the Human Rights Act 1993 apply, with all necessary mod
 (2) Notwithstanding anything in subsection (1), the Commissioner may disclose such matters as in the Commissioner's opinion ought to be disclosed for the purposes of giving effect to this Act.
 (3) Except where it is necessary to do so for the purposes of referring a matter to the Director of Human Rights Proceedings pursuant to section 77(2), the power conferred by subsection (2) of this section shall not extend to—
   (a) any matter that might prejudice—
-    (i) the security, defence, or international relations of New Zealand (including New Zealand's relations with the government of any other country or with any international organisation); or
+    (i) the security, defence, or international relations of New Zealand (including New Zealand's relations with the Government of any other country or with any international organisation); or
     (ii) any interest protected by section 7 of the Official Information Act 1982; or
     (iii) the prevention, investigation, or detection of offences; or
   (b) any matter that might involve the disclosure of the deliberations of Cabinet; or
@@ -1674,7 +1674,7 @@ The Governor-General may, by Order in Council,—
 Section 129B takes effect on the repeal of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
 
 ### 129B New section 96M substituted
-Amendment incorporated in this Act.
+Amendment(s) incorporated in the Act(s).
 
 **Transitional provisions and savings**
 
@@ -1748,6 +1748,7 @@ The income of the Commissioner shall be exempt from income tax.
 | --- | --- |
 | Agricultural Compounds and Veterinary Medicines Act 1997 | Section 44ZH |
 | Animal Products Act 1999 | Sections 18, 52, 73, and 112S |
+| Arts Council of New Zealand Toi Aotearoa Act 2014 | Section 12 |
 | Auditor Regulation Act 2011 | Section 38 |
 | Births, Deaths, Marriages, and Relationships Registration Act 1995 | Sections 5, 7(2), 8, 21B, 24, 25, 34, 36, 48(3), 50, 53, 56, 58, 62A, and 62C |
 | Building Act 2004 | Sections 216, 273, and 298 |
@@ -1811,7 +1812,7 @@ The income of the Commissioner shall be exempt from income tax.
 | --- | --- |
 | Accident Compensation Act 2001 | Sections 246, 280, and 281 |
 | Accident Insurance Act 1998 | Sections 370 and 371 (as saved by section 343 of the Accident Compensation Act 2001) |
-| Births, Deaths, Marriages, and Relationships Registration Act 1995 | Section 78A and 78B |
+| Births, Deaths, Marriages, and Relationships Registration Act 1995 | Sections 78A and 78B |
 | Citizenship Act 1977 | Section 26A |
 | Corrections Act 2004 | Sections 180 to 180D, 181, 182, and 204 |
 | Customs and Excise Act 1996 | Sections 280 to 280D, 280K, 280L and 280H |
