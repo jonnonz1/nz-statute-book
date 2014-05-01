@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-05-01_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -240,7 +240,7 @@ This Act has the following additional purposes:
     (c) a court order relating to the financial product:
     (d) this Act (including, in relation to a managed investment product, all obligations as manager):
     (e) the KiwiSaver Act 2006:
-    (f) Part 5D of the Reserve Bank of New Zealand Act 1989
+    (f) the Non-bank Deposit Takers Act 2013
   - **KiwiSaver scheme** means a scheme that is registered on the register of managed investment schemes as a KiwiSaver scheme
   - **lawyer** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
   - **licence** means a licence under this Act or, in relation to a supervisor, the Financial Markets Supervisors Act 2011, and means having a licence, or being authorised under a licence, under this Act or, in relation to a supervisor, having a licence under the Financial Markets Supervisors Act 2011
@@ -292,6 +292,7 @@ This Act has the following additional purposes:
     (b) in Part 5, has the meaning set out in section 231
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **money** includes money's worth (except in the definitions of debt security, investor money, and investor property)
+  - **NBDT** has the same meaning as in section 5 of the Non-bank Deposit Takers Act 2013
   - **New Zealand resident for tax purposes** means a person that is a New Zealand resident, as determined under sections YD 1 and YD 2 of the Income Tax Act 2007
   - **non-quoted financial products** means financial products that are not quoted
   - **offer** includes—
@@ -769,7 +770,7 @@ An offer of financial products for issue requires disclosure to an investor unde
 An offer of financial products for sale requires disclosure to an investor under this Part only if disclosure is required under Part 2 of Schedule 1.
 
 ### 41 Meaning of regulated offer and of regulated product
-(1) In this Act, regulated offer—ExampleABC Limited makes an offer of its ordinary shares to 100 investors.Of those investors, 5 are wholesale investors, 15 are relatives of directors of ABC Limited, and 20 are close business associates of ABC Limited. Exclusions under Schedule 1 apply and accordingly the offers to these investors do not require disclosure under this Part.However, none of the exclusions in Schedule 1 apply to the remaining 60 investors. The offer to each of these investors requires disclosure. This means that a product disclosure statement must be given to each of the 60 investors under section 50 (subject to section 51).The offer of ABC Limited's ordinary shares, as a whole, is a regulated offer because at least some of the offers to investors require disclosure. Some obligations under this Act apply to the regulated offer as a whole. These obligations apply to all of the investors even if the offers to some of those investors do not require disclosure. For example, all money paid for the shares must be held in trust under section 87 (even if the money is paid by a wholesale investor, a relative, or a close business associate), ongoing disclosure under subpart 4 may be required to be made to a wholesale investor, a relative, or a close business associate, and registers of financial products kept under subpart 4 of Part 4 relate to products held by all product holders.
+(1) In this Act, regulated offer—ExampleABC Limited makes an offer of its ordinary shares to 100 investors.Of those investors, 5 are wholesale investors, 15 are relatives of directors of ABC Limited, and 20 are close business associates of ABC Limited. Exclusions under Schedule 1 apply and accordingly the offers to these investors do not require disclosure under this Part.However, none of the exclusions in Schedule 1 apply to the remaining 60 investors. The offer to each of these investors requires disclosure. This means that a product disclosure statement must be given to each of the 60 investors under section 50 (subject to section 51).The offer of ABC Limited's ordinary shares, as a whole, is a regulated offer because at least some of the offers to investors require disclosure.Some obligations under this Act apply to the regulated offer as a whole. These obligations apply to all of the investors even if the offers to some of those investors do not require disclosure. For example, all money paid for the shares must be held in trust under section 87 (even if the money is paid by a wholesale investor, a relative, or a close business associate), ongoing disclosure under subpart 4 may be required to be made to a wholesale investor, a relative, or a close business associate, and registers of financial products kept under subpart 4 of Part 4 relate to products held by all product holders.
   (a) means an offer of financial products to 1 or more investors where the offer to at least 1 of those investors requires disclosure under this Part (regardless of whether or not an exclusion under Schedule 1 applies to an offer to 1 or more other investors); but
   (b) does not include an offer of financial products to 1 or more investors if—
     (i) the only investors who are able, under the terms of the offer, to acquire the products are investors to whom disclosure under this Part is not required; and
@@ -918,7 +919,7 @@ A register entry for a regulated offer is not required in the prescribed circums
   (c) A has not withdrawn the consent before the PDS is lodged with the Registrar.
 (2) Nothing in subsection (1) applies in relation to any statement given by an approved rating agency in connection with a rating given, or to be given, by it.
 (3) In this section and section 83(3),—
-  - **approved rating agency** means a rating agency nominated or approved under section 80 of the Reserve Bank of New Zealand Act 1989 or section 62 of the Insurance (Prudential Supervision) Act 2010
+  - **approved rating agency** means a rating agency nominated or approved under section 80 of the Reserve Bank of New Zealand Act 1989, section 86 of the Non-bank Deposit Takers Act 2013, or section 62 of the Insurance (Prudential Supervision) Act 2010
   - **endorsement** means a statement that—
     (a) may reasonably be regarded as encouraging or persuading persons to acquire the financial products on offer; and
     (b) relates to the particular financial products on offer or the particular issuer, rather than to financial products generally or issuers generally
@@ -2900,7 +2901,7 @@ A person must not do, or omit to do, anything if—
 
 ### 268 Defence
 In any proceeding against a person (A) for contravention of section 265, it is a defence if the trading in the financial products occurred, or the offer to trade was made, in conformity with accepted market practices and for a proper purpose.
-ExampleThe trustees of the ABC Family Trust hold financial products on trust. New trustees have been appointed to replace the original trustees. The financial products are transferred to the new trustees in connection with the appointment.No change in the beneficial ownership results (see section 267(1)). However, there is no contravention of section 265 because the transfer was in conformity with accepted market practices and for a proper purpose.
+ExampleThe trustees of the ABC Family Trust hold financial products on trust.New trustees have been appointed to replace the original trustees. The financial products are transferred to the new trustees in connection with the appointment.No change in the beneficial ownership results (see section 267(1)). However, there is no contravention of section 265 because the transfer was in conformity with accepted market practices and for a proper purpose.
 
 ### 269 Criminal liability for false or misleading appearance of trading
 (1) A person who contravenes section 265 commits an offence if the person knows that the act or omission will have, or is likely to have, the effect of creating, or causing the creation of, a false or misleading appearance—
@@ -6352,7 +6353,7 @@ A person is a wholesale investor,—
     (iv) providing a broking service (within the meaning of section 77B of the Financial Advisers Act 2008) in relation to financial products; or
     (v) trading in financial products on behalf of other persons; or
   (b) a registered bank; or
-  (c) a deposit taker (within the meaning of section 157C of the Reserve Bank of New Zealand Act 1989); or
+  (c) an NBDT; or
   (d) a licensed insurer (within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010); or
   (e) a manager of a registered scheme, or a discretionary investment management service, that holds a market services licence; or
   (f) a derivatives issuer that holds a market services licence; or
