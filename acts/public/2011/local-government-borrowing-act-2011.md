@@ -1,5 +1,5 @@
 # Local Government Borrowing Act 2011
-_Consolidation as at 2011-12-02_
+_Consolidation as at 2014-05-01_
 
 ### 1 Title
 This Act is the Local Government Borrowing Act 2011.
@@ -30,10 +30,10 @@ This Act applies to the Funding Agency only while the Funding Agency is a counci
 ### 6 Act binds the Crown
 This Act binds the Crown.
 
-**Application of Reserve Bank of New Zealand Act 1989**
+**Application of Non-bank Deposit Takers Act 2013**
 
-### 7 Part 5D of Reserve Bank of New Zealand Act 1989 does not apply to Funding Agency
-Part 5D of the Reserve Bank of New Zealand Act 1989 does not apply to the Funding Agency.
+### 7 Funding Agency not a non-bank deposit taker
+The Funding Agency is not an NBDT (a non-bank deposit taker) for the purposes of the Non-bank Deposit Takers Act 2013.
 
 **Application of Securities Act 1978**
 
