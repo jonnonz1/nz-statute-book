@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-05-01_
 
 > An Act to enable the Registrar of Companies and the Financial Markets Authority to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -72,7 +72,7 @@ Nothing in this Act shall be regarded as imposing on the Registrar, or the FMA, 
   (a) giving a written notice requiring any licensed insurer or registered bank to supply any information under section 9:
   (b) appointing any person to carry out an investigation of the affairs of any licensed insurer or registered bank under section 19:
   (c) giving a written notice to any licensed insurer or registered bank that it is considered to be a corporation at risk.
-(3) The FMA must consult with the Reserve Bank of New Zealand before making a recommendation to the Minister under section 38 in respect of any licensed insurer, registered bank, or covered bond SPV.
+(3) The FMA must consult with the Reserve Bank of New Zealand before making a recommendation to the Minister under section 38 in respect of any licensed insurer, non-bank deposit taker licensed under the Non-bank Deposit Takers Act 2013, registered bank, or covered bond SPV.
 
 ## Part 1 — Supply of information by, and investigation of affairs of, corporations
 
