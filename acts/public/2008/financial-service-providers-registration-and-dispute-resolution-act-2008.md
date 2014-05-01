@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-05-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -211,7 +211,7 @@ A person is qualified to be registered as a financial service provider if—
   (c) confirm that the applicant is not disqualified under section 14; and
   (d) contain, or be accompanied by, any other prescribed information or documents; and
   (e) be accompanied by the prescribed fee or levy (if any).
-(2) If the application relates to a licensed service, it must be accompanied by any information required, by or under the licensing enactment, to become a licensed provider.
+(2) If the application relates to a licensed service, it must be accompanied by any information required, by or under the licensing enactment, to become a licensed provider, unless otherwise agreed by the relevant licensing authority and the Registrar.
 
 ### 16 Registration of financial service provider
 (1) If the Registrar accepts that an applicant is qualified to be registered as a financial service provider, the Registrar must—
