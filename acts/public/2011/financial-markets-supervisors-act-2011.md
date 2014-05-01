@@ -1,5 +1,5 @@
 # Securities Trustees and Statutory Supervisors Act 2011
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-05-01_
 
 ### 1 Title
 This Act is the Securities Trustees and Statutory Supervisors Act 2011.
@@ -19,7 +19,7 @@ The purpose of this Act is to protect the interests of security holders, and of 
 (1) In this Act, unless the context otherwise requires,—
   - **deed of participation** means a deed of participation relating to a participatory security that is required under section 33(3) of the Securities Act 1978 and includes every instrument that amends the deed of participation
   - **deed of supervision** has the meaning given in section 5 of the Retirement Villages Act 2003 and includes every instrument that amends the deed of supervision
-  - **deposit taker** has the meaning given in section 157C of the Reserve Bank of New Zealand Act 1989
+  - **deposit taker** means an NBDT as defined in section 5 of the Non-bank Deposit Takers Act 2013
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **FMA appointee** has the meaning given in section 37(1)
   - **governing document** means, as the context requires,—
@@ -33,7 +33,7 @@ The purpose of this Act is to protect the interests of security holders, and of 
     (c) a court order relating to the security:
     (d) this Act:
     (e) the KiwiSaver Act 2006:
-    (f) Part 5D of the Reserve Bank of New Zealand Act 1989:
+    (f) the Non-bank Deposit Takers Act 2013:
     (g) the Securities Act 1978:
     (h) the Unit Trusts Act 1960
   - **KiwiSaver scheme** means a KiwiSaver scheme other than a restricted KiwiSaver scheme (within the meanings given to those terms in section 4(1) of the KiwiSaver Act 2006)
@@ -48,7 +48,7 @@ The purpose of this Act is to protect the interests of security holders, and of 
     (c) a court order relating to a supervised interest:
     (d) this Act:
     (e) the KiwiSaver Act 2006:
-    (f) Part 5D of the Reserve Bank of New Zealand Act 1989:
+    (f) the Non-bank Deposit Takers Act 2013:
     (g) the Retirement Villages Act 2003:
     (h) the Securities Act 1978:
     (i) the Unit Trusts Act 1960
