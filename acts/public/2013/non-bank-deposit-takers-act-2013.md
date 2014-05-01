@@ -1,5 +1,5 @@
 # Non-bank Deposit Takers Act 2013
-_Consolidation as at 2013-12-03_
+_Consolidation as at 2014-05-01_
 
 ### 1 Title
 This Act is the Non-bank Deposit Takers Act 2013.
