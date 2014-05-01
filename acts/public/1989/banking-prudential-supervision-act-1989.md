@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-05-01_
 
 > Title
 
@@ -356,7 +356,7 @@ Every financial institution commits an offence against this Act if, without lawf
 (2) Every financial institution commits an offence against this Act if, without lawful justification or excuse, it fails to comply with a requirement under subsection (1).
 
 ### 39 Powers
-Without limiting section 5 or any other provision of this Act or the Insurance (Prudential Supervision) Act 2010, the Bank has power, whether in New Zealand or elsewhere, to—
+Without limiting section 5 or any other provision of this Act, the Non-bank Deposit Takers Act 2013, or the Insurance (Prudential Supervision) Act 2010, the Bank has power, whether in New Zealand or elsewhere, to—
   (a) carry on the business of banking:
   (b) issue securities:
   (c) give a fixed or floating charge over all or any part of the undertaking or property of the Bank:
@@ -376,10 +376,9 @@ Without limiting section 5 or any other provision of this Act or the Insurance (
 (1) It is the duty of the Governor to ensure that the Bank carries out the functions imposed on it by—
   (a) this Act; and
   (b) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; and
-  (c) the Insurance (Prudential Supervision) Act 2010.
-(2) The Governor has the authority, in the performance of those functions, to act in relation to all matters that are not by this Act, or either of the following Acts, required to be dealt with by the Board:
-  (a) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
-  (b) the Insurance (Prudential Supervision) Act 2010.
+  (c) the Insurance (Prudential Supervision) Act 2010; and
+  (d) the Non-bank Deposit Takers Act 2013.
+(2) The Governor has the authority, in the performance of those functions, to act in relation to all matters that are not required, by any Act referred to in subsection (1), to be dealt with by the Board.
 
 ### 42 Conditions of employment of Governor
 (1) The Governor shall be appointed for a term of 5 years and may be reappointed for a further term or terms, each of up to 5 years.
@@ -404,7 +403,7 @@ Without limiting section 5 or any other provision of this Act or the Insurance (
 ### 46 Disqualification of Governor and Deputy Governor
 (1) No person shall be appointed or reappointed, or continue to hold office, as Governor, Deputy Governor, or a Deputy Governor, if that person—
   (a) is a member of Parliament; or
-  (b) is an employee of a registered bank or of a deposit taker as defined in section 157C or of a licensed insurer; or
+  (b) is an employee of a registered bank or of a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or of a licensed insurer; or
   (c) is 70 years of age or over; or
   (d) is a chief executive of a Government department or an employee of a Government department, appointed under the State Sector Act 1988; or
   (e) is a bankrupt who has not obtained a final order of discharge, or whose order of discharge has been suspended for a term not yet expired, or is subject to a condition not yet fulfilled; or
@@ -417,14 +416,14 @@ Without limiting section 5 or any other provision of this Act or the Insurance (
 (2) The Governor, the Deputy Governor, or a Deputy Governor, as the case may be, shall be deemed to have resigned office if that person is prohibited from continuing to hold office under this section.
 
 ### 47 Incapacity of Governor and Deputy Chief Executive
-(1) In the case of the absence or incapacity of the Governor, the Deputy Chief Executive shall have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act.
+(1) In the case of the absence or incapacity of the Governor, the Deputy Chief Executive shall have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act or the Non-bank Deposit Takers Act 2013.
 (2) In the case of the absence or incapacity of the Governor and the Deputy Chief Executive, the Minister shall, on the recommendation of the Board, appoint—to act as Governor.
   (a) a director of the Bank; or
   (b) an officer of the Bank—
 (3) If the Minister is unable to make an appointment under subsection (2) by reason of the fact that, in the circumstances, it is impracticable for a meeting of the Board to be held, the Minister shall appoint—to act as Governor for a period not exceeding 28 days.
   (a) a director of the Bank; or
   (b) an officer of the Bank—
-(4) The person appointed to act as Governor shall, so long as the appointment continues, have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act.
+(4) The person appointed to act as Governor shall, so long as the appointment continues, have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act or the Non-bank Deposit Takers Act 2013.
 (5) While any of the following persons is acting as Governor in accordance with this section, he or she must be taken to be a director of the Bank:
   (a) the Deputy Chief Executive:
   (b) a person appointed to act as Governor, but who is not a director of the Bank.
@@ -451,7 +450,7 @@ Without limiting section 5 or any other provision of this Act or the Insurance (
   (h) that the Governor, except as provided in his or her conditions of employment, has, while holding office as Governor,—
     (i) held any other office of profit; or
     (ii) engaged in any other occupation for reward; or
-    (iii) had an interest in a registered bank or a deposit taker as defined in section 157C or a licensed insurer; or
+    (iii) had an interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer; or
     (iv) had an interest in a bank carrying on business outside New Zealand; or
   (i) that the Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty or misconduct.
 (3) The Minister may tender advice under this section whether or not the Board has made a recommendation under section 53(3) that the Governor be removed from office.
@@ -465,7 +464,7 @@ Without limiting section 5 or any other provision of this Act or the Insurance (
   (d) except as provided in his or her conditions of employment, has, while holding office as Deputy Governor,—
     (i) held any other office of profit; or
     (ii) engaged in any other occupation for reward; or
-    (iii) had an interest in a registered bank or a deposit taker as defined in section 157C or a licensed insurer; or
+    (iii) had an interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer; or
     (iv) had an interest in a bank carrying on business outside New Zealand.
 (3) If a person who holds office as the Deputy Governor or as a Deputy Governor is removed from office under this section, that person shall, unless that person's conditions of employment provide for that person to cease to be employed as an officer of the Bank in the event of removal from office of Deputy Governor under this section, continue to be employed by the Bank.
 
@@ -476,15 +475,17 @@ Without limiting section 5 or any other provision of this Act or the Insurance (
   (b) to any officer of the Bank.
 (3) The fact that the Deputy Chief Executive exercises any powers or functions of the Governor shall be conclusive proof of the authority to do so, and no person shall be concerned to inquire whether the occasion for doing so has arisen or has ceased.
 (4) A Deputy Governor who is not the Deputy Chief Executive and any officer of the Bank who purports to act pursuant to any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
-(5) Subject to any general or special directions given or conditions attached by the Governor, any person to whom any powers or functions are delegated under this section may exercise them in the same manner and with the same effect as if they had been conferred directly by this Act or under either of the following Acts, and not by delegation:
+(5) Subject to any general or special directions given or conditions attached by the Governor, any person to whom any powers or functions are delegated under this section may exercise them in the same manner and with the same effect as if they had been conferred directly by this Act or under any of the following Acts, and not by delegation:
   (a) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
-  (b) the Insurance (Prudential Supervision) Act 2010.
+  (b) the Insurance (Prudential Supervision) Act 2010:
+  (c) the Non-bank Deposit Takers Act 2013.
 (6) A delegation under this section may be revoked at any time.
 (7) A delegation of any power or function under this section shall not prevent the exercise of the power or function by the Governor.
 (8) Any such delegation, until it is revoked, shall continue in force according to its tenor, notwithstanding that the Governor who made it may have ceased to hold office.
 (9) To avoid doubt, the Governor's functions and powers include his or her functions and powers under the following Acts:
   (a) the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
-  (b) the Insurance (Prudential Supervision) Act 2010.
+  (b) the Insurance (Prudential Supervision) Act 2010:
+  (c) the Non-bank Deposit Takers Act 2013.
 
 **Board of directors**
 
@@ -511,7 +512,7 @@ There shall be a board of directors of the Bank.
   (f) that the Governor, except as provided in his or her conditions of employment has, while holding office as Governor,—
     (i) held any other office of profit; or
     (ii) engaged in any other occupation for reward; or
-    (iii) had an interest in a registered bank or a deposit taker as defined in section 157C or a licensed insurer; or
+    (iii) had an interest in a registered bank or a licensed NBDT as defined in the Non-bank Deposit Takers Act 2013 or a licensed insurer; or
     (iv) had an interest in a bank carrying on business outside New Zealand; or
   (g) that the Governor is unable to carry out the responsibilities of office, or has been guilty of serious neglect of duty, or has been guilty of misconduct,—
 
@@ -556,7 +557,7 @@ In considering the appointment or reappointment of a person to the office of non
 ### 58 Disqualification of non-executive directors
 No person shall be appointed, or reappointed, to the office of non-executive director of the Bank, or hold that office, if that person—
   (a) is a member of Parliament; or
-  (b) is an employee of a registered bank or a licensed insurer; or
+  (b) is an employee of a registered bank or a licensed insurer or a licensed NBDT (as defined in the Non-bank Deposit Takers Act 2013); or
   (c) is a bankrupt who has not obtained a final order of discharge, or whose order of discharge has been suspended for a term not yet expired, or is subject to a condition not yet fulfilled; or
   (d) is a person who is convicted of any offence punishable by imprisonment for a term of 2 years or more; or
   (e) is a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence; or
@@ -765,7 +766,7 @@ Nothing in sections 65 and 66 affects or limits the following sections of the Co
   (b) to the extent that the information is available to the public under any Act, including the Official Information Act 1982, or is otherwise publicly available; or
   (c) for the purposes of, or in connection with, the exercise of powers conferred by this Part; or
   (d) in connection with any investigation or inquiry (whether or not preliminary to any proceedings) in respect of, or any proceedings for, an offence against this Act or any other Act; or
-  (e) to any central bank, authority, or body in any other country that exercises functions that correspond with, or are similar to, those conferred on the Bank under this Act for the purposes of the exercise by that central bank, authority, or body of those functions; or
+  (e) to any central bank, authority, or body in any other country that exercises functions that correspond with, or are similar to, those conferred on the Bank under this Act or under the Non-bank Deposit Takers Act 2013 for the purposes of the exercise by that central bank, authority, or body of those functions; or
   (f) to any person who the Bank is satisfied has a proper interest in receiving the information.
 (3) The Bank, any officer or employee of the Bank, or a person appointed under section 66E(2) must not publish or disclose any information or documents under subsection (2)(e) or (f) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of that information or those documents.
 (4) A person referred to in subsection (5) commits an offence if the person contravenes this section.
@@ -852,7 +853,7 @@ The powers conferred on the Governor-General, the Minister, and the Bank by this
 (5) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations prescribing Australian financial authorities for the purposes of this section and section 121A.
 
 ### 68B Bank to have regard to directions about government policy objectives
-(1) The Minister may direct the Bank to have regard to a government policy that relates to the Bank’s functions under this Part and Parts 5B to 5D.
+(1) The Minister may direct the Bank to have regard to a government policy that relates to the Bank’s functions under this Part and Parts 5B and 5C.
 (2) The Bank must have regard to every direction given by the Minister under this section.
 (3) The Minister must consult with the Bank before giving a direction.
 (4) A direction must—
@@ -1079,7 +1080,7 @@ Nothing in section 77A invalidates any contract, or transfer of ownership, made 
   (g) incorporate by reference a framework, standard, specification, or requirement that is published by, or on behalf of, any body or person in any country—
     (i) in whole or in part; and
     (ii) with any modifications, additions, or variations specified in the Order in Council.
-(3) Schedule 3 applies to any material incorporated by reference in an Order in Council made under section 81.
+(3) Schedule 1 of the Non-bank Deposit Takers Act 2013 applies to any material incorporated by reference in an Order in Council made under section 81 of this Act as if references in that schedule to regulations were references to an Order in Council made under section 81.
 
 ### 81AB Disclosure statement not required to include information or data about customers or clients of registered banks
 (1) Despite sections 81 and 81AA, a registered bank is not required to publish in a disclosure statement any information or data about the affairs of a particular customer or client of—
@@ -2607,509 +2608,186 @@ Nothing in any Act, other than this Act or the Official Information Act 1982, re
 **Preliminary provisions**
 
 ### 157A Exercise of powers under this Part
-The powers conferred on the Governor-General, the Minister, and the Bank by this Part must be exercised for the purposes of—
-  (a) promoting the maintenance of a sound and efficient financial system; or
-  (b) avoiding significant damage to the financial system that could result from the failure of a deposit taker.
+[Repealed]
 
 ### 157B Interpretation
-(1) In this Part, unless the context otherwise requires,—
-  - **approved rating agency** means a rating agency approved by the Bank under section 157J
-  - **borrowing group** , in relation to a deposit taker, means the deposit taker and all its guaranteeing subsidiaries
-  - **capital ratio** , in relation to a deposit taker or borrowing group, means the level of capital in relation to the credit exposures and other risks of a deposit taker or borrowing group
-  - **collective investment scheme** means—
-    (a) an arrangement or scheme to which a participatory security (within the meaning of section 2(1) of the Securities Act 1978) relates; and
-    (b) a superannuation scheme (within the meaning of section 2A(1) of the Superannuation Schemes Act 1989); and
-    (c) a unit trust (within the meaning of section 2(1) of the Unit Trusts Act 1960)
-  - **debt security** has the meaning given to it by section 2(1) of the Securities Act 1978
-  - **governing body** means,—
-    (a) in relation to a body corporate, the board of directors (or other persons or body exercising powers of management, however described) of the body corporate:
-    (b) in relation to a trust, the trustees:
-    (c) in relation to a unit trust, the manager and trustee:
-    (d) in relation to a partnership, unincorporated joint venture, or other unincorporated body of persons, either—
-      (i) the board of directors (or other persons or body exercising powers of management, however described) of the partnership, unincorporated joint venture, or other unincorporated body of persons; or
-      (ii) if there is no board or other persons or body as described in subparagraph (i), the partners of the partnership or members of the unincorporated joint venture or other unincorporated body of persons
-  - **governing document** means the rules and instruments constituting, or defining the constitution of, an entity
-  - **guaranteeing subsidiary** , in relation to a deposit taker, means a subsidiary of the deposit taker that—
-    (a) is unconditionally liable (whether or not jointly or severally with the deposit taker or any other person) to repay some or all debt securities issued by the deposit taker; or
-    (b) is liable to repay some or all debt securities issued by the deposit taker subject only to the condition that the deposit taker or any other person has failed to do so
-  - **related party** , in relation to a deposit taker, means—
-    (a) the directors of the deposit taker; and
-    (b) the senior office holders of the deposit taker; and
-    (c) the relatives of persons referred to in paragraphs (a) and (b); and
-    (d) subsidiaries; and
-    (e) in the case of a deposit taker that is a company, any person who—
-      (i) owns, or in any way has the power to control (whether directly or indirectly), or has the right to acquire, 10% or more of the ordinary shares of the company; or
-      (ii) owns, or in any way has the power to control (whether directly or indirectly), or has the right to acquire, 10% or more of the voting rights of the company; or
-      (iii) has, by any other means, 10% or more of the control of the company; and
-    (f) in the case of a deposit taker that is an entity other than a company, any person who—
-      (i) is in a position to control (whether directly or indirectly) 10% or more of the voting rights in relation to that entity; or
-      (ii) has, by any other means, 10% or more of the control of that entity; and
-    (g) any person who has control (whether directly or indirectly) or significant influence over 25% or more of the composition of the governing body of the deposit taker; and
-    (h) any person or class of persons declared by regulations to be a related party for the purposes of this Part
-  - **relative** , in relation to any person, means—
-    (a) that person’s spouse, civil union partner, or de facto partner; and
-    (b) any parent (including step-parent), brother, sister, or child (including stepchild) of that person; and
-    (c) any parent (including step-parent), brother, sister, or child (including stepchild) of that person’s spouse, civil union partner, or de facto partner
-  - **senior office holder** ,—
-    (a) in relation to a deposit taker, means a person occupying a position that allows the person to exercise significant influence over the management or administration of the deposit holder (for example, a chief executive or a chief financial officer); and
-    (b) includes any class or classes of persons declared by regulations to be senior office holders for the purposes of this Part; but
-    (c) does not include any class or classes of persons declared by regulations not to be senior office holders for the purposes of this Part
-  - **subsidiary** means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993
-  - **trust deed** , in relation to a deposit taker, means a trust deed required by section 33(2)(a) of the Securities Act 1978 in respect of any debt security offered to the public by the deposit taker
-  - **trustee** , in relation to a deposit taker, means a person appointed as trustee in accordance with the Securities Act 1978 in respect of any debt security offered to the public by the deposit taker.
-(2) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for either or both of the following purposes:
-  (a) declaring a person or class of persons to be a related party for the purposes of this Part:
-  (b) declaring a class of persons to be, or not to be, senior office holders for the purposes of this Part.
+[Repealed]
 
 ### 157C Deposit taker defined
-(1) For the purposes of this Part, deposit taker—
-  (a) means a person who—
-    (i) offers debt securities to the public in New Zealand; and
-    (ii) carries on the business of borrowing and lending money, or providing financial services, or both; and
-  (b) includes—
-    (i) a building society as defined in section 2(1) of the Building Societies Act 1965, unless the building society is a registered bank; and
-    (ii) a credit union as defined in section 2 of the Friendly Societies and Credit Unions Act 1982; and
-    (iii) a person or class of persons that is declared by regulations to be a deposit taker for the purposes of this Part; but
-  (c) does not include—
-    (i) an issuer of a collective investment scheme:
-    (ii) a registered bank:
-    (iii) a local authority:
-    (iv) the Crown (as defined in section 2(1) of the Public Finance Act 1989):
-    (v) a person or class of persons that is declared by regulations not to be a deposit taker for the purposes of this Part.
-(2) For the purposes of this Part, a reference to an offer of debt securities to the public has the same meaning as an offer of securities to the public as set out in section 3 of the Securities Act 1978.
-(3) If a person has, before this section comes into force, offered debt securities to the public in New Zealand and any of those securities remain unpaid, the person must be treated as satisfying the requirement in subsection (1)(a)(i).
-(4) A person remains a deposit taker until all debt securities offered to the public in New Zealand by the person are repaid.
-(5) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for the purpose of declaring a person or class of persons to be, or not to be, a deposit taker for the purposes of this Part.
-(6) In considering whether to advise and recommend the making of regulations under subsection (5), the Minister and the Bank must have regard to—
-  (a) the purposes of this Part; and
-  (b) the nature of the business activities carried on by the person or class of persons and the extent to which those activities—
-    (i) are similar in substance to the activities of a deposit taker (as defined in subsection (1)); or
-    (ii) involve activities as a deposit taker; and
-  (c) the public interest; and
-  (d) any other matters the Minister or the Bank considers relevant.
+[Repealed]
 
 ### 157D Application of Part
-This Part, in so far as it applies to trust deeds, applies to every trust deed whether or not the trust deed was registered under the Securities Act 1978 before the date of commencement of this Part.
+[Repealed]
 
 ### 157E Bank to consult before recommending making of regulations under this Part
-(1) The Bank must consult with the following before making a recommendation for the making of any regulations under this Part:
-  (a) the FMA; and
-  (b) if reasonably practicable, other persons, or the representatives of those persons, who the Bank considers will be substantially affected by any regulations made in accordance with the recommendation.
-(2) Failure to comply with subsection (1) does not affect the validity of regulations made under this Part.
+[Repealed]
 
 ### 157F Principles to be taken into account under this Part
-(1) The Bank must take into account the principles in subsection (2) when carrying out its functions and exercising its powers under this Part, including—
-  (a) granting exemptions:
-  (b) imposing terms and conditions in relation to exemptions:
-  (c) making recommendations to the Minister for the making of regulations under this Part.
-(2) The principles are the following:
-  (a) the desirability of consistency in the treatment of similar institutions, regardless of matters such as their corporate form:
-  (b) the importance of recognising—
-    (i) that it is not the purpose of this Part to eliminate all risk in relation to the performance of deposit takers or to limit diversity among deposit takers; and
-    (ii) that depositors are responsible for assessing risk in relation to potential investments and for their own investment choices:
-  (c) the desirability of providing to depositors adequate information to enable them to assess risk in relation to potential investments and to distinguish between high-risk and low-risk deposit takers:
-  (d) the desirability of sound governance of deposit takers:
-  (e) the desirability of effective risk management by deposit takers:
-  (f) the need to avoid unnecessary compliance costs:
-  (g) the need to maintain competition within the deposit taking sector.
+[Repealed]
 
 ### 157G Exemptions from Part
-(1) The Bank may exempt any deposit taker, class of deposit takers, or trustee from compliance with any provision or provisions of—
-  (a) this Part; or
-  (b) any regulations made under this Part.
-(2) The Bank must not grant an exemption under this section unless it is satisfied that—
-  (a) the exemption will be consistent with the maintenance of a sound and efficient financial system; and
-  (b) compliance with the relevant provision or provisions would, in the circumstances, require the deposit taker, class of deposit takers, or trustee to comply with requirements that are unduly onerous or burdensome; and
-  (c) the extent of the exemption is not broader than what is reasonably necessary to address the matters that gave rise to the exemption.
-(3) An exemption may be granted on any terms and conditions that the Bank thinks fit, including, in relation to a deposit taker,—
-  (a) a requirement that the deposit taker have a minimum capital ratio:
-  (b) a requirement that the deposit taker have a specified minimum level of capital:
-  (c) a requirement that the deposit taker comply with specified liquidity requirements:
-  (d) a requirement that the deposit taker disclose that it does not have a rating of its creditworthiness under section 157I, and the form and content of that disclosure:
-  (e) a prohibition or restriction on disclosure by the deposit taker of any rating of creditworthiness or financial condition that is not from an approved rating agency:
-  (f) a maximum limit on exposures to related parties:
-  (g) a requirement that the deposit taker comply with specified requirements in relation to the governance of the deposit taker:
-  (h) a requirement that the deposit taker comply with specified requirements in relation to systems, policies, and standards to be adopted and complied with by the deposit taker for the purpose of managing credit risk, liquidity risk, market risk, and operational risk:
-  (i) any other prudential requirements the Bank considers necessary or desirable to achieve the purposes of this Part.
-(4) The Bank may amend or revoke an exemption in the same way as an exemption may be granted under this section.
-(5) An exemption is a disallowable instrument under the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(6) A class exemption must be published under section 6 of the Legislation Act 2012 and, for this purpose, class exemption means an exemption of general application that applies to a class of deposit takers.
-(7) An exemption that is not a class exemption under subsection (6) must, as soon as practicable after being granted, be—
-  (a) published on an Internet site maintained by or on behalf of the Bank; and
-  (b) notified in the Gazette; and
-  (c) made available in printed form for purchase on request by members of the public.
-(8) The Bank's reasons for granting the exemption (including why an exemption is appropriate) must be published together with the exemption.
-(9) However, the Bank may defer publishing, and need not publish, the reasons for granting an exemption if the Bank is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
-(10) A notification in the Gazette for the purpose of subsection (7)(b) does not have to incorporate the exemption.
+[Repealed]
 
 ### 157H Effect of exemption
-A person does not breach a requirement of this Part if—
-  (a) an exemption from the requirement applies to that person; and
-  (b) the person complies with the terms and conditions of the exemption.
+[Repealed]
 
 **Credit ratings**
 
 ### 157I Deposit taker must have current credit rating
-A deposit taker must have a current rating of its creditworthiness, or, if required by regulations made under section 157K, the creditworthiness of the borrowing group of which the deposit taker is part, that—
-  (a) complies with the requirements prescribed by regulations made under section 157K; and
-  (b) is given by an approved rating agency.
+[Repealed]
 
 ### 157J Bank may approve rating agencies
-(1) The Bank may approve a person as a rating agency for the purposes of this Part.
-(2) In deciding whether to approve a person as a rating agency, the Bank must have regard to the following:
-  (a) the independence of the rating agency:
-  (b) the adequacy of resources available to the rating agency:
-  (c) the credibility and objectivity of the rating agency's methodology:
-  (d) the consistency and comparability of the rating agency's ratings when assessed against ratings industry practice:
-  (e) the adequacy of the rating agency's disclosure of information, including information about its processes, experience, and ownership:
-  (f) relevant international standards, codes, and recommended practices relating to the ratings industry.
-(3) The Bank may, at any time, review the approval of a person as a rating agency, and in conducting the review the Bank must have regard to the matters in subsection (2).
-(4) If, after conducting the review, the Bank considers that the person should no longer be an approved rating agency, it may revoke the approval.
-(5) The Bank must publish and keep up to date a list of approved rating agencies on an Internet site maintained by, or on behalf of, the Bank that is publicly accessible at all reasonable times.
+[Repealed]
 
 ### 157K Regulations relating to credit ratings
-The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for either or both of the following purposes:
-  (a) providing for the following matters in relation to ratings of creditworthiness required to be held by deposit takers:
-    (i) the type of rating (for example, whether it is a short-term or long-term rating):
-    (ii) what the rating relates to (for example, whether it indicates the creditworthiness of a deposit taker with respect to a specific financial obligation or applies to the deposit taker’s overall creditworthiness):
-  (b) requiring a deposit taker to have a rating of creditworthiness of the borrowing group of which the deposit taker is part.
+[Repealed]
 
 **Governance requirements**
 
 ### 157L Governance requirements
-(1) If a deposit taker is a company or a building society,—
-  (a) the governing body of the deposit taker must include at least 2 independent directors; and
-  (b) the chairperson of the governing body of the deposit taker may not be an employee of either the deposit taker or a related party.
-(2) If a deposit taker is a subsidiary, the constitution of the deposit taker must not include any provision under which directors of the deposit taker may act otherwise than in the best interests of the deposit taker.
-(3) For the purposes of this section, independent director means a director that—
-  (a) is not an employee of either the deposit taker or a related party; and
-  (b) is not a director of a related party; and
-  (c) does not, directly or indirectly, have a qualifying interest in more than 10% of the voting securities of the deposit taker or a related party.
+[Repealed]
 
 **Risk management**
 
 ### 157M Deposit taker must have and comply with risk management programme
-(1) Every deposit taker must have a risk management programme and take all practicable steps to comply with that programme.
-(2) The risk management programme must—
-  (a) be in writing; and
-  (b) set out the procedures that the deposit taker will use for the effective identification and management of the following risks:
-    (i) credit risk:
-    (ii) liquidity risk:
-    (iii) market risk:
-    (iv) operational risk; and
-  (c) set out appropriate and auditable documentation and record keeping requirements; and
-  (d) describe the steps that the deposit taker will take to ensure that the programme remains current, which must include procedures for—
-    (i) regular review of the programme to systematically identify deficiencies in the effectiveness of the programme; and
-    (ii) obtaining the approval of the trustee to amendments to the programme that are necessary to address such deficiencies; and
-  (e) be appropriate to the operations of the deposit taker, having regard to the factors relevant to the risks referred to in paragraph (b) (for example, the size of the deposit taker, its funding structure, the market sector in which it operates, its business strategy, and its relationship with its borrowing group).
-(3) The Bank may issue, in the manner that the Governor thinks fit, guidelines for the purpose of interpreting the risk categories referred to in subsection (2)(b) that must be covered by the risk management programme.
+[Repealed]
 
 ### 157N Risk management programme must be provided to trustee and must be amended if required by trustee
-(1) The deposit taker must give a copy of its risk management programme to the trustee.
-(2) The trustee must, as soon as practicable after receiving the copy of the risk management programme, inform the deposit taker whether the trustee is satisfied that the risk management programme meets the requirements in section 157M(2).
-(3) If the trustee is not satisfied that the risk management programme meets the requirements in section 157M(2),—
-  (a) the trustee may require the deposit taker to amend the programme and to resubmit the programme to the trustee for approval within any reasonable time that the trustee may specify; and
-  (b) the deposit taker must comply with those requirements.
+[Repealed]
 
 ### 157O Trustee may require deposit taker to have risk management programme audited
-(1) The trustee may require the deposit taker to have the risk management programme audited in a specified manner, at the cost of the deposit taker, within any reasonable time that the trustee may specify.
-(2) The deposit taker must comply with a requirement of the trustee under subsection (1) within the time specified by the trustee.
+[Repealed]
 
 **Minimum capital requirement**
 
 ### 157P Regulations may impose requirement that trust deed sets out minimum capital that deposit taker is required to maintain
-(1) The Governor General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for the purpose of imposing a requirement that deposit takers and trustees ensure that the trust deed sets out the minimum capital that the deposit taker is required to maintain.
-(2) Regulations made under this section may—
-  (a) require the trust deed to set out—
-    (i) the amount of the minimum capital that the deposit taker is required to maintain; and
-    (ii) the form of that capital (for example, the financial instruments that may be taken into account in calculating capital); and
-  (b) provide that the amount of the minimum capital set out in the trust deed must be not less than an amount prescribed in the regulations; and
-  (c) provide that the form of the capital set out in the trust deed must be a form prescribed by the regulations.
+[Repealed]
 
 ### 157Q Deposit takers and trustees must ensure trust deed sets out minimum capital deposit taker is required to maintain
-A deposit taker and the trustee must comply with any requirement imposed by regulations made under section 157P.
+[Repealed]
 
 ### 157R Deposit taker must maintain not less than minimum capital prescribed
-A deposit taker must maintain minimum capital of not less than the amount prescribed by regulations for the purposes of section 157P in a form prescribed by regulations for the purposes of that section.
+[Repealed]
 
 **Capital ratio requirement**
 
 ### 157S Regulations may impose requirement that trust deed includes capital ratio
-(1) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for the purpose of imposing a requirement that deposit takers and trustees ensure that trust deeds include a capital ratio, calculated in accordance with a prescribed framework, that the deposit taker must maintain.
-(2) Regulations made under this section may do 1 or more of the following:
-  (a) provide for the capital ratio to be calculated in respect of—
-    (i) the deposit taker; or
-    (ii) a borrowing group of which the deposit taker is part:
-  (b) provide for the capital ratio to be set at a specified minimum level for a particular deposit taker or a class of deposit takers:
-  (c) prescribe the framework in accordance with which the capital ratio must be calculated:
-  (d) provide for variation (whether as to content or otherwise) of the framework to apply to particular deposit takers or classes of deposit takers:
-  (e) incorporate by reference a framework published by, or on behalf of, any body or person in any country—
-    (i) in whole or in part; and
-    (ii) with modifications, additions, or variations specified in the regulations.
-(3) The provisions of Schedule 3 apply to a framework incorporated by reference in regulations made under this section.
+[Repealed]
 
 ### 157T Deposit takers and trustees must ensure capital ratio included in trust deed
-A deposit taker and the trustee must comply with any requirement imposed by regulations made under section 157S.
+[Repealed]
 
 ### 157U Deposit taker must maintain capital ratio required to be included in trust deed
-A deposit taker must maintain any capital ratio that is required to be included in the trust deed by regulations made under section 157S.
+[Repealed]
 
 **Restrictions on related party exposures**
 
 ### 157V Regulations may impose requirement that trust deed includes maximum limit on exposures to related parties
-(1) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for the purpose of imposing a requirement that deposit takers and trustees ensure that trust deeds include a maximum limit on exposures to related parties.
-(2) Regulations made under this section may—
-  (a) provide that the maximum limit on exposures to related parties is relative to—
-    (i) the capital of the deposit taker; or
-    (ii) the capital of the borrowing group of which the deposit taker is part:
-  (b) provide that the maximum limit on exposures to related parties applies in respect of exposures of the deposit taker or exposures calculated across the borrowing group of which the deposit taker is part:
-  (c) require every deposit taker and trustee to ensure that the trust deed includes a specified maximum limit on exposures to related parties:
-  (d) require every deposit taker and trustee to ensure that the trust deed includes a maximum limit on exposures to related parties that is fixed by agreement between the deposit taker and the trustee (see section 157ZD for provisions that apply if there is no agreement).
-(3) If subsection (2)(d) applies, the regulations must specify the framework (for example, covering matters as to the identification and measurement of credit exposures) in accordance with which the deposit taker and the trustee must fix the maximum agreed limit.
+[Repealed]
 
 ### 157W Regulations may incorporate by reference framework for calculation of maximum limit on exposures to related parties
-(1) Regulations made under section 157V may incorporate by reference a framework published by, or on behalf of, any person or body in any country.
-(2) A framework incorporated by reference in the regulations—
-  (a) may be incorporated in whole or in part; and
-  (b) with modifications, additions, or variations specified in the regulations.
-(3) The provisions of Schedule 3 apply to a framework incorporated by reference in regulations made under section 157V.
+[Repealed]
 
 ### 157X Deposit takers and trustees must ensure maximum limit on exposures to related parties is included in trust deed
-A deposit taker and the trustee must comply with any requirement imposed by regulations made under section 157V.
+[Repealed]
 
 ### 157Y Deposit taker must not exceed maximum limit on related party exposures
-A deposit taker must not exceed any maximum limit on exposures to related parties required by regulations made under section 157V to be included in the trust deed.
+[Repealed]
 
 **Liquidity requirements**
 
 ### 157Z Regulations may impose requirement that liquidity requirements be included in trust deed
-(1) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for the purpose of imposing a requirement that deposit takers and trustees ensure that trust deeds include liquidity requirements.
-(2) Regulations made under this section may, in relation to the liquidity requirements to be included in the trust deed, prescribe 1 or more of the following:
-  (a) assets that qualify as liquid assets for the purposes of the regulations:
-  (b) minimum amounts of liquid assets relative to liabilities that must be maintained by deposit takers:
-  (c) requirements concerning matching maturity of assets and liabilities:
-  (d) requirements in respect of a deposit taker that require the liquidity of the borrowing group of which the deposit taker is part to be taken into account:
-  (e) other measures to better ensure that a deposit taker maintains prudent cash flows and a level of liquid assets sufficient to enable it to withstand a plausible range of liquidity shocks (for example, events that result in it experiencing a significantly reduced inflow of liquid assets).
+[Repealed]
 
 ### 157ZA Deposit takers and trustees must ensure liquidity requirements are included in trust deeds
-A deposit taker and the trustee must comply with any requirement prescribed by regulations made under section 157Z.
+[Repealed]
 
 ### 157ZB Deposit takers must comply with liquidity requirements in trust deeds
-A deposit taker must comply with the liquidity requirements required to be included in the trust deed by regulations made under section 157Z.
+[Repealed]
 
 **Other matters relating to trust deeds**
 
 ### 157ZC Amendment to trust deed must be treated as if authorised to be made
-(1) If this Part requires, or any regulations made under this Part require, a deposit taker and the trustee to ensure that a matter is included in or excluded from a trust deed, an amendment to the trust deed in compliance with that requirement—
-  (a) must be treated for all purposes as if it were authorised to be made and were made in accordance with the provisions of the trust deed before the amendment was made; and
-  (b) applies despite any defect in the form or mode of execution of the amendment.
-(2) Subsection (1) applies despite there being no power of variation in the trust deed or anything to the contrary in the trust deed or other enactment, rule of law, or agreement.
+[Repealed]
 
 ### 157ZD Trustee may execute amendment to trust deed
-(1) This section applies if—
-  (a) this Part requires, or regulations made under this Part require, a deposit taker and the trustee to ensure that a matter is included in or excluded from a trust deed; and
-  (b) it is necessary to amend the trust deed within a certain time in order to comply with that requirement; and
-  (c) the trustee has made reasonable efforts, in good faith, to negotiate with the deposit taker for the purpose of agreeing to an amendment to the trust deed to ensure compliance with the requirement; and
-  (d) the trustee has not, within a reasonable period before the expiry of the time allowed for amending the trust deed, been able to reach an agreement with the deposit taker about the amendment to be made to the trust deed.
-(2) If this section applies, the trustee may execute a deed amending the trust deed without the consent or agreement of the deposit taker or any other person in order to ensure that the trust deed complies with the requirement of this Part or the regulations.
-(3) The deed amending the trust deed—
-  (a) has effect despite there being no consent or agreement of the deposit taker or any other person; and
-  (b) must be treated for all purposes as if it were authorised to be made and were made in accordance with the provisions of the trust deed before the amendment was made; and
-  (c) applies despite any defect in its form or mode of execution.
-(4) Subsection (3) applies despite there being no power of variation in the trust deed or anything to the contrary in the trust deed or other enactment, rule of law, or agreement.
+[Repealed]
 
 **Obligations of trustees to Bank**
 
 ### 157ZE Bank may require trustee to attest as to deposit taker’s compliance with requirements
-(1) The Bank may require a trustee to attest to the Bank, at a time and in a manner specified by the Bank, as to whether the trustee is satisfied that the deposit taker is complying with the requirements of this Part or of regulations made under this Part.
-(2) If the Bank requires a trustee to attest to the Bank under this section, the trustee must either—
-  (a) provide that attestation; or
-  (b) if the trustee is not able to attest to the Bank as required, the trustee must report the reason, including the details of any non-compliance or suspected non-compliance by the deposit taker.
+[Repealed]
 
 ### 157ZF Trustee must report to Bank non-compliance or likely non-compliance by deposit taker
-If a trustee has reasonable grounds to believe that a failure on the part of the deposit taker to comply in a material respect with this Part or any regulations made under this Part has or may have occurred, or is likely to occur, the trustee must report the non-compliance or likely non-compliance to the Bank as soon as practicable.
+[Repealed]
 
 ### 157ZG Obligation on trustees to disclose information to Bank in certain circumstances
-(1) This section applies if a trustee, in the course of or in connection with the performance of functions as trustee, becomes aware of information on the basis of which he or she could reasonably form an opinion that—
-  (a) the deposit taker is unable to pay the deposit taker’s debts as they become due in the normal course of business; or
-  (b) the value of the deposit taker’s assets is less than the value of the deposit taker’s liabilities, including contingent liabilities; or
-  (c) it is likely that—
-    (i) the deposit taker will be unlikely to be able to pay the deposit taker’s debts as they become due in the normal course of business; or
-    (ii) the value of the deposit taker’s assets will be less than the value of the deposit taker’s liabilities, including contingent liabilities; or
-  (d) the deposit taker has breached, or is likely to breach, in a material respect,—
-    (i) the terms of the trust deed; or
-    (ii) the terms of any offer of debt securities to which the trust deed relates.
-(2) This section also applies if the Bank, by notice in writing to the trustee, requires the trustee to provide the Bank with information relating to the business, operation, or management of a deposit taker.
-(3) If this section applies, the trustee must, as soon as practicable, disclose to the Bank all information held by the trustee that is relevant to the matter referred to in subsection (1) or, as the case may be, the matters referred to in the notice under subsection (2), obtained in the course of, or in connection with, the performance of functions as trustee.
+[Repealed]
 
 ### 157ZH Protection of trustees
-(1) No civil, criminal, or disciplinary proceedings lie against a trustee arising from the disclosure in good faith of information to the Bank under section 157ZE to 157ZG.
-(2) No person may terminate the appointment of a trustee by reason of the trustee disclosing information to the Bank in good faith under section 157ZE to 157ZG.
-(3) No tribunal, body, or authority, having jurisdiction in respect of the professional conduct of a trustee, may make an order against, or do any act in relation to, that person in respect of the fact of that disclosure.
+[Repealed]
 
 **Investigation and enforcement powers of Bank**
 
 ### 157ZI Bank may require report relating to deposit taker
-(1) For the purpose of investigating whether a deposit taker is complying with the requirements of this Part, or regulations made under this Part, the Bank may, by notice to the deposit taker, require the deposit taker to supply the Bank with a report or series of reports prepared by a person approved or appointed by the Bank on matters relating to the business, operation, or management of the deposit taker.
-(2) The deposit taker must provide the approved or appointed person with access to the accounting and other records of the deposit taker and must provide information relating to those records if the person preparing the report requests the deposit taker to do so for the purposes of the report.
-(3) Subsection (2) is subject to section 157ZK.
-(4) To avoid doubt, the deposit taker is liable for the cost of every report that it is required to supply to the Bank under this section.
+[Repealed]
 
 ### 157ZJ Power to obtain information and documents
-(1) This section applies if the Bank has reasonable cause to believe that a deposit taker has committed an offence against this Part.
-(2) If this section applies, the Bank may,—
-  (a) by notice in writing to the deposit taker, require the deposit taker to supply to the Bank, within the time specified in the notice, the information, papers, documents, records, or things specified in the notice; or
-  (b) appoint in writing a suitably qualified person to enter and search any place and inspect, remove, and take copies of any information, papers, documents, records, or things in the possession, custody, or control of any person.
+[Repealed]
 
 ### 157ZK Limitation on information to be provided
-Nothing in section 157ZI(2) or 157ZJ(2) requires a person to produce any information, papers, documents, records, or things if compliance with that requirement would be a breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the Official Information Act 1982 or the Privacy Act 1993).
+[Repealed]
 
 ### 157ZL Limitations on entering and searching place
-A person appointed under section 157ZJ(2)(b) must not enter and search any place, or inspect, remove, or take copies of any information, papers, documents, records, or things in the possession, or under the control, of any person unless that person is authorised by search warrant issued under section 157ZM.
+[Repealed]
 
 ### 157ZM Search warrant may be issued
-(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant to a person appointed under section 157ZJ(2)(b) if the issuing officer is satisfied that there is reasonable cause to believe that a deposit taker has committed an offence under this Part.
-(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
+[Repealed]
 
 ### 157ZN Privileges
-(1) If a person could, in a criminal proceeding, assert a privilege under sections 54 to 57 of the Evidence Act 2006 in respect of any communication or information, the person is taken to have the same privilege for the purposes of—
-  (a) a request to supply access to accounting and other records of the deposit taker or provide information relating to those records under section 157ZI(2); and
-  (b) a notice under section 157ZJ(2)(a).
-  (c)
-(2) Subsection (3) applies to documents that are books of account or accounting records referred to in section 55(1) of the Evidence Act 2006.
-(3) The application by subsection (1) of section 54 of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect—
-  (a) the issue of, or the obligation to comply with, a notice under section 157ZJ(2)(a) in respect of a document to which this subsection applies; or
-  (b)
-  (c) the admissibility, in a criminal proceeding under this Part, of any evidence that relates to the contents of a document obtained as a result of a notice under section 157ZJ(2)(a).
-(4) A person who has a privilege under this section has the right—
-  (a) to refuse to disclose a communication or information to which the privilege would apply if it were sought to be disclosed in a criminal proceeding; and
-  (b) to prevent the search of any such communication or information; and
-  (c) to require the return of such communication or information if it is seized by a person exercising a power of search pending determination of the claim to privilege.
-(5) If a person refuses to disclose a communication or information on the ground that it is privileged under this section, the Governor may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, for the purpose of determining any such application, the District Court Judge may require the communication or information to be produced to him or her.
-(6) A District Court Judge may, on the application of the Governor, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under section 67(1) of the Evidence Act 2006, be disallowed in a proceeding.
-(7) Section 65 of the Evidence Act 2006 (which relates to waiver of privilege) applies in respect of any privilege under this section.
-(8) Nothing in this section affects the application of section 60 of the Evidence Act 2006.
+[Repealed]
 
 **Confidentiality of information**
 
 ### 157ZO Confidentiality of information
-(1) This section applies to—
-  (a) information supplied or disclosed to, or obtained by,—
-    (i) the Bank, under or for the purposes of, or in connection with, the exercise of powers conferred by this Part:
-    (ii) a person appointed by the Bank under section 157ZJ(2)(b):
-  (b) information derived from, or based on, information referred to in paragraph (a):
-  (c) information relating to the exercise, or possible exercise, of the powers conferred by this Part.
-(2) The Bank, and any person appointed by the Bank under section 157ZJ(2)(b), must not publish or disclose information to which this section applies except—
-  (a) with the consent of the person to whom the information relates; or
-  (b) to the extent that the information is available to the public under any Act, other than the Official Information Act 1982, or in a public document; or
-  (c) for the purposes of this Part or in connection with the exercise of powers conferred by this Part; or
-  (d) in connection with any proceedings for an offence against this Part; or
-  (e) to the Registrar of the Companies Office or the FMA; or
-  (f) to the trustee of the deposit taker to whom the information relates; or
-  (g) to any person who the Bank is satisfied has a proper interest in receiving the information.
-(3) Information to which this section applies must not be published or disclosed under subsection (2)(f) or (g) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of the information published or disclosed.
-(4) A person to whom information to which this section applies is published or disclosed under subsection (2)(c) must not publish, disclose, or use the information except—
-  (a) for the purposes of this Part or in connection with the exercise of powers conferred by this Part; or
-  (b) in accordance with any conditions that may be specified by the Bank.
-(5) A person to whom information to which this section applies is disclosed under subsection (2)(e), (f), or (g) must not publish, disclose, or use the information unless the publication, disclosure, or use is—
-  (a) authorised by the Bank; or
-  (b) necessary or desirable in connection with the exercise of any function or power conferred by any enactment.
+[Repealed]
 
 ### 157ZP Person who does not comply with section 157ZO commits offence
-Every person who does not comply with section 157ZO commits an offence and is liable, on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $50,000; or
-  (b) in the case of a body corporate, to a fine not exceeding $500,000.
+[Repealed]
 
 ### 157ZQ Application of Official Information Act 1982, etc
-Nothing in the Official Information Act 1982 or any other Act, other than this Act, applies to information to which section 157ZO applies, whether or not that information has been published or disclosed to any person under that section.
+[Repealed]
 
 **Offences and penalties**
 
 ### 157ZR Offences by deposit takers against this Part
-Every deposit taker who breaches any of the following sections commits an offence:
-  (a) section 157I (which relates to the requirement to have a current credit rating):
-  (b) section 157L (which relates to requirements concerning the governance of deposit takers):
-  (c) section 157M (which relates to the requirement to have and comply with a risk management programme):
-  (d) section 157N (which relates to the requirement to provide a copy of the risk management programme to the trustee and amend the programme as required):
-  (e) section 157O (which relates to the obligation to comply with a requirement of the trustee that the deposit taker have its risk management programme audited):
-  (f) section 157Q (which relates to the obligation to ensure that the trust deed complies with any requirement imposed by regulations to set out the minimum capital that the deposit taker is required to maintain):
-  (g) section 157R (which relates to the obligation to maintain minimum capital of not less than the amount prescribed by regulations):
-  (h) section 157T (which relates to the obligation to ensure that the trust deed complies with any requirement imposed by regulations to include a capital ratio in the trust deed):
-  (i) section 157U (which relates to the obligation to maintain any capital ratio required to be included in the trust deed by regulations):
-  (j) section 157X (which relates to the obligation to ensure that the trust deed complies with any requirement imposed by regulations to include a maximum limit on exposures to related parties):
-  (k) section 157Y (which relates to the obligation not to exceed any maximum limit on exposures to related parties required by regulations to be included in the trust deed):
-  (l) section 157ZA (which relates to the obligation to ensure the trust deed complies with any requirement imposed by regulations to include liquidity requirements in the trust deed):
-  (m) section 157ZB (which relates to the obligation to comply with any liquidity requirements required by regulations to be included in the trust deed).
+[Repealed]
 
 ### 157ZS Other offences by deposit takers against this Part
-Every deposit taker commits an offence who—
-  (a) fails to provide a report to the Bank if required to do so under section 157ZI; or
-  (b) fails to provide access to accounting and other records of the deposit taker or fails to provide information relating to those records if requested to do so for the purposes of a report under section 157ZI; or
-  (c) fails to provide any information, papers, documents, records, or things as and when required to do so by notice under section 157ZJ; or
-  (d) fails, as and when required by this Part or any regulations made under this Part, to deliver any paper, document, record, report, copy, or thing; or
-  (e) fails, as and when required by this Part or any regulations made under this Part, to allow a person to look at a paper, document, record, report, copy, or thing; or
-  (f) fails, as and when required to do so by this Part or regulations made under this Part, to supply any information; or
-  (g) makes any statement or supplies any paper, document, record, copy, or thing to the Bank knowing that it is false or misleading in a material particular; or
-  (h) without reasonable excuse, obstructs or hinders an authorised person in the execution of any powers conferred on that person by or under this Part or any regulations made under this Part.
+[Repealed]
 
 ### 157ZT Defence for deposit takers charged with offences against this Part
-(1) In any prosecution of a deposit taker for an offence against section 157ZR or 157ZS, it is a defence if the deposit taker proves that—
-  (a) the contravention was due to the act or omission of another person, or some other cause beyond the deposit taker's control; and
-  (b) the deposit taker took reasonable precautions and exercised due diligence to avoid the contravention.
-(2) For the purposes of subsection (1)(a), the term another person does not include a director, employee, or agent of the deposit taker.
-(3) A deposit taker is not, without the leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the deposit taker has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecution a notice in writing identifying the act, omission, or cause relied on by the deposit taker.
+[Repealed]
 
 ### 157ZU Power of court to discharge deposit taker
-(1) If a deposit taker is charged with an offence against section 157ZR or 157ZS, the court may direct that the charge against the defendant be dismissed if the court considers that the alleged contravention was in respect of matters that were immaterial.
-(2) A direction under subsection (1) may be made at any stage of the proceeding—
-  (a) on the motion of the court or on the application of the defendant; and
-  (b) after giving both the prosecutor and the defendant a reasonable opportunity to be heard on the matter.
-(3) The dismissal of a charge under this section is deemed to be an acquittal.
-(4) Nothing in this section limits sections 106 to 109 of the Sentencing Act 2002.
+[Repealed]
 
 ### 157ZV Liability of directors
-If a body corporate is convicted of an offence under section 157ZR or 157ZS, every director of the body corporate is guilty of an offence if it is proved—
-  (a) that the act that constituted the offence took place with his or her authority, permission, or consent; and
-  (b) that he or she—
-    (i) knew, or could reasonably be expected to have known, that the offence was to be or was being committed; and
-    (ii) failed to take reasonable steps to prevent or stop it.
+[Repealed]
 
 ### 157ZW Offences by trustees against this Part
-(1) Every trustee who breaches any of the following sections commits an offence:
-  (a) section 157Q (which relates to the obligation to ensure that the trust deed complies with a requirement imposed by regulations to set out the minimum capital that the deposit taker is required to maintain):
-  (b) section 157T (which relates to the obligation to ensure that the trust deed complies with a requirement imposed by regulations to include a capital ratio in the trust deed):
-  (c) section 157X (which relates to the obligation to ensure that the trust deed complies with a requirement imposed by regulations to include a maximum limit on exposures to related parties):
-  (d) section 157ZA (which relates to the obligation to ensure the trust deed complies with a requirement imposed by regulations to include liquidity requirements in the trust deed):
-  (e) section 157ZE (which relates to the obligation to provide an attestation to the Bank or reasons why an attestation cannot be provided):
-  (f) section 157ZF (which relates to the obligation to report to the Bank any non-compliance or likely non-compliance by the deposit taker):
-  (g) section 157ZG (which relates to the obligation to provide information to the Bank in certain circumstances).
-(2) Every trustee commits an offence who makes a statement to the Bank in relation to its obligations to the Bank, including providing an attestation, knowing it to be false or misleading in a material particular.
+[Repealed]
 
 ### 157ZX Penalties for offences
-(1) Every deposit taker who commits an offence under section 157ZR(a) is liable, on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 18 months or to a fine not exceeding $200,000, or both; or
-  (b) in the case of a body corporate, to a fine not exceeding $2,000,000.
-(2) Every deposit taker who commits an offence under any other provision in section 157ZR or 157ZS is liable, on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000, or both; or
-  (b) in the case of a body corporate, to a fine not exceeding $1,000,000.
-(3) Every director who commits an offence under section 157ZV is liable, on conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding $100,000, or both.
-(4) Every trustee who commits an offence under any provision in section 157ZW is liable, on conviction, to a fine not exceeding $200,000.
+[Repealed]
 
 **Miscellaneous**
 
 ### 157ZY Matters relating to regulation-making powers under this Part
-Regulations made under section 157K, 157P, 157S, 157V, or 157Z may—
-  (a) prescribe clauses relating to all or any of the matters referred to in those sections that are deemed to be contained in, or adopted by, trust deeds; and
-  (b) prescribe requirements or clauses that apply to all deposit takers; and
-  (c) prescribe different requirements or clauses for different classes of deposit takers; and
-  (d) prescribe different requirements or clauses for particular deposit takers.
+[Repealed]
 
 ### 157ZZ Bank must review and report on operation of this Part
-(1) The Bank must, not later than 5 years after the commencement of this section,—
-  (a) review the operation of this Part since the commencement of this section; and
-  (b) prepare a report on the review for the Minister.
-(2) The report on the review must include recommendations to the Minister on whether any amendments to the Act concerning the matters dealt with in this Part are necessary or desirable.
-(3) As soon as practicable after receiving the report, the Minister must present a copy of that report to the House of Representatives.
+[Repealed]
 
 ## Part 6 — Financial and accountability matters
 
@@ -3127,8 +2805,9 @@ The Bank's financial year ends on the day on which the Government's financial ye
   (b) Parts 3 to 5:
   (c) Part 5B:
   (d) Part 5C:
-  (da) Part 5D:
+  (da)
   (e) sections 163, 166, 167, and 190:
+  (ea) the Non-bank Deposit Takers Act 2013:
   (f) if the Minister and the Governor agree, any other provision of this Act:
   (g) any other Act.
 (2) There shall be a funding agreement applying for every financial year and each funding agreement shall apply to a period that comprises 5 consecutive financial years.
@@ -3176,8 +2855,8 @@ The purpose of the 3 accountability documents required under this Part is as fol
 
 ### 162AB Assessment of regulatory impacts of policies
 (1) The Bank must—
-  (a) assess the expected regulatory impacts of any policy that it intends to adopt under Part 5 and Parts 5B to 5D and under the Insurance (Prudential Supervision) Act 2010; and
-  (b) assess the regulatory impacts of the policies adopted and applied under Part 5 and Parts 5B to 5D and under the Insurance (Prudential Supervision) Act 2010 at intervals appropriate to the nature of the policy being assessed; and
+  (a) assess the expected regulatory impacts of any policy that it intends to adopt under Part 5, Parts 5B and 5C, and under the Non-bank Deposit Takers Act 2013 and the Insurance (Prudential Supervision) Act 2010; and
+  (b) assess the regulatory impacts of the policies adopted and applied under Part 5, Parts 5B and 5C, and under the Non-bank Deposit Takers Act 2013 and the Insurance (Prudential Supervision) Act 2010 at intervals appropriate to the nature of the policy being assessed; and
   (c) give reports on the assessments to the Minister.
 (2) Subsection (1) does not apply in respect of any policy that is of a minor or technical nature.
 (3) The Bank may provide reports on the assessments of regulatory impacts to the Minister—
@@ -3465,54 +3144,6 @@ The provisions of sections 40 to 45 and section 46 of the Reserve Bank of New Ze
 ## Schedule 2 — Enactments repealed
 
 ## Schedule 3 — General provisions relating to material incorporated by reference
-
-### 1 Effect of material incorporated by reference
-(1) This clause and clauses 2 to 7 apply to material incorporated by reference in—
-  (a) an Order in Council made under section 81; and
-  (b) regulations made under Part 5D.
-(2) Material incorporated by reference in an Order in Council made under section 81 or regulations has effect as part of the Order in Council or regulations.
-
-### 2 Effect of amendments to, or replacement of, material incorporated by reference
-An amendment to, or replacement of, material incorporated by reference in an Order in Council or regulations has legal effect as part of that instrument only if an Order in Council made under section 81 or regulations made under Part 5D after the making of that instrument state that the particular amendment or replacement has that effect.
-
-### 3 Proof of material incorporated by reference
-(1) A copy of the material incorporated by reference in an Order in Council or regulations, including any amendment to, or replacement of, the material, must be—
-  (a) certified as a correct copy of the material by the Governor; and
-  (b) retained by the Governor.
-(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the Order in Council or regulations of the material.
-
-### 4 Effect of expiry or revocation of material incorporated by reference
-Material incorporated by reference in an Order in Council or regulations that expires or is revoked, or that ceases to have effect, ceases to have legal effect as part of the Order in Council or regulations only if an Order in Council made under section 81 or regulations made under Part 5D state that the material is revoked or ceases to have legal effect.
-
-### 5 Access to material incorporated by reference
-(1) The Governor—
-  (a) must make the material referred to in subclause (2) available for inspection during working hours free of charge at the head office of the Bank and at any other places that the Governor determines are appropriate; and
-  (b) must make copies available for purchase at a reasonable price; and
-  (c) may make copies of the material available in any other way that the Governor considers appropriate in the circumstances (for example, on an Internet website); and
-  (d) must give notice in the Gazette stating that—
-    (i) the material is incorporated in the regulations and the date on which the regulations were made; and
-    (ii) the material is available for inspection during working hours, free of charge, and the location of the place or places at which it can be inspected; and
-    (iii) copies of the material can be purchased and the location of the place or places at which they can be purchased; and
-    (iv) if copies of the material are available under paragraph (c), the material is available in other ways, and giving the details of how and where it can be accessed and obtained.
-(2) The material is—
-  (a) a framework, standard, specification, or requirement incorporated by reference in an Order in Council made under section 81:
-  (b) any amendment to, or replacement of,—
-    (i) the framework, standard, specification, or requirement incorporated by reference in the Order in Council; or
-    (ii) the framework, standard, specification, or requirement referred to in paragraph (a) with the amendments or replacement framework, standard, specification, or requirement incorporated within it:
-  (c) a framework incorporated by reference in regulations made under section 157S or 157V:
-  (d) any amendment to, or replacement of,—
-    (i) the framework that is incorporated in the regulations; or
-    (ii) the framework referred to in paragraph (c) with the amendments or replacement framework incorporated within it.
-(3) A failure to comply with this clause does not invalidate—
-  (a) an Order in Council that incorporates a framework, standard, specification, or requirement by reference; or
-  (b) regulations that incorporate a framework by reference.
-
-### 6 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in an Order in Council or regulations or to an amendment to, or replacement of, that material.
-
-### 7 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
-(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in an Order in Council or regulations to be laid before the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subclause (1) of this clause, applies to an Order in Council or regulations that incorporate material by reference.
 
 ## Schedule 4 — General provisions relating to search warrants issued under Part 5D
 
