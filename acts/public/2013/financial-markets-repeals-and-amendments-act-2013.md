@@ -1,5 +1,5 @@
 # Financial Markets (Repeals and Amendments) Act 2013
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-05-01_
 
 ### 1 Title
 This Act is the Financial Markets (Repeals and Amendments) Act 2013.
@@ -1586,11 +1586,6 @@ The Financial Markets Conduct Act 2013 applies to the Funding Agency as if it we
 (1) Public Trust may not make a regulated offer of managed investment products in a group investment fund established by it under this Part if the fund was established after the date on which this section comes into force.
 (2) Nothing in subsection (1) affects the rights, powers, and duties of Public Trust under sections 61 to 72B.
 (3) In this section, regulated offer and managed investment products have the same meanings as in section 6(1) of the Financial Markets Conduct Act 2013.
-
-### 157D Application of Part
-This Part, in so far as it applies to trust deeds, applies to every trust deed—
-  (a) whether or not the trust deed was registered under the Securities Act 1978 or lodged under the Financial Markets Conduct Act 2013; and
-  (b) regardless of when it was so registered or lodged.
 
 ### 43A Court may make orders
 (1) The court may, on application by a statutory supervisor under section 43(1)(c) and after giving the operator and any other person that the court thinks fit the opportunity to be heard, make 1 or more of the orders listed in subsection (2).
