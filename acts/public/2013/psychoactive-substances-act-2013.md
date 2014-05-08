@@ -1,5 +1,5 @@
 # Psychoactive Substances Act 2013
-_Consolidation as at 2013-07-17_
+_Consolidation as at 2014-05-08_
 
 ### 1 Title
 This Act is the Psychoactive Substances Act 2013.
@@ -22,7 +22,8 @@ In performing functions or duties or exercising powers (either individually or c
     (ii) evidence, including the results of preclinical and clinical trials:
   (c) a psychoactive product that poses no more than a low risk of harm to individuals who use the product should be approved:
   (d) a psychoactive product that poses more than a low risk of harm to individuals who use the product should be prohibited:
-  (e) a psychoactive product that has not been approved by the Authority should be prohibited, on a precautionary basis, until it has been assessed by the Authority and the Authority is satisfied that it poses no more than a low risk of harm to individuals who use it.
+  (e) a psychoactive product that has not been approved by the Authority should be prohibited, on a precautionary basis, until it has been assessed by the Authority and the Authority is satisfied that it poses no more than a low risk of harm to individuals who use it:
+  (f) animals must not be used in trials for the purposes of assessing whether a psychoactive product should be approved.
 
 ### 5 Application of Act
 (1) This Act applies to the importation, manufacture, sale, supply, or possession of a psychoactive substance or approved product for the primary purpose of inducing a psychoactive effect in an individual who uses the substance or product.
@@ -48,7 +49,7 @@ In performing functions or duties or exercising powers (either individually or c
     (vi) the relationship between this Act and other enactments:
     (vii) authorising the Authority to recall approved products in certain circumstances:
     (viii) requiring the Ministry to conduct a review of the policy and operation of this Act no later than 5 years after the commencement of the Act:
-    (ix) providing for the circumstances in which psychoactive substances that were being lawfully sold throughout the period of 3 months before the commencement of this Act may continue to be sold if certain conditions are met:
+    (ix)
     (x) amending other enactments.
 (2) This section is a guide only to the general scheme and effect of this Act and does not limit or affect the other provisions of this Act.
 
@@ -193,25 +194,9 @@ In this Act, unless the context otherwise requires,—
   (b) comply with the principles of natural justice.
 (11) The advisory committee must provide the Minister with a written annual report of its operations.
 
-### 12 Duty of advisory committee relating to use of animals when evaluating psychoactive products
-(1) In performing the function set out in section 11(2)(a), the advisory committee must comply with subsections (2) and (3), which provide whether and, if so, to what extent the advisory committee may have regard to the results of a trial (whether undertaken in New Zealand or overseas) that involves the use of an animal.
-(2) If a suitable alternative exists, the advisory committee must not have regard to the results of a trial that involves the use of an animal.
-(3) If a suitable alternative does not exist, the advisory committee may have regard to the results of a trial that involves the use of an animal, but only if the following conditions exist:
-  (a) the trial is based on the relevant International Conference on Harmonisation Guidelines (as amended from time to time); and
-  (b) for a trial undertaken in New Zealand, the trial complies with the restrictions on the use of animals in research, testing, or teaching set out in Part 6 of the Animal Welfare Act 1999; and
-  (c) for a trial undertaken overseas, the trial complies with restrictions on the use of animals in research, testing, or teaching that are equivalent to or exceed those set out in Part 6 of the Animal Welfare Act 1999; and
-  (d) the advisory committee, at least annually, reviews the use of the trial to ensure that there is up-to-date analysis of available alternatives with the aim of—
-    (i) reducing the number of animals used in research, testing, and teaching to the minimum necessary; and
-    (ii) refining the techniques used in any research, testing, and teaching so that any harm caused to animals is minimised; and
-    (iii) replacing animals as subjects for research and testing of psychoactive products, whether undertaken in New Zealand or overseas, as further information becomes available; and
-  (e) the trial complies with any guidelines issued by the Authority relating to the use of animals in trials of psychoactive products.
-(4) In this section, suitable alternative means a trial that does not involve the use of an animal and that is publicly notified, on the recommendation of the advisory committee, as a suitable alternative by the Authority.
-(5) In considering whether to recommend a suitable alternative, the advisory committee must have particular regard to—
-  (a) the principle set out in section 4(a); and
-  (b) the likelihood of psychoactive substances being used by young adults.
-(6) To avoid doubt, if a suitable alternative exists, the advisory committee is not precluded from having regard to—
-  (a) the results of a trial that involves the use of an animal and that was undertaken before the Authority notified the suitable alternative; or
-  (b) the results of any other trial that does not involve the use of an animal.
+### 12 Advisory committee not to have regard to results of trials involving animals
+(1) In performing the function set out in section 11(2)(a), the advisory committee must not have regard to the results of a trial that involves the use of an animal.
+(2) However, the advisory committee may have regard to the results of a trial undertaken overseas that involves the use of an animal if the advisory committee considers that the trial shows that the psychoactive product would pose more than a low risk of harm to individuals using the product.
 
 ## Part 2 — Psychoactive substances and approved products
 
@@ -451,11 +436,13 @@ The Authority may issue a compliance notice to any person whose manufacturing fa
 **Granting of approval**
 
 ### 37 Grounds for approving product
-The Authority must approve a psychoactive product as an approved product if the Authority is satisfied that—
+(1) The Authority must approve a psychoactive product as an approved product if the Authority is satisfied that—
   (a) the application relating to the product—
     (i) complies with the requirements of section 33; and
     (ii) does not contain any materially false or misleading information; and
   (b) the degree of harm that the product poses to individuals using the product is no more than a low risk of harm.
+(2) To avoid doubt, if the Authority is unable to satisfy itself of the matter in subsection (1)(b), the Authority must refuse to approve a psychoactive product as an approved product.
+(3) In deciding whether or not to approve a psychoactive product as an approved product, the Authority must not have regard to any particulars, information, documents, or other material relating to any trial that the advisory committee must not have regard to under section 12.
 
 **Conditions of approval**
 
@@ -1216,54 +1203,27 @@ The application, savings, and transitional provisions set out in Schedule 1 have
 
 ### 1 Interpretation
 In this schedule,—
-  - **full application** means,—
-    (a) in respect of a psychoactive product granted interim approval, an application made under section 33 by the person who applied for interim approval of the product:
-    (b) in respect of an activity to which an interim licence relates, an application made under section 13 by the person who was granted the interim licence
-  - **interim approval** means an approval of a psychoactive product granted by the Authority under clause 4
+  - **full application** means, in respect of an activity to which an interim licence relates, an application made under section 13 by the person who was granted the interim licence
+  - **interim approval** means an approval of a psychoactive product granted by the Authority under clause 4 before that clause was repealed by section 8 of the Psychoactive Substances Amendment Act 2014
   - **interim licence** means a licence granted by the Authority under clause 8.
 
 ### 2 Transitional arrangement for psychoactive substances or psychoactive products lawfully imported, manufactured, researched, or sold before commencement of Act
-(1) This schedule applies to a psychoactive substance or psychoactive product that was lawfully being imported, manufactured, researched, or sold throughout the period of 3 months immediately before the commencement of this Act.
-(2) The psychoactive substance or psychoactive product may continue to be imported, manufactured, researched, or sold after the commencement of this Act, but only,—
-  (a) in the case of the sale of a psychoactive product, if the Authority has granted an interim approval in respect of the product; and
-  (b) by a person who holds an interim licence while that licence remains in force.
+(1) Clauses 1 to 15 of this schedule apply to a psychoactive substance or psychoactive product that was lawfully being imported, manufactured, researched, or sold throughout the period of 3 months immediately before the commencement of this Act.
+(2) A psychoactive substance to which this schedule applies may continue to be imported, manufactured, researched, or sold after the commencement of this Act, but only by a person who holds an interim licence and while that licence remains in force.
 
 **Interim approval of psychoactive products**
 
 ### 3 Application for interim approval of psychoactive product
-(1) A person who is a New Zealand resident may, within 28 days after the commencement of this Act, apply for the interim approval of a psychoactive product to which this schedule applies.
-(2) An application under subclause (1) must—
-  (a) be made in a form or manner approved by the Authority; and
-  (b) contain the following information:
-    (i) the full name and address (including an electronic address, if available) of the person; and
-    (ii) the physical address of the premises from which the psychoactive product was manufactured; and
-  (c) be accompanied by—
-    (i) the information specified in subclause (3); and
-    (ii) the appropriate fee payable for an application for an interim approval specified in clause 10.
-(3) For the purposes of subclause (2)(c)(i), the information is—
-  (a) a statutory declaration made by the applicant stating that the psychoactive product to which the application relates has been lawfully sold in New Zealand throughout the period of 3 months immediately before the commencement of this Act; and
-  (b) any other information that the Authority reasonably requires and that is notified in writing to the applicant.
-(4) The Authority may, as the Authority thinks fit, waive the fee payable for an application for an interim approval of a psychoactive product, in whole or in part, in any particular case or class of cases.
+[Repealed]
 
 ### 4 Grant of interim approval
-Subparts 2 and 3 of Part 2 (except sections 33 and 37(a)(i)) apply, with any necessary modifications, to an application for interim approval as if it were an application made under section 33.
+[Repealed]
 
 ### 5 Control of psychoactive products granted interim approval
-Part 3 applies, with any necessary modifications, to a psychoactive product granted interim approval as if it were an approved product.
+[Repealed]
 
 ### 6 Duration of interim approval
-(1) This clause applies to a psychoactive product granted interim approval by the Authority under clause 4.
-(2) Within 28 days after the date on which regulations made under sections 95 and 101(1)(a) come into force, the person who applied for an interim approval of the psychoactive product must notify the Authority in writing that the person—
-  (a) does not wish to make a full application in respect of the product; or
-  (b) wishes to make a full application in respect of the product.
-(3) If subclause (2)(a) applies, the interim approval of the product is deemed to be revoked on the date on which the Authority receives that notification.
-(4) If subclause (2)(b) applies, the person must submit the full application to the Authority—
-  (a) as soon as practicable after the date on which regulations made under sections 95 and 101(1)(a) come into force; and
-  (b) no later than 3 months after those regulations come into force or any longer period that the Authority may allow in the circumstances.
-(5) If the person submits a full application in accordance with subclause (4), the interim approval granted in respect of the psychoactive product continues in force until the date on which the full application under section 33 is determined under this Act, and the interim approval is then deemed to be revoked.
-(6) For the purposes of subclause (4), the Authority may, on any 1 or more occasions, require the person to provide any relevant information that the Authority requires in order to establish whether that person is taking reasonable steps to submit a full application.
-(7) If, after considering any information provided under subclause (6), the Authority is not satisfied that the person is taking reasonable steps to submit a full application within the period specified in subclause (4), the Authority must revoke the interim approval granted in respect of the psychoactive product.
-(8) If an interim approval is revoked under subclause (7), the revocation takes effect on the date on which the Authority notifies the person who applied for the interim approval of the revocation.
+[Repealed]
 
 **Interim licences**
 
@@ -1272,9 +1232,9 @@ Part 3 applies, with any necessary modifications, to a psychoactive product gran
   (a) an interim licence to import psychoactive substances:
   (b) an interim licence to manufacture psychoactive substances:
   (c) an interim licence to research psychoactive substances:
-  (d) an interim licence to sell psychoactive substances:
-  (e) an interim licence to sell a psychoactive product granted interim approval by retail:
-  (f) an interim licence to sell a psychoactive product granted interim approval by wholesale.
+  (d) an interim licence to sell psychoactive substances.
+  (e)
+  (f)
 (2) An application under subclause (1) must—
   (a) be made in a form or manner approved by the Authority; and
   (b) contain the following information:
@@ -1291,8 +1251,10 @@ Part 3 applies, with any necessary modifications, to a psychoactive product gran
   (c) any other information that the Authority reasonably requires and that is notified in writing to the applicant.
 (4) The Authority may, as the Authority thinks fit, waive the fee payable for an application for an interim licence, in whole or in part, in any particular case or class of cases.
 
-### 8 Grant of interim licence
-Subparts 1 and 3 of Part 2 (except sections 13 and 16(1)(a)) apply, with any necessary modifications, to an application for an interim licence as if it were an application made under section 13.
+### 8 Application of subparts 1 and 3 of Part 2 to interim licence
+Subparts 1 and 3 of Part 2 (except sections 13 and 16(1)(a)) apply, with any necessary modifications,—
+  (a) to an application for an interim licence as if it were an application made under section 13; and
+  (b) to an interim licence granted in accordance with paragraph (a).
 
 ### 9 Duration of interim licence
 (1) An interim licence granted under clause 8 is deemed to be cancelled 28 days after the date on which regulations made under sections 95 and 101(1)(a) come into force unless, within that period, the holder of the interim licence makes a full application under section 13 for a licence to carry out the activity to which the interim licence relates.
@@ -1300,8 +1262,73 @@ Subparts 1 and 3 of Part 2 (except sections 13 and 16(1)(a)) apply, with any nec
 
 **Fees**
 
-### 10 Fees payable for interim approval or interim licence
-The fee payable for an application for interim approval or an application for an interim licence is the fee specified in the second column of the following table opposite the approval or licence specified in the first column:Interim approval or interim licenceFee ($) (including GST) Interim approval of psychoactive product10,000Interim licence to import psychoactive substances500Interim licence to manufacture psychoactive substances500Interim licence to research psychoactive substances500Interim licence to sell psychoactive substances that are not approved products500Interim licence to sell psychoactive products granted interim approval by retail500Interim licence to sell psychoactive products granted interim approval by wholesale500
+### 10 Fees payable for interim licence
+The fee payable for an application for an interim licence is the fee specified in the second column of the following table opposite the licence specified in the first column:Interim licenceFee ($) (including GST)Interim licence to import psychoactive substances500Interim licence to manufacture psychoactive substances500Interim licence to research psychoactive substances500Interim licence to sell psychoactive substances that are not approved products500
+
+**Interim approvals of psychoactive products and interim licences to sell psychoactive products granted interim approval revoked**
+
+### 11 Revocation of interim approvals of psychoactive products
+Every interim approval granted in respect of a psychoactive product under clause 4 (before that clause was repealed by section 8 of the Psychoactive Substances Amendment Act 2014) is revoked.
+
+### 12 Recall of interim approved products
+(1) The Authority must, before the close of the day after the date of the commencement of this clause, issue a recall order under section 88 for every psychoactive product described in clause 11 (the product).
+(2) The Authority must—
+  (a) display the date of the recall order prominently on the recall order; and
+  (b) notify the recall order on an Internet site maintained by or on behalf of the Authority.
+(3) For the purposes of section 88(2), the recall order is deemed to have been received by every importer, manufacturer, wholesaler, or retailer of the product on the close of the day after the date displayed on the recall order.
+(4) The recall order may—
+  (a) require every importer, manufacturer, wholesaler, and retailer (or any combination of them) to—
+    (i) provide information to the Authority in relation to the amount and type of the product in their possession:
+    (ii) dispose of or destroy, or arrange for the disposal (including by return to a manufacturer or an importer) or the destruction of, the product in their possession:
+    (iii) provide information to the Authority on the disposal of or destruction or arrangements for the disposal or destruction of the product in their possession:
+  (b) specify locations where the product can be delivered for disposal or destruction:
+  (c) specify a time limit for compliance with the recall order:
+  (d) specify any ancillary or incidental requirement.
+(5) For the avoidance of doubt, section 88(2) and (3) applies to the recall order issued in accordance with this clause.
+(6) It is a defence to a charge of an offence specified in subclause (7) that the action or omission that constitutes the offence was done—
+  (a) in good faith in the course of complying with the recall order; and
+  (b) within 14 days after the date of the commencement of this clause.
+(7) The offences to which the defence in subclause (6) may apply are—
+  (a) an offence under section 28:
+  (b) an offence under section 70:
+  (c) an offence under section 71.
+
+### 13 Revocation of interim licences to sell psychoactive products granted interim approval
+(1) Every interim licence granted under clause 7(1)(e) and (f) (before those paragraphs were repealed by section 8 of the Psychoactive Substances Amendment Act 2014) is revoked.
+(2) Despite the revocation of interim licences under subclause (1), a wholesaler or retailer who held an interim licence immediately before this clause came into force—
+  (a) must comply with the recall order issued in accordance with clause 12 as if the wholesaler or retailer continued to hold the licence; and
+  (b) is, for the purposes of section 88, to be treated as if it continued to hold the licence until the close of the 14th day after the commencement of this clause.
+
+### 14 Appeals under subpart 3 of Part 2
+For the avoidance of doubt, and regardless of the outcome of any appeal under subpart 3 of Part 2, the following may not be granted after the commencement of the Psychoactive Substances Amendment Act 2014:
+  (a) an interim licence to sell psychoactive products granted interim approval by retail:
+  (b) an interim licence to sell psychoactive products granted interim approval by wholesale:
+  (c) an interim approval.
+
+**Enforcement powers**
+
+### 15 Power to enter and search retail premises
+(1) This clause applies in relation to the retail premises of every holder of an interim licence granted under clause 7(1)(e) (before that paragraph was repealed by section 8 of the Psychoactive Substances Amendment Act 2014) and revoked by clause 13.
+(2) An enforcement officer or a constable may, for the purpose of ensuring or enforcing compliance with the recall order issued in accordance with clause 12, exercise any powers under section 78 in relation to those retail premises until the close of the 14th day after the date of the commencement of this clause as if the interim licence concerned had not been revoked.
+(3) Section 78, as modified by subclause (2), applies in relation to those retail premises.
+
+**Moratorium on processing applications under section 13 or 33 until regulations in force**
+
+### 16 Moratorium on processing applications for licences under section 13
+(1) The Authority must not process any application for a licence of a kind described in section 13(1)(a) to (d) (whether the application is made before or after the commencement of this clause) until regulations under section 95 prescribing the fees or charges for applications for licences of that kind come into force.
+(2) The Authority must not process any application for a licence of a kind described in section 13(1)(e) or (f) (whether the application is made before or after the commencement of this clause) until both of the following have come into force:
+  (a) regulations under section 95 prescribing the fees or charges for applications for licences of that kind; and
+  (b) regulations under section 101(1)(a) prescribing the particulars, information, documents, samples, or other material that must accompany or be contained in applications for licences of that kind.
+
+### 17 Moratorium on processing applications for approval of psychoactive product under section 33
+The Authority must not process any application for approval of a psychoactive product under section 33 (whether the application is made before or after the commencement of this clause) until both of the following have come into force:
+  (a) regulations under section 95 prescribing the fees or charges for applications for approval of psychoactive products; and
+  (b) regulations under section 101(1)(a) prescribing the particulars, information, documents, samples, or other material that must accompany or be contained in applications for approval of psychoactive products.
+
+**No compensation or damages**
+
+### 18 No compensation or damages
+No compensation or damages are payable by the Crown for any loss or damage arising from the enactment of the Psychoactive Substances Amendment Act 2014.
 
 ## Schedule 2 — Consequential amendments and revocation
 
