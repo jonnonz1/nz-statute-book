@@ -1,5 +1,5 @@
 # Electronic Transactions Act 2002
-_Consolidation as at 2010-11-29_
+_Consolidation as at 2014-05-10_
 
 ### 1 Title
 This Act is the Electronic Transactions Act 2002.
@@ -20,7 +20,7 @@ The purpose of this Act is to facilitate the use of electronic technology by—
 ### 4 Overview
 In this Act,—
   (a) matters concerning the legal effect of information that is in electronic form or that is communicated by electronic means are set out in section 8:
-  (b) default rules about the time and place of dispatch and receipt of electronic communications are set out in sections 9 to 13:
+  (b) default rules about the time and place of dispatch and receipt of electronic communications are set out in sections 9 to 13A:
   (c) key provisions concerning the use of electronic technology to meet certain legal requirements are set out in sections 14 to 17:
   (d) provisions that specify certain legal requirements that may be met by using electronic technology, and how they may be met, are set out in sections 18 to 32.
 
@@ -87,6 +87,12 @@ An electronic communication is taken to be received at—
     (i) the place of business that has the closest relationship with the underlying transaction; or
     (ii) if there is no place of business to which subparagraph (i) applies, the addressee's principal place of business; or
   (c) in the case of an addressee who does not have a place of business, the addressee's ordinary place of residence.
+
+### 13A Time of communication of acceptance of offer
+(1) For the purpose of the formation of a contract, an acceptance by electronic communication of an offer is taken to be communicated to the offeror at the time determined by section 11 to be the time of receipt for that electronic communication.
+(2) Subsection (1) does not apply if—
+  (a) the parties to the contract otherwise agree; or
+  (b) an enactment provides otherwise.
 
 ## Part 3 — Application of legal requirements to electronic transactions
 
