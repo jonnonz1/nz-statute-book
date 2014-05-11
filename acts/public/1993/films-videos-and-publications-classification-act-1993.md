@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-11_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -1170,7 +1170,7 @@ In section 122,—
   - **digital content** —
     (a) means information that is kept on a data storage device and accessed, or available for access, through a public data network; but
     (b) does not include email, or information that is transmitted in the form of a broadcasting service
-  - **network operator** has the same meaning as in section 3(1) of the Telecommunications (Interception Capability) Act 2004
+  - **network operator** has the same meaning as in section 3(1) of the Telecommunications (Interception Capability and Security) Act 2013
   - **postal operator** has the same meaning as in section 2(1) of the Postal Services Act 1998
   - **public data network** has the same meaning as in section 5 of the Telecommunications Act 2001
   - **service provider** —
