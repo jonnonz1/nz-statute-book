@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2014-05-01_
+_Consolidation as at 2014-05-11_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -628,7 +628,7 @@ A Judge must not issue a surveillance device warrant that is primarily intended 
   (d) the name, address, or other description of the person, place, vehicle, or other thing that is the object of the proposed surveillance:
   (e) the evidential material relating to the suspected offence that may be obtained by use of the surveillance device:
   (f) that an enforcement officer carrying out the activities authorised by the warrant may use any assistance that is reasonable in the circumstances:
-  (g) that an enforcement officer who, while carrying out the activities authorised by the warrant, obtains the content of a telecommunication may direct the relevant network operator to provide call associated data (as defined in section 3(1) of the Telecommunications (Interception Capability) Act 2004) that is—
+  (g) that an enforcement officer who, while carrying out the activities authorised by the warrant, obtains the content of a telecommunication may direct the relevant network operator to provide call associated data (as defined in section 3(1) of the Telecommunications (Interception Capability and Security) Act 2013) that is—
     (i) a document within the meaning of section 70; and
     (ii) related to that telecommunication:
   (h) that, subject to section 45, an enforcement officer carrying out the activities authorised by the warrant may do any or all of the following, using any force that is reasonable in the circumstances to do so, in order to install, maintain, or remove the surveillance device, or to access and use electricity to power the surveillance device:
@@ -777,7 +777,7 @@ A Judge may make a declaratory order if he or she is satisfied that the use of a
 
 ### 70 Interpretation
 In this subpart,—
-  - **call associated data** and have the same meanings as in section 3(1) of the Telecommunications (Interception Capability) Act 2004
+  - **call associated data** and have the same meanings as in section 3(1) of the Telecommunications (Interception Capability and Security) Act 2013
   - **document** includes call associated data and the content of telecommunications in respect of which, at the time an application is made under section 71 for a production order against a network operator, the network operator has storage capability for, and stores in the normal course of its business, that data and content.
 
 ### 71 Enforcement officer may apply for production order
