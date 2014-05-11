@@ -1,5 +1,5 @@
 # New Zealand Security Intelligence Service Act 1969
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-05-11_
 
 > An Act to make better provision for the New Zealand Security Intelligence Service
 
@@ -330,7 +330,8 @@ This Act shall bind the Crown.
   (c) to deliberate with the Minister on applications for domestic intelligence warrants:
   (d) to issue domestic intelligence warrants jointly with the Minister in accordance with section 4A:
   (e) to consider advice, given to the Commissioner under section 4F(3), concerning approvals to enter certain places:
-  (f) after consulting the Minister, to give directions under section 4F(5) (which relates to directions not to proceed with, or to discontinue, interceptions or seizures of communications at certain places).
+  (f) after consulting the Minister, to give directions under section 4F(5) (which relates to directions not to proceed with, or to discontinue, interceptions or seizures of communications at certain places):
+  (g) to conduct reviews under section 56 of the Telecommunications (Interception Capability and Security) Act 2013 relating to significant network security risks.
 
 ### 5B Term of office
 (1) Every person appointed as the Commissioner must be appointed for a term of 3 years, and may from time to time be reappointed.
