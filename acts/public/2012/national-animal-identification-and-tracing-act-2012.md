@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2014-05-11_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -1067,7 +1067,7 @@ The enactments specified in Schedule 4 are amended in the manner shown in that s
 (1) In this schedule, unless the context otherwise requires,—
   - **access** , in relation to any computer system, means instruct, communicate with, store data in, receive data from, or otherwise make use of any of the resources of the computer system
   - **access information** includes codes, passwords, and encryption keys, and any related information that enables access to a computer system or any other data storage device
-  - **call associated data** has the meaning given in section 3(1) of the Telecommunications (Interception Capability) Act 2004
+  - **call associated data** has the meaning given in section 3(1) of the Telecommunications (Interception Capability and Security) Act 2013
   - **computer system** —
     (a) means—
       (i) a computer; or
@@ -1081,7 +1081,7 @@ The enactments specified in Schedule 4 are amended in the manner shown in that s
     (a) a Judge:
     (b) a person such as a Justice of the Peace, Community Magistrate, Registrar, or Deputy Registrar
   - **law enforcement agency** means the Ministry or the NAIT organisation
-  - **network operator** has the meaning given in section 3(1) of the Telecommunications (Interception Capability) Act 2004
+  - **network operator** has the meaning given in section 3(1) of the Telecommunications (Interception Capability and Security) Act 2013
   - **Registrar** and mean the Registrar and Deputy Registrar of the District Court
   - **remote access search** means a search of a thing such as an Internet data storage facility that does not have a physical address that a person can enter and search
   - **search power** , in relation to any provision in this schedule, means every search warrant issued under this Act
