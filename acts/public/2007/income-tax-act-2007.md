@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-05-11_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -14887,7 +14887,7 @@ Exclusions from attributable CFC amount: shares
 Exclusions from attributable CFC amount: telecommunications services in New Zealand
 (11) Income of a CFC from a telecommunications service physically performed in New Zealand is not included in an attributable CFC amount under subsection (3)(n) if—
   (a) the service is the transmission, emission, or reception of information between New Zealand and a country or territory with which the CFC has a taxed CFC connection; and
-  (b) the CFC is a network operator under the Telecommunications (Interception Capability) Act 2004 (a network operator), or—
+  (b) the CFC is a network operator under the Telecommunications (Interception Capability and Security) Act 2013 (a network operator), or—
     (i) a group of persons has, for the whole of the CFC's accounting period, voting interests and, if a market value circumstance exists, market value interests, of more than 50% in the CFC; and
     (ii) the group of persons also has, for the whole of the CFC's accounting period, voting interests and, if a market value circumstance exists, market value interests, of more than 50% in a network operator; and
   (c) the service is performed by a person, other than the CFC, who—
@@ -39089,7 +39089,7 @@ In this Act, unless the context requires otherwise,—
   - **non-resident mining operator**
   - **non-resident passive income** is defined in section RF 2 (Non-resident passive income)
   - **non-resident person** is defined in section CW 22(3) (Amounts derived by overseas experts and trainees in New Zealand by government arrangement) for the purposes of that section
-  - **non-resident seasonal worker**
+  - **non-resident seasonal worker** means a non-resident person employed under the recognised seasonal employment scheme to undertake work in New Zealand
   - **non-resident taxpayer** is defined in section HD 26(2) (Agency in relation to non-residents generally) for the purposes of sections HD 27 and HD 28 (which relate to employers and certain payments)
   - **non-resident trader** means a person who—
     (a) is in New Zealand; and
