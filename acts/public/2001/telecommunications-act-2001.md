@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-05-11_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -1078,7 +1078,7 @@ In this subpart, unless the context otherwise requires,—
       (v) an undertaking approved in accordance with subpart 4 of this Part (undertakings by Chorus); or
       (vi) an arrangement that is exempted under section 69N; or
       (vii) an arrangement that relates to ensuring compliance by Telecom, Chorus, or both with—
-        (A) the duties imposed by the Telecommunications (Interception Capability) Act 2004 on a network operator (within the meaning of that Act); or
+        (A) the duties imposed by the Telecommunications (Interception Capability and Security) Act 2013 on a network operator (within the meaning of that Act); or
         (B) duties or requirements imposed by any other Act, interception warrant, or other lawful authority that relate to the interception of communications.
 
 ### 69D Meaning of arm's-length
