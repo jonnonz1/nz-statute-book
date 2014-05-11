@@ -1,5 +1,5 @@
 # Telecommunications (Interception Capability) Act 2004
-_Consolidation as at 2013-09-26_
+_Consolidation as at 2014-05-11_
 
 ### 1 Title
 This Act is the Telecommunications (Interception Capability) Act 2004.
