@@ -1,5 +1,5 @@
 # Historic Places Act 1993
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 > An Act—ato promote the identification, protection, preservation, and conservation of the historical and cultural heritage of New Zealand; andbto continue the New Zealand Historic Places Trust and the New Zealand Historic Places Board of Trustees with the functions and powers necessary for the full and proper attainment of the objectives of this Act; andcto establish the Maori Heritage Council; anddto amend and consolidate the Historic Places Act 1980
 
