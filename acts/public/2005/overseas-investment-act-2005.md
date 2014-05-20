@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -150,7 +150,7 @@ The purpose of this Act is to acknowledge that it is a privilege for overseas pe
   (b) is in one of the following categories:
     (i) is domiciled in New Zealand; or
     (ii) is residing in New Zealand with the intention of residing there indefinitely, and has done for the immediately preceding 12 months (see subsection (3)).
-(3) Absence from New Zealand for no more than 183 days in aggregate in the last 12 months (counting presence in New Zealand for part of a day as presence for a whole day) does not prevent a person from satisfying the requirement for residing in New Zealand for the last 12 months under subsection (2)(b)(ii).
+(3) Absence from New Zealand for no more than 183 days in aggregate in the last 12 months (counting presence in New Zealand for part of a day as presence for a whole day) does not prevent a person from satisfying the requirement for residing in New Zealand for the last 12 months under subsection (2)﻿(b)﻿(ii).
 (4) In this Act, a person (A) has a 25% or more ownership or control interest in another person (B) if A has—
   (a) a beneficial entitlement to, or a beneficial interest in, 25% or more of B's securities; or
   (b) the power to control the composition of 25% or more of the governing body of B; or
@@ -191,7 +191,7 @@ The purpose of this Act is to acknowledge that it is a privilege for overseas pe
   (d) A participates in the overseas investment or the other matter as a consequence of any arrangement or understanding with B:
   (e) A would come within any of paragraphs (a) to (d) if the reference to B in any of those paragraphs were instead a reference to another associate of B.
 (2) If A is an associate of B, B is also an associate of A.
-(3) For the purposes of subsection (1), it does not matter whether the control, direction power, influence, arrangement, or other relationship between A and B is—
+(3) For the purposes of subsection (1), it does not matter whether the control, direction, power, influence, arrangement, or other relationship between A and B is—
   (a) direct or indirect:
   (b) general or specific:
   (c) legally enforceable or not.
@@ -242,7 +242,7 @@ An overseas investment in sensitive land is the acquisition by an overseas perso
     (i) the business is carried on for more than 90 days in any year (whether consecutively or in aggregate); and
     (ii) the total expenditure expected to be incurred, before commencing the business, in establishing that business exceeds $100 million; or
   (c) the acquisition by an overseas person, or an associate of an overseas person, of property (including goodwill and other intangible assets) in New Zealand used in carrying on business in New Zealand (whether by 1 transaction or a series of related or linked transactions) if the total value of consideration provided exceeds $100 million.
-(2) However, an overseas person that was lawfully carrying on business in New Zealand on 15 January 1996 (which was when the Overseas Investment Regulations 1995 came into force) does not require consent for an overseas investment in significant business assets described in subsection (1)(b) if the investment requires consent only because it comes within that paragraph.
+(2) However, an overseas person that was lawfully carrying on business in New Zealand on 15 January 1996 (which was when the Overseas Investment Regulations 1995 came into force) does not require consent for an overseas investment in significant business assets described in subsection (1)﻿(b) if the investment requires consent only because it comes within that paragraph.
 
 **Criteria for consent**
 
@@ -275,12 +275,12 @@ An overseas investment in sensitive land is the acquisition by an overseas perso
     (ii) the overseas investment will, or is likely to, benefit New Zealand (or any part of it or group of New Zealanders), as determined by the relevant Ministers under section 17:
     (iii) if the relevant land includes non-urban land that, in area (either alone or together with any associated land) exceeds 5 hectares, the relevant Ministers determine that that benefit will be, or is likely to be, substantial and identifiable:
   (f) if the relevant land is or includes farm land, either that farm land or the securities to which the overseas investment relates have been offered for acquisition on the open market to persons who are not overseas persons in accordance with the procedure set out in regulations (unless the overseas investment is exempt from this criterion under section 20).
-(2) See section 19 in relation to subsection (1)(c) and (d).
+(2) See section 19 in relation to subsection (1)﻿(c) and (d).
 
 ### 17 Factors for assessing benefit of overseas investments in sensitive land
-(1) If section 16(1)(e)(ii) applies, the relevant Ministers—
+(1) If section 16(1)﻿(e)﻿(ii) applies, the relevant Ministers—
   (a) must consider all the factors in subsection (2) to determine which factor or factors (or parts of them) are relevant to the overseas investment; and
-  (b) must determine whether the criteria in section 16(1)(e)(ii) and (iii) are met after having regard to those relevant factors; and
+  (b) must determine whether the criteria in section 16(1)﻿(e)﻿(ii) and (iii) are met after having regard to those relevant factors; and
   (c) may, in doing so, determine the relative importance to be given to each relevant factor (or part).
 (2) The factors are the following:
   (a) whether the overseas investment will, or is likely to, result in—
@@ -294,11 +294,11 @@ An overseas investment in sensitive land is the acquisition by an overseas perso
     (i) conditions as to pest control, fencing, fire control, erosion control, or riparian planting:
     (ii) covenants over the land:
   (c) whether there are or will be adequate mechanisms in place for—
-    (i) protecting or enhancing existing areas of significant habitats of trout, salmon, wildlife protected under section 3 of the Wildlife Act 1953, and game as defined in sections 2(1) of that Act (for example, any 1 or more of the mechanisms referred to in paragraph (b)(i) and (ii)); and
+    (i) protecting or enhancing existing areas of significant habitats of trout, salmon, wildlife protected under section 3 of the Wildlife Act 1953, and game as defined in sections 2(1) of that Act (for example, any 1 or more of the mechanisms referred to in paragraph (b)﻿(i) and (ii)); and
     (ii) providing, protecting, or improving walking access to those habitats by the public or any section of the public:
   (d) whether there are or will be adequate mechanisms in place for protecting or enhancing historic heritage within the relevant land, for example, any 1 or more of the following:
     (i) conditions for conservation (including maintenance and restoration) and access:
-    (ii) agreement to support registration of any historic place, historic area, wahi tapu, or wahi tapu area under the Historic Places Act 1993:
+    (ii) agreement to support the entry on the New Zealand Heritage List/Rārangi Kōrero of any historic place, historic area, wahi tapu, or wahi tapu area under the Heritage New Zealand Pouhere Taonga Act 2014:
     (iii) agreement to execute a heritage covenant:
     (iv) compliance with existing covenants:
   (e) whether there are or will be adequate mechanisms in place for providing, protecting, or improving walking access over the relevant land or a relevant part of that land by the public or any section of the public:
@@ -311,16 +311,16 @@ An overseas investment in sensitive land is the acquisition by an overseas perso
   (b) the relevant overseas person has demonstrated financial commitment to the overseas investment:
   (c) the relevant overseas person is, or (if that person is not an individual) all the individuals with control of the relevant overseas person are, of good character:
   (d) the relevant overseas person is not, or (if that person is not an individual) each individual with control of the relevant overseas person is not, an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 (which sections list certain persons not eligible for visas or entry permission under that Act).
-(2) See section 19 in relation to subsection (1)(c) and (d).
+(2) See section 19 in relation to subsection (1)﻿(c) and (d).
 
 ### 19 Applying good character and Immigration Act 2009 criteria
-(1) For the purposes of sections 16(1)(c) and 18(1)(c), the relevant Minister or Ministers must take the following factors into account (without limitation) in assessing whether or not a person (A) is of good character:
+(1) For the purposes of sections 16(1)﻿(c) and 18(1)﻿(c), the relevant Minister or Ministers must take the following factors into account (without limitation) in assessing whether or not a person (A) is of good character:
   (a) offences or contraventions of the law by A, or by any person in which A has, or had at the time of the offence or contravention, a 25% or more ownership or control interest (whether convicted or not):
   (b) any other matter that reflects adversely on the person's fitness to have the particular overseas investment.
-(2) For the purposes of sections 16(1)(d) and 18(1)(d), an individual is not an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 if a special direction referred to in section 17(1)(a) of that Act has been made permitting a visa or entry permission to be granted to that individual.
+(2) For the purposes of sections 16(1)﻿(d) and 18(1)﻿(d), an individual is not an individual of a kind referred to in section 15 or 16 of the Immigration Act 2009 if a special direction referred to in section 17(1)﻿(a) of that Act has been made permitting a visa or entry permission to be granted to that individual.
 
 ### 20 Exemptions from farm land offer criterion
-Section 16(1)(f) does not apply to an overseas investment if—
+Section 16(1)﻿(f) does not apply to an overseas investment if—
   (a) the relevant Ministers consider that the overseas investment need not meet this criterion by reason of the circumstances relating to the particular overseas investment, interest in land, or rights or interests in securities; or
   (b) the overseas person making the overseas investment belongs to a class of overseas persons, or the overseas investment transaction belongs to a class of transactions, that is exempted from this criterion by the relevant Ministers by notice in the Gazette.
 
@@ -332,8 +332,8 @@ An application for consent must be made in accordance with this Act and regulati
 ### 22 Who must apply for consent
 (1) The following persons must apply for consent to an overseas investment transaction:
   (a) each overseas person or associate making the overseas investment; and
-  (b) if the transaction comes within section 12(b) or section 13(1)(a) because of the issue, buyback, or cancellation of securities, and consent has not been obtained by a person under paragraph (a), the issuer of the securities.
-(2) In addition, the regulator may require any other party to the overseas investment transaction, or any associate of the person referred to in subsection (1)(a) in relation to the overseas investment, to be a party to the application.
+  (b) if the transaction comes within section 12(b) or section 13(1)﻿(a) because of the issue, buyback, or cancellation of securities, and consent has not been obtained by a person under paragraph (a), the issuer of the securities.
+(2) In addition, the regulator may require any other party to the overseas investment transaction, or any associate of the person referred to in subsection (1)﻿(a) in relation to the overseas investment, to be a party to the application.
 
 ### 23 Requirements for application for consent
 (1) An application for consent must—
@@ -363,7 +363,7 @@ An application for consent must be made in accordance with this Act and regulati
   (e) granted in whole or in part:
   (f) granted retrospectively:
   (g) refused.
-(2) A transaction may not be cancelled under section 29(1)(c) if it has been granted retrospective consent.
+(2) A transaction may not be cancelled under section 29(1)﻿(c) if it has been granted retrospective consent.
 
 ### 26 Minister may revoke consent in case of fraud
 The Minister may revoke a consent for an overseas investment transaction before the overseas investment has been given effect if, in the Minister's opinion, the consent has been obtained by fraud.
@@ -637,13 +637,13 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
 ### 61 Regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) determining how to measure value or apply the value thresholds under section 13:
-  (b) prescribing, for the purposes of the criteria in section 16(1)(f), procedures for offering the farm land or the securities to which the overseas investment relates for acquisition on the open market to persons who are not overseas persons:
-  (c) providing what is required for an offer of foreshore, seabed, riverbed, or lakebed to the Crown to be sufficient for the purposes of section 17(2)(f), including prescribing—
+  (b) prescribing, for the purposes of the criteria in section 16(1)﻿(f), procedures for offering the farm land or the securities to which the overseas investment relates for acquisition on the open market to persons who are not overseas persons:
+  (c) providing what is required for an offer of foreshore, seabed, riverbed, or lakebed to the Crown to be sufficient for the purposes of section 17(2)﻿(f), including prescribing—
     (i) the maximum period for which the offer must be open:
     (ii) at what price the land must be offered, and a valuation procedure for fixing that price:
     (iii) on what terms and conditions the land must be offered to the Crown, with the purpose of ensuring it is offered on terms and conditions equivalent to those offered to the overseas person:
-    (iv) power for the relevant Ministers to reject an offer as not being sufficient for the purposes of section 17(2)(f) because it is not on terms and conditions equivalent to those offered to the overseas person:
-  (d) prescribing other factors that the relevant Ministers may apply under section 17(2)(g) of this Act or under section 57H of the Fisheries Act 1996:
+    (iv) power for the relevant Ministers to reject an offer as not being sufficient for the purposes of section 17(2)﻿(f) because it is not on terms and conditions equivalent to those offered to the overseas person:
+  (d) prescribing other factors that the relevant Ministers may apply under section 17(2)﻿(g) of this Act or under section 57H of the Fisheries Act 1996:
   (e) prescribing fees and charges to be paid, or the amounts to be charged, a means by which they may be calculated and ascertained, or a rate at which they may be calculated or ascertained, for the purpose of meeting or assisting in meeting costs of Ministers and the regulator in exercising functions and powers, and performing duties, and providing services, under this Act (but also the previous costs of Ministers and the Commission in relation to those matters under the Overseas Investment Act 1973):
   (f) prescribing maximum bonds to be charged under section 25, a means by which bonds may be calculated or ascertained, or a rate at which bonds may be calculated or ascertained, for the purpose of meeting estimated reasonable costs of Ministers and the regulator in monitoring compliance with a condition or conditions of consent or exemption, and providing for the payment, and repayment if conditions are met, of those bonds:
   (g) prescribing maximum administrative penalties to be charged by the regulator, a means by which administrative penalties may be calculated or ascertained, or a rate at which administrative penalties may be calculated or ascertained, for the purposes of sections 52 and 53:
@@ -654,11 +654,11 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
   (l) providing for and regulating the giving or service of notices for the purposes of this Act, and the effect of those notices:
   (m) providing for transitional provisions:
   (n) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
-(2) The Minister must have regard to the purpose of this Act before recommending any regulations be made under subsection (1)(i).
+(2) The Minister must have regard to the purpose of this Act before recommending any regulations be made under subsection (1)﻿(i).
 
 ### 62 Foreshore, seabed, riverbed, or lakebed acquired by the Crown under consent process is not subdivision
 Nothing in section 11 or Part 10 of the Resource Management Act 1991 applies to—
-  (a) any acquisition by the Crown of land as a direct or indirect consequence of an offer made to the Crown to satisfy section 17(2)(f); or
+  (a) any acquisition by the Crown of land as a direct or indirect consequence of an offer made to the Crown to satisfy section 17(2)﻿(f); or
   (b) any matter incidental to, or required for the purpose of, any acquisition of that kind.
 
 ### Subpart 7 — Transitional provisions and amendments to other enactments
@@ -755,7 +755,7 @@ The enactments specified in Schedule 2 are consequentially amended in the manner
 
 ## Schedule 1 — Sensitive land
 
-| Land is sensitive if it is or includes this type of land | ... and that type exceeds this area threshold (if any) |
+| Land is sensitive if it is or includes this type of land | … and that type exceeds this area threshold (if any) |
 | --- | --- |
 | non-urban land | 5 hectares |
 | land on islands specified in Part 2 of this schedule | 0.4 hectares |
@@ -764,8 +764,8 @@ The enactments specified in Schedule 2 are consequentially amended in the manner
 | bed of a lake | 0.4 hectares |
 | land held for conservation purposes under the Conservation Act 1987 | 0.4 hectares |
 | land that a district plan or proposed district plan under the Resource Management Act 1991 provides is to be used as a reserve, as a public park, for recreation purposes, or as open space | 0.4 hectares |
-| land subject to a heritage order, or a requirement for a heritage order, under the Resource Management Act 1991 or by the Historic Places Trust under the Historic Places Act 1993 | 0.4 hectares |
-| a historic place, historic area, wahi tapu, or wahi tapu area that is registered or for which there is an application or proposal for registration under the Historic Places Act 1993 | 0.4 hectares |
+| land subject to a heritage order, or a requirement for a heritage order, under the Resource Management Act 1991 or by Heritage New Zealand Pouhere Taonga under the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
+| a historic place, historic area, wahi tapu, or wahi tapu area that is entered on the New Zealand Heritage List/Rārangi Kōrero or for which there is an application that is notified under section 67(4) or 68(4) of the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
 
 | Land A is sensitive if it adjoins land of this type | … and land A exceeds this area threshold (if any) |
 | --- | --- |
@@ -776,7 +776,7 @@ The enactments specified in Schedule 2 are consequentially amended in the manner
 | any regional park created under the Local Government Act 1974 | 0.4 hectares |
 | land that is listed, or in a class listed, as a reserve, a public park, or other sensitive area by the regulator under section 37 | 0.4 hectares |
 | land that adjoins the sea or a lake and exceeds 0.4 hectares and is 1 of the following types of land:an esplanade reserve or esplanade strip (within the meaning of section 2(1) of the Resource Management Act 1991); ora recreation reserve under the Reserves Act 1977; ora road (as defined in section 315(1) of the Local Government Act 1974); ora Maori reservation to which section 340 of Te Ture Whenua Maori Act 1993 applies | 0.4 hectares |
-| land over 0.4 hectares that is subject to a heritage order, or a requirement for a heritage order, under the Resource Management Act 1991 or by the Historic Places Trust under the Historic Places Act 1993 | 0.4 hectares |
-| land over 0.4 hectares that includes a historic place, historic area, wahi tapu, or wahi tapu area that is registered or for which there is an application or proposal for registration under the Historic Places Act 1993 | 0.4 hectares |
+| land over 0.4 hectares that is subject to a heritage order, or a requirement for a heritage order, under the Resource Management Act 1991 or by Heritage New Zealand Pouhere Taonga under the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
+| land over 0.4 hectares that includes a historic place, historic area, wahi tapu, or wahi tapu area that is entered on the New Zealand Heritage List/Rārangi Kōrero or for which there is an application that is notified under section 67(4) or 68(4) of the Heritage New Zealand Pouhere Taonga Act 2014 | 0.4 hectares |
 
 ## Schedule 2 — Enactments amended
