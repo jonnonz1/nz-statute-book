@@ -1,5 +1,5 @@
 # Ngāti Awa Claims Settlement Act 2005
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 Kupu Whakataki
@@ -287,7 +287,7 @@ It is the intention of Parliament that the provisions in this Act are interprete
 ### 12 Interpretation
 In this Act, unless the context otherwise requires,—
   - **ancillary claims** and have the meanings set out in section 161
-  - **archaeological site** has the meaning given by section 2 of the Historic Places Act 1993
+  - **archaeological site** has the meaning given by section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, ANZAC Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in a year and ending with the close of 15 January in the following year; and
@@ -324,7 +324,7 @@ In this Act, unless the context otherwise requires,—
     (b) provides for Ngāti Awa's input into the processes of that Ministry in relation to the matters specified in that protocol; and
     (c) is in the form set out in schedule 5.22 of the Ngāti Awa deed of settlement
   - **fisheries protocol area** means the area shown on the map attached to the fisheries protocol, together with the adjacent waters
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued by section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **licensee** , in relation to a Crown forestry licence, means the holder of the licence
   - **local authority** has the meaning given by section 2(1) of the Resource Management Act 1991
   - **management plan** , in relation to a national park, has the same meaning as in section 2 of the National Parks Act 1980
@@ -479,16 +479,16 @@ In this Act, unless the context otherwise requires,—
     (i) Wai 411 (Tarawera Forests claim) filed with the Waitangi Tribunal on 14 June 1993 and amended on 26 April 2000:
     (ii) Wai 888 (Whakatāne Sawmill claim) filed with the Waitangi Tribunal on 1 February 2001:
     (iii) the ancillary claims:
-    (iv) any claim that a member of Ngāti Awa or a hapū, group, family, or whānau referred to in section 13(1)(b) had at, or at any time before, the settlement date, or may have at any time after the settlement date, that is, or is founded on, a right arising from being descended from an ancestor who is not a Ngāti Awa tipuna:
+    (iv) any claim that a member of Ngāti Awa or a hapū, group, family, or whānau referred to in section 13(1)﻿(b) had at, or at any time before, the settlement date, or may have at any time after the settlement date, that is, or is founded on, a right arising from being descended from an ancestor who is not a Ngāti Awa tipuna:
     (v) any claim based on descent from a recognised ancestor of Te Tawera to the extent that the claim is, or is founded on, a right arising from being descended from an ancestor other than Awanuiārangi II:
     (vi) any claim that a representative entity may have to the extent that the claim is, or is founded on, a claim referred to in subparagraph (iv).
 (2) In this Act,—
   - **representative entity** means—
     (a) the Ngāti Awa governance entity:
     (b) any person (including any trust or trustees) acting for, or on behalf of,—
-      (i) the iwi, or collective group, referred to in section 13(1)(a)(i):
-      (ii) any 1 or more of the individuals referred to in section 13(1)(a)(ii):
-      (iii) any 1 or more of the hapū, groups, families, or whānau referred to in section 13(1)(b).
+      (i) the iwi, or collective group, referred to in section 13(1)﻿(a)﻿(i):
+      (ii) any 1 or more of the individuals referred to in section 13(1)﻿(a)﻿(ii):
+      (iii) any 1 or more of the hapū, groups, families, or whānau referred to in section 13(1)﻿(b).
 
 ## Part 3 — Settlement of historical claims and miscellaneous matters
 
@@ -707,7 +707,7 @@ The vesting of each cultural redress property is subject to the encumbrances (if
 (2) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to—
   (a) the vesting in the Ngāti Awa governance entity of the fee simple estate in a cultural redress property under this subpart; or
   (b) a matter incidental to, or required for the purpose of, the vesting of the fee simple estate in a cultural redress property under this subpart.
-(3) Sections 78(1)(a) and 79 to 81 of the Reserves Act 1977 do not apply to the vesting in the Ngāti Awa governance entity of a cultural redress property under this subpart.
+(3) Sections 78(1)﻿(a) and 79 to 81 of the Reserves Act 1977 do not apply to the vesting in the Ngāti Awa governance entity of a cultural redress property under this subpart.
 (4) The vesting of the fee simple estate in a cultural redress property under this subpart does not—
   (a) limit sections 10 and 11 of the Crown Minerals Act 1991; or
   (b) affect private rights to subsurface minerals.
@@ -722,7 +722,7 @@ The Crown acknowledges the statements made by Ngāti Awa of the particular cultu
 
 ### 41 Purposes of statutory acknowledgements
 (1) The only purposes of the statutory acknowledgements are—
-  (a) to require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgements, as provided for in sections 42 to 44; and
+  (a) to require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgements, as provided for in sections 42 to 44; and
   (b) to require relevant consent authorities to forward summaries of resource consent applications to the Ngāti Awa governance entity, as provided for in section 46; and
   (c) to enable the Ngāti Awa governance entity and a member of Ngāti Awa to cite the statutory acknowledgements as evidence of the association of Ngāti Awa with the relevant statutory areas, as provided for in section 47; and
   (d) to provide a statement by Ngāti Awa, for inclusion in a deed of recognition, of the association of Ngāti Awa with a statutory area.
@@ -736,8 +736,10 @@ The Crown acknowledges the statements made by Ngāti Awa of the particular cultu
 (1) From the effective date, the Environment Court must have regard to a statutory acknowledgement in determining under section 274 of the Resource Management Act 1991 whether the Ngāti Awa governance entity is a person having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under Part 2 of the Resource Management Act 1991.
 
-### 44 Historic Places Trust and Environment Court to have regard to statutory acknowledgements
-From the effective date, the Historic Places Trust and the Environment Court must have regard to a statutory acknowledgement in forming an opinion under section 14(6)(a) or section 20(1) of the Historic Places Act 1993, as the case may be, as to whether the Ngāti Awa governance entity is a person directly affected in relation to an archaeological site within the statutory area.
+### 44 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
+If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the Ngāti Awa governance entity is a person directly affected by the decision.
 
 ### 45 Recording statutory acknowledgements on statutory plans
 (1) From the effective date, local authorities with jurisdiction in an area that includes a statutory area must attach information recording a statutory acknowledgement to all statutory plans that wholly or partly cover the statutory area.
@@ -763,11 +765,11 @@ From the effective date, the Historic Places Trust and the Environment Court mus
   (b) form an opinion as to whether the Ngāti Awa governance entity is a person that is likely to be adversely affected under those sections.
 
 ### 47 Use of statutory acknowledgement
-(1) The Ngāti Awa governance entity and a member of Ngāti Awa may, as evidence of the association of Ngāti Awa with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the statutory area.
+(1) The Ngāti Awa governance entity and a member of Ngāti Awa may, as evidence of the association of Ngāti Awa with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the statutory area.
 (2) The content of the statement of association, as recorded in the statutory acknowledgement, is not, by virtue of the statutory acknowledgement, binding as deemed fact on—
   (a) relevant consent authorities:
   (b) the Environment Court:
-  (c) the Historic Places Trust:
+  (c) Heritage New Zealand Pouhere Taonga:
   (d) parties to proceedings before those bodies:
   (e) any other person able to participate in those proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
@@ -823,7 +825,7 @@ Neither the provision of a statutory acknowledgement nor the entry into a deed o
 (1) Except as expressly provided in this subpart,—
   (a) neither a statutory acknowledgement nor a deed of recognition affects, or may be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
   (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw may give greater or lesser weight to the association of Ngāti Awa with a statutory area (as described in the relevant statutory acknowledgement) than that person would give under the relevant statute, regulation, or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 56 Rights not affected
 Except as expressly provided in this subpart, neither a statutory acknowledgement nor a deed of recognition affects the lawful rights or interests of a person who is not a party to the Ngāti Awa deed of settlement.
@@ -892,7 +894,7 @@ No act or proceeding of the joint advisory committee is invalid merely because o
 
 ### 67 Costs and expenses of committee
 (1) The Crown must pay the members of the joint advisory committee nominated by the Director-General, the actual and reasonable costs and expenses incurred by members of the committee acting in their capacity as members.
-(2) The Crown must meet the proportion of the administrative costs and expenses of the joint advisory committee that equates to the proportion of members nominated by the Director-General bears to the total number of members of the committee.
+(2) The Crown must meet the proportion of the administrative costs and expenses of the joint advisory committee that equates to the proportion of members nominated by the Director-General to the total number of members of the committee.
 (3) The Ngāti Awa governance entity must meet the costs as set out in clause 5.3.6 of the Ngāti Awa deed of settlement.
 
 **Change in ownership of retained sites**
@@ -1217,7 +1219,7 @@ In this subpart, unless the context otherwise requires,—
 (1) The authorisations that the Ngāti Awa governance entity has a preferential right to purchase under section 118 must—
   (a) not exceed in area 5% of the authorisations granted or proposed to be granted by the Minister in the public tender for the specified coastal marine area; and
   (b) be of not less than fair average quality in terms of the relevant portion of the specified coastal marine area, relative to the quality of those portions for all other authorisations that are granted in that public tender.
-(2) The limit specified in subsection (1)(a) may be exceeded if the size and shape of the part of the specified coastal marine area for the authorisations to which that tender round relates make it impractical to comply with the limitation.
+(2) The limit specified in subsection (1)﻿(a) may be exceeded if the size and shape of the part of the specified coastal marine area for the authorisations to which that tender round relates make it impractical to comply with the limitation.
 
 ### 120 Ngāti Awa governance entity treated as having made tender
 (1) If the Ngāti Awa governance entity has a preferential right under section 118 to purchase authorisations, the Ngāti Awa governance entity must be treated as having lodged a valid tender for the authorisations, for $1 consideration, in compliance with section 158 of the Resource Management Act 1991.
@@ -1247,11 +1249,11 @@ In this subpart, unless the context otherwise requires,—
 (1) This section applies if the Minister—
   (a) considers that all or any part of the Whakatāne Airport land is not required for aerodrome purposes; and
   (b) exercises his or her powers under section 24 of the Reserves Act 1977 to revoke the reservation of the Whakatāne Airport land (or part of it) as a reserve by notice in the Gazette.
-(2) For the purposes of subsection (1)(a), the Minister may consider that any part of the Whakatāne Airport land is still required for aerodrome purposes even if it is being put to another use if—
+(2) For the purposes of subsection (1)﻿(a), the Minister may consider that any part of the Whakatāne Airport land is still required for aerodrome purposes even if it is being put to another use if—
   (a) the use is lawful; and
   (b) some other part of the land is being used for aerodrome purposes.
 (3) The Minister must not give notice in the Gazette revoking the reservation of the Whakatāne Airport land (or part of it) as a reserve until the expiry of 1 month after notice has been given under section 127.
-(4) On revocation of the reserve status under subsection (1)(b), that part of the Whakatāne Airport land vests in the Ngāti Awa governance entity.
+(4) On revocation of the reserve status under subsection (1)﻿(b), that part of the Whakatāne Airport land vests in the Ngāti Awa governance entity.
 
 ### 126 Matters relating to vesting under section 125
 (1) Except as provided in section 125, that section does not—
@@ -1267,7 +1269,7 @@ In this subpart, unless the context otherwise requires,—
 (3) The persons are—
   (a) the Ngāti Awa governance entity; and
   (b) every person who would be entitled to enforce the restriction, encumbrance, lien, or interest if it were valid.
-(4) If it is impracticable to give notice to every person under subsection (3)(b), that subsection may be complied with by publishing a notice in a daily newspaper circulating in the district of the Whakatāne District Council in relation to the matter.
+(4) If it is impracticable to give notice to every person under subsection (3)﻿(b), that subsection may be complied with by publishing a notice in a daily newspaper circulating in the district of the Whakatāne District Council in relation to the matter.
 
 ### 128 No change in classification or purpose
 Despite sections 24 and 24A of the Reserves Act 1977, neither the Minister nor the local authority in which the Whakatāne Airport land is vested as a reserve for aerodrome purposes may change the classification or purpose of the whole or any part of the land.
@@ -1368,7 +1370,7 @@ In this subpart,—
       (iii) Part Section 30 Block III Rotoma Survey District and shown as Otamarakau 3C on ML 22160; and
       (iv) Part Section 31 Block III Rotoma Survey District and shown as Otamarakau 3D on ML 22161; and
     (b) any area of land situated within the redress licensed land that—
-      (i) becomes a registered place within the meaning of the Historic Places Act 1993; and
+      (i) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero (as defined in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014); and
       (ii) is wahi tapu or a wahi tapu area within the meaning of that Act
   - **redress licensed land** —
     (a) has the meaning given by clause 8.1 of the Ngāti Awa deed of settlement and is shown on SO 61738 South Auckland Land District as—
@@ -1385,15 +1387,15 @@ In this subpart,—
 (1) The Ngāti Awa governance entity is, in relation to the redress licensed land,—
   (a) the confirmed beneficiary under clause 11.1 of the Crown forestry rental trust deed; and
   (b) the representative referred to in clause 11.5(c) of that deed.
-(2) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of the redress licensed land as if that section applies to the redress licensed land, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land.
-(3) Notice given by the Crown under subsection (2) has effect as if the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land and that recommendation had become final on the settlement date.
+(2) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of the redress licensed land as if that section applies to the redress licensed land, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land.
+(3) Notice given by the Crown under subsection (2) has effect as if the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land and that recommendation had become final on the settlement date.
 (4) In this section, Crown forestry rental trust deed means the trust deed made on 30 April 1990 establishing the Crown forestry rental trust under section 34 of the Crown Forest Assets Act 1989.
 
 ### 142 Effect of Crown forestry licences on redress licensed land
-(1) The Ngāti Awa governance entity is the licensor under any Crown forestry licences in relation to the redress licensed land as if that land had been returned to Māori ownership under section 36 of the Crown Forests Assets Act 1989.
+(1) The Ngāti Awa governance entity is the licensor under any Crown forestry licences in relation to the redress licensed land as if that land had been returned to Māori ownership under section 36 of the Crown Forest Assets Act 1989.
 (2) To the extent that the Crown has not completed the process described in clause 17.4 of the Crown forestry licences in relation to the redress licensed land before the settlement date, it must continue the process after the settlement date until its completion.
 (3) For the period from the settlement date until the completion by the Crown of the process referred to in subsection (2), the licence fee payable under the Crown forestry licence in respect of the redress licensed land is the amount described in clause 8.4.3(a) of the Ngāti Awa deed of settlement.
-(4) To avoid doubt, section 36(1)(b) of the Crown Forests Assets Act 1989 does not apply to the redress licensed land.
+(4) To avoid doubt, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 does not apply to the redress licensed land.
 
 **Right of access over redress licensed land**
 
@@ -1440,7 +1442,7 @@ In this subpart, unless the context otherwise requires,—
 (1) If the Ngāti Awa governance entity seeks to transfer its interest in the fee simple estate of the Ngāti Awa land to another person, it must—
   (a) include in the transfer document a written statement regarding the operation of section 147(1) in respect of the transfer; and
   (b) notify the Registrar-General of his or her obligations under this section relating to the transfer.
-(2) The Registrar-General must, on receiving notification under subsection (1)(b), note on the computer freehold registers for the transferred land a statement that the land is subject to the right of access referred to in section 147(1).
+(2) The Registrar-General must, on receiving notification under subsection (1)﻿(b), note on the computer freehold registers for the transferred land a statement that the land is subject to the right of access referred to in section 147(1).
 (3) However, if all the owners of the Kaingaroa Forest land agree in writing that a notation under subsection (2) is not required,—
   (a) the Ngāti Awa governance entity may include a written statement certified by a solicitor of the High Court to that effect with the transfer document relating to the transfer; and
   (b) the Registrar-General may rely on that statement as conclusive proof that all of the owners of the Kaingaroa Forest land agree that the notation is not required and register the transfer without making the notation.
@@ -1451,7 +1453,7 @@ In this subpart, unless the context otherwise requires,—
   (a) may be made only if all of the owners of the Kaingaroa Forest land agree in writing that the notation is no longer required; and
   (b) the application is certified to that effect by a solicitor of the High Court.
 (3) On receipt of the application referred to in subsection (1), the Registrar-General must remove the notation from the computer freehold registers concerned.
-(4) The Registrar-General is entitled to rely on the certified application referred to in subsection (2)(b) as conclusive proof that all of the owners of the Kaingaroa Forest land agree that the notation is no longer required.
+(4) The Registrar-General is entitled to rely on the certified application referred to in subsection (2)﻿(b) as conclusive proof that all of the owners of the Kaingaroa Forest land agree that the notation is no longer required.
 
 ### 150 Application of section 147
 Section 147 ceases to apply if the Registrar-General—
@@ -1474,17 +1476,17 @@ Section 147 ceases to apply if the Registrar-General—
 (7) In this section and section 153,—
   - **existing leases** means the leases described in attachment 8.4 of the Ngāti Awa deed of settlement as amended by the memorandum of variation described in that attachment
   - **Ōhope Beach Holiday Park land** means Site A and Site B
-  - **Site A** means 3.1565 hectares, more or less, being Allotment 548 Waimana Parish, All Gazette Notice B.095864, South Auckland Land District
+  - **Site A** means 3.1565 hectares, more or less, being Allotment 548 Waimana Parish, All Gazette Notice B﻿.﻿095864, South Auckland Land District
   - **Site B** means 3.3922 hectares, more or less, being Section 1 SO 331004, Part Gazette 1977, page 3261, South Auckland Land District.
 
 ### 153 Modifications to Conservation Act 1987 in respect of Site A
-Section 64(2)(b) of the Conservation Act 1987 continues to apply to Site A and the existing lease of Site A as if—
+Section 64(2)﻿(b) of the Conservation Act 1987 continues to apply to Site A and the existing lease of Site A as if—
   (a) the reference to the Director-General were a reference to the lessor under the existing lease; and
   (b) the provisions of the Land Act 1948 specified in section 64(3) of the Conservation Act 1987 were sections 130 to 151 (except section 143(1)) and sections 170 to 170B; and
   (c) the reference to the Crown or Her Majesty in sections 136(4), 139(1), and 146(3) of the Land Act 1948 were a reference to the lessor under the existing lease; and
   (d) the words , with the approval of the Minister, were omitted from section 146(1) of the Land Act 1948.
 
-## Part 6 — Awanuiarāngi II title
+## Part 6 — Awanuiārangi II title
 
 ### 154 Interpretation
 In this Part, unless the context otherwise requires,—
@@ -1493,30 +1495,30 @@ In this Part, unless the context otherwise requires,—
     (a) means each cultural redress property, each commercial redress property, and the Ōhope Beach Holiday Park land; and
     (b) includes the Whakatāne Airport land if vested in the Ngāti Awa governance entity under section 125(4).
 
-### 155 Registration of land in name of Awanuiarāngi II
+### 155 Registration of land in name of Awanuiārangi II
 (1) Despite anything in the Land Transfer Act 1952 or any other enactment or rule of law, the Ngāti Awa governance entity may direct the Registrar-General in writing that the fee simple estate of any land that is registrable or registered under that Act in the name of the Ngāti Awa governance entity—
   (a) be registered in the name of Awanuiārangi II, rather than in the name of the Ngāti Awa governance entity; or
   (b) be no longer registered in the name of Awanuiārangi II and instead be registered in the name of the Ngāti Awa governance entity.
 (2) The Registrar-General must give effect to a direction received—
-  (a) under subsection (1)(a), by—
+  (a) under subsection (1)﻿(a), by—
     (i) registering the title to the land in the name of Awanuiārangi II; and
     (ii) entering a notation on the title to the land that the land is subject to this Part:
-  (b) under subsection (1)(b), by—
+  (b) under subsection (1)﻿(b), by—
     (i) registering the title to the land in the name of the Ngāti Awa governance entity; and
-    (ii) cancelling the notation entered under paragraph (a)(ii); and
-    (iii) cancelling the notation entered under section 157(3)(a).
+    (ii) cancelling the notation entered under paragraph (a)﻿(ii); and
+    (iii) cancelling the notation entered under section 157(3)﻿(a).
 
 ### 156 Rights, powers, and duties of Ngāti Awa governance entity if land registered in name of Awanuiārangi II
 If the fee simple estate of any land is registered in the name of Awanuiārangi II under section 155,—
   (a) the Ngāti Awa governance entity—
-    (i) has all the rights, duties, and powers of the registered proprietor of the land (except that the land must continue to be registered in that name unless a direction is given under section 155(1)(b)); and
+    (i) has all the rights, duties, and powers of the registered proprietor of the land (except that the land must continue to be registered in that name unless a direction is given under section 155(1)﻿(b)); and
     (ii) must exercise and perform the rights, duties, and powers in its own name and not in the name of Awanuiārangi II; and
   (b) the Registrar-General must have regard to paragraph (a).
 
 **Protected land**
 
 ### 157 Direction that land be noted as protected land
-(1) A direction made by the Ngāti Awa governance entity under section 155(1)(a) in relation to land that is a settlement property may include a direction that the land is protected land for the purposes of this Part.
+(1) A direction made by the Ngāti Awa governance entity under section 155(1)﻿(a) in relation to land that is a settlement property may include a direction that the land is protected land for the purposes of this Part.
 (2) The Ngāti Awa governance entity may direct the Registrar-General in writing that any settlement property that is protected land no longer be protected land.
 (3) The Registrar-General must give effect to the direction—
   (a) under subsection (1), by entering on the title to the settlement property a notation that the property is protected land:
@@ -1534,9 +1536,9 @@ In the absence of evidence to the contrary, it is sufficient evidence that the d
 
 ### 159 Application of other enactments to protected land
 (1) Sections 297 to 304 of Te Ture Whenua Maori Act 1993 apply to the protected land as if the land were Maori freehold land.
-(2) Protected land must be treated as Maori freehold land for the purposes of sections 18(1)(c) and (d), 19(1)(a), 20, 24, 26, and 194 of Te Ture Whenua Maori Act 1993.
+(2) Protected land must be treated as Maori freehold land for the purposes of sections 18(1)﻿(c) and (d), 19(1)﻿(a), 20, 24, 26, and 194 of Te Ture Whenua Maori Act 1993.
 (3) Section 342 of Te Ture Whenua Maori Act 1993 applies to the protected land as if the interest of the Ngāti Awa governance entity in the land were a beneficial interest in Maori freehold land.
-(4) Section 108(9) of the Resource Management Act 1991 applies to the protected land as if it were Māori land within the meaning of the Te Ture Whenua Maori Act 1993.
+(4) Section 108(9) of the Resource Management Act 1991 applies to the protected land as if it were Māori land within the meaning of Te Ture Whenua Maori Act 1993.
 (5) The provisions of the Local Government (Rating) Act 2002 apply to the protected land as if it were Māori freehold land.
 (6) Protected land may not be acquired or taken under the Public Works Act 1981 without the consent of the Minister of Māori Affairs.
 
@@ -1613,13 +1615,13 @@ In this Part, unless the context otherwise requires,—
     (a) means—
       (i) the descendants of Wiremu Te Whatapapa or Rōha Petera; and
       (ii) the collective group composed of the individuals referred to in subparagraph (i); and
-    (b) includes any whānau, hapū, or group to the extent that the whānau, hapū, or group includes persons referred to in paragraph (a)(i)
+    (b) includes any whānau, hapū, or group to the extent that the whānau, hapū, or group includes persons referred to in paragraph (a)﻿(i)
   - **Rangitaiki 60C claimants** —
     (a) means—
       (i) the owners of any part of Rangitaiki 60C between 14 June 1960 and 9 August 1986; and, to avoid doubt, includes any individual who purchased or otherwise acquired, or sold or otherwise disposed of, an ownership interest in Rangitaiki 60C during that period; and
       (ii) the descendants of the individuals referred to in subparagraph (i); and
       (iii) the collective group composed of the individuals referred to in subparagraphs (i) and (ii); and
-    (b) includes any whānau, hapū, or group to the extent that the whānau, hapū, or group includes persons referred to in paragraph (a)(i) or (ii)
+    (b) includes any whānau, hapū, or group to the extent that the whānau, hapū, or group includes persons referred to in paragraph (a)﻿(i) or (ii)
   - **Waiohau claimants** —
     (a) means—
       (i) the descendants of—
@@ -1634,7 +1636,7 @@ In this Part, unless the context otherwise requires,—
         (I) Te Kari Waaka:
         (J) Whakaki Waaka; and
       (ii) the collective group composed of the individuals referred to in subparagraph (i); and
-    (b) includes any whānau, hapū, or group to the extent that the whānau, hapū, or group includes persons referred to in paragraph (a)(i).
+    (b) includes any whānau, hapū, or group to the extent that the whānau, hapū, or group includes persons referred to in paragraph (a)﻿(i).
 (2) For the purposes of the definitions of Pukaahu claimants, Rangitaiki 60C claimants, and Waiohau claimants, a person is descended from another person if the person is descended from the other person by—
   (a) birth; or
   (b) legal adoption; or
@@ -1651,7 +1653,7 @@ In this Part, unless the context otherwise requires,—
   (b) the Pukaahu governance entity must be treated as having been constituted in respect of Pukaahu under section 214(1) of Te Ture Whenua Maori Act 1993 in addition to any other land in respect of which the Pukaahu governance entity was constituted; and
   (c) Pukaahu must be treated as having the status of Maori freehold land under Te Ture Whenua Maori Act 1993; and
   (d) any reference in the lease referred to in paragraph (a) to the Minister or Council must be read as a reference to the lessor under the lease.
-(5) Despite subsection (4)(b) and (c), the lease referred to in subsection (4)(a) continues to be enforceable in accordance with its terms.
+(5) Despite subsection (4)﻿(b) and (c), the lease referred to in subsection (4)﻿(a) continues to be enforceable in accordance with its terms.
 
 ### 165 Vesting of Rangitaiki 60C settlement land
 The fee simple estate in the Rangitaiki 60C settlement land vests in the Rangitaiki 60C governance entity subject to the drainage easement and the natural gas pipeline easements specified in Schedule 16 and on the terms and conditions set out in Schedules 2 and 3 of the Rangitaiki 60C deed of settlement.
@@ -1662,7 +1664,7 @@ The fee simple estate in the Waiohau settlement land vests in the Waiohau govern
 ### 167 Registration of ownership: Pukaahu
 The Registrar-General must, on written application by any person authorised by the Director-General,—
   (a) register the Pukaahu governance entity as the proprietor of the fee simple estate in Pukaahu as if—
-    (i) the Pukaahu governance entity has given a direction, in compliance with sections 220A(2)(a) and 220A(4) of Te Ture Whenua Maori Act 1993, that Pukaahu be registered in the name of the Pukaahu governance entity as the trust applying to that land; and
+    (i) the Pukaahu governance entity has given a direction, in compliance with sections 220A(2)﻿(a) and 220A(4) of Te Ture Whenua Maori Act 1993, that Pukaahu be registered in the name of the Pukaahu governance entity as the trust applying to that land; and
     (ii) the Registrar-General has received, in compliance with section 220A(3) of Te Ture Whenua Maori Act 1993,—
       (A) a copy of the direction under subparagraph (i) from the Registrar of the Maori Land Court; and
       (B) a certificate of the Registrar of the Maori Land Court confirming the direction under subparagraph (i); and
@@ -1688,24 +1690,24 @@ The Registrar-General must, on written application by any person authorised by t
 (3) The vesting of the fee simple estate in land under any of sections 164, 165, or 166 does not—
   (a) limit sections 10 and 11 of the Crown Minerals Act 1991; or
   (b) affect any other rights to subsurface minerals.
-(4) The vesting of the fee simple estate in land under any of sections 164(4)(a), 165, or 166 is a disposition for the purpose of Part 4A of the Conservation Act 1987, but sections 24(2A), 24A, and 24AA of that Act do not apply to the disposition.
+(4) The vesting of the fee simple estate in land under any of sections 164(4)﻿(a), 165, or 166 is a disposition for the purpose of Part 4A of the Conservation Act 1987, but sections 24(2A), 24A, and 24AA of that Act do not apply to the disposition.
 
 **Termination of Pukaahu governance entity**
 
 ### 170 Termination of Pukaahu governance entity
-If the Pukaahu governance entity is terminated, section 241(2)(b) of Te Ture Whenua Maori Act 1993 does not apply to the termination.
+If the Pukaahu governance entity is terminated, section 241(2)﻿(b) of Te Ture Whenua Maori Act 1993 does not apply to the termination.
 
 ## Schedule 1 — Cultural redress properties
 
 | Property | Land description | Encumbrances |
 | --- | --- | --- |
-| Kāpūterangi | South Auckland Land District— Whakatāne District4.9321 hectares, more or less, being Allotment 538 Waimana Parish. All Gazette Notice S.441997 | Subject to Kohi Point Walkway, a walkway under the New Zealand Walkways Act 1990 referred to in section 28 |
-| Te Paripari Pā | South Auckland Land District— Whakatāne District1.0451 hectares, more or less, being Lot 2 DP 23964. All Gazette Notice S.547411 |  |
-| Otitapu Pā | South Auckland Land District— Whakatāne District6.7839 hectares, more or less, being Section 1 SO 329118. Part Gazette Notice S.264764 | Subject to the protected private land agreement referred to in section 31(2) |
-| Te Toangapoto | South Auckland Land District— Whakatāne District10.0000 hectares, more or less, being Section 1 SO 331003. Part Gazette Notice H.024770 |  |
-| Te Ihukatia | South Auckland Land District— Whakatāne District10.0000 hectares, more or less, being Section 1 SO 331006. Part Gazette Notice H.045762 and Part Gazette Notice H.163890 |  |
-| Whakapaukorero | South Auckland Land District— Whakatāne District33.0500 hectares, more or less, being Section 3 SO 329119. Part Gazette Notice H.011708, Part Gazette Notice S.554446 and Part Computer Freehold Register SA10A/600 |  |
-| Former Matahina A4 Block | South Auckland Land District— Whakatāne District4045 square metres, more or less, being Section 2 SO 60978. All Computer Freehold Register SA65B/912 (stratum title) | Subject to a right to operate for Water Power Development Purposes. Created by Transfer B.499075.10 |
+| Kāpūterangi | South Auckland Land District— Whakatāne District4.9321 hectares, more or less, being Allotment 538 Waimana Parish. All Gazette Notice S﻿.﻿441997 | Subject to Kohi Point Walkway, a walkway under the New Zealand Walkways Act 1990 referred to in section 28 |
+| Te Paripari Pā | South Auckland Land District— Whakatāne District1.0451 hectares, more or less, being Lot 2 DP 23964. All Gazette Notice S﻿.﻿547411 |  |
+| Otitapu Pā | South Auckland Land District— Whakatāne District6.7839 hectares, more or less, being Section 1 SO 329118. Part Gazette Notice S﻿.﻿264764 | Subject to the protected private land agreement referred to in section 31(2) |
+| Te Toangapoto | South Auckland Land District— Whakatāne District10.0000 hectares, more or less, being Section 1 SO 331003. Part Gazette Notice H﻿.﻿024770 |  |
+| Te Ihukatia | South Auckland Land District— Whakatāne District10.0000 hectares, more or less, being Section 1 SO 331006. Part Gazette Notice H﻿.﻿045762 and Part Gazette Notice H﻿.﻿163890 |  |
+| Whakapaukorero | South Auckland Land District— Whakatāne District33.0500 hectares, more or less, being Section 3 SO 329119. Part Gazette Notice H﻿.﻿011708, Part Gazette Notice S﻿.﻿554446 and Part Computer Freehold Register SA10A/600 |  |
+| Former Matahina A4 Block | South Auckland Land District— Whakatāne District4045 square metres, more or less, being Section 2 SO 60978. All Computer Freehold Register SA65B/912 (stratum title) | Subject to a right to operate for Water Power Development Purposes. Created by Transfer B﻿.﻿499075.10 |
 |  | The land in this Computer Freehold Register applies to the surface and airspace above the reduced level of 79.48 metres (Moturiki EDS datum) |  |
 
 ## Schedule 2 — Nohoanga sites
@@ -1779,12 +1781,12 @@ If the Pukaahu governance entity is terminated, section 241(2)(b) of Te Ture Whe
 
 | Land | Description | Encumbrances |
 | --- | --- | --- |
-| Pukaahu | South Auckland Land District—Whakatāne District | Subject to lease H170889 referred to in section 164(4)(a) |
+| Pukaahu | South Auckland Land District—Whakatāne District | Subject to lease H170889 referred to in section 164(4)﻿(a) |
 |  | 10.3035 hectares, more or less, being Part Allotment 171 and Allotment 172 Parish of Rangitaiki. Balance Computer Freehold Register SA1068/200 |  |
 |  | 4.4465 hectares, more or less, being Allotment 173 Parish of Rangitaiki. All Computer Freehold Register SA1068/199 |  |
 |  | 8436 square metres, more or less, being Part Allotment 174 Parish of Rangitaiki. Balance Computer Freehold Register SA1216/23 |  |
 | Rangitaiki 60C settlement land | South Auckland Land District—Whakatāne District |  |
 |  | 23.3667 hectares, more or less, being Section 1 SO 342394. Part Proclamation 193727 | Subject to the drainage easement shown marked A on SO 342394, and the natural gas pipeline easement shown marked B on SO 342394. As referred to in section 165 |
-|  | 16.1806 hectares, more or less, being Section 2 SO 342394. Part Proclamation S.416063 and Part Proclamation 193727 | Subject to the natural gas pipeline easement shown marked C on SO 342394. As referred to in section 165 |
+|  | 16.1806 hectares, more or less, being Section 2 SO 342394. Part Proclamation S﻿.﻿416063 and Part Proclamation 193727 | Subject to the natural gas pipeline easement shown marked C on SO 342394. As referred to in section 165 |
 | Waiohau settlement land | South Auckland Land District—Whakatāne District |  |
-|  | 20.0648 hectares, more or less, being Section 1 SO 41434. All Proclamation S.241231 |  |
+|  | 20.0648 hectares, more or less, being Section 1 SO 41434. All Proclamation S﻿.﻿241231 |  |
