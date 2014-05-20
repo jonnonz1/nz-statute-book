@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2014-05-20_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -549,7 +549,7 @@ In achieving the purpose of this Act, all persons exercising functions and power
   (c) effected by the establishment, change, or cancellation of a reserve under section 338 of Te Ture Whenua Maori Act 1993; or
   (ca) effected by a transfer under section 23 of the State-Owned Enterprises Act 1986 or a resumption under section 27D of that Act; or
   (cb) effected by any vesting in or transfer or gift of any land to the Crown or any local authority or administering body (as defined in section 2 of the Reserves Act 1977) for the purposes (other than administrative purposes) of the Conservation Act 1987 or any other Act specified in Schedule 1 of that Act; or
-  (cc) effected by transfer or gift of any land to the New Zealand Historic Places Trust or the Queen Elizabeth the Second National Trust for the purposes of the Historic Places Act 1993 or the Queen Elizabeth the Second National Trust Act 1977; or
+  (cc) effected by transfer or gift of any land to Heritage New Zealand Pouhere Taonga or the Queen Elizabeth the Second National Trust for the purposes of the Heritage New Zealand Pouhere Taonga Act 2014 or the Queen Elizabeth the Second National Trust Act 1977; or
   (d) effected by any transfer, exchange, or other disposition of land made by an order under subpart 3 of Part 6 of the Property Law Act 2007 (which relates to the granting of access to landlocked land).
 (2) Subsection (1) does not apply in respect of Maori land within the meaning of Te Ture Whenua Maori Act 1993 unless that Act otherwise provides.
 
@@ -1842,7 +1842,7 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
   (a) any—to the extent that their content has a bearing on resource management issues of the region; and
     (i) management plans and strategies prepared under other Acts; and
     (ii)
-    (iia) relevant entry in the Historic Places Register; and
+    (iia) relevant entry on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014; and
     (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing); and
     (iv)
   (b) the extent to which the regional policy statement needs to be consistent with the policy statements and plans of adjacent regional councils; and
@@ -1942,7 +1942,7 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
   (c) any—to the extent that their content has a bearing on resource management issues of the region; and
     (i) management plans and strategies prepared under other Acts; and
     (ii)
-    (iia) relevant entry in the Historic Places Register; and
+    (iia) relevant entry on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014; and
     (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing); and
     (iv)
   (d) the extent to which the regional plan needs to be consistent with the regional policy statements and plans, or proposed regional policy statements and proposed plans, of adjacent regional councils; and
@@ -2094,7 +2094,7 @@ The purpose of the preparation, implementation, and administration of district p
   (b) any—to the extent that their content has a bearing on resource management issues of the district; and
     (i) management plans and strategies prepared under other Acts; and
     (ii)
-    (iia) relevant entry in the Historic Places Register; and
+    (iia) relevant entry on the New Zealand Heritage List/Rārangi Kōrero required by the Heritage New Zealand Pouhere Taonga Act 2014; and
     (iii) regulations relating to ensuring sustainability, or the conservation, management, or sustainability of fisheries resources (including regulations or bylaws relating to taiapure, mahinga mataitai, or other non-commercial Maori customary fishing),—
   (c) the extent to which the district plan needs to be consistent with the plans or proposed plans of adjacent territorial authorities.
 (2A) A territorial authority, when preparing or changing a district plan, must take into account any relevant planning document recognised by an iwi authority and lodged with the territorial authority, to the extent that its content has a bearing on the resource management issues of the district.
@@ -2445,7 +2445,7 @@ In this Act, the term resource consent means any of the following:
   (c) a rule in a proposed plan describes the activity as a prohibited activity and the rule has not become operative.
 (2) Prospecting, exploring, or mining for Crown owned minerals in the internal waters (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) of the Coromandel Peninsula must be treated as a prohibited activity.
 (3) Subsection (2) does not apply to prospecting, exploring, or mining activities set out in section 61(1A) of the Crown Minerals Act 1991.
-(4) An activity prohibited by section 105(2)(b) of the Historic Places Act 1993 must be treated as a prohibited activity.
+(4)
 
 **Streamlining decision-making on resource consents**
 
@@ -5640,7 +5640,7 @@ In this Act—
       (i) the Minister of Conservation acting either on his or her own motion or on the recommendation of the New Zealand Conservation Authority, a local conservation board, the New Zealand Fish and Game Council, or a Fish and Game Council; and
       (ii) the Minister of Maori Affairs acting either on his or her own motion or on the recommendation of an iwi authority:
     (b) a local authority acting either on its own motion or on the recommendation of an iwi authority:
-    (c) the New Zealand Historic Places Trust in so far as it exercises its functions under the Historic Places Act 1993:
+    (c) Heritage New Zealand Pouhere Taonga, in so far as it carries out its functions under section 13(1)(i) of the Heritage New Zealand Pouhere Taonga Act 2014:
     (d) a body corporate that is approved as a heritage protection authority under section 188.
 
 ### 188 Application to become heritage protection authority
