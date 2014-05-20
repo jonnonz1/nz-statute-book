@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 > An Act—ato establish a system for reviewing the tenure of Crown land held under certain perpetually renewable leases; andbto establish a system for determining how Crown land formerly held under pastoral occupation licence, and certain other Crown land, should be dealt with; andcotherwise to provide for the administration of Crown pastoral land
 
@@ -20,7 +20,7 @@ Unless the context requires otherwise, in this Act,—
   - **concession** means—
     (a) concession granted directly under Part 3B of the Conservation Act 1987; or
     (b) concession granted under Part 3B of the Conservation Act 1987 by virtue of section 59A of the Reserves Act 1977; or
-    (c) lease under section 73 of the Reserves Act 1977 granted, by virtue of subsection (3A)(b) of that section, under Part 3B of the Conservation Act 1987
+    (c) lease under section 73 of the Reserves Act 1977 granted, by virtue of subsection (3A)﻿(b) of that section, under Part 3B of the Conservation Act 1987
   - **concession designation** means an element of a substantive proposal—
     (a) designating any land as land to be restored to or retained in Crown control as conservation area or reserve, subject to the granting of a concession; or
     (b) designating any conservation area or reserve as land to remain conservation area or reserve subject to the granting of a concession
@@ -32,7 +32,7 @@ Unless the context requires otherwise, in this Act,—
   - **current carrying capacity** , in relation to a pastoral lease, means the current carrying capacity of land as assessed or determined under Part 1A and under any regulations or rules made under Part 1A and that is expressed in stock units
   - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **ecosystem** means a system of interacting living organisms and their environment
-  - **expert determiner** means a person appointed as an expert determiner under section 23F(1)(a)(i)
+  - **expert determiner** means a person appointed as an expert determiner under section 23F(1)﻿(a)﻿(i)
   - **grazing permit** means permit under section 68A of the Land Act 1948
   - **historic place** —
     (a) means—that forms part of the historical and cultural heritage of New Zealand; and
@@ -52,7 +52,7 @@ Unless the context requires otherwise, in this Act,—
     (b) a cultural, historical, recreational, or scientific attribute or characteristic of a historic place on or forming part of the land
   - **land** means land that is subject to a pastoral lease
   - **the land** , in relation to a reviewable instrument, means all land held under it
-  - **lessee's assessor** means an assessor appointed by the lessee under section 23F(1)(b)
+  - **lessee's assessor** means an assessor appointed by the lessee under section 23F(1)﻿(b)
   - **marginal strip** means any strip of land reserved or deemed to be reserved under section 24 or section 24E(3) or section 24G of the Conservation Act 1987 for the purposes specified in section 24C of that Act; and includes part of a marginal strip
   - **Minister** means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **natural resources** means—and has a corresponding meaning
@@ -69,7 +69,7 @@ Unless the context requires otherwise, in this Act,—
   - **proposed facility** , in relation to a proposed concession, means structure or facility proposed for or in relation to the concession
   - **protective mechanism** means—
     (a) easement under section 12 of the Reserves Act 1977, section 7(2) of the Conservation Act 1987, or sections 26 to 29 of the Walking Access Act 2008; or
-    (b) covenant under section 22 of the Queen Elizabeth the Second National Trust Act 1977, section 77 of the Reserves Act 1977, section 27 of the Conservation Act 1987, or section 6 of the Historic Places Act 1993; or
+    (b) covenant under section 22 of the Queen Elizabeth the Second National Trust Act 1977, section 77 of the Reserves Act 1977, section 27 of the Conservation Act 1987, or section 39 of the Heritage New Zealand Pouhere Taonga Act 2014; or
     (c) sustainable management covenant
   - **renewable lease** means renewable lease as defined in—
     (a) section 63 of the Land Act 1948; or
@@ -95,7 +95,7 @@ Unless the context requires otherwise, in this Act,—
   - **stock limitation** means—
     (a) restriction under section 66(2) of the Land Act 1948 subject to which a pastoral lease was granted before 30 November 1979; or
     (b) restriction under section 66(3) of the Land Act 1948 subject to which a pastoral lease was granted after 29 November 1979
-  - **stock unit** means the standard stock unit for the purposes of Part 1A defined by the Valuer-General under section 23O(1)(a)(iii)
+  - **stock unit** means the standard stock unit for the purposes of Part 1A defined by the Valuer-General under section 23O(1)﻿(a)﻿(iii)
   - **sustainable management covenant** means a covenant reserved under section 97(1)
   - **undertake** includes cause to be undertaken
   - **unrenewable occupation licence** means occupation licence that is—
@@ -258,10 +258,10 @@ An occupation licence gives the holder the exclusive right of pasturage over the
   (c) declare the instrument forfeit to Her Majesty, and order the holder to pay to the Commissioner an amount being, as seems appropriate to the court,—
     (i) the lower of $50,000 and the likely costs to the Crown of remedying the breach; or
     (ii) exemplary damages (not exceeding $50,000) for the breach.
-(3) The District Court must not make an order under subsection (2)(c) unless satisfied that every person with an interest in the land concerned at the time the application under subsection (1) was made—
+(3) The District Court must not make an order under subsection (2)﻿(c) unless satisfied that every person with an interest in the land concerned at the time the application under subsection (1) was made—
   (a) has been given notice of the application; and
   (b) has an adequate opportunity to appear and be heard in relation to it.
-(4) Sections 244 to 257 of the Property Law Act 2007 is not available in respect of a forfeiture under subsection (2)(c) of this section.
+(4) Sections 244 to 257 of the Property Law Act 2007 are not available in respect of a forfeiture under subsection (2)﻿(c) of this section.
 (5) Section 105 of the Land Act 1948 does not apply to a breach of a reviewable instrument committed after the commencement of this Act.
 (6) In this section, breach, in relation to a reviewable instrument, means an action (or failure or refusal to act) by the holder that is—
   (a) in contravention of section 100 of the Land Act 1948 or section 15(1) or section 16(1) of this Act, in its application to the land; or
@@ -376,14 +376,14 @@ If the lessee accepts, or fails to respond to, an initial assessment under secti
 (2) If the expert determiner provides guidance or assistance after the conclusion of the meeting referred to in section 23F(3)—
   (a) to the lessee's assessor, the expert determiner must provide the Crown assessor with a written summary of the guidance or assistance:
   (b) to the Crown assessor, the expert determiner must provide the lessee's assessor with a written summary of the guidance or assistance.
-(3) The information required to be given by a Crown assessor under subsection (1)(c) or by a lessee's assessor under subsection (1)(d) need not be in writing or, if in writing, need not be in any particular form.
-(4) Despite subsection (3), the information required to be given by a Crown assessor under subsection (1)(c) and by a lessee's assessor under subsection (1)(d) must be provided in writing in accordance with any regulations or rules made under this Part by the date that is 5 working days after the meeting referred to in section 23F(3).
+(3) The information required to be given by a Crown assessor under subsection (1)﻿(c) or by a lessee's assessor under subsection (1)﻿(d) need not be in writing or, if in writing, need not be in any particular form.
+(4) Despite subsection (3), the information required to be given by a Crown assessor under subsection (1)﻿(c) and by a lessee's assessor under subsection (1)﻿(d) must be provided in writing in accordance with any regulations or rules made under this Part by the date that is 5 working days after the meeting referred to in section 23F(3).
 
 ### 23H Resolution hearing
-(1) If an agreement is not reached between the lessee's assessor and the Crown assessor under section 23G before the date fixed under section 23F(4)(a), the expert determiner must chair a resolution hearing with the lessee's assessor and the Crown assessor on the date fixed under section 23F(4)(a) to—
+(1) If an agreement is not reached between the lessee's assessor and the Crown assessor under section 23G before the date fixed under section 23F(4)﻿(a), the expert determiner must chair a resolution hearing with the lessee's assessor and the Crown assessor on the date fixed under section 23F(4)﻿(a) to—
   (a) facilitate agreement between the lessee's assessor and the Crown assessor; or
   (b) if the expert determiner considers that an agreement is unlikely during the resolution hearing, determine the base carrying capacity or current carrying capacity, or both, of the pastoral lease (as the case may be).
-(2) A determination made under subsection (1)(b) must—
+(2) A determination made under subsection (1)﻿(b) must—
   (a) be in writing and in the form specified by the Valuer-General; and
   (b) be given to the lessee and the Commissioner within 5 working days of the date of the resolution hearing.
 (3) The expert determiner may establish any procedures for the resolution hearing, but the procedures must be consistent with any regulations or rules made under this Part.
@@ -412,7 +412,7 @@ If the lessee accepts, or fails to respond to, an initial assessment under secti
     (i) becomes the current carrying capacity for that pastoral lease; and
     (ii) must be used to calculate the rent for that pastoral lease under section 23B.
 (5) The expert determiner must notify the Commissioner and the lessee of the base carrying capacity or current carrying capacity of any pastoral lease that is agreed or determined under this Part.
-(6) If the Commissioner becomes aware of a base carrying capacity to which section 23E(a)(i) applies or receives a notice referred to in subsection (5) in relation to the base carrying capacity of a pastoral lease, the Commissioner must as soon as practicable advise the Registrar-General of Land of the base carrying capacity of the pastoral lease.
+(6) If the Commissioner becomes aware of a base carrying capacity to which section 23E(a)﻿(i) applies or receives a notice referred to in subsection (5) in relation to the base carrying capacity of a pastoral lease, the Commissioner must as soon as practicable advise the Registrar-General of Land of the base carrying capacity of the pastoral lease.
 (7) If the Registrar-General of Land receives advice under subsection (6), the Registrar-General of Land must, on any relevant computer register, note a memorial that specifies the base carrying capacity of the pastoral lease.
 
 ### 23J Appeals on questions of law
@@ -499,7 +499,7 @@ The Governor-General may, on the recommendation of the Minister, make regulation
 (2) Rules made under subsection (1)—
   (a) may specify upper and lower bounds or other constraints for the base carrying capacity and current carrying capacity of pastoral leases:
   (b) may prescribe different rules for different sets of pastoral leases:
-  (c) may, in the case of rules referred to in subsection (1)(a) and (b), make different provision for the base carrying capacity and current carrying capacity of a pastoral lease:
+  (c) may, in the case of rules referred to in subsection (1)﻿(a) and (b), make different provision for the base carrying capacity and current carrying capacity of a pastoral lease:
   (d) may provide that stock carried on land for any period is counted towards the current carrying capacity of the land in proportion to the part of the year that the stock spends on the land (whether or not that stock is also grazed on any other ground that is not subject to a pastoral lease).
 (3) Before making any rules under this section, the Valuer-General must—
   (a) publish a notice of the Valuer-General's intention, including (but not limited to) on an Internet site maintained by the department; and
@@ -682,7 +682,7 @@ A preliminary proposal designating land as land to be restored to or retained in
 (4) A preliminary proposal may not designate land as land to be disposed of subject to the creation of a covenant under section 77 of the Reserves Act 1977 if—
   (a) a local authority or other body approved by the Minister of Conservation is to be a party to the covenant; and
   (b) the local authority or other body has not given its prior written consent to the designation.
-(5) A preliminary proposal may not designate land as land to be disposed of subject to the creation of a covenant under section 6 of the Historic Places Act 1993 without the prior written consent of the New Zealand Historic Places Trust.
+(5) A preliminary proposal may not designate land as land to be disposed of subject to the creation of a covenant under section 39 of the Heritage New Zealand Pouhere Taonga Act 2014 without the prior written consent of Heritage New Zealand Pouhere Taonga.
 
 ### 41 Provisional consent of Minister of Conservation needed for some designations
 (1) Without the prior written provisional consent of the Minister of Conservation, a preliminary proposal may not—
@@ -838,7 +838,7 @@ Without the prior written consent of the Minister of Conservation, a substantive
 
 ### 58 Proposed disposal of reserve otherwise than by concession
 (1) A substantive proposal must not designate any reserve as land to be disposed of by way of exchange under the Reserves Act 1977 without the prior written consent of the Minister; and if the reserve has an administering body (within the meaning of that Act), the Minister may not give consent except pursuant to a resolution of that body requesting the exchange.
-(2) A substantive proposal must not designate any reserve that is or is part of a recreation reserve as land to be granted by lease under section 73 of the Reserves Act 1977 without the prior written consent of the Minister of Conservation; and the Minister may not give consent except if it is not for the time being required for the purpose for which it was classified, or if the Minister considers it in the public interest, or if the Minister has decided under section 53(1)(a)(ii) of that Act that it is necessary or desirable to farm, graze, or afforest the reserve.
+(2) A substantive proposal must not designate any reserve that is or is part of a recreation reserve as land to be granted by lease under section 73 of the Reserves Act 1977 without the prior written consent of the Minister of Conservation; and the Minister may not give consent except if it is not for the time being required for the purpose for which it was classified, or if the Minister considers it in the public interest, or if the Minister has decided under section 53(1)﻿(a)﻿(ii) of that Act that it is necessary or desirable to farm, graze, or afforest the reserve.
 
 **Powers in relation to proposed creation of certain easements and covenants**
 
@@ -891,7 +891,7 @@ Without the prior written consent of the Minister of Conservation, a substantive
 
 ### 63 Approval of plan
 If (and only if) satisfied that—the Chief Surveyor must sign and date on both copies of the plan a written notice approving it for the purposes of this Act, and return 1 copy to the Commissioner.
-  (a) the boundaries of the various areas shown on a plan submitted under section 62(4)(d) are, in the light of any discovered imprecisions in the boundaries shown or described in the accepted substantive proposal concerned, as close as may reasonably practicably be achieved to the boundaries shown or described in the proposal; and
+  (a) the boundaries of the various areas shown on a plan submitted under section 62(4)﻿(d) are, in the light of any discovered imprecisions in the boundaries shown or described in the accepted substantive proposal concerned, as close as may reasonably practicably be achieved to the boundaries shown or described in the proposal; and
   (b) to the extent allowed by the position of the boundaries shown on the plan,—accurately reflect the proposal,—
     (i) the areas they define; and
     (ii) the designations of those areas,—
@@ -1019,9 +1019,9 @@ When an approved plan designating any reserve as land to be disposed of by way o
 (5) When an approved plan designating any land as land over which a covenant under section 77 of the Reserves Act 1977 or section 27 of the Conservation Act 1987 is to be created has been registered, the Commissioner—
   (a) is deemed for the purposes of that section to be the owner of the land; and
   (b) must promptly create the covenant over the land, on the terms and conditions specified in the substantive proposal concerned.
-(6) When an approved plan designating any land as land over which a covenant under section 6 of the Historic Places Act 1993 is to be created has been registered,—
+(6) When an approved plan designating any land as land over which a covenant under section 39 of the Heritage New Zealand Pouhere Taonga Act 2014 is to be created has been registered,—
   (a) the Commissioner is deemed for the purposes of that section to be the owner of the land; and
-  (b) the Commissioner must promptly execute a heritage covenant over the land in favour of the New Zealand Historic Places Trust, on the terms and conditions specified in the substantive proposal concerned; and
+  (b) the Commissioner must promptly execute a heritage covenant over the land in favour of Heritage New Zealand Pouhere Taonga, on the terms and conditions specified in the substantive proposal concerned; and
   (c) the Board of Trustees of the Trust is deemed (by virtue of having given its consent under section 40) to have agreed those terms and conditions, and must promptly do everything necessary to enable the creation of the covenant.
 
 ### 81 Effect of registration of approved plan in relation to freehold land designated to be restored to Crown ownership
