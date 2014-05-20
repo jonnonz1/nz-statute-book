@@ -1,5 +1,5 @@
 # Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) Kua whakatakotoria te Tiriti o Waitangi, tauira reo Māori, tauira reo Pākehā hoki, i roto i te Wāhanga Tuatahi o te Ture Tiriti o Waitangi 1975. I hainatia te Tiriti nei i te tau 1840:
@@ -223,7 +223,7 @@ It is the intention of Parliament that the provisions in this Act are interprete
 
 ### 12 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **archaeological site** has the meaning given by section 2 of the Historic Places Act 1993
+  - **archaeological site** has the meaning given by section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in a year and ending with the close of 15 January in the following year; and
@@ -264,7 +264,7 @@ In this Act, unless the context otherwise requires,—
     (c) is in the form set out in Schedule 5.2 of the deed of settlement
   - **fisheries protocol area** means the area shown on the map attached to the fisheries protocol, together with the adjacent waters
   - **governance entity** means the Ngāti Tuwharetoa (Bay of Plenty) Settlement Trust established in accordance with clause 2.1 of the deed of settlement
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued by section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **licensee** , in relation to a Crown forestry licence, means the holder of the licence
   - **member of Ngāti Tuwharetoa (Bay of Plenty)** means every individual referred to in section 13(1)
   - **New Zealand Conservation Authority** has the meaning given by section 2(1) of the Conservation Act 1987
@@ -281,9 +281,9 @@ In this Act, unless the context otherwise requires,—
   - **representative entity** means—
     (a) the governance entity; and
     (b) any person (including any trust or trustees) acting for, or on behalf of—
-      (i) the iwi, or the collective group referred to in section 13(1)(a)(i):
-      (ii) any 1 or more of the individuals referred to in section 13(1)(a)(ii):
-      (iii) any 1 or more of the hapū, groups, families, or whānau referred to in section 13(1)(b)
+      (i) the iwi, or the collective group referred to in section 13(1)﻿(a)﻿(i):
+      (ii) any 1 or more of the individuals referred to in section 13(1)﻿(a)﻿(ii):
+      (iii) any 1 or more of the hapū, groups, families, or whānau referred to in section 13(1)﻿(b)
   - **resource consent** has the meaning given by section 87 of the Resource Management Act 1991
   - **responsible Minister** means, in subpart 1 of Part 4, one of the following Ministers:
     (a) the Minister of Conservation:
@@ -317,7 +317,7 @@ In this Act, unless the context otherwise requires,—
       (C) a whāngai of Ngāti Tuwharetoa (Bay of Plenty); and
   (b) includes—
     (i) the hapū of Ngāti Tuwharetoa (Bay of Plenty); and
-    (ii) any hapū, group, family, or whānau composed of individuals referred to in paragraph (a)(ii).
+    (ii) any hapū, group, family, or whānau composed of individuals referred to in paragraph (a)﻿(ii).
 (2) In this section and in section 14, Ngāti Tuwharetoa (Bay of Plenty) ancestor means a person who exercised customary rights—
   (a) by virtue of being descended from—
     (i) Tuwharetoa:
@@ -359,7 +359,7 @@ In this Act, Ngāti Tuwharetoa (Bay of Plenty) historical claims—
   (c) does not include the following claims:
     (i) Wai 411 (Tarawera Forest Claim) filed with the Waitangi Tribunal on 14 June 1993 and amended on 26 April 2000:
     (ii) Wai 21 (Tasman Company Pollution Claim) filed with the Waitangi Tribunal on 26 April 1985 and amended on 23 October 1992 (except any further amendment to the Wai 21 claim to the extent that the further amendment is a claim referred to in paragraph (a)):
-    (iii) any claim that a member of Ngāti Tuwharetoa (Bay of Plenty), or a hapū, group, family, or whānau referred to in section 13(1)(b) had at, or at any time before, the settlement date, or may have at any time after the settlement date, that is, or is founded on, a right arising from being descended from an ancestor who is not a Ngāti Tuwharetoa (Bay of Plenty) ancestor:
+    (iii) any claim that a member of Ngāti Tuwharetoa (Bay of Plenty), or a hapū, group, family, or whānau referred to in section 13(1)﻿(b) had at, or at any time before, the settlement date, or may have at any time after the settlement date, that is, or is founded on, a right arising from being descended from an ancestor who is not a Ngāti Tuwharetoa (Bay of Plenty) ancestor:
     (iv) any claim based on descent from a recognised ancestor of Te Tawera to the extent that the claim is, or is founded on, a right arising from being descended from Awanuiarangi II:
     (v) any claim that a representative entity may have to the extent that the claim is, or is founded on, a claim referred in subparagraph (iii).
 
@@ -550,7 +550,7 @@ The vesting of each cultural redress property is subject to the encumbrances (if
 
 ### 36 Application of other enactments
 (1) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation under this subpart of the reserve status of a cultural redress property vested in the governance entity under this subpart.
-(2) Sections 78(1)(a) and 79 to 81 of the Reserves Act 1977 do not apply to the vesting in the governance entity of a cultural redress property under this subpart.
+(2) Sections 78(1)﻿(a) and 79 to 81 of the Reserves Act 1977 do not apply to the vesting in the governance entity of a cultural redress property under this subpart.
 (3) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to—
   (a) the vesting in the governance entity of the fee simple estate in a cultural redress property under this subpart; or
   (b) a matter incidental to, or required for the purpose of, the vesting of the fee simple estate in a cultural redress property under this subpart.
@@ -568,7 +568,7 @@ The Crown acknowledges the statements made by Ngāti Tuwharetoa (Bay of Plenty) 
 
 ### 38 Purposes of statutory acknowledgements
 (1) The only purposes of the statutory acknowledgements are—
-  (a) to require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgements, as provided for in sections 39 to 41; and
+  (a) to require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgements, as provided for in sections 39 to 41; and
   (b) to require relevant consent authorities to forward summaries of resource consent applications to the governance entity, as provided for in section 43; and
   (c) to enable the governance entity and a member of Ngāti Tuwharetoa (Bay of Plenty) to cite the statutory acknowledgements as evidence of the association of Ngāti Tuwharetoa (Bay of Plenty) with the relevant statutory areas, as provided for in section 44; and
   (d) to provide a statement by Ngāti Tuwharetoa (Bay of Plenty) for inclusion in a deed of recognition of the association of Ngāti Tuwharetoa (Bay of Plenty) with a statutory area.
@@ -582,8 +582,10 @@ The Crown acknowledges the statements made by Ngāti Tuwharetoa (Bay of Plenty) 
 (1) From the effective date, the Environment Court must have regard to a statutory acknowledgement in determining under section 274 of the Resource Management Act 1991 whether the governance entity is a person having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under Part 2 of the Resource Management Act 1991.
 
-### 41 Historic Places Trust and Environment Court to have regard to statutory acknowledgements
-From the effective date, the Historic Places Trust and the Environment Court must have regard to a statutory acknowledgement in forming an opinion under section 14(6)(a) or section 20(1) of the Historic Places Act 1993, as the case may be, as to whether the governance entity is a person directly affected in relation to an archaeological site within the statutory area.
+### 41 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
+If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the governance entity is a person directly affected by the decision.
 
 ### 42 Recording statutory acknowledgements on statutory plans
 (1) From the effective date, relevant consent authorities must attach information recording a statutory acknowledgement to all statutory plans that wholly or partly cover the statutory area.
@@ -597,7 +599,7 @@ From the effective date, the Historic Places Trust and the Environment Court mus
 (1) A relevant consent authority must, for a period of 20 years from the effective date, forward to the governance entity a summary of resource consent applications received by that consent authority for activities within, adjacent to, or impacting directly on a statutory area.
 (2) The information provided under subsection (1) must be—
   (a) the same as would be provided under section 93 of the Resource Management Act 1991 to persons likely to be adversely affected, or any other information that may be agreed between the governance entity and the relevant consent authority; and
-  (b) provided as soon as is reasonably practicable after the application is received, and before a determination is made under section 93 to 94C of the Resource Management Act 1991.
+  (b) provided as soon as is reasonably practicable after the application is received, and before a determination is made under sections 93 to 94C of the Resource Management Act 1991.
 (3) The governance entity may, by notice in writing to a relevant consent authority,—
   (a) waive its rights to be notified under this section; and
   (b) state the scope of that waiver.
@@ -606,11 +608,11 @@ From the effective date, the Historic Places Trust and the Environment Court mus
   (b) form an opinion as to whether the governance entity is a person that is likely to be adversely affected under those sections.
 
 ### 44 Use of statutory acknowledgement
-(1) The governance entity and a member of Ngāti Tuwharetoa (Bay of Plenty) may, as evidence of the association of Ngāti Tuwharetoa (Bay of Plenty) with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the statutory area.
+(1) The governance entity and a member of Ngāti Tuwharetoa (Bay of Plenty) may, as evidence of the association of Ngāti Tuwharetoa (Bay of Plenty) with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the statutory area.
 (2) The content of the statement of association, as recorded in the statutory acknowledgement, is not, by virtue of the statutory acknowledgement, binding as deemed fact on—
   (a) relevant consent authorities:
   (b) the Environment Court:
-  (c) the Historic Places Trust:
+  (c) Heritage New Zealand Pouhere Taonga:
   (d) parties to proceedings before those bodies:
   (e) any other person able to participate in those proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
@@ -725,7 +727,7 @@ Neither the provision of a statutory acknowledgement nor the geothermal statutor
 (1) Except as expressly provided in this subpart,—
   (a) neither a statutory acknowledgement nor the geothermal statutory acknowledgement nor a deed of recognition affects, or may be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
   (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association with, or use by, Ngāti Tuwharetoa (Bay of Plenty) of a statutory area or the geothermal energy or geothermal water located in the Kawerau Geothermal system (as described in the relevant statutory acknowledgement or deed of recognition) than that person would give under the relevant statute, regulation, or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area or the geothermal energy or geothermal water located in the Kawerau Geothermal system.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 61 Rights not affected
 Except as expressly provided in this subpart, neither a statutory acknowledgement nor the geothermal statutory acknowledgement nor a deed of recognition affects the lawful rights or interests of a person who is not a party to the deed of settlement.
@@ -1017,7 +1019,7 @@ The purpose or classification of an area as a national park, conservation area, 
   (b) the area concerned is alienated by the Crown; or
   (c) the responsibility for managing the area concerned is transferred to another Minister of the Crown or department.
 (3) Subsection (4) applies if—
-  (a) either of subsection (2)(b) or (c) applies; or
+  (a) either of subsection (2)﻿(b) or (c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the Owhakatihi.
 (4) If this subsection applies, the Crown must take reasonable steps to ensure that the governance entity continues to have input into the management of the Owhakatihi, or that part of it affected by the alienation or change in management responsibility, through negotiation with the governance entity by—
   (a) the Minister of the Crown responsible for the new management or the management regimes; or
@@ -1099,15 +1101,15 @@ The redress licensed land ceases to be Crown forest land immediately on registra
 (1) On and from the redress licensed land settlement date, the governance entity is, in relation to the redressed licensed land,—
   (a) the confirmed beneficiary under clause 11.1 of the Crown forestry rental trust deed; and
   (b) the representative referred to in clause 11.5(c) of that deed.
-(2) On the redress licensed land settlement date, the Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of the redress licensed land as if that section applies to the redress licensed land, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land.
-(3) Notice given by the Crown under subsection (2) has effect as if the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land and that recommendation had become final on the redress licensed land settlement date.
+(2) On the redress licensed land settlement date, the Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of the redress licensed land as if that section applies to the redress licensed land, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land.
+(3) Notice given by the Crown under subsection (2) has effect as if the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land and that recommendation had become final on the redress licensed land settlement date.
 (4) In this section, Crown forestry rental trust deed means the trust deed made on 30 April 1990 establishing the Crown forestry rental trust under section 34 of the Crown Forest Assets Act 1989.
 
 ### 124 Effect of Crown forestry licences on redress licensed land
-(1) On and from the redress licensed land settlement date, the governance entity is the licensor under any Crown forestry licences in relation to the redress licensed land as if that land had been returned to Maori ownership under section 36 of the Crown Forests Assets Act 1989.
+(1) On and from the redress licensed land settlement date, the governance entity is the licensor under any Crown forestry licences in relation to the redress licensed land as if that land had been returned to Maori ownership under section 36 of the Crown Forest Assets Act 1989.
 (2) To the extent that the Crown has not completed the process described in clause 17.4 of the Crown forestry licences in relation to the redress licensed land before the redress licensed land settlement date, it must continue the process after that date until its completion.
 (3) For the period from the redress licensed land settlement date until the completion by the Crown of the process referred to in subsection (2), the licence fee payable under the Crown forestry licence in respect of the redress licensed land is the amount described in clause 6.3.5(a) of the deed of settlement.
-(4) To avoid doubt, section 36(1)(b) of the Crown Forests Assets Act 1989 does not apply to the redress licensed land.
+(4) To avoid doubt, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 does not apply to the redress licensed land.
 
 **Rights of access over redress licensed land**
 
@@ -1120,7 +1122,7 @@ The redress licensed land ceases to be Crown forest land immediately on registra
     (i) that relate to the time, location, or manner of access; and
     (ii) that are reasonably required for public safety or for the protection of land, improvements, flora and fauna, plant, equipment, and livestock, or for operational reasons.
 (3) In this section, protected site means any area of land situated in the redress licensed land that—
-  (a) becomes a registered place within the meaning of the Historic Places Act 1993; and
+  (a) becomes a registered place within the meaning of the Heritage New Zealand Pouhere Taonga Act 2014; and
   (b) is wāhi tapu or a wāhi tapu area within the meaning of that Act.
 
 ### 126 Right of access subject to Crown forestry licence
@@ -1136,11 +1138,11 @@ A memorandum of transfer referred to in section 116 in relation to the redress l
 
 | Property | Description | Encumbrances |
 | --- | --- | --- |
-| Te Wahieroa | South Auckland Land District—Whakatāne District 10.0000 hectares, more or less, being Section 1 SO 332912. Part Gazette Notice H.024770. |  |
+| Te Wahieroa | South Auckland Land District—Whakatāne District 10.0000 hectares, more or less, being Section 1 SO 332912. Part Gazette Notice H﻿.﻿024770. |  |
 | Te Atua Reretahi | South Auckland Land District—Whakatāne District. 17.5060 hectares, more or less, being Section 1 SO 330119. Part Gazette 1920, page 2107. | Subject to the conservation covenant referred to in clause 29(3) |
-| Te Kaukahiwi o Tirotirowhetu | South Auckland Land District—Kawerau District. 10.3657 hectares, more or less, being Section 1 SO 330677. Part Gazette Notice H.257899. |  |
+| Te Kaukahiwi o Tirotirowhetu | South Auckland Land District—Kawerau District. 10.3657 hectares, more or less, being Section 1 SO 330677. Part Gazette Notice H﻿.﻿257899. |  |
 | Otitapu Lookout | South Auckland Land District—Whakatāne District. 7.6690 hectares, more or less, being Section 2 SO 330676. Part Gazette 1939, page 311. | Subject to the protected private land agreement referred to in clause 31(2) |
-| Whakapaukorero | South Auckland Land District—Whakatāne District. 32.9230 hectares, more or less, being Section 2 SO 330120. Part Gazette Notice H.011708 and All Transfer H.652435. |  |
+| Whakapaukorero | South Auckland Land District—Whakatāne District. 32.9230 hectares, more or less, being Section 2 SO 330120. Part Gazette Notice H﻿.﻿011708 and All Transfer H﻿.﻿652435. |  |
 
 ## Schedule 2 — Nohoanga site
 
