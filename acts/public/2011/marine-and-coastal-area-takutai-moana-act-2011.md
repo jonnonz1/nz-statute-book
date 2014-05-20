@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -211,7 +211,7 @@ To avoid doubt, this Act does not affect—
   - **territorial authority** has the meaning given in section 5(1) of the Local Government Act 2002
   - **territorial sea** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **tikanga** means Māori customary values and practices
-  - **wāhi tapu** and have the meanings given to the terms and in section 2 of the Historic Places Act 1993
+  - **wāhi tapu** and have the meanings given to the terms and in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **warden** means a person appointed under section 80.
 (2) In Schedule 1 and elsewhere as the context requires, effect has the meaning given in section 3 of the Resource Management Act 1991.
 
@@ -262,7 +262,7 @@ This Act binds the Crown.
 (5) An unformed road that, after the commencement of this Act, comes into existence in the marine and coastal area is part of the common marine and coastal area.
 (6) However, if a road to which subsection (5) applies is formed, the road ceases to be part of the common marine and coastal area on the day on which its formation is completed.
 (7) In any case where a road in the marine and coastal area is not part of the common marine and coastal area, the ownership, management, and control of the road is determined and governed by the enactments that apply to the road.
-(8) Nothing in this section (except subsection (7)) and in section 15 applies to a private road.
+(8) Nothing in this section (except subsection (7)) or in section 15 applies to a private road.
 (9) In this section,—
   - **current certificate** means a certificate under subsection (2) that is dated not earlier than 6 months before the relevant quinquennial anniversary
   - **formation** and have the same meaning as in section 2(1) of the Local Government Act 1974
@@ -326,7 +326,7 @@ Nothing in this Act limits or affects—
 (2) Immediately upon the cancellation under subsection (1) of a computer freehold register that is subject to a current registered interest or current registered notification, the Registrar must, without further authority than this section,—
   (a) issue a computer interest register under section 9 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 for that registered interest or notification; and
   (b) record on that computer interest register that the land to which the registered interest or notification relates is located in the common marine and coastal area.
-(3) When the interest or notification for which a computer interest register has been issued in accordance with subsection (2)(a) expires or is extinguished or is otherwise determined, the Registrar must, at the request of the Minister of Conservation and without further authority than this section, cancel the computer interest register.
+(3) When the interest or notification for which a computer interest register has been issued in accordance with subsection (2)﻿(a) expires or is extinguished or is otherwise determined, the Registrar must, at the request of the Minister of Conservation and without further authority than this section, cancel the computer interest register.
 
 ### 23 Provisions relating to computer freehold register to land in common marine and coastal area and land above line of mean high-water springs
 (1) If any computer freehold register comprises any land that is part of the common marine and coastal area as well as any adjacent land (the adjacent land) above the line of mean high-water springs, either the Minister of Conservation or the owner of the adjacent land may apply to the Registrar for the issue of a computer freehold register for the adjacent land.
@@ -335,7 +335,7 @@ Nothing in this Act limits or affects—
   (b) issue a computer freehold register under section 7 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 in the name of the owner of the adjacent land for the adjacent land; and
   (c) note any current registered interest or current registered notification that relates to the adjacent land against that computer freehold register in the order in which it appears on the computer freehold register cancelled under paragraph (a); and
   (d) issue a computer interest register under section 9 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 for any registered interest or current registered notification that relates to land within the common marine and coastal area that was part of the computer freehold register cancelled under paragraph (a).
-(3) The Registrar may require the deposit of any survey plan necessary for the issue of a computer freehold register under subsection (2)(b).
+(3) The Registrar may require the deposit of any survey plan necessary for the issue of a computer freehold register under subsection (2)﻿(b).
 (4) To avoid doubt, no action taken under this section is subject to Part 10 of the Resource Management Act 1991.
 
 ### 24 Exclusion of interests in marine and coastal area founded on adverse possession or prescriptive title
@@ -488,7 +488,7 @@ Nothing in this Act limits or affects—
 (3) The Minister may determine that several eligible applicants may each be granted a distinct interest in the reclaimed land.
 
 ### 37 Presumption that certain applicants to be granted freehold interest in reclaimed land subject to this subpart
-(1) In the case of an application made under section 35 by an eligible applicant who is a person of a kind specified in subsection (2), the Minister's determination of the matter specified in section 36(1)(a) must proceed on the basis that the person is to be granted a freehold interest in the reclaimed land unless—
+(1) In the case of an application made under section 35 by an eligible applicant who is a person of a kind specified in subsection (2), the Minister's determination of the matter specified in section 36(1)﻿(a) must proceed on the basis that the person is to be granted a freehold interest in the reclaimed land unless—
   (a) the person does not wish to be granted a freehold interest; or
   (b) the Minister is satisfied, after considering the matters specified in section 36(2), that there is good reason not to grant the person a freehold interest.
 (2) The persons are the following:
@@ -507,15 +507,15 @@ Nothing in this Act limits or affects—
 ### 39 Vesting of interest in reclaimed land subject to this subpart
 (1) The Minister may, by notice in the Gazette, vest in an applicant an interest in reclaimed land subject to this subpart if the Minister is satisfied that—
   (a) the vesting is in accordance with a determination made under section 36(1), as varied by any variations under section 38(3); and
-  (b) any conditions imposed under section 36(1)(c) have been complied with or that adequate provision has been made to ensure that those conditions will be complied with; and
-  (c) a certificate under section 245(5)(b) of the Resource Management Act 1991 has been issued in respect of the reclaimed land.
+  (b) any conditions imposed under section 36(1)﻿(c) have been complied with or that adequate provision has been made to ensure that those conditions will be complied with; and
+  (c) a certificate under section 245(5)﻿(b) of the Resource Management Act 1991 has been issued in respect of the reclaimed land.
 (2) Every Gazette notice published under subsection (1) must—
   (a) state the name of the applicant in whom the interest is vested and describe the position and extent of the reclaimed land; and
   (b) describe the interest vested; and
   (c) describe any encumbrances or restrictions imposed on the interest, including any restrictions that apply under section 44; and
   (d) where the interest vested is a freehold interest and in any other case where the Minister considers it appropriate, be sent by the Minister to the Registrar, with a request that a computer register be issued accordingly; and
   (e) where the Registrar receives a request under paragraph (d), be registered by the Registrar after receipt from the Minister.
-(3) The Registrar must, in accordance with a request made under subsection (2)(d),—
+(3) The Registrar must, in accordance with a request made under subsection (2)﻿(d),—
   (a) issue a computer register under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 in respect of the interest in the land vested by the Gazette notice; and
   (b) record on that computer register—
     (i) that the land is reclaimed land subject to subpart 3 of Part 2 of the Marine and Coastal Area (Takutai Moana) Act 2011; and
@@ -548,7 +548,7 @@ Nothing in this Act limits or affects—
 (1) Where, as at the commencement of this Act, any right, title, or interest in reclaimed land is to be vested in a person under a determination of an application under section 355 of the Resource Management Act 1991 (as in force immediately before the commencement of this Act) but the right, title, or interest has not yet been formally vested, the Minister of Conservation must, if satisfied that all relevant conditions have been fulfilled and the price (if any) has been paid, give effect to the determination as if—
   (a) this subpart (other than this section) had not been enacted; and
   (b) the Resource Management Act 1991 had not been amended by this Act.
-(2) In subsection (1), determination includes an agreement referred to in section 355AA(2)(b) of the Resource Management Act 1991 (as in force immediately before the commencement of this Act).
+(2) In subsection (1), determination includes an agreement referred to in section 355AA(2)﻿(b) of the Resource Management Act 1991 (as in force immediately before the commencement of this Act).
 
 ### 43 Land reclaimed from customary marine title areas by customary marine title groups
 (1) In any case where a customary marine title group is the developer of reclaimed land that has been formed or is being formed or is to be formed from the group's customary marine title area, this section applies instead of sections 31 to 41.
@@ -560,20 +560,20 @@ Nothing in this Act limits or affects—
     (ii) the Minister is satisfied, after considering the matters specified in section 36(2), that there is good reason not to grant the customary marine title group a freehold interest; and
   (c) determine the application, including whether any conditions must be fulfilled before any interest in the reclaimed land is vested and the nature of any such conditions; and
   (d) notify the customary marine title group of the determination.
-(4) Before the Minister makes a determination under subsection (3)(c), the Minister must give the customary marine title group a reasonable opportunity to comment on the proposed determination.
-(5) If satisfied that a certificate under section 245(5)(b) of the Resource Management Act 1991 has been issued in respect of the reclaimed land and that any conditions determined under subsection (3)(c) have been fulfilled, the Minister may, by notice in the Gazette, vest in the customary marine title group an interest in the reclaimed land.
+(4) Before the Minister makes a determination under subsection (3)﻿(c), the Minister must give the customary marine title group a reasonable opportunity to comment on the proposed determination.
+(5) If satisfied that a certificate under section 245(5)﻿(b) of the Resource Management Act 1991 has been issued in respect of the reclaimed land and that any conditions determined under subsection (3)﻿(c) have been fulfilled, the Minister may, by notice in the Gazette, vest in the customary marine title group an interest in the reclaimed land.
 (6) Every Gazette notice published under subsection (5) must—
   (a) state the name of the customary marine title group, and describe the position and extent of the reclaimed land; and
   (b) describe the interest vested; and
   (c) describe any encumbrances or restrictions imposed on the interest; and
   (d) where the interest vested is a freehold interest and in any other case where the Minister considers it appropriate, be sent by the Minister to the Registrar, with a request that a computer register be issued accordingly; and
   (e) where the Registrar receives a request under paragraph (d), be registered by the Registrar after receipt from the Minister.
-(7) The Registrar must, in accordance with a request made under subsection (6)(d), issue a computer register under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 in respect of the interest in the land vested by the Gazette notice.
+(7) The Registrar must, in accordance with a request made under subsection (6)﻿(d), issue a computer register under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 in respect of the interest in the land vested by the Gazette notice.
 
 **Rights of first refusal**
 
 ### 44 Restrictions on disposition of freehold interest
-(1) For as long as a computer register issued for reclaimed land subject to this subpart contains a record made under section 39(3)(b), the freehold interest in the land may not be disposed of otherwise than in accordance with section 45, but if that record is removed (in accordance with subsection (6) of this section) following a disposition in accordance with section 45, the freehold interest may be disposed of in any lawful way.
+(1) For as long as a computer register issued for reclaimed land subject to this subpart contains a record made under section 39(3)﻿(b), the freehold interest in the land may not be disposed of otherwise than in accordance with section 45, but if that record is removed (in accordance with subsection (6) of this section) following a disposition in accordance with section 45, the freehold interest may be disposed of in any lawful way.
 (2) However, the restriction in subsection (1) does not apply to a disposition that—
   (a) is made by a company to another company if both companies are—
     (i) members of the same group (within the meaning of section 5 of the Financial Reporting Act 2013); or
@@ -584,7 +584,7 @@ Nothing in this Act limits or affects—
 (5) A transfer instrument purporting to effect a disposition to which subsection (1) applies—
   (a) may not be presented for registration under the Land Transfer Act 1952 unless the Minister has signed a certificate in respect of the disposition under subsection (3); and
   (b) must, on being presented for registration under that Act, be accompanied by that certificate.
-(6) If the certificate presented under subsection (5)(b) states that the freehold interest in reclaimed land has been disposed of in accordance with section 45, the Registrar must on registration of the transfer instrument remove from the computer register the record made under section 39(3)(b).
+(6) If the certificate presented under subsection (5)﻿(b) states that the freehold interest in reclaimed land has been disposed of in accordance with section 45, the Registrar must on registration of the transfer instrument remove from the computer register the record made under section 39(3)﻿(b).
 
 ### 45 Offers to Minister, iwi or hapū, or public
 (1) In order to dispose of a freehold interest in reclaimed land (the freehold interest) in compliance with this section, the proprietor of the freehold interest must dispose of the freehold interest in accordance with a written notice that is in effect at the time of the disposition and is given under whichever of subsection (2), (4), or (6) is applicable.
@@ -623,8 +623,8 @@ This Part sets out the legal rights and interests that give expression to custom
 
 ### 48 Notification of conservation process
 (1) If an application or a proposal is made for a conservation process, notice must be given as provided for in subsection (2), by—
-  (a) the Director-General, in the case of those referred to in section 47(3)(a) to (d); and
-  (b) the applicant, in the case of an application referred to in section 47(3)(e).
+  (a) the Director-General, in the case of those referred to in section 47(3)﻿(a) to (d); and
+  (b) the applicant, in the case of an application referred to in section 47(3)﻿(e).
 (2) Notice must be given as soon as is reasonably practicable after the application or proposal is received by the Director-General and may be given—
   (a) as part of any public notice given to members of the public generally of the matter to which it relates; or
   (b) in a case where the Director-General is not otherwise required to give public notice, to the affected iwi, hapū, or whānau in particular in any publication circulating in the locality to which the proposal relates.
@@ -632,7 +632,7 @@ This Part sets out the legal rights and interests that give expression to custom
   (a) include advice that any iwi, hapū, or whānau that consider they are affected iwi, hapū, or whānau may provide that advice to the Director-General; and
   (b) state the day by which any iwi, hapū, or whānau who may be affected must provide their views; and
   (c) provide sufficient information about the subject matter and scope of the application or proposal—
-    (i) to inform iwi, hapū, or whānau who may be affected by the obligations on the Director-General under this subpart; and
+    (i) to inform iwi, hapū, or whānau who may be affected, of the obligations on the Director-General under this subpart; and
     (ii) to assist affected iwi, hapū, or whānau to decide whether they wish to make a submission on the application or proposal; and
     (iii) to advise where further information on an application or proposal may be viewed.
 (4) In the event of a dispute as to whether, or which, iwi, hapū, or whānau are affected by an application or proposal, the Director-General must—
@@ -686,14 +686,14 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
   (a) delegate or transfer the rights conferred by a protected customary rights order or an agreement in accordance with tikanga:
   (b) derive a commercial benefit from exercising its protected customary rights, except in relation to the exercise of—
     (i) a non-commercial aquaculture activity; or
-    (ii) a non-commercial fishery activity that is not a right or interest subject to the declarations in section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1991:
+    (ii) a non-commercial fishery activity that is not a right or interest subject to the declarations in section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992:
   (c) determine who may carry out any particular activity, use, or practice in reliance on a protected customary rights order or agreement:
   (d) limit or suspend, in whole or in part, the exercise of a protected customary right.
 
 ### 53 Delegations and transfers of protected customary rights
 (1) A delegation or transfer may only be made under section 52(4) to a person identified in a protected customary rights order or an agreement as a person to whom a right may be delegated or transferred.
 (2) A delegation or transfer of a protected customary right must be—
-  (a) notified to each of the persons or bodies referred to in section 110(2)(b); and
+  (a) notified to each of the persons or bodies referred to in section 110(2)﻿(b); and
   (b) registered in accordance with section 114.
 (3) A delegation or transfer does not take effect until,—
   (a) in the case of a protected customary rights order, the order is varied in accordance with section 111; and
@@ -707,7 +707,7 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
 
 ### 55 Effect of protected customary rights on resource consent applications
 (1) This section applies if an application for a resource consent for an activity to be undertaken wholly or in part within a protected customary rights area is lodged on or after the date that—
-  (a) a protected customary rights agreement comes into effect under section 96(1)(a); or
+  (a) a protected customary rights agreement comes into effect under section 96(1)﻿(a); or
   (b) a protected customary rights order is sealed in accordance with section 113.
 (2) A consent authority must not grant a resource consent for an activity (including a controlled activity) to be carried out in a protected customary rights area if the activity will, or is likely to, have adverse effects that are more than minor on the exercise of a protected customary right, unless—
   (a) the relevant protected customary rights group gives its written approval for the proposed activity; or
@@ -720,8 +720,8 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
   (c) a resource consent for an existing accommodated infrastructure (within the meaning of section 63) if any adverse effects of the proposed activity on the exercise of a protected customary right will be or are likely to be—
     (i) the same or similar in character, intensity, and scale as those that existed before the application for the resource consent was lodged; or
     (ii) if more than minor or temporary in nature; or
-  (d) a resource consent for a deemed accommodated activity (within the meaning of section 65(1)(b)(i)).
-(4) In the case where a deemed accommodated activity within the meaning of section 65(1)(b)(i) applies, the consent authority must, when considering applications for a resource consent relating to that activity, have particular regard to the nature of the protected customary right.
+  (d) a resource consent for a deemed accommodated activity (within the meaning of section 65(1)﻿(b)﻿(i)).
+(4) In the case where a deemed accommodated activity within the meaning of section 65(1)﻿(b)﻿(i) applies, the consent authority must, when considering applications for a resource consent relating to that activity, have particular regard to the nature of the protected customary right.
 (5) The provisions of Part 1 of Schedule 1 apply for the purposes of subsections (2) and (3).
 
 **Controls**
@@ -761,11 +761,11 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
   (b) has, in relation to the specified area,—
     (i) exclusively used and occupied it from 1840 to the present day without substantial interruption; or
     (ii) received it, at any time after 1840, through a customary transfer in accordance with subsection (3).
-(2) For the purpose of subsection (1)(b), there is no substantial interruption to the exclusive use and occupation of a specified area of the common marine and coastal area if, in relation to that area, a resource consent for an activity to be carried out wholly or partly in that area is granted at any time between—
+(2) For the purpose of subsection (1)﻿(b), there is no substantial interruption to the exclusive use and occupation of a specified area of the common marine and coastal area if, in relation to that area, a resource consent for an activity to be carried out wholly or partly in that area is granted at any time between—
   (a) the commencement of this Act; and
   (b) the effective date.
-(3) For the purposes of subsection (1)(b)(ii),—
-  (a) a transfer is a customary transfer if a customary interest in a specified area of the common marine and coastal area was transferred—
+(3) For the purposes of subsection (1)﻿(b)﻿(ii), a transfer is a customary transfer if—
+  (a) a customary interest in a specified area of the common marine and coastal area was transferred—
     (i) between or among members of the applicant group; or
     (ii) to the applicant group or some of its members from a group or some members of a group who were not part of the applicant group; and
   (b) the transfer was in accordance with tikanga; and
@@ -783,9 +783,9 @@ If the Director-General is advised by iwi, hapū, or whānau and accepts, or det
     (i) own land abutting all or part of the specified area and have done so, without substantial interruption, from 1840 to the present day:
     (ii) exercise non-commercial customary fishing rights in the specified area, and have done so from 1840 to the present day; and
   (b) if paragraph (a) applies, the extent to which there has been such ownership or exercise of fishing rights in the specified area.
-(2) To avoid doubt, section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 does not limit subsection (1)(a)(ii).
+(2) To avoid doubt, section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 does not limit subsection (1)﻿(a)﻿(ii).
 (3) The use at any time, by persons who are not members of an applicant group, of a specified area of the common marine and coastal area for fishing or navigation does not, of itself, preclude the applicant group from establishing the existence of customary marine title.
-(4) For the purpose of subsection (1)(a)(i), land abutting all or part of the specified area means—
+(4) For the purpose of subsection (1)﻿(a)﻿(i), land abutting all or part of the specified area means—
   (a) land that directly abuts the specified area; or
   (b) land that does not directly abut the specified area, but does directly abut any of the following:
     (i) a marginal strip (as defined in section 2(1) of the Conservation Act 1987) that directly abuts the specified area:
@@ -859,7 +859,7 @@ In this section and in sections 64 and 65,—
       (iv) an electricity generator (as defined in section 2(1) of the Electricity Act 1992):
       (v) a port company (as defined in section 2(1) of the Port Companies Act 1988):
       (vi) a port operator (as defined in Part 3A of the Maritime Transport Act 1994):
-    (c) reasonably necessary to—
+    (c) reasonably necessary for—
       (i) the national social or economic well-being; or
       (ii) the social or economic well-being of the region in which the infrastructure is located
   - **associated operations** means activities that are necessary for the functioning of an accommodated infrastructure, including—
@@ -917,7 +917,7 @@ In this section and in sections 64 and 65,—
 (5) The decision of the Minister is final.
 
 ### 65 Deemed accommodated activities
-(1) For the purpose of section 64(2)(h) and Schedule 2, the following activities are deemed to be accommodated activities:
+(1) For the purpose of section 64(2)﻿(h) and Schedule 2, the following activities are deemed to be accommodated activities:
   (a) the construction or operation of any proposed infrastructure that—
     (i) is within the meaning of paragraph (b) of the definition of accommodated infrastructure; and
     (ii) cannot practicably be constructed or operated in any location other than within a customary marine title area; and
@@ -933,7 +933,7 @@ In this section and in sections 64 and 65,—
   (c) any activity—
     (i) that, at any time after the commencement of this Act, is necessary for, or reasonably related to, the exercise of a privilege in existence immediately before the effective date and of the rights associated with that privilege, as provided for in section 84(1); and
     (ii) for which an agreement or arbitral award has been made under Part 2 of Schedule 2.
-(2) Nothing in subsection (1)(a) or (b) limits the discretion of a consent authority—
+(2) Nothing in subsection (1)﻿(a) or (b) limits the discretion of a consent authority—
   (a) to decline an application for a resource consent; or
   (b) to impose conditions on the resource consent.
 
@@ -991,7 +991,7 @@ In this section and in sections 64 and 65,—
   (a) by an Environment Judge sitting alone; or
   (b) in the District Court and, unless the Chief District Court Judge directs otherwise, by a District Court Judge who is an Environment Judge.
 
-### 70 Court may make enforcement orders
+### 70 Environment Court may make enforcement orders
 (1) Subsection (3) applies only if, in relation to the exercise of a resource consent,—
   (a) the RMA permission right is applicable; and
   (b) a resource consent is exercised without the permission of the customary marine title group being obtained.
@@ -1016,7 +1016,7 @@ In this section and in sections 64 and 65,—
     (i) to decline an application or a proposal; or
     (ii) to impose conditions, including conditions not sought by the customary marine title group, or more stringent conditions than those it may have sought; or
   (b) the matters provided for in sections 74 and 75.
-(6) Nothing in this section or sections 72 and 73 applies to an accommodated activity.
+(6) Nothing in this section or sections 72 or 73 applies to an accommodated activity.
 
 ### 72 Obligation to refer proposals for conservation activity if conservation permission right applies
 (1) The Minister of Conservation or Director-General, as the case requires,—
@@ -1032,7 +1032,7 @@ In this section and in sections 64 and 65,—
 (1) A customary marine title group must, not later than 40 working days after it receives an application or a proposal for its consideration under section 72,—
   (a) decide whether to give or decline permission for the Minister of Conservation or Director-General, as the case requires, to proceed to determine the application or proposal; and
   (b) give written notice of that decision to the Minister of Conservation or Director-General, as the case requires.
-(2) The group is to be treated as having given permission if advice of its decision under subsection (1)(a) is not received under subsection (1)(b) within the stated time.
+(2) The group is to be treated as having given permission if advice of its decision under subsection (1)﻿(a) is not received under subsection (1)﻿(b) within the stated time.
 (3) To avoid doubt,—
   (a) the group is not obliged to comply with any obligations arising under the enactments listed in section 71(3); and
   (b) there is no right of appeal against the decision of a customary marine title group in the exercise of its conservation permission right.
@@ -1067,7 +1067,7 @@ In making a determination under section 74(2), the Minister of Conservation or t
     (i) of the proposed permit; and
     (ii) that the Director-General seeks its views (which must be given within 40 working days of that notice being received); and
   (b) recognise and provide for the views of the group on the proposed permit, if they are provided within the specified time.
-(2) The obligation under subsection (1)(b) does not limit the discretion of the Director-General to—
+(2) The obligation under subsection (1)﻿(b) does not limit the discretion of the Director-General to—
   (a) approve or decline an application on the grounds set out in the Marine Mammals Protection Regulations 1992; or
   (b) impose any conditions on a permit that the Director-General thinks fit.
 (3) The notice must include a copy of the proposed permit and sufficient information to enable the customary marine title group to provide its views on the application.
@@ -1127,12 +1127,10 @@ If the Minister of Conservation is proposing to prepare, issue, change, review, 
 ### 81 Compliance
 (1) A local authority that has statutory functions in the location of a wāhi tapu or wāhi tapu area that is subject to a wāhi tapu protection right must, in consultation with the relevant customary marine title group, take any appropriate action that is reasonably necessary to encourage public compliance with any wāhi tapu conditions.
 (2) Every person commits an offence who intentionally fails to comply with a prohibition or restriction notified for that wāhi tapu or wāhi tapu area, and is liable on conviction to a fine not exceeding $5,000.
-(3) Despite subsection (2), the offence provisions of the Historic Places Act 1993 apply if a wāhi tapu or wāhi tapu area subject to a wāhi tapu protection right—
-  (a) is protected by a heritage covenant under section 6 of that Act; or
-  (b) has interim registration under section 26 of that Act.
+(3) Despite subsection (2), the offence provisions of the Heritage New Zealand Pouhere Taonga Act 2014 apply if a wāhi tapu or wāhi tapu area subject to a wāhi tapu protection right is protected by a heritage covenant under section 39 of that Act.
 (4) To avoid doubt, it is not an offence for a person to do anything that is inconsistent with the prohibition or restriction included in the wāhi tapu conditions if—
   (a) the person is carrying out an emergency activity (within the meaning of section 63); or
-  (b) the person has an exemption notified under section 79(1)(c).
+  (b) the person has an exemption notified under section 79(1)﻿(c).
 
 **Ngā taonga tūturu**
 
@@ -1144,7 +1142,7 @@ If the Minister of Conservation is proposing to prepare, issue, change, review, 
   (a) the relevant customary marine title group is entitled to have interim custody of the taonga tūturu, at the discretion of the chief executive and subject to any conditions that the chief executive considers fit; and
   (b) the public notice given by the chief executive must provide for a period of 6 months from the date of the notice for any claims of ownership to the taonga tūturu to be lodged.
 (5) To avoid doubt, the discretion conferred on the chief executive or other person by section 11(2) of the Protected Objects Act 1975 to apply to the Māori Land Court also applies under this section.
-(6) If no competing claims have been lodged with the chief executive after 6 months from the date of the notice given under subsection (4)(b), the relevant customary marine title group becomes the owner of the taonga tūturu.
+(6) If no competing claims have been lodged with the chief executive after 6 months from the date of the notice given under subsection (4)﻿(b), the relevant customary marine title group becomes the owner of the taonga tūturu.
 (7) If competing claims are lodged in respect of the taonga tūturu within the specified time,—
   (a) the relevant customary marine title group must be treated as having also lodged a claim for the ownership of the taonga tūturu; and
   (b) the ownership of the taonga tūturu must be determined in accordance with sections 11(6) and (7) and 12 of the Protected Objects Act 1975.
@@ -1167,12 +1165,12 @@ If the Minister of Conservation is proposing to prepare, issue, change, review, 
   (d) the obligations on those holders or any other person imposed by or under the Crown Minerals Act 1991; and
   (e) the exercise by the Crown of its functions and powers under the Crown Minerals Act 1991 in relation to any of the matters referred to in paragraphs (a) to (d).
 (2) A customary marine title group is entitled to receive the following royalties:
-  (a) from the Crown, any royalties due to the Crown under the Crown Minerals Act 1991 in respect of minerals (other than petroleum, gold, silver, and uranium existing in their natural condition) that are subject to any privilege referred to in subsection (1)(a) to (d) that applies to its customary marine title area; and
+  (a) from the Crown, any royalties due to the Crown under the Crown Minerals Act 1991 in respect of minerals (other than petroleum, gold, silver, and uranium existing in their natural condition) that are subject to any privilege referred to in subsection (1)﻿(a) to (d) that applies to its customary marine title area; and
   (b) from the regional council, any royalties for sand and shingle taken from the customary marine title area imposed by regulations made under the Resource Management Act 1991.
 (3) Royalties due under subsection (2)—
   (a) are payable on and after the date on which—
     (i) a customary marine title order is sealed under section 113; or
-    (ii) an agreement is brought into effect under section 96(1)(b); but
+    (ii) an agreement is brought into effect under section 96(1)﻿(b); but
   (b) must be calculated from the date on which an application is made for—
     (i) a recognition agreement under section 95; or
     (ii) a recognition order under section 100.
@@ -1193,7 +1191,7 @@ If the Minister of Conservation is proposing to prepare, issue, change, review, 
   (b) if it relates to areas outside the customary marine title area, only to the part of the common marine and coastal area where the group exercises kaitiakitanga.
 (5) The planning document may include only matters that may be regulated under—
   (a) the Conservation Act 1987 or the Acts listed in Schedule 1 of that Act:
-  (b) the Historic Places Act 1993:
+  (b) the Heritage New Zealand Pouhere Taonga Act 2014:
   (c) the Local Government Act 2002:
   (d) the Resource Management Act 1991.
 
@@ -1213,10 +1211,10 @@ The obligations arising under sections 89 and 91 do not apply to applications fo
 (1) This section applies if a planning document is lodged with a local authority that has statutory functions in the district or region where the customary marine title area is located.
 (2) On and after the date that a planning document is registered, the local authority must take the planning document into account when making any decision under the Local Government Act 2002 in relation to the customary marine title area.
 
-### 89 Obligation on New Zealand Historic Places Trust
-If a customary marine title group lodges a planning document with the New Zealand Historic Places Trust (the Trust), on and after the date that the planning document is registered,—
-  (a) the Trust must have particular regard to matters set out in the document that relate to the functions of the Trust when considering an application under section 14 of the Historic Places Act 1993 to destroy, damage, or modify an archaeological site within the customary marine title area of the group; and
-  (b) in the event of an appeal under section 20 of that Act against a decision of the Trust made under paragraph (a), the Environment Court must have particular regard to the planning document.
+### 89 Obligation on Heritage New Zealand Pouhere Taonga
+If a customary marine title group lodges a planning document with Heritage New Zealand Pouhere Taonga, on and after the date that the planning document is registered,—
+  (a) Heritage New Zealand Pouhere Taonga must have particular regard to matters set out in the document that relate to the functions of Heritage New Zealand Pouhere Taonga when considering an application under section 44 of the Heritage New Zealand Pouhere Taonga Act 2014 to destroy or modify an archaeological site within the customary marine title area of the group; and
+  (b) in the event of an appeal under section 58 of that Act against a decision of Heritage New Zealand Pouhere Taonga made under paragraph (a), the Environment Court must have particular regard to the planning document.
 
 ### 90 Obligation on Director-General
 (1) If a customary marine title group lodges a planning document with the Director-General, the Director-General must, on and after the date that a planning document is registered, take into account the relevant matters set out in the document when reviewing or amending a conservation management strategy that directly affects the customary marine title area of the group that lodged the planning document.
@@ -1251,8 +1249,8 @@ Identification and application of resource management matters included in planni
   (b) 30 working days after the date that the customary marine title group is informed of the decision under subsection (11) that no alterations are to be made to the relevant regional documents.
 Obligations with respect to relevant regional documents
 (6) A regional council must initiate a process to determine whether to alter its relevant regional documents, if and to the extent that any alteration would achieve the purpose of the Resource Management Act 1991, in order to—
-  (a) recognise and provide for any matters identified under subsection (2)(a); and
-  (b) take into account any matters identified under subsection (2)(b).
+  (a) recognise and provide for any matters identified under subsection (2)﻿(a); and
+  (b) take into account any matters identified under subsection (2)﻿(b).
 (7) The process required by subsection (6) may be commenced—
   (a) at any time after a planning document is registered; but
   (b) not later than the first proposed change to, or variation or review of, any provision in a relevant regional document that applies to a customary marine title area.
@@ -1299,10 +1297,10 @@ Obligations with respect to relevant regional documents
     (i) the applicant group in sufficient detail to identify it; and
     (ii) the area to which the agreement relates, with a map or diagram that is sufficient to identify the area; and
   (b) in the case of an agreement to recognise customary marine title, by an Act of Parliament on the date specified in the enactment.
-(2) The responsible Minister must introduce legislation into Parliament that contains the full text of the agreement for the purpose of subsection (1)(b).
+(2) The responsible Minister must introduce legislation into Parliament that contains the full text of the agreement for the purpose of subsection (1)﻿(b).
 
 ### 97 Notification of agreement recognising protected customary rights
-The responsible Minister must, without delay, provide a copy of any agreement recognising a protected customary right and brought into effect under section 96(1)(a) to—
+The responsible Minister must, without delay, provide a copy of any agreement recognising a protected customary right and brought into effect under section 96(1)﻿(a) to—
   (a) the chief executive; and
   (b) the local authorities that are affected by the agreement; and
   (c) the Minister of Conservation; and
@@ -1324,7 +1322,7 @@ The responsible Minister must, without delay, provide a copy of any agreement re
   (b) the Treaty of Waitangi:
   (c) the existence of a trust:
   (d) an obligation of any kind.
-(6) Nothing in this section limits section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1993.
+(6) Nothing in this section limits section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992.
 (7) Subsection (3) does not limit section 112.
 
 ### 99 Court may refer to Māori Appellate Court or pūkenga for opinion or advice on tikanga
@@ -1351,7 +1349,7 @@ An application for a recognition order must—
   (f) name a person to be the holder of the order as the representative of the applicant group; and
   (g) specify contact details for the group and for the person named to hold the order; and
   (h) be supported by an affidavit or affidavits that set out in full the basis on which the applicant group claims to be entitled to the recognition order; and
-  (i) contain any other information required by regulations made under section 118(1)(i).
+  (i) contain any other information required by regulations made under section 118(1)﻿(i).
 
 ### 102 Service of application
 The applicant group applying for a recognition order must serve the application on—
@@ -1438,7 +1436,7 @@ Rules not inconsistent with this Act may be made under section 51C of the Judica
   (a) publicly notify the conditions; and
   (b) give written notice of the conditions to—
     (i) the customary marine title group; and
-    (ii) the New Zealand Historic Places Trust.
+    (ii) Heritage New Zealand Pouhere Taonga.
 
 ### 111 Recognition order may be varied or cancelled
 (1) The Court may—
@@ -1636,7 +1634,7 @@ In determining whether a proposed activity will, or is likely to, have an advers
 (1) This clause applies if—
   (a) a protected customary rights group gives written approval under section 55(2) for a resource consent for a proposed activity; and
   (b) the proposed activity, if carried out under the resource consent, would have the effect of preventing, in whole or in part, the exercise of a protected customary right.
-(2) The protected customary rights group must acknowledge in writing that the resource consent, if granted, would have the effect described in subclause (1)(b).
+(2) The protected customary rights group must acknowledge in writing that the resource consent, if granted, would have the effect described in subclause (1)﻿(b).
 (3) Both the written approval given under section 55(2) and the written acknowledgement required by subclause (2)—
   (a) form part of the application for the resource consent for the proposed activity; and
   (b) if a resource consent is granted, form part of the resource consent for that activity.
@@ -1727,8 +1725,8 @@ The Minister of Conservation must—
 (2) The written notice must be given to the Minister of Conservation and the relevant protected customary rights group.
 (3) Written notice given under subclause (1) must be given—
   (a) for an assessment required by the Minister of Conservation under clause 8(1), not later than 5 working days after receiving a direction from the Minister:
-  (b) for an assessment under clause 8(4)(a) or (b), not later than 5 working days after deciding to carry out an adverse effects assessment:
-  (c) for a decision referred to in subclause (1)(b), not later than 25 working days after the protected customary rights order or agreement is registered.
+  (b) for an assessment under clause 8(4)﻿(a) or (b), not later than 5 working days after deciding to carry out an adverse effects assessment:
+  (c) for a decision referred to in subclause (1)﻿(b), not later than 25 working days after the protected customary rights order or agreement is registered.
 
 ### 10 Process and relevant considerations for adverse effects assessment
 A regional council, in carrying out an adverse effects assessment under this Part,—
@@ -1790,7 +1788,7 @@ The Minister of Conservation may—
 ### Part 1 — Deemed accommodated infrastructure
 
 ### 1
-Prior to an application being lodged under the Resource Management Act 1991 for any resource consents for proposed infrastructure (within the meaning of section 65(1)(a)) in a customary marine title area, the proposed infrastructure may become a deemed accommodated activity in accordance with this Part.
+Prior to an application being lodged under the Resource Management Act 1991 for any resource consents for proposed infrastructure (within the meaning of section 65(1)﻿(a)) in a customary marine title area, the proposed infrastructure may become a deemed accommodated activity in accordance with this Part.
 
 ### 2
 Any person listed in paragraph (b) of the definition of accommodated infrastructure in section 63 may apply to the Minister for Land Information to declare a proposed infrastructure to be a deemed accommodated activity. In this Part, Minister means the Minister of Land Information.
@@ -1802,7 +1800,7 @@ In applying under this Part, the applicant must provide to the Minister the foll
   (ii) must meet the requirements of the Cadastral Survey Act 2002 as if it were a cadastral survey within the meaning of that Act; and
 (b) a detailed description of the proposed infrastructure, including all of the relevant resource consents that will be applied for in support of the proposed infrastructure; and
 (c) a detailed description of the purpose for which the proposed infrastructure is to be used; and
-(d) why the applicant considers that the proposed infrastructure complies with section 65(1)(a)(iii); and
+(d) why the applicant considers that the proposed infrastructure complies with section 65(1)﻿(a)﻿(iii); and
 (e) an assessment of all practicable alternative locations (within or outside the coastal marine area), and reasons why the proposed infrastructure cannot practicably be constructed in any location outside of the customary marine title area; and
 (f) a description of the negotiations that have already taken place with the customary marine title group and, on the basis of those negotiations, reasons why the applicant considers it cannot reasonably obtain the permission of that group for the proposed infrastructure.
 
@@ -1940,13 +1938,13 @@ A consent authority must decide that a customary marine title group is an affect
 ### 237G Compensation
 (1) This section applies if—
   (a) the bed of a river or lake—
-    (i) is vested in the Crown in accordance with section 237A(1)(a); and
+    (i) is vested in the Crown in accordance with section 237A(1)﻿(a); and
     (ii) adjoins, or would adjoin if it were not for an esplanade reserve, any allotment of 4 hectares or more when land is subdivided; or
   (b) land that is within the coastal marine area—
-    (i) becomes part of the common marine and coastal area in accordance with section 237A(1)(b); and
+    (i) becomes part of the common marine and coastal area in accordance with section 237A(1)﻿(b); and
     (ii) adjoins, or would adjoin if it were not for an esplanade reserve, any allotment of 4 hectares or more created when land is subdivided.
-(2) In the case of land referred to in subsection (1)(a), the Crown or territorial authority, as the case may be, must pay compensation to the registered proprietor of that land, unless the registered proprietor agrees otherwise.
-(3) In the case of land referred to in subsection (1)(b), the Crown must pay compensation to the registered proprietor of that land, unless the registered proprietor agrees otherwise.
+(2) In the case of land referred to in subsection (1)﻿(a), the Crown or territorial authority, as the case may be, must pay compensation to the registered proprietor of that land, unless the registered proprietor agrees otherwise.
+(3) In the case of land referred to in subsection (1)﻿(b), the Crown must pay compensation to the registered proprietor of that land, unless the registered proprietor agrees otherwise.
 
 ### 1A Matters to be included in assessment of effects on environment
 An assessment of effects on the environment for the purposes of section 88 must include, in a case where the activity for which a resource consent is sought will, or is likely to, have adverse effects that are more than minor on the exercise of a protected customary right, a description of possible alternative locations or methods for the exercise of the proposed activity (unless written approval for the proposed activity is given by the protected customary rights group).
