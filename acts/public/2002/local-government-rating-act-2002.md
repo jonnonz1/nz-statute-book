@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -1582,7 +1582,7 @@ Land used by a local authority—
 
 ### 5
 Land owned or used by, and for the purposes of,—
-(a) the New Zealand Historic Places Trust:
+(a) Heritage New Zealand Pouhere Taonga:
 (b) the Queen Elizabeth the Second National Trust:
 (c) the Museum of New Zealand Te Papa Tongarewa Board:
 (d) the charitable trust known as Children’s Health Camps—The New Zealand Foundation for Child and Family Health and Development:
