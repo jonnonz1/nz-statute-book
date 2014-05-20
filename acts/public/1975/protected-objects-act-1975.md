@@ -1,5 +1,5 @@
 # Protected Objects Act 1975
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-05-20_
 
 > Title
 
@@ -313,7 +313,7 @@ A person may not import into New Zealand an unlawfully exported protected foreig
 (2) Notwithstanding the provisions of subsection (1), if actual or traditional ownership, rightful possession, or custody of any taonga tūturu referred to in that subsection is subsequently claimed, the chief executive or any person who may have any right, title, estate, or interest in any such taonga tūturu may apply to the Maori Land Court to exercise any part of its jurisdiction under section 12:
   provided that no right, title, estate, or interest in any such taonga tūturu shall exist or be deemed to exist solely by virtue of ownership or occupation of the land from which the taonga tūturu was found or recovered.
 (3) Every person who, after the commencement of this Act, finds any taonga tūturu anywhere in New Zealand or within the territorial waters of New Zealand shall, within 28 days of finding the taonga tūturu, notify either the chief executive or the nearest public museum, which shall notify the chief executive, of the finding of the taonga tūturu:
-  provided that in the case of any taonga tūturu found during the course of any archaeological investigation authorised by the New Zealand Historic Places Trust under section 44 of the Historic Places Act 1980, the notification shall be made within 28 days of the completion of the field work undertaken in connection with the investigation.
+  provided that in the case of any taonga tūturu found during the course of any archaeological investigation authorised by Heritage New Zealand Pouhere Taonga under section 48 of the Heritage New Zealand Pouhere Taonga Act 2014, the notification shall be made within 28 days of the completion of the field work undertaken in connection with the investigation.
 (4) Upon receipt of a notification in accordance with subsection (3), the chief executive must—
   (a) take the action that the chief executive considers appropriate to—
     (i) provide for the examination of the taonga tūturu, its care, its recording, and its custody on such conditions as the chief executive considers fit; and
@@ -362,14 +362,14 @@ If taonga tūturu are found in a part of the common marine and coastal area for 
 (1) After the commencement of this Act no collector shall add or attempt to add to his or her collection of ngā taonga tūturu and no person shall be granted custody of any taonga tūturu by the chief executive unless the collector or person has been registered as a collector of ngā taonga tūturu by the chief executive.
 (2) The chief executive shall, where reasonable grounds for doing so exist, have power to refuse registration and in particular shall not be required to register as a collector of ngā taonga tūturu any person—
   (a) who is not ordinarily resident in New Zealand; or
-  (b) who has been convicted of an offence against any provision of this Act or of the Historic Places Act 1980.
+  (b) who has been convicted of an offence against any provision of this Act or of the Heritage New Zealand Pouhere Taonga Act 2014.
 (3) It shall be a condition of registration of any person as a registered collector that—
   (a) except in the case of a gift or bequest to a relative of that person, disposal of part or the whole of his or her collection shall be only to another registered collector, to a public museum, or through the offices of a licensed auctioneer or a licensed secondhand dealer:
   (b) his or her collection shall be made available for examination at any reasonable time by any person so authorised by the chief executive:
   (c) he or she will undertake to notify the chief executive of any change in his or her collection which has taken place otherwise than through the offices of a licensed auctioneer or a licensed secondhand dealer within 14 days of such change:
   (d) he or she will notify the chief executive of any change in the place at which the collection is held within 14 days after the date of the change.
 (4) Every application for registration as a collector of ngā taonga tūturu shall be in the form provided by the chief executive, and, where registration is granted by the chief executive to any person, a certificate of registration shall be issued to the applicant under the hand of the chief executive.
-(5) The chief executive shall revoke the registration of any registered collector who is convicted of an offence against this Act or the Historic Places Act 1980.
+(5) The chief executive shall revoke the registration of any registered collector who is convicted of an offence against this Act or the Heritage New Zealand Pouhere Taonga Act 2014.
 (6) Every person commits an offence who,—
   (a) not being a registered collector,—
     (i) acquires or attempts to acquire a taonga tūturu, knowing or having reasonable cause to suspect that it is a taonga tūturu, otherwise than in accordance with any provision of this Act; or
@@ -400,7 +400,7 @@ If taonga tūturu are found in a part of the common marine and coastal area for 
 (3) Every licensed auctioneer and licensed secondhand dealer shall be issued with a licence under the hand of the chief executive and unless sooner revoked or surrendered the licence shall remain in force until 31 January in the year following that in which it was issued and then expire, but may be renewed.
 (4) Every application for a licence or for the annual renewal of a licence as an auctioneer or secondhand dealer under this section shall be in the form provided by the chief executive, and shall be forwarded to the chief executive, together with a fee of $50.
 (5) The chief executive shall revoke the licence of any licensed auctioneer or licensed secondhand dealer—
-  (a) who is convicted of an offence against this Act or the Historic Places Act 1980; or
+  (a) who is convicted of an offence against this Act or the Heritage New Zealand Pouhere Taonga Act 2014; or
   (b) who ceases to be an auctioneer licensed under the Auctioneers Act 1928 or, as the case may be, a secondhand dealer licensed under the Secondhand Dealers and Pawnbrokers Act 2004.
 (6) Every person commits an offence who,—
   (a) in a manner contrary to the provisions of this section, purchases or attempts to purchase, or sells or attempts to sell, a taonga tūturu, knowing or having reasonable cause to suspect that it is a taonga tūturu, or falsely declares to any person that he or she is a licensed auctioneer or a licensed secondhand dealer; or
@@ -561,7 +561,7 @@ This category includes any taonga tūturu.
 (4) Duplicates of a category of type specimen as defined by the current edition of the International Code of Botanical Nomenclature, the International Code of Zoological Nomenclature, or the International Code of Nomenclature of Bacteria: Bacteriological Code may be excluded from this category if there is sufficient original type material held in New Zealand public collections to define the taxon.
 
 ### 6 New Zealand archaeological objects
-This category consists of any objects, assemblages, scientific samples, and organic remains derived from a New Zealand archaeological site, as defined by the Historic Places Act 1993.
+This category consists of any objects, assemblages, scientific samples, and organic remains derived from a New Zealand archaeological site, as defined by the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 7 Numismatic and philatelic objects
 (1) The philatelic category consists of any items of the New Zealand Post Museum Collection.
