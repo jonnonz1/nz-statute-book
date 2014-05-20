@@ -1,5 +1,5 @@
 # Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 The Relationship of Waikato-Tainui with the Waikato River
@@ -310,7 +310,7 @@ This Act binds the Crown.
   (b) Fisheries Act 1996:
   (c) Forests Act 1949:
   (d) Health Act 1956:
-  (e) Historic Places Act 1993:
+  (e) Heritage New Zealand Pouhere Taonga Act 2014:
   (f) Land Drainage Act 1908:
   (g) Local Government Act 1974:
   (h) Local Government Act 2002:
