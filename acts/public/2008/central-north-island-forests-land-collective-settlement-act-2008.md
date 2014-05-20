@@ -1,5 +1,5 @@
 # Central North Island Forests Land Collective Settlement Act 2008
-_Consolidation as at 2008-12-31_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) The historical CNI forests land claims made by the Central North Island iwi to the Central North Island (CNI) forests land are based on historical breaches of the Treaty of Waitangi by the Crown and the desire of those iwi to secure the return of that land and to achieve an enduring settlement of those claims:
@@ -452,7 +452,7 @@ Amendment(s) incorporated in the Act(s).
   (c) promotes whanaungatanga, manaakitanga, and kotahitanga amongst the iwi; and
   (d) recognises the desirability of post-settlement collaboration between them in the collective management of assets.
 (4) Allocation of CNI forests land will be to iwi only, or their nominees (acknowledging that it is up to iwi whether they make their own internal arrangements with hapū or other entities).
-(5) The CNI Iwi Collective acknowledges its intention to respect any existing arrangements between iwi and district or regional councils, the Historic Places Trust, or Crown forestry licensees.
+(5) The CNI Iwi Collective acknowledges its intention to respect any existing arrangements between iwi and district or regional councils, Heritage New Zealand Pouhere Taonga, or Crown forestry licensees.
 
 ### 3 Governance of process
 (1) Each iwi will be represented by their governance entity in the resolution process.
