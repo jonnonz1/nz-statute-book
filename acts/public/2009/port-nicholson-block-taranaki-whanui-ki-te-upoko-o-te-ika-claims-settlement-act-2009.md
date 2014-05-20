@@ -1,5 +1,5 @@
 # Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009.
@@ -52,7 +52,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
 
 ### 7 Interpretation
 In this Act, unless the context requires another meaning,—
-  - **actual deferred settlement date** , in relation to a deferred selection property, means the date on which settlement of the property takes place under clause 4.66 of the provisions schedule of the deed of settlement
+  - **actual deferred settlement date** , in relation to a deferred selection property, means the date on which settlement of the property takes place under clause 4.53 of the provisions schedule of the deed of settlement
   - **aquatic life** has the meaning given to it in section 2(1) of the Conservation Act 1987
   - **authorised person** ,—
     (a) in respect of a cultural redress property, has the meaning given to it in section 73(11); and
@@ -95,21 +95,21 @@ In this Act, unless the context requires another meaning,—
       (ii) any amendments to the deed or its schedules and attachments
   - **deferred selection property** means a property described in subpart H of Part 4 of the provisions schedule of the deed of settlement
   - **Director-General** means the Director-General of Conservation
-  - **DOC protocol** means a protocol issued by the Minister of Conservation under section 17(1)(a), including any amendments made under section 17(1)(b)
+  - **DOC protocol** means a protocol issued by the Minister of Conservation under section 17(1)﻿(a), including any amendments made under section 17(1)﻿(b)
   - **DOC protocol area** means the area shown on the map attached to the DOC protocol
   - **effective date** means the date that is 6 months after the settlement date
   - **encumbrance** means a lease, tenancy, licence, licence to occupy, easement, covenant, or other right affecting a property
-  - **fisheries protocol** means a protocol issued by the Minister of Fisheries under section 17(1)(a), including any amendments made under section 17(1)(b)
+  - **fisheries protocol** means a protocol issued by the Minister of Fisheries under section 17(1)﻿(a), including any amendments made under section 17(1)﻿(b)
   - **fisheries protocol area** means the area shown on the map attached to the fisheries protocol, together with the adjacent waters
   - **freshwater fisheries management plan** has the meaning given to it in section 2(1) of the Conservation Act 1987
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued by section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **historical claims** has the meaning given to it in section 9
   - **jointly established trust** has the meaning given to it in section 46(5)
   - **land holding agency** , in relation to a deferred selection property, means the land holding agency specified for that property in subpart H of Part 4 of the provisions schedule of the deed of settlement
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given to it in section 5(1) of the Local Government Act 2002
-  - **member of Taranaki Whānui ki Te Upoko o Te Ika** means every individual referred to in section 8(2)(a)
-  - **Ministry for Culture and Heritage protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 17(1)(a), including any amendments made under section 17(1)(b)
+  - **member of Taranaki Whānui ki Te Upoko o Te Ika** means every individual referred to in section 8(2)﻿(a)
+  - **Ministry for Culture and Heritage protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 17(1)﻿(a), including any amendments made under section 17(1)﻿(b)
   - **national park management plan** has the same meaning as management plan in section 2 of the National Parks Act 1980
   - **Port Nicholson Block Settlement Trust** means the trust established by the Port Nicholson Block Settlement Trust deed
   - **Port Nicholson Block Settlement Trust deed** —
@@ -117,7 +117,7 @@ In this Act, unless the context requires another meaning,—
     (b) includes—
       (i) the schedules of the deed of trust; and
       (ii) any amendments to the deed of trust or its schedules
-  - **protocol** means a protocol issued under section 17(1)(a), including any amendments made under section 17(1)(b)
+  - **protocol** means a protocol issued under section 17(1)﻿(a), including any amendments made under section 17(1)﻿(b)
   - **regional council** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **Registrar-General** means the Registrar-General of Land, appointed under section 4 of the Land Transfer Act 1952
   - **related company** has the meaning given to it in section 2(3) of the Companies Act 1993
@@ -125,8 +125,8 @@ In this Act, unless the context requires another meaning,—
   - **representative entity** means—
     (a) the trustees; and
     (b) any person (including any trustees) acting for, or on behalf of,—
-      (i) the collective group referred to in section 8(2)(a); or
-      (ii) 1 or more of the whānau, hapū, or groups that together form the collective group referred to in section 8(2)(a); or
+      (i) the collective group referred to in section 8(2)﻿(a); or
+      (ii) 1 or more of the whānau, hapū, or groups that together form the collective group referred to in section 8(2)﻿(a); or
       (iii) 1 or more members of Taranaki Whānui ki Te Upoko o Te Ika
   - **resource consent** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **responsible department** means, as the case may be, 1 of the following departments of State:
@@ -174,14 +174,14 @@ In this Act, unless the context requires another meaning,—
     (ii) also descend from 1 or more of—
       (A) the original signatories of the 27 September 1839 Port Nicholson Block purchase deed; and
       (B) the persons listed in the Schedule to the Declaration of the Native Land Court in Wellington dated 11 April 1888; and
-      (C) other persons not referred to in subsubparagraph (A) or (B), but who exercised customary rights in the Port Nicholson Block, Wellington District, on or after 6 February 1840 by virtue of being descended from 1 or more of the recognised ancestors of the iwi referred to in paragraph (a)(i); and
+      (C) other persons not referred to in subsubparagraph (A) or (B), but who exercised customary rights in the Port Nicholson Block, Wellington District, on or after 6 February 1840 by virtue of being descended from 1 or more of the recognised ancestors of the iwi referred to in paragraph (a)﻿(i); and
   (b) any whānau, hapū, or group (including a group composed of the beneficiaries of the Wellington Tenths Trust and a group composed of the beneficiaries of the Palmerston North Māori Reserves Trust) to the extent that it is composed of individuals referred to in paragraph (a); and
   (c) every individual referred to in paragraph (a).
-(3) In subsection (2)(a), a person is descended from another person if the first person is descended from the other by—
+(3) In subsection (2)﻿(a), a person is descended from another person if the first person is descended from the other by—
   (a) birth; or
   (b) legal adoption; or
   (c) Māori customary adoption in accordance with Taranaki Whānui ki Te Upoko o Te Ika tikanga (customary values and practices).
-(4) In subsection (2)(a),—
+(4) In subsection (2)﻿(a),—
   - **customary rights** means rights according to tikanga Māori (Māori customary values and practices) including—
     (a) rights to occupy land; and
     (b) rights in relation to the use of land or other natural or physical resources
@@ -212,10 +212,10 @@ In this Act, unless the context requires another meaning,—
     (x) Wai 735—Whanganui a Tara (Ngāti Tama) claim; and
   (c) includes every other claim to the Waitangi Tribunal to which paragraph (a) applies so far as it relates to Taranaki Whānui ki Te Upoko o Te Ika (or a representative entity).
 (2) However, historical claims does not include the following claims:
-  (a) a claim that a member of Taranaki Whānui ki Te Upoko o Te Ika, or a whānau, hapū, or group referred to in section 8(2)(b), may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not referred to in section 8(2)(a):
-  (b) a claim that a member of Taranaki Whānui ki Te Upoko o Te Ika, or a whānau, hapū, or group referred to in section 8(2)(b), may have in relation to an excluded area:
+  (a) a claim that a member of Taranaki Whānui ki Te Upoko o Te Ika, or a whānau, hapū, or group referred to in section 8(2)﻿(b), may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not referred to in section 8(2)﻿(a):
+  (b) a claim that a member of Taranaki Whānui ki Te Upoko o Te Ika, or a whānau, hapū, or group referred to in section 8(2)﻿(b), may have in relation to an excluded area:
   (c) a claim that a representative entity may have to the extent the claim is, or is founded on, a claim referred to in paragraph (a) or (b).
-(3) In subsection (2)(b), excluded area means each of the following areas to the extent it is land within New Zealand:
+(3) In subsection (2)﻿(b), excluded area means each of the following areas to the extent it is land within New Zealand:
   (a) the South Island:
   (b) the Chatham Islands:
   (c) the Taranaki area:
@@ -224,7 +224,7 @@ In this Act, unless the context requires another meaning,—
   - **Kapiti Coast** means the district of the Kapiti Coast District Council as at the date of the deed of settlement
   - **land within New Zealand** means land within the baseline described in sections 5, 6, and 6A of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 (being the low-water mark along the coast of New Zealand, including the coast of all islands, except as otherwise provided in section 6 or 6A of that Act)
   - **Taranaki area** has the same meaning as in section 7.
-(5) To avoid doubt, subsection (1)(a) is not limited by subsection (1)(b) or (c).
+(5) To avoid doubt, subsection (1)﻿(a) is not limited by subsection (1)﻿(b) or (c).
 
 ### Subpart 3 — Settlement of historical claims
 
@@ -261,8 +261,8 @@ In this Act, unless the context requires another meaning,—
   (e) Part 3 of the New Zealand Railways Corporation Restructuring Act 1990.
 (3) However, this section applies to—
   (a) a deferred selection property only if—
-    (i) the trustees elect to purchase the property under paragraph 4.7 of the provisions schedule of the deed of settlement; and
-    (ii) the purchase is settled under clause 4.66 of that schedule; or
+    (i) the trustees elect to purchase the property under clause 4.7 of the provisions schedule of the deed of settlement; and
+    (ii) the purchase is settled under clause 4.53 of that schedule; or
   (b) the urupā site only on and from the date (described in section 48(7)) on which the site vests under section 48(1).
 
 ### 13 Removal of memorials
@@ -372,7 +372,7 @@ Protocols do not restrict—
 
 ### 24 Purposes of statutory acknowledgement
 (1) The only purposes of the statutory acknowledgement are to—
-  (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, as provided for in sections 25 to 27; and
+  (a) require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, as provided for in sections 25 to 27; and
   (b) require relevant consent authorities to forward summaries of resource consent applications to the trustees, as provided for in section 29; and
   (c) enable the trustees and any member of Taranaki Whānui ki Te Upoko o Te Ika to cite the statutory acknowledgement as evidence of the association of Taranaki Whānui ki Te Upoko o Te Ika with the relevant statutory areas, as provided for in section 30.
 (2) This section does not limit sections 33 to 35.
@@ -385,9 +385,11 @@ Protocols do not restrict—
 (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in determining under section 274 of the Resource Management Act 1991 whether the trustees are persons having an interest in proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or directly affecting the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 27 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) On and from the effective date, the Historic Places Trust and the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in forming an opinion under section 14(6)(a) or 20(1) of the Historic Places Act 1993, as the case may be, as to whether the trustees are (or, for the purpose of section 14(6)(a) of that Act, may be) persons directly affected in relation to an archaeological site within the statutory area.
-(2) In this section, archaeological site has the meaning given to it in section 2 of the Historic Places Act 1993.
+### 27 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 28 Recording statutory acknowledgement on statutory plans
 (1) On and from the effective date, each relevant consent authority must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover a statutory area.
@@ -410,11 +412,11 @@ Protocols do not restrict—
   (b) form an opinion as to whether the trustees are persons who may be adversely affected under those sections.
 
 ### 30 Use of statutory acknowledgement
-(1) The trustees and any member of Taranaki Whānui ki Te Upoko o Te Ika may, as evidence of the association of Taranaki Whānui ki Te Upoko o Te Ika with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or directly affecting the statutory area.
+(1) The trustees and any member of Taranaki Whānui ki Te Upoko o Te Ika may, as evidence of the association of Taranaki Whānui ki Te Upoko o Te Ika with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or directly affecting the statutory area.
 (2) The content of a statement of association is not, by virtue of the statutory acknowledgement, binding as fact on—
   (a) relevant consent authorities:
   (b) the Environment Court:
-  (c) the Historic Places Trust:
+  (c) Heritage New Zealand Pouhere Taonga:
   (d) parties to proceedings before those bodies:
   (e) any other person who is entitled to participate in those proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
@@ -451,7 +453,7 @@ The Minister of Conservation may—
 (1) Except as expressly provided in this subpart,—
   (a) the statutory acknowledgement and the deed of recognition do not affect, and may not be taken into account by, a person exercising a power or performing a function or duty under legislation or a bylaw; and
   (b) no person, in considering a matter or making a decision or recommendation under legislation or a bylaw, may give greater or lesser weight to the association of Taranaki Whānui ki Te Upoko o Te Ika with a statutory area (as described in a statement of association) than that person would give under the relevant legislation or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 34 Rights not affected
 Except as expressly provided in this subpart, the statutory acknowledgement and the deed of recognition do not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
@@ -589,7 +591,7 @@ The fee simple estate in the former Waiwhetu School site vests in the trustees.
   (c) not later than 3 years after the settlement date, any requirements under the Resource Management Act 1991 are met (including the obtaining of any resource consents) that are necessary to—
     (i) use the site as an urupā; and
     (ii) form the right of way to the specifications described in the easement referred to in paragraph (a).
-(5) Each document referred to in subsection (4)(a) and (b) must be provided in the form set out in Part 4 of the documents schedule of the deed of settlement.
+(5) Each document referred to in subsection (4)﻿(a) and (b) must be provided in the form set out in Part 4 of the documents schedule of the deed of settlement.
 (6) An easement or encumbrance granted in accordance with subsections (4) and (5) is—
   (a) enforceable in accordance with its terms, despite the provisions of Te Ture Whenua Maori Act 1993; and
   (b) to be treated as having been granted in accordance with that Act.
@@ -675,7 +677,7 @@ The registered proprietors of the lakebeds and esplanade land are not liable for
 ### 58 Wi Tako Scenic Reserve
 (1) The reservation of Wi Tako Scenic Reserve as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Wi Tako Scenic Reserve vests in the trustees.
-(3) Wi Tako Scenic Reserve is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Wi Tako Scenic Reserve is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Wi Tako Ngatata Scenic Reserve, despite section 16(10) of the Reserves Act 1977.
 (5) Upper Hutt City Council is the administering body of the reserve for the purposes of the Reserves Act 1977 and has the functions, obligations, and powers of an administering body under that Act, as if the reserve were vested in the Council under section 26 of that Act.
 
@@ -726,7 +728,7 @@ The registered proprietors of the lakebeds and esplanade land are not liable for
   (a) do not vest in the trustees; and
   (b) may remain in or on the land without the consent of, and without charge by, the registered proprietors of the land; and
   (c) may be used, occupied, accessed, repaired, maintained, removed, or demolished at any time without the consent of, and without charge by, the registered proprietors. However, if the owner of an improvement removes or demolishes it, the registered proprietors of the land may require the owner to leave the land concerned in a clean and tidy condition.
-(10) Subsection (9)(b) and (c) are subject to the terms of any lease granted in accordance with subsection (7).
+(10) Subsection (9)﻿(b) and (c) are subject to the terms of any lease granted in accordance with subsection (7).
 
 ### 64 Matiu Historic Reserve
 (1) The reservation of Matiu Historic Reserve as a historic reserve subject to section 18 of the Reserves Act 1977 is revoked.
@@ -760,11 +762,11 @@ The Harbour Islands Kaitiaki Board—
   (a) instead of the requirements under section 41(1),—
     (i) the Harbour Islands Kaitiaki Board must, within 24 months of becoming the administering body of the Harbour Islands reserves, prepare a management plan for the reserves; and
     (ii) the Board must submit the management plan to the Minister and the chairperson of the Port Nicholson Block Settlement Trust for their approval; and
-  (b) the Minister and the chairperson of the Port Nicholson Block Settlement Trust may together extend the period specified in paragraph (a)(i); and
+  (b) the Minister and the chairperson of the Port Nicholson Block Settlement Trust may together extend the period specified in paragraph (a)﻿(i); and
   (c) the Minister may not require the Board to review its management plan under section 41(4); and
   (d) the following provisions do not apply:
     (i) section 41(2) (Minister's power to extend the time within which the management plan must be submitted for approval):
-    (ii) section 41(6)(aa) (requirement to send copy of draft plan to designated officer):
+    (ii) section 41(6)﻿(aa) (requirement to send copy of draft plan to designated officer):
     (iii) section 41(7) (Minister's power to direct administering body to follow specified procedure if review of plan required under section 41(4)):
     (iv) section 41(15) (Minister's power to refuse to approve, or consent to, activity until plan approved).
 (2) Sections 42(1), 49, and 50 of the Reserves Act 1977 apply in relation to the Harbour Islands reserves as if references to the Minister were references to the Harbour Islands Kaitiaki Board.
@@ -841,7 +843,7 @@ Each cultural redress property vests under subpart 4 subject to, or together wit
   (b) Part 4A of the Conservation Act 1987 does not apply to the vesting of—
     (i) the bed of Lake Kohangatera and the Lake Kohangatera esplanade land under section 49(4); or
     (ii) the bed of Lake Kohangapiripiri and the Lake Kohangapiripiri esplanade land under section 50(5).
-(3) If the reservation, under subpart 4, of a reserve site is revoked in relation to all or part of the site, then the site's vesting referred to in subsection (2)(a) is no longer exempt from the rest of section 24 of the Conservation Act 1987 in relation to all or that part of the site, as the case may be.
+(3) If the reservation, under subpart 4, of a reserve site is revoked in relation to all or part of the site, then the site's vesting referred to in subsection (2)﻿(a) is no longer exempt from the rest of section 24 of the Conservation Act 1987 in relation to all or that part of the site, as the case may be.
 
 ### 75 Recording application of Part 4A of Conservation Act 1987 and sections of this Act
 (1) The Registrar-General must record on the computer freehold register for—
@@ -855,7 +857,7 @@ Each cultural redress property vests under subpart 4 subject to, or together wit
     (i) section 24 of the Conservation Act 1987 does not apply to the site; and
     (ii) the site is subject to sections 74(3) and 78 of this Act; or
   (b) part of the site, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on the computer freehold register for the part of the site that remains a reserve.
-(4) The Registrar-General must comply with an application received in accordance with subsection (3)(a).
+(4) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a).
 
 ### 76 Application of other enactments
 (1) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation, under subpart 4, of the reserve status of a cultural redress property.
@@ -868,7 +870,7 @@ Each cultural redress property vests under subpart 4 subject to, or together wit
 (4) The permission of a council under section 348 of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of the deed of settlement in relation to a cultural redress property.
 
 ### 77 Application of certain payments
-The Minister of Conservation may direct that any intra-Crown payment for the following sites be paid and applied in the manner specified in section 82(1)(a) of the Reserves Act 1977:
+The Minister of Conservation may direct that any intra-Crown payment for the following sites be paid and applied in the manner specified in section 82(1)﻿(a) of the Reserves Act 1977:
   (a) the bed of Lake Kohangatera:
   (b) the bed of Lake Kohangapiripiri, except Section 1 SO 406979:
   (c) Wi Tako Scenic Reserve:
@@ -1010,7 +1012,7 @@ In this subpart and Schedule 4, unless the context requires another meaning,—
   (b) land added to the RFR land schedule by an amendment to the deed of settlement if, on the date of the amendment or the settlement date (whichever is later),—
     (i) the land is vested in the Crown or the Crown holds the fee simple estate in the land; or
     (ii) a Crown body holds the fee simple estate in the land and has consented in writing to the land becoming RFR land; and
-  (c) land obtained in exchange for a disposal of RFR land under section 103(1)(c) or (d) or 105(a) or (c).
+  (c) land obtained in exchange for a disposal of RFR land under section 103(1)﻿(c) or (d) or 105(a) or (c).
 (2) However, land ceases to be RFR land when any of the following things happen:
   (a) the RFR landowner transfers the fee simple estate in the land to—
     (i) the trustees (for example, under section 97); or
@@ -1078,7 +1080,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 102 Disposals by the Crown under certain legislation
 The Crown may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 206 of the Education Act 1989; or
   (c) section 355(3), 355AA, or 355AB of the Resource Management Act 1991.
 
@@ -1086,8 +1088,8 @@ The Crown may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -1127,7 +1129,7 @@ The Capital and Coast District Health Board (established by section 19(1) of the
     (i) that prevents or limits an RFR landowner’s disposal of RFR land to the trustees; and
     (ii) that the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) Reasonable steps, for the purposes of subsection (1)(b)(ii), do not include steps to promote the passing of an enactment.
+(2) Reasonable steps, for the purposes of subsection (1)﻿(b)﻿(ii), do not include steps to promote the passing of an enactment.
 (3) This subpart does not limit any of the things referred to in subsection (1).
 
 **Notices**
