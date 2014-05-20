@@ -1,5 +1,5 @@
 # Estate and Gift Duties Act 1968
-_Consolidation as at 2014-04-30_
+_Consolidation as at 2014-05-20_
 
 > An Act to consolidate and amend the law relating to estate duty and gift duty
 
@@ -436,7 +436,7 @@ Where the Commissioner is satisfied that any gift is made for or towards the mai
 (1) Any gift creating a charitable trust, or establishing any society or institution exclusively for charitable purposes, or any gift in aid of any such trust, society, or institution, shall not constitute a dutiable gift if, at the time that the gift is made, the society, institution, or trustees of the trust is or are a tax charity, as that term is defined under section CW 41(5) of the Income Tax Act 2007.
 (2) Without limiting the provisions of subsection (1), the following classes of gifts shall not constitute dutiable gifts:
   (aa) any gift required by an order of a court under the Law Reform (Testamentary Promises) Act 1949 or the Family Protection Act 1955:
-  (a) any gift to the New Zealand Historic Places Trust for the purposes of the Historic Places Act 1993:
+  (a) any gift to Heritage New Zealand Pouhere Taonga for the purposes of the Heritage New Zealand Pouhere Taonga Act 2014:
   (b) any gift of a protected New Zealand object, as defined in the Protected Objects Act 1975, to the Minister of Internal Affairs on behalf of the Crown, or to any library, museum, or other public institution for the benefit of the public:
   (ba) any gift to the Museum of New Zealand Te Papa Tongarewa Board for the purposes of the Museum of New Zealand Te Papa Tongarewa Act 1992:
   (c) any gift to the Arts Council of New Zealand Toi Aotearoa for the purposes of the Arts Council of New Zealand Toi Aotearoa Act 2014:
