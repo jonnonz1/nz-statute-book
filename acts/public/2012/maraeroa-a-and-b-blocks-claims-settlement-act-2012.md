@@ -1,5 +1,5 @@
 # Maraeroa A and B Blocks Claims Settlement Act 2012
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 Background
@@ -164,7 +164,7 @@ In this Act, unless the context otherwise requires,—
   - **forestry right** means a forestry right registered under the Forestry Rights Registration Act 1983
   - **forestry right holder** means the holder of the forestry right and includes the successors and assignees of the forestry right holder
   - **freshwater fisheries management plan** has the meaning given in section 2(1) of the Conservation Act 1987
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued under section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **historical claims** has the meaning given in section 12
   - **licensed land** —
     (a) means the land described as licensed land in part 4 of the property redress schedule; but
@@ -357,7 +357,7 @@ The Crown acknowledges the statements of association.
 
 ### 24 Purposes of statutory acknowledgement
 (1) The only purposes of a statutory acknowledgement are to—
-  (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, in accordance with sections 25 to 27; and
+  (a) require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, in accordance with sections 25 to 27; and
   (b) require relevant consent authorities to provide summaries of resource consent applications or, as the case requires, copies of notices of applications, to the trustees in accordance with section 29; and
   (c) enable the trustees and any member of the settling group to cite a statutory acknowledgement as evidence of their association with the relevant statutory area, as provided for in section 30.
 (2) This section does not limit sections 33 to 35.
@@ -370,11 +370,11 @@ The Crown acknowledges the statements of association.
 (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in deciding, under section 274 of the Resource Management Act 1991, whether the trustees have an interest greater than that of the general public in respect of proceedings relating to an application for a resource consent for an activity within, adjacent to, or that directly affects a statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 27 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) If, on or after the effective date, an application is made under section 11 or 12 of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within a statutory area,—
-  (a) the Historic Places Trust, in exercising its powers under section 14 of the Historic Places Act 1993 in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
-  (b) the Environment Court, in determining under section 20 of the Historic Places Act 1993 any appeal against a decision of the Historic Places Trust in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in determining whether the trustees are directly affected by the decision.
-(2) In this section, archaeological site has the meaning given in section 2 of the Historic Places Act 1993.
+### 27 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 28 Recording statutory acknowledgement on statutory plans
 (1) On and from the effective date, a relevant consent authority must attach information recording a statutory acknowledgement to all statutory plans that wholly or partly cover a statutory area.
@@ -404,7 +404,7 @@ The Crown acknowledges the statements of association.
 The trustees and any member of the settling group may, as evidence of their association with a statutory area, cite the statutory acknowledgement that relates to that area in submissions or proceedings concerning activities within, adjacent to, or that directly affect the statutory area and that are made to or before—
   (a) the relevant consent authorities; or
   (b) the Environment Court; or
-  (c) the Historic Places Trust; or
+  (c) Heritage New Zealand Pouhere Taonga; or
   (d) the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991.
 
 ### 31 Content of statement of association not binding
@@ -762,8 +762,8 @@ Each cultural redress property vests under this subpart subject to, or together 
 
 ### 74 Meaning of protected site
 In this Part, protected site means any area of land situated in the licensed land or the unlicensed land that—
-  (a) is wāhi tapu or a wāhi tapu area within the meaning of section 2 of the Historic Places Act 1993; and
-  (b) is, or at any future time becomes, a registered place within the meaning of section 2 of that Act.
+  (a) is wāhi tapu or a wāhi tapu area within the meaning of section 6 of the Heritage New Zealand Pouhere Taonga Act 2014; and
+  (b) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero (as defined in section 6 of that Act).
 
 ### 75 Right of access to protected sites
 (1) The owner of the land on which a protected site is situated and any person holding an interest in, or a right of occupancy to, that land must allow access across the land to each protected site to Māori for whom the protected site is of special spiritual, cultural, or historical significance.
@@ -881,11 +881,11 @@ The Māori Land Court has and may exercise in respect of the protected land any 
 
 | Site | Legal description | Encumbrances |
 | --- | --- | --- |
-| Nga Herenga | South Auckland Land District—Waitomo District 1.1098 hectares, more or less, being Section 2 SO 441383. Part Computer Interest Register SAPR185/49. |  |
-| Koromiko | South Auckland Land District—Waitomo District 22.6445 hectares, more or less, being Section 2 SO 442898. Part Gazette 1978 page 2463. | Subject to the right of way easement in gross referred to in section 58(4). |
-| Kotukunui | South Auckland Land District—Waitomo District 35.4552 hectares, more or less, being Section 3 SO 442898. Part Gazette 1978 page 2463. | Subject to the conservation covenant referred to in section 59(4)(a). Subject to the right of way easement in gross referred to in section 59(4)(b). Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in section 59(4)(c). |
-| Pikiariki | South Auckland Land District—Waitomo District 130.6281 hectares, more or less, being Section 1 SO 441383. Part Computer Interest Register SAPR185/49. | Subject to the conservation covenant referred to in section 60(4). |
-| Waimiha Kei Runga | South Auckland Land District—Waitomo and Taupo Districts 1566.8160 hectares, more or less, being Section 1 SO 442816. Part Computer Freehold Register 532173. | Subject to an unregistered licence to occupy the HF radio site in favour of the Director-General of Conservation dated 3 November 2009. |
+| Nga Herenga | South Auckland Land District—Waitomo District1.1098 hectares, more or less, being Section 2 SO 441383. Part Computer Interest Register SAPR185/49. |  |
+| Koromiko | South Auckland Land District—Waitomo District22.6445 hectares, more or less, being Section 2 SO 442898. Part Gazette 1978 page 2463. | Subject to the right of way easement in gross referred to in section 58(4). |
+| Kotukunui | South Auckland Land District—Waitomo District35.4552 hectares, more or less, being Section 3 SO 442898. Part Gazette 1978 page 2463. | Subject to the conservation covenant referred to in section 59(4)(a).Subject to the right of way easement in gross referred to in section 59(4)(b). Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in section 59(4)(c). |
+| Pikiariki | South Auckland Land District—Waitomo District130.6281 hectares, more or less, being Section 1 SO 441383. Part Computer Interest Register SAPR185/49. | Subject to the conservation covenant referred to in section 60(4). |
+| Waimiha Kei Runga | South Auckland Land District—Waitomo and Taupo Districts1566.8160 hectares, more or less, being Section 1 SO 442816. Part Computer Freehold Register 532173. | Subject to an unregistered licence to occupy the HF radio site in favour of the Director-General of Conservation dated 3 November 2009. |
 |  |  | Subject to a right of way over part marked V and W on DP 310734 created by Deed of Easement 6869282.7 and held in Computer Interest Register 293507. |
 |  |  | Subject to the forestry right registered under the Forestry Rights Registration Act 1983. |
 |  |  | Subject to the conservation covenant referred to in section 61(3)(a). |
@@ -894,4 +894,4 @@ The Māori Land Court has and may exercise in respect of the protected land any 
 |  |  | Subject to the right of way easement in gross referred to in section 61(3)(d). |
 |  |  | Subject to the right of way easement in gross referred to in section 61(3)(e). |
 |  |  | Together with the right of way easement referred to in section 61(5). |
-| Whareana | South Auckland Land District—Waitomo District 31.8715 hectares, more or less, being Section 1 SO 442898. Part Gazette 1978 page 2463. | Subject to the conservation covenant referred to in section 62(4)(a). Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in section 62(4)(b). |
+| Whareana | South Auckland Land District—Waitomo District31.8715 hectares, more or less, being Section 1 SO 442898. Part Gazette 1978 page 2463. | Subject to the conservation covenant referred to in section 62(4)(a). Subject to the easement in gross for a right to convey electricity, telecommunications, and computer media referred to in section 62(4)(b). |
