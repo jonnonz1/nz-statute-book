@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-05-20_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -334,7 +334,7 @@ The provisions of this Act relating to the powers and duties of local authoritie
 ### 45 Clearance of closed cemeteries and closed burial grounds
 (1) The Minister may by any closing order or by any subsequent notice in the Gazette, on the application of the individual, body corporate, or local authority who has or will have the control and management of a closed cemetery or closed burial ground, direct that, notwithstanding anything in section 41 or section 42, no further burials shall take place in the closed cemetery or closed burial ground, and may in like manner authorise such individual, body corporate, or local authority to remove all or any of the monuments and tablets erected therein.
 (2) Any individual, body corporate, or local authority which proposes to make an application for an order under subsection (1) shall give public notice, in such form and in such manner as the Minister shall direct, of the proposed application. The application shall be made to the Minister and shall be accompanied by particulars of any objections to the application.
-(2A) Every individual, body corporate, or local authority which gives public notice under subsection (2) shall send a copy of that notice to the New Zealand Historic Places Trust.
+(2A) Every individual, body corporate, or local authority which gives public notice under subsection (2) shall send a copy of that notice to Heritage New Zealand Pouhere Taonga.
 (3) Upon the removal of any monuments and tablets pursuant to subsection (1), the individual, body corporate, or local authority having the control and management of the closed cemetery or closed burial ground shall—
   (a) dispose of the monuments and tablets or, if it sees fit, as far as practicable cause them to be re-erected or replaced in some part of the closed cemetery or closed burial ground set aside for the purpose:
   (b) cause to be compiled as complete a record as practicable of the names of all persons known to be buried in the closed cemetery or closed burial ground or in the part thereof from which any monuments or tablets are removed and the position therein of the graves of such persons:
