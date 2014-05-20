@@ -1,5 +1,5 @@
 # Fiordland (Te Moana o Atawhenua) Marine Management Act 2005
-_Consolidation as at 2005-04-21_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) Fiordland is a unique area that contains both exceptional marine biodiversity and valuable marine resources. Many marine species are found only in Fiordland, and some species (such as black and red corals) that are usually found only in very deep water occur in relatively shallow water in Fiordland. The fiords have become national icons and annually attract large numbers of tourists. The fiords and outer coast also support important commercial and recreational fisheries, notably rock lobster and blue cod.
