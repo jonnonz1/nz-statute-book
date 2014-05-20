@@ -1,5 +1,5 @@
 # Ngati Ruanui Claims Settlement Act 2003
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) The Treaty of Waitangi, as set out in English and in Maori in Schedule 1 of the Treaty of Waitangi Act 1975, was signed in 1840:
@@ -238,7 +238,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
 
 ### 12 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **archaeological site** has the meaning given to it in section 2 of the Historic Places Act 1993
+  - **archaeological site** has the meaning given to it in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
@@ -281,6 +281,7 @@ In this Act, unless the context otherwise requires,—
     (b) is in the form set out in Part 1 of the Cultural Redress Schedule, or as the protocol is amended under section 26
   - **fisheries protocol area** means the area shown on the map attached to the fisheries protocol, together with the adjacent waters
   - **governance entity** means Te Runanga o Ngaati Ruanui Trust established by deed of trust dated 10 December 2001, in accordance with clause 3.3 of the deed of settlement
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **indigenous species** means the indigenous fish, flora, and fauna species found within the DOC protocol area and for which the Department of Conservation has statutory responsibility
   - **land holding agent** means the Minister of the Crown responsible for the department of State that manages an existing or proposed Ukaipo site, or the Commissioner of Crown Lands, as the case may be
   - **local authority** has the meaning given to it in section 2(1) of the Resource Management Act 1991
@@ -913,7 +914,7 @@ The Crown acknowledges the statements made by Ngati Ruanui of the particular cul
 
 ### 89 Purposes of statutory acknowledgements
 (1) The only purposes of the statutory acknowledgements are—
-  (a) to require consent authorities, the New Zealand Historic Places Trust, or the Environment Court to have regard to the statutory acknowledgements in relation to the statutory areas, as provided for in sections 90 to 92:
+  (a) to require consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court to have regard to the statutory acknowledgements in relation to the statutory areas, as provided for in sections 90 to 92:
   (b) to require consent authorities to forward summaries of resource consent applications to the governance entity, as provided for in section 94:
   (c) to enable the governance entity and a member of Ngati Ruanui to cite the statutory acknowledgements as evidence of the association of Ngati Ruanui with the statutory areas, as provided for in section 95:
   (d) to enable the Minister of the Crown responsible for the management of the statutory areas, or the Commissioner of Crown Lands, to enter into deeds of recognition, as provided for in section 96.
@@ -926,8 +927,10 @@ From the effective date, and without limiting its obligations under Part 2 of th
 (1) From the effective date, the Environment Court must have regard to a statutory acknowledgement relating to a statutory area in determining, under section 274 of the Resource Management Act 1991, whether the governance entity is a person having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under Part 2 of the Resource Management Act 1991.
 
-### 92 New Zealand Historic Places Trust and Environment Court must have regard to statutory acknowledgements
-From the effective date, the New Zealand Historic Places Trust and the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in forming an opinion under section 14(6)(a) or section 20(1) of the Historic Places Act 1993, as the case may be, as to whether the governance entity is a person directly affected in relation to an archaeological site within the statutory area.
+### 92 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
+If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the governance entity is a person directly affected by the decision.
 
 ### 93 Recording of statutory acknowledgements on statutory plans
 (1) Local authorities with jurisdiction in an area that includes a statutory area must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover the statutory area.
@@ -952,11 +955,11 @@ From the effective date, the New Zealand Historic Places Trust and the Environme
 (5) In this section, relevant consent authority means a consent authority of the region or district that contains, or is adjacent to, a statutory area.
 
 ### 95 Use of statutory acknowledgement
-(1) The governance entity and a member of Ngati Ruanui may, as evidence of the association of Ngati Ruanui with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or the New Zealand Historic Places Trust concerning activities within, adjacent to, or impacting directly on the statutory area.
+(1) The governance entity and a member of Ngati Ruanui may, as evidence of the association of Ngati Ruanui with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the statutory area.
 (2) The content of the statement of association, as recorded in the statutory acknowledgement, is not, by virtue of the statutory acknowledgement, binding as deemed fact on—
   (a) consent authorities:
   (b) the Environment Court:
-  (c) the New Zealand Historic Places Trust:
+  (c) Heritage New Zealand Pouhere Taonga:
   (d) parties to proceedings before those bodies:
   (e) any other person able to participate in those proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
