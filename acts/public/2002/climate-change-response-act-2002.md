@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -1464,6 +1464,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
   (a) as calculated in accordance with this Act; and
   (b) at the times required under this Act.
 (2) If a participant is liable to surrender units under this Act, the participant must make an application under section 18C to transfer the required number of units from the participant’s holding account to a surrender account designated by the EPA.
+(3) Subsection (1) is subject to section 191(1)(c).
 
 ### 63A Modification of liability to surrender units to cover certain emissions
 (1) This section applies to a person who—
@@ -3838,7 +3839,9 @@ If post-1989 forest land is affected by a natural event that permanently prevent
     (i) required to be covered by the return under subsection (2), liable to surrender the unit balance of the carbon accounting area; and
     (ii) required to be covered by the return under subsection (3),—
       (A) liable to surrender the unit balance relating to any land removed from the carbon accounting area or on which the person has ceased to carry out the activity, plus or minus any units that the person is required to surrender for emissions or entitled to receive for removals in respect of the land remaining in the carbon accounting area, as calculated under subsection (4); or
-      (B) entitled to receive the number of units assessed as the participant’s entitlement for removals from the land remaining in the carbon accounting area, less the unit balance relating to any land removed from the carbon accounting area or upon which the person has ceased to carry out the activity, calculated under subsection (4).
+      (B) entitled to receive the number of units assessed as the participant’s entitlement for removals from the land remaining in the carbon accounting area, less the unit balance relating to any land removed from the carbon accounting area or upon which the person has ceased to carry out the activity, calculated under subsection (4); and
+  (c) must, despite section 63, use only New Zealand units to surrender the unit balance that the person is liable to surrender under paragraph (b).
+(1A) The purpose of subsection (1)(c) is to prevent reregistration arbitrage, which was an unintended consequence in the operation of the Act before the commencement of subsection (1)(c) and arose from significant differences between the price of New Zealand units and the price of certain Kyoto units.
 (2) An emissions return submitted under this section—
   (a) must,—
     (i) if subsection (1)(a)(i) applies, be in respect of all the carbon accounting areas in respect of which the person is or was recorded as a participant in relation to that activity; or
