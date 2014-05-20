@@ -1,5 +1,5 @@
 # Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) The Affiliate (comprising the Iwi and Hapu of Te Arawa that are now affiliated to the Te Pumautanga o Te Arawa trust) traditionally operated as independent entities, coming together when prompted by common interests. Together they exercised customary interests within the approximately 1 150 000-acre area from the Bay of Plenty coast to the inland Rotorua lakes and into the interior to the Mamaku Ranges and Kaingaroa Forest. Other iwi and hapu also exercised customary interests within this area. The Affiliate engaged with the opportunities created by the arrival of Pakeha traders and missionaries in its rohe from the 1830s. By the late 1860s, however, few Pakeha had settled in the area, and the Affiliate still held almost all of its land in customary title:
@@ -175,7 +175,7 @@ In this Act, unless the context otherwise requires,—
     (a) means the geothermal energy and geothermal water (within the meaning given to them in section 2(1) of the Resource Management Act 1991) located in the Rotorua region geothermal system; but
     (b) does not include any geothermal energy or geothermal water above the ground on land that is not owned by the Crown
   - **geothermal statutory acknowledgement** means the acknowledgement made by the Crown under section 36 in relation to a geothermal resource, on the terms set out in sections 36 to 42 and 44 to 46
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued under section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **Karamuramu Baths land** has the meaning given to it in section 120
   - **land holding agency** means, in relation to—
     (a) licensed land, LINZ:
@@ -465,7 +465,7 @@ Protocols do not restrict—
 
 ### 28 Purposes of statutory acknowledgement
 (1) The only purposes of the statutory acknowledgement are to—
-  (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, as provided for in sections 29 to 31; and
+  (a) require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, as provided for in sections 29 to 31; and
   (b) require relevant consent authorities to forward summaries of resource consent applications to the trustees, as provided for in section 33; and
   (c) enable the trustees and a member of the Affiliate to cite the statutory acknowledgement as evidence of the association of the Affiliate with the relevant statutory areas, as provided for in section 34.
 (2) This section does not limit sections 44 to 46.
@@ -478,9 +478,11 @@ Protocols do not restrict—
 (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in determining under section 274 of the Resource Management Act 1991 whether the trustees are persons having an interest in proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or directly affecting the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 31 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) On and from the effective date, the Historic Places Trust and the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in forming an opinion under section 14(6)(a) or 20(1) of the Historic Places Act 1993, as the case may be, as to whether the trustees are (or, for the purpose of section 14(6)(a) of that Act, may be) persons directly affected in relation to an archaeological site within the statutory area.
-(2) In this section, archaeological site has the meaning given to it in section 2 of the Historic Places Act 1993.
+### 31 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 32 Recording statutory acknowledgement on statutory plans
 (1) On and from the effective date, each relevant consent authority must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover a statutory area.
@@ -504,11 +506,11 @@ Protocols do not restrict—
   (b) form an opinion as to whether the trustees are persons who may be adversely affected under those sections.
 
 ### 34 Use of statutory acknowledgement
-(1) The trustees and any member of the Affiliate may, as evidence of the association of the Affiliate with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or directly affecting the statutory area.
+(1) The trustees and any member of the Affiliate may, as evidence of the association of the Affiliate with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or directly affecting the statutory area.
 (2) The content of a statement of association is not, by virtue of the statutory acknowledgement, binding as deemed fact on—
   (a) relevant consent authorities:
   (b) the Environment Court:
-  (c) the Historic Places Trust:
+  (c) Heritage New Zealand Pouhere Taonga:
   (d) parties to proceedings before those bodies:
   (e) any other person who is entitled to participate in those proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
@@ -1385,9 +1387,9 @@ In sections 121 to 123,—
 
 ### 135 Interpretation
 (1) In this subpart, protected site means any area of land situated in licensed land or the MAF forest land that—
-  (a) becomes a registered place; and
+  (a) is entered at any time on the New Zealand Heritage List/Rārangi Kōrero; and
   (b) is wahi tapu or a wahi tapu area.
-(2) In subsection (1), registered place, wahi tapu, and wahi tapu area have the meanings given to them in section 2 of the Historic Places Act 1993.
+(2) In subsection (1), New Zealand Heritage List/Rārangi Kōrero, wahi tapu, and wahi tapu area have the meanings given to them in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 136 Right of access to protected site
 (1) The owner of land on which a protected site is situated and any person holding an interest in, or a right of occupancy to, the land must allow the persons referred to in subsection (2) to have access across the land to each protected site.
