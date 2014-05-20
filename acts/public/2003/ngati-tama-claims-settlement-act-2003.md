@@ -1,5 +1,5 @@
 # Ngati Tama Claims Settlement Act 2003
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) The Treaty of Waitangi, as set out in English and in Maori in Schedule 1 of the Treaty of Waitangi Act 1975, was signed in 1840:
@@ -125,7 +125,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
 
 ### 9 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **archaeological site** has the meaning given to it in section 2 of the Historic Places Act 1993
+  - **archaeological site** has the meaning given to it in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign’s birthday, Labour Day, and Waitangi Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
@@ -166,7 +166,7 @@ In this Act, unless the context otherwise requires,—
     (b) is in the form set out in Part 1 of the Cultural Redress Schedule, or as the protocol is amended under section 20
   - **fisheries protocol area** means the area shown on the map attached to the fisheries protocol, together with the adjacent waters
   - **governance entity** means Te Runanga o Ngati Tama Trust established in accordance with clause 3.3 of the deed of settlement
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) provided for in section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **LINZ protocol** means a protocol issued under section 20 by the Minister for Land Information that—
     (a) sets out how Land Information New Zealand will consult with the governance entity before the Minister for Land Information resumes ownership from local authorities under section 323 of the Local Government Act 1974 of unformed roads within the LINZ protocol area; and
     (b) is in the form set out in Part 1 of the Cultural Redress Schedule, or as the protocol is amended under section 20
@@ -232,9 +232,9 @@ In this Act, unless the context otherwise requires,—
 (1) In this Act, Ngati Tama historical claims—
   (a) means every claim (whether or not the claim has arisen or been considered, researched, registered, or notified on or before the settlement date) that Ngati Tama (or a representative entity) had at, or at any time before, the settlement date, or may have at any time after the settlement date, and that—
     (i) is founded on a right arising—
-      (A) from the Treaty of Waitangi or the principles of the Treaty of Waitangi: or
+      (A) from the Treaty of Waitangi or the principles of the Treaty of Waitangi; or
       (B) under legislation or at common law (including aboriginal title or customary law); or
-      (C) from fiduciary duty, or
+      (C) from fiduciary duty; or
       (D) otherwise; and
     (ii) arises from, or relates to, acts or omissions before 21 September 1992—
       (A) by, or on behalf of, the Crown; or
@@ -248,11 +248,11 @@ In this Act, unless the context otherwise requires,—
     (v) Wai 529 (Mokau Mohakatino block claim of Paraone W Lake and another); and
     (vi) Wai 577 (Poutama land blocks claim of Poutama Lewis Te Rata and another); but
   (d) does not include—
-    (i) a claim that an individual referred to in section 10(1)(b) may have as a result of being descended from an ancestor who is not a Ngati Tama ancestor; or
-    (ii) any claim that a family, whanau, or group of individuals referred to in section 10(1)(b) may have as a result of being descended from an ancestor who is not a Ngati Tama ancestor; or
+    (i) a claim that an individual referred to in section 10(1)﻿(b) may have as a result of being descended from an ancestor who is not a Ngati Tama ancestor; or
+    (ii) any claim that a family, whanau, or group of individuals referred to in section 10(1)﻿(b) may have as a result of being descended from an ancestor who is not a Ngati Tama ancestor; or
     (iii) a claim that Ngati Tama may have as a result of a loss of interest in land, or in the natural or physical resources, in the land area outside Taranaki; or
     (iv) a claim that a representative entity may have, to the extent that the claim is, or is based on, a claim referred to in subparagraph (i) or subparagraph (ii).
-(2) Subsection (1)(a) is not limited by subsection (1)(b) or (c).
+(2) Subsection (1)﻿(a) is not limited by subsection (1)﻿(b) or (c).
 (3) In this section,—
   - **land area outside Taranaki** means land in New Zealand that is outside the area of land encompassed within the outermost extent of the claimants’ boundaries as set out in figure 4 of the interim report by the Waitangi Tribunal, The Taranaki Report: Kaupapa Tuatahi (1996)
   - **land in New Zealand** means land within the baseline described in sections 5, 6, and 6A of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 (being the low-water mark along the coast of New Zealand, including all islands, except as otherwise provided in section 6 or section 6A of that Act)
@@ -260,8 +260,8 @@ In this Act, unless the context otherwise requires,—
     (a) the governance entity; and
     (b) a person appointed as an agent for Ngati Tama under clause 3.4 of the deed of settlement; and
     (c) a person (including a trust or trustees) acting for, or on behalf of,—
-      (i) the iwi or collective group or 1 or more individuals referred to in section 10(1)(a):
-      (ii) 1 or more of the families, whanau, or groups of individuals, referred to in section 10(1)(b).
+      (i) the iwi or collective group or 1 or more individuals referred to in section 10(1)﻿(a):
+      (ii) 1 or more of the families, whanau, or groups of individuals, referred to in section 10(1)﻿(b).
 
 ## Part 3 — Settlement of historical claims and miscellaneous matters
 
@@ -316,7 +316,7 @@ In this Act, unless the context otherwise requires,—
     (i) exist in law; or
     (ii) deal with property (including income derived from property); or
   (b) apply to a document entered into to give effect to the deed of settlement (including the deeds that grant a right of first refusal referred to in clauses 8.2 and 9.15.1 of the deed of settlement) if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) Subsection (1)(a) does not apply if the governance entity is, or becomes, a charitable trust.
+(2) Subsection (1)﻿(a) does not apply if the governance entity is, or becomes, a charitable trust.
 
 **Date when actions or matters must occur**
 
@@ -342,9 +342,9 @@ If an action is required to be undertaken by the Registrar-General under this Ac
     (i) if any part of the Tongaporutu RFR site ceases to be classified as a reserve under the Reserves Act 1977, that part will vest in the Crown as Crown land under the Land Act 1948; and
     (ii) the Crown’s obligations under the RFR deed apply in relation to the site.
 (4) If the Crown transfers any part of the Tongaporutu RFR site—
-  (a) to the governance entity, the Registrar-General must cancel the memorial referred to in subsection (3)(b) in relation to that part:
+  (a) to the governance entity, the Registrar-General must cancel the memorial referred to in subsection (3)﻿(b) in relation to that part:
   (b) to a third party, and the obligations under the RFR deed no longer apply,—
-    (i) the Crown must apply to the Registrar-General to cancel the memorial referred to in subsection (3)(b) in relation to that part; and
+    (i) the Crown must apply to the Registrar-General to cancel the memorial referred to in subsection (3)﻿(b) in relation to that part; and
     (ii) the Registrar-General must take the Crown’s application under subparagraph (i) as conclusive proof that the Crown’s obligations under the RFR deed no longer apply, and must cancel the memorial in relation to that part.
 (5) In this section, Tongaporutu RFR site means all that land situated in the Taranaki Land District—New Plymouth District, comprising 2.6526 hectares, more or less, being Lot 9 DP 8357. All Transfer 100397. And Section 35 Block IV Mimi Survey District. All Gazette Notice 177072. And Section 39 Block IV Mimi Survey District. All Gazette Notice 229988 and All Computer Freehold Register TND2/757.
 
@@ -438,7 +438,7 @@ In this Act,—
 
 ### 30 Whitecliffs site
 (1) The Whitecliffs site ceases to be part of a conservation area under the Conservation Act 1987.
-(2) The fee simple estate in the Whitecliffs site vests in the governance entity, subject to the conservation covenant and easements required by clause 9.6.5(c)(ii) of the deed of settlement.
+(2) The fee simple estate in the Whitecliffs site vests in the governance entity, subject to the conservation covenant and easements required by clause 9.6.5(c)﻿(ii) of the deed of settlement.
 
 ### 31 Additional Whitecliffs sites
 (1) The Additional Whitecliffs sites cease to be parts of a conservation area under the Conservation Act 1987.
@@ -549,7 +549,7 @@ The Director-General must, in relation to the Whitecliffs conservation area, con
 
 ### 46 Paraninihi marine reserve
 If the Paraninihi marine reserve is declared under section 4 of the Marine Reserves Act 1971, the Taranaki/Wanganui conservation board must—
-  (a) appoint the joint advisory committee as a committee of the board under section 6N(2)(b) of the Conservation Act 1987; and
+  (a) appoint the joint advisory committee as a committee of the board under section 6N(2)﻿(b) of the Conservation Act 1987; and
   (b) delegate to the committee the power to approve conservation management plans under the Conservation Act 1987 and under the Marine Reserves Act 1971, and a review or amendment of any of those plans.
 
 ### 47 Consultation
@@ -598,7 +598,7 @@ The Crown acknowledges the statements made by Ngati Tama of the particular cultu
 
 ### 54 Purposes of statutory acknowledgements
 (1) The only purposes of the statutory acknowledgements are—
-  (a) to require consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgements, as provided for in sections 55 to 57; and
+  (a) to require consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgements, as provided for in sections 55 to 57; and
   (b) to require relevant consent authorities to forward summaries of resource consent applications to the governance entity, as provided for in section 59; and
   (c) to enable the governance entity and a member of Ngati Tama to cite the statutory acknowledgements as evidence of the association of Ngati Tama with the relevant statutory areas, as provided for in section 60; and
   (d) to provide a statement by Ngati Tama, for inclusion in a deed of recognition, of the association of Ngati Tama with a statutory area.
@@ -613,8 +613,10 @@ The Crown acknowledges the statements made by Ngati Tama of the particular cultu
 (1) From the effective date, the Environment Court must have regard to a statutory acknowledgement in determining under section 274 of the Resource Management Act 1991 whether the governance entity is a person having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under Part 2 of the Resource Management Act 1991.
 
-### 57 Historic Places Trust and Environment Court to have regard to statutory acknowledgements
-From the effective date, the Historic Places Trust and the Environment Court must have regard to a statutory acknowledgement in forming an opinion under section 14(6)(a) or section 20(1) of the Historic Places Act 1993, as the case may be, as to whether the governance entity is a person directly affected in relation to an archaeological site within the statutory area.
+### 57 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
+If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the governance entity is a person directly affected by the decision.
 
 ### 58 Recording statutory acknowledgements on statutory plans
 (1) From the effective date, local authorities with jurisdiction in an area which includes a statutory area must attach information recording a statutory acknowledgement to all statutory plans that wholly or partly cover the statutory area.
@@ -640,11 +642,11 @@ From the effective date, the Historic Places Trust and the Environment Court mus
   (b) form an opinion as to whether the governance entity is a person that is likely to be adversely affected under those sections.
 
 ### 60 Use of statutory acknowledgement
-(1) The governance entity and a member of Ngati Tama may, as evidence of the association of Ngati Tama with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the statutory area.
+(1) The governance entity and a member of Ngati Tama may, as evidence of the association of Ngati Tama with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the statutory area.
 (2) The content of the statement of association, as recorded in the statutory acknowledgement, is not, by virtue of the statutory acknowledgement, binding as deemed fact on—
   (a) consent authorities:
   (b) the Environment Court:
-  (c) the Historic Places Trust:
+  (c) Heritage New Zealand Pouhere Taonga:
   (d) parties to proceedings before those bodies:
   (e) any other person able to participate in those proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
@@ -700,7 +702,7 @@ Neither the provision of a statutory acknowledgement nor the entry into a deed o
 (1) Except as expressly provided in this subpart,—
   (a) neither a statutory acknowledgement nor a deed of recognition affects, or may be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
   (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw may give greater or lesser weight to the association of Ngati Tama with a statutory area (as described in the relevant statutory acknowledgement) than that person would give under the relevant statute, regulation, or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 69 Rights not affected
 Except as expressly provided in this subpart, neither a statutory acknowledgement nor a deed of recognition affects the lawful rights or interests of a person who is not a party to the deed of settlement.
@@ -722,7 +724,7 @@ In this subpart, paua fishery means the fishery of the species of paua named Hal
 (1) Except as expressly provided in this subpart,—
   (a) the acknowledgement given by the Crown in clause 9.13.1 of the deed of settlement as to the customary non-commercial interest of Ngati Tama in the paua fishery does not affect, and must not be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw; and
   (b) no person, in considering a matter or making a decision under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngati Tama with the paua fishery, as acknowledged in the deed of settlement, than the person would give under the statute, regulation, or bylaw if no acknowledgement of that association existed.
-(2) Subsection (1)(b) does not limit subsection (1)(a).
+(2) Subsection (1)﻿(b) does not limit subsection (1)﻿(a).
 
 ### 74 Rights not affected
 Except as expressly provided in this subpart, the acknowledgement referred to in section 73 does not—
@@ -765,7 +767,7 @@ In this subpart,—
 (1) The authorisations that the governance entity has a preferential right to purchase under section 79 must—
   (a) not exceed in area 10% of the authorisations granted or proposed to be granted by the Minister in the public tender for the specified coastal area; and
   (b) be of not less than fair average quality in terms of the relevant portion of the specified coastal area, relative to the quality of those portions for all other authorisations that are granted in that public tender.
-(2) The limit specified in subsection (1)(a) may be exceeded if the size and shape of the part of the specified coastal area for the authorisations to which that tender round relates make it impractical to comply with the limitation.
+(2) The limit specified in subsection (1)﻿(a) may be exceeded if the size and shape of the part of the specified coastal area for the authorisations to which that tender round relates make it impractical to comply with the limitation.
 
 ### 81 Governance entity treated as having made tender
 (1) If the governance entity has a preferential right under section 79 to purchase authorisations, the governance entity must be treated as having lodged a valid tender for the authorisations, for $1 consideration, in compliance with section 158 of the Resource Management Act 1991.
