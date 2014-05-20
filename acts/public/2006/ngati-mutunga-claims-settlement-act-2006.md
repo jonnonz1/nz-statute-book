@@ -1,12 +1,12 @@
 # Ngāti Mutunga Claims Settlement Act 2006
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 Background
 (1) The Treaty of Waitangi (te Tiriti o Waitangi), as set out in English and Māori in Schedule 1 of the Treaty of Waitangi Act 1975, was signed in 1840:
 (2) Recitals (3) to (28) of this Preamble present, in summary form, the background to the Ngāti Mutunga historical claims, and a summary of the historical account, that are set out in the deed of settlement entered into by Ngāti Mutunga and the Crown:
 The rohe of Ngāti Mutunga
-(3) According to Ngāti Mutunga, the traditional rohe of Ngāti Mutunga is indelibly etched into both physical and historical landscapes. The Titoki ridge rising from the marine shelf in the northwest signals interface with Ngāti Tama. From here, the Titoki Stream outlines the extremities of tūpuna mana as far north as the Mangahia Stream from which an easterly direction is struck to Huanui, then northeast to Waitara-iti. The rohe then finds a natural eastern definition in the Waitara River as the river flows southward to the Pouiatoa precinct. From here the border extends further south and then northwest along the Waitara River to a point where the river connects with the Makara Stream. The confines of mana whenua are then traced in a northerly direction skirting slightly west of the Poukekewa, Poutotara, and Pukemai Streams. The Mangahewa Stream then provides an outline for the duration of the course to the coast. The old settlement in the district of Te Rau o te Huia was bounded by the Waiau River and its remains mark the area of Ngāti Mutunga’s traditional southern boundary:
+(3) According to Ngāti Mutunga, the traditional rohe of Ngāti Mutunga is indelibly etched into both physical and historical landscapes. The Titoki ridge rising from the marine shelf in the north-west signals interface with Ngāti Tama. From here, the Titoki Stream outlines the extremities of tūpuna mana as far north as the Mangahia Stream from which an easterly direction is struck to Huanui, then north-east to Waitara-iti. The rohe then finds a natural eastern definition in the Waitara River as the river flows southward to the Pouiatoa precinct. From here the border extends further south and then north-west along the Waitara River to a point where the river connects with the Makara Stream. The confines of mana whenua are then traced in a northerly direction skirting slightly west of the Poukekewa, Poutotara, and Pukemai Streams. The Mangahewa Stream then provides an outline for the duration of the course to the coast. The old settlement in the district of Te Rau o te Huia was bounded by the Waiau River and its remains mark the area of Ngāti Mutunga’s traditional southern boundary:
 (4) The area of the Ngāti Mutunga rohe described above was approximately 63 200 hectares (156 000 acres) according to a digital map calculation in 2003:
 Taranaki wars
 (5) The Crown proclaimed martial law throughout Taranaki on 22 February 1860. The Taranaki wars of 1860–61 and 1863–69 followed. During the course of the wars, the Crown built redoubts at Urenui, Wai-iti, and Papatiki to secure military occupation of the surrounding land. These redoubts also provided security for military settlements that were established on confiscated land. The Urenui and Wai-iti redoubts were established on Ngāti Mutunga pā sites, with Urenui being one of the principal kāinga of Ngāti Mutunga:
@@ -258,11 +258,11 @@ It is the intention of Parliament that the provisions of this Act are interprete
 ### 12 Interpretation
 In this Act, unless the context otherwise requires,—
   - **administering body** has the meaning given to it in section 2(1) of the Reserves Act 1977
-  - **archaeological site** has the meaning given to it in section 2 of the Historic Places Act 1993
+  - **archaeological site** has the meaning given to it in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **area of interest** means the area that Ngāti Mutunga identifies as its area of interest, as set out in Schedule 4 of the deed of settlement
   - **authorisation** means an authorisation offered by—
     (a) the Minister of Conservation under section 157 of the Resource Management Act 1991; or
-    (b) the Taranaki Regional Council under section 165E(1)(a) or section 165F of the Resource Management Act 1991
+    (b) the Taranaki Regional Council under section 165E(1)﻿(a) or section 165F of the Resource Management Act 1991
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, ANZAC Day, the Sovereign’s birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
@@ -306,7 +306,7 @@ In this Act, unless the context otherwise requires,—
     (a) sets out how the Ministry of Fisheries will interact with the trustees in relation to matters specified in the protocol; and
     (b) is in the form set out in Part 1 of the Cultural Redress Schedule, or as the protocol is amended under section 21
   - **fisheries protocol area** means the area shown on the map attached to the fisheries protocol, together with the adjacent waters
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued under section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **initial trustees** means the persons holding office as trustees of the Ngāti Mutunga Iwi Authority Incorporated immediately before the date of the charter
   - **land holding agent** means the Minister of the Crown responsible for the department of State that manages the Nohoanga site, or the Commissioner of Crown Lands, as the case may be
   - **LINZ** means Land Information New Zealand
@@ -331,7 +331,7 @@ In this Act, unless the context otherwise requires,—
   - **Nohoanga entitlement** means an entitlement granted to the trustees—
     (a) under subpart 5 of Part 2; and
     (b) over the Nohoanga site; and
-    (c) in the form specified in section 65(2)(b)
+    (c) in the form specified in section 65(2)﻿(b)
   - **Nohoanga site** means—
     (a) the Uruti Domain site described in Schedule 2; or
     (b) a site granted as a replacement site under section 82 or 83
@@ -352,7 +352,7 @@ In this Act, unless the context otherwise requires,—
     (c) a person (including any trust or trustees) acting for, or on behalf of,—
       (i) the iwi or collective group referred to in section 13(1); or
       (ii) any 1 or more members of Ngāti Mutunga; or
-      (iii) any 1 or more of the whānau, hapū, or groups of persons referred to in section 13(1)(a) and (b)
+      (iii) any 1 or more of the whānau, hapū, or groups of persons referred to in section 13(1)﻿(a) and (b)
   - **resource consent** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **responsible Minister** means, as the case may be, one of the following Ministers:
     (a) the Minister for Arts, Culture and Heritage:
@@ -414,7 +414,7 @@ In this Act, unless the context otherwise requires,—
 (3) In this section and section 14, Ngāti Mutunga Tupuna means a person who exercised customary rights—
   (a) by virtue of being descended from—
     (i) Mutunga (son of Kahukura and Hinemoe), Hinetuhi, and Hineweo; or
-    (ii) a recognised ancestor of any whānau, hapū, or group referred to in subsection (1)(a) or (b); and
+    (ii) a recognised ancestor of any whānau, hapū, or group referred to in subsection (1)﻿(a) or (b); and
   (b) predominantly in relation to the area of interest.
 (4) In subsection (3), customary rights means rights according to Ngāti Mutungatanga, or Ngāti Mutunga tikanga, including—
   (a) rights to occupy land; and
@@ -446,10 +446,10 @@ In this Act, unless the context otherwise requires,—
     (v) Wai 583 (Ripeka Elena Ogle claim); and
     (vi) Wai 667 (Tamati Whanganui descendants claim); but
   (c) does not include the following claims:
-    (i) a claim that a member of Ngāti Mutunga, or a whānau, hapū, or group referred to in section 13(1)(a) or (b) may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not a Ngāti Mutunga Tupuna; or
+    (i) a claim that a member of Ngāti Mutunga, or a whānau, hapū, or group referred to in section 13(1)﻿(a) or (b) may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not a Ngāti Mutunga Tupuna; or
     (ii) a claim that Ngāti Mutunga may have as a result of a loss of interest in land in New Zealand, or in the natural or physical resources in that land, if the land is outside the Taranaki Land District; or
     (iii) a claim that a representative entity may have to the extent that the claim is, or is based on, a claim referred to in subparagraph (i) or subparagraph (ii).
-(2) Subsection (1)(a) is not limited by subsection (1)(b).
+(2) Subsection (1)﻿(a) is not limited by subsection (1)﻿(b).
 (3) For the purposes of this section, land in New Zealand means land within the baseline described in sections 5, 6, and 6A of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 (being the low-water mark along the coast of New Zealand, including all islands, except as otherwise provided in section 6 or section 6A of that Act).
 
 ### Subpart 3 — Settlement of claims
@@ -592,7 +592,7 @@ The LINZ protocol does not have the effect of granting, creating, or providing e
     (i) to preserve the natural values of the Pukemiro site; and
     (ii) in the form set out in Part 2 of the Cultural Redress Schedule (the Pukemiro Covenant); and
   (b) signing the Pukemiro Covenant, and returning it to the Crown, within 20 business days after the Crown provides the Pukemiro Covenant to the trustees.
-(4) If the trustees comply with subsection (3)(b)—
+(4) If the trustees comply with subsection (3)﻿(b)—
   (a) by or on the settlement date, the Pukemiro site will vest in the trustees on the settlement date; or
   (b) after the settlement date, the Pukemiro site will vest in the trustees 10 business days after the trustees sign and return the Pukemiro Covenant to the Crown.
 (5) The Pukemiro Covenant is to be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
@@ -614,7 +614,7 @@ The LINZ protocol does not have the effect of granting, creating, or providing e
     (ii) to preserve the natural values of the Urenui site; and
     (iii) in the form set out in Part 2 of the Cultural Redress Schedule (the Urenui Covenant); and
   (b) signing the Urenui Covenant, and returning it to the Crown, within 20 business days after the Crown provides the Urenui Covenant to the trustees.
-(4) If the trustees comply with subsection (3)(b)—
+(4) If the trustees comply with subsection (3)﻿(b)—
   (a) by or on the settlement date, the Urenui site will vest in the trustees on the settlement date; or
   (b) after the settlement date, the Urenui site will vest in the trustees 10 business days after the trustees sign and return the Urenui Covenant to the Crown.
 (5) The Urenui Covenant is to be treated as a conservation covenant for the purposes of—
@@ -629,7 +629,7 @@ The LINZ protocol does not have the effect of granting, creating, or providing e
     (i) to preserve the natural values of the Te Urenui Pā site; and
     (ii) in the form set out in Part 2 of the Cultural Redress Schedule (the Te Urenui Pā Covenant); and
   (b) signing the Te Urenui Pā Covenant, and returning it to the Crown, within 20 business days after the Crown provides the Te Urenui Pā Covenant to the trustees.
-(4) If the trustees comply with subsection (3)(b)—
+(4) If the trustees comply with subsection (3)﻿(b)—
   (a) by or on the settlement date, the Te Urenui Pā site will vest in the trustees on the settlement date; or
   (b) after the settlement date, the Te Urenui Pā site will vest in the trustees 10 business days after the trustees sign and return the Te Urenui Pā Covenant to the Crown.
 (5) The Te Urenui Pā Covenant is to be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
@@ -644,7 +644,7 @@ The LINZ protocol does not have the effect of granting, creating, or providing e
     (i) to preserve the natural values of the Okoki Pā site; and
     (ii) in the form set out in Part 2 of the Cultural Redress Schedule (the Okoki Pā Covenant); and
   (b) signing the Okoki Pā Covenant, and returning it to the Crown, within 20 business days after the Crown provides the Okoki Pā Covenant to the trustees.
-(4) If the trustees comply with subsection (3)(b)—
+(4) If the trustees comply with subsection (3)﻿(b)—
   (a) by or on the settlement date, the Okoki Pā site will vest in the trustees on the settlement date; or
   (b) after the settlement date, the Okoki Pā site will vest in the trustees 10 business days after the trustees sign and return the Okoki Pā Covenant to the Crown.
 (5) The Okoki Pā Covenant is to be treated as a conservation covenant for the purposes of section 77 of the Reserves Act 1977.
@@ -696,10 +696,10 @@ The LINZ protocol does not have the effect of granting, creating, or providing e
       (B) section 27 (cancelling vesting of reserves):
       (C) sections 28, 29, 30, 35, and 36 (appointing a local authority, a voluntary organisation, a board, trustees, or a Minister of the Crown to control and manage a reserve):
       (D) section 108 (bylaws to be approved by Minister).
-(3) If the Minister exercises his or her power, under section 27 of the Reserves Act 1977, to cancel the deemed continuation of a vesting of a vested recreation reserve under subsection (1)(a)—
+(3) If the Minister exercises his or her power, under section 27 of the Reserves Act 1977, to cancel the deemed continuation of a vesting of a vested recreation reserve under subsection (1)﻿(a)—
   (a) the reserve is to be treated as if it were revested in the Crown under section 27(1) or (4) of the Reserves Act 1977, as the case may be; and
   (b) the Minister may then vest that reserve in a local authority, trustees, or any other lawful authority under section 26 of the Reserves Act 1977, and the reserve is then to be treated as if it were vested in that local authority, those trustees, or that other lawful authority.
-(4) In subsections (2)(c)(ii)(C) and (3)(b), trustees has the meaning given to it in section 2(1) of the Reserves Act 1977.
+(4) In subsections (2)﻿(c)﻿(ii)﻿(C) and (3)﻿(b), trustees has the meaning given to it in section 2(1) of the Reserves Act 1977.
 (5) Subsections (2) and (3) do not limit subsection (1).
 (6) Subsections (2), (3), and (4) are for the avoidance of doubt.
 
@@ -713,7 +713,7 @@ The LINZ protocol does not have the effect of granting, creating, or providing e
     (i) the vested recreation reserve (including under any lease or tenancy arrangement) that arise before any revocation of its reserve status; or
     (ii) the ownership, management, or control of fixtures, structures, or improvements (including trees) attached to, on, or under a vested recreation reserve before any revocation of its reserve status; or
   (b) confer or impose on the trustees any rights or obligations referred to in paragraph (a).
-(4) The rights and obligations referred to in subclause (3)(a) are limited to those rights and obligations that arise before any revocation of the reserve status of a vested recreation reserve.
+(4) The rights and obligations referred to in subclause (3)﻿(a) are limited to those rights and obligations that arise before any revocation of the reserve status of a vested recreation reserve.
 (5) The trustees must not dispose of, transfer, or charge (including mortgage) a vested recreation reserve.
 (6) However, subsection (5) does not apply to a transfer if the relevant instrument of transfer is accompanied by a certificate, given by the trustees or their solicitor, verifying that the transfer is—
   (a) required to enable the relevant legal title to be transferred from one trustee to another trustee; and
@@ -737,7 +737,7 @@ The effects of a revocation under section 24 of the Reserves Act 1977 are that�
     (ii) must not be disposed of in accordance with the specifications of the Minister under that section; and
   (b) the fee simple in the vested recreation reserve remains vested in the trustees and is subject to—
     (i) any restrictions, encumbrances, liens, and interests specified in the notice given by the Minister under section 24(1) of the Reserves Act 1977; and
-    (ii) (in particular) the rights of persons referred to in section 40(3)(a) and (b) to the extent specified in those provisions; and
+    (ii) (in particular) the rights of persons referred to in section 40(3)﻿(a) and (b) to the extent specified in those provisions; and
   (c) sections 39, 40(1), (2), (5), and (6), and 45 cease to apply to the vested recreation reserve.
 
 **General provisions relating to vesting of cultural redress properties**
@@ -767,11 +767,11 @@ The vesting of each cultural redress property is subject to the encumbrances (if
       (A) section 37 (in the case of the Onaero Domain Recreation Reserve):
       (B) section 38 (in the case of the Urenui Domain Recreation Reserve); and
     (ii) is subject to sections 39 to 42 (in the case of each of the reserves referred to in subparagraph (i)); and
-  (b) must not contain any noting of the vesting, or cancellation of the vesting, of that vested recreation reserve under the Reserves Act 1977 (except as provided by subsection (2)(a)).
+  (b) must not contain any noting of the vesting, or cancellation of the vesting, of that vested recreation reserve under the Reserves Act 1977 (except as provided by subsection (2)﻿(a)).
 (3) Subsection (2) overrides—
   (a) section 112(2) of the Reserves Act 1977; and
   (b) section 129(2), (3), and (5) of the Land Transfer Act 1952.
-(4) Subsection (2)(b) overrides sections 27(5) and 116 of the Reserves Act 1977 and, in the event of inconsistency, any other enactment to the contrary.
+(4) Subsection (2)﻿(b) overrides sections 27(5) and 116 of the Reserves Act 1977 and, in the event of inconsistency, any other enactment to the contrary.
 
 ### 46 Application of other enactments
 (1) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation under this subpart of the reserve status of a cultural redress property vested in the trustees under this subpart.
@@ -787,11 +787,11 @@ The vesting of each cultural redress property is subject to the encumbrances (if
 (7) The vesting, under this subpart, of a fee simple estate in a cultural redress property listed in Part 3 of Schedule 1 is not a disposition for the purposes of Part 4A of the Conservation Act 1987 (and Part 4A does not apply) unless—
   (a) the reservation of that vested recreation reserve is revoked (in which case the vesting is a disposition for the purposes of Part 4A); or
   (b) the reservation of part of that vested recreation reserve is revoked (in which case the vesting of that part is a disposition for the purposes of Part 4A).
-(8) Sections 24(2A), 24A, and 24AA of the Conservation Act 1987 do not apply to the dispositions referred to in subsections (5), (7)(a), and (7)(b).
+(8) Sections 24(2A), 24A, and 24AA of the Conservation Act 1987 do not apply to the dispositions referred to in subsections (5), (7)﻿(a), and (7)﻿(b).
 (9) Nothing in sections 37 to 42 affects the rights of Ngāti Mutunga or the trustees under the Protected Objects Act 1975 in relation to taonga tūturu.
 
 ### 47 Application of certain amounts
-(1) The Minister may direct that any payment for any site or reserve listed in subsection (2) be paid and applied in the manner specified in section 82(1)(a) of the Reserves Act 1977.
+(1) The Minister may direct that any payment for any site or reserve listed in subsection (2) be paid and applied in the manner specified in section 82(1)﻿(a) of the Reserves Act 1977.
 (2) The sites and reserves referred to in subsection (1) are—
   (a) the Onaero site:
   (b) the Pukemiro site:
@@ -800,7 +800,7 @@ The vesting of each cultural redress property is subject to the encumbrances (if
   (e) the Te Urenui Pā site:
   (f) the Okoki Pā site:
   (g) both vested recreation reserves.
-(3) A direction made under subsection (1) is to be treated as if it were a direction under section 82(1)(a) of the Reserves Act 1977.
+(3) A direction made under subsection (1) is to be treated as if it were a direction under section 82(1)﻿(a) of the Reserves Act 1977.
 
 ### Subpart 3 — Statutory acknowledgements and deeds of recognition
 
@@ -812,7 +812,7 @@ The vesting of each cultural redress property is subject to the encumbrances (if
 
 ### 49 Purposes of statutory acknowledgements
 (1) The only purposes of the statutory acknowledgements are—
-  (a) to require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgements, as provided for in sections 50 to 52; and
+  (a) to require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgements, as provided for in sections 50 to 52; and
   (b) to require relevant consent authorities to forward summaries of resource consent applications to the trustees, as provided for in section 54; and
   (c) to enable the trustees and a member of Ngāti Mutunga to cite the statutory acknowledgements as evidence of the association of Ngāti Mutunga with the relevant statutory areas, as provided for in section 55.
 (2) This section does not limit the operation of sections 58 to 61.
@@ -825,8 +825,10 @@ The vesting of each cultural redress property is subject to the encumbrances (if
 (1) On and from the effective date, the Environment Court must have regard to a statutory acknowledgement relating to a statutory area in determining under section 274 of the Resource Management Act 1991 whether the trustees are persons having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 52 Historic Places Trust and Environment Court to have regard to statutory acknowledgements
-On and from the effective date, the Historic Places Trust and the Environment Court must have regard to a statutory acknowledgement in forming an opinion under section 14(6)(a) or section 20(1) of the Historic Places Act 1993, as the case may be, as to whether the trustees are (or, for the purposes of section 14(6)(a) of that Act, may be) persons directly affected in relation to an archaeological site within the statutory area.
+### 52 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
+If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
 
 ### 53 Recording statutory acknowledgements on statutory plans
 (1) From the effective date, each relevant consent authority must attach information recording a statutory acknowledgement to all statutory plans that wholly or partly cover the statutory area.
@@ -853,12 +855,12 @@ On and from the effective date, the Historic Places Trust and the Environment Co
   (b) form an opinion as to whether the trustees are persons who may be adversely affected under those sections.
 
 ### 55 Use of statutory acknowledgements
-(1) The trustees and a member of Ngāti Mutunga may, as evidence of the association of Ngāti Mutunga with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Minister (in relation to a restricted coastal activity in a statutory area), the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the statutory area.
+(1) The trustees and a member of Ngāti Mutunga may, as evidence of the association of Ngāti Mutunga with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Minister (in relation to a restricted coastal activity in a statutory area), the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the statutory area.
 (2) The content of the statement of association is not, by virtue of the statutory acknowledgement, binding as deemed fact on—
   (a) relevant consent authorities:
   (b) the Minister:
   (c) the Environment Court:
-  (d) the Historic Places Trust:
+  (d) Heritage New Zealand Pouhere Taonga:
   (e) parties to proceedings before those bodies:
   (f) any other person able to participate in those proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
@@ -894,7 +896,7 @@ Neither the provision of a statutory acknowledgement nor the entry into a deed o
 (1) Except as expressly provided in this subpart,—
   (a) neither a statutory acknowledgement nor a deed of recognition affects, or may be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
   (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngāti Mutunga with a statutory area (as described in the relevant statutory acknowledgement) than that person would give under the relevant statute, regulation, or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 60 Rights not affected
 Except as expressly provided in this subpart, neither a statutory acknowledgement nor a deed of recognition affects the lawful rights or interests of a person who is not a party to the deed of settlement.
@@ -922,16 +924,16 @@ The chief executive of the Ministry of Justice must make copies of the deed of s
 (1) The following provisions apply to the Nohoanga site described in Schedule 2:
   (a) the road shown as Section 1, SO 9578 Taranaki Land District (containing 7 537 square metres more or less) is stopped and ceases to be a road:
   (b) on ceasing to be a road, the former road referred to in paragraph (a), together with 376 square metres (being Section 1, SO 369860 Taranaki Land District)—
-    (i) vests in the Crown as a scenic reserve subject to section 19(1)(a) of the Reserves Act 1977; and
+    (i) vests in the Crown as a scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977; and
     (ii) forms part of the Uruti Domain Scenic Reserve.
-(2) To avoid doubt, section 345(3) of the Local Government Act 1974 does not apply to the stopping of the road under subsection (1)(a).
+(2) To avoid doubt, section 345(3) of the Local Government Act 1974 does not apply to the stopping of the road under subsection (1)﻿(a).
 
 ### 65 Grant and renewal of Nohoanga entitlement
 (1) The Crown must, in accordance with this subpart, grant to the trustees a Nohoanga entitlement over the Nohoanga site.
 (2) The grant must be—
   (a) for an initial term of 10 years beginning on the settlement date; and
   (b) made in the form set out in Part 3 of Schedule 1 of the Cultural Redress Schedule, or as varied in accordance with section 67.
-(3) If there is inconsistency between the provisions of the form used for the Nohoanga entitlement under subsection (2)(b) and the provisions of this subpart, the provisions of this subpart prevail.
+(3) If there is inconsistency between the provisions of the form used for the Nohoanga entitlement under subsection (2)﻿(b) and the provisions of this subpart, the provisions of this subpart prevail.
 (4) The Nohoanga entitlement must, at the option of the trustees, be renewed for further terms of 10 years unless the Nohoanga entitlement is terminated under section 82 or 83.
 
 ### 66 Notification of Nohoanga entitlement
@@ -941,7 +943,7 @@ The chief executive of the Ministry of Justice must make copies of the deed of s
   (b) the notice in the Gazette relating to the grant or renewal.
 
 ### 67 Terms and conditions of Nohoanga entitlement may be varied
-(1) The form of the Nohoanga entitlement may be varied from the form specified in section 65(2)(b) by—
+(1) The form of the Nohoanga entitlement may be varied from the form specified in section 65(2)﻿(b) by—
   (a) the addition by the land holding agent, at the time of the grant of the Nohoanga entitlement, of terms reasonably required by the Crown to protect and preserve—
     (i) the Nohoanga site:
     (ii) the surrounding land:
@@ -1100,7 +1102,7 @@ The grant of the Nohoanga entitlement is not a subdivision for the purposes of s
     (i) must equal in area 10% of the authorisations that are the subject of the tender; or
     (ii) may equal in area less than 10% of the authorisations that are the subject of the tender, if such smaller area has been agreed to, in writing, by the trustees and the Minister, or the trustees and the Council, as the case may be; and
   (b) in either case, must be of not less than fair average quality in terms of the relevant portion of the specified coastal area, relative to the quality of those portions for all other authorisations that are the subject of the tender.
-(2) The limit specified in subsection (1)(a)(i) may be exceeded if the size and shape of the part of the specified coastal area for the authorisations that are the subject of the tender make it impractical to comply with the limitation.
+(2) The limit specified in subsection (1)﻿(a)﻿(i) may be exceeded if the size and shape of the part of the specified coastal area for the authorisations that are the subject of the tender make it impractical to comply with the limitation.
 
 ### 94 Trustees treated as having made tender
 (1) If the trustees have a preferential right under section 91 or 92 to purchase authorisations, the trustees must be treated as having lodged a valid tender for the authorisations, for $1 consideration, in compliance with section 158 or section 165Q(2) to (4) of the Resource Management Act 1991, as the case may be.
@@ -1181,7 +1183,7 @@ To give effect to clause 14.1 of the deed of settlement, the Crown (acting throu
 | Te Rau o Te Huia Pā site | Taranaki Land District—New Plymouth District1 399 square metres, more or less, being Section 11 Block III Waitara Survey District. All Gazette Notice 191566. | Subject to the informal grazing right of R D Paul. |
 | Ngapapa site | Taranaki Land District—New Plymouth District1 012 square metres, more or less, being Section 101 Town of Urenui. All Computer Freehold Register TN152/197. |  |
 | Urenui site | Taranaki Land District—New Plymouth District112.6366 hectares, more or less, being Subdivision 2 of Section 12 Block VIII Waitara Survey District. Part Gazette 1864 page 461. | Subject to the conservation covenant referred to in section 33(3). |
-| Te Urenui Pā site | Taranaki Land District—New Plymouth District2.8834 hectares, more or less, being Urenui 2B1. All Proclamation W.2854. | Subject to the conservation covenant referred to in section 34(3). |
+| Te Urenui Pā site | Taranaki Land District—New Plymouth District2.8834 hectares, more or less, being Urenui 2B1. All Proclamation W﻿.﻿2854. | Subject to the conservation covenant referred to in section 34(3). |
 | Okoki Pā site | Taranaki Land District—New Plymouth District15.0100 hectares, more or less, being Section 2, SO 365383. Part Gazette Notice 148849. | Subject to the conservation covenant referred to in section 35(3).Subject to the grazing permit concession (WA-15919B-GRA) dated 22 February 2005 issued under Part 3B of the Conservation Act 1987 to Ashbrook Farms Limited. |
 
 | Name of site | Description | Encumbrances |
@@ -1241,18 +1243,18 @@ To give effect to clause 14.1 of the deed of settlement, the Crown (acting throu
   (b) the local authority within whose district a reserve is situated or the administering body of any reserve notifies the Commissioner in writing that, pursuant to a resolution of the local authority or of the administering body, as the case may be, it considers for any reason, to be stated in the resolution, that the classification or purpose of the whole or part of the reserve should be changed to another classification or purpose, or that the reservation of the whole or part of the land as a reserve should be revoked,—
   provided that the classification of any government purpose reserve for railway purposes shall not be changed and the reservation of the land or any part thereof as such a reserve shall not be revoked except with the consent of the Minister of Railways.
 (2) Before any classification or purpose is changed or any reservation is revoked pursuant to subsection (1),—
-  (a) where subsection (1)(a) applies and there is an administering body of the reserve, the Commissioner shall notify the administering body in writing as to the Minister’s reasons for considering that a change of classification or purpose is advisable or, as the case may be, that the reservation should be revoked, and shall invite the administering body to comment thereon in writing to the Commissioner:
+  (a) where subsection (1)﻿(a) applies and there is an administering body of the reserve, the Commissioner shall notify the administering body in writing as to the Minister’s reasons for considering that a change of classification or purpose is advisable or, as the case may be, that the reservation should be revoked, and shall invite the administering body to comment thereon in writing to the Commissioner:
   (b) the administering body of the reserve after consulting the Commissioner, or the Commissioner if there is no administering body, shall publicly notify the proposed change of classification or purpose or proposed revocation of reservation, as the case may be, specifying the reason or reasons for the proposal:
   (c) every person claiming to be affected by the proposed change of classification or purpose or revocation shall have a right of objection to the change or revocation, and may, at any time within 1 month after the date of the first publication of the notice of the proposal, give notice in writing of his objections to the proposed change or revocation and of the grounds thereof to the Commissioner if there is no administering body, and to the principal administrative officer or chief executive of the administering body in any other case, who shall forward all such objections to the Commissioner with a copy of the resolution of the administering body in relation to those objections, after the administering body has considered those objections:
     provided that, where the date of the first publication of the notice of the proposal falls between the period commencing with the tenth day of December in any year and ending with the tenth day of January in the next succeeding year, notice of objection to the proposed change or revocation may be given at any time before the tenth day of February next following that period:
-  (d) where a local authority which is not the administering body initiates action under subsection (1)(b) to change the classification or purpose of or to revoke the reservation of the whole or part of the land as a reserve, the local authority shall notify the administering body in writing of the resolution of the local authority, and the reasons for it, and the administering body shall notify the Commissioner in writing of the attitude of the administering body to the proposed change of classification or purpose or to the proposed revocation:
+  (d) where a local authority which is not the administering body initiates action under subsection (1)﻿(b) to change the classification or purpose of or to revoke the reservation of the whole or part of the land as a reserve, the local authority shall notify the administering body in writing of the resolution of the local authority, and the reasons for it, and the administering body shall notify the Commissioner in writing of the attitude of the administering body to the proposed change of classification or purpose or to the proposed revocation:
   (e) the Minister shall as soon as practicable consider the proposed change of classification or purpose or revocation and all objections received thereto and, in the case of objections made to an administering body, the resolution of the administering body thereon, and, in any case where paragraph (d) applies, the attitude of the administering body to the proposal:
   (f) the Minister shall have power to receive such submissions and make such inquiries as he thinks fit on the proposal:
   (g) the procedure to be followed by the Minister in any matter arising under this section shall be as prescribed in regulations made under this Act or, where there are no such regulations or so far as the regulations do not extend, as the Minister determines:
   (h) any person who does not lodge an objection in accordance with this subsection shall be deemed to have assented to the change of classification or purpose or the revocation of reservation set forth in the public notification.
 (3) No change of classification or purpose of a scenic, nature, or scientific reserve, or any part thereof, to a recreation, historic, government purpose, or local purpose reserve shall be made, except where, in the opinion of the Minister, the reserve or the part thereof is by reason of the destruction of the forest, bush, or other vegetation, or of the fauna or scientific or natural features thereon, or for any other like cause, no longer suitable for the purposes of its classification.
 (4) No revocation of the reservation of any land as a nature or scientific reserve, or any part thereof, shall be made except where in the opinion of the Minister the reserve or the part thereof is, by reason of the destruction of the forest, bush, or other vegetation, or of the fauna or scientific or natural features thereon, or for any other like cause, no longer suitable for the purposes of its classification.
-(5) No change of classification or purpose nor any revocation of reservation of an historic reserve or any part thereof shall be made, except where, in the opinion of the Minister, the reserve or the part thereof is by reason of the destruction of the historic features or for any other cause no longer suitable for the purpose of its classification, or where, in the opinion of the Minister, the change of classification or purpose or the revocation is required in the public interest. The Minister shall obtain a report from the New Zealand Historic Places Trust before making his decision.
+(5) No change of classification or purpose nor any revocation of reservation of an historic reserve or any part thereof shall be made, except where, in the opinion of the Minister, the reserve or the part thereof is by reason of the destruction of the historic features or for any other cause no longer suitable for the purpose of its classification, or where, in the opinion of the Minister, the change of classification or purpose or the revocation is required in the public interest. The Minister shall obtain a report from Heritage New Zealand Pouhere Taonga before making his decision.
 (6) Subsection (2) shall not apply to any government purpose reserve, but no change of classification or purpose or revocation of the reservation of such a reserve or any part of such a reserve shall be made without the prior approval of the Minister appointed under section 22 or section 36 to control and manage that reserve.
 (7) Subsection (2) shall not apply to any local purpose reserve, other than a reserve made on a subdivision of land under section 13 of the Land Subdivision in Counties Act 1946 or a reserve vested in the Corporation of a borough pursuant to the Municipal Corporations Act 1954 or the Corporation of a county pursuant to Part 2 of the Counties Amendment Act 1961 or section 16 of the Land Act 1924 or section 17 of the Land Laws Amendment Act 1920 or Part 20 of the Local Government Act 1974 (as enacted by section 2 of the Local Government Amendment Act 1978) or as a condition of any resource consent under the Resource Management Act 1991:
   provided that the Minister may, after considering such evidence as may be submitted to him, direct that the proposals be publicly notified, and in that case subsection (2) shall apply.
