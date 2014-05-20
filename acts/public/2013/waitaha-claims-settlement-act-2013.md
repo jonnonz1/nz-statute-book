@@ -1,5 +1,5 @@
 # Waitaha Claims Settlement Act 2013
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the historical account set out in the deed of settlement entered into by Waitaha and the Crown:
@@ -105,7 +105,7 @@ The text of the apology offered by the Crown to Waitaha, as set out in the deed 
 (3) The Crown’s acts and omissions have severed you from almost all of your traditional lands and driven your ancient iwi to the point where it nearly ceased to exist. For these acts and omissions, and for the suffering they caused and continue to cause, the Crown apologises.
 (4) The Tauranga confiscation/raupatu was unjust and Hakaraia Mahika opposed it. For this, the Crown labelled him a rebel. In seeking to punish him, the Crown destroyed your houses, crops and livestock, and ultimately took his life. The Crown inflicted further punishment even after his death by unfairly withholding a large amount of land from you. For these misdeeds the Crown apologises to Waitaha and to Hakaraia.
 (5) The stigma of rebellion has diminished the mana of Waitaha and forced deep divisions among you, and between you and your neighbours. The Crown recognises that this burden has pressed most heavily on the descendants of Hakaraia, but has affected all of Waitaha. The Crown regrets that you have been forced to bear this stigma, and wishes the mana and reputation of Hakaraia and Waitaha to be restored. Accordingly, the Crown apologises for the part it played in placing this burden upon you.
-(6) The Crown wishes to restore its own tarnished honour too and hopes that this apology will mark the beginning of a stronger relationship with Waitaha, a relationship based on trust, co-operation, and respect for Te Tiriti o Waitangi/the Treaty of Waitangi. Accordingly, the Crown echoes the following Waitaha whakatauki:Kua tau te rangimārieKi te whare o HakaraiaĀke, āke, āke.The peace has been settled In the house of HakaraiaNow and forever more.
+(6) The Crown wishes to restore its own tarnished honour too and hopes that this apology will mark the beginning of a stronger relationship with Waitaha, a relationship based on trust, co-operation, and respect for Te Tiriti o Waitangi/the Treaty of Waitangi. Accordingly, the Crown echoes the following Waitaha whakatauki: Kua tau te rangimārieKi te whare o HakaraiaĀke, āke, āke.The peace has been settled In the house of HakaraiaNow and forever more.
 
 ### Subpart 2 — Interpretation
 
@@ -131,8 +131,8 @@ In this Act, unless the context otherwise requires,—
   - **conservation management strategy** has the meaning given in section 2(1) of the Conservation Act 1987
   - **Crown** has the meaning given in section 2(1) of the Public Finance Act 1989
   - **Crown minerals protocol** —
-    (a) means a protocol issued by the Minister of Energy and Resources under section 19(1)(a); and
-    (b) includes any amendments made under section 19(1)(b)
+    (a) means a protocol issued by the Minister of Energy and Resources under section 19(1)﻿(a); and
+    (b) includes any amendments made under section 19(1)﻿(b)
   - **Crown minerals protocol area** means the area shown on the map attached to the Crown minerals protocol and includes the adjacent waters
   - **cultural redress property** has the meaning given in section 62
   - **deed of recognition** means a deed entered into by the Crown in favour of the trustees under section 36
@@ -149,14 +149,14 @@ In this Act, unless the context otherwise requires,—
     (b) in respect of which the agreement for sale and purchase (formed under paragraph 6.9 of that part 6) has not been cancelled
   - **Director-General** means the Director-General of Conservation
   - **DOC protocol** —
-    (a) means a protocol issued by the Minister of Conservation under section 19(1)(a); and
-    (b) includes any amendments made under section 19(1)(b)
+    (a) means a protocol issued by the Minister of Conservation under section 19(1)﻿(a); and
+    (b) includes any amendments made under section 19(1)﻿(b)
   - **DOC protocol area** means the area shown on the map attached to the DOC protocol
   - **documents schedule** means the schedule of that name that forms part of the deed of settlement
   - **effective date** means the date that is 6 months after the settlement date
   - **encumbrance** means a lease, tenancy, licence, licence to occupy, easement, covenant, or other right or obligation affecting a property
   - **general matters schedule** means the schedule of that name that forms part of the deed of settlement
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued by section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **historical claims** has the meaning given in section 11
   - **joint cultural redress property** has the meaning given in section 72
   - **land holding agency** , in relation to—
@@ -167,10 +167,10 @@ In this Act, unless the context otherwise requires,—
     (e) a Te Puke property and the balance of Te Houhou, means the Office of Treaty Settlements
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
-  - **member of Waitaha** means every individual referred to in section 10(1)(a)
+  - **member of Waitaha** means every individual referred to in section 10(1)﻿(a)
   - **property redress schedule** means the schedule of that name that forms part of the deed of settlement
   - **protection principles** has the meaning given in section 41(2)
-  - **protocol** means a protocol issued under section 19(1)(a), including any amendments made under section 19(1)(b)
+  - **protocol** means a protocol issued under section 19(1)﻿(a), including any amendments made under section 19(1)﻿(b)
   - **regional council** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **Registrar-General** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
   - **relevant consent authority** , in relation to a statutory area, means a consent authority of a region or district that contains, or is adjacent to, the statutory area
@@ -204,8 +204,8 @@ In this Act, unless the context otherwise requires,—
     (a) has the meaning given in section 2(1) of the Protected Objects Act 1975; and
     (b) includes ngā taonga tūturu (which has the meaning given in section 2(1) of that Act)
   - **taonga tūturu protocol** —
-    (a) means a protocol issued by the Minister for Arts, Culture and Heritage under section 19(1)(a); and
-    (b) includes any amendments made under section 19(1)(b)
+    (a) means a protocol issued by the Minister for Arts, Culture and Heritage under section 19(1)﻿(a); and
+    (b) includes any amendments made under section 19(1)﻿(b)
   - **Te Kapu o Waitaha** means the trust established by the Te Kapu o Waitaha Deed of Trust dated 20 September 2011
   - **Te Puke property** means a property described as a second right of purchase Te Puke property in subpart A of part 3 of the property redress schedule
   - **Te Whakairinga Kōrero** has the meaning given in section 41(1)
@@ -306,8 +306,8 @@ In this Act, unless the context otherwise requires,—
   (a) all or part of a property described in section 14(1); and
   (b) contained in a certificate of title or computer register that has a memorial entered under any enactment referred to in section 14(2).
 (2) The chief executive of LINZ must issue a certificate under subsection (1) as soon as is reasonably practicable after—
-  (a) the vesting date, in the case of a property described in section 14(1)(c); and
-  (b) the date on which the transfer of a property described in section 14(1)(d) or (e) is settled; and
+  (a) the vesting date, in the case of a property described in section 14(1)﻿(c); and
+  (b) the date on which the transfer of a property described in section 14(1)﻿(d) or (e) is settled; and
   (c) the settlement date, in the case of any other property.
 (3) Each certificate must state that it is issued under this section.
 (4) The Registrar-General must, as soon as is reasonably practicable after receiving a certificate issued under subsection (1),—
@@ -417,7 +417,7 @@ The Crown acknowledges the statements of association.
 
 ### 27 Purposes of statutory acknowledgement
 The only purposes of the statutory acknowledgement are to—
-  (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, in accordance with sections 28 to 30; and
+  (a) require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, in accordance with sections 28 to 30; and
   (b) require relevant consent authorities to give summaries and notices of resource consent applications to the trustees, in accordance with section 32; and
   (c) enable the trustees and any member of Waitaha to cite the statutory acknowledgement as evidence of the association of Waitaha with the relevant statutory areas, in accordance with section 33.
 
@@ -431,11 +431,11 @@ The only purposes of the statutory acknowledgement are to—
 (2) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to the statutory area in deciding, under section 274 of the Resource Management Act 1991, whether the trustees are persons with an interest in proceedings greater than that of the general public.
 (3) Subsection (2) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 30 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) This section applies if, on or after the effective date, an application is made under section 11 or 12 of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within a statutory area.
-(2) The Historic Places Trust must have regard to the statutory acknowledgement relating to the statutory area in exercising its powers under section 14 of the Historic Places Act 1993 in relation to the application, including determining under section 14(6)(a) of that Act whether the trustees may be directly affected by an extension of time.
-(3) The Environment Court must have regard to the statutory acknowledgement relating to the statutory area in determining, under section 20 of the Historic Places Act 1993, an appeal against a decision of the Historic Places Trust in relation to the application, including determining whether the trustees are directly affected by the decision.
-(4) In this section, archaeological site has the meaning given in section 2 of the Historic Places Act 1993.
+### 30 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 31 Recording statutory acknowledgement on statutory plans
 (1) On and from the effective date, each relevant consent authority must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover a statutory area.
@@ -452,21 +452,21 @@ The only purposes of the statutory acknowledgement are to—
   (a) if the application is received by the consent authority, a summary of the application; and
   (b) if notice of an application for resource consent is served on the consent authority under section 145(10) of the Resource Management Act 1991, a copy of the notice.
 (2) The information provided in a summary of an application must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority.
-(3) A summary of an application must be given under subsection (1)(a)—
+(3) A summary of an application must be given under subsection (1)﻿(a)—
   (a) as soon as is reasonably practicable after the relevant consent authority receives the application; and
   (b) before the consent authority decides under section 95(a) of the Resource Management Act 1991 whether to notify the application.
-(4) A copy of the notice under subsection (1)(b) must be given no later than 10 business days after the day on which the relevant consent authority receives the notice.
+(4) A copy of the notice under subsection (1)﻿(b) must be given no later than 10 business days after the day on which the relevant consent authority receives the notice.
 (5) This section does not affect a relevant consent authority's obligation—
   (a) under section 95(a) of the Resource Management Act 1991, to decide whether to notify an application:
   (b) under section 95E of that Act, to decide whether the trustees are affected persons in relation to an application.
 
 ### 33 Use of statutory acknowledgement
-(1) The trustees and any member of Waitaha may, as evidence of the association of Waitaha with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or directly affecting the statutory area.
+(1) The trustees and any member of Waitaha may, as evidence of the association of Waitaha with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or directly affecting the statutory area.
 (2) The content of a statement of association is not, by virtue of the statutory acknowledgement, binding as fact on—
   (a) relevant consent authorities:
   (b) the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991:
   (c) the Environment Court:
-  (d) the Historic Places Trust:
+  (d) Heritage New Zealand Pouhere Taonga:
   (e) parties to proceedings before the bodies specified in paragraphs (a) to (d):
   (f) any other person who is entitled to participate in the proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
@@ -476,8 +476,8 @@ The only purposes of the statutory acknowledgement are to—
 
 ### 34 Trustees may waive rights
 (1) The trustees may waive the right to be given summaries, and copies of notices, of resource consent applications under section 32 in relation to a statutory area.
-(2) The trustees may waive the right to have a relevant consent authority, the Environment Court, or the Historic Places Trust have regard to the statutory acknowledgement under sections 28 to 30 in relation to a statutory area.
-(3) Rights must be waived by written notice to the relevant consent authority, the Environment Court, or the Historic Places Trust, stating—
+(2) The trustees may waive the right to have a relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga have regard to the statutory acknowledgement under sections 28 to 30 in relation to a statutory area.
+(3) Rights must be waived by written notice to the relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga, stating—
   (a) the scope of the waiver; and
   (b) the period for which it applies.
 (4) An obligation under this subpart does not apply to the extent that the corresponding right has been waived under this section.
@@ -519,7 +519,7 @@ The only purposes of the statutory acknowledgement are to—
 (1) Except as expressly provided in this subpart,—
   (a) neither the statutory acknowledgement nor a deed of recognition affects, or may be taken into account by, a person exercising a power or performing a function or duty under legislation or a bylaw; and
   (b) no person, in considering a matter or making a decision or recommendation under legislation or a bylaw, may give greater or lesser weight to the association of Waitaha with a statutory area than that person would give under the relevant legislation or bylaw if there were no statutory acknowledgement or deed of recognition for the statutory area.
-(2) Subsection (1)(b) does not limit subsection (1)(a).
+(2) Subsection (1)﻿(b) does not limit subsection (1)﻿(a).
 
 ### 38 Rights not affected
 Except as expressly provided in this subpart, the statutory acknowledgement and the deed of recognition do not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
@@ -671,7 +671,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) the area concerned is to be or has been disposed of by the Crown; or
   (b) the responsibility for managing the area concerned is or has been transferred to a different Minister of the Crown or department of State.
 (3) Subsection (4) applies if—
-  (a) subsection (2)(a) or (b) applies; or
+  (a) subsection (2)﻿(a) or (b) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of Ōtawa or Te Ara a Hei.
 (4) The Crown must take reasonable steps to try to ensure that the trustees continue to have the opportunity to contribute to the management of the area concerned.
 
@@ -769,7 +769,7 @@ The fee simple estate in Te Haehae vests in the trustees.
 ### 70 Ōtara Scenic Reserve
 (1) The reservation, subject to section 19 of the Reserves Act 1977, of the Ōtara Scenic Reserve (being part of the Otawa Scenic Reserve) is revoked.
 (2) The fee simple estate in the Ōtara Scenic Reserve vests in the trustees.
-(3) The Ōtara Scenic Reserve is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) The Ōtara Scenic Reserve is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The name of the reserve created under subsection (3) is the Ōtara Scenic Reserve.
 (5) The trustees are the administering body of the Ōtara Scenic Reserve for the purposes of the Reserves Act 1977.
 
@@ -810,7 +810,7 @@ In this subpart, unless the context otherwise requires,—
   (d) the entity to be established to represent the members of Ngāti Pūkenga for the purpose of this vesting; and
   (e) the trustees of Te Tahuhu o Tawakeheimoa Trust; and
   (f) the trustees of the Tapuika Iwi Authority Trust.
-(3) Ōtanewainuku is declared a reserve and classified as a scenic reserve subject to section 19(1)(a) of the Reserves Act 1977.
+(3) Ōtanewainuku is declared a reserve and classified as a scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve is named Ōtanewainuku Scenic Reserve.
 (5) The joint management body established by section 76 is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve as if the reserve were vested in the body (as if the body were trustees) under section 26 of that Act.
 (6) Subsections (1) to (5) do not take effect until the persons described in subsection (2) have provided the Crown with a registrable easement in gross for a right of way over Ōtanewainuku on the terms and conditions set out in part 11 of the documents schedule.
@@ -827,7 +827,7 @@ In this subpart, unless the context otherwise requires,—
   (d) the entity to be established to represent the members of Ngāti Pūkenga for the purpose of this vesting; and
   (e) the trustees of the Tapuika Iwi Authority Trust; and
   (f) the trustees of Te Tahuhu o Tawakeheimoa Trust.
-(3) Pūwhenua is declared a reserve and classified as a scenic reserve subject to section 19(1)(a) of the Reserves Act 1977.
+(3) Pūwhenua is declared a reserve and classified as a scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve is named Pūwhenua Scenic Reserve.
 (5) The joint management body established by section 76 is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve as if the reserve were vested in the body (as if the body were trustees) under section 26 of that Act.
 
@@ -913,7 +913,7 @@ Each joint cultural redress property vests under this subpart subject to, or tog
     (i) section 24 of the Conservation Act 1987 does not apply; and
     (ii) the property is subject to sections 77, 80(3), and 83(2); or
   (b) part of the property, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain on the computer registers only for the part of the property that remains a reserve.
-(4) The Registrar-General must comply with an application received in accordance with subsection (3)(a).
+(4) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a).
 
 ### 85 Application of other enactments to joint cultural redress properties
 (1) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to—
@@ -926,7 +926,7 @@ Each joint cultural redress property vests under this subpart subject to, or tog
 
 ### 86 Application of Reserves Act 1977 to joint cultural redress properties that are reserve
 (1) Despite sections 48A(6), 114(5), and 115(6) of the Reserves Act 1977, sections 48A, 114, and 115 of that Act apply to a joint cultural redress property.
-(2) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a joint cultural redress property.
+(2) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a joint cultural redress property.
 (3) If the reservation under section 74(3) or 75(3) of a joint cultural redress property as a reserve is revoked under section 24 of the Reserves Act 1977 in relation to all or part of the property, section 25 of that Act, except subsection (2) of that provision, does not apply to the revocation.
 
 ### 87 Joint cultural redress property that is reserve must not be mortgaged
@@ -986,7 +986,7 @@ Each cultural redress property vests under subpart 5 subject to, or together wit
     (i) section 24 of the Conservation Act 1987 does not apply to the site; and
     (ii) the site is subject to sections 71 and 92(3) of this Act; or
   (b) part of the site, then the Registrar-General must ensure that the records referred to in paragraph (a) remain on the computer register only for the part of the site that remains a reserve.
-(5) The Registrar-General must comply with an application received in accordance with subsection (3)(a) or (4)(a).
+(5) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a) or (4)﻿(a).
 
 ### 94 Application of other enactments to cultural redress properties
 (1) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation, under sections 68(1) and 70(1), of the reserve status of a reserve site.
@@ -1002,7 +1002,7 @@ Each cultural redress property vests under subpart 5 subject to, or together wit
 
 ### 95 Application of Reserves Act 1977 to reserve sites
 (1) Despite sections 48A(6), 114(5), and 115(6) of the Reserves Act 1977, sections 48A, 114, and 115 of that Act apply to a reserve site.
-(2) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
+(2) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
 (3) If the reservation under section 68(3) or 70(3) of a reserve site is revoked under section 24 of the Reserves Act 1977 in relation to all or part of the site, section 25 of that Act, except subsection (2) of that provision, does not apply to the revocation.
 
 ### 96 Reserve site must not be mortgaged
@@ -1019,7 +1019,7 @@ The registered proprietors of a reserve site must not mortgage, or give a securi
   (a) that official geographic name is discontinued; and
   (b) the Board must ensure that, as soon as is reasonably practicable, the official geographic name is removed from the Gazetteer.
 (2) However, if a site vested under section 68 or 70 comprises only part of a reserve,—
-  (a) subsection (1)(a) applies only to the part of the site that is vested under the applicable section; and
+  (a) subsection (1)﻿(a) applies only to the part of the site that is vested under the applicable section; and
   (b) the Board must amend the Gazetteer so that the official geographic name applies only to the part of the reserve that is not vested under the applicable section.
 (3) If a site is vested under section 68 or 70 and reserved and classified as a historic reserve or a scenic reserve under that section, the historic reserve or scenic reserve does not become a Crown protected area.
 (4) In this section,—
@@ -1131,11 +1131,11 @@ The registered proprietors of a reserve site must not mortgage, or give a securi
 
 | Name of site | Description | Encumbrances |
 | --- | --- | --- |
-| Ōtara Scenic Reserve | South Auckland Land District–Western Bay of Plenty District.5.0050 hectares, more or less, being Sections 1 and 2 SO 450796. Part proclamation 10017. | Scenic reserve subject to section 19(1)(a) of the Reserves Act 1977. |
+| Ōtara Scenic Reserve | South Auckland Land District–Western Bay of Plenty District.5.0050 hectares, more or less, being Sections 1 and 2 SO 450796. Part proclamation 10017. | Scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977. |
 
 ## Schedule 4 — Ngā pae maunga: Joint cultural redress properties
 
 | Name of property | Description | Encumbrances |
 | --- | --- | --- |
-| Ōtanewainuku | 35.5 hectares, approximately, being Part Section 3 Block XVI Ōtanewainuku Survey District. Part Gazette 1947 page 481. Subject to survey.52.5 hectares, approximately, being Part Section 4 Block XVI Ōtanewainuku Survey District. Part Gazette 1920 page 2119. Subject to survey.27.0 hectares, approximately, being Part Te Puke Block. Part Gazette 1879 page 781. Subject to survey.5.0 hectares, approximately, being Part Waitaha 1. Part Gazette 1884 page 238.As shown on deed plan OTS-075-21. | Scenic reserve subject to section 19(1)(a) of the Reserves Act 1977.Subject to an unregistered guiding permit with concession number PAC 04-06-40 to Golden Fern Trust (dated 22/9/10).Subject to an unregistered guiding permit with concession number PAC 10-06-229 to Black Sheep Touring Company Ltd (dated 19/10/07).Subject to an easement in gross in favour of the Minister of Conservation referred to in section 74.Subject to a memorandum of understanding with the Kokako Trust with number DOCDM 382280 (dated 21/5/09). |
-| Pūwhenua | 52.0 hectares, approximately, being Part Lot 4 DPS 85782. Part Computer Freehold Register SA68A/371. Subject to survey.15.5 hectares, approximately, being Part Section 5 Block XIV Ōtanewainuku Survey District. Part Gazette 1940 page 1059. Subject to survey.As shown on deed plan OTS-075-22. | Scenic reserve subject to section 19(1)(a) of the Reserves Act 1977. |
+| Ōtanewainuku | 35.5 hectares, approximately, being Part Section 3 Block XVI Ōtanewainuku Survey District. Part Gazette 1947 page 481. Subject to survey.52.5 hectares, approximately, being Part Section 4 Block XVI Ōtanewainuku Survey District. Part Gazette 1920 page 2119. Subject to survey.27.0 hectares, approximately, being Part Te Puke Block. Part Gazette 1879 page 781. Subject to survey.5.0 hectares, approximately, being Part Waitaha 1. Part Gazette 1884 page 238.As shown on deed plan OTS-075-21. | Scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977.Subject to an unregistered guiding permit with concession number PAC 04-06-40 to Golden Fern Trust (dated 22/9/10).Subject to an unregistered guiding permit with concession number PAC 10-06-229 to Black Sheep Touring Company Ltd (dated 19/10/07).Subject to an easement in gross in favour of the Minister of Conservation referred to in section 74.Subject to a memorandum of understanding with the Kokako Trust with number DOCDM 382280 (dated 21/5/09). |
+| Pūwhenua | 52.0 hectares, approximately, being Part Lot 4 DPS 85782. Part Computer Freehold Register SA68A/371. Subject to survey.15.5 hectares, approximately, being Part Section 5 Block XIV Ōtanewainuku Survey District. Part Gazette 1940 page 1059. Subject to survey.As shown on deed plan OTS-075-22. | Scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977. |
