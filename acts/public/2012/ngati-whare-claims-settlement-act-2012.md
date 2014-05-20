@@ -1,5 +1,5 @@
 # Ngāti Whare Claims Settlement Act 2012
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Ngāti Whare Claims Settlement Act 2012.
@@ -238,8 +238,8 @@ In this Act, unless the context otherwise requires,—
   - **Commissioner of Crown Lands** means the Commissioner of Crown Lands appointed under section 24AA of the Land Act 1948
   - **consent authority** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **conservation accord** —
-    (a) means the accord issued by the Minister of Conservation under section 42(1)(a); and
-    (b) includes amendments to the accord under section 42(1)(b)
+    (a) means the accord issued by the Minister of Conservation under section 42(1)﻿(a); and
+    (b) includes amendments to the accord under section 42(1)﻿(b)
   - **conservation accord area** means the area subject to the conservation accord as shown on the map attached to the accord
   - **Conservation Authority** means the New Zealand Conservation Authority established by section 6A of the Conservation Act 1987
   - **Conservation Board** has the meaning given to it in section 2(1) of the Conservation Act 1987
@@ -250,8 +250,8 @@ In this Act, unless the context otherwise requires,—
   - **Crown** has the meaning given to it in section 2(1) of the Public Finance Act 1989
   - **Crown forestry licence** means the Kaingaroa Forest/Whirinaki Block Crown forestry licence held in computer interest register SA 57A/60 (South Auckland Registry)
   - **Crown minerals protocol** —
-    (a) means the protocol issued by the Minister of Energy and Resources under section 42(1)(a); and
-    (b) includes amendments to the protocol under section 42(1)(b)
+    (a) means the protocol issued by the Minister of Energy and Resources under section 42(1)﻿(a); and
+    (b) includes amendments to the protocol under section 42(1)﻿(b)
   - **Crown minerals protocol area** means the area subject to the Crown minerals protocol as shown on the map attached to the protocol
   - **Crown owned mineral** means a mineral, as defined in section 2(1) of the Crown Minerals Act 1991, to which 1 of the following applies:
     (a) it is the property of the Crown under section 10 or 11 of the Act; or
@@ -269,8 +269,8 @@ In this Act, unless the context otherwise requires,—
   - **effective date** means the date that is 6 months after the settlement date
   - **encumbrance** means a lease, tenancy, licence, licence to occupy, easement, covenant, or other right affecting a property
   - **fisheries protocol** —
-    (a) means the protocol issued by the Minister of Fisheries under section 42(1)(a); and
-    (b) includes amendments to the protocol under section 42(1)(b)
+    (a) means the protocol issued by the Minister of Fisheries under section 42(1)﻿(a); and
+    (b) includes amendments to the protocol under section 42(1)﻿(b)
   - **fisheries protocol area** means the area subject to the fisheries protocol as shown on the map attached to the protocol
   - **former Crown forest land** means each of the following sites:
     (a) Pareranui site:
@@ -280,8 +280,8 @@ In this Act, unless the context otherwise requires,—
     (e) Waimurupūhā site:
     (f) Mangamate Falls site:
     (g) Te Rake Pā site
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **historical claim** has the meaning given to it in section 12
-  - **Historic Places Trust** means the New Zealand Historic Places Trust continued by section 38 of the Historic Places Act 1993
   - **jointly vested sites** means the sites described in sections 85 to 88
   - **licensee** means the registered holder of a Crown forestry licence
   - **LINZ** means Land Information New Zealand
@@ -289,8 +289,8 @@ In this Act, unless the context otherwise requires,—
   - **Ngāti Manawa** has the meaning given to it in section 11 of the Ngāti Manawa Claims Settlement Act 2012
   - **Ngāti Whare** has the meaning given to it in section 11
   - **non-cultural redress property** means a site described as a non-cultural redress property in Part 2 of Schedule 3
-  - **protected land** means land in respect of which a direction has been made under section 104(3)(a)
-  - **protocol** means a protocol issued under section 42(1)(a), including any amendments made under section 42(1)(b)
+  - **protected land** means land in respect of which a direction has been made under section 104(3)﻿(a)
+  - **protocol** means a protocol issued under section 42(1)﻿(a), including any amendments made under section 42(1)﻿(b)
   - **regeneration land** means together the following sites:
     (a) Pareranui site; and
     (b) Tauranga-o-Reti site; and
@@ -306,9 +306,9 @@ In this Act, unless the context otherwise requires,—
   - **representative entity** means—
     (a) the trustees of Te Rūnanga o Ngāti Whare; and
     (b) a person (including any trustees) acting for, or on behalf of,—
-      (i) the collective group referred to in section 11(1)(a); or
-      (ii) 1 or more of the whānau, hapū, or groups that together form the collective group referred to in section 11(1)(a); or
-      (iii) 1 or more of the individuals referred to in section 11(1)(b)
+      (i) the collective group referred to in section 11(1)﻿(a); or
+      (ii) 1 or more of the whānau, hapū, or groups that together form the collective group referred to in section 11(1)﻿(a); or
+      (iii) 1 or more of the individuals referred to in section 11(1)﻿(b)
   - **reserve site** means each of the following sites:
     (a) Mangamate Falls site:
     (b) Te Takanga-a-Wharepakau
@@ -335,8 +335,8 @@ In this Act, unless the context otherwise requires,—
   - **supplementary deed of settlement** means the supplementary deed of settlement in relation to the Rangitaiki River between the Crown and Ngāti Whare
   - **taonga tūturu** has the meaning given to it in section 2(1) of the Protected Objects Act 1975
   - **taonga tūturu protocol** —
-    (a) means the protocol issued by the Minister for Arts, Culture and Heritage under section 42(1)(a); and
-    (b) includes amendments to the protocol under section 42(1)(b)
+    (a) means the protocol issued by the Minister for Arts, Culture and Heritage under section 42(1)﻿(a); and
+    (b) includes amendments to the protocol under section 42(1)﻿(b)
   - **taonga tūturu protocol area** means the area subject to the taonga tūturu protocol as shown on the map attached to the protocol
   - **Te Pua o Whirinaki Regeneration Trust** means the trustees from time to time of the trust established by the Te Pua o Whirinaki Regeneration Trust Deed, in their capacity as such trustees; and, if the trustees have incorporated as a board under the Charitable Trusts Act 1957, means the Board so incorporated
   - **Te Pua o Whirinaki Regeneration Trust Deed** —
@@ -381,7 +381,7 @@ In this Act, unless the context otherwise requires,—
     (ii) are a member of any of the Ngāti Whare hapū including Ngāti Tuahiwi, Ngāi Te Au, Ngāti Whare ki Ngā Pōtiki, Ngāti Te Karaha, Ngāti Māhanga, Ngāti Kohiwi, Ngāti Hāmua ki Te Whāiti, and Warahoe ki Te Whāiti; and
   (b) means every individual referred to in paragraph (a); and
   (c) includes any whānau, hapū, or group to the extent that it is composed of individuals referred to in paragraph (a).
-(2) For the purpose of subsection (1)(a), a person is descended from another person if descended from the other person by any 1 or more of the following:
+(2) For the purpose of subsection (1)﻿(a), a person is descended from another person if descended from the other person by any 1 or more of the following:
   (a) birth:
   (b) legal adoption:
   (c) Māori customary adoption in accordance with Ngāti Whare tikanga.
@@ -411,7 +411,7 @@ In this Act, unless the context otherwise requires,—
     (v) Wai 725; and
     (vi) Wai 791.
 (4) Historical claim does not include—
-  (a) a claim that a member of Ngāti Whare, or a whānau, hapū, or group referred to in section 11(1)(c), may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not a Ngāti Whare ancestor; or
+  (a) a claim that a member of Ngāti Whare, or a whānau, hapū, or group referred to in section 11(1)﻿(c), may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not a Ngāti Whare ancestor; or
   (b) a claim that a representative entity for Ngāti Whare may have to the extent to which the claim is, or is based on, a claim referred to in paragraph (a).
 
 **Settlement of historical claims**
@@ -422,7 +422,7 @@ In this Act, unless the context otherwise requires,—
 (3) Subsections (1) and (2) do not—
   (a) limit the deed of settlement; or
   (b) affect any rights that Ngāti Whare may have.
-(4) The rights referred to in subsection (3)(b)—
+(4) The rights referred to in subsection (3)﻿(b)—
   (a) are rights that arise—
     (i) from the Treaty of Waitangi or its principles; or
     (ii) under legislation; or
@@ -436,7 +436,7 @@ In this Act, unless the context otherwise requires,—
   (c) the redress provided under the deed of settlement or under this Act; or
   (d) this Act.
 (6) Subsection (5) does not exclude the jurisdiction of the courts, the Waitangi Tribunal, or any other judicial bodies and tribunals in respect of the interpretation or implementation of the deed of settlement or this Act.
-(7) Despite subsection (5)(a), the Waitangi Tribunal—
+(7) Despite subsection (5)﻿(a), the Waitangi Tribunal—
   (a) may complete its inquiry into, and make findings on, Te Urewera claims (Wai 894), including claims settled by this Act; but
   (b) must not make recommendations in relation to any of the claims settled by this Act.
 
@@ -588,7 +588,7 @@ After considering the comments on the draft plan from the Conservation Authority
 
 ### 34 Application of Conservation Act 1987
 (1) The Whirinaki Plan is a management plan for the purposes of section 17D(8) of the Conservation Act 1987.
-(2) This Act is an Act for the purposes of section 17D(4)(a) of the Conservation Act 1987.
+(2) This Act is an Act for the purposes of section 17D(4)﻿(a) of the Conservation Act 1987.
 (3) The Conservation Act 1987 applies to the Whirinaki Plan as if it were a conservation management plan under the Act’s provisions, except for sections 17F, 17G, 17H, 17I, 49(2) and (3).
 (4) If a conservation management strategy is prepared under section 17F of the Conservation Act 1987, the Director-General, Conservation Authority, Conservation Board, and Minister of Conservation must have regard to the cultural, historical, and spiritual significance of the Whirinaki Te Pua-a-Tāne Conservation Park to Ngāti Whare.
 
@@ -670,7 +670,7 @@ The conservation accord and protocols do not restrict—
 (1) A summary of the terms of the conservation accord must be noted in the conservation documents affecting the conservation accord area.
 (2) The noting of the conservation accord is—
   (a) for the purpose of public notice only; and
-  (b) not an amendment to the conservation documents for the purposes of section 171 of the Conservation Act 1987 or section 46 of the National Parks Act 1980.
+  (b) not an amendment to the conservation documents for the purposes of section 17I of the Conservation Act 1987 or section 46 of the National Parks Act 1980.
 (3) The conservation accord does not have the effect of creating, granting, or providing evidence of an estate or interest in, or rights relating to, land held, managed, or administered, or flora or fauna managed or administered, under the—
   (a) Conservation Act 1987; or
   (b) other statutes listed in Schedule 1 of that Act.
@@ -712,7 +712,7 @@ The taonga tūturu protocol does not have the effect of creating, granting, or p
 
 ### 50 Purposes of statutory acknowledgement
 (1) The only purposes of the statutory acknowledgements are to—
-  (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, as provided for in sections 51 to 53; and
+  (a) require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, as provided for in sections 51 to 53; and
   (b) require relevant consent authorities to forward summaries of resource consent applications to the trustees of Te Rūnanga o Ngāti Whare, as provided for in section 55; and
   (c) enable the trustees of Te Rūnanga o Ngāti Whare and any member of Ngāti Whare to cite the statutory acknowledgement as evidence of the association of Ngāti Whare with the relevant statutory areas, as provided for in section 56.
 (2) This section does not limit sections 59 to 61.
@@ -725,11 +725,11 @@ The taonga tūturu protocol does not have the effect of creating, granting, or p
 (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in deciding, under section 274 of the Resource Management Act 1991, if the trustees of Te Rūnanga o Ngāti Whare are persons who have an interest in proceedings that is greater than the interest the general public has in respect of an application for a resource consent for activities within, adjacent to, or directly affecting the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 53 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) This section applies if, on or after the effective date, an application is made under section 11 or 12 of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within a statutory area.
-(2) The Historic Places Trust must have regard to the statutory acknowledgement relating to a statutory area in exercising its powers under section 14 of the Historic Places Act 1993 in relation to the application referred to in subsection (1).
-(3) The Environment Court must have regard to the statutory acknowledgement relating to a statutory area in determining under section 20 of the Historic Places Act 1993 any appeal from a decision of the Historic Places Trust in relation to the application referred to in subsection (1), including in determining whether the trustees of Te Rūnanga o Ngāti Whare are persons directly affected by the decision.
-(4) In this section, archaeological site has the meaning given to it in section 2 of the Historic Places Act 1993.
+### 53 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 54 Recording statutory acknowledgement on statutory plans
 (1) On and from the effective date, each relevant consent authority must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover a statutory area.
@@ -742,24 +742,24 @@ The taonga tūturu protocol does not have the effect of creating, granting, or p
 (1) Each relevant consent authority must, for a period of 20 years from the effective date, forward to the trustees of Te Rūnanga o Ngāti Whare, in the following form, a summary of resource consent applications received by that consent authority for activities within, adjacent to, or directly affecting a statutory area:
   (a) if the application is received by the consent authority, a summary of the application; or
   (b) if notice of the application is served on the consent authority under section 145(10) of the Resource Management Act 1991, a copy of the notice.
-(2) The information provided under subsection (1)(a) must be—
+(2) The information provided under subsection (1)﻿(a) must be—
   (a) the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991 or as may be agreed between the trustees of Te Rūnanga o Ngāti Whare and the relevant consent authority; and
   (b) provided as soon as is reasonably practicable after the application is received and before the relevant consent authority decides, under section 95 of that Act, whether to notify the application.
 (3) The trustees of Te Rūnanga o Ngāti Whare may, by notice in writing to a relevant consent authority,—
   (a) waive their rights to be notified under this section; and
   (b) state the scope of that waiver and the period it applies for.
-(4) A copy of a notice of an application must be provided under subsection (1)(b) no later than 10 business days after the day on which the consent authority receives the notice.
+(4) A copy of a notice of an application must be provided under subsection (1)﻿(b) no later than 10 business days after the day on which the consent authority receives the notice.
 (5) This section does not affect a relevant consent authority’s obligation to decide—
   (a) under section 95 of the Resource Management Act 1991, whether to notify an application:
   (b) under section 95E of that Act, if the trustees of Te Rūnanga o Ngāti Whare are affected persons in relation to an activity.
 
 ### 56 Use of statutory acknowledgement
-(1) The trustees of Te Rūnanga o Ngāti Whare and any members of Ngāti Whare may, as evidence of the association of Ngāti Whare with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or directly affecting the statutory area.
+(1) The trustees of Te Rūnanga o Ngāti Whare and any members of Ngāti Whare may, as evidence of the association of Ngāti Whare with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or directly affecting the statutory area.
 (2) The content of a statement of association is not, by virtue of the statutory acknowledgement, binding as fact on—
   (a) relevant consent authorities:
   (b) the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991:
   (c) the Environment Court:
-  (d) the Historic Places Trust:
+  (d) Heritage New Zealand Pouhere Taonga:
   (e) parties to proceedings before those bodies:
   (f) any other person who is entitled to participate in those proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
@@ -797,7 +797,7 @@ If a statutory acknowledgement or deed of recognition relates to a river, the ri
 (1) Except as expressly provided in this Act,—
   (a) the statutory acknowledgement and the deed of recognition do not affect, and may not be taken into account by, a person exercising a power or performing a function or duty under legislation or a bylaw; and
   (b) no person, in considering a matter or making a decision or recommendation under legislation or a bylaw, may give greater or lesser weight to the association of Ngāti Whare with a statutory area (as described in a statement of association) than that person would give under the relevant legislation or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 60 Rights not affected
 Except as expressly provided in this Act, the statutory acknowledgement and the deed of recognition do not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
@@ -971,10 +971,10 @@ An undivided half share of the fee simple estate in the Hināmoki Pā site vests
 (1) In relation to the Local Government (Rating) Act 2002, the jointly vested sites are rateable only under section 9 of the Act.
 (2) In relation to the Public Works Act 1981, the jointly vested sites may not be acquired or taken under the Act without the consent of the Minister of Conservation.
 (3) In relation to the Resource Management Act 1991, section 108(9) applies to the jointly vested sites as if the land were Māori land within the meaning of Te Ture Whenua Maori Act 1993.
-(4) In relation to Te Ture Whenua Maori Act 1993, sections 18(1)(c) and (d), 19(1)(a), 20, 24, 26, 194, and 342 apply to the jointly vested sites as if the land were Māori freehold land.
+(4) In relation to Te Ture Whenua Maori Act 1993, sections 18(1)﻿(c) and (d), 19(1)﻿(a), 20, 24, 26, 194, and 342 apply to the jointly vested sites as if the land were Māori freehold land.
 (5) Section 51 of the Crown Minerals Act 1991 is amended by adding the following subsections:
   (7) No person may, for the purpose of carrying out a minimum impact activity, enter on any land without the consent of the trustees of Te Rūnanga o Ngāti Whare and the trustees of Te Rūnanga o Ngāti Manawa (as those terms are defined in section 10 of the Ngāti Whare Claims Settlement Act 2012 and section 10 of the Ngāti Manawa Claims Settlement Act 2012), if the land is registered in the names of Wharepakau and Tangiharuru as tenants in common.
-  (8) Subsection (1)(b) applies in relation to land registered in the names of Wharepakau and Tangiharuru as tenants in common under section 104 of the Ngāti Whare Claims Settlement Act 2012 and section 88 of the Ngāti Manawa Claims Settlement Act 2012 as if that land were Māori land and as if the trustees of Te Rūnanga o Ngāti Whare and the trustees of Te Rūnanga o Ngāti Manawa (as those terms are defined in section 10 of the Ngāti Whare Claims Settlement Act 2012 and section 10 of the Ngāti Manawa Claims Settlement Act 2012) were jointly the local iwi authority of that land.
+  (8) Subsection (1)﻿(b) applies in relation to land registered in the names of Wharepakau and Tangiharuru as tenants in common under section 104 of the Ngāti Whare Claims Settlement Act 2012 and section 88 of the Ngāti Manawa Claims Settlement Act 2012 as if that land were Māori land and as if the trustees of Te Rūnanga o Ngāti Whare and the trustees of Te Rūnanga o Ngāti Manawa (as those terms are defined in section 10 of the Ngāti Whare Claims Settlement Act 2012 and section 10 of the Ngāti Manawa Claims Settlement Act 2012) were jointly the local iwi authority of that land.
 
 ### 91 Title to jointly vested sites
 (1) For a jointly vested site, the Registrar-General must, in accordance with a written application by an authorised person,—
@@ -1035,7 +1035,7 @@ Each cultural redress property vests under this Act subject to, or together with
     (i) section 24 of the Conservation Act 1987 does not apply to the site; and
     (ii) the site is subject to sections 94(3) and 100 of this Act; or
   (b) part of the site, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain on the computer freehold register only for the part of the site that remains a reserve.
-(4) The Registrar-General must comply with an application received in accordance with subsection (3)(a).
+(4) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a).
 
 ### 96 Application of other enactments
 (1) Section 11 and Part 10 of the Resource Management Act 1991 do not apply to—
@@ -1059,14 +1059,14 @@ Each cultural redress property vests under this Act subject to, or together with
 If a provision in this Act has the same effect for a jointly vested site as a provision in the Ngāti Manawa Claims Settlement Act 2012, the provisions must be given effect to only once as if they were 1 provision.
 
 ### 98 Non-cultural redress properties
-Sections 15, 16, 92, 93, 94(1), 95(1)(b) and (2), and 96 apply to the non-cultural redress properties as if each site were a cultural redress property.
+Sections 15, 16, 92, 93, 94(1), 95(1)﻿(b) and (2), and 96 apply to the non-cultural redress properties as if each site were a cultural redress property.
 
 **Provisions relating to reserve sites**
 
 ### 99 Application of Reserves Act 1977 to reserve sites
 (1) The trustees of Te Rūnanga o Ngāti Whare are the administering body of a reserve site for the purposes of the Reserves Act 1977.
 (2) Despite sections 48A(6), 114(5), and 115(6) of the Reserves Act 1977, sections 48A, 114, and 115 of that Act apply to a reserve site.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
 (4) If the reservation under this Act of a reserve site is revoked under section 24 of the Reserves Act 1977 in relation to all or part of the site, section 25 of the Act, except subsection (2) of that provision, does not apply to the revocation.
 
 ### 100 Subsequent transfer of reserve land
@@ -1121,18 +1121,18 @@ Sections 15, 16, 92, 93, 94(1), 95(1)(b) and (2), and 96 apply to the non-cultur
   (a) be registered in the name of Wharepakau, rather than in the names of the trustees of Te Rūnanga o Ngāti Whare; or
   (b) be no longer registered in the name of Wharepakau, and instead be registered in the names of the trustees of Te Rūnanga o Ngāti Whare.
 (3) In relation to the wāhi tapu sites,—
-  (a) the trustees of Te Rūnanga o Ngāti Whare may include in a notice under subsection (2)(a) a direction that the land be protected land:
+  (a) the trustees of Te Rūnanga o Ngāti Whare may include in a notice under subsection (2)﻿(a) a direction that the land be protected land:
   (b) the trustees of Te Rūnanga o Ngāti Whare may give the Registrar-General a written notice that land that is protected land no longer be protected land.
-(4) If the Registrar-General receives a notice under subsection (2)(a), the Registrar-General must comply with it by—
+(4) If the Registrar-General receives a notice under subsection (2)﻿(a), the Registrar-General must comply with it by—
   (a) registering the computer freehold register to the land in the name of Wharepakau; and
   (b) entering a notation on the computer freehold register to the land that the land is subject to this section; and
   (c) if the notice includes a direction that the land be protected land, entering a notation on the computer freehold register to the land that the land is protected land.
-(5) If the Registrar-General receives a notice under subsection (2)(b), the Registrar-General must comply with it by—
+(5) If the Registrar-General receives a notice under subsection (2)﻿(b), the Registrar-General must comply with it by—
   (a) registering the computer freehold register to the land in the names of the trustees of Te Rūnanga o Ngāti Whare; and
-  (b) cancelling the notation entered under subsection (4)(b); and
-  (c) cancelling the notation entered under subsection (4)(c).
-(6) If the Registrar-General receives a notice under subsection (3)(b), the Registrar-General must give effect to it by cancelling the notation made under subsection (4)(c).
-(7) In the absence of evidence to the contrary, it is sufficient evidence that the notice has been properly given to the Registrar-General under subsection (2)(a) or (b) or (3)(a) or (b) if the notice—
+  (b) cancelling the notation entered under subsection (4)﻿(b); and
+  (c) cancelling the notation entered under subsection (4)﻿(c).
+(6) If the Registrar-General receives a notice under subsection (3)﻿(b), the Registrar-General must give effect to it by cancelling the notation made under subsection (4)﻿(c).
+(7) In the absence of evidence to the contrary, it is sufficient evidence that the notice has been properly given to the Registrar-General under subsection (2)﻿(a) or (b) or (3)﻿(a) or (b) if the notice—
   (a) is executed or purports to be executed by the trustees of Te Rūnanga o Ngāti Whare; and
   (b) in the case of a notice given under subsection (2), relates to the land registrable or registered in the names of the trustees of Te Rūnanga o Ngāti Whare; and
   (c) in the case of a notice given under subsection (3), relates to a wāhi tapu site.
@@ -1147,12 +1147,12 @@ Sections 15, 16, 92, 93, 94(1), 95(1)(b) and (2), and 96 apply to the non-cultur
 (2) In relation to the Local Government (Rating) Act 2002, protected land is rateable only under section 9 of the Act.
 (3) In relation to the Public Works Act 1981, protected land may not be acquired or taken under the Act without the consent of the Minister of Conservation.
 (4) In relation to the Resource Management Act 1991, section 108(9) applies to protected land as if it were Māori land within the meaning of Te Ture Whenua Maori Act 1993.
-(5) In relation to Te Ture Whenua Maori Act 1993, sections 18(1)(c) and (d), 19(1)(a), 20, 24, 26, 194, and 342 apply to protected land as if it were Māori freehold land.
+(5) In relation to Te Ture Whenua Maori Act 1993, sections 18(1)﻿(c) and (d), 19(1)﻿(a), 20, 24, 26, 194, and 342 apply to protected land as if it were Māori freehold land.
 (6) Section 51 of the Crown Minerals Act 1991 is amended by adding the following subsections:
   (9) No person may, for the purpose of carrying out a minimum impact activity enter on any land without the consent of the trustees of Te Rūnanga o Ngāti Whare (as defined in section 10 of the Ngāti Whare Claims Settlement Act 2012), if the land is—
     (a) registered in the name of Wharepakau as protected land under section 104 of that Act; and
     (b) regarded as wāhi tapu by the trustees.
-  (10) Subsection (1)(b) applies in relation to land registered in the name of Wharepakau as protected land under section 104 of the Ngāti Whare Claims Settlement Act 2012 as if that land were Māori land and as if the trustees were the local iwi authority of that land.
+  (10) Subsection (1)﻿(b) applies in relation to land registered in the name of Wharepakau as protected land under section 104 of the Ngāti Whare Claims Settlement Act 2012 as if that land were Māori land and as if the trustees were the local iwi authority of that land.
 
 **Rangitaiki River Management Framework**
 
@@ -1178,7 +1178,7 @@ Crown acknowledges—
 ### 108 Establishment and purpose of Forum
 (1) A statutory body called the Rangitaiki River Forum is established.
 (2) The purpose of the Forum is the protection and enhancement of the environmental, cultural, and spiritual health and wellbeing of the Rangitaiki River and its resources for the benefit of present and future generations.
-(3) Despite the composition of the Forum as described in section 112, the Forum is a joint committee of the Bay of Plenty Regional Council and the Whakatane District Council within the meaning of clause 30(1)(b) of Schedule 7 of the Local Government Act 2002.
+(3) Despite the composition of the Forum as described in section 112, the Forum is a joint committee of the Bay of Plenty Regional Council and the Whakatane District Council within the meaning of clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002.
 (4) Despite Schedule 7 of the Local Government Act 2002, the Forum—
   (a) is a permanent committee; and
   (b) must not be discharged unless all appointers agree to the Forum being discharged.
@@ -1195,7 +1195,7 @@ Crown acknowledges—
   (d) monitor the extent to which the purpose of the Rangitaiki River Forum is being achieved including the implementation and effectiveness of the Rangitaiki River Document; and
   (e) gather information, disseminate information, and hold meetings; and
   (f) take any other action that is related to achieving the purpose of the Forum.
-(3) To avoid doubt, except as provided for in subsection (2)(a), the Forum has discretion to determine in any particular circumstances—
+(3) To avoid doubt, except as provided for in subsection (2)﻿(a), the Forum has discretion to determine in any particular circumstances—
   (a) whether to exercise any function identified in subsection (2); and
   (b) how, and to what extent, any function identified in subsection (2) is exercised.
 
@@ -1248,7 +1248,7 @@ The provisions of the Local Government Act 2002, Local Government Official Infor
 (2) The quorum for a meeting of the Forum is—
   (a) 3 members appointed by the iwi appointers; and
   (b) 3 members appointed by the local authority appointers.
-(3) Clauses 23(3)(b) and 30(9)(b) of Schedule 7 of the Local Government Act 2002 do not apply to the Forum.
+(3) Clauses 23(3)﻿(b) and 30(9)﻿(b) of Schedule 7 of the Local Government Act 2002 do not apply to the Forum.
 
 ### 116 Decision making
 (1) The decisions of the Forum must be made by vote at a meeting.
@@ -1312,7 +1312,7 @@ The Rangitaiki River Document may contain—
   (b) the Forum approves the Rangitaiki River Document before the Bay of Plenty regional policy statement is declared operative under clause 20 of Schedule 1 of the Resource Management Act 1991.
 (6) Where subsection (5) applies, the Bay of Plenty Regional Council—
   (a) must, within 6 months after the approval of the Rangitaiki River Document by the Forum, notify a variation to the proposed Bay of Plenty regional policy statement, for the purpose of recognising and providing for the Rangitaiki River Document as provided for in subsection (1); and
-  (b) must not declare the Bay of Plenty regional policy statement operative under clause 20 of Schedule 1 of the Resource Management Act 1991 before a variation has been notified in accordance with subsection (6)(a).
+  (b) must not declare the Bay of Plenty regional policy statement operative under clause 20 of Schedule 1 of the Resource Management Act 1991 before a variation has been notified in accordance with subsection (6)﻿(a).
 (7) The obligation under subsection (6) applies only on the first occasion on which the Forum approves the Rangitaiki River Document.
 
 ### 124 Effect on conservation planning documents
@@ -1416,7 +1416,7 @@ The joint management agreement with the Bay of Plenty Regional Council must incl
 | Te Teko site | South Auckland Land District - Whakatane District4.9998 hectares, more or less, being Section 1 SO 433101. Part computer freehold register 507554. | Subject to the Crown forestry licence (B263238.2) held in computer interest register SA57A/60 (varied by B371196.52, B371196.53, B371196.55, and B558475.41).Subject to the protective covenant certificate (B263238.3) held in computer interest register SA57A/61.Together with the right of way created by easement instrument 8212199.1 and held in computer interest register 482467.Together with the right of way created by easement instrument 8241609.1.Together with the right of way created by easement instrument 8208936.1 and held in computer interest register 484186.Together with the right of way created by easement instrument 8208944.1.Together with the right of way created by easement instrument 8208942.1 and held in computer interest register 486616.Together with the right of way easement to be created - Bonisch Road. |
 | Mangamate Kāinga site | South Auckland Land District - Whakatane District4.9991 hectares, more or less, being Section 1 SO 431517. Part computer freehold register 507554. | Subject to the Crown forestry licence (B263238.2 held in computer interest register SA57A/60 (varied by B371196.52, B371196.53, B371196.55, and B558475.41).Subject to the protective covenant certificate (B263238.3) held in computer interest register SA57A/61.Together with the right of way created by easement instrument 8212199.1 and held in computer interest register 482467.Together with the right of way created by easement instrument 8241609.1.Together with the right of way easement to be created - Bonisch Road. |
 | Balance of Regeneration Land | South Auckland Land District - Whakatane District608.0686 hectares, more or less, being Section 2 SO 431517, Section 2 SO 432338, Sections 4 and 7 SO 433101. Part computer freehold register 507554. | Subject to the Crown forestry licence (B263238.2) held in computer interest register SA57A/60 (varied by B371196.52, B371196.53, B371196.55, and B558475.41).Subject to the protective covenant certificate (B263238.3) held in computer interest register SA57A/61.Subject to the public access easement marked B, C, and D on DPS 55243 (B263238.4) held in computer interest register SA57A/62. |
-|  |  | Subject to section 10 of the Central North Island Forests Land Collective Settlement Act 2008.Subject to the right of way marked A, B, and C on DPS 53893 created by easement instrument 8208950.1 and held in computer interest register 485148.Subject to the right of way marked A, B, C, and E on SO 431517 to be created under CNI.Subject to the right of way in gross referred to in section 79(2)(a).Together with the right of way created by easement instrument 8212199.1 and held in computer interest register 482467.Together with the right of way created by easement instrument 8241609.1.Together with the right of way created by easement instrument 8208936.1 and held in computer interest register 484186.Together with the right of way created by easement instrument 8208944.1.Together with the right of way created by easement instrument 8208942.1 and held in computer interest register 486616.Together with the right of way easement to be created - Bonisch Road. |
+|  |  | Subject to section 10 of the Central North Island Forests Land Collective Settlement Act 2008.Subject to the right of way marked A, B, and C on DPS 53893 created by easement instrument 8208950.1 and held in computer interest register 485148.Subject to the right of way marked A, B, C, and E on SO 431517 to be created under CNI.Subject to the right of way in gross referred to in section 79(2)﻿(a).Together with the right of way created by easement instrument 8212199.1 and held in computer interest register 482467.Together with the right of way created by easement instrument 8241609.1.Together with the right of way created by easement instrument 8208936.1 and held in computer interest register 484186.Together with the right of way created by easement instrument 8208944.1.Together with the right of way created by easement instrument 8208942.1 and held in computer interest register 486616.Together with the right of way easement to be created - Bonisch Road. |
 | Waimurupūhā site | South Auckland Land District - Whakatane District4.9997 hectares, more or less, being Section 6 SO 433101. Part computer freehold register 507554. | Subject to the Crown forestry licence (B263238.2) held in computer interest register SA57A/60 (varied by B371196.52, B371196.53, B371196.55, and B558475.41).Subject to the protective covenant certificate (B263238.3) held in computer interest register SA57A/61.Together with the right of way created by easement instrument 8212199.1 and held in computer interest register 482467.Together with the right of way created by easement instrument 8241609.1.Together with the right of way created by easement instrument 8208936.1 and held in computer interest register 484186.Together with the right of way created by easement instrument 8208944.1.Together with the right of way created by easement instrument 8208942.1 and held in computer interest register 486616.Together with the right of way easement to created - Bonisch Road. |
 | Mangamate Falls site | South Auckland Land District -Whakatane District5.6000 hectares, more or less, being Section 1 SO 432338. Part computer freehold register 507554. | To be administered as a recreation reserve subject to section 17 of the Reserves Act 1977.Subject to the protective covenant certificate (B263238.3) held in computer interest register SA57A/61.Together with the right of way created by easement instrument 8212199.1 and held in computer interest register 482467.Together with the right of way created by easement instrument 8241609.1Together with the right of way easement to be created - Bonisch Road. |
 | Te Takanga-a-Wharepakau Historic Reserve site | South Auckland Land District - Whakatane District1.3327 hectares, more or less, being Section 3 SO 432338. (Part formerly part of the marginal strip retained by the Crown on the disposition of Lot 1 DPS 63738. Part computer freehold register 507554.)4.2670 hectares, more or less, being Section 6 SO 432338. | To be administered as an historic reserve subject to section 18 of the Reserves Act 1977 (affects Section 3 SO 432338).To be administered as a recreation reserve subject to section 17 of the Reserves Act 1977 (affects Section 6 SO 432338). |
