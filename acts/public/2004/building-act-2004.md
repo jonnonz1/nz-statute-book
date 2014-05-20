@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -814,7 +814,7 @@ An owner may apply to a territorial authority for a project information memorand
     (i) a statement of the requirements to be met in order for the authorisation to be granted or imposed; and
     (ii) the conditions to which an authorisation will be subject; and
   (e) if the territorial authority considers that the owner of the building or proposed building to which the project information memorandum relates is likely to be required, under section 21A of the Fire Service Act 1975, to make provision for a scheme that provides for evacuation from the scene of a fire, a statement to that effect; and
-  (f) if the territorial authority considers that notification to the New Zealand Historic Places Trust is likely to be required under section 39, a statement to that effect; and
+  (f) if the territorial authority considers that notification to Heritage New Zealand Pouhere Taonga is likely to be required under section 39, a statement to that effect; and
   (g) either—
     (i) confirmation, subject to this Act, that building work may be carried out subject to the requirements of a building consent and subject also to all other necessary authorisations being obtained; or
     (ii) notification that building work may not be carried out because any necessary authorisation has been refused, despite the issue of any building consent; and
@@ -852,11 +852,11 @@ An owner may apply to a territorial authority for a project information memorand
 ### 38 Territorial authority must give copy of project information memorandum in certain circumstances
 If a project information memorandum contains information previously supplied to a territorial authority by a network utility operator or a statutory authority, the territorial authority must give a copy of the project information memorandum to that operator or that authority.
 
-### 39 Territorial authority must advise New Zealand Historic Places Trust in certain circumstances
+### 39 Territorial authority must advise Heritage New Zealand Pouhere Taonga in certain circumstances
 (1) This section applies if—
-  (a) an application for a project information memorandum, or for a building consent, affects a registered historic place, historic area, wāhi tapu, or wāhi tapu area; and
-  (b) the territorial authority has not previously advised the New Zealand Historic Places Trust about the building work to which that application relates.
-(2) The territorial authority must advise the New Zealand Historic Places Trust within 5 days after receiving the application.
+  (a) an application for a project information memorandum, or for a building consent, affects a historic place, historic area, wāhi tapu, or wāhi tapu area that has been entered on the New Zealand Heritage List/Rārangi Kōrero; and
+  (b) the territorial authority has not previously advised Heritage New Zealand Pouhere Taonga about the building work to which that application relates.
+(2) The territorial authority must advise Heritage New Zealand Pouhere Taonga within 5 days after receiving the application.
 
 **Building consents**
 
@@ -1009,7 +1009,7 @@ If a building consent authority refuses to grant an application for a building c
     (i) the project information memorandum (if any) for the building work to which the building consent relates; and
     (ii) a development contribution notice under section 36 (if any); and
     (iii) a certificate issued under section 37 (if any); and
-  (ba) contain confirmation that the New Zealand Historic Places Trust has been notified under section 39 (if applicable); and
+  (ba) contain confirmation that Heritage New Zealand Pouhere Taonga has been notified under section 39 (if applicable); and
   (c) if a compliance schedule is required as a result of the building work, state—
     (i) the specified systems that must be covered by the compliance schedule; and
     (ii) the performance standards for the specified systems that are required by the building code; and
@@ -1820,7 +1820,7 @@ A building is insanitary for the purposes of this Act if the building—
   (c) every person who has an interest in the land on which the building is situated under a mortgage or other encumbrance registered under the Land Transfer Act 1952; and
   (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952; and
   (e) any statutory authority, if the land or building has been classified; and
-  (f) the New Zealand Historic Places Trust, if the building is a heritage building.
+  (f) Heritage New Zealand Pouhere Taonga, if the building is a heritage building.
 (3) However, the notice, if fixed on the building, is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (2).
 
 ### 126 Territorial authority may carry out work
@@ -2196,7 +2196,7 @@ The owner of a dam who has reasonable grounds for believing that the dam is, or 
   (c) every person who has an interest in the land on which the dam is situated under a mortgage or other encumbrance registered under the Land Transfer Act 1952; and
   (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952; and
   (e) any statutory authority, if the land or dam has been classified; and
-  (f) the New Zealand Historic Places Trust, if the dam is a heritage dam.
+  (f) Heritage New Zealand Pouhere Taonga, if the dam is a heritage dam.
 (3) However, the notice, if fixed on the dam, is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (2).
 
 ### 156 Regional authority may carry out work
