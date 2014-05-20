@@ -1,5 +1,5 @@
 # Mauao Historic Reserve Vesting Act 2008
-_Consolidation as at 2008-05-22_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) Mauao, or Mount Maunganui, is of significant cultural, traditional, historical, and spiritual importance to Ngāi Te Rangi, Ngāti Ranginui, and Ngāti Pūkenga:
@@ -46,7 +46,7 @@ This Act binds the Crown.
 (1) The fee simple estate in Mauao historic reserve is vested, by way of gift, in the trustees of the Mauao Trust subject to—
   (a) this Act; and
   (b) the encumbrances set out in Schedule 2; and
-  (c) any authority granted to the Tauranga City Council under the Historic Places Act 1993 to retain, maintain, and replace existing fencing on the reserve; and
+  (c) any authority granted to the Tauranga City Council under the Heritage New Zealand Pouhere Taonga Act 2014 to retain, maintain, and replace existing fencing on the reserve; and
   (d) any statutory access or other rights in relation to the reserve that any person may have (including rights of access under the Cadastral Survey Act 2002 or the Maritime Transport Act 1994 to the trig station and navigational beacon on the reserve).
 (2) The trustees must hold the fee simple estate on trust for Ngāi Te Rangi, Ngāti Ranginui, and Ngāti Pūkenga in accordance with the deed of trust.
 (3) This section is subject to section 7.
