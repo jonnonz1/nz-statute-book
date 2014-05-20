@@ -1,5 +1,5 @@
 # Hauraki Gulf Marine Park Act 2000
-_Consolidation as at 2013-02-08_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) The Hauraki Gulf has a quality and diversity of biology and landscape that makes it outstanding within New Zealand. The islands of the Gulf are valued as the habitats of plants and animals, once common, now rare, and are often the only places in the world where these species exist naturally:
@@ -315,7 +315,7 @@ The purposes of the Hauraki Gulf Marine Park are—
 (2) The following land may be included in the Park in accordance with this section:
   (a) land subject to a conservation covenant entered into under section 77 of the Reserves Act 1977 or section 27 of the Conservation Act 1987:
   (b) land subject to a Nga Whenua Rahui kawenata entered into under section 77A of the Reserves Act 1977 or section 27A of the Conservation Act 1987:
-  (c) land subject to a heritage covenant entered into under section 6 of the Historic Places Act 1993:
+  (c) land subject to a heritage covenant entered into under section 39 of the Heritage New Zealand Pouhere Taonga Act 2014:
   (d) land subject to an open space covenant entered into under section 22 of the Queen Elizabeth the Second National Trust Act 1977:
   (e) land subject to a declaration under section 76 of the Reserves Act 1977 that it is protected private land:
   (f) land controlled and managed by a Minister or an administering body for the purposes of the Reserves Act 1977 where the owner has agreed to the use of land for that purpose in accordance with section 38 of that Act:
