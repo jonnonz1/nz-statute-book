@@ -1,5 +1,5 @@
 # Ngāti Pāhauwera Treaty Claims Settlement Act 2012
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) The Treaty of Waitangi (Te Tiriti o Waitangi) was signed in 1840. The terms of the Treaty of Waitangi (Te Tiriti o Waitangi) in English and Māori are set out in Schedule 1 of the Treaty of Waitangi Act 1975:
@@ -189,7 +189,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
   - **documents schedule** means the documents schedule of the deed of settlement
   - **effective date** means the date that is 6 months after the settlement date
   - **encumbrance** means a lease, a tenancy, a licence, a licence to occupy, an easement, a covenant, or other right or obligation affecting a property
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued by section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **historical claims** has the meaning given to it in section 13
   - **land holding agency** means,—
     (a) in relation to commercial redress property for no consideration, the land holding agency specified for the property in table A of Part 4 of the provisions schedule:
@@ -775,7 +775,7 @@ The Crown acknowledges the statement of association.
 
 ### 68 Purposes of statutory acknowledgement
 (1) The only purposes of the statutory acknowledgement are to—
-  (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, as provided for in sections 69 to 71; and
+  (a) require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, as provided for in sections 69 to 71; and
   (b) require relevant consent authorities to forward summaries of resource consent applications, or copies of notices of resource consent applications, to the trustees of the Ngāti Pāhauwera Development Trust, as provided for in section 73; and
   (c) enable the trustees of the Ngāti Pāhauwera Development Trust and any member of Ngāti Pāhauwera to cite the statutory acknowledgement as evidence of the association of Ngāti Pāhauwera with the relevant part of the Earthquake Slip Marginal Strip, as provided for in section 74.
 (2) This section does not limit sections 76 to 78.
@@ -788,11 +788,11 @@ The Crown acknowledges the statement of association.
 (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement for the relevant part of the Earthquake Slip Marginal Strip in deciding, under section 274 of the Resource Management Act 1991, whether the trustees of the Ngāti Pāhauwera Development Trust are persons who have an interest in proceedings that is greater than the interest that the general public has in respect of an application for a resource consent for activities within, adjacent to, or directly affecting the relevant part of the Earthquake Slip Marginal Strip.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 71 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) This section applies if, on and after the effective date, an application is made under section 11 or 12 of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within the relevant part of the Earthquake Slip Marginal Strip.
-(2) The Historic Places Trust must have regard to the statutory acknowledgement in exercising its powers under section 14 of the Historic Places Act 1993 in relation to the application made under subsection (1), including in determining whether the trustees of the Ngāti Pāhauwera Development Trust are persons directly affected by an extension of time.
-(3) The Environment Court must have regard to the statutory acknowledgement in determining under section 20 of the Historic Places Act 1993 any appeal from a decision of the Historic Places Trust in relation to the application made under subsection (1), including in determining whether the trustees of the Ngāti Pāhauwera Development Trust are persons directly affected by the decision.
-(4) In this section, archaeological site has the same meaning as in section 2 of the Historic Places Act 1993.
+### 71 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 72 Recording statutory acknowledgement on statutory plans
 (1) On and from the effective date, each relevant consent authority must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover the relevant part of the Earthquake Slip Marginal Strip.
@@ -818,12 +818,12 @@ The Crown acknowledges the statement of association.
   (b) under section 95E of that Act, to decide if the trustees of the Ngāti Pāhauwera Development Trust are affected persons in relation to an activity.
 
 ### 74 Use of statutory acknowledgement
-(1) The trustees of the Ngāti Pāhauwera Development Trust and any member of Ngāti Pāhauwera may, as evidence of the association of Ngāti Pāhauwera with the relevant part of the Earthquake Slip Marginal Strip, cite the statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or directly affecting the relevant part of the Earthquake Slip Marginal Strip.
+(1) The trustees of the Ngāti Pāhauwera Development Trust and any member of Ngāti Pāhauwera may, as evidence of the association of Ngāti Pāhauwera with the relevant part of the Earthquake Slip Marginal Strip, cite the statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or directly affecting the relevant part of the Earthquake Slip Marginal Strip.
 (2) The content of the statement of association is not, by virtue of the statutory acknowledgement, binding as fact on—
   (a) relevant consent authorities:
   (b) the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991:
   (c) the Environment Court:
-  (d) the Historic Places Trust:
+  (d) Heritage New Zealand Pouhere Taonga:
   (e) parties to proceedings before those bodies:
   (f) any other person who is entitled to participate in those proceedings.
 (3) However, the bodies and persons specified in subsection (2) may take the statutory acknowledgement into account.
@@ -833,7 +833,7 @@ The Crown acknowledges the statement of association.
 
 ### 75 Trustees of Ngāti Pāhauwera Development Trust may waive rights
 (1) The trustees of the Ngāti Pāhauwera Development Trust may waive the right to be provided with summaries, and copies of notices, of resource consent applications under section 73 in relation to the relevant part of the Earthquake Slip Marginal Strip.
-(2) Rights must be waived by written notice to the relevant consent authority, the Environment Court, or the Historic Places Trust, stating—
+(2) Rights must be waived by written notice to the relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga, stating—
   (a) the scope of the waiver; and
   (b) the period for which it applies.
 (3) An obligation under this subpart does not apply to the extent that the corresponding right has been waived under this section.
@@ -950,8 +950,8 @@ Section 87 applies whether or not, on the settlement date, the transfer of the f
 
 ### 91 Meaning of protected site
 In this subpart, protected site means any area of land situated in the licensed land that—
-  (a) is wāhi tapu or a wāhi tapu area within the meaning of section 2 of the Historic Places Act 1993; and
-  (b) becomes a registered place within the meaning of section 2 of that Act.
+  (a) is wāhi tapu or a wāhi tapu area within the meaning of section 6 of the Heritage New Zealand Pouhere Taonga Act 2014; and
+  (b) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero (as defined in section 6 of that Act).
 
 ### 92 Right of access to protected site
 (1) The owner of the land on which a protected site is situated and any person holding an interest in, or a right of occupancy to, that land must allow access across the land to each protected site to Māori for whom the protected site is of special spiritual, cultural, or historical significance.
@@ -1353,7 +1353,7 @@ For the purposes of section 12(1)(a), the hapū of Ngāti Pāhauwera are—
 
 | Name of site | Description | Encumbrances |
 | --- | --- | --- |
-| Te Heru o Tūreia (Area B) | Hawke's Bay Land District: Hastings and Wairoa Districts.164.0000 hectares, more or less, being Section 1 SO 438297. Part R7457 and Part Proclamation 539179.1. | Subject to the conservation covenant referred to in section 24(1). Subject to an unregistered telecommunications concession with a concession number ECHB–1216–CON. |
+| Te Heru o Tūreia (Area B) | Hawke's Bay Land District: Hastings and Wairoa Districts.164.0000 hectares, more or less, being Section 1 SO 438297. Part R7457 and Part Proclamation 539179.1. | Subject to the conservation covenant referred to in section 24(1).Subject to an unregistered telecommunications concession with a concession number ECHB–1216–CON. |
 | Nakunaku | Hawke's Bay Land District: Wairoa District.52.910 hectares, more or less, being Section 4 SO 9433. Part Proclamation 539179.1. | Subject to section 18 of the Reserves Act 1977 for the purposes of a historic reserve. |
 
 ## Schedule 3 — Other cultural redress properties
