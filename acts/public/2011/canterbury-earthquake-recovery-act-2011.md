@@ -1,5 +1,5 @@
 # Canterbury Earthquake Recovery Act 2011
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Canterbury Earthquake Recovery Act 2011.
@@ -656,7 +656,7 @@ The exercise of the power giving rise to a claim for compensation under this sub
   (e) the Earthquake Commission Act 1993:
   (f) the Health Act 1956:
   (g) the Health and Disability Services (Safety) Act 2001:
-  (h) the Historic Places Act 1993:
+  (h) the Heritage New Zealand Pouhere Taonga Act 2014:
   (i) the Land Transport Act 1998:
   (j) the Land Transport Management Act 2003:
   (k) the Local Government Act 1974:
