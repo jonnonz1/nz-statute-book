@@ -1,5 +1,5 @@
 # Pouakani Claims Settlement Act 2000
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) E mau ake nei te Rārangi Tāpiri Tuatahi mō tēnei ture, e whakaūpoko ana i roto i te reo Māori me te reo Pākehā i ngā tikanga o te Tiriti o Waitangi:
@@ -107,6 +107,7 @@ In this Act, unless the context otherwise requires,—
       (i) the attachments and schedules to the deed of settlement; and
       (ii) any amendments from time to time to the deed or to the attachments or to the schedules
   - **encumbrance** means a lease, licence, permit, easement, access arrangement, consent, or third party right, whether registered or unregistered as at 19 November 1999
+  - **Heritage New Zealand Pouhere Taonga** has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **Māori freehold land** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Pouakani B9B Trust** —
@@ -359,7 +360,7 @@ The Crown acknowledges the statements made by the Pouakani people of the particu
 ### 36 Purposes of statutory acknowledgement
 Without limiting sections 48 to 50, the only purposes of the statutory acknowledgement are—
   (a) to require that consent authorities forward summaries of resource consent applications to the Pouakani governance entity as required by regulations made under section 37; and
-  (b) to require that consent authorities, the Historic Places Trust, and the Environment Court have regard to the statutory acknowledgement in relation to the Crown-owned area of Titiraupenga, as provided in sections 38 to 40; and
+  (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, and the Environment Court have regard to the statutory acknowledgement in relation to the Crown-owned area of Titiraupenga, as provided in sections 38 to 40; and
   (c) to enable the Pouakani governance entity and any member of the Pouakani people to cite the statutory acknowledgement as evidence of the association of the Pouakani people to the Crown-owned area of Titiraupenga, as provided in section 41.
 
 ### 37 Distribution of applications to Pouakani governance entity
@@ -376,16 +377,18 @@ From the effective date, and without derogation from its obligations under Part 
 ### 39 Environment Court to have regard to statutory acknowledgement under section 274 of Resource Management Act 1991
 From the effective date, and without derogating from its obligations under Part 2 of the Resource Management Act 1991, the Environment Court must have regard to the statutory acknowledgement in determining, for the purposes of section 274 of the Resource Management Act 1991, whether the Pouakani governance entity has an interest, greater than the public generally, in proceedings relating to an application for a resource consent for activities within, adjacent to, or impacting directly on the Crown-owned area of Titiraupenga.
 
-### 40 Historic Places Trust and Environment Court to have regard to statutory acknowledgement under sections 14 and 20 of Historic Places Act 1993
-(1) From the effective date, the Historic Places Trust and the Environment Court must have regard to the statutory acknowledgement in forming an opinion, for the purposes of section 14 or section 20(1) of the Historic Places Act 1993, as to whether the Pouakani governance entity is directly affected in relation to an archaeological site within the Crown-owned area of Titiraupenga.
-(2) In this section, archaeological site has the same meaning as in section 2 of the Historic Places Act 1993.
+### 40 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the Crown-owned area of Titiraupenga, including in making a determination as to whether the Pouakani governance entity is a person directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 41 Use of statutory acknowledgement with submissions
-(1) The Pouakani governance entity and any member of the Pouakani people may, as evidence of the Pouakani people’s association with the Crown-owned area of Titiraupenga, cite the statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the Crown-owned area of Titiraupenga.
+(1) The Pouakani governance entity and any member of the Pouakani people may, as evidence of the Pouakani people’s association with the Crown-owned area of Titiraupenga, cite the statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the Crown-owned area of Titiraupenga.
 (2) The content of the statement of association, as recorded in the statutory acknowledgement, is not, by virtue of the statutory acknowledgement, binding as deemed fact on—
   (a) consent authorities; and
   (b) the Environment Court; and
-  (c) the Historic Places Trust; and
+  (c) Heritage New Zealand Pouhere Taonga; and
   (d) parties to proceedings before those bodies; and
   (e) any other person able to participate in those proceedings.
 (3) Despite subsection (2) the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
