@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2013-10-25_
+_Consolidation as at 2014-05-20_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -840,7 +840,7 @@ All actions and proceedings by or on behalf of the Crown in connection with any 
 (2) Subsection (1) shall not oblige any person to register any lease or licence granted under this Act.
 
 ### 77 Approval under this Act not to authorise actions in contravention of other Acts
-Nothing in any authorisation by the Minister to do any act that would otherwise be unlawful under this Act shall be deemed to authorise any person to do any act in contravention of the Native Plants Protection Act 1934, the Wildlife Act 1953, the Historic Places Act 1993, the Protected Objects Act 1975, the Wild Animal Control Act 1977, or any other Act, or any regulation, proclamation, warrant, bylaw, or notification made or issued under any Act.
+Nothing in any authorisation by the Minister to do any act that would otherwise be unlawful under this Act shall be deemed to authorise any person to do any act in contravention of the Native Plants Protection Act 1934, the Wildlife Act 1953, the Heritage New Zealand Pouhere Taonga Act 2014, the Protected Objects Act 1975, the Wild Animal Control Act 1977, or any other Act, or any regulation, proclamation, warrant, bylaw, or notification made or issued under any Act.
 
 ### 78 Mining operations in national parks
 [Repealed]
