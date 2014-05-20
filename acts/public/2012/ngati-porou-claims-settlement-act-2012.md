@@ -1,5 +1,5 @@
 # Ngati Porou Claims Settlement Act 2012
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Ngati Porou Claims Settlement Act 2012.
@@ -45,8 +45,8 @@ This Act binds the Crown.
   (a) in subpart 1,—
     (i) making provision for the reorganisation of the governance arrangements of Ngati Porou by the dissolution of Te Runanga and the Porou Ariki Trust; and
     (ii) the transfer of the assets and liabilities of Te Runanga to the trustee, Te Runanganui o Ngati Porou Trustee Limited; and
-    (iii) provisions recognising the status of the trustee under the Maori Fisheries Act 2004 and other matters related the recognition of the trustee as the mandated iwi organisation for Ngati Porou; and
-  (b) in subpart 2, transitional taxation arrangements relevant to the reorganisation referred to in paragraph (a)(i) and (ii); and
+    (iii) provisions recognising the status of the trustee under the Maori Fisheries Act 2004 and other matters related to the recognition of the trustee as the mandated iwi organisation for Ngati Porou; and
+  (b) in subpart 2, transitional taxation arrangements relevant to the reorganisation referred to in paragraph (a)﻿(i) and (ii); and
   (c) in subpart 3, the repeal, revocations, and consequential amendments required.
 (6) There are 4 schedules, which set out matters as follows:
   (a) in Part 1 of Schedule 1, nga hapu o Ngati Porou and in Part 2 of that schedule, the claims to the Waitangi Tribunal that are within the meaning of Ngati Porou historical claims:
@@ -227,7 +227,7 @@ In this Act, unless the context otherwise requires,—
   - **conservation document** means a conservation management plan, conservation management strategy, freshwater fisheries management plan, or national park management plan
   - **conservation management plan** has the meaning given in section 2(1) of the Conservation Act 1987
   - **conservation management strategy** has the meaning given in section 2(1) of the Conservation Act 1987
-  - **conservation protocol** means a protocol issued by the Minister of Conservation under section 38(1)(a), including any amendments made under section 38(1)(b)
+  - **conservation protocol** means a protocol issued by the Minister of Conservation under section 38(1)﻿(a), including any amendments made under section 38(1)﻿(b)
   - **conservation protocol area** means the area shown on the map attached to the conservation protocol
   - **control** , for the purposes of paragraph (d) of the definition of Crown body, means—
     (a) in relation to a company, control of the composition of its board of directors; and
@@ -252,7 +252,7 @@ In this Act, unless the context otherwise requires,—
   - **Crown mineral** means, for the purposes of the Crown minerals protocol, a mineral as defined in section 2(1) of the Crown Minerals Act 1991—
     (a) that is the property of the Crown under section 10 or 11 of that Act; or
     (b) over which the Crown has jurisdiction under the Continental Shelf Act 1964
-  - **Crown minerals protocol** means a protocol issued by the Minister of Energy and Resources under section 38(1)(a), including any amendments made under section 38(1)(b)
+  - **Crown minerals protocol** means a protocol issued by the Minister of Energy and Resources under section 38(1)﻿(a), including any amendments made under section 38(1)﻿(b)
   - **Crown minerals protocol area** means the area shown on the map attached to the Crown minerals protocol, together with the adjacent waters
   - **cultural redress property** has the meaning given in section 57
   - **customary rights** means rights according to tikanga Maori, including—
@@ -269,7 +269,7 @@ In this Act, unless the context otherwise requires,—
   - **documents schedule** means the documents schedule of the deed of settlement
   - **effective date** means the date that is 6 months after the settlement date
   - **encumbrance** means a lease, tenancy, licence, licence to occupy, easement, covenant, or other right or obligation affecting a settlement property
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued under section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **historical claims** has the meaning given in section 12
   - **land holding agency** means,—
     (a) for a commercial redress property, the land holding agency specified for the property in Part 1 of the property redress schedule:
@@ -285,13 +285,13 @@ In this Act, unless the context otherwise requires,—
   - **licensor** means the licensor for the time being of the Crown forestry licence
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
-  - **member of Ngati Porou** means every individual referred to in section 11(1)(a)
+  - **member of Ngati Porou** means every individual referred to in section 11(1)﻿(a)
   - **national park management plan** has the same meaning as management plan in section 2 of the National Parks Act 1980
   - **nga Whakahaere Takirua mo nga Paanga Whenua o Ngati Porou** and have the meaning given in section 21
   - **Ngati Porou** has the meaning given in section 11(1)
   - **property redress schedule** means the property redress schedule of the deed of settlement
   - **protected site** has the meaning given in section 94
-  - **protocol** means a protocol issued under section 38(1)(a), including any amendments made under section 38(1)(b)
+  - **protocol** means a protocol issued under section 38(1)﻿(a), including any amendments made under section 38(1)﻿(b)
   - **regional council** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **Registrar-General** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
   - **related company** has the meaning given in section 2(3) of the Companies Act 1993
@@ -299,8 +299,8 @@ In this Act, unless the context otherwise requires,—
   - **representative entity** means—
     (a) the trustee; and
     (b) any person (including any trust or trustee) acting for, or on behalf of,—
-      (i) the collective referred to in section 11(1)(a); or
-      (ii) 1 or more of the whanau, hapu, or groups that together form the collective group referred to in section 11(1)(a); or
+      (i) the collective referred to in section 11(1)﻿(a); or
+      (ii) 1 or more of the whanau, hapu, or groups that together form the collective group referred to in section 11(1)﻿(a); or
       (iii) 1 or more members of Ngati Porou
   - **reserve land** has the meaning given in section 79(1)
   - **reserve site** means a site described in any of Parts 2 and 3 of Schedule 3
@@ -334,7 +334,7 @@ In this Act, unless the context otherwise requires,—
     (b) a proposed plan as defined in section 43AAC of that Act
   - **subsidiary** has the meaning given in section 5 of the Companies Act 1993
   - **taonga tuturu** and have the meanings given in section 2(1) of the Protected Objects Act 1975
-  - **taonga tuturu protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 38(1)(a), including any amendments made under section 38(1)(b)
+  - **taonga tuturu protocol** means a protocol issued by the Minister for Arts, Culture and Heritage under section 38(1)﻿(a), including any amendments made under section 38(1)﻿(b)
   - **Te Runanga o Ngati Porou** and —
     (a) mean the body corporate constituted by section 3 of the Te Runanga o Ngati Porou Act 1987; but
     (b) do not include any entity wholly or partly owned or controlled by Te Runanga immediately before the commencement of this Act
@@ -354,12 +354,12 @@ In this Act, unless the context otherwise requires,—
     (ii) every whanau or hapu to the extent that it comprises individuals referred to in subparagraph (i); and
   (b) includes the following groups:
     (i) nga hapu o Ngati Porou; and
-    (ii) every individual referred to in paragraph (a)(i) and (ii).
+    (ii) every individual referred to in paragraph (a)﻿(i) and (ii).
 (2) In this section, nga hapu o Ngati Porou means the hapu listed in Part 1 of Schedule 1.
 (3) In this section and section 12, Ngati Porou tipuna means an individual who exercised customary rights within the Ngati Porou area of interest on or after 6 February 1840 by virtue of being descended from—
   (a) Porourangi (also known as Porou Ariki te Mataratara-a-whare te Tuhimareikura-a-Rauru); or
   (b) a recognised ancestor of any of nga hapu o Ngati Porou, including Hauiti, Hinekehu, Hinemaurea, Hinerupe, Hunaara, Irakaiputahi, Konohi, Mahaki-ewe-karoro, Materoa, Rakai-a-tane, Ruataupare, Ruawaipu, Taiau, Takimoana, Tawhipare, Te Aotaihi, Te Aotaki, Te Ataakura, Tuere, Tuwhakairiora, Uepohatu, and Umuariki.
-(4) For the purposes of subsections (1)(a) and (3)(a), a person is descended from another person if the person descends from the other by—
+(4) For the purposes of subsections (1)﻿(a) and (3)﻿(a), a person is descended from another person if the person descends from the other by—
   (a) birth:
   (b) legal adoption.
 
@@ -533,7 +533,7 @@ Before the parties commence preparation of a draft nga Whakahaere Takirua, they 
   (a) both parties; and
   (b) the Conservation Board.
 (4) The parties and the Conservation Board may hear any other person or organisation whose views on the draft document were sought under section 27(4).
-(5) The hearing of submissions must be concluded not later than 2 months after the date specified in the notice given under section 27(1)(b).
+(5) The hearing of submissions must be concluded not later than 2 months after the date specified in the notice given under section 27(1)﻿(b).
 (6) The parties must jointly prepare a summary of the submissions on the draft document and any other views on it made known to the parties under section 27(4).
 
 ### 29 Revision of draft nga Whakahaere Takirua
@@ -555,11 +555,11 @@ The parties must, after considering the submissions heard and other views receiv
 
 ### 31 Approval of nga Whakahaere Takirua
 (1) The Conservation Authority—
-  (a) must consider the draft nga Whakahaere Takirua and any relevant information provided under section 30(1)(b); and
+  (a) must consider the draft nga Whakahaere Takirua and any relevant information provided under section 30(1)﻿(b); and
   (b) may consult with any person or organisation that it considers appropriate, including—
     (i) the parties; and
     (ii) the Conservation Board.
-(2) After considering the draft document and any relevant information provided under subsection (1)(a), the Conservation Authority must—
+(2) After considering the draft document and any relevant information provided under subsection (1)﻿(a), the Conservation Authority must—
   (a) make any amendments to the draft document that it considers necessary; and
   (b) provide the draft document and other relevant information to the Minister and the trustee.
 (3) The Minister and trustee jointly must—
@@ -567,7 +567,7 @@ The parties must, after considering the submissions heard and other views receiv
   (b) if either or both of them consider further revision is necessary, return the draft document to the Conservation Authority with written recommendations for change.
 (4) The Conservation Authority, after having regard to any recommendations received under subsection (3), must either—
   (a) approve the draft document; or
-  (b) return it to the Minister and trustee for further consideration in accordance with subsection (3)(b), with any new information that the Authority wishes them to consider, before the draft document is approved.
+  (b) return it to the Minister and trustee for further consideration in accordance with subsection (3)﻿(b), with any new information that the Authority wishes them to consider, before the draft document is approved.
 
 **Review and amendment of nga Whakahaere Takirua**
 
@@ -689,7 +689,7 @@ In this subpart, river (including any tributary)—
 
 ### 46 Purposes of statutory acknowledgement
 (1) The only purposes of the statutory acknowledgement are to—
-  (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, as provided for in sections 47 to 49; and
+  (a) require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, as provided for in sections 47 to 49; and
   (b) require relevant consent authorities to forward summaries of resource consent applications or, as the case requires, copies of notices of applications to the trustee, as provided for in section 51; and
   (c) enable the trustee and any member of Ngati Porou to cite the statutory acknowledgement as evidence of the association of Ngati Porou with the relevant statutory areas, as provided for in section 52.
 (2) This section does not limit sections 53 to 55.
@@ -702,11 +702,11 @@ In this subpart, river (including any tributary)—
 (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in deciding, under section 274 of the Resource Management Act 1991, whether the trustee is a person with an interest greater than that of the general public in respect of proceedings relating to an application for a resource consent for an activity within, adjacent to, or that directly affects a statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 49 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) If, on or after the effective date, an application is made under section 11 or 12 of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within a statutory area,—
-  (a) the Historic Places Trust, in exercising its powers under section 14 of the Historic Places Act 1993 in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
-  (b) the Environment Court, in determining under section 20 of the Historic Places Act 1993 any appeal from a decision of the Historic Places Trust in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustee is a person directly affected by the decision.
-(2) In this section, archaeological site has the meaning given in section 2 of the Historic Places Act 1993.
+### 49 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 50 Recording statutory acknowledgement on statutory plans
 (1) On and from the effective date, each relevant consent authority must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover a statutory area.
@@ -719,12 +719,12 @@ In this subpart, river (including any tributary)—
 (1) Each relevant consent authority must, for a period of 20 years on and from the effective date, provide the following to the trustee for each resource consent application for an activity within, adjacent to, or directly affecting a statutory area:
   (a) a summary of the application, if the application is received by the consent authority; or
   (b) a copy of the notice, if the application is served on the consent authority under section 145(10) of the Resource Management Act 1991.
-(2) The information provided under subsection (1)(a) must be—
+(2) The information provided under subsection (1)﻿(a) must be—
   (a) the same as would be given to an affected person under section 95B of the Resource Management Act 1991, or as may be agreed between the trustee and the relevant consent authority; and
   (b) provided as soon as is reasonably practicable—
     (i) after an application is received by the consent authority; and
     (ii) before the relevant consent authority decides under section 95 of that Act whether to notify the application.
-(3) A copy of the notice given under subsection (1)(b) must be provided not later than 10 business days after the day on which the consent authority receives the notice.
+(3) A copy of the notice given under subsection (1)﻿(b) must be provided not later than 10 business days after the day on which the consent authority receives the notice.
 (4) The trustee may, by notice in writing to a relevant consent authority,—
   (a) waive its rights to be notified under this section; and
   (b) state the scope of that waiver and the period it applies for.
@@ -736,7 +736,7 @@ In this subpart, river (including any tributary)—
 (1) The trustee and any member of Ngati Porou may, as evidence of the association of Ngati Porou with a statutory area, cite the statutory acknowledgement that relates to that area in submissions or proceedings concerning activities within, adjacent to, or directly affecting the statutory area, that are made to or before—
   (a) the relevant consent authorities; or
   (b) the Environment Court; or
-  (c) the Historic Places Trust; or
+  (c) Heritage New Zealand Pouhere Taonga; or
   (d) the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991.
 (2) The content of a statement of association is not, by virtue of the statutory acknowledgement, binding as fact on—
   (a) the bodies and the court referred to in subsection (1); or
@@ -751,7 +751,7 @@ In this subpart, river (including any tributary)—
 (1) Except as expressly provided in this subpart,—
   (a) the statutory acknowledgement does not affect, and may not be taken into account by, a person exercising a power or performing a function or duty under legislation or a bylaw; and
   (b) no person, in considering a matter or making a decision or recommendation under legislation or a bylaw, may give greater or lesser weight to the association of Ngati Porou with a statutory area (as described in a statement of association) than that person would give under the relevant legislation or bylaw if no statutory acknowledgement existed in respect of the statutory area.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 54 Rights not affected
 Except as expressly provided in this subpart, the statutory acknowledgement does not affect the lawful rights or interests of any person who is not a party to the deed of settlement.
@@ -833,7 +833,7 @@ In this Act, cultural redress property means any of the following sites, and eac
 ### 63 Anaura
 (1) The reservation of Anaura as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Anaura vests in the trustee.
-(3) Anaura is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Anaura is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) Subsections (1) to (3) are subject to the trustee providing to the Crown a registrable easement in gross for a right to convey water in favour of the Minister of Conservation, as set out in the documents schedule.
 (5) The easement is enforceable in accordance with its terms despite the provisions of the Reserves Act 1977 and is to be treated as having been granted in accordance with that Act.
 (6) The reserve created by subsection (3) is named Anaura Scenic Reserve.
@@ -841,32 +841,32 @@ In this Act, cultural redress property means any of the following sites, and eac
 ### 64 Herenga
 (1) The reservation of Herenga as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Herenga vests in the trustee.
-(3) Herenga is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Herenga is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Herenga Scenic Reserve.
 
 ### 65 Aorangi
 (1) The reservation of Aorangi as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Aorangi vests in the trustee.
-(3) Aorangi is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Aorangi is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Aorangi Scenic Reserve.
 
 ### 66 Pakaturi
 (1) Pakaturi ceases to be a conservation area under the Conservation Act 1987.
 (2) The fee simple estate in Pakaturi vests in the trustee.
-(3) Pakaturi is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Pakaturi is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Pakaturi Scenic Reserve.
 
 ### 67 Paraheka
 (1) The reservation of Paraheka as a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Paraheka vests in the trustee.
-(3) Paraheka is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Paraheka is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Paraheka Scenic Reserve.
 
 ### 68 Pukeamaru
 (1) The reservation of the part of Pukeamaru that is a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (2) The parts of Pukeamaru that are conservation areas under the Conservation Act 1987 cease to be conservation areas.
 (3) The fee simple estate in Pukeamaru vests in the trustee.
-(4) Pukeamaru is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(4) Pukeamaru is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (5) Despite section 78(1), on the day of the vesting by subsection (3), the Director-General is to be the administering body of Pukeamaru—
   (a) to control and manage the reserve under the Reserves Act 1977; and
   (b) for a period of 5 years after the vesting.
@@ -876,7 +876,7 @@ In this Act, cultural redress property means any of the following sites, and eac
 (1) The part of Waimahuru that is a conservation area under the Conservation Act 1987 ceases to be a conservation area.
 (2) The reservation of the part of Waimahuru that is a scenic reserve subject to section 19 of the Reserves Act 1977 is revoked.
 (3) The fee simple estate in Waimahuru vests in the trustee.
-(4) Waimahuru is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(4) Waimahuru is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (5) The reserve created by subsection (4) is named Waimahuru Scenic Reserve.
 
 **Sites vested in fee simple to be administered as local purpose reserves**
@@ -950,7 +950,7 @@ Each cultural redress property vests under subpart 4 in the trustee, subject to,
     (i) section 24 of the Conservation Act 1987 does not apply to the site; and
     (ii) the site is subject to sections 75(3) and 79 of this Act; or
   (b) part of the site, then the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on the computer freehold register for the part of the site that remains a reserve.
-(4) The Registrar-General must comply with an application received in accordance with subsection (3)(a).
+(4) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a).
 
 ### 77 Application of other enactments
 (1) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation, under subpart 4, of the reserve status of a cultural redress property.
@@ -965,7 +965,7 @@ Each cultural redress property vests under subpart 4 in the trustee, subject to,
 ### 78 Application of Reserves Act 1977 to reserve sites
 (1) The trustee is the administering body of each of the reserve sites for the purposes of the Reserves Act 1977.
 (2) Despite sections 48A(6), 114(5), and 115(6) of the Reserves Act 1977, sections 48A, 114, and 115 of that Act apply to the reserve sites.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to the reserve sites.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to the reserve sites.
 (4) If the reservation under subpart 4 of a reserve site is revoked under section 24 of the Reserves Act 1977 in relation to all or part of the site, section 25 of that Act, except subsection (2) of that provision, does not apply to the revocation.
 
 ### 79 Subsequent transfer of reserve land
@@ -1059,7 +1059,7 @@ The registered proprietors of a reserve site must not mortgage, or give a securi
     (ii) affect other rights to subsurface minerals; or
     (iii) require the permission of a council under section 348 of the Local Government Act 1974 for laying out, forming, granting, or reserving a private road, private way, or right of way that may otherwise be required to fulfil the terms of the deed of settlement.
 (4) In exercising the powers conferred by this subpart, the Crown is not required to comply with any other enactment that would otherwise regulate or apply to the transfer of a relevant property to the trustee.
-(5) Subsection (4) is subject to subsection (3)(a) and (b)(i) and (ii).
+(5) Subsection (4) is subject to subsection (3)﻿(a) and (b)﻿(i) and (ii).
 
 ### 89 Application of Conservation Act 1987 if school sites transferred
 (1) In this section, school site means one of the following deferred selection properties described in Part 1 of the property redress schedule under the heading Deferred selection properties:
@@ -1067,19 +1067,19 @@ The registered proprietors of a reserve site must not mortgage, or give a securi
   (b) Te Kura Kaupapa Maori o Mangatuna:
   (c) Whangara School.
 (2) If a school site is transferred to the trustee under section 83,—
-  (a) despite section 88(3)(a), the rest of section 24 of the Conservation Act 1987 does not apply to the transfer of the school site; and
+  (a) despite section 88(3)﻿(a), the rest of section 24 of the Conservation Act 1987 does not apply to the transfer of the school site; and
   (b) if a lease relating to all or part of a school site, or a renewal of that lease, terminates or expires without being renewed, then the transfer is no longer exempt from the rest of section 24 of that Act in relation to all or part of the school site.
 (3) The Registrar-General must record on the computer freehold register for the school site that—
   (a) the land is subject to Part 4A of the Conservation Act 1987; and
-  (b) section 24 of that Act does not apply; and that the land is subject to subsection (2)(b).
+  (b) section 24 of that Act does not apply; and that the land is subject to subsection (2)﻿(b).
 (4) Notification under subsection (3) that land is subject to Part 4A of the Conservation Act 1987 is to be treated as having been made in compliance with section 24D(1) of that Act.
-(5) If a lease referred to in subsection (2)(b), or a renewal of that lease, terminates, or expires without being renewed, in relation to all or part of a school site, the Minister of Education must apply in writing to the Registrar-General,—
+(5) If a lease referred to in subsection (2)﻿(b), or a renewal of that lease, terminates, or expires without being renewed, in relation to all or part of a school site, the Minister of Education must apply in writing to the Registrar-General,—
   (a) if none of the school site remains subject to such a lease, to remove from the computer freehold register for the school site the notifications that—
     (i) section 24 of the Conservation Act 1987 does not apply to the school site; and
-    (ii) the school site is subject to subsection (2)(b); or
+    (ii) the school site is subject to subsection (2)﻿(b); or
   (b) if only part of the school site remains subject to such a lease (the leased part), to amend the notifications on the computer freehold register for the school site to record that, in relation to only the leased part,—
     (i) section 24 of the Conservation Act 1987 does not apply to that part; and
-    (ii) that part is subject to subsection (2)(b).
+    (ii) that part is subject to subsection (2)﻿(b).
 (6) The Registrar-General must comply with an application received from the Minister of Education under subsection (5).
 
 ### Subpart 2 — Licensed land
@@ -1093,14 +1093,14 @@ The registered proprietors of a reserve site must not mortgage, or give a securi
 (2) The effect of subsection (1) is that—
   (a) the trustee is entitled to the rental proceeds payable since the commencement of the Crown forestry licence; and
   (b) all the provisions of the Crown forestry rental trust deed apply on the basis that the trustee is the confirmed beneficiary.
-(3) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of each Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
+(3) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of each Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
 (4) Notice given by the Crown under subsection (3) has effect as if—
-  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
+  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
   (b) the recommendation had become final on the settlement date.
 (5) The trustee is the licensor under each Crown forestry licence as if the licensed land had been returned to Maori ownership—
   (a) on the settlement date; and
   (b) under section 36 of the Crown Forest Assets Act 1989.
-(6) However, section 36(1)(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
+(6) However, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
 
 ### 92 Effect of transfer of licensed land
 Section 91 applies whether or not, on the settlement date, the transfer of the fee simple estate in the licensed land has been registered.
@@ -1115,8 +1115,8 @@ Section 91 applies whether or not, on the settlement date, the transfer of the f
 
 ### 94 Meaning of protected site
 In this subpart, protected site means any area of land situated in the licensed land or the unlicensed land that—
-  (a) is wahi tapu or a wahi tapu area within the meaning of section 2 of the Historic Places Act 1993; and
-  (b) becomes a registered place within the meaning of section 2 of that Act.
+  (a) is wahi tapu or a wahi tapu area within the meaning of section 6 of the Heritage New Zealand Pouhere Taonga Act 2014; and
+  (b) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero (as defined in section 6 of that Act).
 
 ### 95 Right of access to protected site
 (1) The owner of the land on which a protected site is situated and any person holding an interest in, or right of occupancy to, that land must allow access across the land to each protected site to Maori for whom the protected site is of special spiritual, cultural, or historical significance.
@@ -1181,7 +1181,7 @@ In this subpart and Schedule 4, unless the context requires another meaning,—
 (1) In this subpart, RFR land means—
   (a) the general RFR land; and
   (b) the deferred selection RFR land; and
-  (c) land obtained in exchange for a disposal of RFR land under section 112(1)(c) or 113.
+  (c) land obtained in exchange for a disposal of RFR land under section 112(1)﻿(c) or 113.
 (2) However, land ceases to be RFR land if—
   (a) the RFR landowner transfers the fee simple estate in the land to—
     (i) the trustee or its nominee (for example, under section 105); or
@@ -1278,7 +1278,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 111 Disposal by the Crown under certain legislation
 The Crown may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 355(3) of the Resource Management Act 1991; or
   (c) section 34 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 
@@ -1286,8 +1286,8 @@ The Crown may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as those provisions are applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -1319,7 +1319,7 @@ Housing New Zealand Corporation or any of its subsidiaries may dispose of RFR la
     (i) that prevents or limits an RFR landowner’s disposal of RFR land to the trustee; and
     (ii) that the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) Reasonable steps, for the purposes of subsection (1)(b)(ii), do not include steps to promote the passing of an enactment.
+(2) Reasonable steps, for the purposes of subsection (1)﻿(b)﻿(ii), do not include steps to promote the passing of an enactment.
 (3) This subpart does not limit subsection (1).
 
 **Notices**
@@ -1582,10 +1582,10 @@ This subpart applies, by virtue of the reorganisation of the governance of Ngati
 (1) This section applies provided that—
   (a) the assets and liabilities of Te Runanga become the assets and liabilities of the trustee; and
   (b) the asset-holding company of Te Runanga becomes the asset-holding company of the trustee.
-(2) On and from the date on which the assets and liabilities vest in the trustee under section 131(1)(a),—
+(2) On and from the date on which the assets and liabilities vest in the trustee under section 131(1)﻿(a),—
   (a) the trustee is deemed to be the same person as Te Runanga; and
   (b) everything done by Te Runanga before the assets and liabilities become those of the trustee is deemed to have been done by the trustee on the date that it was done by Te Runanga.
-(3) Income derived or expenditure incurred by Te Runanga before the assets and liabilities become those of the trustee does not become income derived or expenditure incurred by the trustee just because the assets and liabilities become those of the trustee under section 131(1)(a).
+(3) Income derived or expenditure incurred by Te Runanga before the assets and liabilities become those of the trustee does not become income derived or expenditure incurred by the trustee just because the assets and liabilities become those of the trustee under section 131(1)﻿(a).
 (4) Subsection (5) applies if income of Te Runanga—
   (a) is derived from a financial arrangement, trading stock, revenue account property, or depreciable property; and
   (b) is exempt income of Te Runanga but is not exempt income of the trustee.
@@ -1696,7 +1696,7 @@ For the purposes of section 11, the hapu of Ngati Porou are—
 ### Part 2 — Historical claims
 
 ### 2 Historical claims
-(1) For the purposes of section 12(1)(b), the claims are—
+(1) For the purposes of section 12(1)﻿(b), the claims are—
   (1) Wai 39 (Ngati Porou Lands, Fisheries and SOE Act claim):
   (2) Wai 63 (Tai Rawhiti Fisheries claim):
   (3) Wai 98 (Oweka Wangaokeno Lands and Fisheries claim):
@@ -1825,7 +1825,7 @@ For the purposes of section 11, the hapu of Ngati Porou are—
   (126) Wai 2184 (Te Hapuoneone (Rangihuna) claim):
   (127) Wai 2198 (Tira Wahine claim):
   (128) Wai 2210 (Descendants of Iharaira Houkamau Lands claim).
-(2) For the purposes of section 12(1)(c), the claims are—
+(2) For the purposes of section 12(1)﻿(c), the claims are—
   (a) Wai 703 (Tauwhareparae Lands claim):
   (b) Wai 1421 (Traditional Harvesting of Beached Whales claim):
   (c) Wai 1436 (East Cape to Wairoa-Heretaunga Oil, Gas, Gold, and Other Minerals claim):
