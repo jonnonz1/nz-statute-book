@@ -1,5 +1,5 @@
 # Te Uri o Hau Claims Settlement Act 2002
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) The Treaty of Waitangi is set out, in Maori and English, in Schedule 1:
@@ -188,7 +188,7 @@ In this Act, unless the context otherwise requires,—
   (f) TUOH Company Limited:
   (g) a person acting on behalf of 1 or more persons or groups referred to in paragraphs (a) to (f):
   (h) a person acting on behalf of any 1 or more persons who comprise a part of, are beneficiaries of, or are members of any 1 or more persons or groups referred to in paragraphs (a) to (f).
-(2) To avoid doubt, subsection (1)(d) does not include any individuals, families, or tribal groups who make a claim on the basis of descent from a tribal group other than Te Uri o Hau.
+(2) To avoid doubt, subsection (1)﻿(d) does not include any individuals, families, or tribal groups who make a claim on the basis of descent from a tribal group other than Te Uri o Hau.
 
 ### 15 Meaning of Te Uri o Hau historical claims
 (1) In this Act, Te Uri o Hau historical claims means—
@@ -197,7 +197,7 @@ In this Act, unless the context otherwise requires,—
     (ii) arising from or relating to acts or omissions before 21 September 1992—
       (A) by or on behalf of the Crown; or
       (B) by or under legislation; and
-  (b) all the claims to the Waitangi Tribunal to which paragraphs (a)(i) and (ii) apply that specifically relate to Te Uri o Hau claimants, including—
+  (b) all the claims to the Waitangi Tribunal to which paragraphs (a)﻿(i) and (ii) apply that specifically relate to Te Uri o Hau claimants, including—
     (i) Wai 229 (Otamatea Lands Claim); and
     (ii) Wai 259 (Tawhiri Pa Claim); and
     (iii) Wai 271 (Pouto Peninsula Claim); and
@@ -207,7 +207,7 @@ In this Act, unless the context otherwise requires,—
     (vii) Wai 658 (Wai-riri Whanau Trust Claim); and
     (viii) Wai 689 (Pouto Topu A, 2F, 2E7A, and 2E6 Blocks Claim); and
     (ix) Wai 721 (Kaipara Lands and Resources Claim); and
-  (c) all other claims to the Waitangi Tribunal to which paragraph (a)(i) and (ii) apply, so far as they relate to Te Uri o Hau claimants, including—
+  (c) all other claims to the Waitangi Tribunal to which paragraph (a)﻿(i) and (ii) apply, so far as they relate to Te Uri o Hau claimants, including—
     (i) Wai 121 (Ngati Whatua Lands and Fisheries Claim); and
     (ii) Wai 303 (Te Runanga o Ngati Whatua Claim); and
     (iii) Wai 468 (Ngapuhi Whanui Trust Claim); and
@@ -218,7 +218,7 @@ In this Act, unless the context otherwise requires,—
     (i) rights arising from the Mangawhai Deed before, on, or after 21 September 1992; or
     (ii) any breach or alleged breach by the Crown of its obligations under the Mangawhai Deed that occurred before, on, or after 21 September 1992.
 (2) Paragraphs (b) and (c) of subsection (1) do not limit paragraph (a) of that subsection.
-(3) For the purposes of subsection (1)(d), the Mangawhai Deed is the deed dated 3 March 1854 between the vendors of the Mangawhai Block and the Crown.
+(3) For the purposes of subsection (1)﻿(d), the Mangawhai Deed is the deed dated 3 March 1854 between the vendors of the Mangawhai Block and the Crown.
 
 ### 16 Timing of steps or matters
 (1) A step or matter required by this Act occurs or takes effect on the settlement date.
@@ -325,7 +325,7 @@ The rule against perpetuities or any relevant provisions of the Perpetuities Act
   (d) is subject to—
     (i) lawful commercial use affecting the bed of Lake Humuhumu; and
     (ii) lawful rights to own, use, and occupy structures attached to the bed of Lake Humuhumu.
-(3) In this section, part Humuhumu lake bed means the land described by that name in Schedule 2.
+(4) In this section, part Humuhumu lake bed means the land described by that name in Schedule 2.
 
 ### 31 Pouto Road end
 (1) The fee simple estate in the Pouto Road end vests in Te Uri o Hau governance entity.
@@ -499,16 +499,17 @@ The purpose or classification of an area as a national park, conservation area, 
 
 ### 57 Interpretation
 (1) In this subpart and in Schedules 5 to 10,—
-  - **archaeological site** has the same meaning as in section 2 of the Historic Places Act 1993
+  - **archaeological site** has the same meaning as in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **coastal areas** means the areas described in Schedules 9 and 10, of which the landward boundary is the line of mean high water springs
   - **consent authority** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **deed of recognition** means a deed of recognition described in sections 67 and 68
   - **effective date** means the date that is 6 months after the settlement date
+  - **Heritage New Zealand Pouhere Taonga** has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **resource consent** has the same meaning as in section 87 of the Resource Management Act 1991
   - **statutory acknowledgement** means an acknowledgement made by the Crown under section 59 in respect of a statutory area, and on the terms set out in sections 58 to 65
   - **statutory areas** —
     (a) means the areas, rivers, lakes, and wetlands described in Schedules 5 to 10, the general locations of which are indicated on the SO plans referred to in those schedules; and
-    (b) includes coastal areas, for the purposes of sections 58(1)(a) to (c), 59 to 65, and 70 to 73.
+    (b) includes coastal areas, for the purposes of sections 58(1)﻿(a) to (c), 59 to 65, and 70 to 73.
 (2) SO references are included in Schedules 5 to 10 for the purposes of indicating the general location of the statutory areas, and are not intended to establish the precise boundaries of the statutory areas.
 
 **Statutory acknowledgements**
@@ -516,7 +517,7 @@ The purpose or classification of an area as a national park, conservation area, 
 ### 58 Purposes of statutory acknowledgements
 (1) The only purposes of the statutory acknowledgements are—
   (a) to require that consent authorities forward summaries of resource consent applications to Te Uri o Hau governance entity, as required by regulations made under section 64; and
-  (b) to require that consent authorities, the Historic Places Trust, or the Environment Court have regard to the statutory acknowledgements in relation to the statutory areas, as provided in sections 60 to 62; and
+  (b) to require that consent authorities, Heritage New Zealand Pouhere Taonga, or the Environment Court have regard to the statutory acknowledgements in relation to the statutory areas, as provided in sections 60 to 62; and
   (c) to enable Te Uri o Hau governance entity and any member of Te Uri o Hau to cite statutory acknowledgements as evidence of the association of Te Uri o Hau with the statutory areas, as provided in section 65; and
   (d) to empower the Minister of the Crown responsible for management of the statutory areas, or the Commissioner of Crown Lands, to enter into deeds of recognition, as provided in section 67.
 (2) This section does not limit the operation of sections 70 to 73.
@@ -531,8 +532,10 @@ From the effective date, and without derogation from its obligations under Part 
 (1) From the effective date, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in determining, for the purposes of section 274 of the Resource Management Act 1991, whether Te Uri o Hau governance entity is an entity having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
 (2) Subsection (1) does not derogate from the obligations of the Environment Court under Part 2 of the Resource Management Act 1991.
 
-### 62 Historic Places Trust and Environment Court to have regard to statutory acknowledgements
-From the effective date, the Historic Places Trust and the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in forming an opinion, under section 14(6)(a) or section 20(1) of the Historic Places Act 1993, as to whether Te Uri o Hau governance entity is an entity directly affected in relation to an archaeological site within the statutory area.
+### 62 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
+If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the Te Uri o Hau governance entity is a person directly affected by the decision.
 
 ### 63 Recording of statutory acknowledgements on statutory plans
 (1) Local authorities with jurisdiction in respect of a statutory area must attach information recording the statutory acknowledgement to—
@@ -555,11 +558,11 @@ From the effective date, the Historic Places Trust and the Environment Court mus
   (b) whether Te Uri o Hau governance entity may be adversely affected under those sections.
 
 ### 65 Use of statutory acknowledgement with submissions
-(1) Te Uri o Hau governance entity and any member of Te Uri o Hau may, as evidence of the association of Te Uri o Hau with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the statutory area.
+(1) Te Uri o Hau governance entity and any member of Te Uri o Hau may, as evidence of the association of Te Uri o Hau with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the statutory area.
 (2) The content of the statement of association, as recorded in the statutory acknowledgement, is not, by virtue of the statutory acknowledgement, binding as deemed fact on—
   (a) consent authorities:
   (b) the Environment Court:
-  (c) the Historic Places Trust:
+  (c) Heritage New Zealand Pouhere Taonga:
   (d) parties to proceedings before those bodies:
   (e) any other person able to participate in those proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
@@ -790,7 +793,7 @@ The permission of a council under section 348 of the Local Government Act 1974 i
     (a) shellfish quota purchased by Te Uri o Hau under the deed granting a right of first refusal over shellfish quota that is to be delivered by the Crown to Te Uri o Hau and executed by Te Uri o Hau under clauses 5.8.2 and 5.8.5 of the deed of settlement:
     (b) shellfish quota received by Te Uri o Hau governance entity from the Treaty of Waitangi Fisheries Commission
   - **Minister** has the same meaning as in section 2(1) of the Fisheries Act 1996
-  - **shellfish quota** has the same meaning as in the deed granting a right of first refusal over shellfish quota referred to in subsection (3)(a)(i).
+  - **shellfish quota** has the same meaning as in the deed granting a right of first refusal over shellfish quota referred to in subsection (3)﻿(a)﻿(i).
 
 ### 100 Oyster reserves
 Regulations may be made under clause 5.10.3 of the deed of settlement despite section 10(d) of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992.
@@ -938,7 +941,7 @@ The Crown must incorporate the changes made by sections 114 and 115 to official 
 ### 118 Minister of Conservation may grant easements
 (1) The Minister of Conservation may grant any easement required to enable the Crown to grant the easements specified in clause 1.4 of attachment 7.2 to the deed of settlement.
 (2) An easement granted under subsection (1)—
-  (a) is registrable under 17ZA(2) of the Conservation Act 1987 as if it were a deed to which that provision applied; and
+  (a) is registrable under section 17ZA(2) of the Conservation Act 1987 as if it were a deed to which that provision applied; and
   (b) is enforceable on its terms despite Part 3B of the Conservation Act 1987.
 
 ### 119 Creation of computer register
@@ -957,8 +960,8 @@ Redress licensed land ceases to be Crown forest land immediately on transfer of 
 
 ### 121 Redress licensed land
 (1) Te Uri o Hau governance entity is a confirmed beneficiary under clause 11.1 of the Crown forestry rental trust in respect of the redress licensed land, and the provisions of that trust apply accordingly.
-(2) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of the redress licensed land as if that section applies to the redress licensed land, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land.
-(3) Notice given by the Crown under subsection (2) has effect as if the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land and that recommendation had become final.
+(2) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of the redress licensed land as if that section applies to the redress licensed land, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land.
+(3) Notice given by the Crown under subsection (2) has effect as if the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the redress licensed land and that recommendation had become final.
 
 ### 122 Application of other enactments
 (1) Nothing in section 11 or Part 10 of the Resource Management Act 1991 applies to—
@@ -984,7 +987,7 @@ The deed relating to continued public access in respect of the Mangawhai license
 | Pukekaroro site | North Auckland Land District – Kaipara District |  |
 |  | 11.1700 hectares, more or less, being Section 1 SO 70762. Part Certificate of Title 1123/287. 1.3000 hectares, more or less, being Sections 2 and 3 SO 70762. Part Gazette Notice 764049.1. | Subject to a protected private land agreement as set out in Schedule 4.2 of the deed of settlement. |
 | Pukeareinga site | North Auckland Land District – Kaipara District |  |
-|  | 283 square metres, more or less, being Section 1 SO 70764. Part Proclamation 5362. | Subject to a conservation convenant as set out in Schedule 4.3 of the deed of settlement. |
+|  | 283 square metres, more or less, being Section 1 SO 70764. Part Proclamation 5362. | Subject to a conservation covenant as set out in Schedule 4.3 of the deed of settlement. |
 | First Whakahuranga Pa site | North Auckland Land District – Rodney District |  |
 |  | 3 191 square metres, more or less, being Lot 1 DP 211035. All Transfer D692397.5. | Subject to a right of way as set out in Schedule 4.4 of the deed of settlement;Together with:a right of way created by Transfer D 036844.1;a right of way specified in Easement Certificate D194200.1;a right of way shown marked A on DP 211035. |
 | Second Whakahuranga Pa site | North Auckland Land District – Rodney District |  |
@@ -1124,7 +1127,7 @@ Under section 97 of Te Uri o Hau Claims Settlement Act 2002 except as expressly 
 | Waikere Creek | Waikeri Creek | 36° 19´ S | 174° 09.1´ E | Q 09 | 139 423 |
 | N/A | Manukapua Island | 36° 23.1´ S | 174° 14.6´ E | Q 09 | 221 346 |
 | N/A | Rangitane Pa | 36° 17.7´ S | 174° 04.7´ E | P 09 | 073 449 |
-| N/A | Mahipatua Pa | 36° 18.4´ S | 174° 06 E´ | P 09 | 093 436 |
+| N/A | Mahipatua Pa | 36° 18.4´ S | 174° 06´ E | P 09 | 093 436 |
 | N/A | Lake Wairere | 36° 16.6´ S | 174° 00.9´ E | P 09 | 018 470 |
 | N/A | Lake Otapuiti | 36° 21.7´ S | 174° 04.4´ E | P 09 | 069 375 |
 | N/A | Rotopouri | 36° 18.3´ S | 174° 05.3´ E | P 09 | 083 438 |
