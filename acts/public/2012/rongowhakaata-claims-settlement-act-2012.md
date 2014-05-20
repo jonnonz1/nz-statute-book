@@ -1,5 +1,5 @@
 # Rongowhakaata Claims Settlement Act 2012
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Rongowhakaata Claims Settlement Act 2012.
@@ -210,7 +210,7 @@ In this Act, unless the context requires another meaning,—
   - **fisheries protocol** means a protocol issued by the responsible Minister under section 24(1)(a), and includes any amendments made under section 24(1)(b)
   - **fisheries protocol area** means the area subject to the fisheries protocol, as shown on the map attached to that protocol, together with the adjacent waters
   - **freshwater fisheries management plan** has the meaning given in section 2(1) of the Conservation Act 1987
-  - **Historic Places Trust** has the meaning given to in section 2 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **historical claims** has the meaning given in section 14
   - **land holding agency** means, for a commercial redress property, or a deferred selection property, the land holding agency specified for that property in part 3 or 4 of the property redress schedule
   - **LINZ** means Land Information New Zealand
@@ -498,7 +498,7 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
 
 ### 32 Purposes of statutory acknowledgement
 (1) The only purposes of the statutory acknowledgement are to—
-  (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, as provided for in sections 33 to 35; and
+  (a) require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, as provided for in sections 33 to 35; and
   (b) require relevant consent authorities to provide summaries of resource consent applications or, as the case requires, copies of notices of applications, to the trustees, in accordance with section 37; and
   (c) enable the trustees and any member of Rongowhakaata to cite the statutory acknowledgement as evidence of the association of Rongowhakaata with the relevant statutory area, as provided for in section 38.
 (2) This section does not limit sections 40 to 42.
@@ -511,11 +511,11 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
 (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in deciding, under section 274 of the Resource Management Act 1991, whether the trustees are persons with an interest in proceedings greater than that of the general public in respect of proceedings relating to an application for a resource consent for an activity within, adjacent to, or directly affecting a statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 35 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) If, on or after the effective date, an application is made under section 11 or 12 of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within a statutory area,—
-  (a) the Historic Places Trust, in exercising its powers under section 14 of the Historic Places Act 1993 in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
-  (b) the Environment Court, in determining under section 20 of the Historic Places Act 1993 an appeal against a decision of the Historic Places Trust in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in determining whether the trustees are persons directly affected by the decision.
-(2) In this section, archaeological site has the meaning given in section 2 of the Historic Places Act 1993.
+### 35 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 36 Recording statutory acknowledgement on statutory plans
 (1) On and from the effective date, each relevant consent authority must attach information recording a statutory acknowledgement to all statutory plans that wholly or partly cover a statutory area.
@@ -545,7 +545,7 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
 (1) The trustees and any member of Rongowhakaata may, as evidence of the association of Rongowhakaata with a statutory area, cite the statutory acknowledgement that relates to that area in submissions concerning activities that are within or adjacent to, or that directly affect the statutory area that are made to or before—
   (a) the relevant consent authorities; or
   (b) the Environment Court; or
-  (c) the Historic Places Trust; or
+  (c) Heritage New Zealand Pouhere Taonga; or
   (d) the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991.
 (2) The content of a statement of association is not, by virtue of the statutory acknowledgement, binding as fact on—
   (a) the bodies and the court referred to in subsection (1); or
