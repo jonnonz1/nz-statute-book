@@ -1,5 +1,5 @@
 # Environment Act 1986
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-05-20_
 
 > An Act to—aprovide for the establishment of the office of Parliamentary Commissioner for the Environment:bprovide for the establishment of the Ministry for the Environment:censure that, in the management of natural and physical resources, full and balanced account is taken of—ithe intrinsic values of ecosystems; andiiall values which are placed by individuals and groups on the quality of the environment; andiiithe principles of the Treaty of Waitangi; andivthe sustainability of natural and physical resources; andvthe needs of future generations
 
