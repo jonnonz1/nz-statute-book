@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2014-02-28_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -176,7 +176,7 @@ Part 5
     (a) falls within the definition of threatened species in section 2(1) of the Biosecurity Act 1993; or
     (b) is declared to be a threatened species or an at-risk species by the Minister of Conservation under section 19
   - **toxic or hazardous waste** means any waste or other matter specified as toxic or hazardous waste by regulations made under this Act
-  - **wāhi tapu** has the same meaning as in section 2 of the Historic Places Act 1993
+  - **wāhi tapu** has the same meaning as in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **warship** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
   - **waste or other matter** has the same meaning as in section 257 of the Maritime Transport Act 1994.
   - **working day** means a day of the week other than—
