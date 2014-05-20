@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-05-20_
 
 > Title
 
@@ -61,7 +61,7 @@ The purpose of this Act is to—
   - **self-employed person** means a person who is self-employed
   - **spouse** means a husband or wife
   - **union** means a union registered under the Employment Relations Act 2000.
-(2) Where it is necessary, for the purpose of applying any of the provisions of sections 7(b), 8(1)(b), 17(c), 18(1)(b), 23(b), 24(1)(b), and 43, to ascertain, in relation to any of the circumstances mentioned in clauses 1 to 5 of the Schedule,—the provisions of the Schedule shall apply.
+(2) Where it is necessary, for the purpose of applying any of the provisions of sections 7(b), 8(1)(b), 17(c), 18(1)(b), 23(b), 24(1)(b), and 43, to ascertain, in relation to any of the circumstances mentioned in clauses 1 to 5 of Schedule 1,—the provisions of Schedule 1 shall apply.
   (a) whether any employee has remained in the employment of the same employer during any period of time; or
   (b) whether any employee has resumed service with the same employer—
 (3) Section 72A applies if it is necessary, for the purpose of applying any of the provisions of sections 7(b), 8(1)(b), 17(c), 18(1)(b), 23(b), and 24(1)(b), to ascertain whether an employee will have been in the employment of the same employer for at least an average of 10 hours a week during a 12-month period (or 6-month period, as the case may be).
@@ -99,6 +99,9 @@ An employee's entitlement to rights and benefits in respect of parental leave an
 (3) In the case of adoption, a person who assumes (with a view to adoption by that person or by that person and that person's spouse or partner jointly) the care of 2 or more children within 1 month is treated as if the person had assumed the care of only the youngest of those children within that month.
 
 **Application of Act**
+
+### 2C Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -1091,7 +1094,31 @@ The Maternity Leave and Employment Protection Act 1980 is hereby repealed.
     (i) the rights, entitlements, or obligations of any female employee to whom subsection (2)(a) relates; or
     (ii) the obligations or rights of any employer to whom subsection (2)(b) relates,—
 
-## Schedule  — Change of employer
+## Schedule 1AA — Transitional provisions relating to amendments to this Act coming into force on and after 1 April 2015
+
+### Part 1 — Transitional provision relating to amendments to this Act made by sections 6 to 18 of Parental Leave and Employment Protection Amendment Act 2014
+
+### 1 Application of sections 6 to 18 of Parental Leave and Employment Protection Amendment Act 2014
+(1) The amendments made by sections 6 to 18 of the Parental Leave and Employment Protection Amendment Act 2014 apply to an employee or self-employed person who takes parental leave in respect of a child if—
+  (a) the expected date of delivery of the child is on or after 1 April 2015; or
+  (b) the child is born on or after 1 April 2015; or
+  (c) in the case of adoption, the date on which the employee or self-employed person, or his or her spouse or partner, with a view to adoption, assumes the care of the child, is on or after 1 April 2015.
+(2) An employee or self-employed person to whom the amendments referred to in subclause (1) apply may, before 1 April 2015,—
+  (a) give notice of a wish to take parental leave, in which case the employee may begin his or her parental leave before 1 April 2015 as if those amendments were already in force; and
+  (b) apply for a parental leave payment under Part 7A as if those amendments were already in force.
+
+### Part 2 — Transitional provision relating to amendments to this Act made by sections 19 to 31 of Parental Leave and Employment Protection Amendment Act 2014
+
+### 2 Application of sections 19 to 31 of Parental Leave and Employment Protection Amendment Act 2014
+(1) The amendments made by sections 19 to 31 of the Parental Leave and Employment Protection Amendment Act 2014 apply to an employee or self-employed person who takes parental leave in respect of a child if—
+  (a) the expected date of delivery of the child is on or after 1 April 2016; or
+  (b) the child is born on or after 1 April 2016; or
+  (c) in the case of adoption, the date on which the employee or self-employed person, or his or her spouse or partner, with a view to adoption, assumes the care of the child is on or after 1 April 2016.
+(2) An employee or self-employed person to whom the amendments referred to in subclause (1) apply may, before 1 April 2016,—
+  (a) give notice of a wish to take parental leave, in which case the employee may begin his or her parental leave before 1 April 2016 as if those amendments were already in force; and
+  (b) apply for a parental leave payment under Part 7A as if those amendments were already in force.
+
+## Schedule 1 — Change of employer
 
 ### 1
 If a trade or business or an undertaking (whether or not it is an undertaking established by or under an Act) is transferred from one person to another (whether before or after the date of the commencement of this Act),—
