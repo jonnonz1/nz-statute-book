@@ -1,5 +1,5 @@
 # Ngāti Apa (North Island) Claims Settlement Act 2010
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 Background
@@ -176,7 +176,7 @@ In this Act, unless the context otherwise requires,—
   - **encumbrance** means a lease, tenancy, licence, licence to occupy, easement, covenant, or other right affecting a property
   - **fisheries protocol** means a protocol issued by the Minister of Fisheries under section 20(1)(a), including any amendments made under section 20(1)(b)
   - **fisheries protocol area** means the area shown on the map attached to the fisheries protocol, together with the adjacent waters
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued under section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **historical claims** has the meaning given to it in section 12
   - **land holding agency** , in relation to—
     (a) the settlement licensed land, means LINZ:
@@ -441,7 +441,7 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
 
 ### 28 Purposes of statutory acknowledgement
 (1) The only purposes of the statutory acknowledgement are to—
-  (a) require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, as provided for in sections 30 and 31; and
+  (a) require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, as provided for in sections 30 and 31; and
   (b) require relevant consent authorities to forward summaries of resource consent applications to the trustees, as provided for in section 33; and
   (c) enable the trustees and any member of Ngāti Apa (North Island) to cite the statutory acknowledgement as evidence of the association of Ngāti Apa (North Island) with the relevant statutory areas, as provided for in section 34.
 (2) This section does not limit sections 38 to 40.
@@ -454,11 +454,11 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
 (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in deciding, under section 274 of the Resource Management Act 1991, whether the trustees are persons who have an interest in proceedings that is greater than the interest that the general public has in respect of an application for a resource consent for activities within, adjacent to, or directly affecting the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 31 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) This section applies if, on or after the effective date, an application is made under section 11 or 12 of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within a statutory area.
-(2) The Historic Places Trust must have regard to the statutory acknowledgement relating to a statutory area in exercising its powers under section 14 of the Historic Places Act 1993 in relation to the application, including in determining whether the relevant trustees are directly affected by an extension of time.
-(3) The Environment Court must have regard to the statutory acknowledgement relating to a statutory area in determining under section 20 of the Historic Places Act 1993 an appeal against a decision of the Historic Places Trust in relation to the application, including in determining whether the trustees are directly affected by the decision.
-(4) In this section, archaeological site has the meaning given to it in section 2 of the Historic Places Act 1993.
+### 31 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 32 Recording statutory acknowledgement on statutory plans
 (1) On and from the effective date, each relevant consent authority must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover a statutory area.
@@ -484,12 +484,12 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
   (b) under section 95E of that Act, to decide if the trustees are affected persons in relation to an activity.
 
 ### 34 Use of statutory acknowledgement
-(1) The trustees and any member of Ngāti Apa (North Island) may, as evidence of the association of Ngāti Apa (North Island) with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or directly affecting the statutory area.
+(1) The trustees and any member of Ngāti Apa (North Island) may, as evidence of the association of Ngāti Apa (North Island) with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or directly affecting the statutory area.
 (2) The content of a statement of association is not, by virtue of the statutory acknowledgement, binding as fact on—
   (a) relevant consent authorities:
   (b) the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991:
   (c) the Environment Court:
-  (d) the Historic Places Trust:
+  (d) Heritage New Zealand Pouhere Taonga:
   (e) parties to proceedings before those bodies:
   (f) any other person who is entitled to participate in those proceedings.
 (3) However, the bodies and persons specified in subsection (2) may take the statutory acknowledgement into account.
@@ -499,7 +499,7 @@ The taonga tūturu protocol does not have the effect of granting, creating, or p
 
 ### 35 Trustees may waive rights
 (1) The trustees may waive the right to be forwarded summaries of resource consent applications under section 33 in relation to a statutory area.
-(2) Rights may be waived by written notice to the relevant consent authority, the Environment Court, or the Historic Places Trust, stating—
+(2) Rights may be waived by written notice to the relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga, stating—
   (a) the scope of the waiver; and
   (b) the period for which it applies.
 (3) An obligation under this subpart does not apply to the extent that the corresponding right has been waived under this section.
@@ -928,8 +928,8 @@ Despite section 16(10) of the Reserves Act 1977, the name of Round Bush Scenic R
 
 ### 83 Meaning of protected site
 In this subpart, protected site means any area of land situated in the settlement licensed land or the unlicensed Crown forest land that—
-  (a) becomes a registered place within the meaning of section 2 of the Historic Places Act 1993; and
-  (b) is wāhi tapu or a wāhi tapu area within the meaning of section 2 of that Act.
+  (a) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero (as defined in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014); and
+  (b) is wāhi tapu or a wāhi tapu area within the meaning of section 6 of that Act.
 
 ### 84 Right of access to protected site
 (1) The owner of the land on which a protected site is situated and any person holding an interest in, or right of occupancy to, that land must allow access across the land to each protected site to Māori for whom the protected site is of special spiritual, cultural, or historical significance.
