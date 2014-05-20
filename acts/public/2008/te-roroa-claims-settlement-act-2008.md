@@ -1,5 +1,5 @@
 # Te Roroa Claims Settlement Act 2008
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 Background
@@ -144,7 +144,7 @@ Sections 7 and 8 record the acknowledgements and the apology offered by the Crow
 (7) The Crown acknowledges that the separation of Te Roroa from their wahi tapu and taonga has been a source of great spiritual and emotional pain for Te Roroa. The Crown acknowledges that nga aureretanga o Te Roroa (the continuous crying of Te Roroa) is a result of this separation. The sense of grief and loss suffered by Te Roroa remains today.
 
 ### 8 Text of apology
-The text of the apology offered by the Crown as set out in the Deed of Settlement is as follows:The Crown profoundly regrets its breaches of the Treaty of Waitangi and its principles as detailed above and seeks to atone for those breaches.
+The text of the apology offered by the Crown as set out in the Deed of Settlement is as follows: The Crown profoundly regrets its breaches of the Treaty of Waitangi and its principles as detailed above and seeks to atone for those breaches.
 
 ### Subpart 2 — Interpretation
 
@@ -184,9 +184,9 @@ In this Act, unless the context otherwise requires,—
   - **encumbrance** means a lease, tenancy, licence to occupy, forestry right, easement, covenant, or other right affecting a property
   - **Fisheries protocol area** means the area shown on the map attached to the Te Roroa–Fisheries Protocol, together with the adjacent waters
   - **forestry right** and have the meanings set out in section 87
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued by section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **MED protocol area** means the area shown on the map attached to the Te Roroa–MED Protocol, together with the adjacent waters
-  - **member of Te Roroa** means every individual referred to in section 11(1)(b)
+  - **member of Te Roroa** means every individual referred to in section 11(1)﻿(b)
   - **national park management plan** means a management plan as defined in section 2 of the National Parks Act 1980
   - **New Zealand Conservation Authority** has the same meaning as in section 2(1) of the Conservation Act 1987
   - **New Zealand Geographic Board** means the Board established under section 3 of the New Zealand Geographic Board Act 1946
@@ -197,9 +197,9 @@ In this Act, unless the context otherwise requires,—
     (a) the trustees of the Manawhenua Trust or the trustees of the Whatu Ora Trust (as the case may be):
     (b) a person appointed as an agent for Te Roroa under clause 3.5 of the Deed of Settlement:
     (c) a person (including a trustee) acting for, or on behalf of,—
-      (i) the collective group referred to in section 11(1)(a):
+      (i) the collective group referred to in section 11(1)﻿(a):
       (ii) any 1 or more members of Te Roroa:
-      (iii) any 1 or more of the whanau, hapu, or groups referred to in section 11(1)(c)
+      (iii) any 1 or more of the whanau, hapu, or groups referred to in section 11(1)﻿(c)
   - **resource consent** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **responsible Minister** , in subpart 1 of Part 2, means 1 of the following Ministers:
     (a) the Minister for Arts, Culture and Heritage:
@@ -261,7 +261,7 @@ In this Act, unless the context otherwise requires,—
 (1) In this Act, Te Roroa—
   (a) means the collective group composed of—
     (i) individuals descended from 1 or more Te Roroa tupuna; and
-    (ii) individuals who are members of the groups referred to in paragraph (c)(i); and
+    (ii) individuals who are members of the groups referred to in paragraph (c)﻿(i); and
   (b) means every individual referred to in paragraph (a); and
   (c) includes the following groups:
     (i) Te Roroa, Ngati Kawa, Ngati Whiu, and Te Kuihi; and
@@ -269,7 +269,7 @@ In this Act, unless the context otherwise requires,—
 (2) In this section and section 12, Te Roroa tupuna means an individual who—
   (a) exercised customary rights by virtue of being descended from—
     (i) Manumanu I or Rangitauwawaro; or
-    (ii) a recognised ancestor of any of the groups referred to in subsection (1)(c)(i); and
+    (ii) a recognised ancestor of any of the groups referred to in subsection (1)﻿(c)﻿(i); and
   (b) exercised the customary rights predominantly in relation to the Te Roroa area of interest at any time after 6 February 1840.
 (3) In subsection (2), customary rights means rights according to tikanga Maori (Maori customary values and practices), including—
   (a) rights to occupy land; and
@@ -298,9 +298,9 @@ In this Act, unless the context otherwise requires,—
     (v) Wai 719—Kaipara Land and Resources (Pirika Ngai Whanau) Claim (Lionel Wilfred Brown and others); and
     (vi) Wai 985—Hokianga Regional Lands Claim (Simon Tuoro); but
   (d) does not include the following claims:
-    (i) a claim that a member of Te Roroa, or a whanau, hapu, or group referred to in section 11(1)(c) may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not a Te Roroa tupuna; or
+    (i) a claim that a member of Te Roroa, or a whanau, hapu, or group referred to in section 11(1)﻿(c) may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not a Te Roroa tupuna; or
     (ii) a claim that a representative entity may have to the extent that the claim is, or is based on, a claim referred to in subparagraph (i).
-(2) Subsection (1)(a) is not limited by subsection (1)(b) or (1)(c).
+(2) Subsection (1)﻿(a) is not limited by subsection (1)﻿(b) or (1)﻿(c).
 
 ### Subpart 3 — Settlement of claims
 
@@ -644,11 +644,11 @@ The Registrar-General must note a memorial on the computer freehold register for
 (5) The vesting in the trustees of the Manawhenua Trust of the fee simple estate in a cultural redress property under this subpart is a disposition for the purposes of Part 4A of the Conservation Act 1987, but sections 24(2A), 24A, and 24AA of that Act do not apply to the disposition.
 
 ### 48 Application of certain amounts
-(1) The Minister of Conservation may direct that any intra-Crown payment for a site listed in subsection (2) be paid and applied in the manner specified in section 82(1)(a) of the Reserves Act 1977.
+(1) The Minister of Conservation may direct that any intra-Crown payment for a site listed in subsection (2) be paid and applied in the manner specified in section 82(1)﻿(a) of the Reserves Act 1977.
 (2) The sites are—
   (a) Kaiparaheka:
   (b) Maunganui Bluff.
-(3) A direction made under subsection (1) is to be treated as if it were a direction under section 82(1)(a) of the Reserves Act 1977.
+(3) A direction made under subsection (1) is to be treated as if it were a direction under section 82(1)﻿(a) of the Reserves Act 1977.
 
 ### Subpart 3 — Te Tarehu
 
@@ -742,7 +742,7 @@ The purpose or classification of an area as a national park, conservation area, 
   (b) the area concerned is disposed of by the Crown; or
   (c) the responsibility for managing the area concerned is transferred to another Minister of the Crown or department.
 (3) Subsection (4) applies if—
-  (a) either of subsection (2)(b) or (c) applies; or
+  (a) either of subsection (2)﻿(b) or (c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of Te Tarehu.
 (4) The Crown must take reasonable steps to ensure that the trustees of the Manawhenua Trust continue to have input into the management of Te Tarehu, or that part of it affected by the disposal of, or change in, management responsibility or a change in the statutory management regime, through negotiation with the trustees of the Manawhenua Trust by—
   (a) the Minister of the Crown responsible for the new management or the new management regime; or
@@ -775,7 +775,7 @@ The purpose or classification of an area as a national park, conservation area, 
 
 ### 69 Purposes of statutory acknowledgements
 (1) The only purposes of the statutory acknowledgements are—
-  (a) to require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgements, as provided for in sections 70 to 72; and
+  (a) to require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgements, as provided for in sections 70 to 72; and
   (b) to require relevant consent authorities to forward summaries of resource consent applications to the trustees of the Manawhenua Trust, as provided for in section 74; and
   (c) to enable the trustees of the Manawhenua Trust and a member of Te Roroa to cite the statutory acknowledgements as evidence of the association of Te Roroa with the relevant statutory areas, as provided for in section 75.
 (2) This section does not limit the operation of sections 76 to 79.
@@ -788,9 +788,11 @@ The purpose or classification of an area as a national park, conservation area, 
 (1) On and from the effective date, the Environment Court must have regard to a statutory acknowledgement relating to a statutory area in determining under section 274 of the Resource Management Act 1991 whether the trustees of the Manawhenua Trust are persons having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 72 Historic Places Trust and Environment Court to have regard to statutory acknowledgements
-(1) On and from the effective date, the Historic Places Trust and the Environment Court must have regard to a statutory acknowledgement relating to a statutory area in forming an opinion under section 14(6)(a) or 20(1) of the Historic Places Act 1993 (as the case may be) as to whether the trustees of the Manawhenua Trust are (or, for the purposes of section 14(6)(a) of that Act, may be) persons directly affected in relation to an archaeological site within the statutory area.
-(2) In this section, archaeological site has the same meaning as in section 2 of the Historic Places Act 1993.
+### 72 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees of the Manawhenua Trust are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 73 Recording statutory acknowledgements on statutory plans
 (1) On and from the effective date, a relevant consent authority must attach information recording a statutory acknowledgement to all statutory plans that wholly or partly cover the statutory area.
@@ -817,11 +819,11 @@ The purpose or classification of an area as a national park, conservation area, 
   (b) form an opinion as to whether the trustees of the Manawhenua Trust are persons that are likely to be adversely affected under those sections.
 
 ### 75 Use of statutory acknowledgements
-(1) The trustees of the Manawhenua Trust and a member of Te Roroa may, as evidence of the association of Te Roroa with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on, the statutory area.
+(1) The trustees of the Manawhenua Trust and a member of Te Roroa may, as evidence of the association of Te Roroa with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on, the statutory area.
 (2) The content of the statement of association is not, by virtue of the statutory acknowledgement, binding as deemed fact on—
   (a) a relevant consent authority:
   (b) the Environment Court:
-  (c) the Historic Places Trust:
+  (c) Heritage New Zealand Pouhere Taonga:
   (d) parties to proceedings before those bodies:
   (e) any other person able to participate in those proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
@@ -847,7 +849,7 @@ Neither the provision of a statutory acknowledgement nor the entry into a deed o
 (1) Except as expressly provided in this subpart,—
   (a) neither a statutory acknowledgement nor a deed of recognition affects, or may be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
   (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Te Roroa with a statutory area (as described in the relevant statutory acknowledgement) than that person would give under the relevant statute, regulation, or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 79 Rights not affected
 Except as expressly provided in this subpart, neither a statutory acknowledgement nor a deed of recognition affects the lawful rights or interests of a person who is not a party to the Deed of Settlement.
@@ -858,13 +860,13 @@ Except as expressly provided in this subpart, neither a statutory acknowledgemen
 **Amendment to Resource Management Act 1991**
 
 ### 81 Amendment to Resource Management Act 1991
-Schedule 11 of the Resource Management Act 1991 is amended by inserting the following item in its appropriate alphabetical order:Te Roroa Claims Settlement Act 2008.
+Schedule 11 of the Resource Management Act 1991 is amended by inserting the following item in its appropriate alphabetical order: Te Roroa Claims Settlement Act 2008.
 
 ### Subpart 5 — Place names
 
 ### 82 Alteration and assignment of place names
-(1) Each of the existing place names in the first column of Part 1 of Schedule 3 is altered to the corresponding place name in the third column of that part of that Schedule.
-(2) Each of the new place names in the first column of Part 2 of Schedule 3 is assigned to the corresponding location (as specified by the topographic map references and grid references) set out in the second column of that part of that Schedule.
+(1) Each of the existing place names in the first column of the first table in Schedule 3 is altered to the corresponding place name in the third column of that part of that schedule.
+(2) Each of the new place names in the first column of the second table in Schedule 3 is assigned to the corresponding location (as specified by the topographic map references and grid references) set out in the second column of that part of that schedule.
 (3) The changes made under subsections (1) and (2) are to be treated as made—
   (a) with the approval of the New Zealand Geographic Board; and
   (b) in accordance with any enactment that applies to altering or assigning place names.
@@ -969,7 +971,7 @@ The conservation covenants provided by the trustees of the Whatu Ora Trust to th
 (2) The right of access conferred by subsection (1) must be exercised—
   (a) by vehicle or by foot over a road or, if that is not reasonably practicable, over an alternative route specified by the forest owner; and
   (b) in accordance with any reasonable conditions specified by the forest owner.
-(3) The forest owner must not specify an alternative route under subsection (2)(a) without the consent of the forestry right owner. The consent of the forestry right owner must not be unreasonably withheld.
+(3) The forest owner must not specify an alternative route under subsection (2)﻿(a) without the consent of the forestry right owner. The consent of the forestry right owner must not be unreasonably withheld.
 (4) The forest owner or the forestry right owner may prevent a permitted person as defined in paragraph (b) of the definition of that term in subsection (6) from exercising the right of access for a period of up to 3 months if the forest owner or the forestry right owner—
   (a) considers on reasonable grounds that the person, in exercising the right of access, may present a risk to the forest or forestry operations in Waipoua Forest; and
   (b) gives notice in writing to the person specifying the period for which access is not permitted; and
@@ -1081,22 +1083,22 @@ That part of the Waipoua Forest: Former Department of Conservation Headquarters 
 | --- | --- | --- |
 | Kaiparaheka | North Auckland Land District—Far North District13.7921 hectares, more or less, being Section E25 Block IX Waoku Survey District. All Gazette 1914 page 3422. | Subject to an informal grazing arrangement to T Reuben. |
 | Wairau | North Auckland Land District—Far North District8.1250 hectares, more or less, being Sections 1 and 2 SO 375178. Part Gazette 1880 page 452, Part Gazette 1976 page 565 and Part Gazette 1981 page 2995. |  |
-| Kawerua | North Auckland Land District—Far North District16.1300 hectares, more or less, being Section 3 SO 374859. Part Gazette 1933 page 1215, Part Gazette 1950 page 1986 and Part Gazette 1981 page 2995. | Subject to:the conservation covenant referred to in section 29(6)(a):the right of way easement in gross in favour of Minister of Conservation referred to in section 29(6)(b)(i):the right of way easement in gross in favour of Minister of Fisheries referred to in section 29(6)(b)(ii):the right of way easement in gross for foot access referred to in section 29(6)(c):the right of access referred to in section 30. |
+| Kawerua | North Auckland Land District—Far North District16.1300 hectares, more or less, being Section 3 SO 374859. Part Gazette 1933 page 1215, Part Gazette 1950 page 1986 and Part Gazette 1981 page 2995. | Subject to:the conservation covenant referred to in section 29(6)﻿(a):the right of way easement in gross in favour of Minister of Conservation referred to in section 29(6)﻿(b)﻿(i):the right of way easement in gross in favour of Minister of Fisheries referred to in section 29(6)﻿(b)﻿(ii):the right of way easement in gross for foot access referred to in section 29(6)﻿(c):the right of access referred to in section 30. |
 |  |  | Together with:an unregistered right of way easement over the marginal strips referred to in clause 11.5.2 of the Deed of Settlement:an unregistered right of way easement over Waipoua River bed referred to in clause 11.5.1 of the Deed of Settlement. |
 | Haohaonui | North Auckland Land District—Far North District2.9396 hectares, more or less, being Section 4 SO 56302. Part Gazette 1948 page 298. |  |
 | Waingata | North Auckland Land District—Far North District3.2120 hectares, more or less, being Section 5 SO 374193. Part Gazette 1948 page 298. | Subject to the conservation covenant referred to in section 32(3). |
 | Te Riu | North Auckland Land District—Kaipara District18.5300 hectares, more or less, being Section 6 SO 374194. Part Gazette 1948 page 298. | Subject to the conservation covenant referred to in section 33(3). |
 | Muriwai | North Auckland Land District—Kaipara District28.5400 hectares, more or less, being Section 7 SO 374860. Part Gazette 1948 page 298. | Subject to the conservation covenant referred to in section 34(3). |
-| Papatia and Te Kopae | North Auckland Land District—Kaipara and Far North Districts137.4000 hectares, more or less, being Sections 8 and 9 SO 374195. Part Gazette 1922 page 1196, Part Gazette 1923 page 2540, Part Gazette 1948 page 298, Part Gazette 1974 page 709 and Part Gazette 1984 page 1438. | Subject to:the right of way easement in gross in favour of the Minister of Conservation referred to in section 35(3)(a):the right of way easement in gross in favour of the Minister of Fisheries referred to in section 35(3)(b):the right of way easement in gross in favour of the Minister of Forestry referred to in section 35(3)(c). |
+| Papatia and Te Kopae | North Auckland Land District—Kaipara and Far North Districts137.4000 hectares, more or less, being Sections 8 and 9 SO 374195. Part Gazette 1922 page 1196, Part Gazette 1923 page 2540, Part Gazette 1948 page 298, Part Gazette 1974 page 709 and Part Gazette 1984 page 1438. | Subject to:the right of way easement in gross in favour of the Minister of Conservation referred to in section 35(3)﻿(a):the right of way easement in gross in favour of the Minister of Fisheries referred to in section 35(3)﻿(b):the right of way easement in gross in favour of the Minister of Forestry referred to in section 35(3)﻿(c). |
 |  |  | Together with:an unregistered right of way easement over the marginal strips referred to in clause 11.5.2 of the Deed of Settlement:an unregistered right of way easement over Waipoua River bed referred to in clause 11.5.1 of the Deed of Settlement. |
 | Te Taiawa | North Auckland Land District—Far North District120.0000 hectares, more or less, being Section 10 SO 374195. Part Gazette 1933 page 1215 and Part Gazette 1948 page 298. | Subject to the conservation covenant referred to in section 36(5). |
-| Puketurehu | North Auckland Land District—Kaipara District148.0000 hectares, more or less, being Section 11 SO 375176. Part Gazette 1906 page 1429 and Part Gazette 1933 page 1215. | Subject to:the conservation covenant referred to in section 37(5)(a):the right of way easement in gross in favour of the Minister of Conservation referred to in section 37(5)(b)(i):the right of way easement in gross in favour of the Minister of Fisheries referred to in section 37(5)(b)(ii). |
+| Puketurehu | North Auckland Land District—Kaipara District148.0000 hectares, more or less, being Section 11 SO 375176. Part Gazette 1906 page 1429 and Part Gazette 1933 page 1215. | Subject to:the conservation covenant referred to in section 37(5)﻿(a):the right of way easement in gross in favour of the Minister of Conservation referred to in section 37(5)﻿(b)﻿(i):the right of way easement in gross in favour of the Minister of Fisheries referred to in section 37(5)﻿(b)﻿(ii). |
 |  |  | Together with an unregistered right of way easement over the marginal strips referred to in clause 11.5.3 of the Deed of Settlement. |
-| Maunganui Bluff | North Auckland Land District—Kaipara District > 509.1808 hectares, more or less, being Section 12 SO 374196. All Gazette Notice C.065344.1 (Gazette 1989 page 5230), All Gazette Notice 15175 (Gazette 1956 page 1228), and Balance Certificate of Title NA1181/59. | Subject to:the conservation covenant referred to in section 38(6)(a):a walkway easement referred to in section 38(6)(b):the occupation of part of the land by Telecom, as per the letter of consent from the Department of Conservation to Telecom dated 3 December 1991, or any formal permit granted by the Department of Conservation to Telecom with the agreement of the trustees of the Manawhenua Trust before the settlement date: |
+| Maunganui Bluff | North Auckland Land District—Kaipara District > 509.1808 hectares, more or less, being Section 12 SO 374196. All Gazette Notice C﻿.﻿065344.1 (Gazette 1989 page 5230), All Gazette Notice 15175 (Gazette 1956 page 1228), and Balance Certificate of Title NA1181/59. | Subject to:the conservation covenant referred to in section 38(6)﻿(a):a walkway easement referred to in section 38(6)﻿(b):the occupation of part of the land by Telecom, as per the letter of consent from the Department of Conservation to Telecom dated 3 December 1991, or any formal permit granted by the Department of Conservation to Telecom with the agreement of the trustees of the Manawhenua Trust before the settlement date: |
 |  |  | any easement or other agreement to take and convey water that may be entered into between the date of the Deed of Settlement and the settlement date to formalise the taking of water by the Kaipara District Council or Aranga Beach Settlement bach owners for community and domestic purposes. Prior to formalising any water take the Department of Conservation will enter into discussions with the trustees of the Manawhenua Trust on the process, terms, and conditions. |
 |  |  | Together with a water easement and a right of way easement created by Proclamation 14797. |
-| Manuwhetai | North Auckland Land District—Kaipara District38.6333 hectares, more or less, being Lot 1 DP 48230, Lots 1, 2, 4, 50, 51, 52, 53 and 54 DP 121600 and Section 13 SO 69533. Part Document C.966049.6. |  |
-| Puketapu / Whangaiariki | North Auckland Land District—Kaipara District68.2300 hectares, more or less, being Sections 14 and 15 SO 374861. Part Document C.966049.6 and Part Document C.589493.4. |  |
+| Manuwhetai | North Auckland Land District—Kaipara District38.6333 hectares, more or less, being Lot 1 DP 48230, Lots 1, 2, 4, 50, 51, 52, 53 and 54 DP 121600 and Section 13 SO 69533. Part Document C﻿.﻿966049.6. |  |
+| Puketapu / Whangaiariki | North Auckland Land District—Kaipara District68.2300 hectares, more or less, being Sections 14 and 15 SO 374861. Part Document C﻿.﻿966049.6 and Part Document C﻿.﻿589493.4. |  |
 | Ureti | North Auckland Land District—Kaipara District8.5450 hectares, more or less, being Section 16 SO 374863. Part Gazette 1876 page 621. | Subject to the conservation covenant referred to in section 41(3). |
 | Former Works Depot, Waimamaku | North Auckland Land District—Far North District9315 m², more or less, being Lot 1 DP 167732. All Computer Freehold Register NA101D/107. | Subject to unregistered lease to Emi Mereta Roo Vakatini. |
 
