@@ -1,5 +1,5 @@
 # Building Amendment Act 2012
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Building Amendment Act 2012.
@@ -250,7 +250,7 @@ Sections 41 to 52 are repealed and the following sections substituted:Types of b
       (i) the project information memorandum (if any) for the building work to which the building consent relates; and
       (ii) a development contribution notice under section 36 (if any); and
       (iii) a certificate issued under section 37 (if any); and
-    (c) contain confirmation that the New Zealand Historic Places Trust has been notified under section 39 (if applicable); and
+    (c) contain confirmation that Heritage New Zealand Pouhere Taonga has been notified under section 39 (if applicable); and
     (d) if a compliance schedule is required as a result of the building work, state—
       (i) the specified systems that must be covered by the compliance schedule; and
       (ii) the performance standards for the specified systems; and
