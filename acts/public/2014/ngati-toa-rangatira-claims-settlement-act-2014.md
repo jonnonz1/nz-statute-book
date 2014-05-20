@@ -1,5 +1,5 @@
 # Ngati Toa Rangatira Claims Settlement Act 2014
-_Consolidation as at 2014-04-22_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Ngati Toa Rangatira Claims Settlement Act 2014.
@@ -184,7 +184,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
   - **effective date** means the date that is 6 months after the settlement date
   - **freshwater fisheries management plan** has the meaning given by section 2(1) of the Conservation Act 1987
   - **general RFR land** has the meaning given by section 183
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued by section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **historical claims** has the meaning given by section 15
   - **interest** , in relation to land, means a lease, tenancy, licence, licence to occupy, easement, covenant, or other right or obligation affecting the land
   - **land holding agency** means,—
@@ -447,7 +447,7 @@ The Crown acknowledges the statements of association and the statements of coast
 
 ### 26 Purposes of statutory acknowledgement
 The only purposes of the statutory acknowledgement are—
-  (a) to require relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, as provided for in sections 27 to 29; and
+  (a) to require relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, as provided for in sections 27 to 29; and
   (b) to require relevant consent authorities to provide summaries of resource consent applications, or copies of notices of resource consent applications, to the trustee of the Toa Rangatira Trust, as provided for in section 31; and
   (c) to enable the trustee of the Toa Rangatira Trust and members of Ngati Toa Rangatira to cite the statutory acknowledgement as evidence of the association of Ngati Toa Rangatira with a statutory area, as provided for in section 32.
 
@@ -459,11 +459,11 @@ The only purposes of the statutory acknowledgement are—
 (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to a statutory area in deciding, under section 274 of the Resource Management Act 1991, whether the trustee of the Toa Rangatira Trust is a person who has an interest in proceedings that is greater than the interest that the general public has in respect of an application for a resource consent for activities within, adjacent to, or directly affecting the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 29 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) This section applies if, on or after the effective date, an application is made under section 11 or 12 of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within a statutory area.
-(2) The Historic Places Trust must have regard to the statutory acknowledgement relating to a statutory area in exercising its powers under section 14 of the Historic Places Act 1993 in relation to the application, including in determining whether the trustee of the Toa Rangatira Trust is directly affected by an extension of time.
-(3) The Environment Court must have regard to the statutory acknowledgement relating to a statutory area in determining under section 20 of the Historic Places Act 1993 an appeal against a decision of the Historic Places Trust in relation to the application, including in determining whether the trustee of the Toa Rangatira Trust is directly affected by the decision.
-(4) In this section, archaeological site has the meaning given by section 2 of the Historic Places Act 1993.
+### 29 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 30 Recording statutory acknowledgement on statutory plans
 (1) On and from the effective date, each relevant consent authority must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover a statutory area.
@@ -489,12 +489,12 @@ The only purposes of the statutory acknowledgement are—
   (b) under section 95E of that Act, to decide whether the trustee of the Toa Rangatira Trust is an affected person in relation to an activity.
 
 ### 32 Use of statutory acknowledgement
-(1) The trustee of the Toa Rangatira Trust and any member of Ngati Toa Rangatira may, as evidence of the association of Ngati Toa Rangatira with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or directly affecting the statutory area.
+(1) The trustee of the Toa Rangatira Trust and any member of Ngati Toa Rangatira may, as evidence of the association of Ngati Toa Rangatira with a statutory area, cite the statutory acknowledgement that relates to that area in submissions to, and in proceedings before, a relevant consent authority, the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or directly affecting the statutory area.
 (2) The content of a statement of association or statement of coastal values is not, by virtue of the statutory acknowledgement, binding as fact on—
   (a) relevant consent authorities:
   (b) the Environmental Protection Authority or a board of inquiry under Part 6AA of the Resource Management Act 1991:
   (c) the Environment Court:
-  (d) the Historic Places Trust:
+  (d) Heritage New Zealand Pouhere Taonga:
   (e) parties to proceedings before those bodies:
   (f) any other person who is entitled to participate in those proceedings.
 (3) However, the bodies and persons specified in subsection (2) may take the statutory acknowledgement into account.
@@ -504,8 +504,8 @@ The only purposes of the statutory acknowledgement are—
 
 ### 33 Trustee may waive rights
 (1) The trustee of the Toa Rangatira Trust may waive the right to be provided with summaries, and copies of notices, of resource consent applications under section 31 in relation to a statutory area.
-(2) The trustee may waive the right to have a relevant consent authority, the Environment Court, or the Historic Places Trust have regard to the statutory acknowledgement under sections 27 to 29 in relation to a coastal statutory area.
-(3) Rights must be waived by written notice to the relevant consent authority, the Environment Court, or the Historic Places Trust stating—
+(2) The trustee may waive the right to have a relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga have regard to the statutory acknowledgement under sections 27 to 29 in relation to a coastal statutory area.
+(3) Rights must be waived by written notice to the relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga stating—
   (a) the scope of the waiver; and
   (b) the period for which it applies.
 (4) An obligation under this subpart does not apply to the extent that the corresponding right has been waived under this section.
@@ -1951,10 +1951,10 @@ In this subpart,—
 ### Subpart 3 — Right of access to protected sites
 
 ### 179 Interpretation
-(1) In this subpart, protected site means any area of land situated in a licensed property that is—
-  (a) a wahi tapu or wahi tapu area; and
-  (b) a registered place.
-(2) In subsection (1), registered place, wahi tapu, and wahi tapu area have the meanings given by section 2 of the Historic Places Act 1993.
+(1) In this subpart, protected site means any area of land situated in a licensed property that—
+  (a) is a wāhi tapu or wāhi tapu area within the meaning of section 6 of the Heritage New Zealand Pouhere Taonga Act 2014; and
+  (b) is, at any time, entered on the New Zealand Heritage List/Rārangi Kōrero as defined in section 6 of that Act.
+(2)
 
 ### 180 Right of access to protected site
 (1) The owner of land on which a protected site is situated and any person holding an interest in, or a right of occupancy to, the land must allow the people referred to in subsection (2) to have access across the land to each protected site.
