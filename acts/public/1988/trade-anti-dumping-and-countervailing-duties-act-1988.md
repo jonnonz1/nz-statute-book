@@ -1,5 +1,5 @@
 # Dumping and Countervailing Duties Act 1988
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2014-05-20_
 
 > An Act to provide for the imposition of dumping and countervailing duties
 
@@ -12,13 +12,44 @@ This Act shall apply to investigations initiated under section 10 on or after th
 
 ### 3 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **building material** —
+    (a) means any structural or non-structural component and assembly incorporated into, associated with, or capable of being incorporated into or associated with a building; and
+    (b) includes—
+      (i) roofing, roofing underlay, flashing, cladding, building wrap, rainwater systems, trusses, framing and framing elements, supporting beams, partitioning, plasterboard and other internal linings, architraves and other trim, windows, doors, and insulation:
+      (ii) sanitaryware:
+      (iii) pipes, tubing, pipe fittings, tapware, hot water storage systems, hot water heating systems, and other plumbing fixtures:
+      (iv) electrical material other than heating materials and appliances:
+      (v) fixed cabinetry, bench tops, and splashbacks:
+      (vi) sinks, hand basins, and washbasins:
+      (vii) paint and varnish:
+      (viii) reinforcing steel bar and coil:
+      (ix) reinforcing steel mesh:
+      (x) cement:
+      (xi) adhesives and sealants:
+      (xii) nails, screws, nailplates, and hinges:
+      (xiii) locksets, passage sets, handles, door stops, and other builders hardware; but
+    (c) does not include—
+      (i) heating materials:
+      (ii) heating appliances:
+      (iii) wall and floor coverings (including wallpaper):
+      (iv) air conditioning, ventilation components, and other ventilation products:
+      (v) security systems:
+      (vi) smoke alarms:
+      (vii) lamps:
+      (viii) decorative or removable light fittings:
+      (ix) household appliances:
+      (x) external drainage or pipes:
+      (xi) landscaping:
+      (xii) outdoor decorative items or materials:
+      (xiii) pavers or fencing:
+      (xiv) curtains, blinds, or drapes
   - **Customs** or has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
   - **day** , except in sections 14(2), 17, and 17B(4), means any day of the week other than a day in the period beginning with 25 December in any year and ending with 15 January in the following year
   - **dumping** , in relation to goods, means the situation where the export price of goods imported into New Zealand or intended to be imported into New Zealand is less than the normal value of the goods as determined in accordance with the provisions of this Act, and has a corresponding meaning
   - **exporter** has the meaning given to it in section 2(1) of the Customs and Excise Act 1996
   - **goods** means all kinds of movable personal property, including animals
   - **foreign country** means any country other than New Zealand
-  - **foreign government** means—
+  - **foreign Government** means—
     (a) the Government of a foreign country:
     (b) a provincial, State, municipal, local, or regional Government or authority of a foreign country:
     (c) a body that exercises authority for an association of foreign countries:
@@ -27,12 +58,14 @@ This Act shall apply to investigations initiated under section 10 on or after th
   - **like goods** , in relation to any goods, means—
     (a) other goods that are like those goods in all respects; or
     (b) in the absence of goods referred to in paragraph (a), goods which have characteristics closely resembling those goods
-  - **Minister** means the Minister of Commerce
-  - **Secretary** means the chief executive of the Ministry of Economic Development
+  - **Minister** means the Minister of the Crown for the time being responsible for the administration of this Act
+  - **Ministry** means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **residential building material** means any building material that is capable of being incorporated into or associated with a residential dwelling (regardless of whether it is also capable of being incorporated into or associated with commercial premises)
+  - **Secretary** means the chief executive of the Ministry
   - **shipment** has the meaning given to it in section 2(1) of the Tariff Act 1988
-  - **specific subsidy** means a subsidy that is specific to an enterprise or industry, or a group of enterprises or industries, within the jurisdiction of a foreign government
-  - **subsidised goods** means goods in respect of the production, manufacture, growth, processing, purchase, distribution, transportation, sale, export, or import of which a specific subsidy has been or will be paid, granted, authorised, or otherwise provided, directly or indirectly, by a foreign government
-  - **subsidy** includes any financial or other commercial benefit that has accrued or will accrue, directly or indirectly, to persons engaged in the production, manufacture, growth, processing, purchase, distribution, transportation, sale, export, or import of goods, as a result of any scheme, programme, practice, or thing done, provided, or implemented by a foreign government; but does not include the amount of any duty or internal tax imposed on goods by the Government of the country of origin or country of export from which the goods, because of their exportation from the country of export or country of origin, have been exempted or have been or will be relieved by means of refund or drawback
+  - **specific subsidy** means a subsidy that is specific to an enterprise or industry, or a group of enterprises or industries, within the jurisdiction of a foreign Government
+  - **subsidised goods** means goods in respect of the production, manufacture, growth, processing, purchase, distribution, transportation, sale, export, or import of which a specific subsidy has been or will be paid, granted, authorised, or otherwise provided, directly or indirectly, by a foreign Government
+  - **subsidy** includes any financial or other commercial benefit that has accrued or will accrue, directly or indirectly, to persons engaged in the production, manufacture, growth, processing, purchase, distribution, transportation, sale, export, or import of goods, as a result of any scheme, programme, practice, or thing done, provided, or implemented by a foreign Government; but does not include the amount of any duty or internal tax imposed on goods by the Government of the country of origin or country of export from which the goods, because of their exportation from the country of export or country of origin, have been exempted or have been or will be relieved by means of refund or drawback
   - **Tariff** has the meaning given to it in section 2 of the Tariff Act 1988
   - **WTO Agreement** means the Agreement establishing the World Trade Organization adopted at Marrakesh on 15 April 1994.
 (2) For the purposes of this Act, a purchase or sale of goods shall not be treated as an arm's length transaction if—
@@ -118,10 +151,10 @@ This Act binds the Crown.
 ### 7 Amount of subsidy
 (1) In this Act, the expression amount of the subsidy, in relation to any subsidised goods, means the amount determined by the Secretary as being the benefit conferred on the recipient of the subsidy.
 (2) For the purposes of subsection (1),—
-  (a) the provision of equity capital by a foreign government shall not be regarded as conferring a benefit, unless the investment decision in relation to the provision of that equity capital can be regarded as inconsistent with the usual investment practice (including for the provision of risk capital) of private investors in the territory of the exporting country:
-  (b) the provision of a loan by a foreign government shall not be regarded as conferring a benefit, unless the amount that the recipient of the loan pays under the loan is less than the amount that the recipient would pay under a comparable commercial loan that the recipient could obtain on the market, in which case, the benefit to the recipient shall be deemed to be the difference between those amounts:
-  (c) the provision of a loan guarantee by a foreign government shall not be regarded as conferring a benefit, unless the amount that the recipient of the loan pays under the government guaranteed loan is less than the amount that the recipient would pay under a comparable commercial loan that was not so guaranteed, in which case, the benefit to the recipient shall be deemed to be the difference between those amounts:
-  (d) the provision of goods or services, or the purchase of goods, by a foreign government shall not be regarded as conferring a benefit, unless the goods or services are provided for less than adequate remuneration within the meaning of subsection (4), or the goods are purchased for more than adequate remuneration, as the case may be.
+  (a) the provision of equity capital by a foreign Government shall not be regarded as conferring a benefit, unless the investment decision in relation to the provision of that equity capital can be regarded as inconsistent with the usual investment practice (including for the provision of risk capital) of private investors in the territory of the exporting country:
+  (b) the provision of a loan by a foreign Government shall not be regarded as conferring a benefit, unless the amount that the recipient of the loan pays under the loan is less than the amount that the recipient would pay under a comparable commercial loan that the recipient could obtain on the market, in which case, the benefit to the recipient shall be deemed to be the difference between those amounts:
+  (c) the provision of a loan guarantee by a foreign Government shall not be regarded as conferring a benefit, unless the amount that the recipient of the loan pays under the government guaranteed loan is less than the amount that the recipient would pay under a comparable commercial loan that was not so guaranteed, in which case, the benefit to the recipient shall be deemed to be the difference between those amounts:
+  (d) the provision of goods or services, or the purchase of goods, by a foreign Government shall not be regarded as conferring a benefit, unless the goods or services are provided for less than adequate remuneration within the meaning of subsection (4), or the goods are purchased for more than adequate remuneration, as the case may be.
 (3) For the purposes of subsection (1), the following amounts shall not be included in the amount of the subsidy:
   (a) any application fee or other fees or costs necessarily incurred in order to qualify for, or to receive the benefit of, the subsidy:
   (b) any export taxes, duties, or other charges levied on the export of the goods to New Zealand that are specifically intended to offset the subsidy.
@@ -267,6 +300,20 @@ For the purposes of this Act, reference to a notice means a notice—
   (a) in the case of goods of Singaporean origin, 3 years; and
   (b) in the case of goods of any other origin, 5 years.
 (10) Without limiting the ability of the Minister to require refunds in other circumstances, where a reassessment under subsection (6) results in a lower duty being imposed on any goods, the Minister may require the Customs to refund, with effect from the date of initiation of the reassessment (or, in the case of a reassessment carried out under paragraph (c) of that subsection, from the date of initiation of the review referred to in that paragraph), the difference between the duty paid and the lower duty.
+
+### 14AA Temporary suspension of anti-dumping duties on residential building material
+(1) In this section, specified period means the period beginning on 1 June 2014 and ending on the close of 31 May 2017.
+(2) During the specified period,—
+  (a) no new anti-dumping duty may be imposed under section 14(1) or 16(1) or (2) on any residential building material:
+  (b) existing anti-dumping duties on the following items are suspended:
+    (i) standard plasterboard from Thailand:
+    (ii) reinforcing steel bar and coil from Thailand:
+    (iii) wire nails from the People’s Republic of China.
+(3) If the Minister notifies a rate or amount of anti-dumping duty on any residential building material during the specified period, the new duty is imposed and takes effect on and from 1 June 2017.
+(4) If the Minister varies the rate or amount of any existing anti-dumping duty on any residential building material during the specified period, the new rate takes effect on and from 1 June 2017.
+(5) To avoid doubt,—
+  (a) this section does not affect the Minister’s power to terminate an existing notice under section 14(7):
+  (b) any anti-dumping duty on an item of the kind referred to in subsection (2)(b) that was imposed and payable before the specified period remains payable.
 
 ### 14A Refund of excess anti-dumping duty paid
 (1) An importer may apply to the Minister for a refund of excess anti-dumping duty paid in respect of goods imported during an importation period.
