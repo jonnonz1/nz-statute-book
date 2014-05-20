@@ -1,5 +1,5 @@
 # Ngāti Whātua Ōrākei Claims Settlement Act 2012
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Ngāti Whātua Ōrākei Claims Settlement Act 2012.
@@ -132,7 +132,7 @@ In this Act, unless the context requires another meaning,—
     (c) includes any amendments to the deed
   - **effective date** means the date that is 6 months after the settlement date
   - **encumbrance** means a lease, tenancy, licence, licence to occupy, easement, covenant, or other right or obligation affecting a property
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued by section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **historical claims** has the meaning given by section 12
   - **land holding agency** ,—
     (a) for the commercial property at 99 Owens Road, means LINZ:
@@ -379,7 +379,7 @@ The Crown acknowledges the statement of association.
 
 ### 30 Purposes of statutory acknowledgement
 (1) The only purposes of the statutory acknowledgement are—
-  (a) to require the Auckland Council, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, as provided for in sections 31 to 33; and
+  (a) to require the Auckland Council, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, as provided for in sections 31 to 33; and
   (b) to require the Auckland Council to provide summaries of resource consent applications, or copies of notices of resource consent applications, to the trustee, as provided for in section 35; and
   (c) to enable the trustee and members of Ngāti Whātua Ōrākei to cite the statutory acknowledgement as evidence of the association of Ngāti Whātua Ōrākei with the statutory area, as provided for in section 36.
 (2) This section does not limit sections 38 to 40.
@@ -392,11 +392,11 @@ The Crown acknowledges the statement of association.
 (1) On and from the effective date, the Environment Court must have regard to the statutory acknowledgement relating to the statutory area in deciding, under section 274 of the Resource Management Act 1991, whether the trustee is a person who has an interest in proceedings that is greater than the interest that the general public has in respect of an application for a resource consent for activities within, adjacent to, or directly affecting the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 33 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) This section applies if, on or after the effective date, an application is made under section 11 or 12 of the Historic Places Act 1993 for an authority to destroy, damage, or modify an archaeological site within the statutory area.
-(2) The Historic Places Trust must have regard to the statutory acknowledgement relating to the statutory area in exercising its powers under section 14 of the Historic Places Act 1993 in relation to the application, including in determining whether the trustee is directly affected by an extension of time.
-(3) The Environment Court must have regard to the statutory acknowledgement relating to the statutory area in determining under section 20 of the Historic Places Act 1993 an appeal against a decision of the Historic Places Trust in relation to the application, including in determining whether the trustee is directly affected by the decision.
-(4) In this section, archaeological site has the meaning given by section 2 of the Historic Places Act 1993.
+### 33 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the trustees are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 34 Recording statutory acknowledgement on statutory plans
 (1) On and from the effective date, the Auckland Council must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover the statutory area.
@@ -425,12 +425,12 @@ The Crown acknowledges the statement of association.
   (b) under section 95E of that Act, to decide whether the trustee is an affected person in relation to an activity.
 
 ### 36 Use of statutory acknowledgement
-(1) The trustee and any member of Ngāti Whātua Ōrākei may, as evidence of the association of Ngāti Whātua Ōrākei with the statutory area, cite the statutory acknowledgement that relates to the area in submissions to, and in proceedings before, the Auckland Council, the Environmental Protection Authority (EPA) or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or directly affecting the area.
+(1) The trustee and any member of Ngāti Whātua Ōrākei may, as evidence of the association of Ngāti Whātua Ōrākei with the statutory area, cite the statutory acknowledgement that relates to the area in submissions to, and in proceedings before, the Auckland Council, the Environmental Protection Authority (EPA) or a board of inquiry under Part 6AA of the Resource Management Act 1991, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or directly affecting the area.
 (2) The content of the statement of association is not, by virtue of the statutory acknowledgement, binding as fact on—
   (a) the Auckland Council:
   (b) the EPA or a board of inquiry under Part 6AA of the Resource Management Act 1991:
   (c) the Environment Court:
-  (d) the Historic Places Trust:
+  (d) Heritage New Zealand Pouhere Taonga:
   (e) parties to proceedings before the bodies specified in paragraphs (a) to (d):
   (f) any other person who is entitled to participate in the proceedings specified in paragraph (e).
 (3) However, the bodies and persons specified in subsection (2) may take the statutory acknowledgement into account.
