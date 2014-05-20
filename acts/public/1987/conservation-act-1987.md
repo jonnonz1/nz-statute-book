@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -76,7 +76,7 @@ _Consolidation as at 2014-01-01_
   - **game bird habitat stamp** means a stamp in a form approved under section 19A of the Wildlife Act 1953
   - **game hunting guide** has the same meaning as in the Wildlife Act 1953
   - **guide dog** means a dog certified by the Royal New Zealand Foundation of the Blind as being a guide dog or a dog under training as a guide dog
-  - **historic resource** means a historic place within the meaning of the Historic Places Act 1993; and includes any interest in a historic resource
+  - **historic resource** means a historic place within the meaning of the Heritage New Zealand Pouhere Taonga Act 2014; and includes any interest in a historic resource
   - **hunting weapon** means a weapon within the meaning of the Trespass Act 1980
   - **indigenous fish** means any freshwater fish that is indigenous to New Zealand
   - **interest** , in relation to any land, includes an estate in, and a right over or in respect of, the land; but does not include any right under or in respect of any covenant registered against land
@@ -1082,7 +1082,7 @@ Every sanctuary area shall be managed to preserve in their natural state the ind
   (a) land held under this Act for conservation purposes; or
   (b) a reserve classified pursuant to section 16 of the Reserves Act 1977; or
   (c) held under section 21(2)(a) of the Queen Elizabeth the Second National Trust Act 1977; or
-  (d) subject to an agreement under section 76 or section 77 of the Reserves Act 1977, section 22 of the Queen Elizabeth the Second National Trust Act 1977, or section 6 of the Historic Places Act 1993,—
+  (d) subject to an agreement under section 76 or section 77 of the Reserves Act 1977, section 22 of the Queen Elizabeth the Second National Trust Act 1977, or section 39 of the Heritage New Zealand Pouhere Taonga Act 2014,—
 (2) No land to which paragraph (c) of subsection (1) applies shall be declared to be held for the purpose of a watercourse area under that subsection without the consent of the Queen Elizabeth the Second National Trust.
 (3) No land to which paragraph (d) of subsection (1) applies shall be declared to be held for the purpose of a watercourse area under that subsection without the consent of its owner.
 (4) A watercourse area that was a reserve immediately before it became such an area does not thereby cease to be a reserve.
@@ -2612,7 +2612,7 @@ Where, immediately before the commencement of this Act, there was in existence a
 (6) After the commencement of this Act, the Titi (Muttonbird) Islands Regulations 1978 shall have effect as if made under this Act, and may be amended or revoked accordingly.
 (7) After the commencement of this Act, every reference in—to the Minister of, Secretary for, or Department of Internal Affairs shall be read as a reference to the Minister, Director-General, or, as the case may be, Department of Conservation.
   (a) any regulation, order, Proclamation, notice, rule, notification, certificate, agreement, deed, instrument, application, licence, authority, permit or other document whatsoever made, given, issued, granted, or entered into pursuant to, by, or under the Wildlife Act 1953 or any former corresponding enactment; or
-  (b) any protection notice issued pursuant to section 36 of the Historic Places Act 1980; or
+  (b)
   (c) any District Anglers Notice given pursuant to section 71 of the Fisheries Act 1983;—
 (8) After the commencement of this Act, references in any bylaws made under section 56 of the National Parks Act 1980 to the Department of Lands and Survey or to the Commissioner of Crown Lands shall be read as references to the Department of Conservation or to the Director-General of Conservation, respectively.
 (9), (10) Amendment(s) incorporated in the order(s).
