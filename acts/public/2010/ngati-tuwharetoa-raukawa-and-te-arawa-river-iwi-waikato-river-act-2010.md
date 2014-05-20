@@ -1,5 +1,5 @@
 # Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010
-_Consolidation as at 2014-03-20_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010.
@@ -258,7 +258,7 @@ The matters provided for in sections 10 to 35 are also provided for in sections 
   (b) Fisheries Act 1996:
   (c) Forests Act 1949:
   (d) Health Act 1956:
-  (e) Historic Places Act 1993:
+  (e) Heritage New Zealand Pouhere Taonga Act 2014:
   (f) Land Drainage Act 1908:
   (g) Local Government Act 1974:
   (h) Local Government Act 2002:
