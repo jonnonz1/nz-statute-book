@@ -1,5 +1,5 @@
 # Te Arawa Lakes Settlement Act 2006
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the background to the Te Arawa lakes claims that is set out in Part 7 of the deed of settlement:
@@ -23,7 +23,7 @@ Treaty of Waitangi claim and settlement negotiations
 (17) New terms of negotiation were signed by the Crown and the Arawa Māori Trust Board in July 2001. At that time the parties agreed that the settlement would address both Te Arawa’s historical Treaty grievances in relation to the lakes and any remaining annuity issues. In December 2003 the Crown made a second settlement offer to the Board. The Board accepted the offer in principle:
 (18) The Crown and the Arawa Māori Trust Board initialled a draft deed of settlement on 15 October 2004. Te Arawa ratified the Crown’s settlement offer and entered into a deed of settlement on 18 December 2004. The deed records the matters that give effect to the final settlement of all Te Arawa’s historical lakes claims and remaining annuity issues:
 Te Arawa Lakes Trust
-(19) On 11 July 2005, Te Arawa ratified a proposal to set up a new governance arrangement to succeed to the Arawa Māori Trust Board. Te Arawa chose to establish a private trust administered by trustees as the replacement governance structure. The Te Arawa Lakes Trust was established by trust deed dated 22 August 2005 and signed by the following persons, who, as the members of the Arawa Māori Trust Board holding office at the date of the trust deed, are the initial trustees of the Te Arawa Lakes Trust:Andrew Wharehuia RangiheueaHare WiremuPoiti Arama Karaka PirikaPenengaru Delaney-MokeDonald BennettWilliam EmeryCathy DewesRuka HughesSamuel HahungaJoseph MalcolmPutu MihakaNiwa NuriWiari RauhinaGeorge RehuJames SchusterKaiawhiti TahanaTiakiawa TahuriorangiPetera Tapsell.
+(19) On 11 July 2005, Te Arawa ratified a proposal to set up a new governance arrangement to succeed to the Arawa Māori Trust Board. Te Arawa chose to establish a private trust administered by trustees as the replacement governance structure. The Te Arawa Lakes Trust was established by trust deed dated 22 August 2005 and signed by the following persons, who, as the members of the Arawa Māori Trust Board holding office at the date of the trust deed, are the initial trustees of the Te Arawa Lakes Trust: Andrew Wharehuia RangiheueaHare WiremuPoiti Arama Karaka PirikaPenengaru Delaney-MokeDonald BennettWilliam EmeryCathy DewesRuka HughesSamuel HahungaJoseph MalcolmPutu MihakaNiwa NuriWiari RauhinaGeorge RehuJames SchusterKaiawhiti TahanaTiakiawa TahuriorangiPetera Tapsell.
 
 ### 1 Title
 This Act is the Te Arawa Lakes Settlement Act 2006.
@@ -33,8 +33,8 @@ This Act is the Te Arawa Lakes Settlement Act 2006.
   (a) the definitions in section 11 of protected New Zealand objects protocol and protected New Zealand objects protocol area; and
   (b) section 57 and the heading above that section.
 (2) Section 101 sets out—
-  (a) the definitions that apply until 31 October 2006, in place of those referred to in subsection (1)(a); and
-  (b) the form of section 57 and the heading above that section that apply until 31 October 2006, in place of those referred to in subsection (1)(b).
+  (a) the definitions that apply until 31 October 2006, in place of those referred to in subsection (1)﻿(a); and
+  (b) the form of section 57 and the heading above that section that apply until 31 October 2006, in place of those referred to in subsection (1)﻿(b).
 (3) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
 
 ## Part 1 — Purpose of Act, acknowledgements and apology, interpretation provisions, settlement of claims, and miscellaneous matters
@@ -182,11 +182,11 @@ In this Act, unless the context otherwise requires,—
   - **fisheries protocol area** means—
   (a) the Te Arawa lakes, as identified in attachment A of the fisheries protocol set out in Part 2 of the Relationship Schedule; and
   (b) the streams and rivers flowing into the Te Arawa lakes, to the extent specifically provided for in clauses 6 to 8 of the fisheries protocol
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) continued by section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **included species** has the meaning set out in section 72(1)
   - **initial trustees** means the members of the Arawa Māori Trust Board holding office at the date of the trust deed
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
-  - **member of Te Arawa** means an individual referred to in section 12(1)(b)
+  - **member of Te Arawa** means an individual referred to in section 12(1)﻿(b)
   - **protected New Zealand objects protocol** means a protocol issued under section 52 by the Minister for Arts, Culture and Heritage that—
     (a) sets out how the chief executive of the Ministry for Culture and Heritage and the Trustees of the Te Arawa Lakes Trust will interact on the matters specified in that protocol; and
     (b) is in the form set out in Part 2 of the Relationship Schedule or as the protocol is amended under section 52
@@ -204,8 +204,8 @@ In this Act, unless the context otherwise requires,—
     (a) the Trustees of the Te Arawa Lakes Trust:
     (b) a person appointed as an agent for Te Arawa under clause 3.7 of the deed:
     (c) a person (including a trustee) acting for, or on behalf of,—
-      (i) the collective group referred to in section 12(1)(a):
-      (ii) 1 or more of the iwi, hapū, groups, families, or whānau referred to in section 12(1)(b):
+      (i) the collective group referred to in section 12(1)﻿(a):
+      (ii) 1 or more of the iwi, hapū, groups, families, or whānau referred to in section 12(1)﻿(b):
       (iii) 1 or more members of Te Arawa
   - **reserve site** has the meaning set out in section 20(1)
   - **resource consent** has the same meaning as in section 2(1) of the Resource Management Act 1991
@@ -299,7 +299,7 @@ In this Act, unless the context otherwise requires,—
       (I) Wai 996 (Ngāti Rangitihi Inland and Coastal Land Blocks claim); and
       (J) Wai 1103 (Ngāti Hinemihi Te Ariki and Punaromia Land claim).
 (2) However, Te Arawa lakes historical claims does not include—
-  (a) a claim that a member of Te Arawa, or an iwi, hapū, group, family, or whānau referred to in section 12(1)(c) may have that is founded on a right arising as a result of being descended from an ancestor who is not a Te Arawa ancestor; or
+  (a) a claim that a member of Te Arawa, or an iwi, hapū, group, family, or whānau referred to in section 12(1)﻿(c) may have that is founded on a right arising as a result of being descended from an ancestor who is not a Te Arawa ancestor; or
   (b) any claim that Te Arawa has or may have to the extent that the claim does not arise from or relate to all or any of the Te Arawa lakes, the 1922 arrangements, or the annuity, including (but not limited to) any claim relating to—
     (i) the land abutting or surrounding the Te Arawa lakes; or
     (ii) the islands in those lakes; or
@@ -307,7 +307,7 @@ In this Act, unless the context otherwise requires,—
     (iv) Crown acts or omissions not arising from or relating to those lakes; or
     (v) the Ohau Channel between Lakes Rotorua and Rotoiti; or
   (c) a claim that a representative entity may have to the extent that the claim is, or is based on, a claim referred to in paragraph (a) or paragraph (b).
-(3) Subsection (1)(a) is not limited by subsection (1)(b) or (c).
+(3) Subsection (1)﻿(a) is not limited by subsection (1)﻿(b) or (c).
 
 ### 14 Meaning of Te Arawa lakes remaining annuity issues
 In this Act, Te Arawa lakes remaining annuity issues—
@@ -360,7 +360,7 @@ In this Act, Te Arawa lakes remaining annuity issues—
 
 ### 18 Application of other Acts
 (1) The Resource Management Act 1991 applies except to the extent that this Act expressly excludes its application.
-(2) Nothing in this Act limits the application of the provisions of the Historic Places Act 1993 in relation to the Te Arawa lakebeds.
+(2) Nothing in this Act limits the application of the provisions of the Heritage New Zealand Pouhere Taonga Act 2014 in relation to the Te Arawa lakebeds.
 (3) Section 26ZO of the Conservation Act 1987 does not apply to a Te Arawa lakebed.
 
 **Date when actions or matters occur or take effect**
@@ -383,7 +383,7 @@ In this Act, Te Arawa lakes remaining annuity issues—
 (1) The reservation of each reserve site as a reserve, subject to section 17, 19, or 22 of the Reserves Act 1977, as the case may be, is revoked to the extent that those reserve sites comprise the Te Arawa lakebeds or Crown stratum.
 (2) Before a part of a reserve site referred to in subsection (1) vests in the Trustees of the Te Arawa Lakes Trust,—
   (a) that part vests in the Crown as Crown land under the Land Act 1948, subject to section 82(1) of the Reserves Act 1977; and
-  (b) the Minister of Conservation may direct that the payment for that part be paid and applied in the manner provided for in section 82(1) of the Reserves Act 1977 as if the direction had been given under section 82(1)(a) of that Act.
+  (b) the Minister of Conservation may direct that the payment for that part be paid and applied in the manner provided for in section 82(1) of the Reserves Act 1977 as if the direction had been given under section 82(1)﻿(a) of that Act.
 
 ### 22 Status of conservation areas
 Any part of a Te Arawa lakebed or the Crown stratum that is a conservation area under the Conservation Act 1987 ceases to be a conservation area.
@@ -605,7 +605,7 @@ If a public utility authority has a right or authorisation by or under an enactm
 ### 46 Liability of public utility authority for rates assessed
 A public utility authority must reimburse the Trustees of the Te Arawa Lakes Trust for rates assessed under the Local Government (Rating) Act 2002 in respect of a public utility that did not exist in or on a Te Arawa lakebed on the settlement date if the Trustees are—
   (a) liable for the rates assessed as the owners of the relevant Te Arawa lakebed; and
-  (b) not otherwise able to require reimbursement of those rates by charging under an enactment, as provided for by section 38(3)(b) or section 39(b).
+  (b) not otherwise able to require reimbursement of those rates by charging under an enactment, as provided for by section 38(3)﻿(b) or section 39(b).
 
 ## Part 3 — Other cultural redress
 
@@ -621,7 +621,7 @@ In this subpart,—
 
 ### 48 Establishment of Group
 (1) No later than the settlement date, the Rotorua District Council and the Bay of Plenty Regional Council must establish the Rotorua Lakes Strategy Group, whose members are appointed by the organisations.
-(2) Despite the fact that the Group includes persons appointed by the Trustees of the Te Arawa Lakes Trust, the Group is a joint committee within the meaning of clause 30(1)(b) of Schedule 7 of the Local Government Act 2002.
+(2) Despite the fact that the Group includes persons appointed by the Trustees of the Te Arawa Lakes Trust, the Group is a joint committee within the meaning of clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002.
 (3) Despite Schedule 7 of the Local Government Act 2002, the Group—
   (a) is a permanent committee; and
   (b) must not be discharged unless each organisation agrees to the Group being discharged.
@@ -640,8 +640,8 @@ Each of the organisations, and the Group jointly, must comply with the terms of 
 
 ### 51 Application of other Acts under this subpart
 (1) To avoid doubt, except as otherwise provided in this subpart, the provisions of the Local Government Act 2002 and the Local Government Official Information and Meetings Act 1987 apply to the Group.
-(2) Clauses 23(3), 27, 30(5), (7), and (9)(b), and 31(3) and (4) of Schedule 7 of the Local Government Act 2002 do not apply to the Group.
-(3) Clauses 6(1)(b), 12, 30(3), and 31(1) and (2) of Schedule 7 of the Local Government Act 2002 apply only to the members of the Group appointed by the Bay of Plenty Regional Council or the Rotorua District Council, as the case may be.
+(2) Clauses 23(3), 27, 30(5), (7), and (9)﻿(b), and 31(3) and (4) of Schedule 7 of the Local Government Act 2002 do not apply to the Group.
+(3) Clauses 6(1)﻿(b), 12, 30(3), and 31(1) and (2) of Schedule 7 of the Local Government Act 2002 apply only to the members of the Group appointed by the Bay of Plenty Regional Council or the Rotorua District Council, as the case may be.
 (4) References in clause 19(2) of Schedule 7 of the Local Government Act 2002 to a member of a local authority and a member of a committee of a local authority are also references to the persons appointed by the Trustees of the Te Arawa Lakes Trust to be members of the Group.
 (5) To avoid doubt, the members of the Group appointed by the Trustees of the Te Arawa Lakes Trust—
   (a) have the right to attend any meeting of the Group; but
@@ -725,7 +725,7 @@ In this subpart,—
 
 ### 61 Purposes of statutory acknowledgement
 (1) The only purposes of the statutory acknowledgement are—
-  (a) to require the relevant consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgement, as provided for in sections 62 to 64; and
+  (a) to require the relevant consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgement, as provided for in sections 62 to 64; and
   (b) to require the relevant consent authorities to forward summaries of all applications for resource consents to the Trustees of the Te Arawa Lakes Trust, as provided for in section 66; and
   (c) to enable the Trustees and members of Te Arawa to cite the statutory acknowledgement as evidence of the association of Te Arawa with the statutory area, as provided for in section 67.
 (2) This section does not limit the operation of sections 68 and 69.
@@ -738,9 +738,11 @@ In this subpart,—
 (1) From the effective date, the Environment Court must have regard to the statutory acknowledgement in determining under section 274 of the Resource Management Act 1991 whether the Trustees of the Te Arawa Lakes Trust are persons having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under Part 2 of the Resource Management Act 1991.
 
-### 64 Historic Places Trust and Environment Court to have regard to statutory acknowledgement
-(1) From the effective date, the Historic Places Trust and the Environment Court must have regard to the statutory acknowledgement in forming an opinion under section 14(6)(a) or section 20(1) of the Historic Places Act 1993, as the case may be, as to whether the Trustees of the Te Arawa Lakes Trust are (or, for the purposes of section 14(6)(a), may be) persons directly affected in relation to an archaeological site within the statutory area.
-(2) In this section, archaeological site has the same meaning as in section 2 of the Historic Places Act 1993.
+### 64 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgement
+(1) If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the Trustees of the Lake Te Arawa Lakes Trust are persons directly affected by the decision.
+(2) In this section, archaeological site has the meaning given in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014.
 
 ### 65 Recording of statutory acknowledgement on statutory plans
 (1) From the effective date, each local authority with jurisdiction in a region or district that includes any part of the statutory area must attach information recording the statutory acknowledgement to all statutory plans that wholly or partly cover the statutory area.
@@ -763,11 +765,11 @@ In this subpart,—
   (b) to form an opinion as to whether the Trustees of the Te Arawa Lakes Trust are persons who are or may be adversely affected under those sections.
 
 ### 67 Use of statutory acknowledgement
-(1) The Trustees of the Te Arawa Lakes Trust or a member of Te Arawa may, as evidence of the association of Te Arawa with the statutory area, cite the statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the statutory area.
+(1) The Trustees of the Te Arawa Lakes Trust or a member of Te Arawa may, as evidence of the association of Te Arawa with the statutory area, cite the statutory acknowledgement in submissions to, and in proceedings before, a relevant consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the statutory area.
 (2) The content of the statement of association is not, by reason of the statutory acknowledgement, binding as deemed fact on—
   (a) relevant consent authorities:
   (b) the Environment Court:
-  (c) the Historic Places Trust:
+  (c) Heritage New Zealand Pouhere Taonga:
   (d) parties to proceedings before those bodies:
   (e) any other person able to participate in those proceedings.
 (3) Despite subsection (2), the content of the statement of association may be taken into account by the bodies and persons specified in that subsection.
@@ -807,7 +809,7 @@ Schedule 11 of the Resource Management Act 1991 is amended by inserting, in its 
 (1) In this subpart,—
   - **commercial fishing** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **customary food gathering** means the taking of included species from, or their management within, the Te Arawa fisheries area—
-    (a) for a purpose authorised by the Trustees of the Te Arawa Lakes Trust or persons appointed in accordance with regulations made under section 74(1)(a) to (c); and
+    (a) for a purpose authorised by the Trustees of the Te Arawa Lakes Trust or persons appointed in accordance with regulations made under section 74(1)﻿(a) to (c); and
     (b) to the extent that the taking or management—
       (i) is consistent with the purpose of the Fisheries Act 1996 and any relevant regulations made under that Act or under the Fisheries Act 1983; and
       (ii) is consistent with Te Arawa tikanga; and
@@ -860,14 +862,14 @@ No person may engage in commercial fishing in the Te Arawa fisheries area.
 **Commercial fishing**
 
 ### 75 Process for permitting commercial fishing of included species
-(1) If a recommendation is made to the Minister of Fisheries under a regulation made under section 74(1)(f)(ii), the Minister must—
+(1) If a recommendation is made to the Minister of Fisheries under a regulation made under section 74(1)﻿(f)﻿(ii), the Minister must—
   (a) act consistently with the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992; and
   (b) consult the Minister of Conservation on—
     (i) the information required to set a total allowable catch and total allowable commercial catch for the relevant included species; and
     (ii) the sustainable utilisation of the relevant included species; and
     (iii) the impact of commercial fishing for the relevant included species on the conservation of species managed under the Conservation Act 1987; and
     (iv) the impact of commercial fishing for the relevant included species on the ecosystem of the Te Arawa fisheries area.
-(2) To avoid doubt, the Minister of Fisheries must take into account the views of the Minister of Conservation on the matters set out in subsection (1)(b).
+(2) To avoid doubt, the Minister of Fisheries must take into account the views of the Minister of Conservation on the matters set out in subsection (1)﻿(b).
 
 **Relationship with other regulations**
 
@@ -879,12 +881,12 @@ No person may engage in commercial fishing in the Te Arawa fisheries area.
     (ii) the sale or trade of koura or its possession for the purposes of sale or trade; and
   (c) the Fisheries (Amateur Fishing) Regulations 1986, to the extent that they apply to included species; and
   (d) the Fisheries (Kaimoana Customary Fishing) Regulations 1998, to the extent that they apply to the included species.
-(2) However, regulations made under section 74(1) prevail in relation to all or part of the Te Arawa fisheries area only if a management committee is appointed in accordance with section 74(1)(b) and (c) to manage customary food gathering in relation to all or part of the Te Arawa fisheries area.
+(2) However, regulations made under section 74(1) prevail in relation to all or part of the Te Arawa fisheries area only if a management committee is appointed in accordance with section 74(1)﻿(b) and (c) to manage customary food gathering in relation to all or part of the Te Arawa fisheries area.
 
 **Bylaws**
 
 ### 77 Bylaws
-(1) Bylaws made under regulations made under section 74(1)(f) may restrict or prohibit—
+(1) Bylaws made under regulations made under section 74(1)﻿(f) may restrict or prohibit—
   (a) the included species that may be taken or possessed:
   (b) the quantity of each included species that may be taken or possessed:
   (c) the taking or possession of included species that are smaller or larger than a specified size:
@@ -921,7 +923,7 @@ No person may engage in commercial fishing in the Te Arawa fisheries area.
       (A) deposited with the Ministry of Fisheries in accordance with section 78(1):
       (B) if relevant, amended under section 78(5).
 (2) The Minister of Fisheries, when notified of bylaws under subsection (1), must, as soon as is reasonably practicable, but not later than 40 business days after receiving that notification, determine whether to approve or to reject the bylaws.
-(3) In making a determination under subsection (2), the Minister of Fisheries must take into account the statement provided by the Trustees of the Te Arawa Lakes Trust under subsection (1)(b)(i).
+(3) In making a determination under subsection (2), the Minister of Fisheries must take into account the statement provided by the Trustees of the Te Arawa Lakes Trust under subsection (1)﻿(b)﻿(i).
 (4) When the Minister of Fisheries approves bylaws under subsection (2), the Minister must, as soon as practicable, publish the approved bylaws in the Gazette.
 (5) If the Minister of Fisheries rejects a bylaw under subsection (2), the Minister must notify the Trustees of the Te Arawa Lakes Trust in writing of that decision.
 (6) The Minister of Fisheries may approve a bylaw even if there has been a breach of a time period—
@@ -945,8 +947,8 @@ The chief executive of the Ministry of Justice must make copies of the deed of s
 (2) Amendments to any material have legal effect as part of this Act only if the amendments—
   (a) are of the same general effect as the material amended; and
   (b) have been made,—
-    (i) in the case of material referred to in subsection (1)(a) and (b), in the manner provided in the deed of settlement; and
-    (ii) in the case of material referred to in subsection (1)(c), in the manner provided in that material.
+    (i) in the case of material referred to in subsection (1)﻿(a) and (b), in the manner provided in the deed of settlement; and
+    (ii) in the case of material referred to in subsection (1)﻿(c), in the manner provided in that material.
 (3) The Trustees of the Te Arawa Lakes Trust must provide to the chief executive of the Ministry of Justice copies of any amendments to the Rotorua Lakes Strategy Group agreement as soon as is reasonably practicable after the amendments have been made.
 
 ### Subpart 2 — Transitional provisions relating to Arawa Māori Trust Board
@@ -1069,12 +1071,12 @@ The Te Arawa Maori Trust Board Order 1988 (SR 1988/96) is revoked.
 Section 88(1) of the Maori Purposes Act 1931 does not apply to any Te Arawa lakebed.
 
 ### 99 Amendments to Acts
-(1) Section 8(4)(b) of the Maori Purposes Act 1934 is amended by omitting the words Arawa Maori Trust Board, and substituting the words Trustees of the Te Arawa Lakes Trust.
+(1) Section 8(4)﻿(b) of the Maori Purposes Act 1934 is amended by omitting the words Arawa Maori Trust Board, and substituting the words Trustees of the Te Arawa Lakes Trust.
 (2) Schedule 7 of the Radiocommunications Act 1989 is amended by omitting from the second column of the item relating to the Arawa Māori Trust Board, the words Te Arawa Māori Trust Board, and substituting the words Trustees of the Te Arawa Lakes Trust.
 
 ### 100 Amendments to regulations
 (1) Schedules 1 and 2 of the Maori Trust Boards Regulations 1985 are amended by omitting the item relating to the Arawa Maori Trust Board.
-(2) Regulation 2(1) of the Fisheries (Kaimoana Customary Fishing) Regulations 1998 is amended by inserting, in their appropriate alphabetical order, the following definitions:.
+(2) Regulation 2(1) of the Fisheries (Kaimoana Customary Fishing) Regulations 1998 is amended by inserting, in their appropriate alphabetical order, the following definitions:
   - **included species** has the same meaning as in section 72(1) of the Te Arawa Lakes Settlement Act 2006
   - **Te Arawa fisheries area** has the same meaning as in section 72(1) of the Te Arawa Lakes Settlement Act 2006
 (3) Regulation 4 of the Fisheries (Kaimoana Customary Fishing) Regulations 1998 (SR 1998/434) is amended by inserting, after subclause (1), the following subclause:
@@ -1084,12 +1086,12 @@ Section 88(1) of the Maori Purposes Act 1931 does not apply to any Te Arawa lake
 
 ### 101 Transitional provision relating to Antiquities Act 1975
 (1) The purpose of this section is to apply certain provisions of the Antiquities Act 1975 until the provisions of the Protected Objects Amendment Act 2006 come into force on 1 November 2006.
-(2) Until 31 October 2006, the following definitions apply in place of those referred to in section 2(1)(a):
+(2) Until 31 October 2006, the following definitions apply in place of those referred to in section 2(1)﻿(a):
   - **antiquities protocol** means a protocol issued under section 52 by the Minister for Arts, Culture and Heritage that—
     (a) sets out how the chief executive of the Ministry for Culture and Heritage and the Trustees of the Te Arawa Lakes Trust will interact on the matters specified in that protocol; and
     (b) is in the form set out in Part 2 of the Relationship Schedule or as the protocol is amended under section 52
   - **antiquities protocol area** means the Te Arawa lakes, as identified in attachment A of the antiquities protocol.
-(3) Until 31 October 2006, the following heading and provision apply in place of the section 57 and heading above that section referred to in section 2(1)(b):Antiquities protocolEffect of antiquities protocol
+(3) Until 31 October 2006, the following heading and provision apply in place of the section 57 and heading above that section referred to in section 2(1)﻿(b):Antiquities protocolEffect of antiquities protocol
   (1) The antiquities protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, antiquities or artifacts.
   (2) In this section, antiquity and artifact have the same meanings as in section 2 of the Antiquities Act 1975.
 
@@ -1098,7 +1100,7 @@ Section 88(1) of the Maori Purposes Act 1931 does not apply to any Te Arawa lake
 | Lakebed site | Legal description (all in South Auckland Land District–Rotorua District) | Encumbrances |
 | --- | --- | --- |
 | Bed of Lake Rotorua | 8 088.0000 hectares, more or less, being Section 1 SO 338985. Part Gazette 1955, page 1377 | Hamurana Wildlife Refuge. Gazette 1958, page 466. |
-|  |  | Lake Rotorua (Motutara) Wildlife Refuge. (SR 1993/135). |
+|  |  | Lake Rotorua (Motutara) Wildlife Refuge. Lake Rotorua (Motutara) Wildlife Refuge Order 1993 (SR 1993/135). |
 |  |  | The right of the Rotorua District Council to disturb the lakebed and remove sediment at Ruapeka Bay, Ohinemutu (Bay of Plenty Regional Council resource consent No 51136). |
 | Bed of Lake Rotoiti | 3 418.5000 hectares, more or less, being Section 1 SO 338986 |  |
 | Bed of Lake Rotoehu | 798.5100 hectares, more or less, being Section 1 SO 338988 |  |
