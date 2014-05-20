@@ -1,5 +1,5 @@
 # Ngaa Rauru Kiitahi Claims Settlement Act 2005
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-05-20_
 
 ## Preamble
 (1) I hainatia te Tiriti o Waitangi, teeraa e whakaatahia ana i roto i te reo Paakehaa me te reo Maaori i te Waahanga Tuatahi o te Ture Tiriti o Waitangi 1975, i te tau 1840:
@@ -231,7 +231,7 @@ It is the intention of Parliament that the provisions of this Act are interprete
 
 ### 12 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **archaeological site** has the meaning given to it in section 2 of the Historic Places Act 1993
+  - **archaeological site** has the meaning given to it in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **business day** means the period of 9 am to 5 pm on any day of the week other than—
     (a) Saturday, Sunday, Waitangi Day, Good Friday, Easter Monday, ANZAC Day, the Sovereign’s birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year; and
@@ -272,14 +272,14 @@ In this Act, unless the context otherwise requires,—
     (c) is in the form set out in Part 2 of Schedule 1 of the deed of settlement, or as the protocol is amended under section 21
   - **fisheries protocol area** means the area shown on the map attached to the fisheries protocol, together with the adjacent waters
   - **governance entity** means the entity established in accordance with clause 3.4 of the deed of settlement
-  - **Historic Places Trust** means the New Zealand Historic Places Trust (Pouhere Taonga) provided for in section 38 of the Historic Places Act 1993
+  - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **local authority** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **MED protocol** means a protocol issued under section 21 by the Minister of Energy that—
     (a) sets out how the Ministry of Economic Development will interact with the governance entity in relation to the matters specified in the protocol; and
     (b) provides for input by Ngaa Rauru Kiitahi into certain processes of the Ministry in relation to the matters specified in the protocol; and
     (c) is in the form set out in Part 2 of Schedule 1 of the deed of settlement, or as the protocol is amended under section 21
   - **MED protocol area** means the area shown on the map attached to the MED protocol, together with the adjacent waters
-  - **member of Ngaa Rauru Kiitahi (Ngaa Uki o Ngaa Rauru Kiitahi)** means every individual referred to in section 13(1)(a)
+  - **member of Ngaa Rauru Kiitahi (Ngaa Uki o Ngaa Rauru Kiitahi)** means every individual referred to in section 13(1)﻿(a)
   - **national park management plan** means a management plan as defined in section 2 of the National Parks Act 1980
   - **New Zealand Conservation Authority** has the same meaning as in section 2(1) of the Conservation Act 1987
   - **Ngaa Rauru Kiitahi** and have the meanings set out in section 13
@@ -296,9 +296,9 @@ In this Act, unless the context otherwise requires,—
     (a) the governance entity:
     (b) Nga Rauru Iwi Authority:
     (c) a person (including any trust or trustees) acting for, or on behalf of,—
-      (i) the iwi or collective group referred to in section 13(1)(a); or
+      (i) the iwi or collective group referred to in section 13(1)﻿(a); or
       (ii) any 1 or more members of Ngaa Rauru Kiitahi; or
-      (iii) any 1 or more of the hapuu, groups, family, or whaanau of individuals referred to in section 13(1)(b)(ii)
+      (iii) any 1 or more of the hapuu, groups, family, or whaanau of individuals referred to in section 13(1)﻿(b)﻿(ii)
   - **resource consent** has the meaning given to it in section 87 of the Resource Management Act 1991
   - **responsible Minister** means, in subpart 1 of Part 4, one of the following Ministers:
     (a) the Minister of Conservation:
@@ -327,7 +327,7 @@ In this Act, unless the context otherwise requires,—
 (1) In this Act, Ngaa Rauru Kiitahi—
   (a) means the iwi, or collective group, composed of—
     (i) individuals descended from 1 or more Ngaa Rauru Kiitahi tupuna; and
-    (ii) every individual referred to in paragraph (a)(i); and
+    (ii) every individual referred to in paragraph (a)﻿(i); and
     (iii) every individual who is a member of a hapuu referred to in paragraph (b); and
   (b) includes the following hapuu—
     (i) Rangitaawhi:
@@ -347,11 +347,11 @@ In this Act, unless the context otherwise requires,—
     (xv) Ngaati Iti:
     (xvi) Ngaati Hine Waiata:
     (xvii) Ngaati Tai; and
-  (c) includes any whaanau, hapuu, or group of individuals composed of individuals referred to in paragraph (b)(i) to (xvii).
+  (c) includes any whaanau, hapuu, or group of individuals composed of individuals referred to in paragraph (b)﻿(i) to (xvii).
 (2) In this section and section 14, Ngaa Rauru Kiitahi tupuna means a person who exercised customary rights—
   (a) by virtue of being descended from—
     (i) Rauru; or
-    (ii) a recognised ancestor of any of the hapuu referred to in subsection (1)(b); and
+    (ii) a recognised ancestor of any of the hapuu referred to in subsection (1)﻿(b); and
   (b) at any time after 6 February 1840 in relation to the area of interest.
 (3) In subsection (2), customary rights means rights according to tikanga Maori (Maori customary values and practices, which involve both rights and obligations) including—
   (a) rights to occupy land; and
@@ -383,9 +383,9 @@ In this Act, unless the context otherwise requires,—
     (vi) Wai 143 (Taranaki claims); and
     (vii) Wai 552 (Ahitahi/Araukuku Hapuu claim); but
   (d) does not include the following claims:
-    (i) a claim that Ngaa Uki o Ngaa Rauru Kiitahi, or a whaanau, hapuu, or group of individuals referred to in section 13(1)(c) may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not a Ngaa Rauru Kiitahi tupuna; or
+    (i) a claim that Ngaa Uki o Ngaa Rauru Kiitahi, or a whaanau, hapuu, or group of individuals referred to in section 13(1)﻿(c) may have that is, or is founded on, a right arising as a result of being descended from an ancestor who is not a Ngaa Rauru Kiitahi tupuna; or
     (ii) a claim that a representative entity may have to the extent that the claim is, or is based on, a claim referred to in subparagraph (i).
-(2) Subsection (1)(a) is not limited by subsection (1)(b) or subsection (1)(c).
+(2) Subsection (1)﻿(a) is not limited by subsection (1)﻿(b) or subsection (1)﻿(c).
 
 ## Part 3 — Settlement of historical claims and miscellaneous matters
 
@@ -440,7 +440,7 @@ In this Act, unless the context otherwise requires,—
     (i) exist in law; or
     (ii) hold or deal with property (including income derived from property); or
   (b) applies to a document entered into to give effect to the deed of settlement (including the deeds that grant a right of first refusal referred to in clauses 6.3.3(m) and 6.3.5 of the deed of settlement) if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) Subsection (1)(a) does not apply if the governance entity is, or becomes, a charitable trust.
+(2) Subsection (1)﻿(a) does not apply if the governance entity is, or becomes, a charitable trust.
 
 **Date on which actions or matters must occur**
 
@@ -558,7 +558,7 @@ In this subpart,—
 (7) Despite section 38(5), the marginal strip arising under section 24 of the Conservation Act 1987 in relation to the disposition of the Nukumaru site is reduced to a marginal strip of 15 metres between peg 10B and peg 10C as shown in diagram A on SO 339326.
 (8) Each grazing lease noted as an encumbrance in relation to the Nukumaru site in Schedule 1 (the Nukumaru encumbrances) binds successors in title to the Nukumaru site until the expiry or termination of the encumbrance, whichever is the earlier.
 (9) On the creation of the computer freehold register for the Nukumaru site, the Registrar-General of Land must note that the register is subject to subsection (8).
-(10) The Registrar-General must remove the note made under subclause (9) from the computer freehold register on receipt of a written request from the registered proprietor of the Nukumaru site, subject to subsection (11).
+(10) The Registrar-General must remove the note made under subsection (9) from the computer freehold register on receipt of a written request from the registered proprietor of the Nukumaru site, subject to subsection (11).
 (11) Any request made under subsection (10) before 1 April 2015, must include evidence demonstrating that every Nukumaru encumbrance has been terminated.
 
 ### 31 Nukumaru easement
@@ -580,7 +580,7 @@ In this subpart,—
     (i) the approved transferee has been appointed in accordance with paragraph (a); and
     (ii) the provisions of the deed of settlement have been accepted in accordance with paragraph (b); and
   (d) the approved transferee signs and provides to the Minister in Charge of Treaty of Waitangi Negotiations an easement in favour of Trustpower Limited over the Rehu Village site.
-(2) The easement referred to in subsection (1)(d) must be substantially on the same terms and conditions as set out in Part 1 of Schedule 2 of the deed of settlement.
+(2) The easement referred to in subsection (1)﻿(d) must be substantially on the same terms and conditions as set out in Part 1 of Schedule 2 of the deed of settlement.
 (3) If this section applies,—
   (a) the Minister in Charge of Treaty of Waitangi Negotiations must, as soon as practicable after the conditions in subsection (1) have been satisfied, advise by notice in the Gazette that this section applies; and
   (b) the following take effect from the date of notification in the Gazette under paragraph (a):
@@ -649,7 +649,7 @@ The Crown acknowledges the statements made by Ngaa Rauru Kiitahi of the particul
 
 ### 41 Purposes of statutory acknowledgements
 (1) The only purposes of the statutory acknowledgements are—
-  (a) to require consent authorities, the Environment Court, and the Historic Places Trust to have regard to the statutory acknowledgements, as provided for in sections 42 to 44; and
+  (a) to require consent authorities, the Environment Court, and Heritage New Zealand Pouhere Taonga to have regard to the statutory acknowledgements, as provided for in sections 42 to 44; and
   (b) to require relevant consent authorities to forward summaries of resource consent applications to the governance entity, as provided for in section 46; and
   (c) to enable the governance entity and a member of Ngaa Rauru Kiitahi to cite the statutory acknowledgements as evidence of the association of Ngaa Rauru Kiitahi with the relevant statutory areas, as provided for in section 47.
 (2) This section does not limit the operation of sections 53 to 56.
@@ -662,8 +662,10 @@ The Crown acknowledges the statements made by Ngaa Rauru Kiitahi of the particul
 (1) From the effective date, the Environment Court must have regard to a statutory acknowledgement relating to a statutory area in determining under section 274 of the Resource Management Act 1991 whether the governance entity is a person having an interest in the proceedings greater than the public generally in respect of an application for a resource consent for activities within, adjacent to, or impacting directly on the statutory area.
 (2) Subsection (1) does not limit the obligations of the Environment Court under the Resource Management Act 1991.
 
-### 44 Historic Places Trust and Environment Court to have regard to statutory acknowledgements
-From the effective date, the Historic Places Trust and the Environment Court must have regard to a statutory acknowledgement relating to a statutory area in forming an opinion under section 14(6)(a) or section 20(1) of the Historic Places Act 1993, as the case may be, as to whether the governance entity is (or, for the purposes of section 14(6)(a) of that Act, may be) a person directly affected in relation to an archaeological site within the statutory area.
+### 44 Heritage New Zealand Pouhere Taonga and Environment Court to have regard to statutory acknowledgements
+If, on or after the effective date, an application is made under section 44, 56, or 61 of the Heritage New Zealand Pouhere Taonga Act 2014 for an authority to undertake an activity that will or may modify or destroy an archaeological site within a statutory area,—
+  (a) Heritage New Zealand Pouhere Taonga, in exercising its powers under section 48, 56, or 62 of that Act in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area; and
+  (b) the Environment Court, in determining under section 59(1) or 64(1) of that Act any appeal against a decision of Heritage New Zealand Pouhere Taonga in relation to the application, must have regard to the statutory acknowledgement relating to the statutory area, including in making a determination as to whether the governance entity is a person directly affected by the decision.
 
 ### 45 Recording statutory acknowledgements on statutory plans
 (1) From the effective date, relevant consent authorities must attach information recording a statutory acknowledgement to all statutory plans that wholly or partly cover the statutory area.
@@ -690,11 +692,11 @@ From the effective date, the Historic Places Trust and the Environment Court mus
   (b) form an opinion as to whether the governance entity is a person that is likely to be adversely affected under those sections.
 
 ### 47 Use of statutory acknowledgement
-(1) The governance entity and a member of Ngaa Rauru Kiitahi may, as evidence of the association of Ngaa Rauru Kiitahi with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or the Historic Places Trust concerning activities within, adjacent to, or impacting directly on the statutory area.
+(1) The governance entity and a member of Ngaa Rauru Kiitahi may, as evidence of the association of Ngaa Rauru Kiitahi with a statutory area, cite the relevant statutory acknowledgement in submissions to, and in proceedings before, a consent authority, the Environment Court, or Heritage New Zealand Pouhere Taonga concerning activities within, adjacent to, or impacting directly on the statutory area.
 (2) The content of the statement of association, as recorded in the statutory acknowledgement, is not, by virtue of the statutory acknowledgement, binding as deemed fact on—
   (a) consent authorities:
   (b) the Environment Court:
-  (c) the Historic Places Trust:
+  (c) Heritage New Zealand Pouhere Taonga:
   (d) parties to proceedings before those bodies:
   (e) any other person able to participate in those proceedings.
 (3) Despite subsection (2), the statutory acknowledgement may be taken into account by the bodies and persons specified in that subsection.
@@ -750,7 +752,7 @@ Neither the provision of a statutory acknowledgement nor the entry into a deed o
 (1) Except as expressly provided in this subpart,—
   (a) neither a statutory acknowledgement nor a deed of recognition affects, or may be taken into account by, a person exercising a power or performing a function or duty under a statute, regulation, or bylaw:
   (b) no person, in considering a matter or making a decision or recommendation under a statute, regulation, or bylaw, may give greater or lesser weight to the association of Ngaa Rauru Kiitahi with a statutory area (as described in the relevant statutory acknowledgement) than that person would give under the relevant statute, regulation, or bylaw if no statutory acknowledgement or deed of recognition existed in respect of the statutory area.
-(2) Subsection (1)(b) does not affect the operation of subsection (1)(a).
+(2) Subsection (1)﻿(b) does not affect the operation of subsection (1)﻿(a).
 
 ### 55 Rights not affected
 Except as expressly provided in this subpart, neither a statutory acknowledgement nor a deed of recognition affects the lawful rights or interests of a person who is not a party to the deed of settlement.
@@ -1018,7 +1020,7 @@ The purpose or classification of an area as a national park, conservation area, 
   (b) all or part of the Toopuni is disposed of by the Crown; or
   (c) there is a change in the Minister of the Crown or the department of State responsible for the management of all or part of the Toopuni.
 (3) Subsection (4) applies if—
-  (a) subsection (2)(b) or (c) applies; or
+  (a) subsection (2)﻿(b) or (c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the Toopuni.
 (4) If this subsection applies, the Crown must take reasonable steps to ensure that the governance entity continues to have input into the management of that part of the Toopuni affected by the alienation, or change in management responsibility, through negotiation with the governance entity by—
   (a) the Minister of the Crown responsible for the new management or the management regimes; or
@@ -1048,7 +1050,7 @@ In this subpart, unless the context otherwise requires,—
       (i) purchased by the governance entity under the deed granting a right of first refusal over shellfish quota that is to be entered into by the Minister and the governance entity under clause 12.6 of the deed of settlement; and
       (ii) received by the governance entity from the Treaty of Waitangi Fisheries Commission
   - **Minister** has the meaning given to it in section 2(1) of the Fisheries Act 1996
-  - **shellfish quota** has the meaning given to it in the deed granting a right of first refusal over shellfish quota referred to in paragraph (b)(i) of the definition of excess shellfish quota.
+  - **shellfish quota** has the meaning given to it in the deed granting a right of first refusal over shellfish quota referred to in paragraph (b)﻿(i) of the definition of excess shellfish quota.
 
 ### 104 Consent to holding excess quota
 (1) The Minister is to be treated as having consented under section 60(1) of the Fisheries Act 1996 to the governance entity owning excess shellfish quota.
@@ -1071,7 +1073,7 @@ In this subpart, unless the context otherwise requires,—
 (1) The authorisations that the governance entity has a preferential right to purchase under section 106 must—
   (a) not exceed in area 10% of the authorisations granted or proposed to be granted by the Minister in the tender for the specified coastal area; and
   (b) be of not less than fair average quality in terms of the relevant portion of the specified coastal area, relative to the quality of those portions for all other authorisations that are the subject of the tender.
-(2) The limit specified in subsection (1)(a) may be exceeded if the size and shape of the part of the specified coastal area for the authorisations to which that tender round relates make it impractical to comply with the limitation.
+(2) The limit specified in subsection (1)﻿(a) may be exceeded if the size and shape of the part of the specified coastal area for the authorisations to which that tender round relates make it impractical to comply with the limitation.
 
 ### 108 Governance entity treated as having made tender
 (1) If the governance entity has a preferential right under section 106 to purchase authorisations, the governance entity must be treated as having lodged a valid tender for the authorisations, for $1 consideration, in compliance with section 158 of the Resource Management Act 1991.
