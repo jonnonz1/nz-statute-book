@@ -1,5 +1,5 @@
 # National War Memorial Park (Pukeahu) Empowering Act 2012
-_Consolidation as at 2012-10-03_
+_Consolidation as at 2014-05-20_
 
 ### 1 Title
 This Act is the National War Memorial Park (Pukeahu) Empowering Act 2012.
@@ -295,7 +295,7 @@ In this subpart and in Schedules 5 and 6, building code, building levy, building
   (c) amend any statutory authorisation, or any other permission or right, granted under subparts 1 to 4 of this Part (including any conditions or limitations to which it is subject, and including by extending the effect of any property right to any additional land, building, or structure).
 (2) The enactments referred to in subsection (1)(a) are the following Acts and any rules or regulations made under those Acts:
   (a) the Building Act 2004:
-  (b) the Historic Places Act 1993:
+  (b) the Heritage New Zealand Pouhere Taonga Act 2014:
   (c) the Land Transfer Act 1952:
   (d) the Local Government Act 1974:
   (e) the Local Government Act 2002:
@@ -382,7 +382,7 @@ An Order in Council made under section 25 cannot be disallowed under the Regulat
   (a) Massey University:
   (b) Mt Cook School:
   (c) National War Memorial Advisory Council:
-  (d) New Zealand Historic Places Trust (Pouhere Taonga):
+  (d) Heritage New Zealand Pouhere Taonga:
   (e) Royal New Zealand Returned and Services' Association Incorporated:
   (f) Wellington City Council:
   (g) Wellington Regional Council:
