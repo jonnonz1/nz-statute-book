@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-06-03_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -4514,7 +4514,7 @@ In rules 9.59 to 9.67, unless the context otherwise requires, terms that are def
   (g) if the applicant is aware of any fact or circumstance that may constitute a ground for setting the subpoena aside under section 160 of the Evidence Act 2006, the fact or circumstance.
 (3) A Judge may direct that a New Zealand subpoena be served in Australia on a body corporate by serving the subpoena on a member, officer, or employee of the body corporate in the manner the Judge directs.
 (4) The file relating to an application must be kept separate from the file relating to the proceeding to which the subpoena relates.
-(5) As provided in rule 3.11, no document relating to an application under this rule may be searched, inspected, or copied without the leave of a Judge.
+(5) As provided in rule 3.12(4), no document relating to an application under this rule may be searched, inspected, or copied without the leave of a Judge.
 
 ### 9.61 Service of subpoena on witness in Australia
 Every statement that, in accordance with section 156 of the Evidence Act 2006, is required to accompany a subpoena that is served on a witness in Australia must be in form G 28.
@@ -5115,7 +5115,7 @@ The court may give judgment on the issue of liability, and direct a trial of the
   (c) if given by or on behalf of the defendant, must show why none of the causes of action in the plaintiff’s statement of claim can succeed.
 
 ### 12.5 Service out of New Zealand
-A plaintiff who makes an application under rule 12.2 or 12.3 must serve the documents referred to in rule 12.4(4) on a defendant who is overseas not less than 25 days before the date for hearing the application.
+A plaintiff who makes an application under rule 12.2 or 12.3 must serve the documents referred to in rule 12.4(4) on a defendant who is overseas not less than 25 working days before the date for hearing the application.
 
 ### 12.6 Requirements as to notice of proceeding
 Rule 5.23 does not apply to a proceeding under Part 12.
@@ -5447,7 +5447,7 @@ The plaintiff may proceed against any 1 or more defendants under rule 15.7 or 15
 
 ### 15.9 Formal proof for other claims
 (1) This rule applies if, or to the extent that, the defendant does not file a statement of defence within the number of working days required by the notice of proceeding, and the plaintiff seeks judgment by default for other than a liquidated demand.
-(2) The proceeding must be listed for formal proof.
+(2) The proceeding must be listed for formal proof and no notice is required to be given to the defendant.
 (3) After a proceeding is listed for a formal proof hearing, no statement of defence may be filed without the leave of a Judge granted on the ground that there will or may be a miscarriage of justice if judgment by default is entered, and on such terms as to time or otherwise as the Judge thinks just.
 (4) The plaintiff must, before or at the formal proof hearing, file affidavit evidence establishing, to a Judge's satisfaction, each cause of action relied on and, if damages are sought, providing sufficient information to enable the Judge to calculate and fix the damages.
 (5) If the Judge before or at the formal proof hearing considers that any deponent of an affidavit filed under subclause (4) should attend to give additional evidence, the Judge may direct accordingly and adjourn the hearing for that purpose.
@@ -8441,6 +8441,7 @@ At the same time as the originating application is filed, the plaintiff must fil
   (b) treated as if it were an originating application under Part 19; and
   (c) disposed of in accordance with Part 19; and
   (d) determined at the same time as the plaintiff’s application to enforce the award by entry as a judgment.
+(5) To avoid doubt, an application under this rule is concerned with the recognition or enforcement of an award and not with any question of law arising out of the award that may be determined by the court or the Court of Appeal under clause 5 of Schedule 2 of the Act.
 
 ### Part 27 — Administration (including probate)
 
