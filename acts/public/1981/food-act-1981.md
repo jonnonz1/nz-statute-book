@@ -1,5 +1,5 @@
 # Food Act 1981
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-06-07_
 
 > An Act to consolidate and amend the law relating to the sale of food
 
@@ -1280,8 +1280,7 @@ Every person who commits any offence against this Act for which no penalty is pr
 (2) Sections 20 to 22 shall, so far as they are applicable and with the necessary modifications, apply with respect to the procuring and analysis of the sample.
 
 ### 37 Statements by Director-General
-(1) The Director-General may from time to time, for the purpose of protecting the public, publish statements relating to any food or appliance, or to any matter contained or implied in advertisements, either generally or in any particular advertisement or class or classes of advertisements, relating to any food or appliance.
-(2) Every statement published under this section shall be protected by qualified privilege.
+[Repealed]
 
 ### 38 Examination of Customs entries
 For the purposes of this Act, any officer shall have the right at all times, subject to the convenience of the Customs, to inspect any Customs entry relating to any goods imported or proposed to be imported into New Zealand, or to inspect any certificate or invoice relating to those goods, if and so long as any such document is in the possession or control of the Customs.
@@ -1290,9 +1289,7 @@ For the purposes of this Act, any officer shall have the right at all times, sub
 No person who does any act in pursuance or intended pursuance of any of the functions conferred on him by or under this Act shall be under any civil or criminal liability in respect of the act, whether on the grounds of want of jurisdiction, or mistake of law or fact, or on any other ground unless he has acted in bad faith or without reasonable care.
 
 ### 40 Recall of food
-(1) The Minister may, for the purpose of protecting the public, issue to any importer, manufacturer, or seller of food, an order directing the recall of any food or appliance, or requiring the destruction or denaturing of any food that is unsound or unfit for human consumption or is damaged or deteriorated or perished, or that is contaminated with any poisonous, deleterious, or injurious substance.
-(2) The importer, manufacturer, or seller shall, on receipt of the recall order, advise the Minister of the details of the manner in which he proposes to comply with the order, and shall give written notice to the Minister when the recall has been completed.
-(3) Every person commits an offence against this Act who fails to comply in any respect with any of the provisions of this section or any order issued under this section.
+[Repealed]
 
 ### 41 Records
 (1) Every person who, in the course of any business, imports, prepares, processes, manufactures, packs, stores, carries, delivers, or sells any food or appliance shall keep, in some place of security at his place of business, such records as may be required by any regulations or food standards made under this Act, and shall retain them for such period as may be specified in those regulations or food standards, as the case requires.
