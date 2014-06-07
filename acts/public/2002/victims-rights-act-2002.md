@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-06-07_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -491,6 +491,37 @@ A victim to whom this section applies may make submissions to the Minister of Im
 
 ### 51 Return of property held as evidence
 Law enforcement agencies that hold property of a person (other than an offender) for evidentiary purposes must, to the extent that it is possible to do so, return it to the person as soon as practicable after they no longer need to hold it for those purposes.
+
+**Code for victims**
+
+### 51A Interpretation
+In sections 51B to 51E,—
+  - **code** means the code for victims
+  - **Minister** means the Minister of Justice.
+
+### 51B Secretary to prepare code
+(1) As soon as practicable after the commencement of this section, the Secretary must prepare a code.
+(2) The purpose of the code is to make available to victims information that is consistent with this Act and any other Act about—
+  (a) the rights of victims; and
+  (b) the services available to victims from government agencies and other organisations; and
+  (c) the duties and responsibilities of government agencies when dealing with victims.
+(3) In preparing the code, the Secretary—
+  (a) must consult the government agencies that provide services to victims; and
+  (b) may consult any persons or representatives of persons as the Secretary considers appropriate.
+
+### 51C Code to be approved by Minister
+A code prepared under section 51B does not have any effect for the purposes of this Act until—
+  (a) it has been submitted to the Minister; and
+  (b) the Minister, after being satisfied that appropriate consultation has been carried out under section 51B(3), has approved and signed the code.
+
+### 51D Publication of code
+(1) As soon as practicable after the code has been approved by the Minister, the Secretary must notify the approval of the code in the Gazette.
+(2) The Secretary must—
+  (a) promote awareness of the code in a variety of communications media; and
+  (b) make copies of the code accessible to members of the public (whether electronically or otherwise).
+
+### 51E Amendment to code
+The Secretary may at any time amend the code in the manner provided in sections 51B to 51D, except that consultation need not be undertaken on matters involving minor corrections or updating, or otherwise of a minor or technical nature.
 
 **Director-General of Health may delegate duties under Act**
 
