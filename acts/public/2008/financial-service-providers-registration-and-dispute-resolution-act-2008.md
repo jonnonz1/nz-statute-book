@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2014-05-01_
+_Consolidation as at 2014-06-07_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -883,9 +883,12 @@ The person responsible for a reserve scheme must—
 
 ### 79 Regulations under this Part
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
-  (a) exempting any person or class of persons from the obligation to be a member of either an approved dispute resolution scheme or the reserve scheme, and prescribing the terms and conditions (if any) of the exemption:
+  (a) exempting any person or class of persons from the obligation to be a member of an approved dispute resolution scheme and prescribing the terms and conditions (if any) of the exemption:
+  (aa) providing rules for an interim dispute resolution scheme:
   (b) prescribing the information or documents to be supplied to the Minister as part of an application under this Part:
   (c) prescribing processes for applications for the approval of dispute resolution schemes:
+  (ca) prescribing matters for the purposes of section 63(1)(g)(ii) and (s):
+  (cb) prescribing provisions to be implied into rules about approved dispute resolution schemes:
   (d) prescribing rules for a class of approved dispute resolution scheme or for all approved dispute resolution schemes in the event that approval of those schemes is withdrawn:
   (e) prescribing the information that must be included in every annual report supplied in accordance with section 68, which must include—
     (i) information about any independent review that occurred within the previous 12 months; and
@@ -895,6 +898,15 @@ The person responsible for a reserve scheme must—
 (1A) The Minister must not recommend the making of regulations under subsection (1)(a), unless the Minister is satisfied that—
   (a) the exemption is consistent with the purposes of this Act; and
   (b) the costs of compliance with the obligation would be unreasonable or not justified by the benefits of compliance.
+(1B) The Minister must not recommend the making of regulations under subsection (1)(aa) unless the Minister—
+  (a) is satisfied that—
+    (i) members of a scheme that has ceased, or will cease, to be an approved dispute resolution scheme would be, or are, unable to reasonably become members of another approved dispute resolution scheme; and
+    (ii) the interim dispute resolution scheme will be consistent with the purpose of this Part (see section 47); and
+    (iii) the interim dispute resolution scheme will be capable of providing a scheme for the purpose of this Part; and
+    (iv) the rules of the interim dispute resolution scheme will comply with section 63; and
+  (b) has consulted the FMA and any other persons that the Minister considers are likely to be substantially affected by the establishment of an interim dispute resolution scheme.
+(1C) The Minister must not recommend the making of regulations under subsection (1)(ca) or (cb) unless the Minister has consulted the FMA and any other persons that the Minister considers are likely to be substantially affected by the regulations.
+(1D) However, a failure to consult with the persons referred to in subsection (1B)(b) or (1C) does not affect the validity of the regulations.
 (2) The Minister may refuse to make a decision under this Part until the prescribed fee is paid.
 (3) Any Order in Council made under subsection (1) may—
   (a) prescribe the method of payment of a fee; and
