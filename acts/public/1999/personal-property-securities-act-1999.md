@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2014-04-14_
+_Consolidation as at 2014-06-07_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -463,9 +463,12 @@ ExamplePerson A has perfected its security interest in person B's shares by taki
 A security agreement may provide for security interests in after-acquired property.
 
 ### 44 Attachment of security interests in after-acquired property
-A security interest in after-acquired property attaches without specific appropriation by the debtor, unless the after-acquired property is consumer goods where—
+(1) A security interest in after-acquired property attaches without specific appropriation by the debtor, unless the after-acquired property is consumer goods where—
   (a) those consumer goods are not an accession or do not replace the collateral described in the security agreement; or
   (b) the security interest in those consumer goods is not a purchase money security interest.
+(2) However, in relation to an appropriation of after-acquired property that is consumer goods, such appropriation—
+  (a) must be made by the debtor, either personally or by the debtor's agent; and
+  (b) cannot be made by the creditor acting as the debtor's attorney or agent.
 ExamplePerson A and person B have entered into a security agreement, which provides that person A has a security interest in all of person B's present and after-acquired property.After the security agreement has been entered into, person B purchases a computer for the office.Person A's security interest in person B's computer attaches when person B buys the computer.
 
 **Proceeds**
