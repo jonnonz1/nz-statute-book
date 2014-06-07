@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-06-07_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -1205,19 +1205,40 @@ This Act applies to a credit contract, guarantee, lease, or buy-back transaction
 ### 138 Regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing any class of credit contract that is exempted from being a consumer credit contract and the terms and conditions (if any) applying to the exemption:
+  (ab) exempting any credit contract or other agreement or class of credit contract or other agreement from the application of any provision or provisions of this Act, and prescribing the terms and conditions (if any) of the exemption:
+  (ac) prescribing matters for the purposes of section 19(1)(i), including what warning and other information must be contained, how the warning and information must be presented, how amounts or other matters are calculated or determined, and the circumstances (if any) in which the warning or information is not required:
   (b) prescribing any other information that must be disclosed under section 22 or section 23 or section 26:
   (c) prescribing, for the purposes of section 23 or section 26, any alternative publication requirements in relation to disclosing a change to the amount of an interest rate or a change to the amount of any fee or charge payable:
-  (d) prescribing any class of change to a matter for which disclosure under section 23 is not required:
-  (e) prescribing model disclosure statements that comply with section 32, and the terms and conditions on which the model disclosure statements may be used:
+  (d) prescribing any class of change to a matter to which section 23(5) applies:
+  (da) prescribing circumstances for the purposes of section 26A(3):
+  (db) prescribing matters for the purposes of section 32(1)(ba), including prescribing—
+    (i) 1 or more forms:
+    (ii) when a form must be used:
+    (iii) information or warnings that must be included in the form that are in addition to the key information set out in Schedule 1 or other information required by this Act:
+  (dc) prescribing the particular matters required to meet all or any of the requirements under this Act for publication, disclosure, notice, or other provision of information:
+  (dd) prescribing the form of statements that must be used to meet all or any of the requirements under this Act for publication, disclosure, notice, or other provision of information:
+  (de) prescribing how the information to be disclosed must be presented, including, but not limited to, requirements as to the precise manner of disclosure:
+  (e) prescribing model disclosure statements for the purposes of section 34 that comply with section 32, and the terms and conditions on which the model disclosure statements may be used:
   (f) prescribing, for the purposes of section 33, the assumptions that may be made when disclosing information that is required to be disclosed under this Act and the terms and conditions (if any) that apply to those assumptions:
   (g) prescribing a procedure or procedures for calculating a reasonable estimate of a creditor's loss arising from full prepayment:
   (h) prescribing, for the purposes of section 52, the procedure for calculating a proportionate rebate of any premium paid for any consumer credit insurance product financed under a consumer credit contract:
+  (ha) prescribing, for the purposes of section 52A or 52B, the procedure for calculating a proportionate rebate of any additional consideration paid for a repayment waiver or extended warranty:
   (i) prescribing the procedure for determining the maximum amount payable by a lessee on the termination of a consumer lease before the end of its term:
   (j) prescribing the form of the certificate that must be given under section 73:
+  (ja) prescribing consumer goods or documents for the purposes of section 83ZN(1)(c):
   (k) prescribing, for the purposes of Schedule 1, any other information or warnings as key information concerning a consumer credit contract:
   (l) prescribing, for the purposes of Schedule 2, any other information or warnings as information concerning a consumer lease:
   (m) prescribing, for the purposes of Schedule 3, any other information or warnings as information concerning a buy-back transaction:
   (n) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(1A) Regulations may be made under subsection (1)(a) or (ab) only on the recommendation of the Minister, and the Minister may make a recommendation only if he or she—
+  (a) has had regard to the purposes of this Act set out in section 3; and
+  (b) is satisfied that the exemption would not cause significant detriment to debtors under credit contracts, lessees under consumer leases, or occupiers under buy-back transactions; and
+  (c) is satisfied, in the case of—
+    (i) subsection (1)(a), that compliance with the provisions of this Act relating to consumer credit contracts would, in the circumstances, require a creditor or a class of creditors to comply with requirements that are unduly onerous or burdensome:
+    (ii) subsection (1)(ab), that compliance with the relevant provision or provisions would, in the circumstances, require a creditor, lessor, or transferee or a class of creditors, lessors, or transferees to comply with requirements that are unduly onerous or burdensome.
+(1B) If the Minister makes a recommendation under subsection (1A) relating to an exemption in regulations made under subsection (1)(a) or (ab), the Minister’s reasons for making the recommendation (including why the exemption is appropriate) must be published together with the regulations.
+(1C) Regulations may be made under subsection (1)(da) only on the recommendation of the Minister, and the Minister may make a recommendation only if he or she is satisfied that the circumstances that are prescribed relate to a securitisation or covered bond arrangement or any similar arrangement.
+(1D) For the purposes of subsection (1)(db) to (de), regulations may prescribe different requirements for different types or classes of disclosure, persons who are required to make disclosure, contracts, leases, transactions, or other circumstances.
 (2) For the purposes of subsection (1)(e), regulations may—
   (a) prescribe model disclosure statements in any language; and
   (b) authorise the translation of a prescribed model disclosure statement into 1 or more languages and the terms and conditions that apply to the translation.
@@ -1245,6 +1266,9 @@ The following enactments are repealed:
 (2) This Act applies to every buy-back transaction, whether made before or after the commencement of this subsection.
 (3) However, subpart 3 of Part 3 does not apply to a buy-back transaction made before the commencement of this subsection.
 
+### 141A Application, savings, and transitional provisions relating to amendments to Act
+The application, savings, and transitional provisions set out in Schedule 1AA, which relate to amendments made to this Act after 1 January 2014, have effect for the purposes of this Act.
+
 ### 142 Election for Act to apply
 (1) A creditor under a credit contract made before the commencement of this section may, after the commencement of this section, elect that this Act apply to the credit contract and any guarantee made in connection with the credit contract from a particular date (the effective date).
 (2) A creditor must not make an election under subsection (1) if that election increases any obligation that the debtor has in connection with the credit contract.
@@ -1264,6 +1288,38 @@ The following enactments are repealed:
 (3) In this section,—
   - **credit contract** has the same meaning as in the Credit Contracts Act 1981 (as in force immediately before the commencement of this section)
   - **hire purchase agreement** has the same meaning as in the Hire Purchase Act 1971 (as in force immediately before the commencement of this section).
+
+## Schedule 1AA — Application, savings, and transitional provisions relating to amendments made to this Act after 1 January 2014
+
+### 1 Interpretation
+In this schedule,—
+  - **2014 Act** means the Credit Contracts and Consumer Finance Amendment Act 2014
+  - **principal Act** means the Credit Contracts and Consumer Finance Act 2003.
+
+**Credit Contracts and Consumer Finance Amendment Act 2014**
+
+### 2 Minister may prepare Responsible Lending Code before commencement of Part 1A
+(1) The Minister may exercise or perform a power or duty under sections 9G to 9I (as inserted by the 2014 Act) before section 9 of the 2014 Act comes into force.
+(2) Any consultation undertaken before section 9 of the 2014 Act comes into force that is of the kind referred to in section 9G(2)(b) or (e) must be treated as the consultation required for the purposes of that section (even if the consultation occurs before the enactment of the 2014 Act).
+(3) The Minister must ensure that the Responsible Lending Code first comes into force no later than 12 months after the date on which the 2014 Act receives the Royal assent.
+
+### 3 Application of amendments to existing agreements
+(1) Except as provided for in subclauses (2) and (3),—
+  (a) the amendments to the principal Act in the 2014 Act do not apply to existing agreements; and
+  (b) the principal Act and the Credit (Repossession) Act 1997, as in force immediately before the commencement of this clause, continue to apply for the purposes of those agreements.
+(2) The amendments referred to in subclause (1) apply in relation to existing agreements as follows:
+  (a) the amendments made by section 20 of the 2014 Act (request disclosure) apply only in relation to requests made on or after the commencement of that section:
+  (b) the amendments made by sections 18, 19, 44, and 47 of the 2014 Act (variation disclosure) apply only to variations that take effect on or after the commencement of those sections:
+  (c) the amendments made by section 16 of the 2014 Act (continuing disclosure statements) apply only to continuing disclosure statements that are, or required to be, given or sent on or after the commencement of that section:
+  (d) the amendments made by section 22 of the 2014 Act (disclosure of transfers) apply only to transfers that take effect on or after the commencement of that section:
+  (e) the amendments made by sections 37 to 41 of the 2014 Act (hardship applications) apply only to applications made on or after the commencement of those sections:
+  (f) the lender responsibility principles (see section 9C(2) of the principal Act, as inserted by section 9 of the 2014 Act) apply only to the following:
+    (i) a variation of a contract where the variation takes effect on or after the commencement of section 9 of the 2014 Act:
+    (ii) an application under section 55 of the principal Act made on or after the commencement of section 9 of the 2014 Act.
+(3) If a provision of the principal Act as amended or inserted by the 2014 Act applies in relation to an existing agreement under subclause (2), sections 93 and 96 of the principal Act (as amended by sections 59 and 63 of the 2014 Act) apply to a breach of that provision in relation to the existing agreement if the breach occurs on or after the commencement of this clause.
+(4) In this clause, existing agreement means any credit contract, security agreement, lease, buy-back transaction, or other contract or arrangement—
+  (a) to which the principal Act or the Credit (Repossession) Act 1997 (as in force before this clause came into force) applies; and
+  (b) that was entered into before this clause came into force.
 
 ## Schedule 1 — Key information concerning consumer credit contract
 
