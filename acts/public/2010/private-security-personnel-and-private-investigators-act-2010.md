@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-06-17_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -581,7 +581,7 @@ The grounds of disqualification for an individual applicant for a licence, or an
   (f) has, within the preceding 7 years, been convicted of any—
     (i) offence under the Arms Act 1983; or
     (ii) offence under any of sections 216H to 216J of the Crimes Act 1961; or
-    (iii) offence under section 10, 11, 13, 16, 19, 21, 24, 47F, or 47J of the Fair Trading Act 1986; or
+    (iii) offence under section 10, 11, 12A, 13, 16, 19, 21, 24, 47F, or 47J of the Fair Trading Act 1986; or
     (iv) offence under section 8 or 25 of the Harassment Act 1997; or
     (v) offence against section 6 of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug, a Class B controlled drug, or a Class C controlled drug, in relation to which the amount, level, or quantity at and over which the drug is presumed to be for supply is specified in Schedule 5 of that Act; or
     (vi) offence of dishonesty; or
@@ -597,7 +597,7 @@ The grounds of disqualification for an individual applicant for a licence, or an
 ### 63 Grounds of disqualification for company
 (1) The grounds of disqualification for a company applicant for a licence are that—
   (a) the company has, within the preceding 7 years, been convicted of any—
-    (i) offence under section 10, 11, 12, 16, 19, 21, 24, 47F, or 47J of the Fair Trading Act 1986; or
+    (i) offence under section 10, 11, 12, 12A, 16, 19, 21, 24, 47F, or 47J of the Fair Trading Act 1986; or
     (ii) offence of dishonesty; or
     (iii) offence against section 6 of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug, a Class B controlled drug, or a Class C controlled drug, in relation to which the amount, level, or quantity at and over which the drug is presumed to be for supply is specified in Schedule 5 of that Act; or
     (iv) offence under this Act of operating while unlicensed or employing or engaging a person without a certificate of approval, or an offence under section 16, 34, or 52 of the Private Investigators and Security Guards Act 1974; or
