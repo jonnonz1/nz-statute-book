@@ -1,5 +1,5 @@
 # Carriage of Goods Act 1979
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-06-17_
 
 > An Act to restate and reform the law relating to the carriage of goods within New Zealand
 
@@ -32,11 +32,11 @@ In this Act, unless the context otherwise requires,—
   (a) in relation to bulk cargo, means the customary freight unit; that is, the unit of bulk, weight, or measurement upon which the freight for that type of cargo is customarily computed or adjusted:
     provided that, where the freight payable under a contract of carriage is computed or adjusted upon a specified unit of bulk, weight, or measurement, references in this Act to unit of goods or unit shall be deemed, for the purposes of the carriage of goods pursuant to that contract, to be references to that specified unit:
   (b) in relation to goods contained in a container, means the container load of goods; and includes, where the container is provided by the contracting party, the container:
-  (d) in relation to goods loaded on a pallet, means the pallet load of goods; and includes, where the pallet is provided by the contracting party, the pallet:
-  (e) in relation to goods contained in a package that is not contained in a larger package or in a container, nor loaded on a pallet, means the package of goods:
-  (f) in relation to goods that are unitised for the purposes of carriage in any manner not referred to in any of the preceding paragraphs of this subsection, means the unit of goods as so unitised:
-  (g) in relation to goods (other than baggage) not referred to in any of the preceding paragraphs of this subsection, means each item of the goods:
-  (h) in relation to baggage, means each item of baggage.
+  (c) in relation to goods loaded on a pallet, means the pallet load of goods; and includes, where the pallet is provided by the contracting party, the pallet:
+  (d) in relation to goods contained in a package that is not contained in a larger package or in a container, nor loaded on a pallet, means the package of goods:
+  (e) in relation to goods that are unitised for the purposes of carriage in any manner not referred to in any of the preceding paragraphs of this subsection, means the unit of goods as so unitised:
+  (f) in relation to goods (other than baggage) not referred to in any of the preceding paragraphs of this subsection, means each item of the goods:
+  (g) in relation to baggage, means each item of baggage.
 (2) For the purpose of determining the limit of the liability of any carrier, the limit of liability prescribed by section 15 in respect of each unit of goods relates to the unit of goods as accepted for carriage by the actual carrier or, where the carriage is undertaken by more than 1 carrier, by the first actual carrier, whether or not that unit is subsequently packed, repacked, or unpacked, or otherwise aggregated with or segregated from any other goods, at any stage of the carriage.
 
 ### 4 Act to bind Crown
@@ -108,8 +108,8 @@ The parties to a contract of carriage are free to make their own terms in respec
   (b) in a case where the goods are to be collected by the consignee,—
     (i) when the goods are collected by the consignee; or
     (ii) on the expiry of the 5th day (excluding any day on which the carrier's premises are not open for the collection of goods) after the date on which the contracting carrier or (as the case may require) the last actual carrier notifies the consignee that the goods are available for collection.
-(4) In any case where, at the time when the contracting carrier or (as the case may require) the last actual carrier is able to tender the goods to the consignee in accordance with the contract, the consignee's whereabouts are unknown to that carrier, the responsibility of the contracting carrier for the goods ends when he or (as the case may require) the last actual carrier has taken reasonable steps to find the consignee and notify him of the matters referred to in paragraph (a)(ii) or (as the case may require) paragraph (b)(ii) of subsection (3).
-(5) No notice referred to in subsection (3)(a)(ii) shall take effect until it is received by the person liable to pay the freight.
+(4) In any case where, at the time when the contracting carrier or (as the case may require) the last actual carrier is able to tender the goods to the consignee in accordance with the contract, the consignee's whereabouts are unknown to that carrier, the responsibility of the contracting carrier for the goods ends when he or (as the case may require) the last actual carrier has taken reasonable steps to find the consignee and notify him of the matters referred to in paragraph (a)﻿(ii) or (as the case may require) paragraph (b)﻿(ii) of subsection (3).
+(5) No notice referred to in subsection (3)﻿(a)﻿(ii) shall take effect until it is received by the person liable to pay the freight.
 (6) Notwithstanding any of the foregoing provisions of this section, the responsibility of a contracting carrier who contracts for the carriage of goods to a destination outside New Zealand ends for the purposes of this Act at the time when the international carriage of those goods begins.
 (7) Notwithstanding any of the foregoing provisions of this section, the responsibility of a contracting carrier who contracts for the carriage of goods from a destination outside New Zealand to a destination in New Zealand begins for the purposes of this Act at the time when the international carriage of those goods ends.
 
@@ -119,17 +119,17 @@ The parties to a contract of carriage are free to make their own terms in respec
 (3) In any case to which this section applies where more than 1 actual carrier is involved,—
   (a) subject to subsection (4), the actual carriers are, subject to the terms of their respective contracts, jointly liable as such to the contracting carrier for the loss of or damage to any goods occurring while the actual carriers are jointly responsible for the goods in accordance with subsection (5), whether or not the loss or damage is caused wholly or partly by the actual carriers or any of them:
   (b) each actual carrier is, subject to the terms of his contract, separately liable as such to the contracting carrier for the loss of or damage to any goods occurring while he is separately responsible for the goods in accordance with subsection (6), whether or not the loss or damage is caused wholly or partly by the actual carrier.
-(4) No actual carrier is liable under subsection (3)(a) if he proves that the loss or damage occurred otherwise than while he was separately responsible for the goods in accordance with subsection (6).
-(5) For the purposes of subsection (3)(a), the actual carriers are jointly responsible for the goods from the time when the goods (or the container, package, pallet, item of baggage, or any other thing in or on which the goods are believed to be) are accepted for carriage until the time when the contracting carrier's responsibility ends in accordance with subsection (3) or subsection (4) of section 9.
+(4) No actual carrier is liable under subsection (3)﻿(a) if he proves that the loss or damage occurred otherwise than while he was separately responsible for the goods in accordance with subsection (6).
+(5) For the purposes of subsection (3)﻿(a), the actual carriers are jointly responsible for the goods from the time when the goods (or the container, package, pallet, item of baggage, or any other thing in or on which the goods are believed to be) are accepted for carriage until the time when the contracting carrier's responsibility ends in accordance with subsection (3) or subsection (4) of section 9.
 (6) For the purposes of subsections (2) to (4), each actual carrier is separately responsible for the goods from the time when the goods (or the container, package, pallet, item of baggage, or any other thing in or on which the goods are believed to be) are accepted by him for carriage until the time—
   (a) when they are duly tendered by him to the next actual carrier in accordance with the contract of carriage; or
   (b) in the case of the last actual carrier, when the contracting carrier's responsibility ends in accordance with subsection (3) or subsection (4) of section 9.
-(7) For the purposes of subsection (3)(a), the actual carriers shall be liable in proportion to the amount of freight or other consideration payable to each of the actual carriers for the carriage performed by him.
+(7) For the purposes of subsection (3)﻿(a), the actual carriers shall be liable in proportion to the amount of freight or other consideration payable to each of the actual carriers for the carriage performed by him.
 (8) For the purposes of subsection (7), where the contracting carrier himself performs any part of the carriage, the amount of freight or other consideration payable to him shall be the difference between the total amount payable under the contract of carriage and the aggregate amount payable to the actual carriers.
 (9) For the purposes of subsections (7) and (8), where any actual carrier (in this subsection referred to as the secondary actual carrier) performs any part of the carriage pursuant to a contract with any other actual carrier (in this subsection referred to as the primary actual carrier) (and not pursuant to a contract with the contracting carrier), the amount of the freight or other consideration payable to the primary actual carrier shall be the difference between the amount actually payable to him and the amount payable by him to the secondary actual carrier.
 
 ### 11 Rights of contracting party where contracting carrier insolvent or cannot be found
-(1) Notwithstanding anything in section 10, where the contracting carrier is liable to the contracting party for the loss of or damage to any goods but the contracting carrier is insolvent or cannot with reasonable diligence be found, the contracting party shall be entitled to the same rights (if any) against the actual carrier as the contracting carrier has under section 10(3)(b).
+(1) Notwithstanding anything in section 10, where the contracting carrier is liable to the contracting party for the loss of or damage to any goods but the contracting carrier is insolvent or cannot with reasonable diligence be found, the contracting party shall be entitled to the same rights (if any) against the actual carrier as the contracting carrier has under section 10(3)﻿(b).
 (2) Where the liquidator or assignee in bankruptcy of an insolvent contracting carrier brings any proceeding against an actual carrier in respect of any right referred to in subsection (1), the sum recovered from the actual carrier, less all costs and expenses reasonably incurred by the liquidator or assignee in bringing and prosecuting the proceeding and not recovered by him from the actual carrier, shall be held by the liquidator or assignee upon the following trusts:
   (a) for or towards the payment of the whole of the sum payable by the contracting carrier to the contracting party in respect of the loss of or damage to the goods:
   (b) subject to that payment, as an asset in liquidation or bankruptcy.
@@ -165,7 +165,7 @@ Notwithstanding any of the other provisions of this Act, a carrier is not liable
   (d) saving or attempting to save life or property in peril.
 
 ### 15 Limitation of amount of carrier's liability
-(1) For the purposes of this Act,—is limited in amount in each case to the sum of $1,500 for each unit of goods lost or damaged or, in the case of a contract at declared value risk, the amount specified in the contract.
+(1) For the purposes of this Act,—is limited in amount in each case to the sum of $2,000 for each unit of goods lost or damaged or, in the case of a contract at declared value risk, the amount specified in the contract.
   (a) the liability of the contracting carrier to the contracting party; and
   (b) the separate liability of any actual carrier to the contracting carrier; and
   (c) the joint liability of any actual carriers (where there are more than 1) to the contracting carrier; and
@@ -237,7 +237,7 @@ Notwithstanding any of the other provisions of this Act, a carrier is not liable
 ### 23 Carrier's liens
 (1) In this section,—
   - **owner** , in relation to any goods, means the person whom, under any contract of carriage or in accordance with section 22, the carrier is entitled to sue for recovery of freight due in respect of the carriage of those goods
-  - **recoverable expenses** , means all expenses and charges that the carrier, in accordance with subsection (6)(b), is entitled to recover from the owner of any goods in respect of which the carrier is exercising or has exercised a lien in accordance with this section.
+  - **recoverable expenses** , means all expenses and charges that the carrier, in accordance with subsection (6)﻿(b), is entitled to recover from the owner of any goods in respect of which the carrier is exercising or has exercised a lien in accordance with this section.
 (2) As from the time when, in accordance with section 21(1), a carrier's right to sue for the recovery of freight arises, the carrier is entitled to an active and particular lien over the goods, which may be exercised in accordance with this section.
 (3) Every carrier claiming a lien over any goods under this section shall give notice of his claim to the owner of the goods, specifying the amount and particulars of his claim, and requiring the owner to pay or secure to the carrier the amount of the freight claimed and all recoverable expenses.
 (4) Pending settlement of the claim,—
