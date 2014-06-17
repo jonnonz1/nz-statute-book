@@ -1,5 +1,5 @@
 # Unsolicited Goods and Services Act 1975
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-06-17_
 
 > An Act to provide greater protection for the recipients of unsolicited goods or of invoices in respect of unordered goods or services
 
