@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-06-17_
 
 > Title
 
@@ -561,6 +561,9 @@ In this Part, unless the context otherwise requires,—
   (b) the regulated scheme provided for in regulations made under clause 18 of Schedule 4 of that Act.
 (4) The procedures for making complaints to the dispute resolution scheme are as set out in the rules of the dispute resolution scheme.
 
+### 43EAA Indemnity disputes
+The dispute resolution scheme may resolve disputes between members of the dispute resolution scheme concerning the application of the indemnity in section 46A of the Consumer Guarantees Act 1993 (an indemnity dispute).
+
 ### 43EA Membership of dispute resolution scheme
 (1) Every gas distributor and every gas retailer must be a member of the dispute resolution scheme, unless exempt under subsection (3).
 (2) A person commits an offence and is liable on conviction to a fine not exceeding $100,000 if the person knowingly refuses or fails to become a member of the dispute resolution scheme.
@@ -569,7 +572,7 @@ In this Part, unless the context otherwise requires,—
   (b) the Minister of Consumer Affairs exempts the person by issuing an individual exemption notice in the Gazette that—
     (i) identifies the person that is exempt from the obligation to be a member; and
     (ii) gives reasons for the exemption.
-(4) The Minister of Consumer Affairs may grant an individual exemption to a person only if he or she is satisfied that membership of the dispute resolution scheme by the person is not necessary in order to meet the purpose of the dispute resolution scheme because complaints are unlikely to be made against the person or because complaints should be made in another forum.
+(4) The Minister of Consumer Affairs may grant an individual exemption to a person only if he or she is satisfied that membership of the dispute resolution scheme by the person is not necessary in order to meet the purpose of the dispute resolution scheme because complaints are unlikely to be made against the person or because complaints should be made in another forum, and the person is unlikely to be involved in indemnity disputes.
 (5) The Minister of Consumer Affairs may amend or revoke an individual exemption, by issuing a notice in the Gazette that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Minister—
   (a) has given notice of the proposed amendment or revocation to the exempt person (where possible) and given the person a reasonable opportunity to comment on the proposal; and
   (b) is satisfied that the amendment or revocation is necessary or desirable in order to meet the purpose of the dispute resolution scheme.
@@ -578,9 +581,10 @@ In this Part, unless the context otherwise requires,—
 
 ### 43EB Compliance with rules and binding settlements
 (1) Members of the dispute resolution scheme must comply with the rules of the scheme.
-(2) On the application of the person responsible for the dispute resolution scheme, the District Court may require a member of the scheme to do either or both of the following:
+(2) On the application of the person responsible for the dispute resolution scheme, the District Court may require a member of the scheme to do any of the following:
   (a) comply with the rules of the scheme:
-  (b) comply with a binding settlement determined by the scheme in response to a complaint.
+  (b) comply with a binding settlement determined by the scheme in response to a complaint:
+  (c) comply with a binding settlement determined by the scheme in an indemnity dispute.
 (3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court’s order under subsection (2)(b) may modify the terms of the binding settlement, provided that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
 (4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
 (5) A reference in this section to a member includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
@@ -618,7 +622,7 @@ In this Part, unless the context otherwise requires,—
   (f) providing for terms and conditions of access to gas meters by gas retailers:
   (g) providing for information on customer accounts:
   (h) providing for minimum terms and conditions in contracts between domestic consumers and gas distributors or gas retailers:
-  (i) providing procedures for resolving disputes between industry participants:
+  (i) providing procedures for resolving disputes between industry participants, other than indemnity disputes (as defined in section 43EAA):
   (j) providing for the operation and facilitation of those dispute resolution procedures by a person, and the powers and procedures of that person:
   (k) providing for compliance with gas governance regulations and rules to be monitored and enforced by the industry body or the Commission or any other person or court, and the powers and procedures of that person or court:
   (l) providing for processes for settling particular issues within the gas industry that may result in recommendations for gas governance regulations or rules, and requiring compliance by industry participants, the industry body, and the Commission with those processes, including compliance with requirements to produce documents as part of those processes.
