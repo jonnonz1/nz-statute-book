@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-06-17_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -12,13 +12,13 @@ _Consolidation as at 2014-04-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **accounting period** , in relation to a company, means a year ending on a balance date of the company and, if as a result of the date of the registration of the company or a change of the balance date of the company, the period ending on that date is longer or shorter than a year, that longer or shorter period is an accounting period
-  - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
-  - **applicable financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **address for service** in relation to a company, means the company's address for service adopted in accordance with section 192
   - **annual meeting** means a meeting required to be held by section 120
   - **annual report** —
     (a) means a report prepared under section 208; and
     (b) does not include a concise annual report
+  - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **applicable financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **balance date** , in relation to a company or an overseas company, has the same meaning as in section 41 of the Financial Reporting Act 2013
   - **board** and have the meanings set out in section 127
   - **charge** includes a right or interest in relation to property owned by a company, by virtue of which a creditor of the company is entitled to claim payment in priority to creditors entitled to be paid under section 313; but does not include a charge under a charging order issued by a court in favour of a judgment creditor
@@ -97,8 +97,8 @@ _Consolidation as at 2014-04-01_
   (b) the last day of that period falls on the day of the anniversary of the province in which that office is situated,—
 (3) In this Act, a company is related to another company if—and related company has a corresponding meaning.
   (a) the other company is its holding company or subsidiary; or
-  (b) more than half of the issued shares of the company, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, is held by the other company and companies related to that other company (whether directly or indirectly, but other than in a fiduciary capacity); or
-  (c) more than half of the issued shares, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, of each of them is held by members of the other (whether directly or indirectly, but other than in a fiduciary capacity); or
+  (b) more than half of the issued shares of the company, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, are held by the other company and companies related to that other company (whether directly or indirectly, but other than in a fiduciary capacity); or
+  (c) more than half of the issued shares, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, of each of them are held by members of the other (whether directly or indirectly, but other than in a fiduciary capacity); or
   (d) the businesses of the companies have been so carried on that the separate business of each company, or a substantial part of it, is not readily identifiable; or
   (e) there is another company to which both companies are related;—
 (4)
@@ -752,7 +752,7 @@ For the purposes of this Act, a share is redeemable if—
 (2) A company must not exercise an option to redeem shares unless, before the exercise of the option, the board of the company has resolved—
   (a) that the redemption of the shares is in the best interests of the company; and
   (b) the consideration for the redemption of the shares is fair and reasonable to the company.
-(3) The resolution must set out in full the grounds for the director's conclusions.
+(3) The resolution must set out in full the grounds for the directors’ conclusions.
 (4) The directors who vote in favour of a resolution required by subsection (2) must sign a certificate as to the matters set out in that subsection and may combine it with the certificate required by section 70 and any certificate required by section 71.
 (5) A company must not exercise an option to redeem shares under subsection (1) if, after the passing of a resolution under that subsection and before the exercise of the option to redeem the shares, the board ceases to be satisfied that—
   (a) the redemption of the shares is in the best interests of the company; or
@@ -1907,7 +1907,7 @@ Where a shareholder of a company brings proceedings against the company or a dir
 (6) The court may, on the application of a person who has made a request for information, if it is satisfied that—as the case may be, make an order requiring the company to supply the information within such time or on payment of such charge as the court thinks fit.
   (a) the period specified for providing the information is unreasonable; or
   (b) the charge set by the company is unreasonable,—
-(7) The court may, on the application of a person who has made a request for information, if it is satisfied that—the court may make an order requiring the company to supply the information.
+(7) The court may, on the application of a person who has made a request for information, if it is satisfied that—make an order requiring the company to supply the information.
   (a) the company does not have sufficient reason to refuse to supply the information; or
   (b) the company has sufficient reason to refuse to supply the information but that other reasons exist that outweigh the refusal,—
 (8) Where the court makes an order under subsection (7), it may specify the use that may be made of the information and the persons to whom it may be disclosed.
@@ -2541,7 +2541,7 @@ Subject to the constitution of a company, the failure to send an annual report, 
   (a) a company need not make an annual return in the calendar year of its registration:
   (b) a subsidiary may, with the written approval of the Registrar, make an annual return during the month allocated to its holding company instead of during the month allocated to it.
 (7) For the purposes of this section, prescribed means prescribed by regulations made under this Act or by the Registrar by notice in the Gazette and different forms of annual return may be prescribed in respect of different classes of companies.
-(8) The Registrar may, on the application of any person, approve the use, by such company or companies as the Registrar may specify, of a form of annual return different from that prescribed, and may at any time, revoke, in whole or in part, any such approval.
+(8) The Registrar may, on the application of any person, approve the use, by such company or companies as the Registrar may specify, of a form of annual return different from that prescribed, and may at any time revoke, in whole or in part, any such approval.
 (9) An annual return in a form approved under subsection (8) must contain all the prescribed information.
 (10) If the board of a company fails to comply with subsection (1) or subsection (2), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
 
@@ -4038,7 +4038,7 @@ If a licensed insurer may be put into liquidation under or in accordance with th
 (1) If—
   (a) a liquidator is appointed under section 241(2)(a), the shareholders must record in the special resolution appointing the liquidator the date on which, and the time at which, the special resolution was passed; or
   (b) a liquidator is appointed under section 241(2)(b), the board of the company must record in the instrument appointing the liquidator the date on which, and the time at which, the liquidator was appointed; or
-  (c) a liquidator is appointed under section 241(2)(c), the court must record in the order appointing the liquidator the date on which, and the time at which, the order was made.
+  (c) a liquidator is appointed under section 241(2)(c), the court must record in the order appointing the liquidator the date on which, and the time at which, the order was made; or
   (d) a liquidator is appointed under section 241(2)(d), the creditors must record in the resolution appointing the liquidator the date on which, and the time at which, the resolution was passed.
 (2) If any question arises as to whether on the date on which a liquidator was appointed an act was done or a transaction was entered into or effected before or after the time at which the liquidator was appointed, that act or transaction is, in the absence of proof to the contrary, deemed to have been done or entered into or effected, as the case may be, after that time.
 
@@ -4175,7 +4175,7 @@ The liquidation of a company is completed when the liquidator—as the case may 
 ### 251 Restriction on rights of creditors to complete execution, distraint, or attachment
 (1) Subject to subsection (3), a creditor is not entitled to retain the benefit of any execution process, distress, or attachment over or against the property of a company unless the execution process, distress, or attachment is completed before—
   (a) the passing of a special resolution under section 241(2)(a) or a resolution under section 241(2)(d) appointing a liquidator of the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
-  (b) the passing of a resolution by the board of a company under section 241(2)(b) appointing a liquidator or the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
+  (b) the passing of a resolution by the board of a company under section 241(2)(b) appointing a liquidator of the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
   (c) the making of an application to the court under section 241(2)(c) to appoint a liquidator of the company.
 (2) Notwithstanding subsection (1),—
   (a) a person who, in good faith, purchases property of a company from an officer charged with an execution process acquires a good title as against the liquidator of the company:
@@ -4332,7 +4332,7 @@ Every document entered into, made, or issued by a liquidator of a company on beh
   (a) to attend on the liquidator at such reasonable time or times and at such place as may be specified in the notice:
   (b) to provide the liquidator with such information about the business, accounts, or affairs of the company as the liquidator requests:
   (c) to be examined on oath or affirmation by the liquidator or by a barrister or solicitor acting on behalf of the liquidator on any matter relating to the business, accounts, or affairs of the company:
-  (d) assist in the liquidation to the best of the person's ability.
+  (d) to assist in the liquidation to the best of the person's ability.
 (3A) Without limiting subsection (3)(a), a person may be required to attend on the liquidator under that subsection at a meeting of creditors of the company.
 (4) Without limiting subsection (5), the liquidator may pay to a person referred to in paragraph (d) or paragraph (e) or paragraph (f) of subsection (2), not being an employee of the company, reasonable travelling and other expenses in complying with a requirement of the liquidator under subsection (3).
 (5) The court may, on the application of the liquidator or a person referred to in paragraph (d) or paragraph (e) or paragraph (f) of subsection (2), not being an employee of the company, order that that person is entitled to receive reasonable remuneration and travelling and other expenses in complying with a requirement of the liquidator under subsection (3).
@@ -6213,7 +6213,7 @@ A meeting of shareholders may be held by a quorum of the shareholders—
 (4) At a meeting of shareholders a poll may be demanded by—
   (a) not less than 5 shareholders having the right to vote at the meeting; or
   (b) a shareholder or shareholders representing not less than 10% of the total voting rights of all shareholders having the right to vote at the meeting; or
-  (c) by a shareholder or shareholders holding shares in the company that confer a right to vote at the meeting and on which the aggregate amount paid up is not less than 10% of the total amount paid up on all shares that confer that right; or
+  (c) a shareholder or shareholders holding shares in the company that confer a right to vote at the meeting and on which the aggregate amount paid up is not less than 10% of the total amount paid up on all shares that confer that right; or
   (d) the chairperson of the meeting.
 (5) A poll may be demanded either before or after the vote is taken on a resolution.
 (6) If a poll is taken, votes must be counted according to the votes attached to the shares of each shareholder present in person or by proxy and voting.
@@ -6430,15 +6430,15 @@ Except as provided in this schedule and in any regulations made under this Act, 
   (f) amounts that are preferential claims under section 263(2):
   (g) all amounts payable to the Commissioner of Inland Revenue in accordance with section 167(2) of the Tax Administration Act 1994 as applied by section 67 of the KiwiSaver Act 2006:
   (h) all sums that, by any other enactment, are required to be paid in accordance with the priority established by this subclause.
-(3) After paying the claims referred to in subclause (2), the liquidator must next pay all sums, for which a buyer is a creditor in the liquidation of the company under section 11 of the Layby Sales Act 1971,—
+(3) After paying the claims referred to in subclause (2), the liquidator must next pay all sums, for which a buyer is a creditor in the liquidation of the company under section 36J of the Fair Trading Act 1986,—
   (a) paid by the buyer to a seller on account of the purchase price of goods; or
-  (b) to which the buyer is or becomes entitled to receive from a seller under section 9 of the Layby Sales Act 1971.
+  (b) to which the buyer is or becomes entitled to receive from a seller under section 36H of the Fair Trading Act 1986.
 (4) After paying the claims referred to in subclause (3), the liquidator must next pay the amount of any costs referred to in section 234(c).
 (5) After paying the claims referred to in subclause (4), the liquidator must next pay, to the extent that it remains unpaid to the Commissioner of Inland Revenue or to the Collector of Customs, as the case may require, the amount of—
   (a) tax payable by the company in the manner required by Part 3 of the Goods and Services Tax Act 1985; and
-  (b) tax deductions made by the company under the PAYE rules of the Income Tax Act 2004; and
-  (c) non-resident withholding tax deducted by the company under the NRWT rules of the Income Tax Act 2004; and
-  (d) resident withholding tax deducted by the company under the RWT rules of the Income Tax Act 2004; and
+  (b) tax deductions made by the company under the PAYE rules of the Income Tax Act 2007; and
+  (c) non-resident withholding tax deducted by the company under the NRWT rules of the Income Tax Act 2007; and
+  (d) resident withholding tax deducted by the company under the RWT rules of the Income Tax Act 2007; and
   (e) duty payable within the meaning of section 2(1) of the Customs and Excise Act 1996.
 
 ### 2 Conditions to priority of payments to preferential creditors
@@ -6559,32 +6559,9 @@ This Act is the Companies Amendment Act (No 2) 2006.
 ### 3 Principal Act amended
 This Act amends the Companies Act 1993.
 
-### 4 Interpretation
-(1) Amendment(s) incorporated in the Act(s).
-(2) Subsection (1) applies in respect of—
-  (a) accounting periods that have not ended at the commencement of that subsection; and
-  (b) accounting periods that commence after the commencement of that subsection.
-(3) Amendment(s) incorporated in the Act(s).
-
 ### 5 Qualifications of directors
 (1) Amendment(s) incorporated in the Act(s).
 (2) If, immediately before the commencement of this section, a person is a director of a company and is subject to an order or notice of a kind referred to in section 151(2)(eb) of the principal Act (as inserted by this section), the person is not disqualified from being a director of that company under that paragraph by reason of that order or notice.
-
-### 1 Title
-This Act is the Companies (Minority Buy-out Rights) Amendment Act 2008.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-## Part 1 — Amendments to Companies Act 1993
-
-### 3 Principal Act amended
-This Part amends the Companies Act 1993.
-
-## Part 2 — Transitional provision and consequential amendments to other enactments
-
-### 11 Application of amendments in Part 1
-The amendments in Part 1 do not apply to any special resolution passed under section 106(1) of the Companies Act 1993 before this Act comes into force.
 
 ### 1 Title
 This Act is the Financial Reporting (Amendments to Other Enactments) Act 2013.
