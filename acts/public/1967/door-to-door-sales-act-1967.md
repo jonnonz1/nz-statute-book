@@ -1,5 +1,5 @@
 # Door to Door Sales Act 1967
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-06-17_
 
 > An Act to regulate agreements for the sale of goods and the provision of services on credit, hire purchase agreements, and agreements for the hire of goods, entered into at places other than appropriate trade premises
 
