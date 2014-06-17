@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-06-17_
 
 > Title
 
@@ -45,7 +45,7 @@ _Consolidation as at 2014-04-01_
     (e) section 159 or section 159A of the Biosecurity Act 1993; or
     (f) section 66 of the Dog Control Act 1996; or
     (fa) section 165B of the Electricity Act 1992; or
-    (fb)
+    (fb) section 40D of the Fair Trading Act 1986; or
     (g) section 139 of the Land Transport Act 1998; or
     (h) section 260A of the Fisheries Act 1996; or
     (i) section 162 of the Animal Welfare Act 1999; or
@@ -2561,11 +2561,6 @@ The purpose of this Act is to facilitate the monitoring of compliance with the l
 ### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
 
 **Transitional provisions**
-
-### 348 Transitional provision in relation to sections 198 to 200 of Summary Proceedings Act 1957
-(1) Despite their repeal by section 337, sections 198 to 200 of the Summary Proceedings Act 1957 remain in force for the purposes of any enactment that incorporates or refers to any of those provisions.
-(2) Subsection (1) does not limit the application of the Interpretation Act 1999.
-(3) This section expires on the close of 30 June 2014.
 
 ### 349 Transitional provision relating to sections 200A to 200P of Summary Proceedings Act 1957
 (1) Despite the repeal of sections 200A to 200P of the Summary Proceedings Act 1957 by this Act,—
