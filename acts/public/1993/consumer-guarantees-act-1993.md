@@ -1,5 +1,5 @@
 # Consumer Guarantees Act 1993
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-06-17_
 
 > Title
 
@@ -46,9 +46,12 @@ _Consolidation as at 2013-12-18_
       (ii) ships, aircraft, and vehicles:
       (iii) animals, including fish:
       (iv) minerals, trees, and crops, whether on, under, or attached to land or not:
-      (v) electricity and gas:
+      (v) non-reticulated gas:
       (vi) to avoid doubt, water and computer software; but
     (c) despite paragraph (b)(i), does not include a whole building, or part of a whole building, attached to land unless the building is a structure that is easily removable and is not designed for residential accommodation
+  - **line function services** has,—
+    (a) in relation to gas, the meaning set out in section 2(1) of the Gas Act 1992; and
+    (b) in relation to electricity, the meaning set out in section 2(1) of the Electricity Act 1992
   - **manufacturer** means a person that carries on the business of assembling, producing, or processing goods, and includes—
     (a) any person that holds itself out to the public as the manufacturer of the goods:
     (b) any person that attaches its brand or mark or causes or permits its brand or mark to be attached, to the goods:
@@ -66,7 +69,8 @@ _Consolidation as at 2013-12-18_
       (iii) a contract of insurance, including life assurance and life reassurance:
       (iv) a contract between a bank and a customer of the bank:
       (v) a contract for, or in relation to, the lending of money or granting of credit, or the making of arrangements for the lending of money or granting of credit, or the buying or discounting of a credit instrument, or the acceptance of deposits:
-      (vi) a contract for, or in relation to, the supply of electricity, gas, telecommunications, or water, or the removal of waste water; but
+      (vi) a contract for, or in relation to, the supply of telecommunications or water, or the removal of waste water:
+      (vii) a contract relating to (but not for) the supply of gas or electricity, other than line function services; but
     (c) does not include—
       (i) any rights, benefits, privileges, or facilities that are, or are to be, provided, granted, or conferred by a supplier by simply paying or crediting any money to the consumer without the performance of any other task (other than one that is merely incidental to the making of the payment or credit); and
       (ii) rights or benefits in the form of the supply of goods or the performance of work under a contract of service
@@ -82,11 +86,8 @@ _Consolidation as at 2013-12-18_
       (i) where the rights of the supplier have been transferred by assignment or by operation of law, the person for the time being entitled to those rights:
       (ii) a creditor within the meaning of the Credit Contracts and Consumer Finance Act 2003 who has lent money on the security of goods supplied to a consumer, if the whole or part of the price of the goods is to be paid out of the proceeds of the loan and if the loan was arranged by a person who, in trade, supplied the goods:
       (iii) a person who, in trade, assigns or procures the assignment of goods to a creditor within the meaning of the Credit Contracts and Consumer Finance Act 2003 to enable the creditor to supply those goods, or goods of that kind, to the consumer:
-      (iv) a person who, in trade, is acting as an agent for another, whether or not that other is supplying in trade; and
-    (c) for the avoidance of doubt in the following circumstances, means only,—
-      (i) in the case of a supply of electricity as a good, the retailer of the electricity with whom the consumer has a contract; and
-      (ii) in the case of a supply of electricity line function services, the distributor who owns or operates the line that is connected to the consumer's premises; and
-      (iii) in the case of other services relating to electricity, the person who provides that service to the consumer
+      (iv) a person (other than an auctioneer) who, in trade, is acting as an agent for another, whether or not that other is supplying in trade
+    (c)
   - **supply** ,—
     (a) in relation to goods, means supply (or resupply) by way of gift, sale, exchange, lease, hire, or hire purchase; and
     (b) in relation to services, means provide, grant, or confer
@@ -94,6 +95,7 @@ _Consolidation as at 2013-12-18_
 (2) In any case where it is necessary under this Act to determine the time at which a guarantee in this Act commences to apply,—
   (a) goods shall be treated as supplied at the time when the consumer acquires the right to possess the goods:
   (b) services shall be treated as supplied at the time when they are provided, granted, or conferred.
+(3) However, despite subsection (2), a guarantee under section 6 applies to the goods delivered to the consumer on and from the time at which the consumer receives the goods.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -119,6 +121,16 @@ This Act shall bind the Crown.
 (5) Where the goods are only hired or leased, the guarantee set out in subsection (1)(c) shall confer a right to undisturbed possession of the goods only for the period of the hire or lease.
 (6) Part 2 gives the consumer a right of redress against the supplier where the goods fail to comply with any guarantee in this section.
 
+### 5A Guarantee as to delivery
+(1) Where a supplier is responsible for delivering, or for arranging for the delivery of, goods to a consumer there is a guarantee that the goods will be received by the consumer—
+  (a) at a time, or within a period, agreed between the supplier and the consumer; or
+  (b) if no time or period has been agreed, within a reasonable time.
+(2) Where the delivery of the goods fails to comply with the guarantee under this section, Part 2 gives the consumer a right of redress against the supplier and, in that case, the consumer may,—
+  (a) if the failure is of a substantial character, reject the goods under section 18(3); and
+  (b) in any case, obtain damages under section 18(4) (other than damages relating to the remedies set out in section 18(2)), whether or not the consumer also rejects the goods.
+(3) For the purposes of this section, the reference in section 20(1)(b) to an agent of the supplier must be treated as including any carrier or other person who undertakes to deliver the goods on behalf of the supplier.
+(4) A consumer’s rights of redress under Part 2 in relation to the guarantee under this section are limited to those specified in subsection (2).
+
 ### 6 Guarantee as to acceptable quality
 (1) Subject to section 41, where goods are supplied to a consumer there is a guarantee that the goods are of acceptable quality.
 (2) Where the goods fail to comply with the guarantee in this section,—
@@ -135,6 +147,7 @@ This Act shall bind the Crown.
   (f) the nature of the goods:
   (g) the price (where relevant):
   (h) any statements made about the goods on any packaging or label on the goods:
+  (ha) the nature of the supplier and the context in which the supplier supplies the goods:
   (i) any representation made about the goods by the supplier or the manufacturer:
   (j) all other relevant circumstances of the supply of the goods.
 (2) Where any defects in goods have been specifically drawn to the consumer's attention before he or she agreed to the supply, then notwithstanding that a reasonable consumer may not have regarded the goods as acceptable with those defects, the goods will not fail to comply with the guarantee as to acceptable quality by reason only of those defects.
@@ -143,6 +156,33 @@ This Act shall bind the Crown.
   (a) the goods have been used in a manner, or to an extent which is inconsistent with the manner or extent of use that a reasonable consumer would expect to obtain from the goods; and
   (b) the goods would have complied with the guarantee of acceptable quality if they had not been used in that manner or to that extent.
 (5) A reference in subsections (2) and (3) to a defect means any failure of the goods to comply with the guarantee of acceptable quality.
+
+### 7A Guarantee of acceptable quality in supply of gas and electricity
+(1) There is a guarantee that the supply of gas by a gas retailer, and the supply of electricity by an electricity retailer, to a consumer is of an acceptable quality.
+(2) The guarantee of acceptable quality is a guarantee that—
+  (a) the supply of gas or electricity is as safe as a reasonable consumer would expect it to be; and
+  (b) the supply of gas or electricity to a place is as reliable as a reasonable consumer would expect a supply to that place to be; and
+  (c) the quality of the gas or electricity supplied is such that it can be consistently used for the things that a reasonable consumer would expect to use gas or electricity for.
+(3) When determining what a reasonable consumer would expect, it is assumed that the consumer has considered—
+  (a) that the supply of gas or electricity may be affected by emergencies, or other events or circumstances, outside the control of the retailer or any other person involved in the supply of gas or electricity; and
+  (b) that the supply of gas or electricity may be interrupted for safety, maintenance, or other technical reasons; and
+  (c) that the quality of gas or electricity supplied may fluctuate, but that fluctuations are acceptable only within tolerances permitted by gas and electricity safety regulations; and
+  (d) that the reliability and quality of the supply of gas or electricity may vary depending on the location of the place to which the gas or electricity is supplied; and
+  (e) that reliability and quality of supply may be related to price.
+(4) The supply of gas or electricity will not fail to comply with the guarantee of acceptable quality—
+  (a) if the gas or electricity has been used by the consumer in an unreasonable manner or to an unreasonable extent, and the supply of gas or electricity would have complied with the guarantee of acceptable quality if it had not been used in that manner or to that extent; or
+  (b) if, in a case where the quality and reliability of supply by a gas or electricity retailer to a particular consumer is likely to be significantly worse than the quality and reliability of supply that generally applies to gas or electricity supplied by the retailer,—
+    (i) the retailer or the person supplying line function services has specifically explained to the consumer the ways in which the supply is likely to be significantly worse; and
+    (ii) the consumer has accepted the supply on that basis, even if an otherwise reasonable consumer may not regard that supply as acceptable.
+(5) In this section and section 7B,—
+  - **electricity retailer** means a retailer as defined in the Electricity Industry Act 2010
+  - **gas retailer** means a gas retailer as defined in the Gas Act 1992.
+
+### 7B Relationship of section 7A with rest of Act
+(1) For the purposes of this Act, except as described in this section, gas (other than non-reticulated gas) and electricity are not to be treated as being goods, and the supply of gas or electricity by retailers is not to be treated as the supply of a service.
+(2) If the supply of gas or electricity fails to comply with the guarantee of acceptable quality in section 7A, in order that Part 2 may apply to give consumers a right of redress against gas retailers and electricity retailers, that Part must be applied as if gas and electricity were goods, and as if gas retailers and electricity retailers were the suppliers of those goods.
+(3) For the purpose of applying the provisions of Part 5 to the supply of gas and electricity to consumers, that Part must be applied as if gas and electricity were goods, and as if gas retailers and electricity retailers were the suppliers of those goods.
+(4) To avoid doubt, the guarantee provided by section 7A is the only guarantee provided under this Act that relates to the supply of gas (other than non-reticulated gas) or electricity by gas retailers and electricity retailers.
 
 ### 8 Guarantees as to fitness for particular purpose
 (1) Subject to section 41, the following guarantees apply where goods are supplied to a consumer:
@@ -451,9 +491,7 @@ Nothing in this Part limits or affects—
 ### 41 Exceptions
 (1) Nothing in this Act shall apply in any case where goods or services are supplied otherwise than in trade.
 (2) Nothing in this Act shall give any person a right of redress against a charitable organisation in any case where goods or services are supplied by the charitable organisation for the principal purpose of benefiting the person to whom the supply is made.
-(3) Nothing in this Act shall apply in cases where goods are supplied—
-  (a) by auction; or
-  (b) by competitive tender.
+(3)
 
 ### 42 Exception in respect of repairs and parts
 (1) Section 12 does not apply where reasonable action is taken to notify the consumer who first acquires the goods from a supplier in New Zealand, at or before the time the goods are supplied, that the manufacturer does not undertake that repair facilities and parts will be available for those goods.
@@ -461,9 +499,20 @@ Nothing in this Part limits or affects—
 
 ### 43 No contracting out except for business transactions
 (1) Subject to this section and to sections 40, 41, and 43A, the provisions of this Act shall have effect notwithstanding any provision to the contrary in any agreement.
-(2) Nothing in subsection (1) shall apply to an agreement made between a supplier and a consumer who acquires, or holds himself or herself out as acquiring, under the agreement, goods or services for the purposes of a business provided either—
-  (a) that the agreement is in writing; or
-  (b) where it is not possible to conclude an agreement in writing because the supplier is unaware of the acceptance by the consumer of the supplier's offer at the time of acceptance, that the supplier has clearly displayed the terms and conditions of the service at every place of the supplier's business.
+(2) However, despite subsection (1), parties to an agreement may include a provision in their agreement to the effect that the provisions of this Act will not apply to that agreement, provided that—
+  (a) the agreement is in writing; and
+  (b) the goods or services are, or (in connection only with the guarantee of acceptable quality in section 7A) the gas or electricity is, supplied and acquired in trade; and
+  (c) all parties to the agreement—
+    (i) are in trade; and
+    (ii) agree to contract out of the provisions of this Act; and
+  (d) it is fair and reasonable that the parties are bound by the provision in the agreement.
+(2A) If, in any case, a court is required to decide what is fair and reasonable for the purposes of subsection (2)(d), the court must take account of all the circumstances of the agreement, including—
+  (a) the subject matter of the agreement; and
+  (b) the value of the goods, services, gas, or electricity (as relevant); and
+  (c) the respective bargaining power of the parties, including—
+    (i) the extent to which a party was able to negotiate the terms of the agreement; and
+    (ii) whether a party was required to either accept or reject the agreement on the terms and conditions presented by another party; and
+  (d) whether all or any of the parties received advice from, or were represented by, a lawyer, either at the time of the negotiations leading to the agreement or at any other relevant time.
 (3) Section 56 of the Sale of Goods Act 1908 shall be read subject to the provisions of this section.
 (4) Every supplier and every manufacturer commits an offence against section 13(i) of the Fair Trading Act 1986 who purports to contract out of any provision of this Act other than in accordance with subsection (2) or section 43A.
 (5) Where an agreement of the kind described in subsection (2) excludes any provision of this Act, the benefit of the exclusion shall be deemed to be conferred on any manufacturer of the goods supplied under the agreement, as well as on the supplier of those goods.
@@ -492,6 +541,29 @@ The damages that a consumer may recover for a failure of goods supplied under a 
 (2) The liability under this Act of a creditor who has lent money on the security of goods supplied to a consumer shall not exceed the amount owing by the consumer at the date of the loan.
 (3) Where the assignee referred to in subsection (1), or the creditor referred to in subsection (2), suffers any losses because of a liability to the consumer under this Act, the assignee or creditor shall, subject to any agreement with the supplier, be entitled to be indemnified by the supplier against those losses.
 (4) No assignment of the rights under a contract of supply shall affect the exercise of any right or remedy given by this Act against the supplier.
+
+### 46A Indemnification of gas and electricity retailers
+(1) This section applies if—
+  (a) there has been a failure of the acceptable quality guarantee in section 7A in the supply of gas or electricity to a consumer by a retailer, as determined—
+    (i) by the retailer; or
+    (ii) if the retailer does not make a determination or if the retailer's determination is challenged, by the dispute resolution scheme following a complaint made under section 43EA of the Gas Act 1992 or under section 95 of the Electricity Industry Act 2010 (as the case requires); or
+    (iii) by a court or a Disputes Tribunal (if a court or a Disputes Tribunal makes a determination on the issue); and
+  (b) the failure of acceptable quality was wholly or partly the result of an event, circumstance, or condition associated with—
+    (i) a gas pipeline or other equipment that was, at the time of the failure, the responsibility of a person then supplying line function services (a responsible party); or
+    (ii) electricity lines or other equipment that was, at the time of the failure, the responsibility of a person (including Transpower (as defined in the Electricity Industry Act 2010)) then supplying line function services (a responsible party); and
+  (c) the failure was not a result of a person involved in the supply complying with a rule or order with which it was legally obliged to comply; and
+  (d) the failure was not a result of action taken by Transpower in its capacity as system operator under the Electricity Industry Act 2010; and
+  (e) the consumer obtains a remedy under Part 2 in relation to the failure against the gas or electricity retailer; and
+  (f) that remedy is a cost to the retailer (a remedy cost).
+(2) If this section applies, a retailer that has incurred remedy costs is entitled to be indemnified for those costs by the responsible party or responsible parties.
+(3) The amount of a responsible party's liability under the indemnity is limited to the proportion of the remedy costs that is attributable to the events, circumstances, or conditions associated with the gas pipelines, electricity lines, or other equipment that the responsible party was responsible for at the time of the failure.
+(4) However,—
+  (a) if a responsible party pays compensation to a consumer (payment A) in respect of a service provided directly by the responsible party to the consumer; and
+  (b) if the retailer incurs remedy costs in relation to that consumer for a failure of acceptable quality that arose from the same event, circumstance, or condition that led to the payment of payment A; then
+  (c) the amount that the retailer would otherwise recover from the responsible party in respect of that consumer must be reduced by the amount of payment A.
+(5) Disputes between gas or electricity retailers and responsible parties relating to the existence or allocation of liability under the indemnity may be dealt with by the dispute resolution scheme referred to,—
+  (a) in the case of gas, in section 43E of the Gas Act 1992; and
+  (b) in the case of electricity, in section 95 of the Electricity Industry Act 2010.
 
 ### 47 Jurisdiction
 (1) Any court of competent jurisdiction, and any Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 and having jurisdiction under this section, may hear and determine any claim for costs, damages, or for a refund payable under this Act and may make an order under section 23A or 39.
