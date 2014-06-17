@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2014-06-17_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -330,7 +330,7 @@ The functions of the Registrar are to—
 ### 37 Persons prohibited from being licensed
 (1) The following persons are not eligible to hold a licence:
   (a) a person who has been convicted, whether in New Zealand or another country, of a crime involving dishonesty (or of a crime that, if committed in New Zealand, would be a crime involving dishonesty) within the 10 years preceding the application for a licence:
-  (b) a person who has been convicted of an offence under sections 14, 17 to 22, or 24 of the Fair Trading Act 1986, within the 5 years preceding the application for a licence:
+  (b) a person who has been convicted of an offence under sections 12A, 14, 17 to 22, or 24 of the Fair Trading Act 1986, within the 5 years preceding the application for a licence:
   (c) a person whose licence or certificate of approval has been cancelled within the preceding 5 years or whose licence is suspended at the time of application under the Real Estate Agents Act 1976:
   (d) a person—
     (i) whose licence has, within the preceding 5 years, been cancelled under section 54(c) to (h); or
