@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-06-17_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -930,6 +930,9 @@ Any question under this Part or Schedule 2 or 3 is to be determined according to
   (b) the regulated scheme provided for in regulations made under clause 18 of Schedule 4.
 (4) The procedures for making complaints to the dispute resolution scheme are as set out in the rules of the dispute resolution scheme.
 
+### 95A Indemnity disputes
+The dispute resolution scheme may resolve disputes between members of the dispute resolution scheme concerning the application of the indemnity in section 46A of the Consumer Guarantees Act 1993 (an indemnity dispute).
+
 ### 96 Membership of dispute resolution scheme
 (1) Transpower (other than in its capacity as system operator), and every distributor and retailer, must be a member of the dispute resolution scheme, unless exempt under subsection (3).
 (2) A person commits an offence and is liable on conviction to a fine not exceeding $100,000 if the person knowingly refuses or fails to become a member of the dispute resolution scheme.
@@ -938,7 +941,7 @@ Any question under this Part or Schedule 2 or 3 is to be determined according to
   (b) the Minister of Consumer Affairs exempts the person by issuing an individual exemption notice in the Gazette that—
     (i) identifies the person that is exempt from the obligation to be a member; and
     (ii) gives reasons for the exemption.
-(4) The Minister of Consumer Affairs may grant an individual exemption to a person only if he or she is satisfied that membership of the dispute resolution scheme by the person is not necessary in order to meet the purpose of the dispute resolution scheme because complaints are unlikely to be made against the person or because complaints should be made in another forum.
+(4) The Minister of Consumer Affairs may grant an individual exemption to a person only if he or she is satisfied that membership of the dispute resolution scheme by the person is not necessary in order to meet the purpose of the dispute resolution scheme because complaints are unlikely to be made against the person or because complaints should be made in another forum, and the person is unlikely to be involved in indemnity disputes.
 (5) The Minister of Consumer Affairs may amend or revoke an individual exemption, by issuing a notice in the Gazette that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Minister—
   (a) has given notice of the proposed amendment or revocation to the exempt person (where possible) and given the person a reasonable opportunity to comment on the proposal; and
   (b) is satisfied that the amendment or revocation is necessary or desirable in order to meet the purpose of the dispute resolution scheme.
@@ -947,9 +950,10 @@ Any question under this Part or Schedule 2 or 3 is to be determined according to
 
 ### 97 Compliance with rules and binding settlements
 (1) Members of the dispute resolution scheme must comply with the rules of the scheme.
-(2) On the application of the person responsible for the dispute resolution scheme, a District Court may require a member of the scheme to do either or both of the following:
+(2) On the application of the person responsible for the dispute resolution scheme, a District Court may require a member of the scheme to do any of the following:
   (a) comply with the rules of the scheme:
-  (b) comply with a binding settlement determined by the scheme in response to a complaint.
+  (b) comply with a binding settlement determined by the scheme in response to a complaint:
+  (c) comply with a binding settlement determined by the scheme in an indemnity dispute.
 (3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)(b) may modify the terms of the binding settlement, but only to the extent that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
 (4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
 (5) A reference in this section to a member includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
@@ -1911,6 +1915,7 @@ The requirements of this schedule are additional to the requirements of any prov
 ### 1 Purpose of dispute resolution scheme
 The purpose of the dispute resolution scheme is to ensure that—
   (a) any person (including consumers, potential consumers, and owners and occupiers of land, but excluding members of the scheme) who has a complaint about a member has access to a scheme for resolving the complaint; and
+  (aa) members have a mechanism for resolving indemnity disputes; and
   (b) the scheme is accessible, independent, fair, accountable, efficient, and effective.
 
 ### 2 Interpretation
@@ -1919,6 +1924,7 @@ In this schedule, unless the context otherwise requires,—
   - **dispute resolution scheme** , at any time, means whichever of the following is in force under this schedule at the time:
     (a) the approved scheme:
     (b) the regulated scheme
+  - **indemnity dispute** means a dispute, referred to in section 95A of this Act and section 43EAA of the Gas Act 1992, concerning the application of the indemnity in section 46A of the Consumer Guarantees Act 1993
   - **member** , in relation to the dispute resolution scheme, means a person who is required to be a member of the dispute resolution scheme
   - **provider** , in relation to a scheme, means the person responsible for the scheme
   - **regulated scheme** means the scheme provided for in regulations made under clause 18.
@@ -1990,6 +1996,7 @@ The Minister must, as soon as practicable after deciding an application,—
   (a) the scheme is not, or is no longer, capable of meeting the purpose of the dispute resolution scheme as set out in clause 1:
   (b) there has been a loss of broad support for the scheme:
   (c) the scheme is no longer an integrated scheme for the resolution of complaints in both the electricity and gas industries:
+  (ca) the scheme is not, or is no longer, capable of resolving indemnity disputes:
   (d) there has been a failure to comply with the rules of the scheme:
   (e) the provider has not publicised the rules as required by clause 13(2):
   (f) the provider has not supplied the Minister with 1 or more of the following:
@@ -2019,7 +2026,7 @@ On the date that the withdrawal of an approved scheme’s approval takes effect,
 **Approved scheme: rules and obligations**
 
 ### 13 Rules of approved scheme
-(1) The rules of the approved scheme must provide for, or set out, the following:
+(1) The rules of the approved scheme must provide for, or set out, with respect only to its function of dealing with complaints made under section 95 of this Act or section 43E of the Gas Act 1992, the following:
   (a) that any person (including consumers, potential consumers, and owners and occupiers of land, but excluding members of the scheme) may make complaints for resolution by the scheme:
   (b) how complaints to be dealt with by the scheme may be made:
   (c) the kinds of complaints that the scheme will deal with:
@@ -2033,6 +2040,7 @@ On the date that the withdrawal of an approved scheme’s approval takes effect,
   (k) that the scheme may cease investigating and resolving a complaint if the complainant takes alternative court action against the member:
   (l) that, if a complainant accepts a resolution or has agreed to be bound by a final decision and a final decision is made, the complainant may not seek or obtain any other resolution of the complaint through any court or tribunal:
   (m) how the provider will promote knowledge about, and accessibility to, the scheme to persons entitled to make a complaint.
+(1A) The rules of the approved scheme must provide for, or set out, rules and procedures for dealing with indemnity disputes.
 (2) The responsible person of the approved scheme must publicise the rules.
 
 ### 14 List of members
