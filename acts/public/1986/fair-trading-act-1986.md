@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-06-17_
 
 > Title
 
@@ -25,6 +25,7 @@ _Consolidation as at 2014-04-01_
     (b) in relation to services, includes accept:
     (c) in relation to interests in land, includes obtain by way of gift, purchase, exchange, lease or licence and acquisition has a corresponding meaning
   - **advertisement** means any form of communication made to the public or a section of the public for the purpose of promoting the supply of goods or services or the sale or granting of an interest in land
+  - **auction** has the meaning given in section 36X
   - **business** means any undertaking—
     (a) that is carried on whether for gain or reward or not; or
     (b) in the course of which—whether free of charge or not
@@ -38,6 +39,13 @@ _Consolidation as at 2014-04-01_
       (i) resupplying them in trade; or
       (ii) consuming them in the course of a process of production or manufacture; or
       (iii) in the case of goods, repairing or treating, in trade, other goods or fixtures on land
+  - **consumer contract** means a contract,—
+    (a) in the case of a contract relating to goods or services, between—
+      (i) at least 1 supplier supplying the goods or services in trade; and
+      (ii) at least 1 consumer; and
+    (b) in the case of a contract relating to the sale or grant of an interest in land, between—
+      (i) at least 1 person disposing, in trade, of an interest in the land; and
+      (ii) at least 1 person acquiring an interest in the land for personal, domestic, or residential purposes
   - **credit instrument** means any agreement (whether in writing or not) acknowledging an obligation to pay a sum or sums of money on demand or at any future time or times
   - **document** means a document in any form whether signed or initialled or otherwise authenticated by its maker or not; and includes—
     (a) any writing on any material:
@@ -75,10 +83,20 @@ _Consolidation as at 2014-04-01_
     (b) a contract of insurance, including life assurance, and life reassurance:
     (c) a contract between a bank and a customer of the bank:
     (d) any contract for, or in relation to, the lending of money or granting of credit, or the making of arrangements for the lending of money or granting of credit, or the buying or discounting of a credit instrument, or the acceptance of deposits;—
+  - **standard form consumer contract** means a consumer contract that a court, in the course of proceedings for a declaration under section 46I, and in accordance with section 46J, determines is a standard form contract
   - **supply** —and as a noun, , and have corresponding meanings
     (a) in relation to goods, includes supply (or resupply) by way of gift, sale, exchange, lease, hire, or hire purchase; and
     (b) in relation to services, includes provide, grant, or confer;—
-  - **trade** means any trade, business, industry, profession, occupation, activity of commerce, or undertaking relating to the supply or acquisition of goods or services or to the disposition or acquisition of any interest in land.
+  - **trade** means any trade, business, industry, profession, occupation, activity of commerce, or undertaking relating to the supply or acquisition of goods or services or to the disposition or acquisition of any interest in land
+  - **transparent** , in relation to a term in a contract, means a term that—
+    (a) is expressed in reasonably plain language; and
+    (b) is legible; and
+    (c) is presented clearly; and
+    (d) is readily available to any party affected by the term
+  - **unfair contract term** means a term in a consumer contract that a court has declared, under section 46I, is an unfair contract term
+  - **uninvited direct sale agreement** has the meaning given in section 36K
+  - **unsolicited goods** has the meaning given in section 21A(7)
+  - **unsolicited services** has the meaning given in section 21B(2).
 (2) In this Act, a reference to engaging in conduct shall be read as a reference to doing or refusing to do an act, and includes,—
   (a) omitting to do an act; or
   (b) making it known that an act will or, as the case may be, will not be done.
@@ -108,6 +126,41 @@ _Consolidation as at 2014-04-01_
 
 ### 5B Act does not apply to certain conduct regulated by Takeovers Code
 Nothing in this Act applies to conduct in relation to any transaction or event regulated by the Takeovers Code that is in force under the Takeovers Act 1993 or incidental or preliminary to a transaction or event that is or is likely to be regulated by that code.
+
+### 5C No contracting out: general rule
+(1) The provisions of this Act have effect despite anything to the contrary in any agreement.
+(2) A provision of an agreement that has the effect of overriding a provision of this Act (whether directly or indirectly) is unenforceable.
+(3) Subsections (1) and (2) are subject to subsection (4) and section 5D.
+(4) Nothing in subsection (1) or (2) applies in respect of a provision that—
+  (a) imposes a stricter duty on the supplier than would be imposed under this Act; or
+  (b) provides a more advantageous remedy against the supplier than would be provided under this Act.
+(5) In this section and section 5D, agreement includes any contract, arrangement, or understanding.
+
+### 5D No contracting out: exception for parties in trade
+(1) Despite section 5C(1) and (2), if the requirements of subsection (3) are satisfied, parties to an agreement may include a provision in their agreement that will, or may (whether directly or indirectly), allow those parties to engage in conduct, or to make representations, that would otherwise contravene section 9, 12A, 13, or 14(1); and in that case,—
+  (a) the provision is enforceable; and
+  (b) no proceedings may be brought by any party to the agreement for an order under section 43 in relation to such a contravention of section 9, 12A, 13, or 14(1).
+(2) A provision of the kind referred to in subsection (1) includes, for example,—
+  (a) a clause commonly known as an entire agreement clause:
+  (b) a clause that acknowledges that a party to the agreement does not rely on the representations or other conduct of another party to the agreement, whether during negotiations prior to the agreement being entered into, or at any subsequent time.
+(3) The requirements referred to in subsection (1) are that—
+  (a) the agreement is in writing; and
+  (b) the goods, services, or interest in land are both supplied and acquired in trade; and
+  (c) all parties to the agreement—
+    (i) are in trade; and
+    (ii) agree to contract out of section 9, 12A, 13, or 14(1); and
+  (d) it is fair and reasonable that the parties are bound by the provision in the agreement.
+(4) If, in any case, a court is required to decide what is fair and reasonable for the purposes of subsection (3)(d), the court must take account of all the circumstances of the agreement, including—
+  (a) the subject matter of the agreement; and
+  (b) the value of the goods, services, or interest in land; and
+  (c) the respective bargaining power of the parties, including—
+    (i) the extent to which a party was able to negotiate the terms of the agreement; and
+    (ii) whether a party was required to either accept or reject the agreement on the terms and conditions presented by the other party; and
+  (d) whether the party seeking to rely on the effectiveness of a provision of the kind referred to in subsection (1) knew that a representation made in connection with the agreement would, but for that provision, have breached section 12A, 13, or 14(1); and
+  (e) whether all or any of the parties received advice from, or were represented by, a lawyer, either at the time of the negotiations leading to the agreement or at any other relevant time.
+(5) To avoid doubt, nothing in this section—
+  (a) prevents the Commission from bringing proceedings for an offence under this Act (including an offence under section 12A, 13, or 14(1)) against a party to the agreement referred to in subsection (1):
+  (b) limits the application of the Contractual Remedies Act 1979.
 
 ### 6 Functions of Commission in relation to dissemination of information
 In addition to the functions conferred on the Commission by this Act, the Commission shall—
@@ -139,20 +192,51 @@ No person shall, in trade, engage in conduct that is liable to mislead the publi
 ### 12 Misleading conduct in relation to employment
 No person shall, in relation to employment that is, or is to be, or may be offered by that person or any other person, engage in conduct that is misleading or deceptive, or is likely to mislead or deceive, as to the availability, nature, terms or conditions, or any other matter relating to that employment.
 
+**Unsubstantiated representations**
+
+### 12A Unsubstantiated representations
+(1) A person must not, in trade, make an unsubstantiated representation.
+(2) A representation is unsubstantiated if the person making the representation does not, when the representation is made, have reasonable grounds for the representation, irrespective of whether the representation is false or misleading.
+(3) This section does not apply to a representation that a reasonable person would not expect to be substantiated.
+(4) In this section and sections 12B to 12D, representation means a representation that is made—
+  (a) in respect of goods, services, or an interest in land; and
+  (b) in connection with—
+    (i) the supply or possible supply of the goods or services; or
+    (ii) the sale or grant or possible sale or grant of the interest in land; or
+    (iii) the promotion by any means of the supply or use of the goods or services or the sale or grant of the interest in land.
+
+### 12B Court must have regard to certain matters
+(1) In proceedings concerning a contravention of section 12A, and in assessing whether a person had reasonable grounds for a representation, a court must have regard to all of the circumstances, including—
+  (a) the nature of the goods, services, or interest in land in respect of which the representation was made:
+  (b) the nature of the representation (for example, whether it was a representation about quality or quantity):
+  (c) any research or other steps taken by or on behalf of the person before the person made the representation:
+  (d) the nature and source of any information that the person relied on to make the representation:
+  (e) the extent to which the person making the representation complied with the requirements of any standards, codes, or practices relating to the grounds on which such a representation may be made, and the nature of those requirements:
+  (f) the actual or potential effects of the representation on any person.
+(2) Subsection (1) does not limit section 44.
+
+### 12C Limitation on commencement of proceedings in relation to unsubstantiated representations
+Despite anything to the contrary in Part 5, only the Commission may commence proceedings, apply for an order, or apply for an injunction in relation to a contravention of section 12A.
+
+### 12D Section 12A subject to other enactments
+Section 12A does not apply to a representation made by a person in a particular trade, business, industry, profession, occupation, activity of commerce, or undertaking if, when the representation is made,—
+  (a) another enactment sets out requirements relating to the grounds on which representations may be made by a person in that trade, business, industry, profession, occupation, activity of commerce, or undertaking (whether more or less onerous than Section 12A); and
+  (b) the person complies with those requirements.
+
 **False representations**
 
 ### 13 False or misleading representations
 No person shall, in trade, in connection with the supply or possible supply of goods or services or with the promotion by any means of the supply or use of goods or services,—
   (a) make a false or misleading representation that goods are of a particular kind, standard, quality, grade, quantity, composition, style, or model, or have had a particular history or particular previous use; or
-  (b) make a false or misleading representation that services are of a particular kind, standard, quality, or quantity, or that they are supplied by any particular person or by any person of a particular trade, qualification, or skill; or
+  (b) make a false or misleading representation that services are of a particular kind, standard, quality, or quantity, or that they are supplied by any particular person or by any person of a particular trade, qualification, or skill, or by a person who has other particular characteristics; or
   (c) make a false or misleading representation that a particular person has agreed to acquire goods or services; or
   (d) make a false or misleading representation that goods are new, or that they are reconditioned, or that they were manufactured, produced, processed, or reconditioned at a particular time; or
   (e) make a false or misleading representation that goods or services have any sponsorship, approval, endorsement, performance characteristics, accessories, uses, or benefits; or
   (f) make a false or misleading representation that a person has any sponsorship, approval, endorsement, or affiliation; or
   (g) make a false or misleading representation with respect to the price of any goods or services; or
   (h) make a false or misleading representation concerning the need for any goods or services; or
-  (i) make a false or misleading representation concerning the existence, exclusion, or effect of any condition, warranty, guarantee, right, or remedy; or
-  (j) make a false or misleading representation concerning the place of origin of goods.
+  (i) make a false or misleading representation concerning the existence, exclusion, or effect of any condition, warranty, guarantee, right, or remedy, including (to avoid doubt) in relation to any guarantee, right, or remedy available under the Consumer Guarantees Act 1993; or
+  (j) make a false or misleading representation concerning the place of origin of goods or services.
 
 ### 14 False representations and other misleading conduct in relation to land
 (1) No person shall, in trade, in connection with the sale or grant or possible sale or grant of an interest in land or with the promotion by any means of the sale or grant of an interest in land,—
@@ -240,6 +324,57 @@ No person shall demand or accept payment or other consideration for goods or ser
   (a) does not intend to supply the goods or services; or
   (b) intends to supply goods or services materially different from the goods or services in respect of which the payment or other consideration is demanded or accepted; or
   (c) does not have reasonable grounds to believe that that person will be able to supply the goods or services within any specified period; or if no period is specified, within a reasonable time.
+
+### 21A Liability of recipient of unsolicited goods
+(1) If a person (the sender) sends or delivers unsolicited goods to another person (the recipient), the recipient—
+  (a) is not liable—
+    (i) to pay for the goods; or
+    (ii) for any loss of, or damage to, the goods, unless the loss or damage resulted from a deliberate act by the recipient; but
+  (b) must, at any reasonable time during the period of 10 working days after the day on which the recipient receives those goods, make those goods available for collection by, or on behalf of, the sender.
+(2) If the sender is in trade, the sender must, at the time the goods are delivered (whether by the sender or by any other person on behalf of the sender), inform the recipient of the recipient's rights and obligations under subsection (1).
+(3) Subsection (4) applies if—
+  (a) the period referred to in subsection (1)(b) has expired; or
+  (b) a sender has failed to comply with subsection (2) (whether or not the period referred to in subsection (1)(b) has expired).
+(4) If this subsection applies,—
+  (a) the recipient takes the goods as an unconditional gift; and
+  (b) all interests that any other person had in the goods are extinguished; and
+  (c) no action may be taken by any person for the recovery of the goods from the recipient.
+(5) However, subsection (4) does not apply if the recipient—
+  (a) has failed, without reasonable excuse, to comply with subsection (1)(b); or
+  (b) knew, or ought reasonably to have known, that—
+    (i) the goods were not intended for the recipient; or
+    (ii) the sender had no right to send or deliver, or arrange for the delivery of, those goods to the recipient.
+(6) To avoid doubt,—
+  (a) a recipient does not commit an offence by failing to comply with subsection (1)(b); but
+  (b) the consequence of such failure is that the recipient is unable to rely on subsection (4).
+(7) In this section and section 21C, unsolicited goods—
+  (a) means goods that have been sent or delivered to a recipient without any request for those goods having been made by, or on behalf of, that recipient; but
+  (b) does not include reticulated gas or electricity.
+
+### 21B Liability of recipient of unsolicited services
+(1) If a person, in trade, provides unsolicited services to another person (the recipient), the recipient is not liable—
+  (a) to pay for the services; or
+  (b) for any loss or damage resulting from the provision of those services, unless the loss or damage resulted from a deliberate act by the recipient.
+(2) In this section and section 21C, unsolicited services—
+  (a) means services that have been provided to a recipient without any request for those services having been made by, or on behalf of, that recipient; but
+  (b) does not include reticulated gas or electricity.
+
+### 21C Prohibition on asserting right to payment in respect of unsolicited goods or unsolicited services
+(1) A person must not, in trade,—
+  (a) assert, or appear to assert, that the person has a right to payment from another person for unsolicited goods or unsolicited services; or
+  (b) send or deliver to another person an invoice or other document that states the amount of a payment for, or sets out the charge for supplying, unsolicited goods or unsolicited services, unless that invoice or document complies with subsection (2).
+(2) The invoice or other document referred to in subsection (1)(b) must—
+  (a) contain a statement in the form prescribed in regulations made under section 21D; or
+  (b) if no regulations have been made, clearly inform the recipient that the recipient is under no obligation to make any payment for the goods or services.
+
+### 21D Regulations
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsection (2), make regulations, in relation to unsolicited goods or unsolicited services or both, for all or any of the following purposes:
+  (a) prescribing a statement for the purposes of section 21C(2)(a), including the size of the lettering of the words in, and the format of, the statement:
+  (b) prescribing how, when, and to whom a statement prescribed under paragraph (a) must be provided.
+(2) The Minister must not make a recommendation under this section unless—
+  (a) the Minister has consulted such persons or representatives of such persons as the Minister considers will be substantially affected by any Order in Council made in accordance with the recommendation, and those persons have had the opportunity to comment to the Minister; and
+  (b) the Minister has considered any such comments.
+(3) A failure to comply with subsection (2) does not affect the validity of any regulations made under this section.
 
 ### 22 Misleading representations about certain business activities
 (1) No person shall make a representation that is false or misleading in a material particular concerning the profitability or risk or any other material aspect of any business activity that that person represents as one that can be, or can be to a substantial extent, carried on at or from a person's place of residence.
@@ -341,6 +476,13 @@ No provision of this Part limits or affects any other provision of this Part.
     (a) soliciting for donations for a charitable purpose; and
     (b) canvassing for subscriptions for a charitable purpose; and
     (c) requests, by suppliers of goods or services, for donations that are included as part of the price of goods or services.
+
+### 28B Disclosure of trader status on Internet
+(1) This section applies when—
+  (a) goods or services are offered for sale to consumers on the Internet; and
+  (b) the offer is able to be accepted via the Internet.
+(2) If the vendor of the goods or services is in trade, the person making the offer must make it clear to potential purchasers that the vendor is a person in trade.
+(3) If the offer and any resulting sale are managed by an intermediary that is not party to the sale (such as an intermediary that operates an online bidding process), the intermediary must take reasonable steps to ensure that the person offering the goods or services for sale complies with subsection (2).
 
 ## Part 3 — Product safety
 
@@ -551,6 +693,402 @@ For the purposes of this Part services means the performance of work by way of�
 (1) If a services safety standard in respect of services is prescribed under section 35(1), a person must not supply, or offer to supply, or advertise to supply those services unless that person complies with that services safety standard.
 (2) If 2 or more services safety standards in respect of services are prescribed under section 35(1), a person must not supply, or offer to supply, or advertise to supply those services unless that person complies with one of those services safety standards.
 
+## Part 4A — Consumer transactions and auctions
+
+### 36A Purpose of Part
+The purpose of this Part is to set out in one place the rules applying to—
+  (a) layby sale agreements; and
+  (b) uninvited direct sale agreements; and
+  (c) extended warranty agreements; and
+  (d) auctions.
+
+### Subpart 1 — Layby sales
+
+### 36B Meaning of layby sale agreement
+(1) In this subpart, layby sale agreement means an agreement (whether or not described as a layby sale agreement) between a supplier and a consumer for the supply of goods on terms (whether express or implied) that provide that—
+  (a) the consumer will not take possession of the goods until all or a specified portion of the total price of the goods has been paid; and
+  (b) the price of the goods is to be paid by—
+    (i) 3 or more instalments; or
+    (ii) if the agreement specifies that it is a layby sale agreement, 2 or more instalments.
+(2) However, a layby sale agreement does not include an agreement for the supply of goods that have a purchase price that is more than $15,000 or, if greater, the amount specified in section 10(1A)(b) of the Disputes Tribunals Act 1988.
+(3) For the purposes of subsection (1)(b), a deposit paid by the consumer for the goods is an instalment.
+(4) Despite section 7 of the Credit Contracts and Consumer Finance Act 2003, a layby sale agreement is not a credit contract for the purposes of that Act if no interest charges, and no credit fees, are payable under the layby sale agreement.
+(5) In subsection (4) and in this subsection,—
+  - **associated person** has the same meaning as in section 8A of the Credit Contracts and Consumer Finance Act 2003
+  - **credit fees** —
+    (a) means fees or charges payable by a consumer under a layby sale agreement, or payable by a consumer to, or for the benefit of, the supplier in connection with a layby sale agreement; and
+    (b) includes—
+      (i) a fee or charge payable on a breach of a layby sale agreement by a consumer or on the enforcement of a layby sale agreement by a supplier:
+      (ii) a fee or charge payable by a consumer for an amount payable, or to reimburse an amount paid, by the supplier to an associated person of the supplier; but
+    (c) does not include—
+      (i) a cancellation charge referred to in section 36F:
+      (ii) charges for an optional service:
+      (iii) government charges, duties, taxes, or levies:
+      (iv) a fee or charge payable by a consumer for an amount payable, or to reimburse an amount paid, by the supplier to another person who is not an associated person of the supplier
+  - **interest charge** means a charge that accrues over time and is determined by applying a rate to the whole or any part of the outstanding amount that the consumer is required to pay to the supplier under the layby sale agreement (and includes any additional interest charge payable on a breach of a layby sale agreement by a consumer).
+
+### 36C Disclosure requirements relating to layby sale agreement
+(1) A supplier must ensure that—
+  (a) every layby sale agreement entered into by that supplier—
+    (i) is in writing; and
+    (ii) is expressed in plain language; and
+    (iii) is legible; and
+    (iv) is presented clearly; and
+    (v) complies with the requirements of subsection (2); and
+  (b) a copy of the agreement is given to the consumer at the time the agreement is entered into.
+(2) The requirements referred to in subsection (1)(a)(v) are that—
+  (a) the following information is set out on the front page of the agreement:
+    (i) a clear description of the goods to be supplied under the agreement; and
+    (ii) a summary of the consumer's right to cancel the agreement under section 36F(1); and
+    (iii) whether or not a cancellation charge will be imposed; and
+    (iv) if a cancellation charge is to be imposed, either the amount of the charge (if a fixed charge is to be imposed) or a clear description of how the charge will be calculated; and
+    (v) the supplier's name, street address, telephone number, and email address; and
+  (b) the total price payable under the agreement is disclosed in the agreement; and
+  (c) the agreement is dated.
+
+### 36D Further disclosure if requested by consumer
+(1) In addition to the requirements of section 36C, the supplier must, if requested by the consumer (either at the time that the layby sale agreement is entered into, or at any later time), provide the consumer with a written statement that clearly sets out—
+  (a) the total purchase price that is, or (if the agreement has been cancelled) was, payable under the agreement; and
+  (b) the amount paid by the consumer as at the date of the statement; and
+  (c) the amount of the cancellation charge (if any) that, as at the date of the statement, the consumer—
+    (i) is required to pay to the supplier (if the agreement has been cancelled); or
+    (ii) would be required to pay to the supplier (if the consumer were to cancel the agreement); and
+  (d) the outstanding amount (if any) that the consumer is required to pay to the supplier under the agreement, and when and how that amount is to be paid.
+(2) The supplier must provide the statement to the consumer—
+  (a) within 5 working days after receiving a request; and
+  (b) free of charge.
+
+### 36E Risk in goods
+(1) Goods to which a layby sale agreement relates remain at the supplier's risk until property in the goods is transferred to the consumer and the consumer takes possession of those goods.
+(2) To avoid doubt, this section overrides section 22 of the Sale of Goods Act 1908.
+
+### 36F Cancellation of layby sale agreement by consumer
+(1) A consumer may cancel a layby sale agreement—
+  (a) at any time before the consumer takes possession of the goods to which the agreement relates; and
+  (b) in any way (including oral or written) that shows the intention of the consumer to cancel or withdraw from the agreement.
+(2) For the purposes of subsection (1)(b), the consumer must communicate with the supplier—
+  (a) by way of the contact details provided in accordance with section 36C(2)(a)(v); or
+  (b) in any other way agreed to by the consumer and the supplier.
+(3) A supplier must not require the consumer to pay a charge for the cancellation of the agreement (a cancellation charge) unless—
+  (a) the agreement is cancelled—
+    (i) by the consumer under subsection (1); or
+    (ii) by the supplier, because the consumer has breached a material term of the agreement (see section 36G(a)); and
+  (b) the agreement provides that a cancellation charge is payable; and
+  (c) the supplier has not breached the agreement.
+(4) A supplier must not impose a cancellation charge that is more than the supplier’s reasonable costs arising directly from the agreement.
+(5) In subsection (4), reasonable costs arising directly from the agreement includes, for example,—
+  (a) the loss in value of the goods between the date of the agreement and the date of the cancellation of the agreement:
+  (b) the reasonable costs incurred in storing and insuring the goods while the agreement was in force:
+  (c) the reasonable administration costs of the agreement (for example, office expenses, salaries, or wages directly attributable to the agreement).
+
+### 36G Cancellation of layby sale agreement by supplier
+A supplier may cancel a layby sale agreement only if—
+  (a) the consumer has breached a material term of the agreement; or
+  (b) owing to circumstances beyond the control of the supplier,—
+    (i) the goods to which the agreement relates are no longer available; and
+    (ii) no satisfactory substitute goods can be reasonably obtained; or
+  (c) the supplier has ceased trading (other than in the circumstances described in section 36I(1)).
+
+### 36H Effect of cancellation of layby sale agreement
+If a layby sale agreement is cancelled under section 36F or 36G, the supplier—
+  (a) must immediately repay to the consumer all money paid to the supplier under the agreement, less (in the case of cancellation under section 36F or 36G(a)) any cancellation charge that is payable; and
+  (b) is, if the amounts paid by the consumer under the agreement are insufficient to cover the cancellation charge (if any), entitled to recover the balance of that charge from the consumer as a debt; and
+  (c) is not entitled to damages, or to enforce any other remedy, in relation to the cancellation, except as provided for in paragraphs (a) and (b).
+
+### 36I Bankruptcy, receivership, liquidation, or voluntary administration of supplier: completion of layby sale agreement
+(1) This section applies if—
+  (a) a supplier of goods under a layby sale agreement—
+    (i) is adjudicated bankrupt; or
+    (ii) has a receiver or statutory manager or similar person appointed in respect of it or of all or any of its assets; or
+    (iii) is put into liquidation; or
+    (iv) is in voluntary administration under Part 15A of the Companies Act 1993; and
+  (b) the goods to which the agreement relates are part of the assets in the bankruptcy, receivership, liquidation, or administration, as the case may be.
+(2) If this section applies, the consumer acquiring the goods is entitled, on payment of the balance (if any) of the price specified in the agreement and within a reasonable time, to—
+  (a) complete the agreement; and
+  (b) have property in the goods to which the agreement relates transferred to him or her; and
+  (c) take possession of those goods.
+(3) However, if there are insufficient goods to enable all consumers to complete their agreements in accordance with subsection (2), the agreements must be completed in the same order as they were entered into.
+(4) Subsections (2) and (3) do not apply to a consumer who has, in breach of the agreement, made no payments to the supplier during the 3 months immediately before the relevant event described in subsection (1)(a).
+(5) If a consumer makes a payment under the agreement after an event described in subsection (1), the consumer is entitled to have that payment refunded in full.
+(6) To avoid doubt, subsection (5) does not apply if the agreement is completed in accordance with subsection (2) or (3).
+
+### 36J Bankruptcy, receivership, or liquidation of supplier: consumer priority
+(1) This section applies if—
+  (a) an event described in section 36I(1)(a)(i) to (iii) has occurred; and
+  (b) the consumer described in section 36I(2)—
+    (i) is entitled to a refund under section 36H(a); or
+    (ii) has been unable to complete the layby sale agreement in accordance with section 36I(2) or (3), as the case may be.
+(2) If this section applies, the consumer—
+  (a) is a creditor in the bankruptcy, receivership, or liquidation, to the extent of the payments made to the supplier in accordance with the layby sale agreement; and
+  (b) is entitled to recover a sum equal to those payments with priority over—
+    (i) all other unsecured creditors; and
+    (ii) all creditors secured by a security interest of the kind described in subsection (3).
+(3) The kind of security interest referred to in subsection (2)(b)(ii) is a security interest that is over all or any part of the supplier's accounts receivable and inventory, or all or part of either of them, other than—
+  (a) a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; or
+  (b) a security interest that—
+    (i) has been perfected under the Personal Property Securities Act 1999 at the date of the event described in section 36I(1)(a)(i) to (iii); and
+    (ii) arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+(4) Debts to which priority is given by subsection (2)(b) must be paid in accordance with—
+  (a) section 274(3) of the Insolvency Act 2006 (in the case of bankruptcies); or
+  (b) section 30 of the Receiverships Act 1993 (in the case of receiverships); or
+  (c) section 312 and Schedule 7 of the Companies Act 1993 (in the case of liquidations).
+(5) To avoid doubt, this section does not apply in relation to—
+  (a) a consumer referred to in section 36I(4); or
+  (b) a payment refunded under section 36I(5).
+(6) In this section, account receivable, inventory, new value, purchase money security interest, and security interest have the meanings given to them in section 16 of the Personal Property Securities Act 1999.
+
+### Subpart 2 — Uninvited direct sales
+
+### 36K Meaning of uninvited direct sale agreement
+(1) In this subpart, uninvited direct sale agreement means an agreement for the supply, in trade, of goods or services to a consumer—
+  (a) that is made as a result of negotiations (whether or not they are the only negotiations that precede the making of the agreement) between a supplier and the consumer in a situation described in either subsection (2) or (3); and
+  (b) where the price paid or payable by the consumer under the agreement—
+    (i) is more than $100; or
+    (ii) cannot be ascertained at the time of supply (regardless of whether the price ultimately paid or payable is $100 or less).
+(2) The first situation is where the negotiations take place between the consumer and the supplier, in each other's presence, in the consumer's home or workplace, where the consumer did not invite the supplier to come to that place for the purposes of entering into negotiations relating to the supply of those goods or services (whether or not the consumer made such an invitation in relation to a different supply).
+(3) The other situation is where the negotiations take place by telephone, where the consumer did not invite the supplier to make the telephone call for the purposes of entering into negotiations relating to the supply of those goods or services (whether or not the consumer made such an invitation in relation to a different supply).
+(4) However, uninvited direct sale agreement does not include a renewal agreement.
+(5) For the purposes of this section, a consumer has not invited a supplier to—
+  (a) come to the home or workplace, or to make a telephone call, merely because the consumer has—
+    (i) given his or her name or contact details to the supplier other than for the predominant purpose of entering into negotiations relating to the supply of goods or services; or
+    (ii) contacted the supplier in connection with an unsuccessful attempt by the supplier to contact the consumer:
+  (b) enter into negotiations for a supply merely because the supplier has provided an unsolicited quote or estimate.
+(6) In subsection (4), renewal agreement means a new agreement that replaces an existing agreement between a supplier and consumer where—
+  (a) the existing agreement—
+    (i) involves the supply, in trade, of goods or services to the consumer by the supplier; and
+    (ii) is in force at the time the negotiations for the new agreement occur; and
+  (b) the new agreement involves the supply, in trade, of goods or services—
+    (i) of the same, or of a similar, kind as those supplied under the existing agreement; and
+    (ii) by the same supplier to the same consumer (being the parties to the existing agreement); and
+    (iii) on the same, or similar, terms and conditions as those in the existing agreement.
+
+### 36L Disclosure requirements relating to uninvited direct sale agreements
+(1) A supplier must ensure that—
+  (a) every uninvited direct sale agreement entered into by that supplier—
+    (i) is in writing; and
+    (ii) is expressed in plain language; and
+    (iii) is legible; and
+    (iv) is presented clearly; and
+    (v) complies with the requirements of subsection (2); and
+  (b) a copy of the agreement is given to the consumer—
+    (i) at the time the agreement is entered into; or
+    (ii) in the case of an agreement entered into over the telephone, within 5 working days after the date on which the agreement was entered into.
+(2) The requirements referred to in subsection (1)(a)(v) are that—
+  (a) the following information is set out on the front page of the agreement:
+    (i) a clear description of the goods or services to be supplied under the agreement; and
+    (ii) a summary of the consumer's right to cancel the agreement under section 36M(1); and
+    (iii) the supplier's name, street address, telephone number, and email address; and
+    (iv) the consumer's name and street address; and
+  (b) either—
+    (i) the total price payable, and any other consideration to be given, under the agreement is disclosed in the agreement; or
+    (ii) if the total price or consideration is not ascertainable at the time at which the agreement is entered into, the method by which the total price or consideration will be calculated is disclosed in the agreement; and
+  (c) the agreement is dated.
+(3) The supplier must give the consumer oral notice, before the agreement is entered into, of—
+  (a) the consumer's right to cancel the agreement within 5 working days after the date on which the consumer receives a copy of the agreement; and
+  (b) how the consumer may cancel the agreement.
+(4) However, if an uninvited direct sale agreement is, or includes, a consumer credit contract (as defined in section 11 of the Credit Contracts and Consumer Finance Act 2003), in relation to that consumer credit contract only,—
+  (a) Part 2 of that Act applies in place of this subpart; and
+  (b) the supplier must give the consumer oral notice, before the agreement is entered into, of—
+    (i) the consumer's rights to cancel the agreement under that Act; and
+    (ii) how the consumer may cancel the agreement under that Act.
+(5) For the purposes of subsection (4), a consumer credit contract is included in an uninvited direct sale agreement if that contract was entered into for the purpose of financing the purchase of the goods or services that are the subject of the uninvited direct sale agreement.
+(6) To avoid doubt, where an uninvited direct sale agreement includes a consumer credit contract, this subpart continues to apply to every part of the agreement that is not a consumer credit contract.
+
+### 36M Cancellation of uninvited direct sale agreement by consumer
+(1) A consumer may cancel an uninvited direct sale agreement by giving notice of the cancellation to the supplier—
+  (a) within 5 working days after the date on which the consumer receives a copy of the agreement; or
+  (b) if the supplier has failed to comply with section 36L (except to the extent provided for in section 36N(2)), at any time.
+(2) Notice of cancellation may be expressed in any way (including oral or written) that shows the intention of the consumer to cancel or withdraw from the agreement.
+(3) For the purposes of subsection (2), the consumer must communicate with the supplier—
+  (a) by way of the contact details provided in accordance with section 36L(2)(a)(iii); or
+  (b) in any other way agreed to by the consumer and the supplier.
+
+### 36N Enforcement of uninvited direct sale agreement by supplier
+(1) An uninvited direct sale agreement is not enforceable by a supplier unless—
+  (a) the supplier has complied with section 36L; and
+  (b) the time during which the consumer may cancel the agreement under section 36M has expired, and the consumer has not given notice of cancellation within that time.
+(2) However, subsection (1)(a) does not apply if the failure to comply with section 36L is minor (for example, where a supplier has provided an agreement at a time later than the time specified in section 36L(1)(b)) and does not materially prejudice the consumer.
+
+### 36O Effect of cancellation of uninvited direct sale agreement
+If an uninvited direct sale agreement is cancelled by a consumer (see section 36M),—
+  (a) the agreement (including any security or guarantee given by any person in connection with that agreement) and any collateral agreement (including any consumer credit contract referred to in section 36L(4)) are, in relation to the consumer's rights under this Act,—
+    (i) to be treated as if they had never had effect; and
+    (ii) not enforceable; and
+  (b) the supplier must comply with section 36P; and
+  (c) the consumer must comply with section 36Q; and
+  (d) compensation (if any) is payable in accordance with section 36R.
+
+### 36P Supplier's obligations on cancellation of uninvited direct sale agreement
+On cancellation of an uninvited direct sale agreement in accordance with section 36M, the supplier must immediately repay to the consumer all money paid to the supplier under the agreement.
+
+### 36Q Consumer's obligations on cancellation of uninvited direct sale agreement
+(1) On cancellation of an uninvited direct sale agreement in accordance with section 36M, the consumer must,—
+  (a) if the supplier has complied with section 36P, permit the supplier to take possession of any goods that have been provided to the consumer under the agreement—
+    (i) from the address provided by the consumer in the agreement; and
+    (ii) at any reasonable time requested by the supplier; and
+  (b) take reasonable care of those goods, from the time that the consumer took possession of the goods until the end of 10 working days beginning with the date on which notice was given in accordance with section 36M.
+(2) However, if, during the 10 working days referred to in subsection (1)(b), the consumer unreasonably refuses or fails to permit the supplier to take possession of the goods, the consumer's obligation to take reasonable care of the goods continues until the consumer has given the supplier a reasonable opportunity to take possession of the goods.
+(3) Despite subsection (1), a consumer may, at the supplier's expense (if the supplier requests the consumer to return the goods and arranges for the goods to be collected from the consumer) or at the consumer's expense (if the consumer chooses to return the goods without a request being made by the supplier), return the goods to the supplier, in which case the consumer's obligation to take care of the goods ceases when the goods are collected from the consumer, or when the consumer sends the goods to the supplier, as the case may be.
+(4) However, the consumer is under an obligation to take reasonable care to ensure that the goods will not be damaged in transit and, if the consumer chooses to return the goods without a request being made by the supplier, to also take reasonable care to ensure that the goods will be delivered to the supplier.
+(5) To avoid doubt, a consumer is under no obligation—
+  (a) to permit the supplier to take possession of the goods if the supplier has failed to comply with section 36P; or
+  (b) to deliver, or to arrange delivery of, the goods to the supplier; or
+  (c) to care for the goods other than as required under this section.
+
+### 36R Compensation on cancellation of uninvited direct sale agreement
+(1) On cancellation of an uninvited direct sale agreement under section 36M, the consumer is liable to pay compensation to the supplier for any loss of, or damage to, the goods that occurs while they are in the custody of the consumer, other than loss or damage—
+  (a) arising from the normal use of the goods; or
+  (b) owing to circumstances beyond the consumer's control.
+(2) Subsection (1) applies only in relation to the period of custody beginning when the consumer takes delivery of the goods and ending—
+  (a) at the end of 10 working days after the date on which notice was given in accordance with section 36M; or
+  (b) if section 36Q(2) applies, when the consumer has given the supplier a reasonable opportunity to take possession of the goods.
+(3) If a supplier provided services under the agreement before it was cancelled,—
+  (a) the supplier is not entitled to any compensation for those services; and
+  (b) if the services have resulted in the alteration of, or damage to, the consumer's property, the supplier must, if required by the consumer and at the supplier's expense, return the property to the condition it was in (or as close as is reasonably practicable to that condition) immediately before the services were provided.
+(4) A supplier is not entitled to damages, or to enforce any other remedy, in relation to the cancellation of an uninvited direct sale agreement under section 36M, except as provided for in this section.
+
+### 36S Regulations
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsection (2), make regulations for the following purposes:
+  (a) exempting classes of agreement for the issue or sale of a financial product from 1 or more provisions of this subpart:
+  (b) prescribing terms and conditions to which an exemption described in paragraph (a) is subject.
+(2) The Minister must not make a recommendation under this section unless—
+  (a) the Minister is satisfied that the exemption is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
+  (b) the Minister has consulted the persons or representatives of the persons that the Minister considers will be substantially affected by any Order in Council made in accordance with the recommendation, and those persons have had the opportunity to comment to the Minister; and
+  (c) the Minister has considered those comments.
+(3) A failure to comply with subsection (2) does not affect the validity of any Order in Council made under this section.
+(4) In this section, agreement for the issue or sale of a financial product means an agreement, resulting from an offer described in section 34(2) of the Financial Markets Conduct Act 2013, for the issue or sale of a financial product (within the meaning of that section).
+
+### Subpart 3 — Extended warranties
+
+### 36T Meaning of extended warranty agreement and related definitions
+In this subpart,—
+  - **extended warranty agreement** means an agreement—
+    (a) that is entered into—
+      (i) between a consumer and a warrantor in relation to the purchase by the consumer of goods or services; and
+      (ii) at, or at about, the same time as those goods or services are purchased; and
+    (b) under which the warrantor provides specific warranties, guarantees, or undertakings (either directly or through a third person) in relation to those goods or services; and
+    (c) for which the consumer pays a price that is separate from, or additional to, the price at which the goods or services are offered for sale
+  - **warrantor** means both—
+    (a) the supplier, if that person arranges or provides the extended warranty agreement; and
+    (b) if the extended warranty agreement is entered into directly between the consumer and a person other than the supplier (for example, an insurer or manufacturer), that other person.
+
+### 36U Disclosure requirements relating to extended warranty agreements
+(1) A warrantor must ensure that—
+  (a) every extended warranty agreement—
+    (i) is in writing; and
+    (ii) is expressed in plain language; and
+    (iii) is legible; and
+    (iv) is presented clearly; and
+    (v) complies with the requirements of subsection (2); and
+  (b) a copy of the agreement is given to the consumer at the time the consumer purchases the extended warranty.
+(2) The requirements referred to in subsection (1)(a)(v) are that—
+  (a) the following information is set out on the front page of the agreement:
+    (i) a summarised comparison between the relevant Consumer Guarantees Act 1993 guarantees and the protections provided by the extended warranty agreement; and
+    (ii) a summary of the consumer's rights and remedies under the Consumer Guarantees Act 1993; and
+    (iii) a summary of the consumer's right to cancel the agreement under section 36V; and
+    (iv) the warrantor's name, street address, telephone number, and email address; and
+  (b) all the terms and conditions of the agreement are included in the agreement, including—
+    (i) the rights and obligations of the warrantor and the consumer; and
+    (ii) the duration and expiry date of the agreement (including whether or not the agreement expires when a claim is made); and
+  (c) the total price payable under the agreement is disclosed in the agreement; and
+  (d) the agreement is dated.
+(3) In addition to the requirements for written disclosure under subsections (1) and (2), the warrantor must, where reasonably practicable (for example, where the agreement is entered into between a warrantor and consumer in each other's presence or by telephone), give the consumer oral notice, before the agreement is entered into, of—
+  (a) the consumer's right to cancel the agreement within 5 working days; and
+  (b) how the consumer may cancel the agreement.
+
+### 36V Cancellation of extended warranty agreement
+(1) A consumer may cancel an extended warranty agreement by giving notice of the cancellation to the warrantor—
+  (a) within 5 working days after the date on which the consumer receives a copy of the agreement; or
+  (b) if the warrantor has failed to comply with section 36U (except to the extent provided for in subsection (2)(b)), at any time.
+(2) However,—
+  (a) subsection (1) does not apply in relation to an extended warranty agreement that has been entered into as a condition of a consumer credit contract (as defined in section 11 of the Credit Contracts and Consumer Finance Act 2003); and
+  (b) subsection (1)(b) does not apply if the failure to comply with section 36U is minor (for example, where a warrantor has provided an agreement at a time later than the time specified in section 36U(1)(b)) and does not materially prejudice the consumer.
+(3) Notice of cancellation may be expressed in any way (including oral or written) that shows the intention of the consumer to cancel or withdraw from the agreement.
+(4) For the purposes of subsection (3), the consumer must communicate with the warrantor—
+  (a) by way of the contact details provided in accordance with section 36U(2)(a)(iv); or
+  (b) in any other way agreed to by the consumer and the warrantor.
+(5) On cancellation of an agreement in accordance with subsections (1) to (3), the supplier must immediately repay all additional consideration, in full and without any deductions, to the consumer.
+(6) To avoid doubt, nothing in this section entitles a consumer to cancel any other agreement relating to the goods or services that are the subject of the extended warranty agreement.
+
+### 36W Regulations
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsection (2), make regulations, in relation to extended warranty agreements, for all or any of the following purposes:
+  (a) prescribing a statement for the purposes of providing the information specified in section 36U(2), including the size of the lettering of the words in, and the format of, the statement:
+  (b) prescribing how, when, and to whom a statement prescribed under paragraph (a) must be provided.
+(2) The Minister must not make a recommendation under this section unless—
+  (a) the Minister has consulted such persons or representatives of such persons as the Minister considers will be substantially affected by any regulations made in accordance with the recommendation, and those persons have had the opportunity to comment to the Minister; and
+  (b) the Minister has considered any such comments.
+(3) A failure to comply with subsection (2) does not affect the validity of any regulations made under this section.
+
+### Subpart 4 — Auctions
+
+### 36X Definitions
+(1) In this subpart, unless the context otherwise requires,—
+  - **auction** means a process in which property of any kind (including goods, services, and interests in land) is offered for sale by an auctioneer on behalf of a vendor, and—
+    (a) bids for the property are placed with the auctioneer in real time, whether in person, by telephone, via the Internet, or by any other means; and
+    (b) the property is sold when the auctioneer so indicates
+  - **registered auctioneer** means an auctioneer registered as an auctioneer under the Auctioneers Act 2013
+  - **vendor** means the person whose property is offered for sale at an auction by an auctioneer.
+(2) To avoid doubt, a process of selling property is not necessarily an auction for the purpose of this subpart just because it is described as an auction. For example, a process described as an Internet auction, but that provides that any contract of sale resulting from the process is a contract directly between the winner of the bidding and the seller of the property, is not an auction for the purpose of this subpart.
+
+### 36Y Application of subpart
+This subpart applies to auctions conducted by or on behalf of—
+  (a) a registered auctioneer; or
+  (b) any other person who carries on business as an auctioneer (within the meaning given in section 5(3) of the Auctioneers Act 2013), whether or not a registered auctioneer.
+
+### 36Z Each lot is separate contract of sale
+If property is offered for sale by auction in lots,—
+  (a) the offer of each lot is a separate auction; and
+  (b) each lot sold is subject to a separate contract of sale.
+
+### 36ZA Start and end of auction
+(1) An auction starts when the auctioneer invites the first bid from potential participants.
+(2) An auction ends when the auctioneer makes it clear that bidding is closed.
+(3) However, property that is offered for sale by auction must be treated as having been sold at auction, even if the bidding ceased without the property being sold, if—
+  (a) the auctioneer accepts a subsequent offer from a person who attended the auction; and
+  (b) that offer is accepted before the end of the first working day following the day of the auction.
+
+### 36ZB Notice to participants
+(1) Before and during any auction, notice of the terms of the auction must be readily available to view by all participants and potential participants in the auction, which means—
+  (a) for participants attending an auction in person, the notice must be displayed and readily available to view by all participants; and
+  (b) in any other case, the notice must be available to view, before and during the auction, on a readily accessible Internet site.
+(2) The notice of terms must include notice of the following:
+  (a) in the case of an auction of goods of a kind ordinarily acquired for personal, domestic, or household use or consumption, whether the vendor of the goods is selling the goods in trade as a supplier (within the meaning of the Consumer Guarantees Act 1993):
+  (b) whether the sale is subject to a reserve price:
+  (c) whether vendor bids are permitted.
+(3) If different terms apply with respect to different lots, the notice, or the auctioneer before starting the auction of each lot, must identify which terms apply.
+(4) The person responsible for complying with the requirements of subsections (1) to (3) is,—
+  (a) if the auction is conducted by or on behalf of a registered auctioneer, the registered auctioneer; or
+  (b) in any other case, the auctioneer conducting the auction.
+
+### 36ZC Vendors selling in trade
+The Consumer Guarantees Act 1993 does not apply to goods sold at auction if—
+  (a) the goods are goods that are ordinarily acquired for personal, domestic, or household use; and
+  (b) the vendor is selling the goods in trade as a supplier (within the meaning of the Consumer Guarantees Act 1993); and
+  (c) the goods are acquired in trade; and
+  (d) the notice of the terms of the auction specifies that in the circumstances described in paragraphs (a) to (c) the Consumer Guarantees Act 1993 does not apply as between the vendor and the purchaser.
+
+### 36ZD Vendor bids
+(1) An auctioneer must not accept a vendor bid unless—
+  (a) the terms of the auction specify that vendor bids are permitted; and
+  (b) the auctioneer identifies each vendor bid as it is given; and
+  (c) the property is offered for sale with a reserve price and the vendor bid is less than the reserve price.
+(2) In this section, vendor bid means a bid made by the vendor or any person (including an auctioneer) acting as agent for the vendor.
+
+### 36ZE Bids may be withdrawn until end of auction
+Any bid at an auction may be withdrawn before the end of the auction.
+
+### 36ZF Account and payment of proceeds
+(1) Within 10 working days after the sale by auction of property, the auctioneer must provide to the vendor—
+  (a) the balance of the proceeds of the sale payable to the vendor; and
+  (b) an account of the sale, which must set out, at a minimum, the bid accepted from the purchaser, the amount of any tax, auctioneer's commission or other deductions, and the amount payable to the vendor.
+(2) However, unless the vendor and auctioneer have agreed otherwise, if the vendor requests an auctioneer to provide the balance of the proceeds and an account of the sale sooner than 10 working days after the sale, the auctioneer must comply with the request within 5 working days after the request is made.
+(3) An auctioneer need not comply with subsection (1) if—
+  (a) the vendor—
+    (i) is in trade; or
+    (ii) is selling goods other than goods of a kind ordinarily acquired for personal, domestic, or household use or consumption; and
+  (b) the vendor agrees (expressly or impliedly) that subsection (1) need not apply.
+(4) This section does not apply to a sale by auction of land or an interest in land conducted by a licensed real estate agent, and the provisions of the Real Estate Agents Act 2008 apply instead.
+
 ## Part 5 — Enforcement and remedies
 
 **Jurisdiction of courts**
@@ -581,11 +1119,14 @@ In accordance with this Part, the High Court shall hear and determine the follow
 
 **Offences**
 
-### 40 Contraventions of provisions of Part 1, Part 2, Part 3, and Part 4 an offence
-(1) Every person who contravenes any of the provisions of Part 1 (except sections 9, 14(2), 23, and 24), or Part 2, or Part 3 or Part 4, commits an offence and is liable on conviction—
-  (a) in the case of a person other than a body corporate, to a fine not exceeding $60,000; and
-  (b) in the case of a body corporate, to a fine not exceeding $200,000.
-(1A) Every person who contravenes section 24 commits an offence and is liable on conviction to a fine not exceeding $200,000.
+### 40 Contraventions of provisions of Parts 1 to 4A an offence
+(1) Every person who contravenes a provision of Part 1 (except sections 9, 14(2), 23, or 24), Part 3, or Part 4 commits an offence and is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $200,000; and
+  (b) in the case of a body corporate, to a fine not exceeding $600,000.
+(1A) Every person who contravenes section 24 commits an offence and is liable on conviction to a fine not exceeding $600,000.
+(1B) Every person who contravenes a provision of Part 2 or Part 4A commits an offence and is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $10,000; and
+  (b) in the case of a body corporate, to a fine not exceeding $30,000.
 (2) Where a person is convicted, whether in the same or separate proceedings, of 2 or more offences in respect of contraventions of the same provisions of this Act and those contraventions are of the same or a substantially similar nature and occurred at or about the same time, the aggregate amount of any fines imposed on that person in respect of those convictions shall not exceed the amount of the maximum fine that may be imposed in respect of a conviction for a single offence.
 (3)
 
@@ -594,6 +1135,62 @@ In accordance with this Part, the High Court shall hear and determine the follow
 (2) The value of any gain must be assessed by the court, and any amount ordered to be paid is recoverable in the same manner as a fine.
 (3) The standard of proof in proceedings under this section is the standard of proof that applies in civil proceedings.
 (4)
+
+### 40B Infringement offence, etc, defined
+In this Act, unless the context otherwise requires,—
+  - **infringement fee** means the amount, not exceeding $2,000, that is prescribed by regulations made under section 40H as the amount payable in respect of an infringement offence for which an infringement notice has been issued
+  - **infringement notice** means a notice, in the form prescribed by regulations made under section 40H and issued under section 40D, in respect of an infringement offence
+  - **infringement offence** means any of the following:
+    (a) an offence against section 40(1) of failing to comply with a suspension of supply notice issued under section 33D:
+    (b) an offence against section 40(1B) involving the contravention of section 28 (consumer information standards):
+    (c) an offence against section 40(1B) of failing to comply with section 28B(2) or (3) (disclosure of trader status on Internet):
+    (d) an offence against section 40(1B) involving the contravention of any of the following provisions of Part 4A:
+      (i) section 36C (layby disclosure requirements):
+      (ii) section 36D (further layby disclosure requirements):
+      (iii) section 36L (uninvited direct sale disclosure requirements):
+      (iv) section 36U (extended warranty disclosure requirements).
+
+### 40C Infringement offence alleged
+(1) If a person is alleged to have committed an infringement offence, the person may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice.
+(2) Despite section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Commission commences proceedings for an infringement offence by filing a charging document under the Criminal Procedure Act 2011.
+
+### 40D Issue of infringement notice
+(1) The Commission may issue an infringement notice to a person if—
+  (a) the Commission believes on reasonable grounds that the person is committing, or has committed, an infringement offence; and
+  (b) no information for that offence has been laid against, and no infringement notice has been issued to, the person in relation to the conduct alleged to be an infringement offence.
+(2) The Commission may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under section 21 of the Summary Proceedings Act 1957.
+(3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
+
+### 40E Procedural requirements for infringement notices
+(1) An infringement notice may be served on a person (a recipient) who is alleged to have committed an infringement offence—
+  (a) by delivering it, or a copy of it, personally to the recipient; or
+  (b) by sending it, or a copy of it, by post, addressed to the recipient at the recipient's last known place of residence or business.
+(2) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent under subsection (1)(b) must be treated as having been served on the recipient on the date it was posted.
+(3) An infringement notice must be in the form prescribed by regulations made under section 40H and must contain—
+  (a) details of the alleged infringement offence that are sufficient to fully and fairly inform the recipient of the time, place, and nature of the alleged infringement offence; and
+  (b) the amount of the infringement fee; and
+  (c) an address at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the recipient has a right to request a hearing; and
+  (g) a statement of what will happen if the recipient does not pay the fee and does not request a hearing; and
+  (h) any other prescribed matters.
+(4) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957; and in that case, section 21 of the Summary Proceedings Act 1957 applies, with all necessary modifications.
+(5) Reminder notices must be prescribed by regulations made under section 40H and must contain the information referred to in subsection (3).
+
+### 40F What Commission does with infringement fees
+The Commission must pay all infringement fees received into a Crown Bank Account.
+
+### 40G Effect of infringement notice
+If an infringement notice is issued, a criminal record must not be created in respect of the infringement offence.
+
+### 40H Regulations relating to infringement offences
+The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the following purposes:
+  (a) prescribing the form of infringement notices and reminder notices:
+  (b) prescribing any matters that must be included in those notices:
+  (c) prescribing the amount of the infringement fee.
 
 **Civil proceedings**
 
@@ -672,6 +1269,7 @@ A person may apply to a court or a Disputes Tribunal for an order under section 
 ### 44 Defences
 (1) Subject to this section, it is a defence to a prosecution for an offence against section 40 if the defendant proves—
   (a) that the contravention was due to a reasonable mistake; or
+  (ab) that, in the case of an offence under section 40(1) in relation to a contravention of section 21C(1), the defendant reasonably believed that there was a right to payment or other consideration; or
   (b) that the contravention was due to reasonable reliance on information supplied by another person; or
   (c) that—
     (i) the contravention was due to the act or default of another person, or to an accident or to some other cause beyond the defendant's control; and
