@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2014-05-11_
+_Consolidation as at 2014-06-17_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3640,7 +3640,9 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 | Electricity Industry Act 2010 | 47(1) | Employee of Authority may obtain and execute warrant to search any place for purpose of ascertaining whether industry participant is in breach of Act, regulations, or Code | All (except sections 118 and 119) |
 | Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 | 141(1) and (2) | Enforcement officer may enter and inspect a place, vehicle, vessel, or structure to determine whether Act, regulations, marine consent, abatement notice, or enforcement order are being complied with | All (except subparts 2 and 8 and sections 118 and 119) |
 | Extradition Act 1999 | 83(2) | Issuing officer may issue search warrant to constable to search for evidence of extradition offence | All (except subpart 6) |
-| Fair Trading Act 1986 | 47(2) | Authorised employee of Commerce Commission may obtain and execute search warrant to investigate breaches of Fair Trading Act 1986 | All (except sections 118 and 119) |
+| Fair Trading Act 1986 | 33C | Product safety officers may obtain and execute search warrant for purposes associated with unsafe goods | All (except sections 118 and 119) |
+|  | 47(2) | Authorised employee may obtain and execute search warrant to investigate breaches of Fair Trading Act 1986 | All (except sections 118 and 119) |
+|  | 47L | Authorised employee may obtain and execute search warrant to monitor and enforce compliance with certain standards and notices | All (except sections 118 and 119) |
 | Films, Videos, and Publications Classification Act 1993 | 109 | Constable or inspector may obtain and execute search warrant to search for evidence of offences against Films, Videos, and Publications Classification Act 1993 (other than against sections 126 and 131A) | All (except sections 118 and 119) |
 |  | 109A(1) and 109B | Constable or inspector may obtain and execute search warrant to search for evidence of offences against section 126 or 131A of Films, Videos, and Publications Classification Act 1993 | All (except sections 118 and 119) |
 | Financial Markets Authority Act 2011 | 29(1) and (3) | Specified person may enter and search place, vehicle, or other thing by consent or with warrant to ascertain if person is contravening financial markets legislation | All (except sections 118 and 119) |
