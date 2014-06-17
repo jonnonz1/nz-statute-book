@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-06-17_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -334,12 +334,12 @@ _Consolidation as at 2014-04-01_
 (3B) For the purposes of this Act, when a person who is a non-resident ceases to be a registered person,—
   (a) any goods that are part of the assets of the taxable activity carried on by the person that are present in New Zealand at the time the person ceases to be registered are treated as supplied by the person in the course of the taxable activity at a time immediately before the person ceases to be registered:
   (b) any services that would be performed in New Zealand as part of the taxable activity carried on by the person at the time the person ceases to be registered are treated as performed by the person in the course of the taxable activity at a time immediately before the person ceases to be registered.
-(4) For the purposes of this Act, a credit agreement to which the Door to Door Sales Act 1967 applies shall not constitute a supply of goods and services unless the purchaser has failed to exercise the right under section 7 of that Act to cancel the agreement within the period made available to the purchaser by that section.
-(5) For the purposes of this Act, any contract that is a layby sale to which the Layby Sales Act 1971 applies shall not constitute a supply of goods and services unless the goods which are the subject of the contract are delivered to the buyer and the property therein is transferred to the buyer:
+(4) For the purposes of this Act, a credit agreement to which subpart 2 of Part 4A of the Fair Trading Act 1986 applies shall not constitute a supply of goods and services unless the purchaser has failed to exercise the right under section 36M of that Act to cancel the agreement within the period made available to the purchaser by that section.
+(5) For the purposes of this Act, any contract that is a layby sale to which subpart 1 of Part 4A of the Fair Trading Act 1986 applies shall not constitute a supply of goods and services unless the goods which are the subject of the contract are delivered to the buyer and the property therein is transferred to the buyer:
   provided that a supply of services shall, in respect of any such contract, be deemed to have taken place where—
-    (a) a layby sale is cancelled pursuant to the Layby Sales Act 1971; and
-    (b) the seller either—pursuant to section 9(1)(b) of the Layby Sales Act 1971.
-      (i) retains any amount paid to the seller to recoup that seller's selling costs in respect of the layby sale; or
+    (a) a layby sale is cancelled pursuant to section 36F or 36G of the Fair Trading Act 1986; and
+    (b) the seller either—pursuant to section 36H(b) and (c) of the Fair Trading Act 1986.
+      (i) retains any amount paid to the seller to recoup that seller's cancellation charge in respect of the layby sale; or
       (ii) recovers any amount (including, or in addition to, the amount referred to in subparagraph (i)) from the buyer,—
 (6) For the purposes of this Act, every public authority is deemed to supply goods and services where, within the meaning of the Public Finance Act 1989, any amount is brought to charge by the public authority as revenue from the Crown for the supply of outputs.
 (6AA) For the purposes of this Act, a levy that is paid under the Climate Change Response Act 2002 is treated as if it were consideration for a supply of services in furtherance of a taxable activity carried on by—
@@ -516,9 +516,9 @@ This Act shall bind the Crown.
     (iii) in the case of a supply of services, at the time the services are performed, unless subparagraph (iv) applies; and
     (iv) in the case of a supply of services that is treated by section 8(4B) as being made in New Zealand, at the end of the taxable period that includes the date that is 2 months after the first balance date of the recipient that follows the completion of the performance of the services:
     provided that this paragraph shall not apply in any case where an invoice is issued, or any payment is made, in respect of that supply, on or before the last day for furnishing the return in relation to the taxable period during which, but for this proviso, that supply would have been made:
-  (b) where that supply is a supply to which section 5(4) refers, on the day after the last day of the period during which the recipient may exercise the right under section 7 of the Door to Door Sales Act 1967 to cancel the agreement:
+  (b) where that supply is a supply to which section 5(4) refers, on the day after the last day of the period during which the recipient may exercise the right under section 36M of the Fair Trading Act 1986 to cancel the agreement:
   (c) where that supply is a supply to which section 5(5) refers, at the time at which the property in the goods is transferred to the recipient:
-    provided that in any case in which a supply of services is deemed to take place pursuant to the proviso to that subsection, that supply of services shall be deemed to take place at the time that the layby sale is cancelled pursuant to the Layby Sales Act 1971:
+    provided that in any case in which a supply of services is deemed to take place pursuant to the proviso to that subsection, that supply of services shall be deemed to take place at the time that the layby sale is cancelled pursuant to section 36F or 36G of the Fair Trading Act 1986:
   (d) where that supply is deemed to be made pursuant to section 5(8), when and to the extent that the amount of the money is dealt with as specified in that section:
   (e) if the supply is made under section 5(10),—
     (i) for an amount of money paid by a person to participate in gambling (including a New Zealand lottery), on the date on which the first drawing or determination of a result commences, but this subparagraph does not apply to an instant game that is a New Zealand lottery or gambling played by means of a gaming machine as defined in section 4(1) of the Gambling Act 2003:
@@ -2257,7 +2257,7 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
   (f) the registered person elects that subsection (5) apply to supplies made under the agreement by treating each supply in that way in a return provided to the Commissioner; and
   (g) within 30 days after the rate change day, the registered person gives notice to the recipient of the supplies, if the recipient is a registered person, that payments by the recipient made after the rate change day include goods and services tax charged at the original rate.
 (5) Each successive supply under the agreement that is deemed to take place on or after the rate change day is charged with tax at the original rate.
-(6) Despite section 5(5), subsection (7) applies to a supply of goods under an agreement that is a layby sale to which the Layby Sales Act 1971 applies if—
+(6) Despite section 5(5), subsection (7) applies to a supply of goods under an agreement that is a layby sale to which subpart 1 of Part 4A of the Fair Trading Act 1986 applies if—
   (a) the agreement is made before the day on which the increase in the rate of tax is announced; and
   (b) after the rate change day, the goods are delivered to the buyer and the property in the goods is transferred to the buyer; and
   (c) the registered person elects that subsection (7) apply to supplies made under the agreement by treating each supply in that way in a return provided to the Commissioner.
