@@ -1,5 +1,5 @@
 # Layby Sales Amendment Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2014-06-17_
 
 ### 1 Title
 (1) This Act is the Layby Sales Amendment Act 2000.
