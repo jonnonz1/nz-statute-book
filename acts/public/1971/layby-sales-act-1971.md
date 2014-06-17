@@ -1,5 +1,5 @@
 # Layby Sales Act 1971
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-06-17_
 
 > An Act to reform the law relating to layby sales of certain goods
 
