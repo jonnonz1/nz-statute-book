@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-06-24_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -1920,6 +1920,16 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
   - **enforcement agency** means the chief executive of the department of State responsible for the administration of the Biosecurity Act 1993
   - **unwanted organism** has the same meaning as in section 2(1) of the Biosecurity Act 1993.
 
+### 97AA Border information supplied using JBMS must be supplied in approved form and manner
+(1) This section applies to a requirement by or under this Act to supply any border information to the Ministry (for example, to the chief executive of the department of State responsible for the administration of the Biosecurity Act 1993 in enforcing this Act in respect of new organisms).
+(2) Any person who uses the JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H of the Biosecurity Act 1993) must supply the information in a form and manner—
+  (a) for complying with the requirement by using the JBMS; and
+  (b) for the time being generally approved in writing by the chief executive of the department of State responsible for the administration of the Biosecurity Act 1993.
+(3) The approved form and manner referred to in subsection (2)—
+  (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j) of the Customs and Excise Act 1996.
+(4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
+
 ### 97B Enforcement of Act in respect of hazardous substances in place of work
 (1) The enforcement agency must ensure that the provisions of this Act are enforced in respect of hazardous substances in a place of work.
 (2) For the purpose of complying with subsection (1), the enforcement agency may appoint enforcement officers in accordance with this Act who may exercise the powers of inspectors under the Health and Safety in Employment Act 1992, and the provisions of that Act apply with all necessary modifications.
@@ -3277,6 +3287,9 @@ This Act is the Hazardous Substances and New Organisms Amendment Act 2010.
 
 ### 2 Commencement
 This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Hazardous Substances and New Organisms Act 1996.
 
 ### 34 Transitional provision for applications
 (1) This section applies to an application under section 28, 34, 38A, or 40 of the principal Act received by the Authority before the commencement of this Act.
