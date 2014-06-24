@@ -1,5 +1,5 @@
 # Food Act 1981
-_Consolidation as at 2014-06-07_
+_Consolidation as at 2014-06-24_
 
 > An Act to consolidate and amend the law relating to the sale of food
 
@@ -130,6 +130,16 @@ The Director-General must from time to time designate an employee as Director fo
     (ii) every other employee of the Ministry to whom the Director or officer is subordinate.
 (1A)
 (2) Where, by virtue of any provision of this Act, a reasonable belief in any particular state of affairs is a prerequisite for the exercise of any power by an officer or local authority inspector, it shall be sufficient if the officer or inspector exercises that power at the direction of any other officer or inspector who is superior to him and who, at the time of giving the direction, held such a belief in that state of affairs.
+
+### 8AAA Border information supplied using JBMS must be supplied in approved form and manner
+(1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
+(2) Any person who uses the JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H of the Biosecurity Act 1993) must supply the information in a form and manner—
+  (a) for complying with the requirement by using the JBMS; and
+  (b) for the time being generally approved in writing by the Director-General.
+(3) The approved form and manner referred to in subsection (2)—
+  (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j) of the Customs and Excise Act 1996.
+(4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
 
 ## Part 1A — Exemptions from Food Hygiene Regulations 1974
 
