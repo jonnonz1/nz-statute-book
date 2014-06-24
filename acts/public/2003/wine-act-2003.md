@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-06-24_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -57,14 +57,14 @@ The objects of this Act are to—
   - **Ministry** means the Ministry that has, with the authority of the Prime Minister, for the time being assumed responsibility for the administration of this Act
   - **New Zealand food standard** means a food standard issued under Part 2A of the Food Act 1981
   - **notice of recognition** means, as applicable,—
-    (a) a notice of recognition given to a recognised agency or a recognised person in accordance with section 82(1)(b); or
-    (b) a notification given to a recognised class in accordance with section 82(1)(c)(i)
+    (a) a notice of recognition given to a recognised agency or a recognised person in accordance with section 82(1)﻿(b); or
+    (b) a notification given to a recognised class in accordance with section 82(1)﻿(c)﻿(i)
   - **official assurance** has the meaning given by section 42
   - **operator** , in relation to a wine business, means the owner or other person in control of the business
   - **permissible functions and activities** means verification functions and activities and other specialist functions and activities that may be carried out by a recognised agency, recognised person, or recognised class of persons for the purposes of this Act, and includes—
     (a) verification functions and activities in relation to wine standards management plans:
     (b) other verification functions and activities in relation to export requirements:
-    (c) the provision of independent evaluations of the validity of wine standards management plans for the purposes of section 18(1)(b):
+    (c) the provision of independent evaluations of the validity of wine standards management plans for the purposes of section 18(1)﻿(b):
     (d) functions and activities in relation to export eligibility requirements
   - **place** includes any building, conveyance, moveable facility, or structure; and includes any land where wine or commodities are produced
   - **public register** means the public register of recognised agencies, recognised persons, and recognised classes maintained by the Director-General in accordance with section 82S
@@ -77,7 +77,7 @@ The objects of this Act are to—
     (a) is recognised by the Director-General under section 73 or 74; or
     (b) is a member of a recognised class, but only—
       (i) to the extent that the person carries out the specified functions and activities for which the class is recognised; and
-      (ii) while the person continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 82(1)(a)
+      (ii) while the person continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 82(1)﻿(a)
   - **recognised verifying agency** means a recognised agency whose specified functions and activities include managing and carrying out verification functions and activities in relation to wine standards management plans
   - **registered exporter** means an exporter currently registered under section 49
   - **registered wine standards management plan** means a wine standards management plan that is currently registered under section 19
@@ -85,7 +85,7 @@ The objects of this Act are to—
     (a) risks from false or misleading labelling:
     (b) risks from hazards to human health
   - **sell** has the same meaning as trade
-  - **specified functions and activities** means the permissible functions and activities that are specified by the Director-General in a notice of recognition in accordance with section 82(2)(a) as functions and activities that—
+  - **specified functions and activities** means the permissible functions and activities that are specified by the Director-General in a notice of recognition in accordance with section 82(2)﻿(a) as functions and activities that—
     (a) a recognised agency is responsible for managing and carrying out; or
     (b) a recognised person may carry out; or
     (c) persons who are members of a recognised class may carry out
@@ -295,7 +295,7 @@ A person who is required to operate under a wine standards management plan must 
   (c) the name of the recognised verifying agency that has indicated it is prepared to undertake verification functions in respect of the plan; and
   (d) such further information and other material (including declarations, where appropriate) as may be required by regulations made under this Act; and
   (e) the prescribed fee (if any).
-(1A) Despite the requirement in subsection (1)(b), the Director-General may waive or modify the requirement for an independent evaluation report where—
+(1A) Despite the requirement in subsection (1)﻿(b), the Director-General may waive or modify the requirement for an independent evaluation report where—
   (a) a wine standards management plan is fully based on a template, model, or code of practice that the Director-General considers to be valid and appropriate for the business concerned in accordance with section 8(2); or
   (b) a wine standards management plan is a multi-business wine standards management plan approved by the Director-General in accordance with section 15; or
   (c) the risks to human health are negligible and the Director-General is satisfied that the nature of the business does not require an independent evaluation report to ensure validity in terms of sections 8 and 14.
@@ -435,7 +435,7 @@ This subpart provides for—
 Standards and specifications set under this subpart may apply in respect of any class, kind, or description of wine, person or business, process or operation, equipment or other thing, premises or place, or area, and may apply regardless of whether or not a wine standards management plan is in place or is required in respect of the relevant wine, person or business, process or operation, premises or place, or area.
 
 ### 32 Application to wine products
-Standards and specifications set under this subpart may apply to wine products that are made or required to be made under a registered wine standards management plan pursuant to section 10(1)(a) or section 12 as if they were wine, and, for this purpose, in this subpart wine includes wine products.
+Standards and specifications set under this subpart may apply to wine products that are made or required to be made under a registered wine standards management plan pursuant to section 10(1)﻿(a) or section 12 as if they were wine, and, for this purpose, in this subpart wine includes wine products.
 
 ### 33 Regulations may prescribe standards
 (1) Regulations may be made under section 119, on the recommendation of the Minister, that prescribe—
@@ -510,7 +510,7 @@ The object of this subpart is to facilitate the access of wine to overseas marke
   (d) wine for consumption during transit as a passenger or crew by sea or air on a vessel or aircraft leaving New Zealand; or
   (e) of a kind that may be exempted by the Director-General in accordance with any order or regulations made under this Act.
 (2) Regulations made under section 119 may—
-  (a) exempt from all or any of the requirements of this subpart any class or description of consignments or wine or persons, having regard to the matters specified in subsection (1)(a) to (d):
+  (a) exempt from all or any of the requirements of this subpart any class or description of consignments or wine or persons, having regard to the matters specified in subsection (1)﻿(a) to (d):
   (b) authorise the Director-General to grant individual exemptions in accordance with any conditions set out in the regulations.
 (3) An exemption under this section is subject to any conditions set out in the notice or regulations.
 
@@ -648,7 +648,7 @@ Where the Director-General determines to register an applicant as an exporter, t
   (a) the Director-General may direct the exporter to suspend all export operations, or such operations as the Director-General may specify, pending a final determination as to whether the exporter should be deregistered, and may also give such directions under section 59 as appear to the Director-General to be reasonable in relation to any wine under the control of the exporter at the time the direction is given; and
   (b) any such direction takes effect from the date of the notification under subsection (2), or such later date as the Director-General specifies; and
   (c) the exporter must comply with the direction.
-(4) After considering the material (if any) supplied by a person under subsection (2)(b), the Director-General must—
+(4) After considering the material (if any) supplied by a person under subsection (2)﻿(b), the Director-General must—
   (a) make a final decision as to whether or not to remove the person from the register; and
   (b) as soon as practicable, notify the person of the decision in writing, giving reasons and the facts or assumptions on which the decision is based in the case of an unfavourable decision.
 
@@ -709,7 +709,7 @@ The Director-General may from time to time issue notices as specified in section
 (2) In a situation to which this section applies, the Director-General may, whether immediately before, at the same time as, or after taking any relevant action referred to in subsection (1),—
   (a) give directions to the relevant operator, person in charge (or person who reasonably appears to be in charge), owner of the wine, or exporter, or any of them, on the handling, storage, further processing, transport, identification, classification, reclassification, verification, condemnation, destruction, or disposal of the wine affected by the deregistration, surrender, suspension, or failure to register; and
   (b) if the directions are not complied with, undertake the appropriate directed activities himself or herself (through wine officers or other Ministry officers or employees) in relation to the affected wine.
-(3) The Director-General may recover all actual and reasonable costs of any activities undertaken under subsection (2)(b) from the person to whom the direction in question was given under subsection (2)(a) and who failed to comply with the direction.
+(3) The Director-General may recover all actual and reasonable costs of any activities undertaken under subsection (2)﻿(b) from the person to whom the direction in question was given under subsection (2)﻿(a) and who failed to comply with the direction.
 
 ### 60 Statements by Director-General
 (1) The Director-General may from time to time, for the purpose of protecting or informing the public, publish under this section statements relating to any wine.
@@ -742,7 +742,7 @@ The Director-General may delegate under section 41 of the State Sector Act 1988 
   (f) direct the operator or person in charge of the place to identify and hold any wine, substance, equipment, package, container, or other relevant thing until—
     (i) the results of tests and analysis have been assessed; or
     (ii) any lawful direction of a wine officer has been complied with.
-(2) A wine officer must return any documents or records removed under subsection (1)(b)(i) within such time as is reasonable to allow for their copying.
+(2) A wine officer must return any documents or records removed under subsection (1)﻿(b)﻿(i) within such time as is reasonable to allow for their copying.
 (2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2, 3, and 8, and sections 118 and 119) apply.
 (3) A wine officer may call on any person to assist him or her in the exercise of his or her powers under any of paragraphs (c) to (f) of subsection (1). Any such person may act only under the supervision and in accordance with the instructions of the wine officer.
 
@@ -886,7 +886,7 @@ An application for recognition under section 71, 73, or 75 must—
 
 ### 79 Proposal to refuse application to recognise agency, person, or class of persons
 (1) If the Director-General proposes to refuse an application for recognition in whole or in part, the Director-General must consult the applicant in accordance with section 82X about the proposed refusal.
-(2) The notification given to the applicant in accordance with section 82X(a)(i) must—
+(2) The notification given to the applicant in accordance with section 82X(a)﻿(i) must—
   (a) specify the grounds for proposing to refuse the application; and
   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to refuse the application.
 (3) If the Director-General finally determines to refuse the application (in whole or in part), the Director-General must, as soon as practicable, give the applicant written notice of—
@@ -934,7 +934,7 @@ An application for recognition under section 71, 73, or 75 must—
     (i) to the class as defined in the public register; and
     (ii) to each member of that class, but only—
       (A) to the extent that the member carries out the specified functions and activities for which the class is recognised; and
-      (B) while the member continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 82(1)(a); and
+      (B) while the member continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 82(1)﻿(a); and
   (b) each member of the class—
     (i) is a recognised person; and
     (ii) is subject to the duties of recognised persons set out in section 82H; and
@@ -953,7 +953,7 @@ An application for recognition under section 71, 73, or 75 must—
 
 ### 82B Duration of recognition
 (1) Recognition has effect for—
-  (a) a specified period commencing and ending on the dates stated in a notice of recognition in accordance with section 82(2)(d); or
+  (a) a specified period commencing and ending on the dates stated in a notice of recognition in accordance with section 82(2)﻿(d); or
   (b) if no period is specified, an indefinite period.
 (2) However,—
   (a) recognition ends if it is withdrawn under section 82N or 82O or surrendered under section 82Q; and
@@ -963,7 +963,7 @@ An application for recognition under section 71, 73, or 75 must—
 (1) If an agency, a person, or a class of persons is recognised for a specified period, then no later than 1 month before the end of that period—
   (a) the agency, the person, or an appropriate representative may apply to the Director-General for renewal of the recognition; or
   (b) the Director-General may renew the recognition without application if the agency, person, or class was initially recognised by the Director-General without application.
-(2) In determining whether to renew the recognition of an agency, a person, or a class of persons, the Director-General must consider the matters set out in (as applicable) section 71(2) and (3), 73(2) and (3), or 75(3)(b) and (4) unless the Director-General is satisfied that—
+(2) In determining whether to renew the recognition of an agency, a person, or a class of persons, the Director-General must consider the matters set out in (as applicable) section 71(2) and (3), 73(2) and (3), or 75(3)﻿(b) and (4) unless the Director-General is satisfied that—
   (a) either—
     (i) the circumstances of the agency, person, or class have not changed; or
     (ii) if the circumstances of the agency, person, or class have changed, those changes do not adversely affect the current recognition; and
@@ -1083,20 +1083,20 @@ A suspension under section 82J or an extension of a suspension under section 82K
   (b) the agency or person is no longer a fit and proper person to carry out the agency's or person's specified functions and activities; or
   (c) the agency or person has failed to comply with section 82G or 82H or any other applicable requirements of this Act, and that failure causes the Director-General to question the agency’s or the person’s ability to carry out the agency's or person's specified functions or activities; or
   (d) the agency or person has ceased to operate as a recognised agency or a recognised person; or
-  (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in section 82J(1)(d); or
+  (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in section 82J(1)﻿(d); or
   (f) the agency or person has failed to comply with or maintain any criteria or competencies that led to the recognition of the agency or person; or
   (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the public service listed in Schedule 1 of the State Sector Act 1988.
 (2) However, before withdrawing recognition, the Director-General must consult the agency or person in accordance with section 82X about the proposed withdrawal of recognition, unless the agency is, or is within, the Ministry or the person is within the Ministry.
-(3) The notification given to the agency or person in accordance with section 82X(a)(i) must—
+(3) The notification given to the agency or person in accordance with section 82X(a)﻿(i) must—
   (a) specify the grounds for the proposed withdrawal; and
   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to withdraw the recognition.
 
 ### 82O Withdrawal of recognition of recognised class
 (1) The Director-General may withdraw all or part of the recognition of a recognised class if the Director-General has reasonable grounds to believe that a significant proportion of the members of the class—
-  (a) have ceased to hold a qualification or meet 1 or more other membership criteria according to which the class is defined in the public register in accordance with section 82(1)(a); or
+  (a) have ceased to hold a qualification or meet 1 or more other membership criteria according to which the class is defined in the public register in accordance with section 82(1)﻿(a); or
   (b) have failed to comply with section 82H or any other applicable requirements of this Act, and that failure causes the Director-General to question the class’s ability to carry out the class's specified functions or activities.
-(2) However, before withdrawing recognition on the ground set out in subsection (1)(b), the Director-General must consult the recognised class in accordance with section 82X about the proposed withdrawal of recognition.
-(3) The notification given to the recognised class in accordance with section 82X(a)(ii) must—
+(2) However, before withdrawing recognition on the ground set out in subsection (1)﻿(b), the Director-General must consult the recognised class in accordance with section 82X about the proposed withdrawal of recognition.
+(3) The notification given to the recognised class in accordance with section 82X(a)﻿(ii) must—
   (a) specify the grounds for the proposed withdrawal; and
   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to withdraw the recognition.
 
@@ -1132,7 +1132,7 @@ A suspension under section 82J or an extension of a suspension under section 82K
 ### 82R Effective date of surrender of recognition
 A surrender takes effect on the later of—
   (a) the date specified in the notice given in accordance with section 82Q(1); or
-  (b) the date on which the Director-General records the surrender in the public register in accordance with section 82T(1)(b)(v) or removes the agency or person from the public register in accordance with section 82V(3).
+  (b) the date on which the Director-General records the surrender in the public register in accordance with section 82T(1)﻿(b)﻿(v) or removes the agency or person from the public register in accordance with section 82V(3).
 
 **Public register of recognised agencies, recognised persons, and recognised classes**
 
@@ -1170,7 +1170,7 @@ A surrender takes effect on the later of—
   (a) the date and time the suspension starts; and
   (b) the period of the suspension; and
   (c) the specified functions and activities that the suspension relates to.
-(3) If a person is recognised as both a recognised agency and a recognised person, the information referred to in subsection (1)(a)(i) and (c) to (e) must either—
+(3) If a person is recognised as both a recognised agency and a recognised person, the information referred to in subsection (1)﻿(a)﻿(i) and (c) to (e) must either—
   (a) be recorded twice, once in the recognised person part of the register, and again in the recognised agency part of the register; or
   (b) be recorded in one of those areas of the register and cross-referenced in the other area of the register.
 
@@ -1180,7 +1180,7 @@ The Director-General must—
   (b) supply to any person, on request and on payment of a reasonable charge (if any), a copy of any entries on the public register.
 
 ### 82V Removal from public register
-(1) The Director-General must, as soon as practicable, remove the name of a recognised agency, recognised person, or recognised class from the public register if the period for which the recognition is granted expires and is not extended under section 82C(3)(b) or renewed.
+(1) The Director-General must, as soon as practicable, remove the name of a recognised agency, recognised person, or recognised class from the public register if the period for which the recognition is granted expires and is not extended under section 82C(3)﻿(b) or renewed.
 (2) Subsection (3) applies if the recognition of a recognised agency, a person who is recognised under section 73, or a recognised class is—
   (a) withdrawn under section 82N or 82O; or
   (b) surrendered under section 82Q.
@@ -1307,7 +1307,7 @@ The methods by which costs may be recovered under this subpart are as follows:
   (a) any amount held in such an account that is due to be paid to the Director-General by the levy collector is to be treated as levy money held on trust for the Director-General; and
   (b) any amount so held on trust is not available for the payment of any creditor (other than the Director-General) of the levy collector, and is not liable to be attached or taken in execution at the instance of any such creditor; and
   (c) a person who ceases to be a person responsible for collecting a levy must continue to maintain the trust account until all the levy money payable to the Director-General in respect of the period during which the person was responsible for collecting the levy has been paid.
-(2) Nothing in subsection (1)(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
+(2) Nothing in subsection (1)﻿(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
 
 ### 91 Other charges not requiring to be prescribed
 (1) Nothing in this subpart or in any other provision of this Act prevents the Director-General from requiring a reasonable charge to be paid for any of the services the Ministry provides in relation to the administration of this Act, or any actual and reasonable expenses incurred in providing the services, other than services in respect of which a fee or charge or levy is prescribed under this subpart.
@@ -1332,7 +1332,7 @@ Any fee, levy, or charge that has become payable is a debt due to the Director-G
   (a) section 14 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
   (b) section 15 of that Act applies to allow the Director-General, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
   (c) section 16 of that Act applies to allow the Director-General to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
-(2) For the purposes of subsection (1)(c) of this section and section 16 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to—
+(2) For the purposes of subsection (1)﻿(c) of this section and section 16 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to—
   (a) withhold or suspend any approval under this Act, or refuse to perform any function under this Act in relation to the person in default:
   (b) withhold the registration of any exporter or wine standards management plan under this Act, or require the suspension of any relevant operations of the exporter or operator of the wine standards management plan:
   (c) withhold any official assurance:
@@ -1402,7 +1402,7 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
   (a) any wine officer; or
   (b) an assistant of a wine officer; or
   (c) any recognised agency, recognised person, or other authorised person—
-(2) A person commits an offence who, with intent to deceive, personates or pretends to be a wine officer or recognised verifying agency, or a person referred to in subsection (1)(c).
+(2) A person commits an offence who, with intent to deceive, personates or pretends to be a wine officer or recognised verifying agency, or a person referred to in subsection (1)﻿(c).
 (3) A person who commits an offence against this section is liable on conviction to a fine not exceeding—
   (a) $250,000, in the case of a body corporate; or
   (b) $50,000, in the case of an individual.
@@ -1460,7 +1460,7 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
 (4) A certificate or document to which subsection (1) applies is not admissible in evidence unless—
   (a) at least 14 days before the hearing at which the certificate or document is to be tendered, a copy is served, by or on behalf of the prosecutor, on the defendant or the defendant's agent or counsel, and that person is at the same time informed in writing that the prosecutor does not propose to call the person who signed the certificate or document as a witness at the hearing or to call evidence as to the nature of the document; and
   (b) the court has not, on the application of the defendant made not less than 7 days before the hearing, ordered, not less than 4 days before the hearing (or such lesser period as the court in the special circumstances of the case thinks fit), that the certificate or document should not be admissible as evidence in the proceedings.
-(5) The court may not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity or identity of a certificate or document.
+(5) The court may not make an order under subsection (4)﻿(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity or identity of a certificate or document.
 
 ### 106 Presumption as to authority
 (1) A return, record, transaction, form, application, or other information purporting to be completed, kept, or provided by or on behalf of a person is for the purposes of this Act to be presumed to have been completed, kept, or provided by that person unless the contrary is proved.
@@ -1518,6 +1518,16 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 A person who is required by or under section 112 to keep records or any other information must at all reasonable times—
   (a) on demand from the Director-General or any wine officer, provide access to all relevant information required to be kept under this Act in the person's possession with respect to any wine or thing subject to this Act or any associated thing; and
   (b) permit the Director-General or any wine officer to inspect and make copies of the record or information.
+
+### 113A Border information supplied using JBMS must be supplied in approved form and manner
+(1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
+(2) Any person who uses the JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H of the Biosecurity Act 1993) must supply the information in a form and manner—
+  (a) for complying with the requirement by using the JBMS; and
+  (b) for the time being generally approved in writing by the Director-General.
+(3) The approved form and manner referred to in subsection (2)—
+  (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
+(4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
 
 **Right of review**
 
@@ -1632,7 +1642,7 @@ A person who is required by or under section 112 to keep records or any other in
   (k) imposing and prescribing levies to fund industry activities relating to wine pursuant to section 111:
   (l) prescribing records, returns, or information in relation to wine or associated things that any person or class of persons may be required to keep or provide to the Director-General or any wine officer:
   (m) prescribing forms and procedures for the purposes of this Act:
-  (n) specifying matters that constitute offences for the purposes of section 103(1)(b):
+  (n) specifying matters that constitute offences for the purposes of section 103(1)﻿(b):
   (o) specifying any matters of a general nature that may be specified by the Director-General by notice under section 120:
   (p) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Regulations made under this Act may—
@@ -1664,7 +1674,7 @@ A person who is required by or under section 112 to keep records or any other in
   (o) specifying the value to be attributed to any component of a formula of a kind referred to in section 85(b) that determines fees or charges:
   (p) specifying records and other information to be kept and returns to be made by any person for the purposes of section 112.
 (2) Any notice under subsection (1) must be notified in accordance with section 116.
-(3) A notice under subsection (1)(o) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A notice under subsection (1)﻿(o) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 121 Incorporation of material by reference into regulations, notices, and orders
 (1) The following material may be incorporated by reference into any regulations, notice, or order (all referred to in this section as instruments) made or given under this Act:
@@ -1710,7 +1720,7 @@ Amendment(s) incorporated in the regulations.
 The Wine Makers Regulations 1990 (SR 1990/77) are revoked, subject to section 129.
 
 ### 129 Saving of provisions of Wine Makers Act 1981 and Wine Makers Regulations 1990 as export eligibility requirement regulations, etc
-(1) Despite sections 122 and 128, sections 25 and 26 of the Wine Makers Act 1981 and regulations 11 to 17 and forms 12 to 16 of the Schedule of the Wine Makers Regulations 1990 are deemed to continue in force as if they were regulations made under section 119(1)(d) of this Act.
+(1) Despite sections 122 and 128, sections 25 and 26 of the Wine Makers Act 1981 and regulations 11 to 17 and forms 12 to 16 of the Schedule of the Wine Makers Regulations 1990 are deemed to continue in force as if they were regulations made under section 119(1)﻿(d) of this Act.
 (2) Regulations made under section 119 may amend, revoke, or replace those sections and regulations accordingly.
 (3) Any overseas market access requirements notified or made available by the Director-General under section 26A of the Wine Makers Act 1981, and any notices given by the Director-General under that section, are deemed to have been notified or made available by the Director-General under section 41 of this Act.
 
@@ -1720,7 +1730,7 @@ The Wine Makers Regulations 1990 (SR 1990/77) are revoked, subject to section 12
 (3) In this section, transitional period means the period that commences on the date of commencement of subpart 1 of Part 2 and expires—
   (a) 3 years after that date; or
   (b) on such other date as may be specified by Order in Council made under subsection (4) or subsection (5).
-(4) The Governor-General may by Order in Council make regulations extending the transitional period provided for in subsection (3)(a) (or in subsection (5)) for a further period not exceeding 2 years. The extended transition period may apply to all wine businesses or operations or some classes only of wine businesses or operations.
+(4) The Governor-General may by Order in Council make regulations extending the transitional period provided for in subsection (3)﻿(a) (or in subsection (5)) for a further period not exceeding 2 years. The extended transition period may apply to all wine businesses or operations or some classes only of wine businesses or operations.
 (5) The Governor-General may by Order in Council, on the recommendation of the Minister after consultation in accordance with section 115, make regulations that specify a shorter transition period than that provided for in subsection (3) or subsection (4). The shorter transition period may apply to all wine businesses or operations or some classes only of wine businesses or operations.
 
 ### 131 Transitional provisions relating to exports and exporters
@@ -1728,7 +1738,7 @@ The Wine Makers Regulations 1990 (SR 1990/77) are revoked, subject to section 12
 (2) Regulations made under this Act may provide for the recognition of certificates issued under section 25 of the Wine Makers Act 1981 as equivalent to requirements for export under this Act, whether or not subject to conditions.
 
 ### 132 Transitional provisions relating to fees
-Despite section 86(1)(a), regulations under this Act may set a fee, charge, or levy that applies in the financial year commencing on 1 July 2003, even if the regulations are not made before the commencement of that year.
+Despite section 86(1)﻿(a), regulations under this Act may set a fee, charge, or levy that applies in the financial year commencing on 1 July 2003, even if the regulations are not made before the commencement of that year.
 
 ## Schedule 1 — Form of search warrant
 
