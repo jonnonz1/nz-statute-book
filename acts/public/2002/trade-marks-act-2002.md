@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-06-24_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -1542,7 +1542,7 @@ The court may, on an application by any person, make an order that—
     (i) delivering it to him or her in person; or
     (ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of a Customs computerised entry processing system, by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the relevant Customs computerised entry processing system in relation to that person.
+    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
 (3) A Customs officer to whom a document is produced for inspection may do 1 or more of the following:
   (a) inspect the document:
   (b) take extracts from the document:
@@ -1558,7 +1558,7 @@ The court may, on an application by any person, make an order that—
     (i) delivering it to him or her in person; or
     (ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of a Customs computerised entry processing system, by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the relevant Customs computerised entry processing system in relation to that person.
+    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
 
 ### 155D Customs officer may apply for production order
 (1) If a Customs officer believes on reasonable grounds that a person has in his or her possession, custody, or control, 1 or more documents that are evidence of, or may be of significant relevance to the investigation of, an offence against any of sections 120 to 124 in respect of imported goods, the Customs officer may apply to a District Court Judge for an order requiring the person to produce the documents for inspection by a Customs officer.
