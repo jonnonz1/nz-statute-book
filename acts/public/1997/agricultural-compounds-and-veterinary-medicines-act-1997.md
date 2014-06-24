@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-06-24_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -49,8 +49,8 @@ _Consolidation as at 2014-01-01_
   - **Ministry** means the Ministry that, with the authority of the Prime Minister, has for the time being assumed responsibility for the administration of this Act
   - **new organism** has the same meaning as in the Hazardous Substances and New Organisms Act 1996
   - **notice of recognition** means, as applicable,—
-    (a) a notice of recognition given to a recognised agency or a recognised person in accordance with section 44N(1)(b); or
-    (b) a notification given to a recognised class in accordance with section 44N(1)(c)(i)
+    (a) a notice of recognition given to a recognised agency or a recognised person in accordance with section 44N(1)﻿(b); or
+    (b) a notification given to a recognised class in accordance with section 44N(1)﻿(c)﻿(i)
   - **operating plan** means a plan approved under section 28(2), and includes a code of practice deemed by section 21(2) of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 to be an operating plan approved under section 28(2)
   - **permissible functions and activities** means functions and activities that may be carried out by a recognised agency, recognised person, or recognised class for the purposes of this Act
   - **pest** —
@@ -75,7 +75,7 @@ _Consolidation as at 2014-01-01_
     (a) is recognised by the Director-General under section 44E or 44F; or
     (b) is a member of a recognised class, but only—
       (i) to the extent that the person carries out the specified functions and activities for which the class is recognised; and
-      (ii) while the person continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 44N(1)(a)
+      (ii) while the person continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 44N(1)﻿(a)
   - **registered** means registered under section 21 or section 27
   - **registrant** means, in relation to a registered trade name product, the person who applied to register that product or the person to whom a registration is transferred
   - **regulations** means regulations in force under this Act
@@ -83,7 +83,7 @@ _Consolidation as at 2014-01-01_
   - **sale** includes barter, and also includes offering, exposing, or attempting to sell, or having in possession for sale, or sending or delivering for sale, or causing or allowing to be sold, offered, or exposed for sale; and also includes—
     (a) delivering or disposing of by way of gift, loan, or otherwise; and
     (b) giving or distributing, in the course of business, as a sample or otherwise, without charge
-  - **specified functions and activities** means the permissible functions and activities that are specified by the Director-General in a notice of recognition in accordance with section 44N(2)(a) as functions and activities that—
+  - **specified functions and activities** means the permissible functions and activities that are specified by the Director-General in a notice of recognition in accordance with section 44N(2)﻿(a) as functions and activities that—
     (a) a recognised agency is responsible for managing or carrying out; or
     (b) a recognised person may carry out; or
     (c) persons who are members of a recognised class may carry out
@@ -107,7 +107,7 @@ This Act binds the Crown.
 ### 4 Purpose of Act
 The purpose of this Act is to—
   (a) prevent or manage risks associated with the use of agricultural compounds, being—
-    (ai) risks to public health; and
+    (ia) risks to public health; and
     (i) risks to trade in primary produce; and
     (ii) risks to animal welfare; and
     (iii) risks to agricultural security:
@@ -123,9 +123,19 @@ The purpose of this Act is to—
   (a) directly by the Director-General when an agricultural compound is registered or exempted from the requirement to be registered; or
   (b) generally, by regulations.
 (4) The Director-General may also issue notices that set out the technical detail of how compliance with conditions imposed by regulations can be achieved.
-(5) This Act, by its subject matter, has a relationship with other Acts such as the Animal Products Act 1999, the Food Act 1981, the Wine Act 2003, the Animal Welfare Act 1999, the Biosecurity Act 1993, the Medicines Act 1981, and the Hazardous Substances and New Organisms Act 1986. Generally, the outcomes for which this Act regulates are those set under the other related Acts. For example:
+(5) This Act, by its subject matter, has a relationship with other Acts such as the Animal Products Act 1999, the Food Act 1981, the Wine Act 2003, the Animal Welfare Act 1999, the Biosecurity Act 1993, the Medicines Act 1981, and the Hazardous Substances and New Organisms Act 1996. Generally, the outcomes for which this Act regulates are those set under the other related Acts. For example:
   (a) maximum residue limits for food products are set under the Food Act 1981; while
   (b) this Act assesses and controls agricultural compounds to ensure the Food Act residue limit is not breached.
+
+### 4B Border information supplied using JBMS must be supplied in approved form and manner
+(1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
+(2) Any person who uses the JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H of the Biosecurity Act 1993) must supply the information in a form and manner—
+  (a) for complying with the requirement by using the JBMS; and
+  (b) for the time being generally approved in writing by the Director-General.
+(3) The approved form and manner referred to in subsection (2)—
+  (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
+(4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
 
 ## Part 2 — Importation, manufacture, and sale of agricultural compounds
 
@@ -156,7 +166,7 @@ No person may cause or permit any agricultural compound which is imported into N
 (4) A clearance for entry into New Zealand given under this section does not affect the provisions of any other Act.
 
 ### 7 Declaration
-The importer of any goods may, for the purposes of section 6(3)(a)(i), make a declaration in a manner determined by the Director-General to the effect that the importer will not sell or use the goods as an agricultural compound.
+The importer of any goods may, for the purposes of section 6(3)﻿(a)﻿(i), make a declaration in a manner determined by the Director-General to the effect that the importer will not sell or use the goods as an agricultural compound.
 
 ### 7A Uncleared or unauthorised goods
 (1) The powers provided for in this section apply in respect of goods that are in a transitional facility or biosecurity control area (within the meaning of the Biosecurity Act 1993) that have not been cleared in accordance with sections 5 and 6 of this Act.
@@ -173,7 +183,7 @@ The importer of any goods may, for the purposes of section 6(3)(a)(i), make a de
 ### 8 Prohibition on sale, use, manufacture, or import of agricultural compound
 (1) No person may sell within New Zealand, or use, any agricultural compound unless that agricultural compound—
   (a) is a registered trade name product; or
-  (b) is exempt from registration under section 8A; or
+  (b) is exempt from registration under section 8A.
 (2) No person may manufacture in New Zealand any agricultural compound unless that agricultural compound—
   (a) is a registered trade name product; or
   (b) is exempt from registration under section 8A; or
@@ -234,13 +244,13 @@ The importer of any goods may, for the purposes of section 6(3)(a)(i), make a de
 (2) The Director-General may request any person to provide additional information other than information protected by sections 73, 109, and 121 for the purpose of verifying any information supplied to the Director-General, by any person for the purpose of assessing the application.
 
 ### 12 Director-General to withhold information
-(1) If, in the Director-General’s opinion, any information which has been supplied to the Director-General in respect of any application may be able to be withheld under section 9(2)(b) of the Official Information Act 1982, that information must not be released to any person when an application is publicly notified.
+(1) If, in the Director-General’s opinion, any information which has been supplied to the Director-General in respect of any application may be able to be withheld under section 9(2)﻿(b) of the Official Information Act 1982, that information must not be released to any person when an application is publicly notified.
 (2) Where—the Director-General must make all reasonable efforts to contact and notify immediately the person who gave the information to the Director-General that a request to release the information has been received.
   (a) the Director-General receives a request to release any information received in respect of an application, other than information to which Part 6 applies held by the Director-General under the Official Information Act 1982; and
   (b) the information to which the request relates,—
-    (i) in the Director-General’s opinion, may be able to be withheld under section 9(2)(b) of that Act; or
+    (i) in the Director-General’s opinion, may be able to be withheld under section 9(2)﻿(b) of that Act; or
     (ii) has been classified as commercially sensitive by the person who gave the information to the Director-General,—
-(3) Where a person receives notice from the Director-General under subsection (2), that person must, within 10 working days of receipt of the notice, respond to the Director-General stating whether that person believes that the information should be withheld under section 9(2)(b) of the Official Information Act 1982 and give reasons for that person’s belief.
+(3) Where a person receives notice from the Director-General under subsection (2), that person must, within 10 working days of receipt of the notice, respond to the Director-General stating whether that person believes that the information should be withheld under section 9(2)﻿(b) of the Official Information Act 1982 and give reasons for that person’s belief.
 (4) The Director-General may release the information or withhold the information in accordance with the Official Information Act 1982 if—
   (a) the Director-General has complied with subsection (2); and
   (b) the time limit specified in subsection (3) has expired.
@@ -399,10 +409,10 @@ The Director-General must, when evaluating the risks and benefits under section 
 (3)
 (4) The register must also specify any agricultural compounds or any class or description of agricultural compounds exempted from registration by regulations made under section 75.
 (5) Every person has the right to inspect the register during the ordinary office hours of the office where the register is held.
-(6) The registrant must notify the Director-General of any change to the matters in subsection (2)(b) within 20 working days of the change taking place.
+(6) The registrant must notify the Director-General of any change to the matters in subsection (2)﻿(b) within 20 working days of the change taking place.
 
 ### 25 Certificate of registration
-(1) The Director-General, when registering any trade name product in accordance with section 21 or section 27, must issue to the applicant a certificate of registration which must specify the matters in section 24(2)(a), (b), (d), (f), and (i), and may specify the matters in section 24(2)(k).
+(1) The Director-General, when registering any trade name product in accordance with section 21 or section 27, must issue to the applicant a certificate of registration which must specify the matters in section 24(2)﻿(a), (b), (d), (f), and (i), and may specify the matters in section 24(2)﻿(k).
 (2) Where the Director-General is satisfied that a certificate of registration has been lost, destroyed, or cannot be produced, the Director-General may at any time, on application made to him or her by the registrant on a form approved by the Director-General for the purpose, issue a further certificate of registration to the registrant.
 (3) The Director-General must keep a copy of—
   (a) each certificate of registration; and
@@ -487,7 +497,7 @@ For the purposes of sections 29 and 30, new information includes, but is not lim
   (a) the reason for the cancellation; and
   (b) the date on which or time at which it commences (which may not be earlier than the date or time of notification).
 (6) If a person acting under the delegated authority of the Director-General cancels any registration under this section, the registrant may seek a review of the cancellation under section 77A.
-(7) However, if registration is cancelled under subsection (2)(a),—
+(7) However, if registration is cancelled under subsection (2)﻿(a),—
   (a) subsection (5) does not apply; and
   (b) any application for review must be provided to the Director-General under section 77A(3) within 20 working days after the date of the notice in the Gazette of the trade name product's removal from the register.
 
@@ -506,7 +516,7 @@ No compensation or damages are payable to any person for any loss whatsoever ari
   (a) may, if the registration is granted under section 21, be transferred by the registrant to any other person; or
   (b) may, if the registration is granted under section 21 or section 27, be surrendered by a registrant.
 (1A) A registrant who intends to transfer the registration to another person or to surrender the registration must notify the Director-General of that intention in the form and manner specified by the Director-General.
-(2) Where the registration is transferred under subsection (1)(a), the transfer is not valid until the Director-General has entered the name of the transferee on the register as the registrant.
+(2) Where the registration is transferred under subsection (1)﻿(a), the transfer is not valid until the Director-General has entered the name of the transferee on the register as the registrant.
 
 ### 35 Rights of registrant
 (1) The provisions of this Act do not give the registrant of a trade name product registered under section 21 the sole right to import, manufacture, sell, or use that trade name product.
@@ -601,7 +611,7 @@ In addition to any powers and functions given to the Director-General under this
 (1) On receipt of a direction under section 40 in relation to an application, the Board of Inquiry—
   (a) must notify the application in accordance with sections 13 and 14, unless the application has been notified in accordance with those sections; and
   (b) may require additional information under section 11 in relation to the application; and
-  (c) must investigate an application made under section 9 having regard to all relevant matters, including matters under sections 19 to 21 and the Minister’s reasons for giving the direction under section 39;
+  (c) must investigate an application made under section 9 having regard to all relevant matters, including matters under sections 19 to 21 and the Minister’s reasons for giving the direction under section 39; and
   (d) must investigate an application made under section 26 having regard to all relevant matters, including matters under section 27 and the Minister’s reasons for giving the direction under section 39.
 (2) The provisions of sections 17 to 23 apply with all necessary modifications to an inquiry into an application made under section 9 as if the conduct of the inquiry were the consideration of that application.
 (3) The provisions of sections 17, 18, 19(a), (ab), (b), and (c), and 27 apply with all necessary modifications to an inquiry into an application made under section 26 as if the conduct of the inquiry were the consideration of that application.
@@ -728,7 +738,7 @@ An application for recognition under section 44C, 44E, or 44G must—
 
 ### 44K Proposal to refuse application to recognise agency, person, or class of persons
 (1) If the Director-General proposes to refuse an application for recognition in whole or in part, the Director-General must consult the applicant in accordance with section 44ZM about the proposed refusal.
-(2) The notification given to the applicant in accordance with section 44ZM(a)(i) must—
+(2) The notification given to the applicant in accordance with section 44ZM(a)﻿(i) must—
   (a) specify the grounds for proposing to refuse the application; and
   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to refuse the application.
 (3) If the Director-General finally determines to refuse the application (in whole or in part), the Director-General must, as soon as practicable, give the applicant written notice of—
@@ -776,7 +786,7 @@ An application for recognition under section 44C, 44E, or 44G must—
     (i) to the class as defined in the public register; and
     (ii) to each member of that class, but only—
       (A) to the extent that the member carries out the specified functions and activities for which the class is recognised; and
-      (B) while the member continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 44N(1)(a); and
+      (B) while the member continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 44N(1)﻿(a); and
   (b) each member of the class—
     (i) is a recognised person; and
     (ii) is subject to the duties of recognised persons set out in section 44W; and
@@ -795,7 +805,7 @@ An application for recognition under section 44C, 44E, or 44G must—
 
 ### 44P Duration of recognition
 (1) Recognition has effect for—
-  (a) a specified period commencing and ending on the dates stated in a notice of recognition in accordance with section 44N(2)(d); or
+  (a) a specified period commencing and ending on the dates stated in a notice of recognition in accordance with section 44N(2)﻿(d); or
   (b) if no period is specified, an indefinite period.
 (2) However,—
   (a) recognition ends if it is withdrawn under section 44ZC or 44ZD or surrendered under section 44ZF; and
@@ -805,7 +815,7 @@ An application for recognition under section 44C, 44E, or 44G must—
 (1) If an agency, a person, or a class of persons is recognised for a specified period, then no later than 1 month before the end of that period—
   (a) the agency, the person, or an appropriate representative may apply to the Director-General for renewal of the recognition; or
   (b) the Director-General may renew the recognition without application if the agency, person, or class was initially recognised by the Director-General without application.
-(2) In determining whether to renew the recognition of an agency, a person, or a class of persons, the Director-General must consider the matters set out in (as applicable) section 44C(2) and (3), 44E(2) and (3), or 44G(3)(b) and (4) unless the Director-General is satisfied that—
+(2) In determining whether to renew the recognition of an agency, a person, or a class of persons, the Director-General must consider the matters set out in (as applicable) section 44C(2) and (3), 44E(2) and (3), or 44G(3)﻿(b) and (4) unless the Director-General is satisfied that—
   (a) either—
     (i) the circumstances of the agency, person, or class have not changed; or
     (ii) if the circumstances of the agency, person, or class have changed, those changes do not adversely affect the current recognition; and
@@ -929,20 +939,20 @@ A suspension under section 44Y or an extension of a suspension under section 44Z
   (b) the agency or person is no longer a fit and proper person to carry out the agency's or person's specified functions and activities; or
   (c) the agency or person has failed to comply with section 44V or 44W or any other applicable requirements of this Act, and that failure causes the Director-General to question the agency’s or the person’s ability to carry out the agency's or person's specified functions or activities; or
   (d) the agency or person has ceased to operate as a recognised agency or a recognised person; or
-  (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in section 44Y(1)(d); or
+  (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in section 44Y(1)﻿(d); or
   (f) the agency or person has failed to comply with or maintain any criteria or competencies that led to the recognition of the agency or person; or
   (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the public service listed in Schedule 1 of the State Sector Act 1988.
 (2) However, before withdrawing recognition, the Director-General must consult the agency or person in accordance with section 44ZM about the proposed withdrawal of recognition, unless the agency is, or is within, the Ministry or the person is within the Ministry.
-(3) The notification given to the agency or person in accordance with section 44ZM(a)(i) must—
+(3) The notification given to the agency or person in accordance with section 44ZM(a)﻿(i) must—
   (a) specify the grounds for the proposed withdrawal; and
   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to withdraw the recognition.
 
 ### 44ZD Withdrawal of recognition of recognised class
 (1) The Director-General may withdraw all or part of the recognition of a recognised class if the Director-General has reasonable grounds to believe that a significant proportion of the members of the class—
-  (a) have ceased to hold a qualification or meet 1 or more other membership criteria according to which the class is defined in the public register in accordance with section 44N(1)(a); or
+  (a) have ceased to hold a qualification or meet 1 or more other membership criteria according to which the class is defined in the public register in accordance with section 44N(1)﻿(a); or
   (b) have failed to comply with section 44W or any other applicable requirements of this Act, and that failure causes the Director-General to question the class’s ability to carry out the class's specified functions or activities.
-(2) However, before withdrawing recognition on the ground set out in subsection (1)(b), the Director-General must consult the recognised class in accordance with section 44ZM about the proposed withdrawal of recognition.
-(3) The notification given to the recognised class in accordance with section 44ZM(a)(ii) must—
+(2) However, before withdrawing recognition on the ground set out in subsection (1)﻿(b), the Director-General must consult the recognised class in accordance with section 44ZM about the proposed withdrawal of recognition.
+(3) The notification given to the recognised class in accordance with section 44ZM(a)﻿(ii) must—
   (a) specify the grounds for the proposed withdrawal; and
   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to withdraw the recognition.
 
@@ -978,7 +988,7 @@ A suspension under section 44Y or an extension of a suspension under section 44Z
 ### 44ZG Effective date of surrender of recognition
 A surrender takes effect on the later of—
   (a) the date specified in the notice given in accordance with section 44ZF(1); or
-  (b) the date on which the Director-General records the surrender in the public register in accordance with section 44ZI(1)(b)(v) or removes the agency or person from the public register in accordance with section 44ZK(3).
+  (b) the date on which the Director-General records the surrender in the public register in accordance with section 44ZI(1)﻿(b)﻿(v) or removes the agency or person from the public register in accordance with section 44ZK(3).
 
 **Public register of recognised agencies, recognised persons, and recognised classes**
 
@@ -1016,7 +1026,7 @@ A surrender takes effect on the later of—
   (a) the date and time the suspension starts; and
   (b) the period of the suspension; and
   (c) the specified functions and activities that the suspension relates to.
-(3) If a person is recognised as both a recognised agency and a recognised person, the information referred to in subsection (1)(a)(i) and (c) to (e) must either—
+(3) If a person is recognised as both a recognised agency and a recognised person, the information referred to in subsection (1)﻿(a)﻿(i) and (c) to (e) must either—
   (a) be recorded twice, once in the recognised person part of the register, and again in the recognised agency part of the register; or
   (b) be recorded in one of those areas of the register and cross-referenced in the other area of the register.
 
@@ -1026,7 +1036,7 @@ The Director-General must—
   (b) supply to any person, on request and on payment of a reasonable charge (if any), a copy of any entries on the public register.
 
 ### 44ZK Removal from public register
-(1) The Director-General must, as soon as practicable, remove the name of a recognised agency, recognised person, or recognised class from the public register if the period for which the recognition is granted expires and is not extended under section 44Q(3)(b) or renewed.
+(1) The Director-General must, as soon as practicable, remove the name of a recognised agency, recognised person, or recognised class from the public register if the period for which the recognition is granted expires and is not extended under section 44Q(3)﻿(b) or renewed.
 (2) Subsection (3) applies if the recognition of a recognised agency, a person who is recognised under section 44E, or a recognised class is—
   (a) withdrawn under section 44ZC or 44ZD; or
   (b) surrendered under section 44ZF.
@@ -1156,7 +1166,7 @@ Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies as far as applica
   (f) knowingly makes a false representation that any agricultural compound is registered as a trade name product in accordance with section 21 or section 27 or is an agricultural compound and is exempt from registration in accordance with regulations made under section 75; or
   (g) knowingly possesses any agricultural compound which has not been cleared for entry into New Zealand in accordance with section 6; or
   (h) knowingly contravenes or knowingly permits a contravention of a prohibition notice issued in accordance with section 65; or
-  (i) knowingly contravenes an order given in accordance with section 64(2)(d); or
+  (i) knowingly contravenes an order given in accordance with section 64(2)﻿(d); or
   (j) knowingly supplies false or misleading information to the Director-General or an ACVM officer under this Act; or
   (k) knowingly supplies false or misleading information in support of an application under this Act; or
   (l) knowingly withholds relevant information from an ACVM officer or person assisting an ACVM officer.
@@ -1337,7 +1347,7 @@ Where the Director-General receives an innovative agricultural compound applicat
     (iii) the Food and Agriculture Organisation:
     (iv) a regulatory agency of a WTO country:
     (v) a person or organisation, or a person or organisation within a class or classes of persons or organisations specified in regulations,—
-(2) The power to grant consent under subparagraph (i) of subsection (1)(a) may be exercised by a person other than the applicant referred to in that subparagraph if—
+(2) The power to grant consent under subparagraph (i) of subsection (1)﻿(a) may be exercised by a person other than the applicant referred to in that subparagraph if—
   (a) that applicant—
     (i) has notified the Director-General in writing that that other person may grant that consent; and
     (ii) has not notified the Director-General in writing that that person’s authority to grant that consent has been withdrawn; or
@@ -1376,7 +1386,7 @@ Where the Director-General receives an innovative agricultural compound applicat
   (he) prescribing fees, charges, or levies for the purposes of this Act in accordance with the requirements for regulations made under section 81D or 81E, including—
     (i) fees or charges for applications, renewals, or related matters under this Act (for example, for applications for registration or certificates of compliance under Part 2 or for applications for recognition under Part 3A):
     (ii) fees, charges, or levies that are payable on an ongoing basis by a person given a particular status under this Act (for example, for ongoing recognition under Part 3A):
-  (i) prescribing persons, organisations, or classes of persons or organisations for the purposes of section 74(1)(c):
+  (i) prescribing persons, organisations, or classes of persons or organisations for the purposes of section 74(1)﻿(c):
   (j) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (1A) Regulations made under this section—
   (a) may apply to all agricultural compounds or substances, any class or description of agricultural compounds or substances, or any particular agricultural compound or substance:
@@ -1384,7 +1394,7 @@ Where the Director-General receives an innovative agricultural compound applicat
 (2) Where the importer, manufacturer, seller, or user of any agricultural compound being imported into, manufactured in, sold, or used in New Zealand is required to notify the Director-General of that compound by regulations made under subsection (1), the importer, manufacturer, seller, or user must supply the prescribed information within 20 working days after the date on which the regulations come into force.
 (3) The Minister must, when recommending conditions in accordance with this section, take into account conditions imposed in any prescribed countries on the same substances, mixtures of substances, biological compounds, or class or group of substances.
 (3A) When recommending the making of regulations under this section, the Minister must have regard to the desirability of maintaining consistency between those regulations and any relevant international standards, requirements, or recommended practices.
-(4) Before recommending the making of an Order in Council under subsection (1)(d), the Minister must be satisfied that there is likely to be an adverse economic result and the agricultural compound is being sold—
+(4) Before recommending the making of an Order in Council under subsection (1)﻿(d), the Minister must be satisfied that there is likely to be an adverse economic result and the agricultural compound is being sold—
   (a) without an adequate description of the contents; or
   (b) consistently and significantly below the contents described in consumer information.
 
@@ -1408,7 +1418,7 @@ Where the Director-General receives an innovative agricultural compound applicat
   (b) the Gazette notice must specify where a copy may be inspected or obtained.
 
 ### 76 Recommendation of Order in Council
-The Minister must recommend the making of an Order in Council under section 75(1)(a) if the Minister considers—
+The Minister must recommend the making of an Order in Council under section 75(1)﻿(a) if the Minister considers—
   (a) that the likely cost of assessing and registering an agricultural compound as a trade name product is greater than the likely risks from the use of that agricultural compound without registration; or
   (b) the likely risks of that substance, mixture of substances, or biological compound if used as an agricultural compound are already adequately managed by restrictions placed on that substance, mixture of substances, or biological compound under any other Act.
 
@@ -1441,7 +1451,7 @@ The registration of any trade name product under section 21 or section 27, or th
 (8) A decision by the Director-General under this section is final, unless determined otherwise by a court of law of competent jurisdiction.
 
 ### 78 Consultation before making of Orders in Council
-(1) Before making any recommendation for the purpose of making any Order in Council under section 75 section 81D, or section 81E, the Director-General must—and the Minister must take into account the results of that consultation.
+(1) Before making any recommendation for the purpose of making any Order in Council under section 75, section 81D, or section 81E, the Director-General must—and the Minister must take into account the results of that consultation.
   (a) do everything reasonably practicable on his or her part to consult with the organisations for the time being considered by the Director-General to represent the interests of persons involved in the importation, manufacture, sale, or use of the agricultural compound or compounds who will or may be affected by any Order in Council made in accordance with the recommendation, of the proposed terms of the Order in Council; and
   (b) advise the Minister of the results of any such consultation,—
 (2) Subsection (1) does not apply in respect of any Order in Council if the Minister considers it desirable in the public interest that the Order in Council be made urgently.
@@ -1531,7 +1541,7 @@ The methods by which costs may be recovered under the cost recovery sections are
   (a) any amount held in such an account that is due to be paid to the Director-General by the levy collector is to be treated as levy money held on trust for the Director-General; and
   (b) any amount so held on trust is not available for the payment of any creditor (other than the Director-General) of the levy collector, and is not liable to be attached or taken in execution at the instance of any such creditor; and
   (c) a person who ceases to be a person responsible for collecting a levy must continue to maintain the trust account until all the levy money payable to the Director-General in respect of the period during which the person was responsible for collecting the levy has been paid.
-(2) Nothing in subsection (1)(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
+(2) Nothing in subsection (1)﻿(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
 
 ### 81G Other charges not requiring to be prescribed
 (1) Nothing in the cost recovery sections or in any other provision of this Act prevents the Director-General from requiring a reasonable charge to be paid for any of the services the Ministry provides in relation to the administration of this Act, or any actual and reasonable expenses incurred in providing the services, other than services in respect of which a fee or charge or levy is prescribed under these cost recovery sections.
@@ -1556,10 +1566,10 @@ Any fee, levy, or charge that has become payable is a debt due to the Director-G
   (a) section 14 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
   (b) section 15 of that Act applies to allow the Director-General, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
   (c) section 16 of that Act applies to allow the Director-General to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
-(2) For the purposes of subsection (1)(c) of this section and section 16 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to—
+(2) For the purposes of subsection (1)﻿(c) of this section and section 16 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to—
   (a) withhold or suspend any registration or approval under this Act, or refuse to perform any function under this Act in relation to the person in default:
   (b) withhold any certificate of compliance.
-(3) Where any registration or approval is suspended under subsection (2)(a), no person may import, manufacture, or sell a trade name product or agricultural compound under the authority of that registration or approval.
+(3) Where any registration or approval is suspended under subsection (2)﻿(a), no person may import, manufacture, or sell a trade name product or agricultural compound under the authority of that registration or approval.
 (4) Where the withholding, withdrawal, or suspension of any approval or registration under this section requires the Director-General to provide any further service, or perform any further function involved in the withholding, withdrawal, or suspension, the Director-General may recover any reasonable amount for the additional service, function, or costs as a debt due from the person in default.
 
 ### 81K Obligation to pay fee, levy, or charge not suspended by dispute
@@ -1731,7 +1741,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 21 New section 28 substituted
 (1) Amendment(s) incorporated in the Act(s).
-(2) Any code of practice approved under section 28 of the principal Act before its repeal and replacement by subsection (1) of this section, being a code requiring compliance by virtue of a condition imposed under section 23(1)(f) or any requirement of regulations made under section 75, is deemed to be an operating plan approved under section 28(2) of the principal Act until the earlier of—
+(2) Any code of practice approved under section 28 of the principal Act before its repeal and replacement by subsection (1) of this section, being a code requiring compliance by virtue of a condition imposed under section 23(1)﻿(f) or any requirement of regulations made under section 75, is deemed to be an operating plan approved under section 28(2) of the principal Act until the earlier of—
   (a) the expiry of 3 years from the commencement of this Act; or
   (b) the code’s replacement by an operating plan or other relevant requirement imposed by or under regulations made under the principal Act.
 
