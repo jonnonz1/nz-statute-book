@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2014-02-15_
+_Consolidation as at 2014-06-24_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -22,9 +22,17 @@ _Consolidation as at 2014-02-15_
   - **biofuel** means any gaseous or liquid fuel produced from biomass that can be used as a fuel for engines
   - **biofuel blend** means a product that results from blending biofuel with petrol, diesel, or other substances
   - **boat** means a vessel other than a ship
+  - **cargo aggregator** means a person who, for reward, aggregates cargo (being cargo to be carried for different people) for carriage together on a craft—
+    (a) in bulk cargo containers, or otherwise; and
+    (b) under a shared space, or other negotiated volume of cargo, arrangement with the craft's owner or operator
   - **chief executive** means the person holding office under the State Sector Act 1988 as the chief executive of the New Zealand Customs Service
   - **coastal cargo** , in relation to any ship, means goods loaded on the ship at any port in New Zealand for carriage to and unloading at any other port in New Zealand
   - **compounding** means the manufacture of spirituous liquor, (other than perfume, culinary essences, or medicinal or toilet preparations) by imparting a flavour to, or mixing a material or ingredient with, spirits by a method of which the process of distillation is part; and and have corresponding meanings
+  - **computer system** means the whole, or any part, of all or any of the 1 or more items described in the following paragraphs (each of which items includes all related input, output, processing, storage, software, or communication facilities, and stored data):
+    (a) a computer:
+    (b) 2 or more interconnected (within the meaning of subsection (4)) computers:
+    (c) any communication links between computers or to remote terminals or another device:
+    (d) 2 or more interconnected (within the meaning of subsection (4)) computers combined with any communication links between computers or to remote terminals or any other device
   - **contractor** means a person who does work for valuable consideration on or in respect of any goods at the request of any other person (otherwise than as an employee of that other person) in circumstances where that other person supplies, but retains ownership of, some or all of the material used in the work
   - **craft** includes any aircraft, ship, boat, or other machine or vessel, used or capable of being used for the carriage or transportation of persons or goods, or both, by air or water or over or under water
   - **the Customs** means the New Zealand Customs Service
@@ -134,6 +142,7 @@ _Consolidation as at 2014-02-15_
   - **internationally ticketed passenger** means a person who has an entitlement to air or sea travel for a domestic sector, being a sector included in tickets for an international journey that—
     (a) began outside New Zealand; or
     (b) began in New Zealand and is to continue outside New Zealand
+  - **Joint Border Management System** or has the meaning given in section 131A
   - **liquefied petroleum gas** means propane, propylene, butane, butylene, or isobutane; and includes a mixture consisting wholly or principally of any such substance, whether or not the mixture contains any other hydrocarbon
   - **manufacture** , in relation to goods specified in the Excise and Excise-equivalent Duties Table, means,—
     (a) if the goods are tobacco, the process of cutting, pressing, grinding, crushing, or rubbing raw or leaf tobacco, or otherwise preparing raw or leaf tobacco or manufactured or partially manufactured tobacco, and of making cigarettes whether from duty-paid or from non-duty-paid tobacco, and of putting up for use or consumption scraps, waste, chippings, stems, or deposits of tobacco resulting from processing tobacco:
@@ -190,9 +199,18 @@ _Consolidation as at 2014-02-15_
   (a) filtering the goods, diluting the goods, or blending the goods with other goods (whether the other goods are the same as, similar to, or different from, the goods):
   (b) putting the goods for the first time into a container (for example, a bag, barrel, bottle, can, cask, drum, or keg) in which they might be presented, or from which they might be dispensed, for sale to the public or any member of the public:
   (c) labelling or marking, for the first time, containers filled with the goods.
+(4) For the purposes of the definition of computer system, a computer is interconnected with another computer if it can be lawfully used to provide access to that other computer—
+  (a) with or without access information; and
+  (b) whether or not either or both computers are currently turned on; and
+  (c) whether or not access is currently occurring.
 
 ### 3 Act to bind the Crown
 Except as provided in section 4, this Act binds the Crown.
+
+### 3A Transitional and savings provisions relating to amendments to this Act
+Schedule 1AA contains transitional and savings provisions—
+  (a) relating to amendments made to this Act on the day immediately after the expiry of the period of 3 months that starts on the date on which the Customs and Excise (Border Processing—Trade Single Window and Duties) Amendment Act 2014 receives the Royal assent; and
+  (b) that affect other provisions of this Act (see section 306A).
 
 ### 4 Application of Act in certain cases
 (1) The circumstances in which and the conditions on which the powers conferred by Part 12 may be exercised in relation to—shall be prescribed by regulations, and those powers may only be exercised in the circumstances and on the conditions so prescribed.
@@ -404,11 +422,29 @@ Section 150 applies to a CASE as if the area were a Customs controlled area; and
     (ii) its voyage:
     (iii) its crew:
     (iv) its passengers:
-    (v) its cargo for discharge within New Zealand (whether commercial or non-commercial):
-    (vi) its commercial cargo not intended for discharge within New Zealand (if any):
+    (v)
+    (vi)
     (vii) the Customs place at which the craft will arrive; and
   (b) on arriving within New Zealand, proceed directly to that Customs place, unless directed elsewhere by a Customs officer.
-(2) The owner or operator of the craft referred to in subsection (1), or an agent of the owner or operator, may provide the information referred to in paragraph (a) of that subsection to the Customs on behalf of the person in charge of the craft.
+(2) The information referred to in subsection (1)(a)—
+  (a) may be provided, on behalf of the person in charge of the craft, by—
+    (i) the owner or operator of the craft referred to in subsection (1); or
+    (ii) an agent of the owner or operator; and
+  (b) must be accompanied by such supporting documents (being documents each of which is genuine, not erroneous in a material particular, and not misleading) as the chief executive may require.
+
+### 21A Inward cargo report
+(1) This section applies to cargo on a craft if the craft is—
+  (a) en route to, or has arrived in, New Zealand, from a point outside New Zealand; or
+  (b) carrying goods subject to the control of the Customs brought in that craft or any other craft from a point outside New Zealand.
+(2) Every person responsible for the carriage of the cargo on the craft must give to the Customs, before the prescribed deadline, a report on the cargo, unless a particular person of that kind is exempted from doing so because—
+  (a) that person has been advised by the chief executive that 1 or more other persons of that kind have already done so; or
+  (b) under this paragraph, and for another reason, the chief executive approves that person's being exempted from doing so.
+(3) A person is, for this section's purposes, responsible for the carriage of cargo on a craft only if the person (whether or not the person owns, or has any proprietary interest of any kind in, all or any part of the cargo) is—
+  (a) a person who is, or who is the agent of, the owner or operator of the craft; or
+  (b) a cargo aggregator who, in the course of that cargo aggregator's business, has (in or outside New Zealand) arranged for the carriage of the cargo on the craft under a shared space, or other negotiated volume of cargo, arrangement with the craft's owner or operator.
+(4) The report must contain such information relating to the cargo (being information that is genuine, not erroneous in a material particular, and not misleading) as may be prescribed, and must be given in the prescribed form and manner.
+(5) The information referred to in subsection (4) must be accompanied by such supporting documents (being documents each of which is genuine, not erroneous, and not misleading) as the chief executive may require.
+(6) Information supplied under this section is subject to, but this section does not limit, section 204A (offence relating to failing to update information supplied in advance).
 
 ### 22 Requirement to answer questions
 (1) Subsection (2) applies to—
@@ -590,10 +626,15 @@ A person preparing to board a craft for departure from New Zealand must comply w
 
 ### 34 Certificate of clearance
 Unless otherwise approved by the chief executive, before any certificate of clearance is granted to the person in charge of any craft to which section 33 applies, that person must—
-  (a) deliver to the Customs, within any time or times prescribed, an outward report in the prescribed form and manner that contains the prescribed particulars verified by declaration, and which is accompanied by any supporting documents the chief executive may require (the outward report and any supporting documents may be delivered to the Customs within any time or times after departure that is or are prescribed either generally or for a particular case or class of case); and
+  (a) deliver to the Customs, within any time or times prescribed, an advance notice of departure in the prescribed form and manner that contains the prescribed particulars verified by declaration, and which is accompanied by any supporting documents the chief executive may require (the advance notice of departure and any supporting documents may be delivered to the Customs within any time or times after departure that is or are prescribed either generally or for a particular case or class of case); and
   (b) answer any question asked by a Customs officer relating to the craft and its passengers, crew, cargo, stores, and intended voyage or journey; and
   (c) produce any other documents required by a Customs officer relating to the craft and its passengers, crew, cargo, stores, and intended voyage or journey; and
   (d) comply with all requirements in this or any other Act concerning the craft and its passengers, crew, cargo, stores, and intended voyage or journey.
+
+### 34AA Advance notice of departure may be provided by, or by agent of, owner or operator of craft
+The advance notice of departure referred to in section 34(a) may be provided, on behalf of the person in charge of the craft referred to in section 34, by—
+  (a) the owner or operator of the craft; or
+  (b) an agent of the owner or operator.
 
 ### 34A Fees and charges relating to granting certificate of clearance
 (1) The Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in granting a certificate of clearance (for example, the costs and expenses incurred by the Customs in determining whether a person in charge of a craft that is departing New Zealand has complied with the requirements stated or referred to in or imposed under section 34).
@@ -626,6 +667,20 @@ The person in charge of a craft to whom a certificate of clearance has been gran
 (3) The provisions of section 25(1A) to (1C) apply with any necessary modifications in respect of—
   (a) any authorisation given by the chief executive under subsection (2)(b); and
   (b) any departure from a place in New Zealand (other than a Customs place) in reliance on such an authorisation.
+
+### 37A Outward cargo report
+(1) This section applies to cargo on a craft if—
+  (a) the craft is to depart, or has departed, for a point outside New Zealand from a place in New Zealand; and
+  (b) the cargo is commercial or non-commercial cargo for discharge outside New Zealand.
+(2) Every person responsible for the carriage of the cargo on the craft must give to the Customs, before the prescribed deadline (which may be a time before or after the craft's departure from the point in New Zealand), a report on the cargo, unless a particular person of that kind is exempted from doing so because—
+  (a) that person has been advised by the chief executive that 1 or more other persons of that kind have already done so; or
+  (b) under this paragraph, and for another reason, the chief executive approves that person's being exempted from doing so.
+(3) A person is, for this section's purposes, responsible for the carriage of cargo on a craft only if the person (whether or not the person owns, or has any proprietary interest of any kind in, all or any part of the cargo) is—
+  (a) a person who is, or who is the agent of, the owner or operator of the craft; or
+  (b) a cargo aggregator who, in the course of that cargo aggregator's business, has (in or outside New Zealand) arranged for the carriage of the cargo on the craft under a shared space, or other negotiated volume of cargo, arrangement with the owner or operator of the craft.
+(4) The report must contain such information relating to the cargo (being information that is genuine, not erroneous in a material particular, and not misleading) as may be prescribed, and must be given in the prescribed form and manner.
+(5) The information referred to in subsection (4) must be accompanied by such supporting documents (being documents each of which is genuine, not erroneous, and not misleading) as the chief executive may require.
+(6) Information supplied under this section is subject to, but this section does not limit, section 204A (offence relating to failing to update information supplied in advance).
 
 ### 38 Regulations relating to stores for craft
 Without limiting the power to make regulations conferred by section 286, the Governor-General may from time to time, by Order in Council, make regulations prescribing—
@@ -917,6 +972,28 @@ Except as otherwise permitted by the chief executive, no goods subject to the co
 ### 48 Temporary removal of goods from Customs controlled area
 (1) Subject to section 156 and to any other provisions of this Act, the chief executive may permit goods to be temporarily removed from a Customs controlled area without payment of duty for such time and in such quantities as he or she may approve.
 (2) Goods so removed remain subject to the control of the Customs and are deemed to be within the Customs controlled area from which they were so removed, and the provisions of this Act continue to apply to them accordingly.
+
+**Transhipments: international or domestic**
+
+### 48A Transhipment requests
+(1) This section applies to cargo on a craft if—
+  (a) the craft—
+    (i) is en route to, or has arrived in, New Zealand, from a point outside New Zealand; or
+    (ii) is carrying goods subject to the control of the Customs brought in that craft or any other craft from a point outside New Zealand; or
+    (iii) is to depart, or is departing, for a point outside New Zealand from a place in New Zealand; and
+  (b) the cargo is to be or has been imported, but is to be or is being transhipped, either—
+    (i) internationally, in that it is not to be entered for home consumption in New Zealand, but is destined for, and will remain subject to the control of the Customs at all times until it reaches, a point outside New Zealand; or
+    (ii) domestically, in that it is not to be entered for home consumption at the (Customs or other) place to which the craft proceeded directly on arriving within New Zealand, but is destined for, and will remain subject to the control of the Customs at all times until it reaches, and is entered for home consumption at, some other (Customs or other) place within New Zealand.
+(2) Any person may, before the prescribed deadline, make to the chief executive a transhipment request in respect of the cargo.
+(3) The request must—
+  (a) contain such information relating to the cargo (being information that is genuine, not erroneous in a material particular, and not misleading) as may be prescribed; and
+  (b) be made in the prescribed form and manner; and
+  (c) be accompanied by such supporting documents (being documents each of which is genuine, not erroneous, and not misleading) as the chief executive may require.
+(4) Information supplied under this section is subject to, but this section does not limit, section 204A (offence relating to failing to update information supplied in advance).
+(5) The chief executive must as soon as is reasonably practicable agree to or decline each transhipment request made.
+(6) A transhipment request agreed to by the chief executive authorises (under section 47(1)(a)) removal of the cargo from a Customs controlled area, for the transhipment purposes, and on the conditions (if any), the chief executive specifies when agreeing to the request.
+(7) However, a transhipment request agreed to by the chief executive does not limit or affect enactments in or under other Acts that apply to the cargo (for example, enactments in or under the Biosecurity Act 1993 on uncleared goods).
+(8) A person who is dissatisfied with a decision of the chief executive under subsection (4) may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
 
 **Exportation of goods**
 
@@ -1467,7 +1544,11 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 (1) At any time during the second financial year, or the third financial year, that follows the financial year in which any current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending the Excise and Excise-equivalent Duties Table.
 (2) In this section,—
   - **financial year** means the 12 months ending on the close of 30 June or any other date determined for the purposes of this section by the Minister of Finance and notified in the Gazette
-  - **motor spirits** means motor spirit and fuels containing motor spirit specified in excise item numbers 99.75.05F, 99.75.23D, 99.75.29C, 99.75.37D, 99.75.51K, 99.75.59E, 99.75.73L, 99.75.81A, and 99.75.93E and Tariff items 2207.20.23, 2207.20.35, 2710.19.13, 2710.19.15, 2710.19.21, 2710.19.25, 2710.19.27, 2710.19.39, 2710.19.64, 2710.19.70, 3824.90.87, 3824.90.93, and 3824.90.97 set out in the Excise and Excise-equivalent Duties Table.
+  - **motor spirits** means any 1 or more fuels that are—
+    (a) motor spirit, or fuels that contain motor spirit; or
+    (b) specified in the Excise and Excise-equivalent Duties Table under (or under later items or numbers that, with or without modification, replace, or correspond to) any of the following numbers or items (specified in that Table on the commencement of this definition):
+      (i) excise item numbers 99.75.05F, 99.75.23D, 99.75.29C, 99.75.37D, 99.75.51K, 99.75.59E, 99.75.73L, 99.75.81A, and 99.75.93E; and
+      (ii) Tariff items 2207.20.23, 2207.20.35, 2710.12.15, 2710.12.17, 2710.12.19, 2710.12.23, 2710.12.25, 2710.12.29, 2710.19.34, 2710.19.42, 3824.90.87, 3824.90.93, and 3826.00.20.
 
 ### 80 Certain Orders in Council subject to confirmation
 (1) This section applies to the following Orders in Council:
@@ -1484,9 +1565,10 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 
 ### 81 Power of Governor-General in Council to suspend, remit, refund, or create exemptions from excise duties and excise-equivalent duties on goods supplied to certain organisations and their members
 (1) The Governor-General may from time to time, by Order in Council, suspend, order the remission or refund of, or create exemptions from, excise duty and excise-equivalent duties in respect of goods or classes of goods manufactured in New Zealand or imported into New Zealand that are—
-  (a) supplied solely for the use of such organisations, expeditions, or other bodies as may be approved by the Minister and as may, from time to time, be established or temporarily based in New Zealand under an agreement or arrangement entered into by or on behalf of the Government of New Zealand with the Government of any other country or with the United Nations; or
+  (a) supplied solely for the use of such organisations, expeditions, or other bodies as may be approved by the chief executive and as may, from time to time, be established or temporarily based in New Zealand under an agreement or arrangement entered into by or on behalf of the Government of New Zealand with the Government of any other country or with the United Nations; or
   (b) supplied solely for the use of persons temporarily resident in New Zealand for the purpose of serving as a member of any such approved organisation, expedition, or other body.
 (2) The chief executive may at any time impose such conditions as he or she thinks fit in respect of goods or a class of goods to which an Order in Council made for the purposes of this section relates.
+(3) An approval that was given by the Minister under subsection (1)(a) (as in force before the commencement of this subsection) and that was in force immediately before that commencement continues in force after that commencement as if it had been given (and may be amended, revoked, or revoked and replaced) by the chief executive under subsection (1)(a) (as in force after that commencement).
 
 **Miscellaneous duty provisions**
 
@@ -1764,8 +1846,14 @@ The liability of a person under a provision of this Act for the payment of duty 
   (e) goods subject to excise duty in the Cook Islands or Niue, unless such duty has been paid on them as if they had not been exported.
 
 ### 109 Reimportation of goods exported
-(1) Subject to subsection (2), goods exported from New Zealand may, in such cases and under such conditions as may from time to time be approved by the chief executive, be admitted free of duty, or at such rate of duty as may be determined by the chief executive, not exceeding the duty that would be payable on the goods if imported for the first time.
-(2) This section applies to goods which, when reimported, are in substantially the same condition as when exported.
+(1) This section applies to goods only if the goods—
+  (a) have been exported from New Zealand, and are to be or have been reimported into New Zealand; and
+  (b) when reimported into New Zealand, are to be or are in substantially the same condition as when exported from New Zealand.
+(2) The goods may, in any cases, and under any conditions, the chief executive from time to time approves, be readmitted—
+  (a) free of duty; or
+  (b) at a rate or amount of duty the chief executive determines and that does not exceed the greater of the following:
+    (i) the rate or amount of duty that would be payable on the goods if imported for the first time:
+    (ii) the rate or amount of drawback of duty allowed under section 117 when the goods were (last) exported.
 
 ### 110 Importer, etc, leaving New Zealand
 (1) If the chief executive has reasonable cause to believe that an importer, exporter, or licensee is about to leave New Zealand before duty owing by the importer, exporter, or licensee, as the case may be, becomes payable under this Act, the chief executive may, by notice in writing, require the importer, exporter, or licensee to pay the duty on such date that is earlier than the date on which the duty becomes payable as the chief executive fixes and notifies to the importer, exporter, or licensee.
@@ -1844,11 +1932,16 @@ Money refunded by the Customs in error of fact or law is recoverable by action a
 (8) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the Dumping and Countervailing Duties Act 1988.
 (9) This section does not apply to any goods that are, by regulations made under the Tariff Act 1988, declared to be goods to which this section does not apply.
 
-### 118 Regulations may prescribe minimum duty collectable or refundable and minimum drawback allowable
-Without limiting the power to make regulations conferred by section 286, regulations made under that section may prescribe—
+### 118 Regulations may prescribe minimum duty collectable, value of goods below which duty need not be collected, minimum duty refundable, and minimum drawback allowable
+(1) Without limiting the power to make regulations conferred by section 286, regulations made under that section may prescribe—
   (a) an amount of duty below which that duty need not be collected, and the circumstances in which that duty need not be collected; and
+  (ab) the value of goods below which duty need not be collected, how that value must be determined (despite anything to the contrary in this Act and, in particular, in the definition of Customs value or value in section 2(1), and in sections 60, 61, 63(6)(a), and 229(1)(a), and Schedule 2), and the circumstances in which that duty need not be collected; and
   (b) the minimum amount of duty refundable on goods, and the circumstances in which duty below the prescribed amount shall not be refunded; and
   (c) the minimum amount of drawback of duty allowable on goods, and the circumstances in which drawback below the prescribed amount will not be allowed.
+(2) Regulations made under section 286 and prescribing all or any of the matters specified in subsection (1)(a) or (ab) of this section may be made only on the Minister's recommendation.
+(3) Before making a recommendation under subsection (2), the Minister must be satisfied that the persons that the Minister considers are representative of interests likely to be substantially affected by the proposed regulations have been consulted about the proposed regulations to the extent that is reasonably practicable having regard to the circumstances of the case.
+(4) For the purposes of subsection (3), the Minister may take into account any relevant consultation undertaken by or on behalf of the Minister before that subsection comes into force.
+(5) A failure to comply with subsection (3) does not affect the validity of any regulations of the kind described in subsection (2).
 
 ## Part 9 — Customs rulings
 
@@ -2031,60 +2124,115 @@ A person is not liable to the imposition of a penalty under section 128A, if—
   (f) the period between the date of lodgement of the entry of the goods and the date on which the error or omission was first identified exceeds 4 years; or
   (g) the provisions of section 127 apply.
 
-## Part 11 — Customs computerised entry processing systems
+## Part 11 — Joint Border Management System (JBMS)
 
-### 131 Access to Customs computerised entry processing systems
-No person shall transmit to, or receive information from, a Customs computerised entry processing system unless that person is an individual who is registered by the chief executive as a user of that Customs computerised entry processing system.
+### 131A Joint Border Management System (JBMS) defined
+Joint Border Management System or JBMS, in this Act, unless the context otherwise requires, means an integrated border management computer system that—
+  (a) is designed for the collection, storage, and use of border information (as defined in section 282D) by—
+    (i) the Ministry (as defined in section 282D); and
+    (ii) the Customs; and
+  (b) enables entities to transmit information to it, and receive information from it, through systems that include, or may include, a system called Trade Single Window.
 
-### 132 Application to be registered user
-(1) An individual who wishes to be registered as a user of a Customs computerised entry processing system may apply in writing to the chief executive in the prescribed form and shall provide such information in relation to the application as is prescribed.
-(2) The chief executive may require an applicant for registration to provide either or both of the following:
+### 131 Access generally restricted to registered users
+An entity must not access, transmit information to, or receive information from, the JBMS, unless that entity is—
+  (a) a registered JBMS user (acting through a representative, if the entity is not an individual ordinarily resident in New Zealand); or
+  (b) otherwise authorised by or on behalf of the chief executive to do so.
+
+### 132 Application to be registered JBMS user
+(1) Any entity that wants to be a registered JBMS user may send the chief executive an application to be a registered JBMS user.
+(2) The entity may be an individual, a body corporate (whether incorporated in or outside New Zealand), or an unincorporated body of persons but, if the entity is not an individual ordinarily resident in New Zealand, the entity must nominate 1 or more individuals ordinarily resident in New Zealand to be the entity's representative or representatives.
+(3) The application must be written and in the prescribed form.
+(4) The applicant entity must provide, with and in relation to the application, the information prescribed.
+(5) The chief executive may require the applicant entity to provide either or both of the following:
   (a) any additional information the chief executive considers necessary for the purposes of the application:
-  (b) evidence of his or her competence in any area the chief executive considers relevant to the application (for example, tariff classification).
-(3) The chief executive may—
-  (a) grant the application subject to such conditions as the chief executive thinks fit; or
-  (b) refuse the application.
-(4) The chief executive shall give notice in writing to the applicant of his or her decision.
-(5) An applicant who is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
+  (b) evidence of the entity's competence in any area the chief executive considers relevant to the application.
+(6) The chief executive may, if the applicant entity is a body corporate or an unincorporated body, require additional information or evidence of that kind (including, without limitation, evidence of the competence in any area the chief executive considers relevant of all or any individuals who are representatives or other agents or employees of the entity) from all or any individuals (however described) concerned in the entity's management.
 
-### 133 Registered users to be allocated unique user identifier
-(1) An individual who is registered as a user of a Customs computerised entry processing system shall be allocated a unique user identifier for use in relation to that Customs computerised entry processing system by the chief executive in such form or of such a nature as the chief executive may determine.
-(2) The unique user identifier allocated pursuant to subsection (1) shall be used by the registered user for the purpose of transmitting information to or receiving information from that Customs computerised entry processing system.
-(3) The chief executive may, by notice in writing, impose conditions on a particular registered user, or on registered users generally, relating to the use and security of unique user identifiers.
+### 132A Chief executive must determine application
+(1) The chief executive must determine an application to be a registered JBMS user by—
+  (a) granting the application (subject to any conditions the chief executive thinks fit), if satisfied the applicant entity (including every nominated representative, if any, of the entity) is (subject to those conditions, if any) fit and proper to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user; or
+  (b) refusing the application, in every other case.
+(2) In determining whether the applicant entity (including every nominated representative, if any, of the entity) is fit and proper to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user, the chief executive may consider all relevant information available to the chief executive, and may take into account all or any of the following that apply to, or in respect of, the applicant entity (including every nominated representative, if any, of the entity):
+  (a) a serious or repeated failure by or on behalf of the applicant entity to comply with requirements in or under this Act, the Biosecurity Act 1993, the Hazardous Substances and New Organisms Act 1996, or any other enactment that regulates the importation of goods (or with requirements in or under any corresponding overseas laws):
+  (b) convictions for any border-related offence, dishonesty offence, or drugs offence (as those terms are defined by section 132B, or for any corresponding offence against overseas laws) entered against all or any individuals who are, or are representatives or other agents or employees of, or are concerned in the management of, the applicant entity:
+  (c) other relevant grounds (including, without limitation, all other relevant grounds prescribed) for considering that the applicant entity (or, as the case requires, a or the nominated representative of the entity) is (in any way, and to any extent) likely to fail to comply with requirements in or under this Act, the Biosecurity Act 1993, or both (including, without limitation, the requirement to comply with conditions imposed under subsection (1)(a)).
+(3) Conditions imposed under subsection (1)(a) may, without limitation, relate to the purposes for which, or otherwise to the extent to which, the applicant entity (including every nominated representative, if any, of the entity) can access, transmit information to, or receive information from, the JBMS.
+(4) The chief executive must give written notice of his or her decision to the applicant entity.
+(5) An applicant entity that is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
 
-### 134 Use of unique user identifier
-(1) Where information is transmitted to a Customs computerised entry processing system using a unique user identifier issued to a registered user by the chief executive for that purpose, the transmission of that information shall, in the absence of proof to the contrary, be sufficient evidence that the registered user to whom the unique user identifier has been issued has transmitted that information.
-(2) Where a unique user identifier is used by an individual who is not entitled to use it, subsection (1) does not apply if the registered user to whom the unique user identifier was issued has, prior to the unauthorised use of that unique user identifier, notified the Customs that the unique user identifier is no longer secure.
+### 132B Border-related offence, dishonesty offence, and drugs offence defined
+(1) Border-related offence, in sections 132A(2)(b) and 135(1)(c), means an offence against this Act, or against an enactment in, or made under, any of the following enactments:
+  (a) Agricultural Compounds and Veterinary Medicines Act 1997:
+  (b) Animal Products Act 1999:
+  (c) Biosecurity Act 1993:
+  (d) Food Act 1981:
+  (e) Hazardous Substances and New Organisms Act 1996:
+  (f) Human Assisted Reproductive Technology Act 2004:
+  (g) Immigration Advisers Licensing Act 2007:
+  (h) Immigration Act 2009:
+  (i) Passports Act 1992:
+  (j) Protected Objects Act 1975:
+  (k) Terrorism Suppression Act 2002:
+  (l) Trade in Endangered Species Act 1989:
+  (m) regulations under the United Nations Act 1946:
+  (n) Wine Act 2003:
+  (o) any other enactment involving the unlawful entry into, or unlawful removal from, New Zealand, of a person, matter, or thing.
+(2) Dishonesty offence, in sections 132A(2)(b) and 135(1)(c), means an offence described in Part 10 of the Crimes Act 1961 except for an offence described in sections 267 to 271 of that Act.
+(3) Drugs offence, in sections 132A(2)(b) and 135(1)(c), means an offence against an enactment in, or made under, the Misuse of Drugs Act 1975.
 
-### 134A Conditions may be imposed on registered users
+### 133 Assignment, use, and security of unique user identifier
+(1) An applicant entity that is registered as a JBMS user may be assigned by the chief executive a unique user identifier—
+  (a) for use by the entity, or for use on its behalf by a or the nominated representative of it, in relation to the JBMS; and
+  (b) in a form, or of a nature, that the chief executive determines.
+(2) Subsection (1)—
+  (a) authorises the Director-General (as defined in section 282D) to assign to an applicant entity that is an individual, or to an individual who is a or the nominated representative of an applicant entity that is not an individual, and to use for the purposes of the JBMS, a unique identifier that, to the Director-General's knowledge, has been assigned to that individual by another agency (namely by the Customs, under subsection (1)); and so
+  (b) overrides information privacy principle 12(2) of (in section 6 of, and as contemplated by section 7(4) of) the Privacy Act 1993.
+(3) A unique user identifier assigned under subsection (1) must be used by or on behalf of the registered JBMS user for the purpose of transmitting information to or receiving information from the JBMS.
+(4) The chief executive may, by notice in writing, impose conditions on a particular registered JBMS user (including every nominated representative, if any, of the user), or on registered JBMS users generally (including every nominated representative, if any, of the users), relating to the use and security of unique user identifiers.
+
+### 134 Use of unique user identifier presumed secure
+(1) If information is transmitted to the JBMS using a unique user identifier issued to a registered JBMS user by the chief executive for that purpose, the transmission of that information is, in the absence of proof to the contrary, sufficient evidence that the registered JBMS user or nominated representative of a registered JBMS user to whom the unique user identifier has been issued has transmitted that information.
+(2) If a unique user identifier is used by an individual who is not entitled to use it, subsection (1) does not apply if the registered JBMS user or nominated representative of a registered JBMS user to whom the unique user identifier was issued has, before the unauthorised use of that unique user identifier, notified the Customs that the unique user identifier is no longer secure.
+
+### 134A Conditions on registration of registered users
 (1) The chief executive may impose a condition on the registration of either or both of the following:
-  (a) a specified registered user or class of registered users:
-  (b) all registered users.
-(2) A condition imposed under subsection (1) must be notified in writing to the 1 or more registered users concerned and must, unless the 1 or more registered users concerned appeals under subsection (3), be complied with on or before—
-  (a) the 20th working day after the date of notification of the imposition of the condition on the registered user's registration; or
+  (a) a specified registered JBMS user or class of registered JBMS users (including every nominated representative, if any, of the user or users):
+  (b) all registered JBMS users (including their nominated representative or representatives, if any).
+(2) Conditions imposed under subsection (1) may, without limitation, relate to the purposes for which, or otherwise to the extent to which, the applicant entity (including every nominated representative, if any, of the entity) can access, transmit information to, or receive information from, the JBMS.
+(3) A condition imposed under subsection (1) must be notified in writing to each registered JBMS user concerned and must, unless the registered JBMS user appeals under subsection (4), be complied with on or before—
+  (a) the 20th working day after the date of notification of the imposition of the condition on the registered JBMS user's registration; or
   (b) a later date specified by the chief executive.
-(3) A registered user who is dissatisfied with the imposition of a condition on his or her user registration under subsection (1) may appeal in writing to the Customs Appeal Authority within 20 working days after the date of notification of the imposition of the condition on the registered user's registration.
-(4) If the Customs Appeal Authority is of the view that the imposition of the condition under subsection (1) was reasonable in the circumstances the registered user must comply with the condition on or before—
+(4) A registered JBMS user that is dissatisfied with the imposition under subsection (1) of a condition on that registered JBMS user's registration may appeal in writing to the Customs Appeal Authority within 20 working days after the date of notification of the imposition of the condition on the registered JBMS user's registration.
+(5) If the Customs Appeal Authority is of the view that the imposition under subsection (1) of the condition was reasonable in the circumstances, the registered JBMS user must comply with the condition on or before—
   (a) the 10th working day after the date of notification of the Authority's decision; or
   (b) a later date specified by the Customs Appeal Authority.
 
-### 135 Suspension or cancellation of registration of registered user
-(1) The chief executive may by written notice to a registered user (which must state grounds for the cancellation) cancel that user's registration if satisfied that the user—
-  (a) has failed to comply with a condition imposed by the chief executive under section 132(3) or section 133(3); or
-  (b) has failed to comply with a condition imposed by the chief executive under section 134A(1) within the time frame specified in that section; or
-  (c) has been convicted of—
-    (i) an offence against this Act or the Misuse of Drugs Act 1975; or
-    (ii) a crime involving dishonesty (as defined in section 2 of the Crimes Act 1961); or
-  (d) is, on 1 or more prescribed grounds, unfit to continue to be a registered user.
-(1A) Despite subsection (1), the chief executive may by written notice to a registered user (which must state grounds for the suspension) suspend that user's registration until a date or event specified in the notice if satisfied that the user's registration should not be cancelled, but should instead be suspended until that date or event, because the user—
-  (a) has failed to comply with a condition imposed by the chief executive under section 132(3) or 133(3); or
-  (b) has failed to comply with a condition imposed by the chief executive under section 134A(1) within the time frame specified in that section.
-(1B) The date or event specified in the notice under subsection (1A) may, but need not, be the user's compliance with a condition imposed by the chief executive under section 132(3), 133(3), or 134A(1).
-(2) If the person whose registration is suspended or cancelled is dissatisfied with the decision of the chief executive under this section, that person may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
+### 134B Border information supplied using JBMS must be supplied in approved form and manner
+(1) This section applies to a requirement by or under this Act to supply to the Customs any border information (as defined in section 282D).
+(2) Any person who uses the JBMS to comply with the requirement (including, without limitation, by supplying the information to the Ministry, or to an appointed agency, in accordance with section 282G or 282K) must supply the information in a form and manner—
+  (a) for complying with the requirement by using the JBMS; and
+  (b) for the time being generally approved in writing by the chief executive.
+(3) The approved form and manner referred to in subsection (2)—
+  (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j).
 
-### 136 Customs to keep records of transmissions
-(1) The Customs must keep a record of every transmission sent to or received from a registered user using a Customs computerised entry processing system.
-(2) The record described in subsection (1) must be kept for a period of 7 years from the date of the sending of or the receipt of the transmission, or for such other period as may be prescribed.
+### 135 Cancellation or suspension of registration
+(1) The chief executive may by written notice to a registered JBMS user (which must state grounds for the cancellation) cancel that registered JBMS user's registration if satisfied that the user (or, as the case requires, a or the nominated representative of the user)—
+  (a) has failed to comply with a condition imposed by the chief executive under section 132A(1)(a) or 133(4); or
+  (b) has failed to comply with a condition imposed by the chief executive under section 134A(1) within the applicable time frame specified in section 134A(3) and (4); or
+  (c) has been convicted of any border-related offence, dishonesty offence, or drugs offence (as those terms are defined by section 132B); or
+  (d) is, on 1 or more prescribed grounds, unfit to continue to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user.
+(2) The chief executive may (despite subsection (1)) by written notice to a registered JBMS user (which must state grounds for the suspension) suspend that registered JBMS user's registration until a date or event specified in the notice if satisfied that the registered JBMS user's registration should not be cancelled, but should instead be suspended until that date or event, because the user (or, as the case requires, a or the nominated representative of the user)—
+  (a) has failed to comply with a condition imposed by the chief executive under section 132A(1)(a) or 133(4); or
+  (b) has failed to comply with a condition imposed by the chief executive under section 134A(1) within the applicable time frame specified in section 134A(3) and (4).
+(3) The date or event specified in the notice under subsection (2) may, but need not, be the date of the event that is or, as the case may be, the event that is, the user's (or, as the case requires, the nominated representative's) compliance with a condition imposed by the chief executive under section 132A(1)(a), 133(4), or 134A(1).
+(4) An entity dissatisfied with a decision of the chief executive under this section to cancel or suspend that entity's registration as a JBMS user may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
+
+### 136 Customs must keep records of transmissions
+(1) The Customs must keep a record of every transmission using the JBMS sent to, or received from, a registered JBMS user (including, without limitation, by way of a or the nominated representative of the user).
+(2) The record described in subsection (1) must be kept for—
+  (a) 7 years starting on the day after the date of the sending, or as the case requires the receipt, of the transmission; or
+  (b) any other period prescribed.
 
 ## Part 12 — Powers of Customs officers
 
@@ -2762,25 +2910,25 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
   (c) the processing of craft arriving in or departing from New Zealand or the loading or unloading of goods onto or from such craft,—
 (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000.
 
-### 182 Unauthorised access to or improper use of Customs computerised entry processing system
+### 182 Unauthorised access to or improper use of JBMS
 (1) Every person commits an offence who,—
-  (a) knowingly and without lawful authority by any means gains access to or attempts to gain access to any Customs computerised entry processing system; or
-  (b) having lawful access to any Customs computerised entry processing system, knowingly uses or discloses information obtained from such a computer system for a purpose that is not authorised; or
-  (c) knowing that he or she is not authorised to do so, receives information obtained from any Customs computerised entry processing system, and uses, discloses, publishes, or otherwise disseminates such information.
+  (a) knowingly and without lawful authority by any means gains access to or attempts to gain access to the JBMS; or
+  (b) having lawful access to the JBMS, knowingly uses or discloses information obtained from the JBMS for a purpose that is not authorised; or
+  (c) knowing that he or she is not authorised to do so, receives information obtained from the JBMS, and uses, discloses, publishes, or otherwise disseminates such information.
 (2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 2 years or to a fine not exceeding $15,000:
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
-### 183 Interference with Customs computerised entry processing system
+### 183 Interference with JBMS
 (1) Every person commits an offence who—
-  (a) by any means knowingly falsifies any record or information stored in any Customs computerised entry processing system; or
-  (b) knowingly damages or impairs any Customs computerised entry processing system; or
-  (c) knowingly damages or impairs any duplicate tape or disc or other medium on which any information obtained from a Customs computerised entry processing system is held or stored otherwise than with the permission of the chief executive.
+  (a) by any means knowingly falsifies any record or information stored in the JBMS; or
+  (b) knowingly damages or impairs the JBMS; or
+  (c) knowingly damages or impairs any computer system on which any information obtained from the JBMS is held or stored otherwise than with the permission of the chief executive.
 (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $25,000.
 
 ### 184 Offences in relation to security of, or unauthorised use of, unique user identifiers
-(1) A registered user of a Customs computerised entry processing system who fails to comply with or acts in contravention of any condition imposed by the chief executive relating to the security of that registered user's unique user identifier commits an offence.
-(2) A person who,—to authenticate a transmission of information to the Customs computerised entry processing system commits an offence.
+(1) A registered user of the JBMS who fails to comply with or acts in contravention of any condition imposed by the chief executive relating to the security of that registered user's unique user identifier commits an offence.
+(2) A person who,—to authenticate a transmission of information to the JBMS commits an offence.
   (a) not being a registered user, uses a unique user identifier; or
   (b) being a registered user, uses the unique user identifier of any other registered user,—
 (3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $5,000.
@@ -2837,10 +2985,12 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
 
 ### 191 Offences in relation to arrival of craft
 (1) Every person commits an offence who,—
-  (a) being the person in charge of any craft, fails to comply with any of the following requirements in section 21(1) (which relates to advice of arrival):
+  (a) being the person in charge of any craft, fails to comply with any of the following requirements in section 21 (which relates to advice of arrival):
     (i) to give advance notice of any or all of the matters prescribed; or
     (ii) to give advance notice in the form and manner approved in writing by the chief executive; or
     (iii) to give advance notice within the time prescribed; or
+    (iiia) to ensure that information referred to in section 21(1)(a) is accompanied by the supporting documents required under section 21(2)(b); or
+    (iiib) to ensure that each supporting document that, as required under section 21(2)(b), accompanies information referred to in section 21(1)(a), is genuine, not erroneous in a material particular, and not misleading; or
     (iv) to proceed to a Customs place; or
     (v) to proceed as directed by a Customs officer:
   (b) being the person in charge of, or the owner of, or a member of the crew of, or a passenger on, any craft,—
@@ -2870,11 +3020,22 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $15,000.
 
+### 192A Offences in relation to inward cargo report
+(1) A person commits an offence if the person fails to comply with any 1 or more or all of the following requirements in section 21A (which relates to inward cargo reports):
+  (a) to give to the Customs before the prescribed deadline a report on the cargo:
+  (b) to give to the Customs a report containing such information relating to the cargo (being information that is genuine, not erroneous in a material particular, and not misleading) as may be prescribed:
+  (c) to give a report to the Customs in the prescribed form and manner:
+  (d) to ensure that information referred to in section 21A(4) is accompanied by the supporting documents required under section 21A(5):
+  (e) to ensure that each supporting document that, as required under section 21A(5), accompanies information referred to in section 21A(4) is genuine, not erroneous, and not misleading.
+(2) Every person who commits an offence against this section is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $5,000:
+  (b) in the case of a body corporate, to a fine not exceeding $15,000.
+
 ### 193 Offences in relation to departure of craft
 (1) Every person commits an offence who,—
   (a) being the person in charge of any craft, contravenes section 33 (which relates to clearance of craft):
   (b) being the person in charge of any craft,—
-    (i) fails to comply with section 34(a) (which relates to outward reports); or
+    (i) fails to comply with section 34(a) (which relates to advance notices of departure); or
     (ii) refuses to answer any question put to that person by a Customs officer under section 34(b) or knowingly gives a false answer to the question; or
     (iii) fails to produce any documents required by a Customs officer under section 34(c):
   (c) being a person in charge of or a member of the crew, of any craft, fails to comply with section 35 (which relates to boarding of outward craft):
@@ -2883,10 +3044,10 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
 (2) Every person who commits an offence against paragraph (a), (c), or (e) of subsection (1) is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $15,000.
 (3) Every person who commits an offence against paragraphs (b) or (d) of subsection (1) is liable on conviction to a fine not exceeding $5,000.
 
-### 194 Offences in relation to outward report
+### 194 Offences in relation to advance notice of departure
 (1) If—the person in charge of the craft and the owner of the craft each commits an offence.
-  (a) an outward report delivered pursuant to section 34 is erroneous, misleading, or defective in any material particular; or
-  (b) any document delivered in support of the report is not genuine or is erroneous or misleading,—
+  (a) an advance notice of departure delivered pursuant to section 34 is erroneous, misleading, or defective in any material particular; or
+  (b) any document delivered in support of the advance notice is not genuine or is erroneous or misleading,—
 (2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; and
   (b) in the case of a body corporate, to a fine not exceeding $15,000.
@@ -2895,8 +3056,28 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
 (1) Every person commits an offence who fails to comply with any requirement imposed on that person by or under section 32A(3).
 (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000.
 
+### 194B Offences in relation to outward cargo report
+(1) A person commits an offence if the person fails to comply with any 1 or more or all of the following requirements in section 37A (which relates to outward cargo reports):
+  (a) to give to the Customs before the prescribed deadline a report on the cargo:
+  (b) to give to the Customs a report containing such information relating to the cargo (being information that is genuine, not erroneous in a material particular, and not misleading) as may be prescribed:
+  (c) to give a report to the Customs in the prescribed form and manner:
+  (d) to ensure that information referred to in section 37A(4) is accompanied by the supporting documents required under section 37A(5):
+  (e) to ensure that each supporting document that, as required under section 37A(5), accompanies information referred to in section 37A(4) is genuine, not erroneous, and not misleading.
+(2) Every person who commits an offence against this section is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $5,000:
+  (b) in the case of a body corporate, to a fine not exceeding $15,000.
+
+### 194C Offences in relation to transhipment requests
+(1) A person who makes, or purports to make, a transhipment request, commits an offence if the person fails to comply with any 1 or more or all of the following requirements in section 48A:
+  (a) to make the request to the chief executive before the prescribed deadline:
+  (b) to ensure that the request contains such information relating to the cargo (being information that is genuine, not erroneous in a material particular, and not misleading) as may be prescribed:
+  (c) to ensure that each supporting document that, as required under section 48A(3)(c), accompanies a transhipment request is genuine, not erroneous, and not misleading.
+(2) Every person who commits an offence against this section is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $5,000:
+  (b) in the case of a body corporate, to a fine not exceeding $15,000.
+
 ### 195 Defences
-It is a defence to any prosecution for an offence against sections 191 to 194A if the defendant proves—
+It is a defence to any prosecution for an offence against sections 191 to 194C if the defendant proves—
   (a) that, in any case where it is alleged that anything required to be done was not done, the defendant took all reasonable steps to ensure that it was done; or
   (b) that, in any case where it is alleged that anything unlawful was done, the defendant took all reasonable steps to ensure that it was not done.
 
@@ -3004,6 +3185,20 @@ It is a defence to any prosecution for an offence against sections 191 to 194A i
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000; or
   (c) in either case, to a fine of an amount not exceeding 3 times the value of the goods to which the offence relates.
+
+### 204A Offence relating to failure to update information supplied in advance
+(1) This section applies to a person, and to information that the person supplies to the chief executive, the Customs, or a Customs officer, if—
+  (a) the person supplies the information for the purposes of an enactment in or made under this Act, and before the deadline prescribed by or under this Act for doing so; and
+  (b) the information becomes erroneous, or misleading in a material particular, after it is supplied but before that deadline and before the person is notified of any decision made in response to the information.
+(2) The person commits an offence if the person—
+  (a) knows, or ought reasonably to know, that the information has become erroneous or misleading in a material particular; and
+  (b) fails to take all reasonable steps to supply to the chief executive, the Customs, or a Customs officer, as soon as is reasonably practicable, replacement information that is not erroneous, or misleading in a material particular.
+(3) Every person who commits an offence against subsection (2), and in doing so under subsection (2)(a) ought reasonably to have known that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $1,000; or
+  (b) in the case of a body corporate, to a fine not exceeding $5,000.
+(4) Every person who commits an offence against subsection (2), and in doing so under subsection (2)(a) knew that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $10,000; or
+  (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
 ### 205 Offences in relation to records
 (1) Every person commits an offence who fails to keep records that are required to be kept by section 95.
@@ -4026,18 +4221,6 @@ In sections 280K and 280L, unless the context otherwise requires,—
 ### 282D Definitions
 In this section and sections 282E to 282L, unless the context otherwise requires,—
   - **access** , in relation to any information, means search, inspect, copy, process, analyse, manipulate, receive, or otherwise make use of the information in a way that is consistent with the purpose for which access has been allowed
-  - **biosecurity-related border management function** means—
-    (a) any function, duty, or power imposed or conferred on the Ministry by or under Part 3 of the Biosecurity Act 1993:
-    (b) any other function, duty, or power imposed or conferred on the Ministry by or under the Biosecurity Act 1993 that is necessary—
-      (i) to achieve the purpose of Part 3 of that Act; or
-      (ii) for the administration of Part 3 of that Act:
-    (c) any function, duty, or power imposed or conferred on the Ministry by or under any of the following Acts in relation to the effective management of risks associated with the movement of goods, persons, or craft into or out of New Zealand:
-      (i) the Food Act 1981:
-      (ii) the Hazardous Substances and New Organisms Act 1996:
-      (iii) the Agricultural Compounds and Veterinary Medicines Act 1997:
-      (iv) the Animal Products Act 1999:
-      (v) the Wine Act 2003:
-      (vi) any other Act specified by Order in Council made under section 165A of the Biosecurity Act 1993
   - **border information** —
     (a) means information—
       (i) that is required to be supplied to the Ministry or the Customs by or under this Act or Part 3 of the Biosecurity Act 1993, or both, for a border protection purpose; or
@@ -4048,35 +4231,37 @@ In this section and sections 282E to 282L, unless the context otherwise requires
       (iii) importers or exporters; and
     (c) also includes data or information that is derived from, or related to, any information referred to in paragraphs (a) and (b) or any analysis of that information
   - **border protection purpose** means any lawful purpose relating to, or connected with, the performance or exercise of either or both of the following, as the case may be:
-    (a) a biosecurity-related border management function:
+    (a) a Ministry-related border management function:
     (b) a customs-related border management function
-  - **computer system** —
-    (a) means—
-      (i) a computer; or
-      (ii) 2 or more interconnected computers; or
-      (iii) any communication links between computers or from computers to remote terminals or other devices; or
-      (iv) 2 or more interconnected computers combined with any communication links between computers or from computers to remote terminals or other devices; and
-    (b) includes any part of the items described in paragraph (a) and all related input, output, processing, storage, software, or communication facilities, and stored information
   - **Customs** includes the chief executive and any Customs officer
   - **customs-related border management function** means any function, duty, or power imposed or conferred on the Customs by or under this Act that is necessary—
     (a) to achieve the purpose of this Act; or
     (b) for the administration of this Act
   - **Director-General** means the chief executive of the Ministry
-  - **Joint Border Management System** or means an integrated border management computer system that—
-    (a) is designed for the collection, storage, and use of border information by the Ministry and the Customs; and
-    (b) is administered by, and under the control of, the Customs
   - **Ministry** —
     (a) means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the Biosecurity Act 1993; and
     (b) includes—
       (i) the Director-General; and
-      (ii) any inspector appointed under section 103 of the Biosecurity Act 1993.
+      (ii) any inspector appointed under section 103 of the Biosecurity Act 1993
+  - **Ministry-related border management function** means—
+    (a) any function, duty, or power imposed or conferred on the Ministry by or under Part 3 of the Biosecurity Act 1993:
+    (b) any other function, duty, or power imposed or conferred on the Ministry by or under the Biosecurity Act 1993 that is necessary—
+      (i) to achieve the purpose of Part 3 of that Act; or
+      (ii) for the administration of Part 3 of that Act:
+    (c) any function, duty, or power imposed or conferred on the Ministry by or under any of the following Acts in relation to the effective management of risks associated with the movement of goods, persons, or craft into or out of New Zealand:
+      (i) the Food Act 1981:
+      (ii) the Hazardous Substances and New Organisms Act 1996:
+      (iii) the Agricultural Compounds and Veterinary Medicines Act 1997:
+      (iv) the Animal Products Act 1999:
+      (v) the Wine Act 2003:
+      (vi) any other Act specified by Order in Council made under section 165A of the Biosecurity Act 1993.
 
 **Interim arrangements for information sharing**
 
 ### 282E Purpose of sections 282F to 282H
-The purpose of sections 282F to 282H is to support certain interim information-sharing measures (relating to joint border management initiatives between the Ministry and the Customs) that are required to be in place until the JBMS becomes operational by allowing—
+The purpose of sections 282F to 282H is to support certain interim information-sharing measures (relating to joint border management initiatives between the Ministry and the Customs) that are required to be in place until the JBMS becomes fully operational by allowing—
   (a) the Customs to collect or store any border information:
-  (b) the Ministry to access that border information for a biosecurity-related border management function.
+  (b) the Ministry to access that border information for a Ministry-related border management function.
 
 ### 282F Interim collection of border information
 (1) The Customs may—
@@ -4110,9 +4295,17 @@ The purpose of sections 282F to 282H is to support certain interim information-s
 (1) The following expire, or must be taken to have expired, on 1 July 2015 or on a later date appointed by the Governor-General by Order in Council made on the recommendation of the Minister:
   (a) sections 282E to 282H:
   (b) any agreement made under section 282H.
-(2) The Minister may recommend the making of an Order in Council under subsection (1) only if he or she is satisfied, after consulting the Minister for Biosecurity, that a later date is necessary because of a delay in the implementation of the JBMS.
+(1A) A date later than 1 July 2015 appointed by an Order in Council under subsection (1) may, before that date, be replaced by another date later than 1 July 2015 appointed by a later Order in Council under subsection (1).
+(2) The Minister may recommend the making of an Order in Council under subsection (1) only if he or she is satisfied, after consulting the Minister for Biosecurity, that a later date is necessary because of a delay in the full operationalisation of the JBMS.
 
 **Information sharing for joint border management**
+
+### 282JAA Application of sections 282J to 282L
+(1) Sections 282J to 282L apply to border information only on and after the date of expiry of the interim arrangements for information sharing (as that date of expiry is provided in section 282I(1)).
+(2) The interim arrangements for information sharing are the arrangements under all or any of the following:
+  (a) sections 282E to 282H (and any agreements under section 282H) of this Act; and
+  (b) sections 41B to 41E (and any agreements under section 41E) of the Biosecurity Act 1993.
+(3) On that date of expiry (as provided in section 282I(1)), sections 282E to 282I, and the cross-heading above section 282E, are repealed, and all orders (if any) under section 282I(2) are revoked.
 
 ### 282J Collection of border information
 (1) The Customs may—
@@ -4145,25 +4338,25 @@ Without limiting any other obligation imposed on the chief executive to give not
   (d) by leaving it at the company's registered office; or
   (e) by posting it to the company's registered office or delivering it to a box at a document exchange which the company is using at the time; or
   (f) by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the company's registered office or its head office or principal place of business; or
-  (g) where an individual who is a director, or an employee, or an agent of the company is a registered user of a Customs computerised entry processing system and uses the system for the purposes of the business of the company, by transmitting it by electronic means to the registered user at the company's registered office or at its head office or principal place of business or otherwise in accordance with the normal procedure of operation of the relevant Customs computerised entry processing system in relation to that registered user in respect of the business of the company.
+  (g) where an individual who is a director, or an employee, or an agent of the company is a registered user of the JBMS and uses the JBMS for the purposes of the business of the company, by transmitting it by electronic means to the registered user at the company's registered office or at its head office or principal place of business or otherwise in accordance with the normal procedure of operation of the JBMS in relation to that registered user in respect of the business of the company.
 (2) A notice by the chief executive or an officer of Customs to an overseas company may be given,—
   (a) by delivery to a person named in the overseas register as a director of the overseas company and who is resident in New Zealand; or
   (b) by delivery to a person named in the overseas register as being authorised to accept service in New Zealand of documents on behalf of the overseas company; or
   (c) by delivery to an employee of the overseas company at the overseas company's place of business in New Zealand or, if the overseas company has more than 1 place of business in New Zealand, at the overseas company's principal place of business in New Zealand; or
   (d) by posting it to the address of the overseas company's principal place of business in New Zealand or delivering it to a box at a document exchange which the overseas company is using at the time; or
   (e) by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal place of business in New Zealand of the overseas company; or
-  (f) where an individual who is a director, or an employee, or an agent of the overseas company is a registered user of a Customs computerised entry processing system and uses the system for the purposes of the business of the overseas company, by transmitting it by electronic means to the registered user at the principal place of business in New Zealand of the overseas company or otherwise in accordance with the normal procedure of operation of the relevant Customs computerised entry processing system in relation to that registered user in respect of the business of the overseas company.
+  (f) where an individual who is a director, or an employee, or an agent of the overseas company is a registered user of the JBMS and uses the JBMS for the purposes of the business of the overseas company, by transmitting it by electronic means to the registered user at the principal place of business in New Zealand of the overseas company or otherwise in accordance with the normal procedure of operation of the JBMS in relation to that registered user in respect of the business of the overseas company.
 (3) A notice by the chief executive or an officer of Customs to a body corporate, other than a company or an overseas company, may be given,—
   (a) by delivery to a person who is a principal officer of the body corporate; or
   (b) by delivery to an employee of the body corporate at the principal office or principal place of business of the body corporate; or
   (c) by posting it to the address of the principal office of the body corporate or delivering it to a box at a document exchange which the body corporate is using at the time; or
   (d) by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal office or principal place of business of the body corporate; or
-  (e) where an individual who is an employee or an agent of the body corporate is a registered user of a Customs computerised entry processing system and uses the system for the purposes of the business of the body corporate, by transmitting it by electronic means to the registered user at the principal office or principal place of business of the body corporate or otherwise in accordance with the normal procedure of operation of the relevant Customs computerised entry processing system in relation to that registered user in respect of the business of the body corporate.
+  (e) where an individual who is an employee or an agent of the body corporate is a registered user of the JBMS and uses the JBMS for the purposes of the business of the body corporate, by transmitting it by electronic means to the registered user at the principal office or principal place of business of the body corporate or otherwise in accordance with the normal procedure of operation of the JBMS in relation to that registered user in respect of the business of the body corporate.
 (4) A notice by the chief executive or an officer of Customs to an individual may be given,—
   (a) by delivery to that person; or
   (b) by posting it to that person's address or delivering it to a box at a document exchange which that person is using at the time; or
   (c) by sending it by facsimile machine to a telephone number used by that person for the transmission of documents by facsimile; or
-  (d) where the individual is a registered user of a Customs computerised entry processing system, by transmitting it by electronic means to that individual in accordance with the normal procedure of operation of the relevant Customs computerised entry processing system in relation to that individual.
+  (d) where the individual is a registered user of the JBMS, by transmitting it by electronic means to that individual in accordance with the normal procedure of operation of the JBMS in relation to that individual.
 
 ### 285 Additional provision relating to notices under this Act
 (1) For the purposes of this Act, a notice is deemed to be given when it is deemed to be received in accordance with subsection (2).
@@ -4176,7 +4369,7 @@ Without limiting any other obligation imposed on the chief executive to give not
     (ii) all postal or delivery charges were paid; and
     (iii) the document was posted or was delivered to the document exchange:
   (e) in proving the giving of notice by facsimile machine, it is sufficient to prove that the document was properly transmitted by facsimile machine to the person concerned:
-  (f) in proving the transmitting of notice by electronic means, it is sufficient to prove that the notice was properly transmitted by electronic means in accordance with the normal operating procedure of the relevant Customs computerised entry processing system.
+  (f) in proving the transmitting of notice by electronic means, it is sufficient to prove that the notice was properly transmitted by electronic means in accordance with the normal operating procedure of the JBMS.
 (3) A notice is not to be deemed to have been given to a person if the person proves that, through no fault on the person's part, the notice was not received within the time specified or was not received at all.
 
 ### 286 Regulations
@@ -4184,19 +4377,22 @@ Without limiting any other obligation imposed on the chief executive to give not
   (a) prescribing purposes in respect of which areas used for those purposes are or are not required to be licensed as Customs controlled areas; and prescribing circumstances in respect of which areas used in any or all of those circumstances are—
     (i) exempted from the requirement to be licensed as a Customs controlled area (whether or not the exemption is on terms and conditions set by the chief executive):
     (ii) required to be licensed as a Customs controlled area:
-  (b) prescribing the form and content of, and the procedure to be followed in making, an application for an area to be licensed as a Customs controlled area:
-  (ba) prescribing the form and content of, and the procedure to be followed in making, an application for an area to be licensed as a CASE:
+  (b)
+  (ba)
   (c) prescribing the circumstances in which and the period or periods of time for which no charges shall be made by the licensee of a Customs controlled area for the reception or storage of imported goods:
   (d) prescribing the content of the notice required to be given to the Customs by the person in charge of a craft under section 21, and prescribing the period of advance notice required to be given for the purposes of that section:
-  (e) prescribing the time within which inward reports must be delivered under this Act:
+  (da) prescribing the deadline before which inward cargo reports must (under section 21A(2)) be given to the Customs under this Act:
+  (db) prescribing the deadline before which outward cargo reports must (under section 37A(2)) be given to the Customs under this Act:
+  (e) prescribing the time within which inward reports must (under section 26(2)(a)) be delivered under this Act:
   (f) prescribing the persons or classes of persons who are exempted from the requirements of sections 28, 29, 30, and 32:
   (g) prescribing the craft or classes of craft that are exempt from the application of section 33 or section 37:
-  (ga) prescribing the time within which outward reports required by section 34 must be delivered to the Customs:
+  (ga) prescribing the time within which advance notices of departure required by section 34 must be delivered to the Customs:
   (gb) prescribing, for the purposes of paragraph (e) of the definition of person concerned in the movement of goods, persons, or craft in section 38A, persons, or classes of persons, involved in the carriage, handling, or transportation of goods, or persons, or both, from New Zealand to a point outside New Zealand, or from a point outside New Zealand to New Zealand, for commercial purposes:
   (gc) prescribing the form and manner in which the Customs must be given access to information under section 38D or section 38E or both:
   (h) prescribing the time within which goods to which section 39(1) applies must be entered:
   (i) prescribing the time within which goods must be claimed for the purposes of section 39(4)(b):
   (j) prescribing the circumstances in which goods subject to the control of the Customs may be unloaded:
+  (ja) prescribing the deadline before which transhipment requests must (under section 48A(2)) be made to the Customs under this Act:
   (k) prescribing the time within which goods to which section 49(1) applies must be entered:
   (l) prescribing the method by which the chief executive shall notify the rates of exchange of foreign currency to New Zealand currency:
   (m) prescribing the time within which goods to which section 70 applies must be entered, the time within which excise duty owing must be paid, and the manner in which the volume of alcohol is to be specified on entry:
@@ -4211,9 +4407,12 @@ Without limiting any other obligation imposed on the chief executive to give not
   (u) prescribing the times within which Customs rulings must be made by the chief executive, which time shall, in the case of a ruling described in section 119(1)(c), not exceed 150 days after the requirements specified in section 120(2) have been met:
   (v) providing for the manner of taking, use, and disposal of samples of goods taken by Customs officers for the purpose of section 151:
   (w) prescribing the kinds of securities that may be taken under section 156:
-  (x) prescribing the form of application for registration as a user of a Customs computerised entry processing system, and the information to be provided by the applicant:
-  (xa) prescribing, for the purposes of section 135(1)(d), 1 or more other grounds on which a registered user may be considered unfit to continue to be a registered user:
-  (y) prescribing the period for which records of transmissions to or from a Customs computerised entry processing system shall be kept by the Customs:
+  (x)
+  (xa)
+  (y)
+  (ya) prescribing, for the purposes of section 132A(2)(c), 1 or more other relevant grounds for considering that an applicant entity is likely to fail to comply with requirements in or under this Act, the Biosecurity Act 1993, or both:
+  (yb) prescribing, for the purposes of section 135(1)(d), 1 or more other grounds on which a registered JBMS user (or, as the case requires, a or the nominated representative of a registered JBMS user) may be considered unfit to continue to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user:
+  (yc) prescribing for the purposes of section 136(2)(b) a period other than that specified in section 136(2)(a) for which records of transmissions to or from the JBMS must be kept by the Customs:
   (z) prescribing the documents that a Customs officer may require and the form of declaration to be completed under section 147(2):
   (aa)
   (bb) prescribing the procedure to be followed in the making of applications to Customs Appeal Authorities and in the conduct of appeals by Customs Appeal Authorities:
@@ -4259,8 +4458,8 @@ Without limiting any other obligation imposed on the chief executive to give not
   (c) take the results of the consultation into account.
 
 ### 286B Regulations made under section 286A to be confirmed
-(1) Any regulations made under section 286A and laid before the House of Representatives in accordance with the Legislation Act 2012 expire on the close of 31 December in the calendar year following the calendar year during which they were laid, except to the extent that they are expressly validated and confirmed by an Act of Parliament passed before that date.
-(2) The validity of any regulations made under section 286A is not affected merely because of the repeal of an Act of Parliament validating and confirming them.
+(1) Any regulations made under section 286A and laid before the House of Representatives in accordance with the Legislation Act 2012 expire on the close of 31 December in the calendar year following the calendar year during which they were laid, except to the extent that they are expressly confirmed by an Act of Parliament passed before that date.
+(2) The validity of any regulations made under section 286A is not affected merely because of the repeal of an Act of Parliament confirming them.
 
 ### 287 Regulations for fees, charges, and expenses
 (1) Without limiting the power to make regulations conferred by any other section of this Act, but subject to the provisions of this Act, the Governor-General may from time to time, by Order in Council, make regulations—
@@ -4317,23 +4516,43 @@ An amendment to, or replacement of, provisions incorporated under section 287A h
 
 ### 288 Chief executive may make rules for certain purposes
 (1) The chief executive may from time to time make rules for all or any of the following purposes:
-  (a) prescribing the form and content of, and the particulars to be verified by declaration in, inward reports or outward reports required to be delivered under this Act and the manner in which those reports must be delivered to the Customs:
+  (aaa) prescribing the form and content of, and the procedure to be followed in making, an application for an area to be licensed as a Customs controlled area:
+  (aab) prescribing the form and content of, and the procedure to be followed in making, an application for an area to be licensed as a CASE:
+  (a) prescribing the form and content of, and the particulars to be verified by declaration in, inward reports or advance notices of departure required to be delivered under this Act and the manner in which those reports must be delivered to the Customs:
+  (aa) prescribing the form and manner in which an inward cargo report under section 21A must be given:
   (b)
   (c) prescribing the form, or forms, of certificates of clearance to be issued under this Act:
+  (ca) prescribing the form and manner in which an outward cargo report under section 37A must be given:
   (d) prescribing the form and manner in which goods to which section 39(1) applies must be entered, and the particulars to be provided in the entry, and the form of any declaration to be made in the entry:
+  (da) prescribing the form and manner in which a transhipment request under section 48A must be made:
   (e) prescribing the form and manner in which goods to which section 49(1) applies must be entered, and the particulars to be provided in the entry, and the form of any declaration to be made in the entry:
   (f) prescribing the form and manner in which goods to which section 70 applies must be entered, and the particulars to be provided in the entry, and the form of any declaration to be made in the entry:
   (g) prescribing the manner in which the volume of alcohol in an alcoholic beverage is to be ascertained for the purposes of this Act:
   (h) prescribing the form of application for a Customs ruling:
+  (ha) prescribing the form of application for registration as a JBMS user, and the information to be provided by the applicant:
   (i) prescribing the form and manner in which, and the time within which, the following goods must be reported to the Customs:
     (i) goods exempted from the requirements of section 39(1) by regulations made under section 40(c):
     (ii) goods deemed to be entered for the purposes of section 39(1) by regulations made under section 40(d):
     (iii) goods exempted from the requirements of section 49(1) by regulations made under section 50(a):
-    (iv) goods deemed to be entered for the purposes of section 49(1) by regulations made under section 50(b).
+    (iv) goods deemed to be entered for the purposes of section 49(1) by regulations made under section 50(b):
+  (j) setting out, for the information of registered JBMS users, the form and manner for the time being generally approved in writing under a border management function Act (as defined in subsection (1A)) for complying with a requirement by or under that Act to supply any border information to the Customs or to the Ministry by using the JBMS.
+(1A) Border management function Act, in this section, means an Act that is—
+  (a) this Act (see section 134B(3)(b) of this Act); or
+  (b) the Biosecurity Act 1993 (see section 7E(3)(b) of that Act); or
+  (c) an Act that is specified by regulations under section 165A of the Biosecurity Act 1993 to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1) of that Act (see section 7E(3)(b) of that Act); or
+  (d) the Agricultural Compounds and Veterinary Medicines Act 1997 (see section 4B(3)(b) of that Act); or
+  (e) the Animal Products Act 1999 (see section 6A(3)(b) of that Act); or
+  (f) the Food Act 1981 (see section 8AAA(3)(b) of that Act); or
+  (g) the Hazardous Substances and New Organisms Act 1996 (see section 97AA(3)(b) of that Act); or
+  (h) the Wine Act 2003 (see section 113A(3)(b) of that Act).
 (2) The power to prescribe forms under this section includes the power to prescribe electronic message formats to be used for the electronic transmission of data to or between computers.
+(2A) No rule under subsection (1)(j) setting out the form and manner prescribed by or under a border management function Act (as defined in subsection (1A)) can be made unless that rule has been developed by following a process—
+  (a) agreed in writing between the chief executive and the chief executive of the department of State for the time being responsible for that Act's administration; and
+  (b) for the purpose of developing all, or any specified, proposed rules of that kind; and
+  (c) promptly after it is agreed or amended, revoked, or revoked and replaced, notified via an Internet site that is, so far as practicable, publicly available free of charge.
 (3) Every rule made under this section shall be signed by the chief executive.
 (4) The power of the chief executive to make rules under this section shall not be delegated to any other person.
-(5) Every rule made under paragraph (a), (b), (c), (g), (h), or (i) of subsection (1) shall be published in the Gazette.
+(5) Every rule made under any paragraph (except paragraph (d), (e), or (f)) of subsection (1) shall be published in the Gazette.
 (6) Where any rule is made under paragraph (d), (e), or (f) of subsection (1), the chief executive shall arrange for the publication in the Gazette of a notice indicating that the rule has been made.
 (7) Where any rule is published or notified in the Gazette in accordance with subsections (5) and (6), there shall also be included a notice showing a place at which copies of the rules made under subsection (1) are available for inspection free of charge and for purchase.
 (8) The chief executive shall make copies of the rules available—
@@ -4457,6 +4676,9 @@ Not later than 40 working days after the commencement of this Act the owner or o
 ### 306 Power to amend Schedule 3 before this Act comes into force
 [Repealed]
 
+### 306A Transitional and savings provisions relating to amendments to this Act
+The transitional and savings provisions set out in Schedule 1AA, which relate to amendments to this Act that come into force on the day immediately after the expiry of the period of 3 months that starts on the date on which the Customs and Excise (Border Processing—Trade Single Window and Duties) Amendment Act 2014 receives the Royal assent, have effect for the purposes of this Act.
+
 **Amendment to Goods and Services Tax Act 1985**
 
 ### 307 Zero-rating—duty-free goods
@@ -4470,6 +4692,25 @@ Not later than 40 working days after the commencement of this Act the owner or o
 
 ### 309 New concession reference inserted
 [Repealed]
+
+## Schedule 1AA — Transitional and savings provisions relating to amendments to this Act
+
+### 1 Changeover defined for purposes of clauses 2 and 3
+Changeover, in clauses 2 and 3, means the beginning of the day immediately after the expiry of the period of 3 months that starts on the date on which the Customs and Excise (Border Processing—Trade Single Window and Duties) Amendment Act 2014 receives the Royal assent.
+
+### 2 Transfer of registered users of Customs computerised entry processing system
+(1) This subclause applies to an individual who, immediately before the changeover, is registered as a user of a Customs computerised entry processing system.
+(2) An individual to whom subclause (1) applies—
+  (a) has, after the changeover, deemed registration as a JBMS user under section 132 (as in force after the changeover); and
+  (b) must as soon as practicable after the changeover be assigned a unique user identifier for use in relation to the JBMS under section 133 (as in force after the changeover).
+(3) The deemed registration under subclause (2)(a) is subject to conditions under sections 132A(1)(a), 133(4), and 134A(1) (as in force after the changeover) the same as the conditions (if any) to which the individual was, immediately before the changeover, subject under sections 132(2), 133, or 134A(1) (as in force before the changeover), and may be cancelled or suspended under section 135 (as in force on and after the changeover).
+(4) The conditions referred to in subclause (3) may be amended, revoked, or revoked and replaced under sections 132A(1)(a), 133(4), and 134A(1) (as in force after the changeover).
+
+### 3 Applications to be registered user of Customs computerised entry processing system
+(1) This subclause applies to an application that is—
+  (a) made under section 132 (as in force before the changeover); and
+  (b) not withdrawn or finally determined before the changeover.
+(2) An application to which subclause (1) applies must be treated as an application under section 132 (as in force after the changeover) to be a registered JBMS user.
 
 ## Schedule 1 — Prohibited imports
 
