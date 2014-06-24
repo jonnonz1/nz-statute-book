@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-06-24_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -125,8 +125,8 @@ The object of this Act is to—
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the Ministry of Agriculture and Forestry or such other Ministry as has, with the authority of the Prime Minister, for the time being assumed responsibility for the administration of this Act
   - **notice of recognition** means, as applicable,—
-    (a) a notice of recognition given to a recognised agency or a recognised person in accordance with section 112(1)(b); or
-    (b) a notification given to a recognised class in accordance with section 112(1)(c)(i)
+    (a) a notice of recognition given to a recognised agency or a recognised person in accordance with section 112(1)⁠(b); or
+    (b) a notification given to a recognised class in accordance with section 112(1)⁠(c)⁠(i)
   - **official assessor** means a person appointed as an official assessor under section 79
   - **official assurance** has the meaning given by section 61(2)
   - **operator** , in relation to an animal product business, means the owner or other person in control of the business
@@ -134,7 +134,7 @@ The object of this Act is to—
   - **permissible functions and activities** means verification functions and activities and other specialist functions and activities that may be carried out by a recognised agency, recognised person, or recognised class of persons for the purposes of this Act, and includes—
     (a) verification functions and activities in relation to risk management programmes:
     (b) other verification functions and activities in relation to regulated control schemes and export requirements:
-    (c) the provision of independent evaluations of the validity of risk management programmes for the purposes of section 20(2)(b)
+    (c) the provision of independent evaluations of the validity of risk management programmes for the purposes of section 20(2)⁠(b)
   - **place** includes any building, conveyance, craft, fishing vessel, or structure; and includes any land, water, or other area where animals or animal material are produced or may be present
   - **primary processor** means a person who, for reward (otherwise than as an employee) or for purposes of trade,—but does not include hunters within the meaning of paragraph (b) of the definition of primary producer
     (a) slaughters and dresses mammals or birds; or
@@ -167,7 +167,7 @@ The object of this Act is to—
     (a) is recognised by the Director-General under section 103 or 104; or
     (b) is a member of a recognised class, but only—
       (i) to the extent that the person carries out the specified functions and activities for which the class is recognised; and
-      (ii) while the person continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 112(1)(a)
+      (ii) while the person continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 112(1)⁠(a)
   - **recognised risk management programme verifier** means a recognised person whose specified functions and activities include carrying out verification functions and activities in relation to risk management programmes
   - **recognised risk management programme verifying agency** means a recognised agency whose specified functions and activities include managing and carrying out verification functions and activities in relation to risk management programmes
   - **recreational catch** means a wild animal that—and has a corresponding meaning
@@ -187,7 +187,7 @@ The object of this Act is to—
   - **secondary processor** means a person who, for reward (otherwise than as an employee) or for purposes of trade, processes animal product at any stage beyond its primary processing
   - **sell** has the same meaning as trade; and has a corresponding meaning
   - **shellfish** has the same meaning as in the Fisheries Act 1996
-  - **specified functions and activities** means the permissible functions and activities that are specified by the Director-General in a notice of recognition in accordance with section 112(2)(a) as functions and activities that—
+  - **specified functions and activities** means the permissible functions and activities that are specified by the Director-General in a notice of recognition in accordance with section 112(2)⁠(a) as functions and activities that—
     (a) a recognised agency is responsible for managing and carrying out; or
     (b) a recognised person may carry out; or
     (c) persons who are members of a recognised class may carry out
@@ -221,6 +221,16 @@ The phrase fit for intended purpose, used in relation to animal product that has
 Except where the context otherwise requires,—
   (a) references to this Act include references to the Animal Products (Ancillary and Transitional Provisions) Act 1999, and to regulations or specifications or other requirements made or imposed under either Act:
   (b) references in other Acts to this Act also include references to the Animal Products (Ancillary and Transitional Provisions) Act 1999 and to regulations or specifications or other requirements made or imposed under that Act or this Act.
+
+### 6A Border information supplied using JBMS must be supplied in approved form and manner
+(1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
+(2) Any person who uses the JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H of the Biosecurity Act 1993) must supply the information in a form and manner—
+  (a) for complying with the requirement by using the JBMS; and
+  (b) for the time being generally approved in writing by the Director-General.
+(3) The approved form and manner referred to in subsection (2)—
+  (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)⁠(j) of the Customs and Excise Act 1996.
+(4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
 
 **Application of Act generally**
 
@@ -307,7 +317,7 @@ The object of this Part is to provide, as the main means for ensuring that anima
 (4) An exemption under subsection (1) may have retrospective effect.
 
 ### 15 Certain persons may be required to have risk management programme by Order in Council
-(1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, require any 1 or more classes of primary producer, dairy processor, secondary processor, transporter, or exporter of animal material or products who would not otherwise be required to have a risk management programme by virtue of section 13(3)(a), (b), (c), (e), or (f) to operate under a risk management programme under this Part in respect of such animal material or products, processes, operations, premises, or places as may be specified in the order.
+(1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, require any 1 or more classes of primary producer, dairy processor, secondary processor, transporter, or exporter of animal material or products who would not otherwise be required to have a risk management programme by virtue of section 13(3)⁠(a), (b), (c), (e), or (f) to operate under a risk management programme under this Part in respect of such animal material or products, processes, operations, premises, or places as may be specified in the order.
 (2) The persons to whom the order applies may be defined by reference to—
   (a) the type of animal material or product that they produce or process; or
   (b) the intended purpose or destination of the animal material or product in question; or
@@ -569,13 +579,13 @@ The object of sections 32 to 34 is to recognise the general equivalence of food 
 (6) When the Director-General has registered a secondary processor's risk management programme following an election of the processor under this section, the Director-General must—
   (a) notify the chief executive of the agency for the time being responsible for the administration of the Food Act 1981 and any relevant territorial authority (as defined in section 8B of the Food Act 1981) of the election; and
   (b) note the election on the register of risk management programmes in accordance with section 19.
-(7) Where an election is treated as revoked by subsection (5), the Director-General must similarly notify the chief executive and relevant territorial authority referred to in subsection (6)(a), and must note the revocation on the register.
+(7) Where an election is treated as revoked by subsection (5), the Director-General must similarly notify the chief executive and relevant territorial authority referred to in subsection (6)⁠(a), and must note the revocation on the register.
 
 ### 33 Implications of failure to elect in case of animal product which is food whose export requires an official assurance
 (1) Where a secondary processor operates under the Food Act regime rather than under a risk management programme in relation to any animal product that is for export, and overseas market access requirements as notified or made available by the Director-General under section 60 apply to that product,—
   (a) the product must meet the requirements imposed by or under this Act for the giving of official assurances, if any official assurance is to be given under this Act in relation to the product; and
   (b) if it does not, it cannot be the subject of an official assurance under this Act.
-(2) For the purposes of subsection (1)(a), the secondary processor must operate under either a registered risk management programme or a food safety programme that is registered as a risk management programme in accordance with section 34, and meet such additional requirements as may be notified or made available under section 60.
+(2) For the purposes of subsection (1)⁠(a), the secondary processor must operate under either a registered risk management programme or a food safety programme that is registered as a risk management programme in accordance with section 34, and meet such additional requirements as may be notified or made available under section 60.
 
 ### 34 Alternate or intermittent use of risk management programmes and food safety programmes
 (1) A secondary processor who wishes to have a food safety programme recognised as a risk management programme to be operated on an intermittent basis may apply to the Director-General for registration of the programme as a risk management programme.
@@ -651,7 +661,7 @@ The object of this Part is to provide for regulated control schemes which are sp
   (a) are specified or contemplated by or necessary or desirable to give effect to a regulated control scheme; or
   (b) are necessary or desirable to meet overseas market access requirements that have been notified or made available under section 60; or
   (c) are necessary or desirable to amplify the manner in which the requirements of any such scheme or requirements may or are to be met.
-(2) The Director-General may set specifications and other requirements under subsection (1)(a) or (c) only after having regard to the matters specified in section 39(4) and (except where section 163(5) applies) after appropriate consultation carried out in accordance with section 163.
+(2) The Director-General may set specifications and other requirements under subsection (1)⁠(a) or (c) only after having regard to the matters specified in section 39(4) and (except where section 163(5) applies) after appropriate consultation carried out in accordance with section 163.
 
 ### 41 Emergency control schemes
 (1) The Minister may, by order, institute emergency control schemes if, in the opinion of the Minister,—
@@ -764,7 +774,7 @@ The object of this Part is to facilitate sustainable international trade in anim
   (b) the animal material or product or consignment or person concerned is exempted from the requirements of this section—
     (i) by Order in Council made under section 9; or
     (ii) by regulations under this Act or by notice given by the Director-General under section 50.
-(2) Subject to subsection (1)(b), this Part applies to—
+(2) Subject to subsection (1)⁠(b), this Part applies to—
   (a) all animal products intended for human or animal consumption:
   (b) all animal material or products in respect of which—
     (i) requirements are notified or made available under section 60A; and
@@ -772,7 +782,7 @@ The object of this Part is to facilitate sustainable international trade in anim
   (c) such other animal material or products as are specified by Order in Council made under section 49.
 
 ### 49 Registration of exporters of non-edible, etc, material or products may be required by Order in Council
-(1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, require any 1 or more classes of exporter of animal material or products, being animal material or products of a kind not described in section 48(2)(a) or (b), to register as exporters under this Part in respect of such animal material or products as may be specified in the order.
+(1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, require any 1 or more classes of exporter of animal material or products, being animal material or products of a kind not described in section 48(2)⁠(a) or (b), to register as exporters under this Part in respect of such animal material or products as may be specified in the order.
 (2) Without limiting the generality of subsection (1), the animal material or products to which the order relates may be defined by reference to—
   (a) the class or description of animal material or product exported or to be exported; or
   (b) the intended purpose or destination of the animal material or product exported or to be exported; or
@@ -784,7 +794,7 @@ The object of this Part is to facilitate sustainable international trade in anim
     (i) in the interests of protecting the health of humans or animals, or otherwise to ensure the fitness for intended purpose of the animal product concerned; or
     (ii) for the purpose of facilitating access to overseas markets; or
     (iii) to protect the integrity or reputation of New Zealand exports of animal material and products; and
-  (b) in the case of an order recommended on a ground specified in paragraph (a)(i), there has been appropriate consultation on the subject matter of the order in accordance with section 163.
+  (b) in the case of an order recommended on a ground specified in paragraph (a)⁠(i), there has been appropriate consultation on the subject matter of the order in accordance with section 163.
 
 ### 50 Director-General may exempt certain consignments
 (1) The Director-General may, by notice under section 167, exempt from all or any of the requirements of this Part any particular consignment or animal material or product or person, or class of consignments or animal material or products or persons, if the Director-General is satisfied that the consignment or animal material or product to be exported is—
@@ -866,7 +876,7 @@ Where the Director-General determines to register an applicant as an exporter, t
 ### 58 Deregistration of exporters
 (1) The Director-General may remove a person from the register of exporters if satisfied that—
   (a) there has been a serious or repeated failure by the applicant to comply with the duties specified in section 51; or
-  (b) the person is disqualified from being registered as an exporter by virtue of section 54(3), or is not a fit and proper person to be registered as an exporter having regard to any conviction of a kind referred to in section 54(2)(a) that—
+  (b) the person is disqualified from being registered as an exporter by virtue of section 54(3), or is not a fit and proper person to be registered as an exporter having regard to any conviction of a kind referred to in section 54(2)⁠(a) that—
     (i) arose after the person's registration as an exporter; or
     (ii) first came to the attention of the Director-General after the person's registration as an exporter; or
   (c) any failure to pay the annual fee or other fee prescribed under section 57 by the due date has persisted for more than 30 days.
@@ -877,7 +887,7 @@ Where the Director-General determines to register an applicant as an exporter, t
   (a) the Director-General may direct the exporter to suspend all export operations, or such operations as the Director-General may specify, pending a final determination as to whether the exporter should be deregistered, and may also give such directions under section 82 as appear to the Director-General to be reasonable in relation to any animal material or products under the control of the exporter at the time the direction is given; and
   (b) any such direction takes effect from the date of the notification under subsection (2), or such later date as the Director-General specifies; and
   (c) the exporter must comply with the direction.
-(4) After considering the material (if any) supplied by a person under subsection (2)(b), the Director-General must—
+(4) After considering the material (if any) supplied by a person under subsection (2)⁠(b), the Director-General must—
   (a) make a final decision as to whether or not to remove the person from the register; and
   (b) as soon as practicable, notify the person of the decision in writing, giving reasons and the facts or assumptions on which the decision is based in the case of an unfavourable decision.
 
@@ -909,7 +919,7 @@ If a person acting under the delegated authority of the Director-General refuses
 (1) The Director-General may, by notice under section 167, where satisfied that it is appropriate to do so having regard to the requirements of the relevant overseas market,—
   (a) exempt from the requirements of any food standards issued under Part 2A of the Food Act 1981 or any standards specified by notice under section 167 of this Act any 1 or more classes or descriptions of animal material or animal product that is intended for export from New Zealand to any destination other than Australia:
   (b) exempt from the requirements of any such food standards that apply only in New Zealand any 1 or more classes or descriptions of animal material or animal product that is intended for export to Australia.
-(2) Regulations made under section 166 may also provide for exemptions of a kind referred to in subsection (1)(a) or (b).
+(2) Regulations made under section 166 may also provide for exemptions of a kind referred to in subsection (1)⁠(a) or (b).
 
 ### 61 Director-General may issue official assurances
 (1) The Director-General, or a person authorised by the Director-General under section 65, may issue an official assurance in respect of animal material or animal product.
@@ -1016,7 +1026,7 @@ If the Director-General determines to refuse to list an applicant's operation as
   (a) the listed operator so requests; or
   (b) the Director-General is satisfied that the criteria referred to in section 65H no longer apply, or the place is no longer operated as a game estate; or
   (c) any failure to pay the listing fee (if any) by the due date has persisted for more than 30 days.
-(2) Before delisting a game estate on any of the grounds referred to in subsection (1)(b) and (c), the Director-General must—
+(2) Before delisting a game estate on any of the grounds referred to in subsection (1)⁠(b) and (c), the Director-General must—
   (a) notify the game estate operator in writing of his or her intention; and
   (b) give the person a reasonable opportunity, within the time specified in the written notice, to explain why the game estate should not be delisted, or to pay the unpaid fee.
 (3) The delisting of a game estate under this section does not affect the right of a person to make a further application for listing under section 65G.
@@ -1071,7 +1081,7 @@ Every operator of a listed game estate is liable to pay, either annually or at s
   (b) persons who are in the business of providing meals and who prepare and serve recreational catch as a meal to its catcher and members of the catcher's party:
   (c) any other class of persons specified for the purposes of this section by regulations made under this Act.
 (2) Except as provided in section 70, a person listed as a homekill or recreational catch service provider under this Part is exempt from the requirement to operate under a risk management programme in respect of the processing of animal material or products that are homekill or recreational catch; and nothing in Parts 2 to 4 applies in respect of such operations.
-(3) Nothing in section 131(2)(c) prevents a person referred to in paragraphs (a) to (c) of subsection (1) from trading or otherwise disposing of animal material derived from the processing of homekill or recreational catch if the animal material—
+(3) Nothing in section 131(2)⁠(c) prevents a person referred to in paragraphs (a) to (c) of subsection (1) from trading or otherwise disposing of animal material derived from the processing of homekill or recreational catch if the animal material—
   (a) is skins, hides, horns, antlers, or other material that is not for human or animal consumption; or
   (b) is sold or disposed of to a renderer in accordance with any conditions imposed by the Director-General by notice under section 167.
 
@@ -1097,7 +1107,7 @@ Every operator of a listed game estate is liable to pay, either annually or at s
     (i) the unique risk factors inherent in having homekill or recreational catch processed in a place or premises where regulated animal products are also processed or traded:
     (ii) the measures to be taken to ensure that homekill and recreational catch products are not confused with regulated animal products, and do not enter the dual operator's normal retail butcher trade or other trade in regulated animal products for human or animal consumption:
     (iii) the measures to be taken to ensure that no product from the business, whether homekill, recreational catch, or regulated animal product for human or animal consumption, is exported, whether by the service provider or any other person (otherwise than as specifically provided by section 50 in the case of the person whose homekill or recreational catch it was).
-(2) For the avoidance of doubt, homekill or recreational catch product may not be treated as regulated animal product merely because it is processed at any premises or place subject to a risk management programme as required by subsection (1)(c) and (d).
+(2) For the avoidance of doubt, homekill or recreational catch product may not be treated as regulated animal product merely because it is processed at any premises or place subject to a risk management programme as required by subsection (1)⁠(c) and (d).
 
 ### 72 Product processed by homekill or recreational catch service provider ceases to be regulated animal product
 (1) If a homekill or recreational catch service provider at any time processes any animal product sourced from operations subject to a registered risk management programme or a regulated control scheme or the Food Act regime (or from premises licensed under the Meat Act 1981), then, unless subsection (2) applies, that product ceases to be regulated animal product, and cannot be traded.
@@ -1153,7 +1163,7 @@ Where the Director-General determines to list an applicant as a homekill or recr
 
 ### 79 Appointment of official assessors
 (1) The Director-General may from time to time appoint official assessors for the purpose of carrying out such routine examinations of animal material and products as may be required for the purposes of this Act, and particularly for the purpose of enabling official assurances to be given under this Act. Persons appointed under this subsection must be employed under the State Sector Act 1988.
-(2) The Minister may from time to time appoint as official assessors for the purposes of this Act persons employed in a State enterprise within the meaning of the State-Owned Enterprises Act 1986 or within a Crown entity as defined in the Public Finance Act 1989, for the purpose of carrying out routine examinations of animal material and products for the purposes of this Act, and particularly for the purpose of enabling official assurances to be given under this Act.
+(2) The Minister may from time to time appoint as official assessors for the purposes of this Act persons employed in a State enterprise within the meaning of the State-Owned Enterprises Act 1986 or in a Crown entity as defined in the Public Finance Act 1989, for the purpose of carrying out routine examinations of animal material and products for the purposes of this Act, and particularly for the purpose of enabling official assurances to be given under this Act.
 (3) An official assessor may be authorised, on his or her appointment, to exercise all of the powers and functions conferred on official assessors under this Act, or only those powers and functions specified in the assessor's instrument of appointment or subsequent written notice from the Director-General to the assessor.
 (4) No person is to be treated as employed in the State services for the purposes of the State Sector Act 1988, or in the Government service for the purposes of the Government Superannuation Fund Act 1956, by reason only of the person's appointment under subsection (2).
 (5) The Minister may at any time suspend or revoke an appointment made under this section.
@@ -1241,7 +1251,7 @@ The Director-General may from time to time issue notices as specified in section
 (2) In a situation to which this section applies, the Director-General may, whether immediately before, at the same time as, or after taking the relevant action referred to in subsection (1),—
   (a) give directions to the relevant operator, person in charge (or person who reasonably appears to be in charge), owner of the product or material concerned, or exporter, or any of them, on the handling, storage, further processing, transport, identification, classification, reclassification, verification, condemnation, destruction, or disposal of the animal material or product affected by the deregistration, surrender, or suspension; and
   (b) where any such directions are not complied with, undertake the appropriate directed activities himself or herself (through animal product officers or other Ministry officers or employees) in relation to the affected animal material or product.
-(3) The Director-General may recover all actual and reasonable costs of any activities undertaken under subsection (2)(b) from the person to whom the direction in question was given under subsection (2)(a) and who failed to comply with the direction.
+(3) The Director-General may recover all actual and reasonable costs of any activities undertaken under subsection (2)⁠(b) from the person to whom the direction in question was given under subsection (2)⁠(a) and who failed to comply with the direction.
 
 ### 83 Director-General may give statements as to New Zealand animal product standard
 (1) The Director-General may give statements in writing as to New Zealand animal product standard, upon request and on payment of the prescribed fee (if any), for any particular consignment or animal product or class of consignments or animal products, if the Director-General is satisfied that the animal product or consignment concerned has been processed in accordance with any applicable requirements of this Act to the relevant animal product standard.
@@ -1302,8 +1312,8 @@ The Director-General may delegate under section 41 of the State Sector Act 1988 
   (f) direct the operator or person in charge of the place to identify and hold any animal material, animal product, substance, equipment, package, container, or other relevant thing until—
     (i) the results of tests and analysis have been assessed; or
     (ii) any lawful direction of an animal product officer has been complied with.
-(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (other than subparts 2, 3, and 8, and sections 118 and 119) apply in respect of the exercise of powers under subsection (1)(a) or (b).
-(3) An animal product officer may call on any person to assist him or her in the exercise of his or her powers under this section (other than under subsection (1)(a) or (b)). Any such person may act only under the supervision and in accordance with the instructions of the animal product officer.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 (other than subparts 2, 3, and 8, and sections 118 and 119) apply in respect of the exercise of powers under subsection (1)⁠(a) or (b).
+(3) An animal product officer may call on any person to assist him or her in the exercise of his or her powers under this section (other than under subsection (1)⁠(a) or (b)). Any such person may act only under the supervision and in accordance with the instructions of the animal product officer.
 
 ### 89 Power to interrupt operations, etc
 For the purposes of determining or ensuring the compliance of animal material or animal products with the requirements of this Act, an animal product officer may—
@@ -1317,9 +1327,9 @@ For the purposes of determining or ensuring the compliance of animal material or
   (b) any animal material, or other input, substance, or thing which in the reasonable opinion of the officer has contributed to, or may have contributed to, any animal product not being fit for intended purpose:
   (c) any animal material or animal product which in the opinion of the officer, reasonably formed in the light of any relevant standards and specifications for the time being in force, is contaminated or diseased or otherwise not in compliance with this Act.
 (2) An animal product officer may seize and detain, and if necessary dispose of or arrange for the disposal of or otherwise rectify,—
-  (a) any product, material, input, substance, or thing of a kind referred to in subsection (1)(a) to (c):
+  (a) any product, material, input, substance, or thing of a kind referred to in subsection (1)⁠(a) to (c):
   (b) any animal material or animal product which appears to the officer, after making such enquiries as are reasonable in the circumstances, to have been abandoned or to have no apparent or readily identifiable owner.
-(2A) An animal product officer may require the reclassification of any animal product of a kind referred to in subsection (1)(a), if satisfied that the product meets the requirements of the reclassification, and may require the owner or person in control of the product to either—
+(2A) An animal product officer may require the reclassification of any animal product of a kind referred to in subsection (1)⁠(a), if satisfied that the product meets the requirements of the reclassification, and may require the owner or person in control of the product to either—
   (a) take all appropriate steps to give effect to the reclassification; or
   (b) destroy or otherwise dispose of or rectify the product to the satisfaction of the officer, if the owner or person does not take those appropriate steps.
 (3) For the purposes of subsection (1), where—the officer is entitled, without sampling and testing or examining the other animal material or product, to form that opinion in respect of that other animal material or product.
@@ -1335,8 +1345,8 @@ For the purposes of determining or ensuring the compliance of animal material or
 (1) An animal product officer may for the purposes of this Act—
   (a) by written notice require the owner or person in control of live animals to present those animals in a manner suitable for examination, testing, sampling, and identification:
   (b) direct the owner or person in control of the animals to hold, isolate, separate, or treat any or all of the animals.
-(2) If the owner or person in control fails to present the animals as required by a written notice under subsection (1)(a), the officer may capture, collect, muster, extract, harvest, or pen the animals for the relevant purpose.
-(3) The presentation of any animal required by a written notice under subsection (1)(a) is at the cost of the person to whom the notice was addressed, and any expenses reasonably incurred by the officer in the exercise of his or her powers under subsection (2) may be recovered from that person.
+(2) If the owner or person in control fails to present the animals as required by a written notice under subsection (1)⁠(a), the officer may capture, collect, muster, extract, harvest, or pen the animals for the relevant purpose.
+(3) The presentation of any animal required by a written notice under subsection (1)⁠(a) is at the cost of the person to whom the notice was addressed, and any expenses reasonably incurred by the officer in the exercise of his or her powers under subsection (2) may be recovered from that person.
 
 ### 91A Disposal of seized animals prior to commencement or determination of proceedings
 (1) This section applies if—
@@ -1364,7 +1374,7 @@ For the purposes of determining or ensuring the compliance of animal material or
   (g) whether any person will suffer material loss, and the extent of that loss, if the animal or animals are or are not sold:
   (h) the fitness for purpose of any animal products derived from the seized animal or animals:
   (i) any other matters the court considers relevant.
-(5) If an animal is or animals are sold under an order made under subsection (2)(a) or animal products are sold under an order made under subsection (2)(c), the proceeds of sale (if any) must be held by the Ministry (after deducting (in order) the costs of transport and processing, the cost of sale, any sums required to be paid to a security holder or any other person under a condition of the order for sale, and any costs incurred by the Crown in caring for the animal or animals or providing veterinary treatment to that animal or those animals).
+(5) If an animal is or animals are sold under an order made under subsection (2)⁠(a) or animal products are sold under an order made under subsection (2)⁠(c), the proceeds of sale (if any) must be held by the Ministry (after deducting (in order) the costs of transport and processing, the cost of sale, any sums required to be paid to a security holder or any other person under a condition of the order for sale, and any costs incurred by the Crown in caring for the animal or animals or providing veterinary treatment to that animal or those animals).
 (6) The Ministry must, unless the proceeds of sale are otherwise forfeited to the Crown or the owner of the animal or animals is unknown or cannot be contacted, pay the proceeds of sale to the owner as soon as practicable—
   (a) after the determination of the proceedings for an offence involving that animal or those animals; or
   (b) after a decision is taken not to commence any such proceedings.
@@ -1524,7 +1534,7 @@ An application for recognition under section 101, 103, or 105 must—
 
 ### 109 Proposal to refuse application to recognise agency, person, or class of persons
 (1) If the Director-General proposes to refuse an application for recognition in whole or in part, the Director-General must consult the applicant in accordance with section 112X about the proposed refusal.
-(2) The notification given to the applicant in accordance with section 112X(a)(i) must—
+(2) The notification given to the applicant in accordance with section 112X(a)⁠(i) must—
   (a) specify the grounds for proposing to refuse the application; and
   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to refuse the application.
 (3) If the Director-General finally determines to refuse the application (in whole or in part), the Director-General must, as soon as practicable, give the applicant written notice of—
@@ -1572,7 +1582,7 @@ An application for recognition under section 101, 103, or 105 must—
     (i) to the class as defined in the public register; and
     (ii) to each member of that class, but only—
       (A) to the extent that the member carries out the specified functions and activities for which the class is recognised; and
-      (B) while the member continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 112(1)(a); and
+      (B) while the member continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 112(1)⁠(a); and
   (b) each member of the class—
     (i) is a recognised person; and
     (ii) is subject to the duties of recognised persons set out in section 112H; and
@@ -1591,7 +1601,7 @@ An application for recognition under section 101, 103, or 105 must—
 
 ### 112B Duration of recognition
 (1) Recognition has effect for—
-  (a) a specified period commencing and ending on the dates stated in a notice of recognition in accordance with section 112(2)(d); or
+  (a) a specified period commencing and ending on the dates stated in a notice of recognition in accordance with section 112(2)⁠(d); or
   (b) if no period is specified, an indefinite period.
 (2) However,—
   (a) recognition ends if it is withdrawn under section 112N or 112O or surrendered under section 112Q; and
@@ -1601,7 +1611,7 @@ An application for recognition under section 101, 103, or 105 must—
 (1) If an agency, a person, or a class of persons is recognised for a specified period, then no later than 1 month before the end of that period—
   (a) the agency, the person, or an appropriate representative may apply to the Director-General for renewal of the recognition; or
   (b) the Director-General may renew the recognition without application if the agency, person, or class was initially recognised by the Director-General without application.
-(2) In determining whether to renew the recognition of an agency, a person, or a class of persons, the Director-General must consider the matters set out in (as applicable) section 101(2) and (3), 103(2) and (3), or 105(3)(b) and (4) unless the Director-General is satisfied that—
+(2) In determining whether to renew the recognition of an agency, a person, or a class of persons, the Director-General must consider the matters set out in (as applicable) section 101(2) and (3), 103(2) and (3), or 105(3)⁠(b) and (4) unless the Director-General is satisfied that—
   (a) either—
     (i) the circumstances of the agency, person, or class have not changed; or
     (ii) if the circumstances of the agency, person, or class have changed, those changes do not adversely affect the current recognition; and
@@ -1722,20 +1732,20 @@ A suspension under section 112J or an extension of a suspension under section 11
   (b) the agency or person is no longer a fit and proper person to carry out the agency's or person's specified functions and activities; or
   (c) the agency or person has failed to comply with section 112G or 112H or any other applicable requirements of this Act, and that failure causes the Director-General to question the agency’s or the person’s ability to carry out the agency's or person's specified functions or activities; or
   (d) the agency or person has ceased to operate as a recognised agency or a recognised person; or
-  (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in section 112J(1)(d); or
+  (e) the agency or person has continued to fail to pay an ongoing recognition fee, charge, or levy after the agency's or person's recognition has been suspended on the ground set out in section 112J(1)⁠(d); or
   (f) the agency or person has failed to comply with or maintain any criteria or competencies that led to the recognition of the agency or person; or
   (g) the agency is no longer the appropriate agency to hold the recognition, but only if the agency is, or is within, the Ministry or a department of the public service listed in Schedule 1 of the State Sector Act 1988.
 (2) However, before withdrawing recognition, the Director-General must consult the agency or person in accordance with section 112X about the proposed withdrawal of recognition, unless the agency is, or is within, the Ministry or the person is within the Ministry.
-(3) The notification given to the agency or person in accordance with section 112X(a)(i) must—
+(3) The notification given to the agency or person in accordance with section 112X(a)⁠(i) must—
   (a) specify the grounds for the proposed withdrawal; and
   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to withdraw the recognition.
 
 ### 112O Withdrawal of recognition of recognised class
 (1) The Director-General may withdraw all or part of the recognition of a recognised class if the Director-General has reasonable grounds to believe that a significant proportion of the members of the class—
-  (a) have ceased to hold a qualification or meet 1 or more other membership criteria according to which the class is defined in the public register in accordance with section 112(1)(a); or
+  (a) have ceased to hold a qualification or meet 1 or more other membership criteria according to which the class is defined in the public register in accordance with section 112(1)⁠(a); or
   (b) have failed to comply with section 112H or any other applicable requirements of this Act, and that failure causes the Director-General to question the class’s ability to carry out the class's specified functions or activities.
-(2) However, before withdrawing recognition on the ground set out in subsection (1)(b), the Director-General must consult the recognised class in accordance with section 112X about the proposed withdrawal of recognition.
-(3) The notification given to the recognised class in accordance with section 112X(a)(ii) must—
+(2) However, before withdrawing recognition on the ground set out in subsection (1)⁠(b), the Director-General must consult the recognised class in accordance with section 112X about the proposed withdrawal of recognition.
+(3) The notification given to the recognised class in accordance with section 112X(a)⁠(ii) must—
   (a) specify the grounds for the proposed withdrawal; and
   (b) include a copy (or an adequate summary) of all material information the Director-General relies on in proposing to withdraw the recognition.
 
@@ -1771,7 +1781,7 @@ A suspension under section 112J or an extension of a suspension under section 11
 ### 112R Effective date of surrender of recognition
 A surrender takes effect on the later of—
   (a) the date specified in the notice given in accordance with section 112Q(1); or
-  (b) the date on which the Director-General records the surrender in the public register in accordance with section 112T(1)(b)(v) or removes the agency or person from the public register in accordance with section 112V(3).
+  (b) the date on which the Director-General records the surrender in the public register in accordance with section 112T(1)⁠(b)⁠(v) or removes the agency or person from the public register in accordance with section 112V(3).
 
 **Public register of recognised agencies, recognised persons, and recognised classes**
 
@@ -1809,7 +1819,7 @@ A surrender takes effect on the later of—
   (a) the date and time the suspension starts; and
   (b) the period of the suspension; and
   (c) the specified functions and activities that the suspension relates to.
-(3) If a person is recognised as both a recognised agency and a recognised person, the information referred to in subsection (1)(a)(i) and (c) to (e) must either—
+(3) If a person is recognised as both a recognised agency and a recognised person, the information referred to in subsection (1)⁠(a)⁠(i) and (c) to (e) must either—
   (a) be recorded twice, once in the recognised person part of the register, and again in the recognised agency part of the register; or
   (b) be recorded in one of those areas of the register and cross-referenced in the other area of the register.
 
@@ -1819,7 +1829,7 @@ The Director-General must—
   (b) supply to any person, on request and on payment of a reasonable charge (if any), a copy of any entries on the public register.
 
 ### 112V Removal from public register
-(1) The Director-General must, as soon as practicable, remove the name of a recognised agency, recognised person, or recognised class from the public register if the period for which the recognition is granted expires and is not extended under section 112C(3)(b) or renewed.
+(1) The Director-General must, as soon as practicable, remove the name of a recognised agency, recognised person, or recognised class from the public register if the period for which the recognition is granted expires and is not extended under section 112C(3)⁠(b) or renewed.
 (2) Subsection (3) applies if the recognition of a recognised agency, a person who is recognised under section 103, or a recognised class is—
   (a) withdrawn under section 112N or 112O; or
   (b) surrendered under section 112Q.
@@ -1940,7 +1950,7 @@ Section 115(1) does not apply to assurances given in respect of export licences 
   (a) any amount held in such an account that is due to be paid to the Director-General by the levy collector is to be treated as levy money held on trust for the Director-General; and
   (b) any amount so held on trust is not available for the payment of any creditor (other than the Director-General) of the levy collector, and is not liable to be attached or taken in execution at the instance of any such creditor; and
   (c) a person who ceases to be a person responsible for collecting a levy must continue to maintain the trust account until all the levy money payable to the Director-General in respect of the period during which the person was responsible for collecting the levy has been paid.
-(2) Nothing in subsection (1)(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
+(2) Nothing in subsection (1)⁠(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
 
 ### 120 Other charges not requiring to be prescribed
 (1) Nothing in this Part or any other provision of this Act prevents the Director-General from requiring a reasonable charge to be paid for any of the services the Ministry provides in relation to the administration of this Act, or any actual and reasonable expenses incurred in providing the services, other than services in respect of which a fee or charge or levy is prescribed under this Part.
@@ -1965,7 +1975,7 @@ Any fee, levy, or charge that has become payable is a debt due to the Director-G
   (a) section 14 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
   (b) section 15 of that Act applies to allow the Director-General, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
   (c) section 16 of that Act applies to allow the Director-General to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
-(2) For the purposes of subsection (1)(c) of this section and section 16 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to—
+(2) For the purposes of subsection (1)⁠(c) of this section and section 16 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to—
   (a) withhold or suspend any approval under this Act, or refuse to perform any function under this Act in relation to the person in default:
   (b) withhold the registration of any exporter or risk management programme, or the listing of any homekill or recreational catch service provider, under this Act, or require the suspension of any relevant operations of the exporter or operator of the risk management programme:
   (c) withhold any official assurance.
@@ -2053,7 +2063,7 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
     (i) the person providing the facilities is a game estate operator or the owner of the place where the animal is taken or landed as recreational catch; or
     (ii) the facilities are provided for humane purposes; or
   (bc) being a dual operator butcher, kills an animal that is homekill or recreational catch at any premises or place where regulated animal product is processed or traded; or
-  (c) sells or attempts to sell any animal material or product for human or animal consumption that was processed as homekill or recreational catch product and not in accordance with the requirements of Parts 2 to 4 (except as permitted by sections 67(2)(b)(ii), 68(2)(b)(ii), and 69; or
+  (c) sells or attempts to sell any animal material or product for human or animal consumption that was processed as homekill or recreational catch product and not in accordance with the requirements of Parts 2 to 4 (except as permitted by sections 67(2)⁠(b)⁠(ii), 68(2)⁠(b)⁠(ii), and 69); or
   (d) presents an animal to a homekill or recreational service provider for killing or processing as homekill when the person is not an owner of the animal who has been actively involved in the day-to-day maintenance of the animal, or of other animals of the same kind, for a period of at least 28 days immediately preceding the presentation of the animal.
 (3)
 (4) A person who commits an offence against subsection (1) is liable on conviction—
@@ -2077,7 +2087,7 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
   (a) any animal product officer, official assessor, or recognised risk management programme verifier; or
   (b) an assistant of such a person; or
   (c) any recognised agency, recognised person, or other authorised person (including a person having functions or powers under the Food Act 1981 in relation to a food safety programme that is registered as a risk management programme pursuant to section 34),—
-(2) A person commits an offence against this Act who, with intent to deceive, personates or pretends to be an animal product officer, official assessor, recognised risk management programme verifier or recognised risk management programme verifying agency, or a person referred to in subsection (1)(c).
+(2) A person commits an offence against this Act who, with intent to deceive, personates or pretends to be an animal product officer, official assessor, recognised risk management programme verifier or recognised risk management programme verifying agency, or a person referred to in subsection (1)⁠(c).
 (3) A person who commits an offence against this section is liable on conviction to a fine not exceeding—
   (a) $250,000, in the case of a body corporate; or
   (b) $50,000, in the case of an individual.
@@ -2095,11 +2105,11 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
   (b) in any other case, to—
     (i) in the case of a body corporate, a fine not exceeding $100,000:
     (ii) in the case of an individual, a fine not exceeding $25,000.
-(3) The duties that attract a penalty referred to in subsection (2)(a) are as follows:
+(3) The duties that attract a penalty referred to in subsection (2)⁠(a) are as follows:
   (a) for operators of risk management programmes, the duties specified in—
-    (i) section 16(1)(c) (ensuring operations under a programme are adequately implemented and resourced):
-    (ii) section 16(1)(d) (ensuring operations under programme are commensurate with capability and capacity of premises or place, facilities, equipment, and staff, etc):
-    (iii) section 16(1)(e) (giving recognised agencies and recognised persons appropriate freedom and access for their functions and activities):
+    (i) section 16(1)⁠(c) (ensuring operations under a programme are adequately implemented and resourced):
+    (ii) section 16(1)⁠(d) (ensuring operations under a programme are commensurate with capability and capacity of premises or place, facilities, equipment, and staff, etc):
+    (iii) section 16(1)⁠(e) (giving recognised agencies and recognised persons appropriate freedom and access for their functions and activities):
   (b) for recognised persons, the duties specified in—
     (i) section 112H(c) (maintaining impartiality and independence):
     (ii) section 112H(e) (reporting required matters to Ministry):
@@ -2162,7 +2172,7 @@ In any proceedings for an offence against this Act relating to the sale of anima
 (4) A certificate or document to which subsection (1) applies is not admissible in evidence unless—
   (a) at least 14 days before the hearing at which the certificate or document is to be tendered, a copy is served, by or on behalf of the prosecutor, on the defendant or the defendant's agent or counsel, and that person is at the same time informed in writing that the prosecutor does not propose to call the person who signed the certificate or document as a witness at the hearing or to call evidence as to the nature of the document; and
   (b) the court has not, on the application of the defendant made not less than 7 days before the hearing, ordered, not less than 4 days before the hearing (or such lesser period as the court in the special circumstances of the case thinks fit), that the certificate or document should not be admissible as evidence in the proceedings.
-(5) The court may not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity or identity of a certificate or document.
+(5) The court may not make an order under subsection (4)⁠(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity or identity of a certificate or document.
 
 ### 141 Presumption as to authority
 (1) A return, record, transaction, form, application, or other information purporting to be completed, kept, or provided by or on behalf of a person is for the purposes of this Act to be presumed to have been completed, kept, or provided by that person unless the contrary is proved.
@@ -2180,7 +2190,7 @@ Where a body corporate is convicted of an offence against this Act, every direct
 
 ### 144 Liability of companies and persons for actions of agent or employee
 (1) Any act or omission on behalf of a body corporate or other person (both called the principal) by a director, agent, or employee (each called the agent) of the principal is to be treated for the purposes of this Act as being also the act or omission of the principal.
-(2) Despite subsection (1), where a principal is charged under this Act in relation to the act or omission of an agent for an offence against any of sections 126, 127, 128, 131(1)(b), 131(1)(c), and 131(2)(b), it is a good defence to the charge if the principal proves that the principal took all reasonable steps to prevent the commission of the offence or the commission of offences of that kind.
+(2) Despite subsection (1), where a principal is charged under this Act in relation to the act or omission of an agent for an offence against any of sections 126, 127, 128, 131(1)⁠(b), 131(1)⁠(c), and 131(2)⁠(b), it is a good defence to the charge if the principal proves that the principal took all reasonable steps to prevent the commission of the offence or the commission of offences of that kind.
 
 ### 145 Time limit for filing charging document for offence against section 129 or 135
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against section 129 or 135 of this Act ends on the date that is 2 years after the date on which the offence was committed.
@@ -2196,7 +2206,7 @@ Where a body corporate is convicted of an offence against this Act, every direct
   (b) require a person to remedy or mitigate any adverse effect arising from any action or matter that may be the subject of an order under paragraph (a):
   (c) require a person to do something that, in the opinion of the court, is necessary in order to avoid, remedy, or mitigate any actual or likely adverse effect arising from any action or matter that may be the subject of an order under paragraph (a):
   (d) require a person to pay money to or reimburse the Crown for any actual and reasonable costs and expenses that the Crown has incurred or is likely to incur in avoiding, remedying, or mitigating any adverse effect arising from the failure of the person to comply with a compliance order earlier made against them under paragraph (a) or paragraph (b) or paragraph (c).
-(2) For the purposes of subsection (1)(d), actual and reasonable costs include the costs of investigation, supervision, and monitoring of the relevant situation, and the costs of any actions required to avoid, remedy, or mitigate the relevant adverse effect.
+(2) For the purposes of subsection (1)⁠(d), actual and reasonable costs include the costs of investigation, supervision, and monitoring of the relevant situation, and the costs of any actions required to avoid, remedy, or mitigate the relevant adverse effect.
 (3) A compliance order may be made on such terms and conditions as the court thinks fit, including the provision of security or the entry into a bond for performance.
 (4) If the court so orders, a compliance order applies to the personal representatives, successors, and assigns of the person to whom the order is addressed to the same extent that it applies to the person.
 
@@ -2327,7 +2337,7 @@ A person who is required by or under section 159 to keep records or any other in
   (a) the health or well-being of producers, processors, consumers, and users of animal material and products; or
   (b) the fitness for intended purpose of animal products; or
   (c) the integrity and reputation of New Zealand exports of animal material and products, and the integrity of official assurances given under this Act.
-(2) Despite privacy principles 2 and 11 of the Privacy Act 1993, an approved agency or an officer or employee of an approved agency may disclose to any other approved agency, or officer or employee of that agency, any information supplied or obtained under or for the purposes of any of the enactments specified in subsection (5)(a), if the disclosure of that information is necessary or desirable for any of the purposes specified in subsection (1).
+(2) Despite privacy principles 2 and 11 of the Privacy Act 1993, an approved agency or an officer or employee of an approved agency may disclose to any other approved agency, or officer or employee of that agency, any information supplied or obtained under or for the purposes of any of the enactments specified in subsection (5)⁠(a), if the disclosure of that information is necessary or desirable for any of the purposes specified in subsection (1).
 (3) Nothing in subsection (2) authorises the disclosure of any information to the persons or bodies listed in paragraphs (b) to (f) of subsection (5) unless the disclosure is necessary to enable them to properly discharge their obligations under this Act.
 (4) Nothing in subsection (2) authorises the disclosure of commercially sensitive information unless and to the extent that the disclosure is necessary in the particular case to ensure—
   (a) the health or well-being of any person or animal; or
@@ -2393,7 +2403,7 @@ A person who is required by or under section 159 to keep records or any other in
 (1) Before making any recommendation for the making of an Order in Council or regulations under section 9 (exclusion from ambit of Act), section 15 (inclusion within requirement to have risk management programme), section 38 (regulated control schemes), section 44 (animal product standards), section 49 (inclusion within requirement for exporters to be registered), or section 118 (levies), the Minister—
   (a) must be satisfied that the Director-General has carried out consultation in accordance with subsection (3) and has advised the Minister of the results of any such consultation; and
   (b) must take into account the results of that consultation.
-(2) Before setting any specifications or requirements for the purposes of any regulated control scheme or animal product standards under section 40(1)(a) or (c) or section 45, the Director-General must consult in accordance with subsection (3) and take into account the results of that consultation.
+(2) Before setting any specifications or requirements for the purposes of any regulated control scheme or animal product standards under section 40(1)⁠(a) or (c) or section 45, the Director-General must consult in accordance with subsection (3) and take into account the results of that consultation.
 (3) The Director-General must—
   (a) do everything reasonably practicable on his or her part to consult with the persons or organisations that appear to the Director-General to be representative of the interests of persons likely to be substantially affected by the making of the relevant order or regulations or the setting of the relevant specifications or requirements referred to in subsections (1) and (2); and
   (b) in the case of a proposed Order in Council, advise the Minister of the results of any such consultation.
@@ -2474,7 +2484,7 @@ A person who is required by or under section 159 to keep records or any other in
   (l) prescribing procedures and requirements for the listing of homekill and recreational catch service providers:
   (m) prescribing for the purposes of section 69 classes of persons who may kill or process for reward homekill or recreational catch without requiring to be listed as homekill or recreational catch service providers:
   (n) prescribing forms and procedures for the purposes of this Act:
-  (o) specifying matters which constitute offences for the purposes of section 135(1)(b):
+  (o) specifying matters which constitute offences for the purposes of section 135(1)⁠(b):
   (p) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Regulations made under this Act may—
   (a) authorise the Minister or the Director-General to issue or impose any approval, requirement, prohibition, specification, restriction, condition, direction, instruction, or order in any particular case or class of cases:
@@ -2489,7 +2499,7 @@ A person who is required by or under section 159 to keep records or any other in
   (c) specifying matters in relation to the amendment of risk management programmes under section 25, including specifying the kinds of changes that do not constitute an amendment requiring registration, and specifying the amount of notice of a future amendment that may be required:
   (d) specifying matters in relation to the updating of risk management programmes under section 26:
   (e) notifying requirements in relation to the termination of contracts with recognised risk management programme verifiers or recognised risk management programme verifying agencies under section 112Y:
-  (f) setting specifications for the purposes of, or imposing, a regulated control scheme for overseas market access purposes under section 40(1)(b):
+  (f) setting specifications for the purposes of, or imposing, a regulated control scheme for overseas market access purposes under section 40(1)⁠(b):
   (g) setting specifications under a regulated control scheme in accordance with section 40:
   (h) setting specifications and providing for matters of detail in relation to animal product standards in accordance with section 45:
   (i) exempting under section 50 any particular consignment or animal material or product or person, or class of consignments, animal material or products, or persons, from the export requirements of Part 5:
@@ -2515,7 +2525,7 @@ A person who is required by or under section 159 to keep records or any other in
   (p)
   (q)
 (2) Any notice under subsection (1) must be notified in accordance with section 164.
-(3) A notice made under subsection (1)(ma) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A notice made under subsection (1)⁠(ma) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 168 Incorporation of material by reference into regulations, notices, and orders
 (1) The following material may be incorporated by reference into any regulations, notice, or order (all referred to in this section as instruments) made or given under this Act:
