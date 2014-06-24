@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-06-24_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -339,6 +339,19 @@ A provision in this Act that applies in the territorial sea must be interpreted 
 (3) Regulations made under this section come into force on the date of notification in the Gazette, or at the time specified in the regulations, whichever is the later.
 (4) The regulations expire on the day that is 2 years after the date on which the regulations come into force unless they are revoked earlier.
 
+### 7E Border information supplied using JBMS must be supplied in approved form and manner
+(1) This section applies to a requirement by or under an Act to supply to the Ministry any border information (as defined in section 41A(1)) if the Act is—
+  (a) this Act; or
+  (b) an Act that is specified by regulations under section 165A to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1).
+(2) Any person who uses the JBMS (which, in this section, has the meaning given in section 131A of the Customs and Excise Act 1996) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H) must supply the information in a form and manner—
+  (a) for complying with the requirement by using the JBMS; and
+  (b) for the time being generally approved in writing,—
+    (i) if the Act is this Act, by the Director-General; or
+    (ii) if the Act is one specified by regulations under section 165A to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1), under that Act (as modified by this section) by the chief executive of the department of State responsible for the Act's administration.
+(3) The approved form and manner referred to in subsection (2)—
+  (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j) of the Customs and Excise Act 1996.
+
 ## Part 2 — Functions, powers, and duties
 
 **Ministers**
@@ -514,10 +527,11 @@ Persons who carry out duties
   (b) an operator of the craft:
   (c) an agent of an owner of the craft:
   (d) an agent of an operator of the craft.
-Form and manner of notices
+Form and manner of notices, and supporting documentation
 (5) The person who is carrying out the duties must give notices under this section in the form and manner—
   (a) approved by the Director-General; and
   (b) available on an Internet site maintained by or on behalf of the Ministry.
+(5A) Notices under this section must be accompanied by any supporting documents (being documents each of which is genuine, not erroneous, and not misleading) the Director-General may require.
 First notice
 (6) The person must give the Director-General notice of the following matters from a point outside New Zealand territory:
   (a) when and where, approximately, the craft will enter New Zealand territory; and
@@ -552,6 +566,40 @@ Regulations may elaborate duties
     (i) an emergency or an urgent situation has arisen; and
     (ii) the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and
     (iii) the earlier giving of the information is necessary to avoid or mitigate the risk.
+
+### 17A Inward cargo report
+Craft and cargo to which section applies
+(1) This section applies to cargo (whether or not all or any of the cargo is goods that are, may be, or are not, risk goods) on a craft if the craft is—
+  (a) en route to, or has arrived in, New Zealand (as defined in section 2(1) of the Customs and Excise Act 1996), from a point outside New Zealand (as so defined); or
+  (b) carrying goods subject to the control of the Customs (as defined in section 20 of the Customs and Excise Act 1996) brought in that craft or any other craft from a point outside New Zealand (as defined in section 2(1) of the Customs and Excise Act 1996).
+Inward cargo report
+(2) Every person responsible for the carriage of the cargo on the craft must give to the Director-General, before the prescribed deadline, a report on the cargo, unless a particular person of that kind is exempted from doing so because—
+  (a) that person has been advised by the Director-General that 1 or more other persons of that kind have already done so; or
+  (b) under this paragraph, and for another reason, the Director-General approves that person's being exempted from doing so.
+(3) The prescribed deadline may differ depending on the class or description of the craft, or on the class or description of the person responsible, or both, and may be earlier than the otherwise applicable prescribed deadline if—
+  (a) an emergency or an urgent situation has arisen; and
+  (b) the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and
+  (c) the earlier giving of the report is necessary to avoid or mitigate the risk.
+(4) This section does not limit, and is not limited by, section 17(11)(b)(iii).
+Persons who carry out duty to give report
+(5) A person is, for this section's purposes, responsible for the carriage of cargo on a craft only if the person (whether or not the person owns, or has any proprietary interest of any kind in, all or any part of the cargo) is—
+  (a) the person in charge of the craft; or
+  (b) a cargo aggregator (as defined in subsection (11)) who, in the course of that cargo aggregator's business, has (in or outside New Zealand territory) arranged for the carriage of the cargo on the craft under a shared space, or other negotiated volume of cargo, arrangement with the craft's owner or operator.
+(6) The duty of the person in charge of the craft to give the report may be performed, on that person's behalf, by—
+  (a) an owner of the craft; or
+  (b) an operator of the craft; or
+  (c) an agent of an owner of the craft; or
+  (d) an agent of an operator of the craft.
+Requirements for report
+(7) The report must contain such information relating to the cargo (being information that is genuine, not erroneous in a material particular, and not misleading) as may be prescribed.
+(8) The report must be accompanied by such supporting documents (being documents each of which is genuine, not erroneous, and not misleading) as the Director-General may require.
+(9) The prescribed information relating to the cargo, or supporting documents required under subsection (8), or both, may differ depending on the class or description of the craft.
+Form and manner in which report given
+(10) The person who is carrying out the duty to give the report must ensure that it is given in an approved form and manner.
+Cargo aggregator defined
+(11) Cargo aggregator, in subsection (5)(b), means a person who, for reward, aggregates cargo (being cargo to be carried for different people) for carriage together on a craft—
+  (a) in bulk cargo containers, or otherwise; and
+  (b) under a shared space, or other negotiated volume of cargo, arrangement with the craft's owner or operator.
 
 ### 18 Arrival of craft in New Zealand
 (1) The person in charge of any craft that arrives at a place in New Zealand—
@@ -1231,21 +1279,9 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
 **Definitions for information-sharing provisions**
 
 ### 41A Definitions
-In this section and sections 41B to 41I, unless the context otherwise requires,—
+(1) In this section and sections 41B to 41I, unless the context otherwise requires,—
   - **access** , in relation to any information, means search, inspect, copy, process, analyse, manipulate, receive, or otherwise make use of the information in a way that is consistent with the purpose for which access has been allowed
   - **agency** includes a government department or Crown entity
-  - **biosecurity-related border management function** means—
-    (a) any function, duty, or power imposed or conferred on the Ministry by or under this Part:
-    (b) any other function, duty, or power imposed or conferred on the Ministry by or under this Act that is necessary—
-      (i) to achieve the purpose of this Part; or
-      (ii) for the administration of this Part:
-    (c) any function, duty, or power imposed or conferred on the Ministry by or under any of the following Acts in relation to the effective management of risks associated with the movement of goods, persons, or craft into or out of New Zealand:
-      (i) the Food Act 1981:
-      (ii) the Hazardous Substances and New Organisms Act 1996:
-      (iii) the Agricultural Compounds and Veterinary Medicines Act 1997:
-      (iv) the Animal Products Act 1999:
-      (v) the Wine Act 2003:
-      (vi) any other Act that is specified by the Governor-General, by Order in Council made under section 165A, to be an Act for the purposes of this definition
   - **border information** —
     (a) means information—
       (i) that is required to be supplied to the Ministry or the Customs by or under this Act or the Customs and Excise Act 1996, or both, for a border protection purpose; or
@@ -1256,28 +1292,40 @@ In this section and sections 41B to 41I, unless the context otherwise requires,�
       (iii) importers or exporters; and
     (c) also includes data or information that is derived from, or related to, any information referred to in paragraphs (a) and (b) or any analysis of that information
   - **border protection purpose** means any lawful purpose relating to, or connected with, the performance or exercise of either or both of the following, as the case may be:
-    (a) a biosecurity-related border management function:
+    (a) a Ministry-related border management function:
     (b) a customs-related border management function
   - **chief executive** means the chief executive of the Customs
-  - **computer system** —
-    (a) means—
-      (i) a computer; or
-      (ii) 2 or more interconnected computers; or
-      (iii) any communication links between computers or from computers to remote terminals or other devices; or
-      (iv) 2 or more interconnected computers combined with any communication links between computers or from computers to remote terminals or other devices; and
-    (b) includes any part of the items described in paragraph (a) and all related input, output, processing, storage, software, or communication facilities, and stored information
+  - **computer system** means the whole, or any part, of all or any of the 1 or more items described in the following paragraphs (each of which items includes all related input, output, processing, storage, software, or communication facilities, and stored data):
+    (a) a computer:
+    (b) 2 or more interconnected computers:
+    (c) any communication links between computers or to remote terminals or another device:
+    (d) 2 or more interconnected computers combined with any communication links between computers or to remote terminals or any other device
   - **Customs** —
     (a) means the New Zealand Customs Service; and
     (b) includes the chief executive and any Customs officer
   - **customs-related border management function** means any function, duty, or power imposed or conferred on the Customs by or under the Customs and Excise Act 1996 that is necessary—
     (a) to achieve the purpose of that Act; or
     (b) for the administration of that Act
-  - **Joint Border Management System** or means an integrated border management computer system that—
-    (a) is designed for the collection, storage, and use of border information by the Ministry and the Customs; and
-    (b) is administered by, and under the control of, the Customs
+  - **Joint Border Management System** or has the meaning given in section 131A of the Customs and Excise Act 1996
   - **Ministry** includes—
     (a) the Director-General; and
-    (b) any inspector appointed under section 103.
+    (b) any inspector appointed under section 103
+  - **Ministry-related border management function** means—
+    (a) any function, duty, or power imposed or conferred on the Ministry by or under this Part:
+    (b) any other function, duty, or power imposed or conferred on the Ministry by or under this Act that is necessary—
+      (i) to achieve the purpose of this Part; or
+      (ii) for the administration of this Part:
+    (c) any function, duty, or power imposed or conferred on the Ministry by or under any of the following Acts in relation to the effective management of risks associated with the movement of goods, persons, or craft into or out of New Zealand:
+      (i) the Food Act 1981:
+      (ii) the Hazardous Substances and New Organisms Act 1996:
+      (iii) the Agricultural Compounds and Veterinary Medicines Act 1997:
+      (iv) the Animal Products Act 1999:
+      (v) the Wine Act 2003:
+      (vi) any other Act that is specified by the Governor-General, by Order in Council made under section 165A, to be an Act for the purposes of this definition.
+(2) For the purposes of the definition of computer system, a computer is interconnected with another computer if it can be lawfully used to provide access to that other computer—
+  (a) with or without access information; and
+  (b) whether or not either or both computers are currently turned on; and
+  (c) whether or not access is currently occurring.
 
 **Interim arrangements for information sharing**
 
@@ -1320,6 +1368,13 @@ Sections 41B to 41E and any agreement made under section 41E expire, or must be 
 
 **Information sharing for joint border management**
 
+### 41GAA Application of sections 41G to 41I
+(1) Sections 41G to 41I apply to border information only on and after the date of expiry of the interim arrangements for information sharing (as that date of expiry is provided in section 282I(1) of the Customs and Excise Act 1996).
+(2) The interim arrangements for information sharing are the arrangements under all or any of the following:
+  (a) sections 282E to 282H (and any agreements under section 282H) of the Customs and Excise Act 1996; and
+  (b) sections 41B to 41E (and any agreements under section 41E) of this Act.
+(3) On that date of expiry (as provided in section 282I(1) of the Customs and Excise Act 1996), sections 41B to 41F, and the cross-heading above section 41B, are repealed.
+
 ### 41G Collection of border information
 (1) The Ministry may—
   (a) collect any border information:
@@ -1334,7 +1389,7 @@ Sections 41B to 41E and any agreement made under section 41E expire, or must be 
 (2) However, subsection (1) does not apply if the Director-General has given the person a written notice requiring the border information to be supplied to the Ministry instead of to the Customs or an agency appointed under section 41G(3).
 
 ### 41I Ministry may access border information
-(1) The Ministry may access any border information stored in the JBMS that is needed for, or relevant to, a biosecurity-related border management function.
+(1) The Ministry may access any border information stored in the JBMS that is needed for, or relevant to, a Ministry-related border management function.
 (2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 10 of the Privacy Act 1993.
 (3) Subsections (1) and (2) apply to any border information stored in the JBMS, whether the border information was or is collected—
   (a) before, on, or after the commencement of this section; or
@@ -3671,8 +3726,11 @@ The Minister shall not recommend the making of an order under section 137 unless
   (d) the persons responsible for collecting the levy from those primarily responsible for paying it; and
   (e) how the levy is to be spent, in consultation with those persons primarily responsible for paying the levy; and
   (f) when and how the levy is to be paid; and
-  (g) the maximum rate of levy; and
-  (h) how the actual rate of the levy is to be set; and
+  (g) on the rate of levy,—
+    (i) whether there is to be a single rate or 2 or more different rates; and
+    (ii) if there are to be 2 or more different rates, the things to which the different rates apply; and
+    (iii) the maximum for each rate; and
+  (h) how each actual rate of the levy is to be set (if, or insofar as, the order does not set each actual rate); and
   (i) how the rates of the levy and variation of rates are to be notified; and
   (j) whether or not the persons collecting the levy are entitled to recover the cost of levy collection and the estimated amount.
 (2) The order may prescribe any of the following matters:
@@ -4403,7 +4461,7 @@ Penalty: section 157(4)
 (11) A person commits an offence against this Act who fails to comply with a compliance order.
 Penalty: section 157(5)
 (12) A person commits an offence against this Act who fails to comply with—
-  (a) any of sections 17, 34, 36, 51(3), 121(2), 121A(3), 132(9), and 141D(5):
+  (a) any of sections 17, 17A, 34, 36, 51(3), 121(2), 121A(3), 132(9), and 141D(5):
   (b) a requirement imposed under section 100Q(2)(a) or 100ZG(2)(a) by an auditor acting under an authorisation:
   (c) regulations made under section 165(1) or (2).
 (13) A person commits an offence against this Act who provides false information, if an import health standard requires the person to provide information.
@@ -4430,6 +4488,16 @@ Penalty: section 157(5)
     (ii) to answer the question completely within a reasonable time of its being asked.
 Penalty: section 157(7)
 (21) A person commits an offence against this Act who erroneously declares that he or she is not in possession of any or all of the goods specified in a declaration that the person is required to make about the goods.
+
+### 154NA Section 154NA offence relating to failure to update information supplied in advance
+Application
+(1) This section applies to a person, and to information that the person supplies to the Director-General, the Ministry, or an official, if—
+  (a) the person supplies the information for the purposes of an enactment in or made under this Act, and before the deadline prescribed by or under this Act for doing so; and
+  (b) the information becomes erroneous, or misleading in a material particular, after it is supplied but before that deadline and before the person is notified of any decision made in response to the information.
+Penalty: section 157(8) and (9)
+(2) The person commits an offence against this Act if the person—
+  (a) knows, or ought reasonably to know, that the information has become erroneous or misleading in a material particular; and
+  (b) fails to take all reasonable steps to supply to the Director-General, the Ministry, or an official, as soon as is reasonably practicable, replacement information that is not erroneous, or misleading in a material particular.
 
 ### 154O Section 154O offences
 Penalty: section 157(1)
@@ -4524,6 +4592,12 @@ Where it is proved in any proceeding under this Act or the regulations that a pe
   (a) in the case of an individual person, to a fine not exceeding $5,000:
   (b) in the case of a corporation, to a fine not exceeding $15,000.
 (7) Every person who commits an offence against section 154N(21) is liable on conviction to a fine not exceeding $1,000.
+(8) Every person who commits an offence against section 154NA(2), and in doing so under section 154NA(2)(a) ought reasonably to have known that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $1,000; or
+  (b) in the case of a body corporate, to a fine not exceeding $5,000.
+(9) Every person who commits an offence against section 154NA(2), and in doing so under section 154NA(2)(a) knew that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $10,000; or
+  (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
 ### 158 Fines to be paid to management agency instituting prosecution
 [Repealed]
@@ -4851,6 +4925,7 @@ Section 164A—
 ### 165 Regulations
 Part 3 matters
 (1) The Governor-General may from time to time, by Order in Council, make regulations for the purposes of section 17(11).
+(1A) The Governor-General may from time to time, by Order in Council, make regulations for the purposes of section 17A(2), (3), (7), and (9).
 (2) The Governor-General may from time to time, by Order in Council, make regulations on any or all of the following matters relating to the giving of notice of goods' intended arrival in New Zealand:
   (a) requiring that the notice be given to the Director-General:
   (b) specifying the class or description of importer who must give the notice:
@@ -4977,8 +5052,8 @@ Manner in which information to be provided
 Contemplated or necessary matters
 (24) The Governor-General may from time to time, by Order in Council, make regulations providing for matters that are contemplated by this Act or necessary to give it full effect or necessary for its administration.
 
-### 165A Regulations relating to definition of biosecurity-related border management function in section 41A
-The Governor-General may, by Order in Council, make regulations specifying any Act to be an Act for the purposes of the definition of biosecurity-related border management function in section 41A.
+### 165A Regulations relating to definition of Ministry-related border management function in section 41A(1)
+The Governor-General may, by Order in Council, make regulations specifying any Act to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1).
 
 ### 166 General provisions as to regulations
 (1) Any regulation made under this Act may apply generally or may apply or be applied from time to time by the Minister by notice in the Gazette within any specified district or region of any local authority or within any specified part of New Zealand or may apply to any specified category or categories of persons.
