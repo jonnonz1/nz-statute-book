@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-06-30_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -195,6 +195,7 @@ _Consolidation as at 2014-04-01_
   - **income statement** means a statement issued by the Commissioner to a natural person that contains the information required by section 80E
   - **income tax** is defined in section 157(10) for the purposes of that section
   - **incremental late payment penalty** means a late payment penalty imposed under section 139B(2)﻿(b)
+  - **inflation-indexed instrument** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **information holder** is defined in section 20B(1) for the purposes of sections 20B to 20F
   - **information requisition** is defined in section 21(8) for the purposes of that section
   - **initial late payment penalty** means a late payment penalty imposed under section 139B(2)﻿(a)
@@ -230,6 +231,7 @@ _Consolidation as at 2014-04-01_
     (a) the return of income furnished by the taxpayer or the other particulars supplied together with the return of income, being the return and the other particulars from and by reference to which the assessment has been made, is deficient or, as the case may be, are deficient or insufficient; or
     (b) the assessment has been made, under section 106, in the absence of the return of income or the particulars from or by reference to which, had that return of income or those particulars been furnished to the Commissioner, the assessment would have been made; or
     (c)
+  - **non-resident seasonal worker** has the meaning given in section YA 1 of the Income Tax Act 2007
   - **notice** means a notice to which, as appropriate, section 14 or 14B or 14C applies
   - **notice of proposed adjustment** means a notice of proposed adjustment in the prescribed form—
     (a) issued by the Commissioner to a disputant under section 89B; or
@@ -294,6 +296,10 @@ _Consolidation as at 2014-04-01_
   - **registration Act** is defined in section 169(11) for the purposes of that section
   - **reject** , for the purposes of Parts 4A and 8A, means to reject something in whole or in part
   - **relative** is defined in section 173M(5) for the purpose of that section
+  - **relief company** means, in relation to a taxpayer, a company in which—
+    (a) the taxpayer owns 50% or more of the shares:
+    (b) the taxpayer and 1 other person jointly own 50% or more of the shares:
+    (c) the taxpayer is a shareholder-employee, and the company satisfies paragraphs (a) and (c) of the definition of close company in section YA 1 of the Income Tax Act 2007
   - **relinquishment** , in section 91, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **resident foreign trustee** means a person who,—
     (a) either alone or jointly with another person, acts as a trustee of a foreign trust that is not registered as a charitable entity under the Charities Act 2005; and
@@ -1397,7 +1403,10 @@ The Commissioner may vary the requirements set out in sections RD 22 of the Inco
   (d) the rate for the resident passive income—
     (i) found by dividing the total amount of RWT withheld by the amount of resident passive income:
     (ii) at which RWT would have been withheld if the resident passive income had been paid or derived at the end of the relevant tax year:
-    (iii) at which RWT was withheld during the relevant tax year, together with, if more than 1 RWT rate applied for the resident passive income, the amount to which each rate applied and the amount withheld at each rate.
+    (iii) at which RWT was withheld during the relevant tax year, together with, if more than 1 RWT rate applied for the resident passive income, the amount to which each rate applied and the amount withheld at each rate; and
+  (e) if, for an inflation-indexed instrument, the recipient derives an interest payment for which RWT is capped by the application of section RE 18B(1)﻿(a) of the Income Tax Act 2007,—
+    (i) a statement to that effect; and
+    (ii) a statement that the recipient may be required to file a return of income.
 (6A)
 (6B) The Commissioner may prescribe a formula for determining the average basic tax rate that is to be applied to resident passive income.
 (7) No person shall be required to prepare and provide an RWT withholding certificate relating to any interest from which the person has in a tax year withheld RWT where—unless the person is requested, by notice, by the recipient of the interest for such a certificate, in which case the certificate shall be prepared and provided to the recipient not later than 20 working days after receipt of that notice.
@@ -1808,7 +1817,7 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
   (f) has a loss balance; or
   (g) has carried forward to the income year a tax credit under section LE 3 of the Income Tax Act 2007; or
   (h) held an RWT exemption certificate under section 32E at any time in the tax year; or
-  (i)
+  (i) for an inflation-indexed instrument, derives an interest payment for which RWT is capped by the application of section RE 18B(1)﻿(a) of the Income Tax Act 2007.
   (j)
   (k)
   (kb)
@@ -2362,7 +2371,7 @@ Every person who at any time is required to make a payment of RWT shall, at the 
   (d) whether the resident passive income is interest, a dividend treated as interest, or a dividend to which section RE 9(2) of the Income Tax Act 2007 applies; and
   (e) the date on which the RWT was withheld, or if more than 1 amount is withheld, the year in which the amounts were withheld; and
   (f) the amount of resident passive income and the amount of RWT withheld; and
-  (g)
+  (g) if, for an inflation-indexed instrument, the recipient derives an interest payment for which RWT is capped by the application of section RE 18B(1)﻿(a) of the Income Tax Act 2007, a statement to that effect; and
   (h) further information that the Commissioner considers relevant.
 (2A) If the person has paid interest, a dividend treated as interest, or a dividend to which section RE 9(2) of the Income Tax Act 2007 applies to another person (the recipient) and has not withheld RWT because the person holds an RWT exemption certificate, the Commissioner may require the following information:
   (a) the full name and last known address of the recipient; and
@@ -3226,7 +3235,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (iii) improve, research, or reform the tax system.
 
 ### 81A Disclosure of information under approved information sharing agreement
-Despite section 81, the Commissioner may supply personal information about an identifiable individual under an information sharing agreement approved by an Order in Council made under section 96J of the Privacy Act 1993 that is for the time being in force.
+Despite section 81, the Commissioner may supply personal information about an identifiable individual under an information sharing agreement approved by an Order in Council made under section 96J of the Privacy Act 1993 that is for the time being in force. The information sharing agreement may extend a restricted information sharing provision in this Act, as contemplated by the Privacy Act 1993, without further authority than this section.
 
 ### 81BA Government agency communication
 (1) Despite section 81, the Commissioner may communicate information held by the Inland Revenue Department to another government agency if it is reasonable and practicable for the Commissioner to retrieve the information, and—
@@ -4806,7 +4815,7 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 (1) The Commissioner may, in respect of any person who is chargeable with FBT in respect of any quarter or any income year, make an assessment of the amount of FBT which, in the Commissioner's judgment, ought to be imposed, and that person shall be liable to pay the FBT so assessed, except so far as the person establishes in proceedings challenging the assessment that the assessment is excessive or that the person is not chargeable with FBT.
 (2) Sections 109, 111, and 113 shall apply, so far as may be, with respect to every assessment made under this section as if—
   (a) the term tax already assessed in section 113 included FBT already assessed under this section; and
-  (b) the term taxpayer in sections 109, 111, and 113 included a person who is chargeable with FBT.
+  (b) the term taxpayer in sections 111 and 113 included a person who is chargeable with FBT.
 (3) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act shall apply accordingly.
 
 ### 93B Trustee income: Commissioner’s power to assess
@@ -4826,8 +4835,8 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 (1) The Commissioner may, in respect of any company liable to pay qualifying company election tax under section HA 42 of the Income Tax Act 2007, make an assessment of the amount of qualifying company election tax, and any late payment penalty payable under section 139B of this Act, that, in the Commissioner's judgment, ought to be imposed, and the company shall be liable to pay the qualifying company election tax and any late payment penalty so assessed, except so far as the company establishes in proceedings challenging the assessment that the assessment is excessive or that the company is not chargeable with qualifying company election tax, or the late payment penalty.
 (2) Sections 108 to 111, 113, and 114 shall apply, so far as may be, with respect to every assessment made under this section as if—
   (a) the term tax already assessed, in section 113, included qualifying company election tax and any late payment penalty already assessed under this section; and
-  (b) the term taxpayer, in sections 109, 111, and 113, included a company which is chargeable with qualifying company election tax; and
-  (c) the term income tax for any year in section 108(1) included an amount assessed under this section, and the term property were substituted for the term income in section 108(2).
+  (b) the term taxpayer, in sections 111 and 113, included a company which is chargeable with qualifying company election tax; and
+  (c) the term amount assessed for any year in section 108(1) included an amount assessed under this section, and the term property were substituted for the term income in section 108(2).
 (3) An assessment made under subsection (1) is subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act applies accordingly.
 
 ### 94A Assessment of shortfall penalties
@@ -4852,7 +4861,7 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 (1) The Commissioner may, in respect of any person who is chargeable with withdrawal tax under section RZ 9 of the Income Tax Act 2007, make an assessment of the amount of withdrawal tax which, in the Commissioner's judgment, ought to be imposed, and that person shall be liable to pay the tax so assessed, except so far as the person establishes in proceedings challenging the assessment that the assessment is excessive or that the person is not chargeable with withdrawal tax.
 (2) Sections 109 to 111, 113, and 114 shall apply, so far as may be, with respect to every assessment made under this section as if—
   (a) the term tax already assessed used in section 113 included withdrawal tax already assessed under this section; and
-  (b) the term taxpayer used in sections 109, 111, and 113 included a person who is chargeable with withdrawal tax.
+  (b) the term taxpayer used in sections 111 and 113 included a person who is chargeable with withdrawal tax.
 (3) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act shall apply accordingly.
 
 ### 96 Assessment of New Zealand superannuitant surcharge
@@ -4862,7 +4871,7 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 (1) The Commissioner may, in respect of any company chargeable with imputation penalty tax, make an assessment of the amount of imputation penalty tax that in the judgment of the Commissioner ought to be imposed on the company.
 (2) The company shall be liable to pay the imputation penalty tax so assessed except in so far as the company establishes in proceedings challenging the assessment that the assessment is excessive or that the company is not chargeable with the imputation penalty tax.
 (3) Sections 109, 111, and 113 shall apply with respect to every assessment under this section as if—
-  (a) in those sections, the term taxpayer included a company chargeable with imputation penalty tax; and
+  (a) in sections 111 and 113, the term taxpayer included a company chargeable with imputation penalty tax; and
   (b) in section 113, the term tax already assessed included any imputation penalty tax already assessed under this section.
 (4) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB1 of the Income Tax Act 2007, and Part 8A of this Act shall apply accordingly.
 
@@ -4870,14 +4879,14 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 (1) The Commissioner may, in respect of a Maori authority chargeable with Maori authority distribution penalty tax, make an assessment of the amount of Maori authority distribution penalty tax that the Commissioner considers should be imposed on the Maori authority.
 (2) The Maori authority is liable to pay the Maori authority distribution penalty tax assessed except to the extent that the Maori authority establishes in proceedings challenging the assessment that the assessment is excessive or that the Maori authority is not chargeable with the Maori authority distribution penalty tax.
 (3) Sections 109, 111 and 113 apply to an assessment made under this section as if—
-  (a) the references to taxpayer in those sections included a Maori authority chargeable with Maori authority distribution penalty tax; and
+  (a) the references to taxpayer in sections 111 and 113 included a Maori authority chargeable with Maori authority distribution penalty tax; and
   (b) the reference to tax already assessed in section 113 included Maori authority distribution penalty tax already assessed under this section.
 (4) An assessment made under this section is subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 7 of this Act applies accordingly.
 
 ### 98 Assessment of ESCT
 (1) The Commissioner may, in respect of any employer or person who is chargeable with ESCT under section RD 67 of the Income Tax Act 2007, make an assessment of the amount of the employer's superannuation cash contribution on which, in the Commissioner's judgment, ESCT ought to be imposed and an assessment of the amount of that tax, and that employer or person shall be liable to pay the tax so assessed except so far as the employer or person establishes in proceedings challenging the assessment that the assessment is excessive or that the employer or person is not chargeable with the tax so assessed.
 (2) Sections 109, 111, and 113 shall apply, so far as may be, with respect to every assessment made under subsection (1) of this section as if—
-  (a) in those sections, the term taxpayer included a person who is chargeable with ESCT; and
+  (a) in sections 111 and 113, the term taxpayer included a person who is chargeable with ESCT; and
   (b) in section 113, the term tax already assessed included ESCT already assessed under subsection (1) of this section.
 (3) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act shall apply accordingly.
 
@@ -4885,15 +4894,15 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 (1) The Commissioner may, for any person who is chargeable with RSCT under section RH 2 of the Income Tax Act 2007, make an assessment of the amount of the retirement scheme contribution on which, in the Commissioner's judgment, RSCT ought to be imposed and an assessment of that tax.
 (2) The person is liable to pay the tax so assessed except to the extent that the person establishes in proceedings challenging the assessment that the assessment is excessive or that the person is not chargeable with the tax assessed.
 (3) Sections 109, 111, and 113 shall apply, so far as may be, with respect to an assessment made under subsection (1) of this section as if—
-  (a) in those sections, the term taxpayer included a person who is chargeable with RSCT; and
+  (a) in sections 111 and 113, the term taxpayer included a person who is chargeable with RSCT; and
   (b) in section 113, the term tax already assessed included RSCT already assessed under subsection (1) of this section.
 (4) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act shall apply accordingly.
 
 ### 99 Assessment of RWT
 (1) The Commissioner may make an assessment of any amount that, in the Commissioner's opinion, any person is liable to account for or pay to the Commissioner under the RWT rules, and any person who is so assessed shall be liable to pay the amount so assessed, except so far as the person establishes in proceedings challenging the assessment that the assessment is excessive or that the person is not liable to account for or pay the amount so assessed.
 (2) Sections 108 to 111, 113, and 114 shall apply, so far as may be, with respect to every assessment made under subsection (1) of this section, as if—
-  (a) the term income tax for any year in section 108(1) included an amount assessed under subsection (1) of this section and the term income in section 108(2) included an amount of resident passive income; and
-  (b) the term taxpayer in sections 109, 111, and 113 included a person who is assessed or is liable to be assessed under subsection (1) of this section; and
+  (a) the term amount assessed in section 108(1) included an amount assessed under subsection (1) of this section and the term income in section 108(2) included an amount of resident passive income; and
+  (b) the term taxpayer in sections 111 and 113 included a person who is assessed or is liable to be assessed under subsection (1) of this section; and
   (c) the term tax already assessed in section 113 included an amount already assessed under subsection (1) of this section.
 (3) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Parts 7 and 8A of this Act shall apply accordingly.
 
@@ -4902,20 +4911,20 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 (2) The Commissioner may make an assessment of any amount which in the Commissioner's judgment any person is liable to account for or pay to the Commissioner under subpart RF of the Income Tax Act 2007, and any person who is so assessed shall be liable to pay the amount so assessed, except so far as the person establishes in proceedings challenging the assessment that the assessment is excessive or that the person is not liable to account for or pay the amount so assessed.
 (3) Sections 109 to 111, 113, and 114 shall apply, so far as may be, with respect to every assessment made under subsection (1) or subsection (2) of this section, as if—
   (a) the term tax already assessed used in section 113 included NRWT already assessed under subsection (1) of this section or, as the case may be, an amount already assessed under subsection (2) of this section; and
-  (b) the term taxpayer used in sections 109, 111, and 113 included a person who is chargeable with NRWT or, as the case may be, a person who is assessed or is liable to be assessed under subsection (2) of this section.
+  (b) the term taxpayer used in sections 111 and 113 included a person who is chargeable with NRWT or, as the case may be, a person who is assessed or is liable to be assessed under subsection (2) of this section.
 (4) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act shall apply accordingly.
 
 ### 101 Assessment of further income tax
 (1) The Commissioner may, in respect of any company liable to pay further income tax under sections OB 65 to OB 67 of the Income Tax Act 2007, make an assessment of the amount of the further income tax that in the Commissioner's judgment ought to be imposed, and the company shall be liable to pay the further income tax so assessed except so far as the company establishes in proceedings challenging the assessment that the assessment is excessive or that the company is not chargeable with the further income tax.
 (2) Sections 109, 111, and 113 shall apply, so far as may be, with respect to every assessment made under this section as if—
-  (a) in those sections, the term taxpayer included a company which is chargeable with further income tax; and
+  (a) in sections 111 and 113, the term taxpayer included a company which is chargeable with further income tax; and
   (b) in section 113, the term tax already assessed included the further income tax already assessed under this section.
 (3) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax and Part 8A of this Act shall apply, so far as may be, to a challenge to an assessment made under this section as if the terms income tax and tax in that Part included the further income tax for which a company may be chargeable under sections OB 65 to OB 67 of the Income Tax Act 2007.
 
 ### 101B Assessment of imputation additional tax
 (1) The Commissioner may, in respect of any company liable to pay imputation additional tax under section OB 72 of the Income Tax Act 2007, make an assessment of the amount of the imputation additional tax that in the Commissioner's judgment ought to be imposed, and the company shall be liable to pay the imputation additional tax so assessed except so far as the company establishes in proceedings challenging the assessment that the assessment is excessive or that the company is not chargeable with the imputation additional tax.
 (2) Sections 109, 111, and 113 apply, so far as may be, with respect to every assessment made under this section as if—
-  (a) in those sections, the term taxpayer included a company which is chargeable with imputation additional tax; and
+  (a) in sections 111 and 113, the term taxpayer included a company which is chargeable with imputation additional tax; and
   (b) in section 113, the term tax already assessed included the imputation additional tax already assessed under this section.
 (3) An assessment made under this section is subject to challenge in the same manner as an assessment of income tax and Part 8A of this Act shall apply, so far as may be, to a challenge to an assessment made under this section as if the terms income tax and tax in that Part included the imputation additional tax for which a company may be chargeable under section OB 72 of the Income Tax Act 2007.
 
@@ -6056,7 +6065,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
   (d) the tax shortfall is due to an application of IFRSs which, if viewed objectively, passes the standard of being about as likely as not to represent acceptable accounting practice under IFRSs; and
   (e) the taxpayer has fully disclosed the IFRS-related tax position.
 (1D) A taxpayer does not take an unacceptable tax position to the extent to which they have taken their position because they have relied on a Commissioner's official opinion.
-(2) A taxpayer is liable to pay a shortfall penalty if the taxpayer takes an unacceptable tax position in relation to income tax and the tax shortfall arising from the taxpayer's tax position is more than both—
+(2) A taxpayer is liable to pay a shortfall penalty if the taxpayer takes an unacceptable tax position in relation to income tax as defined in section YA 1 of the Income Tax Act 2007, but ignoring the effect of section RA 2 of that Act, and the tax shortfall arising from the taxpayer's tax position is more than both—
   (a) $50,000:
   (b) 1% of the taxpayer's total tax figure for the relevant return period.
 (3) For the purposes of this section, a taxpayer's total tax figure is—that is shown as tax paid or payable, or as net losses of the taxpayer, or as a refund to which the taxpayer is entitled, in a tax return provided by the taxpayer for the return period.
@@ -6129,7 +6138,7 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
   (a) a taxpayer becomes a party to the arrangement and a shortfall penalty for an abusive tax position is imposed on the taxpayer as a result of the arrangement; and
   (b) the arrangement is offered, sold, issued or promoted to 10 or more persons in a tax year.
 (2) For the purpose of subsection (1)﻿(b), an arrangement is treated as being offered, sold, issued or promoted to 10 or more persons if 10 or more persons claim tax-related benefits as a result of the arrangement.
-(3) An arrangement is treated as being offered, sold, issued or promoted to all shareholders of a loss-attributing qualifying company and partners of a partnership if the arrangement is offered, sold, issued or promoted to the loss-attributing qualifying company or partnership respectively.
+(3) An arrangement is treated as being offered, sold, issued or promoted to all owners of an effective look-through interest for a look-through company (the LTC) and partners of a partnership if the arrangement is offered, sold, issued or promoted to the LTC or partnership respectively.
 (4) The amount of the promoter penalty is the greater of nil and the sum of tax shortfalls resulting from taking an abusive tax position on the arrangement, for which the promoter would have been liable if the promoter had—
   (a) been a party to the arrangement in the place of each party to the arrangement to whom the arrangement was offered, sold, issued or promoted; and
   (b) taken a tax position under which the arrangement is treated as producing for the promoter the taxation-related benefits that were intended by the parties to the arrangement; and
@@ -6241,14 +6250,7 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
 [Repealed]
 
 ### 141FD Shareholders of loss-attributing qualifying companies
-(1) This section applies to a shortfall penalty under Part 9 that arises because—
-  (a) a loss-attributing qualifying company attributes a tax loss to a person who, on any day in the income year for which the company had the tax loss, is a shareholder of the loss-attributing qualifying company; and
-  (b) the tax loss is subsequently reduced because—
-    (i) deductions claimed by the loss-attributing qualifying company for the income year are disallowed:
-    (ii) the gross income of the loss-attributing qualifying company for the income year is increased.
-(2) The shortfall penalty that would be imposed on the loss-attributing qualifying company in the absence of this section may not be imposed on the loss-attributing qualifying company.
-(3) A shortfall penalty may be imposed on the shareholder in relation to the amount of a deduction of the shareholder for the amount of the tax loss attributed to them.
-(4) No shortfall penalty under Part 9 relating to the reduction of the attributed net loss of the company may be imposed on the shareholder other than the shortfall penalty permitted by subsection (3).
+[Repealed]
 
 ### 141G Reduction in penalty for voluntary disclosure of tax shortfall
 (1) A shortfall penalty payable by a taxpayer under any of sections 141A to 141EB may be reduced if, in the Commissioner's opinion, the taxpayer makes a full voluntary disclosure to the Commissioner of all the details of the tax shortfall, either—
@@ -6352,9 +6354,10 @@ Part 9 does not apply to a person who is a non-filing taxpayer for a tax year if
 (2) In subsection (1), annual tax return, employer monthly schedule, and reconciliation statement have the meanings given to them in section 139A.
 
 ### 142A New due date for payment of tax that is not a penalty
-(1) This section applies if the Commissioner makes for a taxpayer—
-  (a) an assessment (the new assessment) of tax for which the taxpayer has not been assessed earlier:
+(1) This section applies if the Commissioner makes for a taxpayer, other than by an assessment (an electronic default assessment) made in the absence of a return and to which section 106(2) applies,—
+  (a) an assessment (the new assessment) of tax for the taxpayer, if the taxpayer has not been assessed earlier for the tax, except by an electronic default assessment:
   (b) an amended assessment (the increased assessment)—
+    (ia) to which paragraph (a) does not apply; and
     (i) of an amount of tax exceeding the amount for which the taxpayer is liable immediately before the increased assessment; and
     (ii) made less than 30 days before, or on or after, the due date for the tax for which the taxpayer is liable immediately before the increased assessment.
 (1B)
@@ -6365,7 +6368,7 @@ Part 9 does not apply to a person who is a non-filing taxpayer for a tax year if
   (b) give notice of the date to the taxpayer in the notice of the assessment.
 (3) Subsection (2) does not apply—
   (a) to any provisional tax that remains unpaid on an instalment date; or
-  (ab) if the assessment referred to in subsection (1)﻿(a) is a default assessment; or
+  (ab)
   (b) if the Commissioner has notified the taxpayer before the due date for the payment of the tax that subsection (2) will not apply in respect of the tax as calculated by the taxpayer, or in respect of an amount of tax estimated by the taxpayer; or
   (c) if the Commissioner considers that setting a new due date may prejudice the Commissioner's ability to recover the tax or increased tax.
 (4)
@@ -7143,12 +7146,13 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
 (2) Despite subsection (1), the Commissioner may not recover outstanding tax to the extent that—
   (a) recovery is an inefficient use of the Commissioner's resources; or
   (b) recovery would place a taxpayer, being a natural person, in serious hardship.
+(3) Despite subsection (2)﻿(b), the Commissioner may take steps preparatory to, or necessary to, bankrupt the taxpayer, including debt proceedings in the District Court or the High Court.
 
 ### 177 Taxpayer may apply for financial relief
 (1) A taxpayer, or a person on a taxpayer's behalf, applies for financial relief by either—
-  (a) making a claim stating why recovery of outstanding tax would place the taxpayer in serious hardship; or
+  (a) making a claim stating why recovery of the taxpayer's outstanding tax or a relief company's outstanding tax would place the taxpayer, being a natural person, in serious hardship; or
   (b) requesting to enter into an instalment arrangement with the Commissioner by telephone or in writing.
-(1B) For the purposes of subsection (1)﻿(a), when assessing whether recovery would place the taxpayer in serious hardship, the Commissioner must consider the taxpayer's financial position at the date on which the application for financial relief is made.
+(1B) For the purposes of this section, the Commissioner must consider the taxpayer's financial position at the date on which the application for financial relief is made.
 (2) The Commissioner may require a taxpayer, or a person on a taxpayer's behalf, to apply for financial relief under subsection (1)﻿(a) by notice.
 (3) Upon receiving a request, the Commissioner may—
   (a) accept the taxpayer's request; or
@@ -7158,25 +7162,24 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
 (4) A taxpayer has 20 working days, or a longer period allowed by the Commissioner, to provide the information sought or to respond to a counter offer.
 (5) If the Commissioner receives information or a response from a taxpayer outside the time period allowed under subsection (4), the receipt of the information or the response will be treated as a new request for financial relief.
 
-### 177A Definition of serious hardship
-(1) In this section and sections 176, 177, 177B and 177C, serious hardship, in relation to a taxpayer, being a natural person,—
-  (a) includes significant financial difficulties that arise because of—
-    (i) the taxpayer's inability to meet minimum living expenses according to normal community standards; or
-    (ii) the cost of medical treatment for an illness or injury of the taxpayer or the taxpayer's dependant; or
-    (iii) a serious illness suffered by the taxpayer or the taxpayer's dependant; or
-    (iv) the cost of education for the taxpayer's dependant; and
-  (b) does not include significant financial difficulties that arise because—
-    (i) the taxpayer is obligated to pay tax; or
-    (ii) the taxpayer may become bankrupt; or
-    (iii) the taxpayer's, or the taxpayer's dependant's, social activities and entertainment may be limited; or
-    (iv) the taxpayer is unable to afford goods or services that are expensive or of a high quality or standard according to normal community standards.
-(2) The Commissioner may take into account whether the recovery of outstanding tax would place—
-  (a) a shareholder who owns, or 2 shareholders who jointly own, 50% or more of the shares in a company in serious hardship; or
-  (b) a shareholder-employee of a close company in serious hardship.
-(3) For the purpose of subsection (2), close company means a company that satisfies paragraphs (a) and (c) of the definition of close company in section YA 1 of the Income Tax Act 2007.
+### 177A How to apply serious hardship provisions
+(1) Subsections (2), (3), and (4) provide the rules for the Commissioner to decide (the decision) whether,—
+  (a) for the purposes of section 176, recovery of outstanding tax would place a taxpayer, being a natural person, in serious hardship:
+  (b) for the purposes of section 177, the Commissioner may accept the taxpayer's request for financial relief on the basis of a claim that recovery of the taxpayer's outstanding tax or a relief company's outstanding tax would place the taxpayer, being a natural person, in serious hardship:
+  (c) for the purposes of section 177B, an instalment arrangement entered into by a taxpayer or a relief company would place the taxpayer, being a natural person, in serious hardship:
+  (d) for the purposes of section 177C, recovery of the outstanding tax would place the taxpayer, being a natural person, in serious hardship.
+(2) The Commissioner makes a decision under this section by determining whether financial information, after allowing for payment of a relevant amount of outstanding tax, and subject to subsections (3) and (4), shows that the taxpayer would, after the application under section 177 (the application), likely have significant financial difficulties because, after the application,—
+  (a) the taxpayer or their dependant has a serious illness:
+  (b) the taxpayer would likely be unable to meet—
+    (i) minimum living expenses estimated according to normal community standards of cost and quality:
+    (ii) the cost of medical treatment for an illness or injury of the taxpayer, or of their dependant:
+    (iii) the cost of education for their dependant:
+  (c) other factors that the Commissioner thinks relevant would likely arise.
+(3) Compliance with, and non-compliance with, tax obligations must not be considered by the Commissioner when making a decision under this section.
+(4) The Commissioner must use only financial information that the Commissioner has at the date on which the decision is made.
 
 ### 177B Instalment arrangements
-(1) The Commissioner must not enter into an instalment arrangement with a taxpayer to the extent that the arrangement would place the taxpayer in serious hardship.
+(1) The Commissioner must not enter into an instalment arrangement with a taxpayer or a relief company to the extent that the arrangement would place the taxpayer, being a natural person, in serious hardship.
 (2) The Commissioner may decline to enter into an instalment arrangement if—
   (a) to do so would not maximise the recovery of outstanding tax from the taxpayer; or
   (b) the Commissioner considers that the taxpayer is in a position to pay all of the outstanding tax immediately; or
@@ -7192,6 +7195,7 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
 
 ### 177C Write-off of tax by Commissioner
 (1) The Commissioner may write off outstanding tax that cannot be recovered.
+(1BA) The Commissioner may use, as a ground for deciding whether or not to write off the outstanding tax of a taxpayer or of a relief company, the basis that recovery of the outstanding tax would place the taxpayer, being a natural person, in serious hardship. The Commissioner is not required to write off the outstanding tax if the ground exists.
 (1B) The Commissioner may write off an amount of outstanding tax to the extent to which the amount—
   (a) is outstanding from the 2008–09 tax year; and
   (b) is tax payable under section MF 5(2) or MF 6(2) of the Income Tax Act 2007, or is otherwise the result of WFF tax credit overpayment or overcrediting; and
@@ -7215,10 +7219,10 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
 (5C) If a taxpayer has both a tax loss to which subsection (5) applies and a tax credit to which subsection (5B) applies, the Commissioner must extinguish the tax loss before extinguishing the tax credit.
 (6) For the purpose of subsection (5), the tax loss that may be extinguished is the tax loss of the taxpayer at the time at which the outstanding tax is written off and the Commissioner may use a figure for that tax loss based on the most recent return of income furnished by the taxpayer.
 (7) The Commissioner may reverse a write-off if—
-  (a) outstanding tax is written off on the grounds of serious hardship, and the taxpayer for whom the debt was written off—
+  (a) outstanding tax is written off on the grounds of serious hardship, and the taxpayer for whom the debt was written off is a natural person who—
     (i) declares bankruptcy within a year of the outstanding tax being written off; or
     (ii) is subject to bankruptcy proceedings brought by a creditor within a year of the outstanding tax being written off; or
-  (b) outstanding tax is written off on the grounds of serious hardship, and the taxpayer for whom the debt was written off is a company which, within a year of the outstanding tax being written off, is, or is in the course of being, liquidated; or
+  (b) outstanding tax is written off on the grounds of serious hardship, and the taxpayer for whom the debt was written off is a relief company which, within a year of the outstanding tax being written off, is, or is in the course of being, liquidated; or
   (c) the outstanding tax was written off due to false or misleading information provided by the taxpayer.
 (8) If the Commissioner enters into an instalment arrangement that provides for some outstanding tax to be written off, the Commissioner may not reverse the write-off even if, during the term of the instalment arrangement, the taxpayer does not meet the instalment arrangement's terms.
 
@@ -7675,6 +7679,15 @@ An account called the Listed PAYE Intermediary Bank Account is established by th
 The Governor-General may, from time to time, by Order in Council, amend Schedule 38 of the Income Tax Act 2007 by—
   (a) adding a statute, if the statute provides for an exemption from income tax, for salary or wages, that is to be ignored in determining the family scheme income of a person for an income year:
   (b) removing a statute.
+
+### 225D Regulations: community housing trusts and companies
+(1) The Governor-General may, from time to time, by Order in Council make regulations, on the combined recommendation of the Minister of Revenue and the Minister for Housing, specifying persons or classes of person, using all, some, or a combination of all or some, of the factors listed in subsection (2), that are counted as beneficiaries or clients, as the case may be, of entities for the purposes of section CW 42B(3)﻿(a) of the Income Tax Act 2007.
+(2) The factors that may be used to specify persons or classes of persons for the purposes of subsection (1) are—
+  (a) geographic location of persons in New Zealand:
+  (b) the composition of households persons live in:
+  (c) the income of persons or households relative to a maximum set by taking into account the lower quartile of household income based on household economic survey data published by Statistics New Zealand (the income maximum) and adjusting the income maximum by any appropriate economic factor, geographic, household composition, or otherwise:
+  (d) assets of persons relative to a maximum.
+(3) Regulations made under this section are treated as coming into force on a day specified for that purpose in the Order in Council, but that day must not be earlier than 14 April 2014.
 
 ### 226 Power to extend time for doing anything under Act
 (1) If anything required by or under this Act or the Income Tax Act 2007 or the Goods and Services Tax Act 1985 to be done at or within a fixed time cannot be or is not so done, the Governor-General, by Order in Council, may from time to time appoint a further or other time for doing that thing, whether the time at or within which that thing ought to have been done has or has not expired.
