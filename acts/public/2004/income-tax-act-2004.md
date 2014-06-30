@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-06-30_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -1325,15 +1325,15 @@ When dividends recovered
   (a) the recovered dividend and any attached imputation credit or dividend withholding payment credit are disregarded for the purposes of this Act; and
   (b) the resulting refunds are made.
 Amendment of assessments
-(2) Section 113B of the Tax Administration Act 1994 requires the Commissioner to amend assessments if given notice of the recovery.
+(2) Section 113B of the Tax Administration Act 1994 requires the Commissioner, if given notice of the recovery of the dividend from a shareholder, to amend an assessment of the company or the shareholder in relation to income tax or under the imputation rules, the NRWT rules, the RWT rules, the dividend withholding payment rules, or under section LE 2 (Credits in respect of dividends to non-resident investors), as applicable.
 Refunds
-(3) If the Commissioner is given notice of the recovery, the Commissioner must refund any relevant—
+(3) If the Commissioner has been notified of the recovery and has amended an assessment as described in subsection (2), the Commissioner must refund any relevant—
   (a) income tax, dividend withholding payment, or dividend withholding payment penalty tax of the shareholder; and
   (b) non-resident withholding tax or resident withholding tax of the company.
 Relationship with sections MD 1 and NH 4
 (4) The refund is made despite sections MD 1 (Refund of excess tax) and NH 4 (Refund for overpayment and to company in loss), but subject to the other provisions of this Act.
 Adjustments to accounts
-(5) A credit or debit (as applicable) arises as at the date of recovery, and must be recorded in—
+(5) If the Commissioner has been notified of the recovery and has amended an assessment as described in subsection (2), a credit or debit (as applicable) arises as at the date of recovery, and must be recorded in—
   (a) the imputation credit account of the company; or
   (b) if the shareholder is an imputation credit account company or dividend withholding payment account company, the imputation credit account or dividend withholding payment account of the shareholder.
 
@@ -5491,7 +5491,7 @@ Definition of items in formula
   (a) expenditure is the amount of the expenditure incurred by the company in deriving the dividend:
   (b) non-resident shareholding is the fraction of the company's shareholders that are non-residents, calculated under section NH 7(2) and NH 7(4).
 Link with subpart DA
-(3) This section overrides the exempt income limitation. The general permission must still be satisfied and the other general limitations still apply.
+(3) This section supplements the general permission and overrides the exempt income limitation. The other general limitations still apply.
 
 ### DB 45 Expenditure incurred in operating motor vehicle under agreement or arrangement affected by section CX 6B
 Deduction
@@ -8892,7 +8892,7 @@ Property: geothermal wells
 The following property is not depreciable property:
   (a) land, although buildings, fixtures, and the improvements listed in schedule 16 (Depreciable land improvements) are depreciable property if they are described by section EE 6(1):
   (b) trading stock:
-  (c) livestock to which subpart EB (Valuation of trading stock (including dealer's livestock)) applies:
+  (c) livestock to which subpart EC (Valuation of livestock) applies:
   (d) financial arrangements:
   (e) excepted financial arrangements other than depreciable intangible property:
   (f) property that will not decline in value, as far as its owner is concerned, because, when they dispose of it, they have a right to be compensated for any decline in its value:
@@ -9992,7 +9992,7 @@ What election applies to
 Timing of income
 (5) The foreign source income and foreign expenditure to which the election applies is allocated to the income year referred to in subsection (1)(c).
 Election treated as continuing
-(6) A person who has made an election is treated as making the same election for all later income years, unless—
+(6) An election made by a person under subsection (2) applies for the income year referred to in subsection (1)(c) and all later income years, unless—
   (a) the Commissioner agrees in writing to allow the person to revoke the election; or
   (b) the person's net income for the relevant income year would be more than $100,000 if their only income in the income year were foreign source income.
 Net income of more than $100,000
@@ -12877,8 +12877,12 @@ Categories of direct control interests
 (1) A person has a direct control interest in a foreign company at any time if they hold—
   (a) any of the shares in the foreign company:
   (b) any of the shareholder decision-making rights for the company:
-  (c) a right to receive, or to control the application of, any of the income of the company for the accounting period in which the time falls:
-  (d) a right to receive, or to control the application of, any of the value of the net assets of the company, if they are distributed.
+  (c) a right to—
+    (i) receive any income of the company for the accounting period in which the time falls; or
+    (ii) have the income of the company for the accounting period in which the time falls dealt with in their interest or on their behalf:
+  (d) a right to—
+    (i) receive any of the value of the net assets of the company, if they are distributed; or
+    (ii) have the net value of the assets, if they are distributed, dealt with in their interest or on their behalf.
 Percentage of total is counted
 (2) The direct control interest in each control interest category is the percentage of the total that the person holds.
 Measurement of available subscribed capital
@@ -12945,8 +12949,12 @@ Categories of direct income interest
 (1) A person has a direct income interest in a CFC at any time if they hold—
   (a) any of the shares in the foreign company:
   (b) any of the shareholder decision-making rights for the company:
-  (c) a right to receive, or to control the application of, any of the income of the company for the accounting period in which the time falls:
-  (d) a right to receive, or to control the application of, any of the value of the net assets of the company, if they are distributed.
+  (c) a right to—
+    (i) receive any income of the company for the accounting period in which the time falls; or
+    (ii) have the income of the company for the accounting period in which the time falls dealt with in their interest or on their behalf:
+  (d) a right to—
+    (i) receive any of the value of the net assets of the company, if they are distributed; or
+    (ii) have the net value of the assets, if they are distributed, dealt with in their interest or on their behalf.
 Percentage of total is counted
 (2) The person's direct income interest is the percentage of the total that the person holds.
 Varying percentages
@@ -13788,7 +13796,9 @@ Opening value
 (5) Opening value is the market value of the person's interest in the FIF at the end of the previous income year, calculated using the exchange rate applying under subsection (7) for that previous year. The value is zero if the person did not hold the interest then or was then applying another calculation method to it.
 Costs
 (6) Costs is the total for the income year of—
-  (a) all expenditure, if any, that the person incurs in acquiring or increasing the interest:
+  (a) all expenditure, if any, that—
+    (i) the person incurs in acquiring or increasing the interest:
+    (ii) another person incurs on behalf of the person referred to in subparagraph (i) in relation to the interest:
   (b) income tax on the income of the FIF—
     (i) for which the person is liable under the laws of a country or territory outside New Zealand; and
     (ii) paid by the person in the income year.
@@ -28532,7 +28542,7 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
       (i) it is capable of being used for breeding; or
       (ii) it is expected to be capable of being used for breeding when it reaches maturity
   - **hire purchase agreement** —
-    (a) means an agreement under which goods are let or hired with an option to purchase, however the agreement describes the payments, under which the person who agrees to purchase the goods is given possession of them before the total amount payable has been paid; and
+    (a) an agreement under which goods are let or hired with an option to purchase, however the agreement describes the payments; and
     (b) means an agreement for the purchase of goods by instalment payments, however the agreement describes the payments, under which the person who agrees to purchase the goods is given possession of them before the total amount payable has been paid; and
     (c) includes an agreement to sell goods at retail under which—
       (i) the buyer grants security over the goods to the seller for some or all of the purchase price; and
