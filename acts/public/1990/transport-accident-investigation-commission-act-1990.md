@@ -1,5 +1,5 @@
 # Transport Accident Investigation Commission Act 1990
-_Consolidation as at 2013-08-27_
+_Consolidation as at 2014-07-01_
 
 > An Act—ato establish the Transport Accident Investigation Commission, and to define its functions, duties, and powers; andbto regulate the disclosure and admissibility of certain transport accident or incident investigation information
 
@@ -68,10 +68,8 @@ The principal purpose of the Commission shall be to determine the circumstances 
 [Repealed]
 
 ### 6A Extra information to be included in statement of intent
-(1) The Commission must include the following information in its statement of intent under section 139 of the Crown Entities Act 2004:
-  (a) any new borrowings or financial leases or similar liabilities the Commission intends to incur during that year; and
-  (b) policies and priorities in exercising its discretion with respect to the investigation of accidents and incidents.
-(2) The Minister may direct the Commission to amend any provision that is included in the statement of intent under subsection (1)(a), and section 147 of the Crown Entities Act 2004 applies accordingly.
+(1) The Commission must include, in its statement of intent under section 139 of the Crown Entities Act 2004, policies and priorities in exercising its discretion with respect to the investigation of accidents and incidents.
+(2)
 
 ### 7 Further provisions applying in relation to Commission
 The provisions of the Schedule shall apply in relation to the Commission and its proceedings, members, employees, and committees.
