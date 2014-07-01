@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -1720,7 +1720,7 @@ If there is any inconsistency between any of sections 164 to 167 and the provisi
   (d) a search undertaken by consent.
 
 ### 170 Annual reporting of search and surveillance powers by Commissioner
-(1) The Commissioner must include in every annual report prepared by him or her for the purposes of section 39 of the Public Finance Act 1989—
+(1) The Commissioner must include in every annual report prepared by him or her for the purposes of section 43 of the Public Finance Act 1989—
   (a) the number of occasions on which entry or search powers under Part 2 or 3 of this Act were exercised without a warrant in the period covered by the report:
   (b) the number of occasions on which warrantless surveillance powers under Part 3 of this Act were exercised in the period covered by the report that involved the use of a surveillance device:
   (c) the number of applications for an examination order that were granted or refused in the period covered by the report:
@@ -1741,7 +1741,7 @@ If there is any inconsistency between any of sections 164 to 167 and the provisi
   (c) a tracking device.
 
 ### 171 Annual reporting of search and surveillance powers by agencies other than Police
-(1) The chief executive of a law enforcement agency (other than the Police) that employs or engages persons who may exercise an entry power, a search power, or a surveillance power conferred by this Act or by an enactment specified in column 2 of the Schedule must include in every annual report prepared by the chief executive for the purposes of section 39 of the Public Finance Act 1989, or any other applicable enactment requiring an annual report to Parliament,—
+(1) The chief executive of a law enforcement agency (other than the Police) that employs or engages persons who may exercise an entry power, a search power, or a surveillance power conferred by this Act or by an enactment specified in column 2 of the Schedule must include in every annual report prepared by the chief executive for the purposes of section 43 of the Public Finance Act 1989, or any other applicable enactment requiring an annual report to Parliament,—
   (a) the number of occasions on which entry or search powers were exercised without a warrant in the period covered by the report:
   (b) the number of occasions on which warrantless surveillance powers were exercised in the period covered by the report that involved the use of a surveillance device:
   (c) in respect of each kind of surveillance device used without a warrant in the period covered by the report, the numbers of that kind of device used—
@@ -3491,9 +3491,7 @@ In the period commencing on the date of commencement of section 98(3)(a) and end
   (b) on or after that date on an application made before that date.
 
 ### 348 Transitional provision in relation to sections 198 to 200 of Summary Proceedings Act 1957
-(1) Despite their repeal by section 337, sections 198 to 200 of the Summary Proceedings Act 1957 remain in force for the purposes of any enactment that incorporates or refers to any of those provisions.
-(2) Subsection (1) does not limit the application of the Interpretation Act 1999.
-(3) This section expires on the close of 30 June 2014.
+[Repealed]
 
 ### 349 Transitional provision relating to sections 200A to 200P of Summary Proceedings Act 1957
 (1) Despite the repeal of sections 200A to 200P of the Summary Proceedings Act 1957 by this Act,—
