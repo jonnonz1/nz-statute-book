@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -548,8 +548,8 @@ A statement of investment policies, standards, and procedures must cover (but is
 
 **Accountability**
 
-### 65 Statement of intent
-The statement of intent of the Guardians prepared each financial year under Part 4 of the Crown Entities Act 2004 must include (in addition to any other requirements)—
+### 65 Statement of performance expectations
+The statement of performance expectations of the Guardians prepared each financial year under Part 4 of the Crown Entities Act 2004 must include (in addition to any other requirements)—
   (a) a statement of the board’s expectations about the performance of the Fund over the next financial year, in sufficient detail to enable meaningful assessment against those expectations after the end of that financial year; and
   (b) a statement of the key risks to the performance of the Fund over the coming year and the actions being taken by the board to manage those risks; and
   (c) forecast financial statements of the Fund for the next financial year, including a statement of accounting policies.
@@ -568,7 +568,7 @@ The annual report of the Guardians prepared each financial year under Part 4 of 
   (a) the financial statements of the Fund for that financial year prepared under section 66; and
   (b) a statement of responsibility for the financial statements of the Fund, signed by the chairperson of the board and the chief executive of the Guardians (if any), and comprising the same statements that are required by section 155 of the Crown Entities Act 2004 as if the Fund were a Crown entity; and
   (c) the audit report on the financial statements; and
-  (d) an analysis and explanation of the performance of the Fund over that financial year, including a comparison with the Guardians’ expectations about the performance of the Fund that were set out in the statement of intent relating to that financial year; and
+  (d) an analysis and explanation of the performance of the Fund over that financial year, including a comparison with the Guardians’ expectations about the performance of the Fund that were set out in the statement of performance expectations relating to that financial year; and
   (e) a statement of the investment policies, standards, and procedures for the Fund established by the Guardians under section 60; and
   (f) a statement signed by the chairperson of the board and the chief executive of the Guardians (if any) certifying whether or not the investment policies, standards, and procedures for the Fund have been complied with throughout that financial year; and
   (g) a schedule of the investment managers and custodians used by the Guardians during that financial year and the classes of investments for which each was responsible.
