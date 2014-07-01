@@ -1,5 +1,5 @@
 # Parliamentary Service Act 2000
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the Parliamentary Service Act 2000.
@@ -504,7 +504,7 @@ The Parliamentary Service Commission is a public entity as defined in section 4 
 ### 16 Assets of Parliamentary Corporation owned by Parliamentary Service for certain purposes
 All assets and liabilities of the Parliamentary Corporation must be treated as the assets and liabilities of the Parliamentary Service for each of the following purposes:
   (a) the audit of the Service:
-  (b) the information that is required to be provided by the Service under section 14 or section 15 of the Public Finance Act 1989:
+  (b) the information that is required to be provided by the Service under sections 14 to 15A and 15E of the Public Finance Act 1989:
   (c) the reports and information required to be prepared under the Public Finance Act 1989:
   (d) any other matter done under, or in connection with, the Public Finance Act 1989.
 
