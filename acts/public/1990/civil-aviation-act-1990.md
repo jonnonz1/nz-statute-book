@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2014-02-15_
+_Consolidation as at 2014-07-01_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1779,13 +1779,9 @@ If the Minister of Finance is satisfied at any time that in any financial year t
 ### 72E Authority to consider delegating or contracting out of functions and powers
 Subject to this Act, the Authority shall, in the course of performing its functions and powers, consider whether it could most efficiently and effectively perform those functions and powers by means of its own operations or by delegating or contracting out those operations to appropriate persons selected after an appropriate competitive process.
 
-### 72F Extra information to be included in statement of intent
-(1) The Authority must include the following information in its statement of intent prepared under section 139 of the Crown Entities Act 2004:
-  (a) a statement of any new borrowings or financial leases, or similar liabilities the Authority intends to incur during that year; and
-  (b) a statement of the Authority's best estimate of—
-    (i) both the various impacts the outputs described in the statement of intent will have for, and the consequences of those outputs for, a safe civil aviation system in New Zealand during the year to which the statement of intent relates; and
-    (ii) the impacts of those outputs on, and consequences of those outputs for, a safe civil aviation system in New Zealand for later years.
-(2) The Minister may direct the Authority to amend any provision that is included in the statement of intent under this section, and section 147 of the Crown Entities Act 2004 applies accordingly.
+### 72F Restriction applying to statement of intent
+(1)
+(2)
 (3) No provision specifying any liabilities the Authority intends to incur may be included in a statement of intent without the concurrence of the Minister of Finance.
 
 ### 72G Service charter
@@ -3234,7 +3230,7 @@ For the purposes of applying the Government Superannuation Fund Act 1956, in acc
 [Repealed]
 
 ### 36
-The Director or the General Manager may from time to time appoint consultants, agents, specialists, and advisory committees to advise it or him or her in relation to the exercise of its or his or her functions and powers, and to exercise such functions and powers as may be delegated under this Act to such persons or committees.
+The Director or the General Manager may from time to time appoint consultants, agents, specialists, and advisory committees to advise him or her in relation to the exercise of his or her functions and powers, and to exercise such functions and powers as may be delegated under this Act to such persons or committees.
 
 ### 37
 The Director or the General Manager may—
