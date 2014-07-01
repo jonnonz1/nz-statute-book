@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2014-06-30_
+_Consolidation as at 2014-07-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -95,7 +95,9 @@ _Consolidation as at 2014-06-30_
       (ii) a finalised official statement of the Commissioner, in writing, if it specifically applies to the taxpayer's situation:
     (b) does not include a private binding ruling
   - **Commissioner's statement of position** means the statement of position that the Commissioner issues pursuant to a disclosure notice; and includes any additional information the Commissioner provides in respect of the statement under section 89M(8) or section 89M(11)
-  - **competent authority** is defined in section 173B
+  - **competent authority** —
+    (a) has the meaning provided in a double tax agreement or in a tax recovery agreement; and
+    (b) includes the Commissioner
   - **competent objection** , for the purposes of Part 8 and in relation to a person, being a taxpayer, and to any assessment, means an objection made by the person, to the assessment, in accordance with section 126; but does not include any non-qualifying objection
   - **consideration** , in section 91, has the same meaning as in paragraph (a) of the definition of that term in section YA 1 of the Income Tax Act 2007
   - **contested act of assistance** is defined in section 173B
@@ -173,6 +175,7 @@ _Consolidation as at 2014-06-30_
   - **family trust** is defined in section 173M(5) for the purpose of that section
   - **first payment period** , in section 47 and 173, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
+  - **foreign account information-sharing agreement** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **fringe benefit** , in section 22, has the meaning given by section CX 2 of the Income Tax Act 2007
   - **full and complete inspection** —
     (a) includes use as evidence in court proceedings:
@@ -423,9 +426,10 @@ _Consolidation as at 2014-06-30_
     (n) a right to a tax credit:
     (o) the amount of a subsidy claimed under section RP 4 of the Income Tax Act 2007 to a listed PAYE intermediary
   - **tax recovery agreement** is defined in section 173B
-  - **tax return** means a form or document that a taxpayer is required by a tax law—whether in electronic or written form and whether provided in respect of a period or not; and also includes a tax form issued by another taxpayer that the taxpayer provides to the Commissioner
-    (a) to complete; and
-    (b) to provide to the Commissioner,—
+  - **tax return** —
+    (a) means a form or document that a taxpayer is required to complete and return to the Commissioner, whether in electronic or written form and whether provided in relation to a period or not; and
+    (b) includes a tax form issued by another taxpayer that the taxpayer provides to the Commissioner; but
+    (c) does not include the prescribed form or electronic format under section 185K
   - **tax shortfall** , for a return period, means the difference between the tax effect of—when the taxpayer's tax position results in too little tax paid or payable by the taxpayer or another person or overstates a tax benefit, credit, or advantage of any type or description whatever by or benefiting (as the case may be) the taxpayer or another person
     (a) a taxpayer's tax position for the return period; and
     (b) the correct tax position for that period,—
@@ -1153,6 +1157,7 @@ An information holder who is required to disclose information in relation to a p
   (ke) the transfer under section 24Q of an amount of an employee's payroll donation to the recipient of the donation; and
   (l) every employer's superannuation cash contribution, and the taxable value of that contribution, made by the person to any superannuation fund, those records to include (without limiting the generality of the preceding provisions of this paragraph) details of the recipient of the employer's superannuation cash contribution, the occasion of making it, and any related tax credit under section MK 1(2) of the Income Tax Act 2007; and
   (lb) every retirement scheme contribution, and the taxable value of that contribution, made by the person to any retirement savings scheme, those records to include, without limiting the generality of the preceding provisions of this paragraph, details of the recipient of the retirement scheme contribution and the occasion of making it; and
+  (lc) the person’s compliance with Part 11B; and
   (m) the financial position of the foreign trust,—
 (2BA) A taxpayer required by subsection (2) to keep and retain a record must keep and retain the record—
   (a) in English, or in a language in which the Commissioner authorises the taxpayer under subsection (8) to keep the record or the type of record; and
@@ -6410,6 +6415,7 @@ A non-electronic filing penalty under section 139AA is due and payable on the 5t
 ### 143 Absolute liability offences
 (1) A person commits an offence against this Act if the person—
   (a) does not keep the documents required to be kept by a tax law; or
+  (ab) fails to register with a foreign government agency as required by Part 11B; or
   (b) does not provide information (including tax returns and tax forms) to the Commissioner or any other person when required to do so by a tax law; or
   (ba) does not provide a tax invoice as required by section 24 of the Goods and Services Tax Act 1985; or
   (c) does not apply for registration as required under section 51 of the Goods and Services Tax Act 1985.
@@ -6422,6 +6428,7 @@ A non-electronic filing penalty under section 139AA is due and payable on the 5t
 (2) No person may be convicted of an offence against subsection (1)﻿(b) for not providing information (other than tax returns and tax forms) to the Commissioner if the person proves that, as and when the person was required by the Commissioner to provide the information—
   (a) the person did not have the information in the person's knowledge, possession or control; and
   (b) no non-resident, who under section 17(1C) was controlled directly or indirectly by the person, had the information in the non-resident's knowledge, possession or control.
+(2B) No person may be convicted of an offence against subsection (1)﻿(ab) if the relevant failure to register occurred through no fault of the person.
 (3) A person who is convicted of an offence against subsection (1) is liable—
   (a) the first time the person is convicted in relation to a particular type of offence, to a fine not exceeding $4,000:
   (b) the second time the person is convicted of the same type of offence, to a fine not exceeding $8,000:
@@ -6431,6 +6438,7 @@ A non-electronic filing penalty under section 139AA is due and payable on the 5t
 ### 143A Knowledge offences
 (1) A person commits an offence against this Act if the person—
   (a) knowingly does not keep the documents required to be kept by a tax law; or
+  (ab) knowingly fails to register with a foreign government agency as required by Part 11B; or
   (b) knowingly does not provide information (including tax returns and tax forms) to the Commissioner or any other person when required to do so by a tax law; or
   (c) knowingly provides altered, false, incomplete, or misleading information (including tax returns and tax forms) to the Commissioner or any other person in respect of a tax law or a matter or thing relating to a tax law; or
   (d) knowingly applies or permits the application of the amount of a deduction or withholding of tax made or deemed made under a tax law for any purpose other than in payment to the Commissioner; or
@@ -6550,18 +6558,16 @@ A non-electronic filing penalty under section 139AA is due and payable on the 5t
   (c)
   (d) being a bank licensed under section 81 of the Stamp and Cheque Duties Act 1971, fails to comply with a provision of that section or of any licence granted under that section; or
   (e) being a printer licensed under section 82 of the Stamp and Cheque Duties Act 1971, fails to comply with a provision of that section or of a licence granted under that section; or
-  (f) fails to comply with a provision of section 84 of the Stamp and Cheque Duties Act 1971; or
-  (g) being licensed under section 83 of the Stamp and Cheque Duties Act 1971, or being a printer authorised under that section, fails to comply with a provision of that section, or of a licence or authority granted under that section.
+  (f)
+  (g)
   (h)
   (i)
   (j)
-(2) A person commits an offence against this Act if the person—
-  (a)
-  (b) without first being licensed or authorised under Part 6 of the Stamp and Cheque Duties Act 1971 to do so, prints on a bill of exchange or bill of exchange form an inscription indicating that the cheque duty for the bill or form has been paid.
+(2)
 (3)
 (4)
 (5) A person who is convicted of an offence against subsection (1) is liable to a fine not exceeding $12,000.
-(6) A person who is convicted of an offence against subsection (2) is liable to a fine not exceeding $20,000.
+(6)
 (7)
 
 ### 145 Penalties for offences for which no specific penalty imposed
@@ -6925,7 +6931,6 @@ This Part applies to tax recovery agreements negotiated between the government o
 
 ### 173B Definitions
 In this Part—
-  - **competent authority** has the meaning provided in a double tax agreement or in a tax recovery agreement and includes the Commissioner
   - **contested act of assistance** means an act of or on behalf of a competent authority that a person affected by the act considers is inconsistent with a tax recovery agreement or this Part
   - **tax recovery agreement** means—
     (a) a convention or an agreement negotiated to assist in the recovery of unpaid tax due to either or both of the Governments that are parties to the convention or the agreement that has—
@@ -7495,6 +7500,57 @@ An account called the Listed PAYE Intermediary Bank Account is established by th
 (1) All payments received by the Commissioner from a listed PAYE intermediary and made under sections RP 2 to RP 5 of the Income Tax Act 2007 must be paid into the Listed PAYE Intermediary Bank Account.
 (2) Such amount as is necessary to meet the payments required to be made under section RP 4 of the Income Tax Act 2007 must be paid into the Listed PAYE Intermediary Bank Account.
 (3) The money standing to the credit of the Listed PAYE Intermediary Bank Account must be applied in making payments under section RP 4 of the Income Tax Act 2007.
+
+## Part 11B — Foreign account information-sharing agreements
+
+### 185E Purpose
+The purpose of this Part is to give effect to and implement foreign account information-sharing agreements.
+
+### 185F Permitted choices in relation to foreign account information-sharing agreements
+(1) This section applies for a person, as described in a foreign account information-sharing agreement (the agreement), if—
+  (a) the agreement describes or contemplates a choice or a course of action or inaction (a permitted choice) in relation to them:
+  (b) a choice made by the New Zealand government under the agreement allows, as described or contemplated in the agreement, the person a permitted choice.
+(2) The person is authorised to make, do, or not do, as described or contemplated by the agreement, the permitted choice, and to do or not do anything necessarily incidental to giving effect to the permitted choice.
+(3) The obligations in this Part are modified to the extent necessary to give effect to anything authorised by subsection (2) (for example: a permitted choice, authorised by subsection (2), as to using 1 of 2 due diligence procedures contemplated by the agreement means that the chosen procedure would be part of the required due diligence procedures for the purposes of section 185H).
+(4) The Commissioner must publish an appropriate notice of a choice made or revoked by the New Zealand government under the agreement in a publication chosen by the Commissioner.
+(5) A person's permitted choice and a choice made by the New Zealand government under the agreement are treated as part of the agreement for the purposes of this Part and section BH 1 of the Income Tax Act 2007.
+(6) Subsections (2) to (5) do not apply to a choice or course of action or inaction listed in subsection (7) (an excluded choice).
+(7) For the purposes of subsection (6), the following are excluded choices:
+  (a) an election to report on accounts under Annex 1.II.A of the foreign account information-sharing agreement:
+  (b) an election to report on accounts under Annex 1.III.A of the foreign account information-sharing agreement:
+  (c) an election to report on accounts under Annex 1.IV.A of the foreign account information-sharing agreement:
+  (d) an election to report on accounts under Annex 1.V.A of the foreign account information-sharing agreement.
+
+### 185G Obligations related to foreign account information-sharing agreements: registration
+A person, as described in a foreign account information-sharing agreement (the agreement), is required to comply with the relevant registration requirements described or contemplated in the agreement.
+
+### 185H Obligations related to foreign account information-sharing agreements: due diligence
+A person, as described in a foreign account information-sharing agreement (the agreement), is required to apply the relevant due diligence procedures described or contemplated in the agreement.
+
+### 185I Obligations related to foreign account information-sharing agreements: information for NZ competent authority
+(1) A person, as described in a foreign account information-sharing agreement (the agreement), must obtain and provide information to the New Zealand competent authority if that information and its providing and obtaining is described or contemplated in the agreement in relation to the person, and including obtaining and providing—
+  (a) the information that the New Zealand competent authority is obliged to obtain and exchange with a foreign competent authority:
+  (b) other information that the person is authorised to obtain and provide to the New Zealand competent authority.
+(2) Information described in subsection (1) must be obtained and provided in accordance with—
+  (a) the agreement; and
+  (b) regulations made by Order in Council by the Governor-General for the purposes of this Part under section 224.
+
+### 185J Obligations related to foreign account information-sharing agreements: information for third parties
+(1) A person, as described in a foreign account information-sharing agreement (the agreement), must obtain and provide information to a foreign competent authority if that information and its providing and obtaining is described or contemplated in the agreement in relation to the person, and it is validly requested from the person by the foreign competent authority.
+(2) A person, as described in the agreement, must obtain and provide information to a third party if that information and its providing and obtaining is described or contemplated in the agreement in relation to the person, and the person is authorised to obtain and provide it to the third party (for example: an agreement may contemplate a choice to provide certain information to a third party. If the person chooses to provide that information, section 185F applies to authorise that choice. The person would then have to provide that information to the third party in accordance with their choice and the agreement).
+(3) Information described in subsections (1) and (2) must be obtained and provided in accordance with—
+  (a) the agreement; and
+  (b) regulations made by Order in Council by the Governor-General for the purposes of this Part under section 224.
+
+### 185K Information provided in form prescribed by Commissioner
+The information in section 185I(1)﻿(a) and (b) must be provided to the New Zealand competent authority in the prescribed form or electronic format.
+
+### 185L Foreign account information-sharing agreements: anti-avoidance
+If a person enters into an arrangement, and a main purpose of the person in entering into the arrangement is to avoid an obligation under this Part, then the arrangement is treated as having no effect for the purposes of applying this Part.
+
+### 185M Timeframes not specified
+(1) If an instrument described in section 185I(2)﻿(a) and (b) does not specify, or is discretionary as to, the period to which the information in section 185I(1)﻿(a) and (b) must relate, then the information must relate to a tax year.
+(2) If an instrument described in section 185I(2)﻿(a) and (b) does not specify, or is discretionary as to, a time when the information in section 185I(1)﻿(a) and (b) must be provided, then the information must be provided within 3 months of the end of the period that the information relates to.
 
 ## Part 12 — Offences and penalties
 
@@ -8211,3 +8267,14 @@ This Part amends the Tax Administration Act 1994.
   (b) relating to the treatment of a petroleum permit or replacement permit; and
   (c) relying on the definition of petroleum permit as it was before the amendment made by subsection (2).
 (6) Subsection (3) applies for the 2008–09 and later income years.
+
+### 1 Title
+This Act is the Cheque Duty Repeal Act 2014.
+
+### 2 Commencement
+(1) Sections 3 and 4 come into force on 1 July 2014.
+(2) Section 5 comes into force on 22 July 2014.
+
+### 4 Tax Administration Act 1994 amended consequential to cheque duty repeal
+(1) Amendment(s) incorporated in the Act(s).
+(2) For the purposes of section 144(1)﻿(d) and (e) of the Tax Administration Act 1994, a bank or printer that has its licence cancelled under section 3(2) of this Act is treated as licensed under section 81, or section 82 (as the case may be) of the Stamp and Cheque Duties Act 1971 despite section 3 of this Act.
