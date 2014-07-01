@@ -1,5 +1,5 @@
 # Securities Trustees and Statutory Supervisors Act 2011
-_Consolidation as at 2014-05-01_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the Securities Trustees and Statutory Supervisors Act 2011.
@@ -208,7 +208,7 @@ A licence must state the following information:
   (b) every director and senior manager of the applicant is of good character:
   (c) in the case of an applicant for a licence that covers a security, the applicant—
     (i) is registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008; or
-    (ii) complies with section 13(a) and (b) of that Act:
+    (ii) complies with section 13(a) of that Act:
   (d) in the case of an applicant for a licence that covers a retirement village, the applicant complies with section 13(a) of the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
 (3) Before making a decision under subsection (1), the FMA must assess the following matters:
   (a) the experience, skills, and qualifications of the applicant (including, in particular, of the applicant's directors and senior managers):
