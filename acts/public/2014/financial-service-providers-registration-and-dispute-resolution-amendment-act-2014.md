@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014
-_Consolidation as at 2014-06-06_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Amendment Act 2014.
