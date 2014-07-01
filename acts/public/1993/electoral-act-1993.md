@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-07-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -3248,7 +3248,7 @@ In this Part, unless the context otherwise requires,—
   (a) a party secretary:
   (b) a candidate:
   (c) a registered promoter:
-  (d) an unregistered promoter who does not incur advertising expenses exceeding $12,300 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
+  (d) an unregistered promoter who does not incur advertising expenses exceeding $12,500 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
 (2) The amount in subsection (1)(d) is inclusive of goods and services tax.
 (3) Every person who wilfully promotes an election advertisement without being entitled to do so under subsection (1) is guilty of an illegal practice.
 
@@ -3441,8 +3441,8 @@ Every person is guilty of—
 
 ### 205C Maximum amount of candidate's total election expenses
 (1) The total election expenses of a candidate in respect of any regulated period must not exceed—
-  (a) $25,700 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
-  (b) $51,300 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
+  (a) $26,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
+  (b) $52,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
 (2) The amounts in subsection (1) are inclusive of goods and services tax.
 
 ### 205D Apportionment of advertising expenses for publication of candidate advertisement both before and during regulated period
@@ -3581,9 +3581,9 @@ Every person is guilty of—
 
 ### 206C Maximum amount of party's total election expenses
 (1) If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed—
-  (a) $1,091,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
-  (b) $25,700 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
-(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $25,700 for each electoral district contested by a candidate for the party.
+  (a) $1,108,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+  (b) $26,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
+(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $26,100 for each electoral district contested by a candidate for the party.
 (3) The amounts in subsections (1) and (2) are inclusive of goods and services tax.
 
 ### 206CA Apportionment of advertising expenses for publication of party advertisement both before and during regulated period
@@ -3744,7 +3744,7 @@ Every person is guilty of—
   (b) an illegal practice who contravenes section 206T in any other case.
 
 ### 206V Maximum amount of registered promoter's total election expenses
-(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $308,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
+(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $313,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
 (2) The amount in subsection (1) is inclusive of goods and services tax.
 
 ### 206W Apportionment of advertising expenses for publication of election advertisement promoted by registered promoter both before and during regulated period
@@ -5311,18 +5311,6 @@ This Act amends the Electoral Act 1993.
 
 ### Subpart 1 — Provisions coming into force on day after assent
 
-**Transitional provision approving electronic medium for online re-enrolment and updating**
-
-### 38 Deemed approval of electronic medium called igovt logon service
-(1) In this section,—
-  - **igovt logon service** means the government logon service developed by the Department of Internal Affairs and on the commencement of this section called the igovt logon service
-  - **online re-enrolment and updating provisions** means sections 82(4A), 83A(3), and 90(2A) of the principal Act (as inserted by sections 8, 9, and 11 of this Act).
-(2) The igovt logon service must, if and insofar as the deemed approval by this section has not been amended, revoked, or replaced, be taken to be an electronic medium approved for the purposes of all of the online re-enrolment and updating provisions.
-(3) The Chief Registrar, or on or after 1 July 2012 the Electoral Commission, may in accordance with the online re-enrolment and updating provisions do either or both of the following:
-  (a) amend, revoke, or revoke and replace some or all of the deemed approval by this section, and for the purposes of all of those provisions, of the igovt logon service:
-  (b) approve for the purposes of all or any of those provisions 1 or more additional electronic media.
-(4) This section does not limit or affect the generality of the online re-enrolment and updating provisions.
-
 **Transitional provisions relating to abolition of Chief Registrar of Electors**
 
 ### 39 Office of Chief Registrar of Electors abolished
@@ -5367,7 +5355,7 @@ Proceedings relating to an existing right, interest, title, immunity, or duty, c
 ### 48 Transitional or savings regulations
 (1) The Governor-General may, by Order in Council, make regulations providing for any transitional or savings matters concerning the coming into force of all or any of the provisions of this Act.
 (2) Regulations under this section must not be inconsistent with this Act.
-(3) Regulations under this section are regulations for the purposes of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+(3) Regulations under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 1 Title
 This Act is the Electoral Amendment Act 2014.
