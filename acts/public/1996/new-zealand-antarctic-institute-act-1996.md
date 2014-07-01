@@ -1,5 +1,5 @@
 # New Zealand Antarctic Institute Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-07-01_
 
 > An Act to establish the New Zealand Antarctic Institute to manage New Zealand's Antarctic activities and to provide for incidental matters
 
@@ -48,11 +48,7 @@ In performing its functions, the Institute shall act in a manner that is consist
 (2) In other respects, section 73 of the Crown Entities Act 2004 applies.
 
 ### 9 Government directions
-(1) The Minister may from time to time, by written notice to the Board, direct the Board to include in its statement of intent under section 139 of the Crown Entities Act 2004 such provision as the Minister considers necessary—
-  (a) to enable the fulfilment (in whole or in part) of any obligation or undertaking arising from any international convention or international agreement or international arrangement to which the Government of New Zealand, or any department, agency, or other instrument of the Government of New Zealand, is a party; or
-  (b) to implement (in whole or in part) any policy of the Government of New Zealand in respect of Antarctica and the Southern Ocean.
-(2)
-(3)
+[Repealed]
 
 ### 10 Further provisions applying to Institute and Board
 The provisions set out in Schedule 1 shall apply in respect of the Institute and the Board.
