@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2014-06-30_
+_Consolidation as at 2014-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -67,10 +67,7 @@ Other obligations
 Tax avoidance arrangements: subpart BG
 (1) Under Part G (Avoidance and non-market transactions), the Commissioner may counteract a tax advantage from a tax avoidance arrangement.
 Double tax agreements: subpart BH
-(2) Under subpart BH (Double tax agreements) a double tax agreement has effect in relation to—
-  (a) income tax; or
-  (b) any other tax imposed by this Act; or
-  (c) the exchange of information that relates to a tax, as defined in paragraphs (a)(i) to (v) of the definition of tax in section 3 of the Tax Administration Act 1994.
+(2) Subpart BH (Double tax agreements) provides for the effect of a double tax agreement.
 
 ### Subpart BC — Calculating and satisfying income tax liabilities
 
@@ -255,12 +252,14 @@ Purposes
 Entry into force
 (3) An agreement to which subsection (1)(a) and (b) apply enters into force on the date specified by the Governor-General by Order in Council.
 Overriding effect
-(4) Despite anything in this Act, except subsection (5), or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 1993, a double tax agreement has effect in relation to—
+(4) Despite anything in this Act, except subsection (5) or (5B), or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 1993, a double tax agreement has effect in relation to—
   (a) income tax:
   (b) any other tax imposed by this Act:
   (c) the exchange of information that relates to a tax, as defined in paragraphs (a)(i) to (v) of the definition of tax in section 3 of the Tax Administration Act 1994.
 Agreement for recovery of tax
 (5) An agreement that provides for the recovery of unpaid tax is subject to Part 10A of the Tax Administration Act 1994.
+Foreign account information-sharing agreements
+(5B) A foreign account information-sharing agreement is subject to Part 11B of the Tax Administration Act 1994.
 Reference to profits
 (6) A reference in a double tax agreement to the profits of an activity or business is to be read, if possible, as a reference to the amount that would be a person's net income if that activity or business were their only activity or business.
 Reference to unrelated persons
@@ -5159,6 +5158,7 @@ No deduction
 (1) A person is denied a deduction for the following:
   (a) income tax:
   (b) a tax imposed in a country or territory outside New Zealand that is substantially the same as income tax:
+  (bb) an amount withheld under section 1471 or 1472 of the Internal Revenue Code of 1986 (USA), as amended from time to time:
   (c) ancillary tax, unless listed in subsection (2):
   (d) a civil penalty under Part 9 of the Tax Administration Act 1994:
   (e) a tax, a penalty, or interest on unpaid tax that is—
@@ -38695,6 +38695,7 @@ In this Act, unless the context requires otherwise,—
     (i) in section EX 46(10)(a) and subpart FE (Interest apportionment on thin capitalisation), means a share meeting the requirements of paragraph (f)(i) and (iii)
   - **flat-owning company** is defined in section CD 31(2) (Flat-owning companies) for the purposes of that section, section HA 6 (Corporate requirements), and the definition of
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
+  - **foreign account information-sharing agreement** means a double tax agreement that facilitates the exchange of information named Agreement between the Government of the United States of America and the Government of New Zealand to Improve International Tax Compliance and to Implement FATCA
   - **foreign ASAP** means a financial arrangement that is an agreement for the sale and purchase of property or services and, at the time the ASAP is entered into 50% or more of the consideration in New Zealand dollars is in a foreign currency, measured using spot rates at that time
   - **foreign attributed income** means a company’s income for the income year that is—
     (a) attributed CFC income:
