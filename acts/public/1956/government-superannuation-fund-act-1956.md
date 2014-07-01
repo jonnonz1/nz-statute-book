@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-07-01_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -340,8 +340,8 @@ A statement of investment policies, standards, and procedures must cover (but is
   (j) the method of, and basis for, valuation of investments that are not regularly traded at a public exchange; and
   (k) prohibited or restricted investments or any investment constraints or limits.
 
-### 15N Statement of intent
-The statement of intent of the Authority prepared each financial year under Part 4 of the Crown Entities Act 2004 must include (in addition to any other requirements)—
+### 15N Forecast financial statements
+The forecast financial statements of the Authority prepared each financial year under section 149G of the Crown Entities Act 2004 must include (in addition to any other requirements)—
   (a) a statement of the board's expectations about the performance of the Fund over the next financial year, in sufficient detail to enable meaningful assessment against those expectations after the end of that financial year; and
   (b) a statement of the key risks to the performance of the Fund over the coming year and the actions being taken by the board to manage those risks; and
   (c) forecast financial statements of the Fund for the next financial year, including a statement of accounting policies.
@@ -2779,7 +2779,7 @@ Notwithstanding anything to the contrary in Part 2 or Part 3 of this Act or in s
   (c) the name and address of the person to whom all correspondence from the members should be sent.
 (1A) The annual report must also include (in addition to any other requirements)—
   (a) a statement of responsibility for the financial statements of the Fund, signed by the chairperson of the board and the chief executive of the Authority (if any); and
-  (b) an analysis and explanation of the performance of the Fund over that financial year, including a comparison with the Authority's expectations about the performance of the Fund that were set out in the statement of intent relating to that financial year; and
+  (b) an analysis and explanation of the performance of the Fund over that financial year, including a comparison with the Authority's expectations about the performance of the Fund that were set out in the forecast financial statements relating to that financial year; and
   (c) a statement of the investment policies, standards, and procedures for the Fund established by the Authority under section 15L; and
   (d) a statement, signed by the chairperson of the board and the chief executive of the Authority (if any), certifying whether or not the investment policies, standards, and procedures for the Fund have been complied with throughout that financial year; and
   (e) a schedule of—
