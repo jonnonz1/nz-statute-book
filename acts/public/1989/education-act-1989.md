@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2014-07-01_
 
 > An Act to reform the administration of education
 
@@ -4353,15 +4353,21 @@ The chief executive of the Commission—
     (ii) must include a summary of the nature and scope of the Commission's proposed operations; and
     (iii) may cover both financial and non-financial matters; and
   (b) a general description of the Commission's proposed strategies and activities for giving effect to, or achieving, the things referred to in paragraph (a), including a list of the intended principal activities of the Commission and how they relate to the things referred to in paragraph (a); and
-  (c) a description of how the statement of forecast service performance in the statement of intent links to the things referred to in paragraph (a); and
+  (c)
   (d) a general description of the manner in which the Commission proposes to operate and, in particular,—
     (i) which other persons or bodies engaged in similar or related work it proposes to liaise with, and how it proposes to liaise with those other persons or bodies; and
     (ii) what capability it needs to do its work, and how it will develop that capability; and
-    (iii) how it proposes to manage its risks; and
-  (e) for each of the financial years to which the statement of intent relates, performance measures and targets by which the Commission's performance, and progress towards delivering the things referred to in paragraph (a) may be judged.
-(2) The Commission need not include in its statement of intent the information required in section 141(1)﻿(b), (e), and (f) of the Crown Entities Act 2004.
-(3) The grouping of outputs in the statement of forecast service performance in the statement of intent must be done so that, in the case of outputs funded by appropriation, a group of outputs does not contain outputs funded from more than 1 appropriation in the Estimates.
-(4) The Minister may, in relation to the Commission, exercise his or her powers under section 147(1) of the Crown Entities Act 2004 as if that section included a reference to subsection (1)﻿(a) and (e); and that section applies accordingly.
+    (iii) how it proposes to manage its risks.
+  (e)
+(2) The Commission need not include in its statement of intent the information required in section 141(1) and (2)﻿(a) to (c) of the Crown Entities Act 2004.
+(3)
+(4) The Minister may, in relation to the Commission, exercise his or her powers under section 147(1) of the Crown Entities Act 2004 as if that section included a reference to subsection (1)﻿(a); and that section applies accordingly.
+
+### 159KEA Statement of performance expectations
+(1) The statement of performance expectations that the Commission is required to provide to its responsible Minister under section 149I of the Crown Entities Act 2004—
+  (a) must be consistent with the tertiary education strategy; and
+  (b) may relate to more than 1 financial year.
+(2) The grouping of outputs in the statement of performance expectations must be done so that, in the case of outputs funded by appropriation, a group of outputs does not contain outputs funded from more than 1 appropriation in the Estimates.
 
 ### 159KF Annual report
 (1) The Commission must include in its annual report a description of how the Commission is monitoring, and how it will report on, progress in giving effect to the tertiary education strategy.
@@ -7255,9 +7261,7 @@ It is the duty of the Board in managing the affairs of the Service—
 [Repealed]
 
 ### 283C Contents of statement of intent
-In addition to the information required under section 141 of the Crown Entities Act 2004, every statement of intent must specify—
-  (a) the services that the Board is to provide; and
-  (b) the persons for whom or which the services are to be provided.
+[Repealed]
 
 ### 283D Amendments to documents
 [Repealed]
