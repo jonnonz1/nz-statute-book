@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-07-01_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -2213,7 +2213,7 @@ Every person on whom any duty is imposed by this Act—the means required by the
     (ii) every current holder of a maritime document or marine protection document; and
     (iii) every person who holds a document recognised under this Act as a maritime document or marine protection document:
   (g) a list of the conventions and the parties to each of those conventions:
-  (h) the current performance agreement:
+  (h)
   (i) the current service charter.
 (3) Documents kept at the Registry shall be made available by the Authority, in accordance with the provisions of the Official Information Act 1982, for inspection by the public free of charge.
 (4) Subsection (3) is subject to the Privacy Act 1993.
@@ -4510,14 +4510,9 @@ The objective of the Authority is to undertake its safety, security, marine prot
 ### 435 Authority to consider delegating or contracting out of functions and powers
 Subject to this Act, the Authority shall, in the course of performing its functions and powers, consider whether it could most efficiently and effectively perform those functions and powers by means of its own operations or by delegating or contracting out those operations to appropriate persons selected after an appropriate competitive process.
 
-### 436 Extra information to be included in statement of intent
-(1) The Authority must include the following information in its statement of intent prepared under section 139 of the Crown Entities Act 2004:
-  (a) a statement of any new borrowings or financial leases, or similar liabilities the Authority intends to incur during that year; and
-  (b) a statement of the Authority’s best estimate of—
-    (i) both the various impacts the outputs described in the statement of intent will have, and the consequences of those outputs, for a safe maritime system in New Zealand during the year to which the statement of intent relates; and
-    (ii) the impacts of those outputs on, and consequences of those outputs for, a safe maritime system in New Zealand for later years; and
-  (c) a statement of the Authority’s assessment of the impact and consequences that the outputs will have for New Zealand’s preparedness to respond to marine oil pollution.
-(2) The Minister may direct the Authority to amend any provision that is included in the statement of intent under this section, and section 147 of the Crown Entities Act 2004 applies accordingly.
+### 436 Restriction applying to statement of intent
+(1)
+(2)
 (3) No provision specifying any liabilities the Authority intends to incur may be included in a statement of intent without the concurrence of the Minister of Finance.
 
 ### 437 Service charter
