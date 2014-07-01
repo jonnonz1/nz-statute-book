@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-07-01_
 
 > Title
 
@@ -51,7 +51,7 @@ _Consolidation as at 2014-04-01_
       (iii) accepting debt on assignment from other persons; but
     (b) does not include the purchase of goods or services on credit, or the obtaining of an advance, through the use of a credit card or by a supplier supplying credit for the purchase of goods or services, for a period of 90 days or less from the date the credit card is used or the credit is supplied
   - **borrowing expenses** means any interest or other financing expenses in respect of any loan or under any public security
-  - **Budget** means the Minister's statement in moving the second reading of the first Appropriation Bill for a financial year
+  - **Budget** means the Minister's statement in moving the second reading of the main Appropriation Bill for a financial year
   - **capital expenditure** means the costs of assets acquired or developed (including tangible, intangible, or financial assets and any ownership interest in entities, but excluding inventories)
   - **carrying amount** has the meaning given to it under generally accepted accounting practice
   - **category** ,—
@@ -101,7 +101,7 @@ _Consolidation as at 2014-04-01_
       (i) is currently, or in the future becomes, recurrently entered into in the financial markets; and
       (ii) is a forward, swap, future, option, or other derivative on 1 or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, economic indices or measures of economic risk or value, environmental or climatic variable, or other benchmarks against which payments or deliveries are to be made
   - **Estimates** means a statement in any form that—
-    (a) describes and supports the appropriations being sought in the first Appropriation Bill that relates to a financial year; and
+    (a) describes and supports the appropriations being sought in the main Appropriation Bill for a financial year; and
     (b) contains the information referred to in section 14
   - **expenses** means expenses measured in accordance with generally accepted accounting practice; and includes costs
   - **financial year** means a period of 12 months commencing on 1 July and ending with 30 June
@@ -117,7 +117,6 @@ _Consolidation as at 2014-04-01_
     (a) the Sovereign in right of New Zealand; and
     (b) the legislative, executive, and judicial branches of the Government of New Zealand
   - **host department** , in relation to a departmental agency, has the meaning given in section 27A(1) and (2) of the State Sector Act 1988
-  - **impact** means the contribution made to an outcome by a specified set of outputs, or actions, or both
   - **intelligence and security department** means—
     (a) the New Zealand Security Intelligence Service; or
     (b) the Government Communications Security Bureau
@@ -129,9 +128,10 @@ _Consolidation as at 2014-04-01_
     (b) does not include selling or supplying goods or services on credit for a period of 90 days or less from the date the credit is supplied
   - **liability** means a liability that is defined, recognised, and measured in accordance with generally accepted accounting practice
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
+  - **main Appropriation Bill** , in respect of a financial year, means the first Appropriation Bill that relates to that financial year, and has a corresponding meaning
   - **Minister** means the Treasurer, or other Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or particular provisions of this Act
   - **mixed ownership model company** has the meaning set out in section 45P
-  - **multi-class output expense appropriation** has the meaning given to it by section 7(3)(b)
+  - **multi-category appropriation** means an appropriation described in section 7A(1)(g)
   - **non-departmental** ,—
     (a) in relation to expenses, means expenses incurred on behalf of the Crown, other than by a department or an Office of Parliament; and
     (b) in relation to capital expenditure, means capital expenditure incurred on behalf of the Crown, other than by a department or an Office of Parliament
@@ -139,11 +139,8 @@ _Consolidation as at 2014-04-01_
   - **operating surplus** means the amount by which departmental revenue exceeds the expenses of a department
   - **other expenses** means any expenses incurred by the Crown, a department, or an Office of Parliament that are other than—
     (a) output expenses; or
-    (b) benefits or other unrequited expenses; or
+    (b) benefits or related expenses; or
     (c) borrowing expenses
-  - **outcome** —
-    (a) means a state or condition of society, the economy, or the environment; and
-    (b) includes a change in that state or condition
   - **output expenses** —
     (a) includes the full cost of producing and supplying outputs measured in accrual accounting terms; and
     (b) includes the full allocation of overhead costs
@@ -151,7 +148,7 @@ _Consolidation as at 2014-04-01_
     (a) means goods or services that are supplied by a department, Crown entity, Office of Parliament, or other person or body; and
     (b) includes goods or services that a department, Crown entity, Office of Parliament, or other person or body has agreed or contracted to supply on a contingent basis, but that have not been supplied
   - **permanent legislative authority** ,—
-    (a) in relation to incurring expenses or capital expenditure, means an express authority given by or under an Act other than an Appropriation Act to incur expenses or capital expenditure without further appropriation (see, for example, section 65H(2), which relates to certain finance expenses, and section 9 of the Ombudsmen Act 1975, which relates to salaries and allowances of Ombudsmen); and
+    (a) in relation to incurring expenses or capital expenditure, means an express authority given by or under an Act other than an Appropriation Act to incur expenses or capital expenditure without further appropriation (see, for example, section 65ZH, which relates to certain finance expenses, and section 9 of the Ombudsmen Act 1975, which relates to salaries and allowances of Ombudsmen); and
     (b) in relation to spending public money, means an express authority given by or under an Act to spend public money without further authority (see, for example, section 6)
   - **principles of responsible fiscal management** has the meaning given to it by section 26G(1)
   - **public money** means all money received by or on behalf of the Crown, including the proceeds of all loans raised on behalf of the Crown, and any other money that the Minister or the Secretary directs to be paid into a Crown Bank Account or Departmental Bank Account and any money held by an Office of Parliament; but does not include money held in trust as trust money
@@ -182,7 +179,7 @@ _Consolidation as at 2014-04-01_
   - **Treasury instructions** means Treasury instructions issued under section 80
   - **Trust Bank Account** means a Trust Bank Account established under Part 7
   - **trust money** means trust money within the meaning of section 66(1)
-  - **type** , in relation to an appropriation, means any of the types of appropriations specified in section 7(1)
+  - **type** , in relation to an appropriation, means any of the types of appropriations specified in section 7A(1)
   - **Vote** means an appropriation or a grouping of appropriations that is—
     (a) the responsibility of a designated Minister or Ministers and administered by 1 department; or
     (b) the responsibility of the Speaker and administered by—
@@ -279,25 +276,30 @@ Public money may be spent, without further authority than this section, for the 
   (c) the repayment of debt of the Crown or an Office of Parliament; and
   (d) the settlement of liabilities of the Crown or an Office of Parliament.
 
-### 7 Separate appropriation required for types of expenses and capital expenditure
-(1) A separate appropriation must be made for—
-  (a) each category of output expenses; and
-  (b) each category of benefits or other unrequited expenses; and
-  (c) each category of borrowing expenses; and
-  (d) each category of other expenses; and
-  (e) each category of capital expenditure; and
-  (f) expenses and capital expenditure to be incurred by each intelligence and security department.
-(2) All expenses or capital expenditure to be incurred in any financial year must be allocated to one of the types of appropriation set out in subsection (1) within a Vote specified in an Appropriation Act.
-(3) An output expense appropriation referred to in subsection (1)(a) must consist of—
-  (a) a class of outputs to be supplied—
-    (i) by a department; or
-    (ii) to or on behalf of the Crown (other than by a department); or
-  (b) if the Minister approves, more than 1 class of outputs (a multi-class output expense appropriation) to be supplied—
-    (i) by a department; or
-    (ii) to or on behalf of the Crown (other than by a department).
-(4) However, if subsection (3)(b) applies, the Estimates or other supporting information that must be presented with the Appropriation Bill in which the multi-class output expense appropriation is sought must,—
-  (a) to the extent required by section 14 or, as the case may be, section 15, relate to each class of outputs in that appropriation; and
-  (b) explain why those classes of outputs have been grouped under that one appropriation.
+### 7 Expenses and capital expenditure must be allocated to appropriation type
+All expenses and capital expenditure to be incurred in any financial year must be allocated to one of the appropriation types set out in section 7A(1) within a Vote specified in an Appropriation Act.
+
+### 7A Appropriation types
+(1) An appropriation must be an appropriation for—
+  (a) 1 category of output expenses; or
+  (b) 1 category of benefits or related expenses; or
+  (c) 1 category of borrowing expenses; or
+  (d) 1 category of other expenses; or
+  (e) 1 category of capital expenditure; or
+  (f) expenses and capital expenditure to be incurred by an intelligence and security department; or
+  (g) 2 or more categories of 1 or more of the following:
+    (i) output expenses:
+    (ii) other expenses:
+    (iii) non-departmental capital expenditure.
+(2) For the purposes of this section,—
+  (a) a category of output expenses must not include both departmental and non-departmental expenses; and
+  (b) a category of other expenses must not include both departmental and non-departmental expenses; and
+  (c) a category of capital expenditure must not include both departmental and non-departmental capital expenditure.
+
+### 7B Requirements for multi-category appropriations
+A multi-category appropriation described in section 7A(1)(g)—
+  (a) must be approved by the Minister; and
+  (b) must include only categories of expenses or non-departmental capital expenditure that contribute to a single overarching purpose.
 
 ### 7C Responsibility for, and administration and use of, appropriations
 (1) An appropriation is made to the Crown or an Office of Parliament.
@@ -322,7 +324,7 @@ The authority to incur expenses or capital expenditure provided by an appropriat
   (a) is limited to the scope of the appropriation; and
   (b) may not be used for any other purpose.
 (2) For the purposes of subsection (1),—
-  (a) the scope of a multi-class output expense appropriation is the scope of each of the individual classes of outputs included in that appropriation; and
+  (a) the scope of a multi-category appropriation is the scope of each of the individual categories of expenses or non-departmental capital expenditure included in that appropriation; and
   (b) any variation made by the Minister of the terms and conditions of a capital injection to any entity referred to in section 27(3)(a) to (f) does not change the scope or purpose of that capital injection.
 
 ### 9A Supplementary Estimates
@@ -342,62 +344,173 @@ The authority to incur expenses or capital expenditure provided by an appropriat
 (1) If an Act (other than an Appropriation Act) expressly provides for payments to be appropriated by or under that Act, any expense or capital expenditure incurred that gives rise to the need for those payments may be incurred without further appropriation than this section.
 (2) Each expense or capital expenditure incurred in accordance with an appropriation, or other authority, by or under an Act (other than an Appropriation Act) must be managed and accounted for in the same manner as expenses or capital expenditure incurred in accordance with an Appropriation Act.
 
-### 12 Timing of first Appropriation Bill for financial year
-Except as otherwise provided by a resolution of the House of Representatives, the first Appropriation Bill that relates to a financial year must be introduced into the House of Representatives before the end of the first month after the start of that financial year.
+### 12 Timing of main Appropriation Bill for financial year
+Except as otherwise provided by a resolution of the House of Representatives, the main Appropriation Bill for a financial year must be introduced into the House of Representatives before the end of the first month after the start of that financial year.
+
+**Requirements for capital injections**
+
+### 12A Capital injections must be authorised
+(1) The Crown must not make a capital injection to a department (other than an intelligence and security department) or an Office of Parliament unless the capital injection is authorised under an Appropriation Act.
+(2) The authority to make the capital injection—
+  (a) is limited by the amount specified for the capital injection by that Appropriation Act; and
+  (b) must not be exceeded, except as provided for in section 25A.
+
+### 12B Authority to make capital injections under Imprest Supply Act
+(1) The authority given by an Imprest Supply Act to make a capital injection in a financial year in advance of authorisation under an Appropriation Act must be treated as an authority under an Appropriation Act for the purposes of sections 12A and 26CA.
+(2) However, subsection (1) does not apply unless the capital injection is authorised under an Appropriation Act before the end of the financial year.
 
 **Information requirements for appropriations**
 
-### 13 Estimates and other supporting information must be presented with first Appropriation Bill
+### 13 Estimates and supporting information must be presented with main Appropriation Bill
 (1) The Minister must present to the House of Representatives the Estimates immediately after he or she has delivered the Budget, or at any time prior to that time on the same day.
-(2) The Minister must also present to the House of Representatives the other supporting information referred to in section 15 at the same time he or she presents the Estimates under subsection (1), unless that other supporting information is already contained in the Estimates.
+(2) The Minister must also present to the House of Representatives the supporting information referred to in sections 15 to 15F at the same time he or she presents the Estimates under subsection (1), unless that supporting information is already contained in the Estimates.
 
 ### 14 Content of Estimates
-(1) The Estimates must state,—
-  (a) for each appropriation being sought in the first Appropriation Bill for a financial year,—
-    (i) the Vote to which the appropriation relates; and
-    (ii) the Minister responsible for the appropriation; and
-    (iii) the department that will administer the Vote containing the appropriation; and
-    (iv) the type of the appropriation (in terms of section 7); and
-    (v) the amount of each expense or capital expenditure authorised by the appropriation (in terms of section 8); and
-    (vi) the scope of the appropriation (in terms of section 9); and
-    (vii) the period of the appropriation, but only if the period is more than 1 financial year (in terms of section 10); and
-  (b) for each department, the responsible Minister for the department; and
-  (c) for each department other than an intelligence and security department, the projected balance of net assets for the department at the end of the financial year (in terms of section 23(1)(c)).
-(2) The Minister may, in addition to the information referred to in this section, include in the Estimates any further information that the Minister considers necessary or desirable.
+(1) The Estimates must state, for each appropriation sought in the main Appropriation Bill for a financial year and each appropriation authorised for that financial year by an Appropriation Act,—
+  (a) the Vote to which the appropriation relates; and
+  (b) the appropriation Minister; and
+  (c) the appropriation administrator; and
+  (d) the type of the appropriation (in terms of section 7A(1)); and
+  (e) in the case of a multi-category appropriation, the overarching purpose of the appropriation (in terms of section 7B(b)); and
+  (f) the amount authorised by the appropriation (in terms of section 8); and
+  (g) the scope of the appropriation (in terms of section 9); and
+  (h) the period of the appropriation (in terms of section 10), but only if the period is more than 1 financial year.
+(2) The Estimates must state, for each appropriation authorised by a permanent legislative authority against which it is proposed to incur expenses or capital expenditure in the financial year to which the Estimates relate,—
+  (a) the authority for the appropriation; and
+  (b) the information specified in subsection (1)(a) to (h), other than subsection (1)(f); and
+  (c) the amount forecast to be incurred under the appropriation.
+(3) The Estimates must state,—
+  (a) for each department, the responsible Minister for the department; and
+  (b) for each department other than an intelligence and security department, the amount of capital injections authorised to be made to the department for the financial year to which the Estimates relate.
+(4) The Minister may, in addition to the information referred to in this section, include in the Estimates any further information that the Minister considers necessary or desirable.
 
-### 15 Other supporting information for first Appropriation Bill
-(1) The other supporting information for the first Appropriation Bill must, for each appropriation, include—
-  (a) a concise explanation of each appropriation (including the intended impacts, outcomes, or objectives of the appropriation); and
-  (b) the performance measures and forecast standards to be achieved for each class of outputs; and
-  (c) the forecast expenses to be incurred for each class of outputs within a multi-class output expense appropriation; and
-  (d) comparative voted and estimated actual expenses or capital expenditure for each appropriation for the previous financial year.
-(2) The other supporting information must, for each Vote, include—
-  (a) comparative voted and estimated actual expenses or capital expenditure for the previous financial year, and comparative actual expenses or capital expenditure for each of the 4 financial years that preceded the previous financial year, for the total of each of the types of appropriation set out in section 7(1); and
-  (b) a summary of the financial activity relating to the Vote for the financial year to which the Appropriation Bill relates, and comparative budgeted and estimated actual figures for the previous financial year.
-(3) The other supporting information must also include, for each category of expense or capital expenditure that is proposed to be incurred in accordance with an appropriation by an Act (other than an Appropriation Act),—
-  (a) the information required, under subsection (1) and section 14 for each appropriation (except that the reference in section 14(1)(a)(v) to the amount of each expense or capital expenditure authorised by the appropriation must be read as a reference to the amount of each expense or capital expenditure forecast to be incurred under the appropriation); and
-  (b) the authority for that expense or capital expenditure.
-(4) The Minister may, in addition to the information referred to in this section, present any further information that the Minister considers necessary or desirable.
-(5) Subsections (1)(a) and (b) and (2)(b) do not apply to an appropriation made in accordance with section 7(1)(f).
+### 15 Main Appropriation Bill: supporting information relating to Votes
+(1) The supporting information for the main Appropriation Bill must include, for the total in each Vote of each type of appropriation,—
+  (a) voted departmental and non-departmental expenses or capital expenditure for the financial year to which the Appropriation Bill relates; and
+  (b) comparative voted and estimated actual expenses or capital expenditure for the previous financial year; and
+  (c) comparative actual expenses or capital expenditure for each of the 4 financial years that preceded the previous financial year; and
+  (d) projected expenses or capital expenditure for each of the 3 financial years following the financial year to which the Appropriation Bill relates.
+(2) However, if the Vote has been restructured 1 or more times since the beginning of the period in respect of which supporting information is required under subsection (1), then the comparative information required under that subsection must, to the extent practicable, be prepared as if the restructuring had occurred before the beginning of that period.
+(3) For the purposes of subsection (2), a Vote has been restructured if—
+  (a) it has been combined with, or separated from, any other Vote; or
+  (b) an appropriation, or a category within a multi-category appropriation, has been moved into the Vote from, or moved out of the Vote into, any other Vote; or
+  (c) a category of expenses or non-departmental capital expenditure has been moved into or out of a multi-category appropriation within the Vote.
 
-### 16 Supplementary Estimates must be presented with Supplementary Appropriation Bill
-The Minister must present to the House of Representatives the Supplementary Estimates on the day of the introduction of an Appropriation Bill that is other than—
-  (a) the first Appropriation Bill for a financial year; or
+### 15A Main Appropriation Bill: supporting information relating to appropriations
+(1) The supporting information for the main Appropriation Bill for a financial year must include the information specified in subsections (2) and (3), including any information required by section 15B, for—
+  (a) each appropriation sought in the Bill; and
+  (b) each appropriation authorised for that financial year by an Appropriation Act; and
+  (c) each appropriation authorised by a permanent legislative authority against which it is proposed to incur expenses or capital expenditure in that financial year.
+(2) The following information is required for each appropriation:
+  (a) a concise explanation of what the appropriation is intended to achieve; and
+  (b) comparative voted and estimated actual expenses or capital expenditure for the previous financial year; and
+  (c) 1 of the following:
+    (i) the end-of-year performance information details described in section 15C:
+    (ii) if the Minister has, under section 15D, granted an exemption from the end-of-year performance information requirements, the Minister’s reasons for granting the exemption.
+(3) The following additional information is required for each category of a multi-category appropriation:
+  (a) a concise explanation of what the category is intended to achieve; and
+  (b) projected expenses or non-departmental capital expenditure to be incurred for the category; and
+  (c) comparative projected and estimated actual expenses or non-departmental capital expenditure for the category for the previous financial year.
+(4) However,—
+  (a) in the case of an appropriation for expenses and capital expenditure to be incurred by an intelligence and security department, subsection (2)(a) and (c) do not apply; and
+  (b) in the case of an appropriation for borrowing expenses, subsection (2)(c) does not apply.
+
+### 15B Comparative information requirements if no directly corresponding appropriation or category
+(1) This section applies if—
+  (a) section 15A requires the supporting information for the main Appropriation Bill for a financial year to include, for an appropriation or a category within a multi-category appropriation, comparative information for the previous financial year; and
+  (b) that appropriation or category (the new appropriation or category) does not directly correspond to an appropriation or category for the previous financial year.
+(2) The comparative information for the new appropriation or category must include all comparable expenses or capital expenditure.
+(3) The comparative information for the new appropriation or category must also, to the extent practicable,—
+  (a) identify each previous appropriation or category that includes comparable expenses or capital expenditure; and
+  (b) identify the amount of comparable expenses or capital expenditure for that previous appropriation or category.
+(4) In this section, comparable expenses or capital expenditure, in relation to a new appropriation or category, means voted or projected (as applicable) and estimated actual expenses or capital expenditure for a previous appropriation or category that would, if the new appropriation or category had been authorised for the previous financial year, have been within the scope of the new appropriation or category.
+
+### 15C End-of-year performance information requirements
+(1) The end-of-year performance information details for an appropriation (see section 15A(2)(c)(i)) are—
+  (a) a concise explanation of how performance against the appropriation will be assessed; and
+  (b) in the case of a multi-category appropriation, a concise explanation of how performance against each category of the appropriation will be assessed; and
+  (c) who, in accordance with subsection (2), will provide information at the end of the financial year on what has been achieved with the appropriation; and
+  (d) the document in which the end-of-year performance information will be presented to the House of Representatives.
+(2) End-of-year performance information on an appropriation must be provided,—
+  (a) for a multi-category appropriation, by the appropriation administrator; and
+  (b) for an appropriation described in subsection (3), by the appropriation Minister; and
+  (c) for any other appropriation, by a department, a departmental agency, an Office of Parliament, or a Crown entity.
+(3) Subsection (2)(b) applies in respect of an appropriation for non-departmental expenses, or non-departmental capital expenditure, from which resources will be provided to a person or an entity other than a department, a departmental agency, an Office of Parliament, or a Crown entity.
+
+### 15D Exemptions from end-of-year performance information requirements for certain categories of expenses and capital expenditure
+(1) The Minister may grant an exemption from the end-of-year performance information requirements in respect of an appropriation for departmental output expenses, or a category of departmental output expenses within a multi-category appropriation, if the Minister is satisfied that the appropriation or category relates exclusively to outputs supplied by a department to 1 or more other departments.
+(2) The Minister may grant an exemption from the end-of-year performance information requirements in respect of an appropriation for non-departmental expenses or non-departmental capital expenditure, or a category of non-departmental expenses or non-departmental capital expenditure within a multi-category appropriation, if the Minister is satisfied that—
+  (a) the appropriation or category is one from which resources will be provided to a person or an entity other than a department, a departmental agency, an Office of Parliament, or a Crown entity; and
+  (b) 1 of the following applies:
+    (i) key performance information relevant to the appropriation or category will be otherwise readily available to the House of Representatives:
+    (ii) end-of-year performance information for the appropriation or category is not likely to be informative in the light of the nature of the transaction or causal event giving rise to the expenses or capital expenditure:
+    (iii) the amount of the annual appropriation (or its annual average equivalent if the appropriation is a multi-year or permanent appropriation) or the projected amount of the expenses or non-departmental capital expenditure in the category (or its annual average equivalent if the category is part of a multi-year or permanent appropriation) is less than $5 million for expenses or less than $15 million for capital expenditure.
+(3) An exemption under this section may be granted for 1 or more financial years or until further notice.
+(4) The Minister’s reasons for granting an exemption must be included in the supporting information for an Appropriation Bill (see section 15A(2)(c)(ii)).
+(5) In subsection (2)(b)(iii),—
+  - **multi-year appropriation** means an appropriation authorised to apply for more than 1 financial year (see section 10)
+  - **permanent appropriation** means an appropriation authorised by a permanent legislative authority.
+
+### 15E Main Appropriation Bill: supporting information relating to capital injections
+(1) The supporting information for the main Appropriation Bill must include, for each capital injection authorised for the financial year to which the Appropriation Bill relates,—
+  (a) the department to which the capital injection is to be made; and
+  (b) a concise explanation of what the capital injection is to be used for; and
+  (c) the amount of the capital injection.
+(2) Subsection (1) does not apply to a capital injection to an intelligence and security department.
+
+### 15F Minister may present further supporting information
+The Minister may, in addition to the information referred to in sections 15 to 15E, include in the supporting information for the main Appropriation Bill any further information that the Minister considers necessary or desirable.
+
+### 16 Supplementary Estimates and supporting information must be presented with Supplementary Appropriation Bill
+(1) The Minister must present to the House of Representatives the Supplementary Estimates on the day of the introduction of an Appropriation Bill that is other than—
+  (a) the main Appropriation Bill for a financial year; or
   (b) an Appropriation Bill that deals only with matters that relate to a previous financial year.
+(2) The Minister must also present to the House of Representatives the supporting information referred to in sections 17A and 17B at the same time that he or she presents the Supplementary Estimates under subsection (1), unless that supporting information is already contained in the Supplementary Estimates.
 
 ### 17 Content of Supplementary Estimates
-(1) The Supplementary Estimates must,—
-  (a) if information about an appropriation or department was provided in the Estimates or previous Supplementary Estimates for the same financial year, state any changes to the information about that appropriation or department that—
-    (i) is required under section 14; and
-    (ii) is contained in those Estimates; or
-  (b) if information about an appropriation or department was not provided in the Estimates or previous Supplementary Estimates for the same financial year, state the information about that appropriation or department that is required under section 14.
-(2) If subsection (1)(b) applies, the Minister must also present the information about the appropriation that is required under section 15(1)(a) to (c).
+(1) The Supplementary Estimates for a financial year must include—
+  (a) the information specified in section 14(1) for—
+    (i) each appropriation authorised for that financial year by an Appropriation Act; and
+    (ii) each appropriation sought in an Appropriation Bill relating to that financial year; and
+  (b) the information specified in section 14(2) for each appropriation authorised by a permanent legislative authority against which it is proposed to incur expenses or capital expenditure in that financial year.
+(2) The Supplementary Estimates must state,—
+  (a) for each department, the responsible Minister for the department; and
+  (b) for each department other than an intelligence and security department, the amount of capital injections authorised to be made to the department for the financial year.
+(3) The Minister may, in addition to the information referred to in this section, include in the Supplementary Estimates any further information that the Minister considers necessary or desirable.
+
+### 17A Supplementary Appropriation Bill: supporting information relating to appropriations
+(1) The supporting information for a supplementary Appropriation Bill must include,—
+  (a) for each new appropriation, the information (excluding comparative information) specified in section 15A; and
+  (b) for each existing appropriation, any change to the information (excluding comparative information) specified in section 15A that was most recently included in the supporting information for an Appropriation Act in respect of the appropriation.
+(2) In this section,—
+  - **comparative information** means the information specified in section 15A(2)(b) and (3)(c)
+  - **existing appropriation** , in relation to a supplementary Appropriation Bill for a financial year, means an appropriation for which the information specified in section 15A is included in the supporting information for an Appropriation Act relating to that financial year
+  - **new appropriation** , in relation to a supplementary Appropriation Bill for a financial year, means—
+    (a) an appropriation—
+      (i) that is sought in that Bill; and
+      (ii) for which the information specified in section 15A is not included in the supporting information for any Appropriation Act relating to that financial year; or
+    (b) an appropriation—
+      (i) that is authorised by a permanent legislative authority to incur expenses or capital expenditure; and
+      (ii) against which it is proposed to incur expenses or capital expenditure in that financial year; and
+      (iii) for which the information specified in section 15A is not included in the supporting information for any Appropriation Act relating to that financial year.
+
+### 17B Supplementary Appropriation Bill: supporting information relating to capital injections
+(1) The supporting information for a supplementary Appropriation Bill must include,—
+  (a) for each new capital injection, the information specified in section 15E; and
+  (b) for each existing capital injection, any change to the information specified in section 15E that is included in the supporting information for an Appropriation Act relating to that financial year.
+(2) In this section,—
+  - **existing capital injection** , in relation to a supplementary Appropriation Bill and a financial year, means a capital injection for which the information specified in section 15E is included in the supporting information for an Appropriation Act relating to that financial year
+  - **new capital injection** , in relation to a supplementary Appropriation Bill and a financial year, means a capital injection—
+    (a) that is authorised for that financial year; and
+    (b) for which the information specified in section 15E is not included in the supporting information for any Appropriation Act relating to that financial year.
+(3) This section does not apply to a capital injection to an intelligence and security department.
 
 ### 18 Minister must consult on proposal to change format or content of information presented with Appropriation Bills
 (1) This section applies if the Minister proposes to significantly change the format or content of—
-  (a) the Estimates; or
-  (b) the other supporting information referred to in section 15; or
-  (c) the Supplementary Estimates.
+  (a) the Estimates (see section 14); or
+  (b) the supporting information for a main Appropriation Bill (see sections 15 to 15E); or
+  (c) the Supplementary Estimates (see section 17); or
+  (d) the supporting information for a supplementary Appropriation Bill (see sections 17A and 17B).
 (2) Before giving effect to the proposal, the Minister must—
   (a) submit the proposal to the Speaker (who must then present it to the House of Representatives); and
   (b) consider any comments that he or she receives from—
@@ -406,16 +519,44 @@ The Minister must present to the House of Representatives the Supplementary Esti
 
 ### 19 Power of Secretary to obtain information
 (1) The Secretary may request a department, a departmental agency, or an entity referred to in section 27(3)(a) to (f), or an entity that manages an asset or liability of the Crown, to supply to the Secretary any information that is necessary to enable the preparation of—
-  (a) the Estimates; and
-  (b) the other supporting information referred to in section 15; and
-  (c) the Supplementary Estimates.
+  (a) the Estimates; or
+  (b) the supporting information for a main Appropriation Bill (see sections 15 to 15E); or
+  (c) the Supplementary Estimates (see section 17); or
+  (d) the supporting information for a supplementary Appropriation Bill (see sections 17A and 17B).
 (2) A request under subsection (1)—
   (a) must be in writing; and
   (b) may state the date by which, and the manner in which, the information requested must be provided.
 (3) If a date is specified under subsection (2)(b), that date must be reasonable having regard to the time limits prescribed by this Act for presenting to the House of Representatives—
-  (a) the Estimates or other supporting information referred to in section 15; and
-  (b) the Supplementary Estimates.
+  (a) the Estimates and the supporting information for a main Appropriation Bill (see section 13); and
+  (b) the Supplementary Estimates and the supporting information for a supplementary Appropriation Bill (see section 16).
 (4) A department, departmental agency, or entity to whom the request is made must comply with the request.
+
+**Reporting on appropriations: end-of-year performance information**
+
+### 19A Provision of end-of-year performance information other than by Ministers
+(1) This section applies to the department, departmental agency, Office of Parliament, or Crown entity (performance reporter) most recently identified in the supporting information for an Appropriation Act as providing end-of-year performance information on an appropriation for a financial year.
+(2) As soon as practicable after the end of each financial year, the performance reporter must prepare the information that is required by section 19C.
+(3) Not later than 15 working days after the performance reporter receives an audit report on the information under section 45D of this Act or section 156 of the Crown Entities Act 2004 (as applicable),—
+  (a) the performance reporter must, unless the performance reporter is the appropriation administrator, provide the information and the audit report to the appropriation administrator; and
+  (b) the appropriation administrator must provide the information and the audit report to the appropriation Minister; and
+  (c) the appropriation Minister must ensure that the information and the audit report are presented to the House of Representatives in the document most recently specified for that purpose in the supporting information for an Appropriation Act.
+(4) If Parliament is not in session, subsection (3)(c) does not apply, but the appropriation Minister must ensure that, as soon as possible after the commencement of the next session of Parliament, the information and the audit report are presented to the House of Representatives in the document most recently specified for that purpose in the supporting information for an Appropriation Act.
+(5) The performance reporter must ensure that the information is published as soon as practicable after the information is presented to the House of Representatives, or, if subsection (4) applies, not later than 15 working days after receiving the audit report.
+
+### 19B Provision of end-of-year performance information by Ministers
+(1) This section applies to the appropriation Minister most recently identified in the supporting information for an Appropriation Act as providing end-of-year performance information on an appropriation for a financial year.
+(2) Within 4 months after the end of the financial year, the appropriation Minister must—
+  (a) prepare the information that is required by section 19C; and
+  (b) ensure that the information is presented to the House of Representatives in the document most recently specified for that purpose in the supporting information for an Appropriation Act.
+(3) If Parliament is not in session, subsection (2)(b) does not apply, but the appropriation Minister must ensure that, as soon as possible after the commencement of the next session of Parliament, the information is presented to the House of Representatives in the document most recently specified for that purpose in the supporting information for an Appropriation Act.
+(4) The appropriation Minister must ensure that the information is published as soon as practicable after the information is presented to the House of Representatives, or, if subsection (3) applies, not later than 4 months after the end of the financial year.
+
+### 19C Requirements for end-of-year performance information
+(1) The end-of-year performance information for an appropriation must include the following:
+  (a) an assessment of what has been achieved with the appropriation in the financial year; and
+  (b) a comparison of the actual expenses or capital expenditure incurred in relation to the appropriation in the financial year with the expenses or capital expenditure that were appropriated or forecast to be incurred.
+(2) In the case of a multi-category appropriation, subsection (1)(a) and (b) must be read as if the references in those paragraphs to an appropriation included a reference to each category of expenses or capital expenditure within that appropriation.
+(3) The end-of-year performance information for an appropriation must be prepared in accordance with generally accepted accounting practice, to the extent that the information is of a form or nature for which provision is made in financial reporting standards that form part of generally accepted accounting practice.
 
 **Other provisions relating to appropriations**
 
@@ -434,23 +575,15 @@ The Minister must present to the House of Representatives the Supplementary Esti
 
 ### 22 Operating surplus of department
 (1) Except as agreed between the Minister and the responsible Minister for a department, the department must not retain any operating surplus that results from its activities.
-(2) The reported net asset holding of a department may increase as a result of a remeasurement without further authority than this section.
-(3) The amount of net asset holding in a department must not exceed the most recent projected balance of net assets for that department at the end of the financial year, as set out in an Appropriation Act in accordance with section 23(1)(c).
-(4) Subsection (3) is subject to subsections (1) and (2).
+(2)
+(3)
+(4)
 
 ### 23 Net assets of departments must be confirmed
-(1) Each Appropriation Bill that is introduced before the end of the financial year to which the Bill relates must include a schedule that shows for each department (other than an intelligence and security department)—
-  (a) either of the following:
-    (i) the most recently audited amount of net assets; or
-    (ii) the most recently projected amount of net assets at the start of that financial year to which the appropriations sought in that Bill apply; and
-  (b) projected movements in net assets during that financial year; and
-  (c) the projected balance of net assets at the end of that financial year.
-(2) The projected movements in net assets referred to in subsection (1)(b) must include as separate items—
-  (a) any projected capital injections and withdrawals; and
-  (b) any surpluses projected to be retained in accordance with section 22(1).
+[Repealed]
 
 ### 24 Movements within departmental statement of financial position
-(1) A department may, without further appropriation than this section, use the proceeds of the sale or disposal of any of its assets, together with any working capital held by it, to purchase or develop assets.
+(1) A department other than an intelligence and security department may, without further appropriation than this section, use the proceeds of the sale or disposal of any of its assets, together with any working capital held by it, to purchase or develop assets.
 (2) A department may, without further authority than this section, use the proceeds of the sale or disposal of its assets, together with any working capital held by it, to pay its liabilities.
 
 ### 25 Expenses or capital expenditure may be incurred in emergencies
@@ -465,9 +598,17 @@ The Minister must present to the House of Representatives the Supplementary Esti
   (b) an Appropriation Bill for confirmation by Parliament.
 (6) Subsection (5) does not limit the validity of any expenses or capital expenditure incurred under this section.
 
+### 25A Capital injections may be made in emergencies
+(1) The Minister may approve a capital injection to meet an emergency or disaster described in section 25(1).
+(2) A capital injection approved under subsection (1) may be made despite not being authorised under an Appropriation Act and despite section 12A.
+(3) A statement about any capital injection made under subsection (2) in any financial year that has not been authorised in an Appropriation Act (other than a capital injection to an intelligence and security department) must be included in—
+  (a) the annual financial statements of the Government; and
+  (b) an Appropriation Bill for confirmation by Parliament.
+(4) Subsection (3) does not limit the validity of any capital injection made under this section.
+
 ### 26 Minister may determine terms and conditions of capital injections
 (1) The Minister, after consultation with the Minister responsible for an entity, may—
-  (a) determine the terms and conditions under which any capital injection authorised by an appropriation under section 7(1)(e) or any other authority is to be made to that entity; and
+  (a) determine the terms and conditions under which any capital injection authorised by an appropriation under section 7A(1)(e) or any other authority is to be made to that entity; and
   (b) vary those terms and conditions at any time.
 (2) However, subsection (1)(b) does not apply in respect of a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986.
 
@@ -496,13 +637,24 @@ The Minister must present to the House of Representatives the Supplementary Esti
   (a) the amount of each category of expenses or capital expenditure so incurred; and
   (b) the explanation of the Minister responsible for the expenses or capital expenditure.
 
-### 26D Reporting requirements in relation to expenses or capital expenditure incurred in excess of, or without, appropriation
-(1) This section applies to any expenses or capital expenditure—
-  (a) that has been incurred without appropriation; or
-  (b) that has been incurred in excess of an existing appropriation.
-(2) A statement that relates to any expenses or capital expenditure to which this section applies must be included in—
+### 26CA Capital injections made without authority or approval require validation by Parliament
+(1) The making of a capital injection without authority under an Appropriation Act or approval under section 25A is unlawful, unless it is validated by Parliament in an Appropriation Act.
+(2) The Minister must, on the introduction of any Appropriation Bill that seeks validation by Parliament of any capital injection made without authority under an Appropriation Act or approval under section 25A, present to the House of Representatives a report that sets out—
+  (a) the amount of each capital injection so made; and
+  (b) an explanation by the responsible Minister for the department to which the capital injection was made.
+(3) This section does not apply to a capital injection to an intelligence and security department.
+
+### 26D Reporting requirements in relation to expenses or capital expenditure incurred in excess of, or without, appropriation and capital injections made in excess of, or without, authorisation
+(1) This section applies to—
+  (a) any expenses that have, or capital expenditure that has, been incurred—
+    (i) without appropriation or other authority; or
+    (ii) in excess of an existing appropriation or other authority; and
+  (b) any capital injection (other than a capital injection to an intelligence and security department) that has been made—
+    (i) without authority under an Appropriation Act or approval under section 25A; or
+    (ii) in excess of an existing authority under an Appropriation Act or an existing approval under section 25A.
+(2) A statement that relates to any expenses, capital expenditure, or capital injection to which this section applies must be included in—
   (a) the annual financial statements of the Government for the financial year; and
-  (b) the annual financial statements of the administering department for the financial year in accordance with section 45B(2)(d).
+  (b) the annual report of the administering department for the financial year in accordance with section 45A(c) and (e).
 
 **Application of this Part to Offices of Parliament**
 
@@ -510,13 +662,15 @@ The Minister must present to the House of Representatives the Supplementary Esti
 (1) Before an appropriation in a Vote administered by an Office of Parliament may be included in an Appropriation Bill for a financial year, the chief executive of the Office concerned must prepare and submit to the House of Representatives the following information:
   (a) an estimate of expenses and capital expenditure to be incurred for—
     (i) each proposed appropriation; and
-    (ii) each class of outputs within an appropriation; and
-  (b) the projected balance of net assets (in terms of section 23(1)(c)); and
-  (c) the revenue of the Office (including the revenue associated with each proposed expenses appropriation and each output class).
-(2) The House of Representatives, after considering the information provided under subsection (1), may for each Office of Parliament commend to the Governor-General, by way of an address, the estimates for each of the matters set out in subsection (1)(a) to (c).
-(3) The House of Representatives may, in that address, request that the estimates referred to in subsection (2) be included as a Vote in an Appropriation Bill for that year.
-(4) If that Vote is included in an Appropriation Bill for that year, this Part applies, with all necessary modifications, as if references to a department were references to an Office of Parliament.
-(5) An alteration to a Vote administered by an Office of Parliament during a financial year is subject to the provisions of this section.
+    (ii) each proposed category of expenses or non-departmental capital expenditure within a multi-category appropriation; and
+  (b) the revenue of the Office (including the revenue associated with each proposed expenses appropriation and each proposed category of expenses within a multi-category appropriation).
+(2) Before an authorisation for a capital injection to be made to an Office of Parliament may be included in an Appropriation Bill for a financial year, the chief executive of the Office concerned must submit to the House of Representatives the amount of the proposed capital injection.
+(3) The House of Representatives, after considering the information provided under subsections (1) and (2), may for each Office of Parliament commend to the Governor-General, by way of an address,—
+  (a) the estimates referred to in subsection (1)(a); and
+  (b) the capital injection referred to in subsection (2).
+(4) The House of Representatives may, in that address, request that the estimates be included as a Vote, and the capital injection be authorised, in an Appropriation Bill for that year.
+(5) If the Vote or authorisation is included in an Appropriation Bill for that year, this Part applies, with all necessary modifications, as if references to a department were references to an Office of Parliament.
+(6) An alteration to the Vote or authorisation during that year is subject to the provisions of this section.
 
 ## Part 2 — Fiscal responsibility
 
@@ -802,8 +956,8 @@ The Minister may arrange for the following to be published in advance of their b
   (b) include the forecast financial statements prepared under section 26Q, for comparison with the actual financial statements; and
   (c) include, in addition to those financial statements required by generally accepted accounting practice,—
     (i) a statement of borrowings that reflects the borrowing activities for that year, including budgeted figures for that year and comparative actual figures for the previous financial year:
-    (ii) a statement of unappropriated expenses and capital expenditure:
-    (iii) a statement of emergency expenses and capital expenditure incurred under section 25:
+    (ii) a statement of unappropriated expenses and capital expenditure and unauthorised capital injections (excluding any capital injection to an intelligence and security department):
+    (iii) a statement of emergency expenses and capital expenditure incurred under section 25 and emergency capital injections (excluding any capital injection to an intelligence and security department) made under section 25A:
     (iv) a statement of trust money administered by departments and Offices of Parliament:
     (v) any additional information and explanations needed to fairly reflect the consolidated financial operations of the Government reporting entity for the financial year and its consolidated financial position at the end of that year.
 (3) The annual financial statements of the Government must include the Government reporting entity's interests in—
@@ -880,16 +1034,7 @@ For the purposes of this Act, the Government reporting entity is a public entity
 [Repealed]
 
 ### 32A Additional reports in relation to non-departmental appropriations
-(1) This section applies if, in any financial year, an Appropriation Act—
-  (a) lists an appropriation or a class of outputs within an appropriation for which expenses or capital expenditure are to be incurred other than by departments or Offices of Parliament; and
-  (b) states that the appropriation or class of outputs is, in whole or part, subject to this section.
-(2) The Minister responsible for each appropriation or class of outputs must, within 3 months of the end of that financial year, prepare and present to the House of Representatives a report that complies with subsection (3).
-(3) The report must include—
-  (a) a statement of service performance prepared in accordance with generally accepted accounting practice in relation to that appropriation or class of outputs that compares the service performance that was achieved with the service performance that was forecast to be achieved; or
-  (b) if the type and scope of the appropriation is such that a statement of service performance is inappropriate, a statement of the results produced or achieved in relation to that appropriation that compares those results with the results that were forecast to be produced or achieved from the expenses or capital expenditure.
-(4) The report must also compare the actual expenses or capital expenditure incurred in relation to that appropriation or class of outputs with the expenses or capital expenditure that were appropriated or forecast to be incurred.
-(5) Despite subsection (3), the report does not need to include a statement of service performance in relation to a part of an appropriation or a class of outputs on which another entity is required to report in its statement of service performance if an Appropriation Act that lists the appropriation or class of outputs so provides.
-(6) The Minister responsible for the appropriation or class of outputs must arrange for the report to be published if he or she is requested to do so by the Minister.
+[Repealed]
 
 ## Part 4 — Reporting by departments and departmental agencies
 
@@ -932,55 +1077,61 @@ The chief executive of a department is responsible for—
 (5) Nothing in this section limits or affects the privilege against self-incrimination.
 (6) In this section, specified person means a person who is responsible for any activities, bodies, or statutory offices that, under section 33, are taken to be part of a department.
 
-**Reporting requirements—Information on future operating intentions**
+**Reporting requirements: information on strategic intentions**
 
-### 38 Departments must provide information on future operating intentions
-(1) A department must, before the start of each financial year and not later than the date specified by its responsible Minister, provide information on the department's future operating intentions.
-(2) The information must relate to the forthcoming financial year and, for the purposes of section 40, to at least the next 2 financial years.
-(3) However, if the Government has announced that the department is to be disestablished or significantly restructured during the period referred to in subsection (2), the department may, with the agreement of its responsible Minister and the Minister, provide information under subsection (1) for a lesser period.
-(4) The department must provide the information to its responsible Minister who must forward a copy of it to,—
-  (a) in the case of an intelligence and security department, the members of the Intelligence and Security Committee established under the Intelligence and Security Committee Act 1996 as soon as practicable after the introduction of the first Appropriation Bill that relates to the financial year; or
-  (b) in the case of any other department, the Minister in time for him or her to present the information, as required by section 39.
+### 38 Departments must provide information on strategic intentions
+(1) A department must provide to its responsible Minister—
+  (a) information on the department’s strategic intentions that complies with this section and section 40; and
+  (b) a statement of responsibility for the information, signed by the department’s chief executive.
+(2) The information—
+  (a) must relate to the forthcoming financial year and at least the following 3 financial years; and
+  (b) may also relate to the remainder of the current financial year.
+(3) The information must identify the period to which it relates.
+(4) The department must provide the information—
+  (a) at least once in every 3-year period, unless the Minister has granted an extension of time under section 41; and
+  (b) in the case of a new department, as soon as practicable, but not later than 6 months, after the date on which the department is established; and
+  (c) if there has been a significant change in the nature or scope of the department's functions, as soon as practicable, but not later than 6 months, after that change.
+(5) Despite subsection (4)(a), the department must comply with subsection (1) as soon as practicable if the information most recently provided by the department under this section—
+  (a) becomes out of date because of a material change in the department's strategic intentions; or
+  (b) is otherwise false or misleading in a material particular.
 
-### 39 Obligation to present and publish information on future operating intentions
-(1) The Minister must present the information for each department (other than an intelligence and security department) to the House of Representatives immediately after he or she has delivered the Budget for the financial year to which the information relates, or at any time prior to that time on the same day.
-(2) The information presented under subsection (1) must—
-  (a) be taken to have been presented by the responsible Minister concerned; and
-  (b) be accompanied by—
-    (i) a statement signed by the responsible Minister stating that the information is consistent with the policies and performance expectations of the Government; and
-    (ii) if section 38(3) applies, the explanation of the responsible Minister as to why the information was not presented for the period referred to in section 38(2).
-(3) As soon as practicable after the information is presented under subsection (1), the department concerned must publish the information in accordance with the manner (if any)—
-  (a) prescribed by regulations made under this Act; or
-  (b) specified in instructions issued under this Act.
+### 38A Responsible Minister may require department to provide information on strategic intentions at any time
+(1) A department's responsible Minister may, if that Minister considers it necessary or desirable, require the department to provide new information on strategic intentions at any time.
+(2) Information on strategic intentions provided under this section must comply with sections 38 and 40.
+(3) The responsible Minister may require the information to relate to the remainder of the current financial year in addition to the forthcoming financial year and at least the following 3 financial years.
 
-### 40 Requirements for information on future operating intentions
-The information required under section 38 must set out and explain for the period to which it relates—
-  (a) the nature and scope of the department's functions and intended operations; and
-  (b) the specific impacts, outcomes, or objectives that the department seeks to achieve or to contribute to through its operations; and
-  (c) how the department intends to—
-    (i) perform its functions and conduct its operations to achieve those impacts, outcomes, or objectives; and
-    (ii) effectively manage those functions and operations within a changeable operating environment; and
-  (d) the main measures and standards that the department intends to use to assess and report on matters relating to the department's future performance, including, without limitation, the following matters:
-    (i) the impacts, outcomes, or objectives achieved or contributed to by the department (including possible unintended impacts or negative outcomes):
-    (ii) the cost-effectiveness of the interventions that the department delivers or administers:
-    (iii) the department's organisational health and capability to perform its functions and conduct its operations effectively; and
-  (e) any other matters that—
-    (i) are reasonably necessary to achieve an understanding of the department's operating intentions and direction; or
+### 39 Obligation to publish and present information on strategic intentions
+(1) A department must, as soon as practicable after providing information on its strategic intentions to its responsible Minister, publish the information on an Internet site maintained by or on behalf of the department.
+(2) However, the department must not publish the information—
+  (a) in the period of 3 months before the Minister delivers the Budget for the first full financial year to which the information relates; or
+  (b) if the Minister gives less than 3 months' notice of the day on which he or she will deliver that Budget, in the period commencing on the day on which the Minister gives that notice and ending when the Minister delivers the Budget.
+(3) In the case of information provided by an intelligence and security department, the responsible Minister must forward a copy of the information, as soon as practicable after receiving it, to the members of the Intelligence and Security Committee established under the Intelligence and Security Committee Act 1996.
+(4) In the case of information provided by any other department, the responsible Minister (or the Minister referred to in subsection (6), if applicable) must present the information to the House of Representatives—
+  (a) in the same document as the department's annual report for the financial year before the first full financial year to which the information relates; or
+  (b) in any other document, in which case the information must be presented as soon as practicable after the responsible Minister receives it and not later than the date on which the annual report described in paragraph (a) is presented.
+(5) However, the responsible Minister (or the Minister referred to in subsection (6), if applicable) must not present the information to the House of Representatives in the period described in subsection (2).
+(6) A Minister other than the responsible Minister may present the information to the House of Representatives if—
+  (a) the information is presented in a document that includes other information; and
+  (b) that other Minister is responsible for presenting that other information.
+(7) Information presented to the House of Representatives under subsection (4) must be accompanied by a statement signed by the responsible Minister stating,—
+  (a) in the case of the Office of the Clerk of the House of Representatives or the Parliamentary Service, that the information is consistent with the policies and performance expectations of the responsible Minister; or
+  (b) in the case of any other department, that the information is consistent with the policies and performance expectations of the Government.
+
+### 40 Requirements for information on strategic intentions
+(1) The information required under section 38 must, for the period to which it relates, set out the strategic objectives that the department intends to achieve or contribute to (strategic intentions).
+(2) The information must also, for the period to which it relates,—
+  (a) explain the nature and scope of the department's functions and intended operations; and
+  (b) identify any departmental agencies hosted by the department; and
+  (c) explain how the department intends to manage its functions and operations to meet its strategic intentions; and
+  (d) set out and explain any other matters that—
+    (i) are reasonably necessary to achieve an understanding of the department's strategic intentions and capability; or
     (ii) may be specified by the Minister or the responsible Minister for the purposes of subparagraph (i).
 
-### 41 Extra information required for first financial year
-(1) The information required under section 38 must include, for the first financial year of the period to which it relates,—
-  (a) forecast financial statements for the department that have been prepared in accordance with generally accepted accounting practice; and
-  (b) a statement of all significant assumptions underlying the forecast financial statements; and
-  (c) any other information or explanations needed to fairly reflect the department's forecast financial operations and financial position; and
-  (d) comparative budgeted and estimated actual figures for the previous financial year for the forecast financial statements; and
-  (e) a statement of forecast service performance that—
-    (i) describes each class of outputs the department proposes to supply during the financial year; and
-    (ii) includes measures and forecast standards of output delivery for each class of outputs; and
-    (iii) identifies the expected revenue to be earned and the proposed output expenses to be incurred for each class of outputs; and
-    (iv) has been prepared in accordance with generally accepted accounting practice; and
-  (f) any other measures and standards necessary to assess the department's performance at the end of the financial year.
-(2) The information for each class of outputs that is included in a statement of forecast service performance in accordance with subsection (1)(e) must be agreed by the Minister responsible for the appropriation that includes that class of outputs.
+### 41 Minister may grant extension of time for, or waive, requirement to provide information on strategic intentions
+(1) If a department is likely to have a significant change in the nature or scope of its functions, the Minister may grant the department an extension, of up to 1 year, of the period specified in section 38(4)(a).
+(2) However, the Minister must not grant an extension unless the Minister is satisfied that the extension will enable the department to improve the quality of the information on strategic intentions that the department provides to its responsible Minister.
+(3) If a department is likely to be disestablished, the Minister may grant the department a waiver of the requirements in section 38.
+(4) As soon as practicable after granting an extension or a waiver, the Minister must present to the House of Representatives notice of the extension or waiver and the Minister's reasons for granting it.
 
 ### 41A Special provisions in relation to annual financial statements of school Board of Trustees
 [Repealed]
@@ -1010,14 +1161,7 @@ The information required under section 38 must set out and explain for the perio
 [Repealed]
 
 ### 42 Information on future operating intentions must include statement of responsibility
-(1) The information required under section 38 must also include a statement of responsibility that is—
-  (a) signed by the department's chief executive; and
-  (b) countersigned by the department's chief financial officer.
-(2) The statement of responsibility must comprise—
-  (a) a statement of the chief executive's responsibility for the information; and
-  (b) a statement that certifies that the information is consistent with—
-    (i) existing appropriations; and
-    (ii) the appropriations set out in the first Appropriation Bill that relates to the financial year in question.
+[Repealed]
 
 **Reporting requirements—Annual reports**
 
@@ -1055,96 +1199,100 @@ The information required under section 38 must set out and explain for the perio
     (b) in the case of a departmental agency, the date on which the departmental agency's host department receives an audit report
   - **audit report** means an audit report under section 45D.
 
-### 45 Contents of departmental annual report
-(1) A department's annual report must contain the following information in respect of the financial year to which it relates:
-  (a) information on operations that complies with subsection (2); and
-  (b) a statement of service performance in accordance with section 45A; and
-  (c) the annual financial statements for the department in accordance with section 45B; and
-  (d) the statement of responsibility in accordance with section 45C; and
-  (e) the audit report provided under section 45D; and
-  (f) any other matters that relate to or affect the department's operations that the department is required, has undertaken, or wishes to report on in its annual report.
-(2) The annual report must provide the information that is necessary to enable an informed assessment to be made of the department's performance during the financial year (including an assessment against the intentions, measures, and standards set out at the start of the financial year in the information on the department's future operating intentions in accordance with sections 40 and 41).
-(2A) However, a department's annual report need not include information that any departmental agency hosted by the department is required to include in its annual report under section 45AA.
-(3) The annual report must be dated and signed on behalf of the department by its chief executive.
+### 45 Contents of annual report of department
+(1) The annual report of a department must provide the information that is necessary to enable an informed assessment to be made of the department's performance during the financial year, including how well the department is managing the resources it controls.
+(2) The annual report of a department must contain the following information in respect of the financial year to which it relates:
+  (a) an assessment of the department's operations (excluding operations on which any departmental agency hosted by the department is required to report under section 43A); and
+  (b) an assessment of the department's progress in relation to its strategic intentions; and
+  (c) information about the department's management of its organisational health and capability; and
+  (d) statements of expenses and capital expenditure for the department that comply with section 45A; and
+  (e) annual financial statements for the department that comply with section 45B; and
+  (f) a statement of responsibility that complies with section 45C; and
+  (g) any other matters that relate to or affect the department's operations that the department is required, has undertaken, or wishes to report on in its annual report.
+(3) The annual report of a department must also contain, in respect of the financial year after the financial year to which the annual report relates, forecast financial statements for the department that comply with section 45BA.
+(4) The annual report of a department must identify any departmental agencies hosted by the department.
+(5) The annual report must be dated and signed on behalf of the department by its chief executive.
 
 ### 45AA Contents of departmental agency annual report
 (1) The annual report of a departmental agency must contain the following information in respect of the financial year to which it relates:
   (a) an assessment of the departmental agency's operations; and
-  (b) an assessment of the departmental agency's progress in relation to any of the host department's future operating intentions that are relevant to the departmental agency; and
+  (b) an assessment of the departmental agency's progress in relation to any of the host department's strategic intentions that are relevant to the departmental agency; and
   (c) information about the departmental agency's management of its organisational health and capability; and
   (d) any other matters that relate to or affect the departmental agency's operations that the departmental agency is required, has undertaken, or wishes to report on in its annual report.
 (2) The annual report of a departmental agency must identify the departmental agency's host department.
 (3) The annual report must be dated and signed on behalf of the departmental agency by its chief executive.
 
-### 45A Statement of service performance
-A department's statement of service performance must—
-  (a) be prepared in accordance with generally accepted accounting practice; and
-  (b) describe each class of outputs supplied by the department during the financial year; and
-  (c) include, for each class of outputs,—
-    (i) the standards of delivery performance achieved by the department, as compared with the forecast standards included in the department's statement of forecast service performance at the start of the financial year; and
-    (ii) the actual revenue earned and output expenses incurred, as compared with the expected revenues and proposed output expenses included in the department's statement of forecast service performance at the start of the financial year.
+### 45A Statements of expenses and capital expenditure
+A department's annual report must include—
+  (a) a statement of the budgeted and actual expenses and capital expenditure incurred against—
+    (i) each appropriation administered by the department; and
+    (ii) each category of expenses or non-departmental capital expenditure included in a multi-category appropriation administered by the department; and
+  (b) for each appropriation administered by the department, details of the document in which the end-of-year performance information for the appropriation for the previous financial year (if required) is presented to the House of Representatives; and
+  (c) a statement of expenses and capital expenditure incurred without appropriation or other authority, or in excess of an existing appropriation or other authority, in relation to the activities of, or appropriations administered by, the department, together with an explanation of the reasons for the unappropriated expenses and capital expenditure; and
+  (d) a statement of the amount of any capital injection authorised, under an Appropriation Act, to be made to the department compared with the actual amount of any capital injection made to the department; and
+  (e) a statement of any capital injection made to the department without authority, or in excess of an existing authority, under an Appropriation Act, together with an explanation of the reasons for the unauthorised capital injection.
 
 ### 45B Annual financial statements
 (1) A department's annual financial statements must be prepared in accordance with generally accepted accounting practice.
 (2) In addition to the financial statements required by generally accepted accounting practice, a department's annual financial statements must include—
   (a) any other information or explanations needed to fairly reflect the department's financial operations and financial position; and
-  (b) the forecast financial statements prepared at the start of the financial year, for comparison with the actual financial statements; and
-  (c) a statement of actual expenses and capital expenditure incurred against—
-    (i) each appropriation administered by the department; and
-    (ii) each class of outputs included in each output expense appropriation; and
-  (d) a statement of unappropriated expenses and capital expenditure incurred in relation to the activities of, or appropriations administered by, the department, together with an explanation of the reasons for the unappropriated expenses and capital expenditure.
+  (b) the forecast financial statements prepared at the start of the financial year, for comparison with the actual financial statements.
+  (c)
+  (d)
+
+### 45BA Forecast financial statements
+(1) A department's forecast financial statements must be prepared in accordance with generally accepted accounting practice.
+(2) In addition to what is required by generally accepted accounting practice, a department's forecast financial statements must include—
+  (a) a statement of all significant assumptions underlying the forecast financial statements; and
+  (b) any other information or explanations needed to fairly reflect the forecast financial operations and financial position of the department.
 
 ### 45C Statement of responsibility
-(1) The statement of responsibility must include—
-  (a) a statement of the responsibility of the department's chief executive for the preparation of the financial statements and statement of service performance, and for the judgments made in them; and
-  (b) a statement of the responsibility of the department's chief executive for establishing a system of internal control designed to provide reasonable assurance as to the integrity and reliability of financial reporting; and
-  (c) a statement that, in the opinion of the department's chief executive, the financial statements and statement of service performance fairly reflect the financial position and operations of the department for the reporting period.
-(2) The statement of responsibility must be—
-  (a) signed by the department's chief executive; and
-  (b) countersigned by the department's chief financial officer.
+(1) A statement of responsibility relating to the annual report of a department must include—
+  (a) a statement of the responsibility of the department's chief executive for the preparation of the financial statements, and statements of expenses and capital expenditure, and for the judgements expressed in them; and
+  (b) a statement of the responsibility of the department's chief executive for having in place a system of internal control designed to provide reasonable assurance as to the integrity and reliability of financial reporting; and
+  (c) a statement of the responsibility of the department's chief executive for ensuring that end-of-year performance information on each appropriation administered by the department is provided in accordance with sections 19A to 19C, whether or not that information is included in the annual report; and
+  (d) a statement of the responsibility of the department's chief executive for the accuracy of any end-of-year performance information prepared by the department (see section 19A), whether or not that information is included in the annual report; and
+  (e) a statement that, in the opinion of the department's chief executive,—
+    (i) the financial statements fairly reflect the financial position and operations of the department for the reporting period; and
+    (ii) the forecast financial statements fairly reflect the forecast financial position and operations of the department for the financial year to which the forecast financial statements relate.
+(2) A statement of responsibility for the annual report of a departmental agency must include—
+  (a) a statement that, in the opinion of the chief executive of the departmental agency, the annual report fairly reflects the operations, progress, and organisational health and capability of the departmental agency; and
+  (b) a statement of the responsibility of the departmental agency's chief executive for the accuracy of any end-of-year performance information prepared by the departmental agency (see section 19A), whether or not that information is included in the annual report.
+(3) A statement of responsibility must be signed by the chief executive of the department or departmental agency (as applicable).
 
 ### 45D Audit report
 (1) A department must forward to the Auditor-General—
-  (a) its annual financial statements, statement of service performance, and any other information that the Auditor-General has agreed, or is required, to audit within 2 months after the end of each financial year; and
+  (a) its annual financial statements, statements of expenses and capital expenditure, and any other information that the Auditor-General has agreed, or is required, to audit within 2 months after the end of each financial year; and
   (b) its annual report in a timely manner to enable the Auditor-General to review that report before providing the audit report required under subsection (2)(b).
+(1A) The department or departmental agency most recently identified in the supporting information for an Appropriation Act as providing end-of-year performance information on an appropriation for a financial year must, within 2 months after the end of that financial year, forward that information to the Auditor-General.
 (2) The Auditor-General must—
-  (a) audit the statements referred to in subsection (1)(a); and
-  (b) provide an audit report on them to the department within 3 months after the end of each financial year.
+  (a) audit the statements referred to in subsection (1)(a) and the information referred to in subsections (1)(a) and (1A); and
+  (b) provide an audit report on them to the department or departmental agency (as the case may be) within 3 months after the end of each financial year.
 
 **Miscellaneous**
 
 ### 45E Application of this Part to intelligence and security departments
 (1) This Part applies to an intelligence and security department, subject to subsection (2) and with the following (and any other necessary) modifications:
-  (a) section 40 must be read as if section 40(e)(ii) did not include a reference to the Minister; and
-  (b) sections 41 and 45B(1) and (2)(a) and (b) must be read as if those sections referred to the forecast or actual financial statements, prepared in accordance with generally accepted accounting practice, that, in the opinion of the responsible Minister, will fairly reflect the department's forecast or actual financial operations and financial position for that financial year; and
+  (a) section 40 must be read as if section 40(2)(d)(ii) did not include a reference to the Minister; and
+  (b) sections 45B and 45BA must be read as if those sections referred to the forecast or actual financial statements, prepared in accordance with generally accepted accounting practice, that, in the opinion of the responsible Minister, will fairly reflect the department's forecast or actual financial operations and financial position for that financial year; and
   (c) section 4J of the New Zealand Security Intelligence Service Act 1969 or, as the case may be, section 12 of the Government Communications Security Bureau Act 2003 is substituted (subject to all necessary modifications) for sections 43 and 44, except that—
     (i) the report presented to the House of Representatives under section 4J(3) of the New Zealand Security Intelligence Service Act 1969 or section 12(3) of the Government Communications Security Bureau Act 2003 must include a statement that provides a record of the total of the actual expenses and capital expenditure incurred by the department for that year against the department's appropriation for that financial year (that statement being a substitute for the financial statements submitted to the responsible Minister and the Intelligence and Security Committee); and
-    (ii) the department must publish the report as soon as practicable after it has been presented to the House of Representatives; and
-  (d) sections 45C and 45D must be read as if the references to a statement of service performance were omitted.
-(2) The following provisions do not apply to an intelligence and security department:
-  (a) section 39 (which requires information provided by a department on its future operating intentions to be presented to the House of Representatives and to be published):
-  (b) section 41(1)(e) (which requires the information on future operating intentions to include a statement of forecast service performance):
-  (c) section 41(2) (which provides that the information included in a statement of forecast service performance must be agreed by the Minister responsible for the appropriation):
-  (d) section 45(1)(b) (which requires a department's annual report to contain a statement of service performance):
-  (e) section 45A (which relates to the statement of service performance).
+    (ii) the department must publish the report as soon as practicable after it has been presented to the House of Representatives.
+  (d)
+(2) Section 39 (which requires information provided by a department on its strategic intentions to be presented to the House of Representatives and to be published) does not apply to an intelligence and security department.
+(3) However, subsection (2) does not affect the obligations of the responsible Minister of an intelligence and security department under section 39(3).
+(4) Section 45A(d) and (e) (which requires statements of expenses and capital expenditure to include statements relating to capital injections) does not apply to an intelligence and security department.
 
 ### 45F Application of this Part to Offices of Parliament
 (1) This Part applies to an Office of Parliament, subject to subsection (2) and with the following (and any other necessary) modifications:
   (a) references to a department must be read as references to an Office of Parliament; and
-  (b) references to the Auditor-General must be read as references to an auditor appointed by the House of Representatives to audit the financial statements and statements of service performance of Offices of Parliament; and
-  (c) section 38 must be read in the manner indicated in section 45G; and
-  (d) section 40(e) must be read as if an Office of Parliament were not required to comply with the requirement for the report on future operating intentions to set out and explain any other matters that may be specified by the Minister or responsible Minister, but were instead required to have regard to those matters in the preparation of that report.
-(2) Section 39(2)(b) (which requires the information on future operating intentions to be accompanied by a statement that the information is consistent with the policy and performance expectations of the Government) does not apply to an Office of Parliament.
+  (b) references to the Auditor-General must be read as references to an auditor appointed by the House of Representatives to audit the financial statements, statements of expenses and capital expenditure, and end-of-year performance information of Offices of Parliament; and
+  (c) section 40(2)(d) must be read as if an Office of Parliament were not required to comply with the requirement for the information on strategic intentions to set out and explain any other matters that may be specified by the Minister or responsible Minister, but were instead required to have regard to those matters in the preparation of that information; and
+  (d) section 41 must be read as if the references in that section to the Minister were references to the Speaker.
+(2) Section 39(7)(b) (which requires the information on strategic intentions to be accompanied by a statement that the information is consistent with the policy and performance expectations of the Government) does not apply to an Office of Parliament.
 
 ### 45G This Part modified for purpose of applying Part to Offices of Parliament
-(1) For the purposes of section 45F(1)(c), this Part must be read as if, for section 38(1), there were substituted the following subsection:
-  (1) An Office of Parliament must,—
-    (a) before the start of each financial year and not later than the date on which the Office submits to the House of Representatives the information required under section 26E(1), prepare and provide to the Speaker and the House of Representatives draft information about its future operating intentions; and
-    (b) before the start of each financial year,—
-      (i) have regard to any comments on the draft information that it receives from the Speaker or a committee of the House of Representatives that considered the matter; and
-      (ii) prepare final information about its future operating intentions after complying with subparagraph (i).
-(2) For the purposes of section 45F(1)(c), this Part must be read as if, for section 38(4), there were substituted the following subsection:
-  (4) An Office of Parliament must provide the final information to the Speaker, who must arrange for the final information to be presented to the House of Representatives, as required by section 39.
+[Repealed]
 
 ## Part 5 — Special reporting requirements
 
@@ -1164,7 +1312,7 @@ A department's statement of service performance must—
 ### 45I First annual report for newly established entities
 (1) The Minister may (at the Minister's discretion) exempt an entity that is established during the last 4 months of a financial year from the obligation to provide an annual report for that financial year.
 (2) Despite subsection (1), an entity that administers an appropriation must, after the end of that financial year, provide the following statements and report as if they were an annual report:
-  (a) the statements of expenses and capital expenditure required by section 45B(2)(c) and (d); and
+  (a) the statements and details required by section 45A; and
   (b) an audit report on those statements.
 (3) An entity that is exempted under subsection (1) must, after the end of the entity's first full financial year, provide an annual report that covers the period from the date on which the entity is established until the end of the entity's first full financial year.
 (4) To avoid doubt, the annual report referred to in subsection (3) must contain the information required to be included in the entity's annual report, except that the information must be in respect of the period referred to in that subsection.
@@ -1199,7 +1347,7 @@ A department's statement of service performance must—
   (b) that entity's operations are transferred to 1 or more entities; and
   (c) those operations are, at the time of the transfer, to be carried out on substantially the same terms by the entity to whom they are transferred.
 (2) The Minister may exempt the entity from whom operations are transferred from the requirement to include in its final report—
-  (a) a statement of service performance; and
+  (a) a statement of performance; and
   (b) a full report on its operations.
 (3) The Minister may grant an exemption under subsection (2)—
   (a) on the condition that—
@@ -1215,13 +1363,13 @@ A department's statement of service performance must—
   (b) sections 154 to 156 (which relate to annual financial statements, statements of responsibility, and audit reports):
   (c) section 158 (which relates to bank accounts):
   (d) if there is a tick in a column of the table in Schedule 4 of this Act alongside the name or description of the organisation, the section indicated in the heading of that column:
-  (e) if section 139 of the Crown Entities Act 2004 (which is the obligation to prepare a statement of intent) applies to the organisation under paragraph (d), sections 138 and 141 to 149 of that Act (which also relate to statements of intent):
-  (f) if section 150 of the Crown Entities Act 2004 (which is the obligation to prepare, present, and publish an annual report) applies to the organisation under paragraph (d), sections 151 (other than subsection (1)(b)), 152, and 154 to 157 of that Act (which also relate to annual reports).
-(2) The responsible Minister for a Schedule 4 organisation that is required, under subsection (1)(d), to produce a statement of service performance under section 153 of the Crown Entities Act 2004 must present that statement to the House of Representatives with the annual financial statements required under subsection (1)(b).
+  (e) if section 139 of the Crown Entities Act 2004 (which is the obligation to prepare a statement of intent) applies to the organisation under paragraph (d), sections 138, 139A, 139, 141, and 144 to 149A of that Act (which also relate to statements of intent):
+  (f) if section 150 of the Crown Entities Act 2004 (which is the obligation to prepare, present, and publish an annual report) applies to the organisation under paragraph (d), sections 151 (other than subsection (1)(b)), 152, and 154 to 157A of that Act (which also relate to annual reports).
+(2) The responsible Minister for a Schedule 4 organisation that is required, under subsection (1)(d), to produce a statement of performance under section 153 of the Crown Entities Act 2004 must present that statement to the House of Representatives with the annual financial statements required under subsection (1)(b).
 (3) If a Schedule 4 organisation is established or regulated under an Act, the provisions applied by this section apply to the organisation subject to any express negation or modification of the provision in that Act.
 
 ### 45N Exemptions from certain sections of Crown Entities Act 2004 for Schedule 4 organisations
-(1) The Minister may exempt a Schedule 4 organisation, for 1 or more financial years or until further notice, from any of the requirements in sections 141, 151, and 152 of the Crown Entities Act 2004, other than the requirements in section 151(1)(c) to (e).
+(1) The Minister may exempt a Schedule 4 organisation, for 1 or more financial years or until further notice, from any of the requirements in sections 141, 149E, 151, and 152 of the Crown Entities Act 2004, other than the requirements in section 151(1)(c) to (e).
 (2) If the Minister considers that it is necessary or desirable to grant an exemption under this section, the Minister may grant the exemption—
   (a) by notice in writing to the organisation; and
   (b) on any conditions that the Minister thinks fit.
@@ -1251,10 +1399,10 @@ A department's statement of service performance must—
   (k) section 114 (which relates to government directions):
   (l) section 118 (which is the obligation to be a good employer):
   (m) sections 132 to 135 (miscellaneous provisions):
-  (n) sections 136 to 157 (which relate to reporting obligations):
+  (n) sections 136 to 157A (which relate to reporting obligations):
   (o) section 158 (which relates to bank accounts):
   (p) if there is a tick in a column of the table in Schedule 4A of this Act alongside the name of the company, the section indicated in the heading of that column.
-(2) In the case of a Schedule 4A company that is not 100% Crown-owned, subsection (1)(n) does not prevent the shareholders from agreeing on a process for minority shareholders to be involved in the process of preparing, reviewing, or amending the statement of intent or statement of performance expectations referred to in sections 136 to 157 of the Crown Entities Act 2004, but only if the agreed process is not inconsistent with those sections.
+(2) In the case of a Schedule 4A company that is not 100% Crown-owned, subsection (1)(n) does not prevent the shareholders from agreeing on a process for minority shareholders to be involved in the process of preparing, reviewing, or amending the statement of intent or statement of performance expectations referred to in sections 136 to 157A of the Crown Entities Act 2004, but only if the agreed process is not inconsistent with those sections.
 (3) For the purposes of subsections (1) and (2), a Schedule 4A company is 100% Crown-owned if Ministers of the Crown, on behalf of the Crown, hold 100% of the issued ordinary shares in the capital of the company.
 (4) For the purposes of section 107(2)(a) of the Crown Entities Act 2004, Schedule 4A companies may be treated as a category of Crown entities.
 (5) If a Schedule 4A company is established or regulated under an Act, the provisions applied by this section apply to the company subject to any express negation or modification of the provision in that Act.
@@ -1477,19 +1625,7 @@ The power conferred on the Minister under section 47 includes the power to borro
   (b) finance lease arrangements or arrangements that are of the same or a substantially similar nature.
 
 ### 61 Expenses in respect of money borrowed by the Crown
-(1) Any expenses incurred in connection with any of the following matters may be incurred without further appropriation, and must be paid without further authority, than this section:
-  (a) negotiating the borrowing of money by the Crown; or
-  (b) undertaking the borrowing; or
-  (c) managing the borrowing; or
-  (d) servicing the borrowing; or
-  (e) converting the borrowing; or
-  (f) repaying the borrowing.
-(2) Subsection (1) does not apply to expenses incurred in connection with money borrowed by the Crown under—
-  (a) hire purchase agreements or agreements that are of the same or a substantially similar nature; and
-  (b) finance lease arrangements or arrangements that are of the same or a substantially similar nature.
-(3) In this section, expenses includes—
-  (a) duties, taxes, premiums, bonuses, fees, interests, and commissions; and
-  (b) any expenses incurred on personnel and equipment necessary for the performance of functions set out in subsection (1).
+[Repealed]
 
 ### Subpart 2 — Securities
 
@@ -1549,17 +1685,10 @@ Except as expressly authorised by any Act, the Crown must not issue securities (
     (i) must be paid without further authority than this section; and
     (ii) must be paid from a Crown Bank Account; and
   (b) all borrowing expenses incurred under a public security may be incurred without further appropriation, and must be paid without further authority, than this section.
-(2) In this section and section 65E, public security does not include a guarantee or indemnity given under section 65ZD, the Crown Retail Deposit Guarantee Scheme Act 2009, or section 125I of the Weathertight Homes Resolution Services Act 2006.
+(2) In this section and section 65ZH, public security does not include a guarantee or an indemnity on behalf of or in the name of the Crown given under this Act or any other enactment.
 
 ### 65E Expenses in respect of securities
-(1) Any expenses incurred in connection with any of the following functions may be incurred without further appropriation, and must be paid without further authority, than this section:
-  (a) issuing a public security in respect of the Crown; or
-  (b) executing the public security; or
-  (c) redeeming the public security; or
-  (d) varying the public security.
-(2) In this section, expenses includes—
-  (a) duties, taxes, premiums, bonuses, fees, and commissions; and
-  (b) any expenses incurred on personnel and equipment necessary for the performance of functions set out in subsection (1).
+[Repealed]
 
 ### Subpart 3 — Derivative transactions
 
@@ -1578,11 +1707,7 @@ Except as expressly authorised by any Act, the Crown must not enter (either dire
 (1) Any money that is required to be paid by the Crown under a derivative transaction—
   (a) must be paid without further authority than this section; and
   (b) must be paid from a Crown Bank Account or, if the Minister directs, a Departmental Bank Account.
-(2) Any expenses incurred in connection with any of the following matters may be incurred without further appropriation, and must be paid without further authority, than this section:
-  (a) negotiating a derivative transaction; or
-  (b) managing the derivative transaction; or
-  (c) servicing the derivative transaction; or
-  (d) making payments under the derivative transaction.
+(2)
 
 ### Subpart 4 — Investment
 
@@ -1603,15 +1728,7 @@ Except as expressly authorised by any Act, the Crown must not enter (either dire
     (ii) the sale or conversion of the securities.
 
 ### 65J Payment of expenses relating to investment
-(1) All costs, charges, and expenses incurred in connection with any of the matters specified in subsection (2)—
-  (a) may be incurred without further appropriation, and must be paid without further authority, than this section; and
-  (b) must be paid from a Crown Bank Account or, if the Minister directs, a Departmental Bank Account.
-(2) The matters are—
-  (a) negotiating an investment referred to in section 65I; or
-  (b) placing the investment; or
-  (c) managing the investment; or
-  (d) servicing the investment; or
-  (e) converting the investment.
+[Repealed]
 
 **Limits on lending by the Crown**
 
@@ -1782,6 +1899,26 @@ Except as expressly authorised by any Act, it is not lawful for any person to gi
 
 ### 65ZG Payments in respect of guarantees or indemnities
 Any money paid by the Crown under a guarantee or indemnity given under section 65ZD and any expenses incurred by the Crown in relation to the guarantee or indemnity may be incurred without further appropriation, and must be paid without further authority, than this section.
+
+### Subpart 7 — Permanent legislative authority for payment of certain expenses
+
+### 65ZH Permanent legislative authority for payment of certain expenses
+(1) Any expenses incurred in connection with any of the following matters may be incurred without further appropriation, and must be paid without further authority, than this section:Expenses in respect of money borrowed by the CrownExpenses in respect of securitiesExpenses relating to derivative transactions of the CrownExpenses relating to investment
+  (a) negotiating the borrowing of money by the Crown:
+  (b) undertaking, managing, servicing, converting, or repaying borrowing described in paragraph (a):
+  (c) issuing a public security in respect of the Crown:
+  (d) executing, redeeming, or varying a public security described in paragraph (c):
+  (e) negotiating a derivative transaction of the Crown:
+  (f) managing, servicing, or making payments under a derivative transaction described in paragraph (e):
+  (g) negotiating an investment referred to in section 65I:
+  (h) placing, managing, servicing, or converting an investment referred to in section 65I.
+(2) In this section, expenses—
+  (a) includes—
+    (i) duties, taxes, premiums, bonuses, fees, interests, and commissions; and
+    (ii) any expenses incurred on personnel and equipment necessary in connection with the matters set out in subsection (1); but
+  (b) does not include expenses incurred in connection with—
+    (i) money borrowed by the Crown under a hire purchase agreement, a finance lease agreement, or any agreement that is of the same nature as or a substantially similar nature to either of those agreements; or
+    (ii) a guarantee or an indemnity on behalf of or in the name of the Crown given under this Act or any other enactment.
 
 ## Part 7 — Trust money
 
@@ -2098,7 +2235,7 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 
 ## Schedule 4 — Organisations for the purposes of subpart 2 of Part 5
 
-| Name or description of organisation | SOI | Annual report | SSP | Securities | Borrowing | Guarantees | Derivatives | Surplus |
+| Name or description of organisation | SOI | Annual report | SP | Securities | Borrowing | Guarantees | Derivatives | Surplus |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 139 | 150 | 153 | 161 | 162 | 163 | 164 | 165 |
 | Agricultural and Marketing Research and Development Trust |  |  |  |  |  |  |  |  |
