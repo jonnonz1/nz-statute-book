@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -35,6 +35,9 @@ This Act is the KiwiSaver Act 2006.
   - **Crown contribution** means—
     (a) the contribution made by the Crown under section 226:
     (b) the amount of tax credit under section MK 1 of the Income Tax Act 2007 that is treated as a Crown contribution for a member under section MK 5 of that Act
+  - **CYPFA guardian** , of a person, means any other person—
+    (a) appointed by an order under section 110(1)(a) to (d) of the Children, Young Persons, and Their Families Act 1989 as the sole guardian, or as a guardian of the person in addition to any other guardians (whether or not guardians by virtue of that Act), of the person; or
+    (b) whose sole guardianship of the person arises under section 119 of that Act (about the death of a guardian appointed under section 110(1)(e) of that Act who, on his or her death, was the person's sole guardian)
   - **deduction rate** means the rate at which deductions must be made under section 66 or 66A, as the case may be
   - **default investment product** , in relation to a default KiwiSaver scheme, means the investment product specified as the default investment product of the scheme under an instrument of appointment to which section 177 applies
   - **default KiwiSaver provider** means a manager that is appointed under section 177 as the provider of a default investment product of a default KiwiSaver scheme
@@ -82,7 +85,7 @@ This Act is the KiwiSaver Act 2006.
   - **fee subsidy** means a Crown subsidy for fees that are payable by a member or a class of members of a KiwiSaver scheme as prescribed under section 228(n) or (o)
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **gross salary or wages** means salary or wages before the deduction of tax (as tax is defined in section 3(1) of the Tax Administration Act 1994)
-  - **guardian** has the same meaning as in the Care of Children Act 2004
+  - **guardian** has the same meaning as in the Care of Children Act 2004, but excludes a CYPFA guardian
   - **holding account** means the Inland Revenue KiwiSaver Holding Account established by the Commissioner under section 72
   - **inactive account** , in relation to a member of a KiwiSaver scheme, means a member’s account in respect of which no contribution has been received for at least 2 years
   - **independent trustee** , in relation to a restricted KiwiSaver scheme, means—
@@ -451,13 +454,18 @@ A person may opt in at any time provided—
   (a) contracting directly with the provider; and
   (b) 18 years for the purposes of the Minors' Contracts Act 1969; and
   (c) opting in under section 34(1)(a).
-(3) A person who is 16 or 17 years old with a guardian may opt in if the person and 1 of their guardians jointly contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as––
+(3) A person who is 16 or 17 years old with a guardian or a CYPFA guardian may opt in if the person and 1 of their guardians or CYPFA guardians jointly contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as––
   (a) contracting directly with the provider; and
   (b) 18 years for the purposes of the Minors' Contracts Act 1969; and
   (c) opting in under section 34(1)(a).
 (4) A person who is 16 or 17 years old with no guardian may opt in if the person contracts directly with a provider. If the provider accepts the person, then the person is treated as––
   (a) 18 years for the purposes of the Minors' Contracts Act 1969:
   (b) opting in under section 34(1)(a).
+(5) A person who is less than 16 years with a CYPFA guardian may opt in if the CYPFA guardian (independently from the person, and from all other, if any, CYPFA guardians, guardians, or both, of the person) contracts directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as––
+  (a) contracting directly with the provider; and
+  (b) 18 years for the purposes of the Minors' Contracts Act 1969; and
+  (c) opting in under section 34(1)(a).
+(6) If a person who is less than 16 years with a CYPFA guardian is a member of a KiwiSaver scheme (whether opted into before or while the CYPFA guardian's guardianship has effect), the CYPFA guardian has for the purposes of this Act authority (instead of all guardians, if any, of the person, and independently from the person, and from all other, if any, CYPFA guardians of the person) to make decisions (for example, voluntary transfer decisions), or to take other steps, in respect of the person's membership of the scheme.
 
 ### 36 Effect of opting in by employees
 (1) An employee who opts in under section 34(1)(a) or (b)—
