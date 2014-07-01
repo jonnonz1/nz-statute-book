@@ -1,5 +1,5 @@
 # New Zealand Tourism Board Act 1991
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2014-07-01_
 
 > An Act to—aestablish the New Zealand Tourism Board, define its object, functions, and powers, and provide for related matters; andbabolish the New Zealand Tourism Department, and provide for related matters
 
@@ -43,25 +43,13 @@ The New Zealand Tourism Board's object is to ensure that New Zealand is so marke
   (b) to advise the Government and the New Zealand tourism industry on matters relating to the development, implementation, and promotion of those strategies.
 
 ### 8 Annual statements of projected outputs, liabilities, and outcomes
-(1)
-(2) Every statement of intent required under section 139 of the Crown Entities Act 2004 must be accompanied by a statement of the New Zealand Tourism Board's best estimate of—
-  (a) the—the number of visitors to New Zealand during the year to which the annual statement relates, and the amount of money they spend; and
-    (i) impacts of the outputs described in the annual statement on; and
-    (ii) consequences of those outputs for,—
-  (b) the impacts of those outputs on and consequences of those outputs for the number of visitors to New Zealand in later years, and the amount of money they spend.
-(3)
-(4)
-(5)
-(6)
-(7)
-(8)
-(9)
+[Repealed]
 
 ### 9 Board to comply with Government policies
 [Repealed]
 
 ### 10 Annual report
-The New Zealand Tourism Board must include in its annual report required under section 150 of the Crown Entities Act 2004 a statement of the extent to which the impacts of the Board's outputs in that year and previous years on, and the consequences of those outputs for, the number of visitors to New Zealand during that year, and the amount of money they spent, matched the estimates contained in past statements (as finally approved by the Minister) under section 8(2).
+[Repealed]
 
 ### 11 Membership of New Zealand Tourism Board
 (1) The New Zealand Tourism Board must have no fewer than 5, and no more than 9, members.
