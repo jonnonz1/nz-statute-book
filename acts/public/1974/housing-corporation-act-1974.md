@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2014-04-14_
+_Consolidation as at 2014-07-01_
 
 > Title
 
@@ -14,6 +14,7 @@ The purpose of this Act is to—
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **annual financial statements** means annual financial statements under section 154 of the Crown Entities Act 2004
   - **approved securities** means—
     (a) the bonds, stock, debentures, funds, or other securities of the Government of New Zealand; or
     (b) any other securities that are for the time being approved by the Minister for the purposes of this Act
@@ -31,6 +32,7 @@ In this Act, unless the context otherwise requires,—
   - **solicitor** means a person who is duly enrolled as a barrister and solicitor under or by virtue of the Lawyers and Conveyancers Act 2006 and who holds a current practising certificate as a barrister and solicitor under that Act
   - **State Services Commissioner** means the State Services Commissioner appointed under section 3 of the State Sector Act 1988
   - **statement of intent** means a statement of intent under section 139 of the Crown Entities Act 2004
+  - **statement of performance expectations** means a statement of performance expectations under section 149C of the Crown Entities Act 2004
   - **subsidiary** , in relation to the Corporation, means a body that would under the Companies Act 1993 be a subsidiary of the Corporation if the Corporation were a company within the meaning of that Act
   - **vesting day** ,—
     (a) in relation to an existing company or an asset or liability of an existing company, means the day on which the order under section 53 relating to that company comes into force; and
@@ -65,10 +67,10 @@ The Corporation's objectives are—
 
 ### 3C Communication of the Crown's social objectives
 (1) To enable the Corporation to achieve the objective stated in section 3B(a) and to prepare or review its statements of intent, the Minister must, at least 3 months before the commencement of each financial year of the Corporation, give it written notice of the Crown's social objectives for the provision of housing and services related to housing by the Corporation.
-(2) Each of the Corporation's statements of intent must state—
+(2) Each of the Corporation's statements of performance expectations must state—
   (a) the objectives most recently notified by the Minister; and
   (b) the steps that the group comprising the Corporation and any Crown entity subsidiaries proposes to take in the financial year concerned and the next 2 financial years to achieve those objectives.
-(3) Nothing in subsections (1) and (2) limits or affects sections 141 and 142 of the Crown Entities Act 2004 or section 20.
+(3) Nothing in subsections (1) and (2) limits or affects sections 141 and 149E of the Crown Entities Act 2004 or section 20.
 
 ### 3D Other provisions relating to Corporation
 Schedule 1A applies to the Corporation.
@@ -260,30 +262,13 @@ Sections 20 to 20B apply to Crown entity subsidiaries of the Corporation as if e
 ## Part 4 — Financial provisions
 
 ### 30 Borrowing powers of Corporation and subsidiaries
-(1) The Corporation may do any of the things stated in subsection (2) only—
-  (a) with the agreement of the Minister of Finance; and
-  (b) in compliance with any conditions subject to which the agreement was given.
-(2) The things referred to in subsection (1) are—
-  (a) issue securities for the purpose of providing funds for carrying on its business under this Act, or as consideration for mortgages of land or other securities transferred to it:
-  (b)
-  (c) grant securities over, or otherwise charge, any of its real or personal property.
-(3) A subsidiary of the Corporation may do any of the things stated in subsection (4) only—
-  (a) with the agreement of the Minister of Finance; and
-  (b) in compliance with any conditions subject to which the agreement was given.
-(4) The things referred to in subsection (3) are—
-  (a)
-  (b) issue securities for the purpose of providing funds for carrying on its business, or as consideration for mortgages of land or other securities transferred to it:
-  (c) grant securities over, or otherwise charge, any of its real or personal property.
-(5) The Corporation may seek the Minister of Finance's agreement for the purposes of subsection (1) or subsection (3)—
-  (a) when it submits a statement of intent or modified statement of intent to the Minister under Part 4 of the Crown Entities Act 2004; or
-  (b) when the Minister gives it a notice, or enters an agreement with it, under section 20; or
-  (c) at any other time.
+[Repealed]
 
 ### 30AA Loans deemed to have been lawfully raised
 So far as concerns any lender or holder,—
-  (a) all money borrowed by the Corporation or a Crown entity subsidiary must for all purposes be treated as having been borrowed in accordance with section 30; and
-  (b) all securities and charges issued, granted, or varied by the Corporation or a Crown entity subsidiary must for all purposes be treated as having been issued, granted, or varied in accordance with section 30 or subpart 3 of Part 4 of the Crown Entities Act 2004; and
-  (c) the following must for all purposes be treated as having been undertaken in accordance with section 30 or subpart 3 of Part 4 of the Crown Entities Act 2004:
+  (a) all money borrowed by the Corporation or a Crown entity subsidiary must for all purposes be treated as having been borrowed in accordance with subpart 3 of Part 4 of the Crown Entities Act 2004; and
+  (b) all securities and charges issued, granted, or varied by the Corporation or a Crown entity subsidiary must for all purposes be treated as having been issued, granted, or varied in accordance with subpart 3 of Part 4 of the Crown Entities Act 2004; and
+  (c) the following must for all purposes be treated as having been undertaken in accordance with subpart 3 of Part 4 of the Crown Entities Act 2004:
     (i) all actions taken by the Corporation or a Crown entity subsidiary in the course of any borrowing or proposed borrowing:
     (ii) all actions taken by the Corporation or a Crown entity subsidiary in the course of the issue, granting, or variation or proposed issue, granting, or variation of any securities or charge; and
   (d) the lender or holder does not have to inquire whether, or to what extent, authority has been given under that Act.
@@ -322,7 +307,7 @@ So far as concerns any lender or holder,—
 
 ### 40 Distribution of profits
 (1) The Corporation must pay its surplus for each financial year into a Crown bank account, unless the Minister authorises the Corporation to keep all or any part of it.
-(2) In subsection (1), surplus means surplus capital, and any operating net surplus, after any provision the Minister thinks proper has been made for any matters that, in the Minister's opinion (reached in the light of the Corporation's statement of intent) are necessary for the efficient and effective conduct of the Corporation's operations.
+(2) In subsection (1), surplus means surplus capital, and any operating net surplus, after any provision the Minister thinks proper has been made for any matters that, in the Minister's opinion (reached in the light of the Corporation's statement of performance expectations and annual financial statements) are necessary for the efficient and effective conduct of the Corporation's operations.
 
 ### 41 Audit of accounts
 [Repealed]
