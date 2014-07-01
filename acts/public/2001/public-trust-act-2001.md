@@ -1,5 +1,5 @@
 # Public Trust Act 2001
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the Public Trust Act 2001.
@@ -289,9 +289,7 @@ Any funds of Public Trust not immediately required must be invested in 1 or more
 (1) If, in respect of any financial year the Minister requests Public Trust to provide goods or services to any person, the Minister must enter into an agreement with Public Trust specifying the terms and conditions, including any payment to Public Trust by the Crown, on which those goods and services are to be provided.
 (2) The Minister may not enter into an agreement under subsection (1) without the agreement of the Minister of Finance.
 (3) Payments by the Crown to Public Trust pursuant to an agreement under subsection (1) must be made out of money appropriated by Parliament for the purpose.
-(4) An agreement under subsection (1)—
-  (a) is an output agreement for the purposes of the Crown Entities Act 2004 in respect of any outputs covered by the agreement; and
-  (b) must comply with section 170(2) to (5) of the Crown Entities Act 2004.
+(4) Public Trust may include an agreement under subsection (1) in a statement of performance expectations prepared for the purpose of section 149C of the Crown Entities Act 2004.
 
 ### 45 Power to request information
 [Repealed]
