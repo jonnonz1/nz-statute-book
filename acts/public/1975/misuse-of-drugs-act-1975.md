@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-07-01_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -27,6 +27,14 @@ _Consolidation as at 2013-08-05_
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
   - **Minister** means the Minister of Health
+  - **nurse practitioner** means a health practitioner—
+    (a) who is, or is deemed to be, registered with the Nursing Council as a practitioner of the profession of nursing; and
+    (b) for whom the Nursing Council has authorised a scope of practice that includes prescribing medicines
+  - **Nursing Council** means the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003
+  - **optometrist** means a person—
+    (a) who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board as a practitioner of optometry; and
+    (b) for whom the Optometrists and Dispensing Opticians Board has authorised a scope of practice that includes prescribing medicines
+  - **Optometrists and Dispensing Opticians Board** means the Optometrists and Dispensing Opticians Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003
   - **pharmacist** means a health practitioner who is, or is deemed to be, registered with the Pharmacy Council established by section 114(5) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of pharmacy
   - **precursor substance** means any substance specified or described in Part 1 or Part 2 or Part 3 of Schedule 4
   - **produce** includes compound; and has a corresponding meaning
@@ -202,18 +210,18 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (4) Nothing in subsection (3) shall prejudice any defence which it is open to a person charged with an offence against this section to raise apart from that subsection.
 
 ### 8 Exemptions from sections 6 and 7
-(1) In subsection (2), references to a medical practitioner, dentist, veterinarian, midwife, designated prescriber, or pharmacist mean a medical practitioner, dentist, veterinarian, midwife, designated prescriber, or pharmacist, acting as such in the course of his or her practice or employment, and references to the supply of controlled drugs include an offer to supply controlled drugs.
+(1) In subsection (2), references to a medical practitioner, dentist, veterinarian, midwife, nurse practitioner, optometrist, designated prescriber, or pharmacist mean a medical practitioner, dentist, veterinarian, midwife, nurse practitioner, optometrist, designated prescriber, or pharmacist, acting as such in the course of his or her practice or employment, and references to the supply of controlled drugs include an offer to supply controlled drugs.
 (2) Notwithstanding anything in section 6 or section 7, but subject to sections 22 to 25 and any prohibitions, limitations, restrictions, or conditions, imposed thereby or thereunder or by or pursuant to any regulations under this Act,—
   (a) any medical practitioner, dentist or veterinarian may prescribe, produce, manufacture, supply, or administer controlled drugs:
-  (aa) any midwife may prescribe, supply, or administer the controlled drug pethidine (as described in Schedule 2):
+  (aa)
   (b) any pharmacist or any person with the authority and under the immediate supervision of a pharmacist may produce, manufacture, or supply controlled drugs—
     (i) listed in the pharmaceutical schedule within the meaning of the New Zealand Public Health and Disability Act 2000 for the purposes of a person eligible for a subsidy for the supply of controlled drugs; or
     (ii) for the purposes of the hospital in which he or she is employed; or
-    (iii) pursuant to a prescription or order issued by a medical practitioner, dentist, designated prescriber, or veterinarian:
-  (ba) any pharmacist or any person with the authority and under the immediate supervision of a pharmacist may produce, manufacture, or supply pethidine (as so described) pursuant to a prescription or order issued by a midwife:
+    (iii) pursuant to a prescription or order issued by a medical practitioner, dentist, nurse practitioner, optometrist, midwife, designated prescriber, or veterinarian:
+  (ba)
   (c) any person for whom a controlled drug is supplied by a medical practitioner or dentist, or prescribed by a medical practitioner or dentist and lawfully supplied, may administer that drug to himself in accordance with the advice of the medical practitioner or dentist who supplied or prescribed it:
   (d) any person having the care of a patient for whom a controlled drug is supplied by a medical practitioner or dentist, or prescribed by a medical practitioner or dentist and lawfully supplied, may administer that drug to that patient in accordance with the advice of the medical practitioner or dentist who supplied or prescribed it:
-  (da) any person having the care of a patient for whom pethidine (as so described) is supplied by a midwife, or prescribed by a midwife and lawfully supplied, may administer that drug to that patient in accordance with the advice of the midwife who supplied or prescribed it:
+  (da)
   (e) any person having the care of an animal for which a controlled drug is supplied by a veterinarian, or prescribed by a veterinarian and lawfully supplied, may administer that drug to that animal in accordance with the advice of the veterinarian who supplied or prescribed it:
   (f) any district health board established by or under the New Zealand Public Health and Disability Act 2000 or other corporate body, and any individual person being the manager or person licensed to carry on a hospital or any other institution, having the care of patients for whom controlled drugs are lawfully prescribed or supplied, may possess those drugs for the purposes of the treatment of those patients:
   (g) any person in the service of the Crown or any Medical Officer of Health or any pharmacist approved by a Medical Officer of Health may procure and possess a controlled drug for the purposes of and in connection with his official duties:
@@ -222,11 +230,11 @@ For the purposes of this Act, the functions of the Minister include the provisio
   (j) any person who is licensed or otherwise permitted under this Act to cultivate a prohibited plant may possess any controlled drug derived from that plant in the manner and for the purposes expressed or implied in that authority:
   (k) any person who is permitted by or under this Act to possess a controlled drug may procure that drug from a person lawfully entitled to supply it, and may supply or use that drug in the manner and for the purposes expressed or implied in that authority:
   (l) a person may, while entering or leaving New Zealand, possess a controlled drug required for treating the medical condition of the person or any other person in his or her care or control, if the quantity of drug is no greater than that required for treating the medical condition for 1 month, and the drug was—
-    (i) lawfully supplied to the person by a medical practitioner, designated prescriber (as defined in section 2(1) of the Medicines Act 1981), or dentist in New Zealand; or
-    (ii) prescribed by a medical practitioner, designated prescriber (as defined in section 2(1) of the Medicines Act 1981), or dentist, and lawfully supplied to the person in New Zealand; or
+    (i) lawfully supplied to the person by a medical practitioner, nurse practitioner, optometrist, midwife, designated prescriber (as defined in section 2(1) of the Medicines Act 1981), or dentist in New Zealand; or
+    (ii) prescribed by a medical practitioner, nurse practitioner, optometrist, midwife, designated prescriber (as defined in section 2(1) of the Medicines Act 1981), or dentist, and lawfully supplied to the person in New Zealand; or
     (iii) lawfully supplied to the person overseas and supplied for the purpose of treating a medical condition.
 (2A) Despite sections 6 and 7, but subject to sections 22 to 25 and any prohibitions, limitations, restrictions, or conditions imposed under those sections or any regulations made under this Act,—
-  (a) a designated prescriber or any midwife who is authorised by regulations made under this Act to prescribe controlled drugs of any specified class or description, may prescribe, supply, or administer such drugs:
+  (a) a designated prescriber, nurse practitioner, optometrist, or midwife who is authorised by regulations made under this Act to prescribe controlled drugs of any specified class or description, may prescribe, supply, or administer such drugs:
   (b) a person who is authorised to issue a standing order may include in a standing order authority to supply and administer controlled drugs of any specified class or description, and a person who is authorised under a standing order to supply and administer any controlled drugs may supply and administer those drugs in accordance with that standing order.
 (2B) In subsection (2A),—
   (a) references to a designated prescriber or a person authorised under a standing order to supply and administer any controlled drugs, mean a designated prescriber or person acting in the course of his or her practice or employment; and
@@ -445,6 +453,8 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
   (f) dentists:
   (fa) midwives:
   (fb) designated prescribers:
+  (fc) nurse practitioners:
+  (fd) optometrists:
   (g) Police employees:
   (h) persons who deal in controlled drugs in the course of business.
 (4) Nothing in subsection (1) or subsection (2) shall limit or affect any right or duty which a Medical Officer of Health may otherwise possess to publish a statement to any person.
@@ -477,8 +487,8 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 
 ### 23 Powers of Minister to prohibit prescribing, etc
 (1) Subject to subsection (2), the Minister may at any time, by notice in the Gazette,—
-  (a) prohibit any specified medical practitioner, dentist, midwife, designated prescriber, or veterinarian from prescribing controlled drugs:
-  (aa) prohibit any specified midwife from prescribing pethidine (as described in Schedule 2):
+  (a) prohibit any specified medical practitioner, dentist, midwife, nurse practitioner, optometrist, designated prescriber, or veterinarian from prescribing controlled drugs:
+  (aa)
   (b) prohibit any specified person from exercising all or any of the rights conferred by section 8, whether those rights are so conferred on persons generally or on a particular class of person to which that person belongs.
 (2) The Minister shall not exercise any power conferred on him by subsection (1)—
   (a) in the case of a medical practitioner, except on the recommendation of the Medical Council of New Zealand; or
@@ -486,21 +496,23 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
   (c) in the case of a veterinarian, except on the recommendation of the Veterinary Council of New Zealand; or
   (ca) in the case of a midwife, except on the recommendation of the Nursing Council of New Zealand; or
   (d) in the case of a pharmacist, except on the recommendation of the Pharmacy Council; or
+  (da) in the case of a nurse practitioner, except on the recommendation of the Nursing Council; or
+  (db) in the case of an optometrist, except on the recommendation of the Optometrists and Dispensing Opticians Board; or
   (e) in the case of any designated prescriber to whom paragraph (d) does not apply, except on the recommendation of the Council or Board, specified in regulations made under this Act, that has jurisdiction in respect of the class of registered health professional to which the designated prescriber belongs.
 (3) The Minister may at any time, by notice in the Gazette, revoke any notice given under subsection (1).
 (4) Notwithstanding anything in any other Act, each Council and each Board referred to in subsection (2) shall, for the purpose of considering and determining whether or not to make a recommendation to the Minister under that subsection, have jurisdiction to inquire into any prescribing of or dealing in controlled drugs by a member of the profession with which it is concerned, and any matter incidental thereto, when such prescribing or dealing has been brought or otherwise comes to its attention.
 (5) For the purposes of subsection (4), each such Council or Board has and may exercise any powers with respect to summoning witnesses, administering oaths, hearing evidence and other matters of procedure, and with respect to the payment and receiving of costs and expenses, conferred on it or any disciplinary committee or disciplinary tribunal, in relation to disciplinary proceedings, by the enactment under which the Council or Board is constituted.
 (5A) Despite subsection (5), it is not necessary, unless the Council or Board so requires, for any other body to conduct an investigation or inquiry or to be represented at the inquiry conducted by the Council or Board.
-(6) Without prejudice to the liability of any person under any other provision of this Act, every medical practitioner, dentist, midwife, designated prescriber, or veterinarian who prescribes any controlled drug in contravention of a notice under subsection (1) commits an offence against this Act and is liable on conviction—
+(6) Without prejudice to the liability of any person under any other provision of this Act, every medical practitioner, dentist, midwife, nurse practitioner, optometrist, designated prescriber, or veterinarian who prescribes any controlled drug in contravention of a notice under subsection (1) commits an offence against this Act and is liable on conviction—
   (a) to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,000 or to both where a Class A controlled drug or a Class B controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
   (b) to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both, in any other case.
-(7) Without prejudice to the liability of any midwife under any other provision of this Act, every midwife who prescribes pethidine (as so described) in contravention of a notice under subsection (1) commits an offence against this Act and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $1,000, or to both.
+(7)
 
 ### 24 Treatment of people dependent on controlled drugs
 (1) Every medical practitioner commits an offence who prescribes, administers, or supplies a controlled drug for or to a person who the practitioner has reason to believe is dependent on that or any other controlled drug,—
   (a) in the course or for the purpose of the treatment of the person for dependency; and
   (b) otherwise than in accordance with subsection (2).
-(1A) Every midwife or designated prescriber commits an offence against this Act who prescribes, administers, or supplies a controlled drug for or to a person who the midwife or prescriber has reason to believe is dependent on that or any other controlled drug, in the course of, or for the purpose of, the treatment of the person for dependency.
+(1A) Every midwife, nurse practitioner, optometrist, or designated prescriber commits an offence against this Act who prescribes, administers, or supplies a controlled drug for or to a person who the midwife or prescriber has reason to believe is dependent on that or any other controlled drug, in the course of, or for the purpose of, the treatment of the person for dependency.
 (2) In the course or for the purpose of the treatment for dependency of a person who the practitioner has reason to believe is dependent on that or any other controlled drug, a medical practitioner may prescribe, administer, or provide a controlled drug for or to the person if the medical practitioner—
   (a) is for the time being specified under subsection (7)(a); or
   (b) is—
@@ -622,7 +634,10 @@ In any proceedings against any person in respect of any offence against this Act
   (e) sections 141A and 142.
 
 ### 33 Notification of conviction of medical practitioners, etc
-Where any person being a medical practitioner, pharmacist, dentist, midwife, designated prescriber, or veterinarian is convicted of any offence against this Act or against any regulations made under this Act, the court shall cause particulars of the conviction to be sent to the person charged with the duty of keeping the register on which the name of the convicted person appears as a medical practitioner, pharmacist, dentist, midwife, designated prescriber, or veterinarian, as the case may be.
+(1) If a person who is a veterinarian, medical practitioner, pharmacist, dentist, midwife, nurse practitioner, optometrist, or designated prescriber is convicted of any offence against this Act or regulations made under it, the court must send particulars of the conviction to—
+  (a) the Registrar of the Veterinary Council of New Zealand, if the person is a veterinarian; or
+  (b) the responsible authority for the health profession to which the person belongs, in any other case.
+(2) In this section, responsible authority has the meaning given to it in section 5(1) of the Health Practitioners Competence Assurance Act 2003.
 
 ### 34 Protection of persons acting under authority of Act
 A person who does any act in pursuance or intended pursuance of any of the functions conferred on him by or under this Act shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless he has acted in bad faith or without reasonable care.
@@ -679,7 +694,7 @@ For any purpose in connection with this Act, a certificate, given by the Secreta
   (e) prohibiting, limiting, restricting, and imposing conditions on, either generally or in relation to particular cases or classes of case or particular classes of person, the prescribing, production, manufacture, procuring, supply, use, or possession of controlled drugs pursuant to any provision of section 8:
   (f) requiring persons who are engaged in the import, export, production, manufacture, procuring, supply, or administration of any controlled drug, or who utilise any controlled drug in the course of or in connection with their profession, trade, or calling, or any occupation whether paid or unpaid, or who otherwise undertake the supply or administration of any controlled drug, to keep records in such form and manner and to furnish information with respect to such matters as may be prescribed:
   (fa) regulating the issue of standing orders that authorise the supply and administration of controlled drugs, imposing conditions, limitations, requirements, or restrictions in relation to the contents of standing orders of that kind and their use, and providing for any other matters that are necessary or desirable for the administration of standing orders of that kind:
-  (g) regulating the issue by medical practitioners, dentists, midwives, designated prescribers, and veterinarians of prescriptions for the supply of any controlled drug, and requiring persons issuing or dispensing prescriptions in respect of any such drug to furnish such information relating to those prescriptions as may be prescribed:
+  (g) regulating the issue by medical practitioners, dentists, midwives, nurse practitioners, optometrists, designated prescribers, and veterinarians of prescriptions for the supply of any controlled drug, and requiring persons issuing or dispensing prescriptions in respect of any such drug to furnish such information relating to those prescriptions as may be prescribed:
   (ga) prescribing the circumstances in which, and the conditions under which, any person or class of persons may possess needles or syringes notwithstanding that those needles or syringes may be intended to be used for the purpose of the commission of offences against this Act:
   (gb) regulating the sale, exchange, or supply of needles or syringes—notwithstanding that those needles or syringes may be intended by the persons to whom they are sold or supplied, or with whom they are exchanged, to be used for the commission of offences against this Act:
     (i) by medical practitioners or pharmacists generally, or by those approved for the purpose by the Director-General of Health; or
@@ -1164,7 +1179,7 @@ This Act may be cited as the Misuse of Drugs Amendment Act 1978, and shall be re
     (a) dealing (in any of the ways referred to in section 6(1) of the principal Act) with a substantial amount of a controlled drug in respect of which a prescribed cannabis offence may be committed:
     (b) cultivation of a prohibited plant (being a prohibited plant in respect of which a prescribed cannabis offence may be committed) on a substantial scale
   - **drug dealing offence** means,—in relation to a Class A controlled drug or a Class B controlled drug
-    (a) in sections 30, 34, 38 to 41, 43, 46, and 47, any offence against section 12C(1)(a) of the principal Act:
+    (a) in sections 30, 34, 38 to 41, 43, and 47, any offence against section 12C(1)(a) of the principal Act:
     (b) any offence against section 6 of the principal Act—
   - **emergency permit** means a permit granted under section 19 to intercept a private communication by means of an interception device
   - **facility** means an electronic address, phone number, or similar facility that enables private communications to—
