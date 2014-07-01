@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-07-01_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -28,7 +28,12 @@ _Consolidation as at 2013-08-05_
     (d) capturing or immobilising any animal;—
   - **appropriate committee** means a committee appointed under section 8(1)
   - **approved laboratory** means a laboratory approved by the Minister by notice in the Gazette for the purposes of this Act
-  - **authorised prescriber** means a practitioner, registered midwife, or designated prescriber
+  - **authorised prescriber** means—
+    (a) a nurse practitioner; or
+    (b) an optometrist; or
+    (c) a practitioner; or
+    (d) a registered midwife; or
+    (e) a designated prescriber
   - **bulk cargo container** means an article of transport equipment, being a lift van, movable tank, or other similar structure,—and includes the normal accessories and equipment of the container, when imported with the container and used exclusively with it; but does not include any vehicle, or any ordinary packing case, crate, box, or other similar article used for packing
     (a) of a permanent character and accordingly strong enough to be suitable for repeated use; and
     (b) specially designed to facilitate the carriage of goods by 1 or more modes of transport, without immediate repacking; and
@@ -48,10 +53,13 @@ _Consolidation as at 2013-08-05_
     (d) any dusting powder
   - **Customs** or has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
   - **decision** includes requirement
+  - **delegated prescriber** means a health practitioner to whom a delegated prescribing order has been issued
+  - **delegated prescribing order** means a written instruction, issued in accordance with regulations by an authorised prescriber, authorising a health practitioner to prescribe prescription medicines
+  - **delegated prescribing rights** means prescribing rights granted by regulations made under section 105(1)(qaa)
   - **dentifrice** means any substance or mixture of substances used or represented for use for the purpose of cleansing the mouths or teeth (natural or artificial) of human beings; and includes any denture fixative
   - **dentist** means a health practitioner who is, or is deemed to be, registered with the Dental Council of New Zealand established by the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of dentistry
-  - **designated prescriber** means a person, other than a practitioner or a registered midwife, who—
-    (a) belongs to a class of registered health professionals authorised by regulations made under this Act to prescribe any specified class or description of prescription medicines subject to the satisfaction of requirements specified in or imposed under those regulations; and
+  - **designated prescriber** means a person, other than a practitioner, nurse practitioner, optometrist, or a registered midwife, who—
+    (a) belongs to a class of registered health professionals authorised by regulations made under this Act to prescribe any specified prescription medicines, or any specified class or description of prescription medicines subject to the satisfaction of requirements specified in or imposed under those regulations; and
     (b) satisfies any applicable requirement relating to competency, qualifications, or training specified in or imposed under regulations made under this Act
   - **Director-General** means the Director-General of Health; and, except in section 98, includes any other officer of the Ministry of Health exercising, with the authority of the Director-General, any functions conferred on the Director-General by this Act
   - **disease** includes any injury, ailment, deformity, disorder, or adverse condition, whether of body or mind
@@ -80,19 +88,24 @@ _Consolidation as at 2013-08-05_
   - **manufacture** , in relation to a medicine, includes any process carried out in the course of making the medicine; but does not include—
     (a) dissolving or dispersing the medicine in, or diluting or mixing it with, some other substance used as a medium for the purpose of administering the medicine to a particular person:
     (b) incorporating the medicine in any animal food
-  - **medical device** means any device, instrument, apparatus, or contrivance, including component parts and accessories thereof, that is manufactured, imported, sold, or supplied for use wholly or principally on or by 1 or more human beings for a therapeutic purpose; and includes bandages and other surgical dressings, except medicated dressings where the medication has a curative function that is not limited to sterilising the dressing; but does not include—
-    (a) any ultrasonic therapy apparatus within the meaning of section 2 of the Physiotherapy Amendment Act 1953:
-    (b) except in section 38, any irradiating apparatus within the meaning of section 2(1) of the Radiation Protection Act 1965:
-    (c) any article of a kind or belonging to a class that is declared by regulations made under this Act to be a kind or class of article that is not a medical device for the purposes of this Act
+  - **medical device** has the meaning given to it by section 3A
   - **Medical Officer of Health** means the Medical Officer of Health appointed under the Health Act 1956 for a health district; and includes any Deputy Medical Officer of Health; and also includes the Director-General of Health and other officers upon whom the functions of a Medical Officer of Health are conferred by section 22 of that Act
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **medicine** , , , , and have the meanings assigned to those terms by section 3
   - **Medicines Review Committee** means the committee established under section 10
   - **Minister** means the Minister of Health
   - **new organism** has the same meaning as in section 2A of the Hazardous Substances and New Organisms Act 1996
+  - **nurse practitioner** means a health practitioner—
+    (a) who is, or is deemed to be, registered with the Nursing Council as a practitioner of the profession of nursing; and
+    (b) for whom the Nursing Council has authorised a scope of practice that includes prescribing medicines
+  - **Nursing Council** means the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003
   - **officer** means—
     (a) any officer of the Ministry of Health:
     (b) any person appointed under section 15 to be an officer
+  - **optometrist** means a person—
+    (a) who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board as a practitioner of optometry; and
+    (b) for whom the Optometrists and Dispensing Opticians Board has authorised a scope of practice that includes prescribing medicines
+  - **Optometrists and Dispensing Opticians Board** means the Optometrists and Dispensing Opticians Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003
   - **pack** means to enclose in a container for the purpose of sale or supply
   - **package** , in relation to any medicine or medical device, means any box, packet, or other receptacle in which 1 or more containers of the medicine or device, are or are to be enclosed; and, where any such box, packet, or other receptacle is or is to be itself enclosed in 1 or more other boxes, packets, or other receptacles, includes every such box, packet, or other receptacle
   - **pharmacist** means a health practitioner who is, or is deemed to be, registered with the Pharmacy Council established by the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of pharmacy
@@ -109,7 +122,9 @@ _Consolidation as at 2013-08-05_
   - **qualifying organism** means a new organism that is or is contained in a qualifying new medicine
   - **registered health professional** means a health practitioner who is, or is deemed to be, registered with an authority established or continued by the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession
   - **registered midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
+  - **regulations** means regulations made under this Act
   - **related product** and have the meanings assigned to those terms by section 94
+  - **responsible authority** has the meaning given to it in section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **responsible person** , in relation to a licensee corporation, means an agent or employee of that corporation who is a pharmacist or a person approved by the licensing authority as a responsible person for the purposes of the licence
   - **sell** includes—and has a corresponding meaning
     (a) barter; and
@@ -117,9 +132,9 @@ _Consolidation as at 2013-08-05_
     (c) supplying by way of gift or sample for the purpose of promoting a sale;—
   - **selling by wholesale** , , and have the meanings assigned to those terms by section 5
   - **standing order** means—
-    (a) a written instruction issued by a practitioner or registered midwife, in accordance with any applicable regulations, authorising any specified class of persons engaged in the delivery of health services to supply and administer any specified class or description of prescription medicines or controlled drugs to any specified class of persons, in circumstances specified in the instruction, without a prescription:
+    (a) a written instruction issued by a practitioner, registered midwife, nurse practitioner, or optometrist, in accordance with any applicable regulations, authorising any specified class of persons engaged in the delivery of health services to supply and administer any specified class or description of prescription medicines or controlled drugs to any specified class of persons, in circumstances specified in the instruction, without a prescription:
     (b) a written instruction issued by a veterinarian, in accordance with any applicable regulations, authorising any specified class of persons to supply and administer any specified class or description of prescription medicines or controlled drugs to any specified class of animals, in circumstances specified in the instruction, without a prescription:
-    (c) a written instruction issued by a practitioner, or midwife, in accordance with any applicable regulations, authorising any specified class of persons engaged in the delivery of health services to supply and administer any specified class or description of pharmacy-only medicines or restricted medicines to any specified class of persons, in circumstances specified in the instruction:
+    (c) a written instruction issued by a practitioner, registered midwife, nurse practitioner, or optometrist, in accordance with any applicable regulations, authorising any specified class of persons engaged in the delivery of health services to supply and administer any specified class or description of pharmacy-only medicines or restricted medicines to any specified class of persons, in circumstances specified in the instruction:
     (d) a written instruction issued by a veterinarian in accordance with any applicable regulations, authorising any specified class of persons to supply and administer any specified class or description of pharmacy-only medicines or restricted medicines to any specified class of animals, in circumstances specified in the instruction
   - **substance** means any natural or artificial substance, whether in solid or liquid form or in the form of a gas or vapour
   - **therapeutic purpose** has the meaning assigned to that term by section 4
@@ -131,20 +146,21 @@ _Consolidation as at 2013-08-05_
   (b) a regulation for the purposes of the Interpretation Act 1999.
 
 ### 3 Meaning of medicine, new medicine, prescription medicine, and restricted medicine
-(1) Subject to subsection (2), in this Act, unless the context otherwise requires, the term medicine means any substance or article, other than a medical device, that is manufactured, imported, sold, or supplied wholly or principally—
-  (a) for administering to 1 or more human beings for a therapeutic purpose; or
-  (b) for use as an ingredient in the preparation of any substance or article that is to be administered to 1 or more human beings for a therapeutic purpose, where it is so used—
-    (i) in a pharmacy or a hospital; or
-    (ii) by a practitioner, or registered midwife, or designated prescriber, or in accordance with a standing order; or
-    (iii) in the course of any business that consists of or includes the retail sale, or the supply in circumstances corresponding to retail sale, of herbal remedies; or
-  (c) for use as a pregnancy test.
-(2) In this Act, unless the context otherwise requires, the term medicine does not include—
-  (a) substances used in dental surgery for filling dental cavities; or
-  (b) bandages and other surgical dressings, except medicated dressings where the medication has a curative function that is not limited to sterilising the dressing; or
-  (c) any radioactive material within the meaning of section 2(1) of the Radiation Protection Act 1965; or
-  (d) any animal food in which a medicine is incorporated; or
-  (e) any animal remedy; or
-  (f) any other substance or article of a kind or belonging to a class that is declared by regulations made under this Act to be a kind or class of substance or article that is not a medicine for the purposes of this Act.
+(1) In this Act, unless the context otherwise requires, medicine—
+  (a) means any substance or article that—
+    (i) is manufactured, imported, sold, or supplied wholly or principally for administering to 1 or more human beings for a therapeutic purpose; and
+    (ii) achieves, or is likely to achieve, its principal intended action in or on the human body by pharmacological, immunological, or metabolic means; and
+  (b) includes any substance or article—
+    (i) that is manufactured, imported, sold, or supplied wholly or principally for use as a therapeutically active ingredient in the preparation of any substance or article that falls within paragraph (a); or
+    (ii) of a kind or belonging to a class that is declared by regulations to be a medicine for the purposes of this Act; but
+  (c) does not include—
+    (i) a medical device; or
+    (ii) any food within the meaning of section 2 of the Food Act 1981; or
+    (iii) any radioactive material within the meaning of section 2(1) of the Radiation Protection Act 1965; or
+    (iv) any animal food in which a medicine (within the meaning of paragraph (a) or (b)) is incorporated; or
+    (v) any animal remedy; or
+    (vi) any substance or article of a kind or belonging to a class that is declared by regulations not to be a medicine for the purposes of this Act.
+(2)
 (3) In this Act, unless the context otherwise requires,—
   - **new medicine** means—
     (a) any medicine that has not been generally available in New Zealand—
@@ -161,13 +177,13 @@ _Consolidation as at 2013-08-05_
       (i) in a pharmacy or hospital; or
       (ii) in any shop described in section 51(2) and in accordance with a licence issued under Part 3; or
       (iii) in accordance with a standing order
-  - **prescription medicine** means a medicine that is declared by regulations made under this Act or by a notice given under section 106 to be one that, except as may be permitted by regulations made under this Act, may be—
-    (a) sold by retail only under a prescription given by a practitioner, registered midwife, veterinarian, or a designated prescriber; and
+  - **prescription medicine** means a medicine that is declared by regulations or by a notice given under section 106 to be one that, except as may be permitted by regulations, may be—
+    (a) sold by retail only under a prescription given by an authorised prescriber, veterinarian, or delegated prescriber; and
     (b) supplied in circumstances corresponding to retail sale only—
-      (i) under a prescription given by a practitioner, registered midwife, veterinarian, or a designated prescriber; or
+      (i) under a prescription given by an authorised prescriber, veterinarian, or delegated prescriber; or
       (ii) in accordance with a standing order; and
     (c) administered only in accordance with—
-      (i) a prescription given by a practitioner, registered midwife, veterinarian, or a designated prescriber; or
+      (i) a prescription given by an authorised prescriber, veterinarian, or delegated prescriber; or
       (ii) a standing order
   - **restricted medicine** means a medicine that is declared by regulations made under this Act or by a notice given under section 106 to be one that, except as may be permitted by the regulations, may be—
     (a) sold by retail only by a pharmacist in a pharmacy or hospital; or
@@ -175,15 +191,27 @@ _Consolidation as at 2013-08-05_
       (i) by a pharmacist in a pharmacy or hospital; or
       (ii) in accordance with a standing order.
 
+### 3A Meaning of medical device
+In this Act, unless the context otherwise requires, medical device—
+  (a) means any device, instrument, apparatus, appliance, or other article that—
+    (i) is intended to be used in, on, or for human beings for a therapeutic purpose; and
+    (ii) does not achieve its principal intended action in or on the human body by pharmacological, immunological, or metabolic means (but may be assisted in its function by such means); and
+  (b) includes a material that—
+    (i) is intended to be used in or on human beings for a therapeutic purpose; and
+    (ii) does not achieve its principal intended action in or on the human body by pharmacological, immunological, or metabolic means (but may be assisted in its function by such means); and
+  (c) also includes—
+    (i) anything that is intended to be used with a device, instrument, apparatus, appliance, article, or material referred to in paragraph (a) or (b) to enable the device, instrument, apparatus, appliance, article, or material to be used as its manufacturer intends; and
+    (ii) any device, instrument, apparatus, appliance, article, or material of a kind or belonging to a class that is declared by regulations to be a medical device for the purposes of this Act; but
+  (d) does not include a device, instrument, apparatus, appliance, article, or material of a kind or belonging to a class that is declared by regulations not to be a medical device for the purposes of this Act.
+
 ### 4 Meaning of therapeutic purpose
-In this Act, unless the context otherwise requires, the term therapeutic purpose means—
-  (a) treating or preventing disease; or
-  (b) diagnosing disease or ascertaining the existence, degree, or extent of a physiological condition; or
-  (c) effecting contraception; or
-  (d) inducing anaesthesia; or
-  (e) altering the shape, structure, size, or weight of the human body; or
-  (f) otherwise preventing or interfering with the normal operation of a physiological function, whether permanently or temporarily, and whether by way of terminating or reducing or postponing, or increasing or accelerating, the operation of that function, or in any other way; or
-  (g) cleaning, soaking, or lubricating contact lenses.
+In this Act, unless the context otherwise requires, therapeutic purpose means any of the following purposes, or a purpose in connection with any of the following purposes:
+  (a) preventing, diagnosing, monitoring, alleviating, treating, curing, or compensating for, a disease, ailment, defect, or injury; or
+  (b) influencing, inhibiting, or modifying a physiological process; or
+  (c) testing the susceptibility of persons to a disease or ailment; or
+  (d) influencing, controlling, or preventing conception; or
+  (e) testing for pregnancy; or
+  (f) investigating, replacing, or modifying parts of the human anatomy.
 
 ### 5 Meaning of selling by wholesale, selling by retail, and selling in circumstances corresponding to retail sale
 (1) In this Act, unless the context otherwise requires, every reference to selling anything by wholesale is a reference to selling it to a person whom the vendor believes to be buying it—
@@ -321,9 +349,9 @@ The Minister shall provide every committee appointed under section 8, and the Me
   (c) any pharmacy-only medicine unless the medicine is sold, supplied, or distributed by—
     (i) a person under the supervision of a pharmacist in a pharmacy or a hospital; or
     (ii) a person who sells, supplies, or distributes the medicine in any shop described in section 51(2) and in accordance with a licence issued under Part 3.
-(2) No person may sell by retail any prescription medicine otherwise than under a prescription given by a practitioner, registered midwife, veterinarian, or designated prescriber.
+(2) No person may sell by retail any prescription medicine otherwise than under a prescription given by an authorised prescriber, a veterinarian, or a delegated prescriber.
 (2A) No person may supply, in circumstances corresponding to retail sale, any prescription medicine otherwise than—
-  (a) under a prescription given by a practitioner, registered midwife, veterinarian, or designated prescriber; or
+  (a) under a prescription given by an authorised prescriber, a veterinarian, or a delegated prescriber; or
   (b) in accordance with a standing order.
 (2B) Despite subsections (2) and (2A), a person may sell by retail, or supply, in circumstances corresponding to retail sale, any prescription medicine, where permitted by section 25 or section 30 or section 31 or section 69 or by regulations made under this Act.
 (3) Except as may be permitted by regulations made under this Act, no person shall hawk any prescription medicine or restricted medicine or pharmacy-only medicine—otherwise than pursuant to any authority to do so expressly conferred by a licence held by him under Part 3, and in accordance with any conditions or restrictions specified in the licence.
@@ -335,7 +363,7 @@ The Minister shall provide every committee appointed under section 8, and the Me
 
 ### 19 Administering prescription medicines
 (1) A prescription medicine may be administered to any person only in accordance with—
-  (a) the directions of the authorised prescriber who prescribed the medicine; or
+  (a) the directions of the authorised prescriber or delegated prescriber who prescribed the medicine; or
   (b) a standing order.
 (2) Despite subsection (1), a prescription medicine may be administered where permitted by section 25 or by regulations made under this Act.
 (3) Every person commits an offence against this Act who contravenes subsection (1).
@@ -577,12 +605,10 @@ On the expiry of an approval of an application under section 24D, the medicine t
 ### 27 Exemptions for veterinarians and certain registered health practitioners
 Notwithstanding anything in section 17 or section 18, but subject to the other provisions of this Act and to any regulations made under this Act,—
   (a) any veterinarian may manufacture, sell, supply, or administer a medicine for the treatment of an animal under the care of that veterinarian or under the care of another veterinarian, and may pack or label the medicine for the purposes of any such sale or supply:
-  (b) any person registered with the Optometrists and Dispensing Opticians Board continued under section 114(1) of the Health Practitioners Competence Assurance Act 2003, and having the appropriate scope of practice as defined by the Board under that Act, may:
-    (i) sell or supply a medicine for use in cleaning, soaking, or lubricating contact lenses if the medicine is suitable for that purpose; and
-    (ii) pack or label the medicine for the purposes of any sale or supply:
+  (b)
   (c) any person may sell or supply—
-    (i) to a veterinarian, or, if so required by that veterinarian, to any other person, any medicine for administration to an animal under the care of that veterinarian:
-    (ii) to any person referred to in paragraph (b), any medicine referred to in subparagraph (i) and (ii) of that paragraph.
+    (i) to a veterinarian, or, if so required by that veterinarian, to any other person, any medicine for administration to an animal under the care of that veterinarian.
+    (ii)
 
 ### 28 Exemptions in respect of herbal remedies
 (1) Notwithstanding section 17, but subject to the other provisions of this Act and to any regulations made under this Act, any person may, in the course of a business carried on by that person, manufacture, pack, and label, or sell or supply, any herbal remedy for administration to a particular person after being requested by or on behalf of that person to use his own judgment as to the treatment required.
@@ -752,10 +778,10 @@ No person may operate any pharmacy that is not for the time being under the imme
 (3) Subsections (1) and (2) do not prevent a pharmacist engaged at the pharmacy or another person authorised by a pharmacist engaged at the pharmacy, from supplying any medicine to a member of the public.
 (4) The requirements imposed by subsections (1) and (2) are in addition to the requirements imposed by section 47 or any regulations made under this Act.
 
-### 42C Restriction on authorised prescribers holding interest in pharmacies
-(1) No authorised prescriber may hold an interest in a pharmacy other than a pharmacy for which the person holds a licence to operate, except with the consent of the licensing authority and in accordance with any conditions or restrictions imposed by that authority.
-(2) No person who has an interest in a pharmacy may permit or enable any authorised prescriber to hold or acquire that or any other interest in the pharmacy contrary to subsection (1).
-(3) The licensing authority may not give its consent under subsection (1) unless it is satisfied that there are sufficient safeguards to prevent the issue of prescriptions, the manner in which prescriptions are issued, or the other provision of health care by the authorised prescriber from being influenced by the commercial or financial interests of the authorised prescriber or any other person holding an interest in the pharmacy.
+### 42C Restriction on authorised prescribers and delegated prescribers holding interest in pharmacies
+(1) No authorised prescriber or delegated prescriber may hold an interest in a pharmacy other than a pharmacy for which the person holds a licence to operate, except with the consent of the licensing authority and in accordance with any conditions or restrictions imposed by that authority.
+(2) No person who has an interest in a pharmacy may permit or enable any authorised prescriber or delegated prescriber to hold or acquire that or any other interest in the pharmacy contrary to subsection (1).
+(3) The licensing authority may not give its consent under subsection (1) unless it is satisfied that there are sufficient safeguards to prevent the issue of prescriptions, the manner in which prescriptions are issued, or the other provision of health care by the authorised prescriber or delegated prescriber from being influenced by the commercial or financial interests of the authorised prescriber, or delegated prescriber, or any other person holding an interest in the pharmacy.
 
 **Miscellaneous provisions**
 
@@ -769,7 +795,7 @@ No person may operate any pharmacy that is not for the time being under the imme
     (i) is that of a carrier, or an employee of a carrier; and
     (ii) is necessary or incidental to the business of that carrier; or
   (c) the possession or act that might otherwise be a contravention of that subsection—
-    (i) is that of a person to whom the medicine has been lawfully supplied for his or her use, or for use by any other person, as a patient under the care of an authorised prescriber or in accordance with a standing order, and who does not have in his or her possession any other supplies of a prescription medicine prescribed or supplied for the same purpose by another authorised prescriber or in accordance with a standing order; and
+    (i) is that of a person to whom the medicine has been lawfully supplied for his or her use, or for use by any other person, as a patient under the care of an authorised prescriber or a delegated prescriber or in accordance with a standing order, and who does not have in his or her possession any other supplies of a prescription medicine prescribed or supplied for the same purpose by another authorised prescriber or delegated prescriber or in accordance with a standing order; and
     (ii) is necessary or incidental to such use; or
   (d) the possession or act that might otherwise be a contravention of that subsection—
     (i) is that of a person who has possession of the medicine only for the purpose of administering it to the person for whom it has been prescribed; and
@@ -780,7 +806,7 @@ No person may operate any pharmacy that is not for the time being under the imme
 (3) In any proceedings under this section against any person in which it is proved that that person procured, received, stored, used, or otherwise had in his possession any prescription medicine, the onus of proving that he had a reasonable excuse (whether by reason of the fact that 1 or more of the provisions of paragraphs (a) to (e) of subsection (2) apply to his case or otherwise) shall lie on the defendant.
 (4) In any proceedings under this section, the fact that the defendant did not know that the medicine that is the subject of the prosecution was a prescription medicine is not by itself a reasonable excuse.
 (5) Every person commits an offence against this Act who contravenes subsection (1).
-(6) In this section, authorised prescriber means a practitioner, registered midwife, or designated prescriber.
+(6)
 
 ### 44 Containers and packages of medicines
 (1) Except as may be permitted by regulations made under this Act, no person shall, in the course of any business, pack, store, sell, supply, or cause to be transported any medicine, unless—
@@ -817,9 +843,14 @@ No person may operate any pharmacy that is not for the time being under the imme
 (4) No person shall deliver on retail sale, or in circumstances corresponding to retail sale, any medicine otherwise than through the post or by handing it or causing it to be handed to the person, or another person reasonably believed to be acting on that person's behalf, to whom it is addressed or for whose use it is intended.
 (5) Every person commits an offence against this Act who, without reasonable excuse, contravenes any of the provisions of this section.
 
+### 47A Effect of grant of delegated prescribing rights
+If regulations made under sections 105(1)(qaa) and 105D grant delegated prescribing rights to a class of registered health professional,—
+  (a) an authorised prescriber who is not a designated prescriber may, in accordance with the regulations, issue a delegated prescribing order to a specified person belonging to that class of registered health professional; and
+  (b) the person to whom the delegated prescribing order is issued (the delegated prescriber) may prescribe specified prescription medicines, or a specified class or description of prescription medicines, in accordance with the terms of his or her delegated prescribing order.
+
 ### 48 Powers of Minister to prohibit prescribing, etc
 (1) The Minister may at any time, by notice in the Gazette,—
-  (a) prohibit any specified practitioner, veterinarian, registered midwife, or designated prescriber from prescribing prescription medicines or any particular class or description of prescription medicines:
+  (a) prohibit any specified authorised prescriber, veterinarian, or delegated prescriber from prescribing prescription medicines or any particular class or description of prescription medicines:
   (b) prohibit, either generally or in relation to any particular class or description of medicines, any specified person from exercising all or any of the rights conferred by this Act, whether those rights are so conferred on persons generally or on a particular class to which that person belongs.
 (2) The Minister may not exercise any power conferred on him or her by subsection (1),—
   (a) in the case of a medical practitioner, except on the recommendation of the Medical Council of New Zealand; or
@@ -827,7 +858,8 @@ No person may operate any pharmacy that is not for the time being under the imme
   (c) in the case of a pharmacist, except on the recommendation of the Pharmacy Council; or
   (d) in the case of a registered midwife or a nurse, except on the recommendation of the Midwifery Council or the Nursing Council of New Zealand; or
   (e) in the case of a veterinarian, except on the recommendation of the Veterinary Council of New Zealand; or
-  (f) in the case of any designated prescriber to whom paragraphs (c) and (d) do not apply, except on the recommendation of the authority under the Health Practitioners Competence Assurance Act 2003, specified in regulations made under this Act, which has jurisdiction in respect of the class of registered health professional to which the designated prescriber belongs.
+  (ea) in the case of an optometrist, except on the recommendation of the Optometrists and Dispensing Opticians Board; or
+  (f) in the case of any other designated prescriber or delegated prescriber, except on the recommendation of the responsible authority for the health profession to which the designated prescriber or delegated prescriber belongs.
 (3) The Minister may at any time, by notice in the Gazette, revoke any notice given under subsection (1).
 
 ### 48A Powers of councils and boards
@@ -838,7 +870,7 @@ No person may operate any pharmacy that is not for the time being under the imme
 
 ### 49 Restrictions on supply to particular persons
 (1) In this section the term restricted person means a person who is the subject of a notice given under subsection (2) and for the time being in force.
-(2) Where a Medical Officer of Health is satisfied that any person—he may from time to time, by notice in such form as he thinks fit, prohibit, subject to such conditions and exceptions as he may prescribe in the notice, any practitioner, registered midwife, or designated prescriber from issuing prescriptions for the supply of, and any person from supplying, that or any similar prescription medicine or that or any similar restricted medicine, to the restricted person.
+(2) Where a Medical Officer of Health is satisfied that any person—he may from time to time, by notice in such form as he thinks fit, prohibit, subject to such conditions and exceptions as he may prescribe in the notice, any authorised prescriber or delegated prescriber from issuing prescriptions for the supply of, and any person from supplying, that or any similar prescription medicine or that or any similar restricted medicine, to the restricted person.
   (a) is addicted or habituated to the use of any prescription medicine or restricted medicine or has been obtaining any prescription medicine or restricted medicine from several different sources; and
   (b) is likely to seek further supplies of that prescription medicine or restricted medicine, or prescriptions for the supply of that prescription medicine or restricted medicine,—
 (3) The Medical Officer of Health may at any time, by a like notice, revoke, or vary, or modify any prohibition, condition, or exception contained in a notice given by him under this section.
@@ -857,10 +889,10 @@ No person may operate any pharmacy that is not for the time being under the imme
   (c) people providing, or employed in providing, hospital care (within the meaning of the Health and Disability Services (Safety) Act 2001):
   (d) managers of prisons within the meaning of the Corrections Act 2004:
   (e) managers and superintendents of institutions within the meaning of the Alcoholism and Drug Addiction Act 1966:
-  (f) medical practitioners:
-  (g) dentists:
-  (ga) registered midwives:
-  (gb) designated prescribers:
+  (f) authorised prescribers:
+  (g) delegated prescribers:
+  (ga)
+  (gb)
   (h) Police employees:
   (i) persons who deal in prescription medicines or restricted medicines in the course of business.
 (4) Nothing in subsection (1) or subsection (2) shall limit or affect any right or duty that a Medical Officer of Health may otherwise possess to publish a statement to any person.
@@ -883,18 +915,30 @@ No person may operate any pharmacy that is not for the time being under the imme
   (d) that, in the case of an application made by a natural person on his own behalf, the applicant, or, in the case of an application made on behalf of a body corporate, every person proposed to be a responsible person for the purposes of the licence applied for, has a sufficient knowledge of the obligations of a licensee and of the hazards associated with the medicines in which it is proposed to deal:
   (e) that the premises and equipment that the applicant proposes to use are suitable and adequate for the purposes for which the licence is sought:
   (f) that adequate arrangements have been made or are to be made for the making, maintaining, and safekeeping of adequate records in respect of medicines that are manufactured, stored, packed, labelled, or sold in pursuance of the licence or, in the case of an application for a licence to operate a pharmacy, in respect of medicines that are manufactured, stored, packed, labelled, or sold on the premises or in any other place for which the licence to operate is sought.
+(1A) In determining, under subsection (1)(b), whether an applicant is a fit and proper person or of good repute (as the case requires), the licensing authority may take into account, among other things,—
+  (a) any conviction of the applicant for—
+    (i) an offence under this Act, or regulations made under it; or
+    (ii) an offence under the Misuse of Drugs Act 1975, or regulations made under it; or
+    (iii) a crime involving dishonesty (within the meaning of section 2(1) of the Crimes Act 1961); and
+  (b) any determination of a professional conduct committee.
 (2) Except as may be permitted by regulations made under this Act, the licensing authority shall not issue a licence to sell medicines by retail in respect of any premises other than a shop that is open to the public and is situated at least 10 kilometres by the most practicable route from a pharmacy in respect of which a licence to operate has been, or is deemed to have been, issued.
 (3) The licensing authority shall not decline an application for a licence under this section without first giving the applicant a reasonable opportunity to be heard.
-(4) A licence shall be in the prescribed form and shall be subject to such conditions (if any) as may be imposed on the issue of the licence or at any time thereafter, by or pursuant to regulations made under this Act.
+(4) A licence—
+  (a) must be in the prescribed form; and
+  (b) is subject to—
+    (i) any conditions that the licensing authority thinks fit; and
+    (ii) any conditions specified in regulations.
+(4A) The licensing authority may, by written notice to the holder of a licence, revoke or amend any condition imposed under subsection (4)(b)(i) or add any new condition.
 (5) A licence to sell a medicine may be combined with a licence to pack that medicine.
-(6) If in any case the licensing authority is satisfied that the holder of a licence has failed or is failing to comply with any conditions attaching to the licence, he may—
-  (a) suspend the licence for such reasonable period as may be required to enable the licensing authority to consider the case; or
-  (b) after giving the licensee a reasonable opportunity to be heard and considering any evidence adduced or submission made by the licensee, cancel the licence.
-(6A) If the licensing authority is satisfied that the holder of a licence to operate a pharmacy has failed to comply with any conditions affecting the licence, the licensing authority may, instead of or as well as exercising the powers conferred by subsection (6),—
+(6) If in any case the licensing authority is satisfied that the holder of a licence has failed or is failing to comply with any conditions attached to the licence, the licensing authority may cancel the licence.
+(6AA) The licensing authority may not cancel a licence under subsection (6) unless the holder has been given a reasonable opportunity to be heard, or to make written submissions, in relation to the matter.
+(6AAB) The licensing authority may suspend a licence for a reasonable period to enable the licensing authority to consider whether to cancel the licence under subsection (6).
+(6A) If the licensing authority is satisfied that the holder of a licence to operate a pharmacy has failed to comply with any conditions affecting the licence, the licensing authority may, instead of or as well as exercising the powers conferred by subsection (4A) or (6),—
   (a) impose on the holder of the licence a penalty not exceeding $40,000:
   (b) forbid the licence holder or any person with an interest in the pharmacy from holding any interest in or operating a pharmacy for a period, not exceeding 5 years, specified by the licensing authority.
 (6B) A penalty imposed under subsection (6A) may be recovered in a court of competent jurisdiction as a debt due to the licensing authority.
 (7) If the licensing authority refuses to issue a licence, or attaches conditions to a licence, or cancels a licence under this section or under section 55A, and the applicant for the licence or the licensee requests him to give his reasons for such refusal, or for the attachment of such conditions, or for the cancellation of the licence, the licensing authority shall state his reasons in writing to that person accordingly.
+(8) In this section, professional conduct committee means a committee appointed under section 71 of the Health Practitioners Competence Assurance Act 2003.
 
 ### 52 Effect of licences
 (1) Subject to sections 20, 24, and 25 to 34,—
@@ -904,7 +948,9 @@ No person may operate any pharmacy that is not for the time being under the imme
   (d) a licence to sell medicines by retail shall authorise the sale by retail, and the supply in circumstances corresponding to retail sale, of the medicines described in the licence:
   (e) a licence to operate a pharmacy authorises the establishment of the pharmacy and the carrying on of pharmacy practice in the pharmacy.
 (2) A licence to sell medicines by retail shall not authorise the sale by retail, or the supply in circumstances corresponding to retail sale, of any prescription medicine or any restricted medicine.
-(3) A licence shall be subject to any conditions prescribed in respect of licences of that kind by regulations made under this Act, and such other conditions as may be imposed on the licence (including, without limitation, any conditions that restrict or prohibit the licence holder from undertaking any specified activity or using any specified process).
+(3) A licence is subject to—
+  (a) any conditions imposed by the licensing authority under section 51(4)(b)(i) or (4A); and
+  (b) any conditions specified in regulations.
 (4) Except as may be permitted by the terms of the licence, or by any regulations made under this Act, a licence shall not authorise the manufacture, packing and labelling, or sale of a medicine elsewhere than in the premises specified or described in the licence.
 
 ### 53 Duration of licences
@@ -1204,8 +1250,8 @@ No prosecutor or witness in any prosecution under this Act shall be compelled to
   (c) utters, produces, or makes use of any document that he knows is not genuine.
 (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $1,000.
 
-### 76A Offences in relation to authorised prescribers
-Every pharmacist, person licensed to operate a pharmacy, or operator or manager of a pharmacy commits an offence against this Act who gives, offers, or agrees to give to any authorised prescriber or to any other person any money or other consideration as a commission on prescriptions.
+### 76A Offences in relation to authorised prescribers and delegated prescribers
+Every pharmacist, person licensed to operate a pharmacy, or operator or manager of a pharmacy commits an offence against this Act who gives, offers, or agrees to give to any authorised prescriber or to any delegated prescriber or to any other person any money or other consideration as a commission on prescriptions.
 
 ### 77 Jurisdiction of District Courts
 (1)
@@ -1290,7 +1336,9 @@ Every person who commits any offence against this Act for which no penalty is pr
 (5) Where any person referred to in subsection (1) is convicted of an offence against any of sections 57, 58, and 61, the Director-General may cause particulars of the offence and a description of the substances or articles in relation to which the offence was committed to be published in the Gazette.
 
 ### 87 Notification of conviction of practitioners, etc
-Where any person who is a practitioner, veterinarian, pharmacist, nurse, or designated prescriber is convicted of any offence against this Act or against any regulations made under this Act, the court shall cause particulars of the conviction to be sent to the person charged with the duty of keeping the register on which the name of the convicted person appears as a registered practitioner, veterinarian, pharmacist, nurse, or designated prescriber, as the case may be.
+If a person who is a veterinarian, practitioner, pharmacist, nurse, optometrist, designated prescriber, or delegated prescriber is convicted of an offence against this Act or regulations made under it, the court must send particulars of the conviction to—
+  (a) the Registrar of the Veterinary Council of New Zealand, if the person is a veterinarian; or
+  (b) the responsible authority for the health profession to which the person belongs, in any other case.
 
 ## Part 6 — Appeals
 
@@ -1350,6 +1398,7 @@ The Judge of the High Court may, on the application of any party to an appeal un
 ### 94 Interpretation
 (1) In this Part, unless the context otherwise requires, the term related product means any cosmetic or dentifrice or food in respect of which a claim is made that the substance or article is effective for a therapeutic purpose; but does not include—
   (a) any medicine:
+  (aa) any medical device:
   (b) any substance or article of a kind or belonging to a class that is declared by regulations made under this Act to be a kind or class of substance or article that is not a related product for the purposes of this Act.
 (2) In this Part, unless the context otherwise requires, the term new related product means a related product that—
   (a) is not identical with any related product that could have been sold lawfully immediately before the commencement of this Part for the same therapeutic purpose as that claimed in respect of the new product; or
@@ -1490,7 +1539,12 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
 
 ### 105 Regulations
 (1) The Governor-General may from time to time, by Order in Council made on the advice of the Minister tendered after consultation with such organisations or bodies as appear to the Minister to be representative of persons likely to be substantially affected by the regulations, make regulations for all or any of the following purposes:
-  (a) prescribing forms, fees, registers, particulars, notifications, and records for the purposes of this Act, the method of keeping such registers and records, and the manner of making applications under this Act; and prescribing the persons or classes of persons by or to whom any such records shall be kept or notifications given:
+  (a) prescribing forms, fees, registers, particulars, notifications, and records for the purposes of this Act, the method of keeping such registers and records; and prescribing the persons or classes of persons by or to whom any such records shall be kept or notifications given:
+  (aaa) prescribing, in relation to any application or class of application under this Act, any of the following:
+    (i) the manner in which the application must be made; and
+    (ii) the information that must accompany or be contained in the application; and
+    (iii) the manner in which the application must be determined by the decision-maker; and
+    (iv) any matters that the decision-maker must take into account when determining the application:
   (aa) approving persons or organisations, or classes of persons or organisations, for the purposes of section 23C(1)(c)(iv):
   (b) prescribing qualifications for and conditions of licences under this Act; and providing for or regulating the custody, production, suspension, or revocation of licences:
   (c) permitting the manufacture, packing, labelling, administration, sale, or supply of medicines otherwise than pursuant to a licence under this Act and otherwise than in accordance with an authority conferred by this Act, subject to such conditions or restrictions (if any) as may be prescribed by or imposed under the regulations:
@@ -1499,7 +1553,7 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
   (f) withdrawing medicines and medical devices from sale:
   (g) regulating the situation, construction, sanitation, and use of premises in which medicines or medical devices are manufactured, packed, labelled, stored, sold, or supplied; prescribing the accommodation (including the amount of space) to be provided for any such purpose; prescribing standards of sanitation, cleanliness, temperature, and humidity, or other factors relating to the risks of deterioration or contamination, to be observed in connection with any such purpose; and prohibiting, or providing for the prohibition of, the use of particular premises or particular classes of premises for any such purpose:
   (h) regulating the manufacture, packing, labelling, storage, safe-keeping, and destruction of medicines and medical devices:
-  (i) specifying, by name or description, kinds or classes of substances or articles that shall not be medicines or medical devices for the purposes of this Act:
+  (i) specifying, by name or description, substances or articles, or kinds or classes of substances or articles, that are, or are not, medicines or medical devices for the purposes of this Act:
   (j) specifying descriptions of medicines that are prescription medicines or restricted medicines or pharmacy-only medicines:
   (k) prescribing standards of composition, including standards of strength, weight, quality, purity, or quantity for any description or class of medicine or any kind or class of medical device or for anything contained in or added to or intended to be contained in or added to any medicine or medical device; prescribing standards of accuracy of performance for any kind or class of medical device; permitting the addition of a specified thing, or specified class of thing, in a specified quantity or proportion to medicines or medical devices, or to medicines of any specified description or class, or to medical devices of any specified kind or class, for which a standard is prescribed; and prohibiting the sale or supply of any medicine or medical device, not belonging to a description or class of medicine, or kind or class of medical device, for which a standard is prescribed, to which a specified thing or specified class of thing has been added or has been added in a quantity or proportion in excess of or less than a specified quantity or proportion:
   (l) prescribing and regulating the mode of labelling of packages and containers of medicines or medical devices or substances or articles used or intended for use in the manufacture, or as ingredients or parts, of any medicine or medical device; prescribing the matter to be contained or not to be contained in any such label and the nature and appearance of any package or container enclosing a particular description or class of medicine or particular kind or class of medical device; and permitting the sale or supply of medicines or medical devices otherwise than in packages and containers labelled in accordance, and otherwise conforming with, any such regulations:
@@ -1507,8 +1561,9 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
   (n) prohibiting the use of any package or container of a kind specified or described in the regulations for any purpose other than the storage of medicines for internal use:
   (o) providing for the ascertainment, assessment, notification, and correction of damage to or leakage from packages or containers of medicines or medical devices, and the notification of any suspected contamination of medicines or medical devices sustained, in the course of storage or transportation by any means:
   (p) requiring persons who are engaged in the manufacture, import, packing, labelling, sale, or supply of any medicines, or who utilise any medicine in the course of or in connection with their profession, trade, or calling, or any occupation whether paid or unpaid, or who otherwise undertake the supply or administration of any medicine, to furnish information with respect to such matters and in such form as may be prescribed:
-  (q) regulating the issue by practitioners, veterinarians, registered midwives, and designated prescribers of prescriptions for the supply of any medicine, and requiring persons issuing or dispensing prescriptions in respect of any medicine to furnish such information relating to those prescriptions as may be prescribed:
-  (qa) authorising any class of registered health professional, other than a practitioner or registered midwife, to prescribe prescription medicines of a specified class or description in accordance with such conditions, limitations, requirements, or restrictions specified in or imposed under the regulations:
+  (q) regulating the issue by authorised prescribers, veterinarians, and delegated prescribers of prescriptions for the supply of any medicine, including the transmission and storage of prescriptions, and requiring persons issuing or dispensing prescriptions in respect of any medicine to furnish such information relating to those prescriptions as may be prescribed:
+  (qa) authorising any class of registered health professional to prescribe specified prescription medicines, or a specified class or description of prescription medicines, in accordance with any conditions, limitations, requirements, or restrictions specified in or imposed under the regulations:
+  (qaa) granting and regulating delegated prescribing rights:
   (qb) regulating the issue of standing orders, imposing conditions, limitations, requirements, or restrictions in relation to the contents of standing orders and their use, and providing for such other matters as are necessary or desirable for the administration of standing orders:
   (r) requiring any medical practitioner who attends a person whom he considers, or has reasonable grounds to suspect, is dependent (within the meaning of the regulations) on medicines of any description or class to furnish such particulars with respect to that person as may be prescribed:
   (s) prohibiting, regulating, or restricting the sale or supply of medicines to any person so dependent, and the issue of prescriptions for such sale or supply:
@@ -1531,22 +1586,26 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
   (a) if the regulations refer to a particular edition of a specified publication, the reference shall be construed as including all amendments, additions, and deletions made to that edition and published before the date on which the regulations are made:
   (b) if the regulations do not refer to a particular edition of a specified publication, the reference shall be construed as applying to the edition of the specified publication in force when the regulations are made, so long as that edition remains in force, and thereafter to every subsequent edition of that publication for the time being in force, and as extending to all amendments, additions, and deletions made to any such edition and published whether before, on, or after the date on which the regulations are made.
 (5) All or any of the powers conferred by paragraphs (g), (h), (k), and (l) of subsection (1) may be exercised in respect of any cosmetic or dentifrice (whether or not it is a related product within the meaning of Part 7).
+(5A) For the purposes of subsection (1)(qa),—
+  (a) specified prescription medicines means prescription medicines specified by the Director-General by notice in the Gazette; and
+  (b) specified class or description of prescription medicines means a class or description of prescription medicines specified by the Director-General by notice in the Gazette.
+(5B) Before issuing a notice under subsection (5A), the Director-General must consult with those organisations or bodies that appear to the Director-General to be representative of persons likely to be substantially affected by the notice.
 (6) Notwithstanding anything contained in any regulation made under this section, any person may, at any time within 12 months after the date of the commencement of the regulation, sell any medicine or medical device of which the sale is otherwise lawful, if he proves that at that date the medicine or medical device was part of the existing stock-in-trade in New Zealand of any person carrying on business there, and that since that date no act has been done whereby the medicine or medical device fails to conform to the regulation.
 (7) For the purposes of subsection (6) any goods purchased before the said date for importation into New Zealand shall be deemed to be part of the purchaser's stock-in-trade in New Zealand.
 
-### 105A Regulations relating to practitioners, veterinarians, and registered midwives
+### 105A Regulations relating to veterinarians and authorised prescribers who are not designated prescribers
 (1) Without limiting the generality of section 105(1)(d), regulations may be made under that provision—
-  (a) requiring any practitioner, veterinarian, or registered midwife, or a specified class of such persons, before commencing for the first time to prescribe prescription medicines or prescription medicines of a specified class or description, to satisfy 1 or more of the following requirements:
+  (a) requiring any veterinarian, or authorised prescriber who is not a designated prescriber, or a specified class of such persons, before commencing for the first time to prescribe prescription medicines or prescription medicines of a specified class or description, to satisfy 1 or more of the following requirements:
     (i) to obtain any specified qualification or any qualification specified from time to time by notice in the Gazette by the Minister, or by the relevant professional organisation:
     (ii) to undertake specified training or any training specified from time to time by notice in the Gazette by the Minister, or by the relevant professional organisation:
     (iii) to demonstrate, to the satisfaction of the relevant professional organisation, that the person is sufficiently knowledgeable to safely prescribe prescription medicines or prescription medicines of a specified class or description:
-  (b) requiring any practitioner, veterinarian, or registered midwife, or any class of such persons, to undergo specified training or to undergo training specified from time to time by notice in the Gazette by the Minister, or by the relevant professional organisation (including training of an ongoing nature):
-  (c) requiring any practitioner, veterinarian, or registered midwife, or any class of such persons, to undergo an assessment of competence to prescribe prescription medicines of a specified class or description (including an assessment at regular intervals):
-  (d) requiring any practitioner, veterinarian, or registered midwife, or any class of such persons who prescribes prescription medicines of any specified class or description to undertake those duties under the supervision of a practitioner or a specified class of practitioner:
-  (e) prohibiting any practitioner, veterinarian, or registered midwife who fails to comply with any requirement imposed by or under regulations referred to in paragraphs (a) to (d) from prescribing prescription medicines or prescription medicines of any specified class or description.
+  (b) requiring any veterinarian, or authorised prescriber who is not a designated prescriber, or any class of such persons, to undergo specified training or to undergo training specified from time to time by notice in the Gazette by the Minister, or by the relevant professional organisation (including training of an ongoing nature):
+  (c) requiring any veterinarian, or authorised prescriber who is not a designated prescriber, or any class of such persons, to undergo an assessment of competence to prescribe prescription medicines of a specified class or description (including an assessment at regular intervals):
+  (d) requiring any veterinarian, or authorised prescriber who is not a designated prescriber, or any class of such persons who prescribes prescription medicines of any specified class or description to undertake those duties under the supervision of a practitioner or a specified class of practitioner:
+  (e) prohibiting any veterinarian, or authorised prescriber who is not a designated prescriber who fails to comply with any requirement imposed by or under regulations referred to in paragraphs (a) to (d) from prescribing prescription medicines or prescription medicines of any specified class or description.
 (2) In this section, relevant professional organisation means,—
-  (a) in the case of a practitioner or registered midwife or any class of practitioner or registered midwife, the authority under the Health Practitioners Competence Assurance Act 2003 that has jurisdiction in respect of the class of registered health professional to which the practitioner or registered midwife or the class of practitioner or registered midwife belongs:
-  (b) in the case of a veterinarian or any class of veterinarian, the Veterinary Council of New Zealand.
+  (a) in the case of a veterinarian or any class of veterinarian, the Veterinary Council of New Zealand:
+  (b) in any other case, the responsible authority for the health profession to which the person belongs.
 
 ### 105B Regulations relating to designated prescribers
 (1) Without limiting the generality of section 105(1)(d) or (qa), regulations may be made under section 105(1)(qa)—
@@ -1568,6 +1627,31 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
   (a) health services or access to those services will be improved by the making of that Order in Council; and
   (b) the making of that Order in Council is necessary to meet the needs of the community in the particular location of the pharmacy or proposed pharmacy.
 (3) The Minister's reasons for making the recommendation must be included in, or appended to, the Order in Council.
+
+### 105D Regulations relating to delegated prescribers
+Without limiting the generality of section 105(1)(d) or (qaa), regulations may be made under section 105(1)(qaa)—
+  (a) granting delegated prescribing rights to any class of registered health professional:
+  (b) regulating the issue of delegated prescribing orders by authorised prescribers:
+  (c) specifying the responsibilities of authorised prescribers who issue delegated prescribing orders:
+  (d) imposing conditions, limitations, requirements, or restrictions in relation to the contents of delegated prescribing orders and their use:
+  (e) requiring any person who belongs to any class of registered health professional with delegated prescribing rights, or a specified class of those persons, before commencing to prescribe prescription medicines or prescription medicines of a specified class or description under a delegated prescribing order, to satisfy 1 or more of the following requirements:
+    (i) to obtain any specified qualification or any qualification specified from time to time by notice in the Gazette by the Minister, or by the responsible authority:
+    (ii) to undertake specified training or any training specified from time to time by notice in the Gazette by the Minister, or by the responsible authority:
+    (iii) to demonstrate, to the satisfaction of the responsible authority, that the person is sufficiently knowledgeable to safely prescribe prescription medicines or prescription medicines of a specified class or description:
+  (f) requiring any delegated prescriber or any class of delegated prescriber to undergo specified training or to undergo training specified from time to time by notice in the Gazette by the Minister, or by the responsible authority (including training of an ongoing nature):
+  (g) requiring any delegated prescriber or any class of delegated prescriber to undergo an assessment of competence to prescribe prescription medicines of a specified class or description (including an assessment at regular intervals):
+  (h) prohibiting any person who fails to comply with any requirement imposed by or under regulations referred to in paragraphs (e) to (g) from prescribing prescription medicines or prescription medicines of any specified class or description.
+
+### 105E Power of Director-General to specify prescription medicines for delegated prescribers
+(1) The Director-General may, by notice in the Gazette, specify the prescription medicines, or the class or description of prescription medicines, that may be prescribed under delegated prescribing orders (and different prescription medicines, or different classes or descriptions of prescription medicines, may be specified for different classes of health professional).
+(2) Before issuing a notice under subsection (1), the Director-General must consult with those organisations or bodies that appear to the Director-General to be representative of persons likely to be substantially affected by the notice.
+
+### 105F Incorporation by reference
+(1) Regulations made under section 105 may incorporate the following written material by reference:
+  (a) a standard, framework, code of practice, recommended practice, or requirement of an international or national organisation:
+  (b) a standard, framework, code of practice, recommended practice, or requirement prescribed in any country or jurisdiction, or by any group of countries:
+  (c) any other written material that deals with technical matters and that can reasonably be regarded as being too large or impractical to include in, or publish as part of, the regulations.
+(2) The provisions of Schedule 3 apply to material incorporated by reference in regulations made in reliance on this section.
 
 ### 106 Minister may classify medicines by notice in the Gazette
 (1) The Minister may, by notice in the Gazette, declare any medicine to be a prescription medicine or a restricted medicine or a pharmacy-only medicine.
@@ -1631,6 +1715,77 @@ The enactments specified in Schedule 2 are hereby repealed.
 ## Schedule 1
 
 ## Schedule 2 — Enactments repealed
+
+## Schedule 3 — Incorporation by reference
+
+### 1 Requirement to consult on proposal to incorporate material by reference
+(1) Before regulations incorporating material by reference in reliance on section 105F are made, the Director-General must—
+  (a) make copies of the material proposed to be incorporated by reference (the proposed material) available for inspection during working hours for a reasonable period, free of charge, at the head office of the Ministry of Health and any other places that the Director-General may, at his or her discretion, determine are appropriate; and
+  (b) state where copies of the proposed material are available for purchase; and
+  (c) make copies of the proposed material available, free of charge, on an Internet site maintained by or on behalf of the Ministry of Health, unless doing so would infringe copyright; and
+  (d) give notice in the Gazette stating—
+    (i) that the proposed material is available for inspection during working hours, free of charge, and stating the places at which it can be inspected and the period during which it can be inspected; and
+    (ii) that copies of the proposed material can be purchased and stating the places at which they can be purchased; and
+    (iii) if applicable, that the proposed material is available on the Internet, free of charge, and stating the Internet site address; and
+  (e) allow a reasonable opportunity for persons to comment on the proposal to incorporate the proposed material by reference; and
+  (f) consider any comments made.
+(2) The Director-General—
+  (a) may make copies of the proposed material available in any other way that he or she considers appropriate in the circumstances; and
+  (b) must, if paragraph (a) applies, give notice in the Gazette stating that the proposed material is available in other ways and giving details of where or how it can be accessed or obtained.
+(3) The Director-General may comply with subclause (1)(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the Ministry of Health to a copy of the proposed material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
+(4) The references in this clause to material include, if the material is not in an official New Zealand language, as well as the material itself, an accurate translation of the material in an official New Zealand language.
+(5) A failure to comply with this clause does not invalidate regulations that incorporate material by reference in reliance on section 105F.
+(6) For the purposes of subclause (1)(c), the Director-General may not rely on section 66 of the Copyright Act 1994 as authority to make the proposed material available on an Internet site.
+
+### 2 Access to material incorporated by reference
+(1) This clause applies if regulations incorporating material by reference in reliance on section 105F are made.
+(2) The Director-General must—
+  (a) make the material (the incorporated material) available for inspection during working hours, free of charge, at the head office of the Ministry of Health and any other places that the Director-General may, at his or her discretion, determine are appropriate; and
+  (b) state where copies of the incorporated material are available for purchase; and
+  (c) make copies of the incorporated material available, free of charge, on an Internet site maintained by or on behalf of the Ministry of Health, unless doing so would infringe copyright; and
+  (d) give notice in the Gazette stating—
+    (i) that the incorporated material is incorporated in the regulations and stating the date on which the regulations were made; and
+    (ii) that the incorporated material is available for inspection during working hours, free of charge, and stating the places at which it can be inspected; and
+    (iii) that copies of the incorporated material can be purchased and stating the places at which they can be purchased; and
+    (iv) if applicable, that the incorporated material is available on the Internet, free of charge, and stating the Internet site address.
+(3) The Director-General—
+  (a) may make copies of the incorporated material available in any other way that he or she considers appropriate in the circumstances; and
+  (b) must, if paragraph (a) applies, give notice in the Gazette stating that the incorporated material is available in other ways and giving details of where or how it can be accessed or obtained.
+(4) The Director-General may comply with subclause (2)(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the Ministry of Health to a copy of the incorporated material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
+(5) The references in this clause to material are to—
+  (a) material incorporated by reference in the regulations; and
+  (b) if the material is not in an official New Zealand language, the material itself together with an accurate translation of the material in an official New Zealand language.
+(6) A failure to comply with this clause does not invalidate regulations that incorporate material by reference.
+(7) For the purposes of subclause (2)(c), the Director-General may not rely on section 66 of the Copyright Act 1994 as authority to make the incorporated material available on an Internet site.
+
+### 3 Effect of material incorporated by reference
+(1) This clause applies to material incorporated by reference in regulations in reliance on section 105F.
+(2) Material to which this clause applies has legal effect as part of the regulations in which it is incorporated.
+
+### 4 Effect of amendments to material incorporated by reference
+(1) This clause applies if the material incorporated by reference in reliance on section 105F is amended by the originator of the material after the regulations are made.
+(2) If this clause applies, any amendments made by the originator of the material have no legal effect as part of the regulations unless they are specifically incorporated by later regulations made under this Act.
+(3) For the purposes of this section, material is amended if the material or any part of it—
+  (a) is amended or replaced; or
+  (b) expires or is revoked; or
+  (c) otherwise ceases to have effect.
+
+### 5 Proof of material incorporated by reference
+(1) A copy of material incorporated by reference in regulations in reliance on section 105F must be—
+  (a) certified as a correct copy of the material by the Director-General; and
+  (b) retained by the Director-General.
+(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the material incorporated by reference in the regulations.
+
+### 6 Application of Legislation Act 2012 to material incorporated by reference
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in regulations in reliance on section 105F or to an amendment to, or replacement of, that material.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference in reliance on section 105F.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations in reliance on section 105F to be presented to the House of Representatives.
+
+### 7 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
+[Repealed]
+
+### 8 Application of Standards Act 1988, other enactments, and rules of law not affected
+Nothing in this schedule affects the application of sections 22 to 25 of the Standards Act 1988, any other enactment, or any rule of law.
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
