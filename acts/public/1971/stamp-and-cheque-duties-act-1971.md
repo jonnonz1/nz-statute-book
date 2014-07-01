@@ -1,5 +1,5 @@
 # Stamp and Cheque Duties Act 1971
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2014-07-01_
 
 > An Act to consolidate and amend the law relating to stamp duties
 
@@ -276,93 +276,37 @@ In this Act, unless the context otherwise requires,—
 ## Part 6 — Cheque duty
 
 ### 76 Interpretation
-In this Part, unless the context otherwise requires,—
-  - **bank** means any person, firm, or corporation, carrying on the business of banking
-  - **printer** means any person, firm, or corporation, engaged in printing
-  - **quarter** means a period of 3 consecutive calendar months in any year ending with the last day of March, June, September, or December.
+[Repealed]
 
 ### 77 Cheque duty payable
-(1) Unless otherwise provided by this Act, or by or pursuant to any enactment mentioned in Schedule 1, or by any local or private Act, cheque duty shall be paid to the Crown on every bill of exchange made or drawn after the commencement of this Act.
-(2) For the purposes of this section, the expression stamp duty when used in any Act mentioned in Schedule 1, or in any local or private Act in force before the commencement of this Act, shall, unless the context otherwise requires, include cheque duty.
+[Repealed]
 
 ### 78 Rates of cheque duty
-(1) Cheque duty shall be computed at the rate of 5 cents per bill of exchange.
-(2) Cheque duty prepaid on bill of exchange forms under section 81, section 82, or section 83 shall be computed at the rate of 5 cents per form.
+[Repealed]
 
 ### 79 No cheque duty payable on certain bills
-(1) No cheque duty shall be payable on any of the following bills of exchange—
-  (a) a bill of exchange drawn or made by any person acting on behalf of the Crown other than a person to whom section 80 applies:
-  (b)
-  (ba) a bill of exchange drawn or made under the National Provident Fund Act 1950:
-  (c) a bill of exchange drawn or made by or on behalf of the trustees of a war fund subject to the War Funds Act 1915:
-  (d) a bill of exchange drawn or made by or on behalf of the New Zealand Council of Organisations for Relief Service Overseas:
-  (e)
-  (f) a bill of exchange drawn or made by or on behalf of any Provincial Patriotic Council, or any Welfare Committee, for the purposes of the Patriotic and Canteen Funds Act 1947:
-  (g) a bill of exchange drawn or made by or on behalf of a friendly society, or any branch of a friendly society, or any credit union, in each case registered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982, and in accordance with that Act or the rules of the society or branch or credit union:
-  (h) a bill of exchange drawn or made by or on behalf of an industrial and provident society registered under the Industrial and Provident Societies Act 1908, and in accordance with that Act, or the rules of the society:
-  (i)
-  (j) any coupon issued by any Electric Power Board under the Electric Power Boards Act 1925, or by any Railway Board under the Local Railways Act 1914.
-(2) No cheque duty shall be payable on any overseas bill of exchange drawn or made in favour of any person mentioned in subsection (1), if, had the bill of exchange been drawn or made by that person, no cheque duty would have been payable on it by virtue of that subsection.
-(3) If in accordance with the custom of merchants or bankers any bill of exchange is drawn in a set, and one of the set is duly stamped, the other or others of the set, unless issued or in some manner negotiated apart from the one stamped, shall not be liable to cheque duty.
+[Repealed]
 
 ### 80 Exemption from cheque duty by agreement
-(1) This section shall apply to—
-  (a) Public Trust when acting otherwise than on behalf of the Crown:
-  (b) Tower Corporation:
-  (c) State Insurance Limited:
-  (d) Housing New Zealand Corporation:
-  (e) the Accident Compensation Corporation.
-  (f)
-  (g)
-(2) The Commissioner may by written agreement with any person to whom this section applies exempt from cheque duty all bills of exchange drawn or made on behalf of that person.
-(3) In consideration of any agreement made by the Commissioner under this section, the other party to the agreement shall pay to the Crown by way of composition a sum equivalent to the cheque duty which would, were it not for the agreement and this section, be payable.
-(4) Every sum payable by way of composition under this section shall constitute a debt payable to the Crown by the party to the agreement other than the Commissioner, and shall be due on such dates as shall be specified in the agreement.
-(5) Any agreement under this section may be terminated by 1 month's notice in writing given by either party. After termination, cheque duty shall be payable on all bills of exchange which would, were it not for the termination of the agreement, be exempt.
+[Repealed]
 
 ### 81 Cheque duty payable by licensed banks
-(1) The Commissioner may, on application by the General Manager for New Zealand of any bank, grant to the bank a licence to supply to its customers or to procure on its own behalf bill of exchange forms prepaid with cheque duty in accordance with this section.
-(2) The grant of a licence to a bank under this section shall be subject to such other conditions as may be required by the Commissioner who may at any time and from time to time, by notice in writing to the bank, amend those conditions.
-(3) Within 21 days after the expiry of each quarter, every bank that at any time during the quarter was a licensed bank shall forward to the Commissioner a statement in the form prescribed by the Commissioner containing particulars of all bill of exchange forms prepaid with cheque duty supplied to its customers or procured on its own behalf during that quarter. The statement shall contain particulars of all prepaid forms that have not been used and have been destroyed by the bank during that quarter, or that have been defaced or spoiled after issue but before being further acted on and that have been destroyed by the bank during that quarter.
-(4) Every statement sent to the Commissioner under subsection (3) shall be verified by the signature of the General Manager, the Accountant, or any other senior administrative officer of the head office of the bank in New Zealand, and shall be accompanied by the amount of cheque duty payable for the quarter to which the statement relates, less the amount of duty that has been paid for prepaid forms that have been destroyed by the bank during the quarter and particulars of which are contained in the statement.
-(5) The Commissioner may, by giving 3 months notice in writing forwarded by registered post to the General Manager for New Zealand of any bank licensed under this section, cancel the licence granted to that bank, and on the expiry of the 3 months which shall commence from the date on which the notice was posted, the licence held by that bank shall be cancelled and cease to have any force or effect.
-(6)
+[Repealed]
 
 ### 82 Cheque duty payable by licensed printers
-(1) The Commissioner may, on application by any printer, and on receiving such security as the Commissioner may from time to time require, grant to the printer a licence to print for the use of customers or on the printer's own behalf bill of exchange forms prepaid with cheque duty in accordance with this section.
-(2) The grant of a licence to a printer under this section shall be subject to such conditions as may be required by the Commissioner who may at any time and from time to time by notice in writing to the printer, amend those conditions.
-(3) Within 21 days after the last day of each month, every printer licensed under this section shall forward to the Commissioner a statement in the form prescribed by the Commissioner. The statement shall contain particulars of all forms prepaid with cheque duty printed for the use of customers or on the printer's own behalf during that month, and shall be accompanied by the amount of cheque duty (if any) payable for that month.
-(4) The Commissioner may by giving 7 days' notice in writing forwarded by registered post to any printer licensed under this section cancel the licence granted to that printer, and on the expiry of the 7 days which shall commence from the date on which the notice was posted, the licence shall be cancelled and cease to have any force or effect.
-(5) If a licence granted to any printer is cancelled, the printer shall, within 7 days after the cancellation, forward a statement to the Commissioner giving particulars of all forms prepaid with cheque duty which have been printed for the use of customers or on the printer's own behalf, and in respect of which no statement has been forwarded to the Commissioner in accordance with subsection (3), together with the amount of cheque duty payable for those prepaid forms.
-(6)
+[Repealed]
 
 ### 83 Cheque duty payable by other licensees
-(1) The Commissioner may, on application in the form prescribed by him for the purpose which shall be accompanied by the cheque duty payable, grant any person a licence, or may renew or extend any licence already granted, authorising the printing and use of bill of exchange forms prepaid with cheque duty.
-(2) On the grant of a licence, or the renewal or extension of a licence, the Commissioner shall issue to the printer nominated by the applicant an authority, in such form as shall be prescribed by the Commissioner, to print the prepaid forms to which the licence relates.
-(3) The grant of a licence to any person under this section, and the authority to the printer to print the prepaid forms, shall be subject to such conditions as may be required by the Commissioner.
-(4)
+[Repealed]
 
 ### 84 Cheque duty payable otherwise than under a licence
-(1) This section applies to all bills of exchange for which cheque duty has not been prepaid in accordance with section 81, or section 82, or section 83.
-(2) In this section,—
-  - **duly stamped** means stamped by—
-    (a) affixing a postage stamp or stamps on the face of the bill of exchange for the amount of the cheque duty payable on the bill; and
-    (b) effectively cancelling each postage stamp so as to render it incapable of being used again; and
-    (c) stating on the bill the true date of cancellation
-  - **postage stamp** has the same meaning as in section 2(1) of the Postal Services Act 1998.
-(3) A bill of exchange drawn or made in New Zealand shall be duly stamped by the drawer or maker of the bill before he delivers it out of his hands.
-(4) Subject to subsection (2) of section 79, a bill of exchange drawn or made out of New Zealand shall be duly stamped by the first holder of the bill in New Zealand before he presents it for acceptance or payment, or endorses, or transfers, or in any manner negotiates it.
-(5) A bill of exchange which comes into the hands of any person before it has been duly stamped shall be duly stamped by that person before he presents it for payment, or endorses, or transfers, or otherwise negotiates it, or accepts it, or pays it; but no person shall thereby be relieved from liability for any offence committed by him against any provision of this Act in respect of that bill:
-  provided that a bill of exchange which is drawn or made in New Zealand and bears on its face a printed inscription indicating that the bill is exempt from cheque duty or that cheque duty has been paid shall be deemed to be duly stamped for the purposes of this subsection unless the person into whose hands the bill comes has reason to believe that the bill is not exempt from cheque duty, or that the cheque duty purporting to have been paid has not been paid.
-(6) If a bill of exchange, to which the appropriate postage stamp is affixed, is held in good faith by a holder without notice of the stamp having been affixed otherwise than in accordance with this section, the bill of exchange shall, so far as it relates to the holder, be deemed to be duly stamped.
-(7) No bill of exchange shall be noted or protested by any notary public or other person unless it appears to be duly stamped.
-(8) For the purposes of subsection (6), notice of an omission by any person to cancel a stamp in the due manner shall not be notice of a breach of this section if the holder cancels the stamp as soon as the bill comes into his hands.
-(9)
+[Repealed]
 
 ### 85 Refund of cheque duty
-(1) If the Commissioner is satisfied—he may, on application made in writing within 8 years after the date of payment of the duty, and accompanied by the bill of exchange forms, or the licence and the authority to print, or the bills of exchange, or such evidence as he thinks sufficient of their loss or destruction, refund the duty to the person entitled to it; but no refund shall be made if the duty amounts to less than $1.
+(1) If the Commissioner is satisfied—the Commissioner may, on application made in writing before 22 July 2014 and within 8 years after the date of payment of the duty, and accompanied by the bill of exchange forms, or the licence and the authority to print, or the bills of exchange, or such evidence as the Commissioner thinks sufficient of their loss or destruction before 1 July 2014, refund the duty to the person entitled to it; but no refund shall be made if the duty amounts to less than $1.
   (a) that any bill of exchange forms for which cheque duty has been prepaid otherwise than under section 81 have not been used; or
   (b) that any bill of exchange forms for which cheque duty has been prepaid under section 83 have not been printed; or
-  (c) that any bills of exchange for which cheque duty has been paid have been spoiled, defaced, lost, or destroyed after issue but before being further acted on,—
+  (c) that any bills of exchange for which cheque duty has been paid have been, before 1 July 2014, spoiled, defaced, lost, or destroyed after issue but before being further acted on,—
 (2) A refund under subsection (1) must be made in accordance with the requirements of section 184A of the Tax Administration Act 1994.
 
 ### 86 Refunds payable out of Crown Bank Account
