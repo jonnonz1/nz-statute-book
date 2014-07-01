@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2014-03-31_
+_Consolidation as at 2014-07-01_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -53,7 +53,7 @@ _Consolidation as at 2014-03-31_
     (a) in relation to Part 2, means a meeting convened or reconvened by a care and protection co-ordinator in accordance with section 20:
     (b) in relation to Part 4, means a meeting convened or reconvened by a youth justice co-ordinator in accordance with section 247 or section 270 or section 281 or section 281B
   - **family resource centre** means any premises that provide temporary accommodation for a child or young person and any person who has the care of that child or young person, where that accommodation is provided as part of a programme designed to provide assistance to that person
-  - **guardianship** has the meaning given to it by section 15 of the Care of Children Act 2004; and has a corresponding meaning
+  - **guardianship** has the meaning given to it by section 15 of the Care of Children Act 2004; and has a corresponding meaning, and includes, without limitation, a person who is a guardian by virtue of this Act
   - **iwi social service** means any incorporated body approved by the chief executive as an iwi social service pursuant to section 396(1)
   - **lay advocate** does not include any person who is a barrister or solicitor
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
@@ -136,7 +136,8 @@ Subject to section 6, any court which, or person who, exercises any power confer
   (e) the principle that endeavours should be made to obtain the support of—to the exercise or proposed exercise, in relation to that child or young person, of any power conferred by or under this Act:
     (i) the parents or guardians or other persons having the care of a child or young person; and
     (ii) the child or young person himself or herself—
-  (f) the principle that decisions affecting a child or young person should, wherever practicable, be made and implemented within a time-frame appropriate to the child's or young person's sense of time.
+  (f) the principle that decisions affecting a child or young person should, wherever practicable, be made and implemented within a time-frame appropriate to the child's or young person's sense of time:
+  (g) the principle that decisions affecting a child or young person should be made by adopting a holistic approach that takes into consideration, without limitation, the child's or young person's age, identity, cultural connections, education, and health.
 
 ### 6 Welfare and interests of child or young person paramount
 In all matters relating to the administration or application of this Act (other than Parts 4 and 5 and sections 351 to 360), the welfare and interests of the child or young person shall be the first and paramount consideration, having regard to the principles set out in sections 5 and 13.
@@ -213,8 +214,9 @@ Every medical practitioner who carries out a medical examination of any child or
 **Principles**
 
 ### 13 Principles
-Subject to sections 5 and 6, any court which, or person who, exercises any powers conferred by or under this Part or Part 3 or Part 3A or sections 341 to 350 shall be guided by the following principles:
-  (a) the principle that children and young persons must be protected from harm, their rights upheld, and their welfare promoted:
+(1) Every court or person exercising powers conferred by or under this Part, Part 3 or 3A, or sections 341 to 350, must adopt, as the first and paramount consideration, the welfare and interests of the relevant child or young person (as required by section 6).
+(2) In determining the welfare and interests of a child or young person, the court or person must be guided by the principle that children and young people must be protected from harm and have their rights upheld, and also the principles in section 5 as well as the following principles:
+  (a)
   (b) the principle that the primary role in caring for and protecting a child or young person lies with the child's or young person's family, whanau, hapu, iwi, and family group, and that accordingly—
     (i) a child's or young person's family, whanau, hapu, iwi, and family group should be supported, assisted, and protected as much as possible; and
     (ii) intervention into family life should be the minimum necessary to ensure a child's or young person's safety and protection:
@@ -1274,7 +1276,8 @@ The provisions of sections 132 and 133 shall apply, with such modifications as m
 (2) Subject to this section and to sections 143 to 145 and section 147, where every person who is a parent or guardian or person having the care of a child or young person to whom this section applies agrees to do so, those persons may,—
   (a) with the agreement of an iwi social service or a cultural social service, place the child or young person in the care of that social service; or
   (b) with the agreement of a director of a child and family support service, place the child or young person in the care of the director.
-(3) No agreement may be made under subsection (2) providing for the placement of any child or young person in the care of any person for any period that exceeds 2 years, but any such agreement may from time to time be extended for such period (not exceeding 2 years in each instance) as a family group conference may approve.
+(3) No agreement may be made under subsection (2) providing for the placement of any child or young person in the care of any person for any period that exceeds 1 year, but any such agreement may from time to time be extended for such period (not exceeding 1 year in each instance) as a family group conference may approve.
+(3A) On and after the date on which section 28 of the Children, Young Persons, and Their Families (Vulnerable Children) Amendment Act 2014 comes into force, the time periods referred to in subsection (3) apply only to an agreement, or an extension to an agreement, that is entered into or agreed to on or after that date.
 (4) No agreement may be made under subsection (2) providing for the placement of any child or young person in the care of any person (in this subsection referred to as the proposed caregiver) unless a person or organisation authorised pursuant to subsection (5) (not being a person employed by the proposed caregiver) certifies,—
   (a) that the proposed caregiver has appropriate facilities and adequate staffing to care for the child or young person; or
   (b) where, pursuant to section 362, the proposed caregiver intends to place the child or young person in the charge of some other person or organisation, that the proposed caregiver has appropriate facilities and adequate staffing to supervise the placement and to ensure that adequate and appropriate care is provided to the child or young person.
@@ -1306,9 +1309,13 @@ Where a parent or guardian or person having the care of a child or young person�
 ### 145 Agreement not to be made without approval of family group conference
 (1) No agreement may be made under section 140 or section 141 or section 142 unless, before the agreement is made,—
   (a) a family group conference is held to consider whether such an agreement should be made; and
-  (b) that family group conference approves the making of the agreement; and
-  (c) a care and protection co-ordinator issues a certificate to the effect that the requirements of paragraph (a) and paragraph (b) have been complied with.
-(2) A care and protection co-ordinator may convene or reconvene a family group conference for the purpose of considering—
+  (b) in the case of a proposed agreement under section 141 or 142, the family group conference has thoroughly explored what services and supports, such as those provided or funded by the Ministry of Health, are available to, or in respect of, the child or young person in his or her home environment; and
+  (c) the family group conference approves the making of the agreement; and
+  (d) a care and protection co-ordinator issues a certificate to the effect,—
+    (i) in all cases, that the requirements of paragraphs (a) and (c) have been complied with; and
+    (ii) in the case of a proposed agreement under section 141 or 142, that the family group conference has thoroughly explored the matters referred to in paragraph (b); and
+    (iii) in all cases, that the co-ordinator is satisfied that, having regard to the objects, considerations, and principles in sections 4, 5, 6, and 13, the agreement is an appropriate care option for the child or young person.
+(2) A care and protection co-ordinator must convene or reconvene a family group conference for the purpose of considering—
   (a) whether an agreement should be entered into under section 140 or section 141 or section 142 in relation to any child or young person:
   (b) whether an agreement entered into under section 141 or section 142 should be extended or terminated.
 (3) The provisions of sections 20 to 36 shall apply with all necessary modifications with respect to the convening or reconvening of a family group conference for the purposes of this section.
@@ -4155,12 +4162,13 @@ The chief executive may, from time to time, make grants or provide financial ass
 
 ### 390 Power to control finances of young persons under guardianship or in custody
 (1) Every person (being the chief executive or an iwi social service or a cultural social service or the director of a child and family support service) shall have such authority and powers as may be necessary to exercise control over the earnings and other income of any young person (being a young person to whom this section applies) who is in the care or custody, or under the guardianship, of that person, and may for that purpose—
-  (a) open an account in the name of that young person in any bank:
-  (b) pay or arrange for the payment or crediting of the whole or any part of the earnings or other income of that young person into that account.
+  (a) open an account in the name of that young person in any bank, or opt into a KiwiSaver scheme in the name of the young person (but only if the young person is under the person’s guardianship, and only in accordance with section 35(3) or (5) of the KiwiSaver Act 2006):
+  (b) pay or arrange for the payment or crediting of the whole or any part of the earnings or other income of that young person into that account or into any KiwiSaver scheme (whenever it was opted into) of which the young person is a member.
 (2) Any account opened under subsection (1) shall be operated either—
   (a) by the young person; or
   (b) if the chief executive or, as the case requires, the iwi social service or the cultural social service or the director of the child and family support service so directs, by the young person jointly with a person nominated by the chief executive or, as the case requires, that social service or that director.
 (3) All money standing to the credit of a young person in any such account shall be paid to the young person when the young person is discharged from the care, custody, or guardianship of the chief executive or, as the case requires, of the iwi social service or the cultural social service or the director of a child and family support service, and may be paid at any time before the young person is so discharged if the chief executive or, as the case requires, that social service or that director thinks fit.
+(4) Subsections (2) and (3) do not apply to, or to money standing to the young person's credit in, a KiwiSaver scheme of which the young person is a member, and do not limit or affect section 35(6) of the KiwiSaver Act 2006 (which authorises specified guardians under this Act to make decisions or take steps in respect of a KiwiSaver scheme membership of a person younger than 16 years).
 
 ### 391 Imposition of charge to meet expenses of providing care for children and young persons
 (1) Where any child or young person to whom this section applies receives earnings or income, the chief executive or, as the case requires, an iwi social service or a cultural social service or the director of a child and family support service may impose a charge to meet the expenses of providing for the care of that child or young person.
