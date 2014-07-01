@@ -1,5 +1,5 @@
 # Crown Research Institutes Act 1992
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-07-01_
 
 > An Act to provide for the formation of Crown-owned companies to undertake scientific research and other related activities, and to provide for matters incidental thereto
 
@@ -106,7 +106,7 @@ In relation to the transfer, pursuant to this Act, of any land, or any interest 
 (1) A Crown Research Institute or a Crown entity subsidiary of a Crown Research Institute may form or acquire shares in a Crown entity subsidiary from time to time in accordance with section 96 of the Crown Entities Act 2004.
 (2) Each Crown entity subsidiary of a Crown Research Institute is a Crown entity for the purposes of the Crown Entities Act 2004.
 (3) The Crown Entities Act 2004 applies to a Crown entity subsidiary of a Crown Research Institute except to the extent that this Act expressly provides otherwise.
-(4) Sections 97, 100, and 138 to 157 of the Crown Entities Act 2004 do not apply to a Crown entity subsidiary of a Crown Research Institute.
+(4) Sections 97, 100, and 138 to 157A of the Crown Entities Act 2004 do not apply to a Crown entity subsidiary of a Crown Research Institute.
 (5) The Companies Act 1993 applies to a Crown entity subsidiary of a Crown Research Institute as provided in section 102 of the Crown Entities Act 2004, or as otherwise modified by this Act.
 
 ### 13 Acquisition of shares or interests in companies, trusts, and partnerships
