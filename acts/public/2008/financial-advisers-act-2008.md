@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2014-05-01_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -44,7 +44,7 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to a broker service,—
       (i) refers to a broker or broking service or is reasonably likely to induce persons to seek a broking service; and
       (ii) is authorised or instigated by, or on behalf of, a broker or prepared with the co-operation of, or by arrangement with, a broker
-  - **approved dispute resolution scheme** has the same meaning as in section 4 of the FSP Act, but also includes the reserve scheme within the meaning of section 71 of the FSP Act
+  - **approved dispute resolution scheme** has the same meaning as in section 4 of the FSP Act
   - **approved rating agency** means a rating agency nominated or approved under the Non-bank Deposit Takers Act 2013 or section 62 of the Insurance (Prudential Supervision) Act 2010
   - **associated entity** , in relation to a QFE, means an entity that, under an approval given under section 67(4) or 71, is an associated entity of that QFE
   - **authorised** means authorised by the FMA under section 55
