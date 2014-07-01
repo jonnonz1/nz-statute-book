@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2013-08-27_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -161,11 +161,11 @@ This Act binds the Crown.
   (a) negotiate and enter into a Crown funding agreement containing any terms and conditions that may be agreed; and
   (b) negotiate and enter into an agreement that amends a Crown funding agreement; and
   (c) monitor performance under a Crown funding agreement.
-(2A) A Crown funding agreement is an output agreement for the purposes of Part 4 of the Crown Entities Act 2004 in respect of any outputs covered by the agreement and section 170(2) to (5) of the Crown Entities Act 2004 applies to a Crown funding agreement, with any necessary modifications.
+(2A)
 (3) Except to the extent that the Minister determines by written notice to the Ministry of Health, the Ministry of Health may exercise the Minister's powers under subsection (2) on the Minister's behalf.
 (4) Nothing in this section limits section 39 or section 64 or any other enactment, or any powers that the Minister or the Crown has under any enactment or rule of law.
 (5) As soon as practicable after giving a notice under subsection (3), the Minister must publish a copy of the notice in the Gazette.
-(6) To avoid doubt, a Minister may not require a publicly-owned health and disability organisation to have in place a separate output agreement under section 170(1) of the Crown Entities Act 2004, in respect of any outputs covered by a Crown funding agreement.
+(6)
 
 ### 11 Ministerial committees
 (1) The Minister may by written notice—
@@ -286,7 +286,7 @@ This Act binds the Crown.
   (h) sections 116 and 117 (employment of employees and chief executives):
   (i) sections 120 to 126 (immunities, indemnities, and insurance):
   (j) section 161 (in relation to shares and interests covered by section 28):
-  (k) section 170(1) (in relation to any outputs covered by a Crown funding agreement):
+  (k)
   (l) Schedule 5 (board procedure for statutory entities).
 
 ### 22 Objectives of DHBs
