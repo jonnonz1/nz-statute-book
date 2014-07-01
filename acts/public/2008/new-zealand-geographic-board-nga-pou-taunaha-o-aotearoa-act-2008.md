@@ -1,5 +1,5 @@
 # New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
-_Consolidation as at 2012-12-12_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, and may also be cited as—
@@ -20,7 +20,7 @@ The purposes of this Act are to—
     (ii) the membership of the Board, so as to ensure adequate representation on the Board of community and government interests; and
     (iii) the administration of the Board; and
   (b) establish the jurisdiction of the Board; and
-  (c) set out the Board’s powers, functions, and duties, in particular providing for the Board to assign, approve, alter, or discontinue the use of official geographic names for geographic features within its jurisdiction, so as to achieve a coordinated and standardised approach to official geographic names; and
+  (c) set out the Board’s powers, functions, and duties, in particular providing for the Board to assign, approve, alter, or discontinue the use of official geographic names for geographic features within its jurisdiction, so as to achieve a co-ordinated and standardised approach to official geographic names; and
   (d) provide effective notification, consultation, and decision-making procedures for naming geographic features; and
   (e) provide the means for appropriate recognition to be accorded to cultural and heritage values associated with geographic features; and
   (f) enable certain administrative needs of government (including local government) to be met; and
@@ -88,9 +88,9 @@ This Act binds the Crown.
 
 ### 6 Treaty of Waitangi (Te Tiriti o Waitangi)
 In order to recognise and respect the Crown’s responsibility to take appropriate account of the Treaty of Waitangi (Te Tiriti o Waitangi),—
-  (a) section 11(1)(d) confers on the Board the function of collecting original Māori names of geographic features for recording on official charts and official maps; and
-  (b) section 11(1)(e) confers on the Board the function of encouraging the use of original Māori names of geographic features on official charts and official maps; and
-  (c) clause 1(2)(a) of Schedule 1 requires 2 persons to be appointed to the Board, on the recommendation of the Minister of Māori Affairs.
+  (a) section 11(1)﻿(d) confers on the Board the function of collecting original Māori names of geographic features for recording on official charts and official maps; and
+  (b) section 11(1)﻿(e) confers on the Board the function of encouraging the use of original Māori names of geographic features on official charts and official maps; and
+  (c) clause 1(2)﻿(a) of Schedule 1 requires 2 persons to be appointed to the Board, on the recommendation of the Minister of Māori Affairs.
 
 ### Subpart 2 — New Zealand Geographic Board: its jurisdiction, powers, functions, and duties
 
@@ -176,7 +176,7 @@ The Board must—
 ### 14 Annual report
 (1) The Board must report annually to the Minister on the performance of its functions and duties and the exercise of its powers.
 (2) The report must include a copy of the part of the audited accounts of Land Information New Zealand that relate to the Board’s expenditure for that year.
-(3) A summary of the annual report of the Board must be included in the annual report of Land Information New Zealand presented to the House of Representatives under section 39 of the Public Finance Act 1989.
+(3) A summary of the annual report of the Board must be included in the annual report of Land Information New Zealand presented to the House of Representatives under section 44 of the Public Finance Act 1989.
 
 ## Part 2 — Naming of geographic features and Crown protected areas
 
@@ -202,7 +202,7 @@ The Board must—
 ### 16 Notification of proposal
 (1) This section and sections 17 to 21 apply, in relation to a geographic feature within the territorial limits of New Zealand, to a proposal for an official geographic name—
   (a) submitted to the Board under section 15; or
-  (b) made by the Board under section 10(1)(a) to (d) (unless the exceptions provided for under subpart 2 apply).
+  (b) made by the Board under section 10(1)﻿(a) to (d) (unless the exceptions provided for under subpart 2 apply).
 (2) Before the Board assigns, approves, or alters an official geographic name or recorded name, or discontinues the use of an official geographic name or recorded name, the Board must give public notice of the proposal—
   (a) in the Gazette; and
   (b) as soon as practicable after it has been gazetted, at least once—
@@ -210,7 +210,7 @@ The Board must—
     (ii) in a publication that circulates particularly in the area relevant to the proposal.
 (3) The notices must, in each case, specify—
   (a) the geographic feature and the name proposed for it; and
-  (b) the date by which submissions must be received by the Board (which must not be sooner than 1 month after the date of the public notice given under subsection (2)(b)); and
+  (b) the date by which submissions must be received by the Board (which must not be sooner than 1 month after the date of the public notice given under subsection (2)﻿(b)); and
   (c) the manner in which submissions must be given; and
   (d) the contact details of the Board.
 
@@ -255,7 +255,7 @@ A person making a submission on a proposal—
 ### 22 Alteration of name of local authority
 (1) This section applies if the Board carries out the function to alter the name of a district or region provided for under section 11(2).
 (2) Before the Board may give public notice of a determination to alter the name of a district or region, it must request the Minister to recommend to the Governor-General to make an Order in Council under section 260 of the Local Government Act 2002 to amend the name of the relevant local authority in Schedule 2 of that Act to give effect to the alteration.
-(3) An Order in Council must specify the date when the amendment takes effect, which must allow the Board sufficient time to give public notice as required by section 23(2)(a).
+(3) An Order in Council must specify the date when the amendment takes effect, which must allow the Board sufficient time to give public notice as required by section 23(2)﻿(a).
 
 ### 23 Notification of alteration of name of district or region
 (1) As soon as is reasonably practicable after the Governor-General has made an Order in Council in accordance with section 22(2), the Board must give public notice of the determination to alter the name of the relevant district or region.
@@ -268,7 +268,7 @@ A person making a submission on a proposal—
 **Circumstance where no public objection likely**
 
 ### 24 Discretion not to give public notice
-(1) This section applies if the Board, in carrying out its functions under section 10(1)(b) or (d), is of the opinion that there is not likely to be public objection.
+(1) This section applies if the Board, in carrying out its functions under section 10(1)﻿(b) or (d), is of the opinion that there is not likely to be public objection.
 (2) Without giving public notice under section 16, the Board may—
   (a) approve a recorded name as the official geographic name for a geographic feature, if there are no known alternative recorded names for that geographic feature:
   (b) discontinue the use of an official geographic name for a geographic feature.
@@ -305,8 +305,8 @@ A person making a submission on a proposal—
 
 ### 28 Process if Board concurs
 (1) If the Board concurs with a proposed name it reviews under section 27(3), and the enactment under which the Crown protected area is named requires the person making the proposal to notify the name in the Gazette or include it in an enactment, the Board—
-  (a) need not give notice of the name in the Gazette in accordance with section 21(2)(a); but
-  (b) must give notice of the name in accordance with section 21(2)(b).
+  (a) need not give notice of the name in the Gazette in accordance with section 21(2)﻿(a); but
+  (b) must give notice of the name in accordance with section 21(2)﻿(b).
 (2) However, if the relevant enactment does not provide for public notice of the name to be given or for the name to be included in a Gazette notice or in an enactment, the Board must give public notice of the name in accordance with section 21(2).
 
 ### 29 Process if Board does not concur
@@ -413,13 +413,13 @@ The Acts specified in Schedule 2 are amended in the manner indicated in that sch
 (3) The members of the Board must be persons who, in the opinion of the Minister, have special knowledge or qualifications that are relevant to the purposes, functions, and duties of the Board.
 
 ### 2 Term of appointment
-(1) Each member of the Board, other than the Surveyor-General and the official from the department appointed under clause 1(1)(c),—
+(1) Each member of the Board, other than the Surveyor-General and the official from the department appointed under clause 1(1)﻿(c),—
   (a) holds office for a term not exceeding 3 years, as specified in the notice of appointment; and
   (b) may be reappointed to the Board; and
   (c) even though the member’s term of appointment may have expired, continues in office until his or her successor is appointed; and
   (d) may resign his or her office by notice in writing addressed to the secretary of the Board; and
   (e) may be removed from office by the Minister for inability to perform the functions of office, insolvency, neglect of duty, or misconduct.
-(2) A Board member to whom subclause (1)(d) applies is not entitled to compensation or other payment or benefit relating to his or her resignation or removal from office.
+(2) A Board member to whom subclause (1)﻿(d) applies is not entitled to compensation or other payment or benefit relating to his or her resignation or removal from office.
 
 ### 3 Vacancies
 (1) If a member dies, resigns, or is removed from office,—
@@ -485,7 +485,7 @@ Unless otherwise expressly provided by or under this Act, the Board may regulate
 (3) However, the chairperson of the meeting has a deliberative vote, and in the case of an equality of votes, also has a casting vote.
 
 ### 11 Fees and allowances
-(1) The members of the Board (other than the Surveyor-General and the official appointed under clause 1(1)(c)) and any committee appointed by the Board are entitled to be paid—
+(1) The members of the Board (other than the Surveyor-General and the official appointed under clause 1(1)﻿(c)) and any committee appointed by the Board are entitled to be paid—
   (a) fees as determined by the Minister in accordance with the fees framework; and
   (b) in accordance with the fees framework, reimbursing allowances or actual and reasonable expenses incurred in undertaking the functions and duties of the Board.
 (2) In subclause (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
