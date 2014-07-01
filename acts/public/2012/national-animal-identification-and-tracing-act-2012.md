@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2014-05-11_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -1800,7 +1800,7 @@ Any person who wishes to claim privilege concerning any thing seized or sought t
 (2) The report must contain a short summary of the circumstances of the exercise of the power and the reason or reasons why the power needed to be exercised.
 
 ### 74 Annual reporting of search powers
-Every annual report prepared by the Director-General for the purposes of section 39 of the Public Finance Act 1989 or any other applicable enactment requiring an annual report to be presented to Parliament, for the period covered by the report, must state the number of occasions on which entry powers (other than searches by consent) were exercised without a warrant.
+Every annual report prepared by the Director-General for the purposes of section 43 of the Public Finance Act 1989 or any other applicable enactment requiring an annual report to be presented to Parliament, for the period covered by the report, must state the number of occasions on which entry powers (other than searches by consent) were exercised without a warrant.
 
 ### Part 7 — Offences and penalties
 
