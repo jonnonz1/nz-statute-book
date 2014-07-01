@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2014-07-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -281,7 +281,7 @@ In sections 15 to 23, unless the context otherwise requires,—
   (c) in relation to the giving of directions to the entity under subpart 1 of Part 3:
   (d) to review the operations and performance of the entity under subpart 3 of Part 3:
   (e) to request information from the entity under subpart 3 of Part 3, whether for a review or otherwise:
-  (f) to participate in the process of setting and monitoring the entity's strategic direction and targets under Part 4:
+  (f) to participate in the process of setting the entity's strategic direction and performance expectations and monitoring the entity's performance under Part 4:
   (g) in relation to other matters in this Act or another Act.
 (2) This section does not limit another Minister's relationship with the statutory entity under any other authority.
 (3) Despite section 28 of the State Sector Act 1988, the responsible Minister may not delegate any power under this Act except as provided in subsection (4).
@@ -451,8 +451,8 @@ A member of a statutory entity is entitled, in accordance with the fees framewor
 
 **Collective duties of board**
 
-### 49 Entity must act consistently with objectives, functions, statement of intent, and output agreement
-The board of a statutory entity must ensure that the entity acts in a manner consistent with its objectives, functions, current statement of intent, and output agreement (if any) under Part 4.
+### 49 Entity must act consistently with objectives, functions, statement of intent, and statement of performance expectations
+The board of a statutory entity must ensure that the entity acts in a manner consistent with its objectives, functions, current statement of intent, and current statement of performance expectations under Part 4.
 
 ### 50 Manner in which functions must be performed
 The board of a statutory entity must ensure that the statutory entity performs its functions—
@@ -733,7 +733,7 @@ A shareholding Minister of a Crown entity company must present the constitution 
   (a) to appoint and remove members by shareholder resolution in accordance with the Companies Act 1993; and
   (b) to review the operations and performance of the company under subpart 3 of Part 3; and
   (c) to request information from the entity under subpart 3 of Part 3, whether for a review or otherwise; and
-  (d) to participate in the process of setting and monitoring the company's strategic direction and targets under Part 4; and
+  (d) to participate in the process of setting the company's strategic direction and performance expectations and monitoring the company's performance under Part 4; and
   (e) to do other things under this Act or another Act or the company's constitution.
 (2) The shareholding Ministers may give directions to the company only if expressly authorised to do so by this Act or another Act.
 (3) This section does not limit another Minister's relationship with the Crown entity company under any other authority.
@@ -770,8 +770,8 @@ A member of a Crown entity company is not entitled to any compensation or other 
 
 **Collective duties of board**
 
-### 92 Duty to act consistently with objectives, functions, statement of intent, and output agreement
-The board of a Crown entity company must ensure that the company acts in a manner consistent with its objectives, functions, current statement of intent, and current output agreement (if any).
+### 92 Duty to act consistently with objectives, functions, statement of intent, and statement of performance expectations
+The board of a Crown entity company must ensure that the company acts in a manner consistent with its objectives, functions, current statement of intent, and current statement of performance expectations.
 
 ### 93 Subsidiaries
 A Crown entity company must ensure that the company complies with sections 96 to 101.
@@ -1133,7 +1133,7 @@ Amendment(s) incorporated in the Act(s).
   - **class of outputs** or has the meaning set out in section 2(1) of the Public Finance Act 1989
   - **Crown entity group** means a group comprising—
     (a) a Crown entity; and
-    (b) its Crown entity subsidiaries under paragraph (a) of the definition of Crown entity subsidiaries in column 2 of section 7(1)(c); and
+    (b) its Crown entity subsidiaries, other than multi-parent subsidiaries; and
     (c) any entity that is its subsidiary for the purpose of any financial reporting standard that applies to the Crown entity under generally accepted accounting practice
   - **debt security** has the meaning set out in section 2 of the Securities Act 1978
   - **derivative transaction** means—
@@ -1146,12 +1146,20 @@ Amendment(s) incorporated in the Act(s).
     (b) in relation to any other Crown entity, the 12 months ending on the close of 30 June or any other date determined for that entity by the Minister of Finance
   - **forecast financial statements** has the meaning set out in section 2(1) of the Public Finance Act 1989
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
+  - **next Budget day** means the day on which the Minister of Finance will next deliver a Budget under the Public Finance Act 1989
   - **outputs** —
     (a) means the goods or services that are supplied by a Crown entity; but
     (b) does not include goods and services that are produced for purchase or consumption solely within the Crown entity group
+  - **pre-Budget period** means—
+    (a) the period of 3 months ending when the Minister of Finance next delivers a Budget under the Public Finance Act 1989; or
+    (b) if the Minister of Finance gives less than 3 months' notice of the next Budget day, the period commencing on the day on which the Minister of Finance gives that notice and ending when the Minister of Finance delivers the Budget
   - **public security** has the meaning set out in section 2(1) of the Public Finance Act 1989
   - **registered bank** has the meaning set out in section 2 of the Reserve Bank of New Zealand Act 1989
   - **registered building society** means a building society within the meaning of the Building Societies Act 1965 that is registered on the register of building societies kept under that Act
+  - **reportable class of outputs** , in respect of a financial year, means a class of outputs—
+    (a) that the Crown entity proposes to supply in the financial year; and
+    (b) that is directly funded (in whole or in part) by the Crown in accordance with an appropriation for the purpose, or by grants distributed under any Act, or by levies, fees, or charges prescribed by or under any Act; and
+    (c) that is not exempted for that financial year under section 149F
   - **security** has the meaning set out in section 2D of the Securities Act 1978 except that it does not include the things referred to in subsection (1)(d) to (f) of that section
   - **working day** has the meaning set out in section 2(1) of the Public Finance Act 1989.
 (2) Any term or expression that is defined in the Public Finance Act 1989 and used, but not defined, in this Part has the same meaning as in the Public Finance Act 1989.
@@ -1162,78 +1170,74 @@ Amendment(s) incorporated in the Act(s).
 (1) This subpart applies in respect of financial years commencing on or after 1 January 2006.
 (2) Subsection (1) is subject to section 198.
 
-**Planning: Statement of intent**
+**Planning: statement of intent**
 
 ### 138 Purpose of statement of intent
 The purpose of a statement of intent is to promote the public accountability of a Crown entity by—
-  (a) enabling the Crown to participate in the process of setting the Crown entity's medium-term intentions and undertakings:
+  (a) enabling the Crown to participate in the process of setting the Crown entity's strategic intentions and medium-term undertakings:
   (b) setting out for the House of Representatives those intentions and undertakings:
   (c) providing a base against which the Crown entity's actual performance can later be assessed.
 
 ### 139 Obligation to prepare statement of intent
-(1) At or before the start of each financial year, a Crown entity must prepare a statement of intent for the Crown entity for that financial year and at least the 2 following financial years.
-(2) However, in the case of a Crown entity group,—
-  (a) the parent Crown entity must prepare a statement of intent for the Crown entity group as if—
-    (i) section 142(1)(a) required 2 forecast financial statements, 1 for the parent Crown entity and 1 for the Crown entity group; and
-    (ii) sections 138 to 142 otherwise required consolidated information in respect of the Crown entity group (rather than a single Crown entity); and
-  (b) no other member of the Crown entity group needs to prepare a statement of intent.
-(3) This section applies unless the Crown entity is exempted from its requirements by or under this or another Act.
+(1) A Crown entity must provide to its responsible Minister a statement of intent for the Crown entity that complies with this section and section 141.
+(2) A statement of intent must relate to the forthcoming financial year and at least the following 3 financial years.
+(3) The Crown entity must provide a statement of intent at least once in every 3-year period.
+(4) This section applies unless the Crown entity is exempted from the requirements of this section by or under this or another Act.
+
+### 139A Minister may require Crown entity to prepare new statement of intent at any time
+(1) A Crown entity's responsible Minister may, if the Minister considers it necessary or desirable, require the Crown entity to provide a new statement of intent at any time.
+(2) A statement of intent provided under this section must comply with sections 139 and 141.
+(3) Despite section 139(2), the Minister may require the new statement of intent to relate to the remainder of the current financial year in addition to the forthcoming financial year and at least the following 3 financial years.
+
+### 139B Minister may grant extension of time for, or waive, requirement to provide statement of intent
+(1) If a Crown entity is likely to have a significant change in the nature or scope of its functions, the responsible Minister may grant the Crown entity an extension, of up to 1 year, of the period specified in section 139(3).
+(2) However, the responsible Minister must not grant an extension unless he or she is satisfied that the extension will enable the entity to improve the quality of the statement of intent that it provides.
+(3) If a Crown entity is likely to be disestablished or, in the case of a Crown entity company, removed from the register under the Companies Act 1993, the responsible Minister may grant the entity a waiver of the requirements in section 139.
+(4) If the responsible Minister grants an extension or a waiver under this section,—
+  (a) the responsible Minister must, as soon as practicable after granting the extension or waiver, notify the Crown entity of the extension or waiver and the Minister's reasons for granting it; and
+  (b) the Crown entity must, as soon as practicable after receiving notice under paragraph (a), publish notice of the extension or waiver, and the Minister's reasons for granting it, on an Internet site maintained by or on behalf of the Crown entity; and
+  (c) the Crown entity must include, in the next annual report that it provides to its responsible Minister for presentation to the House of Representatives under section 150, a statement of the exemption or waiver and the Minister's reasons for granting it.
 
 ### 140 Statement of intent for newly established Crown entities
 (1) As soon as practicable after a Crown entity is established, the Crown entity must comply with section 139 as if it were the start of the financial year.
-(2) The process requirements of section 148(4), rather than section 146, apply to the process for preparing that statement of intent.
-(3) The responsible Minister may give directions to the Crown entity on any matters referred to in section 141(1)(b) to (d), (g), and (h) at any time before the Crown entity's statement of intent is in force under section 144.
+(2)
+(3) The responsible Minister may give directions to the Crown entity on any matters referred to in section 141(1) and (2)(a), (b), (d), and (e) at any time before the Crown entity's statement of intent is in force under section 144.
 (4) The directions apply as if they were the Crown entity's statement of intent, until the Crown entity's statement of intent is in force.
 (5) Sections 113, 114, and 115 apply to the directions.
-(6) An entity that becomes a Crown entity within 4 months before the end of the Crown entity's financial year, and that has prepared, in accordance with subsection (1), a statement of intent for the next financial year and at least the 2 following financial years, need not prepare a new statement of intent at or before the start of the next financial year.
+(6)
 
 ### 141 Content of statement of intent
-(1) Each statement of intent must contain the following information for the full period to which it relates:
-  (a) key background information about the Crown entity and its operating environment:
-  (b) the nature and scope of the entity's functions and intended operations:
-  (c) the specific impacts, outcomes, or objectives that the entity seeks to achieve or contribute to and, if the entity is directed to give effect to or have regard to government policy directions, how those objectives might relate to any outcomes or objectives referred to in the direction:
-  (d) how the entity intends to perform its functions and conduct its operations to achieve those impacts, outcomes, or objectives:
-  (e) how the entity proposes to manage the organisational health and the capability of the entity:
-  (f) the main financial and non-financial measures and standards by which the future performance of the Crown entity may be judged:
-  (g) the matters on which the Crown entity will consult or notify its responsible Minister before making a decision, the matters on which it will report to its responsible Minister, and the frequency of reporting:
-  (h) any process to be followed for the purpose of section 100:
-  (i) other matters the entity is required to include in its statement of intent under this Act or another Act:
-  (j) any other matters that are reasonably necessary to achieve an understanding of the entity's intentions and direction.
-(2) The statement of intent must also contain the information required by section 142 for the first financial year of the period to which it relates.
-(3) A statement of intent must be in writing, be dated, and be signed on behalf of the board by 2 members of the entity or, in the case of a corporation sole, by the sole member.
-(4) A Crown entity that is to be disestablished or significantly restructured may, with the agreement of the responsible Minister, provide a statement of intent that includes the information required under this section and section 142 for a period of less than 3 financial years.
+(1) A statement of intent must, for the period to which it relates, set out the strategic objectives that the entity intends to achieve or contribute to (strategic intentions).
+(2) A statement of intent must also, for the period to which it relates,—
+  (a) explain the nature and scope of the entity's functions and intended operations:
+  (b) explain how the entity intends to manage its functions and operations to meet its strategic intentions:
+  (c) explain how the entity proposes to manage its organisational health and capability:
+  (d) explain how the entity proposes to assess its performance:
+  (e) identify any process to be followed for the purpose of section 100:
+  (f) set out and explain any other matters—
+    (i) that are reasonably necessary to achieve an understanding of the entity's strategic intentions and capability:
+    (ii) that the entity is required to include in its statement of intent under this Act or another Act.
+(3) A statement of intent—
+  (a) must be in writing, be dated, and be signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member; and
+  (b) is a final statement of intent when it has been signed in accordance with paragraph (a).
 
 ### 142 Extra information required in statement of intent for first financial year
-(1) Each statement of intent must contain the following information for the first financial year of the period to which it relates:
-  (a) forecast financial statements for the entity that have been prepared in accordance with generally accepted accounting practice; and
-  (b) a statement of forecast service performance; and
-  (c) any other measures and standards necessary to assess the Crown entity's performance at the end of the financial year; and
-  (d) a statement of all significant assumptions underlying the forecast financial statements; and
-  (e) any additional information and explanations needed to fairly reflect the forecast financial operations and financial position of the entity.
-(2) The statement of forecast service performance must describe the classes of outputs the Crown entity proposes to supply (except to the extent that the entity is exempted under section 143) and—
-  (a) provide measures and forecast standards of output delivery performance against which the entity's actual delivery of classes of outputs will be reported and audited in the statement of service performance at the end of the financial year; and
-  (b) identify the expected revenue to be earned, and proposed expenses to be incurred, for each class of outputs; and
-  (c) comply with generally accepted accounting practice; and
-  (d) include a statement of any exemptions granted under section 143.
+[Repealed]
 
 ### 143 Exemption for certain outputs
-(1) The Minister of Finance may exempt, from any statement of forecast service performance required under section 142(1)(b) or any statement of service performance required under section 153(1), any class of outputs that the Minister is satisfied are—
-  (a) not directly funded (in whole or in part) by the Crown in accordance with an appropriation for the purpose, or by grants distributed under any Act, or by levies, fees, or charges prescribed by or under any Act; or
-  (b) to be adequately reported on, in that financial year, to the House of Representatives by a Minister, department, or another public entity.
-(2) The Minister of Finance may exempt a class of outputs under subsection (1) that includes outputs that do not comply with paragraph (a) or paragraph (b) of that subsection if the Minister is satisfied that those outputs have an insignificant value.
-(3) A statement of forecast service performance does not need to contain information about exempted outputs.
+[Repealed]
 
 ### 144 Application and term of statement of intent
 A statement of intent is in force—
   (a) from the later of—
     (i) the date on which the final statement of intent is provided to the responsible Minister; or
     (ii) the first day of the period to which the statement of intent relates; and
-  (b) until a new statement of intent is in force in relation to that entity or group (despite the end of any financial year to which the statement relates); and
+  (b) until a new statement of intent is in force in relation to that entity (despite the end of any financial year to which the statement relates); and
   (c) with any amendments that are made as described in section 147 or section 148.
 
 ### 145 Ministerial involvement in statements of intent
 Ministers may participate in determining the content of statements of intent as follows:
-  (a) a responsible Minister may agree with the Crown entity that information additional to that required by sections 141 and 142 be included in the statement of intent:
+  (a) a responsible Minister may agree with the Crown entity that information additional to that required by section 141 be included in the statement of intent:
   (b) a responsible Minister may, by written notice to 1 or more Crown entities, specify the particular form in which any information in the statement of intent must be disclosed:
   (c) a responsible Minister may make comments on a draft statement of intent under section 146 or on an amendment to a statement of intent proposed by the Crown entity under section 148:
   (d) a responsible Minister may direct amendments to certain information in a statement of intent under section 147.
@@ -1241,27 +1245,31 @@ Ministers may participate in determining the content of statements of intent as 
 ### 146 Process for providing statement of intent to responsible Minister
 (1) A Crown entity that is required to prepare a statement of intent must provide it to its responsible Minister.
 (2) The process that must be followed in providing a statement of intent is as follows:
-  (a) the Crown entity must provide a draft statement of intent to its responsible Minister by whichever is the later of—
-    (i) 30 days before the start of each financial year; or
-    (ii) if the Crown entity's financial year ends on 30 June, the date that the first Appropriation Bill relating to a financial year is introduced into the House of Representatives in accordance with section 12 of the Public Finance Act 1989; and
-  (b) the responsible Minister must provide to the entity any comments that he or she may have on the draft no later than—
-    (i) 14 days before the start of the financial year, if subsection (2)(a)(i) applies; or
-    (ii) 16 days after receiving the draft, if subsection (2)(a)(ii) applies; and
+  (a) the Crown entity must provide a draft statement of intent to its responsible Minister—
+    (i) not later than 2 months before the start of the first financial year to which the statement of intent relates; or
+    (ii) in the case of a newly established Crown entity, within the time frame specified by the responsible Minister; or
+    (iii) if the responsible Minister has requested the statement of intent under section 139A, within the time frame specified by the responsible Minister; and
+  (b) the responsible Minister must provide to the entity any comments that he or she may have on the draft not later than 15 working days after receiving it; and
   (c) the entity must consider the comments (if any) on the draft and provide the final statement of intent to its responsible Minister—
-    (i) on or before the start of the financial year, if subsection (2)(a)(i) applies; or
-    (ii) 30 days after the draft was supplied to the responsible Minister, if subsection (2)(a)(ii) applies.
+    (i) as soon as practicable after receiving the comments (if any) but before the start of the first financial year to which the statement of intent relates; or
+    (ii) in the case of a newly established Crown entity,—
+      (A) as soon as practicable, but not later than 25 working days, after receiving the comments; or
+      (B) if the responsible Minister does not provide comments within the period specified in paragraph (b), not later than 25 working days after the end of that period; or
+    (iii) if the responsible Minister has requested the statement of intent under section 139A,—
+      (A) as soon as practicable, but not later than 25 working days, after receiving the comments; or
+      (B) if the responsible Minister does not provide comments within the period specified in paragraph (b), not later than 25 working days after the end of that period.
 
-### 147 Amendments to statement of intent by responsible Minister
-(1) A responsible Minister of a Crown entity may direct a Crown entity to amend any provision that is included in the entity's statement of intent under section 141(1)(b), (c), (d), (f), (g), or (h) or section 142(1)(b).
-(2) If a responsible Minister intends to so direct, the process is as follows:
-  (a) the Minister must give a direction to the Crown entity specifying the amendment that it is required to give effect to; and
-  (b) sections 113, 114, and 115 apply.
-(3) The amendment to the statement of intent, as specified by the Minister, is in force from the effective date of the direction (which may not be earlier than the date on which the direction is presented to the House of Representatives under section 115).
-(4) The final amendment must be in writing, be dated, and be signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member.
+### 147 Amendments to final statement of intent by responsible Minister
+(1) A responsible Minister of a Crown entity may direct a Crown entity to amend any provision that is included in the entity's final statement of intent under section 141(1) or (2)(a), (b), (d), or (e).
+(2) Sections 113 to 115 (other than section 115(2)) apply to a direction under subsection (1).
+(3) The amendment to the statement of intent, as specified by the Minister, is in force from the effective date of the direction.
+(4) An amendment under this section—
+  (a) must be in writing, be dated, and be signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member; and
+  (b) is a final amendment when it has been signed in accordance with paragraph (a).
 (5) Section 148 does not apply to amendments made under this section.
 
-### 148 Amendments to statement of intent by Crown entity
-(1) A Crown entity may amend its statement of intent.
+### 148 Amendments to final statement of intent by Crown entity
+(1) A Crown entity may amend its final statement of intent.
 (2) A Crown entity must amend its statement of intent if—
   (a) the information contained in the statement of intent is false or misleading in a material particular; or
   (b) the intentions and undertakings in the statement of intent are significantly altered or affected by—
@@ -1269,26 +1277,170 @@ Ministers may participate in determining the content of statements of intent as 
     (ii) any change in the law; or
     (iii) any other change in the entity's operating environment.
 (3) The Crown entity must make the amendment required under subsection (2) as soon as practicable after the entity becomes aware of the facts that give rise to the obligation to amend under this section.
-(4) A Crown entity must amend its statement of intent in accordance with the following process:
+(4) The following process applies to an amendment under subsection (1) or (2):
   (a) the Crown entity must provide a draft amendment to its responsible Minister; and
-  (b) the responsible Minister must provide to the entity any comments that he or she may have no later than 14 days after receiving the draft; and
-  (c) the entity must consider the comments (if any) and must provide the final amendment to its responsible Minister as soon as practicable; and
-  (d) the final amendment to the statement of intent is in force from the date on which the final amendment is provided to the responsible Minister.
+  (b) the responsible Minister must provide to the entity any comments that he or she may have no later than 15 working days after receiving the draft; and
+  (c) the entity must consider the comments (if any) and must provide the final amendment to its responsible Minister as soon as practicable.
+  (d)
+(5) An amendment under this section—
+  (a) must be in writing, be dated, and be signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member; and
+  (b) is a final amendment when it has been signed in accordance with paragraph (a).
+(6) A final amendment under this section is in force from the date on which it is provided to the responsible Minister.
+(7) A Crown entity may, instead of amending its final statement of intent, provide to its responsible Minister under section 146 a new statement of intent that complies with sections 139 and 141.
 
-### 149 Obligation to present and publish statement of intent
-(1) A responsible Minister for a Crown entity must present a copy of the final statement of intent, and any amendment to it, to the House of Representatives no later than 5 working days after the final statement of intent or amendment (as the case may be) is received by the Minister or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
-(2) A responsible Minister who presents a final statement of intent that covers a limited period in accordance with section 141(4) must also present with it an explanation of why it was not possible to produce a statement of intent for the period of 3 financial years.
-(3) A Crown entity must publish its statement of intent as soon as practicable after it has been presented to the House of Representatives, but in any case not later than 10 working days after the statement of intent is received by the Minister, in a manner consistent with any instructions given under section 174.
+### 149 Obligation to publish and present statement of intent
+(1) A Crown entity must, as soon as practicable after providing a final statement of intent to its responsible Minister, publish the statement of intent on an Internet site maintained by or on behalf of the entity.
+(2) Despite subsection (1), if a final statement of intent relates to a period commencing on or after the next Budget day, the responsible Minister may require the Crown entity not to publish the statement in the pre-Budget period.
+(3) The responsible Minister (or another Minister, if subsection (5) applies) must present a copy of the final statement of intent to the House of Representatives—
+  (a) in the same document as the entity's annual report for the financial year before the first full financial year to which the statement of intent relates (see section 150); or
+  (b) in any other document presented on or before the date on which the annual report described in paragraph (a) is presented.
+(4) An entity's statement of intent may be presented or published in a document that includes any other statement or information, whether or not that other statement or information relates to the entity, but only if each statement or set of information is separately identifiable within that document.
+(5) A Minister other than the responsible Minister may present an entity's statement of intent to the House of Representatives if—
+  (a) the statement is presented in a document that includes another statement or other information; and
+  (b) that other Minister is responsible for presenting that other statement or information.
 
-**Reporting: Annual report**
+### 149A Obligation to publish and present amendments to statement of intent
+(1) As soon as practicable after an amendment to a statement of intent is finalised under section 147 or 148,—
+  (a) the Crown entity must publish the amendment on an Internet site maintained by or on behalf of the entity; and
+  (b) the responsible Minister must present a copy of the amendment to the House of Representatives.
+(2) Despite subsection (1),—
+  (a) if the amendment will come into force on or after the next Budget day, the responsible Minister—
+    (i) may require the entity not to publish the amendment in the pre-Budget period; and
+    (ii) need not present the amendment to the House of Representatives in that period; and
+  (b) the entity must not publish an amendment to a statement of intent before publishing the statement of intent under section 149; and
+  (c) the responsible Minister must not present a copy of an amendment to a statement of intent to the House of Representatives before presenting a copy of the statement of intent to the House of Representatives under section 149; and
+  (d) if Parliament is not in session, subsection (1)(b) does not apply, but the responsible Minister must present a copy of the amendment to the House of Representatives as soon as possible after the commencement of the next session of Parliament.
+
+**Planning: statement of performance expectations**
+
+### 149B Purpose of statement of performance expectations
+The purpose of a statement of performance expectations for a Crown entity is to—
+  (a) enable the responsible Minister to participate in the process of setting annual performance expectations; and
+  (b) enable the House of Representatives to be informed of those expectations; and
+  (c) provide a base against which actual performance can be assessed.
+
+### 149C Obligation to prepare statement of performance expectations
+(1) Before the start of each financial year, a Crown entity must prepare a statement of performance expectations for that financial year that complies with section 149E.
+(2) However, if the Crown entity does not propose to supply any reportable classes of outputs in that financial year, the entity's statement of performance expectations—
+  (a) must comply with section 149E(1)(b) to (d) and (3); but
+  (b) need not comply with section 149E(1)(a) or (2).
+
+### 149D Statement of performance expectations for newly established Crown entities
+(1) As soon as practicable after a Crown entity is established, the Crown entity must comply with section 149C as if it were the start of the financial year.
+(2) However, if the Crown entity is established during the last 4 months of its financial year, the responsible Minister may—
+  (a) waive the requirement for the entity to comply with subsection (1); and
+  (b) require the entity's first statement of performance expectations to cover the period from the date on which the entity is established until the end of the entity's first full financial year.
+(3) The responsible Minister may, at any time before the entity's first statement of performance expectations becomes final (see section 149E(3)(c)), give directions to the Crown entity on any matters referred to in section 149E, other than the forecast financial statements referred to in section 149E(1)(d).
+(4) The directions apply as if they were the Crown entity's statement of performance expectations until the entity's first statement of performance expectations becomes final.
+(5) Sections 113 to 115 apply to the directions.
+
+### 149E Content of statement of performance expectations
+(1) Each statement of performance expectations must, in relation to a Crown entity and a financial year,—
+  (a) identify each reportable class of outputs for the financial year; and
+  (b) identify each exemption granted under section 149F(1)(a) for the financial year; and
+  (c) state whether the entity proposes to supply any class of outputs in the financial year that is not a reportable class of outputs; and
+  (d) contain forecast financial statements that comply with section 149G.
+(2) For each reportable class of outputs, the statement of performance expectations must—
+  (a) include a concise explanation of what the class of outputs is intended to achieve; and
+  (b) identify the expected revenue and proposed expenses for the class of outputs; and
+  (c) include a concise explanation of how the performance of the class of outputs will be assessed.
+(3) A statement of performance expectations—
+  (a) must comply with generally accepted accounting practice; and
+  (b) must be in writing, be dated, and be signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member; and
+  (c) is a final statement of performance expectations when it has been signed in accordance with paragraph (b).
+
+### 149F Exemption for certain outputs
+(1) The Minister of Finance may exempt, for 1 or more financial years or until further notice, 1 or more classes of outputs from—
+  (a) any statement of performance expectations required under section 149C or 149D; or
+  (b) any statement of performance required under section 151(1)(b).
+(2) The Minister of Finance must not exempt a class of outputs from a statement of performance expectations or a statement of performance unless he or she is satisfied that—
+  (a) the class of outputs is not material to the statement; or
+  (b) the class of outputs will be adequately reported on to the House of Representatives by a Minister, a department, or another public entity; or
+  (c) for any other reason, the exemption does not unreasonably compromise accountability for the performance of the Crown entity.
+
+### 149G Forecast financial statements
+(1) Each statement of performance expectations, in relation to a Crown entity and a financial year, must contain forecast financial statements for the financial year, prepared in accordance with generally accepted accounting practice.
+(2) The forecast financial statements must include—
+  (a) a statement of all significant assumptions underlying the forecast financial statements; and
+  (b) any additional information and explanations needed to fairly reflect the forecast financial operations and financial position of the entity.
+
+### 149H Ministerial involvement in statements of performance expectations
+Ministers may participate in determining the contents of statements of performance expectations as follows:
+  (a) a responsible Minister may agree with a Crown entity that information additional to that required by section 149E be included in the statement of performance expectations:
+  (b) a responsible Minister may, by written notice to 1 or more Crown entities, specify the particular form in which any information in the statement of performance expectations must be disclosed:
+  (c) a responsible Minister may make comments on a draft statement of performance expectations under section 149I or on an amendment to a final statement of performance expectations proposed by a Crown entity under section 149K:
+  (d) a responsible Minister may direct amendments to information in a final statement of performance expectations under section 149J.
+
+### 149I Process for providing statement of performance expectations to responsible Minister
+(1) A Crown entity that is required to prepare a statement of performance expectations must provide it to its responsible Minister.
+(2) The process that must be followed in providing a statement of performance expectations is as follows:
+  (a) the Crown entity must provide a draft statement of performance expectations to its responsible Minister—
+    (i) not later than 2 months before the start of the financial year to which the statement of performance expectations relates; or
+    (ii) in the case of a newly established Crown entity to which section 149D applies, within the time frame specified by the responsible Minister; and
+  (b) the responsible Minister must provide to the entity any comments that he or she may have on the draft not later than 15 working days after receiving it; and
+  (c) the entity must consider the comments (if any) on the draft and provide the final statement of performance expectations to the responsible Minister—
+    (i) as soon as practicable after receiving the comments (if any), but before the start of the financial year to which the statement of performance expectations relates; or
+    (ii) if the Crown entity is a newly established entity to which section 149D applies,—
+      (A) as soon as practicable, but not later than 25 working days, after receiving the comments; or
+      (B) if the responsible Minister does not provide comments within the period specified in paragraph (b), not later than 25 working days after the end of that period.
+
+### 149J Amendments to final statement of performance expectations by responsible Minister
+(1) A responsible Minister for a Crown entity may direct a Crown entity to amend any provision that is included in the entity's final statement of performance expectations.
+(2) However, subsection (1) does not apply in respect of the forecast financial statements included in an entity's statement of performance expectations.
+(3) Sections 113 to 115 (other than section 115(2)) apply to a direction under subsection (1).
+(4) An amendment under this section—
+  (a) must be in writing, be dated, and be signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member; and
+  (b) is a final amendment when it has been signed in accordance with paragraph (a).
+(5) Section 149K does not apply to amendments made under this section.
+
+### 149K Amendments to final statement of performance expectations by Crown entity
+(1) A Crown entity may amend its final statement of performance expectations at any time.
+(2) A Crown entity must amend its final statement of performance expectations if—
+  (a) the information contained in the final statement of performance expectations is false or misleading in a material particular; or
+  (b) the intentions and undertakings in the final statement of performance expectations are significantly altered or affected by—
+    (i) a direction given to the Crown entity by a Minister; or
+    (ii) a direction under section 107; or
+    (iii) any change in the law; or
+    (iv) any other change in the entity's operating environment.
+(3) The Crown entity must make an amendment required under subsection (2) as soon as practicable after the entity becomes aware of the facts that give rise to the obligation to amend under this section.
+(4) A Crown entity must amend its statement of performance expectations in accordance with the following process:
+  (a) the Crown entity must provide a draft amendment to its responsible Minister; and
+  (b) the responsible Minister must provide to the entity any comments that he or she may have not later than 15 working days after receiving the draft; and
+  (c) the entity must consider the comments (if any) and provide the final amendment to its responsible Minister as soon as practicable.
+(5) An amendment under this section—
+  (a) must be in writing, be dated, and be signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member; and
+  (b) is a final amendment when it has been signed in accordance with paragraph (a).
+
+### 149L Obligation to publish and present statement of performance expectations
+(1) A Crown entity must, as soon as practicable after providing a final statement of performance expectations to its responsible Minister, publish the statement on an Internet site maintained by or on behalf of the entity.
+(2) However, if the final statement of performance expectations relates to a period commencing on or after the next Budget day, the responsible Minister may require the Crown entity not to publish the statement in the pre-Budget period.
+(3) The responsible Minister (or another entity's responsible Minister, if subsection (5) applies) must present a copy of the final statement of performance expectations to the House of Representatives—
+  (a) in the same document as the entity's annual report for the previous financial year (see section 150); or
+  (b) in any other document presented on or before the date on which the annual report described in paragraph (a) is presented.
+(4) An entity's statement of performance expectations may be presented or published in a document that includes any other statement or information, whether or not that other statement or information relates to the entity, but only if each statement or set of information is separately identifiable within that document.
+(5) A Minister other than the responsible Minister may present an entity's statement of performance expectations to the House of Representatives if—
+  (a) the statement is presented in a document that includes another statement or other information; and
+  (b) that other Minister is responsible for presenting that other statement or information.
+
+### 149M Obligation to publish and present amendments to statement of performance expectations
+(1) As soon as practicable after an amendment to a final statement of performance expectations is finalised under section 149J or 149K,—
+  (a) the Crown entity must publish the amendment on an Internet site maintained by or on behalf of the entity; and
+  (b) the responsible Minister must present a copy of the amendment to the House of Representatives.
+(2) Despite subsection (1),—
+  (a) if the amendment will come into force on or after the next Budget day, the responsible Minister—
+    (i) may require the entity not to publish the amendment in the pre-Budget period; and
+    (ii) need not present the amendment to the House of Representatives in that period; and
+  (b) the entity must not publish an amendment to a statement of performance expectations before publishing the statement of performance expectations under section 149L; and
+  (c) the responsible Minister must not present a copy of an amendment to a statement of performance expectations to the House of Representatives before presenting a copy of the statement of performance expectations to the House of Representatives under section 149L; and
+  (d) if Parliament is not in session, subsection (1)(b) does not apply, but the responsible Minister must present a copy of the amendment to the House of Representatives as soon as possible after the commencement of the next session of Parliament.
+
+**Reporting: annual report**
 
 ### 150 Obligation to prepare, present, and publish annual report
 (1) A Crown entity must—
-  (a) at the end of each financial year, prepare a report on the affairs of the Crown entity; and
+  (a) as soon as practicable after the end of each financial year, prepare a report on the affairs of the Crown entity; and
   (b) provide the report to its responsible Minister no later than 15 working days after receiving the audit report provided under section 156.
-(2) However, in the case of a Crown entity group,—
-  (a) the parent Crown entity must prepare an annual report on the affairs of the Crown entity group; and
-  (b) no other member of the Crown entity group needs to prepare an annual report.
+(2)
 (3) A responsible Minister of a Crown entity (or another Minister, if subsection (6) applies) must present the entity's annual report to the House of Representatives within 5 working days after the responsible Minister receives the annual report or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
 (4) A Crown entity must publish its annual report as soon as practicable after it has been presented to the House of Representatives, but in any case not later than 10 working days after the annual report is received by the Minister, in a manner consistent with any instructions given under section 174.
 (5) An entity's annual report may be presented or published in a document that includes any other report or information, whether or not that other report or information relates to the entity, but only if each report or set of information is separately identifiable within that document.
@@ -1296,11 +1448,14 @@ Ministers may participate in determining the content of statements of intent as 
   (a) the report is presented in a document that includes another report or other information; and
   (b) that other Minister is responsible for presenting that other report or information.
 
+### 150A Special annual reporting requirements
+Section 150 is subject to subpart 1 of Part 5 of the Public Finance Act 1989, which sets out special reporting requirements for newly established entities and entities that are disestablished.
+
 ### 151 Form and content of annual report
 (1) An annual report must contain the following information and reports in respect of the financial year to which it relates:
   (a) information on operations that complies with subsection (2); and
-  (b) a statement of service performance in accordance with section 153; and
-  (c) the annual financial statements for the entity and, if the entity is the parent of a Crown entity group, the consolidated financial statements for the group in accordance with section 154; and
+  (b) a statement of performance in accordance with section 153; and
+  (c) the annual financial statements for the entity in accordance with section 154; and
   (d) a statement of responsibility in accordance with section 155; and
   (e) the audit report in accordance with section 156; and
   (f) any new direction given to the entity by a Minister in writing under any enactment during that financial year, as well as other such directions that remain current; and
@@ -1309,31 +1464,33 @@ Ministers may participate in determining the content of statements of intent as 
   (i) information required by section 20(3) (which relates to the enforcement of certain natural person transactions); and
   (j) information required by section 68(6) (which relates to permission to act despite being interested in a matter); and
   (k) any matters that relate to or affect the entity's operations that the entity is otherwise required, or has undertaken, or wishes to report on in its annual report.
-(2) The annual report must provide the information that is necessary to enable an informed assessment to be made of the entity's operations and performance for that financial year, including an assessment against the intentions, measures, and standards set out in the statement of intent prepared at the beginning of the financial year.
+(1A) However, subsection (1)(b) does not apply unless the Crown entity supplied 1 or more reportable classes of outputs in that financial year.
+(1B) An annual report may contain end-of-year performance information that the Crown entity is required to prepare under section 19A of the Public Finance Act 1989.
+(2) The annual report must provide the information that is necessary to enable an informed assessment to be made of the entity's operations and performance for that financial year, including an assessment of the entity's progress in relation to its strategic intentions as set out in the most recent statement of intent.
 (3) An annual report must be in writing, be dated, and be signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member.
 
 ### 152 Disclosure of payments in respect of members, committee members, and employees
-(1) The annual report must include, in respect of the Crown entity or, in the case of a Crown entity group, for each Crown entity in the group,—
-  (a) for each member, the total value of the remuneration (other than compensation or other benefits referred to in paragraph (d)) paid or payable to the member in his or her capacity as a member from the entity (or entities in the group, as the case may be) during that financial year; and
-  (b) for each committee member who is not a board member or an employee, the total value of the remuneration (other than compensation or other benefits referred to in paragraph (d)) paid or payable to the member in his or her capacity as a committee member from the entity (or entities in the group, as the case may be) during that financial year; and
+(1) The annual report must include, in respect of the Crown entity,—
+  (a) for each member, the total value of the remuneration (other than compensation or other benefits referred to in paragraph (d)) paid or payable to the member in his or her capacity as a member from the entity during that financial year; and
+  (b) for each committee member who is not a board member or an employee, the total value of the remuneration (other than compensation or other benefits referred to in paragraph (d)) paid or payable to the member in his or her capacity as a committee member from the entity during that financial year; and
   (c) the number of employees to whom, during the financial year, remuneration (other than compensation or other benefits referred to in paragraph (d)) was paid or payable in their capacity as employees, the total value of which is or exceeds $100,000 per annum, and the number of those employees in brackets of $10,000; and
   (d) the total value of any compensation or other benefits paid or payable to persons who ceased to be members, committee members, or employees during the financial year in relation to that cessation and the number of persons to whom all or part of that total was paid or payable; and
   (e) details of any indemnity provided by the entity during the financial year to any member, office holder, or employee; and
   (f) details of any insurance cover effected by the entity during the financial year in respect of the liability or costs of any member, office holder, or employee.
+(1A) Despite section 156A, the annual report of a Crown entity that has 1 or more subsidiaries must include the information specified in subsection (1) in respect of each subsidiary as well as in respect of the Crown entity.
 (2) In subsection (1), member and office holder and employee include a person who was a member or office holder or employee at any time after the commencement of this Act but who is no longer a member, office holder, or employee.
 
-### 153 Form and content of statement of service performance
-(1) A statement of service performance must—
+### 153 Form and content of statement of performance
+A statement of performance must, in relation to a Crown entity and a financial year,—
   (a) be prepared in accordance with generally accepted accounting practice; and
-  (b) describe each class of outputs supplied by the entity during the financial year; and
-  (c) include, for each class of outputs,—
-    (i) the standards of delivery performance achieved by the entity, as compared with the forecast standards included in the entity's statement of forecast service performance at the start of the financial year; and
-    (ii) the actual revenue earned and output expenses incurred, as compared with the expected revenues and proposed output expenses included in the entity's statement of forecast service performance at the start of the financial year.
-(2) A Crown entity need not prepare a statement of service performance in respect of outputs for which it has an exemption under section 143.
+  (b) describe each reportable class of outputs for the financial year; and
+  (c) include, for each reportable class of outputs identified in the entity's statement of performance expectations for the financial year,—
+    (i) the standards of delivery performance achieved by the entity, as compared with the forecast standards included in the entity's statement of performance expectations for the financial year; and
+    (ii) the actual revenue earned and output expenses incurred, as compared with the expected revenues and proposed output expenses included in the entity's statement of performance expectations for the financial year.
 
 ### 154 Annual financial statements
-(1) At the end of each financial year, a Crown entity must prepare financial statements in relation to the entity for that financial year.
-(2) In addition, a Crown entity that is a parent of a Crown entity group must prepare consolidated financial statements in relation to the group for that financial year.
+(1) As soon as practicable after the end of each financial year, a Crown entity must prepare financial statements in relation to the entity for that financial year.
+(2)
 (3) The financial statements must—
   (a) comply with generally accepted accounting practice; and
   (b) include any other information or explanations needed to fairly reflect the financial operations and financial position; and
@@ -1341,23 +1498,83 @@ Ministers may participate in determining the content of statements of intent as 
 
 ### 155 Statement of responsibility
 The statement of responsibility must—
-  (a) contain a statement of the signatories' responsibility for the preparation of the financial statements and statement of service performance and for the judgments in them; and
+  (a) contain a statement of the signatories' responsibility for the preparation of the financial statements and statement of performance and for the judgments in them; and
   (b) contain a statement of the signatories' responsibility for establishing and maintaining a system of internal control designed to provide reasonable assurance as to the integrity and reliability of financial reporting; and
-  (c) contain a statement that, in the opinion of the signatories, the financial statements and statement of service performance for the financial year fairly reflect the financial position and operations of the Crown entity; and
+  (c) contain a statement that, in the opinion of the signatories, the financial statements and statement of performance for the financial year fairly reflect the financial position and operations of the Crown entity; and
+  (ca) contain a statement of the signatories' responsibility for any end-of-year performance information provided by the Crown entity under section 19A of the Public Finance Act 1989, whether or not that information is included in the Crown entity's annual report; and
   (d) be dated and signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member.
 
 ### 156 Audit report
-(1) A Crown entity must forward to the Auditor-General—
-  (a) its annual financial statements, statement of service performance, and any other information that the Auditor-General has agreed, or is required, to audit within 3 months after the end of each financial year; and
-  (b) its annual report in a timely manner to enable the Auditor-General to review that report before providing the audit report required under subsection (2)(b).
+(1) A Crown entity must forward to the Auditor-General,—
+  (a) within 3 months after the end of each financial year,—
+    (i) the Crown entity's annual financial statements and statement of performance (if applicable); and
+    (ii) any end-of-year performance information that the Crown entity is required to provide under section 19A of the Public Finance Act 1989; and
+    (iii) any other information that the Auditor-General has agreed, or is required, to audit; and
+  (b) the Crown entity's annual report in a timely manner to enable the Auditor-General to review that report before providing the audit report required under subsection (2)(b).
 (2) The Auditor-General must—
-  (a) audit the statements referred to in subsection (1)(a); and
-  (b) provide an audit report on them to the Crown entity within 4 months after the end of each financial year.
+  (a) audit the statements and information referred to in subsection (1)(a); and
+  (b) provide an audit report to the Crown entity within 4 months after the end of each financial year.
 
-### 157 Reporting by multi-parent subsidiaries
-(1) A multi-parent subsidiary must comply with the requirements of this subpart.
-(2) However, the Minister of Finance may exempt a multi-parent subsidiary from the requirement to prepare a statement of intent or an annual report if the Minister is satisfied that it would be unduly onerous on the multi-parent subsidiary to comply with the requirement.
-(3) The exemption may be granted subject to any conditions the Minister thinks fit (which may include the condition that the statement of intent or annual report of one of the parents must cover the multi-parent subsidiary).
+**Application of this subpart to Crown entity groups**
+
+### 156A Application of this subpart to Crown entity groups
+(1) A Crown entity (entity A) that is a member of a Crown entity group need not comply with this subpart except as required by this section and section 156B.
+(2) Entity A must prepare a statement or report under this subpart if, at the relevant time,—
+  (a) entity A has 1 or more subsidiaries; and
+  (b) entity A is not a subsidiary of another Crown entity.
+(3) If entity A is required by this section to prepare a statement or report, this subpart—
+  (a) must be read as if it required the statement or report to include consolidated information in respect of the Crown entity group comprising entity A and its subsidiaries, rather than information in respect of entity A only; and
+  (b) otherwise applies with any necessary modifications.
+(4) In this section,—
+  - **relevant time** , in relation to a statement or report, means—
+    (a) the end of the period to which the statement or report relates; or
+    (b) if the statement or report relates to a period that includes a future period, the time when the statement or report is provided to entity A's responsible Minister
+  - **statement or report** means any of the following:
+    (a) statement of intent (see section 139):
+    (b) statement of performance expectations (see section 149C):
+    (c) forecast financial statements (see section 149G):
+    (d) annual report (see section 150):
+    (e) statement of performance (see section 153):
+    (f) annual financial statements (see section 154)
+  - **subsidiary** means a subsidiary within the meaning of paragraph (b) or (c) of the definition of Crown entity group in section 136(1).
+
+### 156B Minister of Finance may require additional reporting
+(1) Despite section 156A, the Minister of Finance may, by notice in writing, require entity A or any other member of a Crown entity group (a specified entity) to prepare 1 or more statements or reports under this subpart as if it were not a member of a Crown entity group.
+(2) A notice must specify—
+  (a) which statements and reports are required; and
+  (b) the financial years or other period (which may be until further notice) for which each statement or report is required.
+(3) Before issuing a notice, the Minister of Finance must—
+  (a) consider the operations and functions of the specified entity; and
+  (b) consult the responsible Minister for the parent Crown entity of the Crown entity group to which the specified entity belongs; and
+  (c) be satisfied that each statement or report is necessary or desirable to enhance public accountability of the specified entity.
+(4) If a specified entity is required under this section to prepare a statement or report, this subpart applies with any necessary modifications.
+
+**Multi-parent subsidiaries: exemptions from reporting requirements under this subpart**
+
+### 157 Multi-parent subsidiaries part-owned by school board of trustees or tertiary education institution
+(1) This section applies to a multi-parent subsidiary if any of its parent Crown entities is a school board of trustees or tertiary education institution.
+(2) The Minister of Finance may, by notice in writing, exempt the multi-parent subsidiary from the requirement to prepare a statement or report (as defined in section 156A(4)) if the Minister is satisfied that—
+  (a) it would be unduly onerous for the multi-parent subsidiary to comply with the requirement; and
+  (b) the exemption is consistent with maintaining reasonable public accountability of the multi-parent subsidiary.
+(3) A notice must specify—
+  (a) which statements or reports are not required; and
+  (b) the financial years or other period (which may be until further notice) for which each statement or report is not required.
+(4) The exemption may be granted subject to any terms or conditions the Minister thinks fit (which may include a condition that a parent Crown entity must, in its equivalent statement or report, include certain information about the multi-parent subsidiary).
+(5) As soon as practicable after granting an exemption, the Minister must—
+  (a) notify the exemption, and its terms and conditions, in the Gazette; and
+  (b) present to the House of Representatives a statement of the exemption and its terms and conditions.
+
+### 157A Other multi-parent subsidiaries
+(1) This section applies to a multi-parent subsidiary other than a multi-parent subsidiary to which section 157 applies.
+(2) The multi-parent subsidiary need not comply with this subpart except as required under this section.
+(3) The Minister of Finance may, by notice in writing, require the multi-parent subsidiary to prepare 1 or more statements or reports (as defined in section 156A(4)).
+(4) A notice must specify—
+  (a) which statements or reports are required; and
+  (b) the financial years or other period (which may be until further notice) for which each statement or report is required.
+(5) Before issuing a notice, the Minister of Finance must—
+  (a) consider the operations and functions of the multi-parent subsidiary; and
+  (b) consult the responsible Minister for each parent Crown entity of the multi-parent subsidiary; and
+  (c) be satisfied that each statement or report is necessary or desirable to enhance public accountability of the multi-parent subsidiary.
 
 ### Subpart 3 — Other provisions for financial accountability
 
@@ -1417,7 +1634,7 @@ Sections 160 to 164 apply on and after 1 April 2005.
 A Crown entity must not borrow from any person, or amend the terms of any borrowing, other than as provided in section 160.
 
 ### 163 Restrictions on giving of guarantees and indemnities
-(1) A Crown entity must not, with or without security, give a guarantee to, or indemnify, another person other than as provided in section 160.
+(1) A Crown entity must not, with or without security, give a guarantee to, or indemnify, another person, or amend the terms of any such guarantee or indemnity, other than as provided in section 160.
 (2) This section does not apply if the other person is—
   (a) a member, office holder, committee member, employee, or other individual indemnified by the board in relation to any claim or proceeding under—
     (i) section 122 of this Act; or
@@ -1471,12 +1688,8 @@ A Crown entity must not enter into a derivative transaction, or amend the terms 
 ### 169 Taxation of statutory entities
 A statutory entity is a public authority for the purpose of the Inland Revenue Acts (as that term is defined in the Tax Administration Act 1994) unless either those Acts or the entity's Act provides otherwise.
 
-### 170 Power to require output agreement
-(1) A Minister may require a Crown entity to have in place an output agreement for any or all outputs that the Crown entity intends to provide that do not qualify for an exemption under section 143(1)(a).
-(2) The purpose of an output agreement is to assist a Minister and a Crown entity to clarify, align, and manage their respective expectations and responsibilities in relation to the funding and production of certain outputs, including the particular standards, terms, and conditions under which the Crown entity will deliver and be paid for the specified outputs.
-(3) An output agreement may be for 1 year or any other term agreed between the parties, may be entered into at any time, and may be updated to reflect any changes agreed between the parties during its term.
-(4) An output agreement need not be legally enforceable as an agreement, but gives rise to legally enforceable board member duties under sections 49 and 92.
-(5) An output agreement must be in writing, be dated, and be signed by, or on behalf of, the Minister and the Crown entity.
+### 170 Responsible Minister may set standards, terms, and conditions in respect of certain classes of outputs
+A responsible Minister may set standards, terms, and conditions in respect of any reportable class of outputs that a Crown entity proposes to supply.
 
 ### 171 Offences
 (1) Every person commits an offence against this Act who knowingly—
@@ -1739,8 +1952,8 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 | Children's Commissioner |  |  |  |  |  |
 | Commerce Commission |  |  |  |  |  |
 | Drug Free Sport New Zealand |  |  |  |  |  |
-| Electricity Authority |  |  |  |  |  |
 | Electoral Commission |  |  |  |  |  |
+| Electricity Authority |  |  |  |  |  |
 | External Reporting Board |  |  |  |  |  |
 | Financial Markets Authority |  |  |  |  |  |
 | Health and Disability Commissioner |  |  |  |  |  |
