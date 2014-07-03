@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-07-03_
 
 > Title
 
@@ -13,7 +13,13 @@ _Consolidation as at 2014-04-01_
   - **code company** has the meaning given to it in section 2A
   - **company** has the same meaning as in section 2(1) of the Companies Act 1993
   - **court** means, in relation to any matter, the court before which the matter is to be determined
-  - **director** means, in relation to a company or other body corporate, any person occupying the position of a director of the company or body by whatever name called
+  - **director** ,—
+    (a) in relation to a company, means a person occupying the position of a director of the company, by whatever name called; and
+    (b) in relation to a partnership (other than a special partnership or a limited partnership), means a partner; and
+    (c) in relation to a special partnership or a limited partnership, means a general partner; and
+    (d) in relation to a body corporate or unincorporate not referred to in paragraphs (a) to (c), means a person occupying a position in the body corporate that is comparable with that of a director of a company; and
+    (e) in relation to any other person, means that person; and
+    (f) includes a person in accordance with whose directions or instructions a person referred to in paragraphs (a) to (e) may be required or is accustomed to act in respect of the performance or exercise of duties or powers as, or comparable to those of, a director
   - **document** means any record of information; and includes—
     (a) anything on which there is writing or any image; and
     (b) information recorded by means of any article or device (for example, a disk) from which information is capable of being reproduced with or without the aid of any other article or device; and
@@ -120,6 +126,7 @@ The object of this Act is to—
   (d) to investigate any act or omission or practice for the purpose of exercising its powers and functions under Parts 3 and 4:
   (e) to make determinations and orders and make applications to the court in accordance with Part 3:
   (ea) to co-operate with any overseas regulator and, for that purpose (but without limiting this function), to communicate, or make arrangements for communicating, to that overseas regulator information obtained by the Panel in the performance of its functions and powers (whether or not confidential) that the Panel considers may assist that overseas regulator in the performance of its functions:
+  (eb) to consider applications for an order under section 236(1) of the Companies Act 1993 that affects the voting rights of a code company (within the meaning of that term in section 236A of the Companies Act 1993), and to indicate whether or not it has an objection to such an order:
   (f) to promote public understanding of the law and practice relating to takeovers:
   (g) to perform such other functions as are conferred on it by this Act.
 (2) In the exercise of its functions and powers under Parts 3 and 4 and the takeovers code, the Panel shall comply with the principles of natural justice.
@@ -238,6 +245,9 @@ Without limiting section 19, but subject to section 23, regulations under that s
 Nothing in the takeovers code shall require any person to comply with the code—
   (a) by reason only of the fact that, on the coming into force of the code, a particular proportion of securities have been acquired in a code company, whether by that person or any other person, before the code comes into force; or
   (b) by reason of the acquisition of securities in a code company, whether by that person or any other person, on or after the coming into force of the code, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the date on which an approved takeovers code comes into force.
+
+### 23A Takeovers code does not apply where court order under section 236 of Companies Act 1993
+The takeovers code does not apply where the court has made an order under section 236(1) of the Companies Act 1993 that affects the voting rights of a code company (within the meaning of that term in section 236A of the Companies Act 1993).
 
 ### 24 Co-ordination with Australia
 In formulating recommendations concerning a takeovers code, the Minister must have regard, as far as practicable, to any principles applying to the co-ordination of business law between Australia and New Zealand set out in any agreement or memorandum of understanding between the Governments of Australia and New Zealand.
@@ -947,7 +957,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 ### 50 Amendment to Public Finance Act 1989
 [Repealed]
 
-## Schedule Schedule — Provisions applying to Takeovers Panel
+## Schedule  — Provisions applying to Takeovers Panel
 
 ### 1 Term of office
 [Repealed]
