@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2014-07-03_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -23,6 +23,7 @@ _Consolidation as at 2014-06-17_
   - **board** and have the meanings set out in section 127
   - **charge** includes a right or interest in relation to property owned by a company, by virtue of which a creditor of the company is entitled to claim payment in priority to creditors entitled to be paid under section 313; but does not include a charge under a charging order issued by a court in favour of a judgment creditor
   - **class** has the meaning set out in section 116
+  - **code company** has the meaning set out in section 2(1) of the Takeovers Act 1993
   - **company** means—
     (a) a company registered under Part 2:
     (b) a company reregistered under this Act in accordance with the Companies Reregistration Act 1993
@@ -1501,6 +1502,13 @@ A director of a company, when exercising powers or performing duties as a direct
   (b) makes proper inquiry where the need for inquiry is indicated by the circumstances; and
   (c) has no knowledge that such reliance is unwarranted.
 
+### 138A Offence for serious breach of director's duty to act in good faith and in best interests of company
+(1) A director of a company commits an offence if the director exercises powers or performs duties as a director of the company—
+  (a) in bad faith towards the company and believing that the conduct is not in the best interests of the company; and
+  (b) knowing that the conduct will cause serious loss to the company.
+(2) However, a director does not commit an offence under subsection (1) if the power or duty in question is exercised or performed under any of section 131(2) to (4) or is a power exercised under section 132.
+(3) A person who commits an offence under this section is liable on conviction to the penalties set out in section 373(4).
+
 **Transactions involving self-interest**
 
 ### 139 Meaning of interested
@@ -2589,7 +2597,8 @@ If the annual return contains—that is different from the address of the regist
 ## Part 13 — Amalgamations
 
 ### 219 Amalgamations
-Two or more companies may amalgamate, and continue as 1 company, which may be one of the amalgamating companies, or may be a new company.
+(1) Except as provided in subsection (2), 2 or more companies may amalgamate, and continue as 1 company, which may be one of the amalgamating companies, or may be a new company.
+(2) A code company may not amalgamate under sections 220 and 221.
 
 ### 220 Amalgamation proposal
 (1) An amalgamation proposal must set out the terms of the amalgamation, and in particular—
@@ -2804,6 +2813,25 @@ In this Part, unless the context otherwise requires,—
 (3) An order made under this section has effect on and from the date specified in the order.
 (4) Within 10 working days of an order being made by the court, the board of the company must ensure that a copy of the order is delivered to the Registrar for registration.
 (5) If the board of a company fails to comply with subsection (4), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
+
+### 236A Arrangement or amalgamation involving code company
+(1) If a proposed arrangement or amalgamation affects the voting rights of a code company, the applicant for an order under section 236(1) must, at the same time as filing the application, notify the Takeovers Panel of the application.
+(2) The court may not make an order under section 236(1) that affects the voting rights of a code company unless—
+  (a) the code company's shareholders approve the arrangement or amalgamation in accordance with subsection (4); and
+  (b) either of the following applies:
+    (i) the court is satisfied that the shareholders of the code company will not be adversely affected by the use of section 236(1) rather than the takeovers code to effect the change involving the code company; or
+    (ii) the applicant has filed a statement from the Takeovers Panel indicating that the Takeovers Panel has no objection to an order being made under section 236(1).
+(3) The court need not approve a proposed arrangement or amalgamation merely because the Takeovers Panel has no objection to an order being made under section 236(1).
+(4) For the purposes of subsection (2)(a), the code company's shareholders may only approve the arrangement or amalgamation in the following way:
+  (a) by a resolution approved by a majority of 75% of the votes of the shareholders in each interest class entitled to vote and voting on the question; and
+  (b) by a resolution approved by a simple majority of the votes of those shareholders entitled to vote.
+(5) For the purposes of this section and section 236B,—
+  - **affects the voting rights** , in respect of an arrangement or amalgamation, means an arrangement or amalgamation that involves a change in the relative percentage of voting rights held or controlled by 1 or more shareholders
+  - **interest class** may be determined in accordance with the principles set out in Schedule 10
+  - **voting right** has the meaning set out in section 2(1) of the Takeovers Act 1993.
+
+### 236B Takeovers code does not apply where court order under section 236
+The takeovers code does not apply where the court has made an order under section 236(1) that affects the voting rights of a code company.
 
 ### 237 Court may make additional orders
 (1) Without limiting section 236, the court may, for the purpose of giving effect to any arrangement or amalgamation or compromise approved under that section, either by the order approving the arrangement or amalgamation or compromise, or by any subsequent order, provide for, and prescribe terms and conditions relating to,—
@@ -5791,7 +5819,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (c) section 377 (which relates to false statements):
   (d) section 378 (which relates to the fraudulent use or destruction of property):
   (e) section 379 (which relates to falsifying records):
-  (f) section 380 (which relates to carrying on business fraudulently):
+  (f) section 380 (which relates to carrying on business fraudulently or dishonestly incurring debt):
   (g) section 382(4) (which relates to persons prohibited from managing companies):
   (h) section 383(5) (which relates to acting as a director of a company while prohibited by the court):
   (i) section 385(9) (which relates to acting as a director of a company or taking part in the management of a company while prohibited by the Registrar or the FMA):
@@ -5883,7 +5911,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
 
 ### 378 Fraudulent use or destruction of property
 Every director, employee, or shareholder of a company who—commits an offence, and is liable on conviction to the penalties set out in section 373(4).
-  (a) fraudulently takes or applies property of the company for his or her own use or benefit, or for a use or purpose other than the use or purpose of the company; or
+  (a) fraudulently takes or applies property of the company for his or her own use or benefit, or for a use or purpose other than the use or purpose of the company, or for the use or benefit of a person other than the company; or
   (b) fraudulently conceals or destroys property of the company—
 
 ### 379 Falsification of records
@@ -5894,7 +5922,7 @@ Every director, employee, or shareholder of a company who—commits an offence, 
   (a) records or stores in the device, or makes available to a person from the device, matter that he or she knows to be false or misleading in a material particular; or
   (b) with intent to falsify or render misleading any such register, accounting or other records, index, book, paper, or other document, destroys, removes, or falsifies matter recorded or stored in the device, or fails or omits to record or store any matter in the device—
 
-### 380 Carrying on business fraudulently
+### 380 Carrying on business fraudulently or dishonestly incurring debt
 (1) Every person who is knowingly a party to a company carrying on business with intent to defraud creditors of the company or any other person or for a fraudulent purpose commits an offence and is liable on conviction to the penalties set out in section 373(4).
 (2) Every director of a company who,—commits an offence and is liable on conviction to the penalties set out in section 373(4).
   (a) by false pretences or other fraud induces a person to give credit to the company; or
@@ -5903,6 +5931,16 @@ Every director, employee, or shareholder of a company who—commits an offence, 
     (ii) causes property to be given or transferred to any person; or
     (iii) caused or was a party to execution being levied against property of the company—
 (3) Every director of a company commits an offence and is liable on conviction to the penalties set out in section 373(4), who, with intent to defraud a creditor or creditors of the company, does any thing that causes material loss to any creditor.
+(4) Every director of a company commits an offence and is liable on conviction to the penalties set out in section 373(4) if—
+  (a) the company incurs a debt (the debt); and
+  (b) the company—
+    (i) is insolvent at the time that it incurs the debt; or
+    (ii) becomes insolvent by incurring the debt; or
+    (iii) is insolvent at the time that it incurs debts that include the debt; or
+    (iv) becomes insolvent by incurring debts that include the debt; and
+  (c) the director knows, at the time when the company incurs the debt, that the company is insolvent or will become insolvent as a result of incurring the debt or other debts that include the debt; and
+  (d) the director’s failure to prevent the company incurring the debt is dishonest.
+(5) In subsection (4), insolvent means that the company is unable to pay its debts.
 
 ### 381 Improper use of Limited
 Any person who, not being incorporated with limited liability, whether alone or with other persons, carries on business under a name or title of which Limited or a contraction or imitation of that word is the last word, commits an offence and is liable on conviction to the penalty set out in section 373(2).
@@ -6522,6 +6560,8 @@ Nothing in this Act excludes the right of a creditor of an overseas company in r
   (a) to bring proceedings outside New Zealand against the overseas company in relation to a debt not claimed in the liquidation or the balance of a debt remaining unpaid after the completion of a liquidation; or
   (b) to bring an action in New Zealand in relation to the balance of a debt remaining unpaid after the completion of a liquidation.
 
+## Schedule 10 — Interest class: principles
+
 ### 1 Title
 This Act is the Companies Amendment Act 2006.
 
@@ -6581,3 +6621,34 @@ Sections 24 to 43 amend the Companies Act 1993 (the principal Act).
 (2) The Companies Act 1993 and the Financial Reporting Act 1993 (and the regulations and order referred to in section 54(2) and (3)), as in force before the commencement of this section, continue to apply to a company or an overseas company in relation to accounting periods that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
 (3) Unless the context otherwise requires, a reference to financial statements or group financial statements in the Companies Act 1993 (other than sections 200 to 207O) includes financial statements or group financial statements prepared under the Financial Reporting Act 1993 (whether under section 55 of the Financial Reporting Act 2013 or otherwise).
 (4) This section is subject to sections 55 and 56 of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the Financial Reporting Act 1993 and provide transitional rules for FMC reporting entities).
+
+### 1 Title
+This Act is the Companies Amendment Act 2014.
+
+### 2 Commencement
+(1) Except as provided in subsection (2), Parts 2 and 4 come into force 365 days after the date on which this Act receives the Royal assent unless they are earlier brought into force on a date appointed by the Governor-General by Order in Council.
+(2) Sections 58 and 59 and Schedule 2 come into force on a date appointed by the Governor-General by Order in Council.
+(3) For the purpose of subsection (2),—
+  (a) 1 or more orders may be made bringing different provisions into force on different dates and for different purposes; and
+  (b) provision includes any item, or any part of an item, in Schedule 2.
+(4) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Companies Act 1993.
+
+## Part 3 — Arrangements and amalgamations of code companies
+
+**Transitional provision relating to amendments to Part 13 of principal Act**
+
+### 29 Transitional provision relating to amendments to Part 13 of principal Act
+(1) An amalgamation proposal involving 1 or more code companies that has been approved by the boards of all amalgamating companies in accordance with section 221(1) of the principal Act before the commencement of section 28 of this Act is to be continued as if section 28 of this Act had not been enacted, except if the amalgamation takes effect on or after the 180th day after the commencement of section 28 of this Act.
+(2) Section 28 of this Act applies to both—
+  (a) an amalgamation described in subsection (1) that takes effect on or after the 180th day after the commencement of section 28; and
+  (b) any other amalgamation proposal that has not been approved by the boards of all companies in accordance with section 221(1) of the principal Act before the commencement of section 28.
+(3) In this section, takes effect, in respect of an amalgamation, means the date when the amalgamation takes effect in accordance with sections 224 and 225 of the principal Act.
+
+**Transitional provision relating to amendments to Part 15 of principal Act**
+
+### 34 Transitional provision relating to amendments to Part 15 of principal Act
+(1) An application for an order under section 236(1) of the principal Act that has been made before the commencement of section 30 of this Act is to be continued and determined as if section 30 of this Act had not been enacted.
+(2) Section 236A of the principal Act, as inserted by section 30 of this Act, applies to any application for an order under section 236(1) of the principal Act that is made after the commencement of section 30 of this Act.
