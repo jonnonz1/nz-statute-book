@@ -1,5 +1,5 @@
 # Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-07-07_
 
 > Title
 
@@ -12,7 +12,7 @@ _Consolidation as at 2013-12-05_
   - **Minister** , in relation to any provisions of this Act, means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of those provisions
   - **Privacy Commissioner** means the Privacy Commissioner appointed under the Privacy Act 1993
   - **social security debt** ,—
-    (a) in relation to New Zealand, means an amount that may be recovered from any person under section 86 of the Social Security Act 1964; and
+    (a) in relation to New Zealand, means an amount that is subject to recovery from any person under section 86(1) (chief executive's duty to recover debt referred to in section 85A) of the Social Security Act 1964; and
     (b) in relation to any other country, means an amount that may be recovered from any person—
       (i) under the laws relating to social security in that country; or
       (ii) for taxation or other contribution levied specifically for social security under the laws of that country.
