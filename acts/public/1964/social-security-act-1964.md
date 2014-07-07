@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-07-07_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -376,7 +376,8 @@ Every person exercising or performing a function, duty or power under this Act m
 (2) If an example and a provision to which it relates are inconsistent, the provision prevails.
 
 ### 3C Transitional and savings provisions relating to amendments to this Act
-Schedule 32 contains transitional and savings provisions that affect this Act’s other provisions as from time to time amended, repealed, or repealed and replaced.
+(1) The transitional and savings provisions set out in Schedule 32, which relate to amendments to this Act that come into force on or after 1 July 2001, have effect for the purposes of this Act.
+(2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 32 specified in the second column of that table:Amendment Act or provisions of itSchedule 32 PartSocial Security Amendment Act 2001Part 1Social Security (Benefit Categories and Work Focus) Amendment Act 2013Part 2Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014Part 3
 
 ### 4 Social Security Department
 [Repealed]
@@ -409,15 +410,23 @@ Schedule 32 contains transitional and savings provisions that affect this Act’
 
 **Reviews by benefits review committee**
 
-### 10A Review of decisions
-(1) This section applies to—
-  (a) an applicant or beneficiary affected by a decision made by any person in the exercise of any power, function, or discretion conferred on the person by delegation, against which the applicant or beneficiary has a right of appeal under section 12J; or
-  (b) an applicant, beneficiary, or other person in respect of whom a person makes any decision in the exercise of a power under section 19D(1)(a) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 conferred on the decision-making person by delegation, against which the applicant or beneficiary or other person has a right of appeal under section 12J.
+### 10A Review of decisions of chief executive made under delegation by other decision makers
+(1) This section applies to a person and a decision both of which are specified in any 1 of the rows of the following table, but only if the decision is made by a decision maker in the exercise of any power, function, or discretion conferred on the decision maker by delegation:RowPersonDecision1An applicant or beneficiary affected by the decision (with beneficiary and affected having, in this row, the same meanings as in section 12J(1) read in the light of section 12J(4) and (5))A decision of the chief executive made under any enactment referred to in any of the paragraphs of section 12J(1) (but not being a decision referred to in section 12J(2) or (3))2An applicant or beneficiary or other personA decision of the chief executive made—3A beneficiary's spouse or partner A decision of the chief executive made—4The personal representative of a deceased beneficiaryA decision of the chief executive made—5The personal representative of a beneficiary's deceased spouse or partnerA decision of the chief executive made—6A beneficiary's spouse or partnerA decision of the chief executive made—
+  (a) in relation to the applicant or beneficiary or other person; and
+  (b) using a power under section 19D(1)(a) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 (referred to in section 12J(7))
+  (a) in relation to the beneficiary's spouse or partner; and
+  (b) under section 86(3) (referred to in section 12J(8), and including the component decisions specified in section 12J(9))
+  (a) in relation to the estate of the deceased beneficiary; and
+  (b) under section 86(4) (referred to in section 12J(10))
+  (a) in relation to the estate of the beneficiary's deceased spouse or partner; and
+  (b) under section 86(5) (referred to in section 12J(11), and including the decision specified in section 12J(12))
+  (a) in relation to the beneficiary's spouse or partner; and
+  (b) under section 86AA (referred to in section 12J(13), and including the decision specified in section 12J(14))
 (1A) A person to whom this section applies may apply in writing for a review of the decision to the appropriate benefits review committee established under this section.
 (1B) The application must be made—
   (a) within 3 months after receiving notification of the decision; or
   (b) if the committee considers there is good reason for the delay, within such further period as the committee may allow on application made either before or after the expiration of that period of 3 months.
-(1C) For the purposes of subsection (1), a person in respect of whom a decision or determination is made under Part 4 or under regulations made under section 155 is to be treated as a beneficiary.
+(1C)
 (2) The Minister shall establish at least 1 benefits review committee for every office of the department where decisions or recommendations in relation to the matters to which this Act applies are made or were made.
 (3) Every benefits review committee shall consist of—
   (a) a person resident in or closely connected with the office of the department where decisions or recommendations in relation to the matters to which this Act applies are made or were made appointed by the Minister to represent the interests of the community on the committee:
@@ -701,27 +710,48 @@ The Authority shall have a seal, which shall be judicially noticed by all courts
 **Appeals to Appeal Authority**
 
 ### 12J Rights of appeal
-(1) Any applicant or beneficiary affected may appeal to the Appeal Authority against any decision or determination of the chief executive under—that has been confirmed or varied by a benefits review committee under section 10A, or that was made by the chief executive other than pursuant to a delegation.
+Decisions or determinations under specified social assistance enactments
+(1) Any applicant or beneficiary affected may appeal to the Appeal Authority against any decision or determination of the chief executive under—
   (a) any of the provisions of Parts 1A to 1P, Part 2, Part 4, or Part 5; or
-  (b) section 124(1)(d); or
+  (b) a welfare programme approved by the Minister under section 124(1)(d); or
   (c) Part 6 of the War Pensions Act 1954; or
-  (ca) Part 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
-  (d) the Family Benefits (Home Ownership) Act 1964; or
-  (e) any regulations in force under section 132A or section 155—
-(1AA) No appeal lies under subsection (1)(a) against a decision under section 88I(2) or (7) against which an appeal lies under section 10B(1)(h) or (i) to the medical board.
-(1AB) No appeal lies under subsection (1)(a) against a decision under section 116C(2)(a) against which an appeal lies under section 10B(1)(g) to the medical board.
-(1A) An applicant or beneficiary or other person may appeal to the Appeal Authority against a decision—
-  (a) that was made in relation to that person by the chief executive under the power conferred by section 19D(1)(a) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990; and
-  (b) that has been confirmed or varied by a benefits review committee under section 10A or that was made by the chief executive other than pursuant to a delegation.
-(1B) Subsection (1) applies to a person in respect of whom a decision or determination is made under Part 4 or under regulations made under section 155 as if the person were a beneficiary.
-(2) The Appeal Authority shall not have the authority to hear and determine any appeal on medical grounds or on grounds relating to incapacity, or capacity for work against any decision or determination of the chief executive in respect of—
+  (d) Part 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
+  (e) the Family Benefits (Home Ownership) Act 1964; or
+  (f) any regulations in force under section 132A or 155 of this Act.
+(2) No appeal lies under subsection (1)(a) against a decision under section 88I(2) or (7) against which an appeal lies under section 10B(1)(h) or (i) to the medical board.
+(3) No appeal lies under subsection (1)(a) against a decision under section 116C(2)(a) against which an appeal lies under section 10B(1)(k) to the medical board.
+(4) Subsection (1) applies to a person in respect of whom a decision or determination is made under Part 4 or under regulations made under section 155 as if the person were a beneficiary.
+(5) For the purposes of subsection (1), an applicant or beneficiary is not affected by a decision or determination that relates only to all or any of the temporary deferral, rate, or method or methods, of debt recovery from another person.
+(6) A decision referred to in subsection (1), and that is a decision by the chief executive that section 83AA applies to a beneficiary in respect of a benefit apportioned under section 83(1) or (2), includes, without limitation, any component decisions that 1 or both of the following apply to some or all of the proportion of the benefit paid to the beneficiary's spouse or partner:
+  (a) it is an amount in excess of the amount to which the spouse or partner is by law entitled or to which the spouse or partner has no entitlement; and
+  (b) it is an amount obtained by fraud by the spouse or partner.
+Decisions under mutual assistance provisions in reciprocity agreements
+(7) An applicant or beneficiary or other person may appeal to the Appeal Authority against a decision that was made in relation to that person by the chief executive under the power conferred by section 19D(1)(a) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
+Decisions under section 86(3) to recover excess amount from spouse or partner
+(8) A beneficiary's spouse or partner may appeal to the Appeal Authority against a decision that was made by the chief executive under section 86(3) to recover from that spouse or partner (under sections 85A and 86(1)) an amount in excess of the amount to which the beneficiary was by law entitled.
+(9) A decision referred to in subsection (8), and made by the chief executive under section 86(3), includes, without limitation, the following component decisions:
+  (a) the decision that, in the chief executive's opinion, the beneficiary's spouse or partner has made a false statement to or otherwise misled any officer engaged in the administration of this Act, in relation to any matter:
+  (b) the decision that, as a result of the beneficiary's spouse or partner making a false statement to or otherwise misleading any officer engaged in the administration of this Act, the benefit or an instalment of benefit was paid in excess of the amount to which the beneficiary was by law entitled.
+Decisions under section 86(4) to recover excess amount from deceased beneficiary's estate
+(10) The personal representative of a deceased beneficiary may appeal to the Appeal Authority against a decision that was made by the chief executive under section 86(4) to recover from the beneficiary's estate (under sections 85A and 86(1)) an amount in excess of the amount to which the beneficiary was by law entitled.
+Decisions under section 86(5) to recover excess amount from deceased spouse's or partner's estate
+(11) The personal representative of a beneficiary's deceased spouse or partner may appeal to the Appeal Authority against a decision that was made by the chief executive under section 86(5) to recover from that spouse's or partner's estate (under sections 85A and 86(1)) an amount in excess of the amount to which the beneficiary was by law entitled.
+(12) Subsection (11) gives the personal representative of a beneficiary's deceased spouse or partner, without limitation, a right to appeal against the decision that the beneficiary was paid an amount in excess of the amount to which he or she was by law entitled.
+Decisions under section 86AA to recover excess amount from spouse or partner
+(13) A beneficiary's spouse or partner may appeal to the Appeal Authority against a decision that was made by the chief executive under section 86AA to recover from that spouse or partner (under sections 85A and 86(1)) an unapportioned amount in excess of the amount to which the beneficiary was by law entitled or to which the beneficiary has no entitlement.
+(14) Subsection (13) gives the beneficiary's spouse or partner, without limitation, a right to appeal against the decision that the beneficiary obtained by fraud an amount in excess of the amount to which the beneficiary was by law entitled or to which the beneficiary has no entitlement.
+Debt recovery decisions include related decisions on deferral, rate, and methods
+(15) A reference in this section to a decision to recover an amount from a person or estate includes, without limitation, all related decisions on all or any of the temporary deferral, rate, or method or methods, of debt recovery from the person or estate.
+General restriction on appeals under this section
+(16) A decision cannot be appealed against under any other provision of this section unless the decision—
+  (a) has been confirmed or varied by a benefits review committee under section 10A; or
+  (b) was made by the chief executive other than pursuant to a delegation.
+Authority is not authorised to hear and determine certain appeals on medical or capacity grounds
+(17) The Appeal Authority does not have the authority to hear and determine any appeal on medical grounds, grounds relating to incapacity, or grounds relating to capacity for work, against any decision or determination of the chief executive in respect of—
   (a) a supported living payment on the ground of sickness, injury, disability, or total blindness; or
   (b) a child disability allowance under section 39A; or
-  (c)
-  (d) a veteran's pension under section 70 of the War Pensions Act 1954; or
-  (e) jobseeker support on the ground of sickness, injury, or disability.
-(3)
-(4)
+  (c) a veteran's pension under section 70 of the War Pensions Act 1954; or
+  (d) jobseeker support on the ground of sickness, injury, or disability.
 
 ### 12K Procedure on appeal
 (1) An appeal under section 12J is begun by a written notice of appeal.
@@ -732,7 +762,7 @@ The Authority shall have a seal, which shall be judicially noticed by all courts
   (a) 3 months after the applicant is notified of the decision or determination; or
   (b) an additional time allowed by the Appeal Authority, on an application made to it before or after the end of that period of 3 months.
 (1C) The parties to an appeal are—
-  (a) the applicant or beneficiary affected by the decision or determination; and
+  (a) the person to whom section 12J gives the right to appeal against the decision or determination; and
   (b) the chief executive.
 (2) The notice of appeal shall state with particularity the grounds of appeal and the relief sought.
 (3) Either before or immediately after the lodging of the notice of appeal, a copy of it shall be left with or sent to the chief executive.
@@ -964,6 +994,89 @@ A person who has been granted and receives sole parent support under section 20D
 [Repealed]
 
 ### 27H Rates of domestic purposes benefits
+[Repealed]
+
+**Contribution towards cost of domestic purposes benefits for solo parents**
+
+### 27I Interpretation
+[Repealed]
+
+### 27J Maintenance order or agreement suspended while benefit is paid
+[Repealed]
+
+### 27K Liable parent to contribute towards cost of benefit and child supplement
+[Repealed]
+
+### 27L Director-General to give liable parent notice of grant of benefit
+[Repealed]
+
+### 27M Liable parent to notify Director General of total income, etc
+[Repealed]
+
+### 27N Director-General to assess contribution and notify liable parent
+[Repealed]
+
+### 27O Notice of objection
+[Repealed]
+
+### 27P Grounds on which objection may be made
+[Repealed]
+
+### 27Q Procedure to be followed where objection received
+[Repealed]
+
+### 27R Hearing of objection by court
+[Repealed]
+
+### 27S Findings of court
+[Repealed]
+
+### 27T Appeal from decisions of courts
+[Repealed]
+
+### 27U Proceedings not open to public
+[Repealed]
+
+### 27V Restriction of publication of reports
+[Repealed]
+
+### 27W Costs
+[Repealed]
+
+### 27X Recovery of unpaid contributions
+[Repealed]
+
+### 27Y Deduction notices
+[Repealed]
+
+### 27Z Effect of deduction notices
+[Repealed]
+
+### 27ZA Liability of employer
+[Repealed]
+
+### 27ZB Protected earnings
+[Repealed]
+
+### 27ZC Variation or discharge of deduction notice
+[Repealed]
+
+### 27ZD Transaction fee
+[Repealed]
+
+### 27ZE Wrongful treatment of employee
+[Repealed]
+
+### 27ZF Extent to which deduction notices bind the Crown
+[Repealed]
+
+### 27ZG Relief in cases of serious hardship
+[Repealed]
+
+### 27ZH Review of contributions
+[Repealed]
+
+### 27ZI Service of notices, etc, by Director-General
 [Repealed]
 
 ## Part 1C — Orphans' benefits, and unsupported child's benefit
@@ -1384,7 +1497,7 @@ The chief executive may refrain (for any period he or she thinks fit) from apply
   (b) the chief executive may pay the benefit, or the benefit without the reduction, on the condition that the person will repay the amount to which he or she would not be entitled but for this paragraph, if—
     (i) a court, person, or body authorised by law to determine the matter determines the misconduct to be proved; and
     (ii) the chief executive, in his or her discretion, so directs.
-(7) Any amount that the chief executive directs to be repayable under subsection (6)(b) may be recovered from the person under section 86(1).
+(7) Any amount that the chief executive directs to be repayable under subsection (6)(b) is a debt due to the Crown under section 85A(b), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the person.
 
 ### 60HA Work preparation exercise
 [Repealed]
@@ -1934,7 +2047,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 Where any applicant for a benefit dies before the completion of the investigation of his application, the chief executive may, in the chief executive's discretion, grant the benefit as if the applicant had not died, and in such a case the provisions of sections 61D and 61DA to 61DF shall apply as if the applicant had been in receipt of the benefit at the time of his death.
 
 ### 63 Conjugal status for benefit purposes
-For the purposes of determining any application for any benefit, or of reviewing any benefit already granted, or of determining the rate of any benefit, or of the granting of any payment of a funeral grant under section 61DB or of any welfare programme approved by the Minister under section 124(1)(d), or of assessing the financial means of any person under section 69FA or Part 4 the chief executive may in the chief executive's discretion—and may determine a date on which they shall be regarded as having commenced to live apart or a date on which they shall be regarded as having entered into such a relationship, as the case may be, and may then in the chief executive's discretion grant a benefit, refuse to grant a benefit, or terminate, reduce, or increase any benefit already granted, from that date accordingly.
+For the purposes of determining any application for any benefit, or of reviewing any benefit already granted, or of determining the rate of any benefit, or of the granting of any payment of a funeral grant under section 61DB or of any welfare programme approved by the Minister under section 124(1)(d), or of assessing the financial means of any person under section 69FA or Part 4 (and with every determination under this section also applying for every debt-recovery or offence provision in or under this Act), but subject to section 151, the chief executive may in the chief executive's discretion—and may determine a date on which they shall be regarded as having commenced to live apart or a date on which they shall be regarded as having entered into such a relationship, as the case may be, and may then in the chief executive's discretion grant a benefit, refuse to grant a benefit, or terminate, reduce, or increase any benefit already granted, from that date accordingly.
   (a) regard as single any applicant or beneficiary who is married or in a civil union but is living apart from his or her spouse or partner:
   (b) regard as married any 2 people who, not being legally married or in a civil union, have entered into a relationship in the nature of marriage—
 
@@ -1979,7 +2092,7 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
 (2) Where a debt insurance payment or a health or disability insurance payment is made to a person or to some other person on behalf of or for the benefit of the person or a member of his or her family, for the purposes of section 61G (which relates to temporary additional support) or a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004, the commitments of the person shall be deemed to be reduced to such an extent, if any, as the chief executive considers appropriate having regard to the nature of the payment and those commitments.
 (3) Where a health or disability insurance payment is made to a person or to some other person on behalf of or for the benefit of the person or a member of his or her family, for the purposes of section 69C (which relates to disability allowances), any additional expenses of the person arising from his or her disability, or expenses arising from the hospitalisation of his or her spouse or partner, as the case may be, shall be deemed to be reduced to such an extent, if any, as the chief executive considers appropriate having regard to the nature of the payment and those additional expenses or expenses.
 (4) Where a debt insurance payment or a health or disability insurance payment is made to a person or to some other person on behalf of or for the benefit of the person or a member of his or her family, for the purposes of any welfare programme approved by the Minister under and for the purposes of section 124(1)(d), the costs, expenses, and commitments of the person shall be deemed to be reduced to such an extent, if any, as the chief executive considers appropriate having regard to the nature of the payment and those costs, expenses, and commitments.
-(5) Where an applicant for—the chief executive may grant a benefit or a rate of benefit subject to the condition that the whole or such part of the benefit as the chief executive may require shall be repaid to the chief executive in the event that the payment is made to the applicant or to some other person on behalf of or for the benefit of the applicant or a member of his or her family; and, in any such case, the amount of the benefit or the part thereof shall constitute a charge on the amount payable to the applicant or person and may be recovered as a debt due to the Crown from the applicant or person or the person liable to make the payment.
+(5) Where an applicant for—the chief executive may grant a benefit or a rate of benefit subject to the condition that the whole or such part of the benefit as the chief executive may require shall be repaid to the chief executive in the event that the payment is made to the applicant or to some other person on behalf of or for the benefit of the applicant or a member of his or her family; and, in any such case, the amount of the benefit or the part thereof shall constitute a charge on the amount payable to the applicant or person and is a debt due to the Crown under section 85A(b) and (e), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the applicant or person or the person liable to make the payment.
   (a) a benefit is, or may be, entitled or eligible to receive, or receive the benefit of, an income-related insurance payment; or
   (b) a benefit of a kind referred to in any of sections 61EA, 61G, 69C, and 124(1)(d), is, or may be, entitled or eligible to receive, or receive the benefit of, a debt insurance payment or a health or disability insurance payment,—
 (6) Where a person has been granted—being a payment made to the person or to some other person on behalf of or for the benefit of the person or a member of his or her family and that relates to a contingency that occurred before or during the period in which the benefit is payable, the chief executive may suspend, terminate, or vary the rate of the benefit from such date as the chief executive determines.
@@ -2242,7 +2355,7 @@ It is the duty of the chief executive to take all reasonable steps to assist any
 ### 71 Special provisions where compensation or damages recoverable by applicant
 (1) Notwithstanding anything to the contrary in this Act or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, where any person who has recovered or is entitled to recover compensation or damages from any other person in respect of any disability caused by accident or disease or in respect of wrongful or unjustifiable dismissal claims any benefit, the following provisions shall apply:
   (a) where any compensation or damages have been recovered, the chief executive may refuse to grant a benefit or may grant a reduced benefit for the period of disability or loss of expectation of employment in respect of which the compensation or damages have been paid or are deemed by the chief executive to have been paid; and
-  (b) where any applicant for a benefit has a claim against any person to recover any compensation or damages, the chief executive may grant a benefit subject to the condition that the whole or such part of the benefit as the chief executive may require shall be repaid to the chief executive out of any compensation or damages that may thereafter be recovered, and in any such case the amount of the benefit or that part thereof, as the case may be, shall constitute a charge on the compensation or damages and may be recovered as a debt due to the Crown from the beneficiary or from any person liable for the payment of the compensation or damages.
+  (b) where any applicant for a benefit has a claim against any person to recover any compensation or damages, the chief executive may grant a benefit subject to the condition that the whole or such part of the benefit as the chief executive may require shall be repaid to the chief executive out of any compensation or damages that may thereafter be recovered, and in any such case the amount of the benefit or that part thereof, as the case may be, shall constitute a charge on the compensation or damages and is a debt due to the Crown under section 85A(b) and (e), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the beneficiary or from any person liable for the payment of the compensation or damages.
 (2) For the purposes of this section the expression compensation or damages includes any ex gratia payment made in settlement of or on account of a claim for compensation or damages; but does not include any impairment lump sum received under Schedule 1 of the Accident Compensation Act 2001.
 
 ### 71A Deduction of weekly compensation from income-tested benefits
@@ -2591,18 +2704,20 @@ In this section and in sections 80BA to 80BC and in Schedule 28—
   (b) the person has not received the whole or a part of that payment.
 (2) A person referred to in subsection (1) is entitled to receive the benefit applied for on a provisional basis and to have the stand down period calculated as if his or her average income did not include the amount not yet received.
 (3) Subsection (4) applies if the person subsequently receives the whole or any part of the redundancy payment or retirement payment within 52 weeks after the date the person's employment ceased.
-(4) The chief executive may recover from the person, under section 86(1), any payment of the benefit—
+(4) This subsection applies to any payment of the benefit—
   (a) which the person has received; and
   (b) to which the person would not be entitled but for subsection (2).
+(5) A payment to which subsection (4) applies is a debt due to the Crown under section 85A(b), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the person.
 
 ### 80BC Seasonal workers made redundant after benefit commences
 (1) This section applies to a person who is a seasonal worker if—
   (a) the person applies for a benefit to which section 80(2) or (12) applies following a seasonal layoff; and
   (b) the person becomes entitled to receive a redundancy payment because his or her usual seasonal employment is made unavailable by the employer after the benefit commences; and
   (c) the person receives the whole or any part of the redundancy payment within 52 weeks after the date the person's seasonal employment ceased.
-(2) The chief executive may, under section 86(1), recover from a person referred to in subsection (1) any payment of the benefit—
+(2) This subsection applies to any payment of the benefit—
   (a) which the person has received; and
   (b) which is a payment to which the person would not have been entitled if the redundancy payment received had been taken into account in calculating the stand down period under section 80BA.
+(3) A payment to which subsection (2) applies is a debt due to the Crown under section 85A(b), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the person.
 
 ### 80BD Ending of benefits
 (1) Every benefit shall end on a date the chief executive sets, to be—
@@ -2709,7 +2824,7 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
       (ii) to, or for the benefit of, the spouse or partner of the beneficiary or any dependent child or children of the beneficiary.
 (4) Except as otherwise provided in this Act, every instalment of benefit shall be paid in a manner and at the place determined by the chief executive from time to time, and no appeal under this Act shall lie against that determination.
 (5) If any instalment of any benefit, or any part of any instalment, is not collected within such time as the chief executive may specify, the authority to collect such instalment, or part, shall lapse and the amount of benefit so unpaid shall be forfeited unless the chief executive is satisfied in any particular case that there was good cause for not collecting that instalment or that part of the instalment.
-(6) If the chief executive is satisfied that an advance payment of a benefit would best meet the immediate needs of a beneficiary, the chief executive may, in the chief executive's discretion, on application by the beneficiary, make payment in advance of any number of instalments of the benefit, or part of it, not yet due, and the amount so paid in advance may be recovered under section 86(1).
+(6) If the chief executive is satisfied that an advance payment of a benefit would best meet the immediate needs of a beneficiary, the chief executive may, in the chief executive's discretion, on application by the beneficiary, make payment in advance of any number of instalments of the benefit, or part of it, not yet due, and the amount so paid in advance is a debt due to the Crown under section 85A(c), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the beneficiary.
 (6A) Despite subsection (3), if the immediate needs of the beneficiary relate to the supply of any goods or services to the beneficiary or a member of the beneficiary's family, the chief executive may pay the whole or any part of an advance payment of a benefit under subsection (6) to the supplier of the goods or services.
 (6AA) This subsection applies to the beneficiary if—
   (a) the immediate needs of the beneficiary relate to the supply of any goods or services to the beneficiary or a member of the beneficiary's family; and
@@ -2759,6 +2874,34 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
   (b) the rate of any benefit (other than a youth payment or young parent payment) payable to a person receiving a youth payment or young parent payment.
 (3) In any case where a benefit is apportioned under subsection (1) or subsection (2), the proportion of the benefit paid to each person shall be deemed for the purposes of the Income Tax Act 2007 to be the income of the person to whom it is paid.
 
+### 83AA Apportionment of benefit between spouses or partners: one is liable for proportion other obtained by fraud if that one knew, or ought to have known, about other's fraud
+(1) This section applies to the following situation:
+  (a) a benefit is apportioned under section 83(1) or (2) between spouses or partners so that—
+    (i) one proportion of the benefit (proportion A) is paid to one spouse or partner (A); and
+    (ii) another proportion of the benefit (proportion B) is paid to the other spouse or partner (B); and
+    (iii) the person entitled to the benefit, for the purposes of section 83(1) and (2), is either A or B; and
+  (b) some or all of proportion A is—
+    (i) an amount in excess of the amount to which A is by law entitled or to which A has no entitlement; and
+    (ii) an amount obtained by fraud by A; and
+    (iii) a debt referred to in section 85A due to the Crown, and subject to recovery under section 86(1), from A; and
+  (c) some or all of proportion B either is, or is not,—
+    (i) an amount in excess of the amount to which B is by law entitled or to which B has no entitlement; and
+    (ii) an amount obtained by fraud by B; and
+    (iii) a debt referred to in section 85A due to the Crown, and subject to recovery under section 86(1), from B; and
+  (d) B either knew, or ought to have known (even if B did not know), of the fraud by A.
+(2) In the situation to which this section applies, B is jointly and severally liable for A's debt referred to in subsection (1)(b), and that amount is a debt referred to in section 85A due to the Crown, and subject to recovery under section 86(1), from B.
+(3) This section does not limit or affect any civil or criminal liability under any other law—
+  (a) of A for, or in respect of, the debt referred to in subsection (1)(b); or
+  (b) of B for, or in respect of, the debt referred to in subsection (1)(c).
+(4) An amount is obtained by fraud by a person (whether A or B) for the purposes of this section if the person—
+  (a) obtained that amount by fraud (and, for the purposes of this paragraph, fraud means that the person—
+    (i) made any statement knowing it to be false in any material particular; or
+    (ii) knowingly said or did anything or omitted to do or say anything for the purpose of misleading any officer concerned in the administration of this Act); or
+  (b) is convicted of a specified offence (as defined in section 127A(5)) in respect of obtaining that amount.
+(5) Subsection (4) does not limit—
+  (a) the generality of the references in subsection (1) to fraud; or
+  (b) the operation of section 49 (conviction as evidence in criminal proceedings) of the Evidence Act 2006.
+
 ### 83A Tax on benefits
 (1) This section applies where any instalment or a payment of an income-tested benefit is a source deduction payment.
 (2) Where this section applies, the chief executive may, instead of making a tax deduction from the source deduction payment, pay to the Commissioner of Inland Revenue, at such time as the Commissioner determines in consultation with the chief executive, an amount for income tax payable on that payment, calculated in accordance with subsection (3).
@@ -2770,7 +2913,7 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
     (ii) the Income Tax Act 1994, be considered to be gross income of the person; or
     (iii) the Income Tax Act 2004, be considered to be income of the person; or
     (iv) the Income Tax Act 2007, be considered to be income of the person.
-(5) If, as a result of the review, suspension, cancellation, or termination of an income-tested benefit, the chief executive determines that an amount for tax on the benefit has been paid in accordance with this section to the Commissioner in excess of the amount that is properly payable under this section, the chief executive may not recover the excess amount as a debt due to the Crown within the meaning of section 85A, but may recover that amount by—
+(5) If, as a result of the review, suspension, cancellation, or termination of an income-tested benefit, the chief executive determines that an amount for tax on the benefit has been paid in accordance with this section to the Commissioner in excess of the amount that is properly payable under this section, the chief executive may not recover the excess amount under sections 85A and 86, but may recover that amount by—
   (a) making an adjustment to any amount subsequently payable to the Commissioner under subsection (2) in respect of the source deduction payments for that or any other benefit payable to that beneficiary; or
   (b) making such other arrangements for its refund as are agreed with the Commissioner.
 (6) In this section,—
@@ -2798,7 +2941,7 @@ The payment of a benefit under this Act shall not operate—
 ### 85 Termination of benefit on death of beneficiary
 [Repealed]
 
-### 85A Payments that are debts due to the Crown
+### 85A Payments that are debts due to the Crown: general
 The following payments or other sums are debts due to the Crown:
   (a) any penalty payable under this Act:
   (b) any benefit paid conditionally or provisionally under this Act that a person has become liable to repay (by direction of the chief executive or otherwise):
@@ -2811,17 +2954,56 @@ The following payments or other sums are debts due to the Crown:
     (i) that is in excess of the amount to which the person is entitled; or
     (ii) to which the person has no entitlement.
 
+### 85B Payments that are debts due to the Crown: examples
+(1) Debts referred to in section 85A(a) (penalty) and (e) (debt due to the Crown) include a penalty under section 86(2) (recovery of penalty from beneficiary who obtains by fraud amount in excess of entitlement).
+(2) Debts referred to in section 85A(b) (conditional or provisional benefit that person is liable to repay) include the following:
+  (a) an amount directed to be repayable under section 60H(6)(b) (voluntary unemployment or loss of employment through misconduct, etc):
+  (b) an amount the person granted a benefit is liable to repay under section 61CC(2)(a) (granting of emergency benefits during epidemic in New Zealand), and to which section 85A(b) applies in accordance with section 61CC(2)(b):
+  (c) an amount recoverable under section 80BB(5) (delayed redundancy and retirement payments):
+  (d) an amount recoverable under section 80BC(3) (seasonal workers made redundant after benefit commences):
+  (e) an amount the person participating in approved activities is liable to repay under section 123B (effect of participation in certain activities on non-entitlement period).
+(3) Debts referred to in section 85A(b) (conditional or provisional benefit that person is liable to repay) and (e) (debt due to the Crown) include the following:
+  (a) an amount recoverable under section 68A(5) (special provisions applying to insurance payments):
+  (b) an amount recoverable under section 71(1)(b) (special provisions where compensation or damages recoverable by applicant).
+(4) Debts referred to in section 85A(e) (debt due to the Crown) include the following:
+  (a) an excess amount recoverable under section 86(3) (recovery from spouse or partner who makes false statement to or otherwise misleads department of excess amount beneficiary obtained):
+  (b) an excess amount recoverable under section 86(4) (recovery from estate of deceased beneficiary of excess amount beneficiary obtained):
+  (c) an excess amount recoverable under section 86(5) (recovery from estate of beneficiary's deceased spouse or partner of excess amount beneficiary obtained):
+  (d) an excess amount recoverable under section 86AA(5) (recovery from spouse or partner of unapportioned excess amount beneficiary obtained by fraud).
+(5) Debts referred to in section 85A(f) (overpayments under this Act) include the following:
+  (a) an amount recoverable under section 86 or 86AA read (in the case of either section) together with section 124(2) and (2A):
+  (b) amounts recoverable under section 86E(2) (deductions held in trust):
+  (c) an amount recoverable under section 86I(3) (penalty for late deductions):
+  (d) an amount that regulations made under section 132AC(1)(i) provide is a debt due to the Crown under section 85A(f).
+(6) This section does not limit the generality of section 85A.
+
 ### 86 Recovery of payments made in excess of authorised rates
-(1) The chief executive, in order to recover a debt referred to in section 85A, may—
-  (a) bring proceedings in the name of the chief executive; or
-  (b) deduct all or part of that debt from any amount payable to that person by the department as a benefit or a student allowance; or
-  (c) in the case of a debt referred to in section 85A(d), deduct all or part of that debt from any payment of a grant of special assistance under a welfare programme approved under section 124(1)(d).
-(1A) Subsection (1) is subject to subsections (9A) and (9B), and to any regulations made under section 132G.
+Chief executive's duty to recover debt in section 85A
+(1) The chief executive is under a duty imposed by this subsection to take all reasonably practicable steps to recover a debt referred to in section 85A.
+(1A) Subsection (1) is subject to the following:
+  (a) subsections (9A) and (9B) (debts caused wholly or partly by errors to which debtors did not intentionally contribute):
+  (b) any regulations (providing for remittance or suspension of debt) made under section 132G:
+  (c) the debt falling within any 1 or more classes, descriptions, or kinds of debts specified in a written determination made by the chief executive for the purposes of this paragraph as debts that it is uneconomic to recover:
+  (d) the debt falling within any 1 or more classes, descriptions, or kinds of debts specified in a written authorisation given jointly by the Minister and by the Minister of Finance for public finance purposes generally as debts that are to be written off.
 (1B) Nothing in section 94B of the Judicature Act 1908 or any rule of law relating to payment by or under mistake prevents recovery of a debt under subsection (1).
+(1BA) In performing the duty imposed by subsection (1), the chief executive—
+  (a) must determine from time to time the rate of recovery and method or methods of recovery to be used and, in doing so, must have regard to all relevant considerations, including, without limitation, any identified in directions under subsection (1BC); and
+  (b) may from time to time, if satisfied of the existence in the particular case of circumstances of a kind identified by directions under subsection (1BC), defer temporarily recovery of the debt.
+(1BB) The method or methods of recovery that the chief executive may determine is or are to be used are as follows:
+  (a) bring proceedings in the name of the chief executive:
+  (b) deduct all or part of that debt from any amount payable to that person by the department as a benefit or a student allowance:
+  (c) for a debt referred to in section 85A(d) (recoverable special assistance money under an approved welfare programme), deduct all or part of that debt from any payment of a grant of special assistance under a welfare programme approved under section 124(1)(d).
+(1BC) The Minister must give to the chief executive, and ensure that there are in force (as from time to time amended or replaced) at all times on and after the commencement of the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014, directions for the purposes of subsection (1BA)(a) and (b), which, without limitation, may—
+  (a) identify for subsection (1BA)(a) considerations that differ, or that contemplate different rates of recovery, or methods of recovery, or both, for determinations in respect of different kinds of debts referred to in section 85A:
+  (b) identify for subsection (1BA)(b) different kinds of circumstances for different kinds of debts referred to in section 85A.
+(1BD) Directions under subsection (1BC)—
+  (a) must as soon as practicable after they are given be published by the Minister in the Gazette, and are not legislative instruments for the purposes of the Legislation Act 2012; but
+  (b) are disallowable instruments for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
 (1C)
 (1D)
 (1E)
 (1F)
+Recovery of penalty from beneficiary who obtains by fraud amount in excess of entitlement
 (2) Subject to subsections (2A) and (2B), if any person has obtained any payment or received any credit or advance referred to in section 85A in excess of the amount to which he or she was entitled and, in the opinion of the chief executive, that payment or credit or advance in excess was obtained by fraud, the chief executive may, in his or her discretion, which discretion may be exercised in respect of any particular case or class or classes of case, recover from that person, by way of penalty, an amount not exceeding 3 times the amount in excess. Nothing in this subsection shall relieve that person from any other liability in respect of any fraud committed by him or her. Any penalty under this subsection may be recovered by way of deduction from any instalments of the same or any other benefit or student allowance or payment thereafter becoming payable to that person under this Act or under section 124(1)(d) or under Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001; and may be recovered as a debt due to the Crown at the suit of the chief executive.
 (2A) The chief executive shall not impose any penalty on any person under subsection (2)—
   (a) unless the chief executive has given to the person written notice—
@@ -2832,9 +3014,16 @@ The following payments or other sums are debts due to the Crown:
   (c) until the expiration of those 5 working days.
 (2B) Where the chief executive imposes any penalty under subsection (2), no action to recover that penalty shall be taken until any review of that decision under section 10A or any appeal under section 12J has been completed.
 (2C) In subsection (2), a person shall be considered to have obtained a payment or credit or advance by fraud if that person has made any statement knowing it to be false in any material particular, or has knowingly said or done anything or omitted to do or say anything for the purpose of misleading any officer concerned in the administration of this Act, for the purpose of obtaining a payment or credit or advance under this Act, as a result of which that person received that payment or credit or advance.
-(3) If, in the opinion of the chief executive, the spouse or partner of any beneficiary makes any false statement to or otherwise misleads any officer engaged in the administration of this Act, in relation to his or her income or other personal circumstances, as a result of which the benefit or an instalment of benefit is paid in excess of the amount to which the beneficiary is by law entitled, the amount so paid in excess may be recovered from that spouse or partner as a debt due to the Crown at the suit of the chief executive, or the excess payment may be recovered by way of deduction from any instalments of any benefit or student allowance thereafter becoming payable to that spouse or partner.
-(4) If on the death of any beneficiary he is found to have been disqualified for any reason, including the receipt of any income or the possession of any property, from obtaining the benefit granted to him or from obtaining a benefit of the amount granted to him, an amount, to be assessed by the chief executive, equal to the total amount paid to the beneficiary in excess of the amount (if any) to which he was by law entitled shall constitute a debt owing to the Crown by the estate of the beneficiary, and may be recovered accordingly at the suit of the chief executive.
-(5) If on the death of the spouse or partner of any beneficiary it is found that for any reason, including the receipt of any income or the possession of any property by the deceased during her or his lifetime, the beneficiary has been granted a benefit to which he or she was not by law entitled or has been granted a benefit of an amount to which he or she was not by law entitled, an amount, to be assessed by the chief executive, equal to the total amount paid to the beneficiary in excess of the amount (if any) to which he or she was by law entitled shall constitute a debt owing to the Crown by the estate of the spouse or partner, and may be recovered accordingly at the suit of the chief executive.
+Recovery from spouse or partner who makes false statement to or otherwise misleads department of excess amount beneficiary obtained
+(3) If, in the opinion of the chief executive, the spouse or partner of any beneficiary makes any false statement to or otherwise misleads any officer engaged in the administration of this Act, in relation to any matter, as a result of which the benefit or an instalment of benefit is paid in excess of the amount to which the beneficiary is by law entitled, the amount so paid in excess may be recovered from that spouse or partner as a debt due to the Crown at the suit of the chief executive, or the excess payment may be recovered by way of deduction from any instalments of any benefit or student allowance thereafter becoming payable to that spouse or partner.
+(3A) Subsection (3) enables recovery from the spouse or partner on the basis that he or she is jointly and severally liable, and therefore does not limit or affect—
+  (a) recovery under section 85A(e) or (f) and subsection (1) of this section from the beneficiary of the excess amount recoverable under subsection (3) from the beneficiary's spouse or partner; or
+  (b) any other civil or criminal liability of the beneficiary, under any other laws, in respect of that excess amount.
+Recovery from estate of deceased beneficiary of excess amount beneficiary obtained
+(4) If on the death of any beneficiary he is found to have been disqualified for any reason, including the receipt of any income or the possession of any property, from obtaining the benefit granted to him or from obtaining a benefit of the amount granted to him, an amount, to be assessed by the chief executive, equal to the total amount paid to the beneficiary in excess of the amount (if any) to which he was by law entitled shall constitute a debt due to the Crown by the estate of the beneficiary, and may be recovered accordingly at the suit of the chief executive.
+Recovery from estate of beneficiary's deceased spouse or partner of excess amount beneficiary obtained
+(5) If on the death of the spouse or partner of any beneficiary it is found that for any reason, including the receipt of any income or the possession of any property by the deceased during her or his lifetime, the beneficiary has been granted a benefit to which he or she was not by law entitled or has been granted a benefit of an amount to which he or she was not by law entitled, an amount, to be assessed by the chief executive, equal to the total amount paid to the beneficiary in excess of the amount (if any) to which he or she was by law entitled shall constitute a debt due to the Crown by the estate of the spouse or partner, and may be recovered accordingly at the suit of the chief executive.
+Making, notice, and review of assessment of amount under subsection (4) or (5)
 (6) For the purpose of determining for the purposes of subsection (4) or subsection (5) the total amount paid to a beneficiary by way of benefit in excess of the amount (if any) to which he or she was by law entitled, any property that was in the possession of the beneficiary or of the spouse or partner of the beneficiary at his or her death shall, unless in proceedings for the recovery of that excess (but subject to any decision by a District Court in any application under subsection (7)) the contrary is proved, be deemed to have been in his or her possession on such date as the chief executive determines, being not earlier than the date on which the benefit was first granted.
 (7) Notice in writing of every assessment by the chief executive under subsection (4) or subsection (5) shall be served on the executor or administrator of the estate of the deceased beneficiary or, as the case may be, of the deceased spouse or partner of the beneficiary, and the executor or administrator may, within 1 month after the service of the notice, apply to a District Court to review the assessment and any decision of the chief executive under subsection (6) in relation to that assessment.
 (8) The following provisions shall apply with respect to every such application:
@@ -2843,6 +3032,7 @@ The following payments or other sums are debts due to the Crown:
   (c) the court may receive as evidence any statement, document, information, or matter that may in its opinion assist the court to deal effectively with the application, whether or not the same would be otherwise admissible in a court of law:
   (d) in determining the application, the court shall accept any date determined by the chief executive for the purposes of subsection (6) as the date on which any property was in the possession of the deceased, unless the court is satisfied from the evidence produced that some other date should be fixed.
 (9) In determining any such application, the court may either confirm or cancel the assessment or increase or reduce the amount thereof or make such order as it considers just and equitable in the circumstances.
+Debts caused wholly or partly by errors to which debtors did not intentionally contribute
 (9A) The chief executive may not recover any sum comprising that part of a debt that was caused wholly or partly by an error to which the debtor did not intentionally contribute if—
   (a) the debtor—
     (i) received that sum in good faith; and
@@ -2854,10 +3044,37 @@ The following payments or other sums are debts due to the Crown:
     (ii) any erroneous act or omission of an officer of the department that occurs during an investigation under section 12:
     (iii) any other erroneous act or omission of an officer of the department; but
   (b) does not include the simple act of making a payment to which the recipient is not entitled if that act is not caused, wholly or partly, by any erroneous act or omission of an officer of the department.
+Approved welfare programmes: special assistance payments
+(9C) This section and section 86AA apply, in accordance with section 124(2A), to a payment to which section 124(2) applies—
+  (a) as if it were made by way of benefit under Parts 1A to 1P; and
+  (b) as if the person to whom the payment was made were a beneficiary entitled to a benefit of the amount determined under section 124(2A)(b).
 (10)
 
+### 86AA Recovery from spouse or partner of unapportioned excess amount beneficiary obtained by fraud
+(1) Beneficiary, in this section, means a person—
+  (a) who has obtained any payment, or received any credit or advance, referred to in section 85A in excess of the amount to which he or she was entitled or to which he or she has no entitlement; and
+  (b) who, in the chief executive's opinion, obtained that payment or credit or advance in excess by fraud.
+(2) An amount is obtained by fraud by a person for the purposes of subsection (1) if the person—
+  (a) obtained that amount by fraud (and, for the purposes of this paragraph, fraud means that the person—
+    (i) made any statement knowing it to be false in any material particular; or
+    (ii) knowingly said or did anything or omitted to do or say anything for the purpose of misleading any officer concerned in the administration of this Act); or
+  (b) is convicted of a specified offence (as defined in section 127A(5)) in respect of obtaining that amount.
+(3) Subsection (1) does not limit—
+  (a) the generality of the references in subsection (1) to fraud; or
+  (b) the operation of section 49 (conviction as evidence in criminal proceedings) of the Evidence Act 2006.
+(4) Subsection (5) does not apply to the beneficiary's spouse or partner unless none of the amount in excess has been apportioned to him or her under section 83(1) or (2) and, in the chief executive's opinion, the spouse or partner—
+  (a) knowingly benefited directly or indirectly from the beneficiary's fraud; or
+  (b) ought to have known (even if the spouse or partner did not know) that the spouse or partner was benefiting directly or indirectly from the beneficiary's fraud.
+(5) The amount in excess that the beneficiary obtained by the beneficiary's fraud is a debt due to the Crown under section 85A(e) or (f), and subject to recovery under section 86(1), from the spouse or partner.
+(6) Subsection (5) enables recovery from the spouse or partner on the basis that he or she is jointly and severally liable, and therefore does not limit or affect—
+  (a) recovery under sections 85A(e) or (f) and 86(1) from the beneficiary of the excess amount recoverable under subsection (5) from the beneficiary's spouse or partner; or
+  (b) any other civil or criminal liability of the beneficiary, under any other laws, in respect of that excess amount.
+(7) Section 86(2) and this section apply, in accordance with section 124(2A), to a payment to which section 124(2) applies—
+  (a) as if it were made by way of benefit under Parts 1A to 1P; and
+  (b) as if the person to whom the payment was made were a beneficiary entitled to a benefit of the amount determined under section 124(2A)(b).
+
 ### 86A Deduction notices for debt
-(1) Where any amount of money may be recovered from any person as a debt due to the Crown under this Act (including, subject to section 86(2B), any penalty under section 86(2)) is not paid by the expiration of the tenth day after the day on which notice of the debt is delivered or posted to that person (whether or not the notice is received by that person), the chief executive may issue, in writing, a deduction notice requiring any other person to deduct the amount due from any sum that is payable or becomes payable, until the deduction notice is revoked, by that other person whether—to the person from whom that money may be recovered as a debt due to the Crown (in this section and in sections 86C to 86I referred to as the debtor).
+(1) If an amount of money that is a debt due to the Crown referred to in section 85A and that is subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A) (including, subject to section 86(2B), any penalty under section 86(2)) is not paid by the expiration of the tenth day after the day on which notice of the debt is delivered or posted to that person (whether or not the notice is received by that person), the chief executive may issue, in writing, a deduction notice requiring any other person to deduct the amount due from any sum that is payable or becomes payable, until the deduction notice is revoked, by that other person whether—to the person from whom that money may be recovered as a debt due to the Crown (in this section and in sections 86C to 86I referred to as the debtor).
   (a) on his or her or its own account; or
   (b) as an agent; or
   (c) as a trustee; or
@@ -2867,7 +3084,7 @@ The following payments or other sums are debts due to the Crown:
 (1C) A deduction notice under subsection (1) may be issued to recover—
   (a) any amount that may be recovered as a debt due to the Crown under section 27X (as saved by section 256(1) of the Child Support Act 1991):
   (b) any amount of maintenance debt (within the meaning of section 61CA).
-(2) The chief executive shall not issue a deduction notice under subsection (1) unless the chief executive has taken all reasonable steps to recover the debt, but nothing in this subsection shall require the chief executive to take proceedings in any court to recover the debt before issuing a deduction notice.
+(2) The chief executive shall not issue a deduction notice under subsection (1) unless the chief executive has taken some other reasonably practicable steps to recover the debt, but nothing in this subsection shall require the chief executive to take proceedings in any court to recover the debt before issuing a deduction notice.
 (3) The chief executive shall specify in the deduction notice—
   (a) whether the deduction is to be made as a lump sum or by instalments; and
   (b) the time or times by which the person to whom the deduction notice is issued must pay the amounts deducted to the department; and
@@ -2881,7 +3098,7 @@ The following payments or other sums are debts due to the Crown:
 Where a debtor is employed within a department (within the meaning of the State Sector Act 1988), a deduction notice may be issued under section 86A(1) to the chief executive of that department in respect of any salary or wages payable to the debtor.
 
 ### 86C Discharge of debt
-Where a person to whom a deduction notice has been issued deducts, pursuant to the notice, any money payable to a debtor, the debtor is, to the extent of the amount deducted, discharged from his or her debt due to the Crown under section 86.
+Where a person to whom a deduction notice has been issued deducts, pursuant to the notice, any money payable to a debtor, the debtor is, to the extent of the amount deducted, discharged from his or her debt due to the Crown under section 86(1).
 
 ### 86D Deduction notices issued on banks
 (1) Where the person to whom the deduction notice is issued is a bank, any money held by the bank to the credit of the debtor shall be subject to the provisions of section 86A(1); and, during the subsistence of the deduction notice, the amount recoverable from the debtor shall be deemed to be held in trust for the Crown and, without prejudice to any other remedies against the debtor or any other person, any such amount shall be held in trust for the Crown and shall be recoverable from the bank under section 86 as if it were money payable under a benefit to which the debtor was not entitled.
@@ -2895,9 +3112,11 @@ Where a person to whom a deduction notice has been issued deducts, pursuant to t
   (b) that can be withdrawn from the account by or on behalf of the debtor without a signature being required at the time of that withdrawal from, or on behalf of, the other person or persons—
 
 ### 86E Deductions held in trust
-Any person who makes a deduction pursuant to a deduction notice shall be deemed to be acting—
+(1) Any person who makes a deduction pursuant to a deduction notice shall be deemed to be acting—
   (a) on the authority of the debtor and any other person concerned; and neither the debtor nor that person shall have any claim against the person making the deduction, or the Crown, in respect of that deduction; and
-  (b) on behalf of the Crown; and, without prejudice to any other remedies against the debtor or any other person, any amounts deducted shall be held in trust for the Crown and shall be recoverable under section 86 as if it were money payable under a benefit to which the person who made the deduction was not entitled.
+  (b) on behalf of the Crown.
+(2) Any amounts deducted must be held in trust for the Crown, and are debts due to the Crown under section 85A(f), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the person who makes the deductions, as if the amounts were money payable under a benefit to which the person who made the deduction was not entitled.
+(3) Any holding and recovery in accordance with subsection (2) is without prejudice to any other remedies against the debtor or any other person.
 
 ### 86F Offences in relation to deduction notices
 Every person commits an offence and shall be liable on conviction to a fine not exceeding $2,000 who—
@@ -2923,7 +3142,7 @@ Every person commits an offence and shall be liable on conviction to a fine not 
   (c) on the amount in default, the greater of 10% of that amount or $5:
   (d) for each additional month or part of a month the amount in default or any part thereof that has not been deducted or, as the case may be, has not been paid to the department, a further penalty of the greater of 2% of that amount or part thereof or $1.
 (2) Where any penalty is payable by any person under subsection (1), the chief executive, in his or her discretion, may remit the whole or part of that penalty where he or she is satisfied that the failure to make the deduction or make the payment was due to circumstances reasonably beyond the person's control, or that in all circumstances, the imposition of that penalty would be inequitable; and, where the debtor has already paid any penalty under this section, the chief executive may refund any excess.
-(3) An amount payable to the department under subsection (1) may be recovered under section 86 as if it were money payable under a benefit to which the person was not entitled.
+(3) An amount payable to the department under subsection (1) is a debt due to the Crown under section 85A(f), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the person as if it were money payable under a benefit to which the person was not entitled.
 
 ### 86J Notices
 (1) Every notice given to any person under this Act may be given by delivering it to that person—
@@ -3584,7 +3803,7 @@ Where under section 60H or section 117 the payment of a main benefit under this 
   (a) ceases to be a work-tested beneficiary or a beneficiary required to comply with obligations under section 170 or 171; or
   (b) obtains, under section 105, an exemption from the work test or an exemption from complying with section 170 or 171.
 (6) If the person is still entitled to the benefit at the end of the period of satisfactory participation or non-entitlement (as the case may be), payment of the benefit is no longer subject to the condition in subsection (4).
-(7) Any amount the person is liable to repay under this section may be recovered by the chief executive under section 86(1).
+(7) Any amount the person is liable to repay under this section is a debt due to the Crown under section 85A(b), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the person.
 
 ### 123C Application of Health and Safety in Employment Act 1992 and Human Rights Act 1993
 (1) In this section, person A is a person—
@@ -3681,7 +3900,7 @@ The chief executive may do either or both of the following things:
     (i) it was obtained by fraud; or
     (ii) the spouse or partner of the person made a false statement to or otherwise misled an officer engaged in the administration of this Act, in relation to his or her income or other personal circumstances; and
   (b) as a result, it exceeded the amount (if any) that, in the chief executive's opinion, would otherwise have been paid.
-(2A) Sections 81 and 86, as far as they are applicable and with any necessary modifications, apply to a payment to which subsection (2) applies—
+(2A) Sections 81, 86, and 86AA, as far as they are applicable and with any necessary modifications, apply to a payment to which subsection (2) applies—
   (a) as if it were made by way of benefit under Parts 1A to 1P; and
   (b) as if the person to whom it was made were a beneficiary entitled to a benefit of the amount (if any) that, in the chief executive's opinion, would have been payable if (as the case may be)—
     (i) the fraud had not occurred; or
@@ -3864,7 +4083,7 @@ Nothing in—to anything done, before 31 December 2001, which—
 
 **Offences and general penalty**
 
-### 127 Offences
+### 127 Offences: false statements, misleading, or attempting to mislead, to receive or continue to receive benefits
 Every person who makes any statement knowing it to be false in any material particular, or who wilfully does or says anything or omits to do or say anything for the purpose of misleading or attempting to mislead any officer concerned in the administration of this Act or any other person whomsoever, for the purpose of receiving or continuing to receive (for himself or for any other person), or which results in himself or any other person receiving or continuing to receive—commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000, or to both imprisonment and fine.
   (a) any benefit under this Act or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001; or
   (b) any exemption from any obligation under this Act; or
@@ -3872,6 +4091,34 @@ Every person who makes any statement knowing it to be false in any material part
   (d) any entitlement card issued under regulations made pursuant to section 132A; or
   (e) a more favourable means assessment under section 69FA than he or she would otherwise have been entitled to; or
   (f) a more favourable means assessment under Part 4 than he or she would otherwise have been entitled to—
+
+### 127A Offences: spouse or partner benefiting from excess amount knowing, or being reckless about whether, it is obtained by beneficiary's fraud
+(1) A person (the spouse or partner) commits an offence who—
+  (a) is a spouse or partner of a person (the beneficiary) who obtains an excess amount by fraud; and
+  (b) benefits directly or indirectly from the amount or a part of it knowing that, or being reckless about whether, the amount or part is an amount or part—
+    (i) in excess of the amount to which the beneficiary is by law entitled or to which the beneficiary has no entitlement; and
+    (ii) obtained by the beneficiary by fraud.
+(2) Subsection (1)(b) applies to the amount or part even if the spouse or partner—
+  (a) does not benefit from it knowingly; and
+  (b) does not know at all or exactly its value; and
+  (c) does not know, or (as the case requires) is not reckless about, the precise way in which it was obtained by the beneficiary by fraud.
+(3) The beneficiary obtains an excess amount for the purposes of subsection (1) if the beneficiary obtains any payment, or receives any credit or advance, referred to in section 85A in excess of the amount to which the beneficiary is by law entitled or to which the beneficiary has no entitlement.
+(4) The excess amount is obtained by the beneficiary by fraud for the purposes of subsection (1) if—
+  (a) the beneficiary obtained that amount by fraud (as defined in sections 83AA(4)(a) and 86AA(2)(a)); or
+  (b) the beneficiary is convicted of a specified offence in respect of obtaining that amount.
+(5) Specified offence, in subsection (4)(b), means an offence against section 127 (offences: false statements, misleading, or attempting to mislead, to receive or continue to receive benefits) of this Act, or an offence against all or any of the following provisions of the Crimes Act 1961:
+  (a) section 228 (dishonestly taking or using document):
+  (b) sections 240 and 241 (obtaining by deception or causing loss by deception):
+  (c) section 256(1) and (2) (forgery):
+  (d) section 257 (using forged documents):
+  (e) section 258 (altering, concealing, destroying, or reproducing documents with intent to deceive):
+  (f) section 259 (using altered or reproduced document with intent to deceive).
+(6) Subsections (4) and (5) do not limit—
+  (a) the generality of the references in subsection (1) to fraud; or
+  (b) the operation of section 49 (conviction as evidence in criminal proceedings) of the Evidence Act 2006.
+(7) A person who commits an offence under subsection (1) is liable on conviction to a penalty that is either or both:
+  (a) imprisonment for a term not exceeding 12 months:
+  (b) a fine not exceeding $5,000.
 
 ### 128 Time for filing charging document
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the facts alleged in the charging document are brought to the knowledge of any officer concerned in the administration of this Act.
@@ -4056,7 +4303,7 @@ Without limiting the general power to make regulations conferred by section 132,
 
 ### 132G Regulations providing for remittance or suspension of debt
 (1) The Governor-General may, from time to time, by Order in Council, make regulations requiring or permitting—
-  (a) the recovery of amounts recoverable under section 86(1) to (1B) and (3) to (5) to be suspended; or
+  (a) the recovery of amounts recoverable under sections 86(1) to (1B) and (3) to (5) and 86AA to be suspended; or
   (b) those amounts to be remitted.
 (2) Regulations under subsection (1) may require or permit the suspension of recovery of amounts, or the remission of amounts,—
   (a) of a particular kind or from persons of a particular kind:
@@ -4361,8 +4608,7 @@ In this Part, date of means assessment means,—
 (5) Section 147(4) applies if a review under this section determines that, as at the date of means assessment, the assets of the person were equal to or less than the applicable asset threshold.
 
 ### 151 Conjugal status for purpose of means assessment
-(1) The chief executive's discretion under section 63 to regard certain people as married, or as single, and to determine the date on which they may be so regarded, applies for the purposes of this Part to a resident assessed as requiring care as if the resident were an applicant for a benefit.
-(2) The chief executive may not determine that, for the purposes of this Part, a person is single by reason only that the person or his or her spouse or partner—
+The chief executive cannot under section 63 determine that, for the purposes of this Part, a person is single by reason only that the person or his or her spouse or partner—
   (a) is a resident assessed as requiring care; or
   (b) has become unable to affirm his or her marriage or civil union.
 
@@ -5108,7 +5354,7 @@ The chief executive must convert an assessment made under clauses 3 to 5 to a we
 
 ## Schedule 32 — Transitional and savings provisions related to amendments to this Act
 
-**Social Security Amendment Act 2001**
+### Part 1 — Social Security Amendment Act 2001
 
 ### 1 Transfer from community wage to unemployment benefit on 1 July 2001
 (1) This clause applies to a person who, immediately before 1 July 2001, was—
@@ -5125,7 +5371,7 @@ The chief executive must convert an assessment made under clauses 3 to 5 to a we
   (e) a sanction applying under any of former sections 115 to 118.
 (4) In this clause, former section means a section of this Act as it was before 1 July 2001.
 
-**Social Security (Benefit Categories and Work Focus) Amendment Act 2013**
+### Part 2 — Social Security (Benefit Categories and Work Focus) Amendment Act 2013
 
 ### 2 Transfer from DPBs for solo parents and widows' benefits to sole parent support or jobseeker support on 15 July 2013
 Widows' benefits and DPBs for solo parents abolished
@@ -5408,6 +5654,33 @@ Nothing in section 74AA(1)(c) (as replaced on 15 July 2013) applies on or after 
   (b) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions repealed, amended, or revoked by those amendments to this Act are to continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
   (c) provide for any other matter necessary for either or both of the purposes in subclause (1)(a) and (b).
 (4) No regulations made under this clause may be made, or continue in force, after the close of 14 July 2016.
+
+### Part 3 — Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014
+
+### 18 Certain review and appeal amendments apply to decisions made before commencement
+(1) The following provisions apply to decisions made before the commencement of the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014:
+  (a) rows 1 and 2 of the table in section 10A(1) (as inserted by section 4(2) of the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014):
+  (b) section 12J(1) to (7) and (15) to (17) (as inserted by section 5 of that Act).
+(2) Subclause (1) does not limit or affect the application of sections 10A(1) and 12J of the principal Act (as so inserted) to decisions made after that commencement.
+
+### 19 Amendments generally apply in respect of excess amounts obtained or received before or after commencement
+(1) Every enactment that is amended or inserted by the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014, and that is not specified in subclause (3), applies to, or in respect of, an amount that a person has obtained or received—
+  (a) in excess of the amount to which the person is by law entitled or to which the person has no entitlement; and
+  (b) before or after the commencement of that Act.
+(2) Every enactment specified in subclause (3) applies only to, or in respect of, an amount that a person has obtained or received—
+  (a) in excess of the amount to which the person is by law entitled or to which the person has no entitlement; and
+  (b) after that commencement.
+(3) The following enactments apply only to, or in respect of, an amount of the kind specified in subclause (2):
+  (a) section 83AA as inserted by section 7 of that Act:
+  (b) section 86(3) and (3A) as amended or inserted by section 10(5) and (6) of that Act:
+  (c) section 86AA as inserted by section 11 of that Act:
+  (d) section 127A as inserted by section 13 of that Act.
+
+### 20 Amendment, review, or replacement of existing debt-recovery decisions or determinations
+(1) This clause applies to a decision or determination that is in force immediately before the commencement of the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014 and that relates to either or both of the rate and method of recovery of an amount that a person has obtained or received—
+  (a) in excess of the amount to which the person is by law entitled or to which the person has no entitlement; and
+  (b) before that commencement.
+(2) The decision or determination is not required by section 86(1BA) (as inserted by section 10(2) of the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014) to be amended, reviewed, or replaced until the chief executive determines as soon as is reasonably practicable after that commencement to amend, review, or replace it under that section (as so inserted).
 
 ### 1 Short Title
 This Act may be cited as the Social Security Amendment Act 1972, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
