@@ -1,5 +1,5 @@
 # Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014
-_Consolidation as at 2014-04-22_
+_Consolidation as at 2014-07-07_
 
 ### 1 Title
 This Act is the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014.
