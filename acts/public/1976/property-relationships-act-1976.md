@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2014-03-31_
+_Consolidation as at 2014-07-15_
 
 > Title
 
@@ -1075,8 +1075,8 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
 (2) Fees payable to a lawyer appointed under subsection (1), and reasonable expenses incurred,—
   (a) must be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) must be paid by 1 or more of the parties to the proceedings as ordered by the court.
-(3) However, if the court thinks it proper, the court may order that the fees and expenses be paid out of public money appropriated by Parliament for the purpose.
-(4) If the Crown pays the amount payable under subsection (2)(b), the amount is a debt due to the Crown by the party or parties ordered to pay it and, if that party or those parties do not pay that amount, the Crown may recover it by order of the court in the same manner as a judgment of that court.
+(3)
+(4)
 
 ### 38 Inquiries, and settlement of schemes
 (1) The court may, on any application under this Act, appoint the Registrar of the court, or such other person as the court thinks fit, to make an inquiry into the matters of fact in issue between the parties, and to report thereon to the court.
@@ -1733,3 +1733,20 @@ The death of a spouse or de facto partner does not affect the validity or effect
 ## Schedule 2 — Consequential amendments
 
 ## Schedule 3 — Enactments repealed
+
+### 1 Title
+This Act is the Property (Relationships) Amendment Act 2013.
+
+### 2 Commencement
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different provisions.
+(2) If any provision of this Act has not earlier been brought into force under subsection (1), it comes into force on the day that is 1 year after the date on which this Act receives the Royal assent.
+
+### 3 Principal Act
+This Act amends the Property (Relationships) Act 1976 (the principal Act).
+
+### 5 Transitional provisions relating to reimbursement of costs of court-appointed counsel
+(1) Section 37A(3) and (4) of the principal Act, as in force before the commencement of section 4 of this Act, continue to apply to proceedings commenced before the commencement of section 4.
+(2) This subsection applies to—
+  (a) any order made under section 37A(3) of the principal Act as in force before the commencement of section 4, but only if, before that commencement, no steps had been taken to enforce that order; and
+  (b) any order made, after that commencement, under section 37A(3) of the principal Act as continued by subsection (1).
+(3) Despite subsection (1), in relation to any orders to which subsection (2) applies, section 37A(4) of the principal Act, as continued by subsection (1), must be read as if for the words “by order of the court in the same manner as a judgment of that court” there were substituted the words “in the same manner as a judgment of the court”.
