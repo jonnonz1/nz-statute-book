@@ -1,5 +1,5 @@
 # Housing Accords and Special Housing Areas Act 2013
-_Consolidation as at 2014-01-09_
+_Consolidation as at 2014-07-17_
 
 ### 1 Title
 This Act is the Housing Accords and Special Housing Areas Act 2013.
