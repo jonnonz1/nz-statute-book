@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-07-22_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -6552,23 +6552,7 @@ A non-electronic filing penalty under section 139AA is due and payable on the 5t
   (b) on every other occasion the person is convicted of the same type of offence, to a fine not exceeding $50,000.
 
 ### 144 Certain offences in relation to Stamp and Cheque Duties Act 1971
-(1) A person commits an offence against this Act if the person—
-  (a)
-  (b)
-  (c)
-  (d) being a bank licensed under section 81 of the Stamp and Cheque Duties Act 1971, fails to comply with a provision of that section or of any licence granted under that section; or
-  (e) being a printer licensed under section 82 of the Stamp and Cheque Duties Act 1971, fails to comply with a provision of that section or of a licence granted under that section; or
-  (f)
-  (g)
-  (h)
-  (i)
-  (j)
-(2)
-(3)
-(4)
-(5) A person who is convicted of an offence against subsection (1) is liable to a fine not exceeding $12,000.
-(6)
-(7)
+[Repealed]
 
 ### 145 Penalties for offences for which no specific penalty imposed
 A person who is convicted of an offence against this Act or any other Inland Revenue Act for which no penalty is prescribed is liable—
@@ -7467,7 +7451,7 @@ If a double tax agreement exempts from tax any income derived before the date of
   (a) an amount defined as tax in section 3(1)﻿(a):
   (b) a refund allowed under section 41A:
   (c)
-  (d) cheque duty, as provided for in section 77 of the Stamp and Cheque Duties Act 1971:
+  (d)
   (e) financial support, as defined in section 2 of the Child Support Act 1991:
   (f) a repayment obligation, as defined in section 4(1) of the Student Loan Scheme Act 2011, if the borrower has chosen to receive a refund under section 132 of that Act.
 (6) This section applies to the direct crediting of a type of tax once an Order in Council has been promulgated specifying the date from which the type of tax may be refunded by direct credit.
@@ -8267,14 +8251,3 @@ This Part amends the Tax Administration Act 1994.
   (b) relating to the treatment of a petroleum permit or replacement permit; and
   (c) relying on the definition of petroleum permit as it was before the amendment made by subsection (2).
 (6) Subsection (3) applies for the 2008–09 and later income years.
-
-### 1 Title
-This Act is the Cheque Duty Repeal Act 2014.
-
-### 2 Commencement
-(1) Sections 3 and 4 come into force on 1 July 2014.
-(2) Section 5 comes into force on 22 July 2014.
-
-### 4 Tax Administration Act 1994 amended consequential to cheque duty repeal
-(1) Amendment(s) incorporated in the Act(s).
-(2) For the purposes of section 144(1)﻿(d) and (e) of the Tax Administration Act 1994, a bank or printer that has its licence cancelled under section 3(2) of this Act is treated as licensed under section 81, or section 82 (as the case may be) of the Stamp and Cheque Duties Act 1971 despite section 3 of this Act.
