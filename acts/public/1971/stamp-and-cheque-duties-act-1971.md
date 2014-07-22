@@ -1,5 +1,5 @@
 # Stamp and Cheque Duties Act 1971
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-07-22_
 
 > An Act to consolidate and amend the law relating to stamp duties
 
@@ -11,11 +11,7 @@ _Consolidation as at 2014-07-01_
 ## Part 1 — Interpretation
 
 ### 2 Interpretation
-In this Act, unless the context otherwise requires,—
-  - **bill of exchange** means a bill of exchange within the meaning of the Bills of Exchange Act 1908; and includes a promissory note within the meaning of that Act, other than a banknote
-  - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
-  - **the Crown** means Her Majesty in respect of the Government of New Zealand and its dependencies; and includes any officer of the Government acting in his official capacity; and, in relation to any deed or bill of exchange, also includes any public authority
-  - **Taxation Review Authority** , or , means a Taxation Review Authority constituted under the Taxation Review Authorities Act 1994.
+[Repealed]
 
 ### 3 Meaning of the term instrument
 [Repealed]
@@ -303,14 +299,10 @@ In this Act, unless the context otherwise requires,—
 [Repealed]
 
 ### 85 Refund of cheque duty
-(1) If the Commissioner is satisfied—the Commissioner may, on application made in writing before 22 July 2014 and within 8 years after the date of payment of the duty, and accompanied by the bill of exchange forms, or the licence and the authority to print, or the bills of exchange, or such evidence as the Commissioner thinks sufficient of their loss or destruction before 1 July 2014, refund the duty to the person entitled to it; but no refund shall be made if the duty amounts to less than $1.
-  (a) that any bill of exchange forms for which cheque duty has been prepaid otherwise than under section 81 have not been used; or
-  (b) that any bill of exchange forms for which cheque duty has been prepaid under section 83 have not been printed; or
-  (c) that any bills of exchange for which cheque duty has been paid have been, before 1 July 2014, spoiled, defaced, lost, or destroyed after issue but before being further acted on,—
-(2) A refund under subsection (1) must be made in accordance with the requirements of section 184A of the Tax Administration Act 1994.
+[Repealed]
 
 ### 86 Refunds payable out of Crown Bank Account
-All money payable by way of refunding any cheque duty shall be paid out of a Crown Bank Account without further appropriation than this section.
+[Repealed]
 
 ## Part 6A — Credit card transaction duty
 
@@ -335,6 +327,7 @@ All money payable by way of refunding any cheque duty shall be paid out of a Cro
 In this Part, unless the context otherwise requires,—
   - **approved issuer** has the meaning assigned to that term by section YA 1 of the Income Tax Act 2007
   - **approved issuer levy** means the levy referred to in section 86J
+  - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
   - **interest** has the meaning assigned to that term by paragraphs (a) and (b) of the definition of interest in section YA 1 of the Income Tax Act 2007 for the purposes of the NRWT rules of that Act
   - **leviable value** means, in respect of any registered security at the time of any payment of interest in respect of that registered security, the amount of that payment of interest
   - **money lent** has the meaning assigned to that term by section YA 1 of the Income Tax Act 2007; and has a corresponding meaning
