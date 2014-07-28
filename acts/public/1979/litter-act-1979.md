@@ -1,5 +1,5 @@
 # Litter Act 1979
-_Consolidation as at 2013-10-23_
+_Consolidation as at 2014-07-28_
 
 > An Act to make better provision for the abatement and control of litter
 
@@ -63,8 +63,8 @@ Keep New Zealand Beautiful Incorporated shall be the body primarily responsible 
   (e) every harbourmaster appointed under Part 3A of the Maritime Transport Act 1994 or pursuant to the Lake Taupo Regulations 1976 while acting in the exercise of his powers or the discharge of his duties in the harbour in respect of which he was appointed:
   (f) every enforcement officer and honorary enforcement officer within the meaning of the Walking Access Act 2008 while that officer is acting in the exercise of his or her powers and the discharge of his or her duties on any walkway:
   (g) any officer appointed pursuant to section 196 or section 197 of the Fisheries Act 1996, and any ranger appointed pursuant to section 38 of the Wildlife Act 1953:
-  (h) every ranger appointed under section 40 of the National Parks Act 1980 while he is acting in the exercise of his powers and the discharge of his duties in any national park in respect of which he is authorised to act.
-  (j)
+  (h) every ranger appointed under section 40 of the National Parks Act 1980 while he is acting in the exercise of his powers and the discharge of his duties in any national park in respect of which he is authorised to act:
+  (i) every warranted officer and honorary warranted officer who is warranted for the purposes of the Te Urewera Act 2014, while acting in the exercise and performance of powers and duties conferred and imposed by the Te Urewera Act 2014.
 (2) The production by any person of a warrant of appointment or other evidence that he holds an office mentioned in subsection (1) shall be sufficient evidence that he is an Officer for the purposes of this Act.
 (3) The Governor-General may, from time to time by Order in Council, appoint other persons, whether in groups or classes, to be Litter Control Officers; and may in like manner revoke or vary any appointment so made.
 
@@ -137,14 +137,14 @@ Every public authority, whether alone or acting jointly for the purposes of this
 (5) Where any person is alleged to have committed an infringement offence, that person may either—
   (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 14.
-(6) No infringement notice shall be issued by a Warden nor by any person deemed to be an Officer under section 6(1)(c), (d), (f), (h), or (j).
+(6) No infringement notice shall be issued by a Warden nor by any person deemed to be an Officer under section 6(1)﻿(c), (d), (f), (h), or (j).
 
 ### 14 Infringement notices
 (1) Where a Litter Control Officer observes a person committing an infringement offence or has reasonable cause to believe such an offence is being or has just been committed by that person, an infringement notice in respect of that offence may be issued to that person by that Officer.
 (2) An infringement notice may be served—
   (a) by delivering it personally to the person who appears to have committed the infringement offence; or
   (b) by sending it by post addressed to him at his last known place of residence or business.
-(3) An infringement notice sent to a person by post pursuant to subsection (2)(b) shall be deemed to have been served on the person when it was so posted.
+(3) An infringement notice sent to a person by post pursuant to subsection (2)﻿(b) shall be deemed to have been served on the person when it was so posted.
 (4) Every infringement notice shall be in such form as the Governor-General may from time to time by Order in Council prescribe, and shall contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
   (b) the amount of the infringement fee for the offence; and
@@ -195,7 +195,7 @@ If a body corporate commits an offence against section 15, every director, manag
 [Repealed]
 
 ### 19A Strict liability for certain offences
-(1) In prosecuting an offence against a provision of this Act (other than an offence against section 16 or 17(1)(a)), the prosecution does not need to prove that the defendant intentionally committed the offence.
+(1) In prosecuting an offence against a provision of this Act (other than an offence against section 16 or 17(1)﻿(a)), the prosecution does not need to prove that the defendant intentionally committed the offence.
 (2) This section is for the avoidance of doubt.
 
 ### 19B Defences to strict liability offences
