@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-07-28_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -82,12 +82,7 @@ _Consolidation as at 2014-04-01_
 (3) The beneficiaries of the Board are hereby declared to be members of the Atiawa, Ngati Tama, Ngati Mutunga, Ngati Maru, Ngati Ruanui, Ngaruahine, Taranaki, and Ngarauru tribes, and their descendants.
 
 ### 9A Tuhoe-Waikaremoana Maori Trust Board constituted
-Whereas the Urewera Lands Act 1921–22 authorised the appointment of Commissioners for the purpose of carrying into effect a scheme of consolidation of the lands described in Schedule 1 thereto: And whereas the Commissioners were authorised by the said Act to inquire into certain purchases theretofore made by the Crown and to allot lands to the Crown in accordance therewith under the said scheme and to fix the boundaries thereof and, after providing for the portion of land to be allotted to the Crown, to allot the balance in suitable areas to persons to be named in the Commissioners' orders as entitled thereto:And whereas the area so allotted to the Crown included land having a value of 20,000 pounds or thereabouts which represented the proportionate contribution which the Commissioners considered should be made to the Crown in respect of the cost of certain new roads which the Crown then proposed to construct:And whereas for various reasons the roads were not constructed and are not now likely to be constructed:And whereas claims have been made against the Crown for compensation in respect of the land allotted to the Crown in respect of the cost of the roading as aforesaid:And whereas negotiations for the settlement of the said claims have been concluded between representatives of the Crown and the Maori claimants and it is desirable to give effect to the terms of the settlement:Be it therefore enacted as follows:
-(1) There is hereby constituted a body corporate to be known as the Tuhoe-Waikaremoana Maori Trust Board (in this section referred to as the Board) which shall be a Maori Trust Board within the meaning and for the purposes of this Act.
-(2) The beneficiaries of the Board are hereby declared to be the persons to whom land was allotted under section 7 of the Urewera Lands Act 1921–22 and their successors in title (being Maoris or the descendants of Maoris) and those persons comprised in the Tuhoe portion of the list of owners of Lake Waikaremoana, as certified by the Registrar of the Maori Land Court pursuant to subsection (3) of section 9 of the Lake Waikaremoana Act 1971 and the descendants of any persons hereinbefore declared to be beneficiaries.
-(3) There shall, without further appropriation than this section, be paid to the Board out of the Consolidated Fund the sum of 100,000 pounds together with interest thereon at the rate of 5% per annum from 6 November 1957 to 31 March 1958, and at the rate of 4.5% per annum from 1 April 1958 until the date of payment; and the said payments shall be deemed to be in full satisfaction and discharge of all claims and demands against the Crown in respect of the land allotted to the Crown in the manner and for the purposes hereinbefore referred to.
-(4) As soon as practicable after the commencement of this section there shall be appointed by the Governor-General not more than 12 persons to be the initial members of the Board for a term of 3 years.
-(5) All members, other than the initial members, shall be appointed in the manner prescribed by this Act.
+[Repealed]
 
 **Tuwharetoa Maori Trust Board**
 
