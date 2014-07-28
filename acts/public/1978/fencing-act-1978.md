@@ -1,5 +1,5 @@
 # Fencing Act 1978
-_Consolidation as at 2009-08-01_
+_Consolidation as at 2014-07-28_
 
 > An Act to reform the law relating to the erection and repair of dividing fences, and in substitution for the Fencing Act 1908
 
@@ -36,6 +36,7 @@ In this Act, unless the context otherwise requires,—
 (1) Nothing in this Act shall apply in respect of—
   (a) roads:
   (b) land forming part of a national park under the National Parks Act 1980:
+  (ba) land that is Te Urewera land, as defined by section 7 of the Te Urewera Act 2014:
   (c) land held for railway purposes other than for the accommodation of employees by the Crown, New Zealand Railways Corporation, or a railway operator that is a Crown transferee company (as those terms are defined in section 2 of the New Zealand Railways Corporation Restructuring Act 1990):
   (ca) land held or occupied for the operation of a railway by a railway operator, not being a Crown transferee company (as those terms are defined in section 2 of the New Zealand Railways Corporation Restructuring Act 1990), other than land used principally for car parking, the storage of freight, materials, and ancillary equipment, or administration or residential purposes:
   (d) land that is a marginal strip within the meaning of the Conservation Act 1987:
@@ -177,7 +178,7 @@ Save as otherwise agreed or ordered by the court, the middle of a fence shall be
   (m) the value or cost of a fence, and the amount of the appropriate share payable by an occupier, for the purpose of any of the following sections, namely, sections 18, 19, and 20:
   (n) the amount of the appropriate share under section 19:
   (o) any other question or dispute arising out of this Act:
-  (p) the costs of any proceedings, (including such expenses of survey as the court thinks fit) and the parties by whom and to whom costs are to be paid.
+  (p) the costs of any proceedings (including such expenses of survey as the court thinks fit), and the parties by whom and to whom costs are to be paid.
 (2) In any case where the court has jurisdiction under subsection (1) it may—
   (a) make such consequential order as it thinks fit:
   (b) enter judgment for such sum of money as it thinks fit.
@@ -190,12 +191,12 @@ Save as otherwise agreed or ordered by the court, the middle of a fence shall be
   (a) hear and determine all questions and disputes arising under this Act in relation to any of the matters specified in paragraphs (a) to (o) of subsection (1) of section 24; and
   (b) exercise the powers conferred by subsection (2) or subsection (3) of that section.
 (2) Subject to subsection (3), in the exercise of its jurisdiction under subsection (1) a Disputes Tribunal shall not—and an order or judgment of a Tribunal that exceeds any such restriction shall be entirely of no effect.
-  (a) make an order under section 24(2)(a)—
+  (a) make an order under section 24(2)﻿(a)—
     (i) requiring a person to pay an amount exceeding $15,000:
     (ii) requiring a person to incur any expense that exceeds $15,000:
     (iii) declaring a person not liable to another for an amount exceeding $15,000:
     (iv) requiring a person to remove a fence where the value of the fence exceeds $15,000:
-  (b) enter judgment under section 24(2)(b) for an amount exceeding $15,000—
+  (b) enter judgment under section 24(2)﻿(b) for an amount exceeding $15,000—
 (3) Where, in respect of any proceedings under subsection (1), the jurisdiction of a Disputes Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunals Act 1988, subsection (2) shall be read as if every reference in that subsection to $15,000 were a reference to $20,000.
 
 ### 25 Power to come in and defend proceedings
