@@ -1,5 +1,5 @@
 # Lake Waikaremoana Act 1971
-_Consolidation as at 1972-10-20_
+_Consolidation as at 2014-07-28_
 
 > An Act to validate the lease to the Crown of Lake Waikaremoana, and to provide for the administration of the rental therefrom by certain Maori Trust Boards
 
@@ -17,7 +17,9 @@ This Act may be cited as the Lake Waikaremoana Act 1971.
 ### 2 Interpretation
 In this Act unless the context otherwise requires,—
   - **Lake Waikaremoana** or means all that piece of Maori freehold land known as Lake Waikaremoana, situated in the Gisborne Land District, and containing 12 875 acres, more or less, and being all the land comprised and described in a Freehold Order of the Maori Land Court dated 6 June 1918 and registered in the Provisional Register, Volume 1B, folio 861, Gisborne Registry
-  - **the lease** means the lease by Sir Turi Carroll and 9 others to the Crown, a copy of which is set out in the Schedule.
+  - **the lease** means the lease by Sir Turi Carroll and 9 others to the Crown, a copy of which is set out in the Schedule
+  - **trustees** means the trustees of the Tūhoe Charitable Trust
+  - **Tūhoe Charitable Trust** has the meaning given in section 88 of the Tūhoe Claims Settlement Act 2014.
 
 ### 3 Validation of the lease
 (1) The lease is hereby declared to be a valid and effectual lease of Lake Waikaremoana and to have effect according to its tenor as if it had been granted in due form by the Maori Trustee pursuant to a duly confirmed resolution of a meeting of assembled owners under Part 23 of the Maori Affairs Act 1953.
@@ -68,10 +70,14 @@ Pending provision by regulations under the Maori Trust Boards Act 1955 for varyi
 (2) The Registrar shall thereupon make an order vesting Lake Waikaremoana in the Wairoa-Waikaremoana Maori Trust Board and in the Tuhoe-Waikaremoana Maori Trust Board for an estate of freehold in fee simple (but subject to the lease to the Crown validated by section 3) as tenants in common in stated shares which shares shall be as expressed by the Registrar pursuant to subsection (1) for the Ngati Kahungunu group of owners and for the Tuhoe group of owners respectively.
 (3) The order made pursuant to subsection (2) shall have effect as if it were an order of the Maori Land Court, and the District Land Registrar is hereby authorised and directed upon the application of the Registrar of the Maori Land Court to register it accordingly under the Land Transfer Act 1952.
 
-### 14 Rent and other money to be paid to Maori Trust Boards
-The rent payable under the lease, and any other money that becomes payable in respect of Lake Waikaremoana, shall be paid to the Tuhoe-Waikaremoana Maori Trust Board and to the Wairoa-Waikaremoana Maori Trust Board in accordance with their respective shares in the lake and shall, in each case, constitute assets of the Board for the purposes of section 24 of the Maori Trust Boards Act 1955:
-  provided that any necessary expenses incurred in negotiating the lease and in carrying out the requirements of this Act may be met from the rent payable under the lease before it is paid to the Maori Trust Boards:
-  provided also that until the shares of the Maori Trust Boards are determined the rent shall continue to be paid to the Maori Trustee.
+### 14 Rent and other money payable
+(1) The rent payable under the lease and any other money that becomes payable in respect of Lake Waikaremoana must be paid, in accordance with their respective shares in the lake, to—
+  (a) the Tūhoe Charitable Trust Board, to be held subject to the trusts, covenants, and conditions applying to the assets and liabilities of the Tūhoe Charitable Trust; and
+  (b) the Wairoa-Waikaremoana Maori Trust Board.
+(2) The rent and other money referred to in subsection (1) constitute assets,—
+  (a) in the case of the money paid under subsection (1)(a), of the Tūhoe Charitable Trust Board; and
+  (b) in the case of the money paid under subsection (1)(b), of the Wairoa-Waikaremoana Maori Trust Board, for the purposes of section 24 of the Maori Trust Boards Act 1955.
+(3) Any necessary expenses incurred in negotiating the lease and carrying out the requirements of this Act may be met from the rent payable under the lease before it is paid to the Tūhoe Charitable Trust Board as trustee of the Tūhoe Charitable Trust and the Wairoa-Waikaremoana Maori Trust Board respectively.
 
 ## Schedule Schedule — Lease of Lake Waikaremoana
 
