@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-07-28_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -27,7 +27,7 @@ In this Act, unless the context otherwise requires,—
   - **infringement offence** has the meaning given to it in section 65(1)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **neutered dog** means a dog that has been spayed or castrated; and does not include a dog that has been vasectomised
-  - **owner** , in relation to any dog, means every person who—but does not include any person who has seized or taken custody of the dog under this Act or the Animal Welfare Act 1999 or the National Parks Act 1980 or the Conservation Act 1987 or any order made under this Act or the Animal Welfare Act 1999
+  - **owner** , in relation to any dog, means every person who—but does not include any person who has seized or taken custody of the dog under this Act or the Animal Welfare Act 1999 or the National Parks Act 1980 or the Te Urewera Act 2014 or the Conservation Act 1987 or any order made under this Act or the Animal Welfare Act 1999
     (a) owns the dog; or
     (b) has the dog in his or her possession, whether the dog is at large or in confinement, otherwise than for a period not exceeding 72 hours for the purpose of preventing the dog causing injury, damage, or distress, or for the sole purpose of restoring a lost dog to its owner; or
     (c) the parent or guardian of a person under the age of 16 years who—
@@ -46,7 +46,7 @@ In this Act, unless the context otherwise requires,—
   - **registration year** has the same meaning as that given to the term financial year in section 5(1) of the Local Government Act 2002
   - **specified agency** —
     (a) means—
-      (i) the Aviation Security Service established under section 72B(2)(ca) of the Civil Aviation Act 1990:
+      (i) the Aviation Security Service established under section 72B(2)﻿(ca) of the Civil Aviation Act 1990:
       (ii) the Department of Conservation:
       (iii) the Department of Corrections:
       (iv) the Ministry of Agriculture and Forestry:
@@ -55,11 +55,11 @@ In this Act, unless the context otherwise requires,—
       (vii) the New Zealand Customs Service:
       (viii) the New Zealand Defence Force:
       (ix) the New Zealand Police; and
-    (b) includes the Director of Civil Defence and Emergency Management
+    (b) includes the Director of Civil Defence Emergency Management
   - **stock** means—
     (a) any live horse, cattle, sheep, swine, alpaca, llama, bison, donkey, hinny, mule, or water buffalo that is not in a wild state:
     (b) any deer, goat, tahr, rabbit, possum, or other animal that is kept within a fence or enclosure for domestic or farming purposes
-  - **territorial authority** has the same meaning as in the Local Government Act 2002; but, except for the purposes of section 7 of this Act, does not include any territorial authority that has united with any other territorial authority under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002
+  - **territorial authority** has the same meaning as in the Local Government Act 2002; but, except for the purposes of section 7 of this Act, does not include any territorial authority that has united with any other territorial authority under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002
   - **veterinarian** has the meaning given to it in section 4 of the Veterinarians Act 2005
   - **warranted officer** means any person who is for the time being a warranted officer within the meaning of the Conservation Act 1987
   - **working dog** means—
@@ -70,9 +70,9 @@ In this Act, unless the context otherwise requires,—
       (iii) kept by the Department of Conservation or any officer or employee of that department solely or principally for the purposes of carrying out the functions, duties, and powers of that department; or
       (iv) kept solely or principally for the purposes of destroying pests or pest agents under any pest management plan under the Biosecurity Act 1993; or
       (iva) kept by the Department of Corrections or any officer or employee of that department solely or principally for the purposes of carrying out the functions, duties, and powers of that department; or
-      (ivb) kept by the Aviation Security Service established under section 72B(2)(ca) of the Civil Aviation Act 1990, or any officer or employee of that service solely or principally for the purposes of carrying out the functions, duties, and powers of that service; or
+      (ivb) kept by the Aviation Security Service established under section 72B(2)﻿(ca) of the Civil Aviation Act 1990, or any officer or employee of that service solely or principally for the purposes of carrying out the functions, duties, and powers of that service; or
       (ivc) certified for use by the Director of Civil Defence Emergency Management for the purposes of carrying out the functions, duties, and powers conferred by the Civil Defence Emergency Management Act 2002; or
-      (v) owned by a property guard as defined in section 9 of the Private Security Personnel and Private Investigators Act 2010 or a property guard employee as defined in section 17 of that Act, and kept solely or principally for the purpose of doing the things specified in section 9(1)(a) to (c) of that Act; or
+      (v) owned by a property guard as defined in section 9 of the Private Security Personnel and Private Investigators Act 2010 or a property guard employee as defined in section 17 of that Act, and kept solely or principally for the purpose of doing the things specified in section 9(1)﻿(a) to (c) of that Act; or
       (vi) declared by resolution of the territorial authority to be a working dog for the purposes of this Act, or any dog of a class so declared by the authority, being a dog owned by any class of persons specified in the resolution and kept solely or principally for the purposes specified in the resolution.
 
 ### 3 Act to bind the Crown
@@ -112,13 +112,13 @@ The objects of this Act are—
   (c) engage in publicity for the purposes of this Act.
 
 ### 7 Power to appoint joint committees
-(1) Subject to this section, any territorial authority may unite with 1 or more territorial authorities in appointing a joint committee under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act.
-(2) No territorial authority may unite under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act with any local authority or public body that is not a territorial authority.
-(3) Except as otherwise provided in this Act, where any territorial authorities unite under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act,—
+(1) Subject to this section, any territorial authority may unite with 1 or more territorial authorities in appointing a joint committee under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act.
+(2) No territorial authority may unite under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act with any local authority or public body that is not a territorial authority.
+(3) Except as otherwise provided in this Act, where any territorial authorities unite under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act,—
   (a) the joint committee appointed under that clause is, for the purposes of this Act, deemed to be a territorial authority and has all the functions, duties, and powers conferred on a territorial authority by this Act; and
   (b) the district of each of the territorial authorities that so unite are, for the purposes of this Act, deemed to be the district of that territorial authority; and
   (c) except as provided in this section, the territorial authorities that so unite may not perform any function or exercise any power under this Act.
-(4) Where any territorial authorities unite under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act, the joint committee may delegate to any of the territorial authorities that so unite any of the functions, duties, and powers conferred on that joint committee by this Act, other than the functions, duties, and powers conferred on it by sections 10, 11, 37, 38, and 39.
+(4) Where any territorial authorities unite under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act, the joint committee may delegate to any of the territorial authorities that so unite any of the functions, duties, and powers conferred on that joint committee by this Act, other than the functions, duties, and powers conferred on it by sections 10, 11, 37, 38, and 39.
 (5) Every delegation under subsection (4) is revocable at will, and no such delegation prevents the exercise of any power by the joint committee.
 
 ### 8 Performance of functions
@@ -129,16 +129,16 @@ All money received and retained by a territorial authority under this Act shall 
 
 ### 10 Duty of territorial authorities to adopt policy on dogs
 (1) Every territorial authority must adopt, in accordance with the special consultative procedure set out in section 83 of the Local Government Act 2002, a policy in respect of dogs in the district of the territorial authority.
-(2) For the purposes of subsection (1), the territorial authority must, under section 83(1)(e) of the Local Government Act 2002, give notice of the draft policy to every person who is, according to its register, the owner of a dog.
+(2) For the purposes of subsection (1), the territorial authority must, under section 83(1)﻿(e) of the Local Government Act 2002, give notice of the draft policy to every person who is, according to its register, the owner of a dog.
 (3) Every policy adopted under this section—
   (a) shall specify the nature and application of any bylaws made or to be made under section 20; and
-  (b) shall identify any public places in which dogs are to be prohibited, either generally or at specified times, pursuant to a bylaw made under section 20(1)(a); and
-  (c) shall identify—in which dogs (other than working dogs) in public places are to be required by a bylaw made under section 20(1)(b) to be controlled on a leash; and
+  (b) shall identify any public places in which dogs are to be prohibited, either generally or at specified times, pursuant to a bylaw made under section 20(1)﻿(a); and
+  (c) shall identify—in which dogs (other than working dogs) in public places are to be required by a bylaw made under section 20(1)﻿(b) to be controlled on a leash; and
     (i) any particular public places; and
     (ii) any areas or parts of the district,—
   (d) shall identify those areas or parts of the district in respect of which no public places or areas are to be identified under paragraph (b) or paragraph (c); and
-  (e) shall identify any places within areas or parts of the district specified in paragraph (c)(ii) of this subsection that are to be designated by a bylaw under section 20(1)(d) as dog exercise areas in which dogs may be exercised at large; and
-  (ea) must state whether dogs classified by the territorial authority as menacing dogs under section 33A or 33C are required to be neutered under section 33E(1)(b) and,—
+  (e) shall identify any places within areas or parts of the district specified in paragraph (c)﻿(ii) of this subsection that are to be designated by a bylaw under section 20(1)﻿(d) as dog exercise areas in which dogs may be exercised at large; and
+  (ea) must state whether dogs classified by the territorial authority as menacing dogs under section 33A or 33C are required to be neutered under section 33E(1)﻿(b) and,—
     (i) if so, whether the requirement applies to all such dogs; and
     (ii) if not, the matters taken into account by it in requiring any particular dog to be neutered; and
   (eb) must state whether dogs classified by any other territorial authority as menacing dogs under section 33A or 33C are required to be neutered under section 33EB(2) if the dog is registered with the territorial authority and,—
@@ -159,7 +159,8 @@ All money received and retained by a territorial authority under this Act shall 
 (5) Every statement or publication of a policy adopted under this section—
   (a) shall identify any land within the district that is included in—
     (i) a controlled dog area or open dog area under section 26ZS of the Conservation Act 1987; or
-    (ii) a national park constituted under the National Parks Act 1980; and
+    (ii) a national park constituted under the National Parks Act 1980; or
+    (iii) Te Urewera, as defined in section 7 of the Te Urewera Act 2014; and
   (b) may contain such other information and advice in relation to dogs as the territorial authority thinks fit.
 (6) The territorial authority must give effect to a policy adopted under this section—
   (a) by making the necessary bylaws under section 20, which must come into force not later than the 60th day after the adoption of the policy; and
@@ -171,13 +172,13 @@ All money received and retained by a territorial authority under this Act shall 
 (10) Subsection (8) applies subject to section 10AA.
 
 ### 10AA Local authority must review policy if bylaw implementing policy requires review
-(1) This section applies if a bylaw to which section 10(6)(a) applies is required (by the operation of section 20(4)) to be reviewed by a territorial authority under section 158 or 159 of the Local Government Act 2002.
+(1) This section applies if a bylaw to which section 10(6)﻿(a) applies is required (by the operation of section 20(4)) to be reviewed by a territorial authority under section 158 or 159 of the Local Government Act 2002.
 (2) The territorial authority must review the bylaw by making the determinations required by section 155 of that Act in the context of a reconsideration of the matters in section 10(4) of this Act.
 (3) If, after the review, the territorial authority considers that the bylaw should be amended, revoked, or revoked and replaced, it must—
   (a) deal with the bylaw under section 156 of the Local Government Act 2002; and
   (b) if appropriate, amend its policy under section 10 of this Act.
 (4) If, after the review, the territorial authority considers that the bylaw should continue without amendment, it must use the special consultative procedure set out in section 83 of the Local Government Act 2002.
-(5) For the purposes of subsection (4), the statement of proposal referred to in section 83(1)(a) of that Act must include—
+(5) For the purposes of subsection (4), the statement of proposal referred to in section 83(1)﻿(a) of that Act must include—
   (a) a draft of the bylaw to be continued; and
   (b) the reasons for the proposal, including the determinations made by the territorial authority under subsection (2).
 
@@ -233,10 +234,10 @@ All money received and retained by a territorial authority under this Act shall 
   (a) supply the dog with food, water, or shelter:
   (b) enter onto the land or premises from time to time to continue to supply the dog with food, water, or shelter:
   (c) seize the dog and remove it from the land or premises.
-(2) A dog may be seized and removed under subsection (1)(c) only if the dog control officer or dog ranger—
+(2) A dog may be seized and removed under subsection (1)﻿(c) only if the dog control officer or dog ranger—
   (a) is satisfied that the dog is without access to proper and sufficient food, water, or shelter; and
   (b) has reasonable cause to suspect that (but for the food, water, or shelter supplied by the dog control officer or dog ranger) the dog will not be given access to proper and sufficient food, water, or shelter within the next 24 hours.
-(3) If a dog is seized under subsection (1)(c), the dog control officer or dog ranger—
+(3) If a dog is seized under subsection (1)﻿(c), the dog control officer or dog ranger—
   (a) must give written notice in the prescribed form to the owner of the dog or, if the owner is not present, to the person for the time being appearing to be in charge of the land or premises; and
   (b) may retain custody of the dog until—
     (i) the dog control officer or dog ranger is satisfied that the dog will be given access to sufficient food, water, and shelter from its owner; or
@@ -261,7 +262,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 (1) A constable, dog control officer, or dog ranger may, for the purposes of this Act, request the following persons to state his or her full name, date of birth, address, telephone contact number, and place of work (if applicable):
   (a) any person appearing to be in charge of a dog; or
   (b) any person appearing to be the occupier of any land or premises on which a dog for the time being is being kept.
-(1A) If a person referred to in subsection (1)(a) or (b) claims not to be the owner of the dog, the person must state the name, address, and place of work of the owner of the dog (if known).
+(1A) If a person referred to in subsection (1)﻿(a) or (b) claims not to be the owner of the dog, the person must state the name, address, and place of work of the owner of the dog (if known).
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, without reasonable excuse, fails or refuses to comply with a lawful request under subsection (1), or wilfully provides false information in response to a request to provide the information.
 (3) Any constable, dog control officer, or dog ranger who—may seize and impound the dog and, in the case of a constable, may arrest that person without a warrant.
   (a) has reasonable grounds to believe that an offence against subsection (2) has been committed by any person; and
@@ -292,7 +293,8 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 (2) Nothing in this section shall authorise the making of any bylaw conferring any power of entry onto any land or premises without the consent of the occupier.
 (3) No bylaw authorised by any of the provisions of paragraphs (a) to (d) of subsection (1) shall have effect in respect of any land for the time being included in—
   (a) a controlled dog area or open dog area under section 26ZS of the Conservation Act 1987; or
-  (b) a national park constituted under the National Parks Act 1980.
+  (b) a national park constituted under the National Parks Act 1980; or
+  (c) Te Urewera, as defined by section 7 of the Te Urewera Act 2014.
 (4) Bylaws authorised by this section shall be made in accordance with the Local Government Act 2002 and shall be deemed to have been made under that Act.
 (5) A person who commits a breach of any bylaw authorised by this section commits an offence and is liable on conviction to the penalty prescribed by section 242(4) of the Local Government Act 2002.
 (5A) An injunction preventing a person from committing a breach of any bylaw authorised by this section may be granted in accordance with section 162 of the Local Government Act 2002, which section applies accordingly with all necessary modifications.
@@ -301,7 +303,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 **Probationary owners**
 
 ### 21 Classification of probationary owners
-(1) Where any person is convicted of any offence (not being an infringement offence) against this Act or any offence against Part 1 or Part 2 of the Animal Welfare Act 1999 in respect of a dog or any offence against section 26ZZP of the Conservation Act 1987 or section 56I of the National Parks Act 1980, the territorial authority may classify that person as a probationary owner.
+(1) Where any person is convicted of any offence (not being an infringement offence) against this Act or any offence against Part 1 or Part 2 of the Animal Welfare Act 1999 in respect of a dog or any offence against section 26ZZP of the Conservation Act 1987 or section 56I of the National Parks Act 1980 or section 85 of the Te Urewera Act 2014, the territorial authority may classify that person as a probationary owner.
 (2) Where any person commits 3 or more infringement offences (not relating to a single incident or occasion) within a continuous period of 24 months, the territorial authority may classify that person as a probationary owner.
 (3) For the purposes of subsection (2), a person shall be deemed to have committed an infringement offence if—
   (a) that person has been ordered to pay a fine and costs under section 375 of the Criminal Procedure Act 2011, or is deemed to have been so ordered under section 21(5) of the Summary Proceedings Act 1957; or
@@ -358,7 +360,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
 (1A) Subsection (1) does not apply if the territorial authority is satisfied that the circumstances of the offence or offences are such that—
   (a) disqualification is not warranted; or
   (b) the territorial authority will instead classify the person as a probationary owner under section 21.
-(2) For the purposes of subsection (1)(a), a person must be treated as having committed an infringement offence if—
+(2) For the purposes of subsection (1)﻿(a), a person must be treated as having committed an infringement offence if—
   (a) that person has been ordered to pay a fine and costs under section 375 of the Criminal Procedure Act 2011, or is deemed to have been so ordered under section 21(5) of the Summary Proceedings Act 1957; or
   (b) the infringement fee specified on the infringement notice in respect of the offence issued to the person under section 66 has been paid.
 (3) A disqualification under subsection (1) continues in force for a period specified by the territorial authority not exceeding 5 years from the date of the third infringement offence or offences (as the case may be) in respect of which the person is disqualified.
@@ -387,7 +389,7 @@ Every person commits an offence and is liable on conviction to a fine not exceed
   (b) not subsequently be in possession of a dog at any time, except for the purpose of—
     (i) preventing a dog from causing injury, damage, or distress; or
     (ii) returning, within 72 hours, a lost dog to the territorial authority for the purpose of restoring the dog to its owner.
-(2) Every dog disposed of under subsection (1)(a)—
+(2) Every dog disposed of under subsection (1)﻿(a)—
   (a) shall be disposed of in a manner that does not constitute an offence against this or any other Act; and
   (b) shall not be disposed of to any person who resides at the same address as the person disqualified.
 (3) Where any person has, within 14 days after the date on which the notice of disqualification under section 25(4) is given to that person, lodged an objection under section 26, subsection (1) of this section shall apply in relation to that person as if the reference in that subsection to section 25(4) were a reference to section 26(4).
@@ -406,8 +408,8 @@ Every classification as a probationary owner and every disqualification under th
 ### 30 Maintenance of records and provision of information
 (1) For the purposes of this section and of sections 21 to 29, and only for those purposes, every territorial authority shall—
   (a) maintain a record of every order made under section 375 of the Criminal Procedure Act 2011, and of every order deemed to have been made under section 21(5) of the Summary Proceedings Act 1957, in respect of an infringement offence committed within the previous 30 months in respect of which—
-    (i) a charging document was filed in the name of the territorial authority pursuant to section 65(2)(a); or
-    (ii) an infringement notice was issued by the territorial authority:
+    (i) a charging document was filed in the name of the territorial authority pursuant to section 65(2)﻿(a); or
+    (ii) an infringement notice was issued by the territorial authority; and
   (b) maintain a record of every infringement notice issued by the territorial authority under this Act in respect of an offence committed within the previous 30 months (whether or not the infringement fee has been paid); and
   (c) maintain a full record of,—for so long as that classification remains in force; and
     (i) every decision of that territorial authority to classify a person as a probationary owner under subsection (1) or subsection (2) of section 21; and
@@ -421,9 +423,9 @@ Every classification as a probationary owner and every disqualification under th
     (i) is shown, by any record kept by that territorial authority pursuant to paragraph (a) or paragraph (b) of subsection (1) to have committed, within the meaning of section 21(3) or section 25(2), any infringement offence and, if so, the date and nature of that offence; or
     (ii) is for the time being classified as a probationary owner under section 21 by virtue of a decision of that territorial authority and, if so, the date on which that classification will terminate; or
     (iii) is for the time being disqualified under section 25 by virtue of a decision of the territorial authority and, if so, the date on which that disqualification will terminate:
-  (b) shall, where any person classified as a probationary owner by that territorial authority has objected to another territorial authority against that classification, forward to the other territorial authority such information held in the records kept under subsection (1)(c) as is necessary for the purposes of section 22(3)(a):
-  (c) shall, where any person disqualified by that territorial authority has objected to another territorial authority against that disqualification, forward to the other territorial authority such information held in the records kept under subsection (1)(d) as is necessary for the purpose of section 26(3)(a).
-(3) Subsection (1) shall apply to all information received by a territorial authority pursuant to subsection (2)(a) as if that territorial authority had taken the actions referred to in that subsection.
+  (b) shall, where any person classified as a probationary owner by that territorial authority has objected to another territorial authority against that classification, forward to the other territorial authority such information held in the records kept under subsection (1)﻿(c) as is necessary for the purposes of section 22(3)﻿(a):
+  (c) shall, where any person disqualified by that territorial authority has objected to another territorial authority against that disqualification, forward to the other territorial authority such information held in the records kept under subsection (1)﻿(d) as is necessary for the purpose of section 26(3)﻿(a).
+(3) Subsection (1) shall apply to all information received by a territorial authority pursuant to subsection (2)﻿(a) as if that territorial authority had taken the actions referred to in that subsection.
 (4) At the expiration of any period during which any territorial authority is required by this section to maintain any records and information, those records and that information shall be destroyed by the territorial authority.
 (5) A territorial authority may comply with this section by entering the required information directly into the national dog control information database referred to in section 35A.
 (6) A territorial authority that complies with subsection (5) is not required to answer any request made under subsection (2). Instead the request must be treated as if it were a request made to the territorial authority referred to in section 35A(2).
@@ -439,7 +441,7 @@ Every classification as a probationary owner and every disqualification under th
 (2) No person may import a dog into New Zealand unless the dog is accompanied by—
   (a) evidence of registration in New Zealand; or
   (b) an exempting statutory declaration.
-(3) The exempting statutory declaration required by subsection (2)(b) must also be accompanied by a veterinarian's certificate in relation to the dog that—
+(3) The exempting statutory declaration required by subsection (2)﻿(b) must also be accompanied by a veterinarian's certificate in relation to the dog that—
   (a) is issued—
     (i) in the country from which the dog is imported or is to be imported; and
     (ii) by a veterinarian registered in that country; and
@@ -467,7 +469,7 @@ Every classification as a probationary owner and every disqualification under th
   (b) the territorial authority has, on the basis of sworn evidence attesting to aggressive behaviour by the dog on 1 or more occasions, reasonable grounds to believe that the dog constitutes a threat to the safety of any person, stock, poultry, domestic animal, or protected wildlife; or
   (c) the owner of the dog admits in writing that the dog constitutes a threat to the safety of any person, stock, poultry, domestic animal, or protected wildlife.
 (2) Where any dog is classified as a dangerous dog under subsection (1), the territorial authority shall immediately give notice in the prescribed form of that classification to the owner.
-(3) Where any dog is classified as a dangerous dog under subsection (1)(b), the owner may, within 14 days of the receipt of notice of that classification under subsection (2), object to the classification in writing to the territorial authority, and shall be entitled to be heard in support of his or her objection.
+(3) Where any dog is classified as a dangerous dog under subsection (1)﻿(b), the owner may, within 14 days of the receipt of notice of that classification under subsection (2), object to the classification in writing to the territorial authority, and shall be entitled to be heard in support of his or her objection.
 (4) In considering any objection under this section, the territorial authority shall have regard to—and may uphold or rescind the classification.
   (a) the evidence which formed the basis for the original classification; and
   (b) any steps taken by the owner to prevent any threat to the safety of persons and animals; and
@@ -480,11 +482,11 @@ Every classification as a probationary owner and every disqualification under th
   (a) must ensure that, from a date not later than 1 month after the receipt of notice of classification, the dog is kept within a securely fenced portion of the owner's property that it is not necessary to enter to obtain access to at least 1 door of any dwelling on the property; and
   (b) must not allow the dog to be at large or in any public place or in any private way, except when confined completely within a vehicle or cage, without being—
     (i) muzzled in such a manner as to prevent the dog from biting but to allow it to breathe and drink without obstruction; and
-    (ii) controlled on a leash (except when in a dog exercise area specified in a bylaw made under section 20(1)(d)); and
+    (ii) controlled on a leash (except when in a dog exercise area specified in a bylaw made under section 20(1)﻿(d)); and
   (c) must produce to the territorial authority, within 1 month after the receipt of notice of classification, a certificate issued by a veterinarian and certifying—
     (i) that the dog is or has been neutered; or
     (ii) that for reasons that are specified in the certificate, the dog will not be in a fit condition to be neutered before a date specified in the certificate; and
-  (d) must, if a certificate under paragraph (c)(ii) is produced to the territorial authority, produce to the territorial authority, within 1 month after the date specified in that certificate, a further certificate under paragraph (c)(i); and
+  (d) must, if a certificate under paragraph (c)﻿(ii) is produced to the territorial authority, produce to the territorial authority, within 1 month after the date specified in that certificate, a further certificate under paragraph (c)﻿(i); and
   (e) must, in respect of every registration year commencing after the date of receipt of the notice of classification, be liable for dog control fees for that dog at 150% of the level that would apply if the dog were not classified as a dangerous dog; and
   (f) must not, without the written consent of the territorial authority in whose district the dog is to be kept, dispose of the dog to any other person.
 (2) Every person who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $3,000.
@@ -500,9 +502,9 @@ Every classification as a probationary owner and every disqualification under th
 (2) This section is for the avoidance of doubt.
 
 ### 33 Territorial authority's consent to disposal of dangerous dog
-No territorial authority shall give its consent under section 32(1)(f) to the disposal to any person of a dog that is classified as a dangerous dog unless the territorial authority is satisfied that the purchaser or transferee—
+No territorial authority shall give its consent under section 32(1)﻿(f) to the disposal to any person of a dog that is classified as a dangerous dog unless the territorial authority is satisfied that the purchaser or transferee—
   (a) is not a person classified under section 21 as a probationary owner; and
-  (b) is not a person who is disqualified under section 25(1)(b) and (c); and
+  (b) is not a person who is disqualified under section 25(1)﻿(b) and (c); and
   (c) is aware that the dog is classified as a dangerous dog; and
   (d) is aware of the obligations imposed by section 32 on the owner of a dog that is classified as a dangerous dog.
 
@@ -514,7 +516,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
   (b) a territorial authority considers may pose a threat to any person, stock, poultry, domestic animal, or protected wildlife because of—
     (i) any observed or reported behaviour of the dog; or
     (ii) any characteristics typically associated with the dog's breed or type.
-(2) A territorial authority may, for the purposes of section 33E(1)(a), classify a dog to which this section applies as a menacing dog.
+(2) A territorial authority may, for the purposes of section 33E(1)﻿(a), classify a dog to which this section applies as a menacing dog.
 (3) If a dog is classified as a menacing dog under subsection (2), the territorial authority must immediately give written notice in the prescribed form to the owner of—
   (a) the classification; and
   (b) the provisions of section 33E (which relates to the effect of classification as a menacing dog); and
@@ -535,7 +537,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
   (b) the reasons for its determination.
 
 ### 33C Dogs belonging to breed or type listed in Schedule 4 to be classified as menacing
-(1) A territorial authority must, for the purposes of section 33E(1)(a), classify as menacing any dog that the territorial authority has reasonable grounds to believe belongs wholly or predominantly to 1 or more breeds or types listed in Schedule 4.
+(1) A territorial authority must, for the purposes of section 33E(1)﻿(a), classify as menacing any dog that the territorial authority has reasonable grounds to believe belongs wholly or predominantly to 1 or more breeds or types listed in Schedule 4.
 (2) If a dog is classified as menacing under subsection (1), the territorial authority must immediately give written notice in the prescribed form to the owner of—
   (a) the classification; and
   (b) the provisions of section 33E (which relates to the effect of classification as a menacing dog); and
@@ -560,11 +562,11 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
   (b) must, if required by the territorial authority, within 1 month after receipt of notice of the classification, produce to the territorial authority a certificate issued by a veterinarian certifying—
     (i) that the dog is or has been neutered; or
     (ii) that for reasons that are specified in the certificate, the dog will not be in a fit condition to be neutered before a date specified in the certificate; and
-  (c) must, if a certificate under paragraph (b)(ii) is produced to the territorial authority, produce to the territorial authority, within 1 month after the date specified in that certificate, a further certificate under paragraph (b)(i).
+  (c) must, if a certificate under paragraph (b)﻿(ii) is produced to the territorial authority, produce to the territorial authority, within 1 month after the date specified in that certificate, a further certificate under paragraph (b)﻿(i).
 (2)
 (3)
 (4)
-(5) Subsection (1)(a) does not apply in respect of any dog or class of dog that the territorial authority considers need not be muzzled in any specified circumstances (for example, at a dog show).
+(5) Subsection (1)﻿(a) does not apply in respect of any dog or class of dog that the territorial authority considers need not be muzzled in any specified circumstances (for example, at a dog show).
 
 ### 33EA Menacing dog classification to extend over New Zealand
 (1) Every classification as a menacing dog under section 33A or 33C is in force throughout New Zealand.
@@ -573,13 +575,13 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
 ### 33EB Territorial authority (other than classifying authority) may require neutering of menacing dog
 (1) This section applies if—
   (a) a dog is classified by a territorial authority as a menacing dog under section 33A or 33C; and
-  (b) the territorial authority does not require it to be neutered under section 33E(1)(b); and
+  (b) the territorial authority does not require it to be neutered under section 33E(1)﻿(b); and
   (c) the dog is later registered with any other territorial authority.
 (2) No later than 1 month after the dog is registered with the other territorial authority, that territorial authority may require, by written notice, the owner of the dog to produce to the territorial authority a certificate issued by a veterinarian certifying—
   (a) that the dog has been neutered; or
   (b) that for reasons that are specified in the certificate, it will not be in a fit condition to be neutered before a date specified in the certificate.
 (3) The owner must produce the certificate to the territorial authority no later than 1 month after receiving the notice.
-(4) If a certificate under subsection (2)(b) is produced to the territorial authority, the owner of the dog must produce to the territorial authority, no later than 1 month after the date specified in that certificate, a further certificate under subsection (2).
+(4) If a certificate under subsection (2)﻿(b) is produced to the territorial authority, the owner of the dog must produce to the territorial authority, no later than 1 month after the date specified in that certificate, a further certificate under subsection (2).
 
 ### 33EC Offence to fail to comply with section 33E(1) or 33EB
 (1) Every person who fails to comply with section 33E(1) or 33EB commits an offence and is liable on conviction to a fine not exceeding $3,000.
@@ -593,7 +595,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
 
 ### 33ED Territorial authority to classify certain dogs as dangerous or menacing
 (1) A territorial authority must classify a dog as a dangerous dog under section 31 or a menacing dog under section 33A if—
-  (a) the owner of the dog has been convicted of an offence against section 57(2) or 57A(2)(a); and
+  (a) the owner of the dog has been convicted of an offence against section 57(2) or 57A(2)﻿(a); and
   (b) no destruction order for the dog has been made by the court concerned.
 (2) Subsection (1) applies unless the territorial authority is satisfied that the circumstances of the attack, rush, or startle by the dog (being the circumstances relating to the offence for which the owner was convicted)—
   (a) were exceptional; and
@@ -603,7 +605,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
 (1) This section applies to an owner whose dog has been classified as—
   (a) dangerous under section 31; or
   (b) menacing under section 33A or section 33C.
-(2) If the dog is in the possession of another person for a period not exceeding 72 hours, the owner must advise the person of the requirement to comply with section 32(1)(b) or section 33E(1)(a), as the case may be (which relate to the requirement to muzzle and leash the dog in public).
+(2) If the dog is in the possession of another person for a period not exceeding 72 hours, the owner must advise the person of the requirement to comply with section 32(1)﻿(b) or section 33E(1)﻿(a), as the case may be (which relate to the requirement to muzzle and leash the dog in public).
 (3) Every person who fails to comply with subsection (2) commits an offence and is liable on conviction to a fine not exceeding $500.
 
 **Registration and registration fees**
@@ -615,7 +617,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
   (b) the address at which the dog is ordinarily kept:
   (c) a description of the dog, which may include the breed, colour, and any distinguishing marks:
   (d) the age of the dog:
-  (da) whether the dog is a working dog within the meaning of paragraph (b)(ii) of the definition of working dog in section 2:
+  (da) whether the dog is a working dog within the meaning of paragraph (b)﻿(ii) of the definition of working dog in section 2:
   (e) whether the dog is classified as a dangerous dog under section 31:
   (ea) whether the dog is classified as a menacing dog under section 33A or section 33C and the relevant provision under which the classification is made:
   (f) the sex of the dog, including whether the dog is neutered or not:
@@ -655,25 +657,25 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
   (f) any other purpose specified in relation to the dogs register—
     (i) in a code of practice issued, in relation to that register, under section 63 of the Privacy Act 1993; or
     (ii) in regulations made under section 78.
-(6) A territorial authority that complies with section 34(6) is not required to answer any request made under subsection (2)(c). Instead the request must be treated as a request made to the territorial authority referred to in section 35A(2).
+(6) A territorial authority that complies with section 34(6) is not required to answer any request made under subsection (2)﻿(c). Instead the request must be treated as a request made to the territorial authority referred to in section 35A(2).
 
 ### 35A National dog control information database
-(1) For the purposes of compiling and maintaining a national dog control information database, a territorial authority must provide to a person or organisation nominated by the Secretary for Local Government, in electronic form, the information that the territorial authority is required to keep under sections 30(1) and 34(2)(a) to (h) (which relates to offences, infringement notices, probationary and disqualified dog owners, and dog registration).
-(2) For the purpose of sections 30(2) and 35(2)(c),—
+(1) For the purposes of compiling and maintaining a national dog control information database, a territorial authority must provide to a person or organisation nominated by the Secretary for Local Government, in electronic form, the information that the territorial authority is required to keep under sections 30(1) and 34(2)﻿(a) to (h) (which relates to offences, infringement notices, probationary and disqualified dog owners, and dog registration).
+(2) For the purpose of sections 30(2) and 35(2)﻿(c),—
   (a) the person or organisation responsible for the database must be treated as if the person or organisation were a territorial authority; and
   (b) the information that the person or organisation holds under subsection (1) must be treated as if it were information that was collected for the purposes of sections 30 and 35; and
   (c) the person or organisation must be treated as if the person or organisation were permitted to disclose the information it holds only—
     (i) to any other territorial authority; and
     (ii) by either—
-      (A) disclosing the information to the territorial authority in accordance with sections 30(2) and 35(2)(c); or
+      (A) disclosing the information to the territorial authority in accordance with sections 30(2) and 35(2)﻿(c); or
       (B) allowing the territorial authority to access the information directly from the person's or organisation's database.
 (3) Despite subsection (2), the person or organisation may supply the information that it holds to the Secretary for Local Government for the purposes of evaluating dog control policy in New Zealand, as long as the information does not allow the identification of individual records of dog owners or dogs.
 
 ### 35AB National dog control information database may contain additional information supplied by territorial authority
 (1) The person or organisation responsible for the national dog control information database under section 35A may include in the database any information that a territorial authority—
-  (a) holds under section 34(2)(i); and
+  (a) holds under section 34(2)﻿(i); and
   (b) chooses to provide to the person or organisation.
-(2) Without limiting the information that the person or organisation reponsible for the database may include in the database under subsection (1), the person or organisation may include any information a territorial authority provides that relates to any of the following:
+(2) Without limiting the information that the person or organisation responsible for the database may include in the database under subsection (1), the person or organisation may include any information a territorial authority provides that relates to any of the following:
   (a) any dog identifier used by the territorial authority:
   (b) the year a dog is born:
   (c) the year a dog dies:
@@ -695,7 +697,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
 
 ### 36 Application for registration
 (1) Except as provided in subsections (2) and (3), every person who owns a dog shall make an application to the territorial authority in whose district the dog is ordinarily kept to register the dog not later than the first day of every registration year.
-(1A) Every person who owns a dog classified as a working dog under paragraph (b)(ii) of the definition of working dog in section 2 must identify the dog accordingly in the application to register the dog.
+(1A) Every person who owns a dog classified as a working dog under paragraph (b)﻿(ii) of the definition of working dog in section 2 must identify the dog accordingly in the application to register the dog.
 (2) Where a dog is of the age of 3 months or less, the application to register the dog shall be made before the dog attains the age of 3 months.
 (3) Where an unregistered dog is purchased or otherwise acquired, the application to register the dog shall be made forthwith or before the day on which the dog attains the age of 3 months, whichever is the later.
 (4) Every application to register a dog shall be made in the prescribed form and shall be signed by the owner of the dog.
@@ -712,7 +714,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
   (b) is classified as menacing under section 33A or section 33C on or after 1 December 2003; or
   (c) is registered for the first time on or after 1 July 2006.
 (2) The owner of the dog must, for the purpose of providing permanent identification of the dog, arrange for the dog to be implanted with a functioning microchip transponder of the prescribed type and in the prescribed manner.
-(2A) Subsection (2) does not apply to a dog as defined in paragraph (b)(ii) of the definition of working dog in section 2 registered as a working dog under section 46(1) and wearing a collar, label, or disc as provided in section 34(4)(b).
+(2A) Subsection (2) does not apply to a dog as defined in paragraph (b)﻿(ii) of the definition of working dog in section 2 registered as a working dog under section 46(1) and wearing a collar, label, or disc as provided in section 34(4)﻿(b).
 (3) Subsection (2) is complied with by the owner,—
   (a) for a dog that is classified as dangerous or menacing, by making the dog available, in accordance with the reasonable instructions of the territorial authority, for verification that it has been implanted with a functioning microchip transponder of the prescribed type and in the prescribed location:
   (b) for a dog that is registered for the first time on or after 1 July 2006, by—
@@ -720,13 +722,13 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
     (ii) providing to the territorial authority a certificate issued by a veterinarian certifying—
       (A) that the dog is or has been implanted with a functioning microchip transponder of the prescribed type and in the prescribed location; or
       (B) that, for the reasons that are specified in the certificate, the dog will not be in a fit condition to be implanted with a functioning microchip transponder of the prescribed type and in the prescribed location before a date specified in the certificate.
-(3A) A certificate issued by a veterinarian under subsection (3)(b)(ii) must include the following information:
-  (a) the unique identifier of the microchip transponder (if subsection (3)(b)(ii)(A) applies); and
+(3A) A certificate issued by a veterinarian under subsection (3)﻿(b)﻿(ii) must include the following information:
+  (a) the unique identifier of the microchip transponder (if subsection (3)﻿(b)﻿(ii)﻿(A) applies); and
   (b) the name and sex of the dog; and
   (c) a physical description of the dog, which may include the breed, the colour, and any distinguishing marks; and
   (d) if the dog is registered, the registration number of the label or disc issued for the dog; and
   (e) the name, date of birth, and address of the owner of the dog.
-(4) If a certificate under subsection (3)(b)(ii)(B) is produced to the territorial authority, the owner must produce to the territorial authority, within 1 month after the date specified in the certificate, a further certificate under subsection (3)(b)(ii).
+(4) If a certificate under subsection (3)﻿(b)﻿(ii)﻿(B) is produced to the territorial authority, the owner must produce to the territorial authority, within 1 month after the date specified in the certificate, a further certificate under subsection (3)﻿(b)﻿(ii).
 (5) The owner must comply with subsection (2)—
   (a) within 2 months from 1 July 2006, if the dog is classified as dangerous or menacing on or after 1 December 2003 but before 1 July 2006; or
   (b) within 2 months after the date on which the dog is classified as dangerous or menacing or is registered (as the case may be), in any other case.
@@ -746,7 +748,7 @@ No territorial authority shall give its consent under section 32(1)(f) to the di
   (e) fix, for any dog that is registered by any person who demonstrates to the satisfaction of any dog control officer that that person has a specified level of competency in terms of responsible dog ownership, a fee that is lower than the fee that would otherwise be payable for that dog:
   (f) fix by way of penalty, subject to subsection (3), an additional fee, for the registration on or after the first day of the second month of the registration year or such later date as the authority may fix, of any dog that was required to be registered on the first day of that registration year:
   (g) fix a fee for the issue of a replacement registration label or disc for any dog.
-(3) Any additional fee by way of penalty fixed under subsection (2)(f) shall not exceed 50% of the fee that would have been payable if the dog had been registered on the first day of the registration year.
+(3) Any additional fee by way of penalty fixed under subsection (2)﻿(f) shall not exceed 50% of the fee that would have been payable if the dog had been registered on the first day of the registration year.
 (4) In prescribing fees under this section, the territorial authority shall have regard to the relative costs of the registration and control of dogs in the various categories described in paragraphs (a) to (e) of subsection (2), and such other matters as the territorial authority considers relevant.
 (5) Where any 2 or more territorial authorities have formed a joint standing or joint special committee in accordance with section 7, the resolution of that committee under subsection (1) may fix different fees in respect of dogs kept in the different districts, having regard to the costs of registration and dog control in the districts concerned.
 (6) The territorial authority shall, at least once during the month preceding the start of every registration year, publicly notify in a newspaper circulating in its district the dog control fees fixed for the registration year.
@@ -789,8 +791,8 @@ Every person commits an offence and is liable on conviction to a fine not exceed
     (i) recovery by its owner; or
     (ii) disposal to a new owner.
 (4) However,—
-  (a) a person to whom subsection (3)(a) applies must not dispose of a dog other than in accordance with section 69A; and
-  (b) a person to whom subsection (3)(b) or subsection (3)(c) applies must not dispose of a dog (other than by destroying it), unless the dog is first registered under this Act.
+  (a) a person to whom subsection (3)﻿(a) applies must not dispose of a dog other than in accordance with section 69A; and
+  (b) a person to whom subsection (3)﻿(b) or subsection (3)﻿(c) applies must not dispose of a dog (other than by destroying it), unless the dog is first registered under this Act.
 
 ### 43 Registration of impounded dog, dog in quarantine, or dog in custody of society established to prevent cruelty to animals
 [Repealed]
@@ -868,7 +870,7 @@ Every registration made under this Act shall be in force throughout New Zealand.
 
 ### 53 Offence of failing to keep dog under control
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who, being the owner of a dog, fails to keep that dog under control.
-(2) Notwithstanding section 52(2)(b), an owner of a dog does not commit an offence against subsection (1) by reason only of the dog being found at large in a public place in contravention of any regulation or bylaw.
+(2) Notwithstanding section 52(2)﻿(b), an owner of a dog does not commit an offence against subsection (1) by reason only of the dog being found at large in a public place in contravention of any regulation or bylaw.
 
 ### 54 Obligations of dog owner
 (1) The owner of any dog shall—
@@ -893,7 +895,7 @@ Every registration made under this Act shall be in force throughout New Zealand.
 (5) Upon the determination of the objection, the territorial authority shall give to the objector a further notice stating the decision of the authority, and, if the effect of the decision is to modify the requirements of the dog control officer or dog ranger, shall set out those requirements as so modified.
 (6) As from the lodging of an objection with the territorial authority, and pending the receipt of a further notice upon the determination of the objection, the notice setting out the requirements that are the subject of the objection shall be deemed to be suspended.
 (7) Every person commits an offence and is liable on conviction to a fine not exceeding $1,500 who, having been served with a notice under this section,—
-  (a) fails or neglects to comply with that notice (not being a notice that as been suspended under subsection (6)) within 7 days of its receipt by that person:
+  (a) fails or neglects to comply with that notice (not being a notice that has been suspended under subsection (6)) within 7 days of its receipt by that person:
   (b) fails or neglects to comply with any notice as modified or confirmed by a territorial authority under subsection (3) within the time specified by the territorial authority.
 
 ### 56 Removal of barking dog causing distress
@@ -944,7 +946,7 @@ Every registration made under this Act shall be in force throughout New Zealand.
 (2) If this section applies,—
   (a) the owner of the dog commits an offence and is liable on conviction to a fine not exceeding $3,000 in addition to any liability that he or she may incur for any damage caused by the dog; and
   (b) the court may make an order for the destruction of the dog.
-(3) A dog control officer or dog ranger who has reasonable grounds to believe that an offence has been committed under subsection (2)(a) may, at any time before a decision of the court under that subsection, seize or take custody of the dog and may enter any land or premises (except a dwellinghouse) to do so.
+(3) A dog control officer or dog ranger who has reasonable grounds to believe that an offence has been committed under subsection (2)﻿(a) may, at any time before a decision of the court under that subsection, seize or take custody of the dog and may enter any land or premises (except a dwellinghouse) to do so.
 
 ### 58 Dogs causing serious injury
 The owner of any dog that attacks any person or any protected wildlife and causes—commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or a fine not exceeding $20,000, or both, and the court shall, on convicting the owner, make an order for the destruction of the dog unless satisfied that the circumstances of the attack were exceptional and do not justify destruction.
@@ -972,7 +974,7 @@ The owner of any dog that attacks any person or any protected wildlife and cause
   (b) have attacked any person or any stock or poultry or property of any kind.
 (2) The person must not allow the dog to be at large or in any public place or private way, except when confined completely within a vehicle or cage, without being—
   (a) muzzled in such a manner as to prevent the dog from biting but to allow it to breathe and drink without obstruction; and
-  (b) controlled on a leash (except when in a dog exercise area specified in a bylaw made under section 20(1)(d)).
+  (b) controlled on a leash (except when in a dog exercise area specified in a bylaw made under section 20(1)﻿(d)).
 (3) A person whose dog is in the possession of any other person for a period of less than 72 hours must advise that person of the requirement to comply with subsection (2).
 (4) Every person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $3,000, and the court may, on convicting the person, make an order for the destruction of the dog.
 (5) Every person who contravenes subsection (3) commits an offence and is liable on conviction to a fine not exceeding $500.
@@ -1073,7 +1075,7 @@ Every territorial authority, either singly or jointly with any 1 or more other t
 (5) Subject to subsection (6), unless a dog is earlier returned pursuant to subsection (3) or subsection (4), the territorial authority shall keep the dog in custody until such time as it is satisfied—
   (a) that proper provision in relation to the dog has been made on the property specified in the notice issued under section 55; or
   (b) that the owner has made arrangements for the dog to be kept on a property other than the property from which it was removed.
-(6) Where the territorial authority has, under section 68(1)(b), set fees for the sustenance of impounded dogs, the territorial authority may apply those fees to the sustenance of any dog kept in custody under this section and may require the payment of those fees before any dog is returned under subsection (3) or subsection (5) or, unless the District Court orders otherwise, subsection (4).
+(6) Where the territorial authority has, under section 68(1)﻿(b), set fees for the sustenance of impounded dogs, the territorial authority may apply those fees to the sustenance of any dog kept in custody under this section and may require the payment of those fees before any dog is returned under subsection (3) or subsection (5) or, unless the District Court orders otherwise, subsection (4).
 (7) In any case where—the territorial authority may dispose of the dog in the manner authorised by section 69, and subsections (4) to (6) of that section shall apply as if the dog had been disposed of under that section.
   (a) the notice under section 55 has not been complied with within 7 days of a conviction under subsection (7) of that section; or
   (b) the territorial authority requires fees under subsection (6) to be paid before any dog is returned, and those fees have not been paid within 7 days of the receipt by the owner of written notice that the dog will be returned upon payment of those fees,—
@@ -1084,16 +1086,16 @@ Every territorial authority, either singly or jointly with any 1 or more other t
   (b) the owner of the dog is to be prosecuted for an offence under section 57, section 57A, or section 58; and
   (c) the dog has been claimed by its owner and any fee payable under section 69(2) has been paid; and
   (d) the territorial authority is satisfied on reasonable grounds that the release of the dog would threaten the safety of any person, stock, poultry, domestic pet, or protected wildlife.
-(2) Except as otherwise provided in this section, every dog to which subsection (1) applies shall be kept in custody and given proper care and exercise until the prosecution referred to in subsection (1)(b) is determined by the court.
+(2) Except as otherwise provided in this section, every dog to which subsection (1) applies shall be kept in custody and given proper care and exercise until the prosecution referred to in subsection (1)﻿(b) is determined by the court.
 (3) In every case to which subsection (1) applies, the territorial authority shall give written notice in the prescribed form to the person claiming the dog.
 (4) The owner of any dog which is, for the time being, kept in custody under subsection (2) may apply at any time to the territorial authority for the release of the dog.
 (5) Where application is made under subsection (4) and the territorial authority is satisfied that the release of the dog will not threaten the safety of any person, stock, poultry, domestic pet, or protected wildlife, the territorial authority shall, subject to subsection (7), return the dog.
 (6) Any person who has sought the return of a dog under subsection (4) and is dissatisfied with the decision of the territorial authority may appeal to a District Court against that decision, and the District Court, in hearing the appeal, shall consider the matters specified in subsection (5) and any submission by the territorial authority in support of its decision and may uphold that decision or order the return of the dog.
-(7) Where the territorial authority has, under section 68(1)(b), set fees for the sustenance of impounded dogs, the territorial authority may apply those fees to the sustenance of any dog kept in custody under this section and may require the payment of those fees before any dog is returned under subsection (5) or, unless the District Court orders otherwise, subsection (2) or subsection (6).
+(7) Where the territorial authority has, under section 68(1)﻿(b), set fees for the sustenance of impounded dogs, the territorial authority may apply those fees to the sustenance of any dog kept in custody under this section and may require the payment of those fees before any dog is returned under subsection (5) or, unless the District Court orders otherwise, subsection (2) or subsection (6).
 (8) In any case where the territorial authority requires fees under subsection (7) of this section to be paid before any dog is returned, and those fees have not been paid within 7 days of the receipt by the owner of written notice that the dog will be returned upon payment of those fees, the territorial authority may dispose of the dog in the manner authorised by section 69(3), and subsections (4) to (6) of that section shall apply as if the dog had been disposed of under that section.
 
 ### 71A Disposal of dog seized under section 15 or 33EC
-(1) A territorial authority may sell, destroy, or otherwise dispose of a dog seized by a dog control officer or dog ranger under section 15(1)(c), in any manner it thinks fit,—
+(1) A territorial authority may sell, destroy, or otherwise dispose of a dog seized by a dog control officer or dog ranger under section 15(1)﻿(c), in any manner it thinks fit,—
   (a) if—
     (i) the territorial authority is not satisfied that the dog will be given access to proper and sufficient food, water, or shelter if the dog is returned to the land or premises from where it was removed; and
     (ii) the territorial authority has notified the owner of the dog in writing of its decision under subparagraph (i) and the right to appeal against it under section 71B; and
@@ -1121,22 +1123,22 @@ Every territorial authority, either singly or jointly with any 1 or more other t
       (A) has not been claimed by its owner; or
       (B) has been claimed by its owner but any outstanding fees owed in relation to the dog under this Act have not been paid; or
   (c) if, despite making reasonable efforts, the territorial authority has not identified the owner of the dog and the dog has been in its custody for not less than 7 days.
-(3) A notice under subsection (1)(b)(i) or subsection (2)(b)(i) must state that—
+(3) A notice under subsection (1)﻿(b)﻿(i) or subsection (2)﻿(b)﻿(i) must state that—
   (a) the owner's dog is in the custody of the territorial authority; and
   (b) unless the dog is claimed and any outstanding fees paid no later than 7 days after the owner receives the notice, the territorial authority may sell, destroy, or otherwise dispose of the dog.
 (4) A territorial authority—
   (a) may apply any proceeds from the disposal of a dog under this section towards any fees owing in relation to the dog under this Act; and
   (b) must apply the surplus in accordance with section 9.
-(5) If the territorial authority has, under section 68(1)(b), set fees for the sustenance of impounded dogs, it may—
+(5) If the territorial authority has, under section 68(1)﻿(b), set fees for the sustenance of impounded dogs, it may—
   (a) apply those fees to the sustenance of a dog kept in custody under this section; and
   (b) require the fees to be paid before the dog is returned under this section.
-(6) Subsection (5) is subject to any order made by a court under section 71B(4)(b).
+(6) Subsection (5) is subject to any order made by a court under section 71B(4)﻿(b).
 (7) The disposal of a dog under this section does not cancel the liability of the former owner of the dog to pay any fees owing in relation to the dog under this Act.
 
 ### 71B District Court to determine appeal
-(1) The owner of a dog to whom section 71A(1)(a)(ii) or (2)(a)(ii) applies may appeal to the District Court against the territorial authority's decision.
-(2) An appeal must be lodged no later than 7 days after the owner receives a notice under section 71A(1)(b)(i) or (2)(b)(i).
-(3) The court must consider the matters specified in section 71A(1)(a)(i) or (2)(a)(i), as the case may be, and any submission by the territorial authority concerned.
+(1) The owner of a dog to whom section 71A(1)﻿(a)﻿(ii) or (2)﻿(a)﻿(ii) applies may appeal to the District Court against the territorial authority's decision.
+(2) An appeal must be lodged no later than 7 days after the owner receives a notice under section 71A(1)﻿(b)﻿(i) or (2)﻿(b)﻿(i).
+(3) The court must consider the matters specified in section 71A(1)﻿(a)﻿(i) or (2)﻿(a)﻿(i), as the case may be, and any submission by the territorial authority concerned.
 (4) The court may—
   (a) uphold the territorial authority's decision or order the return of the dog:
   (b) make an order in respect of any fees owing in relation to the dog under this Act.
@@ -1180,7 +1182,7 @@ No constable, dog control officer, dog ranger, territorial authority, or warrant
   (a) specify—
     (i) the purpose of the notice; and
     (ii) the rights of objection (if any) to the matters referred to in the notice; and
-    (iii) the name and address of the dog control officer or other officer of the territorial authority to whom inquires in respect of the notice may be made; and
+    (iii) the name and address of the dog control officer or other officer of the territorial authority to whom inquiries in respect of the notice may be made; and
     (iv) if entry on land or premises is intended, the statutory authority for the entry; and
     (v) in the case of notice that a dog has been impounded, a statement that the dog may be sold, destroyed, or otherwise disposed of unless the dog is claimed and all fees paid within 7 days after the receipt of the notice; and
   (b) in the absence of proof to the contrary, be sufficiently authenticated if it bears the name of the person giving the notice or direction.
@@ -1306,7 +1308,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 ### 5 Duty of territorial authorities to adopt policy on dogs
 (1) Amendment(s) incorporated in the Act(s).
-(2) Section 10(3)(ea) and (eb) (as inserted by subsection (1))—
+(2) Section 10(3)﻿(ea) and (eb) (as inserted by subsection (1))—
   (a) do not apply to a dog policy adopted before the commencement of this Act; but
   (b) do apply to a dog policy adopted before the commencement of this Act that is amended under section 10(8) of the principal Act or reviewed under section 10AA of the principal Act (as inserted by section 6 of this Act).
 (3) Amendment(s) incorporated in the Act(s).
