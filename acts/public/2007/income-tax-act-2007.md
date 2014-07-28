@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-07-28_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -3638,6 +3638,12 @@ Exclusion: council-controlled organisation
   (b) by a local authority from a council-controlled organisation.
 Exempt income: trustees of Cornwall Park
 (3) An amount of income that the trustees of Cornwall Park, Auckland, derive from the property of the trust is exempt income.
+
+### CW 40B Te Urewera Board
+Exempt income
+(1) To the extent to which it is applied for the purposes set out in the Te Urewera Act 2014, income derived by Te Urewera Board is exempt income.
+Definition
+(2) In this section, Te Urewera Board has the meaning given in section 7 of that Act.
 
 ### CW 41 Charities: non-business income
 Exempt income
