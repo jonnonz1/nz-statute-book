@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-07-28_
 
 > Title
 
@@ -74,7 +74,8 @@ _Consolidation as at 2014-07-01_
       (iii) a State enterprise named in Schedule 1 of the State-Owned Enterprises Act 1986; or
       (iv) a Schedule 4 organisation; or
       (v) a Schedule 4A company; or
-      (vi) a mixed ownership model company
+      (vi) a mixed ownership model company; or
+      (vii) an entity named or described in Schedule 6
   - **Crown Bank Account** means any of the bank accounts opened and maintained under section 65R
   - **Crown entity** has the meaning given to it by section 7(1) of the Crown Entities Act 2004
   - **department** —
@@ -244,6 +245,9 @@ The Governor-General may, by Order in Council, amend Schedule 5 to replace the n
   (a) insert the name of that company in Part 2 of Schedule 1 of the Ombudsmen Act 1975; and
   (b) repeal the name of that company from Part B of Schedule 36 of the Income Tax Act 2007 and insert the name of that company in Part A of that schedule.
 (3) An Order in Council may be made under this section only if the Governor-General in Council is satisfied, at the time of the making of the Order in Council, that 100% of the issued ordinary shares in the company are held by Ministers of the Crown on behalf of the Crown.
+
+### 3D Power to amend Schedule 6 to reflect name changes
+The Governor-General may, by Order in Council, on the recommendation of the Minister following consultation with the person with statutory responsibility for performing or exercising the rights, powers, and duties of the legal entity, amend Schedule 6 to replace the name of an entity in recognition of a change to its name.
 
 ## Part 1 — Appropriations
 
@@ -965,6 +969,7 @@ The Minister may arrange for the following to be published in advance of their b
   (ab) all Schedule 4 organisations:
   (b) all Schedule 4A companies:
   (ba) all mixed ownership model companies listed in Schedule 5:
+  (bb) all legal entities named or described in Schedule 6:
   (c) all State enterprises named in Schedule 1 of the State-Owned Enterprises Act 1986:
   (d) all Offices of Parliament:
   (e) the Reserve Bank of New Zealand:
@@ -2272,7 +2277,10 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 
 ## Schedule 5 — Mixed ownership model companies
 
-## Schedule 6 — Crown entities required to prepare statements of intent
+## Schedule 6 — Legal entities created by Treaty of Waitangi settlement Acts
+
+| Te Urewera | Te Urewera Act 2014 |
+| --- | --- |
 
 ## Schedule 7 — Crown entities subject to section 16
 
