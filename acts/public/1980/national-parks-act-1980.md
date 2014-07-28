@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2014-07-28_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -136,13 +136,13 @@ This Act shall bind the Crown.
   (d) the Abel Tasman National Park:
   (e) the Fiordland National Park:
   (f) the Mount Cook National Park:
-  (g) the Urewera National Park:
+  (g)
   (h) the Nelson Lakes National Park:
   (i) the Westland National Park:
   (j) the Mount Aspiring National Park.
 (2) The Arthur's Pass National Park named in subsection (1)(c) is the same national park as the Arthur Pass National Park existing immediately before the commencement of this Act.
 (3) By virtue of section 162 of the Ngāi Tahu Claims Settlement Act 1998, the Mount Cook National Park is now called the Aoraki/Mount Cook National Park.
-(4) By virtue of Order in Council dated 3 April 2000 (Gazette 1 June 2000, p 1281), Urewera National Park is now called Te Urewera National Park.
+(4)
 
 ### 7 Constitution of other national parks and addition of land to national parks
 (1) Subject to subsections (2) to (6), the Governor-General may from time to time, by Order in Council made on the recommendation of the Minister,—
