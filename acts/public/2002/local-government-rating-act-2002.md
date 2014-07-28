@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2014-07-28_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -62,7 +62,7 @@ In this Act, unless the context otherwise requires,—
   - **financial year** means a period of 12 months beginning on 1 July
   - **funding impact statement** means,—
     (a) in relation to the first financial year to which a long-term plan relates, the funding impact statement included in the plan under clause 15 of Schedule 10 of the Local Government Act 2002; and
-    (b) in relation to any other year, means the funding impact statement included, under clause 20 of Schedule 10 of the Local Government Act 2002, in the annual plan adopted for that year under section 95 of that Act
+    (b) in relation to any other year, the funding impact statement included, under clause 20 of Schedule 10 of the Local Government Act 2002, in the annual plan adopted for that year under section 95 of that Act
   - **general rate** means a rate set under section 13
   - **land** means all land, tenements, and hereditaments, whether corporeal or incorporeal, in New Zealand, and all chattel or other interests in the land, and all trees growing or standing on the land
   - **land transfer register** means the register kept under section 33 of the Land Transfer Act 1952
@@ -100,6 +100,7 @@ In this Act, unless the context otherwise requires,—
   - **structure** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **targeted rate** means a rate set under section 16 or section 19
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
+  - **Te Urewera Board** and have the meanings given in section 7 of the Te Urewera Act 2014
   - **uniform annual general charge** means a rate set under section 15.
 
 ### 6 Act binds the Crown
@@ -145,9 +146,9 @@ For the purposes of this Act, a ratepayer is the person who is named as a ratepa
       (B) is a lease registered under section 115 of the Land Transfer Act 1952.
 (3) Subsection (1) is subject to subsection (2).
 (4) For the purposes of subsection (2), it is sufficient evidence, unless the contrary is proved, that the person referred to in that subsection must be named in the rating information database and the district valuation roll if,—
-  (a) in the case of a lease under subsection (2)(b)(iii)(A), the owner has provided a statutory declaration to the local authority that those provisions apply:
-  (b) in the case of a lease under subsection (2)(b)(iii)(B), the owner has provided a certified copy of the certificate of title in relation to the unit that shows the lease has been registered.
-(5) For the purposes of subsection (2)(b)(ii), a lease must be treated as remaining in force if the lessee has exercised a right to renew the lease on the same terms and conditions.
+  (a) in the case of a lease under subsection (2)﻿(b)﻿(iii)﻿(A), the owner has provided a statutory declaration to the local authority that those provisions apply:
+  (b) in the case of a lease under subsection (2)﻿(b)﻿(iii)﻿(B), the owner has provided a certified copy of the certificate of title in relation to the unit that shows the lease has been registered.
+(5) For the purposes of subsection (2)﻿(b)﻿(ii), a lease must be treated as remaining in force if the lessee has exercised a right to renew the lease on the same terms and conditions.
 (6) In this section, lessee includes a person to whom the lessee transfers or assigns the lessee’s interest in the lease.
 
 **Who must pay rates?**
@@ -171,7 +172,7 @@ For the purposes of this Act, a ratepayer is the person who is named as a ratepa
   (b) must be identified in the local authority’s funding impact statement as the value for setting a general rate.
 
 ### 14 Categories of rateable land for setting general rate differentially
-For the purposes of section 13(2)(b), categories of rateable land are categories that—
+For the purposes of section 13(2)﻿(b), categories of rateable land are categories that—
   (a) are identified in the local authority’s funding impact statement as categories for setting the general rate differentially; and
   (b) are defined in terms of 1 or more of the matters listed in Schedule 2.
 
@@ -192,7 +193,7 @@ For the purposes of section 13(2)(b), categories of rateable land are categories
   (b) differentially for different categories of rateable land under section 17.
 
 ### 17 Categories of rateable land for setting targeted rate
-For the purposes of section 16(3)(b) and (4)(b), categories of rateable land are categories that—
+For the purposes of section 16(3)﻿(b) and (4)﻿(b), categories of rateable land are categories that—
   (a) are identified in the local authority’s funding impact statement as categories for setting the targeted rate; and
   (b) are defined in terms of 1 or more of the matters listed in Schedule 2.
 
@@ -238,7 +239,7 @@ Two or more rating units must be treated as 1 unit for setting a rate if those u
 (3) A local authority may set a rate that is not provided for in its long-term plan and funding impact statement only if—
   (a) the local authority is satisfied that the rate is required to meet an unforeseen and urgent need for revenue that cannot reasonably be met by any other means, having regard to the manner in which it has, in its long-term plan and funding impact statement allocated the costs of the activities or groups of activities to which the need for revenue relates; and
   (b) the local authority has given at least 14 days’ public notice of its intention to set the rate.
-(4) Notice under subsection (3)(b) must include—
+(4) Notice under subsection (3)﻿(b) must include—
   (a) the information in relation to the rate that would otherwise have been required to be included in the local authority’s funding impact statement; and
   (b) a statement of the nature of the unforeseen and urgent need for revenue and the reasons why that need cannot reasonably be met by any other means, having regard to the manner in which the local authority has, in its long-term plan, allocated the costs of the activities or groups of activities to which the need for revenue relates.
 (5) The local authority must, within 20 working days after making a resolution, send a copy of it to the Secretary of Local Government.
@@ -256,10 +257,10 @@ A local authority must state, in the resolution setting a rate,—
   (a) may not be made before 1 July 2005; and
   (b) may be made only on the recommendation of the Minister; and
   (c) may be made only after a report that complies with section 26.
-(3) Before making a recommendation under subsection (2)(b), the Minister must consult—
+(3) Before making a recommendation under subsection (2)﻿(b), the Minister must consult—
   (a) New Zealand Local Government Association Incorporated; and
   (b) any other organisations that the Minister considers have a particular interest in the regulations.
-(4) In this section and section 26 (except paragraph (c)(i)), Minister means the Minister responsible for the administration of this Act.
+(4) In this section and section 26 (except paragraph (c)﻿(i)), Minister means the Minister responsible for the administration of this Act.
 
 ### 26 Report of Ministerial review of rating practice in relation to educational establishments
 A report complies with this section if—
@@ -287,12 +288,12 @@ A report complies with this section if—
 (4) The database must include, in relation to each rating unit within the local authority’s district,—
   (a) all information that relates to the unit that is included in the district valuation roll for the district; and
   (b) all information that relates to the unit that is required to—
-    (i) determine the category (if any) to which the unit belongs for setting a general rate in accordance with section 13(2)(b); or
-    (ii) determine the category (if any) to which the unit belongs for setting a targeted rate in accordance with section 16(3)(b) or (4)(b); or
+    (i) determine the category (if any) to which the unit belongs for setting a general rate in accordance with section 13(2)﻿(b); or
+    (ii) determine the category (if any) to which the unit belongs for setting a targeted rate in accordance with section 16(3)﻿(b) or (4)﻿(b); or
     (iii) calculate the amount of liability for a targeted rate under section 18; and
   (c) any information required under section 117K(1) that relates to the unit.
 (5) The information in subsection (4) may be recorded separately for different parts of a rating unit if separate records are necessary because of different rating treatment of each part resulting from:
-  (a) the inclusion of different parts in different categories under subsection (4)(b)(i) or (ii):
+  (a) the inclusion of different parts in different categories under subsection (4)﻿(b)﻿(i) or (ii):
   (b) the application of Part 1 or Part 2 of Schedule 1 to one or more parts of the rating unit:
   (c) the application of a remission policy, a postponement policy, or a rates relief policy for Māori freehold land to 1 or more parts of the rating unit.
 (6) The rating information database must be maintained so that it may be searched according to—
@@ -389,7 +390,7 @@ In sections 31 to 36, relevant local authority means—
 (4) If a solicitor or other authorised agent acted on behalf of the owner under subsection (1) or the person registering the instrument under subsection (3), the solicitor or agent must give the notice concerned.
 
 ### 32 Notification of surrender or termination of lease or licence
-(1) The owner of a rating unit who has made a statutory declaration under section 11(4)(a), or provided a certified copy of the certificate of title under section 11(4)(b) must notify the local authority if—
+(1) The owner of a rating unit who has made a statutory declaration under section 11(4)﻿(a), or provided a certified copy of the certificate of title under section 11(4)﻿(b) must notify the local authority if—
   (a) the lease or licence in relation to which the declaration has been made, or certificate of title applies, has been surrendered or terminated; or
   (b) an opportunity to renegotiate the rent or other payments has occurred.
 (2) A person who is a ratepayer under section 11(2) may notify the local authority (by means of a statutory declaration) of the matters set out in subsection (1).
@@ -435,8 +436,8 @@ The name of a person who is entered as a ratepayer in the rating information dat
   (a) at the principal public office of the local authority and any other place that the local authority considers necessary in order to provide reasonable access to all ratepayers and residents of the district; and
   (b) during ordinary office hours or the hours at which the place is open to the public.
 (3) For the purposes of this section, a local authority may request from a person, by any reasonable means that the local authority considers appropriate, confirmation that he or she—
-  (a) falls within the class of people described in subsection (1)(d)(i); and
-  (b) reasonably requires the information in the rates record for the purposes of subsection (1)(d)(ii).
+  (a) falls within the class of people described in subsection (1)﻿(d)﻿(i); and
+  (b) reasonably requires the information in the rates record for the purposes of subsection (1)﻿(d)﻿(ii).
 
 ### 39 Objection to rates records
 (1) A ratepayer, or a person who has become liable to pay rates under section 61 or section 62, may object to the information contained in the rates records on either or both of the following grounds:
@@ -462,7 +463,7 @@ A local authority may correct an error in the rating information database or rat
   (b) after issuing the assessment, it has—
     (i) altered the information in relation to the rating unit in its district valuation roll under section 39 of the Rating Valuations Act 1998 for that year; and
     (ii) consequentially altered the information in relation to the rating unit in its rating information database for that year; and
-  (c) the alteration in the database gives rise to a difference between the amount of rates that was originally assessed and the amount that would have been payable for that year if the information entered in the database had been the information referred to in paragraph (b)(ii).
+  (c) the alteration in the database gives rise to a difference between the amount of rates that was originally assessed and the amount that would have been payable for that year if the information entered in the database had been the information referred to in paragraph (b)﻿(ii).
 (2) An amended assessment must be issued—
   (a) no later than 1 month after the alteration concerned was made to the rating information database; or
   (b) in the case of a regional council to which section 27(7) applies, no later than 1 month after the regional council receives notification of the alteration from the territorial authority concerned.
@@ -493,7 +494,7 @@ A local authority may correct an error in the rating information database or rat
   (a) a rating unit and its rateable values that are set out in the rating information database; or
   (b) the factors relevant to a rating unit that are set out in the rating information database; or
   (c) in the case of a targeted rate under section 19, the quantity of water provided by the local authority to the rating unit during the period specified in the resolution setting that rate.
-(2) For the purpose of subsection (1)(a) and (b), the relevant rating unit, values, or factors are those that have been corrected as at the end of the financial year immediately before the financial year for which the rates are set.
+(2) For the purpose of subsection (1)﻿(a) and (b), the relevant rating unit, values, or factors are those that have been corrected as at the end of the financial year immediately before the financial year for which the rates are set.
 (3) The rates are not affected by a change in the rateable value or factors of a rating unit during the financial year in which the rates are set.
 
 **Notice to ratepayers of rates liability**
@@ -512,8 +513,8 @@ A local authority may correct an error in the rating information database or rat
   (f) the amount and a description of each rate:
   (g) the activities or groups of activities of the local authority that will be funded from each rate:
   (h) the relevant matters in Schedule 2 that are required to determine—
-    (i) the category (if any) to which the rating unit belongs for the purposes of setting general rates differentially under section 13(2)(b):
-    (ii) the category (if any) to which the unit belongs for the purposes of setting a targeted rate under section 16(3)(b) or (4)(b):
+    (i) the category (if any) to which the rating unit belongs for the purposes of setting general rates differentially under section 13(2)﻿(b):
+    (ii) the category (if any) to which the unit belongs for the purposes of setting a targeted rate under section 16(3)﻿(b) or (4)﻿(b):
   (i) information on the factors used to calculate the amount of the liability of a rating unit in respect of each targeted rate:
   (j) the financial year for which the rates are payable:
   (k) the total amount of rates payable on the rating unit for the financial year:
@@ -556,7 +557,7 @@ A local authority may correct an error in the rating information database or rat
 (5) A rates invoice delivered under subsection (4) must—
   (a) set out the matters required by subsection (2); and
   (b) specify the rate covered by the invoice; and
-  (c) if the invoice covers a rate set under section 43(1)(c), the invoice must specify the basis of that assessment and the period for which the assessment applies.
+  (c) if the invoice covers a rate set under section 43(1)﻿(c), the invoice must specify the basis of that assessment and the period for which the assessment applies.
 
 ### 47 Issue of amended rates invoice
 (1) If a rates invoice is incorrect as to the amount of rates payable by a ratepayer in respect of a rating unit, an amended invoice must be delivered to the ratepayer in accordance with section 46 setting out the correct liability of the ratepayer as to the amount of rates due for the rating unit.
@@ -702,7 +703,7 @@ A person must not refuse to pay rates on the ground that the rates are invalid u
 (3) A court of competent jurisdiction may give judgment against the ratepayer—
   (a) by name; or
   (b) under the designation of the ratepayer of the land.
-(4) Subsection (3)(b) does not apply unless the court is satisfied that—
+(4) Subsection (3)﻿(b) does not apply unless the court is satisfied that—
   (a) the ratepayer is unknown, absent, or cannot be found after due inquiry; and
   (b) the summons has been served by public notice under subsection (2).
 (5) The cost of publicly notifying the summons may be added to the unpaid rates.
@@ -756,7 +757,7 @@ The notice required under section 68 must be served in one of the following ways
   (d) if the usual address of the person receiving the notice is unknown, by being publicly notified.
 
 ### 70 Rating unit may be sold or leased
-(1) If all the amounts set out in section 68(2)(b) have not been paid within 6 months after the date of the notice that is required under section 68(1), the Registrar of the High Court may, in accordance with sections 71 to 74, sell or lease the rating unit.
+(1) If all the amounts set out in section 68(2)﻿(b) have not been paid within 6 months after the date of the notice that is required under section 68(1), the Registrar of the High Court may, in accordance with sections 71 to 74, sell or lease the rating unit.
 (2) The Registrar may charge a fee for the sale or lease of the rating unit that is fixed by regulations made under section 100A of the Judicature Act 1908.
 
 ### 71 How rating sale or lease must be conducted
@@ -922,7 +923,7 @@ The local authority must record the remitted rates—
 (5) A notice of release of charge must—
   (a) be signed by the chief executive officer of the local authority; and
   (b) identify the notice of charge to which it relates.
-(6) For the purposes of subsection (3)(b)(ii), the land comprising a rating unit is sufficiently identified—
+(6) For the purposes of subsection (3)﻿(b)﻿(ii), the land comprising a rating unit is sufficiently identified—
   (a) in the case of land for which there is a certificate of title (as defined in section 5A of the Rating Valuations Act 1998) or an instrument (as defined in section 5C(7) of the Rating Valuations Act 1998), by reference to the certificate of title or instrument; and
   (b) in any other case, by a description adequate for the purposes of this section which may include a plan.
 (7) For the purposes of this section, Registrar means the Registrar-General of Land.
@@ -1133,7 +1134,7 @@ The Māori Land Court must cancel an order made under section 108(2) if, within 
 (1) An order made under section 116 may—
   (a) apply to specified Māori freehold land or to any specified class of that land; and
   (b) release the persons liable from liability for rates that were unpaid before the order was made.
-(2) If an order is made under section 116, the local authority must write off any rates referred to in subsection (1)(b).
+(2) If an order is made under section 116, the local authority must write off any rates referred to in subsection (1)﻿(b).
 
 ## Part 4A — Lump sum contributions
 
@@ -1261,18 +1262,18 @@ No local authority may require a ratepayer to pay a lump sum contribution to a c
 (4) A local authority must, no later than 1 month after a recalculation,—
   (a) if the liability from the lump sum contributions decreases, refund the excess to the ratepayer for each rating unit in respect of which a contribution was made; or
   (b) if the liability from the lump sum contributions increases, deliver an invoice to the ratepayer for each rating unit in respect of which a contribution was made.
-(5) Any invoice to which subsection (4)(b) applies must specify a due date for payment that is not less than 1 month after the date on which the invoice is delivered.
+(5) Any invoice to which subsection (4)﻿(b) applies must specify a due date for payment that is not less than 1 month after the date on which the invoice is delivered.
 
 **Late payment or non-payment of lump sum contribution**
 
 ### 117N Late payment or non-payment of lump sum contribution
 (1) This section applies if—
   (a) an eligible ratepayer has elected to make a lump sum contribution to a capital project in respect of a rating unit; and
-  (b) the eligible ratepayer (or any other person who is for the time being the ratepayer) in respect of the rating unit does not pay the contribution, or a contribution instalment, by its due date (including any amount due under section 117M(4)(b)).
+  (b) the eligible ratepayer (or any other person who is for the time being the ratepayer) in respect of the rating unit does not pay the contribution, or a contribution instalment, by its due date (including any amount due under section 117M(4)﻿(b)).
 (2) The local authority concerned may either—
   (a) cancel the election; or
   (b) recover the amount owing in a court of competent jurisdiction as a debt due.
-(3) If the local authority cancels the election it must amend the entries in its rating information database and rates records in relation to the rating unit, for each year that it has recorded information under section 117K, to reflect the fact that the rating unit is liable, for each of those years, for the targeted rate or targeted rates referred to in section 117K(1)(b).
+(3) If the local authority cancels the election it must amend the entries in its rating information database and rates records in relation to the rating unit, for each year that it has recorded information under section 117K, to reflect the fact that the rating unit is liable, for each of those years, for the targeted rate or targeted rates referred to in section 117K(1)﻿(b).
 (4) The local authority must record any amount paid as a lump sum contribution in respect of the rating unit as a payment of the rates referred to in subsection (3)—
   (a) for the first year that the rating unit was liable for those rates; and
   (b) as being paid at the date that the lump sum contribution was paid.
@@ -1283,14 +1284,14 @@ No local authority may require a ratepayer to pay a lump sum contribution to a c
   (a) no surplus remains; or
   (b) no rates remain unpaid.
 (7) If, after the operation of subsections (5) and (6),—
-  (a) a deficit for any financial year concerned is shown in the rates record, the local authority must treat the amount or amounts as unpaid rates for the purposes of sections 46(2)(i), 57, and 58:
+  (a) a deficit for any financial year concerned is shown in the rates record, the local authority must treat the amount or amounts as unpaid rates for the purposes of sections 46(2)﻿(i), 57, and 58:
   (b) a surplus remains, the local authority must credit the rates record.
-(8) Subsection (7)(a) is subject (in any particular case) to the local authority applying its rates remission policy under section 85.
-(9) The local authority must apply any credit under subsection (7)(b) in the following manner and order of priority:
+(8) Subsection (7)﻿(a) is subject (in any particular case) to the local authority applying its rates remission policy under section 85.
+(9) The local authority must apply any credit under subsection (7)﻿(b) in the following manner and order of priority:
   (a) pay any arrears owing in respect of the rating unit for 1 or more previous financial years:
   (b) pay any arrears owing in respect of the rating unit for the current financial year:
   (c) record a credit in the rates record against future rates in respect of the rating unit.
-(10) If subsection (9)(c) applies,—
+(10) If subsection (9)﻿(c) applies,—
   (a) the ratepayer in respect of the rating unit may apply to the local authority, in writing, for a refund of the credited amount; and
   (b) the local authority must, as soon as practicable, make the refund.
 (11) The local authority must issue an amended rates assessment for each year in respect of which it has amended the rates records under this section.
@@ -1334,7 +1335,7 @@ In this subpart, unless the context otherwise requires,—
     (i) an irregularity in setting the rate; or
     (ii) a mistake in calculating the rate; or
     (iii) a relevant change in circumstances.
-(3) A local authority must notify the Secretary of Local Government of a decision under subsection (2)(b) within 14 days after the decision is made.
+(3) A local authority must notify the Secretary of Local Government of a decision under subsection (2)﻿(b) within 14 days after the decision is made.
 
 ### 121 Notice that rates will be replaced
 (1) The local authority must, as soon as practicable after the court order or its decision to set replacement rates is made, give public notice that the rates will be replaced.
@@ -1371,7 +1372,7 @@ In this subpart, unless the context otherwise requires,—
 (1) On the adoption of a rates replacement proposal,—
   (a) the replacement rates identified in the proposal are set; and
   (b) the rates to be replaced cease to have effect.
-(2) Subsection (1)(b) does not affect—
+(2) Subsection (1)﻿(b) does not affect—
   (a) the lawfulness of the actions of the local authority in assessing rates before the adoption of the rates replacement proposal; or
   (b) the lawfulness of the payment of the rates and of the local authority receiving that payment before the adoption of the rates replacement proposal; or
   (c) a rates rebate granted under the Rates Rebate Act 1973 before the adoption of the rates replacement proposal; or
@@ -1532,15 +1533,15 @@ A reference in a lease, licence, or contract—
 
 ### 145 Saving relating to lump sum contributions
 (1) Subsection (2) applies to an election to pay a lump sum contribution under section 66 of the Rating Powers Act 1988 if the election is made before the commencement of this Act.
-(2) Section 67(2)(b) and (c) of the Rating Powers Act 1988 continues to apply after the commencement of this section in respect of the contribution.
+(2) Section 67(2)﻿(b) and (c) of the Rating Powers Act 1988 continues to apply after the commencement of this section in respect of the contribution.
 
 ### 146 Savings for rates made in accordance with classification or differential systems
 (1) This section applies if, in the year commencing on 1 July 2002, a local authority makes and levies a rate—
   (a) in accordance with a classification list, under section 92(1) of the Rating Powers Act 1988; or
   (b) under section 40 or section 49 of the Rating Powers Act 1988, and in accordance with a special order under section 80 of that Act.
 (2) A local authority may set and assess a targeted rate for the purposes for which a rate described in subsection (1) is made, but the application of this Act to the targeted rate is modified as follows:
-  (a) if subsection (1)(a) applies, as if each classification under the list were a category under section 17; or
-  (b) if subsection (1)(b) applies, as if each type or group of property identified in the special order were a category under section 17.
+  (a) if subsection (1)﻿(a) applies, as if each classification under the list were a category under section 17; or
+  (b) if subsection (1)﻿(b) applies, as if each type or group of property identified in the special order were a category under section 17.
 (3) A local authority must not, in any financial year, set and assess both—
   (a) a rate under this section; and
   (b) a targeted rate for the purposes referred to in subsection (2), otherwise than under this section.
@@ -1669,7 +1670,8 @@ The bed of Te Whaanga Lagoon in the Chatham Islands.
 ### 25
 Structures that are—
 (a) fixed to, or under, or over any part of the common marine and coastal area; and
-(b) owned, or deemed to be owned, by the Crown under section 18 or 19 of the Marine and Coastal Area (Takutai Moana) Act 2011.
+(b) owned, or deemed to be owned, by the Crown under section 18 or 19 of the Marine and Coastal Area (Takutai Moana) Act 2011; or
+(c) owned by the Crown, Te Urewera Board, or the trustees of Tūhoe Te Uru Taumatua under the Te Urewera Act 2014, but subject to note 2.
 
 ### 1
 Land owned or used by a society incorporated under the Agricultural and Pastoral Societies Act 1908 as a showground or place of meeting.
