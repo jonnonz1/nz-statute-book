@@ -1,5 +1,5 @@
 # Treaty of Waitangi Act 1975
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2014-07-28_
 
 > An Act to provide for the observance, and confirmation, of the principles of the Treaty of Waitangi by establishing a Tribunal to make recommendations on claims relating to the practical application of the Treaty and to determine whether certain matters are inconsistent with the principles of the Treaty
 
@@ -379,6 +379,9 @@ The Minister of Maori Affairs shall in each year prepare and lay before the Hous
 Nothing in this Act shall affect in any way the right of any person to petition the House of Representatives for the redress of any grievance, or the jurisdiction of any committee or other body set up by the House of Representatives to deal with a petition to the House of Representatives.
 
 ## Schedule 1 — The Treaty of Waitangi
+
+| W HOBSONLieutenant Governor. |
+| --- |
 
 ## Schedule 2 — Provisions relating to the Waitangi Tribunal
 
