@@ -1,5 +1,5 @@
 # Ngāti Whātua o Kaipara Claims Settlement Act 2013
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2014-08-01_
 
 ## Preamble
 Background
@@ -176,7 +176,7 @@ In this Act, unless the context otherwise requires,—
   - **interest** means a covenant, easement, lease, licence, licence to occupy, tenancy, or other right or obligation affecting a property
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
-  - **member of Ngāti Whātua o Kaipara** means every individual referred to in section 12(1)(a)
+  - **member of Ngāti Whātua o Kaipara** means every individual referred to in section 12(1)﻿(a)
   - **Ngā Maunga Whakahii o Kaipara Development Trust** means the trust of that name established for the benefit of Ngāti Whātua o Kaipara by the Ngā Maunga Whakahii o Kaipara Development trust deed dated 4 April 2011
   - **Ngā Maunga Whakahii o Kaipara Tari Pupuritaonga Trust** means the trust of that name established for the benefit of Ngāti Whātua o Kaipara by the Ngā Maunga Whakahii o Kaipara Tari Pupuritaonga trust deed dated 4 April 2011
   - **property redress schedule** means the property redress schedule of the deed of settlement
@@ -190,8 +190,8 @@ In this Act, unless the context otherwise requires,—
       (i) the Development Trust; and
       (ii) the Tari Pupuritaonga Trust; and
     (b) any person (including any trustee) acting for, or on behalf of,—
-      (i) the collective group referred to in section 12(1)(a); or
-      (ii) 1 or more of the whānau, hapū, or groups that together form the collective group referred to in section 12(1)(a); or
+      (i) the collective group referred to in section 12(1)﻿(a); or
+      (ii) 1 or more of the whānau, hapū, or groups that together form the collective group referred to in section 12(1)﻿(a); or
       (iii) 1 or more members of Ngāti Whātua o Kaipara
   - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **RFR** means the right of first refusal provided for in subpart 4 of Part 3
@@ -273,10 +273,16 @@ In this Act, unless the context otherwise requires,—
     (xiii) Wai 1146—Te Tao Ū Land and Resources claim; and
     (xiv) Wai 1519—Ngāti Whātua (Josephs) claim; and
     (xv) Wai 1825—Deborah Kapa and the descendants of Hetaraka Takapuna claim; and
-    (xvi) Wai 2181—Ngā Uri o Maki-nui claim.
+    (xvi) Wai 2181—Ngā Uri o Maki-nui claim; and
+  (c) every claim to the following, to the extent that the claim relates to Ngāti Whātua o Kaipara or a representative entity and subsection (2) applies to the claim:
+    (i) the maunga as defined in section 10 of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014; and
+    (ii) the motu as defined in section 11(1) of that Act; and
+    (iii) the Rangitoto Island properties as defined in section 8(1) of that Act; and
+    (iv) Māngere Mountain as defined in section 8(1) of that Act; and
+    (v) the Maungakiekie / One Tree Hill northern land as defined in section 8(1) of that Act.
 (4) However, the historical claims do not include—
   (a) any of the Te Uri o Hau historical claims, being claims settled by the Te Uri o Hau deed of settlement and the Te Uri o Hau Claims Settlement Act 2002; or
-  (b) a claim that a member of Ngāti Whātua o Kaipara, or a whānau, hapū, or group referred to in section 12(1)(c), had or may have that is founded on a right arising by virtue of being descended from an ancestor who is not referred to in section 12(1)(a); or
+  (b) a claim that a member of Ngāti Whātua o Kaipara, or a whānau, hapū, or group referred to in section 12(1)﻿(c), had or may have that is founded on a right arising by virtue of being descended from an ancestor who is not referred to in section 12(1)﻿(a); or
   (c) a claim that a representative entity may have to the extent that the claim is, or is based on, a claim referred to in paragraph (a) or (b).
 (5) A claim may be a historical claim whether or not the claim has arisen or been considered, researched, registered, notified, or made on or before the settlement date.
 
@@ -284,7 +290,8 @@ In this Act, unless the context otherwise requires,—
 
 **Historical claims settled and jurisdiction of courts, etc, removed**
 
-### 14 Settlement of historical claims final
+### 14 Settlement of section 13(2), (3)﻿(a), and (3)﻿(b) historical claims final
+(1AA) In this section, historical claims means the claims described in section 13(2), (3)﻿(a), and (3)﻿(b).
 (1) The historical claims are settled.
 (2) The settlement of the historical claims is final and, on and from the settlement date, the Crown is released and discharged from all obligations and liabilities in respect of those claims.
 (3) Subsections (1) and (2) do not limit the deed of settlement.
@@ -294,6 +301,21 @@ In this Act, unless the context otherwise requires,—
   (c) this Act; or
   (d) the redress provided under the deed of settlement or this Act.
 (5) Subsection (4) does not exclude the jurisdiction of a court, tribunal, or other judicial body in respect of the interpretation or implementation of the deed of settlement or this Act.
+
+### 14A Settlement of section 13(3)﻿(c) historical claims
+(1) In this section,—
+  - **collective deed** has the same meaning as in section 8(1) of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
+  - **effective date** has the same meaning as in section 8(1) of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
+  - **historical claims** means the claims described in section 13(3)﻿(c) of this Act.
+(2) The historical claims are settled.
+(3) The settlement of the historical claims is final and, on and from the effective date, the Crown is released and discharged from all obligations and liabilities in respect of those claims.
+(4) Subsections (1) and (2) do not limit the acknowledgements expressed in, or the provisions of, the collective deed.
+(5) Despite any other enactment or rule of law, on and from the effective date, no court, tribunal, or other judicial body has jurisdiction (including the jurisdiction to inquire or further inquire or to make a finding or recommendation) in respect of—
+  (a) the historical claims; or
+  (b) the collective deed; or
+  (c) the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014; or
+  (d) the redress provided under the collective deed or that Act.
+(6) Subsection (4) does not exclude the jurisdiction of a court, tribunal, or other judicial body in respect of the interpretation or implementation of the collective deed of settlement or the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014.
 
 **Amendment to Treaty of Waitangi Act 1975**
 
@@ -324,8 +346,8 @@ In this Act, unless the context otherwise requires,—
   (a) that is all or part of each class of property referred to in section 16(1); and
   (b) in a certificate of title or computer register that has a memorial entered under any enactment listed in section 16(2).
 (2) The chief executive of LINZ must issue the certificate as soon as is reasonably practicable—
-  (a) after the settlement date for a class of property referred to in section 16(1)(a) to (c); and
-  (b) after the actual date of settlement of the property for a property referred to in section 16(1)(d) to (f).
+  (a) after the settlement date for a class of property referred to in section 16(1)﻿(a) to (c); and
+  (b) after the actual date of settlement of the property for a property referred to in section 16(1)﻿(d) to (f).
 (3) Each certificate must state that it is issued under this section.
 (4) As soon as is reasonably practicable after receiving a certificate, the Registrar-General must—
   (a) register the certificate against each certificate of title or computer register identified in the certificate; and
@@ -339,7 +361,7 @@ In this Act, unless the context otherwise requires,—
     (i) the Development Trust or the Tari Pupuritaonga Trust may exist in law; or
     (ii) the trustees of those trusts may hold or deal with property or income derived from property; and
   (b) do not apply to a document entered into to give effect to the deed of settlement if the application of that rule or the provisions of that Act would otherwise make the document, or a right conferred by the document, invalid or ineffective.
-(2) However, if either or both of the trusts named in subsection (1)(a) are, or become, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
+(2) However, if either or both of the trusts named in subsection (1)﻿(a) are, or become, a charitable trust, the application (if any) of the rule against perpetuities or any provision of the Perpetuities Act 1964 to that trust must be determined under the general law.
 
 ### 19 Access to deed of settlement
 The chief executive of the Ministry of Justice must make copies of the deed of settlement available—
@@ -380,7 +402,7 @@ In this Part,—
 ### 22 Atuanui Scenic Reserve
 (1) The reservation of Atuanui Scenic Reserve as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Atuanui Scenic Reserve vests in the trustees of the Tari Pupuritaonga Trust.
-(3) Atuanui Scenic Reserve is declared a reserve and classified as a scenic reserve for the purpose specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Atuanui Scenic Reserve is declared a reserve and classified as a scenic reserve for the purpose specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve created by subsection (3) is named Atuanui Scenic Reserve.
 (5) Despite subsections (1) and (2), the viewing platform as shown on deed plan OTS-674-08—
   (a) does not vest under subsection (2); but
@@ -487,7 +509,7 @@ Each cultural redress property vests under this subpart subject to, or together 
     (i) section 24 of the Conservation Act 1987 does not apply to the site; and
     (ii) the site is subject to sections 32(3) and 36 of this Act; or
   (b) part of the site, the Registrar-General must ensure that the notifications referred to in paragraph (a) remain on the computer freehold register only for the part of the site that remains a reserve.
-(4) The Registrar-General must comply with an application received in accordance with subsection (3)(a).
+(4) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a).
 
 ### 34 Application of other enactments
 (1) The vesting of the fee simple estate in a cultural redress property under this subpart does not—
@@ -504,7 +526,7 @@ Each cultural redress property vests under this subpart subject to, or together 
 ### 35 Application of other enactments to reserve properties
 (1) The trustees of the Tari Pupuritaonga Trust are the administering body of a reserve property for the purposes of the Reserves Act 1977.
 (2) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to a reserve property, despite sections 48A(6), 114(5), and 115(6) of that Act.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve site.
 (4) If the reservation under this subpart of a reserve site is revoked under section 24 of the Reserves Act 1977 in relation to all or part of the site,—
   (a) section 25(2) of that Act applies to the revocation; but
   (b) the other provisions of section 25 do not apply.
@@ -579,7 +601,7 @@ The Registrar-General of Land must, in accordance with a written application by 
   (b) united with another reserve (or with part of another reserve) under section 52 of that Act; or
   (c) transferred, mortgaged, or the subject of a grant of a security interest.
 (3) Subsection (1) does not prevent a change being made, in accordance with the Reserves Act 1977, to the classification of the Parakai Recreation Reserve.
-(4) Subsection (2)(a) and (b) does not limit any Act other than the Reserves Act 1977.
+(4) Subsection (2)﻿(a) and (b) does not limit any Act other than the Reserves Act 1977.
 (5) The vesting of an undivided half share of the fee simple estate in the Parakai Recreation Reserve by section 43(2) does not—
   (a) limit section 10 or 11 of the Crown Minerals Act 1991; or
   (b) affect other rights to subsurface minerals.
@@ -603,7 +625,7 @@ The Registrar-General of Land must, in accordance with a written application by 
 (2) The Minister of Conservation may, in accordance with section 27 of the Reserves Act 1977, cancel the deemed vesting of the Parakai Recreation Reserve in the Board as if the reserve were vested in the Board under section 26 of that Act.
 
 ### 48 Transfer to other trustees
-(1) Despite section 45(2)(c) (which prohibits transfer of the Parakai Recreation Reserve), the trustees may transfer their undivided one half share in the fee simple estate in the reserve to—
+(1) Despite section 45(2)﻿(c) (which prohibits transfer of the Parakai Recreation Reserve), the trustees may transfer their undivided one half share in the fee simple estate in the reserve to—
   (a) transferees who are trustees after—
     (i) a new trustee has been appointed; or
     (ii) a transferor has ceased to be a trustee; or
@@ -647,12 +669,12 @@ A bylaw or prohibition or restriction on the use of, or access to or over, the P
 ### 53 Alteration of computer freehold registers if reservation revoked
 (1) This section applies if section 52(1) applies.
 (2) The Director-General must apply in writing to the Registrar-General—
-  (a) to remove the notification on the computer freehold registers required by section 44(b)(ii); and
+  (a) to remove the notification on the computer freehold registers required by section 44(b)﻿(ii); and
   (b) to take any other action in relation to the computer freehold registers that is—
     (i) required by the Director-General of Conservation; and
     (ii) authorised by the Reserves Act 1977 or the Land Act 1948; and
   (c) if a part of the reserve is revoked,—
-    (i) to ensure that the notification on the computer freehold registers required by section 44(b)(ii) remains on the register for the part of the reserve for which the reservation is not revoked; and
+    (i) to ensure that the notification on the computer freehold registers required by section 44(b)﻿(ii) remains on the register for the part of the reserve for which the reservation is not revoked; and
     (ii) to comply with paragraph (b).
 
 ### 54 Obligation of Registrar-General of Land
@@ -744,11 +766,11 @@ The only purposes of the statutory acknowledgement are to—
 (1) Each relevant consent authority must, for a period of 20 years on and from the effective date, provide the following to the trustees for each resource consent application for an activity within, adjacent to, or directly affecting a statutory area:
   (a) a summary of the application, if the application is received by the consent authority; or
   (b) a copy of the notice, if the application is served on the consent authority under section 145(10) of the Resource Management Act 1991.
-(2) A summary provided under subsection (1)(a) must be the same as would be given to an affected person under section 95B of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority.
+(2) A summary provided under subsection (1)﻿(a) must be the same as would be given to an affected person under section 95B of the Resource Management Act 1991, or as may be agreed between the trustees and the relevant consent authority.
 (3) The summary must be provided—
   (a) as soon as is reasonably practicable after an application is received by the relevant consent authority; but
   (b) before the relevant consent authority decides under section 95 of the Resource Management Act 1991 whether to notify the application.
-(4) A copy of a notice must be provided under subsection (1)(b) not later than 10 working days after the day on which the relevant consent authority receives the notice.
+(4) A copy of a notice must be provided under subsection (1)﻿(b) not later than 10 working days after the day on which the relevant consent authority receives the notice.
 (5) The trustees may, by notice in writing to a relevant consent authority,—
   (a) waive the rights to be notified under this section; and
   (b) state the scope of that waiver and the period it applies for.
@@ -1006,17 +1028,17 @@ In this Part,—
   (b) under section 36 of the Crown Forest Assets Act 1989.
 
 ### 89 Notice under Crown Forest Assets Act 1989
-(1) The Crown must give notice under section 17(4)(b) of the Crown Forest Assets Act 1989 in respect of a Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
+(1) The Crown must give notice under section 17(4)﻿(b) of the Crown Forest Assets Act 1989 in respect of a Crown forestry licence, even though the Waitangi Tribunal has not made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land.
 (2) Notice given by the Crown under subsection (1) has effect as if—
-  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
+  (a) the Waitangi Tribunal had made a recommendation under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 for the return of the licensed land; and
   (b) the recommendation had become final on the ownership transfer date for the land.
-(3) However, section 36(1)(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
+(3) However, section 36(1)﻿(b) of the Crown Forest Assets Act 1989 does not apply to the licensed land.
 
 ### 90 Effect of transfer of licensed land
 (1) Sections 88 and 89 apply to the licensed land, whether or not, on the ownership transfer date,—
   (a) the transfer of the fee simple estate in the licensed land has been registered; or
   (b) the processes described in clause 17.4 of the Crown forestry licence (which relates to licence-splitting processes) have been completed.
-(2) To the extent that the Crown has not completed the processes referred to in subsection (1)(b) before the ownership transfer date, it must continue those processes—
+(2) To the extent that the Crown has not completed the processes referred to in subsection (1)﻿(b) before the ownership transfer date, it must continue those processes—
   (a) on and after the ownership transfer date; and
   (b) until the processes are completed.
 (3) For the period from the ownership transfer date until the completion of the processes referred to in subsections (1) and (2), the licence fee payable under the Crown forestry licence in respect of the licensed land is the amount calculated in accordance with paragraphs 10.24 and 10.25 of the property redress schedule.
@@ -1091,7 +1113,7 @@ In this subpart and Schedule 4, unless the context otherwise requires,—
   - **Marutūāhu deed of settlement** means a deed between the Crown and Marutūāhu that settles the Marutūāhu historical claims
   - **Marutūāhu governance entity** means the entity that the Marutūāhu settlement legislation specifies as having the rights of the Marutūāhu governance entity under this subpart
   - **Marutūāhu settlement legislation** means legislation that settles the historical claims of Marutūāhu
-  - **non-exclusive RFR land** has the meaning given in section 97(2)
+  - **non-exclusive RFR land** has the meaning given in section 97(1)
   - **notice** means a notice given in writing under this subpart
   - **offer** means an offer by an RFR landowner, made in accordance with section 100, to dispose of RFR land to a governance entity
   - **public work** has the meaning given in section 2 of the Public Works Act 1981
@@ -1124,7 +1146,7 @@ In this subpart and Schedule 4, unless the context otherwise requires,—
 (2) Land ceases to be RFR land if—
   (a) the fee simple estate in the land is transferred from the RFR landowner to—
     (i) a governance entity or its nominee (for example, under section 104); or
-    (ii) any other person (including the Crown or a Crown body) under section 99(1)(c); or
+    (ii) any other person (including the Crown or a Crown body) under section 99(1)﻿(c); or
   (b) the fee simple estate in the land is transferred from the RFR landowner to, or vests in, a person other than the Crown or a Crown body—
     (i) under any of sections 105 to 115 (which relate to permitted disposals of RFR land); or
     (ii) under section 116(1) (which relates to matters that may override the obligations of an RFR landowner under this subpart); or
@@ -1172,7 +1194,7 @@ The provisions of this subpart come into effect as follows:
 **Restrictions on disposal**
 
 ### 99 Restrictions on disposal of RFR land
-(1) An RFR landowner must not dispose of RFR land to a person other than to the trustees or a governance entity referred to in subsection (3)(b) or (4)(b) (or the RFR land nominee of a governance entity) unless the land is disposed of—
+(1) An RFR landowner must not dispose of RFR land to a person other than to the trustees or a governance entity referred to in subsection (3)﻿(b) or (4)﻿(b) (or the RFR land nominee of a governance entity) unless the land is disposed of—
   (a) under any of sections 105 to 115; or
   (b) under section 116(1); or
   (c) in accordance with subsection (2).
@@ -1186,7 +1208,7 @@ The provisions of this subpart come into effect as follows:
 (4) In the case of non-exclusive RFR land, notice must be given if the settlement date under the Marutūāhu settlement legislation—
   (a) has not occurred at the date of the offer, to the trustees; or
   (b) has occurred at the date of the offer, to the trustees and the Marutūāhu governance entity.
-(5) In every case where notice has been given under subsection (2)(a), (3), or (4), the offer must—
+(5) In every case where notice has been given under subsection (2)﻿(a), (3), or (4), the offer must—
   (a) have been made in accordance with section 100; and
   (b) have been made on terms that are the same as, or more favourable to the relevant governance entity than, the terms of the disposal to the other person; and
   (c) not have been withdrawn under section 102; and
@@ -1215,8 +1237,8 @@ An offer by an RFR landowner to dispose of RFR land must be made by notice that 
 The RFR landowner may, by notice to the relevant governance entity, withdraw an offer at any time before it is accepted.
 
 ### 103 Acceptance of offer
-(1) The trustees may, by notice (the acceptance notice) to the RFR landowner that made the offer, accept an offer given by notice under section 99(2)(a), (3)(a), or (4)(a).
-(2) However, an acceptance notice may be given by only 1 of the governance entities to which the offer was made under section 99(3)(b) or (4)(b).
+(1) The trustees may, by notice (the acceptance notice) to the RFR landowner that made the offer, accept an offer given by notice under section 99(2)﻿(a), (3)﻿(a), or (4)﻿(a).
+(2) However, an acceptance notice may be given by only 1 of the governance entities to which the offer was made under section 99(3)﻿(b) or (4)﻿(b).
 (3) If the RFR landowner receives acceptance notices before the expiry date from both governance entities to which the offer was made, the RFR landowner must, not later than 10 working days after receiving the notices, give notice to both governance entities, advising that—
   (a) acceptance notices have been received from both governance entities; and
   (b) the offer may be accepted by only 1 of the governance entities to which it was made; and
@@ -1280,7 +1302,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 110 Disposal by the Crown under certain legislation
 The Crown may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 355(3) of the Resource Management Act 1991; or
   (c) section 34 of the Marine and Coastal Area (Takutai Moana) Act 2011.
 
@@ -1288,8 +1310,8 @@ The Crown may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as those provisions are applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -1324,7 +1346,7 @@ The Crown may dispose of RFR land—
     (i) that prevents or limits an RFR landowner’s disposal of RFR land to a governance entity; and
     (ii) that the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) For the purposes of subsection (1)(b)(ii), reasonable steps do not include steps to promote the passing of an enactment.
+(2) For the purposes of subsection (1)﻿(b)﻿(ii), reasonable steps do not include steps to promote the passing of an enactment.
 (3) This subpart does not limit subsection (1).
 
 **Notices about RFR land**
@@ -1348,7 +1370,7 @@ The Crown may dispose of RFR land—
   (d) identify the person to whom the land is being disposed of; and
   (e) explain how the disposal complies with section 99(1); and
   (f) if the disposal is made under section 99(2), include a copy of any written contract for the disposal.
-(4) The requirement under subsection (1)(b) and (c) to notify the TKaM governance entity and the Marutūāhu governance entity respectively applies only if, before the date of the notice, as the case may require, relevant approving settlement legislation has been enacted.
+(4) The requirement under subsection (1)﻿(b) and (c) to notify the TKaM governance entity and the Marutūāhu governance entity respectively applies only if, before the date of the notice, as the case may require, relevant approving settlement legislation has been enacted.
 
 ### 119 Notice to governance entities if disposal of certain RFR land being considered
 (1) This section applies if an RFR landowner is considering whether to dispose, in a way that may require an offer under this subpart, of—
@@ -1372,10 +1394,10 @@ The Crown may dispose of RFR land—
   (a) that the land is to cease being RFR land; and
   (b) that specifies the legal description of the land; and
   (c) that identifies the computer register that contains the land.
-(3) A notice given under subsection (1)(a) must—
+(3) A notice given under subsection (1)﻿(a) must—
   (a) be given as early as practicable before the transfer or vesting; and
   (b) specify the details of the transfer or vesting of the land that will result in the land ceasing to be RFR land.
-(4) A notice given under subsection (1)(b) must—
+(4) A notice given under subsection (1)﻿(b) must—
   (a) be given as early as practicable after the land ceases to be RFR land; and
   (b) include a copy of the notification given by the Minister for Treaty of Waitangi Negotiations under section 96(3).
 
@@ -1408,12 +1430,12 @@ Schedule 4 applies to notices given under this subpart by or to—
   (b) subject to this subpart (which restricts disposal, including leasing, of the land).
 
 ### 123 Removal of notations when land to be transferred or vested
-(1) The chief executive of LINZ must, before registration of the transfer or vesting of land described in a notice given under section 120(1)(a), issue to the Registrar-General a certificate that—
+(1) The chief executive of LINZ must, before registration of the transfer or vesting of land described in a notice given under section 120(1)﻿(a), issue to the Registrar-General a certificate that—
   (a) specifies the legal description of the land; and
   (b) identifies the computer register for the land; and
   (c) specifies the details of the transfer or vesting of the land; and
   (d) states that it is issued under this section.
-(2) The chief executive of LINZ must, as soon as is reasonably practicable after receiving a notice given under section 120(1)(b), issue to the Registrar-General a certificate that—
+(2) The chief executive of LINZ must, as soon as is reasonably practicable after receiving a notice given under section 120(1)﻿(b), issue to the Registrar-General a certificate that—
   (a) specifies the legal description of the land described in the notice; and
   (b) identifies the computer register that contains the land; and
   (c) includes a copy of the notice given under section 97(2); and
@@ -1488,7 +1510,7 @@ This subpart does not limit the ability of the Crown, or a Crown body, to sell o
 | Property vesting in fee simple |  |  |
 | Makarau | 5.0862 hectares, more or less, being Section 1 SO 444818 and Section 36 Block II Kaipara Survey District. |  |
 | Properties vesting in fee simple to be administered as reserves |  |  |
-| Atuanui Scenic Reserve | 625.6540 hectares, more or less, being Section 1 SO 440005. All Gazette notice C465246.1 and parts Gazette notice D376064.1 and Gazette notice D376064.2. | Scenic reserve subject to section 19(1)(a) of the Reserves Act 1977. |
+| Atuanui Scenic Reserve | 625.6540 hectares, more or less, being Section 1 SO 440005. All Gazette notice C465246.1 and parts Gazette notice D376064.1 and Gazette notice D376064.2. | Scenic reserve subject to section 19(1)﻿(a) of the Reserves Act 1977. |
 | Makarau Bridge Reserve | 4.1644 hectares, more or less, being Section 1 SO 446489. Part Gazette 1973, p 895. | Local purpose (estuarine habitat) reserve subject to section 23 of the Reserves Act 1977. |
 |  | Subject to right of way easement referred to in section 23(4). |  |
 | Parakai | 26.2754 hectares, more or less, being Sections 1 to 189 SO 441418. | Local purpose (estuarine habitat) reserve subject to section 23 of the Reserves Act 1977. |
@@ -1498,7 +1520,7 @@ This subpart does not limit the ability of the Crown, or a Crown body, to sell o
 | Mauiniu Island | 2.1868 hectares, more or less, being Section 1 SO 440002. All computer freehold register NA98D/745. | Subject to the conservation covenant referred to in section 27(3). |
 |  | Together with a right to enter into and upon and use the lakes on the land created by Transfer 306110. |  |
 |  | The within land to be added to a water area (Crosland Farm Settlement) for the purposes of section 50 of the Land Act 1948 created by Gazette A187922. |  |
-|  | Resolution pursuant to section 321(3)(b) of the Local Government Act 1974 created by C709584.3. |  |
+|  | Resolution pursuant to section 321(3)﻿(b) of the Local Government Act 1974 created by C709584.3. |  |
 | Moturemu Island | 5.0500 hectares, more or less, being Section 1 SO 440003. Part computer freehold register NA23/186. | Subject to the conservation covenant referred to in section 28(3). |
 | Tīpare | 2.3300 hectares, more or less, being Section 1 SO 440004. Part Gazette notice C465397.2. | Subject to the conservation covenant referred to in section 29(3). |
 
