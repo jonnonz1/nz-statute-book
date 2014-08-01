@@ -1,5 +1,5 @@
 # Imprest Supply (First for 2014/15) Act 2014
-_Consolidation as at 2014-06-30_
+_Consolidation as at 2014-08-01_
 
 ### 1 Title
 This Act is the Imprest Supply (First for 2014/15) Act 2014.
@@ -26,20 +26,17 @@ The purposes of this Act are—
 (2) Terms or expressions used and not defined in this Act but defined in the Public Finance Act 1989 have, in this Act, the same meanings as in the Public Finance Act 1989.
 
 ### 6 Authority to incur expenses
-(1) Expenses may, during the 2014/15 year, be incurred in advance of appropriation in relation to any Vote.
-(2) Expenses incurred under subsection (1) must not exceed in the aggregate the sum of $37,000 million.
+[Repealed]
 
 ### 7 Authority to incur capital expenditure
-(1) Capital expenditure may, during the 2014/15 year, be incurred in advance of appropriation in relation to any Vote.
-(2) Capital expenditure incurred under subsection (1) must not exceed in the aggregate the sum of $3,000 million.
+[Repealed]
 
 ### 8 Appropriation required
 (1) All expenses incurred under section 6(1) and all capital expenditure incurred under section 7(1) must be appropriated in an Appropriation Act that comes into force on or before 30 June 2015.
 (2) Until the coming into force of that Appropriation Act, those expenses and that capital expenditure may be incurred during the 2014/15 year as if they had been incurred in accordance with one of the separate appropriations specified in section 7A(1) of the Public Finance Act 1989.
 
 ### 9 Authority to make capital injections
-(1) Capital injections may, during the 2014/15 year, be made to any department or Office of Parliament in advance of authorisation under an Appropriation Act.
-(2) Capital injections made under subsection (1) during the 2014/15 year must not exceed in the aggregate the sum of $700 million.
+[Repealed]
 
 ### 10 Authorisation required
 (1) All capital injections made under section 9(1) must be authorised in an Appropriation Act that comes into force on or before 30 June 2015.
