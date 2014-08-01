@@ -1,5 +1,5 @@
 # Hauraki Gulf Marine Park Act 2000
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2014-08-01_
 
 ## Preamble
 (1) The Hauraki Gulf has a quality and diversity of biology and landscape that makes it outstanding within New Zealand. The islands of the Gulf are valued as the habitats of plants and animals, once common, now rare, and are often the only places in the world where these species exist naturally:
@@ -289,7 +289,10 @@ The purposes of the Hauraki Gulf Marine Park are—
   (d) all seawater within the Hauraki Gulf:
   (e) all land of the Crown in the Hauraki Gulf, within a wetland approved by the Minister of Foreign Affairs and notified to the Bureau of the Convention on Wetlands of International Importance done at Ramsar on 2 February 1971:
   (f) all land included in the Park in accordance with section 34 or section 35:
-  (g) all mataitai reserves and taiapure-local fisheries included in the Park in accordance with section 36.
+  (g) all mataitai reserves and taiapure-local fisheries included in the Park in accordance with section 36:
+  (h) all land—
+    (i) included in the Park to give effect to legislation settling historical claims of iwi and hapū under the Treaty of Waitangi (being claims relating to acts or omissions of the Crown before 21 September 1992); and
+    (ii) described in Schedule 5.
 (3) The inclusion of seawater in the Hauraki Gulf Marine Park is to give effect to the purposes of the Park and does not—
   (a) give the Crown or any other person ownership of seawater; or
   (b) affect the responsibilities of a regional council in the coastal marine area.
@@ -437,3 +440,5 @@ The catchment area and coastal marine area of the Hauraki Gulf are indicated in 
 ## Schedule 3 — Map to indicate Hauraki Gulf
 
 ## Schedule 4 — Description of HMNZS Tamaki Reserve
+
+## Schedule 5 — Land included in Park to give effect to legislation settling historical Treaty of Waitangi claims
