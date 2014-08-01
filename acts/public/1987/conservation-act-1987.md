@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2014-07-03_
+_Consolidation as at 2014-08-01_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -88,7 +88,7 @@ _Consolidation as at 2014-07-03_
         (B) makes provision for any activity on the land that the lessee is permitted to carry out:
       (ii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under any former Act:
       (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and purporting to be issued under this Act before the commencement of section 2(2) of the Conservation Amendment Act 1996; but
-    (b) does not include a licence referred to in paragraph (b)(ii) of the definition of the term licence;—
+    (b) does not include a licence referred to in paragraph (b)﻿(ii) of the definition of the term licence;—
   - **licence** —and has a corresponding meaning
     (a) means—
       (i) a profit à prendre or any other grant that gives a non-exclusive interest in land; or
@@ -233,8 +233,8 @@ There is hereby established an authority to be called the New Zealand Conservati
   (b) release for public information, in such form as it thinks fit, any recommendation, report, or advice made or given by the Authority to the Minister or the Director-General:
   (c) advocate the interests of the Authority at any public forum or in any statutory planning process.
 (3) In exercising powers other than advocacy or investigative powers, the Authority shall have regard to any views expressed in writing by the Minister and addressed to the Authority.
-(4) Notwithstanding subsection (2)(b), the Authority shall not release its annual report for public information until it has been laid before the House of Representatives.
-(5) The power conferred by subsection (2)(c) shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Authority's functions.
+(4) Notwithstanding subsection (2)﻿(b), the Authority shall not release its annual report for public information until it has been laid before the House of Representatives.
+(5) The power conferred by subsection (2)﻿(c) shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Authority's functions.
 
 ### 6D Membership
 (1) The members of the Authority shall be appointed by the Minister having regard to the interests of conservation, natural earth and marine sciences, and recreation, and the Authority shall consist of—
@@ -246,7 +246,7 @@ There is hereby established an authority to be called the New Zealand Conservati
   (e) 1 person appointed on the recommendation of the Royal Forest and Bird Protection Society of New Zealand Incorporated:
   (f) 1 person appointed on the recommendation of the Federated Mountain Clubs of New Zealand Incorporated:
   (g) 4 persons appointed following public notice given in accordance with subsection (2).
-(2) Every notice required by subsection (1)(g) shall—
+(2) Every notice required by subsection (1)﻿(g) shall—
   (a) state the number of appointments intended to be made to the Authority:
   (b) call for nominations for membership of the Authority to be sent to the Minister:
   (c) state a date, being not less than 28 days after the date of the first publication of the notice, after which the Minister may decline to accept such nominations:
@@ -320,14 +320,14 @@ The Authority shall be serviced by the Department in such manner as the Minister
 (2) Without limiting the generality of subsection (1), each Board may—
   (a) advocate its interests at any public forum or in any statutory planning process; and
   (b) appoint committees of members and other suitable persons, and delegate to them functions and powers.
-(3) The power conferred by subsection (2)(a) shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Board's functions.
+(3) The power conferred by subsection (2)﻿(a) shall include the right to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Board's functions.
 
 ### 6O Annual report
 As soon as practicable after 30 June in every year, every Board shall furnish the Conservation Authority with a report of its operations for the period of 12 months that ended on that day.
 
 ### 6P Membership of Conservation Boards
 (1) Every Board shall consist of not more than 12 members.
-(2) Except as provided in subsections (5), (6), (7), and (7A), the Minister shall appoint every member of a Board after giving public notice in accordance with subsection (4), and after consultation with the Conservation Authority, and having regard to—
+(2) Except as provided in subsections (4A), (5), (6), (7), and (7A), the Minister shall appoint every member of a Board after giving public notice in accordance with subsection (4), and after consultation with the Conservation Authority, and having regard to—
   (a) the particular features of land administered by the Department in the area of the Board's jurisdiction; and
   (b) the interests of nature conservation, natural earth and marine sciences, recreation, tourism, and the local community including the tangata whenua of the area.
 (3) Before making any appointment representing the interests of the tangata whenua of an area, the Minister shall consult with the Minister of Maori Affairs about those interests.
@@ -338,6 +338,12 @@ As soon as practicable after 30 June in every year, every Board shall furnish th
   (d) be published—
     (i) at least twice in a daily newspaper circulating in the area in which the Board will have jurisdiction; and
     (ii) in such other communications media and on such occasions as the Minister may direct.
+(4A) The Board whose area of jurisdiction includes that part of Auckland and the islands of the Hauraki Gulf / Tīkapa Moana within the Ngā Mana Whenua o Tāmaki Makaurau Collective RFR area (as that area is defined in section 117(1) of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014) must comprise—
+  (a) no more than 9 members appointed under subsection (2); and
+  (b) 1 member appointed by the Minister on the recommendation of the Marutūāhu rōpū entity (as defined in section 8(1) of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014); and
+  (c) 1 member appointed by the Minister on the recommendation of the Ngāti Whātua rōpū entity (as defined in section 8(1) of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014); and
+  (d) 1 member appointed by the Minister on the recommendation of the Waiohua Tāmaki rōpū entity (as defined in section 8(1) of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014).
+(4B) Subsection (3) does not apply to the appointments made by the Minister to the Board whose jurisdiction is described in subsection (4A).
 (5) The Board whose area of jurisdiction includes the Tongariro National Park shall consist of—
   (a) not more than 11 persons appointed under subsection (2); and
   (b) the paramount chief for the time being of the Ngati Tuwharetoa Tribe of the Maori race, if that chief is a lineal descendant of Te Heuheu Tukino, the donor on behalf of his associated Chiefs of the Tribe of certain Maori land included in the area of the park, or, if the paramount chief for the time being of that tribe is not a lineal descendant of Te Heuheu Tukino, a lineal descendant of Te Heuheu Tukino appointed by the Minister.
@@ -356,7 +362,7 @@ As soon as practicable after 30 June in every year, every Board shall furnish th
 (7C) A Board whose area of jurisdiction is partly within the Ngāi Tahu claim area, as defined in section 8 of the Ngāi Tahu Claims Settlement Act 1998, must consist of not more than 12 persons, being—
   (a) at least 1 person appointed on the nomination of Te Rūnanga o Ngāi Tahu (as established by section 6 of Te Runanga o Ngai Tahu Act 1996); and
   (b) the remaining persons appointed under subsection (2).
-(7D) Subsections (2) and (4) do not apply in respect of persons to be appointed under subsections (7B)(a) and (7C)(a).
+(7D) Subsections (2) and (4) do not apply in respect of persons to be appointed under subsections (7B)﻿(a) and (7C)﻿(a).
 (8) The appointment of any person by the Minister to be a member of a Board shall be made by notice published in the Gazette, and shall take effect from the date of such notice or such later date as may be specified in the notice.
 (9) No person employed by the Department under the State Sector Act 1988 shall be eligible to be a member of any Board.
 
@@ -407,7 +413,7 @@ The Boards shall be serviced by the Department in such manner as the Minister ma
 (2) The functions of the Guardians shall be—
   (a) to make recommendations to the Minister on any matters arising from the environmental, ecological, and social effects of the operation of the Manapouri-Te Anau hydroelectric power scheme on the townships of Manapouri and Te Anau, Lakes Manapouri and Te Anau and their shorelines, and on the rivers flowing in and out of those lakes, having particular regard to the effects of the operation on social values, conservation, recreation, tourism, and related activities and amenities:
   (b) to make recommendations to the Minister on any matters arising from the environmental, ecological, and social effects of the operation of the Monowai Power Scheme on Lake Monowai, its shoreline, and on the rivers flowing in and out of Lake Monowai, having particular regard to the effects of the operation on social values, conservation, recreation, tourism, and related activities and amenities:
-  (c) to make to the Minister, and to the Minister responsible for the administration of the Manapouri – Te Anau Development Act 1963, recommendations on the operating guidelines for the levels of Lakes Manapouri and Te Anau, for the purposes of section 4A of that Act.
+  (c) to make to the Minister, and to the Minister responsible for the administration of the Manapouri-Te Anau Development Act 1963, recommendations on the operating guidelines for the levels of Lakes Manapouri and Te Anau, for the purposes of section 4A of that Act.
 (3) The Guardians shall in each year make a report to the Minister on their meetings and recommendations.
 (4) Except as otherwise expressly provided, every reference in any other Act to the Guardians of Lakes Manapouri and Te Anau shall be read as a reference to the Guardians appointed under subsection (1).
 
@@ -444,7 +450,7 @@ The Boards shall be serviced by the Department in such manner as the Minister ma
 [Repealed]
 
 ### 13 Conservation areas may be closed
-(1) The Minister may—and during the closure no person not authorised to do so by the Director-General shall remain on or enter the area.
+(1) The Minister may—and during the closure no person not authorised to do so by the Director-General shall remain in or enter the area.
   (a) if requested to do so under section 24H(7) or if any conservation management strategy or conservation management plan relating to any conservation area provides for its closure in whole or in part for conservation purposes, to public entry, close the area or any part of it to public entry in accordance with the strategy or plan; and
   (b) to the extent only that the conservation of any natural or historic resource of a conservation area for which there is no conservation management strategy or conservation management plan requires the closure of the area to public entry, close the area to public entry; and
   (c) for reasons of public safety or emergency close any conservation area to public entry;—
@@ -520,14 +526,14 @@ Subject to this Act, the Department shall administer and manage all conservation
 (4) The Director-General may at any time prepare an amendment to any statement of general policy, and the following provisions shall apply in any such case:
   (a) where the proposed amendment does not materially affect the objectives of the policy or the public interest, the Director-General shall send it to the Conservation Authority or the New Zealand Fish and Game Council, as the case may require, and it shall be dealt with under paragraphs (k) to (m) of subsection (3), which shall apply with any necessary modifications:
   (b) in any other case, the proposed amendment shall be dealt with under paragraphs (a) to (m) of subsection (3), which shall apply with any necessary modifications.
-(5) All statements of general policy approved under this Act before the commencement of this section shall be deemed to have been approved under subsection (3)(m).
+(5) All statements of general policy approved under this Act before the commencement of this section shall be deemed to have been approved under subsection (3)﻿(m).
 
 ### 17C General policy under more than 1 Act
 (1) The Director-General may from time to time prepare and recommend for approval by the Minister a general statement of policy for any area or areas of land or water, or for any natural or historic resources, managed by the Department for the purposes of the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, or this Act, or any of them.
 (2) Where any part of any such statement of policy is subject to any of the Acts referred to in subsection (1), it may be approved only in accordance with the relevant approval procedures set out in that Act; and the relevant provisions of that Act shall apply accordingly.
 
 ### 17D Conservation management strategies
-(1) The purpose of a conservation management strategy is to implement general policies and establish objectives for the integrated management of natural and historic resources, including any species, managed by the Department under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, the National Parks Act 1980 Hauraki Gulf Marine Park Act 2000, or this Act, or any of them, and for recreation, tourism, and other conservation purposes.
+(1) The purpose of a conservation management strategy is to implement general policies and establish objectives for the integrated management of natural and historic resources, including any species, managed by the Department under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Wild Animal Control Act 1977, the Marine Mammals Protection Act 1978, the National Parks Act 1980, the Hauraki Gulf Marine Park Act 2000, or this Act, or any of them, and for recreation, tourism, and other conservation purposes.
 (2) Within 5 years after the commencement of this section, such conservation management strategies as may be necessary to establish such objectives for all areas managed by the Department shall be prepared by the Director-General for approval by the Conservation Authority in accordance with section 17F.
 (3) Subject to this Act, the Director-General shall determine the boundaries of a conservation management strategy.
 (4) Nothing in any conservation management strategy shall—
@@ -543,7 +549,7 @@ Subject to this Act, the Department shall administer and manage all conservation
 (1) The purpose of a conservation management plan is to implement conservation management strategies and establish detailed objectives for the integrated management of natural and historic resources within any area or areas referred to in subsection (4), and for recreation, tourism, and other conservation purposes.
 (2) The Director-General shall prepare conservation management plans as required by the provisions of any conservation management strategy.
 (3) Where an area is not subject to a conservation management strategy, the Minister may require the preparation of a conservation management plan for that area after consultation with the Boards affected; and the Director-General shall prepare such a plan if so required by the Minister.
-(4) Any conservation management plan may relate to any area or areas managed by the Department under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Marine Mammals Protection Act 1978 Hauraki Gulf Marine Park Act 2000, or this Act.
+(4) Any conservation management plan may relate to any area or areas managed by the Department under the Wildlife Act 1953, the Marine Reserves Act 1971, the Reserves Act 1977, the Marine Mammals Protection Act 1978, the Hauraki Gulf Marine Park Act 2000, or this Act.
 (5) Nothing in any conservation management plan shall derogate from—
   (a) any provision in this Act or any other Act; or
   (b) any policy approved under this Act or any other Act in respect of the area to which the plan relates, or any part of that area; or
@@ -615,7 +621,7 @@ The following provisions shall apply to the preparation and approval of draft co
 
 ### 17I Amendments to conservation management strategies and conservation management plans
 (1) The Director-General, after consultation with the Conservation Boards affected, may at any time initiate the amendment of any conservation management strategy or conservation management plan, or any part of any such strategy or plan.
-(1A) The Director-General may amend a conservation management strategy so that the information in the strategy required by section 17D(7) (identifying and describing protected areas) remains accurate. Subsections (1), (2), and (4)(a) do not apply to the Director-General's ability to amend a conservation management strategy under this subsection. However, the Director-General must promptly notify the Conservation Boards affected of every amendment made under this subsection.
+(1A) The Director-General may amend a conservation management strategy so that the information in the strategy required by section 17D(7) (identifying and describing protected areas) remains accurate. Subsections (1), (2), and (4)﻿(a) do not apply to the Director-General's ability to amend a conservation management strategy under this subsection. However, the Director-General must promptly notify the Conservation Boards affected of every amendment made under this subsection.
 (2) Except as provided in subsection (4), every amendment of a conservation management strategy under this section shall be carried out in accordance with the provisions of section 17F, which shall apply with any necessary modifications.
 (3) Except as provided in subsection (4), every amendment of a conservation management plan shall be carried out in accordance with the provisions of section 17G, which shall apply with any necessary modifications.
 (4) Where the proposed amendment is of such a nature that the Director-General and the Conservation Boards affected consider that it will not materially affect the objectives or policies expressed in the strategy or plan or the public interest in the area concerned, then—
@@ -699,7 +705,7 @@ The following provisions shall apply to the preparation and approval of draft co
 (6) Where the proposed amendment of any sports fish and game management plan is of such a nature that the Fish and Game Council considers that it will not materially affect the objectives or policies expressed in the plan or the public interest in the area concerned, the amendment shall be dealt with under paragraphs (e) to (g) of subsection (2), which shall apply with any necessary modifications.
 
 ### 17N Effect of general policies, conservation management strategies, and management plans
-(1) Every statement of general policy approved under section 17B(3)(m) or section 17C, every conservation management strategy, and every conservation management plan, freshwater fisheries management plan, and sports fish and game management plan shall have effect on and from the date on which it is approved, or on such later date as may be specified in that behalf in the statement or strategy or plan.
+(1) Every statement of general policy approved under section 17B(3)﻿(m) or section 17C, every conservation management strategy, and every conservation management plan, freshwater fisheries management plan, and sports fish and game management plan shall have effect on and from the date on which it is approved, or on such later date as may be specified in that behalf in the statement or strategy or plan.
 (2) No such statement or strategy or plan shall restrict or affect the exercise of any legal right or power by any person other than the Minister or the Director-General or any Fish and Game Council.
 (3)
 (4) Every such statement, strategy, and plan shall be available for public inspection during ordinary office hours at the Department's Head Office, and at such other places as the Director-General thinks its public availability is desirable.
@@ -718,7 +724,7 @@ The following provisions shall apply to the preparation and approval of draft co
   (d) any activity that is carried out by the Minister or Director-General in the exercise of his or her functions, duties, or powers under this Act or any other Act.
 (4) An individual or organised group undertaking any recreational activity, whether for the benefit of the individual or members (individually or collectively) of the group, does not require a concession if the individual or group is undertaking the activity without any specific gain or reward for that activity, whether pecuniary or otherwise.
 (5) A group of the kind to which subsection (4) applies may impose on its members a reasonable charge in order to recover the reasonable expenses in organising the recreational activity.
-(6) Subsection (3)(b) shall not apply to any sports fishing guide or game hunting guide who conducts any activity in a conservation area.
+(6) Subsection (3)﻿(b) shall not apply to any sports fishing guide or game hunting guide who conducts any activity in a conservation area.
 (7) This Part is subject to Part 2 of the Forests (West Coast Accord) Act 2000, in relation to land that is a conservation area as a result of a declaration under section 8(1) of that Act.
 
 ### 17P Relationship with the Resource Management Act 1991
@@ -733,7 +739,7 @@ The following provisions shall apply to the preparation and approval of draft co
 ### 17R Applications for leases, licences, etc
 (1) Any person may apply to the Minister for a concession to conduct an activity in a conservation area.
 (2) However, a person must not apply to the Minister for a concession if—
-  (a) the Minister has exercised a power under section 17ZG(2)(a) to initiate a process that relates to such an application for a concession; and
+  (a) the Minister has exercised a power under section 17ZG(2)﻿(a) to initiate a process that relates to such an application for a concession; and
   (b) the application would be inconsistent with the process.
 
 ### 17S Contents of application
@@ -873,7 +879,7 @@ Minister decides to grant new concession
   (b) the concessionaire does not apply for reconsideration under section 17ZJ(b) before 1 of the following things happens:
     (i) the new concession document is signed by the parties:
     (ii) the specified deadline is reached.
-(5) The concessionaire may continue to operate under the existing concession until 1 of the things described in subsection (4)(b)(i) and (ii) happens.
+(5) The concessionaire may continue to operate under the existing concession until 1 of the things described in subsection (4)﻿(b)﻿(i) and (ii) happens.
 (6) Subsection (7) applies if—
   (a) the Minister decides to grant the new concession; and
   (b) the concessionaire applies for reconsideration under section 17ZJ(b) before 1 of the following things happens:
@@ -897,10 +903,10 @@ Meaning of specified deadline
   (a) the end of the day that is 1 month after the day of the Minister's decision to grant or to decline to grant the new concession:
   (b) the end of any time limit for the concessionaire to apply for reconsideration under section 17ZJ that is prescribed by regulations made under section 48AA, including any extension of the time limit.
 
-### 17ZAAB Concession may continue after process initiated under section 17ZG(2)(a)
+### 17ZAAB Concession may continue after process initiated under section 17ZG(2)﻿(a)
 (1) This section applies if—
   (a) a concession is due to expire; and
-  (b) the Minister has exercised a power under section 17ZG(2)(a) to initiate a process that relates to an application for a concession; and
+  (b) the Minister has exercised a power under section 17ZG(2)﻿(a) to initiate a process that relates to an application for a concession; and
   (c) an application by the concessionaire for a new concession for the same activity would be inconsistent with the process if the application were made when written notice is given under paragraph (d); and
   (d) the concessionaire gives written notice to the Minister that the concessionaire wants to continue to operate under the existing concession under this section; and
   (e) the written notice meets the timing requirement in subsection (2) or (3); and
@@ -910,7 +916,7 @@ Meaning of specified deadline
   (a) it is given in the period starting 6 months before, and ending 3 months before, the existing concession expires; and
   (b) the Minister, in his or her discretion, allows the written notice to be given within that period.
 (4) The concessionaire may continue to operate under the existing concession until—
-  (a) the Minister has decided to grant or to decline to grant a concession for each application made in accordance with the process initiated under section 17ZG(2)(a); and
+  (a) the Minister has decided to grant or to decline to grant a concession for each application made in accordance with the process initiated under section 17ZG(2)﻿(a); and
   (b) each applicant's right to apply for reconsideration under section 17ZJ has been resolved as described in subsection (6), (8), (10), or (12).
 Minister decides to grant applicant's concession
 (5) Subsection (6) applies if—
@@ -918,7 +924,7 @@ Minister decides to grant applicant's concession
   (b) the applicant does not apply for reconsideration under section 17ZJ(b) before 1 of the following things happens:
     (i) the concession document is signed by the parties:
     (ii) the specified deadline is reached.
-(6) The applicant's right to apply for reconsideration is resolved when 1 of the things described in subsection (5)(b)(i) and (ii) happens.
+(6) The applicant's right to apply for reconsideration is resolved when 1 of the things described in subsection (5)﻿(b)﻿(i) and (ii) happens.
 (7) Subsection (8) applies if—
   (a) the Minister decides to grant the applicant's concession; and
   (b) the applicant applies for reconsideration under section 17ZJ(b) before 1 of the following things happens:
@@ -1024,7 +1030,7 @@ Without limiting any other provision in this Part, upon application by an applic
 (2) Before making a recommendation under subsection (1), the Minister must—
   (a) refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa for review under subpart 3 of Part 2 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and
   (b) give public notice of the intention to recommend the making of the order that includes the proposed name for the area.
-(3) Section 49 applies, with the necessary modifications, to a notice given under subsection (2)(b).
+(3) Section 49 applies, with the necessary modifications, to a notice given under subsection (2)﻿(b).
 (4) A conservation area declared to be held for the purpose of a wilderness area, a sanctuary area, or both, under this section must be managed in a manner that is consistent with that purpose or those purposes (as the case may be).
 (5) The Governor-General may, by Order in Council made on the recommendation of the Minister, vary or revoke the purpose, or all or any of the purposes, for which any conservation area held under subsection (1) is held, and the land is to be held accordingly as provided in the order.
 (6) Before making a recommendation under subsection (5), the Minister must give public notice of the intention to recommend the making of the order, and section 49 applies with the necessary modifications.
@@ -1081,7 +1087,7 @@ Every sanctuary area shall be managed to preserve in their natural state the ind
 (1) Subject to subsections (2) and (3), if satisfied that any land that is—adjoins any river, lake, or stream, for which a water conservation order has been made under the Resource Management Act 1991, or that is otherwise protected, and has, when considered with the river, lake, or stream, outstanding wild, scenic, or other natural or recreational characteristics, the Minister may, by notice in the Gazette, declare it to be held for the purpose of a watercourse area; and, subject to this Act, it shall thereafter be so held.
   (a) land held under this Act for conservation purposes; or
   (b) a reserve classified pursuant to section 16 of the Reserves Act 1977; or
-  (c) held under section 21(2)(a) of the Queen Elizabeth the Second National Trust Act 1977; or
+  (c) held under section 21(2)﻿(a) of the Queen Elizabeth the Second National Trust Act 1977; or
   (d) subject to an agreement under section 76 or section 77 of the Reserves Act 1977, section 22 of the Queen Elizabeth the Second National Trust Act 1977, or section 39 of the Heritage New Zealand Pouhere Taonga Act 2014,—
 (2) No land to which paragraph (c) of subsection (1) applies shall be declared to be held for the purpose of a watercourse area under that subsection without the consent of the Queen Elizabeth the Second National Trust.
 (3) No land to which paragraph (d) of subsection (1) applies shall be declared to be held for the purpose of a watercourse area under that subsection without the consent of its owner.
@@ -1141,9 +1147,9 @@ Every amenity area shall be so managed—
 (2) During the period of 20 working days commencing on the day after the date of the receipt of a notification under section 24(2A) in respect of the proposal,—
   (a) the sale or other disposition shall not proceed; and
   (b) the Director-General shall notify the responsible department or agency whether or not he or she intends to investigate the proposal to ascertain whether or not it is appropriate to increase the width of any marginal strip that would be reserved from the sale or other disposition.
-(3) If the Director-General fails to notify the responsible department or agency in accordance with subsection (2)(b), the department or agency may proceed with the sale or other disposition after the expiration of the period specified in that subsection and section 24 shall apply accordingly.
-(4) If the Director-General notifies the responsible department or agency in accordance with subsection (2)(b) that he or she intends to investigate the proposal,—
-  (a) the prohibition contained in subsection (2)(a) shall be deemed to be extended by a further 20 working days; and
+(3) If the Director-General fails to notify the responsible department or agency in accordance with subsection (2)﻿(b), the department or agency may proceed with the sale or other disposition after the expiration of the period specified in that subsection and section 24 shall apply accordingly.
+(4) If the Director-General notifies the responsible department or agency in accordance with subsection (2)﻿(b) that he or she intends to investigate the proposal,—
+  (a) the prohibition contained in subsection (2)﻿(a) shall be deemed to be extended by a further 20 working days; and
   (b) during that further period of 20 working days, the Minister shall advise the responsible department or agency whether or not he or she requires the reservation of a marginal strip having a width exceeding 20 metres, and, where the Minister requires the reservation of such a marginal strip, he or she shall also specify the width of the marginal strip to be reserved.
 (5) In considering whether to require the reservation of any marginal strip having a width exceeding 20 metres, the Minister shall have regard to whether increasing the width of the marginal strip is necessary—
   (a) to provide effective access along the strip; and
@@ -1164,8 +1170,8 @@ Every amenity area shall be so managed—
 (4) The Minister may, by notice in the Gazette, declare that section 24 shall not apply to any proposed disposition of—
   (a) land that is part of the core assets of a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 that is a generator of electricity; or
   (b) land that is required in connection with electricity works.
-(5) A notice under subsection (4)(a) shall have effect only so long as the core assets concerned remain assets of the State enterprise.
-(6) For the purposes of subsection (4)(a), the term core assets means—
+(5) A notice under subsection (4)﻿(a) shall have effect only so long as the core assets concerned remain assets of the State enterprise.
+(6) For the purposes of subsection (4)﻿(a), the term core assets means—
   (a) any aqueduct, bridge, boom anchor, canal, control gate, dam, flume, headrace, penstock, power station, screen, spillway, switching gear, surge chamber, tailrace, transmission tower, tunnel, or weir, used by a State enterprise within the meaning of the State-Owned Enterprises Act 1986 for or in connection with the generation, transmission, or supply of electricity; or
   (b) any similar structure or device so used.
 (7) Nothing in section 24 shall apply to any disposition in respect of which a notice is given under this section.
@@ -1227,7 +1233,7 @@ Notwithstanding any other enactment or rule of law, where the Crown owns part of
 
 ### 24H Management of marginal strips
 (1) The Minister may from time to time appoint suitable persons to be managers of marginal strips.
-(2) Subject to subsection (6)(c), the Minister may appoint one of the following persons to be the manager of any marginal strip:
+(2) Subject to subsection (6)﻿(c), the Minister may appoint one of the following persons to be the manager of any marginal strip:
   (a) the owner for the time being of the land adjoining that strip:
   (b) some other suitable person, if the Minister considers that person to be more suitable than the adjoining owner.
 (3) The Crown shall manage all marginal strips around controlled lakes and reservoirs; but any costs relating to any such strip that are costs arising out of electricity generation in the area of the strip shall be payable by the person or body responsible for that electricity generation.
@@ -1269,19 +1275,19 @@ Notwithstanding any other enactment or rule of law, where the Crown owns part of
 (1) In this section and in section 24L—
   - **Crown transferee company** has the same meaning as in section 2 of the New Zealand Railways Corporation Restructuring Act 1990
   - **railway operator** has the same meaning as in section 2 of the New Zealand Railways Corporation Restructuring Act 1990.
-(2) The provisions of section 24D shall apply in relation to a disposition of land of the kind referred to in section 24(9)(c) with such modifications as shall be necessary and as if the reference in subsection (1) of that section to the registration of any disposition by the Crown were a reference to the registration of a Crown transferee company as the proprietor of the land in accordance with section 9(1)(a) of the New Zealand Railways Corporation Restructuring Act 1990.
+(2) The provisions of section 24D shall apply in relation to a disposition of land of the kind referred to in section 24(9)﻿(c) with such modifications as shall be necessary and as if the reference in subsection (1) of that section to the registration of any disposition by the Crown were a reference to the registration of a Crown transferee company as the proprietor of the land in accordance with section 9(1)﻿(a) of the New Zealand Railways Corporation Restructuring Act 1990.
 (3) This Part (except section 24L) does not apply to—
   (a) land within an area of 25 metres of a line drawn midway between the rails of a railway line:
   (b) land approved by the Minister by notice in the Gazette as being required for the purpose of an alteration to the route of an existing railway line.
-(4) The Minister shall give a notice under subsection (3)(b) in any case where he or she is satisfied that—
+(4) The Minister shall give a notice under subsection (3)﻿(b) in any case where he or she is satisfied that—
   (a) the land is reasonably required for the purposes of altering the route of the railway line; and
   (b) the value in terms of the purposes specified in section 24C of the land adjacent to the railway line will not be diminished any more than is reasonably necessary for the purposes of the proposed alterations to the railway line.
-(5) In giving an approval under subsection (3)(b) the Minister may impose such conditions as he or she thinks fit in connection with the construction of the proposed alterations to the railway line.
-(6) Where, in relation to land of the kind referred to in subsection (3)(b), a statement that the land is subject to this Part has, in accordance with section 24D, been recorded on the certificate of title to the land or on the proper plans and records of the land registration district affected, the District Land Registrar of the land registration district affected or the Chief Surveyor, as the case may be, shall make such alterations to any existing certificates of title for that land or to the plans and records of the land registration district, as the case may be, as shall be necessary for the purpose of recording the fact that the land is no longer subject to this Part.
+(5) In giving an approval under subsection (3)﻿(b) the Minister may impose such conditions as he or she thinks fit in connection with the construction of the proposed alterations to the railway line.
+(6) Where, in relation to land of the kind referred to in subsection (3)﻿(b), a statement that the land is subject to this Part has, in accordance with section 24D, been recorded on the certificate of title to the land or on the proper plans and records of the land registration district affected, the District Land Registrar of the land registration district affected or the Chief Surveyor, as the case may be, shall make such alterations to any existing certificates of title for that land or to the plans and records of the land registration district, as the case may be, as shall be necessary for the purpose of recording the fact that the land is no longer subject to this Part.
 (7) Where, in relation to any land of the kind referred to in subsection (3),—the land shall immediately become subject to this Part and the provisions of section 24D shall apply with such modifications as shall be necessary and as if—
   (a) the railway line is removed permanently; or
   (b) the railway line ceases to be operated by a railway operator; or
-  (c) in the case of land referred to in a notice in the Gazette published under subsection (3)(b), the Minister declares, by notice in the Gazette, that the land or any part of it is no longer required for the purposes of the alteration to the railway line—as the case may be,—
+  (c) in the case of land referred to in a notice in the Gazette published under subsection (3)﻿(b), the Minister declares, by notice in the Gazette, that the land or any part of it is no longer required for the purposes of the alteration to the railway line—as the case may be,—
   (d) the reference in subsection (1) of that section to the registration of any disposition by the Crown were a reference to land becoming subject to this Part by virtue of this subsection; and
   (e) the reference in subsection (2) of that section to notification of any disposition by the Crown were a reference to notification of land becoming subject to this Part by virtue of this subsection.
 (8) Nothing in this Part limits or affects the application of sections 30 and 31 of the New Zealand Railways Corporation Act 1981 or section 31 of the New Zealand Railways Corporation Restructuring Act 1990.
@@ -1371,11 +1377,11 @@ No member of the New Zealand Fish and Game Council shall be personally liable fo
 ### 26F Powers of New Zealand Fish and Game Council
 (1) The New Zealand Fish and Game Council shall have all such powers as are reasonably necessary or expedient to enable it to carry out its functions.
 (2) Without limiting the generality of subsection (1), the New Zealand Fish and Game Council may—
-  (a) makes rules for the conduct of its business and financial requirements:
+  (a) make rules for the conduct of its business and financial requirements:
   (b) appoint a manager and other staff for the efficient and economic administration of the affairs of the Council:
   (c) expend money received by it from any source arising under this Act for the purposes of carrying out its functions under this Act:
   (d) enter into contracts to provide services and enter into contracts on behalf of, and subject to the authorisation of, any Fish and Game Council.
-(3) For the purposes of section 26C(1)(g), the New Zealand Fish and Game Council shall be entitled to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Council's functions.
+(3) For the purposes of section 26C(1)﻿(g), the New Zealand Fish and Game Council shall be entitled to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Council's functions.
 (4)
 (5)
 
@@ -1440,7 +1446,7 @@ Except as otherwise provided by this Act or any regulations made under it, no me
 ### 26N Transitional Councils
 (1) The Minister shall, by notice in the Gazette, establish—
   (a) a Transitional New Zealand Fish and Game Council; and
-  (b) a Transitional Fish and Game Council for each region defined under section 26A(1)(c).
+  (b) a Transitional Fish and Game Council for each region defined under section 26A(1)﻿(c).
 (2) Each Transitional Fish and Game Council shall consist of not more than 12 members appointed by the Minister.
 (3) The Transitional New Zealand Fish and Game Council and each Transitional Fish and Game Council shall be established for the period specified in the notice by which it is established.
 
@@ -1458,7 +1464,7 @@ Except as otherwise provided by this Act or any regulations made under it, no me
 **Fish and Game Councils**
 
 ### 26P Establishment and powers of Fish and Game Councils
-(1) There is hereby established for the purposes of the management, maintenance, and enhancement of sports fish and game a Fish and Game Council for each region defined by the Minister under section 26A(1)(c).
+(1) There is hereby established for the purposes of the management, maintenance, and enhancement of sports fish and game a Fish and Game Council for each region defined by the Minister under section 26A(1)﻿(c).
 (2) Each Fish and Game Council shall be a body corporate with perpetual succession and a common seal, and, except as provided in this Act, shall have—
   (a) the rights, powers, and privileges of a natural person; and
   (b) the power to do anything it is authorised to do by or under—
@@ -1538,7 +1544,7 @@ Except as otherwise provided by this Act or any regulations made under it, no me
   (b) no disposal (other than for administrative purposes) shall be made if the land or interest in land is required for the management of sports fish or game, or the protection of their habitat:
   (c) any land acquired under this section (other than for administrative purposes) shall be open to the public, and may be closed in order to protect the sports fish and game habitat only after public notice of the closure has been given in the region:
   (d) the land use shall comply with the provisions of this Act and any other Act, and any freshwater fisheries management plan or sports fish and game management plan for the region in which the land is situated.
-(4) Subsection (3)(c) shall also apply to any land that is transferred to a Fish and Game Council under any other Act, as if that land had been acquired under this section.
+(4) Subsection (3)﻿(c) shall also apply to any land that is transferred to a Fish and Game Council under any other Act, as if that land had been acquired under this section.
 (5) All land held under this section shall be subject to this Act.
 (6) Each Fish and Game Council may expend money received by it from any source arising under this Act for the purposes of carrying out its functions under this Act.
 (7) For the purposes of section 26Q(1), a Fish and Game Council shall be entitled to appear before courts and tribunals in New Zealand and be heard on matters affecting or relating to the Council's functions.
@@ -1553,7 +1559,7 @@ Except as otherwise provided by this Act or any regulations made under it, no me
 ### 26U Membership
 (1) Each Fish and Game Council shall consist of not more than 12 members elected in accordance with section 26Z.
 (2) A person shall be qualified to be a member of a Fish and Game Council only if that person holds a current adult whole season licence to hunt game or fish for sports fish.
-(3) Each region defined by the Minister under section 26A(1)(c) shall comprise not more than 6 subregions, which shall be determined by the Fish and Game Council for that region and notified in some newspaper circulating in the areas affected.
+(3) Each region defined by the Minister under section 26A(1)﻿(c) shall comprise not more than 6 subregions, which shall be determined by the Fish and Game Council for that region and notified in some newspaper circulating in the areas affected.
 (4) No person who is a bankrupt or has been convicted of an offence involving sports fish or game or protected wildlife (being an offence under this Act or any other Act) shall be eligible to be a member of a Fish and Game Council.
 
 ### 26V Co-opted members
@@ -1785,7 +1791,7 @@ The Minister may, in any notice published under section 26ZS,—
 
 ### 26ZV Matters about which Minister must be satisfied
 The Minister shall not publish a notice under section 26ZS in respect of any land unless the Minister is satisfied—
-  (a) that the declaration of that land as a controlled dog area or an open dog control area is consistent with—
+  (a) that the declaration of that land as a controlled dog area or an open dog area is consistent with—
     (i) the purposes for which the land is held; and
     (ii) where the land is part of a conservation area, the management objectives of the conservation area as set out in the relevant conservation management strategy or conservation management plan; and
   (b) that, in any case where the land is to be declared to be an open dog area, the declaration of the land as an open dog area, with or without conditions,—
@@ -1876,7 +1882,7 @@ Except as provided in sections 26ZZH and 26ZZI, no person, being an owner of a d
 (4) Every dog control permit issued under subsection (1) shall state the activity and purpose for which it is issued.
 
 ### 26ZZI Requirements in relation to dog control permits
-(1) The Director-General, in exercising his or her powers under subsection (1) or subsection (3)(b) of section 26ZZH shall have regard to the matters specified in sections 26ZV to 26ZX.
+(1) The Director-General, in exercising his or her powers under subsection (1) or subsection (3)﻿(b) of section 26ZZH shall have regard to the matters specified in sections 26ZV to 26ZX.
 (2) The Director-General shall not issue a dog control permit under section 26ZZH(1) unless he or she is satisfied—
   (a) that a dog is essential for the proposed activity; and
   (b) that the proposed activity—
@@ -1907,7 +1913,7 @@ The Director-General may amend or revoke any dog control permit issued under sec
   (b) any condition, being a condition imposed under section 26ZU(c) in relation to the controlled dog area or a condition of the permit, is not being observed in relation to the dog; or
   (c) the holder of the permit is in the immediate vicinity of the dog but the warranted officer has good cause to suspect that the holder of the permit is unwilling or unable to control the dog; or
   (d) the dog has caused injury to any person or to any protected wildlife or has killed any protected wildlife.
-(3) Where a dog is at large in an open dog area and, a warranted officer or any other person, has good cause to suspect—that warranted officer or other person may seize that dog.
+(3) Where a dog is at large in an open dog area and a warranted officer or any other person has good cause to suspect—that warranted officer or other person may seize that dog.
   (a) that any condition imposed under section 26ZU(c) in relation to the open dog area is not being observed in relation to that dog; or
   (b) that dog is likely to cause annoyance or distress to any person or animal; or
   (c) that dog is likely to damage any property in the open dog area; or
@@ -1921,18 +1927,18 @@ The Director-General may amend or revoke any dog control permit issued under sec
   (a) cause that dog to be returned to its owner; or
   (b) hold the dog in a kennel under the Director-General's custody; or
   (c) place the dog in the custody of a territorial authority to be impounded under section 69 of the Dog Control Act 1996.
-(2) Where a dog is held by the Director-General under subsection (1)(b), the following provisions shall apply:
+(2) Where a dog is held by the Director-General under subsection (1)﻿(b), the following provisions shall apply:
   (a) the Director-General may, in his or her discretion, return the dog to its owner subject to payment by the owner of any charges incurred, unless the Director-General, in his or her discretion, decides to waive or reduce the charges:
   (b) the Director-General or an employee of the Department shall, as soon as practicable after the dog has been seized,—
     (i) give written notice to the nearest territorial authority that the dog has been seized and is held by the Department and shall include in that notice a description of the dog and any other means of identifying it:
     (ii) give written notice to the owner of the dog (where the owner of the dog is known or can reasonably be located) that the dog has been seized and that, unless the dog is claimed and any charges paid within 7 days of the receipt of that notice, the dog may be sold, destroyed, or otherwise disposed of in such manner as the Director-General thinks fit; and after the expiry of that period the Director-General may so dispose of the dog:
   (c) where the owner of the dog is not known and cannot be identified, the Director-General may, after the expiry of 7 days after the date of the seizure of the dog, sell, destroy, or otherwise dispose of the dog in such manner as the Director-General thinks fit:
   (d) the sale, destruction, or other disposal of a dog under these provisions shall not relieve any former owner of the dog of the liability to pay any fees incurred in respect of the dog's seizure, sustenance, and holding.
-(3) Where a dog which is not registered under the Dog Control Act 1996 but which ought to be so registered is held by the Department under subsection (1)(b), no offence is committed against section 42 of that Act by the person holding the dog under subsection (1)(b).
-(4) Except as provided in subsection (1)(c), nothing in section 69 of the Dog Control Act 1996 affects or limits the provisions of this section.
+(3) Where a dog which is not registered under the Dog Control Act 1996 but which ought to be so registered is held by the Department under subsection (1)﻿(b), no offence is committed against section 42 of that Act by the person holding the dog under subsection (1)﻿(b).
+(4) Except as provided in subsection (1)﻿(c), nothing in section 69 of the Dog Control Act 1996 affects or limits the provisions of this section.
 
 ### 26ZZN Supply of information in relation to ownership of dogs
-(1) No employee of the Department shall disclose, otherwise than in accordance with this section, information which is given to a territorial authority under section 26ZZM(2)(b)(i) and which—
+(1) No employee of the Department shall disclose, otherwise than in accordance with this section, information which is given to a territorial authority under section 26ZZM(2)﻿(b)﻿(i) and which—
   (a) identifies, or will assist any person to identify, the name and address of the registered owner of any specified dog; or
   (b) identifies, or will assist any person to identify, the address at which the specified dog is ordinarily kept.
 (2) Where—requests, for any lawful purpose, any information of the kind described in subsection (1) which is held by the Department, the Department shall comply with the request.
@@ -2025,7 +2031,7 @@ The Minister may enter into any agreement, contract, or arrangement of any kind 
   (aa) in accordance with an access arrangement under the Crown Minerals Act 1991; or
   (b) in accordance with a lease or licence granted before the commencement of this Act; or
   (c)
-  (ca) pursuant to subsection (5) or subsection (6) of section 24H; or
+  (ca) pursuant to subsection (5) or subsection (6) of section 24H.
   (d)
 (2) The Director-General may authorise any person to take on or from a conservation area any plant intended to be used for traditional Maori purposes.
 (3) Except as provided in subsection (2), the Director-General shall not authorise any person to take any indigenous plant on or from a conservation area for the purpose, or with the intention, of deriving gain or reward, whether pecuniary or otherwise, from its wood.
@@ -2170,8 +2176,8 @@ A person who does any act in pursuance or intended pursuance of any of the funct
   (a) section 26ZJ, which relates to unlawful acts in respect of spawning fish:
   (b) section 26ZR, which relates to the use of a substance or electric device to take or destroy freshwater fish:
   (c) section 30(6), which relates to the taking of plants from conservation areas:
-  (d) section 38(4)(a), which relates to discharging weapons on, into, or over conservation areas:
-  (e) section 39(1)(b), (bb), (c), (ca), (d), (e), (f), (g), and (h), which relates to other offences in respect of conservation areas:
+  (d) section 38(4)﻿(a), which relates to discharging weapons on, into, or over conservation areas:
+  (e) section 39(1)﻿(b), (bb), (c), (ca), (d), (e), (f), (g), and (h), which relates to other offences in respect of conservation areas:
   (f) section 39(3), which relates to the disposal of contaminants:
   (g) section 41(a), which relates to resisting or obstructing officers and rangers.
 (3) The penalties are,—
@@ -2239,7 +2245,7 @@ A court may sentence any individual who commits an offence against this Act to a
   (m) authorising any conservation organisation to pay travelling and other expenses incurred by any of its members in the course of their duties as members of the organisation, if no such provision is made elsewhere in this Act:
   (n) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act or any lawful direction or requirement made under this Act or any such regulations, and the amount of the fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $5,000 and, where the offence is a continuing one, a further amount not exceeding $500 for every day on which the offence has continued:
   (o) providing for such matters as may be contemplated by or necessary for giving full effect to this Act and for its due administration.
-(2) Any regulations made under subsection (1)(k) may—
+(2) Any regulations made under subsection (1)﻿(k) may—
   (a) specify the person by whom any fees or levies prescribed under this Act are payable:
   (b) prescribe specific fees or levies for specific purposes:
   (c) prescribe a scale of fees or levies or a rate based on the time involved in carrying out the work or services:
@@ -2250,7 +2256,7 @@ A court may sentence any individual who commits an offence against this Act to a
 ### 48AA Regulations prescribing time limits for applications for concessions
 (1) The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
   (a) prescribing a time limit for the Minister or the applicant to do anything under Part 3B in relation to an application for a concession under Part 3B or another enactment that applies Part 3B, if Part 3B does not already prescribe a time limit for doing that thing:
-  (b) prescribing a time limit for the Director-General to satisfy the requirement of section 49(2)(c) or (d) in relation to an application for a concession under Part 3B or another enactment that applies Part 3B:
+  (b) prescribing a time limit for the Director-General to satisfy the requirement of section 49(2)﻿(c) or (d) in relation to an application for a concession under Part 3B or another enactment that applies Part 3B:
   (c) providing for how a prescribed time limit may be extended (for example, at the Minister's discretion or by agreement between the Minister and the applicant):
   (d) providing for the extent to which a prescribed time limit may be extended:
   (e) providing for the consequences of not meeting a prescribed time limit or any extension of the time limit:
@@ -2286,13 +2292,13 @@ A court may sentence any individual who commits an offence against this Act to a
 (2) Any such regulations—
   (a) may apply generally throughout New Zealand or New Zealand freshwaters or be made to apply only within such area or areas as may be defined in that behalf:
   (b) may apply special conditions or confer special rights in relation to fishing by specified communities.
-(2A) Notwithstanding anything in section 48(1)(k) or section 48A(1)(c) or (e), the Minister may by notice in the Gazette,—
+(2A) Notwithstanding anything in section 48(1)﻿(k) or section 48A(1)﻿(c) or (e), the Minister may by notice in the Gazette,—
   (a) fix the forms and classes of licences to fish for sports fish:
   (b) fix the scope and effect of licences or any specified class of licences to fish for sports fish:
   (c) provide for the licences issued in respect of any region for sports fish to be available in any other region or regions or in all regions:
   (d) fix the fees payable for any licence to fish for sports fish.
 (2B) A notice in the Gazette made under subsection (2A) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) Subject to subsection (4), for the purpose of ensuring compliance with the requirements of any regulations made under subsection (1)(j), any person authorised in that behalf by the Controller and Auditor-General may, during the usual working hours of the Council, enter upon the premises of any Fish and Game Council and there inspect any books or papers belonging to or in the possession of the Council.
+(3) Subject to subsection (4), for the purpose of ensuring compliance with the requirements of any regulations made under subsection (1)﻿(j), any person authorised in that behalf by the Controller and Auditor-General may, during the usual working hours of the Council, enter upon the premises of any Fish and Game Council and there inspect any books or papers belonging to or in the possession of the Council.
 (4) Before entering any premises pursuant to subsection (3), a person referred to in that section shall produce evidence of his or her appointment, if requested to do so by the person appearing to be in charge of those premises.
 
 ### 48B Special regulations relating to South Island freshwater fisheries
@@ -2361,11 +2367,11 @@ There shall from time to time be appointed under the State Sector Act 1988 a Dir
   (f) shall acquire by means of purchase or otherwise and protect habitats:
   (g) may control any introduced species causing damage to any indigenous species or habitat.
 (4) in relation to the Taupo Fishery, the Director-General shall have all the powers conferred on a Fish and Game Council by or under this Act subject to the following modifications:
-  (a) paragraphs (b)(iii) and (d)(ii) of section 26Q(1) shall be read as if references to the New Zealand Fish and Game Council were references to the Minister:
-  (b) paragraphs (d)(iii), (e)(iv), and (e)(v) of section 26Q(1) do not apply to the Director-General:
-  (c) section 26R(3)(b) shall be read as if references to the role of the New Zealand Fish and Game Council were omitted:
+  (a) paragraphs (b)﻿(iii) and (d)﻿(ii) of section 26Q(1) shall be read as if references to the New Zealand Fish and Game Council were references to the Minister:
+  (b) paragraphs (d)﻿(iii), (e)﻿(iv), and (e)﻿(v) of section 26Q(1) do not apply to the Director-General:
+  (c) section 26R(3)﻿(b) shall be read as if references to the role of the New Zealand Fish and Game Council were omitted:
   (d) paragraphs (c) and (d) of section 26R(3) shall be read as if references to the New Zealand Fish and Game Council were references to the Director-General.
-(5) Any agreement or arrangement entered into under subsection (3)(a) may permit any person to take freshwater fish that the person would not otherwise be entitled to take and may permit the person to retain those fish or any other fish taken by the person under the agreement or arrangement.
+(5) Any agreement or arrangement entered into under subsection (3)﻿(a) may permit any person to take freshwater fish that the person would not otherwise be entitled to take and may permit the person to retain those fish or any other fish taken by the person under the agreement or arrangement.
 
 ### 54 Deputy Directors-General of Conservation
 (1) There shall from time to time be appointed under the State Sector Act 1988 1 or more Deputy Directors-General of Conservation, as may be necessary or desirable for the effective and efficient carrying out of the functions of the Department.
@@ -2373,7 +2379,7 @@ There shall from time to time be appointed under the State Sector Act 1988 a Dir
 (3) On the occurrence from any cause of a vacancy in the office of Director-General (whether by reason of death or resignation, or otherwise), or in the case of absence (from whatever cause arising) of the Director-General, and for so long as the vacancy or absence continues,—shall have and may exercise and perform all the powers, functions, and duties of the Director-General (including any powers delegated by the Minister under section 57).
   (a) the Deputy Director-General if there is only 1; or
   (b) a Deputy Director-General authorised in writing in that behalf by the State Services Commission (before, on, or after the occurrence of the vacancy or absence) in every other case,—
-(4) The fact that a Deputy Director-General exercises or performs any power, function, or duty of the Director-General shall be conclusive evidence of the authority of the Deputy Director-General to do so; and no authority given under subsection (3)(b) and no act done by a Deputy Director-General under any such authority or under subsection (2) or subsection (3) shall in any proceedings be questioned on the ground that the occasion for the giving of the authority had not arisen or had ceased or that the act was contrary to a direction of the Director-General.
+(4) The fact that a Deputy Director-General exercises or performs any power, function, or duty of the Director-General shall be conclusive evidence of the authority of the Deputy Director-General to do so; and no authority given under subsection (3)﻿(b) and no act done by a Deputy Director-General under any such authority or under subsection (2) or subsection (3) shall in any proceedings be questioned on the ground that the occasion for the giving of the authority had not arisen or had ceased or that the act was contrary to a direction of the Director-General.
 
 ### 55 Other officers and employees of Department
 There shall from time to time be appointed under the State Sector Act 1988 such other officers and employees of the Department as are necessary for the effective and efficient performance of the functions of the Department.
@@ -2726,5 +2732,5 @@ This Act amends the Conservation Act 1987.
   (b) in accordance with the principal Act as amended by this Act in all other cases.
 
 ### 8 Transitional provision for application for concession if process initiated
-(1) This section applies if, before the commencement of this Act, the Minister exercised a power under section 17ZG(2)(a) to initiate a process that relates to any application for a concession.
+(1) This section applies if, before the commencement of this Act, the Minister exercised a power under section 17ZG(2)﻿(a) to initiate a process that relates to any application for a concession.
 (2) The principal Act, as amended by this Act, applies to the process, and any application for a concession to which the process relates, which is made or proposed to be made on or after the commencement of this Act, must be dealt with accordingly.
