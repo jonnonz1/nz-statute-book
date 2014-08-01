@@ -1,5 +1,5 @@
 # Ngāti Whātua Ōrākei Claims Settlement Act 2012
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2014-08-01_
 
 ### 1 Title
 This Act is the Ngāti Whātua Ōrākei Claims Settlement Act 2012.
@@ -218,7 +218,13 @@ In this Act, unless the context requires another meaning,—
     (vi) Wai 1114—Te Runanga o Te Tāōū Lands and Resources claim; and
   (c) every claim, to the extent that the claim relates to Ngāti Whātua Ōrākei or a representative entity and subsection (2) applies to the claim, that—
     (i) relates to the Ōrākei Block; and
-    (ii) arises from, or relates to, acts or omissions by, or on behalf of, the Crown on or after 9 December 1991 and before 21 September 1992.
+    (ii) arises from, or relates to, acts or omissions by, or on behalf of, the Crown on or after 9 December 1991 and before 21 September 1992; and
+  (d) every claim to the following, to the extent that the claim relates to Ngāti Whātua Ōrākei or a representative entity and subsection (2) applies to the claim:
+    (i) the maunga as defined in section 10 of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014; and
+    (ii) the motu as defined in section 11(1) of that Act; and
+    (iii) the Rangitoto Island properties as defined in section 8(1) of that Act; and
+    (iv) Māngere Mountain as defined in section 8(1) of that Act; and
+    (v) the Maungakiekie / One Tree Hill northern land as defined in section 8(1) of that Act.
 (4) However, the historical claims do not include—
   (a) a claim that a member of Ngāti Whātua Ōrākei, or a whānau, hapū, or group referred to in section 11(1)(c), had or may have that is founded on—
     (i) being descended from an ancestor other than Tuperiri; or
@@ -229,7 +235,8 @@ In this Act, unless the context requires another meaning,—
 
 **Settlement of historical claims**
 
-### 13 Settlement of historical claims final
+### 13 Settlement of section 12(2) and (3)(a) to (c) historical claims final
+(1AA) In this section, historical claims means the claims described in section 12(2) and (3)(a) to (c).
 (1) The historical claims are settled.
 (2) The settlement of the historical claims is final and, on and from the settlement date, the Crown is released and discharged from all obligations and liabilities in respect of those claims.
 (3) Subsections (1) and (2) do not limit the acknowledgements expressed in, or the provisions of, the deed of settlement.
@@ -239,6 +246,21 @@ In this Act, unless the context requires another meaning,—
   (c) this Act; or
   (d) the redress provided under the deed of settlement or this Act.
 (5) Subsection (4) does not exclude the jurisdiction of a court, tribunal, or other judicial body in respect of the interpretation or implementation of the deed of settlement or this Act.
+
+### 13A Settlement of section 12(3)(d) historical claims
+(1) In this section,—
+  - **collective deed** has the same meaning as in section 8(1) of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
+  - **effective date** has the same meaning as in section 8(1) of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
+  - **historical claims** means the claims described in section 12(3)(d) of this Act.
+(2) The historical claims are settled.
+(3) The settlement of the historical claims is final and, on and from the effective date, the Crown is released and discharged from all obligations and liabilities in respect of those claims.
+(4) Subsections (1) and (2) do not limit the acknowledgements expressed in, or the provisions of, the collective deed.
+(5) Despite any other enactment or rule of law, on and from the effective date, no court, tribunal, or other judicial body has jurisdiction (including the jurisdiction to inquire or further inquire or to make a finding or recommendation) in respect of—
+  (a) the historical claims; or
+  (b) the collective deed; or
+  (c) the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014; or
+  (d) the redress provided under the collective deed or that Act.
+(6) Subsection (4) does not exclude the jurisdiction of a court, tribunal, or other judicial body in respect of the interpretation or implementation of the collective deed of settlement or the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014.
 
 ### 14 Amendment to Treaty of Waitangi Act 1975
 (1) This section amends the Treaty of Waitangi Act 1975.
