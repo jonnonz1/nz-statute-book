@@ -54,7 +54,7 @@ This Act is the Veterans' Support Act 2014.
   (d) aids and appliances (subpart 5); and
   (e) motor vehicle grants (subpart 6); and
   (f) retirement lump sum (subpart 7); and
-  (g) funeral grants (subpart 8).
+  (g) funeral expenses (subpart 8).
 (10) Part 6 provides an entitlement to a veteran's pension to certain veterans and their spouses and partners who have reached the New Zealand superannuation qualification age.
 (11) Part 7 provides for—
   (a) the establishment and functions of VANZ (subpart 1):
@@ -506,9 +506,8 @@ This Part also applies to claims made before the commencement of Part 4 (Scheme 
   (a) travel costs associated with treatment and long-term hospital care (subpart 2); and
   (b) the disablement pension (subpart 3); and
   (c) weekly income compensation (subpart 4); and
-  (d) retirement lump sum (subpart 5); and
-  (e) entitlements for spouses, partners, children, and dependants of deceased veterans (subpart 5); and
-  (f) children's bursaries (subpart 6).
+  (d) entitlements for spouses, partners, children, and dependants of deceased veterans (subpart 5); and
+  (e) children's bursaries (subpart 6).
 
 ### 41 Other entitlements
 (1) Part 5 provides other entitlements that are common to Scheme One and Scheme Two.
@@ -858,8 +857,7 @@ This Part—
   (a) transport costs associated with treatment (subpart 2); and
   (b) vocational services for spouses or partners (subpart 3); and
   (c) payments for permanent impairment (subpart 4); and
-  (d) weekly compensation (subpart 5); and
-  (e) retirement lump sums (subpart 5).
+  (d) weekly compensation (subpart 5).
 
 ### 86 Other entitlements
 (1) Part 5 provides other entitlements that are common to Scheme One and Scheme Two.
@@ -1022,7 +1020,7 @@ This Part applies to veterans to whom Part 3 or 4 applies.
   (c) participation in the veterans' independence programme (subpart 4); and
   (d) aids and appliances (subpart 5); and
   (e) motor vehicle grants (subpart 6); and
-  (f) funeral grants (subpart 8).
+  (f) funeral expenses (subpart 8).
 
 ### Subpart 2 — Treatment
 
@@ -1667,7 +1665,7 @@ A veteran’s pension commences on the later of—
   (c) come into force, or are to be treated as having come into force, on 1 April of the calendar year in which they are made, and apply to veterans' pensions payable on and after that date.
 
 ### 171 Abatement of veteran's pension
-(1) The amount payable to a veteran who is entitled to a veteran’s pension under section 162 at the relationship (partner not receiving superannuation or pension) rate or the relationship (partner not receiving superannuation or pension) legacy rate is subject to abatement in accordance with Income Test 3.
+(1) The amount payable to a veteran who is entitled to a veteran’s pension under section 161 at the relationship (partner not receiving superannuation or pension) rate or the relationship (partner not receiving superannuation or pension) legacy rate is subject to abatement in accordance with Income Test 3.
 (2) The amount payable to a veteran who is entitled to a veteran’s pension under section 164 is subject to abatement in accordance with—
   (a) subsection (3), if the veteran receives the veteran’s pension at the relationship rate, the single living alone rate, or the single sharing accommodation rate:
   (b) subsection (4), if the veteran receives the veteran’s pension at the relationship (partner not receiving superannuation or pension) rate or the relationship (partner not receiving superannuation or pension) legacy rate.
@@ -2465,40 +2463,39 @@ VANZ must provide the resources and administrative support necessary to enable t
   (6) sections 30 and 31 (indexation of certain entitlements):
   (7) section 46 (travel costs associated with medical treatment):
   (8) section 56 (rates of disablement pension):
-  (9) section 57 (asset assessment):
-  (10) section 66 (rate of surviving spouse or partner pension):
-  (11) section 72 (rate of children's pension):
-  (12) section 76 (rate of dependant's pension):
-  (13) section 81 (rate of children's bursary):
-  (14) section 88 (transport costs associated with treatment):
-  (15) section 90 (vocational services and assistance for spouse or partner of veteran):
-  (16) section 96 (election to receive lump sum payment):
-  (17) section 98 (lump sum payments):
-  (18) section 98 (asset assessment):
-  (19) section 109 (cost of ancillary services related to treatment):
-  (20) section 140 (limits on scope of independence programme):
-  (21) section 144 (veterans' independence programme):
-  (22) section 145 (aids and appliances):
-  (23) section 148 (motor vehicle grants):
-  (24) section 151 (retirement lump sum):
-  (25) section 153 (funeral expenses if death due to qualifying service and maximum amount for transferring body):
-  (26) section 154 (funeral expenses if death not due to qualifying service):
-  (27) section 156 (provision of plaques and headstones):
-  (28) section 157 (provision of financial advice):
-  (29) section 169 (rates of veteran's pension):
-  (30) section 170 (annual adjustment of rates of veteran's pension):
-  (31) section 174 (lump sum payment on death):
-  (32) section 208 (payments to persons other than claimants):
-  (33) section 212 (fees and allowances of assessors):
-  (34) section 216 (procedure for reviews):
-  (35) section 221 (conduct of medical assessments):
-  (36) section 229 (procedure for appeals):
-  (37) section 235 (reimbursement of costs and travelling expenses of appellant, witnesses, and other participants):
-  (38) section 240 (procedure of appeal board):
-  (39) section 247 (procedure of advisory board):
-  (40) section 254 (procedure of advisory panel):
-  (41) Schedule 1 (application, savings, and transitional provisions):
-  (42) Schedule 2 (entitlements).
+  (9) section 66 (rate of surviving spouse or partner pension):
+  (10) section 72 (rate of children's pension):
+  (11) section 76 (rate of dependant's pension):
+  (12) section 81 (rate of children's bursary):
+  (13) section 88 (transport costs associated with treatment):
+  (14) section 90 (vocational services and assistance for spouse or partner of veteran):
+  (15) section 96 (election to receive lump sum payment):
+  (16) section 98 (lump sum payments):
+  (17) section 109 (cost of ancillary services related to treatment):
+  (18) section 140 (limits on scope of independence programme):
+  (19) section 144 (veterans' independence programme):
+  (20) section 145 (aids and appliances):
+  (21) section 148 (motor vehicle grants):
+  (22) section 150 (asset assessment):
+  (23) section 151 (retirement lump sum):
+  (24) section 153 (funeral expenses if death due to qualifying service and maximum amount for transferring body):
+  (25) section 154 (funeral expenses if death not due to qualifying service):
+  (26) section 156 (provision of plaques and headstones):
+  (27) section 157 (provision of financial advice):
+  (28) section 169 (rates of veteran's pension):
+  (29) section 170 (annual adjustment of rates of veteran's pension):
+  (30) section 174 (lump sum payment on death):
+  (31) section 208 (payments to persons other than claimants):
+  (32) section 212 (fees and allowances of assessors):
+  (33) section 216 (procedure for reviews):
+  (34) section 221 (conduct of medical assessments):
+  (35) section 229 (procedure for appeals):
+  (36) section 235 (reimbursement of costs and travelling expenses of appellant, witnesses, and other participants):
+  (37) section 240 (procedure of appeal board):
+  (38) section 247 (procedure of advisory board):
+  (39) section 254 (procedure of advisory panel):
+  (40) Schedule 1 (application, savings, and transitional provisions):
+  (41) Schedule 2 (entitlements).
 (2) The Governor-General may, by Order in Council, make regulations for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
 ### 266 Treatment cards
@@ -2604,7 +2601,7 @@ VANZ must provide the resources and administrative support necessary to enable t
   (b) weekly compensation:
   (c) weekly income compensation:
   (d) a veteran's pension under—
-    (i) section 162 or 163 if the pension is subject to abatement under section 171(1); or
+    (i) section 161 if the pension is subject to abatement under section 171(1); or
     (ii) section 164:
   (e) a dependant's pension.
 (2) A person to whom this section applies commits an offence if,—
