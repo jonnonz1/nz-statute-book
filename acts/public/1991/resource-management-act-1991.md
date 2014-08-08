@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2014-08-08_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -207,6 +207,7 @@ _Consolidation as at 2014-05-20_
     (c) in a national environmental standard dealing with a territorial authority function under section 31 or a district rule, includes the surface of water in a lake or river
   - **land use consent** has the meaning set out in section 87(a)
   - **local authority** means a regional council or territorial authority
+  - **local board** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **maataitai** means food resources from the sea and means the areas from which these resources are gathered
   - **mana whenua** means customary authority exercised by an iwi or hapu in an identified area
   - **marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
@@ -329,6 +330,7 @@ _Consolidation as at 2014-05-20_
   - **Treaty of Waitangi (Te Tiriti o Waitangi)** has the same meaning as the word Treaty as defined in section 2 of the Treaty of Waitangi Act 1975
   - **unit** has the same meaning as in section 5(1) of the Unit Titles Act 2010; and includes a future development unit (also defined in section 5(1) of the Unit Titles Act 2010)
   - **unit plan** has the same meaning as in section 5(1) of the Unit Titles Act 2010
+  - **unitary authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **use** ,—
     (a) in sections 9, 10, 10A, 10B, 81(2), 176(1)(b)(i), and 193(a), means—
       (i) alter, demolish, erect, extend, place, reconstruct, remove, or use a structure or part of a structure in, on, under, or over land:
@@ -1031,7 +1033,7 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
   (d) a government department; and
   (e) a statutory authority; and
   (f) a joint committee set up for the purposes of section 80; and
-  (g) a local board (within the meaning of section 4(1) of the Local Government (Auckland Council) Act 2009.
+  (g) a local board.
 (3)
 (4) A local authority shall not transfer any of its functions, powers, or duties under this section unless—
   (a) it has used the special consultative procedure set out in section 83 of the Local Government Act 2002; and
@@ -1050,8 +1052,8 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
 (1) A local authority may delegate to any committee of the local authority established in accordance with the Local Government Act 2002 any of its functions, powers, or duties under this Act.
 (2) A territorial authority may delegate to any community board established in accordance with the Local Government Act 2002 any of its functions, powers, or duties under this Act in respect of any matter of significance to that community, other than the approval of a plan or any change to a plan.
 (3) Subsection (2) does not prevent a local authority delegating to a community board power to do anything before a final decision on the approval of a plan or any change to a plan.
-(3A) The Auckland Council may delegate to any local board any of its functions, powers, or duties under this Act in respect of any matter of local significance to that board, other than the approval of a plan or any change to a plan.
-(3B) Subsection (3A) does not prevent the Auckland Council delegating to a local board power to do anything before a final decision on the approval of a plan or any change to a plan.
+(3A) A unitary authority may delegate to any local board any of its functions, powers, or duties under this Act in respect of any matter of local significance to that board, other than the approval of a plan or any change to a plan.
+(3B) Subsection (3A) does not prevent a unitary authority delegating to a local board power to do anything before a final decision on the approval of a plan or any change to a plan.
 (4)
 (5)
 (6)
@@ -1404,6 +1406,7 @@ An authority conducting a hearing on a matter described in section 39(1) may exe
   (a) information includes any document or evidence:
   (b) local authority includes—
     (i) a board of inquiry appointed under section 47 or 149J:
+    (ia) a local board:
     (ii) a community board:
     (iii) a public body:
     (iv) a special tribunal:
@@ -2273,7 +2276,7 @@ A local authority may make a rule specifying the activities for which the consen
   (a) must be prepared in accordance with Schedule 1; and
   (b) when approved by a local authority is deemed, for the purposes of this Act, to be a plan or regional policy statement separately prepared and approved by that authority for its region or district, as the case may be.
 (10) Subsection (9)(b) applies whether or not the combined document is approved by any of the other local authorities concerned.
-(11) Clause 30 of Schedule 7 of the Local Government Act 2002 applies to the appointment and conduct of any joint committee set up for the purposes of preparing, implementing, or administering a combined document under this section.
+(11) Clauses 30 and 30A of Schedule 7 of the Local Government Act 2002 apply to the appointment and conduct of any joint committee set up for the purposes of preparing, implementing, or administering a combined document under this section.
 
 ### 81 Boundary adjustments
 (1) Where the boundaries of any region or district are altered, and any area comes within the jurisdiction of a different local authority,—
