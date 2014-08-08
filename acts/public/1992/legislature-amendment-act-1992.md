@@ -1,5 +1,5 @@
 # Legislature Amendment Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2014-08-08_
 
 > An Act to amend The Legislature Act 1908
 
