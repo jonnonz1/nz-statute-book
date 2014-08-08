@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-08-08_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -107,7 +107,7 @@ _Consolidation as at 2014-01-01_
     (a) the management of fisheries resources, fishing and fish farming:
     (b) the enforcement of provisions relating to fisheries resources, fishing, and fish farming:
     (c) research relating to fisheries resources, fishing, and fish farming, including stock assessment and the effects of fishing and fish farming on the aquatic environment:
-    (d) the performance or exercise, by the Minister or the chief executive or any other person, of a function, duty, or power conferred or imposed relating to fisheries resources, fishing, or fish farming
+    (d) the performance or exercise, by the Minister or the chief executive or any other person, of a function, duty, or power conferred or imposed relating to fisheries resources, fishing, or fish farming (including any observer performing or exercising a function, duty, or power in accordance with the observer programme)
   - **fishery officer** means—
     (a) a person deemed by section 196(2) to be a fishery officer:
     (b) a person appointed in accordance with section 196(1) to be a fishery officer and holding a warrant under section 198:
@@ -2056,7 +2056,7 @@ The High Seas Permit Register must contain all the particulars required by regul
 (1) No person shall use a fishing vessel, or any tender of that fishing vessel, to take fish, aquatic life, or seaweed for sale, in New Zealand fisheries waters, unless—
   (a) the vessel is registered in the Fishing Vessel Register as a fishing vessel; and
   (b) that person is named in that register as an operator of, or a notified user in relation to, that vessel; and
-  (c) that person complies with all conditions of registration (if any) and any conditions of any consent of the chief executive given under subsection (4).
+  (c) that person complies with all conditions of registration.
 (2) Every application to register a fishing vessel shall—
   (a) be made by the operator of that fishing vessel; and
   (b) be made to the chief executive in the approved form and be accompanied by the prescribed fee (if any); and
@@ -2065,7 +2065,8 @@ The High Seas Permit Register must contain all the particulars required by regul
 (3) If the chief executive, having received an application made in accordance with this section, is satisfied that the vessel is eligible to be registered, he or she shall, as soon as practicable,—
   (a) register the fishing vessel for a specified period not exceeding 5 years; and
   (b) issue to the operator a certificate of registration in respect of that vessel.
-(4) No vessel owned or operated by an overseas person (other than an overseas person who has obtained consent under the overseas investment fishing provisions or is exempt from the requirement for that consent) shall be registered under this section unless the chief executive has consented, either generally or particularly, to the registration of the vessel or vessels owned or operated by that person; and any consent under this subsection may be granted subject to such conditions as the chief executive thinks fit to impose.
+(4) No vessel owned or operated by an overseas person (other than an overseas person who has obtained consent under the overseas investment fishing provisions or is exempt from the requirement for that consent) shall be registered under this section unless the chief executive has consented, either generally or particularly, to the registration of the vessel or vessels owned or operated by that person; and any consent under this subsection may be granted subject to such conditions as the chief executive thinks fit to impose (and such conditions may include, but are not limited to, conditions that relate to fisheries management, employment, vessel safety, or compliance with maritime rules relating to pollution and the discharge of waste material from vessels).
+(4A) The chief executive may, from time to time, by written notice to the operator of a vessel with effect from the date specified in the notice amend, add to, or revoke any conditions of the consent to the registration of the vessel.
 (5) If the chief executive consents under subsection (4) to the registration of any vessel, or if a vessel is owned or operated by an overseas person who has obtained consent under the overseas investment fishing provisions or is exempt from the requirement for that consent, the following provisions apply while the vessel is in New Zealand fisheries waters:
   (a) for the purposes of the Minimum Wage Act 1983, the Wages Protection Act 1983, and such provisions of any other enactments as are necessary to give full effect to those Acts, a person engaged or employed to do work on the vessel who holds a temporary entry class visa with conditions that allow the person to work under the Immigration Act 2009 shall be deemed to be an employee:
   (b) for the purposes of the Minimum Wage Act 1983, the Wages Protection Act 1983, and such provisions of any other enactments as are necessary to give full effect to those Acts, the employer of a person referred to in paragraph (a) shall be deemed to be,—
@@ -2079,7 +2080,9 @@ The High Seas Permit Register must contain all the particulars required by regul
 (6) Without limiting anything in subsection (5), in considering whether to consent to the registration of a vessel owned or operated by an overseas person referred to in subsection (4), the chief executive shall have regard to—
   (a) the previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, foreign charterparty, notified user, master, or crew; and
   (b) the nature of the charter or other agreement with the operator (if any); and
+  (ba) any risk associated with fisheries management, employment, vessel safety, or compliance with maritime rules relating to pollution and the discharge of waste material from vessels that the chief executive considers would be likely to result if the vessel were to be registered; and
   (c) such other matters as the chief executive considers relevant.
+(6AA) All conditions of the chief executive's consent to the registration of a vessel in the Fishing Vessel Register are deemed for all purposes to be conditions of the registration of the vessel.
 (6A) This section does not require that a vessel be registered merely because it is used to take fish, aquatic life, or seaweed produced as part of a lawful fish farming operation.
 (7) Every person commits an offence and is liable to the penalty set out in section 252(5) who contravenes subsection (1).
 
@@ -2123,6 +2126,44 @@ The High Seas Permit Register must contain all the particulars required by regul
 ### 106 Further provisions relating to registration of vessels
 (1) Nothing in section 103 or section 105 applies to any foreign fishing vessel licensed under Part 5 to engage in fishing within the exclusive economic zone.
 (2) Nothing in section 103 or section 105, or in any entry in the Fishing Vessel Register, confers, takes away, or in any way affects the title to, or any interest in, any vessel.
+
+### 106A Suspension of consent to registration
+(1) The chief executive may, after complying with subsections (4) and (5), suspend his or her consent to the registration of any foreign-owned New Zealand fishing vessel for any reasonable period determined by him or her if satisfied on reasonable grounds that there has been a breach of any condition of consent to its registration.
+(2) If any person, department, or agency in the course of performing or exercising functions, duties, or powers under any Act obtains any information that is relevant for the purposes of subsection (1), the person, department, or agency may provide the information to the chief executive.
+(3) For the purposes of subsection (1), the chief executive may take into account information provided by any person, department, or agency.
+(4) The chief executive must notify the operator of the vessel in writing stating—
+  (a) that he or she is satisfied on reasonable grounds that there has been a breach of any condition of consent to registration; and
+  (b) the grounds on which the chief executive has based his or her belief; and
+  (c) the actions the chief executive requires the operator to undertake or cease; and
+  (d) the period within which the actions must be undertaken or cease (which must not be less than 72 hours from the date on which the operator is notified).
+(5) If the actions specified in the notice given under subsection (4) have not been undertaken or have not ceased (as the case may be) within the period required by the notice, the chief executive must do the following if he or she decides to proceed with suspension of consent to the vessel's registration:
+  (a) give the operator not less than 7 days’ notice in writing of the intention to suspend consent to registration; and
+  (b) give the operator a reasonable opportunity to make submissions to the chief executive; and
+  (c) consider any submissions made to the chief executive by the operator.
+(6) The chief executive may impose conditions and requirements in respect of the implementation and operation of a suspension under this section.
+(7) If the chief executive suspends consent to a vessel's registration,—
+  (a) he or she must notify the operator in writing that consent to the vessel's registration has been suspended; and
+  (b) the notification must state—
+    (i) the reasons for the suspension of the chief executive's consent to the vessel's registration; and
+    (ii) the period of the suspension; and
+    (iii) the conditions and requirements imposed under subsection (6) (if any); and
+    (iv) the rights of review and appeal available to a person directly affected under section 106B.
+(8) A period of suspension may be extended by the chief executive from time to time if he or she is satisfied that any conditions and requirements referred to in subsection (7)(b)(iii) have not been met, and subsection (7) (except paragraph (b)(iv)) (with the necessary modifications) applies to any extension of the suspension.
+(9) The chief executive may lift the suspension of consent if satisfied that suspension conditions and requirements referred to in subsection (7)(b)(iii) have been met.
+(10) A person commits an offence and is liable to the penalty set out in section 252(5) if the person uses a fishing vessel, or any tender of that fishing vessel, to take fish, aquatic life, or seaweed for sale while the chief executive's consent to registration of the vessel is suspended.
+(11) Nothing in this section requires the chief executive to remit or refund any fees, charges, or levies paid or payable by the operator under this Act for the period from the date of registration to the close of the period of suspension.
+(12) For the purposes of section 103(1), a vessel must be treated as being not registered while the chief executive's consent to its registration is suspended under this section.
+
+### 106B Rights of review and appeal relating to suspension of consent to registration of vessel
+(1) A person directly affected by the chief executive's decision under section 106A(1) to suspend his or her consent to a vessel's registration may, within 7 days after the date on which the decision was notified, apply to the chief executive for a review of that decision.
+(2) The chief executive must, within 14 days after the date of receipt of an application under subsection (1), confirm, reverse, or modify the decision under review.
+(3) If the applicant is dissatisfied with the chief executive's decision under subsection (2), the applicant may appeal to a District Court against the decision.
+(4) The District Court may confirm, reverse, or modify the decision appealed against.
+(5) If any party to any proceedings before the District Court under this section is dissatisfied with any determination of the court as being erroneous in point of law, the party may appeal to the High Court by way of case stated for the opinion of the court on a question of law only.
+(6) On an appeal under subsection (5), the High Court may confirm, reverse, or modify the decision appealed against.
+(7) Appeals under this section must be heard and determined in accordance with any applicable rules of court.
+(8) The operation of a decision to suspend the chief executive's consent to a vessel's registration continues in force pending the determination of a review or appeal under this section, except where the chief executive (in the case of a review) or the court hearing the appeal (in any other case) otherwise directs.
+(9) This section confers no right of review or appeal in relation to a decision under section 106A(8) to extend a suspension.
 
 ### 107 Cancellation of registration of fishing vessel
 (1)
@@ -4077,16 +4118,22 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 ## Part 12 — Observer programme
 
 ### 223 Observer programme established
-(1) There shall be an observer programme established for the purpose of collecting reliable and accurate information for fisheries research, fisheries management, and fisheries enforcement.
+(1) The observer programme is established for the purposes of—
+  (a) collecting reliable and accurate information for fisheries research, fisheries management, and fisheries enforcement:
+  (b) collecting reliable and accurate information about vessel safety and employment on fishing vessels:
+  (c) collecting reliable and accurate information about compliance with maritime rules relating to pollution and the discharge of waste material from vessels.
 (2) The chief executive may appoint any person to be an observer for the purposes of the observer programme under subsection (1), and an observer so appointed has all the powers of an observer under sections 225 and 227.
-(3) The chief executive may place any observer appointed under this section on any vessel to observe fishing and the transhipment, transportation, and landing of fish, aquatic life, or seaweed.
-(4) An observer may collect any information on fisheries resources, fishing (including catch and effort information), the effect of fishing on the aquatic environment, and the transportation of fish, aquatic life, or seaweed, including—
+(3) The chief executive may place any observer appointed under this section on any vessel to—
+  (a) observe fishing and the transhipment, transportation, and landing of fish, aquatic life, or seaweed; and
+  (b) collect reliable and accurate information specified in subsection (1).
+(4) An observer may collect any information on fisheries resources, fishing (including catch and effort information), the effect of fishing on the aquatic environment, and the transportation of fish, aquatic life, or seaweed, or on any other matter, including—
   (a) the species, quantity, size, age, and condition of fish, aquatic life, or seaweed taken:
   (b) the methods by which, the areas in which, and the depths at which, fish, aquatic life, or seaweed are taken:
   (c) the effects of fishing methods on fish, aquatic life, seaweed, and the aquatic environment (including seabirds and protected species):
-  (d) all aspects of the operation of any vessel:
-  (e) processing, transportation, transhipment, storage, or disposal of any fish, aquatic life, or seaweed:
-  (f) any other matter that may assist the chief executive or the Minister to obtain, analyse, or verify information for the purposes of fisheries research, fisheries management, and fisheries enforcement.
+  (d) all aspects of the operation of any vessel (including any matter relating to vessel safety, the employment of any person on the vessel, or maritime rules relating to pollution and the discharge of waste material from vessels):
+  (e) processing, transportation, transhipment, storage, or disposal of any fish, aquatic life, seaweed, waste, or any other matter:
+  (f) any other matter that may assist the chief executive or the Minister to obtain, analyse, or verify information for the purposes of fisheries research, fisheries management, and fisheries enforcement:
+  (g) any other matter that may assist any person, department, or agency with statutory responsibilities for vessel safety, employment matters, or maritime rules relating to pollution and the discharge of waste material from vessels to obtain, analyse, or verify information relevant to those responsibilities.
 (5) No fishery officer or any person with the powers of a fishery officer shall be appointed under subsection (2).
 (6) No person shall be deemed to be employed in the service of the Crown by reason of that person having been appointed as an observer.
 
@@ -4102,6 +4149,8 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
   (b) have access to any fish, aquatic life, or seaweed (including seabirds and protected species) on board the vessel:
   (c) have access to the bridge and the navigation and communications equipment of the vessel:
   (d) have access to the logs and records of the vessel, whether required to be carried and maintained by or under this Act or otherwise:
+  (da) have access to any safety equipment and to any document concerning the manufacture or operation of the equipment:
+  (db) have access to any person engaged or employed to do work on the vessel so that, if the observer so wishes, the observer may discuss with that person any matter concerning his or her engagement or employment on the vessel:
   (e) receive and transmit messages and communicate with the shore and other vessels:
   (f) take, measure, and retain samples or whole specimens of any fish, aquatic life, seaweed, or any seabird or protected species caught:
   (g) store samples and whole specimens on the vessel, including samples and whole specimens held in the vessel's freezing facilities.
@@ -4126,6 +4175,9 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 (2) An observer may take and make copies of such records, documents, or information as the observer may require for the purposes of subsection (1).
 (3) An observer may store in the vessel's freezing facilities such samples and whole specimens of any fish, aquatic life, seaweed, seabirds, or protected species as the observer may require for the purposes of subsection (1).
 (4) Every person commits an offence and is liable to the penalty set out in section 252(3) who contravenes or fails to comply with subsection (1).
+
+### 227A Installation and maintenance of equipment on vessels may be required
+The chief executive may require, in relation to any vessel, that specified equipment to observe fishing and transportation be installed and maintained on the vessel in accordance with regulations made under section 297(1)(ca).
 
 ## Part 13 — Offences and penalties
 
@@ -4363,6 +4415,7 @@ If it is provided in this Act that any presumption is to apply in respect of any
   (e) section 97(11) (breach of condition on special permit):
   (f) section 103(7) (using unregistered vessel):
   (g) section 105(6) (using unregistered vessel for transporting fish):
+  (ga) section 106A(10) (using vessel while consent to registration suspended):
   (h) section 107(9) (failure to notify chief executive):
   (ha) section 186A(8) or section 186B(7) (contravention, other than by individual for purposes other than sale, of notice closing area or prohibiting or restricting fishing methods):
   (hb) section 113J(2) (breach of condition on high seas fishing permit):
@@ -4633,6 +4686,7 @@ The cost recovery principles under this Part are as follows:
   (a) if a conservation service or fisheries service is provided at the request of an identifiable person, that person must pay a fee for the service:
   (b) costs of conservation services or fisheries services provided in the general public interest, rather than in the interest of an identifiable person or class of person, may not be recovered:
   (c) costs of conservation services or fisheries services provided to manage or administer the harvesting or farming of fisheries resources must, so far as practicable, be attributed to the persons who benefit from harvesting or farming the resources:
+  (ca) costs of fisheries services relating to any observer performing or exercising a function, duty, or power in accordance with the observer programme must, so far as practicable, be attributed to the persons who benefit from those services:
   (d) costs of conservation services or fisheries services provided to avoid, remedy, or mitigate a risk to, or an adverse effect on, the aquatic environment or the biological diversity of the aquatic environment must, so far as practicable, be attributed to the persons who caused the risk or adverse effect:
   (e) the Crown may not recover under this Part the costs of services provided by an approved service delivery organisation under Part 15A.
 
@@ -5263,7 +5317,7 @@ An auditor must, before disclosing information to the Minister under section 296
     (xiii) regulating the methods by, or the circumstances under which, fish, aquatic life, or seaweed may be held, stored, conveyed, or identified, including the use of any containers, marks, or labels:
   (b)
   (c) providing for the issue, refusal, renewal, suspension, revocation, surrender, or modification of licences to receive fish, aquatic life, or seaweed by the chief executive, and the imposing of conditions on such licences, whether by the chief executive or otherwise, for persons who wish to act as fish receivers and to purchase or otherwise acquire or be in possession, in prescribed circumstances, of fish, aquatic life, or seaweed taken for the purpose of sale:
-  (ca) requiring the installation and maintenance of equipment to monitor fishing or transportation and the payment of any associated prescribed fees and charges:
+  (ca) prescribing requirements or matters relating to the installation and maintenance of equipment (including electronic equipment) to observe fishing or transportation, and to the payment of any associated prescribed fees and charges:
   (d) requiring, or authorising the chief executive to require,—to provide to the chief executive such information as the chief executive may reasonably require for the purpose of this Act:
     (i) any applicant for any licence, permit, approval, or other authority under this Act; or
     (ii) the holder of any such authority—
@@ -5295,6 +5349,11 @@ An auditor must, before disclosing information to the Minister under section 296
     (iii) the persons liable to pay the fees or charges:
     (iv) the circumstances in which the Minister or the chief executive may remit or waive payment of the whole or any part of the fees or charges:
   (ma) without limiting paragraph (m), prescribing fees and charges payable under this Act in respect of the functions of the chief executive in relation to aquaculture activities or proposed aquaculture activities in the coastal marine area:
+  (mb) without limiting paragraph (m), prescribing fees and charges payable under this Act in respect of the functions of observers, including regulations—
+    (i) authorising the chief executive to determine the amount payable in individual cases within the minimum and maximum amounts or rates prescribed in the regulations:
+    (ii) prescribing different amounts or rates in respect of different areas or classes of vessels:
+    (iii) specifying the period in respect of which fees and charges are payable, which period may begin when the observer is available to board the vessel concerned while it is waiting in port:
+    (iv) specifying the method by which the amount payable in any case is to be determined:
   (n) creating offences in respect of the contravention of, or non-compliance with, any regulations made under this Act; and providing for the imposition of fines not exceeding $100,000, including the imposition of different fines in respect of a first offence, a second offence, and subsequent offences:
   (na) prescribing infringement offences against this Act (which offences may not be offences of taking or possession of fish by a commercial fisher):
   (nb) prescribing the form of infringement notices and infringement offence reminder notices:
