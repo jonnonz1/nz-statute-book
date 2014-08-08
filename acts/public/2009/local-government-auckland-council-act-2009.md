@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2013-11-01_
+_Consolidation as at 2014-08-08_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -125,24 +125,15 @@ A local board must be established for each local board area for the purposes of�
 ### 11 Membership of local boards
 (1) The initial number of members for each local board is determined by the Local Government Commission under section 34(1)(c).
 (1A) The number of members for each local board may be altered in either of the following ways, but must at all times be no fewer than 5 and no more than 12 members:
-  (a) as a consequence of a review carried out by the Council under the Local Electoral Act 2001 and section 103 of this Act:
-  (b) as part of a local government reorganisation under the Local Government Act 2002 and section 13A of this Act.
+  (a) as a consequence of a review carried out by the Council under the Local Electoral Act 2001:
+  (b) as part of a local government reorganisation under the Local Government Act 2002.
 (2) Members of a local board—
   (a) must be elected in accordance with the Local Electoral Act 2001; and
   (b) must elect a chairperson from among themselves using one of the systems of voting set out in clause 25(3) and (4) of Schedule 7 of the Local Government Act 2002.
-(3) Sections 88A to 88F of the Local Electoral Act 2001 apply if, at any election, a person is declared to be elected as a member of the Auckland Council and either—
-  (a) he or she is already a member of a local board; or
-  (b) he or she is declared to be elected as a member of a local board.
-(4) For the purposes of (2)(a) and (3), the Local Electoral Act 2001 and any regulations made under that Act apply—
-  (a) with any necessary modifications; and
-  (b) as if any reference in that Act to a community were a reference to a local board area (within the meaning of this Act); and
-  (c) as if any reference in that Act to a community board were a reference to a local board (within the meaning of this Act).
-(5) Without limiting subsection (4)(a), a person is a ratepayer elector for a local board area if the address for which the person is registered as a parliamentary elector is outside the local board area and—
-  (a) the person is identified in the Council's valuation roll as the sole ratepayer in respect of a rating unit within the local board area; or
-  (b) the person is nominated to be enrolled as a ratepayer elector in respect of a rating unit within the local board area, owned by 1 or more ratepayers, none of whom is qualified as a residential elector within the local board area.
-(6) To avoid doubt,—
-  (a) sections 19F and 19J of the Local Electoral Act 2001 do not apply to a local board:
-  (b) sections 117 and 117A of the Local Electoral Act 2001 apply to a local board.
+(3)
+(4)
+(5)
+(6)
 
 ### 11A Indemnification and liability of local board members
 (1) Sections 43, 46, and 47 of the Local Government Act 2002 apply to a member of a local board, with any necessary modifications, as if the member were a member of the Auckland Council.
@@ -151,9 +142,12 @@ A local board must be established for each local board area for the purposes of�
 ### 12 Status of local boards
 (1) A local board is an unincorporated body.
 (2) A local board is not a local authority, a community board, or a committee of the governing body.
-(3) A local board may not—
+(3) A local board does not have separate legal standing from the Auckland Council and therefore, without limitation, may not—
   (a) acquire, hold, or dispose of property; or
-  (b) appoint, suspend, or remove employees.
+  (b) enter into contracts; or
+  (c) appoint, suspend, or remove employees; or
+  (d) commence, or be a party to, or be heard in legal proceedings.
+(4) Nothing in this section limits the responsibility of a local board to make the decisions of the Auckland Council that are allocated to it in accordance with section 16.
 
 ### 13 Functions, duties, and powers of local boards
 (1) A local board has the functions, duties, and powers conferred on a local board by or under this Act or any other enactment.
@@ -166,26 +160,22 @@ A local board must be established for each local board area for the purposes of�
   (f) may exercise any powers that are delegated to it by the governing body under section 31 or Auckland Transport under section 54.
 
 ### 13A Local boards may be subject of reorganisation proposal
-(1) A reorganisation application may deal with 1 or more of the following matters:
-  (a) the establishment of a local board area:
-  (b) the abolition of a local board area:
-  (c) the alteration of the boundaries of a local board area:
-  (d) the union of 2 or more local board areas.
-(2) Sections 24 to 26A and Schedule 3 of the Local Government Act 2002 apply to an application under subsection (1) as if the local board area or areas were the district of a local authority or the districts of local authorities, as the case may be.
-(3) To avoid doubt, the Auckland Council remains the affected local authority for the purposes of any application.
+[Repealed]
 
 **Decision making**
 
 ### 14 General scheme
 (1) This section sets out the general scheme of sections 14 to 21. These are the provisions of this Act that set out how the Auckland Council, in its capacity as a local authority, makes its decisions. This section is by way of explanation only and does not limit or affect the other provisions of this Act or any other enactment.
-(2) Unlike other local authorities, both the governing body and the local boards are responsible and democratically accountable for the decision making of the Auckland Council. Whether responsibility for making any particular decision rests with the governing body or 1 or more or all of the local boards depends on the nature of the decision being made.
+(2) Both the governing body and the local boards are responsible and democratically accountable for the decision making of the Auckland Council. Whether responsibility for making any particular decision rests with the governing body or 1 or more or all of the local boards depends on the nature of the decision being made.
 (3) Section 15 sets out the classes of decisions that the governing body must make. Section 16 sets out the classes of decisions that local boards must make. Both sections include a class of decisions in respect of non-regulatory activities of the Council. The governing body allocates responsibility for any particular decision in this class of decisions to either itself or the local boards by applying the principles set out in section 17. The results of the allocation must then be set out in the LTP and annual plans of the Council so that the people of Auckland, and any other persons, can easily determine whether the governing body or a local board is responsible for any particular decision of the Council.
 (4) To determine local wishes and priorities in relation to the non-regulatory activities for which a local board is allocated responsibility, the board must consult its communities. The local board does this by preparing a local board plan under section 20. This plan is used as a basis for the board to develop an annual local board agreement with the governing body under section 21 in which the nature, levels, and funding of the activities are set out.
 
 ### 15 Decision-making responsibilities of governing body
 (1) The governing body is responsible and democratically accountable for—
   (a) the decision making of the Auckland Council in relation to any regulatory responsibility, duty, or power conferred on, or applying to, the Council under this Act or any other enactment (for example, the responsibilities, duties, or powers conferred on, or applying to, a local authority under the Resource Management Act 1991, the Health Act 1956, the Building Act 2004, and the Civil Defence Emergency Management Act 2002); and
-  (b) the decision making of the Auckland Council in relation to the non-regulatory activities of the Auckland Council that are allocated to the governing body in accordance with section 17; and
+  (b) the decision making of the Auckland Council in relation to—
+    (i) transport networks and infrastructure; and
+    (ii) any non-regulatory activities of the Auckland Council that are allocated to the governing body in accordance with section 17; and
   (c) the decision making of the Auckland Council in relation to the establishment and maintenance of capacity to provide, or ensure the provision of, services and facilities (including local activities) by the Auckland Council; and
   (ca) the decision making of the Auckland Council in relation to the governance of its council-controlled organisations; and
   (cb)
@@ -220,10 +210,7 @@ A local board must be established for each local board area for the purposes of�
 **Identification of local activities and allocation of funding**
 
 ### 18 Local activities must be identified in LTP and annual plan
-(1) The LTP and each annual plan must identify the non-regulatory activities of the Auckland Council for which decision-making responsibility is allocated to local boards under section 17.
-(2) For the purposes of clauses 2 to 5 of Schedule 10 of the Local Government Act 2002, the activities must be grouped together (whether in 1 or more groups) separately from any other activity or group of activities of the Council.
-(2A) However, each group of activities specified in clause 2(2) of Schedule 10 of the Local Government Act 2002 must be identified separately from any other activities or group of activities.
-(3) The matters in subsection (1) must first be identified in the LTP adopted for the period beginning 1 July 2012, and in each subsequent LTP.
+[Repealed]
 
 ### 19 Local boards funding policy
 (1) To provide predictability and certainty about levels of funding for local boards, the Auckland Council must adopt a local boards funding policy as part of its long-term plan.
@@ -241,15 +228,12 @@ A local board must be established for each local board area for the purposes of�
   (b) the size of each local board area; and
   (c) any other factor identified by the Auckland Council as significantly affecting the operational costs of each local board; and
   (d) the funding amount allocated to each local board under subsection (4).
-(6) For the purposes of adopting a funding policy under subsection (1), section 102 of the Local Government Act 2002 applies, with any necessary modifications, and as if the following paragraph were added to subsection (2) of that section:
-  (f) a local board's funding policy.
-(6A) If the Auckland Council amends its local board's funding policy under section 93(4) of the Local Government Act 2002, only a significant amendment to the policy is required to be audited in accordance with sections 84(4) and 94 of that Act.
+(6) For the purposes of adopting a funding policy under subsection (1), section 102 of the Local Government Act 2002 applies with any necessary modifications.
+(6A) If the Auckland Council amends its local board's funding policy under section 93(4) of the Local Government Act 2002, only a significant amendment to the policy is required to be audited in accordance with sections 93D(4) and 94(1) of that Act.
 (7) The Auckland Council must adopt its first policy under this section no later than the date that the LTP for the period commencing 1 July 2012 is adopted.
 
 ### 19A Estimated local board funding allocation must be included in LTP and annual plan
-(1) The LTP and each annual plan of the Auckland Council must include the estimated local board funding allocation for each local board for each year to which the plans relate.
-(2) The Auckland Council must include its first estimated local board funding allocation under this section in the plans no later than the date that the LTP for the period commencing 1 July 2012 is adopted.
-(3) In this section, local board funding allocation means the total funds in respect of which a local board has decision-making discretion, allocated in accordance with the Council's local boards funding policy adopted under section 19.
+[Repealed]
 
 **Local board plans and agreements**
 
@@ -294,7 +278,7 @@ A local board must be established for each local board area for the purposes of�
 (1) For each financial year, the Auckland Council must have a local board agreement (as agreed between the governing body and the local board) for each local board area.
 (2) A local board agreement must set out how the Auckland Council will, in the year to which the agreement relates, reflect the priorities and preferences in the local board's plan in respect of—
   (a) the local activities to be provided in the local board area:
-  (b) the responsibilities, duties, or powers delegated to the local board by the governing body under section 31:
+  (b) the responsibilities, duties, or powers delegated to the local board by the governing body under clause 36C of Schedule 7 of the Local Government Act 2002:
   (c) the implementation or enforcement of bylaws made by the Council as a result of a proposal from the local board.
 (3) A local board agreement is not required to reflect the priorities and preferences in its local board plan in respect of the matters referred to in subsection (2) to the extent that 1 or more of the following apply:
   (a) the local board determines that the priorities and preferences in the plan no longer reflect the priorities and preferences of the communities in the local board area; or
@@ -304,120 +288,63 @@ A local board must be established for each local board area for the purposes of�
 (5) For the purposes of subsection (2)(a), a local board agreement must, in respect of the local activities to be provided in the local board area in the year to which the agreement relates, include—
   (a) a statement of the intended levels of service provision that specifies—
     (i) any performance measures specified in a rule made under section 261B of the Local Government Act 2002 for each activity described in clause 2(2) of Schedule 10 of that Act; and
-    (ii) the performance measures that the Auckland Council considers will enable the public to assess the level of service for major aspects of an activity for which performance measures have not been specified under paragraph (a); and
+    (ii) the performance measures that the Auckland Council considers will enable the public to assess the level of service for major aspects of an activity for which performance measures have not been specified under subparagraph (i); and
     (iii) the performance target or targets set by the Auckland Council for each performance measure; and
     (iv) any intended changes to the level of service that was provided in the year before the year to which the agreement relates and the reasons for the change; and
   (b) a funding impact statement in the form prescribed under the Local Government Act 2002 for inclusion in an annual plan under clause 20(2) of Schedule 10; and
   (c) a statement of how any expenses in excess of the local board's estimated funding allocation under section 19A of this Act are to be met (including estimated revenue levels and the other sources of funding).
 
 ### 22 Local board agreements must be included in LTP and annual plan
-(1) The LTP and each annual plan of the Auckland Council must include the local board agreement for each local board area.
-(2) For the purposes of subsection (1), the Council must prepare a different statement of proposal for the annual plan for each local board area that includes in the draft annual plan—
-  (a) the information identified under section 18; and
-  (b) the draft local board agreement for the local board area.
-(3) Submissions on each version of the statement of proposal must be considered jointly by the governing body and the relevant local board.
+(1) For the purposes of consulting on each local board agreement to be included in the LTP, the consultation document adopted under section 93A(1)(a) of the Local Government Act 2002 must include content relating to each agreement.
+(2) For the purposes of consulting on each local board agreement to be included in an annual plan, the consultation document adopted under section 82A(3) of the Local Government Act 2002 must include content relating to each agreement.
+(3)
 (4)
 
 ### 23 Monitoring and reporting
 (1) Each local board must monitor the implementation of the local board agreement for its local board area.
-(2) Each annual report of the Auckland Council must include, in respect of local activities for each local board area, an audited statement that—
-  (a) compares the level of service achieved in relation to the activities with the performance target or targets for the activities (as stated in the local board agreement for that year); and
-  (b) specifies whether any intended changes to the level of service have been achieved; and
-  (c) gives the reasons for any significant variation between the level of service achieved and the intended level of service.
-(3) Each local board must comment on the matters included in the annual report under subsection (2) in respect of its local board area and the Council must include those comments in the annual report.
+(2)
+(3)
 
 **Bylaws**
 
 ### 24 Local board may propose bylaw
-(1) A local board may propose to the governing body, in writing, that a bylaw be made to apply only in, or in any part of, its local board area.
-(2) As soon as practicable after receiving a proposal under subsection (1), the governing body must decide whether the proposed bylaw meets the following requirements:
-  (a) the enactment under which the proposed bylaw is to be made authorises the making of the bylaw; and
-  (ab) the proposed bylaw complies with the applicable statutory requirements of that enactment and any other relevant enactment; and
-  (b) the proposed bylaw is not inconsistent with any strategy, policy, plan, or bylaw of the Council; and
-  (c) the proposed bylaw can be implemented and enforced within the local board's budget; and
-  (d) the proposed bylaw will not have any significant effect outside the local board's area.
-(3) If the governing body decides that a proposed bylaw—
-  (a) meets the requirements of subsection (2), it must give written notice of its decision to the local board:
-  (b) does not meet the requirements of subsection (2), it must give written notice of its decision (with reasons) to the local board.
+[Repealed]
 
 ### 25 Local board must consult on proposed bylaw
-(1) This section applies if a local board has received notice under section 24(3)(a) from the governing body in respect of a bylaw that the local board has proposed.
-(2) The local board must confirm the proposed bylaw using the special consultative procedure within the local board area and, for that purpose, section 156(1) of the Local Government Act 2002 applies, with any necessary modifications, as if the local board were a local authority and the bylaw were a bylaw being made under that Act.
-(3) If, after acting under subsection (2), the local board confirms the proposed bylaw, it must give written notice of its decision to the governing body and the governing body must adopt the bylaw by resolution.
-(4) If, after acting under subsection (2), the local board modifies the proposed bylaw, it must give written notice of its decision to the governing body and the governing body must—
-  (a) if satisfied that the proposed bylaw meets the requirements of section 24(2), adopt the bylaw by resolution; or
-  (b) if not satisfied that the proposed bylaw meets the requirements of section 24(2), give notice to the local board under section 24(3)(b).
-(5) Where the Auckland Council adopts under subsection (3) or (4)(a) a bylaw that is made under the Local Government Act 2002, the requirements of sections 86, 155, and 156 of that Act are deemed to be satisfied in respect of that bylaw.
+[Repealed]
 
 ### 26 Local board may propose amendment to bylaw
-(1) A local board may propose to the governing body, in writing, that a bylaw that applies only in, or only in any part of, its local board area be amended.
-(2) For the purposes of subsection (1), sections 24 and 25 apply with any necessary modifications.
+[Repealed]
 
 ### 27 Local board may propose revocation of bylaw
-(1) A local board may propose to the governing body, in writing, that a bylaw that applies only in, or only in any part of, its local board area be revoked.
-(2) As soon as practicable after receiving a proposal under subsection (1), the governing body must decide whether the proposed revocation—
-  (a) complies with the applicable statutory requirements; and
-  (b) is not inconsistent with any strategy, policy, or plan of the Council; and
-  (c) will not have any significant effect outside the local board's area.
-(3) If the governing body decides that a proposed revocation—
-  (a) meets the requirements of subsection (2), it must give written notice of its decision to the local board:
-  (b) does not meet the requirements of subsection (2), it must give written notice of its decision (with reasons) to the local board.
-(4) If the local board receives notice under subsection (3)(a), section 25(2), (3), and (5) apply, with any necessary modifications, as if the proposed revocation were a proposed bylaw.
+[Repealed]
 
 ### 28 Joint bylaw proposals
-(1) Two or more local boards may propose to the governing body, in writing, that a bylaw be made to apply only in, or only in any part of, the local boards' areas.
-(2) For the purposes of subsection (1), sections 24 to 26 apply with any necessary modifications.
+[Repealed]
 
 **Miscellaneous matters relating to local boards and their members**
 
 ### 29 Application of Schedule 7 of Local Government Act 2002 to local boards and their members
-(1) Part 1 of Schedule 7 (except clauses 15 and 32AA to 36) of the Local Government Act 2002 applies to a local board and its members, with any necessary modifications, as if the local board were a local authority and its members were members of the local authority.
-(2) To avoid doubt, section 235 of the Local Government Act 2002 (which relates to contraventions of Schedule 7 of that Act) applies to members of local boards as if they were members of a local authority.
+(1) Part 1A of Schedule 7 of the Local Government Act 2002 applies to a local board and its members.
+(2) Part 1 of Schedule 7 (excluding clauses 15 and 32AA to 36A) of the Local Government Act 2002 applies to a local board and its members, with any necessary modifications, as if the local board were a local authority and its members were members of the local authority.
 
 ### 30 Code of conduct
-Each member of each local board must comply with the code of conduct adopted by the governing body under clause 15 of Schedule 7 of the Local Government Act 2002.
+[Repealed]
 
 ### 31 Delegations to local boards from governing body
-(1) The governing body may delegate to a local board any of its responsibilities, duties, and powers, except the powers described in clause 32(1)(a) to (f) of Schedule 7 of the Local Government Act 2002.
-(2) However, nothing in subsection (1) restricts the governing body's power to delegate to a local board the power to do anything precedent to the exercise by the governing body of any power referred to in clause 32(1)(a) to (f) of that schedule.
-(3) In deciding whether to make a delegation, the governing body must weigh the benefits of reflecting local circumstances and preferences (through a delegation) against the importance and benefits of using a single approach across Auckland (through itself retaining the responsibility, duty, or power concerned).
-(4) A local board to which the governing body has delegated a responsibility, duty, or power may, without confirmation by the governing body, exercise or perform the responsibility, duty, or power in the same manner and with the same effect as the governing body could itself have exercised or performed it.
-(5) No delegation under this section relieves the governing body of the liability or legal responsibility to perform or ensure the performance of any responsibility or duty.
-(6)
-(7)
+[Repealed]
 
 ### 31A Delegations by local boards
-(1) For the purposes of efficiency and effectiveness in the conduct of a local board's business, a local board may delegate to a committee, subcommittee, or member of the local board, or an officer of the Auckland Council, any of its responsibilities, duties, and powers, except—
-  (a) the duty to identify and communicate the interests and preferences of the people in its local board area in relation to the content of the strategies, policies, plans, and bylaws of the Auckland Council:
-  (b) the power to propose a bylaw or an amendment to a bylaw:
-  (c) the power to confirm a bylaw or modify a proposed bylaw:
-  (d) the power to propose the revocation of a bylaw:
-  (e) the duty to adopt the local board plan for its area:
-  (f) the duty to agree the local board agreement for its area with the governing body of the Auckland Council:
-  (g) the power to apply to the Local Government Commission for a binding determination in respect of a dispute between itself and the governing body:
-  (h) a responsibility, duty, or power that this Act or any other Act expressly provides may not be delegated.
-(2) However, nothing in subsection (1) restricts the power of a local board to delegate to a committee, subcommittee, or member of the local board, or an officer of the Auckland Council, the power to do anything precedent to the performance or exercise by the local board of a responsibility, duty or power specified in that subsection.
-(3) Subsection (1) applies to any responsibilities, duties, or powers delegated to the local board by the governing body subject to any conditions, limitations, or prohibitions imposed by the governing body when making the original delegation.
-(4) A committee, subcommittee, or person to which or to whom a local board has delegated a responsibility, duty, or power, may,—
-  (a) without confirmation by the local board, exercise or perform the responsibility, duty, or power in the same manner and with the same effect as the local board could itself have exercised or performed it:
-  (b) delegate the responsibility, duty, or power to a subcommittee or person, subject to any conditions, limitations, or prohibitions imposed by the local board when making the original delegation.
-(5) No delegation relieves the local board of the liability or legal responsibility to perform or ensure the performance of any responsibility or duty.
+[Repealed]
 
 ### 32 Chief executive responsible for certain matters in relation to local boards
-The chief executive of the Auckland Council is responsible to the Auckland Council for—
-  (a) implementing the decisions of each local board; and
-  (b) implementing each local board agreement; and
-  (c) providing advice to each local board and its members; and
-  (d) providing the administrative and other facilities for each local board necessary for the board to carry out its functions and perform its duties.
+[Repealed]
 
 ### 32A Powers of Minister in relation to local board
-(1) The Minister may exercise the powers in Part 10 of the Local Government Act 2002 in relation to a local board and, for that purpose, that Part applies, with any necessary modifications, as if a local board were a local authority.
-(2) This section applies despite section 255 of that Act.
+[Repealed]
 
 ### 32B Application of certain Acts to local boards
-(1) The Ombudsmen Act 1975 applies to a local board as if the board were listed in Part 3 of Schedule 1 of that Act.
-(2) The Local Government Official Information and Meetings Act 1987 applies to a local board as if the board were listed in Part 1 of Schedule 1 of that Act.
-(3) The Local Authorities (Members' Interests) Act 1968 applies to a local board as if the board were listed in Part 1 of Schedule 1 of that Act.
+[Repealed]
 
 ## Part 3 — Transitional arrangements
 
@@ -1028,15 +955,8 @@ Despite section 49 of the Local Government Act 2002, no community board may be e
 (1) For the purposes of section 19H(2) of the Local Electoral Act 2001, the Council must make—
   (a) its first determination no earlier than after the completion of the 2013 triennial general elections but no later than 8 September 2018; and
   (b) subsequent determinations at least once in every period of 6 years after that first determination.
-(2) However, if Auckland is required to be divided into 1 or more Māori wards for the purposes of the 2013 triennial general elections, the Council must make its first determination no later than 8 September 2012 and subsequent determinations at least once in every period of 6 years after that first determination.
-(3) For the purposes of any review, the Local Electoral Act 2001 applies with any necessary modifications and as if the following paragraphs were added to section 19H(1) of that Act:
-  (e) whether a local board area should be subdivided for electoral purposes or, as the case may be, whether it should continue to be subdivided for electoral purposes; and
-  (f) whether the boundaries of any subdivision of a local board area should be altered; and
-  (g) the number of members of any local board; and
-  (h) the name of any local board; and
-  (i) if a local board area is to be subdivided or continue to be subdivided,—
-    (i) the proposed name and the proposed boundaries of each subdivision; and
-    (ii) the number of members proposed to be elected by the electors of each subdivision.
+(2)
+(3)
 
 **Auditor-General to review Council's service performance**
 
