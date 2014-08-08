@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2014-08-08_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -1492,6 +1492,12 @@ An application for a certificate of acceptance must—
     (ii) if an amendment to an existing compliance schedule is required as a result of the building work, the amended compliance schedule for the building.
 (2) A certificate of acceptance may, if a territorial authority inspected the building work, be qualified to the effect that only parts of the building work were able to be inspected.
 (3) A territorial authority's liability for the issue of a certificate of acceptance is limited to the same extent that the territorial authority was able to inspect the building work in question.
+
+### 99AA Withholding certificate of acceptance
+If a territorial authority grants an application for a certificate of acceptance but withholds the certificate under section 208 of the Local Government Act 2002, the territorial authority must give the applicant written notice of—
+  (a) the grant of the application; and
+  (b) the withholding of the certificate; and
+  (c) the development contribution required to be paid or made before the certificate will be issued.
 
 ### 99A Refusal of application for certificate of acceptance
 If a territorial authority refuses to grant an application for a certificate of acceptance, the territorial authority must give the applicant written notice of—
