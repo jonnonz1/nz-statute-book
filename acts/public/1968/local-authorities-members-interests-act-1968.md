@@ -1,5 +1,5 @@
 # Local Authorities (Members' Interests) Act 1968
-_Consolidation as at 2014-04-30_
+_Consolidation as at 2014-08-08_
 
 > An Act to consolidate and amend the law relating to the making of contracts between local authorities and the members thereof, and to the restrictions on the actions of such members when matters in which they have a pecuniary interest are under consideration
 
@@ -142,6 +142,7 @@ The Auditor-General shall, either on investigation following receipt of a compla
 | Harbour Boards | Harbours Act 1950 (1950 No 34), and special Acts constituting individual Boards |
 | Industry Training Boards | Vocational Training Council Act 1982 (1982 No 54) |
 | Licensing Trusts | Sale of Liquor Act 1989 (1989 No 63) |
+| Local boards | Local Government Act 2002 (2002 No 84) and Local Government (Auckland Council) Act 2009 (2009 No 32) |
 | Nassella Tussock Boards | Noxious Plants Act 1978 (1978 No 15): Part 2 |
 | Pest Destruction Boards | Agricultural Pests Destruction Act 1967 (1967 No 147) |
 | Provincial Patriotic Councils | Patriotic and Canteen Funds Act 1947 (1947 No 63) |
