@@ -1,5 +1,5 @@
 # Canterbury Earthquake Recovery Act 2011
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2014-08-08_
 
 ### 1 Title
 This Act is the Canterbury Earthquake Recovery Act 2011.
@@ -687,7 +687,7 @@ The exercise of the power giving rise to a claim for compensation under this sub
     (i) release a person from custody or detention; or
     (ii) have any person’s detention reviewed by a court, Judge, or Registrar; or
   (b) grant an exemption from or modify a restriction on keeping a person in custody or detention; or
-  (c) grant an exemption from or modify a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicature Amendment Act 1972, or the New Zealand Bill of Rights Act 1990; or
+  (c) grant an exemption from or modify a requirement or restriction imposed by the Bill of Rights 1688, the Constitution Act 1986, the Electoral Act 1993, the Judicature Amendment Act 1972, the New Zealand Bill of Rights Act 1990, or the Parliamentary Privilege Act 2014; or
   (d) contain any provision having the effect of amending this section or section 3, 6, 72 to 76, or 93.
 (7) Subsections (2) to (5) do not limit subsection (1).
 
