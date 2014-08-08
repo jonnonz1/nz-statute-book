@@ -1,5 +1,5 @@
 # Legislature Act 1908
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-08-08_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the Legislature of New Zealand
 
