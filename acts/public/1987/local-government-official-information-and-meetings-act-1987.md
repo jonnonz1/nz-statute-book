@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2014-08-01_
+_Consolidation as at 2014-08-08_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
