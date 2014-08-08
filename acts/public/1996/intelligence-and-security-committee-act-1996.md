@@ -1,5 +1,5 @@
 # Intelligence and Security Committee Act 1996
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-08-08_
 
 > An Act to increase the level of oversight and review of intelligence and security agencies by establishing an Intelligence and Security Committee
 
@@ -148,8 +148,8 @@ There is hereby established a committee to be known as the Intelligence and Secu
 (3) Nothing in subsection (1) or subsection (2) applies in respect of proceedings for an offence against section 20.
 
 ### 16 Privilege
-(1) The proceedings of the Committee shall be deemed to be proceedings in Parliament for the purposes of Article 9 of the Bill of Rights 1688.
-(2) Anything said or any information supplied or any document, paper, or thing produced by any person in the course of any inquiry or proceedings of the Committee under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings of the House of Representatives.
+(1) The proceedings of the Committee shall be deemed to be proceedings in Parliament for the purposes of Article 9 of the Bill of Rights 1688 and the Parliamentary Privilege Act 2014.
+(2) Anything said or any information supplied or any document, paper, or thing produced by any person in the course of any inquiry or proceedings of the Committee under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in Parliament (as defined in section 10 of the Parliamentary Privilege Act 2014).
 
 **Disclosure of information**
 
