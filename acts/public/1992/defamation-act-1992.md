@@ -1,5 +1,5 @@
 # Defamation Act 1992
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-08-08_
 
 > An Act to amend the law relating to defamation and other malicious falsehoods
 
@@ -86,14 +86,15 @@ In any proceedings for defamation in which the defendant relies on a defence of 
 
 **Absolute privilege**
 
-### 13 Absolute privilege in relation to Parliamentary proceedings
-(1) Proceedings in the House of Representatives are protected by absolute privilege.
-(2) Any live broadcast, by any broadcaster, of proceedings in the House of Representatives is protected by absolute privilege.
+### 13 Absolute privilege in relation to proceedings in Parliament
+(1) Proceedings in Parliament are protected by absolute privilege.
+(2) Any live broadcast, by any broadcaster, of proceedings in Parliament is protected by absolute privilege.
 (3) The following publications are protected by absolute privilege:
   (a) the publication, by or under the authority of the House of Representatives, of any document:
   (b) the publication, to the House of Representatives, of any document, either by presenting the document to, or laying the document before, the House of Representatives:
-  (c) the publication, by or under the authority of the House of Representatives, or under the authority of any enactment, of an official or authorised record of the proceedings of the House of Representatives:
+  (c) the publication, by or under the authority of the House of Representatives, or under the authority of any enactment, of an official or authorised report of proceedings in Parliament:
   (d) the publication of a correct copy of any document or record to which paragraph (a) or paragraph (c) applies.
+(4) Proceedings in Parliament, in this section, has the same meaning as in section 10 of the Parliamentary Privilege Act 2014.
 
 ### 14 Absolute privilege in relation to judicial proceedings and other legal matters
 (1) Subject to any provision to the contrary in any other enactment, in any proceedings before—anything said, written, or done in those proceedings by a member of the tribunal or authority, or by a party, representative, or witness, is protected by absolute privilege.
@@ -377,13 +378,13 @@ Nothing in this Act derogates from any of the powers, privileges, and immunities
 ### Part 1 — Publications not subject to restrictions in section 18
 
 ### 1
-Any delayed broadcast, by any broadcaster, of proceedings in the House of Representatives.
+[Repealed]
 
 ### 2
-The publication of a fair and accurate report of proceedings in the House of Representatives or in any Committee of the House of Representatives.
+[Repealed]
 
 ### 3
-The publication of a fair and accurate extract from, or summary of, any document or record to which section 13(3)(a) or (c) applies.
+[Repealed]
 
 ### 4
 Subject to any provision to the contrary in any other enactment, the publication, in any proceedings before a tribunal or authority established by or pursuant to any enactment (other than proceedings to which section 14(1) applies), of any matter by a member of the tribunal or authority, or by a party, representative, or witness in those proceedings.
