@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-08-24_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -16,7 +16,7 @@ _Consolidation as at 2013-12-18_
   - **crime involving dishonesty** has the meaning given to it in section 2(1) of the Crimes Act 1961
   - **intoxicating liquor** means alcohol within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **is liable** means is liable on conviction
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
   - **newspaper** means any paper containing public news or observations on public news which is printed for sale or distribution and is published in New Zealand periodically at intervals not exceeding 40 days; but does not include any paper containing only matter wholly of a commercial nature
   - **offence involving violence** means an offence against any of the provisions listed in Schedule 3
   - **Police dog** has the meaning given in section 4 of the Policing Act 2008
@@ -162,6 +162,16 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
 (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, in any public place, without reasonable excuse, has any knife in his or her possession.
 (2) On convicting any person of an offence against subsection (1), the court may order that the knife be forfeited to the Crown.
 
+### 13B Possession of high-power laser pointers
+(1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, in any public place, without reasonable excuse, has any high-power laser pointer in his or her possession.
+(2) On convicting any person of an offence against subsection (1), the court may order that the high-power laser pointer be forfeited to the Crown.
+(3) In this section, high-power laser pointer means a device that,—
+  (a) in the Director-General of Health's opinion, is of the kind commonly known as a laser pointer; and
+  (b) is battery operated; and
+  (c) is designed or intended to be operated while held in the hand; and
+  (d) produces a coherent beam of optical radiation of low divergence; and
+  (e) has a power output of greater than 1 milliwatt.
+
 ### 14 Possession of burglary tools
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, without reasonable excuse, has in his possession any instrument capable of being used for burglary in circumstances that prima facie show an intention to use it for burglary.
 
@@ -189,7 +199,7 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
     (i) a New Zealand passport; or
     (ii) an overseas passport; or
     (iii) a driver licence issued under the Land Transport Act 1998; or
-    (iv) a document of the kind described in section 2A(2)(d) of the Sale of Liquor Act 1989.
+    (iv) a document of the kind described in section 2A(2)﻿(d) of the Sale of Liquor Act 1989.
 
 ### 14B Access to spraycans in shops to be restricted
 (1) This subsection applies to a spraycan if—
@@ -297,7 +307,7 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
 ### 23 Resisting Police, prison, or traffic officer
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who resists or intentionally obstructs, or incites or encourages any other person to resist or obstruct,—
   (a) any constable or any authorised officer, or any prison officer, or any traffic officer, acting in the execution of his duty; or
-  (b) any other person acting in aid of any such constable, authorised officer, prison officer, or traffic officer.
+  (b) any other person acting in aid of any such constable, authorised officer, prison officer, or traffic officer; or
   (c) any Police dog working under the control of a Police dog handler.
 
 ### 24 False allegation or report to Police
