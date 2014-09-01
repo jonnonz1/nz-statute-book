@@ -1,5 +1,5 @@
 # Companies Amendment Act 2014
-_Consolidation as at 2014-07-02_
+_Consolidation as at 2014-09-01_
 
 ### 1 Title
 This Act is the Companies Amendment Act 2014.
