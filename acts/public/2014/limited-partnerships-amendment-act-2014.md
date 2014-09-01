@@ -1,5 +1,5 @@
 # Limited Partnerships Amendment Act 2014
-_Consolidation as at 2014-07-02_
+_Consolidation as at 2014-09-01_
 
 ### 1 Title
 This Act is the Limited Partnerships Amendment Act 2014.
@@ -71,7 +71,7 @@ The following sections are inserted after section 19:Qualifications of general p
   A person who is disqualified from being a general partner but who acts as a general partner is a general partner for the purposes of a provision of this Act that imposes a duty or an obligation on a general partner of a limited partnership.
 
 ### 8 Qualifications of general partners: natural persons
-Section 19A(2)(f) (as inserted by section 7 of this Act) is amended by omitting the Securities Act 1978, the Securities Markets Act 1988, and substituting the Financial Markets Conduct Act 2013.
+Section 19A(2)﻿(f) (as inserted by section 7 of this Act) is amended by omitting the Securities Act 1978, the Securities Markets Act 1988, and substituting the Financial Markets Conduct Act 2013.
 
 ### 9 Application for registration
 (1) Section 52(1) is amended by repealing paragraph (d) and substituting the following paragraphs:.
@@ -105,7 +105,7 @@ Section 19A(2)(f) (as inserted by section 7 of this Act) is amended by omitting 
     (i) a general partner who is a natural person; and
     (ii) a general partner's director, partner, or general partner who is a natural person:
   (ga) the name and address of a general partner who is not a natural person:
-(2) Section 64(3)(c) is amended by inserting and place after date.
+(2) Section 64(3)﻿(c) is amended by inserting and place after date.
 (3) Section 64(3) is amended by repealing paragraph (d) and substituting the following paragraph:
   (d) the name and date and place of birth of—
     (i) a general partner who is a natural person; and
@@ -129,9 +129,9 @@ Section 109(1) is amended by omitting full.
 ### 15 Regulations
 Section 116(1) is amended by inserting the following paragraphs after paragraph (g):.
   (ga) prescribing a country, State, or territory outside New Zealand as an enforcement country for the purposes of section 8(4) if the country, State, or territory has an agreement with New Zealand that allows for the recognition and enforcement there of New Zealand judgments imposing regulatory regime criminal fines:
-  (gb) prescribing countries, States, or territories outside New Zealand for the purposes of section 19A(2)(g):
-  (gc) prescribing countries, States, or territories outside New Zealand for the purposes of section 19A(2)(h):
-  (gd) prescribing information required for the purposes of section 52(1)(d)(iii) and paragraphs (h) and (n) of Schedule 2:
+  (gb) prescribing countries, States, or territories outside New Zealand for the purposes of section 19A(2)﻿(g):
+  (gc) prescribing countries, States, or territories outside New Zealand for the purposes of section 19A(2)﻿(h):
+  (gd) prescribing information required for the purposes of section 52(1)﻿(d)﻿(iii) and paragraphs (h) and (n) of Schedule 2:
 
 **New Schedule 2 added**
 
@@ -149,8 +149,8 @@ Schedule 2 of the principal Act (as inserted by Schedule 1 and section 16 of thi
   (a) arrange for a general partner who complies with the requirements in section 8(4) of the principal Act; and
   (b) in the manner required by the Registrar, notify the Registrar of the following:
     (i) that a general partner complies with the requirements in section 8(4) of the principal Act; and
-    (ii) the information required under section 52(1)(d)(i) to (iii) of the principal Act in relation to that general partner.
-(3) If a limited partnership fails to comply with subsection (2), the limited partnership does not comply with section 8(4) of the principal Act (see section 98A(1)(a) of the principal Act).
+    (ii) the information required under section 52(1)﻿(d)﻿(i) to (iii) of the principal Act in relation to that general partner.
+(3) If a limited partnership fails to comply with subsection (2), the limited partnership does not comply with section 8(4) of the principal Act (see section 98A(1)﻿(a) of the principal Act).
 
 **Transitional provision relating to general and limited partners' place of birth information**
 
@@ -167,14 +167,14 @@ Section 4 is amended by inserting the following definition in its appropriate al
   - **control interest** has the meaning set out in sections 78B to 78E
 
 ### 21 Rectification or correction of register
-Section 61(2) is amended by omitting Before the Registrar rectifies a register under subsection (1)(a), the Registrar must— and substituting Unless a rectification or correction relates solely to the individual who provided it, the Registrar, before rectifying a register under subsection (1)(a), must—.
+Section 61(2) is amended by omitting Before the Registrar rectifies a register under subsection (1)﻿(a), the Registrar must— and substituting Unless a rectification or correction relates solely to the individual who provided it, the Registrar, before rectifying a register under subsection (1)﻿(a), must—.
 
 ### 22 Registrar may note inactivity on register
 (1) Section 63 is amended by omitting the heading and substituting the following heading: Registrar's powers to insert note of inactivity or note of warning on register.
 (2) Section 63 is amended by adding the following subsections as subsections (2) and (3):
   (2) The Registrar may, if the Registrar thinks it is appropriate, insert a note of warning against the entry on a register for a limited partnership in any of the following circumstances:
-    (a) information or documents relating to the limited partnership are subject to a requirement made under section 78(2)(aaa) or (a), 78F, 78G, or 78H:
-    (b) any of the grounds described in section 98A(1)(a) to (f) apply to the limited partnership.
+    (a) information or documents relating to the limited partnership are subject to a requirement made under section 78(2)﻿(aaa) or (a), 78F, 78G, or 78H:
+    (b) any of the grounds described in section 98A(1)﻿(a) to (f) apply to the limited partnership.
   (3) If the Registrar has inserted a note of warning in relation to a limited partnership (limited partnership A) under subsection (2), the Registrar may, if the Registrar thinks it is appropriate, also insert a note of warning in relation to any other limited partnership that shares a general partner with limited partnership A.
 
 ### 23 New section 63A inserted
@@ -191,7 +191,7 @@ The following section is inserted after section 63:Registrar must remove note of
     (i) confirm that the information is correct; or
     (ii) correct the information:
 (4) Section 78 is amended by inserting the following subsection after subsection (2):
-  (2A) When exercising the powers described in subsection (2)(aaa), the Registrar may specify—
+  (2A) When exercising the powers described in subsection (2)﻿(aaa), the Registrar may specify—
     (a) a particular form in which the confirmation or correction must be provided; and
     (b) a date by which the confirmation or correction must be provided; and
     (c) whether the confirmation or correction must be verified by the production of original documents or certified copies of original documents or by a statutory declaration.
@@ -228,12 +228,12 @@ The following sections and headings are inserted after section 78:Registrar's po
       (c) a share in an industrial and provident society:
       (d) a share in a building society
     - **shareholder** means a holder of a share.
-  (3) For the purposes of subsection (1)(a), director means,—
+  (3) For the purposes of subsection (1)﻿(a), director means,—
     (a) in relation to a company, any person occupying the position of a director of the company by whatever name called:
     (b) in relation to a partnership (other than a limited partnership), any partner:
     (c) in relation to a limited partnership, any general partner:
     (d) in relation to a body corporate or unincorporate other than a company, partnership, or limited partnership, any person occupying a position in the body that is comparable with that of a director of a company.
-  (4) For the purposes of subsection (1)(d), a body corporate (A) is related to another body corporate (B) if—
+  (4) For the purposes of subsection (1)﻿(d), a body corporate (A) is related to another body corporate (B) if—
     (a) B is A's holding company or subsidiary; or
     (b) more than half of A's issued shares (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital) are held by B and bodies corporate that are related to B (whether directly or indirectly, but other than in a fiduciary capacity), or vice versa; or
     (c) more than half of the issued shares (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital) of each of A and B are held by members of the other (whether directly or indirectly, but other than in a fiduciary capacity); or
@@ -249,9 +249,9 @@ The following sections and headings are inserted after section 78:Registrar's po
     (a) control interests that the specified person has in partnership interests of a limited partnership and of the circumstances that give rise to those control interests; or
     (b) powers that the specified person has or may at any time have to acquire a control interest in partnership interests of a limited partnership and of the circumstances that give rise to that control interest; or
     (c) control interests that any other person (who the specified person must identify by name and with current contact details) has in partnership interests of a limited partnership and of the circumstances that give rise to the other person's control interests.
-  (2) However, a matter referred to in subsection (1)(c) need only be disclosed to the extent to which it is known to the specified person required to make the disclosure.
+  (2) However, a matter referred to in subsection (1)﻿(c) need only be disclosed to the extent to which it is known to the specified person required to make the disclosure.
   (3) Subsection (1) applies regardless of whether the partnership interests referred to in subsection (1) have voting rights or not or are issued or yet to be issued.
-  (4) Sections 78B to 78E apply in determining whether or not a person has a power referred to in subsection (1)(b) (and for this purpose every reference in those sections to a control interest must be read as including a reference to the power to acquire a control interest).
+  (4) Sections 78B to 78E apply in determining whether or not a person has a power referred to in subsection (1)﻿(b) (and for this purpose every reference in those sections to a control interest must be read as including a reference to the power to acquire a control interest).
   (5) The person must disclose the information required under subsection (1) in accordance with any specifications under section 78H.
   (6) For the purposes of this section, specified person, in relation to the limited partnership to which the requirement under subsection (1) relates, means—
     (a) a partner in the limited partnership:
@@ -314,7 +314,7 @@ The following sections and headings are inserted after section 78:Registrar's po
       (g) the investigation of matters relating to security under the New Zealand Security Intelligence Service Act 1969:
       (h) any action referred to in paragraphs (a) to (g) taken in respect of legislation of an overseas jurisdiction that is broadly equivalent to the enactments listed in those paragraphs.
 (3) Section 79(2) and (3) are amended by inserting , or in relation to a disclosure under section 78F, 78G, or 78H, after section 78.
-(4) Section 79(3)(a) is amended by omitting (1) or (2) and substituting (1), (1A), (1B), or (2).
+(4) Section 79(3)﻿(a) is amended by omitting (1) or (2) and substituting (1), (1A), (1B), or (2).
 
 ### 27 Inspector's report admissible in liquidation proceedings
 Section 80 is amended by inserting , or in relation to a disclosure under section 78F, 78G, or 78H, after section 78.
@@ -330,11 +330,11 @@ The following section is inserted after section 98:Deregistration by Registrar
     (b) the Registrar has reasonable grounds to believe that—
       (i) the limited partnership is not carrying on business; and
       (ii) there is no proper reason for the limited partnership to continue in existence; or
-    (c) the limited partnership has failed to respond to a requirement made under section 78(2)(aaa) or (a); or
+    (c) the limited partnership has failed to respond to a requirement made under section 78(2)﻿(aaa) or (a); or
     (d) the Registrar has reasonable grounds to believe that the limited partnership, or 1 or more of its general partners, has failed to respond to a requirement made in relation to that or another limited partnership under section 78F, 78G, or 78H; or
     (e) the Registrar has reasonable grounds to believe that the limited partnership, or 1 or more of its general partners, has intentionally provided the Registrar with inaccurate information; or
     (f) the Registrar has reasonable grounds to believe that the limited partnership, or 1 or more of its general partners, has failed to comply with duties relating to the limited partnership under this Act in a persistent or serious way.
-  (2) The Registrar may choose not to proceed with a deregistration despite subsection (1)(e) or (f) applying.
+  (2) The Registrar may choose not to proceed with a deregistration despite subsection (1)﻿(e) or (f) applying.
   (3) Sections 318(4) and (4A), 319, and 321 to 323 of the Companies Act 1993 apply, with such modifications as may be necessary, to the deregistration of a limited partnership under this section as if references to—
     (a) a company were references to a limited partnership:
     (b) a director were references to a general partner:
@@ -409,7 +409,7 @@ The following heading and sections are inserted after section 103:Prohibited and
   (9) The Registrar or the FMA must publish a notice under subsection (8) in the Gazette.
   (10) Every person to whom a notice under subsection (3) is given who fails to comply with the notice commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000.
   (11) In this section, limited partnership includes an overseas limited partnership.
-  (1) This section applies in relation to a limited partnership that has been deregistered on any of the grounds described in section 98A(1)(c), (d), (e), or (f).
+  (1) This section applies in relation to a limited partnership that has been deregistered on any of the grounds described in section 98A(1)﻿(c), (d), (e), or (f).
   (2) The Registrar or the FMA may, by notice in writing given to a person, prohibit that person from being a general partner or promoter of a limited partnership, or being concerned in, or taking part (whether directly or indirectly) in the management of a limited partnership during such period not exceeding 10 years after the date of the notice as is specified in the notice. Every notice must be published in the Gazette.
   (3) The power conferred by subsection (2) may be exercised in relation to any person who the Registrar or the FMA is satisfied was, within a period of 5 years before a notice was given to that person under subsection (4) (whether that period commenced before or after the commencement of this section), a general partner of, or concerned in, or a person who took part in, the management of, a limited partnership to which this section applies, unless that person satisfies the Registrar or the FMA—
     (a) that the acts or omissions of that person were not wholly or partly responsible for the limited partnership being a limited partnership to which this section applies; or
@@ -434,7 +434,7 @@ The following heading and sections are inserted after section 103:Prohibited and
     (b) a creditor of the limited partnership for a debt to that creditor incurred by the limited partnership.
 
 ### 31 Court may disqualify general partners
-(1) Section 103B(3)(c)(i) (as inserted by section 30 of this Act) is amended by omitting or the Companies Act 1955, the Securities Act 1978, the Securities Markets Act 1988 and substituting , the Financial Markets Conduct Act 2013.
+(1) Section 103B(3)﻿(c)﻿(i) (as inserted by section 30 of this Act) is amended by omitting or the Companies Act 1955, the Securities Act 1978, the Securities Markets Act 1988 and substituting , the Financial Markets Conduct Act 2013.
 (2) Section 103B(9) (as inserted by section 30 of this Act) is amended by omitting section 43F of the Securities Markets Act 1988, section 44F of the Takeovers Act 1993, and section 60A of the Securities Act 1978 and substituting section 44F of the Takeovers Act 1993, and subpart 6 of Part 8 of the Financial Markets Conduct Act 2013.
 
 **Consequential amendments to principal Act**
