@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-09-01_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -18,6 +18,8 @@ The purpose of this Act is to repeal the special partnership provisions of the P
 In this Act, unless the context requires otherwise,—
   - **capital contribution** has the meaning given to it in section 37(1)
   - **chief executive** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **company** has the meaning set out in section 2(1) of the Companies Act 1993
+  - **control interest** has the meaning set out in sections 78B to 78E
   - **Court** means the High Court
   - **document** means—
     (a) any material, whether or not it is signed or otherwise authenticated, that bears symbols (including words and figures), images, or sounds or from which symbols, images, or sounds can be derived, and includes—
@@ -25,7 +27,10 @@ In this Act, unless the context requires otherwise,—
       (ii) a book, map, plan, graph, or drawing:
       (iii) a photograph, film, or negative; and
     (b) information electronically recorded or stored, and information derived from that information
+  - **enforcement country** means a country, State, or territory outside New Zealand prescribed for the purposes of section 8(4)
+  - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **overseas company** has the meaning set out in section 2(1) of the Companies Act 1993
   - **overseas limited partnership** means a partnership formed or incorporated outside New Zealand with—
     (a) 1 or more general partners who are liable for all of the debts and liabilities of the partnership; and
     (b) 1 or more limited partners who have only limited liability for the debts and liabilities of the partnership
@@ -62,7 +67,22 @@ A limited partnership is formed only on its registration and continues in existe
 ### 8 Requirements for limited partnership
 (1) A limited partnership must have at least 1 general partner (see section 19) and at least 1 limited partner (see section 20).
 (2) A person may not be both a general partner and a limited partner of the same limited partnership at the same time.
-(3) Subject to subsection (1), a limited partnership may have any number of general partners and limited partners.
+(3) Subject to subsections (1) and (4), a limited partnership may have any number of general partners and limited partners.
+(4) Subject to subsection (5), a limited partnership must have 1 or more of the following:
+  (a) a general partner who is a natural person who—
+    (i) lives in New Zealand; or
+    (ii) lives in an enforcement country and is a director of a company that is registered (except as the equivalent of an overseas company) in that enforcement country:
+  (b) a general partner that is a limited partnership and that has 1 or more general partners who are natural persons who—
+    (i) live in New Zealand; or
+    (ii) live in an enforcement country and are directors of a company that is registered (except as the equivalent of an overseas company) in that enforcement country:
+  (c) a general partner that is a partnership governed by the Partnership Act 1908 and that has 1 or more partners who are natural persons who—
+    (i) live in New Zealand; or
+    (ii) live in an enforcement country and are directors of a company that is registered (except as the equivalent of an overseas company) in that enforcement country:
+  (d) a general partner that is a company:
+  (e) a general partner that is an overseas company registered under the Companies Act 1993 and that has 1 or more directors who are natural persons who—
+    (i) live in New Zealand; or
+    (ii) live in an enforcement country and are directors of a company that is registered (except as the equivalent of an overseas company) in that enforcement country.
+(5) Every natural person who is a general partner, or who is a director, partner, or general partner of a general partner, must be qualified under section 19A.
 
 ### 9 Partnership agreement
 (1) A limited partnership must have a written partnership agreement.
@@ -134,12 +154,35 @@ A person is not affected by, or deemed to have notice or knowledge of the conten
 **Partners in limited partnership**
 
 ### 18 Who may be partner
-(1) Any person may be a partner of a limited partnership.
-(2) A partnership governed by the Partnership Act 1908 or an overseas limited partnership may be a partner of a limited partnership.
+(1) Subject to section 8(4), any person may be a general partner of a limited partnership.
+(1A) Any person may be a limited partner of a limited partnership.
+(2) Subject to subsection (1) and section 8(4), a partnership governed by the Partnership Act 1908 or an overseas limited partnership may be a partner of a limited partnership.
 
 ### 19 General partner
 (1) A general partner is responsible for the management of the limited partnership.
 (2) Subject to the partnership agreement, a general partner may, but does not have to, make a capital contribution to the limited partnership.
+
+### 19A Qualifications of general partners: natural persons
+(1) A natural person who is not disqualified by subsection (2) is qualified to be appointed as a general partner of a limited partnership.
+(2) The following persons are disqualified from being appointed or holding office as a general partner of a limited partnership:
+  (a) a person who is under 18 years of age:
+  (b) a person who is an undischarged bankrupt:
+  (c) a person who is subject to an order made under the Companies Act 1955 that continues to have effect prohibiting him or her from being a director or promoter of, or being concerned or taking part in the management of, a company within the meaning of that Act:
+  (d) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, a company under section 382, 383, 385, or 385AA of the Companies Act 1993:
+  (e) a person who is prohibited from being a general partner or promoter of, or being concerned or taking part in the management of, a limited partnership under section 103A, 103B, 103D, or 103E of this Act:
+  (f) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Securities Act 1978, the Securities Markets Act 1988, or the Takeovers Act 1993:
+  (g) a person who is prohibited from 1 or more of the following under an order made, or a notice given, under a law of a prescribed country, State, or territory outside New Zealand:
+    (i) being a director of an overseas company:
+    (ii) being a promoter of an overseas company:
+    (iii) being concerned or taking part in the management of an overseas company:
+  (h) a person who is prohibited from 1 or more of the following under an order made, or a notice given, under a law of a prescribed country, State, or territory outside New Zealand:
+    (i) being a general partner of an overseas limited partnership:
+    (ii) being a promoter of an overseas limited partnership:
+    (iii) being concerned or taking part in the management of an overseas limited partnership:
+  (i) a person who is subject to a property order made under section 30 or 31 of the Protection of Personal and Property Rights Act 1988.
+
+### 19B Disqualified general partner still has duties or obligations under Act
+A person who is disqualified from being a general partner but who acts as a general partner is a general partner for the purposes of a provision of this Act that imposes a duty or an obligation on a general partner of a limited partnership.
 
 ### 20 Limited partner
 (1) A limited partner must not take part in the management of the limited partnership.
@@ -351,8 +394,13 @@ Subject to the partnership agreement, a limited partner does not owe the limited
   (a) be made in the prescribed form (if any); and
   (b) contain the prescribed information; and
   (c) be accompanied by the consent in writing of each proposed general partner to registration; and
-  (d) state the date of birth of each proposed general partner (where applicable); and
-  (e) contain a list of the names, dates of birth (where applicable), and addresses of the proposed limited partners; and
+  (d) in relation to every natural person who is a proposed general partner or who is a director, partner, or general partner of a proposed general partner, state—
+    (i) his or her full name and date and place of birth; and
+    (ii) his or her residential address; and
+    (iii) if the residential address is in an enforcement country, whether the natural person is a director of a company that is registered (except as the equivalent of an overseas company) in that enforcement country and, if so, the prescribed information; and
+  (da) in relation to every proposed general partner who is not a natural person, state the general partner's name and address; and
+  (e) contain a list of the full names, residential addresses, and dates and places of birth of the proposed limited partners who are natural persons; and
+  (ea) contain a list of the names and addresses of the proposed limited partners who are not natural persons; and
   (f) be accompanied by a certificate by the applicant that the proposed partners of the limited partnership have entered into a partnership agreement that complies with section 10; and
   (g) be accompanied by the prescribed fee (if any).
 (2) For the purposes of subsection (1)(c), the consent of a person may be given by that person’s agent authorised to do so in writing.
@@ -388,12 +436,18 @@ As soon as practicable after registering a limited partnership, the Registrar mu
   (b) the date of its registration:
   (c) its registration number:
   (d) the address of its registered office:
-  (e) the name and address of each general partner:
-  (f) the date of birth of each general partner (where applicable):
-  (g) the name, date of birth (where applicable), and address of each limited partner:
+  (e) the full name and residential address of—
+    (i) every general partner who is a natural person; and
+    (ii) every general partner's director, partner, or general partner who is a natural person:
+  (ea) the name and address of every general partner who is not a natural person:
+  (f) the date and place of birth of—
+    (i) every general partner who is a natural person; and
+    (ii) every general partner's director, partner, or general partner who is a natural person:
+  (g) the full name, residential address, and date and place of birth of every limited partner who is a natural person:
+  (ga) the name and address of every limited partner who is not a natural person:
   (h) its address for service:
   (i) any other prescribed information.
-(2) The information in subsection (1)(f) and (g) must not be able to be searched under section 64 except by the Registrar.
+(2) The information in subsection (1)(f), (g), and (ga) must not be able to be searched under section 64 except by the Registrar.
 (3) The register of overseas limited partnerships must contain, in respect of each overseas limited partnership, the following information:
   (a) the name of the overseas limited partnership:
   (b) its registration number:
@@ -421,7 +475,7 @@ The Registrar must update the information contained in a register as soon as pra
 (1) The Registrar may,—
   (a) on the application of any person, rectify a register if the Registrar is satisfied that any information has been wrongly entered in, or omitted from, that register; or
   (b) if it appears to the Registrar that any particulars have been incorrectly entered in a register, correct those particulars.
-(2) Before the Registrar rectifies a register under subsection (1)(a), the Registrar must—
+(2) Unless a rectification or correction relates solely to the individual who provided it, the Registrar, before rectifying a register under subsection (1)(a), must—
   (a) give written notice to the limited partnership or overseas limited partnership that an application has been made to rectify the register in relation to that limited partnership or overseas limited partnership (including details of that application); and
   (b) give public notice setting out—
     (i) the name of the applicant; and
@@ -438,8 +492,15 @@ The Registrar must update the information contained in a register as soon as pra
   (b) the Registrar may appear and be heard in relation to the application.
 (3) On an application for an order under subsection (1), the Court may, if it is satisfied that any information has been wrongly entered in, or omitted from, the register, make an order that the register be rectified.
 
-### 63 Registrar may note inactivity on register
-The Registrar may insert a note of inactivity against the entry on a register for a limited partnership or an overseas limited partnership if the Registrar believes on reasonable grounds that the limited partnership or overseas limited partnership is inactive.
+### 63 Registrar's powers to insert note of inactivity or note of warning on register
+(1) The Registrar may insert a note of inactivity against the entry on a register for a limited partnership or an overseas limited partnership if the Registrar believes on reasonable grounds that the limited partnership or overseas limited partnership is inactive.
+(2) The Registrar may, if the Registrar thinks it is appropriate, insert a note of warning against the entry on a register for a limited partnership in any of the following circumstances:
+  (a) information or documents relating to the limited partnership are subject to a requirement made under section 78(2)(aaa) or (a), 78F, 78G, or 78H:
+  (b) any of the grounds described in section 98A(1)(a) to (f) apply to the limited partnership.
+(3) If the Registrar has inserted a note of warning in relation to a limited partnership (limited partnership A) under subsection (2), the Registrar may, if the Registrar thinks it is appropriate, also insert a note of warning in relation to any other limited partnership that shares a general partner with limited partnership A.
+
+### 63A Registrar must remove note of warning
+The Registrar must remove a note of warning inserted under section 63 if the Registrar is satisfied that the reasons for inserting it do not exist.
 
 ### 64 Searches of register
 (1) A person may search a register in accordance with this Act or regulations made under this Act.
@@ -450,14 +511,19 @@ The Registrar may insert a note of inactivity against the entry on a register fo
   (d) the address of its registered office:
   (e) its address for service:
   (f) the name of a general partner:
-  (g) the name and address of a general partner:
+  (g) the name and residential address of—
+    (i) a general partner who is a natural person; and
+    (ii) a general partner's director, partner, or general partner who is a natural person:
+  (ga) the name and address of a general partner who is not a natural person:
   (h) the name and address of the person authorised to accept service in New Zealand on behalf of the overseas limited partnership:
   (i) any other prescribed criteria.
 (3) In addition to the criteria in subsection (2), the Registrar may search on the following criteria:
   (a) the name of a limited partner; or
   (b) the name and address of a limited partner; or
-  (c) the name and date of birth of a limited partner; or
-  (d) the name and date of birth of a general partner.
+  (c) the name and date and place of birth of a limited partner; or
+  (d) the name and date and place of birth of—
+    (i) a general partner who is a natural person; and
+    (ii) a general partner's director, partner, or general partner who is a natural person.
 
 ### 65 Search purposes
 A register may be searched—
@@ -465,6 +531,7 @@ A register may be searched—
   (b) by any person for the purpose of determining whether a business organisation is a limited partnership or an overseas limited partnership:
   (c) by any person for determining the address of a limited partnership’s or an overseas limited partnership's place of business:
   (d) by any person for the purpose of determining whether a person is a general partner of a limited partnership or an overseas limited partnership:
+  (da) by any person for the purpose of determining whether the Registrar has inserted a note of warning in relation to a limited partnership:
   (e) by any person for the purpose of facilitating any of the functions or powers of the Registrar, courts, or any other person under this Act or any other enactment.
 
 ### 66 When search breaches information privacy principle
@@ -530,7 +597,11 @@ Any document may be served on a limited partnership by—
 (1) A limited partnership must keep the following records at its registered office:
   (a) the partnership agreement and all amendments to it:
   (b) minutes of all meetings and resolutions of the partners within the last 7 years:
-  (c) a list of the names and last known business, residential, or mailing addresses of each current partner and of each person who has ceased to be a partner within the last 7 years:
+  (c) the full name and residential address of—
+    (i) each current partner who is a natural person; and
+    (ii) each current partner's director, partner, or general partner who is a natural person:
+  (ca) the name and address of each current partner who is not a natural person:
+  (cb) the last known names and addresses required by paragraphs (c) and (ca) in respect of each person who has ceased to be a partner within the last 7 years:
   (d) the capital accounts of each current and former partner for—
     (i) the last 7 completed accounting periods of the limited partnership; or
     (ii) if 7 completed accounting periods have not elapsed since the limited partnership was first registered, the completed accounting periods since registration:
@@ -608,17 +679,8 @@ Sections 75 to 75D do not apply to a limited partnership in relation to an accou
 **Annual return**
 
 ### 76 Annual return
-(1) The general partners of a limited partnership must ensure that there is delivered to the Registrar each year, for registration, during the month allocated to the limited partnership for the purpose, an annual return in the prescribed form.
-(2) The annual return of a limited partnership must state the following information:
-  (a) its name:
-  (b) its registered number:
-  (c) the address of its registered office:
-  (d) its address for service:
-  (e) the names and addresses of the general partners:
-  (f) the names and addresses of general partners who have ceased to be general partners since the last annual return:
-  (g) the names and addresses of the limited partners:
-  (h) the names and addresses of limited partners who have ceased to be limited partners since the last annual return:
-  (i) any other prescribed information.
+(1) The general partners of a limited partnership must ensure that there is delivered to the Registrar each year, for registration, during the month allocated to the limited partnership for the purpose, an annual return in the prescribed form that contains as much of the information specified in Schedule 2 as is prescribed.
+(2)
 (3) The annual return must be dated as at a day within the month during which the return is required to be delivered to the Registrar and the information required to be contained in it must be compiled as at that date.
 (4) The annual return must be signed by a general partner of the limited partnership or by a lawyer or chartered accountant authorised for that purpose.
 (5) On registration of a limited partnership under this Act, the Registrar must allocate a month to the limited partnership for the purposes of this section.
@@ -639,12 +701,21 @@ Sections 75 to 75D do not apply to a limited partnership in relation to an accou
 
 ### 78 Registrar’s powers of inspection
 (1) The Registrar or a person authorised by the Registrar may take any of the steps listed in subsection (2) for the purpose of—
+  (aaa) ascertaining whether information provided to the Registrar is correct; or
   (a) ascertaining whether a limited partnership or a general partner of a limited partnership is complying, or has complied, with this Act; or
-  (b) ascertaining whether the Registrar should exercise any of his or her rights or powers under this Act.
+  (b) ascertaining whether the Registrar should exercise any of his or her rights or powers under this Act; or
+  (c) detecting offences against this Act.
 (2) The steps referred to in subsection (1) are the following:
+  (aaa) requiring a person, in relation to information provided to the Registrar, to—
+    (i) confirm that the information is correct; or
+    (ii) correct the information:
   (a) requiring a person, including a person carrying on the business of banking, to produce for inspection relevant documents within that person’s possession or control:
   (b) inspecting and taking copies of relevant documents:
   (c) taking possession of relevant documents and retaining them for a reasonable time, for the purpose of taking copies.
+(2A) When exercising the powers described in subsection (2)(aaa), the Registrar may specify—
+  (a) a particular form in which the confirmation or correction must be provided; and
+  (b) a date by which the confirmation or correction must be provided; and
+  (c) whether the confirmation or correction must be verified by the production of original documents or certified copies of original documents or by a statutory declaration.
 (3) Nothing in this section limits or affects the Tax Administration Act 1994 or the Statistics Act 1975.
 (4) A person must not obstruct or hinder the Registrar or a person authorised by the Registrar while exercising a power conferred by subsection (1).
 (5) Any person who fails to comply with a requirement under subsection (2) or acts in contravention of subsection (4) commits an offence and is liable on conviction to a fine not exceeding $10,000.
@@ -652,15 +723,144 @@ Sections 75 to 75D do not apply to a limited partnership in relation to an accou
   (a) the limited partnership; or
   (b) money or other property that is, or has been, managed, supervised, controlled, or held in trust by or for the limited partnership.
 
+**Registrar's powers to identify controllers of limited partnership**
+
+### 78A Purpose of sections 78B to 78H
+(1) The purpose of sections 78B to 78H is to ensure that the Registrar may, for law enforcement purposes, obtain adequate, accurate, and timely information on the beneficial ownership and control of limited partnerships in order to conform with New Zealand's obligations under the FATF Recommendations.
+(2) In this section,—
+  - **FATF** means the Financial Action Task Force on Money Laundering established in Paris in 1989
+  - **FATF Recommendations** means the revised Recommendations adopted by FATF at its plenary meeting on 15–17 February 2012.
+
+### 78B Control interests in partnership interests (basic rule)
+(1) In sections 78D to 78F, a person has a control interest in a partnership interest if the person—
+  (a) is a partner; or
+  (b) has a right (other than under the partnership agreement) to any of the following:
+    (i) to share in the assets of the partnership:
+    (ii) to receive a share of the distributions from the partnership:
+    (iii) to receive a share of other benefits provided by the partnership to partners; or
+  (c) has the power to exercise, or to control the exercise of, any decision-making powers arising from the partnership interest (where that partnership interest relates to a general partner); or
+  (d) has the power to acquire or dispose of, or to control the acquisition or disposal of, all or part of a partnership interest (where that partnership interest relates to a general partner).
+(2) Subsection (1) applies regardless of whether the power or control is express or implied, direct or indirect, legally enforceable or not, related to a particular partnership interest or not, exercisable presently or in the future, or exercisable alone or jointly with another person or persons (but a power to cast merely 1 of many votes is not, in itself, a joint power of this kind).
+(3) Subsection (1) applies regardless of whether or not the power or control is or can be made subject to restraint or restriction or is exercisable only on the fulfilment of a condition.
+(4) If 2 or more persons can jointly exercise a power, each of those persons is taken to have that power.
+
+### 78C Extension of basic rule to powers or controls exercisable through trust, agreement, etc
+(1) A person has a power or control referred to in section 78B if the power or control is, or may at any time be, exercised under, by virtue of, by means of, or as a result of a revocation or breach of, a trust or an agreement (or any combination of them).
+(2) Subsection (1) applies regardless of whether or not the trust or agreement is legally enforceable or whether or not the person is a party to it.
+
+### 78D Extension of basic rule to interests held by other persons under control or acting jointly
+(1) A person (A) has a control interest in a partnership interest that another person (B) has if—
+  (a) B or B's directors are accustomed or under an obligation (whether legally enforceable or not) to act in accordance with A's directions, instructions, or wishes in relation to a power or control referred to in section 78B; or
+  (b) A has the power to exercise, or control the exercise of, 20% or more of the votes that may be cast at a meeting of shareholders of B; or
+  (c) A has the power to acquire or dispose of, or to control the acquisition or disposal of, shares that have 20% or more of the votes that may be cast at a meeting of shareholders of B; or
+  (d) A and B are related bodies corporate; or
+  (e) A and B have an agreement, arrangement, or understanding to act in concert in relation to a power or control referred to in section 78B.
+(2) For the purposes of subsection (1),—
+  - **share** includes—
+    (a) a partnership interest in a partnership:
+    (b) a share in a company:
+    (c) a share in an industrial and provident society:
+    (d) a share in a building society
+  - **shareholder** means a holder of a share.
+(3) For the purposes of subsection (1)(a), director means,—
+  (a) in relation to a company, any person occupying the position of a director of the company by whatever name called:
+  (b) in relation to a partnership (other than a limited partnership), any partner:
+  (c) in relation to a limited partnership, any general partner:
+  (d) in relation to a body corporate or unincorporate other than a company, partnership, or limited partnership, any person occupying a position in the body that is comparable with that of a director of a company.
+(4) For the purposes of subsection (1)(d), a body corporate (A) is related to another body corporate (B) if—
+  (a) B is A's holding company or subsidiary; or
+  (b) more than half of A's issued shares (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital) are held by B and bodies corporate that are related to B (whether directly or indirectly, but other than in a fiduciary capacity), or vice versa; or
+  (c) more than half of the issued shares (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital) of each of A and B are held by members of the other (whether directly or indirectly, but other than in a fiduciary capacity); or
+  (d) the businesses of A and B have been so carried on that the separate business of each body corporate, or a substantial part of that business, is not readily identifiable; or
+  (e) there is another body corporate to which A and B are both related.
+
+### 78E Situations not giving rise to control interests
+A person (A) does not have a control interest in a partnership interest under section 78B merely because—
+  (a) the ordinary business of A consists of, or includes, the lending of money or the provision of financial services, or both, and A has the control interest only as security given for the purposes of a transaction entered into in the ordinary course of the business of A; or
+  (b) A is authorised to undertake trading activities on a licensed market and A acts for another person to acquire or dispose of the partnership interest on behalf of that person in the ordinary course of A's business of carrying out those trading activities; or
+  (c) A has been authorised by resolution of the limited partnership's partners (or class of partners) to act as their representative at a particular meeting of partners (or a class of partners), and a copy of the resolution is deposited with the limited partnership before the meeting; or
+  (d) A is appointed as a proxy to vote at a particular meeting of the limited partnership's partners (or a class of partners) and the instrument of A's appointment is deposited with the limited partnership before the meeting; or
+  (e) A is a partner of a limited partnership and the limited partnership's partnership agreement gives the partner pre-emptive rights on the transfer of the partnership interest, if all partners have pre-emptive rights on the same terms.
+
+### 78F Registrar may require persons to disclose control interests and powers to get control interests
+(1) The Registrar (or a person authorised by the Registrar) may, by notice given after having regard to the purpose in section 78A, require a specified person to disclose full details of all (or any class of)—
+  (a) control interests that the specified person has in partnership interests of a limited partnership and of the circumstances that give rise to those control interests; or
+  (b) powers that the specified person has or may at any time have to acquire a control interest in partnership interests of a limited partnership and of the circumstances that give rise to that control interest; or
+  (c) control interests that any other person (who the specified person must identify by name and with current contact details) has in partnership interests of a limited partnership and of the circumstances that give rise to the other person's control interests.
+(2) However, a matter referred to in subsection (1)(c) need only be disclosed to the extent to which it is known to the specified person required to make the disclosure.
+(3) Subsection (1) applies regardless of whether the partnership interests referred to in subsection (1) have voting rights or not or are issued or yet to be issued.
+(4) Sections 78B to 78E apply in determining whether or not a person has a power referred to in subsection (1)(b) (and for this purpose every reference in those sections to a control interest must be read as including a reference to the power to acquire a control interest).
+(5) The person must disclose the information required under subsection (1) in accordance with any specifications under section 78H.
+(6) For the purposes of this section, specified person, in relation to the limited partnership to which the requirement under subsection (1) relates, means—
+  (a) a partner in the limited partnership:
+  (b) a person named in a previous disclosure under subsection (5) as having a control interest in shares of the limited partnership.
+(7) If a person fails to comply with subsection (5), he or she commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+### 78G Registrar may require disclosure about controllers or delegates of general partners
+(1) The Registrar (or a person authorised by the Registrar) may, by notice given after having regard to the purpose in section 78A, require a specified person to disclose control information in relation to a limited partnership.
+(2) However, control information that is directions or instructions given to any other person need only be disclosed to the extent to which they are known to the specified person.
+(3) A specified person must disclose the information required under subsection (1) in accordance with any specifications under section 78H.
+(4) If a specified person fails to comply with subsection (3), he or she commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(5) For the purposes of this section,—
+  - **control information** , in relation to the limited partnership to which the requirement under subsection (1) relates, means—
+    (a) any directions or instructions relating to the management and administration of the limited partnership given to a specified person (A) (or any other person who is responsible for the management and administration of the limited partnership) by another person (B); or
+    (b) any delegation of powers relating to the management and administration of the limited partnership by a specified person to another person
+  - **director** means,—
+    (a) in relation to a company, any person occupying the position of a director of the company by whatever name called:
+    (b) in relation to a partnership (other than a limited partnership), any partner:
+    (c) in relation to a limited partnership, any general partner:
+    (d) in relation to a body corporate or unincorporate other than a company, partnership, or limited partnership, any person occupying a position in the body that is comparable with that of a director of a company
+  - **specified person** , in relation to the limited partnership to which the requirement under subsection (1) relates, means—
+    (a) a general partner of the limited partnership:
+    (b) a person named in a previous disclosure under subsection (3) concerning that limited partnership.
+
+### 78H Registrar may specify deadlines, form, and verification for information required under section 78F or 78G
+When exercising a power described in section 78F or 78G, the Registrar (or a person authorised by the Registrar) may specify—
+  (a) a particular form in which the information must be provided; and
+  (b) a date by which the information must be provided; and
+  (c) whether the information must be verified by the production of original documents or certified copies of original documents or by a statutory declaration.
+
+**Other matters relating to Registrar's powers**
+
 ### 79 Disclosure of information and reports
-(1) A person authorised by the Registrar for the purpose of section 78 who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must, if directed to do so by the Registrar, give the document, information, or report to—
+(1) A person authorised by the Registrar for the purposes of section 78, 78F, 78G, or 78H who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must, if directed to do so by the Registrar, give the document, information, or report to—
   (a) the Minister; or
   (b) the chief executive; or
   (c) any person authorised by the Registrar to receive the document, information, or report for the purposes of this Act or in connection with the exercise of powers conferred by this Act; or
   (d) a liquidator for the purposes of the liquidation of a limited partnership.
-(2) A person authorised by the Registrar for the purposes of section 78 who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must give the document, information, or report to the Registrar when directed to do so by a person holding that office.
-(3) A person authorised by the Registrar for the purposes of section 78 who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must not disclose that document, information, or report except—
-  (a) in accordance with subsection (1) or (2); or
+(1A) The Registrar or any person authorised by the Registrar may give information disclosed to the Registrar under section 78F or 78G to a government agency for law enforcement purposes if the Registrar is satisfied that the agency has a proper interest in receiving the information.
+(1B) For the purposes of subsection (1A),—
+  - **government agency** means—
+    (a) the Crown Law Office:
+    (b) the Department of Internal Affairs:
+    (c) the Financial Markets Authority:
+    (d) the Government Communications Security Bureau:
+    (e) the Inland Revenue Department:
+    (f) the Ministry of Business, Innovation and Employment:
+    (g) the Ministry of Justice:
+    (h) the New Zealand Customs Service:
+    (i) the New Zealand Security Intelligence Service:
+    (j) the New Zealand Police:
+    (k) the Reserve Bank of New Zealand:
+    (l) the Serious Fraud Office:
+    (m) any international counterpart of the entities in paragraphs (a) to (l)
+  - **law enforcement purposes** means—
+    (a) the administration of this Act and the Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
+    (b) the detection, investigation, and prosecution of—
+      (i) any offence under this Act; or
+      (ii) any offence under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
+      (iii) a money laundering offence (within the meaning of section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009); or
+      (iv) any offence under section 143B of the Tax Administration Act 1994; or
+      (v) any serious offence (within the meaning of section 243(1) of the Crimes Act 1961):
+    (c) the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009:
+    (d) the enforcement of the Misuse of Drugs Act 1975:
+    (e) the enforcement of the Terrorism Suppression Act 2002:
+    (f) the administration of the Mutual Assistance in Criminal Matters Act 1992:
+    (g) the investigation of matters relating to security under the New Zealand Security Intelligence Service Act 1969:
+    (h) any action referred to in paragraphs (a) to (g) taken in respect of legislation of an overseas jurisdiction that is broadly equivalent to the enactments listed in those paragraphs.
+(2) A person authorised by the Registrar for the purposes of section 78, or in relation to a disclosure under section 78F, 78G, or 78H, who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must give the document, information, or report to the Registrar when directed to do so by a person holding that office.
+(3) A person authorised by the Registrar for the purposes of section 78, or in relation to a disclosure under section 78F, 78G, or 78H, who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must not disclose that document, information, or report except—
+  (a) in accordance with subsection (1), (1A), (1B), or (2); or
   (b) subject to the approval of the Registrar, with the consent of the person to whom it relates; or
   (c) subject to the approval of the Registrar, for the purposes of this Act or in connection with the exercise of powers conferred by this Act; or
   (d) to the extent that the information, or information contained in the document or report, is available under any Act or in a public document; or
@@ -668,10 +868,10 @@ Sections 75 to 75D do not apply to a limited partnership in relation to an accou
 (4) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 80 Inspector’s report admissible in liquidation proceedings
-Notwithstanding any other Act or rule of law, a report prepared by a person in relation to an inspection carried out by him or her under section 78 is admissible in evidence at the hearing of an application to the Court to appoint a liquidator of a limited partnership.
+Notwithstanding any other Act or rule of law, a report prepared by a person in relation to an inspection carried out by him or her under section 78, or in relation to a disclosure under section 78F, 78G, or 78H, is admissible in evidence at the hearing of an application to the Court to appoint a liquidator of a limited partnership.
 
-### 81 Exercise of powers under section 78 not affected by appeal
-(1) Subject to subsection (2), but notwithstanding any other provision of any Act or any rule of law, where a person appeals or applies to the Court in relation to an act or decision of the Registrar or a person authorised by the Registrar under section 78, until a decision on the appeal or application is given,—
+### 81 Exercise of powers under section 78, 78F, 78G, or 78H not affected by appeal
+(1) Subject to subsection (2), but notwithstanding any other provision of any Act or any rule of law, where a person appeals or applies to the Court in relation to an act or decision of the Registrar or a person authorised by the Registrar under section 78, 78F, 78G, or 78H, until a decision on the appeal or application is given,—
   (a) the Registrar, or that person, may continue to exercise the powers under that section as if no such appeal or application had been made; and
   (b) no person is excused from fulfilling an obligation under that section by reason of that appeal or application.
 (2) If the appeal or application is allowed or granted, as the case may be,—
@@ -751,6 +951,8 @@ No proceedings brought by a partner or in which a partner intervenes, as the cas
   (g) conduct by any partner that, in the Court’s opinion, makes it reasonably impracticable for the other partners to carry on the business in partnership with that person:
   (h) the limited partnership is unable to pay its debts:
   (i) in the opinion of the Court it is just and equitable that the limited partnership terminate.
+  (j) the limited partnership, or 1 or more of its general partners, has intentionally provided the Registrar with inaccurate information:
+  (k) the limited partnership, or 1 or more of its general partners, has failed to comply with duties relating to the company under this Act in a persistent or serious way.
 (2) In subsection (1)(c), a general partner is incapacitated if he or she is a person—
   (a) who is subject to a compulsory treatment order under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
   (b) who is subject to an order under section 10(1)(i) or 31 of the Protection of Personal and Property Rights Act 1988; or
@@ -817,6 +1019,24 @@ On notification of the completion of the liquidation of a limited partnership, t
   (d) the constitution were references to the partnership agreement:
   (e) a board were references to the general partners.
 
+### 98A Deregistration by Registrar
+(1) Subject to this section, the Registrar must deregister a limited partnership if—
+  (a) the limited partnership does not comply with section 8(1) or (4); or
+  (b) the Registrar has reasonable grounds to believe that—
+    (i) the limited partnership is not carrying on business; and
+    (ii) there is no proper reason for the limited partnership to continue in existence; or
+  (c) the limited partnership has failed to respond to a requirement made under section 78(2)(aaa) or (a); or
+  (d) the Registrar has reasonable grounds to believe that the limited partnership, or 1 or more of its general partners, has failed to respond to a requirement made in relation to that or another limited partnership under section 78F, 78G, or 78H; or
+  (e) the Registrar has reasonable grounds to believe that the limited partnership, or 1 or more of its general partners, has intentionally provided the Registrar with inaccurate information; or
+  (f) the Registrar has reasonable grounds to believe that the limited partnership, or 1 or more of its general partners, has failed to comply with duties relating to the limited partnership under this Act in a persistent or serious way.
+(2) The Registrar may choose not to proceed with a deregistration despite subsection (1)(e) or (f) applying.
+(3) Sections 318(4) and (4A), 319, and 321 to 323 of the Companies Act 1993 apply, with such modifications as may be necessary, to the deregistration of a limited partnership under this section as if references to—
+  (a) a company were references to a limited partnership:
+  (b) a director were references to a general partner:
+  (c) a shareholder were references to a partner:
+  (d) the constitution were references to the partnership agreement:
+  (e) a board were references to the general partners.
+
 ### 99 Other provisions of Companies Act 1993 apply to deregistration of limited partnership
 Sections 324 to 326 of the Companies Act 1993 apply, with such modifications as may be necessary, when a limited partnership has been deregistered under this Act as if references to—
   (a) a company were references to a limited partnership:
@@ -854,6 +1074,110 @@ Sections 328 (except section 328(3)(a)) and 329 of the Companies Act 1993 apply,
 (2) On appeal, the Court may—
   (a) confirm, modify, or reverse the Registrar’s act or decision or any part of it:
   (b) exercise any of the powers that could have been exercised by the Registrar in relation to the matter to which the appeal relates.
+
+**Prohibited and disqualified persons**
+
+### 103A Persons prohibited from managing limited partnerships
+(1) The persons described in subsection (2) must not, during the period of 5 years after the relevant conviction or judgment, be a general partner or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a limited partnership, unless that person first obtains the leave of the court which may be given on such terms and conditions as the court thinks fit.
+(2) Subsection (1) applies to the following persons:
+  (a) a person who has been convicted of an offence in connection with the promotion, formation, or management of a company (being an offence that is punishable by a term of imprisonment of not less than 3 months); or
+  (b) a person who has been convicted of an offence under any of sections 377 to 380 of the Companies Act 1993 or of any crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961.
+(3) A person intending to apply for the leave of the court under this section must give to the Registrar not less than 10 days' notice of that person's intention to apply.
+(4) The Registrar, and such other persons as the court thinks fit, may attend and be heard at the hearing of any application under this section.
+(5) A person who acts in contravention of this section, or of any order made under this section, commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000.
+(6) In this section, limited partnership includes an overseas limited partnership that carries on business in New Zealand.
+
+### 103B Court may disqualify general partners
+(1) The court may make an order that a person described in subsection (3) must not, without the leave of the court, be a general partner or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a limited partnership permanently or for a period specified in the order.
+(2) The court may make an order under this section permanent or for a period longer than 10 years only in the most serious of cases for which an order may be made.
+(3) Subsection (1) applies to the following persons:
+  (a) a person who has been convicted of an offence in connection with the promotion, formation, or management of a company (being an offence that is punishable by a term of imprisonment of not less than 3 months), or has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
+  (b) a person who has committed an offence for which the person is liable (whether convicted or not) under Part 21 of the Companies Act 1993; or
+  (c) a person who has, while a director of a company and whether convicted or not,—
+    (i) persistently failed to comply with the Companies Act 1993 or the Companies Act 1955, the Securities Act 1978, the Securities Markets Act 1988, the Takeovers Act 1993, or the takeovers code in force under that Act or, if the company has failed to so comply, persistently failed to take reasonable steps to obtain compliance with those Acts or the code; or
+    (ii) been guilty of fraud in relation to the company or of a breach of duty to the company or a shareholder; or
+    (iii) acted in a reckless or incompetent manner in the performance of his or her duties as director; or
+  (d) a person who has, while a general partner of a limited partnership and whether convicted or not,—
+    (i) persistently failed to comply with this Act or, if the limited partnership has failed to so comply, persistently failed to take reasonable steps to obtain compliance with this Act; or
+    (ii) been guilty of fraud in relation to the limited partnership or of a breach of duty to the limited partnership; or
+    (iii) acted in a reckless or incompetent manner in the performance of his or her duties as general partner; or
+  (e) a person who has been prohibited in a country, State, or territory outside New Zealand from carrying on activities that the court is satisfied are substantially similar to being a director or promoter of, or being concerned or taking part in the management of, a body corporate; or
+  (f) a person who has become of unsound mind.
+(4) A person intending to apply for an order under this section must give not less than 10 days' notice of that intention to the person against whom the order is sought, and on the hearing of the application the last-mentioned person may appear and give evidence or call witnesses.
+(5) An application for an order under this section may be made by the Registrar, the FMA, the Official Assignee, or by the liquidator of the limited partnership, or by a person who is, or has been, a partner or creditor of the limited partnership.
+(6) Subsection (7) applies on the hearing of—
+  (a) an application for an order under this section by the Registrar, the FMA, the Official Assignee, or the liquidator; or
+  (b) an application for leave under this section by a person against whom an order has been made on the application of the Registrar, the FMA, the Official Assignee, or the liquidator.
+(7) The Registrar, the FMA, the Official Assignee, or the liquidator (as the case may be)—
+  (a) must appear and call the attention of the court to any matters that seem to him, her, or it to be relevant; and
+  (b) may give evidence or call witnesses.
+(8) An order may be made under this section even though the person concerned may be criminally liable in respect of the matters on the ground of which the order is to be made.
+(9) If conduct by a person constitutes grounds for making an order under any 1 or more of this section, section 43F of the Securities Markets Act 1988, section 44F of the Takeovers Act 1993, and section 60A of the Securities Act 1978, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
+(10) The Registrar of the court must, as soon as practicable after the making of an order under this section, give notice to the Registrar that the order has been made and the Registrar must give notice in the Gazette of the name of the person against whom the order is made.
+(11) A person who acts in contravention of this section, or of any order made under this section, commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000.
+(12) In this section, limited partnership includes an overseas limited partnership.
+
+### 103C Liability for contravening section 103A or 103B
+A person who acts as a general partner of a limited partnership in contravention of section 103A or an order made under section 103B is personally liable to—
+  (a) a liquidator of the limited partnership for every unpaid debt incurred by the limited partnership while that person was so acting; and
+  (b) a creditor of the limited partnership for a debt to that creditor incurred by the limited partnership while that person was so acting.
+
+### 103D Registrar or FMA may prohibit persons from managing limited partnerships
+(1) This section applies in relation to a limited partnership—
+  (a) that has been put into liquidation because of its inability to pay its debts as and when they became due:
+  (b) that has ceased to carry on business because of its inability to pay its debts as and when they became due:
+  (c) in respect of which execution is returned unsatisfied in whole or in part:
+  (d) in respect of the property of which a receiver, or a receiver and manager, has been appointed by a court or pursuant to the powers contained in an instrument, whether or not the appointment has been terminated:
+  (e) in respect of which, or the property of which, a person has been appointed as a receiver and manager, or a judicial manager, or a statutory manager, or as a manager, or to exercise control, under or pursuant to any enactment, whether or not the appointment has been terminated:
+  (f) that has entered into a compromise or arrangement with its creditors:
+  (g) that is in voluntary administration in accordance with section 100.
+(2) This section also applies in relation to a limited partnership the liquidation of which has been completed whether or not the limited partnership has been removed from the New Zealand register.
+(3) The Registrar or the FMA may, by notice in writing given to a person, prohibit that person from being a general partner, or promoter of a limited partnership, or being concerned in, or taking part (whether directly or indirectly) in the management of a limited partnership during such period not exceeding 10 years after the date of the notice as is specified in the notice. Every notice must be published in the Gazette.
+(4) The power conferred by subsection (3) may be exercised in relation to—
+  (a) any person who the Registrar or the FMA is satisfied was, within a period of 5 years before a notice was given to that person under subsection (5) (whether that period commenced before or after the commencement of this section), a general partner of, or concerned in, or a person who took part in, the management of, a limited partnership in relation to which this section applies if the Registrar or the FMA is also satisfied that the manner in which its affairs were managed was wholly or partly responsible for the limited partnership being a limited partnership in relation to which this section applies; or
+  (b) any person who the Registrar or the FMA is satisfied was, within a period of 5 years before a notice was given to that person under subsection (5) (whether that period commenced before or after the commencement of this section), a general partner of, or concerned in, or a person who took part in, the management of, 2 or more limited partnerships to which this section applies, unless that person satisfies the Registrar or the FMA—
+    (i) that the manner in which the affairs of all, or all but one, of those limited partnerships were managed was not wholly or partly responsible for them being limited partnerships in relation to which this section applies; or
+    (ii) that it would not be just or equitable for the power to be exercised.
+(5) The Registrar or the FMA must not exercise the power conferred by subsection (3) unless—
+  (a) not less than 10 working days' notice of the fact that the Registrar or the FMA intends to consider the exercise of it is given to the person; and
+  (b) the Registrar or the FMA considers any representations made by the person.
+(6) No person to whom a notice under subsection (3) applies may be a general partner or promoter of a limited partnership, or be concerned or take part (whether directly or indirectly) in the management of a limited partnership.
+(7) Where a person to whom the Registrar or the FMA has issued a notice under subsection (3) appeals against the issue of the notice under this Act or otherwise seeks judicial review of the notice, the notice remains in full force and effect pending the determination of the appeal or review, as the case may be.
+(8) The Registrar or the FMA may, by notice in writing to a person to whom a notice under subsection (3) has been given,—
+  (a) revoke that notice; or
+  (b) exempt that person from the notice in relation to a specified limited partnership or limited partnerships.
+(9) The Registrar or the FMA must publish a notice under subsection (8) in the Gazette.
+(10) Every person to whom a notice under subsection (3) is given who fails to comply with the notice commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000.
+(11) In this section, limited partnership includes an overseas limited partnership.
+
+### 103E Additional power for Registrar or FMA to prohibit persons from being involved in management of limited partnerships
+(1) This section applies in relation to a limited partnership that has been deregistered on any of the grounds described in section 98A(1)(c), (d), (e), or (f).
+(2) The Registrar or the FMA may, by notice in writing given to a person, prohibit that person from being a general partner or promoter of a limited partnership, or being concerned in, or taking part (whether directly or indirectly) in the management of a limited partnership during such period not exceeding 10 years after the date of the notice as is specified in the notice. Every notice must be published in the Gazette.
+(3) The power conferred by subsection (2) may be exercised in relation to any person who the Registrar or the FMA is satisfied was, within a period of 5 years before a notice was given to that person under subsection (4) (whether that period commenced before or after the commencement of this section), a general partner of, or concerned in, or a person who took part in, the management of, a limited partnership to which this section applies, unless that person satisfies the Registrar or the FMA—
+  (a) that the acts or omissions of that person were not wholly or partly responsible for the limited partnership being a limited partnership to which this section applies; or
+  (b) that it would not be just or equitable for the power to be exercised.
+(4) The Registrar or the FMA must not exercise the power conferred by subsection (2) unless—
+  (a) not less than 10 working days' notice of the fact that the Registrar or FMA intends to consider the exercise of it is given to the person; and
+  (b) the Registrar or FMA considers any representations made by the person.
+(5) No person to whom a notice under subsection (2) applies may be a general partner or promoter of a limited partnership, or be concerned or take part (whether directly or indirectly) in the management of a limited partnership.
+(6) Where a person to whom the Registrar or the FMA has issued a notice under subsection (2) appeals against the issue of the notice under this Act or otherwise seeks judicial review of the notice, the notice remains in full force and effect pending the determination of the appeal or review, as the case may be.
+(7) The Registrar or the FMA may, by notice in writing to a person to whom a notice under subsection (2) has been given,—
+  (a) revoke that notice; or
+  (b) exempt that person from the notice in relation to a specified limited partnership or limited partnerships.
+(8) The Registrar or the FMA must publish a notice under subsection (7) in the Gazette.
+(9) Every person to whom a notice under subsection (2) is given who fails to comply with the notice commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000.
+
+### 103F Appeals from FMA's exercise of power under section 103D or 103E
+(1) A person who is aggrieved by the FMA's exercise of a power under section 103D or 103E may appeal to the Court within 15 working days after the date that the notice is published in the Gazette under section 103D(3) or 103E(2), or within any further time as the Court may allow.
+(2) On hearing the appeal, the Court may—
+  (a) confirm, modify, or reverse the FMA's act or decision or any part of it:
+  (b) exercise any of the powers that could have been exercised by the FMA in relation to the matter to which the appeal relates.
+(3) Section 103 provides for appeals from the Registrar's acts or decisions under section 103D or 103E.
+
+### 103G Liability for contravening section 103D or 103E
+If a person acts in contravention of a notice under section 103D or 103E, he or she is personally liable, during the period of contravention, to—
+  (a) a liquidator of the limited partnership for every unpaid debt incurred by the limited partnership; and
+  (b) a creditor of the limited partnership for a debt to that creditor incurred by the limited partnership.
 
 ## Part 3 — Overseas limited partnerships
 
@@ -899,7 +1223,7 @@ A failure by an overseas limited partnership to comply with section 104 does not
 (2) This section is subject to section 34.
 
 ### 109 Use of name by overseas limited partnership
-(1) Every overseas limited partnership that carries on business in New Zealand must ensure that its full name, and the name of the country where it was formed or incorporated, are clearly stated in—
+(1) Every overseas limited partnership that carries on business in New Zealand must ensure that its name, and the name of the country where it was formed or incorporated, are clearly stated in—
   (a) written communications sent by, or on behalf of, the overseas limited partnership; and
   (b) documents issued or signed by, or on behalf of, the overseas limited partnership that evidence or create a legal obligation of the overseas limited partnership.
 (2) For the purposes of subsection (1), a generally recognised abbreviation of a word or words may be used in the name of an overseas limited partnership if it is not misleading to do so.
@@ -979,6 +1303,10 @@ A failure by an overseas limited partnership to comply with section 104 does not
     (ii) change of address for service:
     (iii) change of details in the register:
     (iv) notice of consent of a new general partner to becoming a general partner:
+  (ga) prescribing a country, State, or territory outside New Zealand as an enforcement country for the purposes of section 8(4) if the country, State, or territory has an agreement with New Zealand that allows for the recognition and enforcement there of New Zealand judgments imposing regulatory regime criminal fines:
+  (gb) prescribing countries, States, or territories outside New Zealand for the purposes of section 19A(2)(g):
+  (gc) prescribing countries, States, or territories outside New Zealand for the purposes of section 19A(2)(h):
+  (gd) prescribing information required for the purposes of section 52(1)(d)(iii) and paragraphs (h) and (n) of Schedule 2:
   (h) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) In subsection (1)(a) and (g), prescribing the form includes specifying the content, means of communication, or any other requirement of an application without necessarily specifying the use of a particular form.
 
@@ -1006,4 +1334,37 @@ Schedule 2 of the Privacy Act 1993 is amended by inserting the following item in
 ### 122 Transitional provision for special partnerships
 Part 2 of the Partnerships Act 1908 continues to apply to a special partnership in existence on the commencement of this Act as if that Part had not been repealed, except that a special partnership must not be renewed under section 57 of that Part.
 
-## Schedule  — Activities that do not constitute taking part in management of limited partnership
+## Schedule 1 — Activities that do not constitute taking part in management of limited partnership
+
+## Schedule 2 — Information to be contained in annual return
+
+### 1 Title
+This Act is the Limited Partnerships Amendment Act 2014.
+
+### 2 Commencement
+(1) Except as provided in subsection (2), this Act comes into force 365 days after the date on which it receives the Royal assent unless it is earlier brought into force on a date appointed by the Governor-General by Order in Council.
+(2) Sections 8, 16, 17, 31, and 32 and Schedules 1 to 3 come into force on a date appointed by the Governor-General by Order in Council.
+(3) For the purpose of subsection (2),—
+  (a) 1 or more orders may be made bringing different provisions into force on different dates and for different purposes; and
+  (b) provision includes any item, or any part of an item, in Schedules 1 to 3.
+
+## Part 1 — One or more general partners to live in New Zealand and other measures
+
+**Transitional provision relating to requirement for 1 or more general partners to live in New Zealand, etc**
+
+### 18 Transitional provision relating to requirement for 1 or more general partners to live in New Zealand, etc
+(1) Before the close of the 180th day after the commencement of this section, section 8(4) of the principal Act does not apply to a limited partnership registered before the commencement of this section.
+(2) A limited partnership registered before the commencement of this section that does not comply with the requirements in section 8(4) of the principal Act must, before the close of the 180th day after the commencement of this section, do the following in order to comply with those requirements:
+  (a) arrange for a general partner who complies with the requirements in section 8(4) of the principal Act; and
+  (b) in the manner required by the Registrar, notify the Registrar of the following:
+    (i) that a general partner complies with the requirements in section 8(4) of the principal Act; and
+    (ii) the information required under section 52(1)(d)(i) to (iii) of the principal Act in relation to that general partner.
+(3) If a limited partnership fails to comply with subsection (2), the limited partnership does not comply with section 8(4) of the principal Act (see section 98A(1)(a) of the principal Act).
+
+**Transitional provision relating to general and limited partners' place of birth information**
+
+### 19 Transitional provision relating to general and limited partners' place of birth information
+(1) A limited partnership registered before the commencement of this section must provide the Registrar with the place of birth of each general partner and each limited partner who is a natural person (at the time and in the manner required by the Registrar).
+(2) If a limited partnership fails to comply with subsection (1),—
+  (a) the limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000; and
+  (b) every general partner of the limited partnership commits an offence and is liable on conviction to a fine not exceeding $10,000.
