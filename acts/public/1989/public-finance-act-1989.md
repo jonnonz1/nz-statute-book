@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2014-07-28_
+_Consolidation as at 2014-09-05_
 
 > Title
 
@@ -2269,6 +2269,7 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 | Crown Asset Management Limited |  | ✓ | ✓ | ✓ |  |
 | Crown Fibre Holdings Limited |  |  |  |  |  |
 | Dispute Resolution Services Limited | ✓ | ✓ | ✓ | ✓ |  |
+| Education Payroll Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Health Benefits Limited | ✓ | ✓ | ✓ | ✓ |  |
 | The Network for Learning Limited |  |  |  |  |  |
 | Research and Education Advanced Network New Zealand Limited | ✓ | ✓ | ✓ | ✓ |  |
