@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2014-09-01_
+_Consolidation as at 2014-09-11_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -667,7 +667,9 @@ For the purposes of section 61, a disclosure document is a document that sets ou
   (a) it is not in the best interests of the company or the shareholders; or
   (b) the terms of the offer and, if it is disclosed, the consideration offered for the shares are not fair and reasonable to the company or the shareholders.
 (9) Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in section 373(1).
-(10) If the board of a company fails to comply with subsection (5), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1).
+(10) If a company fails to comply with subsection (6),—
+  (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(1); and
+  (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1).
 
 ### 64 Disclosure document
 (1) For the purposes of section 63, a disclosure document is a document that sets out—
@@ -2370,7 +2372,9 @@ An exemption under section 207L may, if the Registrar thinks fit, apply to an ac
 
 ### 207R Resignation and casual vacancy
 (1) An auditor may resign at any time by giving written notice to the board of the company, and the company must, as soon as practicable, notify its shareholders of the auditor's resignation.
-(2) If a company fails to comply with subsection (1), every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
+(2) If a company fails to comply with subsection (1),—
+  (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(2); and
+  (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2).
 (3) The board of a company may fill any casual vacancy in the office of auditor, but while the vacancy remains the surviving or continuing auditor, if any, may continue to act as auditor.
 
 ### 207S Auditor's fees and expenses
@@ -4057,6 +4061,9 @@ If a licensed insurer may be put into liquidation under or in accordance with th
 (4) The court may appoint a liquidator if it is satisfied that—
   (a) the company is unable to pay its debts; or
   (b) the company or the board has persistently or seriously failed to comply with this Act; or
+  (bb) the company, or 1 or more of its directors or shareholders, has in a persistent or serious way failed to comply with duties relating to the company—
+    (i) under this Act; or
+    (ii) under the Financial Reporting Act 1993 while in force, except that this subparagraph does not apply after 5 years have elapsed after this subparagraph came into force; or
   (c) the company does not comply with section 10; or
   (d) it is just and equitable that the company be put into liquidation.
 (5) The liquidation of a company commences on the date on which, and at the time at which, the liquidator is appointed.
@@ -5770,6 +5777,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (6) section 61(9) (which relates to the procedure for making a certain type of offer to shareholders):
   (7) section 61(10)(a) (which relates to the procedure for making a certain type of offer to shareholders):
   (8) section 63(9) (which relates to stock exchange acquisitions of a company's own shares subject to prior notice to shareholders):
+  (8A) Section 63(10)(a) (which relates to stock exchange acquisitions of a company's own shares subject to prior notice to shareholders):
   (9) section 65(3)(a) (which relates to stock exchange acquisitions of a company's own shares without prior notice to shareholders):
   (10) section 69(6) (which relates to the redemption of shares at the option of a company):
   (11) section 70(4) (which relates to the requirement for a company to satisfy the solvency test on the redemption of shares):
@@ -5789,9 +5797,9 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (25) section 218(2)(a) (which relates to the obligation to provide copies of documents):
   (26) section 221(6) (which relates to approval of an amalgamation proposal):
   (27) section 222(6) (which relates to short form amalgamations):
-  (27A) section 239AEA(3) (which relates to the failure by a company in administration to disclose the fact of administration):
+  (27A) section 239AEB(3) (which relates to the failure by a company in administration to disclose the fact of administration):
   (27B) section 239AW(4) (which relates to attendance by a director at a watershed meeting):
-  (28) section 243(10) (which relates to the duty of a liquidator to summon meetings of creditors).
+  (28) section 243(10) (which relates to the failure of a director to sign a certificate as to solvency).
 (2) A person convicted of an offence against any of the following sections of this Act is liable to a fine not exceeding $10,000:
   (a) section 34(3) (which relates to an alteration to the constitution of a company by the court):
   (b) section 87(4)(a) (which relates to the obligation to keep a share register):
@@ -5802,6 +5810,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (g) section 189(5)(a) (which relates to company records):
   (h) section 195(3)(a) (which relates to the place where accounting records must be kept):
   (i) section 207Q(3)(a) (which relates to the appointment of an auditor):
+  (ia) section 207R(2)(a) (which relates to notification of the resignation of an auditor):
   (j)
   (k) section 215(2)(a) (which relates to public inspection of company records):
   (l) section 216(2)(a) (which relates to inspection of company records by shareholders):
@@ -5820,6 +5829,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (b) section 273(2) (which relates to certain prohibited conduct):
   (c) section 274(2) (which relates to the duty to identify and deliver property).
 (4) A person convicted of an offence against any of the following sections of this Act is liable to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000:
+  (aaa) section 138A(1) (which relates to serious breach of director’s duty to act in good faith and in best interests of company):
   (a) section 304(6) (which relates to false claims by unsecured creditors in liquidations):
   (b) section 305(11) (which relates to false claims by secured creditors in liquidations):
   (c) section 377 (which relates to false statements):
@@ -5827,7 +5837,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (e) section 379 (which relates to falsifying records):
   (f) section 380 (which relates to carrying on business fraudulently or dishonestly incurring debt):
   (g) section 382(4) (which relates to persons prohibited from managing companies):
-  (h) section 383(5) (which relates to acting as a director of a company while prohibited by the court):
+  (h) section 383(6) (which relates to acting as a director of a company while prohibited by the court):
   (i) section 385(9) (which relates to acting as a director of a company or taking part in the management of a company while prohibited by the Registrar or the FMA):
   (j) section 386A(2) (which relates to acting as a director of a phoenix company).
 
@@ -5835,7 +5845,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
 (1) A director of a company who is convicted of an offence against any of the following sections of this Act is liable to a fine not exceeding $5,000:
   (a) section 25(5)(b) (which relates to the use of a company name):
   (b) section 61(10)(b) (which relates to the procedure for making a certain type of offer to shareholders):
-  (c) section 63(10) (which relates to stock exchange acquisitions of a company's own shares subject to prior notice to shareholders):
+  (c) section 63(10)(b) (which relates to stock exchange acquisitions of a company's own shares subject to prior notice to shareholders):
   (d) section 65(3)(b) (which relates to stock exchange acquisitions of a company's own shares without prior notice to shareholders):
   (e) section 71(9)(b) (which relates to special redemptions of shares):
   (f) section 78(9)(b) (which relates to offers of financial assistance in certain cases):
@@ -5853,7 +5863,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (2) section 32(4) (which relates to the adoption and alteration of a constitution):
   (3) section 33(6) (which relates to a new form of constitution):
   (4) section 43(2) (which relates to the obligation of the board to deliver a notice of the issue of shares):
-  (5) section 44(5) (which relates to the issue of shares with the approval of shareholders):
+  (5) section 44(6) (which relates to the issue of shares with the approval of shareholders):
   (6) section 47(9) (which relates to the consideration for which shares are issued):
   (7) section 49(6) (which relates to the consideration for which convertible securities, options, and shares are issued):
   (8) section 58(4) (which relates to the acquisition by a company of its own shares):
@@ -5866,7 +5876,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (15) section 195(3)(b) (which relates to the place where accounting records must be kept):
   (16) section 207Q(3)(b) (which relates to the appointment of an auditor):
   (16A)
-  (17) section 207R(2) (which relates to the notification of the resignation of an auditor):
+  (17) section 207R(2)(b) (which relates to the notification of the resignation of an auditor):
   (18) section 207W(2) (which relates to the attendance of auditors at meetings of shareholders):
   (19) section 208(3) (which relates to the duty to prepare an annual report):
   (20)
