@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2014-09-13_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -23,7 +23,7 @@ In this Act, unless the context otherwise requires,—
     (c) the Registrar of Trade Unions under the Trade Unions Act 1908:
     (d) the Registrar of Friendly Societies and Credit Unions under the Friendly Societies and Credit Unions Act 1982:
     (e) the Commissioner of Designs under the Designs Act 1953:
-    (f) the Commissioner of Patents under the Patents Act 1953:
+    (f) the Commissioner of Patents under the Patents Act 2013:
     (g) the Commissioner of Trade Marks under the Trade Marks Act 2002:
     (h) the Registrar of Companies under the Companies Act 1993:
     (i) the Registrar of Incorporated Societies under Part 2 of the Charitable Trusts Act 1957:
