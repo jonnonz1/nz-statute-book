@@ -1,5 +1,5 @@
 # Administration Act 1969
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-09-13_
 
 > An Act to consolidate and amend certain enactments relating to the administration of the estates of deceased persons
 
@@ -113,18 +113,18 @@ A person who is a killer of a victim for the purposes of the Succession (Homicid
 (5) In the circumstances set out in subsection (4), an attorney does not need to make a separate application for a grant of administration, but may, if the attorney wishes, continue the proceedings in the attorney's own name.
 (6) A grant of administration under subsection (2) continues until—
   (a) the attorney is discharged or removed as administrator under section 21; or
-  (b) the power of attorney ceases to have effect in accordance with section 106 (other than subsection (1)(b)) of the Protection of Personal and Property Rights Act 1988; or
-  (c) the attorney is removed as administrator, as specified in section 9B(3)(b) or section 9B(4).
+  (b) the power of attorney ceases to have effect in accordance with section 106 (other than subsection (1)﻿(b)) of the Protection of Personal and Property Rights Act 1988; or
+  (c) the attorney is removed as administrator, as specified in section 9B(3)﻿(b) or section 9B(4).
 
 ### 9B Further provisions relating to grant of administration to holder of enduring power of attorney
 (1) Where the court has made a grant of administration under section 9A(2), the following provisions of the Protection of Personal and Property Rights Act 1988 do not apply in respect of the attorney's decision to apply for the grant of administration, or any act or omission of the attorney in his or her capacity as administrator of the estate:
   (a) section 101:
-  (b) section 102(2)(a):
-  (c) section 102(2)(c):
-  (d) section 102(2)(d):
-  (e) section 102(2)(e):
-  (f) section 102(2)(f):
-  (g) section 102(2)(g):
+  (b) section 102(2)﻿(a):
+  (c) section 102(2)﻿(c):
+  (d) section 102(2)﻿(d):
+  (e) section 102(2)﻿(e):
+  (f) section 102(2)﻿(f):
+  (g) section 102(2)﻿(g):
   (h) section 103:
   (i) section 105(1).
 (2) If the donor dies while the attorney is acting as administrator, the attorney must, within 3 months after the date of death of the donor, apply to the court for directions relating to whether the attorney may continue to act as administrator.
@@ -489,7 +489,7 @@ In every case where a caveat has been lodged and has neither lapsed nor been wit
 Nothing in section 65 shall prevent any person to whom the money to which that section applies or any part thereof ought to have been paid from pursuing and exercising any remedy for recovery thereof against the person or persons to whom the money has been paid.
 
 ### 67 Other Acts providing for payment without administration not affected
-(1) Nothing in this Act shall affect the powers of any person or body to make any payment to, or register any person to be, the owner of any property in accordance with any of the provisions of section 109 of the Shipping and Seamen Act 1952, section 86 of the Patents Act 1953, section 41 of the Designs Act 1953, section 52 of the Trade Marks Act 2002, or of any other enactment for the time being in force authorising the payment of money belonging to the estate of a deceased person without requiring administration of the estate to be obtained.
+(1) Nothing in this Act shall affect the powers of any person or body to make any payment to, or register any person to be, the owner of any property in accordance with any of the provisions of section 109 of the Shipping and Seamen Act 1952, section 167 of the Patents Act 2013, section 41 of the Designs Act 1953, section 52 of the Trade Marks Act 2002, or of any other enactment for the time being in force authorising the payment of money belonging to the estate of a deceased person without requiring administration of the estate to be obtained.
 (2) Nothing in this Act, other than Part 1A, shall affect the power of any building society, friendly society, industrial and provident society, trustee savings bank, private savings bank, or the Post Office Bank Limited, to make payment of any money or to transfer any property in accordance with a nomination made by any person pursuant to any other enactment.
 
 ### 68 Bondsmen and sureties deemed to be trustees
