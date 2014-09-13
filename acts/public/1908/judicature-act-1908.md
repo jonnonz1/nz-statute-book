@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2014-06-03_
+_Consolidation as at 2014-09-13_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -6568,7 +6568,7 @@ Applications to the court under the following enactments must be made by origina
   (n) section 9A(3) of the Law Reform Act 1936:
   (na) sections 100 and 111 of the Marine and Coastal Area (Takutai Moana) Act 2011:
   (o) section 12(1)(a) of the Minors’ Contracts Act 1969:
-  (p) section 41 of the Patents Act 1953 (subject to Part 22 of these rules):
+  (p) section 112 of the Patents Act 2013 (subject to Part 22 of these rules):
   (q) sections 128, 131, 167, 168, 179, 181, 182, and 186 of the Personal Property Securities Act 1999:
   (r) the Criminal Proceeds (Recovery) Act 2009:
   (s) sections 126, 136, 244, 248, 253, 254, 258, 261, and 357 of the Property Law Act 2007:
@@ -7000,9 +7000,9 @@ After hearing and determining the question of law or fact (or both) in a case st
 
 ### 22.1 Interpretation
 In this Part,—
-  - **Act** means the Patents Act 1953
+  - **Act** means the Patents Act 2013
   - **Commissioner** means the Commissioner of Patents
-  - **journal** means the New Zealand Patent Office Journal
+  - **journal** means the Journal of the Intellectual Property Office of New Zealand
   - **report** means a report by a scientific adviser
   - **respondent’s notice** means a notice given under rule 22.32
   - **scientific adviser** includes—
@@ -7058,8 +7058,8 @@ A scientific adviser’s remuneration must be fixed by the court, and includes�
 
 #### Subpart 2 — Amending specification
 
-### 22.9 Application of subpart to application under section 39
-This subpart applies to an application made by a patentee under section 39 of the Act for an order to amend the patentee’s complete specification.
+### 22.9 Application of subpart to application under section 89
+This subpart applies to an application made by a patentee under section 89 of the Act for an order to amend the patentee’s complete specification.
 
 ### 22.10 Notifying Commissioner
 The patentee must notify the Commissioner of an intention to make an application to amend.
@@ -7092,12 +7092,12 @@ On hearing the interlocutory application, the court must—
 (1) If the court makes an order allowing a specification to be amended,—
   (a) the patentee must immediately lodge a copy of the order with the Commissioner; and
   (b) the Commissioner must advertise the order on 1 occasion in the journal and otherwise as the court may direct.
-(2) A patentee must, if required by the court or the Commissioner, leave a new specification and drawings as amended and prepared under the Patents Regulations 1954 at the Patent Office.
+(2) A patentee must, if required by the court or the Commissioner, leave a new specification and drawings as amended and prepared under the Patents Regulations 2014 at the Intellectual Property Office of New Zealand.
 
 #### Subpart 3 — Revoking patent
 
 ### 22.17 Application by originating application
-(1) An application to the court to revoke a patent under section 41 of the Act (not being an application made in the course of a proceeding) must be by way of an originating application.
+(1) An application to the court to revoke a patent under section 112 of the Act (not being an application made in the course of a proceeding) must be by way of an originating application.
 (2) The originating application must be filed in the registry of the court at Wellington (unless the court otherwise directs).
 
 ### 22.18 Respondent begins proceeding
@@ -7111,9 +7111,9 @@ On hearing the interlocutory application, the court must—
 ### 22.19 Particulars if validity of patent disputed
 Particulars of an objection to the validity of a patent must—
   (a) be delivered with—
-    (i) an application for revocation under section 41 of the Act; or
+    (i) an application for revocation under section 112 of the Act; or
     (ii) a defence in a proceeding for infringement of a patent; or
-    (iii) a counterclaim for revocation under section 70 of the Act; and
+    (iii) a counterclaim for revocation under section 147 of the Act; and
   (b) include the grounds on which the validity of the patent is disputed; and
   (c) include particulars clearly stating issues intended to be raised.
 
@@ -7140,10 +7140,7 @@ In a proceeding for infringement of a patent, the plaintiff must—
   (c) give at least 1 instance of each type of infringement.
 
 ### 22.23 Particulars supplied by defendant
-(1) A defendant in a proceeding for infringement of a patent who intends to rely on a defence that the patentee inserted a condition in a contract that is void (by virtue of section 66 of the Act) must deliver with the defendant’s statement of claim—
-  (a) full particulars of the dates of, and parties to, all contracts on which the defendant intends to rely; and
-  (b) full particulars of the conditions on which the defendant intends to rely.
-(2) The defendant is not entitled to rely on a defence under section 66(2) of the Act if those particulars are not delivered.
+[Repealed]
 
 ### 22.24 Evidence restricted to particulars delivered
 (1) No person may be heard or adduce evidence in support of an alleged infringement, objection, or defence so far as it relates to matters that are not specified in, or are at variance with, the particulars that person has delivered.
