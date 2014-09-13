@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2014-09-13_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -2728,6 +2728,8 @@ Proceedings before the Authority are to be commenced by the lodging of an applic
   (o) objections under section 225 to demand notices:
   (p) orders for interim reinstatement under section 127:
   (q) actions of the type referred to in section 228(1):
+  (qa) disputes about an invention made by an employee (either alone or jointly with any other person) or any patent granted, or to be granted, in respect of that invention:
+  (qb) reviews under section 30 of the Patents Act 2013:
   (r) any other action (being an action that is not directly within the jurisdiction of the court) arising from or related to the employment relationship or related to the interpretation of this Act (other than an action founded on tort):
   (s) determinations under such other powers and functions as are conferred on it by this or any other Act.
 (2) Except as provided in subsection (1)(ca), (cb), (d), (da), and (f), the Authority does not have jurisdiction to make a determination about any matter relating to—
