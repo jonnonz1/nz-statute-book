@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2014-06-24_
+_Consolidation as at 2014-09-13_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -489,8 +489,8 @@ Before the Commissioner makes a decision on an application for the registration 
     (ii) to authorise the use of the trade mark; and
   (b) must contain, or may contain, any other provisions that the Commissioner requires or permits (as the case may be) to be inserted in them (for example, a right of appeal to the Commissioner against the owner's refusal to certify goods or services or to authorise the use of the trade mark in accordance with the regulations).
 
-### 56 Approved regulations must be deposited at Patent Office
-After the Commissioner has approved the draft regulations, the approved regulations that govern the use of the registered certification trade mark must be deposited at the Patent Office for inspection.
+### 56 Approved regulations must be deposited at Intellectual Property Office of New Zealand
+After the Commissioner has approved the draft regulations, the approved regulations that govern the use of the registered certification trade mark must be deposited at the Intellectual Property Office of New Zealand for inspection.
 
 ### Subpart 6 — When registration of trade mark ceases
 
@@ -1672,7 +1672,7 @@ A person who may apply either to the Commissioner or the court for a determinati
   (a) of the following particulars that are within the Commissioner's knowledge:
     (i) the issues:
     (ii) the grounds of any decision given by him or her:
-    (iii) the practice of the Patent Office in similar cases:
+    (iii) the practice of the Intellectual Property Office of New Zealand in similar cases:
     (iv) any other matters that are relevant to the issues; and
   (b) that is signed by the Commissioner.
 (3) The Commissioner's written statement forms part of the evidence in the proceeding.
@@ -1792,6 +1792,9 @@ The functions of the Commissioner are, in accordance with this Act and the regul
 (4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
 (5) Any reference in this Act or the regulations to the Commissioner includes a reference to the delegate in respect of anything delegated to that person.
 
+### 175D Liability of Commissioner and others
+The Commissioner, an Assistant Commissioner, or any other person acting on behalf of the Commissioner is not personally liable for any act or omission done in good faith in the performance or intended performance of the Commissioner's functions, duties, or powers.
+
 ### 176 Hearing before exercise of Commissioner's discretion
 The Commissioner must not exercise any of the Commissioner's discretionary or other powers under this Act or any regulations made under this Act adversely to any person without (if required to do so within the prescribed time) giving the person an opportunity of being heard.
 
@@ -1842,7 +1845,7 @@ No notice of any trust may be entered in the register, and the Commissioner is n
 (1) A person may, on payment of any prescribed fees, search the register—
   (a) during the hours when the office of the Commissioner is open to the public for the transaction of business on a working day; and
   (b) at any other time that the Commissioner allows.
-(2) A certified copy, sealed with the seal of the Patent Office, of an entry in the register must, on payment of any prescribed fee, be given to any person who requires the certified copy.
+(2) A certified copy of an entry in the register must, on payment of any prescribed fee, be given to any person who requires the certified copy.
 
 **Offences relating to register**
 
@@ -1870,23 +1873,20 @@ No notice of any trust may be entered in the register, and the Commissioner is n
 ### 187 No compensation for diminution in rights attaching to trade mark
 No person is entitled to compensation from the Crown in respect of any diminution in the rights that attach to a trade mark that may arise by virtue of the enactment of this Act (for example, the removal of the trade mark from the register).
 
-**Patent Office**
+**Intellectual Property Office of New Zealand**
 
-### 188 Opening and closing of Patent Office
-(1) The Commissioner may, by notice in the prescribed manner,—
-  (a) fix the hours during which the Patent Office is open for the transaction of public business under this Act; and
-  (b) declare the Patent Office closed for the transaction of public business on any day.
-(2) An act or proceeding is in time if—
-  (a) the time prescribed for doing the act or taking the proceeding expires on a day when the Patent Office is closed; and
-  (b) the act or proceeding cannot be done or taken on that day because the Patent Office is closed; and
-  (c) the act or proceeding is done or taken on the next day when the Patent Office is open.
+### 188 Opening hours of Intellectual Property Office of New Zealand
+(1) The Commissioner may—
+  (a) fix the opening hours for the Intellectual Property Office of New Zealand; and
+  (b) declare the Intellectual Property Office of New Zealand closed on any day.
+(2) The Commissioner must publicly notify those opening hours, and (before closing the Intellectual Property Office of New Zealand) any closure, in accordance with section 5(3) of the Patents Act 2013.
+(3) A thing that must or may be done on a particular day or within a limited period of time may, if that day or the last day of that period is not an opening day of the Intellectual Property Office of New Zealand, be done on the next opening day (and is then still in time).
 
-### 189 Closing of Patent Office at short notice
-(1) Despite section 188, the Commissioner may, without giving notice of the closure of the Patent Office in the prescribed manner, declare the Patent Office closed for the transaction of business if,—
-  (a) because of an emergency or other temporary circumstances, the Commissioner is satisfied that it is or will be necessary or desirable to close the Patent Office on any day; and
-  (b) it is not practicable to give notice of the closure in the prescribed manner.
-(2) If the Commissioner proposes to declare or has declared the Patent Office closed under subsection (1), the Commissioner must, if practicable, display a public notice of that fact in or on the building in which the Patent Office is situated.
-(3) As soon as practicable, the Commissioner must also cause a copy of the public notice, or (if no such notice was displayed) a notice of the exercise of his or her powers under this section, to be published in the prescribed manner.
+### 189 Closing of Intellectual Property Office of New Zealand at short notice
+(1) The Commissioner may declare the Intellectual Property Office of New Zealand closed without giving publication of the closure under section 188 if—
+  (a) he or she thinks it necessary or desirable because of an emergency or other temporary circumstances; and
+  (b) it is not practicable to make that prior publication.
+(2) The Commissioner must, as soon as practicable after closing the Intellectual Property Office of New Zealand, publicly notify the closure in accordance with section 5(3) of the Patents Act 2013.
 
 **Personal representatives**
 
@@ -1956,12 +1956,12 @@ Section 197 does not apply to—
 **Annual report**
 
 ### 198 Annual report by Commissioner of Patents
-The Commissioner of Patents must, in his or her annual report with respect to the operation of the Patents Act 1953, include a report with respect to the operation of this Act as if it formed a part of or was included in that Act.
+[Repealed]
 
 **Regulation-making powers**
 
 ### 199 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:Classification of goods or servicesRegistration of trade marksLicenseesAgentsImportation of infringing goodsProceedingsRegisterFeesExtensions of timeFormsNoticesPatent OfficeGeneral
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:Classification of goods or servicesRegistration of trade marksLicenseesAgentsImportation of infringing goodsProceedingsRegisterFeesExtensions of timeFormsNoticesIntellectual Property Office of New ZealandGeneral
   (a) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the amended or substituted classification of goods or services for the purposes of the registration of trade marks under this Act:
   (b) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of the registration, or renewal or alteration or cancellation, of trade marks under this Act, including—
     (i) providing for the division of an application for the registration of a trade mark into several applications:
@@ -1987,14 +1987,17 @@ The Governor-General may, by Order in Council, make regulations for all or any o
     (i) the inclusion in, or attachment to, forms of specified information or documents:
     (ii) forms to be signed by specified persons:
   (k) prescribing procedures, requirements, and other matters, not inconsistent with this Act, in respect of notices under this Act, including prescribing the matters in respect of which notices are required under this Act:
-  (l) regulating, in a manner not inconsistent with this Act, the business of the Patent Office in relation to trade marks and all things that are under the direction or control of the Commissioner:
+  (l) regulating, in a manner not inconsistent with this Act, the business of the Intellectual Property Office of New Zealand in relation to trade marks and all things that are under the direction or control of the Commissioner:
   (m) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) The structure of the fee system under this Act prescribed by regulations under subsection (1) may be such that any renewal fees—
+  (a) recover a share of the costs incurred by the Commissioner in performing his or her functions under this Act; and
+  (b) recover those costs at a level that provides an appropriate incentive for persons to let registrations of trade marks lapse if they do not receive sufficient benefit from having the registration.
 
 ### 199A Regulations: Madrid Protocol
 The Governor-General may, by Order in Council, make regulations for the purpose of giving effect in New Zealand to the Madrid Protocol, including providing for any of the following:
-  (a) making applications for international registration by way of the Patent Office as office of origin:
+  (a) making applications for international registration by way of the Intellectual Property Office of New Zealand as office of origin:
   (b) procedures to be followed where the basic New Zealand application for registration ceases to be in force:
-  (c) procedures to be followed where the Patent Office receives from the International Bureau, or any body specified in the regulations, a request for extension of protection to New Zealand:
+  (c) procedures to be followed where the Intellectual Property Office of New Zealand receives from the International Bureau, or any body specified in the regulations, a request for extension of protection to New Zealand:
   (d) the effects of a successful request for extension of protection to New Zealand:
   (e) transforming an application for an international registration, or an international registration, into a national application for registration:
   (f) communicating information to the International Bureau:
