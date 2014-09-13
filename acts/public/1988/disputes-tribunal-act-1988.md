@@ -1,5 +1,5 @@
 # Disputes Tribunals Act 1988
-_Consolidation as at 2014-04-14_
+_Consolidation as at 2014-09-13_
 
 > An Act to consolidate and amend the Small Claims Tribunals Act 1976
 
@@ -15,7 +15,7 @@ In this Act, unless the context otherwise requires,—
     (b) proceedings have been—
       (i) commenced in a Tribunal under section 24(1); or
       (ii) transferred to a Tribunal under section 24(3) or (4) or section 37
-  - **intellectual property** means any property right constituted by the Patents Act 1953, the Designs Act 1953, the Trade Marks Act 2002, the Copyright Act 1994, or the Plant Variety Rights Act 1987
+  - **intellectual property** means any property right constituted by the Patents Act 2013, the Designs Act 1953, the Trade Marks Act 2002, the Copyright Act 1994, or the Plant Variety Rights Act 1987
   - **Investigator** means a person appointed under section 41(1) to inquire into, and report to a Tribunal upon, any matter of fact
   - **Minister** means the Minister of Justice
   - **no claims bonus** means a reduction in any premium payable by an insured under a contract of insurance, being a reduction that is made if the insured does not make a claim, or more than a certain number of claims, under that contract, or does not make a claim, or more than a certain number of claims, of a particular kind under that contract
