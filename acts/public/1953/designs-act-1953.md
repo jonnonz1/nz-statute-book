@@ -1,5 +1,5 @@
 # Designs Act 1953
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-09-13_
 
 > An Act to consolidate and amend certain enactments relating to designs
 
@@ -18,7 +18,8 @@ _Consolidation as at 2013-07-01_
   - **court** means the High Court
   - **design** means features of shape, configuration, pattern, or ornament applied to an article by any industrial process or means, being features which in the finished article appeal to and are judged solely by the eye; but does not include a method or principle of construction or features of shape or configuration which are dictated solely by the function which the article to be made in that shape or configuration has to perform
   - **government department** means any department or instrument of the Executive Government of New Zealand
-  - **Journal** means the Patent Office Journal published under subsection (1) of section 112 of the Patents Act 1953
+  - **Journal** means the journal published under section 206 of the Patents Act 2013
+  - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **prescribed** means prescribed by regulations made under this Act
   - **proprietor** has the meaning assigned to it by section 6
   - **registered proprietor** means the person or persons for the time being entered in the register of designs as proprietor of the design
@@ -33,16 +34,29 @@ _Consolidation as at 2013-07-01_
   (b) a reference in this Act to the law of a convention country must be read as a reference to the rules of the entity:
   (c) a reference in this Act to the Government of a convention country must be read as a reference to the governing body of the entity.
 
-### 3 Commissioner of Designs
-(1) There may from time to time be appointed under the State Sector Act 1988 some fit person to be the Commissioner of Designs.
-(2) The person who at the commencement of this Act holds the office of Commissioner of Patents, Designs, and Trade Marks under the Patents, Designs, and Trade Marks Act 1921–22 shall be deemed to have been appointed as Commissioner of Designs under this Act.
+### 3 Commissioner and Assistant Commissioners of Designs
+(1) The chief executive of the Ministry must appoint, under the State Sector Act 1988,—
+  (a) the Commissioner of Designs; and
+  (b) as many Assistant Commissioners of Designs as may be necessary for the purposes of this Act.
+(2) These persons are employees of the Ministry, and those appointments may be held separately or in conjunction with any other office in the Ministry.
 
-### 4 Assistant Commissioners of Designs and other officers
-(1) There may from time to time be appointed under the State Sector Act 1988—
-  (a) 1 or more fit persons to be Assistant Commissioners of Designs:
-  (b) such other officers and employees as may be necessary for carrying out the purposes of this Act.
-(2) Every Assistant Commissioner of Designs so appointed, while he remains in office, shall have and may exercise, subject to the control and direction of the Commissioner, all the powers, duties, and functions of the Commissioner, and every reference in this or any other Act to the Commissioner shall, so far as may be necessary for the purpose of giving effect to the provisions of this section, be deemed to include a reference to every Assistant Commissioner of Designs.
-(3) The person who at the commencement of this Act holds the office of Deputy Commissioner of Patents, Designs, and Trade Marks under the Patents, Designs, and Trade Marks Act 1921–22 shall be deemed to have been appointed an Assistant Commissioner of Designs under this Act.
+### 4 Powers of Assistant Commissioners of Designs
+(1) An Assistant Commissioner of Designs has the functions, duties, and powers of the Commissioner under this Act (other than the power to delegate under section 4A), but is subject to the control of the Commissioner.
+(2) The fact that an Assistant Commissioner exercises those functions, duties, and powers is conclusive evidence of the authority to do so.
+
+### 4A Power of Commissioner to delegate
+(1) The Commissioner may delegate to any person, either generally or particularly, any of the Commissioner’s functions, duties, and powers (except this power of delegation).
+(2) A delegation—
+  (a) must be in writing; and
+  (b) may be made subject to any restrictions and conditions that the Commissioner thinks fit; and
+  (c) is revocable at any time, in writing; and
+  (d) does not prevent the performance or exercise of a function, duty, or power by the Commissioner.
+(3) A person to whom any functions, duties, or powers are delegated may perform and exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
+(5) Any reference in this Act or the regulations made under this Act to the Commissioner includes a reference to the delegate in respect of anything delegated to that person.
+
+### 4B Liability of Commissioner and others
+The Commissioner, an Assistant Commissioner, or any other person acting on behalf of the Commissioner is not personally liable for any act or omission done in good faith in the performance or intended performance of the Commissioner's functions, duties, or powers.
 
 **Registrable designs and proceedings for registration**
 
@@ -57,7 +71,7 @@ _Consolidation as at 2013-07-01_
 (2) Where a design, or the right to apply a design to any article, becomes vested, whether by assignment, transmission, or operation of law, in any person other than the original proprietor, either alone or jointly with the original proprietor, that other person, or, as the case may be, the original proprietor and that other person, shall be treated for the purposes of this Act as the proprietor of the design or as the proprietor of the design in relation to that article.
 
 ### 7 Proceedings for registration
-(1) An application for the registration of a design shall be made in the prescribed form and shall be filed at the Patent Office in the prescribed manner.
+(1) An application for the registration of a design shall be made in the prescribed form and shall be filed with the Commissioner in the prescribed manner.
 (2) For the purpose of deciding whether a design is new or original the Commissioner may make such searches, if any, as he thinks fit.
 (3) The Commissioner may refuse any application for the registration of a design or may register the design in pursuance of the application without modification or subject to such modifications as he thinks fit.
 (4) An application which, owing to any default or neglect on the part of the applicant, has not been completed so as to enable registration to be effected within such time as may be prescribed shall be deemed to be abandoned.
@@ -76,7 +90,7 @@ _Consolidation as at 2013-07-01_
 
 ### 9 Provisions for ensuring secrecy in respect of designs relevant for defence purposes
 (1) Where, either before or after the commencement of this Act, an application for the registration of a design has been made, and it appears to the Commissioner that the design is one of a class notified to him by the Minister of Defence as relevant for defence purposes, or is in the opinion of the Commissioner likely to be valuable for defence purposes, he may give directions for prohibiting or restricting the publication of information with respect to the design, or the communication of such information to any person or class of persons specified in the directions.
-(2) Regulations may be made under this Act for securing that the representation or specimen of a design in the case of which directions are given under this section shall not be open to inspection at the Patent Office during the continuance in force of the directions.
+(2) Regulations may be made under this Act for securing that the representation or specimen of a design in the case of which directions are given under this section shall not be open to inspection by the public during the continuance in force of the directions.
 (3) Where the Commissioner gives any such directions as aforesaid, he shall give notice of the application and of the directions to the Minister of Defence, and thereupon the following provisions shall have effect, that is to say:
   (a) the Minister of Defence shall, upon receipt of the notice, consider whether the publication of the design would be prejudicial to the defence of New Zealand, and, unless a notice under paragraph (c) has previously been given by the Minister of Defence to the Commissioner, shall reconsider that question before the expiration of 9 months from the date of filing of the application for registration of the design and at least once in every subsequent year:
   (b) for the purpose aforesaid, the Minister of Defence may, at any time after the design has been registered or, with the consent of the applicant, at any time before the design has been registered, inspect the representation or specimen of the design filed in pursuance of the application:
@@ -150,7 +164,7 @@ _Consolidation as at 2013-07-01_
 (4) Where, under subsection (3) of section 16, payments are required to be made by a government department to a registered proprietor in respect of any use of a design, any person being the holder of an exclusive licence under the registered design (not being such a licence as is mentioned in subsection (2) of this section) authorizing him to make that use of the design shall be entitled to recover from the registered proprietor such part (if any) of those payments as may be agreed upon between that person and the registered proprietor, or as may in default of agreement be determined by the court under section 18 to be just having regard to any expenditure incurred by that person—and if, at any time before the amount of any such payment has been agreed upon between the government department and the registered proprietor, that person gives notice in writing of his interest to the department, any agreement as to the amount of that payment shall be of no effect unless it is made with his consent.
   (a) in developing the said design; or
   (b) in making payments to the registered proprietor, other than royalties or other payments determined by reference to the use of the design, in consideration of the licence,—
-(5) In this paragraph exclusive licence means a licence from the registered proprietor which confers on the licensee, or on the licensee and persons authorized by him, to the exclusion of all other persons (including the registered proprietor), any right in respect of the registered design.
+(5) In this section exclusive licence means a licence from the registered proprietor which confers on the licensee, or on the licensee and persons authorized by him, to the exclusion of all other persons (including the registered proprietor), any right in respect of the registered design.
 
 ### 18 Reference of disputes as to Crown use
 (1) Any dispute as to the exercise by a government department or a person authorized by a government department of the powers conferred by section 16, or as to terms for the use of a design for the services of the Crown thereunder, or as to the right of any person to receive any part of a payment made in pursuance of subsection (3) of that section, may be referred to the court by either party to the dispute in such manner as may be prescribed by rules of court.
@@ -221,8 +235,8 @@ Any regulations made under section 22 or section 23, and any order made, directi
 **Register of designs, etc**
 
 ### 25 Register of designs
-(1) There shall be kept at the Patent Office under the control of the Commissioner a register of designs, in which there shall be entered the names and addresses of proprietors of registered designs, notices of assignments and of transmissions of registered designs, and such other matters as may be prescribed or as the Commissioner may think fit.
-(2) Subject to the provisions of this Act and to regulations made thereunder, the register of designs shall, at all convenient times, be open to inspection by the public; and certified copies sealed with the seal of the Patent Office of any entry in the register shall be given to any person requiring them on payment of the prescribed fee.
+(1) There shall be kept under the control of the Commissioner a register of designs, in which there shall be entered the names and addresses of proprietors of registered designs, notices of assignments and of transmissions of registered designs, and such other matters as may be prescribed or as the Commissioner may think fit.
+(2) Subject to the provisions of this Act and to regulations made thereunder, the register of designs shall, at all convenient times, be open to inspection by the public; and certified copies of any entry in the register shall be given to any person requiring them on payment of the prescribed fee.
 (3) The register of designs shall be prima facie evidence of any matters required or authorized by this Act to be entered therein.
 (4) No notice of any trust, whether expressed, implied, or constructive, shall be entered in the register of designs, and the Commissioner shall not be affected by any such notice.
 
@@ -250,18 +264,18 @@ Nothing in sections 25 to 27 affects the operation of the Personal Property Secu
 (4) Any order made by the court under this section shall direct that notice of the order shall be served on the Commissioner in the prescribed manner; and the Commissioner shall, on receipt of the notice, rectify the register accordingly.
 
 ### 29 Power of Commissioner to correct errors
-(1) Where a mistake exists in the register of designs or in any document issued under this Act by reason of any error or omission on the part of the Patent Office, the Commissioner may, in accordance with the provisions of this section, correct the mistake, and for that purpose may require the production of the document.
+(1) Where a mistake exists in the register of designs or in any document issued under this Act by reason of any error or omission on the part of the Commissioner, the Commissioner may, in accordance with the provisions of this section, correct the mistake, and for that purpose may require the production of the document.
 (2) Where the Commissioner proposes to make any such correction as aforesaid he shall give notice of the proposal to the persons who appear to him to be concerned, and shall give them an opportunity to be heard before making the correction.
 (3) Where a mistake exists in the register of designs, or in any application for registration of a design or other document filed in pursuance of such an application, or in any proceedings in connection with any design, by reason of an error or an omission on the part of the proprietor of the design or of the applicant for registration of the design or of any other person concerned, a correction may be made in accordance with the provisions of this section upon a request in writing by any person interested and payment of the prescribed fee. If it appears to the Commissioner that the correction would materially alter the meaning or scope of the document to which the request relates and ought not to be made without notice to persons likely to be affected thereby, he shall require notice of the nature of the proposed correction to be advertised in the prescribed manner.
 (4) Within the prescribed time after any such advertisement as aforesaid, any person interested may give notice to the Commissioner of opposition to the request, and where any such notice of opposition is given the Commissioner shall give notice thereof to the person by whom the request was made, and shall give to him and to the opponent an opportunity to be heard before he decides the case.
 (5) An appeal to the court shall lie from any decision of the Commissioner under this section.
 
 ### 30 Inspection of registered designs
-(1) Subject to the following provisions of this section and to any regulations made in pursuance of subsection (2) of section 9, the representation or specimen of a design registered under this Act shall be open to inspection at the Patent Office on and after the day on which the certificate of registration is issued.
-(2) In the case of a design registered in respect of an article of any class prescribed for the purposes of this subsection, no representation or specimen of the design filed in pursuance of the application shall, until the expiration of such period after the day on which the certificate of registration is issued as may be prescribed in relation to articles of that class, be open to inspection at the Patent Office except by the registered proprietor, a person authorized in writing by the registered proprietor, or a person authorized by the Commissioner or by the court:
+(1) Subject to the following provisions of this section and to any regulations made in pursuance of subsection (2) of section 9, the representation or specimen of a design registered under this Act shall be open to inspection by the public on and after the day on which the certificate of registration is issued.
+(2) In the case of a design registered in respect of an article of any class prescribed for the purposes of this subsection, no representation or specimen of the design filed in pursuance of the application shall, until the expiration of such period after the day on which the certificate of registration is issued as may be prescribed in relation to articles of that class, be open to inspection by the public except by the registered proprietor, a person authorized in writing by the registered proprietor, or a person authorized by the Commissioner or by the court:
   provided that where the Commissioner proposes to refuse an application for the registration of any other design on the ground that it is the same as or differs only in immaterial details or in features which are variants commonly used in the trade, the applicant shall be entitled to inspect the representation or specimen of the first mentioned design filed in pursuance of the application for registration of that design.
 (3) In the case of a design registered in respect of an article of any class prescribed for the purposes of subsection (2), the representation or specimen of the design shall not, during the period prescribed as aforesaid, be inspected by any person by virtue of this section except in the presence of the Commissioner or of a member of his staff acting under him; and except in the case of an inspection authorized by the proviso to that subsection, the person making the inspection shall not be entitled to take a copy of the representation or specimen of the design or any part thereof.
-(4) Where an application for the registration of a design has been abandoned or refused, neither the application for registration nor any representation or specimen of the design filed in pursuance thereof shall at any time be open to inspection at the Patent Office or be published by the Commissioner.
+(4) Where an application for the registration of a design has been abandoned or refused, neither the application for registration nor any representation or specimen of the design filed in pursuance thereof shall at any time be open to inspection by the public or be published by the Commissioner.
 (5) However, nothing in this section prevents the Commissioner from publishing any of the following:
   (a) the date of an application for the registration of a design:
   (b) the number of an application for the registration of a design:
@@ -272,7 +286,7 @@ On the request of any person furnishing such information as may enable the Commi
 
 ### 32 Evidence of entries, documents, etc
 (1) A certificate purporting to be signed by the Commissioner and certifying that any entry which he is authorized by or under this Act to make has or has not been made, or that any other thing which he is so authorized to do has or has not been done, shall be prima facie evidence of the matters so certified.
-(2) A copy of any entry in the register of designs or of any representation, specimen, or document kept in the Patent Office or an extract from the register or any such document, purporting to be certified by the Commissioner and to be sealed with the seal of the Patent Office, shall be admitted in evidence without further proof and without production of the original.
+(2) A copy of, or an extract from, any entry in the register of designs or of any document that is registered or otherwise kept by the Commissioner that purports to be certified as a true copy or extract by the Commissioner is admissible in evidence in legal proceedings as if it were the original.
 
 **Legal proceedings and appeals**
 
@@ -301,14 +315,14 @@ On the request of any person furnishing such information as may enable the Commi
 Without prejudice to any provisions of this Act requiring the Commissioner to hear any party to proceedings thereunder, or to give to any such party an opportunity to be heard, the Commissioner shall give to any applicant for registration of a design an opportunity to be heard before exercising adversely to the applicant any discretion vested in the Commissioner by or under this Act.
 
 ### 37 Commissioner may grant extension of time
-(1) Where by this Act anything is required to be done within a prescribed time, and by reason of delay in the Patent Office the thing is not so done, the Commissioner may extend the time for the doing of the thing.
+(1) Where by this Act anything is required to be done within a prescribed time, and by reason of delay by the Commissioner the thing is not so done, the Commissioner may extend the time for the doing of the thing.
 (2) No fees shall be payable in respect of any extension of time granted under this section.
 (3) The powers conferred on the Commissioner by this section may be exercised notwithstanding that in any case the time limited may have expired.
 
 ### 37A Additional provisions for extending time limits
 (1) The Commissioner may extend the time prescribed in subsection (1) of section 21 for the filing of an application under that section on such terms (if any) as he thinks fit where he is satisfied that the circumstances warrant the extension.
 (2) Notwithstanding subsection (1), the Commissioner shall refuse to grant an extension of time under that subsection if in his opinion—
-  (a) the applicant or his agent has not allowed a reasonable margin of time for the delivery to the Patent Office, by post or otherwise, of any documents relating to the matter in respect of which the application for the extension of time is made; or
+  (a) the applicant or his agent has not allowed a reasonable margin of time for the delivery of any documents relating to the matter in respect of which the application for the extension of time is made; or
   (b) the applicant or his agent has in any other way failed to act with due diligence and prudence in respect of such matter; or
   (c) there has been undue delay in bringing the application for the extension of time or in prosecuting the application.
 (3) Every extension of time granted under this section shall be advertised in the Journal in the prescribed manner.
@@ -328,7 +342,7 @@ Without prejudice to any provisions of this Act requiring the Commissioner to he
 
 ### 39 Evidence before Commissioner
 (1) Subject to regulations made under this Act, the evidence to be given in any proceedings before the Commissioner under this Act may be given by affidavit or statutory declaration; but the Commissioner may if he thinks fit in any particular case take oral evidence instead of or in addition to such evidence as aforesaid, and may allow any witness to be cross-examined on his affidavit or declaration. Any such statutory declaration may, in the event of an appeal under this Act, be used before the court instead of evidence by affidavit, and where so used shall have all the incidents and consequences of evidence by affidavit.
-(2) Subject to any such regulations as aforesaid, the Commissioner shall in respect of requiring the attendance and the examination of witnesses on oath and the discovery and production of documents have the same powers as the Commissioner of Patents has in proceedings under the Patents Act 1953.
+(2) Subject to any such regulations as aforesaid, the Commissioner shall in respect of requiring the attendance and the examination of witnesses on oath and the discovery and production of documents have the same powers as the Commissioner of Patents has in proceedings under the Patents Act 2013.
 (3) Any evidence given on oath before the Commissioner shall be deemed to be given in a judicial proceeding for the purposes of sections 108 and 109 of the Crimes Act 1961.
 (4) Section 111 of the Crimes Act 1961 shall apply to every affidavit and statutory declaration made for the purposes of this Act.
 
@@ -442,31 +456,37 @@ Where by this Act any act has to be done by or to any person in connection with 
 
 **Supplemental**
 
-### 45 Hours of business
-(1) The Commissioner, from time to time by notice in the Journal, may fix the hours during which the Patent Office shall be open for the transaction of public business under this Act, and may declare the Patent Office closed for the transaction of public business on any day.
-(2) Where the time prescribed for doing any act or taking any proceeding expires on a day on which the Patent Office is not open and by reason thereof the act or proceeding cannot be done or taken on that day, the act or proceeding shall be deemed to be in time if done or taken on the next day on which the Patent Office is open.
+### 45 Opening hours of Intellectual Property Office of New Zealand
+(1) The Commissioner may—
+  (a) fix the opening hours for the Intellectual Property Office of New Zealand; and
+  (b) declare the Intellectual Property Office of New Zealand closed on any day.
+(2) The Commissioner must publicly notify those opening hours, and (before closing the Intellectual Property Office of New Zealand) any closure, in accordance with section 5(3) of the Patents Act 2013.
+(3) A thing that must or may be done on a particular day or within a limited period of time may, if that day or the last day of that period is not an opening day of the Intellectual Property Office of New Zealand, be done on the next opening day (and is then still in time).
 
-### 45A Closing of Patent Office at short notice
-(1) Notwithstanding subsection (1) of section 45, where, because of an emergency or other temporary circumstances, the Commissioner is satisfied that it is or will be necessary or desirable to close the Patent Office on any day and it is not practicable to give notice of the closure in the Journal as required by that subsection, the Commissioner may, without giving that notice, declare the Patent Office closed for the transaction of public business on that day in accordance with the provisions of this section.
-(2) In every case where the Commissioner proposes to declare or has declared the Patent Office closed under subsection (1) he shall, if practicable, display a public notice of that fact in or on the building in which the Patent Office is situated.
-(3) As soon as practicable thereafter the Commissioner shall also cause a copy of the public notice, or (if no such notice was displayed) a notice of the exercise of his powers under this section, to be published in the Journal.
+### 45A Closing of Intellectual Property Office of New Zealand at short notice
+(1) The Commissioner may declare the Intellectual Property Office of New Zealand closed without giving publication of the closure under section 45 if—
+  (a) he or she thinks it necessary or desirable because of an emergency or other temporary circumstances; and
+  (b) it is not practicable to make that prior publication.
+(2) The Commissioner must, as soon as practicable after closing the Intellectual Property Office of New Zealand, publicly notify the closure in accordance with section 5(3) of the Patents Act 2013.
 
 ### 46 Regulations
 (1) Subject to the provisions of this Act, the Governor-General may from time to time, by Order in Council, make all such regulations as may in his opinion be necessary or expedient for giving effect to the provisions of this Act and for the due administration thereof.
 (2) Without limiting the general power conferred by subsection (1), it is hereby declared that regulations may be made under this section for all or any of the following purposes:
-  (a) for regulating the business of the Patent Office in relation to designs:
+  (a) for regulating the business of the Intellectual Property Office of New Zealand in relation to designs:
   (b) for regulating all matters by this Act placed under the direction or control of the Commissioner:
-  (c) for prescribing the form of applications for registration of designs and of any representations or specimens of designs or other documents which may be filed at the Patent Office, and for requiring copies to be furnished of any such representations, specimens, or documents:
+  (c) for prescribing the form of applications for registration of designs and of any representations or specimens of designs or other documents which may be filed with the Commissioner, and for requiring copies to be furnished of any such representations, specimens, or documents:
   (ca) for prescribing the manner in which applications may be made under section 12(2):
-  (cb) for regulating the procedure to be followed in connection with a request to the Commissioner under sections 41A to 41F (including providing for when and how requests must be made, the period for giving notice of opposition, penalties payable under section 41F, and the matters referred to in section 41F(2)(b)):
+  (cb) for regulating the procedure to be followed in connection with a request to the Commissioner under sections 41A to 41F (including providing for when and how requests must be made, the period for giving notice of opposition, penalties payable under section 41F, and the matters referred to in section 41F(2)﻿(b)):
   (cc) for regulating the procedure to be followed in connection with a request to the Commissioner under sections 41G to 41J (including providing for when and how requests must be made, the period for giving notice of opposition, and the matters referred to in section 41J(2)):
   (d) for regulating the procedure to be followed in connection with any application or request to the Commissioner or in connection with any proceeding before the Commissioner and for authorizing the rectification of irregularities of procedure:
   (e) for regulating the keeping of the register of designs:
-  (f) for authorizing the publication and sale of copies of representations of designs and other documents in the Patent Office:
+  (f) for authorizing the publication and sale of copies of representations of designs and other documents in the Intellectual Property Office of New Zealand:
   (g) for prescribing classes of persons whom the Commissioner may refuse to recognize as agents in respect of proceedings under this Act:
-  (h) for prescribing matters to be published in the Patent Office Journal:
+  (h) for prescribing matters to be published in the Journal:
   (i) for prescribing anything authorized or required by this Act to be prescribed by regulations.
-(3)
+(3) The structure of the fee system under this Act prescribed by regulations under this section may be such that any fees for an extension of the period of copyright in a registered design under section 12(2)—
+  (a) recover a share of the costs incurred by the Commissioner in performing his or her functions under this Act; and
+  (b) recover those costs at a level that provides an appropriate incentive for persons to not extend that period of copyright if they do not receive sufficient benefit from having the copyright in the registered design.
 
 ### 47 Fees
 (1) There shall be paid in respect of the registration of designs and applications therefor, and in respect of other matters relating to designs arising under this Act, such fees as may from time to time be prescribed by regulations made under this Act, and all such fees shall be paid into a Departmental Bank Account.
@@ -477,7 +497,7 @@ Where by this Act any act has to be done by or to any person in connection with 
 (2) Where any notice is sent by the Commissioner to any person by post as aforesaid, the notice shall be deemed to have been given at the time when the letter containing it would have been delivered in the ordinary course of post.
 
 ### 49 Annual report
-The Commissioner of Patents shall, in his annual report with respect to the operation of the Patents Act 1953, include a report with respect to the operation of this Act as if it formed part of or was included in that Act.
+[Repealed]
 
 ### 50 Application of Act to Tokelau
 This Act shall be in force in Tokelau.
