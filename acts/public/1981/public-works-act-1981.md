@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-09-13_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -25,7 +25,7 @@ In this Act, unless the context otherwise requires,—
   - **drain** means a passage, channel, or pipe on, over, or under the ground for the reception and discharge of stormwater or pollutants, whether continuously or intermittently
   - **Environment Court** means the Environment Court constituted under the Resource Management Act 1991
   - **Government work** means a work or an intended work that is to be constructed, undertaken, established, managed, operated, or maintained by or under the control of the Crown or any Minister of the Crown for any public purpose; and includes land held or to be acquired for the purposes of the Conservation Act 1987 or any of the Acts specified in Schedule 1 of that Act (except the common marine and coastal area), even where the purpose of holding or acquiring the land is to ensure that it remains in an undeveloped state
-  - **intellectual property** includes all property rights constituted by the Patents Act 1953, the Designs Act 1953, the Trade Marks Act 2002, and the Plant Variety Rights Act 1987, and includes any trade secret; but does not include any property rights constituted by the Copyright Act 1994
+  - **intellectual property** includes all property rights constituted by the Patents Act 2013, the Designs Act 1953, the Trade Marks Act 2002, and the Plant Variety Rights Act 1987, and includes any trade secret; but does not include any property rights constituted by the Copyright Act 1994
   - **land** includes any estate or interest in land
   - **local authority** means any regional council, territorial authority, catchment authority or regional water board, harbour board, electric power board, education authority within the meaning of the Education Act 1964, council of any university within the meaning of the Education Act 1989, airport authority, and any other person or body, however designated, having authority, under any Act, to undertake the construction or execution of any public work
   - **local work** means a work constructed or intended to be constructed by or under the control of a local authority, or for the time being under the control of a local authority
