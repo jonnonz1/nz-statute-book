@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2013-07-18_
+_Consolidation as at 2014-09-13_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -65,8 +65,8 @@ This Act is subject to the Limitation Act 2010, and to any other enactment thatâ
 (5) No proceedings shall lie against the Crown by virtue of this section in respect of anything done or omitted to be done by any person while discharging or purporting to discharge any responsibilities of a judicial nature vested in him or her, or any responsibilities which he or she has in connection with the execution of judicial process.
 
 ### 7 Provisions as to industrial property
-(1) Where after the commencement of this Act any servant or agent of the Crown infringes a patent, a registered trade mark, or any copyright in a design, subsisting under the Patents Act 1953 or the Designs Act 1953 or the Trade Marks Act 2002, and the infringement is committed with the authority of the Crown, then, subject to the provisions of this Act, civil proceedings in respect of the infringement shall lie against the Crown.
-(2) Nothing in the last preceding subsection or in any other provision of this Act shall affect the rights of any government department under sections 55 to 57 of the Patents Act 1953 or sections 16 to 19 of the Designs Act 1953, or the rights of any Minister of the Crown under section 26 of the Patents Act 1953.
+(1) Where after the commencement of this Act any servant or agent of the Crown infringes a patent, a registered trade mark, or any copyright in a design, subsisting under the Patents Act 2013 or the Designs Act 1953 or the Trade Marks Act 2002, and the infringement is committed with the authority of the Crown, then, subject to the provisions of this Act, civil proceedings in respect of the infringement shall lie against the Crown.
+(2) Nothing in subsection (1) or in any other provision of this Act affects the rights of any Government Department under subpart 6 of Part 4 of the Patents Act 2013 or sections 16 to 18 of the Designs Act 1953.
 (3) Save as expressly provided by this section, no proceedings shall lie against the Crown by virtue of this Act in respect of the infringement of a patent, a registered trade mark, or of any such copyright as is mentioned in subsection (1).
 
 ### 8 Application of law as to indemnity, contribution, and joint and several tortfeasors
