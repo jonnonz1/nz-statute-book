@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2014-09-13_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -1019,7 +1019,7 @@ New co-op must ensure that redeemable preference shares issued by it under secti
 (2) Subsection (1) does not entitle shareholding farmers to allocate to independent processors in any month other than October a higher percentage of their weekly production than their average weekly allocation to independent processors in October.
 (3) A shareholding farmer who exercises the entitlement in subsection (1) must give new co-op 20 working days’ notice of the arrangements for the collection of milk allocated to independent processors.
 (4) If new co-op requires separate storage, milk supplied to independent processors must be stored in milk vats that are separate from milk vats that store milk for supply to new co-op.
-(5) This section does not apply to milk with a unique feature that is the subject of a right, privilege, or entitlement that is conferred, or acknowledged as valid, by or under the Patents Act 1953.
+(5) This section does not apply to milk with a unique feature that is the subject of a right, privilege, or entitlement that is conferred, or acknowledged as valid, by or under the Patents Act 2013.
 
 ### 109 Sale of milk vats
 (1) A shareholding farmer who withdraws totally from new co-op may require new co-op to sell, and new co-op must sell, a milk vat situated on the withdrawing shareholding farmer’s farm to—
