@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2014-07-22_
+_Consolidation as at 2014-10-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1806,7 +1806,7 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
   (h)
   (i)
   (j)
-(1B) A natural person is not required to furnish a return of income for a tax year and will not receive an income statement from the Commissioner for the year if, in the corresponding income year, the person is a non-resident seasonal worker employed under the recognised seasonal employment scheme.
+(1B) A natural person is not required to furnish a return of income for a tax year and will not receive an income statement from the Commissioner for the year if, in the corresponding income year, the person is a non-resident seasonal worker.
 (2) Subsection (1) does not apply to a natural person who, in the tax year—
   (a) is a non-resident; or
   (b) is a provisional taxpayer; or
