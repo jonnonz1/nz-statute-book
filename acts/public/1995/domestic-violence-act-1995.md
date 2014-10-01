@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2014-03-31_
+_Consolidation as at 2014-10-01_
 
 > An Act to provide greater protection from domestic violence
 
@@ -17,7 +17,6 @@ In this Act, unless the context otherwise requires,—
     (a) a person who applies for an order under this Act on his or her own behalf:
     (b) the person on whose behalf an application for an order is made pursuant to section 9 or section 11 or section 12 or section 73
   - **application without notice** means an application made without notice to the person or persons against whom the application is made
-  - **approved agency** means any organisation (whether incorporated or unincorporated) that is for the time being approved, in accordance with regulations made under this Act, to provide programmes
   - **associated respondent** means a person against whom a protection order applies by virtue of a direction made pursuant to section 17
   - **child** means a person who is under the age of 17 years; but does not include a person who is or has been married or in a civil union or a de facto relationship
   - **child of the applicant’s family** means a child who ordinarily or periodically resides with the applicant (whether or not the child is a child of the applicant and the respondent or of either of them)
@@ -56,14 +55,6 @@ In this Act, unless the context otherwise requires,—
     (a) Australia; or
     (b) any state or territory of Australia; or
     (c) any other country outside New Zealand that is declared, by Order in Council made under section 105, to be a prescribed foreign country
-  - **programme** means a programme—
-    (a) that is for the time being approved in accordance with regulations made under this Act; and
-    (b) that is provided by a programme provider; and
-    (c) that,—
-      (i) in the case of a programme provided to a protected person (other than a child), has the primary objective of promoting (whether by education, information, support, or otherwise) the protection of that person from domestic violence:
-      (ii) in the case of a programme provided to a protected person who is a child, has the primary objective of assisting the child to deal with the effects of domestic violence:
-      (iii) in the case of a programme provided to a respondent or an associated respondent, has the primary objective of stopping or preventing domestic violence on the part of the respondent or, as the case requires, the associated respondent
-  - **programme provider** means a person who is for the time being approved, in accordance with regulations made under this Act, to provide programmes; and includes a person who, in accordance with the terms of the approval of any approved agency, is for the time being authorised to provide programmes
   - **property** , in relation to a person, means property that—
     (a) the person owns; or
     (b) the person does not own but—
@@ -144,8 +135,8 @@ In this Act, unless the context otherwise requires,—
 (2) This Act aims to achieve its object by—
   (a) empowering the court to make certain orders to protect victims of domestic violence:
   (b) ensuring that access to the court is as speedy, inexpensive, and simple as is consistent with justice:
-  (c) providing, for persons who are victims of domestic violence, appropriate programmes:
-  (d) requiring respondents and associated respondents to attend programmes that have the primary objective of stopping or preventing domestic violence:
+  (c) providing, for persons who are victims of domestic violence, appropriate safety programmes:
+  (d) requiring respondents and associated respondents to attend non-violence programmes that have the primary objective of stopping or preventing domestic violence:
   (e) providing more effective sanctions and enforcement in the event that a protection order is breached.
 (3) Any court which, or any person who, exercises any power conferred by or under this Act must be guided in the exercise of that power by the object specified in subsection (1).
 
@@ -227,13 +218,13 @@ Any application for a protection order may seek—
   (b) apply pursuant to section 22 for the modification or discharge of the standard condition relating to weapons:
   (c) apply pursuant to section 46 for a variation or discharge of any special conditions of the protection order:
   (d) apply pursuant to section 47 for the protection order to be discharged:
-  (e) where a direction is made pursuant to section 32 in respect of the respondent, notify the court, in accordance with section 36, that he or she objects to the direction.
+  (e) where a direction is made under section 51D, in respect of the respondent, notify the court, in accordance with section 51E, that he or she objects to the direction.
 (5) Where a protection order is made on an application without notice and, pursuant to section 17, the court directs that the order applies against another person, that associated respondent may,—
   (a) notify the court, in accordance with section 76 (as applied by section 79), that he or she wishes to be heard on whether a final order should be substituted for the temporary protection order, in so far as the order relates to him or her:
   (b) apply pursuant to section 22 for the modification or discharge of the standard condition relating to weapons, in so far as the standard condition relates to him or her:
   (c) apply pursuant to section 46 for a variation or discharge of any special condition of the protection order, in so far as the special condition relates to him or her:
   (d) apply pursuant to section 47 for the protection order to be discharged, in so far as the order relates to him or her:
-  (e) where a direction is made pursuant to section 32 in respect of the associated respondent, notify the court, in accordance with section 36, that he or she objects to the direction.
+  (e) where a direction is made under section 51D, in respect of the associated respondent, notify the court, in accordance with section 51E, that he or she objects to the direction.
 
 **Scope of protection orders**
 
@@ -474,155 +465,58 @@ An interim order made under section 28B ceases to have effect (if it has not cea
 **Programmes**
 
 ### 29 Programmes for protected persons
-(1) Subject to subsection (4), where the court makes a protection order, the applicant may request a Registrar to authorise the provision of a programme to all or any of the following persons:
-  (a) the applicant:
-  (b) a child of the applicant’s family:
-  (c) a specified person.
-(2) Subject to subsection (4), where the court makes a protection order, a specified person (other than a child) may request a Registrar to authorise the provision of a programme to that specified person.
-(3) Subject to subsection (4), where a request is made to a Registrar under subsection (1) or subsection (2), the Registrar must arrange for the matter to be referred to a programme provider without delay.
-(4) The following provisions apply with respect to the making of a request pursuant to this section, and with respect to the authorising of the provision of a programme in response to such a request:
-  (a) where, at the time the protection order is made, the applicant has not made a request pursuant to this section, and the applicant is not legally represented, the Judge or Registrar must cause the applicant to be informed of the applicant’s right to make such a request:
-  (b) a request may be made under this section, on behalf of an applicant, by a representative:
-  (c) subject to paragraphs (d) and (g), a request may be made under this section at any time while the protection order remains in force:
-  (d) a Registrar may not act on any request made after the protection order has been in force for 3 years or more, unless the Registrar is satisfied that there are special circumstances justifying the Registrar so acting:
-  (e) subject to paragraphs (d) and (g), 1 or more requests may be made under this section, by the applicant, in relation to the same protection order:
-  (f) a specified person may not make a request if the applicant has already made a request for a programme to be provided to the specified person:
-  (g) no person is entitled to the provision of more than 1 programme in relation to the same protection order.
-(5) Where, pursuant to this section, a Registrar authorises the provision of a programme to a protected person, the number of programme sessions to be provided are to be determined in accordance with regulations made under this Act, or if no such regulations apply, by the Registrar.
-(6) Every lawyer acting for an applicant for a protection order must,—
-  (a) ensure that the applicant is aware of the applicant’s right to make a request under this section; and
-  (b) where the applicant wishes to exercise that right, take such further steps as the lawyer considers necessary to enable the applicant to do so.
+[Repealed]
 
 ### 30 Commencement of section 29
-(1) Section 29, in so far as that section provides for Registrars to authorise the provision of programmes to persons who are not children, shall come into force on the date appointed pursuant to section 1(2) as the date on which this Act shall come into force.
-(2) Subject to subsection (4), section 29, in so far as that section provides for Registrars to authorise the provision of programmes to children, shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different purposes.
-(3) Without limiting the generality of subsection (2), 1 or more Orders in Council may be made under that subsection appointing different dates in respect of different areas of New Zealand, or in respect of different courts.
-(4) Except where section 29 comes into force, for all purposes, at an earlier date, that section shall, notwithstanding subsection (2) of this section, come into force for all purposes on the expiry of the period of 2 years after the date appointed pursuant to section 1(2) as the date on which this Act shall come into force.
+[Repealed]
 
 ### 31 Joint programme sessions
-A protected person and a respondent, or, as the case may be, a protected person and an associated respondent, cannot be required to attend programme sessions at which the other person is also present.
+[Repealed]
 
 ### 32 Power to direct respondent or associated respondent to attend programme
-(1) On making a protection order, the court must direct the respondent to attend a specified programme, unless the court considers that there is good reason for not making such a direction.
-(2) Where the court makes a direction pursuant to section 17 that a protection order apply against an associated respondent, the court may, if it considers it appropriate in all the circumstances to do so, direct the associated respondent to attend a specified programme.
-(3)
-(4) Without limiting subsection (1), there is good reason not to make a direction under that subsection if there is no programme available that is appropriate for the respondent, having regard to his or her character and personal history and to any other relevant circumstances.
+[Repealed]
 
 ### 33 Terms of direction that respondent or associated respondent attend programme
-(1) When the court makes a direction under section 32, it must state in the direction that the respondent or associated respondent, as the case requires,—
-  (a) attend the programme—
-    (i) for a specified number of sessions in each month; or
-    (ii) for 1 session in each month and for such other session or sessions in each month as the programme provider may from time to time specify; or
-    (iii) for such number of sessions in each month as the programme provider may from time to time specify in accordance with regulations made under this Act, or if no such regulations apply, as determined by the Registrar; and
-  (b) attend the programme for the first time—
-    (i) on the date and at the time and place specified in the direction; or
-    (ii) on a date and at a time and place to be advised by the programme provider as soon as practicable after the direction is made.
-(1A) Subsection (1B) applies if—
-  (a) the court makes a direction under section 32; and
-  (b) the respondent or associated respondent, as the case requires, has not been served with a copy of the protection order at least 10 working days prior to the date specified in the direction for his or her first attendance at the programme.
-(1B) The Registrar may amend the direction made under section 32 to specify that the respondent or associated respondent, as the case requires, attend the programme for the first time on a later date and, if necessary, at a different—
-  (a) time:
-  (b) place.
-(2) The number of programme sessions that are or may be specified under subsection (1) must be determined in accordance with regulations made under this Act (if any).
+[Repealed]
 
 ### 34 Registrar to notify programme provider to whom respondent or associated respondent is referred
-Where the court makes a direction under section 32, the Registrar must ensure that the programme provider to whom the respondent or, as the case requires, the associated respondent is referred is notified, without delay,—
-  (a) that the direction has been made and of the terms of the direction; and
-  (b) of such other information (if any) as is prescribed for the purposes of this paragraph by regulations made under this Act.
+[Repealed]
 
 ### 35 Programme provider to arrange meeting with respondent or associated respondent
-Where, in any direction made under section 32, the court states, pursuant to section 33(1)(b)(ii), that the programme provider is to arrange the date on which, and the time and place at which, the respondent or associated respondent is to attend the programme for the first time, then after being notified pursuant to section 34, the programme provider must, without delay,—
-  (a) arrange to meet the respondent or associated respondent, as the case may be, at such time and place as the programme provider thinks fit; or
-  (b) by notice given in such manner as is prescribed by regulations made under this Act, request the respondent or associated respondent, as the case may be, to attend before the programme provider at a specified time and place.
+[Repealed]
 
 ### 36 Direction to attend programme made on application without notice
-(1) This section applies where the court makes a direction under section 32 on an application without notice.
-(2) Where this section applies,—
-  (a) the direction does not take effect until 10 working days after a copy of the direction is served on the person to whom it relates; and
-  (b) that person may, within those 10 days, notify the court that he or she objects to the direction.
-(3) Where the respondent or associated respondent notifies the court, in accordance with subsection (2)(b), that he or she objects to the direction,—
-  (a) the Registrar must, if the respondent or associated respondent wishes to be heard, assign a hearing date, which must be—
-    (i) as soon as practicable; and
-    (ii) unless there are special circumstances, in no case later than 42 days after receipt of the notice of objection; and
-  (b) the direction is suspended from the date on which the court receives the notice of objection until the court, after considering the person's objection, confirms the direction (whether with or without variation).
-(4) Nothing in this section or section 37 gives the court power to review any order or decision other than the direction to which the notice relates, but nothing in this section limits section 76 or section 79.
+[Repealed]
 
 ### 37 Court may confirm or discharge direction
-(1) After considering an objection made, pursuant to section 36, to a direction, the court may—
-  (a) confirm the direction; or
-  (b) confirm the direction but vary the terms of the direction; or
-  (c) discharge the direction.
-(2) Where, pursuant to subsection (1), the court confirms or varies a direction, then, if the person to whom the direction relates is before the court, the Judge must warn that person that non-compliance with the direction is an offence punishable by imprisonment.
-(3) Failure to give the warning required by subsection (2) does not affect the validity of the direction confirmed or varied.
+[Repealed]
 
 ### 38 Respondent or associated respondent excused from attending
-(1) Where, pursuant to a direction made under section 32, a respondent or an associated respondent is required to attend a programme, a programme provider may in special circumstances, excuse the respondent or, as the case requires, the associated respondent from attendance at any session or sessions.
-(2) Without limiting subsection (1), if a respondent or an associated respondent is unable to attend any session or sessions because of illness or injury, the programme provider, on being satisfied (whether before or after the failure to attend) with the circumstances of the case, may excuse the person from attending that session or those sessions.
-(3) Where, pursuant to this section, a person is excused from attendance at any session, that person must make up the missed session with an additional session, unless the programme provider considers that the person’s absence has not significantly affected the person’s ability to benefit fully from the programme.
+[Repealed]
 
 ### 39 Notice of absence from programme
-(1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under section 32 must, where the respondent or the associated respondent fails to attend any session (except where he or she has been excused from attendance pursuant to section 38), within 7 days of that failure, notify that fact, in writing, to the Registrar.
-(2)
+[Repealed]
 
 ### 40 Notice of conclusion of programme
-(1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under section 32 must, when the programme concludes, notify that fact, in writing and without delay, to the Registrar.
-(2) The notice given under subsection (1) to the Registrar must also state whether or not the respondent or the associated respondent, as the case requires,—
-  (a) was excused from attending any session or sessions, and the reasons for that non-attendance:
-  (b) participated fully in the programme, in particular, by completing any tasks set as part of the programme.
-(3) On receiving notification, pursuant to subsection (1), that the programme has concluded, the Registrar must notify that fact, in writing and without delay, to the applicant for the protection order, or to the applicant’s lawyer.
+[Repealed]
 
 ### 41 Programme provider may request variation of direction
-(1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under section 32 may, at any time during the course of the programme, if the programme provider—by notice in writing to the Registrar, request that the direction be varied by substituting a different programme.
-  (a) believes, on reasonable grounds, that the programme is not appropriate for the respondent or, as the case requires, the associated respondent, having regard to his or her character and personal history and to any other relevant circumstances; or
-  (b) considers that the respondent or, as the case requires, the associated respondent is not participating fully in the programme, and that this is significantly affecting his or her ability to benefit fully from the programme,—
-(2)
+[Repealed]
 
 ### 41A Powers of Registrar on receipt of notice under section 39 or 41
-(1) On receiving a notice under section 39 or 41, the Registrar must, without delay, either—
-  (a) exercise the powers under section 82, as if he or she were the court referred to in that section, to call the respondent or, as the case may be, the associated respondent before the court; or
-  (b) bring the matter to the attention of a Judge so that the Judge may consider whether to exercise the power conferred by section 42 in relation to the respondent or, as the case may be, the associated respondent.
-(2) Where the Registrar exercises the powers under section 82 in the manner allowed by subsection (1)(a) then, subject to any regulations made under this Act, section 82 applies so far as applicable and with the necessary modifications as if the respondent or, as the case may be, the associated respondent, were a witness in the proceedings.
+[Repealed]
 
 ### 42 Judge may call respondent or associated respondent before court
-(1) Where,—a Judge may exercise the powers under section 82 to call the respondent or, as the case may be, the associated respondent before the court; and, subject to any regulations made under this Act, section 82 applies, so far as applicable and with the necessary modifications, as if the person were a witness in proceedings.
-  (a) a respondent or an associated respondent fails to comply in 1 or more respects with a direction made under section 32(1) or section 32(2); or
-  (b) pursuant to section 41A(1)(b), a Registrar brings a matter to the attention of a Judge,—
-(2)
-(3)
-(4)
-(5)
+[Repealed]
 
 ### 42A Respondent or associated respondent called before court
-(1) Where a respondent or an associated respondent appears before the court under section 41A(1)(a) or section 42, the court may, after hearing the respondent or the associated respondent, confirm, vary, or discharge the direction.
-(2) The court may not vary or discharge a direction confirmed or varied under section 37 unless a variation of that direction has been requested under section 41.
-(3) Where the court confirms or varies a direction under subsection (1) and the respondent or, as the case may be, the associated respondent is before the court, the Judge must warn him or her that non-compliance with the direction is an offence punishable by imprisonment.
-(4) Failure to give the warning required by subsection (3) does not affect the validity of the direction confirmed or varied.
+[Repealed]
 
 ### 43 Confidentiality of information disclosed to programme provider
-(1) In this section, unless the context otherwise requires,—
-  - **authority** means an authority given pursuant to section 29
-  - **direction** means a direction made under section 32
-  - **information** includes any statement or admission.
-(2) Subject to subsection (4), a programme provider must not disclose to any other person any information received by the programme provider in the course of carrying out that person’s functions pursuant to any authority or direction.
-(3) Subject to subsection (4), no evidence is admissible in any court, or before any person acting judicially, of any information received by a programme provider in the course of carrying out that person’s functions pursuant to any authority or direction.
-(4) Where any information is received by a programme provider (in this subsection referred to as the principal programme provider) in the course of carrying out that person’s functions pursuant to any authority given, or direction made, in relation to a protection order, nothing in subsection (2) or subsection (3) prohibits the disclosure of that information, where that disclosure is made—
-  (a) for the purposes of giving a notification pursuant to section 39 or section 40 or section 41; or
-  (b) for the purposes of any proceedings under section 42; or
-  (c) for the purposes of the investigation or prosecution of—
-    (i) an offence against section 49A; or
-    (ii) an offence committed or alleged to have been committed in the course of a programme provided by the principal programme provider; or
-  (d) in circumstances in which the principal programme provider believes, on reasonable grounds, that the disclosure is necessary to prevent or lessen a serious and imminent threat to public safety or the safety of any person; or
-  (e) with the authority of the person who disclosed the information to the principal programme provider; or
-  (f) to another programme provider—in each case where the principal programme provider reasonably considers that the disclosure of the information is necessary for the purpose of furthering the primary objective of the programme in relation to which the information is disclosed.
-    (i) who is providing, or is to provide, a programme, pursuant to any authority or direction, to the person who disclosed the information; or
-    (ii) who is providing, or is to provide, a programme, pursuant to an authority, to a person who is a protected person under the protection order; or
-    (iii) who is providing, or is to provide, a programme, pursuant to a direction, to a person who is a respondent or an associated respondent under the protection order,—
-(5) Where any information is disclosed, pursuant to subsection (4)(f), to a programme provider, subsections (2) to (4), so far as applicable and with the necessary modifications, apply as if that information had been received by that programme provider in the course of carrying out that person’s functions pursuant to an authority or a direction.
+[Repealed]
 
 ### 44 Programme providers’ fees and expenses
-Fees for programmes provided pursuant to section 29 or section 32, and reasonable expenses incurred,—
-  (a) may be determined in accordance with regulations made under this Act; and
-  (b) are payable out of public money appropriated by Parliament for the purpose.
+[Repealed]
 
 **Duration, variation, and discharge of protection orders**
 
@@ -637,13 +531,13 @@ Fees for programmes provided pursuant to section 29 or section 32, and reasonabl
 (1) The court may, if it thinks fit, on the application of the applicant or the respondent, vary a protection order—
   (a) by varying or discharging any special condition of the protection order:
   (b) by imposing any special condition:
-  (c) by varying or discharging a direction made pursuant to section 32:
-  (d) by making a direction pursuant to section 32.
+  (c) by varying or discharging a direction made pursuant to section 51D:
+  (d) by making a direction pursuant to section 51D.
 (2) Where a protection order applies against an associated respondent, the court may, if it thinks fit, on the application of the applicant or the associated respondent, vary the protection order, in so far as it relates to the associated respondent,—
   (a) by varying or discharging any special condition of the protection order:
   (b) by imposing any special condition:
-  (c) by varying or discharging a direction made pursuant to section 32:
-  (d) by making a direction pursuant to section 32.
+  (c) by varying or discharging a direction made pursuant to section 51D:
+  (d) by making a direction pursuant to section 51D.
 (3) The court may, if it thinks fit, on the application of the applicant, vary a protection order—
   (a) by directing, pursuant to section 16(2), that the protection order also apply for the benefit of a particular person:
   (b) by directing, pursuant to section 17, that the protection order apply against a particular person.
@@ -681,11 +575,10 @@ Sections 9, 11, and 12, so far as applicable and with the necessary modification
   (b) failing to comply with any condition of the protection order.
 (2) It is a defence in a prosecution for an offence under subsection (1) if the defendant proves that he or she had a reasonable excuse for breaching the protection order.
 (3) Every person who is convicted of an offence against this section is liable to imprisonment for a term not exceeding 3 years.
-(4) To avoid doubt, a failure to comply with a direction made under section 32(1) or (2) to attend a specified programme is not a breach of a protection order under subsection (1)(b).
+(4) To avoid doubt, a failure to comply with a direction made under section 51D is not a breach of a protection order under subsection (1)(b).
 
 ### 49A Offence to fail to comply with direction
-(1) Every person commits an offence who, without reasonable excuse, fails on any occasion to comply with a direction made under section 32(1) or (2) to attend a specified programme.
-(2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000.
+[Repealed]
 
 ### 50 Power to arrest for breach of protection order
 Where a protection order is in force, any constable may arrest, without warrant, any person who the constable has good cause to suspect has—
@@ -726,6 +619,191 @@ In this Part, unless the context otherwise requires,—
 (2) A person or an organisation seeking an approval under subsection (1) must follow the process (if any) prescribed by regulations made under section 127(a)(i).
 (3) In deciding whether to grant, suspend, or cancel an approval under subsection (1), the Secretary must apply the criteria (if any) prescribed by regulations made under section 127(a)(ii).
 (4) The Secretary must publish on an Internet site maintained by or on behalf of the Ministry of Justice a list of service providers.
+
+**Safety programmes**
+
+### 51C Safety programmes for protected persons
+(1) Where the court makes a protection order,—
+  (a) the applicant, or the applicant's representative, may request the Registrar to authorise the provision of a safety programme to all or any of the following persons:
+    (i) the applicant:
+    (ii) a child of the applicant's family:
+    (iii) a specified person; and
+  (b) a specified person (other than a child) may request the Registrar to authorise the provision of a safety programme to that specified person if no request has been made under paragraph (a)(iii).
+(2) Where, at the time the protection order is made, the applicant has not made a request pursuant to this section, and the applicant is not legally represented, the Judge or the Registrar must cause the applicant to be informed of the applicant's right to make such a request.
+(3) A request may be made under subsection (1) at any time while the protection order remains in force.
+(4) Where a request is made to a Registrar under subsection (1), the Registrar must arrange for the matter to be referred to a service provider without delay.
+(5) The number of safety programme sessions to be provided to a protected person by a service provider to whom a referral has been made under subsection (4) is to be determined by the Registrar following discussion with the service provider.
+(6) Every lawyer acting for an applicant for a protection order must—
+  (a) ensure that the applicant is aware of the applicant's right to make a request under this section; and
+  (b) where the applicant wishes to exercise that right, take such further steps as the lawyer considers necessary to enable the applicant to do so.
+
+**Non-violence programmes**
+
+### 51D Direction to attend assessment and non-violence programme
+(1) On making a protection order, the court must direct the respondent to—
+  (a) undertake an assessment; and
+  (b) attend a non-violence programme.
+(2) The court need not make a direction under subsection (1) if—
+  (a) there is no service provider available; or
+  (b) the court considers that there is any other good reason for not making a direction.
+
+### 51E Direction to attend non-violence programme made on application without notice
+(1) This section applies where the court makes a direction under section 51D on an application made without notice.
+(2) Where this section applies,—
+  (a) the direction does not take effect until 10 working days after a copy of the direction is served on the respondent; and
+  (b) the respondent may, within those 10 working days, notify the court that he or she objects to the direction.
+(3) Where the respondent notifies the court, in accordance with subsection (2)(b), that he or she objects to the direction,—
+  (a) the Registrar must, if the respondent wishes to be heard, assign a hearing date, which must be—
+    (i) as soon as practicable; and
+    (ii) unless there are special circumstances, in no case later than 42 days after receipt of the notice of objection; and
+  (b) the direction is suspended from the date on which the court receives the notice of objection until the court, after considering the respondent's objection, confirms (whether with or without variation) or discharges the direction.
+(4) Nothing in this section or section 51F gives the court power to review any order or decision other than the direction to which the notice relates, but nothing in this section limits section 76 or 79.
+
+### 51F Court may confirm or discharge direction after considering objection made under section 51E
+(1) After considering an objection, made under section 51E, to a direction, the court may—
+  (a) confirm the direction; or
+  (b) vary the direction; or
+  (c) discharge the direction.
+(2) Where, pursuant to subsection (1), the court confirms or varies a direction, then, if the respondent is before the court, the Judge must warn the respondent that non-compliance with the direction is an offence punishable by imprisonment.
+(3) Failure to give the warning required by subsection (2) does not affect the validity of the direction confirmed or varied.
+
+### 51G Referral of respondent to service provider
+(1) After the court has made a direction under section 51D, the Registrar must, without delay,—
+  (a) arrange for the respondent to be referred to a service provider; and
+  (b) notify the service provider of the direction made under section 51D.
+(2) This section is subject to section 51E.
+
+### 51H Service provider to meet with respondent
+As soon as possible after receiving a notification under section 51G, the service provider must arrange to meet with the respondent to—
+  (a) undertake an assessment of the respondent; and
+  (b) determine whether there is an appropriate non-violence programme for the respondent to attend.
+
+### 51I Service provider to notify Registrar about safety concerns
+(1) This section applies if a service provider has concerns about the safety of a protected person—
+  (a) after undertaking an assessment of the respondent; or
+  (b) during the provision of a non-violence programme to a respondent.
+(2) The service provider must, without delay, notify the Registrar of those concerns.
+(3) On receiving a notification under subsection (2), the Registrar must—
+  (a) forward a copy of the notification to a Judge; and
+  (b) arrange for the protected person to be advised of the service provider's concerns.
+(4) On receiving a copy of a notification under subsection (3)(a), the Judge may make such orders or directions as the Judge thinks fit in the circumstances.
+
+### 51J Referral to different service provider
+(1) This section applies if a service provider, after undertaking an assessment of the respondent,—
+  (a) determines that there is an appropriate non-violence programme for the respondent to attend; but
+  (b) is not able to provide that programme to the respondent.
+(2) The service provider must—
+  (a) notify the Registrar; and
+  (b) send to the Registrar the following information:
+    (i) the result of the assessment of the respondent undertaken by the service provider; and
+    (ii) any other information relating to the respondent that is held by the service provider.
+(3) After receiving a notification under subsection (2)(a) and the information referred to in subsection (2)(b), the Registrar must make a new referral under section 51G to a service provider that is able to provide an appropriate programme to the respondent.
+
+### 51K Judge may discharge direction to attend non-violence programme in certain cases
+(1) This section applies if a service provider, after undertaking an assessment of a respondent, determines that—
+  (a) there is an appropriate non-violence programme for the respondent to attend but that—
+    (i) the respondent's attendance at the programme should be delayed to enable other matters to first be addressed; or
+    (ii) it would not be appropriate for the respondent to attend the programme; or
+  (b) there is not an appropriate non-violence programme for the respondent to attend.
+(2) The service provider must notify the Registrar, and the Registrar must bring the matter to the attention of a Judge.
+(3) When a matter is brought to the attention of a Judge under subsection (2), the Judge must—
+  (a) discharge the direction made under section 51D(1)(b); and
+  (b) make such other orders or directions as the Judge thinks fit in the circumstances.
+
+### 51L Service provider and respondent to settle terms of attendance at non-violence programme
+(1) Before providing a non-violence programme to a respondent, the service provider must settle in writing with the respondent the terms of attendance, which must include—
+  (a) the number of programme sessions that the respondent must attend; and
+  (b) the place, date, and time of the first programme session, and all subsequent sessions, that the respondent must attend.
+(2) The service provider must provide to the Registrar a copy of the terms of attendance that the service provider has settled with the respondent.
+(3) If a service provider is not able to settle with a respondent the terms of attendance, the service provider must notify the Registrar.
+(4) On receipt of a notice under subsection (3), the Registrar must—
+  (a) settle the terms of attendance with the respondent and the service provider; or
+  (b) bring the matter to the attention of a Judge.
+(5) When a matter is brought to the attention of a Judge under subsection (4)(b), the Judge may make such further directions as the Judge thinks fit in the circumstances.
+
+### 51M Notice to be given to court if continued provision of non-violence programme inappropriate
+(1) Subsection (2) applies if at any time during the provision of a non-violence programme the service provider considers that—
+  (a) it is no longer appropriate or practicable for the service provider to provide the programme to the respondent; or
+  (b) the respondent is not participating fully in the programme, and that this is significantly affecting the respondent's ability to benefit fully from the programme.
+(2) The service provider must—
+  (a) notify the Registrar; and
+  (b) send to the Registrar all information relating to the respondent that is held by the service provider.
+(3) After receiving a notification under subsection (2)(a) and the information referred to in subsection (2)(b), the Registrar must—
+  (a) make a new referral under section 51G to a different service provider; or
+  (b) bring the matter to the attention of a Judge.
+(4) When a matter is brought to the attention of a Judge under subsection (3)(b), the Judge may make such other orders or directions as the Judge thinks fit in the circumstances.
+
+**Non-compliance with direction to attend assessment and non-violence programme**
+
+### 51N Notice of non-compliance with direction
+(1) This section applies if the court makes a direction under section 51D and the respondent fails to do either or both of the following:
+  (a) undertake an assessment with the service provider to whom notice of the direction has been given under section 51G:
+  (b) attend a non-violence programme in accordance with terms of attendance settled under section 51L.
+(2) The service provider must give written notice to the Registrar of the respondent's failure.
+(3) Notice under subsection (2) must be given within 7 days of the respondent's failure.
+
+### 51O Powers of Registrar on receipt of notice under section 51N
+(1) On receiving a notice under section 51N, the Registrar must, without delay,—
+  (a) exercise the powers under section 82, as if he or she were the court referred to in that section, to call the respondent before the court; or
+  (b) bring the matter to the attention of a Judge so that the Judge may consider whether to exercise the power conferred by section 51P in relation to the respondent.
+(2) If the Registrar exercises the powers under section 82 in the manner allowed by subsection (1)(a), then, subject to any regulations made under this Act, section 82 applies so far as applicable and with the necessary modifications as if the respondent were a witness in proceedings.
+
+### 51P Judge may call respondent before court
+(1) If, under section 51O(1)(b), a Registrar brings a matter to the attention of a Judge, subsection (2) applies.
+(2) A Judge may exercise the powers under section 82 to call the respondent before the court.
+(3) If a Judge exercises the powers under section 82, that section applies, so far as applicable and with all necessary modifications, as if the respondent were a witness in proceedings.
+
+### 51Q Respondent called before court
+(1) If a respondent appears before the court under section 51O(1)(a) or 51P(2), the court may, after hearing from the respondent, confirm, vary, or discharge the direction or change the terms of attendance.
+(2) If the court confirms or varies a direction under subsection (1), the Judge must warn the respondent that non-compliance with the direction is an offence punishable by imprisonment.
+(3) Failure to give the warning required by subsection (2) does not affect the validity of the direction confirmed or varied.
+
+**Completion of non-violence programme**
+
+### 51R Notice of completion and outcome of non-violence programme
+(1) When a respondent has completed a non-violence programme, the service provider must, without delay, provide to the Registrar a report that—
+  (a) states whether, in the opinion of the service provider, the respondent has achieved the objectives of the non-violence programme; and
+  (b) advises of any concerns that the service provider has about the safety of any protected person.
+(2) On receiving a report under subsection (1), the Registrar must—
+  (a) forward a copy of that report to a Judge; and
+  (b) arrange for the protected person to be notified—
+    (i) that the respondent has completed a non-violence programme; and
+    (ii) that a report has been provided by the service provider of that non-violence programme under subsection (1); and
+    (iii) of any concerns that the service provider has about the safety of the protected person advised in that report.
+(3) On receiving a copy of a report under subsection (2)(a), the Judge may make such orders or directions as the Judge thinks fit in the circumstances.
+
+**Confidentiality of information**
+
+### 51S Confidentiality of information disclosed to service provider
+(1) In this section, unless the context otherwise requires, information includes any statement or admission.
+(2) Information received by a service provider in the course of providing a programme may not—
+  (a) be disclosed to any other person; or
+  (b) be admitted as evidence in any court or before any person acting judicially.
+(3) However, nothing in subsection (2) prohibits the disclosure of information received by a service provider in the course of providing a programme if that disclosure is made—
+  (a) for the purpose of giving a notification to a Registrar under—
+    (i) section 51I(2):
+    (ii) section 51J(2):
+    (iii) section 51K(2):
+    (iv) section 51L(3):
+    (v) section 51M(2):
+  (b) for the purpose of a Registrar making a referral under—
+    (i) section 51J(3):
+    (ii) section 51M(3)(a):
+  (c) for the purpose of any proceedings under—
+    (i) section 51O:
+    (ii) section 51P:
+  (d) for the purposes of investigating or prosecuting—
+    (i) an offence against section 51T; or
+    (ii) an offence committed or alleged to have been committed during the provision of a programme:
+  (e) in circumstances in which the service provider believes, on reasonable grounds, that the disclosure is necessary to prevent or lessen a serious threat to public safety or the safety of any person:
+  (f) with the authority of the person who disclosed the information to the service provider.
+
+**Enforcement of directions**
+
+### 51T Offence to fail to comply with direction
+A respondent who fails, without reasonable excuse, to comply with a direction made under section 51D commits an offence and is liable on conviction to—
+  (a) a fine not exceeding $5,000; or
+  (b) a term of imprisonment not exceeding 6 months.
 
 ## Part 3 — Orders relating to property
 
@@ -956,13 +1034,13 @@ Sections 11 and 12, so far as applicable and with the necessary modifications, a
 (1) Where the court makes a temporary order under this Act, the respondent is entitled to notify the court that he or she wishes to be heard on whether a final order should be substituted for the temporary order.
 (2) The temporary order must contain a notice to the respondent that clearly states—
   (a) the respondent’s right under subsection (1); and
-  (b) that, subject to sections 36, 78, and 79, if the respondent does not take any steps in the proceedings, the temporary order becomes final in accordance with section 77 by operation of law 3 months after the date on which it is made.
+  (b) that, subject to sections 51E, 78, and 79, if the respondent does not take any steps in the proceedings, the temporary order becomes final in accordance with section 77 by operation of law 3 months after the date on which it is made.
 (3) Where the respondent notifies the court, in accordance with subsection (1), that he or she wishes to be heard, the Registrar must assign a hearing date, which must be—
   (a) as soon as practicable; and
   (b) unless there are special circumstances, in no case later than 42 days after the receipt of the respondent’s notice.
 
 ### 77 Procedure where respondent does not require hearing
-(1) Subject to sections 36, 78, and 79 and to subsections (2) and (3), unless the respondent notifies the court in accordance with section 76(1) that he or she wishes to be heard, or the order is sooner discharged, a temporary order becomes final by operation of law 3 months after the date on which it is made.
+(1) Subject to sections 51E, 78, and 79 and to subsections (2) and (3), unless the respondent notifies the court in accordance with section 76(1) that he or she wishes to be heard, or the order is sooner discharged, a temporary order becomes final by operation of law 3 months after the date on which it is made.
 (1A) When a temporary order becomes a final order pursuant to subsection (1), the final order comes into effect immediately.
 (2) No temporary order becomes final pursuant to subsection (1) unless—
   (a) the respondent has been served with a copy of the order not less than 10 clear days before the 3 month period specified in subsection (1) elapses; and
@@ -1609,7 +1687,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (d)
   (e)
   (f) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 81(1)(c), which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
-  (g) prescribing the fees, travelling allowances, and expenses payable to persons called by the court under section 82; and prescribing the circumstances in which, and the extent (if any) to which, such fees, travelling allowances, and expenses are payable (in whole or in part) to persons to whom that section applies by virtue of section 42:
+  (g) prescribing the fees, travelling allowances, and expenses payable to persons called by the court under section 82; and prescribing the circumstances in which, and the extent (if any) to which, such fees, travelling allowances, and expenses are payable (in whole or in part) to persons to whom that section applies by virtue of section 51O or 51P:
   (h) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 **Saving**
@@ -1638,7 +1716,7 @@ Amendment(s) incorporated in the Act(s).
 ### 132 Amendment to Electoral Act 1993
 Amendment(s) incorporated in the Act(s).
 
-**Transitional provisions**
+**Transitional provisions on enactment of this Act**
 
 ### 133 Transitional provisions
 (1) All applications, appeals, proceedings, and other matters that, before the commencement of this section, have been brought or made under or pursuant to any of the provisions of the Domestic Protection Act 1982, and that have not been determined or completed before the commencement of this section, shall be determined and completed as if this Act had not been passed.
@@ -1654,3 +1732,61 @@ Amendment(s) incorporated in the Act(s).
   (a) originated under or pursuant to the Domestic Protection Act 1982, and that is subsisting or in force on the commencement of this section; or
   (b) pursuant to subsection (1) or subsection (2), is made after the commencement of this section under or pursuant to any of the provisions of that Act,—
 (5) The Acts Interpretation Act 1924 applies subject to this section.
+
+**Transitional provisions applying on enactment of Domestic Violence Amendment Act 2013**
+
+### 134 Programmes requested or directed before commencement of this section
+(1) Subsection (2) applies if, before the date of commencement of this section,—
+  (a) an applicant or a specified person made a request under section 29; but
+  (b) the Registrar had not referred the request to a programme provider.
+(2) The Registrar must refer the request to a service provider under section 51C.
+(3) Subsections (4) and (5) apply if, before the date of commencement of this section,—
+  (a) a direction under section 32 was made in any proceeding; but
+  (b) the Registrar had not, under section 34, notified the programme provider of that direction.
+(4) The direction under section 32 must be treated as a direction made under section 51D to—
+  (a) undertake an assessment; and
+  (b) attend a non-violence programme.
+(5) The Registrar must, under section 51G,—
+  (a) make a referral to a service provider; and
+  (b) notify the service provider of the referral.
+
+### 135 Referrals to programme providers before commencement of this section
+(1) Subsections (2) and (3) apply if, before the date of commencement of this section,—
+  (a) a request made to a Registrar under section 29 was referred to a programme provider; but
+  (b) the programme provider had not arranged or commenced the provision of a programme in response to that request.
+(2) The programme provider must—
+  (a) advise the Registrar of the position; and
+  (b) take no further step in respect of the referral.
+(3) The Registrar must arrange for the matter to be referred to a service provider under section 51C.
+(4) Subsections (5) to (7) apply if, before the date of commencement of this section,—
+  (a) a notification under section 34 was given to a programme provider of a direction made under section 32 in any proceedings; but
+  (b) the programme provider had not arranged or commenced the provision of a programme in response to that notification.
+(5) The programme provider must—
+  (a) advise the Registrar of the position; and
+  (b) take no further step in respect of the notification.
+(6) The direction under section 32 must be treated as a direction made under section 51D to—
+  (a) undertake an assessment; and
+  (b) attend a non-violence programme.
+(7) The Registrar must, under section 51G,—
+  (a) make a referral to a service provider; and
+  (b) notify the service provider of the referral.
+
+### 136 Programmes arranged or in progress before commencement of this section
+(1) This section applies if—
+  (a) there was arranged or was in progress immediately before the date of commencement of this section—
+    (i) the provision of a programme to a protected person that has been requested under section 29:
+    (ii) the provision of a programme to a respondent or an associated respondent that the respondent or associated respondent has been directed under section 32 to attend; and
+  (b) that programme has not been concluded by that date.
+(2) The provisions of this Act, as in force immediately before the date of commencement of this section, continue to apply in respect of the provision of that programme as if the Domestic Violence Amendment Act 2013 had not been enacted.
+
+### 137 Proceedings commenced before commencement of this section but not completed
+(1) This section applies if, at any time before the date of commencement of this section, proceedings have been commenced under any of the following provisions but were not by that date completed (a pending proceeding):
+  (a) section 42:
+  (b) section 46:
+  (c) section 49A.
+(2) The provisions of this Act, as in force immediately before the date of commencement of this section, continue to apply to a pending proceeding as if the Domestic Violence Amendment Act 2013 had not been enacted.
+
+### 138 Approval panel disestablished
+(1) The approval panel established by regulation 46 of the Domestic Violence (Programmes) Regulations 1996 is disestablished.
+(2) No member of the panel is entitled to compensation for loss of office resulting from the disestablishment of the panel.
+(3) An approval given by the panel under Part 3 of the Domestic Violence (Programmes) Regulations 1996 before the date of commencement of this section is of no effect on or after that date.
