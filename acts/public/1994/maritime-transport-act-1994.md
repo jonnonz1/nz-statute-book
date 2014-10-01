@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-10-01_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -2557,7 +2557,7 @@ Sections 222 and 224, Parts 19 to 27, and sections 469, 470, 471(2), 472, 473, 4
   - **marine protection convention** , in relation to this Part and Parts 19 to 27, means any international convention, protocol, or agreement relating to the protection of the marine environment from pollution that is declared for the purposes of any such Part by Order in Council pursuant to subsection (4); and includes every amendment to, or revision of, any such instrument, being an amendment or revision to which New Zealand is a party that is declared in the same manner
   - **marine protection document** means—
     (a) any permit issued by the Director under section 262:
-    (b) any certificate of insurance issued, recognised, or accepted by the Director under section 363 or 385H:
+    (b) any certificate of insurance issued, recognised, or accepted by the Director under section 363, 363A, or 385H:
     (c) any permit, certificate, licence, or other document issued or recognised by the Director under section 270 or any permit, certificate, licence, or other document issued by another person and accepted by the Director under section 271
   - **marine protection product** has the meaning given to it by section 225
   - **marine protection rules** means the marine protection rules made by the Minister or the Director under Part 27
@@ -3650,6 +3650,14 @@ The Authority shall consult the Oil Pollution Advisory Committee before advising
 
 ### 342 Interpretation
 In this Part, unless the context otherwise requires,—
+  - **bunker oil** means—
+    (a) any hydrocarbon mineral oil used, or intended to be used, for the operation or propulsion of a ship; and
+    (b) any residues of that oil
+  - **Bunker Oil Convention** —
+    (a) means the International Convention on Civil Liability for Bunker Oil Pollution Damage done at London on 23 March 2001; and
+    (b) includes any subsequent protocol or amendment to, or revision of, that convention accepted or ratified by New Zealand
+  - **Bunker Oil Convention ship** means a ship registered in, or (if unregistered) flying the flag of, a Bunker Oil Convention State
+  - **Bunker Oil Convention State** means any State that is a party to the Bunker Oil Convention
   - **Civil Liability Convention** or means the International Convention on Civil Liability for Oil Pollution Damage, 1969; and includes any subsequent protocol or amendment to, or revision of, that convention accepted or ratified by New Zealand
   - **CLC owner** means,—
     (a) in the case of a registered CLC ship, the person registered as the owner of that ship; or
@@ -3660,8 +3668,9 @@ In this Part, unless the context otherwise requires,—
     (b) any ship on a voyage immediately following a voyage where that ship was carrying oil in bulk as cargo (unless it is proved that it has no residues of the carriage of oil in bulk aboard),—
   - **CLC State** means any State that is a party to the Civil Liability Convention
   - **harmful substance** means—
-    (a) any substance specified as a harmful substance for the purposes of section 225 by the marine protection rules; and
-    (b) oil
+    (a) any substance specified as a harmful substance for the purposes of section 225 by the marine protection rules:
+    (b) oil:
+    (c) bunker oil
   - **insurance** means public liability insurance
   - **marine agency** means the Authority, a regional council, or the operator of a port facility
   - **marine structure** means an offshore installation, a pipeline, or any facility, site, structure, or thing used to transfer a harmful substance to or from a ship or offshore installation
@@ -3772,8 +3781,11 @@ Where any pollution damage is caused in New Zealand, the internal waters of New 
   (b) no judgment for any such claim shall be enforced (except in relation to costs).
 (2) In proceedings under this Part against the owner of a ship, the reasonable costs and expenses of the claimant, including costs incurred between solicitor and client, shall, unless the court otherwise orders, be taxed by the court and paid by that owner.
 
-### 354 Ships owned by CLC State
-Subject to section 4, a CLC State shall in any action under section 345 or section 346 for damages for pollution damage caused by the discharge or escape of oil be deemed to have waived any defence based on its status as a sovereign State and to have submitted to the jurisdiction of the court, but nothing in this section shall permit the levy of execution against the property of any State.
+### 354 Ships owned by Convention States
+(1) In any action under section 345 or 346 for damages for pollution damage in respect of a ship owned by a convention State, that State is to be taken to have waived any defence based on its status as a sovereign State, and to have submitted to the jurisdiction of the court, if the State is—
+  (a) a CLC State and the pollution damage is in respect of the discharge or escape of oil:
+  (b) a Bunker Oil Convention State and the pollution damage is in respect of the discharge or escape of bunker oil.
+(2) This section does not permit enforcement against the property of any convention State.
 
 **Liability for pollution from marine structures and operations**
 
@@ -3798,7 +3810,7 @@ Subject to section 4, a CLC State shall in any action under section 345 or secti
 **General provisions in respect of liability for pollution damage**
 
 ### 361 Time for bringing proceedings
-No action under section 345 or section 346 or section 350 in respect of the discharge or escape of oil from a CLC ship shall be brought in any court, unless the proceedings are commenced not later than 3 years after the date on which the claim arose, nor later than 6 years after the event, or, as the case may be, the first of the events, by reason of which liability was incurred.
+No action under section 345 or section 346 or section 350 in respect of the discharge or escape of oil from a CLC ship, or in respect of the discharge or escape of bunker oil from a Bunker Oil Convention ship, shall be brought in any court, unless the proceedings are commenced not later than 3 years after the date on which the claim arose, nor later than 6 years after the event, or, as the case may be, the first of the events, by reason of which liability was incurred.
 
 ### 362 Part 7 not to affect liability under this Part
 [Repealed]
@@ -3809,6 +3821,14 @@ No action under section 345 or section 346 or section 350 in respect of the disc
 (1) No regulated oil tanker or regulated ship shall enter or leave any port in New Zealand or New Zealand marine waters unless a certificate of insurance issued, recognised, or accepted by the Director under section 270 or section 271 is for the time being in force in respect of, and carried on board, that tanker or ship.
 (2) No regulated New Zealand oil tanker or regulated New Zealand ship shall enter or leave any port outside New Zealand unless a certificate of insurance issued or recognised by the Director under section 270 is for the time being in force in respect of, and carried on board, that tanker or ship.
 (3) The Director may, in accordance with the provisions of the marine protection rules and of section 270 or section 271, as the case may require, issue, recognise, or accept certificates of insurance in respect of a regulated oil tanker or a regulated ship.
+
+### 363A Certain ships to have bunker oil certificates of insurance
+(1) This section applies to—
+  (a) every ship of 1 000 gross tonnage or more that is entering or leaving a port in New Zealand or New Zealand marine waters:
+  (b) every New Zealand ship of 1 000 gross tonnage or more, wherever it may be.
+(2) The owner must ensure that there is for the time being in force in respect of the ship, and carried on board the ship, a certificate of insurance—
+  (a) issued, recognised, or accepted by the Director under section 270 or 271:
+  (b) confirming that the owner has provided evidence that there is insurance or other financial security covering the owner's liability under the Bunker Oil Convention.
 
 ### 364 Regulated offshore installations to have certificates of insurance
 [Repealed]
@@ -3821,12 +3841,12 @@ The master of a ship must produce any certificate of insurance required by secti
 (2) In proceedings brought against the insurer under this section, it shall be a defence, in addition to any defence under this Act affecting the owner’s liability, for the insurer to prove that the discharge or escape of a harmful substance, or the dumping of waste or other matter, giving rise to liability resulted from the wilful misconduct of the owner of the ship but the insurer shall not be entitled to invoke any other defence which the insurer might have been entitled to invoke in any proceedings brought against the insurer by that owner.
 (3) The liability of the insurer in proceedings under this section against the owner of a regulated ship (irrespective of the actual fault or privity of that owner) is limited in like manner and to the same extent as the liability of that owner is limited under section 347.
 (4) Nothing in this section shall prejudice any claim, or the enforcement of any claim, by any person against the owner of the ship in respect of pollution damage.
-(5) In this section, insurer means any person providing insurance or other financial security for the owner’s liability for pollution damage to which a certificate of insurance referred to in section 363 relates.
+(5) In this section, insurer means any person providing insurance or other financial security for the owner’s liability for pollution damage to which a certificate of insurance referred to in section 363 or 363A relates.
 
 ### 367 Offences
-(1) The owner and the master of a ship each commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $200,000 if, without reasonable excuse, the ship enters or leaves, or attempts to enter or leave, a port in New Zealand or New Zealand marine waters in breach of section 363.
-(2) The master of a ship in New Zealand marine waters commits an offence and is liable to a fine not exceeding $10,000 if, without reasonable excuse, the ship fails to carry, or the master fails to produce, the certificate of insurance required to be carried under section 363.
-(3) The owner and the master of a New Zealand ship is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $200,000 if, without reasonable excuse, the ship enters or leaves a port outside New Zealand in breach of section 363.
+(1) The owner and the master of a ship each commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $200,000 if, without reasonable excuse, the ship enters or leaves, or attempts to enter or leave, a port in New Zealand or New Zealand marine waters in breach of section 363 or 363A.
+(2) The master of a ship in New Zealand marine waters commits an offence and is liable to a fine not exceeding $10,000 if, without reasonable excuse, the ship fails to carry, or the master fails to produce, the certificate of insurance required to be carried under section 363 or 363A.
+(3) The owner and the master of a New Zealand ship is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $200,000 if, without reasonable excuse, the ship enters or leaves a port outside New Zealand in breach of section 363 or 363A.
 
 **Miscellaneous**
 
@@ -4057,7 +4077,7 @@ The owner and person in charge of a regulated offshore installation each commits
   (k) any other vessel, equipment, person, or organisation engaged or used in maritime activities or activities that, in the opinion of the Minister, relate to maritime activities.
 (2) Marine protection rules may provide for the recognition in writing by the Director of licences, permits, certificates, or other documents.
 (3) The requirements, standards, and application procedure for each marine protection document and the maximum period for which each document may be issued or recognised, as the case may be, shall be prescribed by the marine protection rules.
-(4) The marine protection rules may specify the requirements and criteria that must be satisfied in respect of the relevant insurance policy, bond, or other form of financial security for the Director to issue a certificate of insurance under section 363 or 385H.
+(4) The marine protection rules may specify the requirements and criteria that must be satisfied in respect of the relevant insurance policy, bond, or other form of financial security for the Director to issue a certificate of insurance under section 363, 363A, or 385H.
 (5) Subject to any marine protection rules, a marine protection document may be issued or a document may be recognised as a marine protection document, as the case may be, by the Director for such specified period and subject to such conditions as the Director considers appropriate in each particular case.
 (6) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under section 424.
 
@@ -4107,7 +4127,7 @@ The Minister may from time to time make marine protection rules for all or any o
     (i) shipboard or site marine oil spill contingency plans:
     (ii) regional marine oil spill contingency plans:
   (b) specifying the qualifications to be held by on-scene commanders, or any class of on-scene commander:
-  (c) specifying the form and contents of the certificate to be issued by the Director under section 363 or 385H:
+  (c) specifying the form and contents of the certificate to be issued by the Director under section 363, 363A, or 385H:
   (d) specifying the manner in which any notice, notification, or instruction under this Act, or any regulation or marine protection rules made under this Act, may be given by the Director:
   (e) requiring the Director to notify any person or persons in respect of any action taken by the Director under this Act or any regulations or marine protection rules made under this Act and, in particular, requiring the Director to comply with any obligations to notify any persons under any international conventions binding on New Zealand:
   (f) prescribing or providing for such matters as may be necessary to enable New Zealand to become a party to any international convention, protocol, or agreement relating to protection of the marine environment.
