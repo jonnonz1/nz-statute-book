@@ -1,5 +1,5 @@
 # Maritime Transport Amendment Act 2013
-_Consolidation as at 2013-10-22_
+_Consolidation as at 2014-10-01_
 
 ### 1 Title
 This Act is the Maritime Transport Amendment Act 2013.
