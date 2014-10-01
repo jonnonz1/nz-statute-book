@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2014-07-28_
+_Consolidation as at 2014-10-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2787,6 +2787,8 @@ In this subpart and subpart DU (Mineral mining expenditure), and in sections CX 
   (a) a partner is treated as having a share or interest in a mineral mining asset or other property of a partnership to the extent of their interest in the income of the partnership:
   (b) references to the disposal of an asset apply equally to the disposal of part of an asset.
 
+**Definitions**
+
 ### CU 6 Meaning of mineral miner
 Meaning
 (1) Mineral miner means a person to which 1 of the following applies:
@@ -2856,6 +2858,66 @@ Meaning of mining or prospecting right
 (4) For the purposes of this section, mining or prospecting right—
   (a) means an authority, concession, easement, lease, licence, option, permit, privilege, right, or title relating to exploring, searching, or mining for, or carrying on an operation to recover, a listed industrial mineral; and
   (b) includes a share or interest in any such authority, concession, easement, lease, licence, option, permit, privilege, right, or title.
+
+### CU 10 Mining asset used to derive income other than income from mining
+[Repealed]
+
+### CU 11 Meaning of asset for sections CU 3 to CU 10
+[Repealed]
+
+### CU 12 Application of sections to resident mining operators
+[Repealed]
+
+### CU 13 Application of sections to non-resident mining operators
+[Repealed]
+
+### CU 14 Recovery of reinvestment profit on disposal of mining shares
+[Repealed]
+
+### CU 15 Recovery of reinvestment profit not used for mining purposes
+[Repealed]
+
+### CU 16 Recovery of reinvestment profit on repayment of loans
+[Repealed]
+
+### CU 17 Repayment by mining company of amount written off
+[Repealed]
+
+### CU 18 Amount treated as repayment for purposes of section CU 17: excess
+[Repealed]
+
+### CU 19 Amount treated as repayment for purposes of section CU 17: net income
+[Repealed]
+
+### CU 20 Mining company or mining holding company liquidated
+[Repealed]
+
+### CU 21 Meaning of income from mining
+[Repealed]
+
+### CU 22 Meaning of mining company
+[Repealed]
+
+### CU 23 Meaning of mining development expenditure
+[Repealed]
+
+### CU 24 Meaning of mining exploration expenditure
+[Repealed]
+
+### CU 25 Meaning of mining operations
+[Repealed]
+
+### CU 26 Meaning of mining venture
+[Repealed]
+
+### CU 27 Meaning of resident mining operator
+[Repealed]
+
+### CU 28 Meaning of specified mineral
+[Repealed]
+
+### CU 29 Other definitions
+[Repealed]
 
 ### Subpart CV — Income specific to certain entities
 
@@ -8350,6 +8412,8 @@ No deduction (with exception)
 (2) The mineral miner is denied a deduction for the expenditure except to the extent quantified and allocated under section EJ 20E.
 Link with subpart DA
 (3) This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+
+**Classes of mining expenditure**
 
 ### DU 8 Classes of mineral mining expenditure
 Classes
@@ -37785,10 +37849,10 @@ In this Act, unless the context requires otherwise,—
     (b) money; or
     (c) money’s worth, other than money’s worth that is a bonus issue
   - **boutique investor class** , for a portfolio investment entity, means an investor class of the entity if—
-  (a) the class does not have 20 or more members; and
-  (b) the entity has 1 or more other investor classes that include 20 or more persons; and
-  (c) no investor in the class described in paragraph (a), other than the manager or trustee of the entity, can control investment decisions relating to the class; and
-  (d) the investor interests of investors in all investor classes described in paragraph (a) of the entity add up to less than 10% of the total value of interests in the entity
+    (a) the class does not have 20 or more members; and
+    (b) the entity has 1 or more other investor classes that include 20 or more persons; and
+    (c) no investor in the class described in paragraph (a), other than the manager or trustee of the entity, can control investment decisions relating to the class; and
+    (d) the investor interests of investors in all investor classes described in paragraph (a) of the entity add up to less than 10% of the total value of interests in the entity
   - **branch equivalent company**
   - **branch equivalent income** , for a foreign company and for an accounting period, means the amount of income for the accounting period calculated under section EX 21 (Branch equivalent income or loss: calculation rules) as that provision read immediately before being amended by section 161 of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009
   - **branch equivalent loss** , for a foreign company and for an accounting period, means the amount of loss for the accounting period calculated under section EX 21 (Branch equivalent income or loss: calculation rules) as that provision read immediately before being amended by section 161 of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009
@@ -38714,6 +38778,7 @@ In this Act, unless the context requires otherwise,—
     (a) meets the definition of overseas limited partnership in section 4 of the Limited Partnerships Act 2008; and
     (b) is treated as a separate legal entity under the laws (other than taxation laws) of the country, territory, or jurisdiction where it is established
   - **foreign country** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
+  - **foreign crew of fishing vessels instructions** means the immigration instructions for foreign crew of fishing vessels, certified under section 22(1) of the Immigration Act 2009
   - **foreign defined contribution scheme** means a foreign superannuation scheme that operates on the principle of allocating contributions to the scheme on a defined basis to individual members
   - **foreign dividend**
   - **foreign dividend company**
@@ -39637,7 +39702,9 @@ In this Act, unless the context requires otherwise,—
   - **non-resident mining operator**
   - **non-resident passive income** is defined in section RF 2 (Non-resident passive income)
   - **non-resident person** is defined in section CW 22(3) (Amounts derived by overseas experts and trainees in New Zealand by government arrangement) for the purposes of that section
-  - **non-resident seasonal worker** means a non-resident person employed under the recognised seasonal employment scheme to undertake work in New Zealand
+  - **non-resident seasonal worker** means a non-resident person for whom immigration instructions, certified under section 22 of the Immigration Act 2009, allow them to be employed in New Zealand under—
+    (a) the recognised seasonal employer (RSE) instructions; or
+    (b) the foreign crew of fishing vessels instructions
   - **non-resident taxpayer** is defined in section HD 26(2) (Agency in relation to non-residents generally) for the purposes of sections HD 27 and HD 28 (which relate to employers and certain payments)
   - **non-resident trader** means a person who—
     (a) is in New Zealand; and
@@ -40125,7 +40192,8 @@ In this Act, unless the context requires otherwise,—
       (iv) the potential or demonstrated capacity of a person or persons significantly to influence the market; and
       (v) any significant barriers to entry to the market; and
       (vi) any discrimination on the basis of quantity bought and sold unless based on the risks involved, the transaction costs, or economies of scale
-  - **recognised seasonal employment scheme** means the recognised seasonal employer scheme described in immigration instructions certified under section 22(1) of the Immigration Act 2009
+  - **recognised seasonal employer (RSE) instructions** means the recognised seasonal employer (RSE) instructions, certified under section 22(1) of the Immigration Act 2009
+  - **recognised seasonal employment scheme**
   - **recourse property** is defined in—
     (a) section HB 11(12) (Limitation on deductions by persons with interests in look-through companies) for the purposes of that section:
     (b) section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
@@ -41555,7 +41623,7 @@ Special concession for transitional residents
 No application for preceding 12 months
 (10)
 Treatment of non-resident seasonal workers
-(11) Despite subsection (3), a non-resident seasonal worker is treated for the duration of their employment under the recognised seasonal employment scheme as a non-resident.
+(11) Despite subsection (3), a non-resident seasonal worker is treated for the duration of their employment under the recognised seasonal employer (RSE) instructions as a non-resident.
 
 ### YD 2 Residence of companies
 Four bases for residence
