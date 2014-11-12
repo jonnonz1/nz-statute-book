@@ -1,5 +1,5 @@
 # Temporary Safeguard Authorities Act 1987
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-11-12_
 
 > An Act to provide for the appointment of Temporary Safeguard Authorities and to define their functions
 
