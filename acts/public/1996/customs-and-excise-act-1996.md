@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2014-06-24_
+_Consolidation as at 2014-11-12_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -110,6 +110,7 @@ _Consolidation as at 2014-06-24_
   - **duty** means a duty, additional duty, tax, fee, charge, or levy imposed on goods by any of the provisions of this Act, and includes—
     (a) excise duty and excise-equivalent duty imposed under Part 7:
     (b) a duty imposed under the Tariff Act 1988:
+    (ba) provisional safeguard duty, safeguard duty, and extended safeguard duty imposed under the Trade (Safeguard Measures) Act 2014:
     (c) a duty imposed pursuant to sections 14, 16, 17, 17A, or 17B of the Dumping and Countervailing Duties Act 1988, including a duty resulting from the application of section 18 or section 19 of that Act; and
     (d) a duty or tax imposed by section 12 of the Goods and Services Tax Act 1985:
     (e) levies imposed by section 213(2)(c) of the Accident Compensation Act 2001:
@@ -1803,7 +1804,7 @@ Section 101 applies to the recovery of unpaid duty—
 (1) Except as otherwise provided in this Act, or in such cases as may be approved by the chief executive, and subject to such securities as the chief executive may require, no person is entitled to obtain release of goods from the control of the Customs until the sum payable by way of duty on the goods is paid in full.
 (2) No action or other proceeding shall be instituted against the Crown or the chief executive or any Customs officer in respect of the detention of any such goods during any period before the payment of the full sum so payable.
 (3) In any case where the chief executive considers that undue hardship would result from the payment of duty as required by this section, the chief executive may, subject to such conditions as he or she may think fit to impose, direct the release of the goods from the control of the Customs and accept payment of duty by instalment over a specified period.
-(4) Subsection (3) does not apply to duties imposed under the Dumping and Countervailing Duties Act 1988.
+(4) Subsection (3) does not apply to duties imposed under the Dumping and Countervailing Duties Act 1988 or under the Trade (Safeguard Measures) Act 2014.
 
 ### 103 Liability for duty on goods wrongfully removed or missing
 (1) The licensee of a Customs controlled area is liable for duty payable on goods that the chief executive is satisfied have been wrongfully removed from or are missing from that Customs controlled area as if the goods had been imported or manufactured by the licensee and entered pursuant to section 39 or section 70, as the case may be.
@@ -1885,7 +1886,7 @@ The liability of a person under a provision of this Act for the payment of duty 
   (a) on goods of a class or kind that have been exempted from duty by the Minister of Commerce under section 8 of the Tariff Act 1988; or
   (b) on alcoholic beverages (except ethyl alcohol of Tariff items 2207.10.19, 2207.10.29, 2207.20.01, or 2207.20.39) for use by the persons, in the places, and in the quantities that the chief executive may approve, and subject to any conditions that the chief executive thinks fit in the manufacture of any products approved in writing by the chief executive.
 (4) A person who is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
-(5) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the Dumping and Countervailing Duties Act 1988.
+(5) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the Dumping and Countervailing Duties Act 1988 or under the Trade (Safeguard Measures) Act 2014.
 
 ### 114 Power to apply refunds towards payment of other duties
 Where under any provision of this Act duty is or becomes refundable to any person, the chief executive may, in his or her discretion, apply the whole or any part of the sum so refundable towards the payment of any other duty that is payable by that person, or may refund the whole sum to that person.
@@ -1911,7 +1912,7 @@ Money refunded by the Customs in error of fact or law is recoverable by action a
 (6) If, at the expiry of the period prescribed by subsection (2), the goods have not been dealt with in accordance with that subsection,—
   (a) any sum secured by way of deposit of money must be retained by the Crown; or
   (b) any sum otherwise so secured must be paid to the Crown by the importer within 10 working days after the expiry of that period or such longer period as the chief executive may allow, and on such payment the security shall be released.
-(7) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the Dumping and Countervailing Duties Act 1988.
+(7) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the Dumping and Countervailing Duties Act 1988 or under the Trade (Safeguard Measures) Act 2014.
 (8) This section does not apply to any goods that are, by regulations made under the Tariff Act 1988, declared to be goods to which this section does not apply.
 
 ### 117 Drawbacks of duty on certain goods
@@ -1929,7 +1930,7 @@ Money refunded by the Customs in error of fact or law is recoverable by action a
 (5) Such debt is recoverable by action at the suit of the chief executive on behalf of the Crown.
 (6) The right to recover drawback as a debt due to the Crown under this section is not affected by the fact that a bond or other security has been given in respect of the unshipment or relanding or unpacking of the goods before export.
 (7) Where under this section drawback is allowed to any person, the chief executive may, in his or her discretion, apply the whole or any part of the sum allowed towards the payment of any duty that is payable by that person.
-(8) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the Dumping and Countervailing Duties Act 1988.
+(8) Except as the chief executive of the Ministry of Economic Development may permit, this section does not apply to duties imposed under the Dumping and Countervailing Duties Act 1988 or under the Trade (Safeguard Measures) Act 2014.
 (9) This section does not apply to any goods that are, by regulations made under the Tariff Act 1988, declared to be goods to which this section does not apply.
 
 ### 118 Regulations may prescribe minimum duty collectable, value of goods below which duty need not be collected, minimum duty refundable, and minimum drawback allowable
