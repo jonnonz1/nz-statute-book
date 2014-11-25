@@ -1,5 +1,5 @@
 # New Zealand Institute of Chartered Accountants Amendment Act 2014
-_Consolidation as at 2014-11-06_
+_Consolidation as at 2014-11-25_
 
 ### 1 Title
 This Act is the New Zealand Institute of Chartered Accountants Amendment Act 2014.
@@ -13,7 +13,7 @@ This Act amends the New Zealand Institute of Chartered Accountants Act 1996 (the
 
 ### 4 Section 2 amended (Interpretation)
 In section 2, insert in their appropriate alphabetical order:.
-  - **Executive Board** means the Executive Board of the Institute referred to in section 6(1)(e)
+  - **Executive Board** means the Executive Board of the Institute referred to in section 6(1)﻿(e)
   - **specified association** means the association of accountants that is declared to be the specified association under section 8A
 
 ### 5 New section 2A inserted (Transitional, savings, and related provisions)
@@ -30,7 +30,7 @@ After section 2, insert:Transitional, savings, and related provisions
 After section 5, insert:Duty to control and regulate profession of accountancy practised by members in New ZealandInstitute must perform duty to control and regulate profession but may delegate other functionsSpecified association may act in its own interests rather than Institute's interests
   (1) The Institute must, with reasonable skill and care, control and regulate the practice of the profession of accountancy by its members in New Zealand.
   (2) The duty under subsection (1) includes—
-    (a) maintaining, complying with, monitoring compliance with, and enforcing the rules referred to in section 6(1)(f) to (ja) (which relate to the investigation and hearing of complaints and other matters, appeals, disciplinary matters, and the recognition of auditors); and
+    (a) maintaining, complying with, monitoring compliance with, and enforcing the rules referred to in section 6(1)﻿(f) to (ja) (which relate to the investigation and hearing of complaints and other matters, appeals, disciplinary matters, and the recognition of auditors); and
     (b) maintaining, monitoring members' compliance with, and enforcing professional and ethical standards, including the code of ethics required by section 7; and
     (c) monitoring members' compliance with the Auditor Regulation Act 2011 and other enactments that relate to the practice of accountancy; and
     (d) monitoring compliance with, and enforcing, section 14; and
@@ -45,9 +45,9 @@ After section 5, insert:Duty to control and regulate profession of accountancy p
   (3) Subsection (2) does not permit the specified association to act in a manner that may materially prejudice the Institute's ability to carry out the duty imposed under section 5A.
 
 ### 8 Section 6 amended (Rules of Institute)
-(1) Repeal section 6(1)(d).
-(2) After section 6(1)(j), insert:.
-  (ja) the recognition of persons for the purposes of sections 36(1)(a) and 36C of the Financial Reporting Act 2013, for keeping such recognition under review, and for the cancellation and suspension of such recognition; and
+(1) Repeal section 6(1)﻿(d).
+(2) After section 6(1)﻿(j), insert:.
+  (ja) the recognition of persons for the purposes of sections 36(1)﻿(a) and 36C of the Financial Reporting Act 2013, for keeping such recognition under review, and for the cancellation and suspension of such recognition; and
   (jb) the powers of a person to whom functions are delegated under section 5B(2), the effect of a delegation on the Institute, and the revocation of a delegation; and
 (3) In section 6(4), replace Council with Executive Board.
 
@@ -59,13 +59,13 @@ After section 5, insert:Duty to control and regulate profession of accountancy p
 
 ### 10 New section 7A inserted (Membership rules may require membership of specified association)
 After section 7, insert:Membership rules may require membership of specified association
-  (1) The rules that relate to the matters referred to in section 6(1)(b) (admission of members and the cessation of membership) may provide for either or both of the following:
+  (1) The rules that relate to the matters referred to in section 6(1)﻿(b) (admission of members and the cessation of membership) may provide for either or both of the following:
     (a) that a person may be admitted as a member of the Institute only if the person is a member of the specified association:
     (b) that a person ceases to be a member of the Institute if the person—
       (i) does not become a member of the specified association in accordance with the rules; or
       (ii) ceases to be a member of the specified association.
-  (2) Those rules may provide for a cessation referred to in subsection (1)(b) to be automatic or to occur after a specified process.
-  (3) This section does not limit section 6(1)(b) (and, in particular, the ability to provide for other requirements for the admission of members).
+  (2) Those rules may provide for a cessation referred to in subsection (1)﻿(b) to be automatic or to occur after a specified process.
+  (3) This section does not limit section 6(1)﻿(b) (and, in particular, the ability to provide for other requirements for the admission of members).
 
 ### 11 Section 8 amended (Application of Part 3 of Legislation Act 2012 to certain rules and code of ethics)
 In section 8(a), replace (j) with (jb).
@@ -91,7 +91,7 @@ Repeal sections 21 to 24 and Schedules 3 to 5.
 Before Schedule 1, insert the Schedule 1AA set out in the Schedule of this Act.
 
 ### 16 Schedule 1 amended
-In Schedule 1, clauses 3, 4(1)(a), and 8(1)(b), replace Council with Executive Board in each place.
+In Schedule 1, clauses 3, 4(1)﻿(a), and 8(1)﻿(b), replace Council with Executive Board in each place.
 
 ## Schedule  — New Schedule inserted
 
