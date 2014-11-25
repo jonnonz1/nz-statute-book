@@ -1,5 +1,5 @@
 # New Zealand Institute of Chartered Accountants Act 1996
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-11-25_
 
 > An Act to—acontinue the New Zealand Society of Accountants under the name New Zealand Institute of Chartered Accountants; andbrequire the Institute to have rules governing membership, discipline, and other matters and a code of ethics governing the professional conduct of its members; andcprohibit the use of terms implying membership of the Institute by persons who are not members; anddprovide for related matters; anderepeal the New Zealand Society of Accountants Act 1958
 
@@ -18,13 +18,18 @@ In this Act, unless the context otherwise requires,—
   - **disciplinary body** or means the Disciplinary Tribunal or the Appeals Council
   - **Disciplinary Tribunal** means the Disciplinary Tribunal referred to in section 6(1)(g)
   - **document** includes any book or paper
+  - **Executive Board** means the Executive Board of the Institute referred to in section 6(1)(e)
   - **Institute** means the New Zealand Institute of Chartered Accountants constituted under this Act
   - **member** means a person who, under the rules of the Institute, is a full member or provisional member of the Institute
   - **Professional Conduct Committee** means the Professional Conduct Committee referred to in section 6(1)(f)
   - **Registrar** means the Registrar of Companies at Wellington
   - **registration** means registration by the Registrar on a public file
   - **rules** means the rules of the Institute delivered to the Registrar under section 6
-  - **Society** means the New Zealand Society of Accountants constituted under the New Zealand Society of Accountants Act 1958.
+  - **Society** means the New Zealand Society of Accountants constituted under the New Zealand Society of Accountants Act 1958
+  - **specified association** means the association of accountants that is declared to be the specified association under section 8A.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -40,17 +45,39 @@ This Act binds the Crown.
 
 ### 5 Functions of Institute
 The functions of the Institute are—
+  (aa) to carry out the duty imposed under section 5A:
   (a) to promote quality, expertise, and integrity in the profession of accountancy by its members in New Zealand:
-  (b) to promote, control, and regulate the profession of accountancy by its members in New Zealand:
+  (b) to promote the profession of accountancy by its members in New Zealand:
   (c) to promote the training, education, and examination of persons practising, or intending to practise, the profession of accountancy in New Zealand or elsewhere:
   (d) any other functions that are conferred on it by the rules.
+
+### 5A Duty to control and regulate profession of accountancy practised by members in New Zealand
+(1) The Institute must, with reasonable skill and care, control and regulate the practice of the profession of accountancy by its members in New Zealand.
+(2) The duty under subsection (1) includes—
+  (a) maintaining, complying with, monitoring compliance with, and enforcing the rules referred to in section 6(1)(f) to (ja) (which relate to the investigation and hearing of complaints and other matters, appeals, disciplinary matters, and the recognition of auditors); and
+  (b) maintaining, monitoring members' compliance with, and enforcing professional and ethical standards, including the code of ethics required by section 7; and
+  (c) monitoring members' compliance with the Auditor Regulation Act 2011 and other enactments that relate to the practice of accountancy; and
+  (d) monitoring compliance with, and enforcing, section 14; and
+  (e) complying with the Institute's duties—
+    (i) as an accredited body under the Auditor Regulation Act 2011; and
+    (ii) that are imposed on the Institute (by name) under any other enactment.
+
+### 5B Institute must perform duty to control and regulate profession but may delegate other functions
+(1) The Institute must not delegate the duty under section 5A (in whole or in part) to any person.
+(2) The Institute may delegate the functions specified in section 5(a), (b), (c), and (d) (except to the extent that those functions relate to the duty in section 5A), either generally or specifically, to any other person.
+(3) Subsection (2) is subject to subsection (1).
+
+### 5C Specified association may act in its own interests rather than Institute's interests
+(1) This section applies to the specified association if any functions referred to in section 5B(2) are delegated to the association.
+(2) The specified association may, when performing a delegated function, act in a manner that the association believes is in the best interests of the association (or its members) even though it may not be in the best interests of the Institute (or the Institute's members).
+(3) Subsection (2) does not permit the specified association to act in a manner that may materially prejudice the Institute's ability to carry out the duty imposed under section 5A.
 
 ### 6 Rules of Institute
 (1) The Institute must have rules that provide for—
   (a) a Council of the Institute and the powers of the Council; and
   (b) the admission of members of the Institute and the cessation of membership; and
   (c) the summoning and holding of general meetings of the Institute, and the method of voting at those meetings; and
-  (d) a President and 1 or more Vice Presidents of the Institute; and
+  (d)
   (e) an Executive Board of the Institute; and
   (f) a Professional Conduct Committee to investigate complaints against members and former members of the Institute and the powers and procedure of that Committee; and
   (g) a Disciplinary Tribunal to hear complaints and matters referred to it by the Professional Conduct Committee and the powers and procedure of that Tribunal; and
@@ -60,20 +87,44 @@ The functions of the Institute are—
   (k) the amendment and replacement of the rules.
 (2) In addition to the provisions required by subsection (1), the rules may contain any other provisions that are not inconsistent with this Act or any other Act or any rule of law.
 (3) The Council must, no later than 14 days after the day on which this Act comes into force, deliver to the Registrar for registration a document described as, and which shall constitute, the rules of the Institute.
-(4) The Council must, no later than 14 days after the passing of any amendment to the rules or replacing the rules, deliver to the Registrar for registration a copy of the amendment or the new rules.
+(4) The Executive Board must, no later than 14 days after the passing of any amendment to the rules or replacing the rules, deliver to the Registrar for registration a copy of the amendment or the new rules.
 
 ### 7 Code of ethics
 (1) The Institute must always have a code of ethics that governs the professional conduct of its members.
-(2) The code of ethics must be prescribed by the Council.
-(3) The Council must, no later than 14 days after the day on which this Act comes into force, deliver a copy of the code to the Registrar for registration.
-(4) The Council may at any time amend the code or revoke the code and replace it with a new code.
-(5) The Council must, no later than 14 days after passing any amendment to the code or replacing the code, deliver to the Registrar for registration a copy of the amendment or the new code.
+(2) The code of ethics must be prescribed by the Executive Board.
+(3)
+(4) The Executive Board may at any time amend the code or revoke the code and replace it with a new code.
+(5) The Executive Board must, no later than 14 days after passing any amendment to the code or replacing the code, deliver to the Registrar for registration a copy of the amendment or the new code.
+(6) The code of ethics prescribed by the Council and that is in force immediately before the commencement of this subsection continues in force and may be amended, revoked, or replaced by the Executive Board under subsection (4).
+
+### 7A Membership rules may require membership of specified association
+(1) The rules that relate to the matters referred to in section 6(1)(b) (admission of members and the cessation of membership) may provide for either or both of the following:
+  (a) that a person may be admitted as a member of the Institute only if the person is a member of the specified association:
+  (b) that a person ceases to be a member of the Institute if the person—
+    (i) does not become a member of the specified association in accordance with the rules; or
+    (ii) ceases to be a member of the specified association.
+(2) Those rules may provide for a cessation referred to in subsection (1)(b) to be automatic or to occur after a specified process.
+(3) This section does not limit section 6(1)(b) (and, in particular, the ability to provide for other requirements for the admission of members).
 
 ### 8 Application of Part 3 of Legislation Act 2012 to certain rules and code of ethics
 The following are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012:
   (a) the rules that relate to the matters referred to in sections 5(d), 6(1)(a), (b), and (f) to (j), and 19:
   (b) rules that relate to the entitlement of members to use the designation chartered accountant:
   (c) the code of ethics required by section 7.
+
+**Provisions concerning specified association**
+
+### 8A Specified association
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Commerce, declare an association of accountants to be the specified association for the purposes of this Act.
+(2) The Minister of Commerce may make a recommendation under subsection (1) only after consulting the Institute.
+(3) In this section, association of accountants includes any association or other professional body of accountants (whether constituted or established overseas or in New Zealand).
+
+### 8B Members of Council or Executive Board may act in best interests of specified association rather than Institute
+(1) This section applies to a person (A) who is appointed by or on behalf of the specified association, in accordance with the rules of the Institute, to be a member of either or both of the following:
+  (a) the Council:
+  (b) the Executive Board.
+(2) A may, when exercising powers or performing duties as a member of the Council or the Executive Board, if expressly permitted to do so by the rules of the Institute, act in a manner that he or she believes is in the best interests of the specified association (or its members) even though it may not be in the best interests of the Institute (or the Institute's members).
+(3) Subsection (2) does not permit A to act in a manner that may materially prejudice the Institute's ability to carry out the duty imposed under section 5A.
 
 **Matters relating to disciplining of members**
 
@@ -175,19 +226,30 @@ Every reference in any enactment to a—in relation to the holding of any office
 The Governor-General may from time to time, by Order in Council, make regulations prescribing fees payable to the Registrar for registration of documents under this Act.
 
 ### 21 Fidelity fund
-(1)
-(2)
-(3) Subsections (1) and (2) are hereby repealed.
-(4) Schedule 2 and the enactments specified in Schedule 3 are hereby repealed.
+[Repealed]
 
 ### 22 Transitional provision relating to disciplinary proceedings
-The New Zealand Society of Accountants Act 1958 shall, notwithstanding its repeal by section 24, continue to apply in respect of any complaint made, and any disciplinary proceedings commenced, under that Act before the commencement of this Act.
+[Repealed]
 
 ### 23 Amendments to other Acts
-The enactments specified in Schedule 4 are hereby amended in the manner indicated in that schedule.
+[Repealed]
 
 ### 24 Repeals
-The enactments specified in Schedule 5 are hereby repealed.
+[Repealed]
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+**Provisions relating to New Zealand Institute of Chartered Accountants Amendment Act 2014**
+
+### 1 Interpretation
+In clause 2,—
+  - **2014 Amendment Acts** means—
+    (a) the New Zealand Institute of Chartered Accountants Amendment Act 2014; and
+    (b) the Financial Reporting Amendment Act 2014
+  - **principal Act** means the New Zealand Institute of Chartered Accountants Act 1996.
+
+### 2 References to President or Vice President of Institute
+Unless the context otherwise requires, and subject to the provisions of the 2014 Amendment Acts, every reference in any other enactment or in any deed or other document to the President or a Vice President of the Institute must, after this clause comes into force, be read as if it were a reference to the Chair of the Executive Board (or his or her delegate).
 
 ## Schedule 1 — Appointment of agent to conduct sole practitioner’s practice
 
@@ -211,11 +273,11 @@ The enactments specified in Schedule 5 are hereby repealed.
   (b) the powers of that agent have been suspended under clause 7.
 
 ### 3 Consent to appointment
-The appointment of an agent may be made only with the consent of the agent and, in the case of an appointment by an administrator, may be made only with the consent of the Council.
+The appointment of an agent may be made only with the consent of the agent and, in the case of an appointment by an administrator, may be made only with the consent of the Executive Board.
 
 ### 4 Form and conditions of appointment
 (1) The appointment of an agent—
-  (a) must be by a power of attorney in a form approved by the Council; and
+  (a) must be by a power of attorney in a form approved by the Executive Board; and
   (b) if 2 or more persons are appointed agents, must state whether they are appointed jointly and severally or otherwise; and
   (c) may authorise the agent to appoint 1 or more chartered accountants in public practice as a substitute for that agent.
 (2) All the provisions of this schedule apply to a substitute appointed by an agent under this clause as if that substitute had been the agent originally appointed under clause 2.
@@ -244,7 +306,7 @@ The appointment of an agent may be made only with the consent of the agent and, 
 ### 8 Obligations of agents
 (1) An agent must not act until—
   (a) he or she has given a certified copy of the power of attorney to the Institute; and
-  (b) the Council, or a committee of the Council authorised by the Council for this purpose, has resolved to permit the agent to act under that power of attorney.
+  (b) the Executive Board, or a committee of the Executive Board authorised by the Executive Board for this purpose, has resolved to permit the agent to act under that power of attorney.
 (2) If an agent ceases to act as such, the agent and his or her appointor (if living) must, as soon as practicable, give the Institute notice in writing of the agent ceasing to act.
 (3) Notice to the Institute under this clause may be given to an officer or employee of the Institute authorised to accept notice for this purpose.
 
