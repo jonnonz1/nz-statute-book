@@ -1,5 +1,5 @@
 # Sports Anti-Doping Act 2006
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Sports Anti-Doping Act 2006.
@@ -65,7 +65,7 @@ Except as expressly provided otherwise in this or any other Act, Drug Free Sport
 (2) This section does not limit section 29 of the Crown Entities Act 2004.
 
 ### 11 Superannuation fund or retiring allowances
-(1) For the purpose of providing a superannuation fund or retiring allowances for any of its members, Drug Free Sport NZ may pay sums of money by way of a subsidy or a contribution into any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing a superannuation fund or retiring allowances for any of its members, Drug Free Sport NZ may pay sums of money by way of a subsidy or a contribution into any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Any person who, immediately before becoming an employee of Drug Free Sport NZ, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed, for the purposes of that Act, to be employed in the Government service so long as he or she continues to be an employee of Drug Free Sport NZ.
 (3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if that person’s service as an employee of Drug Free Sport NZ is Government service.
 (4) Subsection (2) does not entitle a person to become a contributor to the Government Superannuation Fund if that person has ceased to be a contributor.
