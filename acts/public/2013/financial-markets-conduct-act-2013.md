@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
