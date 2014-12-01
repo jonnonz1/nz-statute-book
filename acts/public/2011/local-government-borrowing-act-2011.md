@@ -1,5 +1,5 @@
 # Local Government Borrowing Act 2011
-_Consolidation as at 2014-05-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Local Government Borrowing Act 2011.
@@ -35,10 +35,10 @@ This Act binds the Crown.
 ### 7 Funding Agency not a non-bank deposit taker
 The Funding Agency is not an NBDT (a non-bank deposit taker) for the purposes of the Non-bank Deposit Takers Act 2013.
 
-**Application of Securities Act 1978**
+**Application of Financial Markets Conduct Act 2013**
 
-### 8 Securities Act 1978 applies to Funding Agency as if it were local authority
-The Securities Act 1978 applies to the Funding Agency as if it were a local authority.
+### 8 Financial Markets Conduct Act 2013 applies to Funding Agency as if it were local authority
+The Financial Markets Conduct Act 2013 applies to the Funding Agency as if it were a local authority.
 
 **Application of Local Government Act 2002**
 
