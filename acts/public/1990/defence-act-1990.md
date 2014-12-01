@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-12-01_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -743,7 +743,7 @@ Despite the provisions of sections 61A and 70,—
 
 ### 73A Interpretation
 For the purposes of sections 73B and 73C,—
-  - **superannuation scheme** or has the same meaning as in the Superannuation Schemes Act 1989.
+  - **superannuation scheme** or means a retirement scheme within the meaning of section 6(1) of the Financial Markets Conduct Act 2013.
 
 ### 73B Chief of Defence Force may establish superannuation schemes for members of Defence Force
 The Chief of Defence Force may—
@@ -754,7 +754,7 @@ The Chief of Defence Force may—
 
 ### 73C Requirements in respect of superannuation schemes for members of Defence Force
 Before contributing to any superannuation scheme established or arranged in respect of one or more of the members of the Defence Force pursuant to section 73B, the Chief of Defence Force shall ensure—
-  (a) that the scheme is registered under the Superannuation Schemes Act 1989; and
+  (a)
   (b) that the scheme provides that the sum of all benefits (including any lump sum payments, annuities, and other benefits) payable from the scheme in respect of any member of the scheme will not exceed the sum of—
     (i) contributions paid by or on behalf of a member and investment earnings thereon; and
     (ii) any allocations to the member from surplus funds held within the scheme; and
