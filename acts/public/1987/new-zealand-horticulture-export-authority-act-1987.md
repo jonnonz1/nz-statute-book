@@ -1,5 +1,5 @@
 # New Zealand Horticulture Export Authority Act 1987
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to establish the New Zealand Horticulture Export Authority and to provide for its powers and functions
 
@@ -152,7 +152,7 @@ The Authority shall, in addition to its functions under section 6, have in relat
 (2) Any person appointed under subsection (1) shall be appointed on such terms and conditions, and shall be paid such remuneration and allowances, as the Authority thinks fit.
 
 ### 19 Superannuation and retiring allowances
-The Authority may, for the purpose of providing superannuation or retiring allowances for its officers or employees appointed under section 16 or section 17, from time to time pay sums of money by way of subsidy into any superannuation scheme which is registered under the Superannuation Schemes Act 1989.
+The Authority may, for the purpose of providing superannuation or retiring allowances for its officers or employees appointed under section 16 or section 17, from time to time pay sums of money by way of subsidy into any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 
 ### 20 Remuneration and travelling allowances
 (1) The Authority shall pay to its members, and to the members of any committee appointed by the Authority, such remuneration by way of fees, salary, or allowances, and such travelling allowances and expenses, as may be determined by the Authority by resolution from time to time.
