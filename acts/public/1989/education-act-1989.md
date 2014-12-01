@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to reform the administration of education
 
@@ -1465,7 +1465,7 @@ The governing board of a board must not delegate any power to borrow money that 
 
 ### 67B Restrictions on use of derivatives
 (1) Sections 160 and 164 of the Crown Entities Act 2004 apply.
-(2) Therefore, a board must not enter into a derivative transaction, or amend the terms of that transaction, other than as provided in—
+(2) Therefore, a board must not enter into an agreement constituting a derivative, or amend the terms of that agreement, other than as provided in—
   (a) any regulations made under Part 4 of that Act; or
   (b) any approval given jointly by the Minister of Education and the Minister of Finance; or
   (c) this Act.
@@ -2254,7 +2254,7 @@ Nothing in this Act requires or permits the board of any school or special insti
   (a)
   (b)
   (c) is an undischarged bankrupt; or
-  (d) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993; or
+  (d) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993; or
   (da)
   (db) is ineligible to be a trustee under section 103A(2); or
   (dc) is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
@@ -5398,7 +5398,7 @@ The submission in respect of any land or interest in land of a claim under secti
     (a) any estate or interest in any land, including all rights of occupation of land or buildings:
     (b) all buildings, vehicles, plant, equipment, and machinery, and any rights therein:
     (c) all livestock, products from livestock, and crops:
-    (d) all securities within the meaning of the Securities Act 1978:
+    (d) all financial products within the meaning of the Financial Markets Conduct Act 2013:
     (e) all rights of any kind, including rights under Acts, deeds, agreements, or licences, planning rights, water rights, and clean air licences, and all applications for and objections against applications for such rights:
     (f) all patents, trade marks, designs, copyright, and other intellectual property rights whether enforceable by Act or rule of law:
     (g) goodwill, and any business undertaking:
@@ -5406,7 +5406,7 @@ The submission in respect of any land or interest in land of a claim under secti
   - **institution** includes a subsidiary of an institution
   - **liabilities** includes—
     (a) liabilities and obligations under any Act or agreement; and
-    (b) deposits and other debt securities within the meaning of the Securities Act 1978; and
+    (b) deposits and other debt securities within the meaning of the Financial Markets Conduct Act 2013; and
     (c) contingent liabilities
   - **rights** includes powers, privileges, interests, licences, approvals, consents, benefits, and equities of any kind, whether actual, contingent, or prospective
   - **transfer** includes—
@@ -8488,8 +8488,8 @@ Despite anything in this Part, a person may use or disclose his or her own natio
 (2) In this clause, natural person act—
   (a) means an act that a natural person of full age and capacity can do (whether or not the act is something that is also authorised by an Act); and
   (b) includes entry into a contract for, or relating to,—
-    (i) acquisition of securities or borrowing of money; or
-    (ii) a derivative transaction; or
+    (i) acquisition of financial products (within the meaning of section 7 of the Financial Markets Conduct Act 2013) or borrowing of money; or
+    (ii)
     (iii) the purchase, leasing, or sale of, or other dealings with, property; or
     (iv) the employment, or engagement of the services, of a person.
 (3) A person who relies on subclause (1) has the onus of proving that that person did not have, and ought not reasonably to have had, the knowledge referred to in that subsection.
