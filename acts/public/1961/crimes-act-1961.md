@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2014-05-11_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -2176,8 +2176,8 @@ Every one who is guilty of obtaining by deception or causing loss by deception i
   (c) if the loss caused or the value of what is obtained or sought to be obtained does not exceed $500, to imprisonment for a term not exceeding 3 months.
 
 ### 242 False statement by promoter, etc
-(1) Every one is liable to imprisonment for a term not exceeding 10 years who, in respect of any body, whether incorporated or unincorporated and whether formed or intended to be formed, makes or concurs in making or publishes any false statement, whether in any prospectus, account, or otherwise, with intent—
-  (a) to induce any person, whether ascertained or not, to subscribe to any security within the meaning of the Securities Act 1978; or
+(1) Every one is liable to imprisonment for a term not exceeding 10 years who, in respect of any body, whether incorporated or unincorporated and whether formed or intended to be formed, makes or concurs in making or publishes any false statement with intent—
+  (a) to induce any person, whether ascertained or not, to acquire any financial product within the meaning of the Financial Markets Conduct Act 2013; or
   (b) to deceive or cause loss to any person, whether ascertained or not; or
   (c) to induce any person, whether ascertained or not, to entrust or advance any property to any other person.
 (2) In this section, false statement means any statement in respect of which the person making or publishing the statement—
