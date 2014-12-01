@@ -1,5 +1,5 @@
 # Securities Amendment Act 2006
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Securities Amendment Act 2006.
