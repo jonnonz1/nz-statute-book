@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2014-07-15_
+_Consolidation as at 2014-12-01_
 
 > Title
 
@@ -1206,7 +1206,7 @@ Sections 44B and 44C do not apply to a trust under a will or other testamentary 
 (3) For the purposes of this section, a person holds equity securities in a company (company A) if—
   (a) that person is beneficially entitled to, or is beneficially entitled to an interest in, any equity securities in that company (whether or not the whole or any part of the legal ownership of the equity securities is vested in that person); or
   (b) that person holds a controlling interest in another company (company B) that holds equity securities in company A.
-(4) For the purposes of subsections (2) and (3), equity security has the same meaning as in section 2 of the Securities Act 1978.
+(4) For the purposes of subsections (2) and (3), equity security has the same meaning as in section 8 of the Financial Markets Conduct Act 2013.
 
 ### 44E Court may require party to disclose information about dispositions of property to qualifying company
 (1) In any proceedings for an order under section 25(1)(a), the court may make an order requiring a spouse or partner to disclose to the court such information as the court specifies relating to the disposition of relationship property by either or both spouses or partners to a qualifying company since the marriage or the civil union or the de facto relationship began.
