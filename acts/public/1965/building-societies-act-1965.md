@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to building societies
 
@@ -19,7 +19,7 @@ _Consolidation as at 2014-04-01_
   - **bonus balloting shares** means shares issued pursuant to section 31A
   - **building society** , or , means a building society incorporated under this Act or under the Building Societies Act 1908
   - **court** means a District Court in any case where District Courts have jurisdiction under the District Courts Act 1947 in relation to this Act or to building societies; and in any other case means the High Court or a Judge thereof
-  - **debt security** has the same meaning as in section 2 of the Securities Act 1978
+  - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **director** includes a member of a committee of management of a society, and any other person occupying the position of director, by whatever name called
   - **disposition** , in relation to any land, means any disposition of that land inter vivos, and includes the grant of a lease or underlease; and has a corresponding meaning
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
@@ -40,7 +40,6 @@ _Consolidation as at 2014-04-01_
     (b) any person who has succeeded to any of the rights or liabilities of a member of the society
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **officer** , in relation to a society, includes a director, manager, or secretary
-  - **participatory security** has the same meaning as in section 2 of the Securities Act 1978
   - **permanent society** has the meaning assigned to it by section 10
   - **prescribed** means prescribed by regulations made under this Act
   - **property** means property of every kind whether tangible or intangible, real or personal, corporeal or incorporeal and, without limiting the generality of the foregoing, includes—
@@ -118,9 +117,9 @@ For the purposes of this Act, there shall from time to time be appointed under t
     (ii) to obtain any other relief on the ground that the society was without capacity or power to do such thing, or to execute or take such conveyance; or
   (b) in any proceedings by the society or any member of the society against any officer or former officer of the society as a result of any thing done by the society or the conveyance or transfer of any property to or by the society on the ground that the society was without capacity or power to do such thing or to execute, give, or take such conveyance or transfer; or
   (c) in any application by the FMA to have the society put into liquidation.
-(3) In any proceedings to which subsection (2)(a)(i) applies to prevent the doing of any act, or the conveyance or transfer of any property by or to the society pursuant to any contract to which the society is a party, the court may, on the application of any party to the contract (including the society), in addition to making any order restraining or preventing the society from performing the contract, make an order granting such relief as the court thinks just in respect of any loss or damage which may be sustained as a result of the society being prevented from performing the contract.
+(3) In any proceedings to which subsection (2)﻿(a)﻿(i) applies to prevent the doing of any act, or the conveyance or transfer of any property by or to the society pursuant to any contract to which the society is a party, the court may, on the application of any party to the contract (including the society), in addition to making any order restraining or preventing the society from performing the contract, make an order granting such relief as the court thinks just in respect of any loss or damage which may be sustained as a result of the society being prevented from performing the contract.
 (4) Nothing in subsection (3) shall authorise the granting of relief in respect of the loss of anticipated or future profits.
-(5) Every proceeding to which subsection (2)(a) or subsection (2)(b) applies shall, notwithstanding anything to the contrary in the rules of the society or in sections 108 to 113, be heard and determined by the court and not by arbitration.
+(5) Every proceeding to which subsection (2)﻿(a) or subsection (2)﻿(b) applies shall, notwithstanding anything to the contrary in the rules of the society or in sections 108 to 113, be heard and determined by the court and not by arbitration.
 
 ### 9D Registration of documents not to constitute constructive notice
 No person is affected by or is deemed to have notice or knowledge of the rules of a society or any other documents or the contents thereof by reason only that the rules or other documents are—
@@ -151,8 +150,8 @@ No person is affected by or is deemed to have notice or knowledge of the rules o
     (ii) the other person was named in a notice sent to the Registrar under section 88, or was being held out by the society, as a director or secretary of the society—
   (d) the seal is not the seal of the society; or
   (e) the affixing of the seal was not witnessed by 2 persons; or
-  (f) a person referred to in paragraph (c)(i) was not a director of the society; or
-  (g) a person referred to in paragraph (c)(ii) was not a director or secretary of the society, as the case may be.
+  (f) a person referred to in paragraph (c)﻿(i) was not a director of the society; or
+  (g) a person referred to in paragraph (c)﻿(ii) was not a director or secretary of the society, as the case may be.
 
 ### 9F Effect of fraud
 Section 9E applies notwithstanding the fact that a person referred to in any of the provisions of paragraphs (b) to (f) of subsection (1) or paragraph (c) of subsection (2) of that section—unless the person dealing with the society or with the person who has acquired any property, rights, or interests from the society has actual knowledge of the fraud or forgery.
@@ -741,7 +740,7 @@ Every society must comply with subpart 2 of Part 7 of the Financial Markets Cond
   (a) sent to each member of the society; or
   (b) published in major daily newspapers circulating generally in those parts of New Zealand where members reside.
 (2) The directors of every society must ensure that a copy of the directors' report is sent to the Registrar for registration within the time frame referred to in subsection (1).
-(3) Subsection (1)(b) is subject to the society's rules and to any conditions or requirements that may be prescribed.
+(3) Subsection (1)﻿(b) is subject to the society's rules and to any conditions or requirements that may be prescribed.
 
 ### 97 Depositors and members entitled to be supplied with copy of financial statements
 (1) Every depositor in or member of a society is entitled, on demand and without charge, to be supplied with copies of the last financial statements and reports of the society that are required to be laid before that society at the annual general meeting.
@@ -941,7 +940,7 @@ Subject to section 113, every determination of a dispute by arbitrators, or by t
   (a) 21 days after the date on which the notice that a special resolution has been passed has been filed with the Registrar pursuant to section 113A(3); or
   (b) if an application to the court has been made under section 113B, the date the application is determined by the court; or
   (c) if there is an appeal against that determination, the date the appeal is finally determined.
-(2) A copy of the special resolution together with a copy of the scheme for conversion shall, if an application under section 113B has not been made to the court, be delivered to the Registrar by the society within 14 days after the expiration of the period of 21 days referred to in subsection (1)(a).
+(2) A copy of the special resolution together with a copy of the scheme for conversion shall, if an application under section 113B has not been made to the court, be delivered to the Registrar by the society within 14 days after the expiration of the period of 21 days referred to in subsection (1)﻿(a).
 (3) If an application has been made to the court under section 113B, a copy of the special resolution, together with a sealed copy of the order of the court confirming the approval of the scheme for conversion, and a copy of the scheme for conversion, shall be delivered to the Registrar by the later of the following:
   (a) 30 days after the date the application is determined by the court; or
   (b) if there is an appeal against that determination, 30 days after the date that appeal is finally determined.
@@ -975,8 +974,8 @@ Subject to section 113, every determination of a dispute by arbitrators, or by t
     (iii) the amount credited as paid up on each share issued:
     (iv) the consideration for which the shares were issued:
   (b) a statutory declaration by a director of the company to the effect that the consideration provided is not less than the amount by which the shares have been paid up otherwise than in cash and describing the consideration for the issue of the shares (or, where the effect of the issue of the shares is to satisfy the whole or part of a liability of the company, for the liability) in sufficient detail to identify it and stating an estimate of its value and how that value was assessed.
-(8) Notwithstanding anything contained in subsection (7)(a) of this section or section 87 of the Companies Act 1993, no company into which a society has become converted pursuant to this Part shall be required—the description of any person who immediately before the conversion date was a member of the society if the register of members of the society did not contain a description of that person.
-  (a) to show on the list required to be delivered to the Registrar of Companies by subsection (7)(a); or
+(8) Notwithstanding anything contained in subsection (7)﻿(a) of this section or section 87 of the Companies Act 1993, no company into which a society has become converted pursuant to this Part shall be required—the description of any person who immediately before the conversion date was a member of the society if the register of members of the society did not contain a description of that person.
+  (a) to show on the list required to be delivered to the Registrar of Companies by subsection (7)﻿(a); or
   (b) to enter in its share register—
 
 ### 113E Consequential provisions on conversion of society
@@ -1011,8 +1010,8 @@ No shares in the capital of a company into which a society has become converted 
 (2) Nothing in subsection (1) prevents a company into which a society has become converted from issuing any shares that a company incorporated under the Companies Act 1993 is authorised or permitted to issue.
 
 ### 113I Preservation of rights of terminating shareholders
-(1) Subject to subsection (3), and notwithstanding anything to the contrary contained in any scheme for conversion in relation to a society, every person who, immediately before the conversion date, was a holder of 1 or more shares in a society which becomes converted into a company pursuant to this Part, being a share or shares that was or were to terminate at the end of a given period or on the attainment of a specified result, shall be issued with debt or participatory securities of the company into which the society becomes converted corresponding in value to, and, subject to subsection (2), carrying the same rights and liabilities as, the shares of that class held by that person in the capital of the society.
-(2) No debt or participatory securities issued pursuant to subsection (1) shall confer on the holder of those securities—
+(1) Subject to subsection (3), and notwithstanding anything to the contrary contained in any scheme for conversion in relation to a society, every person who, immediately before the conversion date, was a holder of 1 or more shares in a society which becomes converted into a company pursuant to this Part, being a share or shares that was or were to terminate at the end of a given period or on the attainment of a specified result, shall be issued with debt securities of the company into which the society becomes converted corresponding in value to, and, subject to subsection (2), carrying the same rights and liabilities as, the shares of that class held by that person in the capital of the society.
+(2) No debt securities issued pursuant to subsection (1) shall confer on the holder of those securities—
   (a) any right to vote at any meeting of the company:
   (b) any right to receive notice of any meeting of the company:
   (c) any right to appoint any director of the company:
@@ -1025,15 +1024,15 @@ No shares in the capital of a company into which a society has become converted 
   (b) of the nature of the interest into which that person's shares may be converted if that person so consents.
 
 ### 113J Terms and conditions of bonus balloting securities not to be substantially different from terms and conditions of bonus balloting shares
-(1) Subject to subsection (2), where a scheme for conversion of any society that is to become converted into a company pursuant to this Part provides for the conversion into debt or participatory securities of any bonus balloting shares issued by the society, the terms and conditions of those debt or participatory securities shall not be substantially different from the terms and conditions of those bonus balloting shares.
-(2) Nothing in subsection (1) shall require the issue of any debt or participatory securities which confer on the holder of those securities—
+(1) Subject to subsection (2), where a scheme for conversion of any society that is to become converted into a company pursuant to this Part provides for the conversion into debt securities of any bonus balloting shares issued by the society, the terms and conditions of those debt securities shall not be substantially different from the terms and conditions of those bonus balloting shares.
+(2) Nothing in subsection (1) shall require the issue of any debt securities which confer on the holder of those securities—
   (a) any right to vote at any meeting of the company:
   (b) any right to receive notice of any meeting of the company:
   (c) any right to appoint any director of the company:
   (d) any other rights ordinarily only conferred on shareholders of a company.
 (3) Subsection (1) shall not apply to any person—
   (a) who has received a notice that complies with subsection (4); and
-  (b) who has consented in writing to the conversion of that person's shares into any debt or participatory securities the terms and conditions of which are substantially different from the terms and conditions of that person's bonus balloting shares.
+  (b) who has consented in writing to the conversion of that person's shares into any debt securities the terms and conditions of which are substantially different from the terms and conditions of that person's bonus balloting shares.
 (4) Every notice referred to in subsection (3) shall inform the person to whom it is addressed, in sufficient detail as to enable that person to make an informed assessment as to the nature of the interests into which his or her shares may be converted,—
   (a) of that person's entitlement under subsection (1):
   (b) of the nature of the interest into which that person's shares may be converted if that person so consents.
@@ -1228,7 +1227,7 @@ A person may, on payment of the prescribed fee (if any), inspect—
 
 ### 122B Registrar may refuse to disclose information relating to inspection
 (1) Notwithstanding anything in the Official Information Act 1982, but subject to subsections (4) and (5) of section 122A, any person who makes an inspection under section 122A(1), and any person to whom that person has, pursuant to subsection (4) or subsection (5) of section 122A or otherwise, given, divulged, or communicated any information that the first-mentioned person has acquired as a result of that inspection, may refuse to disclose any such information to any other person until the purpose for which that inspection is carried out has been satisfied.
-(2) Notwithstanding anything in the Official Information Act 1982, where any person requests the Registrar or any person referred to in subsection (4)(a) or (b) or subsection (5)(a) or (b) of section 122A to disclose whether an inspection under section 122A(1) is being, or is proposed to be, or has been carried out, the Registrar or, as the case may require, that person shall not be required to disclose that information under the Official Information Act 1982 unless the disclosure of that information would not be likely to prejudice the commercial position of any society or other person, and there is no other good reason for withholding that information under that Act.
+(2) Notwithstanding anything in the Official Information Act 1982, where any person requests the Registrar or any person referred to in subsection (4)﻿(a) or (b) or subsection (5)﻿(a) or (b) of section 122A to disclose whether an inspection under section 122A(1) is being, or is proposed to be, or has been carried out, the Registrar or, as the case may require, that person shall not be required to disclose that information under the Official Information Act 1982 unless the disclosure of that information would not be likely to prejudice the commercial position of any society or other person, and there is no other good reason for withholding that information under that Act.
 
 ### 122C Appeals from decisions under section 122B
 (1) Any person who is aggrieved by the refusal of any person to disclose any information under section 122B may appeal to the court within 21 days after being notified of that refusal, or within such further time as the court may allow.
@@ -1277,7 +1276,7 @@ A person may, on payment of the prescribed fee (if any), inspect—
 (4) Before cancelling or suspending the registration of a society under this section, the Registrar shall give to the society not less than 2 months' notice in writing, specifying briefly the grounds of the proposed cancellation or suspension.
 (5) The Registrar shall consider any representations with respect to the proposed cancellation or suspension that may be made to him or her by the society within the said period of 2 months or such further period as he or she may allow, and, if the society so requests, shall afford to it an opportunity of being heard by him or her within such period or further period as aforesaid.
 (6) The Registrar shall give public notice of any cancellation or suspension, or any extension of a suspension, under this section and must register the cancellation, suspension, or extension of a suspension.
-(7) Where under this section the registration of a society is cancelled, or is suspended for a period exceeding 6 months, the society may appeal to the High Court or a Judge thereof; and on any such appeal the court or Judge, if it or he or she thinks fit just to do so, may set aside the cancellation or suspension.
+(7) Where under this section the registration of a society is cancelled, or is suspended for a period exceeding 6 months, the society may appeal to the High Court or a Judge thereof; and on any such appeal the court or Judge, if it or he or she thinks fit and just to do so, may set aside the cancellation or suspension.
 
 ### 125 Cancellation of registration at request of society
 Without prejudice to section 124, the Registrar may, if he or she thinks fit, cancel the registration of a society at the society's request, evidenced in such manner as the Registrar may direct.
@@ -1333,7 +1332,7 @@ Without prejudice to section 124, the Registrar may, if he or she thinks fit, ca
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
   (a) a charging document may be filed at any time in respect of an offence against section 29(5), 132(2), or 133(1); and
   (b) the limitation period in respect of any other offence against this Act ends on the date that is 2 years after the date on which evidence, sufficient in the opinion of the Registrar to justify a prosecution for the offence, comes to the Registrar's knowledge.
-(2) Nothing in subsection (1)(b) authorises the filing of a charging document in respect of an offence at a time more than 3 years after the date on which the offence was committed.
+(2) Nothing in subsection (1)﻿(b) authorises the filing of a charging document in respect of an offence at a time more than 3 years after the date on which the offence was committed.
 (3) Subsection (1) is subject to subsection (2).
 
 ### 136 General penalty for offences
