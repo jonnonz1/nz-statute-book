@@ -1,5 +1,5 @@
 # Securities Markets Act 1988
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-12-01_
 
 > Title
 
