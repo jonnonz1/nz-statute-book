@@ -1,5 +1,5 @@
 # Crown Retail Deposit Guarantee Scheme Act 2009
-_Consolidation as at 2009-09-12_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Crown Retail Deposit Guarantee Scheme Act 2009.
@@ -13,7 +13,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 In this Act, unless the context otherwise requires,—
   - **Crown Retail Deposit Guarantee Scheme** means the deposit guarantee scheme announced by the Minister of Finance on or about 12 October 2008 relating to guarantees under section 65ZD of the Public Finance Act 1989
   - **Crown Wholesale Funding Guarantee Facility** means the wholesale funding guarantee facility announced by the Minister of Finance on or about 1 November 2008 relating to guarantees under section 65ZD of the Public Finance Act 1989
-  - **debt security** has the meaning given in section 2(1) of the Securities Act 1978
+  - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **eligible entity** means an entity of a type specified under section 5(1)(a) that satisfies the criteria specified for it under section 5(1)(b)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act.
 
