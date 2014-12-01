@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -125,7 +125,7 @@ In this Act, unless the context otherwise requires,—
 (1) In this Act, person A is an associate of person B (and vice versa) if—
   (a) person A is a body corporate and person B is—
     (i) a director of that body corporate; or
-    (ii) a related body corporate of that body corporate (within the meaning of section 5B(2) of the Securities Markets Act 1988); or
+    (ii) a related body corporate of that body corporate (within the meaning of section 12(2) of the Financial Markets Conduct Act 2013); or
     (iii) a director of a related body corporate of that body corporate (within that same meaning); or
   (b) person A is a spouse, civil union partner, de facto partner, child, or parent of person B; or
   (c)
@@ -140,7 +140,7 @@ In this Act, unless the context otherwise requires,—
   (j) person A is a body corporate and person C holds more than 20% of the control rights, or more than 20% of the equity return rights, in person A and person B is the trustee of a trust acting in that capacity and person C is a settlor, beneficiary, or trustee, of that trust.
 (2) In subsection (1),—
   - **business** means any undertaking that is carried on whether for gain or reward or not
-  - **control right** means a voting right attaching to a voting security
+  - **control right** means a voting right attaching to a voting product
   - **director** , in relation to a body corporate, means a person occupying the position of director of the body corporate by whatever name called
   - **equity return rights** , in relation to a business, means that a person has a right or entitlement or expectancy to receive equity returns, directly or indirectly, of the business
   - **equity returns** means—
@@ -151,9 +151,10 @@ In this Act, unless the context otherwise requires,—
     (a) an expectancy or a contingent or unvested right to equity returns of the business or person; or
     (b) a right to equity returns of the business or person that does not confer on the holder a certain or defined share of the equity returns available to all or to any class of persons having equity return rights in the business or person
   - **person** includes the trustees of a trust acting in that capacity.
-(3) For the purposes of this section, a person has a control right if the person would have a relevant interest, under sections 5 to 5B of the Securities Markets Act 1988, in the voting securities that confer that right,—
-  (a) if voting security, in relation to a body, meant a security of the body that confers a right to vote at meetings of members (whether or not there is any restriction or limitation on the number of votes that may be cast by, or on behalf of, the holder of the security); and includes a security that, in accordance with the terms of the security, is convertible into a security of that kind; and
-  (b) if references in those sections to a number or percentage of voting securities were a reference to the number or percentage of the votes conferred by those securities.
+(3) For the purposes of this section, a person has a control right if the person would have a relevant interest, under sections 235 to 238 of the Financial Markets Conduct Act 2013, in the voting products that confer that right,—
+  (a) if voting product, in relation to a body, meant a financial product of the body that confers a right to vote at meetings of members (whether or not there is any restriction or limitation on the number of votes that may be cast by, or on behalf of, the holder of the financial product); and included a financial product that, in accordance with the terms of the financial product, is convertible into a financial product of that kind; and
+  (b) if references in those sections to a number or percentage of voting products were references to the number or percentage of the votes conferred by those financial products.
+(4) In subsection (3), financial product has the same meaning as in section 7 of the Financial Markets Conduct Act 2013.
 
 **Application**
 
