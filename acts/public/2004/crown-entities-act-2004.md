@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -165,7 +165,7 @@ This Act binds the Crown.
   (b) to what extent members, employees, committee members, and office holders are immune from liability in legal proceedings or may be reimbursed for costs incurred in settling claims or in proceedings:
   (c) employees and compliance with the requirements of being a good employer and providing equal employment opportunities:
   (d) how Crown entities deal with third parties.
-(3) Part 4 deals with the accountability of Crown entities to Parliament and the Crown, and sets out rules on planning, financial statements, reporting, acquisition of securities, borrowing, derivatives, payment of net surpluses to the Crown, capital charges, and taxation.
+(3) Part 4 deals with the accountability of Crown entities to Parliament and the Crown, and sets out rules on planning, financial statements, reporting, acquisition of financial products, borrowing, payment of net surpluses to the Crown, capital charges, and taxation.
 (4) Part 5 contains miscellaneous, transitional, and savings provisions.
 (5) Schedules 1 and 2 list the Crown entities in the various categories.
 (6) Schedules 3 and 4 list the provisions that apply to school boards of trustees and tertiary education institutions and their Crown entity subsidiaries.
@@ -251,8 +251,8 @@ In sections 15 to 23, unless the context otherwise requires,—
   - **natural person act** —
     (a) means an act that a natural person of full age and capacity can do (whether or not the act is something that is also authorised by an Act); and
     (b) includes entry into a contract for, or relating to,—
-      (i) acquisition of securities or borrowing:
-      (ii) a derivative transaction:
+      (i) acquisition of financial products or borrowing:
+      (ii)
       (iii) the purchase, leasing, or sale of, or other dealings with, property:
       (iv) the employment, or engagement of the services, of a person
   - **person dealing** —
@@ -324,7 +324,7 @@ The role of the monitor is, in relation to the monitored statutory entity,—
 (1) A natural person who is not disqualified by this section may be a member of a statutory entity.
 (2) The following persons are disqualified from being members:
   (a) a person who is an undischarged bankrupt:
-  (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
+  (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
   (c) a person who is subject to a property order under the Protection of Personal and Property Rights Act 1988:
   (d) a person in respect of whom a personal order has been made under that Act that reflects adversely on the person's—
     (i) competence to manage his or her own affairs in relation to his or her property; or
@@ -1135,12 +1135,15 @@ Amendment(s) incorporated in the Act(s).
     (a) a Crown entity; and
     (b) its Crown entity subsidiaries, other than multi-parent subsidiaries; and
     (c) any entity that is its subsidiary for the purpose of any financial reporting standard that applies to the Crown entity under generally accepted accounting practice
-  - **debt security** has the meaning set out in section 2 of the Securities Act 1978
-  - **derivative transaction** means—
-    (a) a transaction that is a rate swap transaction, swap option, basis swap, forward rate transaction, interest rate option, foreign exchange transaction, cap transaction, floor transaction, collar transaction, currency swap transaction, cross-currency rate swap transaction, currency option, commodity swap, commodity option, equity or equity index swap, equity or equity index option, bond option, credit protection transaction, credit swap, credit default swap, credit default option, total return swap, credit spread transaction, forward purchase or sale of a security, or commodity or other financial instrument or interest (including an agreement or option that relates to any of these transactions); or
-    (b) a transaction that is similar to any transaction referred to in paragraph (a) that—
-      (i) is currently, or in the future becomes, recurrently entered into in the financial markets; and
-      (ii) is a forward, swap, future, option, or other derivative on 1 or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, economic indices or measures of economic risk or value, environmental or climatic variable, or other benchmarks against which payments or deliveries are to be made
+  - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
+  - **derivative** —
+    (a) has the same meaning as in section 8 of the Financial Markets Conduct Act 2013; and
+    (b) includes a foreign exchange transaction
+  - **financial product** means any of the following:
+    (a) an equity security (within the meaning given in the Financial Markets Conduct Act 2013):
+    (b) a debt security:
+    (c) a managed investment product within the meaning of that Act (except a managed investment product in a superannuation scheme, a workplace savings scheme, or a KiwiSaver scheme):
+    (d) a derivative
   - **financial year** means,—
     (a) in relation to a school board of trustees or a tertiary education institution, an academic year as defined in section 159(1) of the Education Act 1989; and
     (b) in relation to any other Crown entity, the 12 months ending on the close of 30 June or any other date determined for that entity by the Minister of Finance
@@ -1160,7 +1163,6 @@ Amendment(s) incorporated in the Act(s).
     (a) that the Crown entity proposes to supply in the financial year; and
     (b) that is directly funded (in whole or in part) by the Crown in accordance with an appropriation for the purpose, or by grants distributed under any Act, or by levies, fees, or charges prescribed by or under any Act; and
     (c) that is not exempted for that financial year under section 149F
-  - **security** has the meaning set out in section 2D of the Securities Act 1978 except that it does not include the things referred to in subsection (1)(d) to (f) of that section
   - **working day** has the meaning set out in section 2(1) of the Public Finance Act 1989.
 (2) Any term or expression that is defined in the Public Finance Act 1989 and used, but not defined, in this Part has the same meaning as in the Public Finance Act 1989.
 
@@ -1608,12 +1610,12 @@ The statement of responsibility must—
   (a) 2 months after the bank account ceases to qualify under subsection (1); or
   (b) a date specified by the Minister of Finance and notified to the Crown entity.
 
-**Acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions**
+**Acquisition of financial products, borrowing, guarantees, indemnities, and derivatives**
 
-### 159 Application of acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules
+### 159 Application of acquisition of financial products, borrowing, guarantees, indemnities, and derivatives rules
 Sections 160 to 164 apply on and after 1 April 2005.
 
-### 160 Further provision relating to acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules
+### 160 Further provision relating to acquisition of financial products, borrowing, guarantees, indemnities, and derivatives rules
 (1) Sections 161 to 164 apply subject to—
   (a) any regulations made under this Part; and
   (b) any approval given jointly by the entity's responsible Minister and the Minister of Finance; and
@@ -1622,12 +1624,13 @@ Sections 160 to 164 apply on and after 1 April 2005.
 (2) Sections 161 to 164 apply to a Crown entity subsidiary in the same way as they apply to its parent.
 (3) The Minister of Finance must notify in the Gazette an approval given under subsection (1)(b).
 
-### 161 Restrictions on acquisition of securities
-(1) A Crown entity must not acquire securities other than—
+### 161 Restrictions on acquisition of financial products
+(1) A Crown entity must not acquire financial products other than—
   (a) a debt security denominated in New Zealand dollars that is issued by a registered bank, or by any other entity, that satisfies a credit-rating test that is specified in either regulations made under this Part or a notice in the Gazette published by the Minister of Finance:
   (b) a public security:
   (c) as provided in section 160.
-(2) This section does not apply to any money, security, or credit balance in a bank account held by a Crown entity on trust for any purpose or for another person.
+(2) This section does not apply to any money, financial product, or credit balance in a bank account held by a Crown entity on trust for any purpose or for another person.
+(2A) This section does not apply to derivatives.
 (3) This section does not prohibit a Crown entity from acquiring subsidiaries or shares if section 96 or, as the case may be, section 100 allows the acquisition.
 
 ### 162 Restrictions on borrowing
@@ -1644,7 +1647,7 @@ A Crown entity must not borrow from any person, or amend the terms of any borrow
 (3) This section does not apply to any guarantee or indemnity that is implied at law or arising from any transactions that may be authorised under regulations made under this Part.
 
 ### 164 Restrictions on use of derivatives
-A Crown entity must not enter into a derivative transaction, or amend the terms of that transaction, other than as provided in section 160.
+A Crown entity must not enter into an agreement constituting a derivative, or amend the terms of that agreement, other than as provided in section 160.
 
 **Miscellaneous**
 
@@ -1710,13 +1713,13 @@ A responsible Minister may set standards, terms, and conditions in respect of an
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) requiring Crown entities to include information in a statement of intent or annual report that is additional to the information required by this Act:
   (b) providing for the establishment, maintenance, and operation of bank accounts by Crown entities:
-  (c) prescribing the nature and extent of the acquisition of securities that may be undertaken by Crown entities, the securities that Crown entities may acquire, and any other matters relating to the acquisition:
+  (c) prescribing the nature and extent of the acquisition of financial products that may be undertaken by Crown entities, the financial products that Crown entities may acquire, the persons with whom a Crown entity may enter into agreements that constitute financial products, and any other matters relating to the acquisition of financial products or entering into those agreements:
   (d) prescribing the nature and extent of borrowing that may be undertaken by Crown entities, the persons from whom a Crown entity may borrow, and any other matters relating to borrowing by Crown entities:
   (e) authorising the giving of any guarantees or indemnities:
-  (f) prescribing the nature and extent of derivative transactions that may be entered into by Crown entities, the persons with whom a Crown entity may enter into those transactions, and any other matters relating to those transactions in respect of Crown entities:
+  (f)
   (g) specifying credit-rating tests for the purpose of this Part:
   (h) prescribing capital charge rules for the purposes of section 166, including (without limitation) the amount of a capital charge or the method of calculating the amount of a capital charge, the procedures for notifying a statutory entity of the capital charge payable, the frequency of its payment, how the assets of a statutory entity must be valued in calculating the capital charge, and the cost-of-capital rate or formula for determining the cost-of-capital rate for a statutory entity:
-  (i) amending Schedule 1 or Schedule 2 to remove or add any exemptions from the acquisition of securities, borrowing, guarantees, or derivatives rules in sections 161 to 164:
+  (i) amending Schedule 1 or Schedule 2 to remove or add any exemptions from the acquisition of financial products, borrowing, guarantees, or derivatives rules in sections 161 to 164:
   (j) amending Schedule 1 or Schedule 2 to add any exemption from the requirement to pay a net surplus to the Crown in section 165:
   (k) prescribing offences in respect of the contravention of any regulations made under this Act, and prescribing penalties not exceeding $2,000 in respect of those offences:
   (l) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
@@ -1891,7 +1894,7 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 
 ## Schedule 1 — Statutory entities
 
-| Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
+| Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
 | Accident Compensation Corporation |  |  |  |  |  |
@@ -1923,7 +1926,7 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 | Tertiary Education Commission |  |  |  |  |  |
 | WorkSafe New Zealand |  |  |  |  |  |
 
-| Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
+| Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
 | Arts Council of New Zealand Toi Aotearoa |  |  |  |  |  |
@@ -1945,7 +1948,7 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 | Te Taura Whiri I Te Reo Māori (Māori Language Commission) |  |  |  |  |  |
 | Testing Laboratory Registration Council |  |  |  |  |  |
 
-| Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
+| Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
 | Broadcasting Standards Authority |  |  |  |  |  |
@@ -1968,7 +1971,7 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 
 ## Schedule 2 — Crown entity companies
 
-| Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
+| Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
 | Crown Irrigation Investments Limited |  |  |  |  |  |
@@ -1999,8 +2002,8 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 | Section 155, with the variation specified in section 87(4) of the Education Act 1989 | Statement of responsibility for financial statements |
 | Section 157 | Variation of reporting requirements of multi-parent subsidiaries |
 | Section 158 | Bank accounts |
-| Section 159 | Application of acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules |
-| Sections 160 to 164 | Restrictions on acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions |
+| Section 159 | Application of acquisition of financial products, borrowing, guarantees, indemnities, and derivatives rules |
+| Sections 160 to 164 | Restrictions on acquisition of financial products, borrowing, guarantees, indemnities, and derivatives |
 | Section 167 | Gifts |
 | Section 168(1) and (2), except that the reference to section 154 must be read as a reference to section 87(3) of the Education Act 1989 | Accounting records |
 | Section 173 | Regulations |
