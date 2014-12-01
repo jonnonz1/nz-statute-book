@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2014-05-01_
+_Consolidation as at 2014-12-01_
 
 > Title
 
@@ -18,6 +18,7 @@ _Consolidation as at 2014-05-01_
 (1) In this Act, unless the context otherwise requires,—
   - **bank note** or means any negotiable instrument used or circulated, or intended for use or circulation, as currency
   - **banking group** has the meaning given to it in the Orders in Council made under section 81
+  - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **Deputy Chief Executive** means, if 1 person is appointed under this Act as the Deputy Governor of the Bank, that person, and if 2 persons are appointed under this Act as Deputy Governors of the Bank, the Deputy Governor designated by the Board as the Deputy Chief Executive
   - **Deputy Governor** means, if 1 person is appointed under this Act as the Deputy Governor of the Bank, that person, and if 2 persons are appointed under this Act as Deputy Governors, each of those persons
   - **designated settlement system** has the meaning set out in section 156M
@@ -36,6 +37,7 @@ _Consolidation as at 2014-05-01_
     (b) a building society as defined in section 2 of the Building Societies Act 1965; and
     (c) a registered bank; and
     (d) a specified person or class of persons (including a body or bodies of persons, whether incorporated or not) who is or are declared by the Governor-General, by Order in Council, to be a financial institution or institutions for the purposes of this Act
+  - **financial product** has the same meaning as in section 7 of the Financial Markets Conduct Act 2013
   - **financial year** has the meaning given to it by section 157
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **foreign exchange** means—
@@ -43,7 +45,7 @@ _Consolidation as at 2014-05-01_
     (b) promissory notes and bills of exchange payable otherwise than in New Zealand currency:
     (c) a right to receive payment in the currency of a country other than New Zealand:
     (d) an obligation to make payment in the currency of a country other than New Zealand:
-    (e) a security in respect of which any amount payable is payable in a country other than New Zealand or in a foreign currency
+    (e) a debt security in respect of which any amount payable is payable in a country other than New Zealand or in a foreign currency
   - **Governor** means the Governor of the Bank appointed under this Act
   - **holding company** means a holding company within the meaning of section 5 of the Companies Act 1993
   - **home country supervisor** means any central bank, authority, or body in any country other than New Zealand that exercises functions in relation to a parent bank or an overseas incorporated registered bank that correspond with, or are similar to, those conferred on the Bank under Part 5
@@ -51,6 +53,7 @@ _Consolidation as at 2014-05-01_
     (a) in the case of an overseas person that is a body corporate, the country in which that body is incorporated:
     (b) in the case of an overseas person that is an unincorporated body, the country in which that body has its head office or principal place of business
   - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
+  - **managed investment scheme** has the same meaning as in section 9 of the Financial Markets Conduct Act 2013
   - **Minister** means the Treasurer, or other Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or particular provisions of this Act
   - **net income** , in relation to a financial year, means the total revenue of the Bank reported in its statement of financial performance for that year calculated after deducting all expenses incurred by the Bank in that year
   - **New Zealand chief executive officer** , in relation to an overseas incorporated registered bank, means—
@@ -91,7 +94,6 @@ _Consolidation as at 2014-05-01_
     (b) includes—
       (i) any of those words as part of any other word:
       (ii) a translation of those words into another language (whether or not the translation of those words is part of any other word)
-  - **security** has the same meaning as in section 2 of the Securities Act 1978
   - **settlement system** has the meaning set out in section 156M
   - **significant influence** , in relation to a registered bank, means—
     (a) the ability to directly or indirectly appoint 25% or more of the board of directors (or other persons exercising powers of management, however described) of the registered bank; or
@@ -116,8 +118,8 @@ _Consolidation as at 2014-05-01_
   (c) that financial institution or registered bank directly or indirectly controls the management of that person; or
   (d) that financial institution or registered bank has a direct or indirect qualifying interest in 20% or more of the voting or non-voting securities issued by that person.
 (3) For the purposes of section 77A, transaction includes the—
-  (a) sale or transfer of property or securities; and
-  (b) issue or allotment of securities; and
+  (a) sale or transfer of property or financial products; and
+  (b) issue or allotment of financial products; and
   (c) entering into, or giving effect to a provision in, a contract or arrangement; and
   (d) arriving at, or giving effect to, an understanding.
 (4) For the purposes of Part 5, a holding company of a registered bank has a substantial interest in a body if—
@@ -331,12 +333,12 @@ The Bank may provide settlement account services for financial institutions on s
 (1) Subject to the Public Finance Act 1989, the Bank may, in accordance with an agreement with the Minister, undertake all or part of the banking business of the Government.
 (2) Any such agreement may provide for the Bank to charge for the provision of banking services.
 
-### 35 Securities registry services
-(1) The Bank may provide securities registry services for any person including services in connection with—
-  (a) the issue, registration, exchange, transfer, or replacement of securities:
-  (b) the calling and acceptance of tenders for securities:
-  (c) the making or receiving of payment in respect of any security.
-(2) Securities registry services may be provided for such remuneration, and on such terms and conditions, as may be agreed by the Bank and the person for whom they are provided.
+### 35 Financial products registry services
+(1) The Bank may provide financial products registry services for any person including services in connection with—
+  (a) the issue, registration, exchange, transfer, or replacement of financial products:
+  (b) the calling and acceptance of tenders for financial products:
+  (c) the making or receiving of payment in respect of any financial product.
+(2) Financial products registry services may be provided for such remuneration, and on such terms and conditions, as may be agreed by the Bank and the person for whom they are provided.
 
 ### 36 Bank may require financial institution to supply information
 (1) For the purposes of enabling the Bank to carry out the functions and exercise the powers conferred on it by this Part, the Bank may, from time to time, by notice in writing to any financial institution, or by notice in the Gazette applying to any specified class of financial institutions, require the institution or, as the case may be, institutions of that class, to supply to the Bank such information and data relating to the business of the institution or institutions of that class for such periods, and in such form, as may be specified in the notice.
@@ -358,7 +360,7 @@ Every financial institution commits an offence against this Act if, without lawf
 ### 39 Powers
 Without limiting section 5 or any other provision of this Act, the Non-bank Deposit Takers Act 2013, or the Insurance (Prudential Supervision) Act 2010, the Bank has power, whether in New Zealand or elsewhere, to—
   (a) carry on the business of banking:
-  (b) issue securities:
+  (b) issue financial products:
   (c) give a fixed or floating charge over all or any part of the undertaking or property of the Bank:
   (d) if the Bank ceases to carry out any function, make provision, whether or not it is in the Bank's interest to do so, for the benefit of employees of the Bank, or former employees, or their dependants:
   (e) enter into agreements or arrangements and obtain assurances necessary or desirable for carrying out its functions and exercising its powers:
@@ -411,7 +413,7 @@ Without limiting section 5 or any other provision of this Act, the Non-bank Depo
   (g) is a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence; or
   (h)
   (i)
-  (j) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993.
+  (j) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993.
   (k)
 (2) The Governor, the Deputy Governor, or a Deputy Governor, as the case may be, shall be deemed to have resigned office if that person is prohibited from continuing to hold office under this section.
 
@@ -563,7 +565,7 @@ No person shall be appointed, or reappointed, to the office of non-executive dir
   (e) is a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence; or
   (f)
   (g)
-  (h) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993.
+  (h) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993.
   (i)
 
 ### 59 Removal from office of non-executive directors
@@ -656,7 +658,7 @@ A resolution is as valid and effectual as if it had been passed at a meeting of 
   (b) a registered bank; or
   (c) any person who is authorised by the Bank under section 65 to use a name or title that includes a restricted word but only to the extent that the person is acting within the scope of that authorisation; or
   (d) any person who is exempted under section 66 but only to the extent that the person is acting within the scope of that exemption.
-(3) Despite subsection (2)(b), a registered bank must not use, without an authorisation from the Bank under section 65(1)(e), a name or title that includes a restricted word in respect of a unit trust of which the registered bank is a trustee or a manager within the meaning of the Unit Trusts Act 1960.
+(3) Despite subsection (2)(b), a registered bank must not use, without an authorisation from the Bank under section 65(1)(e), a name or title that includes a restricted word in respect of a managed investment scheme of which the registered bank is a supervisor or a manager within the meaning of section 6(1) of the Financial Markets Conduct Act 2013.
 (4) Subsection (2)(b) does not extend to a person carrying on any activity by means of, or through the agency of, a registered bank.
 (5) A person commits an offence if the person contravenes this section.
 (6) The penalty for an offence against this section is set out in section 66M.
@@ -670,7 +672,7 @@ A resolution is as valid and effectual as if it had been passed at a meeting of 
     (i) any registered bank; or
     (ii) any person connected with a registered bank:
   (d) an associated person of a registered bank:
-  (e) a registered bank or an associated person of a registered bank that intends to use a name or title that includes a restricted word in respect of a unit trust of which the registered bank or the associated person is a trustee or manager within the meaning of the Unit Trusts Act 1960:
+  (e) a registered bank or an associated person of a registered bank that intends to use a name or title that includes a restricted word in respect of a managed investment scheme of which the registered bank or the associated person is a supervisor or a manager within the meaning of section 6(1) of the Financial Markets Conduct Act 2013:
   (f) a person that is not a financial institution.
 (2) In the case of an authorisation under subsection (1)(a), the Bank must—
   (a) give the authorisation by notice in writing to the person; and
@@ -2237,7 +2239,7 @@ Nothing in any Act, other than this Act or the Official Information Act 1982, re
 (1) The powers conferred on the Minister and the Bank by this Part must be exercised for the purposes of—
   (a) promoting the maintenance of a sound and efficient financial system; and
   (b) avoiding significant damage to the financial system that could result from the failure of a participant in a settlement system.
-(2) The powers conferred on the Minister responsible for the Securities Act 1978 and the FMA by this Part must be exercised for the purposes of—
+(2) The powers conferred on the Minister responsible for the Financial Markets Conduct Act 2013 and the FMA by this Part must be exercised for the purposes of—
   (a) promoting the integrity and effectiveness of settlement systems and related markets in New Zealand; and
   (b) enhancing the confidence of investors and other market participants in settlement systems and related markets in New Zealand.
 (3) The Governor-General must exercise the powers conferred on him or her by this Part for the purposes set out in subsections (1) and (2).
@@ -2256,7 +2258,7 @@ For the purposes of this Part, the FMA may exercise its powers under subpart 1 o
   - **joint regulators** means—
     (a) the Bank; and
     (b) the FMA
-  - **Minister responsible for the Securities Act 1978** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Securities Act 1978
+  - **Minister responsible for the Financial Markets Conduct Act 2013** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Financial Markets Conduct Act 2013
   - **netted balance** means any amount calculated in accordance with the netting provisions of the rules of a designated settlement system as the net debit payable by, or on behalf of, a participant in the designated settlement system to, or on behalf of, another participant in that system for all or any claims or obligations to which those rules apply
   - **netting** means the conversion into 1 net claim or obligation, or the set-off, of different claims or obligations between participants in a settlement system that results from the issue and receipt of settlement instructions involving 2 or more participants in the settlement system or that is otherwise provided for under the rules of the settlement system,—
     (a) whether on a bilateral or multilateral basis; and
@@ -2305,7 +2307,7 @@ For the purposes of this Part, the FMA may exercise its powers under subpart 1 o
 **Designation**
 
 ### 156N Designation of settlement system
-(1) The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Securities Act 1978 given in accordance with a joint recommendation of the joint regulators, declare any settlement system to be a designated settlement system.
+(1) The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 given in accordance with a joint recommendation of the joint regulators, declare any settlement system to be a designated settlement system.
 (2) The order must specify—
   (a) the settlement system that is the subject of the designation; and
   (b) the documents that evidence the rules of that settlement system; and
@@ -2337,7 +2339,7 @@ The procedure set out in sections 156Y to 156ZA must be followed by the joint re
   (d) anything in sections 156K, 156M, and 156ZB to 156ZQ that may or must be done by both of the joint regulators may or must be done by the Bank alone; and
   (e) except as set out in subsection (2), in performing its functions and duties and exercising its powers under sections 156K, 156M, and 156ZB to 156ZQ, the Bank does not have to consult with, advise, or give notice to, the FMA; and
   (f) section 156L does not apply; and
-  (g) the advice of the Minister responsible for the Securities Act 1978 is not required under section 156ZD or 156ZE; and
+  (g) the advice of the Minister responsible for the Financial Markets Conduct Act 2013 is not required under section 156ZD or 156ZE; and
   (h) this Part must be interpreted with all necessary modifications in order to give effect to this section.
 (2) However, if the Bank intends to recommend, in accordance with section 156ZD (applied as set out in subsection (1)), that a designated settlement system's designation is varied so that it is no longer specified to be a pure payment system, the Bank must consult with the FMA before making that recommendation.
 (3) This section ceases to apply to a designated settlement system if, in accordance with section 156ZD (applied as set out in subsection (1)), that settlement system's designation is varied so that it is no longer specified to be a pure payment system.
@@ -2439,7 +2441,7 @@ If the rules of a designated settlement system provide for netting, any netting 
   (a) be accompanied by a copy of the rules of the settlement system; and
   (b) be accompanied by any information required by either or both of the joint regulators; and
   (c) set out the contact details and the name or title of the person who is proposed to act as the contact person of the settlement system; and
-  (d) be accompanied by the application fee (if any) that is jointly determined by the joint regulators and approved by both the Minister and the Minister responsible for the Securities Act 1978 by notice in the Gazette.
+  (d) be accompanied by the application fee (if any) that is jointly determined by the joint regulators and approved by both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 by notice in the Gazette.
 (4) The joint regulators may, together, produce guidelines relating to the application procedure.
 
 ### 156Z Consideration of application
@@ -2459,7 +2461,7 @@ If the rules of a designated settlement system provide for netting, any netting 
 
 ### 156ZA Decision on application
 (1) After considering an application, the joint regulators must, together, either—
-  (a) make a joint recommendation to both the Minister and the Minister responsible for the Securities Act 1978 that the settlement system to which the application relates be declared to be a designated settlement system under section 156N; or
+  (a) make a joint recommendation to both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 that the settlement system to which the application relates be declared to be a designated settlement system under section 156N; or
   (b) refuse to make that recommendation.
 (2) If subsection (1)(b) applies, the joint regulators must together give notice in writing to the applicant stating—
   (a) that the joint regulators refuse to make a recommendation that the settlement system to which the application relates be declared to be a designated settlement system under section 156N; and
@@ -2485,14 +2487,14 @@ If the rules of a designated settlement system provide for netting, any netting 
 **Variation and revocation of designation**
 
 ### 156ZD Variation of designation
-The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Securities Act 1978 given in accordance with a joint recommendation of the joint regulators, vary any designation made under section 156N—
+The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 given in accordance with a joint recommendation of the joint regulators, vary any designation made under section 156N—
   (a) by amending any of the matters referred to in section 156N(2)(b) to (d) and (3)(b) to (d); or
   (b) by making the designation subject to a requirement that an amendment be made to the documents that evidence the rules of the settlement system that is the subject of the designation; or
   (c) by revoking or amending any condition to which the designation is subject; or
   (d) by making the designation subject to a new condition.
 
 ### 156ZE Revocation of designation
-The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Securities Act 1978 given in accordance with a joint recommendation of the joint regulators, revoke any designation made under section 156N.
+The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 given in accordance with a joint recommendation of the joint regulators, revoke any designation made under section 156N.
 
 ### 156ZF Settlement and netting not affected by variation or revocation of designation
 The variation or revocation of a designation made under section 156N does not affect the application of sections 156Q, 156R, and 156T to settlements that were effected, and netting that took place, before the variation or revocation.
@@ -2500,7 +2502,7 @@ The variation or revocation of a designation made under section 156N does not af
 ### 156ZG Application for variation or revocation of designation
 (1) A person who wishes to have the designation made under section 156N for a designated settlement system varied or revoked may apply to either of the joint regulators.
 (2) A joint regulator must, as soon as practicable, advise the other joint regulator if it receives an application.
-(3) An application must be accompanied by the application fee (if any) that is jointly determined by the joint regulators and approved by both the Minister and the Minister responsible for the Securities Act 1978 by notice in the Gazette.
+(3) An application must be accompanied by the application fee (if any) that is jointly determined by the joint regulators and approved by both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 by notice in the Gazette.
 
 ### 156ZH Either joint regulator may independently begin review of designation
 (1) Either of the joint regulators may, independently of the other joint regulator and without having received an application under section 156ZG, begin a review to determine whether to recommend a variation or revocation of a designation made under section 156N.
@@ -2997,7 +2999,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (c) providing for the furnishing of information and the production of books or documents to the Minister or the Bank or any other person for any of the purposes of any such regulations (whether or not the effect of doing so may be to require the furnishing of information, or the production of books or documents, that will reveal the identity or affairs of any particular person); and providing for the verification of any such information; and providing that any such books or documents may be copied, and may be retained or impounded, by any person or persons to whom they are produced:
   (d) authorising the Minister or the Bank or any other person to exercise any discretionary power or authority for the purposes of any such regulations:
   (e) providing for the delegation of any of the powers or functions of the Minister (including the power of delegation) or the Bank under any such regulations:
-  (f) providing for and regulating the issue, registration, transfer, control, and redemption of any securities issued by the Bank:
+  (f) providing for and regulating the issue, registration, transfer, control, and redemption of any financial products issued by the Bank:
   (fa) prescribing information for the purposes of section 69(2A)(c):
   (g) pescribing forms for the purposes of this Act or of any such regulations, in any case where a form is not prescribed by this Act:
   (h) providing for and regulating the giving or service of notices for the purposes of this Act or of any such regulations, and the effect of such notices:
