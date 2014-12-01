@@ -1,5 +1,5 @@
 # Trustee Act 1956
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to trusts and trustees
 
@@ -530,7 +530,7 @@ Where any property settled by way of succession is employed in a business that t
 **Special powers in respect of portfolio investment entities**
 
 ### 42E Power to adjust interests in trust property of portfolio investment entity
-Where any property is employed in an activity that the trustee is empowered or authorised to carry on as a portfolio investment entity, the trustee may adjust the interests of the beneficiaries in the property in the way required by section HL 7 of the Income Tax Act 2007 despite any other provision in this Act, in the Superannuation Schemes Act 1989, or in any instrument creating the trust under which the property is held
+Where any property is employed in an activity that the trustee is empowered or authorised to carry on as a portfolio investment entity, the trustee may adjust the interests of the beneficiaries in the property in the way required by section HL 7 of the Income Tax Act 2007 despite any other provision in this Act, in the Financial Markets Conduct Act 2013, or in any instrument creating the trust under which the property is held.
 
 ## Part 4 — Appointment and discharge of trustees
 
@@ -577,16 +577,10 @@ Where any property is employed in an activity that the trustee is empowered or a
 (1) Where any trustee is desirous of being discharged from his trust he shall be entitled to retire therefrom on passing his accounts before the Registrar, and giving notice of his retirement to his co-trustees (if any), and to such other person (if any) as is empowered to appoint new trustees.
 (2) If such co-trustees, or such other person as aforesaid empowered to appoint new trustees, or any of them, refuse or neglect to appoint a new trustee or to consent to such appointment in place of the trustee so retiring, or if the retiring trustee is the sole trustee having power to appoint a new trustee, but the exercise of that power is impracticable or difficult without the assistance of the court, it shall be lawful for the retiring trustee to apply to the court for the appointment of a new trustee in his place.
 (3) The court may, upon any such application, make an order appointing some proper person as trustee in place of the trustee so desirous of being discharged from his trust, and direct any accounts and inquiries to be made, and make an order discharging the trustee from the trust and from all liability in respect thereof, and may make such order as to costs or otherwise as it thinks fit, and may exercise any of the powers contained in Part 5; and the person who upon the making of the order becomes trustee shall have the same rights and powers as he would have had if appointed by judgment in an action duly instituted.
-(4) If the court, on an application under subsection (2) by a trustee other than a securities trustee, appoints Public Trust as the replacement trustee, Public Trust must accept the appointment.
-(5) On an application under subsection (2) by a securities trustee for the appointment of Public Trust as the replacement trustee, the court may appoint Public Trust, and Public Trust must accept the appointment, only if—
-  (a) the retiring trustee has failed to obtain a replacement trustee after making reasonable endeavours to do so; and
-  (b) it is impracticable or difficult to obtain a replacement trustee without an order under this section; and
-  (c) the retiring trustee indemnifies Public Trust for its reasonable fees and expenses incurred in undertaking the appointment; and
-  (d) the retiring trustee has provided security to the satisfaction of the court for its indemnity under paragraph (c).
-(6) For the purposes of subsection (5)(a), and without limiting the meaning of reasonable endeavours, a retiring trustee has not made reasonable endeavours to obtain a replacement trustee if it has not both—
-  (a) undertaken to indemnify the proposed replacement trustee for its reasonable fees and expenses in undertaking the appointment; and
-  (b) offered adequate security for its indemnity.
-(7) In subsections (4) and (5), securities trustee means a person appointed as a trustee in respect of a security (and, for this purpose, security and trustee have the same meanings as in section 4(1) of the Securities Trustees and Statutory Supervisors Act 2011).
+(4) If the court, on an application under subsection (2) by a trustee other than a supervisor, appoints Public Trust as the replacement trustee, Public Trust must accept the appointment.
+(5) In subsection (4), supervisor means a person appointed as a supervisor within the meaning of section 6(1) of the Financial Markets Conduct Act 2013.
+(6)
+(7)
 
 ### 47 Vesting of trust property in new or continuing trustees
 (1) Where by a deed a new trustee is appointed to perform any trust, then—
@@ -1030,15 +1024,3 @@ This Act comes into force on 26 April 2005.
 ### 3 Application
 (1) The amendments made to section 40(2) of the principal Act by section 4 apply in respect of any accumulated residue referred to in section 40 of the principal Act, even if the accumulation was made before the commencement of this Act.
 (2) The amendments made to section 42(1)(b) of the principal Act by section 5 apply in respect of any trust coming into operation under section 42 of the principal Act, even if the trust came into operation before the commencement of this Act.
-
-### 1 Title
-This Act is the Trustee (Public Trust) Amendment Act 2013.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 3 Principal Act
-This Act amends the Trustee Act 1956 (the principal Act).
-
-### 5 Transitional provision
-Nothing in the amendment made under section 4 affects any proceeding commenced before section 4 comes into force, and any such proceeding must be decided as if the amendment had not been made.
