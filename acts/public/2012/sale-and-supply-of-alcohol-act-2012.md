@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -692,6 +692,7 @@ An extract of any register or record kept by the secretary of the licensing auth
   (a) the company took all reasonable and proper steps to ensure that the provision concerned would be complied with; or
   (b) he or she took all reasonable and proper steps to ensure that the company complied with the provision; or
   (c) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the provision.
+(7) In this section, stock exchange has the same meaning as in section 2(1) of the Companies Act 1993.
 
 ### 70 Notification of licensing authority by beneficial owner of shares of changes in shareholding
 (1) Any person on whose behalf any shares are held by any other person in any company that holds a licence must notify the secretary of the licensing authority if, after the licence is issued to the company, the number of shares held changes so that the shareholding reaches at least 20% of the shares, or of any particular class of the shares, issued by the company.
@@ -1851,8 +1852,6 @@ Where any person has neglected or omitted to do any act or thing in the precise 
 (4) The licensing authority must take all reasonably practicable steps to ensure that copies of its decisions are publicly available.
 (5) Every territorial authority must take all reasonably practicable steps to ensure that copies of all the decisions of its licensing committees are publicly available.
 (6) A decision takes effect on the date stated in the decision (or, if no date is stated, on the date the decision is given).
-
-### Subpart
 
 ### Subpart 7 — Management of licensed premises
 
@@ -3383,8 +3382,6 @@ For the purposes of the Local Authorities (Members' Interests) Act 1968, a commu
 
 ### 396 Application of Local Government Official Information and Meetings Act 1987
 For the purposes of Parts 1 to 4 of the Local Government Official Information and Meetings Act 1987, a community trust is treated as if it were a territorial authority and that Act applies accordingly.
-
-### Subpart
 
 ### Subpart 3 — Other matters
 
