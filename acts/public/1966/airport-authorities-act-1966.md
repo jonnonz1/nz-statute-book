@@ -1,5 +1,5 @@
 # Airport Authorities Act 1966
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend the Local Authorities Empowering (Aviation Encouragement) Act 1929 and its amendments and to confer powers on certain local authorities and other persons in respect of airports
 
@@ -28,8 +28,8 @@ In this Act, unless the context otherwise requires,—
   - **airport authority** means a local authority for the time being authorised under section 3 to establish, maintain, operate, or manage an airport; and includes any person or association of persons authorised under subsection (3) of that section to exercise the powers of a local authority
   - **airport company** means a company registered under the Companies Act 1993 that is for the time being authorised under section 3(3) to exercise the functions of a local authority under that section
   - **charge** includes a fee or due and also includes rent payable under any lease
-  - **debt security** has the same meaning as in section 2(1) of the Securities Act 1978
-  - **equity security** has the same meaning as in section 2(1) of the Securities Act 1978
+  - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
+  - **equity security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **identified airport activities** means any 1 or more of the following, as the case may be:
     (a) airfield activities:
     (b) aircraft and freight activities:
