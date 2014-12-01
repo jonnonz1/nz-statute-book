@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -85,12 +85,17 @@ In achieving the purposes of this Act, the Bank must take into account the follo
   - **current financial strength rating** means a financial strength rating that, in relation to a date on which an insurer is required to have a rating, was given not earlier than 1 year before that date
   - **deed administrator** has the same meaning as in section 239B of the Companies Act 1993
   - **deed of company arrangement** has the same meaning as in section 239B of the Companies Act 1993
+  - **derivative transaction** means—
+    (a) a transaction that is a rate swap transaction, swap option, basis swap, forward rate transaction, interest rate option, foreign exchange transaction, cap transaction, floor transaction, collar transaction, currency swap transaction, cross-currency rate swap transaction, currency option, commodity swap, commodity option, equity or equity index swap, equity or equity index option, bond option, credit protection transaction, credit swap, credit default swap, credit default option, total return swap, credit spread transaction, forward purchase or sale of a security, or commodity or other financial instrument or interest (including an agreement or option that relates to any of these transactions); or
+    (b) a transaction that is similar to any transaction referred to in paragraph (a) that—
+      (i) is currently, or in the future becomes, recurrently entered into in the financial markets; and
+      (ii) is a forward, swap, future, option, or other derivative on 1 or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, economic indices or measures of economic risk or value, environmental or climatic variables, or other benchmarks against which payments or deliveries are to be made
   - **direction** means any direction given by the Bank under this Act or the regulations
   - **director** means—
     (a) a person occupying the position of director by whatever name called:
     (b) in the case of an entity that does not have directors as such, any trustee, manager, or other person who acts in relation to that entity in the same or a similar fashion as a director would act were that entity a company incorporated in New Zealand under the Companies Act 1993
   - **document** has the same meaning as in section 4(1) of the Evidence Act 2006
-  - **failing to maintain a solvency margin** , in relation to an insurer, means that the insurer is failing to comply with a condition of its licence imposed under section 21(2)(b) or (c)
+  - **failing to maintain a solvency margin** , in relation to an insurer, means that the insurer is failing to comply with a condition of its licence imposed under section 21(2)﻿(b) or (c)
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial strength rating** ,—
     (a) in relation to an insurer other than a Lloyd's underwriter, means a rating that indicates the ability of the insurer to meet its liabilities under contracts of insurance as they fall due:
@@ -113,7 +118,7 @@ In achieving the purposes of this Act, the Bank must take into account the follo
     (a) who, for reward, arranges contracts of insurance in New Zealand or elsewhere; and
     (b) who does so as the employee of or agent for 1 or more insurers or as the agent of the policyholder
   - **insurer** means a person by whom or on whose behalf the risk or part of the risk to which a contract of insurance relates is accepted
-  - **investigator** means a person appointed under section 130(2)(b)
+  - **investigator** means a person appointed under section 130(2)﻿(b)
   - **licence** —
     (a) means a licence issued under Part 2; and
     (b) includes a provisional licence
@@ -211,11 +216,11 @@ In achieving the purposes of this Act, the Bank must take into account the follo
   (a) with respect to which there is (from the perspective of the policyholder) an element of uncertainty as to when or whether it will take place; and
   (b) that is beyond the insurer's control.
 (3) However, a contract, to the extent that it provides for, or relates to, any of the following is not a contract of insurance for the purposes of this Act:
-  (a) a derivative transaction (within the meaning of section 136(1) of the Crown Entities Act 2004):
+  (a) a derivative transaction:
   (b) a guarantee under which a person agrees to answer to another person for the debt, default, or liability of a third person:
   (c) a repayment waiver (within the meaning of section 5 of the Credit Contracts and Consumer Finance Act 2003):
   (d) a product or service guarantee or warranty in relation to any goods or services that is given or made by the manufacturer or supplier:
-  (e) any lump sum, annuity, pension, allowance, refund, or other payment arising from membership of a superannuation scheme (within the meaning of section 2A of the Superannuation Schemes Act 1989) or a KiwiSaver scheme (within the meaning of section 4(1) of the KiwiSaver Act 2006):
+  (e) any lump sum, annuity, pension, allowance, refund, or other payment arising from membership of a retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
   (f) gambling (within the meaning of section 4(1) of the Gambling Act 2003):
   (g) a call-out service that involves providing assistance in respect of a motor vehicle (within the meaning of section 2(1) of the Land Transport Act 1998) that cannot be operated (for example, because it has broken down, has run out of fuel, or has a flat tyre, or because the owner or operator is locked out), being a service that is not provided when the motor vehicle is involved in a motor vehicle accident, is stolen, or is damaged owing to theft or vandalism:
   (h) any other transaction or matter of a class declared by regulations to be transactions or matters that are not by way of insurance.
@@ -236,7 +241,7 @@ In achieving the purposes of this Act, the Bank must take into account the follo
   (d) a public entity (within the meaning of section 5(1) of the Public Audit Act 2001) that is declared by regulations to be an entity to which this paragraph applies; or
   (e) an incorporated society or other association of persons that satisfies the criteria specified in subsection (3); or
   (f) the subject of a declaration under section 9.
-(3) The criteria that an incorporated society or other association of persons must satisfy for the purposes of subsection (2)(e) are that—
+(3) The criteria that an incorporated society or other association of persons must satisfy for the purposes of subsection (2)﻿(e) are that—
   (a) the primary purpose or purposes of the society or association relate to a particular profession, trade, or occupation; and
   (b) all of the members of the society or association consist of 1 or more of the following:
     (i) persons that belong to, or are associated with, the particular profession, trade, or occupation:
@@ -343,7 +348,7 @@ This Act binds the Crown.
     (ii) is signed on behalf of all the directors of the applicant by at least 2 directors of the applicant (or, if the applicant has only 1 director, by that director); and
     (iii) contains, or is accompanied by, a certificate from each director or relevant officer that is signed by the director or relevant officer and states that, in his or her opinion, he or she is, in accordance with the policy, a fit and proper person to hold the relevant position; and
   (c) a copy of a risk management programme that complies with section 73.
-(2) For the purposes of subsection (1)(b), the person that the insurer intends to appoint as the appointed actuary must be treated as being a relevant officer.
+(2) For the purposes of subsection (1)﻿(b), the person that the insurer intends to appoint as the appointed actuary must be treated as being a relevant officer.
 
 ### 19 Entitlement to licence
 (1) An applicant is entitled to be issued with a licence if the Bank is satisfied that—
@@ -353,8 +358,8 @@ This Act binds the Crown.
   (d) in the case of an applicant who carries on, or proposes to carry on, business as a life insurer, the applicant has the ability to comply with subpart 3 and the regulations; and
   (e) the applicant has the ability to comply with the proposed conditions of licence (if any); and
   (f) the applicant holds and has the ability to maintain a minimum amount of capital that is specified in an applicable solvency standard; and
-  (g) the applicant has complied with section 18(1)(a) and (b) and the fit and proper policy that is provided is satisfactory; and
-  (h) the applicant has complied with section 18(1)(c) and the risk management programme that is provided is satisfactory; and
+  (g) the applicant has complied with section 18(1)﻿(a) and (b) and the fit and proper policy that is provided is satisfactory; and
+  (h) the applicant has complied with section 18(1)﻿(c) and the risk management programme that is provided is satisfactory; and
   (i) the applicant's incorporation and ownership structure, ownership, governance structure, and financial strength are appropriate, having regard to the size and nature of the applicant's business or proposed business, including—
     (i) the size and type of insurance business that is, or is proposed to be, carried out; and
     (ii) the size and type of risks that are, or are proposed to be, insured; and
@@ -366,8 +371,8 @@ This Act binds the Crown.
     (ii) complies with section 13(a) of that Act; and
   (l) the applicant has the ability to comply with the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (if the applicant is, or will be, a reporting entity under that Act); and
   (m) the applicant complies with any other prescribed requirements.
-(2) For the purposes of subsection (1)(c) and (d), the Bank must, in the case of an applicant that is an overseas person, have regard to any overseas policyholder preference.
-(3) For the purposes of subsection (1)(j)(i), the matters are—
+(2) For the purposes of subsection (1)﻿(c) and (d), the Bank must, in the case of an applicant that is an overseas person, have regard to any overseas policyholder preference.
+(3) For the purposes of subsection (1)﻿(j)﻿(i), the matters are—
   (a) the licensing, registration, or authorisation of insurers; and
   (b) the supervision of insurers; and
   (c) solvency and capital standards that apply to insurers; and
@@ -375,12 +380,12 @@ This Act binds the Crown.
   (e) corporate governance standards; and
   (f) matters concerning insurers that are insolvent or otherwise in serious financial difficulties; and
   (g) the disqualification of persons to be or to act as directors or relevant officers of an insurer.
-(4) The law and regulatory requirements referred to in subsection (1)(j)(i), and the nature and extent of the prudential supervision referred to in subsection (1)(j)(ii), must be treated as being appropriate for the purposes of those provisions if the applicant's home jurisdiction is a prescribed jurisdiction for the purposes of this subsection.
-(5) If an applicant is not required under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 to be registered under that Act, the applicant is still required to comply with section 13(a) of that Act for the purposes of subsection (1)(k).
+(4) The law and regulatory requirements referred to in subsection (1)﻿(j)﻿(i), and the nature and extent of the prudential supervision referred to in subsection (1)﻿(j)﻿(ii), must be treated as being appropriate for the purposes of those provisions if the applicant's home jurisdiction is a prescribed jurisdiction for the purposes of this subsection.
+(5) If an applicant is not required under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 to be registered under that Act, the applicant is still required to comply with section 13(a) of that Act for the purposes of subsection (1)﻿(k).
 
 ### 20 Carrying on business in prudent manner
 (1) Subsection (2) applies when the Bank is—
-  (a) considering, for the purposes of section 19(1)(b), the ability of an applicant to carry on its business or proposed business in a prudent manner; or
+  (a) considering, for the purposes of section 19(1)﻿(b), the ability of an applicant to carry on its business or proposed business in a prudent manner; or
   (b) considering what conditions should be imposed under section 21 relating to the applicant carrying on its business or proposed business in a prudent manner; or
   (c) considering whether a licensed insurer is carrying on its business in a prudent manner.
 (2) The Bank must confine its consideration to the following matters:
@@ -397,7 +402,7 @@ This Act binds the Crown.
 ### 21 Conditions of licence
 (1) A body corporate may be licensed as a licensed insurer unconditionally or subject to any conditions that the Bank may impose under subsection (2).
 (2) A licence may be subject to any of the following conditions:
-  (a) conditions that relate to any of the matters referred to in section 20 (which relates to carrying on business in a prudent manner), including any matters prescribed by regulations made for the purposes of section 20(2)(g):
+  (a) conditions that relate to any of the matters referred to in section 20 (which relates to carrying on business in a prudent manner), including any matters prescribed by regulations made for the purposes of section 20(2)﻿(g):
   (b) conditions that require a licensed insurer to maintain a solvency margin in accordance with an applicable solvency standard (including requiring the insurer to maintain a minimum amount of capital in accordance with the standard):
   (c) conditions that require a life insurer to maintain solvency margins in respect of the statutory funds of the insurer in accordance with an applicable solvency standard (including requiring the insurer to maintain a minimum amount of capital in accordance with the standard):
   (d) a condition that requires a specified amount or proportion of the licensed insurer's insurance business to relate to New Zealand policyholders (whether that amount or proportion is defined in terms of premium revenue, amount of insurance liability, a combination of premium revenue and amount of insurance liability, or in any other way):
@@ -410,8 +415,8 @@ This Act binds the Crown.
     (iii) any requirements of any other enactment imposed on the insurer as a licensed insurer (for example, financial reporting obligations):
   (g) a condition that requires a certificate given under paragraph (f) to be verified by the appointed actuary or another person specified in the condition (being verification that is given at the time or times and in the manner specified in the condition):
   (h) any other prescribed conditions or conditions that relate to prescribed matters.
-(3) Subsection (2)(c) does not limit subsection (2)(b).
-(4) A condition under subsection (2)(b) or (c) may—
+(3) Subsection (2)﻿(c) does not limit subsection (2)﻿(b).
+(4) A condition under subsection (2)﻿(b) or (c) may—
   (a) specify the amount of the solvency margin; or
   (b) set the level of the solvency margin by means of a ratio, percentage of another amount, or in any other way.
 
@@ -465,7 +470,7 @@ A licensed insurer commits an offence if it fails to comply with a condition of 
 If a licensed insurer intends or proposes to change its corporate form (for example, as a result of demutualisation), the insurer must notify the Bank of that matter before the change takes place.
 
 ### 28 Bank must consider whether it is still satisfied as to licensing matters
-(1) The Bank must, after being notified under section 26 or 27, consider whether, if the proposed transaction takes effect or the corporate form is changed, the Bank would still be satisfied of the matters in section 19(1)(a) to (m) (which are the matters that the Bank must be satisfied of before an applicant is entitled to be issued with a licence).
+(1) The Bank must, after being notified under section 26 or 27, consider whether, if the proposed transaction takes effect or the corporate form is changed, the Bank would still be satisfied of the matters in section 19(1)﻿(a) to (m) (which are the matters that the Bank must be satisfied of before an applicant is entitled to be issued with a licence).
 (2) Each of the following persons must, within the time and in the manner specified by the Bank, provide to the Bank the information that is required by the Bank to assist it in acting under subsection (1):
   (a) in the case of section 26, the person that notified the Bank and the licensed insurer:
   (b) in the case of section 27, the licensed insurer.
@@ -485,20 +490,20 @@ A licensed insurer or other person that fails to comply with section 26, 27, or 
     (ii) the licensed insurer has ceased to carry on insurance business in New Zealand:
     (iii) the licensed insurer has breached a condition of the licence that requires it to commence carrying on insurance business in New Zealand:
     (iv) there has been a failure to comply with section 26, 27, or 28(2) in respect of the licensed insurer (whether the failure is by a person referred to in section 26(2) or the insurer):
-    (v) the Bank has given a notice under section 28(3) that, if a proposed transaction takes effect or the corporate form is changed, it would no longer be satisfied of 1 or more of the matters in section 19(1)(a) to (m), and (whether before or after that notice is given) the proposed transaction takes effect or the corporate form is changed:
+    (v) the Bank has given a notice under section 28(3) that, if a proposed transaction takes effect or the corporate form is changed, it would no longer be satisfied of 1 or more of the matters in section 19(1)﻿(a) to (m), and (whether before or after that notice is given) the proposed transaction takes effect or the corporate form is changed:
     (vi) the licensed insurer has been deregistered under section 18 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 and has not been reregistered under that Act (whether under section 22 of that Act or otherwise) within the 3-month period from the date of deregistration:
     (vii) the licensed insurer is a company that has been removed from the New Zealand register (within the meaning of the Companies Act 1993):
     (viii) the licensed insurer is an overseas company that has been removed from the overseas register (within the meaning of the Companies Act 1993):
     (ix) the licensed insurer has been liquidated, wound up, or dissolved or has otherwise ceased to exist; and
   (b) the licensed insurer has no liabilities under any contracts of insurance in respect of insurance business carried on by it in New Zealand.
-(2) The Bank must not, in the case of subsection (1)(a)(ii) to (vi), cancel a licence unless—
+(2) The Bank must not, in the case of subsection (1)﻿(a)﻿(ii) to (vi), cancel a licence unless—
   (a) the Bank sends notice of the Bank's intention to cancel the licence to the insurer; and
   (b) the notice contains, or is accompanied by, a statement of the Bank's reasons; and
   (c) the notice specifies the date by which an objection to the cancellation must be delivered to the Bank (which must be not less than 20 working days after the date of the notice); and
   (d) the Bank has regard to any objections that are received before the close of the date specified under paragraph (c).
 (3) The Bank must, as soon as practicable after cancelling a licence, give—
   (a) public notice of the cancellation; and
-  (b) in the case of a cancellation under subsection (1)(a)(i) to (vi), written notice of the cancellation to the insurer.
+  (b) in the case of a cancellation under subsection (1)﻿(a)﻿(i) to (vi), written notice of the cancellation to the insurer.
 (4) In this section, public notice means that the notice is published—
   (a) in 1 or more daily newspapers circulating in each of the cities of Auckland, Hamilton, Wellington, Christchurch, and Dunedin; and
   (b) on the Bank's Internet site.
@@ -608,7 +613,7 @@ If a licensed insurer (the first insurer) accepts an assignment of liabilities f
   (a) the licensed insurer; and
   (b) the director or the relevant officer; and
   (c) in the case of a director, the Registrar of Companies.
-(3) A notice given under subsection (2)(c) is sufficient compliance with section 159 of the Companies Act 1993.
+(3) A notice given under subsection (2)﻿(c) is sufficient compliance with section 159 of the Companies Act 1993.
 (4) A notice given under this section may be amended, revoked, or replaced in the same way as it may be given.
 
 ### 41 Former director or relevant officer must not accept reappointment in breach of direction
@@ -672,7 +677,7 @@ In considering a request made under section 45, the Bank must have regard to the
   (a) all of the information under section 45(3) that is reasonably required by the Bank to assist it in determining whether to give its approval:
   (b) all reports that the Bank has arranged to receive under section 46 in respect of the proposed transfer or amalgamation.
 (3) The approval may be subject to any of the following conditions:
-  (a) conditions that relate to any of the matters referred to in section 20 (which relates to carrying on business in a prudent manner), including any matters prescribed by regulations made for the purposes of section 20(2)(g):
+  (a) conditions that relate to any of the matters referred to in section 20 (which relates to carrying on business in a prudent manner), including any matters prescribed by regulations made for the purposes of section 20(2)﻿(g):
   (b) a condition that requires a specified amount or proportion of the transferee's or amalgamated entity's insurance business to relate to New Zealand policyholders (whether that amount or proportion is defined in terms of premium revenue, amount of insurance liability, a combination of premium revenue and amount of insurance liability, or in any other way):
   (c) a condition that requires a licensed insurer or the directors of a licensed insurer (or both) to certify that any conditions have been complied with (being certification that is given at the time or times and in the manner specified in the condition):
   (d) any other prescribed conditions or conditions that relate to prescribed matters.
@@ -735,7 +740,7 @@ The Bank must publish its policies in relation to how it acts, or proposes to ac
 
 ### 56 Matters that may be contained in solvency standards
 A solvency standard may prescribe 1 or more of the following matters:
-  (a) for the purposes of sections 19(1)(f) and 21(2)(b) and (c),—
+  (a) for the purposes of sections 19(1)﻿(f) and 21(2)﻿(b) and (c),—
     (i) the minimum amount of capital that an insurer must hold and maintain:
     (ii) the methods for determining or calculating the amount of capital that an insurer must hold and maintain (whether by reference to a specified formula, framework, or amount, a combination of specified formulae, frameworks, or amounts, or otherwise):
   (b) the methods for determining or calculating a solvency margin for the purposes of a condition of a licence (whether by reference to a specified formula, framework, or amount, a combination of specified formulae, frameworks, or amounts, or otherwise):
@@ -775,7 +780,7 @@ A licensed insurer commits an offence if it fails to comply with any of the requ
 ### 60 Licensed insurer must have current financial strength rating
 (1) A licensed insurer must have a current financial strength rating that is given by an approved rating agency.
 (2) Subsection (1) does not apply to—
-  (a) a licensed insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)(a)(ii); or
+  (a) a licensed insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)﻿(a)﻿(ii); or
   (b) a licensed insurer if the only kind of insurance business carried on by the insurer in New Zealand is reinsurance business; or
   (c) a captive insurer; or
   (d) an insurer that is exempted under subsection (2A).
@@ -826,7 +831,7 @@ A licensed insurer commits an offence if it fails to comply with any of the requ
 (5) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $100,000.
 
 ### 65 Disclosure by insurers not required to be rated
-(1) A licensed insurer that does not have a current financial strength rating as a result of section 60(2)(a) must, before entering into a contract of insurance or renewing a contract of insurance with a New Zealand policyholder, disclose in writing to the policyholder—
+(1) A licensed insurer that does not have a current financial strength rating as a result of section 60(2)﻿(a) must, before entering into a contract of insurance or renewing a contract of insurance with a New Zealand policyholder, disclose in writing to the policyholder—
   (a) that the insurer is not required to have a current financial strength rating; and
   (b) the reason why it is not required to have a current financial strength rating.
 (2) If an insurance intermediary, in arranging a contract of insurance or the renewal of a contract of insurance, discloses to the policyholder in writing and before the contract is entered into or renewed the matters referred to in subsection (1) in relation to the proposed insurer, the insurer must be treated as having complied with that subsection.
@@ -870,7 +875,7 @@ A licensed insurer commits an offence if it fails to comply with any of the requ
 (1) A licensed insurer must not—
   (a) disclose to a New Zealand policyholder a rating from a non-approved agency; or
   (b) distribute an advertisement relating to any of the insurer's insurance products that refers to a rating from a non-approved agency.
-(2) Subsection (1)(a) does not apply in respect of a disclosure to any policyholder that is a related party or an employee of the insurer.
+(2) Subsection (1)﻿(a) does not apply in respect of a disclosure to any policyholder that is a related party or an employee of the insurer.
 (3) In this section, rating from a non-approved agency means, in relation to a licensed insurer, an assessment of its financial strength or creditworthiness that is in substance a financial strength rating or credit rating (whether called a rating, grading, scoring, ranking, or by any other name) that is issued or given by an agency that is not an approved rating agency.
 
 ### 71 Offence to fail to comply with disclosure obligations
@@ -898,7 +903,7 @@ A licensed insurer commits an offence if it fails to comply with any of sections
   (c) set out appropriate documentation and record-keeping requirements; and
   (d) describe the steps that the licensed insurer will take to ensure that the programme remains current, which must include procedures for regular review of the programme to systematically identify and address deficiencies in the effectiveness of the programme; and
   (e) be appropriate to the operations of the licensed insurer, having regard to the factors relevant to the risks referred to in paragraph (b) (for example, the size of the licensed insurer, its corporate structure (including its relationship with associated persons), its funding structure, the market sector in which it operates, and its business strategy).
-(3) The Bank may issue, in the manner that the Governor thinks fit, guidelines relating to the risk categories referred to in subsection (2)(b) that must be covered by the risk management programme (being guidelines that do not have the force of law).
+(3) The Bank may issue, in the manner that the Governor thinks fit, guidelines relating to the risk categories referred to in subsection (2)﻿(b) that must be covered by the risk management programme (being guidelines that do not have the force of law).
 (4) A licensed insurer must obtain the Bank's approval before its risk management programme is amended in a material way.
 (5) However, if it is not reasonably practicable for a licensed insurer to obtain the Bank's approval before its risk management programme is amended in a material way (for example, because the amendment needs to be made urgently),—
   (a) the insurer may amend the risk management programme before obtaining the approval; but
@@ -942,8 +947,8 @@ The appointed actuary's report in respect of a review under section 77 must stat
   (f) whether, in the actuary's opinion and from an actuarial perspective,—
     (i) the actuarial information contained in the financial statements and any group financial statements has been appropriately included in those statements (and if not, the respects in which it has been inappropriately included); and
     (ii) the actuarial information used in the preparation of the financial statements and any group financial statements has been used appropriately (and if not, the respects in which it has been used inappropriately); and
-  (g) whether, in the actuary's opinion and from an actuarial perspective, the licensed insurer is maintaining the solvency margin that applies under a condition imposed under section 21(2)(b) (as at the balance date of the insurer); and
-  (h) in the case of a life insurer, whether, in the actuary's opinion and from an actuarial perspective, the life insurer is maintaining the solvency margins that apply in respect of its statutory funds under a condition imposed under section 21(2)(c) (as at the balance date of the insurer).
+  (g) whether, in the actuary's opinion and from an actuarial perspective, the licensed insurer is maintaining the solvency margin that applies under a condition imposed under section 21(2)﻿(b) (as at the balance date of the insurer); and
+  (h) in the case of a life insurer, whether, in the actuary's opinion and from an actuarial perspective, the life insurer is maintaining the solvency margins that apply in respect of its statutory funds under a condition imposed under section 21(2)﻿(c) (as at the balance date of the insurer).
 
 ### 79 Provisions relating to auditor's report
 A licensed insurer must ensure that the auditor's report that is prepared in respect of the insurer's financial statements or group financial statements is accompanied by the appointed actuary's report prepared under section 78 when—
@@ -978,11 +983,11 @@ A licensed insurer must ensure that the auditor's report that is prepared in res
     (i) generally accepted accounting practice; or
     (ii) requirements specified by the Bank in a written notice given to the insurer (for example, regulatory requirements that apply in the insurer's home jurisdiction); and
   (b) be audited if required by the regulations.
-(4) If subsection (3)(a)(i) applies, the interim financial information must be interim financial statements prepared in respect of—
+(4) If subsection (3)﻿(a)﻿(i) applies, the interim financial information must be interim financial statements prepared in respect of—
   (a) the insurer if the insurer, at the end of the half-period, has no subsidiaries; or
   (b) a group comprising the insurer and its subsidiaries in any other case.
 (4A)
-(5) This section is subject to any exemption under section 238(1)(a)(iii) in respect of any provision of this section.
+(5) This section is subject to any exemption under section 238(1)﻿(a)﻿(iii) in respect of any provision of this section.
 (6) A licensed insurer commits an offence if it fails to comply with this section and is liable, on conviction, to a fine not exceeding $100,000.
 
 ### Subpart 3 — Statutory funds of life insurers
@@ -994,7 +999,7 @@ A licensed insurer must ensure that the auditor's report that is prepared in res
 (2) A statutory fund is a fund that—
   (a) is established in the records of a life insurer; and
   (b) relates solely to the life insurance business of the life insurer or a particular part of that business.
-(3) This subpart does not apply to a life insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)(a)(iv).
+(3) This subpart does not apply to a life insurer that is included in a class of insurers that is the subject of an exemption under section 238(1)﻿(a)﻿(iv).
 
 ### 83 Overview of requirements regarding statutory funds
 (1) The principal requirements of this subpart in relation to statutory funds may be summarised as follows:
@@ -1024,7 +1029,7 @@ A licensed insurer must ensure that the auditor's report that is prepared in res
     (i) death by accident; or
     (ii) death resulting from a stated condition or disease.
 (4) A contract of insurance is not a life policy if it is of a class declared by the regulations not to be life policies.
-(5) In subsection (1)(e), investment account contract means a contract that—
+(5) In subsection (1)﻿(e), investment account contract means a contract that—
   (a) provides for benefits to be paid—
     (i) on death; or
     (ii) on a specified date or specified dates or on death before the specified date, or the last of the specified dates, as the case may be; and
@@ -1046,7 +1051,7 @@ A licensed insurer must ensure that the auditor's report that is prepared in res
 (5) This section is subject to section 84(3) and (4).
 (6) In this section,—
   - **insurance product line** means all contracts of insurance entered into by an insurer that have the same, or substantially the same, terms and conditions
-  - **life insurance** means insurance of the kind described in section 84(1)(a) to (f)
+  - **life insurance** means insurance of the kind described in section 84(1)﻿(a) to (f)
   - **non-life insurance** means insurance that is not life insurance.
 
 ### 86 Interpretation in this subpart
@@ -1071,8 +1076,8 @@ A licensed insurer must ensure that the auditor's report that is prepared in res
   (a) must comply with this subpart; and
   (b) must give priority to the interests of policyholders of life policies referable to the fund.
 (2) In the event of conflict between the interests of policyholders of life policies referable to a statutory fund and the interests of shareholders or members of a life insurer, the life insurer must give priority to the interests of policyholders of those policies over the interests of shareholders or members.
-(3) An act or decision of a life insurer in relation to a statutory fund does not contravene subsection (1)(b) if, having regard to the circumstances existing at the time of the act or decision, it is reasonable to believe that the act or decision gives priority to the interests of policyholders of life policies referable to the fund.
-(4) An investment by a life insurer is not ineffective merely because it is made in contravention of subsection (1)(b).
+(3) An act or decision of a life insurer in relation to a statutory fund does not contravene subsection (1)﻿(b) if, having regard to the circumstances existing at the time of the act or decision, it is reasonable to believe that the act or decision gives priority to the interests of policyholders of life policies referable to the fund.
+(4) An investment by a life insurer is not ineffective merely because it is made in contravention of subsection (1)﻿(b).
 (5) A reference in subsections (1) to (3) to the interests of policyholders of life policies referable to a statutory fund is a reference to the interests of those persons viewed as a group.
 (6) Nothing in subsection (1) prevents a life insurer doing anything that the life insurer is permitted by or under this subpart to do.
 
@@ -1180,11 +1185,11 @@ The following amounts must be credited by a life insurer to a statutory fund:
   (b) nothing in this subpart authorises a life insurer to make an investment the life insurer would not otherwise have the power to make:
   (c) except with the approval of the Bank or otherwise in the prescribed circumstances, a life insurer must not invest assets of a statutory fund in an associated person that is not a subsidiary of the life insurer:
   (d) a life insurer must not invest assets of a statutory fund, or keep assets of a statutory fund invested, in a subsidiary of the life insurer if the investment, or the retention of the investment, as the case requires, is prohibited by the regulations.
-(3) The Bank's approval under subsection (2)(c) may be given—
+(3) The Bank's approval under subsection (2)﻿(c) may be given—
   (a) when the licence is issued to the life insurer or at any other time; and
   (b) in relation to a particular investment or investments of a particular class.
-(4) Nothing in subsection (2)(c) or (d) prevents a life insurer investing assets of a statutory fund, or keeping assets of a statutory fund invested, in ordinary voting shares of public issuers that are associated persons of the life insurer (whether or not they are subsidiaries) if the value of the assets of the fund so invested does not exceed a prescribed percentage of the value of all assets of the fund.
-(5) A transaction is not ineffective merely because it involves a contravention of subsection (2)(c) or (d).
+(4) Nothing in subsection (2)﻿(c) or (d) prevents a life insurer investing assets of a statutory fund, or keeping assets of a statutory fund invested, in ordinary voting shares of public issuers that are associated persons of the life insurer (whether or not they are subsidiaries) if the value of the assets of the fund so invested does not exceed a prescribed percentage of the value of all assets of the fund.
+(5) A transaction is not ineffective merely because it involves a contravention of subsection (2)﻿(c) or (d).
 (6) Nothing in this section—
   (a) prevents a life insurer from investing money of a statutory fund by way of deposit with—
     (i) a registered bank (within the meaning of the Reserve Bank of New Zealand Act 1989); or
@@ -1192,8 +1197,8 @@ The following amounts must be credited by a life insurer to a statutory fund:
   (b) requires the approval of the Bank for such an investment.
 (7) For the purposes of this subpart, an investment by way of a loan is to be taken to be made when the loan agreement is entered into.
 (8) In this section, public issuer means a person who is a party to a listing agreement with, or whose securities are otherwise quoted on,—
-  (a) a registered exchange (within the meaning of section 2(1) of the Securities Markets Act 1988); or
-  (b) a stock exchange in an overseas jurisdiction.
+  (a) a licensed market (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013); or
+  (b) a securities market that is authorised to operate in an overseas jurisdiction in accordance with the laws of that jurisdiction.
 
 ### 100 Recording of restricted investments
 (1) A life insurer must, in the prescribed manner, keep a record of its restricted investments.
@@ -1240,7 +1245,7 @@ A life insurer must keep records of the income and outgoings of each statutory f
 (7) An action under subsection (5) may be brought—
   (a) by the life insurer; or
   (b) with the written approval of the Bank, by the policyholder of a life policy referable to the statutory fund involved.
-(8) An approval under subsection (7)(b) may be given subject to conditions relating to the persons, or the number of persons, who may join in the action as plaintiffs.
+(8) An approval under subsection (7)﻿(b) may be given subject to conditions relating to the persons, or the number of persons, who may join in the action as plaintiffs.
 (9) A person cannot be ordered to pay an amount under this section and under section 107 in respect of the same act or omission of a life insurer.
 (10) This section applies despite anything to the contrary in the Companies Act 1993 or any other enactment (and the duties of a director of a life insurer specified by or under any other enactment are subject to this section to the effect that the director will not be in breach of those duties as a result of complying with the duties imposed under this section).
 
@@ -1282,7 +1287,7 @@ A life insurer must keep records of the income and outgoings of each statutory f
     (i) the life insurer will fail to maintain a solvency margin in respect of a transferring fund; or
     (ii) the life insurer will fail to maintain a solvency margin in respect of a receiving fund; or
   (c) the life insurer is being liquidated or wound up when the application is made.
-(5) Subsection (4)(b)(i) does not apply if the transferring fund is to be wound up.
+(5) Subsection (4)﻿(b)﻿(i) does not apply if the transferring fund is to be wound up.
 (6) In this section,—
   - **receiving fund** means the fund, or each fund, to which the life policies will become referable after a restructure
   - **transferring fund** means the fund, or each fund, to which the life policies are referable before a restructure.
@@ -1351,17 +1356,17 @@ A distribution of shareholders’ or members' capital in relation to a statutory
   (a) the assets are to be applied first in discharge of policy liabilities of the life insurer referable to the primary fund:
   (b) if any assets remain, they are to be applied in discharge of other liabilities that are referable to the business of the primary fund:
   (c) if, after the application of assets according to paragraphs (a) and (b), any assets of the primary fund remain, those assets are to be applied in the manner that the High Court directs.
-(5) If, for the purposes of subsection (4)(a), the assets are insufficient to discharge all of the policy liabilities of the life insurer referable to the primary fund, the assets are to be applied in discharge of those policy liabilities in the manner that the High Court directs.
-(6) If, for the purposes of subsection (4)(b), the assets are insufficient to discharge all of the other liabilities that are referable to the business of the primary fund, the assets are to be applied in discharge of those liabilities in the manner that the High Court directs.
-(7) Directions given for the purpose of subsection (4)(c), (5), or (6) are to be the directions that the High Court considers equitable, having regard to,—
-  (a) in the case of subsection (4)(c),—
+(5) If, for the purposes of subsection (4)﻿(a), the assets are insufficient to discharge all of the policy liabilities of the life insurer referable to the primary fund, the assets are to be applied in discharge of those policy liabilities in the manner that the High Court directs.
+(6) If, for the purposes of subsection (4)﻿(b), the assets are insufficient to discharge all of the other liabilities that are referable to the business of the primary fund, the assets are to be applied in discharge of those liabilities in the manner that the High Court directs.
+(7) Directions given for the purpose of subsection (4)﻿(c), (5), or (6) are to be the directions that the High Court considers equitable, having regard to,—
+  (a) in the case of subsection (4)﻿(c),—
     (i) the interests of the policyholders of life policies referable to the primary fund; and
     (ii) the interests of the policyholders of life policies referable to statutory funds of the life insurer other than the primary fund; and
-    (iii) the interests of creditors of the life insurer whose debts have not been discharged by the application of assets according to subsection (4)(b); and
+    (iii) the interests of creditors of the life insurer whose debts have not been discharged by the application of assets according to subsection (4)﻿(b); and
     (iv) the interests of shareholders or members of the life insurer:
   (b) in the case of subsection (5), the interests of the policyholders of life policies referable to the primary fund:
   (c) in the case of subsection (6), the interests of creditors in respect of the other liabilities that are referable to the business of the primary fund.
-(8) The reference in subsection (7)(a)(iii) to creditors of a life insurer is not limited to creditors to whom amounts are due in relation to the business of a statutory fund, but includes all creditors of a life insurer, whatever the nature of the liabilities involved.
+(8) The reference in subsection (7)﻿(a)﻿(iii) to creditors of a life insurer is not limited to creditors to whom amounts are due in relation to the business of a statutory fund, but includes all creditors of a life insurer, whatever the nature of the liabilities involved.
 (9) If a liability of the life insurer is referable to 2 or more statutory funds or is referable in part to a statutory fund but is also related to business, other than life insurance business, carried on by the insurer, the liquidator may apportion the liability so as to determine the part of the liability that is to be borne by each of the statutory funds or by the statutory fund, as the case may be.
 (10) In making an apportionment under subsection (9), the liquidator must comply with any directions of the High Court.
 (11) The part of the amount so determined in relation to a statutory fund is to be treated as a liability of the life insurer that is referable to the business of the fund.
@@ -1481,7 +1486,7 @@ Every auditor or actuary must, before disclosing any information to the Bank und
 (2) The Bank may do either or both of the following if it considers it is reasonably necessary for the purposes of carrying out its functions and exercising its powers under this Act:
   (a) by notice in writing to the licensed insurer or associated person, require the insurer or person to supply to the Bank, within the time specified in the notice, the information or data specified in the notice:
   (b) appoint, in writing, any suitably qualified person (an investigator) to carry out an investigation of the affairs of the licensed insurer or associated person.
-(3) A licensed insurer or an associated person commits an offence if the insurer or person fails to comply with any requirement of the Bank under subsection (2)(a) and is liable, on conviction,—
+(3) A licensed insurer or an associated person commits an offence if the insurer or person fails to comply with any requirement of the Bank under subsection (2)﻿(a) and is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
 
@@ -1515,10 +1520,10 @@ Every auditor or actuary must, before disclosing any information to the Bank und
 ### 134 Effect of final decision that exercise of powers under sections 130 and 131 unlawful
 In any case where it is declared in a final decision given in any proceedings in respect of the exercise of powers conferred by sections 130 and 131 that the exercise of any powers conferred by those sections is unlawful, to the extent to which the exercise of those powers is declared unlawful,—
   (a) the Bank must ensure that as soon as is reasonably practicable after the decision of the court is given—
-    (i) any information or data supplied by the licensed insurer or person under section 130(2)(a) or 131(1)(a) is destroyed:
-    (ii) any documents or extracts from documents obtained pursuant to an inspection made under section 131(1)(a) are returned to the person previously having possession of those documents or previously having them under his or her control, and any copies of those documents or extracts are destroyed:
+    (i) any information or data supplied by the licensed insurer or person under section 130(2)﻿(a) or 131(1)﻿(a) is destroyed:
+    (ii) any documents or extracts from documents obtained pursuant to an inspection made under section 131(1)﻿(a) are returned to the person previously having possession of those documents or previously having them under his or her control, and any copies of those documents or extracts are destroyed:
     (iii) any information derived from or based upon any such information and data or documents or extracts is destroyed:
-  (b) no information or data supplied by the licensed insurer or person under section 130(2)(a) or 131(1)(a), and no documents or extracts from documents obtained under section 131(1)(a),—
+  (b) no information or data supplied by the licensed insurer or person under section 130(2)﻿(a) or 131(1)﻿(a), and no documents or extracts from documents obtained under section 131(1)﻿(a),—
     (i) are admissible in evidence in any proceedings:
     (ii) may be used in connection with the exercise of any power conferred by Part 4 or 5.
 
@@ -1538,19 +1543,19 @@ In any case where it is declared in a final decision given in any proceedings in
   (d) the publication or disclosure of the information, data, document, or forecast is to any authority or body in any other country that performs functions that correspond with, or are similar to, those conferred on the Bank under this Act, and the Bank is satisfied that the information, data, document, or forecast will only be used by that authority or body for the purpose of performing those functions; or
   (e) the publication or disclosure of the information, data, document, or forecast is to any person that the Bank is satisfied has a proper interest in receiving the information, data, document, or forecast; or
   (f) the publication or disclosure of the information, data, document, or forecast is with the consent of the person to whom that material relates or of the person to whom that material is confidential.
-(3) The Bank must not publish or disclose information, data, a document, or a forecast under subsection (2)(d) or (e) unless the Bank is satisfied that appropriate provision exists to protect the confidentiality of that material.
+(3) The Bank must not publish or disclose information, data, a document, or a forecast under subsection (2)﻿(d) or (e) unless the Bank is satisfied that appropriate provision exists to protect the confidentiality of that material.
 (4) An officer or employee of the Bank or an investigator must not publish or disclose any information, data, document, or forecast to which this section applies except for the purposes of, or in connection with, the performance or exercise of any function or power conferred by this Act or any other enactment.
 (5) An officer or employee of the Bank or an investigator commits an offence if the officer, employee, or investigator fails to comply with this section and is liable, on conviction, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both).
 
 ### 136 Limits on further disclosure of information, data, documents, or forecasts
-(1) A person to whom any information, data, document, or forecast is published or disclosed under section 135(2)(c), (e), or (f) must not publish, disclose, or use that information, data, document, or forecast unless the publication, disclosure, or use is,—
-  (a) in the case of a publication or disclosure under section 135(2)(c),—
+(1) A person to whom any information, data, document, or forecast is published or disclosed under section 135(2)﻿(c), (e), or (f) must not publish, disclose, or use that information, data, document, or forecast unless the publication, disclosure, or use is,—
+  (a) in the case of a publication or disclosure under section 135(2)﻿(c),—
     (i) for the purposes of, or in connection with, the performance or exercise of functions or powers conferred by this Act or any other enactment; and
     (ii) in accordance with any conditions that may be imposed by the Bank:
-  (b) in the case of a publication or disclosure under section 135(2)(e),—
+  (b) in the case of a publication or disclosure under section 135(2)﻿(e),—
     (i) authorised by the Bank and in accordance with any conditions that the Bank may have imposed; or
     (ii) necessary or desirable for the performance or exercise of any function or power conferred by any enactment:
-  (c) in the case of a publication or disclosure under section 135(2)(f), in accordance with the terms and conditions of the consent referred to in that paragraph.
+  (c) in the case of a publication or disclosure under section 135(2)﻿(f), in accordance with the terms and conditions of the consent referred to in that paragraph.
 (2) A person commits an offence if the person fails to comply with this section and is liable, on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
@@ -1572,13 +1577,13 @@ Nothing in any Act, other than this Act or the Official Information Act 1982 or 
   (b) set out the actions that the licensed insurer will take to effectively address the matters that caused the Bank to give the direction and, in particular, to ensure that (as the case may be)—
     (i) the insurer maintains its solvency margin and, in the case of a life insurer, the insurer also maintains the solvency margin or margins that apply in respect of its statutory funds:
     (ii) the business of the insurer is conducted in a prudent manner:
-    (iii) the insurer comes back into compliance, or remains compliant with, any direction, condition, or other requirement referred to in subsection (1)(c); and
+    (iii) the insurer comes back into compliance, or remains compliant with, any direction, condition, or other requirement referred to in subsection (1)﻿(c); and
   (c) set out an appropriate timetable for taking those actions to ensure that those actions are taken as soon as practicable; and
   (d) describe the steps that the licensed insurer will take to ensure that the plan remains current, which must include procedures for regular review of the plan to systematically identify deficiencies in the effectiveness of the plan; and
   (e) be appropriate to the operations of the licensed insurer, having regard to the size of the insurer, its corporate structure (including its relationship with associated persons), its funding structure, the market sector in which it operates, and its business strategy; and
   (f) otherwise be prepared within the time and in the manner specified by the Bank in the direction; and
   (g) be approved by the licensed insurer's governing body within the time specified by the Bank in the direction.
-(3) The Bank may, in the direction, require the recovery plan to specify a final date (being a date that is satisfactory to the Bank) by which all of the actions referred to in subsection (2)(b) must have been taken and the outcomes in subsection (2)(b)(i), (ii), or (iii) achieved.
+(3) The Bank may, in the direction, require the recovery plan to specify a final date (being a date that is satisfactory to the Bank) by which all of the actions referred to in subsection (2)﻿(b) must have been taken and the outcomes in subsection (2)﻿(b)﻿(i), (ii), or (iii) achieved.
 (4) The Bank may, in the direction, require the licensed insurer to obtain assistance in the preparation of the recovery plan from a person specified by the Bank.
 (5) A direction given under this section must state the grounds on which it is given.
 
@@ -1608,9 +1613,9 @@ A licensed insurer commits an offence if it fails to comply with any of sections
   (a) the insurer has failed, is failing, or is likely to fail to maintain a solvency margin:
   (b) the business of the insurer has not been, or is not being, conducted in a prudent manner:
   (c) the insurer, or a director or relevant officer of the insurer, has failed, is failing, or is likely to fail to comply with any direction, condition, or other requirement imposed by or under this Act or the regulations:
-  (d) the governance structure of the insurer has changed, since its licence was issued, in a manner that significantly reduces the extent to which it is appropriate (having regard to the matters specified in section 19(1)(i)):
+  (d) the governance structure of the insurer has changed, since its licence was issued, in a manner that significantly reduces the extent to which it is appropriate (having regard to the matters specified in section 19(1)﻿(i)):
   (e) the insurer is an overseas insurer and an overseas supervisor has taken, or is taking, regulatory action against the insurer (whether or not that action has been completed):
-  (f) the insurer is an overseas insurer and the law, requirements, or supervision referred to in section 19(1)(j) has changed, since its licence was issued, in a manner that significantly reduces the extent to which that law, those requirements, or that supervision is appropriate (having regard to the matters specified in that paragraph).
+  (f) the insurer is an overseas insurer and the law, requirements, or supervision referred to in section 19(1)﻿(j) has changed, since its licence was issued, in a manner that significantly reduces the extent to which that law, those requirements, or that supervision is appropriate (having regard to the matters specified in that paragraph).
 (2) The Bank must, before giving a direction under subsection (1) to a licensed insurer, consider whether, in the circumstances, it would be more appropriate to give a direction to the insurer to prepare a recovery plan under subpart 1.
 (3) In this section, regulatory action means—
   (a) action to cancel or suspend the licence, registration, or other authorisation of the insurer to act as an insurer (or action equivalent to cancelling or suspending such a licence, registration, or authorisation); or
@@ -1674,7 +1679,7 @@ A direction given under section 145 may require an associated person to—
     (i) the director, auditor, or actuary concerned, or the person being appointed; and
     (ii) in the case of the removal, replacement, or appointment of a director, the Registrar of Companies; and
   (b) give notice in writing of the exercise of that power to the licensed insurer or associated person.
-(4) A notice given under subsection (3)(a)(ii) is sufficient compliance with section 159 of the Companies Act 1993 as long as, in the case of an appointment, the notice is accompanied by the form of consent and certificate required under section 152 of that Act.
+(4) A notice given under subsection (3)﻿(a)﻿(ii) is sufficient compliance with section 159 of the Companies Act 1993 as long as, in the case of an appointment, the notice is accompanied by the form of consent and certificate required under section 152 of that Act.
 (5) This section does not apply in respect of a director of an overseas person.
 (6) This section has effect despite any enactment, rule of law, or the terms of the constitution of a licensed insurer or an associated person of a licensed insurer.
 
@@ -1686,10 +1691,10 @@ A direction given under section 145 may require an associated person to—
   (c) by, or on behalf of, the Bank or with the written consent of the Bank,—
     (i) to the public or any class of the public; or
     (ii) to any person who has a proper interest in knowing that the direction or notice has been given.
-(3) For the purposes of subsection (2)(b) and (c),—
+(3) For the purposes of subsection (2)﻿(b) and (c),—
   (a) the Bank's consent must not be unreasonably withheld; and
   (b) in considering whether to give its consent, the Bank must take into account the time that has elapsed since the direction or notice was given.
-(4) Nothing in subsection (1) applies to the disclosure or publication of the fact that a direction has been given requiring the actions set out in section 144(1)(f) or 146(c) for the purpose of giving effect to that direction.
+(4) Nothing in subsection (1) applies to the disclosure or publication of the fact that a direction has been given requiring the actions set out in section 144(1)﻿(f) or 146(c) for the purpose of giving effect to that direction.
 (5) Every person who commits an offence under this section is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000 (or both):
   (b) in the case of a body corporate, to a fine not exceeding $500,000.
@@ -1710,7 +1715,7 @@ A direction given under section 145 may require an associated person to—
 (5) Nothing in this section limits or affects any other enactment that provides for the winding up, liquidation, or dissolution of any body corporate or any class of body corporate.
 
 ### 152 Bank may apply for High Court to reduce value of contracts of insurance
-(1) The High Court may, on the application of the Bank, reduce the value of 1 or more of a licensed insurer’s contracts of insurance if it is satisfied that 1 or more of the grounds specified in section 151(2)(a) to (d) apply.
+(1) The High Court may, on the application of the Bank, reduce the value of 1 or more of a licensed insurer’s contracts of insurance if it is satisfied that 1 or more of the grounds specified in section 151(2)﻿(a) to (d) apply.
 (2) The High Court may order a reduction under this section on the terms and subject to the conditions (if any) that it thinks fit.
 (3) The High Court may, for the purposes of this section, order the Bank to arrange for an independent actuary to prepare a report on the matters that the court thinks fit.
 
@@ -1720,8 +1725,8 @@ The Bank may apply under section 239L of the Companies Act 1993 for the appointm
 **Bank's approval for voluntary liquidation or appointment of administrator by company**
 
 ### 154 Bank's approval for voluntary liquidation or appointment of administrator by company
-(1) A liquidator may not be appointed under section 241(2)(a) or (b) of the Companies Act 1993 for a licensed insurer unless—
-  (a) a copy of the draft special resolution that is proposed for the purposes of section 241(2)(a) of that Act is given to the Bank or the Bank is notified of the occurrence of the event referred to in section 241(2)(b) of that Act (as the case may be) before the appointment is made; and
+(1) A liquidator may not be appointed under section 241(2)﻿(a) or (b) of the Companies Act 1993 for a licensed insurer unless—
+  (a) a copy of the draft special resolution that is proposed for the purposes of section 241(2)﻿(a) of that Act is given to the Bank or the Bank is notified of the occurrence of the event referred to in section 241(2)﻿(b) of that Act (as the case may be) before the appointment is made; and
   (b) the Bank has given its written approval to the appointment.
 (2) An administrator may not be appointed under section 239I of the Companies Act 1993 for a licensed insurer unless—
   (a) a copy of the draft resolution that is proposed for the purposes of that section is given to the Bank before the appointment is made; and
@@ -1754,11 +1759,11 @@ The Bank may apply under section 239L of the Companies Act 1993 for the appointm
 (2) A licensed insurer commits an offence if it fails to comply with subsection (1) and is liable, on conviction, to a fine not exceeding $100,000.
 
 ### 158 Bank must be sent copies of certain documents and may inspect certain accounts and records
-(1) If a person is required to prepare a specified document in respect of a licensed insurer under any of sections 239AH, 239AI, 239ACP(1)(a), 239ACZ, 239ADY(a) and (c), 239ADZ, 239AEA, and 257(1)(a)(i) or (ii) of the Companies Act 1993, the person must send a copy of the document to the Bank as soon as practicable after it has been prepared.
+(1) If a person is required to prepare a specified document in respect of a licensed insurer under any of sections 239AH, 239AI, 239ACP(1)﻿(a), 239ACZ, 239ADY(a) and (c), 239ADZ, 239AEA, and 257(1)﻿(a)﻿(i) or (ii) of the Companies Act 1993, the person must send a copy of the document to the Bank as soon as practicable after it has been prepared.
 (2) In subsection (1),—
   - **prepare** , in respect of a specified document, includes to lodge, send, file, or make the document
   - **specified document** means a report, an account, a deed, a notice, or a statement.
-(3) The Bank may inspect any accounts or records kept by a liquidator of a licensed insurer under section 256(1)(a) of the Companies Act 1993.
+(3) The Bank may inspect any accounts or records kept by a liquidator of a licensed insurer under section 256(1)﻿(a) of the Companies Act 1993.
 
 ### 159 Attendance of representative of Bank at certain meetings for licensed insurer in voluntary administration, subject to deed of company arrangement, or in liquidation
 (1) This section applies in respect of a licensed insurer that is—
@@ -1773,7 +1778,7 @@ The Bank may apply under section 239L of the Companies Act 1993 for the appointm
 (3) In this section,—
   - **convenor** , in relation to a specified meeting, means an administrator, a deed administrator, a liquidator, or any other person that convenes, calls, or summons the meeting
   - **specified meeting** —
-    (a) means a meeting convened, called, or summoned under any of the provisions of section 239T, subparts 6 to 8 of Part 15A, and sections 239ADF, 243, 244, 258(2)(b) and (d), 314, and 315 of the Companies Act 1993; and
+    (a) means a meeting convened, called, or summoned under any of the provisions of section 239T, subparts 6 to 8 of Part 15A, and sections 239ADF, 243, 244, 258(2)﻿(b) and (d), 314, and 315 of the Companies Act 1993; and
     (b) includes—
       (i) a meeting of a creditors' committee (within the meaning of section 239AR of the Companies Act 1993):
       (ii) a meeting called as a result of a requirement under section 160.
@@ -1821,7 +1826,7 @@ The Bank may apply under section 239L of the Companies Act 1993 for the appointm
 (3) The following reports must be provided to the High Court in respect of an application under subsection (1):
   (a) a report on the scheme prepared by the Bank that contains the matters required by the High Court and any other matters that the Bank thinks fit; and
   (b) an independent actuary's report on the scheme obtained by the Bank that contains the matters required by the High Court and any other matters that the Bank thinks fit.
-(4) The licensed insurer is liable to pay to the Bank the costs incurred by the Bank in obtaining the actuary's report under subsection (3)(b) (and the amount payable is recoverable as a debt due to the Bank in any court of competent jurisdiction).
+(4) The licensed insurer is liable to pay to the Bank the costs incurred by the Bank in obtaining the actuary's report under subsection (3)﻿(b) (and the amount payable is recoverable as a debt due to the Bank in any court of competent jurisdiction).
 
 ### 165 Right to attend and be heard
 (1) If an application is made under section 164, the liquidator or deed administrator must, as soon as practicable after it is filed, serve notice of the application on each of the following:
@@ -1833,7 +1838,7 @@ The Bank may apply under section 239L of the Companies Act 1993 for the appointm
 (2) The following persons are entitled to appear and be heard on the application:
   (a) each person to whom notice of the application has been sent under subsection (1):
   (b) with the leave of the High Court, any other person who appears to the court to have a sufficient interest in the application.
-(3) In respect of a proceeding or intended proceeding under section 164, the High Court may, on an application by the liquidator, the deed administrator, or the Bank, or on its own initiative, appoint persons for the purposes of subsection (1)(c) to (e).
+(3) In respect of a proceeding or intended proceeding under section 164, the High Court may, on an application by the liquidator, the deed administrator, or the Bank, or on its own initiative, appoint persons for the purposes of subsection (1)﻿(c) to (e).
 
 ### 166 Approval of scheme
 (1) The High Court may—
@@ -1876,7 +1881,7 @@ When a scheme is approved under section 166—
   (a) every subsidiary of a licensed insurer declared to be subject to statutory management, except any subsidiary declared to be a subsidiary to which the order does not apply, is subject to statutory management; and
   (b) the appointment of a statutory manager for the specified period in respect of the licensed insurer also applies to those subsidiaries.
 (3) If a licensed insurer acquires a subsidiary after it has been declared to be subject to statutory management under subsection (1), the subsidiary is not subject to statutory management unless a further Order in Council is made declaring the subsidiary to be subject to statutory management.
-(4) Subsections (1)(b) and (2) are subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
+(4) Subsections (1)﻿(b) and (2) are subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
 
 ### 171 Statutory management of overseas persons
 If a licensed insurer or an associated person of a licensed insurer that is declared to be subject to statutory management, or a subsidiary of a licensed insurer that becomes subject to statutory management under section 170(2) or (3), is an overseas person, the provisions of this subpart apply to the property, rights, assets, and liabilities relating to its New Zealand business.
@@ -1888,7 +1893,7 @@ If a licensed insurer or an associated person of a licensed insurer that is decl
 
 ### 173 Grounds on which licensed insurer may be declared to be subject to statutory management
 (1) The Bank may make a recommendation under section 170 in respect of a licensed insurer only if it is satisfied on reasonable grounds that—
-  (a) 1 or more of the circumstances specified in section 143(1)(a) to (f) apply and the failure of the insurer may cause significant damage to the financial system or the economy of New Zealand (or both); or
+  (a) 1 or more of the circumstances specified in section 143(1)﻿(a) to (f) apply and the failure of the insurer may cause significant damage to the financial system or the economy of New Zealand (or both); or
   (b) the insurer is, or may be, operating fraudulently or recklessly, and that it is desirable that the insurer be declared to be subject to statutory management for the purpose of—
     (i) limiting or preventing the risk of further deterioration of the financial affairs of the insurer; or
     (ii) limiting or preventing the carrying out, or the effects, of any fraudulent act or activity; or
@@ -1982,14 +1987,14 @@ A statutory manager has, and may exercise, all of the powers conferred on a liqu
 ### 183 Sale requires Bank's approval
 The statutory manager may not sell or otherwise dispose of the following unless the statutory manager has consulted with the Bank and the Bank, with the consent of the Minister, has given approval in writing to the sale or other disposition and the terms and conditions of it:
   (a) the whole or any substantial part of the business undertaking of a licensed insurer under section 50(1) of the Corporations (Investigation and Management) Act 1989 (as applied by section 180):
-  (b) any of the shares of a body corporate formed and registered under section 50(2)(a) of that Act (as applied by section 180):
-  (c) the whole or any substantial part of the business undertaking of a body corporate formed and registered under section 50(2)(a) of that Act (as applied by section 180).
+  (b) any of the shares of a body corporate formed and registered under section 50(2)﻿(a) of that Act (as applied by section 180):
+  (c) the whole or any substantial part of the business undertaking of a body corporate formed and registered under section 50(2)﻿(a) of that Act (as applied by section 180).
 
 ### 184 Consents not required under other enactments
 The provisions of any enactment or agreement requiring any consent, licence, permission, clearance, or other authority do not apply in respect of the following (being a sale or disposition to which the Bank has, with the consent of the Minister, given its approval under section 183):
   (a) the sale or other disposition of the whole or any part of the business undertaking of a licensed insurer under section 50(1) of the Corporations (Investigation and Management) Act 1989 (as applied by section 180):
-  (b) the sale or other disposition under section 50(2)(e) of that Act (as applied by section 180) of—
-    (i) any of the shares of a body corporate formed and registered under section 50(2)(a) of that Act; or
+  (b) the sale or other disposition under section 50(2)﻿(e) of that Act (as applied by section 180) of—
+    (i) any of the shares of a body corporate formed and registered under section 50(2)﻿(a) of that Act; or
     (ii) the whole or any part of the business undertaking of that body corporate.
 
 **Body corporate may be formed to acquire branch of overseas person**
@@ -1999,10 +2004,10 @@ The provisions of any enactment or agreement requiring any consent, licence, per
   (a) form and register a body corporate under the Companies Act 1993 or any other Act:
   (b) subscribe for or acquire, as trustee for the overseas person, all or any of the shares of the body corporate:
   (c) allot or issue all or any of the shares in the body corporate as fully or partly paid, as the case may be, up to the value of any property, rights, and assets vested in the body corporate under subsection (2) (after deducting the value of any liabilities so vested).
-(2) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, declare that the whole or any part of any property, rights, assets, and liabilities of the overseas insurer relating to its New Zealand business will vest in the body corporate referred to in subsection (1)(a) on a date specified in the order (and the property, rights, assets, and liabilities vest in the body corporate on the date specified).
+(2) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, declare that the whole or any part of any property, rights, assets, and liabilities of the overseas insurer relating to its New Zealand business will vest in the body corporate referred to in subsection (1)﻿(a) on a date specified in the order (and the property, rights, assets, and liabilities vest in the body corporate on the date specified).
 (3) Nothing in subsection (2) reduces, extinguishes, or affects any obligation or liability of an overseas person.
-(4) Every body corporate referred to in subsection (1)(a) is, for the purposes of this subpart, deemed to be a licensed insurer subject to statutory management as if the body corporate had been declared to be subject to statutory management under this subpart.
-(5) The statutory manager in respect of the overseas person is the statutory manager of the body corporate referred to in subsection (1)(a) as if the statutory manager had been appointed under section 170, and the provisions of this subpart apply accordingly.
+(4) Every body corporate referred to in subsection (1)﻿(a) is, for the purposes of this subpart, deemed to be a licensed insurer subject to statutory management as if the body corporate had been declared to be subject to statutory management under this subpart.
+(5) The statutory manager in respect of the overseas person is the statutory manager of the body corporate referred to in subsection (1)﻿(a) as if the statutory manager had been appointed under section 170, and the provisions of this subpart apply accordingly.
 
 ### 186 Vesting of property subject to security
 (1) An order may be made under section 185 vesting any property, rights, and assets of an overseas person in a body corporate formed and registered under that section despite the existence, or the terms and conditions, of any security over the property, or over those rights or assets, in favour of any other person.
@@ -2246,8 +2251,8 @@ If a body corporate is convicted of an offence under this Act, every director of
 (1) In any prosecution of a person for an offence under this Act, it is a defence if the person proves that—
   (a) the failure to comply with this Act was due to the act or omission of another person, or some other cause beyond the person's control; and
   (b) the person took reasonable precautions and exercised due diligence to avoid the failure.
-(2) For the purposes of subsection (1)(a), another person does not include a director, employee, or agent of the person charged with the offence.
-(3) A person is not, without the leave of the court, entitled as part of a defence provided by this section to rely on any of the circumstances specified in subsection (1)(a) unless the person has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecution a notice in writing identifying the act, omission, or cause relied on by the person.
+(2) For the purposes of subsection (1)﻿(a), another person does not include a director, employee, or agent of the person charged with the offence.
+(3) A person is not, without the leave of the court, entitled as part of a defence provided by this section to rely on any of the circumstances specified in subsection (1)﻿(a) unless the person has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecution a notice in writing identifying the act, omission, or cause relied on by the person.
 
 ### 217A Time for filing charging document
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence under this Act ends on the date that is 5 years after the date on which the offence was committed.
@@ -2314,7 +2319,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (a) has, in connection with an insurance business, engaged in an act, omission, or course of conduct that constitutes serious wrongdoing and that the person is not a fit and proper person to participate in insurance business in 1 or more of the ways described in subsection (2); or
   (b) as a director of a licensed insurer, has persistently or seriously failed to comply with this Act or the regulations; or
   (c) is a director of a licensed insurer, being an insurer that has persistently or seriously failed to comply with any direction, condition, or other requirement imposed by or under this Act or the regulations, and the person has persistently failed to take reasonable steps to prevent or stop that failure; or
-  (d) is prohibited from participating in an insurance business in 1 or more of the ways specified in subsection (2)(a) to (g) under an order made, or a notice given, under a law of a country, State, or territory outside New Zealand.
+  (d) is prohibited from participating in an insurance business in 1 or more of the ways specified in subsection (2)﻿(a) to (g) under an order made, or a notice given, under a law of a country, State, or territory outside New Zealand.
 (2) The order is an order banning a person from being or doing 1 or more of the following:
   (a) being a director of an insurer:
   (b) being concerned or taking part in the management of an insurer:
@@ -2343,7 +2348,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (2) On the hearing of the application,—
   (a) the Bank must appear and call to the attention of the District Court any matters that seem to the Bank to be relevant, and may give evidence or call witnesses; and
   (b) the person to whom the application relates may appear and give evidence or call witnesses; and
-  (c) any person referred to in subsection (1)(b)(iii) may also appear and be heard.
+  (c) any person referred to in subsection (1)﻿(b)﻿(iii) may also appear and be heard.
 
 ### 224 Appeals to High Court
 (1) Any person who has a right to appear and be heard in any proceedings under section 222 may appeal to the High Court if a District Court—
@@ -2400,9 +2405,9 @@ A person commits an offence if the person fails to comply with an order under se
   (c) an overseas company, be served in a manner provided for in section 389(1) or 390 of the Companies Act 1993:
   (d) any other body corporate, be served in a manner in which it could be given or served if the body corporate were a company within the meaning of the Companies Act 1993.
 (2) In the absence of proof to the contrary, a notice, document, or notification sent to a person in accordance with—
-  (a) subsection (1)(a)(ii) must be treated as having been given or provided to the person when it would have been delivered in the ordinary course of post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
-  (b) subsection (1)(a)(iii) must be treated as having been given or provided to the person on the second working day after the day on which it is sent.
-(3) Section 392 of the Companies Act 1993 applies for the purposes of subsection (1)(b) to (d).
+  (a) subsection (1)﻿(a)﻿(ii) must be treated as having been given or provided to the person when it would have been delivered in the ordinary course of post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
+  (b) subsection (1)﻿(a)﻿(iii) must be treated as having been given or provided to the person on the second working day after the day on which it is sent.
+(3) Section 392 of the Companies Act 1993 applies for the purposes of subsection (1)﻿(b) to (d).
 (4) If a person is absent from New Zealand, a notice, document, or notification given to the person's agent in New Zealand in accordance with subsection (1) must be treated as having been given or provided to the person.
 (5) If a person has died, the notice, document, or notification may be given, in accordance with subsection (1), to his or her personal representative.
 
@@ -2496,11 +2501,11 @@ A person commits an offence if the person fails to comply with an order under se
 ### 237 Regulations
 (1) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for all or any of the following purposes:
   (a) declaring a class or classes of transactions or matters to be transactions or matters that are not by way of insurance for the purposes of this Act:
-  (b) declaring a public entity to be an entity to which section 8(2)(d) applies:
+  (b) declaring a public entity to be an entity to which section 8(2)﻿(d) applies:
   (c) prescribing additional requirements for a person to be entitled to be issued with a licence:
   (d) prescribing countries, states, or territories as jurisdictions for the purposes of sections 19(4), 38(3), and 119(3):
-  (e) prescribing additional matters for the purposes of section 20(2)(g):
-  (f) prescribing conditions or matters that conditions may relate to for the purposes of section 21(2)(h) or 49(3)(d):
+  (e) prescribing additional matters for the purposes of section 20(2)﻿(g):
+  (f) prescribing conditions or matters that conditions may relate to for the purposes of section 21(2)﻿(h) or 49(3)﻿(d):
   (g) prescribing for the purposes of sections 34(4) and 202(2) requirements that fit and proper policies must comply with, including requirements relating to—
     (i) processes to be undertaken in assessing whether a person is fit and proper to be appointed to, and hold, a position; and
     (ii) actions to be taken where a person is assessed as not being fit and proper; and
@@ -2518,7 +2523,7 @@ A person commits an offence if the person fails to comply with an order under se
   (o) prescribing arrangements for the purposes of section 94:
   (p) declaring classes of transactions for the purposes of section 97:
   (q) prescribing restrictions and requirements for the purposes of section 98:
-  (r) prescribing circumstances for the purposes of section 99(2)(c), prohibiting investments, or the retention of investments, for the purposes of section 99(2)(d), and prescribing a percentage for the purposes of section 99(4):
+  (r) prescribing circumstances for the purposes of section 99(2)﻿(c), prohibiting investments, or the retention of investments, for the purposes of section 99(2)﻿(d), and prescribing a percentage for the purposes of section 99(4):
   (s) prescribing matters for the purposes of sections 112 to 115, including prescribing—
     (i) how the amount of an operating profit or operating loss is to be determined; and
     (ii) requirements relating to how the operating profit or operating loss must be allocated; and
@@ -2535,10 +2540,10 @@ A person commits an offence if the person fails to comply with an order under se
   (w) prescribing transitional or savings provisions relating to the coming into force of subpart 3 of Part 2 (in addition to any other transitional provisions in this Act):
   (x) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) Regulations made under this section or any other provision of this Act may prescribe different matters in respect of different classes of persons.
-(3) Regulations made under subsection (1)(w) may provide that, subject to the conditions that are specified in the regulations, during a specified transitional period,—
+(3) Regulations made under subsection (1)﻿(w) may provide that, subject to the conditions that are specified in the regulations, during a specified transitional period,—
   (a) specified provisions of this Act (including definitions) do not apply:
   (b) specified provisions repealed or amended or revoked by this Act continue to apply.
-(4) All regulations made under subsection (1)(w) that are still in force on the day that is 3 years after the commencement of this section expire on the close of that day.
+(4) All regulations made under subsection (1)﻿(w) that are still in force on the day that is 3 years after the commencement of this section expire on the close of that day.
 (5) The Bank may refuse to perform a function or exercise a power until a prescribed fee is paid.
 (6) Any Order in Council made under subsection (1) may authorise the Bank to refund or waive, in whole or in part and on any conditions as may be prescribed, payment of any fee or amount payable in relation to any person or class of persons.
 (7) Any fee or amount payable to the Bank is recoverable by the Bank in any court of competent jurisdiction as a debt due to the Bank.
@@ -2546,15 +2551,15 @@ A person commits an offence if the person fails to comply with an order under se
 ### 238 Regulations may provide for exemptions
 (1) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for all or any of the following purposes:
   (a) exempting a class of specified persons that have an annual gross premium income (as determined in the manner specified in the regulations) that is less than a specified amount from compliance with—
-    (i) section 19(1)(d) or (f); or
+    (i) section 19(1)﻿(d) or (f); or
     (ii) section 60; or
     (iii) any provision of section 81; or
     (iv) subpart 3 of Part 2:
   (b) exempting a class of specified persons that have an annual gross premium income (as determined in the manner specified in the regulations) that is less than a specified amount from being—
     (i) an FMC reporting entity for the purposes of the Financial Markets Conduct Act 2013 by virtue of section 451(h) of that Act:
-    (ii) an issuer for the purposes of the Financial Reporting Act 1993 by virtue of section 4(1)(da) of that Act:
+    (ii) an issuer for the purposes of the Financial Reporting Act 1993 by virtue of section 4(1)﻿(da) of that Act:
   (c) prescribing terms and conditions that an exemption under paragraph (a) or (b) is subject to.
-(2) If the terms and conditions of an exemption under subsection (1)(a) or (b) that are prescribed under subsection (1)(c) are not complied with by a person, the exemption does not apply to the person.
+(2) If the terms and conditions of an exemption under subsection (1)﻿(a) or (b) that are prescribed under subsection (1)﻿(c) are not complied with by a person, the exemption does not apply to the person.
 (3) For the purposes of subsection (1),—
   (a) different amounts of annual gross premium income may be specified in the regulations in respect of different exemptions; and
   (b) the regulations may specify a different manner of determining a person's annual gross premium income in respect of different exemptions; and
@@ -2653,7 +2658,7 @@ The Bank may also issue a provisional licence to a person if the Bank is satisfi
     (iii) the holder is an overseas company that has been removed from the overseas register (within the meaning of the Companies Act 1993); or
     (iv) the holder has been liquidated, wound up, or dissolved or has otherwise ceased to exist; or
     (v) for any other reason, it is no longer appropriate for the provisional licence to remain in force.
-(3) Subsection (2)(c) does not limit subsection (2)(a) or (b).
+(3) Subsection (2)﻿(c) does not limit subsection (2)﻿(a) or (b).
 (4) In this section, an entity is subject to an insolvency proceeding or process if any of the following apply:
   (a) the entity is in liquidation under the Companies Act 1993 or under any other Act:
   (b) the entity is in voluntary administration or subject to a deed of company arrangement:
@@ -2669,7 +2674,7 @@ The Bank may also issue a provisional licence to a person if the Bank is satisfi
   (a) sections 34 to 37 (which relate to fit and proper requirements):
   (b) sections 55 to 81 (which relate to solvency standards, financial strength ratings, risk management, and other matters of prudential regulation):
   (c) subpart 3 of Part 2 (which relates to statutory funds).
-(3) If an insurer becomes, or will become, an issuer under section 4(1)(da) of the Financial Reporting Act 1993 as a result of a provisional licence being issued to the insurer,—
+(3) If an insurer becomes, or will become, an issuer under section 4(1)﻿(da) of the Financial Reporting Act 1993 as a result of a provisional licence being issued to the insurer,—
   (a) the conditions of the licence may specify the accounting periods or interim accounting periods in respect of which the insurer must be treated as being an issuer under that Act (being periods that commence on or after the date that the licence is issued); and
   (b) the Financial Reporting Act 1993 applies accordingly.
 
@@ -2697,7 +2702,7 @@ The Bank may also issue a provisional licence to a person if the Bank is satisfi
   (a) the date that Public Trust receives a notice from the Bank under subsection (2):
   (b) in the case of a non-licensed depositor, the date that is 18 months after the date on which this Act receives the Royal assent:
   (c) the date that is 3 years after the date on which this Act receives the Royal assent.
-(2) The Bank must give a notice for the purposes of subsection (1)(a) in respect of a depositor if the depositor has been issued with a licence under Part 2 or section 205.
+(2) The Bank must give a notice for the purposes of subsection (1)﻿(a) in respect of a depositor if the depositor has been issued with a licence under Part 2 or section 205.
 (3) If, before a deposit is returned under this section, the depositor is put into liquidation in New Zealand,—
   (a) subsection (1) does not apply; and
   (b) the deposit must be applied and otherwise dealt with in accordance with the Insurance Companies' Deposits Act 1953 or the Life Insurance Act 1908 (as the case may be) as if this Act had not been enacted.
