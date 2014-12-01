@@ -1,5 +1,5 @@
 # Racing Act 2003
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Racing Act 2003.
@@ -925,7 +925,7 @@ A delegation under clause 24(1)—
 (2) Subject to the terms and conditions of employment, the chief executive may at any time terminate or suspend the employment of any of the Board's employees.
 
 ### 31 Superannuation or retiring allowances
-For the purpose of providing a superannuation fund or retiring allowances for its employees, the governing body may pay sums by way of a subsidy or a contribution into any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+For the purpose of providing a superannuation fund or retiring allowances for its employees, the governing body may pay sums by way of a subsidy or a contribution into any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 
 ## Schedule 2 — Provisions relating to performance and efficiency audit of Board
 
@@ -1001,7 +1001,7 @@ There may be paid, out of the funds of the Authority, to the members of the Auth
 (2) Persons employed under subclause (1) must be employed on the terms and conditions of employment and paid the salaries and allowances that the Authority may determine.
 
 ### 7 Superannuation or retiring allowances
-(1) For the purpose of providing a superannuation fund or retiring allowances for its employees, the Authority may pay sums by way of a subsidy or a contribution into any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing a superannuation fund or retiring allowances for its employees, the Authority may pay sums by way of a subsidy or a contribution into any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) A person who, immediately before becoming an employee of the Authority, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 must be regarded, for the purposes of that Act, as employed in the Government service so long as that person continues to be an employee of the Authority and that Act applies to that person in all respects as if that person's service as an employee of the Authority were Government service.
 (3) Nothing in subclause (2) entitles any person to become a contributor to the Government Superannuation Fund after that person has ceased to be a contributor.
 (4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to an employee of the Authority who is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to that employee, means the Authority.
