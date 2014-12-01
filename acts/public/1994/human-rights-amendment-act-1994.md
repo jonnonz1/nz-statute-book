@@ -1,5 +1,5 @@
 # Human Rights Amendment Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2014-12-01_
 
 > An Act to amend the Human Rights Act 1993
 
@@ -9,14 +9,14 @@ This Act may be cited as the Human Rights Amendment Act 1994, and shall be read 
 ## Part  — Application of principal Act and Human Rights Commission Act 1977 to superannuation schemes
 
 ### 2 Application of principal Act to superannuation schemes providing benefits on account of marital status
-(1) Notwithstanding any rule of law, nothing in section 22 or section 44 or section 70 of the principal Act shall prevent, or be taken ever to have prevented, the provisions of a superannuation scheme, or the trustees of the scheme, from providing, on the death of a member of the scheme, a benefit for either—without providing a similar or corresponding or equivalent benefit on the death of other members of the scheme.
+(1) Notwithstanding any rule of law, nothing in section 22 or section 44 or section 70 of the principal Act shall prevent, or be taken ever to have prevented, the provisions of a superannuation scheme, or the trustees, the supervisor, or the manager of the scheme, from providing, on the death of a member of the scheme, a benefit for either—without providing a similar or corresponding or equivalent benefit on the death of other members of the scheme.
   (a) The spouse of that member; or
   (b) the civil union partner or de facto partner of that member,—
 (2) Subject to subsection (5) of this section, this section applies in respect of superannuation schemes established before or after the commencement of this Act.
 (3) This section applies notwithstanding any judgment, decision, or order of any Court or tribunal given or made before or after the commencement of this Act in proceedings commenced before the commencement of this Act.
 (4) Nothing in section 153(1) of the principal Act limits or affects this section.
-(5) Nothing in this section applies to the provision of benefits under a superannuation scheme or by the trustees of a scheme in respect of any person who, at any time on or after the 1st day of January 1996, becomes a member of the scheme unless,—
-  (a) Immediately before becoming a member, that person was a member of another superannuation scheme that provides or provided, or the trustees of which provide or provided, benefits of a kind referred to in paragraph (a) or paragraph (b) of subsection (1) of this section; and
+(5) Nothing in this section applies to the provision of benefits under a superannuation scheme or by the trustees, the supervisor, or the manager of a scheme in respect of any person who, at any time on or after the 1st day of January 1996, becomes a member of the scheme unless,—
+  (a) Immediately before becoming a member, that person was a member of another superannuation scheme that provides or provided, or the trustees, the supervisor, or the manager of which provide or provided, benefits of a kind referred to in paragraph (a) or paragraph (b) of subsection (1) of this section; and
   (b) That person became a member of the first-mentioned scheme as a result of a requirement, or the exercise of a right, to leave that other scheme by reason of any merger, takeover, or restructuring of, or reorganisation of the business of, that person's employer.
 (6) Nothing in this section affects the validity of any amendment to the instrument or conditions governing a superannuation scheme made pursuant to section 72 of the principal Act before the commencement of this Act.
 
