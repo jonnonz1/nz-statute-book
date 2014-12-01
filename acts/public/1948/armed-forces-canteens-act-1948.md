@@ -1,5 +1,5 @@
 # Armed Forces Canteens Act 1948
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to constitute the Armed Forces Canteen Council, to provide for the establishment of canteens and other amenities for the benefit of the Armed Forces, and for matters incidental thereto
 
@@ -141,7 +141,7 @@ The Minister may from time to time—
 (2) Rules may be made under this section with respect to amenities generally or to amenities of a specified class or classes or to a specified amenity.
 
 ### 15A Superannuation for staff
-(1) For the purpose of providing superannuation or retiring allowances for its employees (other than persons appointed under section 6), the Council may, out of the Fund, make payments to or subsidise any superannuation scheme which is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing superannuation or retiring allowances for its employees (other than persons appointed under section 6), the Council may, out of the Fund, make payments to or subsidise any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) All payments made by the Council before the commencement of this section which would have been valid if this section had been in force when the payments were made are hereby validated and declared to have been lawfully made.
 
 ### 16 Exemption from taxes
