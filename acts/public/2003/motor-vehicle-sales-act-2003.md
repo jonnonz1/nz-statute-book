@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -352,7 +352,7 @@ An individual is disqualified from registration if he or she is—
     (ii) who has been suspended under the former Act; or
   (g) a person who held a motor vehicle dealer's licence under the former Act and who is also a person against whom the Institute may exercise its right of subrogation under section 42 of that Act in relation to any payment out of the Fund arising from a claim against the Fund within the preceding 5 years for any act or thing done or omitted to be done by that person; or
   (h) a person whose registration as a motor vehicle trader has been cancelled under section 42 within the preceding 5 years; or
-  (i) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993; or
+  (i) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993; or
   (j) a person who has been convicted of a crime involving dishonesty within the preceding 5 years; or
   (k) a person who has been convicted of an offence against sections 17 to 22 or 24 to 26 of the Fair Trading Act 1986 within the preceding 5 years; or
   (l)
@@ -745,7 +745,7 @@ The functions of the Registrar are—
     (iv) been concerned in the management of a company that has failed to provide compensation for any loss incurred by a finance company resulting from the company selling a motor vehicle for which that finance company holds a security interest:
     (v) been concerned in the management of a company that has failed to comply with an order of the Disputes Tribunal:
   (c) a motor vehicle trader, or a person who has at any time within the previous 5 years been a motor vehicle trader, who—
-    (i) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993; or
+    (i) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993; or
     (ii) is convicted of a crime involving dishonesty; or
     (iii) is convicted of an offence against sections 17 to 22 or sections 24 to 26 of the Fair Trading Act 1986:
     (iv) has, more than once within a period of 10 consecutive years, been adjudged bankrupt or failed to provide compensation for any loss incurred by a finance company resulting from the person selling a motor vehicle for which that finance company holds a security interest:
