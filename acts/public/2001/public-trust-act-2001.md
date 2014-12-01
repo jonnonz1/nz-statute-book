@@ -1,5 +1,5 @@
 # Public Trust Act 2001
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Public Trust Act 2001.
@@ -461,6 +461,7 @@ Public Trust must, in respect of every group investment fund,—
   (b) the market value of the security at the day of the determination as determined by a person authorised to undertake trading activities on the stock exchange.
 (3) In the case of securities valued under subsection (2)(a) that have a fixed or optional maturity date and a fixed annual interest or dividend payment, Public Trust must determine the capital value of the security by making such adjustment as it thinks proper in respect of accrued interest.
 (4) Subsection (1) is subject to section 67, in a case where a group investment fund's investments consist principally of investments in real property.
+(5) In this section, stock exchange has the same meaning as in section 2(1) of the Companies Act 1993.
 
 ### 67 Capital valuation of fund comprising investments in real estate
 (1) Where the investments comprising a group investment fund consist principally of investments in real property, Public Trust must determine at intervals not exceeding 6 months the capital value of the investments and funds of that fund.
@@ -486,6 +487,7 @@ If an amount is withdrawn from a group investment fund,—
 (2) Public Trust may charge, demand, receive, or retain a management fee in respect of any estate money invested in a group investment fund only if—
   (a) it makes initial disclosure to persons with a present interest in that money in accordance with regulations made under this Act; or
   (b) regulations made under this Act dispense with the requirement for initial disclosure; or
+  (ba) a product disclosure statement in relation to the investment of that money in the fund has been lodged in accordance with the requirements of Part 3 of the Financial Markets Conduct Act 2013 and regulations made under that Act; or
   (c) an investment statement in relation to the investment of that money in the fund has been issued in accordance with the requirements of sections 33 and 37A of the Securities Act 1978 and regulations made under that Act.
 (3) Public Trust must make ongoing disclosure of any management fee charged or retained in accordance with regulations made under this Act.
 (4) The ongoing disclosure must be made at the time of the issue by Public Trust of the financial statements of the estate in question, or at such other time as may be prescribed by regulations.
@@ -497,6 +499,11 @@ Except as otherwise provided in section 61 and sections 63 to 70, Public Trust m
 
 ### 72B Powers to adjust interest in trust property of fund that is portfolio investment entity
 Where any investments and funds comprising a group investment fund are employed in an activity that Public Trust is empowered or authorised to carry on as a portfolio investment entity, Public Trust may adjust the interests of the beneficiaries in the investments and funds in the way required by section HL 7 of the Income Tax Act 2004 despite any other provision in this Act.
+
+### 72C Public Trust may not make regulated offer of managed investment products in certain group investment funds
+(1) Public Trust may not make a regulated offer of managed investment products in a group investment fund established by it under this Part if the fund was established after the date on which this section comes into force.
+(2) Nothing in subsection (1) affects the rights, powers, and duties of Public Trust under sections 61 to 72B.
+(3) In this section, regulated offer and managed investment products have the same meanings as in section 6(1) of the Financial Markets Conduct Act 2013.
 
 ### 73 Examination of group investment funds
 Section 83A of the Trustee Act 1956 applies in respect of the examination of a group investment fund as if it were an estate, except that—
@@ -1324,10 +1331,7 @@ A transferred employee is not entitled to receive any payment or any other benef
 **Application of Securities Act 1978**
 
 ### 166 Application of Securities Act 1978
-(1) For the purposes of the Securities Act 1978, Public Trust is to be treated as a government department until the expiry of 3 months after the appointed day.
-(2) Despite subsection (1),—
-  (a) Public Trust is entitled, during the 3-month period, to deliver for registration under that Act any prospectus, trust deed, or deed of participation, and the Registrar may register the prospectus or deed; and
-  (b) once registered, all the provisions of that Act then apply to the securities offered in the registered prospectus or deed.
+[Repealed]
 
 **Amount of reserves to be paid to the Crown**
 
