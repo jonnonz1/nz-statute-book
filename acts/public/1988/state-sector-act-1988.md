@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-12-01_
 
 > Title
 
@@ -1117,7 +1117,7 @@ For the purposes of sections 84A and 84B,—
   - **State services** includes—
     (a) any tertiary education institution:
     (b) any employer within the meaning of this section
-  - **superannuation scheme** or has the same meaning as in the Superannuation Schemes Act 1989.
+  - **superannuation scheme** or means any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 
 ### 84A Power to establish superannuation schemes for officers and employees
 An employer in the State services may—
@@ -1128,7 +1128,7 @@ An employer in the State services may—
 
 ### 84B Contributions to superannuation schemes
 An employer in the State services may contribute to a superannuation scheme for the purpose of providing retirement benefits to its officers or employees (or both) only if—
-  (a) the scheme is registered under the Superannuation Schemes Act 1989; and
+  (a)
   (b) the scheme provides that the sum of all benefits (including any lump sum payments, annuities, and other benefits) payable from the scheme in respect of any member of the scheme will not exceed the sum of—
     (i) contributions paid by or on behalf of a member and investment earnings on the contributions; and
     (ii) any allocations to the member from surplus funds held within the scheme; and
@@ -1347,12 +1347,3 @@ Sections 30H and 30I of the State Sector Act 1988 apply to things coming into fo
   (a) The Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5):
   (b) Information Supporting the Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5A).
 (3) The statements of intent for 2012–2015 for the former departments and ministries must be taken to be the Statement of Intent for 2012–2015 for the Ministry of Business, Innovation, and Employment.
-
-### 8 Transitional provision relating to Ministry of Consumer Affairs
-(1) The purpose of this clause is to provide a transitional period relating to certain functions, duties, and powers of the Ministry of Consumer Affairs, which was, until 1 July 2012, part of the Ministry of Economic Development.
-(2) References in the following regulations to the Ministry of Consumer Affairs must be read as if they were references to the Ministry of Business, Innovation, and Employment:
-  (a) regulations 17 and 18(1) of the Financial Service Providers (Dispute Resolution—Reserve Scheme Fees) Rules 2010:
-  (b) the definition of reserve scheme governance contract in regulation 3 of the Financial Service Providers (Appointment of Reserve Scheme) Order 2010:
-  (c) paragraph (d) of the definition of competent organisation in regulation 16, and forms 2, 6, and 8 of Schedule 5 of the Weights and Measures Regulations 1999.
-(3) The reference in regulation 35A(5)(b) of the Disputes Tribunals Rules 1989 to the head of the Ministry of Consumer Affairs must be read as if it were a reference to the chief executive of the Ministry of Business, Innovation, and Employment.
-(4) This clause expires on 30 June 2014.
