@@ -1,5 +1,5 @@
 # Port Companies Act 1988
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to promote and improve efficiency, economy, and performance in the management and operation of the commercial aspects of ports and, to this end,—ato provide for the formation of port companies to carry out port related commercial activities and control the ownership thereof; andbto establish requirements concerning the accountability and ownership of such companies and the responsibilities of Harbour Boards; andcto repeal the New Zealand Ports Authority Act 1968 and certain other enactments relating to ports and harbours
 
@@ -10,9 +10,9 @@ _Consolidation as at 2014-04-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **council-controlled organisation** means a council-controlled organisation within the meaning of the Local Government Act 2002
-  - **debt security** has the same meaning as in the Securities Act 1978
+  - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **directorate** , in relation to any port company, means the board of directors of the port company
-  - **equity security** has the same meaning as in the Securities Act 1978
+  - **equity security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **financial statements** , in relation to a port company, means—
     (a) group financial statements within the meaning of section 7 of the Financial Reporting Act 2013 for the group comprising the port company and its subsidiaries; or
     (b) if the port company does not have any subsidiaries, financial statements within the meaning of section 6 of the Financial Reporting Act 2013 for the port company
@@ -124,7 +124,7 @@ The directorate shall consider any comments on the draft statement of corporate 
 Every completed statement of corporate intent and every modification that is adopted to a statement of corporate intent shall be made available to the public by the directorate of the port company within 1 month after the date on which it is delivered to the shareholders or adopted, as the case may be.
 
 ### 13 Circumstances in which statement of corporate intent not required
-Upon the listing of the shares of a port company on a registered exchange's securities market (within the meaning of section 2(1) of the Securities Markets Act 1988), the port company shall no longer be required to comply with sections 8 to 12 and the current statement of corporate intent shall cease to be of continuing effect.
+Upon the quotation of the shares of a port company on a licensed market (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013), the port company shall no longer be required to comply with sections 8 to 12 and the current statement of corporate intent shall cease to be of continuing effect.
 
 ### 14 Power of Minister to direct certain provisions not to apply
 (1) In any case where the Minister is satisfied that, on and from a specified date, at least 50% of the equity securities of the port company that confer rights to vote at a general meeting of the company will be held or beneficially owned by persons other than Harbour Boards, regional councils, territorial authorities, or council-controlled organisations, or a combination of them, the Minister may, by notice in the Gazette, direct that—and any such direction may contain such transitional provisions as the Minister thinks fit.
