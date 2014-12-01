@@ -1,5 +1,5 @@
 # Unit Trusts Amendment Act 2012
-_Consolidation as at 2012-08-30_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Unit Trusts Amendment Act 2012.
