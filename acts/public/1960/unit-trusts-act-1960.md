@@ -1,5 +1,5 @@
 # Unit Trusts Act 1960
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to provide for regulating the operations of unit trusts
 
@@ -270,7 +270,7 @@ All money required to be paid to the trustee or a nominated person of the truste
 ### 30 Existing unit trusts
 The terms of any trust created before the commencement of this Act in pursuance of a unit trust scheme or arrangement may, notwithstanding anything in any deed or other instrument, be varied or supplemented by a deed made between the trustee and manager under the scheme or arrangement, or otherwise as the Minister may approve, to enable compliance with the requirements of this Act.
 
-## Schedule Schedule — Particulars to be included in statement by manager
+## Schedule  — Particulars to be included in statement by manager
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
