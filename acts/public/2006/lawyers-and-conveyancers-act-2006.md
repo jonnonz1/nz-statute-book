@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -3330,14 +3330,14 @@ A practitioner commits an offence and is liable on conviction to a fine not exce
   (c) any company—
     (i) of which the practitioner is a director within the meaning of the Companies Act 1993; or
     (ii) of which the principal financial benefit or effective control is directly or indirectly vested in the practitioner or any spouse or civil union partner or de facto partner or child or children of the practitioner:
-  (d) any other incorporated or unincorporated body (other than a body that is a party to a listing agreement with a stock exchange)—
+  (d) any other incorporated or unincorporated body (other than a listed issuer)—
     (i) in relation to which the practitioner occupies a position comparable to that of a director within the meaning of the Companies Act 1993; or
     (ii) of which the principal financial benefit or effective control is directly or indirectly vested in the practitioner or any spouse or civil union partner or de facto partner or child or children of the practitioner.
 (6) In this section,—
   - **company** —
     (a) means a company registered under the Companies Act 1993; and
     (b) includes a company so registered in which the practitioner holds shares as a bare trustee, notwithstanding that he or she is entitled as a trustee to be remunerated out of the income or property of the trust; but
-    (c) does not include a company so registered that is a party to a listing agreement with a stock exchange
+    (c) does not include a company so registered that is a listed issuer
   - **conveyance** means—
     (a) a deed or agreement in writing—
       (i) for the sale and purchase of, or relating to, any interest in land or buildings, including a company lease within the meaning of section 2 of the Resource Management Act 1991:
@@ -3345,6 +3345,7 @@ A practitioner commits an offence and is liable on conviction to a fine not exce
       (iii) for the sale and purchase of a business (including its shares and securities) and for any leases, licences, or rights connected with the business:
       (iv) for the sale and purchase or lease of chattels, either separately or as part of an agreement to which subparagraph (i) or subparagraph (ii) or subparagraph (iii) applies:
     (b) any other assignment or settlement by deed.
+  - **listed issuer** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
 
 ### 323 Advances from fidelity fund for purposes of this Part
 Without limiting the generality of sections 311(1)(e) and 320 to 322, a regulatory society may, from time to time, in its discretion, for the purpose of meeting any deficit in a practitioner's trust account, or reimbursing any client of the practitioner, or protecting the fund, or otherwise for the purpose of giving full effect to the intent of this Part, make advances from the fidelity fund held by it under this Part to any person or persons, on and subject to such terms and conditions, whether as to the method of repayment or the payment of interest or the giving of any securities, as it thinks fit.
@@ -4278,7 +4279,7 @@ The members of the Council, and the members of any committee appointed by the Co
 (3) The Council must include in every annual report a statement of the extent to which its equal employment opportunities programme for the year to which the report relates was complied with.
 
 ### 9 Superannuation or retiring allowances
-(1) For the purpose of providing a superannuation fund or retiring allowance for any of the employees of the Council, sums by way of subsidy may, from time to time, be paid into a scheme registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing a superannuation fund or retiring allowance for any of the employees of the Council, sums by way of subsidy may, from time to time, be paid into a retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Despite anything in this Act, any person who, immediately before becoming an employee of the Council, was a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, to be treated as employed in the Government service so long as that person continues to be an employee of the Council; and that Act applies to that person in all respects as if that person's service as such an employee of the Council were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) entitles any person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
 (4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who is in the service of the Council as an employee and is a contributor to the Government Superannuation Fund, controlling authority, in relation to that person, means the Council.
