@@ -1,5 +1,5 @@
 # Securities Amendment Act 2009
-_Consolidation as at 2009-11-23_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Securities Amendment Act 2009.
