@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -48,7 +48,7 @@ In this Act, unless the context otherwise requires,—
   - **industry participant** , or , means a person, or a person belonging to a class of persons, identified in section 7 as being a participant in the electricity industry
   - **industry service provider** means a person who—
     (a) provides a service or performs a role in the electricity industry that is recognised in the Code, including the people listed in section 7(2); but
-    (b) is not any of the industry participants identified in section 7(1)(a) to (h)
+    (b) is not any of the industry participants identified in section 7(1)﻿(a) to (h)
   - **line function services** has the meaning given in section 2(1) of the Electricity Act 1992
   - **lines** means works used or intended to be used to convey electricity
   - **load aggregator** means a person who contracts with 1 or more consumers so that the person is able to deal with the electricity otherwise required by those consumers in any way, including putting in place agreements under which those consumers voluntarily change their consumption level, so that the person is able to offer the combined increase or reduction in the interruptable load of all those consumers as collective demand, either in the wholesale electricity market or under any other bilateral agreement or contract
@@ -148,7 +148,7 @@ In this Act, unless the context otherwise requires,—
   (b) subject to the enforcement measures set out in this Part, in the case of failure to comply with the Code.
 
 ### 10 Exemption from obligation to register
-(1) Despite section 9(1)(a), an industry participant need not register if—
+(1) Despite section 9(1)﻿(a), an industry participant need not register if—
   (a) it is a member of a class of industry participants identified in regulations made under section 110 as a class of industry participants that is exempt from the obligation to register; or
   (b) the Authority exempts the participant by issuing an individual exemption notice in the Gazette that—
     (i) identifies the industry participant that is exempt from the obligation to register; and
@@ -161,11 +161,11 @@ In this Act, unless the context otherwise requires,—
   (b) is satisfied that—
     (i) the amendment or revocation is necessary or desirable for the purpose of achieving the Authority's objective under section 15; and
     (ii) the benefit of the amendment or revocation outweighs any disadvantage resulting from any increased administration and compliance costs.
-(4) To avoid doubt, an individual exemption notice issued under subsection (1)(b) is not a regulation for any purpose.
+(4) To avoid doubt, an individual exemption notice issued under subsection (1)﻿(b) is not a regulation for any purpose.
 (5) The Authority must publicise a list of all current class and individual exemptions.
 
 ### 11 Exemption from obligation to comply with Code
-(1) Despite section 9(1)(b), an industry participant need not comply with the Code, or specific provisions of the Code, if—
+(1) Despite section 9(1)﻿(b), an industry participant need not comply with the Code, or specific provisions of the Code, if—
   (a) it is a member of a class of industry participants identified in regulations made under section 110 as a class of industry participants that is exempt from the obligation to comply with the Code or specific provisions of the Code; or
   (b) the Authority exempts the participant by issuing an individual exemption notice in the Gazette that—
     (i) identifies the industry participant that is exempt from the obligation to comply with the Code or specific provisions of the Code; and
@@ -178,7 +178,7 @@ In this Act, unless the context otherwise requires,—
   (b) is satisfied that—
     (i) the amendment or revocation is necessary or desirable for the purpose of achieving the Authority's objective under section 15; and
     (ii) the benefit of the amendment or revocation outweighs any disadvantage resulting from any increased administration and compliance costs.
-(4) To avoid doubt, an individual exemption notice issued under subsection (1)(b) is not a regulation for any purpose.
+(4) To avoid doubt, an individual exemption notice issued under subsection (1)﻿(b) is not a regulation for any purpose.
 (5) The Authority must publicise a list of all current class and individual exemptions.
 
 **Electricity Authority**
@@ -309,7 +309,7 @@ The function of the Rulings Panel is—
 ### 26 Funding of Rulings Panel and remuneration of members
 (1) The Authority must fund the Rulings Panel.
 (2) The Authority may recover the costs of that funding from industry participants through levies payable under section 128.
-(3) The remuneration of members of the Rulings Panel, other than remuneration covered by subsection (4), must be set by the Remuneration Authority under section 12(1)(a)(va) of the Remuneration Authority Act 1977 as if the members were members of an independent Crown entity.
+(3) The remuneration of members of the Rulings Panel, other than remuneration covered by subsection (4), must be set by the Remuneration Authority under section 12(1)﻿(a)﻿(va) of the Remuneration Authority Act 1977 as if the members were members of an independent Crown entity.
 (4) Members of the Rulings Panel are entitled, in accordance with the fees framework (as defined in section 10(1) of the Crown Entities Act 2004), to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out their functions as members.
 
 ### Subpart 2 — Registration
@@ -383,7 +383,7 @@ The name, contact details, and business details of every person that, immediatel
     (v) the Electricity Governance (Connection of Distributed Generation) Regulations 2007:
   (b) provisions referred to in section 8(3) (concerning the system operator):
   (c) provisions to give effect to any exemptions granted under subpart 1 of Part 10 of the Electricity Governance Regulations 2003.
-(2) The Code must include whatever changes to the text of the enactments referred to in subsection (1)(a) are necessary or reasonably required to ensure that the Code—
+(2) The Code must include whatever changes to the text of the enactments referred to in subsection (1)﻿(a) are necessary or reasonably required to ensure that the Code—
   (a) is consistent with this Act, the regulations, and any amendments made to other enactments by this Act; and
   (b) is accurate and coherent; and
   (c) addresses any transitional issues.
@@ -425,7 +425,7 @@ The name, contact details, and business details of every person that, immediatel
   (a) a statement of the objectives of the proposed amendment:
   (b) an evaluation of the costs and benefits of the proposed amendment:
   (c) an evaluation of alternative means of achieving the objectives of the proposed amendment.
-(3) Despite subsection (1), the Authority need not comply with subsection (1)(b) or (c) if it is satisfied on reasonable grounds that—
+(3) Despite subsection (1), the Authority need not comply with subsection (1)﻿(b) or (c) if it is satisfied on reasonable grounds that—
   (a) the nature of the amendment is technical and non-controversial; or
   (b) there is widespread support for the amendment among the people likely to be affected by it; or
   (c) there has been adequate prior consultation (for instance, by or through an advisory group) so that all relevant views have been considered.
@@ -433,7 +433,7 @@ The name, contact details, and business details of every person that, immediatel
 ### 40 Urgent amendments to Code
 (1) The Authority may amend the Code without complying with section 39(1) if—
   (a) the Authority considers that it is necessary or desirable in the public interest that the proposed amendment be made urgently; and
-  (b) along with the notice of the amendment that is published in the Gazette under section 38(3)(b), the Authority publishes a statement of the reasons why the urgent amendment is needed.
+  (b) along with the notice of the amendment that is published in the Gazette under section 38(3)﻿(b), the Authority publishes a statement of the reasons why the urgent amendment is needed.
 (2) Every amendment made under this section—
   (a) comes into force on the date specified in the Gazette notice (despite section 38(4)), which may be any day after the date of that notice; and
   (b) expires on the date that is 9 months after the date on which it comes into force.
@@ -458,7 +458,7 @@ The name, contact details, and business details of every person that, immediatel
   (e) requirements for distributors that do not send accounts to consumers directly to use more standardised tariff structures:
   (f) requirements for all distributors to use more standardised use-of-system agreements, and for those use-of-system agreements to include provisions indemnifying retailers in respect of liability under the Consumer Guarantees Act 1993 for breaches of acceptable quality of supply, where those breaches were caused by faults on a distributor's network:
   (g) facilitating, or providing for, an active market for trading financial hedge contracts for electricity.
-(3) A report provided under subsection (1)(b) must—
+(3) A report provided under subsection (1)﻿(b) must—
   (a) identify which new matters are not included in the Code; and
   (b) explain why the Authority has not amended the Code to include those matters; and
   (c) suggest alternative methods by which the matters are or may be provided for; and
@@ -467,7 +467,7 @@ The name, contact details, and business details of every person that, immediatel
 ### 43 Minister may amend Code to include new matters
 (1) The Minister may amend the Code by including provisions for any of the new matters identified in section 42(2) if—
   (a) the Minister considers that the Code's provisions for a new matter are not satisfactory; or
-  (b) the Minister considers that, in light of the Authority's report given under section 42(1)(b), it is necessary or desirable for the Minister to amend the Code to include provisions for the matter in the Code.
+  (b) the Minister considers that, in light of the Authority's report given under section 42(1)﻿(b), it is necessary or desirable for the Minister to amend the Code to include provisions for the matter in the Code.
 (2) The Minister may amend the Code as if he or she were the Authority, and sections 37 to 40 apply accordingly.
 (3) Before amending the Code, the Minister must—
   (a) consult with the Authority (in addition to any consultation required under section 39); and
@@ -492,8 +492,8 @@ The name, contact details, and business details of every person that, immediatel
 The purposes for which the powers in section 46 may be exercised are as follows:
   (a) carrying out the Authority's monitoring functions, which are to—
     (i) monitor compliance with this Act (including Part 3), the regulations, and the Code; and
-    (ii) undertake and monitor the operation and effectiveness of market-facilitation measures under section 16(1)(f); and
-    (iii) undertake industry and market monitoring, and carry out any other function referred to in section 16(1)(g):
+    (ii) undertake and monitor the operation and effectiveness of market-facilitation measures under section 16(1)﻿(f); and
+    (iii) undertake industry and market monitoring, and carry out any other function referred to in section 16(1)﻿(g):
   (b) carrying out the Authority's function of investigating breaches or possible breaches of, and enforcing compliance with, this Part, Part 4, the regulations, and the Code.
 
 ### 46 Authority's monitoring, investigation, and enforcement powers
@@ -546,7 +546,7 @@ The purposes for which the powers in section 46 may be exercised are as follows:
   (a) restraining an industry participant from doing anything that is in breach of the Code; or
   (b) requiring an industry participant to do something in accordance with the Code.
 (2) The court may grant the injunction if, in the opinion of the court, it is desirable to do so.
-(3) Subsection (2) applies, in the case of an injunction under subsection (1)(a),—
+(3) Subsection (2) applies, in the case of an injunction under subsection (1)﻿(a),—
   (a) whether or not the participant has done, or omitted to do, that thing; and
   (b) whether or not there is an imminent danger of substantial damage to any person if the participant does, or omits to do, that thing.
 (4) The court may rescind or vary the injunction on application by the Authority or any participant affected by the injunction.
@@ -587,7 +587,7 @@ The purposes for which the powers in section 46 may be exercised are as follows:
   (c) damages for breach of contract, or for any other wrong, that arises from an act or omission that is also a breach of the Code.
 
 ### 56 Pecuniary penalty orders
-(1) The Rulings Panel may make a pecuniary penalty order under section 54(1)(d) only on an application by the Authority.
+(1) The Rulings Panel may make a pecuniary penalty order under section 54(1)﻿(d) only on an application by the Authority.
 (2) In determining whether to make a pecuniary penalty order and, if so, the amount of the order, the Rulings Panel must consider the seriousness of the breach of the Code, having regard to the following:
   (a) the severity of the breach:
   (b) the impact of the breach on other industry participants:
@@ -601,7 +601,7 @@ The purposes for which the powers in section 46 may be exercised are as follows:
   (j) any other matters that the Rulings Panel thinks fit.
 
 ### 57 Offence to breach certain orders of Rulings Panel
-An industry participant that breaches a compliance order made under section 54(1)(f), or an order made under section 54(1)(c), commits an offence and is liable on conviction to a fine not exceeding $20,000.
+An industry participant that breaches a compliance order made under section 54(1)﻿(f), or an order made under section 54(1)﻿(c), commits an offence and is liable on conviction to a fine not exceeding $20,000.
 
 ### 58 Suspension and termination for breach of certain Rulings Panel orders
 The Rulings Panel may make a suspension order or a termination order against an industry participant if—
@@ -639,11 +639,11 @@ There is a right of appeal to the High Court, on a question of law only, against
 
 ### 65 Appeal against certain orders of Rulings Panel
 (1) The Authority or an industry participant may appeal to the High Court against the following orders made by the Rulings Panel:
-  (a) an order requiring a public warning or reprimand to be issued (section 54(1)(b)):
-  (b) a pecuniary penalty order, or the amount payable under a pecuniary penalty order (section 54(1)(d)):
-  (c) a compensation order, or the amount payable under a compensation order (section 54(1)(e)):
-  (d) a compliance order (section 54(1)(f)):
-  (e) a costs order (section 54(1)(g)):
+  (a) an order requiring a public warning or reprimand to be issued (section 54(1)﻿(b)):
+  (b) a pecuniary penalty order, or the amount payable under a pecuniary penalty order (section 54(1)﻿(d)):
+  (c) a compensation order, or the amount payable under a compensation order (section 54(1)﻿(e)):
+  (d) a compliance order (section 54(1)﻿(f)):
+  (e) a costs order (section 54(1)﻿(g)):
   (f) an order by the Rulings Panel, in relation to a particular kind of appeal or dispute, that is identified in the regulations or the Code as an order that may be appealed to the High Court under this section.
 (2) An industry participant may appeal to the High Court against a suspension order or termination order made by the Rulings Panel.
 (3) An industry participant may exercise a right of appeal under this section only if the participant is—
@@ -767,7 +767,7 @@ In this Part and Schedules 2 and 3, unless the context otherwise requires,—
     (iii) each acting in its own best interests; and
   (c) the business operates in accordance with that use-of-systems agreement; and
   (d) the business publicises that use-of-systems agreement and provides it to the Authority.
-(2) A use-of-systems agreement required by subsection (1)(a) must be entered into, in the case of a business to which the corporate separation rule does not apply, as if the distribution business and the connected retailer or connected generator were separate legal persons.
+(2) A use-of-systems agreement required by subsection (1)﻿(a) must be entered into, in the case of a business to which the corporate separation rule does not apply, as if the distribution business and the connected retailer or connected generator were separate legal persons.
 (3) In this section, unless the context otherwise requires,—
   - **connected generator** , in relation to a distributor, means a generator—
     (a) that has a total capacity of more than 10 MW of generation that is connected to any of the distributor's networks; and
@@ -945,7 +945,7 @@ The dispute resolution scheme may resolve disputes between members of the disput
 (5) The Minister of Consumer Affairs may amend or revoke an individual exemption, by issuing a notice in the Gazette that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Minister—
   (a) has given notice of the proposed amendment or revocation to the exempt person (where possible) and given the person a reasonable opportunity to comment on the proposal; and
   (b) is satisfied that the amendment or revocation is necessary or desirable in order to meet the purpose of the dispute resolution scheme.
-(6) To avoid doubt, an individual exemption notice issued under subsection (3)(b) is not a regulation for any purpose.
+(6) To avoid doubt, an individual exemption notice issued under subsection (3)﻿(b) is not a regulation for any purpose.
 (7) The Ministry must publicise a list of all current class and individual exemptions.
 
 ### 97 Compliance with rules and binding settlements
@@ -954,7 +954,7 @@ The dispute resolution scheme may resolve disputes between members of the disput
   (a) comply with the rules of the scheme:
   (b) comply with a binding settlement determined by the scheme in response to a complaint:
   (c) comply with a binding settlement determined by the scheme in an indemnity dispute.
-(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)(b) may modify the terms of the binding settlement, but only to the extent that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
+(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)﻿(b) may modify the terms of the binding settlement, but only to the extent that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
 (4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
 (5) A reference in this section to a member includes a reference to a person who was a member of the dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
 
@@ -981,7 +981,7 @@ The trustees of a customer trust and the trustees of a community trust must, wit
   (b) by the trustees, if the auditor is appointed by the trustees.
 (4) An auditor of a customer trust or community trust—
   (a) must be a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013) and, in selecting an auditor, the beneficiaries may seek the advice of the Auditor-General:
-  (b) must not be a trustee, a director, an employee, or an agent of the trust or of any distributor owned by the trust, or be otherwise disqualified from being an auditor under section 36(4)(b) and (d) of the Financial Reporting Act 2013.
+  (b) must not be a trustee, a director, an employee, or an agent of the trust or of any distributor owned by the trust, or be otherwise disqualified from being an auditor under section 36(4)﻿(b) and (d) of the Financial Reporting Act 2013.
 (5) See sections 37 to 39 of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a customer trust or community trust).
 (6) In addition, sections 207B and 207T to 207W of the Companies Act 1993 apply in relation to the auditor.
 (7) Those sections of the Companies Act 1993 apply as if references to a company were to a trust, references to a director were to a trustee, references to a board were to the trustees, references to shareholders were to beneficiaries, references to a subsidiary were to a distributor owned by the trust and the distributor's subsidiaries, and all other necessary modifications were made.
@@ -1014,8 +1014,8 @@ The trustees of a customer trust and the trustees of a community trust must, wit
   (b) supply the place with electricity from an alternative source.
 (3) The obligation in subsection (2) is subject to anything to the contrary in the Electricity Act 1992, any regulations made under section 169 of that Act, or any written agreement, entered into before this section comes into force, between the distributor and a landowner who is, or would be but for the agreement, affected by the obligation.
 (4) A distributor who is obliged under subsection (2) to supply line function services or electricity from an alternative source to a place commits an offence, and is liable on conviction to a fine not exceeding $10,000 and to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues, if the distributor,—
-  (a) having been made aware that supply to the place has ceased in the circumstances described in section 106(2)(a), fails to resume supply as soon as is reasonable in the circumstances; or
-  (b) knowingly ceases to supply line function services or electricity (as the case may be) to the place, other than in the circumstances described in section 106(2)(b) or (c).
+  (a) having been made aware that supply to the place has ceased in the circumstances described in section 106(2)﻿(a), fails to resume supply as soon as is reasonable in the circumstances; or
+  (b) knowingly ceases to supply line function services or electricity (as the case may be) to the place, other than in the circumstances described in section 106(2)﻿(b) or (c).
 (5) In this section and sections 106 to 108,—
   - **landowner** , in relation to a place, means a person who owns the lines or electrical installations at the place, being lines or electrical installations to which a distributor's lines are connected
   - **supplying electricity from an alternative source** means supplying a place with electricity from a source other than a distributor's network, and includes, if necessary, supplying the associated line function services to deliver that electricity.
@@ -1052,7 +1052,7 @@ The trustees of a customer trust and the trustees of a community trust must, wit
   (b) obligations under the Electricity Act 1992 and any regulation made under that Act.
 (2) However, regulations made under section 113 about low fixed charge tariff options do not apply to a distributor in respect of consumers to whom the distributor supplies electricity from an alternative source.
 (3) If a distributor, during a trial or transition in the course of complying with section 105(2), both supplies a place with line function services that connect the place to a network and, at the same time, supplies the place with electricity from an alternative source, the distributor is not to be treated as thereby being involved in generation or retailing for the purposes of Part 3.
-(4) For the purposes of subpart 9 of Part 4 of the Commerce Act 1986, the Commerce Commission must treat the costs of providing electricity to a place from an alternative source, and any cost arising in respect of a place from an agreement under section 106(1)(a), as if the costs were the cost of providing electricity lines services (as defined in section 54C of the Commerce Act 1986).
+(4) For the purposes of subpart 9 of Part 4 of the Commerce Act 1986, the Commerce Commission must treat the costs of providing electricity to a place from an alternative source, and any cost arising in respect of a place from an agreement under section 106(1)﻿(a), as if the costs were the cost of providing electricity lines services (as defined in section 54C of the Commerce Act 1986).
 
 ## Part 5 — Miscellaneous
 
@@ -1065,9 +1065,9 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 
 ### 110 Class exemptions relating to registration and Code compliance
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister responsible for Part 2, given after receiving a recommendation from the Authority, make regulations that do either or both of the following:
-  (a) identify a class of industry participants that is exempt from the obligation in section 9(1)(a) to register:
-  (b) identify a class of industry participants that is exempt from the obligation in section 9(1)(b) to comply with the Code or specific provisions of the Code.
-(2) Regulations made under subsection (1)(b) may exempt a class of industry participants from all or specified provisions of the Code.
+  (a) identify a class of industry participants that is exempt from the obligation in section 9(1)﻿(a) to register:
+  (b) identify a class of industry participants that is exempt from the obligation in section 9(1)﻿(b) to comply with the Code or specific provisions of the Code.
+(2) Regulations made under subsection (1)﻿(b) may exempt a class of industry participants from all or specified provisions of the Code.
 
 ### 111 Class exemptions relating to membership of dispute resolution scheme
 The Governor-General may, by Order in Council made on the recommendation of the Minister of Consumer Affairs, make regulations identifying a class of industry participants that is exempt from the obligation in section 96(1) to be a member of a dispute resolution scheme.
@@ -1211,30 +1211,30 @@ The purposes of sections 121 to 126 are—
     (i) that, in the opinion of the Minister, relate directly to the ownership or operation of either or both of Tekapo A and Tekapo B generating stations and that Meridian will no longer be able to perform, or no longer requires, as a result of the transfer of ownership of the generating stations; and
     (ii) in respect of which the Minister has given notice in the Gazette that this subpart applies.
 (2) No existing agreement is terminated only because Meridian no longer controls the entire Waitaki Power Scheme.
-(3) However, a party to an existing agreement (other than Meridian or Genesis) may, by notice in writing to the Minister, Meridian, and Genesis, terminate the party's involvement in the agreement in accordance with section 124(2)(c) or (9).
+(3) However, a party to an existing agreement (other than Meridian or Genesis) may, by notice in writing to the Minister, Meridian, and Genesis, terminate the party's involvement in the agreement in accordance with section 124(2)﻿(c) or (9).
 
 ### 124 Reconfiguration of existing agreements
-(1) The shareholding Ministers may include, in a direction given under section 117(2)(b), 1 or more of the following:
+(1) The shareholding Ministers may include, in a direction given under section 117(2)﻿(b), 1 or more of the following:
   (a) a direction requiring Meridian and Genesis to negotiate the retention or transfer, or the sharing or splitting (as the case may be), of the existing agreements in a way that meets the purposes set out in section 120:
   (b) a direction requiring either or both of Meridian and Genesis to offer to any other parties that have rights or obligations under the existing agreements (third parties) 1 or more replacement contracts that are necessary to meet the purposes set out in section 120:
   (c) dates by which things must be completed, for example,—
     (i) dates by which replacement contracts must be offered:
     (ii) dates by which choices must be made under subsection (2) or (9).
-(2) A third party that has rights or obligations under an existing agreement must choose, by the date specified under subsection (1)(c),—
+(2) A third party that has rights or obligations under an existing agreement must choose, by the date specified under subsection (1)﻿(c),—
   (a) to enter into any replacement contract that is offered; or
   (b) for the existing agreement to continue in accordance with a direction to be given under subsection (4); or
   (c) to terminate the existing agreement.
 (3) If a third party chooses to enter into any replacement contract that is offered, the existing agreement ceases to have effect to the extent that it is replaced by the replacement contract.
-(4) If a replacement contract has not been entered into by the date specified in a direction under subsection (1)(c), the shareholding Ministers may give to the boards of Meridian and Genesis a further direction specifying—
+(4) If a replacement contract has not been entered into by the date specified in a direction under subsection (1)﻿(c), the shareholding Ministers may give to the boards of Meridian and Genesis a further direction specifying—
   (a) which existing agreements Meridian must remain a party to; and
   (b) which existing agreements Genesis must become a party to; and
   (c) which agreements are to be shared between the generators by Genesis becoming a party to the agreements in addition to Meridian; and
   (d) which agreements are to be split, by Meridian remaining a party in relation to certain provisions and Genesis replacing Meridian as a party in relation to other provisions.
-(5) If a direction is given under subsection (4)(a) in respect of an existing agreement, Meridian and the third parties to the agreement remain subject to the agreement as if this Act had not been passed.
-(6) If a direction is given under subsection (4)(b) in respect of an existing agreement, all rights and obligations of Meridian under the agreement become the rights and obligations of Genesis on the date specified in the direction.
-(7) If a direction is given under subsection (4)(c) in respect of an existing agreement, all rights and obligations of Meridian under the agreement become the joint and several rights and obligations of Meridian and Genesis on the date specified in the direction.
-(8) If a direction is given under subsection (4)(d) in respect of an existing agreement, on the date specified in the direction the rights and obligations of Meridian under the agreement remain with Meridian except to the extent that any of those rights and obligations are transferred to Genesis.
-(9) However, a party to an existing agreement in respect of which a direction is given under subsection (4) (other than Meridian or Genesis) may terminate the party's involvement in the agreement, by notice in writing to the Minister, Meridian, and Genesis given by the further date specified under subsection (1)(c).
+(5) If a direction is given under subsection (4)﻿(a) in respect of an existing agreement, Meridian and the third parties to the agreement remain subject to the agreement as if this Act had not been passed.
+(6) If a direction is given under subsection (4)﻿(b) in respect of an existing agreement, all rights and obligations of Meridian under the agreement become the rights and obligations of Genesis on the date specified in the direction.
+(7) If a direction is given under subsection (4)﻿(c) in respect of an existing agreement, all rights and obligations of Meridian under the agreement become the joint and several rights and obligations of Meridian and Genesis on the date specified in the direction.
+(8) If a direction is given under subsection (4)﻿(d) in respect of an existing agreement, on the date specified in the direction the rights and obligations of Meridian under the agreement remain with Meridian except to the extent that any of those rights and obligations are transferred to Genesis.
+(9) However, a party to an existing agreement in respect of which a direction is given under subsection (4) (other than Meridian or Genesis) may terminate the party's involvement in the agreement, by notice in writing to the Minister, Meridian, and Genesis given by the further date specified under subsection (1)﻿(c).
 (10) In this section, rights and obligations includes entitlements and liabilities.
 
 ### 125 Other provisions about directions
@@ -1292,7 +1292,7 @@ The purposes of sections 121 to 126 are—
   (a) those industry participants who are liable to pay a levy under that section; and
   (b) any other representatives of persons whom the Authority believes to be significantly affected by a levy.
 (2) Each Authority must, at the time when the request is submitted, report to the Minister on the outcome of that consultation.
-(3) The Ministry must consult in a like manner in respect of a levy to recover costs referred to in section 128(3)(g).
+(3) The Ministry must consult in a like manner in respect of a levy to recover costs referred to in section 128(3)﻿(g).
 (4) This section applies to requests in respect of the financial year beginning 1 July 2011 and later financial years.
 
 **Specific authorisations for purposes of Commerce Act 1986**
@@ -1303,9 +1303,9 @@ The purposes of sections 121 to 126 are—
   (b) the giving by the shareholding Ministers of a direction under this subpart; and
   (c) anything done or omitted by a State generator, or a director or employee of a State generator, if the act or omission is reasonably necessary to—
     (i) comply with a direction given under this subpart; or
-    (ii) give effect to a contract entered into pursuant to a direction under section 117(2)(d); and
+    (ii) give effect to a contract entered into pursuant to a direction under section 117(2)﻿(d); and
   (d) anything done or omitted to be done by an industry participant for the purpose of developing and operating an active market for trading financial hedge contracts for electricity.
-(2) Section 47 of the Commerce Act 1986 does not apply to any transfer of assets undertaken by a State generator pursuant to a direction given under section 117(2)(b) or (c).
+(2) Section 47 of the Commerce Act 1986 does not apply to any transfer of assets undertaken by a State generator pursuant to a direction given under section 117(2)﻿(b) or (c).
 
 **Distributors' and grid owners' exemption from liability**
 
@@ -1328,7 +1328,7 @@ In this subpart, unless the context otherwise requires,—
     (b) the pay and conditions of which are, in their overall effect, no less favourable to the employee than those applying to the employee immediately before the date of the employee’s transfer to that position
   - **transferred employee** means a person who,—
     (a) immediately before the commencement date, is employed by the Electricity Commission; and
-    (b) is transferred to the Authority under section 134(1)(f).
+    (b) is transferred to the Authority under section 134(1)﻿(f).
 
 **Dissolution of Electricity Commission**
 
@@ -1348,12 +1348,12 @@ In this subpart, unless the context otherwise requires,—
   (h) the commencement, continuation, or enforcement of proceedings by or against the Electricity Commission may instead be commenced, continued, or enforced by or against the Authority without amendment to the proceedings; and
   (i) the completion of a matter or thing that would, but for section 133(1), have been completed by the Electricity Commission, may be completed by the Authority.
 (2) Despite anything in subsection (1), the Authority may appoint a new chief executive or general manager to commence on or after the commencement date.
-(3) The transfer of information from the Electricity Commission to the Authority under subsection (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(3) The transfer of information from the Electricity Commission to the Authority under subsection (1)﻿(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 (4) The dissolution of the Electricity Commission does not, by itself, affect any of the following matters:
   (a) any decision made, or anything done or omitted to be done, by the Electricity Commission in relation to the performance of its functions or the exercise of its powers under any enactment:
   (b) any proceedings commenced by or against the Electricity Commission:
   (c) any other matter or thing arising out of the Electricity Commission’s performance or exercise, or purported performance or exercise, of its functions or powers under any enactment.
-(5) Despite subsection (1)(a), it is a function of the Authority to perform any functions and exercise any powers of the Electricity Commission that are necessary or desirable for it to exercise or perform, on a temporary basis,—
+(5) Despite subsection (1)﻿(a), it is a function of the Authority to perform any functions and exercise any powers of the Electricity Commission that are necessary or desirable for it to exercise or perform, on a temporary basis,—
   (a) in order for it to comply with section 127; or
   (b) in order to make a reserve supply determination, as referred to in section 136; or
   (c) for the purpose of effectively managing the transition of functions from the Electricity Commission to the Authority.
@@ -1406,7 +1406,7 @@ Unless the context otherwise requires, a reference in any agreement, contract, o
 ### 141 Members of Rulings Panel
 (1) Every person who, immediately before the commencement date, is a member of the Rulings Panel is to be treated as if he or she had been appointed as a member under section 24 in accordance with the regulations.
 (2) However, despite section 26(3), the terms and conditions (including remuneration) of a member of the Rulings Panel to whom subsection (1) applies remain the same after the commencement date as before it, unless and until the member's appointment ends and he or she is reappointed as a member.
-(3) The chairperson and deputy chairperson of the Rulings Panel are to be treated as if they had been appointed under section 24, except that the qualification contained in section 24(2)(a) does not apply to the chairperson.
+(3) The chairperson and deputy chairperson of the Rulings Panel are to be treated as if they had been appointed under section 24, except that the qualification contained in section 24(2)﻿(a) does not apply to the chairperson.
 
 ### 142 Work of Rulings Panel
 (1) All proceedings, appeals, disputes, or other matters before the Rulings Panel immediately before the commencement date must be dealt with as if this Act had not been enacted and as if the Electricity Governance Regulations 2003 were still in force.
@@ -1439,7 +1439,7 @@ Sections 146 to 156 amend the Commerce Act 1986.
 (2) Section 2(1) is amended by repealing the definition of Electricity Commission.
 
 ### 147 Matters covered by input methodologies
-Section 52T(1)(b) is amended by inserting , except where another industry regulator (such as the Electricity Authority) has the power to set pricing methodologies in relation to particular goods or services after methodologies.
+Section 52T(1)﻿(b) is amended by inserting , except where another industry regulator (such as the Electricity Authority) has the power to set pricing methodologies in relation to particular goods or services after methodologies.
 
 ### 148 Commission's costs in setting customised price-quality path
 (1) The heading to section 53Y is amended by omitting in setting and substituting relating to assessing, setting, and reconsidering.
@@ -1460,11 +1460,11 @@ Section 54B is amended by adding the following subsection as subsection (2):
 (3) The definition of national grid in section 54C(4) is amended by omitting section 2(1) of the Electricity Act 1992 and substituting section 5 of the Electricity Industry Act 2010.
 
 ### 151 Definition of consumer-owned
-(1) Section 54D(1)(a) is amended by omitting section 3 of the Electricity Industry Reform Act 1998 and substituting clause 6 of Schedule 2 of the Electricity Industry Act 2010.
+(1) Section 54D(1)﻿(a) is amended by omitting section 3 of the Electricity Industry Reform Act 1998 and substituting clause 6 of Schedule 2 of the Electricity Industry Act 2010.
 (2) Section 54D(1) is amended by repealing paragraph (b) and substituting the following paragraph:.
   (b) the trustees of each customer trust or community trust, or the committee of shareholders of each customer co-operative, as the case may be, that is referred to in paragraph (a) are elected by the persons who are consumers of the supplier in accordance with subsections (2A) to (2C); and
 (3) Section 54D is amended by inserting the following subsections after subsection (2):
-  (2A) The requirements in respect of elections for the purposes of subsection (1)(b) are as follows:
+  (2A) The requirements in respect of elections for the purposes of subsection (1)﻿(b) are as follows:
     (a) every trustee of the customer trust or community trust, or every member of the committee of shareholders of each customer co-operative, as the case may be, must have been elected solely by the persons who are consumers of the supplier; and
     (b) either—
       (i) at least 90% of the persons who are consumers of the supplier at the time of the election are eligible to vote in those elections; or
@@ -1496,7 +1496,7 @@ Section 54B is amended by adding the following subsection as subsection (2):
   (3A) In this section, domestic consumer has the same meaning as in section 5 of the Electricity Industry Act 2010.
 
 ### 153 Administrative settlements with Transpower made before 1 April 2009
-(1) Section 54M(3)(b) is amended by omitting path.
+(1) Section 54M(3)﻿(b) is amended by omitting path.
 (2) Section 54M(6) is repealed.
 
 ### 154 Proposals for customised price-quality paths
@@ -1505,7 +1505,7 @@ Section 54P(1) is amended by—
   (b) omitting is made and substituting is published under section 52W.
 
 ### 155 New heading and sections 54R and 54S substituted
-The heading above section 54R and sections 54R to 54U are repealed and the following heading and sections substituted:Transpower grid upgrade plans and capital expenditure proposalsApproval of Transpower's grid upgrade plansCommission to prepare input methodology for capital expenditure proposals1986 No 5 ss 52T(1)(d), 52U
+The heading above section 54R and sections 54R to 54U are repealed and the following heading and sections substituted:Transpower grid upgrade plans and capital expenditure proposalsApproval of Transpower's grid upgrade plansCommission to prepare input methodology for capital expenditure proposals1986 No 5 ss 52T(1)﻿(d), 52U
   (1) The role of the Electricity Commission in requesting or approving grid upgrade plan proposals by Transpower (including proposals to amend existing grid upgrade plans) is transferred to the Commission on the commencement date.
   (2) Subsection (1) applies both to proposals made on and after the commencement date and to any proposals that were requested or under consideration by the Electricity Commission before the commencement date.
   (3) Until the input methodology required by section 54S is determined and published under section 52W,—
@@ -1543,8 +1543,8 @@ Section 54V is repealed and the following heading and section are substituted:In
   (4) The Commission must take into account, before exercising any of its powers or performing any of its functions under this Part,—
     (a) any provision of the Code, or decision made under it, that relates to or affects the pricing methodologies or performance requirements applicable to Transpower:
     (b) any provision of the Code, or decision made under it, that relates to or affects the pricing methodologies applicable to any other line owner:
-    (c) any guidelines of which it receives advice under subsection (2)(c) that are likely to be relevant to the exercise of the powers or performance of the duties or functions of the Commission under this Part:
-    (d) any directions of which it receives advice under subsection (2)(d):
+    (c) any guidelines of which it receives advice under subsection (2)﻿(c) that are likely to be relevant to the exercise of the powers or performance of the duties or functions of the Commission under this Part:
+    (d) any directions of which it receives advice under subsection (2)﻿(d):
     (e) the levy payable by Transpower or any other line owner under section 128 of the Electricity Industry Act 2010:
     (f) the continuance of supply obligations imposed by section 105 of the Electricity Industry Act 2010.
   (5) The Commission must, if asked by the Electricity Authority to do so, reconsider a section 52P determination and, to the extent that the Commission considers it necessary or desirable to do so, amend the determination, to take account of any matter referred to in subsection (4).
@@ -1559,7 +1559,7 @@ Sections 158 and 159 amend the Energy (Fuels, Levies, and References) Act 1989.
 Part 2 is repealed.
 
 ### 159 Purpose of levies
-Section 14(1)(c) is amended by inserting or gas retailers (as defined in section 2(1) of the Gas Act 1992) after Electricity Act 1992).
+Section 14(1)﻿(c) is amended by inserting or gas retailers (as defined in section 2(1) of the Gas Act 1992) after Electricity Act 1992).
 
 **Amendments to Electricity Act 1992**
 
@@ -1689,7 +1689,7 @@ No account is to be taken, for the purpose of determining under Part 3 whether a
 (1) No account is to be taken, for the purposes of Part 3, of a person's business or involvement if—
   (a) the business or involvement is exempted by the Authority under section 90; or
   (b) the ordinary business of the person consists of, or includes, the lending of money, and that person has the involvement only as security given for a loan or guarantee of a loan entered into in the ordinary course of the business of that person or as a result of enforcing that security; or
-  (c) that person has the involvement by reason only of acting for another person to acquire or dispose of a security on behalf of the other person in the ordinary course of business of a sharebroker and that person is a person authorised to undertake trading activities on a stock exchange; or
+  (c) that person is authorised to undertake trading activities on a licensed market (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) and has the involvement by reason only of acting for another person to acquire or dispose of a financial product on behalf of the other person in the ordinary course of business of carrying out those trading activities; or
   (d) that person—
     (i) has the involvement by reason only that he or she has been authorised by resolution of the directors or other governing body of a body corporate to act as its representative at a meeting or meetings of members, or a class of members, of another person; and
     (ii) has no discretion to determine how to represent the body corporate at the meeting or meetings; or
@@ -1699,13 +1699,14 @@ No account is to be taken, for the purpose of determining under Part 3 whether a
   (f) that person has the involvement by reason only that the person is a bare trustee of a trust to which the involvement or interest is subject; or
   (g) that person is involved only because the ordinary business of the person consists of or includes the selling of core assets of an electricity business, and the person does not operate those assets; or
   (h) that person has the involvement only because the person is an adviser or industry service provider.
-(2) For the purposes of subclause (1)(f), a trustee may be a bare trustee despite the fact that he or she is entitled as a trustee to be remunerated from the income or property of the trust.
+(2) For the purposes of subclause (1)﻿(f), a trustee may be a bare trustee despite the fact that he or she is entitled as a trustee to be remunerated from the income or property of the trust.
 
 ### 5 Meaning of control rights
-(1) For the purposes of this Act, a control right means a voting right attaching to a voting security.
-(2) A person has a control right if the person would have a relevant interest under sections 5 to 5B of the Securities Markets Act 1988, in the voting securities that confer that right,—
-  (a) if voting security, in relation to a body, meant a security of the body that confers a right to vote at meetings of members (whether or not there is any restriction or limitation on the number of votes that may be cast by or on behalf of the holder of the security), and includes a security that, in accordance with the terms of the security, is convertible into a security of that kind; and
-  (b) if references in those sections to a number or percentage of voting securities were a reference to the number or percentage of the votes conferred by those securities.
+(1) For the purposes of this Act, a control right means a voting right attaching to a voting product.
+(2) A person has a control right if the person would have a relevant interest, under sections 235 to 238 of the Financial Markets Conduct Act 2013, in the voting products that confer that right,—
+  (a) if voting product, in relation to a body, meant a financial product of the body that confers a right to vote at meetings of members (whether or not there is any restriction or limitation on the number of votes that may be cast by, or on behalf of, the holder of the financial product); and included a financial product that, in accordance with the terms of the financial product, is convertible into a financial product of that kind; and
+  (b) if references in those sections to a number or percentage of voting products were references to the number or percentage of the votes conferred by those financial products.
+(3) In subclause (2), financial product has the same meaning as in section 7 of the Financial Markets Conduct Act 2013.
 
 ### 6 Meaning of equity return rights
 (1) For the purposes of this Act, a person has an equity return right in relation to a business if the person has a right or entitlement or expectancy to receive equity returns, directly or indirectly, of the business.
@@ -1732,16 +1733,16 @@ No account is to be taken, for the purpose of determining under Part 3 whether a
   (f) a person that has a power to influence a decision of the business that would ordinarily require the holding of control rights which would cause the person to exceed the 10% threshold:
   (g) a person in circumstances where the person and the business are acting, or proposing to act, jointly or in concert in relation to the business:
   (h) a person that, under a trust or agreement (whether or not the person is a party to it), may at any time have any of the powers referred to in paragraphs (c) to (f).
-(2) Where a person has material influence over a business under this clause, and another person has any of the powers or controls referred to in subclause (1)(c) to (h) in relation to the first person or the majority of its directors or managers, then that other person is deemed also to have material influence over the business, and so on.
+(2) Where a person has material influence over a business under this clause, and another person has any of the powers or controls referred to in subclause (1)﻿(c) to (h) in relation to the first person or the majority of its directors or managers, then that other person is deemed also to have material influence over the business, and so on.
 (3) A person is deemed to have material influence over a business if the person is 1 of 2 or more associates who, together, have material influence over the business.
-(4) Subclause (3) does not apply to deem a person to have material influence over a business only because that person is, under clause 8(1)(b), an associate of another person, provided those associates act in accordance with the arm’s-length rules (with all necessary modifications) in respect of the business.
+(4) Subclause (3) does not apply to deem a person to have material influence over a business only because that person is, under clause 8(1)﻿(b), an associate of another person, provided those associates act in accordance with the arm’s-length rules (with all necessary modifications) in respect of the business.
 (5) To avoid doubt, a power to cast 1 of many votes at an election of trustees or councillors does not, of itself, constitute material influence.
 
 ### 8 Meaning of associate
 (1) For the purposes of this Act, person A is an associate of person B (and vice versa) if—
   (a) person A is a body corporate, and person B is—
     (i) a director of that body corporate; or
-    (ii) a related body corporate of that body corporate (within the meaning in section 5B(2) of the Securities Markets Act 1988); or
+    (ii) a related body corporate of that body corporate (within the meaning in section 12(2) of the Financial Markets Conduct Act 2013); or
     (iii) a director of a related body corporate of that body corporate (within that same meaning); or
   (b) person A is a spouse, civil union partner, de facto partner, child, or parent of person B; or
   (c) person A is a partner, to whom the Partnership Act 1908 applies, of person B; or
@@ -1752,7 +1753,7 @@ No account is to be taken, for the purpose of determining under Part 3 whether a
     (ii) more than 20% of the control rights in that company; or
   (g) person A and person B are acting, or propose to act, or are likely to act, jointly or in concert in relation to a business; or
   (h) person A is a person who, in making a decision or exercising a power materially affecting a business, is accustomed, or under an obligation, or proposes, or is likely, to act in accordance with the directions, instructions, or wishes of person B.
-(2) References in subclause (1)(e) to (h) to a company or business relate to a company or business in respect of which a connection with a business is relevant.
+(2) References in subclause (1)﻿(e) to (h) to a company or business relate to a company or business in respect of which a connection with a business is relevant.
 
 ### 9 Substance matters, not form, for purposes of determining level of involvement
 (1) Without limiting section 74, a person may be involved in a business, or be an associate or agent, regardless of whether a right, influence, power, obligation, or agreement is—
@@ -1972,7 +1973,7 @@ The approved scheme is—
   (b) the Authority; and
   (c) if an industry body is appointed under section 43ZL of the Gas Act 1992, that industry body; and
   (d) any persons (or their representatives) that the Minister considers are likely to be substantially affected by the approval.
-(3) A failure to consult with the persons referred to in subclause (2)(d) does not affect the validity of any approval of the scheme.
+(3) A failure to consult with the persons referred to in subclause (2)﻿(d) does not affect the validity of any approval of the scheme.
 (4) The Minister may approve a scheme if there is already another approved scheme, but in that case the approval does not take effect until the approval of the other scheme is withdrawn.
 
 ### 7 Decision must be notified and publicised
@@ -1989,7 +1990,7 @@ The Minister must, as soon as practicable after deciding an application,—
 (1) If the Minister proposes to withdraw approval for an approved scheme, the Minister must notify the provider.
 (2) The Minister's notice must—
   (a) state that the Minister intends to withdraw the scheme's approval; and
-  (b) identify which of the grounds described in subclause (3) apply:
+  (b) identify which of the grounds described in subclause (3) apply; and
   (c) state why the Minister considers those grounds apply; and
   (d) identify the notice period, which must be at least 3 months, during which the provider may object, under clause 10, to the intended withdrawal.
 (3) The only grounds for withdrawing approval are as follows:
@@ -2071,7 +2072,7 @@ The provider of the approved scheme must ensure that, at least once every 5 year
   (a) the Minister of Energy; and
   (b) the Authority; and
   (c) any persons or their representatives that the Minister considers are likely to be substantially affected by the recommendation.
-(4) However, a failure to consult with the persons referred to in subclause (3)(c) does not affect the validity of the regulations.
+(4) However, a failure to consult with the persons referred to in subclause (3)﻿(c) does not affect the validity of the regulations.
 
 ### 19 Order in Council appointing provider of regulated scheme
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, appoint a person to provide the regulated scheme.
@@ -2158,7 +2159,7 @@ Agreement between Meridian Energy Limited and Mackenzie Irrigation Company Limit
 (5) The Minister of Consumer Affairs may amend or revoke an individual exemption, by issuing a notice in the Gazette that identifies the exempt participant and gives reasons for the amendment or revocation, but only if the Minister—
   (a) has given notice of the proposed amendment or revocation to the exempt person (where possible) and given the person a reasonable opportunity to comment on the proposal; and
   (b) is satisfied that the amendment or revocation is necessary or desirable in order to meet the purpose of the dispute resolution scheme.
-(6) To avoid doubt, an individual exemption notice issued under subsection (3)(b) is not a regulation for any purpose.
+(6) To avoid doubt, an individual exemption notice issued under subsection (3)﻿(b) is not a regulation for any purpose.
 (7) The Ministry must include on its Internet site a list of all current class and individual exemptions.
 
 ### 43EB Compliance with rules and binding settlements
@@ -2166,7 +2167,7 @@ Agreement between Meridian Energy Limited and Mackenzie Irrigation Company Limit
 (2) On the application of the person responsible for the dispute resolution scheme, the District Court may require a member of the scheme to do either or both of the following:
   (a) comply with the rules of the scheme:
   (b) comply with a binding settlement determined by the scheme in response to a complaint.
-(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)(b) may modify the terms of the binding settlement, provided that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
+(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)﻿(b) may modify the terms of the binding settlement, provided that the modification results in a binding settlement that could have been made under the dispute resolution scheme.
 (4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
 
 ### 43EC Offence to fail to comply with District Court order
