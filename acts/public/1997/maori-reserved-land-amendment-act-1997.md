@@ -1,5 +1,5 @@
 # Maori Reserved Land Amendment Act 1997
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to amend the Maori Reserved Land Act 1955
 
@@ -57,20 +57,20 @@ Where land that is subject to a lease to which this Act applies, or a lessee's i
 (2) A transfer or assignment that is void under subsection (1) is not illegal and no contract is, by reason of the fact that it provides for such a transfer or assignment, an illegal contract within the meaning of section 3 of the Illegal Contracts Act 1970.
 
 ### 8 Acquisition of relevant interest in lessors or lessees that are companies
-(1) After the commencement of this Act, a person (other than a preferred alienee) must not acquire a relevant interest, or an additional relevant interest, in the voting securities of a company that is a lessor of a lease to which this Act applies unless—
+(1) After the commencement of this Act, a person (other than a preferred alienee) must not acquire a relevant interest, or an additional relevant interest, in the voting products of a company that is a lessor of a lease to which this Act applies unless—
   (a) The company complies with clauses 27 to 30 of the provisions in Schedule 1, as if the company were proposing to transfer its interest in the land subject to lease; or
   (b) The lessee of the lease consents in writing to the acquisition before the relevant interest is acquired.
-(2) After the commencement of this Act, a person (other than a specified assignee) must not acquire a relevant interest, or an additional relevant interest, in the voting securities of a company that is a lessee of a lease to which this Act applies unless—
+(2) After the commencement of this Act, a person (other than a specified assignee) must not acquire a relevant interest, or an additional relevant interest, in the voting products of a company that is a lessee of a lease to which this Act applies unless—
   (a) The company complies with clauses 11 to 14 or clauses 16 to 25 of the provisions in Schedule 1, as if the company were proposing to assign its interest in the lease; or
   (b) The lessor of the lease consents in writing to the acquisition before the relevant interest is acquired.
-(3) The acquisition of a relevant interest in the voting securities of a company in contravention of this section is void.
+(3) The acquisition of a relevant interest in the voting products of a company in contravention of this section is void.
 (4) An acquisition that is void under subsection (3) is not illegal and no contract is, by reason of the fact that it provides for such an acquisition, an illegal contract within the meaning of section 3 of the Illegal Contracts Act 1970.
 (5) In this section,—
-  (a) Company includes any body corporate with voting securities; but does not include a company that is a party to a listing agreement with a stock exchange:
+  (a) company includes any body corporate with voting products; but does not include a company that is a listed issuer (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
   (b) Preferred alienee means a person that comes within the preferred classes of alienees under Te Ture Whenua Maori Act 1993:
-  (c) Relevant interest has the meaning assigned to that term by sections 5 to 5B of the Securities Markets Act 1988:
-  (d) Specified assignee has the same meaning as in clause 2 of Schedule 1, as if reference in that definition to an interest in a lease were reference to a relevant interest in the voting securities of a lessee that is a company:
-  (e) Voting security has the same meaning as in section 2 of the Securities Markets Act 1988, as if references in that definition to public issuer or other body and public issuer or body were references to company.
+  (c) Relevant interest has the meaning assigned to that term by sections 235 to 238 of the Financial Markets Conduct Act 2013:
+  (d) Specified assignee has the same meaning as in clause 2 of Schedule 1, as if reference in that definition to an interest in a lease were reference to a relevant interest in the voting products of a lessee that is a company:
+  (e) voting product has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
 
 ### 9 Acquisition of beneficial interests in trusts that are lessors or lessees
 (1) After the commencement of this Act, a person must not acquire from a beneficiary a beneficial interest in a trust the trustee of which is a lessor or a lessee of a lease to which this Act applies unless—
