@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -339,7 +339,7 @@ Acute treatment, in relation to a claimant, means—
   (d) any amount deemed to be a dividend paid by any person, to the person who is the employee in question, under section GB 25 of the Income Tax Act 2007; or
   (e) any redundancy payment; or
   (f) any retiring allowance; or
-  (g) any pension from a superannuation scheme or pension fund not registered under the Superannuation Schemes Act 1989; or
+  (g) any pension from a superannuation scheme, or pension fund, that is not a retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) nor a superannuation scheme registered under the Superannuation Schemes Act 1989; or
   (h) any pension that is paid in the circumstances set out in any of the following provisions:
     (i) section DF 4 of the Income Tax Act 1994 or section DC 2 of the Income Tax Act 2004 or section DC 2 of the Income Tax Act 2007:
     (ii) section DF 8A or section DF 8B of the Income Tax Act 1994 or section DC 3 of the Income Tax Act 2004 or section DC 3 of the Income Tax Act 2007:
@@ -3480,7 +3480,7 @@ A person who commits an offence against this Act or any regulations made under i
   (b) recover from the person, as a debt due, the entitlement provided.
 (5) Nothing in subsection (4) applies to—
   (a) any money paid on a claim by the person under an insurance contract (other than an accident insurance contract under the Accident Insurance Act 1998) taken out by the person:
-  (b) any payment from a registered superannuation scheme:
+  (b) any payment from a retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
   (c)
   (d) any damages awarded under any Act.
 
