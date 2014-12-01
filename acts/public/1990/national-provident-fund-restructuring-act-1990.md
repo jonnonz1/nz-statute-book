@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Act 1990
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-12-01_
 
 > An Act to provide for—athe continuation of the National Provident Fund Board as the Board of Trustees of the National Provident Fund; andbthe restructuring of the National Provident Fund and its superannuation schemes and investment arrangements; andcother incidental matters; anddthe repeal of the National Provident Fund Act 1950
 
@@ -24,7 +24,7 @@ In this Act, unless the context otherwise requires,—
   - **Crown** means Her Majesty the Queen in right of New Zealand
   - **DBP annuitants scheme** means the scheme to be established under section 41(2)(a)
   - **DBP contributors scheme** means the scheme to be established under section 41(2)(b)
-  - **debt security** has the same meaning as in section 2 of the Securities Act 1978
+  - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **dedicated reserves** means the amounts (other than amounts that are free reserves) that are shown in the records of the Board as at the beginning of the transfer day as being reserves attributable to a particular scheme or schemes
   - **defined benefit scheme** means any existing scheme that is referred to in Part 3 of Schedule 1 and, in relation to any period of time on and after the transfer day, means the DBP annuitants scheme and the DBP contributors scheme
   - **defined contribution scheme** means any existing scheme other than—
@@ -33,7 +33,7 @@ In this Act, unless the context otherwise requires,—
     (c) an old public scheme
   - **employee** includes any person who is engaged to work, or works, under a contract of service or apprenticeship or a contract for services
   - **employer** means any person who pays, or is liable to pay, to any person (being an employee within the meaning of this section) any earnings as an employee
-  - **equity security** has the same meaning as in section 2 of the Securities Act 1978
+  - **equity security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **existing investment arrangement** means any investment arrangement that is referred to in Part 2 of Schedule 1
   - **existing scheme** or —
     (a) means any superannuation scheme, benefit plan, or other arrangement having a similar purpose that is referred to in Part 1 of Schedule 1; and
@@ -58,13 +58,14 @@ In this Act, unless the context otherwise requires,—
     (a) means a local authority within the meaning of the Local Government Act 2002; and
     (b) includes any body that, immediately before the repeal of the Local Authorities Loans Act 1956 on 1 July 1998, was a local authority within the meaning of Part 1 of that Act, whether by virtue of section 2 of that Act, or of any Order in Council under that Act, or by virtue of any other Act; and
     (c) includes any body that is declared by an enactment to be a local authority for the purposes of the National Provident Fund Act 1950 or this Act
+  - **managed investment product** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **management** ,—and and have corresponding meanings
     (a) in relation to any existing scheme, includes administration, and management of the investments, of the scheme:
     (b) in relation to the global asset trust, includes administration, and management of the investments, of the global asset trust:
     (c) in relation to any GAT subsidiary that is a unit trust, includes administration, and management of the investments, of that unit trust,—
   - **market value** means—
     (a) for the purpose of Schedule 2, the market value calculated according to the accounting policies applied by the Board in the 1989–1990 financial period, or such other criteria as may be agreed between the Minister and the Board:
-    (b) for any other purpose, the market value calculated according to the same criteria as those applied by the Board in the preparation under section 14 of the Superannuation Schemes Act 1989 of the most recent annual reports for the existing schemes, or such other criteria as may be agreed between the Minister and the Board at the time that the calculation is made
+    (b) for any other purpose, the market value calculated according to the same criteria as those applied by the Board in the preparation of the most recent annual reports for the existing schemes, or such other criteria as may be agreed between the Minister and the Board at the time that the calculation is made
   - **member** , in relation to a scheme, means a natural person who has been admitted to membership of the scheme and who is, or may become, entitled to benefits under the scheme
   - **Minister** means the Minister of Finance
   - **NPF group company** means any company that, at any time before the date on which this Act receives the Royal assent, was a subsidiary of the Board within the meaning of section 158 of the Companies Act 1955, or would have been so if subsection (3)(a) of that section did not apply
@@ -82,9 +83,10 @@ In this Act, unless the context otherwise requires,—
     (c) goodwill:
     (d) rights, interests, and claims of every kind in or to property, whether arising from, accruing under, created or evidenced by, or the subject of, an instrument or otherwise, and whether liquidated or unliquidated, actual, contingent, or prospective
   - **proposal** means the proposal approved by the Governor-General by Order in Council under section 9, as amended in accordance with section 10 or section 10A, but does not include the proposed trust deeds referred to in section 7(1)
+  - **registered scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **rights** means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective
   - **solicitor** means a person enrolled as a barrister and solicitor of the court under or by virtue of the Law Practitioners Act 1982
-  - **superannuation scheme** has the same meaning as in section 2 of the Superannuation Schemes Act 1989, and includes each existing scheme
+  - **superannuation scheme** means a retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013), and includes each existing scheme
   - **transfer day** means 1 April 1991
   - **trust deed** means any trust deed in respect of any scheme, and includes any amendment, replacement, or consolidation of any trust deed
   - **trust fund** means a trust fund for an existing scheme that is established as a result of the proposal
@@ -222,7 +224,7 @@ For the avoidance of doubt, it is hereby declared that, on and after 1 October 1
   (c) continue as a sinking fund commissioner and depreciation fund commissioner for any local authority or other person, in any case where the Board held appointment as such immediately before the transfer day; and
   (d) continue in any other position held by the Board in any other official capacity immediately before the transfer day.
 (2) Except as expressly provided by this Act or the proposal, the continuity and operation of the Board shall in no way be affected, nor shall any property, powers, authorities, or liabilities of the Board, or any legal or other proceedings instituted or to be instituted by or against the Board, be affected by this Act or the proposal.
-(3) Subject to the provisions of this Act, and to the terms of any trust deed in respect of an existing scheme, the Board shall have the same responsibilities regarding that scheme as a trustee of a superannuation scheme registered under the Superannuation Schemes Act 1989.
+(3) Subject to the provisions of this Act, and to the terms of any trust deed in respect of an existing scheme, the Board shall have the same responsibilities regarding that scheme as a trustee of a registered scheme that is a restricted scheme under the Financial Markets Conduct Act 2013.
 
 ## Part 3 — Provisions relating to implementation of restructuring of Fund and Board
 
@@ -257,11 +259,12 @@ Nothing effected or authorised by any Part of this Act—
 (2) The trust deed for the global asset trust shall be in a form approved by the Minister.
 (3) The participatory securities referred to in subsection (1)(b)—
   (a) shall be of such class and number as is determined in accordance with the proposal; and
-  (b) shall be deemed to be participatory securities for the purpose of section 3 of the Goods and Services Tax Act 1985.
+  (b) shall be deemed to be participatory securities for the purpose of section 3 of the Goods and Services Tax Act 1985; and
+  (c) to avoid doubt, are managed investment products on and after the global asset trust is treated as a registered scheme under section 59A.
 
 ### 25 Status of global asset trust
 (1) The global asset trust established in accordance with the proposal shall—
-  (a) be deemed for the purposes of any enactment to be registered under the Superannuation Schemes Act 1989 as a superannuation scheme; and
+  (a) be treated as a registered scheme under section 59A; and
   (b) for the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge, be one superannuation scheme notwithstanding that it may have separate pools and different classes of units; and
   (c) be deemed to be a superannuation scheme for the purposes of section EW 5(14) or paragraph (b) of the definition of excepted financial arrangement in section EZ 48 of the Income Tax Act 2007.
 (2) Nothing in subsection (1)(b) shall limit section 73.
@@ -419,7 +422,7 @@ Every amount payable by a person to the Board in respect of an existing scheme u
 (2) Immediately after the amalgamation referred to in subsection (1), the amalgamated defined benefit schemes shall be deemed to have been divided into 2 separate superannuation schemes as follows:
   (a) first, the DBP annuitants scheme, which shall have only annuitants as members; and
   (b) secondly, the DBP contributors scheme, which shall have only contributors as members; and
-  (c) each such scheme shall be deemed to be registered under the Superannuation Schemes Act 1989.
+  (c)
 (3) For the purposes of this section, the term annuitants means—
   (a) persons who were, immediately before the transfer day, members or other beneficiaries of a defined benefit scheme, or who subsequently become members or other beneficiaries of the DBP annuitants scheme, who are in receipt of a pension or who on leaving employment elected to receive a deferred pension; and
   (b) such other persons as the Minister may determine to be annuitants for the purposes of this section.
@@ -427,14 +430,14 @@ Every amount payable by a person to the Board in respect of an existing scheme u
 
 ### 42 Provisions in trust deeds for DBP annuitants scheme and DBP contributors scheme
 (1) The trust deeds to be prepared for the DBP annuitants scheme and the DBP contributors scheme pursuant to section 45 shall contain, unless the Minister and the Board otherwise agree, provisions to the effect of the provisions set out in Schedule 5.
-(2) Notwithstanding section 9B of the Superannuation Schemes Act 1989, members or other beneficiaries of the DBP contributors scheme may be transferred to the DBP annuitants scheme in accordance with the provisions of the trust deeds for those schemes.
+(2) Despite sections 178 to 182 of the Financial Markets Conduct Act 2013, members or other beneficiaries of the DBP contributors scheme may be transferred to the DBP annuitants scheme in accordance with the provisions of the trust deeds for those schemes.
 (3) The Minister may require any provision included in the trust deeds for the DBP annuitants scheme or the DBP contributors scheme pursuant to section 56 to be in such form as the Minister directs.
 (4) Where a provision that is included in a trust deed pursuant to subsection (1) or any other section of this Act imposes obligations or restrictions on the Crown, the Crown shall comply with that provision as if it were a party to the trust deed.
 
 ### 43 Aircrew superannuation scheme
 On the transfer day the aircrew superannuation scheme shall be deemed to—
   (a) have become a separate superannuation scheme; and
-  (b) be registered under the Superannuation Schemes Act 1989.
+  (b)
 
 ### 44 Increased or decreased contributions by corporate contributors to certain existing schemes
 (1) If the Board becomes aware that the level of contributions being made to either the DBP contributors scheme or the aircrew superannuation scheme is, on the information available to the Board,—the Board shall give notice to that effect to the Minister, with a statement of the Board's view as to what action would be required to rectify the position.
@@ -462,7 +465,7 @@ On the transfer day the aircrew superannuation scheme shall be deemed to—
   (a) for every existing scheme other than the old public schemes and the defined benefit schemes; and
   (b) for the DBP annuitants scheme, the DBP contributors scheme, and the aircrew superannuation scheme.
 (1A) The Board shall, as soon as practicable after the commencement of the National Provident Fund Restructuring Amendment Act 1991, prepare a trust deed for every old public scheme.
-(2) Each trust deed shall specify the matters required to be specified by section 7 of the Superannuation Schemes Act 1989.
+(2)
 
 ### 46 Board to be bound by existing terms and conditions in preparing trust deed
 Where any of the matters required to be specified in the trust deed of an existing scheme are provided for by the terms and conditions governing the scheme as at the date of execution of the trust deed, the Board shall, except as otherwise provided by this Act, ensure that the trust deed of that scheme incorporates those terms and conditions, either in the body of the trust deed itself or by reference.
@@ -517,10 +520,10 @@ The Board may, in incorporating the existing terms and conditions of a scheme in
 (2) The terms and conditions of such appointment (other than the period), including as to fees and expenses, shall be those agreed from time to time between the Crown and the Board.
 
 ### 53 Investments of existing schemes
-(1) The trust deed for each existing scheme shall provide that the property of the scheme may be invested only in the global asset trust, whether by way of debt securities or participatory securities or otherwise.
-(2) The property of an old public scheme may be invested only in the global asset trust, whether by way of debt securities or participatory securities or otherwise.
+(1) The trust deed for each existing scheme shall provide that the property of the scheme may be invested only in the global asset trust, whether by way of debt securities or managed investment products or otherwise.
+(2) The property of an old public scheme may be invested only in the global asset trust, whether by way of debt securities or managed investment products or otherwise.
 (3) This section does not prevent the Board as trustee of an existing scheme depositing money of that scheme into a bank account (which may be a bank account for 1 or more existing schemes) to the extent necessary or desirable for the operation of the scheme.
-(4) Nothing in section 8 of the Superannuation Schemes Act 1989 or the provisions of the Trustee Act 1956 relating to the investment of trust funds shall apply in respect of the trust deed for an existing scheme or the investment of the property of the scheme.
+(4) Nothing in the provisions of the Trustee Act 1956 relating to the investment of trust funds shall apply in respect of the trust deed for an existing scheme or the investment of the property of the scheme.
 
 ### 54 Board's powers and authorities
 Notwithstanding any other Act, any trust deed prepared in respect of an existing scheme may confer on the Board—
@@ -541,10 +544,10 @@ Notwithstanding any other Act, any trust deed prepared in respect of an existing
 
 ### 57 Consequences of executing trust deed in respect of existing scheme
 (1) Where a trust deed is executed in respect of an existing scheme,—
-  (a) each of the provisions set out in sections 9, 9A, and 10 of the Superannuation Schemes Act 1989 shall be implied in the trust deed; and
+  (a)
   (b) the existing scheme shall be treated, for the purposes of that Act, as a trust established by its trust deed, rather than an arrangement constituted under an Act of the Parliament of New Zealand; and
   (c) from the date of execution of that trust deed, the terms and conditions of that scheme shall be those contained or implied in that trust deed, as amended from time to time.
-(2) In the application of the Superannuation Schemes Act 1989 in relation to an existing scheme, the references in section 11 and section 12 of that Act to section 8 of that Act shall be read as references to section 9 of that Act.
+(2)
 
 ### 58 Members to be notified of execution of trust deed
 (1) The Board shall, as soon as practicable after executing a trust deed in respect of an existing scheme, send each member a notice explaining that a trust deed has been executed.
@@ -559,6 +562,32 @@ Notwithstanding any other Act, any trust deed prepared in respect of an existing
 (2) Notwithstanding any provision of this Act or any other enactment or of any trust deed of an existing scheme, if the Board knows of no reasonable means of contacting any member or other beneficiary of an existing scheme, the Board—
   (a) shall be relieved of any obligation to give the notice; and
   (b) shall be under no liability arising from the notice not having been given.
+
+**Application of Financial Markets Conduct Act 2013**
+
+### 59A Application of Financial Markets Conduct Act 2013
+(1) The Financial Markets Conduct Act 2013 applies to the global asset trust, an existing scheme, and any other scheme established under this Act (each called a scheme in this section) on and after the effective date for the scheme in accordance with clause 19 of Schedule 4 of that Act (or any later date on which the scheme is established) as follows:
+  (a) the scheme must be treated, for the purposes of that Act, as a trust established and governed by a trust deed that is interpreted and administered in accordance with New Zealand law, rather than under this Act; and
+  (b) the scheme must be treated for the purposes of that Act and any other enactment as if it is registered on the register of managed investment schemes under the Financial Markets Conduct Act 2013 as a restricted scheme that is a superannuation scheme; and
+  (c) the Board is the manager of the scheme for the purposes of that Act; and
+  (d) the following provisions of Part 4 of that Act, but no other provisions of that Part, apply in respect of the scheme:
+    (i) section 133, but only in respect of the requirement under section 127 that its governing document comply with the provisions of sections 135 to 137 that apply to it:
+    (ii) sections 135 (other than subsection (1)(a), (d), (g), (j), and (k)) to 141 (governing documents), except that the documents referred to in section 141 must be lodged with the FMA rather than the Registrar:
+    (iii) sections 142 to 147, and 151 (manager functions and duties), but subject to paragraphs (e) and (f):
+    (iv) section 169 (actuarial examinations):
+    (v) section 171 (limits on reversion of scheme property in certain schemes to non-scheme participant contributor):
+    (vi) sections 178 to 181 (transfer of scheme participants):
+    (vii) section 183 (deferred benefits):
+    (viii) sections 205, 206, and 212 to 214 (intervention in debt securities offered under regulated offer or registered schemes):
+    (ix) subpart 4 (registers and keeping copies of documents):
+    (x) section 228, in respect of the provisions of Part 4 that apply to it; and
+  (e) the duty on the manager under section 143(1)(b) of that Act applies only after taking account of the Crown's interest as guarantor of the benefits and liabilities under the existing scheme and investment arrangements; and
+  (f) the duty under section 144 of that Act is subject to section 53 of this Act.
+(2) On and after the effective date for an existing scheme, every reference in the trust deed of the scheme to—
+  (a) participatory securities must be read as a reference to managed investment products; and
+  (b) a registered superannuation scheme or a superannuation scheme registered under the Superannuation Schemes Act 1989 must be read as a reference to a retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
+(3) This Act continues to apply to a scheme, as if it had not been amended by the Financial Markets (Repeals and Amendments) Act 2013 (except in respect of this subsection and subsection (4)), until the effective date for the scheme.
+(4) Schedule 4 of the Financial Markets Conduct Act 2013 applies to the global asset trust and an existing scheme (other than clauses 21 to 25, 27 and 28, 30, and 31 of that schedule).
 
 ## Part 5 — Guarantees and subsidies
 
@@ -1054,7 +1083,7 @@ No amendment to a trust deed authorised by this Part limits or affects a judgmen
 ### 17 Establishment of new pension schemes
 (1) The Board may establish by trust deed 1 or more schemes for the purpose of paying pensions arising from membership of such of the existing schemes as the Board may determine from time to time.
 (2) The trust deed for a pension scheme may contain different terms for different classes of beneficiaries.
-(3) Each trust deed must specify the matters required to be specified by section 7 of the Superannuation Schemes Act 1989, as appropriate.
+(3)
 (4) This section is subject to section 26 (approval of the Minister).
 
 ### 18 Board authorised to amend existing schemes to provide for transfer to pension schemes
@@ -1088,7 +1117,7 @@ The provisions set out in Schedule 1 apply to a new pension scheme.
   (c) include such other matters (if any) relating to the amalgamation as the Board and the Minister agree should be included in the proposal.
 (4) In preparing a draft amalgamation proposal, the Board must ensure that, as far as practicable, the trust deed for the new scheme to be established as a result of the amalgamation proposal—
   (a) has terms that are not materially and adversely different from the terms in the trust deeds for the existing schemes concerned in so far as those terms affect any member or beneficiary of those schemes; and
-  (b) specifies the matters required to be specified by section 7 of the Superannuation Schemes Act 1989, as appropriate.
+  (b)
 (5) Subsection (4) is subject to subsection (3).
 
 ### 21 Approval of proposal by Minister
@@ -1145,7 +1174,7 @@ The provisions set out in Schedule 2 apply to the implementation of an amalgamat
 ### 27 Consents not required
 (1) No consents from a member or beneficiary of an existing scheme, or from any other person or organisation, are required in relation to the making of amendments to a trust deed under Part 2 or Part 3.
 (2) No consents from a member or beneficiary of an existing scheme, or from any other person or organisation, are required in relation to an amalgamation proposal or the transfer of a member or beneficiary from an existing scheme to another scheme as provided for in this Act.
-(3) This section applies notwithstanding the Superannuation Schemes Act 1989 or any other enactment or rule of law or a provision of a trust deed for an existing scheme.
+(3) This section applies notwithstanding any enactment or rule of law or a provision of a trust deed for an existing scheme.
 
 ### 28 Powers may be exercised from time to time
 A power given to the Board under this Act to do any act or thing is capable of being exercised from time to time, as occasion may require.
@@ -1154,8 +1183,8 @@ A power given to the Board under this Act to do any act or thing is capable of b
 A certificate required by this Act to be given by the Board to the Minister on a matter on which the Board must obtain the advice of the appointed actuary must be accompanied by a copy of the appointed actuary's advice.
 
 ### 30 Act to prevail over other laws
-(1) This Act has effect notwithstanding any provision of the principal Act, the Superannuation Schemes Act 1989, or any other enactment or rule of law.
-(2) A provision included in a trust deed or in an amalgamation proposal under this Act has effect, and may be implemented at any time by the Board, notwithstanding any provision of the principal Act, the Superannuation Schemes Act 1989, or any other enactment or rule of law.
+(1) This Act has effect notwithstanding any provision of the principal Act or any other enactment or rule of law.
+(2) A provision included in a trust deed or in an amalgamation proposal under this Act has effect, and may be implemented at any time by the Board, notwithstanding any provision of the principal Act or any other enactment or rule of law.
 
 ### 31 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -1177,7 +1206,7 @@ A pension scheme is deemed to be an existing scheme for the purposes of sections
 A pension scheme is deemed to consist of a trust fund for the purposes of—
 (a) the definition of unclaimed money in section 2 of the principal Act; and
 (b) sections 18, 31, 32, 51, and 64 of the principal Act; and
-(c) paragraph (h) of the definition of unit trust in section 2 of the Unit Trusts Act 1960.
+(c)
 
 ### 4
 The trust deed for a pension scheme is deemed to be a trust deed to which section 59 and section 65(1) of the principal Act apply.
