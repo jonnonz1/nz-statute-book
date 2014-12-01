@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2014-07-07_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -351,7 +351,7 @@ Every person exercising or performing a function, duty or power under this Act m
 (3) Except for the purposes of a means assessment under Part 4, and notwithstanding the definition of the term income in subsection (1), where it is necessary to determine, for the purposes of this Act or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the income of any person who—50% of the amount received by that person under that pension or under that annuity shall not be included in the income of that person.
   (a) meets the residential qualification for New Zealand superannuation set out in the New Zealand Superannuation and Retirement Income Act 2001; and
   (b) is aged 60 years or more and whose spouse or partner (if any), being a spouse or partner whose age is less than that of the person whose income is being determined, is aged 60 years or more; and
-  (c) is in receipt of a pension under a superannuation scheme registered under the Superannuation Schemes Act 1989 or of payments under an annuity paid in respect of a policy of life insurance—
+  (c) is in receipt of a pension under a retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) or of payments under an annuity paid in respect of a policy of life insurance—
     (i) offered or entered into in New Zealand by a life insurer (as that term is defined in paragraph (a) of the definition of life insurer in section YA 1 of the Income Tax Act 2007); or
     (ii) offered or entered into outside of New Zealand by a life insurer (as so defined) that is resident in New Zealand within the meaning of section YD 1 or YD 2 (excluding section YD 2(2)) of the Income Tax Act 2007; and
   (d) commenced to receive payments of that pension or under that annuity—
@@ -1869,9 +1869,9 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
     (a) means—
       (i) money saved with a bank or other institution, money invested with a bank or other institution, or money banked with a bank or other institution:
       (ii) money invested in securities, bonds, or debentures, or advanced on mortgage:
-      (iia) money withdrawn from a KiwiSaver scheme registered under the KiwiSaver Act 2006:
+      (iia) money withdrawn from a KiwiSaver scheme registered under subpart 2 of Part 4 of the Financial Markets Conduct Act 2013:
       (iii) money invested in shares in a partnership or limited liability company or other incorporated or unincorporated body; but
-    (ab) does not include any contributions to, or any member's interest in, any KiwiSaver scheme that is registered under the KiwiSaver Act 2006; and
+    (ab) does not include any contributions to, or any member's interest in, any KiwiSaver scheme that is registered under subpart 2 of Part 4 of the Financial Markets Conduct Act 2013; and
     (b) does not include any specified item or amount of cash assets, or cash assets of a specified kind, that is declared not to be cash assets for the purposes of this Act by regulations made under section 132
   - **deferred payment disposition** means a contract under which a person sells or agrees to sell property or provides or agrees to provide services (whether or not possession of the property is given, or the services are provided, before all money payable under the contract has been paid) in consideration of a promise by another person to pay, or to procure the payment of, in the future and in respect of the sale or provision, a sum or sums of money exceeding in aggregate the cash price of the property or services
   - **mortgage security** includes—
@@ -5229,9 +5229,9 @@ For the purpose of a means assessment as to assets conducted under section 146,�
     (c) the value of any ex gratia payment by the Government of New Zealand or the Government of any other country to the person because the person or his or her spouse or partner was a prisoner of war or civilian internee of Japan during the Second World War:
     (d) the value of any pre-paid funeral of the person or of the person's spouse or partner, up to a value of $10,000 (or such other amount as may be prescribed by regulations made under section 155) for each:
     (e) a lump sum paid to the person under Schedule 1 of the Accident Compensation Act 2001, or a lump sum payment of an independence allowance under Part 13 of the Accident Insurance Act 1998 or Part 4 of Schedule 1 of that Act; but this exemption applies only in the first 12 months after the payment is made:
-    (ea) any contributions to, or any member's interest in, any KiwiSaver scheme that is registered under the KiwiSaver Act 2006, except the following:
+    (ea) any contributions to, or any member's interest in, any KiwiSaver scheme that is registered under subpart 2 of Part 4 of the Financial Markets Conduct Act 2013, except the following:
       (i) money withdrawn from such a scheme:
-      (ii) money that the member is entitled to withdraw from the scheme under clause 4(3) of the KiwiSaver scheme rules under that Act:
+      (ii) money that the member is entitled to withdraw from the scheme under clause 4(3) of the KiwiSaver scheme rules under the KiwiSaver Act 2006:
       (iii) money that the member has applied to withdraw and that would be a permitted withdrawal under those rules:
     (f) any assets, or amount of assets, of the person or his or her spouse or partner declared by regulations made under section 155 to be exempt assets.
 
