@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -594,8 +594,8 @@ It shall be the duty of every branch of a registered society to supply the secre
   (a) includes any dispute arising on the question whether a member or person aggrieved is entitled to be, or to continue to be, a member or to be reinstated as a member:
   (b) in the case of a person who has ceased to be a member, does not (except as provided in paragraph (a)) include any dispute other than one on a question between him and the registered society or branch, or an officer thereof, which arose when he was a member, or arises out of his membership of that society or branch.
 (2) Subject to this Act, every dispute between—shall be decided in the manner directed by the rules of the society or branch (including the appointment of an arbitrator or umpire); and the decision so made shall be binding and conclusive on all parties.
-  (a) a member , or person claiming through a member (unless that member or person is a trustee appointed under section 33(2)(a) of the Securities Act 1978) or under the rules of a registered society or branch, and the society or branch or an officer thereof; or
-  (b) any person aggrieved who has ceased to be a member of a registered society or branch, or any person claiming through such person aggrieved (unless that person aggrieved or other person claiming through that person is a trustee appointed under section 33(2)(a) of the Securities Act 1978), and the society or branch or an officer thereof; or
+  (a) a member, or a person claiming through a member (unless that member or person is a supervisor appointed for the purposes of subpart 1 of Part 4 of the Financial Markets Conduct Act 2013) or under the rules of a registered society or branch, and the society or branch or an officer of the society or branch; or
+  (b) any person aggrieved who has ceased to be a member of a registered society or branch, or any person claiming through such person aggrieved (unless that person aggrieved or other person claiming through that person is a supervisor appointed for the purposes of subpart 1 of Part 4 of the Financial Markets Conduct Act 2013), and the society or branch or an officer of the society or branch; or
   (c) any registered branch of any society or branch and the society or branch of which it is a branch; or
   (d) an officer of any such registered branch and the society or branch of which that registered branch is a branch; or
   (e) any 2 or more registered branches of any society or branch or any officers thereof respectively,—
@@ -827,7 +827,7 @@ Where a registered society or branch amalgamates or transfers its engagements pu
   (a) any person, society, or body of persons (whether corporate or unincorporate) specified in Schedule 5; or
   (b) any person, society, or body of persons (whether corporate or unincorporate) lawfully carrying on the business of banking; or
   (c) any building society registered under the Building Societies Act 1965; or
-  (d) any unit trust within the meaning of the Unit Trusts Act 1960; or
+  (d)
   (e) the members of any fund in existence as at the commencement of this Act, being a fund which may otherwise be trading or carrying on business as a credit union but which is an integral part of an associated commercial or trading activity involving those members.
 (2) Schedule 5 may, from time to time by the Governor-General by Order in Council, be amended by adding, omitting, or amending the name of any person, society, or body of persons (whether corporate or unincorporate).
 (3) No person, society, or body of persons to which, by virtue of subsection (1), section 98 does not apply shall use, in reference to itself, any name, title, or descriptive expression containing the words “credit union”, “money club”, “savings society”, or “loan society”, or any cognate term or any derivative of those words:
@@ -923,9 +923,7 @@ Except where otherwise authorised in writing by the Registrar in the circumstanc
   (b) confer no voting rights upon holders.
 (3) In the event of a credit union being wound up, claims for credit union securities must not be paid until all creditors' claims and claims relating to the shares referred to in section 107 have been paid.
 (4) In the event of a credit union incurring losses that exceed its retained earnings and reserves, the value of the credit union securities must be written down accordingly.
-(5) To avoid doubt,—
-  (a) an offer of securities under subsection (1) is an offer to the public and subject to the provisions of the Securities Act 1978:
-  (b) credit union securities do not include shares under section 107.
+(5) To avoid doubt, credit union securities do not include shares under section 107.
 
 ### 108 General prohibition on taking deposits
 [Repealed]
@@ -933,8 +931,9 @@ Except where otherwise authorised in writing by the Registrar in the circumstanc
 ### 109 Power of credit union to borrow money
 A credit union may borrow money if the borrowing is authorised by, and in accordance with, its rules and trust deed.
 
-### 109A Power of credit union to appoint trustee for debt securities
-Regardless of anything to the contrary in the rules of a credit union, a credit union may appoint a trustee and sign or amend a trust deed for the purposes of section 33(2) of the Securities Act 1978.
+### 109A Power of credit union to appoint supervisor for debt securities
+(1) A credit union may appoint a supervisor and sign or amend a trust deed for the purposes of subpart 1 of Part 4 of the Financial Markets Conduct Act 2013.
+(2) This section applies regardless of anything to the contrary in the rules of a credit union.
 
 ### 110 Credit union may make loans to members
 A credit union may make loans to members for such purposes and upon such security (or without security) and conditions as the rules of the credit union may provide either generally or specifically.
@@ -944,7 +943,7 @@ A credit union may make loans to members for such purposes and upon such securit
 
 ### 112 Credit union property to vest in trustees
 (1) All property belonging to a credit union shall vest in the trustees for the time being of the credit union for the use and benefit of its members, and of all persons claiming through the members according to the rules of the credit union.
-(1A) However, regardless of the rules of a credit union, if a trustee has been appointed in respect of a security under section 33(2)(a) of the Securities Act 1978, then that trustee may exercise any rights it has under that Act in respect of the property of the credit union.
+(1A) However, regardless of the rules of a credit union, if a supervisor has been appointed in respect of a debt security for the purposes of subpart 1 of Part 4 of the Financial Markets Conduct Act 2013, then that supervisor may exercise any rights it has under that Act in respect of the property of the credit union.
 (2) Upon the death, resignation, or removal of a trustee of a credit union the property vested in that trustee shall, without conveyance, transfer, or assignment, vest (subject to the same trusts) in the succeeding trustees of that credit union, either solely or together with any surviving or continuing trustees, and until the appointment of succeeding trustees pursuant to section 28(2) (as applied by section 104), in the surviving or continuing trustees only, or in the executors or administrators of the last surviving or continuing trustee.
 (3) For the purposes of this Part, the following provisions of this Act shall, as far as they are applicable and with any necessary modification, apply in respect of credit unions as if they were societies registered under Part 2:
   (a) section 29(4) (which relates to the denoting of trustees by their official titles); and
