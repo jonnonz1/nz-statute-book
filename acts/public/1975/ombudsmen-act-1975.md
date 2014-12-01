@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2014-08-08_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -78,7 +78,7 @@ An Ombudsman shall not be capable of being a member of Parliament or of a local 
 (4) No person appointed under subsection (1) shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason of that person's appointment under this section.
 
 ### 12 Superannuation or retiring allowances of Ombudsmen and staff
-For the purpose of providing superannuation or retiring allowances for any Ombudsman and any officer or employee appointed under this Act, there may from time to time be paid sums by way of contributions or subsidies to any scheme that is registered under the Superannuation Schemes Act 1989.
+For the purpose of providing superannuation or retiring allowances for any Ombudsman and any officer or employee appointed under this Act, there may from time to time be paid sums by way of contributions or subsidies to any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 
 **Functions of Ombudsmen**
 
