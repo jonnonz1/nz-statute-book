@@ -1,5 +1,5 @@
 # Co-operative Companies Act 1996
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to reform the law relating to co-operative companies and, in particular—ato reaffirm the value of the co-operative company as a means of facilitating its shareholders carrying on business on a mutual basis; andbto provide for the registration of co-operative companies and regulate the relationship between co-operative companies and their shareholders; andcto provide for the registration of existing co-operative companies and existing companies as co-operative companies under this Act at the same time as they reregister as companies under the Companies Act 1993; anddto modify the application of the Companies Act 1993 to co-operative companies registered under this Act—and to repeal the Co-operative Companies Act 1956 and certain other Acts
 
@@ -246,7 +246,9 @@ The consideration for the issue of shares or any class of shares in a company re
 ### 26 Reissue of surrendered shares company holds in itself
 (1) Section 16 shall apply to the transfer of a share held by a company in itself as if the transfer were the issue of the share under section 42 or section 44 of the Companies Act 1993.
 (2) Subject to subsection (1), the transfer of a share held by a company in itself shall not be subject to any provisions in this Act, the Companies Act 1993, or the company's constitution relating to the issue of shares, except to the extent the company's constitution expressly applies those provisions.
-(3) A company shall not grant an option to acquire a share it holds in itself or enter into any obligations to transfer such a share where the company has received notice in writing of a takeover offer made under the takeovers code in force under the Takeovers Act 1993 or, in the case of a company that is a party to a listing agreement with a stock exchange, where the exchange makes a public release to the sharemarket that a takeover offer for more than 20% of the company's shares is to be made.
+(3) A company must not grant an option to acquire a share it holds in itself or enter into any obligations to transfer such a share if—
+  (a) the company has received notice in writing of a takeover offer made under the Takeovers Code in force under the Takeovers Act 1993; or
+  (b) in the case of shares that are quoted on a stock exchange, the stock exchange makes a public release that a takeover offer for more than 20% of the quoted shares is to be made.
 
 ### 27 Acquisition and redemption of shares under Companies Act 1993 not affected
 Nothing in sections 18 to 23 limits or affects the acquisition or redemption of shares under the Companies Act 1993 by a company registered under this Act.
@@ -273,7 +275,7 @@ Nothing in sections 18 to 23 limits or affects the acquisition or redemption of 
 (7) If, within 4 years after shares have been forfeited under this section, a person establishes on reasonable grounds that he or she was the holder of the shares immediately before the forfeiture, the board must pay to that person the amount that that person would have been entitled to have been paid if the shares had been surrendered to the company under section 20 on the date on which they were forfeited.
 (8) No interest is payable on any amount payable under subsection (7).
 
-**Application of Companies Act 1993 and Securities Act 1978**
+**Application of Companies Act 1993**
 
 ### 29 Modified application of Companies Act 1993
 The application of the Companies Act 1993 to a company registered under this Act is subject to the following modifications:
@@ -295,8 +297,7 @@ The application of the Companies Act 1993 to a company registered under this Act
   (m) in the case of a company that is registered under Part 3 of this Act, section 110 shall apply subject to section 40 of this Act.
 
 ### 29A Modification of application of Securities Act 1978
-(1) Section 54 of the Securities Act 1978 does not apply in respect of any equity security offered by a co-operative company to any person who is or is to be a transacting shareholder.
-(2) In this section, equity security and offered have the same meanings as in the Securities Act 1978.
+[Repealed]
 
 ### 30 Rebates to shareholders
 (1) Unless the constitution of the company expressly provides otherwise, a company registered under this Act may give rebates to its transacting shareholders in the form of—calculated by reference to transactions by those shareholders with the company.
