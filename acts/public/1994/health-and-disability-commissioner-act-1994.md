@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-12-01_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -17,7 +17,7 @@ _Consolidation as at 2013-12-05_
   - **appropriate authority** includes, for the purposes of any assessment or investigation of any action on the part of a health practitioner that was taken when the health practitioner was registered under a former health registration enactment, the authority that, under section 178(1) of the Health Practitioners Competence Assurance Act 2003, is, in relation to that health practitioner, the successor authority
   - **authority** has the same meaning as in section 5 of the Health Practitioners Competence Assurance Act 2003; and includes the Social Workers Registration Board established by section 97 of the Social Workers Registration Act 2003
   - **Code of Health and Disability Services Consumers’ Rights** or means the Code of Health and Disability Services Consumers’ Rights for the time being prescribed by regulations made under section 74(1)
-  - **Commissioner** means the Health and Disability Commissioner appointed in accordance with section 8 of this Act and section 28(1)(b) of the Crown Entities Act 2004
+  - **Commissioner** means the Health and Disability Commissioner appointed in accordance with section 8 of this Act and section 28(1)﻿(b) of the Crown Entities Act 2004
   - **Deputy Commissioner** means a Deputy Health and Disability Commissioner appointed under section 9
   - **Director of Advocacy** means the person for the time being designated under section 24(1) as the Director of Health and Disability Services Consumer Advocacy
   - **Director of Proceedings** means the person for the time being designated under section 15(1) as the Director of Proceedings
@@ -201,7 +201,7 @@ The provisions of Schedule 2 shall have effect in relation to the Commissioner a
     (ii) the date of the last review carried out under this paragraph (in the case of every subsequent review); and
   (b) consider whether any amendments to this Act are necessary or desirable; and
   (c) report the Commissioner’s findings to the Minister.
-(2) As soon as practicable after receiving a report from the Commissioner under subsection (1)(c), the Minister shall lay a copy of that report before the House of Representatives.
+(2) As soon as practicable after receiving a report from the Commissioner under subsection (1)﻿(c), the Minister shall lay a copy of that report before the House of Representatives.
 
 ## Part 2 — Code of Health and Disability Services Consumers’ Rights
 
@@ -285,7 +285,7 @@ Subject to this Act, advocacy services shall operate independently of the Commis
 (6) The Commissioner shall ensure that copies of all guidelines, and all amendments to any such guidelines, that are for the time being in force pursuant to this section are available—
   (a) for inspection by members of the public free of charge; and
   (b) for purchase by members of the public at a reasonable price.
-(7) The notice of approval published in the Gazette pursuant to subsection (5)(a) shall show, in relation to the guidelines or the amendment to which it relates, a place at which copies of the guidelines or, as the case requires, the amendment are available for inspection free of charge and for purchase.
+(7) The notice of approval published in the Gazette pursuant to subsection (5)﻿(a) shall show, in relation to the guidelines or the amendment to which it relates, a place at which copies of the guidelines or, as the case requires, the amendment are available for inspection free of charge and for purchase.
 
 ### 29 Consultation on preparation of guidelines
 Without limiting section 14(2), the Commissioner shall, before issuing any guidelines or amendments to guidelines pursuant to subsection (1) or subsection (3) of section 28, consult with, and invite representations from, such persons, bodies, organisations, and agencies, including representatives of health consumers, disability services consumers, health care providers, and disability services providers, as the Commissioner considers necessary to ensure that a wide range of views is available to the Commissioner to assist in the preparation of those guidelines or amendments.
@@ -385,11 +385,11 @@ Each agency or person to whom a complaint is referred under section 34 must—
 (2) On a referral of a complaint, under subsection (1), the advocate must—
   (a) use his or her best endeavours to resolve the complaint by agreement between the parties concerned; and
   (b) report the results of those endeavours to the Commissioner.
-(3) Every report made under subsection (2)(b) must record—
+(3) Every report made under subsection (2)﻿(b) must record—
   (a) the terms of any agreement reached between the parties concerned; and
   (b) if agreement is not reached on all matters, those matters on which agreement is reached and those matters on which no agreement is reached; and
   (c) any other matters that the advocate thinks fit.
-(4) A copy of every report made under subsection (2)(b) must, on request, be made available by the Commissioner to each of the parties concerned.
+(4) A copy of every report made under subsection (2)﻿(b) must, on request, be made available by the Commissioner to each of the parties concerned.
 
 **Decision to take no action**
 
@@ -428,7 +428,7 @@ Each agency or person to whom a complaint is referred under section 34 must—
   (b) must, by written notice, inform the health care provider or the disability services provider to whom the investigation relates of—
     (i) the details of the complaint (if any) or, as the case may be, the subject matter of the investigation; and
     (ii) the right of that person to submit to the Commissioner, within 15 working days of the date of the notice, a written response in relation to the complaint or, as the case may be, the subject matter of the investigation.
-(2) The Commissioner may, at his or her discretion, extend the deadline of 15 working days set by a notice given under subsection (1)(b), and may do so before or after the deadline.
+(2) The Commissioner may, at his or her discretion, extend the deadline of 15 working days set by a notice given under subsection (1)﻿(b), and may do so before or after the deadline.
 
 ### 42 On notification of investigation authority not to take disciplinary action until further notice
 (1) In any case where, after deciding to investigate the action of a health care provider or a disability services provider, it appears to the Commissioner that the investigation directly concerns a health practitioner, the Commissioner must promptly give notice of the investigation to the appropriate authority.
@@ -436,7 +436,7 @@ Each agency or person to whom a complaint is referred under section 34 must—
   (a) the Commissioner notifies the authority—
     (i) that the matter is not to be investigated, or investigated further, under this Act; or
     (ii) that the complaint or matter has been resolved; or
-    (iii) that the matter is not to be referred to the Director of Proceedings under section 45(2)(f); or
+    (iii) that the matter is not to be referred to the Director of Proceedings under section 45(2)﻿(f); or
   (b) the Director of Proceedings notifies the authority of his or her decision under section 49 not to institute disciplinary proceedings in relation to the matter.
 (3) This section does not prevent any action under the Health Practitioners Competence Assurance Act 2003—
   (a) under any of sections 36 to 42, 45 to 51, or 69 of that Act; or
@@ -453,8 +453,8 @@ Each agency or person to whom a complaint is referred under section 34 must—
   (d) if the investigation directly concerns a health practitioner, the appropriate authority.
 
 ### 44 Consultation required before matter referred to Director of Proceedings
-(1) The Commissioner may not, under section 45(2)(f), refer 1 or more health care providers or disability services providers to the Director of Proceedings for a decision as to whether proceedings should be instituted or action taken in respect of a person unless the Commissioner has given that person an opportunity to comment on that proposed referral.
-(2) The Commissioner must have regard to any relevant factors of the kind specified in subsection (3) when the Commissioner considers whether or not to refer, under section 45(2)(f) 1 or more health care providers or disability services providers to the Director of Proceedings for a decision as to whether proceedings should be instituted or any action taken.
+(1) The Commissioner may not, under section 45(2)﻿(f), refer 1 or more health care providers or disability services providers to the Director of Proceedings for a decision as to whether proceedings should be instituted or action taken in respect of a person unless the Commissioner has given that person an opportunity to comment on that proposed referral.
+(2) The Commissioner must have regard to any relevant factors of the kind specified in subsection (3) when the Commissioner considers whether or not to refer, under section 45(2)﻿(f), 1 or more health care providers or disability services providers to the Director of Proceedings for a decision as to whether proceedings should be instituted or any action taken.
 (3) The kinds of factors referred to in subsection (2) are—
   (a) the wishes of the complainant (if any) and the aggrieved person (if not the complainant) in relation to the matter; and
   (b) any comments made under subsection (1) in relation to the matter; and
@@ -477,17 +477,17 @@ Each agency or person to whom a complaint is referred under section 34 must—
     (i) any of the actions contemplated by section 47:
     (ii) the institution of proceedings under section 50:
     (iii) the institution of disciplinary proceedings.
-(3) On referring 1 or more health care providers or disability services providers to the Director of Proceedings under subsection (2)(f), the Commissioner must advise the Director of Proceedings of any relevant factors of the kind specified in section 44(3).
-(4) Subsection (2)(f)(ii) does not apply if this section applies because of subsection (1)(b).
+(3) On referring 1 or more health care providers or disability services providers to the Director of Proceedings under subsection (2)﻿(f), the Commissioner must advise the Director of Proceedings of any relevant factors of the kind specified in section 44(3).
+(4) Subsection (2)﻿(f)﻿(ii) does not apply if this section applies because of subsection (1)﻿(b).
 
 ### 46 Implementation of recommendations of Commissioner
-(1) Where, in accordance with section 45(2)(a) or (b), the Commissioner makes any recommendation to any person, the Commissioner may request that person to notify the Commissioner, within a specified time, of the steps (if any) that the person proposes to take to give effect to that recommendation.
+(1) Where, in accordance with section 45(2)﻿(a) or (b), the Commissioner makes any recommendation to any person, the Commissioner may request that person to notify the Commissioner, within a specified time, of the steps (if any) that the person proposes to take to give effect to that recommendation.
 (2) If, within a reasonable time after a recommendation is made, no action is taken which seems to the Commissioner to be adequate and appropriate, the Commissioner—
   (a) shall, after considering the comments (if any) of the person concerned, inform the complainant (if any) of the Commissioner’s recommendations and may make such comments on the matter as the Commissioner thinks fit; and
   (b) may, where the Commissioner considers it appropriate, transmit to the Minister such report on the matter as the Commissioner thinks fit.
 
 ### 47 Director of Proceedings’ right to participate in disciplinary and other proceedings
-(1) The Director of Proceedings may, after referral from the Commissioner under section 45(2)(f),—
+(1) The Director of Proceedings may, after referral from the Commissioner under section 45(2)﻿(f),—
   (a) provide assistance (whether financial or otherwise) to any complainant in any proceedings before any authority or tribunal:
   (b) provide representation (either in person or by counsel)—
     (i) for any complainant in any proceedings before an authority or a tribunal, in any case where the complainant, or any person acting on the complainant’s behalf, is permitted, by or under the rules of procedure governing those proceedings, to appear and be heard in those proceedings:
@@ -495,10 +495,10 @@ Each agency or person to whom a complaint is referred under section 34 must—
     (iii) for any party in any proceedings before any court, tribunal, authority, Royal Commission, commission of inquiry, board of inquiry, court of inquiry, or committee of inquiry, in any case where those proceedings in any way relate to or arise from any matter that was or is the subject matter of any investigation by the Commissioner under this Part:
   (c) appear and be heard, either in person or by counsel, in any proceedings of a kind described in subparagraph (ii) or subparagraph (iii) of paragraph (b), whether or not the Director of Proceedings is a party to those proceedings:
   (d) in the Director of Proceedings’ own right, take such proceedings as the Director of Proceedings thinks fit before any court or other tribunal in respect of any matter that in any way relates to or arises from any matter that was or is the subject matter of any investigation by the Commissioner under this Part.
-(2) Where, pursuant to subsection (1)(c), the Director of Proceedings appears in any proceedings, the Director of Proceedings shall, unless those proceedings are by way of appeal, have the right—but shall have no greater rights than parties to the proceedings in respect of the calling of evidence or evidence in rebuttal, or in respect of the examination, cross-examination, and re-examination of witnesses.
+(2) Where, pursuant to subsection (1)﻿(c), the Director of Proceedings appears in any proceedings, the Director of Proceedings shall, unless those proceedings are by way of appeal, have the right—but shall have no greater rights than parties to the proceedings in respect of the calling of evidence or evidence in rebuttal, or in respect of the examination, cross-examination, and re-examination of witnesses.
   (a) to call evidence on any matter (including evidence in rebuttal) that should be taken into account in the proceedings:
   (b) to examine, cross-examine, and re-examine witnesses,—
-(3) Where, pursuant to subsection (1)(c), the Director of Proceedings appears in any proceedings to which the Director of Proceedings is not a party, the court, tribunal, or other body before which those proceedings are conducted, where it has power to award costs to or against parties to the proceedings, may make such order as it thinks just—
+(3) Where, pursuant to subsection (1)﻿(c), the Director of Proceedings appears in any proceedings to which the Director of Proceedings is not a party, the court, tribunal, or other body before which those proceedings are conducted, where it has power to award costs to or against parties to the proceedings, may make such order as it thinks just—
   (a) as to the payment by any party to the proceedings of the costs incurred by the Director of Proceedings in so doing; or
   (b) as to the payment by the Director of Proceedings of any costs incurred by any party to the proceedings by reason of the appearance of the Director of Proceedings.
 (4) Where any costs are so awarded to the Director of Proceedings, the Commissioner may recover them in the same manner as parties to the proceedings may recover costs awarded to them.
@@ -510,7 +510,7 @@ Each agency or person to whom a complaint is referred under section 34 must—
 
 ### 49 Functions of Director of Proceedings
 (1) The functions of the Director of Proceedings under this Part are—
-  (a) to decide, on referral from the Commissioner pursuant to section 45(2)(f),—
+  (a) to decide, on referral from the Commissioner pursuant to section 45(2)﻿(f),—
     (i) whether to institute proceedings under section 50, or disciplinary proceedings, or both, against a person against whom a complaint has been made under this Part or in respect of whom an investigation has been conducted under this Part; and
     (ii) whether to take any of the actions contemplated by section 47; and
   (b) if the Director of Proceedings decides that such proceedings should be instituted or, as the case may be, that any such action should be taken, to institute the proceedings or, as the case may be, to take the action.
@@ -527,12 +527,12 @@ Each agency or person to whom a complaint is referred under section 34 must—
 
 ### 51 Aggrieved person may bring proceedings before Tribunal
 Notwithstanding section 50(2) but subject to section 53, the aggrieved person (whether personally or by any person authorised to act on his or her behalf) may bring proceedings before the Tribunal against a person to whom section 50 applies if he or she wishes to do so, and—
-  (a) the Commissioner, having found a breach of the Code on the part of the person to whom that section applies, has not referred the person to the Director of Proceedings under section 45(2)(f); or
+  (a) the Commissioner, having found a breach of the Code on the part of the person to whom that section applies, has not referred the person to the Director of Proceedings under section 45(2)﻿(f); or
   (b) the Director of Proceedings declines or fails to take proceedings.
 
 ### 52 Remedies that may be sought
 (1) Subject to subsection (2), in any proceedings before the Tribunal brought by the Director of Proceedings or the aggrieved person, the plaintiff may seek such of the remedies described in section 54 as he or she thinks fit.
-(2) If any person has suffered personal injury (within the meaning of the Accident Compensation Act 2001) covered by that Act, no damages (other than punitive damages in accordance with section 57(1)(d)) arising directly or indirectly out of that personal injury—
+(2) If any person has suffered personal injury (within the meaning of the Accident Compensation Act 2001) covered by that Act, no damages (other than punitive damages in accordance with section 57(1)﻿(d)) arising directly or indirectly out of that personal injury—
   (a) may be sought by or on behalf of that person in any proceedings under section 50 or section 51:
   (b) may be awarded to or for the benefit of that person in any such proceedings.
 
@@ -570,7 +570,7 @@ Nothing in section 50 or section 51 authorises or permits the Director of Procee
   (b) any power of a court to award costs in any proceedings to which the Director of Proceedings is a party.
 
 ### 56 Proof of exceptions
-Where by any provision of the Code conduct is excepted from conduct that is in breach of the Code, the onus of proving the exception in any proceedings under this Part lies upon the defendant.
+Where, by any provision of the Code, conduct is excepted from conduct that is in breach of the Code, the onus of proving the exception in any proceedings under this Part lies upon the defendant.
 
 ### 57 Damages
 (1) Subject to section 52(2), in any proceedings under section 50 or section 51, the Tribunal may award damages against the defendant for a breach of any of the provisions of the Code in respect of any 1 or more of the following:
@@ -586,8 +586,8 @@ Where by any provision of the Code conduct is excepted from conduct that is in b
   (b) if damages do not fall within the terms of the property order, the Commissioner may, in his or her discretion, pay the damages to Public Trust.
 (6) Where money is paid to Public Trust under subsection (3) or subsection (4) or subsection (5),—
   (a) section 12 of the Minors’ Contracts Act 1969 shall apply in the case of a minor who is not married or in a civil union; and
-  (b) sections 108D, 108F, and 108G of the Protection of Personal and Property Rights Act 1988 apply, with any necessary modifications, in the case of a person referred to in subsection (4) or subsection (5)(b); and
-  (c) section 108E of the Protection of Personal and Property Rights Act 1988 applies, with any necessary modifications, in the case of a person referred to in subsection (5)(a).
+  (b) sections 108D, 108F, and 108G of the Protection of Personal and Property Rights Act 1988 apply, with any necessary modifications, in the case of a person referred to in subsection (4) or subsection (5)﻿(b); and
+  (c) section 108E of the Protection of Personal and Property Rights Act 1988 applies, with any necessary modifications, in the case of a person referred to in subsection (5)﻿(a).
 
 ### 58 Certain provisions of Human Rights Act 1993 to apply
 Sections 92Q to 92W and Part 4 of the Human Rights Act 1993 shall apply, with such modifications as are necessary, in respect of proceedings under section 50 or section 51 of this Act as if they were proceedings under section 92E of that Act.
@@ -622,7 +622,7 @@ Notwithstanding any provision in any enactment, where any letter appearing to be
 
 ### 62 Evidence
 (1) The Commissioner may from time to time, by notice in writing, require any person who in the Commissioner’s opinion is able to give information relating to any matter under investigation by the Commissioner to furnish such information, and to produce such documents or things in the possession or under the control of that person, as in the opinion of the Commissioner are relevant to the subject matter of the investigation.
-(2) The Commissioner may summon before him or her and examine on oath any person who in the Commissioner’s opinion is able to give information relating to the matter under investigation, and may for that purpose administer an oath to any person so summoned.
+(2) The Commissioner may summon before him or her and examine on oath any person who, in the Commissioner’s opinion is able to give information relating to the matter under investigation, and may, for that purpose, administer an oath to any person so summoned.
 (3) Every such examination by the Commissioner shall be deemed to be a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 
 ### 63 Protection and privileges of witnesses, etc
@@ -658,12 +658,12 @@ Notwithstanding any provision in any enactment, where any letter appearing to be
 [Repealed]
 
 ### 67 Adverse comment
-The Commissioner shall not, in any report or recommendation made or published under any of sections 14, 45, and 46(2)(b) or its annual report under Part 4 of the Crown Entities Act 2004, make any comment that is adverse to any person unless—
+The Commissioner shall not, in any report or recommendation made or published under any of sections 14, 45, and 46(2)﻿(b) or its annual report under Part 4 of the Crown Entities Act 2004, make any comment that is adverse to any person unless—
   (a) that person has been given a reasonable opportunity—
     (i) to be heard; and
     (ii) to make a written statement in answer to the adverse comment; and
   (b) where that person so requires, there is included in or appended to the report or recommendation either—whichever the Commissioner considers is more appropriate in the circumstances.
-    (i) the written statement referred to in paragraph (a)(ii); or
+    (i) the written statement referred to in paragraph (a)﻿(ii); or
     (ii) a fair and accurate summary of that statement,—
 
 **Delegations**
@@ -776,7 +776,7 @@ Amendment(s) incorporated in the Act(s).
 [Repealed]
 
 ### 4 Superannuation or retiring allowances
-(1) For the purpose of providing superannuation or retiring allowances for the Commissioner, the Commissioner may, out of the funds of the Commissioner, make payments to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing superannuation or retiring allowances for the Commissioner, the Commissioner may, out of the funds of the Commissioner, make payments to or subsidise any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the Commissioner or, as the case may be, becoming an employee of the Commissioner, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as the Commissioner or, as the case may be, to be an employee of the Commissioner; and that Act shall apply to that person in all respects as if that person’s service as the Commissioner or, as the case may be, as such an employee were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
 (4) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the Commissioner or, as the case may be, is in the service of the Commissioner as an employee and (in either case) is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person, means the Commissioner.
