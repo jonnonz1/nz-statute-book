@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -96,31 +96,31 @@ The purpose of this Act is to—
   - **insolvency** , in relation to the Board, means—
     (a) the appointment of a receiver in respect of all or substantially all of the property of the Board; or
     (b) the appointment of a liquidator or interim liquidator under Part 16 of the Companies Act 1993; or
-    (c) removal from the register of companies kept pursuant to section 360(1)(a) of the Companies Act 1993; or
+    (c) removal from the register of companies kept pursuant to section 360(1)﻿(a) of the Companies Act 1993; or
     (d) the appointment of a statutory manager under Part 3 of the Corporations (Investigation and Management) Act 1989
   - **interconnected body corporate** has the meaning given by section 2(7) of the Commerce Act 1986
   - **interim licence** means, in respect of exports to designated markets in—
     (a) Canada, the licence for the period beginning on the commencement of the Dairy Industry Restructuring Amendment Act 2007 and ending on 31 December 2007 for a quantity of butter not exceeding 2 000 tonnes; and
     (b) the Dominican Republic, a licence for the period beginning on the commencement of the Dairy Industry Restructuring Amendment Act 2007 and ending on 31 December 2007 for a quantity of milk powder not exceeding 4 800 tonnes; and
     (c) the European Communities—
-      (i) as described in section 25(2)(a), a licence for the period beginning on 1 January 2008 and ending on 31 December 2008 for the quantities described in that section; and
-      (ii) as described in section 25(2)(b), a licence for the period beginning on 1 January 2009 and ending on 31 December 2009 for the quantities described in that section; and
-      (iii) as described in section 25(2)(c), a licence for the period beginning on 1 January 2010 and ending on 31 December 2010 for the quantities described in that section
+      (i) as described in section 25(2)﻿(a), a licence for the period beginning on 1 January 2008 and ending on 31 December 2008 for the quantities described in that section; and
+      (ii) as described in section 25(2)﻿(b), a licence for the period beginning on 1 January 2009 and ending on 31 December 2009 for the quantities described in that section; and
+      (iii) as described in section 25(2)﻿(c), a licence for the period beginning on 1 January 2010 and ending on 31 December 2010 for the quantities described in that section
   - **interim period** means the period for which an interim licence is valid
   - **June price** means the price of a co-operative share determined as at 1 June by new co-op’s board under its constitution
   - **LIC** means Livestock Improvement Corporation Limited
   - **LIC board** means the board of directors of LIC
-  - **listed** has the same meaning as in section 2(1) of the Securities Markets Act 1988
+  - **licensed market** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **marae** includes the area of land on which all buildings such as wharenui (meeting houses), wharekai (dining rooms), ablution blocks, and any other associated buildings are situated
-  - **market maker in co-operative shares** means a person who is continuously active in making bids and offers on co-operative shares on the registered market on which those shares are listed during the periods that the registered market is in operation
+  - **market maker in co-operative shares** means a person who is continuously active in making bids and offers on co-operative shares on the licensed market on which those shares are quoted during the periods that the licensed market is in operation
   - **milk price manual** means the manual that must be maintained by new co-op under section 150F
   - **milksolids** means the milk-fat and protein components of raw milk
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **new co-op** means the amalgamated company under the new co-op amalgamation; and includes any company resulting from a further amalgamation involving new co-op
   - **new co-op amalgamation** means the amalgamation that occurs if The New Zealand Co-operative Dairy Company Limited, Kiwi Co-operative Dairies Limited, and Fonterra Co-operative Group Limited amalgamate under Part 13 of the Companies Act 1993
-  - **new co-op fund** means the fund referred to in section 109D(1)(b)
-  - **new co-op fund securities** means the securities referred to in section 109D(1)(b)(i)
+  - **new co-op fund** means the fund referred to in section 109D(1)﻿(b)
+  - **new co-op fund securities** means the securities referred to in section 109D(1)﻿(b)﻿(i)
   - **new entrant** means a dairy farmer who is not a shareholding farmer who applies to become a shareholding farmer under section 73
   - **panel** means the panel established under regulations made under section 63
   - **panel** means the Milk Price Panel established under section 150D
@@ -136,7 +136,7 @@ The purpose of this Act is to—
   - **quota year** means, for designated markets in—
     (a) the European Communities, the United States of America, and the Dominican Republic, a period of 12 months beginning on 1 January and ending on 31 December; and
     (b) Japan, a period of 12 months beginning on 1 April and ending on 31 March in the following year
-  - **registered market** has the same meaning as in section 2(1) of the Securities Markets Act 1988
+  - **quoted** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **relative** , in relation to any person, means—
     (a) that person's spouse, civil union partner, or de facto partner:
     (b) a parent or step-parent of that person:
@@ -145,7 +145,7 @@ The purpose of this Act is to—
     (e) a grandchild of that person:
     (f) a grandparent of that person:
     (g) a parent, step-parent, brother, or sister, including a stepbrother or stepsister, of that person's spouse, civil union partner, or de facto partner
-  - **relevant interest** has the same meaning as in section 2(1) of the Securities Markets Act 1988
+  - **relevant interest** has the same meaning as in sections 235 to 238 of the Financial Markets Conduct Act 2013
   - **season** means a period of 12 months beginning on 1 June in a year and ending on 31 May in the following year
   - **shareholding farmer** means a dairy farmer who is registered as the holder of co-operative shares
   - **sharemilker** has the meaning given by section 2 of the Sharemilking Agreements Act 1937
@@ -153,12 +153,12 @@ The purpose of this Act is to—
   - **supply redemption rights** means the rights issued or to be issued by new co-op and defined as supply redemption rights in the constitution of new co-op
   - **surrender amount** means the amount payable to a shareholding farmer who reduces or ceases supply under section 97
   - **tariff quota** includes trade restrictions with similar effect to a tariff quota
-  - **trade** has the same meaning as in section 2(1) of the Securities Markets Act 1988, and for the avoidance of doubt includes exchange
+  - **trade** has the same meaning as in section 241(3) of the Financial Markets Conduct Act 2013, and for the avoidance of doubt includes exchange
   - **transacting shareholder** has the meaning given by section 4 of the Co-operative Companies Act 1996
   - **year** means a calendar year ending on 31 December.
 (2) A person is an associated person of another person if—
   (a) they are both bodies corporate and they consist substantially of the same members or shareholders or are under the control of the same persons; or
-  (b) either of them has the power, directly or indirectly, to exercise, or control the exercise of, the rights to vote attached to 25% or more of the voting securities of the other; or
+  (b) either of them has the power, directly or indirectly, to exercise, or control the exercise of, the rights to vote attached to 25% or more of the voting products (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) of the other; or
   (c) one is a director of the other; or
   (d) either of them is able, directly or indirectly, to exert a substantial degree of influence over the activities of the other.
 
@@ -437,7 +437,7 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
 
 ### 30 Customs and Excise Act 1996 to apply to prohibited exports
 (1) All the provisions of the Customs and Excise Act 1996, and any regulations made under that Act, that apply to prohibited exports apply to the export of any dairy products in contravention of this Act in all respects as if the export of those dairy products were prohibited under Part 5 of the Customs and Excise Act 1996.
-(2) The penalty for an offence against section 209(1)(b) of the Customs and Excise Act 1996 is a fine not exceeding $200,000 if the offence is in respect of the export of any dairy products in contravention of this Act.
+(2) The penalty for an offence against section 209(1)﻿(b) of the Customs and Excise Act 1996 is a fine not exceeding $200,000 if the offence is in respect of the export of any dairy products in contravention of this Act.
 
 ### 31 Offences
 (1) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $200,000 who exports a dairy product contrary to section 23.
@@ -456,7 +456,7 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
 (1) It is a defence in any proceedings for an offence under section 31 if the defendant proves that—
   (a) the contravention was due to an event or cause beyond the control of the defendant, including natural disaster, mechanical failure, or sabotage; and
   (b) the defendant took reasonable precautions and exercised due diligence to avoid the contravention.
-(2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the event or cause relied on by the defendant.
+(2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)﻿(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the event or cause relied on by the defendant.
 
 ### 34 Liability of companies and persons for actions of agents or employees
 (1) Any act or omission on behalf of a person other than a body corporate by—is treated, for the purpose of this subpart, also as the act or omission of the first-mentioned person.
@@ -643,10 +643,10 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (h) requiring LIC to comply with decisions of the panel (subject to payment of any charge for access set by LIC):
   (i) prescribing fees that may be charged by the panel for applications for access, or the basis on which fees may be calculated:
   (j) requiring LIC to pay a levy to the Minister in each financial year.
-(2) A levy order under subsection (1)(j) must specify the amount of the levy or the way the levy must be calculated.
+(2) A levy order under subsection (1)﻿(j) must specify the amount of the levy or the way the levy must be calculated.
 (3) The Minister must calculate the amount of the levy so as to ensure that the costs of the panel (net of any application fees) are met fully from the levy.
 (4) LIC must pay any levy required by regulations made under this section.
-(5) The Minister must consult with LIC before making a recommendation under subsection (1)(j).
+(5) The Minister must consult with LIC before making a recommendation under subsection (1)﻿(j).
 (6) The Minister may—
   (a) deduct over-recoveries in respect of a financial year from the levy payable in subsequent financial years; or
   (b) add under-recoveries in respect of a financial year to the levy payable in subsequent financial years.
@@ -695,7 +695,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 ### 68 Database if LIC wound up
 (1) This section applies if—
   (a) a liquidator or interim liquidator is appointed in respect of LIC under Part 16 of the Companies Act 1993; or
-  (b) LIC is removed from the register of companies kept pursuant to section 360(1)(a) of the Companies Act 1993.
+  (b) LIC is removed from the register of companies kept pursuant to section 360(1)﻿(a) of the Companies Act 1993.
 (2) In that case, any interest of LIC in the core database reverts to the Crown until ongoing arrangements can be made for it to be taken over by a dairy industry body.
 
 ### 69 Herd Testing Regulations 1958 deemed to have been made under this Act
@@ -723,7 +723,7 @@ The intention of this subpart is to promote the following principles:
 (3) Sections 94 to 96 are exceptions to the obligation to accept applications.
 (4) Sections 97 to 105 describe the right of shareholding farmers to cease or reduce the supply of milk to new co-op as shareholding farmers.
 (5) Sections 106 to 109 regulate the supply of milk to new co-op.
-(5A) Sections 109A to 109J provide for the disapplication of specified provisions in this subpart (being provisions that relate to the requirement for new co-op to issue and accept the surrender of co-operative shares) if there is in place a regime for trading co–operative shares on a registered market and there is established a fund (the new co-op fund) the securities of which are listed on a registered market.
+(5A) Sections 109A to 109J provide for the disapplication of specified provisions in this subpart (being provisions that relate to the requirement for new co-op to issue and accept the surrender of co-operative shares) if there is in place a regime for trading co-operative shares on a licensed market and there is established a fund (the new co-op fund) the securities of which are quoted on a licensed market.
 (5B) Sections 109K to 109M regulate the conduct of new co-op in relation to the trading of co-operative shares and the functioning of the new co-op fund.
 (6)
 (7) Sections 115 to 119 are regulatory powers concerning the supply of dairy goods or services, and the publication and supply of information.
@@ -759,8 +759,8 @@ The intention of this subpart is to promote the following principles:
   (a) in each of the daily newspapers published in Whangarei, Auckland, Hamilton, Rotorua, Hawke’s Bay, New Plymouth, Palmerston North, Wellington, Nelson, Christchurch, Dunedin, and Invercargill; and
   (b) on new co-op’s website in an electronic form that is publicly accessible.
 (2) New co-op must publish details of an application period before the application period begins.
-(3) New co-op must publish the details under subsection (1)(a) as soon as practicable after those details are determined by new co-op.
-(4) Publication under subsection (1)(b) must be continuous throughout the application period.
+(3) New co-op must publish the details under subsection (1)﻿(a) as soon as practicable after those details are determined by new co-op.
+(4) Publication under subsection (1)﻿(b) must be continuous throughout the application period.
 
 ### 77 Price of co-operative share
 (1) New co-op must set a price of a co-operative share to apply from the beginning of each application period.
@@ -804,7 +804,7 @@ Section 77A first applies—
 (1) The price of a co-operative share issued to a new entrant or a shareholding farmer in response to an application that new co-op is required by section 73 to accept is—
   (a) the June price in the first season for the supply of milk to which the application relates if the new entrant or shareholding farmer elects to pay that price; or
   (b) the default price if that election is not made.
-(2) An election under subsection (1)(a) must be made with the application from the new entrant or shareholding farmer.
+(2) An election under subsection (1)﻿(a) must be made with the application from the new entrant or shareholding farmer.
 (3) The co-operative share standard that applies to a new entrant or a shareholding farmer who makes an application under section 73 that new co-op is required to accept is the co-operative share standard published at the beginning of the application period in which the application is made.
 
 ### 82 Requirements applying to co-operative shares for applications outside application period
@@ -822,7 +822,7 @@ New co-op must not require payment from a new entrant or a shareholding farmer f
   (b) before the earlier of—
     (i) 15 working days from the notification of acceptance of an application; or
     (ii) the last day of the application period in which the application is made.
-(3) The total amount payable for the co-operative shares referred to in subsection (2)(a) is calculated based on—
+(3) The total amount payable for the co-operative shares referred to in subsection (2)﻿(a) is calculated based on—
   (a) the published price on the date that the application under section 73 is made; and
   (b) the co-operative share standard published at the beginning of the application period in which the application is made.
 
@@ -854,15 +854,15 @@ New co-op must not require payment from a new entrant or a shareholding farmer f
 (2) The price of a co-operative share issued to a new entrant or a shareholding farmer to whom this section applies is—
   (a) the June price in the first season for the supply of milk to which the application relates if the new entrant or shareholding farmer elects to pay that price; or
   (b) the default price if that election is not made.
-(3) An election under subsection (2)(a) must be made with the application to which the supply relates.
+(3) An election under subsection (2)﻿(a) must be made with the application to which the supply relates.
 (4) The co-operative share standard that applies to a new entrant or a shareholding farmer to whom this section applies is,—
-  (a) if the new entrant or shareholding farmer makes an election under subsection (2)(a), the co-operative share standard published at the beginning of the application period immediately before the first season for the supply of milk to which the application relates; or
+  (a) if the new entrant or shareholding farmer makes an election under subsection (2)﻿(a), the co-operative share standard published at the beginning of the application period immediately before the first season for the supply of milk to which the application relates; or
   (b) if that election is not made, the co-operative share standard published at the beginning of the application period in which the application is made.
 
 ### 89 Effect of change in co-operative share standard before supply commences if default price applies
 (1) This section applies if—
   (a) a new entrant or shareholding farmer to whom section 88 applies commences supply of milk in a season later than the season immediately following the season in which the application was made; and
-  (b) the new entrant or shareholding farmer does not make an election under section 88(2)(a); and
+  (b) the new entrant or shareholding farmer does not make an election under section 88(2)﻿(a); and
   (c) the co-operative share standard published by new co-op at the beginning of the application period immediately before the first season for the supply of milk to which the application relates is different from the co-operative share standard published by new co-op at the beginning of the application period in which the application was made.
 (2) If this section applies, the number of co-operative shares to be issued to the new entrant or shareholding farmer, and the amount payable for those co-operative shares, must be calculated as if—
   (a) the supply of milk to which the application relates commenced in the season immediately following the application period in which the application was made; and
@@ -870,7 +870,7 @@ New co-op must not require payment from a new entrant or a shareholding farmer f
   (c) all changes to the co-operative share standard since the application was made were applied as if it were existing supply by a shareholding farmer.
 
 ### 90 Deposit if default price applies
-(1) This section applies to a new entrant or a shareholding farmer who is committed under section 88(2)(b) to pay the default price.
+(1) This section applies to a new entrant or a shareholding farmer who is committed under section 88(2)﻿(b) to pay the default price.
 (2) New co-op must not require a new entrant or a shareholding farmer to pay more than 2 deposits for the purchase of co-operative shares.
 (3) A first deposit—
   (a) must not exceed 10% of the total amount payable for the co-operative shares; and
@@ -880,23 +880,23 @@ New co-op must not require payment from a new entrant or a shareholding farmer f
 (4) A second deposit—
   (a) must not exceed 10% of the total amount payable for the co-operative shares; and
   (b) must not be payable earlier than the last day of the application period immediately before the first season for the supply of milk to which the application relates.
-(5) The total amount payable for the co-operative shares referred to in subsections (3)(a) and (4)(a) is calculated based on—
+(5) The total amount payable for the co-operative shares referred to in subsections (3)﻿(a) and (4)﻿(a) is calculated based on—
   (a) the published price on the date that the application is made; and
   (b) the co-operative share standard published at the beginning of the application period in which the application is made.
 
 ### 91 Balance of purchase price if default price applies
-(1) This section regulates the timing of payment of the balance of the purchase price by a new entrant or a shareholding farmer who is committed under section 88(2)(b) to pay the default price.
+(1) This section regulates the timing of payment of the balance of the purchase price by a new entrant or a shareholding farmer who is committed under section 88(2)﻿(b) to pay the default price.
 (2) New co-op must not require a new entrant or a shareholding farmer to pay the balance (or part of it) of the purchase price for the co-operative shares before 1 June in the first season for the supply of milk to which the application relates.
 
 ### 92 Deposit if June price elected
-(1) This section applies to a new entrant or a shareholding farmer who elects under section 88(2)(a) to pay the June price.
+(1) This section applies to a new entrant or a shareholding farmer who elects under section 88(2)﻿(a) to pay the June price.
 (2) New co-op must not require a new entrant or a shareholding farmer to pay a deposit for the purchase of co-operative shares—
   (a) that exceeds 20% of the total amount payable for the co-operative shares; and
   (b) earlier than the last day of the application period immediately before the first season for the supply of milk to which the application relates.
 (3) The total amount payable for the co-operative shares referred to in subsection (2) is calculated based on the most recent published price and co-operative share standard on the date that the deposit is payable.
 
 ### 93 Balance of purchase price if June price elected
-(1) This section regulates the timing of payment of the balance of the purchase price by a new entrant or a shareholding farmer who elects under section 88(2)(a) to pay the June price.
+(1) This section regulates the timing of payment of the balance of the purchase price by a new entrant or a shareholding farmer who elects under section 88(2)﻿(a) to pay the June price.
 (2) New co-op must not require a new entrant or a shareholding farmer to pay the balance (or part of it) of the purchase price for the co-operative shares before 1 June in the first season for the supply of milk to which the application relates.
 
 **Exceptions**
@@ -932,7 +932,7 @@ New co-op may reject an application by a new entrant or a shareholding farmer if
     (i) the June price immediately following the application period in which the notice of withdrawal is given if the shareholding farmer elects to receive that price, multiplied by the number of shares; or
     (ii) the default price if that election is not made, multiplied by the number of shares; and
   (b)
-(2) An election under subsection (1)(a)(i) must be made with the notice of withdrawal.
+(2) An election under subsection (1)﻿(a)﻿(i) must be made with the notice of withdrawal.
 
 ### 99 Surrender value of co-operative shares for withdrawal notified outside application period
 If new co-op accepts a notice of withdrawal from a shareholding farmer outside an application period, new co-op must pay the shareholding farmer a surrender value for the relevant co-operative shares that is the June price immediately following the date that the notice of withdrawal is given multiplied by the number of shares.
@@ -948,14 +948,14 @@ If new co-op accepts a notice of withdrawal from a shareholding farmer outside a
   (b) issuing capital notes; or
   (c) a combination of both cash and capital notes.
 (3) However, new co-op may satisfy all or part of the surrender amount referred to in subsection (1) by issuing supply redemption rights, if the withdrawing shareholding farmer referred to in subsection (1) requests new co-op to do so.
-(4) New co-op may satisfy the surrender amount under subsection (2)(b) or (c) by issuing capital notes itself or by procuring a wholly-owned subsidiary to issue them.
+(4) New co-op may satisfy the surrender amount under subsection (2)﻿(b) or (c) by issuing capital notes itself or by procuring a wholly-owned subsidiary to issue them.
 
 ### 102 Capital notes
 (1) New co-op must ensure that the total market value of the capital notes issued to satisfy or partly satisfy a surrender amount is not less than the surrender amount to be satisfied by their issue.
 (2) The total market value of capital notes in subsection (1) is calculated using their market price which is the volume-weighted average sale price for all trades of the capital notes, through the electronic matching markets of all stock exchanges on which the capital notes are quoted, adjusted to remove the impact of any interest accrued on the capital notes, for the 1-month period immediately before the capital notes are issued.
 (3) New co-op may not issue capital notes under section 101 if,—
-  (a) during the month immediately before the capital notes are to be issued, capital notes that are the same as the capital notes to be issued were not traded through a registered exchange’s securities market (within the meaning of section 2(1) of the Securities Markets Act 1988); or
-  (b) capital notes that are the same as the capital notes to be issued have not been listed continuously on that registered exchange’s securities market for 6 months or more.
+  (a) during the month immediately before the capital notes are to be issued, capital notes of the same class as the capital notes to be issued have not been traded on a licensed market; or
+  (b) capital notes of the same class as the capital notes to be issued have not been quoted continuously on the licensed market for 6 months or more.
 
 ### 103 Repurchase of capital notes by new co-op
 (1) This section applies if any of the following persons acquires or enters into an arrangement to acquire capital notes during the month immediately before new co-op issues capital notes under section 101 and the capital notes are the same as the capital notes issued:
@@ -977,13 +977,13 @@ If new co-op accepts a notice of withdrawal from a shareholding farmer outside a
 (1) This section applies if—
   (a) the value of equities surrendered in a season minus the value of equities issued in that season exceeds 5% of the value of equities on issue on 31 May in the previous season; and
   (b) new co-op’s board considers and certifies that paying cash and issuing capital notes that exceed the 5% threshold described in paragraph (a) would materially and adversely affect new co-op’s ability to implement its business plan.
-(2) If this section applies, new co-op may satisfy that part of the total value of equities surrendered that exceeds the 5% threshold referred to in subsection (1)(a) by—
+(2) If this section applies, new co-op may satisfy that part of the total value of equities surrendered that exceeds the 5% threshold referred to in subsection (1)﻿(a) by—
   (a) payment in cash; or
   (b) issuing capital notes, subject to section 102 and section 103; or
   (c) issuing redeemable preference shares; or
   (d) a combination of cash, capital notes, and redeemable preference shares.
 (3) However, new co-op may satisfy all or part of any surrender amount that falls within the total value of equities covered by subsection (2) by issuing supply redemption rights if the withdrawing shareholding farmer requests new co-op to do so.
-(4) In subsection (1)(a), equities means co-operative shares and supply redemption rights in new co-op.
+(4) In subsection (1)﻿(a), equities means co-operative shares and supply redemption rights in new co-op.
 
 ### 105 Provisions concerning redeemable preference shares
 New co-op must ensure that redeemable preference shares issued by it under section 104—
@@ -1000,8 +1000,8 @@ New co-op must ensure that redeemable preference shares issued by it under secti
 (1) New co-op must ensure that the terms of supply that apply to a new entrant—
   (a) are the same as the terms that apply to a shareholding farmer in the same circumstances; or
   (b) differ from the terms that apply to a shareholding farmer in different circumstances only to reflect the different circumstances.
-(2) New co-op must ensure that the terms and effect of securities offered or issued in new co-op are the same for new entrants as for shareholding farmers.
-(3) In this section, securities has the same meaning as in section 2D of the Securities Act 1978.
+(2) New co-op must ensure that the terms and effect of financial products offered or issued in new co-op are the same for new entrants as for shareholding farmers.
+(3) In this section, financial products has the same meaning as in section 7 of the Financial Markets Conduct Act 2013.
 (4) New co-op must not treat a shareholding farmer who exercises an entitlement under this subpart any less favourably than a shareholding farmer who does not do so.
 
 ### 107 Regulation of supply contracts for raw milk
@@ -1012,7 +1012,7 @@ New co-op must ensure that redeemable preference shares issued by it under secti
   (b) is supplied under contracts with new co-op that—
     (i) expire or may be terminated by the supplier at the end of the current season without penalty to the supplier; and
     (ii) on expiry or termination, end all the supplier’s obligations to supply milk to new co-op.
-(4) A requirement in a supply contract that the supplier give new co-op up to 3 months’ notice to terminate the contract is not a penalty under subsection (3)(b)(i).
+(4) A requirement in a supply contract that the supplier give new co-op up to 3 months’ notice to terminate the contract is not a penalty under subsection (3)﻿(b)﻿(i).
 
 ### 108 Right to supply independent processors
 (1) Shareholding farmers are entitled to allocate to independent processors up to 20% of their weekly production throughout the season.
@@ -1051,28 +1051,28 @@ The Minister must recommend that an Order in Council be made under section 109B 
 
 ### 109D Preconditions for making Order in Council
 (1) The preconditions for making an Order in Council under section 109B are the following:
-  (a) co-operative shares are listed on a registered market that provides for the shares to be traded by shareholding farmers; and
+  (a) co-operative shares are quoted on a licensed market that provides for the shares to be traded by shareholding farmers; and
   (b) there is established a fund (the new co-op fund) that satisfies the following requirements:
     (i) the securities issued in respect of the fund (the new co-op fund securities)—
-      (A) are listed on a registered market that provides for the securities to be traded by the public; and
+      (A) are quoted on a licensed market that provides for the securities to be traded by the public; and
       (B) entitle the holders of those securities to receive distributions equal to the distributions they would receive if they were holders of co-operative shares; and
     (ii) the rules of the fund permit shareholding farmers to exchange co-operative shares for an equal number of new co-op fund securities, and vice versa; and
     (iii) the manager of the fund has issued, or has entered into binding obligations to issue, new co-op fund securities for consideration of not less than $500 million; and
   (c) new co-op has given a notice to the chief executive that complies with section 109E.
 (2) The chief executive, subject to being satisfied as to the sufficiency and authenticity of the certificate in question,—
-  (a) must confirm to the Minister that the precondition in subsection (1)(a) has been met if the chief executive has received from the registered exchange in question a certificate verifying the matters set out in subsection (1)(a):
-  (b) must confirm to the Minister that the precondition in subsection (1)(b) has been met if the chief executive has received from the board of new co-op a certificate verifying the matters set out in subsection (1)(b).
+  (a) must confirm to the Minister that the precondition in subsection (1)﻿(a) has been met if the chief executive has received from the licensed market operator in question a certificate verifying the matters set out in subsection (1)﻿(a):
+  (b) must confirm to the Minister that the precondition in subsection (1)﻿(b) has been met if the chief executive has received from the board of new co-op a certificate verifying the matters set out in subsection (1)﻿(b).
 
 ### 109E Requirements for notice given by new co-op to chief executive
-For the purposes of section 109D(1)(c), the notice given by new co-op to the chief executive must—
+For the purposes of section 109D(1)﻿(c), the notice given by new co-op to the chief executive must—
   (a) be in writing; and
   (b) request that an Order in Council be made under section 109B; and
   (c) specify the date on and from which the specified subpart 5 provisions should not apply.
 
 ### 109F Notice by new co-op to chief executive triggering repeal of section 109A
 (1) New co-op must without delay give written notice to the chief executive if—
-  (a) co-operative shares are no longer able to be traded on a registered market by shareholding farmers (other than in the case of a temporary halt in, or suspension of, trading in the shares); or
-  (b) new co-op fund securities have ceased to be listed on a registered market that provides for the securities to be traded by the public; or
+  (a) co-operative shares are no longer able to be traded on a licensed market by shareholding farmers (other than in the case of a temporary halt in, or suspension of, trading in the shares); or
+  (b) new co-op fund securities have ceased to be quoted on a licensed market that provides for the securities to be traded by the public; or
   (c) the new co-op fund has been wound up; or
   (d) an event occurs that creates a binding obligation to wind up the new co-op fund including, without limitation,—
     (i) an order by a court, a regulatory body, or any other person; or
@@ -1091,29 +1091,29 @@ For the purposes of section 109D(1)(c), the notice given by new co-op to the chi
 (2) The Governor-General may, before the specified date, by Order in Council revoke an order made under section 109G if, on the date of revocation,—
   (a) an order could have been made under section 109B; and
   (b) for the purpose of paragraph (a), the requirements of sections 109C and 109D with all necessary modifications have been satisfied.
-(3) When an order is made under subsection (2), the fund that for the purposes of making the order satisfied the requirements of section 109D(1)(b) is for the purpose of this Act and any enactment amended by this Act the new co-op fund.
+(3) When an order is made under subsection (2), the fund that for the purposes of making the order satisfied the requirements of section 109D(1)﻿(b) is for the purpose of this Act and any enactment amended by this Act the new co-op fund.
 (4) In this section, specified date means the date specified in the order made under section 109G.
 
 ### 109I Conditions of making order under section 109G(2)
 (1) An Order in Council made under section 109G(2) may be made only on the recommendation of the Minister under subsection (2).
 (2) The Minister must recommend that the order be made if the Minister is satisfied, on written confirmation from the chief executive, that—
-  (a) co-operative shares are no longer able to be traded on a registered market by shareholding farmers (other than in the case of a temporary halt in, or suspension of, trading in the shares); or
-  (b) new co-op fund securities have ceased to be listed on a registered market that provides for the securities to be traded by the public; or
+  (a) co-operative shares are no longer able to be traded on a licensed market by shareholding farmers (other than in the case of a temporary halt in, or suspension of, trading in the shares); or
+  (b) new co-op fund securities have ceased to be quoted on a licensed market that provides for the securities to be traded by the public; or
   (c) the new co-op fund has been wound up; or
   (d) an event has occurred that creates a binding obligation to wind up the new co-op fund including, without limitation,—
     (i) an order by a court, a regulatory body, or any other person; or
     (ii) a resolution by the holders of new co-op fund securities or by any other person; or
     (iii) an event specified in the contractual arrangements relating to the new co-op fund.
-(3) The chief executive must confirm that subsection (2)(a), (b), (c), or (d) applies if the chief executive—
+(3) The chief executive must confirm that subsection (2)﻿(a), (b), (c), or (d) applies if the chief executive—
   (a) has received a notice from new co-op under section 109F; or
-  (b) is satisfied on reasonable grounds, after making due inquiry, that subsection (2)(a), (b), (c), or (d) applies; or
-  (c) has received a response from new co-op under section 109J(3)(b); or
+  (b) is satisfied on reasonable grounds, after making due inquiry, that subsection (2)﻿(a), (b), (c), or (d) applies; or
+  (c) has received a response from new co-op under section 109J(3)﻿(b); or
   (d) has not obtained a response from new co-op, within 5 working days after service, to a notice given under section 109J.
 
 ### 109J Chief executive may give new co-op notice requiring verification
 (1) At any time while the specified subpart 5 provisions do not apply, the chief executive may give new co-op a notice that complies with subsection (2) requiring new co-op to verify in writing, with documentary proof, that—
-  (a) co-operative shares continue to be listed on a registered market that provides for the shares to be traded by shareholding farmers:
-  (b) new co-op fund securities continue to be listed on a registered market that provides for the securities to be traded by the public:
+  (a) co-operative shares continue to be quoted on a licensed market that provides for the shares to be traded by shareholding farmers:
+  (b) new co-op fund securities continue to be quoted on a licensed market that provides for the securities to be traded by the public:
   (c) the new co-op fund has not been wound up:
   (d) no event has occurred that creates a binding obligation to wind up the new co-op fund.
 (2) The notice must be—
@@ -1129,7 +1129,7 @@ For the purposes of section 109D(1)(c), the notice given by new co-op to the chi
 Sections 109L to 109N apply only while the specified subpart 5 provisions do not apply.
 
 ### 109L New co-op's obligations in relation to market in co-operative shares and to new co-op fund
-(1) New co-op must ensure that there are 1 or more market makers in co-operative shares operating during the periods of operation of the registered market on which the co-operative shares are listed.
+(1) New co-op must ensure that there are 1 or more market makers in co-operative shares operating during the periods of operation of the licensed market on which the co-operative shares are quoted.
 (2) New co-op must ensure that the holders of new co-op fund securities have the following rights:
   (a) subject to section 161A(2), the right to appoint and remove the manager of the fund; and
   (b) the right to appoint and remove a majority of the board of the manager of the fund; and
@@ -1227,13 +1227,13 @@ Sections 109A to 109M expire and are repealed,—
     (ix) average premiums payable for winter milk in particular areas; and
   (b) prescribe when and how the information must be published; and
   (c) prescribe the form of statutory declaration and who must provide it under section 117(4).
-(2) Disclosure of information required by regulations made under subsection (1) is not an offer nor an advertisement under the Securities Act 1978.
+(2) Nothing in Part 3 of the Financial Markets Conduct Act 2013 applies to the disclosure of information required by regulations made under subsection (1).
 
 ### 117 Information to be supplied to Commission
 (1) New co-op must send a copy of the information that it is required to publish by regulations under section 116 to the Commission within 3 working days of publication.
 (2) The Commission may request (in writing) information, statements, or reports from new co-op to monitor new co-op’s compliance with regulations made under section 116.
 (3) New co-op must comply with a request under subsection (2) within 20 working days of receiving the request or within a longer period allowed by the Commission.
-(4) Information, statements, or reports supplied to the Commission under this section must be verified by statutory declaration in the form, and by the persons, prescribed by regulations made under section 116(1)(c).
+(4) Information, statements, or reports supplied to the Commission under this section must be verified by statutory declaration in the form, and by the persons, prescribed by regulations made under section 116(1)﻿(c).
 
 ### 118 Offences
 (1) Every person commits an offence against this section who—
@@ -1483,7 +1483,7 @@ Proceedings brought under this Part are in addition to any proceedings brought u
   (b) determine the terms of reference for the report; and
   (c) publish the terms of reference on the Ministry's Internet site.
 (2) The terms of reference must, in addition to any other matters that the Minister considers appropriate,—
-  (a) specify the date by which the report must be completed, which must be a date within 365 days after the date of a request made under subsection (1)(a); and
+  (a) specify the date by which the report must be completed, which must be a date within 365 days after the date of a request made under subsection (1)﻿(a); and
   (b) specify the scope of the report, having regard to—
     (i) the structure of the New Zealand dairy industry; and
     (ii) any specific competition concerns in any specified New Zealand dairy markets; and
@@ -1497,7 +1497,7 @@ Proceedings brought under this Part are in addition to any proceedings brought u
 (4) Regardless of the Minister's response to the report, if notice is given under subsection (3), the Governor-General must, by Order in Council, declare,—
   (a) in the case of one island meeting its market share threshold under section 147, that this subpart (except sections 77A, 104, 105, 109A to 109N, and 110 to 146) and subpart 5A cease to apply to that island; or
   (b) in the case of both islands meeting their market share thresholds under section 147 (including the case in which the other island meets its market threshold after notice is given in respect of an island under subsection (3) but before the Order in Council is made), that this subpart (except section 134) and subpart 5A cease to apply to both islands.
-(5) If the Governor-General makes an Order in Council under subsection (4)(a) and the Minister subsequently certifies that the other island has also met its market share threshold under section 147, the Governor-General must, by Order in Council, declare that this subpart (except section 134) and subpart 5A cease to apply to both islands.
+(5) If the Governor-General makes an Order in Council under subsection (4)﻿(a) and the Minister subsequently certifies that the other island has also met its market share threshold under section 147, the Governor-General must, by Order in Council, declare that this subpart (except section 134) and subpart 5A cease to apply to both islands.
 (6) An Order in Council made under subsection (4) or (5)—
   (a) must specify the date on which this subpart (apart from any exceptions) and subpart 5A cease to apply to the relevant island or islands (as the case may be), which may be no later than the end of the season that begins after the date on which the Order in Council is made; and
   (b) must come into force on or before the date specified in paragraph (a); and
@@ -1507,7 +1507,7 @@ Proceedings brought under this Part are in addition to any proceedings brought u
   (a) if the Minister requests a report from the Commerce Commission under subsection (1), the Commerce Commission may exercise any of the powers specified in the provisions listed in section 145 to determine the state of competition in the New Zealand dairy industry:
   (b) consultation, other than the consultation specified in subsection (1) or (2), is not required:
   (c) the report and its contents are not binding on the Crown:
-  (d) if, in relation to subsection (4)(b) or (5), the other island meets its market share threshold at any time after the Minister requests a report under subsection (1), a new report in relation to the other island is not required:
+  (d) if, in relation to subsection (4)﻿(b) or (5), the other island meets its market share threshold at any time after the Minister requests a report under subsection (1), a new report in relation to the other island is not required:
   (e) nothing in this section is intended to—
     (i) create any rights or protections in relation to any person or group of persons; or
     (ii) confer any rights or protections on any person or group of persons.
@@ -1517,9 +1517,9 @@ Proceedings brought under this Part are in addition to any proceedings brought u
 (1) This section applies if the Minister has not requested a report under section 148 before 1 June 2015.
 (2) If this section applies,—
   (a) the Minister must, as soon as practicable and in consultation with the Minister of Commerce,—
-    (i) request a report under section 148(1)(a); and
-    (ii) comply with section 148(1)(b) and (c), (2), and (3); and
-  (b) section 148(8)(a) to (c) and (e) apply in respect of the report referred to in paragraph (a).
+    (i) request a report under section 148(1)﻿(a); and
+    (ii) comply with section 148(1)﻿(b) and (c), (2), and (3); and
+  (b) section 148(8)﻿(a) to (c) and (e) apply in respect of the report referred to in paragraph (a).
 
 ### 148B Procedure where market share threshold is met after report requested under section 148A
 (1) This section applies if the Minister has requested a report under section 148A and subsequently signs a certificate under section 147.
@@ -1568,7 +1568,7 @@ It does not detract from the achievement of the purpose set out in section 150A 
     (ii) processing milk into the same portfolio of commodities as the portfolio adopted for the purposes of paragraph (a); and
     (iii) selling those commodities:
   (c) new co-op collects all milk that it processes from the farms on which the milk is produced.
-(2) For the purposes of subsection (1)(a) and (b)(ii), the portfolio of commodities must be determined having regard to the following:
+(2) For the purposes of subsection (1)﻿(a) and (b)﻿(ii), the portfolio of commodities must be determined having regard to the following:
   (a) in respect of the commodities included in the portfolio,—
     (i) the commodities that are likely to be the most profitable over a period not exceeding 5 years from the time when the portfolio is determined; and
     (ii) the need for commodities included in the portfolio to utilise all components of milk; and
@@ -1608,13 +1608,13 @@ It does not detract from the achievement of the purpose set out in section 150A 
   (b) new co-op amends the milk price manual contrary to a recommendation by the panel; or
   (c) new co-op amends the milk price manual without having received a recommendation by the panel for the amendment.
 (2) New co-op must,—
-  (a) if subsection (1)(a) applies, make publicly available—
+  (a) if subsection (1)﻿(a) applies, make publicly available—
     (i) the recommendation of the panel; and
     (ii) new co-op's reasons for not implementing that recommendation:
-  (b) if subsection (1)(b) applies, make publicly available—
+  (b) if subsection (1)﻿(b) applies, make publicly available—
     (i) the recommendation of the panel; and
     (ii) new co-op's reasons for amending the milk price manual contrary to that recommendation:
-  (c) if subsection (1)(c) applies, make publicly available a statement of new co-op's reasons for amending the milk price manual without having received a recommendation by the panel for the amendment.
+  (c) if subsection (1)﻿(c) applies, make publicly available a statement of new co-op's reasons for amending the milk price manual without having received a recommendation by the panel for the amendment.
 (3) If new co-op contravenes subsection (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 **Review of milk price manual by Commission**
@@ -1626,7 +1626,7 @@ The Commission must, for each season, review the milk price manual and make a re
 (1) The Commission must make a report on the extent to which the milk price manual is consistent with the purpose of this subpart (see section 150A).
 (2) In making the report, the Commission must—
   (a) have regard to the information provided to it by new co-op under section 150L or under the procedure agreed under section 150K; and
-  (b) have regard to any submission made by new co-op under section 150M(2)(a) or under the procedure agreed under section 150K; and
+  (b) have regard to any submission made by new co-op under section 150M(2)﻿(a) or under the procedure agreed under section 150K; and
   (c) give reasons for its conclusions.
 
 ### 150J Commission must make final report publicly available
@@ -1663,10 +1663,10 @@ New co-op must, not later than 1 August in each year,—
   (a) other than in accordance with a recommendation by the panel; or
   (b) without having received a recommendation by the panel for the base milk price.
 (2) New co-op must,—
-  (a) if subsection (1)(a) applies, make publicly available—
+  (a) if subsection (1)﻿(a) applies, make publicly available—
     (i) the recommendation of the panel; and
     (ii) a statement of new co-op's reasons for setting the base milk price other than in accordance with that recommendation:
-  (b) if subsection (1)(b) applies, make publicly available a statement of new co-op's reasons for setting the base milk price without having received a recommendation by the panel for the base milk price.
+  (b) if subsection (1)﻿(b) applies, make publicly available a statement of new co-op's reasons for setting the base milk price without having received a recommendation by the panel for the base milk price.
 (3) If new co-op contravenes subsection (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
 
 ### 150O Commission must review calculation of base milk price
@@ -1677,7 +1677,7 @@ New co-op must, not later than 1 August in each year,—
 (1) The Commission must make a report on the extent to which the assumptions adopted and the inputs and process used by new co-op in calculating the base milk price for the season are consistent with the purpose of this subpart (see section 150A).
 (2) In making the report, the Commission must—
   (a) have regard to the information provided to it by new co-op under section 150T or under the procedure agreed under section 150S; and
-  (b) have regard to any submission made by new co-op under section 150U(2)(a) or under the procedure agreed under section 150S; and
+  (b) have regard to any submission made by new co-op under section 150U(2)﻿(a) or under the procedure agreed under section 150S; and
   (c) give reasons for its conclusions.
 (3) In making the report, the Commission—
   (a) is not required to calculate the costs of an independent processor; and
@@ -1745,7 +1745,7 @@ For the purposes of the definition of the term available subscribed capital in s
 (1) The consideration deemed to be received by new co-op—
   (a) under section 152(a) is deemed to be received in respect of the classes of shares of new co-op issued on or before the amalgamation date in the proportions nominated by new co-op; and
   (b) under section 152(b) is further deemed to be received in respect of the classes of shares of new co-op issued on or before the relevant 1 June in the proportions nominated by new co-op.
-(2) A class of shares referred to in subsection (1)(a) or (b) may, for the purposes of that subsection, be substituted if necessary by any class of shares that may reasonably be regarded as the successor to all or part of the original class.
+(2) A class of shares referred to in subsection (1)﻿(a) or (b) may, for the purposes of that subsection, be substituted if necessary by any class of shares that may reasonably be regarded as the successor to all or part of the original class.
 (3) Subsections (1) and (2) apply if new co-op nominates the proportions by notice in writing to the Commissioner of Inland Revenue within 30 days after the date on which the consideration is deemed to be received.
 (4) If no valid nomination is made under subsection (3) in respect of an amount of consideration, the amount is deemed to have been received in respect of the class of shares in new co-op that is required to be held by transacting shareholders.
 
@@ -1766,21 +1766,21 @@ For the purposes of the definition of the term available subscribed capital in s
 ### 156 Gift duty and taxation in respect of Livestock Improvement Corporation Limited
 (1) The issue of shares by LIC under section 60 is not a dutiable gift for the purposes of the Estate and Gift Duties Act 1968 or a dividend for the purposes of the Income Tax Act 2007.
 (2) For the purposes of the Income Tax Act 2007, the available subscribed capital of the shares issued under section 60 is equal to the available subscribed capital of the shares which are cancelled under section 60.
-(3) For the purposes of the Income Tax Act 2007, if the constitution of LIC is altered on or after the day on which shares in LIC are issued under section 60 (or with effect as at or after that date) to allow any part of the funds of LIC to be used or be available to be used for the private pecuniary profit of any shareholder referred to in section CW 42(5)(b) of that Act,—
+(3) For the purposes of the Income Tax Act 2007, if the constitution of LIC is altered on or after the day on which shares in LIC are issued under section 60 (or with effect as at or after that date) to allow any part of the funds of LIC to be used or be available to be used for the private pecuniary profit of any shareholder referred to in section CW 42(5)﻿(b) of that Act,—
   (a) the income of LIC that is exempt income only by virtue of section CW 51 of that Act immediately before the alteration that is derived in the tax year in which the alteration comes into effect is income of LIC and is not exempt income under section CW 51 of that Act; and
   (b) the assets and rights of LIC are deemed to be disposed of to a person, not being an associated person of LIC, immediately before the beginning of the tax year in which the alteration is made, and to be re-acquired by LIC from that person for a consideration equal to their market value at the beginning of that tax year; and
   (c) the alteration of the constitution may not be treated as altering or affecting in any way the status, as exempt income, of any income of LIC that is exempt income under section CW 51 of that Act, derived before the beginning of the tax year in which the alteration comes into effect.
-(4) Subsection (3)(c) does not apply if the Board retains any interest in LIC at the time that the constitution comes into effect so that any part of the funds of LIC is used or is available for use for the private pecuniary profit of the Board.
+(4) Subsection (3)﻿(c) does not apply if the Board retains any interest in LIC at the time that the constitution comes into effect so that any part of the funds of LIC is used or is available for use for the private pecuniary profit of the Board.
 (5) Subsection (4) does not apply to an interest that the Board retains in LIC by reason of the issue of shares under section 60 to a person.
-(6) The interpretation of the Income Tax Act 2007 is not affected by subsection (3)(a), except to the extent of the effect of the application of that subsection to LIC in the circumstances indicated in that subsection.
+(6) The interpretation of the Income Tax Act 2007 is not affected by subsection (3)﻿(a), except to the extent of the effect of the application of that subsection to LIC in the circumstances indicated in that subsection.
 
 ### 157 Taxation of The New Zealand Dairy Research Institute
-(1) For the purposes of the Income Tax Act 2007, the company referred to in section 158(2)(a)—
+(1) For the purposes of the Income Tax Act 2007, the company referred to in section 158(2)﻿(a)—
   (a) is deemed to acquire the assets, rights, and liabilities of the charitable trust known as The New Zealand Dairy Research Institute on the amalgamation date for their market values on that date; and
   (b) despite paragraph (a), is deemed to be the same person as that charitable trust.
 (2) For the purposes of the Income Tax Act 2007, nothing effected by section 158 may be treated as in any way altering or affecting the status, as exempt income under subpart CW of that Act, of any income of that charitable trust before the amalgamation date.
-(3) Subsection (1)(b) also applies for the purposes of the other Inland Revenue Acts (within the meaning of section 3(1) of the Tax Administration Act 1994).
-(4) For the avoidance of doubt, the vesting that takes place under section 158(2)(a) is not a dutiable gift for the purposes of the Estate and Gift Duties Act 1968.
+(3) Subsection (1)﻿(b) also applies for the purposes of the other Inland Revenue Acts (within the meaning of section 3(1) of the Tax Administration Act 1994).
+(4) For the avoidance of doubt, the vesting that takes place under section 158(2)﻿(a) is not a dutiable gift for the purposes of the Estate and Gift Duties Act 1968.
 
 ### Subpart 7 — The New Zealand Dairy Research Institute, sharemilkers, and miscellaneous provisions
 
@@ -1837,60 +1837,60 @@ For the avoidance of doubt,—
 (3) Section 53 of the Companies Act 1993 does not apply to the acquisition of new co-op fund securities by new co-op.
 (4) Subject to subsection (5), new co-op fund securities may be held by new co-op and are not required to be exchanged for co-operative shares immediately on acquisition, but may be exchanged after acquisition.
 (5) New co-op fund securities acquired under this section are required to be exchanged for co-operative shares immediately on acquisition if the number of new co-op fund securities acquired, when aggregated with other new co-op fund securities and co-operative shares held by new co-op at the time of the acquisition, exceeds 5% of all co-operative shares issued by new co-op, excluding any co-operative shares deemed to be cancelled under section 66(1) of the Companies Act 1993 or section 161C(3).
-(6) Within 10 working days after the acquisition of new co-op fund securities, the board of new co-op must ensure that notice of the acquisition is delivered to each registered market on which co-operative shares are listed.
+(6) Within 10 working days after the acquisition of new co-op fund securities, the board of new co-op must ensure that notice of the acquisition is delivered to each licensed market on which co-operative shares are quoted.
 (7) If the board of new co-op fails to comply with subsection (6), every director of new co-op commits an offence as if the board of new co-op had failed to comply with section 58(3) of the Companies Act 1993.
-(8) If new co-op acquires or proposes to acquire new co-op fund securities, sections 60(3) to (7), 61(1) to (6) and (8) to (10), 62, 63 (except subsection (3A)), 64, 65 (except subsections (2)(a) and (2B)), and 67 of the Companies Act 1993 apply as if—
+(8) If new co-op acquires or proposes to acquire new co-op fund securities, sections 60(3) to (7), 61(1) to (6) and (8) to (10), 62, 63 (except subsection (3A)), 64, 65 (except subsections (2)﻿(a) and (2B)), and 67 of the Companies Act 1993 apply as if—
   (a) a reference to a company or the company were a reference to new co-op:
   (b) a reference to the board were a reference to the board of new co-op:
   (c) under subsection (1) in section 60(3) and (6) were read as to acquire new co-op fund securities under this section:
-  (d) under section 60(1)(b)(ii) in section 61(1) and (4) were read as to acquire new fund co-op securities under section 60:
+  (d) under section 60(1)﻿(b)﻿(ii) in section 61(1) and (4) were read as to acquire new fund co-op securities under section 60:
   (e) a reference to shares in the following provisions were a reference to new co-op fund securities:
-    (i) section 60(3)(b):
-    (ii) section 60(3)(c)(ii):
-    (iii) section 60(6) (except paragraph (c)(i)):
-    (iv) section 61(1)(b):
+    (i) section 60(3)﻿(b):
+    (ii) section 60(3)﻿(c)﻿(ii):
+    (iii) section 60(6) (except paragraph (c)﻿(i)):
+    (iv) section 61(1)﻿(b):
     (v) section 61(4):
-    (vi) section 61(8)(b):
+    (vi) section 61(8)﻿(b):
     (vii) section 62(b):
-    (viii) section 63(1) (except paragraph (d)(i)):
+    (viii) section 63(1) (except paragraph (d)﻿(i)):
     (ix) section 63(4):
-    (x) section 63(5) (except paragraph (c)(i)):
-    (xi) section 63(8)(b):
+    (x) section 63(5) (except paragraph (c)﻿(i)):
+    (xi) section 63(8)﻿(b):
     (xii) section 64:
-    (xiii) section 65 (except subsection (1)(a)(iii)(A) and the third reference to shares in subsection (1)(b)):
+    (xiii) section 65 (except subsection (1)﻿(a)﻿(iii)﻿(A) and the third reference to shares in subsection (1)﻿(b)):
     (xiv) section 67:
   (f) a reference to shares in the following provisions were a reference to co-operative shares:
-    (i) section 60(3)(c)(i):
-    (ii) section 60(6)(c)(i):
-    (iii) section 63(1)(d)(i):
-    (iv) section 63(5)(c)(i):
-    (v) section 65(1)(a)(iii)(A):
-    (vi) the third reference to shares in section 65(1)(b):
+    (i) section 60(3)﻿(c)﻿(i):
+    (ii) section 60(6)﻿(c)﻿(i):
+    (iii) section 63(1)﻿(d)﻿(i):
+    (iv) section 63(5)﻿(c)﻿(i):
+    (v) section 65(1)﻿(a)﻿(iii)﻿(A):
+    (vi) the third reference to shares in section 65(1)﻿(b):
   (g) a reference to shareholders in the following provisions were a reference to holders of new co-op fund securities:
-    (i) section 60(3)(c):
-    (ii) section 60(6)(c):
+    (i) section 60(3)﻿(c):
+    (ii) section 60(6)﻿(c):
     (iii) section 62(a):
     (iv) section 63(1) (except paragraphs (b) and (c)):
-    (v) section 63(5)(c):
-    (vi) section 65(1)(a)(iii):
+    (v) section 63(5)﻿(c):
+    (vi) section 65(1)﻿(a)﻿(iii):
   (h) a reference to a shareholder, shareholders, or remaining shareholders in the following provisions were a reference to shareholders of new co-op:
     (i) section 61(1), (4), and (8):
-    (ii) section 63(1)(b) and (c):
+    (ii) section 63(1)﻿(b) and (c):
     (iii) section 63(5) (except paragraph (c)):
-    (iv) section 63(8):
-    (v) section 65(1)(a)(i):
+    (iv) section 63(8)
+    (v) section 65(1)﻿(a)﻿(i):
     (vi) section 65(2A):
   (i) a reference to a shareholder in the following provisions were a reference to a shareholder of new co-op and a holder of new co-op fund securities:
     (i) section 61(5) and (6):
     (ii) section 63(6) and (7):
-  (j) a reference to a reasonable shareholder in sections 62(c) and 64(1)(d) were a reference to a reasonable shareholder of new co-op and a reasonable holder of new co-op fund securities:
+  (j) a reference to a reasonable shareholder in sections 62(c) and 64(1)﻿(d) were a reference to a reasonable shareholder of new co-op and a reasonable holder of new co-op fund securities:
   (k) Without limiting sections 60 and 61, were inserted at the beginning of sections 63(1) and 65(1):
   (l) the first reference to the board of the company in section 65(1) were a reference to new co-op and the subsequent reference to it in that section were a reference to the board of new co-op:
   (m) from its shareholders in section 65(1) were deleted:
-  (n) the reference in section 65(2) to each stock exchange on which the shares of the company are listed were a reference to each registered market on which co-operative shares are listed and each registered market on which new co-op fund securities are listed:
-  (o) in the same class in section 65(1)(b) were deleted:
+  (n) the reference in section 65(2) to each stock exchange on which the shares of the company are listed were a reference to each licensed market on which co-operative shares are quoted and each licensed market on which new co-op fund securities are quoted:
+  (o) in the same class in section 65(1)﻿(b) were deleted:
   (p) its in section 67(1) were deleted:
-  (q) a reference to stock exchange were a reference to registered market.
+  (q) a reference to stock exchange were a reference to licensed market.
 
 ### 161C New co-op may exchange new co-op fund securities for co-operative shares
 (1) New co-op may acquire co-operative shares by exchanging new co-op fund securities it has acquired in accordance with section 161B for co-operative shares.
@@ -1906,7 +1906,7 @@ For the avoidance of doubt,—
 ### 161D Financial assistance by new co-op for purchase of co-operative shares
 (1) New co-op may give financial assistance for the purpose of, or in connection with, the purchase of a co-operative share if—
   (a) the financial assistance is given in relation to the establishment and operation of—
-    (i) the registered market on which co-operative shares are able to be traded by shareholding farmers; or
+    (i) the licensed market on which co-operative shares are able to be traded by shareholding farmers; or
     (ii) the new co-op fund; and
   (b) the financial assistance is given to any of the following:
     (i) a custodian of co-operative shares:
