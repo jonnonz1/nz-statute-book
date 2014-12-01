@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2014-08-08_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -53,7 +53,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **development contribution policy** has the meaning set out in section 197(2)
   - **district** means the district of a territorial authority
   - **enforcement officer** means a person appointed by a local authority to exercise the powers of an enforcement officer in relation to offences against, and infringement offences under, this Act, including enforcement of the bylaws of the local authority
-  - **equity security** has the meaning given to it in section 2 of the Securities Act 1978
+  - **equity security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **financial year** means a period of 12 months ending on 30 June
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **good-quality** , in relation to local infrastructure, local public services, and performance of regulatory functions, has the meaning given in section 10(2)
@@ -1176,7 +1176,7 @@ Despite sections 207P to 207V of the Companies Act 1993, a council-controlled or
 Nothing in this Act requires the inclusion in any statement of intent, annual report, financial statement, or half-yearly report required to be produced under this Act by a council-controlled organisation of any information that may be properly withheld if a request for that information were made under the Local Government Official Information and Meetings Act 1987.
 
 ### 71A Application of Part to listed companies
-(1) This section applies to a council-controlled organisation if the shares of any of the following are listed on a stock exchange:
+(1) This section applies to a council-controlled organisation if the shares of any of the following are quoted on a licensed market (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
   (a) the council-controlled organisation:
   (b) a holding company of the council-controlled organisation:
   (c) controlling companies of the council-controlled organisation.
@@ -1907,10 +1907,11 @@ Nothing in sections 117 to 119 affects the ability of any person to obtain any r
 (1) The Crown is not liable to contribute to the payment of any debts or liabilities of any local authority.
 (2) Subsection (1) does not apply in relation to liability for any sum of a kind described in section 49 of the Public Finance Act 1989.
 
-### 122 Prospectuses and loan documents to contain statement that the Crown does not guarantee securities or loan
-(1) If a local authority is named as the issuer or a promoter in any registered prospectus within the meaning of the Securities Act 1978, that prospectus must, unless the securities being offered pursuant to the prospectus are expressly guaranteed by the Crown under the Public Finance Act 1989, contain a statement that the securities being offered pursuant to the prospectus are not guaranteed by the Crown.
-(2) If a local authority enters into any loan agreement or incidental arrangement, that agreement or arrangement must include a statement that the loan or other liability under the incidental arrangement is not guaranteed by the Crown.
-(3) Subsection (2) does not apply in relation to liability for any sum of a kind described in section 49 of the Public Finance Act 1989.
+### 122 Disclosure document and loan documents to contain statement that the Crown does not guarantee financial products or loan
+(1) If a local authority is named as the issuer, or is otherwise named with its consent, in a disclosure document, that disclosure document must, unless the financial products being offered under the disclosure document are expressly guaranteed by the Crown under the Public Finance Act 1989, contain a statement that the financial products being offered under the disclosure document are not guaranteed by the Crown.
+(2) In subsection (1), disclosure document means a product disclosure statement (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) or a disclosure document under clause 26 of Schedule 1 of that Act.
+(3) If a local authority enters into any loan agreement or incidental arrangement, that agreement or arrangement must include a statement that the loan or other liability under the incidental arrangement is not guaranteed by the Crown.
+(4) Subsection (3) does not apply in relation to liability for any sum of a kind described in section 49 of the Public Finance Act 1989.
 
 ## Part 7 — Specific obligations and restrictions on local authorities and other persons
 
@@ -5983,7 +5984,7 @@ In clauses 6, 7, 8, and 9, remuneration includes—
       (A) the appropriate provisions of the Local Authorities (Members' Interests) Act 1968; and
       (B) sections 99, 105, and 105A of the Crimes Act 1961; and
       (C) the Secret Commissions Act 1910; and
-      (D) the Securities Act 1978; and
+      (D) the Financial Markets Conduct Act 2013; and
   (d) the fixing of the date and time of the first meeting of the local authority, or the adoption of a schedule of meetings; and
   (e) the election of the deputy mayor or deputy chairperson in accordance with clause 17.
 
