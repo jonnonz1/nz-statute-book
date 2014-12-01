@@ -1,5 +1,5 @@
 # Māori Language Act 1987
-_Consolidation as at 2013-08-27_
+_Consolidation as at 2014-12-01_
 
 > An Act to declare the Māori language to be an official language of New Zealand, to confer the right to speak Māori in certain legal proceedings, and to establish Te Taura Whiri i te Reo Māori and define its functions and powers
 
@@ -195,7 +195,7 @@ The Governor-General may from time to time, by Order in Council made on the advi
 [Repealed]
 
 ### 10 Superannuation or retiring allowances
-(1) For the purpose of providing a superannuation fund or retiring allowance for the Chairman of the Commission, sums by way of subsidy may from time to time be paid into any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing a superannuation fund or retiring allowance for the Chairman of the Commission, sums by way of subsidy may from time to time be paid into any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Notwithstanding anything in this Act, any person who, immediately before becoming an officer or employee of the Commission or a member of the Commission, is a contributor to the Government Superannuation Fund under Part 2 of the Government Superannuation Fund Act 1956 shall be deemed for the purposes of that Act to be employed in the Government service so long as that person continues to be an officer or employee of the Commission or a member of the Commission; and that Act shall apply to that person in all respects as if that person's service as such an officer or employee or as such a member were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) shall entitle any such person to become a contributor to the Government Superannuation Fund after the person has once ceased to be a contributor.
 (4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who is in the service of the Commission, whether as an officer or employee or as a member, and is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person, means the Commission.
