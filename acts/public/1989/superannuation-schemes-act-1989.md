@@ -1,5 +1,5 @@
 # Superannuation Schemes Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to provide for the registration of superannuation schemes, and to provide a procedure to enable both benefits payable from superannuation schemes and annuities to be reduced as a result of changes in taxation
 
