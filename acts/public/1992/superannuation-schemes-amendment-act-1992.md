@@ -1,5 +1,5 @@
 # Superannuation Schemes Amendment Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2014-12-01_
 
 > An Act to amend the Superannuation Schemes Act 1989
 
