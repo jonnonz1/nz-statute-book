@@ -1,5 +1,5 @@
 # Securities Amendment Act (No 2) 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2014-12-01_
 
 > An Act to amend the Securities Act 1978
 
