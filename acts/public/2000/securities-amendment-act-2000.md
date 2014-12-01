@@ -1,5 +1,5 @@
 # Securities Amendment Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Securities Amendment Act 2000.
