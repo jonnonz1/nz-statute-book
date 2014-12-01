@@ -1,5 +1,5 @@
 # New Zealand Antarctic Institute Act 1996
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to establish the New Zealand Antarctic Institute to manage New Zealand's Antarctic activities and to provide for incidental matters
 
@@ -58,7 +58,7 @@ The provisions set out in Schedule 1 shall apply in respect of the Institute and
   (a) New Zealand Antarctic Institute:
   (b) Ross Dependency Research Committee:
   (c) New Zealand Antarctic Programme:
-  (d) any other name that so resembles any name listed in paragraphs (a) to (c), as to be likely to mislead any person.
+  (d) any other name that so resembles any name listed in paragraphs (a) to (c) as to be likely to mislead any person.
 (2) No person other than the Institute and the Board shall, either alone or with any other person or persons,—
   (a) trade or carry on business under any name listed in paragraphs (a) to (c) of subsection (1); or
   (b) trade or carry on business under any other name, knowing that that name so resembles any name listed in paragraphs (a) to (c) of subsection (1), as to be likely to mislead any person.
@@ -67,7 +67,7 @@ The provisions set out in Schedule 1 shall apply in respect of the Institute and
 ## Part 2 — Miscellaneous provisions
 
 ### 12 Transfer of Crown assets and liabilities relating to New Zealand Antarctic Programme
-(1) Notwithstanding any Act, rule of law, or agreement, the Minister may, on behalf of the Crown—for such consideration, and on such terms and conditions, as the Minister may agree with the Institute.
+(1) Notwithstanding any Act, rule of law, or agreement, the Minister may, on behalf of the Crown,—for such consideration, and on such terms and conditions, as the Minister may agree with the Institute.
   (a) transfer to the Institute assets and liabilities of the Crown:
   (b) authorise the Institute to act on behalf of the Crown in providing goods or services, or in managing assets or liabilities of the Crown:
   (c) grant to the Institute leases, licences, easements, permits, or rights of any kind in respect of any assets or liabilities of the Crown—
@@ -83,7 +83,7 @@ The provisions set out in Schedule 1 shall apply in respect of the Institute and
 (3) No member of the Committee shall be entitled to compensation for loss of office resulting from its dissolution.
 
 ### 14 Power to transfer employees of Ministry
-(1) Notwithstanding anything in section 61A of the State Sector Act 1988, where the Secretary of Foreign Affairs and Trade finds, in respect of any duties being carried out by the Ministry of Foreign Affairs and Trade, that those duties are no longer to be carried out by the Ministry and are to be carried out (in whole or in part) by the Institute, the Secretary may, subject to the relevant employment contract and to subsection (2), transfer from the Ministry to the Institute, all or any of the employees of the Ministry who are carrying out those duties.
+(1) Notwithstanding anything in section 61A of the State Sector Act 1988, where the Secretary of Foreign Affairs and Trade finds, in respect of any duties being carried out by the Ministry of Foreign Affairs and Trade, that those duties are no longer to be carried out by the Ministry and are to be carried out (in whole or in part) by the Institute, the Secretary may, subject to the relevant employment contract and to subsection (2), transfer from the Ministry to the Institute all or any of the employees of the Ministry who are carrying out those duties.
 (2) Before transferring any employee under this section, the Secretary shall consult with the employee about the proposed transfer.
 
 ### 15 Terms and conditions of employment
@@ -149,7 +149,7 @@ The enactments specified in Schedule 2 are hereby amended in the manner indicate
 [Repealed]
 
 ### 16 Superannuation or retiring allowances
-(1) For the purpose of providing a superannuation fund or retiring allowances for any members of the Board, the Institute may from time to time pay sums by way of subsidy or contribution into any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing a superannuation fund or retiring allowances for any members of the Board, the Institute may from time to time pay sums by way of subsidy or contribution into any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Notwithstanding anything in this Act, a person who, immediately before becoming an employee of the Institute by virtue of a transfer under section 14(1) of this Act, was a contributor to the Government Superannuation Fund under the Government Superannuation Fund Act 1956 shall, for the purposes of that Act, be deemed to be employed in the Government service so long as that person continues to be an employee of the Institute; and that Act shall apply to that person in all respects as if that person's service with the Institute were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
 (4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), the term controlling authority, in relation to any transferring employee, means the Institute.
