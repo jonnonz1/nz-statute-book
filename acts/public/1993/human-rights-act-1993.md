@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -782,13 +782,13 @@ Where any conduct, practice, requirement, or condition that is not apparently in
     (i) actuarial or statistical data, upon which it is reasonable to rely, relating to life-expectancy, accidents, or sickness; or
     (ii) where no such data is available in respect of persons with a disability, reputable medical or actuarial advice or opinion, upon which it is reasonable to rely, whether or not contained in an underwriting manual; and
   (d) is reasonable having regard to the applicability of the data or advice or opinion, and of any other relevant factors, to the particular circumstances.
-(5) Nothing in section 22 or section 44 shall prevent the provisions of a superannuation scheme, or the trustees of the scheme, from—
+(5) Nothing in section 22 or section 44 shall prevent the provisions of a superannuation scheme, or the trustees, the supervisor, or the manager of the scheme, from—
   (a) requiring an applicant for membership of the scheme to be under a specified maximum age; or
   (b) permitting a member of the scheme to elect to make increased or reduced contributions to the scheme either temporarily or indefinitely; or
   (c) specifying an age of eligibility for each type of benefit provided for members of the scheme; or
-  (d) subject to section 9C of the Superannuation Schemes Act 1989, requiring persons who become members of the scheme on or after 1 January 1995 to leave the scheme on reaching the age at which persons of that age ordinarily qualify for national superannuation under section 7 of the New Zealand Superannuation and Retirement Income Act 2001; or
+  (d) subject to section 183 of the Financial Markets Conduct Act 2013, requiring persons who become members of the scheme on or after 1 January 1995 to leave the scheme on reaching the age at which persons of that age ordinarily qualify for national superannuation under section 7 of the New Zealand Superannuation and Retirement Income Act 2001; or
   (e) providing benefits on the death or disability of members of the scheme that decrease in value as the age of members increases; or
-  (f) providing benefits for members of the scheme that differ in nature and amount according to the member's period of membership (including any period deemed by the trustees of the scheme to be membership) of the scheme and of any scheme replaced by that scheme, and, in the case of a superannuation scheme provided by an employer, of any scheme to which the employer has paid contributions on behalf of the employee.
+  (f) providing benefits for members of the scheme that differ in nature and amount according to the member's period of membership (including any period deemed by the trustees, the supervisor, or the manager of the scheme to be membership) of the scheme and of any scheme replaced by that scheme, and, in the case of a superannuation scheme provided by an employer, of any scheme to which the employer has paid contributions on behalf of the employee.
 (6) In assessing for the purposes of this section whether it is reasonable to rely on any data or advice or opinion and whether different treatment is reasonable, the Commission or the Complaints Division may—
   (a) require justification to be provided for reliance on the data or advice or opinion and for the different treatment; and
   (b) request the views of an actuary on the justification for the reliance and for the different treatment.
@@ -797,7 +797,7 @@ Where any conduct, practice, requirement, or condition that is not apparently in
 The Commission shall from time to time, after consultation with the FMA, report to the Minister on whether discrimination on the prohibited grounds has been eliminated from superannuation schemes.
 
 ### 72 Power to vary trust deeds
-(1) Notwithstanding any Act or rule of law or the provisions of the instrument or conditions governing any superannuation scheme, the trustees of the scheme may make such amendments to that instrument or those conditions as are necessary or desirable to give effect to the provisions of sections 22, 44, and 70.
+(1) Notwithstanding any Act or rule of law or the provisions of the instrument or conditions governing any superannuation scheme, the trustees of the scheme, or the manager of the scheme with the supervisor's consent, may make such amendments to that instrument or those conditions as are necessary or desirable to give effect to the provisions of sections 22, 44, and 70.
 (2) Every amendment to the provisions of an instrument or conditions governing any superannuation scheme made under subsection (1) on or after the commencement of the Human Rights Amendment Act 1994 must be made by deed.
 
 **Other matters**
@@ -1797,7 +1797,7 @@ No act or omission that occurred before 1 January 2002 is capable of being in br
 [Repealed]
 
 ### 6 Superannuation or retiring allowances
-(1) For the purpose of providing superannuation or retiring allowances for the Commissioners, the Commission may, out of the funds of the Commission, make payments to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing superannuation or retiring allowances for the Commissioners, the Commission may, out of the funds of the Commission, make payments to or subsidise any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Despite anything in this Act, any person who, immediately before being appointed as a Commissioner or the general manager or, as the case may be, becoming an employee of the Commission, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as a Commissioner or the general manager or, as the case may be, to be an employee of the Commission, and that Act applies to that person in all respects as if that person's service as a Commissioner or the general manager or, as the case may be, as an employee of that kind were Government service.
 (3) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as a Commissioner or the general manager or, as the case may be, is in the service of the Commission as an employee and (in any such case) is a contributor to the Government Superannuation Fund, controlling authority, in relation to the person, means the Commission.
 
@@ -1856,7 +1856,7 @@ In this schedule, unless the context otherwise requires,—
 Sections 47 and 48 and 120 to 126 of the Crown Entities Act 2004 apply to the Director, with all necessary modifications, as if he or she were a member of the Commission.
 
 ### 6 Superannuation or retiring allowances
-(1) For the purpose of providing superannuation or retiring allowances for the Director, the Office may, out of the funds of the Office, make payments to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing superannuation or retiring allowances for the Director, the Office may, out of the funds of the Office, make payments to or subsidise any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Despite anything in this Act, any person who, immediately before being appointed as the Director or, as the case may be, becoming an employee of the Office, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as the Director or, as the case may be, to be an employee of the Office, and that Act applies to that person in all respects as if that person's service as the Director or, as the case may be, as an employee of that kind were Government service.
 (3) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the Director or, as the case may be, is in the service of the Office as an employee and (in any such case) is a contributor to the Government Superannuation Fund, controlling authority, in relation to the person, means the Office.
 
@@ -1886,14 +1886,14 @@ This Act may be cited as the Human Rights Amendment Act 1994, and shall be read 
 **Application of principal Act and Human Rights Commission Act 1977 to superannuation schemes**
 
 ### 2 Application of principal Act to superannuation schemes providing benefits on account of marital status
-(1) Notwithstanding any rule of law, nothing in section 22 or section 44 or section 70 of the principal Act shall prevent, or be taken ever to have prevented, the provisions of a superannuation scheme, or the trustees of the scheme, from providing, on the death of a member of the scheme, a benefit for either—without providing a similar or corresponding or equivalent benefit on the death of other members of the scheme.
+(1) Notwithstanding any rule of law, nothing in section 22 or section 44 or section 70 of the principal Act shall prevent, or be taken ever to have prevented, the provisions of a superannuation scheme, or the trustees, the supervisor, or the manager of the scheme, from providing, on the death of a member of the scheme, a benefit for either—without providing a similar or corresponding or equivalent benefit on the death of other members of the scheme.
   (a) the spouse of that member; or
   (b) the civil union partner or de facto partner of that member,—
 (2) Subject to subsection (5), this section applies in respect of superannuation schemes established before or after the commencement of this Act.
 (3) This section applies notwithstanding any judgment, decision, or order of any court or tribunal given or made before or after the commencement of this Act in proceedings commenced before the commencement of this Act.
 (4) Nothing in section 153(1) of the principal Act limits or affects this section.
-(5) Nothing in this section applies to the provision of benefits under a superannuation scheme or by the trustees of a scheme in respect of any person who, at any time on or after 1 January 1996, becomes a member of the scheme unless,—
-  (a) immediately before becoming a member, that person was a member of another superannuation scheme that provides or provided, or the trustees of which provide or provided, benefits of a kind referred to in paragraph (a) or paragraph (b) of subsection (1); and
+(5) Nothing in this section applies to the provision of benefits under a superannuation scheme or by the trustees, the supervisor, or the manager of a scheme in respect of any person who, at any time on or after 1 January 1996, becomes a member of the scheme unless,—
+  (a) immediately before becoming a member, that person was a member of another superannuation scheme that provides or provided, or the trustees, the supervisor, or the manager of which provide or provided, benefits of a kind referred to in paragraph (a) or paragraph (b) of subsection (1); and
   (b) that person became a member of the first-mentioned scheme as a result of a requirement, or the exercise of a right, to leave that other scheme by reason of any merger, takeover, or restructuring of, or reorganisation of the business of, that person's employer.
 (6) Nothing in this section affects the validity of any amendment to the instrument or conditions governing a superannuation scheme made pursuant to section 72 of the principal Act before the commencement of this Act.
 
