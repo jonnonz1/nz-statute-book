@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
