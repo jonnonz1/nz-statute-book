@@ -1,5 +1,5 @@
 # Energy Companies Act 1992
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act—ato provide for the formation of energy companies, the vesting in such companies of the undertakings of Electric Power Boards and the electricity and gas undertakings of local authorities, and for the dissolution of Electric Power Boards; andbto repeal the Electric Power Boards Act 1925, the Auckland Electric Power Board Act 1978, and the Waikato Electricity Authority Act 1988
 
@@ -23,10 +23,10 @@ _Consolidation as at 2014-04-01_
   - **Board** means—
     (a) an Electric Power Board constituted under the Electric Power Boards Act 1925:
     (b) the Auckland Electric Power Board constituted under the Auckland Electric Power Board Act 1978:
-    (c) the Rotorua Area Electricity Authority (which was constituted by an Order in Council made on 9 August 1971 and published in the Gazette on 12 August 1971 at page 1586 and which was continued as a body corporate by section 726(3)(b) of the Local Government Act 1974)
+    (c) the Rotorua Area Electricity Authority (which was constituted by an Order in Council made on 9 August 1971 and published in the Gazette on 12 August 1971 at page 1586 and which was continued as a body corporate by section 726(3)﻿(b) of the Local Government Act 1974)
   - **Board's successor company** , in relation to a Board, means the energy company to which the undertaking of the Board is to be, or has been, transferred in accordance with section 47
   - **constituent local authority** , in relation to a Board, means a local authority the whole or any part of whose district is situated within the district of that Board
-  - **debt security** has the same meaning as in section 2(1) of the Securities Act 1978
+  - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **directorate** , in relation to an energy company, means the board of directors of that energy company
   - **electoral address** , in relation to an elector of a local authority, means the address in respect of which that person is registered as an elector of that local authority
   - **electricity undertaking** , in relation to a local authority, means the undertaking of that local authority as it relates to the generation, distribution, and supply of electricity; and includes—
@@ -39,7 +39,7 @@ _Consolidation as at 2014-04-01_
     (a) an electricity undertaking:
     (b) a gas undertaking:
     (c) the undertaking of a Board
-  - **equity security** has the same meaning as in section 2(1) of the Securities Act 1978
+  - **equity security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **establishing authority** means—
     (a) a Board:
     (b) a local authority whose operations include an energy undertaking
@@ -124,15 +124,15 @@ Subject to section 8, the interim trustees holding office in respect of a Board 
   (b) a bankrupt who has not obtained an order of discharge, or whose order of discharge is suspended for a term not yet expired, or is subject to conditions not yet fulfilled:
   (c) a person to whom an order made under section 299 of the Insolvency Act 2006 applies:
   (d) a person in respect of whom a composition or arrangement with that person's creditors is in force:
-  (e) a person who is subject to a property order made under section 30 or section 31 of the Protection of Personal and Property Rights Act 1989:
+  (e) a person who is subject to a property order made under section 30 or section 31 of the Protection of Personal and Property Rights Act 1988:
   (f) a person who is convicted of an offence punishable by imprisonment for a term of 2 years or more, unless that person has obtained a pardon or has served the sentence or otherwise suffered the sentence imposed on that person:
   (g) a person who is convicted of any offence punishable by imprisonment for a term of less than 2 years and is sentenced to imprisonment for that offence, unless that person has obtained a pardon or has served the sentence:
   (h) a person who is disqualified from being appointed or holding office as a director of a company by virtue of paragraph (ba) or paragraph (c) or paragraph (d) or paragraph (e) of section 151(2) of the Companies Act 1993:
   (i) a person who holds office as a member of the Board in respect of which the person is, or is to be, an interim trustee.
-(2) In any case to which subsection (1)(f) applies,—
+(2) In any case to which subsection (1)﻿(f) applies,—
   (a) the disqualification shall not take effect until the expiration of the time for appealing against the conviction and, in the event of an appeal against conviction, until the appeal is determined; and
   (b) the interim trustee concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as an interim trustee during the period of that leave of absence.
-(3) In any case to which subsection (1)(g) applies,—
+(3) In any case to which subsection (1)﻿(g) applies,—
   (a) the disqualification shall not take effect until the expiration of the time for appealing against the conviction or the sentence and, in the event of an appeal against the conviction or against the sentence or both, until the appeal is determined; and
   (b) the interim trustee concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as an interim trustee during the period of that leave of absence.
 (4) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who does any act as an interim trustee while incapacitated under subsection (1), except—
@@ -245,7 +245,7 @@ An establishment plan prepared by an establishing authority may provide for the 
 (3) In no case may an extension of time be granted under subsection (1) in order to permit an establishing authority to submit an establishment plan after 31 March 1993.
 
 ### 26 Future financial stability of company to be considered
-In making any determination for the purposes of section 18(2)(d) or section 27 or section 28 with respect to the issue, by an energy company, of any equity securities, the establishing authority or, as the case may be, the Minister shall have regard to the need to safeguard the future financial stability of the company.
+In making any determination for the purposes of section 18(2)﻿(d) or section 27 or section 28 with respect to the issue, by an energy company, of any equity securities, the establishing authority or, as the case may be, the Minister shall have regard to the need to safeguard the future financial stability of the company.
 
 ### 27 Approval of establishment plan
 (1) Subject to subsection (2) and to section 29, as soon as practicable after receiving an establishment plan submitted by an establishing authority under section 18, the Minister shall approve the plan by notice in writing to the establishing authority.
@@ -261,10 +261,10 @@ In making any determination for the purposes of section 18(2)(d) or section 27 o
   (b) if the Minister considers that the revised plan requires further amendment,—
     (i) make such amendments to the plan as the Minister considers necessary; and
     (ii) approve the plan (as amended) by notice in writing to the establishing authority, which notice shall be accompanied by a copy of the plan as approved.
-(2) Before making any amendments to an establishment plan under subsection (1)(b), the Minister shall advise the establishing authority of the Minister's intention to do so, and shall give the establishing authority a reasonable opportunity to make submissions on the matter.
+(2) Before making any amendments to an establishment plan under subsection (1)﻿(b), the Minister shall advise the establishing authority of the Minister's intention to do so, and shall give the establishing authority a reasonable opportunity to make submissions on the matter.
 
 ### 29 Establishment plan not to be approved unless share allocation plan endorsed
-(1) Subject to subsection (2), the Minister shall not approve an establishment plan under section 27 or section 28 in any case where, in the case of a plan submitted (whether alone or jointly with any other establishing authority) by an establishing authority that is a Board, the share allocation plan (including a share allocation plan that has been amended pursuant to section 28(1)(b)(i)) included in that plan is not endorsed by the interim trustees for that Board.
+(1) Subject to subsection (2), the Minister shall not approve an establishment plan under section 27 or section 28 in any case where, in the case of a plan submitted (whether alone or jointly with any other establishing authority) by an establishing authority that is a Board, the share allocation plan (including a share allocation plan that has been amended pursuant to section 28(1)﻿(b)﻿(i)) included in that plan is not endorsed by the interim trustees for that Board.
 (2) Where, but for the provisions of subsection (1), the Minister could approve, or would be required to approve, an establishment plan, the Minister may or, as the case may require, shall approve the establishment plan except for the share allocation plan included in that plan, and in any such case section 30 shall apply in respect of that establishment plan.
 
 ### 30 Allocation of shares where share allocation plan not endorsed
@@ -401,7 +401,7 @@ A failure by an energy company to comply with—shall not affect the validity or
   (c) the auditor's report on—
     (i) those financial statements; and
     (ii) the performance targets and other measures by which performance has been judged in relation to the objectives.
-(4) Every report under subsection (3)(a) shall—
+(4) Every report under subsection (3)﻿(a) shall—
   (a) contain such information as is necessary to enable an informed assessment of the operations of the energy company and its subsidiaries (if any), including a comparison of the performance of the energy company and its subsidiaries (if any) with any relevant statement of corporate intent; and
   (b) state the maximum dividend (if any) recommended to be payable by the energy company in respect of its equity securities (other than fixed interest securities) for the financial year to which the report relates.
 (5)
@@ -425,8 +425,8 @@ Nothing in this Act shall be construed as requiring the inclusion, in any statem
 ### 46A Auditing of approved persons
 (1) While an approved person holds equity securities in an energy company,—
   (a) the approved person shall cause to be kept proper accounts relating to the equity securities so held; and
-  (b) the approved person shall, within 5 months after the end of each financial year of the approved person, cause to be prepared, with respect to the affairs of the approved person as they relate to those equity securities, a yearly statement of financial position, a profit and loss account, and a statement of cash flows, together with such other statements of account as may be necessary to give a true and fair view of the financial position of the approved person as it relates to those equity securities; and
-  (c) as soon as practicable after the preparation of the yearly statement of financial position, profit and loss account, and statements in accordance with paragraph (b), the approved person shall submit them to an auditor for audit; and
+  (b) the approved person shall, within 5 months after the end of each financial year of the approved person, cause to be prepared, with respect to the affairs of the approved person as they relate to those equity securities, a yearly statement of financial position, a statement of financial performance, and a statement of cash flows, together with such other statements of account as may be necessary to give a true and fair view of the financial position of the approved person as it relates to those equity securities; and
+  (c) as soon as practicable after the preparation of the yearly statement of financial position, a statement of financial performance, and statements in accordance with paragraph (b), the approved person shall submit them to an auditor for audit; and
   (d) the approved person shall make available to the public—and section 85 shall apply accordingly with all necessary modifications.
     (i) the auditor's report prepared under paragraph (c); and
     (ii) the statement of financial position and account to which the report relates,—
@@ -458,7 +458,7 @@ Nothing in this Act shall be construed as requiring the inclusion, in any statem
     (ii) the names of the persons to whom those debt securities shall be issued; and
   (c) specify the date on which the equity securities and debt securities shall be issued.
 (2) In respect of the matters required by subsection (1) to be specified in an Order in Council made in relation to a Board and its successor company, the Order in Council shall give effect to the provisions of the establishment plan approved in respect of that Board.
-(3) On the date specified in the Order in Council pursuant to subsection (1)(c), the company shall—
+(3) On the date specified in the Order in Council pursuant to subsection (1)﻿(c), the company shall—
   (a) issue to such persons as are specified in the order in that behalf, and as fully paid up, equity securities of such kind, number and terms, and of such nominal value or for such consideration, as the case may be, as are specified in the order:
   (b) issue to such persons as are specified in the order in that behalf, debt securities of such kind, number, nominal value, and terms as are specified in the order.
 (4)
@@ -502,10 +502,10 @@ Notwithstanding any other provision of this Act,—
 ### 54 Taxes and duties
 (1) For the purposes of the Inland Revenue Acts, and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge, a Board and its successor company shall be deemed to be the same person.
 (2) For the purposes of section IA 5 of the Income Tax Act 2007, the person or persons on whom voting interests or, in any case where a market value circumstance exists, market value interests in a Board's successor company are conferred—shall be deemed to be the same persons as those persons who, immediately before the appointed day in relation to that Board, were treated by the Income Tax Act 2007 as holding shares in that Board.
-  (a) by reason of the vesting in that person or those persons, by virtue of section 47(1)(b), of shares in that company; or
+  (a) by reason of the vesting in that person or those persons, by virtue of section 47(1)﻿(b), of shares in that company; or
   (b) by reason of the issue to that person or those persons, pursuant to section 48(3), of equity securities in that company—
 (3) Neither—shall constitute a dutiable gift for the purposes of the Estate and Gift Duties Act 1968.
-  (a) the vesting of shares by virtue of section 47(1)(b); nor
+  (a) the vesting of shares by virtue of section 47(1)﻿(b); nor
   (b) the issue of equity securities or debt securities pursuant to section 48(3)—
 (4) In this section, the terms voting interest, market value circumstance, and market value interest have the same meanings as they have in the Income Tax Act 2007.
 
@@ -643,7 +643,7 @@ The provisions of sections 71 to 78 shall apply notwithstanding anything to the 
   (b) if the Minister considers that the revised plan requires further amendment,—
     (i) make such amendments to the plan as the Minister considers necessary; and
     (ii) approve the plan (as amended) by notice in writing to the Authority, which notice shall be accompanied by a copy of the plan as approved.
-(2) Before making any amendments to the plan under subsection (1)(b), the Minister shall advise the Authority of the Minister's intention to do so, and shall give the Authority a reasonable opportunity to make submissions on the matter.
+(2) Before making any amendments to the plan under subsection (1)﻿(b), the Minister shall advise the Authority of the Minister's intention to do so, and shall give the Authority a reasonable opportunity to make submissions on the matter.
 
 ### 74 Failure to submit plan
 (1) If the Waikato Electricity Authority has not submitted a plan in accordance with section 71 within the time required by subsection (1) of that section (including, where that time has been extended under that subsection, that extension of time), the Minister shall cause such a plan to be prepared, and shall approve that plan, and shall have all such powers as are necessary or desirable for that purpose.
@@ -653,7 +653,7 @@ The provisions of sections 71 to 78 shall apply notwithstanding anything to the 
 
 ### 75 Valuation to be submitted with plan
 (1) Before submitting to the Minister the plan required by section 71, the Waikato Electricity Authority shall value the undertaking of WEL Energy Group Limited.
-(2) The valuation required by subsection (1) shall be made on the same basis as valuations made for the purposes of section 18(2)(b).
+(2) The valuation required by subsection (1) shall be made on the same basis as valuations made for the purposes of section 18(2)﻿(b).
 (3) The plan submitted to the Minister in accordance with section 71 shall state, in an appendix to that plan, the value of WEL Energy Group Limited, as that value is determined in accordance with this section.
 
 ### 76 Transfer of assets and shares
@@ -661,14 +661,14 @@ The provisions of sections 71 to 78 shall apply notwithstanding anything to the 
   (a) both—shall, by virtue of this section, vest in such person or persons as are specified in the order, which for that purpose shall give effect to the provisions of the plan approved pursuant to section 72 or section 73; and
     (i) all shares held by the Waikato Electricity Authority in WEL Energy Group Limited; and
     (ii) all money and other debt securities that are part of the undertaking of the Waikato Electricity Authority—
-  (b) the undertaking of the Waikato Electricity Authority (other than the shares referred to in paragraph (a)(i), and the money and debt securities referred to in paragraph (a)(ii)) shall, by virtue of this section, vest in WEL Energy Group Limited.
+  (b) the undertaking of the Waikato Electricity Authority (other than the shares referred to in paragraph (a)﻿(i), and the money and debt securities referred to in paragraph (a)﻿(ii)) shall, by virtue of this section, vest in WEL Energy Group Limited.
 (2) On the date appointed under subsection (1) in relation to the Waikato Electricity Authority,—
   (a) the Authority shall be deemed to be dissolved; and
   (b) every person holding office as a member of the Authority shall cease to hold that office; and no such member shall be entitled to any compensation in respect of loss of office.
 (3) An Order in Council shall be made under subsection (1) in relation to the Waikato Electricity Authority not later than 2 months after the date on which the plan required by section 71 is approved by the Minister or such later date as the Minister may determine.
 (4) Neither—shall constitute a dutiable gift for the purposes of the Estate and Gift Duties Act 1968.
-  (a) the vesting of shares by virtue of paragraph (a)(i) of subsection (1); nor
-  (b) the vesting of money and debt securities by virtue of paragraph (a)(ii) of that subsection—
+  (a) the vesting of shares by virtue of paragraph (a)﻿(i) of subsection (1); nor
+  (b) the vesting of money and debt securities by virtue of paragraph (a)﻿(ii) of that subsection—
 
 ### 77 Provisions to apply in respect of Waikato Electricity Authority and WEL Energy Group Limited
 For the purposes of Part 5,—and, subject to sections 71 to 76, the provisions of Part 5 shall, so far as applicable and with all necessary modifications, apply accordingly.
@@ -684,7 +684,7 @@ For the purposes of sections 36, 37, 39 to 46, 85, 87, and 88, WEL Energy Group 
   (a) the Waikato Electricity Authority Act 1988:
   (b) sections 11 to 15 of the Electric Power Boards Amendment Act 1989:
   (c) the Waikato Electricity Authority Amendment Act 1990:
-  (d) section 7(2)(b) of the Local Government Official Information and Meetings Amendment Act 1991:
+  (d) section 7(2)﻿(b) of the Local Government Official Information and Meetings Amendment Act 1991:
   (e) section 92.
 (2) The enactments specified in Schedule 1 are hereby consequentially amended in the manner indicated in that schedule.
 (3) The repeal, by subsection (1), of the Waikato Electricity Authority Amendment Act 1990 shall not affect the amendment made by section 6 of that Act.
@@ -702,7 +702,7 @@ For the purposes of sections 36, 37, 39 to 46, 85, 87, and 88, WEL Energy Group 
 
 ### 81 Undertakings transferred before commencement of this Act
 (1) Notwithstanding anything in any other enactment, where any local authority has, before the commencement of this section, transferred all or any of its energy undertaking to any company or any other entity in which shares that carry 51% or more of the voting rights at any general meeting of the company or entity are held by or on behalf of the local authority or other local authorities, that company or other entity (hereafter in this section referred to as an existing company) shall be deemed, for the purposes of sections 36, 37, 39 to 46, 85, 87, and 88, to be an energy company.
-(2) Every existing company shall, not later than 31 December 1992 or such later date as the Minister in any particular case may allow, cause a valuation of the undertaking of the company to be undertaken, which valuation shall be determined on the same basis as valuations are made for the purposes of section 18(2)(b).
+(2) Every existing company shall, not later than 31 December 1992 or such later date as the Minister in any particular case may allow, cause a valuation of the undertaking of the company to be undertaken, which valuation shall be determined on the same basis as valuations are made for the purposes of section 18(2)﻿(b).
 (3) For the purposes of the application of section 197C(8) of the Income Tax Act 1976 to an existing company during the period beginning on the date on which any local authority transferred all or any of its energy undertaking to that company and ending with the close of the day before the date of commencement of this section, an existing company shall be deemed to be an energy trading operator within the meaning of section 197C of that Act.
 
 ### 82 Validation of transfer of certain energy undertakings
