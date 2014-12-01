@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -337,7 +337,7 @@ The functions of the Registrar are to—
     (ii) whose licence is currently suspended under section 110(2)(c) or 115:
   (e) a person subject to an order made, or a notice given, under the law of a country, State, or territory outside New Zealand, within the preceding 5 years who is prohibited from acting as an agent, branch manager, or salesperson (or equivalent) in that country, State, or territory, unless the person satisfies the Authority that he or she is a fit and proper person to hold a licence:
   (f) a person who is an officer of a licensee company, a chief executive officer of a licensee company, or a branch manager and who has been disqualified from holding a licence or whose licence has been suspended under the Real Estate Agents Act 1976:
-  (g) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated body under the Companies Act 1993, the Securities Markets Act 1988, or the Takeovers Act 1993:
+  (g) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated body under the Companies Act 1993, the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
   (h) a company, or other corporate entity or partnership, where a person concerned in its management is disqualified from being licensed in his or her own right under paragraph (a):
   (i) a person described in section 7(1) (which relates to the exemption of lawyers and conveyancers from this Act) who is subject to the provisions of the Lawyers and Conveyancers Act 2006.
 (2) A person is not eligible to hold an agent’s licence if he or she is an undischarged bankrupt or is subject to subpart 4 of Part 5 of the Insolvency Act 2006.
@@ -1100,7 +1100,7 @@ As soon as practicable after a person signs a contractual document and gives tha
   (f) a child, grandchild, brother, sister, nephew, or niece of the licensee or of any person referred to in paragraphs (d) or (e):
   (g) any other child who is being, or is to be, cared for on a continuous basis by the licensee or any person referred to in paragraph (d) or (e):
   (h) a grandparent, parent, uncle, or aunt of the licensee or of any person referred to in paragraph (d) or (e):
-  (i) an entity that has an interest in the licensee or an entity (not being an entity listed on the New Zealand Stock Exchange) in which the licensee has an interest.
+  (i) an entity that has an interest in the licensee or an entity in which the licensee has an interest (except where either interest is in quoted financial products within the meaning given for those terms in section 6(1) of the Financial Markets Conduct Act 2013).
 
 ## Part 6 — Miscellaneous provisions
 
