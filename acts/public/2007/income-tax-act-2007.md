@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2014-10-01_
+_Consolidation as at 2014-12-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -17403,7 +17403,7 @@ Benefits treated as life insurance
 Exemption for certain schemes
 (2) A trustee of a superannuation fund is treated as not carrying on the business of life insurance for an income year if the fund meets all the requirements of subsections (3) to (9) for the income year.
 Fund must be registered
-(3) At all times in the income year, the fund must be registered under the Superannuation Schemes Act 1989.
+(3) At all times in the income year, the fund must be registered as a superannuation scheme or a workplace savings scheme on the register of managed investment schemes (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 Trustee cannot be a life insurance company
 (4) At all times in the income year, no trustee of the fund is a company carrying on the business of providing life insurance to which the Life Insurance Act 1908 applies.
 Nature of funds
@@ -17432,8 +17432,9 @@ Notice by FMA
 (12) The FMA must notify the trustee of a superannuation fund as soon as practicable after determining that—
   (a) the fund complies with subsections (3) to (8) for an income year:
   (b) the fund ceases to comply with the subsections for an income year.
-Objection under Superannuation Schemes Act
-(13) A person dissatisfied with the FMA's decision may appeal against the decision under section 23 of the Superannuation Schemes Act 1989 and has no right of objection under the Tax Administration Act 1994.
+Objection against FMA decision
+(13) A person dissatisfied with the FMA's decision may appeal against the decision to the High Court and has no right of objection under the Tax Administration Act 1994.
+(13A) A decision against which an appeal is lodged under subsection (13) continues in force unless the High Court orders otherwise.
 Meaning of related by employment
 (14) In this section, a person is related by employment to an employer if the person is—
   (a) a former employee, in the case of deferred benefits relating to prior employment:
@@ -25439,7 +25440,7 @@ Choosing to become listed PIE
 (1) A company that is not listed on a recognised exchange in New Zealand may choose under section HM 71 to become a listed PIE if it—
   (a) has 100 shareholders or more; and
   (b) has resolved to become a company listed on a recognised exchange in New Zealand if it were to obtain the required consents; and
-  (c) has applied to the Securities Commission or the FMA for an exemption to disclose in a prospectus its intention to become a listed company; and
+  (c) has applied to the Securities Commission or the FMA for an exemption to disclose in a product disclosure statement its intention to become a listed company; and
   (d) satisfies the Commissioner that the company would apply to become a listed company if it were to obtain the required consents.
 Two-year period
 (2) If the company is not listed within 2 years of the election, it loses PIE status from the last day of that period.
@@ -25465,7 +25466,7 @@ Income
   (b) an amount allowable under section HM 55G, as measured under section HM 55H.
 Residence
 (2) A foreign investment zero-rate PIE is resident in New Zealand for the purposes of section HM 8 if it—
-  (a) is a unit trust to which the Unit Trusts Act 1960 applies; and
+  (a) is a unit trust; and
   (b) has a trustee who is resident in New Zealand.
 
 ### HM 19C Modified rules for foreign investment variable-rate PIEs
@@ -36776,7 +36777,7 @@ Requirements for rules
     (i) to repay a student loan under the Student Loan Scheme Act 2011:
     (ii) to pay fees and expenses related to tertiary education:
     (iii) to buy a home if the person does not own one:
-    (iv) that the person would be permitted to make if the scheme were a KiwiSaver scheme under the KiwiSaver Act 2006:
+    (iv) that the person would be permitted to make if the scheme were a KiwiSaver scheme:
     (v) in circumstances set out in the distribution rules that have been approved under subsection (1)(c)(i):
   (c) the entity may require the person to provide information to ensure that the requirements relating to a withdrawal are met.
 
@@ -38041,7 +38042,7 @@ In this Act, unless the context requires otherwise,—
   - **complying fund rules** means, for a superannuation fund and an employee's superannuation accumulation, rules that—
     (a) meet all the requirements set out in schedule 28 (Requirements for complying fund rules); and
     (b) do not detract from those requirements
-  - **complying superannuation fund** means a superannuation fund that is approved as a complying superannuation fund under section 35 of the Superannuation Schemes Act 1989
+  - **complying superannuation fund** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **complying trust** is defined in section HC 10 (Complying trusts)
   - **compulsory employer contribution** has the same meaning as in the KiwiSaver Act 2006
   - **conduct** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
@@ -38235,7 +38236,7 @@ In this Act, unless the context requires otherwise,—
   - **deduction** , for a person, means a deduction of the person under section BD 2 (Deductions)
   - **deemed rate of return method** means the method of calculating FIF income or FIF loss in section EX 55 (Deemed rate of return method)
   - **deferred military pay** is defined in section CW 24(2) (Deferred military pay for active service) for the purposes of that section
-  - **defined benefit fund** means a superannuation scheme, registered under the Superannuation Schemes Act 1989, that must comply with section 15(1)(a) of that Act
+  - **defined benefit fund** means a superannuation scheme or workplace savings scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) that operates on the principle of unallocated funding
   - **dependent child** , for a child and a person,—
     (a) means a child—
       (i) whose care is primarily the responsibility of the person; and
@@ -39164,7 +39165,7 @@ In this Act, unless the context requires otherwise,—
   - **jurisdictional income ratio** is defined in section IQ 2B(9) (Effect of attributed CFC net loss and some FIF net loss from before first affected year) for the purposes of that section and section LK 5B (Credits from tax year before first affected year)
   - **KiwiSaver calculation period**
   - **KiwiSaver contributions** means a contribution required to be deducted under Part 3, subpart 1 of the KiwiSaver Act 2006
-  - **KiwiSaver scheme** means a KiwiSaver scheme, as defined in section 4 of the KiwiSaver Act 2006
+  - **KiwiSaver scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **Kyoto unit**
   - **land** —
     (a) includes any estate or interest in land:
@@ -40129,7 +40130,7 @@ In this Act, unless the context requires otherwise,—
   - **public entertainer** is defined in section CW 19(3) (Amounts derived during short-term visits) for the purposes of that section
   - **public official** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
   - **public unit trust** means—
-    (a) a unit trust that offers securities to the public under the Securities Act 1978 and that has 100 or more unit holders, treating all associated persons as 1 person, who are—
+    (a) a unit trust in respect of which regulated offers are made under the Financial Markets Conduct Act 2013 and that has 100 or more unit holders, treating all associated persons as 1 person, who are—
       (i) unit trust managers who hold units in the ordinary course of their activities in relation to the unit trust; or
       (ii) persons with an interest of 25% or less in the unit trust, treating all associated persons as 1 person; or
       (iii) persons with an interest of 25% or more in the unit trust, treating all associated persons as 1 person, if their interest is 25% or more because of unusual or temporary circumstances, such as the recent establishment or forthcoming termination of the unit trust, and if the unit trust would meet the requirements of any of paragraphs (b), (c), (d), and (e); or
@@ -40139,8 +40140,8 @@ In this Act, unless the context requires otherwise,—
       (iii) a life insurance company:
       (iv) a superannuation fund:
       (v) a unit trust manager, trustee, or person nominated by the manager or the trustee who holds units in the ordinary course of management activities in relation to the unit trust:
-      (vi) a person with an interest of 25% or less in the unit trust, treating all associated persons as 1 person, if the unit trust offers securities to the public under the Securities Act 1978:
-      (vii) a person with an interest of 25% or more in the unit trust, treating all associated persons as 1 person, if their interest is 25% or more because of unusual or temporary circumstances, such as the recent establishment or forthcoming termination of the unit trust, and if the unit trust would meet the requirements of any of paragraphs (a), (c), (d), and (e), and if the unit trust offers securities to the public under the Securities Act 1978; or
+      (vi) a person with an interest of 25% or less in the unit trust, treating all associated persons as 1 person, if regulated offers in respect of the unit trust are made under the Financial Markets Conduct Act 2013:
+      (vii) a person with an interest of 25% or more in the unit trust, treating all associated persons as 1 person, if their interest is 25% or more because of unusual or temporary circumstances, such as the recent establishment or forthcoming termination of the unit trust, and if the unit trust would meet the requirements of any of paragraphs (a), (c), (d), and (e), and if regulated offers in respect of the unit trust are made under the Financial Markets Conduct Act 2013; or
     (c) a unit trust that has less than 100 unit holders if it could reasonably be regarded as a widely-held investment vehicle for direct investment by members of the public despite its number of unit holders or investors; or
     (d) a unit trust that has less than 100 unit holders if it has less than 100 unit holders or investors because of unusual or temporary circumstances, such as its recent establishment or forthcoming termination, and if it would otherwise meet the requirements of any of paragraphs (a), (b), (c), and (e); or
     (e) a unit trust that has less than 100 unit holders if it could reasonably be regarded as a vehicle mainly for investment by widely-held vehicles for direct investment that are 1 or more of the following:
@@ -40236,12 +40237,7 @@ In this Act, unless the context requires otherwise,—
       (v) being the trustee of a trust under which a relative has benefited or is eligible to benefit:
     (b) is defined in section HC 36(5) for the purposes of only that section:
     (bb) in the definition of look-through company, means a person connected with another person by any of the means described in paragraph (a)(i) to (iv):
-    (c) for the purposes of the definition of relative in section 2 of the Securities Act 1978, means a person connected with another person by—
-      (i) being within the fourth degree of blood relationship to the other:
-      (ii) being in a marriage, civil union, or de facto relationship with the other:
-      (iii) being in a marriage, civil union, or de facto relationship with a person who is within the fourth degree of blood relationship to the other:
-      (iv) being adopted as a child of the other or as a child of a person who is within the third degree of relationship to the other:
-      (v) being the trustee of a trust under which a relative of the other person has benefited or is eligible to benefit
+    (c)
   - **relevant balance date** is defined in section GB 45 (Arrangements involving money not at risk) for the purposes of that section
   - **relevant period** is defined in section YC 13(3) (Corporate spin-outs) for the purposes of that section
   - **relinquishment** ,—
@@ -40634,9 +40630,9 @@ In this Act, unless the context requires otherwise,—
   - **superannuation contribution** —
     (a) means a disposition of property to or for the benefit of a superannuation scheme in consideration for which fully adequate consideration in money or money’ worth does not pass from the scheme to a person; and
     (b) does not include a benefit that may pass from the scheme to a person under the terms of the scheme
-  - **superannuation fund** —
-    (a) means a superannuation scheme registered under the Superannuation Schemes Act 1989 or a KiwiSaver scheme that is registered under the KiwiSaver Act 2006; and
-    (b) for a superannuation fund that is a trust, means the trustees of the fund
+  - **superannuation fund** means—
+    (a) a retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013); and
+    (b) for a retirement scheme that is a trust, the trustees of the retirement scheme
   - **superannuation policy** is defined in section DZ 2(3) (Life insurers acquiring property before 1 April 1988) for the purposes of that section and section EZ 1 (Life insurers acquiring property before 1 April 1988)
   - **superannuation savings scheme** means all the entitlements and tax credits arising under subpart MK (Tax credits for KiwiSaver schemes and complying superannuation funds)
   - **superannuation scheme** —
