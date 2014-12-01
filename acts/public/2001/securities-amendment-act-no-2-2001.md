@@ -1,5 +1,5 @@
 # Securities Amendment Act (No 2) 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 (1) This Act is the Securities Amendment Act (No 2) 2001.
