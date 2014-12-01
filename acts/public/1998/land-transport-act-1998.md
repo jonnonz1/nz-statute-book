@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2014-12-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -244,7 +244,7 @@ _Consolidation as at 2014-04-23_
   - **positive** , in relation to an evidential breath test, means an evidential breath test that indicates,—
     (a) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, that the breath of the person who underwent the test contains alcohol; or
     (b) in the case of a person who is apparently younger than 20, that the breath of the person who underwent the test contains alcohol; or
-    (c) in the case of any other person, that the proportion of alcohol in the breath of the person who underwent the test exceeds 400 micrograms of alcohol per litre of breath
+    (c) in the case of any other person, that the proportion of alcohol in the breath of the person who underwent the test exceeds 250 micrograms of alcohol per litre of breath
   - **premises** , in sections 130 and 131, includes a vehicle, rail vehicle, carriage, box, or receptacle; but does not include a dwelling or Maori reservation constituted by or under the Maori Affairs Act 1953 or Part 17 of Te Ture Whenua Maori Act 1993
   - **prescribed** means,—
     (a) in relation to a matter under this Act, prescribed by this Act or by regulations, rules, or notice made under this Act:
@@ -508,8 +508,8 @@ A person must comply with the rules.
 
 ### 11 Drivers not to exceed specified alcohol limits
 A person may not drive or attempt to drive a motor vehicle while—
-  (a) the proportion of alcohol in the person's breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 400 micrograms of alcohol per litre of breath; or
-  (b) the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or section 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood; or
+  (a) the proportion of alcohol in the person's breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 250 micrograms of alcohol per litre of breath; or
+  (b) the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or section 73, exceeds 50 milligrams of alcohol per 100 millilitres of blood; or
   (c) if the person is younger than 20,—
     (i) the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol; or
     (ii) the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol; or
@@ -1548,7 +1548,12 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 56 Contravention of specified breath or blood-alcohol limit
 (1) A person commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 400 micrograms of alcohol per litre of breath.
+(1A) A person commits an infringement offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 250 micrograms of alcohol per litre of breath but does not exceed 400 micrograms of alcohol per litre of breath.
 (2) A person commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or section 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood.
+(2A) A person commits an infringement offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72(1)(b) to (e) or 73, exceeds 50 milligrams of alcohol per 100 millilitres of blood but does not exceed 80 milligrams of alcohol per 100 millilitres of blood.
+(2B) A person commits an infringement offence if—
+  (a) the person fails or refuses to undergo an evidential breath test after having been required to do so under section 69; and
+  (b) analysis of a blood specimen subsequently taken from the person under section 72(1)(a) indicates that the person drove or attempted to drive a motor vehicle on a road while the proportion of alcohol in the person's blood exceeded 50 milligrams of alcohol per 100 millilitres of blood but did not exceed 80 milligrams of alcohol per 100 millilitres of blood.
 (3) If a person is convicted of a first or second offence against subsection (1) or subsection (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
@@ -1570,13 +1575,13 @@ A court may impose a fine for an infringement offence, other than an overloading
 (4) The imposition of a mandatory disqualification under this section is subject to section 81.
 
 ### 57AA Contravention of specified breath or blood alcohol limit by holder of alcohol interlock licence or zero alcohol licence
-(1) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol but the proportion of alcohol does not exceed 400 micrograms of alcohol per litre of breath.
-(2) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol but the proportion of alcohol does not exceed 80 milligrams of alcohol per 100 millilitres of blood.
+(1) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol but the proportion of alcohol does not exceed 250 micrograms of alcohol per litre of breath.
+(2) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, contains alcohol but the proportion of alcohol does not exceed 50 milligrams of alcohol per 100 millilitres of blood.
 (3) If a person is convicted of an offence against subsection (1) or (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $2,250; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 3 months or more.
-(4) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 400 micrograms of alcohol per litre of breath.
-(5) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood.
+(4) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 250 micrograms of alcohol per litre of breath.
+(5) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, exceeds 50 milligrams of alcohol per 100 millilitres of blood.
 (6) If a person is convicted of an offence against subsection (4) or (5),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
@@ -1636,6 +1641,10 @@ A court may impose a fine for an infringement offence, other than an overloading
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (3A) Subsection (3)(b) does not apply if an order is made under section 65.
+(3B) Subsection (3C) applies to a person who—
+  (a) is required to permit a blood specimen to be taken under section 72(1)(a), (b), or (e); and
+  (b) when required, on a previous occasion, to permit a blood specimen to be taken under section 72(1)(a), (b), or (e), was medically or physically unable to provide a blood specimen.
+(3C) A person described in subsection (3B) who is medically or physically unable to provide a blood specimen is presumed, in the absence of proof to the contrary, to have refused to permit a blood specimen to be taken.
 (4) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
 (5) The imposition of a mandatory disqualification under this section is subject to section 81.
 
@@ -1684,6 +1693,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 64 Defences
 (1) It is a defence to proceedings for an offence against section 60 (which relates to failing or refusing to supply a blood specimen) if the court is satisfied, on the evidence of a medical practitioner, that the taking of a blood specimen from the defendant would have been prejudicial to the defendant's health.
+(1AA) Subsection (1) is subject to section 60(3B) and (3C).
 (1A) It is a defence to proceedings for an offence against section 57A(1) or 62(1B) if the court is satisfied that the person has consumed the relevant qualifying drug—
   (a) in accordance with—
     (i) a current and valid prescription written for that person by a health practitioner; and
@@ -1697,11 +1707,11 @@ A court may impose a fine for an infringement offence, other than an overloading
   (a) the breath screening test or evidential breath test indicated that,—
     (i) in the case of a person apparently younger than 20, the person’s breath did not contain alcohol; or
     (ii) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, the person's breath did not contain alcohol; or
-    (iii) in any other case, the proportion of alcohol in the person’s breath did not exceed 400 micrograms of alcohol per litre of breath; or
+    (iii) in any other case, the proportion of alcohol in the person’s breath did not exceed 250 micrograms of alcohol per litre of breath; or
   (b) any evidence given in respect of the results of a blood test indicates that,—
     (i) in the case of a person apparently younger than 20, the person’s blood did not contain alcohol; or
     (ii) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, the person's blood did not contain alcohol; or
-    (iii) in any other case, the proportion of alcohol in the person’s blood did not exceed 80 milligrams of alcohol per 100 millilitres of blood.
+    (iii) in any other case, the proportion of alcohol in the person’s blood did not exceed 50 milligrams of alcohol per 100 millilitres of blood.
 (3A) It is no defence to proceedings for an offence against section 60 (which relates to failing or refusing to supply a blood specimen) that—
   (a) there was or may have been an error in the result of the breath screening test or evidential breath test; or
   (b) the occurrence or likely occurrence of any such error did not entitle or empower a person to request or require an evidential breath test or a blood test.
@@ -1770,7 +1780,22 @@ A court may impose a fine for an infringement offence, other than an overloading
 **Blood test fee**
 
 ### 67 Blood test fee
-(1) A person who, having undergone a blood test, is convicted of an offence against any of sections 56(2), 57(2), 57A, 57AA, 58, 61(1)(b), 61(2), and 62 is liable to pay the blood test fee that applied on the day on which the offence was committed and any associated medical expenses; and the blood test fee and any associated medical expenses are deemed to be a fine imposed on the conviction of the person for the offence.
+(1) The following persons who undergo a blood test are liable to pay the blood test fee that applied on the date of that test and any associated medical expenses:
+  (a) any person who—
+    (i) elects or is required to undergo the blood test under section 70A(1) or 72(1); and
+    (ii) before undergoing the blood test is advised in accordance with section 69(4A)(d), 72(1D), or 72(1E):
+  (b) any person who undergoes a blood test under section 73.
+(1A) Subsection (1) does not apply if the result of the blood test indicates that the person has committed an infringement offence against section 56(2B).
+(1B) The blood test fee and any associated medical expenses payable by a person under subsection (1),—
+  (a) in the case of a person who is convicted of an offence against any of sections 56(2), 57(2), 57AA, 57A, 58, 61(1)(b), 61(2), and 62, are deemed to be a fine imposed on the conviction of the person for that offence; and
+  (b) in all other cases, are recoverable from the person as a debt due to the Crown.
+(1C) An enforcement officer may waive or refund the blood test fee and any associated medical expenses payable or paid by a person under subsection (1) if—
+  (a) the result of the blood test does not indicate that the person contravened a specified blood-alcohol limit; and
+  (b) the blood test—
+    (i) was taken under section 72(1)(a) and the enforcement officer is satisfied, on the evidence of a medical practitioner, that the person's failure or refusal to undergo an evidential breath test was because of—
+      (A) a pre-existing medical condition or pre-existing disability that precluded undergoing the test; or
+      (B) an injury, sustained in a motor vehicle accident that gave rise to the obligation to undergo the test; or
+    (ii) was taken under section 73.
 (2) For the purposes of subsection (1), the Minister of Police may from time to time, by notice in the Gazette, prescribe a fee for each type of blood test that is carried out under this Act.
 (3) The medical expenses referred to in subsection (1) may not exceed the actual and reasonable medical expenses associated with the taking of a blood specimen.
 
@@ -1792,7 +1817,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (1) An enforcement officer may require a person to accompany an enforcement officer to a place where it is likely that the person can undergo an evidential breath test or a blood test (or both) when required to do so by the officer, if,—
   (a) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, the person has undergone a breath screening test under section 68 and it appears to the officer that the breath of the person who underwent the test contains alcohol; or
   (aa) in the case of a person who is apparently younger than 20, the person has undergone a breath screening test under section 68 and it appears to the officer that the breath of the person who underwent the test contains alcohol; or
-  (ab) in the case of any other person, the person has undergone a breath screening test under section 68 and it appears to the officer that the proportion of alcohol in the breath of the person who underwent the test exceeds 400 micrograms of alcohol per litre of breath; or
+  (ab) in the case of any other person, the person has undergone a breath screening test under section 68 and it appears to the officer that the proportion of alcohol in the breath of the person who underwent the test exceeds 250 micrograms of alcohol per litre of breath; or
   (b)
   (c) the person fails or refuses to undergo a breath screening test without delay after having been required to do so by the officer under section 68; or
   (d) the person could be required to undergo a breath screening test without delay under section 68 but cannot be tested because either a breath screening device is not readily available or for any reason a breath screening test cannot then be carried out, and there is good cause to suspect that the person has consumed drink.
@@ -1803,6 +1828,11 @@ A court may impose a fine for an infringement offence, other than an overloading
 (4) If a person—an enforcement officer may require the person to undergo without delay at that place an evidential breath test (whether or not the person has already undergone a breath screening test).
   (a) has accompanied an enforcement officer to a place under this section; or
   (b) has been arrested under subsection (6) and taken to or detained at a place,—
+(4A) An enforcement officer who requires a person to undergo an evidential breath test under subsection (4) must, without delay, advise the person—
+  (a) that if the person fails or refuses to undergo the evidential breath test, the person will be required to permit the taking of a blood specimen under section 72(1)(a); and
+  (b) that if the result of a blood test indicates the presence of alcohol in the person’s blood the person may be issued with an infringement offence notice or charged with an offence, depending on the proportion of alcohol; and
+  (c) of the infringement fee payable for a breach of section 56(2B); and
+  (d) that the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of the blood test establishes that the person has committed an offence against this Act.
 (5) A person must—
   (a) accompany the officer to a place when required to do so under this section:
   (b) if the person has accompanied an enforcement officer to a place under this section, remain at that place until the person is required either to undergo an evidential breath test or a blood test under this Act, or to accompany an enforcement officer to another place under this section:
@@ -1815,11 +1845,15 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) A requirement made under subsection (1) is deemed to be a requirement under section 69(4).
 
 ### 70A Right to elect blood test
-(1) If the result of a person's evidential breath test appears to be positive, the person has the right, within 10 minutes of being advised by an enforcement officer of the matters specified in section 77(3)(a) (which sets out the conditions of the admissibility of the test), to elect to have a blood test to assess the proportion of alcohol in his or her blood.
-(2) This section is for the avoidance of doubt.
+(1) A person has the right, within 10 minutes of being advised by an enforcement officer of the matters specified in section 77(3)(a) (which sets out the conditions of the admissibility of the test), to elect to have a blood test to assess the proportion of alcohol in his or her blood, if the result of that person's evidential breath test appears to be positive, and—
+  (a) the result of the person's evidential breath test indicates that the proportion of alcohol in the person's breath exceeds 400 micrograms of alcohol per litre of breath; or
+  (b) the person is apparently younger than 20; or
+  (c) the person holds an alcohol interlock licence or a zero alcohol licence.
+(2) A person does not have the right to elect to have a blood test to assess the proportion of alcohol in his or her blood if the result of the person's positive evidential breath test indicates that the proportion of alcohol in the person's breath exceeds 250 micrograms of alcohol per litre of breath but does not exceed 400 micrograms of alcohol per litre of breath.
+(3) Subsection (2) does not apply to a person who is apparently younger than 20 or who holds an alcohol interlock licence or a zero alcohol licence.
 
 ### 71 Meaning of apparently younger than 20
-(1) For the purposes of section 69(1)(b), an enforcement officer is entitled to regard a person as being younger than 20 if—
+(1) For the purposes of section 69(1)(aa), an enforcement officer is entitled to regard a person as being younger than 20 if—
   (a) the person produces a driver licence showing that the person is younger than 20; or
   (b) the person produces a driver licence showing that the person is 20 or older, but the officer has good cause to suspect that the licence has been issued to some other person or is invalid or that the person who produced the licence is younger than 20; or
   (c) the person fails to produce a driver licence and is unable to satisfy the officer by some other means that the person is 20 or older.
@@ -1850,9 +1884,12 @@ A court may impose a fine for an infringement offence, other than an overloading
     (i) a medical practitioner has examined the person and believes that the person may be under the influence of drink or a drug, or both; or
     (ii) the person has refused to be examined by a medical practitioner for the purposes of this paragraph; or
   (e) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A.
+(1AA) Subsection (1)(b) does not apply in the case of a person (other than a person who is apparently younger than 20 or who holds an alcohol interlock licence or a zero alcohol licence) if the result of the evidential breath test under section 69(4) indicates that the proportion of alcohol in the person's breath exceeds 250 micrograms of alcohol per litre of breath but does not exceed 400 micrograms of alcohol per litre of breath.
 (1A) Subsection (1)(e) only applies if an enforcement officer has good cause to suspect that the person has consumed a drug or drugs.
 (1B) Subsection (1)(e) applies regardless of whether the person has failed any breath screening tests under section 68 or evidential breath tests under section 69 and regardless of the outcome of any such tests.
 (1C) An enforcement officer may exercise the powers in subsections (1) and (2) in addition to any breath screening tests under section 68 or evidential breath tests under section 69.
+(1D) An enforcement officer who advises a person of the matters specified in section 77(3)(a) (which sets out the conditions of the admissibility of an evidential breath test) must also, without delay, advise the person that if the person elects to have a blood test the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of that blood test establishes that the person has committed an offence against this Act.
+(1E) An enforcement officer who requires a person to permit the taking of a blood specimen under subsection (1)(c), (d), or (e) must advise the person that the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of the blood test establishes that the person has committed an offence against this Act.
 (2) A person who has been required by an enforcement officer under subsection (1) to permit the taking of a blood specimen must, without delay after being requested to do so by a medical practitioner or medical officer, permit that practitioner or medical officer to take a blood specimen from that person.
 (3) If it is not practicable for a blood specimen to be taken from a person by a medical practitioner or medical officer at a place where the person has been required under this section to permit the taking of a blood specimen, the person must accompany an enforcement officer to any other place where it is likely that a blood specimen can be taken from the person by a medical practitioner or medical officer if the officer requires the person to do so.
 (4) If a blood specimen taken under this section is insufficient for the purposes of the relevant blood specimen collecting procedure,—
@@ -1905,7 +1942,8 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
   (a) be made in writing to the Commissioner not later than 28 days after—
     (i) the date on which a summons in respect of an offence against this Act (which offence is an offence arising out of the circumstances in respect of which the blood specimen was taken) is served on the defendant; or
     (ii) if the defendant is arrested under a warrant under section 34 of the Criminal Procedure Act 2011 in respect of any such offence, the date on which the defendant is so arrested; or
-    (iii) in any case to which subparagraph (i) or subparagraph (ii) does not apply, the date on which the defendant is first charged in court with any such offence; and
+    (iia) in the case of an infringement offence, the date on which the defendant is served with an infringement notice in respect of the infringement offence; or
+    (iii) in any case to which subparagraph (i), (ii), or (iia) does not apply, the date on which the defendant is first charged in court with any such offence; and
   (b) state the full name and address and the occupation of the person and the date of the alleged offence; and
   (c) identify the private analyst to whom the part of the blood specimen is to be sent and the address of the private analyst.
 (8) A blood specimen sent to an approved laboratory under subsection (3) or subsection (4) may be destroyed at any time later than 1 year after the date the specimen was so sent.
@@ -1967,13 +2005,20 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 ### 77 Presumptions relating to alcohol-testing
 (1) For the purposes of proceedings for an offence against this Act arising out of the circumstances in respect of which an evidential breath test was undergone by the defendant, it is to be conclusively presumed that the proportion of alcohol in the defendant's breath at the time of the alleged offence was the same as the proportion of alcohol in the defendant's breath indicated by the test.
 (2) For the purposes of proceedings for an offence against this Act arising out of the circumstances in respect of which a blood specimen was taken from the defendant under section 72 or section 73, it is to be conclusively presumed that the proportion of alcohol in the defendant's blood at the time of the alleged offence was the same as the proportion of alcohol in the blood specimen taken from the defendant.
-(3) Except as provided in subsection (4), the result of a positive evidential breath test is not admissible in evidence in proceedings for an offence against any of sections 56 to 62 if—
-  (a) the person who underwent the test is not advised by an enforcement officer, without delay after the result of the test is ascertained, that the test was positive and that, if the person does not request a blood test within 10 minutes,—
-    (i) in the case of a positive test that indicates that the proportion of alcohol in the person's breath exceeds 400 micrograms of alcohol per litre of breath, the test could of itself be conclusive evidence to lead to that person's conviction for an offence against this Act; or
-    (ii) in the case of a positive test that indicates that the proportion of alcohol in the person's breath exceeds 150 but does not exceed 400 micrograms of alcohol per litre of breath, the test could of itself, unless the person is 20 or older, or holds an alcohol interlock licence or a zero alcohol licence, be conclusive evidence to lead to that person's conviction for an offence against this Act; or
+(3) Except as provided in subsections (3B) and (4), the result of a positive evidential breath test is not admissible in evidence in proceedings for an offence against any of sections 56 to 62 if—
+  (a) the person who underwent the test is not advised by an enforcement officer, without delay after the result of the test is ascertained,—
+    (i) that the test was positive; and
+    (ii) of the consequences specified in subsection (3A), so far as applicable, if he or she does not request a blood test within 10 minutes; or
   (b) the person who underwent the test—
     (i) advises an enforcement officer, within 10 minutes of being advised of the matters specified in paragraph (a), that the person wishes to undergo a blood test; and
     (ii) complies with section 72(2).
+(3A) The consequences referred to in subsection (3)(a)(ii) are—
+  (a) that the positive test could of itself be conclusive evidence to lead to that person's conviction for an offence against this Act if—
+    (i) the test indicates that the proportion of alcohol in the person's breath exceeds 400 micrograms of alcohol per litre of breath; or
+    (ii) the person is younger than 20 and the proportion of alcohol in the person's breath exceeds 150 micrograms of alcohol per litre of breath; or
+    (iii) the person holds an alcohol interlock licence or a zero alcohol licence:
+  (b) that the positive test could of itself be conclusive evidence that the person has committed an infringement offence against this Act if the person is younger than 20 and the test indicates that the person's breath contains alcohol but the proportion of alcohol does not exceed 150 micrograms of alcohol per litre of breath.
+(3B) Subsection (3) does not apply if the result of a positive evidential breath test indicates that the proportion of alcohol in a person's breath (other than a person who is apparently younger than 20 or who holds an alcohol interlock licence or a zero alcohol licence) exceeds 250 micrograms of alcohol per litre of breath, but does not exceed 400 micrograms of alcohol per litre of breath.
 (4) Subsection (3)(a) does not apply if the person who underwent the test fails or refuses to remain at the place where the person underwent the test until the person can be advised of the result of the test.
 (5)
 (6) If it is proved in proceedings for an offence against section 60 that the defendant failed or refused to comply with section 13 without reasonable cause, that failure or refusal may be treated as supporting any evidence given on behalf of the prosecution, or as rebutting any evidence given on behalf of the defendant, concerning the defendant's condition at the time of the alleged offence.
@@ -1997,7 +2042,7 @@ If a certificate referred to in section 143 is produced in proceedings for an of
     (iii) was suitable for analysis and that analysis was carried out but, for specified reasons, the results of the analysis are not available; or
   (c) the blood specimen received by the private analyst relating to the defendant has been analysed and found to contain,—
     (i) in the case of a defendant who (at the time of the commission of the offence) was younger than 20 or held an alcohol interlock licence or a zero alcohol licence, no alcohol; or
-    (ii) in any other case, not more than 80 milligrams of alcohol per 100 millilitres of blood; or
+    (ii) in any other case, not more than 50 milligrams of alcohol per 100 millilitres of blood; or
   (d) the blood specimen received by the private analyst relating to the defendant has been analysed and found to contain 20 milligrams or more of alcohol per 100 millilitres of blood more or less than the proportion of alcohol per 100 millilitres of blood specified in the certificate referred to in section 75(5); or
   (e) if a certificate certifies that there is evidence of a qualifying drug, the defendant’s blood specimen has been received and analysed by the private analyst and found to contain no evidence of a qualifying drug.
 (5) Where a blood specimen is destroyed in accordance with section 74(8), that act does not affect the admissibility in proceedings of a certificate given in respect of the specimen by an approved analyst for the purposes of this Act.
@@ -3113,7 +3158,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) direct the person to drive the vehicle to a specified place where the driver may obtain rest, or where the load on the vehicle or other conditions make it appropriate that the driver should drive to that place:
   (c) take possession of all ignition or other keys of the vehicle, and for that purpose require that person to deliver up immediately all such keys:
   (d) take such steps as may be necessary to render the vehicle immobile or to remove it to a place where it does not constitute a traffic hazard.
-(3) The period for which an enforcement officer forbids a person to drive under subsection (2)(a) must, where the result of an evidential breath test undergone by the person indicates that the proportion of alcohol in the person's breath exceeds 400 micrograms of alcohol per litre of breath, be a period of 12 hours, unless the enforcement officer is satisfied that there is good reason for imposing a shorter prohibition.
+(3) The period for which an enforcement officer forbids a person to drive under subsection (2)(a) must, where the person has undergone an evidential breath test and it appears to the enforcement officer that the test is positive, be a period of 12 hours, unless the enforcement officer is satisfied that there is good reason for imposing a shorter prohibition.
 (4) An enforcement officer may arrest without warrant a person who fails to comply with a direction given under this section or does or attempts to do any act that is for the time being forbidden under this section.
 
 ### 121A Enforcement officer may give directions or immobilise vehicle if driver breaches certain licence conditions
@@ -3832,7 +3877,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
 (2) The maximum number of demerit points that may be set by regulations made under subsection (1) in respect of any offence—
   (a) is 60 demerit points in the case of—
     (i) an offence against any of sections 35(1), 36(1), 38(1), and 39(1) (which relate to reckless or dangerous driving, careless or inconsiderate driving causing injury or death, and failing to stop after an accident):
-    (ii) an offence against any of sections 56(1), 56(2), 57A, 58(1), 60(1), 61(1), 61(2), 62(1), and 62(1B) (which relate to offences involving alcohol or drugs):
+    (ii) an offence against any of sections 56, 57, 57A, 58(1), 60(1), 61(1), 61(2), 62(1), and 62(1B) (which relate to offences involving alcohol or drugs):
     (iii) an offence against section 33(1) (which relates to applying for or obtaining a driver licence while disqualified from doing so):
     (iv) a first or second offence against section 32(1) (which relates to offences involving driving while disqualified or contrary to a limited licence or contrary to an alcohol interlock licence or a zero alcohol licence or while a licence is suspended or revoked) where the court does not order that the defendant be disqualified:
   (b) is 50 demerit points in the case of any other offence.
@@ -4131,9 +4176,9 @@ The functions of the Minister under this Act are—
   (a) may, with the general or special approval of that health authority, take for statistical or research purposes, whether in the hospital at which the practitioner or officer is employed or otherwise, a blood specimen from a person who the practitioner or officer believes is in the hospital at which the practitioner or officer is employed for examination, care, or treatment as a result of an accident involving a motor vehicle:
   (b) may, with the consent of a person from whom such a blood specimen may be taken under this subsection, take for such purposes a specimen of breath, saliva, urine, perspiration, or eye vapour from that person.
 (2) A blood, breath, saliva, urine, perspiration, or eye vapour specimen taken under this section must be labelled that it was taken for statistical or research purposes, and evidence as to the proportion of alcohol or of a drug found in that specimen is not admissible in any civil or criminal proceedings in any court or in proceedings before a person acting judicially.
-(2A) A constable or Police employee may, for research purposes, examine a breath specimen taken under section 68 or a blood specimen taken under section 72 or 73 to determine the alcohol level of any driver involved in a serious injury or fatal accident who the constable or Police employee believes has been drinking.
-(2B) If the breath screening test of the breath specimen examined under subsection (2A) produces a result between 250 micrograms and 400 micrograms of alcohol per litre of breath (both measures inclusive), the constable or Police employee (as the case may be) must forward the result and the relevant crash report to the Secretary.
-(2C) If the blood test of the blood specimen examined under subsection (2A) produces a result between 50 milligrams of alcohol per 100 millilitres of blood and 80 milligrams of alcohol per 100 millilitres of blood (both measures inclusive), the enforcement officer must forward the result and the relevant crash report to the Secretary.
+(2A)
+(2B)
+(2C)
 (3) Subsections (5) and (6) of section 73 apply to every blood, breath, saliva, urine, perspiration, or eye vapour specimen taken under this section as if the specimen had been taken under that section.
 (4) For the purposes of this section, a person acting judicially means any person having in New Zealand by law authority to hear, receive, and examine evidence.
 
