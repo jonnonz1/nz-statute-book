@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1990
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -17,7 +17,7 @@ In this Act, unless the context otherwise requires,—
   - **Post Office bonus bonds** means Post Office bonus bonds issued pursuant to the Post Office Act 1959 before 1 April 1987.
 
 ### 3 Meaning of approved unit trust
-(1) In this Act approved unit trust means a unit trust established under the Unit Trusts Act 1960 of which the Bank is the manager under which net income is distributed among the unit holders, in whole or in part, by prizes determined by ballot and which is approved for the purposes of this Act by the Minister by notice in the Gazette.
+(1) In this Act approved unit trust means a unit trust (within the meaning of section YA 1 of the Income Tax Act 2007) of which the Bank is the manager under which net income is distributed among the unit holders, in whole or in part, by prizes determined by ballot and which is approved for the purposes of this Act by the Minister by notice in the Gazette.
 (2) The Minister shall not approve, under subsection (1), a unit trust that makes provision for interests to be held by persons who become unit holders by reason only of having been the holders of bonus bonds or Post Office bonus bonds unless—
   (a) the Minister is satisfied that the rights conferred on those persons are not, subject to this Act, substantially different from the rights which those persons had as the holders of those bonds; and
   (b) the unit trust deed provides that, for at least 2 years after the appointed day, the unit trust is required, if requested to do so, to buy back or redeem those interests deemed to have been issued to those persons.
@@ -29,7 +29,7 @@ The Governor-General may from time to time, by Order in Council published in the
 ### 5 Holders of bonus bonds and Post Office bonus bonds to become unit holders in approved unit trust
 (1) On a date to be appointed by the Governor-General by Order in Council every person who, immediately before the date appointed, is the holder of a bonus bond or a Post Office bonus bond shall become the holder of a unit or units in an approved unit trust specified in the order corresponding in number to the number of units representing each dollar evidenced by the bond subject to all the rights and obligations attaching to that unit or those units by virtue of the unit trust as if that person had become the holder by subscription.
 (2) On the appointed day all rights and interests existing under and by virtue of bonus bonds or Post Office bonus bonds shall cease.
-(3) Every bonus bond or Post Office bonus bond, as the case may be, shall, on and after the appointed day, be deemed to be a certificate of interest for the purposes of section 13 of the Unit Trusts Act 1960.
+(3)
 (4) Nothing in this section limits or prevents the issue of units in an approved unit trust to persons other than persons previously holding bonus bonds or Post Office bonus bonds.
 
 ### 6 Guarantee by Crown
@@ -42,11 +42,7 @@ The Governor-General may from time to time, by Order in Council published in the
 (2) Except as provided in subsection (1), no person shall use the words bonus bond or bonus bonds or those words in combination with any other words in connection with the issue of securities by that person.
 
 ### 8 Application of section 11(2) of Unit Trusts Act 1960 from 1 October 1997
-(1) The Bank is exempted from compliance with section 11(2) of the Unit Trusts Act 1960 (as substituted by section 4(1) of the Unit Trusts Amendment Act 1996) in respect of an approved unit trust.
-(2) The exemption in subsection (1) is subject to the condition that the Bank supplies to a holder of a unit or units in an approved unit trust, on request, a copy of—
-  (a) the unit trust's most recent financial statements; and
-  (b) the auditor's report on those financial statements; and
-  (c) a summary of any amendments of the trust deed that have been made since the last balance date of the unit trust.
+[Repealed]
 
 ### 9 Application of Gambling Act 2003
 Nothing in the Gambling Act 2003 applies to, or in connection with,—
@@ -55,7 +51,7 @@ Nothing in the Gambling Act 2003 applies to, or in connection with,—
   (c) the holding of ballots for the distribution of prizes to the holders of such units.
 
 ### 9A Application of Securities Act 1978
-The Bank is exempted from compliance with section 54A of the Securities Act 1978 (as inserted by section 27 of the Securities Amendment Act 1996) in respect of any offer to the public within the meaning of the Securities Act 1978 of a unit in an approved unit trust.
+[Repealed]
 
 ### 10 Amendment to Income Tax Act 1976
 [Repealed]
