@@ -1,5 +1,5 @@
 # Unit Trusts Amendment Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2014-12-01_
 
 > An Act to amend the Unit Trusts Act 1960
 
