@@ -1,8 +1,8 @@
-# Securities Trustees and Statutory Supervisors Act 2011
-_Consolidation as at 2014-07-01_
+# Financial Markets Supervisors Act 2011
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
-This Act is the Securities Trustees and Statutory Supervisors Act 2011.
+This Act is the Financial Markets Supervisors Act 2011.
 
 ### 2 Commencement
 This Act comes into force on 1 October 2011.
@@ -10,50 +10,49 @@ This Act comes into force on 1 October 2011.
 ## Part 1 — Preliminary provisions
 
 ### 3 Purpose
-The purpose of this Act is to protect the interests of security holders, and of residents of retirement villages, and to enhance investor confidence in financial markets and retirement villages, by—
-  (a) requiring persons who wish to be appointed as trustees or statutory supervisors to be capable of effectively performing the functions of trustees or statutory supervisors; and
-  (b) requiring trustees and statutory supervisors to perform their functions effectively; and
-  (c) enabling trustees and statutory supervisors to be held accountable for any failure to perform their functions effectively.
+(1) The purpose of this Act is to protect the interests of product holders, and of residents of retirement villages, and to enhance investor confidence in financial markets and retirement villages, by—
+  (a) requiring persons who wish to be appointed as supervisors to be capable of effectively performing the functions of supervisors; and
+  (b) requiring supervisors to perform their functions effectively; and
+  (c) enabling supervisors to be held accountable for any failure to perform their functions effectively.
+(2) That purpose is additional to the purposes of the Financial Markets Conduct Act 2013 set out in sections 3 and 4 of that Act (which apply to this Act also).
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **deed of participation** means a deed of participation relating to a participatory security that is required under section 33(3) of the Securities Act 1978 and includes every instrument that amends the deed of participation
+  - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **deed of supervision** has the meaning given in section 5 of the Retirement Villages Act 2003 and includes every instrument that amends the deed of supervision
   - **deposit taker** means an NBDT as defined in section 5 of the Non-bank Deposit Takers Act 2013
+  - **financial product** has the same meaning as in section 7 of the Financial Markets Conduct Act 2013
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **FMA appointee** has the meaning given in section 37(1)
   - **governing document** means, as the context requires,—
-    (a) a trust deed:
-    (b) a deed of participation:
-    (c) a deed of supervision
-  - **issuer** has the meaning given in section 2(1) of the Securities Act 1978
-  - **issuer obligation** means an obligation imposed on the issuer of a security by or under any or all of the following:
-    (a) the governing document that relates to the security:
-    (b) the terms of any offer of the security:
-    (c) a court order relating to the security:
+    (a) a governing document within the meaning of section 6(1) of the Financial Markets Conduct Act 2013:
+    (b) a deed of supervision
+  - **issuer** ,—
+    (a) in respect of a debt security, means the issuer of the debt security within the meaning of section 11 of the Financial Markets Conduct Act 2013:
+    (b) in respect of a registered scheme, means the manager of the scheme within the meaning of section 6(1) of the Financial Markets Conduct Act 2013
+  - **issuer obligation** means an obligation imposed on the issuer of a financial product by or under any or all of the following:
+    (a) the governing document that relates to the product:
+    (b) the terms of any offer of the product:
+    (c) a court order relating to the product:
     (d) this Act:
-    (e) the KiwiSaver Act 2006:
-    (f) the Non-bank Deposit Takers Act 2013:
-    (g) the Securities Act 1978:
-    (h) the Unit Trusts Act 1960
-  - **KiwiSaver scheme** means a KiwiSaver scheme other than a restricted KiwiSaver scheme (within the meanings given to those terms in section 4(1) of the KiwiSaver Act 2006)
-  - **KiwiSaver trustee** means a person who is designated or appointed as trustee of a KiwiSaver scheme or the successor of that person
+    (e) the Financial Markets Conduct Act 2013:
+    (f) the KiwiSaver Act 2006:
+    (g) the Non-bank Deposit Takers Act 2013
   - **licence** means a licence issued under section 16, and includes a temporary licence
   - **licensee** —
-    (a) means a trustee or statutory supervisor that holds a licence; and
+    (a) means a supervisor that holds a licence; and
     (b) includes an FMA appointee, whether or not that appointee holds a licence
   - **licensee obligation** means an obligation imposed on a licensee by or under any or all of the following:
     (a) every governing document:
-    (b) the terms of the offer of the security:
+    (b) the terms of the offer of the financial product:
     (c) a court order relating to a supervised interest:
     (d) this Act:
-    (e) the KiwiSaver Act 2006:
-    (f) the Non-bank Deposit Takers Act 2013:
-    (g) the Retirement Villages Act 2003:
-    (h) the Securities Act 1978:
-    (i) the Unit Trusts Act 1960
+    (e) the Financial Markets Conduct Act 2013:
+    (f) the KiwiSaver Act 2006:
+    (g) the Non-bank Deposit Takers Act 2013:
+    (h) the Retirement Villages Act 2003
   - **material change of circumstances** , in relation to a licensee, means—
-    (a) a change that adversely affects the licensee's capacity effectively to perform the functions of a trustee or statutory supervisor in respect of a security, or of a statutory supervisor in respect of a retirement village, covered by the licence; or
+    (a) a change that adversely affects the licensee's capacity effectively to perform the functions of a supervisor in respect of a debt security or registered scheme, or of a statutory supervisor in respect of a retirement village, covered by the licence; or
     (b) a change that means that the licensee no longer meets the requirements referred to in section 16(2)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **operator** has the meaning given in section 5 of the Retirement Villages Act 2003
@@ -63,85 +62,65 @@ The purpose of this Act is to protect the interests of security holders, and of 
     (c) this Act:
     (d) the Retirement Villages Act 2003
   - **prescribed** means prescribed in regulations made under this Act
+  - **product holder** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
+  - **registered scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **resident** has the meaning given in section 5 of the Retirement Villages Act 2003
-  - **restricted scheme** has the meaning given in section 4(1) of the KiwiSaver Act 2006
   - **retirement village** has the meaning given in section 6 of the Retirement Villages Act 2003
-  - **security** means—
-    (a) a debt security:
-    (b) a participatory security:
-    (c) a unit in a unit trust:
-    (d) an interest in a KiwiSaver scheme
-  - **statutory supervisor** means,—
-    (a) in relation to a participatory security, a statutory supervisor as defined in section 2(1) of the Securities Act 1978:
-    (b) in relation to a retirement village, a statutory supervisor as defined in section 5 of the Retirement Villages Act 2003
   - **supervised interest** means,—
-    (a) in relation to a trustee or statutory supervisor of a security (T), a security in respect of which T is the trustee or statutory supervisor:
+    (a) in relation to a supervisor of a debt security or registered scheme (S), a debt security or scheme in respect of which S is the supervisor:
     (b) in relation to a statutory supervisor of a retirement village (S), a retirement village in respect of which S is the statutory supervisor
-  - **supervised issuer** , in relation to a trustee or statutory supervisor of a security, means the issuer of a supervised interest that is a security
+  - **supervised issuer** , in relation to a supervisor of a debt security or registered scheme, means the issuer of the debt security or managed investment products in the scheme
+  - **supervisor** or means,—
+    (a) in relation to a debt security or registered scheme, a supervisor within the meaning of section 6(1) of the Financial Markets Conduct Act 2013:
+    (b) in relation to a retirement village, a statutory supervisor as defined in section 5 of the Retirement Villages Act 2003
   - **temporary licence** has the meaning given in section 54
-  - **trust deed** ,—
-    (a) in relation to a debt security, has the meaning given in section 2(1) of the Securities Act 1978 and includes every instrument that amends the trust deed:
-    (b) in relation to a KiwiSaver scheme, has the meaning given in section 4(1) of the KiwiSaver Act 2006:
-    (c) in relation to a unit trust, has the meaning given in section 2(1) of the Unit Trusts Act 1960
-  - **trustee** means—
-    (a) a trustee, as defined in section 2(1) of the Securities Act 1978; and
-    (b) a unit trustee; and
-    (c) a KiwiSaver trustee
-  - **unit trustee** has the same meaning as the meaning of in section 2(1) of the Unit Trusts Act 1960
   - **vary** , in relation to a licence, includes—
     (a) imposing a condition on the licence; and
     (b) varying or removing a condition previously imposed on the licence.
-(2) Unless the context otherwise requires, a term or expression that is defined in the Securities Act 1978 (in relation to securities) or the Retirement Villages Act 2003 (in relation to retirement villages) and used, but not defined, in this Act has the same meaning as in those Acts.
+(2) Unless the context otherwise requires, a term or expression that is defined in the Financial Markets Conduct Act 2013 (in relation to financial products) or the Retirement Villages Act 2003 (in relation to retirement villages) and used, but not defined, in this Act has the same meaning as in those Acts.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
 
-## Part 2 — Regulation of trustees and statutory supervisors
+## Part 2 — Regulation of supervisors
 
-### Subpart 1 — Licensing of trustees and statutory supervisors
+### Subpart 1 — Licensing of supervisors
 
 **Requirement to be licensed, etc**
 
-### 6 Trustee or statutory supervisor must be licensed
-(1) A trustee or statutory supervisor in respect of a security must hold a licence that covers the security.
-(2) A statutory supervisor in respect of a retirement village must hold a licence that covers the retirement village.
+### 6 Supervisor must be licensed
+(1) A supervisor in respect of a debt security must hold a licence that covers supervision of the security.
+(2) A supervisor in respect of a registered scheme must hold a licence that covers supervision of the scheme.
+(3) A statutory supervisor in respect of a retirement village must hold a licence that covers supervision of the retirement village.
+(4) A contravention of this section may give rise to a pecuniary penalty under section 41.
 
 ### 7 Licensee must comply with conditions imposed on licence
-A licensee must comply with every condition imposed on the licence.
+A licensee must comply with—
+  (a) every condition imposed on the licence by the FMA under section 11; and
+  (b) every condition imposed on the licence by regulations made under this Act (if any).
 
-### 8 Requirement to be licensed: offences
-(1) A person commits an offence if—
-  (a) the person is a trustee or statutory supervisor in respect of a security; and
-  (b) the person does not hold a licence that covers the security.
-(2) A person commits an offence if—
-  (a) the person is a statutory supervisor in respect of a retirement village; and
-  (b) the person does not hold a licence that covers the retirement village.
-(3) A person commits an offence if—
-  (a) the person represents that the person is licensed to be a trustee or statutory supervisor in respect of a security; and
-  (b) the person does not hold a licence that covers the security.
-(4) A person commits an offence if—
-  (a) the person represents that the person is licensed to be a statutory supervisor in respect of a retirement village; and
-  (b) the person does not hold a licence that covers the retirement village.
-(5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $300,000.
+### 8 Prohibition on holding out
+(1) A person must not represent that the person is licensed to be a supervisor in respect of a debt security, registered scheme, or retirement village if the person does not hold a licence that covers supervision of the debt security, registered scheme, or retirement village.
+(2) A contravention of this section may give rise to a pecuniary penalty under section 41.
 
 ### 9 Requirement to be licensed: exception for certain FMA appointees
-Sections 6 and 8(1) and (2) do not apply to a person appointed as an FMA appointee under section 22 or 37.
+Section 6 does not apply to a person appointed as an FMA appointee under section 22 or 37.
 
 **Licences: general**
 
-### 10 FMA may license trustee, etc
+### 10 FMA may license supervisors
 (1) The FMA may license a person to be 1 or more of the following:
-  (a) a trustee in respect of debt securities:
-  (b) a statutory supervisor in respect of participatory securities:
-  (c) a trustee in respect of units in unit trusts:
-  (d) a KiwiSaver trustee:
-  (e) a statutory supervisor in respect of retirement villages.
-(2) A licence may cover all securities, all retirement villages, or any 1 or more of the following:
-  (a) securities of 1 or more classes:
-  (b) 1 or more particular issues of securities:
-  (c) retirement villages of 1 or more classes:
-  (d) 1 or more particular retirement villages.
-(3) A class may be defined (to include or exclude a security or retirement village) in any way, including, without limitation, by reference to—
+  (a) a supervisor in respect of debt securities:
+  (b) a supervisor in respect of registered schemes:
+  (c) a statutory supervisor in respect of retirement villages.
+(2) A licence may cover supervision of all debt securities, all registered schemes, all retirement villages, or any 1 or more of the following:
+  (a) debt securities of 1 or more classes:
+  (b) 1 or more particular issues of debt securities:
+  (c) registered schemes of 1 or more classes:
+  (d) 1 or more particular registered schemes:
+  (e) retirement villages of 1 or more classes:
+  (f) 1 or more particular retirement villages.
+(3) A class may be defined (to include or exclude supervision of a debt security, registered scheme, or retirement village) in any way, including, without limitation, by reference to—
   (a) a particular issuer or operator; or
   (b) a particular class of issuer or operator.
 
@@ -150,12 +129,13 @@ Sections 6 and 8(1) and (2) do not apply to a person appointed as an FMA appoint
 (2) The FMA may impose conditions that—
   (a) limit a licence:
   (b) apply only if the licensee is appointed as—
-    (i) trustee or statutory supervisor in respect of a particular security or class of security; or
+    (i) supervisor in respect of a particular debt security or class of debt security; or
+    (ia) supervisor in respect of a particular registered scheme or class of registered scheme; or
     (ii) statutory supervisor in respect of a particular retirement village or class of retirement village.
 (3) Subsection (2) does not limit subsection (1).
 (4) Examples of the conditions that the FMA may impose on a licence under subsection (2)(a) include, without limitation, conditions—
-  (a) limiting the number of appointments as trustee or statutory supervisor that may be held by the licensee:
-  (b) setting a maximum value for supervised interests that are securities:
+  (a) limiting the number of appointments as supervisor that may be held by the licensee:
+  (b) setting a maximum value for supervised interests that are debt securities or registered schemes:
   (c) limiting the number of retirement villages in respect of which the statutory supervisor may hold a licence:
   (d) relating to the matters listed in section 16(3).
 
@@ -169,9 +149,10 @@ Sections 6 and 8(1) and (2) do not apply to a person appointed as an FMA appoint
 ### 13 Information to be stated in licence
 A licence must state the following information:
   (a) the name of the licensee:
-  (b) in the case of securities, the security or securities covered by the licence:
-  (c) in the case of retirement villages, the retirement village or villages covered by the licence:
-  (d) the conditions (if any) imposed on the licence:
+  (b) in the case of debt securities, the debt security or debt securities the supervision of which is covered by the licence:
+  (c) in the case of registered schemes, the scheme or schemes the supervision of which is covered by the licence:
+  (ca) in the case of retirement villages, the retirement village or villages the supervision of which is covered by the licence:
+  (d) the conditions (if any) imposed on the licence by the FMA under section 11:
   (e) the date on which the licence takes effect:
   (f) the date on which the fixed period for which the licence is issued ends:
   (g) the date by which the first report under section 25 must be delivered.
@@ -181,8 +162,8 @@ A licence must state the following information:
 (2) If the FMA varies a licence, the FMA must send a replacement licence to the licensee.
 (3) If the FMA cancels a licence, the FMA must notify the former licensee.
 (4) In addition to the requirements of subsections (1) to (3), the FMA must send details of the licence or the replacement licence or notification of the cancellation (as the case may be) to—
-  (a) the Registrar of Financial Service Providers, if the licence relates to a security; and
-  (b) the Reserve Bank of New Zealand, if the licensee is, or was, the trustee of a deposit taker; and
+  (a) the Registrar of Financial Service Providers, if the licence relates to a debt security or registered scheme; and
+  (b) the Reserve Bank of New Zealand, if the licensee is, or was, the supervisor of a debt security issued by a deposit taker; and
   (c) the Registrar of Retirement Villages, if the licensee is, or was, the statutory supervisor of a retirement village.
 (5) The FMA may publicly notify any details about a licence (including the information referred to in section 13 and details relating to the variation or cancellation of a licence) as it thinks fit.
 
@@ -199,29 +180,27 @@ A licence must state the following information:
 
 ### 16 Decision on application for, or to vary, licence
 (1) The FMA may issue or vary a licence only if the FMA is satisfied that, having regard to any conditions imposed on the licence, the applicant is capable of effectively performing (or will, after the variation, be capable of effectively performing)—
-  (a) the functions of a trustee or statutory supervisor in respect of securities covered by the licence:
-  (b) the functions of a statutory supervisor in respect of retirement villages covered by the licence.
+  (a) the functions of a supervisor in respect of debt securities or registered schemes the supervision of which is covered by the licence:
+  (b) the functions of a statutory supervisor in respect of retirement villages the supervision of which is covered by the licence.
 (2) Despite subsection (1), the FMA may not issue a licence unless the FMA is satisfied that the applicant meets the following requirements:
   (a) the applicant is—
     (i) a body corporate that is incorporated in New Zealand; or
     (ii) an overseas company (as defined in the Companies Act 1993) registered under that Act:
   (b) every director and senior manager of the applicant is of good character:
-  (c) in the case of an applicant for a licence that covers a security, the applicant—
-    (i) is registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008; or
-    (ii) complies with section 13(a) of that Act:
-  (d) in the case of an applicant for a licence that covers a retirement village, the applicant complies with section 13(a) of the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
+  (c) in the case of an applicant for a licence that covers supervision of a debt security or a registered scheme, the applicant is, or will be, registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 on and from commencing to perform the functions of a supervisor:
+  (d) in the case of an applicant for a licence that covers supervision of a retirement village, the applicant complies with section 13(a) of the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
 (3) Before making a decision under subsection (1), the FMA must assess the following matters:
   (a) the experience, skills, and qualifications of the applicant (including, in particular, of the applicant's directors and senior managers):
   (b) the financial resources available to the applicant:
   (c) the other resources available to the applicant:
   (d) the applicant's procedures for ensuring that the applicant complies with the licensee obligations:
   (e) the applicant's procedures for ensuring that,—
-    (i) in the case of a licence relating to securities, issuers of those securities comply with the issuer obligations; and
+    (i) in the case of a licence relating to debt securities or registered schemes, issuers of those debt securities or of managed investment products in those schemes comply with the issuer obligations; and
     (ii) in the case of a licence relating to retirement villages, operators of those retirement villages comply with the operator obligations:
   (f) the applicant's independence from issuers, or from operators, covered by the licence:
   (g) the applicant's governance structure:
   (h) the applicant's professional indemnity insurance:
-  (i) other prescribed matters relating to the applicant, securities, or retirement villages covered by the licence, and issuers or operators covered by the licence:
+  (i) other prescribed matters that relate to the applicant, to debt securities, registered schemes, or retirement villages the supervision of which is covered by the licence, and to issuers or operators covered by the licence:
   (j) any other matter that the FMA considers is material.
 (4) In this section,—
   - **director** has the meaning given in section 126 of the Companies Act 1993, but also includes, in the case of a body corporate that is not a company, a person (including a delegate) who occupies a position comparable to that of a director
@@ -229,12 +208,12 @@ A licence must state the following information:
 
 ### 17 Application to cancel licence
 (1) The FMA may cancel a licence on the written application of the licensee.
-(2) Before cancelling a licence under subsection (1), the FMA must be satisfied that the licensee does not hold an appointment as a trustee or statutory supervisor.
+(2) Before cancelling a licence under subsection (1), the FMA must be satisfied that the licensee does not hold an appointment as a supervisor.
 
 ### 18 Notice, consultation, and submissions concerning decision under section 16(1)
 (1) Before making a decision under section 16(1), the FMA must consult with, and take into account the views of,—
-  (a) the Reserve Bank of New Zealand, if the application relates to a licence that covers a debt security issued by a deposit taker:
-  (b) the Registrar of Retirement Villages, if the application relates to a licence that covers a retirement village.
+  (a) the Reserve Bank of New Zealand, if the application relates to a licence that covers supervision of a debt security issued by a deposit taker:
+  (b) the Registrar of Retirement Villages, if the application relates to a licence that covers supervision of a retirement village.
 (2) The FMA may decline to issue a licence, or may issue a licence other than as proposed in the application, only if the FMA gives the applicant—
   (a) at least 10 working days' written notice of the following matters before the FMA makes a decision under section 16(1):
     (i) that the FMA may decline to issue a licence, or may issue a licence other than as proposed in the application; and
@@ -247,55 +226,69 @@ A licence must state the following information:
 
 ### 19 Appeal to High Court against FMA's decision on application
 (1) An applicant may appeal to the High Court no later than 20 working days, or such further period as the court may allow, after receiving written notice of the decision under section 18(3).
-(2) If a trustee or statutory supervisor in respect of a security or retirement village lodges an appeal against a decision not to issue a new licence that covers the security or retirement village, the court may extend the validity of the trustee's or supervisor's current licence, to the extent that it covers the security or retirement village, until the appeal has been determined or withdrawn.
+(2) If a supervisor in respect of a debt security, registered scheme, or retirement village lodges an appeal against a decision not to issue a new licence that covers supervision of the debt security, scheme, or retirement village, the court may extend the validity of the supervisor's current licence, to the extent that it covers supervision of the debt security, scheme, or retirement village, until the appeal has been determined or withdrawn.
 (3) A decision against which an appeal is lodged remains valid pending the determination of the appeal unless the court orders otherwise.
 (4) On appeal, the court may—
   (a) confirm, cancel, or vary the decision; or
   (b) refer the decision back to the FMA with a direction to reconsider the whole or a specified part of the decision.
 
-**Expiry of licences**
+**Expiry of licences and temporary appointment powers for expiries and other vacancies**
 
 ### 20 Effect of expiry of licence
-(1) The expiry of the licence of a person who holds an appointment as a trustee or statutory supervisor does not, of itself, terminate the appointment (but, if the person continues to hold the appointment and does not obtain a new licence, the person breaches section 6).
+(1) The expiry of the licence of a person who holds an appointment as a supervisor does not, of itself, terminate the appointment (but, if the person continues to hold the appointment and does not obtain a new licence, the person breaches section 6).
 (2) This section is for the avoidance of doubt.
 
 ### 21 Licensee must apply for new licence or notify issuer or operator before licence expires
-(1) A licensee appointed as a trustee or statutory supervisor in respect of a security or retirement village must, between 9 and 12 months before the expiry date of the licence, either—
-  (a) make an application under section 16 for a new licence that covers that security or retirement village; or
-  (b) notify the issuer of that security or the operator of that retirement village (as the case may be) and the FMA, in writing, that the licensee does not intend to make the application referred to in paragraph (a).
+(1) A licensee appointed as a supervisor in respect of a debt security, registered scheme, or retirement village must, between 9 and 12 months before the expiry date of the licence,—
+  (a) make an application under section 15 for a new licence that covers supervision of that debt security, scheme, or retirement village; or
+  (b) notify the issuer of the debt security or managed investment products in the scheme or the operator of that retirement village (as the case may be) and the FMA, in writing, that the licensee does not intend to make the application referred to in paragraph (a).
 (2) If the licensee makes an application referred to in subsection (1)(a), the FMA must make a decision on the application no later than 3 months before the expiry date.
 (3) In this section, expiry date means the date on which the fixed period for which a licence is issued under section 16 ends.
 
-### 22 Rejection of application for new licence: FMA may replace existing appointee
+### 22 FMA may make temporary appointment
 (1) This section applies if—
-  (a) the FMA rejects an application by a trustee or statutory supervisor in respect of a security, or a statutory supervisor in respect of a retirement village, (the existing appointee) for a new licence that covers the security or retirement village; and
-  (b) the existing appointee no longer holds a licence that covers the security or retirement village; and
-  (c) the existing appointee has not been replaced.
-(2) The FMA may—
-  (a) remove the existing appointee as trustee or statutory supervisor in respect of the security, or as statutory supervisor in respect of the retirement village, by written notice to the existing appointee; and
-  (b) appoint a person (the FMA appointee) to that position for a period of 6 months.
-(3) Before making an appointment under subsection (2)(b), the FMA must, if the FMA considers it practicable to do so, consult the relevant issuer or operator.
-(4) The FMA must, as soon as practicable after making the appointment, notify the issuer of the security, or the operator of the retirement village, of the appointment.
-(5) The issuer or operator must reimburse the FMA for the FMA appointee's charges during the period of the FMA appointee's appointment; and the amount due is recoverable as a debt due to the FMA.
-(6) Subject to subsection (7), the FMA appointee is bound by the terms of the governing document under which the existing appointee was appointed.
+  (a) all of the following are satisfied in relation to a supervisor in respect of a debt security or registered scheme or a statutory supervisor in respect of a retirement village (the existing appointee):
+    (i) the FMA rejects an application by the existing appointee for a new licence that covers supervision of the debt security, scheme, or retirement village; and
+    (ii) the existing appointee no longer holds a licence that covers supervision of the debt security, registered scheme, or retirement village; and
+    (iii) the existing appointee has not been replaced; or
+  (b) the existing appointee wishes, at any time, to resign, ceases to carry on business, refuses to act as a supervisor, or is for any reason incapable of acting as a supervisor and the existing appointee has not been replaced; or
+  (c) a debt security, a registered scheme, or a retirement village does not, for any reason, have a supervisor.
+(2) The FMA may,—
+  (a) in the case of subsection (1)(a) or (b), remove an existing appointee as supervisor in respect of the debt security or registered scheme, or as statutory supervisor in respect of the retirement village, by written notice to the existing appointee; and
+  (b) in any case, appoint a person (the FMA appointee) to the position of supervisor of the debt security, registered scheme, or retirement village for a period of 6 months; and
+  (c) if the FMA considers it necessary or desirable in the circumstances, reappoint the FMA appointee (as an FMA appointee) to the position of supervisor of the debt security, registered scheme, or retirement village for a further period that the FMA thinks fit (and a reappointment under this paragraph may be made on 1 or more occasions).
+(3) Before making an appointment under subsection (2)(b) or (c), the FMA must, if the FMA considers it practicable to do so, consult the relevant issuer or operator.
+(3A) The FMA's ability to set preconditions on requests to it under subsection (1)(b) includes (without limitation) a discretion to set preconditions that satisfy the FMA that—
+  (a) it is appropriate for the replacement of the existing appointee to be done under this section rather than by means of another power or process; and
+  (b) the FMA appointee’s costs and charges (including for any appointment on a continuing basis referred to in subsection (9)(b)), and any costs of the FMA in connection with the appointment, will be met by the issuer or operator, under subsection (5), or by the existing appointee; and
+  (c) a suitable bond has been, or will be, paid to secure—
+    (i) the performance of any indemnity or other obligation in connection with the costs or changes referred to in paragraph (b):
+    (ii) compliance with any other preconditions.
+(4) The FMA must, as soon as practicable after making the appointment, notify the issuer or the operator of the appointment.
+(5) The issuer or operator must reimburse the FMA for—
+  (a) the FMA appointee's costs and charges that are paid by the FMA; and
+  (b) any costs of the FMA in connection with the appointment.
+(5A) An amount payable under subsection (5) must be paid by the date specified for payment in an invoice given to the issuer or operator by the FMA and is recoverable as a debt due to the FMA.
+(6) Subject to subsection (7), the FMA appointee is bound by the terms of the governing document relating to the debt security, registered scheme, or retirement village.
 (7) The FMA may approve a change to those terms (including a change that increases the charges payable to the FMA appointee) during the period of the FMA appointee's appointment if—
   (a) the issuer or operator (as the case may be) and the FMA appointee agree that the change should be made; and
-  (b) the FMA is satisfied that the change will have no significant adverse effect on the interests of holders of the security or on the interests of residents of the retirement village.
+  (b) the FMA is satisfied that the change will have no significant adverse effect on the interests of holders of the debt security or managed investment product or on the interests of residents of the retirement village.
 (8) The power in subsection (7) may be exercised to approve a change to the terms of the governing document despite anything to the contrary in the document.
-(9) Before the end of the 6-month appointment, the issuer or the operator must either—
+(9) Before the appointment of the FMA appointee under subsection (2) finally comes to an end (taking into account any reappointment under subsection (2)(c)), the issuer or the operator must either—
   (a) appoint a licensee as a replacement for the FMA appointee; or
-  (b) appoint the FMA appointee as the trustee or statutory supervisor on a continuing basis (provided that the FMA appointee holds a licence that covers the security or retirement village).
+  (b) appoint the FMA appointee as the supervisor on a continuing basis (provided that the FMA appointee holds a licence that covers supervision of the debt security, registered scheme, or retirement village).
 (10) Despite sections 6 and 16(2), the FMA may appoint, as an FMA appointee, any person (including a natural person) that the FMA considers appropriate in the circumstances, whether or not that person holds a licence.
+(11) If the FMA appointee does not hold a licence, the FMA appointee must, for the purposes of the Financial Markets Conduct Act 2013 and the Retirement Villages Act 2003, be treated as holding a licence that covers supervision of the debt security, registered scheme, or retirement village (as the case may be).
 
-### 23 Expiry of licence: issuer or operator may replace existing appointee or FMA appointee
+### 23 Issuer or operator may replace existing appointee or FMA appointee
 (1) This section applies if—
-  (a) the licence of a trustee or statutory supervisor in respect of a security or of a statutory supervisor of a retirement village (the existing appointee) is due to expire; and
-  (b) the existing appointee will, on the expiry of the licence, no longer hold a licence that covers the security or the retirement village.
+  (a) the licence of a supervisor in respect of a debt security or registered scheme or of a statutory supervisor of a retirement village (the existing appointee) is due to expire; and
+  (b) the existing appointee will, on the expiry of the licence, no longer hold a licence that covers supervision of the debt security, registered scheme, or retirement village.
 (2) For the purposes of subsection (1)(a), a licence is due to expire if—
-  (a) the licensee has given notice in accordance with section 21(1)(b) (notice that the licensee does not intend to apply for a new licence that covers the security or retirement village); or
+  (a) the licensee has given notice in accordance with section 21(1)(b) (notice that the licensee does not intend to apply for a new licence that covers supervision of the debt security, registered scheme, or retirement village); or
   (b) the FMA has given notice in accordance with section 18(3)(b) (notice that the FMA will not be issuing a new licence as proposed in the application).
-(3) This section also applies if an FMA appointee has been appointed by the FMA under section 22(2)(b).
-(4) If the issuer of the security or the operator of the retirement village appoints a person (the new appointee) as the trustee or statutory supervisor in place of the existing appointee or FMA appointee, and the new appointee accepts the appointment, the issuer or operator may remove the existing appointee or FMA appointee by written notice to the existing appointee or FMA appointee.
+(3) This section also applies if an FMA appointee has been appointed by the FMA under section 22(2)(b) or (c).
+(4) If the issuer of the debt security or managed investment products, or the operator of the retirement village, appoints a person (the new appointee) as the supervisor in place of the existing appointee or the FMA appointee, and the new appointee accepts the appointment, the issuer or operator may remove the existing appointee or the FMA appointee by written notice to the existing appointee or the FMA appointee.
 (5) An appointment under subsection (4) must be made in accordance with the relevant governing document.
 (6) The issuer or operator must, as soon as practicable after giving the written notice, give a copy of the notice to the FMA.
 (7) The removal of the existing appointee takes effect on the date stated in, or calculated in accordance with, the notice.
@@ -304,18 +297,20 @@ A licence must state the following information:
 (10) The power in subsection (4) may be exercised to remove the existing appointee or FMA appointee despite anything to the contrary in the governing document.
 (11) Nothing in this section limits the issuer's or operator's power to remove the existing appointee apart from under this section.
 
-### 24 Expiry of licence: existing appointee must provide documents
+### 24 Existing appointee must provide documents
 (1) The FMA appointee may, by giving notice in writing to the existing appointee, require the existing appointee to provide the FMA appointee, at the existing appointee's expense, with all documents held by, or in the control of, the existing appointee that relate to the functions of the position to which the FMA appointee has been appointed.
 (2) The new appointee may, by giving notice in writing to the existing appointee or FMA appointee (person A), require person A to provide the new appointee, at person A's expense, with all documents held by, or in the control of, person A that relate to the functions of the position to which the new appointee has been appointed.
 (3) A notice under this section—
   (a) must be given no later than 6 months after the date of the appointment of the person who gives the notice:
   (b) ceases to be effective if the person who gives the notice ceases to hold the position referred to in subsection (1) or (2):
   (c) must specify a reasonable time within which the documents must be provided.
-(4) A person who, without reasonable excuse, fails to comply with a notice under this section commits an offence and is liable on conviction to a fine not exceeding $100,000.
+(4) An existing appointee or an FMA appointee to whom a notice is given under subsection (1) or (2) must comply with the notice.
 (5) A document provided pursuant to a notice under this section may be used only for the purpose of performing the functions of the position referred to in subsection (1) or (2).
-(6) A person who, without reasonable excuse, uses a document provided pursuant to a notice under this section other than for the purpose of performing the functions of the position to which the FMA appointee or new appointee has been appointed commits an offence and is liable on conviction to a fine not exceeding $100,000.
+(6) A contravention of subsection (4) or (5) may give rise to a pecuniary penalty under section 41.
 (7) In this section,—
-  - **existing appointee** has the meaning given in section 22(1)(a) or 23(1)(a)
+  - **existing appointee** —
+    (a) has the meaning given in section 22(1)(a) or 23(1)(a); and
+    (b) includes, in relation to an FMA appointee who is appointed in the circumstances referred to in section 22(1)(c), the person who held the position of supervisor of the debt security, registered scheme, or retirement village before the FMA appointee was appointed
   - **FMA appointee** has the meaning given in section 22(2)(b)
   - **new appointee** has the meaning given in section 23(4).
 
@@ -396,14 +391,15 @@ A licence must state the following information:
   (c) if the licensee—
     (i) fails to submit or amend an action plan by the date specified by the FMA; or
     (ii) fails to comply with an action plan by the date specified in the plan; or
-    (iii) fails to comply with a direction of the FMA under section 29, 36, or 49 by the date specified in the direction; or
+    (iii) fails to comply with a direction of the FMA under section 29 or 36 by the date specified in the direction; or
+    (iiia) fails to comply with a direction of the FMA under section 205 of the Financial Markets Conduct Act 2013 by the date specified in the direction; or
     (iv) is in administration, receivership, or liquidation, or is subject to statutory management, or enters any other process (whether in New Zealand or another country) under which the assets and affairs of the licensee are administered, or the assets of the licensee are realised, for the benefit of creditors of the licensee.
 (2) The FMA may vary a licence only if the FMA gives the applicant—
   (a) at least 10 working days' written notice of the following matters before the FMA varies the licence:
     (i) that the FMA may vary the licence; and
     (ii) the reasons why it is considering taking that action; and
   (b) an opportunity to make written submissions and to be heard on the matter within that notice period.
-(3) Subject to subsection (4), the FMA must exercise the power to vary a licence so that (after the licence is varied) the FMA is satisfied that, having regard to any conditions imposed on the licence, the licensee is capable of effectively performing the functions of a trustee or statutory supervisor in respect of securities, or of a statutory supervisor in respect of retirement villages, covered by the licence.
+(3) Subject to subsection (4), the FMA must exercise the power to vary a licence so that (after the licence is varied) the FMA is satisfied that, having regard to any conditions imposed on the licence, the licensee is capable of effectively performing the functions of a supervisor in respect of debt securities or registered schemes, or of a statutory supervisor in respect of retirement villages, covered by the licence.
 (4) The FMA may not vary a licence so that the licence ceases to cover a supervised interest.
 (5) The notice under subsection (1) must state,—
   (a) if subsection (1)(a) applies, the material change of circumstances or information that the FMA considers was wrong, misleading, or incomplete; and
@@ -424,7 +420,8 @@ A licence must state the following information:
 (1) This section applies if a licensee—
   (a) fails to submit or amend an action plan by the date specified by the FMA; or
   (b) fails to comply with an action plan by the date specified in the plan; or
-  (c) fails to comply with a direction of the FMA under section 29, 36, or 49 by the date specified in the direction; or
+  (c) fails to comply with a direction of the FMA under section 29 or 36 by the date specified in the direction; or
+  (ca) fails to comply with a direction of the FMA under section 205 of the Financial Markets Conduct Act 2013 by the date specified in the direction; or
   (d) is in administration, receivership, or liquidation, or is subject to statutory management, or enters any other process (whether in New Zealand or another country) under which the assets and affairs of the licensee are administered, or the assets of the licensee are realised, for the benefit of creditors of the licensee.
 (2) The FMA may take 1 or more of the following steps:
   (a) vary the licensee's licence in accordance with section 30:
@@ -447,13 +444,13 @@ A licence must state the following information:
   (c) specify the supervised interest or interests to which the removal notice applies.
 (2) Despite subsection (1)(b), if the removal notice is given in relation to the cancellation of a licence, the final removal date must be no later than the date on which the cancellation takes effect.
 (3) The FMA must give a copy of the removal notice to every affected person at the same time as the notice is given to the licensee.
-(4) The removal of the existing appointee as trustee or statutory supervisor in respect of an affected security, or as statutory supervisor of an affected retirement village, takes effect on the final removal date unless the existing appointee is removed from that appointment before that date (whether under section 38(1) or otherwise).
+(4) The removal of the existing appointee as supervisor in respect of an affected debt security or scheme, or as statutory supervisor of an affected retirement village, takes effect on the final removal date unless the existing appointee is removed from that appointment before that date (whether under section 38(1) or otherwise).
 (5) For the purposes of this section and sections 36 to 40,—
+  - **affected debt security or scheme** means a debt security or registered scheme to which a removal notice applies
   - **affected person** means—
-    (a) the issuer of an affected security:
+    (a) the issuer in respect of an affected debt security or scheme:
     (b) the operator of an affected retirement village
   - **affected retirement village** means a retirement village to which a removal notice applies
-  - **affected security** means a security to which a removal notice applies
   - **existing appointee** means the licensee to whom a removal notice is given
   - **final removal date** has the meaning given in subsection (1)(b)
   - **FMA appointee** has the meaning given in section 37(1)
@@ -471,35 +468,38 @@ A cancellation notice must—
   (b) specify the date on which the cancellation takes effect.
 
 ### 36 Removal notice: FMA may give direction to existing appointee
-(1) During the period beginning when a removal notice is given and ending when the existing appointee is removed from every appointment as trustee or statutory supervisor in respect of an affected security, or as statutory supervisor in respect of an affected retirement village, the FMA may give a written direction to the existing appointee.
+(1) During the period beginning when a removal notice is given and ending when the existing appointee is removed from every appointment as supervisor in respect of an affected debt security or scheme, or as statutory supervisor in respect of an affected retirement village, the FMA may give a written direction to the existing appointee.
 (2) The direction must specify—
   (a) the step or steps that the existing appointee must take; and
   (b) the date by which each step must be taken.
 (3) The existing appointee must comply with the direction.
 (4) To avoid doubt, a direction must not be inconsistent with the relevant governing document, but may require the appointee to seek specified amendments to the document.
-(5) A person who, without reasonable excuse, fails to comply with a direction under subsection (1) commits an offence and is liable on conviction to a fine not exceeding $200,000.
+(5) A person who refuses or fails, without reasonable excuse, to comply with a direction under subsection (1) commits an offence and is liable on conviction to a fine not exceeding $300,000.
 
 ### 37 Removal notice: FMA may replace existing appointee
-(1) If an affected person does not remove the existing appointee by written notice under section 38(1) or otherwise appoint a person as the trustee or statutory supervisor in place of the existing appointee before the final removal date, the FMA may appoint a person (the FMA appointee) to that position for a period of 6 months beginning on the final removal date.
-(2) Before making an appointment under subsection (1), the FMA must, if the FMA considers it practicable to do so, consult the relevant issuer or operator.
+(1) If an affected person does not remove the existing appointee by written notice under section 38(1) or otherwise appoint a person as the supervisor in place of the existing appointee before the final removal date, the FMA may appoint a person (the FMA appointee) to that position for a period of 6 months beginning on the final removal date.
+(1A) If the FMA considers it necessary or desirable in the circumstances, the FMA may reappoint the FMA appointee (as an FMA appointee) to the position of supervisor for a further period that the FMA thinks fit (and a reappointment under this subsection may be made on 1 or more occasions).
+(2) Before making an appointment under subsection (1) or (1A), the FMA must, if the FMA considers it practicable to do so, consult the affected person.
 (3) The FMA must, as soon as practicable after making the appointment, notify the affected person of the appointment.
-(4) The affected person must reimburse the FMA for the FMA appointee's charges during the period of the FMA appointee's appointment; and the amount due is recoverable as a debt due to the FMA.
-(5) Subject to subsection (6), the FMA appointee—
-  (a) is bound by the terms of the governing document under which the existing appointee was appointed; and
-  (b) assumes the rights of the existing appointee as they were before the existing appointee was removed.
+(4) The affected person must reimburse the FMA for—
+  (a) the FMA appointee's costs and charges that are paid by the FMA; and
+  (b) any costs of the FMA in connection with the appointment.
+(4A) An amount payable under subsection (4) must be paid by the date specified for payment in an invoice given to the affected person by the FMA and is recoverable as a debt due to the FMA.
+(5) The FMA appointee is bound by the terms of the governing document under which the existing appointee was appointed (subject to subsection (6)).
 (6) The FMA may approve a change to those terms (including a change that increases the charges payable to the FMA appointee) during the period of the FMA appointee's appointment if—
   (a) the affected person and the FMA appointee agree that the change should be made; and
-  (b) the FMA is satisfied that the change will have no significant adverse effect on the interests of holders of the security or of residents of the retirement village.
+  (b) the FMA is satisfied that the change will have no significant adverse effect on the interests of holders of the debt security or managed investment products or of residents of the retirement village.
 (7) The power in subsection (6) may be exercised to approve a change to the terms of the governing document despite anything to the contrary in the document.
-(8) Before the end of the 6-month appointment, the affected person must either—
+(8) Before the appointment of the FMA appointee under this section finally comes to an end (taking into account any reappointment under subsection (1A)), the affected person must either—
   (a) appoint a licensee as a replacement for the FMA appointee; or
-  (b) appoint the FMA appointee as the trustee or statutory supervisor on a continuing basis (provided that the FMA appointee holds a licence that covers the security or retirement village).
+  (b) appoint the FMA appointee as the supervisor on a continuing basis (provided that the FMA appointee holds a licence that covers supervision of the debt security, registered scheme, or retirement village).
 (9) Despite sections 6 and 16(2), the FMA may appoint, as an FMA appointee, any person (including any natural person) that the FMA considers appropriate in the circumstances, whether or not that person holds a licence.
+(10) If the FMA appointee does not hold a licence, the FMA appointee must, for the purposes of the Financial Markets Conduct Act 2013 and the Retirement Villages Act 2003, be treated as holding a licence that covers supervision of the debt security, registered scheme, or retirement village (as the case may be).
 
 ### 38 Replacement notice: affected person may replace existing appointee or FMA appointee
-(1) If an affected person appoints a person (the new appointee) as the trustee or statutory supervisor in place of the existing appointee or FMA appointee and the new appointee accepts the appointment, the affected person may remove the existing appointee or FMA appointee by written notice (the replacement notice) to the existing appointee or FMA appointee.
+(1) If an affected person appoints a person (the new appointee) as the supervisor in place of the existing appointee or FMA appointee and the new appointee accepts the appointment, the affected person may remove the existing appointee or FMA appointee by written notice (the replacement notice) to the existing appointee or FMA appointee.
 (2) An appointment under subsection (1) must be made in accordance with the relevant governing document.
-(3) Despite subsections (1) and (2), if the affected person proposes to reappoint the existing appointee in place of the FMA appointee before the end of the 6-month period of the FMA appointee's appointment, the removal of the FMA appointee takes effect only if the FMA consents in writing.
+(3) Despite subsections (1) and (2), if the affected person proposes to reappoint the existing appointee in place of the FMA appointee before the end of the period of the FMA appointee's appointment, the removal of the FMA appointee takes effect only if the FMA consents in writing.
 (4) The affected person must, as soon as practicable after giving the replacement notice, give a copy of the notice to the FMA.
 (5) The removal of the existing appointee or FMA appointee takes effect on the date stated in, or calculated in accordance with, the replacement notice.
 (6) But if the replacement notice is given to the FMA appointee, the removal of the FMA appointee cannot take effect until at least 15 working days have passed since the date on which the notice was given to the FMA appointee.
@@ -513,13 +513,13 @@ A cancellation notice must—
 (3) If the existing appointee is reinstated under section 40(4)(c), the existing appointee may, by giving notice in writing to the FMA appointee or new appointee (person B), require person B to provide the existing appointee, at person B's expense, with all documents held by, or in the control of, person B that relate to the functions of the position.
 (4) A notice under this section—
   (a) must be given no later than 6 months after the date of the appointment of the person who gives the notice or, in the case of a notice under subsection (3), within 6 months after the existing appointee's reinstatement:
-  (b) ceases to be effective if the person who gives the notice ceases to be the trustee or statutory supervisor in respect of the affected security or the statutory supervisor in respect of the affected retirement village:
+  (b) ceases to be effective if the person who gives the notice ceases to be the supervisor in respect of the affected debt security or scheme or the statutory supervisor in respect of the affected retirement village:
   (c) must specify a reasonable time within which the documents must be provided.
-(5) A person who, without reasonable excuse, fails to comply with a notice under this section commits an offence and is liable on conviction to a fine not exceeding $100,000.
+(5) An existing appointee, an FMA appointee, or a new appointee to whom a notice is given under any of subsections (1) to (3) must comply with the notice.
 (6) A document provided pursuant to a notice under this section may be used only for the purpose of—
-  (a) performing the functions of the trustee or statutory supervisor in respect of the affected security; or
+  (a) performing the functions of the supervisor in respect of the affected debt security or scheme; or
   (b) performing the functions of the statutory supervisor in respect of the affected retirement village.
-(7) A person who, without reasonable excuse, uses a document provided pursuant to a notice under this section other than for a purpose referred to in subsection (6) commits an offence and is liable on conviction to a fine not exceeding $100,000.
+(7) A contravention of subsection (5) or (6) may give rise to a pecuniary penalty under section 41.
 
 ### 40 Appeal to High Court against removal notice, etc
 (1) A licensee may appeal to the High Court against a decision to give a removal notice, variation notice, or cancellation notice under section 32(2)(b) to (d).
@@ -530,27 +530,33 @@ A cancellation notice must—
   (b) refer the matter back to the FMA with a direction to reconsider the whole or a specified part of the decision; or
   (c) if the licensee has been removed from an appointment, order that the licensee be reinstated on terms determined by the court.
 
+**FMA appointee's powers and duties**
+
+### 40A FMA appointee has powers and duties of supervisor
+(1) An FMA appointee (whether appointed under section 22 or 37) has all of the powers and duties of the supervisor of the debt security, registered scheme, or retirement village that are conferred or imposed by the governing document or by law.
+(2) This section is subject to sections 22(7) and 37(6).
+
 **Pecuniary penalty and compensation orders**
 
 ### 41 Pecuniary penalty orders
-(1) The High Court may, on application by the FMA, order a licensee to pay a pecuniary penalty to the Crown if the court is satisfied that the licensee has contravened a licensee obligation.
+(1) The High Court may, on application by the FMA, order a licensee or other person to pay a pecuniary penalty to the Crown if the court is satisfied that—
+  (a) the licensee or other person has contravened section 6, 8, 24(4) or (5), or 39(5) or (6); or
+  (b) the licensee has contravened a licensee obligation.
 (2) In determining whether or not to make a pecuniary penalty order and (if an order is to be made) the amount of the penalty to be imposed, the court must have regard to all relevant matters, including—
   (a) the nature and extent of the contravention:
-  (b) (in the case of a contravention relating to a security) the likelihood, nature, and extent of any damage to the integrity or reputation of New Zealand's securities markets as a result of the contravention:
-  (c) the nature and extent of any loss or damage suffered by security holders or residents because of the contravention:
+  (b) in the case of a contravention relating to a debt security or registered scheme, the likelihood, nature, and extent of any damage to the integrity or reputation of New Zealand's financial markets as a result of the contravention:
+  (c) the nature and extent of any loss or damage suffered by product holders or residents because of the contravention:
   (d) the circumstances in which the contravention occurred:
-  (e) whether or not the licensee has previously contravened a licensee obligation:
+  (e) whether or not the licensee or other person has previously contravened this Act or a licensee obligation:
   (f) the public benefit in encouraging prompt and honest self-reporting of breaches or possible breaches of licensee obligations:
   (g) any other circumstances that the court considers relevant.
-(3) The maximum amount of a pecuniary penalty for a contravention of a licensee obligation is—
-  (a) $200,000, if the contravention or conduct materially prejudiced security holders' or residents' interests; and
-  (b) $100,000, in all other cases.
-(4) If conduct by a licensee constitutes a contravention of 2 or more licensee obligations, proceedings may be brought against that licensee for the contravention of any 1 or more of the obligations, but a licensee is not liable to more than 1 pecuniary penalty order for the same conduct.
+(3) The maximum amount of a pecuniary penalty under this section is $600,000.
+(4) If conduct by a person constitutes a contravention of 2 or more provisions referred to in subsection (1) or licensee obligations, proceedings may be brought against that person for the contravention of any 1 or more of the provisions or obligations, but a person is not liable to more than 1 pecuniary penalty order for the same conduct.
 
 ### 42 Compensation orders
-(1) The High Court may, on application by the FMA, a security holder, or a resident, order a licensee to pay compensation to any security holder or resident (the aggrieved person) if the court is satisfied that—
+(1) The High Court may, on application by the FMA, a product holder, or a resident, order a licensee to pay compensation to any product holder or resident (the aggrieved person) if the court is satisfied that—
   (a) the licensee has contravened a licensee obligation; and
-  (b) the contravention has caused loss or damage to the aggrieved person.
+  (b) the aggrieved person has suffered, or is likely to suffer, loss or damage because of the contravention.
 (2) The court may make a compensation order whether or not any aggrieved person is a party to the proceeding.
 (3) The court may make any order it thinks just to compensate an aggrieved person in whole or in part for the loss or damage.
 
@@ -569,75 +575,27 @@ A cancellation notice must—
 **Duties of trustees and statutory supervisors to FMA in relation to issuers**
 
 ### 44 Application of Part 3 to statutory supervisors of retirement villages
-To avoid doubt, Part 3 does not apply to statutory supervisors of retirement villages.
+[Repealed]
 
 ### 45 FMA may require trustee or statutory supervisor to attest as to issuer's compliance with issuer obligations
-(1) The FMA may require a trustee or statutory supervisor to attest to the FMA, at a time and in a manner specified by the FMA, as to whether the trustee or supervisor is satisfied that a supervised issuer has not breached an issuer obligation in a material respect.
-(2) If the FMA requires a trustee or statutory supervisor to attest to the FMA under this section, the trustee or supervisor must—
-  (a) provide that attestation; or
-  (b) if unable to attest to the FMA as required, report the reason, including the details of any breach or suspected breach.
+[Repealed]
 
 ### 46 Trustee or statutory supervisor must report breach or possible breach of issuer obligation
-If a trustee or statutory supervisor has reasonable grounds to believe that a supervised issuer has breached, may have breached, or is likely to breach an issuer obligation in a material respect, the trustee or supervisor must, as soon as practicable,—
-  (a) report the breach or possible breach to the FMA; and
-  (b) advise the FMA of the steps (if any) that the trustee or supervisor intends to take in light of the breach or possible breach and the date by which the steps are to be taken.
+[Repealed]
 
 ### 47 Trustee or statutory supervisor must disclose information to FMA in certain circumstances
-(1) This section applies if a trustee or statutory supervisor becomes aware, in the course of or in connection with the performance of functions as trustee or statutory supervisor, of information on the basis of which the trustee or supervisor could reasonably form the opinion that—
-  (a) a supervised issuer is unable to pay the issuer's debts as they become due in the normal course of business; or
-  (b) the value of a supervised issuer's assets is less than the value of the issuer's liabilities, including contingent liabilities; or
-  (c) it is likely that—
-    (i) a supervised issuer will be unable to pay the issuer's debts as they become due in the normal course of business; or
-    (ii) the value of a supervised issuer's assets will be less than the value of the issuer's liabilities, including contingent liabilities.
-(2) This section also applies if, in the case of a scheme, a trustee or statutory supervisor becomes aware, in the course of or in connection with the performance of functions as trustee or statutory supervisor, of information on the basis of which the trustee or statutory supervisor could reasonably form the opinion that—
-  (a) the funds in the scheme are not sufficient to enable debts in respect of the scheme to be paid as they become due in the normal course of business; or
-  (b) the value of the assets in the scheme is less than the value of the liabilities in respect of the scheme, including contingent liabilities; or
-  (c) it is likely that—
-    (i) the funds in the scheme will not be sufficient to enable debts in respect of the scheme to be paid as they become due in the normal course of business; or
-    (ii) the value of the assets in the scheme will be less than the value of the liabilities in respect of the scheme, including contingent liabilities.
-(3) In subsection (2), scheme has the meaning given in section 2(1) of the Securities Act 1978.
-(4) The trustee or statutory supervisor must, as soon as practicable,—
-  (a) disclose to the FMA all information relevant to the matter referred to in subsection (1) or (2) that is in the possession or control of the trustee or supervisor and was obtained in the course of, or in connection with, the performance of functions as trustee or statutory supervisor; and
-  (b) advise the FMA of the steps (if any) that the trustee or supervisor intends to take in light of the matter referred to in subsection (1) or (2) and the date by which the steps are to be taken.
+[Repealed]
 
 ### 48 Protection for trustee or statutory supervisor in respect of disclosure
-(1) No civil, criminal, or disciplinary proceedings may be brought against a trustee or statutory supervisor in respect of a protected disclosure.
-(2) No person may terminate the appointment of a trustee or statutory supervisor by reason of a protected disclosure.
-(3) No tribunal, body, or authority that has jurisdiction in respect of the professional conduct of a trustee or statutory supervisor may make an order against, or do any act in relation to, the trustee or supervisor in respect of a protected disclosure.
-(4) In this section, protected disclosure means a disclosure of information to the FMA in good faith by the trustee or statutory supervisor under any of sections 45 to 47 of this Act.
+[Repealed]
 
 **FMA's powers in relation to issuers**
 
 ### 49 FMA may give direction to trustee or statutory supervisor to avoid material prejudice
-(1) This section applies if the FMA is satisfied that—
-  (a) there is a significant risk that the interests of holders of a supervised interest that is a security will be materially prejudiced; and
-  (b) either—
-    (i) the trustee or statutory supervisor is aware of the risk and has had a reasonable opportunity to take action to eliminate or reduce the risk but has failed to do so; or
-    (ii) action is urgently required to eliminate or reduce the risk and it is not reasonably practicable to wait for the trustee or statutory supervisor to take such action.
-(2) The FMA may give a written direction to the trustee or statutory supervisor.
-(3) The direction must specify—
-  (a) the step or steps that the trustee or statutory supervisor must take in relation to the issue or the issuer (or both); and
-  (b) the date by which each step must be taken.
-(4) The trustee or statutory supervisor must comply with the direction.
-(5) A person who fails, without reasonable excuse, to comply with a direction commits an offence and is liable on conviction to a fine not exceeding $200,000.
-(6) To avoid doubt, the fact that the FMA has not given a direction under this section does not affect the FMA's ability to apply for orders under sections 41, 42, and 50.
+[Repealed]
 
 ### 50 FMA may apply to High Court for orders relating to securities
-(1) This section applies if the FMA is satisfied that—
-  (a) there is a significant risk that the interests of holders of a supervised interest that is a security will be materially prejudiced; and
-  (b) either—
-    (i) the trustee or statutory supervisor is aware of the risk and has had a reasonable opportunity to make an application under section 116K of the KiwiSaver Act 2006, section 49 of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960 but has failed to do so; or
-    (ii) it is necessary as a matter of urgency for the FMA to make an application under this section and it is not reasonably practicable to wait for the trustee or statutory supervisor to make an application under section 116K of the KiwiSaver Act 2006, section 49 of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960.
-(2) This section also applies if the FMA is satisfied that—
-  (a) the provisions of a governing document are no longer adequate to give proper protection to security holders; and
-  (b) either—
-    (i) the trustee or statutory supervisor has had a reasonable opportunity to make an application under section 116K of the KiwiSaver Act 2006, section 49 of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960 but has failed to do so; or
-    (ii) it is necessary as a matter of urgency for the FMA to make an application under this section and it is not reasonably practicable to wait for the trustee or statutory supervisor to make an application under section 116K of the KiwiSaver Act 2006, section 49 of the Securities Act 1978, or section 19A of the Unit Trusts Act 1960.
-(3) The FMA may apply to the High Court for an order under this section.
-(4) The court may direct that an application be served on any person that the court thinks fit.
-(5) On an application, the court may, after giving the issuer, trustee, or statutory supervisor and any other persons that the court thinks fit the opportunity to be heard, make any order that the court may make under section 116K(4) of the KiwiSaver Act 2006, section 49(3) of the Securities Act 1978, or section 19A(4) of the Unit Trusts Act 1960.
-(6) The court may vary or cancel an order made under this section.
-(7) In exercising its powers under this section, the court must have regard to the interests of all creditors of the issuer.
+[Repealed]
 
 ## Part 4 — Miscellaneous and amendments to other Acts
 
@@ -646,21 +604,22 @@ If a trustee or statutory supervisor has reasonable grounds to believe that a su
 **Directions**
 
 ### 51 FMA may vary or cancel direction
-(1) The FMA may vary or cancel a direction given under section 29, 36, or 49 if the FMA is satisfied that—
+(1) The FMA may vary or cancel a direction given under section 29 or 36 if the FMA is satisfied that—
   (a) circumstances have changed since the direction was given; and
   (b) the change is such that the direction should be varied or cancelled.
 (2) The FMA may vary or cancel the direction by giving written notice to the person to whom the direction is addressed.
 
-### 52 Protection for trustee, etc, who complies with FMA's direction
-(1) No civil, criminal, or disciplinary proceedings may be brought against a trustee or statutory supervisor in respect of a protected act.
-(2) No person may terminate the appointment of a trustee or statutory supervisor by reason of a protected act.
-(3) No tribunal, body, or authority that has jurisdiction in respect of the professional conduct of a trustee or statutory supervisor may make an order against, or do any act in relation to, the trustee or supervisor in respect of a protected act.
-(4) In this section, protected act, in relation to a trustee or statutory supervisor means an act of, or omission to act on the part of, the trustee or statutory supervisor in compliance in good faith with a direction under section 29, 36, or 49.
+### 52 Protection for supervisor who complies with FMA's direction
+(1) No civil, criminal, or disciplinary proceedings may be brought against a supervisor in respect of a protected act.
+(2) No person may terminate the appointment of a supervisor by reason of a protected act.
+(3) No tribunal, body, or authority that has jurisdiction in respect of the professional conduct of a supervisor may make an order against, or do any act in relation to, the supervisor in respect of a protected act.
+(4) In this section, protected act, in relation to a supervisor, means an act of, or omission to act on the part of, the supervisor in compliance in good faith with a direction under section 29 or 36.
 
 **Regulations**
 
 ### 53 Regulations
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations for the following purposes:
+  (aa) prescribing conditions that licences are subject to, including (without limitation) providing for conditions that require a licensee to accept an appointment as an FMA appointee under section 22 or 37:
   (a) prescribing the matters that the FMA must consider in satisfying itself that every director and senior manager of the applicant is of good character for the purposes of section 16(2)(b), including the methods of assessment and things to be taken into, or left out of, account in making an assessment:
   (b) prescribing matters that the FMA must assess under section 16(3)(i):
   (c) prescribing the manner in which the FMA must assess the matters referred to in section 16(3), including the methods of assessment and things to be taken into, or left out of, account in making an assessment:
@@ -917,3 +876,37 @@ The following section is inserted after section 19:Trustee may apply to High Cou
     (a) specify the duties and powers of the trustee:
     (b) specify the duties of the manager:
     (c) provide for the trustee to have the power, exercisable with the consent of the manager (but without requiring the consent of unit holders), to make amendments to the trust deed that do not adversely affect the interests of unit holders.
+
+### 1 Title
+This Act is the Financial Markets (Repeals and Amendments) Act 2013.
+
+### 2 Commencement
+(1) Sections 4(2) to (4), 91, 101(3), (6), and (7), 105, and 107 come into force on the day after the date on which this Act receives the Royal assent.
+(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
+(3) To the extent that it is not previously brought into force under subsection (1) or (2), the rest of this Act comes into force on 1 April 2017.
+(4) In this section, provision includes any item, or any part of an item, in the Schedule.
+
+**Amendments to Securities Trustees and Statutory Supervisors Act 2011**
+
+**Transitional provisions**
+
+### 148 FMA may vary licences under Financial Markets Supervisors Act 2011
+(1) The FMA may, by written notice to a licensee, vary a licence if the FMA is satisfied that the variation is necessary or desirable in connection with the orderly implementation of the Financial Markets Conduct Act 2013 or this Act (for example, to change the matters referred to in section 10 of the principal Act or impose further conditions as referred to in section 11 of the principal Act).
+(2) A power under subsection (1) may be exercised—
+  (a) only on or before the date that is 2 years after the commencement of this section:
+  (b) despite anything to the contrary in the principal Act.
+(3) The FMA may vary a licence under this section only if the FMA gives the licensee—
+  (a) at least 10 working days' written notice of the following matters before the FMA varies the licence:
+    (i) that the FMA may vary the licence; and
+    (ii) the reasons why it is considering taking that action; and
+  (b) an opportunity to make written submissions and to be heard on the matter within that notice period.
+(4) The notice under subsection (3) must state—
+  (a) the FMA's reasons for varying the licence; and
+  (b) the date on which the variation takes effect.
+(5) In this section and section 149,—
+  - **licence** means a licence issued under the principal Act before the commencement of this section
+  - **licensee** means a person who holds a licence.
+
+### 149 Appeal against licence decision
+(1) A licensee who is dissatisfied with the FMA's decision under section 148 may appeal to the High Court no later than 20 working days, or such further period as the court may allow, after receiving written notice of the decision.
+(2) A decision against which an appeal is lodged remains valid pending the determination of the appeal unless the court orders otherwise.
