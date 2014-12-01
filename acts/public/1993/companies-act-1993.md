@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2014-09-11_
+_Consolidation as at 2014-12-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -46,6 +46,7 @@ _Consolidation as at 2014-09-11_
     (b) a person upon whom the constitution confers any of the rights and powers of a shareholder
   - **existing company** means a body corporate registered or deemed to be registered under Part 2 or Part 10 of the Companies Act 1955, or under the Companies Act 1933, the Companies Act 1908, the Companies Act 1903, the Companies Act 1882, or the Joint Stock Companies Act 1860
   - **financial markets participant** has the same meaning as in section 4 of the Financial Markets Authority Act 2011
+  - **financial product** has the same meaning as in section 7 of the Financial Markets Conduct Act 2013
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
@@ -55,6 +56,8 @@ _Consolidation as at 2014-09-11_
   - **interested** , in relation to a director, has the meaning set out in section 139
   - **interests register** means the register kept under section 189(1)(c)
   - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
+  - **licensed market** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
+  - **listed issuer** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **major transaction** has the meaning set out in section 129(2)
   - **New Zealand register** means the register of companies incorporated in New Zealand kept pursuant to section 360(1)(a)
   - **ordinary resolution** has the meaning set out in section 105(2)
@@ -77,7 +80,6 @@ _Consolidation as at 2014-09-11_
     (c) a nominee or trustee for any of those persons
   - **relevant interest** has the meaning set out in section 146
   - **secured creditor** , in relation to a company, means a person entitled to a charge on or over property owned by that company
-  - **securities** has the same meaning as in the Securities Act 1978
   - **share** has the meaning set out in section 35
   - **share register** means the share register required to be kept under section 87
   - **shareholder** has the meaning set out in section 96
@@ -85,6 +87,9 @@ _Consolidation as at 2014-09-11_
   - **special meeting** means a meeting called in accordance with section 121
   - **special resolution** means a resolution approved by a majority of 75% or, if a higher majority is required by the constitution, that higher majority, of the votes of those shareholders entitled to vote and voting on the question
   - **spouse** , in relation to a person (), includes a person with whom A has a de facto relationship (whether that person is of the same or a different sex) and a civil union partner
+  - **stock exchange** means—
+    (a) a licensed market; or
+    (b) a financial product market that is authorised to operate in an overseas jurisdiction in accordance with the laws of that jurisdiction
   - **subsidiary** has the meaning set out in section 5
   - **surplus assets** means the assets of a company remaining after the payment of creditors' claims and available for distribution in accordance with section 313 prior to its removal from the New Zealand register
   - **working day** means a day of the week other than—
@@ -403,7 +408,7 @@ A share in a company is personal property.
 (3) The personal representative of a deceased shareholder may transfer a share even though the personal representative is not a shareholder at the time of transfer.
 
 ### 40 Contracts for issue of shares
-A contract or deed under which a company is or may be required to issue shares, whether on the exercise of an option or on the conversion of securities or otherwise, is an illegal contract for the purposes of the Illegal Contracts Act 1970 unless—
+A contract or deed under which a company is or may be required to issue shares, whether on the exercise of an option or on the conversion of financial products or otherwise, is an illegal contract for the purposes of the Illegal Contracts Act 1970 unless—
   (a) the board is entitled to issue the shares; and
   (b) either—
     (i) the board has complied with section 47 or section 49; or
@@ -440,7 +445,7 @@ Subject to this Act and the constitution of the company, the board of a company 
 (3) The constitution of a company may negate, limit, or modify the requirements of this section.
 
 ### 46 Consideration for issue of shares
-The consideration for which a share is issued may take any form and may be cash, promissory notes, contracts for future services, real or personal property, or other securities of the company.
+The consideration for which a share is issued may take any form and may be cash, promissory notes, contracts for future services, real or personal property, or other financial products of the company.
 
 ### 46A Consideration for issue of shares on registration
 A shareholder is not liable to pay or provide any consideration in respect of an issue of shares under section 41(a) unless—
@@ -474,7 +479,7 @@ A shareholder is not liable to pay or provide any consideration in respect of an
 (6) For the purposes of this section, shares that are or are to be credited as paid up, whether wholly or partly, as part of an arrangement that involves the transfer of property or the provision of services and an exchange of cash or cheques or other negotiable instruments, whether simultaneously or not, must be treated as paid up other than in cash to the value of the property or services.
 (7) A director who fails to comply with subsection (2) or subsection (4) commits an offence and is liable on conviction to the penalty set out in section 373(1).
 (8) Nothing in this section applies to the issue of shares in a company on—
-  (a) the conversion of any convertible securities; or
+  (a) the conversion of any convertible financial products; or
   (b) the exercise of any option to acquire shares in the company.
 (9) If the board of a company fails to comply with subsection (5), every director of the company commits an offence and is liable, on conviction, to the penalty set out in section 374(2).
 
@@ -484,17 +489,17 @@ Section 47 does not apply to—
   (b) the consolidation and division of the shares or any class of shares in the company in proportion to those shares or the shares in that class:
   (c) the subdivision of the shares or any class of shares in the company in proportion to those shares or the shares in that class.
 
-### 49 Consideration in relation to issue of options and convertible securities
-(1) Before the board of a company issues any securities that are convertible into shares in the company or any options to acquire shares in the company, the board must—
-  (a) decide the consideration for which the convertible securities or options, and, in either case, the shares will be issued and the terms on which they will be issued; and
+### 49 Consideration in relation to issue of options and convertible financial products
+(1) Before the board of a company issues any financial products that are convertible into shares in the company or any options to acquire shares in the company, the board must—
+  (a) decide the consideration for which the convertible financial products or options, and, in either case, the shares will be issued and the terms on which they will be issued; and
   (b) if the shares are to be issued other than for cash, determine the reasonable present cash value of the consideration for the issue; and
-  (c) resolve that, in its opinion, the consideration for and terms of the issue of the convertible securities or options, and, in either case, the shares are fair and reasonable to the company and to all existing shareholders; and
+  (c) resolve that, in its opinion, the consideration for and terms of the issue of the convertible financial products or options, and, in either case, the shares are fair and reasonable to the company and to all existing shareholders; and
   (d) if the shares are to be issued other than for cash, resolve that, in its opinion, the present cash value of the consideration to be provided is not less than the amount to be credited for the issue of the shares.
 (2) The directors who vote in favour of a resolution required by subsection (1) must sign a certificate—
-  (a) stating the consideration for, and the terms of, the issue of the convertible securities or options, and, in either case, the shares; and
+  (a) stating the consideration for, and the terms of, the issue of the convertible financial products or options, and, in either case, the shares; and
   (b) describing the consideration in sufficient detail to identify it; and
   (c) where a present cash value has been determined in accordance with subsection (1)(b), stating that value and the basis for assessing it; and
-  (d) stating that, in their opinion, the consideration for and terms of issue of the convertible securities or options, and, in either case, the shares are fair and reasonable to the company and to all existing shareholders; and
+  (d) stating that, in their opinion, the consideration for and terms of issue of the convertible financial products or options, and, in either case, the shares are fair and reasonable to the company and to all existing shareholders; and
   (e) if the shares are to be issued other than for cash, stating that, in their opinion, the present cash value of the consideration to be provided is not less than the amount to be credited for the issue of the shares.
 (3) The board must deliver a copy of a certificate that complies with subsection (2) to the Registrar for registration within 10 working days after it is given.
 (4) For the purposes of this section, shares that are to be credited as paid up, whether wholly or partly, as part of an arrangement that involves the transfer of property or the provision of services and an exchange of cash or cheques or other negotiable instruments, whether simultaneously or not, must be treated as paid up other than in cash to the value of the property or services.
@@ -627,8 +632,8 @@ Subject to the constitution of the company, the board of a company may issue sha
 (5) Before an offer is made pursuant to a resolution under subsection (1), the company must send to each shareholder a disclosure document that complies with section 62.
 (6) The offer must be made not less than 10 working days and not more than 12 months after the disclosure document has been sent to each shareholder.
 (7) Nothing in subsections (5) and (6) applies to an offer to a shareholder by a company if—
-  (a) the company is a party to a listing agreement with a registered exchange (within the meaning of section 2(1) of the Securities Markets Act 1988); and
-  (b) the offer is to acquire fewer of the shares quoted on the registered exchange's securities market than is the minimum holding of shares in the company determined by that exchange.
+  (a) the company is a listed issuer; and
+  (b) the offer is to acquire fewer of the quoted shares of the company than the minimum holding of those shares in the company determined by the operator of the relevant licensed market.
 (8) A shareholder or the company may apply to the court for an order restraining the proposed acquisition on the grounds that—
   (a) it is not in the best interests of the company and of benefit to remaining shareholders; or
   (b) the terms of the offer and the consideration offered for the shares are not fair and reasonable to the company and remaining shareholders.
@@ -729,9 +734,11 @@ For the purposes of section 61, a disclosure document is a document that sets ou
 
 ### 67C Reissue of shares company holds in itself
 (1) Subject to subsection (2), section 47 shall apply to the transfer of a share held by a company in itself as if the transfer were the issue of the share under section 42 or section 44.
-(2) Section 47(2) shall not apply to the transfer of a share held by a company in itself if the share is transferred by means of a system that is approved under section 7 of the Securities Transfer Act 1991.
+(2) Section 47(2) shall not apply to the transfer of a share held by a company in itself if the share is transferred by means of a system that is approved under section 376 of the Financial Markets Conduct Act 2013.
 (3) Subject to subsection (1), the transfer of a share by a company in itself shall not be subject to any provisions in this Act or the company's constitution relating to the issue of shares, except to the extent the company's constitution expressly applies those provisions.
-(4) A company shall not grant an option to acquire a share it holds in itself or enter into any obligations to transfer such a share where the company has received notice in writing of a takeover offer made under the takeovers code in force under the Takeovers Act 1993 or, in the case of a company that is a party to a listing agreement with a stock exchange, where the exchange makes a public release to the sharemarket that a takeover offer for more than 20% of the company's shares is to be made.
+(4) A company must not grant an option to acquire a share it holds in itself or enter into any obligations to transfer such a share if—
+  (a) the company has received notice in writing of a takeover offer made under the Takeovers Code in force under the Takeovers Act 1993; or
+  (b) in the case of shares that are quoted on a stock exchange, the stock exchange makes a public release that a takeover offer for more than 20% of the quoted shares is to be made.
 
 **Redemption of shares**
 
@@ -942,17 +949,17 @@ For the purposes of section 78, a disclosure document is a document that sets ou
   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1).
 
 ### 85 Transfer of shares under approved system
-(1) Where shares in a company are transferred under a system of transfer approved under section 7 of the Securities Transfer Act 1991, the company may refuse to complete or delay the registration of the transfer of the shares if—
+(1) Where shares in a company are transferred under a system of transfer approved under section 376 of the Financial Markets Conduct Act 2013, the company may refuse to complete or delay the registration of the transfer of the shares if—
   (a) the board resolves, within 30 working days of such date as may be specified for the purpose in the Order in Council approving the system, to refuse or delay registration of the transfer, and the resolution sets out in full the reasons for doing so; and
   (b) notice of the resolution, including those reasons, is sent to the transferor and to the transferee within 5 working days of the resolution being passed by the board; and
   (c) either—
     (i) the Act or the constitution expressly permits the board to refuse or delay registration for the reasons stated; or
-    (ii) any identification number assigned to the shares or issued to the holder of the shares under a system of transfer approved under section 7 of the Securities Transfer Act 1991 is not recorded on the form of transfer of the shares or otherwise communicated in writing to the company by or on behalf of the transferor.
+    (ii) any identification number assigned to the shares or issued to the holder of the shares under a system of transfer approved under section 376 of the Financial Markets Conduct Act 2013 is not recorded on the form of transfer of the shares or otherwise communicated in writing to the company by or on behalf of the transferor.
 (1A) If shares in a company are transferred in accordance with the rules of a designated settlement system, the company may refuse to complete or delay the registration of the transfer of the shares if—
   (a) the board of the company resolves, within 30 working days of the date on which the settlement was effected, to refuse or delay registration of the transfer, and the resolution sets out in full the reasons for doing so; and
   (b) notice of the resolution, including those reasons, is sent to the transferor and to the transferee within 5 working days of the resolution being passed by the board; and
   (c) this Act or the constitution of the company expressly permits the board to refuse or delay registration for the reasons stated.
-(2) Subject to subsections (1) and (1A), if a company fails to enter or cause to be entered the name of the transferee on the share register on a transfer of shares effected in accordance with the rules of a designated settlement system, or under a system approved under section 7 of the Securities Transfer Act 1991,—
+(2) Subject to subsections (1) and (1A), if a company fails to enter or cause to be entered the name of the transferee on the share register on a transfer of shares effected in accordance with the rules of a designated settlement system, or under a system approved under section 376 of the Financial Markets Conduct Act 2013,—
   (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(1); and
   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1).
 
@@ -1035,7 +1042,7 @@ No notice of a trust, whether express, implied, or constructive, may be entered 
   (a) the name of the company; and
   (b) the class of shares held by that person; and
   (c) the number of shares held by that person.
-(2) Nothing in subsections (1) or (5) applies in relation to a company the shares in which can be transferred in accordance with the rules of a designated settlement system, or under a system authorised or approved under the Securities Transfer Act 1991, that does not require a share certificate for the transfer of shares.
+(2) Nothing in subsections (1) or (5) applies in relation to a company the shares in which can be transferred in accordance with the rules of a designated settlement system, or under a system approved under section 376 of the Financial Markets Conduct Act 2013, that does not require a share certificate for the transfer of shares.
 (3) A shareholder in a company, not being a company to which subsection (1) or subsection (2) applies, may apply to the company for a certificate relating to some or all of the shareholder's shares in the company.
 (4) On receipt of an application for a share certificate under subsection (3), the company must, within 20 working days after receiving the application,—
   (a) if the application relates to some but not all of the shares, separate the shares shown in the register as owned by the applicant into separate parcels; one parcel being the shares to which the share certificate relates, and the other parcel being any remaining shares; and
@@ -1045,7 +1052,7 @@ No notice of a trust, whether express, implied, or constructive, may be entered 
     (iii) the number of shares held by the shareholder to which the certificate relates.
 (5) Notwithstanding section 84, where a share certificate has been issued, a transfer of the shares to which it relates must not be registered by the company unless the form of transfer required by that section is accompanied by the share certificate relating to the share, or by evidence as to its loss or destruction and, if required, an indemnity in a form required by the board.
 (6) Subject to subsection (1), where shares to which a share certificate relates are to be transferred, and the share certificate is sent to the company to enable the registration of the transfer, the share certificate must be cancelled and no further share certificate issued except at the request of the transferee.
-(6A) Nothing in this section (except subsection (2)) limits or affects section 54 of the Securities Act 1978.
+(6A) Nothing in this section (except subsection (2)) limits or affects section 100 of the Financial Markets Conduct Act 2013.
 (7) If a company fails to comply with subsection (1) or subsection (4),—
   (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(1); and
   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1).
@@ -1615,7 +1622,7 @@ Subject to the constitution of the company, a director of a company who is inter
 ### 147 Relevant interests to be disregarded in certain cases
 (1) For the purposes of section 148, no account shall be taken of a relevant interest of a person in a share if—
   (a) the ordinary business of the person who has the relevant interest consists of, or includes, the lending of money or the provision of financial services, or both, and that person has the relevant interest only as security given for the purposes of a transaction entered into in the ordinary course of the business of that person; or
-  (b) that person has the relevant interest by reason only of acting for another person to acquire or dispose of that share on behalf of the other person in the ordinary course of business of a sharebroker and that person is a person authorised to undertake trading activities on a stock exchange; or
+  (b) that person is authorised to undertake trading activities on a licensed market and has the relevant interest by reason only of acting for another person to acquire or dispose of that share on behalf of the other person in the ordinary course of business of carrying out those trading activities; or
   (c) that person has the relevant interest solely by reason of being appointed as a proxy to vote at a particular meeting of members, or of a class of members, of the company and the instrument of that person's appointment is produced before the start of the meeting in accordance with clause 6(4) of Schedule 1 or by a time specified in the company's constitution, as the case may be; or
   (d) that person—
     (i) is a trustee corporation or a nominee company; and
@@ -1636,14 +1643,14 @@ Subject to the constitution of the company, a director of a company who is inter
   (b) ensure that the particulars disclosed to the board under paragraph (a) are entered in the interests register.
 
 ### 149 Restrictions on share dealing by directors
-(1) If a director of a company has information in his or her capacity as a director or employee of the company or a related company, being information that would not otherwise be available to him or her, but which is information material to an assessment of the value of shares or other securities issued by the company or a related company, the director may acquire or dispose of those shares or securities only if,—
-  (a) in the case of an acquisition, the consideration given for the acquisition is not less than the fair value of the shares or securities; or
-  (b) in the case of a disposition, the consideration received for the disposition is not more than the fair value of the shares or securities.
-(2) For the purposes of subsection (1), the fair value of shares or securities is to be determined on the basis of all information known to the director or publicly available at the time.
-(3) Subsection (1) does not apply in relation to a share or security that is acquired or disposed of by a director only as a nominee for the company or a related company.
-(4) Where a director acquires shares or securities in contravention of subsection (1)(a), the director is liable to the person from whom the shares or securities were acquired for the amount by which the fair value of the shares or securities exceeds the amount paid by the director.
-(5) Where a director disposes of shares or securities in contravention of subsection (1)(b), the director is liable to the person to whom the shares or securities were disposed of for the amount by which the consideration received by the director exceeds the fair value of the shares or securities.
-(6) Nothing in this section applies in relation to a company to which Part 1 of the Securities Markets Act 1988 applies.
+(1) If a director of a company has information in his or her capacity as a director or employee of the company or a related company, being information that would not otherwise be available to him or her, but which is information material to an assessment of the value of shares or other financial products issued by the company or a related company, the director may acquire or dispose of those shares or financial products only if,—
+  (a) in the case of an acquisition, the consideration given for the acquisition is not less than the fair value of the shares or financial products; or
+  (b) in the case of a disposition, the consideration received for the disposition is not more than the fair value of the shares or financial products.
+(2) For the purposes of subsection (1), the fair value of shares or financial products is to be determined on the basis of all information known to the director or publicly available at the time.
+(3) Subsection (1) does not apply in relation to a share or financial product that is acquired or disposed of by a director only as a nominee for the company or a related company.
+(4) Where a director acquires shares or financial products in contravention of subsection (1)(a), the director is liable to the person from whom the shares or financial products were acquired for the amount by which the fair value of the shares or financial products exceeds the amount paid by the director.
+(5) Where a director disposes of shares or financial products in contravention of subsection (1)(b), the director is liable to the person to whom the shares or financial products were disposed of for the amount by which the consideration received by the director exceeds the fair value of the shares or financial products.
+(6) Nothing in this section applies to financial products that are quoted on a licensed market.
 
 **Appointment and removal of directors**
 
@@ -1660,7 +1667,7 @@ A company must have at least 1 director.
   (d)
   (e) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under section 382 or section 383 or section 385:
   (eaa) a person who is prohibited from being a general partner or promoter of, or being concerned or taking part in the management of, a limited partnership under section 103A, 103B, 103D, or 103E of the Limited Partnerships Act 2008:
-  (ea) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Securities Act 1978 or the Securities Markets Act 1988 or the Takeovers Act 1993:
+  (ea) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Financial Markets Conduct Act 2013 or the Takeovers Act 1993:
   (eb) a person who is prohibited from 1 or more of the following under an order made, or a notice given, under a law of a prescribed country, State, or territory outside New Zealand:
     (i) being a director of an overseas company:
     (ii) being a promoter of an overseas company:
@@ -2705,8 +2712,8 @@ On the date shown in a certificate of amalgamation,—
   (a) executed or purporting to be executed by the amalgamated company; and
   (b) relating to any property held immediately before the amalgamation by an amalgamating company; and
   (c) stating that that property has become the property of the amalgamated company by virtue of this Part—
-(3) Without limiting subsection (1) or subsection (2), where any security issued by any person or any rights or interests in property of any person become, by virtue of this Part, the property of an amalgamated company, that person, on presentation of a certificate signed on behalf of the board of the amalgamated company, stating that that security or any such rights or interests have, by virtue of this Part, become the property of the amalgamated company, shall, notwithstanding any other enactment or rule of law or the provisions of any instrument, register the amalgamated company as the holder of that security or as the person entitled to such rights or interests, as the case may be.
-(4) In subsection (3), security has the same meaning as in section 2(1) of the Securities Act 1978.
+(3) Without limiting subsection (1) or subsection (2), where any financial product issued by any person or any rights or interests in property of any person become, by virtue of this Part, the property of an amalgamated company, that person, on presentation of a certificate signed on behalf of the board of the amalgamated company, stating that that financial product or any such rights or interests have, by virtue of this Part, become the property of the amalgamated company, shall, notwithstanding any other enactment or rule of law or the provisions of any instrument, register the amalgamated company as the holder of that financial product or as the person entitled to such rights or interests, as the case may be.
+(4)
 (5) Except as provided in this section, nothing in this Part derogates from the provisions of the Land Transfer Act 1952.
 
 ### 226 Powers of court in other cases
@@ -2845,7 +2852,7 @@ The takeovers code does not apply where the court has made an order under sectio
 ### 237 Court may make additional orders
 (1) Without limiting section 236, the court may, for the purpose of giving effect to any arrangement or amalgamation or compromise approved under that section, either by the order approving the arrangement or amalgamation or compromise, or by any subsequent order, provide for, and prescribe terms and conditions relating to,—
   (a) the transfer or vesting of real or personal property, assets, rights, powers, interests, liabilities, contracts, and engagements:
-  (b) the issue of shares, securities, or policies of any kind:
+  (b) the issue of shares, financial products, or policies of any kind:
   (c) the continuation of legal proceedings:
   (d) the liquidation of any company:
   (e) the provisions to be made for persons who voted against the arrangement or amalgamation or compromise at any meeting called in accordance with any order made under subsection (2)(b) of that section or who appeared before the court in opposition to the application to approve the arrangement or amalgamation or compromise:
@@ -3118,8 +3125,8 @@ The administrator may lodge a report with the Registrar specifying any matter th
   (a) a past or present director, officer, or shareholder of the company has committed an offence in relation to the company; or
   (b) an offence material to the administration has been committed by the company or any director, officer, or shareholder of the company under this Act or any of the following Acts:
     (i) the Crimes Act 1961:
-    (ii) the Securities Act 1978:
-    (iii) the Securities Markets Act 1988:
+    (ii) the Financial Markets Conduct Act 2013:
+    (iii)
     (iv)
     (v) the Takeovers Act 1993; or
   (c) a person who has taken part in the formation, promotion, administration, management, or liquidation of the company—
@@ -3178,7 +3185,6 @@ The administrator must call—
   (c) order that a specified related creditor or creditors must not vote on the resolution or on a resolution to vary or amend it:
   (d) make any other orders that the court thinks necessary.
 (3) In this section,—
-  - **promoter** has the same meaning as in section 2(1) of the Securities Act 1978
   - **related creditor** means a creditor who is a related entity of the company in administration
   - **related entity** means, in relation to the company in administration,—
     (a) a promoter; or
@@ -4139,7 +4145,6 @@ Subject to section 245, the liquidator of a company who was not, by reason of se
   (c) order that a specified related creditor or creditors must not vote on the resolution or on a resolution to vary or amend it:
   (d) make any other orders that the court thinks necessary.
 (3) In this section,—
-  - **promoter** has the same meaning as in section 2(1) of the Securities Act 1978
   - **related creditor** means a creditor who is a related entity of the company in liquidation
   - **related entity** means, in relation to the company in liquidation,—
     (a) a promoter; or
@@ -4328,8 +4333,8 @@ Notwithstanding any other provisions of this Part,—the Official Assignee shall
 ### 258A Duty to report suspected offences
 (1) A liquidator of a company who considers that an offence that is material to the liquidation has been committed by the company or any director of the company against this Act or any of the following Acts must report that fact to the Registrar:
   (a) the Crimes Act 1961:
-  (b) the Securities Act 1978:
-  (c) the Securities Markets Act 1988:
+  (b) the Financial Markets Conduct Act 2013:
+  (c)
   (d)
   (e) the Takeovers Act 1993:
   (f) the Insurance (Prudential Supervision) Act 2010.
@@ -4415,7 +4420,7 @@ Every document entered into, made, or issued by a liquidator of a company on beh
 (3) Where a person is examined under subsection (2)(a),—
   (a) the examination must be recorded in writing; and
   (b) the person examined must sign the record.
-(4) Subject to any directions by the court, a record of an examination under this section is admissible in evidence in any proceedings under this Part, section 383, section 60A of the Securities Act 1978, section 43F of the Securities Markets Act 1988, or section 44F of the Takeovers Act 1993.
+(4) Subject to any directions by the court, a record of an examination under this section is admissible in evidence in any proceedings under this Part, section 383, subpart 6 of Part 8 of the Financial Markets Conduct Act 2013, or section 44F of the Takeovers Act 1993.
 
 ### 267 Self-incrimination
 (1) A person is not excused from answering a question in the course of being examined under section 261 or section 266 on the ground that the answer may incriminate or tend to incriminate that person.
@@ -4549,7 +4554,7 @@ The expenses and remuneration of the liquidator are payable out of the assets of
   (j)
   (k) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under section 382 or section 383 or section 385:
   (kaa) a person who is prohibited from being a general partner or promoter of, or being concerned or taking part in the management of, a limited partnership under section 103A, 103B, 103D, or 103E of the Limited Partnerships Act 2008:
-  (ka) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
+  (ka) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
   (l) a person who is prohibited under section 299(1)(c) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
   (m) a person who is prohibited from being administrator or deed administrator under section 239ADV.
 (1A) Subsection (1)(ca) or (cb) does not apply if all the creditors consent to the appointment of the person in question.
@@ -5750,7 +5755,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (a) holds in relation to the exercise or performance of the Registrar's functions, powers, or duties; and
   (b) considers may assist the FMA in the exercise or performance of the FMA's functions, powers, or duties under this Act or any other enactment.
 (2) The Registrar may use any information, or a copy of any document, provided to him or her by the FMA under section 30 of the Financial Markets Authority Act 2011 in the Registrar's exercise or performance of the Registrar's functions, powers, or duties.
-(3) In this section, Registrar's functions, powers, or duties means his or her functions, powers, or duties under this Act or any other enactment (including functions, powers, or duties as the Registrar under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 and the Securities Act 1978).
+(3) In this section, Registrar's functions, powers, or duties means his or her functions, powers, or duties under this Act or any other enactment (including functions, powers, or duties as the Registrar under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 and the Financial Markets Conduct Act 2013).
 (4) This section applies despite anything to the contrary in any contract, deed, or document.
 (5) Nothing in this section limits the Privacy Act 1993.
 
@@ -5771,7 +5776,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
 (1) A person convicted of an offence against any of the following sections of this Act is liable to a fine not exceeding $5,000:
   (1) section 25(5)(a) (which relates to the use of a company name):
   (2) section 47(7) (which relates to the consideration for which shares are issued):
-  (3) section 49(5) (which relates to the consideration for which convertible securities, options, and shares are issued):
+  (3) section 49(5) (which relates to the consideration for which convertible financial products, options, and shares are issued):
   (4) section 52(5) (which relates to distributions to shareholders):
   (5) section 60(7) (which relates to offers to shareholders to acquire shares):
   (6) section 61(9) (which relates to the procedure for making a certain type of offer to shareholders):
@@ -5865,7 +5870,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (4) section 43(2) (which relates to the obligation of the board to deliver a notice of the issue of shares):
   (5) section 44(6) (which relates to the issue of shares with the approval of shareholders):
   (6) section 47(9) (which relates to the consideration for which shares are issued):
-  (7) section 49(6) (which relates to the consideration for which convertible securities, options, and shares are issued):
+  (7) section 49(6) (which relates to the consideration for which convertible financial products, options, and shares are issued):
   (8) section 58(4) (which relates to the acquisition by a company of its own shares):
   (9) section 87(4)(b) (which relates to the obligation to keep a share register):
   (10) section 88(5)(b) (which relates to the place where the share register must be kept):
@@ -5976,7 +5981,7 @@ Any person who, not being incorporated with limited liability, whether alone or 
   (a) a person has been convicted under section 373(4) of an offence in connection with the promotion, formation, or management of a company, or has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
   (b) a person has committed an offence for which the person is liable (whether convicted or not) under this Part; or
   (c) a person has, while a director of a company and whether convicted or not,—
-    (i) persistently failed to comply with this Act or the Companies Act 1955, the Securities Act 1978, the Securities Markets Act 1988, the Takeovers Act 1993, or the takeovers code in force under that Act or, if the company has failed to so comply, persistently failed to take reasonable steps to obtain compliance with those Acts or the code; or
+    (i) persistently failed to comply with this Act, the Financial Markets Conduct Act 2013, the Takeovers Act 1993, or the takeovers code in force under that Act or, if the company has failed to so comply, persistently failed to take reasonable steps to obtain compliance with those Acts or the code; or
     (ii) been guilty of fraud in relation to the company or of a breach of duty to the company or a shareholder; or
     (iii) acted in a reckless or incompetent manner in the performance of his or her duties as director; or
   (ca) a person has been prohibited in a country, State, or territory outside New Zealand from carrying on activities that the court is satisfied are substantially similar to being a director or promoter of or being concerned or taking part in the management of a body corporate; or
@@ -5992,7 +5997,7 @@ Any person who, not being incorporated with limited liability, whether alone or 
   (a) must appear and call the attention of the court to any matters that seem to him, her, or it to be relevant; and
   (b) may give evidence or call witnesses.
 (4) An order may be made under this section even though the person concerned may be criminally liable in respect of the matters on the ground of which the order is to be made.
-(4A) If conduct by a person constitutes grounds for making an order under any 1 or more of this section, section 43F of the Securities Markets Act 1988, section 44F of the Takeovers Act 1993, and section 60A of the Securities Act 1978, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
+(4A) If conduct by a person constitutes grounds for making an order under any 1 or more of this section, section 44F of the Takeovers Act 1993, and subpart 6 of Part 8 of the Financial Markets Conduct Act 2013, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
 (5) The Registrar of the court must, as soon as practicable after the making of an order under this section, give notice to the Registrar that the order has been made and the Registrar must give notice in the Gazette of the name of the person against whom the order is made.
 (6) Every person who acts in contravention of an order under this section commits an offence and is liable on conviction to the penalties set out in section 373(4).
 (7) In this section, company includes an overseas company.
