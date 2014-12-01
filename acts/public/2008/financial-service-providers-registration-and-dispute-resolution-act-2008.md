@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -47,7 +47,7 @@ In this Act, unless the context otherwise requires,—
       (ii)
       (iii) contracts under which no interest charges, and no credit fees, as defined in section 5 of that Act are payable
   - **creditor** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003
-  - **director** has the meaning given by section 126 of the Companies Act 1993, but also includes, in relation to a body that is not a company, a person who occupies a position comparable to that of a director (such as a trustee or a partner)
+  - **director** has the meaning given by section 6(1) of the Financial Markets Conduct Act 2013
   - **document** means—
     (a) any material, whether or not it is signed or otherwise authenticated, that bears symbols (including words and figures), images, or sounds, or from which symbols, images, or sounds can be derived, and includes—
       (i) a label, marking, or other writing that identifies or describes a thing of which it forms a part, or to which it is attached:
@@ -97,7 +97,7 @@ In this Act, unless the context otherwise requires,—
   - **wholesale client** has the meaning set out in section 49.
 
 ### 5 Meaning of financial service
-In this Act, financial service means any of the following financial services:
+(1) In this Act, financial service means any of the following financial services:
   (a) a financial adviser service:
   (ab) a broking service (including a custodial service):
   (b) acting as a deposit taker as defined in the Reserve Bank of New Zealand Act 1989:
@@ -107,20 +107,23 @@ In this Act, financial service means any of the following financial services:
   (f) operating a money or value transfer service:
   (g) issuing and managing means of payment (for example, credit and debit cards, cheques, travellers’ cheques, money orders, bankers’ drafts, and electronic money):
   (h) giving financial guarantees:
-  (i) participating in an offer of securities to the public in either of the following capacities (within the meaning of those terms under section 2(1) of the Securities Act 1978):
-    (i) as an issuer of the securities:
-    (ii) as a promoter:
-  (ia) acting in any of the following capacities (within the meaning of those terms under section 2(1) of the Securities Act 1978) in respect of securities offered to the public:
-    (i) as a trustee:
-    (ia) as a statutory supervisor:
-    (ii) as a unit trustee:
-    (iii) as a superannuation trustee:
-    (iv) as a manager:
+  (i) participating in an FMC offer as the issuer or offeror of the financial products:
+  (ia) acting in any of the following capacities in respect of regulated products or financial products offered under an FMC offer:
+    (i) as an issuer:
+    (ii) as a supervisor:
+    (iii) as an investment manager:
+  (ib) a licensed market service:
+  (ic) acting as a custodian in respect of a registered scheme or a discretionary investment management service provided by a DIMS licensee:
+  (id) operating a financial product market:
   (j) changing foreign currency:
-  (k) entering into derivative transactions, or trading in money market instruments, foreign exchange, interest rate and index instruments, transferable securities (including shares), and futures contracts on behalf of another person:
+  (k) trading financial products or foreign exchange on behalf of other persons:
   (l) providing forward foreign exchange contracts:
   (m) acting as an insurer:
   (n) providing any other financial service that is prescribed for the purposes of New Zealand complying with the FATF Recommendations, other recommendations by FATF, or other similar international obligations that are consistent with the purpose of this Act.
+(2) In this section, custodian, DIMS licensee, discretionary investment management service, financial product, financial product market, investment manager, issuer, licensed market service, offeror, registered scheme, regulated products, and supervisor have the same meanings as in section 6(1) of the Financial Markets Conduct Act 2013.
+(3) In this section, FMC offer means any of the following kinds of offers:
+  (a) a regulated offer within the meaning of section 41 of the Financial Markets Conduct Act 2013:
+  (b) an offer of financial products referred to in clause 19 or 21 of Schedule 1 of that Act.
 
 ### 6 Meaning of in the business of providing a financial service
 In this Act, in the business of providing a financial service means carrying on a business of providing or offering to provide a financial service (whether or not the business is the provider's only business or the provider's principal business).
@@ -131,13 +134,13 @@ In this Act, in the business of providing a financial service means carrying on 
   (a) a lawyer, incorporated law firm, conveyancing practitioner, chartered accountant, tax agent, or real estate agent providing a service in the ordinary course of business of the relevant kind:
   (b) a government department listed in Schedule 1 of the State Sector Act 1988:
   (c) the Reserve Bank of New Zealand (and any subsidiaries):
-  (d) the statutory entities listed in Schedule 1 of the Crown Entities Act 2004:
+  (d) the statutory entities listed in Schedule 1 of the Crown Entities Act 2004 (other than Public Trust):
   (e) a person engaged in terminating the business of a financial service provider after that provider has been deregistered:
   (f) a non-profit organisation in respect of free financial services:
   (g)
   (h) an executor, administrator, or trustee in respect of services provided in the administration of an estate or a trustee in respect of services provided to beneficiaries of a family trust:
   (i) a nominated representative (within the meaning of the Financial Advisers Act 2008) while acting in that capacity:
-  (j) an employer while providing services to enable employees of the employer to obtain rights or benefits under a registered superannuation scheme (as defined in section 2(1) of the Superannuation Schemes Act 1989) or a KiwiSaver scheme (as defined in section 4(1) of the KiwiSaver Act 2006), being a scheme in which that employer participates for the benefit of its employees:
+  (j) an employer while providing services to enable employees of the employer to obtain rights or benefits under a retirement scheme (as defined in section 6(1) of the Financial Markets Conduct Act 2013), being a scheme in which that employer participates for the benefit of its employees:
   (k) any person exempted, under regulations made under this Act or by or under any other enactment, from the application of this Act or from the requirement to register under this Act (to the extent of the relevant exemption).
 (3) If subsection (2) applies to a person (A), it applies equally to any controlling owner, director, employee, agent, or other person while acting in the course of, and for the purposes of, A's business to the same extent as it applies to A.
 (4) However, subsections (2) and (3) do not apply if, and to the extent that, any other enactment requires a person referred to in those subsections to be registered under this Act.
@@ -202,8 +205,12 @@ A person is qualified to be registered as a financial service provider if—
   (b) in the case of a person who is not an individual, the person has a controlling owner, director, or senior manager who is disqualified under subsection (2).
 (2) The following persons are disqualified:
   (a) an undischarged bankrupt:
-  (b) a person prohibited from being a director or promoter of, or concerned in the management of, an incorporated or unincorporated body under the Companies Act 1993, the Securities Act 1978, the Securities Markets Act 1988, or the Takeovers Act 1993:
-  (c) a person subject to a management banning order under the Securities Act 1978, the Securities Markets Act 1988, the Takeovers Act 1993, or subject to an order under section 108 of the Credit Contracts and Consumer Finance Act 2003:
+  (b) a person prohibited from being a director or promoter of, or concerned in the management of, an incorporated or unincorporated body under the Companies Act 1993, the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
+  (c) a person subject to a management banning order under the Financial Markets Conduct Act 2013, the Takeovers Act 1993, or subject to an order under section 108 of the Credit Contracts and Consumer Finance Act 2003:
+  (ca) a person who is prohibited from 1 or more of the following under an order made, or a notice given, under a law of a country, State, or territory outside New Zealand that is prescribed for the purposes of section 151(2)(eb) of the Companies Act 1993:
+    (i) being a director of a body corporate incorporated outside New Zealand (an overseas company):
+    (ii) being a promoter of an overseas company:
+    (iii) being concerned in or taking part in the management of an overseas company:
   (d) a person who has been convicted of an offence against section 11, 12, or 41 within the past 5 years:
   (e) a person who has been convicted of an offence under sections 217 to 266 of the Crimes Act 1961 within the past 5 years:
   (ea) a person who has been convicted within the past 5 years, in a country other than New Zealand, of an offence that is substantially similar to an offence specified in paragraph (e):
@@ -567,7 +574,7 @@ Unless the High Court orders otherwise, a decision or direction appealed against
 ### 44 Regulations under Part 1 and this Part
 (1) The Governor-General may, by Order in Council on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (aa) declaring a class of contract to be a contract of insurance for the purposes of this Act:
-  (a) prescribing a financial service for the purposes of section 5(n):
+  (a) prescribing a financial service for the purposes of section 5(1)(n):
   (ab) exempting any service or person or class of service or persons from the application of this Act, and prescribing the terms and conditions (if any) of the exemption:
   (b) specifying information or documents to be included in, or provided with, applications, and requiring documents to be signed by specified persons:
   (c) prescribing procedures, requirements, and other matters, not inconsistent with this Part or with the purposes described in section 26, relating to the register, including matters that relate to—
@@ -613,33 +620,31 @@ The purpose of this Part is to promote confidence in financial service providers
 ### 48 Financial service provider must be member of dispute resolution scheme
 (1) Every financial service provider must be a member of an approved dispute resolution scheme in respect of a financial service provided to a retail client.
 (2) A member, in relation to an approved dispute resolution scheme, is a financial service provider who may be the subject of a complaint to that scheme.
-(3) However, this obligation does not apply—
-  (a) to a financial service provider if—
-    (i) it is in the business of providing financial services only because it is an issuer or promoter participating in 1 or more offers of securities to the public; and
-    (ii) doing so is not its only or principal business; or
-  (b) to a financial service provider if it is exempted from the obligation by or under any other Act or by regulations made under section 79.
+(3) However, this obligation does not apply to—
+  (a) a financial service provider in relation to providing a financial service referred to in section 5(1)(i) or (ia)(i) if providing that service is not the provider's only or principal business; or
+  (b) a financial service provider in relation to the financial service of operating a financial product market (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013); or
+  (c) a financial service provider (whether generally or in respect of a particular financial service or class of financial service) if it is exempted from the obligation by or under any other Act or by regulations made under section 79.
 
 ### 49 Who are retail clients
 (1) A retail client is any person who receives a financial service who is not a wholesale client.
 (2) The following persons who receive a financial service are wholesale clients in respect of that financial service:
   (a) a person who is in the business of providing any financial service and receives the financial service in the course of that business:
-  (b) a person whose principal business is the investment of money or who, in the course of and for the purposes of the person's business, habitually invests money:
+  (b)
   (c) an entity to which at least 1 of the following applied at the end of each of the last 2 completed accounting periods:
     (i) at the balance date, the net assets of the entity exceeded $1 million:
     (ii) the turnover of the entity for the accounting period exceeded $1 million:
-  (d) a related body corporate (within the meaning of section 5B(2) of the Securities Markets Act 1988) of an entity to which paragraph (c) applies:
-  (e) a local authority, a Crown entity, a State enterprise, the Reserve Bank of New Zealand, and the National Provident Fund (and a company appointed under clause 3(1)(b) of Schedule 4 of the National Provident Fund Restructuring Act 1990):
-  (f) a person who falls within 1 or more of the categories listed in section 3(2), 5(2CB), or 5(2CBA) of the Securities Act 1978 if the service relates to securities that may be offered to that person, or that have been subscribed for by that person, in a private offer of securities:
+  (d) a related body corporate (within the meaning of section 12(2) of the Financial Markets Conduct Act 2013) of an entity to which paragraph (c) applies:
+  (e) a person who is a wholesale investor (within the meaning of clause 3(2) of Schedule 1 of the Financial Markets Conduct Act 2013, except that the relevant time for the purpose of applying that schedule under this paragraph must be treated as the time immediately before the service is received by the client):
+  (f) a person who is, in relation to an offer of financial products, a wholesale investor (within the meaning of clause 3 of Schedule 1 of the Financial Markets Conduct Act 2013), if the service relates to that offer or to financial products that have been acquired by that person under that offer:
+  (fa) a person who is, in relation to an offer of financial products, a close business associate of the offeror (within the meaning of clause 4 of Schedule 1 of the Financial Markets Conduct Act 2013), if the service relates to that offer or to financial products that have been acquired by that person under that offer:
+  (fb) a person who is, in relation to an offer of financial products, a relative of the offeror or of a director of the offeror (within the meaning of clause 5 of Schedule 1 of the Financial Markets Conduct Act 2013), if the service relates to that offer or to financial products that have been acquired by that person under that offer:
   (g) an eligible investor under section 49A:
   (h) if the financial service is a financial adviser service or a broking service, a person who is a wholesale client in respect of that service under the Financial Advisers Act 2008.
 (3) If subsection (2) applies to a person (A), it applies equally to any controlling owner, director, employee, agent, or other person acting in the course of, and for the purposes of, A's business to the same extent as it applies to A.
 (4) In this section,—
   - **entity** —
     (a) includes a body corporate and an unincorporated body (including partners in a partnership, members of a joint venture, or the trustees of a trust) and the sole trustee of a trust acting in his, her, or its capacity as trustee of that trust; but
-    (b) does not include an individual
-  - **private offer of securities** means an offer of securities that—
-    (a) does not constitute an offer of securities to the public under section 3 of the Securities Act 1978; or
-    (b) is exempt from Part 2 (other than sections 38B and 58) of that Act under section 5(2CB) or 5(2CBA) of that Act.
+    (b) does not include an individual.
 
 ### 49A Who are eligible investors
 (1) A client is an eligible investor if—
@@ -1030,6 +1035,6 @@ The enactment specified in Schedule 1 is amended in the manner indicated in that
 | --- | --- | --- |
 | Financial Markets Authority | Authorised financial advisers and qualifying financial entities | Financial Advisers Act 2008 |
 | Reserve Bank of New Zealand | Registered banks | Reserve Bank of New Zealand Act 1989 |
-| Financial Markets Authority | Licensed trustees in respect of debt securities, licensed statutory supervisors in respect of participatory securities, and licensed unit trustees | Securities Trustees and Statutory Supervisors Act 2011 |
+| Financial Markets Authority | Licensed supervisors in respect of debt securities and managed investment schemes | Financial Markets Supervisors Act 2011 |
 | Reserve Bank of New Zealand | Licensed insurers | Insurance (Prudential Supervision) Act 2010 |
 | Financial Markets Authority | Persons who hold, or are authorised bodies under, a market services licence | Financial Markets Conduct Act 2013 |
