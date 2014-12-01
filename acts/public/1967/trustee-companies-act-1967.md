@@ -1,5 +1,5 @@
 # Trustee Companies Act 1967
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-12-01_
 
 > An Act to make better provision for the operation of trustee companies
 
@@ -73,10 +73,10 @@ In every case in which any trustee company is empowered to apply for administrat
   (j) guardian ad litem for the purposes of proceedings in any court:
   (k) attorney under any power of attorney, or agent without power of attorney, for any trustee, person, company, or corporation:
   (l) agent for the purpose of resealing in New Zealand any probate or letters of administration (within the meaning of Part 2 of the Administration Act 1969) granted outside New Zealand:
-  (m) statutory supervisor (as defined in the Retirement Villages Act 2003) in respect of a retirement village covered by the trustee company's licence under the Securities Trustees and Statutory Supervisors Act 2011:
+  (m) statutory supervisor (as defined in the Retirement Villages Act 2003) in respect of a retirement village covered by the trustee company's licence under the Financial Markets Supervisors Act 2011:
   (n) arbitrator or umpire for the purposes of the Arbitration Act 1908 or pursuant to any submission to arbitration by parties to any dispute:
   (o)
-  (p) trustee or statutory supervisor (as defined in the Securities Trustees and Statutory Supervisors Act 2011) in respect of a security covered by the trustee company's licence under that Act:
+  (p) supervisor (as defined in section 4(1) of the Financial Markets Supervisors Act 2011) in respect of a financial product or scheme the supervision of which is covered by the trustee company's licence under that Act:
   (q) custodian trustee under section 50 of the Trustee Act 1956:
   (r) share or debenture or note registrar for any company carrying on business in New Zealand:
   (s) trustee or assignee for the benefit of creditors:
@@ -252,6 +252,7 @@ The trustee company which establishes a Group Investment Fund shall—
   (a) on a day of the month as at which a determination is made or within 2 business days after it; and
   (b) on the basis of the valuation as at that date.
 (3) On a withdrawal from a Group Investment Fund, interest shall be allowed, in accordance with paragraph (a) of section 30, to the day of the month as at which a determination is made nearest to the date of the withdrawal.
+(4) In this section, stock exchange has the same meaning as in section 2(1) of the Companies Act 1993.
 
 ### 31A Capital valuation of Fund comprising investments in real estate
 (1) Where the investments comprising a Group Investment Fund consist principally of investments in real property the trustee company which established the Fund shall determine as at a date not later than 6 months after the preceding determination the capital value of the investments and funds of that Fund.
@@ -270,6 +271,7 @@ The trustee company which establishes a Group Investment Fund shall—
 (2) A trustee company may charge, demand, receive, or retain a management fee in respect of any estate money invested in a Group Investment Fund only if—
   (a) it makes initial disclosure to persons with a present interest in that money in accordance with regulations made under this Act; or
   (b) regulations made under this Act dispense with the requirement for initial disclosure; or
+  (ba) a product disclosure statement in relation to the investment of that money in the fund has been lodged in accordance with the requirements of Part 3 of the Financial Markets Conduct Act 2013 and regulations made under that Act; or
   (c) an investment statement in relation to the investment of that money in the Fund has been issued in accordance with the requirements of sections 33 and 37A of the Securities Act 1978 and regulations made under that Act.
 (3) A trustee company must make ongoing disclosure of any management fee charged or retained in accordance with regulations made under this Act.
 (4) The ongoing disclosure must be made at the time of the issue by the trustee company of the financial statements of the estate in question, or at such other time as may be prescribed by the regulations.
@@ -282,6 +284,11 @@ Subject to the provisions of this Part, a trustee company may exercise in respec
 
 ### 33B Powers of trustee company or manager to adjust interest in trust property of Fund that is portfolio investment entity
 Where any investments and funds comprising a Group Investment Fund are employed in an activity that the trustee company is empowered or authorised to carry on as a portfolio investment entity, the trustee company or the manager of the Fund may adjust the interests of the beneficiaries in the property in the way required by section HL 7 of the Income Tax Act 2004 despite any other provision in this Act or in any instrument creating the trust under which the investments and funds are held.
+
+### 33C Trustee company may not make regulated offer of managed investment products in certain group investment funds
+(1) A trustee company may not make a regulated offer of managed investment products in a group investment fund established by it under this Part if the fund was established after the date on which this section comes into force.
+(2) Nothing in subsection (1) affects the rights, powers, and duties of a trustee company under sections 29 to 33B.
+(3) In this section, regulated offer and managed investment products have the same meanings as in section 6(1) of the Financial Markets Conduct Act 2013.
 
 ### 34 Examination of Group Investment Funds
 The provisions of section 83A of the Trustee Act 1956 (which section was enacted by section 10 of the Trustee Amendment Act 1957) shall apply to every Group Investment Fund as if it were a trust estate:
