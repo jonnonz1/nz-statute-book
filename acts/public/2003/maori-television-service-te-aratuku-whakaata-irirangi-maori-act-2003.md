@@ -1,5 +1,5 @@
 # Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 ## Preamble
 He kōrero whakataki
@@ -81,7 +81,7 @@ In this Act, unless the context otherwise requires,—
   - **ngā tikanga Māori** , for the purposes of this Act, means Māori customary values and practices
   - **ōna tikanga** , in relation to te reo Māori, means accepted or customary usage
   - **output agreement** means the accountability document, the purpose of which is stated in section 37
-  - **prime time** means the times of broadcasting identified by the Service (and included in the statement of intent in accordance with section 29(1)(g)), as having the largest number of viewers for its particular target audiences
+  - **prime time** means the times of broadcasting identified by the Service (and included in the statement of intent in accordance with section 29(1)﻿(g)), as having the largest number of viewers for its particular target audiences
   - **related entity** means an entity referred to in section 45
   - **responsible Ministers** means the Minister of Māori Affairs and the Minister of Finance, acting jointly
   - **Service** means the Māori Television Service established as a statutory corporation by section 7
@@ -140,8 +140,8 @@ In this Act, unless the context otherwise requires,—
   (b) Te Aratuku Whakaata Irirangi Māori:
   (c) any other name that so resembles the names in paragraph (a) or paragraph (b) as to be likely to mislead a person.
 (2) No person other than the Service may, either alone or with another person, trade or carry on business—
-  (a) under a name listed in subsection (1)(a) or (b); or
-  (b) under a name, knowing that it so resembles a name listed in subsection (1)(a) or (b) as to be likely to mislead a person.
+  (a) under a name listed in subsection (1)﻿(a) or (b); or
+  (b) under a name, knowing that it so resembles a name listed in subsection (1)﻿(a) or (b) as to be likely to mislead a person.
 (3) A person who breaches subsection (2) commits an offence and is liable on conviction to a fine not exceeding $2,500.
 
 ### Subpart 3 — Te Pūtahi Paoho
@@ -191,7 +191,7 @@ The functions of Te Pūtahi Paoho are—
 (2) For the purpose of carrying out a review of the Service, the responsible Ministers and the chairperson of Te Pūtahi Paoho, acting jointly,—
   (a) must give notice in writing to the Service of their intention to conduct a review; and
   (b) may require any information from the Service relating to its operation and activities that is relevant to that review.
-(3) Clause 29 of Schedule 2 applies to a requirement under subsection (2)(b).
+(3) Clause 29 of Schedule 2 applies to a requirement under subsection (2)﻿(b).
 
 **Dispute resolution**
 
@@ -269,7 +269,7 @@ In this subpart, unless the context otherwise requires,—
   - **manager** means Te Pūtahi Paoho or any subsequent manager of the whole or any part of the spectrum management rights
   - **Secretary for Radiocommunications** means the chief executive of the department responsible for the administration of the Radiocommunications Act 1989
   - **spectrum licence** means a licence granted under section 48(1) of the Radiocommunications Act 1989 in relation to any part of the range of frequencies covered by the spectrum management rights
-  - **spectrum management rights** means the management rights transferred under section 24B(1)(a).
+  - **spectrum management rights** means the management rights transferred under section 24B(1)﻿(a).
 
 ### 24B Transfer of spectrum management rights
 (1) Before 1 December 2013, the responsible Ministers must—
@@ -277,13 +277,13 @@ In this subpart, unless the context otherwise requires,—
   (b) execute a deed setting out the terms and conditions under which Te Pūtahi Paoho must exercise the spectrum management rights.
 (2) The deed may be modified by written agreement between the responsible Ministers, on behalf of the Crown, and Te Pūtahi Paoho.
 (3) The responsible Ministers must consult the Minister responsible for the administration of the Radiocommunications Act 1989 before—
-  (a) executing the deed under subsection (1)(b); or
+  (a) executing the deed under subsection (1)﻿(b); or
   (b) modifying the deed under subsection (2).
 (4) The deed may, by agreement, provide that if Te Pūtahi Paoho breaches 1 or more specified terms or conditions (a serious breach), the responsible Ministers may require Te Pūtahi Paoho to transfer the spectrum management rights to the Crown, and in such a case Te Pūtahi Paoho must transfer the spectrum management rights as required by the responsible Ministers.
 
 ### 24C Aggregation of management rights
 (1) This section applies if—
-  (a) the Secretary for Radiocommunications has filed a notice of transfer under the Radiocommunications Act 1989 directing the Registrar or Deputy Registrar of Radio Frequencies to transfer the rights referred to in section 24B(1)(a); and
+  (a) the Secretary for Radiocommunications has filed a notice of transfer under the Radiocommunications Act 1989 directing the Registrar or Deputy Registrar of Radio Frequencies to transfer the rights referred to in section 24B(1)﻿(a); and
   (b) those rights consist of successive records of management rights.
 (2) The Registrar or Deputy Registrar of Radio Frequencies must aggregate those rights, on the application of the Secretary for Radiocommunications, if—
   (a) the records of management rights have—
@@ -303,7 +303,7 @@ In this subpart, unless the context otherwise requires,—
 (2) Clauses 15 to 20 of Schedule 1 apply to any mediation commenced under this section.
 
 ### 24F Issue of spectrum licences to Service
-(1) As soon as practicable after the transfer of spectrum management rights under section 24B(1)(a), the Service must—
+(1) As soon as practicable after the transfer of spectrum management rights under section 24B(1)﻿(a), the Service must—
   (a) request that the manager issue 1 or more spectrum licences to the Service; or
   (b) notify the manager that it does not wish to have spectrum licences issued to it.
 (2) The manager must grant spectrum licences for the Service—
@@ -320,7 +320,7 @@ In this subpart, unless the context otherwise requires,—
   (a) the manager has offered to grant a spectrum licence on the same terms in favour of the Service; and
   (b) the Service has declined the offer; and
   (c) the responsible Ministers have agreed to the grant.
-(2) When the manager grants a spectrum licence, the manager must, in accordance with section 49(1)(g) of the Radiocommunications Act 1989, specify that the licence may only be transferred to another person with the consent of the manager.
+(2) When the manager grants a spectrum licence, the manager must, in accordance with section 49(1)﻿(g) of the Radiocommunications Act 1989, specify that the licence may only be transferred to another person with the consent of the manager.
 (3) The manager must not consent to the transfer of a spectrum licence to a person other than the Service unless—
   (a) the Service has been offered the spectrum licence; and
   (b) the Service has declined the offer; and
@@ -329,7 +329,7 @@ In this subpart, unless the context otherwise requires,—
   (a) the manager has offered to transfer the licence to the Service; and
   (b) the Service has declined the offer; and
   (c) the responsible Ministers have agreed to the transfer.
-(5) In giving consent under subsection (1)(c), (3)(c), or (4)(c), the responsible Ministers may impose any conditions as they see fit.
+(5) In giving consent under subsection (1)﻿(c), (3)﻿(c), or (4)﻿(c), the responsible Ministers may impose any conditions as they see fit.
 
 ### 24H Use of spectrum licences and income from spectrum licences
 (1) The Service must use any spectrum licences that it holds under this subpart for the purpose of establishing a digital terrestrial television network to be used to—
@@ -350,9 +350,9 @@ In this subpart, unless the context otherwise requires,—
   - **outputs** means—
     (a) the goods and services provided or to be provided by the Service in fulfilment of its functions under this Act; but
     (b) does not include services produced for purchase or consumption solely within the Service
-  - **statement of output objectives** means part of the statement of intent referred to in section 29(1)(h)
+  - **statement of output objectives** means part of the statement of intent referred to in section 29(1)﻿(h)
   - **statement of responsibility** means the accountability document described in section 42
-  - **statement of service performance** means part of the annual report referred to in section 41(1)(c).
+  - **statement of service performance** means part of the annual report referred to in section 41(1)﻿(c).
 
 **Key provisions on accountability of Service**
 
@@ -434,7 +434,7 @@ The statement of intent must identify and state the matters on which the Service
 (3) The board must, within 10 working days of receiving the comments referred to in subsection (2),—
   (a) consider any comments; and
   (b) provide a second draft to the responsible Ministers and the chairperson of Te Pūtahi Paoho.
-(4) When the responsible Ministers, the chairperson of Te Pūtahi Paoho, and the board have agreed on the text of the draft statement of intent in the course of the process under this clause,—
+(4) When the responsible Ministers, the chairperson of Te Pūtahi Paoho, and the board have agreed on the text of the draft statement of intent in the course of the process under this section,—
   (a) the responsible Ministers and chairperson of Te Pūtahi Paoho must sign and date the agreed statement of intent; and
   (b) the chairperson of the board, on behalf of the board, must also sign the statement of intent.
 (5) The statement of intent is final when it has been signed in accordance with subsection (4).
@@ -456,11 +456,11 @@ After a statement of intent becomes final under section 31, it may only be amend
   (a) the responsible Ministers and the chairperson of Te Pūtahi Paoho jointly direct an amendment to the statement of intent; or
   (b) changes in the law materially alter or affect the information contained in the statement of intent; or
   (c) the information contained in the statement of intent is false or misleading in a material way, and was so at the time when the statement of intent first took effect.
-(2) The board must amend the statement of intent as soon as practicable after it becomes aware of the facts that give rise to the obligation to make a mandatory amendment under subsection (1)(b) or (c).
-(3) If the responsible Ministers and chairperson of Te Pūtahi Paoho direct the board to amend the statement of intent under subsection (1)(a), they must, jointly,—
+(2) The board must amend the statement of intent as soon as practicable after it becomes aware of the facts that give rise to the obligation to make a mandatory amendment under subsection (1)﻿(b) or (c).
+(3) If the responsible Ministers and chairperson of Te Pūtahi Paoho direct the board to amend the statement of intent under subsection (1)﻿(a), they must, jointly,—
   (a) give written notice to the board specifying the amendment they propose; and
   (b) consult the board before the board makes the proposed amendment.
-(4) An amendment directed under subsection (1)(a) must be consistent with the functions of the Service.
+(4) An amendment directed under subsection (1)﻿(a) must be consistent with the functions of the Service.
 
 ### 35 Amendments must be presented to House of Representatives
 An amendment made under section 34 must be presented to the House of Representatives by the responsible Ministers as soon as practicable after the amendment has been made.
@@ -494,7 +494,7 @@ The purpose of an output agreement is—
   (d) the amount to be set aside for the operating costs of Te Pūtahi Paoho under clauses 11 and 12 of Schedule 1.
 (3) The output agreement must include any other relevant information, such as the purpose for which the outputs are required, that may assist the board and the responsible Ministers to interpret and implement the output agreement.
 (4) The output agreement must be consistent with the functions of the Service.
-(5) The amount specified under subsection (2)(d) must be—
+(5) The amount specified under subsection (2)﻿(d) must be—
   (a) determined in consultation with the chairperson of Te Pūtahi Paoho; and
   (b) sufficient to meet the costs of the matters provided for in clauses 11 and 12 of Schedule 1.
 
@@ -541,8 +541,8 @@ The purpose of an output agreement is—
 (3) The statement of responsibility must be dated and signed by the chairperson of the board and by the chief executive of the Service or, if there is no chairperson, by the chief executive and the chief financial officer of the Service.
 
 ### 43 Financial report
-(1) The board must, not later that 90 days after the end of the financial year, prepare and send to the Auditor-General the financial report—
-  (a) containing the information required by section 41(1)(c); and
+(1) The board must, no later that 90 days after the end of the financial year, prepare and send to the Auditor-General the financial report—
+  (a) containing the information required by section 41(1)﻿(c); and
   (b) signed and dated by the chairperson on behalf of the board.
 (2) The Auditor-General must, within 30 days of receiving the financial report, return it to the Service, together with the audit report.
 
@@ -572,7 +572,7 @@ The Service and any subsidiary of the Service must ensure that the subsidiary—
 (1) A director of a subsidiary is entitled to receive, from the funds of the subsidiary,—
   (a) remuneration and other benefits at a rate and of a kind jointly determined by the responsible Ministers and the chairperson of Te Pūtahi Paoho in accordance with the appropriate fees framework determined by the Government; and
   (b) payment of reimbursing allowances or actual and reasonable expenses incurred in undertaking his or her duties as a director of the governing body of the subsidiary.
-(2) The remuneration and other benefits referred to in subsection (1)(a) must be determined before the Service forms or acquires shares in a subsidiary.
+(2) The remuneration and other benefits referred to in subsection (1)﻿(a) must be determined before the Service forms or acquires shares in a subsidiary.
 
 ## Part 3 — Provisions for termination of Te Reo Māori Television Trust (Te Awhiorangi), transitional arrangements for establishment Service, etc, provision for review of Act, and amendments to other Acts
 
@@ -686,7 +686,7 @@ Except as provided in this Act, Te Pūtahi Paoho may regulate its own procedure.
 
 ### 3 Chairperson and deputy chairperson of Te Pūtahi Paoho
 (1) Te Pūtahi Paoho must elect one of its members as its chairperson and another member as its deputy chairperson.
-(2) The chairperson of Te Pūtahi Paoho (and the deputy chairperson, when acting as the chairperson) must at all times, act with the authority of Te Pūtahi Paoho and in accordance with its directions.
+(2) The chairperson of Te Pūtahi Paoho (and the deputy chairperson, when acting as the chairperson) must at all times act with the authority of Te Pūtahi Paoho and in accordance with its directions.
 (3) The deputy chairperson, when acting as the chairperson, has and may exercise all the powers, and perform the functions and duties, of the chairperson.
 (4) If the chairperson or the deputy chairperson vacates office as a member of Te Pūtahi Paoho, or resigns from the office of chairperson or deputy chairperson, as the case may be, Te Pūtahi Paoho must elect an existing member of Te Pūtahi Paoho to hold the office of chairperson or deputy chairperson, as the case may be.
 (5) No person may, at the same time, hold the office of both chairperson and deputy chairperson of Te Pūtahi Paoho.
@@ -768,7 +768,7 @@ The operating costs of Te Pūtahi Paoho (including the costs incurred under clau
   (b) whether and when to seek information from, and review the performance of, the Service:
   (c) determination or approval of the remuneration and allowances for directors under clause 21 or clause 22 of Schedule 2:
   (d) finalisation of a statement of intent under section 31:
-  (e) directing amendments to a statement of intent under section 34(1)(a).
+  (e) directing amendments to a statement of intent under section 34(1)﻿(a).
 (3) In the event of a dispute, either party may give notice that it wishes to submit the dispute to mediation.
 (4) Clauses 14 to 20 apply to both parties.
 
@@ -776,8 +776,8 @@ The operating costs of Te Pūtahi Paoho (including the costs incurred under clau
 (1) If notice is given under clause 13(3), the parties must, within 10 days of notice being given, either—
   (a) appoint a mediator by agreement; or
   (b) ask the President of the Arbitrators' and Mediators' Institute of New Zealand Incorporated to appoint a mediator.
-(2) If subclause (1)(b) applies, the President of the Arbitrators' and Mediators' Institute of New Zealand Incorporated must, as soon as practicable, appoint a mediator.
-(3) The person appointed under subclause (1)(a) or subclause (2) must, as soon as reasonably practicable, convene a mediation conference with the parties.
+(2) If subclause (1)﻿(b) applies, the President of the Arbitrators' and Mediators' Institute of New Zealand Incorporated must, as soon as practicable, appoint a mediator.
+(3) The person appointed under subclause (1)﻿(a) or subclause (2) must, as soon as reasonably practicable, convene a mediation conference with the parties.
 (4) The mediator's appointment ends if—
   (a) the parties to the dispute—
     (i) resolve it by agreement; or
@@ -805,7 +805,7 @@ Each party to a dispute, and every representative of a party allowed by the medi
 
 ### 20 Remuneration of mediator
 (1) A mediator must be paid remuneration (by way of fees and allowances) as agreed to by the parties to the dispute.
-(2) If the parties to a dispute cannot agree on the mediator's remuneration, the President of the Arbitrators' and Mediators' Institute of New Zealand Incorporated (or a person authorised by the President to do so), as the case may be, must—
+(2) If the parties to a dispute cannot agree on the mediator's remuneration, the President of the Arbitrators' and Mediators' Institute of New Zealand Incorporated or a person authorised by the President to do so, as the case may be, must—
   (a) fix an amount or several amounts that must be paid to the mediator as remuneration; and
   (b) specify the amount (if any) that each party must pay.
 (3) Each party must pay to the mediator the amount fixed by the President (or authorised person) and specified as an amount to be paid by that party.
@@ -836,10 +836,10 @@ The criteria of governance experience and key competencies that must be taken in
 (1) A natural person who is not disqualified by subclause (2) may be a director of the board.
 (2) The following persons are disqualified from being a director:
   (a) a person who is an undischarged bankrupt:
-  (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
+  (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
   (c) a person who is subject to a property order made under section 10, section 11, section 12, section 30, or section 31 of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under section 32 of that Act:
   (d) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more, or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon or served the sentence or otherwise suffered the penalty imposed on the person:
-  (e) a person who has failed to disclose all interests in accordance with clause 4(4)(a).
+  (e) a person who has failed to disclose all interests in accordance with clause 4(4)﻿(a).
 
 **Term of appointment of directors**
 
@@ -914,7 +914,7 @@ A director who is interested in a transaction, or proposed transaction of, or ot
     (i) to the chairperson of the board; or
     (ii) if the director is the chairperson, to the responsible Ministers and the chairperson of Te Pūtahi Paoho; and
   (b) ensure that the interest is entered in the interests register.
-(2) The chairperson of the board must ensure that an interests register is established and maintained for the purpose of subclause (1)(b).
+(2) The chairperson of the board must ensure that an interests register is established and maintained for the purpose of subclause (1)﻿(b).
 
 ### 9 Consequences of interest
 A director who is interested in a transaction or proposed transaction of, or other matter relating to, the Service—
@@ -944,7 +944,7 @@ A director who is interested in a transaction or proposed transaction of, or oth
     (vi) the director has performed the functions of office inadequately:
     (vii) the director has failed to attend 3 consecutive meetings of the board, without giving prior notice of his or her inability to attend:
     (viii) the director has failed to disclose, without reasonable excuse, as soon as possible after the relevant facts become known to the director, an interest in a matter being considered or about to be considered by the board.
-(3) Despite subclause (2), a director of the Service or of a subsidiary must not be removed for a reason relating to the matters set out in section 10(1)(a) to (d).
+(3) Despite subclause (2), a director of the Service or of a subsidiary must not be removed for a reason relating to the matters set out in section 10(1)﻿(a) to (d).
 (4) Before removing a director from office, the responsible Ministers or Te Pūtahi Paoho, as the case may be, must give the director a reasonable opportunity to make submissions or be heard on the proposal to remove him or her.
 (5) The notice of removal must state the reasons for removal.
 
@@ -997,7 +997,7 @@ Except as otherwise provided in this Act, the board may regulate its own procedu
 (2) If the chairperson is absent, the deputy chairperson must preside, and if the deputy chairperson is also absent,—
   (a) and another director has been given delegated authority to act as the chairperson, that director must preside; and
   (b) in any other case, the directors present must elect one of their number to be the chairperson for the meeting.
-(3) The person acting under subclause (2)(a), or the person elected under subclause (2)(b), has and may exercise all the powers, duties, and functions of the chairperson for the purposes of the meeting.
+(3) The person acting under subclause (2)﻿(a), or the person elected under subclause (2)﻿(b), has and may exercise all the powers, duties, and functions of the chairperson for the purposes of the meeting.
 (4) The chairperson of the board may permit directors to participate in meetings, or in a particular meeting, by any means of communication that allows the directors reasonably to engage in the proceedings of the meeting.
 
 ### 20 Voting at meetings
@@ -1064,7 +1064,7 @@ A Judge who is appointed as a director has the same immunities and limitations o
     (i) 1 director appointed by the responsible Ministers; and
     (ii) 1 director appointed by Te Pūtahi Paoho; and
   (b) may include any other person that the board thinks fit.
-(3) The board may delegate the authority of the chairperson to a deputy chairperson for the purpose of clause 19(2)(b).
+(3) The board may delegate the authority of the chairperson to a deputy chairperson for the purpose of clause 19(2)﻿(b).
 (4) The board must not delegate—
   (a) the power to delegate; or
   (b) the power to acquire or dispose of real property; or
@@ -1095,9 +1095,9 @@ A Judge who is appointed as a director has the same immunities and limitations o
 (3) Subclause (2) does not apply if the director is first authorised to disclose, use, or act on information by the board.
 
 ### 29 Provision of information for purpose of review
-The Service must, as soon as reasonably practicable, supply information required jointly in writing by the responsible Ministers and the chairperson of Te Pūtahi Paoho under section 16(2)(b)—
+The Service must, as soon as reasonably practicable, supply information required jointly in writing by the responsible Ministers and the chairperson of Te Pūtahi Paoho under section 16(2)﻿(b)—
   (a) relating to the operation and activities of the Service; and
-  (b) that is reasonably required for the exercise of the power under section 16(1)(e).
+  (b) that is reasonably required for the exercise of the power under section 16(1)﻿(e).
 
 ### 30 Reliance on information and advice
 (1) A director, when acting as a director, may rely on reports, statements, financial data, and other information prepared or supplied, and on professional or expert advice given, by any of the following persons:
@@ -1222,4 +1222,4 @@ The Service must, if it employs personnel,—
   (f) recognition of the different aims and aspirations, and of the cultural differences that may exist among employees; and
   (g) recognition of the employment requirements of women and ethnic or minority groups; and
   (h) recognition of the employment requirements of persons with disabilities.
-(2) For the purposes of the Act an equal employment opportunities programme is a programme aimed at identifying and eliminating all aspects of policies, procedures and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect of the employment of any persons or group of persons.
+(2) For the purposes of the Act, an equal employment opportunities programme is a programme aimed at identifying and eliminating all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect of the employment of any persons or group of persons.
