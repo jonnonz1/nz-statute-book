@@ -1,5 +1,5 @@
 # Museum of New Zealand Te Papa Tongarewa Act 1992
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-12-01_
 
 > An Act—ato establish the Museum of New Zealand Te Papa Tongarewa; andbto constitute the Museum of New Zealand Te Papa Tongarewa Board, and to define the Board’s functions and powers; andcto dissolve the Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial; anddto repeal the National Art Gallery, Museum, and War Memorial Act 1972
 
@@ -216,7 +216,7 @@ The Board must meet at least once in each financial year.
 [Repealed]
 
 ### 7 Superannuation or retiring allowances
-(1) For the purpose of providing a superannuation fund or retiring allowances for any of its members, the Board may from time to time pay sums by way of subsidy or contribution into any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing a superannuation fund or retiring allowances for any of its members, the Board may from time to time pay sums by way of subsidy or contribution into any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Notwithstanding anything in this Act, a person who, immediately before becoming an employee of the Board, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 shall, for the purposes of that Act, be deemed to be employed in the Government service so long as that person continues to be an employee of the Board; and that Act shall apply to that person in all respects as if that person’s service as an employee of the Board is Government service.
 (3) Nothing in subclause (2) entitles any person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
 (4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to an employee of the Board who is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to that employee, means the Board.
