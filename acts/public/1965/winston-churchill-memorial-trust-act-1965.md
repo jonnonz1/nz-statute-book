@@ -1,5 +1,5 @@
 # Winston Churchill Memorial Trust Act 1965
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a Board to administer the Fund, and to make provision with respect to the Fund
 
@@ -7,7 +7,7 @@ _Consolidation as at 2014-04-01_
 This Act may be cited as the Winston Churchill Memorial Trust Act 1965.
 
 ### 2 Interpretation
-In this Act, unless the context otherwise requires—
+In this Act, unless the context otherwise requires,—
   - **Board** means the Winston Churchill Memorial Trust Board established by this Act
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **Fund** means the Winston Churchill Memorial Trust Fund established by this Act
@@ -145,7 +145,7 @@ Any local authority within the meaning of the Local Government Act 2002 or other
   (a) 20% of the income of the Board for the preceding financial year; or
   (b) such greater amount as may be authorised by the Minister.
 (3) All amounts borrowed by way of overdraft by the Board shall be repaid within 30 days of the date of the advance or within such longer period as may be authorised by the Minister.
-(4) Any authorisation given by the Minister under subsection (2)(b) or subsection (3) may be subject to such conditions as the Minister thinks fit.
+(4) Any authorisation given by the Minister under subsection (2)﻿(b) or subsection (3) may be subject to such conditions as the Minister thinks fit.
 
 ### 21 Accounting records must be kept
 (1) The Board must ensure that there are kept at all times accounting records that—
@@ -190,7 +190,7 @@ The Board shall establish and maintain a place or office at which notices and ot
 ### 27 Appointment of officers
 (1) The Board may from time to time appoint a secretary and such other officers and servants as are considered necessary for the exercise and performance of the functions and powers of the Board.
 (2) The Board may pay to its officers and servants from the Board's income such salaries and allowances as it thinks fit.
-(3) For the purpose of providing superannuation or retiring allowances for its officers, the Board may make payments to or subsidise any superannuation scheme which is registered under the Superannuation Schemes Act 1989.
+(3) For the purpose of providing superannuation or retiring allowances for its officers, the Board may make payments to or subsidise any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 
 ### 28 Members of Board not personally liable
 No member, officer, or servant of the Board shall be personally liable for any act or default done or made by the Board or by any member thereof in good faith in the course of the operations of the Board.
