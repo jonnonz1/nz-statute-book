@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2014-12-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1710,7 +1710,7 @@ The person who, immediately before the commencement of this section, was holding
 [Repealed]
 
 ### 4 Superannuation or retiring allowances
-(1) For the purpose of providing superannuation or retiring allowances for the Commissioner or Deputy Commissioner, the Commissioner may, out of the funds of the Commissioner, make payments to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing superannuation or retiring allowances for the Commissioner or Deputy Commissioner, the Commissioner may, out of the funds of the Commissioner, make payments to or subsidise any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the Commissioner or the Deputy Commissioner or, as the case may be, becoming an employee of the Commissioner, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as the Commissioner or the Deputy Commissioner or, as the case may be, to be an employee of the Commissioner; and that Act shall apply to that person in all respects as if that person's service as the Commissioner or the Deputy Commissioner or, as the case may be, as such an employee were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
 (4) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the Commissioner or the Deputy Commissioner or, as the case may be, is in the service of the Commissioner as an employee and (in any such case) is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person, means the Commissioner.
@@ -1763,6 +1763,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Electoral Act 1993 | Sections 100, 101, 103, 104, 105, 106, 107, 108, 109, 204V, 205R, 206Q, 206ZH, 209E, and 210F |
 | Electoral Referendum Act 2010 | Sections 50 and 65 |
 | Electricity Act 1992 | Section 124 |
+| Financial Markets Conduct Act 2013 | Section 215 and clauses 1 and 4 of Schedule 2 |
 | Financial Service Providers (Registration and Dispute Resolution) Act 2008 | Section 24 |
 | Fisheries Act 1996 | Sections 98 and 124 |
 | Friendly Societies and Credit Unions Act 1982 | Sections 5, 40, and 130 |
@@ -1793,8 +1794,6 @@ The income of the Commissioner shall be exempt from income tax.
 | Registered Architects Act 2005 | Sections 18 to 23 |
 | Sale of Liquor Act 1989 | Sections 220 and 221 |
 | Secondhand Dealers and Pawnbrokers Act 2004 | Section 78 |
-| Securities Act 1978 | Section 43N |
-| Securities Act 1978 | Section 51 |
 | Social Workers Registration Act 2003 | Part 7 |
 | Te Ture Whenua Maori Act 1993 | Section 263 |
 | Trade Marks Act 2002 | Section 181 |
