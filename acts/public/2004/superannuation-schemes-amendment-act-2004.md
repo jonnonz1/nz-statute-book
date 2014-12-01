@@ -1,5 +1,5 @@
 # Superannuation Schemes Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 (1) This Act is the Superannuation Schemes Amendment Act 2004.
