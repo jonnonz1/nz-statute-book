@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2014-05-11_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -1737,7 +1737,7 @@ For the purposes of section 16, the Chief Censor shall, from time to time, desig
 [Repealed]
 
 ### 5 Superannuation or retiring allowances
-(1) For the purpose of providing superannuation or retiring allowances for the Chief Censor or the Deputy Chief Censor, the Classification Office may, out of the funds of the Classification Office, make payments to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing superannuation or retiring allowances for the Chief Censor or the Deputy Chief Censor, the Classification Office may, out of the funds of the Classification Office, make payments to or subsidise any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the Chief Censor or the Deputy Chief Censor or, as the case may be, becoming an employee of the Classification Office, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as the Chief Censor or the Deputy Chief Censor or, as the case may be, to be an employee of the Classification Office; and that Act shall apply to that person in all respects as if that person's service as the Chief Censor or the Deputy Chief Censor or, as the case may be, as such an employee were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
 (4) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the Chief Censor or the Deputy Chief Censor or, as the case may be, is in the service of the Classification Office as an employee and (in any such case) is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person, means the Classification Office.
