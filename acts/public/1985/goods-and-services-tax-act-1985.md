@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2014-06-30_
+_Consolidation as at 2014-12-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -245,13 +245,13 @@ _Consolidation as at 2014-06-30_
   (g) the renewal or variation of a debt security, equity security, participatory security, or credit contract:
   (h) the provision, taking, variation, or release of a guarantee, indemnity, security, or bond in respect of the performance of obligations under a cheque, credit contract, equity security, debt security, or participatory security, or in respect of the activities specified in paragraphs (b) to (g):
   (i) the provision, or transfer of ownership, of a life insurance contract or the provision of re-insurance in respect of any such contract:
-  (j) the provision, or transfer of ownership, of an interest in a superannuation scheme, or the management of a superannuation scheme:
+  (j) the provision, or transfer of ownership, of an interest in a retirement scheme, or the management of a retirement scheme:
   (k) the provision or assignment of a futures contract through a defined market or at arm's length if—
     (i) the contract does not provide for the delivery of a commodity; or
     (ii) the contract provides for the delivery of a commodity and the supply of the commodity is an exempt supply; or
     (iii) the contract provides for the delivery of money:
   (kaa) the provision of a financial option:
-  (ka) the payment or collection of any amount of interest, principal, dividend, or other amount whatever in respect of any debt security, equity security, participatory security, credit contract, contract of life insurance, superannuation scheme, or futures contract:
+  (ka) the payment or collection of any amount of interest, principal, dividend, or other amount whatever in respect of any debt security, equity security, participatory security, credit contract, contract of life insurance, retirement scheme, or futures contract:
   (l) agreeing to do, or arranging, any of the activities specified in paragraphs (a) to (ka), other than advising thereon:
   (m) the investment in an entity, if—
     (i) the investment is in an equity security equal to or greater than 10% of all equity securities issued by the entity or in a participatory security equal to or greater than 10% of all participatory securities issued by the entity; and
@@ -259,6 +259,11 @@ _Consolidation as at 2014-06-30_
   (n) the evaluation by an investor of an investment referred to in paragraph (m) in an entity and the planning or acting by the investor to influence the management of an entity for the principal purpose of preserving or increasing the value of such an investment.
 (2) For the purposes of this section—
   - **cheque** means a cheque as defined in the Bills of Exchange Act 1908, an instrument specified in section 5(2) of the Cheques Act 1960, a postal note, a money order, a traveller's cheque, or any order or authorisation (whether in writing, by electronic means, or otherwise) to a financial institution to credit or debit any account
+  - **contributory scheme** —
+    (a) means any scheme or arrangement that, in substance and irrespective of the form of the scheme or arrangement, involves the investment of money where—
+      (i) the investor acquires or may acquire an interest in or right in respect of property; and
+      (ii) that interest or right will or may be, under the terms of investment, used or exercised in conjunction with any other interest in or right in respect of property acquired in similar circumstances, whether at the same time or not; but
+    (b) does not include a scheme or arrangement described in paragraph (a) that has 5 or fewer investors, provided that neither the manager of the scheme nor any associated person of the manager is the manager of another such scheme or arrangement
   - **credit contract** means a credit contract as defined in section 3 of the Credit Contracts Act 1981 immediately before the repeal of that Act
   - **currency** means any banknote or other currency of any country, other than when used as a collector's piece, investment article, item of numismatic interest, or otherwise than as a medium of exchange
   - **debt security** means any interest in or right to be paid money that is, or is to be, owing by any person; but does not include a cheque
@@ -269,13 +274,13 @@ _Consolidation as at 2014-06-30_
     (c) the maintenance of those customers' accounts; and
     (d) the provision of any ancillary services (such as network management, software support and development) supplied in relation to the services referred to in any of paragraphs (a), (b), and (c),—
   - **life insurance contract** means a contract lawfully entered into to the extent that it places a sum or sums at risk upon the contingency of the termination or continuance of human life, marriage, civil union or de facto relationship, or the birth of a child, but not to the extent that it provides for entitlements under Schedule 1, Part 4 of the Accident Compensation Act 2001 (which relates to entitlements arising from fatal injuries)
-  - **participatory security** means any interest or right to participate in any capital, assets, earnings, or other property of any person where that interest or right forms part of a contributory scheme (as defined in section 2 of the Securities Act 1978); and includes an interest in a unit trust within the meaning of the Unit Trusts Act 1960; but does not include an equity security, a debt security, money, or a cheque
-  - **superannuation scheme** means a superannuation scheme as defined in the Superannuation Schemes Act 1989.
+  - **participatory security** means any interest or right to participate in any capital, assets, earnings, or other property of any person where that interest or right forms part of a contributory scheme; and includes an interest in a unit trust (within the meaning of section YA 1 of the Income Tax Act 2007); but does not include an equity security, a debt security, money, or a cheque
+  - **retirement scheme** has the meaning given in section 6(1) of the Financial Markets Conduct Act 2013.
 (3) Notwithstanding subsection (2), the terms debt security, equity security, and participatory security do not include any of the following:
   (a) a life insurance contract or any other contract of insurance:
   (b)
   (c) a share in the share capital of a flat-owning or office-owning company (as defined in section 121A of the Land Transfer Act 1952):
-  (d) an interest in a superannuation scheme.
+  (d) an interest in a retirement scheme.
 (3B) Despite subsection (2), a person who is a party to an arrangement that is a credit contract but is not a credit contract under section 7 of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as not being a credit contract in relation to the person.
 (3C) Despite subsection (2), a person who is a party to an arrangement that is not a credit contract but is a credit contract under section 7 of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as being a credit contract in relation to the person.
 (4) Despite this section, financial services does not include—
