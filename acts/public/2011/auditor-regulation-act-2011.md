@@ -1,5 +1,5 @@
 # Auditor Regulation Act 2011
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Auditor Regulation Act 2011.
@@ -50,7 +50,7 @@ The FMA's functions under this Act are as follows:
   - **audit regulatory systems** means, in relation to an accredited body, the body's systems and processes for performing its regulatory functions
   - **auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **Auditor-General** has the same meaning as in section 4 of the Public Audit Act 2001
-  - **director** has the same meaning as in section 2 of the Securities Act 1978
+  - **director** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **disciplinary body** ,—
     (a) in relation to the Institute, means the Disciplinary Tribunal referred to in section 6(1)(g) of the New Zealand Institute of Chartered Accountants Act 1996:
     (b) in relation to any other accredited body, means the tribunal, committee, or other body that has been—
