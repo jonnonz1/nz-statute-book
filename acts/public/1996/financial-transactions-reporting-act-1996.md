@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -29,7 +29,7 @@ _Consolidation as at 2013-07-01_
       (ii) through which a facility holder may conduct 2 or more transactions; and
     (b) without limiting the generality of the foregoing, includes—
       (i) a life insurance policy:
-      (ii) membership of a superannuation scheme:
+      (ii) membership of a superannuation scheme, workplace savings scheme, or KiwiSaver scheme:
       (iii) the provision, by a financial institution, of facilities for safe custody, including (without limitation) a safety deposit box
   - **facility holder** , in relation to a facility,—
     (a) means the person in whose name the facility is established; and
@@ -37,11 +37,12 @@ _Consolidation as at 2013-07-01_
       (i) any person to whom the facility is assigned; and
       (ii) any person who is authorised to conduct transactions through the facility; and
     (c) in relation to a facility that is a life insurance policy, means any person who for the time being is the legal holder of that policy; and
-    (d) in relation to a facility that consists of membership of a superannuation scheme, means any person who is a member of the scheme within the meaning of section 2(1) of the Superannuation Schemes Act 1989
+    (d) if that facility consists of membership of a superannuation scheme, workplace savings scheme, or KiwiSaver scheme, means the product holder of the managed investment product in the scheme (within the meanings of product holder and managed investment product in section 6(1) of the Financial Markets Conduct Act 2013)
   - **financial institution** has the meaning given to it by section 3
   - **incorporated conveyancing firm** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **incorporated law firm** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **industry organisation** means any organisation the purpose of which, or one of the purposes of which, is to represent the interests of any class or classes of financial institution
+  - **KiwiSaver scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **life insurance policy** means a life policy within the meaning of section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **money laundering offence** means an offence against section 243 of the Crimes Act 1961
@@ -60,13 +61,7 @@ _Consolidation as at 2013-07-01_
     (d) by an incorporated conveyancing firm; or
     (e) by a real estate agent who holds a licence in force under the Real Estate Agents Act 2008
   - **search warrant** means a warrant issued under section 44
-  - **superannuation scheme** means a superannuation scheme within the meaning of the Superannuation Schemes Act 1989; but does not include—
-    (a) any superannuation scheme established principally for the purpose of providing retirement benefits to employees (within the meaning of that Act), where—
-      (i) contributions to the scheme by employees are made only by way of deduction from the salary or wages of those employees; and
-      (ii) the trust deed governing the scheme (or, as the case requires, the statute under which the scheme is constituted) does not permit a member to assign his or her interest in the scheme to any other person; or
-    (b) any superannuation scheme—
-      (i) that has no more than 7 members; and
-      (ii) in respect of which no advertisement has been published inviting the public or any section of the public to become contributors to the scheme
+  - **superannuation scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **suspicious transaction guideline** means any guideline for the time being in force pursuant to section 24
   - **suspicious transaction report** means a report made pursuant to section 15(1)
   - **transaction** —
@@ -78,7 +73,8 @@ _Consolidation as at 2013-07-01_
     (c) does not include any of the following:
       (i) the placing of any bet:
       (ii) participation in gambling as defined in section 4(1) of the Gambling Act 2003:
-      (iii) any transaction that is exempted from the provisions of this Act by or under regulations made under section 56.
+      (iii) any transaction that is exempted from the provisions of this Act by or under regulations made under section 56
+  - **workplace savings scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
 (2) For the purposes of this Act, a person becomes a facility holder in relation to a facility when that person is first able to use the facility to conduct transactions.
 
 ### 3 Definition of financial institution
@@ -91,7 +87,7 @@ _Consolidation as at 2013-07-01_
   (f)
   (g) a real estate agent, but only to the extent that the real estate agent receives funds in the course of that person's business for the purpose of settling real estate transactions:
   (h)
-  (ha) a manager of a KiwiSaver scheme other than a restricted scheme within the meaning of the KiwiSaver Act 2006:
+  (ha)
   (i)
   (j) the New Zealand Racing Board established by section 7 of the Racing Act 2003:
   (k)
@@ -137,7 +133,7 @@ This Act binds the Crown.
 (2) Notwithstanding anything in subsection (1), nothing in that subsection requires a financial institution to verify the identity of a person who conducts an occasional transaction (in this subsection referred to as the transactor) through that financial institution in any case where,—
   (a) that financial institution is unable to readily determine whether or not the transaction involves cash because the funds involved in the transaction are deposited by the transactor into a facility (being a facility in relation to which that financial institution is a facility holder) provided by another financial institution; and
   (b) if those funds consisted of or included cash, that other financial institution would be required, under this Part, to verify the identity of the transactor.
-(3) Without limiting any other factors that a financial institution may consider for the purpose of determining whether or not any transactions are or have been structured to avoid the application of subsection (1)(a), a financial institution shall consider, for that purpose, the following factors:
+(3) Without limiting any other factors that a financial institution may consider for the purpose of determining whether or not any transactions are or have been structured to avoid the application of subsection (1)﻿(a), a financial institution shall consider, for that purpose, the following factors:
   (a) the time frame within which the transactions are conducted:
   (b) whether or not the parties to the transactions are the same person, or are associated in any way.
 (4) Where subsection (1) applies in respect of any transaction, the financial institution shall verify the identity of the person conducting the transaction,—
@@ -236,11 +232,11 @@ Nothing in section 8 or section 9 requires the verification of the identity of a
 
 ### 13 Offences
 (1) Every financial institution commits an offence against this section who,—
-  (a) in contravention of section 6(2)(a), permits a person to become a facility holder in relation to any facility (being a facility provided by that institution) without first having verified the identity of that person; or
-  (b) where a person becomes a facility holder in relation to any facility provided by that financial institution, fails, in contravention of section 6(2)(b), to verify the identity of that person as soon as practicable after that person becomes a facility holder in relation to that facility; or
-  (c) in contravention of section 7(4)(a)(i), permits any person to conduct an occasional transaction through that financial institution, without first having verified the identity of that person, in any case where the amount of cash involved in the transaction exceeds the prescribed amount; or
-  (d) where an occasional transaction is conducted by any person through that financial institution, in any case where the amount of cash involved in the transaction exceeds the prescribed amount, fails, in contravention of section 7(4)(a)(ii), to verify the identity of that person as soon as practicable after the transaction is conducted; or
-  (e) where an occasional transaction is conducted by any person through that financial institution, fails, in contravention of section 7(4)(b), to verify the identity of that person as soon as practicable after the conditions specified in section 7(1)(b) are satisfied in respect of that transaction; or
+  (a) in contravention of section 6(2)﻿(a), permits a person to become a facility holder in relation to any facility (being a facility provided by that institution) without first having verified the identity of that person; or
+  (b) where a person becomes a facility holder in relation to any facility provided by that financial institution, fails, in contravention of section 6(2)﻿(b), to verify the identity of that person as soon as practicable after that person becomes a facility holder in relation to that facility; or
+  (c) in contravention of section 7(4)﻿(a)﻿(i), permits any person to conduct an occasional transaction through that financial institution, without first having verified the identity of that person, in any case where the amount of cash involved in the transaction exceeds the prescribed amount; or
+  (d) where an occasional transaction is conducted by any person through that financial institution, in any case where the amount of cash involved in the transaction exceeds the prescribed amount, fails, in contravention of section 7(4)﻿(a)﻿(ii), to verify the identity of that person as soon as practicable after the transaction is conducted; or
+  (e) where an occasional transaction is conducted by any person through that financial institution, fails, in contravention of section 7(4)﻿(b), to verify the identity of that person as soon as practicable after the conditions specified in section 7(1)﻿(b) are satisfied in respect of that transaction; or
   (f) where—fails, in contravention of section 8(4), to verify the identity of that other person or, as the case requires, those other persons—
     (i) an occasional transaction is conducted by any person through that financial institution; and
     (ii) the amount of cash involved in the transaction exceeds the prescribed amount; and
@@ -272,7 +268,7 @@ Nothing in section 8 or section 9 requires the verification of the identity of a
 (1) It is a defence to a charge against a person in relation to a contravention of, or a failure to comply with, any provision of this Part if the defendant proves—
   (a) that the defendant took all reasonable steps to ensure that the defendant complied with that provision; or
   (b) that, in the circumstances of the particular case, the defendant could not reasonably have been expected to ensure that the defendant complied with the provision.
-(2) In determining, for the purposes of subsection (1)(a), whether or not a financial institution took all reasonable steps to comply with a provision of this Part, the court shall have regard to—
+(2) In determining, for the purposes of subsection (1)﻿(a), whether or not a financial institution took all reasonable steps to comply with a provision of this Part, the court shall have regard to—
   (a) the nature of the financial institution and the activities in which it engages; and
   (b) the existence and adequacy of any procedures established by the financial institution to ensure compliance with the provision, including (without limitation)—
     (i) staff training; and
@@ -296,7 +292,7 @@ Nothing in section 8 or section 9 requires the verification of the identity of a
 (2) Subject to subsection (3), every suspicious transaction report shall—
   (a) be in the prescribed form (if any); and
   (b) contain the details specified in the Schedule; and
-  (c) contain a statement of the grounds on which the financial institution holds the suspicion referred to in subsection (1)(b); and
+  (c) contain a statement of the grounds on which the financial institution holds the suspicion referred to in subsection (1)﻿(b); and
   (ca) be signed by a person authorised by the financial institution to sign suspicious transaction reports (except where the suspicious transaction report is forwarded by electronic mail or other similar means of communication); and
   (d) be forwarded, in writing, to the Commissioner at Police National Headquarters at Wellington—
     (i) by way of facsimile transmission; or
@@ -406,7 +402,7 @@ Without limiting section 17, where,—then, notwithstanding that the disclosure 
 (1) It is a defence to a charge against a person in relation to a contravention of, or a failure to comply with, section 15(1) if the defendant proves—
   (a) that the defendant took all reasonable steps to ensure that the defendant complied with that provision; or
   (b) that, in the circumstances of the particular case, the defendant could not reasonably have been expected to ensure that the defendant complied with the provision.
-(2) In determining, for the purposes of subsection (1)(a), whether or not a defendant took all reasonable steps to comply with section 15(1), the court shall have regard to—
+(2) In determining, for the purposes of subsection (1)﻿(a), whether or not a defendant took all reasonable steps to comply with section 15(1), the court shall have regard to—
   (a) the nature of the financial institution and the activities in which it engages; and
   (b) the existence and adequacy of any procedures established by the financial institution to ensure compliance with that provision, including (without limitation)—
     (i) staff training; and
@@ -474,7 +470,7 @@ Any information contained in a suspicious transaction report or supplied in conn
   (e) where applicable, the facility through which the transaction was conducted, and any other facilities (whether or not provided by the financial institution) directly involved in the transaction:
   (f) the name of the officer, employee, or agent of the financial institution who handled the transaction, if that officer, employee, or agent—
     (i) has face to face dealings in respect of the transaction with any of the parties to the transaction; and
-    (ii) has formed a suspicion (of the kind referred to in section 15(1)(b)) about the transaction.
+    (ii) has formed a suspicion (of the kind referred to in section 15(1)﻿(b)) about the transaction.
 (3) Every financial institution shall retain the records kept by that financial institution, in accordance with this section, in relation to a transaction for a period of not less than 5 years after the completion of that transaction.
 
 ### 30 Obligation to keep verification records
@@ -601,7 +597,7 @@ Where any body corporate is convicted of an offence against this Act or any regu
 (2) No person shall be excused from compliance with any requirement of this Act by reason only that compliance with that requirement would constitute breach of any contract or agreement.
 
 ### 55A This Act subject to section 203 of KiwiSaver Act 2006
-This Act is subject to section 203 of the KiwiSaver Act 2006.
+[Repealed]
 
 **Regulations**
 
