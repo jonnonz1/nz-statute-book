@@ -1,5 +1,5 @@
 # Insurance Intermediaries Act 1994
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-12-01_
 
 > An Act to effect certain reforms in the law governing insurance intermediaries
 
@@ -119,7 +119,7 @@ Where—then, for the purpose of the application of section 10 to the broker, no
   (b) in the case of a body corporate, to a fine not exceeding $20,000.
 
 ### 15 Investment of broking money
-(1) Subject to subsection (2), money in an insurance broking client account may be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds, except that no money may be invested in equity securities within the meaning of that term in section 2 of the Securities Act 1978.
+(1) Subject to subsection (2), money in an insurance broking client account may be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds, except that no money may be invested in equity securities within the meaning of that term in section 8 of the Financial Markets Conduct Act 2013.
 (2) No money paid by or on behalf of an insured by way of premium in connection with a contract of insurance that is to be arranged or effected shall be invested until the risk to which the contract relates is accepted by or on behalf of the insurer.
 (3) Every broker shall pay money received from the realisation of any investment into an insurance broking client account.
 (4) If, upon the realisation of any investment, the amount received in respect of the realisation is less than the amount invested, the broker shall pay into the account from which the money was withdrawn for investment an amount equal to the difference between the amount invested and the amount received.
