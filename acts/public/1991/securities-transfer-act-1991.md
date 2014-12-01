@@ -1,5 +1,5 @@
 # Securities Transfer Act 1991
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend the law relating to the transfer of securities and to repeal the Securities Transfer Act 1977
 
