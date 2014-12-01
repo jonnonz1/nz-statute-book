@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2014-06-07_
+_Consolidation as at 2014-12-01_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -124,7 +124,6 @@ Part 12—provides for a 6-month transitional period during which time prior sec
   - **future advance** —
     (a) means the payment of money, the provision of credit, or the giving of value secured by a security interest, occurring after the security agreement has been signed, or assented to by letter, telegram, cable, telex message, facsimile, electronic mail, or other similar means of communication, whether or not provided or given under an obligation; and
     (b) includes advances, reasonable costs incurred, and expenditures made for the protection, maintenance, preservation, or repair of the collateral, or for the enforcement of the security interest
-  - **futures contract** has the same meaning as in section 37 of the Securities Markets Act 1988
   - **goods** —
     (a) means tangible personal property; and
     (b) includes crops, the unborn young of animals, trees that have been severed, and petroleum or minerals that have been extracted; but
@@ -138,7 +137,7 @@ Part 12—provides for a 6-month transitional period during which time prior sec
     (d) materials used or consumed in a business
   - **investment security** —ExampleShares in a listed company.
     (a) means—
-      (i) a writing (whether or not in the form of a security certificate) that is recognised in the place in which it is issued or dealt with as evidencing a futures contract, or a warrant or option or share, right to participate, or other interest in property or an enterprise, or that evidences an obligation of the issuer, and that, in the ordinary course of business, is transferred or withdrawn by—
+      (i) a writing (whether or not in the form of a security certificate) that is recognised in the place in which it is issued or dealt with as evidencing a derivative (within the meaning of section 8 of the Financial Markets Conduct Act 2013), or a warrant or option or share, right to participate, or other interest in property or an enterprise, or that evidences an obligation of the issuer, and that, in the ordinary course of business, is transferred or withdrawn by—
         (A) delivery with any necessary endorsement, assignment, or registration in the records of the issuer or agent of the issuer, or by compliance with restrictions on transfer or withdrawal; or
         (B) an entry in the records of a clearing house or securities depository; or
         (C) an entry in the records maintained for that purpose by or on behalf of the issuer; or
@@ -250,7 +249,7 @@ Part 12—provides for a 6-month transitional period during which time prior sec
 ### 17A Subordinated trusts not security interests
 For the avoidance of doubt, a beneficial interest in personal property held by a creditor (the senior creditor) of a person who has been adjudged bankrupt or put into liquidation (the insolvent debtor) is not a security interest if—
   (a) the personal property is property that has been distributed by the Official Assignee under the Insolvency Act 2006 or by a liquidator under the Companies Act 1993 to another creditor of the insolvent debtor (the subordinated creditor); and
-  (b) the beneficial interest was created or provided for under the terms of a security (as defined in section 2D of the Securities Act 1978) that is held by the subordinated creditor; and
+  (b) the beneficial interest was created or provided for under the terms of a financial product (within the meaning of section 7 of the Financial Markets Conduct Act 2013) that is held by the subordinated creditor; and
   (c) under those terms, the subordinated creditor must hold the personal property on trust for the senior creditor; and
   (d) the purpose of those terms is to postpone or subordinate the right of the subordinated creditor to the performance of all or any part of an obligation of the insolvent debtor to the right of the senior creditor to the performance of all or any part of another obligation of the insolvent debtor.
 
