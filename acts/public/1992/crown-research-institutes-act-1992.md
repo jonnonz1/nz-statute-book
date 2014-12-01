@@ -1,5 +1,5 @@
 # Crown Research Institutes Act 1992
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to provide for the formation of Crown-owned companies to undertake scientific research and other related activities, and to provide for matters incidental thereto
 
@@ -211,14 +211,14 @@ Nothing in this Act shall be construed as requiring the inclusion in any stateme
     (a) any estate or interest in any land, including all rights of occupation of land or buildings:
     (b) all buildings, vehicles, plant, equipment, and machinery, and any rights therein:
     (c) all livestock, products from livestock, and crops:
-    (d) all securities within the meaning of the Securities Act 1978:
+    (d) all financial products within the meaning of the Financial Markets Conduct Act 2013:
     (e) all rights of any kind, including rights under Acts, deeds, agreements, or licences, and all applications, objections, submissions, and appeals in respect of such rights:
     (f) all patents, trade marks, designs, copyright, plant variety rights, and other intellectual property rights of any kind whether enforceable by Act or rule of law:
     (g) goodwill, and any business undertaking
   - **Crown Research Institute** includes a Crown entity subsidiary of a Crown Research Institute
   - **liabilities** includes—
     (a) liabilities and obligations under any Act or agreement; and
-    (b) deposits and other debt securities within the meaning of the Securities Act 1978; and
+    (b) deposits and other debt securities within the meaning of the Financial Markets Conduct Act 2013; and
     (c) contingent liabilities
   - **rights** includes powers, privileges, interests, licences, approvals, consents, designations, permissions, dispensations, authorisations, benefits, and equities of any kind, whether actual, contingent, or prospective
   - **transfer** includes—
