@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2014-12-01_
 
 > Title
 
@@ -15,7 +15,8 @@ In this Act, unless the context otherwise requires,—
   - **principal allowances** means allowances (not being travelling allowances or other incidental or minor allowances)
   - **remuneration** includes—
     (a) salary, wages, and other payments, whether in the form of bonuses or otherwise, in return for services; and
-    (b) benefits and other emoluments (whether in money or not) in return for services.
+    (b) benefits and other emoluments (whether in money or not) in return for services
+  - **retirement scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -79,11 +80,11 @@ There shall from time to time be appointed by the chief executive of the Departm
   (c) to carry out such other functions as may be conferred or imposed on it by this Act or any other enactment.
 (2) In carrying out its functions under subsection (1)(a), the Authority may fix scales of salaries and scales of allowances or ranges of rates of remuneration or alternative forms of remuneration within a remuneration package for any position, and may prescribe rules governing the application of any such scales of salaries or allowances, or ranges of rates of remuneration, or alternative forms of remuneration within a remuneration package fixed by it.
 (2A) The Authority shall, in making a determination under subsection (1)(ba), determine—
-  (a) the maximum amount that in any year may be paid by way of superannuation subsidy (which amount must be the same for all members but which may be expressed as a specified monetary amount or as a percentage of an ordinary member's salary as the Authority determines) in respect of those members of the House of Representatives who choose to contribute to any registered superannuation scheme; and
-  (b) the contribution that the member must make to that registered superannuation scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the member's contribution.
+  (a) the maximum amount that in any year may be paid by way of superannuation subsidy (which amount must be the same for all members but which may be expressed as a specified monetary amount or as a percentage of an ordinary member's salary as the Authority determines) in respect of those members of the House of Representatives who choose to contribute to any retirement scheme; and
+  (b) the contribution that the member must make to that retirement scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the member's contribution.
 (2AB) For the avoidance of doubt, the superannuation subsidy may only be paid in accordance with subsection (2A)(a) if a member makes a contribution in the actual year to which the subsidy relates, and a member may not, in any year, make a lump sum payment of contributions in respect of past years and claim an entitlement to a subsidy in respect of the contributions paid in that year that relates to past years.
-(2B) For the avoidance of doubt, it is hereby declared that the Crown's liability to any registered superannuation scheme to which a member referred to in subsection (1)(ba) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (2A).
-(2C) In this section registered superannuation scheme means any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(2B) For the avoidance of doubt, it is hereby declared that the Crown's liability to any retirement scheme to which a member referred to in subsection (1)(ba) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (2A).
+(2C)
 (3) Except as provided in this Act, where the remuneration due to any person is fixed under this Act, no amount in excess of the remuneration so fixed for the time being shall be granted to any person on account of that remuneration.
 
 ### 12A Remuneration
@@ -96,8 +97,8 @@ There shall from time to time be appointed by the chief executive of the Departm
 
 ### 12AA Superannuation
 (1) Notwithstanding anything in this Act or any other Act, where the Authority has jurisdiction to determine the salary or remuneration of any person or group of persons pursuant to any subparagraph of section 12(1)(a) (other than subparagraph (i)), the Authority may determine, but shall not be obliged to determine, in relation to any such person or to any member of any such group of persons,—
-  (a) the maximum amount that in any year may be paid by way of superannuation subsidy in respect of any such person or member who chooses to contribute to any registered superannuation scheme; and
-  (b) the contribution that any such person or member must make to a registered superannuation scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the person's or member's contribution.
+  (a) the maximum amount that in any year may be paid by way of superannuation subsidy in respect of any such person or member who chooses to contribute to any retirement scheme; and
+  (b) the contribution that any such person or member must make to a retirement scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the person's or member's contribution.
 (2) Any maximum amount determined under subsection (1)(a) may be expressed as either a specified monetary amount or a percentage of salary, either of which may vary according to any category of person or member.
 (3) Any determination made under subsection (1)(a), and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
 (4) Every such determination, and every provision of any such determination, in respect of which no date is specified shall come into force on the date of the making of the determination.
@@ -105,8 +106,8 @@ There shall from time to time be appointed by the chief executive of the Departm
 (6) For the avoidance of doubt, it is hereby declared—
   (a) that any determination made under subsection (1)(a) may specify conditions that, in addition to the condition specified in subsection (1)(b), must be complied with before a superannuation subsidy or a superannuation subsidy of a specific amount or a specified maximum amount is payable:
   (b) that any determination made under subsection (1)(a) may, directly or by defining a category of persons or by reference to specified circumstances, specify persons or classes of persons to whom or circumstances in which the determination is not to apply:
-  (c) that where any employer or other person is, in accordance with a determination under subsection (1)(a), liable to pay a subsidy to a registered superannuation scheme, the liability imposed on that employer or other person by that determination shall not, in relation to that scheme, exceed the amount of that subsidy.
-(7) In this section registered superannuation scheme means any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+  (c) that where any employer or other person is, in accordance with a determination under subsection (1)(a), liable to pay a subsidy to a retirement scheme, the liability imposed on that employer or other person by that determination shall not, in relation to that scheme, exceed the amount of that subsidy.
+(7)
 
 ### 12B Functions of Authority in relation to judicial salaries and superannuation
 (1) The Authority shall have the function of considering and determining the salaries and principal allowances of—
@@ -122,13 +123,13 @@ There shall from time to time be appointed by the chief executive of the Departm
   (a) the superannuation rights and obligations of the judicial officers specified in subsection (1) who are contributors under Part 4 or Part 5 or Part 5A of the Government Superannuation Fund Act 1956, being rights fixed at the commencement of this Act by any of those Parts and other provisions of that Act; and
   (b) the superannuation rights and obligations of those judicial officers specified in subsection (1) who are not contributors under Part 4 or Part 5 or Part 5A of the Government Superannuation Fund Act 1956.
 (3) The Authority shall, in making a determination under subsection (2)(b), determine—
-  (a) the maximum amount that in any year may be paid by way of superannuation subsidy in respect of any judicial officer who chooses to contribute to any registered superannuation scheme; and
-  (b) the contribution that the judicial officer must make to that registered superannuation scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the officer's contribution.
+  (a) the maximum amount that in any year may be paid by way of superannuation subsidy in respect of any judicial officer who chooses to contribute to any retirement scheme; and
+  (b) the contribution that the judicial officer must make to that retirement scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the officer's contribution.
 (4) Any maximum amount determined under subsection (3)(a) may be expressed as either a specified monetary amount or a percentage of salary, either of which may vary according to any category of judicial officer.
 (5) Nothing shall prevent the holder of any one particular judicial office from being treated as a category of judicial officer for the purposes of subsection (4) if the Authority considers it to be appropriate.
 (6) Any reference in this section to judicial officer includes any person appointed to the office of Solicitor-General.
-(7) For the avoidance of doubt, it is hereby declared that the Crown's liability to any registered superannuation scheme to which a judicial officer referred to in subsection (2)(b) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (3).
-(8) In this section registered superannuation scheme means any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(7) For the avoidance of doubt, it is hereby declared that the Crown's liability to any retirement scheme to which a judicial officer referred to in subsection (2)(b) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (3).
+(8)
 (9) A determination to which subsection (1) or (2) applies is a legislative instrument for the purposes of the Legislation Act 2012, but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
 
 ### 12C Allowances
