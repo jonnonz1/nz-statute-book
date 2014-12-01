@@ -1,5 +1,5 @@
 # Securities Transfer Amendment Act 2007
-_Consolidation as at 2007-11-05_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Securities Transfer Amendment Act 2007.
