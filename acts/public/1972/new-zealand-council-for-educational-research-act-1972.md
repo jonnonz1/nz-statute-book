@@ -1,5 +1,5 @@
 # New Zealand Council for Educational Research Act 1972
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend the law relating to the powers and functions of the New Zealand Council for Educational Research
 
@@ -104,7 +104,7 @@ The Council shall have all such powers as may be reasonably necessary or expedie
 ### 15 Power to appoint officers and servants
 (1) The Council may from time to time appoint, and may determine the appointment of, such officers and servants, including acting, temporary, or casual officers and servants, as it thinks necessary for the efficient exercise of its functions and powers under this Act, and may pay them remuneration and allowances at such rates as it may from time to time determine after consultation with the State Services Commission.
 (1A) Notwithstanding anything in subsection (1), the remuneration payable to the chief executive officer of the Council shall be determined from time to time by the State Services Commission.
-(2) For the purpose of providing superannuation or retiring allowances for its officers and servants, the Council may, out of its own funds, make payments to subsidise or contribute to any superannuation scheme which is registered under the Superannuation Schemes Act 1989.
+(2) For the purpose of providing superannuation or retiring allowances for its officers and servants, the Council may, out of its own funds, make payments to subsidise or contribute to any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 
 ### 16 Power to insure members, officers, and servants
 (1) The Council may from time to time enter into contracts of insurance to insure members, officers, and servants of the Council and members of any committee appointed under paragraph (e) of section 14 against loss from personal accident arising out of and in the course of the exercise of their powers and duties as members of the Council or of a committee so appointed, or, in the case of officers and servants, arising out of and in the course of their employment. The Council may pay the premium payable for those contracts of insurance.
