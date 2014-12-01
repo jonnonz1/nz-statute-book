@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -20,7 +20,7 @@ The purpose of this Act is to—
 In this Act, unless the context otherwise requires,—
   - **associate member** means a member appointed under section 11(1)
   - **chairperson** means the chairperson of the board of the FMA
-  - **dealings in securities** has the same meaning as in section 2(1) of the Securities Markets Act 1988
+  - **dealing** , in relation to financial products, has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **document** has the same meaning as in section 4 of the Evidence Act 2006
   - **financial markets** —
     (a) means the financial markets in New Zealand; and
@@ -31,17 +31,21 @@ In this Act, unless the context otherwise requires,—
   - **financial markets participant** —
     (a) means a person who is, or is required to be, registered, licensed, appointed, accredited, or authorised under, or for the purposes of, any of the Acts listed in Part 1 of Schedule 1 or any of the enactments made under those Acts (or would be required to be so registered, licensed, appointed, accredited, or authorised but for an exemption granted or provided by or under any of those Acts); and
     (b) includes any of the following:
-      (i) a person who participates in an offer of securities to the public as an issuer or a promoter (within the meaning of those terms in section 2(1) of the Securities Act 1978):
-      (ii) a person who acts, in respect of securities offered to the public, as a trustee, a unit trustee, a superannuation trustee, a statutory supervisor, a manager, an expert, or a qualified auditor (within the meaning of those terms in section 2(1) of the Securities Act 1978):
-      (iii) a public issuer (within the meaning of section 2(1) of the Securities Markets Act 1988):
+      (i) a person who participates in a regulated offer as an issuer or offeror:
+      (ii) a person who participates in an offer of financial products as an issuer or offeror and who is required to give a disclosure document under clause 26 of Schedule 1 of the Financial Markets Conduct Act 2013:
+      (iii) a person who acts, in respect of regulated products, as a supervisor, a manager, an investment manager, an administration manager, a custodian, or a qualified auditor (within the meaning of those terms in section 6(1) of the Financial Markets Conduct Act 2013):
+      (iiia) a listed issuer (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
       (iv) an FMC reporting entity (within the meaning of section 451 of the Financial Markets Conduct Act 2013); and
     (c) also includes any of the following:
-      (i) a body corporate that is related to a person referred to in paragraph (a) or (b) (within the meaning of section 5B(2) of the Securities Markets Act 1988); or
+      (i) a body corporate that is related to a person referred to in paragraph (a) or (b) (within the meaning of section 12(2) of the Financial Markets Conduct Act 2013); or
       (ii) a director or senior manager of a person referred to in paragraph (a) or (b) (within the meaning of those terms in section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008 but applied even if the person referred to in those paragraphs is not a financial service provider); or
       (iii) a person who was previously a person referred to in any of paragraphs (a), (b), or (c)(i) or (ii), in respect of any action, event, or circumstance while the person was such a person; but
     (d) does not include any class or classes of persons declared by the Governor-General by Order in Council not to be financial markets participants
+  - **financial products** has the same meaning as in section 7 of the Financial Markets Conduct Act 2013
   - **financial service** has the same meaning as in section 5 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008
   - **FMA** means the Financial Markets Authority established by Part 2
+  - **involved in a contravention** has the same meaning as in section 533 of the Financial Markets Conduct Act 2013
+  - **issuer** has the same meaning as in section 11(1)(b) of the Financial Markets Conduct Act 2013
   - **law enforcement or regulatory agency** means any of the following:
     (a) any department of State that, with the authority of the Prime Minister, is responsible for the administration of any part of the financial markets legislation:
     (b) the Commerce Commission:
@@ -56,8 +60,11 @@ In this Act, unless the context otherwise requires,—
     (a) means a member of the board of the FMA referred to in section 10; and
     (b) in the circumstances set out in section 12, includes an associate member
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **offeror** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **overseas regulator** means a body in another country that performs functions that correspond with, or are similar to, any of those conferred on the FMA
-  - **securities** has the same meaning as in section 2D of the Securities Act 1978.
+  - **product holder** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
+  - **regulated offer** has the same meaning as in section 41(1) of the Financial Markets Conduct Act 2013
+  - **regulated product** has the same meaning as in section 41(2) of the Financial Markets Conduct Act 2013.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -310,8 +317,8 @@ In any proceeding under this Act or any other enactment, a certificate purportin
 (3) In exercising a power under this section, the FMA must act in the public interest, but (subject to that duty) may take into account the interests of—
   (a) person A; and
   (b) the shareholders, members, and creditors of person A; and
-  (c) if person A is an issuer, any security holders of securities issued by person A.
-(4) In subsection (3)(c), issuer and security holders have the same meaning as in section 2(1) of the Securities Act 1978.
+  (c) if person A is an issuer, any product holders of financial products issued by person A.
+(4)
 (5) The FMA must, when considering whether exercising a power under this section is in the public interest, have regard to—
   (a) its main objective under section 8; and
   (b) the likely effect of the proceedings on the future conduct of financial markets participants in connection with the financial markets; and
@@ -460,7 +467,7 @@ If the FMA applies for the leave of the High Court to commence proceedings under
 (1) If the FMA has issued a warning about any matter relating to a relevant person, the FMA may, by written notice served on the relevant person, order the relevant person, or all or any associated persons of the relevant person, or both to do 1 or more of the following:
   (a) prominently disclose a copy of the warning on 1 or more Internet sites maintained by or on behalf of the relevant person or any of those associated persons:
   (b) ensure that every restricted communication of the kind that is specified in the order and that is distributed by or on behalf of the relevant person or any of those associated persons contains a copy of the warning in a prominent position or is accompanied by a copy of the warning:
-  (c) ensure that any offer document of the kind that is specified in the order contains, or is amended to contain, a copy of the warning in a prominent position or is accompanied by a copy of the warning:
+  (c) ensure that any disclosure document or other offer document of the kind that is specified in the order contains, or is amended to contain, a copy of the warning in a prominent position or is accompanied by a copy of the warning:
   (d) ensure that any document of the kind that is specified in the order and that is required by any provision of the financial markets legislation to be given by the relevant person, or any of those associated persons, to another person contains, or is amended to contain, a copy of the warning in a prominent position or is accompanied by a copy of the warning.
 (2) The FMA may make an order under subsection (1) on the terms and conditions (if any) that it thinks fit.
 (3) If an order under subsection (1) extends to associated persons of the relevant person, the order may require—
@@ -479,11 +486,11 @@ If the FMA applies for the leave of the High Court to commence proceedings under
 (7) In this section and section 51,—
   (a) relevant person means—
     (i) a person who is or has been a financial markets participant; or
-    (ii) a person who is or has engaged in conduct that involves dealings in securities:
+    (ii) a person who is or has engaged in conduct that involves dealings in financial products:
   (b) disclosure document—
     (i) has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013; and
     (ii) includes a register entry (within the meaning of that Act):
-  (c) offer document means a document that contains or refers to an offer to acquire or dispose of securities:
+  (c) offer document means a document that contains or refers to an offer to acquire or dispose of financial products:
   (d) offer, restricted communication, associated person, and distributed have the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
 
 ### 50 FMA must give notice of orders
