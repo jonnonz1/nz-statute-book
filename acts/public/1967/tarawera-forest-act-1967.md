@@ -1,5 +1,5 @@
 # Tarawera Forest Act 1967
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to provide for the joint establishment and development of the Tarawera Forest
 
@@ -65,7 +65,7 @@ As soon as practicable after the incorporation of the company in accordance with
 (2) Before paying to the company the proceeds of any sale made under subsection (1), the Māori Trustee shall deduct—
   (a) an amount equal to the sum of all money paid by him in the discharge of any encumbrance or charge that affected any of the land that now comprises the block, together with a fair and reasonable amount to cover the costs, charges, expenses, and disbursements directly and indirectly incurred by him in relation to the use of any such land; and
   (b) a fair and reasonable amount to cover the costs, charges, expenses, and disbursements directly and indirectly incurred by him in carrying out his duties under the vesting order described in section 5 and his duties under this section.
-(3) The Securities Act 1978 shall not apply in respect of the offer of any shares and debenture stock by the Māori Trustee under this section.
+(3) The Financial Markets Conduct Act 2013 shall not apply in respect of the offer of any shares and debenture stock by the Māori Trustee under this section.
 
 ### 11 Fractional beneficial interests in block
 (1) Notwithstanding anything in section 10, every person whose beneficial entitlement or partial beneficial entitlement has (by virtue of its value being less than $2) been aggregated in accordance with subsection (2) of section 8 shall have the right, to be exercised not later than 1 year after the date of the incorporation of the company, to pay to the Māori Trustee a sum of money equal to the difference between the value of the entitlement or partial entitlement and $2; and on receipt of the money the Māori Trustee shall transfer to that person 1 fully-paid share in the capital of the company and debenture stock that has been allotted by the company to the par value of $1.50:
