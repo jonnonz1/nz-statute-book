@@ -1,5 +1,5 @@
 # Securities (Local Authority Exemption) Amendment Act 2008
-_Consolidation as at 2008-04-08_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Securities (Local Authority Exemption) Amendment Act 2008.
