@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Amendment Act 1997
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-12-01_
 
 > An Act to—aAmend the National Provident Fund Restructuring Act 1990; andbAuthorise the amendment of the trust deeds for existing schemes for various purposes; andcProvide for the establishment of a new scheme or schemes for the purpose of paying pensions; anddProvide for the amalgamation of 2 or more of the existing schemes; andeProvide for other incidental matters
 
@@ -67,7 +67,7 @@ This section inserted sections 40B to 40D and the preceding heading of the princ
   (c) To transfer missing persons in the scheme (and property of the scheme allocated to those persons) to any other existing scheme without the need to obtain consents from members or beneficiaries or any other person.
 (2) In this section and section 11, missing person means any member or beneficiary of an existing scheme from or in respect of whom no contributions are being received, and for whom the Board has no current address.
 (3) The expenses that may be deducted under an amendment to a trust deed made under this section are a reasonable amount to cover the costs incurred by the Board in endeavouring to locate the missing person, and confirming and satisfying the liability of the scheme to the person.
-(4) For the purposes of subsection (1)(b)(i), and except as otherwise approved in writing by the Minister, a share in the scheme is to be calculated as—
+(4) For the purposes of subsection (1)﻿(b)﻿(i), and except as otherwise approved in writing by the Minister, a share in the scheme is to be calculated as—
   (a) The value of the liabilities (as determined by the appointed actuary) of the scheme to those persons:
   (b) Plus, in the case of a scheme with positive reserves or an actuarial surplus, an equitable share of the reserves or surplus (as determined by the Board after receiving advice from the appointed actuary):
   (c) Less, in the case of a scheme with negative reserves or an actuarial deficit, an equitable share of the reserves or deficit (as determined by the Board after receiving advice from the appointed actuary).
@@ -89,7 +89,7 @@ This section inserted sections 40B to 40D and the preceding heading of the princ
 (1) The Board may amend the trust deed for a defined contribution scheme to—
   (a) Remove the Board's obligation to apply on a per annum basis the minimum earnings rate that is required to be credited to a member's account and that is specified in the trust deed; and
   (b) Replace that obligation with an obligation to the effect that the average per annum earnings rate credited to a member's account over the specified period is no less than that minimum earnings rate.
-(2) In subsection (1)(b), specified period means the period from a date determined by the Board (not being earlier than the date of commencement of this Act) to the date of determination of the member's total credit for the purpose of paying 1 or more of the benefits payable under the scheme.
+(2) In subsection (1)﻿(b), specified period means the period from a date determined by the Board (not being earlier than the date of commencement of this Act) to the date of determination of the member's total credit for the purpose of paying 1 or more of the benefits payable under the scheme.
 (3) This section is subject to section 26 (approval of the Minister).
 
 **Charging of fees for additional administration**
@@ -130,7 +130,7 @@ No amendment to a trust deed authorised by this Part limits or affects a judgmen
 ### 17 Establishment of new pension schemes
 (1) The Board may establish by trust deed 1 or more schemes for the purpose of paying pensions arising from membership of such of the existing schemes as the Board may determine from time to time.
 (2) The trust deed for a pension scheme may contain different terms for different classes of beneficiaries.
-(3) Each trust deed must specify the matters required to be specified by section 7 of the Superannuation Schemes Act 1989, as appropriate.
+(3)
 (4) This section is subject to section 26 (approval of the Minister).
 
 ### 18 Board authorised to amend existing schemes to provide for transfer to pension schemes
@@ -163,8 +163,8 @@ The provisions set out in Schedule 1 apply to a new pension scheme.
     (v) Such matters, if any, as are required by regulations; and
   (c) Include such other matters (if any) relating to the amalgamation as the Board and the Minister agree should be included in the proposal.
 (4) In preparing a draft amalgamation proposal, the Board must ensure that, as far as practicable, the trust deed for the new scheme to be established as a result of the amalgamation proposal—
-  (a) Has terms that are not materially and adversely different from the terms in the trust deeds for the existing schemes concerned in so far as those terms affect any member or beneficiary of those schemes; and
-  (b) Specifies the matters required to be specified by section 7 of the Superannuation Schemes Act 1989, as appropriate.
+  (a) Has terms that are not materially and adversely different from the terms in the trust deeds for the existing schemes concerned in so far as those terms affect any member or beneficiary of those schemes.
+  (b)
 (5) Subsection (4) is subject to subsection (3).
 
 ### 21 Approval of proposal by Minister
@@ -187,7 +187,7 @@ The provisions set out in Schedule 1 apply to a new pension scheme.
 ### 23 Implementation of proposal
 (1) The Board must arrange for the implementation of an amalgamation proposal, or of an amendment of a proposal, as soon as practicable after the proposal or amendment has been approved by a notice in the Gazette.
 (2) Any documents executed, and all other arrangements made, for the purpose of implementing an amalgamation proposal, become effective as at the appointed day for that proposal.
-(3) Any documents executed, and all other arrangements made, for the purpose of implementing an amendment to an amalgamation proposal become effective as at the day stated under section 22(4)(b).
+(3) Any documents executed, and all other arrangements made, for the purpose of implementing an amendment to an amalgamation proposal become effective as at the day stated under section 22(4)﻿(b).
 
 ### 24 Effect of implementation of amalgamation proposal
 The provisions set out in Schedule 2 apply to the implementation of an amalgamation proposal.
@@ -213,7 +213,7 @@ The provisions set out in Schedule 2 apply to the implementation of an amalgamat
   (a) The Board has supplied to the Minister a certificate stating that, in its opinion, and where appropriate after taking into account the advice of the appointed actuary, the terms of the amendment, deed, or proposal are fair and equitable to the members and beneficiaries of the relevant scheme or schemes taken as a whole; and
   (b) The Minister is satisfied that the terms of the amendment, deed, or proposal are fair and equitable to the members and beneficiaries of the relevant scheme or schemes taken as a whole; and
   (c) The Minister is satisfied that the requirements of the section or sections under which the amendment, deed, or proposal is being made have been complied with.
-(4) The fair and equitable requirement in subsection (3)(a) and (b) is subject to the provisions of the relevant section or sections under which the amendment, deed, or proposal is made.
+(4) The fair and equitable requirement in subsection (3)﻿(a) and (b) is subject to the provisions of the relevant section or sections under which the amendment, deed, or proposal is made.
 (5) The Minister must not approve an amendment to an amalgamation proposal made after the appointed day unless the Minister is satisfied that the amendment is necessary for the purpose of correcting an error in the amalgamation proposal as approved under section 21 or is of a purely technical nature.
 
 **Miscellaneous provisions**
@@ -221,7 +221,7 @@ The provisions set out in Schedule 2 apply to the implementation of an amalgamat
 ### 27 Consents not required
 (1) No consents from a member or beneficiary of an existing scheme, or from any other person or organisation, are required in relation to the making of amendments to a trust deed under Part 2 or Part 3.
 (2) No consents from a member or beneficiary of an existing scheme, or from any other person or organisation, are required in relation to an amalgamation proposal or the transfer of a member or beneficiary from an existing scheme to another scheme as provided for in this Act.
-(3) This section applies notwithstanding the Superannuation Schemes Act 1989 or any other enactment or rule of law or a provision of a trust deed for an existing scheme.
+(3) This section applies notwithstanding any enactment or rule of law or a provision of a trust deed for an existing scheme.
 
 ### 28 Powers may be exercised from time to time
 A power given to the Board under this Act to do any act or thing is capable of being exercised from time to time, as occasion may require.
@@ -230,8 +230,8 @@ A power given to the Board under this Act to do any act or thing is capable of b
 A certificate required by this Act to be given by the Board to the Minister on a matter on which the Board must obtain the advice of the appointed actuary must be accompanied by a copy of the appointed actuary's advice.
 
 ### 30 Act to prevail over other laws
-(1) This Act has effect notwithstanding any provision of the principal Act, the Superannuation Schemes Act 1989, or any other enactment or rule of law.
-(2) A provision included in a trust deed or in an amalgamation proposal under this Act has effect, and may be implemented at any time by the Board, notwithstanding any provision of the principal Act, the Superannuation Schemes Act 1989, or any other enactment or rule of law.
+(1) This Act has effect notwithstanding any provision of the principal Act or any other enactment or rule of law.
+(2) A provision included in a trust deed or in an amalgamation proposal under this Act has effect, and may be implemented at any time by the Board, notwithstanding any provision of the principal Act or any other enactment or rule of law.
 
 ### 31 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -253,8 +253,8 @@ A pension scheme is deemed to be an existing scheme for the purposes of sections
 ### 3
 A pension scheme is deemed to consist of a trust fund for the purposes of—
   (a) The definition of unclaimed money in section 2 of the principal Act; and
-  (b) Sections 18, 31, 32, 51, and 64 of the principal Act; and
-  (c) Paragraph (h) of the definition of unit trust in section 2 of the Unit Trusts Act 1960.
+  (b) Sections 18, 31, 32, 51, and 64 of the principal Act.
+  (c)
 
 ### 4
 The trust deed for a pension scheme is deemed to be a trust deed to which section 59 and section 65(1) of the principal Act apply.
