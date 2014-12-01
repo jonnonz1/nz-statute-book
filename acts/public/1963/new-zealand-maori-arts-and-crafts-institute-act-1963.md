@@ -1,5 +1,5 @@
 # New Zealand Maori Arts and Crafts Institute Act 1963
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to establish the New Zealand Maori Arts and Crafts Institute and to prescribe its functions and powers
 
@@ -121,7 +121,7 @@ The Institute shall have all such powers, rights and authorities as may reasonab
 ### 18 Appointment of officers
 (1) The Institute may from time to time appoint such officers and servants as are considered necessary for the exercise and performance of its functions and powers.
 (2) The Institute may pay to its officers and servants such salaries and allowances as it thinks fit.
-(3) For the purpose of providing superannuation or retiring allowances for its officers or servants, the Institute may make payments to or subsidise any superannuation scheme which is registered under the Superannuation Schemes Act 1989.
+(3) For the purpose of providing superannuation or retiring allowances for its officers or servants, the Institute may make payments to or subsidise any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 
 ### 19 Grants to Institute
 (1) Any local authority within the meaning of the Local Government Act 2002, or other public body, any public corporation, any company or other incorporated body, any unincorporated body of persons, or any other person may, unless expressly prohibited by any Act or instrument of trust affecting the donor, make to the Institute donations, gifts, or loans and the Institute may accept any such donations, gifts, or loans.
