@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2014-08-08_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -1056,7 +1056,7 @@ Unless clause 5 applies, if provision is made in the determination for a respons
 (2) The following persons are disqualified from being members:
   (a) a person who is under 18 years of age:
   (b) a person who is an undischarged bankrupt:
-  (c) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
+  (c) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
   (d) a person who is subject to a property order under the Protection of Personal and Property Rights Act 1988:
   (e) a person in respect of whom a personal order has been made under that Act that reflects adversely on the person’s—
     (i) competence to manage his or her own affairs in relation to his or her property; or
