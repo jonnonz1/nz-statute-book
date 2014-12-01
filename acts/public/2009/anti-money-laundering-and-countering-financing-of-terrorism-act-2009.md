@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -101,14 +101,14 @@ In this Act, unless the context otherwise requires,—
       (ii) through which a facility holder may conduct 2 or more transactions; and
     (b) without limiting paragraph (a), includes—
       (i) a life insurance policy:
-      (ii) membership of a superannuation scheme:
+      (ii) membership of a superannuation scheme, workplace savings scheme, or KiwiSaver scheme:
       (iii) the provision, by a reporting entity, of facilities for safe custody, including (without limitation) a safety deposit box:
       (iv) an account or arrangement declared by regulations to be a facility for the purposes of this Act; but
     (c) excludes an account or arrangement declared by regulations not to be a facility for the purposes of this Act
   - **facility holder** , in relation to a facility,—
     (a) means the person in whose name the facility is established; or
     (b) if that facility is a life insurance policy, means any person who for the time being is the legal holder of that policy; or
-    (c) if that facility consists of membership of a superannuation scheme, means any person who is a member of the scheme within the meaning of member in section 2(1) of the Superannuation Schemes Act 1989
+    (c) if that facility consists of membership of a superannuation scheme, workplace savings scheme, or KiwiSaver scheme, means the product holder of the managed investment product in the scheme (within the meanings of product holder and managed investment product in section 6(1) of the Financial Markets Conduct Act 2013)
   - **financial institution** —
     (a) means a person who, in the ordinary course of business, carries on 1 or more of the following financial activities:
       (i) accepting deposits or other repayable funds from the public:
@@ -138,9 +138,10 @@ In this Act, unless the context otherwise requires,—
     (b) a Crown entity under section 7 of the Crown Entities Act 2004; or
     (c) the Reserve Bank, the Parliamentary Counsel Office, the New Zealand Police, and the New Zealand Security Intelligence Service; or
     (d) any overseas country's counterpart of any of the entities in paragraphs (a) to (c)
-  - **identity information** means information obtained under sections 15, 19, 23, and 27(1) and (2) and any other information relating to identity prescribed by sections 29(2)(g) and 30(b)
+  - **identity information** means information obtained under sections 15, 19, 23, and 27(1) and (2) and any other information relating to identity prescribed by sections 29(2)﻿(g) and 30(b)
   - **individual** means a natural person, other than a deceased natural person
   - **intermediary institution** , in relation to a wire transfer, is a person that participates in a transfer of funds that takes place through more than 1 institution but is not an ordering institution or a beneficiary institution
+  - **KiwiSaver scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **law enforcement purposes** means—
     (a) the administration of this Act:
     (b) the detection, investigation, and prosecution of—
@@ -205,6 +206,7 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to a reporting entity that is not a company, a person who occupies a position comparable to that of a director (for example, a trustee or partner); and
     (c) any other person who occupies a position within a reporting entity that allows that person to exercise an influence over the management or administration of the reporting entity (for example, a chief executive or a chief financial officer)
   - **shell bank** has the meaning set out in section 39(2)
+  - **superannuation scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **suspicious property report** has the same meaning as in section 4(1) of the Terrorism Suppression Act 2002
   - **suspicious transaction report** means a report made under section 40
   - **transaction** —
@@ -228,6 +230,7 @@ In this Act, unless the context otherwise requires,—
       (i) transfers and settlements between financial institutions if both the originator and the beneficiary are financial institutions acting on their own behalf; and
       (ii) credit and debit card transactions if the credit or debit card number accompanies the transaction; and
       (iii) any other transfer or transaction or class of transfers or transactions declared by regulations not to be a wire transfer for the purposes of this Act.
+  - **workplace savings scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
 
 ### 6 Application of this Act to reporting entities
 This Act applies to a reporting entity only to the extent that—
@@ -265,7 +268,7 @@ In this subpart, unless the context otherwise requires,—
   (a) a customer:
   (b) any beneficial owner of a customer:
   (c) any person acting on behalf of a customer.
-(2) For the purposes of subsection (1)(b), a customer who is an individual and who the reporting entity believes on reasonable grounds is not acting on behalf of another person is to be treated as if he or she were also the beneficial owner unless the reporting entity has reasonable grounds to suspect that that customer is not the beneficial owner.
+(2) For the purposes of subsection (1)﻿(b), a customer who is an individual and who the reporting entity believes on reasonable grounds is not acting on behalf of another person is to be treated as if he or she were also the beneficial owner unless the reporting entity has reasonable grounds to suspect that that customer is not the beneficial owner.
 (3) The type of customer due diligence that must be conducted by a reporting entity is,—
   (a) in the circumstances described in section 14, at least standard customer due diligence:
   (b) in the circumstances described in section 18, at least simplified customer due diligence:
@@ -326,7 +329,7 @@ A reporting entity must also obtain—
   (b) one of the customers specified in subsection (2) conducts an occasional transaction through the reporting entity; or
   (c) a customer conducts a transaction or obtains a product or service specified in regulations through the reporting entity.
 (2) The following are customers for the purposes of subsection (1):
-  (a) a company that is listed on an exchange registered under Part 2B of the Securities Markets Act 1988:
+  (a) a listed issuer (within the meaning of the Financial Markets Conduct Act 2013) that is the issuer of quoted voting products (within the meaning of that Act):
   (b) a government department named in Schedule 1 of the State Sector Act 1988:
   (c) a local authority as defined in section 5 of the Local Government Act 2002:
   (d) the New Zealand Police:
@@ -350,7 +353,7 @@ A reporting entity must obtain the following identity information in relation to
 (3) For the purposes of verifying a person's authority to act in the circumstances described in section 18, a reporting entity may rely on an authority provided in an application form or other document provided to the reporting entity that shows a person's authority to act or transact on an account.
 
 ### 21 Simplified customer due diligence: other requirements
-In the circumstances described in section 18(1)(a), a reporting entity must also obtain information on the nature and purpose of the proposed business relationship between the customer and the reporting entity.
+In the circumstances described in section 18(1)﻿(a), a reporting entity must also obtain information on the nature and purpose of the proposed business relationship between the customer and the reporting entity.
 
 **Enhanced customer due diligence**
 
@@ -393,7 +396,7 @@ A reporting entity must, in relation to a person referred to in section 11(1), o
   (c) verification of identity is completed as soon as is practicable once the business relationship has been established.
 
 ### 25 Enhanced customer due diligence: other requirements
-In the circumstances described in section 22(1)(a), 22(2)(a), and 22(5)(a), a reporting entity must also obtain information on the nature and purpose of the proposed business relationship between the customer and the reporting entity.
+In the circumstances described in section 22(1)﻿(a), 22(2)﻿(a), and 22(5)﻿(a), a reporting entity must also obtain information on the nature and purpose of the proposed business relationship between the customer and the reporting entity.
 
 ### 26 Politically exposed person
 (1) The reporting entity must, as soon as practicable after establishing a business relationship or conducting an occasional transaction, take reasonable steps to determine whether the customer or any beneficial owner is a politically exposed person.
@@ -412,8 +415,8 @@ In the circumstances described in section 22(1)(a), 22(2)(a), and 22(5)(a), a re
     (iii) the originator's customer identification number:
     (iv) the originator's place and date of birth; and
   (d) any information prescribed by regulations.
-(2) However, if the wire transfer is a domestic wire transfer, a reporting entity that is an ordering institution may identify the originator by obtaining the originator's account number or other identifying information that may be prescribed and allows the transaction to be traced back to the originator if the reporting entity that is the ordering institution is able to provide the information specified in subsection (1)(a), (c), and (d) within 3 working days of a request being made by the beneficiary institution.
-(3) Regulations may be made under section 154(1)(c) exempting the reporting entity from the obligation to obtain some or all of the information set out in subsection (1) in relation to a specified transfer or transaction.
+(2) However, if the wire transfer is a domestic wire transfer, a reporting entity that is an ordering institution may identify the originator by obtaining the originator's account number or other identifying information that may be prescribed and allows the transaction to be traced back to the originator if the reporting entity that is the ordering institution is able to provide the information specified in subsection (1)﻿(a), (c), and (d) within 3 working days of a request being made by the beneficiary institution.
+(3) Regulations may be made under section 154(1)﻿(c) exempting the reporting entity from the obligation to obtain some or all of the information set out in subsection (1) in relation to a specified transfer or transaction.
 (4) The information obtained by the reporting entity (the ordering institution under subsection (1) or (2), as the case may be) must accompany the wire transfer.
 (5) A reporting entity that is a beneficiary institution must—
   (a) use effective risk-based procedures for handling wire transfers that are not accompanied by all the information specified in subsection (1); and
@@ -457,7 +460,7 @@ Before a reporting entity establishes a business relationship or conducts an occ
 (1) This section applies to a business relationship between a reporting entity and a customer.
 (2) A reporting entity must conduct ongoing customer due diligence and undertake account monitoring in order to—
   (a) ensure that the business relationship and the transactions relating to that business relationship are consistent with the reporting entity’s knowledge about the customer and the customer’s business and risk profile; and
-  (b) identify any grounds for reporting a suspicious transaction under section 40(1)(b).
+  (b) identify any grounds for reporting a suspicious transaction under section 40(1)﻿(b).
 (3) When conducting ongoing customer due diligence and undertaking account monitoring, the reporting entity must have regard to—
   (a) the type of customer due diligence conducted when the business relationship with the customer was established; and
   (b) the level of risk involved.
@@ -502,14 +505,14 @@ Information obtained by a third party conducting customer due diligence under se
 
 ### 36 Protection of personal information and designated business groups
 (1) This section applies to personal information that is either—
-  (a) identity or verification information received for the purposes of section 32(1)(a); or
-  (b) information received for the purposes of section 32(1)(b).
+  (a) identity or verification information received for the purposes of section 32(1)﻿(a); or
+  (b) information received for the purposes of section 32(1)﻿(b).
 (2) Any information supplied by any member of a designated business group to another member of that group must be subject to privacy protections at least equivalent to those set out in privacy principles 5 to 11 in section 6 of the Privacy Act 1993.
 (3) Each member of the designated business group must agree, in writing, to comply with privacy principles 5 to 11 in section 6 of the Privacy Act 1993 or their equivalent if the member is resident overseas.
 (4) The entity that provides information to another member of its designated business group remains responsible for the use or disclosure of that information.
 (5) A reporting entity may use or disclose information to which this section applies only as follows:
-  (a) it may use identity and verification information received for the purposes of section 32(1)(a) in a suspicious transactions report:
-  (b) it may disclose information for the purposes of section 32(1)(b) to another member of the designated business group unless such disclosure is likely to result in a suspicious transaction report being filed in an overseas jurisdiction by the member to whom the information is disclosed.
+  (a) it may use identity and verification information received for the purposes of section 32(1)﻿(a) in a suspicious transactions report:
+  (b) it may disclose information for the purposes of section 32(1)﻿(b) to another member of the designated business group unless such disclosure is likely to result in a suspicious transaction report being filed in an overseas jurisdiction by the member to whom the information is disclosed.
 
 **Prohibitions**
 
@@ -568,7 +571,7 @@ If, in relation to a customer, a reporting entity is unable to conduct customer 
 (1) Except as provided in subsection (2), a report under section 40 must—
   (a) be in the prescribed form (if any); and
   (b) contain the details prescribed by regulations; and
-  (c) contain a statement of the grounds on which the reporting entity holds the suspicions referred to in section 40(1)(b); and
+  (c) contain a statement of the grounds on which the reporting entity holds the suspicions referred to in section 40(1)﻿(b); and
   (d) be signed by a person authorised by the reporting entity to sign suspicious transaction reports (unless the report is forwarded by email or another similar means of communication); and
   (e) be forwarded, in writing, to the Commissioner—
     (i) by way of secure electronic transmission by a means specified or provided by the Commissioner for this purpose; or
@@ -638,10 +641,10 @@ If, in relation to a customer, a reporting entity is unable to conduct customer 
 (3) A Police employee may only disclose information to which this section applies for law enforcement purposes.
 (4) An AML/CFT supervisor may only disclose information to which this section applies to the Police for law enforcement purposes.
 (5) A person to whom a function or power has been delegated under section 134 may disclose information to which this section applies only to the AML/CFT supervisor that made the delegation.
-(6) A person (person A) referred to in subsection (2)(c) to whom disclosure of any information to which that subsection applies has been made must not disclose that information except to another person of the kind referred to in that subsection for the purpose of—
+(6) A person (person A) referred to in subsection (2)﻿(c) to whom disclosure of any information to which that subsection applies has been made must not disclose that information except to another person of the kind referred to in that subsection for the purpose of—
   (a) the performance of person A's duties; or
   (b) obtaining legal advice or representation in relation to the matter.
-(7) A person referred to in subsection (2)(d) to whom disclosure of any information to which that subsection applies has been made must not disclose that information except to a person of the kind referred to in that subsection for the purpose of giving legal advice or making representations in relation to the matter.
+(7) A person referred to in subsection (2)﻿(d) to whom disclosure of any information to which that subsection applies has been made must not disclose that information except to a person of the kind referred to in that subsection for the purpose of giving legal advice or making representations in relation to the matter.
 (8) Any other person who has information to which this section applies may only disclose that information to the Police for law enforcement purposes.
 
 ### 47 Disclosure of information in proceedings
@@ -657,8 +660,8 @@ An AML/CFT supervisor that has, in the performance and exercise of its functions
     (iii) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
     (iv) the Gambling Act 2003:
     (v) the Reserve Bank of New Zealand Act 1989:
-    (vi) the Securities Act 1978:
-    (vii) the Securities Markets Act 1988.
+    (vi) the Financial Markets Conduct Act 2013.
+    (vii)
 
 ### Subpart 3 — Record keeping
 
@@ -672,7 +675,7 @@ An AML/CFT supervisor that has, in the performance and exercise of its functions
   (e) if applicable, the facility through which the transaction was conducted, and any other facilities (whether or not provided by the reporting entity) directly involved in the transaction:
   (f) the name of the officer or employee or agent of the reporting entity who handled the transaction, if that officer, employee, or agent—
     (i) has face-to-face dealings in respect of the transaction with any of the parties to the transaction; and
-    (ii) has formed a suspicion (of the kind referred to in section 40(1)(b)) about the transaction:
+    (ii) has formed a suspicion (of the kind referred to in section 40(1)﻿(b)) about the transaction:
   (g) any other information prescribed by regulations.
 (3) A reporting entity must retain the records kept by that reporting entity, in accordance with this section, in relation to a transaction for—
   (a) a period of at least 5 years after the completion of that transaction; or
@@ -816,7 +819,7 @@ In this Part, unless the context otherwise requires,—
   (a) relate generally to the obligations imposed on the relevant reporting entities by or under this Act or regulations or specify particular aspects of those obligations that are to be covered by the code of practice:
   (b) specify the amendments to be made or their intended effect, and specify the extent of the revocation to be made:
   (c) indicate the date by which the responsible Minister wishes the code of practice to be provided to him or her:
-  (d) include details about the recommendation that the AML/CFT supervisor is required to provide under section 64(1)(a).
+  (d) include details about the recommendation that the AML/CFT supervisor is required to provide under section 64(1)﻿(a).
 (4) An AML/CFT supervisor must comply with a direction under subsection (1) as soon as practicable.
 (5) No code of practice has legal effect until approved by the responsible Minister under section 64(6).
 
@@ -824,7 +827,7 @@ In this Part, unless the context otherwise requires,—
 (1) The responsible Minister must not approve a code of practice prepared by an AML/CFT supervisor unless—
   (a) the AML/CFT supervisor has made a recommendation that the Minister should approve the code of practice; and
   (b) the AML/CFT supervisor has consulted the persons and organisations that the Minister thinks appropriate, having regard to the subject matter of the proposed code of practice.
-(2) In consulting under subsection (1)(b), the AML/CFT supervisor must ensure that—
+(2) In consulting under subsection (1)﻿(b), the AML/CFT supervisor must ensure that—
   (a) a copy of the proposed code of practice or a summary of its contents, in hard copy or electronic format, is provided to the persons and organisations being consulted; and
   (b) the persons and organisations being consulted have at least 20 working days to make submissions or representations about the proposed code of practice.
 (3) The responsible Minister may direct the AML/CFT supervisor to reconsider any aspect of the proposed code of practice and to make any amendments that the Minister considers necessary.
@@ -850,7 +853,7 @@ Publication in the Gazette of a notice under section 64(6) is conclusive evidenc
 (1) A reporting entity complies with an obligation imposed on it by or under this Act or regulations by—
   (a) complying with those provisions of a code of practice that state a means of satisfying the obligation; or
   (b) complying with the obligation by some other equally effective means.
-(2) However, a reporting entity may not rely on subsection (1)(b) as a defence to an act or omission on its part unless it has, by notice in writing given before the act or omission occurred, advised the AML/CFT supervisor that it has opted out of compliance with the code of practice and intends to satisfy its obligations by some other equally effective means.
+(2) However, a reporting entity may not rely on subsection (1)﻿(b) as a defence to an act or omission on its part unless it has, by notice in writing given before the act or omission occurred, advised the AML/CFT supervisor that it has opted out of compliance with the code of practice and intends to satisfy its obligations by some other equally effective means.
 (3) If a person is charged with an offence in respect of a failure to comply with any provision of this Act, a court must, in determining whether that person has failed to comply with the provision, have regard to any code of practice in force under section 64(6) at the time of the alleged failure relating to matters of the kind to which the provision relates.
 (4) If an application for an injunction against a person has been made under this Act, a court must, in determining whether to grant the injunction, have regard to any code of practice in force under section 64(6).
 (5) If an application for a pecuniary penalty against a person has been made under this Act, a court must, in determining whether to impose a pecuniary penalty, have regard to any code of practice in force under section 64(6) at the time the person engaged in conduct that constituted the relevant civil liability act.
@@ -971,7 +974,7 @@ If a civil liability act is alleged to have occurred, the relevant AML/CFT super
   (c) any order that the court considers appropriate directing the person to compensate any other person who has suffered loss or damage as a result of the breach.
 
 ### 83 Assessment of compensation for breach of undertakings
-For the purposes of section 82(2)(c), in determining whether another person (person A) has suffered loss or damage as a result of the breach, and in assessing the amount of compensation payable, the court may have regard to the following:
+For the purposes of section 82(2)﻿(c), in determining whether another person (person A) has suffered loss or damage as a result of the breach, and in assessing the amount of compensation payable, the court may have regard to the following:
   (a) the extent to which any expenses incurred by person A are attributable to dealing with the breach:
   (b) the effect of the breach on person A's ability to carry on business or other activities:
   (c) any damage to the reputation of person A's business that is attributable to dealing with the breach:
@@ -993,8 +996,8 @@ The powers in sections 85 to 89 are in addition to, and do not derogate from, an
 (1) The High Court may grant an injunction requiring a person to do an act or thing if—
   (a) it is satisfied that the person has refused or failed to do that act or thing; or
   (b) it appears to the court that, if an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing.
-(2) Subsection (1)(a) applies whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing.
-(3) Subsection (1)(b) applies—
+(2) Subsection (1)﻿(a) applies whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing.
+(3) Subsection (1)﻿(b) applies—
   (a) whether or not the person has previously refused or failed to do that act or thing; or
   (b) where there is an imminent danger of substantial damage to any other person if that person refuses or fails to do that act or thing.
 
@@ -1007,8 +1010,8 @@ The powers in sections 85 to 89 are in addition to, and do not derogate from, an
   (a) it is satisfied that the person has engaged in conduct of that kind; or
   (b) it appears to the court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind.
 (2) The court may grant an interim injunction restraining a person from engaging in conduct of a particular kind if, in its opinion, it is desirable to do so.
-(3) Subsections (1)(a) and (2) apply whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
-(4) Subsections (1)(b) and (2) apply—
+(3) Subsections (1)﻿(a) and (2) apply whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
+(4) Subsections (1)﻿(b) and (2) apply—
   (a) whether or not the person has previously engaged in conduct of that kind; or
   (b) where there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
 
@@ -1086,7 +1089,7 @@ A person commits an offence if the person acts in contravention of section 47(1)
 (1) It is a defence to a charge against a person in relation to a contravention of, or a failure to comply with, Part 2 if the defendant proves that—
   (a) the defendant took all reasonable steps to ensure that the defendant complied with that Part; or
   (b) in the circumstances of the particular case, the defendant could not reasonably have been expected to ensure that the defendant complied with that Part.
-(2) In determining, for the purposes of subsection (1)(a), whether or not a defendant took all reasonable steps to comply with Part 2, the court must have regard to—
+(2) In determining, for the purposes of subsection (1)﻿(a), whether or not a defendant took all reasonable steps to comply with Part 2, the court must have regard to—
   (a) the nature of the reporting entity and the activities in which it engages; and
   (b) the existence and adequacy of any procedures established by the reporting entity to ensure compliance with that Part.
 (3) Except as provided in subsection (4), subsection (1) does not apply unless, within 21 days after the service of the summons, or within such further time as the court may allow, the defendant has delivered to the prosecutor a written notice—
@@ -1305,8 +1308,13 @@ In this subpart, unless the context otherwise requires,—
 ### 130 AML/CFT supervisors
 (1) The AML/CFT supervisors are as follows:
   (a) for registered banks, life insurers, and non-bank deposit takers, the Reserve Bank of New Zealand (Reserve Bank) is the relevant AML/CFT supervisor:
-  (b) for issuers of securities, trustee companies, futures dealers, collective investment schemes, brokers, and financial advisers, the Financial Markets Authority is the relevant AML/CFT supervisor:
+  (b) for persons referred to in subsection (1A) (other than banks, life insurers, and non-bank deposit takers), the Financial Markets Authority is the relevant AML/CFT supervisor:
   (c) for casinos, non-deposit-taking lenders, money changers, and other reporting entities that are not covered by paragraph (a) or (b), the Department of Internal Affairs is the relevant AML/CFT supervisor.
+(1A) For the purposes of subsection (1)﻿(b), the persons are any of the following:
+  (a) persons registered, or required to be registered, under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 by virtue of providing any of the services referred to in—
+    (i) section 5(1)﻿(a), (ab), (d), or (i) to (id) of that Act; or
+    (ii) section 5(1)﻿(k) of that Act (but only to the extent that it relates to the service of trading in financial products on behalf of other persons):
+  (b) statutory supervisors within the meaning of section 5 of the Retirement Villages Act 2003.
 (2) If the products or services provided by a particular reporting entity are covered by more than 1 AML/CFT supervisor,—
   (a) the AML/CFT supervisors concerned may agree on the relevant AML/CFT supervisor that will be the reporting entity’s AML/CFT supervisor for the purposes of this Act; and
   (b) the relevant AML/CFT supervisor will notify the reporting entity accordingly.
@@ -1349,7 +1357,7 @@ The functions of an AML/CFT supervisor are to—
 ### 134 Delegation of supervisory function and powers
 (1) An AML/CFT supervisor may delegate the following function and powers to a person who, by reason of his or her training or experience, is suitably qualified to perform that function and exercise those powers:
   (a) its function under section 131(d) of investigating the reporting entities it supervises:
-  (b) its powers under section 132(2)(a) and (b), for the purpose only of performing the function of investigation under section 131(d).
+  (b) its powers under section 132(2)﻿(a) and (b), for the purpose only of performing the function of investigation under section 131(d).
 (2) A delegation under subsection (1)—
   (a) must be made by the chief executive of the AML/CFT supervisor in writing; and
   (b) may be made subject to any restrictions and conditions that the AML/CFT supervisor thinks fit; and
@@ -1383,8 +1391,8 @@ The functions of an AML/CFT supervisor are to—
 (1) This section applies to information other than personal information.
 (2) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Reserve Bank of New Zealand Act 1989 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
 (3) The Reserve Bank may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Reserve Bank of New Zealand Act 1989.
-(4) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Financial Markets Authority Act 2011, the Securities Act 1978, the Securities Markets Act 1988, and the Financial Advisers Act 2008 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
-(5) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Financial Markets Authority Act 2011, the Securities Act 1978, the Securities Markets Act 1988, and the Financial Advisers Act 2008.
+(4) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Financial Markets Authority Act 2011, the Financial Markets Conduct Act 2013, and the Financial Advisers Act 2008 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
+(5) The Financial Markets Authority may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Financial Markets Authority Act 2011, the Financial Markets Conduct Act 2013, and the Financial Advisers Act 2008.
 (6) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under the Gambling Act 2003 for the purpose of exercising its powers or performing its functions and duties under this Act as an AML/CFT supervisor.
 (7) The Department of Internal Affairs may use any information obtained or held by it in the exercise of its powers or the performance of its functions and duties under this Act as an AML/CFT supervisor for the purpose of exercising its powers or performing its functions and duties under the Gambling Act 2003.
 
@@ -1408,8 +1416,8 @@ The Commissioner, the New Zealand Customs Service, or an AML/CFT supervisor may 
   (h) the New Zealand Security Intelligence Service Act 1969:
   (i) the Proceeds of Crime Act 1991:
   (j) the Reserve Bank of New Zealand Act 1989:
-  (k) the Securities Act 1978:
-  (l) the Securities Markets Act 1988:
+  (k) the Financial Markets Conduct Act 2013:
+  (l)
   (m) the Terrorism Suppression Act 2002.
 
 ### 141 Enforcement officers
@@ -1499,7 +1507,7 @@ The Ministry, in consultation with other agencies with AML/CFT roles and functio
   (c) every AML/CFT supervisor; and
   (d) a representative of the Commissioner; and
   (e) such other persons as are invited from time to time by the chief executive in accordance with subsection (2).
-(2) Any person invited under subsection (1)(e) must be employed in a government agency.
+(2) Any person invited under subsection (1)﻿(e) must be employed in a government agency.
 (3) The chair of the AML/CFT co-ordination committee is the chief executive.
 
 ### 151 Role of AML/CFT co-ordination committee
@@ -1608,7 +1616,7 @@ The Minister is not required to comply with section 154(3) in respect of the mak
   (a) published on an Internet site maintained by or on behalf of the chief executive; and
   (b) notified in the Gazette; and
   (c) made available in printed form for purchase on request by members of the public.
-(7) A notification in the Gazette for the purpose of subsection (6)(b) does not have to incorporate the exemption.
+(7) A notification in the Gazette for the purpose of subsection (6)﻿(b) does not have to incorporate the exemption.
 
 ### 158 Minister must consult before granting exemption
 Before granting an exemption under section 157, the Minister must consult with—
