@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -4983,7 +4983,7 @@ The enactments specified in Schedule 3 are hereby repealed.
 The chief executive of the Electoral Commission may, under delegation from the Board, appoint any officers and employees (including acting or temporary or casual officers and employees) as may be necessary for carrying this Act into effect.
 
 ### 4 Superannuation or retiring allowances
-(1) For the purposes of providing superannuation or retiring allowances for the chief executive, the Commission may, out of the funds of the Commission, make payment to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purposes of providing superannuation or retiring allowances for the chief executive, the Commission may, out of the funds of the Commission, make payment to or subsidise any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the chief executive or, as the case may be, becoming an officer or employee of the Electoral Commission, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as the chief executive or, as the case may be, to be an officer or employee of the Commission; and that Act shall apply to that person in all respects as if that person’s service as the chief executive or, as the case may be, as such an officer or employee were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
 (4) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the chief executive or, as the case may be, is in the service of the Electoral Commission as an officer or employee and (in any such case) is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person, means the chief executive.
