@@ -1,5 +1,5 @@
 # Health Sector (Transfers) Act 1993
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2014-12-01_
 
 > Title
 
@@ -16,7 +16,7 @@ _Consolidation as at 2013-12-05_
   - **assets** means any real or personal property of any kind, whether or not subject to rights; and, without limitation, includes—
     (a) any estate or interest in any land, including all rights of occupation of land or buildings:
     (b) all buildings, vehicles, plant, equipment, and machinery, and any rights therein:
-    (c) all securities within the meaning of the Securities Act 1978:
+    (c) all financial products within the meaning of the Financial Markets Conduct Act 2013:
     (d) all rights of any kind, including rights under Acts and agreements, and all applications, objections, submissions, and appeals in respect of such rights:
     (e) all patents, trade marks, designs, copyright, plant variety rights, and other intellectual property rights of any kind whether enforceable by Act or rule of law:
     (f) goodwill, and any business undertaking:
@@ -46,7 +46,7 @@ _Consolidation as at 2013-12-05_
   - **HQSC** means the Health Quality and Safety Commission established under section 59A of the New Zealand Public Health and Disability Act 2000
   - **liabilities** includes—
     (a) liabilities and obligations under any Act or agreement; and
-    (b) debt securities within the meaning of the Securities Act 1978; and
+    (b) debt securities within the meaning of the Financial Markets Conduct Act 2013; and
     (c) contingent liabilities; and
     (d) interests of any kind in any of the foregoing
   - **predecessor in title** , in relation to a DHB, means any of its predecessors in title that was an area health board or a hospital board or a Crown health enterprise or a hospital and health service or a similar body established under an enactment relating to the management of public hospitals and charitable institutions
