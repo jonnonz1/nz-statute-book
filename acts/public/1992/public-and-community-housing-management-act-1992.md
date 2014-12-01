@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2014-04-14_
+_Consolidation as at 2014-12-01_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -51,7 +51,7 @@ _Consolidation as at 2014-04-14_
   - **Corporation assets** means any real or personal property of any kind belonging to the Corporation, whether or not subject to rights; and, without limiting the generality of the foregoing, includes—
     (a) any estate or interest in any land belonging to the Corporation, including all rights of occupation of land or buildings:
     (b) all buildings, vehicles, plant, equipment, and machinery belonging to the Corporation, and any rights therein:
-    (c) all securities within the meaning of the Securities Act 1978 belonging to the Corporation:
+    (c) all financial products within the meaning of the Financial Markets Conduct Act 2013 belonging to the Corporation:
     (d) all rights of any kind belonging to the Corporation, including rights under Acts, deeds, agreements, or licences, and all applications, objections, submissions, and appeals in respect of such rights:
     (e) all patents, trade marks, designs, copyright, plant variety rights, and other intellectual property rights whether enforceable by Act or rule of law belonging to the Corporation:
     (f) goodwill and any business undertaking of the Corporation
@@ -70,7 +70,7 @@ _Consolidation as at 2014-04-14_
   - **joint Ministers** means the Minister of Finance, the Minister of Housing, and the Minister for Social Development
   - **liabilities** includes—
     (a) liabilities and obligations under any Act or agreement; and
-    (b) deposits and other debt securities within the meaning of the Securities Act 1978; and
+    (b) deposits and other debt securities within the meaning of the Financial Markets Conduct Act 2013; and
     (c) contingent liabilities
   - **market rent** ,—
     (a) in relation to HNZ housing, means the rent for the time being determined by HNZ or the Tenancy Tribunal (under the Residential Tenancies Act 1986) as the market rent for that housing; or
