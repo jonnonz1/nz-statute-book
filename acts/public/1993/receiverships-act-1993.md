@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to reform the law relating to receivers
 
@@ -103,7 +103,7 @@ _Consolidation as at 2014-04-01_
   (i) a person in respect of whom an order has been made under section 37(6):
   (ia)
   (j)
-  (k) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
+  (k) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
   (l) a person who is prohibited under section 299(1)(b) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
   (m) a person who is disqualified from acting as a receiver by the instrument that confers the power to appoint a receiver.
 (2) A body corporate must not be appointed or act as a receiver.
@@ -286,11 +286,15 @@ A person to whom a report must be sent in accordance with section 26 is entitled
 (1) A receiver of a grantor that is a company and who considers that the grantor or any director of the grantor has committed an offence that is material to the receivership against—must report that fact to the Registrar.
   (a)
   (aa) the Crimes Act 1961; or
-  (b) the Securities Act 1978; or
+  (b) the Financial Markets Conduct Act 2013; or
   (c) the Companies Act 1993; or
   (d)
   (e) the Takeovers Act 1993—
 (1A) A report made under subsection (1), and any communications between the receiver and Registrar relating to that report, are protected by absolute privilege.
+(1B) If a report is made under subsection (1) in respect of a financial markets participant (within the meaning of section 4 of the Financial Markets Authority Act 2011), the Registrar may supply a copy of the report to the Financial Markets Authority (the FMA).
+(1C) Any communications between—
+  (a) the Registrar and the FMA that relate to that report are protected by absolute privilege:
+  (b) the receiver and the FMA that relate to that report are protected by absolute privilege.
 (2) A receiver who fails to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 29 Notice of end of receivership
