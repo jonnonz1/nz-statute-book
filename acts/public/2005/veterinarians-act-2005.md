@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -1218,6 +1218,6 @@ The Council may employ employees—
   (b) on the terms and conditions it thinks fit.
 
 ### 22 Superannuation or retiring allowance
-The Council, for the purpose of providing superannuation or retirement allowances to the Registrar or its employees, may subsidise or contribute to any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+The Council, for the purpose of providing superannuation or retirement allowances to the Registrar or its employees, may subsidise or contribute to any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 
 ## Schedule 2 — Consequential amendments to other enactments
