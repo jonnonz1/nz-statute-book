@@ -1,5 +1,5 @@
 # Children's Commissioner Act 2003
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Children's Commissioner Act 2003.
@@ -281,7 +281,7 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 [Repealed]
 
 ### 6 Superannuation or retiring allowances
-(1) For the purpose of providing a superannuation fund or retiring allowance for the officeholder, sums by way of subsidy or contribution may be paid into any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+(1) For the purpose of providing a superannuation fund or retiring allowance for the officeholder, sums by way of subsidy or contribution may be paid into any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 (2) Despite anything in this Act, any person who, immediately before being appointed as the Commissioner or as an employee of the Commissioner, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is considered, for the purposes of that Act, to be employed in the Government service so long as that person continues to hold office as the Commissioner or as an employee of the Commissioner, and that Act applies to that person in all respects as if service as or for the Commissioner were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) entitles a person to become a contributor to the Government Superannuation Fund after the person has ceased to be a contributor.
 (4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the Commissioner or as an employee of the Commissioner and is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person, means the Commissioner.
