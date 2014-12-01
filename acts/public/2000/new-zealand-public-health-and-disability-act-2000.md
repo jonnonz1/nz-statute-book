@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -1839,7 +1839,7 @@ The following provisions apply when all or any part of a meeting of a board is r
 
 ### 45A Restrictions on giving of guarantees and indemnities and the use of derivatives
 (1) Sections 160 and 163 of the Crown Entities Act 2004 set out the circumstances in which a DHB may give a guarantee to, or indemnify, another person.
-(2) Sections 160 and 164 of the Crown Entities Act 2004 set out the circumstances in which a DHB may enter into or amend the terms of a derivative transaction.
+(2) Sections 160 and 164 of the Crown Entities Act 2004 set out the circumstances in which a DHB may enter into or amend the terms of an agreement constituting a derivative.
 
 ### 46 Investment
 Sections 160 and 161 of the Crown Entities Act 2004 (which relate to acquisition of securities) apply to a DHB subject to section 28.
