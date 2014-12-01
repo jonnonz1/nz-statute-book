@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2014-07-28_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -1620,7 +1620,7 @@ A person to whom a report must be sent on request under section 165 is entitled 
   (a) the current mortgagor is a company or an overseas company; and
   (b) a mortgagee or other person who is required to prepare a report under section 162 or 163 considers that the company or overseas company, or any director of the company or overseas company, has committed an offence that is material to the possession of the mortgaged land or goods by the mortgagee against—
     (i) the Crimes Act 1961; or
-    (ii) the Securities Act 1978; or
+    (ii) the Financial Markets Conduct Act 2013; or
     (iii) the Companies Act 1993; or
     (iv)
     (v) the Takeovers Act 1993.
