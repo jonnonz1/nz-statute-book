@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -290,7 +290,7 @@ The Governor-General in Council may from time to time appoint special sittings o
   (b) applications to the court under the Arbitration Act 1996:
   (c) appeals against determinations of the Commerce Commission:
   (d) proceedings under any of the provisions of sections 80, 81, 82, and 89 of the Commerce Act 1986:
-  (e) cases stated by the Financial Markets Authority, and civil proceedings under the Securities Act 1978 or the Securities Markets Act 1988:
+  (e) cases stated by the Financial Markets Authority, and civil proceedings under the Financial Markets Conduct Act 2013:
   (f) the following proceedings in relation to companies registered under the Companies Act 1993:
     (i) applications for directions by liquidators and receivers:
     (ii) defended applications under section 174 of the Companies Act 1993:
@@ -387,7 +387,7 @@ Notwithstanding anything in section 19A, no proceeding entered on a commercial l
 (6) For the purpose of subsection (2), the payment of salary and allowances on a pro rata basis under subsection (5) is not a diminution of salary.
 
 ### 26G Superannuation or retiring allowances of Associate Judges
-For the purpose of providing a superannuation fund or retiring allowance for persons appointed as Associate Judges, sums by way of subsidy or contribution may from time to time be paid under Part 5B of the Government Superannuation Fund Act 1956 or to any registered superannuation scheme in accordance with a determination of the Remuneration Authority.
+For the purpose of providing a superannuation fund or retiring allowance for persons appointed as Associate Judges, sums by way of subsidy or contribution may from time to time be paid under Part 5B of the Government Superannuation Fund Act 1956 or to any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) in accordance with a determination of the Remuneration Authority.
 
 ### 26H Temporary Associate Judges
 (1) The Governor-General may, subject to this section, appoint any person (including a former Associate Judge) to act as an Associate Judge for such period as is specified in the warrant of appointment.
