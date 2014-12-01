@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -945,7 +945,7 @@ The board may delegate any of the functions or powers of the board or the entity
 ## Schedule 6 — Provisions applying to Retirement Commissioner
 
 ### 1 Superannuation or retiring allowances
-(1) For the purpose of providing a superannuation fund or retiring allowance for the Commissioner, sums by way of subsidy or contribution may be paid into any superannuation scheme that is registered under the Superannuation Schemes Act 1989 and approved by the Minister of Finance for the purposes of this clause.
+(1) For the purpose of providing a superannuation fund or retiring allowance for the Commissioner, sums by way of subsidy or contribution may be paid into any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) that is approved by the Minister of Finance for the purposes of this clause.
 (2) Despite anything in this clause, any person who, immediately before being appointed as the Commissioner or as an employee of the Commissioner, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is considered, for the purposes of that Act, to be employed in the Government service so long as that person continues to hold office as the Commissioner or as an employee of the Commissioner, and that Act applies to that person in all respects as if service as or for the Commissioner were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) entitles a person to become a contributor to the Government Superannuation Fund after the person has ceased to be a contributor.
 (4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the Commissioner or as an employee of the Commissioner and is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person, means the Commissioner.
