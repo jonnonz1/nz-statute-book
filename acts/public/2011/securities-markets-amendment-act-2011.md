@@ -1,5 +1,5 @@
 # Securities Markets Amendment Act 2011
-_Consolidation as at 2011-04-18_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Securities Markets Amendment Act 2011.
