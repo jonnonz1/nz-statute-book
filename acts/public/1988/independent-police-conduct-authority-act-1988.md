@@ -1,5 +1,5 @@
 # Independent Police Conduct Authority Act 1988
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to make better provision for the investigation and resolution of complaints against the Police by establishing the Independent Police Conduct Authority
 
@@ -35,7 +35,7 @@ Except as expressly provided in this or any other Act, the Authority must act in
 
 ### 5 Membership of Authority
 (1) The Authority consists of up to 5 members appointed by the Governor-General on the recommendation of the House of Representatives.
-(2) Subsection (1) applies despite section 28(1)(b) of the Crown Entities Act 2004.
+(2) Subsection (1) applies despite section 28(1)﻿(b) of the Crown Entities Act 2004.
 
 ### 5A Chairperson of Authority
 (1) The Governor-General, on the recommendation of the House of Representatives, must appoint 1 member as the chairperson of the Authority.
@@ -72,7 +72,7 @@ Except as expressly provided in this or any other Act, the Authority must act in
 [Repealed]
 
 ### 11 Superannuation or retiring allowances
-For the purpose of providing a superannuation fund or retiring allowance for members of the Authority, sums by way of subsidy may from time to time be paid into any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
+For the purpose of providing a superannuation fund or retiring allowance for members of the Authority, sums by way of subsidy may from time to time be paid into any retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013).
 
 ### 11A Funds of Authority
 [Repealed]
@@ -102,7 +102,7 @@ The income of the Authority shall be exempt from income tax.
   (b) to investigate of its own motion, where it is satisfied that there are reasonable grounds to carry out an investigation in the public interest, any incident involving death or serious bodily harm notified to the Authority by the Commissioner under section 13:
   (c) to take such action in respect of complaints, incidents, and other matters as is contemplated by this Act.
 (2) In the course of taking action in respect of any complaint the Authority may investigate any apparent misconduct or neglect of duty by a Police employee, or any Police practice, policy, or procedure, which appears to the Authority to relate to the complaint, notwithstanding that the complaint itself does not refer to that misconduct, neglect, practice, policy, or procedure.
-(2A) The Authority may receive complaints relating to a matter specified in subsection (1)(a) that occurred before, on, or after 1 April 1989.
+(2A) The Authority may receive complaints relating to a matter specified in subsection (1)﻿(a) that occurred before, on, or after 1 April 1989.
 (3) Nothing in subsection (1) shall authorise the Authority to investigate any matter relating to the terms and conditions of service of any person as a Police employee.
 
 ### 13 Duty of Commissioner to notify Authority of certain incidents involving death or serious bodily harm
@@ -242,7 +242,7 @@ The Authority may at any time—
 (2) If, within a reasonable time after a recommendation is made, no action is taken which seems to the Authority to be adequate and appropriate, the Authority must, after considering any comments made by the Commissioner,—
   (a) send a copy of its opinion and recommendations on the matter, together with the comments of the Commissioner, to the Attorney-General and the Minister of Police; and
   (b) where it considers it appropriate, transmit to the Attorney-General for tabling in the House of Representatives such report on the matter as it thinks fit.
-(3) The Attorney-General shall, as soon as practicable after receiving a report under subsection (2)(b), lay the report before the House of Representatives.
+(3) The Attorney-General shall, as soon as practicable after receiving a report under subsection (2)﻿(b), lay the report before the House of Representatives.
 
 ### 30 Parties to be informed of progress and result of investigation
 Where the Authority investigates a complaint, it shall—
