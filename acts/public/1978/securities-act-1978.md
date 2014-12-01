@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
