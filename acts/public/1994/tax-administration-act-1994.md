@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2014-10-01_
+_Consolidation as at 2014-12-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3214,7 +3214,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (p) communicating, for the purpose of section 85F, information to a person who is an officer, employee, or agent of the New Zealand Film Commission responsible for the administration of a scheme under which government screen production payments are made and who is authorised to receive the information by the chief executive of the New Zealand Film Commission:
   (q) communicating, for the purpose of section 85H, information to a person who is an officer, employee, or agent of the department for the time being responsible for the administration of the Parental Leave and Employment Protection Act 1987 and who is authorised to receive the information by the chief executive of that department:
   (r) communicating to the FMA the following information, provided that the Commissioner considers it not undesirable to disclose the information and the information is reasonably necessary to enable the FMA to perform its duties or functions or exercise its powers:
-    (i) individual or aggregate information relating to a member of a KiwiSaver scheme or a complying superannuation fund (as those terms are defined in section 4(1) of the KiwiSaver Act 2006):
+    (i) individual or aggregate information relating to a member of a KiwiSaver scheme or a complying superannuation fund (as those terms are defined in section 6(1) of the Financial Markets Conduct Act 2013):
     (ii) individual or aggregate information relating to a KiwiSaver scheme or a complying superannuation fund:
     (iii) information arising from the performance of the Commissioner's duties or functions, or the exercise of the Commissioner's powers, in relation to the KiwiSaver Act 2006 or a provision of an Inland Revenue Act that is relevant to the KiwiSaver Act 2006:
   (s) communicating to any person, being a member of the New Zealand Police, any information, being information—
