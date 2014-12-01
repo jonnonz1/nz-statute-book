@@ -1,5 +1,5 @@
 # Non-bank Deposit Takers Act 2013
-_Consolidation as at 2014-05-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 This Act is the Non-bank Deposit Takers Act 2013.
@@ -30,7 +30,7 @@ The purpose of this Act is—
   - **borrowing group** , in relation to an NBDT, means the NBDT and all its guaranteeing subsidiaries
   - **capital ratio** , in relation to an NBDT or borrowing group, means the level of capital in relation to the credit exposures and other risks of the NBDT or borrowing group
   - **debt security** means—
-    (a) a debt security within the meaning given in section 2(1) of the Securities Act 1978; or
+    (a) a debt security within the meaning given in section 8 of the Financial Markets Conduct Act 2013; or
     (b) any other security declared by regulations to be a debt security for the purposes of this Act
   - **director** means—
     (a) a person occupying a position of director by whatever name called; or
@@ -63,6 +63,10 @@ The purpose of this Act is—
     (b) a person that has been granted a licence on the basis that it is not yet, but proposes to be, an NBDT, and whose licence has not been cancelled
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **NBDT** means a non-bank deposit taker, and is defined in section 5
+  - **NBDT regulated offer** —
+    (a) means a regulated offer within the meaning of section 41 of the Financial Markets Conduct Act 2013; and
+    (b) includes an offer of debt securities that would be a regulated offer within the meaning of that section if clause 3(2)(b) and (3)(a) of Schedule 1 of that Act were not in force; and
+    (c) includes an offer of debt securities to the public in New Zealand to which the Securities Act 1978 applied before its repeal or to which that Act applies or applied under Schedule 4 of the Financial Markets Conduct Act 2013
   - **overseas person** means—
     (a) a body corporate incorporated outside New Zealand; or
     (b) an unincorporated body that has its head office or principal place of business outside New Zealand
@@ -87,8 +91,17 @@ The purpose of this Act is—
     (b) a company, or body corporate, or association of persons that is classified as a subsidiary in any applicable financial reporting standard (as that term is defined in section 5(1) of the Financial Reporting Act 2013)
   - **suitability concerns** means the matters, circumstances, or conditions, identified in regulations, that must be drawn to the attention of the Bank if any 1 or more of them apply to a director or senior officer, or proposed director or senior officer, of an NBDT or proposed NBDT
   - **suitability notice** is a notice, in relation to a director or senior officer, or proposed director or senior officer, of an NBDT or proposed NBDT, that is supplied to the Bank and meets the requirements of section 15
-  - **trust deed** , in relation to an NBDT, means a trust deed (as defined in the Securities Act 1978) that is required, by that Act or pursuant to an exemption granted under it, in relation to debt securities (as defined in this Act) offered to the public in New Zealand by or on behalf of the NBDT
-  - **trustee** , in relation to an NBDT, means a trustee (as defined in the Securities Act 1978) that is required, by that Act or pursuant to an exemption granted under it, in relation to debt securities (as defined in this Act) offered to the public in New Zealand by or on behalf of the NBDT
+  - **trust deed** , in relation to an NBDT, means a trust deed that is required, by or under any of the following, in relation to debt securities (as defined in this Act) offered by or on behalf of the NBDT:
+    (a) subpart 1 of Part 4 of the Financial Markets Conduct Act 2013 or an exemption granted under that Act:
+    (b) a condition under section 19(1)(fa):
+    (c) the Securities Act 1978 or an exemption granted under that Act
+  - **trustee** , in relation to an NBDT,—
+    (a) means a licensed supervisor (within the meaning of the Financial Markets Conduct Act 2013) who is designated or appointed, by or under any of the following, as the trustee for any debt security offered by or on behalf of the NBDT:
+      (i) a trust deed:
+      (ii) an exemption granted under the Financial Markets Conduct Act 2013:
+      (iii) the Financial Markets Supervisors Act 2011:
+      (iv) a condition under section 19(1)(fa):
+    (b) includes a trustee (as defined in the Securities Act 1978) that is required, by or under that Act or an exemption granted under it, in relation to any debt security offered by or on behalf of the NBDT
   - **voting right** , in relation to any body,—
     (a) means a currently exercisable right to cast a vote at meetings of shareholders or members of that body; but
     (b) does not include a right to vote that is exercisable only in 1 or more of the following circumstances:
@@ -103,12 +116,12 @@ The purpose of this Act is—
 ### 5 NBDT defined
 (1) In this Act, NBDT means any of the following:
   (a) a person that—
-    (i) offers debt securities to the public in New Zealand; and
+    (i) makes an NBDT regulated offer of debt securities; and
     (ii) carries on the business of borrowing and lending money, or providing financial services, or both:
   (b) a person, or a member of a class of persons, that is declared by regulations made under section 73(1)(c) to be an NBDT for the purposes of this Act:
   (c) a person that—
     (i) is, or has been at any time since this section came into force, an NBDT; and
-    (ii) has debt securities that were issued to the public in New Zealand and that remain unpaid:
+    (ii) has debt securities that remain unpaid and that were offered under an NBDT regulated offer:
   (d) a person that—
     (i) was a deposit taker (as defined in section 157C of the Reserve Bank of New Zealand Act 1989) on or after 3 August 2011 but before this section came into force; and
     (ii) has debt securities that were issued to the public in New Zealand before this section came into force and that remain unpaid.
@@ -116,7 +129,7 @@ The purpose of this Act is—
   (a) a bank that is a registered bank under the Reserve Bank of New Zealand Act 1989:
   (b) a local authority:
   (c) the Crown (as defined in the Public Finance Act 1989):
-  (d) an entity that is in receivership (provided that no debt securities are being offered to the public in New Zealand by, or on behalf of, the entity):
+  (d) an entity that is in receivership (provided that no debt securities are being offered under an NBDT regulated offer by, or on behalf of, the entity):
   (e) an entity that is in liquidation (whether under Part 16 of the Companies Act 1993 or under any other enactment):
   (f) a person, or a member of a class of persons, declared by regulations made under section 73(1)(d) not to be an NBDT for the purposes of this Act.
 
@@ -201,7 +214,7 @@ This Act binds the Crown.
   (b) the Bank has received a suitability notice for each director and senior officer, or proposed director and senior officer, of the applicant and the Bank has issued a notice of non-objection in relation to any such person who raises suitability concerns.
 (2) In determining an application, the Bank must have regard to the following:
   (a) whether the applicant's ownership, and its incorporation and ownership structure, is appropriate having regard to the size and nature of the applicant's business or proposed business, or any part of the business or proposed business:
-  (b) whether the applicant will be able to comply, on an ongoing basis, with all relevant requirements of the Securities Act 1978, the Anti-Money Laundering and Countering Financing of Terrorism Act 2009, and any relevant regulations made under those Acts:
+  (b) whether the applicant will be able to comply, on an ongoing basis, with all relevant requirements of the Financial Markets Conduct Act 2013, the Securities Act 1978, the Anti-Money Laundering and Countering Financing of Terrorism Act 2009, and any relevant regulations made under those Acts:
   (c) whether any other activities or businesses carried on, or proposed to be carried on, by the applicant are compatible with the business of being an NBDT:
   (d) whether, in the case of an applicant that is an overseas person, the law and regulatory requirements of the applicant's home jurisdiction are satisfactory in relation to the following:
     (i) prudential supervision:
@@ -254,6 +267,7 @@ This Act binds the Crown.
   (d) the credit exposure concentration and other risk exposures of the NBDT:
   (e) the size and nature of the NBDT's business or proposed business, or of any part of that business, including constraints on major acquisitions:
   (f) in the case of an NBDT that has not commenced operating as an NBDT, when, or the time within which, it must commence operating as an NBDT:
+  (fa) in a case where subpart 1 of Part 4 of the Financial Markets Conduct Act 2013 would not otherwise apply in relation to debt securities issued or to be issued by an NBDT, requirements relating to compliance with that subpart (in whole or in part and with any modifications or variations specified in the conditions), including requirements to have a trustee and a trust deed for the debt securities:
   (g) any other matters prescribed by regulations.
 (2) The Bank may not impose a licence condition that operates, or has the same effect, as an exemption granted under section 70.
 
@@ -269,7 +283,7 @@ The Bank may not impose new or additional conditions on, or amend or remove the 
 ### 21 Grounds for cancelling licence
 The Bank may cancel a licence if it is satisfied—
   (a) that the licence was granted on the basis of information that was false or misleading in a material respect; or
-  (b) that the licence holder is failing, or has failed, to comply with this Act or the regulations, or with relevant provisions of the Securities Act 1978, the Anti-Money Laundering and Countering Financing of Terrorism Act 2009, or regulations made under those Acts; or
+  (b) that the licence holder is failing, or has failed, to comply with this Act or the regulations, or with relevant provisions of the Financial Markets Conduct Act 2013, the Securities Act 1978, the Anti-Money Laundering and Countering Financing of Terrorism Act 2009, or regulations made under those Acts; or
   (c) that the licence holder is failing, or has failed, to comply with 1 or more conditions of its licence; or
   (d) that the requirements of section 25 are not being met; or
   (e) that the licence holder is no longer an NBDT; or
@@ -606,6 +620,7 @@ Nothing in the Official Information Act 1982 applies to information to which sec
   (a) that the NBDT or any associated person is unable, or likely to be unable, to pay its debts as they become due in the normal course of business:
   (b) that the NBDT or any associated person, or any director or senior officer of the NBDT or any associated person, is failing, has failed, or is likely to fail, to comply with—
     (i) this Act or the regulations; or
+    (ia) the Financial Markets Conduct Act 2013 or regulations made under that Act; or
     (ii) the Securities Act 1978 or regulations made under that Act; or
     (iii) any condition of the NBDT's licence:
   (c) that the circumstances of the NBDT or any associated person, or the manner in which the affairs of the NBDT or associated person are being conducted, are prejudicial to the solvency of the NBDT or its ability to comply with the things listed in paragraph (b).
@@ -653,7 +668,7 @@ Nothing in the Official Information Act 1982 applies to information to which sec
   (a) any of the following apply and, in the opinion of the Bank, it is necessary to remove or replace the director:
     (i) the NBDT or any associated person is unable, or likely to be unable, to pay its debts as they become due in the normal course of business:
     (ii) the director has failed, or is failing, or is likely to fail, to comply with this Act or the regulations:
-    (iii) the circumstances of the NBDT or any associated person, or the manner in which its affairs are being conducted, are prejudicial to the solvency of the NBDT or its ability to comply with this Act, the regulations, the Securities Act 1978, or regulations made under that Act; or
+    (iii) the circumstances of the NBDT or any associated person, or the manner in which its affairs are being conducted, are prejudicial to the solvency of the NBDT or its ability to comply with this Act, the regulations, the Financial Markets Conduct Act 2013, regulations made under that Act, the Securities Act 1978, or regulations made under that Act; or
   (b) a suitability notice given in respect of the director was false or misleading in a material respect; or
   (c) the director raises suitability concerns and the Bank has not issued a notice of non-objection for the person in respect of that position; or
   (d) the information on which the Bank issued a notice of non-objection in relation to the director was false or misleading in a material respect; or
@@ -666,7 +681,7 @@ Nothing in the Official Information Act 1982 applies to information to which sec
 (3) The Bank may remove a director of an associated person of a licensed NBDT, by notice in writing to the director, if any of the following apply and it is necessary, in the opinion of the Bank, to remove or replace the director:
   (a) the NBDT or associated person is unable, or likely to be unable, to pay its debts as they become due in the normal course of business:
   (b) the director has failed, or is failing, or is likely to fail, to comply with this Act or the regulations:
-  (c) the circumstances of the associated person, or the manner in which its affairs are being conducted, are prejudicial to the solvency of the NBDT or its ability to comply with this Act, the regulations, the Securities Act 1978, or regulations made under that Act.
+  (c) the circumstances of the associated person, or the manner in which its affairs are being conducted, are prejudicial to the solvency of the NBDT or its ability to comply with this Act, the regulations, the Financial Markets Conduct Act 2013, regulations made under that Act, the Securities Act 1978, or regulations made under that Act.
 (4) The Bank may, by notice to a person, appoint the person as an additional director of an associated person if—
   (a) the Bank has exercised, or is exercising, the power in subsection (3) to remove a director and it is necessary to appoint a person to replace the removed director; or
   (b) in the opinion of the Bank, it is necessary to appoint a person as an additional director because—
