@@ -1,5 +1,5 @@
 # Securities Markets Amendment Act 2002
-_Consolidation as at 2011-05-01_
+_Consolidation as at 2014-12-01_
 
 ### 1 Title
 (1) This Act is the Securities Markets Amendment Act 2002.
