@@ -1,5 +1,5 @@
 # Stamp and Cheque Duties Act 1971
-_Consolidation as at 2014-07-22_
+_Consolidation as at 2014-12-01_
 
 > An Act to consolidate and amend the law relating to stamp duties
 
@@ -362,12 +362,12 @@ For the purposes of the NRWT rules of the Income Tax Act 2007, an exemption unde
 (1) A registered security meets the requirements of this section if—
   (a) the security is denominated in New Zealand dollars; and
   (b) the issue of the security—
-    (i) was an offer to the public for the purposes of the Securities Act 1978; and
+    (i) was under a regulated offer for the purposes of the Financial Markets Conduct Act 2013, an offer referred to in clause 19 of Schedule 1 of that Act, or an offer to the public for the purposes of the Securities Act 1978; and
     (ii) was not a private placement; and
   (c) the security is not an asset-backed security; and
   (d) the activities of the registrar and the paying agent for the security are carried on through a fixed establishment in New Zealand; and
   (e) the security—
-    (i) is listed on an exchange registered under the Securities Markets Act 1988:
+    (i) is quoted on a licensed market (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
     (ii) is one of a number of securities meeting the requirements of subsection (2) that are traded in a market bringing together buyers and sellers of such securities.
 (2) A security meets the requirements of this subsection if, at or before the time of the payment of interest referred to in section 86I in respect of the registered security,—
   (a) the security is one of a number of identical debt securities (the class of securities) that are registered securities; and
