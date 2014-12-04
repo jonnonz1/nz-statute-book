@@ -1,5 +1,5 @@
 # Rugby World Cup 2011 (Empowering) Act 2010
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-12-04_
 
 ### 1 Title
 This Act is the Rugby World Cup 2011 (Empowering) Act 2010.
