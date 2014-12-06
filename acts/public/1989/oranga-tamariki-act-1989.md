@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-06_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -75,7 +75,7 @@ _Consolidation as at 2014-07-01_
   - **traffic offence** means—
     (a) any offence against the Road User Charges Act 2012, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any regulation, rule, or bylaw made under any of those Acts:
     (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
-  - **victim** means a person who, through or by means of an offence, suffers physical or emotional harm, or loss of or damage to property; and where an offence results in death, the term includes the members of the immediate family of the deceased
+  - **victim** has the meaning given in section 2B
   - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
@@ -100,6 +100,27 @@ _Consolidation as at 2014-07-01_
   (a) relating to amendments made to this Act on or after the commencement of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013; and
   (b) that affect other provisions of this Act (see subsection (2)).
 (2) The transitional and savings provisions set out in Schedule 1AA, which relate to amendments made to this Act on or after the commencement of the Children, Young Persons, and Their Families Amendment Act (No 2) 2013, have effect for the purposes of this Act.
+
+### 2B Meaning of victim
+(1) In this Act, victim means—
+  (a) a person against whom an offence is committed by a child or young person:
+  (b) a person who, through, or by means of, an offence committed by a child or young person, suffers physical injury or loss of, or damage to, property:
+  (c) a parent or guardian of a child or young person who is a victim within the meaning of paragraph (a) or (b), unless that parent or guardian is—
+    (i) the child or young person charged with the commission of the offence concerned:
+    (ii) the child or young person against whom a charge in respect of the offence has been proved before a Youth Court:
+  (d) a member of the immediate family of a person who, as a result of an offence committed by a child or young person, dies or is incapable, unless that member is—
+    (i) the child or young person charged with the commission of the offence concerned:
+    (ii) the child or young person against whom a charge in respect of the offence has been proved before a Youth Court.
+(2) If an offence is committed by a child or young person then, despite subsection (1), victim does not include—
+  (a) any other person against whom (whether as a principal or party or accessory after the fact or otherwise)—
+    (i) that offence is proved before a Youth Court; or
+    (ii) an offence relating to the same incident or series of incidents as that offence is proved before a Youth Court; or
+  (b) any other person who (whether as principal or party or accessory after the fact or otherwise)—
+    (i) is charged with the commission of, or convicted or found guilty of, that offence; or
+    (ii) is charged with the commission of, or convicted or found guilty of, an offence relating to the same incident or series of incidents as that offence.
+(3) For the purposes of the definition of victim in subsection (1),—
+  - **immediate family** and have the meanings given in section 4 of the Victims' Rights Act 2002
+  - **offence** includes an alleged offence.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -2425,7 +2446,20 @@ Subject to section 244, a child or young person to whom section 235 or section 2
 (1A)
 (1B)
 (1C)
-(2) The court shall not refuse bail to a child or young person merely because the court considers that the child or young person is in need of care or protection (as defined in section 14).
+(2) If a child or young person appears before the Youth Court charged with the commission of an offence that the Commissioner of Police determines under section 29A of the Victims' Rights Act 2002 to be a specified offence, then,—
+  (a) before the court makes an order under subsection (1), the prosecutor must—
+    (i) make all reasonable efforts to ascertain the views (if any) each victim has about which of the types of order that may be made under subsection (1) is the most appropriate to be made by the court; and
+    (ii) inform the court of those views; and
+  (b) after the court has made an order under subsection (1), the Commissioner of Police must inform each victim (whether or not the victim's views have been ascertained under paragraph (a)) of—
+    (i) the order made by the court; and
+    (ii) in the case of any order made under subsection (1)(b), any conditions of bail imposed by the court that—
+      (A) relate to the safety and security of the victim or 1 or more members of the victim's immediate family, or of both; or
+      (B) require the child or young person not to associate with, or not to contact, the victim or 1 or more members of the victim's immediate family, or both.
+(3) Nothing in subsection (2) prevents the court from making an order under subsection (1), even though the court has not been informed of the views of any victim.
+(4) The court must not refuse bail to a child or young person merely because the court considers that the child or young person is in need of care or protection (as defined in section 14).
+(5) In this section,—
+  - **immediate family** has the meaning given in section 4 of the Victims' Rights Act 2002
+  - **specified offence** has the meaning given in section 29 of the Victims' Rights Act 2002.
 
 ### 239 Restrictions on power of court to order child or young person to be detained in custody
 (1) The court shall not make an order under section 238(1)(d) for the detention of a child or young person in the custody of the chief executive or an iwi social service or a cultural social service unless it appears to the court that pending the determination of the charge, or if the order is being considered under section 296F(3), pending the determination of the breach application or variation or cancellation application,—
@@ -2568,7 +2602,8 @@ Where—a youth justice co-ordinator shall, subject to sections 248 to 250, fix 
   (m) where the young person is under the supervision of any person (not being the chief executive), or any organisation, pursuant to an order made under section 283(k) or section 307, that person or a representative of that organisation:
   (n) where a community work order made under section 283(l) is in force with respect to the young person, the social worker or person or a representative of the organisation supervising the order:
   (o) any other person whose attendance at that conference is in accordance with the wishes of the family, whanau, or family group of the child or young person as expressed under section 250.
-(2) Where, pursuant to subsection (1)(f), any victim of an offence or alleged offence attends a family group conference in person and not by a representative, that person may be accompanied by any reasonable number of persons (being members of his or her family, whanau, or family group or any other persons) who attend the conference for the purpose of providing support to that victim.
+(1A) A person referred to in subsection (1) who does not, for any reason, attend any meeting of a family group conference is not solely by reason of that non-attendance precluded from attending any subsequent meeting of that family group conference, or any meeting of the family group conference reconvened under section 270.
+(2) If, under subsection (1)(f), a victim of an offence or alleged offence attends a family group conference in person or, as the case may be, by a representative, that victim or representative may be accompanied by any reasonable number of persons (being members of the victim's or representative's family, whanau, or family group, or any other persons) who attend the conference for the purpose only of providing support to that victim or representative.
 (3) A person who attends a family group conference pursuant to subsection (2) shall not be a member of the conference.
 (4) No person who attends a family group conference pursuant to any of paragraphs (c) to (n) (other than paragraph (k)) of subsection (1) or pursuant to subsection (2) is entitled to be present during any discussions or deliberations held among the members of the family, whanau, or family group of the child or young person in respect of whom the conference is held, unless those members request that person to attend.
 
@@ -3489,7 +3524,7 @@ No young person who has been placed in the custody of the chief executive pursua
 
 **General**
 
-### 321 Application of Acts relating to bail, criminal disclosure, criminal procedure, and District Courts
+### 321 Application of Acts relating to bail, criminal disclosure, criminal procedure, victims' rights, and District Courts
 (1) Subject to the provisions of this Act, the provisions set out in Schedule 1 shall apply, with such modifications as are indicated in that schedule or are necessary, to Youth Courts and to proceedings in such courts, as the case may require.
 (2) For the purposes of section 293 every Youth Court and its officers shall have all the powers and duties of a District Court and its officers respectively, and Part 3 of the Summary Proceedings Act 1957 shall apply accordingly with all necessary modifications and the following specific modification, namely, that where any child or young person is examined as to the means of that child or young person under that Part of that Act any parent or guardian or other person having the care of that child or young person may be present.
 (3) In any provisions so applied, District Court Judge, Judge, and judicial officer, for the purposes of this Act, mean a Youth Court Judge exercising jurisdiction in a Youth Court.
@@ -3565,10 +3600,12 @@ Subsections (2) and (3) of section 324 shall apply, with all necessary modificat
   (h) any youth justice co-ordinator:
   (i) any social worker:
   (j) any lay advocate who appears in support of the child or young person or any parent or guardian or other person having the care of the child or young person:
+  (ja) a victim of the offence or alleged offence, or his or her representative:
+  (jb) any 1 or more support persons (subject to any limitation on numbers imposed by the Judge) for the victim of the offence, or the victim's representative:
   (k) witnesses:
   (l) accredited news media reporters:
   (m) any other person whom the Judge permits to be present.
-(2) Any witness shall leave the courtroom if asked to do so by the Judge.
+(2) If, during the hearing, the Judge requests a person of the kind described in paragraph (jb) or (k) to leave the courtroom, that person must do so.
 (3) Nothing in this section limits any other power of the court to hear proceedings in private or to exclude any person from the court.
 
 ### 330 Right to make representations in Youth Court
@@ -4131,6 +4168,10 @@ A child or young person who has had his or her mail inspected under section 384B
 (2) Any child or young person to whom this section applies may be detained without warrant by any constable or a social worker and returned to any residence or to the care of any person or organisation, as the case may be, or otherwise dealt with in accordance with this Act.
 (3) A child or young person to whom this section applies, unless that child or young person was being detained pursuant to section 238(1)(d) or (e) or section 34A of the Corrections Act 2004, does not, by reason only of an act or omission referred to in subsection (1), commit an offence against section 120 of the Crimes Act 1961.
 (4) For the purpose of detaining without warrant any child or young person who leaves or is taken without authority from a residence under this Act, every member of the staff of any such residence shall, if it is administered by the Crown, have the powers conferred on a social worker by subsection (2).
+(5) Subsection (6) applies if a young person in respect of whom a supervision with residence order is made under section 283(n)—
+  (a) leaves or is taken without authority from a residence; or
+  (b) refuses or neglects to return to a residence.
+(6) The chief executive must make all reasonable efforts to notify each victim of the offence committed by the young person that the young person has absconded from the residence.
 
 ### 386 Search warrants
 (1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application in writing verified in accordance with section 99 of that Act by any constable or a social worker, is satisfied that there are reasonable grounds for suspecting that a child or young person to whom section 385 applies is for the time being at any known premises or place, may issue a warrant authorising any constable or social worker to—
@@ -4207,6 +4248,14 @@ Where a child or young person to whom this section applies dies, the following p
     (i) forthwith on learning of it, to a constable:
     (ii) within 24 hours of learning of it, to the principal manager of the department for the area in which the child or young person was residing at the time of his or her death:
   (c) where the child or young person was, at the time of his or her death, residing in a residence established under section 364, the person in charge of that residence shall, on learning of that death, forthwith notify a constable.
+
+### 395A Victims to be notified of deaths
+(1) This section applies if—
+  (a) a child or young person dies; and
+  (b) at the time of his or her death, the child or young person was—
+    (i) on remand or the subject of an order under section 283(n) (supervision with residence order); and
+    (ii) residing in a residence established under section 364.
+(2) The chief executive must make all reasonable efforts to notify each victim of the offence committed by the child or young person of the death of that child or young person.
 
 ## Part 8 — Provisions relating to iwi social services, cultural social services, child and family support services, and community services
 
@@ -4767,6 +4816,36 @@ Part 3 of the Bail Act 2000 except that—
 (b) the provisions of section 30 apply as if there were inserted in that section, as subsections (1A) and (1B), the following subsections:
 (“(1A)) Despite anything in subsection (1), if the hearing is adjourned for the purpose of enabling a family group conference to be held under the provisions of the Children, Young Persons, and Their Families Act 1989, the defendant must be excused from attending at the time and place to which the hearing is adjourned if, before that time, the Youth Justice Co-ordinator convening that conference notifies the court, in writing, that the proceedings of that family group conference will not be completed by that time.
 (“(1B)) If, under subsection (1A), the defendant is excused from attending any hearing, and the court adjourns that hearing, the Registrar must notify the defendant of the time and place to which the hearing is adjourned.”
+
+### 3A
+The Victims' Rights Act 2002, as follows:
+(a) sections 7 and 8, and, for the purposes of these sections, victim also includes—
+  (i) a person who, through or by means of an offence committed by a child or young person, suffers any form of emotional harm; and
+  (ii) a parent or guardian of a child or young person who is a victim within the meaning of subparagraph (i), unless that parent or guardian is—
+    (A) the child or young person charged with the commission of the offence concerned:
+    (B) the child or young person against whom a charge in respect of the offence has been proved before a Youth Court; and
+  (iii) a person who has experienced domestic violence; and
+  (iv) a child or young person residing with a person who falls within subparagraph (iii), not being the child or young person who committed the offence or alleged offence:
+(b) section 10:
+(c) section 11 (except the definition of services in subsection (2) does not apply):
+(d) section 12 (except subsections (1)(ca) and (3) do not apply) with the following modifications to subsection (1)(e):
+  (i) the reference to a conviction is to be read as a reference to a finding of the Youth Court that a charge against a child or young person is proved:
+  (ii) the reference to a sentence is to be read as a reference to an order made by the Youth Court under section 283 of this Act:
+(e) section 13 (except that despite subsection (3), section 12 overrides section 438 of this Act):
+(f) sections 14 to 16A:
+(g) sections 17AA to 27 if the Youth Court is to make an order under section 283 of this Act (other than where the Court is to discharge an information under section 282 of this Act), so far as they are applicable and with the following modifications:
+  (i) references to an offender are to be read as references to a child or young person against whom a charge in respect of the offence is proved before a Youth Court:
+  (ii) references to a conviction are to be read as references to a finding of a Youth Court that a charge against a young person is proved:
+  (iii) the reference in section 17(2) to paragraph (a)(iii) of the definition of victim in section 4 is to be read as a reference to paragraph (c) of the definition of victim in section 2B of this Act:
+(h) section 37 if, in addition to the requirements of subsection (1) of that section,—
+  (i) the victim is the victim of a specified offence; and
+  (ii) the victim has requested the Commissioner of Police to ensure that he or she is given notice under section 37; and
+  (iii) the Commissioner of Police has referred that request to the Director-General of Health and provided the Director-General of Health with the victim's address:
+(i) section 38 if, in addition to the requirements of subsection (1) of that section,—
+  (i) the victim is the victim of a specified offence; and
+  (ii) the victim has requested the Commissioner of Police to ensure that he or she is given notice under section 38; and
+  (iii) the Commissioner of Police has referred that request to the Director-General of Health and provided the Director-General of Health with the victim's address:
+(j) the provisions of Part 4, so far as they are applicable, except that the reference to offender in section 51(1) includes a child or young person against whom a charge in respect of the offence has been proved before a Youth Court.
 
 ### 4
 The Criminal Disclosure Act 2008.
