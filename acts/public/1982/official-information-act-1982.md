@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2014-11-12_
+_Consolidation as at 2014-12-06_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -58,7 +58,7 @@ _Consolidation as at 2014-11-12_
       (ii) documents referred to in section 32(2)(b) of the Inquiries Act 2013; and
     (i) does not include information contained in any correspondence or communication which has taken place between the office of the Ombudsmen and any department or Minister of the Crown or organisation and which relates to an investigation conducted by an Ombudsman under this Act or under the Ombudsmen Act 1975, other than information that came into existence before the commencement of that investigation; and
     (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any department or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 1993, other than information that came into existence before the commencement of that investigation:
-    (k) does not include information contained in a victim impact statement (as defined in section 22 of the Victims' Rights Act 2002)
+    (k) does not include information contained in a victim impact statement (as defined in section 17AA of the Victims' Rights Act 2002)
     (l) does not include any evidence, submissions, or other information given or made to—
       (i) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel, in relation to any matter under the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004; or
       (ii) the Judicial Complaints Lay Observer
