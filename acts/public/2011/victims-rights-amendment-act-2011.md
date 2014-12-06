@@ -1,5 +1,5 @@
 # Victims' Rights Amendment Act 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-12-06_
 
 ### 1 Title
 This Act is the Victims' Rights Amendment Act 2011.
@@ -13,22 +13,16 @@ This Act is the Victims' Rights Amendment Act 2011.
 This Act amends the Victims' Rights Act 2002.
 
 ### 4 Procedure before ascertaining information from victim
-Section 18(a)(i) is amended by inserting and may be used by a judicial officer for the purpose of giving the accused a sentence indication after offender.
+[Repealed]
 
 ### 5 Form and verification of information ascertained
-(1) Section 19(3)(a) is amended by inserting and might be used by a judicial officer for the purpose of giving the accused a sentence indication after offender.
-(2) Section 19(4) is amended by repealing paragraph (a) and substituting the following paragraphs:.
-  (a) advised the victim that—
-    (i) it was for submission to the judicial officer sentencing the offender; and
-    (ii) it might also be used by a judicial officer for the purpose of giving the accused a sentence indication; and
-  (ab) advised the victim that he or she was required to ensure that any information that he or she gave is true; and
+[Repealed]
 
 ### 6 New section 21A inserted
-The following section is inserted after section 21:Victim impact statement may be used for purpose of sentence indication
-  A victim impact statement within the meaning of section 22 of this Act may be submitted to a judicial officer for the purpose of giving a sentence indication under section 61 of the Criminal Procedure Act 2011.
+[Repealed]
 
 ### 7 Transitional provision regarding submitting victim impact statement for purpose of sentence indication
-A victim impact statement may be submitted under section 21A of the principal Act (as inserted by section 6 of this Act) even if it was prepared before the date on which section 6 came into force.
+[Repealed]
 
 ### 8 Other amendments to principal Act
 The principal Act is amended as set out in the Schedule.
