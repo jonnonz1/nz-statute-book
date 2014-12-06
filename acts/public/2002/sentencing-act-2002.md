@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2014-01-22_
+_Consolidation as at 2014-12-06_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -394,15 +394,26 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 
 **Sentencing procedure**
 
+### 24A Adjournment for restorative justice process in certain cases
+(1) This section applies if—
+  (a) an offender appears before a District Court at any time before sentencing; and
+  (b) the offender has pleaded guilty to the offence; and
+  (c) there are 1 or more victims of the offence; and
+  (d) no restorative justice process has previously occurred in relation to the offending; and
+  (e) the Registrar has informed the court that an appropriate restorative justice process can be accessed.
+(2) The court must adjourn the proceedings to—
+  (a) enable inquiries to be made by a suitable person to determine whether a restorative justice process is appropriate in the circumstances of the case, taking into account the wishes of the victims; and
+  (b) enable a restorative justice process to occur if the inquiries made under paragraph (a) reveal that a restorative justice process is appropriate in the circumstances of the case.
+
 ### 25 Power of adjournment for inquiries as to suitable punishment
 (1) A court may adjourn the proceedings in respect of any offence after the offender has been found guilty or has pleaded guilty and before the offender has been sentenced or otherwise dealt with for any 1 or more of the following purposes:
   (a) to enable inquiries to be made or to determine the most suitable method of dealing with the case:
-  (b) to enable a restorative justice process to occur:
+  (b) to enable a restorative justice process to occur, or to be completed:
   (c) to enable a restorative justice agreement to be fulfilled:
   (d) to enable a rehabilitation programme or course of action to be undertaken:
   (da) to determine whether to impose an instrument forfeiture order and, if so, the terms of that order:
   (e) to enable the court to take account of the offender's response to any process, agreement, programme, or course of action referred to in paragraph (b), (c), or (d).
-(2) If proceedings are adjourned under this section or under section 10(4), a Judge or Justice or Community Magistrate having jurisdiction to deal with offences of the same kind (whether or not the same Judge or Justice or Community Magistrate before whom the case was heard) may, after inquiry into the circumstances of the case, sentence or otherwise deal with the offender for the offence to which the adjournment relates.
+(2) If proceedings are adjourned under this section or under section 10(4) or 24A, a Judge or Justice or Community Magistrate having jurisdiction to deal with offences of the same kind (whether or not the same Judge or Justice or Community Magistrate before whom the case was heard) may, after inquiry into the circumstances of the case, sentence or otherwise deal with the offender for the offence to which the adjournment relates.
 
 ### 26 Pre-sentence reports
 (1) Except as provided in section 26A, if an offender who is charged with an offence punishable by imprisonment is found guilty or pleads guilty, the court may direct a probation officer to prepare a report for the court in accordance with subsection (2).
@@ -515,7 +526,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 (2) Despite subsection (1), a court must not impose a sentence of reparation in respect of emotional harm, or loss or damage consequential on emotional harm, unless the person who suffered the emotional harm is a person described in paragraph (a) of the definition of victim in section 4.
 (3) In determining whether a sentence of reparation is appropriate or the amount of reparation to be made for any consequential loss or damage described in subsection (1)(c), the court must take into account whether there is or may be, under the provisions of any enactment or rule of law, a right available to the person who suffered the loss or damage to bring proceedings or to make any application in relation to that loss or damage.
 (4) Subsection (3) applies whether or not the right to bring proceedings or make the application has been exercised in the particular case, and whether or not any time prescribed for the exercise of that right has expired.
-(5) Despite subsections (1) and (3), the court must not order the making of reparation in respect of any consequential loss or damage described in subsection (1)(c) for which the court believes that a person has entitlements under the Accident Compensation Act 2001.
+(5) Despite subsections (1) and (3), the court must not order the making of reparation in respect of any consequential loss or damage described in subsection (1)(c) for which compensation has been, or is to be, paid under the Accident Compensation Act 2001.
 (6) When determining the amount of reparation to be made, the court must take into account any offer, agreement, response, measure, or action as described in section 10.
 (7) The court must not impose as part of a sentence of reparation an obligation on the offender to perform any form of work or service for the person who suffered the harm, loss, or damage.
 (8) Nothing in section 320 of the Accident Compensation Act 2001 applies to sentencing proceedings.
@@ -526,7 +537,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
   (b) in the case of emotional harm, the nature of that harm and the value of any consequential loss or damage:
   (c) in the case of any loss or damage consequential on physical harm,—
     (i) the nature and value of the loss or damage; and
-    (ii) the extent to which the person who suffered the loss or damage is likely to be covered by entitlements under the Accident Compensation Act 2001:
+    (ii) the amount or extent of compensation paid or payable under the Accident Compensation Act 2001 to the person who suffered the loss or damage in respect of that loss or damage:
   (d) the financial capacity of the offender:
   (e) the maximum amount that the offender is likely to be able to pay under a sentence of reparation:
   (f) the frequency and magnitude of any payments that should be required under a sentence of reparation, if provision for payment by instalments is thought desirable.
@@ -2249,7 +2260,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (c) make any order that the court is required to make on conviction.
 (3A) Sections 32 to 38A apply, with any necessary modifications, to an order under subsection (3)(b) as they apply to a sentence of reparation.
 (4)
-(5)
+(5) Despite subsection (3)(b), the court must not order the payment of compensation in respect of any consequential loss or damage described in subsection (3)(b)(iii) for which compensation has been, or is to be, paid under the Accident Compensation Act 2001.
 (6)
 (7)
 
@@ -2267,7 +2278,7 @@ The court must not discharge an offender without conviction unless the court is 
   (c) make any order that the court is required to make on conviction.
 (2A) Sections 32 to 38A apply, with any necessary modifications, to an order under subsection (2)(b) as they apply to a sentence of reparation.
 (3)
-(4)
+(4) Despite subsection (2)(b), the court must not order the payment of compensation in respect of any consequential loss or damage described in subsection (2)(b)(iii) for which compensation has been, or is to be, paid under the Accident Compensation Act 2001.
 (5)
 (6)
 
@@ -2287,7 +2298,7 @@ The court must not convict and discharge an offender unless it is satisfied that
     (iii) loss or damage consequential on any emotional or physical harm or loss of, or damage to, property.
 (3A) Sections 32 to 38A apply, with any necessary modifications, to an order under subsection (3)(b) as they apply to a sentence of reparation.
 (4)
-(5)
+(5) Despite subsection (3)(b), the court must not order the payment of compensation in respect of any consequential loss or damage described in subsection (3)(b)(iii) for which compensation has been, or is to be, paid under the Accident Compensation Act 2001.
 (6)
 (7)
 
