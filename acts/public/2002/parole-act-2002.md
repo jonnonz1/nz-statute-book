@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2014-01-22_
+_Consolidation as at 2014-12-06_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -63,7 +63,7 @@ The purpose of this Act is to reform the law relating to the release from detent
     (a) must be released from detention (see section 17); and
     (b) ceases to be liable to be recalled to continue serving any sentence in a prison (see sections 59 to 66)
   - **variation** , in relation to the variation by the Board of release conditions, includes the suspension and addition of conditions, and the variation of their duration
-  - **victim** means (unless provided otherwise), in relation to an offender, a person who has asked for notice or advice and copies, and has given his or her current address, under section 31 of the Victims' Rights Act 2002.
+  - **victim** means (unless provided otherwise), in relation to an offender, a person who has asked for notice or advice and copies, and has given his or her address, under section 32B of the Victims' Rights Act 2002.
 (2) In this Act, a reference to section 2 of the Criminal Justice Act 1985, or to Part 4 or Part 6 (or any provision within those Parts) of the Criminal Justice Act 1985, is a reference to that section, Part, or provision as it was immediately before the commencement date.
 
 ### 5 Act binds the Crown
@@ -573,6 +573,7 @@ Sections 43 to 50 apply to every hearing of the Board concerning an offender who
   (e) the Director of Area Mental Health Services (in the case of an offender currently detained, or on leave from, in a hospital):
   (ea) the compulsory care co-ordinator (in the case of an offender currently detained in, or on leave from, a secure facility):
   (f) the Police.
+(2A) When, under subsection (2)(b), the Board gives notice to a victim that a hearing is pending, the Board must also prepare and send to the victim an explanation of the hearing process and how the victim may participate in that process.
 (3) If the hearing relates to an offender who is subject to a long-term sentence, any victim who is notified must be advised that he or she may request information on the offender under section 44.
 (4) A failure to notify any person listed in subsection (2)(b) to (f), and a failure to obtain all the information referred to in subsection (1)(a), does not invalidate a hearing.
 (5) Any person notified under subsection (2) may write to the Board, by a given date, making submissions on, or giving information relevant to,—
@@ -588,12 +589,15 @@ To avoid doubt, if a person providing a report referred to in section 43 conside
     (ii) about the nature and purpose of the report.
 
 ### 44 Information for victims
-If a victim requests information on an offender under section 43(3), the Department of Corrections must prepare and send to the victim the following:
+(1) If a victim requests information on an offender under section 43(3), the Department of Corrections must prepare and send to the victim the following:
   (a) a list of any programmes that the offender has attended since commencing his or her sentence, and a list of any programmes that the offender has completed:
   (b) a statement of the offender's current security classification:
   (c) a list of any convictions received by the offender since commencing his or her sentence:
   (d)
   (e) a statement that the purpose of providing the victim with information about the offender is to assist the victim to make submissions, and that the information is not to be used for any other purpose.
+(2) The Department of Corrections must prepare and send to the victim the information specified in subsection (1) before—
+  (a) the parole hearing; and
+  (b) each subsequent parole hearing, if at the earlier parole hearing the Board does not direct that the offender be released on parole.
 
 ### 45 Decision on type of hearing
 (1) The panel convenor who is allocated to conduct a particular hearing must decide whether that hearing will be an unattended hearing under section 48 or an attended hearing under section 49.
@@ -612,22 +616,29 @@ If a victim requests information on an offender under section 43(3), the Departm
 (6) A panel convenor may, before or during an unattended hearing, determine that the hearing must be an attended one and, in that case, a time for the attended hearing must be fixed and the people referred to in subsection (5) must be notified accordingly.
 (7) Notification under subsection (5) or (6) must include,—
   (a) if the hearing is to be an unattended one,—
-    (i) a summary of the reasons for deciding that the hearing will be unattended; and
-    (ii) advice to the offender on the offender's right to an interview under section 47; and
-    (iii) advice to the offender on the offender's right to seek a review under section 46; and
-  (b) if the hearing is to be an attended one, notice of the date of the hearing and relevant information about the rights of people attending.
+    (i) a summary of the reasons for the decision that the hearing will be unattended; and
+    (ii) advice on the right under section 46 to seek a review of the decision; and
+    (iii) advice to the offender and victim on the right under section 47 to have an interview; and
+  (b) if the hearing is to be an attended one,—
+    (i) notice of the date of the hearing; and
+    (ii) relevant information about the rights of people attending.
 
 ### 46 Review of decision on type of hearing
-(1) An offender who has been notified, under section 45(5), of the decision that the hearing will be unattended may seek a review of the decision by writing to the Board within 10 days of the date of the notice.
+(1) A person who has received notice under section 45(5) that the hearing will be an unattended one and who is dissatisfied with the decision may seek a review of that decision.
+(1A) A review is sought under subsection (1) by writing to the Board within 10 days of the date of the notification given under section 45(5).
 (2) A panel convenor other than the one allocated to conduct the particular hearing must review the decision as soon as practicable.
 (3) Following a review, the panel convenor may confirm the decision or determine that the hearing will be an attended hearing.
 (4) If the hearing is to be an attended hearing, the Board must fix a time for the attended hearing and notify the people referred to in section 45(5) accordingly.
-(5) If the hearing is to be an unattended hearing, the Board must notify the offender who sought the review.
+(5) If the hearing is to be an unattended hearing, the Board must notify the person who sought the review.
 
-### 47 Interviews of offender before hearings
-(1) If a hearing is to be an unattended hearing, the offender must be given an opportunity to have an interview before the hearing with 1 member of the panel allocated to conduct the hearing.
-(2) The member conducting the interview may conduct the interview at whatever place and in whatever manner he or she considers appropriate (subject to subsection (3)).
-(3) The offender may have a support person with him or her, and the support person may, with the consent of the offender and the permission of the member conducting the interview, speak in support of the offender.
+### 47 Interviews before hearings
+(1) If a hearing is to be an unattended hearing, the offender and every victim of the offender must be given the opportunity to have an interview before the hearing with 1 member of the panel allocated to conduct the hearing.
+(2) The member conducting the interview may conduct the interview at whatever place and in whatever manner he or she considers appropriate, subject to this section.
+(3) In relation to an interview with a victim,—
+  (a) the victim may have a support person with him or her, and the support person may, with the consent of the victim and the permission of the member conducting the interview, speak on behalf of the victim; and
+  (b) if there are special circumstances, and with the consent of the victim and the prior written approval of the Board, the victim may be represented at the interview by another person who must attend the interview in place of the victim; and
+  (c) the interview may not take place at a prison, unless the victim (or his or her representative) consents.
+(4) At an interview with an offender, the offender may have a support person with him or her, and the support person may, with the consent of the offender and the permission of the member conducting the interview, speak in support of the offender.
 
 ### 48 Unattended hearings
 (1) At an unattended hearing, the only people who may be present are—
