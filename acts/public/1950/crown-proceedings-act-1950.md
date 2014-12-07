@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2014-12-07_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -74,12 +74,9 @@ This Act is subject to the Limitation Act 2010, and to any other enactment thatâ
 (2) Without prejudice to the effect of the last preceding subsection, Part 5 of the Law Reform Act 1936 (which relates to proceedings against, and contribution between, joint and several tortfeasors) shall bind the Crown.
 
 ### 9 Crown not liable to pay compensation or damages for death or disablement of members of New Zealand armed forces where pension may be claimed
-(1) No proceedings for compensation or damages shall lie against the Crown or any officer of the Crown in respect of the death or disablement of any member of the New Zealand armed forces, ifâ€”
-  (a) any pension has at any time been paid or is being paid under the War Pensions Act 1954 in respect of that death or disablement; or
-  (b) a War Pensions Board has determined that for the purposes of section 19 of the War Pensions Act 1954 that death or disablement is attributable to, or is deemed to be attributable to, the service of the member with the forces, or that the condition that resulted in that death or disablement was aggravated by his or her service with the forces:
-  provided that this subsection shall not exempt an officer of the Crown from liability for any act or omission in any case where the court is satisfied that the act or omission was not connected with the execution of his or her duties as an officer of the Crown.
-(2) Any determination of a War Pensions Board under subsection (1) may be made by the Board whether or not a claim for a pension has been made under the War Pensions Act 1954.
-(2A) A certificate by the Secretary for War Pensions to the effect that a War Pensions Board has determined that for the purposes of section 19 of the War Pensions Act 1954 the death or disablement of a member is attributable to, or is deemed to be attributable to, his or her service with the forces, or that the condition that resulted in the death or disablement of the member was aggravated by his or her service with the forces, shall for the purposes of this section be conclusive as to the fact which it certifies.
+(1)
+(2)
+(2A)
 (3) Where any claim is made against the Crown in respect of any damage, loss, or injury sustained or alleged to have been sustained by or through or in connection with the use of any service aircraft, the provisions of section 97 of the Civil Aviation Act 1990 shall, notwithstanding anything in section 3 of that Act, apply with respect to the aircraft as if the applicable provisions of that Act and of any rules made under that Act (if any) have been complied with.
 
 ### 10 Claims in respect of visiting forces
