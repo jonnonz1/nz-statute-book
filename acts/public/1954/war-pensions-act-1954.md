@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2014-12-07_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances
 
