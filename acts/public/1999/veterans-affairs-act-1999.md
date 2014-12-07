@@ -1,7 +1,7 @@
 # Veterans' Affairs Act 1999
-_Consolidation as at 2003-04-15_
+_Consolidation as at 2014-12-07_
 
-> An Act— a to enable the integration of the Crown's functions relating to veterans' affairs; and b to facilitate the transfer to the New Zealand Defence Force of the administration of the War Pensions Act 1954 and of related functions under certain other enactments; and c to amend related enactments and to provide for related matters
+> An Act—ato enable the integration of the Crown's functions relating to veterans' affairs; andbto facilitate the transfer to the New Zealand Defence Force of the administration of the War Pensions Act 1954 and of related functions under certain other enactments; andcto amend related enactments and to provide for related matters
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Veterans' Affairs Act 1999.
