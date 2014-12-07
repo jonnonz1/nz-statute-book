@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2014-12-07_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -27,7 +27,7 @@ _Consolidation as at 2014-12-01_
   - **cadet officer** means a person who holds a cadet commission from the Minister in any corps of the cadet forces; but does not include an officer of the regular forces, the territorial forces, or the reserve forces
   - **Civil Staff** means the persons employed as members of the Defence Force under section 61A
   - **component** , in relation to the Navy or the Army or the Air Force, means the regular force or a territorial force or a reserve force of that Service
-  - **defence area** means any land, water, or part of the seabed, or any building, or part of a building, either in New Zealand or elsewhere, that is set apart, used, or occupied for the purposes of the Defence Force, whether the property is owned by the Crown or is used or occupied by or on behalf of the Defence Force with the consent of the owner or is requisitioned under section 10(2)(b); and more particularly includes—
+  - **defence area** means any land, water, or part of the seabed, or any building, or part of a building, either in New Zealand or elsewhere, that is set apart, used, or occupied for the purposes of the Defence Force, whether the property is owned by the Crown or is used or occupied by or on behalf of the Defence Force with the consent of the owner or is requisitioned under section 10(2)﻿(b); and more particularly includes—
     (a) every naval establishment, army camp, and air force base:
     (b) any arsenal and any other place used for the purpose of building, repairing, making, or storing munitions or equipment for or belonging to the Defence Force:
     (c) any land, or any building or part of a building, declared by Order in Council or Defence Force Order to be a defence area for the purposes of this Act
@@ -276,7 +276,7 @@ A member of one Service may, with that member’s written consent, be transferre
   (b) members of the territorial or reserve forces who are for the time being—
     (i) liable for continuous service pursuant to a Proclamation issued under section 39 or section 40; or
     (ii) liable to serve outside New Zealand pursuant to an offer under section 50.
-(5) Except in time of war or other like emergency, or in the event of an actual or imminent emergency involving the deployment of members of the Armed Forces outside New Zealand, a member of the Armed Forces shall not be dealt with under subsection (4)(b)(ii) without that member’s consent.
+(5) Except in time of war or other like emergency, or in the event of an actual or imminent emergency involving the deployment of members of the Armed Forces outside New Zealand, a member of the Armed Forces shall not be dealt with under subsection (4)﻿(b)﻿(ii) without that member’s consent.
 
 ### 23 Attachment of members of New Zealand Armed Forces to other armed forces
 (1) The Chief of Defence Force may place a specified member, or a specified class of members, of the Armed Forces at the disposal of the service authorities of another State for the purpose of being attached by those authorities to the armed forces of that State.
@@ -285,7 +285,7 @@ A member of one Service may, with that member’s written consent, be transferre
   (b) members of the territorial or reserve forces who are for the time being—
     (i) liable for continuous service under a Proclamation issued under section 39 or section 40; or
     (ii) liable to serve outside New Zealand under an offer under section 50.
-(3) Except in time of war or other like emergency, or in the event of an actual or imminent emergency involving the deployment of members of the Armed Forces outside New Zealand, a member of the Armed Forces may not be dealt with under subsection (2)(b)(ii) without that member’s consent.
+(3) Except in time of war or other like emergency, or in the event of an actual or imminent emergency involving the deployment of members of the Armed Forces outside New Zealand, a member of the Armed Forces may not be dealt with under subsection (2)﻿(b)﻿(ii) without that member’s consent.
 (4) A member of the Armed Forces attached to the armed forces of another State under subsection (1) remains subject to this Act and the Armed Forces Discipline Act 1971 and to the law applicable to those forces.
 
 ### 23A Attachment of members of other armed forces to New Zealand Armed Forces
@@ -363,7 +363,7 @@ A member of one Service may, with that member’s written consent, be transferre
   (a) under the Chief of Defence Force, command the Air Force; and
   (b) be responsible for advising the Minister, through the Chief of Defence Force, on any matter relating to the Air Force; and
   (c) be responsible to the Chief of Defence Force for the implementation of policies, plans, and programmes prescribed or approved in accordance with this Act in relation to the Air Force.
-(4) Where the Chief of Defence Force places a joint force under the command of a Chief of Service pursuant to section 12(1)(b), that Chief of Service shall, under the Chief of the Defence Force, command that force through the joint force commander; and nothing in subsections (1) to (3) shall authorise a Chief of Service to exercise command over a joint force, or any part of a joint force, unless the Chief of the Defence Force has placed that joint force under the command of that Chief of Service.
+(4) Where the Chief of Defence Force places a joint force under the command of a Chief of Service pursuant to section 12(1)﻿(b), that Chief of Service shall, under the Chief of the Defence Force, command that force through the joint force commander; and nothing in subsections (1) to (3) shall authorise a Chief of Service to exercise command over a joint force, or any part of a joint force, unless the Chief of the Defence Force has placed that joint force under the command of that Chief of Service.
 (5) The Chief of Defence Force shall give to each Chief of Service written terms of reference (not being inconsistent with any of the provisions of this Act) setting out the terms and conditions of appointment as Chief of Navy or Chief of Army or Chief of Air Force, as the case may be; and it shall be the duty of each Chief of Service to perform the functions and to exercise the powers of that appointment in accordance with those terms of reference.
 (6) In the exercise of command, and in the exercise of the functions imposed by or under this Act or any other enactment, each Chief of Service may, after notifying the Chief of Defence Force in that behalf, make such representations as the Chief of Service considers necessary or desirable to the Minister.
 
@@ -445,9 +445,9 @@ An oath of allegiance shall bind the person subscribing it to serve in the Servi
     (vi) if both parents of the minor are alive but are under a disability or if only one of the parents is alive but is under a disability, or if both of the parents are dead, and the minor has no testamentary or court-appointed guardian, from a District Court Judge; or
     (vii) if the minor is for the time being placed under the guardianship of the court under the Care of Children Act 2004, from the court that made the order placing the minor under its guardianship; and
   (b) a written acknowledgment by the person giving the consent that he or she is aware that the person enlisting will be liable for active service at any time after that person attains the age of 18 years.
-(5) An acknowledgment referred to in subsection (4)(b) need not be given or signified separately from the written consent if the consent is given on a form that contains a conspicuous statement to the effect that the person enlisting will be liable for active service outside New Zealand at any time after attaining the relevant (specified) age.
+(5) An acknowledgment referred to in subsection (4)﻿(b) need not be given or signified separately from the written consent if the consent is given on a form that contains a conspicuous statement to the effect that the person enlisting will be liable for active service outside New Zealand at any time after attaining the relevant (specified) age.
 (6) If any such application is not accompanied by the required consent, it shall be accompanied by a statement of the reasons as to why consent has not or cannot be obtained.
-(7) The enlistment of any person pursuant to this section shall be binding on that person notwithstanding anything to the contrary in the Minors Contracts Act 1969 or any other enactment.
+(7) The enlistment of any person pursuant to this section shall be binding on that person notwithstanding anything to the contrary in the Minors’ Contracts Act 1969 or any other enactment.
 (8) For the purposes of this section, a person shall be deemed to be under a disability if, by reason of his or her mental condition, that person is unable to understand the nature of any objection or, as the case may be, any consent made or given for the purposes of this section.
 
 ### 37 Liability of minors for active service
@@ -473,9 +473,9 @@ No person serving in the Armed Forces who is under 18 years is liable for active
 (3) In the event of an actual or imminent emergency involving the deployment of members of the Armed Forces outside New Zealand, the Governor-General may, by Proclamation, transfer the reserve forces, or any specified part of those forces, to the regular forces or the territorial forces for such period not exceeding 3 months as may be specified in the Proclamation; and on the making of any such Proclamation, the forces so transferred shall be liable for continuous service, either in New Zealand or elsewhere, until the emergency has passed or the period specified in the Proclamation has expired, whichever is the sooner.
 
 ### 41 Further provisions relating to Proclamations
-(1) This section applies to every Proclamation made under section 38(2)(c) or section 39(3) or section 40(3).
+(1) This section applies to every Proclamation made under section 38(2)﻿(c) or section 39(3) or section 40(3).
 (2) Every Proclamation to which this section applies shall have stated in it the reasons for its making.
-(3) The period specified in any Proclamation made under section 38(2)(c) may from time to time be extended, by Proclamation, for a further period or periods not exceeding 6 months on any one extension as may be specified in the Proclamation by which it is extended, but so that the total period shall not exceed 12 months.
+(3) The period specified in any Proclamation made under section 38(2)﻿(c) may from time to time be extended, by Proclamation, for a further period or periods not exceeding 6 months on any one extension as may be specified in the Proclamation by which it is extended, but so that the total period shall not exceed 12 months.
 (4) The period specified in any Proclamation made under section 39(3) or section 40(3) may from time to time be extended, by Proclamation, for a further period or periods not exceeding 3 months on any one extension as may be specified in the Proclamation by which it is extended, but so that the total period shall not exceed 12 months.
 (5) On making any Proclamation to which this section applies, or any Proclamation under subsection (3) or subsection (4), the Governor-General shall inform the House of Representatives that the Proclamation has been made, and of the reasons for its making,—
   (a) forthwith, if the House of Representatives is then sitting; or
@@ -527,7 +527,7 @@ Part 2 of the Volunteers Employment Protection Act 1973 applies to—
 (6) Nothing in this section affects any conditions of service in force in respect of members of the Armed Forces immediately before 1 April 1988.
 
 ### 46 Regulations fixing certain terms and conditions of service
-Without limiting the power to make regulations under section 101, regulations may be made under that section, not inconsistent with this Act, the Government Superannuation Fund Act 1956, or the War Pensions Act 1954, relating to all or any of the following matters:
+Without limiting the power to make regulations under section 101, regulations may be made under that section, not inconsistent with this Act, the Government Superannuation Fund Act 1956, or the Veterans' Support Act 2014, relating to all or any of the following matters:
   (a) the making of grants in the amounts and circumstances prescribed by the regulations to—
     (i) discharged or retired members of the Armed Forces; or
     (ii) dependants of members of the Armed Forces; or
@@ -586,7 +586,7 @@ A person who, without having been properly attested, has accepted pay as a membe
 **Discharge or release from regular forces on notice**
 
 ### 52 Members may give notice of intention to leave regular forces
-(1) Subject to section 38(2)(b) and sections 53 to 57, a member of the regular forces may terminate his or her service in the regular forces at any time by giving notice to the officer in command of the member’s ship or unit.
+(1) Subject to section 38(2)﻿(b) and sections 53 to 57, a member of the regular forces may terminate his or her service in the regular forces at any time by giving notice to the officer in command of the member’s ship or unit.
 (2) A notice given by a member of the regular forces for the purposes of this section shall be in writing, and the period of the notice shall commence to run on the day on which it is given to the officer in command of the member’s ship or unit.
 (3) A member who gives notice to terminate his or her service in the regular forces shall be deemed to have completed his or her service on—or on such earlier date as the Chief of Defence Force may from time to time prescribe in Defence Force Orders.
   (a) the expiry of the notice; or
@@ -612,7 +612,7 @@ Notwithstanding sections 53 to 55, the Chief of Defence Force, or a Chief of Ser
 (2) Notwithstanding subsection (3) of section 52, if a member of the regular forces who,—that member’s period of service shall not be deemed to have been completed until the proceedings have been completed, and the member has served any sentence of imprisonment or detention imposed as a result of those proceedings.
   (a) while facing disciplinary proceedings, gives notice under that section; or
   (b) having given notice under that section, subsequently faces disciplinary proceedings,—
-(3) Notwithstanding subsection (3) of section 52 but subject to subsection (2)(b) of this section, if a member of the regular forces who is serving a sentence of imprisonment or detention gives notice under that section, that member’s period of service shall not be deemed to have been completed until the member has served that sentence.
+(3) Notwithstanding subsection (3) of section 52 but subject to subsection (2)﻿(b) of this section, if a member of the regular forces who is serving a sentence of imprisonment or detention gives notice under that section, that member’s period of service shall not be deemed to have been completed until the member has served that sentence.
 
 **Discharge or release from services for incompatible behaviour**
 
@@ -705,7 +705,7 @@ Where the Chief of Defence Force intends to fill a position that is vacant or is
 (2) A certificate signed by the Chief of Defence Force that any person named in the certificate was appointed to any position in the Civil Staff from and including a day stated therein shall be sufficient evidence that the person so named was duly so appointed to and continues to hold the position unless the contrary is proved.
 
 ### 66 Obligation to notify appointments
-The Chief of Defence Force shall notify to the members of the Civil Staff every appointment (other than that of an acting, temporary, or casual employee) made by the Chief of Defence Force to an position in the Civil Staff.
+The Chief of Defence Force shall notify to the members of the Civil Staff every appointment (other than that of an acting, temporary, or casual employee) made by the Chief of Defence Force to a position in the Civil Staff.
 
 ### 67 Review of appointments
 (1) The Chief of Defence Force shall put into place for the Civil Staff a procedure for reviewing those appointments made to positions in the Civil Staff that are the subject of any complaint by a member of the Civil Staff.
@@ -818,7 +818,7 @@ The cadet forces shall have the following functions:
   (d) provide the cadet forces with clothing, stores and equipment, and accommodation; and
   (e) direct or authorise any member or class of members of the Armed Forces to direct, supervise, or assist any unit of the cadet forces when it is conducting any of its activities, either within or outside a defence area; and
   (f) approve the conducting of training courses or other activities by any unit of the cadet forces within a defence area under the supervision and direction of a member of the Armed Forces.
-(2) When a member of the Armed Forces is engaged in directing, supervising, or assisting a unit of the cadet forces under subsection (1)(e), that member shall be deemed to be on duty.
+(2) When a member of the Armed Forces is engaged in directing, supervising, or assisting a unit of the cadet forces under subsection (1)﻿(e), that member shall be deemed to be on duty.
 (3) The terms and conditions of service of cadet officers and other members of the cadet forces determined by the Chief of Defence Force under subsection (1) shall be promulgated in such a manner as the Chief of Defence Force directs.
 (4) Nothing in Part 4 or Part 5 or in the Armed Forces Discipline Act 1971, the State Sector Act 1988, or the Government Superannuation Fund Act 1956 shall apply in respect of any member of the cadet forces.
 
@@ -826,7 +826,7 @@ The cadet forces shall have the following functions:
 If any member of a unit of the cadet forces that is conducting a training course or training programme or any other activity within a defence area refuses or fails to comply with the lawful orders or instructions of any member of the Armed Forces directing or supervising, or assisting in the direction or supervision of, the course, programme, or other activity, that member or any other member acting under his or her authority may remove the member of the unit from the area.
 
 ### 80 Members of cadet forces eligible for war pensions
-(1) All the provisions of the War Pensions Act 1954, so far as they are applicable and with any necessary modifications, shall apply to every member of the cadet forces for the time being participating in any activity being carried on by the unit of which he or she is a member as if he or she were a member of the forces as defined in section 2 of that Act.
+(1) All the provisions of the Veterans' Support Act 2014, so far as they are applicable and with any necessary modifications, shall apply to every member of the cadet forces for the time being participating in any activity being carried on by the unit of which he or she is a member as if he or she were a member of the forces as defined in section 2 of that Act.
 (2) Section 9 of the Crown Proceedings Act 1950 shall apply to every member of the cadet forces as if he or she were a member of the Armed Forces within the meaning of that section, and as if participation by that member in any activity carried on by the unit of which he or she is a member were service in the Armed Forces.
 
 ### 81 Recognition of civilian organisations
@@ -976,7 +976,7 @@ All Proclamations, Orders in Council, and warrants relating to the Defence Force
   (c) providing for the payment of grants to Defence Force bands, organisations, and affiliated bodies:
   (d) authorising civilian persons or organisations to conduct prescribed activities in defence areas:
   (e) controlling the packing, marking, handling, carriage, storage, and use in defence areas of hazardous substances as defined in section 2 of the Hazardous Substances and New Organisms Act 1996:
-  (f) providing for the enlistment of forces under section 11(3)(e), (4)(d), or (5)(d), and providing for the terms and conditions of service of those forces:
+  (f) providing for the enlistment of forces under section 11(3)﻿(e), (4)﻿(d), or (5)﻿(d), and providing for the terms and conditions of service of those forces:
   (g) providing for such matters as are specified in section 46 or section 93:
   (ga) authorising the officer in charge of any defence area to regulate traffic of all classes, whether vehicular, pedestrian, animal, or otherwise, and prohibit traffic or any class of traffic, either absolutely or conditionally, on any specified road or any specified class of road in the area:
   (gb) authorising the officer in charge of any defence area to regulate the use of vehicles and specify the conditions upon or subject to which they may be used in the area:
