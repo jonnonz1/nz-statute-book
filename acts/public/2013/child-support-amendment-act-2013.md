@@ -1,5 +1,5 @@
 # Child Support Amendment Act 2013
-_Consolidation as at 2014-02-27_
+_Consolidation as at 2014-12-07_
 
 ### 1 Title
 This Act is the Child Support Amendment Act 2013.
@@ -643,7 +643,7 @@ Sections 129 to 131 and the heading above section 129 are repealed and the follo
   (4) Automatic deduction person, in this section and section 130, means (subject to subsections (5) to (7)) a person who is 1 or more of the following:
     (a) a person who is a PAYE or ACC income recipient, but only if or to the extent that he or she is not a person who is in receipt of a benefit specified in paragraph (c) or a grant specified in paragraph (d):
     (b) a person who, on or after 1 April 2016, defaults in a payment of financial support under this Act:
-    (c) a person who is in receipt of a benefit under the Social Security Act 1964, the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, Part 6 of the War Pensions Act 1954, or the New Zealand Superannuation and Retirement Income Act 2001:
+    (c) a person who is in receipt of a benefit under the Social Security Act 1964, the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, Part 6 of the Veterans' Support Act 2014, or the New Zealand Superannuation and Retirement Income Act 2001:
     (d) a person who is in receipt of a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998.
   (5) PAYE or ACC income recipient, in subsection (4)(a), means a person whose income is or includes either or both of the following:
     (a) income specified in paragraph (a) of the definition of withholding income in section 2(1):
