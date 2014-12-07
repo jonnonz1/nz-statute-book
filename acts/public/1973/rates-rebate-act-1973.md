@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-07_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -28,7 +28,7 @@ _Consolidation as at 2014-07-01_
       (iv) any money received as a grant to meet funeral expenses:
       (v) any money paid in respect of any military decoration and received by the recipient of such decoration:
       (vi) any family tax credit payable under the Income Tax Act 2007:
-      (vii) any salary or wages of a person in receipt of any supported living payment, sole parent support, or related emergency benefit under the Social Security Act 1964 or a veteran's pension under Part 6 of the War Pensions Act 1954 or a veteran's pension under the Social Welfare (Transitional Provisions) Act 1990, being salary or wages earned in respect of a period before the date of commencement of that benefit or pension
+      (vii) any salary or wages of a person in receipt of any supported living payment, sole parent support, or related emergency benefit under the Social Security Act 1964 or a veteran's pension under Part 6 of the Veterans' Support Act 2014 or a veteran's pension under the Social Welfare (Transitional Provisions) Act 1990, being salary or wages earned in respect of a period before the date of commencement of that benefit or pension
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **partner** , in relation to any ratepayer, means the civil union partner or de facto partner of the ratepayer, being a civil union partner or de facto partner who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable
   - **preceding tax year** means the period of 12 months ending with 31 March preceding the commencement of the rating year in respect of which the application is made
