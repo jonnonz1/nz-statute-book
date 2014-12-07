@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2014-12-07_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -321,7 +321,7 @@ Amendment(s) incorporated in the Act(s).
   (b) specified company means a company declared by the responsible Minister by notice in the Gazette to be a specified company for the purposes of this section.
 
 ### 41 Amendments to other Acts
-The enactments specified in the Schedule are hereby amended in the manner indicated in that schedule.
+The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
 
 ## Part 5 — Income-related rents, housing eligibility, and other matters
 
@@ -510,7 +510,7 @@ In this Part, unless the context otherwise requires,—
   - **benefit** means—
     (a) a benefit as defined in section 3(1) of the Social Security Act 1964; or
     (b) a lump sum payable under any of sections 61DB, 61DC, and 61DD of that Act; or
-    (c) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)(d) of that Act; or
+    (c) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)⁠(d) of that Act; or
     (d) an allowance established by regulations made under section 303 of the Education Act 1989
   - **Corporation** , despite section 2(1), includes the company
   - **Corporation housing** means premises (whether owned by the Crown, the Corporation, or any other person) let or to be let by or on behalf of the Corporation for occupation by any person as a place of residence
@@ -536,7 +536,7 @@ The purpose of section 68 is to facilitate the disclosure of information by the 
 (4) Information supplied under a request under subsection (1) may be supplied in a form determined by agreement between the Corporation and the chief executive of the department.
 
 ### 69 Information and details to be disclosed
-Examples of the information and details referred to in section 68(1)(a) and (b) are, for every tenant or former tenant,—
+Examples of the information and details referred to in section 68(1)⁠(a) and (b) are, for every tenant or former tenant,—
   (a) his or her full name, any other names used by him or her, and his or her date of birth; and
   (b) the full name, any other names used by, and the date of birth of, his or her spouse or partner (if any) and the full names, any other names used by, and the dates of birth of, any dependent children of the tenant or his or her spouse or partner (if any); and
   (c) the physical address of the Corporation housing that is the subject of the tenancy; and
@@ -602,12 +602,12 @@ In this Part, unless the context otherwise requires,—
   (a) HNZ must, subject to subsection (4), give the tenant written notice, in accordance with section 73(2), stating the date on which the increased income-related rent takes effect (the effective date); and
   (b) the effective date must be a date no earlier than 61 days after the date (as stated in the agency's notification) that the change in circumstances occurred; and
   (c) HNZ must give the notice to the tenant at least 2 weeks before the effective date.
-(2) The income-related rent notified under subsection (1)(a) for any HNZ housing must not exceed the market rent for the time being for that housing.
+(2) The income-related rent notified under subsection (1)⁠(a) for any HNZ housing must not exceed the market rent for the time being for that housing.
 (3) The agency may recover from the tenant as a debt due to the Crown, the difference (if any) between—
   (a) the higher income-related rent calculated by the agency for the tenant for the housing in respect of the period commencing on the date that is 61 days after the change in circumstances occurred and ending on the day before the effective date (capped at the market rent); and
   (b) the income-related rent applying to that period that the agency had calculated for the tenant for the housing and set out in its previous notification.
 (4) HNZ must change the rent charged following receipt of a notification from the agency unless, in HNZ’s opinion, it would not result in a material difference to the rent charged for the housing concerned.
-(5) Section 24(1)(c) to (h) and 24(1A) and (2) of the Residential Tenancies Act 1986 do not apply to the increase in rent.
+(5) Section 24(1)⁠(c) to (h) and 24(1A) and (2) of the Residential Tenancies Act 1986 do not apply to the increase in rent.
 (6) Amounts recoverable under subsection (3) are not rent in arrear for the purpose of the Residential Tenancies Act 1986.ExampleMary is a tenant of HNZ and is paying an income-related rent to HNZ. On 1 March, Mary returned to full-time employment but did not tell the agency of her change in circumstances.Several months later, the agency becomes aware that Mary’s circumstances had changed on 1 March. The agency calculates an increased income-related rent for Mary, and notifies HNZ accordingly. The increased income-related rent does not exceed the market rent for the housing.On 1 October that same year, HNZ notifies Mary that she must pay an increased income-related rent (in accordance with the agency’s notification) from the rent period beginning on 21 October (the effective date).The agency is entitled to recover from Mary, as a debt due to the Crown, the difference between—
   (a) the higher income-related rent for the housing (as set out in the agency’s notification), in respect of the period commencing on 1 May (61 days after the change in circumstances) and ending on 20 October; and
   (b) the income-related rent applying to that period that the agency had calculated for the tenant for the housing (as set out in the agency's previous notification).
@@ -641,15 +641,15 @@ HNZ may investigate the circumstances of—
     (iii) any information within his or her personal knowledge that has at any time been given to HNZ by the spouse or partner of the person.
 (2) HNZ may take the actions stated in subsection (3) if—
   (a) any person whose circumstances it may investigate—
-    (i) fails or refuses to answer (or, in HNZ's opinion, fails or refuses to answer fully) any question asked under subsection (1)(a); or
-    (ii) fails or refuses to verify any information by statutory declaration when asked to do so under subsection (1)(b); or
-  (b) it believes on reasonable grounds that any person whose circumstances it may investigate under section 77 has deliberately given a false or misleading answer to any question asked under subsection (1)(a).
+    (i) fails or refuses to answer (or, in HNZ's opinion, fails or refuses to answer fully) any question asked under subsection (1)⁠(a); or
+    (ii) fails or refuses to verify any information by statutory declaration when asked to do so under subsection (1)⁠(b); or
+  (b) it believes on reasonable grounds that any person whose circumstances it may investigate under section 77 has deliberately given a false or misleading answer to any question asked under subsection (1)⁠(a).
 (3) The actions are to—
   (a) assess the eligibility of an applicant for, or recipient of, a financial product on the basis of HNZ's own understanding of the circumstances:
   (b) treat the applicant or recipient as not or as no longer eligible for that financial product.
 
 ### 79 HNZ may seek information
-(1) For the purposes of a review under section 75 or an investigation under section 77, HNZ may request any person to—
+(1) For the purposes of a review undersection 75 or an investigation under section 77, HNZ may request any person to—
   (a) answer questions; or
   (b) allow HNZ to inspect any document or other written information; or
   (c) give HNZ—
@@ -662,7 +662,7 @@ HNZ may investigate the circumstances of—
   (a) for the purpose of any investigation under section 77:
   (b) for the purpose of detecting whether a person has committed or is committing an offence under section 82 or 83:
   (c) for the purpose of determining and detecting the cost of fraud under section 82 or 83:
-  (d) for the purpose of ascertaining whether a person has failed or refused to answer fully, or has deliberately given a false or misleading answer, to any question asked under section 78(1)(a).
+  (d) for the purpose of ascertaining whether a person has failed or refused to answer fully, or has deliberately given a false or misleading answer, to any question asked under section 78(1)⁠(a).
 (2) HNZ when requiring any information under subsection (1) must do so in accordance with the code of conduct.
 (3) HNZ may in writing require any person to advise whether any information provided under subsection (1) is accurate.
 (4) A person from whom information is required under subsection (1) or advice is required under subsection (3) must comply with the requirement—
@@ -677,7 +677,7 @@ HNZ may investigate the circumstances of—
     (i) the receipts, payments, income, expenditure, or financial transactions of a specified person (whether a lawyer, his or her client, or any other person); or
     (ii) investment receipts (being receipts arising or accruing from any money lodged at any time with a lawyer for investment) of any person or persons (whether the lawyer, his or her client, or any other person or persons); and
   (b) is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared by or kept in connection with a trust account of the lawyer.
-(8) If a person refuses to disclose any information or document on the ground that it is privileged under subsection (6)(a) or (b),—
+(8) If a person refuses to disclose any information or document on the ground that it is privileged under subsection (6)⁠(a) or (b),—
   (a) HNZ or that person or any other person to whom the information or document relates may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and
   (b) for the purposes of determining that application, the Judge may require the information or document to be produced to the court.
 (9) In this section,—
@@ -730,7 +730,7 @@ HNZ may investigate the circumstances of—
 
 ### 84 Delegation of powers under this Part
 (1) HNZ—
-  (a) may not delegate a power under section 78(1)(b), (2), or (3), except to the Corporation, the agency, the chief executive of the agency, or to an employee of HNZ or the Corporation; and
+  (a) may not delegate a power under section 78(1)⁠(b), (2), or (3), except to the Corporation, the agency, the chief executive of the agency, or to an employee of HNZ or the Corporation; and
   (b) may not delegate any other power under this Part except to—
     (i) the Corporation; or
     (ii) an employee of HNZ or the Corporation; or
@@ -739,7 +739,7 @@ HNZ may investigate the circumstances of—
 (2) If a power has been delegated to the Corporation under subsection (1), the Corporation may, with the consent of HNZ, subdelegate that power to an employee of the Corporation or of HNZ.
 (3) An employee to whom a power has been delegated by HNZ in accordance with subsection (1) may, with the consent of HNZ, subdelegate that power to another employee of the Corporation or of HNZ.
 (4) The agency or the chief executive of the agency to whom a power has been delegated by HNZ in accordance with subsection (1), may with the consent of HNZ, subdelegate that power to an employee of the agency.
-(5) If HNZ delegates a power under this Part (not being a power referred to in subsection (1)(a)) to a body corporate engaged by HNZ or the Corporation under a contract for services,—
+(5) If HNZ delegates a power under this Part (not being a power referred to in subsection (1)⁠(a)) to a body corporate engaged by HNZ or the Corporation under a contract for services,—
   (a) the body corporate cannot subdelegate the power except to a person who is an employee of the body corporate; and
   (b) an employee of the body corporate to whom the power is subdelegated cannot subdelegate it further.
 (6) Subsections (1) to (5) override section 130(1) of the Companies Act 1993.
@@ -792,11 +792,11 @@ The following persons must comply with the code of conduct when requiring inform
   (c) a provision prohibiting a requirement under section 80 being made in respect of a person referred to in paragraph (a) to any other person (not being a financial institution, a lawyer, employer, or former employer of the person referred to in paragraph (a), and not being a department, departmental agency, Crown entity), unless there is reasonable cause to make a requirement under that section:
   (d) a provision prohibiting a requirement under section 80 being made to an employer in respect of any information that relates solely to the marital or relationship status of an employee or a former employee of that employer:
   (e) provisions otherwise restricting requirements under section 80 being made to an employer to information specified in the code relating to the employment and the address of an employee or a former employee of that employer.
-(2) In subsection (1)(c), reasonable cause includes—
+(2) In subsection (1)⁠(c), reasonable cause includes—
   (a) cause to suspect that the person—
     (i) has committed an offence under this Part; or
     (ii) has obtained by fraud any financial product:
-  (b) the fact that the person has failed, within the time specified in the code, or has refused, to provide information in accordance with a requirement made to that person under a provision referred to in subsection (1)(a).
+  (b) the fact that the person has failed, within the time specified in the code, or has refused, to provide information in accordance with a requirement made to that person under a provision referred to in subsection (1)⁠(a).
 
 ## Part 8 — Community housing
 
@@ -851,9 +851,9 @@ In this Part, unless the context otherwise requires,—
 (2) The agency may recover from the tenant as a debt due to the Crown, the difference (if any) between—
   (a) the higher income-related rent calculated by the agency for the tenant for the housing in respect of the period commencing on the date that is 61 days after the change in circumstances occurred and ending on the day before the effective date (capped at the market rent); and
   (b) the income-related rent applying to that period that the agency had calculated for the tenant for the housing and set out in its previous notification.
-(3) The income-related rent notified under subsection (1)(a) for the housing must not exceed its market rent for the time being.
+(3) The income-related rent notified under subsection (1)⁠(a) for the housing must not exceed its market rent for the time being.
 (4) A registered community housing provider must change the rent charged following receipt of a notification from the agency unless, in the provider’s opinion, it would not result in a material difference to the rent charged for the housing concerned.
-(5) Section 24(1)(c) to (h) and 24(1A) and (2) of the Residential Tenancies Act 1986 do not apply to the increase in rent.
+(5) Section 24(1)⁠(c) to (h) and 24(1A) and (2) of the Residential Tenancies Act 1986 do not apply to the increase in rent.
 (6) Amounts recoverable under subsection (2) are not rent in arrear for the purposes of the Residential Tenancies Act 1986.ExampleMary is a tenant of a registered community housing provider and is paying an income-related rent to the provider. On 1 March, Mary returned to full-time employment but did not tell the agency of her change in circumstances.Several months later, the agency becomes aware that Mary’s circumstances had changed on 1 March. The agency calculates an increased income-related rent for Mary, and notifies the registered community housing provider accordingly. The increased income-related rent does not exceed the market rent for the housing.On 1 October that same year, the registered community housing provider notifies Mary that she must pay an increased income-related rent (in accordance with the agency’s notification) from the rent period beginning on 21 October (the effective date).The agency is entitled to recover from Mary, as a debt due to the Crown, the difference between—
   (a) the higher income-related rent for the housing (as set out in the agency’s notification) in respect of the period commencing on 1 May (61 days after the change in circumstances) and ending on 20 October; and
   (b) the income-related rent applying to that period that the agency had calculated for the tenant for the housing (as set out in the agency's previous notification).
@@ -932,7 +932,7 @@ The functions of the agency include the following:
 (4) Before making any direction under this section, the joint Ministers and, if applicable, any other Minister responsible for the agency must consult—
   (a) the agency and the authority; and
   (b) any social housing provider that, in the Minister's opinion, will be materially affected by the direction.
-(5) The requirement in subsection (4)(b) does not apply to the first directions to be made under subsection (2) or (3).
+(5) The requirement in subsection (4)⁠(b) does not apply to the first directions to be made under subsection (2) or (3).
 (6) The agency must, in carrying out functions under this Act, give effect to any directions that are given to it under this section and that are signed by the joint Ministers and, if applicable, any other Minister responsible for the agency.
 (7) If the agency is a Crown entity, subsections (1) to (6) do not limit Part 3 of the Crown Entities Act 2004.
 (8) If there is any inconsistency between the provisions of this Act and the Crown Entities Act 2004 relating to ministerial directions, the provisions of the Crown Entities Act 2004 prevail.
@@ -1033,8 +1033,8 @@ The assessable income of an applicable person is the agency's estimate of the pe
 (1) For the purposes of section 108, a person's weekly income—
   (a) includes any amount or payment (or, as the case requires, the appropriate weekly proportion of any amount or payment) of a prescribed description:
   (b) does not include any amount or payment (or, as the case requires, the appropriate weekly proportion of any amount or payment) of a prescribed description.
-(2) Subsection (1)(a) does not limit section 108.
-(3) Subsection (1)(b) overrides sections 108 and 109(1).
+(2) Subsection (1)⁠(a) does not limit section 108.
+(3) Subsection (1)⁠(b) overrides sections 108 and 109(1).
 
 **Assessable assets, and deprivation of income or property**
 
@@ -1109,16 +1109,16 @@ For the purposes of section 108, a person's weekly income is the person's estima
   (a) the rent for the housing must be its market rent for the time being, in accordance with section 72(3); or
   (b) the rent for the housing may be determined by the registered community housing provider, but must not exceed its market rent for the time being, in accordance with section 92(3).
 (4) The agency—
-  (a) does not have to calculate that other income-related rent under subsection (2)(a) unless, in the agency's opinion, it would result in a material difference to the existing income-related rent; and
+  (a) does not have to calculate that other income-related rent under subsection (2)⁠(a) unless, in the agency's opinion, it would result in a material difference to the existing income-related rent; and
   (b) does not have to give a notification under section 103 or 106 unless the agency has calculated the income-related rent and, in the agency's opinion, the result is a material difference from the existing income-related rent; and
-  (c) does not have to act under subsection (2)(b) unless in the agency's opinion, there has been a material under-payment of rent for the housing concerned.
+  (c) does not have to act under subsection (2)⁠(b) unless in the agency's opinion, there has been a material under-payment of rent for the housing concerned.
 
 ### 117 Agency may review housing eligibility
 (1) The agency may—
   (a) at any time, on its own motion or on the application of a social housing provider, review the eligibility of a prospective tenant for social housing:
   (b) subject to and in accordance with any directions given under section 102(3), at any time, on its own motion or on the application of a social housing provider, review the continued eligibility of a tenant for social housing.
-(2) The agency must conduct a review under subsection (1)(a) in accordance with directions given under section 102(2).
-(3) The agency must conduct a review under subsection (1)(b) in accordance with directions (if any) given under section 102(2)(b).
+(2) The agency must conduct a review under subsection (1)⁠(a) in accordance with directions given under section 102(2).
+(3) The agency must conduct a review under subsection (1)⁠(b) in accordance with directions (if any) given under section 102(2)⁠(b).
 (4) Nothing in this section limits or affects any power of the agency to conduct a review under any other enactment.
 
 ### 118 Agency may review housing needs of tenant
@@ -1164,7 +1164,7 @@ For the purpose of any investigation conducted under section 119, 120, or 121, t
     (i) fails or refuses to answer (or, in the agency's opinion, fails or refuses to answer fully) any question asked under section 122(a); or
     (ii) fails or refuses to verify any information by statutory declaration when asked to do so under section 122(b); or
   (b) it believes on reasonable grounds that any person whose circumstances it may investigate has deliberately given a false or misleading answer to any question asked under section 122(a); or
-  (c) for the purpose of a review under section 117 or 118, the agency requires information from a tenant under section 125(1)(d), and—
+  (c) for the purpose of a review under section 117 or 118, the agency requires information from a tenant under section 125(1)⁠(d), and—
     (i) the tenant fails or refuses to comply fully with the requirement for information; or
     (ii) the agency believes on reasonable grounds that the tenant has deliberately given false or misleading information in response to the requirement.
 (2) The actions are,—
@@ -1214,7 +1214,7 @@ For the purpose of any investigation conducted under section 119, 120, or 121, t
     (i) the receipts, payments, income, expenditure, or financial transactions of a specified person (whether a lawyer, his or her client, or any other person); or
     (ii) investment receipts (being receipts arising or accruing from any money lodged at any time with a lawyer for investment) of any person or persons (whether the lawyer, his or her clients, or any other person or persons); and
   (b) is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared by or kept in connection with a trust account of the lawyer.
-(8) If a person refuses to disclose any information or document on the ground that it is privileged under subsection (6)(a) or (b),—
+(8) If a person refuses to disclose any information or document on the ground that it is privileged under subsection (6)⁠(a) or (b),—
   (a) the agency or that person or any other person to whom the information or document relates may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and
   (b) for the purposes of determining that application, the Judge may require the information or document to be produced to the court.
 (9) In this section,—
@@ -1246,7 +1246,7 @@ For the purpose of section 74(3), 94(2), or 127(2), if the agency is the Ministr
 
 ### 129 Allocation of social housing
 (1) The matters to which the agency may have regard in doing any of the things stated in subsection (2) may include criteria that have, or are capable of having, the effect that tenants, people who are or might be applicable persons in relation to those tenants, and other people who are or might be residing in the housing concerned are treated differently on the basis of—
-  (a) their marital status, disability or absence of disability, age, or family status (as the terms marital status, disability, age, and family status are defined in section 21(1)(b), (h), (i), and (l) of the Human Rights Act 1993); or
+  (a) their marital status, disability or absence of disability, age, or family status (as the terms marital status, disability, age, and family status are defined in section 21(1)⁠(b), (h), (i), and (l) of the Human Rights Act 1993); or
   (b) whether or not they are resident, or ordinarily resident, or permanently resident, or lawfully resident, in New Zealand; or
   (c) their incomes; or
   (d) their property; or
@@ -1316,7 +1316,7 @@ A tenant may, in accordance with regulations made under section 136, appeal agai
   (b) may award costs against the appellant in respect of any appeal that is refused, if the appeal body believes that it was frivolous or vexatious, or should not have been brought.
 
 ### 135 Where appeal body established by regulations
-If the agency is not the Ministry and regulations under section 136(1)(a) establish a body to dispose of appeals under sections 132 to 134, any party to any appeal to the body who is dissatisfied with any determination of the body may appeal to a District Court and in that case,—
+If the agency is not the Ministry and regulations under section 136(1)⁠(a) establish a body to dispose of appeals under sections 132 to 134, any party to any appeal to the body who is dissatisfied with any determination of the body may appeal to a District Court and in that case,—
   (a) within 14 days after the date of the determination, the appellant must—
     (i) lodge a notice of appeal with the court; and
     (ii) give a copy of the notice to every other party to the appeal:
@@ -1332,10 +1332,10 @@ If the agency is not the Ministry and regulations under section 136(1)(a) establ
     (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the Social Security Act 1964 as if they were appeals against decisions or determinations under that Act, and providing that sections 12J to 12N, section 12OA, and sections 12P to 12S of that Act apply, with or without modification, to the hearing and disposal of appeals; or
     (iii) providing, if the agency is not the Ministry, that such appeals are to be made to a District Court, and providing that the District Courts Act 1947 and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals; or
   (b) providing for any other matters contemplated by the provisions of this Part (other than sections 107 to 113), necessary for their administration, or necessary for giving them full effect.
-(2) Any body established under subsection (1)(a)(i) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951, and every member of it is entitled to—
+(2) Any body established under subsection (1)⁠(a)⁠(i) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951, and every member of it is entitled to—
   (a) remuneration by way of fees, salary, or allowances for the member's services as a member of it:
   (b) payment of travelling allowances and expenses in respect of time spent travelling in its service.
-(3) If regulations made under subsection (1) provide for the matters described in subsection (1)(a)(ii) (relating to the Social Security Appeal Authority), regulations may—
+(3) If regulations made under subsection (1) provide for the matters described in subsection (1)⁠(a)⁠(ii) (relating to the Social Security Appeal Authority), regulations may—
   (a) provide for the function of the Benefits Review Committees in relation to appeals under this Act; and
   (b) require that an appeal to the Social Security Appeal Authority may not be heard until the matter has been confirmed or varied by the Benefits Review Committee.
 
@@ -1343,7 +1343,7 @@ If the agency is not the Ministry and regulations under section 136(1)(a) establ
 
 ### 137 Delegation of powers under this Part
 (1) The agency—
-  (a) may not delegate a power under section 116(2)(b), 122(b), 123, or 127, except to a person who is an employee of the agency; and
+  (a) may not delegate a power under section 116(2)⁠(b), 122(b), 123, or 127, except to a person who is an employee of the agency; and
   (b) may not delegate any other power under this Part, the calculation mechanism, or Schedule 3, except to a person who is—
     (i) an employee of the agency; or
     (ii) engaged by the agency under a contract for services providing for the person to exercise that power.
@@ -1353,7 +1353,7 @@ If the agency is not the Ministry and regulations under section 136(1)(a) establ
   (b) by HNZ, to the Corporation, or an employee of HNZ or the Corporation:
   (c) by the Corporation, to an employee of the Corporation:
   (d) by an employee of the agency, to another employee of the agency.
-(4) If the agency delegates a power under this Part, the calculation mechanism, or Schedule 3 (not being a power referred to in subsection (1)(a)) to a body corporate engaged by the agency under a contract for services,—
+(4) If the agency delegates a power under this Part, the calculation mechanism, or Schedule 3 (not being a power referred to in subsection (1)⁠(a)) to a body corporate engaged by the agency under a contract for services,—
   (a) the body corporate cannot subdelegate it except to a person who is an employee of the body corporate; and
   (b) an employee of the body corporate to whom it is subdelegated cannot subdelegate it further.
 (5) This section overrides section 130(1) of the Companies Act 1993.
@@ -1403,12 +1403,12 @@ The following persons must comply with the code of conduct when requiring inform
   (c) a provision prohibiting a requirement under section 125 being made in respect of a person referred to in paragraph (d) (not being a lawyer, an employer, or a former employer of a person referred to in paragraph (a) and not being a department, departmental agency, Crown entity, financial institution), unless there is reasonable cause to make a requirement under that section:
   (d) a provision prohibiting a requirement under section 125 being made to an employer in respect of any information that relates solely to the marital or relationship status of an employee or former employee of that employer:
   (e) provisions otherwise restricting requirements under section 125 being made to an employer to information specified in the code relating to the employment and the address of an employee or former employee of that employer.
-(2) In subsection (1)(c), reasonable cause includes—
+(2) In subsection (1)⁠(c), reasonable cause includes—
   (a) cause to suspect that the person—
     (i) has committed an offence under this Act; or
     (ii) has obtained by fraud any income-related rent or social housing; or
     (iii) as a result of committing fraud, pays or continues to pay an income-related rent or remains in social housing or particular social housing:
-  (b) the fact that the person has failed, within the time specified in the code, or has refused to provide information in accordance with a requirement made to that person under a provision referred to in subsection (1)(a).
+  (b) the fact that the person has failed, within the time specified in the code, or has refused to provide information in accordance with a requirement made to that person under a provision referred to in subsection (1)⁠(a).
 
 **Debt recovery by agency other than Ministry**
 
@@ -1556,8 +1556,8 @@ For the purposes of section 156 and Schedule 3,—
 In this Part, unless the context otherwise requires,—
   - **appeal body** means the body specified in regulations made under section 187 to whom appeals under section 184 may be made
   - **prescribed** means prescribed in regulations made under section 190
-  - **prescribed eligibility criteria** means the eligibility criteria prescribed under section 190(1)(d) that a community housing provider must meet to be registered or obtain registration of a specified class
-  - **prescribed performance standards** means the performance standards prescribed under section 190(1)(e) that a community housing provider must meet to maintain registration or registration of a specified class
+  - **prescribed eligibility criteria** means the eligibility criteria prescribed under section 190(1)⁠(d) that a community housing provider must meet to be registered or obtain registration of a specified class
+  - **prescribed performance standards** means the performance standards prescribed under section 190(1)⁠(e) that a community housing provider must meet to maintain registration or registration of a specified class
   - **register** means the register of community housing providers established under section 172.
 
 **Appointment, objectives, functions, and operation of authority**
@@ -1593,7 +1593,7 @@ The functions of the authority are to—
 (2) Before making any direction under this section, the joint Ministers and, if applicable, any other Minister responsible for the agency must consult—
   (a) the agency and the authority; and
   (b) any social housing provider that, in the Minister's opinion, will be materially affected by the direction.
-(3) The requirement in subsection (2)(b) does not apply to the first directions to be made under this section.
+(3) The requirement in subsection (2)⁠(b) does not apply to the first directions to be made under this section.
 (4) The authority must, in carrying out functions under this Act, give effect to any directions that are given to it under this section and that are signed by the joint Ministers and if applicable, any other Minister responsible for the authority.
 (5) If the authority is a Crown entity,—
   (a) subsections (1) to (4) do not limit Part 3 of the Crown Entities Act 2004; and
@@ -1650,7 +1650,7 @@ The authority must, as soon as practicable after receiving an application for re
   (b) the provider may be paid an income-related rent subsidy:
   (c) the provider may not apply for any further Crown grants:
   (d) the provider may not apply for any further assets of the Crown or of a Crown entity.
-(4) If the provider does not satisfy the authority for the purposes of subsection (1)(a) within 12 months after the suspension, or any further period that the authority may determine, the authority must revoke the provider’s registration in accordance with sections 170 and 171.
+(4) If the provider does not satisfy the authority for the purposes of subsection (1)⁠(a) within 12 months after the suspension, or any further period that the authority may determine, the authority must revoke the provider’s registration in accordance with sections 170 and 171.
 
 ### 170 When registration may be revoked
 (1) The authority may revoke the registration of a community housing provider under this Part if the authority is satisfied on reasonable grounds that the provider—
@@ -1724,7 +1724,7 @@ The authority—
   (a) to supply to the authority, within the time and in the manner specified in the notice, any information or class of information specified in the notice; or
   (b) to produce to the authority, or to a specified person named in the notice, any document or class of documents specified in the notice (within the time and in the manner specified in the notice); or
   (c) if necessary, to reproduce, or assist in reproducing, in usable form, information recorded or stored in any document or class of documents specified in the notice (within the time and in the manner specified in the notice).
-(2) Information supplied in response to a notice under subsection (1)(a) must be—
+(2) Information supplied in response to a notice under subsection (1)⁠(a) must be—
   (a) given in writing; and
   (b) signed in the manner specified in the notice.
 (3) If a document is provided in response to a notice under subsection (1), the authority, or the specified person to whom the document is produced, may—
@@ -1813,7 +1813,7 @@ A community housing provider may, in accordance with regulations made under sect
 (7) Subject to section 188, a decision of the authority that is the subject of the appeal stands pending determination of the appeal.
 
 ### 186 Where appeal body established by regulations
-If regulations under section 187(1)(a) establish a body to dispose of appeals under sections 183 to 188, any party to an appeal to the body who is dissatisfied with any determination of the body may appeal to a District Court and in that case,—
+If regulations under section 187(1)⁠(a) establish a body to dispose of appeals under sections 183 to 188, any party to an appeal to the body who is dissatisfied with any determination of the body may appeal to a District Court and in that case,—
   (a) within 14 days after the date of the determination, the appellant must—
     (i) lodge a notice of appeal with the court; and
     (ii) give a copy of the notice to every other party to the appeal:
@@ -1824,7 +1824,7 @@ If regulations under section 187(1)(a) establish a body to dispose of appeals un
 (1) The Governor-General may, by Order in Council, make regulations—
   (a) establishing a body to dispose of appeals under section 184, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
   (b) providing that such appeals are to be made to a District Court, and providing that the District Courts Act 1947 and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals.
-(2) Any body established under subsection (1)(a) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951, and every member of it is entitled to—
+(2) Any body established under subsection (1)⁠(a) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951, and every member of it is entitled to—
   (a) remuneration by way of fees, salary, or allowances for the member's services as a member of it:
   (b) payment of travelling allowances and expenses in respect of time spent travelling in its service.
 
@@ -1889,7 +1889,7 @@ If regulations under section 187(1)(a) establish a body to dispose of appeals un
     (ii) an income-related rent will be available to some or all tenants of registered community housing providers:
   (i) specifying the type or types of registered community housing providers to whom the income-related subsidy may or may not be made available:
   (j) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
-(2) Any fee prescribed under subsection (1)(c) must be reasonable, having regard to the need to recover the costs incurred by the authority in performing its functions under this Part.
+(2) Any fee prescribed under subsection (1)⁠(c) must be reasonable, having regard to the need to recover the costs incurred by the authority in performing its functions under this Part.
 
 ### 191 Consultation requirements for making regulations
 (1) Before making a recommendation for the making of an Order in Council under section 190, the joint Ministers must be satisfied that the authority has consulted in accordance with subsections (2) and (3).
@@ -1923,7 +1923,7 @@ If regulations under section 187(1)(a) establish a body to dispose of appeals un
 **Prescribed proportions, thresholds, and amounts**
 
 ### 1 Proportion of income up to threshold
-The proportion of 25% is prescribed for the purposes of section 107(2)(a).
+The proportion of 25% is prescribed for the purposes of section 107(2)⁠(a).
 
 ### 2 Thresholds
 The following thresholds are prescribed for the purposes of paragraphs (a) and (b) of section 107(2):
@@ -1931,16 +1931,16 @@ The following thresholds are prescribed for the purposes of paragraphs (a) and (
   (b) in every other case, is the rate stated in clause 1(c) of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, after deduction of standard tax, multiplied by 2.
 
 ### 3 Proportion of income above threshold
-The proportion of 50% is prescribed for the purposes of section 107(2)(b).
+The proportion of 50% is prescribed for the purposes of section 107(2)⁠(b).
 
 ### 4 Proportion of family tax credit
-The proportion of 25% is prescribed for the purposes of sections 107(2)(c) and 107(3)(b).
+The proportion of 25% is prescribed for the purposes of sections 107(2)⁠(c) and 107(3)⁠(b).
 
 ### 5 Prescribed amount of family tax credit
-The maximum rate of family tax credit payable under subparts MA to MF and MZ of the Income Tax Act 2007 in respect of an eldest dependent child who is under 16 is prescribed for the purposes of sections 107(2)(c)(ii) and 107(3)(b)(ii).
+The maximum rate of family tax credit payable under subparts MA to MF and MZ of the Income Tax Act 2007 in respect of an eldest dependent child who is under 16 is prescribed for the purposes of sections 107(2)⁠(c)⁠(ii) and 107(3)⁠(b)⁠(ii).
 
 ### 6 Proportion of benefit
-The proportion of 25% is prescribed for the purposes of section 107(3)(a).
+The proportion of 25% is prescribed for the purposes of section 107(3)⁠(a).
 
 **Contributions by additional residents**
 
@@ -1958,16 +1958,16 @@ For the purposes of section 109(2),—
 **Payments included in or excluded from income**
 
 ### 9 Certain payments to be income
-For the purposes of section 110(1)(a), a person's weekly income includes—
+For the purposes of section 110(1)⁠(a), a person's weekly income includes—
   (a) the appropriate weekly proportion of every amount or payment received as—
     (i) an income-tested benefit (within the meaning of section 3(1) of the Social Security Act 1964) other than an orphan's benefit or an unsupported child's benefit; or
-    (ii) New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension under Part 6 of the War Pensions Act 1954; or
+    (ii) New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension under Part 6 of the Veterans' Support Act 2014; or
     (iii) a study grant; and
   (b) amounts received from Accident Compensation Corporation or an insurer under the Accident Compensation Act 2001 as weekly compensation for loss of earnings or potential earning capacity; and
   (c) any minimum family tax credit the person is eligible for under subparts MA to MF and MZ of the Income Tax Act 2007.
 
 ### 10 Certain payments not to be income
-For the purposes of section 110(1)(b), a person's weekly income does not include—
+For the purposes of section 110(1)⁠(b), a person's weekly income does not include—
   (a) an amount or payment—
     (i) received as a benefit, allowance, or other payment under the Social Security Act 1964 not referred to in clause 9(a); or
     (ii) received as a parental tax credit, child tax credit, or in-work tax credit under subparts MA to MF and MZ of the Income Tax Act 2007; or
@@ -1981,7 +1981,7 @@ For the purposes of section 110(1)(b), a person's weekly income does not include
 (1) For the purposes of section 111(2), assessable assets,—
   (a) in the case of a person with a spouse or partner or a single person with a dependent child or children, means any cash assets (within the meaning of section 61E of the Social Security Act 1964) in excess of $5,400:
   (b) in any other case, means any cash assets (within the meaning of section 61E of the Social Security Act 1964) in excess of $2,700.
-(2) If, on or after the date this subclause comes into force, a person receives an impairment lump sum under Schedule 1 of the Accident Compensation Act 2001 or a lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998, then for the period of 12 months following the receipt of that lump sum payment, the applicable amount in subclause (1)(a) or (b) is considered to be increased by the amount of that payment.
+(2) If, on or after the date this subclause comes into force, a person receives an impairment lump sum under Schedule 1 of the Accident Compensation Act 2001 or a lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998, then for the period of 12 months following the receipt of that lump sum payment, the applicable amount in subclause (1)⁠(a) or (b) is considered to be increased by the amount of that payment.
 
 **Period for estimating income**
 
@@ -2000,7 +2000,7 @@ In this schedule, unless the context otherwise requires,—
   - **accommodation benefit** means an accommodation benefit under regulation 9 of the Student Allowances Regulations 1998
   - **accommodation supplement** means an accommodation supplement under section 61EA of the Social Security Act 1964
   - **affected tenant** means a tenant of HNZ housing to whom this schedule (by virtue of section 156(1)) applies
-  - **special transfer allowance** means an amount payable by way of special assistance under the special transfer allowance programme approved under section 124(1)(d) of the Social Security Act 1964
+  - **special transfer allowance** means an amount payable by way of special assistance under the special transfer allowance programme approved under section 124(1)⁠(d) of the Social Security Act 1964
   - **tenure protection allowance** means the tenure protection allowance formerly payable under the sections 61FC and 61FD of the Social Security Act 1964.
 
 ### 2 Saving in respect of tenure protection allowance and special transfer allowance
@@ -2043,7 +2043,7 @@ In this schedule, unless the context otherwise requires,—
 (1) Clauses 2 to 4 cease to apply to a tenant who—
   (a) ceases to occupy the HNZ housing in respect of which the rebate applied (otherwise than by beginning to occupy replacement social housing); or
   (b) in the case of a sole tenant, dies.
-(2) In subclause (1)(a), replacement social housing, in relation to any HNZ housing in respect of which a rebate applied, means any HNZ housing a tenancy of which replaced—
+(2) In subclause (1)⁠(a), replacement social housing, in relation to any HNZ housing in respect of which a rebate applied, means any HNZ housing a tenancy of which replaced—
   (a) a tenancy of that housing; or
   (b) a tenancy of some other HNZ housing that was replacement HNZ housing in relation to that housing.
 
@@ -2135,7 +2135,7 @@ The definition of income in section 3(1) of the Social Security Act 1964, as it 
 (1) Without limiting clause 13 and subclause (2), the Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 must be read with the following modifications:
   (a) in the definition of decision in regulation 3, the reference to section 62(2) must be read as a reference to section 62A; and
   (b) in the heading above regulation 4, the reference to section 62 must be read as a reference to section 62A; and
-  (c) in regulations 4(1), 16(2), and 17(1)(a), the reference to section 62(2) must be read as a reference to section 62A.
+  (c) in regulations 4(1), 16(2), and 17(1)⁠(a), the reference to section 62(2) must be read as a reference to section 62A.
 (2) The Housing Restructuring and Tenancy Matters (Appeals) Regulations 2000 may continue to be amended as if section 63 had not been repealed by section 22 of the 2013 Amendment Act.
 
 ### 15 Continuation of prosecutions started before transfer date
@@ -2164,7 +2164,7 @@ The definition of income in section 3(1) of the Social Security Act 1964, as it 
 (1) An employee of the Corporation is not entitled to receive any payment or other benefit on the ground that the position held by the person in the Corporation has ceased to exist if the employee's position ceases to exist because the duties of the position are more closely connected with the functions of the agency, and—
   (a) the employee is offered employment in an equivalent position in the agency (whether or not the employee accepts the offer); or
   (b) the employee is offered and accepts employment in the agency.
-(2) In subclause (1)(a), employment in an equivalent position means employment that is—
+(2) In subclause (1)⁠(a), employment in an equivalent position means employment that is—
   (a) in substantially the same position; and
   (b) in the same general locality; and
   (c) on terms and conditions that are no less favourable than those applying to the employee immediately before the date the offer of employment is made to that employee; and
@@ -2177,7 +2177,7 @@ The definition of income in section 3(1) of the Social Security Act 1964, as it 
 (2) In this clause,—
   - **relevant information** means all information that relates to the exercise of a function or power of HNZ or the Corporation that is, on the commencement of Part 7, a function or power of the agency
   - **relevant thing** means any thing that relates to a function or power of HNZ or the Corporation that, on the commencement of Part 7, is a function or power of the agency.
-(3) The transfer of information from HNZ or the Corporation to the agency under subclause (1)(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+(3) The transfer of information from HNZ or the Corporation to the agency under subclause (1)⁠(a) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
 
 ### 19 No claims for breach of contract
 No claim for breach of contract lies against HNZ, the Corporation, the agency, or any of their employees in respect of any information, knowledge, intellectual property, or goods to which the agency has gained access or has acquired as a result of the transfer of functions of HNZ and the Corporation to the agency.
@@ -2189,12 +2189,12 @@ No claim for breach of contract lies against HNZ, the Corporation, the agency, o
   (a) facilitating or ensuring the orderliness of the transition to the amendments made to this Act by the Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013:
   (b) ensuring that existing rights or obligations continue as part of, or despite, that transition.
 (2) The Minister must not recommend the making of regulations under subclause (1) unless satisfied that those regulations—
-  (a) are reasonably necessary for either or both of the purposes in subclause (1)(a) and (b); and
+  (a) are reasonably necessary for either or both of the purposes in subclause (1)⁠(a) and (b); and
   (b) are consistent with the purposes of this Act.
 (3) The transitional provisions or savings provisions prescribed by regulations under subclause (1) may be provisions in addition to or instead of those set out in Parts 1 and 2 of this schedule, and may—
   (a) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions (including definitions) of those amendments to this Act do not apply, or apply with modifications or additions:
   (b) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions repealed, amended, or revoked by those amendments to this Act are to continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
-  (c) provide for any other matter necessary for either or both of the purposes in subclause (1)(a) and (b).
+  (c) provide for any other matter necessary for either or both of the purposes in subclause (1)⁠(a) and (b).
 (4) No regulations made under this clause may be made, or continue in force, after the close of 14 April 2017.
 
 ### 1 Title
