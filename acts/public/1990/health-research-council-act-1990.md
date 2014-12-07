@@ -1,5 +1,5 @@
 # Health Research Council Act 1990
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2014-12-07_
 
 > An Act—ato establish the Health Research Council of New Zealand and to define its functions and powers; andbto dissolve the Medical Research Council of New Zealand; andcto provide for matters incidental thereto
 
@@ -307,8 +307,7 @@ Subject to the other provisions of this Act, and unless in any case the context 
 ## Part 3 — Consequential amendments and repeals
 
 ### 51 Consequential amendment to War Pensions Act 1954
-(1) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding subsection (1), the person holding office immediately before the commencement of this Act as the member of the War Pensions Medical Research Trust Board appointed under section 18C(1)(e) of the War Pensions Act 1954 shall, unless that person sooner vacates office under section 18D of that Act, continue in office as a member of that Board until the expiration of the term for which that person was appointed.
+[Repealed]
 
 ### 52 Consequential amendment to Ministry of Transport Act 1968
 (1) Amendment(s) incorporated in the Act(s).
