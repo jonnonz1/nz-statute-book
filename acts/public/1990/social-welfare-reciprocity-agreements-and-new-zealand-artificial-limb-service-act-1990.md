@@ -1,5 +1,5 @@
 # Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990
-_Consolidation as at 2014-07-07_
+_Consolidation as at 2014-12-07_
 
 > Title
 
@@ -16,7 +16,7 @@ _Consolidation as at 2014-07-07_
     (b) in relation to any other country, means an amount that may be recovered from any person—
       (i) under the laws relating to social security in that country; or
       (ii) for taxation or other contribution levied specifically for social security under the laws of that country.
-(2) Unless the context otherwise requires, expressions defined in section 3(1) of the Social Security Act 1964 and in section 2 of the War Pensions Act 1954 have in this Act the meanings so defined.
+(2) Unless the context otherwise requires, expressions defined in section 3(1) of the Social Security Act 1964 and in section 7 of the Veterans' Support Act 2014 have in this Act the meanings so defined.
 
 ### 2A Administration of veterans' pensions
 [Repealed]
@@ -141,12 +141,12 @@ _Consolidation as at 2014-07-07_
 ### 19 Adoption of reciprocity agreement with other countries
 (1) For the purpose of giving effect to any agreement or Convention with the government of another country providing for reciprocity in respect of matters relating to social security monetary benefits, or to any alteration thereto, the Governor-General may, by Order in Council,—
   (a) declare that the provisions contained in any agreement or Convention or alteration thereto set out in a schedule of the Order in Council shall have force and effect so far as they relate to New Zealand:
-  (b) declare that the provisions of this Act and of the Social Security Act 1964 and Part 6 of the War Pensions Act 1954 and of Part 1 of the New Zealand Superannuation and Retirement Income Act 2001 and of the regulations and orders in force under those Acts shall have effect subject to such modifications as may be required for the purpose of giving effect to the agreement or Convention or alteration thereto:
-  (c) revoke any previous Order in Council which applied in respect of any such agreement or Convention which is no longer in force or which is intended to be no longer in force on the commencement of the Order in Council.
+  (b) declare that the provisions of this Act and of the Social Security Act 1964 and Part 6 of the Veterans' Support Act 2014 and of Part 1 of the New Zealand Superannuation and Retirement Income Act 2001 and of the regulations and orders in force under those Acts shall have effect subject to such modifications as may be required for the purpose of giving effect to the agreement or Convention or alteration thereto:
+  (c) revoke any previous Order in Council which applied in respect of any such agreement or Convention that is no longer in force or that is intended to be no longer in force on the commencement of the Order in Council.
 (2) The Governor-General may, by the same or a subsequent Order in Council, specify the date on which any Order in Council made under subsection (1) is to come into force, which may be a date before or on or after the date on which the Order in Council is so made.
 (2A) If an agreement or Convention or alteration to an agreement or Convention contains a provision of the kind referred to in section 19A(2), no Order in Council in respect of that agreement or Convention or alteration may be made under subsection (1) unless the Privacy Commissioner has first presented a report to the Minister and to the Minister of Justice on the following matters:
   (a) whether the provision complies with the privacy principles set out in the Privacy Act 1993, having regard to the matters set out in paragraphs (a) to (f) of section 98 of that Act:
-  (b) if the provision is of the kind referred to in section 19A(2)(b), the adequacy of the privacy protection given in the other country to information about any individual that may be supplied by New Zealand under the provision.
+  (b) if the provision is of the kind referred to in section 19A(2)﻿(b), the adequacy of the privacy protection given in the other country to information about any individual that may be supplied by New Zealand under the provision.
 (2B) Subsection (2A) does not apply to a provision that relates solely to the recovery of moneys paid under the agreement or Convention in excess of that to which the recipient was entitled under that agreement or Convention.
 (3) Amendment(s) incorporated in the Act(s).
 (4) Amendment(s) incorporated in the order(s).
@@ -169,8 +169,8 @@ _Consolidation as at 2014-07-07_
   (a) provision for the governments of New Zealand and the other country to provide each other with assistance in the recovery of social security debts; or
   (b) provision for those governments to supply each other with information for social security purposes; or
   (c) both provisions described in paragraphs (a) and (b).
-(3) No provision of the kind referred to in subsection (2)(a) may be included in an agreement unless it is subject to the terms and conditions set out in section 19B or terms and conditions to the like effect.
-(4) No provision of the kind referred to in subsection (2)(b) may be included in an agreement unless it is subject to the terms and conditions set out in section 19C or terms and conditions to the like effect.
+(3) No provision of the kind referred to in subsection (2)﻿(a) may be included in an agreement unless it is subject to the terms and conditions set out in section 19B or terms and conditions to the like effect.
+(4) No provision of the kind referred to in subsection (2)﻿(b) may be included in an agreement unless it is subject to the terms and conditions set out in section 19C or terms and conditions to the like effect.
 (5) Nothing in section 19(2A) or this section prevents an agreement containing other provisions for mutual assistance if those provisions are not of the kind referred to in subsection (2).
 
 ### 19B Terms and conditions for recovery of social security debts
@@ -195,10 +195,10 @@ _Consolidation as at 2014-07-07_
     (i) the requesting institution must immediately advise the requested institution if any such right is exercised; and
     (ii) the requested institution must defer recovery of the debt until notified by the requesting institution that the review or appeal is finally determined:
   (g) the party requesting assistance to recover a social security debt must pay the costs of the other party of recovering the debt, including court costs or other fees payable under the laws of that party.
-(1A) For the purposes of subsection (1)(a)(ii), a right of review or appeal under the law under which a debt was determined has expired—
+(1A) For the purposes of subsection (1)﻿(a)﻿(ii), a right of review or appeal under the law under which a debt was determined has expired—
   (a) if the right has not been exercised within the time limit provided for its exercise; and
   (b) irrespective of whether the court or tribunal or body or person that would have jurisdiction in respect of the review or appeal, or any other person, retains a discretion (however expressed in that law) to allow the right of review or appeal to be exercised after that time.
-(2) Where any institution, court, or tribunal defers the recovery of a social security debt, or orders or arranges for a social security debt to be paid by instalments, the 5-year period referred to in subsection (1)(a)(iv) is extended by the period of deferral or, as the case requires, the period over which the debt is to be paid by instalments.
+(2) Where any institution, court, or tribunal defers the recovery of a social security debt, or orders or arranges for a social security debt to be paid by instalments, the 5-year period referred to in subsection (1)﻿(a)﻿(iv) is extended by the period of deferral or, as the case requires, the period over which the debt is to be paid by instalments.
 
 ### 19C Terms and conditions for exchange of information for social security purposes
 (1) The terms and conditions referred to in section 19A(4) are—
@@ -216,24 +216,24 @@ _Consolidation as at 2014-07-07_
   (e) subject to paragraphs (b) and (c), any information supplied by a party to the other party must be subject to the same privacy protections as any other personal information obtained under the social security laws of the other party:
   (f) no party that receives, under the agreement, personal information about any individual from the competent institution of the other party may supply that information to any other country without the prior written consent of that competent institution or the individual concerned:
   (g) a party must supply the competent institution of the other party with any information required by that institution to answer any questions or to make any report or return required by a person or body authorised to monitor compliance with that party's privacy laws.
-(2) In relation to New Zealand, section 99(4) of the Privacy Act 1993 applies, with any necessary modifications, to an agreement between the competent institutions of the parties under subsection (1)(d).
+(2) In relation to New Zealand, section 99(4) of the Privacy Act 1993 applies, with any necessary modifications, to an agreement between the competent institutions of the parties under subsection (1)﻿(d).
 
 ### 19D Actions by chief executive under mutual assistance provisions
-(1) Where an Order in Council is made under section 19 in respect of an agreement which contains a provision of the kind referred to in section 19A(2)(a),—
+(1) Where an Order in Council is made under section 19 in respect of an agreement that contains a provision of the kind referred to in section 19A(2)﻿(a),—
   (a) any social security debt of the other country may, in accordance with and subject to the provision and to the extent that it has not been recovered in the other country, be recovered by the chief executive under section 86(1D) of the Social Security Act 1964 as if it were a debt due to the Crown; and
   (b) any amount so recovered may, after the deduction of the costs of collection, be paid to the other country without any further appropriation than this paragraph.
-(2) For the purposes of subsection (1)(a), a certificate signed by an authorised officer of the competent institution of the other country that the debt is of a kind described in subparagraphs (i) to (iv) of section 19B(1)(a) is, in the absence of proof to the contrary, sufficient evidence of the existence of the debt.
-(3) Where an Order in Council is made under section 19 in respect of an agreement which contains a provision of the kind referred to in section 19A(2)(b),—
+(2) For the purposes of subsection (1)﻿(a), a certificate signed by an authorised officer of the competent institution of the other country that the debt is of a kind described in subparagraphs (i) to (iv) of section 19B(1)﻿(a) is, in the absence of proof to the contrary, sufficient evidence of the existence of the debt.
+(3) Where an Order in Council is made under section 19 in respect of an agreement that contains a provision of the kind referred to in section 19A(2)﻿(b),—
   (a) the chief executive may supply any information in the department's possession about any person to, or receive information about any person from, the competent institution of the other country in accordance with, and subject to, the provision:
-  (b) the chief executive may from time to time, in accordance with arrangements made in an agreement with the Commissioner of Inland Revenue, supply any information received from the competent institution of the other country to the Commissioner for either or both of the purposes referred to in section 19C(1)(c):
+  (b) the chief executive may from time to time, in accordance with arrangements made in an agreement with the Commissioner of Inland Revenue, supply any information received from the competent institution of the other country to the Commissioner for either or both of the purposes referred to in section 19C(1)﻿(c):
   (c) if any information received from the competent institution of the other country under the provision has produced a discrepancy and the chief executive proposes to take action against an individual as a result, the chief executive must give that individual written notice—
     (i) specifying particulars of the discrepancy and of the adverse action the chief executive proposes to take; and
     (ii) stating that the individual has 5 working days from the receipt of the notice in which to show cause why that action should not be taken:
-  (d) the chief executive may not take any adverse action against an individual to whom a notice has been sent until the expiry of the 5 working days referred to in paragraph (c)(ii):
+  (d) the chief executive may not take any adverse action against an individual to whom a notice has been sent until the expiry of the 5 working days referred to in paragraph (c)﻿(ii):
   (e) sections 100 to 102 and 104 to 106 of the Privacy Act 1993 apply in respect of the provision as if the provision were an authorised information matching programme and the department were the only specified agency involved in that programme.
-(4) Nothing in paragraph (c) or paragraph (d) of subsection (3) prevents the chief executive from taking adverse action against an individual if compliance with the requirements of subsection (3)(c) would prejudice any investigation into the commission of an offence or the possible commission of an offence.
+(4) Nothing in paragraph (c) or paragraph (d) of subsection (3) prevents the chief executive from taking adverse action against an individual if compliance with the requirements of subsection (3)﻿(c) would prejudice any investigation into the commission of an offence or the possible commission of an offence.
 (4A) Subsection (4B) applies if—
-  (a) an agreement contains a provision of the kind referred to in section 19A(2)(b); and
+  (a) an agreement contains a provision of the kind referred to in section 19A(2)﻿(b); and
   (b) the social security purposes concerned are wholly or principally the administration of the agreement itself; and
   (c) the parties to the agreement are likely to frequently exchange information about individuals for the purposes of granting or paying benefits under the agreement, calculating the rates of benefits payable under the agreement, or calculating the rates of other benefits that are affected by the rates of benefits payable under the agreement.
 (4B) If this subsection applies, if any information received from the competent institution of the other country under the provision contains identifying information about any individual (including the unique identifier assigned to that individual by that institution) who has applied for a benefit payable under the agreement in either country and produces a discrepancy with information already held about that person by the chief executive, and the chief executive has not previously given notice under this subsection, the chief executive must give that individual written notice—
@@ -244,12 +244,12 @@ _Consolidation as at 2014-07-07_
   (e) specifying the kinds of actions that the chief executive may take as a result of information about that individual received at any subsequent time from the other country under the agreement; and
   (f) specifying the likely consequences of those actions for any benefit payable to that individual under the agreement or otherwise; and
   (g) stating that the individual has 5 working days from the receipt of the notice to show cause why the chief executive should not take the action referred to in paragraph (a) or actions of the kinds referred to in paragraph (e).
-(4C) Despite subsections (3)(c) to (e) and (6), if subsection (4B) applies, after the expiration of the 5 working days referred to in subsection (4B)(g), the chief executive is not obliged to comply with subsection (3)(c) and (d) in respect of any information that is—
+(4C) Despite subsections (3)﻿(c) to (e) and (6), if subsection (4B) applies, after the expiration of the 5 working days referred to in subsection (4B)﻿(g), the chief executive is not obliged to comply with subsection (3)﻿(c) and (d) in respect of any information that is—
   (a) subsequently received from the other country under the provision; and
-  (b) received for a purpose set out in subsection (4A)(c); and
+  (b) received for a purpose set out in subsection (4A)﻿(c); and
   (c) matched against information held by the chief executive using the unique identifiers assigned to the individual concerned by the competent institutions of both countries.
-(5) Subsections (3) and (4) of section 103 of the Privacy Act 1993 apply to any notice to be given to any individual under subsection (3)(c) or subsection (4B).
-(6) Where the chief executive fails to comply, in relation to any individual, with the provisions of subsection (3)(c), the failure is considered, for the purposes of Part 8 of the Privacy Act 1993, to constitute a failure to comply with the provisions of Part 10 of that Act.
+(5) Subsections (3) and (4) of section 103 of the Privacy Act 1993 apply to any notice to be given to any individual under subsection (3)﻿(c) or subsection (4B).
+(6) Where the chief executive fails to comply, in relation to any individual, with the provisions of subsection (3)﻿(c), the failure is considered, for the purposes of Part 8 of the Privacy Act 1993, to constitute a failure to comply with the provisions of Part 10 of that Act.
 (7) In this section, expressions defined in section 97 of the Privacy Act 1993 have the meanings so defined, with any necessary modifications.
 
 ## Part 2 — Other matters
@@ -293,7 +293,7 @@ _Consolidation as at 2014-07-07_
 (4) Every such committee is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
 (5) There may, if the Minister so directs, be paid to the members of any such committee, out of the Department's Bank Account from money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951; and that Act shall apply accordingly.
 
-### 31 Members of Commission, etc, not deemed to be in service of Crown
+### 31 Members of Commission, etc, not deemed to be in service of the Crown
 No person, by reason only that he or she is a member of a committee appointed under section 30 of this Act, shall be deemed to be employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
 
 ### 32 Members of existing Commission and committees
@@ -346,7 +346,7 @@ If any officer of the Department has, at any time before the commencement of thi
 In this Part and in Schedule 3, unless the context otherwise requires,—
   - **Board** means the New Zealand Artificial Limb Board established on 1 April 1990 by section 43(1)
   - **existing body** means the body known as the Artificial Limb Board (also known as the New Zealand Artificial Limbs Board), being the body that the Rehabilitation Board, purporting to act pursuant to section 13 of the Rehabilitation Act 1941, purported to establish pursuant to an instrument of delegation made pursuant to a resolution of the Rehabilitation Board dated 5 March 1970
-  - **Service** means the Board as renamed by section 43(1A)(a)
+  - **Service** means the Board as renamed by section 43(1A)﻿(a)
   - **undertaking** means all property, contracts, engagements, rights, authorities, and liabilities that purport to be property, contracts, engagements, rights, authorities, and liabilities of the existing body, including any grants, subsidies, donations, and gifts.
 
 ### 43 New Zealand Artificial Limb Service
@@ -368,7 +368,7 @@ The functions of the Service are—
 [Repealed]
 
 ### 46 Membership of Service
-(1) The Service consists of 6 members appointed under section 28(1)(a) of the Crown Entities Act 2004, including—
+(1) The Service consists of 6 members appointed under section 28(1)﻿(a) of the Crown Entities Act 2004, including—
   (a)
   (b) 1 member to be appointed by the Minister to represent the interests of war amputees:
   (c) 1 member to be appointed by the Minister on the nomination of the Amputees Federation of New Zealand:
@@ -400,7 +400,7 @@ The provisions set out in Schedule 3 apply in respect of the Service.
 (1) On the commencement of this Act,—
   (a) the undertaking of the existing body shall vest in the Board; and
   (b) all money that is purportedly payable to the existing body shall become payable to the Board.
-(2) On the commencement of this Act, every person who purports to be an employee of the existing body shall become an employee of the Board but, for the purposes of every enactment, award, determination, contract, and agreement relating to the employment of each such employee, the contract of employment which that employee purports to have with the existing body shall be deemed to have been unbroken and the period of service with the existing body shall be deemed to have been a period of service with the Board.
+(2) On the commencement of this Act, every person who purports to be an employee of the existing body shall become an employee of the Board but, for the purposes of every enactment, award, determination, contract, and agreement relating to the employment of each such employee, the contract of employment that that employee purports to have with the existing body shall be deemed to have been unbroken and the period of service with the existing body shall be deemed to have been a period of service with the Board.
 (3) The terms and conditions of employment of each employee to whom subsection (2) applies shall, until varied, be identical with the terms and conditions that purport to be the terms and conditions of that employee's purported employment with the existing body immediately before the commencement of this Act.
 (4) No such employee shall be entitled to receive any payment or other benefit by reason only of that employee ceasing by virtue of this Act to be an employee of the existing body.
 (5) Any person who, immediately before the commencement of this Act, purported to hold office as a member of the existing body shall, on the commencement of this Act, be deemed to have been appointed under section 46 as a member of the Board for a term of 5 years, and the provisions of this Act shall apply accordingly.
