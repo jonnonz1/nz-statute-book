@@ -1,5 +1,5 @@
 # War Pensions (Indexation—Budget Measures) Amendment Act 2012
-_Consolidation as at 2012-10-23_
+_Consolidation as at 2014-12-07_
 
 ### 1 Title
 This Act is the War Pensions (Indexation—Budget Measures) Amendment Act 2012.
