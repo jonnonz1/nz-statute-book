@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2014-04-14_
+_Consolidation as at 2014-12-07_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Criminal Procedure Act 2011 in District Courts
 
@@ -889,6 +889,7 @@ In sections 84G to 84M, unless the context otherwise requires,—
     (ac) a payment of commission:
     (ad) a payment in consideration of work performed under a contract for services:
     (b) all payments of weekly compensation made under the Injury Prevention, Rehabilitation, and Compensation Act 2001 by the Accident Compensation Corporation:
+    (ba) weekly income compensation under subpart 4 of Part 3 of the Veterans' Support Act 2014 or weekly compensation under subpart 5 of Part 4 of that Act:
     (c) a benefit within the meaning of the Social Security Act 1964.
 
 ### 84G Attachment orders
