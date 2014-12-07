@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2014-12-06_
+_Consolidation as at 2014-12-07_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
