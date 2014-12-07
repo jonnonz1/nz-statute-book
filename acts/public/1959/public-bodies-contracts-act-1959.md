@@ -1,5 +1,5 @@
 # Public Bodies Contracts Act 1959
-_Consolidation as at 2014-04-30_
+_Consolidation as at 2014-12-07_
 
 > An Act to make provision for the making of contracts by local authorities and other public bodies
 
@@ -106,7 +106,6 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 | University Grants Committee | Universities Act 1961 (1961 No 54) |
 | Veterinary Council of New Zealand | Veterinarians Act 2005 (2005 No 126) |
 | Wairarapa Cadet Training Farm Trust Board | Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138) |
-| War Pensions Advisory Board | War Pensions Amendment Act 1988 (1988 No 149) |
 | Winston Churchill Memorial Trust Board | Winston Churchill Memorial Trust Act 1965 (1965 No 39) |
 
 ## Schedule 2 — Enactments amended
