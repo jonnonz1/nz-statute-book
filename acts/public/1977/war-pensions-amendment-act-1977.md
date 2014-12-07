@@ -1,5 +1,5 @@
 # War Pensions Amendment Act 1977
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2014-12-07_
 
 > An Act to amend the War Pensions Act 1954
 
