@@ -1,5 +1,5 @@
 # War Pensions Amendment Act 2009
-_Consolidation as at 2010-01-05_
+_Consolidation as at 2014-12-07_
 
 ### 1 Title
 This Act is the War Pensions Amendment Act 2009.
