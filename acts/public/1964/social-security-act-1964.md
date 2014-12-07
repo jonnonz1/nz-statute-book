@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2014-12-07_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -49,7 +49,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (a) means a monetary benefit payable under any of Parts 1A to 1P or Part 2 (including, without limitation, any such benefit payable under this Act by virtue of an agreement or convention given effect in relation to New Zealand by an order under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990); and
     (aa)
     (b) includes—
-      (i) New Zealand superannuation payable under the New Zealand Superannuation and Retirement Income Act 2001 and veterans' pensions payable under Part 6 of the War Pensions Act 1954 (including, without limitation, any New Zealand superannuation, or veteran's pension, payable under that Act by virtue of an agreement or convention given effect in relation to New Zealand by an order under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990):
+      (i) New Zealand superannuation payable under the New Zealand Superannuation and Retirement Income Act 2001 and veterans' pensions payable under Part 6 of the Veterans' Support Act 2014 (including, without limitation, any New Zealand superannuation, or veteran's pension, payable under that Act by virtue of an agreement or convention given effect in relation to New Zealand by an order under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990):
       (ia)
       (ii)
       (iia) an incentive payment, a youth payment, and a young parent payment:
@@ -153,9 +153,9 @@ Every person exercising or performing a function, duty or power under this Act m
       (v) any payment in relation to termination of employment made by a company pursuant to its constitution to any of its directors; and
     (e) includes, as calculated before the deduction (where applicable) of income tax, the value of any goods, services, transport, or accommodation supplied on a regular basis to the person by any other person; but—
     (f) does not include—
-      (i) any benefit, grant, allowance, or concession received under this Act or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, including the value of any benefit under Part 2 of this Act:
-      (ii) any pension or allowance under the War Pensions Act 1954 received by any person by reason of his or her own disablement:
-      (iii) any pension received under Part 2 or Part 4 or Part 5 of the War Pensions Act 1954 by the surviving spouse or partner of a deceased member of the New Zealand or any other Commonwealth forces or of the Emergency Reserve Corps or of the New Zealand mercantile marine in respect of the death of that member:
+      (i) any benefit, grant, allowance, or concession received under this Act or Part 6 of the Veterans' Support Act 2014 or the New Zealand Superannuation and Retirement Income Act 2001, including the value of any benefit under Part 2 of this Act:
+      (ii) any pension or allowance under the Veterans' Support Act 2014 received by any person by reason of his or her own disablement:
+      (iii) any pension received under the Veterans' Support Act 2014 by the surviving spouse or partner of a deceased member of the New Zealand or any other Commonwealth forces or of the Emergency Reserve Corps or of the New Zealand mercantile marine in respect of the death of that member:
       (iv) any pension or other periodical allowance or any part thereof received by any person from the Government of any Commonwealth country (other than New Zealand) which the chief executive determines is analogous to a pension or allowance specified in subparagraph (ii) or subparagraph (iii):
       (iva) the value of any assistance of a kind approved by the chief executive provided to a person with a sickness, injury, or disability to obtain or remain in employment:
       (v) any money received by way of funeral benefit from any friendly society:
@@ -204,9 +204,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (c) an emergency benefit:
     (d)
     (e) a supported living payment:
-    (f) New Zealand superannuation payable at the appropriate rate in clause 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension payable—
-      (i) at the appropriate rate in clause 1 of Schedule 11 of the War Pensions Act 1954 if the pension is subject to abatement under section 74D of that Act; or
-      (ii) at the appropriate rate in clause 2 of Schedule 11 of the War Pensions Act 1954:
+    (f) New Zealand superannuation payable at the appropriate rate in clause 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension payable under Part 6 of the Veterans' Support Act 2014 if the pension is subject to abatement under section 171 of that Act:
     (g) an orphan's benefit:
     (h)
     (i) an unsupported child's benefit:
@@ -297,7 +295,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **suitable employment** in relation to a person, means employment that the chief executive is satisfied is suitable for the person to undertake for a number of hours a week determined by the chief executive having regard to the employment required to satisfy the work test for that person
   - **temporary employment** means full employment for a period of less than 26 weeks
   - **union** has the same meaning as in section 5 of the Employment Relations Act 2000
-  - **veteran's pension** means a veteran's pension payable under Part 6 of the War Pensions Act 1954
+  - **veteran's pension** means a veteran's pension payable under Part 6 of the Veterans' Support Act 2014
   - **work test** , in relation to a person, means the person's obligations under section 102A(1); and has a corresponding meaning
   - **work-test couple rate** —
     (a) means, in relation to jobseeker support, a rate in Schedule 9 that is payable to a person who is married or in a civil union or in a de facto relationship, other than a rate payable if the person's spouse or partner is entitled to a benefit in his or her own right:
@@ -348,7 +346,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **youth support payment** means a young parent payment or youth payment.
 (2) For the purposes of this Act, a person shall be deemed not to have attained a given age until the commencement of the relevant anniversary of the day of his birth.
 (2A)
-(3) Except for the purposes of a means assessment under Part 4, and notwithstanding the definition of the term income in subsection (1), where it is necessary to determine, for the purposes of this Act or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the income of any person who—50% of the amount received by that person under that pension or under that annuity shall not be included in the income of that person.
+(3) Except for the purposes of a means assessment under Part 4, and notwithstanding the definition of the term income in subsection (1), where it is necessary to determine, for the purposes of this Act or Part 6 of the Veterans' Support Act 2014 or the New Zealand Superannuation and Retirement Income Act 2001, the income of any person who—50% of the amount received by that person under that pension or under that annuity shall not be included in the income of that person.
   (a) meets the residential qualification for New Zealand superannuation set out in the New Zealand Superannuation and Retirement Income Act 2001; and
   (b) is aged 60 years or more and whose spouse or partner (if any), being a spouse or partner whose age is less than that of the person whose income is being determined, is aged 60 years or more; and
   (c) is in receipt of a pension under a retirement scheme (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) or of payments under an annuity paid in respect of a policy of life insurance—
@@ -387,7 +385,7 @@ Every person exercising or performing a function, duty or power under this Act m
 **Ministerial directions**
 
 ### 5 Chief executive to comply with directions
-(1) In the exercise of powers, functions, and discretions conferred on the chief executive by this Act or the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the chief executive must comply with any general or special directions given to the chief executive in writing by the Minister.
+(1) In the exercise of powers, functions, and discretions conferred on the chief executive by this Act or the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or the New Zealand Superannuation and Retirement Income Act 2001, the chief executive must comply with any general or special directions given to the chief executive in writing by the Minister.
 (2) As soon as practicable after giving a direction under subsection (1), the Minister must publish in the Gazette and present to the House of Representatives a copy of the direction.
 (3) A direction given under this section for the purposes of all or any of sections 60RAB(1)(b), 125AA(5), and 132AD(4)(c) (other than a direction of that kind that relates exclusively to an individual)—
   (a) is not a legislative instrument for the purposes of the Legislation Act 2012; but
@@ -469,7 +467,7 @@ Every person exercising or performing a function, duty or power under this Act m
   (k) a decision under section 116C(2)(a) to the effect that a beneficiary does not have a good and sufficient reason, on the ground that the beneficiary is addicted to, or dependent on, controlled drugs, for either or both:
     (i) not complying with a drug testing obligation under section 102B(1):
     (ii) failing to apply for suitable employment that requires candidates to undertake drug tests; or
-  (l) a decision to decline a claim for a veteran's pension under section 70 of the War Pensions Act 1954, or to cancel any such pension, in either case on the ground of the applicant's or beneficiary's mental or physical infirmity.
+  (l) a decision to decline a claim for a veteran's pension under section 164 of the Veterans' Support Act 2014, or to cancel any such pension, in either case on the ground of the applicant's or beneficiary's mental or physical infirmity.
 (2) An appeal under this section must be made within—
   (a) 3 months after the decision has been communicated to that person; or
   (b) any further period the Board may (if it considers there is good reason for the delay) allow on application made before or after the end of that 3-month period.
@@ -490,7 +488,7 @@ Every person exercising or performing a function, duty or power under this Act m
   (b) to produce to the department or to a specified employee of the department any document in the custody of or under the control of that person, and to allow copies of or extracts from any such document to be made or taken; or
   (c) to furnish to the department or to a specified employee of the department any copies or extracts from any document or record in the custody or under the control of that person—
 (2) The purposes specified in subsection (1) are—
-  (a) determining whether a person who is receiving, or has received, or made a claim for, a benefit or payment under this Act or under Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 or under a welfare programme approved by the Minister under section 124(1)(d) of this Act is or was entitled to receive that benefit or that payment; or
+  (a) determining whether a person who is receiving, or has received, or made a claim for, a benefit or payment under this Act or under Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001 or under a welfare programme approved by the Minister under section 124(1)(d) of this Act is or was entitled to receive that benefit or that payment; or
   (b) determining the rate of benefit or payment that is or was applicable to that person; or
   (c) determining whether a person who has been issued with, or has made a claim for, an entitlement card under regulations in force under section 132A, is or was entitled to be issued with that card; or
   (d) conducting or reviewing a means assessment under Part 4 (relating to payment for contracted care services as defined in section 136), or determining whether any such means assessment is correct; or
@@ -499,7 +497,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (i) this Act; or
     (ii) sections 27I to 27ZI (except section 27X) of, and Schedule 20 of, this Act (as preserved by section 256(1) of the Child Support Act 1991); or
     (iii) section 61CA of this Act; or
-  (f) discharging the chief executive's functions under this Act or under any regulations in force under this Act or under the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 or under any welfare programme approved by the Minister under section 124(1)(d) of this Act.
+  (f) discharging the chief executive's functions under this Act or under any regulations in force under this Act or under the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001 or under any welfare programme approved by the Minister under section 124(1)(d) of this Act.
 (3) A person who—commits an offence and is liable on conviction to a fine not exceeding $2,000.
   (a) refuses or fails without reasonable excuse to comply with a notice under this section to the extent that the person is capable of complying with it; or
   (b) in purported compliance with such a notice knowingly or recklessly furnishes information which is false or misleading in any material particular, or attempts to do so,—
@@ -704,7 +702,7 @@ The chief executive of the Ministry of Justice shall designate an officer of the
 The Authority shall have a seal, which shall be judicially noticed by all courts for all purposes.
 
 ### 12I Functions of Appeal Authority
-(1) The functions of the Appeal Authority shall be to sit as a judicial authority for the determination of appeals in accordance with section 12J of this Act and section 16A of the War Pensions Act 1954.
+(1) The functions of the Appeal Authority shall be to sit as a judicial authority for the determination of appeals in accordance with section 12J of this Act.
 (2) In hearing and determining any appeal, the Appeal Authority shall have all the powers, duties, functions, and discretions that the chief executive had in respect of the same matter.
 
 **Appeals to Appeal Authority**
@@ -714,7 +712,8 @@ Decisions or determinations under specified social assistance enactments
 (1) Any applicant or beneficiary affected may appeal to the Appeal Authority against any decision or determination of the chief executive under—
   (a) any of the provisions of Parts 1A to 1P, Part 2, Part 4, or Part 5; or
   (b) a welfare programme approved by the Minister under section 124(1)(d); or
-  (c) Part 6 of the War Pensions Act 1954; or
+  (c)
+  (cb) Part 6 of the Veterans' Support Act 2014, subject to section 175(2) of that Act; or
   (d) Part 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
   (e) the Family Benefits (Home Ownership) Act 1964; or
   (f) any regulations in force under section 132A or 155 of this Act.
@@ -1160,7 +1159,7 @@ The rate of a child disability allowance granted under section 39A shall be the 
 ### 39D Child disability allowance not payable with other benefit or pension
 A child disability allowance shall not be payable under this Act in addition to—
   (a) any benefit which is granted to the child under this Act, apart from an unsupported child's benefit or an orphan's benefit or a disability allowance:
-  (b) any pension or allowance which is granted to the child under the War Pensions Act 1954, apart from a child's war pension or a war orphan's pension:
+  (b) any pension or allowance which is granted to the child under the Veterans' Support Act 2014, apart from a children's pension:
   (c) weekly compensation within the meaning of section 6 of the Accident Compensation Act 2001 that is payable to the child.
 
 ### 39E Person to whom child disability allowance payable
@@ -1807,9 +1806,9 @@ While a domestic epidemic management notice is in force, and for any period afte
 
 ### 61DA Restrictions on payment of funeral grants
 Funeral grants shall not be payable under section 61DB or section 61DC or section 61DD if—
-  (a) clause 64 of Schedule 1 of the Accident Compensation Act 2001 applies in respect of the deceased; or
-  (b) a payment under section 74A of the War Pensions Act 1954 is payable in respect of the deceased; or
-  (c) a payment under regulation 45 of the War Pensions Regulations 1956, or an analogous payment, is payable in respect of the deceased; or
+  (a) clause 64 of Schedule 1 of the Accident Compensation Act 2001 or subpart 8 of Part 5 of the Veterans' Support Act 2014 applies in respect of the deceased; or
+  (b) a payment under section 174 of the Veterans' Support Act 2014 is payable in respect of the deceased; or
+  (c) a payment under Part 5 of the Veterans' Support Act 2014 is payable in respect of the deceased; or
   (d) the deceased person, including a deceased child, was not ordinarily resident in New Zealand on the date of death.
 
 ### 61DB Payment of funeral grants where there is a surviving spouse or partner or children
@@ -2055,9 +2054,9 @@ For the purposes of determining any application for any benefit, or of reviewing
 Where a child aged 18 years or over is not financially independent and is attending school or a tertiary educational establishment, the chief executive may, in his or her discretion, as if the child had not attained the age of 18 years, grant or continue to pay an orphan's benefit or an unsupported child's benefit in respect of the child, or pay any other benefit at the appropriate rate that includes that child as a dependent child of the beneficiary, for such period or periods as the chief executive determines, expiring not later than the pay day immediately after 31 December in the year in which the child attains the age of 18 years.
 
 ### 64 Mode of ascertaining income for benefit purposes
-(1) Where in relation to the rate of any benefit reference is made in this Act or in any schedule of this Act or in Part 6 of the War Pensions Act 1954 or in the New Zealand Superannuation and Retirement Income Act 2001 to the annual income of the beneficiary or of any other person, that reference shall, unless the context otherwise requires, be deemed to be a reference to the estimated income of the person concerned for the period of 52 weeks commencing on the date on which the benefit, if granted or renewed, as the case may be, will commence.
+(1) Where in relation to the rate of any benefit reference is made in this Act or in any schedule of this Act or in Part 6 of the Veterans' Support Act 2014 or in the New Zealand Superannuation and Retirement Income Act 2001 to the annual income of the beneficiary or of any other person, that reference shall, unless the context otherwise requires, be deemed to be a reference to the estimated income of the person concerned for the period of 52 weeks commencing on the date on which the benefit, if granted or renewed, as the case may be, will commence.
 (2) Except as provided in subsection (3), the estimated annual income for the period of 52 weeks specified in subsection (1) shall be deemed to be an amount equal to the income received by the person concerned for a period of 52 weeks ending on such day preceding the date on which the benefit, if granted or renewed, will commence as the chief executive determines.
-(2A) Where, in relation to the rate of any benefit or additional benefit, reference is made in this Act or in any schedule of this Act or in Part 6 of the War Pensions Act 1954 or in the New Zealand Superannuation and Retirement Income Act 2001 to the weekly income of a person, such income shall, unless the context otherwise requires, be determined by dividing the person's total income over the appropriate number of weeks specified in regulations made under this Act (not exceeding 52 weeks) by the number of weeks in that period.
+(2A) Where, in relation to the rate of any benefit or additional benefit, reference is made in this Act or in any schedule of this Act or in Part 6 of the Veterans' Support Act 2014 or in the New Zealand Superannuation and Retirement Income Act 2001 to the weekly income of a person, such income shall, unless the context otherwise requires, be determined by dividing the person's total income over the appropriate number of weeks specified in regulations made under this Act (not exceeding 52 weeks) by the number of weeks in that period.
 (2B) For the purposes of determining a person's weekly income under subsection (2A), the chief executive may determine the period or periods to which any income relates, having regard to—
   (a) the extent to which it was earned in that period or those periods; or
   (b) the extent to which any other entitlement to it arose in, or in respect of, that period or those periods; or
@@ -2143,7 +2142,7 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
     (ii) the person's accommodation costs (as defined in section 61E) or care (other than care in his or her own home) is wholly or partly funded under the New Zealand Public Health and Disability Act 2000.
 (2C) For the avoidance of doubt, nothing in paragraph (b) of subsection (2B) prevents the payment of a disability allowance to a person to whom that paragraph applies for expenses that are not costs of residential care services supplied to that person.
 (3) Before a disability allowance is granted under this section, the chief executive may require the applicant, or the spouse or partner or child of the applicant, as the case may require, to be examined by a medical practitioner nominated by the chief executive for the purpose.
-(4) Despite anything to the contrary in this section, the chief executive may, in the chief executive's discretion, refuse to grant a disability allowance or may terminate a disability allowance already granted or may grant a disability allowance at a reduced rate, if the applicant is in receipt of a war disablement pension under the War Pensions Act 1954, or an entitlement under the Accident Compensation Act 2001, or an overseas pension or periodical allowance which the chief executive deems to be analogous to such war disablement pension or entitlement, in respect of a disability which gives rise to an application for a disability allowance under this section.
+(4) Despite anything to the contrary in this section, the chief executive may, in the chief executive's discretion, refuse to grant a disability allowance or may terminate a disability allowance already granted or may grant a disability allowance at a reduced rate, if the applicant is in receipt of a disablement pension under Part 3, or an entitlement under Part 4, of the Veterans' Support Act 2014, or an entitlement under the Accident Compensation Act 2001, or an overseas pension or periodical allowance which the chief executive deems to be analogous to such war disablement pension or entitlement, in respect of a disability which gives rise to an application for a disability allowance under this section.
 (5) Notwithstanding anything in this section but subject to section 68A, if—the chief executive shall grant a special disability allowance at the rate specified in Schedule 19 to the recipient for the purpose of defraying expenses arising from the hospitalisation of the spouse or partner.
   (a) a person who is married or in a civil union or in a de facto relationship (the recipient) is in receipt of New Zealand superannuation or a veteran's pension, or of a supported living payment on the ground of sickness, injury, disability, or total blindness, or jobseeker support, or a related emergency benefit; and
   (b) the recipient's spouse or partner is either—
@@ -2204,7 +2203,7 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
   - **income** has the same meaning as in section 3(1); but includes—but does not include any amount specified in regulations made under section 132D
     (a) any benefit or allowance received under or pursuant to—
       (i) this Act or the New Zealand Superannuation and Retirement Income Act 2001; or
-      (ii) the War Pensions Act 1954 (other than a war disability pension); and
+      (ii) the Veterans' Support Act 2014 (other than a disablement pension under Part 3 of that Act); and
     (b) the gross amount of any payment received in consideration of providing board and lodgings to any person in excess of 2—
   - **medical services** means services supplied to a person by a health practitioner relating to the treatment or relief of the person's disability condition or the rehabilitation of the person from that condition.
 (2) This section applies to any person who has been assessed by a district health board as requiring home-based disability support services and who—
@@ -2235,17 +2234,17 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
 **Overseas pensions**
 
 ### 69G Reasonable steps to be taken to obtain overseas pension
-(1) Every applicant for a benefit under this Act or under Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 shall provide to the chief executive information establishing, to the satisfaction of the chief executive,—
+(1) Every applicant for a benefit under this Act or under Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001 shall provide to the chief executive information establishing, to the satisfaction of the chief executive,—
   (a) that the applicant and the spouse or partner of the applicant have taken all reasonable steps to obtain any overseas pension to which either or both of them may be entitled or that may be granted to either or both of them; and
   (b) that the applicant has taken all reasonable steps to obtain any overseas pension to which any dependant of the applicant may be entitled or that may be granted to any dependant of the applicant.
 (2) The chief executive may give to—a written notice requiring that person to take all reasonable steps, within a period specified by the chief executive, to obtain any overseas pension to which that person may be entitled or that may be granted to that person.
-  (a) an applicant for a benefit under this Act or under Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001; or
-  (b) a beneficiary under this Act or under Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001; or
-  (c) the spouse or partner of an applicant for a benefit under this Act or under Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001; or
-  (d) the spouse or partner of a beneficiary under this Act or under Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001—
+  (a) an applicant for a benefit under this Act or under Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001; or
+  (b) a beneficiary under this Act or under Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001; or
+  (c) the spouse or partner of an applicant for a benefit under this Act or under Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001; or
+  (d) the spouse or partner of a beneficiary under this Act or under Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001—
 (3) The chief executive may give to—a written notice requiring that person to take all reasonable steps, within a period specified by the chief executive, to obtain any overseas pension to which any dependant of that person may be entitled or that may be granted to any dependant of that person.
-  (a) an applicant for a benefit under this Act or under Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001; or
-  (b) a beneficiary under this Act or under Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001—
+  (a) an applicant for a benefit under this Act or under Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001; or
+  (b) a beneficiary under this Act or under Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001—
 (4) Where a person does not comply with a notice given by the chief executive under subsection (2) or subsection (3), the chief executive may—
   (a) refuse to grant the benefit applied for by the applicant:
   (b) suspend, from such date as the chief executive determines, the benefit granted to the beneficiary until either—whichever occurs first.
@@ -2254,12 +2253,12 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
 (5) Where a benefit has been suspended under subsection (4), the chief executive may, not less than 40 working days after the suspension, terminate the benefit from such date as the chief executive determines.
 
 ### 69H Information on rate of overseas pension to be provided
-(1) Every applicant for a benefit under this Act or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 shall provide to the chief executive information establishing, to the satisfaction of the chief executive, the rate of any overseas pension granted to any of the following persons:
+(1) Every applicant for a benefit under this Act or Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001 shall provide to the chief executive information establishing, to the satisfaction of the chief executive, the rate of any overseas pension granted to any of the following persons:
   (a) the applicant:
   (b) the applicant's spouse or partner:
   (c) any dependant of the applicant.
 (2) Where an applicant does not comply with subsection (1) within 10 working days after applying for the benefit, the chief executive may refuse to grant the benefit applied for.
-(3) Every beneficiary under this Act or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 shall provide to the chief executive, as requested from time to time in a written notice given to that person by the chief executive, information establishing, to the satisfaction of the chief executive, the rate of any overseas pension granted to any of the following persons:
+(3) Every beneficiary under this Act or Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001 shall provide to the chief executive, as requested from time to time in a written notice given to that person by the chief executive, information establishing, to the satisfaction of the chief executive, the rate of any overseas pension granted to any of the following persons:
   (a) the beneficiary:
   (b) the beneficiary's spouse or partner:
   (c) any dependant of the beneficiary.
@@ -2273,22 +2272,22 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
 It is the duty of the chief executive to take all reasonable steps to assist any person to comply with any obligation imposed on that person by or under section 69G(1) to (3) or section 69H(1) or (3).
 
 ### 70 Rate of benefits if overseas pension payable
-(1) For the purposes of this Act, if—the rate of the benefit or benefits that would otherwise be payable under this Act or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 shall, subject to subsection (3), be reduced by the amount of such overseas benefit, pension, or periodical allowance, or part thereof, as the case may be, being an amount determined by the chief executive in accordance with regulations made under this Act:
-  (a) any person qualified to receive a benefit under this Act or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 is entitled to receive or receives, in respect of that person or of that person's spouse or partner or of that person's dependants, or if that person's spouse or partner or any of that person's dependants is entitled to receive or receives, a benefit, pension, or periodical allowance granted elsewhere than in New Zealand; and
-  (b) the benefit, pension, or periodical allowance, or any part of it, is in the nature of a payment which, in the opinion of the chief executive, forms part of a programme providing benefits, pensions, or periodical allowances for any of the contingencies for which benefits, pensions, or allowances may be paid under this Act or under the New Zealand Superannuation and Retirement Income Act 2001 or under the War Pensions Act 1954 which is administered by or on behalf of the Government of the country from which the benefit, pension, or periodical allowance is received—
+(1) For the purposes of this Act, if—the rate of the benefit or benefits that would otherwise be payable under this Act or Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001 shall, subject to subsection (3), be reduced by the amount of such overseas benefit, pension, or periodical allowance, or part thereof, as the case may be, being an amount determined by the chief executive in accordance with regulations made under this Act:
+  (a) any person qualified to receive a benefit under this Act or Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001 is entitled to receive or receives, in respect of that person or of that person's spouse or partner or of that person's dependants, or if that person's spouse or partner or any of that person's dependants is entitled to receive or receives, a benefit, pension, or periodical allowance granted elsewhere than in New Zealand; and
+  (b) the benefit, pension, or periodical allowance, or any part of it, is in the nature of a payment which, in the opinion of the chief executive, forms part of a programme providing benefits, pensions, or periodical allowances for any of the contingencies for which benefits, pensions, or allowances may be paid under this Act or under the New Zealand Superannuation and Retirement Income Act 2001 or under the Veterans' Support Act 2014 which is administered by or on behalf of the Government of the country from which the benefit, pension, or periodical allowance is received—
   provided that if the chief executive determines that the overseas benefit, pension, or periodical allowance, or any part of it, is in the nature of, and is paid for similar purposes as,—such overseas benefit, pension, or periodical allowance, or part of it, as the case may be, shall be treated as if it were in fact such compensation, war pension or allowance, or disability allowance.
     (a) compensation for injury or death for which payment could be made under the Accident Compensation Act 2001 if the injury or death had occurred in New Zealand after the commencement of that Act; or
-    (b) a war pension or allowance granted under the War Pensions Act 1954 of a type which would not affect any recipient's entitlement to a benefit in accordance with section 72 unless the pension or allowance is a pension or payment granted under Part 6 of the War Pensions Act 1954; or
+    (b) a war pension or allowance granted under the Veterans' Support Act 2014 of a type which would not affect any recipient's entitlement to a benefit in accordance with section 72 unless the pension or allowance is a pension or payment granted under Part 6 of the Veterans’ Support Act 2014; or
     (c) a disability allowance granted under this Act—
 (1A) Subsection (1) does not apply to New Zealand superannuation payable overseas under section 26 of the New Zealand Superannuation and Retirement Income Act 2001.
-(1B) Subsection (1) does not apply to a veteran's pension payable overseas under section 74J of the War Pensions Act 1954.
+(1B) Subsection (1) does not apply to a veteran's pension payable overseas under section 182 of the Veterans' Support Act 2014.
 (2) Nothing in subsection (1) shall preclude the chief executive from deciding the date on which the chief executive's determination under paragraph (b) of, or the proviso to, the said subsection (1) shall take effect, which date may be a date before, on, or after the date of such determination.
 (3) In any case where paragraph (a) and paragraph (b) of subsection (1) apply and the proviso to subsection (1) does not apply, the chief executive may—
-  (a) make an arrangement with an overseas pensioner, in accordance with any regulations made under section 132C, to pay to the overseas pensioner the rate of the benefit or benefits that is payable under this Act or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 and to receive from the overseas pensioner an amount equivalent to the amount of the overseas pension that the overseas pensioner receives, if—
+  (a) make an arrangement with an overseas pensioner, in accordance with any regulations made under section 132C, to pay to the overseas pensioner the rate of the benefit or benefits that is payable under this Act or Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001 and to receive from the overseas pensioner an amount equivalent to the amount of the overseas pension that the overseas pensioner receives, if—
     (i) the overseas pensioner agrees to make such an arrangement; and
     (ii) the overseas pensioner has not previously made such an arrangement and voluntarily terminated it; and
     (iii) the chief executive has not previously ceased to make payments under paragraph (b) because of the overseas pensioner's failure to comply with such an arrangement; and
-  (b) pay to the overseas pensioner, in accordance with an arrangement made under paragraph (a), the rate of the benefit or benefits that is payable under this Act or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001, if the chief executive receives from the overseas pensioner, in accordance with the arrangement, an amount equivalent to the amount of the overseas pension that the overseas pensioner receives.
+  (b) pay to the overseas pensioner, in accordance with an arrangement made under paragraph (a), the rate of the benefit or benefits that is payable under this Act or Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001, if the chief executive receives from the overseas pensioner, in accordance with the arrangement, an amount equivalent to the amount of the overseas pension that the overseas pensioner receives.
 (3A) The chief executive may from time to time, on behalf of the Crown, enter into contracts with 1 or more registered banks for the purpose of implementing arrangements under subsection (3)(a).
 (3B) No money in a bank account maintained, in accordance with regulations made under section 132C, to implement an arrangement under subsection (3)(a) can—
   (a) be attached or taken in execution under any order or process of any court:
@@ -2296,7 +2295,7 @@ It is the duty of the chief executive to take all reasonable steps to assist any
   (c) be claimed or deducted under any notice or other instrument issued under any enactment (other than under regulations made under section 132C).
 (3C) If the benefit referred to in an arrangement made under subsection (3)(a) is New Zealand superannuation, the chief executive must pay any amount received from the overseas pensioner under the arrangement into the New Zealand Superannuation Fund established under the New Zealand Superannuation and Retirement Income Act 2001, in accordance with arrangements made from time to time by the chief executive with the Guardians of New Zealand Superannuation.
 (4) For the purposes of this Act, a payment under subsection (3)(b) shall, in respect of the period to which the payment relates, be deemed to be payment of—
-  (a) the benefit or benefits that are payable to that overseas pensioner in that period under this Act or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001, at the rate at which that benefit or those benefits are so payable but reduced in accordance with subsection (1); and
+  (a) the benefit or benefits that are payable to that overseas pensioner in that period under this Act or Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001, at the rate at which that benefit or those benefits are so payable but reduced in accordance with subsection (1); and
   (b) the amount of the overseas pension that that overseas pensioner is entitled to receive or has received in that period.
 (5) Subsections (3) and (4) shall come into force on a date to be appointed by the Governor-General by Order in Council.
 
@@ -2353,13 +2352,13 @@ It is the duty of the chief executive to take all reasonable steps to assist any
 (4) If the chief executive is unable to ascertain which of the parents has the greater responsibility for the child or which of them was the principal caregiver before the parents began living apart, the parents shall agree between themselves as to which of them shall be entitled to have that child taken into account by the chief executive in assessing entitlement to a benefit and the rate of benefit payable; and until the parents reach agreement the child shall not be taken into account in assessing the entitlement to a benefit of, or the rate of benefit payable to, either parent.
 
 ### 71 Special provisions where compensation or damages recoverable by applicant
-(1) Notwithstanding anything to the contrary in this Act or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, where any person who has recovered or is entitled to recover compensation or damages from any other person in respect of any disability caused by accident or disease or in respect of wrongful or unjustifiable dismissal claims any benefit, the following provisions shall apply:
+(1) Notwithstanding anything to the contrary in this Act or Part 6 of the Veterans' Support Act 2014 or the New Zealand Superannuation and Retirement Income Act 2001, where any person who has recovered or is entitled to recover compensation or damages from any other person in respect of any disability caused by accident or disease or in respect of wrongful or unjustifiable dismissal claims any benefit, the following provisions shall apply:
   (a) where any compensation or damages have been recovered, the chief executive may refuse to grant a benefit or may grant a reduced benefit for the period of disability or loss of expectation of employment in respect of which the compensation or damages have been paid or are deemed by the chief executive to have been paid; and
   (b) where any applicant for a benefit has a claim against any person to recover any compensation or damages, the chief executive may grant a benefit subject to the condition that the whole or such part of the benefit as the chief executive may require shall be repaid to the chief executive out of any compensation or damages that may thereafter be recovered, and in any such case the amount of the benefit or that part thereof, as the case may be, shall constitute a charge on the compensation or damages and is a debt due to the Crown under section 85A(b) and (e), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the beneficiary or from any person liable for the payment of the compensation or damages.
 (2) For the purposes of this section the expression compensation or damages includes any ex gratia payment made in settlement of or on account of a claim for compensation or damages; but does not include any impairment lump sum received under Schedule 1 of the Accident Compensation Act 2001.
 
 ### 71A Deduction of weekly compensation from income-tested benefits
-(1) Subject to subsection (4), this section applies to a person who is qualified to receive an income-tested benefit (other than New Zealand superannuation or a veteran's pension unless the veteran's pension would be subject to abatement under section 74D of the War Pensions Act 1954) where—
+(1) Subject to subsection (4), this section applies to a person who is qualified to receive an income-tested benefit (other than New Zealand superannuation or a veteran's pension unless the veteran's pension would be subject to abatement under section 171 of the Veterans' Support Act 2014) where—
   (a) the person is entitled to receive or receives weekly compensation in respect of the person or his or her spouse or partner or a dependent child; or
   (b) the person's spouse or partner receives weekly compensation.
 (2) Where this section applies, the rate of the benefit payable to the person must be reduced by the amount of weekly compensation payable to the person.
@@ -2369,16 +2368,15 @@ It is the duty of the chief executive to take all reasonable steps to assist any
   (b) was receiving compensation for loss of earnings or loss of potential earning capacity under the Accident Rehabilitation Compensation and Insurance Act 1992 immediately before that date; and
   (c) section 71A(2) (as it was before it was repealed and substituted by the Accident Insurance Act 1998) required the compensation payments to be brought to charge as income in the assessment of the person's benefit.
 
-### 72 Limitation where applicant receiving another benefit or war pension
+### 72 Limitation where applicant receiving another benefit or pension
 Notwithstanding anything to the contrary in this Act,—
   (a) no person is entitled to receive more than 1 benefit in his or her own right, except as provided in sections 39D, 61EA, 61G, 61GA, and 69C, and section 23 of the Social Security (Working for Families) Amendment Act 2004:
-  (b) no person who is granted a pension or allowance under the War Pensions Act 1954 or in respect of whom such a pension or allowance is payable, other than—shall be granted any benefit:
+  (b) no person who is granted a pension or allowance under the Veterans' Support Act 2014 or in respect of whom such a pension or allowance is payable, other than—shall be granted any benefit:
     (i) a pension or allowance granted to that person by reason of his own disablement; or
     (ia) a pension or payment granted under Part 6 of that Act; or
-    (ii) a pension or a mother's allowance granted to that person as the widow of a deceased member of the New Zealand or any other Commonwealth forces or of the Emergency Reserve Corps or of the New Zealand mercantile marine; or
+    (ii) a surviving spouse or partner pension under Part 3 of the Veterans' Support Act 2014; or
     (iii) an allowance in respect of services rendered as an attendant on a disabled member of the New Zealand or any other Commonwealth forces or of the Emergency Reserve Corps or of the New Zealand mercantile marine,—
-    provided also that, if a mother's allowance is payable to a widow under the War Pensions Act 1954, the rate of benefit shall not exceed the benefit that could be paid to that widow if she had no dependent child or children:
-    provided further that any person may receive a supported living payment on the ground of sickness, injury, disability, or total blindness, or jobseeker support on the ground of sickness, injury, or disability, or a youth payment or young parent payment granted pursuant to section 158(2)(c)(ii) or 164(2)(c)(ii) to a person who qualifies for an exemption under section 105 from the obligation to undertake education or training or work-based learning in section 170(1)(a) on the ground of his or her sickness, injury, or disability or a child disability allowance, in addition to a child's pension under section 36, section 62, or section 65 of the War Pensions Act 1954:
+    provided further that any person may receive a supported living payment on the ground of sickness, injury, disability, or total blindness, or jobseeker support on the ground of sickness, injury, or disability, or a youth payment or young parent payment granted pursuant to section 158(2)(c)(ii) or 164(2)(c)(ii) to a person who qualifies for an exemption under section 105 from the obligation to undertake education or training or work-based learning in section 170(1)(a) on the ground of his or her sickness, injury, or disability or a child disability allowance, in addition to a children’s pension under section 72 of the Veterans' Support Act 2014:
   (c) where any part of a benefit is payable in respect of the spouse or partner of an applicant, that part shall not be paid for any period when a personal benefit is payable in respect of the spouse or partner.
 
 ### 73 Limitation where applicant entitled to claim under Family Protection Act 1955
@@ -2387,7 +2385,7 @@ Notwithstanding anything to the contrary in this Act,—
 (3) In this section the term relative means a person out of whose estate the applicant is entitled to make a claim for provision under the Family Protection Act 1955.
 
 ### 74 Limitation in certain other cases
-(1) Notwithstanding anything to the contrary in this Act or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the chief executive may, in the chief executive's discretion, refuse to grant any benefit or may terminate or reduce any benefit already granted or may grant a benefit at a reduced rate in any case where the chief executive is satisfied—
+(1) Notwithstanding anything to the contrary in this Act or Part 6 of the Veterans' Support Act 2014 or the New Zealand Superannuation and Retirement Income Act 2001, the chief executive may, in the chief executive's discretion, refuse to grant any benefit or may terminate or reduce any benefit already granted or may grant a benefit at a reduced rate in any case where the chief executive is satisfied—
   (a) that the applicant, or the spouse or partner of the applicant or any person in respect of whom the benefit or any part of the benefit is or would be payable, is not ordinarily resident in New Zealand; or
   (b)
   (c)
@@ -2432,7 +2430,7 @@ Notwithstanding anything to the contrary in this Act,—
     (i) unlawfully resident or present in New Zealand; or
     (ii) lawfully resident or present in New Zealand, but only by virtue of holding a temporary entry class visa.
 (4) Despite subsection (3)(b)(ii), subsection (2) does not apply to a person described in subsection (1A).
-(5) Subsection (2) applies despite anything in this Act or the New Zealand Superannuation and Retirement Income Act 2001 or Part 6 of the War Pensions Act 1954.
+(5) Subsection (2) applies despite anything in this Act or the New Zealand Superannuation and Retirement Income Act 2001 or Part 6 of the Veterans' Support Act 2014.
 
 ### 75 Beneficiaries in hospital
 (1) For the purposes of this section, hospital means a hospital operated by a district health board within the meaning of the New Zealand Public Health and Disability Act 2000.
@@ -2501,7 +2499,7 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
   (a) the other provisions of this section; or
   (b) any agreement or convention adopted under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990; or
   (c) sections 21 to 35 of the New Zealand Superannuation and Retirement Income Act 2001; or
-  (d) sections 74E to 74T of the War Pensions Act 1954.
+  (d) sections 176 to 196 of the Veterans' Support Act 2014.
 (2) A benefit is payable to a beneficiary in respect of any 1 or more absences of the beneficiary from New Zealand equal to or shorter than 4 weeks in total in any 52-week period if—
   (a) the benefit is not a benefit of a kind specified in subsection (2A); and
   (b) the benefit would, but for those 1 or more absences, be payable to the beneficiary; and
@@ -2532,7 +2530,7 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
   (b) the beneficiary after departing from New Zealand notified an officer of the department of the beneficiary's current absence from New Zealand as soon as was reasonably practicable in the circumstances.
 (9) Nothing in subsections (2) to (8) applies to the following:
   (a) New Zealand superannuation payable under the New Zealand Superannuation and Retirement Income Act 2001:
-  (b) veterans' pensions payable under Part 6 of the War Pensions Act 1954:
+  (b) veterans' pensions payable under Part 6 of the Veterans' Support Act 2014:
   (c) entitlements pursuant to an agreement or convention that is given effect in relation to New Zealand by an Order in Council made pursuant to section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
 
 ### 77A Effect of absence of beneficiary from New Zealand: department must explain provisions
@@ -2552,7 +2550,7 @@ The chief executive must take reasonable and appropriate steps to make every per
 (2) Nothing in subsection (1) shall be construed to derogate from the provisions of section 77.
 
 ### 80 Commencement of benefits
-(1) Except as otherwise provided in this section or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, a benefit shall commence on the later of—
+(1) Except as otherwise provided in this section or Part 6 of the Veterans' Support Act 2014 or the New Zealand Superannuation and Retirement Income Act 2001, a benefit shall commence on the later of—
   (a) the date the applicant became entitled to receive it; or
   (b) the date the application for it was received.
 (2) A benefit is subject to a stand down, and commences on a date calculated in accordance with section 80BA, if—
@@ -2950,7 +2948,7 @@ The following payments or other sums are debts due to the Crown:
     (i) paid as a recoverable grant of assistance; or
     (ii) otherwise recoverable from that person under the terms and conditions of the programme:
   (e) any amount described by this Act as a debt due to the Crown from the person:
-  (f) a sum (an overpayment), paid or advanced under this Act or Part 6 of the War Pensions Act 1954 or Part 1 of the New Zealand Superannuation and Retirement Income Act 2001 to or for the credit of a person—
+  (f) a sum (an overpayment), paid or advanced under this Act or Part 6 of the Veterans' Support Act 2014 or Part 1 of the New Zealand Superannuation and Retirement Income Act 2001 to or for the credit of a person—
     (i) that is in excess of the amount to which the person is entitled; or
     (ii) to which the person has no entitlement.
 
@@ -3004,7 +3002,7 @@ Chief executive's duty to recover debt in section 85A
 (1E)
 (1F)
 Recovery of penalty from beneficiary who obtains by fraud amount in excess of entitlement
-(2) Subject to subsections (2A) and (2B), if any person has obtained any payment or received any credit or advance referred to in section 85A in excess of the amount to which he or she was entitled and, in the opinion of the chief executive, that payment or credit or advance in excess was obtained by fraud, the chief executive may, in his or her discretion, which discretion may be exercised in respect of any particular case or class or classes of case, recover from that person, by way of penalty, an amount not exceeding 3 times the amount in excess. Nothing in this subsection shall relieve that person from any other liability in respect of any fraud committed by him or her. Any penalty under this subsection may be recovered by way of deduction from any instalments of the same or any other benefit or student allowance or payment thereafter becoming payable to that person under this Act or under section 124(1)(d) or under Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001; and may be recovered as a debt due to the Crown at the suit of the chief executive.
+(2) Subject to subsections (2A) and (2B), if any person has obtained any payment or received any credit or advance referred to in section 85A in excess of the amount to which he or she was entitled and, in the opinion of the chief executive, that payment or credit or advance in excess was obtained by fraud, the chief executive may, in his or her discretion, which discretion may be exercised in respect of any particular case or class or classes of case, recover from that person, by way of penalty, an amount not exceeding 3 times the amount in excess. Nothing in this subsection shall relieve that person from any other liability in respect of any fraud committed by him or her. Any penalty under this subsection may be recovered by way of deduction from any instalments of the same or any other benefit or student allowance or payment thereafter becoming payable to that person under this Act or under section 124(1)(d) or under Part 6 of the Veterans' Support Act 2014 or under the New Zealand Superannuation and Retirement Income Act 2001; and may be recovered as a debt due to the Crown at the suit of the chief executive.
 (2A) The chief executive shall not impose any penalty on any person under subsection (2)—
   (a) unless the chief executive has given to the person written notice—
     (i) specifying the intention to impose a penalty under that subsection and the amount proposed to be imposed by way of penalty; and
@@ -4085,7 +4083,7 @@ Nothing in—to anything done, before 31 December 2001, which—
 
 ### 127 Offences: false statements, misleading, or attempting to mislead, to receive or continue to receive benefits
 Every person who makes any statement knowing it to be false in any material particular, or who wilfully does or says anything or omits to do or say anything for the purpose of misleading or attempting to mislead any officer concerned in the administration of this Act or any other person whomsoever, for the purpose of receiving or continuing to receive (for himself or for any other person), or which results in himself or any other person receiving or continuing to receive—commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000, or to both imprisonment and fine.
-  (a) any benefit under this Act or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001; or
+  (a) any benefit under this Act or Part 6 of the Veterans' Support Act 2014 or the New Zealand Superannuation and Retirement Income Act 2001; or
   (b) any exemption from any obligation under this Act; or
   (c) any payment from a Crown Bank Account in accordance with this Act; or
   (d) any entitlement card issued under regulations made pursuant to section 132A; or
@@ -4677,7 +4675,7 @@ In this Part and in Schedule 26,—
     (a)
     (b) an emergency benefit, supported living payment, or jobseeker support; or
     (c) New Zealand superannuation paid at a rate specified in clause 2 of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
-    (d) a veteran’s pension paid at a rate specified in clause 2 of Schedule 11 of the War Pensions Act 1954
+    (d) a veteran’s pension at the relationship (partner not receiving superannuation or pension) rate or the relationship (partner not receiving superannuation or pension) legacy rate (as defined in section 158 of the Veterans' Support Act 2014)
   - **teen parent unit** means an educational facility for teenage parents attached to a State school (within the meaning of the Education Act 1989)
   - **WFF tax credit** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **work-based learning** , in relation to any person, means a course or programme undertaken (or to be undertaken) in the course of or by virtue of his or her employment that comprises, or includes a component of, practical or on-the-job vocational learning (for example, an industry training programme or apprenticeship)
@@ -4997,7 +4995,7 @@ To a beneficiary with 1 or more dependent children: $299.45 a week, subject to I
 For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children.
 
 ### 3
-For the purposes of clause 1, the chief executive may, in his or her discretion, treat all or any part of the income (including, without limitation, any pension or allowance under the War Pensions Act 1954) of the spouse or partner of an applicant to whom section 20A(d) or (f) applies as if it were income derived by that applicant if the chief executive—
+For the purposes of clause 1, the chief executive may, in his or her discretion, treat all or any part of the income (including, without limitation, any pension or allowance under the Veterans' Support Act 2014) of the spouse or partner of an applicant to whom section 20A(d) or (f) applies as if it were income derived by that applicant if the chief executive—
 (a) has had regard to its nature and the means by which it was derived; and
 (b) considers that treatment of it to be reasonable in the circumstances.
 
