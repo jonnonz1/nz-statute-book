@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2014-04-14_
+_Consolidation as at 2014-12-07_
 
 > An Act—ato assess the minimum level of financial support payable by certain parents in respect of their children; andbto provide for the collection and payment of child support and spousal maintenance payments; andcto make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -2096,7 +2096,7 @@ Where any person makes default in any payment of financial support under this Ac
   (b) that payment, and those further payments, of financial support shall be payable, unless the Commissioner considers it to be inappropriate, by way of automatic deduction under Part 10.
 
 ### 131 Social security beneficiaries to pay financial support by automatic deduction
-Where any person who is required to pay financial support under this Act is in receipt of any benefit under the Social Security Act 1964 or under the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or Part 6 of the War Pensions Act 1954, or the New Zealand Superannuation and Retirement Income Act 2001,—
+Where any person who is required to pay financial support under this Act is in receipt of any benefit under the Social Security Act 1964 or under the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or Part 6 of the Veterans' Support Act 2014, or the New Zealand Superannuation and Retirement Income Act 2001,—
   (a) section 129 of this Act shall not apply; and
   (b) payments of financial support shall be payable by way of automatic deduction under Part 10 of this Act from any instalment of any benefit to which the person is or may become entitled under that Act.
 
@@ -2120,7 +2120,7 @@ Where any person who is required to pay financial support under this Act is in r
   (b) on the amount of so much, if any, of the sum of—as remains unpaid at the expiry of the day on which there expires the period of 1 month immediately following the due date referred to in paragraph (a), an amount equal to 2% of that amount:
     (i) the financial support referred to in paragraph (a); and
     (ii) the penalty imposed in accordance with the provisions of paragraph (a),—
-  (c) on the amount of so much, if any, of the sum of—as remains unpaid at the expiry of any of the periods of 1 month that, consecutively, succeed the period of month referred to in paragraph (b), an amount equal to 2% of that amount.
+  (c) on the amount of so much, if any, of the sum of—as remains unpaid at the expiry of any of the periods of 1 month that, consecutively, succeed the period of 1 month referred to in paragraph (b), an amount equal to 2% of that amount.
     (i) the financial support referred to in paragraph (a); and
     (ii) the penalty or penalties imposed in accordance with the provisions of paragraphs (a) and (b); and
     (iii) the penalties, if any, added thereto in accordance with the provisions of this paragraph,—
@@ -3199,7 +3199,7 @@ Every question of fact arising in any proceeding under this Act (not being crimi
     (i) carrying into effect the provisions of this Act; or
     (ii) carrying into effect the provisions of section 70A of the Social Security Act 1964:
     (iii)
-  (d) the communication, to the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 or any officer of that department authorised in that behalf or the Secretary for War Pensions, of information relating to the amount of financial support paid by the Commissioner pursuant to Part 9 of this Act to any person whose income is required to be determined for the purposes of the Social Security Act 1964 or the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001:
+  (d) the communication, to the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 or any officer of that department authorised in that behalf or the General Manager of Veterans’ Affairs New Zealand, of information relating to the amount of financial support paid by the Commissioner pursuant to Part 9 of this Act to any person whose income is required to be determined for the purposes of the Social Security Act 1964 or the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or Part 6 of the Veterans' Support Act 2014 or the New Zealand Superannuation and Retirement Income Act 2001:
   (db) the communication, to the Chief Executive of the Ministry of Justice or any officer of the Ministry of Justice authorised in that behalf, of information for the purpose of carrying into effect subpart 4 of Part 5A:
   (dc) the communication, to the Commissioner of Police or any Police employee authorised in that behalf, of information for the purpose of carrying into effect subpart 4 of Part 5A:
   (e) the communication, to the Chief Executive of the Ministry of Justice or any officer of the Ministry of Justice authorised in that behalf, of information for the purposes of—
@@ -3363,7 +3363,7 @@ Notwithstanding section 241 of this Act, nothing in section 89 of the Accident C
   (b) shall continue in full force and effect until whichever is the earliest of the following dates:and thereupon, at the close of that date, shall cease to remain in force or shall cease to be registered or confirmed under the Family Proceedings Act 1980, as the case may be.
     (i) the date on which child support under a formula assessment commences to be payable, in accordance with this Act, to the person entitled to receive payments under the order or agreement, by the person liable to make those payments; or
     (ii) in a case where a voluntary agreement made in relation to the child between the parties to the order or agreement is accepted by the Commissioner, the date on which that voluntary agreement first applies in accordance with section 59; or
-    (iii) the date on which a benefit is granted under the Social Security Act 1964 or Part 6 of the War Pensions Act 1954 or the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or the New Zealand Superannuation and Retirement Income Act 2001 to the person who is entitled to receive payments under the order or agreement; or
+    (iii) the date on which a benefit is granted under the Social Security Act 1964 or Part 6 of the Veterans' Support Act 2014 or the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or the New Zealand Superannuation and Retirement Income Act 2001 to the person who is entitled to receive payments under the order or agreement; or
     (iv) the date that the order or agreement would have expired if this Act had not been passed,—
 
 ### 264 Enforcement of Department of Social Welfare administered child maintenance orders and agreements
