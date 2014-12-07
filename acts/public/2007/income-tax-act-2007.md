@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2014-12-07_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1993,6 +1993,7 @@ Some definitions
     (f) a payment under the Accident Compensation Act 2001 paid by the Corporation as defined in that Act, of weekly compensation that is not recovered or recoverable under section 248 of that Act:
     (g) a payment under section 81(1)(b) of the Accident Compensation Act 2001 paid by the Corporation as defined in that Act, for attendant care as defined in schedule 1, clause 12 of that Act:
     (h) a personal service rehabilitation payment for a person under the Accident Compensation Act 2001
+    (i) a payment of weekly compensation made under subpart 5 of Part 4 of the Veterans' Support Act 2014.
   - **education grant** means a basic grant or an independent circumstances grant under regulations made under section 303 of the Education Act 1989
   - **pension** —
     (a) includes a gratuitous payment made to a person in return for services that the person, or their parent, child, spouse, civil union partner or de facto partner, former spouse, civil union partner or de facto partner, or dependant, provided to the payer when the payment would not have been made if the services had not been provided; and
@@ -3550,7 +3551,7 @@ Income derived by a person who is a transitional resident is exempt income if th
 ### CW 28 Pensions
 Exempt income
 (1) The following are exempt income:
-  (a) a pension or allowance under the War Pensions Act 1954, other than a veteran’s pension:
+  (a) a pension or allowance under the Veterans' Support Act 2014 (including a lump sum paid pursuant to an election under section 53(1)(b) of that Act), other than weekly compensation paid under subpart 5 of Part 4 of that Act or a veteran’s pension:
   (b) a pension or allowance of any other kind granted in New Zealand or overseas by any government relating to any war or to disability attributable to or aggravated by service in the armed forces or the police:
   (c) a payment of portable New Zealand superannuation:
   (d) a payment of portable veteran’s pension:
@@ -3638,6 +3639,7 @@ Some definitions
     (a) a payment by a friendly society, but not a payment referred to in paragraph (d) or (e) of the definition of accident compensation payment in section CF 1(2) (Benefits, pensions, compensation, and government grants):
     (b) a payment from a sickness, accident, or death benefit fund to which the person was a contributor when the period of incapacity began, but not a payment referred to in paragraph (d) or (e) of the definition of accident compensation payment in section CF 1(2):
     (c) a payment under a policy of personal sickness or accident insurance, or an accident insurance contract, but neither a payment referred to in paragraph (d) or (e) or (f) of the definition of accident compensation payment in section CF 1(2) nor a payment calculated according to loss of earnings or profits.
+    (d) an impairment payment made under subpart 4 of Part 4 of the Veterans' Support Act 2014.
 
 ### CW 35 Personal service rehabilitation payments
 An amount paid to a person for an income year as a personal service rehabilitation payment is exempt income of the person if—
@@ -29211,7 +29213,7 @@ A tax credit that a person has under this Part is excluded income of the person.
 If a calculation under this Part produces a result that is negative for the amount of a tax credit or the amount of a component of a credit, the amount of the credit or component is zero.
 
 ### MA 5 Advice from outside agencies
-In determining a person’s entitlement to a tax credit under subparts MB to MF and MZ, the Commissioner may obtain the advice of the chief executive or, as applicable, the person appointed under section 61A of the Defence Act 1990 for the purposes of the War Pensions Act 1954.
+In determining a person’s entitlement to a tax credit under subparts MB to MF and MZ, the Commissioner may obtain the advice of the chief executive or, as applicable, the General Manager of Veterans’ Affairs New Zealand appointed under section 200(1) of the Veterans' Support Act 2014.
 
 ### MA 6 Avoidance arrangements
 Section GB 44 (Arrangements involving tax credits for families) may apply to reduce a tax credit under subparts MB to MF and MZ.
@@ -29226,9 +29228,9 @@ Modifications to weekly employment
   (a) a person who is employed in a pay period that is longer than 1 week is treated as undertaking the employment activities to a uniform daily extent for the period:
   (b) a person who is employed becomes incapacitated as described in subsection (3) and is unable to undertake employment in a week in which but for the incapacity they would be employed for the number of hours set out in subsection (1)(a) and (b) is treated as having been employed for the hours referred to:
   (c) a person who is taking parental leave under the Parental Leave and Employment Protection Act 1987 for which a parental leave payment under Part 7A of that Act is payable, is treated as employed in the week for the number of hours for which they would have worked but for the period of parental leave:
-  (d) a person who receives or will receive weekly compensation from the Accident Compensation Corporation as a surviving spouse or partner of a deceased claimant is treated as being employed, during the week to which that compensation relates, for the number of hours that the deceased claimant would have been employed for in a week before dying, but for their incapacity. The number of hours under this paragraph are in addition to the person's own hours.
+  (d) a person who receives or will receive weekly compensation from the Accident Compensation Corporation, Veterans' Affairs New Zealand, or both, as a surviving spouse or partner of a deceased claimant is treated as being employed, during the week to which that compensation relates, for the number of hours that the deceased claimant would have been employed for in a week before dying, but for their incapacity. The number of hours under this paragraph are in addition to the person's own hours.
 Incapacity
-(3) The incapacity referred to in subsection (2)(b) and (d) is an incapacity due to personal injury by accident for which an accident compensation earnings-related payment has been, is being, or will be paid.
+(3) The incapacity referred to in subsection (2)(b) and (d) is an incapacity due to personal injury by accident for which an accident compensation earnings-related payment, weekly income compensation under subpart 4 of Part 3 of the Veterans' Support Act 2014 or weekly compensation under subpart 5 of Part 4 of that Act, or both, has been, is being, or will be paid.
 
 ### MA 8 Some definitions for family scheme
 In subparts MB to MF and MZ,—
@@ -29476,7 +29478,7 @@ Payments and benefits excluded from family scheme income
   (k) lump sum compensation under the Accident Compensation Act 2001:
   (kb) a payment of a foster care allowance under section 363 of the Children, Young Persons, and Their Families Act 1989:
   (l) a monetary benefit under the Social Security Act 1964 that is exempt income:
-  (m) a pension or allowance under the War Pensions Act 1954 that is exempt income:
+  (m) a pension or allowance under the Veterans' Support Act 2014 that is exempt income:
   (n) a payment that is exempt income under section CW 33(1)(c), (e), or (f) (Allowances and benefits):
   (o) an amount that is declared not to be income for the purposes of the Social Security Act 1964 by a regulation under section 132 of that Act:
   (p) included in the family scheme income of the person under another section:
@@ -29530,11 +29532,11 @@ When child meets residence requirements
 
 ### MC 6 When person does not qualify
 Despite sections MC 3 to MC 5, a person does not qualify for—
-  (a) an abating WFF tax credit if, during the relationship period, they receive a parent’s allowance under section 32(2) of the War Pensions Act 1954:
+  (a) an abating WFF tax credit if, during the relationship period, they receive a parent's allowance continued by clause 3 of Schedule 1 of the Veterans' Support Act 2014 or a children's pension under section 72 or 75 of that Act:
   (b) an in-work tax credit, parental tax credit, or minimum family tax credit if, during the relationship period, they receive—
     (i) an income-tested benefit; or
     (ii)
-    (iii) a parent’s allowance.
+    (iii) a parent’s allowance or a children's pension.
 
 ### MC 7 When spouse or partner entitled under family scheme
 When this section applies
@@ -29700,7 +29702,7 @@ When child meets residence requirements
 The fourth requirement for an entitlement to an in-work tax credit is that the person referred to in section MD 4 and their spouse, civil union partner, or de facto partner, do not receive—
   (a) an income-tested benefit; or
   (b) a basic grant and an independent circumstances grant made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or an enactment substituted for those sections; or
-  (c) a parent’s allowance under section 32(2) of the War Pensions Act 1954.
+  (c) a parent's allowance continued by clause 3 of Schedule 1 of the Veterans' Support Act 2014 or a children's pension under section 72 or 75 of that Act.
 
 ### MD 9 Fifth requirement: full-time earner
 Normally full-time earner
@@ -35028,6 +35030,7 @@ Meaning
     (i) a bonus, commission, gratuity, overtime pay, or other pay of any kind; and
     (ii) a payment described in subsections (2) to (8); and
     (iii) an accident compensation earnings-related payment; and
+    (iv) weekly income compensation under subpart 4 of Part 3 of the Veterans' Support Act 2014 or weekly compensation under subpart 5 of Part 4 of that Act; and
   (c) does not include—
     (i) an amount of exempt income:
     (ii) an extra pay:
@@ -35055,7 +35058,7 @@ Certain benefits and grants
 (6) A payment of the following benefits or grants is included in salary or wages
   (a) a gratuitous payment as described in paragraph (a) of the definition of pension in section CF 1(2) (Benefits, pensions, compensation, and government grants):
   (b) an income-tested benefit:
-  (bb) a veteran's pension, other than a veteran's pension paid under section 74J(2)(b) of the War Pensions Act 1954:
+  (bb) a veteran's pension, other than a veteran's pension paid under section 182 of the Veterans' Support Act 2014:
   (bc) New Zealand superannuation, other than New Zealand superannuation paid under section 26(2)(b) of the New Zealand Superannuation and Retirement Income Act 2001:
   (bd)
   (c) a basic grant and independent circumstances grant made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or an enactment substituted for those sections.
@@ -39953,8 +39956,8 @@ In this Act, unless the context requires otherwise,—
     (b) section 31 of the New Zealand Superannuation and Retirement Income Act 2001; or
     (c) section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990
   - **portable veteran’s pension** means a veteran's pension paid or payable overseas under—
-    (a) section 74J(2)(a) of the War Pensions Act 1954, or under section 74J(2)(b) where the pensioner is residing in a country to which section 74J(1)(a) of that Act applies; or
-    (b) section 74O of the War Pensions Act 1954; or
+    (a) section 182(1)(a) of the Veterans' Support Act 2014, or under section 182(1)(b) where the pensioner is residing in a country to which section 181(a) of that Act applies; or
+    (b) section 191 of the Veterans' Support Act 2014; or
     (c) section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990
   - **portfolio allocation period**
   - **portfolio calculation period**
@@ -40890,7 +40893,7 @@ In this Act, unless the context requires otherwise,—
     (b) in the old financial arrangements rules, is defined in section EZ 48 (Definitions)
   - **venture investment agreement** is defined in section CW 13(6) (Proceeds from share or option acquired under venture investment agreement)
   - **Venture Investment Fund** means the company called New Zealand Venture Investment Fund Limited that is listed in Schedule 2 of the Crown Entities Act 2004
-  - **veteran’s pension** means a veteran's pension, other than a portable veteran's pension, paid or payable under Part 6 of the War Pensions Act 1954
+  - **veteran’s pension** means a veteran's pension, other than a portable veteran's pension, paid or payable under Part 6 of the Veterans' Support Act 2014
   - **volunteer** is defined in section CW 62B (Voluntary activities) for the purposes of that section
   - **voting interest** —
     (a) means, for a person and a company and a time, the percentage voting interest that the person is treated as holding in the company at the time under sections YC 2 to YC 20 (which relate to the measurement of company ownership):
