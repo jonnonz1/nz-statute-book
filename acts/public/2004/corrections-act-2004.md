@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2014-12-12_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -466,6 +466,7 @@ If, in accordance with section 9 of the Defence Act 1990, any part of the Armed 
   (ab) to supervise all persons placed under the officer's supervision under an extended supervision order made under Part 1A of the Parole Act 2002, and to ensure that the conditions of the order are complied with:
   (ac) to supervise all offenders released on parole and to ensure that the conditions of parole are complied with:
   (ad) to supervise offenders released on compassionate release under section 41 of the Parole Act 2002 and to ensure that the conditions of release (if any) are complied with:
+  (ae) to supervise persons released subject to a protective supervision order under the Public Safety (Public Protection Orders) Act 2014 and to ensure that the requirements included in the order are complied with:
   (b) to arrange and administer community-based sentences and sentences of home detention imposed under section 80A of the Sentencing Act 2002 referred to the officer for that administration, and to ensure that the sentences are carried out:
   (c) to co-ordinate and arrange community involvement (including the use of volunteers) in the administration of any particular community-based sentence or sentence of home detention imposed under section 80A of the Sentencing Act 2002, or any particular release under the Parole Act 2002, where appropriate and in accordance with any instructions issued by a controlling officer:
   (d) to arrange, provide, and monitor rehabilitative and reintegrative programmes or related services for offenders, where appropriate, if directed to do so by a controlling officer:
@@ -949,7 +950,8 @@ Any temporary removal from prison under section 62—
   (b) removed by or under the direction of the prison manager from one prison to another or from one place of confinement to another for any of these purposes or for the purpose of undergoing sentence.
 (2) Subsection (3) applies if—
   (a) a prisoner is charged with an offence, not being the offence for which the prisoner is in custody; or
-  (ab) a prisoner is the subject of an application under Part 1A of the Parole Act 2002 for an extended supervision order or for the extension of an extended supervision order; or
+  (ab) a prisoner is the subject of an application under Part 1A of the Parole Act 2002 for an extended supervision order; or
+  (ac) a prisoner is the subject of an application for a public protection order under the Public Safety (Public Protection Orders) Act 2014; or
   (b) in any other case, the interests of justice require the attendance for judicial purposes of a prisoner.
 (3) If this subsection applies, any court or Judge or Registrar may, by order in writing, direct the manager of the prison in which the prisoner is detained to bring the prisoner, or to ensure that the prisoner is brought, before the court or, as the case may require, to arrange the attendance of the prisoner for those judicial purposes, as often as is necessary, and the manager must obey the order.
 (4) The court or Judge or Registrar making any order under subsection (3) must, if the order is made in a civil proceeding, and may, if it is made in any other proceeding, require any person applying for the order to deposit a sum sufficient to pay the expenses of bringing the prisoner before the court or, as the case may require, arranging the attendance of the prisoner for judicial purposes, and returning the prisoner to the prison in which he or she is required by law to be detained.
