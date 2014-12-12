@@ -1,5 +1,5 @@
 # New Zealand Security Intelligence Service Act 1969
-_Consolidation as at 2014-05-11_
+_Consolidation as at 2014-12-12_
 
 > An Act to make better provision for the New Zealand Security Intelligence Service
 
@@ -184,12 +184,12 @@ This Act shall bind the Crown.
 ### 4E Powers to give effect to intelligence warrants
 (1) A person who is an authorised person under an intelligence warrant or any person who is requested under section 4D(2) to assist the authorised person may, for the purpose of giving effect to the warrant, gain entry to—
   (a) any place that is specified in the warrant; or
-  (b) any place that is owned or occupied by a person identified in the warrant under section 4B(1)(b) or (c); or
-  (c) any place where a person identified in the warrant under section 4B(1)(b) or (c) is or is likely to be at any time; or
-  (d) in any case where a facility is identified in the warrant under section 4B(1)(b) or (c), any place—
+  (b) any place that is owned or occupied by a person identified in the warrant under section 4B(1)﻿(b) or (c); or
+  (c) any place where a person identified in the warrant under section 4B(1)﻿(b) or (c) is or is likely to be at any time; or
+  (d) in any case where a facility is identified in the warrant under section 4B(1)﻿(b) or (c), any place—
     (i) where that facility is or is likely to be at any time; or
     (ii) that it is necessary to enter in order to access that facility.
-(2) The power conferred by subsection (1)(c) or (d) is subject to section 4F.
+(2) The power conferred by subsection (1)﻿(c) or (d) is subject to section 4F.
 (3) A person who is an authorised person under an intelligence warrant or any person who is requested under section 4D(2) to assist the authorised person may, in order to take the actions authorised by the warrant, do any of the following acts that are necessary for the purpose of giving effect to the warrant:
   (a) instal or modify any device or equipment:
   (b) maintain or monitor any device or equipment:
@@ -204,13 +204,13 @@ This Act shall bind the Crown.
 ### 4F Duty to minimise impact of intelligence warrants on third parties
 (1) In any case where an intelligence warrant authorises the interception or seizure of the communications of a person, everyone who makes, or assists in making, the interception or seizure under the intelligence warrant must take all practicable steps that are reasonable in the circumstances to minimise the likelihood of intercepting or seizing communications that are not relevant to the person whose communications are to be intercepted or seized.
 (2) A person acting under an intelligence warrant may not exercise a power to enter a place without the prior approval of the Director (or the person for the time being acting as the Director), if that place is neither—
-  (a) owned or occupied by a person identified in the warrant under section 4B(1)(b) or (1)(c); nor
+  (a) owned or occupied by a person identified in the warrant under section 4B(1)﻿(b) or (1)﻿(c); nor
   (b) specified in the intelligence warrant.
 (3) As soon as an approval is given under subsection (2), the Director (or the person for the time being acting as the Director) must—
   (a) advise the Minister of the approval; and
   (b) if the intelligence warrant concerned is a domestic intelligence warrant, also advise the Commissioner of the approval.
-(4) When the Minister is advised under subsection (3)(a) of an approval, the Minister may direct every person acting under the warrant concerned not to proceed with, or to discontinue, interceptions or seizures of communications or documents or things at the place to which the approval relates.
-(5) When the Commissioner is advised under subsection (3)(b) of an approval, the Commissioner, after consultation with the Minister, may direct every person acting under the warrant concerned not to proceed with, or to discontinue, interceptions or seizures of communications or documents or things at the place to which the approval relates.
+(4) When the Minister is advised under subsection (3)﻿(a) of an approval, the Minister may direct every person acting under the warrant concerned not to proceed with, or to discontinue, interceptions or seizures of communications or documents or things at the place to which the approval relates.
+(5) When the Commissioner is advised under subsection (3)﻿(b) of an approval, the Commissioner, after consultation with the Minister, may direct every person acting under the warrant concerned not to proceed with, or to discontinue, interceptions or seizures of communications or documents or things at the place to which the approval relates.
 (6) The Director (or the person for the time being acting as the Director) must ensure that every direction under this section is carried out without delay.
 
 ### 4G Destruction of irrelevant records obtained by interception or electronic tracking
@@ -225,7 +225,7 @@ This Act shall bind the Crown.
 (3) Every person who knowingly fails to comply with subsection (1) or (2A) commits an offence and is liable on conviction to a fine not exceeding $1,000.
 
 ### 4H Prevention or detection of serious crime
-(1) Despite sections 4(1)(a) and 4G(1)(a), the Director, for the purpose of preventing or detecting serious crime in New Zealand or in any other country, may retain any information that comes into the possession of the Security Intelligence Service and may communicate any such information to employees of the New Zealand Police or to any other persons, and in any manner, that the Director thinks fit.
+(1) Despite sections 4(1)﻿(a), 4IB(10), 4IE(9), 4G(1)﻿(a), and 4G(2A), the Director, for the purpose of preventing or detecting serious crime in New Zealand or in any other country, may retain any information that comes into the possession of the Security Intelligence Service and may communicate any such information to employees of the New Zealand Police or to any other persons, and in any manner, that the Director thinks fit.
 (2) In subsection (1), serious crime means,—
   (a) in relation to New Zealand, any offence punishable by 2 or more years' imprisonment; and
   (b) in relation to an overseas country, any offence that, if it occurred in New Zealand, would be an offence punishable by 2 or more years' imprisonment.
@@ -241,6 +241,140 @@ This Act shall bind the Crown.
   (d) do any other act that is reasonable in the circumstances and reasonably required to achieve the purpose for which the warrant was issued.
 (3) A warrant issued under subsection (1) must specify a period not exceeding 12 months for which the warrant is valid.
 
+**Visual surveillance warrants**
+
+### 4IA Interpretation
+In sections 4IB to 4IF,—
+  - **Inspector-General** means the Inspector-General under the Inspector-General of Intelligence and Security Act 1996
+  - **visual surveillance** means the observation of private activity in private premises, with or without the use of a visual surveillance device, and includes any recording of that observation
+  - **visual surveillance device** has the same meaning as in section 3(1) of the Search and Surveillance Act 2012
+  - **visual surveillance warrant** means a domestic visual surveillance warrant issued under section 4IB(1) or a foreign visual surveillance warrant issued under section 4IB(2).
+
+### 4IB Issue of visual surveillance warrant
+(1) The Minister and the Commissioner may jointly issue a domestic visual surveillance warrant authorising a person to undertake visual surveillance if the Minister and the Commissioner are both satisfied on evidence on oath given by the applicant for the warrant that the conditions specified in subsection (3) apply to the proposed warrant.
+(2) The Minister may issue a foreign visual surveillance warrant authorising a person to undertake visual surveillance if the Minister is satisfied on evidence on oath given by the applicant for the warrant that—
+  (a) the conditions specified in subsection (3) apply to the proposed warrant; and
+  (b) there are reasonable grounds for believing—
+    (i) that no New Zealand citizen or permanent resident is to be identified by the proposed warrant as a person who is to be subject to the warrant; and
+    (ii) that any place to be specified in the proposed warrant is occupied by a foreign organisation or a foreign person.
+(3) The conditions referred to in subsections (1) and (2) are that—
+  (a) the visual surveillance to be authorised by the proposed warrant is necessary for the detection, investigation, or prevention of any actual, potential, or suspected—
+    (i) terrorist act; or
+    (ii) facilitation of a terrorist act; and
+  (b) the value of the information sought to be obtained under the proposed warrant justifies the visual surveillance; and
+  (c) the information is not likely to be obtained by any other means; and
+  (d) any recording of activity that is sought to be obtained under the proposed warrant is not privileged in proceedings in a court of law under—
+    (i) section 58 or 59 of the Evidence Act 2006; or
+    (ii) any rule of law that confers privilege on communications of a professional nature between a lawyer and his or her client.
+(4) Every visual surveillance warrant must specify—
+  (a) the identity of the person to be observed:
+  (b) the place, facility, or thing to be observed.
+(5) A visual surveillance warrant may be issued only on an application made in writing by the Director or by the person for the time being acting as the Director.
+(6) A combined application for both a visual surveillance warrant and an intelligence warrant may be made, in which case the Minister and the Commissioner (in the case of a domestic warrant), or the Minister (in the case of a foreign warrant), may issue—
+  (a) a visual surveillance warrant only; or
+  (b) an intelligence warrant only; or
+  (c) both.
+(7) The expiry of a visual surveillance warrant does not prevent a further application under subsection (1) or (2) in respect of the same subject matter.
+(8) Subsections (1) to (7) have effect despite anything to the contrary in any other Act.
+(9) As soon as practicable after a visual surveillance warrant is issued under subsection (1), the Director (or the person for the time being acting as the Director) must provide a copy of the visual surveillance warrant to the Inspector-General.
+(10) As soon as practicable after the expiry of a visual surveillance warrant, the Director must ensure that any records resulting from the visual surveillance undertaken under that warrant are destroyed, except to the extent that those records are relevant—
+  (a) to the detection of activities prejudicial to security; or
+  (b) to the gathering of foreign intelligence information that is essential to security.
+(11) Every person who knowingly fails to comply with subsection (10) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
+### 4IC Provisions applying to visual surveillance warrants
+(1) The following provisions apply, with any necessary modifications, as if references to an intelligence warrant or a warrant in those provisions were references to a visual surveillance warrant:
+  (a) section 4A(6) to (8) (which confers immunities on persons giving effect to warrants):
+  (b) section 4B(2) to (5) (which allows the Minister and the Commissioner to impose terms and conditions in the public interest or to minimise the impact on third parties):
+  (c) section 4C (which relates to the term of a warrant):
+  (d) section 4D (which empowers the Director or a delegate of the Director to give effect to a warrant and to request third parties to assist):
+  (e) section 4E (which provides powers to persons acting under warrants):
+  (f) section 4F (which imposes a duty to minimise the impact of a warrant on third parties):
+  (g) section 4I (which enables the Minister to issue a warrant for the removal of equipment installed under a warrant):
+  (h) section 4K (which requires the Director to include information in every annual report on the warrants in force during the relevant reporting period):
+  (i) section 4L (which requires the Minister to certify that the information on warrants in the annual report is correct):
+  (j) section 5AA (which permits the Director to delegate certain functions or powers relating to warrants, but not the function involved in applying for a warrant):
+  (k) section 5AAC (which requires delegations involving the execution of warrants to be entered in a register).
+(2) The immunities referred to in subsection (1)﻿(a) have effect despite anything to the contrary in any other Act.
+
+**Situations of emergency or urgency**
+
+### 4ID Intelligence warrant or visual surveillance warrant need not be obtained in some situations of emergency or urgency
+(1) The Director (or the person for the time being acting as the Director) may authorise a person to exercise a power specified in subsection (2) without an intelligence warrant or a visual surveillance warrant if the Director (or the person acting as the Director) is satisfied—
+  (a) that the exercise of the power is necessary for the detection, investigation, or prevention of any actual, potential, or suspected—
+    (i) terrorist act; or
+    (ii) facilitation of a terrorist act; and
+  (b) that,—
+    (i) in the case of an intelligence warrant, the conditions set out in section 4A(3)﻿(b) to (d) apply; or
+    (ii) in the case of a visual surveillance warrant, the conditions set out in section 4IB(3)﻿(b) to (d) apply; and
+  (c) that obtaining an intelligence warrant or a visual surveillance warrant within the time in which it is proposed to exercise the power is impracticable in the circumstances and a delay is likely to result in a loss of intelligence.
+(2) The powers are the power to,—
+  (a) in relation to an intelligence warrant,—
+    (i) intercept or seize any communication, document, or thing not otherwise lawfully obtainable by the person:
+    (ii) undertake electronic tracking:
+  (b) in relation to a visual surveillance warrant, undertake visual surveillance.
+(3) An authorisation under subsection (1) is valid for a period not exceeding 24 hours that is specified by the person giving the authorisation.
+(4) On the expiry of an authorisation under subsection (1), no further application may be made for an authorisation under subsection (1) in respect of the same subject matter.
+(5) An authorisation under subsection (1) may contain any terms and conditions that the Director (or the person for the time being acting as the Director) considers advisable—
+  (a) in the public interest; or
+  (b) to minimise any risk that the warrant may affect third parties, if, in the opinion of the Director (or the person for the time being acting as the Director), that risk is significant because of—
+    (i) the name, alias, or other description of the person whose communications are sought to be intercepted; or
+    (ii) the nature of the place or the facility in respect of which communications may be intercepted.
+(6) Subsections (1) to (4) have effect despite anything to the contrary in any other Act.
+
+### 4IE Requirements after authorisation under section 4ID(1) given
+(1) Immediately after an authorisation is given under section 4ID(1), the Director (or the person for the time being acting as the Director) must advise the following persons of the authorisation:
+  (a) the Minister; and
+  (b) the Inspector-General; and
+  (c) if the authorisation is to exercise a power that would otherwise be required to be exercised under a domestic intelligence warrant or a domestic visual surveillance warrant, the Commissioner.
+(2) When the Minister or the Commissioner is advised under subsection (1) of an authorisation, the Minister or the Commissioner may direct every person acting under the authorisation—
+  (a) not to proceed with, or to discontinue, any or all activity under the authorisation:
+  (b) to destroy any or all of the information collected.
+(3) The Director (or the person for the time being acting as the Director) must ensure that every direction under subsection (2) is carried out without delay.
+(4) As soon as practicable after the Minister or the Commissioner issues a direction under subsection (2), the Director (or the person for the time being acting as the Director) must refer the matter to the Inspector-General for investigation.
+(5) As soon as practicable after the expiry of an authorisation under section 4ID(1), if no application has been made for an intelligence warrant or a visual surveillance warrant in relation to the same subject matter, the Director (or the person for the time being acting as the Director) must provide a report—
+  (a) to the Minister; or
+  (b) if the authorisation was to exercise a power that would otherwise be required to be exercised under a domestic intelligence warrant or a domestic visual surveillance warrant, to the Minister and the Commissioner.
+(6) A report under subsection (5) must include the following information:
+  (a) the reason why the authorisation was given; and
+  (b) the reason why no application for a warrant was made; and
+  (c) the nature of the information collected under the authorisation.
+(7) As soon as practicable after receiving a report under subsection (5), the Minister (in the case of an authorisation to exercise a power that would otherwise be required to be exercised under a foreign intelligence warrant or a foreign visual surveillance warrant) or the Minister and the Commissioner (in the case of an authorisation to exercise a power that would otherwise be required to be exercised under a domestic intelligence warrant or a domestic visual surveillance warrant) must—
+  (a) determine whether it was appropriate for that authorisation to have been given; and
+  (b) refer the matter to the Inspector-General for investigation.
+(8) If an authorisation under section 4ID(1) is followed by an application for a visual surveillance warrant or an intelligence warrant in relation to the same subject matter, and that application is refused, the Director must refer the matter to the Inspector-General for investigation.
+(9) As soon as practicable after the expiry of an authorisation under section 4ID(1), if no warrant is issued in relation to the same subject matter, the Minister must ensure that any records resulting from activities undertaken pursuant to that authorisation are destroyed, except to the extent that those records are relevant—
+  (a) to the detection of activities prejudicial to security; or
+  (b) to the gathering of foreign intelligence information that is essential to security.
+(10) As soon as practicable after a decision is made to retain records under subsection (9)﻿(a) or (b), the Minister must refer the matter to the Inspector-General for investigation.
+(11) Every person who knowingly fails to comply with subsection (9) commits an offence and is liable on conviction to a fine not exceeding $10,000.
+(12) The Director must include in every annual report prepared under section 4J a statement, in relation to the reporting period to which the report relates, of—
+  (a) the number of authorisations given under section 4ID(1):
+  (b) how many of those authorisations were to exercise powers that would otherwise be required to be exercised under—
+    (i) intelligence warrants:
+    (ii) visual surveillance warrants:
+  (c) the length of time, expressed in 12-hour bands, that those authorisations remained in force before expiring or being replaced by an intelligence warrant or a visual surveillance warrant:
+  (d) how many of those authorisations were followed by an application for an intelligence warrant or a visual surveillance warrant in relation to the same subject matter:
+  (e) how many determinations were made under subsection (7) that it was not appropriate for an authorisation under section 4ID(1) to have been given.
+(13) As soon as practicable after each year ending on 31 December, the Director must deliver to the Minister an interim report of the matters in subsection (12)﻿(a) to (e) in relation to the 6-month period from 1 July to 31 December.
+(14) Section 4J(2) to (4) (except section 4J(3)﻿(b)) applies to an interim report under subsection (13).
+
+### 4IF Provisions applying to authorisations under section 4ID(1)
+(1) The following provisions apply, with any necessary modifications, to an authorisation under section 4ID(1) as if references to an intelligence warrant or a warrant in those provisions were references to an authorisation under section 4ID(1):
+  (a) section 4A(6) to (8) (which confers immunities on persons giving effect to warrants):
+  (b) section 4D (which empowers the Director or a delegate of the Director to give effect to a warrant and to request third parties to assist):
+  (c) section 4E (which provides powers to persons acting under warrants):
+  (d) section 4F(1) and (2) (which imposes a duty to minimise the impact of a warrant on third parties):
+  (e) section 4I (which enables the Minister to issue a warrant for the removal of equipment installed under a warrant):
+  (f) section 5AA (which permits the Director to delegate certain functions or powers relating to warrants, but not the function involved in applying for a warrant):
+  (g) section 5AAC (which requires delegations involving the execution of warrants to be entered in a register).
+(2) The immunities conferred under subsection (1)﻿(a) have effect despite anything to the contrary in any other Act.
+
+**Repeals**
+
+### 4IG Repeals
+Sections 4IA to 4IF and this section are repealed on 1 April 2017.
+
 **Reporting by Service**
 
 ### 4J Annual report
@@ -248,9 +382,9 @@ This Act shall bind the Crown.
 (2) When the Minister receives a copy of a report under subsection (1), the Minister must, without delay, submit a copy of the report to the members of the Intelligence and Security Committee established under the Intelligence and Security Committee Act 1996.
 (3) Within 30 sitting days after receiving the report under subsection (1), the Minister must present to the House of Representatives a copy of the report that—
   (a) accords with any directions given under subsection (4); and
-  (b) includes the statement on warrants required by section 4K; and
+  (b) includes the statement on warrants required by section 4K.
   (c)
-(4) Before presenting a copy of the report to the House of Representatives under subsection (3), the Minister may direct that any material (other than the statements referred to in subsection (3)(b) and section 45E(1)(c)(i) of the Public Finance Act 1989) be deleted from the report, if the Minister considers that the material is likely—
+(4) Before presenting a copy of the report to the House of Representatives under subsection (3), the Minister may direct that any material (other than the statements referred to in subsection (3)﻿(b) and section 45E(1)﻿(c)﻿(i) of the Public Finance Act 1989) be deleted from the report, if the Minister considers that the material is likely—
   (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
   (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the government of any other country or any agency of such a government; or
   (c) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by any international organisation; or
@@ -358,7 +492,7 @@ The Commissioner must give written notice to the Prime Minister of all interests
   (a) there is a vacancy in the office of Commissioner; or
   (b) the Commissioner is absent from New Zealand; or
   (c) the Commissioner is unable, for any reason, to perform the functions of the Commissioner.
-(2) When this section applies, the references to the Commissioner in sections 4A and 4F must be read as references to the Attorney-General (but not to the Solicitor-General).
+(2) When this section applies, the references to the Commissioner in sections 4A, 4F, 4IB, and 4IE must be read as references to the Attorney-General (but not to the Solicitor-General).
 
 ### 6 Officers and employees
 (1) Subject to the provisions of this Act, the Director may, on behalf of the Government of New Zealand,—
@@ -394,8 +528,8 @@ The appointment of the Director, and the employment of an officer of the Securit
 
 ### 12A Prohibition on unauthorised disclosure of information
 (1) An officer or employee of the Security Intelligence Service, or a former officer or employee of the Service, shall not disclose or use any information gained by or conveyed to him through his connection with the Service otherwise than in the strict course of his official duties or as authorised by the Minister.
-(2) A person who, by any intelligence warrant, is authorised to intercept or seize any communication or to undertake electronic tracking, or is requested to give any assistance in making any such interception or seizure or electronic tracking, or to make the services of other persons available to the Security Intelligence Service, shall not disclose the existence of the warrant, or disclose or use any information gained by or conveyed to him when acting pursuant to the warrant, otherwise than as authorised by the warrant or by the Minister or the Director.
-(3) A person who acquires knowledge of any information knowing that it was gained as a result of any interception or seizure, or electronic tracking, in accordance with an intelligence warrant shall not knowingly disclose that information otherwise than in the course of his duty.
+(2) A person who, by any intelligence warrant, visual surveillance warrant, or authorisation under section 4ID(1), is authorised to intercept or seize any communication or to undertake electronic tracking, or is requested to give any assistance in making any such interception or seizure or electronic tracking, or to make the services of other persons available to the Security Intelligence Service, shall not disclose the existence of the warrant, or disclose or use any information gained by or conveyed to him when acting pursuant to the warrant, otherwise than as authorised by the warrant or by the Minister or the Director.
+(3) A person who acquires knowledge of any information knowing that it was gained as a result of any interception or seizure, or electronic tracking, in accordance with an intelligence warrant, visual surveillance warrant, or authorisation under section 4ID(1) shall not knowingly disclose that information otherwise than in the course of his duty.
 (4) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $2,000 who fails to comply with or acts in contravention of the foregoing provisions of this section.
 
 ### 13 Personation
