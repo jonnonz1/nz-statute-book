@@ -1,5 +1,5 @@
 # Crimes of Torture Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-12-12_
 
 > Title
 
@@ -114,6 +114,7 @@ In this Part, unless the context otherwise requires,—
     (d) a hospital:
     (e) a secure facility as defined in section 9(2) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
     (f) a residence established under section 364 of the Children, Young Persons, and Their Families Act 1989:
+    (fa) a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014:
     (g) premises approved under the Immigration Act 2009:
     (h) a service penal establishment as defined in section 2 of the Armed Forces Discipline Act 1971
   - **Subcommittee** means the Subcommittee on Prevention of Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment of the Committee against Torture, established in accordance with Part II of the Optional Protocol.
