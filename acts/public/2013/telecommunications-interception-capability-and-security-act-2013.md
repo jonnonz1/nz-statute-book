@@ -1,5 +1,5 @@
 # Telecommunications (Interception Capability and Security) Act 2013
-_Consolidation as at 2013-11-11_
+_Consolidation as at 2014-12-12_
 
 ### 1 Title
 This Act is the Telecommunications (Interception Capability and Security) Act 2013.
@@ -53,7 +53,7 @@ This Act is the Telecommunications (Interception Capability and Security) Act 20
   - **intercept ready** , in relation to a network or service, means the capability described in section 11
   - **interception warrant** means a warrant that is issued under any of the following enactments:
     (a) section 53 of the Search and Surveillance Act 2012:
-    (b) section 4A(1) or (2) of the New Zealand Security Intelligence Service Act 1969:
+    (b) section 4A(1) or (2), 4IB(1) or (2), or 4ID(1) of the New Zealand Security Intelligence Service Act 1969:
     (c) section 15A(1)(a) of the Government Communications Security Bureau Act 2003
   - **law enforcement agency** means—
     (a) the New Zealand Police; or
