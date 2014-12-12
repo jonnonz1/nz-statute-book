@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2014-04-14_
+_Consolidation as at 2014-12-12_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -28,7 +28,7 @@ The purpose of this Act is to promote access to justice by establishing a system
   - **civil proceedings** includes—
     (a) proceedings under the Marriage Act 1955, the Adoption Act 1955, the Domestic Actions Act 1975, the Property (Relationships) Act 1976, the Family Proceedings Act 1980, the Domestic Violence Act 1995, the Care of Children Act 2004, or subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006; and
     (b) proceedings under the Children, Young Persons, and Their Families Act 1989, other than proceedings in respect of an offence; and
-    (c) despite paragraph (b), proceedings under Part 2 of the Children, Young Persons, and Their Families Act 1989 on the ground specified in section 14(1)(e) of that Act
+    (c) despite paragraph (b), proceedings under Part 2 of the Children, Young Persons, and Their Families Act 1989 on the ground specified in section 14(1)﻿(e) of that Act
   - **Commissioner** means the Legal Services Commissioner appointed under section 70
   - **community legal services** means any 1 or more of the following services that a community law centre provides under a contract between the centre and the Secretary:
     (a) legal services:
@@ -88,17 +88,18 @@ The purpose of this Act is to promote access to justice by establishing a system
     (a) under section 47 in respect of certain proceedings before the Waitangi Tribunal; or
     (b) by a patient or proposed patient in respect of proceedings under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
     (c) by a care recipient or proposed care recipient in respect of proceedings under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
+    (ca) by a person who is a respondent to an application under the Public Safety (Public Protection Orders) Act 2014, or who is subject to an order under that Act, in respect of an application under that Act; or
     (d) in respect of proceedings under the Protection of Personal and Property Rights Act 1988; or
     (e) by a victim in respect of—
       (i) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; or
-      (ii) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)(i)) that concerns an offender and is a hearing at which the victim may appear as of right or with the Board’s leave; or
+      (ii) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)﻿(i)) that concerns an offender and is a hearing at which the victim may appear as of right or with the Board’s leave; or
       (iii) any victims' claims proceedings; or
     (f) to enable—
       (i) a person to apply for a protection order under Part 2 of the Domestic Violence Act 1995, or an order relating to property under Part 3 of that Act; or
       (ii) a person who has applied for an order described in subparagraph (i) to appeal, or respond to an appeal, against the determination of the person's application; or
     (g) in respect of a proceeding under Part 2 or 3A of the Children, Young Persons, and Their Families Act 1989; or
-    (h) in respect of a proceeding that is specified in section 7(1)(j) to (n) and that involves, or is connected with, the recognition of a person as a refugee or protected person
-  - **specified legal services** means legal services specified by the Secretary under section 68(2)(b)
+    (h) in respect of a proceeding that is specified in section 7(1)﻿(j) to (n) and that involves, or is connected with, the recognition of a person as a refugee or protected person
+  - **specified legal services** means legal services specified by the Secretary under section 68(2)﻿(b)
   - **Tribunal** means the Legal Aid Tribunal established under section 62
   - **user charge** means the amount that aided persons are required to pay by section 18A
   - **victim** —
@@ -110,7 +111,7 @@ The purpose of this Act is to promote access to justice by establishing a system
     (b) despite paragraph (a), if an offence is committed by a person, does not include another person charged (whether as a principal or party or accessory after the fact or otherwise) with the commission of, or convicted or found guilty of, or who pleads guilty to,—
       (i) that offence; or
       (ii) an offence relating to the same incident or series of incidents as that crime or offence
-  - **victims' claims proceedings** means proceedings of the kind specified in section 7(1)(r).
+  - **victims' claims proceedings** means proceedings of the kind specified in section 7(1)﻿(r).
 (2) The assistance described in subparagraphs (i), (iii), and (iv) of paragraph (a) of the definition of legal services in subsection (1) does not apply to legal aid for proceedings before the Waitangi Tribunal.
 (3) For the purposes of the definitions of offender and victim in subsection (1), the terms child, immediate family, incapable, offence, and young person have the meanings given to them in section 4 of the Victims' Rights Act 2002.
 (4) In this Act, a reference to an application by a person or a grant to a person includes a reference to an application made by one person on behalf of another, or a grant made in respect of a person other than the person to whom the grant is made.
@@ -129,7 +130,7 @@ Legal aid may be granted in respect of the following criminal matters:
   (b) appeals to the Judicial Committee of the Privy Council in criminal proceedings, where the Attorney-General certifies that a question of law of exceptional public importance is involved and that the grant of criminal legal aid is desirable in the public interest:
   (c) proceedings before the New Zealand Parole Board that—
     (i) are held under section 27, 65, or 107 of the Parole Act 2002 (which relate to postponement orders, recall orders, and orders under section 107 of that Act); or
-    (ii) otherwise concern an offender who is entitled, under section 49(3)(c) of the Parole Act 2002, to be represented by counsel in the proceeding:
+    (ii) otherwise concern an offender who is entitled, under section 49(3)﻿(c) of the Parole Act 2002, to be represented by counsel in the proceeding:
   (d) proceedings in the High Court on an application under section 68 of the Parole Act 2002 (which relates to appeals against postponement orders, section 107 orders, and final recall orders).
 
 ### 7 Proceedings for which legal aid may be granted: civil matters
@@ -149,7 +150,7 @@ Legal aid may be granted in respect of the following criminal matters:
   (f) proceedings before the Waitangi Tribunal:
   (g) proceedings before the Social Security Appeal Authority:
   (h) proceedings before the Tenancy Tribunal:
-  (i) proceedings before a body established under section 63(1)(a)(i) of the Housing Restructuring and Tenancy Matters Act 1992 to hear appeals under section 62 of that Act:
+  (i) proceedings before a body established under section 63(1)﻿(a)﻿(i) of the Housing Restructuring and Tenancy Matters Act 1992 to hear appeals under section 62 of that Act:
   (ia) proceedings before any body established under the Housing Restructuring and Tenancy Matters Act 1992 to hear appeals under sections 132 to 135 of that Act or proceedings before any body established under that Act to hear appeals under sections 183 to 188 of that Act:
   (j) proceedings before the Immigration and Protection Tribunal, as established by the Immigration Act 2009, in respect of appeals against decisions to decline to grant recognition as a refugee or a protected person, or decisions to cease to recognise a person as a refugee or a protected person, as provided in sections 194(1) and 195 of that Act, or against liability for deportation arising under section 162 of that Act:
   (k) the processing, under Part 5 of the Immigration Act 2009, of any claim for recognition as a refugee or a protected person:
@@ -160,27 +161,27 @@ Legal aid may be granted in respect of the following criminal matters:
   (p) all applications, submissions, and appeals to any Council or body in any case where an appeal in relation to its decision lies to the Environment Court:
   (q) proceedings before the tribunal under the Weathertight Homes Resolution Services Act 2006:
   (r) proceedings before a Tribunal under subpart 2 of Part 2 of the Prisoners' and Victims' Claims Act 2005 in respect of 1 or more victims' claims under that subpart.
-(2) To avoid any doubt, subsection (1)(e)(v) applies, without limitation, to the following proceedings:
+(2) To avoid any doubt, subsection (1)﻿(e)﻿(v) applies, without limitation, to the following proceedings:
   (a) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; and
-  (b) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)(i)) that concerns an offender and is a hearing at which a victim may appear as of right or with the Board's leave.
+  (b) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)﻿(i)) that concerns an offender and is a hearing at which a victim may appear as of right or with the Board's leave.
 (3) Paragraphs (o) and (p) of subsection (1) do not restrict any other paragraph of that subsection.
 (3A) Despite subsection (1), legal aid is only available in proceedings under the Care of Children Act 2004 that are to be heard and determined in a Family Court if—
   (a) a lawyer is acting in the proceedings as permitted by any of the following sections of that Act:
     (i) section 7A(2); or
-    (ii) section 7A(4)(b)(ii) or (iii); or
-    (iii) section 7A(4)(c); or
+    (ii) section 7A(4)﻿(b)﻿(ii) or (iii); or
+    (iii) section 7A(4)﻿(c); or
     (iv) section 7A(6); or
-  (b) a lawyer is acting in the proceedings as permitted by section 7A(4)(a) or (b)(i) of that Act, but the proceedings are not of a kind specified in subsection (3B); or
+  (b) a lawyer is acting in the proceedings as permitted by section 7A(4)﻿(a) or (b)﻿(i) of that Act, but the proceedings are not of a kind specified in subsection (3B); or
   (c) a lawyer is providing legal advice to a party who—
     (i) has indicated at a settlement conference an intention to consent to the making of an order settling 1 or more of the issues in dispute in the proceedings; and
     (ii) has been advised by the Judge to obtain legal advice before that order is made.
-(3B) The kinds of proceedings referred to in subsection (3A)(b) are—
+(3B) The kinds of proceedings referred to in subsection (3A)﻿(b) are—
   (a) proceedings commenced by an application that—
     (i) affects the applicant only; or
     (ii) is in respect of a routine matter; or
     (iii) is about a matter that does not affect the interests of any other person; or
   (b) proceedings where every person in respect of whom the order is sought has either died or cannot be found.
-(4) Despite subsection (1), but subject to subsection (5)(e), legal aid is not available in proceedings under Part 4 of the Family Proceedings Act 1980 (which relates to proceedings relating to the status of marriage or civil union) unless the Commissioner is of the opinion—
+(4) Despite subsection (1), but subject to subsection (5)﻿(e), legal aid is not available in proceedings under Part 4 of the Family Proceedings Act 1980 (which relates to proceedings relating to the status of marriage or civil union) unless the Commissioner is of the opinion—
   (a) that the unusual complexity of the case requires that the applicant be legally represented; or
   (b) that the applicant would suffer substantial hardship if aid were not granted.
 (5) Despite subsection (1), legal aid is not available in any of the following proceedings:
@@ -213,10 +214,10 @@ Legal aid may be granted in respect of the following criminal matters:
     (viii) in respect of an appeal, the grounds of the appeal; and
   (b) may have regard to any other circumstances that, in the opinion of the Commissioner, are relevant.
 (3) When determining whether an applicant has sufficient means to enable him or her to obtain legal assistance, the Commissioner must, except as provided under section 9(1), have regard to the applicant's income and disposable capital as set out in Schedule 1.
-(4) Subsection (1)(c)(i) does not apply in respect of—
+(4) Subsection (1)﻿(c)﻿(i) does not apply in respect of—
   (a) an appeal; or
   (b) a proceeding to which section 6(c) applies.
-(5) Despite subsection (1)(a), the Commissioner may not grant legal aid to a child or a young person (as those terms are defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) in respect of any proceedings against that child or young person for an offence, if those proceedings are heard in a Youth Court.
+(5) Despite subsection (1)﻿(a), the Commissioner may not grant legal aid to a child or a young person (as those terms are defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) in respect of any proceedings against that child or young person for an offence, if those proceedings are heard in a Youth Court.
 
 ### 9 Prescribed offences
 (1) If an applicant is charged with or convicted of a prescribed offence, the Commissioner must determine, in the manner set out in regulations, whether the applicant has sufficient means to enable him or her to obtain legal assistance unless subsection (2) applies.
@@ -261,15 +262,15 @@ Legal aid may be granted in respect of the following criminal matters:
 
 ### 11 When legal aid may be granted: civil matters continued
 (1) To avoid doubt, legal aid in respect of civil proceedings is not available to any body of persons, whether corporate or unincorporate, except as provided in sections 10(1) and 47.
-(2) Section 10(2) and (4)(a) and (b) do not apply to—
+(2) Section 10(2) and (4)﻿(a) and (b) do not apply to—
   (a) applications for legal aid in respect of victims' claims proceedings; or
   (b) applications for legal aid by a victim in respect of—
     (i) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; or
-    (ii) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)(i)) that concerns an offender and is a hearing at which the victim may appear as of right or with the Board's leave; or
-  (c) applications for legal aid by a person of a class specified in regulations as exempted from the application of section 10(2) and (4)(a) and (b); or
-  (d) applications for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of section 10(2) and (4)(a) and (b).
-(3) Section 10(1), (2), and (4)(a) do not apply to applications for legal aid under section 47 in respect of certain proceedings before the Waitangi Tribunal.
-(4) Section 10(4)(d)(i) does not apply to original proceedings under an enactment specified in Schedule 2.
+    (ii) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)﻿(i)) that concerns an offender and is a hearing at which the victim may appear as of right or with the Board's leave; or
+  (c) applications for legal aid by a person of a class specified in regulations as exempted from the application of section 10(2) and (4)﻿(a) and (b); or
+  (d) applications for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of section 10(2) and (4)﻿(a) and (b).
+(3) Section 10(1), (2), and (4)﻿(a) do not apply to applications for legal aid under section 47 in respect of certain proceedings before the Waitangi Tribunal.
+(4) Section 10(4)﻿(d)﻿(i) does not apply to original proceedings under an enactment specified in Schedule 2.
 (5) The Commissioner may grant legal aid to an applicant in respect of a civil proceeding under the Criminal Proceeds (Recovery) Act 2009 if the Commissioner considers that the interests of justice require that the applicant be granted legal aid.
 (6) In considering whether the interests of justice require that an applicant be granted legal aid under subsection (5), the Commissioner must have regard to—
   (a) whether there are any serious consequences for the applicant if legal aid is not granted; and
@@ -288,8 +289,8 @@ Legal aid may be granted in respect of the following criminal matters:
     (i) was unlawfully in New Zealand in terms of that Act; or
     (ii) not having been granted legal aid for the purpose of any particular proceedings in New Zealand before the person arrived in New Zealand, was lawfully in New Zealand only by virtue of being the holder of a temporary permit or a limited purposes permit.
 (2) Subsection (1) does not apply in respect of—
-  (a) proceedings referred to in subsection (1)(b) for which a person was granted legal aid before the date fixed under section 2(1) of the Immigration Act 2009 for the coming into force of that Act; or
-  (b) proceedings specified in section 7(1)(j) to (n) of this Act.
+  (a) proceedings referred to in subsection (1)﻿(b) for which a person was granted legal aid before the date fixed under section 2(1) of the Immigration Act 2009 for the coming into force of that Act; or
+  (b) proceedings specified in section 7(1)﻿(j) to (n) of this Act.
 (3) The Commissioner must refuse to grant legal aid to an applicant who applies for legal aid in connection with a civil proceeding in which he or she is concerned in a representative, fiduciary, or official capacity, unless it appears to the Commissioner that,—
   (a) if proceedings were brought, the court would be likely to order that the cost of the proceedings be paid out of any property, estate, or fund; and
   (b) if that happened, the property, estate, or fund would be diminished or extinguished by the order and any person beneficially interested would suffer hardship as a result.
@@ -332,13 +333,13 @@ A person who has any form of indemnification or insurance in respect of the lega
   (b) grant legal aid on an interim basis until a decision is made under paragraph (a) or (d); or
   (c) request further information from the applicant or the proposed lead provider, or both; or
   (d) decline the application.
-(2) When granting legal aid under subsection (1)(a) or (b), the Commissioner—
+(2) When granting legal aid under subsection (1)﻿(a) or (b), the Commissioner—
   (a) must specify the conditions, as described in section 18, attaching to the grant; and
   (b) must identify the lead provider; and
   (c) may specify a maximum grant.
 (3) If the Commissioner grants legal aid on an interim basis to a person,—
   (a) payments made under the grant cease—
-    (i) when the Commissioner decides the application under subsection (1)(a) or (d); or
+    (i) when the Commissioner decides the application under subsection (1)﻿(a) or (d); or
     (ii) if the Commissioner considers it appropriate that the payments should cease; and
   (b) if payments made under the grant have ceased under paragraph (a),—
     (i) section 31 does not apply to it; and
@@ -373,7 +374,7 @@ If the Commissioner has declined an application for legal aid under this Act, th
   (b) apply to an amendment under section 28(4) of the maximum grant under section 23(4) of legal aid in respect of proceedings of that kind.
 (6) The condition in subsection (2) does not apply to a grant of legal aid made on an interim basis if the Commissioner considers that the grant should not be subject to that condition.
 (7) This section does not apply to—
-  (a) applications for legal aid that come within any of paragraphs (a) to (e)(ii) of the definition of specified application in section 4(1); or
+  (a) applications for legal aid that come within any of paragraphs (a) to (e)﻿(ii) of the definition of specified application in section 4(1); or
   (b) applications for legal aid by a person of a class specified in regulations as exempted from the application of this section; or
   (c) applications for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of this section; or
   (d) a grant made in the manner authorised by section 16A(1); or
@@ -420,8 +421,8 @@ If the Commissioner has declined an application for legal aid under this Act, th
   (a) the cost of services minus—
     (i) any interim repayment paid by the aided person; and
     (ii) any deductions allowed by the Commissioner in accordance with this Act or the regulations:
-  (b) the prescribed repayment amount minus the amounts referred to in paragraph (a)(i) and (ii).
-(5) The prescribed repayment amount referred to in subsection (2)(a) is zero in respect of victims' claims proceedings.
+  (b) the prescribed repayment amount minus the amounts referred to in paragraph (a)﻿(i) and (ii).
+(5) The prescribed repayment amount referred to in subsection (2)﻿(a) is zero in respect of victims' claims proceedings.
 (6) Subsection (4) does not apply to victims' claims proceedings.
 (7) If an aided person was granted legal aid for a prescribed offence and the Commissioner is required by section 9(2) to redetermine the person's means, the cost of services for the purposes of calculating a repayment under subsection (4) includes the cost of services calculated under the grant before the aided person's means were redetermined.
 
@@ -564,7 +565,7 @@ At any time, the total amount payable to the Commissioner by an aided person in 
 (1) The Commissioner may, in accordance with this section,—
   (a) adjust the rate of payment of a debt by an aided person; or
   (b) require an aided person to commence or recommence payment of a debt.
-(2) The Commissioner must not make a decision under subsection (1)(a) or (b) unless—
+(2) The Commissioner must not make a decision under subsection (1)﻿(a) or (b) unless—
   (a) the Commissioner considers, in light of new information, that the decision is justified; and
   (b) reasonable efforts to reach agreement with the aided person have failed.
 (3) No adjustment to the rate of payment of a debt may be made until the Commissioner—
@@ -752,7 +753,7 @@ The provisions of section 115 apply to a deduction notice given to a third party
 (1) The Commissioner must refund any amount paid by an aided person to the Commissioner that is—
   (a) more than the aided person is or was required to pay; or
   (b) more than the cost of services.
-(2) In assessing the cost of services for the purposes of subsection (1)(b), any interest paid under section 40 must be disregarded.
+(2) In assessing the cost of services for the purposes of subsection (1)﻿(b), any interest paid under section 40 must be disregarded.
 
 ### Subpart 5 — Award of costs in civil proceedings
 
@@ -779,7 +780,7 @@ The provisions of section 115 apply to a deduction notice given to a third party
   (a) the conduct of the parties to the proceedings:
   (b) the court's findings under section 45(2):
   (c) the hardship that would be caused to the applicant if the costs were not paid by the Commissioner.
-(4) For the purposes of subsection (3)(c), the Commissioner may require any person to furnish information on the financial circumstances and needs of the applicant.
+(4) For the purposes of subsection (3)﻿(c), the Commissioner may require any person to furnish information on the financial circumstances and needs of the applicant.
 (5) If, having regard to the matters specified in subsection (3) and to any information received under subsection (4), and to all relevant circumstances, the Commissioner considers that any payment should be made by the Commissioner to the applicant, the Commissioner may determine accordingly and must make the payment.
 (6) The Commissioner may recover any payment made under this section from the aided person as a debt due to the Commissioner, unless the payment relates to an order made under section 45(5).
 (7) The Commissioner may make a payment under this section to a lawyer who is not a provider under this Act.
@@ -851,7 +852,7 @@ The provisions of section 115 apply to a deduction notice given to a third party
   (b) any conditions imposed under section 18 or 47 on a grant of legal aid:
   (c) any amount payable by an aided person, whether as an interim repayment or a repayment, under a grant of legal aid:
   (d) the maximum grant under a grant of a legal aid:
-  (da) any decision to depart from, or to refuse to depart from, fees prescribed by regulations under section 114(1)(cc):
+  (da) any decision to depart from, or to refuse to depart from, fees prescribed by regulations under section 114(1)﻿(cc):
   (e) the withdrawal of, or amendment to, a grant of legal aid:
   (f) the enforcement of any condition imposed under section 18 or 47 on a grant of legal aid:
   (g) any changes to, or dealings with, a charge on property arising out of a grant of legal aid:
@@ -974,7 +975,7 @@ Part 1 of Schedule 3 contains further provisions that apply to the Tribunal.
   (h) exercise any other power conferred on the Secretary by this Act or any other enactment.
 
 ### 69 Methods of delivery of legal services
-Without limiting section 68(2)(c), the methods of delivery of legal services may include—
+Without limiting section 68(2)﻿(c), the methods of delivery of legal services may include—
   (a) making arrangements, subject to the Lawyers and Conveyancers Act 2006, for the services of non-lawyers to be made available:
   (b) entering into agreements with individual lawyers, groups of lawyers, or law firms for the provision of legal services:
   (c) employing salaried lawyers to provide legal services:
@@ -997,7 +998,7 @@ Without limiting section 68(2)(c), the methods of delivery of legal services may
     (ii) to oversee the conduct of legal proceedings conducted by salaried lawyers:
     (iii) to manage the performance of salaried lawyers:
   (e) to carry out any other function conferred on the Commissioner by the Minister, by the Secretary, or by or under this Act or any other enactment.
-(2) The Commissioner must act independently when performing any function stated in subsection (1)(a) to (d).
+(2) The Commissioner must act independently when performing any function stated in subsection (1)﻿(a) to (d).
 
 ### 72 Commissioner may delegate powers, functions, or duties
 (1) The Commissioner may, as he or she thinks fit, delegate to any person any of his or her powers, functions, or duties under this Act or any other enactment.
@@ -1127,15 +1128,15 @@ Part 3 of Schedule 3 contains further provisions that apply to the Review Author
   (c) the Review Authority has assigned a decision or a class of decision to the Deputy Review Authority in the interests of avoiding—
     (i) delay; or
     (ii) the perception of, or any actual, conflict of interest or other impropriety.
-(2) If there are 2 or more Deputy Review Authorities, the Review Authority must nominate 1 Deputy Review Authority (the nominated deputy) to exercise the power under subsection (1)(c) and that nominated deputy may then exercise that power when the Review Authority is absent from duty (for any reason) or when there is a vacancy in the office of the Review Authority.
+(2) If there are 2 or more Deputy Review Authorities, the Review Authority must nominate 1 Deputy Review Authority (the nominated deputy) to exercise the power under subsection (1)﻿(c) and that nominated deputy may then exercise that power when the Review Authority is absent from duty (for any reason) or when there is a vacancy in the office of the Review Authority.
 (3) A nomination—
   (a) must be in writing; and
   (b) is revocable at any time, in writing, by the person who made it or by his or her successor in office; and
   (c) until revoked, continues in force according to its terms even if the person who made it has ceased to hold the office of Review Authority.
 (4) Despite subsection (1), if, during the absence of the Review Authority from duty (for any reason) or a vacancy in the office of the Review Authority, there are 2 or more Deputy Review Authorities, a Deputy Review Authority may review a decision in accordance with subsection (1) only if—
   (a) that Deputy Review Authority is the nominated deputy; or
-  (b) the decision has been, or is part of a class of decision that has been, assigned to that Deputy Review Authority under subsection (1)(c).
-(5) The fact that a Deputy Review Authority purports to exercise or perform, or to have exercised or performed, any function, duty, or power under this section or under an assignment under subsection (1)(c) or under a nomination under subsection (2) is, in the absence of proof to the contrary, sufficient evidence of the person’s authority to do so.
+  (b) the decision has been, or is part of a class of decision that has been, assigned to that Deputy Review Authority under subsection (1)﻿(c).
+(5) The fact that a Deputy Review Authority purports to exercise or perform, or to have exercised or performed, any function, duty, or power under this section or under an assignment under subsection (1)﻿(c) or under a nomination under subsection (2) is, in the absence of proof to the contrary, sufficient evidence of the person’s authority to do so.
 
 **Quality assurance checks**
 
@@ -1234,7 +1235,7 @@ The Commissioner may examine a claim or part of a claim by a provider of legal a
   (b) an aided person has requested an examination of the cost of services under section 90.
 (4) The Commissioner must decline—
   (a) any claim to the extent that it exceeds the maximum grant specified in the grant; and
-  (b) where a claim or part of a claim is for, or is determined by the Commissioner to be for, work of a kind for which a fee is prescribed by regulations pursuant to section 114(1)(ca) or authorised pursuant to section 114(1)(cc), so much of that claim as exceeds the fee so prescribed or authorised; and
+  (b) where a claim or part of a claim is for, or is determined by the Commissioner to be for, work of a kind for which a fee is prescribed by regulations pursuant to section 114(1)﻿(ca) or authorised pursuant to section 114(1)﻿(cc), so much of that claim as exceeds the fee so prescribed or authorised; and
   (c) any claim to the extent to which it is for a disbursement of a type not approved for payment by the Commissioner; and
   (d) any claim or any part of a claim that has been determined to be excessive or inaccurate by an examination under subsection (2); and
   (e) if the user charge has not been paid by the aided person, an amount of the claim that is the equivalent of that charge.
@@ -1251,7 +1252,7 @@ The Commissioner may examine a claim or part of a claim by a provider of legal a
 (2) The Secretary may—
   (a) place a hold on any payments to be made to the provider that relate to the matter being investigated if the Secretary considers it necessary to do so; and
   (b) notify the Commissioner of the pending investigation by the performance review committee if the Secretary considers it appropriate to do so.
-(3) On receiving a notice under subsection (2)(b), the Commissioner must cease assigning the provider to aided persons and assign another provider to the aided persons that the provider is currently assigned to.
+(3) On receiving a notice under subsection (2)﻿(b), the Commissioner must cease assigning the provider to aided persons and assign another provider to the aided persons that the provider is currently assigned to.
 (4) A person’s approval to provide legal aid services or specified legal services is not affected by any act done under subsection (2) or (3).
 
 ### 102 Sanctions that may be imposed by Secretary
@@ -1304,7 +1305,7 @@ Except as otherwise authorised by the Secretary, providers must pay all disburse
     (ii) arises by operation of section 36; and
   (b) has a duty not to do or permit anything that would or might effect the transfer of property subject to a charge in favour of the Commissioner; and
   (c) must advise the Commissioner if he or she is aware that the aided person has avoided, is avoiding, or is attempting to avoid making payments to the Commissioner from proceeds of proceedings.
-(3) For the purposes of subsection (2)(c), an aided person is deemed to have waived any legal professional privilege that might otherwise prevent a person to whom this section applies from complying with subsection (2)(c).
+(3) For the purposes of subsection (2)﻿(c), an aided person is deemed to have waived any legal professional privilege that might otherwise prevent a person to whom this section applies from complying with subsection (2)﻿(c).
 (4) If a person to whom this section applies fails to fulfil his or her duties under this section, the money that should have been paid to the Commissioner under a charge or from proceeds of proceedings may be deducted from any money owing by the Commissioner to that person.
 
 ### Subpart 5 — Miscellaneous provisions
@@ -1320,7 +1321,7 @@ Except as otherwise authorised by the Secretary, providers must pay all disburse
 (4) A person required to breach secrecy under subsection (3) must comply with the requirement made under that subsection.
 (5) Despite subsection (2), a person may disclose to the Commissioner any communication between the aided person and his or her lawyer, or sent to or by the aided person or his or her lawyer (whether or not the communication is marked confidential or without prejudice), if—
   (a) the aided person's grant of legal aid is in respect of a civil matter; and
-  (b) the purpose of the disclosure is to inform the Commissioner of matters relevant to the withdrawal or amendment of legal aid on the grounds set out in section 30(2)(d).
+  (b) the purpose of the disclosure is to inform the Commissioner of matters relevant to the withdrawal or amendment of legal aid on the grounds set out in section 30(2)﻿(d).
 (6) The Commissioner may advise any person who disclosed a communication under subsection (5) whether the grant has been withdrawn or amended.
 
 ### 109 Disclosure of privileged communications under section 92 or 96
@@ -1328,7 +1329,7 @@ Except as otherwise authorised by the Secretary, providers must pay all disburse
 (2) The production of a file, record, document, or statement or the giving of information under section 92 or 96 does not subsequently affect any legal professional privilege to which the file, record, document, statement, or information may be subject, except for the purposes of—
   (a) an audit taken under section 92 or 96; or
   (b) evidence in an investigation by the performance review committee.
-(3) Information produced for the purposes stated in subsection (2)(a) or (b) that is protected by legal professional privilege must not be used—
+(3) Information produced for the purposes stated in subsection (2)﻿(a) or (b) that is protected by legal professional privilege must not be used—
   (a) in any proceedings against the client; or
   (b) in any way that is detrimental to the client.
 
@@ -1389,7 +1390,7 @@ Every provider or former provider commits an offence and is liable on conviction
   (m) adjusting, or prescribing a method for adjusting, the maximum amount of repayments for the purposes of section 20:
   (n) prescribing the information that must be contained in a report of the Waitangi Tribunal under section 49:
   (o) exempting, in accordance with subsection (8), any specified class or classes of person or proceeding from the application of—
-    (i) section 10(2) and (4)(a) and (b):
+    (i) section 10(2) and (4)﻿(a) and (b):
     (ii) section 18 or 18A:
   (p) in relation to an approval to provide legal aid services or specified legal services,—
     (i) prescribing the criteria that must be met by a person applying for approval:
@@ -1422,13 +1423,13 @@ Regulations prescribing maximum levels of income for determining legal aid eligi
 (6)
 (7)
 Regulations exempting class of person or proceedings
-(8) No regulations may be made for the purposes of subsection (1)(o) unless the Minister is satisfied that the proposed exemption is justified on 1 or more of the following grounds:
+(8) No regulations may be made for the purposes of subsection (1)﻿(o) unless the Minister is satisfied that the proposed exemption is justified on 1 or more of the following grounds:
   (a) the proposed exemption is in the public interest:
   (b) the proposed exemption facilitates access to justice:
   (c) the proposed exemption is just and equitable in the circumstances.
 Regulations providing for transitional or savings provisions
-(9) Any transitional or savings provisions prescribed in regulations made under subsection (1)(v) are in addition to the provisions of sections 117 to 137.
-(10) All regulations made under subsection (1)(v) that are still in force on the day that is 3 years after the commencement of this section expire at the close of that day.
+(9) Any transitional or savings provisions prescribed in regulations made under subsection (1)﻿(v) are in addition to the provisions of sections 117 to 137.
+(10) All regulations made under subsection (1)﻿(v) that are still in force on the day that is 3 years after the commencement of this section expire at the close of that day.
 
 **Service**
 
@@ -1502,7 +1503,7 @@ The Crown entity that, immediately before the commencement of this Act, was know
   (c) write off the amounts secured by the charge in accordance with section 43.
 
 ### 125 References to Legal Services Board and Legal Services Agency in enactments, instruments, and registers
-On and after the commencement of this Act, every reference in any enactment (other than this Act), or in any instrument or register, to the Legal Services Board or the Legal Services Agency must be construed as a reference to the Secretary, unless the reference relates to a matter that falls within the Commissioner's functions set out in section 71(1)(a) to (d), in which case it must be construed as a reference to the Commissioner.
+On and after the commencement of this Act, every reference in any enactment (other than this Act), or in any instrument or register, to the Legal Services Board or the Legal Services Agency must be construed as a reference to the Secretary, unless the reference relates to a matter that falls within the Commissioner's functions set out in section 71(1)﻿(a) to (d), in which case it must be construed as a reference to the Commissioner.
 
 ### Subpart 2 — Transition of matters commenced, approvals granted, and funding provided under former Act
 
@@ -1667,7 +1668,7 @@ In this schedule, unless the context otherwise requires,—
     (v) an accommodation supplement payable under section 61EA of that Act; or
     (vi) a special benefit fixed under section 61G of that Act; or
     (vii) a disability allowance payable under section 69C of that Act; and
-  (d) excludes any payment payable under a welfare programme approved by the Minister under section 124(1)(d) of the Social Security Act 1964; but
+  (d) excludes any payment payable under a welfare programme approved by the Minister under section 124(1)﻿(d) of the Social Security Act 1964; but
   (e) includes any tax credit or amount received under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or Part 11A of the Income Tax Act 1976.
 (2) Subclause (1) is subject to clauses 4 and 5.
 
