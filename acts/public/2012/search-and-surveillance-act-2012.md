@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2014-12-12_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -515,7 +515,7 @@ Nothing in this Part affects the common law defence of necessity as it applies t
     (ii) recording what he or she observes or hears there (provided that the enforcement officer records only those matters that he or she could see or hear without the use of a surveillance device):
   (b) covert audio recording of a voluntary oral communication between 2 or more persons made with the consent of at least 1 of them:
   (c) activities carried out under the authority of an interception warrant issued under—
-    (i) section 4A(1) or (2) of the New Zealand Security Intelligence Service Act 1969; or
+    (i) section 4A(1) or (2), 4IB(1) or (2), or 4ID(1) of the New Zealand Security Intelligence Service Act 1969; or
     (ii) section 15A(1)(a) of the Government Communications Security Bureau Act 2003:
   (d) activities carried out by the enforcement officer's use of a surveillance device, if that use is authorised under any enactment other than this Act.
 (2) Subsection (1)(b) does not prevent an enforcement officer from applying for a warrant authorising covert audio recording in the circumstances set out in that subsection.
