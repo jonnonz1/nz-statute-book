@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2014-12-12_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -604,10 +604,12 @@ Subject to the provisions of any other enactment, every special patient shall be
 (1) In this section, unless the context otherwise requires,—
   - **institution** means—
     (a) a prison; and
-    (b) a certified institution under the Alcoholism and Drug Addiction Act 1966
+    (b) a certified institution under the Alcoholism and Drug Addiction Act 1966; and
+    (c) a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014
   - **superintendent** ,—
     (a) in relation to a prison, means the manager of that prison; and
-    (b) in relation to a certified institution under the Alcoholism and Drug Addiction Act 1966, means the chief resident officer of that institution.
+    (b) in relation to a certified institution under the Alcoholism and Drug Addiction Act 1966, means the chief resident officer of that institution; and
+    (c) in relation to a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014, means the residence manager within the meaning of that Act.
 (2) The superintendent of an institution, or any other officer of the institution authorised by the superintendent, may make an application under section 8A in respect of a person detained in the institution if the superintendent has reasonable grounds to believe that the person may be mentally disordered.
 (3) An application under subsection (2) is dealt with under Parts 1 and 2, subject to the following provisions:
   (a) if the detained person is already subject to the process described in sections 9 to 16, he or she remains subject to that process:
@@ -628,13 +630,13 @@ Subject to the provisions of any other enactment, every special patient shall be
 (5) Neither the making of an application under subsection (2) nor the making of a compulsory treatment order, in relation to a person detained in a prison, prevents the bringing of the person before a court for hearing or trial, or operates to delay the hearing or trial.
 
 ### 46 Detained persons in need of care and treatment
-If it appears to the chief executive of the Department of Corrections that any person who is detained in a prison, whether or not that person is mentally disordered, would benefit from psychiatric care and treatment available in a hospital but not available in the institution in which the person is detained, the chief executive of the Department of Corrections may, with the consent of that person, make arrangements with the Director for the person to be admitted to and detained in that hospital, and, subject to section 50, the person shall be so detained accordingly.
+If it appears to the chief executive of the Department of Corrections that any person who is detained in a prison or in a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014, whether or not that person is mentally disordered, would benefit from psychiatric care and treatment available in a hospital but not available in the institution in which the person is detained, the chief executive of the Department of Corrections may, with the consent of that person, make arrangements with the Director for the person to be admitted to and detained in that hospital, and, subject to section 50, the person shall be so detained accordingly.
 
 ### 47 Removal of certain special patients to prisons
-(1) If, in the opinion of the Director of Area Mental Health Services, a special patient detained following an application made under section 45(2) or subject to an order made under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 is fit to be released, that officer may, with the consent of the Director, direct that the special patient be taken to a prison to serve the remainder of the patient's sentence or the order applicable to the patient, or otherwise be dealt with according to law.
-(2) The Director may at any time direct that any patient who is detained in a hospital pursuant to section 46 be removed to a prison to undergo the remainder of his or her sentence or otherwise to be dealt with according to law.
-(3) Where a direction is given under subsection (1) or subsection (2), the Director shall notify the chief executive of the Department of Corrections who shall arrange for the patient to be removed to the prison within 7 days after the date of the direction unless an application is sooner made under section 8A for assessment of the patient.
-(4) If a patient who is detained under section 46 wishes to be removed to a prison to undergo the remainder of his or her sentence or otherwise to be dealt with according to law, the Director of Area Mental Health Services shall make the necessary arrangements as soon as practicable, unless an application is sooner made under section 8A for assessment of the patient.
+(1) If, in the opinion of the Director of Area Mental Health Services, a special patient detained following an application made under section 45(2) or subject to an order made under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 is fit to be released, that officer may, with the consent of the Director, direct that the special patient be taken to a prison or, as the case requires, a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014 to serve the remainder of the patient's sentence or the order applicable to the patient, or otherwise be dealt with according to law.
+(2) The Director may at any time direct that any patient who is detained in a hospital pursuant to section 46 be removed to a prison or, as the case requires, a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014 to undergo the remainder of his or her sentence or otherwise to be dealt with according to law.
+(3) Where a direction is given under subsection (1) or subsection (2), the Director shall notify the chief executive of the Department of Corrections who shall arrange for the patient to be removed to the prison or, as the case requires, the residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014 within 7 days after the date of the direction unless an application is sooner made under section 8A for assessment of the patient.
+(4) If a patient who is detained under section 46 wishes to be removed to a prison or, as the case requires, a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014 to undergo the remainder of his or her sentence or otherwise to be dealt with according to law, the Director of Area Mental Health Services shall make the necessary arrangements as soon as practicable, unless an application is sooner made under section 8A for assessment of the patient.
 (5) Any direction given under this section in respect of any patient shall be sufficient authority for the removal of the patient to the institution specified in the direction and for the reception of the patient there; and on such removal, the patient shall be deemed to have been released from assessment and treatment as a patient under this Act.
 
 ### 47A Removal of certain intellectually disabled patients to facilities
@@ -665,7 +667,8 @@ If it appears to the chief executive of the Department of Corrections that any p
   (d) liability to detention under a sentence ceases on the earliest of the following dates:
     (i) the date specified in an order of the New Zealand Parole Board that the person be released on parole or compassionate leave:
     (ii) the release date (if any) of the person's sentence, as defined under Part 1 of the Parole Act 2002:
-    (iii) the date on which the sentence is determined.
+    (iii) the date on which the sentence is determined:
+    (iv) in the case of a person subject to a public protection order under the Public Safety (Public Protection Orders) Act 2014, the date on which that order is cancelled.
 (2) The term of a sentence applicable to a person immediately before his or her admission to hospital—
   (a) continues to run while the person is in a hospital or is on leave; and
   (b) ceases to run if, before the person's liability to detention under the sentence ceases,—
