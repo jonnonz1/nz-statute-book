@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2014-12-12_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -1057,6 +1057,7 @@ Every one is liable to imprisonment for a term not exceeding 7 years who by forc
   (a) having been convicted of an offence, escapes from any lawful custody in which he or she may be under the conviction; or
   (b) whether convicted or not, escapes from any prison in which he or she is lawfully detained; or
   (ba) being subject to an order or direction made under any of sections 38, 42, and 44 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 or section 169 of the Criminal Procedure Act 2011, escapes from the place in which he or she is required to stay under the order; or
+  (bb) being subject to a public protection order made under the Public Safety (Public Protection Orders) Act 2014, escapes from the residence in which he or she is required to stay under that Act; or
   (c) being in lawful custody otherwise than aforesaid, escapes from such custody.
 (2) For the purposes of this section, custody under an illegal warrant or other irregular process shall be deemed to be lawful.
 
