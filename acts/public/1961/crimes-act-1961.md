@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2014-12-12_
+_Consolidation as at 2014-12-15_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -2169,6 +2169,15 @@ Every one who commits blackmail is liable to imprisonment for a term not exceedi
     (ii) is reckless as to whether it is false in a material particular; or
   (b) an omission to disclose a material particular, with intent to deceive any person, in circumstances where there is a duty to disclose it; or
   (c) a fraudulent device, trick, or stratagem used with intent to deceive any person.
+
+### 240A Application of section 240 to match-fixing
+(1) For the purposes of section 240, deception includes any act or omission that is done or omitted with intent to influence a betting outcome of an activity of a kind to which subsection (2) applies by manipulating—
+  (a) the overall result of the activity; or
+  (b) any event within the activity.
+(2) This subsection applies to activities of the following kinds:
+  (a) sporting competitions, games, matches, races, and rallies involving human participants (whether or not they also involve equipment, horses, vehicles, or vessels):
+  (b) dog races.
+(3) This section does not limit or affect the generality of section 240.
 
 ### 241 Punishment of obtaining by deception or causing loss by deception
 Every one who is guilty of obtaining by deception or causing loss by deception is liable as follows:
