@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2014-12-30_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -3455,7 +3455,7 @@ A Judge or Registrar may, subject to any terms or conditions that the Judge or R
   (e) prescribing the court fees to be paid in respect of any proceedings or any processes to which this Act applies:
   (f) prescribing the fees, travelling allowances, and expenses payable to interpreters and to persons giving evidence in proceedings to which this Act applies:
   (g) prescribing the solicitors' fees payable by parties in proceedings to which this Act applies:
-  (h) providing for information about proceedings under this Act to be transferred between courts, where that information is relevant to proceedings under the Domestic Violence Act 1995 or the Harassment Act 1997, including (without limitation) provision for such information to be transferred between—
+  (h) providing for information about proceedings under this Act to be transferred between courts, where that information is relevant to proceedings under the Domestic Violence Act 1995, the Harassment Act 1997, or the Victims' Orders Against Violent Offenders Act 2014, including (without limitation) provision for such information to be transferred between—
     (i) different courts; or
     (ii) different divisions of the same court; or
     (iii) courts exercising civil jurisdiction and courts exercising criminal jurisdiction; or
