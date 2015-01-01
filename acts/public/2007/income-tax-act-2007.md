@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2015-01-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1992,8 +1992,8 @@ Some definitions
     (e) a payment under a policy of personal accident or sickness insurance under section 188(1)(a) of the Accident Insurance Act 1998, as it was immediately before its repeal by section 7 of the Accident Insurance Amendment Act 2000, of compensation for loss of earnings or loss of potential earning capacity as it relates to work-related personal injury:
     (f) a payment under the Accident Compensation Act 2001 paid by the Corporation as defined in that Act, of weekly compensation that is not recovered or recoverable under section 248 of that Act:
     (g) a payment under section 81(1)(b) of the Accident Compensation Act 2001 paid by the Corporation as defined in that Act, for attendant care as defined in schedule 1, clause 12 of that Act:
-    (h) a personal service rehabilitation payment for a person under the Accident Compensation Act 2001
-    (i) a payment of weekly compensation made under subpart 5 of Part 4 of the Veterans' Support Act 2014.
+    (h) a personal service rehabilitation payment for a person under the Accident Compensation Act 2001:
+    (i) a payment of weekly compensation made under subpart 5 of Part 4 of the Veterans' Support Act 2014
   - **education grant** means a basic grant or an independent circumstances grant under regulations made under section 303 of the Education Act 1989
   - **pension** —
     (a) includes a gratuitous payment made to a person in return for services that the person, or their parent, child, spouse, civil union partner or de facto partner, former spouse, civil union partner or de facto partner, or dependant, provided to the payer when the payment would not have been made if the services had not been provided; and
@@ -3638,7 +3638,7 @@ Some definitions
   - **payment relating to incapacity for work** means a payment of 1 of the following kinds made to a person because they are, or another person is, incapacitated for work:
     (a) a payment by a friendly society, but not a payment referred to in paragraph (d) or (e) of the definition of accident compensation payment in section CF 1(2) (Benefits, pensions, compensation, and government grants):
     (b) a payment from a sickness, accident, or death benefit fund to which the person was a contributor when the period of incapacity began, but not a payment referred to in paragraph (d) or (e) of the definition of accident compensation payment in section CF 1(2):
-    (c) a payment under a policy of personal sickness or accident insurance, or an accident insurance contract, but neither a payment referred to in paragraph (d) or (e) or (f) of the definition of accident compensation payment in section CF 1(2) nor a payment calculated according to loss of earnings or profits.
+    (c) a payment under a policy of personal sickness or accident insurance, or an accident insurance contract, but neither a payment referred to in paragraph (d) or (e) or (f) of the definition of accident compensation payment in section CF 1(2) nor a payment calculated according to loss of earnings or profits:
     (d) an impairment payment made under subpart 4 of Part 4 of the Veterans' Support Act 2014.
 
 ### CW 35 Personal service rehabilitation payments
@@ -3962,13 +3962,15 @@ Some definitions
 ### CW 57 Non-resident company involved in exploration and development activities
 Exempt income
 (1) An amount of income derived by a non-resident company from exploration and development activities in an offshore permit area is exempt income if it is derived in the period that—
-  (a) starts on the beginning of the 2005–06 income year for the non-resident company; and
-  (b) ends on 31 December 2014.
+  (a) starts on 1 January 2015; and
+  (b) ends on 31 December 2019.
 Some definitions
 (2) In this section,—
-  - **exploration and development activities** means the following activities undertaken for the purposes of identifying and developing exploitable petroleum deposits or occurrences in an offshore permit area:
-    (a) operating a ship to provide seismic survey readings:
-    (b) drilling an exploratory well or other well
+  - **exploration and development activities** ––
+    (a) means the following activities undertaken for the purposes of identifying and developing exploitable petroleum deposits or occurrences in an offshore permit area:
+      (i) operating a ship to provide seismic or electromagnetic survey readings:
+      (ii) drilling an exploratory well or other well; but
+    (b) does not include using a drilling rig of modular construction that is installed on an existing offshore platform
   - **offshore permit area** means an area of land that is—
     (a) in New Zealand; and
     (b) on the seaward side of the mean high-water mark; and
