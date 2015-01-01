@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-01-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -3099,7 +3099,7 @@ This subpart (which contains rules on service out of New Zealand) does not apply
 (2) An application for leave to appeal, or an appeal, under Part 20 (Appeals), Part 21 (Cases stated), or Part 26 (Arbitration Act 1996) is subject to case management under different provisions (see rules 7.14 and 7.15).
 (3) A proceeding commenced by originating application is subject to limited case management through the ability of the parties to seek directions (see rules 19.11 and 7.43A).
 (4) A proceeding on the commercial list is subject to limited case management through the ability of parties to seek directions (see rules 29.10 to 29.12).
-(5) An application for judicial review may be subject to case management under section 10 of the Judicature Amendment Act 1972 and any rules relating to the case management of such proceedings.
+(5) A proceeding under Part 30 may be subject to case management under rule 7.17.
 (6) The following proceedings are not subject to case management:
   (a) undefended proceedings:
   (b) an application under Part 24 (Insolvency) or Part 31 (Companies: Liquidation).
@@ -3108,7 +3108,8 @@ This subpart (which contains rules on service out of New Zealand) does not apply
 ### 7.1 Proceedings subject of case management
 (1) Case management in accordance with this subpart will be applied to the following proceedings in order to promote their just, speedy, and inexpensive determination:
   (a) ordinary or complex defended hearings:
-  (b) an application for leave to appeal, or an appeal, under Part 20 (Appeals), Part 21 (Cases stated), or Part 26 (Arbitration Act 1996).
+  (b) an application for leave to appeal, or an appeal, under Part 20 (Appeals), Part 21 (Cases stated), or Part 26 (Arbitration Act 1996):
+  (c) a proceeding under Part 30.
 (2)
 (3) The purpose of a case management conference is to enable the Judge to assist the parties—
   (a) to identify, define, and refine the issues requiring judicial resolution; and
@@ -3125,7 +3126,8 @@ This subpart (which contains rules on service out of New Zealand) does not apply
   (d) an application for leave to appeal, or an appeal, under Part 20 (Appeals), Part 21 (Cases stated), or Part 26 (Arbitration Act 1996); or
   (e) an undefended proceeding; or
   (f) an application commenced by originating application under Part 19 (originating applications); or
-  (g) a proceeding on the commercial list.
+  (g) a proceeding on the commercial list; or
+  (h) a proceeding under Part 30.
 (6) The proper classification of a proceeding as either an ordinary defended proceeding or a complex defended proceeding in terms of subclause (5) must be—
   (a) resolved by a Judge not later than the date of the first case management conference; and
   (b) promptly advised to the parties.
@@ -3137,7 +3139,7 @@ This subpart (which contains rules on service out of New Zealand) does not apply
 
 ### 7.2 Case management conferences generally
 (1) A Judge may hold a case management conference at any time.
-(2) A case management conference may be convened by a Judge on the Judge's own initiative or on the application of 1 or more of the parties.
+(2) A case management conference may be held by a Judge on the Judge's own initiative or on the application of 1 or more of the parties.
 (3) At any case management conference, the Judge may give directions to secure the just, speedy, and inexpensive determination of the proceedings, including the fixing of timetables and directing how the hearing or trial is to be conducted.
 
 ### 7.3 First case management conferences
@@ -3262,8 +3264,15 @@ If either party to a proceeding to which section 19A of the Act applies requires
   (a) 5 working days before the close of pleadings date for the proceeding; or
   (b) a date fixed by a Judge for the purpose.
 
-### 7.17 Parties to keep Registrar informed
-[Repealed]
+### 7.17 Case management conferences for proceedings under Part 30
+(1) A Registrar must convene a case management conference for a proceeding under Part 30 if a Judge makes a direction that a case management conference be held.
+(2) The Registrar must arrange for the conference management conference to be held as soon as practicable after the direction is made.
+(3) The plaintiff must, as soon as practicable after being notified of the date of the case management conference, give notice of that date to everyone who has been, or is to be, served with a copy of the notice of proceeding and statement of claim.
+(4) The parties must, not later than 2 working days before the case management conference,––
+  (a) file a joint memorandum; or
+  (b) each file a memorandum.
+(5) A memorandum must address the issues set out in Schedule 10.
+(6) At a case management conference, the Judge holding the conference will make orders and give directions relating to the proceeding.
 
 ### 7.18 No steps after setting down date without leave
 [Repealed]
@@ -6577,6 +6586,7 @@ Applications to the court under the following enactments must be made by origina
   (v) section 44C(2) and (8) of the Securities Act 1978:
   (w) section 47E of the Terrorism Suppression Act 2002:
   (x) section 76 of the Trustee Act 1956:
+  (xa) section 14 or 31 of the Wills Act 2007:
   (y) rule 7.81, 9.60, 24.11, 24.56, 28.4, or 32.2 of these rules:
   (z) any repealed enactment if—
     (i) the application under that enactment could have been made by originating application immediately before the commencement of these rules; and
@@ -10936,6 +10946,8 @@ Colour documents
 (8) Parties should not place any restrictions on the spreadsheet or documents that prevent opposing parties from accessing them.
 
 #### Part 3 — Glossary
+
+#### Schedule 10 — Issues to be addressed at case management conference in proceedings under Part 30
 
 ## Schedule 3 — Rules of the Court of Appeal
 
