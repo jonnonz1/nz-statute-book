@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-01-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -276,10 +276,6 @@ In this Act, unless the context otherwise requires,—
   - **regional council** has the meaning given to it by section 5(1) of the Local Government Act 2002
   - **Registrar** has the meaning given to it by section 282
   - **regulations** means regulations in force under this Act
-  - **residential property developer** means a person who, in trade, does any of the following things in relation to a household unit for the purpose of selling the household unit:
-    (a) builds the household unit; or
-    (b) arranges for the household unit to be built; or
-    (c) acquires the household unit from a person who built it or arranged for it to be built
   - **restricted building work** means any building work that is—
     (a) building work of a kind declared by the Governor-General by Order in Council to be restricted building work; or
     (b) design work of a kind declared by the Governor-General by Order in Council to be restricted building work
@@ -407,6 +403,7 @@ Under this Act, the chief executive—
   (o) appoints the Registrar under section 310; and
   (p) prepares proposed rules under section 354; and
   (pa) issues infringement notices under section 372 and under section 371B authorises persons to issue infringement notices; and
+  (pb) may provide dispute resolution services under section 175A; and
   (q) carries out any other functions and duties specified in this Act; and
   (r) carries out any functions that are incidental and related to, or consequential upon, the functions set out in paragraphs (a) to (q).
 
@@ -1338,7 +1335,7 @@ All restricted building work must be carried out or supervised by a licensed bui
 (4) A record of work given under subsection (1) does not, of itself,—
   (a) create any liability in relation to any matter to which the record of work relates; or
   (b) give rise to any civil liability to the owner that would not otherwise exist if the licensed building practitioner were not required to provide the record of work.
-(5) Subsection (4) does not limit section 397(c).
+(5) Subsection (4) does not limit section 362I(1)(c).
 
 **Other provisions relating to building work generally**
 
@@ -2403,6 +2400,9 @@ The chief executive must, in performing his or her functions, consult with,—
 (2) Any information published by the chief executive under this section—
   (a) is only a guide; and
   (b) if used, does not relieve any person of the obligation to consider any matter to which that information relates according to the circumstances of the particular case.
+
+### 175A Chief executive may provide dispute resolution services
+The chief executive may, at his or her discretion, provide services to assist in the resolution of any dispute arising under a residential building contract (as defined in section 362B(1)).
 
 **Power of chief executive to make determinations**
 
@@ -4051,13 +4051,262 @@ The rules are made once they are approved by the Minister.
 ### 362 Status of rules
 The rules are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
+## Part 4A — Consumer rights and remedies in relation to residential building work
+
+**Preliminary provisions**
+
+### 362A Outline of this Part
+This Part protects consumers (referred to in this Part as clients) in relation to residential building work by—
+  (a) requiring certain information to be provided before a residential building contract is entered into; and
+  (b) prescribing minimum requirements for residential building contracts over a certain value; and
+  (c) implying warranties into residential building contracts; and
+  (d) providing remedies for breach of the implied warranties; and
+  (e) requiring defective building work under a residential building contract to be remedied if notified within 1 year of completion; and
+  (f) requiring certain information and documentation to be provided on completion of building work under a residential building contract.
+
+### 362B Meaning of building work and residential building contract
+(1) In this Part, unless the context otherwise requires,—
+  - **building work** does not include design work, and paragraph (c) of the definition of in section 7 does not apply to this Part
+  - **residential building contract** —
+    (a) means a contract under which one person (the building contractor) agrees with another person (the client) to do building work for the client in relation to a household unit; but
+    (b) does not include a subcontracting agreement between a building contractor and a building subcontractor.
+(2) On section 6(8) of the Building Amendment Act 2012 coming into force, and in the following order,—
+  (a) first, the definition of building work in subsection (1) is repealed and the following definition substituted:; and
+    - **building work** does not include design work, and paragraphs (c) and (e) of the definition of in section 7 do not apply to this Part
+  (b) second, this subsection is repealed.
+
+### 362C Consumer rights under Fair Trading Act 1986 or Consumer Guarantees Act 1993 not affected by this Part
+Nothing in this Part limits or derogates from the provisions of the Fair Trading Act 1986 or the Consumer Guarantees Act 1993.
+
+**Pre-contract information**
+
+### 362D Building contractor must provide information before residential building contract entered into
+(1) This section applies to a residential building contract if—
+  (a) the price for the building work is not less than the prescribed minimum price (if any); or
+  (b) the client has requested the prescribed disclosure information (if any) and prescribed checklist (if any).
+(2) A building contractor must not enter into a residential building contract to which this section applies unless the building contractor has first provided to the client (or each client if there is more than 1)—
+  (a) the prescribed disclosure information (if any); and
+  (b) a prescribed checklist (if any).
+(3) The disclosure information and the checklist must each be in the form prescribed by regulations (if any).
+(4) A person who contravenes subsection (2)(a) or (b) commits an infringement offence and is liable to a fine not exceeding $2,000.
+(5) A person commits an offence who, in any communication or document required to be made or given under subsection (2)(a), knowingly makes a statement that is false or misleading in a material particular or knowingly makes a material omission.
+(6) A person who commits an offence under subsection (5) is liable on conviction to a fine not exceeding $20,000.
+
+### 362E Purpose of regulations under section 362D
+(1) The purpose of regulations prescribing disclosure information under section 362D(2)(a) is to give a client information about a building contractor, and the prescribed disclosure information may include (but is not limited to) information relating to the following:
+  (a) the legal status of the building contractor, for example, whether the building contractor is an individual, a partnership, or a limited liability company:
+  (b) the dispute history of the building contractor:
+  (c) the skills, qualifications, and licensing status of the building practitioners who will be doing the building work:
+  (d) if the building contractor is a limited liability company, the role of each director and the business history of each director.
+(2) The purpose of regulations prescribing a checklist under section 362D(2)(b) is to provide guidance to a client on the matters that a client should take into consideration when entering into a residential building contract, and the prescribed checklist may include (but is not limited to) the following:
+  (a) an explanation of the legal obligations of both the client and the building contractor in relation to the building work:
+  (b) an outline of the risks associated with payment in advance of completion of the building work:
+  (c) a summary of dispute resolution options:
+  (d) a list of sources for further advice and information.
+
+**Minimum requirements for residential building contract**
+
+### 362F Minimum requirements for residential building contract over certain value
+(1) This section applies to a residential building contract if the price for the building work is not less than the prescribed minimum price (if any).
+(2) A residential building contract to which this section applies must—
+  (a) be in writing; and
+  (b) be dated; and
+  (c) comply with regulations (if any) made under section 362G.
+(3) A building contractor must not enter into a residential building contract to which this section applies unless the requirements of subsection (2) have been complied with.
+(4) A person who contravenes subsection (3) by entering into an unwritten contract commits an infringement offence and is liable to a fine not exceeding $2,000.
+
+### 362G Regulations may prescribe content, etc of residential building contract
+(1) Regulations may be made requiring, as a minimum that must be contained in a residential building contract, all or any of the following matters:
+  (a) the content of the contract:
+  (b) categories or types of information:
+  (c) specified information:
+  (d) categories or types of clauses or terms:
+  (e) specified clauses or terms.
+(2) For the purposes of subsection (1) and without limitation to the matters set out in the following paragraphs, the regulations may require, as matters that must be contained in a residential building contract, matters relating to—
+  (a) the parties:
+  (b) dispute resolution:
+  (c) the process for varying the contract:
+  (d) the timeframe for performing the contract:
+  (e) the payment process.
+(3) The regulations may,—
+  (a) if there is no written contract as required by section 362F(2)(a), stipulate that 1 or more prescribed specified clauses (if any) are taken to be included in the contract; and
+  (b) if there is a written contract but it does not include a matter specified by the regulations, stipulate that 1 or more prescribed specified clauses (if any) are taken to be included in the contract.
+(4) Subsection (3) applies despite any provision to the contrary in any agreement or contract.
+
+**Implied warranties**
+
+### 362H When provisions relating to implied warranties apply
+(1) Sections 362I to 362K apply—
+  (a) to any of the following contracts entered into on or after the date on which this section comes into force:
+    (i) a residential building contract, whether written or oral; or
+    (ii) a contract for the sale of 1 or more household units by, or on behalf of, an on-seller; and
+  (b) despite any provision to the contrary in any agreement or contract.
+(2) For the purposes of sections 362I to 362K, a contract by or on behalf of an on-seller for the sale of 1 or more household units—
+  (a) is taken to be a contract for the building work already carried out or still to be carried out in building the household unit or units; and
+  (b) is taken to incorporate as the obligations of the on-seller the obligations of the building contractor under a residential building contract.
+(3) In subsection (1)(a)(ii), on-seller means a person who does any of the following things in relation to a household unit for the purpose of on-selling the household unit:
+  (a) builds the household unit by himself or herself or with the assistance of others:
+  (b) in trade arranges for the household unit to be built or acquires the household unit from a person who built it or arranged for it to be built:
+  (c) acquires the household unit in a transaction that is intended to defeat the purpose and effect of subsection (2).
+
+### 362I Implied warranties for building work in relation to household units
+(1) In every contract to which this section applies, the following warranties about building work to be carried out under the contract are implied and are taken to form part of the contract:
+  (a) that the building work will be carried out—
+    (i) in a proper and competent manner; and
+    (ii) in accordance with the plans and specifications set out in the contract; and
+    (iii) in accordance with the relevant building consent:
+  (b) that all materials to be supplied for use in the building work—
+    (i) will be suitable for the purpose for which they will be used; and
+    (ii) unless otherwise stated in the contract, will be new:
+  (c) that the building work will be carried out in accordance with, and will comply with, all laws and legal requirements, including, without limitation, this Act and the regulations:
+  (d) that the building work will—
+    (i) be carried out with reasonable care and skill; and
+    (ii) be completed by the date (or within the period) specified in the contract or, if no date or period is specified, within a reasonable time:
+  (e) that the household unit, if it is to be occupied on completion of building work, will be suitable for occupation on completion of that building work:
+  (f) if the contract states the particular purpose for which the building work is required, or the result that the owner wishes the building work to achieve, so as to show that the owner relies on the skill and judgement of the other party to the contract, that the building work and any materials used in carrying out the building work will—
+    (i) be reasonably fit for that purpose; or
+    (ii) be of such a nature and quality that they might reasonably be expected to achieve that result.
+(2) Subsection (1) has effect despite any provision to the contrary in any contract or agreement, and despite any provision of any other enactment or rule of law.
+
+### 362J Proceedings for breach of warranties may be taken by non-party to contract
+(1) An owner of the building or land in respect of which building work was carried out under a contract to which this section applies may take proceedings for a breach of any of the warranties set out in section 362I whether or not that person was a party to the contract.
+(2) In this section, proceedings includes—
+  (a) adjudication under the Construction Contracts Act 2002; and
+  (b) a claim under the Weathertight Homes Resolution Services Act 2006; and
+  (c) arbitration under the Arbitration Act 1996.
+
+### 362K Person may not give away benefit of warranties
+A provision of an agreement or instrument that purports to restrict or remove the right of a person to take proceedings for a breach of any of the warranties set out in section 362I is of no effect in so far as the provision relates to a breach other than a breach that was known, or ought reasonably to have been known, by the person to exist at the time the agreement or instrument was executed.
+
+**Remedies for breach of implied warranty**
+
+### 362L Remedies for breach of implied warranty
+(1) A person who has the benefit of an implied warranty set out in section 362I has the remedies set out in sections 362M to 362P for breach of that warranty.
+(2) In sections 362M to 362P, the person who has the benefit of an implied warranty—
+  (a) is called the client; and
+  (b) except for the purposes of section 362M(3)(b) or 362N(2)(b), includes the owner of the building or land in respect of which building work was carried out under a contract to which the implied warranty applies, whether or not that person was a party to the contract.
+(3) In sections 362M to 362P, the person who is liable to remedy the breach is called the building contractor.
+(4) Nothing in this section limits or derogates from any remedy for defective building work expressly provided for in a residential building contract, and nothing in any residential building contract limits or derogates from any of the remedies set out in sections 362M to 362P.
+
+### 362M Remedies if breach of warranty can be remedied
+(1) This section applies in any case where the breach of warranty can be remedied.
+(2) If this section applies, the client may require the building contractor to remedy the breach (including repairing or replacing defective materials supplied by the building contractor or the building contractor's subcontractor).
+(3) If the building contractor, after being required to remedy the breach, refuses or neglects to do so, or does not succeed in doing so within a reasonable time, the client may—
+  (a) have the breach remedied by someone else and recover from the building contractor all reasonable costs incurred in having the breach remedied; or
+  (b) cancel the contract in accordance with section 362P.
+(4) In addition to the remedies in subsections (2) and (3), the client may obtain from the building contractor damages for any loss or damage to the client resulting from the breach (other than loss or damage through reduction in the value of the product of the building work) that was reasonably foreseeable as liable to result from the breach.
+
+### 362N Remedies if breach of warranty cannot be remedied or breach is substantial
+(1) This section applies in any case where the breach of warranty cannot be remedied or the breach is substantial.
+(2) If this section applies, the client may—
+  (a) obtain from the building contractor damages in compensation for any reduction in value of the product of the building work below the price paid or payable by the client for that work; or
+  (b) cancel the contract in accordance with section 362P.
+(3) In addition to the remedy in subsection (2), the client may obtain from the building contractor damages for any loss or damage to the client resulting from the breach (other than loss or damage through reduction in the value of the product of the building work) that was reasonably foreseeable as liable to result from the breach.
+
+### 362O Meaning of substantial breach
+For the purposes of section 362N, a breach of warranty is substantial if—
+  (a) a reasonable client fully acquainted with the nature and extent of the breach would not have entered into the residential building contract; or
+  (b) in any case to which section 362I(1)(f) applies, the building work—
+    (i) is unfit for the particular purpose stated in the residential building contract; or
+    (ii) is of such a nature and quality that it cannot be expected to produce the desired result stated in the residential building contract; or
+  (c) the building work is unsafe.
+
+### 362P Rules applying to cancellation
+(1) The cancellation of a contract under section 362M(3)(b) or 362N(2)(b) does not take effect—
+  (a) before the time at which the cancellation is made known to the building contractor; or
+  (b) where it is not reasonably practicable to communicate with the building contractor, before the time at which the client indicates, by means that are reasonable in the circumstances, the client's intention to cancel the contract.
+(2) Subject to subsection (3), the cancellation may be made known by words, or by conduct indicating an intention to cancel, or both, and it is not necessary to use any particular form of words, so long as the intention to cancel is made known.
+(3) Where it is reasonably practicable to communicate with the building contractor, subsection (2) takes effect subject to any provision in the contract requiring notice of cancellation in writing.
+(4) Sections 8(3) and (4) and 9 of the Contractual Remedies Act 1979 apply, with all necessary modifications, to the cancellation of a contract under section 362M(3)(b) or 362N(2)(b).
+
+**Remedy of defect notified within 1 year of completion**
+
+### 362Q Building contractor or on-seller must remedy defect notified within 1 year of completion
+(1) This section applies if—
+  (a) building work is carried out in relation to a household unit; and
+  (b) the building work is defective; and
+  (c) the defect is able to be remedied; and
+  (d) the building work is carried out by or on behalf of a building contractor or the household unit is purchased from an on-seller (as defined in section 362H(3)).
+(2) In any case to which this section applies, the client may give notice, within 12 months from completion of the building work, to either the building contractor or the on-seller (if there is one) requiring that person to remedy the defect.
+(3) In any case to which this section applies, the building contractor or the on-seller, as the case may be, to whom notice has been given in accordance with subsection (2) must remedy the defect (including repairing or replacing defective materials used in the building work) within a reasonable time of notification in writing of the defect.
+(4) In any case in which it is asserted against a building contractor or an on-seller that this section applies, the matters referred to in subsection (1) are presumed unless the contrary is proven.
+(5) In addition to the remedy in subsection (3), the client may obtain from the building contractor or the on-seller damages for any loss or damage to the client resulting from the defect (other than loss or damage through reduction in value of the product of the building work) that was reasonably foreseeable as liable to result from the defect.
+(6) Nothing in this section affects the warranties set out in section 362I or limits the time for enforcing any of those warranties.
+(7) This section does not apply to building work carried out—
+  (a) before this section comes into force; or
+  (b) under a contract entered into before this section comes into force.
+
+### 362R Definitions for purposes of section 362Q
+(1) In section 362Q, client—
+  (a) means any of the following:
+    (i) the person or persons with whom the building contractor contracted to do the building work in question:
+    (ii) the person or persons who purchased the household unit from the on-seller:
+    (iii) the owner of the building or land in respect of which the building work was carried out, whether or not that person was a party to the building contract or contract of sale; but
+  (b) does not include a building contractor in that capacity contracting with another building contractor (for example, a contractor and subcontractor).
+(2) In section 362Q, on-seller has the same meaning as in section 362H(3).
+(3) In section 362Q(1)(d), building work carried out on behalf of a building contractor includes building work carried out on behalf of the building contractor by any of the following persons:
+  (a) an employee of the building contractor:
+  (b) another contractor:
+  (c) a subcontractor:
+  (d) any other person for whom the building contractor is responsible in law.
+
+**Exclusion of liability for event not attributable to fault of building contractor or on-seller**
+
+### 362S Exclusion of liability for event not attributable to fault of building contractor or on-seller
+(1) A building contractor is not liable under sections 362H to 362R for any defect in a building or breach of warranty to the extent that the defect or breach is caused by any of the following that occurs during or after completion of the building work in question:
+  (a) a cause independent of human control:
+  (b) any act or omission, including accidental damage, by a person who is none of the following:
+    (i) the building contractor:
+    (ii) a subcontractor to the building contractor:
+    (iii) a person for whom the building contractor is responsible in law:
+  (c) failure to carry out normal maintenance:
+  (d) failure to carry out, or cause to be carried out, repairs as soon as practicable after the defect becomes apparent.
+(2) In any proceeding against a building contractor to enforce a warranty or remedy contained in sections 362H to 362Q, the onus is on the building contractor to prove that the cause of the defect or breach was 1 or more of the causes set out in subsection (1).
+(3) In this section, building contractor includes, with all necessary modifications, an on-seller as defined in section 362H(3).
+
+**Information and documentation to be provided on completion of residential building contract**
+
+### 362T Building contractor must provide prescribed information and documentation on completion of residential building work
+(1) This section applies where a building contractor has carried out building work under a residential building contract.
+(2) As soon as practicable after completion of the building work, the building contractor must provide in writing the information and documentation prescribed by regulations made under this Act to the following persons:
+  (a) the client; and
+  (b) the relevant territorial authority.
+(3) The regulations referred to in subsection (2) may prescribe different information and documentation to be provided to the client and the relevant territorial authority.
+(4) A person who contravenes subsection (2) commits an infringement offence and is liable to a fine not exceeding $2,000.
+
+### 362U Purpose of regulations under section 362T(2)
+The purpose of regulations prescribing information and documentation under section 362T(2) is to ensure that the owner and future owners of the building have knowledge of who carried out the building work and access to information or knowledge about the ongoing maintenance requirements of the building, and the prescribed information and documentation may include (but is not limited to) information and documentation relating to the following:
+  (a) the identity of the building contractor:
+  (b) any guarantee or insurance obtained by the building contractor in relation to the building work:
+  (c) maintenance requirements for any products incorporated in the building.
+
+**Offence by commercial on-seller**
+
+### 362V Offence for commercial on-seller to transfer household unit without code compliance certificate
+(1) A commercial on-seller commits an offence if the commercial on-seller does either or both of the following things before a code compliance certificate is issued in relation to a household unit:
+  (a) completes a sale of the household unit:
+  (b) allows a purchaser of the household unit to enter into possession of the household unit.
+(2) Subsection (1) does not apply if the commercial on-seller and the purchaser of the household unit enter into a written agreement, in the form (if any) prescribed by regulations made under this Act, that the commercial on-seller may do either or both of the things referred to in that subsection before a code compliance certificate is issued in relation to the household unit concerned.
+(3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000.
+(4) Subsection (1) does not apply if the contract for the sale and purchase of the household unit was entered into before 30 November 2004.
+(5) In this section, commercial on-seller means a person who, in trade, does any of the following things in relation to a household unit for the purpose of selling the household unit:
+  (a) builds the household unit; or
+  (b) arranges for the household unit to be built; or
+  (c) acquires the household unit from a person who built it or arranged for it to be built; or
+  (d) acquires the household unit in a transaction that is intended to defeat the purpose and effect of subsection (1).
+(6) On section 6(3) of the Building Amendment Act 2012 coming into force, and in the following order,—
+  (a) first,—
+    (i) the heading to this section is amended by omitting code compliance certificate and substituting consent completion certificate; and
+    (ii) subsections (1) and (2) are amended by omitting code compliance certificate and substituting consent completion certificate; and
+  (b) second, this subsection is repealed.
+
 ## Part 5 — Miscellaneous provisions
 
 ### Subpart 1 — Other offences and criminal proceedings
 
 **Offence relating to building control**
 
-### 362A Premises in respect of which duty arises under section 363
+### 362W Premises in respect of which duty arises under section 363
 (1) This section applies to premises that—
   (a) are intended to be open to members of the public or are being used by members of the public; and
   (b) comprise all or part of a building.
@@ -4066,7 +4315,7 @@ The rules are a disallowable instrument, but not a legislative instrument, for t
   (b) whether or not members of the public will, regularly or from time to time, be excluded from them.
 
 ### 363 Protecting safety of members of public using premises open to public or intended for public use
-(1) A person who owns, occupies, or controls premises to which section 362A applies must not use, or permit the use of, any part of the premises that is affected by building work—
+(1) A person who owns, occupies, or controls premises to which section 362W applies must not use, or permit the use of, any part of the premises that is affected by building work—
   (a) if—
     (i) a building consent is required for the work; but
     (ii) no building consent has been granted for it; or
@@ -4085,7 +4334,7 @@ The rules are a disallowable instrument, but not a legislative instrument, for t
 (4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part of a day during which the offence has continued.
 
 ### 363A Public use of premises may be allowed before issue of code compliance certificate in some circumstances
-(1) A person who owns, occupies, or controls premises to which section 362A applies may apply in the prescribed form to the territorial authority for a certificate for public use for the premises or a part of the premises if—
+(1) A person who owns, occupies, or controls premises to which section 362W applies may apply in the prescribed form to the territorial authority for a certificate for public use for the premises or a part of the premises if—
   (a) a building consent has been granted for building work affecting the premises or part; and
   (b) no code compliance certificate has been issued for the work.
 (2) The territorial authority may issue a certificate for public use for the premises or part if, and only if, satisfied on reasonable grounds that members of the public can use the premises or part (as the case may be) safely.
@@ -4106,12 +4355,7 @@ The rules are a disallowable instrument, but not a legislative instrument, for t
 (2) Subsection (1) applies whether or not the work was completed before, on, or after 31 March 2005.
 
 ### 364 Offence for residential property developer to transfer household unit without code compliance certificate
-(1) A residential property developer commits an offence if the residential property developer does either or both of the following things before a code compliance certificate is issued in relation to a household unit:
-  (a) completes a sale of the household unit:
-  (b) allows a purchaser of the household unit to enter into possession of the household unit.
-(2) Subsection (1) does not apply if the residential property developer and the purchaser of the household unit enter into a written agreement, in the prescribed form, that the residential property developer may do either or both of the things referred to in that subsection before a code compliance certificate is issued in relation to the household unit concerned.
-(3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000.
-(4) Subsection (1) does not apply if the contract for the sale and purchase of the household unit was entered into before 30 November 2004.
+[Repealed]
 
 **Offences relating to administration of Act**
 
@@ -4390,39 +4634,16 @@ Part 10 of Te Ture Whenua Maori Act 1993 applies to the service of notices under
 **Implied terms of contracts**
 
 ### 396 Application of sections 397 to 399
-(1) Sections 397 to 399 apply—
-  (a) to a contract entered into, on or after the commencement of this Act, that provides for—
-    (i) building work to be carried out under the contract in relation to 1 or more household units; or
-    (ii) the sale of 1 or more household units by, or on behalf of, a residential property developer; and
-  (b) despite any provision to the contrary in any agreement or contract.
-(2) For the purposes of this section, sections 397 to 399 must be read as if a contract referred to in subsection (1)(a)(ii) were a contract that provides for building work to be carried out (either before or after the contract is entered into) in relation to the household unit or, as the case may be, the household units being sold under the contract.
+[Repealed]
 
 ### 397 Implied warranties for building work in relation to household units
-Despite any enactment or rule of law, in every contract to which this section applies, the following warranties about building work to be carried out under the contract are implied and are taken to form part of the contract:
-  (a) that the building work will be carried out—
-    (i) in a proper and competent manner; and
-    (ii) in accordance with the plans and specifications set out in the contract; and
-    (iii) in accordance with the relevant building consent:
-  (b) that all materials to be supplied for use in the building work—
-    (i) will be suitable for the purpose for which they will be used; and
-    (ii) unless otherwise stated in the contract, will be new:
-  (c) that the building work will be carried out in accordance with, and will comply with, all laws and legal requirements, including, without limitation, this Act and the regulations:
-  (d) that the building work will—
-    (i) be carried out with reasonable care and skill; and
-    (ii) be completed by the date (or within the period) specified in the contract or, if no date or period is so specified, within a reasonable time:
-  (e) that the household unit, if it is to be occupied on completion of building work, will be suitable for occupation on completion of that building work:
-  (f) if the contract states the particular purpose for which the building work is required, or the result that the owner wishes the building work to achieve, so as to show that the owner relies on the skill and judgement of the other party to the contract, that the building work and any materials used in carrying out the building work will—
-    (i) be reasonably fit for that purpose; or
-    (ii) be of such a nature and quality that they might reasonably be expected to achieve that result.
+[Repealed]
 
 ### 398 Proceedings for breach of warranties may be taken by person who was not party to contract for building work
-(1) An owner of the building or land in respect of which building work was carried out under a contract to which this section applies may take proceedings for a breach of any of the warranties set out in section 397 as if the owner were a party to the contract.
-(2) In this section, proceedings includes—
-  (a) adjudication under the Construction Contracts Act 2002; and
-  (b) a claim under the Weathertight Homes Resolution Services Act 2006.
+[Repealed]
 
 ### 399 Person may not give away benefit of warranties
-A provision of an agreement or instrument that purports to restrict or remove the right of a person to take proceedings for a breach of any of the warranties set out in section 397 is of no effect in so far as the provision relates to a breach other than a breach that was known, or ought reasonably to have been known, by the person to exist at the time the agreement or instrument was executed.
+[Repealed]
 
 **Regulations**
 
@@ -4539,7 +4760,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (y) specifying infringement offences for the purposes of this Act:
   (z) setting the infringement fee for each infringement offence (which may not exceed $20,000):
   (za) prescribing the forms that must be used for issuing an infringement notice:
-  (zb) prescribing, for the purposes of section 364(2), the form and content of the written agreement referred to in that subsection:
+  (zb) prescribing, for the purposes of section 362V(2), the form and content of the written agreement referred to in that subsection:
   (zc) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) The fees and charges prescribed under subsection (1)(d) must be reasonable, having regard to the need to recover the costs incurred by the Registrar in performing his or her functions under this Act.
 
