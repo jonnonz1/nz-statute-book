@@ -1,5 +1,5 @@
 # Building Amendment Act 2013
-_Consolidation as at 2013-11-27_
+_Consolidation as at 2015-01-01_
 
 ### 1 Title
 This Act is the Building Amendment Act 2013.
