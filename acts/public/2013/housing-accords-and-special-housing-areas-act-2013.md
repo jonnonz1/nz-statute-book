@@ -1,5 +1,5 @@
 # Housing Accords and Special Housing Areas Act 2013
-_Consolidation as at 2014-07-17_
+_Consolidation as at 2015-01-08_
 
 ### 1 Title
 This Act is the Housing Accords and Special Housing Areas Act 2013.
@@ -58,8 +58,8 @@ The purpose of this Act is to enhance housing affordability by facilitating an i
   - **notify** means to serve notice in accordance with section 352 of the Resource Management Act 1991, unless any regulations made under section 91 provide otherwise, and has a corresponding meaning
   - **predominantly residential** , in relation to a qualifying development, has the meaning set out in section 14(2)
   - **proposed Auckland combined plan** —
-    (a) means the proposed Auckland combined plan initially prepared by the Auckland Council in accordance with section 123(2) of the Local Government (Auckland Transitional Provisions) Act 2010, on and from the date on which that plan is publicly notified in accordance with clause 5(1)(b) of Schedule 1 of the Resource Management Act 1991; and
-    (b) includes, at a given point in time, any amendment that has been made to the plan and any variation that, under section 125(3) of the Local Government (Auckland Transitional Provisions) Act 2010, has been notified in accordance with clause 5(1)(b) of Schedule 1 of the Resource Management Act 1991
+    (a) means the proposed Auckland combined plan initially prepared by the Auckland Council in accordance with section 123(2) of the Local Government (Auckland Transitional Provisions) Act 2010, on and from the date on which that plan is publicly notified in accordance with clause 5(1)﻿(b) of Schedule 1 of the Resource Management Act 1991; and
+    (b) includes, at a given point in time, any amendment that has been made to the plan and any variation that, under section 125(3) of the Local Government (Auckland Transitional Provisions) Act 2010, has been notified in accordance with clause 5(1)﻿(b) of Schedule 1 of the Resource Management Act 1991
   - **proposed plan** —
     (a) has the meaning set out in section 43AAC of the Resource Management Act 1991; and
     (b) includes any provision of the proposed Auckland combined plan that has not become operative
@@ -90,7 +90,7 @@ Schedule 3 contains application, savings, and transitional provisions that affec
   (b) must have regard to whether the land available for residential development in the region or district is likely to meet housing demand, based on predicted population growth; and
   (c) may have regard to whether any other information indicates that there are significant housing supply and affordability issues in the region or district.
 (4) The Minister must not make a recommendation to delete the name of a region or district from Schedule 1 unless the Minister is satisfied that the region or district is no longer experiencing significant housing supply and affordability issues.
-(5) In determining whether a region or district is no longer experiencing significant housing supply and affordability issues, the Minister must have regard to the matters in subsection (3)(a) and (b) and may have regard to the matter in subsection (3)(c).
+(5) In determining whether a region or district is no longer experiencing significant housing supply and affordability issues, the Minister must have regard to the matters in subsection (3)﻿(a) and (b) and may have regard to the matter in subsection (3)﻿(c).
 
 ### Subpart 2 — Provisions relating to housing accords, qualifying developments, and special housing areas
 
@@ -146,25 +146,25 @@ Schedule 3 contains application, savings, and transitional provisions that affec
   (a) the primary purpose of the development is to supply dwellings; and
   (b) any non-residential activities provided for are ancillary to quality residential development (such as recreational, mixed use, retail, or town centre land uses).
 (3) In this section, prescribed,—
-  (a) in subsection (1)(b) and (c), means prescribed for qualifying developments in special housing areas by an Order in Council made under section 15(1) or, if applicable, prescribed for the special housing area or part of the special housing area—
-    (i) in the Order in Council declaring the special housing area, as provided for in section 15(2)(a); or
-    (ii) by an Order in Council made under section 15(2)(b) at any time after the special housing area is declared; and
-  (b) in subsection (1)(d), means prescribed for the special housing area or part of the special housing area—
-    (i) in the Order in Council declaring the special housing area, as provided for in section 15(2)(a); or
-    (ii) by an Order in Council made under section 15(2)(b) at any time after the special housing area is declared.
+  (a) in subsection (1)﻿(b) and (c), means prescribed for qualifying developments in special housing areas by an Order in Council made under section 15(1) or, if applicable, prescribed for the special housing area or part of the special housing area—
+    (i) in the Order in Council declaring the special housing area, as provided for in section 15(2)﻿(a); or
+    (ii) by an Order in Council made under section 15(2)﻿(b) at any time after the special housing area is declared; and
+  (b) in subsection (1)﻿(d), means prescribed for the special housing area or part of the special housing area—
+    (i) in the Order in Council declaring the special housing area, as provided for in section 15(2)﻿(a); or
+    (ii) by an Order in Council made under section 15(2)﻿(b) at any time after the special housing area is declared.
 
 ### 15 Criteria may be prescribed for qualifying developments
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, prescribe 1 or more of the following as default criteria that apply for qualifying developments in special housing areas if the Order in Council declaring a special housing area does not prescribe those criteria for the special housing area as provided for in subsection (2):
-  (a) for the purposes of section 14(1)(b)(i), the maximum number of storeys, less than 6, that buildings may have:
-  (b) for the purposes of section 14(1)(b)(ii), the maximum calculated height, less than 27 metres, that buildings must not exceed:
-  (c) for the purposes of section 14(1)(c), the minimum number of dwellings to be built.
+  (a) for the purposes of section 14(1)﻿(b)﻿(i), the maximum number of storeys, less than 6, that buildings may have:
+  (b) for the purposes of section 14(1)﻿(b)﻿(ii), the maximum calculated height, less than 27 metres, that buildings must not exceed:
+  (c) for the purposes of section 14(1)﻿(c), the minimum number of dwellings to be built.
 (2) The Governor-General may, on the recommendation of the Minister, prescribe 1 or more of the criteria referred to in subsections (1) and (3) that apply for qualifying developments in a special housing area or part of a special housing area—
   (a) in the Order in Council declaring the special housing area under section 16; or
   (b) by Order in Council made at any time after the special housing area is declared.
 (3) For the purposes of subsection (2), one of the criteria that may be prescribed is the percentage of dwellings that must be affordable dwellings, according to the affordability criteria specified in the Order in Council for the special housing area or part of the special housing area.
-(4) The affordability criteria that may be specified are not limited by section 9(3)(a) but may include, without limitation, criteria defined by reference to median house prices, median household income, individual income, the median multiple (as referred to in section 9(3)(a)(ii)) or any other matter relevant to affordability as it applies to the district in which the special housing area falls, the special housing area, or part of the special housing area.
+(4) The affordability criteria that may be specified are not limited by section 9(3)﻿(a) but may include, without limitation, criteria defined by reference to median house prices, median household income, individual income, the median multiple (as referred to in section 9(3)﻿(a)﻿(ii)) or any other matter relevant to affordability as it applies to the district in which the special housing area falls, the special housing area, or part of the special housing area.
 (5) Subsection (2) is subject to subsections (6) and (7).
-(6) If no default criterion for the minimum number of dwellings to be built is prescribed under subsection (1)(c), the Minister must recommend that the Order in Council declaring the special housing area prescribes that criterion for qualifying developments in the special housing area.
+(6) If no default criterion for the minimum number of dwellings to be built is prescribed under subsection (1)﻿(c), the Minister must recommend that the Order in Council declaring the special housing area prescribes that criterion for qualifying developments in the special housing area.
 (7) If the special housing area or part of the special housing area is in the district of an accord territorial authority, the Minister may only make a recommendation for the purposes of subsection (2) that is in accordance with a recommendation of the accord territorial authority.
 (8) Criteria prescribed in an Order in Council under subsection (2) may (without limitation) be prescribed by reference to the provisions of the relevant plan or proposed plan.
 
@@ -275,36 +275,36 @@ The table in Schedule 2 provides for time periods that are to be excluded from t
   (d) an activity that is described in the relevant plan as permitted, controlled, restricted discretionary, discretionary, or non-complying and in a proposed plan as prohibited; and
   (e) an activity for which Part 3 of the Resource Management Act 1991 requires a resource consent, where there is no plan or proposed plan, or no relevant rule in the relevant plan or proposed plan; and
   (f) an activity for which the relevant plan or a proposed plan requires a resource consent, but does not classify the activity as controlled, restricted discretionary, discretionary, or non-complying.
-(3) Subsection (2)(b), (c), and (d) is subject to section 26(3) and (5).
-(4) The authorised agency, when determining an application for a resource consent referred to in the first column of the following table, must treat the activity in the manner set out against that reference in the second column of the table:Application for a resource consent for an activity referred to in—Authorised agency must treat the activity—subsection (2)(a)(i)as if the proposed plan described the activity as a controlled activitysubsection (2)(a)(ii) to (v)as if the description in the proposed plan appliedsubsection (2)(b) to (f)as if the activity were a discretionary activity
+(3) Subsection (2)﻿(b), (c), and (d) is subject to section 26(3) and (5).
+(4) The authorised agency, when determining an application for a resource consent referred to in the first column of the following table, must treat the activity in the manner set out against that reference in the second column of the table:The following table is small in size and has 2 columns. Column 1 is headed Application for a resource consent for an activity referred to in. Column 2 is headed Authorised agency must treat the activity.Application for a resource consent for an activity referred to in—Authorised agency must treat the activity—subsection (2)﻿(a)﻿(i)as if the proposed plan described the activity as a controlled activitysubsection (2)﻿(a)﻿(ii) to (v)as if the description in the proposed plan appliedsubsection (2)﻿(b) to (f)as if the activity were a discretionary activity
 
 ### 26 Accord territorial authority may require applications to be made in conjunction with requests for plan changes or variations to proposed plans
 (1) If the authorised agency is an accord territorial authority, the authorised agency may, within 10 working days after a resource consent application is lodged, require an applicant for a resource consent referred to in—
-  (a) section 25(2)(b) to request a plan change under section 61(1) in conjunction with the resource consent application:
-  (b) section 25(2)(c) and (d) to request a variation to a proposed plan under section 61(2) in conjunction with the resource consent application.
+  (a) section 25(2)﻿(b) to request a plan change under section 61(1) in conjunction with the resource consent application:
+  (b) section 25(2)﻿(c) and (d) to request a variation to a proposed plan under section 61(2) in conjunction with the resource consent application.
 (2) If the authorised agency decides to make a requirement under subsection (1), the authorised agency must immediately return any affected resource consent application to the applicant, with a written notice of the requirement.
 (3) If the person wishes to proceed with a concurrent application, the applicant must—
   (a) request a change to the plan under section 61(1) or a variation to the proposed plan under section 61(2) (as the case may be) that, were it to be approved and to become operative, would make the activity to which the resource consent application relates a controlled, restricted discretionary, discretionary, or non-complying activity; and
   (b) apply for a resource consent under section 25 that,—
-    (i) in the case of a resource consent referred to in section 25(2)(b), would be consistent with the plan were the request for the plan change approved; and
-    (ii) in the case of a resource consent referred to in section 25(2)(c) or (d), would be consistent with the proposed plan were the request for the variation to the proposed plan approved; and
+    (i) in the case of a resource consent referred to in section 25(2)﻿(b), would be consistent with the plan were the request for the plan change approved; and
+    (ii) in the case of a resource consent referred to in section 25(2)﻿(c) or (d), would be consistent with the proposed plan were the request for the variation to the proposed plan approved; and
   (c) apply for the resource consent—
     (i) at the time of lodging the request for the plan change or variation to the proposed plan if the applicant has obtained prior written approval for the change or variation from the persons referred to in section 29(3); or
     (ii) either at the time of lodging the request for the plan change or variation to the proposed plan or within 20 working days after the date of notification of the authorised agency's decision under section 65(5) if the applicant has not obtained the prior written approval referred to in subparagraph (i).
-(4) If an application has been returned in accordance with subsection (2) and the applicant decides to proceed with a concurrent application, the resource consent application lodged in accordance with subsection (3)(b) and (c) must be treated as a new application.
-(5) Nothing in this section prevents a person who wishes to apply for a resource consent referred to in section 25(2)(b), (c), or (d) from lodging a concurrent application of the person's own volition (in which case, the provisions of this Act concerning concurrent applications apply (see section 61)).
+(4) If an application has been returned in accordance with subsection (2) and the applicant decides to proceed with a concurrent application, the resource consent application lodged in accordance with subsection (3)﻿(b) and (c) must be treated as a new application.
+(5) Nothing in this section prevents a person who wishes to apply for a resource consent referred to in section 25(2)﻿(b), (c), or (d) from lodging a concurrent application of the person's own volition (in which case, the provisions of this Act concerning concurrent applications apply (see section 61)).
 
 ### 27 Making applications
 (1) Sections 88(2) to (5) and 88A of the Resource Management Act 1991 apply in respect of an application for a resource consent made under this Act—
   (a) as if every reference to the consent authority were a reference to the authorised agency; and
-  (b) as if the reference in section 88(5) of the Resource Management Act 1991 to sections 357 to 358 of that Act were a reference to sections 81(1)(c) and 82 to 84 of this Act; and
-  (c) as if the reference in section 88A(1)(a) of the Resource Management Act 1991 to section 88 or 145 of that Act were a reference to section 25 of this Act; and
-  (d) as if the reference in section 88A(1)(b) of the Resource Management Act 1991 to section 87B of that Act were a reference to section 25(4) of this Act; and
-  (e) as if the reference in section 88A(2) of the Resource Management Act 1991 to section 104(1)(b) of that Act were a reference to section 34 of this Act; and
+  (b) as if the reference in section 88(5) of the Resource Management Act 1991 to sections 357 to 358 of that Act were a reference to sections 81(1)﻿(c) and 82 to 84 of this Act; and
+  (c) as if the reference in section 88A(1)﻿(a) of the Resource Management Act 1991 to section 88 or 145 of that Act were a reference to section 25 of this Act; and
+  (d) as if the reference in section 88A(1)﻿(b) of the Resource Management Act 1991 to section 87B of that Act were a reference to section 25(4) of this Act; and
+  (e) as if the reference in section 88A(2) of the Resource Management Act 1991 to section 104(1)﻿(b) of that Act were a reference to section 34 of this Act; and
   (f) with all other necessary modifications.
 (2) The following provisions apply, in addition to the provisions referred to in subsection (1), if the application for a resource consent is a concurrent application:
   (a) the application must identify the request for a plan change or variation to the proposed plan to which it relates:
-  (b) the application must comply with the requirements in section 26(3)(b):
+  (b) the application must comply with the requirements in section 26(3)﻿(b):
   (c) if the application is returned under section 88(3) of the Resource Management Act 1991 (as applied by subsection (1)) as being incomplete, the authorised agency is not required to take any further action on the request for a plan change or variation to the proposed plan unless the application is lodged again within the time specified in paragraph (d):
   (d) if the application is not lodged again within 20 working days after the date on which the applicant received the returned application, the application and the request for the plan change or variation to the proposed plan lapse.
 
@@ -359,7 +359,7 @@ Section 91 of the Resource Management Act 1991 applies in relation to an applica
 (2) The authorised agencies must jointly hear and consider the applications unless—
   (a) the agencies agree that the applications are sufficiently unrelated that a joint hearing is unnecessary; and
   (b) the applicant agrees that a joint hearing need not be held.
-(3) When a joint hearing of applications for resource consents is to be held, the authorised agency under section 23(2)(a)(i) or (ii) (or, if there are more than 2 authorised agencies, the authorised agency agreed between them) is responsible for notifying the hearing under section 30, setting the procedure, and providing administrative services.
+(3) When a joint hearing of applications for resource consents is to be held, the authorised agency under section 23(2)﻿(a)﻿(i) or (ii) (or, if there are more than 2 authorised agencies, the authorised agency agreed between them) is responsible for notifying the hearing under section 30, setting the procedure, and providing administrative services.
 (4) After jointly hearing the applications,—
   (a) the authorised agencies must jointly decide the applications, unless one of them considers, on reasonable grounds, that it is not appropriate to do so; and
   (b) if a joint decision is made, the authorised agencies must identify in their joint decision—
@@ -391,7 +391,7 @@ Section 91 of the Resource Management Act 1991 applies in relation to an applica
   (a) may direct an affected infrastructure provider to provide any information that the authorised agency considers to be relevant in the circumstances to its consideration of the application; and
   (b) if the authorised agency is the chief executive, may also direct any local authority to provide any information that the authorised agency considers to be relevant in the circumstances to its consideration of the application.
 (5) If an authorised agency makes a direction under subsection (4), the infrastructure provider or local authority must provide the information requested as soon as is reasonably practicable.
-(6) The Ministry must ensure that a copy of the document referred to in subsection (1)(e), or a link to that document, is on the Ministry's Internet site and that members of the public can easily access the document via that site, free of charge, at all reasonable times.
+(6) The Ministry must ensure that a copy of the document referred to in subsection (1)﻿(e), or a link to that document, is on the Ministry's Internet site and that members of the public can easily access the document via that site, free of charge, at all reasonable times.
 
 ### 35 Determination of applications for certain activities
 Sections 105 to 107 of the Resource Management Act 1991 apply in respect of an application for a resource consent accepted under this Act—
@@ -476,7 +476,7 @@ Section 224 of the Resource Management Act 1991 applies to all survey plans that
   (a) as if every reference to the territorial authority, except the references specified in subsection (3), were a reference to the authorised agency; and
   (b) with all other necessary modifications.
 (2) The survey plans, covenants, and other matters referred to in subsection (1) are all survey plans, covenants, or other matters that relate to a subdivision consent granted, or certificate of compliance issued, by an authorised agency.
-(3) The references to a territorial authority in sections 231(1)(b), 232(2)(c), and 237A(1)(a) of the Resource Management Act 1991 retain the meaning given in section 2(1) of that Act.
+(3) The references to a territorial authority in sections 231(1)﻿(b), 232(2)﻿(c), and 237A(1)﻿(a) of the Resource Management Act 1991 retain the meaning given in section 2(1) of that Act.
 
 **Additional provisions relating to resource consents**
 
@@ -494,17 +494,17 @@ Section 125 of the Resource Management Act 1991 applies to resource consents gra
   (a) as if—
     (i) every reference to the consent authority were a reference to the authorised agency; and
     (ii) every reference to the territorial authority were a reference to the authorised agency; and
-    (iii) in section 125(1)(a), the reference to 5 years were a reference to 1 year; and
-    (iv) in section 125(1A)(b), subparagraphs (ii) and (iii) were replaced with the following subparagraph:
+    (iii) in section 125(1)﻿(a), the reference to 5 years were a reference to 1 year; and
+    (iv) in section 125(1A)﻿(b), subparagraphs (ii) and (iii) were replaced with the following subparagraph:
       (“(ii)) the purpose of the Housing Accords and Special Housing Areas Act 2013.”; and
-    (v) in section 125(1B), the reference to sections 357A and 357C to 358 of that Act were a reference to sections 81(1)(e) and 82 to 84 of this Act; and
+    (v) in section 125(1B), the reference to sections 357A and 357C to 358 of that Act were a reference to sections 81(1)﻿(e) and 82 to 84 of this Act; and
   (b) with all other necessary modifications.
 
 ### 52 Change, cancellation, or review of consent condition on application by consent holder
 (1) Sections 126(1) and (2) and 127 to 129(1) of the Resource Management Act 1991 apply to a resource consent granted under this Act—
   (a) as if every reference to the consent authority were a reference to the authorised agency; and
   (b) as if the reference in section 127(3) to sections 88 to 121 of that Act were a reference to sections 25 and 27 to 42 of this Act and any provisions of the Resource Management Act 1991 referred to in those sections (as modified by this Act); and
-  (c) as if the reference in section 129(1)(e) to section 36(1)(cb) of that Act were a reference to section 77(1)(e) of this Act; and
+  (c) as if the reference in section 129(1)﻿(e) to section 36(1)﻿(cb) of that Act were a reference to section 77(1)﻿(e) of this Act; and
   (d) with all other necessary modifications.
 (2) However, an authorised agency may notify or hold a hearing in relation to an application for a change or cancellation of conditions under section 127(1) of the Resource Management Act 1991 (as applied by subsection (1)), only if the application for the resource consent to which the application relates was notified under section 29(3) and 1 or more submissions were received.
 
@@ -515,7 +515,7 @@ Section 125 of the Resource Management Act 1991 applies to resource consents gra
 ### 54 Matters to be considered in review
 Section 131 of the Resource Management Act 1991 applies to a resource consent granted under this Act as if—
   (a) every reference to the consent authority were a reference to the authorised agency; and
-  (b) in section 131(1)(a), the reference to section 104 of that Act were replaced with a reference to section 34 of this Act; and
+  (b) in section 131(1)﻿(a), the reference to section 104 of that Act were replaced with a reference to section 34 of this Act; and
   (c) with all other necessary modifications.
 
 ### 55 Decision on review of consent conditions
@@ -537,7 +537,7 @@ Section 138 of the Resource Management Act 1991 applies to a resource consent un
 ### 58 Certificates of compliance
 (1) Section 139 of the Resource Management Act 1991 applies to an activity associated with a qualifying development that could be done lawfully without a resource consent—
   (a) as if every reference to the consent authority and the authority were a reference to the authorised agency, except that,—
-    (i) in section 139(9), the reference to sections 357A and 357C to 358 of the Resource Management Act 1991 must be read as referring to sections 81(1)(d) and 82 to 84 of this Act; and
+    (i) in section 139(9), the reference to sections 357A and 357C to 358 of the Resource Management Act 1991 must be read as referring to sections 81(1)﻿(d) and 82 to 84 of this Act; and
     (ii) in section 139(12), sections 120 and 121 of the Resource Management Act 1991 do not apply and section 125 of that Act applies as modified by this Act; and
     (iii) section 139(13) does not apply; and
   (b) with all other necessary modifications.
@@ -556,13 +556,13 @@ This subpart applies only in relation to—
 Nothing in sections 124 and 125 of the Local Government (Auckland Transitional Provisions) Act 2010 limits or affects the provisions of this subpart.
 
 ### 61 Requests for changes to plan or variation to proposed plan
-(1) A person who has applied for or wishes to apply for a resource consent to undertake an activity to which section 25(2)(b) applies may request the authorised agency to change the relevant plan in accordance with sections 62 to 73.
-(2) A person who has applied for or wishes to apply for a resource consent to undertake an activity to which section 25(2)(c) or (d) applies may request the authorised agency to vary the proposed plan in accordance with sections 62 to 73.
+(1) A person who has applied for or wishes to apply for a resource consent to undertake an activity to which section 25(2)﻿(b) applies may request the authorised agency to change the relevant plan in accordance with sections 62 to 73.
+(2) A person who has applied for or wishes to apply for a resource consent to undertake an activity to which section 25(2)﻿(c) or (d) applies may request the authorised agency to vary the proposed plan in accordance with sections 62 to 73.
 (3) A request to change a plan or vary a proposed plan under this section—
-  (a) must be made at the same time as, or before, an application for a resource consent that relates to the qualifying development as provided in section 26(3)(c); and
+  (a) must be made at the same time as, or before, an application for a resource consent that relates to the qualifying development as provided in section 26(3)﻿(c); and
   (b) must—
     (i) be made in writing; and
-    (ii) comply with the requirements in section 26(3)(a); and
+    (ii) comply with the requirements in section 26(3)﻿(a); and
     (iii) either—
       (A) identify the concurrent application or applications it relates to, if the request and the concurrent application are made at the same time; or
       (B) specify that it is intended that 1 or more concurrent applications will be lodged subsequently if the request is accepted; and
@@ -572,10 +572,10 @@ Nothing in sections 124 and 125 of the Local Government (Auckland Transitional P
 (4) The authorised agency, when considering a request for a plan change or variation to a proposed plan under this section, must have regard to the following matters, giving weight to them (greater to lesser) in the order listed:
   (a) the purpose of this Act:
   (b) the matters in Part 2 of the Resource Management Act 1991:
-  (c) the matters in section 74(2)(a) of the Resource Management Act 1991:
+  (c) the matters in section 74(2)﻿(a) of the Resource Management Act 1991:
   (d) the other matters in sections 74 to 77D of the Resource Management Act 1991, except that—
-    (i) section 74 includes the duty under section 32 of that Act only to the extent provided for in subsection (3)(b)(v); and
-    (ii) section 75(3)(c) and (4)(b) does not apply to the extent that the relevant provisions of a proposed regional policy statement or proposed regional plan are more consistent with the purpose of this Act than a regional policy statement or a regional plan; and
+    (i) section 74 includes the duty under section 32 of that Act only to the extent provided for in subsection (3)﻿(b)﻿(v); and
+    (ii) section 75(3)﻿(c) and (4)﻿(b) does not apply to the extent that the relevant provisions of a proposed regional policy statement or proposed regional plan are more consistent with the purpose of this Act than a regional policy statement or a regional plan; and
   (e) any other relevant provision of an enactment (such as the Waitakere Ranges Heritage Area Act 2008).
 (5) If an authorised agency determines under section 32 that 1 or more further consents will be required, the authorised agency is not required to take any further action on the request for the plan change or variation to the proposed plan until the applications for the further consents have been lodged and accepted as complete under section 88 of the Resource Management Act 1991 (as applied by section 27 of this Act).
 (6) Part 3 of Schedule 1 of the Resource Management Act 1991 applies to a plan change or a variation to a proposed plan requested under this subpart.
@@ -636,18 +636,18 @@ Clauses 23 and 24 of Schedule 1 of the Resource Management Act 1991 apply to the
 
 ### 66 Effect of decision on concurrent application
 (1) If the authorised agency rejects the request, any concurrent application lapses.
-(2) If, under section 65(1)(b), an authorised agency accepts the request in part so that the activity that a concurrent application relates to remains a prohibited activity, the authority must decline the concurrent application as a result of the decision.
+(2) If, under section 65(1)﻿(b), an authorised agency accepts the request in part so that the activity that a concurrent application relates to remains a prohibited activity, the authority must decline the concurrent application as a result of the decision.
 (3) If a request is withdrawn or deemed to be withdrawn under section 75, any concurrent application that relates to the request must be treated as having been withdrawn.
 (4) If the authorised agency accepts the request and the request has been modified under section 64, the person making the request may, within 10 working days after being notified of the agency's decision,—
   (a) amend a concurrent application; or
   (b) withdraw a concurrent application and lodge a replacement concurrent application.
-(5) See section 26(3)(c) concerning the time for applying for a resource consent if a concurrent application has not been lodged at the time of lodging the request.
+(5) See section 26(3)﻿(c) concerning the time for applying for a resource consent if a concurrent application has not been lodged at the time of lodging the request.
 
 ### 67 Preparation of plan change or variation, notification, and submissions
-(1) If the authorised agency decides to accept the request or part of the request as provided in section 65(1)(b), the relevant local authority, within 30 working days of notification of acceptance of the request or part of the request under section 65(5), must—
+(1) If the authorised agency decides to accept the request or part of the request as provided in section 65(1)﻿(b), the relevant local authority, within 30 working days of notification of acceptance of the request or part of the request under section 65(5), must—
   (a) prepare the change to the plan or variation to the proposed plan in consultation with the person who made the request; and
   (b) notify the accepted plan change or variation to the proposed plan and its concurrent application to the persons listed in section 29(3).
-(2) The notice under subsection (1)(b) must—
+(2) The notice under subsection (1)﻿(b) must—
   (a) state that the recipients may make submissions on the plan change or variation to the proposed plan and its concurrent application to the authorised agency within 20 working days from the date of the notice; and
   (b) state the closing date for submissions and the address for service of the authorised agency; and
   (c) request that those who make submissions indicate whether they wish to be heard.
@@ -660,7 +660,7 @@ Clauses 23 and 24 of Schedule 1 of the Resource Management Act 1991 apply to the
   (a) the applicant; and
   (b) every person who has made a submission on the request; and
   (c) any of the persons listed in section 29(3) who did not make a submission, and for this purpose section 29(3) applies as if every reference in that provision to the land subject to the application were a reference to the land subject to the application together with the additional land identified in the submission.
-(3) Section 67(2) to (4) applies in relation to notices given under this section, except that, in section 67(2)(a), the reference to 20 working days from the date of the notice must be read as a reference to 10 working days from the date of the notice.
+(3) Section 67(2) to (4) applies in relation to notices given under this section, except that, in section 67(2)﻿(a), the reference to 20 working days from the date of the notice must be read as a reference to 10 working days from the date of the notice.
 
 ### 69 Hearings
 (1) The authorised agency must hold a hearing, not later than 20 working days after the closing date for submissions (or, if section 68 applies, the closing date for further submissions), if any person who made a submission in accordance with section 67(2) or 68(3) has indicated that the person wishes to be heard and has not withdrawn that indication.
@@ -693,7 +693,7 @@ Clauses 23 and 24 of Schedule 1 of the Resource Management Act 1991 apply to the
   (b) notify the person who made the request of its decision; and
   (c) give public notice of the decision and, at the same time, serve a copy of the notice on every person who made a submission on the request for a plan change or variation to a proposed plan or the concurrent application.
 (2) Schedule 2 provides for the time periods that must be excluded from the time limit specified in subsection (1).
-(3) Section 113 of the Resource Management Act 1991 applies, with all necessary modifications, to the decision given under subsection (1)(a).
+(3) Section 113 of the Resource Management Act 1991 applies, with all necessary modifications, to the decision given under subsection (1)﻿(a).
 
 ### 73 Effect of notifying decision to approve plan change or variation
 If the authorised agency's decision is to approve the plan change or variation to a proposed plan, on and after the date on which public notice is given,—
@@ -705,8 +705,8 @@ If the authorised agency's decision is to approve the plan change or variation t
 ### 74 Authorised agency may adopt request for plan change or variation to proposed plan
 (1) An authorised agency may adopt a request or part of a request for a plan change or variation to a proposed plan made under section 61 if—
   (a) it wishes to consider the request or part of the request together with 1 or more other requests or parts of other requests made under section 61 in relation to the same special housing area; and
-  (b) the requests meet the criteria in section 61(3)(b).
-(2) Sections 61(4) to (6) and 62 to 73 apply, with all necessary modifications, in relation to a request adopted under this section as if the request had been accepted under section 65(1)(b).
+  (b) the requests meet the criteria in section 61(3)﻿(b).
+(2) Sections 61(4) to (6) and 62 to 73 apply, with all necessary modifications, in relation to a request adopted under this section as if the request had been accepted under section 65(1)﻿(b).
 
 **Concurrent plan change or variation processes**
 
@@ -732,7 +732,7 @@ If the authorised agency's decision is to approve the plan change or variation t
   (a) section 21 (avoiding unreasonable delay):
   (b) section 27 (Minister may require local authorities to supply information), however, the Minister responsible for the administration of this Act may also exercise the power in that section as if that Minister were the Minister for the Environment:
   (c) section 34 (delegation of functions, etc, by local authorities), but only if the authorised agency is a local authority (including where the local authority is acting under delegation from the chief executive under section 86):
-  (d) section 34A (delegation of powers and functions to employees and other persons), except that section 34A(1)(a) must be read as referring to any functions or powers under subpart 3 (except as provided in section 90(3)):
+  (d) section 34A (delegation of powers and functions to employees and other persons), except that section 34A(1)﻿(a) must be read as referring to any functions or powers under subpart 3 (except as provided in section 90(3)):
   (e) section 36A (no duty under this Act to consult about resource consent applications and notices of requirement):
   (f) sections 37 (power of waiver and extension of time limits) and 37A (requirements for waivers and extensions):
   (g) sections 39 to 41A, 41B(1) to (4), 41C, 42, and 42A (concerning powers and duties in relation to hearings and reports to a local authority):
@@ -772,7 +772,7 @@ There is no right of appeal or objection against a decision made by the authoris
 (3) The appellant must ensure that a copy of the notice of appeal is served on every person referred to in subsection (1) not later than 5 working days after the appeal is lodged with the Environment Court.
 (4) Part 11 of the Resource Management Act 1991 applies to an appeal under this section—
   (a) as if every reference to a consent authority or a local authority were a reference to an authorised agency; and
-  (b) as if section 274(1)(d), (da), and (f) were repealed and section 274(1)(e) read a person who made a submission about the subject matter of the proceedings; and; and
+  (b) as if section 274(1)﻿(d), (da), and (f) were repealed and section 274(1)﻿(e) read a person who made a submission about the subject matter of the proceedings; and; and
   (c) with any other necessary modifications.
 (5) This section is in addition to the rights provided for in section 81.
 
@@ -790,17 +790,17 @@ There is no right of appeal or objection against a decision made by the authoris
   (d) a person whose application for a certificate of compliance is not granted by an authorised agency under section 58 of this Act:
   (e) a person who has made an application under any of the following provisions, in respect of the authorised agency's decision on that application:
     (i) section 51 of this Act (which relates to lapsing of consents); or
-    (ii) section 126(2)(b) of the Resource Management Act 1991, as modified by section 52 of this Act (which relates to the cancellation of consents):
+    (ii) section 126(2)﻿(b) of the Resource Management Act 1991, as modified by section 52 of this Act (which relates to the cancellation of consents):
   (f) in respect of the authorised agency’s decision on an application or a review described in subsection (3), an applicant or a consent holder in respect of a consent granted, or a consent notice issued, by the authorised agency:
   (g) a person required by the authorised agency to pay an additional charge under section 36(3) of the Resource Management Act 1991 as applied by section 77(2) of this Act:
   (h) a person who made a request for a plan change or variation to a proposed plan, in respect of an authorised agency's decision to—
     (i) adopt or accept the request in part only under section 65(1):
     (ii) reject the request under clause 23(6) of Schedule 1 of the Resource Management Act 1991 as applied by section 62 or 64 of this Act:
     (iii) reject the request under section 65(4) in whole or in part.
-(2) For the purposes of subsection (1)(a), the circumstances are—
+(2) For the purposes of subsection (1)﻿(a), the circumstances are—
   (a) that the application was notified, but no submissions were received on the application or, if any submissions were received, they were withdrawn; or
   (b) that the application was not notified.
-(3) Subsection (1)(f) applies to—
+(3) Subsection (1)﻿(f) applies to—
   (a) an application made under section 127 of the Resource Management Act 1991, as modified by section 52 of this Act, for a change or cancellation of a condition of the resource consent; and
   (b) a review of the conditions of a resource consent granted by the authorised agency under sections 128 to 132 of the Resource Management Act 1991, as modified by sections 52 to 55 of this Act; and
   (c) an application made under section 221 of the Resource Management Act 1991, as modified by section 44 of this Act, to vary or cancel a condition specified in a consent notice issued by the authorised agency.
@@ -811,7 +811,7 @@ Section 357C of the Resource Management Act 1991 applies to an objection made un
 ### 83 Decisions on objections
 Section 357D(1) and (2) of the Resource Management Act 1991 applies to an objection made under section 81 of this Act as if—
   (a) every reference to sections 357, 357A, and 357B were a reference to section 81 of this Act; and
-  (b) the references to sections 357B(a) and 36(3) of the Resource Management Act 1991 were references to sections 81(1)(g) and 77 of this Act; and
+  (b) the references to sections 357B(a) and 36(3) of the Resource Management Act 1991 were references to sections 81(1)﻿(g) and 77 of this Act; and
   (c) with all other necessary modifications.
 
 ### 84 No right to appeal against decisions on objections
@@ -898,7 +898,7 @@ The transitional provisions in Schedule 3 have effect for the purposes of this A
 
 | Provisions specifying time limits | Excluded time periods and circumstances for exclusion |
 | --- | --- |
-| Subpart 2—Resource consent applications1section 29(4) (which relates to the time limit for notification of a resource consent application)2section 30(1) (which relates to the time within which, after the closing date for submissions, an authorised agency must hold any hearing)3section 31 (which relates to the time within which, after the closing date for submissions, an authorised agency must complete any hearing)4section 41 (which relates to the time within which the authorised agency must notify its decision on an application for a resource consent)Subpart 3—Requests for plan changes and variations to proposed plans5section 67 (which relates to the time within which an authorised agency must notify a request and its concurrent application)6section 69(1) (which relates to the time within which, after the closing date for submissions, an authorised agency must hold any hearing)7section 69(3) (which relates to the time within which, after the closing date for submissions, an authorised agency must complete any hearing)8section 72(1) (which relates to the time within which, after the date of notice of acceptance or adoption of a request or part of a request, an authorised agency must give and notify its decision). | ain the circumstances described in section 88C(1) of the Resource Management Act 1991, the time period referred to in section 88C(2) of that Act (relating to requests for information under section 92 of that Act (as applied by section 28 of this Act))bin the circumstances described in section 88C(3) or (5) of the Resource Management Act 1991, the applicable time period referred to in section 88C(4) or (6) of that Act (which relates to the commissioning of a report under section 92 of that Act (as applied by section 28 of this Act))cin the circumstances described in section 88E(1) of the Resource Management Act 1991, the time period referred to in section 88E(2) of that Act (relating to deferring the notification or hearing of a resource consent application pending additional resource consent applications under section 91 of that Act (as applied by section 32 of this Act))dif a direction is given under section 34(4) of this Act, the time period starting from the date of the direction and ending on the date on which the infrastructure provider or local authority provides the informationefor a concurrent application, the time period between an application being returned under section 27(2)(c) and being lodged again, if the re-lodging is within the time period in section 27(2)(d). |
+| Subpart 2—Resource consent applications1section 29(4) (which relates to the time limit for notification of a resource consent application)2section 30(1) (which relates to the time within which, after the closing date for submissions, an authorised agency must hold any hearing)3section 31 (which relates to the time within which, after the closing date for submissions, an authorised agency must complete any hearing)4section 41 (which relates to the time within which the authorised agency must notify its decision on an application for a resource consent)Subpart 3—Requests for plan changes and variations to proposed plans5section 67 (which relates to the time within which an authorised agency must notify a request and its concurrent application)6section 69(1) (which relates to the time within which, after the closing date for submissions, an authorised agency must hold any hearing)7section 69(3) (which relates to the time within which, after the closing date for submissions, an authorised agency must complete any hearing)8section 72(1) (which relates to the time within which, after the date of notice of acceptance or adoption of a request or part of a request, an authorised agency must give and notify its decision). | ain the circumstances described in section 88C(1) of the Resource Management Act 1991, the time period referred to in section 88C(2) of that Act (relating to requests for information under section 92 of that Act (as applied by section 28 of this Act))bin the circumstances described in section 88C(3) or (5) of the Resource Management Act 1991, the applicable time period referred to in section 88C(4) or (6) of that Act (which relates to the commissioning of a report under section 92 of that Act (as applied by section 28 of this Act))cin the circumstances described in section 88E(1) of the Resource Management Act 1991, the time period referred to in section 88E(2) of that Act (relating to deferring the notification or hearing of a resource consent application pending additional resource consent applications under section 91 of that Act (as applied by section 32 of this Act))dif a direction is given under section 34(4) of this Act, the time period starting from the date of the direction and ending on the date on which the infrastructure provider or local authority provides the informationefor a concurrent application, the time period between an application being returned under section 27(2)﻿(c) and being lodged again, if the re-lodging is within the time period in section 27(2)﻿(d). |
 
 ## Schedule 3 — Transitional provisions
 
@@ -921,18 +921,18 @@ The transitional provisions in Schedule 3 have effect for the purposes of this A
 (2) If a person applies for a resource consent under section 25, the authorised agency for the resource consent application is—
   (a) the accord territorial authority, if the application is made in the 3-month period starting on the day after the public notice date; and
   (b) the chief executive, if the application is made after the end of the 3-month period referred to in paragraph (a).
-(3) Despite subclause (2)(b), the accord territorial authority remains the authorised agency for an application for a resource consent made under section 25, if that application is made in conjunction with a request for a plan change or a variation to a proposed plan under section 61 that is made before the date that the housing accord terminates (the termination date).
+(3) Despite subclause (2)﻿(b), the accord territorial authority remains the authorised agency for an application for a resource consent made under section 25, if that application is made in conjunction with a request for a plan change or a variation to a proposed plan under section 61 that is made before the date that the housing accord terminates (the termination date).
 (4) The accord territorial authority must not accept new applications made under section 25 or requests made under section 61 after the termination date.
 (5) Despite the termination of a housing accord,—
   (a) the former accord territorial authority must continue to comply with Part 2 in respect of—
     (i) all resource consent applications (including applications made in conjunction with a request for a plan change or variation of a proposed plan under section 61), requests, objections, and other matters provided for in Part 2 that exist at the public notice date; and
-    (ii) all resource consent applications and requests to which subclauses (2)(a) and (3) apply; and
+    (ii) all resource consent applications and requests to which subclauses (2)﻿(a) and (3) apply; and
   (b) accept and process the following in respect of the resource consent applications referred to in paragraph (a):
     (i) applications made under section 52; and
     (ii) requests made under section 58; and
     (iii) objections made under section 82; and
   (c) Part 2 continues to apply for the purposes of paragraphs (a) and (b) as if the former accord territorial authority were still an authorised agency.
-(6) Subclause (5)(b)(iii) is subject to clause 3.
+(6) Subclause (5)﻿(b)﻿(iii) is subject to clause 3.
 
 ### 3 Right to elect who considers objections against decisions, etc, of accord territorial authority after termination of housing accord
 (1) In this clause right of objection means a right of objection under section 81 against a decision made, or other action referred to in that section taken, by the accord territorial authority acting in the capacity of authorised agency.
@@ -942,7 +942,7 @@ The transitional provisions in Schedule 3 have effect for the purposes of this A
 (5) If a person elects to have an objection against a decision or other action of an accord territorial authority considered and decided by the chief executive,—
   (a) the accord territorial authority must provide the chief executive with all information that it holds in respect of the decision or other action objected to; and
   (b) the accord territorial authority must, as soon as practicable after the chief executive requires it to do so, provide any further information that the chief executive reasonably considers to be necessary to allow the objection to be considered and decided on and that the accord territorial authority holds.
-(6) For the purposes of sections 77(1)(f), 82, and 83, the chief executive is deemed to be the authorised agency in respect of all objections that persons elect under this clause to have considered and decided by the chief executive.
+(6) For the purposes of sections 77(1)﻿(f), 82, and 83, the chief executive is deemed to be the authorised agency in respect of all objections that persons elect under this clause to have considered and decided by the chief executive.
 
 ### 4 Regulations for transitional purposes
 (1) In this clause, transition, in relation to any matter dealt with in this Act means the transition from the relevant law that applies in respect of the matter immediately before this Act is repealed, or any provision relevant to the matter is repealed or no longer applies or has the same effect in respect of the matter, to the law that applies or has an effect after that event.
