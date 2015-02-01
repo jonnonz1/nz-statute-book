@@ -1,5 +1,5 @@
 # State Sector Amendment Act 2013
-_Consolidation as at 2013-07-17_
+_Consolidation as at 2015-02-01_
 
 ### 1 Title
 This Act is the State Sector Amendment Act 2013.
