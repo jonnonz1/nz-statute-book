@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-02-01_
 
 > Title
 
@@ -1292,6 +1292,12 @@ Without limiting the provisions of the Acts Interpretation Act 1924, it is hereb
 
 ## Schedule 1 — Departments of the Public Service
 
+## Schedule 1A
+
+| Departmental agency | Host department |
+| --- | --- |
+| Canterbury Earthquake Recovery Authority | Department of the Prime Minister and Cabinet |
+
 ## Schedule 2 — State enterprises
 
 ## Schedule 3 — Procedure for conciliation and arbitration
@@ -1347,3 +1353,14 @@ Sections 30H and 30I of the State Sector Act 1988 apply to things coming into fo
   (a) The Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5):
   (b) Information Supporting the Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5A).
 (3) The statements of intent for 2012–2015 for the former departments and ministries must be taken to be the Statement of Intent for 2012–2015 for the Ministry of Business, Innovation, and Employment.
+
+### 1 Title
+This order is the State Sector (Establishment of Canterbury Earthquake Recovery Authority as Departmental Agency) Order 2014.
+
+### 2 Commencement
+This order comes into force on 1 February 2015.
+
+### 3 State Sector Act 1988 amended
+((1), (2)) Amendment(s) incorporated in the Act(s).
+(3) Sections 30E and 30F of the State Sector Act 1988 apply to the transfer of functions from the department Canterbury Earthquake Recovery Authority to the departmental agency Canterbury Earthquake Recovery Authority.
+(4) Sections 30H and 30I of the State Sector Act 1988 apply to things coming into force, entered into, or created during the transitional period beginning on 1 February 2015 and ending on 18 April 2016 after the transfer of functions referred to in subclause (3).
