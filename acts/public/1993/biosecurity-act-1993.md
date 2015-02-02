@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2014-06-24_
+_Consolidation as at 2015-02-02_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -278,7 +278,7 @@ A provision in this Act that applies in the territorial sea must be interpreted 
 
 ### 7 Relationship with other enactments
 (1) Nothing in any enactment specified in this section affects the performance or exercise of any power, function, or duty conferred by Part 7.
-(2) Except—this Act must not be construed so as to affect or derogate in any way from the provisions of the Soil Conservation and Rivers Control Act 1941, the Forests Act 1949, the Wildlife Act 1953, the Health Act 1956, the Animal Welfare Act 1999, the Wild Animal Control Act 1977, the Reserves Act 1977, the National Parks Act 1980, the Fisheries Act 1983, the Conservation Act 1987, the Trade in Endangered Species Act 1989, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(2) Except—this Act must not be construed so as to affect or derogate in any way from the provisions of the Soil Conservation and Rivers Control Act 1941, the Forests Act 1949, the Wildlife Act 1953, the Health Act 1956, the Animal Welfare Act 1999, the Wild Animal Control Act 1977, the Reserves Act 1977, the National Parks Act 1980, the Fisheries Act 1983, the Conservation Act 1987, the Te Urewera Act 2014, the Trade in Endangered Species Act 1989, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
   (a) to the extent provided in subsections (1), (5), and (6), and sections 7A to 7D; and
   (b) to the extent that those enactments are expressly amended by section 168(1),—
 (3) This Act must not be construed so as to affect or derogate in any way from the provisions of the Customs and Excise Act 1996 and, in particular, the provisions of this Act do not affect the obligations of any person under the Customs and Excise Act 1996 in relation to goods.
