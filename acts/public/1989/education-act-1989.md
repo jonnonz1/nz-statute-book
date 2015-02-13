@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-02-13_
 
 > An Act to reform the administration of education
 
@@ -1873,6 +1873,7 @@ Notwithstanding sections 79 to 81,—
   (h) any other statements that the Secretary determines in consultation with the Auditor-General:
   (i) in relation to each statement required by paragraphs (a) to (c) and, if appropriate, by paragraph (g), budgeted figures for the financial year:
   (j) in relation to each statement required by paragraphs (a) to (c), paragraph (d), and paragraph (e) and, if appropriate, by paragraph (g), comparative actual figures for the previous financial year.
+(3AA) The annual financial statements in the annual report must be in the form (if any) determined by the Secretary after consultation with the Auditor-General.
 (3A) In addition, a board that is a parent in a Crown entity group must, to the extent required to do so by generally accepted accounting practice, prepare consolidated financial statements in relation to the group for that financial year.
 (4) The annual financial statements must be accompanied by a statement of responsibility that complies with section 155 of the Crown Entities Act 2004 but that is signed by the chair of the board and principal instead of 2 members.
 (5) In subsection (2), trustee and employee include a person who was a trustee or employee at any time during the applicable financial year but who is no longer a trustee or employee.
@@ -3856,7 +3857,7 @@ In this Part, unless the context otherwise requires,—
     (i) the objectives and performance standards of the sponsor under the contract; and
     (ii) any relevant national standards published under section 60A(1)﻿(ba); and
   (c) the maximum roll of the school; and
-  (d) the number or percentage of teaching positions (within the meaning of section 120) that must be filled by registered teachers or holders of limited authority to teach; and
+  (d) the number or percentage of teaching positions (within the meaning of section 120) that must be filled by people holding a practising certificate or limited authority to teach; and
   (e) the curriculum to be taught at the school; and
   (f) the qualifications to be offered by the school (if it is a secondary or composite partnership school kura hourua); and
   (g) a procedure for the independent review of complaints against the school; and
@@ -4838,77 +4839,101 @@ The object of the provisions of this Act relating to institutions is to give the
 (1) If, after the constitution of a council has been determined, the council recommends to the Minister that the constitution be amended in a manner that complies with the requirements of section 171, the Minister shall, by notice published in the Gazette, amend the constitution in accordance with the recommendation.
 (2) Subsection (1) does not apply to the council of a designated polytechnic.
 
-### 171 Requirements as to constitutions of councils
-(1) The council of an institution shall consist of not fewer than 12 nor more than 20 members.
-(2) Subject to subsection (1), the council of an institution shall include—
-  (a) 4 persons appointed by the Minister:
-  (b) the chief executive of the institution:
-  (c) at least 1, but not more than 3, permanent members of the academic staff of the institution elected by the permanent members of that staff:
-  (d) at least 1, but not more than 3, permanent members of the general staff of the institution elected by the permanent members of that staff:
-  (e) at least 1, but not more than 3, persons who must be appointed following an election (conducted in accordance with statutes made by the council) by the students at the institution:
-  (ea)
-  (f) having regard to the courses provided by the institution—
-    (i) 1 person appointed in accordance with the council's constitution after consultation by the person or body making the appointment with the central organisation of employers within the meaning of the Labour Relations Act 1987:
-    (ii) 1 person appointed in accordance with the council's constitution after consultation by the person or body making the appointment with the central organisation of workers within the meaning of the Labour Relations Act 1987:
-    (iii) if the governing body or the establishment committee, as the case may be, considers it appropriate for professional bodies to be represented on the council, 1 or more persons appointed in accordance with the council's constitution to represent those bodies.
-(3) The constitution of a council may, in addition to providing for the council to include the persons mentioned in subsection (2) but subject to subsection (1), contain any 1 or more of the following provisions:
-  (a) a provision allowing the council to co-opt as members not more than a specified number of persons:
-  (b) a provision allowing the appointment, in accordance with the provision, as members of not more than a specified number of persons:
-  (c) a provision allowing the election, in accordance with the provision, as members of not more than a specified number of persons.
-(4) It is desirable that the council of an institution should reflect so far as is reasonably practicable,—
+### 170A Constitution to provide for membership of council
+(1) The constitution of a council must provide that it has 8, 9, 10, 11, or 12 members.
+(2) Subsection (1) does not apply to the constitution of the council of a designated polytechnic.
+
+### 171 Membership of council
+(1) The council of an institution must have a total of 8, 9, 10, 11, or 12 members, as provided in its constitution, comprising—
+  (a) the following number of members appointed by the Minister by written notice to the council:
+    (i) 4 members (in the case of a council comprising 10, 11, or 12 members):
+    (ii) 3 members (in the case of a council comprising 8 or 9 members); and
+  (b) enough members appointed by the council by resolution, in accordance with its statutes, to bring the membership up to that total number.
+(2) Subsection (1) does not apply to the membership of the council of a designated polytechnic (for which sections 222AA and 222AM provide).
+
+### 171A Certain people disqualified from appointment
+(1) A person cannot be appointed as a member of the council of an institution if he or she—
+  (a) has at any time after the commencement of section 7 of the Education Amendment Act 2015 been removed as a member of the council of any institution of any kind; or
+  (b) is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
+  (c) is a person in respect of whom a personal order has been made under the Protection of Personal and Property Rights Act 1988 that reflects adversely on—
+    (i) his or her competence to manage his or her own affairs in relation to his or her property; or
+    (ii) his or her capacity to make or to communicate decisions relating to any particular aspect or aspects of his or her personal care and welfare; or
+  (d) is a bankrupt—
+    (i) who has not obtained his or her order of discharge; or
+    (ii) whose order of discharge has been suspended for a term not yet expired or is subject to conditions not yet fulfilled.
+(2) Subsection (1) does not apply to the membership of the council of a designated polytechnic (for which section 222AA provides).
+
+### 171B Matters to be considered when appointing members
+(1) It is desirable that the council of an institution should, so far as is reasonably practicable, reflect—
   (a) the ethnic and socio-economic diversity of the communities served by the institution; and
   (b) the fact that approximately half the population of New Zealand is male and half the population is female.
-(5) The Minister, when appointing members of a council, and a council, when co-opting or appointing members, shall have regard to subsection (4) and shall strive to ensure that the council has a sufficient number of members with expertise in management to enable the council properly to perform its functions.
-(6) A person is not eligible for appointment, election, or co-option as a member of a council, if,—
-  (a)
-  (b) the person is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
-  (ba) the person is a person in respect of whom a personal order has been made under that Act that reflects adversely on his or her—
-    (i) competence to manage his or her own affairs in relation to his or her property; or
-    (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of his or her personal care and welfare; or
-  (c) the person is a bankrupt who has not obtained his or her order of discharge or whose order of discharge has been suspended for a term not yet expired or is subject to conditions not yet fulfilled.
-(7) The constitution of a council shall contain a provision limiting the number of occasions on which a person may be appointed, elected or co-opted as a member of the council but, subject to any such provision, a person is not ineligible for appointment, election or co-option as a member of a council merely because the person has previously been a member of that council.
-(8)
-(8A)
-(9) No act or proceeding of, or of any committee of, a council is invalidated because of—
-  (a) a defect in the appointment, election or co-option of a member of the council or of the committee; or
-  (b) a disqualification of a member of the council or of the committee; or
-  (c) a defect in the convening of a meeting; or
-  (d) a vacancy or vacancies in the membership of the council or of the committee.
-(10) In this section permanent member, in relation to the academic or general staff of an institution, means a member of that staff—
-  (a) who is employed, either on a full-time or part-time basis—
-    (i) for a period ending, unless sooner terminated, on his or her reaching a specified age; or
-    (ii) until he or she retires or resigns; or
-  (b) who has been employed, whether under a contract for a specified period or otherwise, and either on a full-time or part-time basis, for at least 3 months; or
-  (c) who has been employed, whether under a contract for a specified period or otherwise, and either on a full-time or part-time basis, for less than 3 months and whose employment is, in the opinion of the chief executive of the institution, likely to continue for at least 3 months from the date of commencement of that employment.
-(11) The members of the staff of an institution who are to be regarded as the academic staff of the institution, and the members of the staff of an institution who are to be regarded as the general staff of the institution, for the purposes of an election of members of the council of the institution by the staff of the institution or for the purposes of membership of the council by persons so elected, shall, if there are no statutes of the institution dealing with the matter, be determined by the chief executive of the institution.
-(12) Subsections (1) to (11) do not apply to the constitution of the council of a designated polytechnic (for which sections 222AA and 222AM provide).
+(2) When appointing members of a council, the Minister or council must have regard to subsection (1), but—
+  (a) must ensure that at least 1 member of the council is Māori; and
+  (b) must appoint people who (in the Minister's or council's opinion)—
+    (i) have relevant knowledge, skills, or experience; and
+    (ii) are likely to be able to fulfil their individual duties to the council; and
+    (iii) together with the other members of the council, are capable of undertaking its responsibilities, duties, and functions.
+(3) Subsections (1) and (2) do not apply to the membership of the council of a designated polytechnic (for which section 222AD provides).
+
+### 171C Statutes relating to appointment of members by councils of institutions
+(1) The council of an institution may make statutes relating to the appointment of members under section 171(1)﻿(b) (or, as the case requires, section 222AA(1)﻿(b)).
+(2) In respect of any of the appointments the council has power to make, the statutes—
+  (a) may provide for direct appointment by the council of a member chosen by the council; or
+  (b) may require the council to appoint a member—
+    (i) of a stated description; or
+    (ii) holding a stated office; or
+    (iii) nominated by a stated institution or institutions, or an institution or institutions of a stated description; or
+    (iv) elected by people of a stated description.
+(3) To the extent that the statutes require the council to appoint any member elected by people of a stated description, they must also provide for the processes by which elections must be held and their results must be determined.
+(4) To the extent that the statutes require the council to appoint any member nominated by a stated institution or institutions, or an institution or institutions of a stated description, they must also provide for the process by which nominations may be called for and must be considered.
+(5) In the case of an appointment pursuant to a statute providing for any of the matters stated in subsection (2)﻿(b), it is a sufficient compliance with section 171B(2)﻿(b) if, when making the statute concerned, the council—
+  (a) had regard to section 171B(1); and
+  (b) was satisfied that compliance with the statute would be likely to result in the appointment of a person who—
+    (i) has relevant knowledge, skills, or experience; and
+    (ii) is likely to be able to fulfil his or her individual duties to the council; and
+    (iii) together with the other members of the council, is capable of undertaking its responsibilities, duties, and functions.
+(6) Subsections (2) to (4) do not limit the generality of section 194.
+
+### 171D Limitations on number of occasions on which people may be appointed as members of councils
+(1) The constitution of the council of an institution must contain a provision limiting the number of occasions on which a person may be appointed as a member of the council.
+(2) A person cannot be appointed as a member of the council of an institution if he or she has previously been appointed as a member of the council on the number of occasions, or more than the number of occasions, stated in the provision described in subsection (1).
+(3) For the purposes of subsection (2), appointed means—
+  (a) appointed, elected, or co-opted, (otherwise than to fill a casual vacancy) before the commencement of section 7 of the Education Amendment Act 2015; or
+  (b) appointed on or after that commencement.
+(4) Except as provided in subsection (2), a person is not ineligible for appointment as a member of the council of an institution just because he or she has previously been a member of the council.
+(5) Subsections (1) to (3) do not apply to the council of a designated polytechnic (for which section 222AF provides).
+
+### 171E Membership of more than 1 council
+A person who is a member of the council of an institution may be appointed as a member of the council of another institution (whether or not they are institutions of the same kind).
+
+### 171F Certain acts and proceedings not invalidated by defects
+(1) No act or proceeding of a council of an institution, or of any committee of a council of an institution, is invalidated by—
+  (a) a defect in the appointment of a member of the council or committee; or
+  (b) a defect in the nomination of a member of the council or committee for appointment as a member of the council; or
+  (c) a defect in the election of a member of the council or committee for appointment as a member of the council; or
+  (d) a disqualification of a member of the council or committee; or
+  (e) a vacancy or vacancies in the membership of the council or committee; or
+  (f) a defect in the convening of any meeting.
+(2) Subsection (1) does not apply to the council of a designated polytechnic (for which section 222AA provides).
 
 ### 172 Transitional provisions relating to an institution's first council
 [Repealed]
 
 ### 173 Term of office
-(1) Subject to this section, members of the council of an institution who are appointed, or (not being student members) are elected, hold office for 4 years.
-(2) Subject to this section, a student member holds office for 1 year.
-(3) Subject to this section, a member co-opted by the council holds office for such period, not exceeding 4 years, as the council determines in relation to the member concerned.
-(4) Each of the members first appointed (otherwise than under section 172) to the council, and each of the members (other than a student member) first elected to the council, holds office for either 2 years or 4 years, as the council determines in relation to the member concerned at, or within 3 months (or such further period as the Minister allows) after, its first meeting.
-(5) The term of office of a member of a council who is appointed, elected or co-opted commences on whichever is the latest of the following:
-  (a) the date of the appointment, election or co-option:
-  (b) in the case of a member who was appointed or elected as mentioned in section 171(2) and whose predecessor in office did not cease to hold office before the expiration of his or her term of office, the expiration of that term:
-  (c) the date of commencement of this section.
-(6) Notwithstanding subsections (1), (2), and (4), if the term of office of a member of a council who was appointed or elected as mentioned in section 171(2) expires before a successor is appointed or elected, the member continues in office until a successor is appointed or elected.
-(7) This section has effect subject to sections 172, 174, and 176.
-(8) Subsections (1) to (7) do not apply to the term of office of a member of the council of a designated polytechnic (for which section 222AE provides).
+(1) When appointing a member of the council of an institution, the Minister or council—
+  (a) may appoint the member for any period of not more than 4 years; and
+  (b) must state in the notice or resolution appointing him or her—
+    (i) the day on which his or her appointment takes effect; and
+    (ii) the term for which he or she is appointed.
+(2) If the term of office of a member of a council expires before a successor is appointed, he or she continues in office until his or her successor's appointment takes effect.
 
 ### 174 Vacation of office
 (1) A member of a council may resign as a member by written notice signed by the member and given to the chief executive.
-(1A) Subsection (1) does not apply to—
-  (a) the chief executive of an institution that is not a designated polytechnic; or
-  (b) the chief executive of a designated polytechnic who has been appointed by its council pursuant to a statute requiring it to appoint the chief executive a member of its council.
-(2) A member of the council of an institution who was elected as mentioned in paragraph (c) or paragraph (d) of section 171(2) ceases to hold office as a member if he or she—
-  (a) being a member referred to in section 171(2)﻿(c), ceases to be a permanent member of the academic staff of the institution; or
-  (b) being a member referred to in section 171(2)﻿(d), ceases to be a permanent member of the general staff of the institution.
-(2A) Subsection (2) does not apply to the council of a designated polytechnic.
+(1A) Subsection (1) does not apply to the chief executive of an institution who has been appointed by its council pursuant to a statute requiring it to appoint the chief executive as a member of the council.
+(2)
+(2A)
 (3) The council may, by resolution, dismiss a member of a council (other than the chief executive) as a member if the member—
+  (aa) has, after the commencement of section 7 of the Education Amendment Act 2015, been removed as a member of the council of some other institution; or
   (a) is declared bankrupt; or
   (b) becomes subject to a property order under the Protection of Personal and Property Rights Act 1988 (other than an order under section 30 of that Act); or
   (ba) becomes subject to a personal order under that Act that reflects adversely on his or her—
@@ -4931,24 +4956,88 @@ The object of the provisions of this Act relating to institutions is to give the
 (3) For the purposes of this section, a person has an interest in a matter if, and only if, the matter relates to the conditions of service of the person as the chief executive or a member of the staff of the institution concerned or the person has any other direct or indirect pecuniary interest in the matter.
 
 ### 176 Casual vacancies
-(1) If the office of a member of a council becomes vacant before the end of the member's term of office, a person shall, subject to subsection (2), be appointed, elected or co-opted to the vacant office by the same procedure as that by which the member whose office became vacant became a member.
-(2) If the vacancy occurs within 3 months before the end of the member's term of office, the council may decide that the vacancy need not be filled under this section.
-(3) A member appointed, elected or co-opted under this section holds office for the period commencing on the date of the appointment, election or co-option and ending at the expiration of the term of office of the member whose office became vacant.
-(4) Notwithstanding subsection (3), if the term of office of a member referred to in that subsection who was appointed or elected as mentioned in section 171(2) expires before a successor is appointed or elected, the member continues in office until a successor is appointed or elected.
-(5) This section has effect subject to section 174.
+(1) If the office of a member of the council of an institution becomes vacant before the end of the member's term of office,—
+  (a) another person must be appointed to the office by the procedure by which the member became a member; but
+  (b) if the procedure is no longer available (or no longer applicable to the vacant position), the council must consider whether it is necessary to appoint another person under its constitution and, if so,—
+    (i) determine the appropriate procedure for appointment of another person; and
+    (ii) appoint another person using it.
+(2) If the office becomes vacant within 3 months before the end of the member's term of office, the Minister or council (as the case may be) may decide that the vacancy does not need to be filled under this section.
+(3) Sections 173 and 174 apply to an appointment under this section.
+
+### 176A Individual duties of members of councils
+(1) A member of the council of an institution, when acting as a member of the council in any circumstances,—
+  (a) must—
+    (i) act with honesty and integrity; and
+    (ii) act in the interests of the institution as a whole; and
+    (iii) act in a manner that promotes the performance of the functions characteristic of an institution of the kind to which he or she belongs, and the duties of the council; and
+    (iv) act in good faith, and not pursue his or her own interests at the expense of the council's interests; and
+  (b) must exercise the care, diligence, and skill that a reasonable person would exercise in the same circumstances, taking into account—
+    (i) the nature of the institution; and
+    (ii) the nature of the action; and
+    (iii) the position of the member as a member of the council of an institution, and the nature of the responsibilities undertaken by him or her; and
+  (c) must not disclose any information to which subsection (3) applies to any person, or make use of, or act on, that information, except—
+    (i) in the performance of the council's functions; or
+    (ii) as required or permitted by law; or
+    (iii) if he or she has earlier been authorised to do so by the council; or
+    (iv) if disclosing, making use of, or acting on it will not, or will be unlikely to, prejudice the council or the institution; or
+    (v) in complying with requirements for members to disclose interests.
+(2) The fact that a member of the council of an institution was appointed by the council in accordance with a statute providing for the appointment of a member (or 2 or more members) to represent the interests of a stated institution or of people or institutions of a stated description does not displace or limit the member's duty under subsection (1)﻿(a)﻿(ii) to act in the interests of the institution as a whole.
+(3) This subsection applies to information that—
+  (a) a member of the council of an institution has in his or her capacity as a member of the council; and
+  (b) would not otherwise be available to him or her.
+(4) Subparagraphs (i) to (iii) of paragraph (b) of subsection (1) do not limit the generality of that paragraph.
+
+### 176B Accountability for individual duties
+(1) The duties of a member of the council of an institution (council member) under section 176A (individual duties) are duties owed to the Minister and the council.
+(2) A council member who does not comply with his or her individual duties may be removed from office under section 176C or 222AJ (as the case requires).
+(3) The council of an institution may bring an action against a council member for breach of any individual duty.
+(4) Except as provided in subsections (2) and (3), a council member is not liable for a breach of an individual duty.
+(5) This section does not affect any other ground for removing a council member from office.
+(6) Subsection (4) does not affect anything for which a council member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach concerned.
+(7) Subsection (4) does not affect anything for which a council member who is the chief executive of the institution concerned may, as chief executive, be liable under this Act or any other Act or rule of law, arising from the act or omission that constitutes the breach concerned.
+
+### 176C Removal of members
+(1) If the council of an institution believes that the actions of a member may justify his or her removal from office, it must give the Minister a written report stating—
+  (a) its reasons for believing that the actions may justify his or her removal; and
+  (b) the information or grounds in support of those reasons; and
+  (c) its recommendation as to whether the member should be removed from office.
+(2) After considering the report, the Minister may, if satisfied that there is just cause to do so, remove the member from office.
+(3) The removal must be made by written notice to the member (with a copy to the council).
+(4) The notice must state—
+  (a) the day on which the removal takes effect, which must not be earlier than the day on which the notice is received; and
+  (b) the reasons for the removal.
+(5) The Minister must notify the removal in the Gazette as soon as practicable after giving the notice.
+(6) This section does not limit or affect section 174.
+(7) For the purposes of subsection (2), just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the council or the individual duties of members (depending on the seriousness of the breach).
+(8) Subsections (1) to (7) do not apply to the removal from office of a member of the council of a designated polytechnic (for which section 222AJ provides).
+
+### 176D Process for removal
+The Minister may remove a member of the council of an institution under section 176C with as little formality and technicality, and as much expedition, as is permitted by—
+  (a) the principles of natural justice; and
+  (b) a proper consideration of the matter; and
+  (c) the requirements of that section.
+
+### 176E Application of Local Authorities (Members' Interests) Act 1968
+(1) A council of an institution is not a local authority for the purposes of the Local Authorities (Members' Interests) Act 1968.
+(2) Subsection (1) is for the avoidance of doubt.
 
 ### 177 Chairperson and deputy chairperson
 (1) At the first meeting of a council the council shall elect one of its members to be the chairperson, and another of its members to be the deputy chairperson, of the council.
 (2) Whenever a vacancy subsequently occurs in the office of chairperson or deputy chairperson of the council, the council shall elect one of its members to fill the vacant office.
-(3) A member of the council who is the chief executive of the institution, a member of the staff of the institution or a student member is not eligible for election as the chairperson or deputy chairperson of the council.
-(4) The chairperson and deputy chairperson of a council each hold office, subject to this section, for 1 year but are eligible for re-election.
-(5) Notwithstanding subsection (4), if the term of office of the chairperson or deputy chairperson of a council expires before a successor is elected, the chairperson or deputy chairperson, as the case may be, continues in office until a successor is elected.
+(2A) The election of a member to fill the vacant office of chairperson or deputy chairperson of the council must be for a stated period (not exceeding the term of the member's current term as a member of the council).
+(3) A member of the council who is the chief executive of the institution, a member of the staff of the institution, or a student enrolled at the institution is not eligible for election as the chairperson or deputy chairperson of the council.
+(4) The chairperson or deputy chairperson of a council—
+  (a) holds office for the period for which he or she is elected; but
+  (b) is eligible for re-election.
+(5) If the term of office of the chairperson or deputy chairperson of a council expires before a successor is elected, he or she continues in office until a successor is elected.
+(5A) Subsection (5) overrides subsection (4).
 (6) The chairperson or deputy chairperson of a council—
   (a) may resign as chairperson or deputy chairperson by written notice signed by him or her and given to the chief executive; and
   (b) ceases to hold office as chairperson or deputy chairperson if—
     (i) he or she ceases to be a member of the council; or
     (ii) he or she becomes the chief executive, a member of the staff or a student of the institution; or
     (iii) the council passes a resolution to the effect that it has no confidence in the chairperson or deputy chairperson, as the case may be.
+(6A) Subsection (6) overrides subsections (4) and (5).
 (7) The chairperson of the council of a university may be referred to as the Chancellor or by such other title as the council determines and the chairperson of the council of an institution other than a university may be referred to by such title (other than Chancellor or another title that includes the word Chancellor) as the council determines.
 (8) The deputy chairperson of the council of a university may be referred to as the Pro-Chancellor or by such other title as the council determines and the deputy chairperson of the council of an institution other than a university may be referred to by such title (other than Pro-Chancellor or another title that includes the word Chancellor) as the council determines.
 (9) Subsections (1) to (8) do not apply to the chairperson and deputy chairperson of the council of a designated polytechnic (for which section 222AG provides).
@@ -4956,7 +5045,7 @@ The object of the provisions of this Act relating to institutions is to give the
 ### 178 Meetings of councils
 (1) The chairperson of a council may convene meetings to be held at such places and times as he or she determines.
 (2) It is the duty of the chairperson of a council to convene such meetings as he or she thinks necessary for the efficient performance of the functions of the council.
-(3) If so requested by written notice by not fewer than 5 members of a council, the chairperson of the council shall convene a meeting.
+(3) If so requested by written notice by not fewer than 3 members of a council, the chairperson of the council shall convene a meeting.
 (4) If there is no chairperson of a council or for any reason the chairperson is not available, the deputy chairperson of the council has the powers and duties of the chairperson under subsections (1) to (3) and references in those subsections to the chairperson shall be construed as references to the deputy chairperson.
 (5) No business shall be transacted at a meeting unless a majority of the members then holding office are present.
 (6) The chairperson shall preside at all meetings at which he or she is present.
@@ -5098,15 +5187,14 @@ No member of the council of an institution is personally liable for any act done
 (1) The council of an institution may make statutes, not inconsistent with this Act or the State Sector Act 1988, with respect to any of the following matters:
   (a) the good government and discipline of the institution:
   (b) the imposition, by or on behalf of the council, of penalties upon staff or students of the institution for contravention of or failure to comply with a statute with respect to a matter referred to in paragraph (a):
-  (c) the election of members of the council by the staff of the institution including—
-    (i) the persons who are to be regarded as members of the academic staff, and the persons who are to be regarded as members of the general staff, for the purposes of such an election; and
-    (ii) the determination of questions arising in relation to the conduct or the result of such an election:
-  (d) the persons who are to be regarded as being, or having been, students of the institution for the purposes of the election of a student member of the council or for the purposes of membership of the council as a student member and, in the case of an election of a student member to which section 171(8)﻿(a) does not apply, any other matters relating to the election including the determination of questions arising in relation to the conduct or the result of the election:
+  (c)
+  (d)
   (e) subject to Part 16, the enrolment of persons in courses of study or training of the institution or the admission of persons to examinations of the institution:
   (f) subject to Part 16, the courses of study and training of the institution:
   (g) subject to section 192(8), the awards that may be granted by the council and the requirements for those awards:
   (h) the granting by the council of fellowships, scholarships, bursaries, and prizes:
   (i) the provision of superannuation or retirement benefits for, or in respect of, the chief executive or members of the staff of the institution:
+  (ia) any of the matters stated in section 171C:
   (j) any other matter required or permitted by this Act to be provided for by statutes.
 (2) If the council of an institution makes a statute under subsection (1)﻿(b) providing for the imposition of penalties upon staff or students of the institution, the statute shall provide for the council, if so requested by a member of the staff or a student upon whom a penalty is imposed, to review, or arrange for the review of, the amount of the penalty, the imposition of the penalty, or both.
 
@@ -5529,20 +5617,10 @@ The council of an institution shall ensure that copies of its annual report are 
   (d) a vacancy or vacancies in the membership of the council or committee.
 
 ### 222AB Statutes relating to appointment of members by polytechnic councils
-(1) Every polytechnic council must have in place statutes relating to the appointment of members under section 222AA(1)﻿(b).
-(2) The statutes may (in respect of any of the 4 appointments it has power to make)—
-  (a) require the appointment of a member—
-    (i) of a stated description; or
-    (ii) holding a stated office; or
-    (iii) nominated by a stated institution or institutions, or an institution or institutions of a stated description; or
-    (iv) elected by people of a stated description:
-  (b) provide for the process by which—
-    (i) nominations may be called for and considered:
-    (ii) elections may be held and their results may be determined.
-(3) Subsection (2) does not limit the generality of section 194.
+[Repealed]
 
 ### 222AC Membership of more than one polytechnic council
-A person who is a member of a polytechnic council may be appointed a member of another polytechnic council.
+[Repealed]
 
 ### 222AD Matters to be considered when appointments made
 (1) It is desirable in principle—
@@ -5556,13 +5634,7 @@ A person who is a member of a polytechnic council may be appointed a member of a
   (b) are likely to be able to fulfil their individual duties as members of the council and the functions, duties, and responsibilities of the council.
 
 ### 222AE Term of office
-(1) The person appointing a member of the council of a designated polytechnic must, when making the appointment, state the day on which it takes effect and its term.
-(2) The term must be no more than 4 years.
-(3) The term of office of a member of the council of a designated polytechnic begins on the later of the following:
-  (a) the day on which his or her appointment takes effect:
-  (b) the expiry of the term of office of his or her predecessor.
-(4) Notwithstanding subsection (3), if the term of office of a member of the council of a designated polytechnic expires before a successor is appointed, the member continues in office until the day on which the appointment of a successor takes effect.
-(5) Subsection (4) does not apply to a member who was before 1 May 2011 appointed under section 222AA(1)﻿(b).
+[Repealed]
 
 ### 222AF Reappointment and re-election
 Any member of the council of a designated polytechnic can be reappointed for a second or later term.
@@ -5587,38 +5659,10 @@ Any member of the council of a designated polytechnic can be reappointed for a s
 (9) The chairperson or deputy chairperson of the council of a designated polytechnic may be referred to by any title (other than Chancellor or Pro-Chancellor) the council determines.
 
 ### 222AH Duties of members of polytechnic councils
-(1) A member of the council of a designated polytechnic, when acting as a member of the council in any circumstances,—
-  (a) must—
-    (i) act with honesty and integrity; and
-    (ii) act in the interests of the polytechnic as a whole; and
-    (iii) act in a manner that promotes the performance of the functions characteristic of a polytechnic, and the duties of the council; and
-    (iv) act in good faith, and not pursue his or her own interests at the expense of the council's interests; and
-  (b) must exercise the care, diligence, and skill that a reasonable person would exercise in the same circumstances, taking into account—
-    (i) the nature of the council; and
-    (ii) the nature of the action; and
-    (iii) the position of the member as a member of a polytechnic council, and the nature of the responsibilities undertaken by him or her; and
-  (c) must not disclose any information to which subsection (4) applies to any person, or make use of, or act on, that information, except—
-    (i) in the performance of the council's functions; or
-    (ii) as required or permitted by law; or
-    (iii) in accordance with subsection (3); or
-    (iv) in complying with requirements for members to disclose interests.
-(2) The fact that a member of the council of a designated polytechnic was appointed by the council in accordance with a statute providing for the appointment of a member (or 2 or more members) to represent the interests of a stated institution or of people or institutions of a stated description does not displace or limit the member's duty under subsection (1)﻿(a)﻿(ii) to act in the interests of the polytechnic as a whole.
-(3) A member of the council of a designated polytechnic may disclose, make use of, or act on information to which subsection (4) applies if—
-  (a) he or she has earlier been authorised to do so by the council; or
-  (b) disclosing, making use of, or acting on it will not, or will be unlikely to, prejudice the council or the polytechnic.
-(4) This subsection applies to information that—
-  (a) a member of the council of a designated polytechnic has in his or her capacity as a member of the council; and
-  (b) would not otherwise be available to him or her.
-(5) Subparagraphs (i) to (iii) of paragraph (b) of subsection (1) do not limit the generality of that paragraph.
+[Repealed]
 
 ### 222AI Accountability for individual duties
-(1) The duties of a member of the council of a designated polytechnic (council member) under section 222AH (individual duties) are duties owed to the Minister and the council.
-(2) A council member who does not comply with his or her individual duties may be removed from office under section 222AJ.
-(3) The council of a designated polytechnic may bring an action against a council member for breach of any individual duty.
-(4) Except as provided in subsections (2) and (3), a council member is not liable for a breach of an individual duty.
-(5) This section does not affect any other ground for removing a council member from office.
-(6) Subsection (4) does not affect anything for which a council member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach concerned.
-(7) Subsection (4) does not affect anything for which a council member who is the chief executive of the polytechnic council concerned may, as chief executive, be liable under this Act or any other Act or rule of law, arising from the act or omission that constitutes the breach concerned.
+[Repealed]
 
 ### 222AJ Removal of members
 (1) The Minister may at any time, for just cause, remove a member of the council of a designated polytechnic from office.
@@ -6106,7 +6150,7 @@ A private training establishment must be registered before it can provide an app
 **Determination of application**
 
 ### 233 Grant or refusal of application
-(1) The Authority must grant an application for registration of a private training establishment, and may grant the application, only if it is satisfied that—
+(1) The Authority must grant an application for registration of a private training establishment if it is satisfied that—
   (a) every governing member of the establishment is a fit and proper person (after considering the criteria set out in section 233A); and
   (b) the establishment has in place effective arrangements for managing any conflicts of interest that exist or may arise; and
   (c) no governing member of the establishment has a material conflict of interest that the Authority considers is or is likely to be unmanageable; and
@@ -6123,10 +6167,10 @@ A private training establishment must be registered before it can provide an app
   (i) in the case of an establishment that intends to enrol international students, the establishment will become a signatory to the code before enrolling any international students.
 (2) Registration may be granted without limitation as to time or for a specified period.
 (3) The grant of registration does not entitle the establishment or any of its students to receive financial assistance out of public money appropriated by Parliament.
-(4) The Authority may refuse to grant registration to a private training establishment or withdraw the establishment's registration (if already granted) if the Authority is satisfied that a governing member of the establishment has provided a false or misleading declaration under section 232D(2)﻿(c).
+(4) The Authority may refuse to grant registration to a private training establishment or cancel the establishment's registration (if already granted) if the Authority is satisfied that a governing member of the establishment has provided a false or misleading declaration under section 232D(2)﻿(c).
 (5) The Authority must give written notice to a private training establishment—
-  (a) when it grants, refuses to grant, or withdraws registration; and
-  (b) if it refuses or withdraws registration, give reasons for doing so.
+  (a) when it grants, refuses to grant, or cancels registration; and
+  (b) if it refuses or cancels registration, give reasons for doing so.
 
 ### 233A Criteria for determining whether governing member of private training establishment is fit and proper person
 (1) For the purpose of determining under section 233(1)﻿(a) whether a governing member of a private training establishment is a fit and proper person for that position, the Authority must give any weight that it considers appropriate to all of the following matters:
@@ -6169,6 +6213,7 @@ Every registered private training establishment must pay the Authority an annual
     (i) the establishment no longer meets 1 or more of the criteria set out in section 233(1); or
     (ii) the establishment is not complying, or has not complied, with 1 or more of the conditions applying to it; or
   (b) if the establishment has provided false or misleading information in its application for registration; or
+  (ba) if it is satisfied on reasonable grounds that the establishment has failed or refused to comply with any relevant duties or obligations under this Act, including, but not limited to, the obligations relating to student fee protection; or
   (c) at the written request of the establishment.
 (2) The Authority must cancel the registration of a private training establishment if—
   (a) the establishment has been convicted of an offence against—
@@ -6179,17 +6224,16 @@ Every registered private training establishment must pay the Authority an annual
   (a) notify the establishment that it is considering cancelling the establishment's registration, and give reasons; and
   (b) give the establishment a reasonable opportunity to respond to the notice; and
   (c) consider any submissions made by the establishment in response to the notice.
-(4) If the Authority cancels a registration, it must give notice of its decision to both the establishment and the Commission, with reasons.
+(4) If the Authority cancels a registration under this section, it must give notice of its decision to both the establishment and the Commission, with reasons.
 (5) Nothing in this section limits the Authority's powers under section 255(7)﻿(a) to cancel an establishment's registration.
 
 ### 233E Effect of cancellation
-(1) Cancellation of registration under section 233D takes effect on the date specified by the Authority in the notice given under section 233D(4) (the date of cancellation).
-(2) If the registration of a registered private training establishment is cancelled under section 233D,—
-  (a) from the date of cancellation,—
-    (i) all approved programmes or training schemes granted to the establishment are withdrawn; and
-    (ii) all accreditations granted to the establishment are withdrawn; and
-    (iii) all consents to assess against standards granted to the establishment are withdrawn; and
-  (b) no notice is required to be given to the establishment for those withdrawals.
+(1) Cancellation of registration under section 233D or 255(7)﻿(a) takes effect on the date specified by the Authority in the notice given under section 233D(4) (the date of cancellation).
+(2) If the registration of a registered private training establishment is cancelled under section 233D or 255(7)﻿(a), from the date of cancellation,—
+  (a) all approved programmes or training schemes granted to the establishment are withdrawn; and
+  (b) all accreditations granted to the establishment are withdrawn; and
+  (c) all consents to assess against standards granted to the establishment are withdrawn.
+(3) No notice is required to be given to a registered private training establishment for a withdrawal under subsection (2).
 
 ### 234 Lapse of registration
 (1) The registration of a registered private training establishment lapses—
@@ -6202,8 +6246,11 @@ Every registered private training establishment must pay the Authority an annual
 (2) Subsection (1) does not affect the registration of a private training establishment if—
   (a) the time for the lapse of the establishment's accreditation is extended under section 250B(2) beyond either of the dates specified in subsection (1) of this section, in which case the establishment's registration lapses when the accreditation lapses; or
   (b) the time for the lapse of the establishment's training scheme approval is extended under section 251C(2) beyond either of the dates specified in subsection (1) of this section, in which case the establishment's registration lapses when the training scheme approval lapses.
+(2A) Despite anything in subsections (1) and (2), the registration of a registered private training establishment lapses on the date that the establishment ceases to be a body corporate.
 (3) If a registered private training establishment is required under this Act to pay any fees to the Authority, and fails to pay those fees after receiving 2 reminder notices within 3 months, the registration of the establishment lapses on the date that is 1 calendar month after the date of the second reminder notice from the Authority.
-(4) The Authority must give written notice of the lapse of an accreditation to the establishment.
+(4) The Authority must give written notice of the lapse of a registration to the establishment.
+(5) If the registration of a registered private training establishment lapses under subsection (1) or (2A), any accreditation, approval, or consent associated with the registration is withdrawn on the date that the registration lapses.
+(6) No notice is required to be given to a registered private training establishment for a withdrawal under subsection (5).
 
 **Fees for domestic students**
 
@@ -6231,7 +6278,11 @@ Every private training establishment must—
 ### 234C Interpretation
 (1) In sections 234D to 235C,—
   - **independent trustee** , in relation to a private training establishment, means a trustee that does not provide any other service to the establishment other than that referred to in section 234E
-  - **refund period** means, in relation to a domestic student who is enrolled in a programme or part of a programme, or enrolled in a training scheme, the 7 days after the first day of the programme or scheme for which the attendance of the student at the establishment is required
+  - **refund period** means,—
+    (a) in relation to a domestic student who, on or after 1 January 2015, is enrolled in a programme or part of a programme, or enrolled in a training scheme, the period of time that begins when the student’s fees are paid to the private training establishment (or paid directly to the independent trustee) and ends on the later of 7 days after—
+      (i) the first day of the programme or scheme for which the attendance of the student at the establishment is required; or
+      (ii) any other day that the establishment permits the student to begin attendance:
+    (b) in relation to a domestic student who, before 1 January 2015, is enrolled in a programme or part of a programme, or enrolled in a training scheme, the 7 days after the first day of the programme or scheme for which the attendance of the student at the establishment is required
   - **trustee** means Public Trust, a trustee company under the Trustee Companies Act 1967, a chartered accountant in public practice, or a lawyer whose practising certificate allows the holding of trust funds.
 (2) In sections 234D to 235C, the requirement that funds paid by or on behalf of a student be deposited with an independent trustee applies to all components of any fee payable by the student (for example, it includes any component of the fee payable by the student in respect of accommodation costs or agent commissions).
 
@@ -6250,6 +6301,9 @@ Every private training establishment must—
 (4) The Authority—
   (a) may withdraw its approval of a particular trustee if satisfied that the trustee is not managing the trust funds in accordance with the requirements of the rules; and
   (b) must, if approval for a trustee is withdrawn, appoint a new trustee in accordance with the rules.
+(5) The requirements specified in subsection (1) do not apply—
+  (a) in respect of any programme or training scheme that is exempt from those requirements by rules made under section 253(1)﻿(pb); or
+  (b) in the case of a student or group of students for whom the private training establishment has deposited, with an independent trustee approved by the Authority, an amount of money that is sufficient to make the necessary refunds to that student or those students under section 235 or 235A.
 
 ### 235 Refund entitlements of domestic students
 (1) A domestic student who is enrolled at a private training establishment for all or part of a programme or training scheme that is of more than 3 months' duration and who withdraws from that programme or scheme within the refund period is entitled to a refund, without deduction, of so much of any payment, or of the sum of any payments, made by the student in respect of the programme or scheme, and, if withdrawal from the programme or scheme also constitutes complete withdrawal from the establishment, in respect of enrolment at the establishment, as exceeds $500 or 10% of the amount of that payment or of the sum of those payments, whichever is the lesser.
@@ -6271,11 +6325,13 @@ Every private training establishment must—
 (3) When the refund period, in relation to any fees paid by or on behalf of an international student, has expired,—
   (a) the fees paid must continue to be held in trust with the independent trustee and the private training establishment must be paid from the trust in the manner prescribed in the rules made under section 253; or
   (b) the private training establishment may, if the Authority approves, make alternative arrangements in relation to the fees paid.
-(4) In this section, refund period means the period referred to in section 235B(1)﻿(a) as specified in the notice made under section 235B.
+(4) In this section, refund period means the period that begins when the student’s fees are paid to the private training establishment (or paid directly to the independent trustee) and ends on the date specified in the notice made under section 235B.
 
 ### 235B Refund requirements set by Gazette notice
 (1) The Minister must specify, by notice in the Gazette, for the purposes of refunds under section 235A,—
-  (a) the period within which an international student may withdraw from a programme or training scheme of 3 months' duration or more and be entitled to a refund under that section; and
+  (a) either—
+    (i) the end of the period within which an international student may withdraw from a programme or training scheme of 3 months' duration or more and be entitled to a refund under that section; or
+    (ii) a means by which the end of that period may be calculated or ascertained; and
   (b) the maximum percentage of the payment or payments that an establishment may retain; and
   (c) the cost components of the fee total on which the maximum percentage is determined; and
   (d) the expenses or categories of expenses that the establishment must show that it has incurred in relation to an international student in order to deduct the maximum percentage.
@@ -6374,7 +6430,9 @@ Any fees paid by or on behalf of any student who withdraws from a programme or t
 
 ### 236A Duties of private training establishments to maintain student records
 (1) Every private training establishment must—
-  (a) keep accurate enrolment and academic records for each student enrolled in a programme or training scheme provided by the establishment; and
+  (a) keep accurate enrolment and academic records for each student enrolled in—
+    (i) a programme or training scheme provided by the establishment; or
+    (ii) standards-based study or training provided by the establishment through a consent to assess against standards granted under section 252; and
   (b) comply with rules made under section 253(1)﻿(n) in respect of those records; and
   (c) ensure that the enrolment records required to be kept under this section are up to date; and
   (d) ensure that the enrolment records are readily available, upon request, to—
@@ -6712,7 +6770,7 @@ In this Part, unless the context otherwise requires,—
   (c) is subject to section 253A.
 
 ### 250A Conditions on accreditation
-(1) Every accreditation is subject to the condition that the institution will at all times comply with the rules made under section 253(1)﻿(d) and (e), except to the extent that the Authority exempts the institution, by a condition on the accreditation, from compliance.
+(1) Every accreditation is subject to the condition that the institution will at all times comply with the relevant rules made under section 253, except to the extent that the Authority exempts the institution, by a condition on the accreditation, from compliance.
 (2) When granting accreditation to an institution to provide an approved programme, the Authority may impose conditions on the accreditation that are—
   (a) specific to the programme or a particular class of programmes; or
   (b) specific to the institution or a particular class of institutions.
@@ -6734,7 +6792,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 250C Withdrawal of accreditation
 (1) If the Authority considers that there may be grounds for withdrawing an accreditation from an institution, the Authority must give written notice to the institution—
-  (a) setting out the grounds on which the Authority is considering withdrawing the approval; and
+  (a) setting out the grounds on which the Authority is considering withdrawing the accreditation; and
   (b) giving the institution a reasonable period to make submissions on the matter.
 (2) After that period, and having considered any submission made by the institution, the Authority may, on any reasonable grounds, withdraw the accreditation.
 (3) If the Authority withdraws an accreditation under subsection (2), it must give notice of the withdrawal, with reasons, to the institution concerned.
@@ -6757,7 +6815,7 @@ In this Part, unless the context otherwise requires,—
   (b) any workplace training component of any training scheme.
 
 ### 251A Conditions of training scheme approval
-(1) Every training scheme approval is subject to the condition that the institution will at all times comply with the rules made under section 253(1)﻿(c) except to the extent that the Authority exempts the institution, by a condition on the approval, from compliance.
+(1) Every training scheme approval is subject to the condition that the institution will at all times comply with the relevant rules made under section 253 except to the extent that the Authority exempts the institution, by a condition on the approval, from compliance.
 (2) The Authority may impose conditions on a training scheme approval, and for that purpose, section 250A(2) to (5) apply as if each reference to accreditation were a reference to a training scheme approval under this section.
 
 ### 251B Withdrawal of training scheme approval
@@ -6792,7 +6850,7 @@ In this Part, unless the context otherwise requires,—
 (7) Despite subsection (4), the Authority may withdraw a consent at the written request of the institution concerned.
 
 ### 252A Conditions
-(1) Every consent to assess against standards is subject to the condition that the institution will at all times comply with the rules made under section 253(1)﻿(c) except to the extent that the Authority exempts the institution, by a condition on the approval, from compliance.
+(1) Every consent to assess against standards is subject to the condition that the institution will at all times comply with the relevant rules made under section 253 except to the extent that the Authority exempts the institution, by a condition on the consent, from compliance.
 (2) The Authority may impose conditions on a consent to assess against standards, and for that purpose section 250A(2) to (5) apply as if each reference to accreditation were a reference to a consent to assess against standards.
 
 ### 252B When a consent expires or ceases to have effect
@@ -6836,12 +6894,17 @@ In this Part, unless the context otherwise requires,—
     (iii) the length of time for which the records must be kept:
   (o) prescribing reporting requirements that institutions (within the meaning of section 254(1)) must comply with in relation to the student's record of achievement that is maintained by the Qualifications Authority:
   (p) for the purposes of rules made under paragraph (o), specifying the qualifications or standards for which institutions are required to report the credits gained by students undertaking or who have undertaken study or training towards those qualifications or standards:
+  (pa) prescribing the quality assurance requirements for tertiary education bodies in respect of whom the Authority grants approvals or consents under this Part:
+  (pb) prescribing the types of programmes and training schemes that are exempt from the requirements specified in section 234E(1):
   (q) providing for any other matters contemplated by this Part or Part 18, necessary for their administration, or necessary for giving them full effect.
 (2) Without limiting any power to make rules under this section, restrictions on the use of standards may be included in any rules made under subsection (1)﻿(b) that—
   (a) prescribe criteria that the Authority must apply when considering applications for approval of a programme leading to a degree or postgraduate qualification:
   (b) prescribe criteria that the Authority must apply when considering applications for the listing of a degree or postgraduate qualification on the Qualifications Framework:
   (c) prescribe criteria that the Authority must apply when considering applications for the listing of a standard on the Directory of Assessment Standards that relates to any programme leading to a degree or postgraduate qualification.
 (3) Rules made under subsection (1)﻿(n) may specify different requirements for different qualifications.
+(3A) Rules made under subsection (1)﻿(pb) before the day 12 months after the day on which the Education Amendment Act 2015 received the Royal assent come into force—
+  (a) on the day 12 months after the day on which the Education Amendment Act 2015 received the Royal assent; or
+  (b) on a later day stated in those rules.
 (4) Before making rules under this section that apply to a class of institutions, the Authority must consult,—
   (a) if the rules relate to universities, the Vice-Chancellors Committee; and
   (b) if the rules relate to bodies that provide adult and community education, those bodies or a body that represents their interests; and
@@ -6957,7 +7020,7 @@ In this Part, unless the context otherwise requires,—
   (a) if the notice related to the registration of a registered establishment, cancel the registration, or impose new conditions or amend or revoke any existing conditions on the registration; or
   (b) if the notice related to a programme or training scheme approval, withdraw the approval, or impose new, or amend or revoke any existing, conditions on the approval; or
   (c) if the notice related to an accreditation, withdraw the accreditation, or impose new conditions, or amend or revoke any existing conditions on the accreditation; or
-  (d) if the notice related to a consent to assess against standards, withdraw the consent, impose new conditions, or amend or revoke any existing conditions on the approval; or
+  (d) if the notice related to a consent to assess against standards, withdraw the consent, impose new conditions, or amend or revoke any existing conditions on the consent; or
   (e) if the notice related to any quality assurance conditions on workplace training, withdraw the programme or training scheme approval to which the training relates, impose new conditions, or amend or revoke any existing conditions.
 (8) The Authority may not do any of the things specified in subsection (7) until the later of—
   (a) 10 days from the date of issue of the notice; or
@@ -6982,6 +7045,7 @@ In this Part, unless the context otherwise requires,—
   (a) a reference to this section; and
   (b) the full name of the person authorised; and
   (c) a statement of the powers conferred on that person under this section.
+(4) Every person commits an offence, and is liable on conviction to a fine not exceeding $10,000, who obstructs, hinders, resists, or deceives any person exercising or attempting to exercise a power of entry conferred by subsection (1).
 
 **Research**
 
@@ -7390,19 +7454,19 @@ A delegation to the member who is the general manager continues to have effect,�
 (2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
 
 ### 292B Liability of body corporate and directors in respect of false representations
-(1) If, in proceedings in respect of conduct engaged in by a body corporate, being conduct in relation to which section 292A(1) applies, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, an employee, or an agent of the body corporate, acting within the scope of that person's actual or apparent authority, had that state of mind.
-(2) For the purpose of section 292A, any conduct engaged in on behalf of a body corporate—is deemed to have been engaged in also by the body corporate.
+(1) If, in proceedings in respect of conduct engaged in by a body corporate, being conduct in relation to which section 292, 292A, 292C, 292D, 292E, 292F, or 292G applies, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, an employee, or an agent of the body corporate, acting within the scope of that person's actual or apparent authority, had that state of mind.
+(2) For the purpose of section 292, 292A, 292C, 292D, 292E, 292F, or 292G, any conduct engaged in on behalf of a body corporate—is deemed to have been engaged in also by the body corporate.
   (a) by a director, an employee, or an agent of the body corporate, acting within the scope of that person's actual or apparent authority; or
   (b) by any other person at the direction or with the consent or agreement (whether express or implied) of a director, an employee, or an agent of the body corporate, given within the scope of the actual or apparent authority of the director, employee or agent,—
-(3) If a body corporate is convicted of an offence under section 292A(1), any director of the body corporate, and, if the body corporate is a private training establishment, any governing member of the establishment, is to be treated as having committed the same offence, if—
+(3) If a body corporate is convicted of an offence under section 292, 292A, 292C, 292D, 292E, 292F, or 292G, any director of the body corporate, and, if the body corporate is a private training establishment, any governing member of the establishment, is to be treated as having committed the same offence, if—
   (a) the director or governing member approved of the act that constituted the offence; or
   (b) the director or governing member knew the offence was to be or was being committed and failed to take all reasonable steps to prevent it.
 (4) A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person's reasons for that intention, opinion, belief, or purpose.
 (5) In this section, governing member has the meaning given to it in section 232.
 
 ### 292C Offence to issue false qualifications and falsify records
-(1) A person commits an offence who knowingly or recklessly issues an award that falsely represents that a person has achieved a qualification listed on the Qualifications Framework.
-(2) A person commits an offence who receives an award knowing that the award falsely represents that he or she has achieved a qualification listed on the Qualifications Framework.
+(1) A person commits an offence who knowingly or recklessly issues an award that falsely represents, expressly or by implication, that a person has achieved a qualification listed on the Qualifications Framework.
+(2) A person commits an offence who receives an award knowing that the award falsely represents, expressly or by implication, that he or she has achieved a qualification listed on the Qualifications Framework.
 (3) A person commits an offence—
   (a) who enters or changes results on a student's record of achievement, knowing that the results or changes have the effect of falsifying the student's record:
   (b) who, without reasonable excuse or lawful authority, causes entries or changes to be made on a student's record that have the effect of falsifying the student's record.
@@ -7542,6 +7606,9 @@ A delegation to the member who is the general manager continues to have effect,�
   (b) every Course Committee that was established under section 4 of that Act shall, as soon as practicable after the commencement of this section, forward a report to the previous Authority on its activities for the period that commenced on 1 March 1990 and ended immediately before the commencement of this section; and
   (c) the previous Authority and each Course Committee continue in existence for the purpose only of complying with paragraphs (a) and (b).
 (7) The Qualifications Authority shall give to the previous Authority and a Course Committee any assistance that the previous Authority or Course Committee requires for the purpose of complying with its obligations under or arising by virtue of subsection (6) and is responsible for paying any expenses incurred by the previous Authority or Course Committee (including remuneration and expenses of members of the previous Authority or Course Committee) in so complying.
+
+### 299A Transitional and savings provisions relating to councils of tertiary institutions consequential on enactment of Education Amendment Act 2015
+The transitional and savings provisions relating to councils of tertiary institutions set out in Schedule 19 have effect for the purposes of the Education Amendment Act 2015.
 
 ### 300 Taxes and duties in relation to property of former Authority for Advanced Vocational Awards
 (1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
@@ -8715,6 +8782,59 @@ Subject to any other enactment, the Committee may invest any of its money in any
 ## Schedule 17 — Administrative provisions applying to the Service continued by section 279
 
 ## Schedule 18 — Administrative provisions applying to Tertiary Research Board
+
+## Schedule 19 — Transitional and savings provisions relating to councils of tertiary institutions
+
+### 1 Interpretation
+For the purposes of this schedule, unless the context otherwise requires,—
+  (a) council means the council of an institution that is not a designated polytechnic:
+  (b) transition period, in relation to a council, means the period commencing on the commencement of this schedule, and ending on—
+    (i) the close of 30 June 2016; or
+    (ii) if the council fixes an earlier day for its successor council to take office, the close of the day before the day fixed:
+  (c) terms defined in section 159(1) have the meanings given by that section.
+
+### 2 Existing councils to prepare draft constitutions
+(1) Every council must, in accordance with this Act,—
+  (a) prepare a draft constitution for a new council for its institution; and
+  (b) give a copy to the Minister.
+(2) The copy must be given to the Minister at least 2 months before the end of the transition period, and the draft constitution must be prepared early enough for this to be done.
+
+### 3 Draft constitutions to be approved by Minister
+The Minister must, by notice in the Gazette setting out the constitution, confirm a draft constitution for a new council of an institution if—
+  (a) the council has given a copy to the Minister at least 2 months before the end of the transition period; and
+  (b) he or she is satisfied that it complies with the requirements of this Act.
+
+### 4 Minister may establish new constitution if council does not act in time
+The Minister may, by notice in the Gazette setting out the constitution, establish a constitution for a new council if the council has not given a copy of a draft constitution to the Minister at least 2 months before the end of the transition period.
+
+### 5 When new constitution established
+A constitution of an institution—
+  (a) is established when a notice under clause 3 or 4 is published; and
+  (b) comes into effect at the close of the council's transition period.
+
+### 6 New councils to be appointed
+(1) As soon as practicable after a constitution for a new council of an institution is established, the Minister and the existing council must, in accordance with this Act, appoint members of a new council.
+(2) The Minister must make appointments before the close of the council's transition period.
+(3) The council must make appointments no later than 3 months after the close of that period.
+
+### 7 New councils to replace existing councils at close of transition period
+(1) At the close of its transition period,—
+  (a) the members of every council go out of office and are replaced by members appointed pursuant to clause 6(1); and
+  (b) the chairperson and deputy chairperson of every council go out of office as chairperson or deputy chairperson (even if they are members appointed pursuant to clause 6(1)).
+(2) Neither the Crown nor the council is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of the council under subclause (1).
+(3) At the first meeting of a council after the close of its transition period, a council must elect one of its members to be the chairperson, and another of its members to be the deputy chairperson, of the council.
+
+### 8 Council continues to be same body
+(1) After the close of its transition period, a council—
+  (a) is the same body it was immediately before that close; and
+  (b) continues to have the rights and obligations it then had.
+(2) Subclause (1) is subject to clause 9.
+
+### 9 Temporary power of direction
+(1) Before the close of a council's transition period, the Minister may, by written notice to the chief executive of the institution concerned, give any directions he or she thinks reasonably necessary to ensure that the council as reconstituted can deal effectively with the business before it after the close of that period, and—
+  (a) the chief executive must give the council notice of the directions as soon as practicable after the close of that period; and
+  (b) the council must comply with the directions.
+(2) The Minister must consult the council before giving the directions.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Education Amendment Act (No 4) 1991, and shall be read together with and deemed part of the Education Act 1989 (hereinafter referred to as “the principal Act”).
