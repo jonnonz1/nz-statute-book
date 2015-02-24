@@ -1,5 +1,5 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2015-02-24_
 
 > Title
 
@@ -88,7 +88,10 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
 (2) Levies recovered under section 24 must be applied only for the purposes of meeting the reasonable costs and expenses of—
   (a) the inspection, monitoring, and related services to which they relate and matters incidental to those services, being services carried out by the Ministry under any Act or related arbitration services; and
   (b) the dissemination of information concerning safety in relation to the industries to which the levies relate by the Ministry; and
+  (ba) compliance by the Crown with New Zealand’s obligation, under Article 2 of the International Energy Agreement, to maintain the emergency reserve commitment set out in that Article; and
   (c) the recovery of those levies.
+(3) Levies recovered under section 24 may be applied for the purpose of meeting the reasonable costs and expenses incurred by the Crown for the purpose set out in subsection (2)﻿(ba) on and from 1 July 2013, even though subsection (2)﻿(ba) commences after that date.
+(4) In this section, International Energy Agreement has the meaning given in section 2 of the International Energy Agreement Act 1976.
 
 ### 15 Levies payable by owners of coal mines
 [Repealed]
@@ -151,10 +154,7 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
 [Repealed]
 
 ### 26 Rebates
-(1) On the application of any person who has paid or is liable to pay any levy under section 24, the Secretary may grant a rebate in respect of the whole or any part of the levy to which the application relates.
-(2) Before deciding to grant or not to grant a rebate under this section, the Secretary shall have regard to—
-  (a) section 14; and
-  (b) the number of inspections of the operation concerned that were carried out during the period in respect of which the levy was paid or is payable.
+[Repealed]
 
 ### 27 Due dates for payment
 Every levy payable under any of the provisions of sections 22, 23, and 24 shall be due and payable on the date specified in that behalf in the section under which the levy is payable.
@@ -163,7 +163,9 @@ Every levy payable under any of the provisions of sections 22, 23, and 24 shall 
 If any levy is not paid on or before the date on which it is payable, the person liable to pay it shall pay to the Secretary an additional amount equal to 10% of the unpaid amount.
 
 ### 29 Recovery of levies
-All money payable to the Secretary under this Part shall be deemed to be payable to the Crown, and may be recovered from the person liable to pay it as a debt due to the Crown.
+All money payable to the Secretary or the New Zealand Customs Service under this Part is—
+  (a) a debt due to the Crown; and
+  (b) recoverable by the Crown in a court of competent jurisdiction.
 
 ### 30 Payment of levy into account
 (1) All money received by the Secretary under section 22 or 23 must be paid into a Crown Bank Account.
@@ -196,9 +198,15 @@ All money payable to the Secretary under this Part shall be deemed to be payable
   (c) refuses or fails without reasonable excuse to comply with any requirement made under paragraph (c) or (d) of section 31(1).
 (2) Any offence against this section committed by any employee or agent in the course of employment or agency shall be deemed to have been also committed by the employee's or agent's employer or principal if it is proved that the act or omission constituting the offence occurred with the employer's or principal's authority, permission, or consent.
 
-### 33 Rates of levies, etc, may be prescribed
-(1) Without limiting the general power to make regulations conferred by section 35 but subject to subsection (2) of this section, regulations may be made under that section prescribing amounts or rates of levies, or formulas for calculating levies, lower than the amounts or rates set out in this Part.
-(2) No such lower amount or rate, or formula, shall be prescribed unless the Minister has consulted those persons or organisations considered by the Minister to represent the persons affected by the levy concerned.
+### 33 Regulations prescribing levy rates
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing, for levies that are payable under this Part,—
+  (a) amounts or rates of the levies; or
+  (b) formulas for calculating amounts or rates of the levies.
+(2) However, an amount or rate prescribed, or calculated using a prescribed formula, must not exceed any maximum amount or rate set out in this Part.
+(3) Before recommending that regulations be made under this section, the Minister must consult persons or organisations considered by the Minister to represent the persons affected by the levy concerned.
+(4) Regulations made under subsection (1),—
+  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year unless they are expressly confirmed by an Act of Parliament passed during that year; and
+  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year unless they are expressly confirmed by an Act of Parliament passed before the end of that following year.
 
 ### 34 Amount of goods and services tax excluded
 It is hereby declared that the levies payable under this Part are exclusive of goods and services tax under the Goods and Services Tax Act 1985.
@@ -292,7 +300,7 @@ It is hereby declared that the levies payable under this Part are exclusive of g
 
 ## Part 4 — Miscellaneous provisions
 
-### 35 Regulations
+### 35 Other regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) requiring specified classes of users or intending users of energy or of sources of energy to supply to the Secretary prescribed information as to—
     (i) the kinds, forms, and sources of energy used or to be used by them; and
@@ -313,6 +321,7 @@ It is hereby declared that the levies payable under this Part are exclusive of g
   (eg) prescribing the records that are required to be kept under section 35B and the length of time they must be kept:
   (eh) prescribing the form of search warrants issued under section 37A:
   (f) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amounts of the fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $10,000:
+  (fa) prescribing, in respect of the levy that is payable under section 24, the types of petroleum or engine fuels for which the levy is payable:
   (g) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (1A)
 (2) The following may be incorporated by reference into a regulation made under subsection (1):
@@ -391,7 +400,7 @@ Every person commits an offence who,—
   (j) the qualities of the person's engine fuel:
   (k) any standards or specifications (including environmental or sustainability standards or specifications) that the person's engine fuel meets:
   (l) the particular end use or type of end use of the person's engine fuel.
-(1A) The Minister may, by notice in writing to a person described in subsection (1B), require that person to publish (in any particular form and manner), by a date specified in the notice, any information that may be required to be supplied to the Minister in relation to subsection (1)(f) to (l).
+(1A) The Minister may, by notice in writing to a person described in subsection (1B), require that person to publish (in any particular form and manner), by a date specified in the notice, any information that may be required to be supplied to the Minister in relation to subsection (1)﻿(f) to (l).
 (1B) The persons who may be the recipients of a notice under subsection (1) or (1A) are—
   (a)
   (b)
@@ -427,7 +436,7 @@ Every person commits an offence who,—
   (f) if necessary, to require a person to reproduce, or assist any person executing the warrant to reproduce in usable form, information recorded or stored in a document.
 (2) The powers in subsection (1) to enter and search the land, building, or place must not be exercised by a Ministry employee unless, when exercising the power, that employee is accompanied by a constable.
 (3) The person executing the search warrant may also seize any thing that he or she, or any person assisting him or her, finds in the course of executing the warrant, if the person executing the warrant has reasonable grounds to believe that a search warrant could be obtained to search for that thing.
-(4) A person assisting the person executing the warrant also has the powers referred to in subsection (1)(c) to (f) while in the company and under the direction of the person executing the warrant.
+(4) A person assisting the person executing the warrant also has the powers referred to in subsection (1)﻿(c) to (f) while in the company and under the direction of the person executing the warrant.
 (5) The warrant must be executed in accordance with any conditions specified under section 37A(2).
 
 ### 37C Form and content of search warrant
