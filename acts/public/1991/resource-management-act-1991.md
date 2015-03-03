@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2014-12-16_
+_Consolidation as at 2015-03-03_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -1358,9 +1358,9 @@ An authority conducting a hearing on a matter described in section 39(1) may exe
 (2) The applicant must provide the briefs of evidence at least 10 working days before the hearing.
 (3) The authority may direct a person who has made a submission and who is intending to call expert evidence to provide briefs of the evidence to the authority before the hearing.
 (4) The person must provide the briefs of evidence at least 5 working days before the hearing.
-(5) If the authority has exercised a power under this section, section 101(2) does not apply. Instead, subsection (6) or (7) of this section applies.
-(6) If section 87I, 198G, or 198N applies, the authority must hold the hearing no more than 30 working days after the date on which it knows that the section applies.
-(7) In any other case, the authority must hold the hearing within 40 working days after the closing date for submissions.
+(5)
+(6)
+(7)
 
 ### 41C Directions and requests before or at hearings
 (1) Before or at the hearing, the authority may—
@@ -1427,10 +1427,10 @@ An authority conducting a hearing on a matter described in section 39(1) may exe
 (1AA) The local authority may—
   (a) require an officer of the local authority to prepare the report; or
   (b) commission a consultant or any other person employed for the purpose to prepare the report.
-(1A) The report does not need to repeat material from an assessment of environmental effects provided by the applicant.
+(1A) The report does not need to repeat information included in the applicant's application under section 88(2).
 (1B) Instead, the report may—
-  (a) adopt the whole assessment; or
-  (b) adopt any part of the assessment by referring to the part adopted.
+  (a) adopt all of the information; or
+  (b) adopt any part of the information by referring to the part adopted.
 (2) Any report prepared under subsection (1) may be considered at any hearing conducted by the local authority.
 (3) If the report is in writing, the local authority must provide a copy of it to the applicant, and to every person who made a submission and stated a wish to be heard at the hearing, so that they receive the copy—
   (a) at least 15 working days before the hearing, if the authority gives a direction under section 41B; or
@@ -2514,7 +2514,7 @@ In this Act, the term resource consent means any of the following:
   (a) receives a report provided under section 87F(5); and
   (b) continues to want the application to be determined by the Environment Court instead of by a consent authority.
 (2) The application is referred to the Environment Court by the applicant,—
-  (a) within 10 working days after receiving the report, lodging with the Environment Court a notice of motion in the prescribed form applying for the grant of the resource consent (or the change or cancellation of the condition) and specifying the grounds upon which the application for the grant of the resource consent (or the change or cancellation of the condition) is made, and a supporting affidavit as to the matters giving rise to that application; and
+  (a) within 15 working days after receiving the report, lodging with the Environment Court a notice of motion in the prescribed form applying for the grant of the resource consent (or the change or cancellation of the condition) and specifying the grounds upon which the application for the grant of the resource consent (or the change or cancellation of the condition) is made, and a supporting affidavit as to the matters giving rise to that application; and
   (b) as soon as is reasonably practicable after lodging the notice of motion, serving a copy of the notice of motion and affidavit on—
     (i) the consent authority that granted the applicant's request under section 87D; and
     (ii) every person who made a submission to the authority on the application; and
@@ -2540,8 +2540,8 @@ The consent authority that would have determined the application had the Environ
   (a) an applicant receives a report under section 87F(5); and
   (b) either—
     (i) the applicant advises the authority that the applicant does not intend to lodge a notice of motion with the Environment Court under section 87G(2); or
-    (ii) the applicant does not lodge a notice of motion with the Environment Court under section 87G(2); and
-  (c) the applicant continues to want the application determined.
+    (ii) the applicant does not lodge a notice of motion with the Environment Court under section 87G(2).
+  (c)
 (2) The application must be determined by the consent authority.
 
 **Application for resource consent**
@@ -2550,9 +2550,12 @@ The consent authority that would have determined the application had the Environ
 (1) A person may apply to the relevant consent authority for a resource consent.
 (2) An application must—
   (a) be made in the prescribed form and manner; and
-  (b) include, in accordance with Schedule 4, an assessment of environmental effects in such detail as corresponds with the scale and significance of the effects that the activity may have on the environment.
+  (b) include the information relating to the activity, including an assessment of the activity's effects on the environment, as required by Schedule 4.
 (2A) An application for a coastal permit to undertake an aquaculture activity must include a copy for the Ministry of Fisheries.
-(3) If an application does not include an adequate assessment of environmental effects or the information required by regulations, a consent authority may, within 5 working days after the application was first lodged, determine that the application is incomplete and return the application, with written reasons for the determination, to the applicant.
+(3) A consent authority may, within 10 working days after an application was first lodged, determine that the application is incomplete if the application does not—
+  (a) include the information prescribed by regulations; or
+  (b) include the information required by Schedule 4.
+(3A) The consent authority must immediately return an incomplete application to the applicant, with written reasons for the determination.
 (4) If, after an application has been returned as incomplete, that application is lodged again with the consent authority, that application is to be treated as a new application.
 (5) Sections 357 to 358 apply to a determination that an application is incomplete.
 
@@ -2567,30 +2570,18 @@ The consent authority that would have determined the application had the Environ
 (2) Notwithstanding subsection (1), any plan or proposed plan which exists when the application is considered must be had regard to in accordance with section 104(1)(b).
 (3)
 
-### 88B Time limits from which time periods are excluded
-(1) Subsection (2) lists the time limits from which certain time periods must be excluded. Subsection (3) lists the time periods that must be excluded from the time limits.
-(2) The time limits are those in the following provisions:
-  (a) section 95, which deals with the time limit for notification:
-  (b) section 41B(6) and (7), which deal with the time limits for the commencement of a hearing if a direction is given under section 41B:
-  (c) section 87F(3), which deals with the time limit for the preparation of a consent authority report where an application is to be determined by the Environment Court under section 87G:
-  (d) section 101(2), which deals with the time limits for the commencement of a hearing if no direction is given under section 41B:
-  (e) section 115, which deals with the time limit for notification of the decision on an application for a resource consent:
-  (f) section 173, which deals with the time limit for notification of the decision on a designation:
-  (g) section 198D(3), which deals with the time limit for the preparation of a territorial authority report where an application is to be determined by the Environment Court under section 198E:
-  (h) section 198J(2), which deals with the time limit for the preparation of a territorial authority report where an application is to be determined by the Environment Court under section 198K.
-(3) The time periods are those described in the following provisions:
-  (a) section 88C(2), (4), and (6):
-  (b) section 88D(2), (4), (6), (8), (10), (12), and (14):
-  (c) section 88E(2), (4), and (6).
-(4) Despite subsection (3), any applicable time periods described in section 88D(2) and (8) must not be excluded from the time limits in section 95.
+### 88B Time limits from which time periods are excluded in relation to applications
+(1) This section provides for the deferral of certain time limits relating to applications.
+(2) The first column of the table lists the provisions specifying time limits from which certain time periods must be excluded.
+(3) The second column lists the provisions describing time periods that must be excluded from the corresponding time limits.Provisions specifying time limitsProvisions describing time periods to be excludedSection 95 (which relates to the time limit for notification)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 87F(3) (which relates to the time limit for a consent authority report on an application to be directly referred to the Environment Court)Section 88C(4) or (6)Section 88E(2), (6), or (8)Section 88F(2)Section 101(2) (which relates to the time limit for commencement of a hearing of a non-notified application)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 103A (which relates to the time limit for completion of a hearing of a notified application)Section 88C(4) or (6)Section 88D(2), (4), or (6)Section 88E(2), (6), or (8)Section 88F(2)Section 115(3) (which relates to the time limit for notification of the decision on a non-notified application for which no hearing is held)Section 88C(2), (4), or (6)Section 88E(2) or (4)Section 88F(2)Section 115(4) (which relates to the time limit for notification of the decision on a notified application for which no hearing is held)Section 88C(4) or (6)Section 88D(2), (4), or (6)Section 88E(2), (6), or (8)Section 88F(2)
 
 ### 88C Excluded time periods relating to provision of further information
+Request for further information
 (1) Subsection (2) applies when—
   (a) an authority has requested an applicant, under section 92(1), to provide further information on the applicant's application; and
-  (b) the request is the first request made by the authority to the applicant under that provision—
-    (i) at all; or
-    (ii) after the closing date for submissions.
-(2) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
+  (b) the request is the first request made by the authority to the applicant under that provision; and
+  (c) the request is made before the authority decides whether to notify the application.
+(2) The period that must be excluded from every applicable time limit under section 88B is the period—
   (a) starting with the date of the request under section 92(1); and
   (b) ending as follows:
     (i) if the applicant provides the information within 15 working days, the date on which the applicant provides the information:
@@ -2598,85 +2589,82 @@ The consent authority that would have determined the application had the Environ
     (iii) if the applicant agrees within 15 working days to provide the information and does not provide the information, the date set under section 92A(2)(a):
     (iv) if the applicant does not respond to the request within 15 working days, the date on which the period of 15 working days ends:
     (v) if the applicant refuses within 15 working days to provide the information, the date on which the applicant refuses to provide the information.
+Commissioning of report—applicant agrees
 (3) Subsection (4) applies when—
   (a) an authority has notified an applicant, under section 92(2)(b), of its wish to commission a report; and
   (b) the applicant agrees, under section 92B(1), to the commissioning of the report.
-(4) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
+(4) The period that must be excluded from every applicable time limit under section 88B is the period—
   (a) starting with the date of the notification under section 92(2)(b); and
   (b) ending with the date on which the authority receives the report.
+Commissioning of report—applicant disagrees
 (5) Subsection (6) applies when—
   (a) an authority has notified an applicant, under section 92(2)(b), of its wish to commission a report; and
   (b) the applicant does not agree, under section 92B(1), to the commissioning of the report.
-(6) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
+(6) The period that must be excluded from every applicable time limit under section 88B is the period—
   (a) starting with the date of the notification under section 92(2)(b); and
   (b) ending with the earlier of the following:
     (i) the date on which the period of 15 working days ends; and
     (ii) the date on which the authority receives the applicant's refusal, under section 92B(1), to agree to the commissioning of the report.
 
-### 88D Excluded time periods relating to direct referral (for resource consents and also for notices of requirement)
-(1) Subsection (2) applies when an applicant makes a request under section 87D(1).
-(2) The period that must be excluded from every applicable provision listed in section 88B(2) (except section 88B(2)(a)) is the period—
+### 88D Excluded time periods relating to direct referral
+Request for direct referral declined and no objection
+(1) Subsection (2) applies when—
+  (a) an applicant makes a request under section 87D(1); and
+  (b) the consent authority declines the request under section 87E(5) to (6A); and
+  (c) the applicant does not object under section 357A(1)(e).
+(2) The period that must be excluded from every applicable time limit under section 88B is the period—
   (a) starting with the date on which the consent authority receives the request; and
-  (b) ending with the earliest of the following:
-    (i) if section 87E(5) applies, the date on which the 15 working days end:
-    (ii) if section 87E(6) applies, the date on which the 15 working days end:
-    (iii) the date on which the authority gives the applicant the authority's decision on the request.
-(3) Subsection (4) applies when an applicant objects to a consent authority against the authority's decision not to grant the applicant's request under section 87D.
-(4) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
-  (a) starting with the date on which the consent authority receives the objection; and
-  (b) ending with the date on which the authority notifies the applicant of its decision on the objection.
-(5) Subsection (6) applies when an applicant receives a report provided under section 87F(5)(a).
-(6) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
-  (a) starting with the date on which the consent authority provides the report; and
+  (b) ending with the date on which the 15 working days referred to in section 357C(1) end.
+Request for direct referral declined and objection dismissed
+(3) Subsection (4) applies when—
+  (a) an applicant makes a request under section 87D(1); and
+  (b) the consent authority declines the request under section 87E(5) to (6A); and
+  (c) the consent authority dismisses the applicant's objection under section 357D.
+(4) The period that must be excluded from every applicable time limit under section 88B is the period—
+  (a) starting with the date on which the consent authority receives the request; and
+  (b) ending with the date on which the consent authority notifies the applicant of its decision to dismiss the objection.
+Request for direct referral granted or objection upheld
+(5) Subsection (6) applies when—
+  (a) an applicant makes a request under section 87D(1); and
+  (b) either—
+    (i) the consent authority grants the request under section 87E(5) to (6A); or
+    (ii) the consent authority declines the request under section 87E(5) to (6A), but upholds the applicant's objection under section 357D.
+(6) The period that must be excluded from every applicable time limit under section 88B is the period—
+  (a) starting with the date on which the consent authority receives the request; and
   (b) ending with the earlier of the following:
-    (i) the date on which the 10 working days referred to in section 87G(2)(a) end; and
-    (ii) the date on which the applicant notifies the authority, in writing or electronically, that the applicant does not intend to lodge a notice of motion under section 87G(2)(a) (if the applicant chooses to notify the authority of this).
-(7) Subsection (8) applies when a requiring authority or heritage protection authority makes a request under section 198B(1).
-(8) The period that must be excluded from every applicable provision listed in section 88B(2) (except section 88B(2)(a)) is the period—
-  (a) starting with the date on which the territorial authority receives the request; and
-  (b) ending with the earliest of the following:
-    (i) if section 198C(4) applies, the date on which the 15 working days end:
-    (ii) if section 198C(5) applies, the date on which the 15 working days end:
-    (iii) the date on which the authority gives the requiring authority or heritage protection authority the authority's decision on the request.
-(9) Subsection (10) applies when a requiring authority or heritage protection authority objects to a territorial authority against the authority's decision not to grant the requiring authority's or heritage protection authority's request under section 198B(1).
-(10) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
-  (a) starting with the date on which the territorial authority receives the objection; and
-  (b) ending with the date on which the authority notifies the requiring authority or heritage protection authority of its decision on the objection.
-(11) Subsection (12) applies when a requiring authority or heritage protection authority receives a report provided under section 198D(5)(a).
-(12) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
-  (a) starting with the date on which the territorial authority provides the report; and
-  (b) ending with the earlier of the following:
-    (i) the date on which the 10 working days referred to in section 198E(2)(a) end; and
-    (ii) the date on which the requiring authority or heritage protection authority notifies the territorial authority, in writing or electronically, that the requiring authority or heritage protection authority does not intend to lodge a notice of motion under section 198E(2)(a) (if the requiring authority or heritage protection authority chooses to notify the territorial authority of this).
-(13) Subsection (14) applies when a territorial authority provides a report under section 198J(4).
-(14) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
-  (a) starting with the date on which the territorial authority provides the report; and
-  (b) ending with the earlier of the following:
-    (i) the date on which the 10 working days referred to in section 198K(1)(a) end; and
-    (ii) the date on which the territorial authority decides not to lodge a notice of motion under section 198K(1)(a) (if it decides this).
+    (i) the date on which the 15 working days referred to in section 87G(2)(a) end; and
+    (ii) the date on which the applicant advises the consent authority that the applicant does not intend to lodge a notice of motion with the Environment Court under section 87G(2).
 
 ### 88E Excluded time periods relating to other matters
+Deferral pending application for additional consents
 (1) Subsection (2) applies when a consent authority determines, under section 91(1), not to proceed with the notification or hearing of an application for a resource consent.
-(2) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
+(2) The period that must be excluded from every applicable time limit under section 88B is the period—
   (a) starting with the date of the notification of the determination to the applicant under section 91(2); and
   (b) ending with—
     (i) the date of the receipt of applications for the resource consents that the authority considers, under section 91(1)(b), should be applied for; or
     (ii) the date of an Environment Court order revoking the authority's determination.
-(3) Subsection (4) applies when an applicant tries, for the purposes of sections 95E(3) and 95F, to obtain the approval of persons who may be adversely affected.
-(4) The period that must be excluded from every applicable provision listed in section 88B(2) is the time taken by the applicant in trying to obtain the approvals, whether or not they are obtained.
+Approval sought from affected persons or groups
+(3) Subsection (4) applies when an applicant tries, for the purposes of section 95E(3), 95F, or 95G, to obtain approval for an activity from any person or group that may otherwise be considered an affected person, affected protected customary rights group, or affected customary marine title group in relation to the activity.
+(4) The period that must be excluded from every applicable time limit under section 88B is the time taken by the applicant in trying to obtain the approvals, whether or not they are obtained.
+Referral to mediation
 (5) Subsection (6) applies when a consent authority refers persons to mediation under section 99A.
-(6) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
+(6) The period that must be excluded from every applicable time limit under section 88B is the period—
   (a) starting with the date of the reference; and
   (b) ending with the earlier of the following:
     (i) the date on which one of the persons referred to mediation gives the other persons referred and the mediator a written notice withdrawing the person's consent to the mediation; and
     (ii) the date on which the mediator reports the outcome of the mediation to the authority.
+Suspension of application processing
+(7) Subsection (8) applies when the processing of an application is suspended under section 91A.
+(8) The period that must be excluded from every applicable time limit under section 88B is the period—
+  (a) starting with the date on which the suspension started:
+  (b) ending with the date on which the suspension ceased.
 
-### 88F Excluded time relating to pre-request aquaculture agreements
+### 88F Excluded time periods relating to pre-request aquaculture agreements
 (1) Subsection (2) applies when—
   (a) an application has been made for a coastal permit to undertake aquaculture activities in the coastal marine area; and
   (b) the applicant requests the consent authority to defer determining the application so that the applicant can negotiate a pre-request aquaculture agreement under section 186ZM of the Fisheries Act 1996; and
   (c) it is the first request made by the applicant for that purpose.
-(2) The period that must be excluded from every applicable provision listed in section 88B(2) is the period—
+(2) The period that must be excluded from every applicable time limit under section 88B is the period—
   (a) starting with the date on which the request is made; and
   (b) ending with the earlier of the following:
     (i) the 80th working day after the date on which the request is made:
@@ -2716,6 +2704,42 @@ The consent authority that would have determined the application had the Environ
   (b) it is appropriate, for the purpose of better understanding the nature of the proposal, that applications for any 1 or more of those other resource consents be made before proceeding further.
 (2) Where a consent authority makes a determination under subsection (1), it shall forthwith notify the applicant of the determination.
 (3) The applicant may apply to the Environment Court for an order directing that any determination under this section be revoked.
+
+### 91A Applicant may have processing of application suspended
+(1) A consent authority must suspend the processing of a notified application when a request is received in accordance with this section.
+(2) The applicant may request the consent authority to suspend the processing of an application at any time in the period—
+  (a) starting when the application is notified; and
+  (b) ending when—
+    (i) the hearing is completed, if a hearing is held for the application; or
+    (ii) the consent authority gives notice to the applicant of its decision on the application, if a hearing is not held for the application.
+(3) However, a request must not be made if—
+  (a) the applicant has lodged a notice of motion with the Environment Court under section 87G(2)(a); or
+  (b) the Minister has made a direction under section 142(2) in relation to the application; or
+  (c) a total of 130 or more working days have been excluded from time limits under section 88B in relation to the application (which, under section 88E(8), includes time during which the application has been suspended).
+(4) The request must be made by written or electronic notice.
+(5) If processing is suspended under this section, the consent authority must give written or electronic notice to the applicant specifying the date on which the suspension started.
+
+### 91B When suspension of processing ceases
+(1) A consent authority must cease to suspend the processing of an application when—
+  (a) a request is received in accordance with this section; or
+  (b) the applicant lodges a notice of motion with the Environment Court under section 87G(2)(a); or
+  (c) the Minister makes a direction under section 142(2) in relation to the application; or
+  (d) the consent authority decides under section 91C to continue to process the application.
+(2) The applicant may request the consent authority to cease to suspend the processing of an application if it is currently suspended.
+(3) The request must be made by written or electronic notice.
+(4) If a suspension is ceased under this section, the consent authority must give written or electronic notice to the applicant specifying the date on which the suspension ceased.
+
+### 91C Application may be returned if suspended after certain period
+(1) Subsection (2) applies if—
+  (a) a total of 130 or more working days have been excluded from time limits under section 88B in relation to an application (which, under section 88E(8), includes time during which the application has been suspended); and
+  (b) the application is suspended at the time.
+(2) The consent authority must decide to—
+  (a) return the application to the applicant; or
+  (b) continue to process the application.
+(3) If the consent authority decides to return the application,—
+  (a) it must be returned together with a written explanation as to why it is being returned; but
+  (b) the applicant may object to the consent authority under section 357(3A).
+(4) If, after an application has been returned, the application is lodged again with the consent authority, the application is to be treated as a new application.
 
 **Further information**
 
@@ -2783,7 +2807,7 @@ The consent authority that would have determined the application had the Environ
 **Public notification and limited notification of applications**
 
 ### 95 Time limit for public notification or limited notification
-A consent authority must, within 10 working days after the day an application for a resource consent is first lodged,—
+A consent authority must, within 20 working days after the day an application for a resource consent is first lodged,—
   (a) decide whether to give public or limited notification of the application; and
   (b) notify the application if it decides to do so.
 
@@ -2863,7 +2887,10 @@ A consent authority must decide that a customary marine title group is an affect
   (c) it is neutral.
 
 ### 97 Time limit for submissions
-The closing date for serving submissions on a consent authority shall be the 20th working day after public notification or limited notification of the relevant application.
+(1) This section specifies the closing date for serving submissions on a consent authority that has notified an application.
+(2) If public notification was given, the closing date is the 20th working day after the date of public notification.
+(3) If limited notification was given, the closing date is the 20th working day after the date of limited notification.
+(4) However, if limited notification was given, the consent authority may adopt as an earlier closing date the day on which the consent authority has received from all affected persons a submission, written approval for the application, or written notice that the person will not make a submission.
 
 ### 98 Advice of submissions to applicant
 As soon as reasonably practicable after the closing date for submissions, the consent authority shall provide the applicant with a list of all submissions received by it.
@@ -2940,10 +2967,7 @@ A hearing need not be held in accordance with this Act in respect of an applicat
 
 ### 101 Hearing date and notice
 (1) If a hearing of an application for a resource consent is to be held, the consent authority shall fix a commencement date and time, and the place, of the hearing.
-(2) The date for the commencement of the hearing is as follows:
-  (a) if section 87I, 198G, or 198M applies, the date must be no more than 15 working days after the date on which the authority knows that the section applies:
-  (b) if none of sections 87I, 198G, and 198M applies and the application was not notified, the date must be within 25 working days after the date the application was first lodged with the authority:
-  (c) if none of sections 87I, 198G and 198M applies and the application was notified, the date must be within 25 working days after the closing date for submissions on the application.
+(2) If the application was not notified, the date for the commencement of the hearing must be within 35 working days after the date the application was first lodged with the consent authority.
 (2A)
 (3) The consent authority shall give at least 10 working days' notice of the commencement date and time, and the place, of a hearing of an application for a resource consent to—
   (a) the applicant; and
@@ -2973,11 +2997,24 @@ A hearing need not be held in accordance with this Act in respect of an applicat
 (2) This section shall also apply to any other matter the consent authority is empowered to decide or recommend on under this Act in relation to the same proposal.
 (3) If a consent authority delegates its functions, powers, and duties in relation to a matter to 1 or more hearings commissioners in accordance with section 100A, and the matter is to be heard and decided together with other matters under this section, then all of the matters must be heard and decided by those commissioners.
 
-### 103A Time limit for completion of adjourned hearing
-(1) Subsection (2) applies to a hearing of an application for a resource consent if—
-  (a) the hearing is adjourned; and
-  (b) the adjournment takes effect after the applicant's right of reply has been exercised.
-(2) The hearing must be concluded no later than 10 working days after the right of reply has been exercised (whether exercised orally or in writing).
+### 103A Time limit for completion of hearing of notified application
+(1) This section applies to a hearing of an application for a resource consent that was notified.
+(2) If public notification was given, the hearing must be completed no later than 75 working days after the closing date for submissions on the application.
+(3) If limited notification was given, the hearing must be completed no later than 45 working days after the closing date for submissions on the application.
+
+### 103B Requirement to provide report and other evidence before hearing
+(1) This section applies to a hearing of an application for a resource consent that was notified.
+(2) The consent authority must provide the following (the authority's evidence) to the applicant, and to every person who made a submission and stated a wish to be heard at the hearing, at least 15 working days before the hearing:
+  (a) a copy of any written report prepared under section 42A(1); and
+  (b) briefs of any other evidence to be called by the authority.
+(3) The applicant must provide briefs of evidence (the applicant's evidence) to the consent authority at least 10 working days before the hearing.
+(4) A person who has made a submission and who is intending to call expert evidence must provide briefs of the evidence (the submitter's evidence) to the consent authority and the applicant at least 5 working days before the hearing.
+(5) The consent authority must make the following available at its office to the persons specified:
+  (a) the authority's evidence, to any person who made a submission and did not state a wish to be heard:
+  (b) the applicant's evidence, to any person who made a submission:
+  (c) any submitter's evidence, to any other person who made a submission.
+(6) The consent authority must give written or electronic notice that evidence is available at its office to each person to whom the evidence is made available.
+(7) This section overrides sections 41B and 42A(3) to (5).
 
 **Decisions**
 
@@ -3113,7 +3150,7 @@ If a national environmental standard is made to control the effects on climate c
   (b) an area that is or was subject to the coastal permit referred to in section 20A of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 and where, since the date the coastal permit was deemed to be granted, aquaculture activities have been continuously authorised under that permit or another permit granted under this Act; or
   (c) an area in a gazetted aquaculture area within the meaning of section 35 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
 (3) The consent authority must take the following actions:
-  (a) unless the application is returned under section 88(3), forward a copy of the application as soon as is reasonably practicable to the chief executive of the Ministry of Fisheries:
+  (a) unless the application is returned under section 88(3A), forward a copy of the application as soon as is reasonably practicable to the chief executive of the Ministry of Fisheries:
   (b) if information or a report is obtained in relation to the application under section 41C, 42A, 92, or 149, forward that information or report as soon as is reasonably practicable to the chief executive:
   (c) if the application is notified, as soon as is reasonably practicable after the closing date for submissions, send to the chief executive a copy of the submissions received.
 (4) For the purposes of subsection (3)(c), in the case of a concurrent application made under subpart 4 of Part 7A that is lodged with the EPA, the copy of submissions required to be sent by the EPA to the chief executive is a copy of only those submissions that relate to the concurrent application and not those that relate to its plan change request.
@@ -3254,7 +3291,7 @@ Where a consent authority has received a cash contribution under section 108(2)(
 (2) If a hearing is held, notice of the decision must be given within 15 working days after the end of the hearing.
 (3) If the application was not notified and a hearing is not held, notice of the decision must be given within 20 working days after the date the application was first lodged with the authority.
 (4) If the application was notified and a hearing is not held, notice of the decision must be given within 20 working days after the closing date for submissions on the application.
-(5) However, if section 87I applies and a hearing is not held, the notice must be given within 10 working days after the date on which the authority knows that the section applies.
+(5)
 
 ### 116 When a resource consent commences
 (1) Except as provided in subsections (1A), (2), (4), and (5), or section 116A, every resource consent that has been granted commences—unless the resource consent states a later date or a determination of the Environment Court states otherwise.
@@ -4368,7 +4405,7 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
 (2) If the matter is an application for a resource consent, the local authority must treat the application as if—
   (a) it had been made to the local authority under section 88(1); and
   (b) it had been lodged on the date that the local authority received notification from the EPA under section 149Y(3); and
-  (c) section 88(3) did not apply to the application.
+  (c) section 88(3) and (3A) did not apply to the application.
 (3) If the matter is a notice of requirement for a designation or to alter a designation, the local authority must treat the notice as if it had been—
   (a) given to the local authority under section 168; and
   (b) lodged on the date that the local authority received notification from the EPA under section 149Y(3).
@@ -5139,12 +5176,12 @@ In this section and sections 165ZFD to 165ZFH,—
 (9) If the regional council—
   (a) receives advice from all the applicants in respect of affected applications that the applicants continue to want the affected applications to be determined by the Environment Court, the regional council must give notice to each applicant that—
     (i) the applicant’s affected application is to be determined by the Environment Court; and
-    (ii) the applicant must lodge a notice of motion with the Environment Court that complies with section 87G(2)(a) within 10 working days after the date of the regional council’s notice or the applicant’s affected application may be cancelled in accordance with subsection (11); or
+    (ii) the applicant must lodge a notice of motion with the Environment Court that complies with section 87G(2)(a) within 15 working days after the date of the regional council’s notice or the applicant’s affected application may be cancelled in accordance with subsection (11); or
   (b) does not receive advice from all the applicants in respect of affected applications that the applicants continue to want the affected applications to be determined by the Environment Court, the regional council must—
     (i) give notice to each applicant that the applicant’s affected application is to be determined by the regional council; and
     (ii) continue to process and hear together the affected applications in accordance with this section and section 165ZFF.
 (10) Section 87G(2)(b) and (c), (3), and (4) apply in relation to the notice of motion referred to in subsection (9)(a)(ii) with any necessary modifications.
-(11) If an applicant does not lodge a notice of motion with the Environment Court within 10 working days after the date of the notice under subsection (9)(a), the regional council must—
+(11) If an applicant does not lodge a notice of motion with the Environment Court within 15 working days after the date of the notice under subsection (9)(a), the regional council must—
   (a) give notice to the relevant applicant that unless the applicant lodges the notice of motion within 5 working days of the date of the notice, the applicant’s affected application will be cancelled; and
   (b) if, within the period notified, or such greater period as the regional council may think reasonable in the circumstances, the applicant does not lodge the notice of motion the regional council must cancel the applicant’s affected application.
 (12) Sections 87G(5) to (7) and 87H apply in respect of the affected applications.
@@ -5259,7 +5296,7 @@ In this subpart, unless the context otherwise requires,—
 (1) The provisions of this Act relating to consent applications and plan change requests apply to concurrent applications and plan change requests under this subpart subject to the provisions of this subpart.
 (2) Subsections (3) to (4) do not limit subsection (1).
 (3) Section 36AA and any regulations made under section 360(1)(hj) do not apply in relation to a concurrent application.
-(4) The following provisions of Part 6 do not apply to a concurrent application: sections 88A to 88E, 95 to 95G, 96(7), 97, 99 to 103A, 115, and 121(1)(c).
+(4) The following provisions of Part 6 do not apply to a concurrent application: sections 88A to 88E, 91A, 95 to 95G, 96(7), 97, 99 to 103A, 115, and 121(1)(c).
 
 ### 165ZN Application for coastal permit to undertake aquaculture activities
 (1) An application for a coastal permit to undertake an aquaculture activity in the common marine and coastal area that otherwise could not be made because of section 87A(6) may be made if—
@@ -5280,14 +5317,14 @@ In this subpart, unless the context otherwise requires,—
   (b) specify that it is intended to lodge a concurrent application subsequently, if the plan change request is accepted.
 
 ### 165ZP Incomplete concurrent application
-(1) This section applies if a concurrent application is returned, under section 88(3), as incomplete.
+(1) This section applies if a concurrent application is returned, under section 88(3A), as incomplete.
 (2) The regional council is not required to take any further action on the plan change request unless the application is lodged again within the time specified in subsection (3).
 (3) If the application is not lodged again within 20 working days after the date on which the applicant receives the returned application, the application and the plan change request lapse.
 
 ### 165ZQ Additional consents
 (1) If the regional council makes a determination under section 91(1), it must do so within 20 working days after—
-  (a) the expiry of the 5 working days specified in section 88(3), if the application is not returned as incomplete:
-  (b) the day after the application is lodged again under section 165ZP(3), if the application was returned as incomplete under section 88(3).
+  (a) the expiry of the 10 working days specified in section 88(3), if the application is not returned as incomplete:
+  (b) the day after the application is lodged again under section 165ZP(3), if the application was returned as incomplete under section 88(3A).
 (2) If the regional council determines that 1 or more further consents will be required, the regional council is not required to take any further action on the plan change request until the applications for the further consents have been lodged and accepted as complete under section 88(3).
 
 ### 165ZR Concurrent application to be declined or treated as withdrawn if plan change request declined or withdrawn
@@ -5406,6 +5443,10 @@ In this Act—
   (d) a reference to an activity were a reference to the designation.
 (1B) Section 168 applies to the notice of requirement with all necessary modifications.
 (2) Sections 96, 97, and 99 to 103 apply to the notice of requirement with the modifications described in subsection (1A).
+(2AA) However, section 101(2) does not apply to the notice of requirement, and the date for the commencement of the hearing is as follows:
+  (a) if the notice of requirement was not notified, the date must be within 25 working days after the date the notice of requirement was given by the territorial authority:
+  (b) if the notice of requirement was notified and the territorial authority gives a direction under section 41B, the date must be within 40 working days after the closing date for submissions on the notice of requirement:
+  (c) if the notice of requirement was notified and the territorial authority does not give a direction under section 41B, the date must be within 25 working days after the closing date for submissions on the notice of requirement.
 (2A) When considering a requirement and any submissions received, a territorial authority must not have regard to trade competition or the effects of trade competition.
 (3) When considering a requirement and any submissions received, a territorial authority must, subject to Part 2, consider the effects on the environment of allowing the requirement, having particular regard to—
   (a) any relevant provisions of—
@@ -5431,10 +5472,15 @@ In this Act—
   (b) a reference to an applicant were a reference to the requiring authority; and
   (c) a reference to an application for a resource consent were a reference to the notice of requirement; and
   (d) a reference to a consent authority were a reference to the territorial authority; and
-  (e) a reference to an activity were a reference to the designation.
+  (e) a reference to an activity were a reference to the designation; and
+  (f) the time limit specified by section 95 were 10 working days.
 (2) Unless the territorial authority applies section 170, sections 92 to 92B and 96 to 103 apply to the notice of requirement with all necessary modifications and—
   (a) with the modifications described in subsection (1); and
   (b) as if a reference to a decision on the application for a resource consent were a reference to a recommendation by the territorial authority under section 171.
+(3) However, section 101(2) does not apply to the notice of requirement, and the date for the commencement of the hearing is as follows:
+  (a) if the notice of requirement was not notified, the date must be within 25 working days after the date the notice of requirement was given to the territorial authority:
+  (b) if the notice of requirement was notified and the territorial authority gives a direction under section 41B, the date must be within 40 working days after the closing date for submissions on the notice of requirement:
+  (c) if the notice of requirement was notified and the territorial authority does not give a direction under section 41B, the date must be within 25 working days after the closing date for submissions on the notice of requirement.
 
 ### 170 Discretion to include requirement in proposed plan
 If a territorial authority is given notice of a requirement under section 168, and proposes to publicly notify a proposed plan under clause 5 of Schedule 1 within 40 working days of receipt of that requirement, the territorial authority may, with the consent of the requiring authority, include the requirement in its proposed plan instead of complying with section 169.
@@ -5573,8 +5619,8 @@ If a territorial authority is given notice of a requirement under section 168, a
 
 ### 181 Alteration of designation
 (1) A requiring authority that is responsible for a designation may at any time give notice to the territorial authority of its requirement to alter the designation.
-(2) Subject to subsection (3), sections 168 to 179 shall, with all necessary modifications, apply to a requirement referred to in subsection (1) as if it were a requirement for a new designation.
-(3) A territorial authority may at any time alter a designation in its district plan or a requirement in its proposed district plan if—and sections 168 to 179 shall not apply to any such alteration.
+(2) Subject to subsection (3), sections 168 to 179 and 198AA to 198AD shall, with all necessary modifications, apply to a requirement referred to in subsection (1) as if it were a requirement for a new designation.
+(3) A territorial authority may at any time alter a designation in its district plan or a requirement in its proposed district plan if—and sections 168 to 179 and 198AA to 198AD shall not apply to any such alteration.
   (a) the alteration—
     (i) involves no more than a minor change to the effects on the environment associated with the use or proposed use of land or any water concerned; or
     (ii) involves only minor changes or adjustments to the boundaries of the designation or requirement; and
@@ -5698,6 +5744,10 @@ In this Act—
   (b) it opposes the requirement; or
   (c) it is neutral.
 (9) Sections 99 to 103 apply to the notice of requirement with the modifications described in subsection (2).
+(9A) However, section 101(2) does not apply to the notice of requirement, and the date for the commencement of the hearing is as follows:
+  (a) if the notice of requirement was not notified, the date must be within 25 working days after the date the notice of requirement was given by the territorial authority:
+  (b) if the notice of requirement was notified and the territorial authority gives a direction under section 41B, the date must be within 40 working days after the closing date for submissions on the notice of requirement:
+  (c) if the notice of requirement was notified and the territorial authority does not give a direction under section 41B, the date must be within 25 working days after the closing date for submissions on the notice of requirement.
 (10) In considering the requirement, the territorial authority must have regard to—
   (a) the matters set out in section 191; and
   (b) all submissions.
@@ -5712,7 +5762,8 @@ In this Act—
   (b) a reference to an applicant were a reference to the heritage protection authority; and
   (c) a reference to an application for a resource consent were a reference to the notice of requirement; and
   (d) a reference to a consent authority were a reference to the territorial authority; and
-  (e) a reference to an activity were a reference to the heritage order.
+  (e) a reference to an activity were a reference to the heritage order; and
+  (f) the time limit specified by section 95 were 10 working days.
 (2) If the requirement is publicly notified, any person may make a submission about it to the territorial authority.
 (3) If the requirement is the subject of limited notification, a person notified may make a submission about it to the territorial authority.
 (4) A submission must be in the prescribed form.
@@ -5724,6 +5775,10 @@ In this Act—
 (7) Sections 92 to 92B and 98 to 103 apply to the notice of requirement with all necessary modifications and—
   (a) with the modifications described in subsection (1); and
   (b) as if a reference to a decision on the application for a resource consent were a reference to a recommendation by the territorial authority under section 191.
+(8) However, section 101(2) does not apply to the notice of requirement, and the date for the commencement of the hearing is as follows:
+  (a) if the notice of requirement was not notified, the date must be within 25 working days after the date the notice of requirement was given to the territorial authority:
+  (b) if the notice of requirement was notified and the territorial authority gives a direction under section 41B, the date must be within 40 working days after the closing date for submissions on the notice of requirement:
+  (c) if the notice of requirement was notified and the territorial authority does not give a direction under section 41B, the date must be within 25 working days after the closing date for submissions on the notice of requirement.
 
 ### 191 Recommendation by territorial authority
 (1) Subject to Part 2, when considering a requirement made under section 189, a territorial authority shall have regard to the matters set out in the notice given under section 189 (together with any further information and reports with which the authority is supplied), and all submissions, and shall also have particular regard to—
@@ -5798,14 +5853,14 @@ Where a heritage order is included in a district plan then, regardless of the pr
 
 ### 195A Alteration of heritage order
 (1) A heritage protection authority that is responsible for a heritage order may at any time give notice to the territorial authority of its requirement to alter the heritage order.
-(2) Sections 189 to 195 apply, with all necessary modifications, to a requirement to alter a heritage order as if it were a requirement for a new heritage order.
+(2) Sections 189 to 195 and 198AA to 198AD apply, with all necessary modifications, to a requirement to alter a heritage order as if it were a requirement for a new heritage order.
 (3) However, a territorial authority may at any time alter a heritage order in its district plan or a requirement in its proposed district plan if—
   (a) the alteration—
     (i) involves no more than a minor change to the effects on the environment associated with the heritage order concerned; or
     (ii) involves only minor changes or adjustments to the boundaries of the heritage order or requirement; and
   (b) written notice of the proposed alteration has been given to every owner or occupier of the land directly affected and those owners or occupiers agree with the alteration; and
   (c) the territorial authority and the heritage protection authority agree with the alteration.
-(4) Sections 189 to 195 do not apply to an alteration under subsection (3).
+(4) Sections 189 to 195 and 198AA to 198AD do not apply to an alteration under subsection (3).
 (5) This section applies, with all necessary modifications, to a requirement by a territorial authority to alter its own heritage order or requirement within its own district.
 
 ### 196 Removal of heritage order
@@ -5828,6 +5883,93 @@ Section 182 shall apply, with all necessary modifications, in respect of the rem
   (a) any agreement shall be deemed to have been entered into with the Minister for Land Information on behalf of the heritage protection authority as if the land were required for a government work; and
   (b) all costs and expenses incurred by the Minister for Land Information in respect of the acquisition of the land shall be recoverable from the heritage protection authority as a debt due to the Crown.
 (5) The amount of compensation payable for an estate or interest in land ordered to be taken under this section shall be assessed as if the heritage order or requirement had not been made.
+
+**Time limits from which time periods are excluded in relation to designations and heritage orders**
+
+### 198AA Time limits from which time periods are excluded in relation to designations and heritage orders
+(1) This section provides for the deferral of certain time limits relating to designations and heritage orders.
+(2) The first column of the table lists the provisions specifying time limits from which certain time periods must be excluded.
+(3) The second column lists the provisions describing time periods that must be excluded from the corresponding time limits.Provisions specifying time limitsProvisions describing time periods to be excludedSection 95 (which relates to the time limit for notification) as applied by section 169(1) or 190(1) to a notice of requirement given to a territorial authoritySection 198AB(2), (4), or (6)Section 198AD(2)Section 198D(3) (which relates to the time limit for a territorial authority report on a notice of requirement, given to a territorial authority, to be directly referred to the Environment Court)Section 198AB(2), (4), or (6)Section 198AD(4)Section 198J(2) (which relates to the time limit for a territorial authority report on a notice of requirement, given by a territorial authority, to be directly referred to the Environment Court)Section 198AD(4)Section 168A(2AA)(a) or 189A(9A)(a) (which relates to the time limit for commencement of a hearing of a non-notified notice of requirement given by a territorial authority)Section 198AD(2)Section 168A(2AA)(b) or (c) or 189A(9A)(b) or (c) (which relates to the time limit for commencement of a hearing of a notified notice of requirement given by a territorial authority)Section 198AC(8)Section 198AD(4)Section 169(3)(a) or 190(8)(a) (which relates to the time limit for commencement of a hearing of a non-notified notice of requirement given to a territorial authority)Section 198AB(2), (4), or (6)Section 198AD(2)Section 169(3)(b) or (c) or 190(8)(b) or (c) (which relates to the time limit for commencement of a hearing of a notified notice of requirement given to a territorial authority)Section 198AB(2), (4), or (6)Section 198AC(2), (4), or (6)Section 198AD(4)
+
+### 198AB Excluded time periods relating to provision of further information
+Request for further information
+(1) Subsection (2) applies when—
+  (a) a territorial authority has requested a requiring authority or heritage protection authority, under section 92(1), to provide further information on a notice of requirement; and
+  (b) the request is the first request made by the territorial authority to the requiring authority or heritage protection authority under that provision—
+    (i) at all; or
+    (ii) after the closing date for submissions.
+(2) The period that must be excluded from every applicable time limit under section 198AA is the period—
+  (a) starting with the date of the request under section 92(1); and
+  (b) ending as follows:
+    (i) if the requiring authority or heritage protection authority provides the information within 15 working days, the date on which it provides the information:
+    (ii) if the requiring authority or heritage protection authority agrees within 15 working days to provide the information and provides the information, the date on which it provides the information:
+    (iii) if the requiring authority or heritage protection authority agrees within 15 working days to provide the information and does not provide the information, the date set under section 92A(2)(a):
+    (iv) if the requiring authority or heritage protection authority does not respond to the request within 15 working days, the date on which the period of 15 working days ends:
+    (v) if the requiring authority or heritage protection authority refuses within 15 working days to provide the information, the date on which it refuses to provide the information.
+Commissioning of report—other authority agrees
+(3) Subsection (4) applies when—
+  (a) a territorial authority has notified a requiring authority or heritage protection authority, under section 92(2)(b), of its wish to commission a report; and
+  (b) the requiring authority or heritage protection authority agrees, under section 92B(1), to the commissioning of the report.
+(4) The period that must be excluded from every applicable time limit under section 198AA is the period—
+  (a) starting with the date of the notification under section 92(2)(b); and
+  (b) ending with the date on which the territorial authority receives the report.
+Commissioning of report—other authority disagrees
+(5) Subsection (6) applies when—
+  (a) a territorial authority has notified a requiring authority or heritage protection authority, under section 92(2)(b), of its wish to commission a report; and
+  (b) the requiring authority or heritage protection authority does not agree, under section 92B(1), to the commissioning of the report.
+(6) The period that must be excluded from every applicable time limit under section 198AA is the period—
+  (a) starting with the date of the notification under section 92(2)(b); and
+  (b) ending with the earlier of the following:
+    (i) the date on which the period of 15 working days ends; and
+    (ii) the date on which the territorial authority receives the requiring authority's or heritage protection authority's refusal, under section 92B(1), to agree to the commissioning of the report.
+
+### 198AC Excluded time periods relating to direct referral
+Request for direct referral declined and no objection
+(1) Subsection (2) applies when—
+  (a) a requiring authority or heritage protection authority makes a request under section 198B(1); and
+  (b) the territorial authority declines the request under section 198C(4) to (5A); and
+  (c) the requiring authority or heritage protection authority does not object under section 357(8).
+(2) The period that must be excluded from every applicable time limit under section 198AA is the period—
+  (a) starting with the date on which the territorial authority receives the request; and
+  (b) ending with the date on which the 15 working days referred to in section 357C(1) end.
+Request for direct referral declined and objection dismissed
+(3) Subsection (4) applies when—
+  (a) a requiring authority or heritage protection authority makes a request under section 198B(1); and
+  (b) the territorial authority declines the request under section 198C(4) to (5A); and
+  (c) the territorial authority dismisses the requiring authority's or heritage protection authority's objection under section 357D.
+(4) The period that must be excluded from every applicable time limit under section 198AA is the period—
+  (a) starting with the date on which the territorial authority receives the request; and
+  (b) ending with the date on which the territorial authority notifies the requiring authority or heritage protection authority of its decision to dismiss the objection.
+Request for direct referral granted or objection upheld
+(5) Subsection (6) applies when—
+  (a) a requiring authority or heritage protection authority makes a request under section 198B(1); and
+  (b) either—
+    (i) the territorial authority grants the request under section 198C(4) to (5A); or
+    (ii) the territorial authority declines the request under section 198C(4) to (5A), but upholds the requiring authority's or heritage protection authority's objection under section 357D.
+(6) The period that must be excluded from every applicable time limit under section 198AA is the period—
+  (a) starting with the date on which the territorial authority receives the request; and
+  (b) ending with the earlier of the following:
+    (i) the date on which the 15 working days referred to in section 198E(2)(a) end; and
+    (ii) the date on which the requiring authority or heritage protection authority advises the territorial authority that it does not intend to lodge a notice of motion with the Environment Court under section 198E(2).
+Decision to make direct referral to Environment Court
+(7) Subsection (8) applies when a territorial authority makes a decision under section 198H(1).
+(8) The period that must be excluded from every applicable time limit under section 198AA is the period—
+  (a) starting with the date on which the territorial authority makes the decision; and
+  (b) ending with the earlier of the following:
+    (i) the date on which the 15 working days referred to in section 198K(1)(a) end; and
+    (ii) the date on which the territorial authority decides not to lodge a notice of motion with the Environment Court under section 198K(1).
+
+### 198AD Excluded time periods relating to other matters
+Approval sought from affected persons or groups
+(1) Subsection (2) applies when a requiring authority or heritage protection authority tries, for the purposes of section 95E(3), 95F, or 95G, to obtain approval for an activity from any person or group that may otherwise be considered an affected person, affected protected customary rights group, or affected customary marine title group in relation to the activity.
+(2) The period that must be excluded from every applicable time limit under section 198AA is the time taken by the requiring authority or heritage protection authority in trying to obtain the approvals, whether or not they are obtained.
+Referral to mediation
+(3) Subsection (4) applies when a territorial authority refers persons to mediation under section 99A.
+(4) The period that must be excluded from every applicable time limit under section 198AA is the period—
+  (a) starting with the date of the reference; and
+  (b) ending with the earlier of the following:
+    (i) the date on which one of the persons referred to mediation gives the other persons referred and the mediator a written notice withdrawing the person's consent to the mediation; and
+    (ii) the date on which the mediator reports the outcome of the mediation to the territorial authority.
 
 **Streamlining decision-making on designations and heritage orders**
 
@@ -5886,7 +6028,7 @@ Section 182 shall apply, with all necessary modifications, in respect of the rem
   (a) receives a report under section 198D(5); and
   (b) continues to want the requirement to be the subject of a decision by the Environment Court instead of a recommendation by the territorial authority and a decision by the requiring authority or heritage protection authority.
 (2) The requirement is referred to the Environment Court by the requiring authority or heritage protection authority,—
-  (a) within 10 working days after receiving the report, lodging with the Environment Court a notice of motion in the prescribed form applying for confirmation of the requirement and specifying the grounds upon which the application for confirmation is made, and a supporting affidavit as to the matters giving rise to that application; and
+  (a) within 15 working days after receiving the report, lodging with the Environment Court a notice of motion in the prescribed form applying for confirmation of the requirement and specifying the grounds upon which the application for confirmation is made, and a supporting affidavit as to the matters giving rise to that application; and
   (b) as soon as is reasonably practicable after lodging the notice of motion, serving a copy of the notice of motion and affidavit on—
     (i) the territorial authority that granted the requiring authority's or heritage protection authority's request under section 198B; and
     (ii) every person who made a submission to the territorial authority on the requirement; and
@@ -5919,9 +6061,9 @@ The territorial authority that would have dealt with the requirement had the Env
 ((1)) This section applies when—
   (a) a requiring authority or heritage protection authority receives a report under section 198D(5); and
   (b) either—
-    (i) the requiring authority or heritage protection authority advises the territorial authority that the requiring authority does not intend to lodge a notice of motion with the Environment Court under section 198E(2); or
-    (ii) the requiring authority or heritage protection authority does not lodge a notice of motion with the Environment Court under section 198E(2); and
-  (c) the requiring authority or heritage protection authority continues to want the requirement dealt with.
+    (i) the requiring authority or heritage protection authority advises the territorial authority that it does not intend to lodge a notice of motion with the Environment Court under section 198E(2); or
+    (ii) the requiring authority or heritage protection authority does not lodge a notice of motion with the Environment Court under section 198E(2).
+  (c)
 (2) The territorial authority must deal with the requirement.
 
 ### 198H Sections 198I to 198M apply to requirements under section 168A or 189A
@@ -5959,7 +6101,7 @@ The territorial authority that would have dealt with the requirement had the Env
 
 ### 198K Environment Court decides
 (1) If the territorial authority continues to want the requirement to be determined by the Environment Court, the requirement is referred to the court by the territorial authority,—
-  (a) within 10 working days after preparing the report, lodging with the Environment Court a notice of motion in the prescribed form applying for confirmation of the requirement and specifying the grounds upon which the application for confirmation is made, and a supporting affidavit as to the matters giving rise to that application; and
+  (a) within 15 working days after preparing the report, lodging with the Environment Court a notice of motion in the prescribed form applying for confirmation of the requirement and specifying the grounds upon which the application for confirmation is made, and a supporting affidavit as to the matters giving rise to that application; and
   (b) as soon as is reasonably practicable after lodging the notice of motion, serving a copy of the notice of motion and affidavit on every person who made a submission to the territorial authority on the requirement; and
   (c) telling the Registrar of the Environment Court by written notice when the copies have been served.
 (2) The territorial authority must, without delay, provide the Environment Court with—
@@ -5989,8 +6131,8 @@ The territorial authority that would have dealt with the requirement had the Env
 ### 198M When territorial authority must deal with requirement
 (1) This section applies when—
   (a) a territorial authority prepares a report under section 198J; and
-  (b) the territorial authority does not lodge a notice of motion with the Environment Court under section 198K(1); and
-  (c) the territorial authority continues to want the requirement dealt with.
+  (b) the territorial authority does not lodge a notice of motion with the Environment Court under section 198K(1).
+  (c)
 (2) The territorial authority must deal with the requirement.
 
 ## Part 9 — Water conservation orders
@@ -6082,10 +6224,13 @@ In this Act, the term water conservation order means an order made under section
 ### 206 Conduct of hearing
 (1) The Minister shall, without delay, provide a special tribunal with the application in respect of which it has been appointed and any other relevant information received or held by the Minister.
 (2)
-(3) Sections 39 to 42 and 99 to 100 and 101 shall, with all necessary modifications, apply in respect of an application to a special tribunal as if—
+(3) Sections 39, 40 to 42, 99 to 100, and 101 shall, with all necessary modifications, apply in respect of an application to a special tribunal as if—
   (a) every reference in those sections to a consent authority were a reference to the special tribunal; and
   (b) every reference in those sections to a resource consent were a reference to a water conservation order.
-(4) Without limiting sections 39 to 42, and 99, 100, and 101(1), (2), and (3), every inquiry shall be held in public at a place determined by the special tribunal as being near to the water body to which the application relates.
+(3A) However, section 101(2) does not apply to the application, and the date for the commencement of the hearing is as follows:
+  (a) if the special tribunal gives a direction under section 41B, the date must be within 40 working days after the closing date for submissions on the application:
+  (b) if the special tribunal does not give a direction under section 41B, the date must be within 25 working days after the closing date for submissions on the application.
+(4) In addition, any hearing must be held at a place determined by the special tribunal that is near the water body to which the application relates.
 
 ### 207 Matters to be considered
 In considering an application for a water conservation order, a special tribunal shall have particular regard to the purpose of a water conservation order and the other matters set out in section 199 and shall also have regard to—
@@ -7889,6 +8034,7 @@ Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices u
 (1) A person whose application to a territorial authority is not granted under section 10(2) has a right of objection to the territorial authority.
 (2) A person whose submission to an authority is struck out under section 41C(7) has a right of objection to the authority.
 (3) A person whose application to a consent authority is determined to be incomplete under section 88(3) has a right of objection to the consent authority.
+(3A) A person has a right of objection to a consent authority that decides to return the person's application under section 91C(2).
 (4) A person whose application or submission is declined to be processed or considered by a board of inquiry exercising the powers of a consent authority under section 99(8) has a right of objection to the board.
 (5) A person who requests a certificate of compliance from the EPA under section 139(13)(a) has a right of objection to the EPA about the EPA's decision on the request.
 (6) A requiring authority whose notice to a territorial authority is declined under section 182(5) has a right of objection to the territorial authority.
@@ -7942,7 +8088,7 @@ There is a right of objection,—
 (3) In the case of an objection made under section 357A(1)(e), if the consent authority upholds the objection in whole or in part, that decision replaces the part of the earlier decision to which the objection relates.
 
 ### 358 Appeals against certain decisions or objections
-(1) Any person who has made an objection under section 357 or section 357A(1)(a), (d), (f), or (g) or section 357B may appeal to the Environment Court against the decision on the objection. Appeals from objections under section 357(4) or (8) or, for objections only to a board of inquiry, under section 357(2) are excluded.
+(1) Any person who has made an objection under section 357 or section 357A(1)(a), (d), (f), or (g) or section 357B may appeal to the Environment Court against the decision on the objection. Appeals from objections under section 357(3A), (4), or (8) or, for objections only to a board of inquiry, under section 357(2) are excluded.
 (2) Notice of an appeal under this section shall be in the prescribed form, stating the reasons for the appeal, and shall be lodged with the court within 15 working days after the decision on the objection being notified to that person under section 357D(2) or within such further time as the Environment Court may in any case allow.
 (3) Any person lodging an appeal under this section shall ensure that a copy of the notice of appeal is served on the consent authority or local authority at the same time as the notice is lodged with the Environment Court.
 (4) This section shall not apply to any person who has already exercised a right of appeal in respect of the same matter under section 120.
@@ -9325,7 +9471,7 @@ A local authority may amend, without using the process in this schedule, an oper
 
 ### 22 Form of request
 (1) A request made under clause 21 shall be made to the appropriate local authority in writing and shall explain the purpose of, and reasons for, the proposed plan or change to a policy statement or plan and contain an evaluation report prepared in accordance with section 32 for the proposed plan or change.
-(2) Where environmental effects are anticipated, the request shall describe those effects, taking into account the provisions of Schedule 4, in such detail as corresponds with the scale and significance of the actual or potential environmental effects anticipated from the implementation of the change, policy statement, or plan.
+(2) Where environmental effects are anticipated, the request shall describe those effects, taking into account clauses 6 and 7 of Schedule 4, in such detail as corresponds with the scale and significance of the actual or potential environmental effects anticipated from the implementation of the change, policy statement, or plan.
 
 ### 23 Further information may be required
 (1) Where a local authority receives a request from any person under clause 21, it may within 20 working days, by written notice, require that person to provide further information necessary to enable the local authority to better understand—if such information is appropriate to the scale and significance of the actual or potential environmental effects anticipated from the implementation of the change or plan.
@@ -9577,38 +9723,85 @@ The quality of the water shall not be altered in those characteristics which hav
 ### 11 Class C Water (being water managed for cultural purposes)
 The quality of the water shall not be altered in those characteristics which have a direct bearing upon the specified cultural or spiritual values.
 
-## Schedule 4 — Assessment of effects on the environment
+## Schedule 4 — Information required in application for resource consent
 
-### 1 Matters that should be included in an assessment of effects on the environment
-Subject to the provisions of any policy statement or plan, an assessment of effects on the environment for the purposes of section 88 should include—
-  (a) a description of the proposal:
-  (b) where it is likely that an activity will result in any significant adverse effect on the environment, a description of any possible alternative locations or methods for undertaking the activity:
-  (c)
-  (d) an assessment of the actual or potential effect on the environment of the proposed activity:
-  (e) where the activity includes the use of hazardous substances and installations, an assessment of any risks to the environment which are likely to arise from such use:
-  (f) where the activity includes the discharge of any contaminant, a description of—
-    (i) the nature of the discharge and the sensitivity of the proposed receiving environment to adverse effects; and
-    (ii) any possible alternative methods of discharge, including discharge into any other receiving environment:
-  (g) a description of the mitigation measures (safeguards and contingency plans where relevant) to be undertaken to help prevent or reduce the actual or potential effect:
-  (h) identification of the persons affected by the proposal, the consultation undertaken, if any, and any response to the views of any person consulted:
-  (i) where the scale or significance of the activity's effect are such that monitoring is required, a description of how, once the proposal is approved, effects will be monitored and by whom.
+### 1 Information must be specified in sufficient detail
+Any information required by this schedule, including an assessment under clause 2(1)(f) or (g), must be specified in sufficient detail to satisfy the purpose for which it is required.
 
 ### 1AA
-To avoid doubt, clause 1(h) obliges an applicant to report as to the persons identified as being affected by the proposal, but does not—
-  (a) oblige the applicant to consult with any person; or
-  (b) create any ground for expecting that the applicant will consult with any person.
+[Repealed]
 
 ### 1A Matters to be included in assessment of effects on environment
-An assessment of effects on the environment for the purposes of section 88 must include, in a case where the activity for which a resource consent is sought will, or is likely to, have adverse effects that are more than minor on the exercise of a protected customary right, a description of possible alternative locations or methods for the exercise of the proposed activity (unless written approval for the proposed activity is given by the protected customary rights group).
+[Repealed]
 
-### 2 Matters that should be considered when preparing an assessment of effects on the environment
-Subject to the provisions of any policy statement or plan, any person preparing an assessment of the effects on the environment should consider the following matters:
-  (a) any effect on those in the neighbourhood and, where relevant, the wider community including any socio-economic and cultural effects:
+### 2 Information required in all applications
+(1) An application for a resource consent for an activity (the activity) must include the following:
+  (a) a description of the activity:
+  (b) a description of the site at which the activity is to occur:
+  (c) the full name and address of each owner or occupier of the site:
+  (d) a description of any other activities that are part of the proposal to which the application relates:
+  (e) a description of any other resource consents required for the proposal to which the application relates:
+  (f) an assessment of the activity against the matters set out in Part 2:
+  (g) an assessment of the activity against any relevant provisions of a document referred to in section 104(1)(b).
+(2) The assessment under subclause (1)(g) must include an assessment of the activity against—
+  (a) any relevant objectives, policies, or rules in a document; and
+  (b) any relevant requirements, conditions, or permissions in any rules in a document; and
+  (c) any other relevant requirements in a document (for example, in a national environmental standard or other regulations).
+(3) An application must also include an assessment of the activity's effects on the environment that—
+  (a) includes the information required by clause 6; and
+  (b) addresses the matters specified in clause 7; and
+  (c) includes such detail as corresponds with the scale and significance of the effects that the activity may have on the environment.
+
+### 3 Additional information required in some applications
+An application must also include any of the following that apply:
+  (a) if any permitted activity is part of the proposal to which the application relates, a description of the permitted activity that demonstrates that it complies with the requirements, conditions, and permissions for the permitted activity (so that a resource consent is not required for that activity under section 87A(1)):
+  (b) if the application is affected by section 124 or 165ZH(1)(c) (which relate to existing resource consents), an assessment of the value of the investment of the existing consent holder (for the purposes of section 104(2A)):
+  (c) if the activity is to occur in an area within the scope of a planning document prepared by a customary marine title group under section 85 of the Marine and Coastal Area (Takutai Moana) Act 2011, an assessment of the activity against any resource management matters set out in that planning document (for the purposes of section 104(2B)).
+
+### 4 Additional information required in application for subdivision consent
+An application for a subdivision consent must also include information that adequately defines the following:
+  (a) the position of all new boundaries:
+  (b) the areas of all new allotments, unless the subdivision involves a cross lease, company lease, or unit plan:
+  (c) the locations and areas of new reserves to be created, including any esplanade reserves and esplanade strips:
+  (d) the locations and areas of any existing esplanade reserves, esplanade strips, and access strips:
+  (e) the locations and areas of any part of the bed of a river or lake to be vested in a territorial authority under section 237A:
+  (f) the locations and areas of any land within the coastal marine area (which is to become part of the common marine and coastal area under section 237A):
+  (g) the locations and areas of land to be set aside as new roads.
+
+### 5 Additional information required in application for reclamation
+An application for a resource consent for reclamation must also include information to show the area to be reclaimed, including the following:
+  (a) the location of the area:
+  (b) if practicable, the position of all new boundaries:
+  (c) any part of the area to be set aside as an esplanade reserve or esplanade strip.
+
+**Assessment of environmental effects**
+
+### 6 Information required in assessment of environmental effects
+(1) An assessment of the activity's effects on the environment must include the following information:
+  (a) if it is likely that the activity will result in any significant adverse effect on the environment, a description of any possible alternative locations or methods for undertaking the activity:
+  (b) an assessment of the actual or potential effect on the environment of the activity:
+  (c) if the activity includes the use of hazardous substances and installations, an assessment of any risks to the environment that are likely to arise from such use:
+  (d) if the activity includes the discharge of any contaminant, a description of—
+    (i) the nature of the discharge and the sensitivity of the receiving environment to adverse effects; and
+    (ii) any possible alternative methods of discharge, including discharge into any other receiving environment:
+  (e) a description of the mitigation measures (including safeguards and contingency plans where relevant) to be undertaken to help prevent or reduce the actual or potential effect:
+  (f) identification of the persons affected by the activity, any consultation undertaken, and any response to the views of any person consulted:
+  (g) if the scale and significance of the activity's effects are such that monitoring is required, a description of how and by whom the effects will be monitored if the activity is approved:
+  (h) if the activity will, or is likely to, have adverse effects that are more than minor on the exercise of a protected customary right, a description of possible alternative locations or methods for the exercise of the activity (unless written approval for the activity is given by the protected customary rights group).
+(2) A requirement to include information in the assessment of environmental effects is subject to the provisions of any policy statement or plan.
+(3) To avoid doubt, subclause (1)(f) obliges an applicant to report as to the persons identified as being affected by the proposal, but does not—
+  (a) oblige the applicant to consult any person; or
+  (b) create any ground for expecting that the applicant will consult any person.
+
+### 7 Matters that must be addressed by assessment of environmental effects
+(1) An assessment of the activity's effects on the environment must address the following matters:
+  (a) any effect on those in the neighbourhood and, where relevant, the wider community, including any social, economic, or cultural effects:
   (b) any physical effect on the locality, including any landscape and visual effects:
   (c) any effect on ecosystems, including effects on plants or animals and any physical disturbance of habitats in the vicinity:
-  (d) any effect on natural and physical resources having aesthetic, recreational, scientific, historical, spiritual, or cultural, or other special value for present or future generations:
-  (e) any discharge of contaminants into the environment, including any unreasonable emission of noise and options for the treatment and disposal of contaminants:
+  (d) any effect on natural and physical resources having aesthetic, recreational, scientific, historical, spiritual, or cultural value, or other special value, for present or future generations:
+  (e) any discharge of contaminants into the environment, including any unreasonable emission of noise, and options for the treatment and disposal of contaminants:
   (f) any risk to the neighbourhood, the wider community, or the environment through natural hazards or the use of hazardous substances or hazardous installations.
+(2) The requirement to address a matter in the assessment of environmental effects is subject to the provisions of any policy statement or plan.
 
 ## Schedule 5 — Provisions applying in respect of the Hazards Control Commission
 
