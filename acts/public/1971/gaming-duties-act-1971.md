@@ -1,5 +1,5 @@
 # Gaming Duties Act 1971
-_Consolidation as at 2010-12-21_
+_Consolidation as at 2015-03-03_
 
 > An Act to consolidate and amend the law relating to totalisator duty and lottery duty
 
@@ -80,19 +80,19 @@ In relation to an instant game that is a New Zealand lottery, this Part shall be
 
 ### 12B Interpretation
 In this Part, unless the context otherwise requires,—
+  - **corporate society** has the same meaning as in section 4(1) of the Gambling Act 2003
   - **dutiable game** —
     (a) means gambling by means of a gaming machine under the Gambling Act 2003; but
     (b) does not include casino gambling as defined in section 34 of that Act
   - **gaming machine** has the same meaning as in section 4(1) of the Gambling Act 2003
   - **gaming machine operator** means—and, in relation to any return period and to the obligations and liabilities under sections 12D to 12F and section 12K of any person who was at any time during that period a gaming machine operator, includes any such person notwithstanding that the person may have ceased during or after that return period to be a gaming machine operator within the meaning of paragraph (a) or paragraph (b)
-    (a) a society licensed under the Gambling Act 2003 to conduct a dutiable game; and
+    (a) a corporate society licensed under the Gambling Act 2003 to conduct a dutiable game; and
     (b) any person who conducts, otherwise than pursuant to a licence issued under that Act, any dutiable game;—
   - **gaming machine profits** , in relation to any gaming machine operator and any return period, means an amount (not being less than zero) calculated in accordance with the following formula:a − bwhere—ais the total amount of all machine income of the gaming machine operator in respect of all dutiable games conducted by the gaming machine operator that are played during the return period; andbis the total amount of all prizes paid during the return period in respect of those dutiable games
   - **machine income** , in relation to a gaming machine operator, means the amount in money or money's worth, whether in the form of cash or tokens or credits won and played, or by payment of money or money's worth by any other means, paid or payable to play any dutiable game conducted by the gaming machine operator
   - **play** , in relation to any dutiable game, includes participate in or commence that game; and has a corresponding meaning
   - **prizes paid** means any amount in money or money's worth, whether in the form of cash or tokens or credits won, or by payment of money or money's worth by any other means, paid or returned as winnings by any gaming machine to persons playing dutiable games
-  - **return period** means any period of 1 calendar month in respect of which a statement of gaming machine profits and gaming duty payable is required to be delivered under section 12D(1); and includes any period in respect of which a statement is required to be delivered under section 12D(2)
-  - **society** has the same meaning as in section 4(1) of the Gambling Act 2003.
+  - **return period** means any period of 1 calendar month in respect of which a statement of gaming machine profits and gaming duty payable is required to be delivered under section 12D(1); and includes any period in respect of which a statement is required to be delivered under section 12D(2).
 
 ### 12C Gaming machine duty
 There shall be paid to the Crown a duty (in this Act referred to as gaming machine duty) at the rate of 20% of the gaming machine profits in respect of dutiable games played on or after 1 March 1992.
@@ -195,7 +195,7 @@ In this Part, unless the context otherwise requires,—
     (b) all amounts in money, or money's worth other than chips, paid or payable to the casino during the return period to play, or so paid or payable in the course of playing, any casino gambling conducted or played in the casino
   - **gaming wins** , in relation to a casino and to any return period, means the aggregate of—
     (a) all amounts paid by the casino in the return period to redeem chips; and
-    (b) all amounts in money, or in money's worth other than chips, paid or returned by the casino during the return period as winnings in respect of authorised games conducted or played in the casino
+    (b) all amounts in money, or in money's worth other than chips, paid or returned by the casino during the return period as winnings in respect of casino gambling conducted or played in the casino
   - **play** , in relation to casino gambling, includes participate in or commence that gambling
   - **return period** , in relation to any casino, means any period of 1 calendar month in respect of which a statement of casino win and casino duty payable is required to be delivered under section 12O(1), and includes any period in respect of which a statement is required to be delivered under section 12O(2).
 
