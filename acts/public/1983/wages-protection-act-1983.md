@@ -1,5 +1,5 @@
 # Wages Protection Act 1983
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2015-03-06_
 
 > An Act to consolidate and amend the law relating to the payment of wages and salaries
 
@@ -35,7 +35,7 @@ Subject to sections 5(1) and 6(2), an employer shall, when any wages become paya
 (1) In this section,—
   - **next pay day** , in relation to any overpayment, means the day next following the day on which that overpayment was made upon which the worker to whom it was made would, in the normal course of events, be paid
   - **overpayment** means any wages paid to a worker in respect of a recoverable period
-  - **recoverable period** , in respect of any employer and any worker, means a period in respect of which that employer is not required by law to pay any wages to that worker, by virtue of that worker's having—
+  - **recoverable period** , in respect of any employer and any worker, means a period in respect of which that employer is not required by law to pay any wages or (if the employer is entitled to make a specified pay deduction under section 95B of the Employment Relations Act 2000) any part of any wages to that worker, by virtue of that worker's having—
     (a) been absent from work without that employer's authority; or
     (b) been on strike (within the meaning of section 81 of the Employment Relations Act 2000); or
     (c) been locked out (within the meaning of that subsection); or
@@ -44,7 +44,11 @@ Subject to sections 5(1) and 6(2), an employer shall, when any wages become paya
 (3) No employer shall recover an overpayment under subsection (2) unless—
   (a) by virtue of the methods or equipment normally used by that employer in arranging the payment of, or paying, wages to the worker concerned, it was not reasonably practicable for that employer to avoid making that overpayment; and
   (b) before recovering that overpayment, that employer gives that worker notice of that employer's intention to recover it; and
-  (c) that notice is given—
+  (ba) in the case of a notice that relates to a specified pay deduction, that notice—
+    (i) is given not later than 5 working days after the pay day on which the overpayment was made; and
+    (ii) relates to an individual worker; and
+    (iii) specifies the amount of the overpayment made to that worker; and
+  (c) in the case of any other overpayment, that notice is given—
     (i) not later than 10 days after the next pay day, in the case of a worker who has no fixed workplace:
     (ii) not later than the first day upon which that worker attends that worker's workplace after the next pay day during normal working hours, in the case of a worker with one fixed workplace who did not attend that workplace during normal working hours on the next pay day:
     (iii) not later than the first day upon which that worker attends one of that worker's workplaces after the next pay day during normal working hours, in the case of a worker with 2 or more fixed workplaces who did not attend any of them during normal working hours on the next pay day:
@@ -53,6 +57,7 @@ Subject to sections 5(1) and 6(2), an employer shall, when any wages become paya
 (4) The validity of a notice purportedly given under subsection (3)(b) shall not be affected by the fact that—
   (a) it does not specify the amount of the overpayment concerned but specifies only the day on which that overpayment was made and the actions that led to its being an overpayment:
   (b) it is one of a number of identical notices given to a group of workers to only some of whom an overpayment has been made, and provides that it applies to the worker to whom it has been given only if an overpayment has been made to that worker.
+(5) To avoid doubt, subsection (4) does not apply to a notice referred to in subsection (3)(ba).
 
 ### 7 Wages to be payable in money
 Subject to sections 8 to 10, an employer shall pay the wages of every worker in money only.
