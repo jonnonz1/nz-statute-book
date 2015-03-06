@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2015-03-06_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -20,7 +20,9 @@ In this Act, unless the context otherwise requires,—
   - **Complaints, Investigation, and Prosecution Unit** means the unit established under section 100
   - **confidential document destruction agent** has the meaning given to it in section 8
   - **confidential document destruction agent employee** has the meaning given to it in section 16
+  - **consumer goods** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003
   - **credit bureau** means a person, or an association of persons whether incorporated or unincorporated, who, in consideration of the payment of a subscription, fee, or levy, supplies to a subscriber to the service provided by that person or association, or to a member of that association, but to no other person, information relating to the financial position of a person
+  - **creditor** has the same meaning as in section 5 of the Credit Contracts and Consumer Finance Act 2003, and includes a creditor referred to in section 83B(2)(b) of that Act
   - **crowd controller** has the meaning given to it in section 11
   - **crowd controller employee** has the meaning given to it in section 19
   - **Crown** has the meaning given to it in section 2(1) of the Public Finance Act 1989
@@ -51,6 +53,8 @@ In this Act, unless the context otherwise requires,—
       (i) inspect; or
       (ii) obtain a copy of or an extract from; or
     (b) a newspaper within the meaning of section 2 of the Films, Videos, and Publications Classification Act 1993
+  - **repossession agent** has the meaning given to it in section 8A
+  - **repossession employee** has the meaning given to it in section 16A
   - **responsible department** means the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **responsible employee** means any or all of the classes of employee defined in sections 13 to 19
   - **responsible Minister** means the Minister of the Crown who is responsible for the department that is authorised by the Prime Minister to provide administrative support to the Licensing Authority
@@ -78,7 +82,7 @@ In this Act, unless the context otherwise requires,—
     (v) for any cultural or historical purpose or for any purpose relating to education, literature, or science; or
     (vi) relating only to the person by whom he or she is engaged or retained; or
     (vii) in the course of and for the purposes of the business of a bank, or of a credit bureau, or of a debt collecting agency; or
-  (b) he or she is a security technician, security consultant, confidential document destruction agent, property guard, personal guard, or crowd controller.
+  (b) he or she is a security technician, security consultant, confidential document destruction agent, repossession agent, property guard, personal guard, or crowd controller.
 
 ### 6 Meaning of security technician
 (1) In this Act, security technician means a person who for valuable consideration, either by himself or herself or in partnership with any other person, carries on a business—
@@ -98,6 +102,9 @@ In this Act, security consultant means a person who for valuable consideration, 
 In this Act, confidential document destruction agent means a person who for valuable consideration, either by himself or herself or in partnership with any other person, carries on a business—
   (a) collecting, for destruction, documents identified as being of a confidential nature; and
   (b) destroying those documents.
+
+### 8A Meaning of repossession agent
+In this Act, repossession agent means a person who for valuable consideration, either by himself or herself or in partnership with any other person, carries on a business of repossessing consumer goods on behalf of a creditor.
 
 ### 9 Meaning of property guard
 (1) In this Act, property guard means a person who for valuable consideration, either by himself or herself or in partnership with any other person, carries on a business—
@@ -152,6 +159,11 @@ In this Act, confidential document destruction agent employee means an individua
   (a) collects, for destruction, documents identified as being of a confidential nature; and
   (b) destroys those documents.
 
+### 16A Meaning of repossession employee
+In this Act, repossession employee—
+  (a) means an individual who in the course of his or her employment, or engagement as a contractor, by a repossession agent or a creditor repossesses, or holds himself or herself out as being authorised to repossess, consumer goods; and
+  (b) includes a creditor who carries out a repossession himself or herself, regardless of whether the creditor is, in fact, an employee.
+
 ### 17 Meaning of property guard employee
 In this Act, property guard employee means an individual who in the course of his or her employment, or engagement as a contractor, by a property guard—
   (a) guards, elsewhere than on premises owned or occupied by the property guard, the property guard's firm, or any of the property guard's partners, any real or personal property belonging to another person; or
@@ -174,10 +186,10 @@ In this Act, personal guard employee means an individual who in the course of hi
   (a) he or she is not employed or engaged primarily to do work of a kind specified in subsection (1)(a), (b), or (c), but performs that work incidentally to the principal work he or she performs; or
   (b) he or she does the work specified in section 18(b) and no other work of a kind specified in subsection (1)(a), (b), or (c).
 
-### 20 Governor-General may by Order in Council exclude persons from definition of property guard employee, personal guard employee, and crowd controller employee
-(1) The Governor-General may, by Order in Council, made on the recommendation of the Minister, declare that certain persons or classes of persons are not any one of the classes of responsible employee described in sections 17, 18, and 19—
+### 20 Governor-General may by Order in Council exclude persons from definition of repossession employee, property guard employee, personal guard employee, and crowd controller employee
+(1) The Governor-General may, by Order in Council, made on the recommendation of the Minister, declare that certain persons or classes of persons are not any one of the classes of responsible employee described in sections 16A, 17, 18, and 19—
   (a) by reason only of the fact that they do anything described in the order; or
-  (b) if they do anything described in section 17, 18, or 19, as the case may be, only in the circumstances described in the order; or
+  (b) if they do anything described in section 16A, 17, 18, or 19, as the case may be, only in the circumstances described in the order; or
   (c) for the purpose of their work at a specified event or type of event provided that conditions specified in the order are complied with.
 (2) The Minister must not make a recommendation under subsection (1) unless the Minister—
   (a) has consulted the persons or organisations that, in the opinion of the Minister, have an interest in the proposed declaration and is satisfied that there is no material benefit to be gained by requiring the persons concerned to hold certificates of approval; or
@@ -207,6 +219,7 @@ Nothing in this Act—
   (b) a security technician:
   (c) a security consultant:
   (d) a confidential document destruction agent:
+  (da) a repossession agent:
   (e) a property guard:
   (f) a personal guard:
   (g) a crowd controller.
@@ -411,6 +424,7 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
   (b) a security technician employee:
   (c) a security consultant employee:
   (d) a confidential document destruction agent employee:
+  (da) a repossession employee:
   (e) a property guard employee:
   (f) a personal guard employee:
   (g) a crowd controller employee.
@@ -421,6 +435,7 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
 
 ### 45 Offences by licensees, etc, relating to requirements to hold certificate of approval
 (1) No person who holds a licence may employ, engage as a contractor, or permit to act as a responsible employee any individual who does not hold an appropriate certificate of approval.
+(1A) No person, not being the holder of a licence, may employ, engage as a contractor, or permit to act as a repossession employee any individual who does not hold a certificate of approval as a repossession employee.
 (2) No person, not being the holder of a licence, may employ, engage as a contractor, or permit to act as a crowd controller employee any individual who does not hold a certificate of approval as a crowd controller employee.
 (3) A person who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $20,000.
 (4) It is a defence in any prosecution for an offence against this section if the defendant proves that he or she took all reasonable steps to ascertain whether the person who was employed, engaged, or permitted to act held a certificate of approval.
@@ -488,7 +503,7 @@ If an application relates to more than 1 class of responsible employee, the Lice
 
 ### 53 Decision on application for certificate of approval
 (1) The Licensing Authority may grant an application only if—
-  (a) in the case of an applicant applying for a certificate as a responsible employee of a class in section 13, 14, 17, 18, or 19, the applicant is of or over the age of 18 years; and
+  (a) in the case of an applicant applying for a certificate as a responsible employee of a class in section 13, 14, 16A, 17, 18, or 19, the applicant is of or over the age of 18 years; and
   (b) the requirements of section 46 are satisfied.
 (2) Subsection (3) applies if the Licensing Authority is satisfied that no grounds of disqualification under section 62 apply to the applicant.
 (3) The Licensing Authority must grant the application in respect of a particular class of responsible employee to which it relates unless the Licensing Authority is satisfied, based on any other evidence provided to the Authority relating to the character, circumstances, or background of the applicant, that the person is not suitable to be a responsible employee of that class.
@@ -509,9 +524,10 @@ If an application relates to more than 1 class of responsible employee, the Lice
 (2) A certificate of approval must contain a photograph of the certificate holder.
 
 ### 55 Effect of certificate of approval
-Subject to this Act and to any conditions imposed by the Authority, a certificate of approval authorises the holder to work during the currency of the certificate—
+(1) Subject to this Act and to any conditions imposed by the Authority, a certificate of approval authorises the holder to work during the currency of the certificate—
   (a) as a responsible employee of any licensee carrying on the business to which the certificate of approval relates; or
-  (b) in the case of a crowd controller, as a responsible employee of any person.
+  (b) in the case of a crowd controller employee or a repossession employee, as a responsible employee of any person.
+(2) Subject to this Act, to the Credit Contracts and Consumer Finance Act 2003, and to any conditions imposed by the Authority, a certificate of approval that is held by a creditor referred to in section 16A(b) authorises the creditor to carry out a repossession of consumer goods himself or herself.
 
 ### 56 Duration of certificate of approval
 (1) Unless cancelled earlier, a certificate of approval expires 5 years from its date of issue.
@@ -539,7 +555,7 @@ The Licensing Authority must, after issuing a certificate of approval, notify th
 ### 60 Temporary certificates of approval
 (1) A person who has applied for a certificate of approval under section 46 may also apply in writing for a temporary certificate of approval.
 (2) The Licensing Authority may issue a temporary certificate of approval at any time after receiving a correct application for a certificate of approval under section 46 if,—
-  (a) in the case of an applicant applying for a certificate as a responsible employee of a class in section 13, 14, 17, 18, or 19, the applicant is of or over the age of 18 years; and
+  (a) in the case of an applicant applying for a certificate as a responsible employee of a class in section 13, 14, 16A, 17, 18, or 19, the applicant is of or over the age of 18 years; and
   (b) the prescribed fee (if any) is paid; and
   (c) except as provided for in subsection (3)(b), the application does not disclose any ground on which the applicant is disqualified under section 62; and
   (d) there is no reason to believe that the application contains statements that are incorrect; and
@@ -582,6 +598,7 @@ The grounds of disqualification for an individual applicant for a licence, or an
     (i) offence under the Arms Act 1983; or
     (ii) offence under any of sections 216H to 216J of the Crimes Act 1961; or
     (iii) offence under section 10, 11, 12A, 13, 16, 19, 21, 24, 47F, or 47J of the Fair Trading Act 1986; or
+    (iiia) offence under section 103(1) of the Credit Contracts and Consumer Finance Act 2003 that involves a breach of any provision of Part 3A of that Act; or
     (iv) offence under section 8 or 25 of the Harassment Act 1997; or
     (v) offence against section 6 of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug, a Class B controlled drug, or a Class C controlled drug, in relation to which the amount, level, or quantity at and over which the drug is presumed to be for supply is specified in Schedule 5 of that Act; or
     (vi) offence of dishonesty; or
@@ -598,6 +615,7 @@ The grounds of disqualification for an individual applicant for a licence, or an
 (1) The grounds of disqualification for a company applicant for a licence are that—
   (a) the company has, within the preceding 7 years, been convicted of any—
     (i) offence under section 10, 11, 12, 12A, 16, 19, 21, 24, 47F, or 47J of the Fair Trading Act 1986; or
+    (ia) offence under section 103(1) of the Credit Contracts and Consumer Finance Act 2003 that involves a breach of any provision of Part 3A of that Act; or
     (ii) offence of dishonesty; or
     (iii) offence against section 6 of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug, a Class B controlled drug, or a Class C controlled drug, in relation to which the amount, level, or quantity at and over which the drug is presumed to be for supply is specified in Schedule 5 of that Act; or
     (iv) offence under this Act of operating while unlicensed or employing or engaging a person without a certificate of approval, or an offence under section 16, 34, or 52 of the Private Investigators and Security Guards Act 1974; or
@@ -655,16 +673,16 @@ The grounds of disqualification for an individual applicant for a licence, or an
 (3) An identification badge must not include the name or address of the licensee or certificate holder.
 
 ### 69 Licensee and certificate holder to keep records
-A licensee or certificate holder or person who employs or engages any crowd controller employee commits an offence and is liable on conviction to a fine not exceeding $2,000 who fails without reasonable excuse to comply with any requirement to keep records that is prescribed in regulations made under section 114.
+A licensee or certificate holder or person who employs or engages any repossession employee or crowd controller employee commits an offence and is liable on conviction to a fine not exceeding $2,000 who fails without reasonable excuse to comply with any requirement to keep records that is prescribed in regulations made under section 114.
 
 ### 70 Access by Police and Complaints, Investigation, and Prosecution Unit to records
-(1) A licensee or certificate holder or person who employs or engages any crowd controller employee must, when required to do so by a constable or a person authorised by the chief investigator of the Complaints, Investigation, and Prosecution Unit (authorised person),—
+(1) A licensee or certificate holder or person who employs or engages any repossession employee or crowd controller employee must, when required to do so by a constable or a person authorised by the chief investigator of the Complaints, Investigation, and Prosecution Unit (authorised person),—
   (a) show the constable or authorised person without delay any record or document that is required by regulations made under this Act to be kept by the licensee or certificate holder:
   (b) make a copy of all or specified parts of a record or document of a kind referred to in paragraph (a) and give it to the constable or authorised person, or if that is impracticable, give the constable or authorised person the record or document or specified part of it.
-(2) If a licensee or certificate holder or person who employs or engages any crowd controller employee gives a constable or authorised person a record or document, or a specified part of it, under subsection (1)(b), the constable or authorised person must—
+(2) If a licensee or certificate holder or person who employs or engages any repossession employee or crowd controller employee gives a constable or authorised person a record or document, or a specified part of it, under subsection (1)(b), the constable or authorised person must—
   (a) give a receipt for the record or document or specified part of it; and
   (b) return it within 2 hours.
-(3) A licensee or certificate holder or person who employs or engages any crowd controller employee commits an offence and is liable on conviction to a fine not exceeding $2,000 if the licensee or certificate holder or person fails without reasonable excuse to comply with subsection (1).
+(3) A licensee or certificate holder or person who employs or engages any repossession employee or crowd controller employee commits an offence and is liable on conviction to a fine not exceeding $2,000 if the licensee or certificate holder or person fails without reasonable excuse to comply with subsection (1).
 
 ### 71 Updating certificate information
 (1) A certificate holder must advise the Licensing Authority—
@@ -1062,8 +1080,8 @@ A person who commits an offence under this Act, or against any regulations made 
 
 ### 110 Misleading conduct
 (1) This section applies to the following classes of private security personnel:
-  (a) a property guard, personal guard, crowd controller:
-  (b) a property guard employee, personal guard employee, or crowd controller employee.
+  (a) a repossession agent, property guard, personal guard, crowd controller:
+  (b) a repossession employee, property guard employee, personal guard employee, or crowd controller employee.
 (2) No person who does not hold a licence or certificate of approval as a class of person to whom this section applies may, with the intention of misleading any other person to believe that he or she is the holder of a licence or certificate of approval,—
   (a) put on, or assume, any dress indicating that he or she is a person of that class; or
   (b) wear any insignia indicating that he or she is a person of that class.
@@ -1105,7 +1123,7 @@ If the Licensing Authority is satisfied that a holder of a licence or certificat
     (ii) requiring a person to have met a specified standard or other measure of competency, knowledge, and skills:
   (i) prescribe the organisation or organisations that may provide the courses of study or training referred to in paragraph (h)(i) and provide for the monitoring of those organisations by the Licensing Authority:
   (j) prescribing requirements and other matters relating to the making of emergency appointments under section 61:
-  (k) requiring records or other documents to be kept by any class or classes of licensees, certificate holders, or persons other than licensees who employ or engage crowd controller employees under the Act:
+  (k) requiring records or other documents to be kept by any class or classes of licensees, certificate holders, or persons other than licensees who employ or engage repossession employees or crowd controller employees under the Act:
   (l) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section or section 115, and prescribing the amount of any fine that may be imposed in respect of such offence, being an amount not exceeding $2,000 and, where the offence is a continuing one, a further amount not exceeding $20 for every day during which the offence has continued:
   (m) providing for any other matters contemplated by this Act, necessary for its full administration, or necessary for giving it full effect.
 (2) Regulations made under subsection (1)(h) may—
@@ -1189,6 +1207,16 @@ The following enactments are revoked:
 (3) A person who performs the work of a personal guard employee described in section 18 is not required to hold a certificate of approval under this Act in respect of that class of work until the specified date.
 (4) A person who performs the work of a crowd controller employee described in section 19 is not required to hold a certificate of approval under this Act in respect of that class of work until the specified date.
 (5) In this section, specified date means the date that is specified for the purpose of this section by the Governor-General by Order in Council.
+
+### 126A Transitional provisions relating to repossession agents and repossession employees
+(1) A person who is a repossession agent within the meaning of section 8A is not required to hold a licence under this Act in respect of that class of business until the specified date.
+(2) A person who performs the work of a repossession employee described in section 16A is not required to hold a certificate of approval under this Act in respect of that class of work until the specified date.
+(3) In this section, specified date means the date that is specified for the purpose of this section by the Governor-General by Order in Council.
+(4) In the case of an applicant for a licence as a repossession agent, section 62(j) must be applied as if the ground for disqualification is that the individual has not, within the preceding 5 years, had 12 months' relevant experience—
+  (a) of carrying on a business of repossessing consumer goods on behalf of a creditor (whether that business is carried on by himself or herself or in partnership with any other person); or
+  (b) of repossessing consumer goods in the course of his or her employment, or engagement as a contractor, by a person who carries on a business referred to in paragraph (a) or by a creditor.
+(5) Subsection (4) also applies for the purposes of section 63(1)(f) (as well as section 62(j)).
+(6) Subsections (4) and (5) do not apply to applications for licences made after the day that is 5 years after the date on which this section comes into force.
 
 ### 127 Applications in progress
 (1) This section applies to any application for a licence or certificate of approval made under the Private Investigators and Security Guards Act 1974 that, immediately before the commencement of this Act, was not yet determined.
