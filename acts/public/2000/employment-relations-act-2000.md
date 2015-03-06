@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2015-03-06_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -34,11 +34,16 @@ The object of this Act is—
   (c) without limiting paragraph (b), requires an employer who is proposing to make a decision that will, or is likely to, have an adverse effect on the continuation of employment of 1 or more of his or her employees to provide to the employees affected—
     (i) access to information, relevant to the continuation of the employees' employment, about the decision; and
     (ii) an opportunity to comment on the information to their employer before the decision is made.
-(1B) Subsection (1A)(c) does not require an employer to provide access to confidential information if there is good reason to maintain the confidentiality of the information.
-(1C) For the purpose of subsection (1B), good reason includes—
-  (a) complying with statutory requirements to maintain confidentiality:
-  (b) protecting the privacy of natural persons:
-  (c) protecting the commercial position of an employer from being unreasonably prejudiced.
+(1B) However, subsection (1A)(c) does not require an employer to provide access to confidential information—
+  (a) that is about an identifiable individual other than the affected employee if providing access to that information would involve the unwarranted disclosure of the affairs of that other individual:
+  (b) that is subject to a statutory requirement to maintain confidentiality:
+  (c) where it is necessary, for any other good reason, to maintain the confidentiality of the information (for example, to avoid unreasonable prejudice to the employer's commercial position).
+(1C) To avoid doubt,—
+  (a) subsection (1B) does not affect an employer's obligations under—
+    (i) the Official Information Act 1982 (despite section 52(3) of that Act); or
+    (ii) the Privacy Act 1993 (despite section 7(2) of that Act):
+  (b) an employer must not refuse to provide access to information under subsection (1A)(c) merely because the information is contained in a document that includes confidential information.
+(1D) For the purposes of subsections (1B) and (1C), confidential information means information that is provided in circumstances where there is a mutual understanding (whether express or implied) of secrecy.
 (2) The employment relationships are those between—
   (a) an employer and an employee employed by the employer:
   (b) a union and an employer:
@@ -136,13 +141,16 @@ In this Act, unless the context otherwise requires,—
   - **prescribed** means prescribed by regulations made under this Act
   - **Registrar of the court** means any employee of the department designated under section 198 to act as the Registrar of the court
   - **Registrar of Unions** means the employee of the department appointed under section 27 to be the Registrar of Unions
-  - **relevant Acts** —
-    (a) in sections 223A and 223B, means the Acts specified in section 223(1):
-    (b) in sections 223D to 223F, means the Acts specified in section 223(1), except Part 5 of this Act
+  - **relevant Acts** ,—
+    (a) in sections 223A and 223B, means the Acts specified in section 223(1), except section 69LA of this Act:
+    (b) in sections 223D to 223F, means the Acts specified in section 223(1), except Part 5 and section 69LA of this Act
   - **strike** has the meaning given to it by section 81
   - **union** means a union registered under Part 4
   - **wages and time record** means a wages and time record kept pursuant to section 130
   - **workplace** means a place where an employee works from time to time; and includes a place where an employee goes to do work.
+
+### 5A Provisions affecting application of amendments to this Act
+Schedule 1AA contains application, savings, and transitional provisions relating to amendments made to this Act after 1 January 2013 (see section 254).
 
 ### 6 Meaning of employee
 (1) In this Act, unless the context otherwise requires, employee—
@@ -410,7 +418,7 @@ Every person commits an offence and is liable on conviction by the court to a fi
 ### 31 Object of this Part
 The object of this Part is—
   (a) to provide the core requirements of the duty of good faith in relation to collective bargaining; and
-  (aa) to provide that the duty of good faith in section 4 requires parties bargaining for a collective agreement to conclude a collective agreement unless there is a genuine reason, based on reasonable grounds, not to; and
+  (aa)
   (b) to provide for 1 or more codes of good faith to assist the parties to understand what good faith means in collective bargaining; and
   (c) to recognise the view of parties to collective bargaining as to what constitutes good faith; and
   (d) to promote orderly collective bargaining; and
@@ -423,7 +431,7 @@ The object of this Part is—
   (a) the union and the employer must use their best endeavours to enter into an arrangement, as soon as possible after the initiation of bargaining, that sets out a process for conducting the bargaining in an effective and efficient manner; and
   (b) the union and the employer must meet each other, from time to time, for the purposes of the bargaining; and
   (c) the union and employer must consider and respond to proposals made by each other; and
-  (ca) even though the union and the employer have come to a standstill or reached a deadlock about a matter, they must continue to bargain (including doing the things specified in paragraphs (b) and (c)) about any other matters on which they have not reached agreement; and
+  (ca)
   (d) the union and the employer—
     (i) must recognise the role and authority of any person chosen by each to be its representative or advocate; and
     (ii) must not (whether directly or indirectly) bargain about matters relating to terms and conditions of employment with persons whom the representative or advocate are acting for, unless the union and employer agree otherwise; and
@@ -441,11 +449,13 @@ The object of this Part is—
 (5) This section does not limit the application of the duty of good faith in section 4 in relation to bargaining for a collective agreement.
 (6) To avoid doubt, this section does not prevent an employer from communicating with the employer's employees during collective bargaining (including, without limitation, the employer's proposals for the collective agreement) as long as the communication is consistent with subsection (1)(d) of this section and the duty of good faith in section 4.
 
-### 33 Duty of good faith requires parties to conclude collective agreement unless genuine reason not to
-(1) The duty of good faith in section 4 requires a union and an employer bargaining for a collective agreement to conclude a collective agreement unless there is a genuine reason, based on reasonable grounds, not to.
-(2) For the purposes of subsection (1), genuine reason does not include—
-  (a) opposition or objection in principle to bargaining for, or being a party to, a collective agreement; or
-  (b) disagreement about including in a collective agreement a bargaining fee clause under Part 6B.
+### 33 Duty of good faith does not require collective agreement to be concluded
+(1) The duty of good faith in section 4 does not require a union and an employer bargaining for a collective agreement—
+  (a) to enter into a collective agreement; or
+  (b) to agree on any matter for inclusion in a collective agreement.
+(2) However, an employer does not comply with the duty of good faith in section 4 if—
+  (a) the employer refuses to enter into a collective agreement; and
+  (b) the employer does so because the employer is opposed, or objects in principle, to bargaining for or being a party to a collective agreement.
 
 ### 34 Providing information in bargaining for collective agreement
 (1) This section applies for the purposes of section 32(1)(e).
@@ -522,16 +532,10 @@ The Authority or court may, in determining whether or not a union and an employe
 ### 41 When bargaining may be initiated
 (1) If there is no applicable collective agreement in force between a union and an employer, the union or the employer may initiate bargaining with the other at any time.
 (2) Subsection (1) applies subject to section 40(2).
-(3) If there is an applicable collective agreement in force,—
-  (a) a union must not initiate bargaining earlier than 60 days before the date on which the collective agreement expires:
-  (b) an employer must not initiate bargaining earlier than 40 days before the date on which the collective agreement expires.
-(4) However, if there is more than 1 applicable collective agreement in force that binds 1 or more unions or 1 or more employers or both that are intended to be parties to the bargaining, then—
-  (a) a union must not initiate bargaining before the later of the following dates:
-    (i) the date that is 120 days before the date on which the last applicable collective agreement expires:
-    (ii) the date that is 60 days before the date on which the first applicable collective agreement expires:
-  (b) an employer must not initiate bargaining before the later of the following dates:
-    (i) the date that is 100 days before the date on which the last applicable collective agreement expires:
-    (ii) the date that is 40 days before the date on which the first applicable collective agreement expires.
+(3) If there is an applicable collective agreement in force, neither a union nor an employer may initiate bargaining earlier than 60 days before the date on which the collective agreement expires.
+(4) However, if there is more than 1 applicable collective agreement in force that binds 1 or more unions or 1 or more employers, or both, that are intended to be parties to the bargaining, then neither a union nor an employer may initiate bargaining before the later of the following dates:
+  (a) the date that is 120 days before the date on which the last applicable collective agreement expires; and
+  (b) the date that is 60 days before the date on which the first applicable collective agreement expires.
 (5) For the purposes of this section, an applicable collective agreement is in force between a union and an employer if the agreement binds employees whose work is intended to come within the coverage clause in the collective agreement being bargained for.
 
 ### 42 How bargaining initiated
@@ -542,13 +546,42 @@ The Authority or court may, in determining whether or not a union and an employe
   (c) it identifies the intended coverage of the collective agreement.
 
 ### 43 Employees' attention to be drawn to initiation of bargaining
-An employer that initiates bargaining or that receives a notice initiating bargaining for a collective agreement must, as soon as possible but not later than 10 days after initiating the bargaining or receiving the notice, draw the existence and coverage of the bargaining, and the intended parties to it, to the attention of all employees (whether or not members of a union concerned) whose work would be covered by the intended coverage clause if the collective agreement were entered into.
+(1) An employer that initiates bargaining or that receives a notice initiating bargaining for a collective agreement must draw the existence and coverage of the bargaining, and the intended parties to it, to the attention of all employees (whether or not members of a union concerned) whose work would be covered by the intended coverage clause if the collective agreement were entered into.
+(2) An employer must comply with subsection (1)—
+  (a) as soon as possible; but
+  (b) not later than—
+    (i) 10 days after initiating the bargaining or receiving the notice, if only 1 employer is identified as an intended party to the bargaining:
+    (ii) 15 days after initiating the bargaining or receiving the notice, if 2 or more employers are identified as intended parties to the bargaining.
 
 ### 44 When bargaining initiated
 (1) Bargaining for a collective agreement is initiated,—
   (a) if only 1 notice is required under section 42, on the day on which the notice is given:
   (b) if more than 1 notice is required under section 42, on the day on which the last notice is given.
 (2) Consolidated bargaining for a single collective agreement under section 50 is initiated on the day by which all the unions concerned agree to the request from the employer to consolidate bargaining initiated by the unions.
+
+### 44A Employer may opt out of bargaining for collective agreement, or for agreement to join collective agreement, involving 2 or more employers
+(1) This section applies to an employer that—
+  (a) is an intended party to bargaining—
+    (i) for a single collective agreement involving 2 or more employers; or
+    (ii) for an agreement for the employer to become a party to a concluded collective agreement involving 1 or more employers; and
+  (b) has received a notice initiating bargaining for the agreement.
+(2) The employer may, not later than 10 days after receiving the notice, opt out of bargaining for the agreement.
+
+### 44B How to opt out
+(1) An employer that wishes to opt out of bargaining under section 44A must, within the time limit specified in section 44A(2), give notice (an opt-out notice) to all other intended parties identified in the notice initiating bargaining.
+(2) An opt-out notice must—
+  (a) be in writing and be signed by the employer or its duly authorised representative; and
+  (b) state that the employer has opted out of the bargaining in accordance with section 44A.
+(3) An opt-out notice takes effect on and from the date on which it is given to all other intended parties identified in the notice initiating bargaining (see section 42).
+
+### 44C Effect of opting out
+(1) An employer that opts out of bargaining under section 44A ceases, on the date on which the opt-out notice takes effect under section 44B(3),—
+  (a) to be a party to bargaining for the agreement; and
+  (b) to have any further obligations under this Act in relation to that bargaining.
+(2) To avoid doubt,—
+  (a) an employer must opt out separately in relation to each notice given under section 42; and
+  (b) an employer that gives an opt-out notice may be included as an intended party in any subsequent notice given under section 42; and
+  (c) nothing in this section or section 44A or 44B prevents an employer from opting out of bargaining for a collective agreement involving 2 or more employers that is intended to replace a previous collective agreement that covered those employers.
 
 ### 45 One or more unions proposing to initiate bargaining with 2 or more employers for single collective agreement
 (1) This section applies to—
@@ -709,6 +742,40 @@ During facilitation, a party to bargaining for a collective agreement must deal 
 (6) Section 59 applies to the determination as if it were a collective agreement.
 (7) If the bargaining for the collective agreement was subject to facilitation under sections 50A to 50I, the member of the Authority who makes a determination under this section must not be the member of the Authority who conducted the facilitation if a party to the bargaining objects.
 
+**Authority may determine that bargaining has concluded**
+
+### 50K Authority may determine that bargaining has concluded
+(1) A party to bargaining for a collective agreement may apply to the Authority for a determination as to whether bargaining has concluded because of difficulties in concluding bargaining.
+(2) Where an application is made under subsection (1), the Authority—
+  (a) must consider whether an attempt has been made to resolve the difficulties by the use of—
+    (i) mediation or further mediation under section 159; or
+    (ii) facilitation under sections 50B to 50I; and
+  (b) may direct the parties to try to resolve the difficulties by mediation or further mediation; but
+  (c) if any of the grounds in section 50C(1) exist, must direct that facilitation be used before the Authority investigates the matter, unless the Authority considers that use of facilitation—
+    (i) will not contribute constructively to resolve the difficulties; or
+    (ii) will not, in all the circumstances, be in the public interest; or
+    (iii) will undermine the urgent nature of the process; or
+    (iv) will be otherwise impractical or inappropriate in the circumstances.
+(3) If the Authority determines that bargaining has concluded,—
+  (a) the Authority must make a declaration to that effect; and
+  (b) none of the parties to that bargaining may initiate further bargaining earlier than 60 days after the date of the declaration without the agreement of the other party or parties concerned.
+(4) If the Authority determines that bargaining has not concluded,—
+  (a) the Authority may make a recommendation as to the process that the parties should follow to resolve the difficulties; and
+  (b) none of the parties to that bargaining may make another application under subsection (1) in respect of that bargaining until the process recommended by the Authority has been followed.
+(5) If the Authority determines that bargaining has not concluded, but does not make a recommendation under subsection (4)(a), none of the parties to that bargaining may make another application under subsection (1) in respect of that bargaining earlier than 60 days after the date of the determination without the agreement of the other party or parties concerned.
+(6) This section applies subject to section 50KA.
+
+### 50KA Declaration or determination under section 50K not to be made if breach of duty of good faith by party seeking declaration
+(1) The Authority must dismiss an application made under section 50K(1) and must refuse to make a declaration or determination under section 50K(3) or (4) if the Authority is satisfied that the party seeking the declaration has failed to observe good faith as described in subsection (3).
+(2) However, the Authority is not precluded from making a declaration or determination if the party seeking the declaration has failed to observe good faith, but the Authority is satisfied that the party has rectified the failure.
+(3) The failures to observe good faith are as follows:
+  (a) a failure to comply with the duty of good faith in section 4, if the failure—
+    (i) relates to the collective bargaining in respect of which the declaration is sought; and
+    (ii) has undermined the collective bargaining:
+  (b) a failure to deal in good faith in any mediation or facilitation directed by the Authority under section 50K(2) (whether in relation to the Authority or the other party or parties to the collective bargaining).
+(4) To avoid doubt, for the purposes of subsection (3)(a), a failure may relate to a matter before or after the application for the determination is made.
+(5) If the Authority is precluded by subsection (1) from making a declaration or a determination, the Authority may make orders or recommendations or issue directions about what steps the parties to the collective bargaining ought to or must take, including (but not limited to) how the party who has failed to observe good faith may rectify the failure.
+
 **Collective agreements**
 
 ### 51 Ratification of collective agreement
@@ -730,8 +797,14 @@ During facilitation, a party to bargaining for a collective agreement must deal 
 (1) A collective agreement that would otherwise expire as provided in section 52(3) continues in force—
   (a) if subsection (2) is complied with; and
   (b) for the period specified in subsection (3).
-(2) This subsection is complied with if the union initiated collective bargaining before the collective agreement expired and for the purpose of replacing the collective agreement.
+(2) This subsection is complied with if the union or the employer initiated collective bargaining before the collective agreement expired and for the purpose of replacing the collective agreement.
+(2A) However, a collective agreement that binds 2 or more employers continues in force in relation to an employer that has opted out of bargaining under section 44A, but only—
+  (a) if (after the employer's opt-out notice takes effect and before the collective agreement expires) the employer or the union initiated collective bargaining for the purpose of replacing the collective agreement; and
+  (b) for the period (not exceeding 12 months) during which bargaining continues for a collective agreement to replace the collective agreement that has expired.
 (3) The period is the period (not exceeding 12 months) during which bargaining continues for a collective agreement to replace the collective agreement that has expired.
+(4) However, for the purposes of calculating the period referred to in subsection (2A)(b) or (3), the period referred to in section 50K(3)(b) is to be disregarded if—
+  (a) the Authority or the court determines that the collective bargaining has concluded; and
+  (b) the determination has been successfully challenged or appealed against.
 
 ### 54 Form and content of collective agreement
 (1) A collective agreement has no effect unless—
@@ -831,8 +904,8 @@ In sections 59B and 59C, reached, in relation to a term or condition in bargaini
   (a) whether the employer bargained with the employee before they agreed on the term or condition of employment:
   (b) whether the employer consulted the union in good faith before agreeing to the term or condition of employment:
   (c) the number of the employer's employees bound by the collective agreement or covered by the collective bargaining compared to the number of the employer's employees not bound by the collective agreement or not covered by the collective bargaining:
-  (d) how long the collective agreement has been in force:
-  (e) the application of section 63.
+  (d) how long the collective agreement has been in force.
+  (e)
 (7) Subsection (6) does not limit the matters that may be taken into account for the purposes of subsection (2)(a) and (b) or subsection (4)(a) or (b).
 (8) Every employer who commits a breach of the duty of good faith under this section is liable to a penalty under this Act.
 
@@ -894,9 +967,7 @@ The object of this Part is—
     (ii) that the employee may join the union that is a party to the collective agreement; and
     (iii) about how to contact the union; and
     (iv) that, if the employee joins the union, the employee will be bound by the collective agreement; and
-    (v) that, during the first 30 days of the employee's employment, the employee's terms and conditions of employment comprise—
-      (A) the terms and conditions in the collective agreement that would bind the employee if the employee were a member of the union; and
-      (B) any additional terms and conditions mutually agreed to by the employee and employer that are not inconsistent with the terms and conditions in the collective agreement; and
+    (v)
   (b) give the employee a copy of the collective agreement; and
   (c) if the employee agrees, inform the union as soon as practicable that the employee has entered into the individual employment agreement with the employer.
 (3) If the work to be done by the employee is covered by more than 1 collective agreement, the employer must—
@@ -905,15 +976,7 @@ The object of this Part is—
 (4) Every employer who fails to comply with this section is liable to a penalty imposed by the Authority.
 
 ### 63 Terms and conditions of employment of new employee who is not member of union
-(1) The terms and conditions of employment of an employee to whom section 62 applies are determined in accordance with subsections (2) to (5).
-(2) For the first 30 days after the employee enters into an individual employment agreement, the employee's terms and conditions of employment comprise—
-  (a) the terms and conditions in the collective agreement that would bind the employee if the employee were a member of the union; and
-  (b) any additional terms and conditions mutually agreed to by the employee and employer that are not inconsistent with the terms and conditions in the collective agreement.
-(2A) However, the employee's terms and conditions of employment do not include any bargaining fee payable under Part 6B.
-(3) If the work to be done by the employee is covered by more than 1 collective agreement, subsection (2)(a) applies to the collective agreement that binds more of the employer's employees in relation to the work the employee will be performing than any of the other collective agreements.
-(4) No term or condition of employment may be expressed to alter automatically after the 30-day period to be inconsistent with the collective agreement.
-(5) After the 30-day period expires, the employee and the employer may, by mutual agreement, vary the individual employment agreement as they think fit.
-(6) For an employee who holds a minimum wage exemption permit under section 8 of the Minimum Wage Act 1983, the terms and conditions under subsection (2) are subject to the terms of the permit relating to the wages to be paid.
+[Repealed]
 
 ### 63A Bargaining for individual employment agreement or individual terms and conditions in employment agreement
 (1) This section applies when bargaining for terms and conditions of employment in the following situations:
@@ -921,12 +984,12 @@ The object of this Part is—
   (b) under section 61(2), in relation to—
     (i) additional terms and conditions to the collective agreement on which the individual employment agreement is based; and
     (ii) variations to the individual employment agreement in subparagraph (i):
-  (c) under section 63(2), in relation to additional terms and conditions for the first 30 days of an individual employment agreement:
-  (d) under section 63(5), in relation to variations to terms and conditions of an individual employment agreement after the 30-day period:
-  (e) in relation to terms and conditions of an individual employment agreement for an employee if no collective agreement covers the work done, or to be done, by the employee:
+  (c)
+  (d)
+  (e) in relation to terms and conditions of an individual employment agreement, including any variations to that agreement:
   (f) where a fixed term of employment, or probationary or trial period of employment, is proposed:
-  (g) under section 69M or section 69N in relation to employee protection provisions in individual employment agreements:
-  (h) under section 69I in relation to redundancy entitlements with a new employer.
+  (g) under section 69OJ in relation to employee protection provisions in individual employment agreements:
+  (h) under section 69N in relation to redundancy entitlements with a new employer.
 (2) The employer must do at least the following things:
   (a) provide to the employee a copy of the intended agreement under discussion; and
   (b) advise the employee that he or she is entitled to seek independent advice about the intended agreement; and
@@ -935,7 +998,7 @@ The object of this Part is—
 (3) Every employer who fails to comply with this section is liable to a penalty imposed by the Authority.
 (4) Failure to comply with this section does not affect the validity of the employment agreement between the employee and the employer.
 (5) The requirements imposed by this section are in addition to any requirements that may be imposed under any provision in this Act.
-(6) For the purpose of subsection (1)(e), a collective agreement that includes a coverage clause referring to named employees, or the work done by named employees, to whom the collective agreement applies, must be treated as covering the work or type of work done by the named employees (whether done by those employees or any other employees).
+(6)
 (7) In this section, employee includes a prospective employee.
 
 ### 64 Employer must retain copy of individual employment agreement or individual terms and conditions of employment
@@ -954,8 +1017,8 @@ The object of this Part is—
   (a) signed the intended agreement; or
   (b) agreed to any of the terms and conditions specified in the intended agreement.
 
-### 65 Terms and conditions of employment where no collective agreement applies
-(1) The individual employment agreement of an employee whose work is not covered by a collective agreement that binds his or her employer—
+### 65 Form and content of individual employment agreement
+(1) The individual employment agreement of an employee—
   (a) must be in writing; and
   (b) may contain such terms and conditions as the employee and employer think fit.
 (2) However, the individual employment agreement—
@@ -969,7 +1032,7 @@ The object of this Part is—
   (b) must not contain anything—
     (i) contrary to law; or
     (ii) inconsistent with this Act.
-(3) To determine for the purposes of subsection (1) whether the work of an employee is covered by a collective agreement that binds the employer, a collective agreement that includes a coverage clause referring to named employees, or the work or type of work done by named employees, to whom the collective agreement applies, must be treated as covering the work or type of work done by the named employees (whether done by those employees or any other employees).
+(3)
 (4) An employer who fails to comply with this section is liable, in an action brought by a Labour Inspector, to a penalty imposed by the Authority.
 
 ### 65A Deduction of union fees
@@ -1012,9 +1075,7 @@ The object of this Part is—
   (c) if the employer does so, the employee is not entitled to bring a personal grievance or other legal proceedings in respect of the dismissal.
 (3) Employee means an employee who has not been previously employed by the employer.
 (4)
-(5) To avoid doubt, a trial provision may be included in an employment agreement under—
-  (a) section 61(1)(a), but subject to section 61(1)(b):
-  (b) section 63(2)(b).
+(5) To avoid doubt, a trial provision may be included in an employment agreement under section 61(1)(a), but subject to section 61(1)(b).
 
 ### 67B Effect of trial provision under section 67A
 (1) This section applies if an employer terminates an employment agreement containing a trial provision under section 67A by giving the employee notice of the termination before the end of the trial period, whether the termination takes effect before, at, or after the end of the trial period.
@@ -1055,15 +1116,14 @@ The object of this Part is—
 
 ### 69AA Object of this Part
 The object of this Part is to—
-  (a) provide certain employees with a statutory right to request a variation of their working arrangements if they have the care of any person; and
-  (b) require an employer to deal with a request as soon as possible but not later than 3 months after receiving it; and
+  (a) provide employees with a statutory right to request a variation of their working arrangements; and
+  (b) require an employer to deal with a request as soon as possible but not later than 1 month after receiving it; and
   (c) provide that an employer may refuse a request only if it cannot be accommodated on certain grounds; and
   (d) if an employer does not deal with a request in accordance with the process specified in this Part, provide for reference of the matter to a Labour Inspector, then to mediation, and then to the Authority.
 
 ### 69AAA Interpretation
 In this Part, unless the context otherwise requires,—
   - **mediation** means mediation provided under section 144
-  - **non-compliance with section 69AAE** , except in section 69AAJ, includes an employer's wrong determination about an employee's eligibility to make a request under section 69AAB
   - **request** means a written request made—
     (a) under this Part; and
     (b) by an employee to his or her employer to vary the employee's terms and conditions of employment relating to the employee's working arrangements
@@ -1075,12 +1135,7 @@ In this Part, unless the context otherwise requires,—
 **Employee's statutory right to make request**
 
 ### 69AAB When employee may make request
-(1) An employee may make a request—
-  (a) if the employee satisfies the criteria specified in subsection (2); and
-  (b) subject to the limitation in section 69AAD.
-(2) The criteria are that—
-  (a) the employee has the care of any person; and
-  (b) the employee, as at the date the request is made, has been employed by his or her employer for the immediately preceding 6 months.
+An employee may make a request at any time.
 
 ### 69AAC Requirements relating to request
 A request must be in writing and—
@@ -1090,31 +1145,23 @@ A request must be in writing and—
     (iii) that the request is made under this Part; and
   (b) specify the variation of the working arrangements requested and whether the variation is permanent or for a period of time; and
   (c) specify the date on which the employee proposes that the variation take effect and, if the variation is for a period of time, the date on which the variation is to end; and
-  (d) explain, in the employee's view, how the variation will enable the employee to provide better care for the person concerned; and
+  (d)
   (e) explain, in the employee's view, what changes, if any, the employer may need to make to the employer's arrangements if the employee's request is approved.
 
 ### 69AAD Limitation on frequency of requests
-(1) Subsection (2) applies if an employee has made a request under this Part and his or her employer has approved or refused the request.
-(2) The employee is not entitled to make another request under this Part to his or her employer earlier than 12 months after the date on which the previous request was made.
+[Repealed]
 
 **Duties of employer**
 
 ### 69AAE Employer must notify decision as soon as possible
-An employer must deal with a request as soon as possible but not later than 3 months after receiving it and—
-  (a) notify the employee whether his or her request has been approved or refused; and
-  (b) if the request is refused, notify the employee that the request is refused because—
-    (i) the employee is not eligible to make a request under section 69AAB; or
-    (ii) of a ground specified in section 69AAF(2) or (3); or
-    (iii) both; and
-  (c) if the request is refused because of a ground specified in section 69AAF(2) or (3),—
-    (i) notify the employee of the ground for refusal; and
-    (ii) provide an explanation of the reasons for that ground.
+(1) An employer must deal with a request as soon as possible, but not later than 1 month after receiving it, and must notify the employee in writing of whether his or her request has been approved or refused.
+(2) If the employer refuses an employee's request, the notification given under subsection (1) must—
+  (a) state that the request is refused because of a ground specified in section 69AAF(2) or (3); and
+  (b) state the ground for refusal; and
+  (c) explain the reasons for that ground.
 
 ### 69AAF Grounds for refusal of request by employer
-(1) An employer may refuse a request only if the employer determines that—
-  (a) the employee is not eligible to make a request under section 69AAB; or
-  (b) the request cannot be accommodated on 1 or more of the grounds specified in subsection (2); or
-  (c) both.
+(1) An employer may refuse a request only if the employer determines that the request cannot be accommodated on 1 or more of the grounds specified in subsection (2).
 (2) The grounds are—
   (a) inability to reorganise work among existing staff:
   (b) inability to recruit additional staff:
@@ -1147,10 +1194,10 @@ An employer must deal with a request as soon as possible but not later than 3 mo
   (b) mediation has not resolved the matter.
 (2) The employee may apply to the Authority for a determination as to whether the employer has complied with section 69AAE.
 (3) An application under subsection (2) must be made within 12 months after the relevant date.
-(4) If the Authority determines that the employer has made a wrong determination about an employee's eligibility to make a request under section 69AAB, the employer must comply with section 69AAE as soon as practicable.
+(4)
 (5) In subsection (3), relevant date means,—
-  (a) if the employer notifies a refusal within 3 months after receiving a request, the date on which the employer notifies the employee of the employer's refusal:
-  (b) in any other case, the date 3 months after the employer received the employee's request.
+  (a) if the employer notifies a refusal within 1 month after receiving a request, the date on which the employer notifies the employee of the employer's refusal:
+  (b) in any other case, the date 1 month after the employer received the employee's request.
 
 ### 69AAJ Penalty
 (1) An employer who does not comply with section 69AAE is liable to a penalty not exceeding $2,000, imposed by the Authority.
@@ -1164,27 +1211,34 @@ An employee may not challenge his or her employer's refusal of a request, or fai
 **Review of Part**
 
 ### 69AAL Review of operation of Part after 2 years
-(1) The Minister must, as soon as is practicable, 2 years after the commencement of the Employment Relations (Flexible Working Arrangements) Amendment Act 2007, require a report to be prepared on the operation and effects of this Part.
-(2) The Minister must ensure that the persons and organisations (including representatives of employees and employers), that the Minister thinks appropriate, are consulted during the preparation of the report about the matters to be considered in the report.
-(3) The report will include recommendations in relation to whether the provisions of this Part should extend to all employees.
-(4) The Minister must present a copy of the report to the House of Representatives.
+[Repealed]
 
 ## Part 6A — Continuity of employment if employees' work affected by restructuring
 
 ### Subpart 1 — Specified categories of employees
 
 ### 69A Object of this subpart
-The object of this subpart is to provide protection to specified categories of employees if, as a result of a proposed restructuring, their work is to be performed by another person and, to this end, to give—
+(1) The object of this subpart is to provide protection to specified categories of employees if, as a result of a proposed restructuring, their work is to be performed by another person.
+(2) The categories of employees—
+  (a) are the categories of employees specified in Schedule 1A; and
+  (b) are specified in Schedule 1A because they are employees—
+    (i) who are employed in sectors in which restructuring of an employer's business occurs frequently; and
+    (ii) whose terms and conditions of employment tend to be undermined by the restructuring of an employer's business; and
+    (iii) who have little bargaining power.
+(3) The protection conferred by this subpart gives—
   (a) the employees a right to elect to transfer to the other person as employees on the same terms and conditions of employment; and
   (b) the employees who have transferred a right,—
     (i) subject to their employment agreements, to bargain for redundancy entitlements from the other person if made redundant by the other person for reasons relating to the transfer of the employees or to the circumstances arising from the transfer of the employees; and
     (ii) if redundancy entitlements cannot be agreed with the other person, to have the redundancy entitlements determined by the Authority.
+(4) The protection provided by this subpart does not apply if the other person who is to perform the employees' work is an exempt employer.
 
 ### 69B Interpretation
 In this subpart, unless the context otherwise requires,—
   - **agreement** means a contract or arrangement
+  - **associated person** means a person who (under section 69DA) is an associated person of a person providing a warranty under section 69CA
   - **contracting in** has the meaning set out in section 69C
   - **contracting out** has the meaning set out in section 69C
+  - **exempt employer** has the meaning given to it by section 69CA
   - **independent contractor** means a person engaged to perform work under an agreement that is not an employment agreement
   - **new employer** has the meaning set out in section 69D
   - **redundancy entitlements** includes redundancy compensation
@@ -1197,6 +1251,7 @@ In this subpart, unless the context otherwise requires,—
     (b) to avoid doubt, does not include,—
       (i) in the case of an employer that is a company, the sale or transfer of any or all of the shares in the company; or
       (ii) any contract, arrangement, sale, or transfer entered into, made, or concluded while the employer is adjudged bankrupt or in receivership or liquidation
+  - **specified date** has the meaning given to it by section 69I(4)
   - **subcontractor** —
     (a) means a person engaged by an independent contractor to perform work—
       (i) under an agreement that is not an employment agreement; and
@@ -1233,6 +1288,124 @@ In this subpart, unless the context otherwise requires,—
   (a) mean work that person A is doing or would otherwise do in person A's own right; and
   (b) include work that person A is doing or would otherwise do as an independent contractor or as a subcontractor.
 
+### 69CA Exempt employer
+(1) For the purposes of this subpart, an employer is an exempt employer if—
+  (a) the employer is a person described in subsection (2); and
+  (b) the employer, together with any associated person of the employer (as at the date on which the employer provides a warranty under section 69CB),—
+    (i) has no employees; or
+    (ii) employs 19 or fewer employees; and
+  (c) the employer provides a warranty that complies with section 69CB.
+(2) A person is an employer for the purposes of subsection (1)(a) if the person would, were the restructuring to proceed, be—
+  (a) person A in a contracting in:
+  (b) person B in a contracting out:
+  (c) person C in a subsequent contracting:
+  (d) the person to whom an employer's business (or part of it) is sold or transferred:
+  (e) a subcontractor if the work or part of the work would be performed not by employees of person B in a contracting out or of person C in a subsequent contracting but by employees of the subcontractor.
+(3) An employer that does not provide a warranty that complies with section 69CB must comply in full with the requirements of this subpart.
+(4) To avoid doubt,—
+  (a) an employer who is an exempt employer is an exempt employer only in relation to the restructuring that the employer provides a warranty for; and
+  (b) if the work concerned is performed by the employees of 2 or more employers and warranties are provided in accordance with this subpart to some but not all of the employers, a failure to provide the other warranty or warranties does not invalidate the warranties provided.
+
+### 69CB Warranty
+A warranty under section 69CA must—
+  (a) be in writing; and
+  (b) confirm that, on the date on which the warranty is provided, the employer (together with any associated person of the employer)—
+    (i) has no employees; or
+    (ii) has 19 or fewer employees; and
+  (c) be provided in accordance with sections 69CC to 69CE.
+
+### 69CC Persons warranty to be provided to
+(1) The warranty must be provided to the persons as specified in subsections (2) to (5).
+Contracting in
+(2) In a contracting in or proposed contracting in, the warranty must be provided by person A to—
+  (a) person B if the work concerned is performed by person B's employees; or
+  (b) a subcontractor if the work concerned is performed by employees of the subcontractor; or
+  (c) person B and the subcontractor if the work concerned is performed partly by employees of person B and partly by employees of the subcontractor.
+Contracting out
+(3) In a contracting out or proposed contracting out, the warranty must be provided by—
+  (a) person B to person A if the work concerned is to be performed by person B or employees (if any) of person B; or
+  (b) a subcontractor to person A if the work concerned is to be performed by the subcontractor or employees (if any) of the subcontractor; or
+  (c) person B and the subcontractor to person A if the work concerned is to be performed partly by person B or employees (if any) of person B and partly by the subcontractor or employees (if any) of the subcontractor.
+Subsequent contracting
+(4) In a subsequent contracting or proposed subsequent contracting, the warranty must be provided by—
+  (a) person C to person B if the work, or some of the work, concerned—
+    (i) is performed by employees of person B; and
+    (ii) is to be performed by person C or employees (if any) of person C:
+  (b) a subcontractor to person B if the work, or some of the work, concerned—
+    (i) is performed by employees of person B; and
+    (ii) is to be performed by the subcontractor or employees (if any) of the subcontractor:
+  (c) person C to a subcontractor if the work, or some of the work, concerned—
+    (i) is performed by employees of the subcontractor; and
+    (ii) is to be performed by person C or the employees (if any) of person C:
+  (d) a subcontractor to another subcontractor if the work, or some of the work, concerned—
+    (i) is performed by employees of the other subcontractor; and
+    (ii) is to be performed by the subcontractor or employees (if any) of the subcontractor.
+Sale or transfer of business
+(5) In the sale or transfer of a business (or part of it), the warranty must be provided by the purchaser or transferee to the seller or transferor.
+
+### 69CD Provision of information for purposes of giving warranty
+(1) The purpose of this section is to provide for the disclosure of information so that a person wishing to provide a warranty under section 69CA has sufficient information to identify and contact the employer of the employees who perform work that is to be performed by the employees of another person as a result of a proposed restructuring.
+(2) An obligation under this section to request or provide information does not apply if, or to the extent that, the person required to make the request or the person to whom information is to be provided already has the information.
+Contracting in
+(3) In a contracting in or proposed contracting in, person A may request person B—
+  (a) to confirm whether all the work concerned is performed by the employees of person B; and
+  (b) if some or all of the work concerned has been subcontracted, to provide information that identifies the subcontractor and that contains the contact details of the subcontractor.
+(4) If person B provides information under subsection (3)(b), person A may make the same request to the subcontractor as made under subsection (3) and that subsection applies with the necessary modifications.
+(5) The process under subsections (3) and (4) may be repeated (and those provisions apply accordingly with the necessary modifications) until person A has the information that identifies and contains the contact details of all the employers of the employees performing the work concerned.
+Contracting out
+(6) In a contracting out or proposed contracting out, if some or all of the work is to be subcontracted, person B must—
+  (a) provide information to person A that identifies the subcontractor and contains the contact details of the subcontractor; and
+  (b) provide information to the subcontractor that identifies person A and contains the contact details of person A.
+(7) Person B must ask the subcontractor—
+  (a) to confirm whether all the work concerned is to be performed by the employees of the subcontractor; and
+  (b) if some or all of the work concerned is to be further subcontracted, to provide information that identifies the subcontractor and that contains the contact details of the subcontractor.
+(8) If the subcontractor provides information under subsection (7)(b), person B must provide the same information and make the same request to the other subcontractor as provided under subsections (6) and (7) and those subsections apply with all necessary modifications.
+(9) The process under subsections (7) and (8) must be repeated (and those provisions apply accordingly with the necessary modifications) until person B has the information that identifies and contains the contact details of all the employers of the employees who are to perform the work concerned.
+(10) Person B must provide the information obtained under subsections (7) to (9) to person A.
+Subsequent contracting
+(11) In a subsequent contracting or proposed subsequent contracting, person A must ask person B—
+  (a) to confirm whether all the work concerned is performed by employees of person B; and
+  (b) if some or all of the work concerned has been subcontracted, to provide information that identifies the subcontractor and contains the contact details of the subcontractor.
+(12) If person B provides information under subsection (11)(b), person A must make the same request to the subcontractor as made under subsection (11) and that subsection applies with the necessary modifications.
+(13) The process under subsections (11) and (12) must be repeated (and those provisions apply accordingly with the necessary modifications) until person A has the information that identifies and contains the contact details of all the employers of the employees performing the work concerned.
+(14) Person A must—
+  (a) advise person C that the work concerned is not performed by employees of person A but by employees of another person; and
+  (b) provide the information obtained under subsections (11) to (13) to person C if the information is requested by person C.
+(15) If some or all of the work is to be subcontracted, person C must provide to the subcontractor information person C obtains under subsection (14).
+Compliance
+(16) Information must be sought and provided under this section as follows:
+  (a) in a contracting in, a person who receives a request for information under subsection (3) or (4) must provide the information immediately:
+  (b) in a contracting out—
+    (i) person B must provide and ask for the information under subsections (6) to (10) in time for any warranty to be provided in accordance with this subpart; and
+    (ii) a person receiving a request under subsection (7) or (8) must provide the information immediately:
+  (c) in a subsequent contracting—
+    (i) person A must make a request under subsections (11) and (12) in time for any warranty to be provided in accordance with this subpart:
+    (ii) a person receiving a request under subsection (11) or (12) must provide the information immediately:
+    (iii) person A must provide information under subsection (14)(a) in time for any warranty to be provided in accordance with this subpart:
+    (iv) person A must provide information to person C under subsection (14)(b) immediately after receiving a request to provide it:
+    (v) person C must provide information under subsection (15) in time for any warranty to be provided in accordance with this subpart.
+Penalty
+(17) A person who, without reasonable excuse, fails to comply with this section is liable to a penalty imposed by the Authority.
+
+### 69CE When warranty must be provided
+(1) A warranty must be provided on the date or dates specified in this section.
+Contracting in
+(2) If section 69CC(2) applies, the warranty must be provided on whichever of the following dates applies:
+  (a) the date on which person A informs person B that the agreement relating to the work concerned is or will be terminated:
+  (b) the date on which the agreement relating to the work concerned expires.
+Contracting out
+(3) If section 69CC(3) applies, the warranty must be provided on—
+  (a) the date on which a tender (if any) relating to the work concerned is provided by person B to person A; and
+  (b) the date on which the agreement relating to the work concerned is signed.
+Subsequent contracting
+(4) If section 69CC(4) applies, the warranty must be provided on—
+  (a) the date on which a tender (if any) relating to the work concerned is provided by person C to person A; and
+  (b) the date on which the agreement relating to the work is signed.
+Sale or transfer of business
+(5) If section 69CC(5) applies, the warranty must be provided on—
+  (a) the date on which a tender (if any) is submitted to the seller or transferor of the business; and
+  (b) the date on which the agreement for sale and purchase is entered into or the agreement to transfer is entered into.
+
 ### 69D Meaning of new employer
 (1) In section 69I, new employer,—
   (a) in relation to contracting in, means person A in the definition of that term:
@@ -1247,9 +1420,22 @@ In this subpart, unless the context otherwise requires,—
   (a) may elect or has elected to transfer under section 69I; or
   (b) has transferred under that section.
 
+### 69DA Associated person
+(1) For the purposes of this subpart, a person is an associated person of a person providing a warranty under section 69CA if—
+  (a) the person is a holding company or subsidiary of the person providing the warranty:
+  (b) the person and the person providing the warranty are both subsidiaries of the same body corporate:
+  (c) the person providing the warranty—
+    (i) is a subcontractor of the person; and
+    (ii) was engaged, either before the restructuring or on the date on which the restructuring takes effect, to perform the work concerned:
+  (d) the person (not being a person to which paragraph (a), (b), or (c) applies) has, either before the restructuring or on the date on which the restructuring takes effect, granted a franchise to the person providing the warranty to perform work that is, or will be, the same type of work as the work concerned.
+(2) However, subsection (1)(d) does not apply if the person granting the franchise will not be, or has not been, involved in negotiating, tendering, or entering into an agreement under which the person providing the warranty is to perform the work concerned.
+(3) In subsection (1), holding company and subsidiary have the same meaning as in section 5 of the Companies Act 1993.
+
 ### 69E Examples of contracting in, contracting out, and subsequent contracting
 (1) This section contains examples of contracting in, contracting out, and subsequent contracting.
-(2) Whether, in the following examples, an employee comes within the protection provided by this subpart depends on whether section 69F applies to the employee.
+(2) Whether, in the following examples, an employee has the right to elect to transfer to a new employer depends on whether—
+  (a) section 69F applies to the employee; and
+  (b) the new employer is an exempt employer.
 (3) This subsection sets out examples of contracting in.Example AA rest home carries on business in the age-related residential care sector. Instead of providing food catering services through its employees, it enters into an agreement with an independent contractor to provide those services.The agreement under which the independent contractor provides those services to the rest home expires or is terminated.The rest home then uses its employees or engages further employees to provide those services.Employees of the independent contractor to whom section 69F applies may elect to transfer to the rest home.Example BThe circumstances in this example are the same as in example A except that the independent contractor engages a subcontractor to provide food catering services to the rest home.As a result of the agreement between the rest home and the independent contractor expiring or being terminated, the agreement between the independent contractor and the subcontractor expires or is terminated.Employees of the subcontractor to whom section 69F applies may elect to transfer to the rest home.NoteIn both example A and example B, it does not matter whether the rest home's or the independent contractor's employees originally provided the food catering services or whether the work was contracted out or subcontracted at the outset.In example A and example B, the persons relate to the definition of contracting in as follows:the rest home is person A:the independent contractor is person B.
 (4) This subsection sets out examples of contracting out.Example CA school has employees who provide cleaning services.The school then enters into an agreement with an independent contractor to do that work or some of that work.The employees of the school to whom section 69F applies may elect to transfer to the independent contractor.NoteExample C would not be a contracting out if, at the outset, the school did not have employees providing cleaning services.In example C, the persons relate to the definition of contracting out as follows:the school is person A:the independent contractor is person B.Example DThe circumstances in this example are the same as in example C, except that later on the independent contractor decides that, instead of using its employees for the contract for the school, it will engage a subcontractor to do the work or some of the work.Employees of the independent contractor to whom section 69F applies may elect to transfer to the subcontractor.NoteIn example D, the persons relate to the definition of contracting out as follows:the independent contractor is person A:the subcontractor is person B.NoteIn example C and example D if, at the outset, the independent contractor did not have employees providing cleaning services, but subcontracts the work straight away, then the employees to whom section 69F applies may elect to transfer to the subcontractor.
 (5) This subsection sets out examples of subsequent contracting.Example EAn airport operator enters into an agreement with an independent contractor to provide food catering services at the airport.Some time later, the agreement under which the independent contractor provides those services expires or is terminated.The airport operator then enters into an agreement with a second independent contractor to provide food catering services at the airport.Employees of the first independent contractor to whom section 69F applies may elect to transfer to the second independent contractor.NoteIn example E, it does not matter whether the agreement between the airport operator and the first independent contractor constitutes a contracting out.In example E, the persons relate to the definition of subsequent contracting as follows:the airport operator is person A:the first independent contractor is person B:the second independent contractor is person C.Example FThe circumstances in this example are the same as in example E, except that the first independent contractor engages a subcontractor to do the work or some of the work.Later on, the agreement under which the subcontractor provides the work expires or is terminated and the first independent contractor engages a second subcontractor to provide food catering services at the airport.The employees of the first subcontractor to whom section 69F applies may elect to transfer to the second subcontractor.NoteIn example F, the subsequent contracting occurs at the subcontracting level.In example F, the persons relate to the definition of subsequent contracting as follows:the independent contractor is person A:the first subcontractor is person B:the second subcontractor is person C.
@@ -1262,32 +1448,59 @@ In this subpart, unless the context otherwise requires,—
     (ii) the work performed by the employee (or work that is substantially similar) is to be performed by or on behalf of another person.
 (2) To avoid doubt, this subpart applies even though the performance of the work by or on behalf of the other person does not begin immediately after an employee ceases to perform the work for his or her employer.
 
+### 69FA Employer's breach of obligations not to affect employee's rights and new employer's obligations
+To avoid doubt, any failure by an employee's employer to comply with the obligations imposed on employers by this subpart does not limit or affect the rights of an employee under this subpart or the obligations of a new employer under this subpart.
+
 ### 69G Notice of right to make election
-(1) Before a restructuring takes effect, the employer of the employees who will be affected by the restructuring must provide the employees affected with—
-  (a) a reasonable opportunity to exercise the right to make an election under section 69I(1); and
-  (b) the date by which the right to make an election must be exercised; and
-  (c) information sufficient for the employees to make an informed decision about whether to exercise the right to make an election.
-(2) Without limiting subsection (1)(c), the information provided under that provision must include—
+(1) As soon as practicable, but no later than 15 working days before the date on which a restructuring takes effect, the employer of the employees who will be affected by a restructuring must provide the affected employees with—
+  (a) information about whether the employees have a right to make an election under section 69I; and
+  (b) if the employees have a right to make an election under section 69I, an opportunity to exercise that right; and
+  (c) information sufficient for the employees to make an informed decision about whether to exercise any right to make an election; and
+  (d) the date by which any right to make an election must be exercised, which is—
+    (i) the date that is 5 working days after the day on which the employees are provided with the information described in paragraphs (a) to (c); or
+    (ii) if the employees' employer and the new employer agree to a later date, that agreed date.
+(2) Without limiting the information to be provided under subsection (1)(c), the information provided under that provision must include—
   (a) the name of the new employer:
   (b) the nature and scope of the restructuring:
   (c) the date on which the restructuring is to take effect:
-  (d) how to make an election, the person to whom an election is to be sent, and the form in which the election is to be sent (for example by post, fax, or email).
-(3) If the restructuring is a contracting in or a subsequent contracting, person A in the definition that applies must give the employer sufficient notice of, and information about, the restructuring to enable the employer to comply with subsection (1).
-(4) An employer or other person who fails to comply with this section is liable to a penalty imposed by the Authority.
+  (d) a statement to the effect that an election must be made in writing, signed by the employee, and sent to the employee’s employer:
+  (e) notice that—
+    (i) certain information will be provided to the new employer about employees who elect to transfer; and
+    (ii) those employees are entitled to access the information, and to request correction of the information, in accordance with the Privacy Act 1993.
+(3) A notice under subsection (1) must specify that an election may be delivered, sent by post, or sent by electronic means (for example, by fax or email) to the employee's employer.
+(4) If the employees do not have any right to make an election under section 69I, the employees’ employer must also provide the following information to the employees:
+  (a) that the new employer has provided a written warranty that, on the date of giving the warranty, the new employer is an exempt employer; and
+  (b) that the employees therefore do not have any right to transfer to the new employer; and
+  (c) that, if the warranty is false, the employees may raise a personal grievance against the new employer as if the employees—
+    (i) had elected to transfer to the new employer under subsection (1); and
+    (ii) were unjustifiably dismissed (as provided for in section 103(1)(a)); but
+  (d) that the remedies available in respect of a personal grievance referred to in paragraph (c) do not include an order for reinstatement.
+(5) In subsection (4)—
+  - **exempt employer** means an employer who is an exempt employer within the meaning of section 69CA(1)(a) and (b)
+  - **new employer** means a person who is a new employer within the meaning of section 69D(1).
+(6) The employees' employer must send an election that complies with subsections (1)(d) and (2)(d) to the new employer as soon as practicable, but no later than 5 working days after the day on which that election is received by the employees' employer.
+(7) If an employee sends an election that complies with subsection (2)(d) by post or electronic means before the date described in subsection (1)(d), the employee must be treated as having exercised his or her right to make an election by that date.
+(8) If the employee’s employer sends an election to the new employer by post or electronic means before the date that is 5 working days after the day on which the employee’s employer received that election, the employee’s employer must be treated as having met the deadline specified in subsection (6).
+(9) If the restructuring is a contracting in or a subsequent contracting, person A in the definition that applies must give the employer sufficient notice of, and information about, the restructuring to enable the employer to comply with subsection (1).
+(10) In subsection (9), sufficient notice means—
+  (a) as soon as practicable; but
+  (b) no later than 20 working days before the date on which the restructuring takes effect.
+(11) An employer or other person who fails to comply with this section is liable to a penalty imposed by the Authority.
 
 ### 69H Employee bargaining for alternative arrangements
-(1) To avoid doubt, an employee may, after his or her employer has complied with section 69G and before deciding whether to elect to transfer to the new employer, bargain with his or her employer for alternative arrangements.
+(1) To avoid doubt, an employee may, after his or her employer has complied with section 69G(1) and before deciding whether to exercise any right to elect to transfer to the new employer, bargain with his or her employer for alternative arrangements.
 (2) If the employee and employer agree on alternative arrangements,—
   (a) the alternative arrangements must be recorded in writing; and
   (b) if paragraph (a) is complied with, the employee may not subsequently elect to transfer to the new employer.
 
-### 69I Employee may elect to transfer to new employer
-(1) An employee to whom this subpart applies may, before the date provided to the employee under section 69G(1)(b), elect to transfer to the new employer.
+### 69I Employee may elect to transfer to new employer in certain circumstances
+(1) An employee to whom this subpart applies may, before the date provided to the employee under section 69G(1)(d), elect to transfer to the new employer.
+(1A) However, subsection (1) does not apply if the new employer is an exempt employer.
 (2) If an employee elects to transfer to the new employer, then to the extent that the employee's work is to be performed by the new employer, the employee—
   (a) becomes an employee of the new employer on and from the specified date; and
   (b) is employed on the same terms and conditions by the new employer as applied to the employee immediately before the specified date, including terms and conditions relating to whether the employee is employed full-time or part-time; and
   (c) is not entitled to any redundancy entitlements under those terms and conditions of employment from his or her previous employer because of the transfer.
-(3) To avoid doubt,—ExampleThis example relates to subsection (3)(a). A retailer owns 3 gift shops and engages an independent contractor to clean the shops. The independent contractor employs a cleaner to clean the gift shops.The cleaning contract between the retailer and the independent contractor expires.The retailer enters into a cleaning contract with a second independent contractor for the cleaning of 1 shop, and enters into a new cleaning contract with the first independent contractor for the cleaning of the other 2 shops.As a result, the first independent contractor no longer requires the cleaner to clean 1 of the shops.The cleaner may elect to transfer and become an employee of the second independent contractor in relation to 1 shop while remaining an employee of the first independent contractor in relation to the other 2 shops.
+(3) To avoid doubt,—ExampleThis example relates to subsection (3)(a). A retailer owns 3 gift shops and engages an independent contractor to clean the shops. The independent contractor employs a cleaner to clean the gift shops.The cleaning contract between the retailer and the independent contractor expires.The retailer enters into a cleaning contract with a second independent contractor for the cleaning of 1 shop, and enters into a new cleaning contract with the first independent contractor for the cleaning of the other 2 shops.As a result, the first independent contractor no longer requires the cleaner to clean 1 of the shops.The second independent contractor did not provide, under section 69CA(1), any warranty about exempt employer status to the retailer.The cleaner may elect to transfer and become an employee of the second independent contractor in relation to 1 shop while remaining an employee of the first independent contractor in relation to the other 2 shops.
   (a) the election of an employee to transfer to a new employer may result in the employee being employed by more than 1 employer if—
     (i) only part of the employee's work is affected by the restructuring; or
     (ii) the work performed by the employee will be performed by or on behalf of more than 1 new employer; and
@@ -1332,6 +1545,48 @@ In this subpart, unless the context otherwise requires,—
 (1) To avoid doubt, this subpart does not limit or affect any terms and conditions of employment under which the employee's entitlement to redundancy entitlements is excluded where the employee may transfer to the new employer but elects not to do so.
 (2) This subpart does not limit or affect section 77HA of the State Sector Act 1988.
 
+### 69LA Liability for costs of service-related entitlements of transferring employee
+(1) This section applies if—
+  (a) an employee elects to transfer to a new employer; and
+  (b) on the specified date, the employee has not taken, or been paid for, service-related entitlements (whether legislative or otherwise) that relate to the employee’s period of employment before the specified date.
+(2) Liability for the costs of service-related entitlements (whether legislative or otherwise) of the employee must be apportioned between the employee’s employer and the new employer.
+(3) If the employee’s employer and the new employer cannot agree before the specified date on how to apportion those costs, the costs must be apportioned as follows:
+  (a) the employee’s employer is liable for the costs that the employer would have been liable to pay to the employee if the employee had resigned and ceased employment with the employer on the day before the specified date (for example, costs related to annual holidays or alternative holidays not taken before the specified date); and
+  (b) the new employer is liable for the costs of any service-related entitlements that accrued before the specified date but would not have been paid to the employee if the employee had resigned and ceased employment with his or her previous employer on the day before the specified date (for example, costs relating to sick leave not taken before the specified date).
+(4) The employee’s employer must pay to the new employer—
+  (a) the amount agreed before the specified date by the employee’s employer and the new employer; or
+  (b) if no amount is agreed, the costs described in subsection (3)(a).
+(5) The employee’s employer must comply with subsection (4)—
+  (a) by the specified date; or
+  (b) if the employee’s employer and the new employer agree to a later date, by that agreed date.
+(6) If the new employer does not receive payment from the employee’s employer by the specified date or the agreed date (if any), the new employer may recover the payment, in any court of competent jurisdiction, as a debt due from the employee’s employer.
+(7) To avoid doubt,—
+  (a) if only part of the employee’s work is affected by the restructuring, the apportionment of costs described in subsection (3) must relate only to the work that is affected by the restructuring:
+  (b) if the work performed by the employee will be performed for, or on behalf of, more than 1 new employer, the apportionment of costs described in subsection (3) must be adjusted between the employee's employer and each new employer on a pro rata basis:
+  (c) on and from the specified date, the new employer is liable to pay the employee for all service-related entitlements (whether legislative or otherwise), including those referred to in subsection (3)(a).
+
+### 69LB Resolving disputes about apportioning liability for costs of service-related entitlements
+(1) This section applies to a dispute between an employee’s employer and the new employer (or, if more than 1 new employer is involved, all or any of the new employers) about apportioning liability for the costs of service-related entitlements under section 69LA(3).
+(2) If the dispute cannot be resolved between the employee’s employer and the new employer or employers,—
+  (a) the parties may access mediation services as if the dispute were an employment relationship problem:
+  (b) proceedings to resolve the dispute may be commenced before the Authority as if the dispute were an employment relationship problem.
+(3) For the purposes of subsection (2)(a), the parties may agree to access mediation services that are—
+  (a) provided under section 144 (in which case, sections 145 to 153 apply, with any necessary modifications); or
+  (b) referred to in section 154.
+(4) If proceedings are commenced before the Authority, the Authority must determine the apportionment of the costs of the service-related entitlements in accordance with section 69LA(3).
+
+### 69LC Implied warranty by employer of transferring employees
+(1) This section applies if 1 or more employees of an employer elect to transfer to a new employer, as provided for in section 69I.
+(2) There is an implied warranty by the employees’ employer to the new employer that the employees' employer has not, without good reason, changed—
+  (a) the work affected by the restructuring; or
+  (b) the employees who perform the work affected by the restructuring (for example, replacing employees with employees who are less experienced or less efficient); or
+  (c) the terms and conditions of employment of 1 or more of those employees.
+(3) The warranty implied by this section applies in relation to changes occurring in the period—
+  (a) beginning on the day on which the employees' employer is informed about the proposed restructuring; and
+  (b) ending on the day before the specified date.
+(4) If the employees' employer breaches the implied warranty, and that breach adversely affects the new employer, the new employer may commence proceedings for damages, in any court of competent jurisdiction, against that employer.
+(5) For the purposes of subsection (2), whether a reason is a good reason is to be determined on an objective basis.
+
 ### 69M New employer becomes party to collective agreement that binds employee electing to transfer
 (1) This section applies if—
   (a) an employee who elects to transfer to a new employer is a member of a union and bound by a collective agreement; and
@@ -1361,59 +1616,89 @@ In this subpart, unless the context otherwise requires,—
   (e) the likelihood of the employee being re-employed or obtaining employment with another employer:
   (f) any other relevant matter that the Authority thinks fit.
 
-### Subpart 2 — Disclosure of costs relating to transfer of employees under proposed restructuring
+### 69OAA False warranty: exempt employer
+(1) A person who provides a false warranty is liable to a penalty imposed by the Authority.
+(2) An employee affected by the restructuring may raise a personal grievance against the person who provided the false warranty as if the employee had—
+  (a) elected to transfer to the person under section 69I; and
+  (b) been unjustifiably dismissed (within the meaning given in section 103(1)(a)).
+(3) However, where the Authority or the court determines that the employee has a personal grievance, neither the Authority nor the court may make an order for reinstatement under sections 123(1)(a) and 125 in relation to that employee.
+(4) An employer to whom the false warranty was provided under section 69CC may commence proceedings for damages, in a court of competent jurisdiction, against the person who provided the warranty.
+(5) In this section, false warranty means a warranty under section 69CA—
+  (a) that confirms, on the date that the warranty is provided, the employer (together with any associated person or persons, if applicable) employs 19 or fewer employees; but
+  (b) where, on the date that the warranty is provided, the employer (together with any associated person or persons, if applicable) employs more than 19 employees.
+(6) To avoid doubt, whether or not the person giving the warranty, or any other person, knew, or ought reasonably to have known, that the warranty was a false warranty is irrelevant.
+
+### Subpart 2 — Disclosure of information relating to transfer of employees
 
 ### 69OA Object of this subpart
-The object of this subpart is to provide for the disclosure of employee transfer costs information if—
-  (a) disclosure is sought for the purpose of—
-    (i) deciding whether to terminate an agreement or let it expire; or
-    (ii) negotiating an agreement; or
-    (iii) deciding whether to enter into an agreement; or
-    (iv) tendering for an agreement; and
-  (b) a restructuring would result if the agreement were to be—
-    (i) terminated or to expire; or
-    (ii) concluded; or
-    (iii) entered into; or
-    (iv) awarded.
+The object of this subpart is to make provision for the disclosure of employee transfer costs information and individualised employee information relating to employees who have elected to transfer to a new employer under section 69I.
 
 ### 69OB Interpretation
-(1) In this subpart, employee transfer costs information, in relation to a proposed restructuring,—
-  (a) means information about the employment-related entitlements of the employees who would be eligible to elect, under section 69I, to transfer to a new employer if the proposed restructuring were to proceed; and
-  (b) includes—
-    (i) the number of employees who would be eligible to elect to do so; and
-    (ii) the wages or salary payable in a stated period (for example, a week, fortnight, or month) to the employees for performing the work that would be subject to the proposed restructuring; and
-    (iii) the total number of hours the employees spend in a stated period (for example, a week, fortnight, or month) performing the work that would be subject to the proposed restructuring; and
-    (iv) the cost of service-related entitlements of the employees whether legislative or otherwise; and
-    (v) the cost of any other entitlements of the employees in their capacity as employees, including any entitlements already agreed but not due until a future date or time.
+(1) In this subpart,—
+  - **employee transfer costs information** , in relation to a proposed restructuring,—
+    (a) means information about employment-related entitlements of the employees who would be eligible to elect, under section 69I, to transfer to a new employer if the proposed restructuring were to proceed and the new employer were not an exempt employer; and
+    (b) includes—
+      (i) the number of employees who would be eligible to make an election; and
+      (ii) the wages or salary payable in a stated period (for example, a week, fortnight, or month) to the employees for performing the work that would be subject to the proposed restructuring; and
+      (iii) the total number of hours the employees spend in a stated period (for example, a week, fortnight, or month) performing the work that would be subject to the proposed restructuring; and
+      (iv) the cost of service-related entitlements of the employees, whether legislative or otherwise; and
+      (v) the cost of any other entitlements of the employees in their capacity as employees, including any entitlements already agreed but not due until a future date or time
+  - **individualised employee information—**
+    (a) means information about an employee kept by the employee’s employer for employment-related purposes, including—
+      (i) any personnel records relating to the employee; and
+      (ii) information about any disciplinary matters relating to the employee; and
+      (iii) information about any personal grievances raised by the employee against the employer; and
+      (iv) information about an employee that the employee’s employer is required to keep under this Act or any other enactment, for example,—
+        (A) the employee’s individual employment agreement, the current terms and conditions of employment that make up the employee’s individual terms and conditions of employment, or the relevant collective agreement (as the case may be); and
+        (B) a copy of the wages and time record; and
+        (C) a copy of the holiday and leave record; and
+        (D) a copy of the employee’s tax code declaration; and
+        (E) details of any employer contribution (as defined in section 4(1) of the KiwiSaver Act 2006) and any deductions of contributions from the employee’s wages for the purposes of the KiwiSaver Act 2006; and
+        (F) details of any deductions from the employee’s wages made under section 36 of the Student Loan Scheme Act 2011; and
+        (G) details of any deductions from the employee’s wages made under Part 10 of the Child Support Act 1991; but
+    (b) does not include any information about the employee that is subject to a statutory or contractual requirement to maintain confidentiality.
 (2) Any term or expression defined in subpart 1 and used but not defined in this subpart has the same meaning as in subpart 1.
 
 ### 69OC Disclosure of employee transfer costs information
-(1) A request for the disclosure of employee transfer costs information may be made if—
-  (a) disclosure is sought for the purpose of—
-    (i) deciding whether to terminate an agreement or let it expire; or
-    (ii) negotiating an agreement; or
-    (iii) deciding whether to enter into an agreement; or
-    (iv) tendering for an agreement; and
-  (b) a restructuring would result if the agreement were to be—
-    (i) terminated or to expire; or
-    (ii) concluded; or
-    (iii) entered into; or
-    (iv) awarded.
-(2) The persons who may make the request are the persons who would, if the restructuring were to proceed and they were parties to the restructuring, be—
-  (a) person A in the definition of contracting in:
-  (b) person B in the definition of contracting out:
-  (c) person C in the definition of subsequent contracting:
-  (d) the person to whom an employer's business (or part of it) is sold or transferred.
+(1) A request for the disclosure of employee transfer costs information may be made either—
+  (a) where—
+    (i) disclosure is sought for the purpose of—
+      (A) deciding whether to terminate an agreement or let it expire; or
+      (B) negotiating an agreement; or
+      (C) deciding whether to enter into an agreement; or
+      (D) tendering for an agreement; and
+    (ii) a restructuring would result if the agreement were to be—
+      (A) terminated or to expire; or
+      (B) concluded; or
+      (C) entered into; or
+      (D) awarded; or
+  (b) where—
+    (i) the restructuring referred to in paragraph (a)(ii) is a contracting out or a subsequent contracting; and
+    (ii) a subcontractor is engaged, before or at the same time as the restructuring, to perform the work, or some of the work, affected by the restructuring.
+(2) The persons who may make the request are—
+  (a) the persons who would (if they were parties to the restructuring and the restructuring were to proceed) be—
+    (i) person A in a contracting in:
+    (ii) person B in a contracting out:
+    (iii) person C in a subsequent contracting:
+    (iv) the person to whom an employer’s business (or part of it) is sold or transferred:
+  (b) the persons who would (if the restructuring were to proceed and if the work were to be subcontracted before or at the same time as the restructuring) be—
+    (i) a subcontractor engaged to perform the work for person B in a contracting out:
+    (ii) a subcontractor engaged to perform the work for person C in a subsequent contracting.
+(2A) However, an employer or other person that would be an exempt employer if the proposed restructuring were to take effect cannot make a request for disclosure of employee transfer costs information.
 (3) The persons to whom a request may be made are the persons who would, if the restructuring were to proceed and they were parties to the restructuring, be—
   (a) person B in the definition of contracting in:
   (b) person A in the definition of contracting out:
   (c) person A in the definition of subsequent contracting:
   (d) the seller or transferor in the case of the sale or transfer of an employer's business (or part of it).
+(3A) A request for disclosure of employee transfer costs information must be accompanied by a written warranty stating that, on the date on which the warranty is provided, the person making the request is not an exempt employer.
+(3B) If a request is not accompanied by the warranty described in subsection (3A), the person to whom the request is made must decline to provide employee transfer costs information to the person who made the request.
+(3C) A person to whom a request is made for a purpose described in subsection (1)(a) must provide the information in sufficient time for the person who made the request to take the information into account for that purpose.
 (4) A person to whom a request is made under subsection (3) must provide to the person who made the request under subsection (2) employee transfer costs information that relates to the proposed restructuring.
-(5) A person must provide the employee transfer costs information in sufficient time for the person who made the request to take the information into account for the purpose for which it was requested.
+(5)
 (6) Employee transfer costs information provided under this section must be provided—
   (a) in aggregate form; and
   (b) to the extent practicable, in a form that protects the privacy of the employees concerned.
+(7) In subsections (2A) and (3A), exempt employer means an employer who is an exempt employer within the meaning of section 69CA(1)(a) and (b).
 
 ### 69OD Provision of employee transfer costs information by other persons
 (1) Subsection (2) applies to a person who receives a request for employee transfer costs information under section 69OC(3)(a).
@@ -1424,10 +1709,10 @@ The object of this subpart is to provide for the disclosure of employee transfer
 (6) A person required to provide information—
   (a) under subsection (2) or (4) must provide the information—
     (i) to the person who received the request; and
-    (ii) in time for that person to comply with section 69OC(5):
+    (ii) in time for that person to comply with section 69OC(3C):
   (b) under subsection (5) must provide the information—
     (i) to the person who required the information; and
-    (ii) in time for the person who received the request to comply with section 69OC(5).
+    (ii) in time for the person who received the request to comply with section 69OC(3C).
 (7) However, if the subcontractor who is required to provide the information under subsection (2) or (5) does not have some or all of the information requested because the work has been further subcontracted, the subcontractor must immediately provide to the person who required the information any details the subcontractor has about who the other subcontractor is and how to contact the other subcontractor, and (to avoid doubt) subsection (2) or (5) (as the case may require) applies accordingly.
 (8) Employee transfer costs information provided under this section must be provided—
   (a) in aggregate form; and
@@ -1445,6 +1730,24 @@ The object of this subpart is to provide for the disclosure of employee transfer
   (a) the person must, immediately after receiving the up-to-date information, provide it to the person who received the request for the original information; and
   (b) that person must, immediately after receiving the up-to-date information, provide it to the person who made the request for the original information.
 (4) A person is not required to provide up-to-date information if, at the time of the change in the employment-related entitlements or circumstances, a request could not have been made for the information under section 69OC.
+
+### 69OEA Disclosure of individualised employee information
+(1) This section applies if an employee elects to transfer under section 69I to a new employer.
+(2) The employee’s employer must provide the new employer with individualised employee information about the employee.
+(3) The employee's employer must provide the individualised employee information—
+  (a) as soon as practicable; but
+  (b) no later than—
+    (i) the date on which the restructuring takes effect; or
+    (ii) any later date agreed to by the employee's employer and the new employer.
+(4) Subsection (5) applies if—
+  (a) individualised employee information has been provided under subsection (2); and
+  (b) after the provision of the information, there is a change in the matters or circumstances that the information relates to; and
+  (c) the change makes the information provided out of date.
+(5) The employee’s employer must, immediately after the change in the matters or circumstances, provide the new employer with the information details, specifying—
+  (a) the information that is out of date; and
+  (b) what the up-to-date information is.
+(6) Every employer who fails to comply with subsections (2) to (5) is liable to a penalty imposed by the Authority.
+(7) To avoid doubt, the new employer may keep, use, or disclose individualised employee information only in accordance with the Privacy Act 1993.
 
 ### 69OF Employer who is subject to Official Information Act 1982
 Nothing in the Official Information Act 1982 (except section 6) enables an employer that is subject to that Act to withhold information that is requested under this subpart.
@@ -1494,11 +1797,7 @@ If an employer, in relation to a restructuring, arranges for an affected employe
 ### Subpart 4 — Review of Part
 
 ### 69OL Review of operation of Part after 3 years
-(1) The Minister must, as soon as is practicable, 3 years after the commencement of the Employment Relations Amendment Act 2006, require a report to be prepared on—
-  (a) whether the operation of this Part since the commencement of that Act has met the objects specified in sections 69A and 69OH; and
-  (b) if not, whether any amendments to this Part are necessary or desirable to meet those objects.
-(2) The Minister must ensure that the persons and organisations (including representatives of employees and employers), that the Minister thinks appropriate, are consulted during the preparation of the report about the matters to be considered in the report.
-(3) The Minister must present a copy of the report to the House of Representatives.
+[Repealed]
 
 ## Part 6B — Bargaining fees
 
@@ -1593,54 +1892,64 @@ An employer who does not comply with section 69Y is liable to a penalty imposed 
 ## Part 6D — Rest breaks and meal breaks
 
 ### 69ZC Interpretation
-In this Part, unless the context otherwise requires, work period—
-  (a) means the period—
-    (i) beginning with the time when, in accordance with an employee's terms and conditions of employment, an employee starts work; and
-    (ii) ending with the time when, in accordance with an employee's terms and conditions of employment, an employee finishes work; and
-  (b) to avoid doubt, includes all authorised breaks (whether paid or not) provided to an employee or to which an employee is entitled during the period specified in paragraph (a).
+In this Part, unless the context otherwise requires,—
+  - **compensatory measure** —
+    (a) means a measure that is designed to compensate an employee for a failure to provide rest breaks or meal breaks in accordance with section 69ZD(1); and
+    (b) includes (without limitation) a measure that provides the employee with time off work at an alternative time during the employee's work period, for example, by allowing a later start time, an earlier finish time, or an accumulation of time off work that may be taken on 1 or more occasions
+  - **work period—**
+    (a) means the period—
+      (i) beginning with the time when, in accordance with an employee's terms and conditions of employment, an employee starts work; and
+      (ii) ending with the time when, in accordance with an employee's terms and conditions of employment, an employee finishes work; and
+    (b) to avoid doubt, includes all authorised breaks (whether paid or not) provided to an employee or to which an employee is entitled during the period specified in paragraph (a).
 
-### 69ZD Entitlement to rest breaks and meal breaks
-(1) An employee is entitled to, and the employer must provide the employee with, rest breaks and meal breaks in accordance with this Part.
-(2) If an employee's work period is 2 hours or more but not more than 4 hours, the employee is entitled to one 10-minute paid rest break.
-(3) If an employee's work period is more than 4 hours but not more than 6 hours, the employee is entitled to—
-  (a) one 10-minute paid rest break; and
-  (b) one 30-minute meal break.
-(4) If an employee's work period is more than 6 hours but not more than 8 hours, the employee is entitled to—
-  (a) two 10-minute paid rest breaks; and
-  (b) one 30-minute meal break.
-(5) If an employee's work period is more than 8 hours, the employee is entitled to—
-  (a) the same breaks as specified in subsection (4); and
-  (b) the breaks as specified in subsections (2) and (3) as if the employee's work period had started at the end of the eighth hour.
+### 69ZD Employee's entitlement to rest breaks and meal breaks
+(1) An employee is entitled to, and an employer must provide the employee with, rest breaks and meal breaks that—
+  (a) provide the employee with a reasonable opportunity, during the employee's work period, for rest, refreshment, and attention to personal matters; and
+  (b) are appropriate for the duration of the employee's work period.
+(2) The employee's entitlement to rest breaks and meal breaks may be subject to restrictions, but only if the restrictions—
+  (a) are—
+    (i) reasonable and necessary, having regard to the nature of the employee's work; or
+    (ii) if subparagraph (i) does not apply, reasonable and agreed to by the employer and employee (whether in an employment agreement or otherwise); and
+  (b) relate to 1 or more of the following:
+    (i) the employee continuing to be aware of his or her work duties or, if required, continuing to perform some of his or her work duties, during the break:
+    (ii) the circumstances when an employee's break may be interrupted:
+    (iii) the employee taking his or her break in the workplace or at a specified place within the workplace.
+(3) An employee's entitlement to rest breaks under this section is to paid rest breaks.
 
-### 69ZE When employer to provide rest breaks and meal breaks
-(1) Rest breaks and meal breaks are to be observed during an employee's work period—
-  (a) at the times agreed between the employee and his or her employer; but
-  (b) in the absence of such an agreement, as specified in subsections (2) to (5).
-(2) Where section 69ZD(2) applies, an employer must, so far as is reasonable and practicable, provide the employee with the rest break in the middle of the work period.
-(3) Where section 69ZD(3) applies, an employer must, so far as is reasonable and practicable, provide the employee with—
-  (a) the rest break one-third of the way through the work period; and
-  (b) the meal break two-thirds of the way through the work period.
-(4) Where section 69ZD(4) applies, an employer must, so far as is reasonable and practicable, provide the employee with—
-  (a) the meal break in the middle of the work period; and
-  (b) a rest break halfway between—
-    (i) the start of work and the meal break; and
-    (ii) the meal break and the finish of work.
-(5) Where section 69ZD(5) applies, an employer must, so far as is reasonable and practicable, provide the employee with the rest breaks and meal breaks in accordance with the applicable provision in subsections (2) to (4).
+### 69ZE Timing and duration of rest breaks and meal breaks
+(1) An employee must take his or her rest breaks and meal breaks—
+  (a) at the times and for the duration agreed between the employee and his or her employer; but
+  (b) in the absence of such agreement, at the reasonable times and for the reasonable duration specified by the employer.
+(2) For the purposes of subsection (1)(b), an employer may specify reasonable times and durations that, having regard to the employer's operational environment or resources and the employee's interests, enable the employer to maintain continuity of service or production.
+(3) An employer must provide an employee with a reasonable opportunity to negotiate with the employer and reach agreement under subsection (1)(a) on the times when the employee's rest breaks and meal breaks are to be taken and on the duration of the breaks.
+(4) To avoid doubt, subsection (3) does not limit the requirement of the employer and employee to deal with each other in good faith as set out in section 4.
+
+### 69ZEA Compensatory measures
+(1) An employer is exempt from the requirement to provide rest breaks and meal breaks in accordance with section 69ZD(1)—
+  (a) to the extent that the employer and the employee agree that the employee is to be provided with compensatory measures; or
+  (b) if paragraph (a) does not apply, only to the extent that, having regard to the nature of the work performed by the employee, the employer cannot reasonably provide the employee with rest breaks and meal breaks.
+(2) To the extent that an employer is not required to provide rest breaks and meal breaks under subsection (1), an employee is entitled to, and the employee's employer must provide the employee with, compensatory measures.
+
+### 69ZEB Compensatory measure must be reasonable
+(1) A compensatory measure provided to an employee under section 69ZEA must be reasonable.
+(2) To avoid doubt, if an employer provides an employee with a compensatory measure that involves time off work at an alternative time during the employee's work period, that measure is to be treated as complying with subsection (1) if—
+  (a) the employee is provided with an equivalent amount of time off work (that is, the same amount of time that the employee would otherwise have taken as a rest break or meal break); and
+  (b) the time off work at an alternative time is provided on the same basis as the rest break or meal break that the employee would have otherwise taken.
 
 ### 69ZF Penalty
-An employer who does not comply with sections 69ZD and 69ZE is liable to a penalty imposed by the Authority.
+An employer who does not comply with any of sections 69ZD to 69ZEB is liable to a penalty imposed by the Authority.
 
 ### 69ZG Relationship between Part and employment agreements
-(1) This Part does not prevent an employer providing an employee with enhanced or additional entitlements to rest breaks and meal breaks (whether specified in an employment agreement or otherwise) on a basis agreed with the employee.
-(2) An employment agreement that excludes, restricts, or reduces an employee's entitlements under section 69ZD—
+(1) This Part does not prevent an employer from providing an employee with enhanced or additional entitlements to rest breaks and meal breaks (whether specified in an employment agreement or otherwise) on a basis agreed with the employee.
+(2) An employment agreement that excludes or reduces an employee's entitlement to rest breaks and meal breaks under section 69ZD(1) or (3) or 69ZE or to compensatory measures under section 69ZEA—
+  (a) has no effect to the extent that it does so; but
+  (b) is not an illegal contract under the Illegal Contracts Act 1970.
+(3) An employment agreement that restricts an employee's rest breaks or meal breaks otherwise than in accordance with section 69ZD(2)—
   (a) has no effect to the extent that it does so; but
   (b) is not an illegal contract under the Illegal Contracts Act 1970.
 
 ### 69ZH Relationship between Part and other enactments
-(1) Where an employee is provided with, or entitled to, rest breaks or meal breaks under another enactment,—
-  (a) this Part prevails if the breaks provided under this Part are additional or enhanced breaks:
-  (b) the other enactment prevails if the breaks provided under the other enactment are additional or enhanced breaks.
-(2) Despite subsection (1), where an employee is a person who is required to take a rest break by, or under, another enactment, the requirement for a rest break defined by, or under, the other enactment applies instead of the provisions or entitlements for rest breaks or meal breaks provided under this Part.
+Where an employee is a person who is required to take rest breaks or meal breaks by, or under, an enactment other than this Part, the requirement for rest breaks or meal breaks defined by, or under, the other enactment applies instead of this Part.
 
 ## Part 7 — Employment relations education leave
 
@@ -1717,6 +2026,8 @@ In this Part, unless the context otherwise requires,—
 The object of this Part is—
   (a) to recognise that the requirement that a union and an employer must deal with each other in good faith does not preclude certain strikes and lockouts being lawful (as defined in this Part); and
   (b) to define lawful and unlawful strikes and lockouts; and
+  (ba) to provide notice requirements for all strikes and lockouts; and
+  (bb) to provide for specified pay deductions, and to specify how the amount of such deductions must be calculated; and
   (c) to ensure that where a strike or lockout is threatened in an essential service, there is an opportunity for a mediated solution to the problem.
 
 **Interpretation**
@@ -1798,6 +2109,9 @@ Participation in a strike or lockout is lawful if the employees who strike have,
     (i) at least 40 days have passed since the bargaining was initiated; and
     (ii) if on the date bargaining was initiated the employees were bound by the same collective agreement, that collective agreement has expired; and
     (iii) if on that date the employees were bound by different collective agreements, at least 1 of those collective agreements has expired; or
+  (ba) occurs in a situation where,—
+    (i) in the case of a strike, the employee has failed to comply with the notice requirements in section 86A or 93, as the case may be:
+    (ii) in the case of a lockout, the employer has failed to comply with the notice requirements in section 86B or 94, as the case may be; or
   (c) relates to a personal grievance; or
   (d) relates to a dispute; or
   (da) relates to a bargaining fee clause or proposed bargaining fee clause under Part 6B; or
@@ -1808,6 +2122,51 @@ Participation in a strike or lockout is lawful if the employees who strike have,
   (a) to an aspect of a collective agreement in respect of which the right to strike or lock out, as the case may be, is available under a declaration made by the court under section 192(2)(c); or
   (b) to a collective agreement that is still in force after the first of the collective agreements referred to in subsection (1)(b)(iii) has expired, for so long as that bargaining continues.
 (3) For the purposes of this section, in determining whether a collective agreement is in force or has expired section 53 is not to be taken into account.
+
+**Notice of strike or lockout**
+
+### 86A Notice of strike
+(1) No employees may strike—
+  (a) unless participation in the strike is lawful under section 83 or 84; and
+  (b) without having given to the employees' employer and to the chief executive notice of the employees' intention to strike; and
+  (c) before the date and time specified in the notice as the date and time on which the strike will begin.
+(2) The notice required under subsection (1) must—
+  (a) be in writing; and
+  (b) specify the following information:
+    (i) the period of notice given; and
+    (ii) the nature of the proposed strike, including whether or not it will be continuous; and
+    (iii) the place or places where the proposed strike will occur; and
+    (iv) the date and time on which the strike will begin; and
+    (v) the date and time on which, or an event on the occurrence of which, the strike will end.
+(3) The notice—
+  (a) must be signed by a representative of the employees' union on the employees' behalf:
+  (b) need not specify the names of the employees on whose behalf it is given if it is expressed to be given on behalf of all employees who—
+    (i) are members of a union that is a party to the bargaining; and
+    (ii) are covered by the bargaining; and
+    (iii) are employed in the relevant part of the workplace or at any particular place or places where the work is carried on.
+(4) To avoid doubt, this section does not apply if notice is required under any of the following provisions:
+  (a) section 90 (strikes in essential services):
+  (b) section 93 (procedure to provide public with notice before strike in certain passenger transport services):
+  (c) section 74AC of the State Sector Act 1988 (strikes in schools to be notified).
+
+### 86B Notice of lockout
+(1) No employer may lock out any employees—
+  (a) unless participation in the lockout is lawful under section 83 or 84; and
+  (b) without having given to the employees' union or unions and to the chief executive notice of the employer's intention to lock out; and
+  (c) before the date and time specified in the notice as the date and time on which the lockout will begin.
+(2) The notice required under subsection (1) must—
+  (a) be in writing; and
+  (b) specify the following information:
+    (i) the period of notice given; and
+    (ii) the nature of the proposed lockout, including whether or not it will be continuous; and
+    (iii) the place or places where the proposed lockout will occur; and
+    (iv) the date and time on which the lockout will begin; and
+    (v) the date and time on which, or an event on the occurrence of which, the lockout will end; and
+    (vi) the names of the employees who will be locked out.
+(3) The lockout notice must be signed by the employer or on the employer's behalf.
+(4) To avoid doubt, this section does not apply if notice is required under any of the following provisions:
+  (a) section 91 (lockouts in essential services):
+  (b) section 94 (procedure to provide public with notice before lockout in certain passenger transport services).
 
 **Suspension of employees during strikes**
 
@@ -1837,7 +2196,7 @@ Where an employer suspends an employee under section 87 or section 88, the emplo
   (a) unless participation in the strike is lawful under section 83 or section 84; and
   (b) if subsection (2) applies,—
     (i) without having given to his or her employer and to the chief executive, within 28 days before the date of the commencement of the strike, notice in writing of his or her intention to strike; and
-    (ii) before the date specified in the notice as the date on which the strike will begin.
+    (ii) before the date and time specified in the notice as the date and time on which the strike will begin.
 (2) The requirements specified in subsection (1)(b) apply if—
   (a) the proposed strike will affect the public interest, including (without limitation) public safety or health; and
   (b) the proposed strike relates to bargaining of the type specified in section 83(b).
@@ -1847,7 +2206,8 @@ Where an employer suspends an employee under section 87 or section 88, the emplo
     (ii) no less than 3 days in the case of an essential service described in Part B of Schedule 1; and
   (b) the nature of the proposed strike, including whether or not the proposed action will be continuous; and
   (c) the place or places where the proposed strike will occur; and
-  (d) the date on which the strike will begin.
+  (d) the date and time on which the strike will begin; and
+  (e) the date and time on which, or an event on the occurrence of which, the strike will end.
 (4) The notice—
   (a) must be signed by a representative of the employee's union on the employee's behalf:
   (b) need not specify the names of the employees on whose behalf it is given if it is expressed to be given on behalf of all employees who—
@@ -1860,7 +2220,7 @@ Where an employer suspends an employee under section 87 or section 88, the emplo
   (a) unless participation in the lockout is lawful under section 83 or section 84; and
   (b) if subsection (2) applies,—
     (i) without having given to the employees' union or unions and to the chief executive, within 28 days before the date of commencement of the lockout, notice in writing of the employer's intention to lock out; and
-    (ii) before the date specified in the notice as the date on which the lockout will begin.
+    (ii) before the date and time specified in the notice as the date and time on which the lockout will begin.
 (2) The requirements specified in subsection (1)(b) apply if—
   (a) the proposed lockout will affect the public interest, including (without limitation) public safety or health; and
   (b) the proposed lockout relates to bargaining of the type specified in section 83(b).
@@ -1870,7 +2230,8 @@ Where an employer suspends an employee under section 87 or section 88, the emplo
     (ii) no less than 3 days in the case of an essential service described in Part B of Schedule 1; and
   (b) the nature of the proposed lockout, including whether or not it will be continuous; and
   (c) the place or places where the proposed lockout will occur; and
-  (d) the date on which the lockout will begin; and
+  (d) the date and time on which the lockout will begin; and
+  (da) the date and time on which, or an event on the occurrence of which, the lockout will end; and
   (e) the names of the employees who will be locked out.
 (4) The notice must be signed either by the employer or on the employer's behalf.
 
@@ -1887,7 +2248,8 @@ Where the chief executive receives a notice of intention to strike or lock out u
   (a) the period of notice, being a period of not less than 24 hours; and
   (b) the nature of the proposed strike, including whether or not the proposed action will be continuous; and
   (c) the particular passenger road service or passenger rail service that will be affected by the strike; and
-  (d) the date on which the strike will begin.
+  (d) the date and time on which the strike will begin; and
+  (e) the date and time on which, or an event on the occurrence of which, the strike will end.
 (3) The notice—
   (a) must be signed by a representative of the employee's union; and
   (b) need not specify the names of the employees on whose behalf it is given if it is expressed to be given on behalf of all employees who—
@@ -1905,15 +2267,116 @@ Where the chief executive receives a notice of intention to strike or lock out u
   (a) the period of notice, being a period of not less than 24 hours; and
   (b) the nature of the proposed lockout, including whether or not it will be continuous; and
   (c) the particular passenger road service or passenger rail service that will be affected by the lockout; and
-  (d) the date on which the lockout will begin; and
+  (d) the date and time on which the lockout will begin; and
+  (da) the date and time on which, or an event on the occurrence of which, the lockout will end; and
   (e) the names of the employees who will be locked out.
 (3) The notice must be signed either by the employer or on the employer's behalf.
 (4) An employer engaged in providing a passenger road service or passenger rail service and who intends to lock out any employees who are employed in the service must take all practicable steps to ensure that the public who are likely to be affected are notified of the lockout as soon as possible.
 
-### 95 Penalty for breach of section 93 or section 94
-(1) A union that fails to comply with section 93 is liable to a penalty imposed by the court under this Act.
-(2) An employer who fails to comply with section 93 or section 94 is liable to a penalty imposed by the court under this Act.
-(3) Except as provided in this section, a union or employer is under no liability (whether under this Act or the general law) for a failure to comply with section 93 or section 94.
+### 95 Penalty for breach of section 93(4) or 94(4)
+(1) An employer who fails to comply with section 93(4) or 94(4) is liable to a penalty imposed by the court under this Act.
+(2) Except as provided in this section, an employer is under no liability (whether under this Act or the general law) for a failure to comply with section 93(4) or 94(4).
+
+**Withdrawal of notice of strike or lockout**
+
+### 95AA Withdrawal of notice of strike or lockout
+(1) A strike notice given under section 86A, 90, or 93 may be withdrawn at any time by a representative of the employees' union giving written notice of the withdrawal to—
+  (a) the employees' employer; and
+  (b) the chief executive.
+(2) A lockout notice given under section 86B, 91, or 94 may be withdrawn at any time by the employer or a representative of the employer giving written notice of the withdrawal to—
+  (a) the employees' union or unions; and
+  (b) the chief executive.
+
+**Interpretation**
+
+### 95A Meaning of partial strike and specified pay deduction
+In this Act,—
+  - **partial strike** —
+    (a) means an act of the employees who are a party to the strike in continuing to perform some work for their employer or employers during the strike instead of wholly discontinuing their employment during the strike, and includes without limitation—
+      (i) a partial discontinuance of work through a refusal or failure to accept engagement for work that forms part of the employees' normal duties:
+      (ii) a reduction in the employees' normal performance of work, normal output, or normal rate of work:
+    (b) means an act of the employees who are a party to the strike in breaking their employment agreement, whether or not the act involves any reduction in the employees' normal duties, normal performance of work, normal output, or normal rate of work
+  - **specified pay deduction** means a deduction—
+    (a) made, or to be made, from an employee's salary or wages in accordance with section 95B; and
+    (b) either—
+      (i) calculated in accordance with section 95D(1) and (2); or
+      (ii) imposed at a flat rate of 10% under section 95D(3).
+
+**Specified pay deductions in relation to partial strike**
+
+### 95B Employer may make specified pay deductions in relation to partial strike
+(1) Where there is a partial strike, the employer may make specified pay deductions from the salary or wages of an employee who is a party to the strike.
+(2) However, the employer must not make a specified pay deduction—
+  (a) if the partial strike is lawful on the grounds referred to in section 84 (which relates to lawful strikes on the grounds of safety or health); or
+  (b) if—
+    (i) the employee is paid by piecework; and
+    (ii) the partial strike results in the employee reducing his or her normal output; or
+  (c) if the partial strike involves—
+    (i) a refusal to work overtime; or
+    (ii) a refusal to perform call-out work if the employee would otherwise receive a special payment for performing that work.
+(3) Before making any deduction, the employer must comply with the notice requirements in section 95C.
+(4) The amount of the deduction must be calculated in accordance with section 95D.
+(5) To avoid doubt,—
+  (a) deductions under this section may only relate to the employee's salary or wages that would have been payable for the work performed by that employee had the partial strike not occurred:
+  (b) an employer may make deductions under this section without having to suspend or lock out the employee.
+
+### 95C Notice of specified pay deduction
+(1) Where an employer has received notice of a partial strike, and the employer intends to make specified pay deductions in relation to that strike, the employer must give notice to each employee who is a party to the strike that the employer will make those deductions.
+(2) A notice under subsection (1) must be in writing and must—
+  (a) be given—
+    (i) before the deduction is made; and
+    (ii) within the pay period during which the deduction or (if the deductions are to be ongoing) the first deduction is to be made; and
+  (b) specify the pay period or periods during which deductions will be made.
+(3) Where 2 or more of the employer's employees are parties to a partial strike, the employer may, instead of giving notice to each of those employees, give notice under this section by—
+  (a) providing a single notice to all those employees or their union; or
+  (b) providing a notice, with the same wording, to each of those employees.
+(4) To avoid doubt,—
+  (a) an employer may choose the method of giving notice under this section:
+  (b) the validity of a notice is not affected merely because it is also given to employees who are not subject to the specified pay deduction (for example, non-striking employees):
+  (c) where the partial strike continues over more than 1 pay period, the employer is not required to give notice more than once:
+  (d) a notice under this section is not required to specify the amount or proportion of the pay deduction.
+
+### 95D Calculation of specified pay deduction
+(1) An employer must calculate the amount of a specified pay deduction by—
+  (a) identifying, for the employee or group of employees, the usual hours of work for the day of the partial strike; and
+  (b) identifying the work that the employee or employees will not be performing because of that strike (which must be by reference to the information contained in the relevant strike notice); and
+  (c) estimating how much time the employee or employees would, but for the strike, have spent performing the work referred to in paragraph (b) on the day of the strike; and
+  (d) calculating the time referred to in paragraph (c) as a percentage of the employee's or employees' usual hours of work (as identified for the purposes of paragraph (a)).
+(2) The percentage referred to in subsection (1)(d) is the percentage of the employee's or employees' wages that may be deducted.
+(3) However, despite subsections (1) and (2), an employer may choose, instead of calculating and applying a deduction in accordance with those provisions, to impose a 10% deduction on the employee's or employees' wages, regardless of whether the amount of deduction calculated in accordance with subsection (1) would have been more or less than 10%.
+(4) An employer may make a specified pay deduction under subsection (1) or (3), as the case may be, in respect of a group of employees only if each member of the group performs work of the same, or a similar, nature.
+
+### 95E Relationship between specified pay deduction and minimum wage
+(1) Section 6 of the Minimum Wage Act 1983 must be read as not applying to an employee who receives payment at less than the applicable minimum rate of wages prescribed under section 4, 4A, or 4B of that Act if the payment—
+  (a) is the result of a specified wage deduction; or
+  (b) is, in the case of an employee who is paid by piecework, the result of—
+    (i) the employee being party to a partial strike; and
+    (ii) the employee's normal output being reduced because of the employee being party to that partial strike.
+(2) Subsection (1)(a) applies only in relation to a period during which deductions may be made under sections 95B to 95D.
+
+**Rights of union in relation to specified pay deductions**
+
+### 95F Union may request information about specified pay deduction
+(1) Where an employee or a group of employees considers that the employer has incorrectly made a specified pay deduction in relation to that employee or those employees, the union representing that employee or those employees may request that the employer provide the union with information relied on to make the specified pay deduction under section 95D.
+(2) A request under subsection (1) must—
+  (a) be in writing; and
+  (b) be made as soon as is reasonably practicable after the pay day on which the deduction was first made.
+(3) To avoid doubt, this section does not permit an employee, or a group of employees, to request the information from the employee's, or employees', employer.
+
+### 95G Employer must respond to request for information about specified pay deduction
+(1) Where an employer has received a request under section 95F, the employer must provide the union with—
+  (a) all information relied on by the employer to make the specified pay deduction under section 95D; and
+  (b) an explanation of how the calculation under section 95D(1) and (2), or the 10% deduction under section 95D(3), was applied to make the deduction from the employee's or employees' wages under section 95B.
+(2) The information and explanation required under subsection (1) must be provided—
+  (a) in writing; and
+  (b) as soon as is reasonably practicable after the employer receives the request.
+
+### 95H Resolution of problem relating to specified pay deduction
+(1) Where, having considered the information and explanation provided under section 95G, the employee or group of employees is not satisfied that the specified pay deduction was made correctly, the union, on behalf of that employee or those employees, must give the employer notice of that fact, and the matter must be dealt with as an employment relationship problem.
+(2) The notice under subsection (1) must be provided—
+  (a) in writing; and
+  (b) as soon as is reasonably practicable after the union receives the information and explanation.
+(3) Where the employer and the union are unable to resolve the problem (including by way of mediation), the union may lodge an application with the Authority in accordance with section 158.
 
 **Employer's liability for wages during lockout**
 
@@ -1959,13 +2422,21 @@ If a strike or lockout occurs, the employer of the employees participating in th
 ### 100 Jurisdiction of court in relation to injunctions
 (1) The court has full and exclusive jurisdiction to hear and determine any proceedings issued for the grant of an injunction—
   (a) to stop a strike or lockout that is occurring or to prevent a threatened strike or lockout; or
-  (b) to stop any picketing related to a strike or lockout or to prevent any threatened picketing related to a strike or lockout.
+  (b) to stop any picketing related to a strike or lockout or to prevent any threatened picketing related to a strike or lockout; or
+  (c) to stop a specified pay deduction that is being, or is to be, made.
 (2) No other court has jurisdiction to hear and determine any action or proceedings seeking the grant of an injunction—
   (a) to stop a strike or lockout that is occurring or to prevent a threatened strike or lockout; or
-  (b) to stop any picketing related to a strike or lockout or to prevent any threatened picketing related to a strike or lockout.
+  (b) to stop any picketing related to a strike or lockout or to prevent any threatened picketing related to a strike or lockout; or
+  (c) to stop a specified pay deduction that is being, or is to be, made.
 (3) Where any action or proceedings seeking the grant of an injunction to stop a strike or lockout or to prevent a threatened strike or lockout are commenced in the court, and the court is satisfied that participation in the strike or lockout is lawful under section 83 or section 84,—
   (a) the court must dismiss that action or those proceedings; and
   (b) no proceedings seeking the grant of an injunction to stop that strike or lockout or to prevent that threatened strike or lockout may be commenced in the District Court or the High Court.
+(4) Subsection (5) applies where any action or proceedings seeking the grant of an injunction to stop a specified pay deduction that is being, or is to be, made are commenced in the court, and the court is satisfied that—
+  (a) notice has been given in accordance with section 95C; and
+  (b) the deduction has been correctly calculated in accordance with section 95D.
+(5) Where the court is satisfied of the matters specified in subsection (4)(a) and (b),—
+  (a) the court must dismiss that action or those proceedings; and
+  (b) no proceedings seeking the grant of an injunction to stop that specified pay deduction being made may be commenced in the District Court or the High Court.
 
 ## Part 8A — Codes of employment practice and code of good faith for public health sector
 
@@ -2439,25 +2910,27 @@ Where the remedy of reinstatement is provided by the Authority or the court, the
   (d) order that the person in default be fined a sum not exceeding $40,000:
   (e) order that the property of the person in default be sequestered.
 
-### 140A Compliance order in relation to disclosure of employee transfer costs information
+### 140A Compliance order in relation to disclosure of employee transfer costs information and individualised employee information
 (1) This section applies where—
-  (a) any person has not observed or complied with section 69OC, 69OD, or 69OE; or
-  (b) there are reasonable grounds to believe that a person will not observe or comply with section 69OC, 69OD, or 69OE.
+  (a) any person has not observed or complied with section 69OC, 69OD, 69OE, or 69OEA; or
+  (b) there are reasonable grounds to believe that a person will not observe or comply with section 69OC, 69OD, 69OE, or 69OEA.
 (2) Where this section applies, the Authority may, in addition to any other power it may exercise, by order require that person to do any specified thing or to cease any specified activity for the purpose of preventing—
-  (a) further non-observance of or non-compliance with section 69OC, 69OD, or 69OE; or
-  (b) non-observance of or non-compliance with section 69OC, 69OD, or 69OE.
+  (a) further non-observance of or non-compliance with section 69OC, 69OD, 69OE, or 69OEA; or
+  (b) non-observance of or non-compliance with section 69OC, 69OD, 69OE, or 69OEA.
 (3) The Authority must specify a time within which the order is to be obeyed.
 (4) An application to the Authority for an order of the kind described in subsection (2) may be made by the following persons:
   (a) a person who has made or proposes to make a request under section 69OC(2):
   (b) a person who has required another person to provide information under section 69OD(2), (4), or (5):
+  (ba) the new employer to whom individualised employee information must be provided under section 69OEA:
+  (bb) the employee to whom the individualised employee information referred to in section 69OEA relates:
   (c) an employee who would be eligible to elect to transfer to the new employer under section 69I:
   (d) a union of which the employee is a member.
-(5) Where a person alleges that a person has been or would be affected by non-observance of or non-compliance with section 69OC, 69OD, or 69OE, that person may take action against another person by applying to the Authority for an order of the kind described in subsection (2).
+(5) Where a person alleges that a person has been or would be affected by non-observance of or non-compliance with section 69OC, 69OD, 69OE, or 69OEA, that person may take action against another person by applying to the Authority for an order of the kind described in subsection (2).
 (6) The power given to the Authority by subsection (2) may be exercised by the Authority—
   (a) of its own motion; or
   (b) on the application of a person described in subsection (4).
 (7) Sections 138(2) to (4), (5), and (6), 140(6), and 161 apply, with all necessary modifications, to a compliance order under subsection (2) as if the compliance order were a compliance order made under section 137(2).
-(8) For the purposes of section 161(1), any non-observance of or non-compliance with or proposed non-observance of or non-compliance with section 69OC, 69OD, or 69OE or failure to comply with a compliance order under subsection (2) is to be treated as if it were an employment relationship problem.
+(8) For the purposes of section 161(1), any non-observance of or non-compliance with or proposed non-observance of or non-compliance with section 69OC, 69OD, 69OE, or 69OEA or failure to comply with a compliance order under subsection (2) is to be treated as if it were an employment relationship problem.
 
 **Enforcement of order**
 
@@ -2686,6 +3159,7 @@ Proceedings before the Authority are to be commenced by the lodging of an applic
 ### 159A Duty of Authority to prioritise previously mediated matters
 (1) This section applies if a matter comes before the Authority for investigation and determination and an attempt has been made to resolve the matter by mediation.
 (2) The Authority must give priority to investigating and determining the matter referred to in subsection (1) over any other matters in which mediation has not been used unless the Authority considers that providing mediation services would be inappropriate having regard to section 159(1) or (1A).
+(3) Despite subsection (2), the Authority may give priority to proceedings referred to in section 161(1)(la) over other matters, even if no attempt has been made to resolve the subject matter of those proceedings by mediation.
 
 ### 160 Powers of Authority
 (1) The Authority may, in investigating any matter,—
@@ -2707,17 +3181,20 @@ Proceedings before the Authority are to be commenced by the lodging of an applic
   (c) matters about whether a person is an employee (not being matters arising on an application under section 6(5)):
   (ca) facilitating bargaining under sections 50A to 50I:
   (cb) fixing the provisions of a collective agreement under section 50J:
+  (cba) determining whether bargaining has concluded under section 50K:
   (cc) determining whether an employer has complied with section 69AAE:
   (d) matters alleged to arise under section 68 because a party to an individual employment agreement has bargained unfairly:
   (da) investigating bargaining under section 69O and, if necessary, determining redundancy entitlements under that section:
   (e) personal grievances:
   (f) matters about whether the good faith obligations imposed by this Act (including those that apply where a union and an employer bargain for a collective agreement) have been complied with in a particular case:
   (g) matters about the recovery of wages or other money under section 131:
+  (ga) determining the apportionment of liability for the costs of service-related entitlements under section 69LB(4):
   (h) matters about whether the rules of a union, or of an incorporated society that wishes to register as a union, comply with the provisions of this Act:
   (i) matters about whether an incorporated society is entitled to register under this Act as a union or is entitled to continue to be so registered:
   (j) matters about whether a person is entitled to be a member of a union:
   (k) matters related to a failure by a union to comply with its rules:
   (l) any proceedings related to a strike or lockout (other than those founded on tort or seeking an injunction):
+  (la) any proceedings related to the application of section 95D:
   (m) actions for the recovery of penalties—
     (i) under this Act for a breach of an employment agreement:
     (ii) under this Act for a breach of any provision of this Act (being a provision that provides for the penalty to be recovered in the Authority):
@@ -2732,7 +3209,7 @@ Proceedings before the Authority are to be commenced by the lodging of an applic
   (qb) reviews under section 30 of the Patents Act 2013:
   (r) any other action (being an action that is not directly within the jurisdiction of the court) arising from or related to the employment relationship or related to the interpretation of this Act (other than an action founded on tort):
   (s) determinations under such other powers and functions as are conferred on it by this or any other Act.
-(2) Except as provided in subsection (1)(ca), (cb), (d), (da), and (f), the Authority does not have jurisdiction to make a determination about any matter relating to—
+(2) Except as provided in subsection (1)(ca), (cb), (cba), (d), (da), and (f), the Authority does not have jurisdiction to make a determination about any matter relating to—
   (a) bargaining; or
   (b) the fixing of new terms and conditions of employment.
 (3) Except as provided in this Act, no court has jurisdiction in relation to any matter that, under subsection (1), is within the exclusive jurisdiction of the Authority.
@@ -2779,6 +3256,20 @@ The provisions of Schedule 2 have effect in relation to the Authority and matter
   (a) issue instructions (not inconsistent with this Act or regulations made under it) that outline expectations in respect of the process, timeliness, or any other matter relating to the hearing and determination of matters before the Authority; and
   (b) require particular members of the Authority to investigate particular matters.
 (3) For the purposes of section 169(3), the Chief of the Authority may provide a report to the Minister in respect of any member of the Authority in regard to the member's adherence to and compliance with any instructions issued under subsection (2)(a).
+
+### 166B Delegation of Chief of Authority’s functions, duties, or powers
+(1) The Chief of the Authority must ensure that an appropriate delegation is at all times in place under this section to enable 1 member of the Authority to act in place of the Chief of the Authority during—
+  (a) any absence or incapacity of the Chief of the Authority; or
+  (b) any vacancy in the office of Chief of the Authority.
+(2) A delegation under this section—
+  (a) must be in writing; and
+  (b) may be made subject to any restrictions and conditions that the Chief of the Authority thinks fit; and
+  (c) may include a power to subdelegate any function, duty, or power to any other member of the Authority; and
+  (d) is revocable at any time, by notice in writing.
+(3) The person to whom any functions, duties, or powers are delegated under this section may perform or exercise them in the same manner and with the same effect as if they had been conferred on the person directly by this Act and not by delegation.
+(4) A person purporting to act under any delegation under this section is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
+(5) No delegation under this section affects or prevents the performance or exercise of any function, duty, or power by the Chief of the Authority, or affects the responsibility of the Chief of the Authority for the actions of any person acting under the delegation.
+(6) A delegation, until it is revoked, continues to have effect according to its terms even if the Chief of the Authority by whom it was made has ceased to hold office.
 
 ### 167 Appointment of members
 Each member of the Authority is to be appointed by the Governor-General on the recommendation of the Minister.
@@ -2836,10 +3327,48 @@ Each member of the Authority must, before entering on the exercise of any of his
   (a) the Authority must continue to investigate and determine the matter; and
   (b) either party to the problem may request that the matter be further investigated and determined by a member other than the member who made the recommendation.
 (5) If a party does not give notice under subsection (3), the recommendation becomes final and must be treated as the Authority's determination of the matter.
-(6) However, a recommendation under subsection (5) need not comply with section 174(a) (which relates to the content of a determination made by the Authority).
+(6) However, a recommendation under subsection (5) need not comply with section 174E(a) (which relates to the content of a determination made by the Authority).
 
-### 174 Determinations
-In recording its determination on any matter before it, the Authority, for the purpose of delivering speedy, informal, and practical justice to the parties,—
+### 174 Authority must give oral determination or oral indication of preliminary findings wherever practicable
+At the conclusion of an investigation meeting, the Authority must, wherever practicable,—
+  (a) give its determination on the matter orally; or
+  (b) give an oral indication of its preliminary findings on the matter.
+
+### 174A Oral determinations
+(1) If the Authority gives an oral determination under section 174(a), it must—
+  (a) express its conclusions on the matters or issues it considers require determination in order to dispose of the matter; and
+  (b) state any relevant findings of fact or law to the extent that it considers it necessary to do so in order to explain its conclusions; and
+  (c) specify what orders (if any) it is making.
+(2) The Authority must record an oral determination in writing as soon as practicable and not later than 1 month after the date on which the investigation meeting concluded.
+(3) However, the Authority may record an oral determination later than the date specified in subsection (2) if the Chief of the Authority decides exceptional circumstances exist.
+(4) The Authority may amend an oral determination when it is recorded under subsection (2) if it is necessary to correct a mistake caused by an error or omission in the determination.
+
+### 174B Oral indication of preliminary findings
+(1) If the Authority gives an oral indication of its preliminary findings under section 174(b), it—
+  (a) must—
+    (i) give an indication of its likely conclusions on the matters or issues it considers require determination in order to dispose of the matter; and
+    (ii) state any likely relevant findings of fact or law to the extent that it considers it necessary to do so in order to explain its likely conclusions; and
+  (b) may express the oral indication of its preliminary findings as being subject to any further evidence or information from the parties or any other person.
+(2) The Authority must provide a written determination in respect of a matter for which it has given an oral indication of its preliminary findings as soon as practicable and not later than the later of the following dates:
+  (a) the day that is 3 months after the date on which the investigation meeting concluded; and
+  (b) the day that is 3 months after the date on which the Authority received the last evidence or information from the parties or other person referred to in subsection (1)(b).
+(3) However, the Authority may provide a written determination in respect of a matter for which it has given an oral indication of its preliminary findings later than the latest date specified in subsection (2) if the Chief of the Authority decides exceptional circumstances exist.
+
+### 174C Authority may reserve determination
+(1) Despite section 174, the Authority may reserve its determination of a matter if it is satisfied that there are good reasons as to why it is not practicable for it to provide an oral determination or an oral indication of its preliminary findings at the conclusion of the investigation meeting.
+(2) If the Authority reserves its determination of a matter under subsection (1), it may, before providing a written determination of its findings in accordance with subsection (3), require the parties or any other person to provide any further evidence or information that the Authority thinks fit.
+(3) If the Authority reserves its determination of a matter under subsection (1), it must provide a written determination of its findings as soon as practicable and not later than the later of the following dates:
+  (a) the day that is 3 months after the date on which the investigation meeting concluded; and
+  (b) the day that is 3 months after the date on which the Authority received the last evidence or information from the parties or any other person.
+(4) However, the Authority may provide a written determination of its findings later than the latest date specified in subsection (3) if the Chief of the Authority decides exceptional circumstances exist.
+
+### 174D Authority may determine matter without holding investigation meeting
+(1) Despite sections 174 and 174C, the Authority may determine a matter without holding an investigation meeting.
+(2) If the Authority determines a matter without holding an investigation meeting, it must provide a written determination of its findings as soon as practicable and not later than the day that is 3 months after the date on which the Authority received the last evidence or information from the parties or any other person.
+(3) However, the Authority may provide a written determination of its findings later than the latest date specified in subsection (2) if the Chief of the Authority decides exceptional circumstances exist.
+
+### 174E Content of written determinations
+A written determination provided by the Authority in accordance with section 174A(2), 174B(2), 174C(3), or 174D(2)—
   (a) must—
     (i) state relevant findings of fact; and
     (ii) state and explain its findings on relevant issues of law; and
@@ -2889,8 +3418,8 @@ The Authority is to have a seal, which is to be judicially noticed by all courts
 (4) If the court does not determine that the matter is frivolous or vexatious, it must order the Authority to investigate and determine the matter.
 
 ### 179 Challenges to determinations of Authority
-(1) A party to a matter before the Authority who is dissatisfied with the determination of the Authority or any part of that determination may elect to have the matter heard by the court.
-(2) Every election under this section must be made in the prescribed manner within 28 days after the date of the determination of the Authority.
+(1) A party to a matter before the Authority who is dissatisfied with a written determination of the Authority under section 174A(2), 174B(2), 174C(3), or 174D(2) (or any part of that determination) may elect to have the matter heard by the court.
+(2) An election under subsection (1) must be made in the prescribed manner and within 28 days after the date of the determination.
 (3) The election must—
   (a) specify the determination, or the part of the determination, to which the election relates; and
   (b) state whether or not the party making the election is seeking a full hearing of the entire matter (in this Part referred to as a hearing de novo).
@@ -2900,6 +3429,7 @@ The Authority is to have a seal, which is to be judicially noticed by all courts
   (c) the grounds on which the election is made, which grounds are to be specified with such reasonable particularity as to give full advice to both the court and the other parties of the issues involved; and
   (d) the relief sought.
 (5) Subsection (1) does not apply—
+  (aa) to an oral determination or an oral indication of preliminary findings given by the Authority under section 174(a) or (b); and
   (a) to a determination, or part of a determination, about the procedure that the Authority has followed, is following, or is intending to follow; and
   (b) without limiting paragraph (a), to a determination, or part of a determination, about whether the Authority may follow or adopt a particular procedure.
 
@@ -2922,7 +3452,7 @@ The making of an election under section 179 does not operate as a stay of procee
 (1) Where the election states that the person making the election is seeking a hearing de novo, the Authority must, if the court so requests, as soon as practicable, submit to the court a written report giving the Authority's assessment of the extent to which the parties involved in the investigation have—
   (a) facilitated rather than obstructed the Authority's investigation; and
   (b) acted in good faith towards each other during the investigation.
-(2) The court may request a report under subsection (1) only where the court considers, on the basis of the determination made by the Authority under section 174, that any party may not have participated in the Authority's investigation of the matter in a manner that was designed to resolve the issues involved.
+(2) The court may request a report under subsection (1) only where the court considers, on the basis of the determination made by the Authority under section 174A(2), 174B(2), 174C(3), or 174D(2), that any party may not have participated in the Authority's investigation of the matter in a manner that was designed to resolve the issues involved.
 (3) The Authority must, before submitting the report to the court, give each party to the proceedings a reasonable opportunity to supply to the Authority written comments on the draft report.
 (4) A party who supplies written comments to the Authority under subsection (3) must, immediately after doing so, serve a copy of those comments on each other party to the proceedings.
 (5) The Authority must, in submitting the final report to the court, submit with it any written comments received from any party.
@@ -2946,7 +3476,7 @@ The making of an election under section 179 does not operate as a stay of procee
 ### 184 Restriction on review
 (1) Except on the ground of lack of jurisdiction or as provided in section 179, no determination, order, or proceedings of the Authority are removable to any court by way of certiorari or otherwise, or are liable to be challenged, appealed against, reviewed, quashed, or called in question in any court.
 (1A) No review proceedings under section 194 may be initiated in relation to any matter before the Authority unless—
-  (a) the Authority has issued final determinations on all matters relating to the subject of the review application between the parties to the matter; and
+  (a) the Authority has issued a determination under section 174A(2), 174B(2), 174C(3), or 174D(2) (as the case may be) on all matters relating to the subject of the review application between the parties to the matter; and
   (b) (if applicable) the party initiating the review proceedings has challenged the determination under section 179; and
   (c) the court has made a decision on the challenge under section 183.
 (2) For the purposes of subsection (1), the Authority suffers from lack of jurisdiction only where,—
@@ -3459,19 +3989,12 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (ii) the functions of the Authority or the court:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
+### 237AA Chief executive may approve forms
+(1) The chief executive may approve and issue any forms that the chief executive considers necessary for the purposes of this Act, not being forms prescribed by regulations made under this Act.
+(2) Every document purporting to be in a form approved and issued by the chief executive under and for the purposes of this Act is deemed to have been so approved and issued unless the chief executive certifies otherwise.
+
 ### 237A Amendments to Schedule 1A
-(1) The Governor-General may, by Order in Council, amend Schedule 1A to add to, omit from, or vary the categories of employees.
-(2) An Order in Council must not be made under subsection (1) unless made on the recommendation of the Minister.
-(3) The Minister must not make a recommendation under subsection (2) unless the Minister—
-  (a) has received from any person or organisation a request to amend Schedule 1A that specifies the grounds on which it is believed that the criteria in subsection (4) are met; and
-  (b) has received a report from the department that assesses the request; and
-  (c) has provided the department's assessment to, and has consulted, such employers, employees, the representatives of such employers and employees, and such other persons and organisations, as the Minister considers appropriate; and
-  (d) is satisfied that the criteria in subsection (4) are met.
-(4) The criteria are—
-  (a) whether the employees concerned are employed in a sector in which the restructuring of an employer's business occurs frequently:
-  (b) whether the restructuring of employers' businesses in the sector concerned has tended to undermine the employees' terms and conditions of employment:
-  (c) whether the employees concerned have little bargaining power.
-(5) In this section, restructuring has the same meaning as in subpart 1 of Part 6A.
+[Repealed]
 
 ### 238 No contracting out
 The provisions of this Act have effect despite any provision to the contrary in any contract or agreement.
@@ -3563,6 +4086,46 @@ Despite the repeals effected by this Act, the Chief of the Authority may from ti
 (1) The person who immediately before 2 October 2000 holds office as the Chief Judge of the Employment Court constituted by the Employment Contracts Act 1991 is, without further appointment, deemed as from the commencement of that day to have been duly appointed as the Chief Judge of the Employment Court under this Act.
 (2) The persons who immediately before 2 October 2000 hold office as Judges (other than temporary Judges) of the Employment Court constituted under the Employment Contracts Act 1991 are, without further appointment, deemed as from the commencement of that day to have been appointed as Judges of the Employment Court constituted under this Act.
 
+### 254 Application, savings, and transitional provisions relating to amendments to Act
+The application, savings, and transitional provisions set out in Schedule 1AA, which relate to amendments made to this Act after 1 January 2013, have effect for the purposes of this Act.
+
+## Schedule 1AA — Application, savings, and transitional provisions relating to amendments made to this Act after 1 January 2013
+
+### 1 Interpretation
+In this schedule, 2014 Act means the Employment Relations Amendment Act 2014.
+
+### 2 Application, savings, and transitional provisions arising from 2014 Act
+Amendments to section 4 (Parties to employment relationship to deal with each other in good faith)
+(1) Despite the amendments made to section 4 of this Act by section 4 of the 2014 Act, section 4 of this Act (as it was immediately before it was amended by the 2014 Act) continues to apply in relation to proposed decisions referred to in section 4 of this Act—
+  (a) if the proposed decision was notified to the employee before the commencement of the 2014 Act; and
+  (b) whether the final decision on that proposal was made before, on, or after the commencement of the 2014 Act.
+Amendments to Part 5 (Collective bargaining)
+(2) Section 33 of this Act (as replaced by section 9 of the 2014 Act) applies to all bargaining, whether the bargaining commenced before, on, or after the commencement of the 2014 Act.
+(3) Section 53 of this Act (as amended by section 15(1) of the 2014 Act) applies in relation to bargaining commenced by an employer, whether the bargaining commenced before, on, or after the commencement of the 2014 Act.
+Amendments to Part 6AA (Flexible working)
+(4) Part 6AA of this Act (as amended by sections 22 to 30 of the 2014 Act) applies in relation to a request made under that Part before the commencement of the 2014 Act as follows:
+  (a) if the 3 months provided for in section 69AAE of this Act (as it was immediately before it was amended by the 2014 Act) expires within 1 month of the commencement of sections 22 to 30 of the 2014 Act, Part 6AA of this Act (as it was immediately before it was amended by the 2014 Act) continues to apply in relation to that request:
+  (b) if paragraph (a) does not apply, the employer must treat the request as having been made on the commencement of sections 22 to 30 of the 2014 Act, and Part 6AA of this Act (as amended by the 2014 Act) applies in relation to that request.
+Amendments to Part 6A (Continuity of employment if employees' work affected by restructuring)
+(5) Subclause (6) applies to restructurings (within the meaning of Part 6A of this Act as it was immediately before the commencement of the 2014 Act) for which the agreements are concluded before the commencement of the 2014 Act, even if the restructurings they relate to are to take effect after the commencement of the 2014 Act.
+(6) Part 6A of this Act (as it was immediately before the commencement of the 2014 Act) continues to apply to the restructurings as if the 2014 Act had not been passed.
+Amendments to Part 8 (Strikes and lockouts)
+(7) Sections 80, 86, 90, 91, 93, and 94 of this Act (as amended by sections 53, 54, and 56 to 59 of the 2014 Act) and sections 86A and 86B of this Act (as inserted by section 55 of the 2014 Act) apply in relation to strikes and lockouts that commenced before, and continue on or after, the commencement of the 2014 Act as follows:
+  (a) the union or the employer (as the case may be) must give notice in accordance with this Act (as amended by the 2014 Act) on the commencement of the 2014 Act:
+  (b) however, if a notice given by the union or the employer before the commencement of the 2014 Act—
+    (i) complies fully with the notice requirements of this Act (as amended by the 2014 Act), no further notice is required:
+    (ii) complies partly with the notice requirements of this Act (as amended by the 2014 Act), those notice requirements are satisfied by the union or employer providing notice of the additional matters required under this Act (as amended by the 2014 Act), and the provisions of this Act referred to in this subsection must be read accordingly.
+(8) Section 95AA of this Act (as inserted by section 61 of the 2014 Act) applies to a notice—
+  (a) given under subclause (7)(a); or
+  (b) referred to in subclause (7)(b).
+(9) Despite section 95B of this Act (as inserted by section 62 of the 2014 Act), an employer must not make a specified deduction of pay in relation to—
+  (a) any partial strike that ended before the commencement of the 2014 Act; or
+  (b) any period of a partial strike that occurred before the commencement of the 2014 Act.
+Amendments to Part 10 (Institutions)
+(10) Section 174 of this Act (as it was immediately before the 2014 Act) continues to apply to matters commenced in the Authority before the commencement of the 2014 Act as if the 2014 Act had not been passed.
+Repeal of section 237A
+(11) On the commencement of the 2014 Act, any request made under section 237A(3)(a) of this Act lapses and, to avoid doubt, neither the Minister nor any other person is required to take any action, or any further action, in relation to such a request.
+
 ## Schedule 1 — Essential services
 
 ### 1
@@ -3623,7 +4186,9 @@ The production of butter or cheese or of any other product of milk or cream and 
 The provision of Police emergency response services as defined in clause 3 of Schedule 1C.
 
 ### 1
-The holding and preparation of sheep, cattle, goats, pigs, or deer for slaughtering, the slaughtering of such animals, and the subsequent processing of their meat and smallgoods for the domestic market or the export market.
+The holding and preparation of an animal that—
+(a) is a mammal or bird; and
+(b) is held and prepared for the purposes of commercial slaughter and subsequent processing of its meat and offal for human or animal consumption, whether in the domestic market or the export market.
 
 ### 2
 The operation of meat inspection services associated with the slaughtering or supply of meat for domestic consumption.
