@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Amendment Act 2014
-_Consolidation as at 2014-06-06_
+_Consolidation as at 2015-03-06_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Amendment Act 2014.
