@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2015-02-01_
+_Consolidation as at 2015-03-06_
 
 > Title
 
@@ -876,12 +876,15 @@ Except as otherwise provided in this Act, the Employment Relations Act 2000 appl
 (2) The notice required by subsection (1) must state—
   (a) the nature of the proposed strike, including whether or not the proposed action will be continuous; and
   (b) the school or schools that will be affected by the proposed strike; and
-  (c) the period of the proposed strike, which is to be specified by giving the date on which the proposed strike is to commence and the date on which the proposed strike is to end.
+  (c) the period of the proposed strike, which is to be specified by giving—
+    (i) the date and time on which the proposed strike is to commence; and
+    (ii) the date and time on which, or an event on the occurrence of which, the proposed strike is to end.
 (3) The notice must be signed by a representative of the employees' union.
 (4) Unless the notice is withdrawn before the commencement of the strike, every employee is, throughout the period stated in the notice, deemed to participate in the strike if—
   (a) the employee's duties are normally performed in a school affected by the strike; and
   (b) the strike relates to the negotiation of a collective agreement that will bind the employee; and
   (c) the employee's name has not been notified to the Commissioner in a current notice given under section 74AD.
+(4A) A notice required under subsection (1) may be withdrawn at any time by a representative of the employees' union giving written or electronic notice of the withdrawal to the Commissioner and each Board of Trustees.
 (5) The provisions of this section are in addition to, and not in derogation of, the provisions of the Employment Relations Act 2000.
 
 ### 74AD Employers to notify Commissioner about participation in strikes
