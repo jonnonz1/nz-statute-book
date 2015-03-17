@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2015-03-17_
 
 > Title
 
@@ -409,6 +409,18 @@ No provision of this Part limits or affects any other provision of this Part.
   (a) it is woven in, impressed on, worked into, or annexed or affixed to the goods; or
   (b) it is applied to a covering, label, reel, or thing in or with which the goods are supplied.
 (5) For the purposes of this section, a trade mark is not a representation.
+
+**Unfair contract terms**
+
+### 26A Unfair contract terms in standard form consumer contracts
+(1) If a court has declared, under section 46I, that a term in a standard form consumer contract is an unfair contract term, a person must not—
+  (a) include the unfair contract term in a standard form contract (unless the term is included in a way that complies with the terms (if any) of the decision of the court); or
+  (b) apply, enforce, or rely on the unfair contract term in a standard form contract.
+(2) The prohibitions in subsection (1) do not apply to any contract entered into before this section comes into force; but if the contract is varied or renewed on or after this section comes into force, the contract must be treated as a new contract for the purposes of subsection (1).
+(3) However, in the case only of a contract of insurance (as defined in section 7 of the Insurance (Prudential Supervision) Act 2010) entered into before this section comes into force, the prohibitions in subsection (1) do not apply to—
+  (a) the contract; or
+  (b) any variation of the contract; or
+  (c) any new contract that has the effect of operating as a renewal of the contract, and any subsequent renewal.
 
 ## Part 2 — Consumer information
 
@@ -1341,6 +1353,78 @@ A person who breaches a management banning order made against him or her commits
 ### 46G Seeking leave of court
 (1) An application for leave of a District Court under section 46D must be by way of originating application.
 (2) The Commission, and any other persons that the court thinks fit, may attend and be heard at the hearing of the application.
+
+**Declaration of unfair contract terms**
+
+### 46H Application by Commission for declaration of unfair contract term
+(1) The Commission may apply to the High Court or a District Court (at the choice of the Commission) for a declaration under section 46I that a term in a standard form consumer contract is an unfair contract term.
+(2) Any person may ask the Commission to apply to a court for a declaration under section 46I in relation to a contract to which the person is a party.
+
+### 46I Declaration of unfair contract terms
+(1) The High Court or a District Court may, on application by the Commission, declare that a term in a standard form consumer contract is an unfair contract term.
+(2) The court may make the declaration only if it is satisfied that—
+  (a) the term is in a contract that is a consumer contract; and
+  (b) the consumer contract is a standard form contract (as determined in accordance with section 46J); and
+  (c) the declaration is not prohibited by section 46K(1); and
+  (d) the term is unfair in the sense described in section 46L.
+(3) A declaration under this section—
+  (a) must identify the contract to which it applies by reference to at least 1 of the parties to the contract; and
+  (b) may describe the context or conditions in which the term's inclusion in a standard form contract means that the term is an unfair contract term.
+
+### 46J Standard form contracts
+(1) A court may determine that any contract in which the terms (other than terms referred to in section 46K) have not been subject to effective negotiation between the parties is a standard form contract.
+(2) In determining whether a contract is a standard form contract, the court must (without limitation) take into account the following:
+  (a) whether one of the parties has all or most of the bargaining power relating to the transaction:
+  (b) whether the contract was prepared by one or more parties before any discussion relating to the transaction occurred with the other party or parties:
+  (c) whether 1 or more of the parties was, in effect, required either to accept or reject the terms of the contract (other than terms referred to in section 46K) in the form in which they were presented:
+  (d) the extent to which the parties had an effective opportunity to negotiate the terms (other than terms referred to in section 46K) of the contract:
+  (e) the extent to which the terms of the contract take into account the specific characteristics of any party to the contract.
+(3) If a party to a proceeding alleges that a contract is a standard form contract, the contract is presumed to be a standard form contract unless any other party to the proceedings proves otherwise.
+
+### 46K Terms that may not be declared to be unfair contract terms
+(1) A court may not declare a term in a standard form consumer contract to be an unfair contract term to the extent that the term—
+  (a) defines the main subject matter of the contract; or
+  (b) sets the upfront price payable under the contract; or
+  (c) is a term required or expressly permitted by any enactment.
+(2) In this section, upfront price means the consideration (including any consideration that is contingent upon the occurrence or non-occurrence of a particular event) payable under the contract, but only to the extent that the consideration is set out in a term that is transparent.
+
+### 46L When term in consumer contract is unfair
+(1) A term in a consumer contract is unfair if the court is satisfied that the term—
+  (a) would cause a significant imbalance in the parties' rights and obligations arising under the contract; and
+  (b) is not reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term; and
+  (c) would cause detriment (whether financial or otherwise) to a party if it were applied, enforced, or relied on.
+(2) In determining whether a term of a consumer contract is unfair, the court may take into account any matters it thinks relevant, but must take into account—
+  (a) the extent to which the term is transparent; and
+  (b) the contract as a whole.
+(3) For the purpose of subsection (1)(b), a term in a consumer contract must be presumed not to be reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term, unless that party proves otherwise.
+(4) For the purpose of subsection (1)(b), and despite anything in section 46M, in relation to contracts of insurance only, the following terms must be taken to be terms that are reasonably necessary in order to protect the legitimate interests of the insurer:
+  (a) a term that identifies the uncertain event or that otherwise specifies the subject matter insured or the risk insured against:
+  (b) a term that specifies the sum or sums insured or assured:
+  (c) a term that excludes or limits the liability of the insurer to indemnify the insured on the happening of certain events or on the existence of certain circumstances:
+  (d) a term that describes the basis on which claims may be settled or that specifies any contributory sum due from, or amount to be borne by, an insured in the event of a claim under the contract of insurance:
+  (e) a term that provides for the payment of the premium:
+  (f) a term relating to the duty of utmost good faith that applies to parties to a contract of insurance:
+  (g) a term specifying requirements for disclosure, or relating to the effect of non-disclosure or misrepresentation, by the insured.
+(5) In subsection (4),—
+  - **contract of insurance** has the meaning given in section 7 of the Insurance (Prudential Supervision) Act 2010
+  - **premium** has the meaning given in section 6 of the Insurance (Prudential Supervision) Act 2010
+  - **uncertain event** has the meaning given in section 7 of the Insurance (Prudential Supervision) Act 2010.
+
+### 46M Examples of unfair contract terms
+Without limiting section 46I, the following are examples of the kind of terms that, if in a consumer contract, may be unfair contract terms:
+  (a) a term that permits, or has the effect of permitting, one party (but not another party) to avoid or limit performance of the contract:
+  (b) a term that permits, or has the effect of permitting, one party (but not another party) to terminate the contract:
+  (c) a term that penalises, or has the effect of penalising, one party (but not another party) for a breach or termination of the contract:
+  (d) a term that permits, or has the effect of permitting, one party (but not another party) to vary the terms of the contract:
+  (e) a term that permits, or has the effect of permitting, one party (but not another party) to renew or not renew the contract:
+  (f) a term that permits, or has the effect of permitting, one party to vary the upfront price (as defined in section 46K(2)) payable under the contract without the right of another party to terminate the contract:
+  (g) a term that permits, or has the effect of permitting, one party unilaterally to vary the characteristics of the goods or services to be supplied, or the interest in land to be sold or granted, under the contract:
+  (h) a term that permits, or has the effect of permitting, one party unilaterally to determine whether a contract has been breached or to interpret its meaning:
+  (i) a term that limits, or has the effect of limiting, one party's vicarious liability for its agents:
+  (j) a term that permits, or has the effect of permitting, one party to assign the contract to the detriment of another party without that other party's consent:
+  (k) a term that limits, or has the effect of limiting, one party's right to sue another party:
+  (l) a term that limits, or has the effect of limiting, the evidence one party can adduce in proceedings relating to the contract:
+  (m) a term that imposes, or has the effect of imposing, the evidential burden on one party in proceedings relating to the contract.
 
 ## Part 6 — Miscellaneous provisions
 
