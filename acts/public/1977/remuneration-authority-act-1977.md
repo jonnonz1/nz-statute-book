@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-03-20_
 
 > Title
 
@@ -20,6 +20,9 @@ In this Act, unless the context otherwise requires,—
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
+
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 4 Establishment of Remuneration Authority
 (1) There is hereby established an authority to be called the Remuneration Authority.
@@ -72,23 +75,23 @@ There shall from time to time be appointed by the chief executive of the Departm
     (iii)
     (iv)
     (v) the remuneration of the officers specified in Schedule 4:
-    (va) remuneration in accordance with section 47(1)(b) of the Crown Entities Act 2004:
+    (va) remuneration in accordance with section 47(1)﻿(b) of the Crown Entities Act 2004:
     (vi)
   (b) to consider and make determinations with respect to the superannuation rights and obligations of the members of the House of Representatives who are contributors under Part 6 of the Government Superannuation Fund Act 1956, being rights fixed at the commencement of this Act by that Part and other provisions of that Act:
   (ba) to consider and make determinations with respect to the superannuation rights and obligations of those members of the House of Representatives who are not contributors under Part 6 of the Government Superannuation Fund Act 1956:
   (bb) to determine issues about how any provision of a determination is to be interpreted or applied or is to operate:
   (c) to carry out such other functions as may be conferred or imposed on it by this Act or any other enactment.
-(2) In carrying out its functions under subsection (1)(a), the Authority may fix scales of salaries and scales of allowances or ranges of rates of remuneration or alternative forms of remuneration within a remuneration package for any position, and may prescribe rules governing the application of any such scales of salaries or allowances, or ranges of rates of remuneration, or alternative forms of remuneration within a remuneration package fixed by it.
-(2A) The Authority shall, in making a determination under subsection (1)(ba), determine—
+(2) In carrying out its functions under subsection (1)﻿(a), the Authority may fix scales of salaries and scales of allowances or ranges of rates of remuneration or alternative forms of remuneration within a remuneration package for any position, and may prescribe rules governing the application of any such scales of salaries or allowances, or ranges of rates of remuneration, or alternative forms of remuneration within a remuneration package fixed by it.
+(2A) The Authority shall, in making a determination under subsection (1)﻿(ba), determine—
   (a) the maximum amount that in any year may be paid by way of superannuation subsidy (which amount must be the same for all members but which may be expressed as a specified monetary amount or as a percentage of an ordinary member's salary as the Authority determines) in respect of those members of the House of Representatives who choose to contribute to any retirement scheme; and
   (b) the contribution that the member must make to that retirement scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the member's contribution.
-(2AB) For the avoidance of doubt, the superannuation subsidy may only be paid in accordance with subsection (2A)(a) if a member makes a contribution in the actual year to which the subsidy relates, and a member may not, in any year, make a lump sum payment of contributions in respect of past years and claim an entitlement to a subsidy in respect of the contributions paid in that year that relates to past years.
-(2B) For the avoidance of doubt, it is hereby declared that the Crown's liability to any retirement scheme to which a member referred to in subsection (1)(ba) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (2A).
+(2AB) For the avoidance of doubt, the superannuation subsidy may only be paid in accordance with subsection (2A)﻿(a) if a member makes a contribution in the actual year to which the subsidy relates, and a member may not, in any year, make a lump sum payment of contributions in respect of past years and claim an entitlement to a subsidy in respect of the contributions paid in that year that relates to past years.
+(2B) For the avoidance of doubt, it is hereby declared that the Crown's liability to any retirement scheme to which a member referred to in subsection (1)﻿(ba) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (2A).
 (2C)
 (3) Except as provided in this Act, where the remuneration due to any person is fixed under this Act, no amount in excess of the remuneration so fixed for the time being shall be granted to any person on account of that remuneration.
 
 ### 12A Remuneration
-(1) Notwithstanding anything in this Act, where the Authority has jurisdiction to determine the salary of any persons or group of persons pursuant to any subparagraph of section 12(1)(a) (other than subparagraph (i)), the Authority may, in relation to any such person or to any member of that group of persons,—
+(1) Notwithstanding anything in this Act, where the Authority has jurisdiction to determine the salary of any persons or group of persons pursuant to any subparagraph of section 12(1)﻿(a) (other than subparagraph (i)), the Authority may, in relation to any such person or to any member of that group of persons,—
   (a) determine at any time that no remuneration may be paid to him in addition to that salary:
   (b) determine at any time what remuneration or class of remuneration may be paid to him in addition to that salary:
   (c) determine at any time the rates of any remuneration or class of remuneration that may be paid to him in addition to that salary or the criteria by which, or the limits within which, those rates are to be fixed.
@@ -96,17 +99,17 @@ There shall from time to time be appointed by the chief executive of the Departm
 (3)
 
 ### 12AA Superannuation
-(1) Notwithstanding anything in this Act or any other Act, where the Authority has jurisdiction to determine the salary or remuneration of any person or group of persons pursuant to any subparagraph of section 12(1)(a) (other than subparagraph (i)), the Authority may determine, but shall not be obliged to determine, in relation to any such person or to any member of any such group of persons,—
+(1) Notwithstanding anything in this Act or any other Act, where the Authority has jurisdiction to determine the salary or remuneration of any person or group of persons pursuant to any subparagraph of section 12(1)﻿(a) (other than subparagraph (i)), the Authority may determine, but shall not be obliged to determine, in relation to any such person or to any member of any such group of persons,—
   (a) the maximum amount that in any year may be paid by way of superannuation subsidy in respect of any such person or member who chooses to contribute to any retirement scheme; and
   (b) the contribution that any such person or member must make to a retirement scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the person's or member's contribution.
-(2) Any maximum amount determined under subsection (1)(a) may be expressed as either a specified monetary amount or a percentage of salary, either of which may vary according to any category of person or member.
-(3) Any determination made under subsection (1)(a), and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
+(2) Any maximum amount determined under subsection (1)﻿(a) may be expressed as either a specified monetary amount or a percentage of salary, either of which may vary according to any category of person or member.
+(3) Any determination made under subsection (1)﻿(a), and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
 (4) Every such determination, and every provision of any such determination, in respect of which no date is specified shall come into force on the date of the making of the determination.
-(5) Where the salary of any person to whom a determination made under subsection (1)(a) relates is payable out of public money, any superannuation subsidy required or allowed for by the determination may in accordance with, and within any limits prescribed by, the determination be paid out of public money without further appropriation than this section.
+(5) Where the salary of any person to whom a determination made under subsection (1)﻿(a) relates is payable out of public money, any superannuation subsidy required or allowed for by the determination may in accordance with, and within any limits prescribed by, the determination be paid out of public money without further appropriation than this section.
 (6) For the avoidance of doubt, it is hereby declared—
-  (a) that any determination made under subsection (1)(a) may specify conditions that, in addition to the condition specified in subsection (1)(b), must be complied with before a superannuation subsidy or a superannuation subsidy of a specific amount or a specified maximum amount is payable:
-  (b) that any determination made under subsection (1)(a) may, directly or by defining a category of persons or by reference to specified circumstances, specify persons or classes of persons to whom or circumstances in which the determination is not to apply:
-  (c) that where any employer or other person is, in accordance with a determination under subsection (1)(a), liable to pay a subsidy to a retirement scheme, the liability imposed on that employer or other person by that determination shall not, in relation to that scheme, exceed the amount of that subsidy.
+  (a) that any determination made under subsection (1)﻿(a) may specify conditions that, in addition to the condition specified in subsection (1)﻿(b), must be complied with before a superannuation subsidy or a superannuation subsidy of a specific amount or a specified maximum amount is payable:
+  (b) that any determination made under subsection (1)﻿(a) may, directly or by defining a category of persons or by reference to specified circumstances, specify persons or classes of persons to whom or circumstances in which the determination is not to apply:
+  (c) that where any employer or other person is, in accordance with a determination under subsection (1)﻿(a), liable to pay a subsidy to a retirement scheme, the liability imposed on that employer or other person by that determination shall not, in relation to that scheme, exceed the amount of that subsidy.
 (7)
 
 ### 12B Functions of Authority in relation to judicial salaries and superannuation
@@ -122,18 +125,18 @@ There shall from time to time be appointed by the chief executive of the Departm
 (2) The Authority shall have the function of considering and making determinations with respect to—
   (a) the superannuation rights and obligations of the judicial officers specified in subsection (1) who are contributors under Part 4 or Part 5 or Part 5A of the Government Superannuation Fund Act 1956, being rights fixed at the commencement of this Act by any of those Parts and other provisions of that Act; and
   (b) the superannuation rights and obligations of those judicial officers specified in subsection (1) who are not contributors under Part 4 or Part 5 or Part 5A of the Government Superannuation Fund Act 1956.
-(3) The Authority shall, in making a determination under subsection (2)(b), determine—
+(3) The Authority shall, in making a determination under subsection (2)﻿(b), determine—
   (a) the maximum amount that in any year may be paid by way of superannuation subsidy in respect of any judicial officer who chooses to contribute to any retirement scheme; and
   (b) the contribution that the judicial officer must make to that retirement scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the officer's contribution.
-(4) Any maximum amount determined under subsection (3)(a) may be expressed as either a specified monetary amount or a percentage of salary, either of which may vary according to any category of judicial officer.
+(4) Any maximum amount determined under subsection (3)﻿(a) may be expressed as either a specified monetary amount or a percentage of salary, either of which may vary according to any category of judicial officer.
 (5) Nothing shall prevent the holder of any one particular judicial office from being treated as a category of judicial officer for the purposes of subsection (4) if the Authority considers it to be appropriate.
 (6) Any reference in this section to judicial officer includes any person appointed to the office of Solicitor-General.
-(7) For the avoidance of doubt, it is hereby declared that the Crown's liability to any retirement scheme to which a judicial officer referred to in subsection (2)(b) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (3).
+(7) For the avoidance of doubt, it is hereby declared that the Crown's liability to any retirement scheme to which a judicial officer referred to in subsection (2)﻿(b) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (3).
 (8)
 (9) A determination to which subsection (1) or (2) applies is a legislative instrument for the purposes of the Legislation Act 2012, but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
 
 ### 12C Allowances
-(1) Notwithstanding anything in this Act, where the Authority has jurisdiction to determine the remuneration of any persons or group of persons pursuant to section 12(1)(a) (other than subparagraph (i)) or under any other enactment, the Authority may in relation to any such persons or to any member of that group of persons determine the nature and extent of the principal allowances that may be paid in addition to that remuneration.
+(1) Notwithstanding anything in this Act, where the Authority has jurisdiction to determine the remuneration of any persons or group of persons pursuant to section 12(1)﻿(a) (other than subparagraph (i)) or under any other enactment, the Authority may in relation to any such persons or to any member of that group of persons determine the nature and extent of the principal allowances that may be paid in addition to that remuneration.
 (2) Every determination under subsection (1) shall have effect according to its tenor.
 (3)
 
@@ -143,7 +146,7 @@ There shall from time to time be appointed by the chief executive of the Departm
   (b) add to or omit from Schedule 2 the name of any university position:
   (c)
   (d) add to or omit from Schedule 4 the name of any specified statutory officer:
-  (e) otherwise amend Schedule 2, or Schedule 4, or revoke any such schedule or any Part of any such schedule, and substitute a new schedule or a new Part, as the case may require.
+  (e) otherwise amend Schedule 2 or Schedule 4, or revoke any such schedule or any Part of any such schedule, and substitute a new schedule or a new Part, as the case may require.
 (2) Every Order in Council made under subsection (1) shall have effect according to its tenor.
 
 ### 14 Implementation of determinations
@@ -153,7 +156,7 @@ There shall from time to time be appointed by the chief executive of the Departm
 ### 15 Release of determinations
 (1) The Authority shall ensure that every determination made by it in respect of the remuneration of any person is, subject to section 16, made known to that person and to the person responsible for the payment of the remuneration and to such other persons as have, in the opinion of the Authority, a direct interest in the subject matter of the determination.
 (2) The Authority shall deliver to the Minister copies of all determinations made by it—
-  (a) under any of the provisions of section 12(1)(a); or
+  (a) under any of the provisions of section 12(1)﻿(a); or
   (b) under section 12B.
 (3)
 (4)
@@ -171,45 +174,62 @@ There shall from time to time be appointed by the chief executive of the Departm
 (2) A determination to which subsection (1) applies is a legislative instrument for the purposes of the Legislation Act 2012 but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
 
 ### 17 Provisions relating to Parliamentary and judicial superannuation
-(1) Any determination under section 12(1)(b) or section 12B(2)(a) may contain provisions which modify, or are to apply instead of, provisions of the Government Superannuation Fund Act 1956.
-(2) Before making a determination under section 12(1)(b) or section 12B(2)(a) in respect of rights under the Government Superannuation Fund Act 1956, the Authority shall consult with the Government Superannuation Fund Authority concerning the substance and form of the Authority's proposed determination.
+(1) Any determination under section 12(1)﻿(b) or section 12B(2)﻿(a) may contain provisions which modify, or are to apply instead of, provisions of the Government Superannuation Fund Act 1956.
+(2) Before making a determination under section 12(1)﻿(b) or section 12B(2)﻿(a) in respect of rights under the Government Superannuation Fund Act 1956, the Authority shall consult with the Government Superannuation Fund Authority concerning the substance and form of the Authority's proposed determination.
 (3)
-(4) Any determination made under section 12(1)(b) or section 12(1)(ba) or section 12B(2), and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
+(4) Any determination made under section 12(1)﻿(b) or section 12(1)﻿(ba) or section 12B(2), and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
 (5) Every such determination, and every provision of any such determination, in respect of which no date is specified shall come into force on the date of the making of the determination.
-(6) Where a determination made under section 12(1)(ba) or section 12B(2)(b) requires or allows for, in relation to any person, the payment out of public money of any superannuation subsidy, that subsidy may in accordance with, and within any limits prescribed by, this Act and any such determination be paid out of public money without further appropriation than this section.
-(7) Every determination under section 12(1)(b) or section 12(1)(ba) shall be made known in accordance with section 16 as if it were a determination in respect of the salaries and allowances of members of the House of Representatives.
-(8) Except to the extent that a determination under section 12(1)(b) or section 12B(2)(a) modifies, or is expressed to be in substitution for, any provision of the Government Superannuation Fund Act 1956, nothing in any such determination shall affect the provisions of that Act.
+(6) Where a determination made under section 12(1)﻿(ba) or section 12B(2)﻿(b) requires or allows for, in relation to any person, the payment out of public money of any superannuation subsidy, that subsidy may in accordance with, and within any limits prescribed by, this Act and any such determination be paid out of public money without further appropriation than this section.
+(7) Every determination under section 12(1)﻿(b) or section 12(1)﻿(ba) shall be made known in accordance with section 16 as if it were a determination in respect of the salaries and allowances of members of the House of Representatives.
+(8) Except to the extent that a determination under section 12(1)﻿(b) or section 12B(2)﻿(a) modifies, or is expressed to be in substitution for, any provision of the Government Superannuation Fund Act 1956, nothing in any such determination shall affect the provisions of that Act.
 
 ### 17A Obligation to consult before making determinations about Parliamentary salaries and allowances
-Before making a determination under section 12(1)(a)(i), the Authority must—
+Before making a determination under section 12(1)﻿(a)﻿(i), the Authority must—
   (a) consult the Speaker of the House of Representatives and the Minister who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services about the services for which they have jurisdiction, including, for the purposes of section 16(2) of the Members of Parliament (Remuneration and Services) Act 2013, about—
     (i) whether any element of personal benefit or potential personal benefit for members of Parliament, Ministers, or their family members arises under an entitlement to a service; and
     (ii) in the case of any such benefit arising under directions issued by the Speaker under section 23 or 34 of that Act or a determination made by the Minister Responsible for Ministerial Services under section 27 of that Act, the value of any such benefit assessed by the Speaker or the Minister; and
   (b) consult the Commissioner of Inland Revenue—
     (i) about the taxation consequences of the Authority's proposed determination; and
-    (ii) as required under section 16(2)(a) of the Members of Parliament (Remuneration and Services Act 2013).
+    (ii) as required under section 16(2)﻿(a) of the Members of Parliament (Remuneration and Services Act 2013).
 
 ### 18 Criteria of Authority
-(1) In determining any remuneration under section 12(1)(a) or section 12B(1), or under any other enactment, the Authority shall have regard in particular to the following criteria:
+(1) In determining any remuneration under section 12(1)﻿(a) or section 12B(1), or under any other enactment, the Authority shall have regard in particular to the following criteria:
   (a) the need to achieve and maintain fair relativity with the levels of remuneration received elsewhere; and
   (b) the need to be fair both—
     (i) to the persons or group of persons whose remuneration is being determined; and
     (ii) to the taxpayer or ratepayer; and
   (c) the need to recruit and retain competent persons.
-(2) In determining the remuneration of any persons or group of persons pursuant to any subparagraph of section 12(1)(a) or in determining the remuneration of any persons or group of persons pursuant to section 12B(1) or under any other Act, the Authority shall take into account—
+(2) In determining the remuneration of any persons or group of persons pursuant to any subparagraph of section 12(1)﻿(a) or in determining the remuneration of any persons or group of persons pursuant to section 12B(1) or under any other Act, the Authority shall take into account—
   (a) the requirements of the position concerned; and
   (b) the conditions of service enjoyed by the persons whose remuneration is being determined and those enjoyed by the persons or members of the group of persons whose remuneration and conditions of employment are, in the opinion of the Authority, comparable with those of the persons or members of the group of persons whose remuneration is being determined.
+(3) This section—
+  (a) applies to the Authority when determining the allowances of members of Parliament under section 12(1)﻿(a)﻿(i); but
+  (b) does not apply to the Authority when determining the salaries of members of Parliament under section 12(1)﻿(a)﻿(i).
 
 ### 18A Countervailing economic conditions
-(1) Subsection (2) applies in relation to the Authority in determining the remuneration of any person or group of persons under section 12(1)(a) or 12B(1) or under any other enactment.
+(1) Subsection (2) applies in relation to the Authority in determining the remuneration of any person or group of persons under section 12(1)﻿(a) or 12B(1) or under any other enactment.
 (2) The Authority—
   (a) must take into account any prevailing adverse economic conditions, based on evidence from an authoritative source; and
   (b) may determine the remuneration at a rate lower than it would otherwise have determined.
-(3) A determination of remuneration at a lower rate under subsection (2)(b) must not result in the remuneration of a person or group of persons being lower than the remuneration the person or group of persons is entitled to before the determination.
+(3) A determination of remuneration at a lower rate under subsection (2)﻿(b) must not result in the remuneration of a person or group of persons being lower than the remuneration the person or group of persons is entitled to before the determination.
 (4) To avoid doubt, the provisions of any other enactment relating to the setting of remuneration by the Authority must be read together with, and subject to, this section.
+(5) This section—
+  (a) applies to the Authority when determining the allowances of members of Parliament under section 12(1)﻿(a)﻿(i); but
+  (b) does not apply to the Authority when determining the salaries of members of Parliament under section 12(1)﻿(a)﻿(i).
+
+### 18B Fixing salaries of members of Parliament
+(1) For the purpose of any determination under section 12(1)﻿(a)﻿(i), the Authority must fix the salaries of members of Parliament in accordance with this section.
+(2) A salary rate for a 12-month period from 1 July to 30 June (the relevant 12-month period) must be fixed so that—Sr + Sur = (Sp + Sup) × (a ÷ b) − Prwhere—Sris the salary rate for the relevant 12-month periodSuris the amount of the superannuation subsidy that will be payable (in accordance with the determination made under section 12(1)﻿(b) and (ba)) in the relevant 12-month periodSpis the salary rate for the 12-month period immediately before the relevant 12-month period (the previous 12-month period)Supis the amount of the superannuation subsidy that was payable (in accordance with the determination made under section 12(1)﻿(b) and (ba)) in the previous 12-month periodais the average ordinary time weekly earnings for FTE employees in the public sector as determined by the Quarterly Employment Survey for each of the 4 quarters of the previous 12-month period, added together and divided by 4bis the average ordinary time weekly earnings for FTE employees in the public sector as determined by the Quarterly Employment Survey for each of the 4 quarters of the 12-month period immediately before the 12-month period referred to in item a, added together and divided by 4Pris the amount of any change in the personal benefit or potential personal benefit that the Authority is required to take into account under section 16(2)﻿(b) of the Members of Parliament (Remuneration and Services) Act 2013.
+(3) In subsection (2),—
+  - **FTE** means full-time equivalent as used in the Quarterly Employment Survey, being a measure of hours of work per week
+  - **Quarterly Employment Survey** means the Quarterly Employment Survey published by Statistics New Zealand or, if that survey ceases to be published, any measure certified by the Government Statistician as being equivalent to that survey.
+(4) For the purposes of applying the formula in subsection (2), the number resulting from dividing variable a by variable b must be rounded up or down to 4 decimal places (with 0.00005 or greater being rounded up).
+(5) If the result of the calculation a ÷ b, as those variables are defined in subsection (2), is less than 1, the Authority must fix the rates of salaries for the relevant 12-month period as if the result of the calculation a ÷ b were equal to 1.
+(6) Nothing in subsection (5) limits section 24.
+(7) If the Authority is fixing a salary rate for the first time for a position for which there is no previous determination, the Authority must fix the rate consistently with a comparable position or positions for members of Parliament.
 
 ### 19 Frequency of adjustments
-(1A) This section applies to determinations other than those under section 12(1)(b) or section 12(1)(ba) or section 12B(2).
+(1A) This section applies to determinations other than those under section 12(1)﻿(b) or section 12(1)﻿(ba) or section 12B(2).
 (1) Subject to subsection (4), every determination shall specify the date on which it expires and shall continue in force at least until the close of that date. The Authority may issue separate determinations, at different times, for the different positions under the jurisdiction of the Authority. The Authority may make a determination before or after the date upon which that determination is to come into force.
 (2) No determination, or any part of it, shall come into force earlier than the date of the expiry of the currency of the existing determination being wholly or partially superseded by the first-mentioned determination.
 (3) Notwithstanding the expiry of the currency of a determination, it shall continue in force to the extent that it is not superseded by another determination.
@@ -217,7 +237,10 @@ Before making a determination under section 12(1)(a)(i), the Authority must—
   (a) for the purpose of remedying any defect or removing any ambiguity; or
   (b) to deal with any new matter that was not dealt with at the time of the making of the determination; or
   (c) if the Authority is satisfied that in all the circumstances there are particular and special reasons that justify a period of less than the term specified in the determination.
-(5) Notwithstanding any term included in any determination, the Authority shall review and issue a determination for each position that is subject to its jurisdiction at intervals of not more than 3 years.
+(5) Notwithstanding any term included in any determination, the Authority must review and issue a determination for each position that is subject to its jurisdiction,—
+  (a) in the case of the salaries of members of Parliament, at intervals of not more than 12 months in respect of each period of 12 months ending on 30 June; and
+  (b) in the case of the allowances of members of Parliament, at intervals of not more than 3 years; and
+  (c) in any other case, at intervals of not more than 3 years.
 
 ### 20 Interim adjustments
 [Repealed]
@@ -238,7 +261,7 @@ Before making a determination under section 12(1)(a)(i), the Authority must—
 [Repealed]
 
 ### 24 Remuneration of existing holder not to be reduced
-(1) Where any position is subject to the determination of the Authority under section 12(1)(a) or section 12B and the remuneration for that position is determined by the Authority at a rate that is lower than that being lawfully received by the holder of that position, his remuneration shall not be reduced as a result of that determination.
+(1) Where any position is subject to the determination of the Authority under section 12(1)﻿(a) or section 12B and the remuneration for that position is determined by the Authority at a rate that is lower than that being lawfully received by the holder of that position, his remuneration shall not be reduced as a result of that determination.
 (2) This principle does not apply to any change in remuneration arising from the Remuneration Authority (Members of Parliament) Amendment Act 2002 or section 16 or 17 of the Members of Parliament (Remuneration and Services) Act 2013.
 
 ### 25 Powers of Authority
@@ -290,6 +313,31 @@ The Civil List Amendment Act (No 2) 1970 is hereby repealed.
 ### 36 Savings and validation
 (1) Nothing in this Act shall affect the validity of any determination made by the Higher Salaries Commission before the commencement of this Act pursuant to Part 2 of the Wage Adjustment Regulations 1974 and every such determination shall be and be deemed always to have been valid according to its tenor.
 (2) Notwithstanding anything in this Act, salaries and allowances in respect of which the Remuneration Authority may make determinations shall, until amended or superseded by determination of the Authority, continue to be payable at the rates applicable at the commencement of this Act.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Remuneration Authority (Members of Parliament Remuneration) Amendment Act 2015
+
+### 1 Parliamentary Salaries and Allowances Determination 2015 has no effect in relation to salaries
+Clause 5 and Schedule 1 of the Parliamentary Salaries and Allowances Determination 2015—
+  (a) are deemed not to have come into force on the date specified in clause 2 of that determination; and
+  (b) are revoked.
+
+### 2 Parliamentary Salaries and Allowances Determination 2013 has effect in relation to salaries
+(1) Clause 5 and Schedule 1 of the Parliamentary Salaries and Allowances Determination 2013 (the determination)—
+  (a) are deemed to have continued to have effect on and from 1 July 2014; and
+  (b) continue to apply as if the expiry date specified in clause 3 of the determination were 30 June 2015.
+(2) For the purposes of section 69(2) of the Members of Parliament (Remuneration and Services) Act 2013, clause 5 and Schedule 1 of the determination are deemed not to have been superseded by the Parliamentary Salaries and Allowances Determination 2015.
+
+### 3 No acts or omissions unlawful
+(1) No act done in accordance with the Parliamentary Salaries and Allowances Determination 2015 (the determination) is unlawful solely because of the revocation of clause 5 and Schedule 1 of the determination.
+(2) No omission to act in accordance with any provision of the determination before the date of the revocation of clause 5 and Schedule 1 of the determination is unlawful.
+
+### 4 Authority to make new determination in relation to salaries
+(1) The Authority must make a determination of salary rates for members of Parliament for the period 1 July 2014 to 30 June 2015.
+(2) The determination must be made in accordance with this Act and the Members of Parliament (Remuneration and Services) Act 2013, as amended by the Remuneration Authority (Members of Parliament Remuneration) Amendment Act 2015.
+(3) For the purposes of section 18B(2), the salary rates for the previous 12-month period (as defined in that section) are those in Schedule 1 of the Parliamentary Salaries and Allowances Determination 2013.
+(4) To avoid doubt, the determination required by subclause (1) may be made before or after 30 June 2015 and with effect for the period described in subclause (1), despite the expiry date specified in clause 2(1)﻿(b) and the requirement in section 19(2) that a determination must continue in force at least until the close of its expiry date.
 
 ## Schedule 1 — Corporations and bodies whose highest paid executive officers' remuneration is to be determined by Authority
 
