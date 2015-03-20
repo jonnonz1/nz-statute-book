@@ -1,5 +1,5 @@
 # Members of Parliament (Remuneration and Services) Act 2013
-_Consolidation as at 2013-11-18_
+_Consolidation as at 2015-03-20_
 
 ### 1 Title
 This Act is the Members of Parliament (Remuneration and Services) Act 2013.
@@ -175,7 +175,7 @@ Despite anything in this Part, if a person receives a salary as head of mission 
     (v) maintains confidence in the integrity of Parliament; and
     (vi) maintains the independence of the Remuneration Authority:
   (b) that entitlements to services should be determined in a way that has regard to the particular requirements of any members of Parliament with physical or sensory impairments:
-  (c) that, if services provided include an element of remuneration or result in any other private benefit, the value of that benefit should be taken into account by the Remuneration Authority in determining relevant salaries and allowances under Part 2:
+  (c) that, if changes to services provided increase or decrease any element of remuneration or other private benefit, the value of that increase or decrease should be taken into account by the Remuneration Authority in determining salaries under Part 2:
   (d) that entitlements to services should be—
     (i) clearly defined so that decisions about whether a person or party is eligible for an entitlement can easily be made; and
     (ii) determined in a way that is consistent with the objectives of efficient and effective delivery of services; and
@@ -184,8 +184,9 @@ Despite anything in this Part, if a person receives a salary as head of mission 
   (a) the Remuneration Authority, the Speaker, or the Minister Responsible for Ministerial Services, as the case may be, must—
     (i) consult the Commissioner of Inland Revenue about the taxation consequences of that entitlement; and
     (ii) assess the value of the benefit; and
-  (b) the value must be taken into account by the Remuneration Authority in determining the salaries and allowances of the relevant members of Parliament or Ministers under section 8; and
-  (c) the Remuneration Authority must include in its determination of the salaries and allowances under section 8 a statement that sets out how it has taken that value into account in determining the relevant salaries and allowances.
+    (iii) include in the determination or direction a statement of the value assessed under subparagraph (ii); and
+  (b) when fixing salaries for a relevant 12-month period (as that term is defined in section 18B(2) of the Remuneration Authority Act 1977), the Remuneration Authority must take into account only the value of any change in personal benefit or potential personal benefit that has arisen because of a change in entitlements compared with entitlements included in the previous determination or direction; and
+  (c) the Remuneration Authority must include in its determination of the salaries and allowances under section 8 a statement that sets out how it has taken values assessed under this subsection into account in determining salaries.
 
 **Services determined by Remuneration Authority**
 
