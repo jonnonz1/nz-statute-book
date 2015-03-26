@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2015-03-26_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -58,7 +58,7 @@ _Consolidation as at 2014-01-01_
   - **maritime facilities** includes moorings, wharves, docks, quays, marinas, areas or places where vessels are maintained, launching ramps, and other launching facilities
   - **Maritime New Zealand** means the authority continued by section 429 of the Maritime Transport Act 1994
   - **maritime rules** means maritime rules made under the Maritime Transport Act 1994
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member** , in relation to any local authority, includes any chairperson or mayor
   - **Minister** means the Minister of Local Government
   - **navigation bylaws** means bylaws made under section 684B
@@ -1878,7 +1878,7 @@ On the making of any alteration to the scale of tax to be levied in any tax area
 
 ### 188 Functions of distribution authority
 The functions of a distribution authority shall be—
-  (a) of its own motion or at the request of 2 or more component authorities of the tax area, convene such meetings as may be required for the purposes of section 186:
+  (a) of its own motion or at the request of 2 or more component authorities of the tax area, to convene such meetings as may be required for the purposes of section 186:
   (b) to collect and distribute the proceeds of the tax within the tax area in accordance with section 198:
   (c) to provide such administrative, secretarial, and accounting services as are necessary for the purpose of this section.
 
@@ -1940,7 +1940,7 @@ For the purposes of this Act, section 159 of the Customs Act 1966, so far as it 
 (1) The Governor-General may, by Order in Council,—
   (a) specify the engine fuels set out in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) to be specified engine fuel for the purposes of this Act; and
   (b) prescribe the scale rates for specified engine fuel.
-(2) The scale rates of the local authorities fuel tax prescribed by an Order in Council under subsection (1)(b) may not exceed the rate of the local authorities fuel tax scale rates set out in Schedule 6 for any class of engine fuel—
+(2) The scale rates of the local authorities fuel tax prescribed by an Order in Council under subsection (1)﻿(b) may not exceed the rate of the local authorities fuel tax scale rates set out in Schedule 6 for any class of engine fuel—
   (a) for which the specified engine fuel is a functional substitute; or
   (b) with which the specified engine fuel is commonly blended.
 (3) Subsection (2) overrides subsection (1).
@@ -2668,7 +2668,7 @@ Without limiting the power to make regulations conferred by section 723, regulat
   (a) in which council or councils the road shall vest; and
   (b) which council or councils shall control the road; and
   (c) whether any other council shall contribute to the cost of the construction, maintenance, lighting, widening, reconstruction, or upgrading of that road, and if so, in what proportions.
-(2) Where the Commission determines, pursuant to subsection (1)(c) that any council is liable to pay any proportion of the cost of construction, maintenance, lighting, widening, or reconstruction, or upgrading of a road, the amount of that proportion shall be recoverable from that council in any court of competent jurisdiction as a debt due to the council having control of the road.
+(2) Where the Commission determines, pursuant to subsection (1)﻿(c) that any council is liable to pay any proportion of the cost of construction, maintenance, lighting, widening, or reconstruction, or upgrading of a road, the amount of that proportion shall be recoverable from that council in any court of competent jurisdiction as a debt due to the council having control of the road.
 (3) On the commencement of this Part, all warrants made under section 120 of the Public Works Act 1928 before the commencement of this Part shall remain in force until such time as they are either revoked by the Minister, by notice in the Gazette, or amended by an Order in Council made under section 36 giving effect to a final reorganisation scheme.
 
 **Formation, alteration, stopping, and closing of roads**
@@ -2731,7 +2731,7 @@ If the council names any road for the first time, or alters the name of a road, 
 [Repealed]
 
 ### 326 Betterment arising from creation or widening of a road
-(1) Notwithstanding anything in section 62(1)(f) of the Public Works Act 1981 or in any other Act, where—the owner shall pay the amount of that excess to the council by way of betterment to the remaining part of his land.
+(1) Notwithstanding anything in section 62(1)﻿(f) of the Public Works Act 1981 or in any other Act, where—the owner shall pay the amount of that excess to the council by way of betterment to the remaining part of his land.
   (a) the council—
     (i) forms a new road in the district; or
     (ii) widens any existing road or part thereof in the district; and
@@ -2847,10 +2847,10 @@ Where a building-line restriction has been imposed under this Act or any former 
 (3) Any person may, within 1 month after the making of a declaration, or within such further time as the Environment Court may allow, appeal to the Environment Court against the declaration.
 (4) The appeal must be made and determined by the Environment Court in accordance with the Resource Management Act 1991 and any regulations made under that Act and the court may quash or affirm the declaration, or affirm the declaration with modification.
 (5) The decision of the Environment Court under subsection (4) is final.
-(6) Subsections (2)(b) and (3) to (5) do not apply to a declaration that gives effect to the provisions of an operative district plan under the Resource Management Act 1991.
+(6) Subsections (2)﻿(b) and (3) to (5) do not apply to a declaration that gives effect to the provisions of an operative district plan under the Resource Management Act 1991.
 (7) Every person commits an offence who drives, rides, or parks any vehicle or rides any animal, or causes or permits any vehicle to be driven, ridden, or parked or any animal to be ridden, in contravention of a declaration (including a declaration modified by the Environment Court).
 (8) A declaration (including a modified declaration) may be revoked or varied by a subsequent declaration using the procedure in subsection (1), and that subsection applies with all necessary modifications.
-(9) For the purposes of subsection (1), the public notice required by section 83(1)(e) of the Local Government Act 2002 must explain the right of appeal under subsection (3).
+(9) For the purposes of subsection (1), the public notice required by section 83(1)﻿(e) of the Local Government Act 2002 must explain the right of appeal under subsection (3).
 (10) In this section,—
   - **parking** means the stopping or standing of a vehicle for any period
   - **road** does not include an access way
@@ -2905,7 +2905,7 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
 ### 342 Stopping and closing of roads
 (1) The council may, in the manner provided in Schedule 10,—
   (a) stop any road or part thereof in the district:
-    provided that the council (not being a borough council) shall not proceed to stop any road or part thereof in a rural area unless the prior consent of the Minister of Lands has been obtained; or
+    provided that the council shall not proceed to stop any road or part thereof in a rural area unless the prior consent of the Minister of Lands has been obtained; or
   (b) close any road to traffic or any specified type of traffic (including pedestrian traffic) on a temporary basis in accordance with that schedule and impose or permit the imposition of charges as provided for in that schedule.
 (2)
 
@@ -2941,7 +2941,7 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
   (c) grant a lease of that part, or any part thereof, for such term and on such conditions as it thinks fit for use for any purpose to which the council may apply land, either under this Act or any other enactment; or
   (d) transfer that part, or any part thereof, to the Crown for a public reserve or for addition to a public reserve or for any purpose of public convenience or utility or as Crown land subject to the Land Act 1948.
 (1A) To avoid doubt, this section does not apply to the common marine and coastal area within the meaning of the Marine and Coastal Area (Takutai Moana) Act 2011.
-(2) Where the council pursuant to subsection (1)(a)(i) sells the land to the owner or owners of any adjoining land, it may require, notwithstanding the provisions of any other enactment, the amalgamation of that land with the adjoining land under 1 certificate of title. The District Land Registrar may, if he thinks fit, dispense with any survey that would otherwise be required for the purposes of the issue of a certificate of title under this section, and may issue a certificate of title limited as to parcels.
+(2) Where the council pursuant to subsection (1)﻿(a)﻿(i) sells the land to the owner or owners of any adjoining land, it may require, notwithstanding the provisions of any other enactment, the amalgamation of that land with the adjoining land under 1 certificate of title. The District Land Registrar may, if he thinks fit, dispense with any survey that would otherwise be required for the purposes of the issue of a certificate of title under this section, and may issue a certificate of title limited as to parcels.
 (2A) Where the council acting under subsection (2) requires the amalgamation of the land sold with the adjoining land under 1 certificate of title—
   (a) the separate parcels of land included in the 1 certificate of title by virtue of that requirement shall not be capable of being disposed of individually or of again being held under separate certificates of title, except with the consent of the council:
   (b) where that adjoining land is already subject to a registered instrument under which a power to sell, a right of renewal, or a right or obligation is lawfully conferred or imposed, the land sold shall be deemed to be and always have been part of the land that is subject to that instrument, and all rights and obligations in respect of, and encumbrances on that adjoining land shall be deemed also to be rights and obligations in respect of, or encumbrances on, that land sold.
@@ -3111,7 +3111,7 @@ The council shall take all sufficient precautions for the general safety of the 
   (a) the notice specified in paragraph (d) of that subsection shall not be given unless the vehicle has been stored for a period of 1 month and reasonable efforts to locate the person last registered under Part 17 of the Land Transport Act 1998 in respect of the vehicle have been made by the council:
   (b) in addition to specifying the matters set out in paragraph (f) of that subsection, the notice shall specify the name of the person currently registered under Part 17 of the Land Transport Act 1998 in respect of the vehicle and the last known address of that person:
   (c) paragraph (c) of that subsection shall apply as if the vehicle were a category B vehicle.
-(4) If, after a search of the motor vehicle security register in accordance with subsection (2)(c)(ii) or subsection (3)(c), it is found that the vehicle is subject to a registered security interest, the council shall, before selling or otherwise disposing of the vehicle, notify the holder of that interest of its intention to sell or otherwise dispose of the vehicle.
+(4) If, after a search of the motor vehicle security register in accordance with subsection (2)﻿(c)﻿(ii) or subsection (3)﻿(c), it is found that the vehicle is subject to a registered security interest, the council shall, before selling or otherwise disposing of the vehicle, notify the holder of that interest of its intention to sell or otherwise dispose of the vehicle.
 (5) For the purposes of this section,—
   (a) a category A vehicle is a motor vehicle that has neither a number plate nor a current licence label affixed to the vehicle:
   (b) a category B vehicle is a motor vehicle that has affixed to it either a number plate or a current licence label (but not both):
@@ -3137,7 +3137,7 @@ The council shall take all sufficient precautions for the general safety of the 
       (A) that it has removed the vehicle; and
       (B) that the vehicle is in storage; and
       (C) of the territorial authority's powers under subsection (7).
-(3) However, if the territorial authority is satisfied that the condition of the vehicle is such that it is of little or no value, it may dispose of the vehicle without complying with subsection (2)(b).
+(3) However, if the territorial authority is satisfied that the condition of the vehicle is such that it is of little or no value, it may dispose of the vehicle without complying with subsection (2)﻿(b).
 (4) A vehicle must not be removed under this section until a constable has been notified of the proposed removal.
 (5) If a vehicle is claimed by any person lawfully entitled to it before the end of the 10-day period, the territorial authority must release the vehicle to the person.
 (6) Subsection (5) applies only if any costs incurred by the territorial authority for removing and storing the vehicle are first paid.
@@ -3202,7 +3202,7 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
 (1) The Minister may from time to time, by notice in the Gazette,—
   (a) authorise a council to establish, by using the special consultative procedure, toll gates and collect tolls at any bridge, tunnel, or ferry within the district or under the control of the council; or
   (b) with the agreement of the council, abolish any toll gate or reduce the tolls to be taken at any toll gate if the Minister is of the opinion that any toll gate established by a council is not necessary or that the tolls taken thereat are excessive.
-(2) Any authority granted under subsection (1)(a) may be granted subject to such terms and conditions as the Minister thinks fit, including, but without limiting the generality of the foregoing provisions of this subsection, terms and conditions as to—
+(2) Any authority granted under subsection (1)﻿(a) may be granted subject to such terms and conditions as the Minister thinks fit, including, but without limiting the generality of the foregoing provisions of this subsection, terms and conditions as to—
   (a) the tolls that may be taken:
   (b) the conditions under which the tolls may be taken:
   (c) the persons and classes of persons exempted from payment of the tolls:
@@ -3525,8 +3525,8 @@ The Minister may from time to time, by notice in the Gazette, delegate to the co
     (i) is a fair representation of the major matters in the statement of proposal; and
     (ii) explains how the statement of proposal is avail-able for inspection; and
   (d) publicise the summary of proposal in a way appropriate to the subject matter of the proposal.
-(6) The council must not vote on a motion to undertake the proposed work until at least 20 working days after the summary of proposal is first publicised under subsection (5)(d).
-(7) An owner or occupier of land who may be affected by the work may apply to a District Court for an order under subsection (8) at any time between the publicising of the summary of proposal under subsection (5)(d) and 10 days after a resolution of the council is made under subsection (6).
+(6) The council must not vote on a motion to undertake the proposed work until at least 20 working days after the summary of proposal is first publicised under subsection (5)﻿(d).
+(7) An owner or occupier of land who may be affected by the work may apply to a District Court for an order under subsection (8) at any time between the publicising of the summary of proposal under subsection (5)﻿(d) and 10 days after a resolution of the council is made under subsection (6).
 (8) The court may make an order or orders—
   (a) setting a date before which the council may not under-take the work:
   (b) allowing the council to undertake the work with or without modification:
@@ -3827,10 +3827,10 @@ In this Part, unless the context otherwise requires,—
     (i) is a fair representation of the major matters in the statement of proposal; and
     (ii) explains how the statement of proposal is available; and
   (d) publicise the summary of proposal in a way appropriate to the subject matter of the proposal.
-(5) The council must not vote on a motion to make the declaration until at least 20 working days after the summary of proposal is first publicised under subsection (4)(d).
+(5) The council must not vote on a motion to make the declaration until at least 20 working days after the summary of proposal is first publicised under subsection (4)﻿(d).
 
 ### 505 Procedure for demanding poll
-(1) For the purposes of section 504(3)(a), a demand for a poll is made if—
+(1) For the purposes of section 504(3)﻿(a), a demand for a poll is made if—
   (a) the council resolves that a poll be taken; or
   (b) 15% or more of the electors in the relevant area demand a poll, and a document containing the demands is delivered to the principal office of the council at least 3 working days before the date referred to in section 504(5).
 (2) An elector has demanded a poll if he or she—
@@ -3844,7 +3844,7 @@ In this Part, unless the context otherwise requires,—
 (2) The poll must be conducted in accordance with the Local Electoral Act 2001, and the provisions of that Act apply with all necessary modifications.
 
 ### 505B Petition to make declaration
-(1) A petition for a declaration is made under section 504(3)(b) if—
+(1) A petition for a declaration is made under section 504(3)﻿(b) if—
   (a) a majority of the electors in the relevant area petition the local authority to make the proposed declaration under section 504(1); and
   (b) a document containing the petitions is delivered to the principal office of the council at least 1 working day before the date referred to in section 504(5).
 (2) An elector has validly petitioned if he or she—
@@ -3855,10 +3855,10 @@ In this Part, unless the context otherwise requires,—
 
 ### 505C Relevant area for polls and petitions
 In sections 504 to 505B, relevant area,—
-  (a) in the case of a declaration under section 504(1)(a), means the district; and
-  (b) in the case of a declaration under section 504(1)(b), means the part of the district that would become the drainage area; and
-  (c) in the case of a declaration under section 504(1)(c), means the drainage areas that would become the new drainage area; and
-  (d) in the case of a declaration under section 504(1)(d), means—
+  (a) in the case of a declaration under section 504(1)﻿(a), means the district; and
+  (b) in the case of a declaration under section 504(1)﻿(b), means the part of the district that would become the drainage area; and
+  (c) in the case of a declaration under section 504(1)﻿(c), means the drainage areas that would become the new drainage area; and
+  (d) in the case of a declaration under section 504(1)﻿(d), means—
     (i) any part of a drainage area that would be excluded from the drainage area as a result of the boundary changes; and
     (ii) any part of the district that would be included in the drainage area as a result of the boundary changes.
 
@@ -3932,7 +3932,7 @@ Where under section 511(2) or section 512(2) application is made to a District C
 
 ### 515 Removal of obstructions in watercourses outside the district
 (1) Where any watercourse under the control of the council extends beyond the limits of the district, and its obstruction is likely to cause loss of life, injury, or damage to property within the district, the council may, by notice in writing, require the occupier or, where there is no occupier, the owner of any land on the banks of the river, stream, or watercourse for a distance of 1 500 metres beyond the upstream boundary or downstream boundary of the district to remove any earth or stone, and any driftwood, tree, shrub, or bush, or any part thereof, impeding the free flow of water in that watercourse, or to lower or trim any part of a tree, shrub, or bush overhanging that watercourse and likely to fall therein, within the space of the aforesaid 1 500 metres.
-(2) Subsections (2) to (7) and (9)(b) of section 511 shall apply with respect to every notice under this section as if it were a notice given under subsection (1) of the said section 511.
+(2) Subsections (2) to (7) and (9)﻿(b) of section 511 shall apply with respect to every notice under this section as if it were a notice given under subsection (1) of the said section 511.
 (3) In this section the terms obstruction and remove have the same meanings as in section 511(9).
 
 **General provisions**
@@ -4005,11 +4005,11 @@ Subject to section 517F, any person who is a scheme user of a land drainage sche
 
 ### 517F Duty of local authority upon receipt of transfer petition and transfer proposal
 (1) No transfer petition or transfer proposal filed under section 517E is of any effect if—
-  (a) the number of valid signatures to the transfer petition, is not greater than 50% of the number of separately rateable properties served by the land drainage scheme or water race scheme; or
+  (a) the number of valid signatures to the transfer petition is not greater than 50% of the number of separately rateable properties served by the land drainage scheme or water race scheme; or
   (b) the transfer proposal is the same or substantially similar to any proposal that has been filed with the local authority within the period of 36 months ending with the date on which the transfer petition is filed with the local authority.
 (2) Where any transfer petition or transfer proposal is of no effect under subsection (1), the local authority must notify the proposer or the proposer's representative accordingly.
 (3) Subject to subsection (1), where the local authority ascertains that a transfer proposal filed under section 517E does not deal adequately with the matters set out in section 517I, the local authority must return that transfer proposal to the proposer together with a written statement indicating the matters that, in the local authority's opinion, have not been adequately dealt with in the proposal.
-(4) The return of the transfer proposal to the proposer under subsection (3) does not in any way preclude the proposer from once again filing a transfer petition under section 517E and subsection (1)(b) has effect, in relation to the transfer proposal that accompanies any such transfer petition, as if the transfer proposal returned under subsection (3) had never been filed.
+(4) The return of the transfer proposal to the proposer under subsection (3) does not in any way preclude the proposer from once again filing a transfer petition under section 517E and subsection (1)﻿(b) has effect, in relation to the transfer proposal that accompanies any such transfer petition, as if the transfer proposal returned under subsection (3) had never been filed.
 
 ### 517G Signatures to transfer petition
 (1) Subject to this section, every scheme user is entitled to sign the transfer petition filed under section 517E.
@@ -4072,7 +4072,7 @@ Every notice given under section 517L must—
     (i) a local authority entitled under section 517K(c) to object to the transfer proposal; or
     (ii) the operator of any other drainage system or water supply system that utilises the scheme; or
     (iii) scheme users who are occupiers of not less than 5% of the number of separately rateable properties served by the land drainage scheme or water race scheme,—
-  (e) advise that, where a local authority receives an objection under paragraph (d)(i) or paragraph (d)(ii), any objections received by the local authority under paragraph (d)(iii) will also be forwarded to the Commission, notwithstanding that those objections are from scheme users who are occupiers of less than 5% of the number of separately rateable properties served by the land drainage scheme or water race scheme.
+  (e) advise that, where a local authority receives an objection under paragraph (d)﻿(i) or paragraph (d)﻿(ii), any objections received by the local authority under paragraph (d)﻿(iii) will also be forwarded to the Commission, notwithstanding that those objections are from scheme users who are occupiers of less than 5% of the number of separately rateable properties served by the land drainage scheme or water race scheme.
 
 ### 517N Lodging of objections
 Every objection under section 517K—
@@ -4152,9 +4152,9 @@ Where the Commission considers any transfer proposal under section 517T, the rel
   (c) states that any scheme user who signed the transfer petition under section 517G in respect of the transfer proposal may, by written application received by the local authority before a date specified in the notice, being a date not less than 4 weeks nor more than 6 weeks after the date of the notice, have the scheme user's signature deleted from the petition; and
   (d) states that any scheme user who was entitled under section 517G to sign the transfer petition in respect of the transfer proposal but did not sign that petition may, by written application received by the local authority before the date specified under paragraph (c), have the scheme user's support for the petition recorded; and
   (e) states the local authority's obligations under subsection (3).
-(3) Within 7 days after the date specified under subsection (2)(c), the local authority must determine whether—the number of valid signatures on the transfer petition is equal to or greater than 75% of the number of separately rateable properties served by the land drainage scheme or water race scheme.
-  (a) after deleting any signature that is the subject of an application under subsection (2)(c); and
-  (b) after, counting, as if it were a signature to the petition, any support for the petition recorded in accordance with an application under subsection (2)(d),—
+(3) Within 7 days after the date specified under subsection (2)﻿(c), the local authority must determine whether—the number of valid signatures on the transfer petition is equal to or greater than 75% of the number of separately rateable properties served by the land drainage scheme or water race scheme.
+  (a) after deleting any signature that is the subject of an application under subsection (2)﻿(c); and
+  (b) after counting, as if it were a signature to the petition, any support for the petition recorded in accordance with an application under subsection (2)﻿(d),—
 (4) Where the local authority determines under subsection (3) that the number of valid signatures on the transfer petition is not equal to or greater than 75% of the number of separately rateable properties served by the land drainage scheme or water race scheme, the local authority must notify every scheme user that the number of valid signatures on the transfer petition is insufficient and that the transfer proposal is not to proceed.
 
 **Transfer plan**
@@ -4178,7 +4178,7 @@ Where a transfer proposal becomes a transfer plan under section 517X, the local 
   (b) vest in the person or group of persons to whom the scheme is transferred any rights conferred by designations under district plans applying to any land transferred pursuant to this Part; and
   (c) grant to the person or group of persons to whom the scheme is transferred leases, easements, permits, consents, or rights of any kind in respect of any scheme assets or scheme liabilities as provided for by the transfer proposal, the amended transfer proposal, or the Commission's determination, as the case may be.
 (2) Where a local authority continues, on behalf of scheme users, to collect revenue from land vested in the local authority in trust or as an endowment for the purposes of or in relation to a land drainage scheme or water race scheme transferred under this Part, the local authority is entitled to deduct from such revenue all reasonable costs and expenses incurred in the collection of such revenue.
-(3) Where any designation is, under subsection (1)(b) vested in a person or group of persons, that person or group of persons may, within the period of 2 years beginning on the transfer day, apply under section 167 of the Resource Management Act 1991 for approval as a requiring authority and is, until that application is disposed of or until that period of 2 years expires, whichever is the sooner, deemed to be a requiring authority within the meaning of that Act.
+(3) Where any designation is, under subsection (1)﻿(b) vested in a person or group of persons, that person or group of persons may, within the period of 2 years beginning on the transfer day, apply under section 167 of the Resource Management Act 1991 for approval as a requiring authority and is, until that application is disposed of or until that period of 2 years expires, whichever is the sooner, deemed to be a requiring authority within the meaning of that Act.
 (4) Scheme assets that are fixed to, or are under or over, any land may be transferred under this Part, whether or not any interest in the land is also transferred. Where any such asset is so transferred, the asset and the land are to be regarded as separate assets each capable of separate ownership.
 (5) Any scheme asset or scheme liability may be transferred under this Part, whether or not any Act or agreement relating to the asset or liability permits such transfer or requires any consent to such a transfer.
 (6) Where a transfer takes place pursuant to this section and the transfer is registrable, the person responsible for keeping the register must register the transfer forthwith after written notice of the transfer is received by him or her from any person authorised for that purpose by the local authority.
@@ -4240,7 +4240,7 @@ Where a transfer proposal becomes a transfer plan under section 517X, the local 
   (b) specify the parcel of land affected; and
   (c) have endorsed on the notice, or refer to, a diagram or plan showing the position or course of the land drainage works, drainage channels, water race, or other facility to which the easement, agreement, or right relates; and
   (d) be lodged by the local authority in the Land Registry Office for the district in which the land affected is situated and registered by the Registrar-General of Land against the title to that land.
-(4) Notwithstanding anything in subsection (3)(c), where it is not practicable to show on the diagram or plan the true position or course of the land drainage works, drainage channels, water race, or other facilities to which the easement, agreement, or right relates, the notice registered in accordance with this section must indicate the position or course as nearly as possible, and, until the contrary is proved, the position or course so indicated is deemed to be the true position or course.
+(4) Notwithstanding anything in subsection (3)﻿(c), where it is not practicable to show on the diagram or plan the true position or course of the land drainage works, drainage channels, water race, or other facilities to which the easement, agreement, or right relates, the notice registered in accordance with this section must indicate the position or course as nearly as possible, and, until the contrary is proved, the position or course so indicated is deemed to be the true position or course.
 (5) Where any such notice has endorsed on it or refers to a diagram or plan to which subsection (4) applies and it is subsequently shown by a plan deposited by the Registrar-General of Land that the true position or course of the land drainage works, drainage channels, water race, or other facility differs from the position or course shown on the first-mentioned diagram or plan, the Registrar-General of Land must endorse on the notice and on any other appropriate titles, plans, or records a reference to the deposited plan; and the notice is thereupon deemed to have referred to the deposited plan from the date on which it was signed.
 (6) No action lies against the Crown under Part 11 of the Land Transfer Act 1952 by reason of any notice registered under this section not indicating the true position or course of any land drainage works, drainage channel, or water race.
 (7) Notwithstanding any enactment or rule of law to the contrary, any notice registered under this section is deemed to be binding on any registered proprietor of an estate in fee simple or leasehold of, or on any registered licensee of, and on every person with a prior or subsequent interest registered against, the land or any interest in the land affected by the notice.
@@ -4259,7 +4259,7 @@ Where a transfer proposal becomes a transfer plan under section 517X, the local 
 Section 11 and Part 10 of the Resource Management Act 1991 and Part 21 of this Act do not apply to or in respect of the transfer of any land or interest in land under this Part nor to any subdivision required in respect of any such transfer.
 
 ### 517ZI Activity permitted as of right
-For the purposes of section 375(1)(a)(iii) of the Resource Management Act 1991 and for the avoidance of doubt, where any land drainage scheme or water race scheme is transferred under this Part, any use for drainage purposes or water race purposes of the land upon which the land drainage scheme or water race scheme is situated is deemed to be a permitted activity within the meaning of that Act, and section 375 of that Act applies accordingly.
+For the purposes of section 375(1)﻿(a)﻿(iii) of the Resource Management Act 1991 and for the avoidance of doubt, where any land drainage scheme or water race scheme is transferred under this Part, any use for drainage purposes or water race purposes of the land upon which the land drainage scheme or water race scheme is situated is deemed to be a permitted activity within the meaning of that Act, and section 375 of that Act applies accordingly.
 
 ### 517ZJ Revocation of resolutions constituting drainage areas and water race areas
 (1) On the transfer of any land drainage scheme or water race scheme under this Part,—
@@ -6148,7 +6148,7 @@ The council shall prepare a plan of the road proposed to be stopped, together wi
 On receipt of the Chief Surveyor's notice of approval and plan number the council shall open the plan for public inspection at the office of the council, and the council shall at least twice, at intervals of not less than 7 days, give public notice of the proposals and of the place where the plan may be inspected, and shall in the notice call upon persons objecting to the proposals to lodge their objections in writing at the office of the council on or before a date to be specified in the notice, being not earlier than 40 days after the date of the first publication thereof. The council shall also forthwith after that first publication serve a notice in the same form on the occupiers of all land adjoining the road proposed to be stopped or any new road proposed to be made in lieu thereof, and, in the case of any such land of which the occupier is not also the owner, on the owner of the land also, so far as they can be ascertained.
 
 ### 3
-A notice of the proposed stoppage shall during the period between the first publication of the notice and the expiration of the last day for lodging objections as aforesaid be kept fixed in a conspicuous place at each end of the road proposed to be stopped:
+A notice of the proposed stoppage shall, during the period between the first publication of the notice and the expiration of the last day for lodging objections as aforesaid, be kept fixed in a conspicuous place at each end of the road proposed to be stopped:
 provided that the council shall not be deemed to have failed to comply with the provisions of this clause in any case where any such notice is removed without the authority of the council, but in any such case the council shall, as soon as conveniently may be after being informed of the unauthorised removal of the notice, cause a new notice complying with the provisions of this clause to be affixed in place of the notice so removed and to be kept so affixed for the period aforesaid.
 
 ### 4
@@ -6173,7 +6173,7 @@ Two copies of that notice and of the plans hereinbefore referred to shall be tra
 The Chief Surveyor shall allocate a new description of the land comprising the stopped road, and shall forward to the District Land Registrar or the Registrar of Deeds, as the case may require, a copy of that description and a copy of the notice and the plans transmitted to him by the council, and the Registrar shall amend his records accordingly.
 
 ### 11
-The council may, subject to such conditions as it thinks fit (including the imposition of a reasonable bond), and after consultation with the Police and the Ministry of Transport, close any road or part of a road to all traffic or any specified type of traffic (including pedestrian traffic)—
+The council may, subject to such conditions as it thinks fit (including the imposition of a reasonable bond), and after consultation with the Police and the New Zealand Transport Agency, close any road or part of a road to all traffic or any specified type of traffic (including pedestrian traffic)—
 (a) while the road, or any drain, water race, pipe, or apparatus under, upon, or over the road is being constructed or repaired; or
 (b) where, in order to resolve problems associated with traffic operations on a road network, experimental diversions of traffic are required; or
 (c) during a period when public disorder exists or is anticipated; or
@@ -6308,7 +6308,7 @@ This Act is the Maritime Transport Amendment Act 2013.
 ### 87 Savings provisions relating to Local Government Act 1974
 (1) All regulations and bylaws, liability for fees, charges, or expenses, appointments, notices, directions, delegations, transfers, agreements, leases, licences, instruments, rights, other liabilities, and other acts of authority that originated under Part 39A, Part 43, or section 699A, 699B, 699C, or 699D of the Local Government Act 1974 and existed or were in force at the time of the repeal of those provisions by section 85 of this Act continue as if they had been made, and are deemed where necessary to have been made, under the corresponding provisions of the Maritime Transport Act 1994.
 (2) All matters, proceedings, actions, and investigations under Part 39A, Part 43, or section 699A, 699B, 699C, or 699D of the Local Government Act 1974 that were pending or in progress at the time of the repeal of those provisions by section 85 of this Act may be continued, completed, and enforced as if those provisions had not been repealed.
-(3) Without limiting subsection (1), the following regulations continue in force and have the same effect as if they had been made under section 201(1)(b) of the Maritime Transport Act 1994:
+(3) Without limiting subsection (1), the following regulations continue in force and have the same effect as if they had been made under section 201(1)﻿(b) of the Maritime Transport Act 1994:
   (a) Lake Taupo (Crown Facilities, Permits and Fees) Regulations 2004:
   (b) Local Government (Infringement Fees for Offences: Auckland Regional Council Navigation Safety Bylaw 2008) Regulations 2009:
   (c) Local Government (Infringement Fees for Offences: Bay of Plenty Regional Navigation Safety Bylaw 2010) Regulations 2010:
