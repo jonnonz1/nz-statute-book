@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2015-03-26_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—ito require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -1426,7 +1426,7 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
 **Search warrants**
 
 ### 131 Search warrants
-(1) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable or an inspector, is satisfied that there are reasonable grounds for believing that in or on any land, premises, or place specified in the application or any vehicle, aircraft, or ship specified in the application—may issue a search warrant to authorise the constable or the inspector to search the land, premises, or place or the vehicle, aircraft, or ship.
+(1) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable or an inspector, is satisfied that there are reasonable grounds for believing that in or on any land, premises, or place specified in the application or any vehicle, aircraft, or ship specified in the application—may issue a search warrant to authorise every constable and inspector to search the land, premises, or place or the vehicle, aircraft, or ship.
   (a) an offence against this Act or any regulations made under this Act has been, or is being, committed; or
   (b) the suffering of an animal could be prevented or mitigated; or
   (c) there is any thing that is evidence of an offence committed against this Act or any regulations made under this Act; or
