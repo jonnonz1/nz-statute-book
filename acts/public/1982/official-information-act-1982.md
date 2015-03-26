@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2015-03-26_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -202,9 +202,14 @@ Where a request under this Act relates to information to which section 6 or sect
   (c) a person who is in New Zealand; or
   (d) a body corporate which is incorporated in New Zealand; or
   (e) a body corporate which is incorporated outside New Zealand but which has a place of business in New Zealand,—
+(1AA) A request under subsection (1)—
+  (a) may be made in any form and communicated by any means (including orally); and
+  (b) does not need to refer to this Act.
 (1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to subclause (1)(b) of principle 6 of the Privacy Act 1993, and shall be dealt with accordingly, and nothing in this Part or in Part 5 shall apply in relation to any such request.
 (2) The official information requested shall be specified with due particularity in the request.
 (3) If the person making the request asks that his request be treated as urgent, he shall give his reasons for seeking the information urgently.
+(4) A department or Minister of the Crown or organisation to which an oral request is made under subsection (1) may, if written clarification is reasonably necessary, ask the person making the request to put the request in writing to clarify the request.
+(5) If the person declines or is unable to put the request in writing, the department or Minister of the Crown or organisation must record its understanding of the request and provide a copy of the record to the person.
 
 ### 13 Assistance
 It is the duty of every department, Minister of the Crown, and organisation to give reasonable assistance to a person, who—to make a request in a manner that is in accordance with that section or to direct his request to the appropriate department or Minister of the Crown or organisation or local authority.
@@ -213,9 +218,9 @@ It is the duty of every department, Minister of the Crown, and organisation to g
   (c) has not made his request to the appropriate department or Minister of the Crown or organisation or local authority,—
 
 ### 14 Transfer of requests
-Where—the department or Minister of the Crown or organisation to which the request is made shall promptly, and in any case not later than 10 working days after the day on which the request is received, transfer the request to the other department or Minister of the Crown or organisation, or to that local authority, and inform the person making the request accordingly.
+Where—the department or Minister of the Crown or organisation to which the request is made shall promptly, and in any case not later than 10 working days after the day on which the request is received, transfer the request, or relevant part of the request, to the other department or Minister of the Crown or organisation, or to that local authority, and inform the person making the request accordingly.
   (a) a request in accordance with section 12 is made to a department or Minister of the Crown or organisation; and
-  (b) the information to which the request relates—
+  (b) the information, or some of the information, to which the request relates—
     (i) is not held by the department or Minister of the Crown or organisation but is believed by the person dealing with the request to be held by another department or Minister of the Crown or organisation, or by a local authority; or
     (ii) is believed by the person dealing with the request to be more closely connected with the functions of another department or Minister of the Crown or organisation, or of a local authority,—
 
@@ -223,6 +228,10 @@ Where—the department or Minister of the Crown or organisation to which the req
 (1) Subject to this Act, the department or Minister of the Crown or organisation to whom a request is made in accordance with section 12 or is transferred in accordance with section 14 of this Act or section 12 of the Local Government Official Information and Meetings Act 1987 shall, as soon as reasonably practicable, and in any case not later than 20 working days after the day on which the request is received by that department or Minister of the Crown or organisation,—
   (a) decide whether the request is to be granted and, if it is to be granted, in what manner and for what charge (if any); and
   (b) give or post to the person who made the request notice of the decision on the request.
+(1AA) If a request (the original request) is amended or clarified after the date on which it is received, the department or Minister of the Crown or organisation that receives the request may treat the amended or clarified request as a new request that, for the purposes of subsection (1), replaces the original request.
+(1AB) However, subsection (1AA) does not apply if—
+  (a) the original request is amended or clarified because the department or Minister of the Crown or organisation to which the request was made sought an amendment to, or a clarification of, the request; and
+  (b) the department or Minister of the Crown or organisation did not seek that amendment or clarification within 7 working days after receiving the original request.
 (1A) Subject to section 24, every department or Minister of the Crown or organisation (including an organisation whose activities are funded in whole or in part by another person) may charge for the supply of official information under this Act.
 (2) Any charge fixed shall be reasonable and regard may be had to the cost of the labour and materials involved in making the information available and to any costs incurred pursuant to a request of the applicant to make the information available urgently.
 (3) The department or Minister of the Crown or organisation may require that the whole or part of any charge be paid in advance.
@@ -249,6 +258,7 @@ Where—the department or Minister of the Crown or organisation to which the req
   (d) in the case of a document by which words are recorded in a manner in which they are capable of being reproduced in the form of sound or in which words are contained in the form of shorthand writing or in codified form, by providing the person with a written transcript of the words recorded or contained in the document; or
   (e) by giving an excerpt or summary of the contents; or
   (f) by furnishing oral information about its contents.
+(1A) Subject to subsections (2) and (3), information made available in any of the ways listed under subsection (1) may be made available in electronic form or by electronic means.
 (2) Subject to section 17, the department or Minister of the Crown or organisation shall make the information available in the way preferred by the person requesting it unless to do so would—
   (a) impair efficient administration; or
   (b) be contrary to any legal duty of the department or Minister of the Crown or organisation in respect of the document; or
@@ -274,7 +284,7 @@ A request made in accordance with section 12 may be refused only for 1 or more o
   (da) that the request is made by a defendant or a person acting on behalf of a defendant and is—
     (i) for information that could be sought by the defendant under the Criminal Disclosure Act 2008; or
     (ii) for information that could be sought by the defendant under that Act and that has been disclosed to, or withheld from, the defendant under that Act:
-  (e) that the document alleged to contain the information requested does not exist or cannot be found:
+  (e) that the document alleged to contain the information requested does not exist or, despite reasonable efforts to locate it, cannot be found:
   (f) that the information requested cannot be made available without substantial collation or research:
   (g) that the information requested is not held by the department or Minister of the Crown or organisation and the person dealing with the request has no grounds for believing that the information is either—
     (i) held by another department or Minister of the Crown or organisation, or by a local authority; or
@@ -443,8 +453,11 @@ Where a request is made under section 24(1), the department or Minister of the C
 (2) It shall be a function of the Ombudsmen to investigate and review any decision by which the chief executive of a department or an officer or an employee of a department authorised by its chief executive or a Minister of the Crown or an organisation extends any time limit under section 15A.
 (3) An investigation and review under subsection (1) or subsection (2) may be made by an Ombudsman only on complaint being made to an Ombudsman in writing or orally.
 (3A) A complaint made orally must be put in writing as soon as practicable.
-(4) If, in relation to any request made in accordance with section 12, any department or Minister of the Crown or organisation fails within the time limit fixed by section 15(1) (or, where that time limit has been extended under this Act, within that time limit as so extended) to comply with paragraph (a) or paragraph (b) of section 15(1), that failure shall be deemed, for the purposes of subsection (1), to be a refusal to make available the official information to which the request relates.
+(4) For the purposes of subsection (1)(a), a refusal to make official information available includes, without limitation, a failure by a department or Minister of the Crown or organisation to comply with section 15(1)—
+  (a) as soon as is reasonably practicable, or at the latest within 20 working days, after receiving a request; or
+  (b) within an extended time limit notified under section 15A(3) to the person who requested the information.
 (5) Undue delay in making official information available in response to a request for that information, shall be deemed, for the purposes of subsection (1), to be a refusal to make that information available.
+(6) If an Ombudsman receives a complaint that a department or Minister of the Crown or organisation has refused to make official information available for any of the reasons specified in section 18(e) to (g), the Ombudsman may notify the Chief Archivist appointed under the Public Records Act 2005.
 
 ### 29 Application of Ombudsmen Act 1975
 (1) Except as otherwise provided by this Act, the provisions of the Ombudsmen Act 1975 shall apply in respect of investigations and other proceedings carried out under this Part in respect of decisions under Part 2 or section 10 as if they were investigations carried out under the Ombudsmen Act 1975.
@@ -533,7 +546,7 @@ Any party to an application under section 32B who is dissatisfied with any final
 The Ombudsman who investigates a complaint made for the purposes of section 28(3) shall inform the complainant, in such manner and at such time as he thinks proper, of the result of the investigation.
 
 ### 34 Restriction on application for review
-Where any person makes a request under this Act that official information be made available to him and a decision to which section 28(1) or section 28(2) applies is made in relation to that request, that person—unless a complaint made by that person in respect of that decision has first been determined under this Part.
+Where any person makes a request under this Act that official information be made available to him and a decision to which section 28(1)or section 28(2) applies is made in relation to that request, that person—unless a complaint made by that person in respect of that decision has first been determined under this Part.
   (a) shall not make an application under section 4(1) of the Judicature Amendment Act 1972 for the review of that decision; and
   (b) shall not commence any proceedings in which that decision is sought to be challenged, quashed, or called in question in any court,—
 
