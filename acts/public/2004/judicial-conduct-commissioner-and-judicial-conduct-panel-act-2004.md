@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-03-26_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -100,7 +100,8 @@ This Act binds the Crown.
   (b) complaints of any kind in 1 or more of the following situations:
     (i) during the absence from office of the Commissioner:
     (ii) if the Commissioner is incapacitated in a way that affects the carrying out of his or her functions:
-    (iii) during a vacancy in the office of Commissioner.
+    (iii) during a vacancy in the office of Commissioner:
+    (iv) if the Commissioner decides to refer a complaint to the Deputy Commissioner.
 (2) In carrying out his or her function in relation to a complaint, the Deputy Commissioner may decide that he or she has a conflict of interest in relation to the complaint.
 (3) After deciding that he or she has a conflict of interest in relation to a complaint, the Deputy Commissioner must—
   (a) not carry out his or her function in relation to the complaint; and
@@ -189,7 +190,7 @@ Part 1 of Schedule 2 applies in relation to the Commissioner and the Deputy Comm
   (b) the grounds on which he or she is satisfied that further consideration of the complaint would, in all the circumstances, be unjustified.
 
 ### 16 Commissioner must dismiss complaints that fail to meet required threshold
-(1) The Commissioner must dismiss the complaint if he or she is of the opinion that—
+(1) The Commissioner must dismiss the complaint if the Commissioner is of the opinion that—
   (a) the complaint is not within the Commissioner's jurisdiction; or
   (b) the complaint has no bearing on judicial functions or judicial duties; or
   (c) the requirements of sections 12 and 13 have not been met; or
@@ -198,7 +199,7 @@ Part 1 of Schedule 2 applies in relation to the Commissioner and the Deputy Comm
   (f) the complaint is about a judicial decision, or other judicial function, that is or was subject to a right of appeal or right to apply for judicial review; or
   (g) the person who is the subject of the complaint is no longer a Judge; or
   (h) the subject matter of the complaint was considered before the commencement of this section by the Head of Bench or the Judicial Complaints Lay Observer; or
-  (i) he or she has considered or previously considered the subject matter of the complaint, and that subject matter could not, if substantiated, warrant either referral to the Head of Bench under section 17 or consideration of the removal of the Judge from office by way of a recommendation under section 18.
+  (i) he or she has previously considered the subject matter of the complaint, and the complaint fails to raise any issue of significance that he or she has not previously considered.
 (1A) The Commissioner has previously considered the subject matter of the complaint for the purposes of subsection (1)(i) if he or she has exercised his or her power under section 15A to take no further action in respect of the complaint.
 (1B) Subsection (1A) does not limit subsection (1)(i).
 (2) If the Commissioner dismisses a complaint under this section, he or she must give the complainant and the Judge who is the subject of the complaint written notification stating—
