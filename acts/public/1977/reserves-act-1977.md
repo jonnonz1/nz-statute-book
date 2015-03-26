@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2015-03-26_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -208,6 +208,11 @@ There may from time to time be appointed under the State Sector Act 1988 a suita
 (2) All land or interests in land acquired by way of purchase or gift or taken as aforesaid shall vest in the Sovereign for the purposes of this Act as a reserve or as an addition to or for the purposes of an existing reserve, as the case may require, and all land acquired by the Minister by way of lease under this section shall during the term of the lease be subject to this Act.
 (3) The Minister may purchase, take on lease, or acquire any such land or interest therein for cash, or by instalments with or without interest, or by gift, or by way of exchange of Crown land, subject in the last-mentioned case to the approval of the Commissioner of Crown Lands appointed under section 12A of the Survey Act 1986 being first obtained.
 (4) Subject to sections 78, 82, 83, 84, 89, 90, 95, 105, and 110, the purchase price of any land, or any interest in land, or any right of way or other easement, or equality of exchange, or rent for land leased, or the compensation money payable in respect of any land or interest in land acquired or taken as aforesaid shall be paid out of money appropriated by Parliament.
+(5) The Minister may, with the prior written agreement of a local authority, declare by notice in the Gazette that a reserve, or any part of a reserve,—
+  (a) ceases to be vested in and administered by the local authority and instead vests in the Crown; and
+  (b) has such classification under this Act as may be specified in the Gazette notice, or be included in any existing reserve under this Act; and
+  (c) be administered in accordance with that classification.
+(6) The notice must be registered in the office of the Registrar-General of Land.
 
 ### 13 Governor-General may declare reserve to be national reserve
 (1) In order to protect values of national or international importance the Governor-General may, by Order in Council made on the recommendation of the Minister, declare that any reserve that has been classified pursuant to section 16 shall be a national reserve.
@@ -696,7 +701,7 @@ The administering body may, with the prior approval of the Minister, erect, or a
 (5) Subsection (4) shall not apply in any case where—by the granting and lawful exercise of the rights and powers contained in the licence.
   (a) the reserve is not likely to be materially altered or permanently damaged; and
   (b) the rights of the public in respect of the reserve are not likely to be permanently affected—
-(6) This section applies only to reserves vested in an administering body under section 26.
+(6)
 
 ### 49 Taking of specimens
 The Minister may from time to time, by writing under his or her hand, and subject to such conditions as he or she may impose in that behalf, grant any qualified person who in the Minister's opinion has the necessary credentials a right to take specified specimens of flora or fauna or rock mineral or soil from a reserve for scientific or educational purposes, provided the taking of such specimens does not unduly deplete the number of any species, damage ecological associations, or damage the values of the reserve:provided that nothing in this section shall authorise the doing of anything with respect to fauna that would contravene anything in the Wildlife Act 1953 or in any regulations or Proclamation or notification under that Act.
@@ -1387,7 +1392,7 @@ Where under this Act power to make bylaws is conferred on any administering body
 (2) The memorandum of variation shall be executed by the administering body and by the lessee or licensee, and, if the lease or licence is registered with the District Land Registrar, shall be registered with the District Land Registrar, who shall enter an appropriate memorial on the register book copy of the lease or licence and on the outstanding copy thereof:provided that, notwithstanding anything to the contrary in section 66 of the Land Transfer Act 1952, a memorial of variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity, subject to that variation.
 (3) If the interest of the lessee or licensee is at the time of registration of the memorandum of variation subject to a mortgage, the memorandum shall not be binding on the mortgagee unless he or she has consented in writing thereto in the memorandum.
 (4) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the New Zealand Railways Corporation Act 1981 shall apply with respect to variations of such leases.
-(5) This section applies only to reserves vested in an administering body under section 26.
+(5)
 
 ### 115 Transfers, subleases, and mortgages
 (1) Where a lease or licence includes a right to transfer, the lessee or licensee shall not transfer, sublease, mortgage, or otherwise dispose of his or her interest or any part thereof in the lease or licence without the consent of the administering body.
@@ -1395,7 +1400,7 @@ Where under this Act power to make bylaws is conferred on any administering body
 (3) The administering body shall not grant its consent to a transfer or sublease of a lease or licence issued under paragraph (b) or paragraph (c) of section 54(1) unless the transferee or sublessee is a voluntary organisation whose aims and objects are similar to those of the lessee or licensee.
 (4)
 (5) Nothing in the foregoing provisions of this section shall apply with respect to any lease over any government purpose reserve for railway purposes, and the appropriate provisions of the New Zealand Railways Corporation Act 1981 shall apply with respect to transfers, subleases, and mortgages of such leases.
-(6) This section applies only to reserves vested in an administering body under section 26.
+(6)
 
 ### 116 Certificate of title in respect of reserves
 (1) The District Land Registrar for the land registration district in which is situated any reserve vested in the Crown shall, on the written request of the Commissioner, issue a certificate or certificates of title under the Land Transfer Act 1952 in the name of the Sovereign in respect of any land for the time being comprised in that reserve.
