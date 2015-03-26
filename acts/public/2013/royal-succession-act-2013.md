@@ -1,5 +1,5 @@
 # Royal Succession Act 2013
-_Consolidation as at 2013-12-17_
+_Consolidation as at 2015-03-26_
 
 ### 1 Title
 This Act is the Royal Succession Act 2013.
