@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2015-03-26_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -900,7 +900,7 @@ Nothing in this Part derogates from any provision of the Resource Management Act
   (b)
   (c)
   (d)
-  (e) entry—shall be made following application in writing in the manner provided for an application for a search warrant in Part 4 of the Search and Surveillance Act 2012 by an authorised person to an issuing officer, who, if he has reason to believe that entry is necessary, may issue a warrant directed to the authorised person by name directing him to enter for the stated purpose.
+  (e) entry—shall be made following application in writing in the manner provided for an application for a search warrant in Part 4 of the Search and Surveillance Act 2012 by an authorised person to an issuing officer, who, if he has reason to believe that entry is necessary, may issue a warrant to every authorised person to enter for the stated purpose.
     (i) into any dwellinghouse; and
     (ii) on to any land or into any premises, vehicle, conveyance, ship, vessel, aircraft, railway, or drilling rig to obtain evidence of an offence—
   (f)
