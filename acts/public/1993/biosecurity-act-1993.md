@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2015-02-02_
+_Consolidation as at 2015-03-26_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -41,7 +41,7 @@ _Consolidation as at 2015-02-02_
   - **chief technical officer** means a person appointed a chief technical officer under section 101
   - **compliance order** means an order made under section 154
   - **consultation** includes actions taken before the enactment of this Act in anticipation of its enactment; and has a corresponding meaning
-  - **containment condition that is still operative** , at any time, means a condition of a kind authorised by section 13(2)(ab)(i) of the Animals Act 1967—
+  - **containment condition that is still operative** , at any time, means a condition of a kind authorised by section 13(2)⁠(ab)⁠(i) of the Animals Act 1967—
     (a) in the case of a condition requiring an organism to be held indefinitely, where the condition has not before that time been revoked; and
     (b) in the case of a condition requiring an organism to be held for a specified period, where the period has not before that time expired; and
     (c) in the case of a condition requiring an organism to be held until the happening of a specified event, where the event has not before that time happened
@@ -173,7 +173,7 @@ _Consolidation as at 2015-02-02_
   - **regional council** includes the Chatham Islands Council and a unitary authority
   - **regulations** means regulations made under this Act
   - **responsible Minister** means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **restricted organism** means any organism for which a containment approval has been granted in accordance with the Hazardous Substances and New Organisms Act 1996 (including any approval deemed to have been granted under sections 254(1), 254(3), 254(8)(a), 255(1), 255(2), 256, 258(1), and 258(3))
+  - **restricted organism** means any organism for which a containment approval has been granted in accordance with the Hazardous Substances and New Organisms Act 1996 (including any approval deemed to have been granted under sections 254(1), 254(3), 254(8)⁠(a), 255(1), 255(2), 256, 258(1), and 258(3))
   - **restricted place** means any place that an inspector or an authorised person has declared to be a restricted place under section 130
   - **risk goods** means any organism, organic material, or other thing, or substance, that (by reason of its nature, origin, or other relevant factors) it is reasonable to suspect constitutes, harbours, or contains an organism that may—
     (a) cause unwanted harm to natural and physical resources or human health in New Zealand; or
@@ -350,7 +350,7 @@ A provision in this Act that applies in the territorial sea must be interpreted 
     (ii) if the Act is one specified by regulations under section 165A to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1), under that Act (as modified by this section) by the chief executive of the department of State responsible for the Act's administration.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j) of the Customs and Excise Act 1996.
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)⁠(j) of the Customs and Excise Act 1996.
 
 ## Part 2 — Functions, powers, and duties
 
@@ -400,7 +400,7 @@ A provision in this Act that applies in the territorial sea must be interpreted 
   (d) recommend to the Governor-General under section 150(1) the making of biosecurity emergency regulations, and where such regulations are made, the Minister has the duty of laying them before the House of Representatives under section 150(5):
   (e) declare a provisional control programme under section 152(1):
   (f) extend under subsection (3) of section 152 a provisional control programme.
-(2) A Minister must not delegate to any person the exercise of the powers specified in subsection (1)(b), (d), (e), and (f).
+(2) A Minister must not delegate to any person the exercise of the powers specified in subsection (1)⁠(b), (d), (e), and (f).
 
 ### 12 Responsible Minister may require information
 (1) The responsible Minister may ask any regional council or management agency to give the responsible Minister, in a form the responsible Minister specifies, any information relating to the exercise or performance of any of its functions, powers, or duties under this Act or under any pest management plan or a pathway management plan—that the responsible Minister reasonably requires.
@@ -580,7 +580,7 @@ Inward cargo report
   (a) an emergency or an urgent situation has arisen; and
   (b) the emergency or the urgent situation creates a risk of significant harm to human health, the environment, or the economy; and
   (c) the earlier giving of the report is necessary to avoid or mitigate the risk.
-(4) This section does not limit, and is not limited by, section 17(11)(b)(iii).
+(4) This section does not limit, and is not limited by, section 17(11)⁠(b)⁠(iii).
 Persons who carry out duty to give report
 (5) A person is, for this section's purposes, responsible for the carriage of cargo on a craft only if the person (whether or not the person owns, or has any proprietary interest of any kind in, all or any part of the cargo) is—
   (a) the person in charge of the craft; or
@@ -597,7 +597,7 @@ Requirements for report
 Form and manner in which report given
 (10) The person who is carrying out the duty to give the report must ensure that it is given in an approved form and manner.
 Cargo aggregator defined
-(11) Cargo aggregator, in subsection (5)(b), means a person who, for reward, aggregates cargo (being cargo to be carried for different people) for carriage together on a craft—
+(11) Cargo aggregator, in subsection (5)⁠(b), means a person who, for reward, aggregates cargo (being cargo to be carried for different people) for carriage together on a craft—
   (a) in bulk cargo containers, or otherwise; and
   (b) under a shared space, or other negotiated volume of cargo, arrangement with the craft's owner or operator.
 
@@ -607,7 +607,7 @@ Cargo aggregator defined
     (i) the person has not notified the Director-General under section 17; or
     (ii) the place is not the port or destination notified (or, as the case may be, last notified) under section 17,—
   (b) shall prevent risk goods from leaving the craft without the permission of an inspector.
-(2) The person in charge of any such craft shall, if so required by an inspector, pay a bond for such amount not exceeding $10,000 as the inspector may require to secure due compliance with subsection (1)(b).
+(2) The person in charge of any such craft shall, if so required by an inspector, pay a bond for such amount not exceeding $10,000 as the inspector may require to secure due compliance with subsection (1)⁠(b).
 
 ### 19 Persons in charge of certain craft to obey directions of inspector or authorised person
 (1) This section applies to a craft, and place in New Zealand, if—
@@ -692,13 +692,13 @@ Cargo aggregator defined
 (5) The officer then recommends to the Director-General that the Director-General issue the standard.
 
 ### 24 Review
-(1) A person consulted under section 23(3)(b) may raise with the Director-General the question of whether scientific evidence about which the person raised a significant concern received sufficient regard in the development of the standard.
+(1) A person consulted under section 23(3)⁠(b) may raise with the Director-General the question of whether scientific evidence about which the person raised a significant concern received sufficient regard in the development of the standard.
 (2) The Director-General must ensure that there is a process to establish an independent review panel to review the question of whether scientific evidence about which a person has raised a significant concern received sufficient regard in the development of the standard.
 (3) The process must deal with—
   (a) the criteria for setting up the panel; and
   (b) how the Director-General will appoint the panel members, including the knowledge and experience that members must have; and
   (c) the procedures to be followed by—
-    (i) a person consulted under section 23(3)(b); and
+    (i) a person consulted under section 23(3)⁠(b); and
     (ii) the panel in undertaking its review; and
   (d) the reporting requirements for the panel.
 (4) If a panel reports to the Director-General, the Director-General must, as soon as reasonably practicable,—
@@ -748,7 +748,7 @@ Permits
 
 ### 24E Meaning of craft risk management standard
 (1) A craft risk management standard specifies requirements to be met for the effective management of risks that—
-  (a) are associated with the entry of craft into New Zealand territory; and
+  (a) are associated with the entry of craft into New Zealand territory or the arrival of craft in the EEZ; and
   (b) are not already covered by, or are not suitable to be covered by, an import health standard.
 (2) A craft risk management standard—
   (a) must specify the class or description of craft to which it applies:
@@ -875,7 +875,7 @@ An operator, or the person in charge, of a craft to which a craft risk managemen
   (a) act within its terms; and
   (b) take all reasonable steps to communicate its terms to all other persons who come into possession or control of the goods before they are given a biosecurity clearance; and
   (c) take all other reasonable steps to ensure that other persons act within its terms.
-(9) A person who comes into possession or control of the goods before they are given a biosecurity clearance and has had the terms of the authorisation communicated under subsection (8)(b) must act within the terms.
+(9) A person who comes into possession or control of the goods before they are given a biosecurity clearance and has had the terms of the authorisation communicated under subsection (8)⁠(b) must act within the terms.
 
 ### 26 Clearances by inspectors
 (1) An inspector must not give a clearance for the entry into New Zealand of goods contrary to section 27 but may give a clearance if satisfied as required by section 27.
@@ -902,8 +902,8 @@ An operator, or the person in charge, of a craft to which a craft risk managemen
   (b) circumstances or documents associated with the importation of the goods:
   (c) circumstances or documents associated with the craft on which the goods were imported.
 (3) The Director-General must ensure that the following information is available on an Internet site maintained by or on behalf of the Ministry:
-  (a) the guidelines and directions referred to in subsection (1)(b)(iii) and (d)(iii):
-  (b) the following details about decisions to give a clearance to goods under subsection (1)(d):
+  (a) the guidelines and directions referred to in subsection (1)⁠(b)⁠(iii) and (d)⁠(iii):
+  (b) the following details about decisions to give a clearance to goods under subsection (1)⁠(d):
     (i) the goods given clearance; and
     (ii) the nature of the non-compliance with the requirements in an applicable import health standard; and
     (iii) the reasons for giving the clearance.
@@ -1061,7 +1061,7 @@ Section 28 does not apply to organisms approved under the following sections of 
   (b) the person's residential address and contact details:
   (c) the presence, nature, origin, or itinerary of goods in the person's possession or under his or her immediate control:
   (d) any other matter on which the inspector requires information.
-(2) The purpose for which the inspector may ask for information under subsection (1)(d) is to exercise a power or carry out a function or duty under this Part.
+(2) The purpose for which the inspector may ask for information under subsection (1)⁠(d) is to exercise a power or carry out a function or duty under this Part.
 (3) A person in a biosecurity control area must, if asked to do so by an inspector, provide the inspector with the person's passport or any evidence of identity that the person has that is not a passport.
 (4) An inspector to whom a passport or evidence of identity is provided under subsection (3)—
   (a) may take a copy; and
@@ -1603,7 +1603,7 @@ For the purposes of sections 60 to 67,—
     (viii) the extent to which any persons, or persons of a class or description, are likely to benefit from the plan:
     (ix) the extent to which any persons, or persons of a class or description, contribute to the creation, continuance, or exacerbation of the problems proposed to be resolved by the plan:
     (x) the rationale for the proposed allocation of costs:
-    (xi) if it is proposed that the plan be funded by a levy under section 100L, how the proposed levy satisfies section 100L(5)(d) and what matters will be specified under section 100N(1):
+    (xi) if it is proposed that the plan be funded by a levy under section 100L, how the proposed levy satisfies section 100L(5)⁠(d) and what matters will be specified under section 100N(1):
     (xii) whether any unusual administrative problems or costs are expected in recovering the costs allocated to any of the persons whom the plan would require to pay the costs:
   (d) any other organism intended to be controlled:
   (e) the effects that, in the opinion of the person making the proposal, implementation of the plan would have on—
@@ -1664,7 +1664,7 @@ If the Minister is satisfied that section 61 has been complied with, the Ministe
   (a) that, if Ministers' responsibilities may be affected by the plan, the Ministers have been consulted; and
   (b) that, if local authorities' responsibilities may be affected by the plan, the authorities have been consulted; and
   (c) that, if consultation with tangata whenua or other persons is appropriate, sufficient consultation has occurred.
-(2) In considering whether the Minister is satisfied as required by subsection (1)(c), the Minister must have regard to the following:
+(2) In considering whether the Minister is satisfied as required by subsection (1)⁠(c), the Minister must have regard to the following:
   (a) the scale of the impacts on persons who are likely to be affected by the plan; and
   (b) whether the persons likely to be affected by the plan or their representatives have already been consulted and, if so, the nature of the consultation; and
   (c) the level of support for, or opposition to, the proposal from persons who are likely to be affected by it.
@@ -1808,7 +1808,7 @@ For the purposes of sections 69 to 78,—
     (viii) the extent to which any persons, or persons of a class or description, are likely to benefit from the plan:
     (ix) the extent to which any persons, or persons of a class or description, contribute to the creation, continuance, or exacerbation of the problems proposed to be resolved by the plan:
     (x) the rationale for the proposed allocation of costs:
-    (xi) if it is proposed that the plan be funded by a levy under section 100L, how the proposed levy satisfies section 100L(5)(d) and what matters will be specified under section 100N(1):
+    (xi) if it is proposed that the plan be funded by a levy under section 100L, how the proposed levy satisfies section 100L(5)⁠(d) and what matters will be specified under section 100N(1):
     (xii) whether any unusual administrative problems or costs are expected in recovering the costs allocated to any of the persons whom the plan would require to pay the costs:
   (d) any other organism intended to be controlled:
   (e) the effects that, in the opinion of the person making the proposal, implementation of the plan would have on—
@@ -1874,7 +1874,7 @@ If the council is satisfied that section 70 has been complied with, the council 
   (b) that, if local authorities' responsibilities may be affected by the plan, the authorities have been consulted; and
   (c) that the tangata whenua of the area who may be affected by the plan were consulted through iwi authorities and tribal runanga; and
   (d) that, if consultation with other persons is appropriate, sufficient consultation has occurred.
-(2) In considering whether the council is satisfied as required by subsection (1)(d), the council must have regard to the following:
+(2) In considering whether the council is satisfied as required by subsection (1)⁠(d), the council must have regard to the following:
   (a) the scale of the impacts on persons who are likely to be affected by the plan; and
   (b) whether the persons likely to be affected by the plan or their representatives have already been consulted and, if so, the nature of the consultation; and
   (c) the level of support for, or opposition to, the proposal from persons who are likely to be affected by it.
@@ -1992,15 +1992,15 @@ If the council is satisfied that section 73 has been complied with, the council 
   (b) take 1 of the courses of action described in subsection (4).
 (4) The courses of action are as follows:
   (a) if the matter dealt with in the application is severable from the rest of the plan, the council must make the plan without the matter in it and, after the Environment Court's decision, do the applicable 1 of the following:
-    (i) if the Environment Court dismisses the application under section 76(8)(a), make the part of the plan that deals with the matter:
-    (ii) if the Environment Court gives a direction under section 76(8)(b), comply with the direction before making the part of the plan that deals with the matter:
-  (b) if the matter dealt with in the application is not severable from the rest of the plan and the Environment Court dismisses the application under section 76(8)(a), the council must make the plan:
-  (c) if the matter dealt with in the application is not severable from the rest of the plan and the Environment Court gives a direction under section 76(8)(b), the council must comply with the direction before making the plan.
+    (i) if the Environment Court dismisses the application under section 76(8)⁠(a), make the part of the plan that deals with the matter:
+    (ii) if the Environment Court gives a direction under section 76(8)⁠(b), comply with the direction before making the part of the plan that deals with the matter:
+  (b) if the matter dealt with in the application is not severable from the rest of the plan and the Environment Court dismisses the application under section 76(8)⁠(a), the council must make the plan:
+  (c) if the matter dealt with in the application is not severable from the rest of the plan and the Environment Court gives a direction under section 76(8)⁠(b), the council must comply with the direction before making the plan.
 (5) The council must give public notice of—
   (a) the making of the plan; and
   (b) the plan's commencement date or dates, as follows:
-    (i) the commencement date of a plan made in the circumstances described in subsection (2) or (4)(b) or (c) is the date on which the council fixes the council's seal to the plan:
-    (ii) the commencement dates of the parts of a plan made in the circumstances described in subsection (4)(a) are, for the part of the plan made first, the date on which the council fixes the council's seal to that part and, for the part of the plan made after the Environment Court's decision, the date on which the council fixes the council's seal to that part.
+    (i) the commencement date of a plan made in the circumstances described in subsection (2) or (4)⁠(b) or (c) is the date on which the council fixes the council's seal to the plan:
+    (ii) the commencement dates of the parts of a plan made in the circumstances described in subsection (4)⁠(a) are, for the part of the plan made first, the date on which the council fixes the council's seal to that part and, for the part of the plan made after the Environment Court's decision, the date on which the council fixes the council's seal to that part.
 
 ### 78 Exemptions from rules
 (1) The council may exempt a person from a requirement in a rule, without conditions or on conditions that the council considers appropriate.
@@ -2062,7 +2062,7 @@ For the purposes of sections 80 to 87,—
     (x) the anticipated costs of implementing the plan:
     (xi) how it is proposed that the costs be funded:
     (xii) the rationale for the proposed allocation of costs:
-    (xiii) if it is proposed that the plan be funded by a levy under section 100L, how the proposed levy satisfies section 100L(5)(d) and what matters will be specified under section 100N(1):
+    (xiii) if it is proposed that the plan be funded by a levy under section 100L, how the proposed levy satisfies section 100L(5)⁠(d) and what matters will be specified under section 100N(1):
     (xiv) whether any unusual administrative problems or costs are expected in recovering the costs allocated to any of the persons whom the plan would require to pay the costs:
   (d) the effect that, in the opinion of the person making the proposal, implementation of the plan would have on—
     (i) economic wellbeing, the environment, human health, enjoyment of the natural environment, and the relationship between Māori, their culture, and their traditions and their ancestral lands, waters, sites, wāhi tapu, and taonga:
@@ -2118,7 +2118,7 @@ If the Minister is satisfied that section 81 has been complied with, the Ministe
   (a) that, if Ministers' responsibilities may be affected by the plan, the Ministers have been consulted; and
   (b) that, if local authorities' responsibilities may be affected by the plan, the authorities have been consulted; and
   (c) that, if consultation with tangata whenua or other persons is appropriate, sufficient consultation has occurred.
-(2) In considering whether the Minister is satisfied as required by subsection (1)(c), the Minister must have regard to the following:
+(2) In considering whether the Minister is satisfied as required by subsection (1)⁠(c), the Minister must have regard to the following:
   (a) the scale of the impacts on persons who are likely to be affected by the plan; and
   (b) whether the persons likely to be affected by the plan or their representatives have already been consulted and, if so, the nature of the consultation; and
   (c) the level of support for, or opposition to, the proposal from persons who are likely to be affected by it.
@@ -2201,13 +2201,13 @@ If the Minister is satisfied that section 84 has been complied with, the Ministe
   (f) rural fire authorities:
   (g) DHBs, as defined in section 6 of the New Zealand Public Health and Disability Act 2000.
 (2) An emergency is,—
-  (a) for the purposes of subsection (1)(a), an emergency relating to—
+  (a) for the purposes of subsection (1)⁠(a), an emergency relating to—
     (i) a threat to New Zealand's interests under section 5 of the Defence Act 1990:
     (ii) the safety of human life:
     (iii) the safety of ships or aircraft:
     (iv) the protection of the environment:
     (v) equipment or facilities of high value:
-  (b) for the purposes of subsection (1)(b) to (g), a situation as described in paragraphs (a) and (b) of the definition of emergency in section 4 of the Civil Defence Emergency Management Act 2002.
+  (b) for the purposes of subsection (1)⁠(b) to (g), a situation as described in paragraphs (a) and (b) of the definition of emergency in section 4 of the Civil Defence Emergency Management Act 2002.
 (3) The Minister may exempt a person from a requirement in a rule, without conditions or on conditions that the Minister considers appropriate.
 (4) The Minister may grant an exemption under subsection (3) only if—
   (a) the Minister is satisfied that granting the exemption will not significantly prejudice the attainment of the plan's objectives; and
@@ -2266,7 +2266,7 @@ For the purposes of sections 89 to 98,—
     (vii) the extent to which any persons, or persons of a class or description, are likely to benefit from the plan:
     (viii) the extent to which any persons, or persons of a class or description, contribute to the creation, continuance, or exacerbation of the problems proposed to be resolved by the plan:
     (ix) the rationale for the proposed allocation of costs:
-    (x) if it is proposed that the plan be funded by a levy under section 100L, how the proposed levy satisfies section 100L(5)(d) and what matters will be specified under section 100N(1):
+    (x) if it is proposed that the plan be funded by a levy under section 100L, how the proposed levy satisfies section 100L(5)⁠(d) and what matters will be specified under section 100N(1):
     (xi) whether any unusual administrative problems or costs are expected in recovering the costs allocated to any of the persons whom the plan would require to pay the costs:
   (d) the effects that, in the opinion of the person making the proposal, implementation of the plan would have on—
     (i) economic wellbeing, the environment, human health, enjoyment of the natural environment, and the relationship between Māori, their culture, and their traditions and their ancestral lands, waters, sites, wāhi tapu, and taonga:
@@ -2327,7 +2327,7 @@ If the council is satisfied that section 90 has been complied with, the council 
   (b) that, if local authorities' responsibilities may be affected by the plan, the authorities have been consulted; and
   (c) that the tangata whenua of the area who may be affected by the plan were consulted through iwi authorities and tribal runanga; and
   (d) that, if consultation with other persons is appropriate, sufficient consultation has occurred.
-(2) In considering whether the council is satisfied as required by subsection (1)(d), the council must have regard to the following:
+(2) In considering whether the council is satisfied as required by subsection (1)⁠(d), the council must have regard to the following:
   (a) the scale of the impacts on persons who are likely to be affected by the plan; and
   (b) whether the persons likely to be affected by the plan or their representatives have already been consulted and, if so, the nature of the consultation; and
   (c) the level of support for, or opposition to, the proposal from persons who are likely to be affected by it.
@@ -2434,15 +2434,15 @@ If the council is satisfied that section 93 has been complied with, the council 
   (b) take 1 of the courses of action described in subsection (4).
 (4) The courses of action are as follows:
   (a) if the matter dealt with in the application is severable from the rest of the plan, the council must make the plan without the matter in it and, after the Environment Court's decision, do the applicable 1 of the following:
-    (i) if the Environment Court dismisses the application under section 96(8)(a), make the part of the plan that deals with the matter:
-    (ii) if the Environment Court gives a direction under section 96(8)(b), comply with the direction before making the part of the plan that deals with the matter:
-  (b) if the matter dealt with in the application is not severable from the rest of the plan and the Environment Court dismisses the application under section 96(8)(a), the council must make the plan:
-  (c) if the matter dealt with in the application is not severable from the rest of the plan and the Environment Court gives a direction under section 96(8)(b), the council must comply with the direction before making the plan.
+    (i) if the Environment Court dismisses the application under section 96(8)⁠(a), make the part of the plan that deals with the matter:
+    (ii) if the Environment Court gives a direction under section 96(8)⁠(b), comply with the direction before making the part of the plan that deals with the matter:
+  (b) if the matter dealt with in the application is not severable from the rest of the plan and the Environment Court dismisses the application under section 96(8)⁠(a), the council must make the plan:
+  (c) if the matter dealt with in the application is not severable from the rest of the plan and the Environment Court gives a direction under section 96(8)⁠(b), the council must comply with the direction before making the plan.
 (5) The council must give public notice of—
   (a) the making of the plan; and
   (b) the plan's commencement date or dates, as follows:
-    (i) the commencement date of a plan made in the circumstances described in subsection (2) or (4)(b) or (c) is the date on which the council fixes the council's seal to the plan:
-    (ii) the commencement dates of the parts of a plan made in the circumstances described in subsection (4)(a) are, for the part of the plan made first, the date on which the council fixes the council's seal to that part and, for the part of the plan made after the Environment Court's decision, the date on which the council fixes the council's seal to that part.
+    (i) the commencement date of a plan made in the circumstances described in subsection (2) or (4)⁠(b) or (c) is the date on which the council fixes the council's seal to the plan:
+    (ii) the commencement dates of the parts of a plan made in the circumstances described in subsection (4)⁠(a) are, for the part of the plan made first, the date on which the council fixes the council's seal to that part and, for the part of the plan made after the Environment Court's decision, the date on which the council fixes the council's seal to that part.
 
 ### 98 Exemptions from rules
 (1) The following are exempt from the requirements in rules for acts or omissions in the course of an emergency as described in subsection (2):
@@ -2454,13 +2454,13 @@ If the council is satisfied that section 93 has been complied with, the council 
   (f) rural fire authorities:
   (g) DHBs, as defined in section 6 of the New Zealand Public Health and Disability Act 2000.
 (2) An emergency is,—
-  (a) for the purposes of subsection (1)(a), an emergency relating to—
+  (a) for the purposes of subsection (1)⁠(a), an emergency relating to—
     (i) a threat to New Zealand's interests under section 5 of the Defence Act 1990:
     (ii) the safety of human life:
     (iii) the safety of ships or aircraft:
     (iv) the protection of the environment:
     (v) equipment or facilities of high value:
-  (b) for the purposes of subsection (1)(b) to (g), a situation as described in paragraphs (a) and (b) of the definition of emergency in section 4 of the Civil Defence Emergency Management Act 2002.
+  (b) for the purposes of subsection (1)⁠(b) to (g), a situation as described in paragraphs (a) and (b) of the definition of emergency in section 4 of the Civil Defence Emergency Management Act 2002.
 (3) The council may exempt a person from a requirement in a rule, without conditions or on conditions that the council considers appropriate.
 (4) The council may grant an exemption under subsection (3) only if—
   (a) the council is satisfied that granting the exemption will not significantly prejudice the attainment of the plan's objectives; and
@@ -2531,7 +2531,7 @@ For the purposes of sections 100 to 100G,—
 
 ### 100B Operational plans
 (1) A management agency must—
-  (a) prepare an operational plan within 3 months after the commencement date specified under section 64(3)(m), 73(3)(m), 84(3)(m), or 93(3)(l); and
+  (a) prepare an operational plan within 3 months after the commencement date specified under section 64(3)⁠(m), 73(3)⁠(m), 84(3)⁠(m), or 93(3)⁠(l); and
   (b) review the operational plan annually; and
   (c) decide on appropriate amendments to the operational plan, if necessary; and
   (d) make copies of the operational plan and every amended version available to the public at cost; and
@@ -2544,7 +2544,7 @@ For the purposes of sections 100 to 100G,—
   (b) must make the report on the operational plan and its implementation available to the public as a separate document, at cost, or as an extract from the annual report, at the cost of providing the extract.
 (4) The Minister or council may give the management agency written notice that the Minister or council intends to disallow all or part of an operational plan on the ground that the Minister or council believes that the whole operational plan, or the part of it, is inconsistent with the plan that the operational plan implements.
 (5) A notice under subsection (4)—
-  (a) must be given before, or within 20 working days after, the Minister or council receives a copy of the operational plan or an amended version under subsection (1)(e); and
+  (a) must be given before, or within 20 working days after, the Minister or council receives a copy of the operational plan or an amended version under subsection (1)⁠(e); and
   (b) has the effect that the whole operational plan, or the part of it, is of no effect; and
   (c) may be revoked by a later written notice given by the Minister or council to the management agency allowing the whole operational plan or the part.
 
@@ -2612,7 +2612,7 @@ Consequence of not complying with section
 (5) The court must—
   (a) dismiss the application; or
   (b) direct the council to modify the plan, delete a provision from the plan, or insert a provision in the plan.
-(6) The council must comply with a direction under subsection (5)(b).
+(6) The council must comply with a direction under subsection (5)⁠(b).
 
 ### 100G Minor changes to plans
 National pest management plan or national pathway management plan
@@ -3164,7 +3164,7 @@ The purpose of this Part is to provide a framework that enables the government a
 (5) A delegation under this section does not affect the performance or exercise of any function, power, or duty by the person on whom the function, power, or duty is conferred or imposed.
 
 ### 105A Call in of powers or functions
-(1) This section applies to the powers or functions in sections 19(2)(a), 26, 32, 33, 43, 122, 125, and 130 that an inspector or authorised person may exercise or carry out.
+(1) This section applies to the powers or functions in sections 19(2)⁠(a), 26, 32, 33, 43, 122, 125, and 130 that an inspector or authorised person may exercise or carry out.
 (2) A chief technical officer may decide that the power must be exercised or the function carried out by the chief technical officer instead of by the inspector or authorised person.
 (3) The chief technical officer may not make a decision under subsection (2) if—
   (a) the inspector or authorised person has already exercised the power or carried out the function; and
@@ -3336,15 +3336,15 @@ An inspector who suspects on reasonable grounds that a person may be in possessi
 (3) Where a warrant under section 110 has been issued to an inspector or authorised person subject to conditions, the inspector or authorised person—
   (a) shall not enter the dwellinghouse, marae, or building associated with a marae, specified in the warrant otherwise than in accordance with the conditions; and
   (b) shall in all other respects comply with the conditions.
-(4) Subject to subsection (3), an inspector or authorised person exercising the powers of entry and inspection conferred by subsection (1)(a) and (b) may use such force in going on, into, or under, the place concerned (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
+(4) Subject to subsection (3), an inspector or authorised person exercising the powers of entry and inspection conferred by subsection (1)⁠(a) and (b) may use such force in going on, into, or under, the place concerned (whether by breaking down a door or otherwise), or in breaking open anything in the place, as is reasonable in the circumstances.
 
 ### 110 Warrant to inspect dwellinghouse, marae, etc
-(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided by subpart 3 of Part 4 of that Act by an inspector or authorised person, issue a warrant authorising the inspector or authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided by subpart 3 of Part 4 of that Act by an inspector or authorised person, issue a warrant authorising every inspector and authorised person to enter and inspect the dwellinghouse, marae, or building associated with a marae specified in the application.
 (2) Such a warrant may be issued only if the issuing officer is satisfied that there is reasonable ground for believing that—
   (a) there is, on or in the place (being a dwellinghouse, marae, or building associated with a marae) specified in the application, any pest, pest agent, unwanted organism, unauthorised goods, or risk goods; or
   (b) an activity that is regulated by or under the Act is being carried out on or in the place (being a dwellinghouse, marae, or building associated with a marae) specified in the application.
 (3) Such a warrant—
-  (a) authorises the inspector or authorised person to enter and inspect the place concerned on 1 occasion within 14 days of the issue of the warrant; and
+  (a) authorises every inspector and authorised person to enter and inspect the place concerned on 1 occasion within 14 days of the issue of the warrant; and
   (b) may be unconditional or subject to conditions.
 (4) The provisions of subparts 1, 3, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
@@ -3408,7 +3408,7 @@ An inspector or authorised person who has lawfully entered a place under section
   (d) the name and address of the person or body responsible for the application of the article or substance.
 (6) If the chief technical officer is satisfied that compliance with the 2 weeks' notice requirement under subsection (5) would significantly prejudice the chances of eradicating or containing an organism of a kind described in subsection (7),—
   (a) the chief technical officer must notify the responsible Minister of that fact, and, unless the urgency of the situation makes it impracticable, obtain the approval of the Minister to a forgoing of the 2 weeks' notice requirement; and
-  (b) the 2 weeks' notice requirement does not then apply, but the chief technical officer must give as much public notice of the matters specified in subsection (5)(a) to (d) as is consistent with avoiding prejudice to the chances of eradicating or containing the organism; and
+  (b) the 2 weeks' notice requirement does not then apply, but the chief technical officer must give as much public notice of the matters specified in subsection (5)⁠(a) to (d) as is consistent with avoiding prejudice to the chances of eradicating or containing the organism; and
   (c) the public notice may be given by whatever means the chief technical officer considers effective and appropriate to inform the persons who may be affected (including by radio or television announcement).
 (7) The kinds of organism in respect of which shorter notification may be given under subsection (6) are organisms that—
   (a) are not established or not known to be established in New Zealand, or are established in New Zealand but restricted to certain parts of New Zealand; and
@@ -3451,8 +3451,8 @@ Any person lawfully exercising a power under any of sections 109, 111, 113, 114,
   (h) the Trade in Endangered Species Act 1989:
   (i) enactments administered by the Ministry.
 (3) The inspector must, as soon as practicable, deliver the goods or documents into the custody of 1 of the following persons:
-  (a) if the inspector believes that any of subsection (2)(a) to (c) applies to the goods or documents, a constable:
-  (b) if the inspector believes that any of subsection (2)(d) to (i) applies to the goods or documents, an appropriately authorised officer who—
+  (a) if the inspector believes that any of subsection (2)⁠(a) to (c) applies to the goods or documents, a constable:
+  (b) if the inspector believes that any of subsection (2)⁠(d) to (i) applies to the goods or documents, an appropriately authorised officer who—
     (i) holds office under the Act specified in the paragraph; or
     (ii) is employed by the department that administers the Act.
 (4) The inspector may also deliver to the person, when delivering goods, a notice stating 1 of the following:
@@ -3549,7 +3549,7 @@ An inspector may destroy or otherwise dispose of an organism that is being lawfu
 An inspector may by notice in writing direct that any risk goods specified in the notice shall be placed in a transitional facility for such period as is specified in the notice or until the occurrence of an event specified in the notice.
 
 ### 126 Inspection of and intervention in transitional facilities and containment facilities
-(1) An inspector authorised in writing by the Director-General may at any reasonable time enter a transitional facility or a containment facility for the purpose of confirming that the facility complies with the standards set in accordance with section 39 or section 11(1)(fc) of the Hazardous Substances and New Organisms Act 1996 or that the operator is approved as the facility operator for that facility, and the provisions of section 112 apply to any such entry.
+(1) An inspector authorised in writing by the Director-General may at any reasonable time enter a transitional facility or a containment facility for the purpose of confirming that the facility complies with the standards set in accordance with section 39or section 11(1)⁠(fc) of the Hazardous Substances and New Organisms Act 1996 or that the operator is approved as the facility operator for that facility, and the provisions of section 112 apply to any such entry.
 (2) An inspector may exercise a power described in subsection (3) if (and only if) the inspector has reasonable grounds to suspect that—
   (a) a transitional facility or containment facility does not comply with the standards approved for a facility of that kind; or
   (b) the facility operator is not complying with the standards approved for operating that facility; or
@@ -3650,7 +3650,7 @@ All costs recoverable by a chief technical officer, principal officer, or manage
     (i) any organism that is the pest or unwanted organism in respect of which the warrant concerned was issued; or
     (ii) any thing that may harbour or contain the pest or unwanted organism in respect of which the warrant concerned was issued; or
     (iii) any thing that, if moved beyond the control, would be moved in breach of section 130(4); or
-    (iv) any thing that, if moved beyond the control, would be moved in breach of section 134(1)(b).
+    (iv) any thing that, if moved beyond the control, would be moved in breach of section 134(1)⁠(b).
 (8A) A chief technical officer may, either generally or in any particular case, give any reasonable directions as to the disposal of, the treatment of, or any other dealing with, any organism or other thing seized in accordance with subsection (8); and any person may dispose of, treat, or otherwise deal with any such organism or thing accordingly.
 (8B) In exercising the powers of a chief technical officer in accordance with subsection (8A), a chief technical officer must, so far as is practicable without significantly prejudicing the successful eradication or management of the pest or unwanted organism concerned, act in a manner that is consistent with avoiding or minimising loss to the owner or person in charge of the organism or other thing that was seized.
 (9) No person shall,—
@@ -3829,7 +3829,7 @@ Every order under section 137 shall provide for—
   (e) the name and contact details of the occupier.
 (4) The database may contain any other information about land that the Director-General considers useful.
 (5) The information in the database may come from any source, such as—
-  (a) information in the public domain:
+  (a) information that is publicly available, as defined in section 142C(7):
   (b) information provided voluntarily for inclusion in the database by a person to whom the information relates or by the person's agent:
   (c) information provided or made available to the Director-General or the Ministry under this Act or any other enactment.
 (6) The fact that information is in the biosecurity database because it is provided or made available to the Director-General or the Ministry under another enactment does not affect any provisions in the other enactment relating to the handling of the information.
@@ -3848,21 +3848,27 @@ Every order under section 137 shall provide for—
 (3) The Local Government (Rating) Act 2002 does not prevent a local authority from complying with this section.
 
 ### 142C Access, use, or disclosure
-Public domain
-(1) For information in the biosecurity database that comes from the public domain, the Director-General may—
+Publicly available information
+(1) For information in the biosecurity database that is publicly available, the Director-General may—
   (a) access, use, or disclose it for any lawful purpose:
   (b) authorise other persons to access and use it for any lawful purpose.
-Other sources
-(2) For information in the biosecurity database that comes from any other source, the only rights that the Director-General has are—
+Information that is not publicly available
+(2) For information in the biosecurity database that is not publicly available, the only rights that the Director-General has are—
   (a) to access, use, or disclose it for the purposes of this Act:
   (b) to authorise other persons to access and use it for the purposes of this Act:
   (c) to access, use, or disclose it as required by any other enactment, except the Official Information Act 1982:
   (d) to authorise other persons to access and use it as required by any other enactment, except the Official Information Act 1982:
   (e) to access, use, or disclose it in accordance with a permission of a kind described in subsection (4) or (5):
-  (f) to authorise other persons to access and use it in accordance with a permission of a kind described in subsection (4) or (5).
-(3) The references to the Official Information Act 1982 (OIA) in subsection (2)(c) and (d) mean that the OIA cannot be used to access information in the biosecurity database, whether or not the OIA can be used to access the same information from another source.
-(4) For information in the biosecurity database that comes from any other source, the person to whom the information relates or the person's agent may give written permission for access to it and use and disclosure of it for a purpose specified in the permission.
-(5) For information in the biosecurity database that comes from any other source, the person to whom the information relates or the person's agent may give an oral permission to which the following apply:
+  (f) to authorise other persons to access and use it in accordance with a permission of a kind described in subsection (4) or (5):
+  (g) to access, use, or disclose it for statistical or research purposes, provided that the information accessed, used, or disclosed—
+    (i) does not identify any person; and
+    (ii) is not published in any form that could reasonably be expected to identify any person:
+  (h) to authorise other persons to access and use it for statistical or research purposes, provided that the information used—
+    (i) does not identify any person; and
+    (ii) is not published in any form that could reasonably be expected to identify any person.
+(3) The references to the Official Information Act 1982 (OIA) in subsection (2)⁠(c) and (d) mean that the OIA cannot be used to access information in the biosecurity database, whether or not the OIA can be used to access the same information from another source.
+(4) For information in the biosecurity database that is not publicly available, the person to whom the information relates or the person's agent may give written permission for access to it and use and disclosure of it for a purpose specified in the permission.
+(5) For information in the biosecurity database that is not publicly available, the person to whom the information relates or the person's agent may give an oral permission to which the following apply:
   (a) it must be for 1 or all of access to the information, use of the information, or disclosure of the information; and
   (b) it must state the purpose for which the person permits the access, use, or disclosure; and
   (c) it may be withdrawn at any time; and
@@ -3876,6 +3882,10 @@ Register of relevant enactments
     (ii) an enactment containing a provision under which the Director-General may make an agreement allowing a person access to, use of, or disclosure of information in the biosecurity database:
     (iii) an enactment containing a provision under which the Director-General has made an agreement allowing a person access to, use of, or disclosure of information in the biosecurity database; and
   (b) ensure that the register is available on an Internet site maintained by or on behalf of the Ministry.
+Meaning of publicly available
+(7) In this section and section 142A(5)⁠(a), information that is publicly available means information that—
+  (a) comes directly or indirectly from a source that is, or was at the time of collection, available to the public; or
+  (b) the Director-General believes on reasonable grounds is available to the public.
 
 ### 142D Person may require Director-General not to access, use, or disclose information
 (1) A person whose information is in the biosecurity database may request the Director-General not to access, use, or disclose the following information about the person:
@@ -4082,9 +4092,9 @@ In sections 142M to 142S,—
     (iii) public comment on the proposal to incorporate the material may be made to the responsible body; and
   (b) allow a reasonable opportunity for the public to comment on the proposal; and
   (c) consider any comments made.
-(5) If the material is material as described in section 142M(1)(e), the latest edition of the work available at the time of reading, together with any changes made to it up to that time, must be used.
-(6) If the material is material as described in section 142M(1)(f), the specific edition must be used.
-(7) If the material is material as described in section 142M(1)(g), the version of the register available at the time of reading must be used.
+(5) If the material is material as described in section 142M(1)⁠(e), the latest edition of the work available at the time of reading, together with any changes made to it up to that time, must be used.
+(6) If the material is material as described in section 142M(1)⁠(f), the specific edition must be used.
+(7) If the material is material as described in section 142M(1)⁠(g), the version of the register available at the time of reading must be used.
 (8) Failure to comply with this section does not invalidate a biosecurity document that incorporates material.
 
 ### 142O Effect of amendments to, or replacement of, material incorporated
@@ -4093,7 +4103,7 @@ In sections 142M to 142S,—
   (a) states that the material has legal effect as part of the document; and
   (b) specifies the date on which the material has legal effect as part of the document.
 (3) Subsection (1) does not apply if the biosecurity document expressly says that it does not apply.
-(4) Subsection (1) does not apply to the material described in any of section 142M(1)(e) to (g).
+(4) Subsection (1) does not apply to the material described in any of section 142M(1)⁠(e) to (g).
 
 ### 142P Proof of material incorporated
 (1) A copy of material incorporated in a biosecurity document must be—
@@ -4155,13 +4165,13 @@ The purpose of this Part is to provide for the effective prevention, eradication
 (2) Before a declaration ceases to have effect, it may be extended by—
   (a) another Proclamation under section 144; or
   (b) a resolution of the House of Representatives.
-(3) If a declaration is extended under subsection (2)(a), subsection (1) applies to it.
-(4) If a declaration is extended under subsection (2)(b), it is extended for the period stated in the resolution.
+(3) If a declaration is extended under subsection (2)⁠(a), subsection (1) applies to it.
+(4) If a declaration is extended under subsection (2)⁠(b), it is extended for the period stated in the resolution.
 (5) Before a declaration ceases to have effect, it may be revoked by—
   (a) another Proclamation under section 144; or
   (b) a resolution of the House of Representatives.
 (6) A resolution revoking a declaration has effect from the time of the resolution or a later time specified in the resolution.
-(7) An extension under subsection (2)(b) or a revocation under subsection (5)(b) must be published as provided in section 47 of the Legislation Act 2012.
+(7) An extension under subsection (2)⁠(b) or a revocation under subsection (5)⁠(b) must be published as provided in section 47 of the Legislation Act 2012.
 
 ### 147 House of Representatives must be informed
 (1) The Minister must inform the House of the making of a Proclamation under section 144.
@@ -4316,8 +4326,8 @@ An appeal under section 154E or 154F has the following effects:
   (a) section 16A:
   (b) section 16B:
   (c) section 16C:
-  (d) section 18(1)(b):
-  (e) section 24D(1)(a):
+  (d) section 18(1)⁠(b):
+  (e) section 24D(1)⁠(a):
   (f) section 25(1), (2), (8), or (9):
   (g) a condition imposed under section 27A:
   (h) section 29(1):
@@ -4375,13 +4385,13 @@ An appeal under section 154E or 154F has the following effects:
     (i) the court is satisfied that the contravention occurred in the course of producing a commercial gain; and
     (ii) the commercial gain cannot be readily ascertained:
   (c) subsection (7) states the limit that applies if the court is not satisfied that the contravention occurred in the course of producing a commercial gain.
-(5) For the purposes of subsection (4)(a), the limit is the greater of—
+(5) For the purposes of subsection (4)⁠(a), the limit is the greater of—
   (a) $10,000,000; and
   (b) 3 times the value of the commercial gain resulting from the contravention.
-(6) For the purposes of subsection (4)(b), the limit is the greater of—
+(6) For the purposes of subsection (4)⁠(b), the limit is the greater of—
   (a) $10,000,000; and
   (b) 10% of the turnover of the body corporate and all of its interconnected bodies corporate (if any) (interconnected and turnover having the meanings they have in the Commerce Act 1986).
-(7) For the purposes of subsection (4)(c), the limit is $10,000,000.
+(7) For the purposes of subsection (4)⁠(c), the limit is $10,000,000.
 
 ### 154K Other orders instead of or in addition to pecuniary penalty order
 In proceedings under section 154H, the court may, instead of or in addition to making a pecuniary penalty order, make—
@@ -4451,7 +4461,7 @@ Penalty: section 157(3)
 (6) A person commits an offence against this Act who fails to comply with any of sections 16A, 18, 19, 25, 29(1), 30(2), 35(1), (3), (5), and (7), 35A, 40(6), 51(1), and 121B(2).
 (7) A person commits an offence against this Act who fails to comply with a condition imposed under section 27A or 29(2).
 Penalty: section 157(4)
-(8) A person commits an offence against this Act who fails to comply with section 134(1)(b) or (1A).
+(8) A person commits an offence against this Act who fails to comply with section 134(1)⁠(b) or (1A).
 (9) A person commits an offence against this Act who fails to comply with a reasonable requirement made of him or her in accordance with and for the purposes of this Act by—
   (a) an official; or
   (b) an automated electronic system.
@@ -4462,11 +4472,11 @@ Penalty: section 157(4)
 Penalty: section 157(5)
 (12) A person commits an offence against this Act who fails to comply with—
   (a) any of sections 17, 17A, 34, 36, 51(3), 121(2), 121A(3), 132(9), and 141D(5):
-  (b) a requirement imposed under section 100Q(2)(a) or 100ZG(2)(a) by an auditor acting under an authorisation:
+  (b) a requirement imposed under section 100Q(2)⁠(a) or 100ZG(2)⁠(a) by an auditor acting under an authorisation:
   (c) regulations made under section 165(1) or (2).
 (13) A person commits an offence against this Act who provides false information, if an import health standard requires the person to provide information.
 (14) A person commits an offence against this Act who—
-  (a) fails to make the declaration required by section 24J(b) or 24K(8)(b), if an inspector requires the person to make the declaration:
+  (a) fails to make the declaration required by section 24J(b) or 24K(8)⁠(b), if an inspector requires the person to make the declaration:
   (b) makes a false declaration under section 24J or 24K, if an inspector requires the person to make the declaration.
 (15) A person commits an offence against this Act who fails to keep statements, accounts, or records of leviable activity carried on by the person sufficient to satisfy the requirements of an order made under any of sections 100L, 100ZB, and 137.
 (16) A person commits an offence against this Act who fails to maintain statements, accounts, or records of leviable activity carried on by the person to a sufficient standard to satisfy the requirements of an order made under any of sections 100L, 100ZB, and 137.
@@ -4501,7 +4511,7 @@ Penalty: section 157(8) and (9)
 
 ### 154O Section 154O offences
 Penalty: section 157(1)
-(1) A person commits an offence against this Act who fails to comply with any of sections 46, 52, 53, and 134(1)(a).
+(1) A person commits an offence against this Act who fails to comply with any of sections 46, 52, 53, and 134(1)⁠(a).
 (2) A person commits an offence against this Act who threatens, assaults, or intentionally obstructs or hinders an official exercising a power or carrying out a function or duty under a law.
 (3) A person commits an offence against this Act who intentionally obstructs or hinders an automated electronic system doing an action under section 142F(2).
 (4) A person commits an offence against this Act who knowingly damages or impairs an automated electronic system.
@@ -4592,10 +4602,10 @@ Where it is proved in any proceeding under this Act or the regulations that a pe
   (a) in the case of an individual person, to a fine not exceeding $5,000:
   (b) in the case of a corporation, to a fine not exceeding $15,000.
 (7) Every person who commits an offence against section 154N(21) is liable on conviction to a fine not exceeding $1,000.
-(8) Every person who commits an offence against section 154NA(2), and in doing so under section 154NA(2)(a) ought reasonably to have known that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+(8) Every person who commits an offence against section 154NA(2), and in doing so under section 154NA(2)⁠(a) ought reasonably to have known that the information had become erroneous or misleading in a material particular, is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $1,000; or
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
-(9) Every person who commits an offence against section 154NA(2), and in doing so under section 154NA(2)(a) knew that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+(9) Every person who commits an offence against section 154NA(2), and in doing so under section 154NA(2)⁠(a) knew that the information had become erroneous or misleading in a material particular, is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -4606,7 +4616,7 @@ Where it is proved in any proceeding under this Act or the regulations that a pe
 (1) This section does not apply to border infringement offences.
 (1A) This section applies when—
   (a) an inspector has reason to believe that a defendant has committed an infringement offence:
-  (b) an authorised person has reason to believe that a defendant has committed an infringement offence that the authorised person may deal with within his or her terms of appointment under section 103(1)(b), (2), or (3).
+  (b) an authorised person has reason to believe that a defendant has committed an infringement offence that the authorised person may deal with within his or her terms of appointment under section 103(1)⁠(b), (2), or (3).
 (1B) Proceedings may be taken against the defendant by filing a charging document under section 14 of the Criminal Procedure Act 2011.
 (1C) Alternatively, the inspector or the authorised person may issue an infringement notice to the defendant. In that case,—
   (a) proceedings for the offence may be commenced in accordance with section 21 of the Summary Proceedings Act 1957; and
@@ -4649,15 +4659,15 @@ Where it is proved in any proceeding under this Act or the regulations that a pe
   (a) the infringement fee for the offence has not by then been paid to the Ministry at the address specified in the notice (or immediately under subsection (5)); and
   (b) the Ministry has not by then received at that address a notice requesting a hearing in respect of that offence.
 (7) If an infringement notice has been issued and served under this section, the Summary Proceedings Act 1957 applies as if that notice were a reminder notice served under section 21(2) of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if—
-  (a) the reference in section 21(1)(b) to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (6) of this section; and
+  (a) the reference in section 21(1)⁠(b) to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (6) of this section; and
   (b) subsection (6) were in the place of section 21(3); and
   (c) the reference in section 21(3A) to the particulars of a reminder notice not having been provided under section 21(3) were a reference to the particulars of the infringement notice not having been provided under subsection (6) of this section; and
   (d) every reference in section 21(4), (4A), and (4B) to particulars of a reminder notice were a reference to the particulars of an infringement notice and every reference to the contents of a reminder notice were a reference to the contents of an infringement notice; and
-  (e) the reference in section 21(4)(a) to parts of the reminder notice were a reference to parts of the infringement notice; and
+  (e) the reference in section 21(4)⁠(a) to parts of the reminder notice were a reference to parts of the infringement notice; and
   (f) the reference in section 21(4C) to particulars of a reminder notice were a reference to particulars of an infringement notice; and
   (g) the reference in section 21(4C) to the reminder notice were a reference to the infringement notice; and
   (h) the reference in section 21(5) to the verification of particulars of a reminder notice provided under section 21(3) were a reference to the verification of particulars of an infringement notice provided under subsection (6) of this section; and
-  (i) the reference in section 21(6)(b) and in section 21(10)(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
+  (i) the reference in section 21(6)⁠(b) and in section 21(10)⁠(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
   (j) each reference in section 21A and section 78B to a reminder notice were a reference to an infringement notice and each reference in section 21A and section 78B to the reminder notice were a reference to the infringement notice; and
   (k) the references to reminder notices in the definition of defendant in section 2(1), and in section 212, and in any other relevant provisions of that Act or regulations made under that Act, were references to the infringement notice.
 (8)
@@ -4713,12 +4723,16 @@ Definition for this section
     (i) a chief technical officer appointed under section 101(2); or
     (ii) a deputy chief technical officer appointed under section 102:
   (d) a certificate purporting to be signed by a chief technical officer appointed under section 101(1) stating that the person specified in the certificate is—
-    (i) an inspector or authorised person appointed by that chief technical officer under section 103(1)(a); or
-    (ii) an authorised person appointed by that chief technical officer under section 103(1)(b) in relation to the national pest management plan or national pathway management plan described in, or attached to, the certificate:
+    (i) an inspector or authorised person appointed under section 103(1)⁠(a); or
+    (ii) an authorised person appointed under section 103(1)⁠(b) in relation to the national pest management plan or national pathway management plan described in, or attached to, the certificate; or
+    (iii) a person accredited for a particular function under section 103(7):
   (e) a certificate purporting to be signed by a chief technical officer appointed under section 101(2) stating that the person specified in the certificate is—
-    (i) an inspector or authorised person appointed by that chief technical officer under section 103(2)(a); or
-    (ii) an authorised person appointed by that chief technical officer under section 103(2)(b) in relation to the national pest management plan or national pathway management plan described in, or attached to, the certificate:
-  (f) a certificate purporting to be signed by the principal officer of a regional council stating that a person specified in the certificate is an authorised person appointed by that principal officer under section 103(3) in relation to a regional pest management plan or a regional pathway management plan or small-scale management programme specified or described in, or attached to, the certificate:
+    (i) an inspector or authorised person appointed under section 103(2)⁠(a); or
+    (ii) an authorised person appointed under section 103(2)⁠(b) in relation to the national pest management plan or national pathway management plan described in, or attached to, the certificate; or
+    (iii) a person accredited for a particular function under section 103(7):
+  (f) a certificate purporting to be signed by the principal officer of a regional council stating that a person specified in the certificate is—
+    (i) an authorised person appointed under section 103(3) in relation to a regional pest management plan or a regional pathway management plan or a small-scale management programme specified or described in, or attached to, the certificate; or
+    (ii) a person accredited for a particular function under section 103(7):
   (g) a certificate purporting to be signed by any person authorised by this Act, the State Sector Act 1988, or the Local Government Act 2002 to delegate to any person (or people of any kind or description) the exercise or performance of any power or function under this Act stating that—
     (i) the person has delegated the exercise or performance of the power or function under this Act specified in the certificate to the person specified in the certificate; or
     (ii) the person has delegated the exercise or performance of the power or function under this Act specified in the certificate to people of a kind or description specified in the certificate, and that a person specified in the certificate is a person of that kind or description:
@@ -4735,7 +4749,7 @@ Definition for this section
 (4) A certificate to which subsection (2) applies is not admissible in evidence unless—
   (a) at least 14 days before the hearing at which the certificate is to be tendered, a copy is served, by or on behalf of the prosecutor, on the defendant or the defendant's agent or counsel, and that person is at the same time informed in writing that the prosecutor does not propose to call the person who signed the certificate as a witness at the hearing; and
   (b) the court has not, on the application of the defendant made not less than 7 days before the hearing, ordered, not less than 4 days before the hearing (or such lesser period as the court in the special circumstances of the case thinks fit), that the certificate should not be admissible as evidence in the proceedings.
-(5) The court must not make an order under subsection (4)(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity of a certificate.
+(5) The court must not make an order under subsection (4)⁠(b) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity of a certificate.
 
 ### 162 Time for filing charging document for certain offences
 (1) This section applies to—
@@ -4775,52 +4789,52 @@ Section 16 applies as if paragraph (b) read craft that arrive in the EEZ.
 ### 162AF Notice of intended arrival of craft in EEZ
 (1) Section 17 applies as if New Zealand and New Zealand territory read the EEZ.
 (2) Section 17 applies as if approved port and port or destination read approximate location.
-(3) Section 17(2), (6)(b)(ii), (7), (9)(c)(ii), and (10) do not apply.
+(3) Section 17(2), (6)⁠(b)⁠(ii), (7), (9)⁠(c)⁠(ii), and (10) do not apply.
 
 ### 162AG Arrival of craft in EEZ
 (1) Section 18(1) applies as if craft that arrives at a place in New Zealand read craft that arrives in the EEZ.
-(2) Section 18(1)(a)(ii) applies as if port or destination read approximate location.
+(2) Section 18(1)⁠(a)⁠(ii) applies as if port or destination read approximate location.
 (3) Section 18(3) applies as if or the EEZ appeared after New Zealand waters.
 
 ### 162AH Persons in charge of certain craft to obey directions of inspector or authorised person
 (1) Section 19 applies as if New Zealand read the EEZ.
-(2) Section 19(2)(a)(ii) applies as if or the disembarkation of crew or passengers from the craft did not appear.
-(3) Section 19(2)(c) applies as if cargo, crew, passengers, stores, or did not appear.
+(2) Section 19(2)⁠(a)⁠(ii) applies as if or the disembarkation of crew or passengers from the craft did not appear.
+(3) Section 19(2)⁠(c) applies as if cargo, crew, passengers, stores, or did not appear.
 
 ### 162AI Boarding of craft
 Section 31 applies as if paragraph (b) read any craft, used for the transportation of people or goods, or both, by sea, that is within the EEZ for the purposes of exploring or exploiting resources in the EEZ, or in preparation or support for such a purpose, after a voyage originating beyond the outer limits of the EEZ—.
 
 ### 162AJ Powers relating to craft
 (1) Section 32(1) applies as if or the EEZ for the purpose of exploring or exploiting resources in the EEZ, or in preparation or support for such a purpose, after a voyage originating beyond the outer limits of the EEZ appeared after the first reference to New Zealand territory.
-(2) Section 32(1)(a) applies as if or the EEZ appeared after New Zealand territory.
-(3) Section 32(1)(b) applies as if New Zealand territory read the EEZ, but only if there is no feasible alternative to managing the biosecurity risks posed by the craft and if the movement directed is only to the extent reasonably necessary to manage the biosecurity risks posed by the craft.
+(2) Section 32(1)⁠(a) applies as if or the EEZ appeared after New Zealand territory.
+(3) Section 32(1)⁠(b) applies as if New Zealand territory read the EEZ, but only if there is no feasible alternative to managing the biosecurity risks posed by the craft and if the movement directed is only to the extent reasonably necessary to manage the biosecurity risks posed by the craft.
 
 ### 162AK Risk goods on board craft
 (1) Section 33(1) applies as if or that has arrived in the EEZ appeared after the second reference to New Zealand territory.
-(2) Section 33(1)(a) applies as if or the EEZ appeared after New Zealand territory.
-(3) Section 33(1)(b) applies as if it read move the craft outside New Zealand territory or the EEZ or move the craft into New Zealand territory from the EEZ (immediately, or within a period specified by the inspector), but only if there is no feasible alternative to managing the biosecurity risks posed by the craft and if the movement directed is only to the extent reasonably necessary to manage the biosecurity risks posed by the craft; or.
-(4) Section 33(2)(a) applies as if or the EEZ appeared after New Zealand territory.
+(2) Section 33(1)⁠(a) applies as if or the EEZ appeared after New Zealand territory.
+(3) Section 33(1)⁠(b) applies as if it read move the craft outside New Zealand territory or the EEZ or move the craft into New Zealand territory from the EEZ (immediately, or within a period specified by the inspector), but only if there is no feasible alternative to managing the biosecurity risks posed by the craft and if the movement directed is only to the extent reasonably necessary to manage the biosecurity risks posed by the craft; or.
+(4) Section 33(2)⁠(a) applies as if or the EEZ appeared after New Zealand territory.
 
 ### 162AL Duty to provide information
-Section 43(1)(a) applies as if or the EEZ appeared after New Zealand.
+Section 43(1)⁠(a) applies as if or the EEZ appeared after New Zealand.
 
 ### 162AM General duty to inform
 Section 44(1) applies as if or the EEZ appeared after New Zealand.
 
 ### 162AN Duty to report notifiable organisms
-Section 46(1)(a) applies as if or the EEZ appeared after New Zealand.
+Section 46(1)⁠(a) applies as if or the EEZ appeared after New Zealand.
 
 ### 162AO Second step: satisfaction on requirements
 Section 62(d) applies as if or the EEZ appeared after New Zealand.
 
 ### 162AP Fourth step: approval of preparation of plan and decision on management agency
-Section 64(6)(c) applies as if or the EEZ appeared after New Zealand in all places.
+Section 64(6)⁠(c) applies as if or the EEZ appeared after New Zealand in all places.
 
 ### 162AQ Second step: satisfaction on requirements
 Section 82(d) applies as if or the EEZ appeared after New Zealand.
 
 ### 162AR Fourth step: approval of preparation of plan and decision on management agency
-Section 84(6)(c) applies as if or the EEZ appeared after New Zealand in all places.
+Section 84(6)⁠(c) applies as if or the EEZ appeared after New Zealand in all places.
 
 ### 162AS Definitions for Part 5A
 Section 100Y applies as if New Zealand read the EEZ.
@@ -5015,7 +5029,7 @@ Part 8 matters
     (ii) at a port approved under section 37A:
   (h) prescribing the form of an infringement notice for a border infringement offence:
   (i) prescribing any additional particulars required in an infringement notice for a border infringement offence.
-(15) The Governor-General may from time to time, by Order in Council, make regulations specifying requirements in regulations or rules whose contravention gives rise to liability for the purposes of section 154H(2)(r).
+(15) The Governor-General may from time to time, by Order in Council, make regulations specifying requirements in regulations or rules whose contravention gives rise to liability for the purposes of section 154H(2)⁠(r).
 Risk goods, waste, organic material, and pest-ridden places
 (16) The Governor-General may from time to time, by Order in Council, make regulations regulating or controlling the holding, disposal, and treatment of risk goods.
 (17) The Governor-General may from time to time, by Order in Council, make regulations about garbage and other waste organic material,—
@@ -5270,7 +5284,7 @@ Dates and processes for reviews of existing strategies
 (11) If the Minister or council chooses to wait to see whether the determination under section 100E(3) requires a review under section 100E(5), and the determination does require a review, the review required by section 88 and the review required by section 100E(5) must be conducted together under section 100D.
 (12) If the Minister or council chooses to wait to see whether the determination under section 100E(3) requires a review under section 100E(5), and the determination does not require a review, the review required by section 88 must be conducted under section 100D, which applies with all necessary modifications.
 (13) Subsections (14) and (15) apply when section 88 requires that a national pest management strategy or a regional pest management strategy that is in force on the day on which this section commences be reviewed on or after the date on which the Minister or council makes a determination under section 100E(3) (which is not a fixed date).
-(14) If the determination requires a review under section 100E(5), the Minister or council may decide that the review required by section 88 and the review required by section 100E(5) will be conducted together under section 100D and, if that decision is made, must apply section 100E(5)(a).
+(14) If the determination requires a review under section 100E(5), the Minister or council may decide that the review required by section 88 and the review required by section 100E(5) will be conducted together under section 100D and, if that decision is made, must apply section 100E(5)⁠(a).
 (15) If the determination does not require a review under section 100E(5), the review required by section 88 must be conducted under section 100D, which applies with all necessary modifications.
 Process for existing proposals
 (16) Subsection (17) applies if, on the day on which this section commences, the Minister has not yet acted under section 68 on a proposal notified under section 62 or a council has not yet acted under section 79B on a proposal notified under section 78.
