@@ -1,5 +1,5 @@
 # Pork Industry Board Act 1997
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2015-03-26_
 
 > An Act to consolidate and amend the Pork Industry Board Act 1982
 
@@ -519,12 +519,12 @@ A licensee of licensed premises who—may recover from the owner of the pig when
 (4) In this section and section 45, authorised person means a person who is for the time being an employee or agent of the Board authorised by the Board to exercise the powers conferred by subsections (1) and (2).
 
 ### 45 Warrant to inspect place other than place of business
-(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who on an application made in the manner provided in subpart 3 of Part 4 of that Act by an authorised person is satisfied that there are reasonable grounds to believe that—may issue to the authorised person a warrant authorising the person to enter and inspect the place.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who on an application made in the manner provided in subpart 3 of Part 4 of that Act by an authorised person is satisfied that there are reasonable grounds to believe that—may issue to every authorised person a warrant to enter and inspect the place.
   (a) an offence against subsection (1) or subsection (2) of section 49 has been committed; and
   (b) there is or is likely to be in some place that is not a place of business—that is evidence of the commission of that offence,—
     (i) any document relating to levy money or the slaughter of pigs; or
     (ii) any pork product from pigs subject to the levy,—
-(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who on an application made in the manner provided in subpart 3 of Part 4 of that Act by an authorised person is satisfied that, as a consequence of the inspection under section 44 of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business—may issue to the authorised person a warrant authorising the person to enter and inspect the other place.
+(2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012), who on an application made in the manner provided in subpart 3 of Part 4 of that Act by an authorised person is satisfied that, as a consequence of the inspection under section 44 of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business—may issue to every authorised person a warrant to enter and inspect the other place.
   (a) any document relating to levy money or the slaughter of pigs; or
   (b) any pork product from pigs subject to the levy,—
 (3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply.
