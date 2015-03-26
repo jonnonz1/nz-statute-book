@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2014-09-14_
+_Consolidation as at 2015-03-26_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -339,7 +339,7 @@ The Director-General may, after (if necessary) consultation with the appropriate
 
 ### 38 Powers of search
 (1) Subject to subsection (2), any officer who has entered any vehicle, land, or premises (including a dwellinghouse and a marae and a building associated with a marae) under section 37(1) may search that vehicle, land, or premises and open (by force if necessary) any bulk cargo container, packing case, crate, box, or any other form of receptacle on that vehicle, land, or premises.
-(2) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application made in the manner provided in subpart 3 of Part 4 of that Act, is satisfied that there is in any dwellinghouse or any marae or a building associated with a marae—may issue a search warrant to that officer.
+(2) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application made by an officer in the manner provided in subpart 3 of Part 4 of that Act, is satisfied that there is in any dwellinghouse or any marae or a building associated with a marae—may issue a search warrant to every officer named in the warrant.
   (a) any specimen of an endangered, threatened, or exploited species that there is reasonable ground to believe—
     (i) has been traded otherwise than in accordance with this Act; or
     (ii) is intended to be traded otherwise than in accordance with this Act; or
