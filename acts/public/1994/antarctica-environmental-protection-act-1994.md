@@ -1,5 +1,5 @@
 # Antarctica (Environmental Protection) Act 1994
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-03-26_
 
 > An Act to provide for the comprehensive protection of the Antarctic environment and to recognise Antarctica as a natural reserve devoted to peace and science and to implement the Protocol on Environmental Protection to the Antarctic Treaty
 
@@ -235,13 +235,14 @@ In this Part, unless the context otherwise requires,—
 ### 28 Acts prohibited except in accordance with permit
 (1) No person shall—except in accordance with a permit issued under this Part.
   (a) enter or carry out any activity in an Antarctic Specially Protected Area; or
-  (b) take or attempt to take any native bird or native mammal in Antarctica; or
+  (b) take or attempt to take any native bird or native mammal or native invertebrate in Antarctica; or
   (c) remove or damage such quantities of native plants in Antarctica that their local distribution or abundance is significantly affected; or
   (d) harmfully interfere with native plants or native mammals or native birds or native invertebrates; or
-  (e) introduce onto land or ice shelves or into water in Antarctica any species of animal, plant, or micro-organism not native to that area; or
+  (e) introduce onto land or ice shelves or sea ice or into water in Antarctica any living organism (including, but not limited to, any species of animal, plant, or micro-organism) not native to that area; or
+  (ea) introduce onto land or ice shelves or sea ice or into water in Antarctica any living bird; or
   (f) import any non-sterile soil into Antarctica,—
 (2) Subsection (1)(e) shall not prevent any person introducing food into Antarctica to the extent permitted by, and that is in accordance with the requirements of, the Protocol.
-(3) No person shall import into Antarctica any dressed poultry knowing that an inspection in accordance with the Protocol revealed evidence of any disease referred to in Appendix C to Annex II to the Protocol.
+(3) No person shall import into Antarctica any poultry or avian products knowing that an inspection in accordance with the Protocol revealed evidence of any disease referred to in Annex II to the Protocol.
 (4) Every person commits an offence who does any act in contravention of this section.
 
 ### 29 Application for permits
@@ -268,7 +269,7 @@ A permit to do any act referred to in paragraph (b) or paragraph (c) or paragrap
   (b) subject to such other conditions as the Minister considers are appropriate and are not inconsistent with the purpose and principles in section 9.
 
 ### 32 Restrictions on permits to introduce non-indigenous animals, plants, or micro-organisms into Antarctica
-A permit to bring into Antarctica any animal, plant, or micro-organism not native to Antarctica, or to import any non-sterile soil, shall be issued—
+A permit to bring onto land or ice shelves or sea ice or into water in Antarctica any living organism (including, but not limited to, any species of animal, plant, or micro-organism) not native to Antarctica, or to import any non-sterile soil, shall be issued—
   (a) only in accordance with, and subject to the restrictions and conditions set out in, Article 4 of Annex II to the Protocol and the appendices to that Annex; and
   (b) subject to such other conditions as the Minister considers are appropriate and are not inconsistent with the purpose and principles in section 9.
 
