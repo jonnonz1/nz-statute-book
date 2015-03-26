@@ -1,5 +1,5 @@
 # Marine Mammals Protection Act 1978
-_Consolidation as at 2013-10-25_
+_Consolidation as at 2015-03-26_
 
 > An Act to make provision for the protection, conservation, and management of marine mammals within New Zealand and within New Zealand fisheries waters
 
@@ -66,7 +66,7 @@ The Department of Conservation shall administer and manage marine mammals and ma
 (1) The Minister may approve statements of general policy for the implementation of this Act in any area or areas; and may from time to time amend any such statement in the light of changing circumstances or increased knowledge.
 (2) Nothing in any such general policy shall derogate from any provision in this Act or any other Act.
 (3) For the purposes of this section, sections 17B (except subsections (1) and (2)) and 17N of the Conservation Act 1987 shall, with any necessary modifications, apply with respect to such general policies, subject to the following provisions:
-  (a) in addition to the consultation required by section 17B(3)(a) of that Act, the Director-General shall also consult the responsible chief executive, the Secretary for Transport, and the Secretary for the Environment before preparing any such policy:
+  (a) in addition to the consultation required by section 17B(3)﻿(a) of that Act, the Director-General shall also consult the responsible chief executive, the Secretary for Transport, and the Secretary for the Environment before preparing any such policy:
   (b) as soon as practicable after a draft policy is prepared under section 17B(3) of that Act, the Director-General shall send a copy of it to each of the persons referred to in paragraph (a) of this subsection:
   (c) before sending a draft policy to the Conservation Authority, the Director-General shall consider any comments made by the persons referred to in paragraph (a).
 
@@ -98,15 +98,15 @@ The Department of Conservation shall administer and manage marine mammals and ma
 (2) In the case of any marine mammals ranging outside New Zealand fisheries waters, the maximum allowable level of fishing-related mortality set under paragraph (f) or paragraph (g) of subsection (1) shall be based on a fair and equitable consideration of the proportion that the estimated fishing-related mortality of marine mammals within those waters bears to the total estimated mortality of marine mammals in all waters (including waters outside New Zealand fisheries waters).
 
 ### 3F Determining maximum allowable level of fishing-related mortality
-In determining the maximum allowable level of fishing-related mortality for threatened species or any other marine mammals under section 3E(1)(f), the Minister,—
+In determining the maximum allowable level of fishing-related mortality for threatened species or any other marine mammals under section 3E(1)﻿(f), the Minister,—
   (a) in the case of any threatened species, shall determine a level of fishing-related mortality which should allow the species to achieve non-threatened status as soon as reasonably practicable, and in any event within a period not exceeding 20 years:
   (b) in the case of any other marine mammal, shall determine a level of fishing-related mortality which should neither cause a net reduction in the size of the population nor seriously threaten the reproductive capacity of the species.
 
 ### 3G Determining area-based maximum levels of fishing-related mortality
-(1) Area-based limits set under section 3E(1)(g) shall be set only—
+(1) Area-based limits set under section 3E(1)﻿(g) shall be set only—
   (a) for populations of threatened species that are geographically or genetically discrete; and
   (b) for areas corresponding to areas having effect under the Fisheries Act 1996 as fisheries management areas or quota management areas.
-(2) In setting any area-based limit for a threatened species under section 3E(1)(g), the Minister shall determine a level of fishing-related mortality for a discrete population referred to in subsection (1) which should neither cause a net reduction in the size of the population nor seriously threaten the reproductive capacity of that population.
+(2) In setting any area-based limit for a threatened species under section 3E(1)﻿(g), the Minister shall determine a level of fishing-related mortality for a discrete population referred to in subsection (1) which should neither cause a net reduction in the size of the population nor seriously threaten the reproductive capacity of that population.
 
 ### 3H Procedure for preparation and approval of population management plans
 (1) Population management plans shall be prepared and approved as follows:
@@ -207,13 +207,13 @@ The Minister, in his discretion, may grant a permit under this Act or refuse to 
 (2) Every person commits an offence against this Act who contravenes subsection (1).
 
 ### 11 Marine Mammals Officers
-(1) Every warranted officer, and every fisheries officer appointed under section 196 of the Fisheries Act 1996, and every constable, shall be a Marine Mammals Officer for the purposes of this Act.
+(1) Every warranted officer, and every fishery officer appointed under section 196 of the Fisheries Act 1996, and every constable, shall be a Marine Mammals Officer for the purposes of this Act.
 (2) For the purposes of this Act, the Director-General may from time to time appoint any person to be a Marine Mammals Officer on such terms and conditions as may be approved. If any person appointed as an officer is a full-time officer or employee of the State services he shall not be entitled to any additional remuneration in respect of his appointment under this subsection.
 (3) Every person appointed under subsection (2) shall be appointed for such term, not exceeding 3 years, as the Director-General thinks fit, and may be reappointed.
 (4) Any person appointed under subsection (2) may at any time be removed from office by the Director-General for incapacity, neglect of duty, or misconduct, or may at any time resign his office by writing addressed to the Director-General.
 (5) Any person appointed under subsection (2) shall, on the expiration of the term of his appointment, or on the sooner expiry of his appointment by removal from office or resignation, surrender to the Director-General his warrant of appointment.
 (6) No person appointed under subsection (2) shall, by virtue of that appointment, be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
-(7) Every person declared to be an officer under subsection (1) shall have and may exercise, in respect of supervising, administering, and enforcing the provisions of this Act, all the powers that an warranted officer has in relation to supervising, administering, and enforcing the provisions of the Conservation Act 1987.
+(7) Every person declared to be an officer under subsection (1) shall have and may exercise, in respect of supervising, administering, and enforcing the provisions of this Act, all the powers that a warranted officer has in relation to supervising, administering, and enforcing the provisions of the Conservation Act 1987.
 (8) Every officer appointed under subsection (2) shall have such duties and may exercise such powers in relation to marine mammals as the Director-General may direct, being powers of no greater extent than those exercised by a warranted officer.
 (9) The Director-General shall issue to every officer (except a constable) a warrant showing the officer's authority to exercise any powers conferred on him pursuant to this section.
 (10) The production by any officer of any warrant issued under this section or section 59 of the Conservation Act 1987 or section 196 of the Fisheries Act 1996 or of any evidence that the officer is a constable shall, until the contrary is proved, be sufficient authority for any such officer to do anything authorised by subsection (7) or subsection (8).
@@ -235,7 +235,7 @@ The Minister, in his discretion, may grant a permit under this Act or refuse to 
   (b) facilitate the removal of any container, package, receptacle, or thing.
 
 ### 14 Officer may obtain warrant
-(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on application by an officer made in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant, to an officer named in the warrant, authorising the entry and search of any dwellinghouse, place, vehicle, aircraft, or hovercraft if the issuing officer is satisfied that there are reasonable grounds to suspect that—
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on application by an officer made in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant, to every officer named in the warrant, authorising the entry and search of any dwellinghouse, place, vehicle, aircraft, or hovercraft if the issuing officer is satisfied that there are reasonable grounds to suspect that—
   (a) any breach of this Act or any regulation made under it has been, is being, or will be committed; or
   (b) preparation has been made to commit a breach of this kind.
 (2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
@@ -385,7 +385,7 @@ Where any person causes an officer to incur any expense that he would not otherw
   (a) the Seal Fisheries (North Pacific) Act 1895, 58 and 59 Vict, c 21; and
   (b) the Seal Fisheries (North Pacific) Act 1912, 2 and 3 Geo 5, c 10—
 (5) The following Orders in Council are hereby consequentially revoked:
-  (a) the Order in Council dated 4 March 1913, and published in the Gazette on 13 March 1913 at page 815, whereby consent was given to sections 3 and 4 of the enactment mentioned in subsection (4)(b) of this section being extended to New Zealand:
+  (a) the Order in Council dated 4 March 1913, and published in the Gazette on 13 March 1913 at page 815, whereby consent was given to sections 3 and 4 of the enactment mentioned in subsection (4)﻿(b) of this section being extended to New Zealand:
   (b) the Order in Council dated 18 August 1913, and published in the Gazette on 21 August 1913 at pages 2633 and 2634, whereby a date was declared for the sections mentioned in paragraph (a) of this subsection to come into operation in New Zealand.
 
 ## Schedule Schedule — Enactments amended
