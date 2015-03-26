@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2013-10-25_
+_Consolidation as at 2015-03-26_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -91,7 +91,7 @@ _Consolidation as at 2013-10-25_
   - **ranger** means a ranger appointed or deemed to be appointed under this Act; and includes a fish and game ranger
   - **sale** includes barter and exchange for consideration; and also includes offering or attempting to sell, or receiving for sale, or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or allowing to be sold, offered, or exposed for sale; and has a corresponding meaning
   - **take** , and all references thereto, include taking, catching, or pursuing by any means or device, and also include the attempt to take
-  - **threatened species** means any marine wildlife that is for the time being declared by a notice under subsection (1)(a) to be a threatened species
+  - **threatened species** means any marine wildlife that is for the time being declared by a notice under subsection (1A) to be a threatened species
   - **wildlife** means any animal that is living in a wild state; and includes any such animal or egg or offspring of any such animal held or hatched or born in captivity, whether pursuant to an authority granted under this Act or otherwise; but does not include any animals of any species specified in Schedule 6 (being animals that are wild animals subject to the Wild Animals Control Act 1977)
   - **wildlife district** means a wildlife district under this Act
   - **wildlife management reserve** means a wildlife management reserve declared under section 14A; and includes any reserve under the Reserves Act 1977 classified as a Government purpose reserve for a wildlife management reserve
@@ -1419,7 +1419,7 @@ This Act may be cited as the Wildlife Amendment Act 1983, and shall be read toge
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Conservation Law Reform Act 1990.
 (2) Except as provided in subsection (3), this Act shall come into force on the day on which it receives the Royal assent.
-(3) Sections 6A and 6L of the Conservation Act 1987 (as inserted by section 5 of this Act), sections 26B and 26P of that Act (as inserted by section 17 of this Act ), and sections 36, 38, 41, 42, 74, 112, and 114 of this Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) Sections 6A and 6L of the Conservation Act 1987 (as inserted by section 5 of this Act), sections 26B and 26P of that Act (as inserted by section 17 of this Act), and sections 36, 38, 41, 42, 74, 112, and 114 of this Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
 
 ## Part 3 — Amendments to Wildlife Act 1953
 
