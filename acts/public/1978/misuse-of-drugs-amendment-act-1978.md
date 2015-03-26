@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 1978
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-03-26_
 
 > An Act to facilitate the detection of certain drug dealing offences, to increase the maximum penalties that may be imposed in respect of such offences, and to amend the Misuse of Drugs Act 1975
 
@@ -42,7 +42,7 @@ This section inserted s 34A of the principal Act.
     (a) Dealing (in any of the ways referred to in section 6(1) of the principal Act) with a substantial amount of a controlled drug in respect of which a prescribed cannabis offence may be committed:
     (b) Cultivation of a prohibited plant (being a prohibited plant in respect of which a prescribed cannabis offence may be committed) on a substantial scale:
   - **Drug dealing offence** means,in relation to a Class A controlled drug or a Class B controlled drug
-    (a) In sections 30, 34, 38 to 41, 43, 46, and 47, any offence against section 12C(1)(a) of the principal Act:
+    (a) In sections 30, 34, 38 to 41, 43, and 47, any offence against section 12C(1)(a) of the principal Act:
     (b) Any offence against section 6 of the principal Act—
   - **Emergency permit** means a permit granted under section 19 of this Act to intercept a private communication by means of an interception device
   - **facility** means an electronic address, phone number, or similar facility that enables private communications to—
