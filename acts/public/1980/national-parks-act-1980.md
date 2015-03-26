@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2014-07-28_
+_Consolidation as at 2015-03-26_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -16,7 +16,7 @@ In this Act, unless the context otherwise requires,—
   - **Board** means a Conservation Board established under section 6L of the Conservation Act 1987
   - **boat** means every description of vessel (including barges, rafts, lighters, and like vessels) however propelled; and includes a hovercraft
   - **certified aerodrome** means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the Civil Aviation Act 1990
-  - **Chief Surveyor** , means the Chief Surveyor for each land district in which the park or any part of the park is situated
+  - **Chief Surveyor** means the Chief Surveyor for each land district in which the park or any part of the park is situated
   - **companion dog** means a dog certified by the Top Dog Companion Trust as being a companion dog or a dog under training as a companion dog
   - **concession** or —
     (a) means—granted under section 49; and
@@ -47,7 +47,7 @@ In this Act, unless the context otherwise requires,—
         (B) makes provision for any activity on the land that the lessee is permitted to carry out:
       (ii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under any enactment passed before the commencement of section 2 of the National Parks Amendment Act 1996:
       (iii) any document purporting to be a lease (whether or not the document gives the lessee exclusive possession of the land concerned) and issued under this Act before the commencement of the said section 2; but
-    (b) does not include a licence referred to in paragraph (b)(ii) of the definition of the term licence;—
+    (b) does not include a licence referred to in paragraph (b)﻿(ii) of the definition of the term licence;—
   - **licence** —and has a corresponding meaning
     (a) means—
       (i) a profit à prendre or any other grant that gives a non-exclusive interest in land; or
@@ -140,7 +140,7 @@ This Act shall bind the Crown.
   (h) the Nelson Lakes National Park:
   (i) the Westland National Park:
   (j) the Mount Aspiring National Park.
-(2) The Arthur's Pass National Park named in subsection (1)(c) is the same national park as the Arthur Pass National Park existing immediately before the commencement of this Act.
+(2) The Arthur's Pass National Park named in subsection (1)﻿(c) is the same national park as the Arthur Pass National Park existing immediately before the commencement of this Act.
 (3) By virtue of section 162 of the Ngāi Tahu Claims Settlement Act 1998, the Mount Cook National Park is now called the Aoraki/Mount Cook National Park.
 (4)
 
@@ -156,7 +156,7 @@ This Act shall bind the Crown.
   (c) declare that any foreshore described in the order shall be a national park or be added to any park:
   (d) assign a name to any new national park or change the name of any existing national park.
 (2) The Minister shall not make any recommendation under subsection (1) except on the recommendation of the Authority made after consultation with the appropriate Board (if any).
-(2A) Before making a recommendation under subsection (1)(d), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
+(2A) Before making a recommendation under subsection (1)﻿(d), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
 (3)
 (4) No land subject to the Tourist and Health Resorts Control Act 1908 or the Tourist Hotel Corporation Act 1974 shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Tourism.
 (5)
@@ -199,7 +199,7 @@ An Order in Council made under any of sections 7, 10, and 12 must be published i
 (2) The Minister may from time to time issue a permit under this section to 1 or more persons granting access to any specially protected area and may amend or revoke any such permit at any time.
 (3) Every such permit shall contain such conditions as the Minister determines.
 (4) No permit issued under this section shall be inconsistent with the management plan for the park.
-(5) Every person commits an offence against this Act who,—
+(5) Every person commits an offence against this Act who—
   (a) enters or remains in any specially protected area, except under the authority of a permit issued under this section; or
   (b) fails to comply with any condition contained in any such permit.
 
@@ -532,10 +532,10 @@ Except as provided in this Act or in any bylaws made under this Act, no person, 
 (4) Every dog control permit issued under subsection (1) shall state the activity and purpose for which it is issued.
 
 ### 56C Requirements in relation to dog control permits
-(1) The Director-General, in exercising his or her powers under subsection (1) or subsection (3)(b) of section 56B, shall have regard to—
+(1) The Director-General, in exercising his or her powers under subsection (1) or subsection (3)﻿(b) of section 56B, shall have regard to—
   (a) any actual or potential risk to protected wildlife vulnerable to dogs that is on or in the vicinity of the national park or the part of the national park in respect of which the permit is sought:
   (b) the purposes for which national parks are held:
-  (c) the provisions of any relevant statement of general policy, management strategy, or conservation management plan:
+  (c) the provisions of any relevant statement of general policy, management strategy, or management plan:
   (d) the need to preserve the safety of members of the public who are likely to be in the national park or in the vicinity of the national park:
   (e) any conflict between—that may or will occur in the national park or in relation to the use of the national park.
     (i) dogs or people with dogs; and
@@ -544,7 +544,7 @@ Except as provided in this Act or in any bylaws made under this Act, no person, 
   (a) that a dog is essential for the proposed activity; and
   (b) that the proposed activity—
     (i) is lawful; and
-    (ii) is not inconsistent with the purposes of this Act or the relevant management strategy or conservation management plan.
+    (ii) is not inconsistent with the purposes of this Act or the relevant management strategy or management plan.
 
 ### 56D Power to amend or revoke dog control permit
 The Director-General may amend or revoke a dog control permit issued under section 56B(1).
@@ -571,7 +571,7 @@ The Director-General may amend or revoke a dog control permit issued under secti
   (b) any condition of the permit or any provision of any bylaw made under this Act is not being observed in relation to the dog; or
   (c) the holder of the permit is in the immediate vicinity of the dog but the ranger has good cause to suspect that the holder of the permit is unwilling or unable to control the dog; or
   (d) the dog has caused injury to any person or to any protected wildlife or has killed any protected wildlife.
-(3) Where a dog is at large in a national park and, a ranger or any other person has good cause to suspect,—that ranger or other person may seize that dog.
+(3) Where a dog is at large in a national park and a ranger or any other person has good cause to suspect—that ranger or other person may seize that dog.
   (a) that any condition of a dog control permit or any provision of any bylaw made under this Act is not being observed in relation to that dog; or
   (b) that dog is likely to cause annoyance or distress to any person or animal; or
   (c) that dog is likely to damage any property in the national park; or
@@ -585,15 +585,15 @@ The Director-General may amend or revoke a dog control permit issued under secti
   (a) cause that dog to be returned to its owner; or
   (b) hold the dog in a kennel under the Department's custody; or
   (c) place the dog in the custody of a territorial authority to be impounded under section 69 of the Dog Control Act 1996.
-(2) Where a dog is held by the Department under subsection (1)(b), the following provisions shall apply:
+(2) Where a dog is held by the Department under subsection (1)﻿(b), the following provisions shall apply:
   (a) the Director-General may, in his or her discretion, return the dog to its owner subject to payment by the owner of any charges incurred, unless the Director-General, in his or her discretion, decides to waive or reduce the charges:
   (b) the Director-General or an employee of the Department shall, as soon as practicable after the dog has been seized,—
     (i) give written notice to the nearest territorial authority that the dog has been seized and is held by the Department and shall include in that notice a description of the dog and any other means of identifying it:
     (ii) give written notice to the owner of the dog (where the owner of the dog is known or can reasonably be located) that the dog has been seized and that, unless the dog is claimed and any charges paid within 7 days of the receipt of that notice, the dog may be sold, destroyed, or otherwise disposed of in such manner as the Director-General thinks fit; and after the expiry of that period the Director-General may so dispose of the dog:
   (c) where the owner of the dog is not known and cannot be identified, the Director-General may, after the expiry of 7 days after the date of the seizure of the dog, sell, destroy, or otherwise dispose of the dog in such manner as the Director-General thinks fit:
   (d) the sale, destruction, or other disposal of a dog under these provisions shall not relieve any former owner of the dog of the liability to pay any fees incurred in respect of the dog's seizure, sustenance, and holding.
-(3) Where a dog that is not registered under the Dog Control Act 1996 but ought to be so registered is held by the Department under subsection (1)(b) of this section, no offence is committed against section 42 of that Act by the person holding or disposing of the dog under subsection (1)(b).
-(4) Except as provided in subsection (1)(c), nothing in section 69 of the Dog Control Act 1996 affects or limits the provisions of this section.
+(3) Where a dog that is not registered under the Dog Control Act 1996 but ought to be so registered is held by the Department under subsection (1)﻿(b) of this section, no offence is committed against section 42 of that Act by the person holding or disposing of the dog under subsection (1)﻿(b).
+(4) Except as provided in subsection (1)﻿(c), nothing in section 69 of the Dog Control Act 1996 affects or limits the provisions of this section.
 
 ### 56H Recovery of costs relating to dogs
 (1) The reasonable costs of the seizure, holding, maintaining, or destruction of a dog under this Part shall constitute a debt due to the Crown by the owner of the dog and, subject to subsection (2), shall be recoverable by the Director-General from the owner of the dog.
@@ -604,7 +604,7 @@ The Director-General may amend or revoke a dog control permit issued under secti
   (a) being the owner of a dog or a person in charge of a dog, allows that dog, in contravention of section 56A, to be in a national park; or
   (b) being a person who is authorised, by or under this Act, to take a dog into a national park, fails to keep under proper control a dog that he or she has taken into a national park; or
   (c) being the owner or a person in charge of a dog, fails to comply with any condition of a dog control permit.
-(2) Without limiting the generality of subsection (1)(b), a dog shall, for the purposes of this Act, be deemed not to be under proper control if it is found at large in a national park.
+(2) Without limiting the generality of subsection (1)﻿(b), a dog shall, for the purposes of this Act, be deemed not to be under proper control if it is found at large in a national park.
 
 ### 56J Power of ranger to request information
 (1) Any ranger may, for the purposes of dog control in any national park request any person who is in that national park and who appears to be in charge of any dog to state his or her own name, address, and date of birth, and, where that person claims not to be the owner of the dog, to state the name and address of the owner of the dog.
@@ -694,18 +694,18 @@ Any local authority may from time to time make contributions out of its general 
 (5) All buildings, signs, hoardings, fences, or apparatus erected in any park without the written consent of the Minister shall be forfeited to the Crown.
 (6) Any chainsaw, firearm, trap, net, or other like item found in the unlawful possession of any person in any park, and any item found in the possession of any person in any park and used in committing an offence in the park, may be seized by any ranger.
 (7) Subject to subsection (3), the provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply.
-(8)
+(8) Where proceedings are taken against the person from whom the item was seized within 6 months of the seizure of the item, the item must, when the proceedings are completed, be returned to that person, unless the court, if it enters a conviction, directs that the item must be forfeited to the Crown.
 (9) Every item that is forfeited to the Crown under this section shall be returned to the park or sold or otherwise disposed of in such manner as the Minister directs.
 (10) The proceeds of the sale or disposal of anything sold or otherwise disposed of under this section shall be dealt with under section 57 as if it were money received under this Act.
 
 ### 62 Trespassing animals
 (1) Any animal that is found trespassing on a national park may be seized by any ranger or person called upon by him for assistance.
 (2) Where any such animal is unbranded or unregistered and has no reputed owner, it shall be forfeited to the Crown, and the Minister may cause it to be destroyed, sold, or otherwise disposed of as he thinks fit.
-(3) Where any such animal is branded or registered or has a reputed owner, the Minister may,—calling on the owner or reputed owner to remove the animal from the park or from any other place to which it may have been transferred, and giving warning that, if the animal is not removed within 14 days after the date of the first notice, it may be destroyed, sold, or otherwise disposed of.
+(3) Where any such animal is branded or registered or has a reputed owner, the Minister may—calling on the owner or reputed owner to remove the animal from the park or from any other place to which it may have been transferred, and giving warning that, if the animal is not removed within 14 days after the date of the first notice, it may be destroyed, sold, or otherwise disposed of.
   (a) give written notice to the reputed owner, or his agent, or any person who ought to have charge of the animal; or
   (b) issue, once a week for 2 consecutive weeks in some newspaper circulating in the locality, a notice,—
 (4) If any animal referred to in subsection (3) is not so removed within the period mentioned in the notice, the Minister may cause it to be destroyed, sold, or otherwise disposed of.
-(5) Any person convicted of an offence against section 60(1)(a) shall, in addition to any penalty for which he may be liable in respect of the offence, be liable to pay—
+(5) Any person convicted of an offence against section 60(1)﻿(a) shall, in addition to any penalty for which he may be liable in respect of the offence, be liable to pay—
   (a) any costs incurred by the Minister in giving or issuing any notice under subsection (3); and
   (b) the expenses of mustering, keeping, destroying, selling, or otherwise disposing of the animal in accordance with this section; and
   (c) the cost of repairing or restoring any damage done to the park by the animal.
@@ -739,7 +739,7 @@ Every person commits an offence against this Act who—
 (2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply.
 (3)
 (4) Every person commits an offence against this Act who in any way prevents or attempts to prevent any authorised officer or any assistant of any authorised officer from exercising any power conferred by this section.
-(5) Section 61 shall apply with respect to anything seized under subsection (1)(b) as if it had been seized under that section.
+(5) Section 61 shall apply with respect to anything seized under subsection (1)﻿(b) as if it had been seized under that section.
 (6) In this section the term authorised officer means—
   (a) the officer in command of any vessel of the New Zealand Naval Forces; and includes any person under his command and authorised by him to act in any particular case:
   (b) any ranger:
@@ -763,9 +763,9 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (1) Every person who commits an offence against any of the provisions listed in subsection (2) is liable on conviction to the penalties prescribed in subsection (3).
 (2) The provisions are—
   (a) section 13(5), which relates to access to specially protected areas:
-  (b) section 60(1)(a) to (i), (k), and (l), which relate to unauthorised acts in parks:
-  (c) section 60(2)(a) and (b), which relate to failure to remove animals, vehicles, or aircraft from parks:
-  (d) section 60(4)(b) and (c), which relate to the use of firearms:
+  (b) section 60(1)﻿(a) to (i), (k), and (l), which relate to unauthorised acts in parks:
+  (c) section 60(2)﻿(a) and (b), which relate to failure to remove animals, vehicles, or aircraft from parks:
+  (d) section 60(4)﻿(b) and (c), which relate to the use of firearms:
   (e) section 63(a), which relates to wilfully obstructing rangers.
 (3) The penalties are,—
   (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
@@ -799,7 +799,7 @@ A court may sentence any individual who commits an offence against this Act to a
   (b) if—the Minister may give not less than 14 days' notice to the person last registered under Part 17 of the Land Transport Act 1998 in respect of the vehicle of his intention to sell or destroy the vehicle.
     (i) the vehicle is a motor vehicle; and
     (ii) a licence to use the vehicle for the current licensing year is affixed to it,—
-(5) Any notice under subsection (4)(b) may be given by personal delivery to the person in question, or by posting it to him by registered letter addressed to him at his last known place of residence or business in New Zealand.
+(5) Any notice under subsection (4)﻿(b) may be given by personal delivery to the person in question, or by posting it to him by registered letter addressed to him at his last known place of residence or business in New Zealand.
 (6) Unless, before the expiry of the notice given under subsection (4), the owner of the vehicle—the Minister may, at any time after the expiry of the notice, sell the vehicle to any person who shall thereupon become the lawful owner of the vehicle, or the Minister may cause the vehicle to be destroyed.
   (a) pays to the Minister on behalf of the Crown the cost of removing and storing the vehicle under subsection (1), or, as the case may be, the cost of removing it under subsection (2) and the parking charges payable under that subsection, and, in either case, the cost of any advertisements published under this section; and
   (b) removes the vehicle from the park or other place to which it was removed,—
