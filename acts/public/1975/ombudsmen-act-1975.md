@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2015-02-01_
+_Consolidation as at 2015-03-26_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -113,14 +113,16 @@ Nothing in section 13 shall permit an Ombudsman to investigate any decision or r
 (2) Notwithstanding any provision in any enactment, where any letter appearing to be written by any person in custody on a charge or after conviction of any offence, or by any patient of any hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992, is addressed to an Ombudsman it shall be immediately forwarded, unopened, to the Ombudsman by the person for the time being in charge of the place or institution where the writer of the letter is detained or of which he is a patient.
 
 ### 17 Ombudsman may refuse to investigate complaint
-(1) An Ombudsman may—
-  (a) refuse to investigate a complaint that is within his jurisdiction or to investigate any such complaint further if it appears to him that under the law or existing administrative practice there is an adequate remedy or right of appeal, other than the right to petition the House of Representatives, to which it would have been reasonable for the complainant to resort; or
-  (b) refuse to investigate any such complaint further if in the course of the investigation of the complaint it appears to him that, having regard to all the circumstances of the case, any further investigation is unnecessary.
-(2) Without limiting the generality of the powers conferred on Ombudsmen by this Act, it is hereby declared that an Ombudsman may in his discretion decide not to investigate, or, as the case may require, not to investigate further, any complaint if it relates to any decision, recommendation, act, or omission of which the complainant has had knowledge for more than 12 months before the complaint is received by the Ombudsman, or if in his opinion—
-  (a) the subject matter of the complaint is trivial; or
-  (b) the complaint is frivolous or vexatious or is not made in good faith; or
-  (c) the complainant has not a sufficient personal interest in the subject matter of the complaint.
-(3) In any case where an Ombudsman decides not to investigate or make further investigation of a complaint he shall inform the complainant of that decision, and shall state his reasons therefor.
+(1) An Ombudsman may refuse to investigate or further investigate a complaint if it appears to the Ombudsman that,—
+  (a) under the law or existing administrative practice, the complainant has an adequate remedy or right of appeal (other than the right to petition the House of Representatives) and it is, or would have been, reasonable for the complainant to resort to that remedy or right of appeal; or
+  (b) the complaint relates to a decision, recommendation, act, or omission that the complainant has known about for more than 12 months; or
+  (c) the subject matter of the complaint is trivial; or
+  (d) the complaint is frivolous or vexatious or is not made in good faith; or
+  (e) the complainant does not have a sufficient personal interest in the subject matter of the complaint; or
+  (f) having regard to all the circumstances of the case,—
+    (i) following preliminary inquiries, an investigation is unnecessary; or
+    (ii) having commenced an investigation, further investigation is unnecessary.
+(2) If an Ombudsman refuses to investigate or further investigate a complaint, the Ombudsman must inform the complainant of the decision and give his or her reasons for it.
 
 ### 17A Referral of complaint to Privacy Commissioner
 (1) Where, on receiving a complaint under this Act, an Ombudsman considers that the complaint relates, in whole or in part, to a matter that is more properly within the jurisdiction of the Privacy Commissioner under the Privacy Act 1993, the Ombudsman shall forthwith consult with the Privacy Commissioner in order to determine the appropriate means of dealing with the complaint.
