@@ -1,5 +1,5 @@
 # Commodity Levies Act 1990
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2015-03-26_
 
 > An Act to enable the making of Orders in Council imposing on certain commodities levies payable to bodies corporate representing the views and interests of the persons primarily responsible for paying those levies
 
@@ -195,7 +195,7 @@ Where a levy order has imposed a levy payable to an industry organisation,—
     (vii) education, information, promotion, or training, (relating or relevant to the commodity or commodities concerned):
     (viii) day to day administration of the organisation's activities (not being the administration, direct or indirect, of any commercial or trading activity undertaken by the organisation or on its behalf):
     (ix) any other purpose the Minister thinks fit.
-(3) Subsection (2)(b) of this section does not limit the generality of section 6(2)(a).
+(3) Subsection (2)﻿(b) of this section does not limit the generality of section 6(2)﻿(a).
 (4) An industry organisation may, with the written approval of a Minister, and subject to the conditions (if any) subject to which the approval was given, spend any amount of a levy it has imposed pursuant to a levy order for a purpose prohibited by subsection (1) or by the order.
 (5) The Minister shall not give an approval under subsection (4) unless satisfied that—
   (a) the spending of money for the purpose concerned will benefit most of the persons primarily responsible for the payment of the levy concerned; and
@@ -239,7 +239,7 @@ Every levy order shall provide for—
   (b) it has ceased to have effect on or before the sixth anniversary of the day on which it was made, by virtue of Part 3 of the Legislation Act 2012.
 (2) Subject to subsection (3), the Governor-General may, by Order in Council made at least 12 months before the day on which the order concerned would otherwise be deemed under subsection (1) to have been revoked, extend for a specified period (of not more than 5 years) the currency of a levy order that is then in force; and in that case (subject to subsection (3)), the order shall not be deemed under subsection (1) to have been revoked until the extended period has expired.
 (3) Where the currency of a levy order has been extended under subsection (2), it may from time to time be further extended under that subsection.
-(4) Section 12 and, except for subsection (1)(b), section 5 apply to the making of an order under subsection (2) of this section.
+(4) Section 12 and, except for subsection (1)﻿(b), section 5 apply to the making of an order under subsection (2) of this section.
 
 ## Part 2 — Miscellaneous provisions
 
@@ -292,7 +292,7 @@ For the purpose of ascertaining whether or not a levy order is being complied wi
 (4) Within 28 days of receiving a report under subsection (2), the Minister shall give a copy to the industry organisation concerned.
 
 ### 19 Power of search
-(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable or designated person, is satisfied that there are reasonable grounds to believe that there is in any place any document, article, commodity, or thing that is evidence of the commission of an offence against this Act, may by warrant authorise the constable or person to search the place.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act by a constable or designated person, is satisfied that there are reasonable grounds to believe that there is in any place any document, article, commodity, or thing that is evidence of the commission of an offence against this Act, may by warrant authorise every constable and designated person to search the place.
 (2) Subject to subsection (2A), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
 (2A) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
 (3) In this section a designated person means a person (being an auditor or a person employed in the Public Service) who is for the time being—
