@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2015-03-26_
 
 > Title
 
@@ -290,11 +290,14 @@ In sections 21A and 21B,—
   (a) an eligible person who is 18 years of age or older:
   (b) an eligible person who is younger than 18 years of age but who is or has been in a marriage, in a civil union, or in a de facto relationship:
   (c) the guardian of an eligible person to whom neither of paragraph (a) or (b) applies.
-(2) An application for registration of a name change is made by paying the prescribed fee (if any) and depositing with the Registrar-General—
-  (a) a statutory declaration made, in accordance with subsection (3), by an eligible person or the guardian of an eligible person on a form provided by the Registrar-General for the purpose (accompanied by the eligible person’s written consent if the eligible person is 16 years of age or older and the application was made by the eligible person’s guardian); or
-  (b) a deed poll executed before 1 September 1995, evidencing any change in the eligible person’s names; or
-  (c) a copy of a deed poll executed and filed in an office of the High Court before 1 September 1995 and certified by a Registrar of the court in which it was filed.
-(3) The eligible person or the guardian of the eligible person must declare, in the statutory declaration provided under subsection (2)(a),—
+(2) A person applying for registration of a name change must—
+  (a) complete the standard form and provide it to the Registrar-General; and
+  (b) pay the prescribed fee (if any); and
+  (c) deposit 1 of the following with the Registrar-General:
+    (i) a statutory declaration made, in accordance with subsection (3), by an eligible person or the guardian of an eligible person (accompanied by the eligible person’s written consent if the eligible person is 16 years of age or older and the application was made by the eligible person’s guardian); or
+    (ii) a deed poll executed before 1 September 1995, evidencing any change in the eligible person’s names; or
+    (iii) a copy of a deed poll executed and filed in an office of the High Court before 1 September 1995 and certified by a Registrar of the court in which it was filed.
+(3) The eligible person or the guardian of the eligible person must declare, in the statutory declaration provided under subsection (2)(c)(i),—
   (a) an intention to abandon (and to adopt some other names instead of) the names most recently included in—
     (i) the eligible person’s birth information or name change information; or
     (ii) the registration of the eligible person’s birth in another State; or
@@ -303,8 +306,12 @@ In sections 21A and 21B,—
     (i) the eligible person’s birth information or name change information; or
     (ii) the registration of the eligible person’s birth in another State; or
     (iii) a record of a name change deposited with a foreign registration authority.
-(4) A birth certificate, or some other certificate or evidence, that satisfies the Registrar-General of the date and place of the eligible person’s birth and the status of any other person making the application as the eligible person’s guardian must also be deposited with the Registrar-General if the eligible person’s birth is not registered.
-(5) The Registrar-General must, at the option of the eligible person or the guardian of the eligible person, return or destroy the certificate or evidence deposited under subsection (4).
+(3A) The Registrar-General may require a person before whom the statutory declaration referred to in subsection (2)(c)(i) is made—
+  (a) to verify the identity of the eligible person or the guardian of the eligible person, or both, in a manner specified by the Registrar-General; and
+  (b) to state whether he or she is satisfied of the identity of the eligible person or the guardian of the eligible person, or both.
+(4) A birth certificate, or some other certificate or evidence, that satisfies the Registrar-General of the date and place of the eligible person’s birth and the status of any other person making the application as the eligible person’s guardian must also be provided to the Registrar-General if the eligible person’s birth is not registered.
+(4A) The Registrar-General may require a person applying for registration of a name change to provide, with the standard form referred to in subsection (2)(a) or separately, any means of identification that is reasonably necessary to confirm the identity of the eligible person or the guardian of the eligible person, or both.
+(5) The Registrar-General must, at the option of the eligible person or the guardian of the eligible person, return or destroy the certificate or evidence provided under subsection (4) or (4A).
 
 ### 21B Registration of name change
 (1) The Registrar-General must, subject to section 18, register a name change as soon as practicable if the documents and fee (if any) required by section 21A are deposited with the Registrar-General.
