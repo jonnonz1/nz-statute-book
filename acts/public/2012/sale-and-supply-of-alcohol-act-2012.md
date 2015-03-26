@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-03-26_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -787,8 +787,8 @@ Two or more territorial authorities may adopt a single local alcohol policy for 
 (2) The public notice must be given in accordance with regulations made under this Act.
 
 ### 81 Right of appeal to licensing authority
-(1) A person or agency that made submissions as part of the special consultative procedure on a draft local alcohol policy may, within 30 days of its public notification, appeal to the licensing authority against any element of the resulting provisional local alcohol policy.
-(2) The Police or a Medical Officer of Health may, within 30 days of the public notification of a draft local alcohol policy, appeal to the licensing authority against any element of the resulting provisional local alcohol policy.
+(1) A person or an agency that made submissions as part of the special consultative procedure on a draft local alcohol policy may, within 30 days of the public notification of the resulting provisional local alcohol policy, appeal to the licensing authority against any element of that provisional local alcohol policy.
+(2) The Police or a Medical Officer of Health may, within 30 days of the public notification of the resulting provisional local alcohol policy, appeal to the licensing authority against any element of that provisional local alcohol policy.
 (3) Except as provided in subsection (2), a person or agency that did not make submissions as part of the special consultative procedure on a draft local alcohol policy cannot appeal against any element of the resulting provisional local alcohol policy.
 (4) The only ground on which an element of the provisional policy can be appealed against is that it is unreasonable in the light of the object of this Act.
 (5) The appeal must be made in accordance with regulations made under this Act.
@@ -801,7 +801,7 @@ The licensing authority must deal with every appeal under section 81 by way of p
 (1) The licensing authority must dismiss an appeal against an element of a provisional local alcohol policy if it—
   (a) is not satisfied that the element is unreasonable in the light of the object of this Act; or
   (b) is satisfied that the appellant did not make submissions as part of the special consultative procedure on the draft local alcohol policy concerned.
-(2) The licensing authority must ask the territorial authority concerned to reconsider an element of a draft local alcohol policy appealed against if it is satisfied that—
+(2) The licensing authority must ask the territorial authority concerned to reconsider an element of a provisional local alcohol policy appealed against if it is satisfied that—
   (a) the appellant made submissions as part of the special consultative procedure on the draft local alcohol policy concerned; and
   (b) the element is unreasonable in the light of the object of this Act.
 (3) The licensing authority must notify the appellant and territorial authority of its decision.
@@ -929,9 +929,10 @@ An applicant for a licence must,—
 (1) A person may object to the grant of a licence only if he or she has a greater interest in the application for it than the public generally.
 (2) An objection must be in writing and filed with the licensing committee within 15 working days after the first publication of the public notice of the making of the application.
 (3) No objection may be made in relation to a matter other than a matter specified in section 105.
-(4) An objection may be made only in relation to the suitability of the applicant if—
-  (a) the application relates to any premises for which a licence is in force; and
-  (b) the applicant seeks conditions the same as applying to that licence.
+(4) This subsection applies to an application—
+  (a) for a licence for premises that is of the same kind as the licence currently in force for those premises; and
+  (b) in which the conditions sought are the same as apply to that licence.
+(4A) In the case of an application to which subsection (4) applies, the ground for an objection may not relate to any matter other than the suitability of the applicant.
 (5) The secretary of the licensing committee concerned must give a copy of every objection to the applicant.
 
 ### 103 Police, Medical Officer of Health, and inspector must inquire into applications
@@ -1237,7 +1238,7 @@ The licensing committee may decide an application for renewal of a licence on th
 (1) After considering an application for the renewal of a licence, the licensing authority or the licensing committee concerned may, subject to section 133, renew the licence for a further period of not more than 3 years on—
   (a) the conditions presently attaching to it; or
   (b) any different conditions, relating to any matter, that the authority or committee thinks fit.
-(2) If the committee refuses to renew the licence, it must state the day on which the licence expires, and that day must be no later than 3 months after the date of its decision.
+(2) If the licensing authority or the committee refuses to renew the licence, it must state the day on which the licence expires, and that day must be no later than 3 months after the date of its decision.
 
 **Temporary authorities**
 
@@ -2024,7 +2025,7 @@ In considering an application for the renewal of a manager's certificate, the li
 (4) The licensing committee may, within 5 working days after receiving a notice of the appointment of any temporary manager or acting manager, notify the licensee that it does not approve the appointment, in which case it must give a copy of the notice to the constable referred to in subsection (2)(b).
 (5) On receiving notice under subsection (4), the licensee must terminate the appointment with effect from a date not later than 5 working days after the date of the notice.
 
-### 232 Licensees to keep record of temporary and acting managers
+### 232 Licensees to keep record of managers, acting managers, and temporary managers
 (1) Every licensee required by this Act to appoint a manager or managers for any premises must, in respect of each manager, acting manager, or temporary manager appointed for the premises, record (in a form that is readable or retrievable) the information prescribed by regulations made under this Act for the purposes of this section.
 (2) The licensee must keep the information recorded for at least 2 years after it is recorded.
 
@@ -3202,7 +3203,7 @@ The first trustees of a community trust are the members of the licensing trust i
 (2) Elections of trustees must be held on the same days as triennial general elections of members of territorial authorities are held under the Local Electoral Act 2001.
 
 ### 371 Who is qualified to vote in election of trustees of community trust
-(1) A person is qualified to vote in the election of the trustees of a community trust if that person is qualified as a residential elector of a territorial authority in whose district the trust is situated and resides in that district.
+(1) A person is qualified to vote in the election of the trustees of a community trust if that person is qualified as a residential elector of a territorial authority in whose district the trust is situated and resides in the trust district.
 (2) If the trust district is divided into wards, a person who is qualified as a residential elector of the territorial authority on the basis of a residential address within that ward—
   (a) is qualified to vote in the election of the trustee or trustees for that ward; and
   (b) is not qualified to vote in the election of any other trustee.
@@ -3331,7 +3332,7 @@ Two or more community trusts may be amalgamated into 1 new trust in accordance w
 (1) If an amalgamation proposal is approved under section 388(4) or if no poll is required to be held, the amalgamating trusts must, if they proceed with the amalgamation, submit to the Minister—
   (a) the proposal; and
   (b) copies of the latest audited financial statements of each trust.
-(2) On the recommendation of the Minister tendered at the request of each of the amalgamating trusts, the Governor-General may, by Order in Council, —
+(2) On the recommendation of the Minister tendered at the request of each of the amalgamating trusts, the Governor-General may, by Order in Council,—
   (a) amalgamate 2 or more community trusts into 1 new community trust; and
   (b) define the region of the new community trust in conformity with the appropriate meshblocks.
 
