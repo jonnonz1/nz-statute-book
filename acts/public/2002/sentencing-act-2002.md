@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2014-12-06_
+_Consolidation as at 2015-03-26_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -2812,7 +2812,7 @@ If, under section 129A or 136(4), the court orders a motor vehicle to be confisc
 (5) However, despite subsection (4), section 137 applies subject to the following modifications:
   (a) the proceeds of the sale of the motor vehicle must be applied in payment to the lessor of the amount to which the lessor would, but for the sale, have been entitled to under the lease; and
   (b) the proceeds of the sale of the motor vehicle must be applied in the manner and order of priority set out in section 137, except that,—
-    (i) in the case of a lease for a term of less than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) after they are applied for the payments described in section 137(3)(a) and (b), but before they are applied for the remainder of the payments described in section 137(3)(c) to (g); and
+    (i) in the case of a lease for a term of 1 year or less, those proceeds must be applied for the payment to the lessor described in paragraph (a) after they are applied for the payments described in section 137(3)(a) and (b), but before they are applied for the remainder of the payments described in section 137(3)(c) to (g); and
     (ii) in the case of a lease for a term of more than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) as if they were payments described in section 137(3)(c), and section 137(3)(c) and (3A) applied.
 (6) On the release of the proceeds of the sale of the motor vehicle to the lessor, the lease is cancelled.
 
