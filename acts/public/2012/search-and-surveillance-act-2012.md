@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2014-12-12_
+_Consolidation as at 2015-03-26_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3681,7 +3681,8 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 | International War Crimes Tribunals Act 1995 | 48(1) | Constable who is of or above the level of inspector may obtain and execute warrant to search for evidence of suspected offence for which person has been arrested under section 7 of International War Crimes Tribunals Act 1995 or for any thing in respect of which such offence has been, or is suspected of having been, committed | Subparts 1 to 5 and 7 to 10 and also sections 161 and 162 |
 |  | 48(2) | Constable, authorised by Attorney-General, may obtain and execute warrant to search for evidence of suspected offence that war crimes tribunal has jurisdiction to try, and for any thing in respect of which such offence has been, or is suspected of having been, committed | Subparts 1 to 5 and 7 to 10 and also sections 161 and 162 |
 |  | 55(5) and (6) | Any thing seized may be retained in certain circumstances, but must otherwise be returned to person from whom it was seized (subject to sections 154 and 155 of Search and Surveillance Act 2012) | Sections 154 and 155 |
-| Land Transport Act 1998 | 119(1) and (2) | Enforcement officer may enter any premises if he or she is in fresh pursuit of driver suspected of committing certain offences against Land Transport Act 1998, or of driver who has failed to provide certain information | All (except subpart 3) |
+| Land Transport Act 1998 | 79V | Constable may obtain and execute a search warrant to search for evidence of offence against section 79T or 79U of Land Transport Act 1998 | All (except that sections 118 and 119 apply to constables only) |
+|  | 119(1) and (2) | Enforcement officer may enter any premises if he or she is in fresh pursuit of driver suspected of committing certain offences against Land Transport Act 1998, or of driver who has failed to provide certain information | All (except subpart 3) |
 |  | 119(3) | Enforcement officer may enter premises without warrant, in exigent circumstances, to seize and impound vehicle liable to impoundment under various provisions of Land Transport Act 1998 | All (except subpart 3) |
 |  | 119(5) | Enforcement officer may obtain and execute warrant to enter premises and seize and impound vehicle liable to impoundment under various provisions of Land Transport Act 1998 | All |
 | Local Government Act 2002 | 165 | Enforcement officer may obtain and execute warrant to enter private land involved in commission of offence and seize and impound property | All (except sections 118 and 119) |
