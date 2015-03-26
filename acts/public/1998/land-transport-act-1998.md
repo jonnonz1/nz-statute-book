@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-03-26_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -1945,7 +1945,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
     (iia) in the case of an infringement offence, the date on which the defendant is served with an infringement notice in respect of the infringement offence; or
     (iii) in any case to which subparagraph (i), (ii), or (iia) does not apply, the date on which the defendant is first charged in court with any such offence; and
   (b) state the full name and address and the occupation of the person and the date of the alleged offence; and
-  (c) identify the private analyst to whom the part of the blood specimen is to be sent and the address of the private analyst.
+  (c) identify the private analyst to whom the blood specimen is to be sent and the address of the private analyst.
 (8) A blood specimen sent to an approved laboratory under subsection (3) or subsection (4) may be destroyed at any time later than 1 year after the date the specimen was so sent.
 
 **Evidential provisions**
@@ -2227,7 +2227,11 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 Every person commits an offence, and is liable on conviction to a fine not exceeding $25,000, who, by act or omission, directly or indirectly causes or requires (whether or not the sole cause) a driver to operate a vehicle or combination of vehicles in breach of the applicable maximum gross weight limits for that vehicle or combination of vehicles if that person knew, or should have known, that the breach would, or would be likely to, occur.
 
 ### 79V Search warrants in relation to offences against section 79T or 79U
-Even though offences under section 79T or 79U are not punishable by imprisonment, a court may issue a search warrant under section 198 of the Summary Proceedings Act 1957 in relation to an incident giving rise to an offence under section 79T or 79U if a constable believes on reasonable grounds that a person has committed an offence against section 79T or 79U.
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a search warrant in relation to a place, vehicle, or other thing if, on application made by a constable in the manner provided in subpart 3 of Part 4 of that Act, he or she is satisfied that there are reasonable grounds—
+  (a) to suspect that an offence has been, is being, or will be committed against section 79T or 79U; and
+  (b) to believe that the search will find evidential material in respect of the offence in the place, vehicle, or other thing.
+(2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(3) Despite subsection (2), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 
 ## Part 7 — Disqualification, demerit points, licence suspension, and vehicle impoundment
 
@@ -2416,7 +2420,7 @@ In this section and in sections 91C to 91H, unless the context otherwise require
     (b) includes an offender levy imposed under section 105B of the Sentencing Act 2002 for a traffic offence and any prescribed costs, expenses, or fees payable in respect of the enforcement of any amount of money described in paragraph (a); but
     (c) does not include any amount of money adjudged or ordered to be paid in a civil proceeding
   - **traffic offence** means—
-    (a) any offence against this Act, the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Road User Charges Act 2012, or the Land Transport Management Act 2003, or against any regulation, rule, or bylaw made under any of those Acts:
+    (a) any offence against this Act, the Transport Act 1962, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Road User Charges Act 1977, the Road User Charges Act 2012, or the Land Transport Management Act 2003, or against any regulation, rule, or bylaw made under any of those Acts:
     (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
   - **warning notice** means a notice served under section 91D.
 
@@ -3469,7 +3473,8 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (2) A reminder notice must—
   (a) be in the form prescribed by regulations made under this Act; and
   (b) include the same particulars, or substantially the same particulars, as the infringement notice; and
-  (c) in the case of an offence to which demerit points apply, include a statement that demerit points apply to the alleged offence.
+  (c) in the case of an offence to which demerit points apply, include a statement that demerit points apply to the alleged offence; and
+  (d) in the case of an alleged infringement offence that is a stationary vehicle offence, include a summary of the provisions of section 133A.
 (3) Different forms of infringement notices and reminder notices may be prescribed for different kinds of infringement offences.
 
 ### 141 Provisions relating to infringement fees
