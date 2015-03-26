@@ -1,5 +1,5 @@
 # Land Transport Management Amendment Act 2008
-_Consolidation as at 2013-06-13_
+_Consolidation as at 2015-03-26_
 
 ### 1 Title
 This Act is the Land Transport Management Amendment Act 2008.
@@ -1269,7 +1269,7 @@ The Schedule 7 set out in Schedule 1 of this Act is added.
 ## Part 2 — Miscellaneous provisions
 
 ### 47 Consequences of establishment of New Zealand Transport Agency
-(1) On 1 July 2008,—
+(1) On 1 August 2008,—
   (a) Land Transport New Zealand and Transit New Zealand are dissolved; and
   (b) the office of the Director of Land Transport ceases to exist; and
   (c) the Transit New Zealand Act 1989 is called the Government Roading Powers Act 1989.
