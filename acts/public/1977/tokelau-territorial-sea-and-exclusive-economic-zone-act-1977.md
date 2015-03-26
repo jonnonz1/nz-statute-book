@@ -1,5 +1,5 @@
 # Tokelau (Territorial Sea and Exclusive Economic Zone) Act 1977
-_Consolidation as at 2001-05-01_
+_Consolidation as at 2015-03-26_
 
 > An Act to make provision with respect to the territorial sea of Tokelau, and for the establishment of an exclusive economic zone of Tokelau, and for matters connected with those purposes
 
@@ -45,9 +45,7 @@ The baseline from which the breadth of the territorial sea is measured shall be 
 
 ### 6 Prohibition of foreign fishing in territorial sea
 (1) No foreign fishing craft shall be used for fishing within the territorial sea.
-(2) Where any foreign fishing craft is used in contravention of subsection (1), each of them the owner, the master, and every crew member of the craft commits an offence against this Act and is liable on conviction—
-  (a) in the case of the owner or master, to a fine not exceeding $100,000; and
-  (b) in the case of any other crew member, to a fine not exceeding $5,000.
+(2) If a foreign fishing craft is used in contravention of subsection (1), the owner, the master, and every crew member of the craft commit an offence and are each liable on conviction to a fine not exceeding $250,000.
 (3) The court, on the conviction of any person of an offence under this section, may order in addition to any penalty that it may impose—
   (a) the immediate forfeiture to the Crown of the foreign fishing craft in respect of which the offence was committed, and of any equipment on board or used by the craft, and of any fish on board the craft; or
   (b) the detention for a specified period of the foreign fishing craft and of any such equipment and fish, and the forfeiture to the Crown of the craft, equipment, and fish if any fine or fines imposed in respect of the offence are not paid within that specified period.
@@ -75,11 +73,9 @@ The baseline from which the breadth of the territorial sea is measured shall be 
     (ii) where the licensee or master or any crew member of the foreign fishing craft in respect of which the licence has been granted has been convicted of any offence against this Act, or against any regulations made under this section, or against any other law relating to fishing within the zone:
   (i) providing for the suspension or cancellation of any licence or licences, or class or classes of licence, where the licensing authority, with the concurrence of the Minister of Foreign Affairs and Trade, is satisfied that it is necessary or expedient for the proper regulation of fishing in the zone to do so:
   (j) providing for such other measures as are necessary or expedient to ensure that foreign fishing craft are used for fishing within the zone only in accordance with the terms and conditions of their licences:
-  (k) providing that a breach of any regulation made under this section shall be a criminal offence, and imposing penalties by way of fine for any such offences, not exceeding—
-    (i) in the case of the owner or master of an unlicensed foreign fishing craft, $100,000; and
-    (ii) in the case of any other crew member of an unlicensed foreign fishing craft, $5,000; and
-    (iii) in the case of the licensee or master of a licensed foreign fishing craft, $25,000; and
-    (iv) in the case of any other crew member of a licensed foreign fishing craft, $1,500:
+  (k) providing that a breach of any regulation made under this section is an offence and imposing fines as penalties for any such offences, not exceeding,—
+    (i) in the case of the owner or master or any other crew member of an unlicensed foreign fishing craft, $500,000; and
+    (ii) in the case of the licensee or master or any other crew member of a licensed foreign fishing craft, $250,000:
   (l) providing that—
     (i) on the conviction of any licensee, owner, or master of a foreign fishing craft for any offence against this Act, or against any regulations made under this section, or against any other law relating to fishing within the zone, the court may, in addition to any penalty that it may impose, exercise in respect of the craft or any equipment on board or used by the craft any of the powers specified in section 6(3); and
     (ii) on the conviction of any licensee, owner, master, or other crew member of a foreign fishing craft for any offence referred to in subparagraph (i), the court may, in addition to any penalty that it may impose, exercise in respect of any fish on board the craft any of the powers specified in section 6(3):
@@ -104,7 +100,7 @@ Where no other provision is for the time being made by any other enactment for a
   (e) providing for the designation or appointment of authorised officers for the purposes of this Act:
   (f) providing for the conservation and management of fisheries resources within the territorial sea and the zone:
   (g) providing for such other matters as are necessary or expedient for giving full effect to sovereignty in respect of Tokelau in relation to the territorial sea, and to the sovereign rights of Tokelau in relation to the zone:
-  (h) providing that a breach of any regulations made under this section shall be a criminal offence, and imposing penalties by way of fine not exceeding $10,000 for any such offences:
+  (h) providing that a breach of any regulations made under this section shall be a criminal offence, and imposing penalties by way of fine not exceeding $250,000 for any such offences:
   (i) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration:
   (j) regulating the use of Tokelauan fishing craft to take fish outside the exclusive economic zone of Tokelau.
 
