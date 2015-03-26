@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-03-26_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -2526,7 +2526,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
   (c) the defendant has at any time made to a constable an admission to the effect that the substance was alcohol.
 (3) If, in any proceedings for a breach of alcohol ban, it is proved that subsection (2) applies to the substance in respect of which the breach is alleged to have been committed, the substance must be presumed to be alcohol unless the defendant—
   (a) proves that it was not; or
-  (b) has given notice in writing at least 20 working days before the hearing that he or she disputes that the substance was alcohol.
+  (b) has served on the prosecution notice in writing at least 20 working days before the hearing that he or she disputes that the substance was alcohol.
 
 ### 170 Conditions relating to power of search
 (1) Before exercising the power of search under section 169(2)(a) in relation to a container or a vehicle, a constable must—
@@ -5052,10 +5052,10 @@ This subpart applies to a final proposal that provides for any of the matters sp
   (a) the poll; and
   (b) the place or places at which the final proposal and the explanatory statement may be inspected.
 (5) The date determined under subclause (1) for the conduct of the poll must,—
-  (a) if written notice under subclause (3) is to be given on or after 28 September and before 21 November in any year, be a day not earlier than 10 February and not later than 17 February in the following year; and
-  (b) if written notice under subclause (3) is to be given on or after 21 November and before 16 December in any year, be a day not earlier than 7 March and not later than 14 March in the following year; and
-  (c) if written notice under subclause (3) is to be given on or after 16 December in any year and before 13 January in the following year, be a day not earlier than 4 April and not later than 11 April in that following year; and
-  (d) in any other case, be a day not later than 82 days after the day on which written notice under subclause (3) is given to the electoral officer.
+  (a) if written notice under subclause (3) is to be given on or after 28 September and before 21 November in any year, be a day not earlier than 17 February and not later than 24 February in the following year; and
+  (b) if written notice under subclause (3) is to be given on or after 21 November and before 16 December in any year, be a day not earlier than 14 March and not later than 21 March in the following year; and
+  (c) if written notice under subclause (3) is to be given on or after 16 December in any year and before 13 January in the following year, be a day not earlier than 11 April and not later than 18 April in that following year; and
+  (d) in any other case, be a day not later than 89 days after the day on which written notice under subclause (3) is given to the electoral officer.
 
 ### 27 Official result of poll
 The electoral officer must,—
