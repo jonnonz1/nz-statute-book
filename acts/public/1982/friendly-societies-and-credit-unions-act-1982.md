@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-03-26_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -21,7 +21,7 @@ In this Act, unless the context otherwise requires,—
   - **applicable financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **association** means an association of credit unions registered as such under Part 3
   - **bank** means a person carrying on in New Zealand the business of banking; and includes the Reserve Bank of New Zealand, the Post Office Bank Limited, any private savings bank company's successor under the Private Savings Banks (Transfer of Undertakings) Act 1992, and any trustee bank's successor company constituted under the Companies Act 1993
-  - **benevolent society** means a society of the kind specified in section 11(1)(b)
+  - **benevolent society** means a society of the kind specified in section 11(1)﻿(b)
   - **branch** means any number of the members of a society, under the control of a central body, having a separate fund administered by themselves or by a committee or officers appointed by themselves, and bound to contribute to a fund under the control of a central body; and includes a branch of a branch of a society
   - **central body** means a body of persons which has the control of the fund or funds to which a branch of a society is bound to contribute, and which also has responsibilities under this Act in relation to that branch
   - **committee** and mean the directing body of a society or branch, by whatever name that body is known
@@ -29,7 +29,7 @@ In this Act, unless the context otherwise requires,—
   - **document** includes all instruments by way of security and title, membership and other registers, and all documents and records; but does not include accounting records
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial year** means the financial year of every registered society or branch or credit union, being a period of 12 months ending with 1 December or such other day as may be provided in the rules of the society, branch, or credit union
-  - **friendly society** means a society of the kind specified in section 11(1)(a)
+  - **friendly society** means a society of the kind specified in section 11(1)﻿(a)
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **land** includes any interest in land
   - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
@@ -45,10 +45,10 @@ In this Act, unless the context otherwise requires,—
   - **Registrar** means the Registrar of Friendly Societies and Credit Unions, and, where a Deputy Registrar of Friendly Societies and Credit Unions is lawfully acting, includes that Deputy Registrar
   - **Revising Barrister** means the Solicitor-General; and includes any Crown Counsel in the Crown Law Office
   - **share** , in relation to a credit union, means a share in the capital of that credit union
-  - **specially authorised society** means a society of a kind authorised by the Minister pursuant to section 11(1)(d); but does not include a credit union
+  - **specially authorised society** means a society of a kind authorised by the Minister pursuant to section 11(1)﻿(d); but does not include a credit union
   - **special resolution** , where required under this Act, means a resolution passed in the manner prescribed by section 82
   - **trustee company** means a trustee company within the meaning of the Trustee Companies Act 1967
-  - **working men's club** means a society of the kind specified in section 11(1)(c).
+  - **working men's club** means a society of the kind specified in section 11(1)﻿(c).
 
 ## Part 1 — Registrar and officers
 
@@ -102,8 +102,7 @@ The Registrar may from time to time prepare, cause to be circulated, or publish,
   (c) such particulars of annual returns and valuations, and reports, and such other information as the Registrar thinks fit.
 
 ### 10 Annual report
-(1) The Registrar shall, as soon after 30 June in every year as is practicable, report to the Minister on the principal matters transacted under or pursuant to this Act during the preceding year.
-(2) Every report made to the Minister under subsection (1) shall be laid before Parliament as soon as practicable after having been so made.
+[Repealed]
 
 ## Part 2 — Friendly and other societies
 
@@ -118,7 +117,7 @@ The Registrar may from time to time prepare, cause to be circulated, or publish,
 (2) No society or branch shall first be registered under this Part unless it consists of at least 7 adults.
 (3) No society or branch shall be registered under this Act which contracts with any person for the assurance of a gross sum or of an annuity in excess of the limits specified in section 42.
 (3A) Subsection (3) does not apply to a licensed insurer.
-(4) In the case of specially authorised societies and their registered branches (if any) established pursuant to subsection (1)(d)—
+(4) In the case of specially authorised societies and their registered branches (if any) established pursuant to subsection (1)﻿(d)—
   (a) the rules shall bind the society or registered branch and its members, and all persons claiming through them respectively, to the same extent as if each member had subscribed his name and (where appropriate) affixed his seal, and there were in such rules a covenant on the part of himself, his executors and administrators, to conform to such rules subject to the provisions of this Act:
   (b) all money payable by a member to the society or to a registered branch shall be deemed to be a debt due from such member to the society or registered branch, and shall be recoverable as such.
 
@@ -343,12 +342,12 @@ Except as provided in this Part, the subscription of a person who is or has been
   (a) of a death certificate (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the death of the member or other person; or
   (ab) of a doctor's certificate (within the meaning of section 2(1) of the Burial and Cremation Act 1964) relating to the death of the member or other person; or
   (b) of the grant of probate of the will of the member or other person or of letters of administration to his estate.
-(2) Subsection (1)(a) shall not apply to deaths at sea or out of New Zealand, nor to a death where the body cannot be found, nor to any death certified by a coroner to be the subject of a pending inquiry, nor to any case where the Registrar, on being satisfied of the fact of death, grants an exemption from this section.
+(2) Subsection (1)﻿(a) shall not apply to deaths at sea or out of New Zealand, nor to a death where the body cannot be found, nor to any death certified by a coroner to be the subject of a pending inquiry, nor to any case where the Registrar, on being satisfied of the fact of death, grants an exemption from this section.
 
 ### 46 Restriction on payments on account of death of minors
 Sections 67B to 67E of the Life Insurance Act 1908 shall, with all necessary modifications, apply in respect of a registered society or branch as if—
-  (a) every reference therein (except section 67B(1)(b)) to a company were a reference to a registered society or branch; and
-  (b) the reference in section 67B(1)(a) to premiums paid under the policy issued by the company on the life of the minor were a reference to any contributions paid to the registered society or branch in order to obtain the benefit payable on the death of the minor.
+  (a) every reference therein (except section 67B(1)﻿(b)) to a company were a reference to a registered society or branch; and
+  (b) the reference in section 67B(1)﻿(a) to premiums paid under the policy issued by the company on the life of the minor were a reference to any contributions paid to the registered society or branch in order to obtain the benefit payable on the death of the minor.
 
 ### 47 Power to make loans against surrender value of policies
 (1) Notwithstanding anything to the contrary in this Act, where the rules of a registered society or branch provide that a member who elects to cease contributing for a sum payable at death or on survival to a specified date shall be entitled on such election to receive a cash payment, the society or branch may (if its rules so provide) make a loan to any member so entitled to cease contributing of an amount not exceeding 90% of the cash payment to which the member would be entitled if he elected on the day the loan is granted so to cease contributing.
@@ -391,8 +390,8 @@ Subject to this Act, a trustee may invest the funds of a registered society or b
 (1) A registered society whose object, or 1 of whose objects, is to provide medical or surgical requisites (not being medical or surgical attendance) for its members or for the members of any registered societies or branches contributing to its funds may (if its rules so provide)—
   (a) issue debentures to member societies or branches for the purpose of raising the capital money required for commencing or extending its business of providing such medical or surgical requisites:
   (b) without limiting the powers of investment contained in section 52, invest in the shares of any company in which it is necessary to hold shares in order to obtain supplies for the business of providing medical or surgical requisites or in which it is necessary to hold shares to enable such business of providing medical or surgical requisites to be carried on.
-(2) Every branch of such registered society and every registered society or branch contributing to its funds may take up any debentures issued under subsection (1)(a), and may invest any portion of their funds in them.
-(3) The debentures issued under subsection (1)(a) shall be of such amount, and for such term, and shall bear such rate of interest as the committee or a majority of the members of the society issuing them approves.
+(2) Every branch of such registered society and every registered society or branch contributing to its funds may take up any debentures issued under subsection (1)﻿(a), and may invest any portion of their funds in them.
+(3) The debentures issued under subsection (1)﻿(a) shall be of such amount, and for such term, and shall bear such rate of interest as the committee or a majority of the members of the society issuing them approves.
 
 ### 54 Subscriptions to hospitals or other institutions
 A registered society or branch may subscribe to any hospital, infirmary, or charitable or provident institution, any annual or other sum necessary to secure to members of the society or branch and their families the benefits of that hospital, infirmary, or other institution.
@@ -503,7 +502,7 @@ An auditor must, in carrying out an audit of the financial statements of a regis
 (2) Where notice is given of an intended resolution to appoint at a general meeting some person or persons in place of a retiring auditor or auditors and the resolution cannot be proceeded with at the meeting because of the death or incapacity of that person or persons, or because he or they are ineligible for appointment as auditor or auditors of the society or branch for the current financial year (as the case may be), the retiring auditor shall not be automatically reappointed by virtue of subsection (1).
 
 ### 66 Notice of resolution relating to appointment and removal of auditors
-(1) For the purposes of section 65(1)(a), a resolution at a general meeting of a registered society or branch—shall not be effective unless notice of the intention to move the resolution has been given to the society or branch not less than 28 days before the meeting at which it is moved.
+(1) For the purposes of section 65(1)﻿(a), a resolution at a general meeting of a registered society or branch—shall not be effective unless notice of the intention to move the resolution has been given to the society or branch not less than 28 days before the meeting at which it is moved.
   (a) appointing another auditor or auditors in place of a retiring qualified auditor; or
   (b) providing expressly that a retiring qualified auditor shall not be reappointed,—
 (2) Where notice of the intention to move any such resolution has been given under subsection (1) to a society or branch which is required by its rules to give notice to its members of the meeting at which the resolution is to be moved, the society or branch shall, if it is practicable to do so, give them notice of the resolution at the same time and in the same manner as it gives notice of the meeting.
@@ -547,7 +546,7 @@ An auditor must, in carrying out an audit of the financial statements of a regis
   (d) shall have attached a list containing the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the society or branch; and
   (e) shall be accompanied by a statement giving details of the total number of members in each category of member as recorded in the register kept pursuant to section 40.
 (4) In the case of a branch, the annual return, list, and statement shall be sent to the Registrar under the hand of the secretary of the society of which the branch forms part or, alternatively, may be comprised in the annual return of that society.
-(5) The annual return sent to the Registrar must be accompanied by the auditor's report on the financial statements referred to in subsection (3)(b) (if any).
+(5) The annual return sent to the Registrar must be accompanied by the auditor's report on the financial statements referred to in subsection (3)﻿(b) (if any).
 
 ### 71 Annual return by society under dissolution, etc
 (1) Any registered society or branch which is being terminated by an instrument of dissolution under section 94 or the award of the Registrar under section 95 shall make up its annual return to the date of that instrument of dissolution or that award.
@@ -584,7 +583,7 @@ It shall be the duty of every branch of a registered society to supply the secre
 (5) This section does not apply to a licensed insurer.
 
 ### 77 Registrar may advise society on financial position
-(1) If, after consideration of the actuarial valuation or any report made in respect of any registered society or branch under section 74 or pursuant to section 7(3)(a), it appears to the Registrar to be necessary or desirable that the financial structure of the business or activities or any part of them of that society or branch should be amended or improved, he may advise the society or branch of his opinion and require them to submit to him such proposals (whether by way of increase in the rate of contribution or otherwise) as will effect that financial amendment or improvement.
+(1) If, after consideration of the actuarial valuation or any report made in respect of any registered society or branch under section 74 or pursuant to section 7(3)﻿(a), it appears to the Registrar to be necessary or desirable that the financial structure of the business or activities or any part of them of that society or branch should be amended or improved, he may advise the society or branch of his opinion and require them to submit to him such proposals (whether by way of increase in the rate of contribution or otherwise) as will effect that financial amendment or improvement.
 (2) This section does not apply to a licensed insurer.
 
 **Disputes**
@@ -746,7 +745,7 @@ It shall be the duty of every branch of a registered society to supply the secre
   (g) that, at the request of the society or branch, there is good reason for the cancellation or suspension.
 (2) Any cancellation or suspension of registration under this section shall be effected under the seal of the Registrar.
 (3) Before cancelling or suspending the registration of a society or branch under this section, the Registrar shall give to the society or, as the case may be, branch not less than 2 months' notice in writing, specifying briefly the reasons for the proposed cancellation or suspension, except no notice need be given in the case of—
-  (a) a cancellation or suspension pursuant to subsection (1)(f) or (g); or
+  (a) a cancellation or suspension pursuant to subsection (1)﻿(f) or (g); or
   (b) the renewal of a suspension for a further period under subsection (1).
 (4) The Registrar shall consider any representations with respect to the proposed cancellation or suspension that may be made to him by the society or branch within the said period of 2 months or such further period as he may allow, and, if the society or branch so requests, shall afford it an opportunity of being heard by him within such period or further period allowed.
 (5) A notice of every such cancellation or every such suspension or renewal of suspension shall as soon as practicable be published in the Gazette and in some newspaper in general circulation in the neighbourhood of the registered office of the society or branch.
@@ -760,7 +759,7 @@ It shall be the duty of every branch of a registered society to supply the secre
 ### 93 Dissolution of societies and branches
 (1) Subject to this section, a registered society or branch may terminate or be dissolved in any of the following ways:
   (a) upon the happening of any event declared by the rules to lead to the termination of the society or branch; or
-  (b) by the consent of not less than 75% of the members of the society or banch testified by their signatures to the instrument of dissolution and also, in the case of a branch of a society, with the consent of the central body of the society and in accordance with the society's rules; or
+  (b) by the consent of not less than 75% of the members of the society or branch testified by their signatures to the instrument of dissolution and also, in the case of a branch of a society, with the consent of the central body of the society and in accordance with the society's rules; or
   (c) by the award of the Registrar under section 95.
 (2) A society which has branches shall not be dissolved except with the consent of the central body of the society.
 (3) If any member of a registered friendly society or branch in respect of which an instrument of dissolution has been registered in accordance with section 94, or if any person claiming any relief, annuity, or other benefit from the funds of such a society or branch is dissatisfied with the provision made for satisfying his claim, he may within the period of 3 months referred to in subsection (6) of that section, make an application to any court of competent jurisdiction, and the court to which the application is made may hear and determine the matter.
@@ -802,7 +801,7 @@ It shall be the duty of every branch of a registered society to supply the secre
 ### 96 Notice to Registrar of proceedings to oppose dissolution
 (1) Where any person takes proceedings to set aside the dissolution of a society or branch, he shall give notice of the proceedings to the Registrar not later than the expiry of whichever of the following periods first expires:
   (a) the period of 7 days after the commencement of the proceedings:
-  (b) the period of 3 months referred to in section 94(6)(a) or, as the case may require, section 95(6)(a).
+  (b) the period of 3 months referred to in section 94(6)﻿(a) or, as the case may require, section 95(6)﻿(a).
 (2) Where an order is made setting aside the dissolution of a society or branch, the society or branch shall give notice of the order to the Registrar within 7 days after the order is made.
 
 ### 97 Property to be transferred before final dissolution
@@ -818,7 +817,7 @@ Where a registered society or branch amalgamates or transfers its engagements pu
   (a) administering a fund into which members of a group contribute money which is to be applied either wholly or principally in loans to those members:
   (b) representing the person, society, or body of persons as being a credit union:
   (c) using, in reference to the person, society, or body of persons, any name, title, or descriptive expression containing the words “credit union”, “money club”, “savings society”, or “loan society”, or any cognate term or any derivative of those words, when trading, carrying on business, or advertising for share capital, deposits, or loan funds.
-(3) Nothing in subsection (2)(c) shall apply to—
+(3) Nothing in subsection (2)﻿(c) shall apply to—
   (a) the use by an officer or employee of a credit union of a title or descriptive expression indicating his office or post with the credit union; or
   (b) the use with reference to an association of credit unions of a name which has been approved in writing by the Registrar.
 
@@ -880,7 +879,7 @@ Except where otherwise authorised in writing by the Registrar in the circumstanc
     (i) an adult; or
     (ii) a charitable entity as defined by the Charities Act 2005; or
     (iii) an incorporated society registered under the Incorporated Societies Act 1908; and
-  (c) the designation referred to in section 17(1)(a) were that of a credit union.
+  (c) the designation referred to in section 17(1)﻿(a) were that of a credit union.
 (2) On any application for registration of a credit union or its rules or an amendment to its rules, the Registrar may require from the applicant such information or evidence as may be reasonable to show that the applicant will be or is bona fide carrying on the business of a credit union in accordance with this Part.
 (3) Except where there is a change in the situation of the registered office of a credit union or a change to the rules effected by the Registrar pursuant to section 26 or a change of name, the rules of a credit union shall be amended only by special resolution.
 
@@ -962,7 +961,7 @@ A credit union may make loans to members for such purposes and upon such securit
 (5)
 (6)
 (7) No purchaser, assignee, mortgagee, or tenant shall be bound to inquire as to the authority for any sale, exchange, mortgage, or lease by the trustees, and the receipt of the trustees shall be a discharge for all money arising from or in connection with the sale, exchange, mortgage, or lease.
-(8) Subject, in the case of an instrument affecting land under the Land Transfer Act 1952, to the provisions of section 33 (as applied by section 112(3)(e)), every document to be executed by a credit union in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the credit union is vested.
+(8) Subject, in the case of an instrument affecting land under the Land Transfer Act 1952, to the provisions of section 33 (as applied by section 112(3)﻿(e)), every document to be executed by a credit union in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the credit union is vested.
 
 ### 114 Officers of credit union to give security
 (1) Before taking upon himself the execution of his office, every officer of a credit union having the receipt or charge of money shall, notwithstanding any rule of the credit union to the contrary, give security in accordance with subsection (2) for his rendering a just and true account of all sums of money received and paid by him on account of the credit union at such times as its rules appoint, or as the credit union or its trustees or committee require him to do, and for the payment by him of all sums due from him to the credit union.
@@ -973,7 +972,7 @@ A credit union may make loans to members for such purposes and upon such securit
 (3) In this section the term guarantee society means—
   (a) any incorporated company carrying on the business of insurance in New Zealand; or
   (b) any society registered under Part 2 as a specially authorised society and duly authorised to guarantee the fidelity of officers of societies or branches registered under the said Part 2 or credit unions; or
-  (c) an association of credit unions authorised under section 143(4)(e) to offer fidelity insurance.
+  (c) an association of credit unions authorised under section 143(4)﻿(e) to offer fidelity insurance.
 (4) Where any registered friendly society makes provision by its rules in accordance with clause 8 of Schedule 1 for guaranteeing the performance of their duties by officers of the society or its branches and membership of that friendly society is the common bond for the membership of a credit union, then the society may resolve to extend the effect of the guarantee to cover officers of the credit union to the same extent as if they were officers of the society, and it shall be a sufficient compliance with this section if any officer of the society or of any branch thereof gives the security of the society in accordance with those rules as extended.
 (5)
 
@@ -1084,7 +1083,7 @@ Where it appears to the Registrar to be necessary or desirable that the financia
   (c)
   (d) shall have attached a list containing the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the credit union; and
   (e) shall be accompanied by a statement giving details of the total number of members in each category of member as recorded in the register kept pursuant to section 130.
-(4) The annual return sent to the Registrar must be accompanied by the auditor's report on the financial statements referred to in subsection (3)(b).
+(4) The annual return sent to the Registrar must be accompanied by the auditor's report on the financial statements referred to in subsection (3)﻿(b).
 
 ### 128 Annual return by credit union under dissolution
 (1) Any credit union which is being terminated by an instrument of dissolution under section 94 or the award of the Registrar under section 95 (each section being as applied by section 140) shall make up its annual return to the date of that instrument of dissolution or that award.
@@ -1121,7 +1120,7 @@ Every credit union must keep available for inspection (without charge), by a mem
   (c) shall not, except with the consent in writing of the Registrar, provide in relation to any claim for any amount greater than 1% of the limit referred to in paragraph (b) to be met by the credit union; and
   (d) shall comply with such other conditions as may be prescribed.
 (3) In this section, prescribed means prescribed from time to time by the Governor-General by Order in Council; and different exceptions, amounts, limits, and conditions may be prescribed in respect of different credit unions or classes of credit union.
-(4) Notwithstanding any amount prescribed for the purpose of subsection (2)(b), a policy of insurance will still comply with this section if that prescribed amount is reduced by the amount the credit union has obtained as security in respect of the fidelity of its officers pursuant to section 114(2) or section 114(4).
+(4) Notwithstanding any amount prescribed for the purpose of subsection (2)﻿(b), a policy of insurance will still comply with this section if that prescribed amount is reduced by the amount the credit union has obtained as security in respect of the fidelity of its officers pursuant to section 114(2) or section 114(4).
 (5) Every credit union which, at any time, fails to maintain in force a policy of insurance complying with the requirements of this section, and every member of the committee of management of such a credit union, commits an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 ### 134 Guarantee funds
@@ -1228,7 +1227,7 @@ Where a credit union is wound up pursuant to section 138, the liability of a pre
   (c) to encourage the formulation, adoption, and observance by credit unions of standards and conditions governing the carrying on of their business:
   (d) to supervise and examine the affairs of its component members, as may be provided for in the rules of the association:
   (e) to provide any other services specified in subsection (4).
-(4) Specified services for the purposes of subsection (3)(e) are—
+(4) Specified services for the purposes of subsection (3)﻿(e) are—
   (a) receiving deposits or subscriptions (other than subscriptions solely of an annual or periodic nature to be used for the association's purposes) from its component members for purposes specified in its rules:
   (b) making loans to its component members:
   (c) establishing and maintaining a central funding scheme for the benefit of its component members:
@@ -1257,7 +1256,7 @@ Where a credit union is wound up pursuant to section 138, the liability of a pre
 (3) The following provisions of this Part shall not apply in respect of associations:
   (a) sections 98 to 100, section 101(1), and sections 102 and 103:
   (b) so much of section 104(1) as relates to section 12 (except subsection (6)), section 17, and section 23(3) and (4):
-  (c) section 104(1)(a), (b), and (c), and (2):
+  (c) section 104(1)﻿(a), (b), and (c), and (2):
   (d) section 106 (except subsection (8)), and sections 107 and 108:
   (e) section 142.
 
@@ -1350,14 +1349,14 @@ All fines imposed on a member by a registered society or branch pursuant to its 
 (3) Every society or body of persons which, as at the commencement of this Act, is a credit union but which is registered or incorporated under any other enactment, shall, within 2 years after the commencement of this Act, apply for registration as a credit union under this Act.
 (4) Notwithstanding anything to the contrary in this section, any society or body of persons registered under the Friendly Societies Act 1909 between the day this Act receives the Governor-General's assent and the date of its commencement, being a society or body of persons which would be a credit union under this Act, shall comply fully with the provisions of this Act as from that date of commencement.
 (5) Notwithstanding the revocation of the Friendly Societies Regulations 1910 by section 161(3), any juvenile society registered in accordance with regulations 55 and 56 of those regulations may continue in being as if those regulations had not been revoked.
-(6) Where, in respect of any society, branch, or credit union, subsection (1) or, as the case may be, subsection (2)(d) or subsection (3) would (except for this subsection) apply, the Minister may, if he is satisfied that it would be inequitable or too difficult or too expensive for that society, branch, or credit union to comply fully with the provisions of this Act, exempt the relevant body from compliance with such provisions of this Act as he may specify by notice in the Gazette; and the notice shall have effect according to its tenor in respect of the business or activities of the society, branch, or credit union to which it relates.
+(6) Where, in respect of any society, branch, or credit union, subsection (1) or, as the case may be, subsection (2)﻿(d) or subsection (3) would (except for this subsection) apply, the Minister may, if he is satisfied that it would be inequitable or too difficult or too expensive for that society, branch, or credit union to comply fully with the provisions of this Act, exempt the relevant body from compliance with such provisions of this Act as he may specify by notice in the Gazette; and the notice shall have effect according to its tenor in respect of the business or activities of the society, branch, or credit union to which it relates.
 (7) Any notice given under subsection (6) may be subject to such conditions as the Minister thinks fit, and may be reviewed from time to time on the application of the Registrar or of the society, branch, or credit union to which it relates, and in like manner may be amended or revoked.
 
 ### 161 Amendments, repeals, and revocations
 (1) The enactments specified in Schedule 6 are hereby amended in the manner specified.
 (2) The enactments specified in Schedule 7 are hereby repealed.
 (3) The following Orders in Council are hereby revoked:
-  (a) the Order in Council made on 16 May 1911 authorising a special purpose under section 11(1)(d) of the Friendly Societies Act 1909 and published in the Gazette on 25 May 1911 at page 1754:
+  (a) the Order in Council made on 16 May 1911 authorising a special purpose under section 11(1)﻿(d) of the Friendly Societies Act 1909 and published in the Gazette on 25 May 1911 at page 1754:
   (b) the Friendly Societies (Financial Limits) Order 1979.
 (4) The following regulations are hereby revoked:
   (a) regulations under the Friendly Societies Act 1909 made on 14 March 1910 and published in the Gazette on 21 March 1910 at page 873; and
@@ -1385,8 +1384,8 @@ This Act comes into force on the day after the date on which it receives the Roy
 
 **Transitional provision**
 
-### 13 Proceedings in relation to section 135(4)(b), 138(c), or 140(1)(c)(ii)
-Every application, investigation, proceeding, action, or other matter concerning a common bond that was commenced under section 135(4)(b), 138(c), or 140(1)(c)(ii) before the commencement of this Act may continue as if this Act had not been passed.
+### 13 Proceedings in relation to section 135(4)﻿(b), 138(c), or 140(1)﻿(c)﻿(ii)
+Every application, investigation, proceeding, action, or other matter concerning a common bond that was commenced under section 135(4)﻿(b), 138(c), or 140(1)﻿(c)﻿(ii) before the commencement of this Act may continue as if this Act had not been passed.
 
 ### 1 Title
 This Act is the Financial Reporting (Amendments to Other Enactments) Act 2013.
