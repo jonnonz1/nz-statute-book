@@ -1,5 +1,5 @@
 # Ngāti Manuhiri Claims Settlement Act 2012
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2015-03-26_
 
 ### 1 Title
 This Act is the Ngāti Manuhiri Claims Settlement Act 2012.
@@ -1163,7 +1163,7 @@ In this subpart and Schedule 4, unless the context requires another meaning,—
 (1) In this Act, RFR land—
   (a) means land within the area shown on the RFR plan in the attachments to the deed of settlement if, on the settlement date, the land—
     (i) is vested in the Crown; or
-    (ii) is held in fee simple by the Crown or a Crown body; or
+    (ii) is held in fee simple by the Crown; or
     (iii) is a reserve vested in an administering body that derived title to the reserve from the Crown; and
   (b) includes land obtained in exchange for a disposal of RFR land under section 126(1)(c) or 127; but
   (c) does not include a commercial redress property.
