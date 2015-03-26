@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2014-08-08_
+_Consolidation as at 2015-03-26_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -54,14 +54,14 @@ _Consolidation as at 2014-08-08_
 (3) Subject to subsection (4), information that is held by an officer or employee or member of a local authority in that person's capacity as such an officer or employee or member or in that person's capacity as a statutory officer shall be deemed to be held by the local authority of which that person is an officer or employee or member.
 (4) Nothing in subsection (3) applies in respect of any information that any officer or employee or member of a local authority would not hold but for that person's membership of, or connection with, a body other than a local authority, except where that membership or connection is in that person's capacity as such an officer or employee or member of that local authority or as a statutory officer.
 (5)
-(6) Where any local authority enters into any contract (other than a contract of employment) with any person in relation to any matter, any information that is held by that person and to which the local authority is, under or by virtue of that contract, entitled to have access, shall be deemed to be held by that local authority.
+(6) Any information held by an independent contractor engaged by any local authority in his or her capacity as an independent contractor is, for the purposes of this Act, deemed to be held by the local authority.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
 
 ### 4 Purposes
 The purposes of this Act are—
-  (a) to provide for the availability to the public of official information held by local authorities, and to promote the open and public transaction of business at meetings of local authorities, in order—and thereby to enhance respect for the law and to promote good local government in New Zealand:
+  (a) to increase progressively the availability to the public of official information held by local authorities, and to promote the open and public transaction of business at meetings of local authorities, in order—and thereby to enhance respect for the law and to promote good local government in New Zealand:
     (i) to enable more effective participation by the public in the actions and decisions of local authorities; and
     (ii) to promote the accountability of local authority members and officials,—
   (b) to provide for proper access by each person to official information relating to that person:
@@ -99,7 +99,7 @@ Good reason for withholding official information exists, for the purpose of sect
   (j) prevent the disclosure or use of official information for improper gain or improper advantage.
 
 ### 8 Information concerning existence of certain information
-Where a request under this Act relates to information to which section 6 or section 7(2)(b) applies, or would, if it existed, apply, the local authority dealing with the request may, if it is satisfied that the interest protected by section 6 or section 7(2)(b) would be likely to be prejudiced by the disclosure of the existence or non-existence of such information, give notice in writing to the applicant that it neither confirms nor denies the existence or non-existence of that information.
+Where a request under this Act relates to information to which section 6 or section 7(2)﻿(b) applies, or would, if it existed, apply, the local authority dealing with the request may, if it is satisfied that the interest protected by section 6 or section 7(2)﻿(b) would be likely to be prejudiced by the disclosure of the existence or non-existence of such information, give notice in writing to the applicant that it neither confirms nor denies the existence or non-existence of that information.
 
 ### 9 Exclusion of public interest immunity
 (1) Subject to subsection (2), the rule of law which authorises or requires the withholding of any document, or the refusal to answer any question, on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest shall not apply in respect of—but not so as to give any party any information that that party would not, apart from this section, be entitled to.
@@ -113,9 +113,14 @@ Where a request under this Act relates to information to which section 6 or sect
 
 ### 10 Requests
 (1) Any person may request any local authority to make available to that person any specified official information.
-(1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to subclause (1)(b) of principle 6 of the Privacy Act 1993, and shall be dealt with accordingly, and nothing in this Part or in Part 5 shall apply in relation to any such request.
+(1AA) A request under subsection (1)—
+  (a) may be made in any form and communicated by any means (including orally); and
+  (b) does not need to refer to this Act.
+(1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to subclause (1)﻿(b) of principle 6 of the Privacy Act 1993, and shall be dealt with accordingly, and nothing in this Part or in Part 5 shall apply in relation to any such request.
 (2) The official information requested shall be specified with due particularity in the request.
 (3) If the person making the request asks that that request be treated as urgent, that person shall give that person's reasons for seeking the information urgently.
+(4) A local authority to which an oral request is made under subsection (1) may, if written clarification is reasonably necessary, ask the person requesting the information to put the request in writing to clarify the request.
+(5) If the person requesting the information declines or is unable to put the oral request in writing, the local authority must record its understanding of the request, and provide a copy of the record to the person.
 
 ### 11 Assistance
 It is the duty of every local authority to give reasonable assistance to a person who—to make a request in a manner that is in accordance with that section or to direct that person's request to the appropriate local authority or department or Minister of the Crown or organisation.
@@ -124,9 +129,9 @@ It is the duty of every local authority to give reasonable assistance to a perso
   (c) has not made that person's request to the appropriate local authority or department or Minister of the Crown or organisation,—
 
 ### 12 Transfer of requests
-Where—the chief executive of the local authority to which the request is made, or an officer or employee authorised by that chief executive, shall promptly, and in no case later than 10 working days after the day on which the request is received, transfer the request to the other local authority, or the appropriate department, Minister of the Crown, or organisation, and inform the person making the request accordingly.
+Where—the chief executive of the local authority to which the request is made, or an officer or employee authorised by that chief executive, shall promptly, and in no case later than 10 working days after the day on which the request is received, transfer the request, or relevant part of the request, to the other local authority, or the appropriate department, Minister of the Crown, or organisation, and inform the person making the request accordingly.
   (a) a request in accordance with section 10 is made to any local authority; and
-  (b) the information to which the request relates—
+  (b) the information, or some of the information, to which the request relates—
     (i) is not held by that local authority but is believed by the person dealing with the request to be held by another local authority or a department or Minister of the Crown or organisation; or
     (ii) is believed by the person dealing with the request to be more closely connected with the functions of another local authority or a department or Minister of the Crown or organisation,—
 
@@ -140,6 +145,10 @@ Where—the chief executive of the local authority to which the request is made,
 (4) The local authority may require that the whole or part of any charge be paid in advance.
 (5) Where a request in accordance with section 10 is made or transferred to a local authority, the decision on that request shall be made by the chief executive of that local authority or an officer or employee of that local authority authorised by that chief executive unless that request is transferred in accordance with section 12 to another local authority or to a department, Minister of the Crown, or organisation.
 (6) Nothing in subsection (5) prevents the chief executive of a local authority or any officer or employee of a local authority from consulting a local authority or any other person in relation to the decision that the chief executive or officer or employee proposes to make on any request made to the local authority in accordance with section 10 or transferred to the local authority in accordance with section 12 of this Act or section 14 of the Official Information Act 1982.
+(7) If a request (the original request) is amended or clarified after the date on which it is received, the local authority that receives the request may treat the amended or clarified request as a new request that, for the purposes of subsection (1), replaces the original request.
+(8) However, subsection (7) does not apply if—
+  (a) the original request is amended or clarified because the local authority sought an amendment to, or a clarification of, the request; and
+  (b) the local authority did not seek that amendment or clarification within 7 working days after receiving the original request.
 
 ### 14 Extension of time limits
 (1) Where a request in accordance with section 10 is made or transferred to a local authority, the chief executive of that local authority, or an officer or employee authorised by that chief executive, may extend the time limit set out in section 12 or section 13(1) in respect of the request if—
@@ -161,6 +170,7 @@ Where—the chief executive of the local authority to which the request is made,
   (d) in the case of a document by which words are recorded in a manner in which they are capable of being reproduced in the form of sound or in which words are contained in the form of shorthand writing or in codified form, by providing the person with a written transcript of the words recorded or contained in the document; or
   (e) by giving an excerpt or summary of the contents; or
   (f) by furnishing oral information about its contents.
+(1A) Subject to subsections (2) and (3), information made available in any of the ways listed in subsection (1) may be made available in electronic form or by electronic means.
 (2) Subject to section 16, the local authority shall make the information available in the way preferred by the person requesting it unless to do so would—
   (a) impair efficient administration; or
   (b) be contrary to any legal duty of any local authority in respect of the document; or
@@ -186,7 +196,7 @@ A request made in accordance with section 10 may be refused only for 1 or more o
   (da) that the request is made by a defendant or person acting on behalf of a defendant and is—
     (i) for information that could be sought by the defendant under the Criminal Disclosure Act 2008; or
     (ii) for information that could be sought by the defendant under that Act and that has been disclosed to, or withheld from, the defendant under that Act:
-  (e) that the document alleged to contain the information requested does not exist or cannot be found:
+  (e) that the document alleged to contain the information requested does not exist or, despite reasonable efforts to locate it, cannot be found:
   (f) that the information requested cannot be made available without substantial collation or research:
   (g) that the information requested is not held by the local authority and the person dealing with the request has no grounds for believing that the information is either—
     (i) held by another local authority or a department or Minister of the Crown or organisation; or
@@ -220,21 +230,21 @@ Where a request made in accordance with section 10 is refused, the local authori
 [Repealed]
 
 ### 21 Right of access to internal rules affecting decisions
-(1) Subject to sections 6, 7(2)(a), (b), (c), (h), and (i), 8, and 44, every person has a right to and shall, on request made under this section, be given access to any document (including a manual) which is held by a local authority and which contains policies, principles, rules, or guidelines in accordance with which decisions or recommendations are made in respect of any person or body of persons in that person's or that body of persons' personal capacity.
+(1) Subject to sections 6, 7(2)﻿(a), (b), (c), (h), and (i), 8, and 44, every person has a right to and shall, on request made under this section, be given access to any document (including a manual) which is held by a local authority and which contains policies, principles, rules, or guidelines in accordance with which decisions or recommendations are made in respect of any person or body of persons in that person's or that body of persons' personal capacity.
 (2) Sections 10(2) and (3), 11 to 14, and 18 shall apply, with all necessary modifications, to a request made under subsection (1).
-(3) Where by virtue of any of the provisions of section 6 and section 7(2)(a), (b), (c), (h), and (i), there is good reason for withholding some of the information contained in a document to which subsection (1) relates, the local authority shall, unless it is impracticable to do so, either—
+(3) Where by virtue of any of the provisions of section 6 and section 7(2)﻿(a), (b), (c), (h), and (i), there is good reason for withholding some of the information contained in a document to which subsection (1) relates, the local authority shall, unless it is impracticable to do so, either—
   (a) make a copy of that document available with such deletions or alterations as are necessary; or
   (b) provide another document stating the substance and effect of the document except as it relates to the information withheld.
 (4) Where a document is made available under subsection (3), the local authority shall, subject to section 8, give to the applicant—
   (a) the reason for withholding the information; and
-  (b) if the applicant so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by section 6 or section 7(2)(a) or (b) or (c) or (h) or (i) and (in the case of the interests protected by section 7(2)(a) or (b) or (c) or (h) or (i)) there is no countervailing public interest.
+  (b) if the applicant so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by section 6 or section 7(2)﻿(a) or (b) or (c) or (h) or (i) and (in the case of the interests protected by section 7(2)﻿(a) or (b) or (c) or (h) or (i)) there is no countervailing public interest.
 
 ### 22 Right of access by person to reasons for decisions affecting that person
-(1) Subject to sections 6, 7(2)(b), 8, and 44, where a local authority makes, on or after 1 March 1988, a decision or recommendation in respect of any person, being a decision or recommendation in respect of that person in that person's personal capacity, that person has the right to and shall, on request made within a reasonable time of the making of the decision or recommendation, be given a written statement of—
+(1) Subject to sections 6, 7(2)﻿(b), 8, and 44, where a local authority makes, on or after 1 March 1988, a decision or recommendation in respect of any person, being a decision or recommendation in respect of that person in that person's personal capacity, that person has the right to and shall, on request made within a reasonable time of the making of the decision or recommendation, be given a written statement of—
   (a) the findings on material issues of fact; and
   (b) subject to subsection (1A), a reference to the information on which the findings were based; and
   (c) the reasons for the decision or recommendation.
-(1A) A reference to the information on which any findings were based need not be given under subsection (1)(b) if—
+(1A) A reference to the information on which any findings were based need not be given under subsection (1)﻿(b) if—
   (a) the disclosure of the information or of information identifying the person who supplied it, being evaluative material, would breach an express or implied promise—
     (i) which was made to the person who supplied the information; and
     (ii) which was to the effect that the information or the identity of the person who supplied it or both would be held in confidence; or
@@ -251,7 +261,7 @@ Where a request made in accordance with section 10 is refused, the local authori
     (iv) for the awarding of contracts, awards, scholarships, honours, or other benefits; or
   (b) for the purpose of determining whether any contract, award, scholarship, honour, or benefit should be continued, modified, or cancelled.
 (2) Sections 10(3), 11 to 14, and 18 shall apply, with all necessary modifications, to a request made under subsection (1).
-(3) In subsection (1A)(b), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+(3) In subsection (1A)﻿(b), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
 
 ## Part 4 — Right of access to personal information
 
@@ -282,7 +292,7 @@ Where a request is made under section 23(1), the local authority—
 
 ### 26 Reasons for refusal of requests for personal information
 (1) A local authority may refuse to disclose any personal information requested under section 23(1), if, and only if,—
-  (a) the disclosure of the information would be likely to prejudice any of the interests protected by section 6 or section 7(2)(b) and (in the case of the interests protected by section 7(2)(b)) there is no countervailing public interest; or
+  (a) the disclosure of the information would be likely to prejudice any of the interests protected by section 6 or section 7(2)﻿(b) and (in the case of the interests protected by section 7(2)﻿(b)) there is no countervailing public interest; or
   (b) the disclosure of the information would involve the unwarranted disclosure of the affairs of another person or of a deceased person; or
   (c) the disclosure of the information or of information identifying the person who supplied it, being evaluative material, would breach an express or implied promise—
     (i) which was made to the person who supplied the information; and
@@ -293,7 +303,7 @@ Where a request is made under section 23(1), the local authority—
   (g) the disclosure of the information would breach legal professional privilege; or
   (h) the request is frivolous or vexatious, or the information requested is trivial.
 (2) No reasons other than 1 or more of the reasons set out in subsection (1) justifies a refusal to disclose any personal information requested under section 23(1).
-(3) For the purposes of subsection (1)(c), the term evaluative material means evaluative or opinion material compiled solely—
+(3) For the purposes of subsection (1)﻿(c), the term evaluative material means evaluative or opinion material compiled solely—
   (a) for the purpose of determining the suitability, eligibility, or qualifications of the person to whom the material relates for the awarding of contracts, awards, or other benefits; or
   (b) for the purpose of determining whether any contract, award, or benefit should be continued, modified, or cancelled.
 
@@ -310,8 +320,11 @@ Where a request is made under section 23(1), the local authority—
 (2) It shall be a function of the Ombudsmen to investigate and review any decision by which the chief executive of a local authority, or an officer or employee of a local authority authorised by its chief executive, extends any time limit under section 14.
 (3) An investigation and review under subsection (1) or subsection (2) may be made by an Ombudsman only on complaint being made to an Ombudsman in writing or orally.
 (3A) A complaint made orally must be put in writing as soon as practicable.
-(4) If, in relation to any request made in accordance with section 10, any local authority fails within the time limit fixed by section 13(1) (or, where that time limit has been extended under this Act, within the time limit as so extended) to comply with paragraph (a) or paragraph (b) of section 13(1), that failure shall be deemed, for the purposes of subsection (1) of this section, to be a refusal to make available the official information to which the request relates.
+(4) For the purposes of subsection (1)﻿(a), a refusal to make official information available includes, without limitation, a failure by the local authority to comply with section 13(1)—
+  (a) as soon as is reasonably practicable, or at the latest within 20 working days, after receiving the request; or
+  (b) within an extended time limit notified under section 14(3) to the person who requested the information.
 (5) Undue delay in making official information available in response to a request for that information shall be deemed, for the purposes of subsection (1), to be a refusal to make that information available.
+(6) If an Ombudsman receives a complaint that a local authority has refused to make official information available for any of the reasons specified in section 17(1)﻿(e) to (g), the Ombudsman may notify the Chief Archivist appointed under the Public Records Act 2005.
 
 ### 28 Application of Ombudsmen Act 1975
 (1) Except as otherwise provided by this Act, the provisions of the Ombudsmen Act 1975 shall apply in respect of investigations and other proceedings carried out under this Part in respect of decisions under Part 2 or section 8 as if they were investigations carried out under the Ombudsmen Act 1975.
@@ -331,7 +344,7 @@ Where a request is made under section 23(1), the local authority—
   (c) contain such other information as is necessary.
 
 ### 29A Consultation with Privacy Commissioner
-Where an Ombudsman investigates a complaint made under section 27 in relation to a refusal to make official information available in reliance on section 7(2)(a), the Ombudsman shall, before forming a final opinion under section 30 in relation to the merits of refusing that request on that ground, consult with the Privacy Commissioner under the Privacy Act 1993.
+Where an Ombudsman investigates a complaint made under section 27 in relation to a refusal to make official information available in reliance on section 7(2)﻿(a), the Ombudsman shall, before forming a final opinion under section 30 in relation to the merits of refusing that request on that ground, consult with the Privacy Commissioner under the Privacy Act 1993.
 
 ### 30 Procedure after investigation
 (1) Where, after making an investigation of a complaint made under section 27, an Ombudsman is of the opinion—the Ombudsman shall, subject to subsection (2) of this section,—
@@ -541,8 +554,8 @@ Except as otherwise provided by this Part, every meeting of a local authority sh
 ### 48 Right of local authorities to exclude public
 (1) Subject to subsection (3), a local authority may by resolution exclude the public from the whole or any part of the proceedings of any meeting only on 1 or more of the following grounds:
   (a) that the public conduct of the whole or the relevant part of the proceedings of the meeting would be likely to result in the disclosure of information for which good reason for withholding would exist,—
-    (i) where the local authority is named or specified in Schedule 1, under section 6 or section 7 (except section 7(2)(f)(i)):
-    (ii) where the local authority is named or specified in Schedule 2 of this Act, under section 6 or section 7 or section 9 (except section 9(2)(g)(i)) of the Official Information Act 1982:
+    (i) where the local authority is named or specified in Schedule 1, under section 6 or section 7 (except section 7(2)﻿(f)﻿(i)):
+    (ii) where the local authority is named or specified in Schedule 2 of this Act, under section 6 or section 7 or section 9 (except section 9(2)﻿(g)﻿(i)) of the Official Information Act 1982:
   (b) that the public conduct of the whole or the relevant part of the proceedings of the meeting would be likely to result in the disclosure of information the public disclosure of which would—
     (i) be contrary to the provisions of a specified enactment; or
     (ii) constitute contempt of court or of the House of Representatives:
@@ -556,7 +569,7 @@ Except as otherwise provided by this Part, every meeting of a local authority sh
   (c) any proceedings of a local authority in relation to any application or objection under the Marine Farming Act 1971.
 (3) Every resolution excluding the public from any meeting shall be in the form set out in Schedule 2A and shall state—
   (a) the general subject of each matter to be considered while the public is excluded; and
-  (b) the reason for the passing of that resolution in relation to that matter, including, where that resolution is passed in reliance on subsection (1)(a), the particular interest or interests protected by section 6 or section 7 of this Act, or section 6 or section 7 or section 9 of the Official Information Act 1982, as the case may require, which would be prejudiced by the holding of the whole or the relevant part of the proceedings in public; and
+  (b) the reason for the passing of that resolution in relation to that matter, including, where that resolution is passed in reliance on subsection (1)﻿(a), the particular interest or interests protected by section 6 or section 7 of this Act, or section 6 or section 7 or section 9 of the Official Information Act 1982, as the case may require, which would be prejudiced by the holding of the whole or the relevant part of the proceedings in public; and
   (c) the grounds on which that resolution is based (being 1 or more of the grounds set out in subsection (1)).
 (4) Every resolution to exclude the public shall be put at a time when the meeting is open to the public, and the text of that resolution (or copies thereof)—
   (a) shall be available to any member of the public who is present; and
