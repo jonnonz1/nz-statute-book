@@ -1,5 +1,5 @@
 # Governor-General Act 2010
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2015-03-26_
 
 ### 1 Title
 This Act is the Governor-General Act 2010.
@@ -80,7 +80,7 @@ When a person ceases to hold office as Governor-General (other than by reason of
 
 ### 12 Permanent appropriation for salary, allowance, annuities, etc
 Expenses may be incurred, without further appropriation than this section, to meet—
-  (a) the salary under section 5:
+  (a) the salary under section 5 and compulsory remuneration-related payments:
   (b) the allowance under section 6:
   (c) the lump sum under section 7:
   (d) the annuities under sections 8 and 9:
