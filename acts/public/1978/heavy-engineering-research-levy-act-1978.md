@@ -1,5 +1,5 @@
 # Heavy Engineering Research Levy Act 1978
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-03-26_
 
 > An Act to authorise the levying of persons engaged in heavy engineering manufacture and related industries to provide funds for research into heavy engineering
 
@@ -38,7 +38,7 @@ This Act shall bind the Crown.
   (b) omit from Schedule 2 or Schedule 3 any item of the Tariff that is specified in Schedule 2 or Schedule 3—
 
 ### 5 Minister may prescribe rates of research levy
-(1) Subject to this Act, the Minister may from time to time, on the recommendation of the Association, and after consultation with the New Zealand Manufacturing Engineer's Federation (Incorporated), prescribe, by notice in the Gazette, rates of research levy payable on any levied items.
+(1) Subject to this Act, the Minister may from time to time, on the recommendation of the Association, and after consultation with The New Zealand Manufacturers and Exporters Association Incorporated, prescribe, by notice in the Gazette, rates of research levy payable on any levied items.
 (2) The prescribed rates shall not,—
   (a) in the case of levied items specified in Schedule 2, exceed $20 for each tonne of goods upon which the levy is imposed apportioned rateably in respect of goods weighing less than 1 tonne; and
   (b) in the case of levied items specified in Schedule 3, exceed 10 cents for each kilogram of goods upon which the levy is imposed apportioned rateably in respect of goods weighing less than 1 kilogram.
@@ -140,7 +140,7 @@ The provisions of sections 14 to 16 shall apply to the Association notwithstandi
 
 ## Schedule 1 — Typical items produced by the heavy engineering industry
 
-## Schedule 2 — Levied items in respect of which rate of levy not to exceed $5 for each tonne
+## Schedule 2 — Levied items in respect of which rate of levy not to exceed $20 for each tonne
 
 | Tariff item number | Statistical key code | Description of goods |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -379,7 +379,7 @@ The provisions of sections 14 to 16 shall apply to the Association notwithstandi
 |  | 29B | . | . | . | . | Of a maximum dimension of 128 mm or more but less than 229 mm |  |  |
 |  | 31D | . | . | . | . | Other |  |  |
 
-## Schedule 3 — Levied items in respect of which rate of levy not to exceed 5 cents for each kilogram
+## Schedule 3 — Levied items in respect of which rate of levy not to exceed 10 cents for each kilogram
 
 | Tariff item number | Statistical key code | Description of goods |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
