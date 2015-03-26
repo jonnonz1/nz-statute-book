@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2015-03-26_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -12,7 +12,7 @@ _Consolidation as at 2013-12-05_
   - **2010 Tariff Document** means the document certified under section 9A(1)
   - **AANZFTA** means the Agreement Establishing the ASEAN–Australia–New Zealand Free Trade Area done at Cha-am, Phetchaburi, Thailand on 27 February 2009
   - **ASEAN** means the Association of South East Asian Nations
-  - **chief executive** means the chief executive of the Ministry of Economic Development
+  - **chief executive** , in any provision, means the chief executive of the department responsible for the administration of that provision
   - **Customs** or has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
   - **Customs value** or , in relation to any goods, means the Customs value of those goods, determined in accordance with the provisions set out in Schedule 2 of the Customs and Excise Act 1996
   - **duty** means any duty imposed on goods under any of the provisions of this Act
@@ -22,7 +22,7 @@ _Consolidation as at 2013-12-05_
   - **least developed country** means any country for the time being declared by Order in Council, under section 7A(1)(c), to be a least developed country for the purposes of this Act
   - **less developed country** means any country for the time being declared by an Order in Council, under section 7A(1)(d), to be a less developed country for the purposes of this Act
   - **manufacturing area** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
-  - **Minister** means the Minister of Commerce
+  - **Minister** , in any provision, means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of that provision
   - **Normal Tariff** means the rates of duty and the exemptions from duty specified in the column headed Normal Tariff in the Tariff; and includes any modification or amendment thereof that may hereafter be made
   - **preferential abbreviation** has the meaning given to it by section 7(3)
   - **preferential country** has the meaning given to it by section 7(3)
