@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2015-03-26_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -3340,11 +3340,11 @@ Where any body corporate is convicted of an offence against section 198 or secti
 The Tribunal constituted by section 30 of the Copyright Act 1962 and known as the Copyright Tribunal shall continue in being.
 
 ### 206 Membership of Tribunal
-(1) The Tribunal shall consist of a chairperson and 5 other persons.
+(1) The Tribunal consists of a chairperson and at least 2, but not more than 5, other persons.
 (2) The chairperson of the Tribunal—
   (a) shall be appointed as chairperson by the Governor-General on the recommendation of the Minister made after consultation with the Minister of Justice; and
   (b) shall be a barrister or solicitor of the High Court of not less than 7 years' practice, whether or not the barrister or solicitor holds or has held judicial office.
-(3) The 5 other persons shall be appointed as members of the Tribunal by the Governor-General on the recommendation of the Minister.
+(3) The other persons shall be appointed as members of the Tribunal by the Governor-General on the recommendation of the Minister.
 (4) No person shall be deemed to be employed in the service of the Crown for the purposes of the State Sector Act 1988 by virtue merely of his or her appointment to the Tribunal.
 
 ### 207 Term of office of members of Tribunal
