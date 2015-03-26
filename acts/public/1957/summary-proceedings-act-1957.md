@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2015-03-26_
 
 > Title
 
@@ -254,7 +254,7 @@ Sections 24 to 29 do not apply to any summons or other document required to be s
   (b) by delivering it at the organisation's head office or principal place of business, including by facsimile; or
   (c) in accordance with a method agreed between the informant and the organisation.
 (2) For the purposes of paragraph (b) of subsection (1) the expression member of his family means the defendant's father, mother, wife, husband, civil union partner, de facto partner, child, brother, sister, half brother, or half sister.
-(3) Where service is effected in accordance with paragraph (c) or paragraph (d) of subsection (1), then, unless the contrary is shown, service shall be deemed to have been effected on the person to whom the letter is addressed at the time when the letter would have been delivered in the ordinary course of post, and in proving service it shall be sufficient to prove that the letter was properly addressed and posted.
+(3) Where service is effected in accordance with paragraph (c) or paragraph (d) of subsection (1), then, unless the contrary is shown, service shall be deemed to have been effected on the person to whom the letter is addressed on the 6th working day after the day on which the letter was posted, and in proving service it shall be sufficient to prove that the letter was properly addressed and posted.
 
 ### 25 Who may serve documents on defendant
 (1) Except as provided in subsection (2), every summons to a defendant and every other document that is required to be served on a defendant may be served by—
@@ -557,7 +557,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
   (b) following a default in the payment of 1 or more instalments under that arrangement, has been served by ordinary post with a reminder notice in respect of that infringement offence.
 (3) In the case of an infringement notice issued for an owner liability offence, the defendant is not eligible to rely on the ground stated in section 78B(1)(a)(ii) unless the Registrar is satisfied that, at the date of the commission of that offence, the defendant complied or was not responsible for complying with any applicable obligations imposed on the defendant by Part 17 of the Land Transport Act 1998 and any regulations made under that Act in respect of the motor vehicle to which the infringement notice relates.
 (4) The Registrar must be satisfied of the matters referred to in subsection (3) on the basis of documentary evidence of a kind approved by the Registrar.
-(5) In this section, owner liability offence means an offence referred to in section 41A of the Transport Act 1962 or section 133 of the Land Transport Act 1998.
+(5) In this section, owner liability offence means an offence referred to in section 133 or 133A of the Land Transport Act 1998.
 
 ## Part 3 — Enforcement of fines
 
@@ -616,7 +616,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
   - **substituted sentence** means a warrant of commitment issued under section 83(2)(a) or 88AE(1)(b) or any sentence imposed under section 88AE(1)(c) to (e)
   - **traffic fine** means a fine payable in respect of a traffic offence
   - **traffic offence** means—
-    (a) any offence against the Transport Act 1962, the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any regulation, rule, or bylaw made under any of those Acts:
+    (a) any offence against the Transport Act 1962, the Road User Charges Act 1977, the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any regulation, rule, or bylaw made under any of those Acts:
     (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
   - **use** , in relation to a motor vehicle, includes driving, drawing, towing, or propelling by means of another vehicle, and permitting to be on any road
   - **written caution** means a caution issued under section 93.
@@ -1083,8 +1083,8 @@ If a defendant is arrested under a warrant for arrest issued for the purpose of 
   (b) enter into an arrangement with the defendant under section 86; or
   (c) if the Registrar is satisfied that neither of the actions described in paragraphs (a) and (b) will be effective, refer the defendant to a District Court Judge or Community Magistrate with a report on the case (in which case sections 88(3) and (4), 88AA, and 88AC apply).
 
-### 88AE Powers of District Court Judge or Community Magistrate after considering report of Registrar under section 88AD
-(1) After considering the report of the Registrar prepared under section 88AD and the defendant's financial position (whether determined from a declaration of financial capacity prepared by the defendant or from other sources), a District Court Judge or Community Magistrate may—
+### 88AE Powers of District Court Judge or Community Magistrate after considering report of Registrar under section 88(2)(b) or 88AD(2)(c)
+(1) After considering the report of the Registrar prepared under section 88(2)(b) or 88AD(2)(c) and the defendant's financial position (whether determined from a declaration of financial capacity prepared by the defendant or from other sources), a District Court Judge or Community Magistrate may—
   (a) refer the matter to the Registrar with a direction that 1 or more of the enforcement actions referred to in section 87(2), as specified in the direction, be invoked; or
   (b) subject to section 106E, direct that a warrant of commitment in the prescribed form be issued; or
   (c) subject to sections 80A to 80ZM of the Sentencing Act 2002 and section 106E of this Act, sentence the defendant to a sentence of home detention; or
@@ -1224,7 +1224,7 @@ A warrant of commitment issued under section 83(2)(b) or section 88AE(1)(b) shal
   (d) provide an assurance that—
     (i) the query subject has consented to the submission of a fine status query that includes the identifying particulars of the query subject, and to the disclosure of any resulting fine status response to the recognised user and, if the recognised user is a credit reporter, also to any subscriber on whose behalf the fine status response is sought; and
     (ii) if the fine status query is sent by a credit reporter, the credit reporter is acting on a request by a subscriber.
-(2) A recognised user who sends a fine status query must keep, for the period specified by regulations made under section 92I, a record evidencing the consent given by the query subject for the purpose of the fine status query.
+(2) A recognised user who sends a fine status query must keep, for the period specified by regulations made under section 92I, a record evidencing the assurance of the consent given by the query subject for the purpose of the fine status query.
 
 ### 92E Fine status response by chief executive
 (1) When the chief executive receives a fine status query, the chief executive must, where practicable, perform, or have an electronic system perform, the following operations:
@@ -1276,7 +1276,7 @@ A warrant of commitment issued under section 83(2)(b) or section 88AE(1)(b) shal
   (k) prescribing the period for which fine status responses may be retained or used by recognised users and subscribers, and requiring the destruction of those responses on the expiry of specified periods:
   (l) providing for the manner and timing of audits conducted under section 92H, and for the delivery of audit reports to the Privacy Commissioner and any other persons specified in the regulations:
   (m) prescribing, for audit purposes, the kinds of records that recognised users must keep in respect of fine status queries and fine status responses, and the manner in which, and the duration for which, those records must be kept:
-  (n) providing for a person's status as a recognised user to be terminated by the Minister for Courts in specified circumstances, even though that person comes within the definition of that term in section 92A:
+  (n) providing for an agency's status as a recognised user to be terminated by the Minister for Courts in specified circumstances, even though that agency comes within the definition of that term in section 92A:
   (o) prescribing the fees that are payable in respect of access codes allocated by the chief executive, fine status queries, or fine status responses.
 (2) Before the Minister for Courts recommends the making of regulations under subsection (1), the Minister must—
   (a) consult the Privacy Commissioner; and
@@ -1498,7 +1498,7 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 (5) However, despite subsection (4), section 100R applies subject to the following modifications:
   (a) the proceeds of the sale of the property must be applied in payment to the lessor of the amount to which the lessor would, but for the sale, have been entitled under the lease; and
   (b) the proceeds of the sale of the property must be applied in the manner and order of priority set out in section 100R, except that,—
-    (i) in the case of a lease for a term of less than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) after they are applied for the payments described in section 100R(1)(a) and (b), but before they are applied for the remainder of the payments described in section 100R(1)(c) to (j); and
+    (i) in the case of a lease for a term of 1 year or less, those proceeds must be applied for the payment to the lessor described in paragraph (a) after they are applied for the payments described in section 100R(1)(a) and (b), but before they are applied for the remainder of the payments described in section 100R(1)(c) to (j); and
     (ii) in the case of a lease for a term of more than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) as if they were payments described in section 100R(1)(c), and section 100R(2) applied.
 (6) On the release of the proceeds of the sale of the property to the lessor, the lease is cancelled.
 
