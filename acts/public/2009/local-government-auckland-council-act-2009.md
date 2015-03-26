@@ -1,5 +1,5 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-03-26_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
@@ -460,19 +460,21 @@ The functions of Auckland Transport are to—
 ### 46 Functions and powers of Auckland Transport acting as local authority or other statutory body
 (1) Auckland Transport has the following functions and powers in relation to the Auckland transport system:
   (a) the functions and powers of a local authority and an enforcement authority under the Land Transport Act 1998 for the purposes of prosecuting stationary vehicle offences:
-  (b) the powers of a local authority under the Land Transport Act 1998:
+  (b)
   (c) the functions and powers of a council under Part 21 of the Local Government Act 1974, except—
     (i) the power to name or alter the name of a road under section 319(j) of that Act; and
     (ii) the functions and powers under sections 316(2), 319A, 319B, and 347 to 352 of that Act:
-  (d) the powers of a council under sections 591, 591A, and 684 of the Local Government Act 1974 (except the power conferred by section 591(1)(a) of that Act):
+  (d) the powers of a council under section 591 of the Local Government Act 1974 (except the power conferred by section 591(1)(a) of that Act):
   (e) the functions and powers of a local authority, a territorial authority, and a controlling authority under Part 4 of the Government Roading Powers Act 1989:
-  (f) the functions and powers of an enforcement authority under the Land Transport Act 1998 in relation to prosecuting infringement offences under that Act that relate to the use of special vehicle lanes within Auckland:
+  (f) the functions and powers of an enforcement authority under the Land Transport Act 1998 in relation to prosecuting infringement offences under that Act that relate to—
+    (i) the use of special vehicle lanes within Auckland:
+    (ii) a failure to pay a public transport service fare:
   (g) the functions and powers of a road controlling authority and a local authority under the Land Transport Act 1998 and any regulations or rules made under that Act:
   (h) the functions and powers of a local authority to make and enforce bylaws under subparts 1 and 2 of Part 8 of the Local Government Act 2002 (except the power conferred by section 147 of that Act):
   (i) the functions and powers of a public road controlling authority under Part 2 of the Land Transport Management Act 2003 in relation to road tolling schemes:
   (j) the functions and powers of a regional council under Part 5 of the Land Transport Management Act 2003 in relation to public transport planning and regulation within Auckland.
 (2) For the purposes of subsection (1), the enactments referred to in that subsection apply with any necessary modifications.
-(3) For the purposes of subsection (1)(f), Auckland Transport may appoint persons to be enforcement officers in Auckland in relation to any offence against a bylaw made by Auckland Transport under the Land Transport Act 1998 in relation to a special vehicle lane, and, for that purpose,—
+(3) For the purposes of subsection (1)(f)(i), Auckland Transport may appoint persons to be enforcement officers in Auckland in relation to any offence against a bylaw made by Auckland Transport under the Land Transport Act 1998 in relation to a special vehicle lane, and, for that purpose,—
   (a) section 177 of the Local Government Act 2002 applies to an appointment with any necessary modifications; and
   (b) each person must be treated as an enforcement officer within the meaning of section 5(1) of that Act.
 (4) Nothing in this section vests ownership of any road, land, or other property in Auckland Transport or affects the operation of section 316(1) of the Local Government Act 1974.
