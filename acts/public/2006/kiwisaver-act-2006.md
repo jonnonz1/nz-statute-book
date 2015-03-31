@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-03-31_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -133,14 +133,14 @@ This Act is the KiwiSaver Act 2006.
   - **retirement scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **salary or wages** , in relation to any person, means salary or wages as defined in section RD 5(1)(a) to (c) of the Income Tax Act 2007 (whether the salary or wages are primary or secondary employment earnings) except that, in this Act,—
     (a) it excludes—
-      (i) salary or wages described in section RD 5(4), (6)(b) to (bd), (6)(c), and (8) and RD 68 of the Income Tax Act 2007; and
+      (i) salary or wages described in section RD 5(4), (6)(b) to (bc), (6)(c), and (8) and RD 68 of the Income Tax Act 2007; and
       (ia) a payment under a Voluntary Bonding Scheme that is funded by the Ministry for Primary Industries, the Ministry of Health, or the Ministry of Education; and
       (ib)
       (ii) payments that are income under section CF (1)(b) to (e), (g), or (h) of that Act; and
       (iii) expenditure on account of an employee and allowances calculated by reference to reasonable actual costs, if the expenditure or allowances are for accommodation overseas or other costs of living overseas; and
       (iv) for the purposes of contributions to complying superannuation funds, bonuses, commissions, and other amounts not included in an employee’s gross base salary or wages by the relevant complying superannuation fund; and
       (v) for the purposes of subpart 3A of Part 3 of this Act,—
-        (A) salary or wages described in section RD 5(1)(b)(iii) and (7) of the Income Tax Act 2007; and
+        (A) salary or wages described in section RD 5(1)(b)(iii), (6)(bd) to (bg), and (7) of the Income Tax Act 2007; and
         (B) payments of weekly compensation, as defined in the Accident Compensation Act 2001, made by an employer, unless the employer chooses to not exclude the payments from this definition of salary or wages:
     (b) it includes extra pay (as defined in section YA 1 of the Income Tax Act 2007), unless—
       (i) otherwise excluded under paragraph (a) of this definition; or
@@ -234,6 +234,7 @@ The automatic enrolment rules apply to every employee who is not a secondee and�
     (i) section RD 5(1)(b)(iii) (which relates to certain ACC payments):
     (ii) section RD 5(3) (which relates to payments to working partners):
     (iib) section RD 5(3B) (which relates to payments to working owners):
+    (iic) section RD 5(6)(be) to (bg) (which relate to payments made under the Veterans’ Support Act 2014):
     (iii) section RD 5(7) (which relates to parental leave payments paid under Part 7A of the Parental Leave and Employment Protection Act 1987):
   (b) if the new employment is as an election day worker or a private domestic worker as those terms are defined in section YA 1 of the Income Tax Act 2007:
   (c) if the employee is not required to have tax deductions made from his or her salary or wages under the PAYE rules:
@@ -812,7 +813,7 @@ Any amount that is held by the Commissioner under section 70(2) is treated, for 
 (1) This section applies to any amount of contribution that is received by the Commissioner other than an amount referred to in section 73.
 (2) As soon as practicable after receiving the amount, the Commissioner must enter that amount in the holding account in respect of the person to whom the contribution relates.
 (3) Subject to sections 75 to 77, as soon as practicable after entering an amount in the holding account under this section, the Commissioner must pay the amount to the provider of the relevant KiwiSaver scheme.
-(4) Money entered in the holding account under this section is trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989 .
+(4) Money entered in the holding account under this section is trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989.
 
 ### 75 Initial contributions stay in holding account for 3 months
 (1) This section applies to all contributions received by the Commissioner in respect of a person in the 3-month period starting on the earlier of—
