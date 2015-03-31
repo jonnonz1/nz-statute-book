@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2015-01-01_
+_Consolidation as at 2015-03-31_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1976,7 +1976,11 @@ Income
   (e) a New Zealand superannuation payment:
   (f) a parental leave payment paid under Part 7A of the Parental Leave and Employment Protection Act 1987:
   (g) a pension:
-  (h) a veteran’s pension.
+  (h) a veteran’s pension:
+  (i) a retirement lump sum paid under Part 5, subpart 7 of the Veterans’ Support Act 2014:
+  (j) weekly income compensation paid under Part 3, subpart 4 of that Act:
+  (k) weekly compensation paid under Part 4, subpart 5 of that Act:
+  (l) weekly compensation or aggregated payments, as applicable, paid under schedule 2, part 4, clause 54, 55, 58, or 59 of that Act.
 Some definitions
 (2) In this section,—
   - **accident compensation payment** means—
@@ -1992,8 +1996,8 @@ Some definitions
     (e) a payment under a policy of personal accident or sickness insurance under section 188(1)(a) of the Accident Insurance Act 1998, as it was immediately before its repeal by section 7 of the Accident Insurance Amendment Act 2000, of compensation for loss of earnings or loss of potential earning capacity as it relates to work-related personal injury:
     (f) a payment under the Accident Compensation Act 2001 paid by the Corporation as defined in that Act, of weekly compensation that is not recovered or recoverable under section 248 of that Act:
     (g) a payment under section 81(1)(b) of the Accident Compensation Act 2001 paid by the Corporation as defined in that Act, for attendant care as defined in schedule 1, clause 12 of that Act:
-    (h) a personal service rehabilitation payment for a person under the Accident Compensation Act 2001:
-    (i) a payment of weekly compensation made under subpart 5 of Part 4 of the Veterans' Support Act 2014
+    (h) a personal service rehabilitation payment for a person under the Accident Compensation Act 2001
+    (i)
   - **education grant** means a basic grant or an independent circumstances grant under regulations made under section 303 of the Education Act 1989
   - **pension** —
     (a) includes a gratuitous payment made to a person in return for services that the person, or their parent, child, spouse, civil union partner or de facto partner, former spouse, civil union partner or de facto partner, or dependant, provided to the payer when the payment would not have been made if the services had not been provided; and
@@ -3551,7 +3555,12 @@ Income derived by a person who is a transitional resident is exempt income if th
 ### CW 28 Pensions
 Exempt income
 (1) The following are exempt income:
-  (a) a pension or allowance under the Veterans' Support Act 2014 (including a lump sum paid pursuant to an election under section 53(1)(b) of that Act), other than weekly compensation paid under subpart 5 of Part 4 of that Act or a veteran’s pension:
+  (a) a pension or allowance under the Veterans’ Support Act 2014, including a lump sum paid pursuant to an election under section 53(1)(b) of that Act, but excluding—
+    (i) a veteran’s pension:
+    (ii) a retirement lump sum paid under Part 5, subpart 7 of that Act:
+    (iii) weekly income compensation paid under Part 3, subpart 4 of that Act:
+    (iv) weekly compensation paid under Part 4, subpart 5 of that Act:
+    (v) weekly compensation or aggregated payments, as applicable, paid under schedule 2, part 4, clause 54, 55, 58, or 59 of that Act:
   (b) a pension or allowance of any other kind granted in New Zealand or overseas by any government relating to any war or to disability attributable to or aggravated by service in the armed forces or the police:
   (c) a payment of portable New Zealand superannuation:
   (d) a payment of portable veteran’s pension:
@@ -29232,7 +29241,12 @@ Modifications to weekly employment
   (c) a person who is taking parental leave under the Parental Leave and Employment Protection Act 1987 for which a parental leave payment under Part 7A of that Act is payable, is treated as employed in the week for the number of hours for which they would have worked but for the period of parental leave:
   (d) a person who receives or will receive weekly compensation from the Accident Compensation Corporation, Veterans' Affairs New Zealand, or both, as a surviving spouse or partner of a deceased claimant is treated as being employed, during the week to which that compensation relates, for the number of hours that the deceased claimant would have been employed for in a week before dying, but for their incapacity. The number of hours under this paragraph are in addition to the person's own hours.
 Incapacity
-(3) The incapacity referred to in subsection (2)(b) and (d) is an incapacity due to personal injury by accident for which an accident compensation earnings-related payment, weekly income compensation under subpart 4 of Part 3 of the Veterans' Support Act 2014 or weekly compensation under subpart 5 of Part 4 of that Act, or both, has been, is being, or will be paid.
+(3) The incapacity referred to in subsection (2)(b) and (d) is an incapacity due to—
+  (a) personal injury by accident for which an accident compensation earnings-related payment has been, is being, or will be paid:
+  (b) a service-related (as defined in section 7 of the Veterans’ Support Act 2014) injury, illness, condition, or whole-person impairment for which a payment has been, is being, or will be paid, under the Veterans’ Support Act 2014, and the payment is––
+    (i) weekly income compensation paid under Part 3, subpart 4 of that Act:
+    (ii) weekly compensation paid under Part 4, subpart 5 of that Act:
+    (iii) weekly compensation or aggregated payments, as applicable, paid under schedule 2, part 4, clause 54 or 55 of that Act.
 
 ### MA 8 Some definitions for family scheme
 In subparts MB to MF and MZ,—
@@ -35032,7 +35046,7 @@ Meaning
     (i) a bonus, commission, gratuity, overtime pay, or other pay of any kind; and
     (ii) a payment described in subsections (2) to (8); and
     (iii) an accident compensation earnings-related payment; and
-    (iv) weekly income compensation under subpart 4 of Part 3 of the Veterans' Support Act 2014 or weekly compensation under subpart 5 of Part 4 of that Act; and
+    (iv)
   (c) does not include—
     (i) an amount of exempt income:
     (ii) an extra pay:
@@ -35062,7 +35076,10 @@ Certain benefits and grants
   (b) an income-tested benefit:
   (bb) a veteran's pension, other than a veteran's pension paid under section 182 of the Veterans' Support Act 2014:
   (bc) New Zealand superannuation, other than New Zealand superannuation paid under section 26(2)(b) of the New Zealand Superannuation and Retirement Income Act 2001:
-  (bd)
+  (bd) a retirement lump sum paid under Part 5, subpart 7 of the Veterans’ Support Act 2014:
+  (be) weekly income compensation paid under Part 3, subpart 4 of the Veterans’ Support Act 2014:
+  (bf) weekly compensation paid under Part 4, subpart 5 of the Veterans’ Support Act 2014:
+  (bg) weekly compensation or aggregated payments, as applicable, paid under schedule 2, part 4, clause 54, 55, 58, or 59 of the Veterans’ Support Act 2014:
   (c) a basic grant and independent circumstances grant made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or an enactment substituted for those sections.
 Parental leave payments
 (7) A parental leave payment made under Part 7A of the Parental Leave and Employment Protection Act 1987 is included in salary or wages.
