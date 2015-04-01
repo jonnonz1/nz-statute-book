@@ -1,5 +1,5 @@
 # Charities Act 2005
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-04-01_
 
 ### 1 Title
 This Act is the Charities Act 2005.
@@ -80,6 +80,9 @@ The purpose of this Act is—
   (b) the appointment of new trustees of the trust.
 (3) Subsections (1) and (2) do not limit sections 31 to 36, and 40.
 
+### 6A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ### 7 Act binds the Crown
 This Act binds the Crown.
 
@@ -96,7 +99,7 @@ This Act binds the Crown.
   (b) is not subject to direction from the Minister.
 (5) The Board must, subject to subsection (6), consider whether it could most efficiently and effectively perform or exercise any functions, duties, or powers itself or by delegating the functions, duties, or powers to the chief executive or some other person under section 9.
 (6) The chief executive must supply all secretarial and administrative services required to enable the Board to perform or exercise its functions, duties, and powers.
-(7) The Schedule applies to the Board and to the members and chairperson of the Board.
+(7) Schedule 2 applies to the Board and to the members and chairperson of the Board.
 
 **Nature of Commission**
 
@@ -107,7 +110,7 @@ This Act binds the Crown.
 (2) If functions, duties, or powers are delegated to the chief executive under subsection (1),—
   (a) the chief executive is not responsible to the Minister for the performance or exercise of those functions, duties, or powers but must act independently in exercising his or her professional judgement; and
   (b) the chief executive may delegate those functions or powers to employees or holders of specified offices in the department under section 41 of the State Sector Act 1988.
-(3) No delegation under subsection (1) or (2)(b) affects the responsibility of the Board for the actions of any person acting under the delegation.
+(3) No delegation under subsection (1) or (2)﻿(b) affects the responsibility of the Board for the actions of any person acting under the delegation.
 (4) The Board must not make a delegation under this section unless satisfied that the delegation is consistent with section 8(5).
 (5) A person to whom any functions, duties, or powers are delegated may perform and exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
 
@@ -165,12 +168,12 @@ The functions of the chief executive are—
     (ii) is not carried on for the private pecuniary profit of any individual; and
   (c) the entity has a name that complies with section 15; and
   (d) all of the officers of the entity are qualified to be officers of a charitable entity under section 16.
-(2) The trustees of a trust must be treated as complying with subsection (1)(a) if,—
+(2) The trustees of a trust must be treated as complying with subsection (1)﻿(a) if,—
   (a) in accordance with a ruling made under Part 5A of the Tax Administration Act 1994,—
     (i) an amount of income derived by the trustees in trust is treated as having been derived by the trustees in trust for charitable purposes for the purposes of section CW 41 of the Income Tax Act 2007; or
-    (ii) income is treated as having been derived directly or indirectly from a business carried on by, or for, or for the benefit of the trustees in trust for charitable purposes for the purposes of section CW 42 of the Income Tax Act 2007; or
+    (ii) income is treated as having been derived directly or indirectly from a business carried on by, or for, or for the benefit of, the trustees in trust for charitable purposes for the purposes of section CW 42 of the Income Tax Act 2007; or
   (b) the income derived by the trustees is deemed to be income derived by trustees in trust for charitable purposes under section 24B of the Maori Trust Boards Act 1955.
-(3) A society or an institution must be treated as complying with subsection (1)(b) if, in accordance with a ruling made under Part 5A of the Tax Administration Act 1994, that society or institution is treated as being a society or institution that is established and maintained exclusively for charitable purposes and not carried on for the private pecuniary profit of any individual for the purposes of section CW 41 or CW 42 of the Income Tax Act 2007.
+(3) A society or an institution must be treated as complying with subsection (1)﻿(b) if, in accordance with a ruling made under Part 5A of the Tax Administration Act 1994, that society or institution is treated as being a society or institution that is established and maintained exclusively for charitable purposes and not carried on for the private pecuniary profit of any individual for the purposes of section CW 41 or CW 42 of the Income Tax Act 2007.
 (4) Subsections (2) and (3) cease to apply in relation to an entity if—
   (a) the period for which the ruling applies has expired; or
   (b) the ruling has ceased to apply because of section 91G of the Tax Administration Act 1994; or
@@ -180,10 +183,10 @@ The functions of the chief executive are—
   (b) the entity has been convicted of any offence under sections 6A to 13E of the Terrorism Suppression Act 2002.
 
 ### 14 Board may act on basis of reasonable assumptions in relation to charitable trusts
-(1) A trust is not prevented from being of a kind referred to in section 13(1)(a) merely because the trustees of the trust have not yet derived an amount of income in trust for charitable purposes if, in the opinion of the Board,—
+(1) A trust is not prevented from being of a kind referred to in section 13(1)﻿(a) merely because the trustees of the trust have not yet derived an amount of income in trust for charitable purposes if, in the opinion of the Board,—
   (a) an amount of income will be derived by the trustees in trust for charitable purposes; and
   (b) it is fit and proper to register the trustees of the trust as a charitable entity.
-(2) For the purposes of subsection (1), the Board may act on the basis of any assumptions concerning the future derivation of income for charitable purposes that, in the opinion of the Board, are reasonable in the circumstances of the case.ExampleA charitable trust has recently been created.The trustees of that trust have not yet derived an amount of income in trust for charitable purposes. However, the Board is of the opinion, having regard to reasonable assumptions, that the trustees will derive an amount of income in trust for charitable purposes. The Board is also of the opinion that it is fit and proper to register the trustees. Accordingly, the Board is satisfied that the trust is of a kind referred to in section 13(1)(a).The trust has a name that complies with section 15 and the trustees of the charitable trust are qualified to be officers of a charitable entity.The trustees of the trust qualify for registration as a charitable entity.
+(2) For the purposes of subsection (1), the Board may act on the basis of any assumptions concerning the future derivation of income for charitable purposes that, in the opinion of the Board, are reasonable in the circumstances of the case.ExampleA charitable trust has recently been created.The trustees of that trust have not yet derived an amount of income in trust for charitable purposes. However, the Board is of the opinion, having regard to reasonable assumptions, that the trustees will derive an amount of income in trust for charitable purposes. The Board is also of the opinion that it is fit and proper to register the trustees. Accordingly, the Board is satisfied that the trust is of a kind referred to in section 13(1)﻿(a).The trust has a name that complies with section 15 and the trustees of the charitable trust are qualified to be officers of a charitable entity.The trustees of the trust qualify for registration as a charitable entity.
 
 ### 15 Name of entity
 The name of an entity complies with this section if—
@@ -207,8 +210,8 @@ The name of an entity complies with this section if—
   (g) a body corporate that is being wound up, is in liquidation or receivership, or is subject to statutory management under the Corporations (Investigation and Management) Act 1989:
   (h) in relation to any particular entity, an individual who, or a body corporate that, does not comply with any qualifications for officers contained in the rules of that entity.
 (3) Subsection (2) does not apply to an officer of an entity if that officer was appointed, under an Act, by the Governor-General, by the Governor-General in Council, or by a Minister.
-(4) The Board may waive the application of any of the disqualifying factors set out in subsection (2)(a) to (g) in relation to an officer of that entity.
-(5) If the Board waives the application of a disqualifying factor set out in subsection (2)(a) to (g), the officer to whom the waiver relates must not be treated as being disqualified from being an officer of a charitable entity in relation to the entity by reason of the application of that disqualifying factor.
+(4) The Board may waive the application of any of the disqualifying factors set out in subsection (2)﻿(a) to (g) in relation to an officer of that entity.
+(5) If the Board waives the application of a disqualifying factor set out in subsection (2)﻿(a) to (g), the officer to whom the waiver relates must not be treated as being disqualified from being an officer of a charitable entity in relation to the entity by reason of the application of that disqualifying factor.
 (6) The waiver may be granted on any terms or conditions that the Board thinks fit.
 (7) The Board may vary a waiver in the same way as a waiver may be granted under this section.
 (8) The Board may revoke a waiver granted under this section.
@@ -223,7 +226,7 @@ The name of an entity complies with this section if—
   (c) be accompanied by a copy of the rules of the entity; and
   (d) be accompanied by the fee prescribed by regulations for the application (if any); and
   (e) contain, or be accompanied by, any other information or documentation prescribed by the chief executive.
-(2) If a request for a waiver under section 16 has been made in relation to an officer of an entity, the document referred to in subsection (1)(b) is not required to contain a certification referred to in that paragraph in relation to that officer.
+(2) If a request for a waiver under section 16 has been made in relation to an officer of an entity, the document referred to in subsection (1)﻿(b) is not required to contain a certification referred to in that paragraph in relation to that officer.
 
 ### 18 Chief executive to consider application
 (1) The chief executive must, as soon as practicable after receiving a properly completed application for registration of an entity as a charitable entity, consider whether the entity qualifies for registration as a charitable entity.
@@ -349,7 +352,7 @@ A search of the register for personal information that has not been carried out 
 (2) An entity is removed from the register if the Board directs that a notice be registered in the register that—
   (a) states that the entity is removed from the register; and
   (b) states the date on which the removal is effective.
-(3) The entity ceases to be a charitable entity on the date referred to in subsection (2)(b).
+(3) The entity ceases to be a charitable entity on the date referred to in subsection (2)﻿(b).
 (4) The Board may, if it has removed an entity from the register, make either or both of the following orders:
   (a) an order that an application for the re-registration of the entity as a charitable entity must not be made before the expiry of a specified period:
   (b) an order disqualifying an officer of the entity from being an officer of a charitable entity for a specified period that does not exceed 5 years.
@@ -362,11 +365,11 @@ A search of the register for personal information that has not been carried out 
   (d) there has been a significant or persistent failure by any 1 or more collectors who act on behalf of the entity to meet their obligations under this Act; or
   (e) the entity has engaged in serious wrongdoing or any person has engaged in serious wrongdoing in connection with the entity; or
   (f) the entity has sent or delivered to the chief executive a request to be removed from the register.
-(2) For the purposes of subsection (1)(a), the trustees of a trust must be treated as being no longer qualified for registration as a charitable entity if, as a result of a change to the rules or purposes of the entity, the trust is no longer of a kind in relation to which an amount of income can be derived by the trustees in trust for charitable purposes.
+(2) For the purposes of subsection (1)﻿(a), the trustees of a trust must be treated as being no longer qualified for registration as a charitable entity if, as a result of a change to the rules or purposes of the entity, the trust is no longer of a kind in relation to which an amount of income can be derived by the trustees in trust for charitable purposes.
 (3) Subsection (2) does not limit the circumstances in which an entity may be considered to be no longer qualified for registration as a charitable entity.
 
 ### 33 Notice of intention to remove from register
-(1) The chief executive must, before an entity is removed from the register under section 32(1)(a) to (e), give notice of the matters set out in subsection (2) to the entity.
+(1) The chief executive must, before an entity is removed from the register under section 32(1)﻿(a) to (e), give notice of the matters set out in subsection (2) to the entity.
 (2) That notice must specify—
   (a) the name of the entity; and
   (b) the registration number of the entity; and
@@ -379,12 +382,12 @@ The entity and any officer of the entity may send or deliver to the chief execut
   (b) that, for any other reason, it would not be in the public interest to remove the entity from the register.
 
 ### 35 Duties of Board and chief executive if objection received
-(1) If an objection to the removal of an entity from the register under section 34 is received by the chief executive on or before the date referred to in section 33(2)(d), the Board must not proceed with the removal unless the Board is satisfied that it is in the public interest to proceed with the removal from the register and that—
+(1) If an objection to the removal of an entity from the register under section 34 is received by the chief executive on or before the date referred to in section 33(2)﻿(d), the Board must not proceed with the removal unless the Board is satisfied that it is in the public interest to proceed with the removal from the register and that—
   (a) 1 or more of the grounds of removal from the register have been satisfied; or
   (b) the objection has been withdrawn; or
   (c) any facts on which the objection is based are not, or are no longer, correct; or
   (d) the objection is frivolous or vexatious.
-(2) If an objection to the removal of an entity from the register under section 34 is received by the chief executive on or before the date referred to in section 33(2)(d) and the Board decides to proceed with the removal of the entity from the register,—
+(2) If an objection to the removal of an entity from the register under section 34 is received by the chief executive on or before the date referred to in section 33(2)﻿(d) and the Board decides to proceed with the removal of the entity from the register,—
   (a) the chief executive must give to the charitable entity notice of—
     (i) the Board's decision to proceed with the removal of the entity from the register; and
     (ii) the reasons for the Board's decision; and
@@ -441,7 +444,7 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
   (d) be sent or delivered to the chief executive within 3 months of the later of—
     (i) the effective date of the change; or
     (ii) the charitable entity first becoming aware of the change.
-(3) This section does not apply if the change has been notified in an annual return sent or delivered under section 41 before the change is required to be notified under subsection (2)(d).
+(3) This section does not apply if the change has been notified in an annual return sent or delivered under section 41 before the change is required to be notified under subsection (2)﻿(d).
 
 **Duty to prepare annual returns**
 
@@ -450,7 +453,9 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
   (a) completed in relation to the entity and that balance date; and
   (b) dated and signed on behalf of the entity; and
   (c) sent or delivered to the chief executive.
-(2) The annual returns of charitable entities must be in the form, contain the particulars, and comply with the directions as to the preparation of those returns that are prescribed by the chief executive under section 42.
+(2) The annual return of a charitable entity must—
+  (a) be in the form, contain the particulars, and comply with the directions as to the preparation of those returns that are prescribed by the chief executive under section 42; and
+  (b) be accompanied by a copy of the financial statements of the charitable entity (or, in the case of section 46(1A)﻿(b), of each entity that forms part of the single entity) for the most recently completed accounting period.
 (3) For the purposes of this Act,—
   (a) an entity may nominate a balance date for the entity—
     (i) in the application for registration of the entity as a charitable entity; or
@@ -463,7 +468,7 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
     (ii) the entity continues to have a balance date in each calendar year; or
   (b) with the approval of the chief executive before the change is made.
 (6) The chief executive may approve a change of balance date with or without conditions.
-(7) Subsection (3)(b) is subject to subsections (5) and (6).
+(7) Subsection (3)﻿(b) is subject to subsections (5) and (6).
 
 ### 42 Chief executive must prescribe content of annual returns
 (1) The chief executive must prescribe the following matters in relation to the annual returns of charitable entities:
@@ -472,6 +477,52 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
   (c) directions to be complied with in the preparation of the returns.
 (2) The chief executive may prescribe different requirements for different types or classes of entities.
 (3) Section 72A(2) and (5) to (7) apply to a form or requirement to be prescribed under this section.
+
+### 42A Content of financial statements
+(1) The financial statements referred to in section 41(2)﻿(b) must be prepared in accordance with,—
+  (a) in the case of financial statements of a specified not-for-profit entity, generally accepted accounting practice; or
+  (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
+(2) In this section and sections 41 and 42B,—
+  (a) specified not-for-profit entity has the meaning set out in section 46 of the Financial Reporting Act 2013:
+  (b) accounting period, applicable financial reporting standard, financial statements, generally accepted accounting practice, and non-GAAP standard have the same meanings as in section 5 of the Financial Reporting Act 2013.
+(3) If a charitable entity is subject to another Act that imposes duties relating to the preparation, audit, registration, or lodgement of financial statements, the entity must, in addition to complying with this Act, comply with the requirements of that other Act.
+
+### 42B Offence to knowingly fail to comply with standards
+(1) A charitable entity and every officer of the charitable entity commit an offence and are liable on conviction to a fine not exceeding $50,000 if—
+  (a) the financial statements of the charitable entity referred to in section 41(2)﻿(b) fail to comply with an applicable financial reporting standard or a non-GAAP standard (as the case may be); and
+  (b) the charitable entity or officer (as the case may be) knows, at the time that the financial statements accompany the annual return when it is sent or delivered under section 41, that the financial statements fail to so comply.
+(2) If financial statements are prepared on a consolidated basis in respect of a single entity under section 46(1A)﻿(a), subsection (1) applies as if the reference to financial statements were a reference to the financial statements for the single entity and the other references to a charitable entity were references to the parent entity.
+
+### 42C When financial statements must be audited or reviewed
+(1) This section applies to—
+  (a) every charitable entity that is large; and
+  (b) every charitable entity that is of medium size.
+(2) Every charitable entity to which this section applies (A) must ensure that the financial statements of A that accompany an annual return under section 41 are—
+  (a) audited by a qualified auditor if A is large in respect of the accounting period to which the financial statements relate:
+  (b) audited or reviewed by a qualified auditor if A is of medium size in respect of the accounting period to which the financial statements relate.
+(3) If financial statements are prepared on a consolidated basis in respect of a single entity under section 46(1A)﻿(a),—
+  (a) the parent entity must ensure that the financial statements of the single entity that accompany an annual return under section 41 are—
+    (i) audited by a qualified auditor if the single entity is large in respect of the accounting period to which the financial statements relate:
+    (ii) audited or reviewed by a qualified auditor if the single entity is of medium size in respect of the accounting period to which the financial statements relate; and
+  (b) for the purposes of paragraph (a), the references to a charitable entity in subsection (1) and in sections 42D(1) and 42F must be treated as references to the single entity.
+
+### 42D Meaning of large and medium size
+(1) In section 42C,—
+  (a) a charitable entity is large in respect of an accounting period if, in each of the 2 preceding accounting periods of the entity, the total operating expenditure of the entity and all entities it controls (if any) is $1 million or more:
+  (b) a charitable entity is of medium size in respect of an accounting period if—
+    (i) it is not large under paragraph (a); and
+    (ii) in each of the 2 preceding accounting periods of the entity, the total operating expenditure of the entity and all entities it controls (if any) is $500,000 or more:
+  (c) qualified auditor has the same meaning as in section 35 of the Financial Reporting Act 2013.
+(2) A financial reporting standard (within the meaning of the Financial Reporting Act 2013), or a part of such a standard, that is expressed as applying for the purposes of subsection (1)﻿(a) or (b) must be applied in determining whether that provision applies (for example, the standard may define operating expenditure or control).
+
+### 42E Offence relating to audit or review
+If a charitable entity fails to comply with section 42C, the charitable entity commits an offence and is liable on conviction to a fine not exceeding $50,000.
+
+### 42F Audit or review must be carried out in accordance with auditing and assurance standards
+(1) An auditor must, in carrying out an audit or a review of the financial statements of a charitable entity, comply with all applicable auditing and assurance standards.
+(2) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
+(3) This section does not apply in respect of a charitable entity that is a public entity (within the meaning of the Public Audit Act 2001).
+(4) In this section, applicable auditing and assurance standards has the same meaning as in section 5 of the Financial Reporting Act 2013.
 
 **Exemptions**
 
@@ -515,13 +566,20 @@ If a collector who acts on behalf of a charitable entity is requesting funds, ca
   (e) the manner in which the duties or obligations imposed under this Act on charitable entities are to be complied with on behalf of the single entity and the entities that form part of that single entity; and
   (f) the information and documents that must be included in the register in relation to the single entity and the entities that form part of that single entity; and
   (g) the manner in which rights or powers conferred under this Act on a charitable entity may be exercised by the single entity.
+(1A) If the duty under section 41 (duty to prepare annual return) is to be complied with by the parent entity in relation to the single entity, the terms and conditions under subsection (1) may provide that the financial statements that must accompany an annual return that is sent or delivered by the parent entity are prepared—
+  (a) on a consolidated basis in respect of the single entity; or
+  (b) separately in respect of each entity that forms part of the single entity.
+(1B) The Board or the chief executive must, in deciding whether subsection (1A)﻿(a) or (b) applies, take into account—
+  (a) the needs of users of the financial statements; and
+  (b) the purpose of this Act set out in section 3.
+(1C) If terms and conditions referred to in subsection (1A) relate to the financial statements of an entity, those terms and conditions must be treated as including a requirement for the financial statements to disclose, in the statement of accounting policies section, a brief description of the terms and conditions that apply under subsection (1A).
 (2) The Board or the chief executive must give written notice of those terms and conditions to the parent entity.
 (3) The Board or the chief executive may vary those terms and conditions by written notice to the parent entity.
 (4) If those terms and conditions provide that the duty under—
   (a) section 40 must be complied with by the parent entity in relation to the single entity on behalf of the single entity and all of the entities that form part of the single entity, the entities that form part of the single entity are not required to separately comply with that section:
-  (b) section 41 must be complied with by the parent entity in relation to the single entity on behalf of the single entity and all of the entities that form part of the single entity, the entities that form part of the single entity are not required to separately comply with that section.
+  (b) section 41 must be complied with by the parent entity in relation to the single entity on behalf of the single entity and all of the entities that form part of the single entity, the entities that form part of the single entity are not required to separately comply with that section (but see subsection (1A)).
 (5) For the purposes of this Act, the single entity must be treated as—
-  (a) having the name, officers, and rules referred to in subsection (1)(b) to (d); and
+  (a) having the name, officers, and rules referred to in subsection (1)﻿(b) to (d); and
   (b) being qualified for registration as a charitable entity if all of the entities that form part of the single entity are qualified for registration as charitable entities.
 (6) This section is subject to section 45.
 
@@ -546,7 +604,7 @@ If a single entity is registered as a charitable entity, then, unless the terms 
 (2) An entity's status as forming part of a single entity is revoked if the Board registers a notice in the register that—
   (a) states that the entity's status as forming part of the single entity is revoked; and
   (b) states the date on which the revocation is effective.
-(3) On the date referred to in subsection (2)(b), the entity ceases to be—
+(3) On the date referred to in subsection (2)﻿(b), the entity ceases to be—
   (a) part of the single entity; and
   (b) treated as a charitable entity under section 47.
 
@@ -598,8 +656,8 @@ In considering whether to revoke an entity's status as forming part of a single 
   (b) a charitable entity is, or may be, no longer qualified to be registered as a charitable entity; or
   (c) a person has engaged in, or is engaging in, conduct that constitutes, or may constitute, a breach of section 37.
 (2) The chief executive may give a warning notice to—
-  (a) the charitable entity concerned in the case of subsection (1)(a) or (b); or
-  (b) the person concerned in the case of subsection (1)(c).
+  (a) the charitable entity concerned in the case of subsection (1)﻿(a) or (b); or
+  (b) the person concerned in the case of subsection (1)﻿(c).
 (3) The warning notice must contain information or statements to the following effect:
   (a) the name of the charitable entity or person:
   (b) a statement of the matters that caused the chief executive to give the notice:
@@ -609,7 +667,7 @@ In considering whether to revoke an entity's status as forming part of a single 
   (f) a statement of what might happen if the charitable entity or person does not comply with the warning notice.
 
 ### 55 Board may publish details of possible breach, possible serious wrongdoing, and other matters
-(1) This section applies if the Board considers that the entity or person to whom a notice is given under section 54 has failed to remedy, by the date referred to in section 54(3)(d), 1 or more of the matters that caused the chief executive to give the notice under section 54.
+(1) This section applies if the Board considers that the entity or person to whom a notice is given under section 54 has failed to remedy, by the date referred to in section 54(3)﻿(d), 1 or more of the matters that caused the chief executive to give the notice under section 54.
 (2) The Board may, in any manner that it thinks fit, publish a notice that contains information or statements to the following effect:
   (a) the name of the charitable entity or person:
   (b) a statement to the effect that the Board considers that—
@@ -632,7 +690,7 @@ In considering whether to revoke an entity's status as forming part of a single 
   (a) it is in writing; and
   (b) it is signed by the chief executive or a person authorised by him or her for the purpose; and
   (c) it is served or given in accordance with section 57 on or to the person or persons primarily concerned or on or to any person considered by the chief executive or authorised person to represent the person or persons primarily concerned.
-(2) In all courts and in all proceedings under this Act, notices given under this Act that purport to be signed by, or on behalf of, the chief executive must be treated as having been signed with due authority in accordance with subsection (1)(b) unless the contrary is proved.
+(2) In all courts and in all proceedings under this Act, notices given under this Act that purport to be signed by, or on behalf of, the chief executive must be treated as having been signed with due authority in accordance with subsection (1)﻿(b) unless the contrary is proved.
 
 ### 57 Service of notices
 (1) If this Act authorises the chief executive to serve a notice on, or give a notice to, any person, the notice may be served or given by—
@@ -796,6 +854,19 @@ This Act does not impose on the Board or the chief executive or any other person
 
 ### 76 Amendments to other Acts
 The enactments in the Schedule are amended in the manner indicated in that schedule.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+**Provisions relating to Charities Amendment Act 2014**
+
+### 1 Interpretation
+In clause 2,—
+  - **2014 Amendment Act** means the Charities Amendment Act 2014
+  - **principal Act** means the Charities Act 2005.
+
+### 2 Provisions relating to audit or review apply to accounting periods that commence on or after commencement
+(1) The principal Act, as amended by the 2014 Amendment Act, applies to a charitable entity in relation to accounting periods that commence on or after the commencement of this clause.
+(2) The principal Act, as in force before the commencement of this clause, continues to apply to a charitable entity in relation to accounting periods that commenced before the commencement of this clause as if the 2014 Amendment Act had not been enacted.
 
 ## Schedule 1 — Amendments to other Acts
 
@@ -1000,7 +1071,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   (c) contain, or be accompanied by, any other information or documentation prescribed by the Commission or the chief executive; and
   (d) specify the date of commencement of this Act as the effective date of the change; and
   (e) be sent or delivered to the Commission or the chief executive together with, or as part of, the first annual return to be provided by the charitable entity under section 41 of the principal Act after the commencement of this Act.
-(4) This section overrides section 40(1)(c) of the principal Act and, until the notice is sent or delivered, section 24(1)(d) of that Act.
+(4) This section overrides section 40(1)﻿(c) of the principal Act and, until the notice is sent or delivered, section 24(1)﻿(d) of that Act.
 (5) A term or expression that is used in this section and is defined in the principal Act has the meaning given by that Act.
 
 ### 17 Transitional provision for information or documentation received
@@ -1060,3 +1131,23 @@ On the commencement of this section,—
 
 ### 15 Other savings and transitional matters
 The Governor-General may, by Order in Council, provide for savings and transitional matters connected with the disestablishment of the Charities Commission, including the transfer of functions formerly carried out by the Commission.
+
+### 1 Title
+This Act is the Financial Reporting (Amendments to Other Enactments) Act 2013.
+
+### 2 Commencement
+(1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
+(2) To the extent that it is not previously brought into force under subsection (1), the rest of this Act comes into force on 1 April 2017.
+(3) In this section, provision includes any item, or any part of an item, in any of the schedules.
+
+### 3 Overview
+This Act makes amendments to other enactments in connection with the Financial Reporting Act 2013.
+
+**Amendments to Charities Act 2005**
+
+### 18 Principal Act
+Sections 19 to 21 amend the Charities Act 2005 (the principal Act).
+
+### 22 Transitional provision
+(1) The Charities Act 2005, as amended by sections 19 to 21, applies to a charitable entity in relation to accounting periods that commence on or after the commencement of this section.
+(2) The Charities Act 2005, as in force before the commencement of this section, continues to apply to a charitable entity in relation to accounting periods that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
