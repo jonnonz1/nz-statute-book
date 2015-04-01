@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-04-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -1265,7 +1265,7 @@ If a person makes a return that includes a figure for the value of supplies char
     (iii) in which the Commissioner receives from the registered person a notice of cancellation, if the notice of cancellation does not nominate a taxable period after which the cancellation is to be effective.
 
 ### 20G Treatment of supplies of certain assets
-(1) A registered person who uses an asset described in section DG 3 of the Income Tax Act 2007 for making taxable supplies has a deduction under section 20(3)(hb) of an amount calculated using the formula—input tax for asset×total income-earning daystotal income-earning days + total private days.
+(1) A registered person who uses an asset described in section DG 3 of the Income Tax Act 2007 for making taxable supplies has a deduction under section 20(3)(hb) of an amount calculated using the formula—Formulainput tax for asset×total income-earning daystotal income-earning days + total private days.
 (2) In the formula,—
   (a) input tax for asset is the input tax on expenditure that the person incurs in relation to the use of the asset, other than expenditure that is––
     (i) related solely to the income-earning use of the asset as described in section DG 7 of that Act; or
@@ -1347,7 +1347,7 @@ For the purposes of section 21A(b),—
 ### 21E Concurrent uses of land
 (1) This section applies when a registered person simultaneously uses the same area of land during an adjustment period for making concurrent taxable and non-taxable supplies. The percentages determined under this section apply for the purposes of sections 21A and 21G.
 (2) This section does not apply if the Commissioner agrees that the registered person may use another calculation method.
-(3) The extent to which the land is used for making taxable supplies is calculated as a percentage using the formula—consideration for taxable supply× 100total consideration for supply
+(3) The extent to which the land is used for making taxable supplies is calculated as a percentage using the formula—Formulaconsideration for taxable supply× 100total consideration for supply
 (4) In the formula in subsection (3),—
   (a) consideration for taxable supply is,—
     (i) on a disposal of the land in the adjustment period, the amount paid or payable; or
@@ -1357,7 +1357,7 @@ For the purposes of section 21A(b),—
     (ii) if no rental income is paid or payable in relation to the non-taxable use of the land, the market value of rental income that would have been paid or payable since the land was acquired if the land had been used for this purpose.
 (5) For the purposes of subsection (4), if the person disposes of the land to an associated person, or if the amount of rental income is not an arm's length amount, subsection (4)(a)(i) and (b)(i) do not apply, and the amount of the consideration is measured under subsection (4)(a)(ii) and (b)(ii).
 (6) For the purposes of subsection (4)(a)(ii) and (b)(ii), if the market value of the land or the market value of rental income is not readily identifiable, the person may use another method to provide a fair and reasonable estimate of the market value.
-(7) If a person is required to estimate the extent of taxable use of the land under this section and the land has at any time been used in a month solely for making non-taxable supplies, the person must calculate the percentage use for the adjustment period on a month by month basis, calculated using the formula—months × result under subsection (3)total months
+(7) If a person is required to estimate the extent of taxable use of the land under this section and the land has at any time been used in a month solely for making non-taxable supplies, the person must calculate the percentage use for the adjustment period on a month by month basis, calculated using the formula—Formulamonths × result under subsection (3)total months
 (8) In the formula in subsection (7),—
   (a) months is the number of months since acquisition in which all or part of the land is used to some extent for making taxable supplies:
   (b) total months is the total number of months since acquisition.
@@ -1366,7 +1366,7 @@ For the purposes of section 21A(b),—
 (1) This section applies when a registered person—
   (a) acquires goods or services in relation to which they do not have a full deduction, taking into account any adjustments made to input tax in adjustment periods after acquisition; and
   (b) subsequently disposes, or is treated as disposing, of the goods or services in the course or furtherance of a taxable activity.
-(2) The person must make a final adjustment of an amount calculated using the formula—tax fraction × consideration × [1 −actual deduction]full input tax deduction
+(2) The person must make a final adjustment of an amount calculated using the formula—Formulatax fraction × consideration × [1 −actual deduction]full input tax deduction
 (3) For the purposes of the formula in subsection (2),—
   (a) tax fraction has the meaning given in section 2(1), unless subsection (7) applies to the disposal:
   (b) consideration is the amount of consideration received, or treated as received, for the supply:
@@ -1387,7 +1387,7 @@ For the purposes of section 21A(b),—
   (c) the total taxable use or non-taxable use remains unchanged for an unbroken period that is—
     (i) the remainder of the adjustment period in which the use was changed; and
     (ii) the adjustment period following the period in which the use was changed.
-(2) If the use changes to total taxable use, the person's adjustment for the adjustment period referred to in subsection (1)(c)(ii) is an amount of input tax calculated using the formula—full input tax deduction − actual deduction.
+(2) If the use changes to total taxable use, the person's adjustment for the adjustment period referred to in subsection (1)(c)(ii) is an amount of input tax calculated using the formula—Formulafull input tax deduction − actual deduction.
 (3) In the formula,—
   (a) full input tax deduction is the total amount of input tax on the supply, after taking into account any nominal GST component chargeable under section 20(3J)(a)(i):
   (b) actual deduction is the amount of deduction already claimed, taking into account adjustments made up to the end of the adjustment period referred to in subsection (1)(c)(ii).
@@ -1447,6 +1447,12 @@ For the purposes of section 21A(b),—
 (3) The person must treat the goods or services as acquired on 1 April 2011 at the original cost of the supply.
 (4) A person who is required to treat a dwelling as a commercial dwelling because of the amendments to the definitions of commercial dwelling and dwelling made by section 4(3) and (4) of the Taxation (GST and Remedial Matters) Act 2010 may choose not to treat a supply of accommodation in a dwelling affected by the amendments as a taxable supply.
 (5) Subsection (4) does not apply if the total value of the person's supplies of accommodation in dwellings affected by the amendments exceeds the threshold set out in section 51(1)(a).
+(6) Subsection (7) applies to a person who—
+  (a) is required to treat a dwelling as a commercial dwelling because of the amendments to the definitions of commercial dwelling and dwelling made by section 4(3) and (4) of the Taxation (GST and Remedial Matters) Act 2010; and
+  (b) on or after 1 April 2011, has treated the supply of accommodation in a dwelling, being a residential unit in a retirement village or rest home, as a taxable supply.
+(7) The person may irrevocably choose in a tax return for a period starting before 1 April 2015, to—
+  (a) continue to treat the supply as a taxable supply for that period and for subsequent periods; or
+  (b) treat the supply as an exempt supply for that period and for subsequent periods, and for this purpose, the election to treat the supply as an exempt supply does not constitute a change of use for the purposes of section 21FB(4).
 
 ### 21I Fringe benefits and entertainment expenses
 (1) If a registered person has or is deemed to have provided or granted a fringe benefit to another person under the FBT rules of the Income Tax Act 2007, the providing or granting of the fringe benefit is treated as being a supply of goods and services made by the registered person in the course or furtherance of their taxable activity.
@@ -1620,7 +1626,7 @@ A registered person who receives a supply of services that is treated by section
   (a) the supplier has provided, in terms of section 24, 1 or more tax invoices to a recipient in respect of those taxable supplies; and
   (b) the Commissioner is satisfied that there are or will be sufficient records available to establish the particulars of those taxable supplies to a recipient,—
 (4) Where any recipient, being a registered person, has been issued with a credit note pursuant to subsection (3)(a), or has written or other notice or otherwise knows that any tax invoice which that registered person holds is incorrect as a result of any 1 or more of the events specified in any of paragraphs (a), (aa), (ab), (b), and (c) of subsection (1), and has made a deduction of any amount of input tax in any taxable period in respect of that supply of goods and services to which the credit note or that notice or other knowledge, as the case may be, relates, the amount of the excess referred to in subsection (3)(a) shall be deemed to be tax charged in relation to a taxable supply made by the recipient attributable to the taxable period in which the credit note was issued, or that notice or, as the case may be, other knowledge was received, to the extent that the input tax deducted exceeds the output tax properly charged.
-(5) Where any recipient, being a registered person, has been issued with a debit note pursuant to subsection (3)(b), and has made a deduction of any amount of input tax in any taxable period in respect of that supply of goods and services to which that debit note relates, the recipient shall make a deduction under section 20(3) of the amount of the excess referred to in subsection (3)(b) in the taxable period in which the debit note is issued, to the extent that the output tax properly charged exceeds the input tax deducted.
+(5) Where any recipient, being a registered person, has been issued with a debit note pursuant to subsection (3)(b), and has made a deduction of any amount of input tax in any taxable period in respect of that supply of goods and services to which that debit note relates, the recipient shall make a deduction undersection 20(3) of the amount of the excess referred to in subsection (3)(b) in the taxable period in which the debit note is issued, to the extent that the output tax properly charged exceeds the input tax deducted.
 (6) Where any amount of tax charged is required to be shown on any credit note or debit note, and that amount consists of any number of dollars and cents together with any fraction or part of a cent, that fraction or part of that cent,—
   (a) if less than or equal to half of that cent, may be disregarded for the purposes of this section:
   (b) if in excess of half of that cent, shall be deemed for the purposes of this section to be an amount equal to 1 cent.
@@ -1994,7 +2000,7 @@ The obligations and liabilities under this Act of any person in respect of anyth
 (6) For the purposes of this Act, any notice served in accordance with this Act, which is addressed to the representative member of any group of companies shall be deemed to be served on that representative member and on all members of that group of companies.
 (7) Subject to subsection (7B), where any companies are a group of companies for the purposes of this section,—
   (a) any taxable activity carried on by a member of the group shall be deemed to be carried on by the representative member and not to be carried on by any other member of the group; and
-  (b) all members of the group shall have the same taxable period pursuant to sections 15 to 15E and the same accounting basis pursuant to section 19 or section 19A; and
+  (b) all members of the group shall have the same taxable period pursuant to sections 15 to 15E and the same accounting basis pursuant to section 19or section 19A; and
   (c) subject to paragraphs (db) and (dc), any taxable supply of goods and services by a member of the group to another member of the group may be disregarded; and
   (d) any other taxable supply of goods and services by a member of the group shall be deemed to be a taxable supply by the representative member; and
   (da) any supply of goods and services, other than a taxable supply, made by a member of the group, shall be deemed to be made by the representative member; and
@@ -2185,7 +2191,7 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
 (2) Without limiting the generality of subsection (1), the records required to be kept and retained, pursuant to subsection (3), shall contain—
   (a) a record of all goods and services supplied by or to that registered person showing the goods and services, and the suppliers or their agents, in sufficient detail to enable the goods and services, the suppliers, or the agents to be readily identified by the Commissioner, and all invoices, tax invoices, credit notes, and debit notes relating thereto; and
   (b) the charts and codes of account, the accounting instruction manuals, and the system and programme documentation which describes the accounting system used in each taxable period in the supply of goods and services; and
-  (c) any list required to be prepared in accordance with section 19B(3) or section 78B(7).
+  (c) any list required to be prepared in accordance with section 19B(3)or section 78B(7).
 (3) Subject to subsections (4) to (7), every registered person must keep, for a period of at least 7 years after the end of the taxable period to which they relate, the records listed in subsection (2) and records that are sufficient to enable ready ascertainment by the Commissioner or an officer authorised by the Commissioner of the registered person's liability to tax.
 (3BA) A registered person required by subsection (3) to keep and retain a record must keep and retain the record—
   (a) in English, or in a language in which the Commissioner authorises the person under subsection (6) to keep the record or the type of record; and
@@ -2398,10 +2404,10 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
     (i) output tax where the amount of the adjustment is a positive amount; and
     (ii) input tax where the amount of the adjustment is a negative amount.
 (6A) Where—that registered person shall, for the purposes of subsection (6), be deemed, in respect of such amounts written off as a bad debt, to have made an adjustment pursuant to subsection (1).
-  (a) at any time after the new rate of tax comes into force, a registered person has been directed by the Commissioner pursuant to section 19 or section 19A to change from an invoice basis or a hybrid basis to a payments basis of accounting; and
+  (a) at any time after the new rate of tax comes into force, a registered person has been directed by the Commissioner pursuant to section 19or section 19A to change from an invoice basis or a hybrid basis to a payments basis of accounting; and
   (b) that registered person subsequently writes off as a bad debt any amount that would have been consideration for a qualifying supply if that registered person had in fact been on the payments basis of accounting as at the date on which the new rate of tax came into force,—
 (6B) Where—that registered person shall, for the purposes of subsection (6), be deemed, in respect of such amounts written off as a bad debt, to have not made an adjustment pursuant to subsection (1).
-  (a) at any time after the new rate of tax comes into force, any registered person has been directed by the Commissioner pursuant to section 19 or section 19A to change from a payments basis to an invoice basis or a hybrid basis of accounting; and
+  (a) at any time after the new rate of tax comes into force, any registered person has been directed by the Commissioner pursuant to section 19or section 19A to change from a payments basis to an invoice basis or a hybrid basis of accounting; and
   (b) that registered person subsequently writes off as a bad debt any amount that was consideration for a qualifying supply,—
 (7) For the purposes of this section, a registered person shall, in respect of all qualifying supplies made by or to that person, prepare—
   (a) a list of debtors of the registered person showing the amounts due to that person as at the commencement of the day on which the new rate of tax comes into force; and
@@ -2436,7 +2442,7 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
     (i) from an invoice basis to a payments or a hybrid basis; or
     (ii) from a payments basis to an invoice or a hybrid basis; or
     (iii) from a hybrid basis to an invoice or a payments basis—
-(2) Where the Commissioner directs a change in accounting basis for any registered person pursuant to section 19 or section 19A at any time after a new rate of tax comes into force,—
+(2) Where the Commissioner directs a change in accounting basis for any registered person pursuant to section 19or section 19A at any time after a new rate of tax comes into force,—
   (a) for the purpose of determining under section 19C the amount of any input tax deducted and output tax accounted for, and any input tax that would have been deducted and output tax that would have been accounted for if the person had been accounting for tax payable on a different basis,—notwithstanding that the supply may have occurred during any taxable period or part of a taxable period occurring before the date on which the new rate came into force; and
     (i) the amount of any such input tax in respect of any taxable supply, or any supply of secondhand goods to which section 3A(1)(c) of the input tax definition applies, shall be deemed to be an amount equal to the new tax fraction (being the tax fraction as calculated in accordance with section 2 immediately after the coming into force of the new rate of tax) of the consideration in money for the supply or for the secondhand goods; and
     (ii) the amount of any such output tax in respect of any taxable supply shall be deemed to be an amount equal to that new tax fraction of the consideration in money for the supply,—
