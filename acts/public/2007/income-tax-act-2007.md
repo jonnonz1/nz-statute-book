@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2015-03-31_
+_Consolidation as at 2015-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -793,20 +793,34 @@ Amounts
   (g) other revenues.
 Amounts derived from certain assets
 (2B) Despite subsections (1) and (2), an amount referred to in section CW 8B (Certain amounts derived from use of assets) is not a payment of rent or another amount for the purposes of this section.
+Exception for amount from grant of easement
+(2C) An amount is not income of the owner of a fee simple estate in land if the amount is derived as consideration for the grant, for the duration of the estate, of an easement over the land and is not a periodic payment.
 Relationship with section GC 5
 (3) The treatment of leases of property to related parties for less than an adequate rent is dealt with in section GC 5 (Leases for inadequate rent).
 
-### CC 1B Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence
+### CC 1B Consideration relating to grant, renewal, extension, or transfer of leasehold estate or licence
 When this section applies
-(1) This section applies when a person (the payee) derives an amount as consideration for the agreement by the payee to the grant, renewal, extension, or transfer of a right (the land right) that is a leasehold estate, or a licence to use land.
-Exception for payment to holder by transferee
-(2) This section does not apply to an amount derived—
-  (a) by the payee as the holder of a land right; and
-  (b) as consideration for the transfer of the land right to the person paying the amount.
+(1) This section applies when a person (the payee) derives an amount—
+  (a) in relation to a right (the land right) that is
+    (i) a leasehold estate not including a perpetual right of renewal:
+    (ii) a licence to use land; and
+  (b) as consideration for—
+    (i) the agreement by the payee to the grant, renewal, extension, or transfer of the land right:
+    (ii) the transfer of the land right from the holder of the land right to another person.
 Income
-(3) The amount is income of the payee.
+(2) The amount is income of the payee.
+Exception for payment as consideration for transfer of land right
+(3) The amount is not income of the payee if—
+  (a) the payee is the holder of the land right; and
+  (b) the amount is consideration for the transfer of the land right to the person paying the amount; and
+  (c) the amount is not sourced from funds provided, by the owner of the estate in land from which the land right is granted, for purposes that include obtaining the surrender or termination of the land right; and
+  (d) each of the payee and the person paying the amount is not associated with the owner of the estate in land from which the land right is granted.
 Exception for tenant or licensee of residential premises
-(4) The amount is not income if a payee is a natural person and derives the amount as a tenant or licensee of residential premises whose expenditure on the residential premises does not meet the requirements of the general permission.
+(4) The amount is not income of the payee if the payee—
+  (a) is a natural person and derives the amount as a tenant or licensee of residential premises whose expenditure on the residential premises does not meet the requirements of the general permission; and
+  (b) is not associated with the owner of the estate in land from which the land right is granted.
+Exception for payment of capital contribution
+(5) The amount is not income of the payee if the amount is derived as a capital contribution.
 
 ### CC 1C Consideration for agreement to surrender leasehold estate or terminate licence
 When this section applies
@@ -1377,7 +1391,7 @@ Meaning of flat-owning company
 FBT rules
 (1) A fringe benefit subject to fringe benefit tax is not a dividend.
 Board
-(2) An amount that is employment income under section CE 1(1B) (Amounts derived in connection with employment) is not a dividend.
+(2) An amount that is employment income under section CE 1B (General rule: accommodation provided by employers) is not a dividend.
 
 ### CD 33 Payments corresponding to notional distributions of producer boards and co-operative companies
 Statutory producer board payments
@@ -1803,7 +1817,7 @@ When this section applies
 Treatment of amount
 (2) For the purposes of the other rules, the amount derived by the person from the company is treated as if it were reduced, but not below zero, by the amount of any dividend derived by the person in relation to the cancellation, excluding any attached imputation credit or FDP credit.
 Non-taxable dividends
-(3) Subsection (2) does not apply to the extent to which the dividend is exempt income of the person under sections CW 9 and CW 10 (which relate to income from equity).
+(3) Subsection (2) does not apply to the extent to which the dividend is exempt income of the person under sections CW 9and CW 10 (which relate to income from equity).
 Subsection (3)(b): formula
 (4)
 Definition of items in formula
@@ -1823,17 +1837,108 @@ Income
 (1) The following amounts derived by a person in connection with their employment or service are income of the person:
   (a) salary or wages or an allowance, bonus, extra pay, or gratuity:
   (b) expenditure on account of an employee that is expenditure on account of the person:
+  ((bb)) the value of accommodation referred to in sections CE 1B to CE 1E:
   (c)
   (d) a benefit received under a share purchase agreement:
   (e) directors’ fees:
   (f) compensation for loss of employment or service:
   (g) any other benefit in money.
 Benefit of accommodation
-(1B) The market value of the following benefits provided to a person is income of the person if the benefit is provided in relation to an office or position held by them:
-  (a) the provision of accommodation:
-  (b) the provision of an accommodation allowance instead of accommodation.
+(1B)
 Meaning of accommodation
-(2) For the purposes of this section and section CX 28 (Accommodation), accommodation means board or lodging, or the use of a house or living premises, or the use of part of a house or living premises.
+(2) For the purposes of this section, and sections CE 1B to CE 1E, CW 16B to CW 16F, CW 17CB, CZ 23, CZ 29, and CZ 30 (which relate to accommodation provided in connection with employment), accommodation—
+  (a) includes—
+    (i) board or lodging:
+    (ii) the use of a house or living premises, or the use of part of a house or living premises, whether permanent or temporary:
+  (b) does not include—
+    (i) a berth, room, or other lodging provided on a mobile workplace, for example, a ship, a truck, an oil rig, or other similar workplace:
+    (ii) a station in Antarctica:
+    (iii) a room or lodging that is provided for a shift worker who is required in the performance of their employment duties periodically to sleep at their workplace when the accommodation is provided only for the duration of the performance of those duties, for example, fire-fighters, ambulance staff, care-givers, and other similar employees:
+    (iv) the use of a room or other dwelling provided at a remote location outside New Zealand when a person's employment duties require them to work at the location for a period and also require them to be absent from the location for a period, for example, miners in Australia who regularly fly to and from a mining camp and other similar employees.
+Meaning of employer
+(3) Employer,—
+  (a) in this section, in sections CE 1B, and CW 16B to CW 16F, CZ 29, and CZ 30 (which relate to accommodation provided in connection with employment) and in the definition of employee, paragraph (e), includes a person, whether resident or non-resident, who, in connection with the employment or service of an employee of the employer,—
+    (i) provides accommodation for the employee at a distant workplace; or
+    (ii) pays an amount for the employee's accommodation at a distant workplace:
+  (b) in sections CW 16B to CW 16F, CZ 29, and CZ 30, includes a company that is part of the same group of companies as the employer.
+Amendment of exclusions by Order in Council
+(4) For the purposes of subsection (2), the Governor-General may by Order in Council make regulations to add to the types of accommodation that are excluded by paragraph (b) of the definition of accommodation from the rules relating to accommodation provided in connection with employment.
+Application of Order in Council
+(5) An Order in Council under subsection (4) may—
+  (a) come into force on a date that is not earlier than 1 April 2015:
+  (b) apply for income years that do not precede the 2015–16 income year.
+
+### CE 1B General rule: accommodation provided by employers
+Value of accommodation
+(1) The value of accommodation provided to a person is income of the person when it is provided in relation to their employment or service. The value is an amount equal to the market rental value of the accommodation.
+Value of accommodation allowances
+(2) The value of an accommodation allowance provided to a person is income of the person when it is provided in relation to their employment or service. The value is equal to the amount of the allowance paid to the person.
+Payments and reimbursements
+(3) An amount paid for or towards the provision of accommodation for a person, whether as expenditure on account of an employee or as a reimbursement, is income of the person when it is paid in relation to their employment or service.
+Adjustments to values
+(4) The value under subsection (1) may be adjusted as follows:
+  (a) when more than 1 person referred to in that subsection shares in the accommodation provided, the amount may be—
+    (i) apportioned equally among the number of persons referred to in that subsection who are sharing in the accommodation; or
+    (ii) if the persons referred to in that subsection who are sharing in the accommodation agree with the person providing the accommodation, apportioned on another reasonable basis:
+  (b) when the person to whom the accommodation is provided contributes towards their occupation of the accommodation, the amount may be reduced by the amount contributed:
+  (c) when the person to whom the accommodation is provided uses part of the accommodation wholly or mainly for work purposes related to their employment or service, the amount may be apportioned between business use and private use.
+Adjustments: allowances and amounts paid
+(5) Subsection (4)(b) and (c) may apply to adjust the value of an accommodation allowance or an amount paid for or towards the provision of accommodation under subsections (2) and (3).
+Exceptions
+(6) Sections CE 1C and CE 1E override this section.
+
+### CE 1C Exception: overseas accommodation
+Relevant local rental
+(1) Despite section CE 1B(1), if accommodation is provided at or near a work location that is overseas, the value of the accommodation is an amount equal to the relevant market rental value of accommodation in New Zealand. The relevant market rental value is determined taking into account—
+  (a) the location where the person would be likely to work for their employer in New Zealand; and
+  (b) the equivalent accommodation in New Zealand that the person would be likely to occupy; and
+  (c) the average or median market rental value in the vicinity of the location referred to in paragraph (a).
+When overseas rental is less than New Zealand equivalent
+(2) For the purposes of subsection (1), if the value of the accommodation in the overseas location is less than the New Zealand equivalent market rental value, the value that must be used is the value in the overseas location.
+When location in New Zealand is uncertain
+(3) For the purposes of subsection (1)(a), if the location where the person would be likely to work for their employer in New Zealand is uncertain, the relevant market rental value is taken as either the average market rental value or the median market rental value, as applicable, for the whole of New Zealand.
+
+### CE 1D Exception: accommodation provided by Defence Force
+When this section applies
+(1) This section applies for the purposes of section CE 1B(1) when accommodation is provided to a person who is a member of the Defence Force by the Navy, Army, or Air Force, as those terms are defined in the Defence Act 1990.
+Market rental value
+(2) The market rental value of the accommodation is an amount equal to the lesser of—
+  (a) the market rental value for the accommodation; and
+  (b) the market rent payable for the national New Zealand Defence Force benchmark property for the type of accommodation provided to the person, less the discount applying to the type of accommodation.
+National benchmark properties and discounts
+(3) For the purposes of this section, the Commissioner and the Chief of the Defence Force, in consultation with a registered valuer, must determine—
+  (a) the number and location of national benchmark properties:
+  (b) the types of accommodation represented by the benchmark properties:
+  (c) a market rental value for each type of accommodation in the benchmark properties:
+  (d) a discount applying to each type of accommodation in the benchmark properties.
+Three-yearly review
+(4) A determination under subsection (3)(c) and (d) must be reviewed every 3 years. Either the Commissioner or the Chief of the Defence Force may instigate the review.
+
+### CE 1E Exception: accommodation provided to ministers of religion
+Income
+(1) Despite section CE 1B(1) and to the extent described in subsection (2), the value of accommodation that is provided to a person who is a minister of religion is income of the person when the property in which the accommodation is provided is supplied by the religious society or organisation of which they are a minister.
+Limited amount
+(2) The amount of income for an income year is calculated using the formula—remuneration × (1 − adjustment) + excess rental.
+Definition of items in formula
+(3) In the formula,—
+  (a) remuneration is the amount that equals 10% of the remuneration that the person receives for the income year for the performance of their duties as a minister from the religious society or organisation of which they are a minister:
+  (b) adjustment is the adjustment referred to in subsection (4), and is the part of the amount that is the value of the accommodation for the income year apportioned to work-related use, expressed as a decimal fraction of the total value of the accommodation:
+  (c) excess rental is the amount that is not less than zero that is the difference between—
+    (i) the market rental value for the income year of the accommodation provided; and
+    (ii) the market rental value for the income year of accommodation that is reasonably commensurate with the duties of the person as a minister and for the location in which they perform their duties.
+Adjustments
+(4) An adjustment referred to in subsection (3)(b) is as follows:
+  (a) if the person to whom the accommodation is provided uses part of the accommodation wholly or mainly for work purposes related to their duties as a minister, the amount is apportioned between that business use and private use:
+  (b) if more than 1 person referred to in subsection (1) shares in the accommodation provided, the amount is apportioned equally between them.
+Part-year
+(5) For the purposes of this section, if accommodation is provided for part of an income year, the reference to income year is read as a reference to the relevant part of the income year.
+Meaning of minister of religion
+(6) For the purposes of this section, minister of religion—
+  (a) means a person—
+    (i) who is ordained, commissioned, appointed, or otherwise holds an office or position, regardless of their title or designation, as a minister of a religious denomination or community that meets the charitable purpose of the advancement of religion; and
+    (ii) whose duties are related mainly to the practice, study, teaching, or advancement of religious beliefs; and
+    (iii) whose accommodation is used as an integral part of performing their duties:
+  (b) does not include a member of a religious society or order referred to in section CW 25 (Value of board for religious society members).
 
 ### CE 2 Value and timing of benefits under share purchase agreements
 What this section does
@@ -1889,9 +1994,17 @@ Inclusion
 Exclusions
 (3) Expenditure on account of an employee does not include—
   (a) expenditure for the benefit of an employee, or a payment made to reimburse an employee, under section CW 17 (Expenditure on account, and reimbursement, of employees):
-  (b) an allowance for additional transport costs under section CW 18 (Allowance for additional transport costs):
-  (bb) an amount paid under section CW 17B (Relocation payments) or section CW 17C (Payments for overtime meals and certain other allowances):
-  (c) expenses that an employee pays in connection with their employment or service to the extent to which the expenditure is their employer’s liability, if the employee undertakes to discharge the liability in consideration of the making of the payment by the employer:
+  (b) an amount paid under—
+    (i) sections CW 16B to CW 16F (which relate to accommodation expenditure):
+    (ii) section CW 17B (Relocation payments):
+    (iii) section CW 17C (Payments for overtime meals and certain other allowances):
+    (iv) section CW 17CB (Payments for certain work-related meals):
+    (v) section CW 17CC (Payments for distinctive work clothing):
+    (vi) section CW 18 (Allowance for additional transport costs):
+  (bb)
+  (c) expenditure, other than an amount to which paragraph (a) applies, that an employee pays in connection with their employment or service to the extent to which—
+    (i) the amount of the expenditure is incurred by or on behalf of their employer; and
+    (ii) the employee pays the amount on their employer's behalf:
   (d) expenditure on an employment-related loan to which the fringe benefit tax (FBT) rules apply:
   (e) an employer’s superannuation contribution:
   (f) a premium that an employer pays on a life insurance policy taken out for the benefit of the employee, or their spouse, civil union partner, de facto partner, or their child, if—
@@ -2100,7 +2213,7 @@ Definition of items in formula in subsection (14)
 Formula method: assessable withdrawal amount
 (16) The assessable withdrawal amount under the formula method is the amount calculated using the formula—gain × (grow rate − 1) × tax rate × (assessable years − 1) + gain.
 Formula method: grow rate
-(17) In the formula in subsection (16), grow rate is the amount calculated using the formula—()1accrued totalassessable years.value
+(17) In the formula in subsection (16), grow rate is the amount calculated using the formula—
 Definition of other items in formulas in subsections (16) and (17)
 (18) In the formulas in subsections (16) and (17),—
   (a) gain is the amount of the distributed gain referred to in subsection (12) for the foreign superannuation withdrawal:
@@ -3329,19 +3442,137 @@ The following are exempt income:
   (a) the allowance of the Governor-General, paid under section 6 of the Governor-General Act 2010:
   (b) any benefit or privilege provided under an agreement made under section 11(1) of the Governor-General Act 2010 or an agreement referred to in section 28(1)(d) of that Act.
 
+### CW 16B Accommodation expenditure: out-of-town secondments and projects
+When this section applies
+(1) This section applies when—
+  (a) the employment duties of an employee require them to work at a distant workplace on an out-of town secondment or a project of limited duration; and
+  (b) the period of the employee's employment or service at the distant workplace is a period of continuous work; and
+  (c) the employer—
+    (i) provides accommodation for the employee for a period that falls within a time limit described in section CW 16C:
+    (ii) incurs expenditure on the employee's accommodation at the distant workplace for a period that falls within a time limit described in section CW 16C:
+    (iii) incurs expenditure on the employee's accommodation for necessary travel to and from the distant workplace in connection with the performance of their duties.
+Exclusions
+(2) This section does not apply—
+  (a) to an amount that is the value provided or expenditure incurred by the employer when, under the terms of the their employment, the employee would be entitled to a greater amount of employment income, should the employee choose, or have chosen, not to receive the benefit of the amount:
+  (b) in relation to an out-of-town secondment, to a new employee of the employer.
+Exempt income
+(3) The amount that is the value provided or expenditure incurred by the employer is exempt income of the employee.
+Estimated expenditure
+(4) For the purposes of subsection (1)(c)(ii),—
+  (a) an employer may make, for a relevant period, a reasonable estimate of the amount of expenditure likely to be incurred on an employee's accommodation; and
+  (b) the amount estimated is treated as if it were the amount incurred during the period to which the estimate relates.
+Definitions for this section
+(5) In this section and sections CW 16C to CW 16F, CW 17CB, CZ 29, and CZ 30 (which relate to accommodation expenditure), as applicable,—
+  - **distant workplace** , for an employee, means a workplace that—
+    (a) is another workplace of the employee; and
+    (b) is not within reasonable daily travelling distance of their residence
+  - **out-of-town secondment** means the placement of an employee at a distant workplace—
+    (a) because the employment duties of the employee require them to work at the distant workplace for the performance of those duties; and
+    (b) for a period that, in their employer's expectation at the start of the period of secondment, will last for no more than 2 years
+  - **period of continuous work** —
+    (a) means a period when an employee has ongoing duties of employment that must be performed to a significant extent at a distant workplace, requiring the employee to stay at the distant location for 1 or more nights; and
+    (b) includes the employee's time away on leave or other breaks for personal reasons, weekend breaks, required rest periods, and other similar periods
+  - **project of limited duration** means a particular work project—
+    (a) whose principal purpose is to create, build, develop, restore, replace, or demolish a capital asset; and
+    (b) which is carried out under a contract between an employer and 1 or more persons who are not associated with the employer; and
+    (c) in relation to which the engagement of an employee of the employer at the distant workplace—
+      (i) has, at the outset, clear start and end dates; and
+      (ii) involves work that, apart from incidental activities, is undertaken solely for the purposes of the project; and
+      (iii) in their employer's expectation at the start of the project, will last for a period of no more than 3 years
+  - **workplace** means a particular place or base—
+  (a) at which an employee performs their employment duties; or
+  (b) from which an employee's duties are allocated.
+
+### CW 16C Time periods for certain accommodation expenditure
+Time limits: out-of-town secondments
+(1) Section CW 16B applies for an employee on an out-of-town secondment to the value provided or expenditure incurred for a period that starts on the date on which the employee begins to work at a distant workplace, and ends at the earliest of the following dates:
+  (a) the date that is 2 years from the date on which they began work at the distant workplace:
+  (b) the date on which the out-of-town secondment ends:
+  (c) the date on which the employee receives a relocation payment under section CW 17B in relation to the costs associated with settling the purchase of a new home:
+  (d) the date on which the employer's expectation regarding the length of the period changes, and the total period is expected to be more than 2 years.
+Time limits: projects of limited duration
+(2) Section CW 16B applies for an employee on a project of limited duration to the value provided or expenditure incurred for a period that starts on the date on which the employee starts work at a distant workplace, and ends at the earliest of the following dates:
+  (a) the date that is 3 years from the date on which the employee began work on the project at the distant workplace:
+  (b) the date on which the employee's participation in the project at the distant workplace ends:
+  (c) the date on which the employee receives a relocation payment under section CW 17B in relation to the costs associated with settling the purchase of a new home:
+  (d) the date on which the employer's expectation regarding the employee's involvement in the project changes, and the total period of their involvement in the project is expected to be more than 3 years.
+When subsection (4) applies: time limits when expectations change
+(3) Subsection (4) applies for a placement of an employee at a distant workplace when—
+  (a) the employment duties of the employee require them to work for a period of time at the distant workplace for the performance of those duties; and
+  (b) the terms of the placement of the employee meet the requirements of an out-of-town secondment or project of limited duration, as applicable, other than the requirement related to the limitation on the length of the period for which the employee is to remain at the distant workplace; and
+  (c) the expectation of their employer at the start of the period is that the duration of the secondment or project will exceed the applicable time limit; and
+  (d) during the period, the employer revises their expectation of the period for the secondment or project, reducing its expected duration, and as a consequence, the requirements of an out-of-town secondment or project of limited duration, as applicable, are fully met.
+Period of exemption
+(4) Section CW 16B applies to the amount that is the value provided or expenditure incurred by the employer for the remainder of the period for which the employee is required to remain at the distant workplace under the out-of-town secondment or project of limited duration. For these purposes, the period starts on the date on which the employer revises their expectation, and ends at the earliest of the dates referred to in subsection (1)(a) to (d) or (2)(a) to (d), as applicable.
+Time limits in exceptional circumstances
+(5) A time limit does not apply if exceptional circumstances arise beyond the control of the employer and employee that require the employee to remain at the distant workplace after the period expires. Examples are a natural disaster or medical emergency. However, an extension of time must be limited to the period for which the employee is unable, because of the exceptional circumstances, to leave the distant workplace.
+Avoidance provision
+(6) For the purposes of determining whether a time limit under this section applies, a break in a period of continuous work at a distant workplace is ignored if a reason, that is more than incidental, for the cessation of the employment or service is to allow a further period of exemption under section CW 16B or CZ 29 (Accommodation expenditure: Canterbury earthquake relief).
+
+### CW 16D Accommodation expenditure: conferences and overnight stays
+When this section applies
+(1) This section applies when—
+  (a) the employment duties of an employee require them to attend a work-related meeting, conference, or training course that entails an overnight stay; and
+  (b) the period for which the employee's attendance is required is a period of continuous work; and
+  (c) their employer—
+    (i) provides accommodation for the employee for the period of their attendance:
+    (ii) incurs expenditure on the employee's accommodation for the period of their attendance:
+    (iii) incurs expenditure on the employee's accommodation for necessary travel in connection with the performance of their duties for the period of their attendance.
+Exclusions
+(2) This section does not apply to an amount that is the value provided or expenditure incurred by the employer when, under the terms of their employment, the employee would be entitled to a greater amount of employment income, should the employee choose, or have chosen, not to receive the benefit of the amount.
+Exempt income
+(3) The amount that is the value provided or expenditure incurred by the employer is exempt income of the employee.
+Extended meaning of period of continuous work
+(4) For the purposes of this section, a period of continuous work may include a period in which an employee's duties of employment require them to stay for 1 or more nights at a location that is not distant from their regular workplace.
+
+### CW 16E Accommodation expenditure: new employees
+Despite section CW 16B(2)(b), section CW 16B applies to a new employee in the following circumstances:
+  (a) when the employer intends, at the time of employing the new employee, that the new employee would work permanently at a workplace of the employer that is not a distant workplace, but instead requires the employee to work temporarily at another of their workplaces that is a distant workplace:
+  (b) the new employee is on an out-of-town secondment to work—
+    (i) for a person with whom the employer has a continuing commercial affiliation or working relationship, and for the purposes of section CW 16B, the person is treated as the employer; and
+    (ii) for a period that is expected to be no more than 2 years; and
+    (iii) at a distant workplace that is the person's workplace.
+
+### CW 16F Accommodation expenditure: multiple workplaces
+When this section applies
+(1) This section applies when—
+  (a) the employment duties of an employee require them to work on an ongoing basis at more than 1 workplace; and
+  (b) 1 or more of those workplaces is a distant workplace; and
+  (c) in connection with the employee's employment or service, their employer provides accommodation or pays an amount for the employee's accommodation at the distant workplace.
+Exclusions
+(2) This section does not apply—
+  (a) to an amount that is the value provided or the payment by the employer when, under the terms of their employment, the employee would be entitled to a greater amount of employment income, should the employee choose, or have chosen, not to receive the benefit of the amount:
+  (b) when the employee has 2 workplaces and 1 of those workplaces is a home office.
+Exempt income
+(3) The amount that is the value provided or the payment by the employer is exempt income of the employee.
+
 ### CW 17 Expenditure on account, and reimbursement, of employees
 Exempt income: expenditure on account
 (1) Expenditure on account of an employee, being a payment to which section CE 5 (Meaning of expenditure on account of an employee) applies, that is incurred by an employer in connection with the employee’s employment or service is exempt income of the employee to the extent to which the expenditure is expenditure for which the employee would be allowed a deduction if they incurred the expenditure and if the employment limitation did not exist.
 Exempt income: reimbursement
 (2) An amount that an employer pays to an employee in connection with the employee’s employment or service is exempt income of the employee to the extent to which it reimburses the employee for expenditure for which the employee would be allowed a deduction if the employment limitation did not exist.
+Requirements for expenditure connected to employment or service
+(2B) For the purposes of subsections (1) and (2), expenditure is treated as incurred, or an amount paid, in connection with an employee's employment or service only if—
+  (a) the expenditure is incurred or the amount is paid because the employee is performing an obligation required by their employment or service; and
+  (b) the employee derives employment income through the performance of the obligation; and
+  (c) the expenditure is necessary in the performance of the obligation.
+When subsection (2D) applies
+(2C) Subsection (2D) applies for the purposes of subsections (2) and (3) to an amount that an employer pays to or on behalf of an employee in connection with their employment or service when—
+  (a) the payment—
+    (i) is made to, or on behalf of, a wide group or class of employees; and
+    (ii) is provided mainly to reimburse an expense incurred by an employee in deriving their employment income; and
+  (b) the amount paid is not an amount incurred by the employer when, under the terms of their employment, the employee would be entitled to a greater amount of employment income, should the employee choose, or have chosen, not to receive the benefit of the amount; and
+  (c) the Commissioner considers that the average private or capital benefit that the employee as a member of the group or class is likely to receive from the payment is hard to measure.
+Determinations
+(2D) The Commissioner may make a determination under section 91AAT of the Tax Administration Act 1994 as to whether, or the extent to which, tax must be paid on some or all of the amount.
 Estimated expenditure of employees
 (3) For the purposes of subsection (2),—
   (a) the employer may make, for a relevant period, a reasonable estimate of the amount of expenditure likely to be incurred by the employee or a group of employees for which reimbursement is payable; and
   (b) the amount estimated is treated as if it were the amount incurred during the period to which the estimate relates.
 Depreciation loss included
 (4) In this section, expenditure includes an amount of depreciation loss.
-Relationship with sections CW 17B and CW 17C
-(5) This section does not apply to an amount referred to in section CW 17B (Relocation payments) or CW 17C (Payments for overtime meals and certain other allowances).
+Relationship with certain employment expenses provisions
+(5) This section does not apply to an amount referred to in section CW 16B to CW 16F, CW 17B, CW 17C, CW 17CB, CW 17CC, or CW 18 (which relate to certain amounts of employment expenditure).
 
 ### CW 17B Relocation payments
 Exempt income
@@ -3389,6 +3620,36 @@ Actual cost or reasonable estimate
   (b) a reasonable estimate of the expenditure likely to be incurred by the employee or a group of employees for whom an amount is payable.
 Meaning of overtime
 (6) For the purposes of this section, overtime, for a person and a day, means time worked for an employer on the day beyond the person's ordinary hours of work as set out in their employment agreement.
+
+### CW 17CB Payments for certain work-related meals
+Exempt income
+(1) When the employment duties of an employee require them to work away from their employer's workplace, expenditure that the employer incurs for or on behalf of the employee for a meal for the employee is exempt income of the employee. For these purposes, expenditure includes a reimbursement payment or a meal allowance.
+Inclusions: work-related events
+(2) For the purposes of subsection (1), a meal includes—
+  (a) food and drink that the employee consumes as part of a working meal arranged as part of or as an alternative to a formal meeting for business discussions:
+  (b) food and drink that the employee consumes at a conference or training course:
+  (c) light refreshments in the form of snack foods such as biscuits and fruit, or liquid refreshments such as tea, coffee, water, or similar refreshments, provided for the employee, but only if—
+    (i) their employment duties require them to be away from their employment base for most of the day; and
+    (ii) the employer would normally provide the refreshments to the employee on the day; and
+    (iii) it is not practicable for the employer to provide the refreshments on the day.
+Inclusions: meals when travelling on business
+(3) For the purposes of subsection (1), a meal also includes food and drink that the employee consumes when their employment duties require them to travel in the performance of those duties.
+Exclusion: salary sacrifice
+(4) Subsection (1) does not apply if expenditure is incurred by the employer when, under the terms of their employment, the employee would be entitled to a greater amount of employment income, should the employee choose, or have chosen, not to receive the benefit of the expenditure.
+Time limit
+(5) The maximum period applying to expenditure incurred under subsection (1) other than expenditure on a meal described in subsection (2), is 3 months—
+  (a) commencing—
+    (i) on the date on which the employee starts to work away from their employer's workplace; or
+    (ii) for an employee who does not have a fixed workplace, on the date on which they arrive at their accommodation base:
+  (b) ending on the earlier of—
+    (i) the date on which the 3-month period expires; or
+    (ii) the date on which the employee returns to their employer's workplace to undertake their employment duties for their employer, or the date on which the employee moves to a new accommodation base, as applicable.
+Measuring period
+(6) In the measurement of the maximum period in subsection (5), the period includes the employee's time away on leave or other breaks for personal reasons, weekend breaks, required rest periods, and other similar periods.
+Time limits in exceptional circumstances
+(7) The time limit referred to in subsection (5) does not apply if exceptional circumstances arise beyond the control of the employer and employee that require the employee to continue to work away from their employer's workplace after the period expires. However, an extension of time must be limited to the period for which the employee is unable, because of the exceptional circumstances, to return to their employer's workplace.
+Relationship with FBT rules
+(8) To the extent to which the expenditure of an employer described in subsection (1) gives rise to a fringe benefit, the fringe benefit tax rules override this section.
 
 ### CW 17CC Payments for distinctive work clothing
 Exempt income
@@ -3975,7 +4236,7 @@ Exempt income
   (b) ends on 31 December 2019.
 Some definitions
 (2) In this section,—
-  - **exploration and development activities** ––
+  - **exploration and development activities** —
     (a) means the following activities undertaken for the purposes of identifying and developing exploitable petroleum deposits or occurrences in an offshore permit area:
       (i) operating a ship to provide seismic or electromagnetic survey readings:
       (ii) drilling an exploratory well or other well; but
@@ -4288,7 +4549,7 @@ When not fringe benefit
   (b) an allowance that reimburses the employee for transport costs that—
     (i) would have been incurred both in connection with their employment and for the benefit of the employer in travelling between home and work; and
     (ii) would have been attributable to any 1 or more of the factors set out in section CW 18(3) (Allowance for additional transport costs); or
-  (c) an amount that, if it had been paid, would have been exempt income under section CW 17B (Relocation payments).
+  (c) an amount that, if it had been paid, would have been exempt income under sections CW 16B to CW 16F, CW 17B, CW 17CB, and CW 17CC (which relate to certain expenditure of an employer on an employee's accommodation, work-related meals, relocation, and clothing).
 Temporary change in workplace
 (2) A benefit that an employer provides to an employee is not a fringe benefit if it—
   (a) is in substitution for an allowance described in subsection (1)(b); and
@@ -5398,11 +5659,11 @@ Link with subpart DA
   (a) the general permission; and
   (b) the exempt income limitation.
 
-### DB 10 Interest or expenditure connected to profit-related or substituting debentures
+### DB 10 Interest or expenditure connected to profit-related debentures
 When this section applies
 (1) This section applies for the purposes of section FA 2 (Recharacterisation of certain debentures).
 No deduction
-(2) A company issuing either a profit-related debenture or a substituting debenture is denied a deduction for—
+(2) A company issuing a profit-related debenture is denied a deduction for—
   (a) interest payable under the debenture; or
   (b) expenditure or loss incurred in connection with the debenture; or
   (c) expenditure or loss incurred in borrowing the money secured by or owing under the debenture.
@@ -5513,7 +5774,7 @@ Link with subpart DA
 ### DB 20B Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence
 When this section applies
 (1) This section applies when—
-  (a) a person (the payer) incurs an amount of expenditure as consideration for the agreement by another person (the payee) to the grant, renewal, extension, or transfer of a right (the land right) that is a leasehold estate, or a licence to use land; and
+  (a) a person (the payer) incurs an amount of expenditure as consideration for the agreement by another person (the payee) to the grant, renewal, extension, or transfer of a right (the land right) that is a leasehold estate not including a perpetual right of renewal, or is a licence to use land; and
   (b) the payer is the person who owns—
     (i) the land right:
     (ii) the estate in land from which the land right is granted; and
@@ -6607,7 +6868,7 @@ Conference expenditure
 (2) The limitation rule does not apply to a deduction for expenditure on light refreshments at a conference or educational course or similar event, nor to food or drink consumed at such an event lasting for at least 4 consecutive hours, excluding meal times. However, the limitation rule applies if the event is mainly for the purpose of entertainment.
 Relocation expenses, employees' meals, and sustenance allowances
 (3) The limitation rule does not apply to a deduction for expenditure on—
-  (a) an amount that is exempt income of an employee under sections CW 17B and CW 17C (which relate to relocation expenses, expenditure on overtime meals, and sustenance allowances):
+  (a) an amount that is exempt income of an employee under sections CW 17B, CW 17C, and CW 17CB (which relate to relocation expenses and expenditure on meals):
   (b) a light meal consumed as part of the employee’s employment duties in an area of the person’s business premises that at the time is reserved for senior employees and their guests to use and is not open to all the person’s employees working in the premises.
 
 ### DD 5 Promoting businesses, goods, or services
@@ -6648,7 +6909,7 @@ Sections DD 2 to DD 8 override the fringe benefit tax (FBT) rules. However, the 
 
 ### DD 10 Interpretation: reimbursement and apportionment
 In sections DD 2 to DD 8,—
-  (a) a person is treated as having incurred expenditure on entertainment described in section DD 2 if they pay an allowance for, or reimburse an employee’s expenditure on, the entertainment, and the allowance or reimbursement is exempt income under sections CW 17, CW 17B, and CW 17C (which relate to expenditure and reimbursement of employees):
+  (a) a person is treated as having incurred expenditure on entertainment described in section DD 2 if they pay an allowance for, or reimburse an employee’s expenditure on, the entertainment, and the allowance or reimbursement is exempt income under sections CW 17, CW 17B, CW 17C, and CW 17CB (which relate to expenditure and reimbursement of employees):
   (b) if a person incurs expenditure that relates only partly to the entertainment, the expenditure must be apportioned appropriately.
 
 ### DD 11 Some definitions
@@ -7865,8 +8126,8 @@ No deduction: Maori investment company
 (2) A Maori investment company is denied a deduction for interest to which both the following apply:
   (a) it is paid by the company under a qualifying debenture issued by the company; and
   (b) it is exempt income of the person deriving it, under section CW 3.
-Relationship with sections FA 2 and FA 2B
-(3) Section FA 2 (Recharacterisation of certain debentures), as it applies to substituting debentures, and section FA 2B (Stapled debt securities) do not apply to a qualifying debenture.
+Relationship with section FA 2B
+(3) Section FA 2B (Stapled debt securities) does not apply to a qualifying debenture.
 Link with subpart DA
 (4) This section overrides the general permission.
 
@@ -9369,7 +9630,7 @@ Unexpired portion: expenditure on services
 Unexpired portion: expenditure on choses in action
 (6) An amount of expenditure on a chose in action is unexpired at the end of an income year if the amount relates to a period of enforceability of the chose in action falling after the income year.
 Allowances reimbursing employees
-(7) In the case of expenditure subject to sections CW 17, CW 17B, CW 17C, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees), this section applies on the basis that the relevant services were performed in the income year in which the employee’s expenditure is expected to occur.
+(7) In the case of expenditure subject to sections CW 16B to CW 16F, CW 17, CW 17B, CW 17C, CW 17CB, CW 17CC, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees), this section applies on the basis that the relevant services were performed in the income year in which the employee’s expenditure is expected to occur.
 Commissioner’s discretionary relief
 (8) The Commissioner may excuse a person from complying with this section under section 91AAC of the Tax Administration Act 1994.
 
@@ -10565,6 +10826,7 @@ Property: geothermal wells
 ### EE 7 What is not depreciable property?
 The following property is not depreciable property:
   (a) land other than depreciable intangible property, although buildings, fixtures, and the improvements listed in schedule 13 (Depreciable land improvements) are depreciable property if they are described by section EE 6(1):
+  (ab) a lease of land with a perpetual right of renewal:
   (b) trading stock:
   (c) livestock to which subpart EC (Valuation of livestock) applies:
   (d) financial arrangements:
@@ -10932,7 +11194,7 @@ Procedure for setting economic rate
     (i) the rate calculated for each kind; and
     (ii) the reduction in compliance costs that is likely to be achieved.
 Formula
-(4) The formula is—(()1).1−residual valueestimated useful lifecost
+(4) The formula is—
 Definition of items in formula
 (5) In the formula,—
   (a) residual value is the greater of—
@@ -11649,11 +11911,14 @@ In this Act,—
   - **improvement** means an alteration, extension, or repair of an item of depreciable property that increases its capital value
   - **international aircraft** means a jet-engined aircraft that a person uses in an income year mainly in regular commercial service to transport passengers between New Zealand and any other place
   - **legal life,** —
-    (a) for an item to which paragraphs (b) and (c) do not apply, means the number of years, months, and days for which an owner’s interest in an item of intangible property exists under the contract or statute that creates the owner’s interest, assuming that the owner exercises any rights of renewal or extension that are either essentially unconditional or conditional on the payment of predetermined fees:
+    (a) for an item to which paragraphs (b) to (d) do not apply, means the number of years, months, and days for which an owner’s interest in an item of intangible property exists under the contract or statute that creates the owner’s interest, assuming that the owner exercises any rights of renewal or extension that are either essentially unconditional or conditional on the payment of predetermined fees:
     (b) for an item that is a patent application or a patent, means the legal life under paragraph (a) that a patent would have if granted when a patent application is first lodged:
     (c) for an item that is plant variety rights, means the total of—
       (i) the legal life that the rights would have under paragraph (a); and
-      (ii) the number of whole calendar months during which the person owns the plant variety rights application in relation to which the rights are granted
+      (ii) the number of whole calendar months during which the person owns the plant variety rights application in relation to which the rights are granted:
+    (d) for a person and a right (a land right) that is a leasehold estate, or a licence to use land, means the number of years, months, and days for which the person or an associated person has an owner's interest in the land right, or in a consecutive or successive land right, under the contract or statute that creates the owner's interest, determined—
+      (i) when the person acquires the owner's interest; and
+      (ii) assuming that the person or associated person exercises rights of renewal, extension, or further grant that are either essentially unconditional or conditional on the payment of predetermined fees
   - **petroleum-related depreciable property** means depreciable property that is—
     (a) petroleum drilling rigs; or
     (b) support vessels for offshore petroleum drilling rigs; or
@@ -12768,20 +13033,30 @@ Ownership of part of land ceasing
 When this section applies
 (1) This section applies when a person derives, in a tax year, income in anticipation from fines, premiums, a payment of goodwill on the grant of a lease, or in another similar way.
 Timing of income
-(2) The Commissioner may allocate the income between the income year in which the person derives it and any 5 later income years.
+(2) The person may choose to—
+  (a) divide the income into 6 equal portions; and
+  (b) allocate a portion to the income year in which they derive the amount; and
+  (c) similarly allocate a portion to each of the next 5 income years.
 Notice
 (3) The following provisions apply to an allocation for the purposes of subsection (2):
-  (a) the person must give a notice to the Commissioner requesting the Commissioner to make the allocation:
+  (a) the person must notify the Commissioner of their election:
   (b) the person must give the notice in the tax year following the tax year to which the income year of derivation corresponds:
   (c) the Commissioner may cancel the allocation at any time.
 Cancellation of allocation
 (4) If the Commissioner cancels the allocation, the income allocated to the income year in which the cancellation occurs and to future income years is allocated to the income year before the income year in which the cancellation occurs.
+Transitional provision: 2015–16 and later income years
+(5) Despite subsection (2), when a person has derived an amount of income to which this section applies before the 2015–16 income year, and all or part of that amount remains unallocated at the start of that income year, the person must—
+  (a) if the period of 5 income years after the income year of derivation has expired by the start of the 2015–16 income year, allocate the remaining amount to the 2015–16 income year; or
+  (b) if the period of 5 income years after the income year of derivation has not expired before the start of the 2015–16 income year, divide the remaining amount into equal portions based on the number of income years left in the period, and allocate a portion to each of those income years falling after the end of the 2014–15 income year.
 
 ### EI 8 Disposal of land to the Crown
 When this section applies
 (1) This section applies when a person derives income from disposing of any of their land to the Crown.
 Timing of income
-(2) The person may choose to allocate the income between the income year in which they derive it and any 3 later income years.
+(2) The person may choose to—
+  (a) divide the income into 4 equal portions; and
+  (b) allocate a portion to the income year in which they derive the amount; and
+  (c) similarly allocate a portion to each of the next 3 income years.
 Timing of deduction
 (3) If the person allocates income to 2 or more income years, they must allocate part of any deduction allowed for the cost of the land to the same income years. The part must bear the same proportion to the total deduction as the allocated income bears to the total amount of income.
 Application
@@ -12794,6 +13069,10 @@ Cancellation of allocation
 (5) If the Commissioner cancels the allocation,—
   (a) the whole of the income or deduction, as applicable, is allocated to the income year before the income year in which the cancellation occurs:
   (b) the cancellation does not affect income or a deduction that has been allocated to an earlier income year.
+Transitional provision: 2015–16 and later income years
+(6) Despite subsection (2), when a person has derived an amount of income to which this section applies before the 2015–16 income year, and all or part of that amount remains unallocated at the start of that income year, the person must—
+  (a) if the period of 3 income years after the income year of derivation has expired before the start of the 2015–16 income year, allocate the remaining amount to the 2015–16 income year; or
+  (b) if the period of 3 income years after the income year of derivation has not expired before the start of the 2015–16 income year, divide the remaining amount into equal portions based on the number of income years left in the period, and allocate a portion to each of those income years falling after the end of the 2014–15 income year.
 
 ### EI 9 Matching rule for employment income of shareholder-employee
 Matching if company allowed deduction
@@ -13147,7 +13426,7 @@ Start and end dates
 When this section applies
 (1) This section applies for the purposes of section EJ 20B(4)(a) for the item rate in the formula that determines the amount of the deduction a mineral miner is allowed for an income year that falls in the spreading period described in section EJ 20C.
 Formula for straight-line rate
-(2) The formula for the straight-line rate is—100% assumed life.
+(2) The formula for the straight-line rate is—100%assumed life.
 Definition of item in formula
 (3) In the formula, assumed life, for an amount of expenditure and an income year, is the period that is the lesser of the following periods:
   (a) the period that—
@@ -13389,7 +13668,7 @@ Definition of items in formula
 (4) In the formula,—
   (a) amount is the amount of the refund:
   (b) tax rate is the highest rate of income tax on taxable income that—
-    (i) is set out in schedule 1 ( Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits); and
+    (i) is set out in schedule 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits); and
     (ii) would apply to the person for the tax year if the person had sufficient taxable income.
 Amount of refund if expenditure incurred
 (5) If a person is entitled to a refund under subsection (2)(a), the amount that the Commissioner must refund to the person is the smallest of—
@@ -15751,7 +16030,7 @@ Application of formula
   (e) a numerator or denominator that is a negative number is treated as being zero; and
   (f) the amount calculated using the formula is zero if the denominator is zero.
 Formula
-(4) The amount that determines whether the CFC is a non-attributing active CFC is calculated using the formula— attributable − attributable adjustmentsgross − gross adjustments.
+(4) The amount that determines whether the CFC is a non-attributing active CFC is calculated using the formula—attributable − attributable adjustmentsgross − gross adjustments.
 Definition of items in formula
 (5) The items in the formula are defined in subsections (6) to (9).
 Attributable
@@ -15818,7 +16097,7 @@ Application of formula
     (ii) otherwise converted between currencies under the applicable accounting standard; and
   (h) a numerator that is a negative number is treated as being zero.
 Formula
-(5) The amount that determines whether the CFC is a non-attributing active CFC is calculated using the formula— reported passive + added passive − removed passive reported revenue + added revenue − removed revenue.
+(5) The amount that determines whether the CFC is a non-attributing active CFC is calculated using the formula—reported passive + added passive − removed passivereported revenue + added revenue − removed revenue.
 Definition of items in formula
 (6) The items in the formula are defined in subsections (7) to (12).
 Reported passive
@@ -18307,7 +18586,7 @@ Procedure for setting economic rate
     (i) the rate calculated for each kind; and
     (ii) the reduction in compliance costs that is likely to be achieved.
 Formula
-(4) The formula is—(()1).1−residual valueestimated useful lifecost
+(4) The formula is—
 Definition of items in formula
 (5) In the formula,—
   (a) residual value is the greater of—
@@ -18347,7 +18626,7 @@ Effect of acquiring item of replacement property if suspended recovery income fr
 Amount of reduction: expenditure on replacement item and suspended recovery income
 (4) The amount of the reduction under subsection (3)(a) or (b) for a replacement item and an affected class of affected property for which the person does not use the pool method is—
   (a) zero, if the cost of the affected class equals or is less than the person's total expenditure in acquiring, before the replacement item, other replacement property linked with the affected class; or
-  (b) the amount calculated using the formula—limited replacement cost × excess affected cost.
+  (b) the amount calculated using the formula—limited replacement cost × excessaffected cost.
 Definition of items in formula
 (5) In the formula,—
   (a) limited replacement cost is the lesser of the following:
@@ -19533,9 +19812,9 @@ This subpart alters the tax treatment of certain commercial arrangements by—
 
 ### FA 2 Recharacterisation of certain debentures
 Treatment of debenture and interest
-(1) A profit-related debenture or a substituting debenture is treated for tax purposes as a share described in paragraph (b) of the definition of share in section YA 1 (Definitions), and the interest payable under the debenture is treated as a dividend.
+(1) A profit-related debenture is treated for tax purposes as a share described in paragraph (b) of the definition of share in section YA 1 (Definitions), and the interest payable under the debenture is treated as a dividend.
 No deduction
-(2) A company issuing either a profit-related debenture or a substituting debenture is denied a deduction under section DB 10 (Interest or expenditure connected to profit-related or substituting debentures) for—
+(2) A company issuing a profit-related debenture is denied a deduction under section DB 10 (Interest or expenditure connected to profit-related debentures) for—
   (a) interest payable under the debenture; or
   (b) expenditure or loss incurred in connection with the debenture; or
   (c) expenditure or loss incurred in borrowing the money secured by or owing under the debenture.
@@ -19552,18 +19831,11 @@ Profit-related debenture
     (iii) economic, commodity, industrial, or financial indices, but the application of this subparagraph is subject to section FZ 1(3) (Treatment of interest payable under debentures issued before certain date):
   (c) does not include a debenture treated as a share under section FA 2B (Stapled debt securities).
 Substituting debenture
-(5) Substituting debenture—
-  (a) means a debenture issued by a company to a shareholder or class of shareholders of the company when the amount of the debenture is determined by reference to 1 or more of the following aspects of the shares in the company or another company held by the shareholder or class of shareholder at the time the debenture is issued or at an earlier time:
-    (i) the number of shares:
-    (ii) the available subscribed capital of the relevant company calculated under the slice rule set out in section CD 23 (Ordering rule and slice rule):
-    (iii) some other reference to the shares:
-  (b) includes a debenture issued to a shareholder or a class of shareholder when the amount of the debenture is determined by reference to 1 or more aspects of the shares as described in paragraph (a) held by the shareholder in a company other than that issuing the debenture, whether or not the company is being, or has been, liquidated:
-  (c) does not include a debenture that is a convertible note:
-  (d) does not include a debenture treated as a share under section FA 2B.
+(5)
 Shares or available subscribed capital in another company
 (6)
 Amount of debenture
-(7) For the purposes of subsection (5), the amount of the debenture means the principal sum secured by or owing under the debenture.
+(7)
 Terminating provisions
 (8) For the treatment of debentures issued before 8 pm New Zealand standard time on 23 October 1986, see section FZ 1.
 Relationship with agency rules
@@ -20139,13 +20411,15 @@ Financial arrangements: cash basis person
 ### Subpart FE — Interest apportionment on thin capitalisation
 
 ### FE 1 What this subpart does
-Interest apportionment
-(1) This subpart applies—
-  (a) to apportion certain interest expenditure between income having a source in New Zealand and other income for a New Zealand taxpayer who has a disproportionately high level of debt funding in relation to their worldwide interest expenditure and who—
+Interest adjustment
+(1) This subpart applies to adjust the effective level of interest deductions for a New Zealand taxpayer by treating the taxpayer as deriving income—
+  (a) if the taxpayer is not a foreign-owned bank and the level of debt in New Zealand of the taxpayer's New Zealand group (identified in sections FE 3 or FE 25 to FE 30) is disproportionately high, either by comparison with the total level of debt worldwide of the taxpayer's worldwide group (identified in sections FE 31 to FE 32) or, in some situations, by comparison with the level of the taxpayer's debt in New Zealand arising from debt funding provided by third parties, and the taxpayer—
     (i) is controlled by a single non-resident:
-    (ii) is a person (an outbound entity) with an income interest in a CFC or with an interest in a FIF that satisfies the requirements of section EX 35 (Exemption for interest in FIF resident in Australia) or for which the person uses the attributable FIF income method:
-    (iii) is a New Zealand resident who controls an outbound entity; and
-  (b) to prescribe an acceptable level of equity for a foreign-owned bank for the application of the interest apportionment rules.
+    (ii) is controlled by a non-resident owning body:
+    (iii) is controlled by a group of entities, including non-residents and entities controlled by non-residents, that act together:
+    (iv) is a person (an outbound entity) with an income interest in a CFC or with an interest in a FIF that satisfies the requirements of section EX 35 (Exemption for FIF resident in Australia) or for which the person uses the attributable FIF income method:
+    (v) is a New Zealand entity who controls an outbound entity; and
+  (b) if the taxpayer is a foreign-owned bank and the level of equity for the taxpayer's New Zealand banking group (identified in sections FE 33 to FE 37) is less than the acceptable threshold level.
 Structure of subpart
 (2) This subpart sets out—
   (a) the persons to whom the interest apportionment rules may apply:
@@ -20166,7 +20440,17 @@ Persons to whom interest apportionment rules may apply
   (c) a company that is resident in New Zealand if a non-resident has—
     (i) an ownership interest in the company of 50% or more:
     (ii) control of the company by any other means:
-  (d) the trustee of a non-complying trust settled by a non-resident if the value of the settlements made by them, including the value of all settlements made by a person associated with them, are 50% or more of the value of the settlements made on the trust:
+  (cb) a company that is resident in New Zealand if the company has members who make up a non-resident owning body for the company—
+    (i) holding total ownership interests in the company of 50% or more, determined as if the members in the non-resident owning body were associated persons:
+    (ii) having control of the company by any other means:
+  (cc) a company that is resident in New Zealand if a trustee who meets the requirements of paragraph (d) or (db)—
+    (i) holds total ownership interests in the company of 50% or more:
+    (ii) has control of the company by any other means:
+  (d) the trustee of a trust if 50% or more of the value of settlements made on the trust is from settlements made by—
+    (i) a non-resident or an associated person of a non-resident:
+    (ii) a person who is described in paragraphs (a) to (cc) or would be described by this paragraph or paragraph (db) if settlements made by the trustee and powers of appointment or removal held by the trustee were ignored:
+    (iii) a group of persons who act in concert, each of whom is described in paragraphs (a) to (cc) or would be described by this paragraph or paragraph (db) if settlements made by the trustee and powers of appointment or removal held by the trustee were ignored:
+  (db) the trustee of a trust if a person described in paragraphs (a) to (cc), or would be described by this paragraph or paragraph (d) if settlements made by the trustee and powers of appointment or removal held by the trustee were ignored, has the power to appoint or remove a trustee of the trust other than for the purpose of protecting a security interest:
   (e) a company that is resident in New Zealand and has—
     (i) an income interest in a CFC:
     (ii) an interest in a FIF that satisfies the requirements of section EX 35 (Exemption for interest in FIF resident in Australia):
@@ -20185,21 +20469,22 @@ Ownership interests
 Treatment of foreign companies
 (3) For the purposes of this section, a company resident in New Zealand is treated as being a non-resident company if it is treated under a double tax agreement as not being resident in New Zealand.
 Associated persons
-(4) For the purposes of subsection (1)(b)(ii), a non-resident who does not have a direct or an indirect ownership interest in a company and a relative resident in New Zealand are not associated persons in relation to the company.
+(4) A resident of New Zealand and a relative who is a non-resident are not associated persons—
+  (a) in relation to a company for the purposes of subsection (1)(b)(ii), if the non-resident does not have a direct or indirect ownership interest in the company:
+  (b) in relation to a trust for the purposes of subsection (1)(d)(i), if the non-resident has not made a settlement on the trust.
 New Zealand banking group of Crown-owned registered bank
 (5) If the members of the New Zealand banking group of a registered bank are given by section FE 36B, the interests held by a member of the group for the purposes of subsection (1)(e) and (f) do not include interests held by an associated person who is not a member of the group.
 
 ### FE 3 Interest apportionment for individuals
 Natural persons and trustees: inbound, not described in section FE 2(1)(g)
 (1) This subpart applies to a natural person or trustee not described in section FE 2(1)(g) with the following modifications:
-  (a) the New Zealand group of the natural person or trustee is made up of the natural person or trustee and all associated persons who—
+  (a) the New Zealand group of a natural person other than a trustee is made up of the person and all associated persons who—
     (i) are resident in New Zealand; or
     (ii) are carrying on business in New Zealand through a fixed establishment in New Zealand; or
     (iii) derive income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable:
-  (b) the worldwide group of the trustee is made up of the trustee and—
-    (i) the trustee's New Zealand group; and
-    (ii) all non-residents who are associated with the trustee or a member of the trustee's New Zealand group:
-  (c) in the calculation of the amount of the natural person's total assets, private and domestic assets are excluded.
+  (b) the amount of the total assets of a natural person is calculated excluding the person's private and domestic assets:
+  (c) the New Zealand group of a trustee is made up of the trustee and all companies identified under section FE 27 as being under the control of the trustee, other than a company with a New Zealand parent not determined under section FE 26(4D):
+  (d) the worldwide group of a trustee is made up of the trustee's New Zealand group.
 Natural persons and trustees: outbound, described in section FE 2(1)(g)
 (2) This subpart applies to a natural person or trustee described in section FE 2(1)(g) with the following modifications:
   (a) the New Zealand group of the natural person or trustee is made up of the natural person or trustee and all associated persons who are not excess debt outbound companies and are not included in a New Zealand group of an excess debt outbound company, and who—
@@ -20214,18 +20499,28 @@ Natural persons and trustees: outbound, described in section FE 2(1)(g)
   (c) in the calculation of the amount of the natural person's total assets, private and domestic assets are excluded.
 
 ### FE 4 Some definitions
-In this subpart,—
+Definitions
+(1) In this subpart,—
   - **excess debt entity** for an income year is a person who—
     (a) meets the requirements of section FE 2 in the income year; and
     (b) is not, at any time in the income year, a reporting bank for a New Zealand banking group, or part of a New Zealand banking group; and
     (c) is not a natural person other than a person acting as a trustee
   - **excess debt outbound company** for an income year is an excess debt entity that meets the requirements of section FE 2(1)(e) or (f), and none of the requirements of section FE 2(1)(a) to (d)
+  - **linked trustee** , for a person, is a trustee to whom the person has provided money under a settlement or arrangement
   - **natural person** for an income year is a natural person who—
     (a) meets the requirements of section FE 2 in the income year; and
     (b) is a person who is not acting as a trustee
+  - **non-resident owning body** , for a company and an income year, means a group consisting of 2 or more members who are each a non-resident or a person meeting the requirements of section FE 2(1)(cc), (d), or (db) and who each hold ownership interests in the company or have a linked trustee holding ownership interests in the company such that,—
+    (a) if the company, for each member of the group, owes money to the member (the member debt), or to the member's linked trustee (the trustee debt), or to a company (the subsidiary) in which the member or a linked trustee has ownership interests (the subsidiary debt),—
+      (i) the member debt for a member, expressed as a fraction of the total member debt for the company, corresponds to the ownership interests or direct ownership interests held by the member, expressed as a fraction of the ownership interests or direct ownership interests held by the members of the group:
+      (ii) the requirements of subparagraph (i) would be met if each of 1 or more members of the group were treated as holding the ownership interests in the company held by the member, and by linked trustees, and were treated as being owed the member debt, the trustee debt, and an amount for a subsidiary debt equal to the product of the subsidiary debt and the ownership interest held in the subsidiary:
+    (b) the company is not a widely-held company and the company is funded for the income year under an arrangement between the members of the group concerning debt (the member-linked funding) under financial arrangements meeting the requirements of section FE 18(3B)(b)(i) to (iii) for the members:
+    (c) the company has member-linked funding provided in a way recommended to, or implemented for, the members as a group by a person
   - **reporting bank** for a New Zealand banking group is a person who—
     (a) meets the requirements of section FE 2; and
     (b) is the person determined under section FE 37.
+Types of ownership interest
+(2) For the purposes of the definition of non-resident owning body, in determining the relationship between the amount of a company's debt relating to a member and the level of the ownership interests in the company relating to the member, the level of each type of ownership interest in the company is considered, despite section FE 39.
 
 ### FE 5 Thresholds for application of interest apportionment rules
 Threshold for excess debt entity
@@ -20327,7 +20622,7 @@ Limitation on election amount
 Who this section applies to
 (1) This section applies to a company or person that is required by section FE 5(1D) to apportion its interest expenditure for an income year under this section.
 Formula
-(2) The company or person is treated under section CH 9 (Interest apportionment: excess debt entity) as deriving from New Zealand in the income year an amount of income calculated for the income year using the formula—net interest×NZ group ratio − threshold ratioNZ group ratio.
+(2) The company or person is treated under section CH 9 (Interest apportionment: excess debt entity) as deriving from New Zealand in the income year an amount of income calculated for the income year using the formula—net interest ×NZ group ratio − threshold ratioNZ group ratio.
 Definition of items in formula
 (3) In the formula,—
   (a) net interest is the deductions for interest allowed to the company or person under sections DB 6 to DB 9 (which relate to deductions for interest) from a financial arrangement providing funds to the company or person, reduced by the income of the company or person from a financial arrangement on arm's-length terms providing funds to a person who meets the requirements of section FE 13(3):
@@ -20432,9 +20727,13 @@ Non-resident member of New Zealand group
 
 ### FE 13 Financial arrangements entered into with persons outside group
 When this section applies
-(1) This section applies when a natural person, a member of a natural person's New Zealand group, an excess debt entity, or a member of an entity's New Zealand group or worldwide group, enters into a financial arrangement with another person (person A) as described in this section and the financial arrangement—
-  (a) provides funds to person A; and
-  (b) would otherwise be included in the calculation of the debt percentage of the natural person, excess debt entity, New Zealand group, or worldwide group.
+(1) This section applies when—
+  (a) a person enters into a financial arrangement with another person (person A); and
+  (b) the person is a natural person, a member of a natural person's New Zealand group, an excess debt entity, or a member of an entity's New Zealand group or worldwide group; and
+  (c) in the absence of this section, the financial arrangement would be included in the calculation of the debt percentage of the natural person, excess debt entity, New Zealand group, or worldwide group; and
+  (d) the person—
+    (i) provides funds to person A under the financial arrangement:
+    (ii) is the trustee of a trust with no trust property other than financial arrangements and property incidental to financial arrangements.
 Reduction
 (2) In the calculation of the debt percentage of the New Zealand group and a worldwide group, the amount of total group debt and total group assets is reduced by the outstanding balance of the financial arrangement.
 Debt percentage of New Zealand group
@@ -20460,6 +20759,14 @@ When member not resident
 (3) If a member of a New Zealand group is not resident in New Zealand, the assets and debts of the member are included in a consolidation only to the extent to which the assets and debts are for the group member to—
   (a) carry on business in New Zealand through a fixed establishment in New Zealand:
   (b) derive income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable.
+When entity is part of more than 1 group
+(3B) If an entity (the common member) is, under sections FE 3 and FE 26 to FE 29, a member or part of a member of different New Zealand groups, the debts and assets of the common member are included under this subpart in the total group debt and total group assets of not more than 1 New Zealand group and in no worldwide group other than the worldwide group determined using that New Zealand group.
+Determining New Zealand group for common member's debts and assets
+(3C) For the purposes of subsection (3B), the debts and assets of the common member referred to in subsection (3B) are included with the debts and assets of the other members of the New Zealand group—
+  (a) given by section FE 26, in the absence of section FE 26(2)(bb) and (bc), (3)(d), (4D), and (6), for the common member; or
+  (b) if paragraph (a) does not specify 1 New Zealand group, chosen by the excess debt entity to which the interest apportionment rules are being applied for the common member and the excess debt entity.
+Determining worldwide group for common member's debts and assets
+(3D) For the purposes of subsection (3B), the debts and assets of the common member referred to in subsection (3B) are included with the debts and assets of the other members of the worldwide group given by sections FE 31 to FE 36B for the common member and the common member's New Zealand group under subsection (3C).
 Treatment of specified leases and particular interest expenditure
 (4) In this subpart, in the determination of total group debt and total group assets and the calculation of an amount for which a deduction is denied,—
   (a) a specified lease under section FZ 2 (Effect of specified lease on lessor and lessee) is treated as a financial arrangement that provides funds to the issuer; and
@@ -20494,8 +20801,18 @@ Meaning
   (c) market value, for trading stock that is valued at market value in calculating the person or entity’s income tax liability for the income year, or that of a member of the group; or
   (d) adjusted tax value of a personal property lease asset at the start of the income year, in the case of a specified lease or a finance lease that is not recognised as an asset under generally accepted accounting practice; or
   (e) if allowed under generally accepted accounting practice, a combination of the financial statement values and net current values.
+Investments to which subsection (1B) applies
+(1BA) Subsection (1B) applies to an investment—
+  (a) of a person (the relevant person) who is—
+    (i) the excess debt entity:
+    (ii) another member of the New Zealand group; and
+  (b) that is an investment—
+    (i) in a CFC in which the relevant person has an income interest:
+    (ii) in a FIF in which the relevant person has an interest meeting the requirements of section EX 35 (Exemption for interest for FIF resident in Australia) or for which the relevant person uses the attributable FIF income method:
+    (iii) of a trustee or natural person in a CFC through an income interest in the CFC of an associated person, if the associated person would be a member of the New Zealand group but for being an excess debt outbound company or being included in the New Zealand group of an excess debt outbound company:
+    (iv) of a trustee or natural person in a FIF, through an income interest of an associated person that meets the requirements of subparagraph (ii) for the FIF and the associated person as a relevant person, if the associated person would be a member of the New Zealand group but for being an excess debt outbound company or being included in the New Zealand group of an excess debt outbound company.
 CFC investments excluded
-(1B) If the excess debt entity or another member of the New Zealand group has an investment in a CFC in which the entity or member has an income interest, or an investment in a FIF in which the entity or member has an interest meeting the requirements of section EX 35 (Exemption for interest for FIF resident in Australia) or for which the person uses the attributable FIF income method, the value of the total group assets calculated and measured under this section does not include the value of the investment, except—
+(1B) The value of the total group assets calculated and measured under this section does not include the value of an investment described in subsection (1BA), except—
   (a) to the extent to which—
     (i) the value of the investment represents the outstanding balances of financial arrangements to which section FE 13 applies:
     (ii) the CFC or FIF derives income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable:
@@ -20504,6 +20821,14 @@ When member not resident
 (1C) If the excess debt entity or another member of a New Zealand group is not resident in New Zealand, the assets of the entity or member are included in the calculation and measurement of total group assets under this section only to the extent to which the assets are for the entity or member to—
   (a) carry on business in New Zealand through a fixed establishment in New Zealand:
   (b) derive income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable.
+Changes in value excluded if arising from transfers between associated persons
+(1D) The value of the total group assets calculated and measured under this section does not include a change in the value of assets arising from a transfer of the assets or ownership interests between a member of the group and an associated person in or after the 2015–16 income year.
+Exception: change equivalent to revaluation or arising from transaction with non-associate
+(1E) A change referred to in subsection (1D) may be included in the value of the total group assets if—
+  (a) the change would have been permitted under generally accepted accounting practice in the absence of the transfer:
+  (b) the change—
+    (i) arises for a company that, with other companies, has its ownership or control purchased by a person (the purchaser) who is not an associated person of the former owner and that is restructured on being included in the purchaser's group (the group); and
+    (ii) includes a change in value for the company's assets in New Zealand that is a reasonable proportion of the change in value of the group's total assets.
 Generally accepted accounting practice
 (2) The amount of total group assets must be calculated under generally accepted accounting practice, with the exception of the values referred to in subsection (1)(c) or (d).
 
@@ -20525,7 +20850,20 @@ Date of measurement
   (b) the average amount at the end of each 3-month period in the income year; or
   (c) the amount as at the worldwide group’s balance date that immediately precedes the income year.
 Measurement of amounts
-(3) Despite subsection (1), an excess debt entity must measure the amount of total group debt by applying section FE 15 as if it referred to a deduction that would be allowed if the entity, or another group member, were resident in New Zealand.
+(3) Despite subsection (1), an excess debt entity must measure the amount of total group debt by applying section FE 15 as if—
+  (a) section FE 15(1)(a) excluded from the measurement a financial arrangement meeting the requirements of subsection (3B); and
+  (b) section FE 15(1)(a)(ii) required the financial arrangement to give rise to an amount that would be allowed as a deduction to the natural person or to the entity, or another group member, if the entity or group member were resident in New Zealand.
+Financial arrangements removed from measurement of amounts
+(3B) A financial arrangement is removed from the measurement of total group debt for an excess debt entity that is not an excess debt outbound company if—
+  (a) there is a person (the owner) who is not a member of the group and—
+    (i) has an ownership interest in a member of the group:
+    (ii) is a settlor of a trust having a trustee who is a member of the group; and
+  (b) the owner, or an associated person other than a member of the group,—
+    (i) is a party to the financial arrangement:
+    (ii) guarantees, or provides security for, the performance of obligations under the financial arrangement, if the worldwide group is given by section FE 3(e) or FE 31D:
+    (iii) provides, or undertakes to provide, funds for the use of a person who agrees to provide funds under the financial arrangement; and
+  (c) the owner has direct ownership interests in a member of the group of 5% or more; and
+  (d) the financial arrangement is not traded on an exchange that would be a recognised exchange if paragraphs (c) to (e) of the definition of recognised exchange referred to financial arrangements as well as to shares and options over shares.
 Commissioner’s estimate
 (4) If an excess debt entity is unable to calculate the debt percentage of their worldwide group for an income year, they may ask the Commissioner to estimate the percentage under this subpart. The estimate is then treated as the percentage applying for the purposes of this subpart.
 Default percentage
@@ -20533,7 +20871,7 @@ Default percentage
   (a) 54.5454%, if the excess debt entity is not a trustee and not an excess debt outbound company, or is a trustee who is not described in section FE 2(1)(g), and—
     (i) the entity is unable to calculate the percentage and does not ask the Commissioner to make an estimate under subsection (4):
     (ii) the Commissioner cannot reasonably estimate the debt percentage under subsection (4):
-    (iii) no member of the entity's worldwide group, other than the entity, is not resident in New Zealand; or
+    (iii) all members of the entity's worldwide group, not including the entity, are resident in New Zealand and the entity's worldwide group is not determined under either of sections FE 3(1)(d) and FE 31D; or
   (b) 68.1818%, if the excess debt entity is an excess debt outbound company, or is a trustee who is described in section FE 2(1)(g), and—
     (i) the entity is unable to calculate the percentage and does not ask the Commissioner to make an estimate under subsection (4):
     (ii) the Commissioner cannot reasonably estimate the debt percentage under subsection (4):
@@ -20688,15 +21026,15 @@ Application or effective date
 
 **New Zealand group**
 
-### FE 25 New Zealand group for excess debt entity that is a company
+### FE 25 New Zealand group for excess debt entity that is a company or non-resident owning body
 Steps to determine membership
-(1) The following steps are used to determine the membership of the New Zealand group of an excess debt entity that is a company:
+(1) The following steps are used to determine the membership of the New Zealand group of an excess debt entity that is a company or non-resident owning body:
   (a) identifying the New Zealand parent, see section FE 26:
   (b) establishing the companies under the parent’s control, see section FE 27:
   (c) identifying the members of the New Zealand group, see sections FE 28 and FE 29:
   (d) if a non-resident has ownership interests in 2 or more New Zealand groups, establishing whether the groups may be combined into a single New Zealand group, see section FE 30.
-Entity as company
-(2) Sections FE 26 to FE 30 apply only to an excess debt entity that is company. However, section FE 30 does not apply to an excess debt outbound company.
+Entity as company or non-resident owning body
+(2) Sections FE 26 to FE 30 apply to an excess debt entity that is a company or a non-resident owning body. However, section FE 30 does not apply to an excess debt outbound company.
 
 ### FE 26 Identifying New Zealand parent
 Identifying resident company
@@ -20707,6 +21045,10 @@ Entity as parent
   (b) the entity is resident in New Zealand, and—
     (i) a non-resident has a direct ownership interest in the entity of 50% or more, as determined under section FE 39; and
     (ii) no single non-resident who is carrying on business in New Zealand through a fixed establishment in New Zealand or who derives income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable has an ownership interest in the entity of 50% or more; or
+  (bb) the entity is resident in New Zealand, and meets the requirements of none of the other paragraphs, and has a non-resident owning body having a direct ownership interest of 50% or more in the entity and not having a member (a tax-return member)—
+    (i) carrying on business in New Zealand through a fixed establishment in New Zealand:
+    (ii) deriving income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax is unavailable under all relevant double tax agreements; or
+  (bc) the entity is a non-resident owning body; or
   (c) the entity is an excess debt outbound company and no single company resident in New Zealand has an ownership interest in the entity of 50% or more.
 Top tier New Zealand resident company if not excess debt outbound company
 (3) If subsection (2) does not apply, and the excess debt entity is not an excess debt outbound company, the entity’s New Zealand parent is the company (company A) that meets all the following requirements:
@@ -20715,8 +21057,10 @@ Top tier New Zealand resident company if not excess debt outbound company
     (ii) not resident in New Zealand but carrying on business in New Zealand through a fixed establishment in New Zealand; or
     (iii) not resident in New Zealand but deriving income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
   (b) company A has an ownership interest in the entity; and
-  (c) a non-resident has a direct ownership interest in company A; and
-  (d) if company A is resident in New Zealand, a non-resident who has an ownership interest in the entity of 50% or more, also has an ownership interest in company A of 50% or more; and
+  (c) if company A is a non-resident, a non-resident has a direct ownership in company A; and
+  (d) if company A is resident in New Zealand,—
+    (i) a non-resident has a direct ownership interest in company A and ownership interests of 50% or more in the entity and company A; or
+    (ii) the requirements of subparagraph (i) are not met and a group of non-residents is a non-resident owning body for the entity and for company A, and has ownership interests of 50% or more in the entity and company A, and no such non-resident owning body for the entity and for company A has a tax-return member; and
   (e) no company that meets the requirements of paragraphs (a) to (d) has a direct ownership interest in company A.
 When parent controlled by non-resident
 (4) Despite subsection (3), if the interest apportionment rule in section FE 6 applies to the excess debt entity only through the application of section FE 2(1)(c)(ii), the entity’s New Zealand parent is the company (company B) that meets all the following requirements:
@@ -20725,7 +21069,7 @@ When parent controlled by non-resident
     (ii) not resident in New Zealand but carrying on business in New Zealand through a fixed establishment in New Zealand; or
     (iii) not resident in New Zealand but deriving income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable; and
   (b) company B has an ownership interest in the entity; and
-  (c) if company B is resident in New Zealand, a non-resident who has control of the entity by any means, has control of company B by any means; and
+  (c) if company B is resident in New Zealand, a non-resident, or non-resident owning body, who has control of the entity by any means, has control of company B by any means; and
   (d) no company that meets the requirements of paragraphs (a) to (c) has a direct ownership interest in company B.
 Top tier New Zealand resident company for excess debt outbound company
 (4B) If subsection (2) does not apply, and the excess debt entity is an excess debt outbound company, the entity’s New Zealand parent is the company (company C) that meets all the following requirements:
@@ -20733,14 +21077,22 @@ Top tier New Zealand resident company for excess debt outbound company
     (i) is resident in New Zealand; and
     (ii) has an ownership interest of 50% or more in the entity; and
   (b) no company that meets the requirements of paragraph (a)(i) and (ii) has a direct ownership interest in company C.
+Non-resident owning body
+(4C) If subsections (2) to (4B) do not apply and the entity is resident in New Zealand and has a non-resident owning body, the non-resident owning body is the entity's New Zealand parent if the non-resident owning body has—
+  (a) a direct ownership interest of 50% or more in the entity; and
+  (b) a tax-return member.
+Controlling trustee
+(4D) If an excess debt entity meets the requirements of section FE 2(1)(cc) and the New Zealand parent of the entity cannot be determined in the absence of this subsection and subsection (6), the New Zealand parent of the entity is the trustee referred to in section FE 2(1)(cc).
 Tie-breaker
 (5) If more than 1 company is identified as New Zealand parent under subsection (3) or (4), the New Zealand parent is the company that has the highest value in ownership interests calculated by multiplying—
   (a) the total direct ownership interests in company A or company B of non-residents who also have ownership interests in the entity of 50% or more:
   (b) the ownership interests of company A or company B in the entity.
 Entity as parent
-(6) If subsection (2) does not apply, and no company meets the requirements of subsection (3), (4), or (4B), the excess debt entity is treated as the New Zealand parent.
-Determining ownership interests in subsections (3) and (4)
-(7) In subsections (3) to (4B), ownership interests are determined under sections FE 38 to FE 41, but for the purpose of identifying a New Zealand parent, the ownership interests of an associated person are ignored.
+(6) If subsection (2) does not apply, and no company meets the requirements of 1 of subsections (3) to (4D), the excess debt entity is treated as the New Zealand parent.
+Determining ownership interests in subsections (3) to (4C)
+(7) In subsections (3) to (4C), ownership interests are determined under sections FE 38 to FE 41, but for the purposes of identifying a New Zealand parent,—
+  (a) the ownership interests of a person associated with another person are not included with the ownership interests of the other person, except if the persons are associated under paragraph (b):
+  (b) a trustee who acts in concert with another trustee is treated as being associated with the other trustee.
 
 ### FE 27 Establishing companies under parent’s control
 Choosing threshold
@@ -20880,6 +21232,11 @@ Transfer
 (2) The CFC is part of the worldwide group A.
 Ownership interests
 (3) For the purposes of this section, ownership interests are determined under sections FE 38 to FE 41.
+
+### FE 31D Worldwide group for entity with New Zealand parent depending on non-resident owning body
+A worldwide group for an entity that would not have a New Zealand parent under section FE 26(2) and (3) in the absence of section FE 26(2)(bb), (3)(d)(ii), and (4C), and for a company in which such an entity has an ownership interest of more than 50%, is made up of—
+  (a) the entity; and
+  (b) the entity's New Zealand group.
 
 ### FE 32 Joint venture parties
 What this section applies to
@@ -22938,6 +23295,15 @@ When this section applies
 Market value amount substituted
 (2) A market value amount of consideration is substituted for the arrangement amount of consideration.
 
+### GB 51 Proportionality between amount of debt and ownership interests
+When this section applies
+(1) This section applies when—
+  (a) a person has ownership interests in a company or a trustee who is a linked trustee for the person under section FE 4 (Some definitions) has ownership interests in the company; and
+  (b) an arrangement affects the relationship between the level of an ownership interest in the company relating to the person and the company's debt relating to the person; and
+  (c) the arrangement has an effect of defeating the intent and application of subpart FE (Interest apportionment on thin capitalisation).
+Arrangement disregarded
+(2) The effect of the arrangement on the proportionality between the level of an ownership interest in the company relating to the person and the company's debt relating to the person is disregarded for the purposes of subpart FE.
+
 ### Subpart GC — Market value substituted
 
 ### GC 1 Disposals of trading stock at below market value
@@ -24491,7 +24857,7 @@ Agency
   (b) the person, as a debenture holder, derives income from the debenture.
 Excluded debentures
 (2) Subsection (1) does not apply to a debenture if—
-  (a) it is a profit-related debenture or substituting debenture to which section FA 2 (Recharacterisation of certain debentures) applies or a stapled debt security to which section FA 2B (Stapled debt securities) applies; or
+  (a) it is a profit-related debenture to which section FA 2 (Recharacterisation of certain debentures) applies or a stapled debt security to which section FA 2B (Stapled debt securities) applies; or
   (b) it is issued to a New Zealand resident, and the company provides the Commissioner with a certified list containing particulars of the debentures, the name and details of each person to whom a debenture has been issued, and details of the interest payments before an assessment is made in a tax year of the debenture holder.
 Liability of persons named
 (3) A person named as a debenture holder in the list referred to in subsection (2)(b) is liable for income tax on income derived from the debenture. Subsection (4) overrides this subsection.
@@ -27836,7 +28202,7 @@ What this section applies to
   (d) subpart LF (Tax credits for foreign dividend payment (FDP) credits):
   (db) subpart LH (Tax credits for expenditure on research and development), although modified by section LH 2(6) (Tax credits relating to expenditure on research and development):
   (e) subpart LO (Tax credits for Maori authority credits):
-  (f) section LS 1 (Tax credits for multi-rate PIEs):
+  (f) section LS 1(Tax credits for multi-rate PIEs):
   (g) section LS 2 (Tax credits for investors in multi-rate PIEs), and the person is not a natural person or is a natural person having the tax credit as a beneficiary of a trust:
   (h) section LS 3 (Tax credits for zero-rated investors), and the person is not a natural person or is a natural person having the tax credit as a beneficiary of a trust:
   (i) section LS 4 (Tax credits for certain exiting investors), and the person is not a natural person or is a natural person having the tax credit as a beneficiary of a trust:
@@ -29243,7 +29609,7 @@ Modifications to weekly employment
 Incapacity
 (3) The incapacity referred to in subsection (2)(b) and (d) is an incapacity due to—
   (a) personal injury by accident for which an accident compensation earnings-related payment has been, is being, or will be paid:
-  (b) a service-related (as defined in section 7 of the Veterans’ Support Act 2014) injury, illness, condition, or whole-person impairment for which a payment has been, is being, or will be paid, under the Veterans’ Support Act 2014, and the payment is––
+  (b) a service-related (as defined in section 7 of the Veterans’ Support Act 2014) injury, illness, condition, or whole-person impairment for which a payment has been, is being, or will be paid, under the Veterans’ Support Act 2014, and the payment is—
     (i) weekly income compensation paid under Part 3, subpart 4 of that Act:
     (ii) weekly compensation paid under Part 4, subpart 5 of that Act:
     (iii) weekly compensation or aggregated payments, as applicable, paid under schedule 2, part 4, clause 54 or 55 of that Act.
@@ -29483,6 +29849,13 @@ Payments and benefits excluded from family scheme income
   (b) from an amount that is—
     (i) proceeds of the disposal of property; and
     (ii) not assessable income of the person disposing of the property:
+  (bb) a repayment of a loan or of a mistaken or misdirected payment:
+  (bc) a refund of a payment, including a refund of overpaid tax, student loan payments, or child support payments:
+  (bd) a payment, other than a payment by a trustee, from the person's ownership of an investment activity or business, and the payment—
+    (i) is received on capital account; and
+    (ii) is not a loan:
+  (be) a payment from a deceased's estate:
+  (bf) money won from gambling or from a New Zealand lottery, as those terms are used in the Gambling Act 2003:
   (c) a payment on behalf of the person by a local authority or public authority:
   (d) a forgiveness of debt by a public authority:
   (e) a charitable distribution from a charitable entity registered under the Charities Act 2005:
@@ -29640,7 +30013,7 @@ Definition of items in formula
     (ii) the amount of child tax credit for the entitlement period calculated using the formula in section MZ 2 (Calculation of child tax credit), if the person is not entitled to the in-work tax credit for the entitlement period, and is entitled to the child tax credit for the entitlement period under section MZ 1 (Entitlement to child tax credit):
   (c) parental tax credit is the amount of parental tax credit for the entitlement period calculated using the formula in section MD 12:
   (d) credit abatement is the total amount, for the entitlement period, of—
-    (i) a family credit abatement calculated using the formula in section MD 13(2); and
+    (i) a family credit abatement calculated using the formula in section MD 13(2), and modified as necessary by section MD 2(3) and (4); and
     (ii) a parental tax credit abatement calculated using the formula in section MD 16(2).
 Extra instalment
 (4) This section is overridden by section 80KW of the Tax Administration Act 1994.
@@ -29656,8 +30029,13 @@ Calculating net contributions
     (i) first, to reduce the amount of the family tax credit corresponding to the period; and
     (ii) second, to reduce the amount of the in-work tax credit or, as applicable, the child tax credit corresponding to the period; and
     (iii) third, to reduce the amount of the parental tax credit corresponding to the period.
-Credit abatements
-(3)
+Calculation for parental tax credit
+(3) For the purposes of sections MD 1 and MD 16, and subsection (2)(c)(iii) of this section, the amount of family credit abatement corresponding to the period applied to reduce the amount of parental tax credit corresponding to the period is calculated using the formula:(period abatement amount − amount used) ×365entitlementdays.
+Definition of items in formula
+(4) In the formula,—
+  (a) period abatement amount is the family credit abatement corresponding to the period (the abatement period):
+  (b) amount used is the period abatement amount that the Commissioner must apply under subsection (2)(c)(i) and (ii) in calculating a net contribution for the abatement period:
+  (c) entitlement days is the number of days in a parental entitlement period that are in the abatement period.
 
 ### MD 3 Calculation of family tax credit
 Entitlement
@@ -29774,7 +30152,7 @@ When this section applies
 (1) This section applies when—
   (a) a person qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) in relation to a dependent child; and
   (b) neither the person nor their spouse, civil union partner, or de facto partner receives—
-    (i) a social assistance payment or has a suspended entitlement to an income-tested benefit at any time during the first 56 days after the date of the dependent child’s birth (the parental entitlement period); or
+    (i) a social assistance payment or has a suspended entitlement to an income-tested benefit at any time during the first 70 days after the date of the dependent child’s birth (the parental entitlement period); or
     (ii) a parental leave payment under Part 7A of the Parental Leave and Employment Protection Act 1987 at any time for the child.
 Entitlement
 (2) The person is entitled to a parental tax credit for the parental entitlement period.
@@ -29791,18 +30169,20 @@ Relationship with section 2B of Parental Leave and Employment Protection Act 198
 Payment of parental tax credit
 (6) The parental tax credit is paid to the person either—
   (a) as a tax credit in an end-of-year assessment; or
-  (b) in the 56 days after the date on which an application is made if—
+  (b) in the 70 days after the date on which an application is made if—
     (i) the person applies to receive the parental tax credit by instalment under section MF 1 (Application for payment of tax credit by instalment); and
-    (ii) at any time during the period of 56 days, the person and their spouse, civil union partner, or de facto partner do not receive a social assistance payment and do not have a suspended entitlement to an income-tested benefit.
+    (ii) at any time during the period of 70 days, the person and their spouse, civil union partner, or de facto partner do not receive a social assistance payment and do not have a suspended entitlement to an income-tested benefit.
 
 ### MD 12 Calculation of parental tax credit
 Entitlement
 (1) A person who meets the requirements of section MD 11 is entitled to a parental tax credit calculated using the formula in subsection (2).
 Formula
-(2) The formula is—prescribed amount×days56.
+(2) The formula is—prescribed amount×days70.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $1,200 for each dependent child born on or after 1 October 1999:
+  (a) prescribed amount is—
+    (i) $1,200 for each dependent child born on or after 1 October 1999 and before 1 April 2015; or
+    (ii) $2,200 for each dependent child born on or after 1 April 2015:
   (b) days is the number of days in the parental entitlement period for which the person meets the requirements of section MD 11.
 Order in Council increasing amount
 (4) In subsection (3)(a), the amount referred to may be increased as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
@@ -29818,8 +30198,8 @@ Definition of items in formula
     (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $36,350, 21.25 cents for each complete dollar of the excess; or
     (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $36,350, 21.25 cents for each complete dollar of the excess:
   (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14.
-When 56-day period includes 31 March
-(4) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives instalments of the parental tax credit in a 56-day period that includes 31 March, the formula is applied so that—
+When 70-day period includes 31 March
+(4) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives instalments of the parental tax credit in a 70-day period that includes 31 March, the formula is applied so that—
   (a) instalments of the parental tax credit received in the first tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year; and
   (b) instalments of the parental tax credit received in the second tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year.
 Order in Council increasing amount
@@ -29844,7 +30224,7 @@ When this section applies
 (1) This section applies when—
   (a) a person is entitled under section MD 11 to a parental tax credit for a parental entitlement period; and
   (b) the credit is paid in a lump sum for the tax year of the birth; and
-  (c) the birth occurs less than 56 days before the end of the tax year; and
+  (c) the birth occurs less than 70 days before the end of the tax year; and
   (d) a day in an entitlement period is in the parental entitlement period.
 Amount of additional abatement
 (2) An additional amount of abatement for the parental tax credit is calculated for the tax year of the birth using the formula:daily parental tax credit abatement × extra entitlement days.
@@ -29866,7 +30246,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income)×weekly periods52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $22,776:
+  (a) prescribed amount is $23,036:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -34527,7 +34907,7 @@ When this section applies
   (c) sections RC 13 and RC 14 (which relate to persons with an initial provisional tax liability and those with an extension of time for providing a return); and
   (d) sections RC 26 and RC 27 (which relate to changes in taxable periods).
 Calculation
-(2) The amount of an instalment of provisional tax is calculated using the formula—residual income tax × instalment number−provisional tax.total instalments
+(2) The amount of an instalment of provisional tax is calculated using the formula—residual income tax × instalment number− provisional tax.total instalments
 Definition of items in formula
 (3) In the formula,—
   (a) residual income tax is a person’s residual income tax, as applicable—
@@ -35084,14 +35464,14 @@ Certain benefits and grants
 Parental leave payments
 (7) A parental leave payment made under Part 7A of the Parental Leave and Employment Protection Act 1987 is included in salary or wages.
 Accommodation benefits
-(8) A benefit treated as income under section CE 1(1B) (Amounts derived in connection with employment) is included in salary or wages.
+(8) A benefit treated as income under section CE 1(1)(bb) (Amounts derived in connection with employment) is included in salary or wages.
 Cash contributions
 (9) An amount of an employer's superannuation cash contribution that an employee chooses to have treated as salary or wages under section RD 68 is included in salary or wages.
 
 ### RD 6 Certain benefits and payments
 When this section applies
 (1) This section applies when an employee receives—
-  (a) an accommodation benefit treated as income under section CE 1(1B) (Amounts derived in connection with employment); or
+  (a) a benefit treated as income under section CE 1(1)(bb) (Amounts derived in connection with employment); or
   (b) another benefit in kind that is included in their salary or wages; or
   (c) 1 or more of the following payments:
     (i) a superannuation payment:
@@ -37661,7 +38041,9 @@ In this Act, unless the context requires otherwise,—
   - **accident compensation payment** is defined in section CF 1(2) (Benefits, pensions, compensation, and government grants) for the purposes of that section
   - **accident compensation payment for attendant care**
   - **accident insurance contract** is defined in section CW 34(2) (Compensation payments) for the purposes of that section
-  - **accommodation** is defined in section CE 1(2) (Amounts derived in connection with employment) for the purposes of that section and section CX 28 (Accommodation)
+  - **accommodation** ,—
+    (a) in section CX 28 (Accommodation), includes the use of a house or living premises, or the use of part of a house or living premises, whether permanent or temporary:
+    (b) is defined in section CE 1(2) for the purposes of sections CE 1B to CE 1E, CW 16B to CW 16F, CW 17CB, CZ 23, CZ 29, and CZ 30 (which relate to accommodation provided in connection with employment)
   - **account advantage** —
     (a) is defined in section GB 36(5) (Reconstruction of imputation arrangements to obtain tax advantage) for the purposes of that section:
     (b) is defined in section GB 43(5) (Reconstruction of Maori authority credit arrangements to obtain tax advantage) for the purposes of that section
@@ -37911,7 +38293,7 @@ In this Act, unless the context requires otherwise,—
     (a) in sections CG 8, DB 64, and EE 48 (which relate to capital contributions), means an amount that—
       (i) is paid by a person (the payer) to a person (the recipient) under an agreement between them; and
       (ii) is paid by the payer other than in their capacity of settlor, partner, or shareholder of the recipient; and
-      (iii) is not income of the recipient, ignoring sections CC 1B and CG 8; and
+      (iii) is not income of the recipient, ignoring sections CC 1B (Consideration relating to grant, renewal, extension, or transfer of leasehold estate or licence) and CG 8; and
       (iv) is paid, under the express terms and conditions of the agreement, as a contribution for capital contribution property; and
       (v) if the agreement is a contract of insurance, indemnity, or compensation, is paid in relation to an interruption or impairment of business activities:
     (b) is defined in section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
@@ -38354,7 +38736,8 @@ In this Act, unless the context requires otherwise,—
     (c) includes a disposition as defined in paragraph (a) or (b) by will or intestacy; and
     (d) does not include a disclaimer of an interest under a disposition made during life or by will; and
     (e) does not include a disclaimer of an interest under an intestacy
-  - **distinctive work clothing** is defined in section CX 30(2) (Distinctive work clothing) for the purposes of that section
+  - **distant workplace** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects) for the purposes of that section, the definition of , and sections CW 16C, CW 16E, CW 16F, CW 17CB, and CZ 29 (which relate to time limits for accommodation expenditure and the application of the rules to new employees)
+  - **distinctive work clothing** is defined in section CX 30(2) (Distinctive work clothing) for the purposes of that section and section CW 17CC (Payment for distinctive work clothing)
   - **distribution** is defined in section HC 14 (Distributions from trusts) for the purposes of the trust rules
   - **district health board**
   - **dividend** —
@@ -38416,7 +38799,8 @@ In this Act, unless the context requires otherwise,—
   - **employee** —
     (a) means a person who receives or is entitled to receive a PAYE income payment:
     (ab) for the purposes of the FBT rules, includes a shareholder-employee who has chosen under section RD 3(3) to treat amounts paid to them in the income year in their capacity as employee as income other than from a PAYE income payment:
-    (b) in sections CW 17, CW 17B, CW 17C, and CW 18 (which relate to expenditure, reimbursement, and allowances of employees) includes a person to whom section RD 3(2) to (4) (PAYE income payments) applies:
+    (ac) despite paragraph (a), in sections CE 1, CE 1B, and CW 16B to CW 16F (which relate to accommodation provided in connection with employment), includes an employee provided with accommodation or an accommodation payment as described in section CE 1(3)(a) (Amounts derived in connection with employment):
+    (b) in sections CW 17, and CW 17B to CW 18B (which relate to expenditure, reimbursement, and allowances of employees) includes a person to whom section RD 3(2) to (4) (PAYE income payments) applies:
     (c) in the FBT rules, and in the definition of shareholder-employee (paragraph (b)), does not include a person if the only PAYE income payment received or receivable is—
       (i) a payment referred to in section RD 5(1)(b)(iii), (3), (3B), (6)(b) and (c) and (7) (Salary or wages):
       (ii) a schedular payment referred to in schedule 4, parts A and I (Rates of tax for schedular payments) for which the person is liable for income tax under section BB 1 (Imposition of income tax):
@@ -38440,6 +38824,7 @@ In this Act, unless the context requires otherwise,—
       (i) a payment referred to in section RD 5(1)(b)(iii), (3), (3B), (6)(b) and (c), and (7) (Salary or wages):
       (ii) a schedular payment referred to in schedule 4, parts A and I (Rates of tax for schedular payments):
     (d) is defined in section RD 45(6) (Unclassified benefits) for the purposes of that section:
+    (db) is defined in section CE 1(3)(a) (Amounts derived in connection with employment) for the purposes of that section and sections CE 1B, and CW 16B to CW 16F (which relate to accommodation provided in connection with employment):
     (e) for an employee, means the employer of the employee
   - **employer contribution** has the same meaning as in the KiwiSaver Act 2006
   - **employer monthly schedule** means a form that an employer must provide to the Commissioner in manual format or in electronic format, or that a PAYE intermediary must provide to the Commissioner in electronic format, showing—
@@ -38537,7 +38922,7 @@ In this Act, unless the context requires otherwise,—
     (d)
     (e) withdrawal tax
   - **excluded depreciable property** is defined in section EE 64 (Meaning of excluded depreciable property)
-  - **excluded fixed rate security** means a fixed rate share issued by a company or a debenture issued by a company, if it is a substituting debenture or stapled debt security and not a profit-related debenture, when the holder of the share or debenture does not have, because of it, any right to vote or participate in any shareholder decision-making, except to the extent of any such right that—
+  - **excluded fixed rate security** means a fixed rate share issued by a company or a debenture issued by a company, if it is a stapled debt security and not a profit-related debenture, when the holder of the share or debenture does not have, because of it, any right to vote or participate in any shareholder decision-making, except to the extent of any such right that—
     (a) arises only in circumstances in which the position of the holder of the share or debenture may be altered to the holder’s detriment; and
     (b) is granted to the holder of the share or debenture for the purpose of assisting the holder to prevent the alteration; and
     (c) at the time of the issue of the share or debenture, is not expected to arise
@@ -39210,6 +39595,8 @@ In this Act, unless the context requires otherwise,—
   - **land provisions** means the following provisions:
     (a) sections CB 7 to CB 11 (which relate to certain land transactions), except CB 8 (Disposal: land used for landfill, if notice of election):
     (b) section CB 15 (Transactions between associated persons):
+    (bba) section CC 1B (Consideration relating to grant, renewal, extension, or transfer of leasehold estate or licence):
+    (bbab) section EE 67 (Other definitions):
     (bb) section EI 4B (Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence):
     (c) sections FB 3 to FB 5 (which relate to the transfer of land on a settlement of relationship property)
   - **LAQC**
@@ -39232,13 +39619,14 @@ In this Act, unless the context requires otherwise,—
       (ii) includes a sublease; and
       (iii) includes a licence to use intangible property; and
       (iv) includes a hire or bailment; and
-      (v) includes a lease that is 2 or more consecutive or successive leases treated as 1 lease because the same personal property lease asset had been leased to the same lessee or an associated person of the lessee under the consecutive or successive leases and the Commissioner, having regard to the tenor of this paragraph, regards the consecutive or successive leases as 1 lease; and
+      (v) includes an arrangement for the leasing of a personal property lease asset to the lessee or an associated person under 2 or more consecutive or successive leases, treated for this purpose as 1 lease, if the entitlement of the lessee or associated person to each consecutive or successive lease is, when the lessee enters the arrangement, essentially unconditional or conditional on the payment of predetermined fees; and
       (vi) does not include a hire purchase agreement, the definition of which applies, for this purpose, as if it did not contain paragraph (f); and
       (vii) does not include an assignment of a hire purchase agreement, the definition of which applies, for this purpose, as if it did not contain paragraph (f):
     (e) is defined in section GC 5(5) (Leases for inadequate rent) for the purposes of that section:
     (f) in the financial arrangements rules, means—
       (i) a lease as described in paragraph (d):
-      (ii) an arrangement that would be a lease as described in paragraph (d) if the arrangement did not relate to real property, livestock, or bloodstock
+      (ii) an arrangement relating to property that is land, livestock, or bloodstock and that would be a lease as described in paragraph (d) if the property were a personal property lease asset:
+      (iii) an occupation right agreement as defined in the Retirement Villages Act 2003
   - **leasehold estate** includes any estate, however created, other than a freehold estate
   - **legal and equitable rights** is defined in section EZ 68 (Definitions) for the purposes of sections EZ 64 to EZ 67 (which relate to New Zealand Railways Corporation restructure)
   - **legal defeasance** means a defeasance in which the release of a party to a financial arrangement or an excepted financial arrangement from the primary obligation of the financial arrangement or the excepted financial arrangement is—
@@ -39723,6 +40111,7 @@ In this Act, unless the context requires otherwise,—
     (c)
   - **non-resident investment company**
   - **non-resident mining operator**
+  - **non-resident owning body** is defined in section FE 4 (Some definitions)
   - **non-resident passive income** is defined in section RF 2 (Non-resident passive income)
   - **non-resident person** is defined in section CW 22(3) (Amounts derived by overseas experts and trainees in New Zealand by government arrangement) for the purposes of that section
   - **non-resident seasonal worker** means a non-resident person for whom immigration instructions, certified under section 22 of the Immigration Act 2009, allow them to be employed in New Zealand under—
@@ -39798,6 +40187,7 @@ In this Act, unless the context requires otherwise,—
   - **ordering rule** means the rule set out in section CD 23(1) (Ordering rule and slice rule) for calculating the amount of available subscribed capital per share
   - **original share** means a share in a company that is described as the original share in the definition of
   - **other amortisation provision** means a provision of this Act that has similar intent and application to sections EE 1 (What this subpart does), EZ 7 (Buying patent rights before 1 April 1993), and EZ 8 (Premium paid on land leased before 1 April 1993)
+  - **out-of-town secondment** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects) for the purposes of that section and sections CW 16C, CW 16E, and CZ 29 (which relate to time limits for accommodation expenditure and the application of the rules to new employees)
   - **output tax** is defined in section 2 of the Goods and Services Tax Act 1985
   - **outstanding balance** ,—
     (a) in section FA 10 (Treatment when lease ends: lessor acquiring asset), includes principal, interest, and penalties that are owing by the lessee to the lessor on the date that the lease is terminated
@@ -39811,7 +40201,11 @@ In this Act, unless the context requires otherwise,—
   - **own** ,—
     (a) for land, means to have an estate or interest in the land, alone or jointly or in common with any other person:
     (b) for the ownership of depreciable property, is defined in sections EE 2 to EE 5 (which relate to depreciation)
-  - **ownership interest** is defined in section YC 18(6) (Reverse takeovers) for the purposes of that section, and in sections YC 18B, YC 18C and YC 19B (which relate to corporate reorganisations)
+  - **ownership interest** , in a company,—
+    (a) means—
+      (i) a voting interest in the company determined by applying section YC 4(2) (Look-through rule for corporate shareholders):
+      (ii) a market value interest in the company determined by applying section YC 4(5):
+    (b) for the purposes of subpart FE (Interest apportionment on thin capitalisation), is measured under sections FE 38 to FE 41 (which provide for the measurement of ownership interests in companies)
   - **owner's associate** is defined in section HB 11(12) (Limitation on deductions by persons with interests in look-through companies) for the purposes of that section
   - **owner's interests** means the relevant interests in rights and obligations and other property, status, and things that a person who has an effective look-through interest for a look-through company has as a result of applying section HB 1 (Look-through companies are transparent) or otherwise
   - **paid work**
@@ -39874,6 +40268,9 @@ In this Act, unless the context requires otherwise,—
   - **PCA person** means a person who chooses under section OJ 1(2) and OJ 12 (which relate to persons with policyholder credit accounts) to maintain a policyholder credit account
   - **penalties and interest** is defined in section HD 15(9) (Asset stripping of companies) for the purposes of that section
   - **pension** is defined in section CF 1(2) (Benefits, pensions, compensation, and government grants) for the purposes of that section
+  - **period of continuous work** —
+    (a) is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects) for the purposes of that section and sections CW 16C, CW 16D, and CZ 29 (which relate to certain employment and accommodation expenditure); and
+    (b) is given an extended meaning in section CW 16D(4) (Accommodation expenditure: conferences and overnight stays) for the purposes of that section
   - **period of restriction** is defined in section DC 15(2) to (4) (Some definitions) for the purposes of sections DC 13 to DC 15 (which relate to share purchase schemes)
   - **permit** is defined in section 2 of the Crown Minerals Act 1991
   - **permit area** means an area of land, and may include more than 1 area, of, as applicable,—
@@ -39941,7 +40338,7 @@ In this Act, unless the context requires otherwise,—
       (ii) section CB 26 (Disposal of certain shares by portfolio investment entities):
       (iii) section CP 1 (Attributed income of investors in multi-rate PIEs):
       (iv) sections CX 55 to CX 57 (which relate to excluded income of investors in PIEs):
-      (v) sections DB 53 to DB 54B (which relate to losses of certain investors in PIEs):
+      (v) sections DB 53to DB 54B (which relate to losses of certain investors in PIEs):
       (vb) section EX 20B(3)(o) (Attributable CFC amount):
       (vi) subpart HM (Portfolio investment entities):
       (vii) section IA 7(10) (Restrictions relating to ring-fenced tax losses):
@@ -40121,6 +40518,7 @@ In this Act, unless the context requires otherwise,—
     (b) any return or compensation that person A receives for making the livestock available depends on the profits of the business; and
     (c) person A participates in the profits and losses of the business; and
     (d) if a partnership between person A and person B arises, person A is bound by the requirements of the Partnership Act 1908 for third parties
+  - **project of limited duration** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects) for the purposes of that section and sections CW 16C and CZ 29 (which relate to certain accommodation expenditure and the time limits applying to that expenditure)
   - **projected transactions shareholding** is defined in section CD 34B (Distributions to members of co-operative companies)
   - **property** ,—
     (a) in subpart EE (Depreciation), includes consents granted in or after the 1996–97 tax year under the Resource Management Act 1991:
@@ -40645,7 +41043,7 @@ In this Act, unless the context requires otherwise,—
     (e) the number of PAYE income payments made by the listed PAYE intermediary to each employee in the period to which the form relates; and
     (f) the amount of subsidy that the listed PAYE intermediary claims for the period to which the form relates
   - **substantial business assets** is defined in section GB 28(6) (Interpretation of terms used in section GB 27) for the purposes of section GB 27 (Attribution rule for income from personal services)
-  - **substituting debenture** is defined in section FA 2(5) (Recharacterisation of certain debentures)
+  - **substituting debenture**
   - **superannuation category 1 scheme** means a scheme or fund that was at the relevant time a superannuation category 1 scheme under the Income Tax Act 1976
   - **superannuation category 2 scheme** means a scheme or fund that was at the relevant time a category 2 scheme under the Income Tax Act 1976
   - **superannuation category 3 scheme** means a scheme or fund that was at the relevant time a superannuation category 3 scheme under the Income Tax Act 1976
@@ -40956,6 +41354,7 @@ In this Act, unless the context requires otherwise,—
     (b) personally and actively performs duties that—
       (i) are required to be performed in carrying on the business of the look-through company; and
       (ii) are performed by the person during the currency of, and as required by, a contract of employment
+  - **workplace** is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects) for the purposes of that section and sections CW 16C to CW 16F, CW 17CB, and CZ 29 (which relate to certain accommodation and employment expenditure)
   - **workplace group policy** is defined in section EY 30 (Transitional adjustments: life risk)
   - **work-related relocation** is defined in section CW 17B(4) (Relocation payments)
   - **work-related vehicle** is defined in section CX 38 (Meaning of work-related vehicle)
@@ -42648,7 +43047,7 @@ The retirement scheme prescribed rate for a person in relation to a retirement s
 
 ## Schedule 17 — Types and classes of livestock
 
-| Column 1 Types of livestock | Column 2 Classes of livestock |
+| Column 1Types of livestock | Column 2Classes of livestock |
 | --- | --- |
 | Beef cattle | Beef breeds and beef crossesRising 1 year heifersRising 2 year heifersMixed-age cowsRising 1 year steers and bullsRising 2 year steers and bullsRising 3 year and older steers and bullsBreeding bulls |
 | Dairy cattle | Friesian and related breeds, Jersey, and other dairy breedsRising 1 year heifersRising 2 year heifersMixed-age cowsRising 1 year steers and bullsRising 2 year steers and bullsRising 3 year and older steers and bullsBreeding bulls |
@@ -42826,7 +43225,7 @@ expenditure related to the acquisition of land
 
 ## Schedule 31 — Annualised equivalent amount for Part M
 
-| Annual amount, calculated in accordance with section MF 3(2)(a) | Annualised equivalent amount for section MF 3(2)(b) |
+| Annual amount, calculated in accordance withsection MF 3(2)(a) | Annualised equivalent amount for section MF 3(2)(b) |
 | --- | --- |
 |  | $ |
 | Amount does not exceed $36,350 | $36,350 |
@@ -43568,7 +43967,7 @@ In determining the amount of family assistance credit that is payable under sect
 (2) Subsection (3) applies—
   (a) for the purposes of section MF 6 of the Income Tax Act 2007; and
   (b) when a person has received payments under section 80KI for the whole of a tax year.
-(3) The person is entitled to a tax credit for the tax year of an amount calculated using the formula—tax credit+((final instalment −parental tax credit)×13).14
+(3) The person is entitled to a tax credit for the tax year of an amount calculated using the formula—tax credit+((final instalment−parental tax credit)×13).14
 (4) In the formula in subsection (3),—
   (a) tax credit is the amount of the tax credit for the tax year calculated for the person under—
     (i) section MD 1 of the Income Tax Act 2007, if the person is entitled to a family assistance credit:
@@ -45652,7 +46051,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
 | KD 2AAA(2) | MD 10 |
 | KD 2AAAB | MZ 1(2) |
 | KD 2AB | MD 11 |
-| KD 3(1) qualifying person | MC 3–MC 6 |
+| KD 3(1)qualifying person | MC 3–MC 6 |
 | KD 3(1) employment | ME 2(1), (2) |
 | KD 3(2) | LB 4 |
 | KD 3(2)–(5) | ME 1 |
@@ -48828,7 +49227,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
 | MC 3 | KD 2AA(4), KD 3(1), OB 1 qualifying person (a)(i) |
 | MC 4 | KD 2AA(4), KD 3(1), OB 1 qualifying person (a)(ii) |
 | MC 5 | KD 3(1), OB 1 qualifying person (a)(iii) |
-| MC 6 | KD 3(1) qualifying person |
+| MC 6 | KD 3(1)qualifying person |
 | MC 7 | KD 3A(2)–(4) |
 | MC 8 | OB 1 eligible period |
 | MC 9 | KD 2AA(7)–(10), KD 3A(5)–(9) |
