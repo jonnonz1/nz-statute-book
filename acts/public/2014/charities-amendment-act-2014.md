@@ -1,5 +1,5 @@
 # Charities Amendment Act 2014
-_Consolidation as at 2014-11-06_
+_Consolidation as at 2015-04-01_
 
 ### 1 Title
 This Act is the Charities Amendment Act 2014.
