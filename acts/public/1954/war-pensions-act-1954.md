@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2015-04-01_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances
 
@@ -27,7 +27,7 @@ Except as provided in subsection (5) of section 19 or Part 6, the provisions of 
   - **dependent child** , in relation to a member of the forces or any other person claiming a pension or allowance under this Act, means a child who is being cared for as a member of the family of the member of the forces or other such person
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member of the Emergency Reserve Corps** means any person who was at any time a member of the Emergency Reserve Corps established under the Emergency Reserve Corps Regulations 1941
   - **member of the family** , in relation to a family that includes a member of the forces, means—
     (a) any person who is related to the member:
@@ -142,7 +142,7 @@ The Advisory Board shall have the following powers and functions:
 (3) Two members of each Appeal Board shall be medical practitioners and one of those members shall be appointed as a representative of the members of the forces on the nomination of the New Zealand Returned Services’ Association (Incorporated).
 (4) Each Appeal Board shall be distinguished by such distinctive name as the Minister thinks fit.
 (5) Except as provided in subsections (6) and (7), all members of an Appeal Board shall be present at the hearing of any appeal under this Act from any decision of the Secretary.
-(6) At the hearing of an appeal lodged under section 16(1)(c), the Chairman of the Appeal Board, 1 medical practitioner appointed under subsection (3), and the member appointed as a representative of the members of the forces under the said subsection, shall constitute a quorum.
+(6) At the hearing of an appeal lodged under section 16(1)﻿(c), the Chairman of the Appeal Board, 1 medical practitioner appointed under subsection (3), and the member appointed as a representative of the members of the forces under the said subsection, shall constitute a quorum.
 (7)
 (8) The decision of a majority of the members present at a sitting of the Appeal Board shall be the decision of the Board. If the said members are equally divided in opinion, the decision of the Chairman shall be the decision of the Appeal Board.
 
@@ -187,7 +187,7 @@ For the purpose of carrying out their several functions under this Act, the Secr
   (b) a person appointed from time to time by the Secretary on the nomination of the National Executive Committee of the New Zealand Returned Services’ Association (Incorporated).
 (2A) A claims panel may, on or after 1 October 1999, allow a person nominated by a claimant to participate as the claimant’s advocate in the consideration of the claim by the panel, if the members of the panel consider that the person nominated is sufficiently qualified, by reason of his or her training and experience, to participate in the consideration of the claim.
 (2B) A person who is allowed under subsection (2A) to participate as the claimant’s advocate in the consideration of a claim is not a member of the claims panel, and is not part of the panel for the purposes of section 15B(2) to (4).
-(3) There may be paid to the member of the claims panel appointed under subsection (2)(b), out of a Crown Bank Account from money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951 as if the panel were a statutory board within the meaning of that Act; and that Act shall apply accordingly.
+(3) There may be paid to the member of the claims panel appointed under subsection (2)﻿(b), out of a Crown Bank Account from money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951 as if the panel were a statutory board within the meaning of that Act; and that Act shall apply accordingly.
 
 ### 15A Delegation of Secretary’s powers to claims panels and national review officers
 (1) The Secretary may from time to time, either generally or particularly, delegate in writing to any claims panel, or national review officer appointed under section 15C, such of the Secretary’s powers, functions, and discretions under sections 14(2) to (4), 19, 21 to 27, 34, 35, 35A, 48, and 66A and (in the case of a delegation to a national review officer) sections 14(5), 16(4), and 85 as the Secretary determines.
@@ -220,7 +220,7 @@ The Secretary may from time to time appoint 1 or more officials or employees of 
   (b) amend or reverse the decision; or
   (c) make such other decision as is appropriate to the circumstances of the case.
 (4) On considering a claim forwarded under section 15B(4), the national review officer, after taking into account the opinions of the members of the claims panel, shall consider the claim and make a decision on it.
-(5) The provisions of section 15B(1)(a) to (d), with the necessary modifications, shall apply in respect of the review of a decision and the consideration of a claim by a national review officer under this section.
+(5) The provisions of section 15B(1)﻿(a) to (d), with the necessary modifications, shall apply in respect of the review of a decision and the consideration of a claim by a national review officer under this section.
 (6) If a national review officer requires a claimant to attend and give evidence in support of a claim, and the claimant or a person authorised by the claimant to represent the claimant does so, the Secretary, out of money appropriated by Parliament for the purpose, shall pay the actual and reasonable travelling and accommodation expenses (if any) incurred by the claimant or representative.
 
 ### 15E National review officer to determine whether fresh application on grounds of additional evidence should be accepted
@@ -292,11 +292,11 @@ In this Part, unless the context otherwise requires,—
 [Repealed]
 
 ### 18I War Pensions Medical Research Trust Fund
-There is hereby established a fund to be known as the War Pensions Medical Research Trust Fund which shall comprise all money paid into it under section 85(2)(e) and all grants, donations, or gifts made to or vested in the Fund together with any income received from any source whatsoever.
+There is hereby established a fund to be known as the War Pensions Medical Research Trust Fund which shall comprise all money paid into it under section 85(2)﻿(e) and all grants, donations, or gifts made to or vested in the Fund together with any income received from any source whatsoever.
 
 ### 18J Capital and income of Fund
 (1) The capital of the Fund shall consist of—
-  (a) all money paid into the Fund pursuant to section 85(2)(e):
+  (a) all money paid into the Fund pursuant to section 85(2)﻿(e):
   (b) all money paid into the Fund by way of grants, donations, or gifts:
   (c) all property held by or on behalf of the Advisory Board under this Part:
   (d) all money derived from the sale of any property held by or on behalf of the Advisory Board under this Part:
@@ -773,11 +773,11 @@ If any question arises as to whether or not any member of the forces while on se
 (1) This section applies to a person who—
   (a) is in receipt of a veteran’s pension; and
   (b) qualified to receive that pension under either—
-    (i) section 70(1)(b)(ii); or
-    (ii) section 8(1)(b)(ii) of the Social Welfare (Transitional Provisions) Act 1990 (as in force immediately before the commencement of this Part); and
+    (i) section 70(1)﻿(b)﻿(ii); or
+    (ii) section 8(1)﻿(b)﻿(ii) of the Social Welfare (Transitional Provisions) Act 1990 (as in force immediately before the commencement of this Part); and
   (c) has not attained the age at which he or she would be entitled to receive New Zealand superannuation if otherwise qualified to receive it.
 (2) A person to whom this section applies will not cease to be entitled to receive a veteran’s pension merely because that person, at any time, is no longer prevented from undertaking employment because of a mental or physical infirmity.
-(3) This section applies despite section 70(1)(b)(ii), but is subject to section 74D.
+(3) This section applies despite section 70(1)﻿(b)﻿(ii), but is subject to section 74D.
 
 ### 72 Medical examination of applicant for veteran’s pension
 (1) The Secretary, in his or her discretion, may require any applicant for a veteran’s pension or any person in receipt of a veteran’s pension to submit himself or herself to a medical practitioner nominated by the Secretary for the purpose of a medical examination.
@@ -792,7 +792,7 @@ If any question arises as to whether or not any member of the forces while on se
   (b) the date on which the Department received the application for it.
 (2) Despite subsection (1), a person’s application for a veteran’s pension is deemed to have been received on 1 April 1990 if—
   (a) the person applied or applies for the veteran’s pension after 6 March 1995; and
-  (b) the service qualifying that person for a veteran’s pension under section 70(1)(a) was solely with the Japan section of the Second New Zealand Expeditionary Force on or after 14 August 1945 and before 28 April 1952.
+  (b) the service qualifying that person for a veteran’s pension under section 70(1)﻿(a) was solely with the Japan section of the Second New Zealand Expeditionary Force on or after 14 August 1945 and before 28 April 1952.
 (3) Nothing in subsection (2) limits section 70(3).
 (4) This section is subject to section 80AA of the Social Security Act 1964.
 
@@ -888,14 +888,14 @@ If a person who is absent from New Zealand would have become entitled to a veter
   (b) in the case of a person who has left New Zealand at a time when he or she was intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand, until he or she—
     (i) begins to reside in a country that is not a country to which subsection (1) applies; or
     (ii) returns to New Zealand.
-(3) For the purposes only of subsection (2)(b)(ii), a person does not return to New Zealand if—
+(3) For the purposes only of subsection (2)﻿(b)﻿(ii), a person does not return to New Zealand if—
   (a) he or she—
     (i) interrupts his or her overseas travel, and travels to and stays briefly in New Zealand, in order to attend an event (for example, a wedding or funeral) or to visit a person (for example, a sick or injured family member); and then
     (ii) resumes his or her overseas travel; and
   (b) he or she does not while in New Zealand—
     (i) begin to receive a veteran's pension otherwise than under this section; or
     (ii) begin to receive New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001.
-(4) Except to the extent provided by paragraphs (a)(i) and (b)(i) of subsection (2), a person does not cease to be entitled to be paid a veteran's pension under that subsection by reason only of changing his or her intentions after leaving New Zealand.
+(4) Except to the extent provided by paragraphs (a)﻿(i) and (b)﻿(i) of subsection (2), a person does not cease to be entitled to be paid a veteran's pension under that subsection by reason only of changing his or her intentions after leaving New Zealand.
 (5) Subsection (4) is for the avoidance of doubt.
 (6) The rates referred to in subsection (2) are,—
   (a) for a single person, a rate that is a proportion (calculated under section 74JA(1)) of the amount stated in clause 1(b) of Schedule 11:
@@ -914,12 +914,12 @@ If a person who is absent from New Zealand would have become entitled to a veter
   (b) any period of absence from New Zealand—
     (i) while the person was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body; or
     (ii) while the person's spouse or partner was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
-  (c) any period of absence from New Zealand while the person was (by virtue of section 79(1)(a) of the Social Security Act 1964) deemed to have been resident in New Zealand; or
-  (d) any period of absence from New Zealand while, as the spouse or partner of a person deemed by section 79(1)(a) of the Social Security Act 1964 to have been resident in New Zealand, the person was also (by virtue of section 79(1)(b) of the Social Security Act 1964) deemed to have been resident in New Zealand.
+  (c) any period of absence from New Zealand while the person was (by virtue of section 79(1)﻿(a) of the Social Security Act 1964) deemed to have been resident in New Zealand; or
+  (d) any period of absence from New Zealand while, as the spouse or partner of a person deemed by section 79(1)﻿(a) of the Social Security Act 1964 to have been resident in New Zealand, the person was also (by virtue of section 79(1)﻿(b) of the Social Security Act 1964) deemed to have been resident in New Zealand.
 (3) Subsection (2) applies to a period of absence only if the Secretary is satisfied that during it the person concerned remained ordinarily resident in New Zealand.
-(4) Subsection (2)(b) applies to a period of absence only if the Secretary is satisfied that the person concerned either was born in New Zealand or—
-  (a) in the case of a person to whom subsection (2)(b)(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
-  (b) in the case of a person to whom subsection (2)(b)(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.
+(4) Subsection (2)﻿(b) applies to a period of absence only if the Secretary is satisfied that the person concerned either was born in New Zealand or—
+  (a) in the case of a person to whom subsection (2)﻿(b)﻿(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
+  (b) in the case of a person to whom subsection (2)﻿(b)﻿(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.
 
 ### 74JB Entitlement
 A person is not entitled to be paid a veteran's pension under section 74J unless he or she—
@@ -943,9 +943,9 @@ A person is not entitled to be paid a veteran's pension under section 74J unless
 ### 74M Relationship with other benefit provisions
 (1)
 (2)
-(3) A person who is receiving a veteran’s pension overseas under section 74J is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
+(3) A person who is receiving a veteran’s pension overseas under section 74J is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)﻿(d) of that Act.
 (4) Despite the provisions of section 80BD of the Social Security Act 1964, on the death of a person who receives a veteran’s pension overseas under section 74J, the benefit terminates on a date to be determined by the Secretary, being a date not more than 4 weeks after the date of death.
-(5) Except as otherwise provided in this section, the provisions of the Social Security Act 1964 (other than sections 69G to 69I, 70, 74(1)(a), 75, 76, 77, and 82(7), 75A, and 76) apply to veterans’ pensions being paid overseas under section 74J.
+(5) Except as otherwise provided in this section, the provisions of the Social Security Act 1964 (other than sections 69G to 69I, 70, 74(1)﻿(a), 75, 76, 77, and 82(7), 75A, and 76) apply to veterans’ pensions being paid overseas under section 74J.
 
 ### 74N Specified Pacific country
 (1) In sections 74O to 74S, specified Pacific country means a country or territory—
@@ -956,7 +956,7 @@ A person is not entitled to be paid a veteran's pension under section 74J unless
   (b) omitting the former name of a country or territory and substituting its new name.
 (3) The Order in Council must state the date on which it takes effect, which may be a date before the date on which it is made.
 (4) The Order in Council applies to payments of the veteran’s pension under section 74O payable on or after the date on which the order takes effect.
-(5) Section 61H(3) to (6) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)(a) as if it had been made under that section.
+(5) Section 61H(3) to (6) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)﻿(a) as if it had been made under that section.
 
 ### 74O Entitlement to be paid veteran’s pension in specified Pacific country
 (1) A person entitled to receive a veteran’s pension is entitled to be paid the benefit in a specified Pacific country at a rate calculated under section 74P if subsection (2) or subsection (3) applies to the person.
@@ -993,7 +993,7 @@ A person is not entitled to be paid a veteran's pension under section 74J unless
 
 ### 74R Effect on other benefits
 A person being paid a benefit under section 74O is not entitled to receive—
-  (a) any supplementary or special benefit, temporary additional support, lump sum payment, payment under a welfare programme approved under section 124(1)(d) of the Social Security Act 1964, or any other assistance under that Act.
+  (a) any supplementary or special benefit, temporary additional support, lump sum payment, payment under a welfare programme approved under section 124(1)﻿(d) of the Social Security Act 1964, or any other assistance under that Act.
   (b)
 
 ### 74S Application of this Act and Social Security Act 1964
@@ -1106,7 +1106,7 @@ Except as may be otherwise provided in this Act, all pensions and allowances gra
 (3) If an appeal has been made under section 85A, the unpaid amount shall be held by the Secretary until the appeal has been determined, and shall then be paid in accordance with the decision of the court.
 
 ### 85A Appeal against decision of War Pensions Board
-(1) Any person aggrieved by the decision of the Secretary under section 85 (other than a decision made under the proviso to section 85(2)(a)) may, not later than 3 months after the date of the Secretary’s decision, appeal against the decision—in section 85 and hereinafter in this section referred to as the court.
+(1) Any person aggrieved by the decision of the Secretary under section 85 (other than a decision made under the proviso to section 85(2)﻿(a)) may, not later than 3 months after the date of the Secretary’s decision, appeal against the decision—in section 85 and hereinafter in this section referred to as the court.
   (a) if the amount of money claimed by the appellant is more than $2,000, to the High Court:
   (b) if the amount of money claimed by the appellant is $2,000 or less, to a District Court—
 (2)
@@ -1208,11 +1208,11 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 |  | in certain cases of severe disablement (additional pension) | $130.17 a week. |
 | 3 | Under section 28— |  |
 |  | clothing allowance (additional pension) as follows— |  |
-|  | aloss of 2 limbs or parts | $23.04 a week. |
-|  | bloss of leg or part | $22.23 a week. |
-|  | closs of arm or part | $16.11 a week. |
-|  | duse of mechanical appliance, etc | $16.11 a week. |
-|  | esoiling of clothing | $16.11 a week. |
+|  | aloss of 2 limbs or parts | $23.16 a week. |
+|  | bloss of leg or part | $22.34 a week. |
+|  | closs of arm or part | $16.19 a week. |
+|  | duse of mechanical appliance, etc | $16.19 a week. |
+|  | esoiling of clothing | $16.19 a week. |
 |  | Part 2—Members of mercantile marine |  |
 | 4 | Under section 62— |  |
 |  | the same rates as those specified in Part 1. |  |
@@ -1225,7 +1225,7 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 |  | Part 1—Members of forces |  |
 | --- | --- | --- |
 | 1 | Under section 29— |  |
-|  | in every case | $382.68 a week. |
+|  | in every case | $384.63 a week. |
 |  | Part 2—Members of mercantile marine |  |
 | 2 | Under section 62— |  |
 |  | the same rate as that specified in Part 1. |  |
@@ -1307,7 +1307,7 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 
 ## Schedule 11 — Rates of veterans’ pensions
 
-|  |  | Entitlements under section 70(1)(b)(i) or section 70(2) | Entitlements under section 70(1)(b)(ii) or section 71 |
+|  |  | Entitlements under section 70(1)﻿(b)﻿(i) or section 70(2) | Entitlements under section 70(1)﻿(b)﻿(ii) or section 71 |
 | --- | --- | --- | --- |
 | 1 | ato a person at the single living alone rate | $421.76 per week | $421.76 per week, subject to section 74D |
 |  | bto a person at the single sharing accommodation rate | $387.58 per week | $387.58 per week, subject to section 74D |
