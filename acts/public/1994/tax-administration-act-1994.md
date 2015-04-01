@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -4351,6 +4351,19 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
 (2) The determination must set a period relating to the event, for the purposes of section MB 13(2)﻿(r)﻿(ii) of the Income Tax Act 2007, equal to or less than 12 months and beginning on the day of the event.
 (3) The determination may provide for the extension, limitation, variation, cancellation, or repeal of an earlier determination, except that the total period relating to an event may not exceed 12 months.
 (4) As soon as possible after issuing or changing a determination under this section, the Commissioner must publish the new or changed determination in a publication chosen by the Commissioner.
+
+**Determinations relating to certain employment expenditure**
+
+### 91AAT Determinations relating to certain employment expenditure
+(1) The Commissioner may determine the extent to which, on average, an amount that an employer pays in connection with an employee's employment or service as described in section CW 17(2C) and (3) of the Income Tax Act 2007 is exempt income of a member of the relevant group or class of employees to which the employee belongs.
+(2) For the purposes of subsection (1), the Commissioner may set a percentage that represents the extent to which the payment for a particular type of expense is taxable, and may do so by making a reasonable estimate of the amount that is taxable. This subsection does not apply to expenditure incurred under sections CW 16B to CW 16F, CW 17B, CW 17C, CW 17CB, CW 17CC, and CW 18 of that Act.
+(3) The determination may set out the income year or income years for which it is to apply, but may not apply for income years before the 2014–15 income year.
+(4) A determination made under this section is not binding on the employer or the employee.
+(5) In making the determination, the Commissioner must have regard to the size of the group or class of employees and the generality of the issue.
+(6) The determination may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 30 days notice of the implementation date of any change to the determination.
+(7) Within 30 days of issuing or changing a determination under this section, the Commissioner must publish a notice in a publication chosen by the Commissioner that—
+  (a) gives notice that the determination has been issued or changed, as applicable; and
+  (b) states where copies of the determination can be obtained.
 
 ## Part 5A — Binding rulings
 
