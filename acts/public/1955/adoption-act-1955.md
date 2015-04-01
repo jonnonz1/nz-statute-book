@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2014-03-31_
+_Consolidation as at 2015-04-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -202,7 +202,7 @@ In any case where a District Court has refused to make an interim order or an ad
     (c) an adoption order made before 1 April 1954 shall not affect the operation of any rule of Maori custom as to intestate succession to Maori land.
 (4) Subsection (2)(i) applies to all maintenance orders, whether made before, on, or after 1 July 1992.
 (5) The first proviso to subsection (2)(a) applies subject to section 6(2) of the Child Support Act 1991.
-(6) The first proviso to subsection (2)(i) applies subject to section 25(1)(b)(iii) of the Child Support Act 1991.
+(6) The first proviso to subsection (2)(i) applies subject to section 25(2)(b) of the Child Support Act 1991.
 
 ### 17 Effect of overseas adoption
 (1) Where a person has been adopted (whether before or after the commencement of this section) in any place outside New Zealand according to the law of that place, and the adoption is one to which this section applies, then, for the purposes of this Act and all other New Zealand enactments and laws, the adoption shall have the same effect as an adoption order validly made under this Act, and shall have no other effect.
