@@ -1,5 +1,5 @@
 # Financial Reporting (Amendments to Other Enactments) Act 2013
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2015-04-01_
 
 ### 1 Title
 This Act is the Financial Reporting (Amendments to Other Enactments) Act 2013.
@@ -1074,7 +1074,7 @@ Sections 99 to 102 amend the Industrial and Provident Societies Act 1908 (the pr
   (3) Subsection (1)(b) to (e) do not apply in relation to sections 8A to 8M.
 
 ### 100 New sections 8A to 8M inserted
-After section 8, insert:Accounting records must be keptNon-application of provisions if alternative financial reporting duties under financial markets legislationInterpretation for financial reporting provisionsFinancial statements must be preparedFinancial statements must be audited Audit must be carried out in accordance with auditing and assurance standardsFinancial statements must be sent to membersRegistration of financial statementsInspection of registered financial statementsFinancial reporting offencesSocieties (other than large societies) may opt out of preparation and audit requirementsLarge societies may opt out of audit requirementsResolution to opt out
+After section 8, insert:Accounting records must be keptNon-application of provisions if alternative financial reporting duties under financial markets legislationInterpretation for financial reporting provisionsFinancial statements must be preparedFinancial statements must be auditedAudit must be carried out in accordance with auditing and assurance standardsFinancial statements must be sent to membersRegistration of financial statementsInspection of registered financial statementsFinancial reporting offencesSocieties (other than large societies) may opt out of preparation and audit requirementsLarge societies may opt out of audit requirementsResolution to opt out
   (1) Every registered society must ensure that there are kept at all times accounting records that—
     (a) correctly record the transactions of the society; and
     (b) will enable the society to ensure that the financial statements of the society comply with generally accepted accounting practice (if the society is required to prepare those statements); and
@@ -1156,7 +1156,7 @@ Repeal section 10(f).
 In section 74(1)(f), after section 75, insert (if any).
 
 ### 107 Section 75 replaced (Obligation to prepare financial statements)
-Replace section 75 with:Financial reportingFinancial statements must be preparedFinancial statements must be audited Audit must be carried out in accordance with auditing and assurance standardsDistribution of financial statementsFinancial reporting offencesNon-application of provisions if alternative financial reporting duties under financial markets legislationLimited partnership may opt inLarge limited partnerships may opt out of audit requirementAnnual return.
+Replace section 75 with:Financial reportingFinancial statements must be preparedFinancial statements must be auditedAudit must be carried out in accordance with auditing and assurance standardsDistribution of financial statementsFinancial reporting offencesNon-application of provisions if alternative financial reporting duties under financial markets legislationLimited partnership may opt inLarge limited partnerships may opt out of audit requirementAnnual return.
   (1) The general partners of a large limited partnership, or of a limited partnership that has opted into compliance with this section under section 75F, must ensure that, within 5 months after the balance date of the limited partnership, financial statements that comply with generally accepted accounting practice are—
     (a) completed in relation to the limited partnership and that balance date; and
     (b) dated and signed on behalf of the general partners by 2 general partners of the limited partnership, or, if the limited partnership has only 1 general partner, by that general partner.
@@ -1210,7 +1210,7 @@ Replace section 75 with:Financial reportingFinancial statements must be prepared
 Section 110 amends the Partnership Act 1908 (the principal Act).
 
 ### 110 New sections 34A to 34H and cross-heading inserted
-After section 34, insert:Financial reportingNon-application of provisions if alternative financial reporting duties under financial markets legislationAccounting recordsFinancial statements must be preparedInterpretation for purposes of financial reporting provisionsFinancial statements must be audited Audit must be carried out in accordance with auditing and assurance standardsFinancial reporting offencesPartnerships may opt out of audit requirement
+After section 34, insert:Financial reportingNon-application of provisions if alternative financial reporting duties under financial markets legislationAccounting recordsFinancial statements must be preparedInterpretation for purposes of financial reporting provisionsFinancial statements must be auditedAudit must be carried out in accordance with auditing and assurance standardsFinancial reporting offencesPartnerships may opt out of audit requirement
   Sections 34C to 34H do not apply to a partnership in relation to an accounting period if financial statements of the partnership are required to be prepared for that period under subpart 3 of Part 7 of the Financial Markets Conduct Act 2013 or section 55 of the Financial Reporting Act 2013.
   (1) The partners of a large partnership must ensure that there are kept at all times accounting records that—
     (a) correctly record the transactions of the partnership; and
