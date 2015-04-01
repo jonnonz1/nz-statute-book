@@ -1,31 +1,41 @@
 # Child Support Act 1991
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2015-04-01_
 
-> An Act—ato assess the minimum level of financial support payable by certain parents in respect of their children; andbto provide for the collection and payment of child support and spousal maintenance payments; andcto make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
+> Title
 
-### 1 Short Title and commencement
-(1) This Act may be cited as the Child Support Act 1991.
+### 1 Title and commencement
+(1) This Act is the Child Support Act 1991.
 (2) This Act is hereby declared to be one of the Inland Revenue Acts within the meaning of the Tax Administration Act 1994.
 (3) Except as provided in subsection (4) and section 253, this Act shall come into force on the day on which it receives the Royal assent.
 (4) Part 11 and Part 15 shall come into force on 1 July 1992.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **adjusted taxable income** has the meaning in section 35
+  - **annual amount of child support** means the amount payable in a child support year by a liable parent in respect of a qualifying child
+  - **annual rate of child support** means the total amount payable in a child support year by a liable parent in respect of all of his or her qualifying children
   - **approved form** , in relation to any application or other matter, means a form made available by the Commissioner for the purposes of that application or matter
   - **assessment** means an assessment of child support or domestic maintenance in accordance with this Act
   - **bank** has the meaning given to it by section 155
+  - **care cost percentage** means the percentage of costs associated with providing a proportion of ongoing daily care to a child; and, in relation to a particular parent or carer of a child, is the percentage set out in column 2 of the table in Schedule 2 that reflects the proportion of ongoing daily care that the Commissioner establishes (under section 14) that the person provides to the child
+  - **care order or agreement** means any of the following that are in force:
+    (a) a parenting order made under section 48(1) of the Care of Children Act 2004:
+    (b) an overseas parenting order as defined in section 8 of the Care of Children Act 2004:
+    (c) any agreement (not being an order referred to in paragraph (a) or (b))—
+      (i) that the parents and carers of a child agree to treat as binding on them; and
+      (ii) that identifies the proportion of care that each parent and carer of the child will provide to the child
+  - **carer** means, in relation to a child, a person (whether or not a parent) who provides ongoing daily care to the child, other than on a commercial basis
+  - **child expenditure amount** has the meaning set out in section 30(2)
+  - **child expenditure table** means, in relation to a child support year, the child expenditure table approved by the Commissioner under section 36D applying to that year
   - **child support** means any payment required to be made under this Act by any person towards the support of a qualifying child, whether under a formula assessment or a voluntary agreement or an order of the court
-  - **child support income amount** has the meaning given to it by section 29
-  - **child support percentage** has the meaning given to it by section 29
+  - **child support group** , in relation to a parent who, at a particular time, has more than 1 qualifying child, means the qualifying children of that parent who all share the same other parent and in relation to whom child support for that time has been assessed or is being assessed
+  - **child support income amount** has the meaning given to it by section 34
   - **child support year** means—
     (a) the period of 9 months commencing on 1 July 1992 and ending with 31 March 1993; or
     (b) the year commencing on 1 April 1993 and ending with 31 March 1994; or
     (c) any subsequent year commencing on 1 April and ending with 31 March
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
   - **domestic maintenance** means any payment required to be made under this Act by any person towards the support of another person under section 58(2) or section 68(2)
-  - **election period** , in relation to a child support year and to an election made by a person under section 40 that complies with that section, means the period in that child support year in which that election applies in accordance with section 41
-  - **eligible applicant** , in relation to a qualifying child, means a person who is entitled to apply for a formula assessment of child support under section 8 or section 10
-  - **eligible custodian** has the same meaning as in section 8
   - **employee** has the same meaning as in paragraph (a) of the definition of employee in section YA 1 of the Income Tax Act 2007
   - **employer** has the same meaning as in paragraphs (a) and (b) of the definition of employer in section YA 1 of the Income Tax Act 2007
   - **Family Court** means a division of a District Court known, in accordance with section 4 of the Family Courts Act 1980, as a Family Court
@@ -38,21 +48,27 @@ _Consolidation as at 2014-12-07_
     (b) in receipt of a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998; or
     (c) in receipt of payments under a government-assisted scheme which the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 considers to be analogous to a benefit payable under the Social Security Act 1964; or
     (d) in receipt of a benefit (as defined in section 3 of the Social Security Act 1964) payable under that Act
-  - **formula assessment** means an assessment made by the Commissioner in accordance with Part 2
+  - **formula assessment** means an assessment made by the Commissioner in accordance with Parts 1 and 2
   - **full employment** , in relation to any person, means—
     (a) employment under a contract of service or apprenticeship which requires the person to work, whether on time or piece rates, not less than an average of 30 hours per week; or
     (b) self-employment of the person in any business, profession, trade, manufacture, or undertaking carried on for pecuniary profit for not less than an average of 30 hours per week; or
     (c) employment of the person for any number of hours which is regarded as full-time employment for the purposes of any award, agreement, or contract relating to that employment
-  - **income amount order** , in relation to a liable parent, means a determination under Part 5A, 6A, or 6B or an order under Part 7, being a determination or an order varying the child support income amount of the liable parent or making provision with respect to the calculation of that amount
+  - **income amount order** means a determination under Part 5A, 6A, or 6B, or an order under Part 7, that, in relation to a person who is subject to a formula assessment, substitutes a new—
+    (a) child support income amount; or
+    (b) amount of taxable income or adjusted taxable income; or
+    (c) annual amount of child support
   - **income from employment** has the same meaning as in paragraph (a) of the definition of that term in section YA 1 of the Income Tax Act 2007 in respect of the activities of a specified office
-  - **inflation percentage** has the meaning given to it by section 29
+  - **income percentage** means, in relation to a parent of a qualifying child, that parent's percentage of the combined child support income amounts of all the child's parents, as determined under section 33
+  - **inflation percentage** means, in relation to a child support year, the movement in the all groups index number of the New Zealand Consumers Price Index during the 12-month period that ends with 31 December before the start of the child-support year
   - **last relevant tax year** means,—
-    (a) in a case where a liable parent's taxable income for the most recent tax year was derived solely from withholding income, the most recent tax year:
-    (b) in the case of any other liable parent, the tax year immediately preceding the most recent tax year
-  - **liable parent** means a parent who is liable to pay child support in respect of any qualifying child under section 18 or section 58(1) or section 68(1)
+    (a) in a case where a parent's taxable income for the most recent tax year was derived solely from withholding income, and has no adjustments of the sort referred to in section 35(1), the calendar year ending in that tax year:
+    (b) in any other case, the tax year immediately preceding the most recent tax year
+  - **liable parent** means,—
+    (a) in relation to a parent subject to a formula assessment, a parent of a qualifying child who the Commissioner determines under section 17 is a liable parent of the child; and
+    (b) in relation to any other parent, a parent who is liable to pay child support under section 58(1) or 68(1)
   - **liable person** means a person who is liable to pay financial support under this Act
   - **liable spouse or partner** means a person who is liable to pay domestic maintenance under section 58(2) or section 68(2)
-  - **living allowance** has the meaning given to it by section 30
+  - **living allowance** has the meaning given to it by section 35A
   - **most recent tax year** , in relation to a child support year, means the tax year that ended on 31 March immediately preceding the start of that child support year
   - **officer of the Department** means an officer of the Department as defined in the Tax Administration Act 1994
   - **ordinarily resident in New Zealand** has the meaning given to it by section 218
@@ -61,22 +77,15 @@ _Consolidation as at 2014-12-07_
     (b) includes the Cook Islands, Niue, and Tokelau
   - **parent** , in relation to a child, means a person to whom section 7 applies
   - **payee** means,—
-    (a) in relation to any child support required to be paid in respect of any qualifying child, the person who is the qualifying custodian of that child in relation to the child support so payable:
+    (a) in relation to any child support required to be paid in respect of any qualifying child, a person who is a receiving carer of that child in relation to the child support so payable:
     (b) in relation to any domestic maintenance, the person who is entitled to receive that domestic maintenance under section 58(2) or section 68(2)
   - **person** includes a company, a local or public authority, and an unincorporated body of persons
-  - **principal provider of ongoing daily care** , in respect of a child, has the meaning given to it by sections 11 and 12
   - **proceeding** means a proceeding before a court or before the Commissioner under Part 5A, 6A, or 6B
-  - **properly made** ,—
-    (a) in relation to an application for formula assessment of child support, means made in accordance with section 14; and
-    (b) in relation to an application for acceptance of a voluntary agreement, means made in accordance with section 55
+  - **properly made** , in relation to an application for acceptance of a voluntary agreement, means made in accordance with section 55
   - **property** includes real and personal property, and any estate or interest in any real or personal property, and any debt, and any thing in action, and any other right or interest
   - **qualifying child** means a child to whom section 5 applies
-  - **qualifying custodian** , in relation to any qualifying child, means a person who is a custodian entitled to child support in relation to the child in terms of section 18 or section 58(1) or section 68(1)
   - **qualifying voluntary agreement** means a voluntary agreement that, under section 48, qualifies for acceptance by the Commissioner
-  - **relevant average weekly earnings amount** has the meaning given to it by section 29
-  - **shared custody child** —
-    (a) means a child whose ongoing daily care is shared substantially equally between 2 persons; but
-    (b) does not include a child in respect of whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989
+  - **receiving carer** means a carer of a qualifying child who the Commissioner determines under section 17 is a receiving carer of the child
   - **social security benefit** means—and means a person who is in receipt of one of those benefits
     (a) sole parent support granted under section 20D of the Social Security Act 1964:
     (b) an unsupported child's benefit granted under section 29 of the Social Security Act 1964:
@@ -89,8 +98,8 @@ _Consolidation as at 2014-12-07_
     (d) where the person is a sole parent within the meaning of the Social Security Act 1964 and the application for the benefit was made on or after 1 August 1991, an emergency benefit granted under section 61 of that Act,—
   - **source deduction payment** means a PAYE income payment (as defined in section RD 3 of the Income Tax Act 2007)
   - **step-parent** , in relation to any child, means, in applying any provision of this Act relating to the liability of a person to pay child support, any person who has been declared to be a step-parent of the child by a Family Court under section 99
-  - **substantially equal sharing of ongoing daily care** , in respect of a child, has the meaning given to it by section 13
-  - **taxable income** has the meaning given to it by section 29
+  - **tax year** has the meaning in section YA 1 of the Income Tax Act 2007
+  - **taxable income** has the meaning in section YA 1 of the Income Tax Act 2007
   - **unincorporated body of persons** includes—
     (a) a partnership:
     (b) a joint venture:
@@ -102,8 +111,8 @@ _Consolidation as at 2014-12-07_
 (3) For the purposes of this Act, a tax year corresponds with a child support year if,—
   (a) in relation to a person whose income is assessed under the Tax Administration Act 1994, the tax year ends on the last day of the child support year:
   (b) in relation to a person who is resident in a country outside New Zealand, the tax year of that country ends on a date nearest to the last day of the child support year.
-(4) For the purposes of subsection (3)(a), if a person's income is assessed in relation to the year ending with the annual balance date of the person's accounts, the corresponding year is determined in accordance with section 38 of the Tax Administration Act 1994.
-(5) For the purposes of subsection (3)(b), 30 September in any year is deemed to be nearer to the last preceding 31 March than to the next succeeding 31 March.
+(4) For the purposes of subsection (3)﻿(a), if a person's income is assessed in relation to the year ending with the annual balance date of the person's accounts, the corresponding year is determined in accordance with section 38 of the Tax Administration Act 1994.
+(5) For the purposes of subsection (3)﻿(b), 30 September in any year is deemed to be nearer to the last preceding 31 March than to the next succeeding 31 March.
 
 ### 3 Act to bind the Crown
 Subject to section 186, this Act shall bind the Crown.
@@ -115,26 +124,39 @@ Schedule 1 contains transitional and savings provisions (relating to amendments 
 The objects of this Act are—
   (a) to affirm the right of children to be maintained by their parents:
   (b) to affirm the obligation of parents to maintain their children:
-  (c) to affirm the right of caregivers of children to receive financial support in respect of those children from non-custodial parents of the children:
-  (d) to provide that the level of financial support to be provided by parents for their children is to be determined according to their capacity to provide financial support:
+  (c)
+  (d) to provide that the level of financial support to be provided by parents for their children is to be determined according to their relative capacity to provide financial support and their relative levels of provision of care:
   (e) to ensure that parents with a like capacity to provide financial support for their children should provide like amounts of financial support:
   (f) to provide legislatively fixed standards in accordance with which the level of financial support to be provided by parents for their children should be determined:
-  (g) to enable caregivers of children to receive support in respect of those children from parents without the need to resort to court proceedings:
-  (h) to ensure that equity exists between custodial and non-custodial parents, in respect of the costs of supporting children:
+  (fa) to affirm the right of carers who provide significant care to children to receive financial support in respect of those children from a parent or parents of the children:
+  (g) to enable carers of children to receive support in respect of those children from parents without the need to resort to court proceedings:
+  (h) to ensure that equity exists between parents and, where applicable, carers, in respect of the costs of supporting children:
   (i) to ensure that obligations to birth and adopted children are not extinguished by obligations to stepchildren:
-  (j) to ensure that the costs to the State of providing an adequate level of financial support for children and their custodians is offset by the collection of a fair contribution from non-custodial parents:
+  (j) to ensure that the costs to the State of providing an adequate level of financial support for children and their carers is offset by the collection of a fair contribution from liable parents:
   (k) to provide a system whereby child support and domestic maintenance payments can be collected by the Crown, and paid by the Crown to those entitled to the money.
+
+### 4A Overview of child support payable under formula assessment
+(1) A parent or non-parent carer of a qualifying child may apply to the Commissioner for a formula assessment of child support payable for that child by a liable parent.
+(2) The Commissioner will then determine the proportion of care that each carer of the child provides, and the income of each parent of the child, and, using that information, will identify the parent or parents who are liable to pay child support, and the carer or carers who are entitled to receive child support, in respect of the child.
+(3) A person will be a liable parent in respect of a child if his or her income percentage (which is a percentage of the combined child support income amounts of both the child's parents) is greater than the person's care cost percentage (which is a cost percentage directly related to the proportion of care that the parent provides to the child).
+(4) If annual child support is payable by a liable parent for a qualifying child, the amount is determined under Part 2. It is worked out by deducting the liable parent's care cost percentage from their income percentage, and then multiplying the result by the appropriate amount set out in the relevant child expenditure table (which identifies, amongst other things, the average annual expenditure on children in New Zealand, by reference to average weekly earnings).
+(5) This section is by way of explanation only. If it is inconsistent with any other provision of this Act, the other provision prevails.
 
 ## Part 1 — Liability to pay child support under formula assessment
 
 **General principles concerning liability to pay child support**
 
 ### 5 Children who qualify for child support
-A child qualifies for child support if he or she—
-  (a) is under 19 years of age; and
+(1) A child qualifies for child support if he or she—
+  (a) is under the age of 18, or is aged 18 and enrolled at and attending a school; and
   (b) is not living with another person in a marriage, civil union or de facto relationship; and
   (c) is not financially independent; and
   (d) is a New Zealand citizen or is ordinarily resident in New Zealand.
+(2) In subsection (1)﻿(a), school means—
+  (a) a registered school (as defined in section 2(1) of the Education Act 1989); or
+  (b) an overseas school.
+(3) A child who is enrolled at a registered school and attends it until the end of the school's academic year is deemed to be enrolled at and attending the school until 31 December in that year.
+(4) In relation to the child support year commencing on 1 April 2015, subsection (1) must be read as if the whole of paragraph (a) were replaced by a reference to a child under 19 years of age.
 
 ### 6 Parents by whom child support payable
 (1) Child support may be sought in respect of a qualifying child from any person—
@@ -169,186 +191,176 @@ A child qualifies for child support if he or she—
 (2) If a document purporting to be the original or a copy of an order or decree made by a court or public authority of an overseas jurisdiction is provided to the Commissioner, the Commissioner may, in his or her discretion, disregard the document for the purposes of this Act if the Commissioner is not satisfied that the document is valid and authentic.
 (3) This section does not limit section 7(2).
 
-**Persons who may apply for formula assessment of child support**
+### 7B Assumptions about parents of child
+(1) The Commissioner is entitled to assume, for the purposes of a formula assessment, that a qualifying child has 2 parents, and that those parents are living apart.
+(2) However, if the Commissioner believes on reasonable grounds that either of those assumptions is incorrect, the Commissioner must apply the provisions of this Act, with any necessary modifications, to reflect the true position as determined by the Commissioner.
 
-### 8 Custodian may apply for formula assessment
-(1) A person—may apply for a formula assessment of child support.
-  (a) who seeks payment of child support from a parent of a qualifying child; and
-  (b) who is an eligible custodian in respect of that child,—
-(2) A person is an eligible custodian of a child if that person—
-  (a) is the sole or principal provider of ongoing daily care for the child or shares ongoing daily care of the child substantially equally with another person; and
-  (b) is not living with the person from whom payment of child support is sought in a marriage, civil union or de facto relationship.
-(3) Notwithstanding subsection (2), where a child is a child in respect of whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989, the only eligible custodian in relation to that child shall be the person with the duty under that Act to make those payments, being one of the following:
+**Application for formula assessment**
+
+### 8 Who may apply for formula assessment
+(1) Any parent or carer of a qualifying child may apply to the Commissioner for a formula assessment of child support payable by a liable parent in respect of the child, if the applicant is not living with that parent in a marriage, civil union, or de facto relationship.
+(2) However, if a qualifying child is a child in respect of whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989, then, despite subsection (1), the only person who may apply for a formula assessment in relation to the child is either of the following:
   (a) the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
   (b) a body or organisation approved under section 396 of that Act.
-(4) Where, pursuant to subsection (2), 2 or more people who live together are both eligible custodians in relation to a child, then, notwithstanding that subsection,—
-  (a) only 1 of those people shall be the eligible custodian in relation to that child; and
-  (b) where 1 of those people is a parent of the child, that parent shall be the eligible custodian.
 
-### 9 Custodian in receipt of social security benefit must apply for formula assessment
-(1) Any person—must apply for a formula assessment of child support in relation to any person who is a liable parent of the child.
-  (a) who is an eligible custodian in relation to a qualifying child; and
-  (b) who is in receipt of a social security benefit,—
-(1A) Where a person is in receipt of an unsupported child's benefit in respect of a child, but is not in receipt of any other social security benefit, subsection (1) shall require the person to apply for a formula assessment of child support only in relation to the child or children in respect of whom the unsupported child's benefit is paid.
-(2) Where 2 or more parents are liable to pay child support in respect of the child, and subsection (1) applies to the custodian in relation to each parent, the custodian must apply for formula assessment of child support in relation to each liable parent of the child.
-(3) Every application required by this section shall be made at the same time as an application for the social security benefit is made and at any other time when the Commissioner notifies the eligible custodian of the qualifying child that an application under this section is required in relation to the qualifying child.
-(4) Section 70A of the Social Security Act 1964 applies to any person who fails to comply with this section.
+### 9 Social security beneficiaries must apply for formula assessment
+(1) This section applies to a person who is a carer of a qualifying child (other than a child to whom section 8(2) applies) and—
+  (a) is a social security beneficiary; and
+  (b) provides, or considers that he or she provides, at least 35% of ongoing daily care to the child; and
+  (c) is not already a receiving carer in respect of the child (but see subsection (4)).
+(2) A person to whom this section applies must apply for a formula assessment of child support in relation to every parent of the child.
+(3) An application for a formula assessment must be made at the same time as an application for social security benefit is made, and at any other time when the Commissioner notifies the beneficiary that an application for a formula assessment is required in relation to a qualifying child.
+(4) If a person who is or becomes a social security beneficiary receives child support pursuant to an order under Part 4 that relates to an overseas order (as referred to in section 67(b)),—
+  (a) the person is deemed not to be a receiving carer for the purpose of this section; and
+  (b) the person is deemed to have made, on the date on which he or she becomes a social security beneficiary, an election under section 70 that the order be one to which Part 4 does not apply; and
+  (c) if the person ceases to be a social security beneficiary, or ceases to provide at least 35% of ongoing daily care to the child,—
+    (i) any formula assessment applying at that time ceases to apply; and
+    (ii) the election under section 70 is deemed to be revoked (despite section 70(4)) on the following day.
+(5) If the person is in receipt of an unsupported child's benefit in respect of 1 or more children, but is not in receipt of any other social security benefit, subsection (2) applies only in relation to the child or children in respect of whom the unsupported child's benefit is paid.
+(6) Any social security beneficiary who fails to comply with their obligations under this section is liable under section 70A of the Social Security Act 1964 to have their rate of benefit reduced.
+(7) In order to ensure the enforcement of section 70A of the Social Security Act 1964, the Commissioner may notify the chief executive of the department responsible for the administration of that Act if any social security beneficiary fails to comply with his or her obligations under this section, or if his or her application for a formula assessment is not properly completed.
 
-### 10 Non-custodial parent of child may apply for formula assessment
-A parent who wishes to pay child support under a formula assessment may apply for a formula assessment if that person is not living with the custodian of the child in a marriage, civil union or de facto relationship.
+### 10 Form of application
+(1) An application for formula assessment must be in an approved form and be accompanied by the documents (if any) specified in the form.
+(2) Every application must—
+  (a) identify at least 1 qualifying child to whom the application relates; and
+  (b) identify, in relation to each qualifying child, at least 1 person who provides at least 35% of ongoing daily care to the child; and
+  (c) identify at least 1 person as a liable, or potentially liable, parent of each qualifying child identified; and
+  (d) include the tax file number (as defined in section YA 1 of the Income Tax Act 2007) of each qualifying child (except to the extent that the application form permits otherwise).
+(3) The application, and every document accompanying it, must be verified as specified in the application form.
+(4) An application for a formula assessment is properly completed if—
+  (a) it contains all the information required by the application form to be supplied; and
+  (b) it is accompanied by all the documents required by the application form to accompany the application; and
+  (c) the application and documents are verified as required by the application form.
 
 **Persons who are principal providers of care or who share care substantially equally**
 
-### 11 Person who is principal provider of care for child
-For the purposes of this Act, the person who has the greatest responsibility for a child shall be the person who is the principal provider of ongoing daily care for the child.
+### 11 Multiple applications in single form
+(1) If an application for a formula assessment is made on a single form in respect of 2 or more children, the form may be treated as if it contained separate applications for formula assessment of child support for each child.
+(2) Subsection (3) applies if—
+  (a) an application is made on a single form for child support in respect of 1 child or 2 or more children; and
+  (b) payment of child support is sought from both parents of the child or any of the children.
+(3) When this subsection applies, the form may be treated as if it contained separate applications for a formula assessment of child support in respect of the child or each of the children from a parent from whom payment of child support is sought.
 
-### 12 Position where no agreement as to who is principal provider of care
-Where there is disagreement as to who is the principal provider of ongoing daily care for a child, the following guidelines shall apply:
-  (a) where the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 determines that a person has primary responsibility for the child under section 70B of the Social Security Act 1964, that person shall be regarded as having the greatest responsibility for the child:
-  (b) where paragraph (a) does not apply, the Commissioner shall have regard primarily to the periods the child is in the care of each person, and then to the following factors:
-    (i) how the responsibility for decisions about the daily activities of the child is shared; and
-    (ii) who is responsible for taking the child to and from school and supervising that child's leisure activities; and
-    (iii) how decisions about the education or health care of the child are made; and
-    (iv) the financial arrangements for the child's material support; and
-    (v) which parent pays for which expenses of the child.
+### 12 Deemed application by beneficiary
+(1) This section applies if a social security beneficiary is entitled to child support payments under a voluntary agreement but child support payments then cease to be payable under the agreement because—
+  (a) the agreement expires; or
+  (b) the amount payable by the liable parent is less than the amount that would be payable by the liable parent under a formula assessment; or
+  (c) an election under section 64 (to terminate liability under the voluntary agreement) takes effect.
+(2) If this section applies, on the day after the date on which the child support payments cease to be payable under the agreement, the Commissioner is deemed to have received from the beneficiary a properly completed application for a formula assessment for child support, as required by section 9, in relation to the same child or children, the same liable parent, and the same carer, as the voluntary agreement related to.
 
-### 13 Substantially equal sharing of care of child
-(1) For the purposes of this Act, if—the other person is to be taken to share ongoing daily care of the child substantially equally with the first-mentioned person.
-  (a) a person is the principal provider of ongoing daily care for a child; and
-  (b) another person has care of the child for at least 40% of the nights of the child support year concerned,—
-(2) Subsection (1) is not to be taken to limit by implication the circumstances in which a person shares ongoing daily care of a child substantially equally with another person.
+### 13 Notification by Commissioner of application
+(1) On receiving a properly completed application for a formula assessment in respect of 1 or more qualifying children, the Commissioner must notify the applicant, and every parent and carer identified in the application, that the Commissioner has received an application for a formula assessment and will therefore ascertain—
+  (a) who the liable parent or parents, and who the receiving carer or carers, of the qualifying child are; and
+  (b) the annual amount of child support payable by any liable parent in respect of each qualifying child identified in the application; and
+  (c) the annual rate of child support payable by any liable parent in respect of all the liable parent's qualifying children; and
+  (d) the amount payable in respect of each receiving carer; and
+  (e) the date on which the liability of a liable parent to pay child support began or begins.
+(2) If, in order to ascertain the matters listed in subsection (1), the Commissioner needs further information from the applicant (such as the name of the other parent), the Commissioner may require the applicant to provide that information and need not take further action with respect to the application until the information is provided.
+(3) If the Commissioner has already ascertained some or all of the matters listed in subsection (1), the notice under this section may include that information.
 
-**Procedure on application for formula assessment**
+**Determining care cost percentages**
 
-### 14 Application requirements
-(1) An application for formula assessment of child support is properly made if—
-  (a) it is made in respect of a qualifying child; and
-  (b) it is made by an eligible applicant; and
-  (c) it requires the payment of child support by a person to whom section 6 applies in respect of that child; and
-  (d) it is made to the Commissioner in the appropriate approved form; and
-  (e) it contains such proof as the Commissioner may require that the person from whom child support is sought is a parent of the qualifying child; and
-  (ea) the tax file number (as defined in section YA 1 of the Income Tax Act 2007) of the qualifying child is provided; and
-  (f)
-  (g) it is verified as required by the form of application; and
-  (h) it is accompanied by such documents (if any) as are required by the form of application to accompany the application.
-(2) Any document that accompanies the application must also be verified as required by the form of application.
+### 14 Commissioner to establish proportions of care
+(1) The Commissioner must establish, for each qualifying child to whom a properly completed application relates, the proportion of ongoing daily care that each parent and non-parent carer identified in the application, or in other information provided following a request under section 13(2), provides to the child.
+(2) If 2 or more people who live together each provide ongoing daily care to a child,—
+  (a) only 1 of those people may be treated as a carer, and the care provided by the other persons must be treated as part of the care provided by the first person; and
+  (b) if 1 of the people is a parent of the child, that person must be treated as the carer.
+(3) The parents of a qualifying child in respect of whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989 are deemed to provide no ongoing daily care to the child.
 
-### 15 Dual applications
-(1) If application is made under this Part on the same form for child support in respect of 2 or more children, the form may be treated as if it contained separate applications for formula assessment of child support for each of the children.
-(2) If—the form may be treated as if it contained separate applications for formula assessment of child support, in respect of the child or each of the children, from each of the persons from whom payment of child support is sought.
-  (a) application is made under this Part on the same form for child support in respect of a child or 2 or more children; and
-  (b) payment of child support is sought from 2 or more persons for the child or any of the children,—
+### 15 How Commissioner establishes proportions of care
+(1) For the purpose of section 14, the Commissioner must (subject to subsection (3)) rely on the content of any care order or agreement relating to a qualifying child when establishing the proportion of ongoing daily care that a carer provides to the child.
+(2) If a care order or agreement specifies the proportion of nights that a child is to spend with a carer, that proportion of nights is taken to be the proportion of ongoing daily care provided to the child by that carer.
+(3) A parent or carer of a qualifying child may challenge the application of subsection (1) or (2) by providing evidence of—
+  (a) why a care order or agreement should not be relied on; or
+  (b) why the proportion of nights that a child spends with a carer should not be taken to be the proportion of ongoing daily care provided to that child by that carer.
+(4) If there is no care order or agreement relating to the child, or if the Commissioner is satisfied, on the basis of evidence provided, that a care order or agreement does not accurately reflect the proportion of ongoing daily care provided by a carer to a child, the Commissioner must establish the proportion of care provided by a carer primarily on the basis of the number of nights that the child spends with the carer.
+(5) If the Commissioner is satisfied, on the basis of evidence provided, that the number of nights spent with a carer is not a true reflection of the proportion of care actually provided by a carer to the child, the Commissioner must establish the proportion of care provided on the basis of the amount of time that the carer is the person responsible for the daily care of the child.
+(6) When establishing proportions of care, the Commissioner—
+  (a) must use only whole percentage figures and, for that purpose, must round figures over 50% upwards to the next whole percentage figure, and figures under 50% downwards to the next whole percentage figure; and
+  (b) must assume that every year has 365 days.
 
-### 16 Deemed application by beneficiary where child support ceases to be payable under voluntary agreement
-(1) If—the person is deemed to have made a properly made application for formula assessment of child support to the Commissioner that complies with section 14.
-  (a) a voluntary agreement entitles a person who is in receipt of a social security benefit to receive child support; and
-  (b) child support then ceases to be payable under the agreement because—
-    (i) the agreement expires; or
-    (ii) section 50 commences to apply to the agreement; or
-    (iii) a notice of election under section 64 takes effect,—
-(2) Every such application shall be deemed—
-  (a) to seek payment of child support from the parent liable to pay child support under the agreement; and
-  (b) to be in respect of the same qualifying child or qualifying children as the child or children towards whose support child support was payable under the agreement; and
-  (c) to have been received by the Commissioner on the day on which child support ceased to be payable under the agreement.
+### 16 Determining care cost percentages
+(1) The Commissioner must determine the care cost percentage of each parent and carer of a qualifying child on the basis of the proportion of care that the Commissioner has established, under section 14, that each carer provides to the child.
+(2) The care cost percentage that applies is the relevant percentage set out in, or determined in accordance with, column 2 of the table in Schedule 2.
 
-### 17 Decision on application
-(1) The Commissioner shall accept an application for formula assessment if satisfied that the application is properly made.
-(2) The Commissioner may refuse to accept the application if not satisfied that it is properly made.
-(3) In determining whether an application is properly made, the Commissioner—
-  (a) may act on the basis of the application and the documents accompanying the application and any other information in the Commissioner's possession; and
-  (b) is not required to conduct any enquiries or investigations into the matter.
+**Liable parents and receiving carers**
+
+### 17 Determining who are liable parents and receiving carers
+(1) The Commissioner must determine the liable parents and receiving carers of each qualifying child, in accordance with this section.
+(2) A parent of a qualifying child is a liable parent of that child if the parent's income percentage (as determined under section 33) is greater than or equal to their care cost percentage for that child (as determined under section 16).
+(3) A parent of a qualifying child is a receiving carer of the child if the parent's income percentage is less than their care cost percentage for the child.
+(3A) Despite subsections (2) and (3), a parent whose income percentage is 100% and whose care cost percentage is also 100% is a receiving carer.
+(4) A non-parent carer of a qualifying child is a receiving carer of the child if the carer provides at least 35% of ongoing daily care to the child.
 
 **Commencement of liability to pay child support**
 
-### 18 Liability arises on acceptance of application
-If the Commissioner accepts an application for formula assessment of child support in respect of a child,—
-  (a) child support is payable under a formula assessment in respect of the child; and
-  (b) a parent named in the application as a parent from whom the payment of child support is sought is a person who is liable to make payments of child support in accordance with the assessment; and
-  (c) a person named in the application as an eligible custodian of the child is a person who is entitled to receive payment of child support in relation to the child in accordance with the assessment; and
-  (d) child support commences to be payable from whichever is the later of—
-    (i) the day on which the application is received by the Commissioner; or
-    (ii) if the application is refused under section 17(2), the day on which the application is properly made.
+### 18 Effect of being liable parent or receiving carer
+(1) A person who the Commissioner determines is a liable parent of a child is liable to make payments of child support in respect of that child, unless the parent's liability is assessed as nil in accordance with section 31(1).
+(2) A person who the Commissioner determines is a receiving carer of a child is a person in relation to whom child support payments in respect of the child are payable, unless no child support is payable in accordance with section 36A(3) or 36C(4).
 
-### 19 Commencement of liability of person declared to be parent after application made
-Notwithstanding section 18, where the Commissioner is unable to accept an application for formula assessment of child support in respect of a child because at the time the application was made the Commissioner was not satisfied that the person from whom payment of child support is sought is a parent of the child, and subsequently—child support is payable by the person in respect of the child from the day on which the application was received by the Commissioner.
-  (a) a court declares the person to be a parent of the child; or
-  (b) the person is declared to be a parent of the child by an order made by a court or a public authority in an overseas jurisdiction,—
+**Beginning of liability to pay child support under formula assessment**
+
+### 19 When liability to pay child support starts
+(1) The liability of a liable parent to pay child support under a formula assessment starts—
+  (a) from the day on which the properly completed application for that formula assessment is received by the Commissioner; or
+  (b) if a reassessment results in a person being identified as a liable parent, from the date specified in the reassessment as the effective date.
+(2) If a parent becomes liable to pay child support to a person in relation to a child under a formula assessment, any existing liability of that parent to pay child support to the person in relation to that child under any voluntary agreement is suspended between the commencement of liability to pay under the formula assessment and the end of that liability.
+(3) If the Commissioner receives an application for a formula assessment that names a person as a parent of a qualifying child (person P), but person P is not at that time a parent of the child within the meaning of section 7, then, if the application is otherwise properly completed, liability by person P to pay child support in respect of the child starts from the day on which the application was received if—
+  (a) a court later declares person P to be the parent of the child, or person P is later declared to be a parent of the child by an order made by a court or a public authority in an overseas jurisdiction; and
+  (b) the Commissioner determines under this Part that person P is a liable parent of the child.
 
 ### 20 Suspension of voluntary agreements
-Where—the liability of the liable parent to pay money towards the support of the child under the agreement shall be suspended for such time as child support is payable under the formula assessment.
-  (a) a custodian of a child and a liable parent have entered into an agreement providing for the payment of money towards the support of the child; and
-  (b) the liable parent becomes liable to pay child support under a formula assessment to the custodian in respect of the child,—
+[Repealed]
 
 **Procedure after acceptance or refusal of application for formula assessment**
 
 ### 21 Duty to give notice of decision to unsuccessful applicant
-(1) If the Commissioner refuses to accept an application for formula assessment of child support, the Commissioner shall immediately—
-  (a) notify the applicant in writing of that decision; and
-  (b) if the applicant is a social security beneficiary, give a copy of that notification to the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964.
-(2) The notice must include, or be accompanied by, a statement that specifically draws the attention of the applicant to the right to object under section 90 to the decision of the Commissioner if he or she is aggrieved by the decision not to accept the application.
-(3) A contravention of subsection (2) in relation to a decision does not affect the validity of the decision.
+[Repealed]
 
 ### 22 Duty to give notice of decision to custodian
-(1) If the Commissioner accepts an application for formula assessment of child support, the Commissioner shall immediately notify the eligible custodian, in writing, of that decision.
-(2) A contravention of subsection (1) in relation to a decision does not affect the validity of the decision.
+[Repealed]
 
 ### 23 Duty to give notice to person from whom child support sought
-(1) If the Commissioner accepts an application for formula assessment of child support, the Commissioner shall immediately notify the person from whom the application sought payment of child support, in writing, of that decision.
-(2) The notice must—
-  (a) specify the following matters:
-    (i) the name and date of birth of each child in respect of whom the application sought payment of child support; and
-    (ii) the name of the eligible custodian of that child or, as the case may be, those children; and
-  (b) include, or be accompanied by, a statement that specifically draws the attention of that person to the right to object under section 90 to the decision of the Commissioner if he or she is aggrieved by the decision to accept the application.
-(3) A contravention of subsection (2) in relation to a decision does not affect the validity of the decision.
+[Repealed]
 
 ### 24 Duty to make assessment
-(1) The Commissioner shall—
-  (a) as soon as practicable after the acceptance of a properly made application,—
-    (i) assess the annual rate of child support payable by the liable parent in relation to that child support year; and
-    (ii) where the application was made in the previous child support year, make such an assessment in relation to the previous child support year; and
-  (b) before, or as soon as practicable after, the start of each later child support year in which child support continues to be payable in respect of that application, assess the annual rate of child support payable by the liable parent in relation to that child support year.
-(2) Every assessment shall be made in accordance with Parts 2 and 5.
+[Repealed]
 
 **Termination of liability to pay child support under formula assessment**
 
-### 25 When child support ceases to be payable
-(1) A parent shall cease to be liable to pay child support in respect of a child under a formula assessment from whichever is the earliest of the following days:
-  (a) the day before the day on which the child—
-    (i) turns 19 years; or
-    (ii) is adopted; or
-    (iii) enters a marriage, civil union or de facto relationship; or
-    (iv) becomes financially independent; or
-    (v) becomes a person who is neither a New Zealand citizen nor a person who is ordinarily resident in New Zealand; or
-    (vi) dies:
-  (b) the day before the day on which the liable parent—
-    (i) becomes the sole provider of ongoing daily care for the child; or
-    (ii) becomes a person who is none of the following:
-      (A) a New Zealand citizen:
-      (B) a person who is ordinarily resident in New Zealand:
-      (C) a person who is ordinarily resident in a country with which New Zealand has entered into a reciprocal agreement for the enforcement of child support; or
-    (iii) becomes a person from whom child support may not be sought in respect of the child by reason of section 6(2); or
-    (iv) dies:
-  (c) in a case where the eligible custodian dies,—
-    (i) if no new application for formula assessment of child support in respect of the child is properly made within 28 days after the date of death, the 28th day after the date of death:
-    (ii) if such a new application is properly made, the day before the day from which the formula assessment in relation to the new application commences to apply:
-  (d) the day before the day on which the eligible custodian—
-    (i) ceases to be the sole or principal provider of ongoing daily care for the child or ceases to share ongoing daily care of the child substantially equally with another person; or
-    (ii) starts to live, or resumes living, with the person from whom payment of child support is required in a marriage, civil union or de facto relationship:
-  (e) in any case to which section 8(3) of this Act applies, the day before the day that the eligible custodian ceases to be under a duty to make payment under section 363 of the Children, Young Persons, and Their Families Act 1989 in respect of the child:
-  (f) the day specified in a notice of election to end the liability of the liable parent that is given by the eligible custodian under section 27:
-  (g) in a case where a voluntary agreement made in relation to the child between the liable parent and the eligible custodian has been accepted by the Commissioner, the day before the day on which that voluntary agreement first applies in accordance with section 59.
-(2) Nothing in paragraph (f) of subsection (1) shall apply in respect of any liability to pay child support to an eligible custodian who is in receipt of a social security benefit.
+### 25 When liability to pay child support ceases
+(1) A liable parent ceases to be liable to pay child support in respect of a qualifying child under a formula assessment on the day before the date on which the child—
+  (a) ceases to be a qualifying child; or
+  (b) is adopted; or
+  (c) dies.
+(2) A liable parent ceases to be liable to pay child support under a formula assessment on the day the parent ceases to be a liable parent under section 17, or on the day before the date on which the parent—
+  (a) becomes a person who is none of the following:
+    (i) a New Zealand citizen:
+    (ii) a person who is ordinarily resident in New Zealand:
+    (iii) a person who is ordinarily resident in a country with which New Zealand has entered into a reciprocal agreement for the enforcement of child support; or
+  (b) becomes a person from whom child support may not be sought in respect of the child by reason of section 6(2); or
+  (c) dies.
+(3) A liable parent ceases to be liable to pay child support in respect of a particular receiving carer of a qualifying child under a formula assessment on the earliest of the following:
+  (a) if the receiving carer dies, on the earlier of the following:
+    (i) the 28th day after the date of death:
+    (ii) the day before the date on which a properly completed application for formula assessment is received by the Commissioner from a carer in place of the carer who has died:
+  (b) the day before the date on which the receiving carer ceases to provide at least 35% of ongoing daily care to the child:
+  (c) the day before the date on which the receiving carer starts to live, or resumes living, with the liable parent of the child in a marriage, civil union, or de facto relationship:
+  (d) in any case to which section 8(2) applies, the day before the date on which the carer ceases to be under a duty to make payments under section 363 of the Children, Young Persons, and Their Families Act 1989 in respect of the child:
+  (e) the day specified in a notice of election, given under section 27, to end the liability of the liable parent to the carer (except that this paragraph does not apply in respect of any carer who is in receipt of a social security benefit):
+  (f) in a case where a voluntary agreement made in relation to the child between the liable parent and the carer is accepted by the Commissioner, the day before the date on which that voluntary agreement first applies, in accordance with section 59.
 
-### 26 Miscellaneous provisions relating to death of custodian
-(1) Where child support continues to be payable in terms of section 25(1)(c)(i) until the 28th day after the date of death of the eligible custodian, child support payments held by the Commissioner relating to the period commencing on the day following the date of death and ending with the day on which the child support payments cease shall be refunded to the liable parent.
-(2) Where child support continues to be payable in terms of section 25(1)(c)(ii) until the day on which a formula assessment in relation to a new application commences to apply, this Act shall apply as if—
-  (a) the eligible custodian in relation to the new application was the eligible custodian from the day following the date of death of the previous eligible custodian; and
-  (b) the new application was received on the day following the date of death of the previous eligible custodian.
+### 26 Miscellaneous provisions relating to death of carer
+(1) Where child support continues to be payable in terms of section 25(3)﻿(a)﻿(i) until the 28th day after the date of death of the receiving carer, child support payments held by the Commissioner relating to the period commencing on the day following the date of death and ending with the day on which the child support payments cease shall be refunded to the liable parent.
+(2) Where child support continues to be payable in terms of section 25(3)﻿(a)﻿(ii) until the day on which a formula assessment in relation to a new application commences to apply, this Act shall apply as if—
+  (a) the receiving carer in relation to the new application was the receiving carer from the day following the date of death of the previous receiving carer; and
+  (b) the new application was received on the day following the date of death of the previous receiving carer.
 
 **Election to end formula assessment**
 
-### 27 Election by eligible custodian to end formula assessment
-(1) An eligible custodian who is not in receipt of a social security benefit may, by written notice given to the Commissioner, elect that the liability of a liable parent to pay child support in respect of a child under a formula assessment is to end from a specified future date.
+### 27 Election by receiving carer to end formula assessment
+(1) A receiving carer who is not in receipt of a social security benefit may, by notice to the Commissioner (in any form acceptable to the Commissioner), elect that the liability of every liable parent to pay child support to the receiving carer in respect of a child under a formula assessment is to end from a specified future date.
 (2) The notice must be—
   (a) in the appropriate approved form; and
   (b) verified as required by the form of notice; and
@@ -361,120 +373,144 @@ Where—the liability of the liable parent to pay money towards the support of t
 (1) This Part sets out the rates of child support payable under a formula assessment of child support made by the Commissioner.
 (2) This Part is subject to any determination made by the Commissioner under Part 5A, or 6A, or 6B and to any order made by the court under Part 7.
 (3) If no application for formula assessment of child support is made, or required to be made, or deemed to be made, under this Act, this Part shall not apply.
-(4) If a custodian of a child and a liable parent wish child support to be paid at a different rate, they may, subject to this Act, enter into a voluntary agreement.
+(4) If a carer of a child and a liable parent wish child support to be paid at a different rate, they may, subject to this Act, enter into a voluntary agreement.
 
-### 29 Basic amount of child support payable
-(1) The annual rate of child support payable in relation to a child support year by a liable parent in respect of the child or all of the children for whom child support is payable under a formula assessment by the liable parent shall be the greater of the following amounts:
-  (a) the minimum annual rate under section 72(1)(a); or
-  (b) the amount calculated in accordance with the following formula:(a − b) × cwhere—and where—
-    (a) is the liable parent's child support income amount for the child support year
-    (b) is the amount of the living allowance to which the liable parent is entitled for the child support year
-    (c) is the child support percentage for the liable parent
-    - **child support income amount** means,—or, if less, an amount equal to 2.5 times the yearly equivalent of the relevant average weekly earnings amount for the most recent tax year
-      (a) in a case where the liable parent's taxable income for the most recent tax year was derived solely from withholding income, the taxable income derived by the liable parent in the most recent tax year; or
-      (b) in the case of any other liable parent, the taxable income derived by the liable parent in the tax year immediately preceding the most recent tax year, inflated by the inflation percentage for the child support year,—
-    - **child support percentage** means a percentage, differing with the number of children in respect of whom the person is a liable parent, and in respect of whom child support under a formula assessment is sought, as follows:18%24%27%30%
-      (i) 1 child
-      (ii) 2 children
-      (iii) 3 children
-      (iv) 4 or more children
-    - **inflation percentage** , in relation to a child support year, means the movement in the all groups index number of the New Zealand Consumer Price Index during the 12-month period that ends with 31 December before the start of that child support year
-    - **living allowance** has the meaning set out in section 30
-    - **relevant average weekly earnings amount** , in relation to the most recent tax year, means the ordinary time average weekly earnings (for males and females combined), as at mid-February in the tax year immediately preceding the most recent tax year, as published by Statistics New Zealand
-    - **tax year** has the same meaning as in section YA 1 of the Income Tax Act 2007
-    - **taxable income** has the meaning provided in section YA 1 of the Income Tax Act 2007 and—
-      (a) if a liable parent's taxable income for a tax year has not been assessed and no income statement has been issued, the taxable income for the income year may be determined on the basis of the income and any other particulars known to the Commissioner; and
-      (b) the taxable income of a liable parent who receives an income statement in respect of a tax year for which taxable income has not been assessed is the amount of taxable income shown on the income statement
-    - **yearly equivalent of the relevant average weekly earnings amount** , in relation to a child support year, means 52 times the relevant average weekly earnings amount in relation to the child support year.
-(2) This section shall apply except to the extent otherwise provided in section 32 or section 33 or section 34 or section 35 or section 36.
+### 29 Commissioner to assess child support payable under formula assessment
+(1) As soon as practicable after identifying a liable parent under Part 1, the Commissioner must—
+  (a) assess the annual amount of child support payable by the liable parent in that child support year in respect of each of his or her qualifying children; and
+  (b) assess the annual rate of child support payable by the liable parent in that child support year in respect of all of his or her qualifying children; and
+  (c) where the application for a formula assessment was made in the previous child support year, make such assessments in relation to the previous child support year.
+(2) Before, or as soon as practicable after, the start of each later child support year in which child support continues, or appears likely to continue, to be payable in respect of any qualifying child of the parent, the Commissioner must make the assessments referred to in subsection (1)﻿(a) and (b) in relation to that later child support year.
+(3) Every assessment must be done in accordance with this Part and Part 5.
 
-### 30 Meaning of term living allowance
-(1) For the purposes of this Act, the term living allowance shall have the meaning provided in subsections (2) to (4).
-(2) A liable parent who—shall be entitled to a living allowance for the child support year of an amount equal to the gross single rate of supported living payment in force on 1 January in the immediately preceding child support year.
-  (a) is not living with another person in a marriage, civil union or de facto relationship; and
-  (b) has no dependent children—
-(3) A liable parent who—shall be entitled to a living allowance for the child support year of an amount equal to the gross couple rate of jobseeker support in force on 1 January in the immediately preceding child support year.
-  (a) is living with another person in a marriage, civil union or de facto relationship; and
-  (b) has no dependent children—
-(4) A liable parent who has 1 or more dependent children is entitled to a living allowance for the child support year of an amount equal to the aggregate of—
-  (a) an amount equal to the gross couple rate of supported living payment in force on 1 January in the immediately preceding child support year; and
-  (b) in relation to not more than the eldest 4 such children, the sum of the amounts provided in subsection (4A) or in subsection (4B) (as the case may be).
-(4A) For the child support year commencing on 1 April 2005, the living allowance allowed under subsection (4) is $2,444 in respect of each dependent child.
-(4B) For the child support years commencing on and after 1 April 2007, the living allowance allowed under subsection (4) in respect of each dependent child is the living allowance allowed in respect of each dependent child for the immediately preceding child support year, inflated by the inflation percentage (as defined in section 29(1)) for the child support year in relation to which the living allowance is being calculated.
-(5) For the purposes of this Part, unless the context otherwise requires,—
-  - **dependent child** , in relation to any person, means a child—
-    (a) who is maintained as a member of that person's family; and
-    (b) in respect of whom the person either is the sole or principal provider of ongoing daily care for the child or shares ongoing daily care of the child substantially equally with another person; and
-    (c)
-    (d) who is not financially independent; and
-    (e) who is under 19 years of age; and
-    (f) who is not living with another person in a marriage, civil union or de facto relationship
-  - **gross couple rate of jobseeker support** , in relation to any child support year, means the rate specified in clause (1)(e) of Schedule 9 of the Social Security Act 1964 and before any diminution based on income, in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007)
-  - **gross couple rate of supported living payment** , in relation to any child support year, means the rate (as specified in clause 1(f) of Schedule 6 of the Social Security Act 1964 and before any diminution based on income) of supported living payment in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007)
-  - **gross single rate of supported living payment** , in relation to any child support year, means the rate (as specified in clause 1(b) of Schedule 6 of the Social Security Act 1964 and before any diminution based on income) of supported living payment in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007).
+### 30 Formula for assessing annual amount of child support
+(1) The formula for assessing the annual amount of child support payable under a formula assessment by a liable parent in a child support year in respect of a qualifying child is the parent's income percentage minus the parent's care cost percentage, multiplied by the child expenditure amount for the child. This formula can be expressed as—(i% − c%) × pwhere—i%is the liable parent's income percentage determined under section 33c%is the liable parent's care cost percentage determined under section 16pis the child expenditure amount for a qualifying child.
+(2) The child expenditure amount for a qualifying child in a child support year is—e ÷ nwhere—eis the amount, determined in accordance with the child expenditure table applying to that child support year, that applies to the parent in respect of the child on the basis of—nis the number of children in the same child support group as the child.
+  (a) the combined child support income amounts of both parents of the child; and
+  (b) the number of children in the child's child support group; and
+  (c) the age group of those children
 
-### 31 Changes of circumstances that determine amount of living allowance
-(1) Where, at any time during any child support year,—the change shall be deemed not to have occurred until the day on which the person notifies the Commissioner thereof.
-  (a) a change of circumstances occurs that gives rise to an increase in the amount of the living allowance of any liable parent; and
-  (b) the liable parent fails to notify the Commissioner of that change within 28 days immediately succeeding the change of circumstances,—
-(2) For the purposes of subsection (1), a liable parent is to be regarded as having notified the Commissioner of a change of circumstances on the day on which the following information is received by the Commissioner from the liable parent:
-  (a) written notification of the change; and
-  (b) a copy of such documentation as is required by the Commissioner to support the notification.
+### 31 Annual amount of child support payable by liable parent
+(1) The annual amount of child support payable under a formula assessment by a liable parent in respect of a qualifying child is nil, and section 32 does not apply, if—
+  (a) the liable parent provides more than 65% of ongoing daily care to the child; or
+  (b) the liable parent provides at least 28% of ongoing daily care to the child and the liable parent's income percentage is equal to their care cost percentage; or
+  (c) no receiving carer provides at least 35% of ongoing daily care to the child.
+(2) Where subsection (1) does not apply, the annual amount of child support payable under a formula assessment by a liable parent in a child support year in respect of a qualifying child is as follows:
+  (a) the amount determined in accordance with the formula set out in section 30(1), unless paragraph (b) or (c) applies:
+  (b) for a liable parent to whom section 36 applies but section 36A does not,—
+    (i) the amount determined in accordance with the formula set out in section 30(1); or
+    (ii) the amount determined under the multi-group cap (referred to in subsection (3)) applying to the child, but only if it is less than the amount referred to in subparagraph (i):
+  (c) for a parent to whom section 36A applies (whether or not section 36 also applies),—
+    (i) the amount determined in accordance with the formula set out in section 30(1); or
+    (ii) if the multi-group cap applies, the amount determined under the multi-group cap applying to the child, but only if it is less than the amount referred to in subparagraph (i); or
+    (iii) the amount payable in respect of a receiving carer under section 36A, but only if it is less than each of the amounts referred to in subparagraph (i) or (ii).
+(3) The multi-group cap for a child is the amount determined as follows:(100% − c%) × mwhere—c%is the parent's care cost percentage in relation to the childmis the multi-group cost of the child, as determined under section 36(4).
+(4) The purpose of the multi-group cap is to avoid liable parents paying more in child support than they would pay if all the children for whom they are liable to pay child support were living together.
 
 **Modifications to basic formula in certain circumstances**
 
-### 32 Position where parent liable to 2 custodians in respect of 1 child
-Where—the annual rate of child support payable to each qualifying custodian shall be 50% of the amount calculated in accordance with section 29.
-  (a) a parent has 1 qualifying child; and
-  (b) 2 eligible custodians share ongoing daily care of the child substantially equally with each other; and
-  (c) the parent is liable to pay child support to both custodians,—
+### 32 Minimum annual rate of child support
+If, after assessing the annual amount of child support payable by a liable parent in respect of each of his or her qualifying children, the Commissioner determines that the total amount payable by the parent is less than the minimum annual rate referred to in section 72(1)﻿(a), the Commissioner must, despite sections 30 and 31(2),—
+  (a) assess the parent's annual rate of child support as the minimum annual rate referred to in section 72(1)﻿(a); and
+  (b) determine the proportion of that minimum annual rate of child support that is payable in respect of each receiving carer, on the basis of the number of qualifying children of the liable parent that each carer provides care for.
 
-### 33 Position where parent liable to 2 or more custodians in respect of 2 or more children
-Where—the annual rate of child support payable by the liable parent in relation to any one of those eligible custodians under a formula assessment shall be the amount calculated in accordance with section 29 multiplied by the factor calculated using the following formula:where—
-  (a) a parent has 2 or more qualifying children; and
-  (b) 2 or more eligible custodians have the ongoing daily care of any 1 or more of the children; and
-  (c) the parent is liable to pay child support to both or all of the custodians under a formula assessment,—
-  (n) is the number of children for whom child support is payable by the liable parent under a formula assessment in relation to that eligible custodian (with the number attributable to each shared custody child of the liable parent and the eligible custodian taken to be 0.5); and
-  (t) is the number of children for whom child support is payable by the liable parent under a formula assessment in relation to all of the eligible custodians (with the number attributed to each shared custody child of the liable parent and any of those eligible custodians taken to be 0.5).
+**Determining income percentages**
 
-### 34 Position where custody of 2 or more children is split between 2 liable parents
-(1) This section applies if—
-  (a) a parent (the relevant liable parent) is liable to pay child support to another parent under a formula assessment; and
-  (b) the relevant liable parent has 2 or more qualifying children; and
-  (c) the relevant liable parent has the ongoing daily care of any 1 or more of the children; and
-  (d) another parent has the ongoing daily care of the other child or children; and
-  (e) the relevant liable parent is not in receipt of a social security benefit.
-(2) If this section applies, the annual rate of child support payable by the relevant liable parent to the other parent must be reduced (but not below zero) by the annual rate of child support that would (apart from this section) be payable by the other parent.
+### 33 Income percentage
+A parent's income percentage, in relation to a qualifying child, is the percentage figure derived by dividing the person's child support income amount (as determined under section 34) by the sum of the child support income amounts, in relation to that child, of all the parents of the child.
 
-### 35 Position where liable parent shares custody of child
-(1) This section applies if—
-  (a) a parent (the relevant liable parent) is liable to pay child support to another person under a formula assessment; and
-  (b) the relevant liable parent has 1 or more qualifying children; and
-  (c) the relevant liable parent shares the ongoing daily care of 1 or more of the children substantially equally with the other person.
-(2) In every case where this section applies, the annual rate of child support payable by the relevant liable parent shall be calculated under section 29 as if in determining the child support percentage for the parent, every child to whom paragraph (c) of subsection (1) applies were treated as 0.5 children, and the percentage differed with the number of children in respect of whom the person is a relevant liable parent as follows:12%:18%:21%:24%:25.5%:27%:28.5%:30%.
-  (a) 0.5 child
-  (b) 1 child
-  (c) 1.5 children
-  (d) 2 children
-  (e) 2.5 children
-  (f) 3 children
-  (g) 3.5 children
-  (h) 4 or more children
-(3) In a case in which the relevant liable parent is not in receipt of a social security benefit and the other person is also a liable parent of the child or children, the annual rate of child support must be reduced (but not below zero) by the annual rate of child support that would (apart from this subsection) be payable by the other.
-(4) The annual rate of child support payable by a person to whom both this section and section 34 apply must be calculated in accordance with this section.
-(5)
+### 34 Child support income amount
+(1) A parent's child support income amount for a child support year in relation to a child is the person's adjusted taxable income (determined under section 35) for the relevant tax year minus each of the following:
+  (a) the person's living allowance (as determined under section 35A) for the child support year:
+  (b) the sum of any dependent child allowances to which the person is entitled under section 35B for the child support year:
+  (c) any multi-group allowance that relates to the child and to which the person is entitled under section 36 for the child support year.
+(2) If the result of the calculation in subsection (1) is zero or less, the parent's child support income amount must be treated as being nil.
+(3) If the adjusted taxable income of a parent of a qualifying child cannot reasonably be ascertained, or cannot be applied by the Commissioner, the parent's child support income amount is to be treated as being,—
+  (a) if there is 1 parent whose adjusted taxable income is known, the same as that parent's child support income amount; and
+  (b) if there is more than 1 parent whose adjusted taxable income is known, the average of those parents' child support income amounts.
 
-### 36 Position where parent is liable under both formula assessment and voluntary agreement in respect of different children
-Where—the annual rate of child support payable by the liable parent under a formula assessment shall be calculated as if—
-  (a) a parent is liable to pay child support in respect of 1 or more children under a formula assessment; and
-  (b) the parent is also liable to pay child support in respect of another child or other children under a voluntary agreement,—
-  (c) the formula set out in section 29 were replaced by the following formula:where—
-    (a) is the liable parent's child support income amount for the child support year
-    (b) is the amount of the living allowance to which the liable parent is entitled for the child support year
-    (c) is the child support percentage for the liable parent
-    (d) is the number of children for whom child support is payable under a formula assessment (with the number attributed to each shared custody child of the liable parent and any eligible custodian in relation to whom child support is payable under a formula assessment taken to be 0.5)
-    (e) is the number of children for whom child support is payable under this Act under a formula assessment or a qualifying voluntary agreement (with the number attributed to each shared custody child of the liable parent and any eligible custodian taken to be 0.5); and
-  (d) the child support percentage for the parent differed with the number of children for whom child support is payable under this Act under a formula assessment or a qualifying voluntary agreement (with the number of children attributed to each shared custody child of the liable parent and any eligible custodian taken to be 0.5).
+### 35 Adjusted taxable income
+(1) A person's adjusted taxable income for a child support year is the person's taxable income for the relevant tax year adjusted by the adjustments (if any) that would be made to the person's taxable income to determine the person's family scheme income under subpart MB of the Income Tax Act 2007, except that the following are not to be treated as being part of the person's family scheme income for this purpose:
+  (a) income that is exempt income under section CW 32 of the Income Tax Act 2007 (child support and spousal maintenance):
+  (b) income referred to in section MB 11 of the Income Tax Act 2007 (income derived by dependent children):
+  (c) income referred to in section MB 12 of the Income Tax Act 2007 (non-residents' foreign-sourced income of the person's spouse or partner).
+(2) However, for the purposes of an assessment of child support for the child support year commencing 1 April 2015 only, the adjustments referred to in subsection (1) must not be applied to a person's taxable income.
+(3) A person's taxable income must be taken to be their income from employment for the calendar year immediately preceding the start of the child support year if, in the most recent tax year,—
+  (a) the person's taxable income was derived solely from withholding income; and
+  (b) no adjustments of the sort referred to in subsection (1) are made.
+(4) If subsection (3) does not apply, a person's taxable income for a child support year must be taken to be their taxable income in the tax year immediately preceding the most recent tax year, inflated by the inflation percentage for the child support year.
+(5) The adjustments under subsection (1) that must be applied are those that applied in the tax year immediately preceding the most recent tax year.
+(6) If a person's taxable income for a tax year has not been assessed, the Commissioner must determine the person's taxable income,—
+  (a) if an income statement has been issued, on that basis; and
+  (b) in any other case, on the basis of the income and any other particulars known to the Commissioner.
+(7) Subsections (3) to (6) are subject to sections 38 to 39A.
+
+### 35A Living allowance
+(1) A parent's living allowance in a child support year is the appropriate amount referred to in subsection (2)—
+  (a) increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007); and
+  (b) annualised.
+(2) The amount of living allowance is as follows:
+  (a) for every person other than a person identified in paragraph (b) or (c), the amount specified in Schedule 16 of the Social Security Act 1964 as the amount of domestic purposes benefit payable to a beneficiary with 1 or more dependent children:
+  (b) for a person who has been granted a domestic purposes benefit at the rate payable to a single beneficiary with 1 or more dependent children, under section 27G of the Social Security Act 1964 (domestic purposes benefit for care at home of the sick or infirm), the amount specified in Schedule 17 of that Act for that benefit type:
+  (c) for a person who has been granted an invalid's benefit at the rate payable to a single beneficiary with 1 or more dependent children, under section 40 of the Social Security Act 1964, the amount specified in Schedule 6 of that Act for that benefit type.
+(3) The version of the appropriate schedule of the Social Security Act 1964 that applies in a child support year is the version in force on 1 January in the immediately preceding child support year.
+(4) The Commissioner must ensure that notice of the applicable living allowances under this section that apply to the current and (if applicable) the previous child support year is available at all reasonable times on an Internet site maintained by or on behalf of the Inland Revenue Department.
+
+### 35B Dependent child allowance
+(1) For the purpose of calculating a parent's child support income amount under section 34 in a child support year, a parent is entitled to a dependent child allowance in respect of each of his or her dependent children.
+(2) The amount of a parent's dependent child allowance, in relation to each dependent child, is—c% × e ÷ nwhere—c%is the care cost percentage of the parent in relation to the dependent child (being the percentage that would be determined under section 16 if the child were a qualifying child)eis the amount, determined in accordance with the child expenditure table applying to that child support year, that applies to the parent in respect of the dependent child on the basis of—nis the total number of the parent's dependent children.
+  (a) the child support income amount of the parent alone, with that amount being treated as the adjusted taxable income of the parent, minus the parent's living allowance; and
+  (b) the total number of the parent's dependent children; and
+  (c) the age group of those children
+(3) In this section, a person's dependent child means a child of whom the person is a parent (within the meaning in section 7) and who—
+  (a) is maintained as a member of the parent's family and for whom the parent provides at least 28% of the ongoing daily care; and
+  (b) is not a child in relation to whom any person is a liable parent or receiving carer, or for whom, under the law of another country, any person is required to make payments that are of the same nature as child support; and
+  (c) meets the requirements of section 5(1)﻿(a) to (c) (which describe which children qualify for child support).
+
+### 36 Multi-group allowance
+(1) This section applies to a parent who has more than 1 child support group.
+(2) For the purpose of calculating a parent's child support income amount in relation to a particular child (child C) in a child support year, a parent to whom this section applies is entitled to a multi-group allowance in relation to child C.
+(3) The multi-group allowance in relation to child C is the sum of the multi-group costs of each child (child D) of the parent who is not in the same child support group as child C.
+(4) The multi-group cost of child D is—e ÷ nwhere—eis the amount, determined in accordance with the child expenditure table applying to the relevant child support year, that applies to the parent in respect of child D—nis the total number of children of the parent in all the parent's child support groups.
+  (a) on the basis of the child support income amount of that parent alone, with that amount being treated as the adjusted taxable income of the parent, minus the parent's living allowance and the sum of any dependent child allowances to which the parent is entitled; and
+  (b) as if—
+    (i) child D were one of n children; and
+    (ii) all those children were the same age as child D
+
+**Amounts payable in respect of receiving carers**
+
+### 36A Where parent is sole receiving carer
+(1) This section applies where, in respect of a qualifying child, there is only 1 receiving carer, and that carer (person P) is a parent of the child.
+(2) When this section applies, the amount of child support payable in respect of person P is—
+  (a) the amount of annual child support that person P would pay if the difference between person P's income percentage and care cost percentage (which, under the formula in section 30, is a negative percentage) were a positive percentage; or
+  (b) if the multi-group cap applies, the amount payable under the multi-group cap, but only if it is less than the amount payable under paragraph (a).
+(3) However, no child support is payable under subsection (2) in respect of a receiving carer of a qualifying child if the receiving carer provides less than 35% of ongoing daily care to the child.
+
+### 36B Where no receiving carers are parents
+(1) This section applies if, in respect of a qualifying child, there are 1 or 2 receiving carers, and neither of them is a parent of the child.
+(2) If the liable parent is liable to pay child support in respect of just 1 non-parent receiving carer, the amount of child support payable in respect of that carer is the annual amount of child support payable by the liable parent for the child.
+(3) If the liable parent is liable to pay child support in respect of 2 non-parent receiving carers, the amount of child support payable in respect of each carer is—f × c% ÷ g%where—fis the annual amount of child support payable by the liable parent for the childc%is the care cost percentage of the receiving carer in relation to the childg%is the combined care cost percentages of both the receiving carers of the child, in relation to the child.
+
+### 36C Where 1 receiving carer is parent and other is non-parent
+(1) This section applies if, in respect of a qualifying child, there are 2 receiving carers, where 1 of them is a parent of the child and the other is a non-parent carer of the child.
+(2) The amount of child support payable in respect of the receiving parent (person P) is—
+  (a) the amount of annual child support that person P would pay if the difference between person P's income percentage and care cost percentage (which, under the formula in section 30, is a negative percentage) were a positive percentage; or
+  (b) if the multi-group cap applies, the amount determined by multiplying—
+    (i) the amount payable in respect of the qualifying child, as determined by the liable parent's multi-group cap; by
+    (ii) the difference between person P's income percentage and care cost percentage, as if it were a positive percentage.
+(3) The amount of child support payable in respect of the non-parent receiving carer is the annual amount of child support payable by the liable parent for the child, minus the amount payable under subsection (2) to person P.
+(4) However, no child support is payable under subsection (2) in respect of a receiving carer who is a parent of a qualifying child if the parent provides less than 35% of ongoing daily care to the child.
+
+**Expenditure on children**
+
+### 36D Child expenditure tables
+(1) Before the start of a child support year, the Commissioner must approve a child expenditure table for that child support year, based on the expenditure on children table in Schedule 3, that identifies, for the relevant child support year,—
+  (a) the amount of the average weekly earnings that applies; and
+  (b) the amount of child support income that is taken to be expended on children, with that amount corresponding to the percentages set out in the expenditure on children table within each income band in the table.
+(2) The Commissioner must ensure that the child expenditure table for the current and (if applicable) the previous child support year is available—
+  (a) on request to the Inland Revenue Department, in hard copy; and
+  (b) at all reasonable times, on an Internet site maintained by or on behalf of the Inland Revenue Department.
+(3) Whenever an income amount is used in relation to the child expenditure table, the income amount must be truncated to whole dollars.
 
 **Provisions relating to taxable income**
 
@@ -489,8 +525,8 @@ Where—the annual rate of child support payable by the liable parent under a fo
   (b) notice of the amended assessment is issued by the Commissioner on or before the last day in the child support year;—
 (4) Subsection (2) does not apply in relation to the person in any case where the reason (or one of the reasons) that the amendment was made was because, in the opinion of the Commissioner, the return of income made by the person under the Income Tax Act 1976 or the Tax Administration Act 1994 was fraudulent or wilfully misleading or omitted all mention of income which is of a particular nature or was derived from a particular source, and, where such an amendment is made, the person's taxable income under the relevant Act for that income year is to be taken to be, and always to have been, the person's taxable income for the income year as last so assessed under the relevant Act.
 (5) Where—then, in subsequently amending the formula assessment other than for the purpose of giving effect to the provisions of section 39(3) of this Act, the amendment made under the Income Tax Act 1976 or the Tax Administration Act 1994 is to be disregarded.
-  (a) the Commissioner, applying subsection (1), assesses the annual rate of child support payable by a liable parent; and
-  (b) after the making of the formula assessment, an amendment is made under the Income Tax Act 1976 or the Tax Administration Act 1994 to the relevant assessment of the taxable income of the liable parent for the last relevant income year; and
+  (a) the Commissioner, applying subsection (1), assesses the annual amount of child support payable by a person; and
+  (b) after the making of the formula assessment, an amendment is made under the Income Tax Act 1976 or the Tax Administration Act 1994 to the relevant assessment of the taxable income of any parent for the last relevant income year; and
   (c) neither subsection (3) nor subsection (4) applies in relation to the amendment,—
 (6) Where—the assessment is to be taken, for the purposes of this section, to have been made on the date of the notice.
   (a) notice of an assessment (including an amended assessment) of a person's taxable income under the Income Tax Act 1976 or the Tax Administration Act 1994 has been given under the relevant one of those Acts; and
@@ -498,17 +534,7 @@ Where—the annual rate of child support payable by the liable parent under a fo
 (7) Nothing in this section is to be taken to prevent the Commissioner making a determination under Part 5A, 6A, or 6B or the court making an order under Part 7.
 
 ### 38A Position where taxable income from withholding income not available for full tax year
-(1) This section applies where the Commissioner assesses the annual rate of child support payable under a formula assessment by a liable parent whose taxable income for the first 10 months of the most recent tax year was derived solely from withholding income.
-(2) If, at the time of making the assessment, the Commissioner is unable to determine the amount of the liable parent's taxable income for the most recent tax year, then the Commissioner may make a formula assessment on the basis that the liable parent's child support income amount is the lesser of—
-  (a) the sum of—
-    (i) the taxable income derived by the liable parent in the first 10 months of the most recent tax year; and
-    (ii) an amount that is equal to one-fifth of that taxable income; or
-  (b) an amount equal to 2.5 times the yearly equivalent of the relevant average weekly earnings amount for the most recent tax year.
-(3) The Commissioner must, as soon as practicable, amend a formula assessment if—
-  (a) the Commissioner applies subsection (2) in making the formula assessment; and
-  (b) the Commissioner subsequently ascertains the liable parent's taxable income for the most recent tax year (whether or not an assessment has been made under the Income Tax Act 1976 or the Tax Administration Act 1994 in respect of that year); and
-  (c) the subsequently ascertained income is more than $500 in excess of, or less than, the figure calculated for the purposes of subsection (2)(a).
-(4) An assessment amended under subsection (3) must be amended on the basis that the liable parent's taxable income for the most recent tax year is, and always has been, the subsequently ascertained income.
+[Repealed]
 
 ### 39 Position where taxable income not readily ascertainable
 (1) Where—the Commissioner may, in making a formula assessment, estimate the taxable income derived by that person in the last relevant tax year.
@@ -519,117 +545,113 @@ Where—the annual rate of child support payable by the liable parent under a fo
     (iii) to supply an estimate of the income expected to be derived in the child support year; or
     (iv) to give information (whether orally or in writing), or to produce a document,—
   (c) the person has refused or failed to comply with the request or requirement,—
-(2) No such estimate shall exceed the amount of 2.5 times the yearly equivalent of the relevant average weekly earnings amount for the most recent tax year.
+(2)
 (3) If—the Commissioner shall, as soon as practicable, amend the formula assessment on the basis that the person's taxable income for the last relevant tax year is, and has always been, the subsequently ascertained taxable income.
   (a) the Commissioner has applied subsection (1) in making a formula assessment; and
   (b) the Commissioner subsequently ascertains the person's taxable income for the last relevant tax year (whether or not an assessment has been made under the Income Tax Act 1976 or the Tax Administration Act 1994 in respect of that year),—
 
-### 39A Commissioner may take overseas taxable income into account
-(1) The Commissioner may, in making a formula assessment, take into account any income derived by a liable parent resident in a country outside New Zealand, being income that is taxable in that country, if the Commissioner is of the opinion that the income can be ascertained on the basis of information in the Commissioner's possession.
+### 39A Commissioner may take overseas income into account
+(1) The Commissioner may, in making a formula assessment, take into account any income derived by a parent resident in a country outside New Zealand if the Commissioner is of the opinion that the income can be ascertained on the basis of information in the Commissioner's possession.
 (2) For that purpose, the Commissioner may apply the provisions of this Act with such modifications as may be necessary.
 (3) Without limiting the generality of subsection (2), those modifications include modifications so that—
-  (a) references to taxable income include references to taxable income derived outside New Zealand:
+  (a)
   (b) references to tax year and relevant tax year are references to income periods of the relevant country that most appropriately correspond to the equivalent New Zealand periods:
   (c)
   (d) section 38 applies in respect of assessments and amended assessments of taxable income that are made by the government of the relevant country as if made by the Commissioner, if the Commissioner has information as to the assessment or amended assessment:
-  (e) section 40 allows for elections to estimate taxable income by a liable parent outside New Zealand:
-  (f) section 44 allows for reconciliations of estimated and actual taxable income derived by a liable parent outside New Zealand:
-  (g) section 81 enables the Commissioner to require the liable parent to supply a return or estimate of the parent's overseas taxable income.
+  (e) section 40 allows for elections to estimate taxable income by a parent outside New Zealand:
+  (f) section 44 allows for reconciliations of estimated and actual taxable income derived by a parent outside New Zealand:
+  (g) section 81 enables the Commissioner to require the parent to supply a return or estimate of the parent's overseas taxable income.
+
+**Estimate of taxable income**
+
+### 40AA Interpretation for purposes of sections 40 to 45
+In sections 40 to 45, unless the context otherwise requires,—
+  - **annualised estimated taxable income** means the amount that a person estimates will be their taxable income in an election period, annualised (if the estimate does not cover a full child support year) in accordance with the following formula:(a ÷ b) × 365where—ais the person’s estimated taxable income for the election periodbis the number of days in the election period
+  - **election** means an election, made by a person under section 40, to have the person’s estimated taxable income, instead of their original taxable income, applied for the purpose of calculating the person’s adjusted taxable income for an election period
+  - **election period** , in relation to a child support year to which an election relates, means,—
+    (a) if notice of the election is given under section 40 before the start of the child support year, the child support year; and
+    (b) if notice of the election is given during the child support year, the period in the child support year that starts on the first day of the month in which the notice is given under section 40 and ends on the last day of the child support year
+  - **estimated taxable income** means the amount specified in a notice of election given by a person under section 40 as the amount of taxable income that the person estimates that he or she will earn in the election period
+  - **original adjusted taxable income** means the adjusted taxable income that would have been used to assess a person's child support liability during an election period if the person had not made an election
+  - **original taxable income** , in relation to a person and a child support year, means the person's taxable income, plus any relevant inflation percentage, that would have applied to the person if the person had not made an election
+  - **year-to-date income** means a person's taxable income specified in a notice of election given under section 40 for the period beginning with the start of a child support year and ending with the end of the month immediately preceding the month in which the notice of an election is given.
 
 **Election that child support income be based on estimated taxable income for current year**
 
-### 40 Election where taxable income for child support purposes is estimated to have fallen at least 15%
-(1) Subject to subsection (3), a person may, by written notice given to the Commissioner, elect that the annual rate of child support payable under a formula assessment for the remaining months in a child support year is to be calculated subject to the modifications contained in sections 41 to 44A if—
-  (a) before or during the child support year the person estimates that his or her taxable income for the tax year corresponding with that child support year will be a particular amount; and
-  (b) the amount of the estimate is not more than 85% of the person's taxable income for the last relevant tax year (as inflated by the inflation percentage for the child support year if the last relevant tax year in relation to that person is not the most recent tax year).
-(2) The notice must—
-  (a) be given to the Commissioner before or during the child support year; and
-  (b) specify the person's estimate of his or her taxable income for the tax year corresponding with the child support year; and
-  (c) be accompanied by information and evidence that, in the opinion of the Commissioner, is sufficient to support the making of the estimate.
-(3) The person may not make the election if—
-  (a) the person has made an election under this section in relation to the child support year within the period of 3 months immediately preceding the date on which the current election is made and the amount of the person's estimate of his or her taxable income as specified in the current election is different from the amount of that person's estimate of his or her taxable income as specified in the previous election by $500 or less; or
-  (b) an income amount order is in force in relation to the person and to any months in the child support year in respect of which the election is to apply; or
-  (ba) the person—
-    (i) made an election under section 40 in respect of an earlier child support year; and
-    (ii) was required to furnish a return of income under the Income Tax Act 2007 or the Tax Administration Act 1994 in respect of the tax year that corresponds with that earlier child support year; and
-    (iii) at the time the notice is given under subsection (2), is in breach of the requirement to furnish a return of income in respect of that tax year; or
-  (c) the person is subject to an order of the court under section 187.
+### 40 Estimated taxable income
+(1) Any person may, by notice to the Commissioner given before or during a child support year, elect that the taxable income to be used to assess their adjusted taxable income for an election period relating to that child support year must be the estimated taxable income specified in the notice of election.
+(2) The Commissioner, subject to subsections (4) and (6), must accept an election if the sum of the person's year-to-date income (if any) and the person's estimated taxable income is 85% or less than the person's original taxable income.
+(3) A notice of election must,—
+  (a) if notice of the election is given before the start of the child support year to which it relates, state the person's estimated taxable income for the full child support year; or
+  (b) if notice of the election is given during the child support year to which it relates, state—
+    (i) the person's year-to-date income; and
+    (ii) the person's estimated taxable income for the election period.
+(4) The Commissioner may not accept an election if—
+  (a) an income amount order is in force in relation to the person, and to any months in the child support year in respect of which the election is to apply; or
+  (b) the person is subject to an order of the court under section 187; or
+  (c) the person has made an election within the previous 3 months, and the proposed new election would change the person’s annualised estimated taxable income by $500 or less; or
+  (d) the person made an election in relation to an earlier child support year and was required to provide a return of income under the Income Tax Act 2007 or the Tax Administration Act 1994 in relation to that year, but, at the time the notice is given under this section, the person is in breach of the requirement to furnish a return of income in respect of that year; or
+  (e) the person's annualised estimated taxable income is more than their original taxable income.
+(5) A notice under this section may be given in any form acceptable to the Commissioner, and is to be treated by the Commissioner as having been given in the month in which it was sent or provided by the person making the election, even if it is received by the Commissioner in the following month.
+(6) The Commissioner may decline to accept an election if the person making the election does not, on request by the Commissioner, provide the information and evidence that the Commissioner requires in order to support the making of the estimate.
 
 ### 41 Effect of election
-(1) Subject to sections 44 and 44A, if an election is made by a person in accordance with section 40 in relation to a child support year, the annual rate of child support payable by the person under a formula assessment (in this section referred to as the specified formula assessment) in relation to any day in the election period shall be the amount determined in accordance with the following formula:where—
-  (a) is the greater of the minimum annual rate under section 72(1)(a) or the amount of child support that, but for the provisions of this subsection, would be payable by the person in respect of the days in the child support year in respect of which child support is payable by that person under 1 or more formula assessments if the person's child support income amount in relation to that child support year were the amount of the person's estimate of his or her taxable income for the child support year as specified in the election
-  (b) is the amount, if any, of child support payable by the person under 1 or more formula assessments in respect of the days in the child support year preceding the commencement of the day in the election period on which the specified formula assessment commences to apply
-  (c) is the number of days in the child support year
-  (d) is the number of days in the election period that fall on or after the day on which the specified formula assessment commences to apply.
-(2) The election period, for the purposes of subsection (1), means the period in the child support year that—
-  (a) commences,—
-    (i) where the election was made prior to the commencement of the child support year, on the first day of the child support year:
-    (ii) where the election was made on or after the first day in the child support year, on the first day of the month in which the election was made; and
-  (b) ends with the earlier of—
-    (i) the last day of the month immediately preceding the month in which the election is revoked under section 42 or is replaced by a later election:
-    (ii) the last day of the child support year.
-(3) Subsection (1) has effect subject to any applicable income amount order.
-(4) The Commissioner shall, as soon as practicable after receiving an election that complies with section 40, take such action as is necessary to give effect to subsection (1) of this section in relation to any formula assessment that has been made in relation to the person and the child support year (whether by amending the assessment or otherwise).
-(5) Any election made by any person in respect of any child support year under subsection (1) shall, unless revoked or replaced by a later election, apply in respect of all subsequent formula assessments made in relation to the election period in the child support year in which that election applies.
-(6) Nothing in this section is to be taken to prevent the Commissioner making a determination under Part 5A, 6A, or 6B or the court making an order under Part 7.
+(1) If the Commissioner accepts an election made by a person, the Commissioner must determine the person's adjusted taxable income by—
+  (a) calculating the person’s annualised estimated taxable income; and
+  (b) adjusting the annualised estimated taxable income by the adjustments referred to in section 35, based on the adjustments applying to the tax year immediately preceding the most recent tax year, and applying those adjustments at a uniform daily rate throughout the election period.
+(2) The Commissioner must then adjust any formula assessment applying to the person during the election period and take whatever steps are necessary to ensure that the amount of child support payable per day during the election period reflects the adjusted assessment.
+(3) The making of an election does not prevent the Commissioner making a determination under Part 5A, 6A, or 6B, or the court making an order under Part 7.
 
-### 42 Revocation of election
-(1) Subject to subsection (3) of this section, a person who has made an election under section 40 in relation to a child support year may, by written notice given to the Commissioner, revoke the election.
-(2) The notice must be—
-  (a) in the appropriate approved form; and
-  (b) given to the Commissioner before or during the child support year.
-(2A) An election made by a person under section 40 in relation to a child support year is deemed to be revoked if—
-  (a) the person makes a later election under that section in relation to the child support year; and
-  (b) the amount of the estimate is more than 85% of the person's taxable income for the last relevant tax year (as inflated by the inflation percentage for the child support year, if required by section 40(1)(b)).
-(3) An election is irrevocable, despite subsections (1) and (2A), if an income amount order made after the election comes into force in relation to the person and to the child support year.
+### 42 Revocation of election and subsequent elections
+(1) A person who has made an election in relation to a child support year may revoke the election, before or during the child support year, by giving notice to the Commissioner; and the revocation takes effect from the start of the election period to which any election applied.
+(2) If an election is in effect but the person then makes a later election,—
+  (a) if the Commissioner accepts the later election,—
+    (i) the later election takes effect from the start of the month in which the notice of election is given, and section 41 applies accordingly; and
+    (ii) the earlier election ceases to have effect on the last day of the previous month:
+  (b) if the Commissioner does not accept the later election because the amount of year-to-date taxable income plus the new estimated taxable income is more than 85% of the person's original taxable income, then the earlier estimate is deemed to be revoked:
+  (c) if the Commissioner does not accept the election for any other reason, the earlier estimate remains in effect.
+(3) A revocation is of no effect to the extent that it is inconsistent with an income amount order.
 
-### 43 Effect of revocation
-(1) If an election made by a person under section 40 in relation to a child support year is revoked under section 42, the person's child support income amount in relation to the child support year (including any days in the child support year preceding the revocation of the election) is to be taken to be, and always to have been, the amount that would have been the person's child support income amount for the year if that election had not been made.
-(2) Subsection (1) has effect subject to any applicable income amount order.
-(3) The Commissioner shall, as soon as practicable after the revocation of a notice under section 42, take such action as is necessary to give effect to subsection (1) in relation to any formula assessment that has been made in relation to the person and any part of the child support year (whether by amending the assessment or not).
-(4) Nothing in this section is to be taken to prevent—
-  (aa) the Commissioner making a determination under Part 5A, 6A, or 6B; or
-  (a) a court making an order under Part 7; or
-  (b) a person making a further election under section 40.
+### 43 Effect of revocation of election
+(1) When an election is revoked, or deemed to be revoked, the Commissioner must—
+  (a) adjust any formula assessment applying to the person on the basis of the person's original adjusted taxable income; and
+  (b) take whatever steps are necessary to ensure that the amount of child support payable per day, during the election period to which the revoked election relates, reflects that adjusted assessment.
+(2) The revocation of an election does not prevent the Commissioner making a determination under Part 5A, 6A, or 6B, or the court making an order under Part 7, or a person making a further election.
 
-### 44 Reconciliation of estimated and actual taxable income after end of child support year
-(1) This section applies where, under any provision of the Income Tax Act 1976 (other than section 21) or the Income Tax Act 2007 or the Tax Administration Act 1994 (other than section 106), an assessment of taxable income of a person for a tax year (being a tax year that corresponds with a child support year in which at least 1 election made by that person under section 40 has applied) has been made.
-(1A) The person's child support income amount that is to be used in a formula assessment for that child support year is to be taken to be, and always to have been, the lesser of—
-  (a) the amount of the taxable income derived by that person in that child support year; or
-  (b) the child support income amount that would have been used for the purposes of a formula assessment for that child support year if the person had not made any election under section 40.
-(2) Subsections (1) and (1A) have effect subject to any applicable income amount order.
-(3) The Commissioner shall take such action as is necessary to give effect to this section in relation to the person (whether by amending any formula assessment that has been made in relation to the child support year or otherwise).
+### 44 End-of-year reconciliation
+(1) For the purpose of determining whether a person has, or has been, underpaid or overpaid child support in an election period, after the end of the child support year to which an election relates, the Commissioner must complete an assessment for the person based on the income amount determined under subsection (2).
+(2) The income amount to be used for the assessment is,—
+  (a) if the actual taxable income earned by the person during the year is equal to or less than the year-to-date income specified in the notice of election, the value of any adjustments made under section 41(1)﻿(b); or
+  (b) if the actual taxable income earned by the person during the year is more than the year-to-date income specified in the notice of election, the lesser of the following:
+    (i) the person's actual taxable income earned in the election period (which is the actual taxable income earned in the full year less the year-to-date income specified in a notice of election), annualised in accordance with the formula in subsection (3) (which gives the annualised actual taxable income in the election period), and adjusted in accordance with section 41(1)﻿(b):
+    (ii) the person's original adjusted taxable income.
+(3) The formula for annualising a person's actual taxable income in an election period is—(a ÷ b) × 365where—ais the actual taxable income earned during the election periodbis the number of days in the election period.
+(4) After comparing the result of the assessment done under subsection (1) with the results obtained under section 41, the Commissioner must take whatever steps are necessary to ensure that the correct amount of child support is assessed for the child support year.
+(5) A reconciliation under this section is subject to any income amount order that applies during all or any part of an election period.
 
-### 44A Reconciliation of estimated income where no tax return filed
-(1) This section applies if a person—
-  (a) makes an election under section 40 in respect of a child support year; and
-  (b) is or was required to furnish a return of income under the Income Tax Act 1976 or the Income Tax Act 2007 or the Tax Administration Act 1994 in respect of the tax year that corresponds with that child support year; and
-  (c) does not furnish a return of income within 28 days of the date the return was required to be furnished under those Acts.
-(2) Despite section 41, the person's child support income amount that is to be used in a formula assessment for that child support year is to be taken to be, and always to have been, the child support income amount that would have been used for the purposes of a formula assessment for that child support year if that person had not made any election under section 40.
-(3) Subsection (2) has effect subject to any applicable income amount order.
-(4) The Commissioner must take such action as is necessary to give effect to subsection (2) in relation to the person (whether by amending any formula assessment that has been made in relation to the child support year or otherwise) unless the Commissioner is satisfied that there is a reasonable cause for the failure to furnish the return of income.
-(5) Any action taken by the Commissioner to give effect to subsection (2) is final unless, within 28 days of the person receiving notification from the Commissioner of the action taken, the person—
+### 44A Determining income amount if no tax return filed
+(1) This section applies if the Commissioner cannot determine the person's actual taxable income during a child support year because the person, having been required to provide a return of income in respect of the tax year that corresponds to the child support year, has failed to provide it within 28 days of the requirement to provide it.
+(2) Where this section applies, the Commissioner must determine that the amount to be used for the purpose of the assessment under section 44(2) is the same as the person’s original adjusted taxable income, unless the Commissioner is satisfied that there is reasonable cause for the failure to provide the return of income.
+(3) A determination under subsection (2) is final unless, within 28 days after the person receives notification from the Commissioner of the determination, the person—
   (a) makes an objection under section 90; or
-  (b) furnishes the return of income for the relevant tax year to the Commissioner.
-(6) For the purposes of this section, reasonable cause means a circumstance that, on application being made by the person under section 37(3) of the Tax Administration Act 1994, results in the Commissioner extending the time for furnishing the return.
-(7) This section applies to a person regardless of whether a return of income was required to be furnished before or after this section comes into force.
+  (b) provides a return of income in respect of the relevant tax year to the Commissioner.
+(4) In subsection (2), reasonable cause means a circumstance that, on application being made by the person under section 37(3) of the Tax Administration Act 1994, results in the Commissioner extending the time for providing the return.
 
 **Penalties for underestimation**
 
-### 45 Penalty where income underestimated
-(1) If—the person shall, subject to subsection (3), be liable to pay to the Commissioner, by way of penalty, an amount calculated in accordance with subsection (2).
-  (a) 1 or more elections made by a person under section 40 has or have applied in any child support year; and
-  (b) the provisions of section 44 or section 44A apply to that person in relation to that child support year; and
-  (c) the sum of the amounts of child support that would, but for the provisions of section 44 or section 44A, be payable by the person for that child support year under 1 or more formula assessments made under this Act is less than 80% of the sum of the amounts that are payable by the person for the child support year under 1 or more formula assessments made in accordance with the provisions of section 44 or section 44A,—
-(2) The amount of penalty payable under this section, in relation to any child support year, shall be an amount calculated in accordance with the following formula:(a − b) × 10%where—
-  (a) is the sum of the amounts of child support that are payable by the person for the child support year under 1 or more formula assessments made in accordance with the provisions of section 44 or section 44A
-  (b) is the sum of the amounts of child support that would, but for the provisions of section 44 or section 44A, have been payable by the person for that child support year under 1 or more formula assessments made under this Act.
-(3) Where the Commissioner is satisfied that the person, in relation to an election period in a child support year, has become liable to pay a penalty under this section as the result of the taxable income derived by the person in the child support year being higher than it would otherwise have been by reason of—the Commissioner shall, to the extent that the penalty is higher than it would otherwise have been, write off the penalty or any part thereof.
-  (a) the enactment of any Act amending the Income Tax Act 2007 or the making of any regulation or Order in Council relating to income tax, during the period commencing on the first day of the last month in that child support year and ending with the due date for payments in respect of that month; or
-  (b) the Commissioner making public, during the period commencing on the first day of the last month in that child support year and ending with the due date for payments in respect of that month, any ruling in relation to any provision of the Income Tax Act 2007 and that ruling is different from a ruling previously made public by the Commissioner in relation to that provision; or
-  (c) the adoption by the person of an incorrect interpretation of any provision of this Act or of the Income Tax Act 1976 or the Income Tax Act 2007, being an interpretation which, although incorrect, is reasonable having regard to the circumstances of the case,—
-(4)
-(5) Subject to the other provisions of this Part, the other Parts shall apply with respect to any penalty payable under this section as if it were a penalty payable under section 134.
+### 45 Penalty if estimated income less than 80% of actual income
+(1) A person is liable to a penalty under this section if their year-to-date income (if any) specified in the notice of election plus the estimated taxable income for the election period is less than 80% of—
+  (a) their actual taxable income for the child support year; or
+  (b) the amount determined under section 44A(2).
+(2) The penalty is 10% of the difference between—
+  (a) the annual amount of child support that was assessed under section 41 as payable in the election period; and
+  (b) the reconciled annual amount of child support payable in the election period, as determined under section 44.
+(3) However, no penalty is payable by a receiving parent if the amount that the liable parent pays has been determined under the multi-group cap referred to in section 31(3).
+(4) The Commissioner must write off a penalty to which a person is liable under this section, or any part of the penalty, if the Commissioner is satisfied that the person, in relation to an election period in a child support year, has become liable to pay a penalty under this section as the result of the taxable income derived by the person in the child support year being higher than it would otherwise have been by reason of—
+  (a) the enactment of any Act amending the Income Tax Act 2007, or the making of any regulation or Order in Council relating to income tax, during the period commencing on the first day of the last month in that child support year and ending with the due date for payments in respect of that month; or
+  (b) the Commissioner making public, during that period, any ruling in relation to any provision of the Income Tax Act 2007, and that ruling is different from a ruling previously made public by the Commissioner in relation to that provision; or
+  (c) the adoption by the person of an incorrect interpretation of any provision of this Act or of the Income Tax Act 2007, being an interpretation which, although incorrect, is reasonable having regard to the circumstances of the case.
+(5) Subject to the other provisions of this Part, the other Parts of this Act apply with respect to any penalty payable under this section as if it were a penalty payable under section 134, except that late payment penalties do not apply to penalties imposed under this section.
 
 ### 46 Interest to be charged on underestimations
 [Repealed]
@@ -642,7 +664,7 @@ Where—the annual rate of child support payable by the liable parent under a fo
   (b) the parties to a voluntary agreement for domestic maintenance,—
 (2) The parties to a voluntary agreement for child support may be—
   (a) the parents of the child; or
-  (b) a parent, or the parents, of the child and an eligible custodian of the child who is not the child's parent.
+  (b) a parent, or the parents, of the child and a carer of the child who is not the child's parent.
 (3) The parties to a voluntary agreement for domestic maintenance may be—
   (a) a married couple or civil union partners; or
   (b) the parties to a marriage, civil union or de facto relationship that has ended; or
@@ -655,7 +677,7 @@ Where—the annual rate of child support payable by the liable parent under a fo
 ### 48 Voluntary agreements that qualify for acceptance
 (1) A voluntary agreement qualifies for acceptance by the Commissioner under this Act only if—
   (a) it is made either—
-    (i) by any of the parties referred to in section 47(2) and requires the payment by one party of a periodical sum of money to the eligible custodian towards the maintenance of the qualifying child; or
+    (i) by any of the parties referred to in section 47(2) and requires the payment by one party of a periodical sum of money to a carer towards the maintenance of the qualifying child; or
     (ii) by any of the parties referred to in section 47(3) and requires the payment by one party of a periodical sum of money to the other party towards the maintenance of the other party; and
   (b) those periodic payments are in weekly, fortnightly, or monthly instalments and at a readily determined annual rate; and
   (c) each weekly instalment is not less than the minimum amount required by section 49; and
@@ -771,7 +793,7 @@ Where the Commissioner accepts a voluntary agreement, the child support or, as t
 
 ### 62 When payments under voluntary agreement cease to be payable
 (1) A party to a voluntary agreement that has been accepted by the Commissioner under this Act shall cease to be liable under this Act to make payments under the agreement from whichever is the earliest of the following days:
-  (a) in relation to an agreement for the payment of child support in respect of a qualifying child to a qualifying custodian,—
+  (a) in relation to an agreement for the payment of child support in respect of a qualifying child to a carer of the child,—
     (i) the day that the agreement expires:
     (ii) the day before the day on which the liable parent would cease to be liable to pay child support in respect of that child under section 25:
     (iii) the day before the day on which the agreement ceases to qualify for acceptance by the Commissioner in terms of section 48:
@@ -810,12 +832,10 @@ Where the Commissioner accepts a voluntary agreement, the child support or, as t
 (5) An election made under subsection (1) shall be irrevocable.
 
 ### 65 Child support voluntary agreement no bar to application for formula assessment
-(1) The existence of a voluntary agreement shall not prevent a person who is a qualifying custodian or a liable parent in relation to that agreement from applying to the Commissioner for formula assessment of child support under Part 1.
-(2) Where, in relation to a voluntary agreement made in relation to a child and to the persons who are respectively the qualifying custodian and the liable parent in relation to that child in terms of that agreement,—the qualifying custodian is deemed—
-  (a) the qualifying custodian or the liable parent makes a properly made application for formula assessment of child support in relation to that child; and
-  (b) in terms of that application those same persons are respectively the qualifying custodian and the liable parent in relation to that child,—
-  (c) to have elected under section 64 that the liability of the liable parent to pay child support in respect of the child under that agreement is to end with the day before the day on which that formula assessment is to first apply; and
-  (d) to have met the requirements of subsections (2) and (3) of that section.
+(1) The existence of a voluntary agreement shall not prevent any party in relation to that agreement from applying to the Commissioner for formula assessment of child support under Part 1.
+(2) If a properly completed application for a formula assessment of child support in respect of the child to whom the agreement relates is completed, any person who, under the agreement, was a person to whom child support was payable is deemed—
+  (a) to have elected under section 64 that the liability of the other party to the agreement to pay child support in respect of the child under the agreement is to end with the day before the day on which the formula assessment is to first apply; and
+  (b) to have met the requirements of section 64(2) and (3).
 
 ### 66 Voluntary agreement no bar to application for maintenance order under Family Proceedings Act 1980
 (1) The existence of a voluntary agreement that provides for payments of money by 1 party to the agreement towards the support of another party to the agreement shall not prevent that other party from applying under the Family Proceedings Act 1980 for a maintenance order.
@@ -824,7 +844,7 @@ Where the Commissioner accepts a voluntary agreement, the child support or, as t
   (b) to have met the requirements of subsections (2) and (3) of that section.
 
 ### 66A Commissioner to give effect to orders made under Property (Relationships) Act 1976
-If a court makes an order under section 32(2)(d) of the Property (Relationships) Act 1976 in relation to a voluntary agreement that has been accepted under this Part, the Commissioner must, as soon as practicable, take such action as is necessary to give effect to the order.
+If a court makes an order under section 32(2)﻿(d) of the Property (Relationships) Act 1976 in relation to a voluntary agreement that has been accepted under this Part, the Commissioner must, as soon as practicable, take such action as is necessary to give effect to the order.
 
 ## Part 4 — Court maintenance orders made after 1 July 1992
 
@@ -886,11 +906,10 @@ Any money payable under this Act in accordance with an order to which this Part 
 
 ### 72 Minimum rate of child support or domestic maintenance
 (1) The minimum annual rate at which the Commissioner shall assess—
-  (a) child support under a formula assessment is, in respect of all of the children for whom the parent is liable to pay child support under a formula assessment,—
-    (i) for the child support year commencing 1 April 2002, $663:
-    (ii) for the child support year commencing 1 April 2003, $663 adjusted by the movement in the all groups index number of the New Zealand Consumer Price Index during the 9-month period that ends with 31 December 2002:
-    (iii) for each subsequent child support year, the minimum annual child support rate under this paragraph for the immediately preceding child support year, adjusted by the applicable inflation percentage:
-  (b) child support payable by a liable parent to a qualifying custodian under 1 or more voluntary agreements providing for payments to be made in respect of 1 or more children shall be, in the aggregate, $520 in respect of those children:
+  (a) child support payable under a formula assessment by a liable parent in respect of all of his or her children is,—
+    (i) for the child support year commencing on 1 April 2013, $871:
+    (ii) for each later child support year, the minimum annual rate of child support under this paragraph for the immediately preceding child support year, adjusted by the applicable inflation percentage:
+  (b) child support payable by a liable parent to a receiving carer under 1 or more voluntary agreements providing for payments to be made in respect of 1 or more children shall be, in the aggregate, $520 in respect of those children:
   (c) domestic maintenance shall be $520.
 (2) Subsection (1) applies notwithstanding anything to the contrary in any order of the court or in any voluntary agreement.
 
@@ -911,14 +930,10 @@ Any money payable under this Act in accordance with an order to which this Part 
 **Provisions relating to making of assessments**
 
 ### 77 Assessment on basis of information supplied to Commissioner
-In making an assessment of child support or domestic maintenance payable under this Act, the Commissioner may act on the basis of the documents and information in his or her possession, and is not required to conduct any enquiries or investigations into the matter or to require (under this Act or the Income Tax Act 2007 or the Tax Administration Act 1994 or otherwise) the supply of any information or the production of any document.
+For the purpose of determining liability under a formula assessment, or making an assessment of child support or domestic maintenance payable under this Act, the Commissioner may act on the basis of the documents and information in his or her possession, and is not required to conduct any enquiries or investigations into the matter or to require (under this Act or the Income Tax Act 2007 or the Tax Administration Act 1994 or otherwise) the supply of any information or the production of any document.
 
 ### 78 Assessment to relate to all children for whom child support payable
-(1) If child support is payable by a liable parent for 2 or more children, any assessment of the child support is to relate to all of the children and not to any of the children separately.
-(2) Subsection (1) applies whether or not the child support is payable because of—
-  (a) the acceptance by the Commissioner of 2 or more separate applications for formula assessment made otherwise than in the same form; or
-  (b) the existence of 2 or more voluntary agreements made otherwise than in the same document; or
-  (c) the acceptance by the Commissioner of an application for formula assessment, and the existence of a voluntary agreement.
+[Repealed]
 
 ### 79 Assessment to relate to whole or part of single child support year
 An assessment of child support or domestic maintenance is to relate to all or part of a single child support year.
@@ -926,18 +941,34 @@ An assessment of child support or domestic maintenance is to relate to all or pa
 ### 80 Assessments for part of child support year
 In making an assessment of child support or domestic maintenance payable in relation to the days of a period of less than a full child support year, the Commissioner may apply this Act as if the beginning and end of the period were respectively the beginning and end of a full child support year.
 
-### 81 Notification requirements of liable parent
-(1) The Commissioner may, for the purposes of assessing the amount of child support payable under a formula assessment, by written notice given to a person who is a liable parent, require that person—
+### 81 Notification requirements of parent
+(1) The Commissioner may, for the purposes of assessing the amount of child support payable under a formula assessment, by written notice given to a person who is a parent of a qualifying child, require that person—
   (a) to notify the Commissioner, in writing, of information relating to that person's living circumstances; and
   (b) where that person is a taxpayer to whom section 33A of the Tax Administration Act 1994 applies in respect of the last relevant tax year, to either—
     (i) supply a return of income for the last relevant tax year; or
     (ii) supply an estimate of the income derived in the last relevant tax year; or
     (iii) supply an estimate of the income expected to be derived in the child support year.
-(2) Where the liable parent supplies an estimate under subsection (1)(b)(iii), that liable parent will be deemed to have made an election in terms of section 40.
-(3) Where a person has refused or failed to comply with any requirement under subsection (1)(a) in respect of a child support year, the Commissioner may, in making an assessment of the child support payable by the person in relation to that child support year, act on the basis that the liable parent is entitled to a deduction in respect of a living allowance at the lowest amount capable of being calculated under Part 2.
+(2) Where the person supplies an estimate under subsection (1)﻿(b)﻿(iii), that person will be deemed to have made an election in terms of section 40.
+(3)
 
-### 82 Liable parent to advise Commissioner of certain changes in living circumstances
-Any person who is a liable parent shall, as soon as practicable, advise the Commissioner, for the purposes of calculating the child support payable in any child support year under a formula assessment, of any changes in living circumstances occurring during that child support year which affect the calculation of the deduction allowed in respect of the living allowance for that child support year.
+### 82 Parents and receiving carers to advise Commissioner of changes
+(1) For the purpose of enabling the Commissioner to make or amend a calculation of child support payable in respect of a child in any child support year under a formula assessment, every parent and every receiving carer of the child must advise the Commissioner of any change in the parent's or carer's living circumstances occurring during the child support year that affects, or may affect, any of the following:
+  (a) in relation to parents and non-parent carers, the determination of the person's care cost percentage:
+  (b) in relation only to parents, the following:
+    (i) the person's appropriate living allowance:
+    (ii) the application or calculation of any dependent child allowance (if any):
+    (iii) the application or calculation of any person's multi-group allowance (if any):
+    (iv) the application or calculation of any person's multi-group cap (if applicable).
+(2) If the Commissioner is satisfied that a relevant change of living circumstances has occurred, the change is to be treated as having occurred—
+  (a) on the date on which the change occurred, in any of the following cases:
+    (i) in relation to a liable parent, where the change has the effect of increasing the amount of the parent's child support liability:
+    (ii) in relation to a receiving carer, where the change has the effect of decreasing the amount of child support payable in respect of that carer:
+    (iii) where notice of the change is received by the Commissioner within 28 days after the date on which the change occurred; or
+  (b) on the date on which the Commissioner receives notice of the change, in either of the following cases (unless paragraph (a)﻿(iii) applies):
+    (i) in relation to a liable parent, where the change has the effect of decreasing the amount of the parent's child support liability:
+    (ii) in relation to a receiving carer, where the change has the effect of increasing the amount of child support payable in respect of that carer.
+(3) Every notification of a change must be accompanied by such documentation as the Commissioner requires.
+(4) The Commissioner may disregard subsection (2), and may determine the date on which a particular change in living circumstances is to be treated as having occurred, in any case where 2 or more people give notice under this section relating to the same change, and the application of subsection (2) would result in the same change having to be treated as having occurred on different days in relation to different people.
 
 ### 83 Evidence relating to assessments
 (1) The production of a notice of assessment, or a document signed by the Commissioner or an officer of the Department that appears to be a copy of a notice of assessment, is conclusive evidence of the proper making of an assessment and, except in proceedings under sections 91 to 95, that all particulars of the notice of assessment are correct.
@@ -951,8 +982,8 @@ In assessing the annual rate at which child support or domestic maintenance is p
 
 ### 86 Commissioner to give effect to changed circumstances
 (1) Where child support is payable in respect of a qualifying child and the Commissioner is notified, or otherwise becomes aware,—the Commissioner shall, as soon as practicable, take such action as is necessary to take account of the event or change in circumstances (whether by amending any assessment or otherwise).
-  (a) that the liability of a liable parent to pay child support to a qualifying custodian in respect of a child has ceased in accordance with section 25 or section 62; or
-  (b) that an event or change of circumstances has occurred that affects the annual rate at which child support is payable under this Act,—
+  (a) that the liability of a liable parent to pay child support to a carer in respect of the child has ceased in accordance with section 25 or 62; or
+  (b) that an event or change of circumstances has occurred that alters the respective liability or entitlement of any parent or carer of the qualifying child,—
 (2) Where domestic maintenance is payable by a liable spouse or partner under a voluntary agreement or an order of the court and either—the Commissioner shall, as soon as practicable, take such action as is necessary to take account of the event or change in circumstances (whether by amending any assessment or otherwise).
   (a) payment is to cease, or the rate of payment is to reduce, on a particular day in accordance with that agreement or order; or
   (b) the Commissioner is notified, or otherwise becomes aware,—
@@ -970,7 +1001,7 @@ In assessing the annual rate at which child support or domestic maintenance is p
   (a) correcting any error or mistake (whether or not made by the Commissioner); or
   (b) correcting the effect of any false or misleading statement made to the Commissioner; or
   (c) giving effect to the happening of an event or change of circumstances to which the provisions of section 86 apply; or
-  (d) giving effect to the acceptance of an application for formula assessment of child support by the Commissioner; or
+  (d) giving effect to a formula assessment of child support by the Commissioner; or
   (da) giving effect to Part 5A; or
   (e) giving effect to the acceptance of a voluntary agreement by the Commissioner; or
   (ea) giving effect to a determination of the Commissioner under Part 6A or 6B; or
@@ -983,20 +1014,73 @@ In assessing the annual rate at which child support or domestic maintenance is p
   (c) shall pay by the due date the amount that would have been payable if the increase had not taken effect; and
   (d) shall pay the amount of the increase within 30 days after the date of the amended assessment,—
 
-### 88 Notice of assessment to be given to liable person
-(1) The Commissioner must give written notice of an assessment to a person who is required to make payments under the assessment as soon as practicable—
-  (a) after making the first assessment of financial support payable by the person in respect of a child support year; and
-  (b) after making an assessment that changes the amount of financial support payable by the person.
-(2) A notice of assessment must contain sufficient information regarding the assessment to enable the liable person to exercise his or her right to object to the assessment under section 91.
-(3) The notice must also include, or be accompanied by, statements of the following kinds:
-  (a) a statement that specifically draws the attention of the person required to make payments under the assessment to the right to object to the assessment under section 91 if he or she is aggrieved by any of the particulars of the assessment; and
-  (b) in relation to a notice of assessment of child support assessed under a formula assessment, a statement that specifically draws the attention of the liable parent to the right to apply—
-    (i) to the Commissioner under Part 6A; and
-    (ii) to a Family Court under Part 7.
+### 88 Notice of assessment of formula assessment of child support
+(1) The Commissioner must give written notice (a notice of assessment) to each parent and receiving carer of a qualifying child—
+  (a) as soon as practicable after making an assessment under section 29; and
+  (b) after making any assessment that changes—
+    (i) the amount of child support payable by a liable parent in respect of the child; or
+    (ii) the respective amounts payable in respect of different receiving carers; and
+  (c) at the beginning of each later child support year.
+(2) The notice of assessment must set out, as a minimum, the relevant matters identified in section 88A, but in no case may a notice of assessment reveal any more detail about another person who is a parent or carer than the person's name (subject to subsection (5)) and, in relation to a qualifying child, the person's proportion of care and care cost percentage.
+(3) Without limiting subsection (2), the notice of assessment must contain sufficient information to enable the recipient to exercise his or her rights to object under section 90 or 91.
+(4) The notice must also include, or be accompanied by, statements that specifically draw to the attention of the recipient the recipient's right to—
+  (a) object under section 90 or 91 if he or she is aggrieved by any of the particulars of the assessment; and
+  (b) apply to the Commissioner under Part 6A; and
+  (c) apply to a Family Court under Part 7.
+(5) Despite anything in this section, the Commissioner may omit from a notice of assessment or any related communication the name of any parent or carer if—
+  (a) he or she is satisfied that revealing the name to the recipient of the notice would be prejudicial to the safety of any parent, carer, or child; or
+  (b) the parent is deceased, or is a parent in respect of whom an assessment has not been made.
 
-### 89 Notice to be given to payee
-(1) The Commissioner shall, as soon as practicable after making an assessment, give to the person in relation to whom the amounts are payable, written notice of the amount of child support or, as the case may be, domestic maintenance so assessed in relation to that person.
-(2) A payee shall not be entitled to receive from the Commissioner any information in relation to the assessment other than that which is required to be given under subsection (1).
+### 88A Details in notices of assessments
+(1) A notice of assessment given to a liable parent must set out all of the following that are applicable in relation to each qualifying child to whom the notice relates:
+  (a) the child's first names and date of birth:
+  (b) the names of the child's other parent (subject to section 88(5)):
+  (c) the names of any non-parent receiving carers of the child (subject to section 88(5)):
+  (d) the proportion of ongoing daily care that the Commissioner has established (under section 14) that the liable parent provides to the child:
+  (e) the care cost percentage of the liable parent in relation to the child, as determined under section 16:
+  (f) the liable parent's adjusted taxable income:
+  (g) the first names and date of birth of every dependent child (as defined in section 35B(3)) of the liable parent and the amount of the dependent child allowance for each dependent child:
+  (h) the amount of any multi-group allowance to which the liable parent is entitled:
+  (i) the liable parent's child support income amount in relation to the child:
+  (j) the combined child support income amounts of the liable parent and the child's other parent, in relation to the child:
+  (k) the liable parent's income percentage in relation to the child.
+(2) A notice of assessment given to a parent of a child who is a receiving carer must set out all of the following that are applicable in relation to each qualifying child to whom the notice relates:
+  (a) the child's first names and date of birth:
+  (b) the names of the child's liable parent or parents, and of any other parents (subject to section 88(5)):
+  (c) the names of any non-parent receiving carers of the child (subject to section 88(5):
+  (d) the proportion of ongoing daily care that the Commissioner has established (under section 14) that the parent provides to the child:
+  (e) the care cost percentage of the parent in relation to the child, as determined under section 16:
+  (f) the parent's adjusted taxable income:
+  (g) the first names and date of birth of every dependent child (as defined in section 35B(3)) of the parent and the amount of the dependent child allowance for each dependent child:
+  (h) the amount of any multi-group allowance to which the parent is entitled:
+  (i) the parent's child support income amount in relation to the child:
+  (j) the combined child support income amounts of the parent and all the child's other parents in relation to the child:
+  (k) the parent's income percentage in relation to the child.
+(3) A notice of assessment given under this section to a non-parent receiving carer of a child must set out all of the following that are applicable in relation to each qualifying child to whom the notice relates:
+  (a) the child's first names and date of birth:
+  (b) the names of the child's liable parent or parents, and any other parent (subject to section 88(5)):
+  (c) the names of any other non-parent receiving carers of the child (subject to section 88(5)):
+  (d) the proportion of ongoing daily care that the Commissioner has established (under section 14) that the carer provides to the child:
+  (e) the care cost percentage of the carer in relation to the child, as determined under section 16:
+  (f) the expenditure on each child for whom the carer provides care, as determined by the relevant child expenditure table:
+  (g) the amount of child support payable by the child's liable parents in respect of the carer.
+
+### 89 Notification by Commissioner to other payers and payees
+(1) The Commissioner must give written notice under this section to every person who is required under this Act to make payments, and every person entitled under this Act to receive payments, of—
+  (a) domestic maintenance; or
+  (b) child support under a voluntary agreement; or
+  (c) child support under a court order.
+(2) The notice must set out—
+  (a) the amount of domestic maintenance or child support payable; and
+  (b) the name of the payer and the payee; and
+  (c) in the case only of a notice relating to child support, the name of each child in respect of whom payment is to be made.
+(3) The notice must be given—
+  (a) as soon as practicable after determining the amount payable in respect of a child support year; and
+  (b) after making any assessment that changes the amount payable.
+(4) The notice must contain sufficient information to enable the recipient to exercise his or her rights to object under section 90 or 91.
+(5) The notice must also include, or be accompanied by, statements that specifically draw to the attention of the recipient his or her right to—
+  (a) object under section 90 or 91 if he or she is aggrieved by any of the particulars of the assessment; and
+  (b) apply to a Family Court under Part 7.
 
 ## Part 5A — Exemptions
 
@@ -1031,7 +1115,7 @@ In this Part, unless the context otherwise requires,—
     (a) in the legal custody of the Superintendent of any penal institution as defined in the Penal Institutions Act 1954; or
     (b) in legal custody under the Corrections Act 2004
   - **relevant minimum annual rate of financial support** means, in relation to a child support year,—
-    (a) for an exemption from child support payable under a formula assessment or under an order under section 109, the minimum annual rate for that year under section 72(1)(a):
+    (a) for an exemption from child support payable under a formula assessment or under an order under section 109, the minimum annual rate for that year under section 72(1)﻿(a):
     (b) for an exemption from any other child support payable under this Act or from domestic maintenance, $520
   - **social security benefit** means any benefit within the meaning of the Social Security Act 1964.
 
@@ -1048,7 +1132,7 @@ In this Part, unless the context otherwise requires,—
     (i) exceed an average amount per week in that whole period, or that part, that is equal to the relevant minimum annual rate of financial support, divided by 52; and
     (ii) if that whole period, or that part, is 1 or more full child support years in duration, exceed, in a child support year in that whole period or that part, the relevant minimum annual rate of financial support; and
   (c) the person applies for the exemption in accordance with section 89H.
-(1A) For the purposes of subsection (1)(a), a liable person's income during a period of long-term hospitalisation does not include any amounts received by the person during that hospitalisation for, or in respect of, any time up to and including the day on which the period of hospitalisation began.
+(1A) For the purposes of subsection (1)﻿(a), a liable person's income during a period of long-term hospitalisation does not include any amounts received by the person during that hospitalisation for, or in respect of, any time up to and including the day on which the period of hospitalisation began.
 (2) This section is subject to sections 89F and 89G.
 
 **Exemption for prisoners**
@@ -1060,7 +1144,7 @@ In this Part, unless the context otherwise requires,—
     (i) exceed an average amount per week in that whole period, or that part, that is equal to the relevant minimum annual rate of financial support, divided by 52; and
     (ii) if that whole period, or that part, is 1 or more full child support years in duration, exceed, in a child support year in that whole period or that part, the relevant minimum annual rate of financial support; and
   (c) the person applies for the exemption in accordance with section 89H.
-(1A) For the purposes of subsection (1)(a), a liable person's income during a period of long-term imprisonment does not include any amounts received by the person during that imprisonment for, or in respect of, any time up to and including the day on which the period of imprisonment began.
+(1A) For the purposes of subsection (1)﻿(a), a liable person's income during a period of long-term imprisonment does not include any amounts received by the person during that imprisonment for, or in respect of, any time up to and including the day on which the period of imprisonment began.
 (2) This section is subject to sections 89F and 89G.
 
 **Exemption for persons under 16 years**
@@ -1135,7 +1219,7 @@ In this Part, unless the context otherwise requires,—
   (b) is not entitled to recover the exemption excess from the payee under section 207.
 (3) Nothing in sections 216 to 216D applies in relation to the exemption excess.
 (4) The Commissioner must, as soon as practicable after granting an exemption under this subpart, take the action that is necessary to—
-  (a) give effect to subsection (2)(a); and
+  (a) give effect to subsection (2)﻿(a); and
   (b) ensure that a refund of the exemption excess is not paid, and does not become payable, to the person concerned.
 (5) The Commissioner's power to take action under subsection (4) includes, without limitation, the power to do any of the following:
   (a) apply the exemption excess (in whole or in part) to any unpaid financial support, unpaid penalty, or other charge imposed under this Act in relation to the person concerned:
@@ -1166,16 +1250,16 @@ In this Part, unless the context otherwise requires,—
 (3) The following provisions apply, with necessary modifications, as if a determination under subsection (1) were an order:
   (a) section 106(4) (which relates to the period of time in which orders apply or when orders terminate):
   (b) section 107 (which relates to implementation of orders):
-  (c) section 119(1)(a) (which relates to the cessation of orders).
+  (c) section 119(1)﻿(a) (which relates to the cessation of orders).
 (4) The Commissioner may make a determination confirming that the specified exemption continues to apply to the whole or a part of a period for which it was granted if the Commissioner does not make a determination under subsection (1) in relation to that whole or part of a period.
 
 ### 89N Determination that provisions of Act relating to formula assessment of child support will be departed from
 (1) Subject to this subpart, the Commissioner may make a determination that all or some of the provisions of this Act relating to formula assessment of child support will be departed from in relation to a child if—
   (a) the Commissioner has made, or intends to make, a determination under section 89M; and
   (b) the Commissioner is satisfied that—
-    (i) the application in relation to the qualifying custodian, the child, or both of the provisions of this Act relating to formula assessment of child support would result in an unjust and inequitable determination of the level of financial support to be provided by the liable parent for the child because of the income, earning capacity, property, and financial resources of the liable parent; and
+    (i) the application in relation to the receiving carer, the child, or both of the provisions of this Act relating to formula assessment of child support would result in an unjust and inequitable determination of the level of financial support to be provided by the liable parent for the child because of the income, earning capacity, property, and financial resources of the liable parent; and
     (ii) a determination under this section would be—
-      (A) just and equitable as regards the child, the qualifying custodian, and the liable parent; and
+      (A) just and equitable as regards the child, the receiving carer, and the liable parent; and
       (B) otherwise proper.
 (2) Section 105(4) to (6) applies to the Commissioner in the exercise of his or her powers under this section as if—
   (a) any reference in those subsections to the court were a reference to the Commissioner; and
@@ -1184,10 +1268,10 @@ In this Part, unless the context otherwise requires,—
   (a) section 98 (which sets the minimum liability in respect of child support):
   (b) section 106(2) to (4) (which relates to the orders that may be made):
   (c) section 107 (which relates to implementation of orders):
-  (d) section 119(1)(a) (which relates to the cessation of orders).
+  (d) section 119(1)﻿(a) (which relates to the cessation of orders).
 
 ### 89O Reasons for determination
-(1) The Commissioner must give both parties, in writing, the reasons for making a determination under this subpart.
+(1) The Commissioner must give all parties, in writing, the reasons for making a determination under this subpart.
 (2) A contravention of subsection (1) in relation to a determination does not affect the validity of the determination.
 
 ### 89P Commissioner may refuse to make determination because issues too complex
@@ -1285,8 +1369,8 @@ The Commissioner may, under this subpart, make a determination expressed to be r
     (ii) another person has been proved to have committed that sex offence before a Youth Court; and
   (d) in the opinion of the Commissioner, it is likely that the child was conceived as a result of that sex offence.
 (2) If the Commissioner grants an exemption under subsection (1), the period of exemption commences on the day on which the Commissioner received the application for the exemption.
-(3) However, the period of exemption commences on the day on which the Commissioner accepts an application for formula assessment of child support under section 17(1) in relation to the child if—
-  (a) that application for formula assessment was made on or after the day on which the person referred to in subsection (1)(c) was convicted of the sex offence or was proved to have committed the sex offence before a Youth Court; and
+(3) However, the period of exemption commences on the day on which the Commissioner receives a properly completed application for formula assessment under Part 1 in relation to the child if—
+  (a) that application for formula assessment was made on or after the day on which the person referred to in subsection (1)﻿(c) was convicted of the sex offence or was proved to have committed the sex offence before a Youth Court; and
   (b) the liable parent made the application for the exemption under this subpart within 28 days after the date on which notice of the decision under section 17(1) was given by the Commissioner to the liable parent.
 (4) The Commissioner may, for the purpose of determining whether a person is eligible for an exemption under this section, obtain information from the Ministry of Justice, the New Zealand Police, or both in accordance with section 85K of the Tax Administration Act 1994.
 
@@ -1307,8 +1391,8 @@ The Commissioner may, under this subpart, make a determination expressed to be r
 (1) The Commissioner must, as soon as practicable after granting an exemption under this Part, take the action that is necessary to give effect to the exemption (whether by revoking any assessment or otherwise).
 (2) The Commissioner must, as soon as practicable after being notified or otherwise becoming aware that an exemption under this Part does not apply for the whole or a part of a period for which the exemption was granted, take the action that is necessary to take that matter into account (whether by issuing or amending any assessment, amending any exemption, or otherwise).
 (3) Subsection (4) applies if 1 or more of the following applies:
-  (a) the Commissioner has acted under section 89I(2) and the Commissioner is no longer satisfied that the estimates referred to in section 89I(2)(a) are fair and reasonable:
-  (b) the Commissioner has acted under section 89I(2) and the Commissioner is no longer satisfied that the assumptions referred to in section 89I(2)(b) are reasonable in the circumstances of the case:
+  (a) the Commissioner has acted under section 89I(2) and the Commissioner is no longer satisfied that the estimates referred to in section 89I(2)﻿(a) are fair and reasonable:
+  (b) the Commissioner has acted under section 89I(2) and the Commissioner is no longer satisfied that the assumptions referred to in section 89I(2)﻿(b) are reasonable in the circumstances of the case:
   (c) an exempted person's income is not in accordance with the estimates provided in or with the application for the exemption.
 (4) The Commissioner may take the action that is necessary to take the matters referred to in subsection (3) into account (whether by issuing or amending any assessment, amending any exemption, or otherwise).
 (5) The Commissioner's power to take action under subsections (2) and (4) includes, without limitation, the power to amend the period or periods for which an exemption was granted (whether that period or those periods are before or after the time that the Commissioner takes the action) in order to ensure that—
@@ -1336,15 +1420,17 @@ A person to whom an exemption has been granted in respect of a part or parts of 
 
 ### 90 Objections to appealable decisions
 (1) For the purposes of this Part, the term appealable decision means—
-  (a) a decision under section 17(1) to accept an application for formula assessment of child support:
-  (b) a decision under section 17(2) to refuse to accept an application for formula assessment of child support:
+  (a) a decision to make, or refuse to make, a formula assessment of child support:
+  (b) a decision under section 14 establishing the proportion of ongoing daily care that a carer provides to a qualifying child:
+  (ba) a decision as to whether a particular child is or is not a dependent child of a person:
   (c) a decision not to accept an election made under section 40:
   (ca) a decision under section 44A to reconcile estimated income where no return of income is furnished under the Income Tax Act 2007 and the Tax Administration Act 1994:
-  (d) a decision under section 45 or section 134 of this Act in relation to the charging of a penalty:
+  (d) a decision that a penalty has been imposed by operation of section 45 or 134:
   (e)
   (f) a decision under section 57(1) to accept an application for acceptance of an agreement:
   (g) a decision under section 57(2) to refuse to accept an application for acceptance of an agreement:
   (h) a decision under section 63 to accept, or to refuse to accept, an application for acceptance of a variation of an agreement:
+  (ha) a decision made under section 82(4) determining the date on which a change in living circumstances occurred:
   (i) a decision under section 89I or 89Z not to grant an exemption from the payment of financial support:
   (j) a decision under section 86 or a refusal to make any such decision:
   (ja) a decision under section 96N to make, or to refuse to make, a suspension order:
@@ -1353,17 +1439,18 @@ A person to whom an exemption has been granted in respect of a part or parts of 
 
 ### 91 Objections to assessments
 (1) An objection to an assessment may be made on any or all of the following grounds, but on no other ground:
-  (a) that the amount taken by the Commissioner, for the purpose of assessing the amount of child support payable in any child support year, to be the liable parent's income amount is incorrect; or
+  (a)
   (b) that the annual or monthly rate of financial support specified in the assessment has not been correctly calculated in accordance with this Act; or
   (c) that the assessment has incorrectly determined the days in relation to which the financial support is payable; or
   (d) that an annual rate of financial support specified in the assessment is not correctly assessed because the Commissioner has failed to give effect to any provision of this Act in relation to the assessment.
-(2) An objection under this section may be made by any person who has been assessed for child support or domestic maintenance.
+(2) An objection under this section may be made by any person who is affected by the assessment.
 (3) Where the assessment objected to under this section is an amended assessment, the person so assessed shall have no further right of objection than that person would have had if the amendment had not been made, except to the extent to which by reason of the amendment a fresh liability in respect of any particular is imposed on that person or an existing liability in respect of any particular is increased.
 
 ### 92 Requirements in relation to objections
 (1) Every objection shall be delivered or posted to the Commissioner within 28 days after the date on which notice of the decision or assessment objected to was given by the Commissioner.
 (2) No notice of objection that is given after that time shall be of any force or effect unless the Commissioner, in the Commissioner's discretion, accepts the same and gives notice to the objector accordingly.
 (3) Every notice of objection shall state fully and in detail the grounds of the person's objection.
+(3A)
 (4) The Commissioner shall consider every objection that is properly made under this Act, and may alter the decision or the assessment, as the case may be, pursuant thereto.
 
 ### 93 Notice of result of objection
@@ -1378,7 +1465,7 @@ The determination of an objection under this Part shall relate solely to the dec
 ### 95 Obligation to pay financial support where objection made
 (1) The obligation to pay, and the right of the Commissioner to receive and recover, any child support or domestic maintenance shall not be suspended by the making of any objection under this Part.
 (2) Subsection (1) does not apply in relation to a person if—
-  (a) the person has made an appeal under section 100 in relation to a child; and
+  (a) the person has made an appeal under section 102 in relation to a child; and
   (b) a ground of the appeal is that the person was not a parent of the child; and
   (c) there is not a final decision of a court determining that ground of the appeal.
 (3) Where an objection has been made under this Part but the objection has not been finally determined, the objector may apply to a Family Court for an order under section 117 that the liability imposed on the objector under this Act be suspended in whole or in part, pending the final determination of the objection, and the court may make such order (if any) as it thinks appropriate.
@@ -1387,18 +1474,20 @@ The determination of an objection under this Part shall relate solely to the dec
 ### 96 Objections to which this Part does not apply
 This Part shall not confer any right of objection with respect to any matter (other than those to which section 90 and section 91 apply) which by any provision in this Act is left to the discretion, judgment, opinion, approval, consent, or determination of the Commissioner.
 
-## Part 6A — Departure from formula assessment of child support initiated by liable parent or qualifying custodian
+## Part 6A — Departure from formula assessment of child support initiated by liable parent or receiving carer
 
 ### 96A Commissioner may make determination
 The Commissioner may, in accordance with this Part, make a determination having the effect that all or some of the provisions of this Act relating to formula assessment of child support will be departed from in relation to a child.
 
 ### 96B Application for determination
-(1) A qualifying custodian or a liable parent may, by written application, ask the Commissioner to make a determination under this Part.
+(1) Any liable parent or receiving carer of a qualifying child may, by written application, ask the Commissioner to make a determination under this Part.
 (2) An application may be made—
-  (a) only if a formula assessment is in force in relation to the child, the qualifying custodian, and the liable parent concerned; and
+  (a) only if a formula assessment is in force in relation to the child; and
   (b) only in relation to child support payable in the child support year commencing on 1 April 1994 or any later child support year; and
   (c) subject to section 96L.
-(3) The parties to the application are the liable parent and the qualifying custodian.
+(3) The parties to the application are—
+  (a) the applicant; and
+  (b) every other liable parent or receiving carer of the qualifying child.
 
 ### 96C Matters as to which Commissioner must be satisfied before making determination
 (1) Subject to this Part, if—the Commissioner may make the determination.
@@ -1406,11 +1495,11 @@ The Commissioner may, in accordance with this Part, make a determination having 
   (b) the Commissioner is satisfied that—
     (i) 1 or more of the grounds for departure referred to in subsection (2) exists or exist; and
     (ii) it would be—to make a particular determination under this Part,—
-      (A) just and equitable as regards the child, the qualifying custodian, and the liable parent; and
+      (A) just and equitable as regards the child and all parties to the application; and
       (B) otherwise proper,—
-(2) For the purposes of subsection (1)(b)(i),—
+(2) For the purposes of subsection (1)﻿(b)﻿(i),—
   (a) the grounds for departure are the same as the grounds for departure set out in section 105(2); and
-  (b) section 105(2)(b)(i) has effect subject to section 105(3).
+  (b) section 105(2)﻿(b)﻿(i) has effect subject to section 105(3).
 (3) Subsections (4) to (6) of section 105 apply to the Commissioner in the exercise of his or her powers under this section as if—
   (a) any reference in those subsections to the court were a reference to the Commissioner; and
   (b) any reference to an order were a reference to a determination.
@@ -1420,8 +1509,8 @@ The Commissioner may, in accordance with this Part, make a determination having 
   (a) section 98 (which sets the minimum liability in respect of child support):
   (b) section 106(2) to (4) (which relate to the orders that may be made):
   (c) section 107 (which relates to implementation of orders):
-  (d) section 119(1)(a) (which relates to the cessation of orders).
-(2) The Commissioner shall give both parties, in writing, the reasons for making the determination (including the reasons for which the Commissioner is satisfied as required by section 105(1)).
+  (d) section 119(1)﻿(a) (which relates to the cessation of orders).
+(2) The Commissioner shall give each party, in writing, the reasons for making the determination (including the reasons for which the Commissioner is satisfied as required by section 105(1)).
 (3) A contravention of subsection (2) in relation to a determination does not affect the validity of the determination.
 
 ### 96E Requirements for application
@@ -1439,28 +1528,28 @@ An application under section 96B must—
   (b) that the application seeks to reduce an assessment that has been set at the minimum liability,—
 (2) The Commissioner shall give the applicant, in writing, the reasons for refusing to make the determination.
 
-### 96H Other party to be notified
-(1) The Commissioner shall notify the other party to the application—
+### 96H Other parties to be notified
+(1) The Commissioner shall notify each other party to the application—
   (a) that an application has been made, and a summary of the grounds on which the application has been made; and
   (b) that he or she may request a copy of the application and any accompanying documentation from the Commissioner; and
   (c) that he or she may make any representation (in this Part called a reply) regarding the application that he or she considers relevant.
 (2) Any reply to an application must—
   (a) be in writing; and
   (b) be filed with the Commissioner—
-    (i) within 14 days after the date on which the copy of the application and accompanying documentation is sent to the other party; or
+    (i) within 14 days after the date on which the copy of the application and accompanying documentation is sent to the party; or
     (ii) if no request is made for a copy of the application, within 14 days after the date on which the notification is sent.
-(3) The Commissioner shall send a copy of the reply and any accompanying documentation to the applicant.
+(3) The Commissioner must send a copy of any reply and accompanying documentation to the applicant, and may send a copy of any reply and accompanying documentation to the other parties.
 (4) Nothing in this section applies where the Commissioner refuses to make a determination under section 96F or section 96G or section 96L(5).
 
 ### 96I Procedure for dealing with application
 (1) In making a decision under this Part in relation to an application, the Commissioner—
-  (a) may act on the basis of the application and the reply (if any) and any other information in the Commissioner's possession; and
+  (a) may act on the basis of the application and any reply received and any other information in the Commissioner's possession; and
   (b) may, but (subject to subsection (2)) is not required to, conduct any enquiries or investigations into the matter.
-(2) The Commissioner shall give an opportunity to the applicant and the other party to the application to appear before the Commissioner, and be heard by him or her, if they so wish.
+(2) The Commissioner shall give an opportunity to the applicant and each other party to the application to appear before the Commissioner, and be heard by him or her, if they so wish.
 (3) Nothing in subsection (2)—
-  (a) empowers the Commissioner to compel a party to an application to appear before the Commissioner in the presence of the other party; or
+  (a) empowers the Commissioner to compel a party to an application to appear before the Commissioner in the presence of any other party; or
   (b) applies where the Commissioner refuses to make a determination under section 96F or section 96G or section 96L(5).
-(4) Notwithstanding subsection (2), where the other party to the application fails to file a reply or does not file a reply within the prescribed time, the Commissioner may refuse to hear that party.
+(4) Notwithstanding subsection (2), where any other party to the application fails to file a reply or does not file a reply within the prescribed time, the Commissioner may refuse to hear that party.
 (5) Any hearing before the Commissioner, and any enquiry or investigation carried out by the Commissioner, is to be carried out as the Commissioner thinks fit and the Commissioner is not bound by any rules of evidence.
 (6) Nothing in section 125 (which relates to intervention in proceedings) shall apply to proceedings under this Part.
 
@@ -1533,14 +1622,15 @@ The Commissioner may, under this Part, make a determination expressed to be retr
 ### 96Q Commissioner may make determination under this Part
 (1) The Commissioner may, in accordance with this Part, make a determination having the effect that all or some of the provisions of this Act relating to formula assessment of child support will be departed from in relation to a child.
 (2) The parties to proceedings under this Part are—
-  (a) the liable parent; and
-  (b) the qualifying custodian if he or she elects to become a party under section 96Y.
+  (a) the parent (who may, but need not, be a liable parent) who is the subject of a review under this Part (the subject parent); and
+  (b) any receiving carer, whether a parent or non-parent, of the child who elects, under section 96Y, to become a party; and
+  (c) a liable parent who is not the subject parent, but who elects, under section 96Y, to become a party.
 
 ### 96R Matters that Commissioner must be satisfied of before making determination
 (1) Subject to this Part, the Commissioner may make a determination under this Part if the Commissioner is satisfied that,—
   (a) by virtue of special circumstances, application in relation to the child of the provisions of this Act relating to formula assessment of child support would result in an unjust and inequitable determination of the level of child support to be provided by the liable parent for the child because of the income, earning capacity, property, and financial resources of either parent or the child; and
   (b) a determination under this Part would be—
-    (i) just and equitable as regards the child, the qualifying custodian, and the liable parent; and
+    (i) just and equitable as regards the child, the receiving carer, and the liable parent; and
     (ii) otherwise proper.
 (2) Section 105(4) to (6) applies to the Commissioner in the exercise of his or her powers under this section as if—
   (a) any reference in those subsections to the court were a reference to the Commissioner; and
@@ -1552,67 +1642,67 @@ The Commissioner may, under this Part, make a determination expressed to be retr
   (a) may act on the basis of any information in the Commissioner's possession; and
   (b) may make any enquiries or investigations the Commissioner considers necessary.
 
-### 96T Notice to liable parent giving chance to respond
+### 96T Notice to subject parent giving chance to respond
 If the Commissioner is satisfied that there are reasonable grounds to believe that a determination under this Part may be appropriate, the Commissioner must—
-  (a) notify the liable parent; and
-  (b) send to the liable parent a statement of reasons as to why the Commissioner is satisfied that a determination under this Part may be appropriate; and
-  (c) notify the liable parent that he or she may make a written response.
+  (a) notify the subject parent; and
+  (b) send to the subject parent a statement of reasons as to why the Commissioner is satisfied that a determination under this Part may be appropriate; and
+  (c) notify the subject parent that he or she may make a written response.
 
-### 96U Written response by liable parent
-(1) A liable parent may respond in writing to a notification by the Commissioner under section 96T.
+### 96U Written response by subject parent
+(1) A subject parent may respond in writing to a notification by the Commissioner under section 96T.
 (2) A written response under this section must be—
   (a) made to the Commissioner in a manner specified by the Commissioner; and
-  (b) filed with the Commissioner within 28 days after the date the liable parent is sent notification under section 96T.
+  (b) filed with the Commissioner within 28 days after the date the subject parent is sent notification under section 96T.
 
 ### 96V Decision by Commissioner to start proceedings under this Part
-As soon as practicable after the expiry of the period referred to in section 96U(2)(b), the Commissioner must—
-  (a) consider any written response filed by the liable parent; and
+As soon as practicable after the expiry of the period referred to in section 96U(2)﻿(b), the Commissioner must—
+  (a) consider any written response filed by the subject parent; and
   (b) decide whether to start proceedings under this Part.
 
-### 96W Commissioner to notify liable parent
-(1) The Commissioner must notify the liable parent, in writing, as to whether the Commissioner has decided to start proceedings under this Part.
+### 96W Commissioner to notify subject parent
+(1) The Commissioner must notify the subject parent, in writing, as to whether the Commissioner has decided to start proceedings under this Part.
 (2) If the Commissioner decides to start proceedings under this Part, the Commissioner must also—
-  (a) notify the liable parent of the rights of the liable parent and of the qualifying custodian (if the qualifying custodian elects to become a party under section 96Y) to make written representations and receive information in accordance with section 96Z; and
-  (b) provide the liable parent with a summary of the information on which the Commissioner has based his or her decision.
+  (a) notify the subject parent with the rights of the subject parent and of any receiving carer or liable parent who elects to become a party under section 96Y to make written representations and receive information in accordance with section 96Z; and
+  (b) provide the subject parent with a summary of the information on which the Commissioner has based his or her decision.
 
-### 96X Commissioner to notify qualifying custodian
-If the Commissioner decides to start proceedings under this Part, the Commissioner must notify the qualifying custodian, in writing, of—
+### 96X Commissioner to notify receiving carers and liable parent who is not subject parent
+If the Commissioner decides to start proceedings under this Part, the Commissioner must notify the receiving carers and any liable parent who is not the subject parent, in writing, of—
   (a) the Commissioner's decision; and
-  (b) the qualifying custodian's rights of election under section 96Y; and
-  (c) the rights of the liable parent and of the qualifying custodian (if the qualifying custodian elects to become a party under section 96Y) to make written representations and receive information in accordance with section 96Z.
+  (b) the receiving carer's or liable parent's rights of election under section 96Y; and
+  (c) the rights of the subject parent and of any receiving carer or liable parent who elects to become a party under section 96Y to make written representations and receive information in accordance with section 96Z.
 
-### 96Y Election by qualifying custodian to become party or discontinue proceedings
-(1) The qualifying custodian may elect to become a party to proceedings before the Commissioner under this Part.
-(2) The qualifying custodian may,—
-  (a) if he or she is not in receipt of a social security benefit, elect that the Commissioner discontinue proceedings under this Part in relation to formula assessment of child support that will become payable; and
-  (b) if he or she was not in receipt of a social security benefit when child support was payable in relation to a particular period under a formula assessment, elect that the Commissioner discontinue proceedings under this Part in relation to formula assessment of child support payable in relation to that period.
-(3) If a qualifying custodian makes an election under subsection (1) or (2), the election must be—
+### 96Y Election by receiving carer or by liable parent who is not subject parent to become party or discontinue proceedings
+(1) Any receiving carer, or any liable parent who is not the subject parent, may elect to become a party to proceedings before the Commissioner under this Part.
+(2) A receiving carer, or a liable parent who is not a subject parent, may elect to discontinue proceedings in relation to a formula assessment of child support that was or will become payable, except that—
+  (a) a receiving carer who was a social security beneficiary during a particular period may not elect to discontinue proceedings in respect of child support that was payable during that period; and
+  (b) a receiving carer who is a social security beneficiary may not elect to discontinue proceedings in respect of child support that will become payable.
+(3) If a receiving carer or liable parent makes an election under subsection (1) or (2), the election must be—
   (a) in writing; and
-  (b) filed with the Commissioner within 14 days after the date on which the Commissioner sends notification to the qualifying custodian under section 96X.
-(4) The Commissioner must inform the liable parent of any election made by the qualifying custodian under this section as soon as practicable after it is filed with the Commissioner.
-(5) A qualifying custodian may become a party to proceedings under this Part only in accordance with this section.
-(6) If a qualifying custodian makes an election under subsection (2) to discontinue proceedings in relation to formula assessment of child support that was or will become payable, the Commissioner must discontinue the proceedings that relate to formula assessment of that child support in accordance with the election.
+  (b) filed with the Commissioner within 14 days after the date on which the Commissioner sends notification to the receiving carer or liable parent under section 96X.
+(4) The Commissioner must inform the subject parent of any election made by a receiving carer or by a liable parent who is not the subject parent under this section as soon as practicable after it is filed with the Commissioner.
+(5) A receiving carer or liable parent who is not the subject parent may become a party to proceedings under this Part only in accordance with this section.
+(6) If a receiving carer or liable parent who is not the subject parent makes an election under subsection (2) to discontinue proceedings in relation to formula assessment of child support that was or will become payable, the Commissioner must discontinue the proceedings that relate to formula assessment of that child support in accordance with the election.
 
-### 96Z Written representations by liable parent or qualifying custodian
-(1) A liable parent, and a qualifying custodian who elects to become a party under section 96Y, may each make written representations as to whether the grounds for a determination under this Part exist.
-(2) Any written representations made by a liable parent or qualifying custodian in proceedings under this Part must be—
+### 96Z Written representations by parties
+(1) Any party may make written representations as to whether the grounds for a determination under this Part exist.
+(2) Any written representations made by a party in proceedings under this Part must be—
   (a) made to the Commissioner in a manner specified by the Commissioner; and
   (b) filed with the Commissioner,—
-    (i) in the case of a liable parent, within 14 days after the date on which the liable parent is sent notification under section 96W; and
-    (ii) in the case of a qualifying custodian, within 14 days after the date on which the qualifying custodian is sent notification under section 96X.
-(3) A liable parent is entitled to receive a copy of any written representations (and any accompanying documentation) that the qualifying custodian provides to the Commissioner under this section.
-(4) A qualifying custodian who elects to become a party in accordance with section 96Y is entitled to receive a copy of any written representations (and any accompanying documentation) that the liable parent provides to the Commissioner under this section if those representations are provided to the Commissioner after the liable parent is sent notification under section 96W.
-(5) For the purposes of this Part, a qualifying custodian is not entitled to any information relating to the liable parent that is in the Commissioner's possession other than information that came into the Commissioner's possession in the course of proceedings under this Part after those proceedings are started under section 96V.
+    (i) in the case of a subject parent, within 14 days after the date on which the subject parent is sent notification under section 96W; and
+    (ii) in the case of a receiving carer or a liable parent who is not the subject parent, within 14 days after the date on which the receiving carer or a liable parent who is not the subject parent is sent notification under section 96X.
+(3) A subject parent is entitled to receive a copy of any written representations (and any accompanying documentation) that the receiving carer or liable parent who is not the subject parent provides to the Commissioner under this section.
+(4) A receiving carer or liable parent who is not the subject parent who elects to become a party in accordance with section 96Y is entitled to receive a copy of any written representations (and any accompanying documentation) that the subject parent provides to the Commissioner under this section if those representations are provided to the Commissioner after the subject parent is sent notification under section 96W.
+(5) For the purposes of this Part, a receiving carer or liable parent who is not the subject parent is not entitled to any information relating to the subject parent that is in the Commissioner's possession other than information that came into the Commissioner's possession in the course of proceedings under this Part after those proceedings are started under section 96V.
 
 ### 96ZA Procedure for making determination
 (1) In making a determination under this Part, the Commissioner—
   (a) may act on the basis of any information in the Commissioner's possession; and
   (b) may, but (subject to subsection (2)) is not required to, conduct any enquiries or investigations into the matter.
-(2) The Commissioner must give an opportunity to the liable parent and to the qualifying custodian (if that person is a party to the proceedings) to appear before the Commissioner and be heard by him or her, if they so wish.
+(2) The Commissioner must give an opportunity to each party to appear before the Commissioner and be heard by him or her, if they so wish.
 (3) Nothing in subsection (2)—
   (a) empowers the Commissioner to compel a party to appear before the Commissioner in the presence of the other party; or
   (b) applies if the Commissioner refuses to make a determination under section 96ZC.
-(4) Despite subsection (2), if a qualifying custodian who elects to become a party in accordance with section 96Y fails to file any written representations within the prescribed time, the Commissioner may refuse to hear that person.
+(4) Despite subsection (2), if a receiving carer or liable parent who is not the subject parent who elects to become a party in accordance with section 96Y fails to file any written representations within the prescribed time, the Commissioner may refuse to hear that person.
 (5) Any hearing before the Commissioner, and any enquiry or investigation carried out by the Commissioner, must be carried out as the Commissioner thinks fit and the Commissioner is not bound by any rules of evidence.
 (6) Nothing in section 125 (which relates to intervention in proceedings) applies to proceedings under this Part.
 
@@ -1621,16 +1711,16 @@ If the Commissioner decides to start proceedings under this Part, the Commission
   (a) section 98 (which sets the minimum liability in respect of child support):
   (b) section 106(2) to (4) (which relates to the orders that may be made):
   (c) section 107 (which relates to implementation of orders):
-  (d) section 119(1)(a) (which relates to cessation of orders).
-(2) The Commissioner must, in writing, give reasons for making the determination (including the reasons why the Commissioner is satisfied, in accordance with section 96R, that a determination should be made) to—
-  (a) the liable parent; and
-  (b) the qualifying custodian if the qualifying custodian has elected to become a party in accordance with section 96Y.
+  (d) section 119(1)﻿(a) (which relates to cessation of orders).
+(2) The Commissioner must, in writing, give reasons for making the determination (including the reasons why the Commissioner is satisfied, in accordance with section 96R, that a determination should be made) to each party to the proceedings.
+  (a)
+  (b)
 (3) A contravention of subsection (2) in relation to a determination does not affect the validity of the determination.
 
 ### 96ZC Commissioner may refuse to make determination because issues too complex
 (1) If the Commissioner is satisfied, at any time after starting proceedings under this Part, that the matters in issue are too complex to be dealt with under this Part, the Commissioner may refuse to make the determination without taking any further action under this Part.
-(2) The Commissioner must give the qualifying custodian and the liable parent the reasons, in writing, for refusing to make the determination.
-(3) The Commissioner may recommend that the qualifying custodian make an application to the court for an order under section 104.
+(2) The Commissioner must give each parent and receiving carer affected by the proceedings the reasons, in writing, for refusing to make the determination.
+(3) The Commissioner may recommend that the receiving carer or the liable parent make an application to the court for an order under section 104.
 
 ### 96ZD Effect of pending proceedings under this Part
 The fact that the Commissioner has started proceedings under this Part does not suspend, interfere with, or affect—
@@ -1670,70 +1760,51 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 
 ### 98 Minimum liability in respect of child support
 (1) An order made under this Part as to the annual rate of child support must not operate in a child support year so as to reduce that rate below,—
-  (a) for an appeal on, or other order relating to, a formula assessment or an order under section 109, the minimum annual rate for that year under section 72(1)(a); and
+  (a) for an appeal on, or other order relating to, a formula assessment or an order under section 109, the minimum annual rate for that year under section 72(1)﻿(a); and
   (b) for all other orders, $520.
-(2) Where—the annual rate of child support payable in the child support year for each custodian is the minimum annual rate for that year under section 72(1)(a) multiplied by a factor calculated using the following formula:where—
-  (a) an order would, but for this section, operate in a child support year so as to reduce the annual rate of child support payable under a formula assessment below the minimum annual rate for that year under section 72(1)(a); and
-  (b) the child support payable under the formula assessment is payable in relation to more than 1 eligible custodian,—
-  (a) is the annual rate of child support that would, but for subsection (1), be payable in relation to the eligible custodian by the liable parent; and
-  (b) is the annual rate of child support that would, but for subsection (1), be payable in relation to all of the eligible custodians under the formula assessment by the liable parent.
-(3) Subsection (2) applies notwithstanding—
+(2) Subsection (2A) applies when—
+  (a) an order would, but for this section, operate in a child support year so as to reduce the annual rate of child support payable under a formula assessment below the minimum annual rate for that year under section 72(1)﻿(a); and
+  (b) the child support payable is payable under the formula assessment in respect of more than 1 receiving carer.
+(2A) When this subsection applies, the annual rate of child support payable in the child support year to each receiving carer is the minimum annual rate under section 72(1)﻿(a) divided between the receiving carers on the basis of the number of qualifying children of the liable parent that each receiving carer provides care for.
+(3) Subsection (2A) applies notwithstanding—
   (a) that the annual rate of child support payable in respect of a child to whom the order relates is greater than the rate provided for by the order:
   (b) that the annual rate of child support payable in respect of a child to whom the order does not relate is greater than the rate which would have been payable if the order had not been made.
 
 ### 99 Declarations in respect of step-parents
-(1) Any person who is an eligible custodian of a child may apply to a Family Court for a declaration that a specified person is a step-parent of the child.
+(1) A parent or receiving carer of a child may apply to a Family Court for a declaration that a specified person is a step-parent of the child.
 (2) Any person who wishes to be declared to be a step-parent of a child for the purposes of this Act may apply to a Family Court for a declaration to that effect.
-(3) Subject to section 125, the parties to the proceeding are the custodian of the child in respect of whom the declaration is sought and the person whom the application seeks to be declared to be a step-parent of the child.
+(3) Subject to section 125, the parties to the proceeding are the applicant for the declaration under this section and the person whom the application seeks to be declared to be a step-parent of the child.
 (4) In determining whether to grant a declaration that a person is a step-parent of a child, the court shall have regard to the following circumstances:
   (a) the extent (if at all) to which that person has assumed responsibility for the maintenance of the child, and the basis on which that person assumed that responsibility, and the length of time during which that person has discharged that responsibility; and
   (b) whether that person assumed or discharged any responsibility for maintenance of the child knowing that that person was not the natural parent of the child; and
   (c) the liability of any other person to maintain the child; and
   (d) whether or not that person was ever living with a parent of the child in a marriage, civil union or de facto relationship; and
   (e) whether that person has at any time been a guardian of the child.
-(5) For the purposes of subsection (4)(a), a person shall not be taken to have assumed responsibility for the maintenance of a child by reason only of meeting the child maintenance liabilities of another person who is wholly or partially maintained by him or her.
+(5) For the purposes of subsection (4)﻿(a), a person shall not be taken to have assumed responsibility for the maintenance of a child by reason only of meeting the child maintenance liabilities of another person who is wholly or partially maintained by him or her.
 (6) When a Family Court makes a declaration under this section, the Commissioner shall, as soon as is practicable, take such action (if any) as is necessary to give effect to the decision.
 
 **Appeals from decisions of Commissioner in respect of objections under Part 6**
 
 ### 100 Appeal by person from whom formula assessment of child support sought
-(1) Where—the objector may appeal to a Family Court against that decision.
-  (a) any person objects to the Commissioner's decision under section 17(1) to accept an application for formula assessment of child support; and
-  (b) the Commissioner disallows the objection,—
-(2) The appeal must be lodged within 2 months after the date upon which notice of disallowance of the objection is given to the objector by or on behalf of the Commissioner.
-(3) Subject to section 125, the parties to the appeal are the objector and the Commissioner.
-(4) If the court hearing such an appeal is satisfied that, at the time the application was received,—the court shall uphold the appeal.
-  (a) the application was not made in respect of a qualifying child; or
-  (b) the application was not made by an eligible applicant; or
-  (c) the application required the payment of child support by a person who was not liable to pay child support under this Act in respect of that child,—
-(5) If the court upholds the appeal, the Commissioner is deemed not to have accepted the application for formula assessment of child support in respect of the child and shall, as soon as is practicable, take such action as is necessary to give effect to the decision.
+[Repealed]
 
 ### 101 Appeal by unsuccessful applicant for formula assessment
-(1) Where—the objector may appeal to a Family Court against that decision.
-  (a) any person objects to the Commissioner's decision under section 17(2) to refuse to accept an application for formula assessment of child support; and
-  (b) the Commissioner disallows the objection,—
-(2) The appeal must be lodged within 2 months after the date upon which notice of disallowance of the objection is given to the objector by or on behalf of the Commissioner.
-(3) Subject to section 125, the parties to the appeal are the objector and the Commissioner.
-(4) If the court hearing such an appeal is satisfied that, at the time that the application was made,—the court shall uphold the appeal.
-  (a) the application was made in respect of a qualifying child; and
-  (b) the application was made by an eligible applicant; and
-  (c) the application required the payment of child support by a person who was liable to pay child support under this Act in respect of that child,—
-(5) If the court upholds the appeal, the Commissioner is deemed to have accepted the application for formula assessment of child support in respect of the child and shall, as soon as is practicable, take such action as is necessary to give effect to the decision.
+[Repealed]
 
-### 102 Appeals against other administrative decisions of Commissioner
-(1) Where the Commissioner disallows an objection made under section 90 (other than an objection to which section 100 or section 101 applies), the objector may appeal to a Family Court against that decision.
+### 102 Appeals against decisions of Commissioner
+(1) Where the Commissioner disallows an objection made under section 90, the objector may appeal to a Family Court against that decision.
 (2) The appeal must be lodged within 2 months after the date upon which notice of disallowance of the objection is given to the objector by or on behalf of the Commissioner.
 (3) Subject to section 125, the parties to any appeal against a decision of the Commissioner under Part 3 to accept, or to refuse to accept, a voluntary agreement are the objector and the Commissioner.
 (4) A court hearing such an appeal may make such order as it considers appropriate in relation to the decision to which the appeal relates, including an order confirming or varying the decision.
 (5) When an order is made by a court under this section, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the decision (whether by amending any assessment or otherwise).
 
 ### 103 Appeals against assessments
-(1) Where the Commissioner disallows in whole or in part an objection made under section 91 to an assessment, any person who is a liable person in respect of that assessment may appeal to a Family Court against the assessment.
+(1) Where the Commissioner disallows in whole or in part an objection made under section 91 to an assessment, any person affected by the assessment may appeal to a Family Court against the assessment.
 (2) The appeal must be lodged within 2 months after the date upon which notice of disallowance of the objection is given to the objector by or on behalf of the Commissioner.
-(3) The parties to the appeal are the liable person in relation to whom the assessment was made and the Commissioner.
+(3) The parties to the appeal are the person or persons affected by the assessment and the Commissioner.
 (4) A Family Court hearing an appeal under this section shall make such order correcting the assessment to which the appeal relates as the circumstances require.
 (5) When a Family Court makes an order under this section, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the decision (whether by amending the assessment or otherwise).
-(6) In subsequently making any assessment in relation to the liable person concerned, the Commissioner shall act on the basis of the decision of the court to the extent to which it is applicable.
+(6) In subsequently making any assessment in relation to the persons concerned, the Commissioner shall act on the basis of the decision of the court to the extent to which it is applicable.
 
 **Appeals in relation to determinations**
 
@@ -1751,24 +1822,24 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 (4) An appeal under this section is by way of rehearing.
 
 ### 103B Appeal by respondent from determination under Part 6A
-(1) A qualifying custodian may appeal to a Family Court against a determination made by the Commissioner under Part 6A if the qualifying custodian is not the person who made the application for the determination under section 96B.
+(1) A receiving carer may appeal to a Family Court against a determination made by the Commissioner under Part 6A if the receiving carer is not the person who made the application for the determination under section 96B.
 (2) A liable parent may appeal to a Family Court against a determination made by the Commissioner under Part 6A if the liable parent is not the person who made the application for the determination under section 96B.
 (3) An appeal under this section must be lodged within—
   (a) 2 months after the date on which the determination is made; or
   (b) any further time that a Family Court may allow on application made before or after the expiration of that period.
 (4) The parties to an appeal are, subject to section 125,—
   (a) the appellant; and
-  (b) the other party to the proceedings under Part 6A.
+  (b) any other party to the proceedings under Part 6A.
 (5) An appeal under this section is by way of rehearing.
 
 ### 103C Appeal from determination under Part 6B
-(1) A qualifying custodian or a liable parent may appeal to a Family Court against a determination made by the Commissioner under Part 6B.
+(1) Any party referred to in section 96Q(2) may appeal to a Family Court against a determination made by the Commissioner under Part 6B.
 (2) An appeal under this section must be lodged within—
   (a) 2 months after the date on which the determination is made; or
   (b) any further time that a Family Court may allow on application made before or after the expiration of that period.
 (3) The parties to an appeal are—
   (a) the appellant; and
-  (b) the other party (if any) to the proceedings before the Commissioner resulting in the determination; and
+  (b) any other party to the proceedings before the Commissioner resulting in the determination; and
   (c) the Commissioner.
 (4) An appeal under this section is by way of rehearing.
 
@@ -1786,26 +1857,26 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 
 ### 103E Implementation of orders
 (1) When a decision of a Family Court making an order in determination of an appeal under section 103D becomes final, the Commissioner must, as soon as practicable, take the action necessary to give effect to the decision in relation to any—
-  (a) formula assessment that has been made in relation to the child, the qualifying custodian, and the liable parent concerned (whether by amending the assessment or otherwise); or
+  (a) formula assessment that has been made in relation to the child, the receiving carer, and the liable parent concerned (whether by amending the assessment or otherwise); or
   (b) exemption granted under this Act in relation to the payee and the liable person concerned (whether by amending an assessment or otherwise).
 (2) Subject to subsection (3), in subsequently making an assessment in relation to the child, the payee, and the liable person concerned while the order is in force, the Commissioner must act on the basis of the provisions of this Act as modified by the order.
 (3) Despite subsection (2), if the Commissioner becomes aware of a change in circumstances which, had that change occurred before the making of that order, could reasonably be expected to have resulted in the order being different from that which was made, the Commissioner may—
-  (a) amend an existing formula assessment in relation to the child, the qualifying custodian, and the liable parent concerned to reflect that change in any manner that the Commissioner considers appropriate; or
-  (b) in subsequently making a formula assessment in relation to the child, the qualifying custodian, and the liable parent concerned while the order is in force, act on the basis of the provisions of this Act as modified to reflect the tenor of the order and the change in circumstances that has occurred since the order was made.
+  (a) amend an existing formula assessment in relation to the child, the receiving carer, and the liable parent concerned to reflect that change in any manner that the Commissioner considers appropriate; or
+  (b) in subsequently making a formula assessment in relation to the child, the receiving carer, and the liable parent concerned while the order is in force, act on the basis of the provisions of this Act as modified to reflect the tenor of the order and the change in circumstances that has occurred since the order was made.
 
 **Orders for departure from formula assessment in special circumstances**
 
 ### 104 Application for departure from formula assessment in special circumstances
-(1) A qualifying custodian or a liable parent may apply to a Family Court for an order that all or some of the provisions of this Act relating to the formula assessment of child support be departed from in relation to a child.
+(1) A receiving carer or a liable parent may apply to a Family Court for an order that all or some of the provisions of this Act relating to the formula assessment of child support be departed from in relation to a child.
 (2) An application may be made only if—
-  (a) a formula assessment is in force in relation to the child, the qualifying custodian, and the liable parent concerned; and
+  (a) a formula assessment is in force in relation to the child, the receiving carer, and the liable parent concerned; and
   (b) either—
     (i) the Commissioner has made a determination under Part 6A in relation to the matter and the person who applies under this section is the person who applied for that determination; or
     (ii) the Commissioner has refused to make a determination under Part 6A in relation to the matter; or
     (iia) the Commissioner has refused to make a determination under Part 6B in relation to the matter after having commenced proceedings under that Part; or
-    (iii) the qualifying custodian or the liable parent are parties to another application pending in a Family Court and the court is satisfied that it would be appropriate for the court to consider an application made under this section at the same time as it hears the other application; or
+    (iii) the receiving carer or the liable parent are parties to another application pending in a Family Court and the court is satisfied that it would be appropriate for the court to consider an application made under this section at the same time as it hears the other application; or
     (iv) the application relates, wholly or in part, to child support payable in the child support year ending on 31 March 1994 or any earlier child support year.
-(3) Subject to section 125, the parties to the application are the liable parent and the qualifying custodian.
+(3) Subject to section 125, the parties to the application are the liable parent and the receiving carer.
 (4) Subject to section 117, the fact that an application is made by any person under this section does not suspend, interfere with, or affect—
   (a) any formula assessment made in relation to the person; or
   (b) the obligation to pay child support; or
@@ -1815,9 +1886,9 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 (1) Where an application is made to a Family Court under section 104 for an order in relation to a child and the court is satisfied that—the court may make the order.
   (a) 1 or more of the grounds for departure mentioned in subsection (2) exists or exist; and
   (b) it would be—to make a particular order of the type specified in section 106,—
-    (i) just and equitable as regards the child, the qualifying custodian, and the liable parent; and
+    (i) just and equitable as regards the child, the receiving carer, and the liable parent; and
     (ii) otherwise proper,—
-(2) For the purposes of subsection (1)(a), the grounds for departure are as follows:
+(2) For the purposes of subsection (1)﻿(a), the grounds for departure are as follows:
   (a) that, by virtue of special circumstances, the capacity of either parent to provide financial support for the child is significantly reduced because of—
     (i) the duty of the parent to maintain any other child or another person; or
     (ii) special needs of any other child or another person that the parent has a duty to maintain; or
@@ -1825,15 +1896,15 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
       (A) himself or herself; or
       (B) any other child or another person whom the parent has a duty to maintain; or
   (b) that, in the special circumstances of the case, the costs of maintaining the child are significantly affected because—
-    (i) of high costs incurred by a liable parent or a qualifying custodian in enabling that liable parent access to the child; or
+    (i) of high costs incurred by a parent or a receiving carer in enabling a parent or receiving carer to have contact with the child; or
     (ii) of special needs of the child; or
     (iii) the child is being cared for, educated, or trained in the manner that was expected by either of his or her parents; or
   (c) that, by virtue of special circumstances, application in relation to the child of the provisions of this Act relating to formula assessment of child support would result in an unjust and inequitable determination of the level of financial support to be provided by the liable parent for the child because of—
     (i) the income, earning capacity, property, and financial resources of either parent or the child; or
-    (ii) any payments, and any transfer or settlement of property, previously made (whether under this Act, the Property (Relationships) Act 1976 or otherwise) by the liable parent to the child, to the qualifying custodian, or to any other person for the benefit of the child; or
-    (iii) an entitlement of the custodian to the continued occupancy of a property in which the liable parent has a financial interest.
-(3) For the purposes of subsection (2)(b)(i), costs incurred in enabling a liable parent access to the child are not to be taken to be high unless the total of those costs during a child support year is more than 5% of the child support income amount for the year in relation to the person concerned.
-(4) In determining whether it would be just and equitable as regards the child, the qualifying custodian, and the liable parent to make a particular order of the type specified in section 106, the court shall have regard to—
+    (ii) any payments, and any transfer or settlement of property, previously made (whether under this Act, the Property (Relationships) Act 1976 or otherwise) by the liable parent or a receiving carer to the child, to a liable parent or a receiving carer, or to any other person for the benefit of the child; or
+    (iii) an entitlement of the liable parent or receiving carer to the continued occupancy of a property in which the liable parent or receiving carer has a financial interest.
+(3) For the purposes of subsection (2)﻿(b)﻿(i), costs incurred in enabling a parent or receiving carer to have contact with the child are not to be taken to be high unless the total of those costs during a child support year is more than 5% of the adjusted taxable income for the year of the person incurring the costs.
+(4) In determining whether it would be just and equitable as regards the child, a receiving carer, and the liable parent to make a particular order of the type specified in section 106, the court shall have regard to—
   (a) the objects of this Act, and, in particular, the nature of the duty of a parent to maintain a child and the fact that it is the parents of a child themselves who have the primary duty to maintain the child; and
   (b) the proper needs of the child, having regard to—
     (i) the manner in which the child is being, and in which the parents expect the child to be, cared for, educated, or trained; and
@@ -1843,9 +1914,9 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
   (e) the commitments of each parent who is a party to the proceeding that are necessary to enable the parent to support—
     (i) himself or herself; or
     (ii) any other child or another person that the parent has a duty to maintain; and
-  (f) the direct and indirect costs incurred by the qualifying custodian in providing care for the child, including the income and earning capacity foregone by the qualifying custodian in providing that care; and
+  (f) the direct and indirect costs incurred by the receiving carer in providing care for the child, including the income and earning capacity foregone by the receiving carer in providing that care; and
   (g) any hardship that would be caused to—
-    (i) the child or the qualifying custodian by the making of, or the refusal to make, the order; or
+    (i) the child or the receiving carer by the making of, or the refusal to make, the order; or
     (ii) the liable parent, or any other child or another person that the liable parent has a duty to support, by the making of, or the refusal to make, the order.
 (5) In having regard to the income, earning capacity, property, and financial resources of the child or a parent of the child, the court must—
   (a) have regard to the capacity of the child or parent to earn or derive income, including having regard to any assets of, under the control of, or held for the benefit of, the child or parent that do not produce, but are capable of producing, income; and
@@ -1853,47 +1924,54 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 (6) The court may have regard to other matters beyond those specified in subsections (4) and (5).
 
 ### 106 Orders that may be made
-(1) In determining an application made under section 104, a court may make either one, or both, of the following orders:
-  (a) an order varying the child support percentage, child support income amount, or living allowance of the liable parent; or
-  (b) an order directing that the child support income amount of a liable parent in respect of any relevant child support year shall, notwithstanding paragraph (b) of the definition of child support income amount, be defined as being equal to the taxable income of the liable parent for the year that, in relation to that child support year and to that liable parent, is the last relevant tax year; or
-  (c) an order that the provisions of this Act relating to formula assessment of child support should not be departed from in relation to the child.
+(1) In determining an application made under section 104, a court may make any of the following orders:
+  (a) an order departing from some or all of the provisions of this Act by substituting a different amount for any of the following amounts as they relate to a formula assessment, or prescribing an amount or a percentage by which any of those amounts must be varied:
+    (i) a person's adjusted taxable income:
+    (ii) a person's living allowance:
+    (iii) a person's dependent child allowance:
+    (iv) a person's child support income amount:
+    (v) the child expenditure amount applying in respect of a qualifying child:
+  (b) an order departing from some or all of the provisions of this Act relating to the formula assessment of child support in relation to the child and, as a result,—
+    (i) substituting a different annual amount of child support payable by a liable parent in place of the amount determined under a formula assessment; or
+    (ii) prescribing an amount or a percentage by which the annual amount of child support payable by a liable parent must vary from the amount determined under a formula assessment:
+  (c) an order that the provisions of this Act relating to a formula assessment of child support must not be departed from in relation to a particular child.
 (2) An order under this section may make different provision in relation to different child support years and in relation to different parts of a child support year.
 (3) Subject to section 98(2), an order made under this section shall not operate so as to increase or reduce the amount of child support payable in relation to any child to whom the order does not apply, and the child support payable in relation to any such other child shall be calculated as if the order had not been made.
 (4) Every order made under this section shall specify the period of time in which the order is to apply or specify the event the occurrence of which will cause the order to terminate.
 
 ### 107 Implementation of orders
-(1) When a decision of a court making an order in determination of an application under section 104 becomes final, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the decision in relation to any formula assessment that has been made in relation to the child, the qualifying custodian, and the liable parent concerned (whether by amending the assessment or otherwise).
-(2) Subject to subsection (3), in subsequently making a formula assessment in relation to the child, the qualifying custodian, and the liable parent concerned while the order is in force, the Commissioner shall act on the basis of the provisions of this Act as modified by the order.
+(1) When a decision of a court making an order in determination of an application under section 104 becomes final, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the decision in relation to any formula assessment that has been made in relation to the child, the receiving carer, and the liable parent concerned (whether by amending the assessment or otherwise).
+(2) Subject to subsection (3), in subsequently making a formula assessment in relation to the child, the receiving carer, and the liable parent concerned while the order is in force, the Commissioner shall act on the basis of the provisions of this Act as modified by the order.
 (3) Notwithstanding subsection (2), where the Commissioner becomes aware of a change in circumstances which, had that change occurred prior to the making of that order, could reasonably be expected to have resulted in the order being different from that which was made, the Commissioner may—
-  (a) amend an existing formula assessment in relation to the child, the qualifying custodian, and the liable parent concerned to reflect that change in such manner as the Commissioner considers appropriate; or
-  (b) in subsequently making a formula assessment in relation to the child, the qualifying custodian, and the liable parent concerned while the order is in force, act on the basis of the provisions of this Act as modified to reflect the tenor of the order and the change in circumstances that has occurred since the order was made.
+  (a) amend an existing formula assessment in relation to the child, the receiving carer, and the liable parent concerned to reflect that change in such manner as the Commissioner considers appropriate; or
+  (b) in subsequently making a formula assessment in relation to the child, the receiving carer, and the liable parent concerned while the order is in force, act on the basis of the provisions of this Act as modified to reflect the tenor of the order and the change in circumstances that has occurred since the order was made.
 
 **Orders for provision of child support in form of lump sum**
 
 ### 108 Application for order for provision of child support in form of lump sum
-(1) Where a qualifying custodian wants a liable parent to provide, or a liable parent wants to provide, child support for a child otherwise than in the form of periodic amounts paid to the qualifying custodian, the qualifying custodian or the liable parent may apply to a Family Court for an order that the liable parent provide child support for the child otherwise than in the form of periodic amounts paid to the qualifying custodian.
+(1) Where a receiving carer wants a liable parent to provide, or a liable parent wants to provide, child support for a child otherwise than in the form of periodic amounts paid to the receiving carer, the receiving carer or the liable parent may apply to a Family Court for an order that the liable parent provide child support for the child otherwise than in the form of periodic amounts paid to the receiving carer.
 (2) An application—
-  (a) may be made only if a formula assessment is in force in relation to the child, the qualifying custodian, and the liable parent; and
-  (b) may be made by the qualifying custodian or the liable parent.
+  (a) may be made only if a formula assessment is in force in relation to the child, the receiving carer, and the liable parent; and
+  (b) may be made by the receiving carer or the liable parent.
 (3) A Family Court may not hear the application until the following applications, proceedings, or appeals that are still pending have been heard and determined:
   (a) an application to the Commissioner under subpart 3 of Part 5A:
   (b) an application to the Commissioner under section 96B:
   (c) proceedings started by the Commissioner under section 96V:
   (d) an application to the court under section 104:
   (e) an appeal under any of sections 103A to 103C.
-(4) Subject to section 125, the parties to the application are the qualifying custodian and the liable parent.
+(4) Subject to section 125, the parties to the application are the receiving carer and the liable parent.
 
 ### 109 Orders for provision of child support in form of lump sum
-(1) Where a qualifying custodian or a liable parent makes an application to a Family Court under section 108 and the court is satisfied that it would be—to make an order that the liable parent pay a lump sum towards the support of the child, the court may make the order.
-  (a) just and equitable as regards the child, the qualifying custodian, and the liable parent; and
+(1) Where a receiving carer or a liable parent makes an application to a Family Court under section 108 and the court is satisfied that it would be—to make an order that the liable parent pay a lump sum towards the support of the child, the court may make the order.
+  (a) just and equitable as regards the child, the receiving carer, and the liable parent; and
   (b) otherwise proper,—
 (2) The Family Court may make either one, or both, of the following orders under this section:
   (a) an order directing the respondent to pay such lump sum towards the future support of the child as the court thinks fit:
   (b) an order directing the respondent to pay such lump sum towards the past support of the child as the court thinks fit.
 (3) In determining the application, the court must have regard to—
-  (a) the formula assessment in force in relation to the child, the qualifying custodian, and the liable parent; and
-  (aa) any determination in force under Part 5A, or 6A, or 6B in relation to the child, the qualifying custodian, and the liable parent; and
-  (b) any order in force under section 106 in relation to the child, the qualifying custodian, and the liable parent; and
+  (a) the formula assessment in force in relation to the child, the receiving carer, and the liable parent; and
+  (aa) any determination in force under Part 5A, or 6A, or 6B in relation to the child, the receiving carer, and the liable parent; and
+  (b) any order in force under section 106 in relation to the child, the receiving carer, and the liable parent; and
   (c) the matters mentioned in section 105(4) and (5); and
   (d) the relationship between any lump sum order and any liability to pay child support under a formula assessment, as determined in accordance with section 110.
 (4) The court may have regard to other matters beyond those specified in subsection (3).
@@ -1901,42 +1979,42 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 
 ### 110 Relationship between lump sum orders and assessed child support
 (1) Where—the court shall provide that the liable parent's liability to provide child support under the lump sum order shall be credited against his or her liability to pay child support under the formula assessment for any period to which the lump sum order relates unless the court is satisfied that, in the special circumstances of the case, it would be—that the child support should not be so credited.
-  (a) a liable parent is liable to provide child support to a qualifying custodian in respect of a child under a lump sum order made under section 109; and
-  (b) the liable parent is also liable to pay child support to that custodian in respect of that child under a formula assessment,—
-  (c) just and equitable as regards the child, the liable parent, and the custodian; and
+  (a) a liable parent is liable to provide child support to a receiving carer in respect of a child under a lump sum order made under section 109; and
+  (b) the liable parent is also liable to pay child support to that receiving carer in respect of that child under a formula assessment,—
+  (c) just and equitable as regards the child, the liable parent, and the receiving carer; and
   (d) otherwise proper,—
 (2) The court shall state in the lump sum order whether or not any such credit has been given.
 (3) If the court states in the order that the child support is to be credited against the liable parent's liability under any relevant formula assessment, the court must also state in the order either—
-  (a) that the child support has an annual value of a specified amount and that the annual rate of the child support payable under any relevant formula assessment is to be reduced by that amount (but not in a child support year below the minimum annual rate for that year under section 72(1)(a)); or
+  (a) that the child support has an annual value of a specified amount and that the annual rate of the child support payable under any relevant formula assessment is to be reduced by that amount (but not in a child support year below the minimum annual rate for that year under section 72(1)﻿(a)); or
   (b) that the child support is to count for a specified percentage of the annual rate of child support payable under any relevant formula assessment.
 (4) The court may, under subsections (1) and (3), make different provision in relation to different child support years and in relation to different parts of a child support year.
-(5) In making a determination under subsection (1)(d), the court must have regard to the matters mentioned in section 105(4) and (5).
+(5) In making a determination under subsection (1)﻿(d), the court must have regard to the matters mentioned in section 105(4) and (5).
 (6) The court may have regard to other matters beyond those specified in subsection (5).
 (7) Subject to section 98(2), an order made under this section shall not operate so as to increase or reduce the amount of child support payable in relation to any child to whom the order does not apply, and the child support payable in relation to any such other child shall be calculated as if the order had not been made.
 
 ### 111 Effect of lump sum orders on formula assessment of child support
 (1) If a Family Court makes an order under section 109 that includes a statement that the child support ordered to be provided by the liable parent is to be credited against the liable parent's liability under any relevant formula assessment, when the decision of the court making the order becomes final, the Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the order in relation to any relevant formula assessment that has been made (whether by amending the assessment or otherwise).
 (2) In subsequently making a relevant formula assessment, the Commissioner shall—
-  (a) calculate what would, apart from the application of the order, be the annual rate of child support payable by the liable parent to the custodian entitled to child support; and
+  (a) calculate what would, apart from the application of the order, be the annual rate of child support payable by the liable parent to the receiving carer entitled to child support; and
   (b) reduce that annual rate by the amount or percentage specified in the statement included in the order under section 110(3); and
   (c) make the assessment on the basis of that reduced annual rate.
 
 **Discharge, suspension, revival, and variation of orders**
 
 ### 112 Discharge, suspension, revival, and variation of orders
-(1) A qualifying custodian or a liable parent or the Commissioner may apply to a Family Court for an order to discharge, suspend, revive, or vary any order made by a Family Court under section 103D or section 106 or section 109.
+(1) A receiving carer or a liable parent or the Commissioner may apply to a Family Court for an order to discharge, suspend, revive, or vary any order made by a Family Court under section 103D or section 106 or section 109.
 (2) If an order under section 103D or section 106 or section 109 is in force in relation to a child (whether or not all things ordered to be done by the order have been done), a Family Court may, on receipt of an application made under subsection (1) or where it is satisfied that it ought to do so, by order—
   (a) discharge the order; or
   (b) suspend its operation wholly or in part and either until a further order or until a fixed time or the happening of a future event; or
   (c) if the operation of the order has been suspended under paragraph (b), revive its operation wholly or in part; or
   (d) subject to subsection (3), vary the order (including any statement included in the order under section 110) in any way, but not—
     (i) in a way that is inconsistent with the provisions of the section under which the order was made; or
-    (ii) so as to reduce the liability of any person to pay child support in a child support year below the equivalent of an annual rate that is equal to the minimum annual rate for that year under section 72(1)(a).
+    (ii) so as to reduce the liability of any person to pay child support in a child support year below the equivalent of an annual rate that is equal to the minimum annual rate for that year under section 72(1)﻿(a).
 (3) The court shall not discharge, suspend, revive, or vary an order under subsection (1) unless the court is satisfied, having regard in particular to any statement included in the order under section 110, that it would be—to make the order.
-  (a) just and equitable as regards the child, the qualifying custodian, and the liable parent concerned; and
+  (a) just and equitable as regards the child, the receiving carer, and the liable parent concerned; and
   (b) otherwise proper,—
 (4) The court shall not, by any order under this section, vary an order unless it is also satisfied—
-  (a) that making the variation is justified because of a change in the circumstances of the child, the qualifying custodian, or a liable parent concerned since the order was made or last varied; or
+  (a) that making the variation is justified because of a change in the circumstances of the child, the receiving carer, or a liable parent concerned since the order was made or last varied; or
   (b) that making the variation is justified because of a change in the all groups index number of the New Zealand Consumer Price Index since the order was made or last varied; or
   (c) in a case where the order was made by consent, that the order is not proper or adequate; or
   (d) that material facts were withheld from the court that made the order or from a court that varied the order, or that material evidence previously given before such a court was false.
@@ -1944,7 +2022,7 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 (6) In determining whether to make an order under this section, the court must have regard to the matters mentioned in section 105(4) and (5).
 (7) The court may have regard to other matters beyond those specified in subsection (6).
 (8) The court must not, in considering the variation of an order, have regard to a change in the all groups index number of the New Zealand Consumer Price Index unless at least 12 months have elapsed since the order was made, or was last varied having regard to such a change.
-(9) In satisfying itself for the purposes of subsection (4)(c), the court must have regard to any payments, and any transfer or settlement of property, previously made by the liable parent to the child, to the qualifying custodian, or to any other person for the benefit of the child.
+(9) In satisfying itself for the purposes of subsection (4)﻿(c), the court must have regard to any payments, and any transfer or settlement of property, previously made by the liable parent to the child, to the receiving carer, or to any other person for the benefit of the child.
 (10) The discharge of an order does not affect the recovery of arrears due under the order, or under this Act, when the discharge takes effect.
 
 **Orders to set aside voluntary agreements**
@@ -1952,8 +2030,8 @@ The Supreme Court, the Court of Appeal, the High Court, District Courts, and Fam
 ### 113 Power to set aside agreements
 (1) A Family Court may set aside a voluntary agreement if the court is satisfied, on application by a party to the agreement, that the concurrence of the party was obtained by fraud or undue influence or that the party was influenced in his or her decision to enter into the agreement by a mistake that was material to him or her.
 (2) Subject to section 125, the parties to a proceeding under subsection (1) of this section are the parties to the agreement.
-(3) Where a voluntary agreement is set aside under subsection (1), a Family Court may make such orders as it considers just and equitable for the purpose of preserving or adjusting the rights of the party concerned or, as the case may be, the child concerned or a person who is or was a qualifying custodian, or a liable parent, in relation to the child.
-(4) An order under subsection (3) may be made in the proceedings in which the order is set aside or in other proceedings brought on the application of a person who is or was a qualifying custodian, or a liable parent, in relation to the child concerned.
+(3) Where a voluntary agreement is set aside under subsection (1), a Family Court may make such orders as it considers just and equitable for the purpose of preserving or adjusting the rights of the party concerned or, as the case may be, the child concerned or a person who is or was a receiving carer, or a liable parent, in relation to the child.
+(4) An order under subsection (3) may be made in the proceedings in which the order is set aside or in other proceedings brought on the application of a person who is or was a receiving carer, or a liable parent, in relation to the child concerned.
 (5) The Commissioner shall, as soon as practicable, take such action as is necessary to give effect to the order.
 
 ### 114 Implementation of decision
@@ -1962,12 +2040,12 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
 **Effect of pending appeals**
 
 ### 115 Pending appeal or application not to affect assessment
-(1) Subject to section 117, the fact that a proceeding is pending in relation to an appeal made by any person under section 100 or section 101 or section 102 or section 103, 103A, 103B, or 103C, or in relation to an application made by any person under section 104 or section 108 or section 112 or section 117, does not suspend, interfere with, or affect—
+(1) Subject to section 117, the fact that a proceeding is pending in relation to an appeal made by any person under section 102 or section 103, 103A, 103B, or 103C, or in relation to an application made by any person under section 104 or section 108 or section 112 or section 117, does not suspend, interfere with, or affect—
   (a) any assessment made in relation to the person; or
   (b) the obligation to pay financial support; or
   (c) the right of the Commissioner to receive and recover any financial support.
 (2) Subsection (1) does not apply in relation to a person if—
-  (a) the person has made an appeal under section 100 in relation to a child; and
+  (a) the person has made an appeal under section 102 in relation to a child; and
   (b) a ground of the appeal is that the person was not a parent of the child; and
   (c) there is not a final decision of a court determining that ground of the appeal.
 
@@ -1977,8 +2055,8 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
 (1) Where, at any time after an application has been made to the Commissioner for formula assessment of child support for a child (whether or not the Commissioner has accepted or refused to accept the application), a Family Court is of the opinion that the child is in urgent need of financial assistance, the court may order the payment of such periodic or other amount towards the maintenance of the child as the court considers appropriate.
 (2) An order under subsection (1) has effect for such period as is specified in the order, other than a period that ends after—
   (a) the final determination under this Act that child support is not payable for the child; or
-  (b) if a determination is made under this Act that child support is payable for the child, the receipt by the eligible custodian of, or on account of, the first payment of such child support.
-(3) A proceeding under this section may be instituted by an eligible custodian who has applied for formula assessment of child support (other than an eligible custodian who is a social security beneficiary), against the person from whom the application sought payment of child support.
+  (b) if a determination is made under this Act that child support is payable for the child, the receipt by the carer of, or on account of, the first payment of such child support.
+(3) A proceeding under this section may be instituted by a carer who has applied for formula assessment of child support (other than a carer who is a social security beneficiary), against the person from whom the application sought payment of child support.
 (4) The Commissioner shall, as soon as practicable, take such action as is necessary to give effect to any order made under this section.
 
 ### 117 Suspension orders
@@ -2015,9 +2093,9 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
   (c) in any other case, if—
     (i) the person on whose application the order was made—
       (A) dies; or
-      (B) ceases to be a qualifying custodian of the child; or
+      (B) ceases to be a receiving carer of the child; or
     (ii) the person against whom the order was made dies.
-(2) An order made under this Act in relation to spousal maintenance shall cease to be in force if—
+(2) An order made under this Act in relation to domestic maintenance shall cease to be in force if—
   (a) the person who is the payee dies; or
   (b) the person who is the liable person dies.
 (3) Nothing in this section affects the recovery of arrears due under an order which ceases to be in force.
@@ -2032,7 +2110,7 @@ The Commissioner shall, as soon as practicable, take such action as is necessary
 (1A) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (2) On the ex parte application of the appellant, the Family Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (2A) Subsection (2) overrides subsection (1A).
-(3) The Commissioner may appeal to the High Court, against the decision, against an order or declaration of a Family Court made under this Act in relation to any of the matters specified in sections 100 to 103.
+(3) The Commissioner may appeal to the High Court, against the decision, against an order or declaration of a Family Court made under this Act in relation to any of the matters specified in section 102 or 103.
 (3A) The High Court Rules and sections 75 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (3) as if it were an appeal under section 72 of that Act.
 (4) With the leave of the Court of Appeal, a party to an appeal under subsection (1) or subsection (3) may appeal to the Court of Appeal against all or part of any determination of the High Court made in the appeal.
 (5) On an appeal to the Court of Appeal under this section, the Court of Appeal shall have the same power to adjudicate on the proceeding as the High Court had.
@@ -2048,7 +2126,7 @@ Where a court is considering an appeal under this Act against the disallowance b
 
 ### 122 Social security beneficiary to be compellable witness against liable parent
 (1) Notwithstanding any rule of law to the contrary, in any proceeding under this Act a person—shall be a compellable witness for the Commissioner against the person who, in relation to that eligible applicant, is the liable parent, and for the liable parent against the Commissioner.
-  (a) who is an eligible applicant for child support; and
+  (a) who is a parent or carer of a qualifying child; and
   (b) who is in receipt of a social security benefit at any time during any period to which the proceeding relates,—
 (2) Section 70A of the Social Security Act 1964 applies to any person who fails to comply with this section.
 
@@ -2069,7 +2147,7 @@ Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a 
 
 ### 125 Intervention in proceedings
 (1) The Commissioner may intervene in, and contest and argue any question arising in, a proceeding under this Act to which he or she is not otherwise a party.
-(2) The custodian of a child in respect of whom child support is sought, or any person by whom, or from whom, financial support is sought, may intervene in, and contest and argue any question arising in, a proceeding under this Act which relates to that child support or financial support and to which he or she is not otherwise a party.
+(2) Any parent or carer of a child in respect of whom child support is sought, or any person by whom, or from whom, financial support is sought, may intervene in, and contest and argue any question arising in, a proceeding under this Act which relates to that child support or financial support and to which he or she is not otherwise a party.
 (3) If a person intervenes in a proceeding under this Act, the person is to be taken to be a party to the proceedings with all the rights, duties, and liabilities of a party.
 
 ### 126 Copies of orders to be forwarded to Commissioner
@@ -2130,8 +2208,8 @@ Where any person who is required to pay financial support under this Act is in r
 
 ### 135 Interpretation for purposes of sections 135A to 135O
 For the purposes of sections 135A to 135O, unless the context otherwise requires,—
-  - **incremental penalty** means a penalty that is imposed under section 134(1)(b) or (c)
-  - **initial late payment penalty** means a penalty that is imposed under section 134(1)(a)
+  - **incremental penalty** means a penalty that is imposed under section 134(1)﻿(b) or (c)
+  - **initial late payment penalty** means a penalty that is imposed under section 134(1)﻿(a)
   - **penalty** means a penalty that is imposed under section 134.
 
 **Discretionary relief in respect of penalties**
@@ -2168,9 +2246,11 @@ The Commissioner may grant relief to a liable person in the manner prescribed by
   (b) the liable person has acted in good faith and has altered his or her position in reliance on the error; and
   (c) having regard to the circumstances of the case, it would be fair and reasonable to grant relief.
 
-### 135F Discretionary relief if debt uplifted
+### 135F Discretionary relief if debt waived or uplifted
 The Commissioner may grant relief to a liable person in the manner prescribed by section 135A if the Commissioner is satisfied that—
-  (a) the payee has uplifted the debt to which the penalty relates under section 180; and
+  (a) the payee has—
+    (i) waived under section 179A the right to the payment to which the penalty relates; or
+    (ii) uplifted under section 180 the debt to which the penalty relates; and
   (b) it would be fair and reasonable to grant relief.
 
 ### 135G Discretionary relief for residual incremental penalty debt
@@ -2179,7 +2259,7 @@ The Commissioner may grant relief to a liable person in the manner prescribed by
   (b) the Commissioner is satisfied that recovery of the incremental penalties—
     (i) would involve an inefficient use of the Commissioner's resources; or
     (ii) would place the liable person in serious hardship.
-(2) Before making a decision under subsection (1)(b), the Commissioner must have regard to the matters referred to in sections 6 and 6A of the Tax Administration Act 1994.
+(2) Before making a decision under subsection (1)﻿(b), the Commissioner must have regard to the matters referred to in sections 6 and 6A of the Tax Administration Act 1994.
 (3) In this section,—
   - **serious hardship** , in relation to a liable person,—
     (a) includes significant financial difficulties that arise because of—
@@ -2206,10 +2286,10 @@ The Commissioner may grant relief to a liable person in the manner prescribed by
       (A) the first payment; and
       (B) other payments of financial support that are or will become payable by the liable person; and
   (c) either,—
-    (i) in the case of paragraph (b)(i), every one of those instalments is paid in full in accordance with that payment agreement; or
-    (ii) in the case of paragraph (b)(ii), every one of those deductions and payments is made in accordance with that notice.
+    (i) in the case of paragraph (b)﻿(i), every one of those instalments is paid in full in accordance with that payment agreement; or
+    (ii) in the case of paragraph (b)﻿(ii), every one of those deductions and payments is made in accordance with that notice.
 (2) If an initial late payment penalty is written off under this section, and that penalty has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the initial late payment penalty that has been paid.
-(3) For the purposes of this section, first payment means the first amount of financial support that is required to be paid by a liable person under an assessment made by the Commissioner under section 24(1)(a).
+(3) For the purposes of this section, first payment means the first amount of financial support that is required to be paid by a liable person under an assessment made by the Commissioner under section 24(1)﻿(a).
 
 ### 135I Relief from initial late payment penalty if minimum amount
 (1) The Commissioner must write off an initial late payment penalty in relation to a financial support debt if the Commissioner is satisfied that—
@@ -2236,7 +2316,7 @@ The Commissioner may grant relief to a liable person in the manner prescribed by
 (3) For the purposes of subsection (2), a person has complied with the payment agreement up until a particular review date if—
   (a) the person has paid every instalment in full that has fallen due in accordance with the agreement; or
   (b) in the case of an agreement to pay 1 sum only, the person has paid that sum in accordance with the agreement.
-(4) For the purposes of subsection (2), the proportion of incremental penalties that must be written off must be calculated in accordance with the following formula:where—
+(4) For the purposes of subsection (2), the proportion of incremental penalties that must be written off must be calculated in accordance with the following formula:r = (a × c ÷ b) − dwhere—
   (r) is the amount of incremental penalty that is to be written off
   (a) is the total amount of the initial debt that has been paid since the payment agreement was entered into
   (b) is the initial debt
@@ -2273,7 +2353,7 @@ The Commissioner may grant relief to a liable person in the manner prescribed by
   (a) review the incremental penalties in relation to the initial debt of the liable person that were unpaid at the commencement of this section; and
   (b) write off those penalties proportionally in accordance with subsection (6).
 (5) For the purposes of subsection (4), a person has complied with a specified deduction notice up until a particular review date if all of the deductions and payments required to be made under the specified deduction notice by that date have been made in accordance with that notice.
-(6) For the purposes of subsections (2) and (4), the proportion of incremental penalties that must be written off must be calculated in accordance with the following formula:where—
+(6) For the purposes of subsections (2) and (4), the proportion of incremental penalties that must be written off must be calculated in accordance with the following formula:r = (a × c ÷ b) − dwhere—
   (r) is the amount of incremental penalty that is to be written off
   (a) is the total amount of the initial debt that has been paid since the commencement of this section
   (b) is the initial debt
@@ -2297,7 +2377,7 @@ The Commissioner may grant relief to a liable person in the manner prescribed by
   (b) at the time liability for the incremental penalty arises, the financial support or the initial late payment penalty or the incremental penalty in relation to which the person becomes so liable is financial support or initial late payment penalty or incremental penalty that is payable in 1 sum, or in 2 or more instalments, in accordance with a payment agreement entered into between the person and the Commissioner; and
   (c) that sum or, as the case may be, every one of those instalments is paid in full in accordance with that payment agreement.
 (2) The Commissioner must grant relief to the liable person—
-  (a) by writing off the incremental penalty referred to in subsection (1)(a); or
+  (a) by writing off the incremental penalty referred to in subsection (1)﻿(a); or
   (b) if that incremental penalty has been paid, in whole or in part, by refunding to that person the whole or the part of that incremental penalty that has been paid, with or without writing off any part of that incremental penalty that has not been paid.
 
 ### 135N Relief from ongoing incremental penalties if deduction notice in force
@@ -2306,7 +2386,7 @@ The Commissioner may grant relief to a liable person in the manner prescribed by
   (b) at the time liability for the incremental penalty arises, the financial support or initial late payment penalty or the incremental penalty in relation to which the person becomes so liable is child support or initial late payment penalty or incremental penalty in respect of which deductions are required to be made, and paid to the Commissioner, under a notice issued under section 154; and
   (c) every one of those deductions and payments is made in accordance with that notice.
 (2) The Commissioner must grant relief to the liable person—
-  (a) by writing off the incremental penalty referred to in subsection (1)(a); or
+  (a) by writing off the incremental penalty referred to in subsection (1)﻿(a); or
   (b) if that incremental penalty has been paid, in whole or in part, by refunding to that person the whole or the part of that incremental penalty that has been paid, with or without writing off any part of that incremental penalty that has not been paid.
 
 **Miscellaneous**
@@ -2315,8 +2395,8 @@ The Commissioner may grant relief to a liable person in the manner prescribed by
 Any refund made under sections 135A to 135N must be paid out of a Crown Bank Account without further appropriation than this section.
 
 ### 136 Amounts payable per month and per day
-(1) Where child support or domestic maintenance is payable in relation to any month in a child support year, the monthly rate payable is calculated by dividing the annual rate by 12 and rounding the converted rate to the nearest 5 cents.
-(2) The amount of child support or domestic maintenance payable in relation to each day in the child support year is the amount of the monthly rate divided by the number of days in that calendar month and rounded to the nearest 5 cents.
+(1) Where child support or domestic maintenance is payable in relation to any month in a child support year, the monthly rate payable is calculated by dividing the annual rate by 12.
+(2) The amount of child support or domestic maintenance payable in relation to each day in the child support year is the amount of the monthly rate divided by the number of days in that calendar month.
 
 **Application of payments collected**
 
@@ -2354,73 +2434,73 @@ Where, in any month, an amount is paid to, or to be credited by, the Commissione
 
 **Payments by Commissioner**
 
-### 141 Payment to custodians who are not social welfare beneficiaries
-All money received by the Commissioner by way of child support in respect of a qualifying child shall, if the qualifying custodian of that child is not a recipient of a social security benefit, be paid to the qualifying custodian in accordance with this Part.
+### 141 Payment to receiving carers who are not social welfare beneficiaries
+All money received by the Commissioner by way of child support in respect of a qualifying child shall, if the receiving carer of that child is not a recipient of a social security benefit, be paid to the receiving carer in accordance with this Part.
 
-### 142 Payment of formula assessment child support to custodians who are social security beneficiaries
+### 142 Payment of formula assessment child support to receiving carers who are social security beneficiaries
 (1) Where—the Commissioner shall—
-  (a) the qualifying custodian of 1 or more children is a recipient of a social security benefit; and
+  (a) the receiving carer of 1 or more children is a recipient of a social security benefit; and
   (b) the Commissioner receives money by way of child support in respect of that child or those children; and
   (c) that money is paid by a liable parent or parents under 1 or more formula assessments; and
   (d) the Commissioner does not receive money in respect of that child or those children from any person under a voluntary agreement,—
-  (ea) pay to the qualifying custodian the amount of child support paid by a liable parent that is payable to the qualifying custodian and is payable by that liable parent for the periods when the qualifying custodian is not a recipient of a social security benefit; and
-  (e) aggregate all remaining payments of child support payable to that custodian; and
+  (ea) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent for the periods when the receiving carer is not a recipient of a social security benefit; and
+  (e) aggregate all remaining payments of child support payable to that receiving carer; and
   (f) deduct an amount equal to whichever is the lesser of the following amounts:
-    (i) the net of tax amount of social security benefit receivable by the qualifying custodian; or
-    (ii) the aggregate of all payments of child support received by the Commissioner that are payable to the custodian (after any deductions have been made in accordance with paragraph (ea)); and
-  (g) pay any remaining child support to the qualifying custodian.
-(2) Where a qualifying custodian of more than 1 child receives an unsupported child's benefit in respect of 1 or more children, then subsection (1) shall not apply and the Commissioner shall,—
+    (i) the net of tax amount of social security benefit receivable by the receiving carer; or
+    (ii) the aggregate of all payments of child support received by the Commissioner that are payable to the receiving carer (after any deductions have been made in accordance with paragraph (ea)); and
+  (g) pay any remaining child support to the receiving carer.
+(2) Where a receiving carer of more than 1 child receives an unsupported child's benefit in respect of 1 or more children, then subsection (1) shall not apply and the Commissioner shall,—
   (a) in respect of each child for whom an unsupported child's benefit is payable,—
-    (ia) pay to the qualifying custodian the amount of child support paid by a liable parent that is payable to the qualifying custodian and is payable by that liable parent in respect of the child for periods when the qualifying custodian is not a recipient of an unsupported child's benefit in respect of the child; and
-    (i) aggregate all remaining payments of child support payable to the custodian in respect of each such child; and
+    (ia) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent in respect of the child for periods when the receiving carer is not a recipient of an unsupported child's benefit in respect of the child; and
+    (i) aggregate all remaining payments of child support payable to the receiving carer in respect of each such child; and
     (ii) deduct an amount equal to whichever is the lesser of the following amounts:
       (A) the net of tax amount of the unsupported child's benefit; or
-      (B) the aggregate of all payments of child support received by the Commissioner that are payable to the custodian in respect of that child (after any deductions have been made in accordance with subparagraph (ia)); and
-    (iii) pay any remaining child support in respect of that child to the qualifying custodian; and
+      (B) the aggregate of all payments of child support received by the Commissioner that are payable to the receiving carer in respect of that child (after any deductions have been made in accordance with subparagraph (ia)); and
+    (iii) pay any remaining child support in respect of that child to the receiving carer; and
   (b) in respect of any other child or children,—
-    (ia) pay to the qualifying custodian the amount of child support paid by a liable parent that is payable to the qualifying custodian and is payable by that liable parent in respect of that child or those children for the periods when the qualifying custodian is not a recipient of a social security benefit; and
-    (i) aggregate all remaining payments of child support payable to the custodian in respect of that child or children; and
+    (ia) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent in respect of that child or those children for the periods when the receiving carer is not a recipient of a social security benefit; and
+    (i) aggregate all remaining payments of child support payable to the receiving carer in respect of that child or children; and
     (ii) deduct an amount equal to whichever is the lesser of the following amounts:
-      (A) the net of tax amount of social security benefit (other than unsupported child's benefit) receivable by the qualifying custodian; or
-      (B) the aggregate of all payments of child support received by the Commissioner in respect of that child or children that are payable to the custodian (after any deductions have been made in accordance with subparagraph (ia)); and
-    (iii) pay any remaining child support in respect of that child or children to the qualifying custodian.
+      (A) the net of tax amount of social security benefit (other than unsupported child's benefit) receivable by the receiving carer; or
+      (B) the aggregate of all payments of child support received by the Commissioner in respect of that child or children that are payable to the receiving carer (after any deductions have been made in accordance with subparagraph (ia)); and
+    (iii) pay any remaining child support in respect of that child or children to the receiving carer.
 (3) This section does not limit the application of section 137 to the liable parent.
 
-### 143 Payment of voluntary agreement child support to custodians who are social security beneficiaries
+### 143 Payment of voluntary agreement child support to receiving carers who are social security beneficiaries
 (1) Where—the Commissioner shall—
-  (a) the qualifying custodian of 1 or more children is a recipient of a social security benefit; and
+  (a) the receiving carer of 1 or more children is a recipient of a social security benefit; and
   (b) the Commissioner receives money by way of child support in respect of that child or those children; and
   (c) any of that money is paid by a liable parent or parents under 1 or more voluntary agreements,—
-  (da) pay to the qualifying custodian the amount of child support paid by a liable parent that is payable to the qualifying custodian and is payable by that liable parent for the periods when the qualifying custodian is not a recipient of a social security benefit; and
-  (d) in respect of each child for whom money is paid under a voluntary agreement, pay to the qualifying custodian the amount by which that money exceeds the payment that would have been made under a formula assessment of child support (except to the extent that the amount has already been paid under paragraph (da)); and
-  (e) aggregate all remaining payments of child support payable to the custodian; and
+  (da) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent for the periods when the receiving carer is not a recipient of a social security benefit; and
+  (d) in respect of each child for whom money is paid under a voluntary agreement, pay to the receiving carer the amount by which that money exceeds the payment that would have been made under a formula assessment of child support (except to the extent that the amount has already been paid under paragraph (da)); and
+  (e) aggregate all remaining payments of child support payable to the receiving carer; and
   (f) deduct an amount equal to whichever is the lesser of the following amounts:
-    (i) the net of tax amount of social security benefit receivable by the qualifying custodian; or
-    (ii) the aggregate of all payments of child support received by the Commissioner that are payable to the custodian (after any deductions have been made in accordance with paragraphs (da) and (d)); and
-  (g) pay any remaining child support to the qualifying custodian.
-(1A) If a qualifying custodian of more than 1 child receives an unsupported child's benefit in respect of 1 or more children, then subsection (1) does not apply and the Commissioner must,—
-  (a) in respect of each child for whom money is paid under a voluntary agreement, pay to the qualifying custodian—
-    (i) the amount of child support paid by a liable parent that is payable to the qualifying custodian and is payable by that liable parent in respect of the child for periods when the qualifying custodian is not a recipient of a social security benefit; and
+    (i) the net of tax amount of social security benefit receivable by the receiving carer; or
+    (ii) the aggregate of all payments of child support received by the Commissioner that are payable to the receiving carer (after any deductions have been made in accordance with paragraphs (da) and (d)); and
+  (g) pay any remaining child support to the receiving carer.
+(1A) If a receiving carer of more than 1 child receives an unsupported child's benefit in respect of 1 or more children, then subsection (1) does not apply and the Commissioner must,—
+  (a) in respect of each child for whom money is paid under a voluntary agreement, pay to the receiving carer—
+    (i) the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent in respect of the child for periods when the receiving carer is not a recipient of a social security benefit; and
     (ii) the amount by which the money paid under the voluntary agreement in respect of the child exceeds the payment that would have been made under a formula assessment of child support (except to the extent that the amount has already been paid under subparagraph (i)); and
   (b) in respect of each child for whom an unsupported child's benefit is payable,—
-    (i) pay to the qualifying custodian the amount of child support paid by a liable parent that is payable to the qualifying custodian and is payable by that liable parent in respect of the child for periods when the qualifying custodian is not a recipient of an unsupported child's benefit in respect of the child (except to the extent that the amount has already been paid under paragraph (a)); and
-    (ii) aggregate all remaining payments of child support payable to the custodian in respect of each such child; and
+    (i) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent in respect of the child for periods when the receiving carer is not a recipient of an unsupported child's benefit in respect of the child (except to the extent that the amount has already been paid under paragraph (a)); and
+    (ii) aggregate all remaining payments of child support payable to the receiving carer in respect of each such child; and
     (iii) deduct an amount equal to whichever is the lesser of the following amounts:
       (A) the net of tax amount of the unsupported child's benefit; or
-      (B) the aggregate of all payments of child support received by the Commissioner that are payable to the custodian in respect of that child (after any deductions have been made in accordance with paragraphs (a) and (b)(i)); and
-    (iv) pay any remaining child support in respect of that child to the qualifying custodian; and
+      (B) the aggregate of all payments of child support received by the Commissioner that are payable to the receiving carer in respect of that child (after any deductions have been made in accordance with paragraphs (a) and (b)﻿(i)); and
+    (iv) pay any remaining child support in respect of that child to the receiving carer; and
   (c) in respect of any other child or children,—
-    (i) pay to the qualifying custodian the amount of child support paid by a liable parent that is payable to the qualifying custodian and is payable by that liable parent in respect of that child or those children for the periods when the qualifying custodian is not a recipient of a social security benefit (except to the extent that the amount has already been paid under paragraph (a)); and
-    (ii) aggregate all remaining payments of child support payable to the custodian in respect of that child or children; and
+    (i) pay to the receiving carer the amount of child support paid by a liable parent that is payable to the receiving carer and is payable by that liable parent in respect of that child or those children for the periods when the receiving carer is not a recipient of a social security benefit (except to the extent that the amount has already been paid under paragraph (a)); and
+    (ii) aggregate all remaining payments of child support payable to the receiving carer in respect of that child or children; and
     (iii) deduct an amount equal to whichever is the lesser of the following amounts:
-      (A) the net of tax amount of social security benefit (other than unsupported child's benefit) receivable by the qualifying custodian; or
-      (B) the aggregate of all payments of child support received by the Commissioner in respect of that child or children that are payable to the custodian (after any deductions have been made in accordance with paragraphs (a) and (c)(i)); and
-    (iv) pay any remaining child support in respect of that child or children to the qualifying custodian.
-(2) For the purposes of calculating under subsection (1)(d) or subsection (1A)(a) the payments that would have been made under a formula assessment, the child support income amount of a liable parent who made the payment under a voluntary agreement shall be the amount that would apply if no election under section 40 could be made.
+      (A) the net of tax amount of social security benefit (other than unsupported child's benefit) receivable by the receiving carer; or
+      (B) the aggregate of all payments of child support received by the Commissioner in respect of that child or children that are payable to the receiving carer (after any deductions have been made in accordance with paragraphs (a) and (c)﻿(i)); and
+    (iv) pay any remaining child support in respect of that child or children to the receiving carer.
+(2) For the purposes of calculating under subsection (1)﻿(d) or subsection (1A)﻿(a) the payments that would have been made under a formula assessment, the child support income amount of a liable parent who made the payment under a voluntary agreement shall be the amount that would apply if no election under section 40 could be made.
 (3) This section does not limit the application of section 137 to the liable parent.
 
 ### 144 Payment of lump sum and other child support
-(1) All money received by the Commissioner—shall be paid to the qualifying custodian in accordance with this Part.
+(1) All money received by the Commissioner—shall be paid to the receiving carer in accordance with this Part.
   (a) pursuant to an order of the court made under section 109; or
   (b) pursuant to an order to which Part 4 applies that provides for payments towards the support of a child,—
 (2) Any such money shall not be taken into account under section 142 or section 143.
@@ -2446,7 +2526,7 @@ Any payment to be made to a payee under this section by the Commissioner shall, 
 ### 149 Unexplained remittances
 (1) This section applies where—
   (a) on or before the 20th day of any month, the Commissioner receives an amount (referred to in this section as the received amount) from a person in relation to the amounts deducted by the person under Part 10; and
-  (b) the person has contravened section 163(1)(b) in relation to those amounts deducted; and
+  (b) the person has contravened section 163(1)﻿(b) in relation to those amounts deducted; and
   (c) the Commissioner is unable to ascertain to the Commissioner's satisfaction, in sufficient time prior to the cut-off day for the making of payments on or before the seventh day of the following month, the portion of the received amount attributable to each of the liable persons from whom an amount was deducted by the person.
 (2) The Commissioner may, for the purposes of this Part, hold the received amount until the amount attributable to each of the liable persons from whom an amount has been deducted by the person has been established to the satisfaction of the Commissioner.
 
@@ -2465,7 +2545,7 @@ Any amount which is held by the Commissioner under section 149(2) shall be deeme
 (1) The Commissioner may write off the whole or part of a debt, and may make alterations in the assessment that are necessary for that purpose, if the debt—
   (a) is repayable by a payee who was a social security beneficiary at any time during a child support year after an election was made by the liable parent that resulted in no child support being payable by the liable parent for the remainder of the child support year under section 40; and
   (b) relates to an amount paid to the payee before the election was made by the liable parent; and
-  (c) is repayable to the Commissioner under section 151(1)(c) in relation to a child support debt.
+  (c) is repayable to the Commissioner under section 151(1)﻿(c) in relation to a child support debt.
 (2) The Commissioner may, if the debt has been paid in whole or in part, refund to the payee the whole or any part of the debt that has been paid, with or without writing off any part of the debt that has not been paid.
 (3) Any refund made under this section must be paid out of a Crown Bank Account without further appropriation than this section.
 
@@ -2482,6 +2562,10 @@ In any case where—
   (b) arises solely as a result of the liable person being granted an exemption under subpart 2 of Part 5A.
 (2) The Commissioner must, if the debt has been paid in whole or in part, refund to the payee the part of the debt that has been paid.
 (3) Any refund made under this section must be paid out of a Crown Bank Account without further appropriation than this section.
+
+### 152B Offsetting child support payments
+(1) If 2 parents are each to be liable to pay the other an amount of child support, the Commissioner may at any time before both of the amounts of child support concerned become due and payable offset one liability against the other.
+(2) However, the Commissioner cannot exercise this power in respect of any liability of a parent in respect of a period if during that period the parent is expected to be a social security beneficiary (as defined in section 2(1)).
 
 ## Part 10 — Automatic deductions
 
@@ -2575,7 +2659,7 @@ Where a payer deducts an amount under this Part from any money payable to a liab
 (1) Where a liable person is in receipt of source deduction payments from 2 or more employers, the Commissioner may—
   (a) treat any one of the employers as the only employer for the purposes of this Part; or
   (b) apply this Part in relation to any 2 or more of the employers with such modifications as the Commissioner considers appropriate, being modifications made for the purpose of ensuring that the amounts collected under this Part in relation to the liability are, in the aggregate, the same as those that would be collected in relation to the liability if the liable person had only 1 employer.
-(2) Without limiting the generality of subsection (1)(b), where a liable person has more than 1 employer, the Commissioner may, under that subsection and on the request of the liable person, disregard, and instruct an employer of the liable person, or a PAYE intermediary for the employer, to disregard, the provisions of section 165(1) provided that the total deductions made under deduction notices by all employers of the liable person and all PAYE intermediaries must not reduce the person's total net earnings in respect of a pay period to an amount that is less than 60% of the residue that remains after deducting from the source deduction payments the amount of any tax withheld under the PAYE rules of the Income Tax Act 2007.
+(2) Without limiting the generality of subsection (1)﻿(b), where a liable person has more than 1 employer, the Commissioner may, under that subsection and on the request of the liable person, disregard, and instruct an employer of the liable person, or a PAYE intermediary for the employer, to disregard, the provisions of section 165(1) provided that the total deductions made under deduction notices by all employers of the liable person and all PAYE intermediaries must not reduce the person's total net earnings in respect of a pay period to an amount that is less than 60% of the residue that remains after deducting from the source deduction payments the amount of any tax withheld under the PAYE rules of the Income Tax Act 2007.
 (3) In this section, PAYE intermediary has the same meaning as in section YA 1 of the Income Tax Act 2007.
 
 ### 167 Deductions to be held on trust
@@ -2660,7 +2744,7 @@ Where—the Commissioner may, despite any direction given by or on behalf of the
   (b) retain those records for a period of not less than 7 years.
 (2) The records shall be kept—
   (a) in writing in the English language or so as to enable the records to be readily accessible and convertible into writing in the English language; and
-  (b) so as to enable the matters and acts referred to in subsection (1)(a) to be readily ascertained.
+  (b) so as to enable the matters and acts referred to in subsection (1)﻿(a) to be readily ascertained.
 (3) Nothing in this section shall require a person to retain records where the Commissioner has notified the person that retention of the records is not required.
 
 ## Part 11 — Enforcement provisions
@@ -2671,13 +2755,23 @@ All unpaid financial support and any unpaid penalty or other charge imposed ther
 ### 179 Payee has no right to take action to recover financial support payments
 Subject to section 180, no legal action may be taken by a payee in relation to any amount of financial support due and payable by a liable person to the Commissioner.
 
+### 179A Waiver of right to payment
+(1) A payee who is a non-parent receiving carer of a qualifying child (other than a payee who is in receipt of an unsupported child's benefit for that child, or in receipt of any other social security benefit) may, by notice to the Commissioner, waive their right to receive the child support payments yet to be paid by a liable parent.
+(2) The notice takes effect as a waiver on the date specified in the notice; but if no date is specified, it takes effect on the date on which the notice is received by the Commissioner.
+(3) On and from the date on which a waiver takes effect, no unpaid child support payments constitute a debt payable by the liable parent to the Crown, whether the payments were due before, on, or after the date on which the waiver takes effect.
+(4) A waiver under this section is revocable at any time, by notice to the Commissioner, and the revocation takes effect on the later of the following:
+  (a) the date specified in the notice:
+  (b) the date on which the notice is received by the Commissioner.
+(5) A waiver under this section is deemed to be revoked if, and on the date that, the payee begins to receive an unsupported child's benefit for the child to whom the waiver relates, or begins to receive any other social security benefit.
+(6) If a waiver is revoked, the liable parent must pay the child support due in relation to the child from the date the revocation takes effect, and must pay it within 30 days after the date on which the notice of revocation is given to the liable parent.
+
 ### 180 Payee may uplift financial support debt
 (1) A person who is the payee in respect of an amount of child support or domestic maintenance may elect, by written notice to the Commissioner signed by the payee, that—
   (a) the Commissioner cease to pursue payment of the whole or any part of an amount payable by the liable person that is unpaid and in arrear; or
   (b) the Commissioner not pursue payment of an amount that is to become payable in the future by a liable person.
 (2) This section does not entitle an election to be made in relation to an amount of child support payable to a payee, other than pursuant to a lump sum order made under section 109,—
-  (a) under subsection (1)(a) or subsection (1)(b), if the payee is or was a social security beneficiary at the time the child support is or was payable; or
-  (b) under subsection (1)(b), if the payee is not a social security beneficiary at the time the child support is payable unless, at the time of making the election, the payee also elects that the liability of the liable parent to pay child support is to end under section 27 or section 64 or section 70.
+  (a) under subsection (1)﻿(a) or subsection (1)﻿(b), if the payee is or was a social security beneficiary at the time the child support is or was payable; or
+  (b) under subsection (1)﻿(b), if the payee is not a social security beneficiary at the time the child support is payable unless, at the time of making the election, the payee also elects that the liability of the liable parent to pay child support is to end under section 27 or section 64 or section 70.
 (3) Where the Commissioner receives an election under subsection (1) that complies with the requirements of this section, the amount of money that is or becomes unpaid and in arrear, to the extent that the payee has elected that the Commissioner not pursue payment,—
   (a) ceases to be a debt payable by the liable person to the Crown under this Act; and
   (b) becomes a debt payable by the liable person to the payee; and
@@ -2840,8 +2934,8 @@ Every liable person who is summoned or brought before a District Court or Family
   (a) an order that the liable person give such security (including the provision of sureties) for the payment of that liability as the court specifies:
   (b) an order that the liable person do not leave New Zealand without the written permission of the court:
   (c) an order that the liable person surrender to the court for such period as the court specifies any tickets or travel documents in the person's possession.
-(3) On making an order under subsection (2)(b) or (c), the court may direct the Registrar to give notice of the order to such departments of State, offices, or persons as the court or the Registrar thinks proper.
-(4) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000 who, being a person against whom an order under subsection (2)(b) is in force, leaves New Zealand, or attempts or does any act with intent to leave New Zealand.
+(3) On making an order under subsection (2)﻿(b) or (c), the court may direct the Registrar to give notice of the order to such departments of State, offices, or persons as the court or the Registrar thinks proper.
+(4) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000 who, being a person against whom an order under subsection (2)﻿(b) is in force, leaves New Zealand, or attempts or does any act with intent to leave New Zealand.
 (5) A person against whom an order under subsection (2) is in force may apply to the court for the discharge of the order, and the court may discharge the order accordingly.
 
 **Miscellaneous provisions**
@@ -2991,8 +3085,8 @@ A request made under section 216B must—
 (2) For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994),—
   (a) a refund transferred on the request of a person is treated as a refund made to the person on the date of transfer; and
   (b) a refund transferred to the account of a person is treated,—
-    (i) in the case of a transfer under section 216B(1)(a) or (b), as tax paid by the person on the date of transfer, except for the purpose of imposing a shortfall penalty under Part 9 of the Tax Administration Act 1994; and
-    (ii) in the case of a transfer under section 216B(1)(c), as the payment of financial support by the person on the date of transfer.
+    (i) in the case of a transfer under section 216B(1)﻿(a) or (b), as tax paid by the person on the date of transfer, except for the purpose of imposing a shortfall penalty under Part 9 of the Tax Administration Act 1994; and
+    (ii) in the case of a transfer under section 216B(1)﻿(c), as the payment of financial support by the person on the date of transfer.
 
 ### 217 Appropriation of refunds
 Any refund of financial support under this Act may be made without further appropriation than this section.
@@ -3039,8 +3133,8 @@ No action, prosecution, or other proceeding under, or arising out of, this Act s
 (1) Where an application or appeal is made to a court under this Act and it is proved to the satisfaction of the court that the respondent is absent from New Zealand or cannot be found, the court may—
   (a) hear and determine the application or appeal in the same manner as if the respondent had been served with the appropriate notice of the proceeding; or
   (b) order any steps to be taken to bring the proceeding to the notice of the respondent, and from time to time amend any such order.
-(2) An order referred to in subsection (1)(b) may direct that notice of the proceeding be given by advertisement in any newspaper, or by the service of a notice on any solicitor or agent of the respondent or on any other person, or in any manner whatsoever.
-(3) Where the court is satisfied that an order referred to in subsection (1)(b) has been complied with and that a reasonable time has elapsed since the steps directed by the order were taken, the court may if it thinks fit hear and determine the application in the same manner as if the respondent had been served with notice of the application.
+(2) An order referred to in subsection (1)﻿(b) may direct that notice of the proceeding be given by advertisement in any newspaper, or by the service of a notice on any solicitor or agent of the respondent or on any other person, or in any manner whatsoever.
+(3) Where the court is satisfied that an order referred to in subsection (1)﻿(b) has been complied with and that a reasonable time has elapsed since the steps directed by the order were taken, the court may if it thinks fit hear and determine the application in the same manner as if the respondent had been served with notice of the application.
 
 ### 225 Proceedings by or against minors
 (1) A minor may bring and continue or defend any proceeding under this Act.
@@ -3069,7 +3163,7 @@ In any proceedings under this Act (other than criminal proceedings), a court may
   (b) in respect of an appointment under section 226A, where a lawyer has been appointed under that section to provide to the court independent legal advice on any complex legal issue.
 
 ### 226C Order requiring reimbursement of costs payments
-(1) An order referred to in section 226B(4) must require the parties to reimburse to the Crown the prescribed proportion of the amount paid by the Crown, under section 226B(1)(b), in respect of the fees and expenses of a lawyer appointed under section 226 or 226A.
+(1) An order referred to in section 226B(4) must require the parties to reimburse to the Crown the prescribed proportion of the amount paid by the Crown, under section 226B(1)﻿(b), in respect of the fees and expenses of a lawyer appointed under section 226 or 226A.
 (2) Despite subsection (1), the court may decline to make an order against a party if satisfied that the order would cause serious hardship to the party or to a dependent child of the party.
 (3) Each party against whom an order is made under subsection (1) must pay an equal share of the prescribed proportion.
 (4) Despite subsection (3), if the court is satisfied that, in view of the circumstances of the case, including the conduct of any party, it would be inappropriate to require a party to pay the amount payable in accordance with that subsection, the court may substitute, for that party, a different amount not exceeding the prescribed proportion.
@@ -3091,7 +3185,7 @@ In any proceedings under this Act (other than criminal proceedings), a court may
 (2) Despite section 113 or 123 of the District Courts Act 1947 or section 100A of the Judicature Act 1908, no court fee is payable by a person who seeks to enforce, on behalf of the Crown, an order referred to in subsection (1), but the fee that would otherwise be payable—
   (a) is to be added to the amount sought to be enforced; and
   (b) must be paid to the Registrar of the court out of any proceeds that result from the enforcement.
-(3) For the purposes of section 14(1)(b) of the Crown Proceedings Act 1950, the Secretary for Justice may, on behalf of the Crown, enforce a debt under this section.
+(3) For the purposes of section 14(1)﻿(b) of the Crown Proceedings Act 1950, the Secretary for Justice may, on behalf of the Crown, enforce a debt under this section.
 
 ### 227 Vexatious proceedings
 (1) A Family Court or District Court may dismiss any proceeding before it under this Act if it is satisfied that it is frivolous or vexatious or an abuse of the procedure of the court.
@@ -3162,12 +3256,13 @@ Every question of fact arising in any proceeding under this Act (not being crimi
     (ii) for the year ending on 31 December immediately preceding the start of the child support year in relation to the all groups index number of the Consumer Price Index.
 
 ### 237 Rounding of amounts
-(1) If an amount that is calculated for the purposes of this Act is not, apart from this section, a number of whole dollars, the amount is to be rounded to the nearest whole dollar.
-(2) If the amount that is calculated is an amount consisting of a number of whole dollars and fifty cents, the amount is to be rounded down to the nearest whole dollar.
-(3) This section does not apply in relation to—
-  (a) the conversion of an annual rate of financial support into a daily, weekly, or monthly rate of financial support; or
-  (b) the allocation of child support to a custodian pursuant to section 32 or section 33; or
-  (c)
+(1) The following amounts must be rounded to whole dollars:
+  (a) late payment penalties:
+  (b) the amounts identified in the child expenditure table approved under section 36D:
+  (c) the living allowances as identified in section 35A(2):
+  (d) the minimum annual rate of child support referred to in section 72(1)﻿(a).
+(2) Except as provided elsewhere in this Act, the Commissioner may round any other amount referred to in, or arrived at in accordance with, this Act to a whole dollar or to any amount less than a whole dollar.
+(3) If an amount that is rounded to a whole dollar consists of a number of whole dollars and 50 cents, the amount must be rounded down to the nearest whole dollar.
 
 ### 238 Applications by agents
 (1) A person who may apply for a formula assessment under this Act may do so by an agent authorised in writing by that person.
@@ -3177,7 +3272,7 @@ Every question of fact arising in any proceeding under this Act (not being crimi
 
 ### 239 Notification requirements
 (1) Any person who is a liable person or a payee under this Act shall, as soon as practicable, advise the Commissioner of any change to that person's address.
-(2) The Commissioner may, by written notice given to a person who is a liable person or a payee under this Act, require the person to notify the Commissioner, as soon as practicable and in the manner specified in the notice, if—
+(2) The Commissioner may, by written notice given to a person who is a carer of a qualifying child, a liable person, or a payee under this Act, require the person to notify the Commissioner, as soon as practicable and in the manner specified in the notice, if—
   (a) an event or change of circumstances specified in the notice happens; or
   (b) the person becomes aware that an event or change of circumstances specified in the notice is likely to happen.
 (3) An event or change of circumstances must not be specified in a notice under subsection (2) unless the happening of the event or change of circumstances might affect the payment of child support or the annual rate at which it is payable.
@@ -3190,8 +3285,8 @@ Every question of fact arising in any proceeding under this Act (not being crimi
   - **person to whom this section applies** means any person who acquires or has access to or is given, through the agency of the Commissioner pursuant to this section, any information to which this section applies.
 (2) For the purposes of the Tax Administration Act 1994, the following communications shall be deemed to be communications of matters made for the purpose of carrying into effect the provisions of this Act:
   (a) the communication of such information as is necessary for the purpose of any prosecution under any Act of the Parliament of New Zealand or under the law of any country or territory outside New Zealand, or such information as the Commissioner considers desirable for the purpose of any investigation into any suspected offence being a prosecution or, as the case may be, an investigation in relation to—
-    (i) any threat made by a liable parent against the welfare of the custodian of any child of that person or the welfare of that child; or
-    (ii) any threat made by a liable spouse or partner against the welfare of the person to whom the liable spouse or partner is required to make payments under this Act; or
+    (i) any threat made by a liable parent against the welfare of any carer of any child of that person or the welfare of that child; or
+    (ii) any threat made by a liable parent against the welfare of the person to whom the liable parent is required to make payments under this Act; or
     (iii) any threat made by a liable person against the welfare of an officer of the Inland Revenue Department:
   (b) the communication, to the person who, in relation to any liable person and to any financial support payable by the liable person under this Act, is the payee, of such information as the Commissioner considers desirable for the purpose of informing that person of the amount of any such financial support that is in arrear and unpaid by the liable person and the enforcement actions that have been taken or are proposed for the purpose of securing payment of that amount:
   (ba) the communication from time to time, to the person who, in relation to any liable person and to any financial support payable by the liable person under this Act, is the payee, of such information as the Commissioner considers desirable for the purpose of informing that person, in relation to any period, of the amount of any such financial support that has been paid by the liable person for or during that period, and the date or dates on which the payment or payments have been made:
@@ -3215,14 +3310,14 @@ Every question of fact arising in any proceeding under this Act (not being crimi
 (5) The certificate referred to in subsection (3) shall be given in the form prescribed by the Commissioner, and shall include the full name, address, and signature of the person giving the certificate and the date on which the certificate is given.
 (6) The certificate referred to in subsection (3) and subsection (5) shall,—
   (a) where it is given by any persons referred to in paragraph (c) or paragraph (d) of subsection (2), be kept by the department for the time being responsible for the administration of the Social Security Act 1964 as a permanent record; and
-  (b) where it is given by any persons referred to in subsection (2)(db) or (e), be kept by the Ministry of Justice as a permanent record; or
-  (bb) if it is given by any persons referred to in subsection (2)(dc), be kept by the New Zealand Police as a permanent record; or
+  (b) where it is given by any persons referred to in subsection (2)﻿(db) or (e), be kept by the Ministry of Justice as a permanent record; or
+  (bb) if it is given by any persons referred to in subsection (2)﻿(dc), be kept by the New Zealand Police as a permanent record; or
   (c) where it is given by any other person referred to in subsection (2), be kept by the Inland Revenue Department as a permanent record.
 (7) Every person to whom this section applies who knowingly acts in contravention of any provision of this section commits an offence against this section and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000.
 (8) Notwithstanding anything in any other Act, nothing shall prevent the Commissioner or any officer of the Inland Revenue Department from—
   (a) using information obtained under this Act for the purposes of carrying into effect the provisions of any of the Inland Revenue Acts; or
   (b) using information obtained under any of the Inland Revenue Acts for the purposes of carrying into effect the provisions of this Act.
-(9) Sections 81 to 87 of the Tax Administration Act 1994 shall not prevent officers of the Inland Revenue Department from advising persons who potentially are liable persons of the amount of child support that is likely to be payable by that person, based on the returns of income supplied by that person.
+(9) Sections 81 to 87 of the Tax Administration Act 1994 shall not prevent officers of the Inland Revenue Department from advising persons who potentially are liable persons of the amount of child support that is likely to be payable by that person, based on the income of that person.
 (10) No obligation as to secrecy or other restriction upon the disclosure of information imposed by any enactment or otherwise shall prevent the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 or any officer of that department authorised in that behalf from disclosing to the Commissioner—
   (a) information obtained for any purpose and which is required to be disclosed by the persons authorised by this subsection for the purposes of carrying into effect the provisions of this Act:
   (b) information held in relation to any person who is required to make liable parent contributions assessed under the Social Security Act 1964:
@@ -3376,12 +3471,12 @@ Notwithstanding section 241 of this Act, nothing in section 89 of the Accident C
   (a) shall be deemed, for the purposes of enforcement by the Commissioner, to be a qualifying voluntary agreement that has been accepted by the Commissioner under Part 3; and
   (b) the provisions of sections 58 to 65 shall, with the necessary modifications, apply accordingly, except that—
     (i) notwithstanding section 59, child support under the order or agreement shall commence to be payable from 1 July 1992:
-    (ii) notwithstanding section 62 of this Act, child support under the order or agreement shall cease to be payable on the date on which the order or agreement ceases to remain in force or ceases to be registered or confirmed under the Family Proceedings Act 1980, as the case may be, in accordance with section 263(2)(b) of this Act.
+    (ii) notwithstanding section 62 of this Act, child support under the order or agreement shall cease to be payable on the date on which the order or agreement ceases to remain in force or ceases to be registered or confirmed under the Family Proceedings Act 1980, as the case may be, in accordance with section 263(2)﻿(b) of this Act.
 (3) The Commissioner shall, as soon as practicable, give a notice in accordance with section 60 to each party to an order or agreement to which this section applies.
 (4) Any person to whom any such notice is given and who disputes the accuracy of any information given by the Director-General of Social Welfare shall notify the Commissioner in writing of that fact not more than 28 days after the date on which the notice is given.
 (5) Where any such notification is received by the Commissioner,—
   (a) subsection (2) shall not apply; and
-  (b) any party to the order or agreement who wishes the Commissioner to enforce it shall be required to make an application under section 265(2)(a).
+  (b) any party to the order or agreement who wishes the Commissioner to enforce it shall be required to make an application under section 265(2)﻿(a).
 
 ### 265 Enforcement of other child maintenance orders and agreements
 (1) This section applies to every order and agreement to which section 263 applies and in respect of which either—
@@ -3390,23 +3485,23 @@ Notwithstanding section 241 of this Act, nothing in section 89 of the Accident C
     (ii) the names and dates of birth of each child in respect of whom the maintenance is payable; and
     (iii) the amount payable for each child, the frequency of the payments, and the date on which the order ceases to remain in force; and
     (iv) such other information as the Commissioner may require in order to be satisfied that the information required to be provided under section 14 has been provided; or
-  (b) section 264(5)(b) applies.
+  (b) section 264(5)﻿(b) applies.
 (2) Any order or agreement to which this section applies may be enforced in one of the following ways:
   (a) either party to the order or agreement may apply to the Commissioner in writing for acceptance of that order or agreement for the purposes of enforcement; or
   (b) to the extent that paragraph (a) does not apply, all money payable under the order or agreement shall, as soon as it is in arrear and unpaid, constitute a debt by the person against whom the order or agreement was made to the person to whom the money is payable pursuant to the order or agreement, and that money may, without prejudice to any mode of recovery, be enforceable by any person in the same manner as a judgment given in the District Court in civil proceedings.
-(3) Notwithstanding section 55, an application for the purposes of subsection (2)(a) shall be deemed to be properly made if it—
+(3) Notwithstanding section 55, an application for the purposes of subsection (2)﻿(a) shall be deemed to be properly made if it—
   (a) provides satisfactory evidence of—
     (i) the name and last known address of the person required to make payments under the order; and
     (ii) the amount payable towards the maintenance of the applicant, the frequency of payment, and the date on which the order ceases to remain in force; and
   (b) is signed by either party to the order or agreement; and
-  (c) complies with section 55(1)(d) to (g) as if the order or agreement were a voluntary agreement.
+  (c) complies with section 55(1)﻿(d) to (g) as if the order or agreement were a voluntary agreement.
 (4) Where any such application is properly made within the meaning of subsection (3),—
   (a) the order or agreement shall be deemed for the purposes of enforcement by the Commissioner, to be a qualifying voluntary agreement that has been accepted by the Commissioner under Part 3; and
   (b) the provisions of sections 58 to 65 shall, with the necessary modifications, apply accordingly,—except that—
     (i) notwithstanding section 59, child support under the order or agreement shall commence to be payable—
       (A) in any case where the application and all the information required to be provided is received by the Commissioner on or before 30 June 1992, on 1 July 1992; or
       (B) in any case where the application and all the information required to be provided is not received by the Commissioner on or before 30 June 1992, on the day on which the application and all the information required to be provided is received by the Commissioner; and
-    (ii) notwithstanding section 62 of this Act, child support under the order or agreement shall cease to be payable on the date on which the order or agreement ceases to remain in force or ceases to be registered or confirmed under the Family Proceedings Act 1980, as the case may be, in accordance with section 263(2)(b) of this Act.
+    (ii) notwithstanding section 62 of this Act, child support under the order or agreement shall cease to be payable on the date on which the order or agreement ceases to remain in force or ceases to be registered or confirmed under the Family Proceedings Act 1980, as the case may be, in accordance with section 263(2)﻿(b) of this Act.
 
 ### 266 Deferral of commencement of formula assessment in certain cases
 Where—child support under a formula assessment shall, notwithstanding section 18, commence to be payable from such date as the Judge determines in the particular case, being a date that is not earlier than the date on which the application to the Family Court under section 104 was made.
@@ -3426,7 +3521,7 @@ Where—child support under a formula assessment shall, notwithstanding section 
     (ii) a maintenance agreement registered under section 83 of the Family Proceedings Act 1980 which has effect as a maintenance order under section 84 of that Act; or
     (iii) an order made under section 78 or section 81 of the Family Proceedings Act 1980; or
     (iv) any maintenance order made against any person by any court in a Commonwealth or designated country that has been registered in New Zealand under the Family Proceedings Act 1980; and
-  (b) except in the case of an order referred to in paragraph (a)(iv), the amount payable under the order or agreement is not less than $10 per week; and
+  (b) except in the case of an order referred to in paragraph (a)﻿(iv), the amount payable under the order or agreement is not less than $10 per week; and
   (c) the Commissioner obtains the following information from the Director-General of Social Welfare on or before 30 June 1992:
     (i) the name and address of the person entitled to receive payments under the order or agreement; and
     (ii) the amount payable towards the maintenance of that other person, the frequency of the payments, and the date on which the order or agreement ceases to remain in force.
@@ -3436,15 +3531,15 @@ Where—child support under a formula assessment shall, notwithstanding section 
 (3) The Commissioner shall, as soon as practicable, give a notice to each party to an order or agreement to which this section applies specifying the information that has been obtained from the Director-General of Social Welfare under this section.
 (4) Any person to whom any such notice is given and who disputes the accuracy of any information given by the Director-General of Social Welfare shall notify the Commissioner in writing of that fact not more than 28 days after the date on which the notice is given.
 (5) Where any such notification is received by the Commissioner,—
-  (a) in relation to any order or agreement referred to in any of subparagraphs (i), (ii), or (iii) of subsection (1)(a),—
+  (a) in relation to any order or agreement referred to in any of subparagraphs (i), (ii), or (iii) of subsection (1)﻿(a),—
     (i) subsection (2) shall not apply; and
     (ii) the person who is entitled to receive the payments under the order or agreement shall be required to make an application under section 268(1) if that person wishes the Commissioner to enforce the order or agreement:
-  (b) in relation to any order referred to in subparagraph (iv) of subsection (1)(a), the notification shall be deemed to be an objection made under section 90(2) to an appealable decision, and the provisions of this Act shall, with the necessary modifications, apply accordingly.
+  (b) in relation to any order referred to in subparagraph (iv) of subsection (1)﻿(a), the notification shall be deemed to be an objection made under section 90(2) to an appealable decision, and the provisions of this Act shall, with the necessary modifications, apply accordingly.
 
 ### 268 Enforcement of other maintenance orders and agreements
-(1) This section applies to every order and agreement to which section 267(1)(a) and (b) applies and in respect of which either—
-  (a) no application is deemed to be made under section 267(2)(a); or
-  (b) section 267(5)(a)(ii) applies.
+(1) This section applies to every order and agreement to which section 267(1)﻿(a) and (b) applies and in respect of which either—
+  (a) no application is deemed to be made under section 267(2)﻿(a); or
+  (b) section 267(5)﻿(a)﻿(ii) applies.
 (2) The person who is entitled to receive payments under any order or agreement to which this section applies may, in a written application made to the Commissioner, request that the order or agreement be deemed to be an order to which Part 4 applies.
 (3) Every such request shall provide satisfactory evidence of—
   (a) the name and last known address of the person required to make payments under the order or agreement; and
@@ -3537,12 +3632,33 @@ After the commencement date, if any person applies for a variation of a court or
 (3) The Minister may recommend the making of regulations under this clause only if satisfied that the regulations are consistent with the purposes of this Act and clauses 1 to 7 of this schedule, and are necessary or desirable for the orderly implementation of Part 1 of the Child Support Amendment Act 2013.
 (4) This clause expires and is repealed on 1 April 2017.
 
-### 1 Short Title
-This Act may be cited as the Child Support Amendment Act 1992, and shall be read together with and deemed part of the Child Support Act 1991 (hereinafter referred to as the principal Act).
+## Schedule 2 — Care cost percentage
 
-### 2 Meaning of term living allowance
-(1) Amendment(s) incorporated in the Act(s).
-(2) This section shall apply with respect to child support payable in relation to the child support year commencing on 1 July 1992 and subsequent years.
+| Item | Column 1: Proportion of ongoing daily care | Column 2: Care cost percentage |
+| --- | --- | --- |
+| 1 | 0 to 27% | Nil |
+| 2 | 28% to 34% | 24% |
+| 3 | 35% to 47% | 25% plus 2% for each percentage point over 35% |
+| 4 | 48% to 52% | 50% |
+| 5 | 53% to 65% | 51% plus 2% for each percentage point over 53% |
+| 6 | 66% to 72% | 76% |
+| 7 | 73% to 100% | 100% |
+
+## Schedule 3 — Expenditure on children
+
+| Fraction of AWE | Percentages of child support income amounts |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Age group: all children aged 0 to 12 |  |  | Age group: all, or the oldest 3, children aged 13 or over |  |  | Age group: at least 1 child aged 0 to 12, and 1 or 2 children aged 13 or over |  |
+|  | Number of children |  |  | Number of children |  |  | Number of children |  |
+|  | 1 | 2 | 3 or more | 1 | 2 | 3 or more | 2 | 3 or more |
+| Up to and including 0.5 | 17% | 24% | 27% | 23% | 29% | 32% | 26.5% | 29.5% |
+| More than 0.5 but no more than 1 | 15% | 23% | 26% | 22% | 28% | 31% | 25.5% | 28.5% |
+| More than 1 but no more than 1.5 | 12% | 20% | 25% | 12% | 25% | 30% | 22.5% | 27.5% |
+| More than 1.5 but no more than 2 | 10% | 18% | 24% | 10% | 20% | 29% | 19% | 26.5% |
+| More than 2 but no more than 2.5 | 7% | 10% | 18% | 9% | 13% | 20% | 11.5% | 19% |
+| More than 2.5 | † | † | † | † | † | † | † | † |
+| *Average weekly earnings, as published by Statistics New Zealand (for all industries, males and females combined) for the June quarter in the immediately preceding child support year. The weekly earnings are annualised. |  |  |  |  |  |  |  |  |
+| †For child support income amounts that exceed 2.5 times AWE, the marginal expenditure on children does not increase. The relevant amounts to be inserted in a child expenditure table in this row are therefore the maximum amounts from the row immediately above it. |  |  |  |  |  |  |  |  |
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Child Support Amendment Act 1993, and shall be read together with and deemed part of the Child Support Act 1991 (hereinafter referred to as the principal Act).
@@ -3665,7 +3781,7 @@ Except as provided in section 3(5), this Act comes into force on the day after t
 ((1)–(4)) Amendment(s) incorporated in the Act(s).
 (5) This section is deemed to have come into force on 1 April 2001 and applies to child support payable for the child support year that commenced on 1 April 2001 and for subsequent child support years.
 (6) Despite subsection (5), this section does not apply to an assessment for the child support year that commenced on 1 April 2001 if—
-  (a) a liable parent objected to the assessment on the ground set out in section 91(1)(a) of the principal Act because the assessment was based on income from the wrong income year and delivered or posted notice of the objection to the Commissioner before 12 June 2001; and
+  (a) a liable parent objected to the assessment on the ground set out in section 91(1)﻿(a) of the principal Act because the assessment was based on income from the wrong income year and delivered or posted notice of the objection to the Commissioner before 12 June 2001; and
   (b) the assessment is altered by the Commissioner under section 92(4) of the principal Act pursuant to the objection.
 
 ### 4 Maximum rate of child support
@@ -3709,23 +3825,6 @@ This Act comes into force on the day on which it receives the Royal assent.
 (3) Subsections (1) and (2) apply to obligations under the principal Act that arise on and after 1 April 2004.
 
 ### 1 Title
-(1) This Act is the Child Support Amendment Act (No 2) 2005.
-(2) In this Act, the Child Support Act 1991 is called the principal Act.
-
-### 2 Commencement
-(1) Section 3(4) and (5) is deemed to have come into force immediately after the commencement of section 22(2) of the Taxation (Working for Families) Act 2004.
-(2) Section 3(1) to (3), (6), and (7) comes into force on 1 April 2006.
-(3) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
-
-### 3 Meaning of term living allowance
-((1), (2)) Amendment(s) incorporated in the Act(s).
-(3) Subsections (1) and (2) apply for the 2006–07 and subsequent child support years.
-(4) Amendment(s) incorporated in the Act(s).
-(5) Subsection (4) applies for the 2005–06 child support year.
-(6) Amendment(s) incorporated in the Act(s).
-(7) Subsection (6) applies for the 2006–07 and subsequent child support years.
-
-### 1 Title
 This Act is the Child Support Amendment Act 2006.
 
 ### 2 Commencement
@@ -3765,7 +3864,7 @@ This Act is the Child Support Amendment Act 2006.
 ### 46 Pending applications for exemptions
 (1) This section applies to an application for an exemption made under section 73 of the principal Act before the commencement of this section if, before the commencement of this section, the Commissioner has not made a decision under section 74(1) of the principal Act in relation to the application.
 (2) The Commissioner must consider and make a decision on an application to which this section applies as if this Act had not been enacted.
-(3) Despite the amendment of section 90(1)(i) of the principal Act by section 18, that paragraph of the principal Act (as it read immediately before the commencement of this section) continues to apply to an application to which this section applies.
+(3) Despite the amendment of section 90(1)﻿(i) of the principal Act by section 18, that paragraph of the principal Act (as it read immediately before the commencement of this section) continues to apply to an application to which this section applies.
 (4) Subsection (2) does not prevent a person who has made an application to which this section applies from withdrawing the application before the Commissioner has made a decision on it and making a new application to the Commissioner under Part 5A of the principal Act.
 (5) Subsection (4) does not limit section 89H of the principal Act.
 
@@ -3784,7 +3883,7 @@ This Act is the Child Support Amendment Act 2006.
 Every objection made under Part 6 of the principal Act before the commencement of this section that has not, before the commencement of this section, been determined by the Commissioner must be determined by the Commissioner as if this Act had not been enacted.
 
 ### 49 Transitional provision relating to certain pending applications made under principal Act
-(1) This section applies to an application to a Family Court under section 104(2)(b)(i) of the principal Act that was made before the commencement of this section if—
+(1) This section applies to an application to a Family Court under section 104(2)﻿(b)﻿(i) of the principal Act that was made before the commencement of this section if—
   (a) the application has not been heard by the court before the commencement of this section; and
   (b) the person who made the application did not apply for the determination referred to in that subparagraph.
 (2) The person who made the application to which this section applies may, subject to subsection (3), elect to withdraw the application and to appeal to the court under section 103B of the principal Act.
