@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2015-04-01_
 
 > Title
 
@@ -1357,7 +1357,7 @@ The enactments specified in Schedule 2 are hereby repealed.
 |  | Marriage information and civil union information | To verify the marriage or civil union of a person to a New Zealand citizen |
 |  | Death information | To identify deceased holders of temporary entry class visas |
 | Government Superannuation Fund Authority | Birth information, marriage information, civil union information, name change information, and death information | To verify the identity of a member or beneficiary of the Government Superannuation Fund, and the eligibility or continuing eligibility of a member or beneficiary for payments under the Fund |
-| Inland Revenue Department | Birth information, marriage information, civil union information, and name change information | To verify the identity of a person to establish—athe tax file number of the person:bthe details of an applicant for child support |
+| Inland Revenue Department | Birth information, marriage information, civil union information, and name change information | To verify the identity of a person to establish—athe tax file number of the person:bthe details of an applicant for child support:cfor child support purposes, details of the parentage, birth, and death of qualifying children or dependent children |
 |  | Death information | To identify deceased taxpayers and verify their details |
 | Ministry of Education | Birth information, name change information, and death information | To verify and update information on the National Student Index |
 | Ministry of Health | Birth information, name change information, and death information | To verify and update health information on the National Health Index |
