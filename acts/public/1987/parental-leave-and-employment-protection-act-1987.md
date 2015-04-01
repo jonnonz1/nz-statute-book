@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2015-04-01_
 
 > Title
 
@@ -11,7 +11,7 @@ _Consolidation as at 2014-07-01_
 The purpose of this Act is to—
   (a) set minimum entitlements with respect to parental leave for male and female employees; and
   (b) protect the rights of employees during pregnancy and parental leave; and
-  (c) entitle certain employees and self-employed persons to up to 14 weeks of paid parental leave.
+  (c) entitle certain employees and self-employed persons to up to 16 weeks of paid parental leave.
 
 **Interpretation**
 
@@ -158,11 +158,11 @@ Except as otherwise provided in this Act, every female employee—shall be entit
   (b) a period of leave in the nature of maternity leave under any Act other than this Act, or any employment agreement.
 
 ### 9 Duration of maternity leave
-(1) Maternity leave must be taken in 1 continuous period not exceeding 14 weeks, subject to subsection (2).
-(2) If a female employee begins her maternity leave—the female employee shall be entitled to take at least 8 weeks of her maternity leave after the expected date of delivery and, if necessary for that purpose, to extend the duration of her maternity leave.
+(1) Maternity leave must be taken in 1 continuous period not exceeding 16 weeks, subject to subsection (2).
+(2) If a female employee begins her maternity leave—the female employee shall be entitled to take at least 10 weeks of her maternity leave after the expected date of delivery and, if necessary for that purpose, to extend the duration of her maternity leave.
   (a) on a date specified, pursuant to section 13(1), in a certificate; or
   (b) on a date appointed, pursuant to section 14, by her employer,—
-(3) A period of maternity leave in excess of 14 weeks taken by a female employee under subsection (2) is to be treated as maternity leave for the purposes of this Act, but must not be taken into account in assessing under section 26 any period of extended leave to which the female employee or her spouse or partner may be entitled under this Act.
+(3) A period of maternity leave in excess of 16 weeks taken by a female employee under subsection (2) is to be treated as maternity leave for the purposes of this Act, but must not be taken into account in assessing under section 26 any period of extended leave to which the female employee or her spouse or partner may be entitled under this Act.
 
 ### 10 Date of commencement of maternity leave
 Maternity leave shall begin—
@@ -229,7 +229,7 @@ Partner's/paternity leave must be taken in 1 continuous period not exceeding—
   (b) employee A's spouse or partner (employee B) is entitled to partner's/paternity leave under section 17(c)(ii) or 18(1)(b)(ii); and
   (c) employee A transfers all or part of his or her entitlement to parental leave payments to employee B under section 71E.
 (2) Employee B's entitlement to partner's/paternity leave is extended so that it is the same as the period of parental leave payments transferred to him or her.
-(3) However, if section 7(b)(ii) or section 8(1)(b)(ii) or section 18(1)(b)(ii) applies to employee A, the total period formed by adding together maternity leave or partner's/paternity leave taken by employee A and extended partner's/paternity leave taken by employee B may not exceed 14 weeks.
+(3) However, if section 7(b)(ii) or section 8(1)(b)(ii) or section 18(1)(b)(ii) applies to employee A, the total period formed by adding together maternity leave or partner's/paternity leave taken by employee A and extended partner's/paternity leave taken by employee B may not exceed 16 weeks.
 (4) The taking by employee B of partner's/paternity leave under section 19 does not reduce the leave entitlements of either employee under subsection (3).
 
 ### 19AB Extension of partner's/paternity leave entitlements for spouses or partners of self-employed persons in certain circumstances
@@ -244,7 +244,7 @@ Partner's/paternity leave must be taken in 1 continuous period not exceeding—
   (a) assumes alone, with a view to adoption, the care of a child; or
   (b) is nominated as primarily entitled to a parental leave payment under section 71H.
 (2) The employee's entitlement to partner's/paternity leave is the shorter of the following:
-  (a) 14 weeks (including any period of partner's/paternity leave to which the employee is entitled under section 19):
+  (a) 16 weeks (including any period of partner's/paternity leave to which the employee is entitled under section 19):
   (b) if subsection (1)(b) applies, the period during which the employee receives the parental leave payment.
 
 ### 20 Date of commencement of partner's/paternity leave
@@ -285,7 +285,7 @@ Except as otherwise provided in this Act, and subject to sections 25 to 30, ever
 
 ### 26 Duration of extended leave
 (1) Subject to subsections (2) and (4) and to sections 27 to 30, extended leave may be taken by the employee and the employee's spouse or partner in no more than 1 continuous period each, the combined total of which does not exceed 52 weeks.
-(2) Where, on any occasion, a female employee takes maternity leave, the period of extended leave to which she or her spouse or partner is entitled in respect of the child shall be the period specified in subsection (1) reduced by the total period of the maternity leave taken excluding any period of maternity leave in excess of 14 weeks taken pursuant to section 9(2).
+(2) Where, on any occasion, a female employee takes maternity leave, the period of extended leave to which she or her spouse or partner is entitled in respect of the child shall be the period specified in subsection (1) reduced by the total period of the maternity leave taken excluding any period of maternity leave in excess of 16 weeks taken pursuant to section 9(2).
 (3) The taking by a female employee of any special leave pursuant to section 15 shall not reduce the period of extended leave to which that female employee or her spouse or partner is entitled in accordance with this Act.
 (4) The taking by an employee of a period of partner's/paternity leave affects the period of extended leave to which the employee and his or her spouse or partner are entitled in accordance with this Act as follows:
   (a) the period is not reduced by the taking of partner's/paternity leave referred to in section 19:
@@ -293,10 +293,10 @@ Except as otherwise provided in this Act, and subject to sections 25 to 30, ever
 
 ### 27 Extended leave to be shared between parents
 (1) Subject to the provisions of this Act, where an employee and that employee's spouse or partner are both entitled to extended leave pursuant to section 23 or section 24, the combined entitlements of that employee and that employee's spouse or partner to extended leave under this Act shall be a total period or periods not exceeding 52 weeks which shall be shared between them in accordance with subsection (2).
-(2) Subject to the provisions of this Act, the period or periods of extended leave provided by section 26(1) shall be shared between an employee and that employee's spouse or partner in one of the following ways:
+(2) Subject to the provisions of this Act, the period or periods of extended leave provided by section 26(1)shall be shared between an employee and that employee's spouse or partner in one of the following ways:
   (a) by either the employee or the employee's spouse or partner taking the full period of extended leave, or any lesser period, in a continuous period not exceeding 52 weeks, and by the other of them not taking any period of maternity or extended leave under this Act:
   (b) by both the employee and the employee's spouse or partner each taking 1 period of extended leave in such a manner that the total period formed by adding together the 2 periods of extended leave does not exceed 52 weeks, and by neither the employee nor the employee's spouse or partner taking any period of maternity leave under this Act:
-  (c) by either the employee or the employee's spouse or partner taking a period of maternity leave and by either or both of the employee and the employee's spouse or partner each taking 1 period of extended leave in such a manner that the total period formed by adding together the period or periods of extended leave and the period of maternity leave (excluding any period of maternity leave in excess of 14 weeks taken under section 9(2)) does not exceed 52 weeks:
+  (c) by either the employee or the employee's spouse or partner taking a period of maternity leave and by either or both of the employee and the employee's spouse or partner each taking 1 period of extended leave in such a manner that the total period formed by adding together the period or periods of extended leave and the period of maternity leave (excluding any period of maternity leave in excess of 16 weeks taken under section 9(2)) does not exceed 52 weeks:
   (d) in such a manner as may be agreed on by the employee and the employee's spouse or partner and their respective employers.
 
 ### 28 Extended leave may be taken consecutively or concurrently with other parent's leave or parental leave payments
@@ -342,7 +342,7 @@ Where any notice is given in accordance with section 31 by an employee wishing t
     (i) the employee; and
     (ii) the employee's spouse or partner,—
   (d) contain an assurance by the employee that the aggregate periods of—that are proposed to be taken in respect of the child by the employee and the employee's spouse or partner will not exceed 52 weeks.
-    (i) all maternity leave (other than maternity leave in excess of 14 weeks taken under section 9(2)) and extended leave under this Act; and
+    (i) all maternity leave (other than maternity leave in excess of 16 weeks taken under section 9(2)) and extended leave under this Act; and
     (ii) all leave (other than partner's/paternity leave) to which the employee or the employee's spouse or partner is entitled by or under any Act other than this Act or under any employment agreement,—
 
 ### 33 Requirements where child to be adopted
@@ -445,7 +445,7 @@ Where an employee resumes service with the same employer at the end of a period 
     (ii) subject to section 44, as service for the purpose of any superannuation scheme to which the employee belongs in the employee's capacity as an employee of the employer.
 
 ### 44 Contributions to superannuation schemes
-Nothing in section 43(b)(ii) shall—
+Nothing in section 43(b)(ii)shall—
   (a) entitle an employee to have any period counted as service for the purposes of a superannuation scheme if the employee is required to pay contributions in respect of that period and has not done so; or
   (b) relieve an employee from any obligation under a superannuation scheme to pay contributions in respect of any period during which the employee is on parental leave or during which the employee is entitled, following parental leave, to preference in obtaining employment with the employee's employer.
 
@@ -461,12 +461,12 @@ Nothing in section 43(b)(ii) shall—
 (2) Where a female employee is on maternity leave under section 7, an employer may, in giving consent under subsection (1)(e), make it conditional on the female employee giving to the employer, before the female employee ends her maternity leave under subsection (1)(f) or subsection (1)(g), a certificate from a medical practitioner to the effect that the female employee is fit to return to work.
 (3) Subject to subsection (4), an employee who is on parental leave may, if the employer consents, extend the parental leave until a specified date which shall thereafter be the date on which the employee's parental leave will end.
 (4) Without limiting any right of an employee to take a period of leave otherwise than by virtue of this Act, and subject to section 9(2), nothing in subsection (3) of this section shall entitle an employee to extend any period of parental leave with the result that,—
-  (a) in the case of a period of maternity leave, the period of maternity leave exceeds 14 weeks:
+  (a) in the case of a period of maternity leave, the period of maternity leave exceeds 16 weeks:
   (b) in the case of a period of partner's/paternity leave, the duration of partner's/paternity leave exceeds—
     (i) 2 weeks if section 17(c)(i) or section 18(1)(b)(i) applies to the employee; or
     (ii) 1 week if section 17(c)(ii) or section 18(1)(b)(ii) applies to the employee:
   (c) in the case of a period of extended leave, the period of extended leave, when aggregated with—exceeds 52 weeks.
-    (i) all maternity leave (other than maternity leave in excess of 14 weeks taken under section 9(2)) and extended leave taken or proposed to be taken by the employee or the employee's spouse or partner under this Act; and
+    (i) all maternity leave (other than maternity leave in excess of 16 weeks taken under section 9(2)) and extended leave taken or proposed to be taken by the employee or the employee's spouse or partner under this Act; and
     (ii) all leave (excluding partner's/paternity leave) taken or proposed to be taken by the employee or the employee's spouse or partner under any other Act or under any employment agreement,—
 
 ### 46 Failure to return to work
@@ -688,7 +688,7 @@ Nothing in this Act shall limit the procedures by which State employees may enfo
 **Preliminary provisions**
 
 ### 71A Purpose
-The purpose of this Part is to entitle certain employees and self-employed persons to up to 14 weeks of parental leave payments out of public money when they take parental leave.
+The purpose of this Part is to entitle certain employees and self-employed persons to up to 16 weeks of parental leave payments out of public money when they take parental leave.
 
 ### 71B Overview
 (1) Section 71A and this section are preliminary provisions relating to the parental leave scheme.
@@ -851,8 +851,8 @@ To the extent that an employee or a self-employed person transfers all or part o
 
 ### 71J Duration of parental leave payment
 A parental leave payment is payable—
-  (a) for 1 continuous period not exceeding 14 weeks; or
-  (b) if part of the entitlement is transferred under section 71E, for 1 continuous period per employee or self-employed person, so long as the 2 continuous periods do not together exceed 14 weeks.
+  (a) for 1 continuous period not exceeding 16 weeks; or
+  (b) if part of the entitlement is transferred under section 71E, for 1 continuous period per employee or self-employed person, so long as the 2 continuous periods do not together exceed 16 weeks.
 
 ### 71K Start of parental leave payment
 (1) A parental leave payment is payable to an employee for a period that begins on the date of commencement of his or her parental leave.
@@ -863,7 +863,7 @@ A parental leave payment is payable—
 
 ### 71L End of parental leave payment for employees
 (1) A parental leave payment is payable to an employee for a period that ends on the earlier of—
-  (a) 14 weeks after the date of commencement of his or her parental leave; or
+  (a) 16 weeks after the date of commencement of his or her parental leave; or
   (b) the date on which he or she returns to work or resigns from his or her employment.
 (2) Subsection (1) applies despite the fact that the employee's parental leave may end before that date if—
   (a) the employee's employment is terminated due to redundancy or dismissal for cause:
@@ -872,11 +872,11 @@ A parental leave payment is payable—
 (3) However, the period for which a parental leave payment is payable to an employee terminates earlier than the date referred to in subsection (1)—
   (a) if the employee takes parental leave only from fixed term employment (within the meaning of section 66 of the Employment Relations Act 2000), in which case the payment stops on the date on which fixed term employment ends; or
   (b) if the employee's spouse or partner succeeds to the parental leave payment entitlement under section 72B, in which case the payment to the employee stops on the date of succession.
-(4) This section is subject to section 71EA (effect of transfer of entitlement to spouse or partner).
+(4) This section is subject to section 71EA(effect of transfer of entitlement to spouse or partner).
 
 ### 71LA End of parental leave payment for self-employed persons
 (1) A parental leave payment is payable to a self-employed person for a period that ends on the earliest of—
-  (a) 14 weeks after the date of commencement of his or her parental leave; or
+  (a) 16 weeks after the date of commencement of his or her parental leave; or
   (b) the date on which the self-employed person returns to work; or
   (c) the date on which the self-employed person ceases self-employment.
 (2) The period does not end earlier than the date referred to in subsection (1) even though the self-employed person's parental leave may end earlier because—
@@ -903,7 +903,7 @@ A parental leave payment is payable—
 (2)
 
 ### 71N Annual adjustment of maximum rates of parental leave payment
-(1) The rate of parental leave payment that applies under section 71M(1)(a) and section 71M(1A)(a) must be adjusted, by Order in Council, as at 1 July each year by any percentage movement upwards in average ordinary time weekly earnings.
+(1) The rate of parental leave payment that applies under section 71M(1)(a)and section 71M(1A)(a) must be adjusted, by Order in Council, as at 1 July each year by any percentage movement upwards in average ordinary time weekly earnings.
 (2) In this section, average ordinary time weekly earnings means average ordinary time weekly earnings (employees) as determined by the Quarterly Employment Survey published by Statistics New Zealand.
 (3) The Order in Council must not reduce the amount.
 (4) The Order in Council comes into force, or is considered to come into force, on 1 July of the calendar year in which it is made, and applies to parental leave payment payable on and after that date.
