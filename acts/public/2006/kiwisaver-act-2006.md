@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2015-03-31_
+_Consolidation as at 2015-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -688,7 +688,7 @@ This subpart applies when, because of a mistake,—
 (4) The refund amount must be paid to the person, their employer, the Crown, and any other person making a contribution in respect of the person, in proportion to the Commissioner’s best estimate of what they contributed, taking into account amounts described in subsection (3)(a)(i) to (iv).
 (5) When the Commissioner has paid the refund amount, the amount of member’s accumulation for the person previously paid to the Commissioner (the accumulation money), and the contributions held by the Commissioner in respect of the person in the holding account described in section 72 including interest under section 84 (the holding account money) are treated in the following ways:
   (a) the accumulation money and the holding account money are public money, and are not trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989:
-  (b) subpart 2 of Part 3 does not apply to the accumulation money and holding account money, and the Commissioner must pay the money into the Crown Bank account.
+  (b) subpart 2of Part 3 does not apply to the accumulation money and holding account money, and the Commissioner must pay the money into the Crown Bank account.
 
 ## Part 3 — KiwiSaver contributions
 
@@ -891,7 +891,7 @@ Part 2 of the Trustee Act 1956 does not apply to the Commissioner in respect of 
 (2) The interest rate calculated using the formula is expressed as a percentage, rounded to 2 decimal places, with numbers at the midpoint or greater being rounded up and other numbers being rounded down.
 
 ### 87 Amount of interest payable
-The amount of interest payable by the Commissioner in respect of a person is calculated in accordance with the following formula:(interest rate × contribution) ×interest period365where—
+The amount of interest payable by the Commissioner in respect of a person is calculated in accordance with the following formula:The following table is small in size and contains a formula.(interest rate × contribution) ×interest period365where—
   - **contribution** is the amount of contribution in respect of the person to whom the interest is payable
   - **interest period** is the number of days in the period that begins on the day on which the Commissioner receives, or is treated as receiving, the amount of contribution and ends with the day on which the Commissioner on-pays the amount of contribution to the provider of the person’s KiwiSaver scheme or refunds the amount under this Part (except section 81)
   - **interest rate** is the rate calculated under section 86.
@@ -970,7 +970,7 @@ For the purposes of the Income Tax Act 2007 and the Tax Administration Act 1994,
 (1) This section applies if—
   (a) an employer, for a PAYE period, shows payments of employer contribution under this subpart on a remittance certificate or employer monthly schedule in respect of more than 1 of the employer’s employees; and
   (b) the total amount received by the Commissioner for that PAYE period in respect of employer contribution under this subpart is less than the amounts shown on the remittance certificate and employer monthly schedule in respect of all of those employees.
-(2) For the purposes of this subpart, the amount of employer contribution (gross of any ESCT) that the Commissioner is treated as receiving for any one employee is given by the following formula:a × bcwhere—
+(2) For the purposes of this subpart, the amount of employer contribution (gross of any ESCT) that the Commissioner is treated as receiving for any one employee is given by the following formula:The following table is small in size and contains a formulaa × bcwhere—
   (a) is the total employer contributions received by the Commissioner under this subpart for all of the employer’s employees for the month to which the employer monthly schedule relates
   (b) is the employer contribution shown on the employer monthly schedule for the relevant employee for the month to which the employer monthly schedule relates
   (c) is the total employer contributions shown on either or both of the remittance certificate or employer monthly schedule for all of the employer’s employees for the month to which the employer monthly schedule relates.
@@ -1645,7 +1645,7 @@ An amount of compulsory employer contribution for an employee's complying supera
     (i) the employee is legally entitled to require the employer to contribute that amount on his or her behalf; and
     (ii) the trust deed of the scheme provides for the minimum amount required by section 147(1)(c) to vest completely in the employee no later than the time when the employee begins his or her sixth year as a member of the scheme; and
   (d) any amount contributed to the scheme by an employer in respect of an employee must be calculated, for the purposes of the minimum amount required by section 147(1)(c), before any ESCT payable under the ESCT rules is deducted.
-(2) Subsection (1)(b) does not limit subsection (1)(c) or (d).ExampleCompany A provides access to a superannuation scheme for its employees. The trust deed provides that employees, if they decide to become members, must contribute at either 1% or 3% of annual gross base salary. The employer is obliged to match the employee’s contributions (eg, if employee contributes 1%, the company must contribute 1%).The scheme complies with the rule as to the 4% minimum contribution as follows:Minimum amount employee member must contribute1%Maximum amount that employer must contribute in respect of employee member3%4%
+(2) Subsection (1)(b) does not limit subsection (1)(c) or (d).ExampleCompany A provides access to a superannuation scheme for its employees. The trust deed provides that employees, if they decide to become members, must contribute at either 1% or 3% of annual gross base salary. The employer is obliged to match the employee’s contributions (eg, if employee contributes 1%, the company must contribute 1%).The scheme complies with the rule as to the 4% minimum contribution as follows:The following table is small in size and contains 2 columns without headings.Minimum amount employee member must contribute1%Maximum amount that employer must contribute in respect of employee member3%4%
 
 ### 149 Exempt employers who provide access to more than 1 scheme
 An employer who provides access to more than 1 superannuation scheme or workplace savings scheme for its employees is eligible to continue to be an exempt employer if the FMA is satisfied that, if all of those schemes were considered as a whole (as if they were 1 scheme), the rules in section 147 would be complied with.
@@ -2058,7 +2058,7 @@ A Crown contribution paid in respect of a member of a KiwiSaver scheme under sec
   (i) providing for fees or charges that must be treated as fees for the purposes of this Act:
   (j) prescribing matters that are relevant to a determination or consideration as to whether a fee is unreasonable for the purposes of clause 2 of the KiwiSaver scheme rules or section 118:
   (k) prescribing circumstances in which the purchase of an estate in land enables a withdrawal under clause 8 of the KiwiSaver scheme rules:
-  (l) prescribing circumstances for the purposes of clause 8(3)(a) of the KiwiSaver scheme rules or prescribing who is a qualifying person for the purpose of clause 8(3)(c)(ii) of the KiwiSaver scheme rules:
+  (l) prescribing circumstances for the purposes of clause 8(3)(a) and (3B)(a) of the KiwiSaver scheme rules or prescribing who is a qualifying person for the purpose of clause 8(3)(c)(ii) and (3B)(c)(ii) of the KiwiSaver scheme rules:
   (m) prescribing matters that may be regarded as matters from which significant financial difficulties have arisen for the purposes of clause 11 of the KiwiSaver scheme rules:
   (n) recognising specific foreign superannuation schemes or classes of specific foreign superannuation schemes that are based in named countries as schemes to which funds can be transferred on permanent emigration under the provision implied by clause 14 of the KiwiSaver scheme rules:
   (o) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
@@ -2150,6 +2150,15 @@ If an effect of the enactment of sections 166, 231, and 234 of the Taxation (Ann
   (a) a prospectus that is registered under the Securities Act 1978 on or before assent day:
   (b) an investment statement under the Securities Act 1978 that is dated on or before assent day.
 
+### 239 Protection from non-compliance: Taxation (KiwiSaver HomeStart and Remedial Matters) Act 2015
+Non-compliance with an enactment related to securities is ignored if the non-compliance—
+  (a) results from the enactment of sections 8 and 9 of the Taxation (KiwiSaver HomeStart and Remedial Matters) Act 2015, or from changes made by the Government to the subsidy previously known as the KiwiSaver first home deposit subsidy that take effect on and after 1 April 2015; and
+  (b) relates to—
+    (i) a prospectus that is registered under the Securities Act 1978 before 1 June 2015:
+    (ii) an investment statement under the Securities Act 1978 that is dated before 1 June 2015:
+    (iii) a product disclosure statement under the Financial Markets Conduct Act 2013 that is lodged on or before 1 June 2015; and
+  (c) if the non-compliance relates to a product disclosure statement referred to in paragraph (b)(iii), the period of the non-compliance ends before 1 April 2016.
+
 ## Schedule 1 — KiwiSaver scheme rules
 
 ### 1 Application
@@ -2240,9 +2249,10 @@ A manager may reasonably require a member who applies to make a permitted withdr
 ### 8 Withdrawal for purpose of purchase of first home
 (1) This clause applies to a member if the member has not made a withdrawal under this clause before (whether or not from the member's current KiwiSaver scheme or from a KiwiSaver scheme to which the person previously belonged) and,––
   (a) at least 3 years have expired after the Commissioner received the first contribution in respect of the person (whether or not a contribution in relation to the scheme of which the member is currently a member); or
+  (ab) the person has been a member of a complying superannuation fund for a period of 3 years or more; or
   (b) the person has been a member of 1 or more KiwiSaver schemes for a period of 3 years or more.
 (2) Every amount of contribution that is deducted from salary or wages under this Act is treated, for the purpose of subclause (1)(a), as received by the Commissioner on the 15th day of the month in which the deduction is made.
-(3) A member to whom this clause applies may make a withdrawal from the KiwiSaver scheme of which the member is currently a member for the purchase of an estate in land (whether alone or as a joint tenant or tenant in common) if—
+(3) A member to whom this clause applies may make a withdrawal from the KiwiSaver scheme of which the member is currently a member for the purchase of an estate in land located in New Zealand (whether alone or as a joint tenant or tenant in common) if—
   (a) the purchase is made in the prescribed circumstances; or
   (b) both of the following apply:
     (i) the land is, or is intended to be, the principal place of residence for the member or for the member and members of the member’s family; and
@@ -2250,22 +2260,38 @@ A manager may reasonably require a member who applies to make a permitted withdr
   (c) both of the following apply:
     (i) the land is, or is intended to be, the principal place of residence for the member or for the member and members of the member’s family; and
     (ii) the member is a qualifying person under the regulations.
+(3B) A member to whom this clause applies may make a withdrawal from the KiwiSaver scheme of which the member is currently a member for the purchase of an interest in a dwellinghouse on Maori land if—
+  (a) the purchase is made in the prescribed circumstances; or
+  (b) both of the following apply:
+    (i) the dwellinghouse is, or is intended to be, the principal place of residence for the member or for the member and the member’s family; and
+    (ii) the member has not, at any time before applying to make a withdrawal under this clause (whether before or after becoming a member of the KiwiSaver scheme), held an estate in land (whether alone or as a joint tenant or tenant in common); or
+  (c) both of the following apply:
+    (i) the dwellinghouse is, or is intended to be, the principal place of residence for the member or for the member and the member’s family; and
+    (ii) the member is a qualifying person under the regulations.
 (4) A member may not make a withdrawal under this clause of more than an amount equal to the member's accumulation, at the time of the withdrawal, less the total of the following 2 amounts:
-  (a) the amount of the Crown contribution (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution):
+  (a) the amount of the contribution made by the Crown under section 226 (disregarding any positive or negative returns for the purpose of calculating the amount of that contribution):
   (b) the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount).
-(5) If a person holds an estate in land in any of the following circumstances, that estate must be disregarded for the purposes of subclause (3)(b)(ii):
+(5) If a person holds an estate in land in any of the following circumstances, that estate must be disregarded for the purposes of subclauses (3)(b)(ii) and (3B)(b)(ii):
   (a) the person holds the estate in land as a bare trustee:
   (ab) the estate in land is a leasehold estate:
+  (ac) the estate in land is an interest in Maori land:
   (b) the person holds the estate in land as a trustee who—
     (i) is a discretionary, contingent, or vested beneficiary under the relevant trust; but
     (ii) has no reasonable expectation of being entitled to occupy the land as the principal place of residence for the person or the person’s family until the death of the person who currently occupies the land (the occupier) or the death of the occupier’s survivor.
-(6) In this clause, estate means a fee simple estate, a leasehold estate or a stratum estate.
-(7) It is a condition of subclause (3) that—
-  (a) any withdrawal made under that provision must be paid to a practitioner (within the meaning of section 6 of the Lawyers and Conveyancers Act 2006) acting on behalf of the member; and
-  (b) the manager may require from that practitioner, before payment of the withdrawal,—
-    (i) a copy of an agreement for the sale and purchase of the estate in land showing the member as purchaser; and
-    (ii) an undertaking that the agreement is unconditional at the time the manager makes the request; and
-    (iii) an undertaking that the funds will be paid to the vendor as part of the purchase price or, if the settlement is not completed by the due date or any extended date, repaid to the manager on account of the member.
+(6) In this clause,––
+  - **dwellinghouse** means a building that is intended to have as its principal use occupation as a private residence
+  - **estate** means a fee simple estate, a leasehold estate, or a stratum estate
+  - **Maori land** has the same meaning as in the Te Ture Whenua Maori Act 1993.
+(7) It is a condition of subclauses (3) and (3B) that—
+  (a) any withdrawal made under the relevant provision must be paid—
+    (i) first, from the member’s accumulation excluding the Crown contribution (disregarding any positive or negative returns for the purpose of calculating the amount of that contribution) paid in respect of the member; and
+    (ii) second, from the Crown contribution excluding the amount described in subclause (4)(a); and
+  (b) any withdrawal made under the relevant provision must be paid to a practitioner (within the meaning of section 6 of the Lawyers and Conveyancers Act 2006) acting on behalf of the member; and
+  (c) the manager may require from that practitioner, before payment of the withdrawal,—
+    (i) a copy of an agreement for the sale and purchase (the agreement) of the estate in land or of the interest in a dwellinghouse on Maori land, showing the member as purchaser; and
+    (ii) for an interest in a dwellinghouse on Maori land, evidence of the member’s right to occupy the Maori land; and
+    (iii) an undertaking that the agreement is unconditional at the time the manager makes the request; and
+    (iv) an undertaking that the funds will be paid to the vendors as part of the purchase price or will be repaid to the manager on account of the member if settlement of the agreement is not completed by the due date or any extended date.
 (8) This clause is subject to the terms of any participation agreement that restricts or prevents the withdrawal of employer vested contributions that are not compulsory employer contributions in relation to the member.
 
 ### 9 Withdrawal on death
@@ -2306,10 +2332,10 @@ If a member dies, the manager must,––
   (b) may require that any other documents, things, or information produced in support of the application be verified by oath, statutory declaration, or otherwise.
 
 ### 14 Withdrawal or transfer to foreign scheme in cases of permanent emigration
-(1) Subject to clause 14B, a member may, on application to the manager, and no earlier than 1 year after the member's permanent emigration from New Zealand, withdraw an amount equal to the member's accumulation, at the time of the withdrawal, less the total of the following 2 amounts:
+(1) Unless clause 14B applies, a member may, on application to the manager, and no earlier than 1 year after the member's permanent emigration from New Zealand, withdraw an amount equal to the member's accumulation, at the time of the withdrawal, less the total of the following 2 amounts:
   (a) the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution):
   (b) the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount).
-(2) Subject to clause 14B, a member may, on application to the manager, at any time after the member's permanent emigration from New Zealand, have the manager transfer to a foreign superannuation scheme authorised for that purpose under regulations made under section 228 the member's accumulation, less the total of the following 2 amounts:
+(2) Unless clause 14B applies, a member may, on application to the manager, at any time after the member's permanent emigration from New Zealand, have the manager transfer to a foreign superannuation scheme authorised for that purpose under regulations made under section 228 the member's accumulation, less the total of the following 2 amounts:
   (a) the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purpose of calculating the amount of the Crown contribution):
   (b) the amount that was transferred from an Australian complying superannuation scheme (disregarding any positive or negative returns for the purpose of calculating that amount).
 (3) An application under subclause (1) or (2) must be in the form required by the manager and must include—
@@ -2320,7 +2346,7 @@ If a member dies, the manager must,––
 (4) The manager may require that any other documents, things, or information produced in an application under subclause (1) or (2) be verified by oath, statutory declaration, or otherwise.
 
 ### 14B Exceptions to clause 14 for Australian permanent emigration
-(1) For a KiwiSaver scheme (but not for a complying superannuation fund) a member may not withdraw any amount, or have the manager transfer any amount, after the member's permanent emigration to Australia, except as provided by this clause.
+(1) This clause applies for a KiwiSaver scheme (but not for a complying superannuation fund) after a member’s permanent emigration to Australia.
 (2) At any time after the member's permanent emigration to Australia, a member may, on application to the manager, have the manager transfer the member's accumulation to an Australian complying superannuation scheme.
 (3) As soon as practicable after receiving a satisfactory application, the manager must transfer the whole of the member's accumulation to the relevant Australian complying superannuation scheme and provide that scheme with any necessary information it reasonably requires.
 (4) An application under subclause (2) must be in the form required by the manager and must include––
