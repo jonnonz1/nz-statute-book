@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2014-08-07_
+_Consolidation as at 2015-04-10_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -138,7 +138,7 @@ In this Act, unless the context otherwise requires,—
     (c) spouses or partners of veterans
   - **partner** means a civil union partner or a de facto partner
   - **review decision** means a decision made by a review officer, a review panel, or the general manager under subpart 2 of Part 7
-  - **review officer** means a member or a contractor of the Defence Force appointed by the general manager (or by the Chief of Defence Force if section 219(2)(b) applies) to conduct reviews under subpart 2 of Part 7
+  - **review officer** means a member or a contractor of the Defence Force appointed by the general manager (or by the Chief of Defence Force if section 219(2)⁠(b) applies) to conduct reviews under subpart 2 of Part 7
   - **review panel** means a Veterans' Service Review Panel established under section 223
   - **service-related** , in relation to an injury, an illness, a condition, or a whole-person impairment, means an injury, an illness, or a whole-person impairment caused by, contributed to by, or aggravated by qualifying service
   - **service-related death** ,—
@@ -185,7 +185,7 @@ In this Act, unless the context otherwise requires,—
   (b) the area (whether land, sea, or airspace) in which the deployment is to be operational service; and
   (c) the period during which the deployment is to be operational service.
 (4) The Chief of Defence Force must advise the Minister when the deployment ends or the threats posed to members on which the Minister relied in making a declaration under subsection (3) escalate, abate, or cease.
-(5) The Minister may, by notice in the Gazette, shorten or extend the period specified under subsection (3)(c) if,—
+(5) The Minister may, by notice in the Gazette, shorten or extend the period specified under subsection (3)⁠(c) if,—
   (a) in the case of shortening the period, the Minister is satisfied that the deployment has ceased or will cease to pose a significant risk of harm to members of the deployed force before the expiry of the period; and
   (b) in the case of extending the period, the Minister is satisfied that the deployment will continue to pose a significant risk of harm to members of the deployed force after the expiry of the period.
 (6) For the purposes of this section,—
@@ -364,7 +364,7 @@ The production in proceedings of a statement of principles or an amendment of a 
   (c) participate in rehabilitation, including—
     (i) co-operating with VANZ in the development and implementation of any individual rehabilitation plan; and
     (ii) undergoing, at VANZ's expense, assessment of present and likely capabilities for the purposes of rehabilitation.
-(3) If VANZ requires the veteran or other claimant to do so, he or she must provide the information referred to in subsection (2)(a) in a form supplied or specified by VANZ.
+(3) If VANZ requires the veteran or other claimant to do so, he or she must provide the information referred to in subsection (2)⁠(a) in a form supplied or specified by VANZ.
 (4) If a veteran or other claimant fails to comply with a requirement under subsection (1) or (2), VANZ may cease payment of an entitlement to which the requirement relates.
 (5) VANZ may cease payment of an entitlement under subsection (4) only if—
   (a) VANZ has given the veteran or other claimant written notice of its intention to cease payment because the veteran or other claimant has failed to comply with the requirement; and
@@ -380,10 +380,10 @@ The production in proceedings of a statement of principles or an amendment of a 
   (b) while the veteran was committing an offence under New Zealand law or committing an act overseas that, had it been done in New Zealand, would have been an offence under New Zealand law:
   (c) in the case of death, the death was self-inflicted (unless occurring during qualifying operational service), but only in relation to entitlements under Part 4 (Scheme Two):
   (d) the injury, illness, or death was predominantly caused by or significantly aggravated by the use of alcohol or tobacco products, the misuse of illegal or prescription drugs, or the contracting of a sexually transmitted disease, but only in relation to entitlements under Part 4 (Scheme Two).
-(2) Despite subsection (1), VANZ may provide entitlements that would otherwise be excluded by subsection (1)(c) and (d) if VANZ is satisfied on reasonable grounds that—
+(2) Despite subsection (1), VANZ may provide entitlements that would otherwise be excluded by subsection (1)⁠(c) and (d) if VANZ is satisfied on reasonable grounds that—
   (a) the injury, illness, or death was due to a psychological condition that was attributed to or aggravated by the experiences of the veteran during qualifying operational service; or
   (b) in the case of a sexually transmitted disease, the disease resulted from suffering a sexual assault.
-(3) For the purposes of subsection (1)(a), the finding of a military tribunal (within the meaning of the Armed Forces Discipline Act 1971) that a veteran was a deserter or absent without leave is conclusive proof that the veteran was a deserter or absent without leave.
+(3) For the purposes of subsection (1)⁠(a), the finding of a military tribunal (within the meaning of the Armed Forces Discipline Act 1971) that a veteran was a deserter or absent without leave is conclusive proof that the veteran was a deserter or absent without leave.
 (4) Claims to entitlements under this Act in relation to injury or illness are excluded to the extent that the injury or illness is due wholly or substantially to the ageing process.
 
 ### 29 Disentitlement during imprisonment
@@ -461,7 +461,7 @@ The production in proceedings of a statement of principles or an amendment of a 
   (a) by notice in the Gazette, approve the Code; and
   (b) present the Code to the House of Representatives within 12 sitting days after approving the Code; and
   (c) arrange for the approval of the Code to be notified in daily newspapers published in Auckland, Hamilton, Wellington, Christchurch, and Dunedin.
-(2) A notice given under subsection (1)(c) must state where copies of the Code may be obtained.
+(2) A notice given under subsection (1)⁠(c) must state where copies of the Code may be obtained.
 (3) The Code comes into force—
   (a) on the date specified for that purpose in the Code, being a date after the date on which the Code is approved; or
   (b) if no such date is specified, the day after the date on which the Code is approved.
@@ -573,7 +573,7 @@ Regulations may be made under section 265 specifying—
 (5) To avoid doubt, a veteran's temporary disablement pension may be made permanent, even though the veteran is assessed at 0% whole-person impairment and therefore not entitled to a disablement pension, on either or both of the following grounds:
   (a) the need for ongoing treatment to deal with the effects of the disablement:
   (b) the potential for the disablement to return or recur.
-(6) If VANZ makes a determination under subsection (4)(b), it must notify the veteran of a further date by which the veteran's disablement is to be reassessed.
+(6) If VANZ makes a determination under subsection (4)⁠(b), it must notify the veteran of a further date by which the veteran's disablement is to be reassessed.
 (7) For the purposes of the reassessment under subsection (6), subsection (4) applies with all necessary modifications as if the reference to the date in subsection (3) were a reference to the date specified under subsection (6).
 
 ### 50 Suspension of temporary disablement pension
@@ -605,8 +605,8 @@ VANZ must, in consultation with a veteran whose disablement pension is temporary
 (5) If, during the 12-month period, the rate of payment of the disablement pension is adjusted, the veteran is entitled to an additional lump sum payment equal to the difference between—
   (a) what the veteran received under subsection (1); and
   (b) what the veteran would have received under subsection (1) had the adjustment to the rate and the date of the adjustment been taken into account when the lump sum was paid.
-(6) If a veteran who receives a lump sum payment under this section is still alive at the close of the 12-month period referred to in subsection (1)(b), the veteran is entitled to the maximum disablement pension on and from the day after the close of that period.
-(7) In subsection (2)(b) and section 54, terminal medical condition means an advanced progressive disease likely to cause death within the 12-month period referred to in subsection (1).
+(6) If a veteran who receives a lump sum payment under this section is still alive at the close of the 12-month period referred to in subsection (1)⁠(b), the veteran is entitled to the maximum disablement pension on and from the day after the close of that period.
+(7) In subsection (2)⁠(b) and section 54, terminal medical condition means an advanced progressive disease likely to cause death within the 12-month period referred to in subsection (1).
 
 ### 54 Maximum disablement pension payable if veteran has terminal condition
 (1) A veteran may apply to VANZ to increase his or her disablement pension to the maximum rate.
@@ -706,7 +706,7 @@ Schedule 1 contains transitional provisions relating to veterans who are receivi
   (b) at the time of the veteran's death, the veteran was receiving—
     (i) a permanent war disablement pension under Part 2 of the War Pensions Act 1954 in relation to disablement of 70% or more; or
     (ii) a permanent disablement pension granted under subpart 3 in relation to whole-person impairment of 52% or more; or
-  (c) VANZ considers that, had the veteran not died, the veteran would have been eligible to receive a pension specified in paragraph (b)(i) or (ii) (to the extent of impairment specified) had he or she applied for it immediately before his or her death.
+  (c) VANZ considers that, had the veteran not died, the veteran would have been eligible to receive a pension specified in paragraph (b)⁠(i) or (ii) (to the extent of impairment specified) had he or she applied for it immediately before his or her death.
 (2) Subsection (1) does not apply if, immediately before the veteran's death,—
   (a) the veteran and the claimant were living apart or were not maintaining a relationship in the nature of marriage; and
   (b) the claimant was not contributing to the veteran's day-to-day welfare.
@@ -755,7 +755,7 @@ Schedule 1 contains transitional provisions relating to spouses and partners of 
     (ii) at the time of the veteran's death, the veteran was receiving—
       (A) a permanent war disablement pension under Part 2 of the War Pensions Act 1954 in relation to disablement of 70% or more; or
       (B) a permanent disablement pension granted under subpart 3 in relation to whole-person impairment of 52% or more; or
-    (iii) VANZ considers that, had the veteran not died, the veteran would have been eligible to receive a pension or other payment specified in paragraph (b)(ii)(A) or (B) (to the extent of impairment specified) had he or she applied for it immediately before his or her death.
+    (iii) VANZ considers that, had the veteran not died, the veteran would have been eligible to receive a pension or other payment specified in paragraph (b)⁠(ii)⁠(A) or (B) (to the extent of impairment specified) had he or she applied for it immediately before his or her death.
 (3) If the child suffers from any mental or physical infirmity, VANZ may, in its discretion, extend the entitlement beyond the date on which the child turns 18 years of age for as long as the child continues to suffer from the mental or physical infirmity.
 (4) If the child is undertaking full-time study, he or she is entitled to continue to receive the children's pension until the date on which he or she turns 23.
 
@@ -788,11 +788,11 @@ Schedule 1 contains transitional provisions relating to children of veterans who
     (ii) at the time of the veteran's death, the veteran was receiving—
       (A) a permanent war disablement pension under Part 2 of the War Pensions Act 1954 in relation to disablement of 70% or more; or
       (B) a permanent disablement pension granted under subpart 3 in relation to whole-person impairment of 52% or more; or
-    (iii) VANZ considers that, had the veteran not died, the veteran would have been eligible to receive a pension or other payment specified in paragraph (b)(ii)(A) or (B) (to the extent of impairment specified) had he or she applied for it immediately before his or her death.
+    (iii) VANZ considers that, had the veteran not died, the veteran would have been eligible to receive a pension or other payment specified in paragraph (b)⁠(ii)⁠(A) or (B) (to the extent of impairment specified) had he or she applied for it immediately before his or her death.
 (3) Regulations made under subsection (1) must—
   (a) provide for VANZ to be able to take into account a dependant's economic position; and
   (b) specify a maximum rate that does not exceed the maximum rate payable for the surviving spouse or partner pension.
-(4) For the purposes of subsection (3)(a), the regulations—
+(4) For the purposes of subsection (3)⁠(a), the regulations—
   (a) must specify the criteria that VANZ is to take into account in assessing a dependant's economic position, including (but not limited to) the property and income of a dependant from all sources; and
   (b) may specify different rates for different types of economic circumstances.
 
@@ -841,12 +841,12 @@ This Part—
     (i) every veteran with qualifying operational service performed on or after 1 April 1974; and
     (ii) every spouse, partner, child, and dependant of every veteran referred to in subparagraph (i); but
   (b) does not apply to the following persons:
-    (i) the veterans referred to in section 38(1)(a)(ii) and (iii); and
+    (i) the veterans referred to in section 38(1)⁠(a)⁠(ii) and (iii); and
     (ii) every spouse, partner, child, and dependant of every veteran referred to in subparagraph (i).
 
 ### 84 Application in other circumstances
 (1) Subsection (2) applies to a claim that—
-  (a) is made by or in relation to a veteran referred to in section 83(a)(i); and
+  (a) is made by or in relation to a veteran referred to in section 83(a)⁠(i); and
   (b) relates to injury, illness, or death that is attributable in part to circumstances before 1 April 1974 and in part to circumstances on or after 1 April 1974.
 (2) This Part applies to the claim unless VANZ determines that the claim should be dealt with under Part 3.
 (3) This Part does not apply to claims that Part 3 applies to under section 39.
@@ -950,7 +950,7 @@ This subpart applies to a veteran if the veteran—
     (ii) if the veteran is not entitled to lump sum compensation for the impairment under that Act, would be payable if the veteran's impairment were covered under that Act; and
   (b) an additional amount equivalent to 20% of the amount payable under paragraph (a).
 (3) If the veteran's degree of impairment is below the level at which lump sums are payable under the Accident Compensation Act 2001, the amount for the purposes of subsection (2) is an amount specified in regulations made under section 265.
-(4) The amounts payable under subsections (2)(a)(ii) and (b) and (3) are payable by VANZ.
+(4) The amounts payable under subsections (2)⁠(a)⁠(ii) and (b) and (3) are payable by VANZ.
 
 **Tax status of impairment payments**
 
@@ -1113,10 +1113,10 @@ Within 13 weeks after VANZ accepts a veteran's claim for entitlements under Part
   (b) identify the assessments to be done; and
   (c) identify services appropriate to those needs, whether or not VANZ is responsible for providing any or all of those services; and
   (d) specify which of the services identified under paragraph (c) VANZ will provide, pay for, or contribute to.
-(3) For the purposes of subsection (2)(a), VANZ must assess a veteran's needs for—
+(3) For the purposes of subsection (2)⁠(a), VANZ must assess a veteran's needs for—
   (a) social rehabilitation under section 124 and clauses 8 to 17 of Schedule 2; and
   (b) for vocational rehabilitation under sections 130 to 137.
-(4) However, VANZ is not required to assess a veteran's needs under subsection (3)(b) if the veteran's needs are solely related to maintaining employment.
+(4) However, VANZ is not required to assess a veteran's needs under subsection (3)⁠(b) if the veteran's needs are solely related to maintaining employment.
 
 ### 119 Individual rehabilitation plan must be updated
 (1) An individual rehabilitation plan must be updated from time to time to reflect the outcome of assessments done and progress made under the plan.
@@ -1139,7 +1139,7 @@ The purpose of social rehabilitation is to assist in restoring a veteran's indep
   (f) modifications to the home:
   (g) training for independence:
   (h) transport for independence.
-(2) Terms in subsection (1)(a), (b), and (d) to (h) have the same meaning as in clause 7 of Schedule 2.
+(2) Terms in subsection (1)⁠(a), (b), and (d) to (h) have the same meaning as in clause 7 of Schedule 2.
 (3) VANZ is responsible for providing a key aspect of social rehabilitation to a veteran—
   (a) if the conditions in subsection (4) are met; but
   (b) not earlier than a date determined in accordance with section 123.
@@ -1213,7 +1213,7 @@ The purpose of social rehabilitation is to assist in restoring a veteran's indep
     (i) entitled to weekly income compensation or weekly compensation; or
     (ii) likely, unless he or she has vocational rehabilitation, to be entitled to weekly income compensation or weekly compensation; or
     (iii) on parental leave.
-(2) Despite subsection (1)(b)(i), VANZ is responsible for providing vocational rehabilitation to a person who was entitled to weekly compensation and who would, but for section 104, continue to be entitled to weekly income compensation or weekly compensation.
+(2) Despite subsection (1)⁠(b)⁠(i), VANZ is responsible for providing vocational rehabilitation to a person who was entitled to weekly compensation and who would, but for section 104, continue to be entitled to weekly income compensation or weekly compensation.
 
 ### 127 Matters to be considered in deciding whether to provide vocational rehabilitation
 (1) In deciding whether to provide vocational rehabilitation, VANZ must have regard to the matters in section 128.
@@ -1235,7 +1235,7 @@ The purpose of social rehabilitation is to assist in restoring a veteran's indep
   (a) the vocational rehabilitation would be likely to achieve its purpose under the veteran’s individual rehabilitation plan; and
   (b) the vocational rehabilitation would be likely to be cost-effective, having regard to the likelihood that costs of entitlements under this Act will be reduced as a result of the provision of vocational rehabilitation; and
   (c) the vocational rehabilitation would be appropriate in the circumstances.
-(4) Despite subsections (1)(b) and (3)(b), VANZ must not take into account as a factor against providing vocational rehabilitation that the veteran is, or may become, a person to whom section 65 or 104 (relationship between weekly compensation and New Zealand superannuation) applies.
+(4) Despite subsections (1)⁠(b) and (3)⁠(b), VANZ must not take into account as a factor against providing vocational rehabilitation that the veteran is, or may become, a person to whom section 65 or 104 (relationship between weekly compensation and New Zealand superannuation) applies.
 (5) This section is subject to any regulations made under section 267.
 
 ### 129 Vocational rehabilitation may start or resume if circumstances change
@@ -1260,7 +1260,7 @@ An occupational assessment must be undertaken by an assessor appointed under sec
   (a) take into account information provided by VANZ and the veteran; and
   (b) discuss with the veteran all the types of work that are available in New Zealand and suitable for the veteran; and
   (c) consider any comments the veteran makes to the assessor about those types of work.
-(2) In considering the suitability of the types of work referred to in subsection (1)(b), the occupational assessor may take into account, among other things, the veteran’s earnings before the veteran’s incapacity.
+(2) In considering the suitability of the types of work referred to in subsection (1)⁠(b), the occupational assessor may take into account, among other things, the veteran’s earnings before the veteran’s incapacity.
 (3) VANZ must provide to an occupational assessor all information VANZ has that is relevant to an initial occupational assessment.
 
 ### 133 Report on initial occupational assessment
@@ -1407,7 +1407,7 @@ A veteran with total lower body mobility impairment or with severe lower body mo
   (c) what assets are exempt from being taken into account in an assessment; and
   (d) the asset threshold; and
   (e) how an asset assessment is to be conducted.
-(2) For the purposes of subsection (1)(d),—
+(2) For the purposes of subsection (1)⁠(d),—
   (a) more than 1 asset threshold may be specified for different circumstances; and
   (b) a veteran may be permitted to elect which threshold applies to him or her.
 
@@ -1466,7 +1466,7 @@ A veteran with total lower body mobility impairment or with severe lower body mo
 (2) VANZ must provide or meet the cost of providing the veteran with financial advice from an authorised financial adviser under the Financial Advisers Act 2008 for the purpose of enabling the veteran to make an informed decision about investing the lump sum.
 (3) Regulations may be made under section 265 that specify—
   (a) any other payment under this Act for the purposes of this section:
-  (b) the prescribed amount for the purposes of subsection (1)(b):
+  (b) the prescribed amount for the purposes of subsection (1)⁠(b):
   (c) any limits on the extent to which VANZ provides or meets the cost of providing financial advice:
   (d) whether VANZ will arrange for the provision of financial advice in all cases or meet the costs of financial advice in all cases or a combination of both.
 (4) To avoid doubt, VANZ is under no liability for advice provided by an authorised financial adviser under this section.
@@ -1486,7 +1486,7 @@ A veteran with total lower body mobility impairment or with severe lower body mo
     (a) means any salary, wage, allowance, bonus, gratuity, extra salary, compensation for loss of office or employment, emolument (of whatever kind), or other benefit in money, for, or in connection with, the employment or service of the person; and
     (b) includes,—
       (i) subject to paragraph (c), any expenditure on account of an employee (within the meaning of section YA 1 of the Income Tax Act 2007); and
-      (ii) any benefit of a kind referred to in section CE 1(1)(d) of the Income Tax Act 2007; and
+      (ii) any benefit of a kind referred to in section CE 1(1)⁠(d) of the Income Tax Act 2007; and
       (iii) in the case of a person who, in the relevant period, has been provided, in respect of any office or position held by the person, with board or lodging (or the use of a house or quarters) or has been paid an allowance instead of being provided with board or lodging (or with the use of a house or quarters), the value of those benefits (and the value of the benefits is to be determined, in the case of a dispute, by VANZ); but
     (c) does not include any employer’s superannuation contribution (within the meaning of section YA 1 of the Income Tax Act 2007)
   - **full-time employment** has the same meaning as in section 3(1) of the Social Security Act 1964
@@ -1551,7 +1551,7 @@ A veteran with total lower body mobility impairment or with severe lower body mo
 (3) This section is subject to section 167.
 
 ### 162 Entitlement of spouse or partner of veteran to veteran's pension
-(1) For the purposes of subsection (2)(b), this subsection applies to a veteran if—
+(1) For the purposes of subsection (2)⁠(b), this subsection applies to a veteran if—
   (a) the veteran has qualifying operational service; and
   (b) the veteran has reached the New Zealand superannuation qualification age and is eligible to receive New Zealand superannuation; and
   (c) either—
@@ -1582,8 +1582,8 @@ A veteran with total lower body mobility impairment or with severe lower body mo
   (b) the veteran had qualifying operational service; and
   (c) the veteran died—
     (i) before the commencement of this Part and either—
-      (A) the veteran was, at the date of his or her death, receiving a veteran's pension under section 70(1)(b)(ii) of the War Pensions Act 1954; or
-      (B) VANZ considers that the veteran would have been eligible, at the date of his or her death, to receive a veteran's pension under section 70(1)(b)(ii) of the War Pensions Act 1954; or
+      (A) the veteran was, at the date of his or her death, receiving a veteran's pension under section 70(1)⁠(b)⁠(ii) of the War Pensions Act 1954; or
+      (B) VANZ considers that the veteran would have been eligible, at the date of his or her death, to receive a veteran's pension under section 70(1)⁠(b)⁠(ii) of the War Pensions Act 1954; or
     (ii) after the commencement of this Part and the veteran was, at the date of his or her death, entitled to a veteran's pension under section 164.
 (3) Subsections (1) and (2) do not apply if, immediately before the veteran's death,—
   (a) the veteran and the claimant were living apart or were not maintaining a relationship in the nature of marriage; and
@@ -1600,7 +1600,7 @@ A veteran with total lower body mobility impairment or with severe lower body mo
 
 ### 164 Entitlement to veteran’s pension under War Pensions Act 1954 by reason of infirmity
 (1) A veteran is entitled to a veteran's pension if, at the commencement of this Part, he or she—
-  (a) was receiving a veteran’s pension under the War Pensions Act 1954 by reason of infirmity in accordance with section 70(1)(b)(ii) of that Act; and
+  (a) was receiving a veteran’s pension under the War Pensions Act 1954 by reason of infirmity in accordance with section 70(1)⁠(b)⁠(ii) of that Act; and
   (b) has not reached the New Zealand superannuation qualification age.
 (2) The veteran ceases to be entitled to a veteran's pension under subsection (1) on reaching the New Zealand superannuation qualification age.
 (3) If the veteran is also entitled to weekly income compensation under subpart 4 of Part 3, the veteran may elect to receive weekly income compensation instead of a veteran’s pension.
@@ -1774,14 +1774,14 @@ Section 182—
   (b) in the case of a person who has left New Zealand at a time when he or she was intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand, until he or she—
     (i) begins to reside in a country that is not a country to which this section applies; or
     (ii) returns to New Zealand.
-(2) For the purposes only of subsection (1)(b)(ii), a person does not return to New Zealand if—
+(2) For the purposes only of subsection (1)⁠(b)⁠(ii), a person does not return to New Zealand if—
   (a) he or she—
     (i) interrupts his or her overseas travel, and travels to and stays briefly in New Zealand, in order to attend an event (for example, a wedding or funeral) or to visit a person (for example, a sick or injured family member); and then
     (ii) resumes his or her overseas travel; and
   (b) he or she does not while in New Zealand—
     (i) begin to receive a veteran's pension otherwise than under this section; or
     (ii) begin to receive New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001.
-(3) Except to the extent provided by subsection (1)(a)(i) and (b)(i), a person does not cease to be entitled to be paid a veteran's pension under that subsection by reason only of changing his or her intentions after leaving New Zealand.
+(3) Except to the extent provided by subsection (1)⁠(a)⁠(i) and (b)⁠(i), a person does not cease to be entitled to be paid a veteran's pension under that subsection by reason only of changing his or her intentions after leaving New Zealand.
 (4) Subsection (3) is for the avoidance of doubt.
 
 ### 183 Rates of veteran's pension payable overseas
@@ -1804,12 +1804,12 @@ The proportion referred to in section 183(1) is to be calculated by—
   (b) any period of absence from New Zealand—
     (i) while the person was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body; or
     (ii) while the person's spouse or partner was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
-  (c) any period of absence from New Zealand while the person was (by virtue of section 79(1)(a) of the Social Security Act 1964) deemed to have been resident in New Zealand; or
-  (d) any period of absence from New Zealand while, as the spouse or partner of a person deemed by section 79(1)(a) of the Social Security Act 1964 to have been resident in New Zealand, the person was also (by virtue of section 79(1)(b) of the Social Security Act 1964) deemed to have been resident in New Zealand.
+  (c) any period of absence from New Zealand while the person was treated under section 79(3)⁠(a) of the Social Security Act 1964 as being resident and present in New Zealand; or
+  (d) any period of absence from New Zealand while, as the spouse or partner of a person treated under section 79(3)⁠(a) of the Social Security Act 1964 as being resident and present in New Zealand, the person was also (by virtue of section 79(3)⁠(b) of the Social Security Act 1964) treated as being resident and present in New Zealand.
 (2) Subsection (1) applies to a period of absence only if VANZ is satisfied that during it the person concerned remained ordinarily resident in New Zealand.
-(3) Subsection (1)(b) applies to a period of absence only if VANZ is satisfied that the person concerned either was born in New Zealand or—
-  (a) in the case of a person to whom subsection (1)(b)(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
-  (b) in the case of a person to whom subsection (1)(b)(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.
+(3) Subsection (1)⁠(b) applies to a period of absence only if VANZ is satisfied that the person concerned either was born in New Zealand or—
+  (a) in the case of a person to whom subsection (1)⁠(b)⁠(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
+  (b) in the case of a person to whom subsection (1)⁠(b)⁠(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.
 
 ### 186 Application for entitlement
 A person is not entitled to be paid a veteran's pension under section 182 unless he or she—
@@ -1831,9 +1831,9 @@ A person is not entitled to be paid a veteran's pension under section 182 unless
 (3) Subsection (2) is subject to section 80AA of the Social Security Act 1964.
 
 ### 189 Relationship with other benefit provisions
-(1) A person who is receiving a veteran’s pension overseas under section 182 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
+(1) A person who is receiving a veteran’s pension overseas under section 182 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)⁠(d) of that Act.
 (2) Despite the provisions of section 80BD of the Social Security Act 1964, when a person who receives a veteran’s pension overseas under section 182 dies, the pension terminates on a date to be determined by VANZ, being a date not more than 4 weeks after the person's date of death.
-(3) Except as otherwise provided in this section, the Social Security Act 1964 (other than sections 69G to 70, 74(1)(a), 75 to 77, and 82(7)) applies to veterans’ pensions being paid overseas under section 182.
+(3) Except as otherwise provided in this section, the Social Security Act 1964 (other than sections 69G to 70, 74(1)⁠(a), 75 to 77, and 82(7)) applies to veterans’ pensions being paid overseas under section 182.
 
 ### 190 Specified Pacific country
 (1) In sections 191 to 195, specified Pacific country means a country or territory—
@@ -1844,7 +1844,7 @@ A person is not entitled to be paid a veteran's pension under section 182 unless
   (b) replacing the former name of a country or territory with its new name.
 (3) The Order in Council must state the date on which it takes effect, which may be a date before the date on which it is made.
 (4) The Order in Council applies to payments of the veteran’s pension under section 191 payable on or after the date on which the order takes effect.
-(5) Section 61H(3) to (6) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)(a) as if it had been made under that section.
+(5) Section 61H(3) to (6) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)⁠(a) as if it had been made under that section.
 
 ### 191 Entitlement to be paid veteran's pension in specified Pacific country
 (1) A person entitled to a veteran’s pension is entitled to be paid the pension in a specified Pacific country at a rate calculated under section 192 if subsection (2) or (3) applies to the person.
@@ -1863,7 +1863,7 @@ A person is not entitled to be paid a veteran's pension under section 182 unless
 (1) The rate of veteran’s pension payable under section 191 is,—
   (a) in the case of a person who has resided in New Zealand for 20 or more years since turning 20 years, the base rate:
   (b) in the case of a person who has resided in New Zealand for 10 or more years but fewer than 20 years since turning 20 years, an amount calculated using the following formula:a × b20where—ais the base ratebis the whole number of years the person has resided in New Zealand since turning 20 years:
-  (c) in the case of a person who is resident in a specified Pacific country and was, immediately before section 74P(1)(c) of the War Pensions Act 1954 came into force, being paid a veteran’s pension under section 17BA of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 as it was immediately before that date, the higher of—
+  (c) in the case of a person who is resident in a specified Pacific country and was, immediately before section 74P(1)⁠(c) of the War Pensions Act 1954 came into force, being paid a veteran’s pension under section 17BA of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 as it was immediately before that date, the higher of—
     (i) the amount he or she was being paid immediately before that date (subject to abatement under section 171(2) if that section applies to the person); and
     (ii) the appropriate amount payable under paragraph (a) or (b).
 (2) For the purposes of this section, the base rate is,—
@@ -1878,14 +1878,14 @@ A person is not entitled to be paid a veteran's pension under section 182 unless
 (2) When a person being paid a pension under section 191 dies, the pension terminates on a date to be determined by VANZ, being a date not more than 4 weeks after the person's date of death.
 
 ### 194 Effect on other benefits
-A person who is receiving a veteran's pension overseas under section 191 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
+A person who is receiving a veteran's pension overseas under section 191 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)⁠(d) of that Act.
 
 ### 195 Application of this Act and Social Security Act 1964
 (1) Sections 176 to 189 do not apply in respect of a veteran’s pension being paid in a specified Pacific country under section 191.
-(2) The Social Security Act 1964 (other than sections 74(1)(a), 75, 75A, 76, 77, and 80) applies to a veteran’s pension being paid in a specified Pacific country under section 191.
+(2) The Social Security Act 1964 (other than sections 74(1)⁠(a), 75, 75A, 76, 77, and 80) applies to a veteran’s pension being paid in a specified Pacific country under section 191.
 
 ### 196 Certain former economic pensioners may be paid up to the full rate of veteran's pension overseas
-Despite sections 74(1)(a) and 77 of the Social Security Act 1964 and sections 181 to 189 of this Act, if, immediately before 1 April 1990, a person residing outside New Zealand was being paid an economic pension under the War Pensions Act 1954 as it was immediately before that date, VANZ may pay the full rate, or any lesser percentage of the full rate (being not less than 50%), of a veteran’s pension to that person while he or she remains a resident outside New Zealand.
+Despite sections 74(1)⁠(a) and 77 of the Social Security Act 1964 and sections 181 to 189 of this Act, if, immediately before 1 April 1990, a person residing outside New Zealand was being paid an economic pension under the War Pensions Act 1954 as it was immediately before that date, VANZ may pay the full rate, or any lesser percentage of the full rate (being not less than 50%), of a veteran’s pension to that person while he or she remains a resident outside New Zealand.
 
 ## Part 7 — Administration
 
@@ -1966,8 +1966,8 @@ Every function, duty, and power of VANZ under this Act is a function, duty, or p
   (a) a statement of principles is adopted or modified under section 22 after the decision was made and, if the statement had been adopted or modified before the decision was made, it would have materially affected the decision; or
   (b) a presumptive decision-making condition is specified or amended in regulations made after the decision was made and, if the condition had been specified or amended before the decision was made, it would have materially affected the decision; or
   (c) service is declared operational service under section 9 after the decision was made and, if the declaration had been made before the decision was made, it would have materially affected the decision.
-(4) VANZ may reconsider a decision to which subsection (3)(a) or (b) applies on application by the affected person or on its own initiative.
-(5) VANZ may reconsider a decision to which subsection (3)(c) applies on application by the affected person.
+(4) VANZ may reconsider a decision to which subsection (3)⁠(a) or (b) applies on application by the affected person or on its own initiative.
+(5) VANZ may reconsider a decision to which subsection (3)⁠(c) applies on application by the affected person.
 (6) A decision by VANZ to decline to reconsider a decision under this section is not subject to review under section 215.
 (7) If VANZ decides to reconsider a decision under this section, VANZ must provide the claimant with an opportunity to make a submission on the decision before it is reconsidered.
 (8) If, following reconsideration, VANZ decides that a person has an entitlement, the entitlement commences on the date it would have commenced on had VANZ decided that the person had the entitlement at the outset.
@@ -1992,7 +1992,7 @@ Every function, duty, and power of VANZ under this Act is a function, duty, or p
   (a) any right of VANZ to recover any amounts under this Act or to make any deductions authorised by this Act from any entitlements that VANZ is liable to provide; or
   (b) sections 4 and 5 of the Maori Housing Act 1935; or
   (c) sections 84F to 84M of the District Courts Act 1947; or
-  (d) sections 87(2)(b), 88AE(1)(a), 103, 104, and 105 to 106B of the Summary Proceedings Act 1957; or
+  (d) sections 87(2)⁠(b), 88AE(1)⁠(a), 103, 104, and 105 to 106B of the Summary Proceedings Act 1957; or
   (e) section 27Y of the Social Security Act 1964 (as saved by section 256(1) of the Child Support Act 1991) or sections 71 and 86A of the Social Security Act 1964; or
   (f) sections 105, 110, 118, and 121 of the Family Proceedings Act 1980 (as saved by section 259(1) of the Child Support Act 1991); or
   (g) the Child Support Act 1991; or
@@ -2030,7 +2030,7 @@ The Defence Force must, in its annual report,—
   (b) report on the implementation of the systems and procedures referred to in section 199(c).
 
 ### 212 Appointment of assessors and examiners
-(1) VANZ must appoint as many health practitioners as it considers necessary to do assessments or examinations under sections 27(1)(c) and (2)(c), 124, 130, and 166(1), and clause 48 or 50 of Schedule 2.
+(1) VANZ must appoint as many health practitioners as it considers necessary to do assessments or examinations under sections 27(1)⁠(c) and (2)⁠(c), 124, 130, and 166(1), and clause 48 or 50 of Schedule 2.
 (2) VANZ may appoint a health practitioner to do assessments under the Act generally, or in respect of particular sections of the Act.
 (3) VANZ must pay assessors to do assessments and, if fees and allowances of assessors are prescribed in or under regulations made under section 265, VANZ must pay prescribed amounts.
 (4) In appointing a person to be an assessor, VANZ must have regard to the skills, qualifications, and training that VANZ considers appropriate for a person to do the assessments for which it is proposed to appoint the person an assessor.
@@ -2181,11 +2181,11 @@ If the members of the review panel are unable to agree how to decide a review, t
   (a) the notice of appeal; and
   (b) the review decision under appeal; and
   (c) any application, written submissions, statements, reports, and other documents held by VANZ that relate to the review decision.
-(7) VANZ must, at the time that it provides the documents specified in subsection (6)(c) to the appeal board, provide a copy of the documents to the other party.
+(7) VANZ must, at the time that it provides the documents specified in subsection (6)⁠(c) to the appeal board, provide a copy of the documents to the other party.
 
 ### 229 Hearing and determination of appeal
 (1) An appeal made to the appeal board is a de novo appeal, and the appeal board is not bound by any findings of fact made by the decision maker whose decision is the subject of the appeal.
-(2) Appeals must, in accordance with section 10(b)(iv), be heard and determined without regard to legal or procedural technicalities.
+(2) Appeals must, in accordance with section 10(b)⁠(iv), be heard and determined without regard to legal or procedural technicalities.
 (3) The appeal board may, for the purposes of hearing an appeal,—
   (a) receive any evidence or information that, in its opinion, may assist it to determine the appeal, whether or not that evidence or information would be admissible in a court of law:
   (b) take evidence on oath or affirmation, and for that purpose an oath or affirmation may be administered by the chairperson of the appeal board:
@@ -2270,7 +2270,7 @@ An appeal against a determination of the appeal board may be made to the High Co
   (a) 1 must be a lawyer (within the meaning of the Lawyers and Conveyancers Act 2006) who has at least 7 years' standing; and
   (b) 2 must be medical practitioners, 1 of whom must be nominated by the Royal New Zealand Returned and Services' Association.
 (2) The Minister must appoint members of the appeal board on any terms and conditions that the Minister thinks fit.
-(3) The Minister must appoint the member referred to in subsection (1)(a) as the chairperson.
+(3) The Minister must appoint the member referred to in subsection (1)⁠(a) as the chairperson.
 
 ### 242 Deputy members
 (1) For each member that the Minister appoints, the Minister may appoint a deputy member to act in the place of the member if the member is not available to attend and deliberate on an appeal.
@@ -2361,7 +2361,7 @@ VANZ must provide the resources and administrative support necessary to enable t
   (a) a medical practitioner nominated by VANZ:
   (b) a medical practitioner nominated by the Chief of Defence Force:
   (c) a person nominated by the advisory board as its representative.
-(2) A member appointed under subsection (1)(a), (b), or (c) may attend and speak at meetings of the advisory panel but may not vote on any matter before the panel.
+(2) A member appointed under subsection (1)⁠(a), (b), or (c) may attend and speak at meetings of the advisory panel but may not vote on any matter before the panel.
 (3) The Minister must appoint suitably qualified persons as members of the advisory panel on any terms and conditions that the Minister thinks fit.
 (4) The Minister must appoint a chairperson and a deputy chairperson.
 (5) If the chairperson and the deputy chairperson are both absent from any meeting, the remaining members may appoint one of their number to act as chairperson at that meeting.
@@ -2417,7 +2417,7 @@ VANZ must provide the resources and administrative support necessary to enable t
 ### 262 Annual report and audit of fund
 (1) VANZ must prepare an annual report of the fund, including—
   (a) annual financial statements prepared in accordance with generally accepted accounting practice (within the meaning of section 2(1) of the Public Finance Act 1989); and
-  (b) a report on the fund's implementation of the systems and procedures referred to in section 261(4)(b).
+  (b) a report on the fund's implementation of the systems and procedures referred to in section 261(4)⁠(b).
 (2) The fund's annual report must include a statement of responsibility in respect of the fund's financial statements and the report on the fund's implementation of the systems and procedures.
 (3) Section 45C of the Public Finance Act 1989 applies to the statement of responsibility as if VANZ were a department and the general manager were the department's chief executive.
 (4) The fund is to be treated as a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
@@ -2444,11 +2444,11 @@ VANZ must provide the resources and administrative support necessary to enable t
   (b) posting it to a usual address of the person; or
   (c) sending it to the person by fax or some other electronic means; or
   (d) providing it to the person in a manner approved by the person.
-(4) A document personally delivered under subsection (3)(a) must, if delivered to a corporate body, be delivered to the corporate body's offices during working hours.
-(5) A document posted under subsection (3)(b) is deemed to have been delivered to the person at the time it would have been delivered in the ordinary course of post. For the purposes of proving delivery,—
+(4) A document personally delivered under subsection (3)⁠(a) must, if delivered to a corporate body, be delivered to the corporate body's offices during working hours.
+(5) A document posted under subsection (3)⁠(b) is deemed to have been delivered to the person at the time it would have been delivered in the ordinary course of post. For the purposes of proving delivery,—
   (a) it is sufficient to prove that the document was properly addressed; and
   (b) the document is presumed, in the absence of proof to the contrary, to have been posted on the day on which it was dated.
-(6) A document sent under subsection (3)(c) is deemed, in the absence of proof to the contrary, to be delivered on the day after the day on which it is sent, and it is sufficient proof of sending that a correct machine-generated acknowledgement of receipt exists.
+(6) A document sent under subsection (3)⁠(c) is deemed, in the absence of proof to the contrary, to be delivered on the day after the day on which it is sent, and it is sufficient proof of sending that a correct machine-generated acknowledgement of receipt exists.
 (7) This section is subject to any provision of this Act or regulations made under this Act that specifically provides how a document is to be given.
 
 ### Subpart 2 — Regulations
@@ -2577,7 +2577,7 @@ VANZ must provide the resources and administrative support necessary to enable t
   (h) prescribe the scale of lump sum compensation amounts or independence allowance payable in respect of different degrees of whole-person impairment under clauses 46 and 49 of Schedule 2 so that the amount increases exponentially or otherwise as the degree of impairment increases:
   (i) prescribe such other matters as may be desirable to enable the assessment, calculation, and payment of lump sums or independence allowance.
 (3) The Minister must not make any recommendation under subsection (1) or (2) without first consulting the persons or organisations that the Minister considers appropriate, having regard to the subject matter of the proposed regulations.
-(4) Any material incorporated by reference under subsection (2)(a) must be incorporated in accordance with, and subject to, subpart 2 of Part 3 of the Legislation Act 2012.
+(4) Any material incorporated by reference under subsection (2)⁠(a) must be incorporated in accordance with, and subject to, subpart 2 of Part 3 of the Legislation Act 2012.
 
 ### Subpart 3 — Offences
 
@@ -2796,7 +2796,7 @@ A person who is receiving a veteran’s pension under the War Pensions Act 1954 
 (1) VANZ must then ask the veteran to agree to the plan prepared for the veteran under clause 2.
 (2) If, after a reasonable time, the veteran declines to agree to the plan, VANZ may advise the veteran that the plan is finalised, and the plan is then to be regarded as if the veteran had agreed to it.
 (3) When the plan is agreed or finalised, VANZ must implement the plan.
-(4) VANZ is responsible for funding the provision to the veteran of the services it has specified under section 118(2)(d).
+(4) VANZ is responsible for funding the provision to the veteran of the services it has specified under section 118(2)⁠(d).
 
 ### 4 Disputes about plan
 (1) For the purposes of Part 7 of this Act, VANZ makes a decision when—
@@ -2933,7 +2933,7 @@ In deciding whether to provide or contribute to the cost of attendant care, VANZ
   (e) if the home is not owned by the veteran, whether the owner agrees to the modifications being done; and
   (f) the likely cost of reasonable alternative living arrangements; and
   (g) the likely duration of the limitations arising from the injury or illness for which the veteran has entitlements under this Act.
-(2) For the purposes of subclause (1)(b)(iii), the assessment of whether a veteran is living independently is not affected by whether the veteran lives with others.
+(2) For the purposes of subclause (1)⁠(b)⁠(iii), the assessment of whether a veteran is living independently is not affected by whether the veteran lives with others.
 
 ### 13 Modifications to home: rights and responsibilities
 (1) VANZ is responsible for—
@@ -3026,7 +3026,7 @@ An occupational assessment must be undertaken by an assessor whom VANZ considers
   (b) consider the individual rehabilitation plan prepared for the veteran and review the vocational rehabilitation carried out under the plan; and
   (c) discuss with the veteran all the types of work that the assessor identifies as suitable for the veteran; and
   (d) consider any comments the veteran makes to the assessor about those types of work.
-(2) In considering the suitability of the types of work referred to in subclause (1)(c), the occupational assessor may take into account, among other things, the veteran’s earnings before the veteran’s incapacity.
+(2) In considering the suitability of the types of work referred to in subclause (1)⁠(c), the occupational assessor may take into account, among other things, the veteran’s earnings before the veteran’s incapacity.
 (3) VANZ must provide to an occupational assessor all information VANZ has that is relevant to an occupational assessment.
 
 ### 20 Report on occupational assessment
@@ -3142,8 +3142,8 @@ If VANZ is determining earnings under this Part in relation to a self-employed p
     (ii) the veteran did receive earnings as a self-employed person or as a shareholder-employee; and
     (iii) those earnings ceased before the commencement of the veteran's incapacity:
   (d) any earnings in respect of any period under paragraph (a), (b), or (c).
-(4) In item b of the formula set out in subclause (2), the expression 52 is adjusted by deducting from it any number of weekly periods that subclause (3)(a), (b), or (c) applies to.
-(5) For the purposes of subclause (3)(c), VANZ may determine the number of weeks that fairly and reasonably represent the period during which the veteran received earnings as a self-employed person or as a shareholder-employee.
+(4) In item b of the formula set out in subclause (2), the expression 52 is adjusted by deducting from it any number of weekly periods that subclause (3)⁠(a), (b), or (c) applies to.
+(5) For the purposes of subclause (3)⁠(c), VANZ may determine the number of weeks that fairly and reasonably represent the period during which the veteran received earnings as a self-employed person or as a shareholder-employee.
 
 **Self-employed veteran**
 
@@ -3215,11 +3215,11 @@ If VANZ is determining earnings under this Part in relation to a self-employed p
 (1) Veterans to whom clause 32 applies, and to whom clauses 27 to 30 apply because they have earnings as an employee at the time their incapacity commences, may—
   (a) have their weekly earnings calculated under clause 32 with the inclusion of their earnings as an employee; or
   (b) have their weekly earnings calculated under clause 32 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 27 to 30 and aggregated under subclause (5).
-(2) If a veteran's weekly earnings are calculated in accordance with subclause (1)(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
+(2) If a veteran's weekly earnings are calculated in accordance with subclause (1)⁠(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
 (3) Veterans to whom clause 34 applies, and to whom clauses 27 to 30 apply because they have earnings as an employee at the time their incapacity commences, may—
   (a) have their weekly earnings calculated under clause 34 with the inclusion of their earnings as an employee; or
   (b) have their weekly earnings calculated under clause 34 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 27 to 30 and aggregated under subclause (5).
-(4) If a veteran's weekly earnings are calculated in accordance with subclause (3)(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
+(4) If a veteran's weekly earnings are calculated in accordance with subclause (3)⁠(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
 (5) If a veteran is not prohibited from doing so by subclause (2) or (4), and would have more than 1 amount of weekly earnings from different employment situations because of the operation of clause 28, 30, 32, or 34, the veteran's weekly earnings are to be calculated by doing the relevant calculations under those clauses separately and then aggregating the results.
 (6) However, a veteran's weekly earnings calculated under clause 28 or 30 must not be aggregated with the veteran's weekly earnings under clause 34 if the veteran's weekly earnings under clause 34 are his or her earnings under clause 28 or 30.
 
@@ -3242,12 +3242,12 @@ If VANZ is determining earnings under this Part in relation to a self-employed p
     (i) had been in employment within 28 days before his or her incapacity commenced; and
     (ii) would have been an employee within the period specified in subclause (3) after the date on which his or her incapacity commenced, but for the incapacity; or
   (b) the period for which payments that the veteran is entitled to receive on ceasing employment and on which earner levy is payable constitute earnings under subclause (4).
-(3) For the purposes of subclause (2)(a)(ii), the period is,—
+(3) For the purposes of subclause (2)⁠(a)⁠(ii), the period is,—
   (a) unless paragraph (b) applies, 3 months if the veteran had entered into an employment agreement, or had arranged to enter into an employment agreement, before the incapacity commenced; or
   (b) 12 months if—
     (i) the veteran was employed in seasonal employment with the same employer as he or she had been employed by in the 2 seasons before the veteran’s incapacity commenced; and
     (ii) the employer confirms that the veteran could reasonably have expected to be re-employed in the season after the veteran’s incapacity commenced.
-(4) A veteran, who is deemed by subclause (2)(b) to continue to be in employment, is also deemed to be deriving earnings at the same rate as he or she derived earnings while in employment immediately before he or she ceased to be an employee, a self-employed person, or a shareholder-employee, as the case may be.
+(4) A veteran, who is deemed by subclause (2)⁠(b) to continue to be in employment, is also deemed to be deriving earnings at the same rate as he or she derived earnings while in employment immediately before he or she ceased to be an employee, a self-employed person, or a shareholder-employee, as the case may be.
 (5) For the purposes of calculating the veteran’s weekly earnings, the date his or her incapacity commenced is deemed to be the last date on which the veteran was in employment.
 (6) In this clause,—
   - **employee** includes an employee who is on unpaid leave that is not unpaid parental leave
@@ -3277,7 +3277,7 @@ If VANZ is determining earnings under this Part in relation to a self-employed p
 (3) For the purposes of clauses 32 to 35, in order to calculate the veteran's weekly earnings under this Part, VANZ may estimate an amount that represents reasonable remuneration for the veteran until the earlier of—
   (a) the income tax return for the relevant year is available; or
   (b) 3 months have passed after the incapacity commenced.
-(4) If the veteran's income tax return for the relevant year remains unavailable at the end of the 3-month period in subclause (3)(b), VANZ can pay weekly compensation only as an advance and only at the minimum rate referred to in clause 25.
+(4) If the veteran's income tax return for the relevant year remains unavailable at the end of the 3-month period in subclause (3)⁠(b), VANZ can pay weekly compensation only as an advance and only at the minimum rate referred to in clause 25.
 (5) In doing an estimate under subclause (3), VANZ must have regard to—
   (a) the evidence available of the veteran's earnings; and
   (b) the nature of the veteran's employment immediately before his or her incapacity commenced; and
@@ -3293,7 +3293,7 @@ If VANZ is determining earnings under this Part in relation to a self-employed p
 (1) This clause applies to a veteran who—
   (a) is already entitled to receive weekly compensation; and
   (b) suffers incapacity from a further injury or illness for which the veteran has cover under this Act.
-(2) If it is necessary to recalculate the veteran's entitlement to weekly compensation, the veteran's entitlement to weekly compensation in respect of incapacity from both injuries or illnesses is calculated using the weekly earnings assessed when calculating the weekly compensation referred to in subclause (1)(a).
+(2) If it is necessary to recalculate the veteran's entitlement to weekly compensation, the veteran's entitlement to weekly compensation in respect of incapacity from both injuries or illnesses is calculated using the weekly earnings assessed when calculating the weekly compensation referred to in subclause (1)⁠(a).
 (3) Subclause (2) does not apply to any subsequent periods of incapacity.
 
 **Abatement**
@@ -3385,8 +3385,8 @@ If VANZ is determining earnings under this Part in relation to a self-employed p
 ### 50 Reassessment of entitlement to lump sum compensation
 (1) Clauses 45 to 49 apply to reassessments under this clause.
 (2) VANZ must arrange for an assessor to reassess a veteran if—
-  (a) the veteran was assessed after VANZ received a certificate under clause 47(1)(b) and before VANZ received a certificate under clause 47(1)(a); and
-  (b) VANZ then receives a certificate under clause 47(1)(a).
+  (a) the veteran was assessed after VANZ received a certificate under clause 47(1)⁠(b) and before VANZ received a certificate under clause 47(1)⁠(a); and
+  (b) VANZ then receives a certificate under clause 47(1)⁠(a).
 (3) A reassessment under subclause (2) is not a reassessment for the purposes of subclause (7).
 (4) VANZ must arrange for an assessor to reassess a veteran who produces to VANZ a certificate from a medical practitioner indicating that the veteran's permanent impairment is likely to have increased since the date of assessment.
 (5) Subclause (4) is subject to subclauses (6) and (7).
@@ -3533,7 +3533,7 @@ For the purposes of this Part, any child of a veteran who is born within 12 mont
     (i) the child turns 14 years; or
     (ii) if the child is older and needs child care because of his or her physical or mental condition, the child ceases to need child care.
 (3) A child who, immediately before the deceased veteran's death, was entitled to payments for child care because of the death of another deceased veteran has no entitlement for the subsequent death.
-(4) However, VANZ must start counting the 5-year period referred to in subclause (2)(a) at the date of the subsequent death.
+(4) However, VANZ must start counting the 5-year period referred to in subclause (2)⁠(a) at the date of the subsequent death.
 (5) This clause applies despite anything in this schedule.
 
 ### 67 Child care payments made to caregiver
