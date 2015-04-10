@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2015-04-01_
+_Consolidation as at 2015-04-10_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -1908,7 +1908,8 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 (3) Notwithstanding anything to the contrary in this Act, a beneficiary being paid New Zealand superannuation or a veteran's pension shall not be entitled to be paid an accommodation supplement under this section unless the income of that beneficiary or the combined income of that beneficiary and his or her spouse or partner, as the case may be, is less than the appropriate amount in Part 2 of Schedule 31.
 (4) No person shall be granted an accommodation supplement if that person—
   (a) is receiving a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998; or
-  (b) would be eligible to receive a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998, but for the level of that person's income or the level of the income of that person's parent or parents; or
+  (ab) would be eligible to receive a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998, if he or she were to apply for the grant; or
+  (b) would be eligible to receive a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998, but for the level of that person's income or the level of the income of that person's parent or parents or spouse or partner, were the person to apply for the grant; or
   (c) is a resident assessed as requiring care (as defined in section 136) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142; or
   (d) is the spouse or partner of a person who is already receiving an accommodation supplement under this section, except as provided in section 61EB; or
   (e) has a psychiatric, intellectual, physical, or sensory disability, and—
@@ -2362,7 +2363,7 @@ It is the duty of the chief executive to take all reasonable steps to assist any
   (a) the person is entitled to receive or receives weekly compensation in respect of the person or his or her spouse or partner or a dependent child; or
   (b) the person's spouse or partner receives weekly compensation.
 (2) Where this section applies, the rate of the benefit payable to the person must be reduced by the amount of weekly compensation payable to the person.
-(3) In this section, weekly compensation means weekly compensation for loss of earnings or loss of potential earning capacity payable to the person by the Corporation under the Accident Compensation Act 2001.
+(3) In this section, weekly compensation means weekly compensation for loss of earnings or loss of potential earning capacity payable to the person under the Accident Compensation Act 2001 (whether payable by or on behalf of the Accident Compensation Corporation or by or on behalf of an accredited employer within the meaning of section 181 of that Act).
 (4) Subsection (2) does not apply where the person—
   (a) was receiving the income-tested benefit immediately before 1 July 1999 and continues to receive that benefit; and
   (b) was receiving compensation for loss of earnings or loss of potential earning capacity under the Accident Rehabilitation Compensation and Insurance Act 1992 immediately before that date; and
@@ -2542,12 +2543,22 @@ The chief executive must take reasonable and appropriate steps to make every per
 (1) If any person leaves New Zealand while in receipt of a benefit and returns to take up ordinary residence in New Zealand at any time within 5 years, he shall not, on a subsequent application for a benefit of the same class, be required to comply with the residential qualifications applicable in the case of an original application for a benefit of that class.
 (2) If, before the commencement of this subsection, a person left New Zealand while in receipt of an age benefit or a superannuation benefit, such benefit shall, for the purposes of this section, be deemed to be New Zealand superannuation.
 
-### 79 Persons liable for income tax on earnings while employed overseas deemed to be resident in New Zealand
-(1) Where any person has been employed outside New Zealand and while so employed was liable for the payment of income tax on earnings from that employment, then, for the purposes of satisfying the residential qualification for any benefit after the return, on or after 23 June 1987, to New Zealand of that person or the spouse or partner or any child of that person,—
-  (a) that person shall be deemed to have been resident and present in New Zealand during the period of such employment outside New Zealand:
-  (b) if the spouse or partner or any child of that person was with the person during that period or any part of it, the spouse or partner or child shall be deemed to have been resident and present in New Zealand during that period or that part of it, as the case may be:
-  (c) any child of that person born out of New Zealand during that period shall be deemed to have been born in New Zealand.
-(2) Nothing in subsection (1) shall be construed to derogate from the provisions of section 77.
+### 79 Persons who have had income tax deducted or withheld on earnings from employment overseas to be treated as resident and present in New Zealand
+(1) This section applies to any person who was employed outside New Zealand if, with respect to the person's period of employment, the person's employer (or other relevant person) makes—
+  (a) PAYE income payments (as that term is used in the Income Tax Act 2007) from which the person, employer, or other relevant person must withhold an amount of tax under the PAYE rules as defined in that Act:
+  (b) source deduction payments,—
+    (i) as that term is used in the Income Tax Act 2004, from which the person, employer, or other relevant person must withhold an amount of tax under the PAYE rules as defined in that Act:
+    (ii) as that term is used in the Income Tax Act 1994, from which the person, employer, or other relevant person must make a tax deduction under the PAYE rules as defined in that Act:
+    (iii) as that term is used in the Income Tax Act 1976, from which the person, employer, or other relevant person must make a tax deduction under Part 11 of that Act:
+    (iv) as that term is used in the Income Tax Assessment Act 1957, from which the person, employer, or other relevant person must make a tax deduction under Part 2 of that Act.
+(2) This section applies in respect of a period of employment, whether or not the person's employer (or other relevant person) failed to pay an amount of tax deducted or withheld to the Commissioner of Inland Revenue if the chief executive is satisfied that—
+  (a) the employer (or other relevant person) deducted or withheld tax under subsection (1); and
+  (b) the person did not contribute to the employer's (or other relevant person's) failure to pay that tax to the Commissioner.
+(3) For the purposes of satisfying the residential qualification for any benefit after the return to New Zealand, on or after 23 June 1987, of the person to whom this section applies or the spouse or partner or any child of that person,—
+  (a) that person must be treated as being resident and present in New Zealand during the period to which this section applies:
+  (b) if the spouse or partner or any child of that person was with the person during that period or any part of it, the spouse or partner or child must be treated as being resident and present in New Zealand during that period or that part of it, as the case may be:
+  (c) any child of that person born outside New Zealand during that period must be treated as having been born in New Zealand.
+(4) Nothing in subsection (3) may be construed to derogate from the provisions of section 77.
 
 ### 80 Commencement of benefits
 (1) Except as otherwise provided in this section or Part 6 of the Veterans' Support Act 2014 or the New Zealand Superannuation and Retirement Income Act 2001, a benefit shall commence on the later of—
@@ -2792,7 +2803,7 @@ In this section and in sections 80BA to 80BC and in Schedule 28—
 
 ### 80D Benefit applications by claimants under Accident Compensation Act 2001
 If—the chief executive may, in the chief executive's discretion, treat an application for a benefit made by the claimant as having been made on the date—whichever is the later date.
-  (a) the Accident Compensation Corporation pays weekly compensation in respect of a claim made under the Accident Compensation Act 2001; and
+  (a) weekly compensation is paid by or on behalf of the Accident Compensation Corporation, or by or on behalf of an accredited employer within the meaning of section 181 of the Accident Compensation Act 2001, in respect of a claim made under that Act; and
   (b) the claimant subsequently fails to establish his or her claim; and
   (c) the claimant would otherwise have been entitled to a benefit during all or any part of the period in respect of which the compensation would have been paid if the claim had been accepted—
   (d) that the incapacity in respect of which the claim was made occurred; or
@@ -5021,7 +5032,7 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 |  | (f) | To a beneficiary (with or without dependent children) receiving a supported living payment under section 40B on the ground of sickness, injury, disability, or total blindness who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $218.86 a week, increased by $218.86 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1 |
 |  | (g) | To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran's pension | $218.86 a week, subject to Income Test 1 |
 |  | (h) | To a beneficiary (with or without dependent children) receiving a supported living payment under section 40D on the ground of caring for a patient requiring care, if the beneficiary is married or in a civil union, or in a de facto relationship, and the beneficiary's spouse or partner is not granted a benefit in his or her own right | $218.86 a week, subject to Income Test 1 |
-| provided that, in computing the income of any beneficiary for the purpose of this schedule, the chief executive shall— |  |  |  |
+| provided that, in computing the income of any beneficiary receiving a supported living payment under section 40B for the purpose of this schedule, the chief executive shall— |  |  |  |
 |  | (a) | disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and |  |
 |  | (b) | disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
 | 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind beneficiary, in every case | $348.86 a week, increased by $43.78 a week if the beneficiary is a single person |
@@ -5119,6 +5130,7 @@ The amount of accommodation supplement assessed under this schedule shall be red
 (a)
 (b) in the case of a non-beneficiary, by 25 cents for every $1 of the combined weekly income of the applicant and any spouse or partner of the applicant in excess of the amount of income that would prevent payment of jobseeker support—
   (i) in the case of a single applicant without dependent children, at the maximum rate in clause 1(b) of Schedule 9; or
+  (ia) in the case of a sole parent, at the appropriate maximum rate in item 1(ba) or (c) of Schedule 9 as if Income Test 3 applied to that rate instead of Income Test 1; or
   (ii) in the case of any other applicant, at the appropriate maximum rate in Schedule 9.
 
 ### 3
@@ -6227,3 +6239,43 @@ On the commencement of this Part of this Act, the following cease to have effect
   (c) all requirements under former section 60W of the principal Act:
   (d) all notices under former section 60X of the principal Act:
   (e) all sanctions under section 60Y or 60Z of the principal Act.
+
+### 1 Title
+This Act is the Social Security Amendment Act 2015.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Social Security Act 1964.
+
+## Part 2 — Validation, savings, and consequential amendments
+
+### 10 Validation
+(1) For the purpose of calculating the rate of reduction of a benefit payable to a person in accordance with section 71A, the principal Act must be read as if, during the period beginning on 1 July 1999 and ending on the commencement of section 5 of this Act, (the relevant period), the definition in section 71A(3) were replaced by the following definitions:
+  - **weekly compensation** means weekly compensation for loss of earnings or loss of potential earning capacity payable to the person in respect of any time or times within the relevant period by or on behalf of any person (including, without limitation, a specified payer) in accordance with any 1 or more of the following Acts as in force at that time or times during the relevant period:
+    (a) the Accident Insurance Act 1998 (the 1998 Act):
+    (b) the Injury Prevention, Rehabilitation, and Compensation Act 2001, renamed the Accident Compensation Act 2001 (the 2001 Act) on 3 March 2010
+  - **specified payer** means a person who or that is—
+    (a) an insurer as defined in section 13(1) of the 1998 Act or section 341(1) of the 2001 Act; or
+    (b) the Accident Compensation Corporation established by section 328 of the 1998 Act and continued by section 259(1) of the 2001 Act; or
+    (c) an accredited employer as defined in section 326A of the 1998 Act or section 181 of the 2001 Act.
+(2) For the purpose of determining the residential qualifications of any person for any benefit on and after 23 June 1987, the principal Act must be read as if section 79 (as replaced by section 6 of this Act) had come into force on that date.
+(3) For the purposes of determining the validity of the rate of any supported living payment in the period beginning with 15 July 2013 and ending on the commencement of section 8 of this Act, the Social Security Act 1964 must be read as if the proviso to item 1 of Schedule 6 contained the words inserted by section 8 of this Act.
+(4) For the purposes of determining the validity of the rate of any accommodation supplement or any decision to refuse to grant an accommodation supplement on account of income in the period beginning with 15 July 2013 and ending on the commencement of section 9 of this Act, the Social Security Act 1964 must be read as if clause 2(b) of Part 1 of Schedule 18 contained subparagraph (ia) (as inserted by section 9 of this Act).
+
+### 11 Savings
+(1) Section 79 of the principal Act (as replaced by section 6 of this Act)—
+  (a) does not apply in respect of any application, appeal, or proceedings of a kind specified in subsection (3) that alleged an invalidity in the assessment of whether a person was liable for the payment of income tax on earnings from employment outside New Zealand under section 79(1) of the principal Act and was made or filed, as the case may be, before 6 July 2013; and
+  (b) does not affect the rights of any person who made an application to which paragraph (a) applies, or was a party to an appeal or other proceedings to which paragraph (a) applies, under—
+    (i) any decision, or any judgment of a court, in relation to that application or appeal or those proceedings, as the case may be; or
+    (ii) any decision or judgment given on appeal from that decision or judgment.
+(2) Section 10 of this Act—
+  (a) does not apply in respect of any application, appeal, or proceedings of a kind specified in subsection (3) that alleged an invalidity in a rate of benefit reduced or purported to be reduced under section 71A(2) of the principal Act and was made or filed, as the case may be, before 15 April 2009; and
+  (b) does not affect the rights of any person who made an application to which paragraph (a) applies, or was a party to an appeal or other proceedings to which paragraph (a) applies, under—
+    (i) any decision, or any judgment of a court, in relation to that application or appeal or those proceedings, as the case may be; or
+    (ii) any decision or judgment given on appeal from that decision or judgment.
+(3) Subsection (1)(a) or (2)(a) applies in respect of each of the following:
+  (a) an application for review under section 10A of the principal Act:
+  (b) an appeal under section 12J, 12Q, or 12R of the principal Act:
+  (c) any other proceedings.
