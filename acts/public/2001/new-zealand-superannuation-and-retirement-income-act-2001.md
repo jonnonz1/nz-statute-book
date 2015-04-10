@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2015-04-01_
+_Consolidation as at 2015-04-10_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -257,8 +257,8 @@ If a person who is absent from New Zealand would have become entitled to New Zea
   (b) any period of absence from New Zealand—
     (i) while the person was engaged in missionary work as a member of, or on behalf of, any religious body; or
     (ii) while the person's spouse or partner was engaged in missionary work as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
-  (c) any period of absence from New Zealand while the person was (by virtue of section 79(1)(a) of the Social Security Act 1964) deemed to have been resident in New Zealand; or
-  (d) any period of absence from New Zealand while, as the spouse or partner of a person deemed by section 79(1)(a) of the Social Security Act 1964 to have been resident in New Zealand, the person was also (by virtue of section 79(1)(b) of the Social Security Act 1964) deemed to have been resident in New Zealand.
+  (c) any period of absence from New Zealand while the person was treated under section 79(3)(a) of the Social Security Act 1964 as being resident and present in New Zealand; or
+  (d) any period of absence from New Zealand while, as the spouse or partner of a person treated under section 79(3)(a) of the Social Security Act 1964 as being resident and present in New Zealand, the person was also (by virtue of section 79(3)(b) of the Social Security Act 1964) treated as being resident and present in New Zealand.
 (3) Subsection (2) applies to a period of absence only if the chief executive is satisfied that during it the person concerned remained ordinarily resident in New Zealand.
 (4) Subsection (2)(b) applies to a period of absence only if the chief executive is satisfied that the person concerned either was born in New Zealand or—
   (a) in the case of a person to whom subsection (2)(b)(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
@@ -397,7 +397,7 @@ The Fund is the property of the Crown.
 (3) Part 2 of the Public Finance Act 1989 (including, without limitation, section 26W) applies to the matters that are included in the economic and fiscal update under this section as if they were required to be included under that Act.
 
 ### 43 Amount of required annual capital contribution
-The required annual capital contribution for each financial year is—a × that year’s GDP − b100where—
+The required annual capital contribution for each financial year is—The following table is small in size and contains a formula.a × that year’s GDP − b100where—
   (a) is the percentage of that year’s GDP that, if the same percentage of the GDP that is projected for each of the next 40 years were contributed (by way of either or both of annual required capital contributions and annual expense payments under section 45) each year for the next 40 years, would be just sufficient, taking into account the Fund balance at the start of that year and projected Fund investment income over the next 40 years, to enable the Fund to meet the expected net cost of the New Zealand superannuation entitlements payable out of the Fund over the next 40 years
   (GDP) is the projected annual gross domestic product of New Zealand
   (b) is the expected net cost of the New Zealand superannuation entitlements payable out of the Fund in the year
