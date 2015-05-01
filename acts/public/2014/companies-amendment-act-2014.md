@@ -1,5 +1,5 @@
 # Companies Amendment Act 2014
-_Consolidation as at 2014-09-11_
+_Consolidation as at 2015-05-01_
 
 ### 1 Title
 This Act is the Companies Amendment Act 2014.
@@ -26,7 +26,7 @@ The following section is inserted after section 138:Offence for serious breach o
   (3) A person who commits an offence under this section is liable on conviction to the penalties set out in section 373(4).
 
 ### 5 Penalty for failure to comply with Act
-Section 373(4)(f) is amended by inserting or dishonestly incurring debt after fraudulently.
+Section 373(4)⁠(f) is amended by inserting or dishonestly incurring debt after fraudulently.
 
 ### 6 Fraudulent use or destruction of property
 Section 378(a) is amended by inserting , or for the use or benefit of a person other than the company after use or purpose of the company.
@@ -48,7 +48,7 @@ Section 378(a) is amended by inserting , or for the use or benefit of a person o
 ## Part 2 — One or more directors to live in New Zealand and other measures
 
 ### 8 Interpretation
-Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:
   - **enforcement country** means a country, State, or territory outside New Zealand prescribed for the purposes of section 10(d)
   - **limited partnership** has the meaning set out in section 6 of the Limited Partnerships Act 2008
   - **overseas limited partnership** has the meaning set out in section 4 of the Limited Partnerships Act 2008
@@ -64,12 +64,12 @@ Section 10 is amended by repealing paragraph (d) and substituting the following 
     (ii) live in an enforcement country and be a director of a company that is registered (except as the equivalent of an overseas company) in that enforcement country.
 
 ### 10 Application for registration
-(1) Section 12(2) is amended by repealing paragraph (b) and substituting the following paragraph:.
+(1) Section 12(2) is amended by repealing paragraph (b) and substituting the following paragraph:
   (b) in relation to every director of the proposed company,—
     (i) his or her full name and date and place of birth; and
     (ii) his or her residential address; and
     (iii) if the residential address is in an enforcement country, whether the director is a director of a company that is registered (except as the equivalent of an overseas company) in that enforcement country and, if so, the prescribed information; and
-(2) Section 12(2) is amended by inserting the following paragraph after paragraph (c):.
+(2) Section 12(2) is amended by inserting the following paragraph after paragraph (c):
   (ca) the proposed company's ultimate holding company information; and
 
 ### 11 New heading and sections 94A and 94B inserted
@@ -91,21 +91,21 @@ The following heading and sections are inserted after section 94:Ultimate holdin
 Section 150 is amended by omitting at least 1 director and substituting 1 or more directors (see section 10(d)).
 
 ### 13 Notice of change of directors
-Section 159(2) is amended by repealing paragraph (b) and substituting the following paragraph:.
-  (b) include, in relation to every person who is a director of the company from the date of the notice, the information required by section 12(2)(b)(i) to (iii); and
+Section 159(2) is amended by repealing paragraph (b) and substituting the following paragraph:
+  (b) include, in relation to every person who is a director of the company from the date of the notice, the information required by section 12(2)⁠(b)⁠(i) to (iii); and
 
 ### 14 Public inspection of company records
-Section 215(1) is amended by inserting the following paragraph after paragraph (c):.
+Section 215(1) is amended by inserting the following paragraph after paragraph (c):
   (ca) the company's ultimate holding company information:
 
 ### 15 Amalgamation proposal
-(1) Section 220(1) is amended by repealing paragraph (c) and substituting the following paragraph:.
-  (c) in relation to every director of the amalgamated company, his or her full name and the information required by section 12(2)(b)(ii) and (iii):
-(2) Section 220(1) is amended by inserting the following paragraph after paragraph (e):.
+(1) Section 220(1) is amended by repealing paragraph (c) and substituting the following paragraph:
+  (c) in relation to every director of the amalgamated company, his or her full name and the information required by section 12(2)⁠(b)⁠(ii) and (iii):
+(2) Section 220(1) is amended by inserting the following paragraph after paragraph (e):
   (ea) the ultimate holding company information of each of the amalgamating companies and of the amalgamated company:
 
 ### 16 Registration of amalgamation proposal
-Section 223 is amended by inserting the following paragraph after paragraph (b):.
+Section 223 is amended by inserting the following paragraph after paragraph (b):
   (ba) the date and place of birth of every director of the amalgamated company; and
 
 ### 17 Inspection and evidence of registers
@@ -113,7 +113,7 @@ Section 363 is amended by adding the following subsection:
   (6) This section is subject to section 367A.
 
 ### 18 New section 367A inserted
-The following section is inserted after section 367:Confidentiality of director information2008 No 1 s 115.
+The following section is inserted after section 367:Confidentiality of director information2008 No 1 s 115
   (1) The Registrar must treat director information as confidential and must not make it available to a member of the public.
   (2) The Official Information Act 1982 does not apply to director information.
   (3) In this section, director information means a director's date and place of birth.
@@ -145,7 +145,7 @@ The following section is inserted after section 388:Service of other documents o
     (g) by sending it by email to an electronic address used by the company.
 
 ### 22 Additional provisions relating to service
-(1) Section 392(1) is amended by inserting the following paragraph after paragraph (c):.
+(1) Section 392(1) is amended by inserting the following paragraph after paragraph (c):
   (ca) a document sent by email is deemed to have been received on the working day following the day on which it was sent:
 (2) Section 392(1) is amended by adding the following paragraph:
   (f) in proving service of a document by email, it is sufficient to prove that—
@@ -153,27 +153,27 @@ The following section is inserted after section 388:Service of other documents o
     (ii) the document was properly sent to the email address.
 
 ### 23 Regulations
-Section 395(1) is amended by inserting the following paragraphs after paragraph (b):.
+Section 395(1) is amended by inserting the following paragraphs after paragraph (b):
   (ba) prescribing a country, State, or territory outside New Zealand as an enforcement country for the purposes of section 10(d) if the country, State, or territory has an agreement with New Zealand that allows for the recognition and enforcement there of New Zealand judgments imposing regulatory regime criminal fines:
-  (bb) prescribing information required for the purposes of section 12(2)(b)(iii) and paragraph (ga) of Schedule 4:
+  (bb) prescribing information required for the purposes of section 12(2)⁠(b)⁠(iii) and paragraph (ga) of Schedule 4:
   (bc) prescribing information required for the purposes of section 94A(e):
 
 ### 24 Schedule 4 amended
 (1) Paragraph (g) of Schedule 4 is amended by inserting , dates and places of birth, after names.
-(2) Schedule 4 is amended by inserting the following paragraphs after paragraph (g):.
+(2) Schedule 4 is amended by inserting the following paragraphs after paragraph (g):
   (ga) if a director is resident in an enforcement country, the prescribed information in respect of the company or companies in that country of which the director is a director:
   (gb) the company's ultimate holding company information:
 
 **Transitional provision relating to requirement for 1 or more directors to live in New Zealand, etc**
 
 ### 25 Transitional provision relating to requirement for 1 or more directors to live in New Zealand, etc
-(1) Before the close of the 180th day after the commencement of this section, section 10(d)(i) and (ii) of the principal Act do not apply to a company incorporated before the commencement of this section.
-(2) A company incorporated before the commencement of this section that does not comply with the requirements in section 10(d)(i) or (ii) of the principal Act must, before the close of the 180th day after the commencement of this section, do the following in order to comply with those requirements:
-  (a) arrange for a director who complies with the requirements in section 10(d)(i) or (ii) of the principal Act; and
+(1) Before the close of the 180th day after the commencement of this section, section 10(d)⁠(i) and (ii) of the principal Act do not apply to a company incorporated before the commencement of this section.
+(2) A company incorporated before the commencement of this section that does not comply with the requirements in section 10(d)⁠(i) or (ii) of the principal Act must, before the close of the 180th day after the commencement of this section, do the following in order to comply with those requirements:
+  (a) arrange for a director who complies with the requirements in section 10(d)⁠(i) or (ii) of the principal Act; and
   (b) in the manner required by the Registrar, notify the Registrar of the following:
-    (i) that a director complies with the requirements in section 10(d)(i) or (ii) of the principal Act; and
-    (ii) the information required under section 12(2)(b)(i) to (iii) in relation to that director.
-(3) If a company fails to comply with subsection (2), the company does not comply with section 10 of the principal Act (see section 318(1)(aaa) of the principal Act).
+    (i) that a director complies with the requirements in section 10(d)⁠(i) or (ii) of the principal Act; and
+    (ii) the information required under section 12(2)⁠(b)⁠(i) to (iii) in relation to that director.
+(3) If a company fails to comply with subsection (2), the company does not comply with section 10 of the principal Act (see section 318(1)⁠(aaa) of the principal Act).
 
 **Transitional provision relating to directors' date and place of birth information and company's ultimate holding company information**
 
@@ -191,7 +191,7 @@ Section 395(1) is amended by inserting the following paragraphs after paragraph 
 **No long-form amalgamations of code company under Part 13 of principal Act**
 
 ### 27 Interpretation
-Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:.
+Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:
   - **code company** has the meaning set out in section 2(1) of the Takeovers Act 1993
 
 ### 28 Amalgamations
@@ -219,7 +219,7 @@ The following sections are inserted after section 236:Arrangement or amalgamatio
       (i) the court is satisfied that the shareholders of the code company will not be adversely affected by the use of section 236(1) rather than the takeovers code to effect the change involving the code company; or
       (ii) the applicant has filed a statement from the Takeovers Panel indicating that the Takeovers Panel has no objection to an order being made under section 236(1).
   (3) The court need not approve a proposed arrangement or amalgamation merely because the Takeovers Panel has no objection to an order being made under section 236(1).
-  (4) For the purposes of subsection (2)(a), the code company's shareholders may only approve the arrangement or amalgamation in the following way:
+  (4) For the purposes of subsection (2)⁠(a), the code company's shareholders may only approve the arrangement or amalgamation in the following way:
     (a) by a resolution approved by a majority of 75% of the votes of the shareholders in each interest class entitled to vote and voting on the question; and
     (b) by a resolution approved by a simple majority of the votes of those shareholders entitled to vote.
   (5) For the purposes of this section and section 236B,—
@@ -230,7 +230,7 @@ The following sections are inserted after section 236:Arrangement or amalgamatio
 
 ### 31 Consequential amendments to Takeovers Act 1993
 (1) This section amends the Takeovers Act 1993.
-(2) Section 2(1) is amended by repealing the definition of director and substituting the following definition:.
+(2) Section 2(1) is amended by repealing the definition of director and substituting the following definition:
   - **director** ,—
     (a) in relation to a company, means a person occupying the position of a director of the company, by whatever name called; and
     (b) in relation to a partnership (other than a special partnership or a limited partnership), means a partner; and
@@ -238,7 +238,7 @@ The following sections are inserted after section 236:Arrangement or amalgamatio
     (d) in relation to a body corporate or unincorporate not referred to in paragraphs (a) to (c), means a person occupying a position in the body corporate that is comparable with that of a director of a company; and
     (e) in relation to any other person, means that person; and
     (f) includes a person in accordance with whose directions or instructions a person referred to in paragraphs (a) to (e) may be required or is accustomed to act in respect of the performance or exercise of duties or powers as, or comparable to those of, a director
-(3) Section 8(1) is amended by inserting the following paragraph after paragraph (ea):.
+(3) Section 8(1) is amended by inserting the following paragraph after paragraph (ea):
   (eb) to consider applications for an order under section 236(1) of the Companies Act 1993 that affects the voting rights of a code company (within the meaning of that term in section 236A of the Companies Act 1993), and to indicate whether or not it has an objection to such an order:
 (4) The following section is inserted after section 23:Takeovers code does not apply where court order under section 236 of Companies Act 1993
   The takeovers code does not apply where the court has made an order under section 236(1) of the Companies Act 1993 that affects the voting rights of a code company (within the meaning of that term in section 236A of the Companies Act 1993).
@@ -246,14 +246,14 @@ The following sections are inserted after section 236:Arrangement or amalgamatio
 ### 32 Consequential amendments to takeovers code
 (1) This section amends the takeovers code set out in the Schedule of the Takeovers Code Approval Order 2000.
 (2) Paragraphs (b) and (c) of the definition of director in rule 3(1) are amended by inserting or a limited partnership after special partnership.
-(3) The definition of director in rule 3(1) is amended by repealing paragraph (d) and substituting the following paragraph:.
+(3) The definition of director in rule 3(1) is amended by repealing paragraph (d) and substituting the following paragraph:
   (d) in relation to a body corporate or unincorporate not referred to in paragraphs (a) to (c), means a person occupying a position in the body corporate that is comparable with that of a director of a company; and
-(4) The definition of director in rule 3(1) is amended by repealing paragraph (f) and substituting the following paragraph:.
+(4) The definition of director in rule 3(1) is amended by repealing paragraph (f) and substituting the following paragraph:
   (f) includes a person in accordance with whose directions or instructions a person referred to in paragraphs (a) to (e) may be required or is accustomed to act in respect of the performance or exercise of duties or powers as, or comparable to those of, a director
 
 ### 33 Consequential amendment to Takeovers (Fees) Regulations 2001
 (1) This section amends the Takeovers (Fees) Regulations 2001.
-(2) Regulation 4(2) is amended by inserting the following paragraph after paragraph (a):.
+(2) Regulation 4(2) is amended by inserting the following paragraph after paragraph (a):
   (aa) considering an application for an order under section 236(1) of the Companies Act 1993 that affects the voting rights of a code company (within the meaning of that term in section 236A of the Companies Act 1993), and indicating whether or not the Panel has an objection to such an order:
 
 **Transitional provision relating to amendments to Part 15 of principal Act**
@@ -270,31 +270,31 @@ The Schedule 10 set out in Schedule 1 of this Act is added.
 ## Part 4 — Enhanced powers of Registrar
 
 ### 36 Interpretation
-Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:.
+Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:
   - **control interest** has the meaning set out in sections 365B to 365E
 
 ### 37 Meaning of director
-(1) Section 126(1)(b) is amended by inserting 318(1)(bb), after 301,.
-(2) Section 126(1)(c) is amended by inserting 318(1)(bb), after 301,.
+(1) Section 126(1)⁠(b) is amended by inserting 318(1)⁠(bb), after 301,.
+(2) Section 126(1)⁠(c) is amended by inserting 318(1)⁠(bb), after 301,.
 
 ### 38 Grounds for removal from register
-(1) Section 318(1) is amended by inserting the following paragraph before paragraph (a):.
+(1) Section 318(1) is amended by inserting the following paragraph before paragraph (a):
   (aaa) the company does not comply with section 10; or
-(2) Section 318(1) is amended by repealing paragraph (b) and substituting the following paragraphs:.
+(2) Section 318(1) is amended by repealing paragraph (b) and substituting the following paragraphs:
   (b) the Registrar has reasonable grounds to believe that—
     (i) the company is not carrying on business; and
     (ii) there is no proper reason for the company to continue in existence; or
-  (ba) the company has failed to respond to a requirement made under section 365(1)(caaa) or (c); or
+  (ba) the company has failed to respond to a requirement made under section 365(1)⁠(caaa) or (c); or
   (bb) the Registrar has reasonable grounds to believe that the company, or 1 or more of its directors or shareholders, has failed to respond to a requirement made in relation to that or another company under section 365F or 365G; or
   (bc) the Registrar has reasonable grounds to believe that the company, or 1 or more of its directors or shareholders, has intentionally provided the Registrar with inaccurate information; or
   (bd) the Registrar has reasonable grounds to believe that the company, or 1 or more of its directors or shareholders, has failed in a persistent or serious way to comply with duties relating to the company—
     (i) under this Act; or
     (ii) under the Financial Reporting Act 1993 while in force, except that the Registrar may not rely on this ground after 5 years have elapsed after this subparagraph came into force; or
 (3) Section 318 is amended by inserting the following subsection after subsection (1):
-  (1A) The Registrar may choose not to proceed with the removal of a company from the New Zealand register despite subsection (1)(aaa), (bb), (bc), or (bd) applying.
-(4) Section 318(4)(b) is amended by omitting reason and substituting a proper reason.
+  (1A) The Registrar may choose not to proceed with the removal of a company from the New Zealand register despite subsection (1)⁠(aaa), (bb), (bc), or (bd) applying.
+(4) Section 318(4)⁠(b) is amended by omitting reason and substituting a proper reason.
 (5) Section 318 is amended by inserting the following subsection after subsection (4):
-  (4A) The Registrar may remove a company from the New Zealand register under subsection (1)(aaa), (ba), (bb), (bc), or (bd) only if—
+  (4A) The Registrar may remove a company from the New Zealand register under subsection (1)⁠(aaa), (ba), (bb), (bc), or (bd) only if—
     (a) the Registrar has complied with section 319; and
     (b) the Registrar—
       (i) is satisfied that no person has objected to the removal under section 321; or
@@ -302,95 +302,95 @@ Section 2(1) is amended by inserting the following definition in its appropriate
 
 ### 39 Notice of intention to remove where company has ceased to carry on business or application fee not paid
 (1) The heading to section 319 is amended by omitting where company has ceased to carry on business or application fee not paid and substituting company under paragraph (aaa), (b), (ba), (bb), (bc), (bd), or (f) of section 318(1).
-(2) Section 319(1) is amended by omitting section 318(1)(b) and substituting section 318(1)(aaa), (b), (ba), (bb), (bc), (bd),.
+(2) Section 319(1) is amended by omitting section 318(1)⁠(b) and substituting section 318(1)⁠(aaa), (b), (ba), (bb), (bc), (bd),.
 (3) Section 319 is amended by repealing subsection (2) and substituting the following subsection:
-  (2) The notice to be given under subsection (1)(a) must state the section under, and the grounds on which, it is intended to remove the company from the New Zealand register and must include the following information in respect of the relevant grounds:
-    (a) if section 318(1)(aaa) applies, that the company will be removed from the New Zealand register unless—
+  (2) The notice to be given under subsection (1)⁠(a) must state the section under, and the grounds on which, it is intended to remove the company from the New Zealand register and must include the following information in respect of the relevant grounds:
+    (a) if section 318(1)⁠(aaa) applies, that the company will be removed from the New Zealand register unless—
       (i) the Registrar does not, in accordance with section 322, proceed to remove the company from the register; or
       (ii) by the date specified in the notice, which must be at least 20 working days after the date of the notice, the company satisfies the Registrar (by notice in writing) that it complies with section 10:
-    (b) if section 318(1)(b) applies, that the company will be removed from the New Zealand register unless—
+    (b) if section 318(1)⁠(b) applies, that the company will be removed from the New Zealand register unless—
       (i) the Registrar does not, in accordance with section 322, proceed to remove the company from the register; or
       (ii) by the date specified in the notice, which must be at least 20 working days after the date of the notice, the company satisfies the Registrar (by notice in writing) that it is carrying on business or that there is a proper reason for it to continue in existence:
-    (c) if section 318(1)(ba) applies, that the company will be removed from the New Zealand register unless—
+    (c) if section 318(1)⁠(ba) applies, that the company will be removed from the New Zealand register unless—
       (i) the Registrar does not, in accordance with section 322, proceed to remove the company from the register; or
       (ii) by the date specified in the notice, which must be at least 20 working days after the date of the notice, the company (by notice in writing)—
-        (A) responds to the requirement made under section 365(1)(caaa) or (c) to the Registrar's satisfaction; or
+        (A) responds to the requirement made under section 365(1)⁠(caaa) or (c) to the Registrar's satisfaction; or
         (B) satisfies the Registrar that there is a proper reason for it to continue in existence:
-    (d) if section 318(1)(bb) applies, that the company will be removed from the New Zealand register unless—
+    (d) if section 318(1)⁠(bb) applies, that the company will be removed from the New Zealand register unless—
       (i) the Registrar does not, in accordance with section 322, proceed to remove the company from the register; or
       (ii) by the date specified in the notice, which must be at least 20 working days after the date of the notice, the company satisfies the Registrar (by notice in writing) that—
         (A) information has been disclosed as required by the Registrar under section 365F or 365G (in accordance with any specification under section 365H); or
         (B) there is a proper reason for the company to continue in existence:
-    (e) if section 318(1)(bc) applies, that the company will be removed from the New Zealand register unless—
+    (e) if section 318(1)⁠(bc) applies, that the company will be removed from the New Zealand register unless—
       (i) the Registrar does not, in accordance with section 322, proceed to remove the company from the register; or
       (ii) by the date specified in the notice, which must be at least 20 working days after the date of the notice, the company satisfies the Registrar (by notice in writing) that—
         (A) the information provided is accurate; or
         (B) the inaccurate information was provided unintentionally; or
         (C) accurate information has since been supplied; or
         (D) there is a proper reason for the company to continue in existence:
-    (f) if section 318(1)(bd) applies, that the company will be removed from the New Zealand register unless—
+    (f) if section 318(1)⁠(bd) applies, that the company will be removed from the New Zealand register unless—
       (i) the Registrar does not, in accordance with section 322, proceed to remove the company from the register; or
       (ii) by the date specified in the notice, which must be at least 20 working days after the date of the notice, the company satisfies the Registrar (by notice in writing) that—
         (A) there has been no persistent or serious failure to comply with duties relating to the company under this Act or the Financial Reporting Act 1993; or
         (B) there is a proper reason for the company to continue in existence:
-    (g) if section 318(1)(f) applies, that the company will be removed from the New Zealand register unless the fee prescribed by regulations for the application for registration of the company under section 12 is paid in full to the Registrar within 20 working days after the date of the notice.
-(4) Section 319(3)(c) is amended by omitting section 318(1)(b) applies and substituting section 318(1)(aaa), (b), (ba), (bb), (bc), or (bd) applies.
+    (g) if section 318(1)⁠(f) applies, that the company will be removed from the New Zealand register unless the fee prescribed by regulations for the application for registration of the company under section 12 is paid in full to the Registrar within 20 working days after the date of the notice.
+(4) Section 319(3)⁠(c) is amended by omitting section 318(1)⁠(b) applies and substituting section 318(1)⁠(aaa), (b), (ba), (bb), (bc), or (bd) applies.
 
 ### 40 Notice of intention to remove in other cases
 The heading to section 320 is amended by omitting in other cases and substituting company under paragraph (c), (d), or (e) of section 318(1).
 
 ### 41 Objection to removal from register
-(1) Section 321(1)(a) is amended by—
+(1) Section 321(1)⁠(a) is amended by—
   (a) omitting still; and
   (b) omitting other and substituting a proper.
-(2) Section 321 is amended by adding the following subsection:Grounds for removalGrounds for objectionThe company does not comply with section 10The company complies with section 10The company has failed to respond to a requirement made under section 365(1)(caaa) or (c)The company has responded to the requirement made under section 365(1)(caaa) or (c)The Registrar has reasonable grounds to believe that the company, or 1 or more of its directors or shareholders, has failed to respond to a requirement made in relation to that or another company under section 365F or 365GInformation has been disclosed as required by the Registrar under section 365F or 365G (in accordance with any specification under section 365H)The Registrar has reasonable grounds to believe that the company, or 1 or more of its directors or shareholders, has intentionally provided the Registrar with inaccurate informationThe company has provided accurate information or inaccurate information was provided unintentionallyThe Registrar has reasonable grounds to believe that the company, or 1 or more of its directors or shareholders, has failed to comply with duties relating to the company under this Act or the Financial Reporting Act 1993 in a serious or persistent wayThere has been no serious or persistent failure to comply with duties relating to the company under this Act or the Financial Reporting Act 1993
-  (4) Where a notice is given of an intention to remove a company from the New Zealand register, in addition to an objection to the removal on 1 or more of the grounds identified in subsection (1), in relation to any of the grounds for removal specified in the first column of the following table, any person may deliver to the Registrar, not later than the date specified in the notice, an objection to the removal on any of the corresponding grounds specified in the second column of the following table:
+(2) Section 321 is amended by adding the following subsection:
+  (4) Where a notice is given of an intention to remove a company from the New Zealand register, in addition to an objection to the removal on 1 or more of the grounds identified in subsection (1), in relation to any of the grounds for removal specified in the first column of the following table, any person may deliver to the Registrar, not later than the date specified in the notice, an objection to the removal on any of the corresponding grounds specified in the second column of the following table:The following table is small in size and has 2 columns. Column 1 is headed Grounds for removal. Column 2 is headed Grounds for objection.Grounds for removalGrounds for objectionThe company does not comply with section 10The company complies with section 10The company has failed to respond to a requirement made under section 365(1)⁠(caaa) or (c)The company has responded to the requirement made under section 365(1)⁠(caaa) or (c)The Registrar has reasonable grounds to believe that the company, or 1 or more of its directors or shareholders, has failed to respond to a requirement made in relation to that or another company under section 365F or 365GInformation has been disclosed as required by the Registrar under section 365F or 365G (in accordance with any specification under section 365H)The Registrar has reasonable grounds to believe that the company, or 1 or more of its directors or shareholders, has intentionally provided the Registrar with inaccurate informationThe company has provided accurate information or inaccurate information was provided unintentionallyThe Registrar has reasonable grounds to believe that the company, or 1 or more of its directors or shareholders, has failed to comply with duties relating to the company under this Act or the Financial Reporting Act 1993 in a serious or persistent wayThere has been no serious or persistent failure to comply with duties relating to the company under this Act or the Financial Reporting Act 1993
 (3) Section 321 is amended by inserting the following subsection after subsection (4):
   (5) An objection on the grounds described in subsection (1) or (4) must, if required by the Registrar, be verified by the production of original documents or certified copies of original documents or by statutory declaration.
 
 ### 42 Duties of Registrar if objection received
 (1) Section 322(1) is amended by inserting , or (4) after or (c).
-(2) Section 322(1) is amended by inserting the following paragraph after paragraph (b):.
-  (ba) despite the objection, section 318(1)(aaa), (ba), (bb), (bc), or (bd) applies; or
+(2) Section 322(1) is amended by inserting the following paragraph after paragraph (b):
+  (ba) despite the objection, section 318(1)⁠(aaa), (ba), (bb), (bc), or (bd) applies; or
 
 ### 43 Registrar may restore company to New Zealand register
-(1) Section 328(1) is amended by repealing paragraph (a) and substituting the following paragraph:.
+(1) Section 328(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) the grounds for the removal did not exist at the time the company was removed; or
 (2) Section 328 is amended by inserting the following subsection after subsection (1):
   (1A) The Registrar may, on the application of a person referred to in subsection (2), or on his or her own motion, restore a company that has been removed from the register to the register if the Registrar is satisfied that the company was carrying on business at the time of its removal and there is a proper reason for the company to continue in existence.
-(3) Section 328(3)(a) is amended by omitting paragraph (b) or paragraph (c) of section 318(1) and substituting section 318(1)(aaa), (b), (ba), (bb), (bc), (bd), or (c).
+(3) Section 328(3)⁠(a) is amended by omitting paragraph (b) or paragraph (c) of section 318(1) and substituting section 318(1)(aaa), (b), (ba), (bb), (bc), (bd), or (c).
 
 ### 44 Court may restore company to New Zealand register
-(1) Section 329(1)(a)(i) is amended by—
+(1) Section 329(1)⁠(a)⁠(i) is amended by—
   (a) omitting still; and
   (b) omitting other and substituting a proper.
 (2) Section 329 is amended by inserting the following subsection after subsection (1):
-  (1A) In considering whether to restore a company to the register on the ground referred to in subsection (1)(a)(i) or (b), the court must have regard to the reasons for the company’s removal and whether those grounds existed at the time of removal or exist at the time of the hearing of the application.
+  (1A) In considering whether to restore a company to the register on the ground referred to in subsection (1)⁠(a)⁠(i) or (b), the court must have regard to the reasons for the company’s removal and whether those grounds existed at the time of removal or exist at the time of the hearing of the application.
 
 ### 45 Rectification or correction of New Zealand register and overseas register
-(1) Section 360A(1)(b) is amended by omitting due to a clerical error by the Registrar.
-(2) Section 360A(2) is amended by omitting Before the Registrar rectifies the New Zealand register or the overseas register under subsection (1)(a), the Registrar must and substituting Unless the rectification or correction relates solely to the person who provided it, the Registrar, before rectifying the register under subsection (1)(a), must.
+(1) Section 360A(1)⁠(b) is amended by omitting due to a clerical error by the Registrar.
+(2) Section 360A(2) is amended by omitting Before the Registrar rectifies the New Zealand register or the overseas register under subsection (1)⁠(a), the Registrar must and substituting Unless the rectification or correction relates solely to the person who provided it, the Registrar, before rectifying the register under subsection (1)⁠(a), must.
 
 ### 46 Registration of documents
-Section 362(2) is amended by inserting the following paragraph after paragraph (b):.
-  (ba) is involved in a requirement made under section 365(1)(caaa) or (c), 365F, or 365G; or
+Section 362(2) is amended by inserting the following paragraph after paragraph (b):
+  (ba) is involved in a requirement made under section 365(1)⁠(caaa) or (c), 365F, or 365G; or
 
 ### 47 Registrar's powers of inspection
-(1) Section 365(1)(a) is amended by inserting the following subparagraph before subparagraph (i):.
+(1) Section 365(1)⁠(a) is amended by inserting the following subparagraph before subparagraph (i):
   (iaa) ascertaining whether information provided to the Registrar is correct; or
-(2) Section 365(1) is amended by inserting the following paragraph before paragraph (c):.
+(2) Section 365(1) is amended by inserting the following paragraph before paragraph (c):
   (caaa) require a person, in relation to information provided to the Registrar, to—
     (i) confirm that the information is correct; or
     (ii) correct the information; or
 (3) Section 365 is amended by inserting the following subsection after subsection (1):
-  (1A) When exercising the powers described in subsection (1)(caaa) or (c), the Registrar may specify—
+  (1A) When exercising the powers described in subsection (1)⁠(caaa) or (c), the Registrar may specify—
     (a) a particular form in which the confirmation or correction must be provided; and
     (b) a date by which the confirmation or correction must be provided; and
     (c) whether the confirmation or correction must be verified by the production of original documents or certified copies of original documents or by a statutory declaration.
-(4) Section 365(5)(a) is amended by omitting subsection (1)(c) and substituting subsection (1)(caaa) or (c).
+(4) Section 365(5)⁠(a) is amended by omitting subsection (1)⁠(c) and substituting subsection (1)⁠(caaa) or (c).
 
 ### 48 New sections 365A to 365H and headings inserted
-The following sections and headings are inserted after section 365:Registrar's powers to identify controllers of companyPurpose of sections 365B to 365HControl interests in shares (basic rule)1988 No 234 s 5Extension of basic rule to powers or controls exercisable through trust, agreement, etc1988 No 234 s 5AExtension of basic rule to interests held by other persons under control or acting jointly1988 No 234 s 5B(1)Situations not giving rise to control interests1988 No 234 s 6Registrar may require persons to disclose control interests and powers to get control interests1988 No 234 ss 34, 35; Corporations Act 2001 ss 672A, 672B (Aust)Registrar may require disclosure about controllers or delegates of directorsRegistrar may specify deadlines, form, and verification for information required under section 365F or 365GOther matters relating to Registrar's powers.
+The following sections and headings are inserted after section 365:Registrar's powers to identify controllers of companyPurpose of sections 365B to 365HControl interests in shares (basic rule)1988 No 234 s 5Extension of basic rule to powers or controls exercisable through trust, agreement, etc1988 No 234 s 5AExtension of basic rule to interests held by other persons under control or acting jointly1988 No 234 s 5B(1)Situations not giving rise to control interests1988 No 234 s 6Registrar may require persons to disclose control interests and powers to get control interests1988 No 234 ss 34, 35; Corporations Act 2001 ss 672A, 672B (Aust)Registrar may require disclosure about controllers or delegates of directorsRegistrar may specify deadlines, form, and verification for information required under section 365F or 365GOther matters relating to Registrar's powers
   (1) The purpose of sections 365B to 365H is to ensure that the Registrar may, for law enforcement purposes, obtain adequate, accurate, and timely information on the beneficial ownership and control of companies in order to conform with New Zealand's obligations under the FATF Recommendations.
   (2) In this section,—
     - **FATF** means the Financial Action Task Force on Money Laundering established in Paris in 1989
@@ -418,12 +418,12 @@ The following sections and headings are inserted after section 365:Registrar's p
       (c) a share in a building society:
       (d) a partnership interest in a partnership
     - **shareholder** means a holder of a share.
-  (3) For the purposes of subsection (1)(a), director means,—
+  (3) For the purposes of subsection (1)⁠(a), director means,—
     (a) in relation to a company, any person occupying the position of a director of the company by whatever name called:
     (b) in relation to a partnership (other than a limited partnership), any partner:
     (c) in relation to a limited partnership, any general partner:
     (d) in relation to a body corporate or unincorporate other than a company, partnership, or limited partnership, any person occupying a position in the body that is comparable with that of a director of a company.
-  (4) For the purposes of subsection (1)(d), a body corporate (A) is related to another body corporate (B) if—
+  (4) For the purposes of subsection (1)⁠(d), a body corporate (A) is related to another body corporate (B) if—
     (a) B is A's holding company or subsidiary; or
     (b) more than half of A's issued shares (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital) are held by B and bodies corporate that are related to B (whether directly or indirectly, but other than in a fiduciary capacity), or vice versa; or
     (c) more than half of the issued shares (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital) of each of A and B are held by members of the other (whether directly or indirectly, but other than in a fiduciary capacity); or
@@ -439,9 +439,9 @@ The following sections and headings are inserted after section 365:Registrar's p
     (a) control interests that the specified person has in shares of a company and of the circumstances that give rise to those interests; or
     (b) powers that the specified person has or may at any time have to acquire a control interest in shares of a company and of the circumstances that give rise to that interest; or
     (c) control interests that any other person (whom the specified person must identify by name and with current contact details) has in shares of a company and of the circumstances that give rise to the other person's interests.
-  (2) However, a matter referred to in subsection (1)(c) need only be disclosed to the extent to which it is known to the specified person required to make the disclosure.
+  (2) However, a matter referred to in subsection (1)⁠(c) need only be disclosed to the extent to which it is known to the specified person required to make the disclosure.
   (3) Subsection (1) applies regardless of whether the shares referred to in subsection (1) have voting rights or not or are issued or yet to be issued.
-  (4) Sections 365B to 365E apply in determining whether or not a person has a power referred to in subsection (1)(b) (and for this purpose every reference in those sections to a control interest must be read as including a reference to the power to acquire a control interest).
+  (4) Sections 365B to 365E apply in determining whether or not a person has a power referred to in subsection (1)⁠(b) (and for this purpose every reference in those sections to a control interest must be read as including a reference to the power to acquire a control interest).
   (5) The person must disclose the information required under subsection (1) in accordance with any specifications under section 365H.
   (6) For the purposes of this section, specified person, in relation to the company to which the requirement under subsection (1) relates, means—
     (a) a shareholder in the company:
@@ -472,7 +472,7 @@ The following sections and headings are inserted after section 365:Registrar's p
 (1) Section 366(1) is amended by—
   (a) omitting purpose and substituting purposes; and
   (b) inserting , 365F, 365G, or 365H after section 365.
-(2) Section 366(1)(g) is amended by inserting except in the case of an authorisation under section 365F, 365G, or 365H, before any person.
+(2) Section 366(1)⁠(g) is amended by inserting except in the case of an authorisation under section 365F, 365G, or 365H, before any person.
 (3) Section 366 is amended by inserting the following subsections after subsection (1):
   (1A) The Registrar or any person authorised by the Registrar may give information disclosed to the Registrar under section 365F or 365G to a government agency for law enforcement purposes if the Registrar is satisfied that the agency has a proper interest in receiving the information.
   (1B) For the purposes of subsection (1A),—
@@ -505,13 +505,13 @@ The following sections and headings are inserted after section 365:Registrar's p
       (g) the investigation of matters relating to security under the New Zealand Security Intelligence Service Act 1969:
       (h) any action referred to in paragraphs (a) to (g) taken in respect of legislation of an overseas jurisdiction that is broadly equivalent to the enactments listed in those paragraphs.
 (4) Section 366(2) and (3) are amended by inserting , 365F, 365G, or 365H after section 365.
-(5) Section 366(3)(c) is amended by omitting (1) or subsection (2) and substituting (1), (1A), (1B), or (2).
+(5) Section 366(3)⁠(c) is amended by omitting (1) or subsection (2) and substituting (1), (1A), (1B), or (2).
 
 ### 50 New sections 366A and 366B inserted
 The following sections are inserted after section 366:Registrar's powers to insert note of warning in registerRegistrar must remove note of warning
   (1) The Registrar may, if the Registrar thinks it is appropriate, insert a note of warning in the register in relation to a company in any of the following circumstances:
-    (a) information or documents relating to the company are subject to a requirement made under section 365(1)(caaa) or (c), 365F, 365G, or 365H:
-    (b) any of the grounds described in section 318(1)(aaa) or (b) to (f) apply to the company.
+    (a) information or documents relating to the company are subject to a requirement made under section 365(1)⁠(caaa) or (c), 365F, 365G, or 365H:
+    (b) any of the grounds described in section 318(1)⁠(aaa) or (b) to (f) apply to the company.
   (2) If the Registrar has inserted a note of warning in relation to a company (company A) under subsection (1), the Registrar may, if the Registrar thinks it is appropriate, also insert a note of warning in relation to any other company that shares a director with company A.
   The Registrar must remove a note of warning inserted under section 366A if the Registrar is satisfied that the reasons for inserting it do not exist.
 
@@ -525,16 +525,16 @@ Section 369 is amended by inserting , or in relation to a disclosure under secti
 **Additional power for Registrar or FMA to prohibit persons from managing companies**
 
 ### 53 Persons prohibited from managing companies
-Section 382(1) is amended by repealing paragraph (a) and substituting the following paragraph:.
+Section 382(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) a person has been convicted of an offence in connection with the promotion, formation, or management of a company (being an offence that is punishable by a term of imprisonment of not less than 3 months); or
 
 ### 54 Court may disqualify directors
-Section 383(1) is amended by repealing paragraph (a) and substituting the following paragraph:.
+Section 383(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) a person has been convicted of an offence in connection with the promotion, formation, or management of a company (being an offence that is punishable by a term of imprisonment of not less than 3 months), or has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961; or
 
 ### 55 New section 385AA inserted
 The following section is inserted after section 385:Additional power for Registrar or FMA to prohibit persons from managing companies
-  (1) This section applies in relation to a company that has been removed from the New Zealand register on any of the grounds described in section 318(1)(ba), (bb), (bc), or (bd).
+  (1) This section applies in relation to a company that has been removed from the New Zealand register on any of the grounds described in section 318(1)⁠(ba), (bb), (bc), or (bd).
   (2) The Registrar or the FMA may, by notice in writing given to a person, prohibit that person from being a director or promoter of a company, or being concerned in, or taking part (whether directly or indirectly) in the management of a company, during such period not exceeding 10 years after the date of the notice as is specified in the notice. Every notice must be published in the Gazette.
   (3) The power conferred by subsection (2) may be exercised in relation to any person who the Registrar or the FMA is satisfied was, within a period of 5 years before a notice was given to that person under subsection (4) (whether that period commenced before or after the commencement of this section), a director of, or concerned in, or a person who took part in, the management of, a company to which this section applies, unless that person satisfies the Registrar or the FMA—
     (a) that the acts or omissions of that person were not wholly or partly responsible for the company being a company to which this section applies; or
