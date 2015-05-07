@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-05-07_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -70,7 +70,7 @@ In this Act, unless the context otherwise requires,—
     (d) a thing (including, but not limited to, a disc, or an electronic or computer file) on which is recorded or stored information that, by the use of a computer or other electronic device, is capable of being reproduced or shown as 1 or more (or a combination of 1 or more) images, representations, signs, statements, or words
   - **rating** means the description of the audience for which a film is suitable (as determined in accordance with regulations made under this Act) assigned to a film under this Act
   - **register** means the register of classification decisions established and maintained under section 39
-  - **restricted publication** means a publication that is classified under section 23(2)(c)
+  - **restricted publication** means a publication that is classified under section 23(2)﻿(c)
   - **search warrant** means a warrant issued under section 109 or section 109A or section 109B
   - **Secretary** means the Secretary for Internal Affairs
   - **serial publication** —
@@ -84,7 +84,7 @@ In this Act, unless the context otherwise requires,—
     (a) means supply by way of sale, hire, exchange, or loan, in the course of any business; and includes sale, hire, exchange, or loan by—
       (i) any public library; or
       (ii) any club or association, whether public or private, and whether incorporated or unincorporated, that, as part of its activities, makes films available to its members; but
-    (b) does not include any supply of any film to any person who makes or distributes or supplies films, unless that person intends to supply that film to the public or, in the case of a club or association to which paragraph (a)(ii) applies, to its members;—
+    (b) does not include any supply of any film to any person who makes or distributes or supplies films, unless that person intends to supply that film to the public or, in the case of a club or association to which paragraph (a)﻿(ii) applies, to its members;—
   - **video game** means any video recording that is designed for use wholly or principally as a game
   - **video recording** means any disc, magnetic tape, or solid state recording device containing information by the use of which 1 or more series of visual images may be produced electronically and shown as a moving picture
   - **video slick** , in relation to a video recording, means any leaflet or notice (whether with or without illustrations or photographs) that contains information about the video recording and is intended to be affixed to, or inserted inside any sleeve of, any display case
@@ -127,12 +127,12 @@ In this Act, unless the context otherwise requires,—
   (f) any other relevant circumstances relating to the intended or likely use of the publication.
 
 ### 3A Publication may be age-restricted if it contains highly offensive language likely to cause serious harm
-(1) A publication to which subsection (2) applies may be classified as a restricted publication under section 23(2)(c)(i).
+(1) A publication to which subsection (2) applies may be classified as a restricted publication under section 23(2)﻿(c)﻿(i).
 (2) This subsection applies to a publication that contains highly offensive language to such an extent or degree that the availability of the publication would be likely, if not restricted to persons who have attained a specified age, to cause serious harm to persons under that age.
 (3) In this section, highly offensive language means language that is highly offensive to the public in general.
 
 ### 3B Publication may be age-restricted if likely to be injurious to public good for specified reasons
-(1) A publication to which subsection (2) applies may be classified as a restricted publication under section 23(2)(c)(i).
+(1) A publication to which subsection (2) applies may be classified as a restricted publication under section 23(2)﻿(c)﻿(i).
 (2) This subsection applies to a publication that contains material specified in subsection (3) to such an extent or degree that the availability of the publication would, if not restricted to persons who have attained a specified age, be likely to be injurious to the public good for any or all of the reasons specified in subsection (4).
 (3) The material referred to in subsection (2) is material that—
   (a) describes, depicts, expresses, or otherwise deals with—
@@ -150,8 +150,8 @@ In this Act, unless the context otherwise requires,—
 ### 3C Procedure for classification under sections 3A and 3B
 In determining whether to classify a publication as a restricted publication in accordance with section 3A or section 3B, the Classification Office must consider the matters specified in paragraphs (a) to (f) of section 3(4).
 
-### 3D How sections 3A and 3B relate to sections 3 and 23(2)(c)
-Sections 3A and 3B are not limited by section 3, and do not limit the Classification Office's power under sections 3 and 23(2)(c) to classify a publication as a restricted publication.
+### 3D How sections 3A and 3B relate to sections 3 and 23(2)﻿(c)
+Sections 3A and 3B are not limited by section 3, and do not limit the Classification Office's power under sections 3 and 23(2)﻿(c) to classify a publication as a restricted publication.
 
 ### 4 Classification of publications a matter of expert judgment
 (1) The question whether or not a publication is objectionable or should in accordance with section 23(2) be given a classification other than objectionable is a matter for the expert judgment of the person or body authorised or required, by or pursuant to this Act, to determine it, and evidence as to, or proof of, any of the matters or particulars that the person or body is required to consider in determining that question is not essential to its determination.
@@ -219,7 +219,7 @@ Section 6 does not apply in respect of the private screening, for commercial pur
 (3) Subject to subsection (4), every application under subsection (1) shall be accompanied by—
   (a) a copy of the film in respect of which the application is made; and
   (b) the fee set by the labelling body for such an application.
-(4) The labelling body may, in accordance with regulations made under this Act, exempt any applicant from the requirements of subsection (3)(a).
+(4) The labelling body may, in accordance with regulations made under this Act, exempt any applicant from the requirements of subsection (3)﻿(a).
 
 ### 10 Issue of labels
 (1) Subject to any regulations made under this Act, on receiving an application under section 9(1), the labelling body shall, as soon as practicable, examine the film and, subject to subsection (3) and to section 12, shall issue a label in respect of that film.
@@ -255,18 +255,18 @@ For the purposes of this Part, the rating and description (if any) assigned to a
   (ab) the Commissioner of Police:
   (b) the Secretary:
   (c) subject to subsection (2), any other person.
-(2) A publication may be submitted to the Classification Office under subsection (1)(c) only with the leave of the Chief Censor given under section 15.
+(2) A publication may be submitted to the Classification Office under subsection (1)﻿(c) only with the leave of the Chief Censor given under section 15.
 (3) The Chief Censor may, on his or her own motion, determine that any publication should be received for examination by the Classification Office. In any such case the Chief Censor shall, by notice in writing, direct the chief executive of the New Zealand Customs Service or the Secretary to take all reasonable steps to obtain a copy of the publication and submit it to the Classification Office under paragraph (a) or, as the case requires, paragraph (b) of subsection (1).
 
 ### 14 How to submit publications (officials)
-(1) A publication shall be submitted to the Classification Office under subsection (1)(a) or (b) of section 13 by lodging a notice of submission in the prescribed manner with the Classification Office.
+(1) A publication shall be submitted to the Classification Office under subsection (1)﻿(a) or (b) of section 13 by lodging a notice of submission in the prescribed manner with the Classification Office.
 (2) Every notice of submission shall be in the form provided for that purpose by the Chief Censor.
 (3) Every notice of submission lodged with the Classification Office shall be accompanied by—
   (a) the prescribed fee (if any); and
   (b) a copy of the publication to which the notice relates.
 
 ### 15 How to submit publications (others)
-(1) Every person who wishes to submit a publication to the Classification Office under section 13(1)(c) shall lodge a notice of submission in the prescribed manner with the Classification Office.
+(1) Every person who wishes to submit a publication to the Classification Office under section 13(1)﻿(c) shall lodge a notice of submission in the prescribed manner with the Classification Office.
 (2) Every notice of submission shall be in the form provided for that purpose by the Chief Censor and shall be accompanied by the prescribed fee (if any).
 (3) Subject to section 16, on receiving a notice of submission lodged under this section, the Chief Censor shall decide whether or not to give leave for the publication to be submitted to the Classification Office.
 (4) Where the Chief Censor grants leave under this section in relation to a publication, the publication shall be deemed to have been submitted to the Classification Office for a decision on that publication's classification.
@@ -282,7 +282,7 @@ For the purposes of this Part, the rating and description (if any) assigned to a
   (b) determine whether or not, in his or her opinion, the Chief Censor should give leave under section 15 for the publication to be submitted to the Classification Office; and
   (c) report his or her opinion to the Chief Censor.
 (3) In making a determination under subsection (2), the complaints officer shall have regard to any guidelines issued for the purpose by the Chief Censor.
-(4) Where the Chief Censor receives a report under subsection (2)(c) in relation to a publication, the Chief Censor shall take the recommendation in that report into consideration in deciding, under section 15, whether or not to grant leave for the publication to be submitted to the Classification Office.
+(4) Where the Chief Censor receives a report under subsection (2)﻿(c) in relation to a publication, the Chief Censor shall take the recommendation in that report into consideration in deciding, under section 15, whether or not to grant leave for the publication to be submitted to the Classification Office.
 
 ### 17 Submission to lapse if publication unobtainable
 (1) Where a notice of submission relating to a publication is lodged with the Classification Office under section 15(1), and a copy of that publication is not submitted to the Classification Office, the Classification Office shall take all reasonable steps to obtain a copy of the publication.
@@ -372,9 +372,9 @@ For the purposes of this Act, the classification given to a publication under se
 
 ### 28 Further provisions relating to conditions on public display of restricted publications
 (1) Any 1 or more of the conditions specified in subsection (4) or, as the case may require, subsection (5) of section 27 may be imposed in respect of a publication, and, without limiting the generality of the foregoing, any 2 or more conditions may be expressed as alternatives.
-(2) Subject to subsections (2) and (3) of section 27, in determining whether to impose, or in imposing, in respect of a publication other than a book or a newspaper, the condition specified in section 27(4)(a), the Classification Office shall have regard to the nature of the publication.
+(2) Subject to subsections (2) and (3) of section 27, in determining whether to impose, or in imposing, in respect of a publication other than a book or a newspaper, the condition specified in section 27(4)﻿(a), the Classification Office shall have regard to the nature of the publication.
 (3) Nothing in section 27(5) limits or affects the powers of the Classification Office to examine or approve film posters under any regulations made under this Act.
-(4) For the purposes of this Act, a condition imposed pursuant to subsection (4)(e) or subsection (5)(c) of section 27 prohibiting the public display of any thing in any place shall, in so far as the condition relates to the public display of that thing in any premises, prohibit the public display of that thing not only in those premises but also—
+(4) For the purposes of this Act, a condition imposed pursuant to subsection (4)﻿(e) or subsection (5)﻿(c) of section 27 prohibiting the public display of any thing in any place shall, in so far as the condition relates to the public display of that thing in any premises, prohibit the public display of that thing not only in those premises but also—
   (a) on the exterior of those premises:
   (b) in the immediate vicinity of those premises.
 
@@ -389,7 +389,7 @@ For the purposes of this Act, the classification given to a publication under se
     (iii) if the publication is used for 1 or more specified purposes,—
 (2) Where in any civil or criminal proceedings the defendant admits that a publication—the court may accept that admission and dispense with a reference to the Classification Office.
   (a) is objectionable; or
-  (b) is objectionable except in any 1 or more of the circumstances referred to in subsection (1)(b),—
+  (b) is objectionable except in any 1 or more of the circumstances referred to in subsection (1)﻿(b),—
 (3) Where the Classification Office or the Board has classified a publication under this Act, the production in any proceedings of a copy, certified by the Classification Office, of the entry in the register recording that decision, together with a certificate from the Classification Office that the decision is still in force, shall be sufficient proof in any court of the decision, and if that decision is conclusive proof of the classification of that publication under section 41, the court shall dispense with a reference to the Classification Office in those proceedings.
 
 ### 30 Report of findings to be sent to court
@@ -441,9 +441,9 @@ Sections 32 to 34, so far as they are applicable and with the necessary modifica
 ### 36A Issue of labels in respect of other publications that are classified as restricted publications
 (1) This subsection applies to a publication (other than a film) if the Classification Office has—
   (a) examined the publication and classified it as a restricted publication; and
-  (b) imposed pursuant to section 27(4)(a) a condition requiring the classification given to the publication to be shown when it is on public display.
+  (b) imposed pursuant to section 27(4)﻿(a) a condition requiring the classification given to the publication to be shown when it is on public display.
 (2) If subsection (1) applies to a publication, the Classification Office must direct the labelling body to issue in respect of the publication a label that specifies the classification given to the publication.
-(3) Where, under subsection (2), or following an order under section 55(1)(da), the Classification Office directs the labelling body to issue a label in respect of a publication, each of the following things is, for the purposes of this Act, deemed to be cancelled:
+(3) Where, under subsection (2), or following an order under section 55(1)﻿(da), the Classification Office directs the labelling body to issue a label in respect of a publication, each of the following things is, for the purposes of this Act, deemed to be cancelled:
   (a) any label previously issued in respect of the publication by the labelling body; and
   (b) any previous direction by the Classification Office to the labelling body to issue a label in respect of the publication.
 
@@ -478,7 +478,7 @@ Sections 32 to 34, so far as they are applicable and with the necessary modifica
   (b) the classification given to the publication; and
   (c) where, pursuant to section 27, the Classification Office has imposed conditions on the public display of the publication, or any advertising poster or film poster relating to the publication, or both, those conditions; and
   (d) in the case of a film, the terms of any direction given to the labelling body under section 36 to issue a label in respect of that film:
-  (e) in the case of a publication (other than a film) that is the subject of a condition imposed pursuant to section 27(4)(a), the terms of any direction given to the labelling body under section 36A(2) to issue a label in respect of that publication.
+  (e) in the case of a publication (other than a film) that is the subject of a condition imposed pursuant to section 27(4)﻿(a), the terms of any direction given to the labelling body under section 36A(2) to issue a label in respect of that publication.
 (3) Every person shall, on request, and on payment of such fee (if any) as the Classification Office may determine, be entitled to a copy of any notice given pursuant to this section.
 
 **Classification decisions made on or after 1 October 2012**
@@ -488,12 +488,12 @@ Sections 32 to 34, so far as they are applicable and with the necessary modifica
 (2) The register must be established and maintained in an electronic medium.
 (3) There must be entered in the register for each publication examined by the Classification Office or the Board the following information:
   (a) the decision as to the publication's classification; and
-  (b) the date on which notice of the decision was given, under section 38(1), by the Classification Office or, under section 55(1)(c), by the Board; and
+  (b) the date on which notice of the decision was given, under section 38(1), by the Classification Office or, under section 55(1)﻿(c), by the Board; and
   (c) the date of entry of the decision in the register; and
   (d) such other information as may be prescribed in regulations made under section 149.
 (4) The information specified in subsection (3) must be entered in the register,—
   (a) in the case of a publication examined by the Classification Office, within 5 working days after the date on which, under section 38(1), the Classification Office gives notice of its decision:
-  (b) in the case of a publication examined by the Board, within 5 working days after the date on which, under section 55(1)(c), the Board gives notice of its decision.
+  (b) in the case of a publication examined by the Board, within 5 working days after the date on which, under section 55(1)﻿(c), the Board gives notice of its decision.
 (5) The Chief Censor must take all reasonable steps to ensure that the information contained in the register is available at all reasonable times for inspection by the public.
 (6) The Chief Censor must supply to any person a paper or an electronic copy of all or part of the register on request and on payment of a reasonable charge for the production of the copy.
 
@@ -538,7 +538,7 @@ Sections 32 to 34, so far as they are applicable and with the necessary modifica
   (a) keep the lists produced in accordance with section 40 prior to the repeal of that section by section 10 of the Films, Videos, and Publications Classification Amendment Act 2012; and
   (b) make those lists open to inspection by the public during ordinary office hours; and
   (c) supply to any person on request, and on payment of a fee (if any), a copy of any such list.
-(2) Any fee charged under subsection (1)(c) must be no more than is reasonably required to recover the cost of supplying the list.
+(2) Any fee charged under subsection (1)﻿(c) must be no more than is reasonably required to recover the cost of supplying the list.
 
 ### 42C Saving in respect of decisions made before 1 October 2012
 The provisions of this Act and the Films, Videos, and Publications Classification Regulations 1994 continue to apply to decisions made by the Classification Office or Board before 1 October 2012 as if the Films, Videos, and Publications Classification Amendment Act 2012 had not been enacted.
@@ -585,10 +585,10 @@ In any prosecution for an offence against this Act, the burden of proving that t
   (c) where the publication has been referred to the Classification Office by a court pursuant to section 29(1) or section 41(3), any party to the proceeding in respect of which that referral was made:
   (d) in all cases, the owner, maker, publisher, or authorised distributor of the publication:
   (e) with the leave of the Secretary, any other person.
-(3) Every application for the leave of the Secretary under subsection (2)(e) must—
+(3) Every application for the leave of the Secretary under subsection (2)﻿(e) must—
   (a) be made in the prescribed manner; and
   (b) be lodged with the Secretary before the deadline specified in subsection (3A).
-(3A) The deadline referred to in subsection (3)(b) is the end of ordinary office hours on the 20th working day after the day on which the relevant decision of the Classification Office is entered in the register in accordance with section 39.
+(3A) The deadline referred to in subsection (3)﻿(b) is the end of ordinary office hours on the 20th working day after the day on which the relevant decision of the Classification Office is entered in the register in accordance with section 39.
 (4) For the purposes of this section, a decision of the Classification Office under section 27 to impose any condition on the public display of any restricted publication, or any advertising poster or film poster relating to a restricted publication, or both, or a refusal or failure to impose any such condition, or any particular such condition, under that section, shall be deemed to be a decision with respect to the classification of that publication.
 
 ### 48 Applications for review
@@ -599,8 +599,8 @@ In any prosecution for an offence against this Act, the burden of proving that t
 (2) On receiving under this section an application for review the Secretary must, if satisfied that it complies with subsection (1), forward it forthwith to the President of the Board.
 
 ### 48A Deadline for lodging applications for review
-The deadline referred to in section 48(1)(b) is,—
-  (a) if the person concerned requires the leave of the Secretary under section 47(2)(e) in order to seek the review, the end of ordinary office hours on whichever is the later of the following:
+The deadline referred to in section 48(1)﻿(b) is,—
+  (a) if the person concerned requires the leave of the Secretary under section 47(2)﻿(e) in order to seek the review, the end of ordinary office hours on whichever is the later of the following:
     (i) the fifth working day after the day on which that leave is granted by the Secretary; or
     (ii) the 30th working day after the day on which the relevant decision of the Classification Office is entered in the register in accordance with section 39; and
   (b) in every other case, the end of ordinary office hours on the 30th working day after the day on which the relevant decision of the Classification Office is entered in the register in accordance with section 39.
@@ -639,7 +639,7 @@ The deadline referred to in section 48(1)(b) is,—
 (1) Except as provided in subsections (2) to (4) or in section 54, neither the applicant for review nor any other person shall have the right to appear before, or to be heard by, or to make submissions to, the Board in respect of any review.
 (2) The following persons shall be entitled to make written submissions to the Board in relation to a publication submitted for review:
   (a) the applicant for review:
-  (b) if the applicant for review is a party to the proceeding referred to in section 47(2)(c), every other party to that proceeding:
+  (b) if the applicant for review is a party to the proceeding referred to in section 47(2)﻿(c), every other party to that proceeding:
   (c) any other person who satisfies the Board that the person is likely to be affected by the Board's decision.
 (3) The Board may, on the application of any person who is entitled to make written submissions to the Board in respect of the review, or on its own motion, hold a hearing for the purposes of hearing oral submissions in respect of any review.
 (4) At any hearing held by the Board under subsection (3), the following persons shall be entitled to appear and be heard, and may, with the leave of the Board, be represented by counsel or some other duly authorised person:
@@ -649,8 +649,8 @@ The deadline referred to in section 48(1)(b) is,—
 ### 54 Consultation
 (1) For the purposes of any review under this Part, the Board shall have the same power to consult any person (including the Classification Office), invite written submissions, obtain information, and make inquiries as is conferred on the Classification Office by section 21.
 (2) If the Board consults the person submitting the publication for review, or receives written submissions from that person or any other person in accordance with section 53(2), it shall notify the Classification Office of that fact, and invite the Classification Office to make submissions to the Board in relation to that publication.
-(3) If the Board consults the Classification Office otherwise than on purely technical matters, it shall notify the person submitting the publication for review, and, if that person is a party to the proceeding referred to in section 47(2)(c), every other party to that proceeding, that it has done so, and invite that person and every other such party to make submissions to the Board in relation to that publication.
-(4) If the Board consults any person who is a party to the proceeding referred to in section 47(2)(c), it shall notify the Classification Office, and every other person who is a party to that proceeding, that it has done so, and invite the Classification Office and those persons to make submissions to the Board in relation to that publication.
+(3) If the Board consults the Classification Office otherwise than on purely technical matters, it shall notify the person submitting the publication for review, and, if that person is a party to the proceeding referred to in section 47(2)﻿(c), every other party to that proceeding, that it has done so, and invite that person and every other such party to make submissions to the Board in relation to that publication.
+(4) If the Board consults any person who is a party to the proceeding referred to in section 47(2)﻿(c), it shall notify the Classification Office, and every other person who is a party to that proceeding, that it has done so, and invite the Classification Office and those persons to make submissions to the Board in relation to that publication.
 
 ### 55 Decision of Board
 (1) After examining any publication submitted to it for review, the Board shall—
@@ -661,12 +661,12 @@ The deadline referred to in section 48(1)(b) is,—
     (ii) the Classification Office; and
     (iii) if the review is in respect of a publication referred to the Classification Office by a court pursuant to section 29 or section 41(3), to that court; and
   (d) where the review is in respect of a film submitted to the Classification Office pursuant to section 12, order the Classification Office to direct the labelling body to issue a label in respect of that film pursuant to section 36; and
-  (da) where the review is in respect of a publication (other than a film) and the Board imposes a condition pursuant to section 27(4)(a), order the Classification Office to direct the labelling body, in accordance with section 36A(2), to issue a label in respect of the publication; and
+  (da) where the review is in respect of a publication (other than a film) and the Board imposes a condition pursuant to section 27(4)﻿(a), order the Classification Office to direct the labelling body, in accordance with section 36A(2), to issue a label in respect of the publication; and
   (e) direct the Classification Office to enter the Board's decision in the register.
 (2) Notwithstanding anything in subsection (1), on any review of a publication, the Board shall have the same powers as are conferred on the Classification Office by this Act (other than the powers conferred by section 37).
-(2A) Before giving written notice of its decision under subsection (1)(c), the Board may inform the persons specified in that paragraph of—
-  (a) the classification given to the publication under subsection (1)(a); and
-  (b) any conditions imposed under subsection (1)(b).
+(2A) Before giving written notice of its decision under subsection (1)﻿(c), the Board may inform the persons specified in that paragraph of—
+  (a) the classification given to the publication under subsection (1)﻿(a); and
+  (b) any conditions imposed under subsection (1)﻿(b).
 (3) Where the Board makes any decision in relation to any publication submitted to it under section 47, the decision of the Classification Office in relation to that publication (including any conditions imposed under section 27), and the classification given to that publication by the Classification Office, shall, for the purposes of this Act, be deemed to be cancelled.
 
 ### 56 Reconsideration of decisions referred under section 41(3)
@@ -692,7 +692,7 @@ The Board may, on its own motion, state a case for the opinion of the High Court
 (1) Every appeal under section 58 shall be instituted by the appellant lodging a notice of appeal, within 20 working days after the date the decision is given, with—
   (a) the Registrar of the High Court at Wellington; and
   (b) the Secretary.
-(1A) For the purpose of subsection (1), a decision is given when the Board gives written notice, under section 55(1)(c), of its decision and of the reasons for its decision.
+(1A) For the purpose of subsection (1), a decision is given when the Board gives written notice, under section 55(1)﻿(c), of its decision and of the reasons for its decision.
 (2) Subject to section 60, either before or immediately after the lodging of the notice of appeal the appellant shall serve a copy of the notice of appeal, either personally or by post, on every other person who would have been entitled to appeal under section 58 against the decision in respect of which the appeal has been brought.
 (3) Service under subsection (2), if by post, shall be by registered letter and shall, for the purposes of this section, be deemed in the absence of evidence to the contrary to be effected at the time when the letter would be delivered in the ordinary course of post.
 (4) Every notice of appeal shall specify—
@@ -784,7 +784,7 @@ The functions of the labelling body are as follows:
     (ii) all other material on which is material to which the labelling body would, in accordance with regulations made under this Act, be permitted to assign a rating:
   (bb) to issue, at the direction of the Classification Office under section 36 or section 36A(2), and in accordance with regulations made under this Act, labels in respect of the following publications:
     (i) a film to which section 36(1) or (2) applies:
-    (ii) a publication (other than a film) that is the subject of a condition imposed pursuant to section 27(4)(a):
+    (ii) a publication (other than a film) that is the subject of a condition imposed pursuant to section 27(4)﻿(a):
   (c) to examine, in accordance with regulations made under this Act, any film poster used or intended to be used in relation to the public supply or public exhibition of any film.
 
 ### 72 Approval of labelling body
@@ -857,7 +857,7 @@ The functions of the labelling body are as follows:
 (4) Subsection (3) applies despite anything to the contrary in Schedule 5 of that Act.
 
 ### 80 Appointments to Classification Office
-(1) The Chief Censor and the Deputy Chief Censor must be appointed under section 28(1)(b) of the Crown Entities Act 2004 by the Governor-General on the recommendation of the Minister acting with the concurrence of the Minister of Women's Affairs and the Minister of Justice.
+(1) The Chief Censor and the Deputy Chief Censor must be appointed under section 28(1)﻿(b) of the Crown Entities Act 2004 by the Governor-General on the recommendation of the Minister acting with the concurrence of the Minister of Women's Affairs and the Minister of Justice.
 (2) The Chief Censor may from time to time, under clause 2 of Schedule 1, appoint as classification officers persons to assist the Chief Censor and the Deputy Chief Censor in carrying out their functions and powers under this Act.
 (3) In considering whether or not to recommend to the Governor-General the appointment, under subsection (1), of any person, the Minister shall have regard not only to the person's personal attributes but also to the person's knowledge of or experience in the different aspects of matters likely to come before the Classification Office.
 (3A) Subsection (3) does not limit section 29 of the Crown Entities Act 2004.
@@ -866,7 +866,7 @@ The functions of the labelling body are as follows:
 
 ### 81 Term of office
 (1) A person appointed under section 80 may be appointed for any period not exceeding 3 years, and may from time to time be reappointed for any period not exceeding 3 years.
-(2) Subsection (1) applies despite section 32(1)(b) of the Crown Entities Act 2004.
+(2) Subsection (1) applies despite section 32(1)﻿(b) of the Crown Entities Act 2004.
 (3) Clause 2 of Schedule 5 of the Crown Entities Act 2004 does not apply.
 
 ### 82 Continuation in office after term expires
@@ -961,7 +961,7 @@ No person shall be deemed to be employed in the service of the Crown for the pur
 (1) A member of the Board is entitled—
   (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
   (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
-(2) For the purposes of subsection (1)(b), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
+(2) For the purposes of subsection (1)﻿(b), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
 
 ### 100 Meetings of Board
 (1) The Board of Review shall meet for the conduct of its business at such times and places as it considers necessary.
@@ -1022,7 +1022,7 @@ The Secretary shall arrange for there to be furnished to the Board such secretar
 ### 107 Inspector may seize publications
 (1) Without limiting section 106, where an Inspector discovers any person offering for public supply, or exhibiting to the public, any film (not being a film that is exempted, by section 7 or section 8, from the provisions of section 6), and—the Inspector may seize the film, and any cassette, case, or other container in or on which that film is kept or offered for public supply, and deliver them to the Secretary.
   (a) the Inspector believes, on reasonable grounds, that no label has been issued under this Act in respect of that film; or
-  (b) the film is being offered for public supply, or exhibited to the public, in contravention of subsection (1)(b) or subsection (2)(b) or subsection (3) of section 120,—
+  (b) the film is being offered for public supply, or exhibited to the public, in contravention of subsection (1)﻿(b) or subsection (2)﻿(b) or subsection (3) of section 120,—
 (2) Without limiting section 106, where—the Inspector may seize the publication and deliver it to the Secretary.
   (a) an Inspector discovers any person publicly displaying any publication; and
   (b) the Inspector believes, on reasonable grounds,—
@@ -1197,7 +1197,7 @@ In section 122,—
 ### 124 Offences involving knowledge in relation to objectionable publications
 (1) Every person commits an offence against this Act who does any act mentioned in section 123(1), knowing or having reasonable cause to believe that the publication is objectionable.
 (2) Every person who commits an offence against subsection (1) is liable on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 10 years:
+  (a) in the case of an individual, to imprisonment for a term not exceeding 14 years:
   (b) in the case of a body corporate, to a fine not exceeding $200,000.
 
 ### 124A Where distribution, importation, etc, not an offence
@@ -1271,10 +1271,14 @@ Nothing in section 123 or section 124 applies to the exhibition or display, to a
 (3) It shall be no defence to a charge under this section that the defendant had no knowledge of the condition or conditions applicable to the publication or poster to which the charge relates.
 
 ### 131 Offence to possess objectionable publication
-(1) Subject to subsections (4) and (5), every person commits an offence against this Act who, without lawful authority or excuse, has in that person's possession an objectionable publication.
+(1) Every person commits an offence against this Act who, without lawful authority or excuse, has in that person's possession an objectionable publication.
+(1A) Subsection (1) is subject to subsections (4) and (5).
 (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $2,000:
   (b) in the case of a body corporate, $5,000.
+(2A) A person can have an electronic publication in that person's possession for the purposes of subsection (1) even though that person's actual or potential physical custody or control of the publication is not, or does not include, that person intentionally or knowingly using a computer or other electronic device to save the publication (or a copy of it).
+(2B) Electronic publication, in subsection (2A), means a thing that is a publication under paragraph (d) of the definition of publication in section 2.
+(2C) Subsection (2A) is for the avoidance of doubt, and does not limit subsection (1).
 (3) It shall be no defence to a charge under subsection (1) that the defendant had no knowledge or no reasonable cause to believe that the publication to which the charge relates was objectionable.
 (4) Nothing in subsection (1) makes it an offence for any of the following persons to be in possession of an objectionable publication, where such possession is for the purpose of and in connection with the person's official duties:
   (a) the Chief Censor:
@@ -1302,7 +1306,7 @@ Nothing in section 123 or section 124 applies to the exhibition or display, to a
 ### 131A Offences relating to possession of objectionable publications and involving knowledge
 (1) Every person commits an offence who does any act that constitutes an offence against section 131(1), knowing or having reasonable cause to believe that the publication is objectionable.
 (2) Every person who commits an offence against subsection (1) is liable on conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $50,000:
+  (a) in the case of an individual, to imprisonment for a term not exceeding 10 years or to a fine not exceeding $50,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
 ### 132 Exhibiting parts of a publication
@@ -1319,16 +1323,31 @@ A person may be convicted of exhibiting an objectionable publication if what is 
   (a) promotes or supports, or tends to promote or support, the exploitation of children, or young persons, or both, for sexual purposes:
   (b) describes, depicts, or otherwise deals with sexual conduct with or by children, or young persons, or both:
   (c) exploits the nudity of children, or young persons, or both.
-(3) In deciding for the purposes of subsection (2) to what extent (if any) a publication is objectionable because it does any or all of the things specified in subsection (2)(a) to (c), the court must have regard,—
+(3) In deciding for the purposes of subsection (2) to what extent (if any) a publication is objectionable because it does any or all of the things specified in subsection (2)﻿(a) to (c), the court must have regard,—
   (a) if there is a subsisting decision of the Classification Office, or of the Board, to the reasons for the decision given by the Classification Office, under section 38, or by the Board, under section 55; and
   (b) if the publication has been referred to the Classification Office under section 29(1) or section 41(3), to the report provided by the Classification Office to the court under section 30.
 (4) Nothing in this section affects the application of the Sentencing Act 2002 in respect of the offence.
+
+### 132B Presumption of imprisonment for repeat offenders
+(1) This section applies only to an offender who—
+  (a) has been convicted of and is to be sentenced in respect of a specified publications offence committed after the commencement of this section (the repeat offence); and
+  (b) before the repeat offence was committed and the conviction for it was entered, had both committed and been convicted of 1 or more specified publications offences committed before or after that commencement.
+(2) An offence is a specified publications offence for the purposes of subsection (1) only if—
+  (a) the offence is one against a provision specified in section 132A(1)﻿(a) to (e); and
+  (b) the publication that was the subject of the offence does (to any extent) any or all of the things specified in section 132A(2)﻿(a) to (c).
+(3) In deciding for the purposes of subsection (2)﻿(b) whether a publication is objectionable because it does (to any extent) any or all of the things specified in section 132A(2)﻿(a) to (c), the court must have regard,—
+  (a) if there is a subsisting decision of the Classification Office, or of the Board, to the reasons for the decision given by the Classification Office, under section 38, or by the Board, under section 55; and
+  (b) if the publication has been referred to the Classification Office under section 29(1) or section 41(3), to the report provided by the Classification Office to the court under section 30.
+(4) The offender must be sentenced for the repeat offence to a sentence of imprisonment (within the meaning of the Sentencing Act 2002) unless the court considers that the offender should not be so sentenced, having regard to—
+  (a) the particular circumstances of the repeat offence; and
+  (b) the particular circumstances of the offender (including, without limitation, his or her age if he or she is under 20 years of age).
+(5) This section overrides, as they apply to the repeat offence, all inconsistent provisions in the Sentencing Act 2002.
 
 **Miscellaneous offences**
 
 ### 133 Contravention of serial publication order or interim restriction order
 Every person commits an offence and is liable on conviction to a fine not exceeding,—who acts in contravention of, or fails to comply with, section 37(5) or section 37(6) or section 49(3) or section 67(3).
-  (a) in the case of a individual, $3,000; or
+  (a) in the case of an individual, $3,000; or
   (b) in the case of a body corporate, $10,000,—
 
 ### 134 Obstruction of Inspector
@@ -1381,20 +1400,15 @@ Notwithstanding anything in any contract, whether entered into before or after t
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
 (2) This section does not apply to an offence against section 124(1), 127(4), or 131A(1).
 
-### 144 Leave of Attorney-General to prosecute
-(1) No prosecution for an offence against any of sections 123 to 129 or against section 131 or section 131A or section 133 shall be commenced except with the leave of the Attorney-General.
-(2) The Attorney-General may delegate the powers of the Attorney-General under subsection (1) to the Commissioner of Police in respect of offences concerning any particular class of publications.
-(3) The Commissioner of Police, in purporting to act under any delegation under subsection (2), shall, in the absence of proof to the contrary, be presumed to be acting within the terms of the delegation.
-(4) Any such delegation may be at any time revoked by the Attorney-General, in whole or in part, but that revocation shall not affect in any way anything done under the delegated authority.
-(5) No such delegation shall prevent the exercise by the Attorney-General of any power under subsection (1).
+### 144 Attorney-General's consent required for private prosecutions of certain publications offences
+No private prosecution (as defined in section 5 of the Criminal Procedure Act 2011) for an offence against all or any of the provisions of the following sections can be commenced without the Attorney-General's consent:
+  (a) sections 123 to 129 (offences involving objectionable or restricted publications):
+  (b) section 131 (offence to possess objectionable publication):
+  (c) section 131A (offences relating to possession of objectionable publications and involving knowledge):
+  (d) section 133 (contravention of serial publication order or interim restriction order).
 
 ### 145 Delegation of powers by Commissioner of Police
-(1) The Commissioner of Police may from time to time, by writing under the Commissioner's hand, either generally or particularly, delegate to such constable or constables, of a level of position not less than Inspector, as the Commissioner thinks fit, all or any of the powers delegated to the Commissioner under section 144.
-(2) Every person purporting to act pursuant to any delegation under this section shall be presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
-(3) Subject to subsection (1), any delegation under this section may be made to a specified constable or to constables of a specified level of position or class, or may be made to the holder or holders for the time being of a specified office or class of offices.
-(4) Every delegation under this section shall be revocable at will, and no such delegation shall prevent the exercise of any power by the Commissioner of Police.
-(5) Any such delegation shall, until revoked, continue in force according to its tenor, notwithstanding the fact that the Commissioner of Police by whom it was made may have ceased to hold office, and shall continue to have effect as if made by the successor in office of that Commissioner.
-(6) The revocation of any such delegation shall not affect in any way anything done under the delegated authority.
+[Repealed]
 
 ### 145A Extraterritorial jurisdiction for certain offences as required by Optional Protocol
 (1) In this section and sections 145B and 145C,—
@@ -1425,7 +1439,7 @@ Notwithstanding anything in any contract, whether entered into before or after t
 (1) For the purposes of the Extradition Act 1999 and any Order in Council in force under section 15 or section 104 of that Act, every relevant offence that involves child pornography is deemed to be an offence described in any extradition treaty—
   (a) concluded before the commencement of section 34 of the Films, Videos, and Publications Classification Amendment Act 2005; and
   (b) for the time being in force between New Zealand and any foreign country that is a party to the Optional Protocol.
-(2) A person whose surrender is sought from New Zealand in respect of an act that amounts to an offence deemed by subsection (1) to be an offence described in an extradition treaty is liable to be surrendered in accordance with the Extradition Act 1999 and the applicable extradition treaty, whether the act occurred before or after the commencement referred to in subsection (1)(a).
+(2) A person whose surrender is sought from New Zealand in respect of an act that amounts to an offence deemed by subsection (1) to be an offence described in an extradition treaty is liable to be surrendered in accordance with the Extradition Act 1999 and the applicable extradition treaty, whether the act occurred before or after the commencement referred to in subsection (1)﻿(a).
 (3) However, subsection (2) does not apply in respect of an act that, had it occurred within the jurisdiction of New Zealand, would not, at the time that it occurred, have constituted an offence under New Zealand law.
 (4) A certificate given and signed by the Minister of Foreign Affairs and Trade that a foreign country is a party to the Optional Protocol is, in the absence of proof to the contrary, sufficient evidence of that fact.
 (5) For the purposes of this section, child pornography, Optional Protocol, and relevant offence have the meanings given to them by section 145A(1), and foreign country includes a territory—
@@ -1444,9 +1458,9 @@ Notwithstanding anything in any contract, whether entered into before or after t
   (b) that soundtrack, or part of that soundtrack (other than isolated words or phrases), is not in the English language or the Maori language,—
   (c) require the person who submitted that film to supply to the Classification Office an English translation, by a translator approved by the Classification Office, of that soundtrack, or part of that soundtrack; or
   (d) with the consent of the person who submitted that film, arrange for an English translation to be made of that soundtrack, or part of that soundtrack.
-(2) Where the Classification Office arranges for the translation of a soundtrack, or part of a soundtrack, pursuant to subsection (1)(d), the Classification Office may require the person who submitted the film to which that soundtrack relates to meet all or part of the costs of that translation, and such costs shall be recoverable under this section as a debt due to the Classification Office.
+(2) Where the Classification Office arranges for the translation of a soundtrack, or part of a soundtrack, pursuant to subsection (1)﻿(d), the Classification Office may require the person who submitted the film to which that soundtrack relates to meet all or part of the costs of that translation, and such costs shall be recoverable under this section as a debt due to the Classification Office.
 (3) Where, in respect of any film submitted to the Classification Office under section 12 or section 42,—the submission of that film to the Classification Office shall be deemed to have been withdrawn, and the Classification Office shall notify the person who submitted that film accordingly.
-  (a) the person who submitted that film is required, pursuant to subsection (1)(c), to supply to the Classification Office an English translation of the soundtrack, or part of the soundtrack, accompanying that film, and that person refuses or fails, within such reasonable period as the Classification Office may allow, to supply that translation; or
+  (a) the person who submitted that film is required, pursuant to subsection (1)﻿(c), to supply to the Classification Office an English translation of the soundtrack, or part of the soundtrack, accompanying that film, and that person refuses or fails, within such reasonable period as the Classification Office may allow, to supply that translation; or
   (b) the person who submitted that film is required, pursuant to subsection (2), to meet all or part of the costs of translating the soundtrack, or part of the soundtrack, accompanying that film, and that person refuses or fails, within such reasonable period as the Classification Office may allow, to comply with that requirement,—
 
 ### 147 Printed matter to be marked with name and address of publisher or wholesale distributor
@@ -1555,7 +1569,7 @@ Subject to section 155, where, at the commencement of this section, any proceedi
 (2) Where this section applies, the following provisions shall apply:
   (a) the provisions of the Indecent Publications Act 1963 (including those provisions that confer a right of appeal to the High Court against a decision of the Tribunal) shall continue and be in force for the purposes of dealing with the matter, as if this Act had not been passed:
   (b) except where a classification has been given to the book or sound recording under this Act, section 152 shall apply in respect of the decision of the Tribunal or, as the case may be, the High Court on the matter as if it were a decision to which that section applied.
-(3) Nothing in subsection (2)(b) shall apply in respect of a decision of the Tribunal in any case where that decision is superseded by a decision of the High Court on an appeal against the Tribunal's decision.
+(3) Nothing in subsection (2)﻿(b) shall apply in respect of a decision of the Tribunal in any case where that decision is superseded by a decision of the High Court on an appeal against the Tribunal's decision.
 
 ### 156 Alteration of appeal period
 Notwithstanding anything in any of sections 152 to 155, where, by virtue of any of those sections, any right of appeal to the High Court under section 19 of the Indecent Publications Act 1963 against a decision of the Tribunal is preserved for the benefit of, or conferred on, any person, then, for the purposes of any such appeal (other than an appeal that has been lodged before the commencement of this section), subsection (1) of that section shall be read as if the words or within such further period as the High Court may allow were omitted.
@@ -1592,7 +1606,7 @@ In sections 161 to 166, unless the context otherwise requires,—
   (c) if the decision is that a video recording is indecent, be deemed to be a decision that the video recording is objectionable.
 (4) For the purposes of section 39, every decision to which this section applies shall be deemed to have been entered in, and to form part of, the register.
 (5) For the purposes of the application of sections 41 and 42 to any decision to which this section applies, sections 41(2), 42(1), and 42(2) shall be read as if, for the words entered in the register as they appear in each of those provisions, there were substituted in each case the word made.
-(6) Subject to section 164, where, in respect of a decision to which this section applies (being a decision of the Authority), the period of 30 days prescribed by section 37(1)(b) of the Video Recordings Act 1987 within which an application may be made under section 36 of that Act to the Video Recordings Board of Review in respect of the video recording has not, at the date of the commencement of this section, expired, and no such application has been lodged before that date,—
+(6) Subject to section 164, where, in respect of a decision to which this section applies (being a decision of the Authority), the period of 30 days prescribed by section 37(1)﻿(b) of the Video Recordings Act 1987 within which an application may be made under section 36 of that Act to the Video Recordings Board of Review in respect of the video recording has not, at the date of the commencement of this section, expired, and no such application has been lodged before that date,—
   (a) there shall be no right to lodge an application under that section in respect of that video recording; but
   (b) any person who would have been entitled to lodge an application under that section in respect of that video recording may, within 30 working days after that date, apply under section 47 to have the video recording to which the decision relates reviewed by the Board, and the provisions of this Act shall apply accordingly with all necessary modifications.
 (7) Notwithstanding that a decision to which this section applies is deemed to be a decision of the Classification Office, but subject to subsection (6), nothing in subsection (2) shall be construed so as to entitle any person to make an application under section 47 in relation to the video recording to which the decision relates.
@@ -1615,7 +1629,7 @@ Where, before the commencement of this section, an application has been made und
 (1) Notwithstanding anything in sections 161 to 163, this section applies in the following cases:
   (a) where, before the commencement of this section, a video recording has been referred to the Authority under section 20 or section 29(3) of the Video Recordings Act 1987, and, at the commencement of this section,—
     (i) those proceedings are pending before the Authority; or
-    (ii) the Authority has made a decision in those proceedings but the period of 30 days prescribed by section 37(1)(b) of the Video Recordings Act 1987 within which an application may be made under section 36 of that Act to the Video Recordings Board of Review in respect of the video recording has not expired, and no such application has been lodged; or
+    (ii) the Authority has made a decision in those proceedings but the period of 30 days prescribed by section 37(1)﻿(b) of the Video Recordings Act 1987 within which an application may be made under section 36 of that Act to the Video Recordings Board of Review in respect of the video recording has not expired, and no such application has been lodged; or
     (iii) an application under section 36 of that Act in respect of that video recording is pending:
   (b) where, before the commencement of this section, a video recording has been referred to the Video Recordings Board of Review under section 29(3) of the Video Recordings Act 1987, and, at the commencement of this section, those proceedings are pending before that Board:
   (c) where, before the date of the commencement of this section, the question referred to in subsection (1) of section 20 of the Video Recordings Act 1987 has arisen in any civil or criminal proceedings and, by virtue of that section, that question would, before that date, have been required to be referred to the Authority for decision but has not been so referred before that date:
@@ -1623,7 +1637,7 @@ Where, before the commencement of this section, an application has been made und
 (2) Where this section applies, the following provisions shall apply:
   (a) the provisions of the Video Recordings Act 1987 (including Parts 3 and 4) shall continue and be in force for the purposes of dealing with the matter, as if this Act had not been passed:
   (b) except where a classification has been given to the video recording under this Act, section 161 shall apply in respect of the decision of the Authority or, as the case may be, the Video Recordings Board of Review on the matter as if it were a decision to which that section applied.
-(3) Nothing in subsection (2)(b) shall apply in respect of a decision of the Authority in any case where that decision is superseded by a decision of the Video Recordings Board of Review in accordance with section 38(10) of the Video Recordings Act 1987.
+(3) Nothing in subsection (2)﻿(b) shall apply in respect of a decision of the Authority in any case where that decision is superseded by a decision of the Video Recordings Board of Review in accordance with section 38(10) of the Video Recordings Act 1987.
 
 ### 165 Proceedings before High Court or Court of Appeal
 For the avoidance of doubt, it is hereby declared that section 22 of the Acts Interpretation Act 1924 applies in respect of any proceedings under Part 4 of the Video Recordings Act 1987 that are pending before the High Court or the Court of Appeal at the commencement of this section.
@@ -1651,7 +1665,7 @@ In sections 168 to 170, unless the context otherwise requires,—
   (b) if the decision refuses to approve a film for exhibition, be deemed to be a decision that the film is objectionable.
 (4) For the purposes of section 39, every decision to which this section applies shall be deemed to have been entered in, and to form part of, the register.
 (5) For the purposes of the application of sections 41 and 42 to any decision to which this section applies, sections 41(2), 42(1), and 42(2) shall be read as if, for the words entered in the register as they appear in each of those provisions, there were substituted in each case the word made.
-(6) Where, in respect of a decision to which this section applies (being a decision of the Chief Censor), the period of 30 days prescribed by section 31(1)(a) of the Films Act 1983 within which an application may be made under section 30 of that Act to the Films Censorship Board of Review in respect of the film has not, at the date of the commencement of this section, expired, and no such application has been lodged before that date,—
+(6) Where, in respect of a decision to which this section applies (being a decision of the Chief Censor), the period of 30 days prescribed by section 31(1)﻿(a) of the Films Act 1983 within which an application may be made under section 30 of that Act to the Films Censorship Board of Review in respect of the film has not, at the date of the commencement of this section, expired, and no such application has been lodged before that date,—
   (a) there shall be no right to lodge an application under that section in respect of that film; but
   (b) any person who would have been entitled to lodge an application under that section in respect of that film may, within 30 working days after that date, apply under section 47 to have the film to which the decision relates reviewed by the Board, and the provisions of this Act shall apply accordingly with all necessary modifications.
 (7) Notwithstanding that a decision to which this section applies is deemed to be a decision of the Classification Office, but subject to subsection (6), nothing in subsection (2) shall be construed so as to entitle any person to make an application under section 47 in relation to the film to which the decision relates.
@@ -1793,7 +1807,7 @@ The income of the Classification Office shall be exempt from income tax.
 ## Part 1 — Amendments to principal Act
 
 ### 6 Transitional provision
-(1) Sections 3A to 3D of the principal Act (inserted by section 5) and section 23(2)(c)(i) of the principal Act (as amended by section 11) (the new provisions) apply only to—
+(1) Sections 3A to 3D of the principal Act (inserted by section 5) and section 23(2)﻿(c)﻿(i) of the principal Act (as amended by section 11) (the new provisions) apply only to—
   (a) publications submitted or referred to the Classification Office or Board of Review under the principal Act before the commencement of this section, but not classified by the Classification Office or the Board (whether for a first time or by way of reconsideration) before that commencement; and
   (b) publications submitted or referred to the Classification Office or Board of Review under the principal Act on or after the commencement of this section.
 (2) No person may be convicted of an offence against section 125(1) or section 126(1) of the principal Act in respect of conduct before the commencement of this section if the conviction would rely solely on a classification made under any of the new provisions.
@@ -1805,7 +1819,7 @@ The income of the Classification Office shall be exempt from income tax.
 
 ### 12 Conditions relating to display of restricted publications
 (1) Amendment(s) incorporated in the Act(s).
-(2) A condition imposed pursuant to section 27(4)(a) of the principal Act (as that section read immediately before the commencement of this section, and in subsection (3)(a) called the former provision) must, after the commencement of this section, be treated as having been imposed pursuant to section 27(4)(a) (as substituted by subsection (1)).
+(2) A condition imposed pursuant to section 27(4)﻿(a) of the principal Act (as that section read immediately before the commencement of this section, and in subsection (3)﻿(a) called the former provision) must, after the commencement of this section, be treated as having been imposed pursuant to section 27(4)﻿(a) (as substituted by subsection (1)).
 (3) However, a condition to which subsection (2) applies must be treated as requiring the classification given to the publication concerned to be shown,—
   (a) if the Classification Office specified a manner under the former provision, in that manner; and
   (b) in every other case, in any manner the person who publicly displays the publication concerned thinks fit.
