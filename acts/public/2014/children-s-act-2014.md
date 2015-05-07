@@ -1,5 +1,5 @@
 # Vulnerable Children Act 2014
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2015-05-07_
 
 ### 1 Title
 This Act is the Vulnerable Children Act 2014.
@@ -55,14 +55,14 @@ In this Part, improving the well-being of vulnerable children, in relation to th
 (3) An instrument recording priorities set or changed under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and does not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 8 Preparation of vulnerable children’s plan
-(1) The chief executives of the children’s agencies must after priorities are set or changed under section 7 work together to do both of the following no later than a date specified (under this subsection and, if applicable, section 12(1)(b)) by the responsible Minister:
+(1) The chief executives of the children’s agencies must after priorities are set or changed under section 7 work together to do both of the following no later than a date specified (under this subsection and, if applicable, section 12(1)﻿(b)) by the responsible Minister:
   (a) develop a draft vulnerable children’s plan; and
   (b) submit it to the responsible Minister for approval.
 (2) The responsible Minister must, after consulting the children’s Ministers about the draft plan,—
   (a) approve the draft plan; or
   (b) refer it to the chief executives of the children’s agencies for reconsideration, together with the Minister’s reasons for referring it back to the chief executives.
-(3) The chief executives, on receiving a referral under subsection (2)(b), must reconsider the draft plan and, as soon as practicable, submit a revised draft plan to the Minister for approval under subsection (1).
-(4) The vulnerable children’s plan must, after it is approved by the responsible Minister, be published (with, or without, any related reports accompanying the draft plan submitted for approval under subsection (1)(b))—
+(3) The chief executives, on receiving a referral under subsection (2)﻿(b), must reconsider the draft plan and, as soon as practicable, submit a revised draft plan to the Minister for approval under subsection (1).
+(4) The vulnerable children’s plan must, after it is approved by the responsible Minister, be published (with, or without, any related reports accompanying the draft plan submitted for approval under subsection (1)﻿(b))—
   (a) in the Gazette; or
   (b) by 1 or more other means of publication (for example, on Internet sites maintained by or on behalf of children's agencies) each of which has been approved by the responsible Minister and notified in the Gazette.
 
@@ -152,7 +152,7 @@ The purpose of this Part is to require child protection policies (that must cont
     (a) a board as defined in section 60, and for the purposes of Part 7 (control and management of State schools), of the Education Act 1989; or
     (b) a sponsor of a partnership school kura hourua (as those terms are defined in section 2(1) of that Act); or
     (c) the manager or managers of a private school that is registered under section 35A of that Act.
-(2) The Governor-General may, by Order in Council, prescribe, for the purposes of paragraph (c)(ii) of the definition of children's services in subsection (1), classes, descriptions, or kinds of services—
+(2) The Governor-General may, by Order in Council, prescribe, for the purposes of paragraph (c)﻿(ii) of the definition of children's services in subsection (1), classes, descriptions, or kinds of services—
   (a) provided to adults living in households that include 1 or more children; and
   (b) that do or may affect significantly any 1 or more aspects of the well-being of those children.
 (3) The Governor-General may, by Order in Council, prescribe, for the purposes of paragraph (d) of the definition of children's services in subsection (1), classes, descriptions, or kinds of services provided in respect of children.
@@ -166,11 +166,11 @@ The chief executive of a prescribed State service must ensure that the service,�
     (i) adopts, as soon as is practicable, a child protection policy; and
     (ii) ensures that a copy of the policy is available on an Internet site maintained by or on behalf of the service; and
     (iii) reviews the policy within 3 years of the date of its first adoption, or of its most recent review, under this section; and
-  (b) ensures that every contract, or funding arrangement, that after that commencement the chief executive or the service (in either case, acting on the Crown's behalf, or independently) enters into with an independent person requires the person as soon as is practicable to adopt (and to review in accordance with paragraph (a)(iii)) a child protection policy if, in the opinion of the chief executive of the State service,—
+  (b) ensures that every contract, or funding arrangement, that after that commencement the chief executive or the service (in either case, acting on the Crown's behalf, or independently) enters into with an independent person requires the person as soon as is practicable to adopt (and to review in accordance with paragraph (a)﻿(iii)) a child protection policy if, in the opinion of the chief executive of the State service,—
     (i) the person is or becomes a provider of children's services; and
     (ii) some or all of the contract or arrangement is about providing children's services; and
   (c) reports in its annual report (under section 43 of the Public Finance Act 1989 or another enactment) on whether, or on the extent to which,—
-    (i) its operations have implemented any policy it is required to adopt under paragraph (a)(i); and
+    (i) its operations have implemented any policy it is required to adopt under paragraph (a)﻿(i); and
     (ii) its contracts and funding arrangements have complied with paragraph (b).
 
 ### 17 DHBs boards to adopt, report on, and require child protection policies
@@ -261,10 +261,10 @@ The purpose of this Part is to reduce the risk of harm to children by requiring 
 (1) In this Part, specified organisation means any of the following that employs or engages a children's worker to perform a regulated service:
   (a) any of the State services:
   (b) an individual or organisation that is funded (whether wholly or partly and whether directly or indirectly) by a State service to provide regulated services:
-  (c) on and after the date that is 2 years after the date on which this Part comes into force (or any earlier date specified in regulations made under section 33(1)(b)),—
+  (c) on and after the date that is 2 years after the date on which this Part comes into force (or any earlier date specified in regulations made under section 33(1)﻿(b)),—
     (i) local authorities; and
     (ii) individuals and organisations that are funded (whether wholly or partly and whether directly or indirectly) by a local authority to provide regulated services.
-(2) Despite subsection (1), an individual or organisation is not a specified organisation if it is declared by regulations made under section 33(1)(c) not to be a specified organisation for the purposes of this Part.
+(2) Despite subsection (1), an individual or organisation is not a specified organisation if it is declared by regulations made under section 33(1)﻿(c) not to be a specified organisation for the purposes of this Part.
 (3) Despite subsection (1), the following are not specified organisations:
   (a) an individual (person A) who, in relation to a child (child A),—
     (i) is a parent or guardian, or has the care, of child A; and
@@ -313,7 +313,7 @@ The purpose of this Part is to reduce the risk of harm to children by requiring 
   (b) the termination is deemed to be a justifiable dismissal for the purposes of Part 9 of the Employment Relations Act 2000.
 (9) A specified organisation that contravenes subsection (2) or (3), knowing that, or being reckless as to whether, the person is a person to whom this section applies, commits an offence and is liable on conviction to a fine not exceeding $50,000.
 (10) A specified organisation that contravenes subsection (4), (5), (6), or (7) commits an offence and is liable on conviction to a fine not exceeding $50,000.
-(11) Subsection (8)(a) does not limit or affect the Wages Protection Act 1983.
+(11) Subsection (8)﻿(a) does not limit or affect the Wages Protection Act 1983.
 
 **Defences**
 
@@ -356,18 +356,18 @@ It is a defence to a charge for an offence against sections 25 to 28 that all th
     (i) adding any new regulated service; or
     (ii) omitting any regulated service; or
     (iii) correcting or updating the description of any regulated service:
-  (b) specifying a date (being a date earlier than 2 years after the date on which this Part comes into force) on which local authorities, and the individuals and organisations referred to in section 24(1)(c), become specified organisations:
+  (b) specifying a date (being a date earlier than 2 years after the date on which this Part comes into force) on which local authorities, and the individuals and organisations referred to in section 24(1)﻿(c), become specified organisations:
   (c) providing that individuals or organisations, or classes of individuals or organisations, are not specified organisations (but see subsection (4)):
   (d) prescribing the process, not inconsistent with this Part, for applying for, granting, and revoking exemptions under section 35:
   (e) prescribing the processes and requirements for approving screening services under section 40, and the process and grounds on which any approval may be suspended or cancelled:
   (f) providing for any other matter contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
-(2) Regulations may be made under subsection (1)(a)(i) only in accordance with a recommendation by the Minister that he or she is satisfied that the service proposed to be added to Schedule 1 employs or engages, or is likely to employ or engage, children's workers and that the requirements of this Part relating to the checking of children's workers should apply.
-(3) Regulations may be made under subsection (1)(a)(ii) only in accordance with a recommendation by the Minister that he or she is satisfied that omitting the regulated service from Schedule 1 will not result in undue risk to the safety of children.
-(4) Regulations may be made under subsection (1)(c) only in accordance with a recommendation by the Minister that he or she is satisfied that providing that individuals or organisations, or classes of individuals or organisations, identified in the regulations are not specified organisations will not result in undue risk to the safety of children.
+(2) Regulations may be made under subsection (1)﻿(a)﻿(i) only in accordance with a recommendation by the Minister that he or she is satisfied that the service proposed to be added to Schedule 1 employs or engages, or is likely to employ or engage, children's workers and that the requirements of this Part relating to the checking of children's workers should apply.
+(3) Regulations may be made under subsection (1)﻿(a)﻿(ii) only in accordance with a recommendation by the Minister that he or she is satisfied that omitting the regulated service from Schedule 1 will not result in undue risk to the safety of children.
+(4) Regulations may be made under subsection (1)﻿(c) only in accordance with a recommendation by the Minister that he or she is satisfied that providing that individuals or organisations, or classes of individuals or organisations, identified in the regulations are not specified organisations will not result in undue risk to the safety of children.
 
 ### 34 Transitional provision relating to local authorities, etc
 (1) In this section,—
-  - **original specified organisation** means an organisation referred to in section 24(1)(a) or (b) (being an organisation that is a specified organisation on the date on which this section comes into force)
+  - **original specified organisation** means an organisation referred to in section 24(1)﻿(a) or (b) (being an organisation that is a specified organisation on the date on which this section comes into force)
   - **later specified organisation** means an organisation that becomes a specified organisation at any time after this section comes into force.
 (2) In order to enable the obligations in sections 25, 26, and 28 to apply to a later specified organisation in the same, staggered, way that those sections apply to original specified organisations, references in those sections to the date on which this Part comes into force must be treated as references to the date on which the organisation became a later specified organisation.
 
@@ -421,7 +421,7 @@ A person whose application for an exemption has been declined, and a person whos
 (2) Every approval—
   (a) must specify the aspects of a safety check that the screening service is approved to provide; and
   (b) may specify which specified organisations, and which kind of children's worker, the screening services may be used in relation to.
-(3) If regulations are made under section 33(1)(e), approval of a screening service may be given, and may be suspended or cancelled, only in accordance with the processes, requirements, and grounds set out in those regulations.
+(3) If regulations are made under section 33(1)﻿(e), approval of a screening service may be given, and may be suspended or cancelled, only in accordance with the processes, requirements, and grounds set out in those regulations.
 (4) Notice of every approval, and of every suspension or cancellation, must be given in the Gazette.
 
 ### 41 Prosecution of offences
@@ -432,7 +432,7 @@ A person whose application for an exemption has been declined, and a person whos
 
 ### 42 Amendments to Crown Organisations (Criminal Liability) Act 2002
 (1) This section amends the Crown Organisations (Criminal Liability) Act 2002.
-(2) After section 6(1)(d), insert:
+(2) After section 6(1)﻿(d), insert:
   (e) an offence against Part 3 of the Vulnerable Children Act 2014.
 (3) In section 7(a), replace or the Resource Management Act 1991 with the Resource Management Act 1991, or Part 3 of the Vulnerable Children Act 2014.
 
