@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2014-12-15_
+_Consolidation as at 2015-05-07_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -30,7 +30,7 @@ _Consolidation as at 2014-12-15_
   - **Judge** , in relation to a District Court, or means a Judge who holds a warrant under section 5B of the District Courts Act 1947 to conduct jury trials
   - **justified** , in relation to any person, means not guilty of an offence and not liable to any civil proceeding
   - **is liable** means is liable on conviction
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **New Zealand** includes all waters within the outer limits of the territorial sea of New Zealand (as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
   - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 1990; and includes any aircraft for the time being used as an aircraft of the New Zealand forces
   - **New Zealand forces** means the New Zealand Naval Forces, the New Zealand Army, and the Royal New Zealand Air Force
@@ -621,13 +621,13 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
 
 ### 78C Questions of law in relation to espionage or wrongful communication of information
 (1) It is a question of law, in the case of—whether the communication or delivery or intended communication or intended delivery was or would have been, at the time of the alleged offence, likely to have prejudiced the security or defence of New Zealand.
-  (a) an offence against section 78 or section 78A(1)(a); or
-  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1)(a); or
-  (c) the offence of attempting to commit an offence against section 78 or section 78A(1)(a),—
+  (a) an offence against section 78 or section 78A(1)⁠(a); or
+  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1)⁠(a); or
+  (c) the offence of attempting to commit an offence against section 78 or section 78A(1)⁠(a),—
 (2) It is a question of law, in the case of,—whether the document would, by its unauthorised disclosure at the time of the alleged offence, have been likely to have prejudiced or to have prejudiced seriously, as the case may require, the security or defence of New Zealand.
-  (a) an offence against section 78A(1)(b) or (c); or
-  (b) the offence of conspiring to commit an offence against section 78A(1)(b) or (c); or
-  (c) the offence of attempting to commit an offence against section 78A(1)(b) or (c),—
+  (a) an offence against section 78A(1)⁠(b) or (c); or
+  (b) the offence of conspiring to commit an offence against section 78A(1)⁠(b) or (c); or
+  (c) the offence of attempting to commit an offence against section 78A(1)⁠(b) or (c),—
 (3) Where the decision on any question of law to which this section applies depends on any questions of fact, the prosecutor or the defendant may adduce, and the Judge may hear, in addition to the evidence heard by the jury, any evidence relevant to those questions of fact.
 
 ### 78D Search without warrant
@@ -783,8 +783,8 @@ Every one is liable to imprisonment for a term not exceeding 7 years who, within
     (i) is undertaken for a material benefit; and
     (ii) involves the exposure of the person's genitalia, anus, or breasts.
 (4) For the purposes of paragraphs (b) and (c) of subsection (3), sexual exploitation, in relation to a person, does not include the recording or transmission of an artistic or cultural performance or display honestly undertaken primarily for purposes other than the exposure of body parts for the sexual gratification of viewers.
-(5) For the purposes of subsection (3)(b), sexual exploitation, in relation to a person, does not include the taking or transmission of images of the person's genitalia, anus, or breasts for the purpose of depicting a medical condition, or a surgical or medical technique, for the instruction or information of health professionals.
-(6) For the purposes of subsection (3)(b), sexual exploitation, in relation to a person, does not include the taking or transmission of images of the person's genitalia, anus, or breasts if the images are honestly intended—
+(5) For the purposes of subsection (3)⁠(b), sexual exploitation, in relation to a person, does not include the taking or transmission of images of the person's genitalia, anus, or breasts for the purpose of depicting a medical condition, or a surgical or medical technique, for the instruction or information of health professionals.
+(6) For the purposes of subsection (3)⁠(b), sexual exploitation, in relation to a person, does not include the taking or transmission of images of the person's genitalia, anus, or breasts if the images are honestly intended—
   (a) to provide medical or health education; or
   (b) to provide information relating to medical or health matters; or
   (c) to advertise a product, instrument, or service intended to be used for medical or health purposes.
@@ -934,10 +934,10 @@ Every official is liable to imprisonment for a term not exceeding 7 years who, w
   - **foreign public enterprise** means—
     (a) a company, wherever incorporated, that—
       (i) a foreign government is able to control or dominate (whether by reason of its ownership of shares in the company, its voting powers in the company, or its ability to appoint 1 or more directors (however described), or by reason that the directors (however described) are accustomed or under an obligation to act in accordance with the directions of that government, or otherwise); and
-      (ii) enjoys subsidies or other privileges that are enjoyed only by companies, persons, or bodies to which subparagraph (i) or paragraph (b)(i) apply; or
+      (ii) enjoys subsidies or other privileges that are enjoyed only by companies, persons, or bodies to which subparagraph (i) or paragraph (b)⁠(i) apply; or
     (b) a person or body (other than a company), wherever situated, that—
       (i) a foreign government is able to control or dominate (whether by reason of its ability to appoint the person or 1 or more members of the body, or by reason that the person or members of the body are accustomed or under an obligation to act in accordance with the directions of that government, or otherwise); and
-      (ii) enjoys subsidies or other privileges that are enjoyed only by companies, persons, or bodies to which subparagraph (i) or paragraph (a)(i) apply
+      (ii) enjoys subsidies or other privileges that are enjoyed only by companies, persons, or bodies to which subparagraph (i) or paragraph (a)⁠(i) apply
   - **foreign public official** includes any of the following:
     (a) a member or officer of the executive, judiciary, or legislature of a foreign country:
     (b) a person who is employed by a foreign government, foreign public agency, foreign public enterprise, or public international organisation:
@@ -975,7 +975,7 @@ Every official is liable to imprisonment for a term not exceeding 7 years who, w
 (1) Sections 105C and 105D do not apply if the act that is alleged to constitute an offence under either of those sections—
   (a) was done outside New Zealand; and
   (b) was not, at the time of its commission, an offence under the laws of the foreign country in which the principal office of the person, organisation, or other body for whom the foreign public official is employed or otherwise provides services, is situated.
-(2) If a person is charged with an offence under section 105C or section 105D, it is to be presumed, unless the person charged puts the matter at issue, that the act was an offence under the laws of the foreign country referred to in subsection (1)(b).
+(2) If a person is charged with an offence under section 105C or section 105D, it is to be presumed, unless the person charged puts the matter at issue, that the act was an offence under the laws of the foreign country referred to in subsection (1)⁠(b).
 
 ### 106 Restrictions on prosecution
 (1) No one shall be prosecuted for an offence against any of the provisions of sections 100, 101, 104, 105, 105A, 105B, 105C, and 105D without the leave of the Attorney-General, who before giving leave may make such inquiries as he or she thinks fit.
@@ -1100,9 +1100,20 @@ Every one is liable to imprisonment for a term not exceeding 5 years who—
 (4) It is no defence that the person charged did not know that the model, object, show, or performance to which the charge relates was indecent, unless that person also satisfies the court—
   (a) that he or she had no reasonable opportunity of knowing it; and
   (b) that in the circumstances his or her ignorance was excusable.
-(5) No one shall be prosecuted for an offence against this section without the leave of the Attorney-General, who before giving leave may make such inquiries as he or she thinks fit.
+(5) No private prosecution (as defined in section 5 of the Criminal Procedure Act 2011) for an offence against this section can be commenced without the Attorney-General's consent.
 (6) Nothing in this section shall apply to any publication within the meaning of the Films, Videos, and Publications Classification Act 1993, whether the publication is objectionable within the meaning of that Act or not.
 (7)
+
+### 124A Indecent communication with young person under 16
+(1) A person of or over the age of 16 years is liable to imprisonment for a term not exceeding 3 years if he or she intentionally exposes a person under the age of 16 years (the young person) to indecent material (whether written, spoken, visual, or otherwise, alone or in combination) in communicating in any manner, directly or indirectly, with the young person.
+(2) A reference in subsection (1) to a person under the age of 16 years, or to the young person, includes a reference to a constable (as defined in section 2(1)) who pretends to be a person under the age of 16 years (the fictitious young person) if the person charged with an offence against subsection (1), when communicating with the fictitious young person and exposing the fictitious young person to indecent material, believed that the fictitious young person was a person under the age of 16 years.
+(3) It is a defence to a charge under subsection (1) if the person charged proves that,—
+  (a) before communicating with the young person and exposing the young person to the indecent material, the person charged had taken reasonable steps to find out whether the young person was of or over the age of 16 years; and
+  (b) at the time of communicating with the young person and exposing the young person to the indecent material, the person charged believed on reasonable grounds that the young person was of or over the age of 16 years.
+(4) It is no defence to a charge under subsection (1) that the person charged did not know that the material to which the charge relates was indecent, unless the person charged also proves—
+  (a) that the person charged had no reasonable opportunity of knowing it; and
+  (b) that in the circumstances the ignorance of the person charged was excusable.
+(5) No private prosecution (as defined in section 5 of the Criminal Procedure Act 2011) for an offence against this section can be commenced without the Attorney-General's consent.
 
 ### 125 Indecent act in public place
 (1) Every one is liable to imprisonment for a term not exceeding 2 years who wilfully does any indecent act in any place to which the public have or are permitted to have access, or within view of any such place.
@@ -1167,7 +1178,7 @@ There is no presumption of law that a person is incapable of sexual connection b
   (b) a person is induced to consent to an indecent act whether—
     (i) he or she is induced to consent to the doing of an indecent act with or on him or her; or
     (ii) he or she is induced to consent to do an indecent act himself or herself.
-(5) The kinds of threat referred to in subsections (3) and (4)(a) are—
+(5) The kinds of threat referred to in subsections (3) and (4)⁠(a) are—
   (a) a threat that the person making the threat or some other person will commit an offence that—
     (i) is punishable by imprisonment; but
     (ii) does not involve the actual or threatened application of force to any person; and
@@ -1218,7 +1229,7 @@ There is no presumption of law that a person is incapable of sexual connection b
     (ii) travels with the intention of meeting the young person:
     (iii) arranges for or persuades the young person to travel with the intention of meeting him or her; and
   (b) at the time of taking the action, he or she intends—
-    (i) to take in respect of the young person an action that, if taken in New Zealand, would be an offence against this Part, or against any of paragraphs (a)(i), (d)(i), (e)(i), (f)(i), of section 98AA(1); or
+    (i) to take in respect of the young person an action that, if taken in New Zealand, would be an offence against this Part, or against any of paragraphs (a)⁠(i), (d)⁠(i), (e)⁠(i), (f)⁠(i), of section 98AA(1); or
     (ii) that the young person should do on him or her an act the doing of which would, if he or she permitted it to be done in New Zealand, be an offence against this Part on his or her part.
 (1A) A reference in this section to a young person under the age of 16 years or the young person includes a reference to a constable who pretends to be a young person under the age of 16 years (the fictitious young person) if the offender, when taking any of the actions described in subsection (1), believed that the fictitious young person was a young person under the age of 16 years.
 (2) It is a defence to a charge under subsection (1) if the person charged proves that,—
@@ -1332,6 +1343,25 @@ Every one is liable to imprisonment for a term not exceeding 3 years who commits
   (a) circumstances that constitute a defence to a charge under the provision specified; or
   (b) circumstances that do not constitute a defence to a charge under the provision specified; or
   (c) circumstances in which the person on or with whom an offence against the provision specified is committed may not be charged with an offence against that provision.
+
+### 144AB Party or accessory liability for sexual acts with children or young people outside New Zealand done by, or involving, foreigner principal parties
+(1) A New Zealander is a party under section 66, an accessory after the fact, or both, to a New Zealand sexual offence with a child or young person outside New Zealand if,—
+  (a) a sexual act with a child or young person is done or to be done, outside New Zealand, by 1 or more principal parties who are foreigners; and
+  (b) the New Zealander does, outside New Zealand, an act with, or in respect of, the act done or to be done by the 1 or more foreigners; and
+  (c) had both acts been done in New Zealand, the New Zealander would be a party under section 66, an accessory after the fact, or both, to a sexual offence with a child or young person.
+(2) In this section,—
+  - **accessory after the fact** means an accessory after the fact under sections 71 and 312
+  - **foreigner** means a person who—
+    (a) is not a New Zealand citizen; and
+    (b) is not a person ordinarily resident in New Zealand
+  - **New Zealand sexual offence with a child or young person outside New Zealand** means an offence against section 144A(1)⁠(a), (b), or (c)
+  - **New Zealander** means a person who—
+    (a) is a New Zealand citizen; or
+    (b) is a person ordinarily resident in New Zealand
+  - **party under section 66** includes a party under that section as extended by section 70
+  - **sexual act with a child or young person** means an act to which section 144A(2), (3), or (4) applies
+  - **sexual offence with a child or young person** means an offence against a section specified in section 144A(2)⁠(a), (b), or (c), (3)⁠(a), (b), or (c), or (4).
+(3) This section does not limit or affect section 69(3) or 144C (whether used with, or apart from, section 66).
 
 ### 144B Consent of Attorney-General required
 (1) No charging document may be filed for an offence against section 144A except with the consent of the Attorney-General.
@@ -1524,7 +1554,7 @@ Every one is liable to imprisonment for a term not exceeding 7 years who is an a
     (iii) a prison:
   (b) if each of the medical practitioners certifies that the woman is no longer insane and that she is in no need of care and treatment in a hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992 or in a facility within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, the Judge must order that the woman be discharged from custody immediately:
   (c) unless each of the medical practitioners certifies in accordance with paragraph (b), sections 23 to 29 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 apply, so far as they are applicable, as if the references in those sections to the court were references to the Judge.
-(5) If, under subsection (4)(c), the Judge makes an order that the woman be detained in a hospital as a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, section 33 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 applies.
+(5) If, under subsection (4)⁠(c), the Judge makes an order that the woman be detained in a hospital as a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, section 33 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 applies.
 (6)
 (7) Nothing in this section shall affect the power of the jury, upon the trial of any woman for infanticide or for murder or manslaughter, to return a verdict, otherwise than under this section, of acquittal on account of insanity; and where any such verdict is returned the provisions of the Criminal Procedure (Mentally Impaired Persons) Act 2003 shall apply accordingly.
 (8) The fact that by virtue of this section any woman has not been or is not liable to be convicted of murder or manslaughter, whether or not she has been or is liable to be convicted of infanticide, shall not affect the question whether the homicide amounted to murder or manslaughter in the case of any other party to it.
@@ -1584,7 +1614,7 @@ The provisions of section 183 to 186 shall apply whether or not the poison, drug
     (iii) a grandparent and grandchild; or
   (c) that the pregnancy is the result of sexual intercourse that constitutes an offence against section 131(1); or
   (d) that the woman or girl is severely subnormal within the meaning of section 138(2).
-(2) The following matters, while not in themselves grounds for any act specified in section 183 or section 186, may be taken into account in determining for the purposes of subsection (1)(a), whether the continuance of the pregnancy would result in serious danger to her life or to her physical or mental health:
+(2) The following matters, while not in themselves grounds for any act specified in section 183 or section 186, may be taken into account in determining for the purposes of subsection (1)⁠(a), whether the continuance of the pregnancy would result in serious danger to her life or to her physical or mental health:
   (a) the age of the woman or girl concerned is near the beginning or the end of the usual child-bearing years:
   (b) the fact (where such is the case) that there are reasonable grounds for believing that the pregnancy is the result of sexual violation.
 (3) For the purposes of sections 183 and 186, any act specified in either of those sections is done unlawfully unless, in the case of a pregnancy of more than 20 weeks' gestation, the person doing the act believes that the miscarriage is necessary to save the life of the woman or girl or to prevent serious permanent injury to her physical or mental health.
@@ -1694,13 +1724,13 @@ Every one is liable to imprisonment for a term not exceeding 1 year who assaults
 (3)
 
 ### 202A Possession of offensive weapons or disabling substances
-(1) In subsection (4)(a) offensive weapon means any article made or altered for use for causing bodily injury, or intended by the person having it with him or her for such use.
-(2) In subsection (4)(b) offensive weapon means any article capable of being used for causing bodily injury.
+(1) In subsection (4)⁠(a) offensive weapon means any article made or altered for use for causing bodily injury, or intended by the person having it with him or her for such use.
+(2) In subsection (4)⁠(b) offensive weapon means any article capable of being used for causing bodily injury.
 (3) In this section disabling substance means any anaesthetising or other substance produced for use for disabling persons, or intended by any person having it with him or her for such use.
 (4) Every one is liable to imprisonment for a term not exceeding 3 years—
   (a) who, without lawful authority or reasonable excuse, has with him or her in any public place any knife or offensive weapon or disabling substance; or
   (b) who has in his or her possession in any place any offensive weapon or disabling substance in circumstances that prima facie show an intention to use it to commit an offence involving bodily injury or the threat or fear of violence.
-(5) It is a defence to a charge under subsection (4)(b) if the person charged proves that he or she did not intend to use the offensive weapon or disabling substance to commit an offence involving bodily injury or the threat or fear of violence.
+(5) It is a defence to a charge under subsection (4)⁠(b) if the person charged proves that he or she did not intend to use the offensive weapon or disabling substance to commit an offence involving bodily injury or the threat or fear of violence.
 
 ### 202B Powers in respect of crime against section 202A
 [Repealed]
@@ -1952,8 +1982,8 @@ Everyone is liable to imprisonment for a term not exceeding 3 years who intentio
     (b) agrees to sell.
 
 ### 216K Exceptions to prohibition in section 216J
-(1) Nothing in section 216J(1)(a), (b), or (c) applies to anything done by any person in the course of, or in connection with, exercising or performing any powers, duties, or functions under any enactment.
-(2) Nothing in section 216J(1)(a) applies to any person by reason only of that person publishing an intimate visual recording to a person referred to in section 216N(1).
+(1) Nothing in section 216J(1)⁠(a), (b), or (c) applies to anything done by any person in the course of, or in connection with, exercising or performing any powers, duties, or functions under any enactment.
+(2) Nothing in section 216J(1)⁠(a) applies to any person by reason only of that person publishing an intimate visual recording to a person referred to in section 216N(1).
 (3) Nothing in section 216J applies to any person who, not knowing or suspecting that a visual recording is an intimate visual recording, facilitates access to that recording by reason only of providing some or all of the means necessary for—
   (a) delivery of the recording in physical form (for example, by a postal operator or courier); or
   (b) transmission (other than by broadcasting) of the recording (for example, by a network operator or service provider providing only a network or facility through which a recording is transmitted); or
@@ -1993,15 +2023,15 @@ Everyone is liable to imprisonment for a term not exceeding 3 years who intentio
     (ii) giving legal advice, or making representations, in relation to any civil or criminal proceedings; and
   (f) any other person or member of a class of persons prescribed in regulations made under this Act; and
   (g) the person who is the subject of an intimate visual recording.
-(2) No person referred to in subsection (1)(g) commits an offence against section 216I or section 216J by possessing or publishing the intimate visual recording.
-(3) No other person to whom this section applies commits an offence against section 216H or section 216I or section 216J(1)(a) or (b) or (c) by making, possessing, or publishing any intimate visual recording for the purpose of, or in the course of, carrying out the functions set out in subsection (5).
+(2) No person referred to in subsection (1)⁠(g) commits an offence against section 216I or section 216J by possessing or publishing the intimate visual recording.
+(3) No other person to whom this section applies commits an offence against section 216H or section 216I or section 216J(1)⁠(a) or (b) or (c) by making, possessing, or publishing any intimate visual recording for the purpose of, or in the course of, carrying out the functions set out in subsection (5).
 (4) Subsection (3) does not apply in respect of anything done in bad faith or without reasonable cause.
 (5) The functions referred to in subsection (3) are functions relating to—
   (a) the prevention, detection, investigation, prosecution, or punishment of offences:
   (b) the conduct of proceedings in any court or tribunal:
   (c) security or safety.
 (6) Subsections (1) to (3) apply despite the fact that, but for this section, the act would have otherwise constituted an offence.
-(7) Where a person to whom subsection (1)(a) to (f) applies has in his or her possession an intimate visual recording, the recording must not be kept longer than is required for the purpose of carrying out the functions referred to in subsection (5), and must then either be—
+(7) Where a person to whom subsection (1)⁠(a) to (f) applies has in his or her possession an intimate visual recording, the recording must not be kept longer than is required for the purpose of carrying out the functions referred to in subsection (5), and must then either be—
   (a) made available to the person who is the subject of the recording, if that person requests; or
   (b) immediately destroyed if the person who is the subject of the recording makes no request under paragraph (a).
 
@@ -2380,7 +2410,7 @@ Every one is liable to imprisonment for a term not exceeding 10 years who, witho
 (1) Every one is liable to imprisonment for a term not exceeding 5 years who dishonestly counterfeits or imitates any mark, word, or description that is—
   (a) impressed or otherwise made, or written upon, or affixed to, any chattel, or upon or to any thing containing or connected with any chattel; and
   (b) a mark, word, or description that is by recognised practice understood to denote that the thing upon or to which it is impressed, made, written, or affixed has been examined and certified to be of a particular quality by any particular officer or other person.
-(2) Subsection (1) applies whether the officer or other person referred to in subsection (1)(b) is or is not expressly authorised by law to so certify.
+(2) Subsection (1) applies whether the officer or other person referred to in subsection (1)⁠(b) is or is not expressly authorised by law to so certify.
 
 **Coinage**
 
@@ -3075,7 +3105,7 @@ Every one who is accessory after the fact to any imprisonable offence, being an 
 ## Part 14 — Miscellaneous provisions
 
 ### 400 Consent of Attorney-General to certain prosecutions
-(1) No charging document shall, by virtue only of the provisions of this Act, be filed against any person who— except with the consent of the Attorney-General and on his or her certificate that it is expedient that the proceedings should be instituted; and where the proceedings would be instituted only by virtue of the jurisdiction conferred by paragraph (c) of subsection (1) of section 8 the Attorney-General shall not give his or her consent unless he or she is satisfied that the Government of the country to which the ship or aircraft belongs has consented to the institution of the proceedings:provided that a person alleged to have committed any such offence may be arrested, or a warrant for his or her arrest may be issued and executed, and he or she may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the filing of a charging document for the offence has not been obtained; but no further or other proceedings shall be taken until that consent has been obtained.
+(1) No charging document shall, by virtue only of the provisions of this Act, be filed against any person who—except with the consent of the Attorney-General and on his or her certificate that it is expedient that the proceedings should be instituted; and where the proceedings would be instituted only by virtue of the jurisdiction conferred by paragraph (c) of subsection (1) of section 8 the Attorney-General shall not give his or her consent unless he or she is satisfied that the Government of the country to which the ship or aircraft belongs has consented to the institution of the proceedings:provided that a person alleged to have committed any such offence may be arrested, or a warrant for his or her arrest may be issued and executed, and he or she may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the filing of a charging document for the offence has not been obtained; but no further or other proceedings shall be taken until that consent has been obtained.
   (a) whether or not he or she is a New Zealand citizen or a person ordinarily resident in New Zealand, is alleged to have committed beyond New Zealand an offence on board or by means of any ship or aircraft which is not a New Zealand ship or a New Zealand aircraft, or an offence to which subsection (3) of section 8 applies; or
   (b) whether or not he or she is a New Zealand citizen or a person ordinarily resident in New Zealand, is alleged to have committed, anywhere within New Zealand or in the space above New Zealand, an offence on board or by means of any ship or aircraft which belongs to the Government of any country other than New Zealand or is held by any person on behalf or for the benefit of that government, whether or not the ship or aircraft is for the time being used as a ship or aircraft of any of the armed forces of that country—
 (2) Nothing in this section shall apply with respect to any offence against the Maritime Transport Act 1994 or Part 5A of the Civil Aviation Act 1990.
