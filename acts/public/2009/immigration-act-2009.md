@@ -1,12 +1,12 @@
 # Immigration Act 2009
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2015-05-07_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
 
 ### 2 Commencement
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council, except as provided in subsections (2) to (5).
-(2) Sections 30, 31, 60, 100, 104, 111, 120, 149(1)(e), 278, 283 to 291, 312, and 400(l) come into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the date appointed under subsection (1)); and 1 or more orders may be made appointing different dates for different provisions.
+(2) Sections 30, 31, 60, 100, 104, 111, 120, 149(1)⁠(e), 278, 283 to 291, 312, and 400(l) come into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the date appointed under subsection (1)); and 1 or more orders may be made appointing different dates for different provisions.
 (3) Section 477 comes into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the second day after the date on which this Act receives the Royal assent).
 (4) Sections 475, 476, and 478 come into force on the day after the date on which this Act receives the Royal assent.
 (5) Section 474 comes into force on the day after the date on which the Immigration Act 2009 Amendment Act 2010 receives the Royal assent.
@@ -33,6 +33,7 @@ This Act is the Immigration Act 2009.
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **absolute discretion** has the meaning given to it in section 11
+  - **address for service** has the meaning given to it by section 387
   - **administrative error** , in relation to the granting of a visa or entry permission, has the meaning given to it in section 8
   - **airport** has the meaning given to it in section 2 of the Airport Authorities Act 1966
   - **appeal on humanitarian grounds** means an appeal to the Tribunal against liability for deportation on the grounds set out in section 207
@@ -66,7 +67,7 @@ In this Act, unless the context otherwise requires,—
       (ii) any travel document issued by any international organisation for the time being specified by the Minister for the purpose of this definition
   - **chief executive** means—
     (a) the chief executive of the Department:
-    (b) when used in relation to a relevant agency, the chief executive of that agency (including, where appropriate, the Commissioner of Police, the Director of Security, and the Director of the Government Communications Security Bureau)
+    (b) when used in relation to a relevant agency, the chief executive of that agency (including, where appropriate, the Commissioner of Police, the Director of Security, the Chief of Defence Force, the General Manager of the Aviation Security Service, and the Director of the Government Communications Security Bureau)
   - **claim** means a claim by a person in New Zealand for recognition, as the case may be, as—
     (a) a refugee in New Zealand under the Refugee Convention:
     (b) a protected person in New Zealand under the Convention Against Torture:
@@ -81,6 +82,7 @@ In this Act, unless the context otherwise requires,—
     (a) provided at any primary, intermediate, composite, secondary, or special school (within the meaning of the Education Act 1989), whether state, private, or integrated, or at a partnership school kura hourua (within the meaning of section 2(1) of that Act); and
     (b) provided to a person at any time during the period beginning on the person’s fifth birthday and ending on 1 January following the person’s 19th birthday
   - **conditions** include conditions precedent as well as conditions subsequent (whether imposed by an immigration officer, the Minister, or the Tribunal)
+  - **contact address** has the meaning given to it by section 387A
   - **Convention Against Torture** means the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment done at New York on 10 December 1984
   - **counsel assisting the court** means a person appointed as counsel assisting the court under section 269
   - **course of study** —
@@ -98,9 +100,10 @@ In this Act, unless the context otherwise requires,—
   - **Department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **departure hall** means a place licensed under section 12 of the Customs and Excise Act 1996 for the processing of persons departing from New Zealand
   - **dependent child** , in relation to any person, means a child under 18 years of age who is not married or in a civil union and who is dependent on that person, whether or not the child is a child of that person
-  - **deportation liability notice** means a notice that states the matters referred to in section 171
+  - **deportation liability notice** means a notice that states the matters referred to in section 171, and, for the purposes of serving a notice, includes a copy of the notice
   - **deportation order** —
     (a) means an order containing the information described in section 176 that, when served on a person in accordance with section 175, authorises the person's deportation to be executed; and
+    (ab) for the purposes of serving or executing an order described in paragraph (a), includes a copy of the order; and
     (b) includes an Order in Council made under section 163
   - **designated agency** means the agency designated by the Prime Minister under section 264(1) for the purpose of recognising lawyers as special advocates
   - **disembarkation** means the process of physically leaving a craft, whether onto land or otherwise
@@ -148,9 +151,8 @@ In this Act, unless the context otherwise requires,—
   - **New Zealand** means any land territory within the territorial limits of New Zealand; and includes—
     (a) the internal waters of New Zealand (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977); and
     (b) the Ross Dependency (including any ice shelf); and
-    (c) for the purposes of sections 21(a), 22(1)(c)(ii), 73(d), 74(1)(b)(ii), and 77(4)(a), the territorial sea of New Zealand; and
-    (d) for the purposes of section 283(2)(a), the area of sea adjacent to New Zealand and bounded by the outer limits of the contiguous zone of New Zealand (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
-  - **New Zealand address** has the meaning given to it in section 387
+    (c) for the purposes of sections 21(a), 22(1)⁠(c)⁠(ii), 73(d), 74(1)⁠(b)⁠(ii), 77(4)⁠(a), 277, 277A, and 382(1), the territorial sea of New Zealand; and
+    (d) for the purposes of section 283(2)⁠(a), the area of sea adjacent to New Zealand and bounded by the outer limits of the contiguous zone of New Zealand (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977)
   - **New Zealand citizen** means a person who has New Zealand citizenship as provided in the Citizenship Act 1977 or the Citizenship (Western Samoa) Act 1982
   - **onshore** , in relation to an applicant for a visa, means that the applicant is in New Zealand other than in an immigration control area
   - **operator** —
@@ -246,7 +248,7 @@ In this Act, unless the context otherwise requires,—
     (a) means a warrant of commitment issued under section 317, 318, or 323; and
     (b) includes—
       (i) a mass arrival warrant issued under section 317B (in respect of all or specified members of a mass arrival group); and
-      (ii) a further warrant of commitment issued under section 317E(1)(a) (in respect of all or specified members of a mass arrival group)
+      (ii) a further warrant of commitment issued under section 317E(1)⁠(a) (in respect of all or specified members of a mass arrival group)
   - **work** —
     (a) means any activity undertaken for gain or reward; but
     (b) does not include an activity excluded, or excluded for a particular purpose, from this definition by immigration instructions.
@@ -254,8 +256,9 @@ In this Act, unless the context otherwise requires,—
 ### 5 Notifications
 (1) Where this Act or regulations under this Act provide that any notice or other document must be served on or supplied to the Minister, it must be served or supplied in accordance with section 386(1).
 (2) Where this Act or regulations under this Act provide that any notice or other document must be served on or supplied to an immigration officer or a refugee and protection officer, it must be served or supplied in accordance with section 386(2).
-(3) Where this Act or regulations under this Act provide that any notice or other document must be served on or supplied to any other person, or the person must be notified of any decision, matter, or other thing, it must be served, supplied, or notified in accordance with section 386(3).
-(4) Subsections (1) to (3) are subject to section 386(8).
+(3) Where this Act or any regulations under this Act provide that any notice or other document must be served on a person other than the Minister or a person referred to in subsection (2), the notice or other document must be served in accordance with section 386A(2).
+(4) Where this Act or any regulations under this Act provide that any notice or other document must be supplied, notified, or in any other way given to a person other than the Minister or a person referred to in subsection (2), the notice or other document must be given or sent to the person in accordance with section 386A(3).
+(5) Subsections (1) to (4) are subject to sections 386(8) and 387B.
 
 ### 6 How periods of time to be calculated
 (1) A period of time prescribed in this Act for the making of an application under the Act must be calculated excluding any day that is—
@@ -276,11 +279,11 @@ In this Act, unless the context otherwise requires,—
 (1) In this Act, classified information means information that the chief executive of a relevant agency certifies in writing cannot be disclosed under this Act (except as expressly provided for) because—
   (a) the information is information of a kind specified in subsection (2); and
   (b) disclosure of the information would be disclosure of a kind specified in subsection (3).
-(2) Information falls within subsection (1)(a) if it—
+(2) Information falls within subsection (1)⁠(a) if it—
   (a) might lead to the identification, or provide details, of the source of the information, the nature, content, or scope of the information, or the nature or type of the assistance or operational methods available to the relevant agency; or
   (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in pursuance of any of the functions of the relevant agency; or
   (c) has been provided to the relevant agency by the government of another country, an agency of a government of another country, or an international organisation, and is information that cannot be disclosed by the relevant agency because the government, agency, or organisation from which the information has been provided will not consent to the disclosure.
-(3) Disclosure of information falls within subsection (1)(b) if the disclosure would be likely—
+(3) Disclosure of information falls within subsection (1)⁠(b) if the disclosure would be likely—
   (a) to prejudice the security or defence of New Zealand or the international relations of New Zealand; or
   (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the government of another country, an agency of a government of another country, or an international organisation; or
   (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
@@ -294,17 +297,17 @@ In this Act, unless the context otherwise requires,—
 
 ### 8 Meaning of granting visa or entry permission as result of administrative error
 (1) In this Act, a visa is granted as a result of an administrative error if—
-  (a) it is granted to a New Zealand citizen (unless the person is a New Zealand citizen entering New Zealand in the circumstances described in section 13(4)(b)); or
+  (a) it is granted to a New Zealand citizen (unless the person is a New Zealand citizen entering New Zealand in the circumstances described in section 13(4)⁠(b)); or
   (b) it is granted to an excluded person (unless section 17 applies); or
   (c) the person granting it intended to grant a visa of a type other than the one that was actually granted; or
-  (d) it is granted for a period exceeding the period specified in immigration instructions for visas of that type (unless the Minister or an immigration officer deliberately and properly granted it as an exception to the immigration instructions); or
+  (d) it is granted for a period exceeding the period specified in regulations or immigration instructions for visas of that type (unless the Minister or an immigration officer deliberately and properly granted it as an exception to the immigration instructions); or
   (e) it is granted on the basis of the person holding a visa that was granted as a result of an administrative error; or
   (f) it is granted in contravention of—
     (i) a special direction; or
     (ii) immigration instructions (unless the Minister or an immigration officer deliberately and properly granted it as an exception to immigration instructions); or
     (iii) an instruction of a kind referred to in section 378(7).
 (2) In this Act, entry permission is granted as a result of an administrative error if—
-  (a) it is granted to a New Zealand citizen (unless the person is a New Zealand citizen entering New Zealand in the circumstances described in section 13(4)(b)); or
+  (a) it is granted to a New Zealand citizen (unless the person is a New Zealand citizen entering New Zealand in the circumstances described in section 13(4)⁠(b)); or
   (b) it is granted to an excluded person (unless section 17 applies); or
   (c) it is granted in contravention of—
     (i) a special direction; or
@@ -321,6 +324,7 @@ In this Act, unless the context otherwise requires,—
 (2) A person's status as being unlawfully in New Zealand is calculated—
   (a) as starting on the date the person arrived in New Zealand, if the person has never been lawfully in New Zealand since his or her arrival; or
   (b) as starting on the day after the date on which the person's visa expired or was cancelled without another visa being granted; or
+  (ba) as starting on the day after the date on which a permit granted to the person under the former Act expired or was revoked without another permit being granted under that Act; or
   (c) in accordance with sections 373 and 374, if—
     (i) the person was born in New Zealand on or after 1 January 2006; and
     (ii) he or she is not a New Zealand citizen.
@@ -337,14 +341,14 @@ In this Act, unless the context otherwise requires,—
 (2) For the purposes of this Act, a person is not deported from a country merely because the person is surrendered to another country in accordance with a request for the extradition of the person to that country.
 (3) For the purposes of this Act, a person is deported from New Zealand if—
   (a) the person leaves New Zealand (whether or not at the expense of the Government of New Zealand)—
-    (i) on or after the date on which a deportation order may be served on the person under section 175; or
+    (i) on or after the date on which a deportation order may be served on the person under section 175A; or
     (ii) after a deportation order has been served on the person; or
     (iii) while he or she is subject to a prohibition on entry to New Zealand under section 179 or 180; or
   (b) the person is served with a deportation order when he or she is outside New Zealand; or
   (c) the person was deported from New Zealand under the former Act.
 
 ### 11 Meaning of absolute discretion of the decision maker
-If a provision of this Act provides that a matter or decision is in the absolute discretion of the decision maker concerned, it means that—
+(1) If a provision of this Act provides that a matter or decision is in the absolute discretion of the decision maker concerned, it means that—
   (a) the matter or decision may not be applied for; and
   (b) if a person purports to apply for the matter or decision, there is no obligation on the decision maker to—
     (i) consider the purported application; or
@@ -352,7 +356,9 @@ If a provision of this Act provides that a matter or decision is in the absolute
     (iii) make any further inquiries in respect of any information provided by, or in respect of, the person or any other person; and
   (c) whether the purported application is considered or not,—
     (i) the decision maker is not obliged to give reasons for any decision relating to the purported application, other than the reason that this section applies; and
+    (ia) privacy principle 6 (which relates to access to personal information and is set out in section 6 of the Privacy Act 1993) does not apply to any reasons for any decision relating to the purported application; and
     (ii) section 27 of this Act and section 23 of the Official Information Act 1982 do not apply in respect of the purported application.
+(2) Subsection (1)⁠(c)⁠(ia) applies to any decision made in relation to a purported application, whether the decision was made before or after the commencement of that subsection.
 
 ### 12 Act binds the Crown
 This Act binds the Crown.
@@ -403,10 +409,10 @@ This Act binds the Crown.
   (a) whether the sentence is of immediate effect or is deferred or is suspended in whole or in part:
   (b) where a person has been convicted of 2 or more offences on the same occasion or in the same proceedings, and any sentences of imprisonment imposed in respect of those offences are cumulative, as if the offender had been convicted of a single offence and sentenced for that offence to the total of the cumulative sentences:
   (c) where a person has been convicted of 2 or more offences, and a single sentence has been imposed in respect of those offences, as if that sentence had been imposed in respect of a conviction for a single offence.
-(3) Subsection (1)(d) does not apply to a person who—
+(3) Subsection (1)⁠(d) does not apply to a person who—
   (a) has been deported from New Zealand under section 158 of the Shipping and Seamen Act 1952; or
   (b) was subject to a removal order under section 54 of the former Act, if the removal order has expired or been cancelled; or
-  (c) was deported under this Act, if the relevant prohibition on entry under section 179 or 180 has expired; or
+  (c) was deported under this Act but is not, or is no longer, subject to a period of prohibition on entry under section 179 or 180; or
   (d) has been deported from New Zealand under section 20 of the Immigration Act 1964 on the grounds of being convicted of an offence against section 14(5) or 15(5) of that Act.
 (4) This section is subject to section 17.
 
@@ -429,7 +435,7 @@ This Act binds the Crown.
     (i) the holder of a permanent resident visa; and
     (ii) the holder of a resident visa granted in New Zealand; and
     (iii) the holder of a resident visa arriving in New Zealand for a second or subsequent time as the holder of the visa:
-  (b) a visa and entry permission must be granted to a person who is for the time being entitled to any immunity from jurisdiction by or under the Diplomatic Privileges and Immunities Act 1968 (other than a person referred to in section 10D(2)(d) of that Act) or the Consular Privileges and Immunities Act 1971.
+  (b) a visa and entry permission must be granted to a person who is for the time being entitled to any immunity from jurisdiction by or under the Diplomatic Privileges and Immunities Act 1968 (other than a person referred to in section 10D(2)⁠(d) of that Act) or the Consular Privileges and Immunities Act 1971.
 (3) A decision to grant a visa and entry permission under subsection (1) is in the absolute discretion of the decision maker.
 
 **Persons unlawfully in New Zealand**
@@ -447,7 +453,7 @@ This Act binds the Crown.
 (2) Without limiting the means by which the chief executive may communicate those matters, he or she must provide the relevant information required by subsection (1)—
   (a) at offices where visas are granted, by way of notices that can be readily seen by persons to whom it is likely to be of relevance:
   (b) on application forms for visas:
-  (c) in immigration control areas, by way of notices that can be readily seen by all arriving entrants:
+  (c) in immigration control areas, by way of notices that can be readily seen by all arriving temporary entrants:
   (d) on informational material provided by the Department to persons who are interested in coming to New Zealand.
 (3) The chief executive may communicate the information in 1 or more languages as he or she thinks fit.
 (4) Any temporary entry class visa granted to any person that is evidenced by an endorsement in the holder’s passport or certificate of identity must contain words to the effect that the person must leave New Zealand before expiry of the visa, or face deportation.
@@ -478,7 +484,7 @@ A person who is unlawfully in New Zealand may not—
 (4) Subsection (3) does not apply to applications for temporary entry class visas subject to restricted temporary entry instructions.
 (5) The kinds of matters that may constitute immigration instructions for the purposes of this Act are as follows:
   (a) any general or specific objectives of immigration policy:
-  (b) any rules or criteria for determining the eligibility of a person for the grant of a visa of any class or type, or for entry permission, being rules or criteria relating to the circumstances of that person:
+  (b) any rules or criteria for determining the eligibility of a person for the grant of a visa of any class or type, or for entry permission, being rules or criteria relating to the circumstances of that person or of any other person (a third party) whose circumstances are relevant to the person's eligibility, including (without limitation) rules and criteria about how any status or approval may be obtained or lost by the third party:
   (c) any indicators, attributes, or other relevant information or matters that may or must be taken into account in assessing a person’s eligibility for a visa or entry permission:
   (d) any statement of, or rules or criteria or process for determining, the number or categories or ranking of persons or classes of persons whose applications for visas of any class or type or entry permission may be granted at any particular time or over any particular period:
   (e) any rules or criteria for the lapsing of applications in respect of which no decision to grant a visa has been made:
@@ -496,9 +502,9 @@ A person who is unlawfully in New Zealand may not—
   (b) may, in respect of any 1 or more specified classes or categories of person who wish to apply for a visa,—
     (i) include a requirement that persons of that class or category may apply for a visa only if invited to do so by the Minister or an immigration officer:
     (ii) stipulate any period for which an expression of interest under section 92 will remain current:
-    (iii) set or indicate rules, criteria, or other relevant matters of the kinds specified in subsection (5)(a) to (g) that will or may apply for the purpose of determining whether an invitation to apply for a visa should be granted to any such person:
+    (iii) set or indicate rules, criteria, or other relevant matters of the kinds specified in subsection (5)⁠(a) to (g) that will or may apply for the purpose of determining whether an invitation to apply for a visa should be granted to any such person:
     (iv) stipulate any time frame, or any method for determining the time frame, within which the relevant application must be made following the issue of an invitation to apply for a visa.
-(7) Any conditions referred to in subsection (5)(h) that relate to resident visas (other than conditions relating to travel) must specify the maximum period, not exceeding 5 years, for which they may be imposed.
+(7) Any conditions referred to in subsection (5)⁠(h) that relate to resident visas (other than conditions relating to travel) must specify the maximum period, not exceeding 5 years, for which they may be imposed.
 (8) Immigration instructions certified by the Minister under subsection (1)—
   (a) are statements of government policy:
   (b) are neither legislative instruments nor disallowable instruments for the purposes of the Legislation Act 2012 and do not have to be presented to the House of Representatives under section 41 of that Act.
@@ -574,7 +580,7 @@ A person who is unlawfully in New Zealand may not—
 (2) The reasons must—
   (a) be given in writing; and
   (b) contain the information required under section 23 of the Official Information Act 1982 as if the reasons were given in response to a request to which that section applies.
-(3) Subsection (1) is subject to section 40(3)(e) and (f).
+(3) Subsection (1) is subject to section 40(3)⁠(e) and (f).
 
 **Automated decision making and biometric information**
 
@@ -591,6 +597,11 @@ A person who is unlawfully in New Zealand may not—
 
 ### 29 Automated decision making in advance passenger processing
 The chief executive may make a decision under section 97(1) by means of an automated electronic system that analyses the information (if any) about a person that is held by the chief executive or to which the chief executive has access using criteria predetermined by the chief executive.
+
+### 29A Use of automated system to confirm New Zealand citizenship
+(1) An automated electronic system that applies criteria predetermined by the chief executive may be used, for the purposes of this Act, to confirm a person's status as a New Zealand citizen.
+(2) The automated electronic system may be used to confirm a person's status as a New Zealand citizen only if there is available at least 1 other way of confirming the person's status, and that other way involves confirmation by a person.
+(3) A determination made using an automated electronic system must for all purposes be treated as a determination made by a person who is authorised to make the determination under this Act.
 
 ### 30 Use of biometric information in decision making
 Biometric information required from persons in accordance with this Act may be used to—
@@ -670,7 +681,7 @@ Biometric information required from persons in accordance with this Act may be u
   (b) relied on before a refugee and protection officer makes a decision under Part 5, the officer must, if the information is relevant to the decision being made, take the new or updated information into account in making the decision:
   (c) raised in proceedings involving classified information,—
     (i) the Tribunal or court must treat the new or updated information in the same way as classified information originally provided to it under section 241(1) or 259(1); and
-    (ii) the Tribunal must determine in relation to the new or updated information the matters set out in section 243(1)(a), (b), and (c).
+    (ii) the Tribunal must determine in relation to the new or updated information the matters set out in section 243(1)⁠(a), (b), and (c).
 (4) If the chief executive of the relevant agency withdraws any classified information,—
   (a) the classified information must be kept confidential and must not be disclosed by the decision maker, the Tribunal, or the court (as the case may be); and
   (b) the decision maker, the Tribunal, or the court must continue to make the decision or determine the proceedings—
@@ -696,7 +707,7 @@ Biometric information required from persons in accordance with this Act may be u
 (5) A summary under this section must be updated, and the person affected provided with an updated summary, where—
   (a) any classified information that was proposed to be relied on in making the decision is withdrawn (unless all of the classified information is withdrawn); or
   (b) the chief executive of the relevant agency adds to or updates the classified information that will be relied on in making the decision.
-(6) An updated summary must be prepared in the same way as if it were a summary prepared under subsection (2)(a).
+(6) An updated summary must be prepared in the same way as if it were a summary prepared under subsection (2)⁠(a).
 
 ### 39 Reasons, etc, to be given where prejudicial decision made using classified information
 (1) Where a decision of a kind referred to in section 38(1) has been made relying on classified information, and the decision is prejudicial to the person concerned, then, subject to section 40, the person who is the subject of the decision must be informed of—
@@ -810,7 +821,8 @@ At any one time, a person may hold only 1 current visa.
   (b) in the case of temporary entry class visas other than visas subject to restricted temporary entry instructions, specified in temporary entry instructions relating to visas of that class or a type of visa within that class, being instructions applicable at the time the visa was granted:
   (c) in the case of temporary entry class visas subject to restricted temporary entry instructions, specified in temporary entry instructions applicable at the time the application for the visa was made:
   (d) in the case of transit visas, specified in transit instructions applicable at the time the visa was granted:
-  (e) imposed by the Minister or an immigration officer under section 50, 51, 52, 53, 54, or 55:
+  (e) imposed by the Minister or an immigration officer under section 50, 51, 52, 53, or 54:
+  (ea) imposed by section 55:
   (f) imposed by or under any other Act.
 (2) The conditions of a visa relating to travel may—
   (a) give permission to travel to New Zealand on a single journey, multiple journeys, or a set number of journeys; or
@@ -888,6 +900,9 @@ At any one time, a person may hold only 1 current visa.
 (2) It is a condition of the visa that—
   (a) the visa holder have a sponsor for the purposes of the specified matter or matters provided for in the written undertaking; and
   (b) the sponsor meets the obligations in relation to the specified matter or matters provided for in the undertaking.
+(2A) Where a condition under this section applies to a resident visa, the condition applies for the period, which may not exceed 10 years, specified—
+  (a) in immigration instructions, in relation to any type of resident visa; or
+  (b) by the Minister or an immigration officer, in relation to any particular visa.
 (3) If the sponsor fails to comply with the undertaking—
   (a) the sponsor owes a debt to the Crown, recoverable by the Crown in a court of competent jurisdiction, if the Crown incurs a cost as a result of the failure; and
   (b) the sponsor owes a debt to a third party, recoverable by the third party in a court of competent jurisdiction, if a cost has been incurred by the third party as a result of the failure; and
@@ -897,15 +912,15 @@ At any one time, a person may hold only 1 current visa.
 (1) The holder of a visa that is subject to conditions must comply with the conditions of the visa.
 (2) In the case of conditions imposed by or under any other Act, or specified in immigration instructions, the obligation to comply with those conditions arises whether or not the visa holder is aware of the conditions, or of the implications of not complying with them.
 (3) A visa holder must comply with conditions imposed or varied and notified to the holder by the Minister or an immigration officer under section 50, 51, 52, 53, or 54.
-(4) It is presumed, in the absence of evidence to the contrary on the balance of probabilities, that a visa holder was notified of any conditions imposed or varied under section 50, 51, 52, 53, or 54 if notice of them was given in accordance with section 386.
+(4) It is presumed, in the absence of evidence to the contrary on the balance of probabilities, that a visa holder was notified of any conditions imposed or varied under section 50, 51, 52, 53, or 54 if notice of them was given in accordance with section 386A.
 
 **General rules relating to visas**
 
 ### 57 Applications for visas
 (1) An application for a visa must be made in the manner prescribed for the class or type of visa sought.
-(2) The applicant must specify in the application a physical address to which any communication relating to the application, or to which advice of any visa that may be granted pursuant to the application, may be sent, or at which any notice may be served under this Act.
-(3) An applicant for or holder of a visa may at any time, by written notice to an immigration officer, substitute a different address for that specified under subsection (2).
-(4) An applicant for a visa may also specify in an application an electronic address to which any communication relating to the application, or to which advice of any visa that may be granted pursuant to the application, may be sent (and may substitute a different address by written notice to an immigration officer).
+(2) The applicant must provide his or her contact address and address for service.
+(3)
+(4)
 
 ### 58 Obligation on applicant to inform of all relevant facts, including changed circumstances
 (1) It is the responsibility of an applicant for a visa to ensure that all information, evidence, and submissions that the applicant wishes to have considered in support of the application are provided when the application is made.
@@ -916,7 +931,7 @@ At any one time, a person may hold only 1 current visa.
   (a) may affect the decision on the application; or
   (b) may affect a decision to grant entry permission in reliance on the visa for which the application is made.
 (4) Without limiting the scope of the expression material change in circumstances in subsection (3), such a change may relate to the applicant or another person included in the application, and may relate to any matter relevant to this Act or immigration instructions.
-(5) Failure to comply with the obligation set out in subsection (3) amounts to concealment of relevant information for the purposes of sections 157 and 158.
+(5) For the purposes of sections 157 and 158, an applicant is treated as having concealed relevant information if he or she fails to comply with the obligation in subsection (3).
 (6) It is sufficient ground for the Minister or an immigration officer to decline to grant a visa to a person if the Minister or officer is satisfied that the person,—
   (a) whether personally or through an agent, in applying for the visa submitted false or misleading information or withheld relevant information that was potentially prejudicial to the grant of the visa; or
   (b) did not ensure that an immigration officer was informed of any material change in circumstances to which subsection (3) applies between the time of making the application and the time of a decision on the application.
@@ -932,7 +947,8 @@ Where an application for a visa is made by or for a person under 18 years of age
 ### 61 Grant of visa in special case
 (1) The Minister may at any time, of the Minister’s own volition, grant a visa of any type to a person who—
   (a) is unlawfully in New Zealand; and
-  (b) is not a person in respect of whom a deportation order is in force.
+  (b) is not a person in respect of whom a deportation order is in force; and
+  (c) is not a person in respect of whom a removal order is in force.
 (2) A decision to grant a visa under subsection (1) is in the Minister’s absolute discretion.
 
 ### 62 Form of visa
@@ -965,23 +981,25 @@ Where an application for a visa is made by or for a person under 18 years of age
 ### 64 Cancellation of visa on triggering event
 (1) A visa is cancelled in the following circumstances:
   (a) on the deportation of its holder from New Zealand:
+  (ab) on the day after the first date on which a deportation order may be served on the person under section 175A, whether the visa was issued before or after this paragraph came into force:
   (b) on the refusal of entry permission to its holder:
   (c) on entry permission granted to its holder being revoked:
   (d) if the holder arrived at an immigration control area,—
     (i) on the holder leaving the immigration control area without presenting himself or herself to an immigration officer; or
     (ii) on the holder failing to comply with the instruction of an immigration officer to remain in the area:
-  (e) if the holder arrived at a place other than an immigration control area, on failing to present himself or herself in the prescribed manner and within the prescribed time as required under section 103(1)(b):
+  (e) if the holder arrived at a place other than an immigration control area, on failing to present himself or herself in the prescribed manner and within the prescribed time as required under section 103(1)⁠(b):
   (f) on the start date of a further visa granted to its holder:
   (g) on the grant of New Zealand citizenship to its holder:
   (h) on the registration of New Zealand citizenship by descent under section 7(2) of the Citizenship Act 1977 by its holder:
   (i) on the issue of an evidentiary certificate under section 21 of the Citizenship Act 1977 that confirms the holder is a New Zealand citizen.
-(2) Despite subsection (1)(f), the grant of a temporary entry class visa to the holder of a residence class visa does not cancel the residence class visa unless the grant of the temporary entry class visa was made under section 68.
+(2) Despite subsection (1)⁠(f), the grant of a temporary entry class visa to the holder of a residence class visa does not cancel the residence class visa unless the grant of the temporary entry class visa was made under section 68.
+(3) To avoid doubt, if a person’s visa is cancelled under subsection (1)⁠(ab), the grant of a new visa to the person does not cancel the person’s liability for deportation.
 
 ### 65 Cancellation of resident visa before holder first arrives in New Zealand as holder of visa
 (1) The Minister or an immigration officer may cancel a resident visa at any time before its holder first arrives in New Zealand as the holder of the visa, if—
   (a) the visa was granted when the holder was outside New Zealand; and
   (b) the person no longer meets the rules or criteria of the immigration instructions applicable at the time the application for the visa was made.
-(2) The Minister or an immigration officer must notify a person, in writing, at the address supplied under section 57(2) if his or her visa is cancelled under this section.
+(2) The Minister or an immigration officer must notify a person in writing if his or her visa is cancelled under this section.
 
 ### 66 Cancellation of temporary entry class or transit visa by Minister or immigration officer
 (1) The Minister or an immigration officer may, if the Minister or immigration officer determines there is sufficient reason,—
@@ -1016,16 +1034,16 @@ An immigration officer may cancel a visa that the officer believes on reasonable
   (b) suspend for a period not exceeding 3 months a waiver made by regulations referred to in subsection (1):
   (c) waive, in any individual case, the requirement to hold a visa permitting travel to New Zealand:
   (d) suspend, in any individual case, a waiver made by regulations referred to in subsection (1).
-(3) Any waiver or suspension of a waiver made in accordance with subsection (1) or (2)(a) or (b) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom the waiver or suspension of waiver applies by reference to any or all of the following:
+(3) Any waiver or suspension of a waiver made in accordance with subsection (1) or (2)⁠(a) or (b) may, without limiting the generality of the manner in which persons may be classified, classify persons to whom the waiver or suspension of waiver applies by reference to any or all of the following:
   (a) their nationality:
   (b) the country or place from which they are travelling (whether it be their original or an intermediate point of departure):
   (c) their immediate or ultimate destination after being in or transiting through New Zealand:
   (d) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued.
-(4) Any special direction made under subsection (2)(a) or (b)—
+(4) Any special direction made under subsection (2)⁠(a) or (b)—
   (a) must be published in the Gazette, and notified in writing through diplomatic channels to any country concerned:
   (b) expires at the end of the period of 3 months (or such shorter period as is specified in the direction) following the day on which the direction was made, unless sooner cancelled by the Minister by a further special direction, or by regulations:
   (c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(5) A special direction under subsection (2)(a) or (b) may not be effectively continued in force by the making of a further special direction to the same or similar effect.
+(5) A special direction under subsection (2)⁠(a) or (b) may not be effectively continued in force by the making of a further special direction to the same or similar effect.
 (6) A waiver under this section does not of itself entitle a person subject to the waiver to be granted entry permission.
 
 ### Subpart 2 — Classes of visa
@@ -1081,7 +1099,7 @@ The holder of a permanent resident visa is entitled—
     (i) to stay in New Zealand indefinitely:
     (ii) to work in New Zealand or in the exclusive economic zone of New Zealand:
     (iii) to study in New Zealand.
-(2) Subsection (1)(a) applies only if the visa holder's travel to New Zealand is consistent with the conditions of the visa relating to travel.
+(2) Subsection (1)⁠(a) applies only if the visa holder's travel to New Zealand is consistent with the conditions of the visa relating to travel.
 
 ### 75 Former New Zealand citizens deemed to hold resident visa
 (1) This section applies to a person in New Zealand who—
@@ -1108,7 +1126,7 @@ The holder of a permanent resident visa is entitled—
     (i) travel to New Zealand; and
     (ii) apply for entry permission (whether before or after travelling to New Zealand); and
   (b) if granted entry permission, is entitled, in accordance with the conditions of the visa (if any), to stay in New Zealand during the currency of the visa.
-(3) Subsection (2)(a) applies only if the visa holder's travel to New Zealand is consistent with the conditions of the visa relating to travel.
+(3) Subsection (2)⁠(a) applies only if the visa holder's travel to New Zealand is consistent with the conditions of the visa relating to travel.
 (4) The holder of a temporary entry class visa may—
   (a) work in New Zealand, or in the exclusive economic zone of New Zealand, only if the conditions of the visa allow, and only consistently with those conditions:
   (b) study in New Zealand, only if the conditions of the visa allow, and only consistently with those conditions.
@@ -1215,7 +1233,7 @@ The following persons may apply for a limited visa:
     (iv) whether or not they hold, or are required to hold, any particular type of travel or immigration documentation, by whomever issued:
   (b) are subject to any special direction made under subsection (4) that suspends any relevant transit visa waiver.
 (4) The Minister may, by special direction that has effect for a period not exceeding 3 months,—
-  (a) classify persons as persons to whom a transit visa waiver applies (whether by reference to the matters referred to in subsection (3)(a) or otherwise):
+  (a) classify persons as persons to whom a transit visa waiver applies (whether by reference to the matters referred to in subsection (3)⁠(a) or otherwise):
   (b) suspend any transit visa waiver specified in regulations for any class or classes of person.
 (5) A special direction made under subsection (4)—
   (a) must be published in the Gazette and notified in writing through diplomatic channels to any country concerned; and
@@ -1253,9 +1271,9 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
 
 ### 92 Expressions of interest
 (1) A person who, by virtue of immigration instructions, is of a class or category of person that may apply for a visa of a particular class or type only if invited to do so by the Minister or an immigration officer may notify his or her interest in obtaining such an invitation in the prescribed manner.
-(2) A person submitting an expression of interest must specify a physical address to which any communication relating to the expression of interest, or to which any invitation to apply made as a result of the expression of interest, may be sent, or at which any notice may be served under this Act.
-(3) A person may at any time, by written notice to an immigration officer, substitute a different address for that specified under subsection (2).
-(4) A person may also specify in an expression of interest an electronic address to which any communication relating to the expression of interest, or to which any invitation to apply as a result of the expression of interest, may be sent (and may substitute a different address by written notice to an immigration officer).
+(2) A person submitting an expression of interest must provide a contact address and an address for service.
+(3)
+(4)
 
 ### 93 Obligation to inform of all relevant facts, including changed circumstances
 (1) It is the responsibility of the person submitting an expression of interest to ensure that all information, evidence, and submissions that the person wishes to have considered in support of the expression of interest are provided when the expression of interest is submitted.
@@ -1267,7 +1285,7 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
   (a) may affect the decision to issue an invitation to apply; or
   (b) may affect a decision to grant a visa to the person.
 (5) Without limiting the scope of the expression material change in circumstances, such a change may relate to the person submitting an expression of interest or other person included in the expression of interest, and may relate to any matter relevant to this Act or immigration instructions.
-(6) Failure to comply with the obligation set out in subsection (4) amounts to concealment of relevant information for the purposes of sections 157 and 158.
+(6) Failure to comply with the obligation set out in subsection (4) must be treated as concealing relevant information for the purposes of sections 157 and 158.
 
 ### 94 Invitation to apply for visa
 (1) An invitation to apply for a visa is a statement by or on behalf of the Minister or an immigration officer, whether made electronically or in writing, that the person to whom it is made is authorised to make an application for a visa of a particular class or type.
@@ -1316,7 +1334,7 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
     (i) holds a visa to travel to New Zealand; or
     (ii) has been granted entry permission; or
     (iii) is a person to whom a visa waiver applies; but
-  (b) may not make a decision under subsection (1)(b) or (c) if the person to whom the decision relates is—
+  (b) may not make a decision under subsection (1)⁠(b) or (c) if the person to whom the decision relates is—
     (i) a New Zealand citizen who, before boarding the craft, holds and produces a New Zealand passport; or
     (ii) a New Zealand citizen who, before boarding the craft, holds and produces a foreign passport containing an endorsement of a type described in section 384; or
     (iii) a New Zealand citizen who, before boarding the craft, produces a returning resident's visa (within the meaning of section 2(1) of the former Act) endorsed in a current passport; or
@@ -1324,7 +1342,7 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
     (v) a resident visa holder, unless the person has not previously travelled to New Zealand as the holder of that visa and the visa was granted outside New Zealand.
 (4) A person in relation to whom a decision is made under subsection (1)—
   (a) may not appeal the decision to any court, the Tribunal, the Minister, or otherwise:
-  (b) may bring review proceedings in relation to the decision only on the grounds that he or she is a person in relation to whom that decision should not have been made because he or she is a person to whom subsection (3)(b) applies.
+  (b) may bring review proceedings in relation to the decision only on the grounds that he or she is a person in relation to whom that decision should not have been made because he or she is a person to whom subsection (3)⁠(b) applies.
 (5) The chief executive is not obliged to give reasons for a decision made under subsection (1) other than that subsection (1) applies, and section 23 of the Official Information Act 1982 does not apply in respect of the decision.
 (6) To avoid doubt, nothing in section 305 applies to the chief executive when he or she is notifying a carrier, or a person in charge, of a commercial craft to whom section 96 applies of a decision made under subsection (1).
 
@@ -1333,11 +1351,11 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
   (a) is the holder of a visa (other than a transit visa); and
   (b) is in a place designated by the chief executive under section 383; and
   (c) has applied for entry permission in the prescribed manner.
-(2) If a person outside New Zealand does not apply for entry permission under subsection (1)(c), section 103 applies to the person on his or her arrival in New Zealand.
+(2) If a person outside New Zealand does not apply for entry permission under subsection (1)⁠(c), section 103 applies to the person on his or her arrival in New Zealand.
 
 ### 99 New Zealand citizen may confirm citizenship before arrival in New Zealand
 (1) A New Zealand citizen who intends entering New Zealand as a New Zealand citizen may, before boarding a craft for the purpose of travelling to New Zealand, comply with any requirements prescribed for the purpose of confirming a person's status as a New Zealand citizen.
-(2) Otherwise, the person must fulfil the corresponding responsibility under section 103(1)(e) on his or her arrival in New Zealand.
+(2) Otherwise, the person must fulfil the corresponding responsibility under section 103(1)⁠(e) on his or her arrival in New Zealand.
 (3) Subsections (4) and (5) apply to a person who—
   (a) intends to enter New Zealand as a New Zealand citizen; and
   (b) presents one of the following types of passport before boarding a craft for the purpose of travelling to New Zealand:
@@ -1372,7 +1390,7 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
   (b) on arrival of the craft at a place that is or contains an immigration control area,—
     (i) to produce for inspection such prescribed documents as an immigration officer may specify; and
     (ii) if applicable, to prevent, with such reasonable force as may be necessary, the disembarkation of any person from the craft otherwise than into an immigration control area:
-  (c) subject to section 25 of the Customs and Excise Act 1996, where the craft arrives, or is to arrive, in New Zealand elsewhere than at a place that is or contains an immigration control area because of weather conditions or other unforeseen circumstances, to make appropriate arrangements for all persons on board the craft to report in the manner and within the time prescribed for the purposes of section 103(1)(b):
+  (c) subject to section 25 of the Customs and Excise Act 1996, where the craft arrives, or is to arrive, in New Zealand elsewhere than at a place that is or contains an immigration control area because of weather conditions or other unforeseen circumstances, to make appropriate arrangements for all persons on board the craft to report in the manner and within the time prescribed for the purposes of section 103(1)⁠(b):
   (d) if a stowaway has been found on the craft, to report that fact to an immigration officer as soon as practicable.
 (2) In addition to any obligations under section 102, the carrier, and the person in charge, of a craft that is en route to New Zealand or that berths, lands, or arrives in New Zealand from another country have the following responsibilities:
   (a) in the case of a craft that is not a commercial passenger aircraft on a scheduled international service, to supply on demand by an immigration officer a list giving such details as the officer may specify concerning every person (whether a member of the crew or a passenger) who has been on board the craft since its last port of call:
@@ -1394,7 +1412,7 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
   (a) in an approved form and manner and on the date specified by the chief executive; and
   (b) for the period from the date specified by the chief executive until 14 days after the arrival in New Zealand of the craft on which the person to whom the information relates intended to, or did, travel to New Zealand.
 (5) Information collected or accessed by the chief executive under subsections (2) and (4) may be retained by the chief executive only if any of the following circumstances apply:
-  (a) the chief executive decided under section 97(1)(b) that the person may not board a craft for the purpose of travelling to New Zealand:
+  (a) the chief executive decided under section 97(1)⁠(b) that the person may not board a craft for the purpose of travelling to New Zealand:
   (b) the person has been refused a visa and entry permission—
     (i) on arrival; or
     (ii) in a place designated by the chief executive under section 383:
@@ -1416,10 +1434,11 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
     (ii) the person is a New Zealand citizen and holds and produces a foreign passport containing an endorsement of a type described in section 384; or
     (iii) the person is a New Zealand citizen and holds and produces a foreign passport containing a returning resident's visa (within the meaning of section 2(1) of the former Act); or
     (iv) the person is a transit passenger (within the meaning of section 86(7)):
+  (da) to produce, on demand by an immigration officer, the person's passport or certificate of identity and any travel tickets held by the person:
   (e) in the case of a New Zealand citizen who is entering New Zealand as a New Zealand citizen, to comply with any requirements prescribed for the purpose of confirming the person’s status as a New Zealand citizen:
   (f) to comply with any direction of an immigration officer to remain in the immigration control area or other prescribed place, or a specified part of the area or place:
   (g) to comply with any other directions of an immigration officer while in an immigration control area.
-(2) However, the obligation in subsection (1)(e) does not apply if the person, before arriving in New Zealand, has already complied with those requirements in accordance with section 99.
+(2) However, the obligation in subsection (1)⁠(e) does not apply if the person, before arriving in New Zealand, has already complied with those requirements in accordance with section 99.
 (3) Where a person arriving in New Zealand is, by reason of age or disability, incapable of complying with any of the requirements of subsection (1), it is the responsibility of the parent or guardian or other person for the time being having the care of that person to comply with those requirements on that person’s behalf.
 (4) Every passport or certificate of identity produced by a person to an immigration officer under this section—
   (a) must, if the person is a New Zealand citizen or is granted entry permission, be returned to the person before the person leaves the immigration control area; or
@@ -1442,7 +1461,7 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
 (4) A photograph taken under subsection (2) must not be retained by the Department if the fact of the person’s New Zealand citizenship is confirmed.
 (5) A photograph taken under subsection (2) that does not confirm the fact of the person’s New Zealand citizenship may be retained for the purposes of administering this Act.
 (6) The obligation in subsection (2)—
-  (a) is in addition to any requirements prescribed for the purposes of section 103(1)(e) that may apply; but
+  (a) is in addition to any requirements prescribed for the purposes of section 103(1)⁠(e) that may apply; but
   (b) is subject to any prescribed exemptions made in accordance with section 402(l).
 (7) However, the obligation in subsection (2) does not apply if the person, before arriving in New Zealand, has already allowed himself or herself to be photographed in accordance with section 99.
 
@@ -1503,8 +1522,8 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
     (i) grant entry permission to the person; or
     (ii) refuse entry permission to the person; and
   (b) the Minister may, by special direction, impose further conditions on the visa, or vary or cancel any conditions that would otherwise apply to the visa.
-(6) The Minister's or immigration officer's decision under subsection (4)(a) or (5)(a) must be made, and any discretion exercised, in terms of the residence instructions applicable at the time the person applied for the visa.
-(7) For the purposes of subsections (4) and (5), the following matters are matters for the discretion of the Minister or immigration officer, as the case may be, and, subject to section 187(1)(c), no appeal lies against his or her decision, whether to a court, the Tribunal, the Minister, or otherwise:
+(6) The Minister's or immigration officer's decision under subsection (4)⁠(a) or (5)⁠(a) must be made, and any discretion exercised, in terms of the residence instructions applicable at the time the person applied for the visa.
+(7) For the purposes of subsections (4) and (5), the following matters are matters for the discretion of the Minister or immigration officer, as the case may be, and, subject to section 187(1)⁠(c), no appeal lies against his or her decision, whether to a court, the Tribunal, the Minister, or otherwise:
   (a) a decision to grant the visa holder entry permission:
   (b) a decision to grant the visa holder entry permission, but to impose, vary, or cancel any conditions of the visa.
 (8) Subsection (7) does not limit or affect the right of the person to bring review proceedings.
@@ -1522,21 +1541,33 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
   (a) a decision to grant the visa holder entry permission on the basis of the existing temporary entry class visa:
   (b) a decision to grant the visa holder entry permission on the basis of the existing temporary entry class visa, but to impose, vary, or cancel conditions relating to stay in New Zealand:
   (c) a decision to refuse the visa holder entry permission.
-(6) Subsection (4) does not limit or affect the right of the person to bring review proceedings.
+(6) Subsection (5) does not limit or affect the right of the person to bring review proceedings.
 (7) Nothing in this section prevents—
   (a) the Minister or an immigration officer, in his or her discretion, from granting entry permission to the holder of a temporary entry class visa (other than a holder of a temporary entry class visa of a type subject to restricted temporary entry instructions) as an exception to temporary entry instructions:
   (b) the Minister, in his or her absolute discretion, from granting entry permission to the holder of a temporary entry class visa of a type subject to restricted temporary entry instructions, as an exception to the restricted temporary entry instructions.
 
-### 110 Applicant for entry permission to provide address
-A person who applies for entry permission—
-  (a) must specify a physical address in New Zealand to which any communication may be sent, or at which any notice may be served under this Act; and
-  (b) may specify an electronic address to which any communication may be sent; and
-  (c) may at any time, by written notice to an immigration officer, substitute a different physical or electronic address to an address specified under paragraph (a) or (b).
+### 109A Form of entry permission
+(1) Entry permission is granted by being entered and retained in the records (whether electronic or physical) of the Department in a manner determined by the chief executive.
+(2) Entry permission may (but need not) be evidenced by an endorsement in a passport or certificate of identity.
+(3) To avoid doubt, no electronic or physical record is required to be created for entry permission that is deemed to be granted by or under this Act.
 
-### 111 Applicant for entry permission to allow collection of biometric information
-(1) A person who applies for entry permission must allow biometric information to be collected from him or her.
-(2) If he or she fails to allow the biometric information to be collected, the Minister or an immigration officer may refuse to grant the person entry permission.
-(3) The requirement in subsection (1) does not apply if the person is exempt from providing the information in accordance with regulations made under section 400(l).
+### 110 Applicant for entry permission to provide address
+A person who applies for entry permission must provide a contact address and an address for service.
+  (a)
+  (b)
+  (c)
+
+### 111 Collection of biometric information
+(1) An immigration officer may require a person who applies for entry permission (irrespective of whether the application is still being considered, or whether entry permission has been granted or refused) to provide biometric information—
+  (a) at any time before the person leaves the immigration control area, designated place, or prescribed place at which the application is made; and
+  (b) if the application is not made in New Zealand, at any time before the person leaves the immigration control area or prescribed place at which he or she arrives in New Zealand.
+(2) If a person refuses to allow the biometric information to be collected, the Minister or an immigration officer may—
+  (a) refuse to grant entry permission; or
+  (b) revoke any entry permission already granted.
+(3) Entry permission may be revoked at any time before the person leaves the immigration control area, designated place, or prescribed place.
+(4) A revocation under this section is made by entry on the records of the Department, and takes effect immediately.
+(5) This section does not apply to persons who, in accordance with regulations made under section 400(l), are exempt from providing biometric information.
+(6) In this section, designated place means a place designated by the chief executive under section 383.
 
 ### 112 Obligation to inform of all relevant facts, including changed circumstances
 (1) It is the responsibility of an applicant for entry permission to ensure that all information, evidence, and submissions that the applicant wishes to have considered in support of the application are provided when the application is made.
@@ -1545,8 +1576,8 @@ A person who applies for entry permission—
   (b) may determine the application on the basis of the information, evidence, and submissions provided.
 (3) It is also the responsibility of an applicant for entry permission to inform the Minister or an immigration officer of any relevant fact, including any material change in circumstances that has occurred between the grant of a visa and the application for entry permission on the basis of that visa, if that fact or change in circumstances may affect the decision on the application.
 (4) Without limiting the scope of the expression material change in circumstances in subsection (3), such a change may relate to the applicant or another person included in the application, and may relate to any matter relevant to this Act or immigration instructions.
-(5) Failure to comply with the obligation set out in subsection (3) amounts to concealment of relevant information for the purposes of section 157 or 158.
-(6) It is sufficient grounds for the Minister or an immigration officer to decline to grant entry permission to a person if the Minister or officer is satisfied that the person,—
+(5) Failure to comply with the obligation set out in subsection (3) must be treated as concealing relevant information for the purposes of section 157 or 158.
+(6) It is sufficient grounds for the Minister or an immigration officer to refuse to grant entry permission to a person if the Minister or officer is satisfied that the person,—
   (a) in applying for entry permission, whether personally or through an agent, submitted false or misleading information or withheld relevant information that was potentially prejudicial to the grant of the permission; or
   (b) did not ensure that the Minister or an immigration officer was informed of any material change in circumstances (within the meaning of subsection (3)) between the time of being granted a visa and the time of applying for entry permission.
 
@@ -1571,7 +1602,7 @@ A constable may arrest a person, and present him or her to an immigration office
   (a) is a person to whom a visa waiver applies and who fails to apply for a visa and entry permission or is refused a visa; or
   (b) is not a person to whom a visa waiver applies and is not the holder of a visa granted under this Act; or
   (c) holds a visa but—
-    (i) the visa is subsequently cancelled under section 64(1)(b), (c), (d), or (e); or
+    (i) the visa is subsequently cancelled under section 64(1)⁠(b), (c), (d), or (e); or
     (ii) the visa is cancelled under section 67 while the person is in an immigration control area (unless some other visa is granted to the person or the person is a New Zealand citizen); or
   (d) is a stowaway; or
   (e) after arriving in New Zealand, is a person whose transit visa is cancelled by an immigration officer under section 90; or
@@ -1585,7 +1616,7 @@ A constable may arrest a person, and present him or her to an immigration office
 ### 116 When section 115 ceases to apply to person
 (1) Section 115 ceases to apply to a person upon the earliest of the following:
   (a) the expiry of 72 hours after the person (including a stowaway) first reports or presents to an immigration officer after arriving in New Zealand, unless that person is sooner arrested and detained or otherwise dealt with under Part 9:
-  (b) in the case of a person whose visa is deemed to be cancelled under section 64(1)(d)(ii), 72 hours after the time when the person is physically located by an immigration officer or a constable following the person’s leaving the immigration control area in contravention of the instruction of an immigration officer, unless the person is sooner arrested and detained or otherwise dealt with under Part 9:
+  (b) in the case of a person whose visa is deemed to be cancelled under section 64(1)⁠(d)⁠(ii), 72 hours after the time when the person is physically located by an immigration officer or a constable following the person’s leaving the immigration control area in contravention of the instruction of an immigration officer, unless the person is sooner arrested and detained or otherwise dealt with under Part 9:
   (c) the person being granted a visa and entry permission:
   (d) the expiry of a warrant of commitment issued under section 317 or 318, unless a further warrant of commitment is issued or the person is released on conditions under Part 9 or agrees to residence and reporting requirements under section 315:
   (e) in the case of a person detained under a mass arrival warrant issued under section 317B, the expiry of the mass arrival warrant, unless a further warrant of commitment is issued under section 317, 317E, 318, or 323 or the person is released on conditions under Part 9, or agrees to residence and reporting requirements under section 315.
@@ -1616,11 +1647,13 @@ A constable may arrest a person, and present him or her to an immigration office
     (ii) is not then on board the craft.
 (2) The carrier of a craft leaving New Zealand also has the following responsibilities:
   (a) to provide passage from New Zealand at the cost in all respects of the carrier, or to bear the cost of passage from New Zealand by any other carrier, of any person—
-    (i) who was on board the craft, or any other craft operated by the carrier, when it arrived in New Zealand and did not hold a visa permitting travel to New Zealand and was, on arrival in New Zealand, refused a visa and entry permission; or
+    (i) who was on board the craft, or any other craft operated by the carrier, when it arrived in New Zealand and did not hold a visa permitting travel to New Zealand and who, on arrival in New Zealand, was—
+      (A) refused a visa and entry permission; or
+      (B) granted a visa and entry permission, but then had that entry permission revoked; or
     (ii) who arrived in New Zealand as a member of the crew of the craft, or of any other craft operated by the carrier, and who remained unlawfully in New Zealand after the departure of that craft:
   (b) to pay any costs incurred by the Crown in detaining and maintaining a person described in paragraph (a) pending the person's departure from New Zealand.
 (3) Subsections (1) and (2) are subject to any applicable special direction or to regulations made under section 400.
-(4) The responsibility of the carrier and person in charge under subsection (1)(a) is not affected by the class or type of seat available on the craft, but is subject to—
+(4) The responsibility of the carrier and person in charge under subsection (1)⁠(a) is not affected by the class or type of seat available on the craft, but is subject to—
   (a) the safety of the craft; and
   (b) the safety of the other persons on the craft; and
   (c) in relation to a person being deported, an offer to pay the cost of passage having been received.
@@ -1724,7 +1757,7 @@ A matter under this Part must not be treated as finally determined until—
   (a) a statement of the grounds for the claim seeking recognition as a refugee or a protected person; and
   (b) a statement of any grounds for any other potential claim seeking recognition as a refugee or a protected person.
 (4) If a claimant is aware that any member of his or her immediate family who is in New Zealand is seeking recognition as a refugee or a protected person, the claimant must, as soon as possible after making a claim, inform a refugee and protection officer and, if possible, state whether the family member's claim is on different grounds.
-(5) A claimant must provide a refugee and protection officer with a current address in New Zealand to which communications relating to the claim may be sent and a current residential address, and must notify the officer in a timely manner of a change in either of those addresses. The officer may rely on the latest address to which communications may be sent for the purpose of communications under this Part.
+(5) A claimant must provide a refugee and protection officer with a contact address and an address for service.
 
 ### 134 Whether to accept claim for consideration
 (1) In determining whether to accept a claim for consideration, a refugee and protection officer may take into account whether,—
@@ -1874,7 +1907,7 @@ A refugee and protection officer may cancel the recognition of a New Zealand cit
 ### 148 Procedures to be followed when refugee and protection officer making determination under section 143, 145, or 146
 When making a determination under section 143, 145, or 146,—
   (a) a refugee and protection officer must notify the person concerned of the matter that is being considered; and
-  (b) sections 135, 136(3), 138(4)(a), (b), and (d), 138(5), and 149 apply, with any necessary modifications, as if the matter being considered were a claim and the person concerned were a claimant.
+  (b) sections 135, 136(3), 138(4)⁠(a), (b), and (d), 138(5), and 149 apply, with any necessary modifications, as if the matter being considered were a claim and the person concerned were a claimant.
 
 **Miscellaneous matters**
 
@@ -1883,12 +1916,12 @@ When making a determination under section 143, 145, or 146,—
   (a) require the person to supply such information, and within such times, as the officer reasonably requires:
   (b) require the person to produce such documents in the person’s possession or within the person’s ability to obtain as the officer requires:
   (c) inform the person that any other person may be required to produce or disclose relevant documents or information relating to the person, and require the other person to produce or disclose, as the case may be, any relevant documents or information relating to the person:
-  (d) if the officer has good cause to suspect that a person other than the person concerned has in his or her possession or control any document of the person concerned (including any passport or travel document), in the prescribed manner request that other person to produce that document:
+  (d) if the officer has good cause to suspect that a person other than the person concerned has in his or her or its possession or control any document of the person concerned (including any passport or travel document), in the prescribed manner request that other person to produce that document:
   (e) require the person to allow biometric information to be collected from him or her:
   (f) require the person to attend an interview:
   (g) seek information from any source:
   (h) determine the claim or matter on the basis of the information, evidence, and submissions provided by the person.
-(2) A person who is requested to produce a document under subsection (1)(d) is not entitled to refuse to comply with the request by reason only that the person concerned has a lien over the document.
+(2) A person who is requested to produce a document under subsection (1)⁠(d) is not entitled to refuse to comply with the request by reason only that the person concerned has a lien over the document.
 (3) If a claimant, or a person whose recognition as a refugee or a protected person is being investigated, is detained in custody, a refugee and protection officer may require the person having custody of that person to—
   (a) provide the refugee and protection officer with access to the place where the person is being detained; and
   (b) produce the person for interview; and
@@ -1903,7 +1936,7 @@ When making a determination under section 143, 145, or 146,—
   (a) apply for a further visa of any class or type while in New Zealand; or
   (b) while in New Zealand, request a special direction or make a request for the grant of a visa under section 61; or
   (c) bring any appeal under section 187 to the Tribunal.
-(3) Despite subsection (2)(a), a claimant may apply for a further temporary visa for such period as may be required for the claimant to be lawfully in New Zealand while his or her claim is determined.
+(3) Despite subsection (2)⁠(a), a claimant may apply for a further temporary visa for such period as may be required for the claimant to be lawfully in New Zealand while his or her claim is determined.
 (4) Nothing in this section prevents a person from bringing an appeal to the Tribunal under section 206.
 (5) This section ceases to apply to a person if and when—
   (a) the person is recognised as a refugee or a protected person; or
@@ -1920,18 +1953,18 @@ When making a determination under section 143, 145, or 146,—
   (c) to the United Nations High Commissioner for Refugees (or a representative of the High Commissioner); or
   (d) if the particulars relating to a claim are published in a manner that is unlikely to allow identification of the person concerned (whether in a published decision of the Tribunal under clause 19 of Schedule 2 or otherwise); or
   (e) if, in the circumstances of the particular case, there is no serious possibility that the safety of the claimant or any other person would be endangered by the disclosure of the information.
-(3) In determining whether information may be released under subsection (2)(e), the person considering whether to disclose the information may have regard to the protections that the person, agency, or body to whom the information is disclosed may apply to the information, including—
+(3) In determining whether information may be released under subsection (2)⁠(e), the person considering whether to disclose the information may have regard to the protections that the person, agency, or body to whom the information is disclosed may apply to the information, including—
   (a) any applicable requirements of the Privacy Act 1993; and
   (b) any orders of the Tribunal or other court; and
   (c) any protection mechanisms that the person, agency, or body itself must or may apply.
-(4) If, in relation to a claim or particulars relating to a claim, the test in subsection (2)(e) is satisfied (the person concerned having considered the matters in subsection (3)),—
+(4) If, in relation to a claim or particulars relating to a claim, the test in subsection (2)⁠(e) is satisfied (the person concerned having considered the matters in subsection (3)),—
   (a) the chief executive may publish the decision of a refugee and protection officer relating to the claim if the chief executive determines that, in the circumstances of the particular case, it is in the public interest to do so:
   (b) the Attorney-General may, subject to any orders of the Tribunal, publish the decision of the Tribunal relating to the claim if the Attorney-General determines that, in the circumstances of the particular case, it is in the public interest to do so.
 (5) To avoid doubt,—
-  (a) a refugee and protection officer may disclose information under subsection (2)(a) when carrying out his or her functions under section 136(2) or 149(1)(c) or (g):
-  (b) the chief executive may disclose information under subsection (2)(a) when collecting information on behalf of the Tribunal under section 229:
-  (c) the Tribunal may disclose information under subsection (2)(a) when carrying out its functions under section 228 or clause 10(1)(b) and (c) of Schedule 2:
-  (d) for the purposes of determining a claim, or cancelling the recognition of, or ceasing to recognise, a person as a refugee or a protected person, information may be disclosed under subsection (2)(a).
+  (a) a refugee and protection officer may disclose information under subsection (2)⁠(a) when carrying out his or her functions under section 136(2) or 149(1)⁠(c) or (g):
+  (b) the chief executive may disclose information under subsection (2)⁠(a) when collecting information on behalf of the Tribunal under section 229:
+  (c) the Tribunal may disclose information under subsection (2)⁠(a) when carrying out its functions under section 228 or clause 10(1)⁠(b) and (c) of Schedule 2:
+  (d) for the purposes of determining a claim, or cancelling the recognition of, or ceasing to recognise, a person as a refugee or a protected person, information may be disclosed under subsection (2)⁠(a).
 (6) Nothing in this section prevents the disclosure of the fact that a person is a claimant, a refugee, or a protected person, or disclosure of particulars in relation to a claimant, a refugee, or a protected person, to the extent that the person concerned—
   (a) has expressly waived his or her right to confidentiality under this section; or
   (b) by his or her words or actions, impliedly waived his or her right to confidentiality under this section.
@@ -1959,10 +1992,13 @@ When making a determination under section 143, 145, or 146,—
 ### 154 Deportation liability if person unlawfully in New Zealand
 (1) A person unlawfully in New Zealand is liable for deportation.
 (2) A person unlawfully in New Zealand may, not later than 42 days after first becoming unlawfully in New Zealand, appeal on humanitarian grounds against his or her liability for deportation.
-(3) Subsection (2) applies except if subsection (4) applies.
+(3) Subsection (2) applies except if subsection (4) or (5) applies.
 (4) If the person is unlawfully in New Zealand following an unsuccessful reconsideration under section 185 of a decision to decline his or her visa application, the person may appeal on humanitarian grounds against his or her liability for deportation not later than 42 days after the later of—
   (a) the day on which the person became unlawfully in New Zealand; or
   (b) the day on which the person received confirmation of the decision to decline his or her visa application.
+(5) A person is not entitled to an appeal under subsection (2) if—
+  (a) the person is unlawfully in New Zealand following the cancellation of the person's visa under section 64(1)⁠(ab); or
+  (b) the person has already had an opportunity (whether exercised or not) to appeal against his or her liability for deportation.
 
 ### 155 Deportation liability if person's visa granted in error
 (1) A person is liable for deportation if—
@@ -1976,6 +2012,7 @@ When making a determination under section 143, 145, or 146,—
 (4) A person liable for deportation under this section may, not later than 28 days after the date of service of a deportation liability notice, appeal to the Tribunal against his or her liability for deportation—
   (a) on the facts and on humanitarian grounds, if the person holds a residence class visa; or
   (b) on humanitarian grounds only, in the case of a person holding a temporary visa or an interim visa.
+(5) However, subsection (4) does not apply if the person is liable for deportation under this section because the person re-entered New Zealand while he or she was subject to a period of prohibition on entry.
 
 ### 156 Deportation liability if visa held under false identity
 (1) A person is liable for deportation if—
@@ -1983,10 +2020,10 @@ When making a determination under section 143, 145, or 146,—
   (b) the Minister determines that the person holds a visa under a false identity.
 (2) If a person is liable for deportation under this section and the visa is a temporary visa or interim visa,—
   (a) the person may appeal to the Tribunal on humanitarian grounds not later than 42 days after first becoming unlawfully in New Zealand; and
-  (b) if subsection (1)(b) applies, the person has 14 days from the date of service of a deportation liability notice to give good reason why the deportation should not proceed.
+  (b) if subsection (1)⁠(b) applies, the person has 14 days from the date of service of a deportation liability notice to give good reason why the deportation should not proceed.
 (3) If a person is liable for deportation under this section and the visa is a residence class visa,—
   (a) the person may appeal to the Tribunal on humanitarian grounds not later than 42 days after first becoming unlawfully in New Zealand; and
-  (b) if subsection (1)(b) applies, the person may, not later than 28 days after the date of service of a deportation liability notice, appeal to the Tribunal on the facts against his or her liability for deportation.
+  (b) if subsection (1)⁠(b) applies, the person may, not later than 28 days after the date of service of a deportation liability notice, appeal to the Tribunal on the facts against his or her liability for deportation.
 (4) For the purposes of subsections (2) and (3), a person to whom a visa has been granted in a false identity is deemed to have been unlawfully in New Zealand since—
   (a) the date the person arrived in New Zealand, if he or she has held a visa in a false identity since that date; or
   (b) the day after the date on which a visa granted in the person's actual identity expired, or was cancelled without another visa being granted, if he or she has held a visa in his or her actual identity after arriving in New Zealand.
@@ -2002,23 +2039,28 @@ When making a determination under section 143, 145, or 146,—
   (a) breach of conditions of the person’s visa:
   (b) criminal offending:
   (c) other matters relating to character:
-  (d) concealment of relevant information in relation to the person’s application for a visa:
+  (d) concealing relevant information in relation to the person’s application for a visa:
   (e) a situation where the person’s circumstances no longer meet the rules or criteria under which the visa was granted.
 
-### 158 Deportation liability of residence class visa holder if visa or citizenship obtained or held by fraud, forgery, etc
+### 158 Deportation liability of residence class visa holder due to fraud, forgery, etc
 (1) A residence class visa holder is liable for deportation if—
   (a) the person is convicted of an offence where it is established that—
-    (i) the person’s residence class visa or entry permission was procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
-    (ii) the person holds a residence class visa granted on the basis of a visa procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
+    (i) any of the information provided in relation to the person's application, or purported application, for a residence class visa or entry permission was fraudulent, forged, false, or misleading, or any relevant information was concealed; or
+    (ii) any of the information provided in relation to the person's, or any other person’s, application, or purported application, for a visa on the basis of which the residence class visa was granted was fraudulent, forged, false, or misleading, or any relevant information was concealed; or
   (b) the Minister determines that—
-    (i) the person’s residence class visa or entry permission was procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
-    (ii) the person holds a residence class visa granted on the basis of a visa procured through fraud, forgery, false or misleading representation, or concealment of relevant information.
+    (i) any of the information provided in relation to the person's application, or purported application, for a residence class visa or entry permission was fraudulent, forged, false, or misleading, or any relevant information was concealed; or
+    (ii) any of the information provided in relation to the person's, or any other person’s, application, or purported application, for a visa on the basis of which the residence class visa was granted was fraudulent, forged, false, or misleading, or any relevant information was concealed.
+(1A) Subsection (1) applies—
+  (a) whether or not the person holding the residence class visa is the person who—
+    (i) provided the information that is established or determined to be fraudulent, forged, false, or misleading; or
+    (ii) concealed the relevant information that is established or determined to have been concealed; and
+  (b) whether the visa was granted before or after this subsection came into force.
 (2) A former citizen who is deemed by section 75 to hold a resident visa is liable for deportation if—
   (a) the person was deprived of his or her New Zealand citizenship under section 17 of the Citizenship Act 1977 on the grounds that the grant, or grant requirement, was procured by fraud, false representation, or wilful concealment of relevant information; and
   (b) that fraud, false representation, or wilful concealment of relevant information occurred in the context of procuring the immigration status that enabled the person to meet a requirement, or requirements, for the grant of New Zealand citizenship.
 (3) A person liable for deportation under this section may, not later than 28 days after the date of service of a deportation liability notice, appeal to the Tribunal against his or her liability for deportation—
-  (a) on humanitarian grounds only, if subsection (1)(a) or (2) applies:
-  (b) on the facts and on humanitarian grounds, if subsection (1)(b) applies.
+  (a) on humanitarian grounds only, if subsection (1)⁠(a) or (2) applies:
+  (b) on the facts and on humanitarian grounds, if subsection (1)⁠(b) applies.
 (4) If section 156 also applies to a person to whom this section applies, the person's deportation liability must be determined under section 156 and not this section.
 
 ### 159 Deportation liability of resident if visa conditions breached
@@ -2044,12 +2086,13 @@ When making a determination under section 143, 145, or 146,—
     (ii) when the person held a temporary entry class visa; or
     (iii) not later than 2 years after the person first held a residence class visa; or
   (b) of an offence for which the court has the power to impose imprisonment for a term of 2 years or more, if the offence was committed not later than 5 years after the person first held a residence class visa; or
-  (c) of an offence and sentenced to imprisonment for a term of 5 years or more (or for an indeterminate period capable of running for 5 years or more), if the offence was committed not later than 10 years after the person first held a residence class visa.
+  (c) of an offence and sentenced to imprisonment for a term of 5 years or more (or for an indeterminate period capable of running for 5 years or more), if the offence was committed not later than 10 years after the person first held a residence class visa; or
+  (d) of an offence against section 350(1)⁠(a) or 351, if the offence was committed not later than 10 years after the person first held a residence class visa, and whether that visa was granted before or after this paragraph comes into force.
 (2) A person liable for deportation under this section may, not later than 28 days after being served with a deportation liability notice, appeal to the Tribunal—
   (a) on humanitarian grounds against his or her liability for deportation; and
   (b) if he or she is a refugee or a protected person, against any decision of a refugee and protection officer that he or she may be deported.
-(3) For the purposes of subsection (1)(a)(iii), (b), and (c), the periods of 2 years, 5 years, and 10 years after a person first held a residence class visa are to be determined exclusive of any time spent by the person in imprisonment following conviction for any offence.
-(4) Subsection (1)(c) applies—
+(3) For the purposes of subsection (1)⁠(a)⁠(iii), (b), (c), and (d), the periods of 2 years, 5 years, and 10 years after a person first held a residence class visa are to be determined exclusive of any time spent by the person in imprisonment following conviction for any offence.
+(4) Subsection (1)⁠(c) applies—
   (a) whether the sentence is of immediate effect or is deferred or is suspended in whole or in part:
   (b) if a person has been convicted of 2 or more offences on the same occasion or in the same proceedings, and any sentences of imprisonment imposed in respect of those offences are cumulative, as if the person had been convicted of a single offence and sentenced for that offence to the total of the cumulative sentences:
   (c) if a person has been convicted of 2 or more offences, and a single sentence has been imposed in respect of those offences, as if that sentence had been imposed in respect of a conviction for a single offence.
@@ -2089,7 +2132,7 @@ When making a determination under section 143, 145, or 146,—
 An immigration officer must have regard to Part 5 and Schedule 1 (being the text of the Refugee Convention) when carrying out his or her functions under this Act in relation to a claimant, a refugee, or a protected person.
 
 ### 166 Limitation on deportation of diplomats, etc
-Despite anything in this Part, no person who is for the time being entitled to any immunity from jurisdiction by or under the Diplomatic Privileges and Immunities Act 1968 (other than a person referred to in section 10D(2)(d) of that Act) or the Consular Privileges and Immunities Act 1971 may be deported under this Act.
+Despite anything in this Part, no person who is for the time being entitled to any immunity from jurisdiction by or under the Diplomatic Privileges and Immunities Act 1968 (other than a person referred to in section 10D(2)⁠(d) of that Act) or the Consular Privileges and Immunities Act 1971 may be deported under this Act.
 
 ### 167 Period of deportation liability
 (1) Residence class visa holders remain liable for deportation for a period of 10 years following the arising of the liability for deportation.
@@ -2113,9 +2156,10 @@ Despite anything in this Part, no person who is for the time being entitled to a
 (1) A person liable for deportation may not—
   (a) apply for a visa, if he or she is unlawfully in New Zealand; or
   (b) apply for a further visa of a different class or type, if he or she currently holds a visa.
-(2) However, the Minister or an immigration officer may, in his or her absolute discretion, grant a visa of a different class or type to a person to whom subsection (1)(b) applies.
+(2) However, the Minister or an immigration officer may, in his or her absolute discretion, grant a visa of a different class or type to a person to whom subsection (1)⁠(b) applies.
 (3) While a person is liable for deportation, the processing of any application by the person for a visa of a different class or type must be suspended.
-(4) While a person is liable for deportation, the processing of any application by the person for the grant of New Zealand citizenship under section 8 of the Citizenship Act 1977 or section 7(1)(b)(ii) of the Citizenship (Western Samoa) Act 1982 must be suspended.
+(3A) However, nothing in subsection (3) prevents the processing of any application referred back to the Minister or the chief executive by the Tribunal under section 188(1)⁠(d) or (e).
+(4) While a person is liable for deportation, the processing of any application by the person for the grant of New Zealand citizenship under section 8 of the Citizenship Act 1977 or section 7(1)⁠(b)⁠(ii) of the Citizenship (Western Samoa) Act 1982 must be suspended.
 
 **Notification of liability for deportation**
 
@@ -2124,13 +2168,11 @@ Despite anything in this Part, no person who is for the time being entitled to a
 (2) Subsection (1) applies unless—
   (a) the person is liable for deportation on the grounds of being unlawfully in New Zealand; or
   (b) the person is named in a deportation order under section 163.
-(3) A deportation liability notice may be served on a person by—
-  (a) personal service by an immigration officer (or by another person on behalf of an immigration officer); or
-  (b) registered post addressed to the person's New Zealand address or an address supplied under section 57(2).
+(3) If a deportation liability notice is served by way of personal service, it may be served only by an immigration officer or by another person on behalf of an immigration officer.
 
 ### 171 Contents of deportation liability notice
 A deportation liability notice must be signed by the Minister or an immigration officer and state—
-  (a) the provision or provisions of this Act under which liability for deportation arose:
+  (a) the provision of this Act under which liability for deportation arose:
   (b) the ground or grounds on which liability for deportation arose:
   (c) if applicable, the right to give good reason, not later than 14 days after the date of service of the notice, as to why deportation should not proceed, and who that reason must be given to:
   (d) whether there is a right of appeal against liability for deportation and, if so,—
@@ -2150,10 +2192,13 @@ A deportation liability notice must be signed by the Minister or an immigration 
 (2) The Minister may at any time, by written notice, suspend a residence class visa holder's liability for deportation—
   (a) for a period not exceeding 5 years; and
   (b) subject to the visa holder complying with any conditions stated in the notice (which take effect from the date specified in the notice, being a date not earlier than the date of notification).
+(2A) The Minister may exercise his or her powers under this section whether or not the person who is liable for deportation—
+  (a) has given good reason under section 155(2), 156(2)⁠(b), or 157(2) why the person should not be deported; or
+  (b) has purported to apply to the Minister for any other reason.
 (3) Where a person fails to comply with the conditions stated in a notice under subsection (2),—
   (a) the Minister may reactivate the person's liability for deportation by causing a deportation liability notice to be served on the person that sets out the grounds of the reactivation; and
-  (b) subject to section 175(1)(e), the person has 28 days from the date the deportation liability notice is served to leave New Zealand.
-(4) In the case of a person who has appealed against his or her liability for deportation, the Minister must notify the Tribunal if the person’s liability for deportation is cancelled, suspended, or reactivated under subsection (1), (2), or (3)(a).
+  (b) subject to section 175A(4), the person has 28 days from the date the deportation liability notice is served to leave New Zealand.
+(4) In the case of a person who has appealed against his or her liability for deportation, the Minister must notify the Tribunal if the person’s liability for deportation is cancelled, suspended, or reactivated under subsection (1), (2), or (3)⁠(a).
 (5) The decision to cancel or suspend a person’s liability for deportation is in the absolute discretion of the Minister.
 (6) In the case of a person in imprisonment, the period referred to in subsection (2) commences on the date of the person’s release.
 (7) The cancellation or suspension of a person’s liability for deportation does not prevent the person from becoming liable for deportation on other grounds.
@@ -2170,45 +2215,61 @@ A deportation liability notice must be signed by the Minister or an immigration 
 (1) Where a person’s liability for deportation is suspended by the Minister under section 172, during the period of the suspension—
   (a) the person may not apply for a visa of a different class or type; and
   (b) the processing of any application made by the person for a visa of a different class or type must be suspended; and
-  (c) subject to sections 9 and 10 of the Citizenship Act 1977 and section 7(1)(b)(i) of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that requires the person to hold a residence class visa.
+  (c) subject to sections 9 and 10 of the Citizenship Act 1977 and section 7(1)⁠(b)⁠(i) of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that requires the person to hold a residence class visa.
 (2) If the Minister determines that a person has met the conditions stated by the Minister under section 172(2) for the period of the suspension, the Minister must—
   (a) cancel the person's liability for deportation; and
   (b) notify the person and the Tribunal of that fact.
 
 **Deportation**
 
-### 175 When deportation order may be served
-(1) An immigration officer or a constable may serve a deportation order on a person,—
-  (a) where the person has been served with a deportation liability notice that does not give the person 14 days to give good reason why deportation should not proceed, and the person has no right of appeal against liability for deportation, as soon as the person has been served with the notice:
-  (b) where the person has been served with a deportation liability notice that allows the person 14 days from the date of service to give good reason why deportation should not proceed, and the person has no right of appeal against deportation, on or after the earlier of,—
-    (i) if the person does not provide submissions as to good reason why deportation should not proceed, 15 days from the date of service; or
-    (ii) if the person purports to give good reason, and the person to whom the reason is provided determines that deportation should continue, the day after the person is notified of that determination:
-  (c) where the person has a right to appeal under this Act against liability for deportation, on or after—
-    (i) the expiry of the period for lodging such an appeal, where the person has not lodged such an appeal:
-    (ii) the day after the appeal is withdrawn, if the person withdraws an appeal to the Tribunal:
-    (iii) the day that is 28 days after the Tribunal determines an appeal against deportation, where the person lodged such an appeal and the liability for deportation was upheld (but subject to subparagraph (iv)):
-    (iv) where the person has lodged an appeal to the High Court under section 245,—
-      (A) if the appeal is withdrawn, the day after the withdrawal:
-      (B) if the liability for deportation is upheld, the day after the date on which the person was notified of the determination of the appeal:
-  (d) in the case of a person in respect of whom an order is made under section 163, as soon as that order is made:
-  (e) in the case of a person who has breached the conditions stated in a notice or order suspending his or her liability for deportation under section 172(2) or 212(1), the later of—
-    (i) 28 days after service of a deportation liability notice on the person under section 172(3) or 212(3)(a), as the case may be; and
-    (ii) any applicable day determined under paragraph (c):
-  (f) if the person was the holder of a limited visa and paragraph (a) does not apply, as soon as the visa expires.
-(2) A deportation order may be served on a person—
-  (a) inside New Zealand or, if the person still holds a visa, outside New Zealand; and
-  (b) by personal service by an immigration officer (or by another person on behalf of an immigration officer) or by registered post addressed to the person's New Zealand address or an address supplied under section 57(2).
-(3) A person may be served with a deportation order earlier than otherwise allowed under subsection (1) if the person so requests.
+### 175 Service of deportation order
+(1) A deportation order may be served on a person who is liable for deportation on or after the date or time specified in section 175A.
+(2) However, a deportation order may be served on an earlier date, if requested by the person liable for deportation.
+(3) A deportation order may only be served by an immigration officer (or by another person on behalf of an immigration officer) or a constable.
+(4) A deportation order may only be served on a person outside New Zealand if the person still holds a visa.
+
+### 175A Time when deportation order may be served
+(1) Where a person has a right to give good reason why deportation should not proceed, the first day on which a deportation order may be served on the person is,—
+  (a) if the person does not provide submissions as to good reason why deportation should not proceed, the day that is 15 days after the date of service of a deportation liability notice on the person; or
+  (b) if the person provides submissions as to good reason why deportation should not proceed, and the person to whom the submissions are provided determines that deportation should continue, the day after the person is notified of that determination.
+(2) Where a person has a right to appeal under this Act against liability for deportation, the first day on which a deportation order may be served on the person is—
+  (a) the day after the expiry of the period for lodging an appeal, if the person has not lodged an appeal:
+  (b) where the person has lodged an appeal to the Tribunal,—
+    (i) if the appeal is withdrawn, the day after the withdrawal:
+    (ii) if the liability for deportation is upheld, the day that is 28 days after the Tribunal determines the appeal (but subject to paragraph (c)):
+  (c) where the person has applied under section 245 for leave to appeal to the High Court,—
+    (i) if the application for leave is withdrawn, the day after the withdrawal:
+    (ii) if the High Court refuses leave to appeal, on the day after the expiry of the period for lodging an application for leave to the Court of Appeal in accordance with the rules of the Court of Appeal (but subject to subparagraph (iii)):
+    (iii) if the person applies to the Court of Appeal for leave and leave is refused, the day after the person is notified of the Court of Appeal’s refusal:
+    (iv) if the application for leave is granted but the appeal is withdrawn, the day after the withdrawal:
+    (v) if the application for leave is granted and the person’s liability for deportation is upheld, the day after the person is notified of the determination of the appeal.
+(3) Where a person has both a right to give good reason why deportation should not proceed and a right to appeal under this Act against liability for deportation, the first day on which a deportation order may be served on the person is the later of—
+  (a) the first day on which the deportation order may be served under subsection (1); and
+  (b) the first day on which a deportation order may be served under subsection (2).
+(4) Where a person has breached the conditions stated in a notice or order suspending his or her liability for deportation under section 172(2) or 212(1), the first day on which a deportation order may be served on the person is the later of—
+  (a) the day that is 28 days after service of a deportation liability notice on the person under section 172(3) or 212(3)⁠(a), as the case may be; and
+  (b) any applicable day determined under subsection (2).
+(5) A deportation order may be served immediately on a person in the following circumstances:
+  (a) where the person has been served with a deportation liability notice and the person does not have—
+    (i) a right to give good reason why deportation should not proceed; or
+    (ii) a right of appeal against liability for deportation:
+  (b) where an Order in Council under section 163 has been made in respect of the person:
+  (c) where the person—
+    (i) was unlawfully in New Zealand before 2 am on 29 November 2010; and
+    (ii) continues to be unlawfully in New Zealand under this Act; and
+    (iii) has no right of appeal under this Act against liability for deportation:
+  (d) where the person was the holder of a limited visa that has expired (unless that person has been served with a deportation liability notice under paragraph (a), in which case paragraph (a) applies).
+(6) In this section, a right to give good reason why deportation should not proceed means a right, stated in a deportation liability notice served on a person liable for deportation, to give good reason, not later than 14 days after the date of service of that notice, as to why deportation should not proceed.
 
 ### 176 Content of deportation order
 (1) A deportation order must specify—
   (a) that the person named in the order is ordered to be deported from New Zealand; and
-  (b) that any visa held by the person will be cancelled when the person is deported; and
+  (b) that any visa held by the person has been, or will be, cancelled in accordance with section 64(1)⁠(ab); and
   (c) the provision of this Act under which the person became liable for deportation; and
   (d) the ground or grounds for deportation; and
   (e) the period of any prohibition on entry to New Zealand that the person named in the order is subject to; and
   (f) the consequences of attempting to return to New Zealand during the period of prohibition; and
-  (g) any costs or estimate of costs to the Crown of the deportation, and the requirement to repay those costs.
+  (g) that the person is required to repay the actual or (if an estimate of costs is specified in the deportation order) the estimated costs of deportation.
 (2) A deportation order must be signed by—
   (a) the Governor-General, if the order is made under section 163; or
   (b) an immigration officer, in any other case.
@@ -2223,6 +2284,7 @@ A deportation liability notice must be signed by the Minister or an immigration 
     (ii) to inquire into the circumstances of, or to make any further inquiry in respect of the information provided by or in respect of, the person who is the subject of the deportation order or any other person.
 (4) Whether or not an immigration officer considers cancelling a deportation order,—
   (a) he or she is not obliged to give reasons for any decision, other than the reason that this subsection applies; and
+  (ab) privacy principle 6 (which relates to access to personal information and is set out in section 6 of the Privacy Act 1993) does not apply to any reasons for any decision relating to the purported application; and
   (b) section 23 of the Official Information Act 1982 does not apply in respect of the decision.
 (5) However, to the extent that an immigration officer does have regard to any international obligations, the officer is obliged to record—
   (a) a description of the international obligations; and
@@ -2237,8 +2299,13 @@ A deportation liability notice must be signed by the Minister or an immigration 
 (3) A deportation order may be executed in respect of a person who is serving a sentence of imprisonment in a prison only if the Minister has ordered the release of the person in accordance with section 55 of the Parole Act 2002.
 
 ### 179 Deported person may not enter New Zealand during period of prohibition on entry
-(1) A person 18 years of age or over who is deported from New Zealand may not return to New Zealand, or be granted a visa or entry permission, during the period of prohibition on entry that applies to the person as set out in the following table:Why person deportedPeriod of prohibition on entry (calculated from the date of deportation)Section 155 applies (granted a visa as the result of an administrative error and visa not cancelled)noneSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order and deported not more than 12 months after date on which person became unlawfully in New Zealand2 yearsSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order and deported 12 months or more after date on which person became unlawfully in New Zealand5 yearsSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order, and it is second or subsequent time that person has been unlawfully in New Zealand5 yearsSection 157 applies (sufficient reasons for temporary entry class visa holder to be deported)5 yearsSection 159 applies (breached resident visa conditions)5 yearsSection 156 applies (visa granted on basis of false identity)permanent prohibitionSection 158 applies (convicted of gaining residence class visa by fraud, forgery, etc)permanent prohibitionSection 160 applies (new information as to character becomes available)permanent prohibitionSection 162 applies (refugee or protection status cancelled for fraud, forgery, etc)permanent prohibitionSection 161 applies (residence class visa holder convicted of specified offence)permanent prohibitionSection 163 applies (certified as person constituting threat or risk to security)permanent prohibition
-(2) A person who is unlawfully in New Zealand but leaves New Zealand voluntarily before he or she is served with a deportation order is not subject to any period of prohibition on entry.
+(1) A person 18 years of age or over who is deported from New Zealand may not return to New Zealand, or be granted a visa or entry permission, during the period of prohibition on entry that applies to the person as set out in the following table:The following table is small in size and contains 2 columns. Column 1 is headed Why person deported. Column 2 is headed Period of prohibition on entry (calculated from the date of deportation)Why person deportedPeriod of prohibition on entry (calculated from the date of deportation)Section 155 applies (granted a visa as the result of an administrative error and visa not cancelled)noneSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order and deported not more than 12 months after date on which person became unlawfully in New Zealand2 yearsSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order and deported 12 months or more after date on which person became unlawfully in New Zealand5 yearsSection 154 applies (unlawfully in New Zealand), and person is subject to deportation order, and it is second or subsequent time that person has been unlawfully in New Zealand5 yearsSection 157 applies (sufficient reasons for temporary entry class visa holder to be deported)5 yearsSection 159 applies (breached resident visa conditions)5 yearsSection 156 applies (visa granted on basis of false identity)permanent prohibitionSection 158 applies (fraud, forgery, etc, in relation to an application)permanent prohibitionSection 160 applies (new information as to character becomes available)permanent prohibitionSection 162 applies (refugee or protection status cancelled for fraud, forgery, etc)permanent prohibitionSection 161 applies (residence class visa holder convicted of specified offence)permanent prohibitionSection 163 applies (certified as person constituting threat or risk to security)permanent prohibition
+(2) A person who is liable for deportation is not subject to any period of prohibition on entry if the person—
+  (a) is liable for deportation only on the grounds that the person is unlawfully in New Zealand; and
+  (b) leaves New Zealand voluntarily before he or she is served with a deportation order.
+(3) For the purposes of subsection (1), the relevant provision for determining why the person was deported is—
+  (a) the provision under which the person became liable for deportation, as stated in the last deportation order served on the person; or
+  (b) if no deportation order was served on the person, the provision under which liability for deportation arose, as stated in the last deportation liability notice served on the person.
 
 ### 180 Deported person may not enter New Zealand until costs of deportation repaid
 (1) A person 18 years of age or over who is deported from New Zealand may not return to New Zealand, or be granted a visa or entry permission, until the person has repaid any debt due to the Crown in respect of the costs of his or her deportation.
@@ -2325,12 +2392,12 @@ The purpose of this Part is—
 ### 187 Rights of appeal in relation to decisions concerning residence class visas
 (1) There is a right of appeal to the Tribunal against a decision concerning a residence class visa in the following circumstances:
   (a) an applicant for a residence class visa may appeal against—
-    (i) a decision of an immigration officer to decline to grant the visa (including in the circumstances described in section 190(2)(b)):
+    (i) a decision of an immigration officer to decline to grant the visa (including in the circumstances described in section 190(2)⁠(b)):
     (ii) a decision by the Minister not to grant a residence class visa if classified information has been relied on in making the decision:
   (b) a person outside New Zealand who has been granted a resident visa may appeal against a decision to cancel the visa under section 65(1):
-  (c) a person who has been granted a resident visa may appeal against a decision to refuse to grant the person entry permission (including in the circumstances described in section 190(2)(b)).
+  (c) a person who has been granted a resident visa may appeal against a decision to refuse to grant the person entry permission (including in the circumstances described in section 190(2)⁠(b)).
 (2) However, no appeal lies under this Act in respect of—
-  (a) a decision by the Minister not to grant a residence class visa (except in the circumstances described in subsection (1)(a)(ii)); or
+  (a) a decision by the Minister not to grant a residence class visa (except in the circumstances described in subsection (1)⁠(a)⁠(ii)); or
   (b) a refusal of the Minister or an immigration officer to grant a residence class visa or entry permission to an excluded person; or
   (c) a refusal or failure of the Minister or an immigration officer to issue an invitation to apply for a visa; or
   (d) a refusal of the Minister or an immigration officer to grant a residence class visa to a person who has been invited to apply for a visa, if a ground for the refusal is that the Minister or officer determines that the person,—
@@ -2338,15 +2405,13 @@ The purpose of this Part is—
     (ii) did not ensure that an immigration officer was informed of any material change in circumstances between the time of expressing interest and the time of the person’s application for the relevant visa; or
   (e) a lapse of an application for a residence class visa or of an expression of interest in obtaining an invitation to apply for a visa; or
   (f) a revocation of an invitation to apply for a visa.
-(3) Where a person to whom subsection (1)(b) or (c) applies appeals under this section, this Act applies as if the decision were a decision to decline an application for a residence class visa.
+(3) Where a person to whom subsection (1)⁠(b) or (c) applies appeals under this section, this Act applies as if the decision were a decision to decline an application for a residence class visa.
 (4) The grounds for an appeal under this section are that—
   (a) the relevant decision was not correct in terms of the residence instructions applicable at the time the relevant application for the visa was made; or
   (b) the special circumstances of the appellant are such that consideration of an exception to those residence instructions should be recommended.
 (5) An appeal under this section must be brought not later than 42 days after the date the appellant is notified of the decision appealed against.
-(6) For the purposes of subsection (5), a written notice that is sent by post to an address supplied by the appellant under section 57(2) is treated as having been notified to him or her—
-  (a) 7 days after the date on which the notice was posted, if the address is in New Zealand; or
-  (b) 14 days after the date on which the notice was posted, if the address is outside New Zealand.
-(7) Subsection (6) applies unless the appellant proves that he or she was not notified of the decision and the lack of notification did not result from any fault on his or her behalf.
+(6)
+(7)
 (8) A person may bring review proceedings in a court in respect of a decision in relation to a residence class visa except if the decision is in relation to—
   (a) the refusal or failure to grant a residence class visa to a person outside New Zealand; or
   (b) the cancellation of a resident visa granted outside New Zealand before the holder of the visa first arrives in New Zealand as the holder of the visa.
@@ -2361,11 +2426,11 @@ The purpose of this Part is—
     (i) considers that the decision appealed against was made on the basis of an incorrect assessment in terms of the residence instructions applicable at the time the application was made; but
     (ii) is not satisfied that the appellant would, but for that incorrect assessment, have been entitled in terms of those instructions to the visa or entry permission; or
   (f) confirm the decision as having been correct in terms of the residence instructions applicable at the time the visa application was made, but recommend that the special circumstances of the applicant are such as to warrant consideration by the Minister as an exception to those instructions.
-(2) Where the Tribunal determines to reverse a decision to refuse a visa under subsection (1)(b) or (c), the Tribunal must—
+(2) Where the Tribunal determines to reverse a decision to refuse a visa under subsection (1)⁠(b) or (c), the Tribunal must—
   (a) consider whether it is appropriate that conditions should be imposed in accordance with section 50 when a resident visa is granted to the appellant; and
   (b) if it considers that imposing conditions is appropriate, direct the Minister to impose under that section the conditions specified in its decision (which may be specified with the degree of generality or particularity that the Tribunal thinks fit); and
   (c) notify the appellant in writing of any conditions imposed.
-(3) Where the Tribunal refers an application back to the Minister or the chief executive under subsection (1)(e), the Tribunal may give him or her the directions it thinks fit as to how a correct assessment of the application should be carried out.
+(3) Where the Tribunal refers an application back to the Minister or the chief executive under subsection (1)⁠(e), the Tribunal may give him or her the directions it thinks fit as to how a correct assessment of the application should be carried out.
 (4) The Tribunal must, as soon as practicable, notify the appellant in writing of its decision on the appeal and the reasons for that decision.
 (5) Subject to section 245, the decision of the Tribunal on the appeal is final, and, except where a court otherwise directs, the Tribunal has no jurisdiction to reconsider the appeal after the appellant has been notified of the decision.
 
@@ -2377,18 +2442,18 @@ The purpose of this Part is—
     (i) the information or evidence existed at the time the decision to refuse the visa was made, and would have been relevant to the making of that decision; and
     (ii) the appellant could not, by the exercise of reasonable diligence, have placed that information or evidence before the Minister or the immigration officer at the time at which the Minister or the officer made the decision on the application; and
     (iii) in all the circumstances it is fair to consider the information or evidence; or
-  (b) the Tribunal considers that it is necessary for it to have the information or evidence for the purpose of considering whether to make a determination under section 188(1)(f).
+  (b) the Tribunal considers that it is necessary for it to have the information or evidence for the purpose of considering whether to make a determination under section 188(1)⁠(f).
 (4) The Tribunal may require the chief executive to arrange for an interview to be conducted with any specified person for any specified purpose and in any specified manner, and for the report of that interview to be provided to the Tribunal, where—
   (a) the Tribunal considers that the decision under appeal depended, in whole or in part, upon the recorded results of an interview conducted with the appellant or with some other person connected with the application; and
   (b) those results involved the recording of an exercise of judgment on the part of the interviewing officer as opposed to the recording of facts; and
   (c) the Tribunal considers that further written evidence or submissions will not assist to confirm or test those results.
 (5) An interview conducted under subsection (4) may not be conducted by any immigration officer who has previously interviewed the person.
-(6) The Tribunal may, if it considers it fair in all the circumstances to do so, determine the appeal in the manner set out in section 188(1)(d) where—
+(6) The Tribunal may, if it considers it fair in all the circumstances to do so, determine the appeal in the manner set out in section 188(1)⁠(d) where—
   (a) it comes to the attention of the Tribunal that any particular event has occurred after the time at which the Minister or the immigration officer made the decision on the appellant’s visa application; and
   (b) the Tribunal is satisfied that the event materially affects the applicant’s eligibility under residence instructions.
 
 ### 190 Procedure where appeal successful or Tribunal makes recommendation
-(1) The Minister or an immigration officer must grant a residence class visa (and if necessary grant entry permission) to the appellant where the Tribunal reverses a decision under section 188(1)(b) or (c).
+(1) The Minister or an immigration officer must grant a residence class visa (and if necessary grant entry permission) to the appellant where the Tribunal reverses a decision under section 188(1)⁠(b) or (c).
 (2) However, nothing in subsection (1) requires a residence class visa or entry permission to be granted to a person—
   (a) until the normal requirements for providing any certificate or other material that is required before a visa or entry permission can be granted have been complied with, where the certificate or other material—
     (i) was not supplied to the Minister or the immigration officer concerned before the date on which the decision appealed against was made; or
@@ -2396,9 +2461,9 @@ The purpose of this Part is—
   (b) where, since the date of the decision that is the subject of the appeal, any matter has arisen or any information has become available in respect of the person that would disqualify that person from being granted a residence class visa or entry permission in terms of both—
     (i) the residence instructions applicable at the time of the relevant visa application; and
     (ii) the residence instructions currently applicable.
-(3) Where, in reliance on subsection (2)(a), a residence class visa is not immediately granted to a person who is already in New Zealand, the Minister or an immigration officer must grant a temporary visa to the person, being a visa that is current for a period of not less than 6 months.
-(4) The Minister must not impose any conditions on a resident visa granted under subsection (1), unless the Tribunal has directed the Minister to do so under section 188(2)(b).
-(5) Where the Tribunal makes a recommendation under section 188(1)(f), the Minister—
+(3) Where, in reliance on subsection (2)⁠(a), a residence class visa is not immediately granted to a person who is already in New Zealand, the Minister or an immigration officer must grant a temporary visa to the person, being a visa that is current for a period of not less than 6 months.
+(4) The Minister must not impose any conditions on a resident visa granted under subsection (1), unless the Tribunal has directed the Minister to do so under section 188(2)⁠(b).
+(5) Where the Tribunal makes a recommendation under section 188(1)⁠(f), the Minister—
   (a) must consider whether a residence class visa should be granted to the appellant as an exception to residence instructions; and
   (b) may, if he or she grants a resident visa, impose conditions on the visa in accordance with section 50.
 (6) The Minister is not obliged to give reasons in relation to any decision made as a result of any consideration under subsection (5), and neither section 27 of this Act nor section 23 of the Official Information Act 1982 applies in respect of any such decision.
@@ -2429,18 +2494,19 @@ The purpose of this Part is—
   (b) under section 134(3) to decline to accept for consideration the person’s claim to be recognised as a refugee:
   (c) to decline the person’s claim to be recognised under any of sections 129, 130, and 131 as a refugee or a protected person (whether or not the refugee and protection officer recognised the person as a refugee or a protected person under the grounds set out in another of those sections, or both of those other sections):
   (d) to cease to recognise the person as a refugee or a protected person under section 143:
-  (e) to cancel recognition of a New Zealand citizen as a refugee or a protected person on a ground under section 145(b).
+  (e) to cancel recognition of a New Zealand citizen as a refugee or a protected person under section 145.
 (2) An appeal under this section must be brought,—
   (a) if the person is in detention under Part 9, not later than 5 working days after the date on which the appellant is notified of the decision to which the appeal relates; or
   (b) in any other case, not later than 10 working days after the date on which the appellant is notified of the decision to which the appeal relates.
 (3) The Tribunal may, however, extend the time for lodging an appeal if satisfied that special circumstances warrant an extension.
-(4) To avoid doubt, an appeal right arises under subsection (1)(c) if a person's claim is declined on the grounds that the person has the protection of another country or has been recognised as a refugee by another country and can be received back and protected there without risk of being returned to a country where he or she would be at risk of circumstances that would give rise to grounds for his or her recognition as a refugee or a protected person in New Zealand.
-(5) Subsection (6) applies to a person who is entitled to an appeal under subsection (1)(a), (b), or (c) and who either—
+(4) To avoid doubt, an appeal right arises under subsection (1)⁠(c) if a person's claim is declined on the grounds that the person has the protection of another country or has been recognised as a refugee by another country and can be received back and protected there without risk of being returned to a country where he or she would be at risk of circumstances that would give rise to grounds for his or her recognition as a refugee or a protected person in New Zealand.
+(5) Subsection (6) applies to a person who is entitled to an appeal under subsection (1)⁠(a), (b), or (c) and who either—
   (a) is liable for deportation and is entitled to a humanitarian appeal in respect of that liability; or
   (b) would be entitled to a humanitarian appeal in respect of his or her liability for deportation, if he or she became liable for deportation.
-(6) The person must lodge a humanitarian appeal at the same time as lodging an appeal under this section (and, in respect of a person to whom subsection (5)(b) applies, the humanitarian appeal must be conducted as if he or she were a person liable for deportation). If the person is—
-  (a) successful on the appeal under this section, the Tribunal must dispense with its consideration of the person's humanitarian appeal (however, the person may lodge a humanitarian appeal subsequently if his or her claim for recognition is declined):
+(6) The person must lodge a humanitarian appeal at the same time as lodging an appeal under this section (and, in respect of a person to whom subsection (5)⁠(b) applies, the humanitarian appeal must be conducted as if he or she were a person liable for deportation). If the person is—
+  (a) successful on the appeal under this section, the Tribunal must dispense with its consideration of the person's humanitarian appeal:
   (b) unsuccessful on the appeal under this section, the Tribunal must consider the person's humanitarian appeal.
+(6A) If the Tribunal dispenses (under subsection (6)⁠(a)) with the consideration of a person's humanitarian appeal lodged at the same time as an appeal under subsection (1)⁠(a) or (b), the person may subsequently lodge a humanitarian appeal only if it is lodged, as required by subsection (6), at the same time as an appeal under subsection (1)⁠(c).
 (7) If the person does not lodge a humanitarian appeal in accordance with subsection (6), the person is not entitled to a humanitarian appeal against his or her liability for deportation, whether the liability currently exists or may arise in the future.
 (8) To avoid doubt, nothing in subsection (7) applies to a person who—
   (a) complies with subsection (6); and
@@ -2466,7 +2532,7 @@ The purpose of this Part is—
 (6) Subsection (7) applies to a person who is entitled to appeal under this section and who either—
   (a) is liable for deportation and is entitled to a humanitarian appeal in respect of that liability; or
   (b) would be entitled to a humanitarian appeal in respect of his or her liability for deportation, if he or she became liable for deportation.
-(7) The person must lodge a humanitarian appeal at the same time as lodging an appeal under this section (and, in respect of a person to whom subsection (6)(b) applies, the humanitarian appeal must be conducted as if he or she were a person liable for deportation). If the person is—
+(7) The person must lodge a humanitarian appeal at the same time as lodging an appeal under this section (and, in respect of a person to whom subsection (6)⁠(b) applies, the humanitarian appeal must be conducted as if he or she were a person liable for deportation). If the person is—
   (a) successful on the appeal under this section, and the Tribunal goes on to consider the claim and grants the person recognition, it must dispense with its consideration of the person's humanitarian appeal:
   (b) successful on the appeal under this section, and the Tribunal goes on to consider the claim but declines the claim, it must consider the person's humanitarian appeal:
   (c) unsuccessful on the appeal under this section, the Tribunal must consider the person's humanitarian appeal.
@@ -2478,58 +2544,59 @@ The purpose of this Part is—
 (10) In subsection (3), working day has the meaning given to it in section 194(9).
 
 ### 196 Determination of appeal against decision declining to accept for consideration claim in light of international arrangement or agreement
-(1) Where an appeal is brought under section 194(1)(a), the Tribunal must—
+(1) Where an appeal is brought under section 194(1)⁠(a), the Tribunal must—
   (a) determine the matter de novo; and
   (b) determine whether, in light of any international arrangement or agreement (as defined in section 134(5)) the claimant may have lodged, or had the opportunity to lodge,—
     (i) a claim for refugee status in another country:
     (ii) a claim for protection in another country.
-(2) The Tribunal may uphold or reverse the decision of the refugee and protection officer.
-(3) If the Tribunal reverses the decision,—
+(2) The Tribunal may dismiss or allow the appeal.
+(3) If the Tribunal allows the appeal,—
   (a) it must refer the claim back to a refugee and protection officer for consideration; and
-  (b) if the decision relates to a person to whom section 194(5) applies, it must dispense with its consideration of any humanitarian appeal lodged by the person in accordance with section 194(6)(a).
+  (b) if the appeal relates to a person to whom section 194(5) applies, it must dispense with its consideration of any humanitarian appeal lodged by the person in accordance with section 194(6)⁠(a).
 (4) To avoid doubt, nothing in subsection (1) requires the Tribunal to seek any information, evidence, or submissions further to those provided by the appellant.
 
 ### 197 Determination of appeal against decision declining to accept for consideration certain claims for recognition as refugee
-(1) Where an appeal is brought under section 194(1)(b), the Tribunal must—
+(1) Where an appeal is brought under section 194(1)⁠(b), the Tribunal must—
   (a) determine the matter de novo; and
   (b) determine whether 1 or more of the circumstances relating to the claim were brought about by the claimant—
     (i) acting otherwise than in good faith; and
     (ii) for a purpose of creating grounds for recognition under section 129.
 (2) For the purposes of determining the matter in subsection (1), the Tribunal must not treat the actions of any other person in relation to the claim or the claimant as a mitigating factor.
-(3) The Tribunal may uphold or reverse the decision of the refugee and protection officer.
-(4) If the Tribunal reverses the decision,—
+(3) The Tribunal may dismiss or allow the appeal.
+(4) If the Tribunal allows the appeal,—
   (a) it must refer the claim back to a refugee and protection officer for consideration; and
-  (b) if the decision relates to a person to whom section 194(5) applies, it must, in accordance with section 194(6)(a), dispense with its consideration of any humanitarian appeal lodged by the person.
+  (b) if the appeal relates to a person to whom section 194(5) applies, it must, in accordance with section 194(6)⁠(a), dispense with its consideration of any humanitarian appeal lodged by the person.
 (5) To avoid doubt, nothing in subsection (1) requires the Tribunal to seek any information, evidence, or submissions further to those provided by the appellant.
 
 ### 198 Determination of appeal against declining of claim for recognition, cancellation of recognition, or cessation of recognition
-(1) Where an appeal is brought under section 194(1)(c) or (d), the Tribunal must—
+(1) Where an appeal is brought under section 194(1)⁠(c), (d), or (e), the Tribunal must—
   (a) determine the matter de novo; and
   (b) determine, in the following order:
     (i) whether to recognise the person as a refugee on the ground set out in section 129; and
     (ii) whether to recognise the person as a protected person on the ground set out in section 130; and
     (iii) whether to recognise the person as a protected person on the ground set out in section 131; and
-  (c) in relation to the matters in paragraph (b)(ii) and (iii), determine whether there are serious reasons for considering that the claimant has—
+  (c) in relation to the matters in paragraph (b)⁠(ii) and (iii), determine whether there are serious reasons for considering that the claimant has—
     (i) committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes; or
     (ii) committed a serious non-political crime outside New Zealand before coming to New Zealand; or
     (iii) been guilty of acts contrary to the purposes and principles of the United Nations.
-(2) Where an appeal is brought under section 194(1)(e) (being an appeal against a decision by a refugee and protection officer to cancel recognition of a New Zealand citizen as a refugee or a protected person on a ground under section 145(b)), the Tribunal must—
+(2) However, if the appeal is brought under section 194(1)⁠(e) and relates to a decision to cancel recognition on the grounds that section 145(b)⁠(i) or (iii) (or both) apply, the Tribunal must—
   (a) determine the matter de novo; and
-  (b) except if the appeal relates to a ground under section 145(b)(ii), determine whether—
+  (b) determine whether either or both of the following apply:
     (i) recognition of the person as a refugee or a protected person may have been procured by fraud, forgery, false or misleading representation, or concealment of relevant information:
     (ii) the matters dealt with in Articles 1D, 1E, and 1F of the Refugee Convention may not have been able to be properly considered by a refugee and protection officer for any reason, including by reason of fraud, forgery, false or misleading representation, or concealment of relevant information; and
-  (c) determine, in relation to the person, the matters referred to in subsection (1)(b) and (c) of this section.
-(3) The Tribunal may uphold or reverse the decision of the refugee and protection officer, but may not refer the claim back to a refugee and protection officer for reconsideration.
-(4) If the Tribunal reverses a decision in relation to a person to whom section 194(5) applies, the Tribunal must dispense with its consideration of any humanitarian appeal lodged by the person in accordance with section 194(6)(a).
+  (c) if it finds that either or both of the matters under paragraph (b) do apply, determine the matters described in subsection (1)⁠(b) and (c); and
+  (d) if it does not find that either of the matters described in paragraph (b) applies, allow the appeal.
+(3) The Tribunal may dismiss or allow the appeal, but may not refer the claim back to a refugee and protection officer for reconsideration.
+(4) If the Tribunal allows an appeal in relation to a person to whom section 194(5) applies, the Tribunal must dispense with its consideration of any humanitarian appeal lodged by the person in accordance with section 194(6)⁠(a).
 (5) To avoid doubt, nothing in subsection (1) requires the Tribunal to seek any information, evidence, or submissions further to those provided by the appellant.
 
 ### 199 After successful appeal, Minister to decide immigration status of protected person who may have committed certain crimes or been guilty of certain acts
 The Minister must make any decision about a person's immigration status if the Tribunal has determined that—
   (a) the person is a protected person; and
-  (b) there are serious reasons under section 198(1)(c) for considering that the person has committed a crime, or been guilty of any act, described in that paragraph.
+  (b) there are serious reasons under section 198(1)⁠(c) for considering that the person has committed a crime, or been guilty of any act, described in that paragraph.
 
 ### 200 Determination of appeal against refusal or declining of subsequent claim for recognition as refugee or protected person
-(1) Where an appeal is brought under section 195(1)(a), the Tribunal must first consider—
+(1) Where an appeal is brought under section 195(1)⁠(a), the Tribunal must first consider—
   (a) whether there has been a significant change in circumstances material to the appellant’s claim since the previous claim was determined; and
   (b) if so, whether the change in 1 or more of the circumstances was brought about by the appellant—
     (i) acting otherwise than in good faith; and
@@ -2544,31 +2611,30 @@ The Minister must make any decision about a person's immigration status if the T
   (b) does not determine that the change in 1 or more of the circumstances was brought about by the appellant—
     (i) acting otherwise than in good faith; and
     (ii) for a purpose of creating grounds for recognition under any of sections 129 to 131.
-(4) Where an appeal is brought under section 195(1)(b), the Tribunal must first consider whether the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim.
+(4) Where an appeal is brought under section 195(1)⁠(b), the Tribunal must first consider whether the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim.
 (5) If the Tribunal determines that the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim, it must dismiss the appeal.
 (6) If the Tribunal does not determine that the subsequent claim is manifestly unfounded or clearly abusive, or repeats a previous claim, it must consider the claim for recognition in accordance with section 198(1).
 (7) Where an appeal is brought under section 195(2), the Tribunal must determine the matter in accordance with section 198(1), as if the appeal were an appeal to which that section applied.
-(8) If the Tribunal reverses a decision in relation to a person to whom section 195(6) applies, the Tribunal must dispense with its consideration of any humanitarian appeal lodged in accordance with section 195(7)(a) by the person.
+(8) If the Tribunal reverses a decision in relation to a person to whom section 195(6) applies, the Tribunal must dispense with its consideration of any humanitarian appeal lodged in accordance with section 195(7)⁠(a) by the person.
 
 **Appeal on facts against liability for deportation**
 
 ### 201 Persons who may appeal to Tribunal on facts
 (1) The following persons may appeal to the Tribunal on the facts against their liability for deportation:
-  (a) residents whose liability for deportation arises under section 155, 156(1)(b), 158(1)(b), 159, or 160:
-  (b) permanent residents whose liability for deportation arises under section 155, 156(1)(b), 158(1)(b), or 160:
-  (c) persons recognised as refugees or protected persons whose liability for deportation arises under section 162(1), other than persons described in subsection (2)(b).
+  (a) residents whose liability for deportation arises under section 155, 156(1)⁠(b), 158(1)⁠(b), 159, or 160:
+  (b) permanent residents whose liability for deportation arises under section 155, 156(1)⁠(b), 158(1)⁠(b), or 160:
+  (c) persons recognised as refugees or protected persons whose liability for deportation arises under section 162(1), other than persons described in subsection (2)⁠(b).
 (2) The following persons may not appeal to the Tribunal on the facts against their liability for deportation:
-  (a) residents or permanent residents whose liability for deportation arises under section 156(1)(a), 158(1)(a), 158(2), or 161:
+  (a) residents or permanent residents whose liability for deportation arises under section 156(1)⁠(a), 158(1)⁠(a), 158(2), or 161:
   (b) persons whose liability for deportation arises under section 162(1) and who have been convicted of an offence where it is established that the person acquired recognition as a refugee or a protected person by fraud, forgery, false or misleading representation, or concealment of relevant information:
   (c) persons whose liability for deportation arises by way of a deportation order under section 163.
 
 ### 202 Grounds for determining appeal on facts
 The Tribunal must allow an appeal against liability for deportation on the facts where,—
   (a) in the case of an appellant liable for deportation under section 155, the Tribunal is satisfied, on the balance of probabilities, that the resident visa or permanent resident visa was not granted as a result of an administrative error:
-  (b) in the case of an appellant liable for deportation under section 156(1)(b), the Tribunal is satisfied, on the balance of probabilities, that the resident visa or permanent resident visa was not granted to the person in a false identity:
-  (c) in the case of an appellant liable for deportation under section 158(1)(b), the Tribunal is satisfied, on the balance of probabilities, that—
-    (i) the resident visa or permanent resident visa or entry permission concerned was not procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
-    (ii) the resident visa or permanent resident visa had not been granted to the person on the basis of a visa procured through fraud, forgery, false or misleading representation, or concealment of relevant information:
+  (b) in the case of an appellant liable for deportation under section 156(1)⁠(b), the Tribunal is satisfied, on the balance of probabilities, that the resident visa or permanent resident visa was not granted to the person in a false identity:
+  (c) in the case of an appellant liable for deportation under section 158(1)⁠(b)⁠(i), the Tribunal is satisfied, on the balance of probabilities, that none of the information provided in relation to the person's application, or purported application, for a residence class visa or entry permission was fraudulent, forged, false, or misleading, and no relevant information was concealed:
+  (ca) in the case of an appellant liable for deportation under section 158(1)⁠(b)⁠(ii), the Tribunal is satisfied, on the balance of probabilities, that none of the information provided in relation to the person's, or any other person’s, application, or purported application, for a visa on the basis of which the residence class visa was granted was fraudulent, forged, false, or misleading, and no relevant information was concealed:
   (d) in the case of an appellant liable for deportation under section 159, the Tribunal is satisfied, on the balance of probabilities, that—
     (i) the conditions of the resident visa were met; or
     (ii) the resident has not materially breached the conditions of his or her visa:
@@ -2600,7 +2666,7 @@ The Tribunal must allow an appeal against liability for deportation on the facts
 (1) This section applies if—
   (a) a refugee or a protected person is liable for deportation under section 161; and
   (b) a refugee and protection officer has determined that the deportation of the person is not prohibited under section 164; and
-  (c) the person appeals against that determination under section 161(2)(b).
+  (c) the person appeals against that determination under section 161(2)⁠(b).
 (2) The Tribunal must—
   (a) first determine whether the deportation of the person is prohibited under section 164; and
   (b) if it determines that the deportation of the person is not prohibited, then determine any appeal on humanitarian grounds brought by the person.
@@ -2615,8 +2681,10 @@ The Tribunal must allow an appeal against liability for deportation on the facts
   (d) a person liable for deportation under section 162.
 (2) No person may appeal to the Tribunal on humanitarian grounds—
   (a) against any liability for deportation arising from the expiry or cancellation of a limited visa; or
-  (b) if he or she is a person to whom section 210(2) or 216(2) applies; or
-  (c) whose liability for deportation arises by way of a deportation order under section 163.
+  (b) if he or she is a person to whom section 115, 154(5), 210(2), or 216(2) applies; or
+  (c) whose liability for deportation arises by way of a deportation order under section 163; or
+  (d) if he or she holds a limited visa and is liable for deportation under section 155, 156, or 157; or
+  (e) if the person is liable for deportation under section 155 because he or she re-entered New Zealand while subject to a period of prohibition on entry.
 (3) No person may appeal to the Tribunal on humanitarian grounds against his or her liability for deportation if the person has—
   (a) failed to lodge a humanitarian appeal at the same time as lodging an appeal in relation to a claim or a subsequent claim, where he or she is required to do so under this Act; or
   (b) had a humanitarian appeal heard by the Tribunal in relation to a claim or a subsequent claim.
@@ -2649,7 +2717,7 @@ If the Tribunal decides that an appeal against liability for deportation should 
 (1) Without limiting section 209, if the Tribunal decides that an appeal against liability for deportation should be allowed in the case of a person who is unlawfully in New Zealand or is the holder of a temporary entry class visa, the Tribunal may order an immigration officer to grant the successful appellant—
   (a) a resident visa subject to such conditions (if any) as the Tribunal determines; or
   (b) a temporary visa for a period not exceeding 12 months subject to such conditions (if any) as the Tribunal determines.
-(2) If a temporary visa is granted following an order made under subsection (1)(b), no further appeal against liability for deportation may be brought by the holder upon the expiry of the visa or upon the holder earlier becoming liable for deportation.
+(2) If a temporary visa is granted following an order made under subsection (1)⁠(b), no further appeal against liability for deportation may be brought by the holder upon the expiry of the visa or upon the holder earlier becoming liable for deportation.
 (3) The Tribunal may order the imposition of any condition on the grant of a resident visa that it thinks fit, having regard to the reasons why the appellant was able to demonstrate exceptional circumstances of a humanitarian nature or why it was not contrary to the public interest to allow the appellant to remain in New Zealand, whether or not the condition is of a kind authorised by residence instructions.
 (4) To avoid doubt, the Tribunal may order an immigration officer to grant a visa, and the officer must grant the visa, even though the person would normally be prohibited from being granted a visa under section 15 or 16.
 (5) If the Tribunal orders the imposition of any condition on a visa,—
@@ -2683,7 +2751,7 @@ If the Tribunal decides that an appeal against liability for deportation should 
   (a) subsection (2), (3), or (4) applies, as the case may be; and
   (b) the person may not apply for a visa of a different class or type; and
   (c) the processing of any application made by the person for a visa of a different class or type must be suspended; and
-  (d) subject to sections 9 and 10 of the Citizenship Act 1977 and section 7(1)(b)(i) of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that the person hold a residence class visa.
+  (d) subject to sections 9 and 10 of the Citizenship Act 1977 and section 7(1)⁠(b)⁠(i) of the Citizenship (Western Samoa) Act 1982, the person may not be granted citizenship on the basis of meeting a requirement (or requirements) for the grant of New Zealand citizenship that the person hold a residence class visa.
 (2) If the person is in custody under this Act, an immigration officer must immediately notify, in writing, the manager or other person in charge of the prison or other premises in which the person is detained that the person's liability for deportation is suspended, and the person must be immediately released.
 (3) If the person is subject to residence or reporting requirements under section 315, an immigration officer must immediately notify, in writing, the person and the person's guarantor (if applicable) that the person's liability for deportation is suspended, and the person ceases to be subject to those requirements.
 (4) If the person has been released on conditions under section 320, an immigration officer must immediately notify, in writing, the person that his or her liability for deportation is suspended, and the person ceases to be subject to those conditions.
@@ -2705,7 +2773,7 @@ If the Tribunal decides that an appeal against liability for deportation should 
 (1) On declining an appeal against liability for deportation, if the Tribunal considers it necessary to enable the appellant to remain in New Zealand for the purposes of getting his or her affairs in order, it may order—
   (a) that the deportation of the appellant be delayed for a period not exceeding 12 months, commencing on the date of the Tribunal's decision; or
   (b) that a temporary entry class visa, valid for a period not exceeding 12 months, commencing on the date of the Tribunal's decision, be granted to the appellant.
-(2) If the Tribunal orders the grant of a visa under subsection (1)(b), no further appeal against liability for deportation may be brought by the holder upon the expiry of the visa or upon the holder earlier becoming liable for deportation.
+(2) If the Tribunal orders the grant of a visa under subsection (1)⁠(b), no further appeal against liability for deportation may be brought by the holder upon the expiry of the visa or upon the holder earlier becoming liable for deportation.
 
 **Immigration and Protection Tribunal**
 
@@ -2765,7 +2833,7 @@ If the Tribunal decides that an appeal against liability for deportation should 
   (a) the members who are to hear and determine the case (being not more than 3 members); and
   (b) the member who is to be the presiding member for the purposes of the hearing and determination.
 (3) Where a case before the Tribunal relates to a refugee or a claimant for refugee status,—
-  (a) the ex officio member referred to in section 219(1)(c) may hear and be involved in the determination of the case; but
+  (a) the ex officio member referred to in section 219(1)⁠(c) may hear and be involved in the determination of the case; but
   (b) this is in addition to the other member or members of the Tribunal required under subsection (1) or (2).
 
 ### 222 Procedure for determining appeals and matters generally
@@ -2795,17 +2863,20 @@ If the Tribunal decides that an appeal against liability for deportation should 
 ### 224 Tribunal may dismiss frivolous or vexatious appeal
 The Tribunal may at any time dismiss an appeal that it is satisfied is frivolous or vexatious.
 
+### 224A Annual report on performance of Tribunal's functions
+(1) The chair of the Tribunal must, in each year, provide a report to the Minister of Justice, the Minister of Immigration, and the Minister for Courts on the performance of the Tribunal's functions under this Act in respect of the financial year ending in that year.
+(2) The report must include details of both the number of determinations and the nature of the determinations made by the Tribunal in the period to which the report relates.
+(3) The Minister of Justice must present a copy of the report to the House of Representatives as soon as practicable after it is provided to that Minister.
+
 **Procedure for appeals and matters**
 
 ### 225 How appeal or matter lodged
 (1) An appeal or matter must be lodged in the prescribed manner and be accompanied by the prescribed fee (if any).
 (2) The appellant or affected person must—
-  (a) provide the Tribunal with—
-    (i) a current address in New Zealand to which communications relating to the appeal or matter may be sent or, in the case of an appeal under section 187 by a person who is outside New Zealand, an address to which communications relating to the appeal may be sent; and
-    (ii) if applicable, the appellant's or the affected person's current residential address in New Zealand (if any); and
-  (b) notify the Tribunal in a timely manner of a change in any of those addresses.
-(3) An applicant must also provide to the Tribunal a current address in New Zealand to which communications relating to the matter may be sent.
-(4) The Tribunal may rely on the latest address provided for the purpose of communications relating to an appeal or matter.
+  (a) provide the Tribunal with a contact address and an address for service; and
+  (b) notify the Tribunal in a timely manner of a change in either of those addresses.
+(3)
+(4)
 
 ### 226 Proceedings on appeal or matter
 (1) It is the responsibility of an appellant or affected person to establish his or her case or claim, and the appellant or affected person must ensure that all information, evidence, and submissions that he or she wishes to have considered in support of the appeal or matter are provided to the Tribunal before it makes its decision on the appeal or matter.
@@ -2843,7 +2914,7 @@ The Minister, the chief executive, or a refugee and protection officer, as the c
   (a) by the Tribunal in any previous appeal or matter determined by the Tribunal that involved the appellant or affected person; or
   (b) by any appeals body in any previous appeal or matter determined by the appeals body that involved the appellant or affected person.
 (2) A person may not challenge any finding of credibility or fact that may be relied on by the Tribunal under subsection (1).
-(3) For the purposes of subsection (1)(b), matter includes an application by a refugee status officer under section 129L(1)(f) of the former Act.
+(3) For the purposes of subsection (1)⁠(b), matter includes an application by a refugee status officer under section 129L(1)⁠(f) of the former Act.
 
 ### 232 Tribunal may require provision of biometric information
 For the purposes of assisting the Tribunal to determine an appeal or matter, the Tribunal may require the appellant or affected person to allow biometric information to be collected from him or her.
@@ -2886,7 +2957,7 @@ Schedule 2 applies in relation to the proceedings of the Tribunal.
 (2) Subsection (1) does not apply if—
   (a) the person's liability for deportation has been suspended under section 172(2); and
   (b) the person leaves New Zealand during the suspension period.
-(3) In determining whether a person has left New Zealand, the Tribunal may rely on a certificate made under section 366(2)(17).
+(3) In determining whether a person has left New Zealand, the Tribunal may rely on a certificate made under section 366(2)⁠(17).
 
 **Special procedure where classified information involved**
 
@@ -2894,13 +2965,13 @@ Schedule 2 applies in relation to the proceedings of the Tribunal.
 (1) If proceedings before the Tribunal involve classified information, the Tribunal must consist of—
   (a) the chair of the Tribunal; or
   (b) the chair of the Tribunal and 1 or 2 other members.
-(2) If subsection (1)(b) applies, each member must be—
+(2) If subsection (1)⁠(b) applies, each member must be—
   (a) a member of the Tribunal who is a District Court Judge; or
   (b) a nominated District Court Judge.
 (3) In this section, nominated District Court Judge means—
   (a) the Chief District Court Judge; or
   (b) a District Court Judge (other than the chair of the Tribunal) nominated by the Chief District Court Judge to be seconded to the Tribunal to exercise its jurisdiction in relation to proceedings involving classified information.
-(4) For the purposes of subsection (2)(b), the Chief District Court Judge may nominate a maximum of 2 District Court Judges (other than himself or herself) at any one time.
+(4) For the purposes of subsection (2)⁠(b), the Chief District Court Judge may nominate a maximum of 2 District Court Judges (other than himself or herself) at any one time.
 
 ### 241 Presentation of classified information to Tribunal
 (1) The Tribunal must be given access to classified information that—
@@ -2959,7 +3030,8 @@ In any oral hearing for proceedings involving classified information, the Tribun
 
 ### 245 Appeal to High Court on point of law by leave
 (1) Where any party to an appeal to, or matter before, the Tribunal (being either the person who appealed or applied to the Tribunal, an affected person, or the Minister, chief executive, or other person) is dissatisfied with any determination of the Tribunal in the proceedings as being erroneous in point of law, that party may, with the leave of the High Court (or, if the High Court refuses leave, with the leave of the Court of Appeal), appeal to the High Court on that question of law.
-(2) Every appeal under this section must be brought—
+(1A) A decision by the Court of Appeal to refuse leave to appeal to the High Court is final.
+(2) An application to the High Court under this section for leave to appeal must be made—
   (a) not later than 28 days after the date on which the decision of the Tribunal to which the appeal relates was notified to the party appealing; or
   (b) within such further time as the High Court may allow on application made before the expiry of that 28-day period.
 (3) In determining whether to grant leave to appeal under this section, the court to which the application for leave is made must have regard to whether the question of law involved in the appeal is one that by reason of its general or public importance or for any other reason ought to be submitted to the High Court for its decision.
@@ -2976,24 +3048,43 @@ In any oral hearing for proceedings involving classified information, the Tribun
 (4) Every appeal under this section must be dealt with in accordance with the rules of the court, with any modifications necessary to reflect the provisions of this Act, including any ancillary general practices and procedures developed under section 260.
 
 ### 247 Special provisions relating to judicial review
-(1) Any review proceedings in respect of a statutory power of decision arising out of or under this Act must be commenced not later than 28 days after the date on which the person concerned is notified of the decision, unless the High Court decides that, by reason of special circumstances, further time should be allowed.
-(2) Where a person intends to both appeal against a decision of the Tribunal under this Act and bring review proceedings in respect of that same decision,—
-  (a) the person must lodge both the application for appeal and the application for judicial review together; and
-  (b) the High Court must endeavour to hear both matters together, unless it considers it impracticable in the particular circumstances of the case to do so.
+(1) Any review proceedings in respect of a statutory power of decision arising out of or under this Act must be commenced not later than 28 days after the date on which the person concerned is notified of the decision, unless—
+  (a) the High Court decides that, by reason of special circumstances, further time should be allowed; or
+  (b) leave is required, under section 249(3), before proceedings may be commenced (in which case section 249(4) applies).
+(2)
 (3) In this section, statutory power of decision has the same meaning as in section 3 of the Judicature Amendment Act 1972.
 (4) Nothing in this section limits the time for bringing review proceedings challenging the vires of any regulations made under this Act.
 
 ### 248 Minister, chief executive, or refugee and protection officer may be respondent in review proceedings relating to Tribunal decision
 The Minister, the chief executive, or a refugee and protection officer, as the case may be, may be a respondent in any review proceedings relating to a decision of the Tribunal.
 
-### 249 Restriction on review
+### 249 Restriction on judicial review of matters within Tribunal’s jurisdiction
 (1) No review proceedings may be brought in any court in respect of a decision where the decision (or the effect of the decision) may be subject to an appeal to the Tribunal under this Act unless an appeal is made and the Tribunal issues final determinations on all aspects of the appeal.
-(1A) No review proceedings may be brought in any court in respect of any matter before the Tribunal unless the Tribunal has issued final determinations in respect of the matter.
-(1B) Review proceedings may then only be brought in respect of a decision or matter described in subsection (1) or (1A) if the High Court has granted leave to bring the proceedings or, if the High Court has refused to do so, the Court of Appeal has granted leave.
-(1C) In determining whether to grant leave for the purposes of this section, the court to which the application for leave is made must have regard to—
+(2) No review proceedings may be brought in any court in respect of any matter before the Tribunal unless the Tribunal has issued final determinations in respect of the matter.
+(3) Review proceedings may then only be brought in respect of a decision or matter described in subsection (1) or (2) if the High Court has granted leave to bring the proceedings or, if the High Court has refused to do so, the Court of Appeal has granted leave.
+(4) An application to the High Court for leave to bring review proceedings must be made—
+  (a) not later than 28 days after the date on which the Tribunal’s determination in respect of the decision or matter to which the review proceedings relate is notified to the person bringing the proceedings; or
+  (b) within such further time as the High Court may allow on application made before the expiry of that 28-day period.
+(5) A decision by the Court of Appeal to refuse leave to bring review proceedings in the High Court is final.
+(6) In determining whether to grant leave for the purposes of this section, the court to which the application for leave is made must have regard to—
   (a) whether review proceedings would involve issues that could not be adequately dealt with in an appeal against the final determination of the Tribunal; and
   (b) if paragraph (a) applies, whether those issues are, by reason of their general or public importance or for any other reason, issues that ought to be submitted to the High Court for review.
-(2) Nothing in this section limits any other provision of this Act that affects or restricts the ability to bring review proceedings.
+(7) A court that grants leave under subsection (3) to bring review proceedings must state the issue or issues to be determined in the proceedings.
+(8) Nothing in this section limits any other provision of this Act that affects or restricts the ability to bring review proceedings.
+
+### 249A Applications for appeal and judicial review of Tribunal decision to be lodged together
+(1) This section applies if a person intends to both appeal against a determination of the Tribunal under this Act and bring review proceedings in respect of that same decision.
+(2) The person must—
+  (a) lodge the application for leave to appeal and the application for leave to bring review proceedings together; and
+  (b) if both applications for leave are granted, lodge the application for appeal and the application for judicial review together.
+(3) The High Court must, unless it considers it impracticable in the particular circumstances of the case to do so,—
+  (a) endeavour to determine both applications for leave together; and
+  (b) if both applications for leave are granted, endeavour to hear the appeal and the review proceedings together.
+
+### 249B Appeal to Court of Appeal against judicial review of matters within Tribunal’s jurisdiction
+(1) This section applies in respect of judicial review proceedings for which leave was granted under section 249(3).
+(2) Any party to the proceedings who is dissatisfied with any determination of the High Court in the proceedings may, with the leave of the High Court (or, if the High Court refuses leave, with the leave of the Court of Appeal), appeal to the Court of Appeal. Section 66 of the Judicature Act 1908 applies to any such appeal.
+(3) In determining whether to grant leave to appeal under this section, the court to which the application for leave is made must have regard to whether the issue involved in the appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for its decision.
 
 ### 250 Certain appeals and review proceedings to be treated as priority fixture
 All courts must hear and determine any appeal or review proceedings relating to the following persons as if the appeal or review had been granted a priority fixture:
@@ -3010,7 +3101,7 @@ The Judicature Act 1908 and the Supreme Court Act 2003 are subject to sections 2
 (2) In this section and section 253, nominated Judge means—
   (a) the Chief High Court Judge:
   (b) a High Court Judge nominated by the Chief High Court Judge to hear and determine proceedings involving classified information.
-(3) For the purposes of subsection (2)(b), the Chief High Court Judge may nominate a maximum of 2 High Court Judges (other than himself or herself) at any one time.
+(3) For the purposes of subsection (2)⁠(b), the Chief High Court Judge may nominate a maximum of 2 High Court Judges (other than himself or herself) at any one time.
 
 ### 253 Appeal to High Court or review proceedings involving classified information
 (1) This section applies where an appeal or review proceedings in the High Court involve classified information.
@@ -3258,10 +3349,10 @@ In sections 274, 276, 277, and 278, any reference to information or a document, 
 (1) An immigration officer may prepare a certificate in the prescribed form if the officer has good cause to suspect that—
   (a) a particular person may be, or may become as a result of investigations, liable for deportation; or
   (b) particular premises are being occupied or have been occupied (whether for residential purposes or otherwise) by a person who may be, or may become as a result of investigations, liable for deportation.
-(2) A certificate prepared under subsection (1)(a) may, where the officer believes that the person concerned may be using 1 or more aliases, include any such alias.
+(2) A certificate prepared under subsection (1)⁠(a) may, where the officer believes that the person concerned may be using 1 or more aliases, include any such alias.
 (3) On being provided with a certificate prepared under subsection (1), any person referred to in section 275, or any officer or employee of any department, agency, or body referred to in that section, must produce for inspection by the officer and provide a copy of, or allow the officer to copy, any record or other information held by and reasonably available to that person, department, agency, or other body that may help to establish,—
-  (a) in the case of a certificate prepared under subsection (1)(a), the present whereabouts of the person named in the certificate or that person’s whereabouts at any time in the past; or
-  (b) in the case of a certificate prepared under subsection (1)(b), the name of the present occupier or any of the present occupiers of the premises or the name of the occupier or any of the occupiers of the premises at any time in the past.
+  (a) in the case of a certificate prepared under subsection (1)⁠(a), the present whereabouts of the person named in the certificate or that person’s whereabouts at any time in the past; or
+  (b) in the case of a certificate prepared under subsection (1)⁠(b), the name of the present occupier or any of the present occupiers of the premises or the name of the occupier or any of the occupiers of the premises at any time in the past.
 (4) Subsection (3) applies despite any enactment or rule of law to the contrary, and no person who provides a record or information in compliance with that subsection is liable in any civil or criminal proceedings in respect of that action.
 
 ### 275 Persons required to provide access to address information
@@ -3302,10 +3393,11 @@ The persons and bodies who may be required by certificate under section 274 to p
 ### 277 Powers of entry and inspection relating to records of employers
 (1) An immigration officer may exercise the powers in subsection (3) in the circumstances described in subsection (2) for the following purposes:
   (a) determining whether a person is complying with work-related conditions of his or her visa:
-  (b) determining whether an employer is complying with the employer's obligations under this Act:
-  (c) locating a person who is liable for deportation.
+  (b) determining whether an employer is complying with the employer's obligations (which, to avoid doubt, includes the obligation not to commit an offence) under this Act:
+  (c) locating a person who is liable for deportation:
+  (d) determining whether a person who is working for an employer in New Zealand is entitled to work in New Zealand.
 (2) An immigration officer may exercise the powers in subsection (3) where the officer believes on reasonable grounds that—
-  (a) there is kept on any business premises—
+  (a) there is kept on any premises—
     (i) any wages and time record kept by an employer in accordance with the provisions of any Act; or
     (ii) any other document relating to the remuneration or employment conditions of an employee; and
   (b) there may be information in that record or other document relating to a person who is—
@@ -3313,10 +3405,11 @@ The persons and bodies who may be required by certificate under section 274 to p
     (ii) otherwise not complying with obligations under this Act (including obligations as an employer); or
     (iii) liable for deportation.
 (3) An immigration officer may—
-  (a) enter any part of the employer’s premises in which the officer reasonably believes a wages and time record, or any other document referred to in subsection (2)(a)(ii), is kept; and
+  (a) enter any part of the employer’s premises in which the officer reasonably believes a wages and time record, or any other document referred to in subsection (2)⁠(a)⁠(ii), is kept; and
   (b) require the employer or the person appearing to have the record or document under that person's control to produce that record or document for inspection; and
   (c) copy or require a person to provide a copy of any part of any record or document that is required to be produced to the officer.
 (4) An immigration officer may exercise the powers in subsection (3) at any reasonable time during which work is being carried out on the premises or the premises are open for business, whether by day or by night, without a warrant or any other authority than this section.
+(5) In this section, premises includes a dwellinghouse.
 
 ### 278 Powers of entry and inspection relating to records of education providers
 (1) An immigration officer may exercise the powers in subsection (4) in the circumstances described in subsection (2) for the following purposes:
@@ -3350,27 +3443,53 @@ The persons and bodies who may be required by certificate under section 274 to p
   (a) inform the person that he or she suspects that the person has committed an offence against this Act; and
   (b) warn the person that if the person fails without reasonable excuse to comply with his or her request, the person may be charged with an offence against section 344(b).
 
+### 279A Treatment of identity documents and other things
+(1) In this section and sections 280 to 281B, identity document, in relation to a person, means all or any of the following:
+  (a) documentary or other evidence of the person’s identity:
+  (b) any passport or certificate of identity relating or purporting to relate to the person, whether or not it also relates to any other person:
+  (c) any passport or certificate of identity relating to a dependent child of the person (but only in circumstances where there is good cause to suspect that the child is liable for deportation or turnaround).
+(2) Any identity documents or things surrendered or obtained under sections 280 to 281B may be used by the Crown toward effecting the person's deportation or departure from New Zealand.
+(3) To the extent that any identity documents or things surrendered or obtained under sections 280 to 281B are not used or required for the person's deportation or departure from New Zealand, they must be returned to the person—
+  (a) on the person's departure from New Zealand or on the person being granted a visa and entry permission; or
+  (b) when the person's liability for deportation is cancelled or suspended, or ceases for any reason.
+
 ### 280 Power of immigration officer to request information and documents where liability for deportation or turnaround suspected
 (1) If an immigration officer has good cause to suspect that a person is liable for deportation or turnaround, the officer may, for the purpose of establishing whether that is the case, request the person to do 1 or more of the following things:
   (a) supply the person's full name (or names, if the person is known by more than 1 name), date of birth, country of birth, nationality, and residential address:
-  (b) produce for inspection documentary or other evidence of the person’s identity:
-  (c) produce any passport or certificate of identity relating or purporting to relate to the person, whether or not it also relates to any other person:
-  (d) produce any passport or certificate of identity relating to any dependent child of the person who the immigration officer also has good cause to suspect is liable for deportation or turnaround:
-  (e) surrender any of the documents or other things produced under paragraph (b), (c), or (d):
-  (f) if the person does not currently have in his or her possession any of the documents or other things referred to in paragraph (b), (c), or (d), give the officer details of where they can be found and who is holding them.
+  (b) produce any identity documents for inspection:
+  (c) surrender any identity document produced under paragraph (b):
+  (d) if the person does not currently have in his or her possession an identity document requested by the officer, give details to the officer of where it can be found or who is holding it.
 (2) Before acting under subsection (1), the immigration officer must—
   (a) inform the person that he or she suspects that the person is liable for deportation or turnaround; and
   (b) warn the person that if the person fails without reasonable excuse to comply with his or her request, the person is liable to arrest and detention under this Act.
 
-### 281 Powers on deportation or turnaround
-(1) Where a person is liable for deportation or turnaround,—
-  (a) in addition to the powers referred to in section 280, an immigration officer may—
-    (i) require the person to give to the officer written authority to obtain from any other person documents or other things of a kind referred to in section 280(1)(b), (c), or (d) held by or on behalf of the person; and
-    (ii) require the person to produce and surrender any travel tickets or cash or security in lieu of travel tickets, held by or on behalf of the person; and
-  (b) any documents or other things surrendered or obtained may be used by the Crown towards effecting the person’s deportation or departure from New Zealand.
-(2) To the extent that any documents or things surrendered or obtained under subsection (1) or section 280(1) are not used or required for the person’s deportation or departure, they must be returned to the person—
-  (a) on the person’s departure from New Zealand or on the person being granted a visa and entry permission; or
-  (b) when the person’s liability for deportation is cancelled or suspended, or ceases for any reason.
+### 281 Power to require information from person liable for deportation or turnaround
+Where a person is liable for deportation or turnaround, an immigration officer may require the person to—
+  (a) do any of the things in section 280(1); and
+  (b) produce and surrender any travel tickets, or cash or security in lieu of travel tickets, held by the person.
+
+### 281A Obligation of third parties to surrender identity documents
+(1) A person (person A) must surrender an identity document relating to another person (person B) to an immigration officer if—
+  (a) person B—
+    (i) has failed to produce or surrender the identity document when required to do so under section 280 or 281; or
+    (ii) has told an immigration officer where the identity document may be found or who is holding it; and
+  (b) the immigration officer has good cause to suspect that person A is in possession of the identity document; and
+  (c) the immigration officer gives person A a certificate in the prescribed form that requires person A to surrender the identity document.
+(2) No action lies against person A in any court if, pursuant to a requirement or purported requirement under this section by an immigration officer, person A surrenders an identity document relating to person B to the immigration officer.
+
+### 281B Power of entry and search for identity documents
+(1) An authorised immigration officer may, in order to facilitate the deportation or turnaround of a person, exercise the powers in subsection (2) if—
+  (a) the person is liable for deportation or turnaround; and
+  (b) the person has refused a requirement under section 281 to produce or surrender an identity document required under that section; and
+  (c) the immigration officer has reasonable grounds to believe that the identity document is at the place to be entered and searched; and
+  (d) the place proposed to be entered and searched is—
+    (i) the place (which may include a vehicle) where the person is currently located; or
+    (ii) the person's abode; or
+    (iii) any premises or vehicle owned by, or under the control of, the person.
+(2) An immigration officer may at any reasonable time, without a warrant or any other authority than this section, do either or both of the following:
+  (a) enter and search a place referred to in subsection (1)⁠(d):
+  (b) seize any identity document that a person has been required to produce or surrender and that is found at the place.
+(3) However, an immigration officer must not exercise any power under this section until on or after the date on which section 285A (as inserted by the Immigration Amendment Act 2015) comes into force.
 
 **Powers at border**
 
@@ -3409,9 +3528,9 @@ An immigration officer may, at any time of day or night, without a warrant or an
 (1) An immigration officer may exercise the powers in subsection (2) for the purpose of—
   (a) detecting an offence against this Act; or
   (b) apprehending a person who is liable for deportation or turnaround.
-(2) An immigration officer may at any time for a purpose described in subsection (1), without a warrant or any other authority than this section, and by force if necessary, enter and search any border place where the officer has good cause to believe that—
-  (a) an offence against this Act is likely to be, or is being, committed; or
-  (b) a person to whom subsection (1)(b) applies is in the place.
+(2) An immigration officer may at any time for a purpose described in subsection (1), without a warrant or any other authority than this section, and by force if necessary, enter and search any border place where the officer—
+  (a) has good cause to suspect that an offence against this Act is likely to be, or is being, committed; or
+  (b) believes on reasonable grounds that a person to whom subsection (1)⁠(b) applies is in the place.
 (3) In subsection (2), border place means—
   (a) any part of the foreshore:
   (b) the shores or banks of a port, bay, harbour, lake, river, or other waters:
@@ -3421,49 +3540,66 @@ An immigration officer may, at any time of day or night, without a warrant or an
 **Powers relating to deportation and turnaround**
 
 ### 286 Powers of entry and search relating to deportation
-For the purpose of serving any deportation liability notice or executing a deportation order, an immigration officer may, without further authority than this section, and by force if necessary,—
+For the purpose of serving any deportation liability notice, deportation order, or removal order, or executing a deportation order or removal order, an immigration officer may, without further authority than this section, and by force if necessary,—
   (a) enter and search at any reasonable time by day or night any building or premises in which the officer believes on reasonable grounds that the person named in the notice or order is present; and
-  (b) serve the notice or execute the deportation order.
+  (b) serve the notice or order, or execute the deportation order or removal order.
 
-### 287 Special powers pending deportation or turnaround
-Where any person is liable for deportation or turnaround, an immigration officer has such of the following powers as are necessary to meet the entry or transit requirements of any country to which or through which the person is to travel:
-  (a) the power to photograph and measure the person:
-  (b) the power to take the person’s fingerprints, palm-prints, or footprints, or a scan of the person's irises.
+### 287 Special biometric information
+For the purposes of sections 288 to 290A, special biometric information means, in relation to any person, any of the following that are or may be required in order to meet the entry or transit requirements of any country to which or through which the person is to travel:
+  (a) the person's palm-prints:
+  (b) the person's footprints:
+  (c) measurements of the whole person:
+  (d) photographs of the whole person.
 
-### 288 Immigration officer may require biometric information to determine compliance with Act
-(1) Subsection (2) applies where an immigration officer has good cause to suspect that a person—
-  (a) is liable for deportation or turnaround; or
-  (b) is not complying with, or is materially breaching, the conditions of the person’s visa; or
-  (c) is undertaking work or a course of study where the person is not entitled to undertake that work or study under this Act; or
-  (d) has obtained a visa under a fraudulent identity.
-(2) In order to determine whether any of the matters in subsection (1) apply to the person, an immigration officer may require the person to allow biometric information to be collected from him or her.
+### 288 Requirement to allow collection of biometric information and special biometric information
+(1) If a person is liable for deportation or turnaround, an immigration officer may require the person to allow biometric information, special biometric information, or both to be collected from him or her.
+(2) An immigration officer may require a person to allow biometric information to be collected from him or her if the immigration officer has good cause to suspect any of the following matters, and the immigration officer requires the biometric information in order to determine any of those matters:
+  (a) that the person is liable for deportation or turnaround:
+  (b) that the person is not complying with, or is materially breaching, the conditions of the person's visa:
+  (c) that the person is undertaking work or a course of study but is not entitled to undertake that work or study under this Act:
+  (d) that the person has obtained a visa under a fraudulent identity.
+(3) Any biometric information or special biometric information obtained from a person under subsection (1), or under a compulsion order made under section 290 on an application under section 289(1) after this subsection comes into force, must be destroyed if the person's liability for deportation is cancelled or suspended, or if the person is granted a visa and entry permission.
 
 ### 289 Application for order authorising collection of biometric information
-(1) An application may be made in accordance with this section to a District Court Judge for a compulsion order in any case where—
-  (a) there is good cause to suspect that a person—
-    (i) is liable for deportation or turnaround; or
-    (ii) is not complying with, or is materially breaching, the conditions of the person’s visa; or
-    (iii) is undertaking work or a course of study where the person is not entitled to undertake that work or study under this Act; or
-    (iv) has obtained a visa under a fraudulent identity; and
-  (b) the person has refused to allow biometric information to be collected from him or her in response to a requirement to do so by an immigration officer under section 288(2).
-(2) Every application under subsection (1) must be made by an immigration officer, in writing and on oath, and must set out the following particulars:
-  (a) the facts relied on to show that there is good cause to suspect that any matter in subsection (1)(a) applies to the respondent:
-  (b) the reasons why it is considered necessary to obtain a compulsion order in relation to the respondent, including the facts relied on to show that there are reasonable grounds to believe that biometric information collected from the respondent would tend to confirm or disprove that any matter in subsection (1)(a) applies to the person.
-(3) Where an application is made under this section,—
-  (a) the immigration officer must serve notice of the application on the respondent; and
-  (b) both the immigration officer and the respondent may appear and may adduce evidence at the hearing of the application.
-(4) In considering an application made under this section, the Judge may take into account any oral or documentary material that the Judge considers relevant, whether or not it would be admissible in a court of law.
+(1) An immigration officer may apply, in writing and on oath, to a District Court Judge for a compulsion order in any case where a person has refused to allow biometric information, special biometric information, or both to be collected from him or her in response to a requirement by an immigration officer under section 288(1), in which case the application must set out the following:
+  (a) the facts relied on to show that the person is liable for deportation or turnaround; and
+  (b) evidence that the person has refused to allow biometric information or special biometric information to be collected from him or her in accordance with a requirement under section 288(1); and
+  (c) if special biometric information was required, the facts relied on for believing that any of the things referred to in section 287 are necessary in order to meet the entry or transit requirements of any country to which or through which the person is to travel.
+(2) An immigration officer may apply, in writing and on oath, to a District Court Judge for a compulsion order in any case where a person has refused to allow biometric information to be collected from him or her in response to a requirement by an immigration officer under section 288(2), in which case the application must set out the following:
+  (a) the facts relied on to show that there is good cause to suspect that any matter in section 288(2) applies to the person; and
+  (b) evidence that the person has refused to allow biometric information to be collected from him or her in accordance with a requirement under section 288(2); and
+  (c) the reasons why it is considered necessary to obtain a compulsion order in relation to the person, including the facts relied on to show that there are reasonable grounds to believe that biometric information collected from the person would tend to confirm whether or not any matter in section 288(2) applies to him or her.
+(3) For the purposes of subsection (1)⁠(a), it is sufficient if (but not essential that) an immigration officer includes a copy of a deportation liability notice or deportation order with the application.
+(4) If an application is made under this section,—
+  (a) an immigration officer must serve a copy of the application on the respondent; and
+  (b) both the immigration officer and the respondent may appear and may offer evidence at the hearing of the application.
+(5) In considering an application made under this section, the Judge may take into account any oral or documentary material that the Judge considers relevant, whether or not it would be otherwise admissible in a court of law.
 
-### 290 Judge may authorise biometric information to be collected
-(1) On the hearing of an application for a compulsion order, a District Court Judge may make a compulsion order requiring the respondent to allow specified biometric information to be collected from him or her, if the Judge is satisfied that—
-  (a) there is good cause to suspect that any matter in section 289(1)(a) applies to the respondent; and
-  (b) there are reasonable grounds to believe that biometric information collected from the respondent would tend to confirm or disprove that any matter in section 289(1)(a) applies to the person; and
-  (c) the person has refused to allow biometric information to be collected from him or her in response to a requirement to do so by an immigration officer under section 288(2); and
-  (d) in all the circumstances, it is reasonable to make the order.
+### 290 Judge may authorise biometric information and special biometric information to be collected
+(1) On the hearing of an application for a compulsion order, a District Court Judge may make a compulsion order requiring the respondent to allow specified biometric information, special biometric information, or both to be collected from him or her if the Judge is satisfied that,—
+  (a) in the case of an application relating to a refusal of a requirement under section 288(1),—
+    (i) the respondent is liable for deportation or turnaround; and
+    (ii) the respondent has refused to allow the biometric information, special biometric information, or both to be collected from him or her following a requirement under section 288(1); and
+    (iii) if special biometric information was required, there are reasonable grounds to believe that any of the things referred to in section 287 are necessary in order to meet the entry or transit requirements of any country to which or through which the respondent is to travel; and
+    (iv) in all the circumstances, it is reasonable to make the order:
+  (b) in the case of an application relating to a refusal of a requirement under section 288(2),—
+    (i) there is good cause to suspect that any matter in section 288(2) applies to the respondent; and
+    (ii) there are reasonable grounds to believe that biometric information collected from the respondent would tend to confirm or disprove that any matter in section 288(2) applies to the respondent; and
+    (iii) the respondent has refused to allow biometric information to be collected from him or her following a requirement under section 288(2); and
+    (iv) in all the circumstances, it is reasonable to make the order.
 (2) In considering whether to make a compulsion order, the Judge must have regard to any matter the Judge considers relevant, including—
-  (a) any reasons given by the respondent for opposing the making of the order sought; and
-  (b) any evidence regarding the importance, to the investigation of the relevant matter, of obtaining biometric information from the respondent.
-(3) A person served with a compulsion order must allow the biometric information specified in the order to be collected from him or her.
+  (a) any reasons given by the respondent for opposing the making of the order; and
+  (b) in relation to an application under section 289(1), where special biometric information is sought, any evidence regarding the necessity of obtaining from the respondent any of the things referred to in section 287 that are required in order to meet the entry or transit requirements of any country to which or through which the person is to travel; and
+  (c) in relation to an application under section 289(2), any evidence regarding the importance, to the investigation of the relevant matter, of obtaining biometric information from the respondent.
+(3) A person served with a compulsion order must allow the biometric information or special biometric information specified in the order to be collected from him or her.
+
+### 290A Obtaining biometric information by compulsion
+(1) If, after a compulsion order is served on a person, the person refuses to allow the biometric information or special biometric information specified in the order (the required biometric information) to be collected from him or her, a constable may—
+  (a) arrest the person; and
+  (b) remove the person to, and detain him or her in, a suitable place where the required biometric information can be collected; and
+  (c) collect, as soon as practicable, the required biometric information from the person, by force if necessary.
+(2) If force is used under subsection (1)⁠(c), it must be reasonable and no more than is necessary to collect the required biometric information from the person.
+(3) The person must be released from detention as soon as the required biometric information has been collected, unless the person's continued detention is authorised under any other provision of this or any other Act.
 
 ### 291 Further applications for compulsion order
 (1) The fact that a compulsion order has previously been sought or made in respect of a matter, whether or not the previous application or order related to the same person, does not prohibit—
@@ -3477,10 +3613,19 @@ Where any person is liable for deportation or turnaround, an immigration officer
 For the purpose of performing his or her functions under this Part, an immigration officer may be accompanied, if he or she thinks fit, by any other employee of the Department or by a customs officer.
 
 ### 293 Police to have powers of immigration officers
-For the purposes of this Act, a constable has all the powers of an immigration officer under sections 276 to 292.
+For the purposes of this Act, a constable has all the powers of an immigration officer under sections 276 to 292 and 293A.
 
-### 293A Immigration officer may apply for search warrant
-An immigration officer may, in carrying out the immigration officer’s functions under this Act, apply for a search warrant under section 198 of the Summary Proceedings Act 1957.
+### 293A Warrant to enter and search
+(1) An immigration officer may apply for a search warrant to search any place or thing.
+(2) The application must be made, in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of section 3(1) of that Act).
+(3) An issuing officer may issue a search warrant to an immigration officer if the issuing officer is satisfied that there are reasonable grounds—
+  (a) to suspect that any relevant offence specified in the application has been committed, is being committed, or will be committed; and
+  (b) to believe that the search will find evidential material in respect of the offence in or on the place or thing specified in the application.
+(4) In this section, relevant offence means an offence against—
+  (a) this Act or any regulations made under it; or
+  (b) the former Act or any regulations made under it; or
+  (c) any other enactment, if the offence relates directly to matters concerning immigration.
+(5) The provisions of Part 4 of the Search and Surveillance Act 2012 apply, except that sections 118 and 119 apply only if the warrant is executed (as provided for in section 293 of this Act) by a constable.
 
 **Disclosure of information to or by other agencies, bodies, or persons**
 
@@ -3579,7 +3724,7 @@ An immigration officer may, in carrying out the immigration officer’s function
   (d) is a person who has made a claim for recognition, or has been recognised, as a refugee or a protected person; or
   (e) is a person who has lodged an appeal against the decision of a refugee and protection officer to decline his or her claim for recognition as a refugee or a protected person; or
   (f) is a person whose appeal against the decision of a refugee and protection officer to decline his or her claim for recognition as a refugee or a protected person has been determined; or
-  (g) is a person who has been deported (whether under this Act or the former Act).
+  (g) is a person who has been deported (whether under this Act or the former Act) or removed under the former Act.
 (5) The information referred to in subsection (3) is as follows:
   (a) the person’s full name:
   (b) any aliases known to be used by the person:
@@ -3605,7 +3750,7 @@ An immigration officer may, in carrying out the immigration officer’s function
   - **authorised officer** means an officer, employee, or agent of the responsible department who is authorised by the chief executive of that department to receive information from the chief executive of the Department in accordance with this section
   - **benefit** has the same meaning as in section 3(1) of the Social Security Act 1964 but includes—
     (a) a lump sum payable under any of sections 61DB, 61DC, and 61DD of that Act; and
-    (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)(d) of that Act
+    (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)⁠(d) of that Act
   - **identifying information** , in relation to a person, includes—
     (a) the person's full name and gender:
     (b) any aliases known to the responsible department to be used by the person:
@@ -3635,7 +3780,7 @@ An immigration officer may, in carrying out the immigration officer’s function
   - **authorised officer** means an officer, employee, or agent of the Department who is authorised by the chief executive of the Department to receive information from the chief executive of the responsible department in accordance with this section
   - **benefit** has the same meaning as in section 3(1) of the Social Security Act 1964 but includes—
     (a) a lump sum payable under any of sections 61DB, 61DC, and 61DD of that Act; and
-    (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)(d) of that Act
+    (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)⁠(d) of that Act
   - **identifying information** , in relation to a person, includes—
     (a) the person's full name and gender:
     (b) any aliases known to the Department to be used by the person:
@@ -3908,10 +4053,10 @@ An immigration officer may, in carrying out the immigration officer’s function
 (2) The disclosure of information under subsection (1) must be—
   (a) in accordance with an agreement between the chief executive and the agency, body, or person concerned that complies with subsections (3) and (4); or
   (b) in accordance with subsection (7).
-(3) The chief executive must not enter into an agreement for the purposes of subsection (2)(a) unless satisfied that it is justified to help prevent, identify, or respond to violations of New Zealand law or,—
+(3) The chief executive must not enter into an agreement for the purposes of subsection (2)⁠(a) unless satisfied that it is justified to help prevent, identify, or respond to violations of New Zealand law or,—
   (a) in the case of an agreement with an international agency or body, to help prevent, identify, or respond to the kinds of actions that the agency or body has a function of preventing, identifying, or responding to; or
   (b) in any other case, to help prevent, identify, or respond to violations of the law of the state concerned.
-(4) For the purposes of subsection (2)(a), an agreement—
+(4) For the purposes of subsection (2)⁠(a), an agreement—
   (a) must be in writing; and
   (b) must state criteria for the disclosure of information under it; and
   (c) must state, in respect of the information to be disclosed,—
@@ -3927,7 +4072,7 @@ An immigration officer may, in carrying out the immigration officer’s function
   (a) must consult the Privacy Commissioner before entering into an agreement under this section, or varying such an agreement; and
   (b) if the Privacy Commissioner so requires, must undertake a review of the agreement under this section, and the arrangements for disclosure under it; and
   (c) as soon as practicable after conducting a review required to be undertaken under paragraph (b), must report the result to the Privacy Commissioner.
-(6) The Privacy Commissioner must not require the chief executive to undertake a review of an agreement under subsection (5)(b) within 12 months of last doing so.
+(6) The Privacy Commissioner must not require the chief executive to undertake a review of an agreement under subsection (5)⁠(b) within 12 months of last doing so.
 (7) The chief executive may disclose information to an overseas agency, body, or person if—
   (a) the functions of the agency, body, or person include the prevention, detection, investigation, prosecution, or punishment of immigration or other offences; and
   (b) the information is disclosed subject to conditions stating—
@@ -4080,7 +4225,7 @@ A person liable to arrest and detention under this Part may be detained by an im
     (i) served with a deportation liability notice; or
     (ii) arrested and detained for the purpose of deportation or turnaround; or
   (d) the person claimed refugee or protection status only after the person was—
-    (i) served with a deportation liability notice or deportation order; or
+    (i) served with a deportation liability notice or deportation order or with a removal order under the former Act; or
     (ii) arrested and detained for the purposes of deportation or turnaround.
 
 ### 317A Application for mass arrival warrant
@@ -4100,12 +4245,12 @@ A person liable to arrest and detention under this Part may be detained by an im
     (iii) particulars of the craft, or of each of the group of craft, on which the persons arrived (if known); and
     (iv) a description of the circumstances in which the craft, or the group of craft, arrived; and
   (c) include a statement of—
-    (i) why the warrant is necessary in terms of subsection (1)(a); and
-    (ii) how subsection (1)(c) relates to each person to whom the warrant is to apply.
+    (i) why the warrant is necessary in terms of subsection (1)⁠(a); and
+    (ii) how subsection (1)⁠(c) relates to each person to whom the warrant is to apply.
 (3) An application under this section may, but is not required to, include any other supporting evidence or information relating to the members of the mass arrival group.
 (4) The Judge must determine an application under section 317B.
 (5) Nothing in this section permits an immigration officer to include a person under 18 years of age in an application for a mass arrival warrant unless the person has a parent, guardian, or relative who is a member of the mass arrival group.
-(6) In subsection (2)(b)(ii), identity information means 1 or more of the following:
+(6) In subsection (2)⁠(b)⁠(ii), identity information means 1 or more of the following:
   (a) a name of the person (which may be the name that the person is known by or a name assigned to the person):
   (b) biometric information in relation to the person:
   (c) a physical description of the person.
@@ -4116,13 +4261,13 @@ A person liable to arrest and detention under this Part may be detained by an im
   (b) if not satisfied of the matters in subsection (2), refuse the application and act under subsection (4).
 (2) The matters are that—
   (a) the application relates to a mass arrival group; and
-  (b) the warrant is necessary for 1 or more of the reasons stated in section 317A(1)(a); and
+  (b) the warrant is necessary for 1 or more of the reasons stated in section 317A(1)⁠(a); and
   (c) 1 or more of the circumstances described in paragraphs (a) to (d) of section 316(1) will apply in respect of each member of the mass arrival group; and
-  (d) the requirements of section 317A(2)(a) to (c) have been met.
+  (d) the requirements of section 317A(2)⁠(a) to (c) have been met.
 (3) The Judge must issue the warrant in the prescribed form authorising the detention of each member of the mass arrival group in a place or the places named in the warrant—
   (a) for the period sought in the application; or
   (b) for a specified shorter period, if he or she is satisfied that, after the expiry of the shorter period,—
-    (i) the reasons for the necessity of the warrant in terms of section 317A(1)(a) will no longer apply; or
+    (i) the reasons for the necessity of the warrant in terms of section 317A(1)⁠(a) will no longer apply; or
     (ii) the circumstances described in paragraphs (a) to (d) of section 316(1) will no longer apply in respect of each member of the mass arrival group.
 (4) The Judge must—
   (a) treat the application as if it were applications made under section 316 in respect of each member of the mass arrival group; and
@@ -4135,7 +4280,7 @@ A person liable to arrest and detention under this Part may be detained by an im
   (b) include—
     (i) a copy of the original application and warrant; and
     (ii) identity information (within the meaning of section 317A(6)) in respect of each person to be included in the warrant; and
-    (iii) a statement of how section 317A(1)(c) relates to each person to be included in the warrant.
+    (iii) a statement of how section 317A(1)⁠(c) relates to each person to be included in the warrant.
 (3) On an application under this section, a District Court Judge must,—
   (a) if satisfied of the matters in subsection (4), grant the application and act under subsection (5); or
   (b) if not satisfied of the matters in subsection (4), refuse the application and act under subsection (6).
@@ -4150,23 +4295,23 @@ A person liable to arrest and detention under this Part may be detained by an im
 (7) Nothing in this section permits an immigration officer to include a person under 18 years of age in an application for a variation of a mass arrival warrant unless the person has a parent, guardian, or relative who is a member of the mass arrival group.
 
 ### 317D District Court may impose reporting requirements
-(1) When issuing a mass arrival warrant under section 317B or varying a mass arrival warrant under section 317C, a District Court Judge may order an immigration officer to report to the court, on a day or days determined by the Judge, but no more than once every 28 days for the duration of the warrant, on the continuing applicability of the reasons for the necessity of the warrant in terms of section 317A(1)(a).
+(1) When issuing a mass arrival warrant under section 317B or varying a mass arrival warrant under section 317C, a District Court Judge may order an immigration officer to report to the court, on a day or days determined by the Judge, but no more than once every 28 days for the duration of the warrant, on the continuing applicability of the reasons for the necessity of the warrant in terms of section 317A(1)⁠(a).
 (2) A District Court Judge may shorten the period of a mass arrival warrant or a varied mass arrival warrant, and vary the warrant accordingly, if, after receiving a report, he or she is satisfied that those reasons will no longer apply after the expiry of the shortened period.
 
 ### 317E Application for further warrant of commitment in respect of mass arrival group
 (1) An immigration officer may apply to a District Court Judge for a further warrant of commitment authorising the continued detention of—
   (a) all or specified members of a mass arrival group, as members of a mass arrival group; or
   (b) 1 or more members of a mass arrival group as individuals.
-(2) An application for a further warrant of commitment under subsection (1)(a) may be for a period of not more than 28 days and must—
+(2) An application for a further warrant of commitment under subsection (1)⁠(a) may be for a period of not more than 28 days and must—
   (a) comply with section 317A(2), and that section applies with any necessary modifications; and
   (b) be determined by a District Court Judge in accordance with section 317B, and that section applies with any necessary modifications.
-(3) An application for a further warrant of commitment under subsection (1)(b) must be made under section 316 and determined by a District Court Judge in accordance with subsection (3) of that section.
+(3) An application for a further warrant of commitment under subsection (1)⁠(b) must be made under section 316 and determined by a District Court Judge in accordance with subsection (3) of that section.
 (4) If a member of a mass arrival group is dealt with under subsection (3),—
   (a) he or she—
     (i) is no longer to be treated as a member of a mass arrival group for the purposes of this Act; and
     (ii) must, from the time of the Judge's determination, be dealt with under this Act as any other individual would be; and
   (b) the Judge must consequentially amend the warrant of commitment relating to the mass arrival group to exclude the member from the warrant.
-(5) Subsection (4)(a) is for the avoidance of doubt.
+(5) Subsection (4)⁠(a) is for the avoidance of doubt.
 
 ### 318 Decision on application for warrant if threat or risk to security
 (1) This section applies where an immigration officer applies for a warrant of commitment to authorise the detention of a person—
@@ -4187,7 +4332,7 @@ A person liable to arrest and detention under this Part may be detained by an im
 (2) The period for which detention is authorised by a warrant of commitment must be calculated exclusive of any period commencing on the date on which the person to whom the warrant relates escapes from lawful custody and ending 96 hours after the date on which the person is again taken into custody under this Act.
 
 ### 320 Court may instead release person on conditions
-(1) Where a District Court Judge orders a person’s release under section 317(1)(b)(ii), 318(3)(b), 323(3), or 324A(6)(b) on conditions, the conditions imposed on release may be any conditions that the Judge thinks fit to impose in the circumstances, including all or any of the following:
+(1) Where a District Court Judge orders a person’s release under section 317(1)⁠(b)⁠(ii), 318(3)⁠(b), 323(3), or 324A(6)⁠(b) on conditions, the conditions imposed on release may be any conditions that the Judge thinks fit to impose in the circumstances, including all or any of the following:
   (a) a condition that the released person must reside at a specified place:
   (b) a condition that the released person must report to a specified place at specified periods or times in a specified manner:
   (c) if the person is a claimant, a condition that the released person must attend any required interview with a refugee and protection officer or hearing with the Tribunal:
@@ -4201,7 +4346,7 @@ A person liable to arrest and detention under this Part may be detained by an im
 (3) Conditions imposed under this section may be varied at any time—
   (a) by a District Court Judge on the application of the person released or an immigration officer under section 324:
   (b) by consent between the released person and an immigration officer, if—
-    (i) the conditions imposed relate to the matters described in subsection (1)(a) or (b); or
+    (i) the conditions imposed relate to the matters described in subsection (1)⁠(a) or (b); or
     (ii) the order imposing the conditions allows the variation.
 (4) A variation of a condition under subsection (3)—
   (a) takes effect immediately; but
@@ -4213,7 +4358,7 @@ A person liable to arrest and detention under this Part may be detained by an im
 (6) Conditions imposed under this section lapse, and the person ceases to be bound by them, when the person leaves New Zealand or otherwise ceases to be liable to arrest and detention under this Part.
 
 ### 321 Special conditions where threat or risk to security
-Where a District Court Judge determines to order the release of a person to whom section 318 applies on conditions in accordance with subsection (3)(b) of that section, the conditions imposed under section 320 may also include 1 or both of the following:
+Where a District Court Judge determines to order the release of a person to whom section 318 applies on conditions in accordance with subsection (3)⁠(b) of that section, the conditions imposed under section 320 may also include 1 or both of the following:
   (a) a condition that the person not have access to or use specified communication devices or facilities (such as a telephone, the Internet, or email):
   (b) a condition that the person refrain from associating with any 1 or more named individuals, or individuals associated with 1 or more named organisations.
 
@@ -4245,7 +4390,7 @@ Where a District Court Judge determines to order the release of a person to whom
 (5) The Judge may require the immigration officer to attend the hearing to give evidence and be subject to cross-examination.
 (6) The period of 6 months referred to in subsection (1) must be calculated exclusive of any period commencing on the date on which the person to whom the warrant relates escapes from lawful custody and ending 96 hours after the date on which the person is again taken into custody under this Act.
 (7) This section does not apply to a person whose deportation has been ordered under section 163.
-(8) To avoid doubt, if a person to whom subsection (1)(c) applies makes a subsequent claim, the 6-month period must be treated as starting on the date the subsequent claim is finally determined.
+(8) To avoid doubt, if a person to whom subsection (1)⁠(c) applies makes a subsequent claim, the 6-month period must be treated as starting on the date the subsequent claim is finally determined.
 (9) In subsection (1),—
   - **appeal proceedings** means the proceedings in respect of which the appeal rights are exercised
   - **appeal rights** means—
@@ -4258,7 +4403,7 @@ Where a District Court Judge determines to order the release of a person to whom
 ### 324 Review of warrant of commitment or release on conditions
 (1AA) In this section, warrant of commitment does not include—
   (a) a mass arrival warrant issued under section 317B (in respect of all or specified members of a mass arrival group); or
-  (b) a further warrant of commitment issued under section 317E(1)(a) (in respect of all or specified members of a mass arrival group).
+  (b) a further warrant of commitment issued under section 317E(1)⁠(a) (in respect of all or specified members of a mass arrival group).
 (1) At any stage during the currency of a warrant of commitment an immigration officer may apply to a District Court Judge for—
   (a) a variation of the warrant of commitment; or
   (b) an order that the person who is detained under the warrant be released on conditions under section 320; or
@@ -4278,7 +4423,7 @@ Where a District Court Judge determines to order the release of a person to whom
 ### 324A Review of mass arrival warrant
 (1) In this section, warrant of commitment means—
   (a) a mass arrival warrant issued under section 317B (in respect of all or specified members of a mass arrival group); and
-  (b) a further warrant of commitment issued under section 317E(1)(a) (in respect of all or specified members of a mass arrival group).
+  (b) a further warrant of commitment issued under section 317E(1)⁠(a) (in respect of all or specified members of a mass arrival group).
 (2) At any stage during the currency of a warrant of commitment, an immigration officer may apply to a District Court Judge for a variation of the warrant for either or both of the following reasons:
   (a) to shorten the period that the warrant applies:
   (b) to provide for 1 or more persons detained under the warrant to be detained in a place or places other than the place or places currently specified in the warrant for those persons.
@@ -4287,24 +4432,24 @@ Where a District Court Judge determines to order the release of a person to whom
   (b) include—
     (i) a copy of the warrant to be varied; and
     (ii) a statement of the reasons for the application.
-(4) On an application under subsection (2)(a), a District Court Judge must vary the period of the warrant of commitment—
+(4) On an application under subsection (2)⁠(a), a District Court Judge must vary the period of the warrant of commitment—
   (a) to the period sought in the application; or
   (b) to a specified shorter period, if he or she is satisfied that, after the expiry of the shorter period,—
-    (i) the reasons for the necessity of the warrant in terms of section 317A(1)(a) will no longer apply; or
+    (i) the reasons for the necessity of the warrant in terms of section 317A(1)⁠(a) will no longer apply; or
     (ii) the circumstances described in paragraphs (a) to (d) of section 316(1) will no longer apply in respect of each person subject to the varied warrant.
-(5) On an application under subsection (2)(b), a District Court Judge may vary the warrant of commitment, but only to authorise the detention of the persons in a place or places other than the place or places currently specified in the warrant for those persons.
+(5) On an application under subsection (2)⁠(b), a District Court Judge may vary the warrant of commitment, but only to authorise the detention of the persons in a place or places other than the place or places currently specified in the warrant for those persons.
 (6) At any stage during the currency of a warrant of commitment, an immigration officer may, in respect of a particular individual detained under the warrant, apply to a District Court Judge for—
   (a) a warrant of commitment for the individual as an individual; or
   (b) an order that the individual be released on conditions under section 320; or
   (c) an order that the individual be released.
-(7) An application for a warrant of commitment under subsection (6)(a) must be made under section 316 and determined by a District Court Judge in accordance with subsection (3) of that section.
-(8) An application for release on conditions under subsection (6)(b) must be considered having regard to section 317, 318, or 323, as appropriate.
+(7) An application for a warrant of commitment under subsection (6)⁠(a) must be made under section 316 and determined by a District Court Judge in accordance with subsection (3) of that section.
+(8) An application for release on conditions under subsection (6)⁠(b) must be considered having regard to section 317, 318, or 323, as appropriate.
 (9) If a member of a mass arrival group is dealt with under subsection (6),—
   (a) he or she—
     (i) is no longer to be treated as a member of a mass arrival group for the purposes of this Act; and
     (ii) must, from the time of the Judge's determination, be dealt with under this Act as any other individual would be; and
   (b) the Judge must consequentially amend the warrant of commitment relating to the mass arrival group to exclude the member from the warrant.
-(10) Subsection (9)(a) is for the avoidance of doubt.
+(10) Subsection (9)⁠(a) is for the avoidance of doubt.
 
 **Applications under this Part involving classified information**
 
@@ -4348,19 +4493,16 @@ Where a District Court Judge determines to order the release of a person to whom
   (b) to prevent the detained person from damaging any property; or
   (c) to prevent the detained person from escaping or attempting to escape from detention; or
   (d) to recapture the person, if the person is fleeing, having escaped from detention.
-(2) Where an immigration officer has detained a person under section 312, an immigration officer may search that person if the officer has reasonable grounds to believe that—
-  (a) the person has an item hidden or in clear view on or about his or her person; and
-  (b) the item poses a threat to the safety of the officer, or any other person; and
-  (c) there is a need to act immediately in order to address that threat.
-(3) An immigration officer may, when carrying out a search under subsection (2), seize any item found on or about a person that the immigration officer has reasonable cause to suspect is an item that poses a threat to the safety of the officer or any other person.
-(4) If necessary, reasonable force may be used to search a person under subsection (2) and seize any item under subsection (3).
-(5) An immigration officer may detain and destroy any item that he or she seizes under subsection (4).
+(2) By virtue of section 82 of the Search and Surveillance Act 2012, sections 85 to 87 of that Act (about rub-down searches) apply to this section, and by virtue of section 89(1)⁠(e) of that Act, Part 4 of that Act (and in particular sections 124 to 126 (about searches of the person)) also applies.
+(3)
+(4)
+(5)
 (6) An immigration officer who uses physical force or undertakes a search under this section must, not later than 3 working days after the use of the force or the search, give to the chief executive a written report of the use of the force or search, the circumstances in which it was used or conducted, and the matters that gave rise to the reasonable grounds to believe required by subsection (1) or (2).
 
 ### 329 Arresting or detaining officer may seek assistance
 (1) Where a constable is arresting any person under this Act, the constable may call upon any person in the vicinity for assistance.
 (2) Where an immigration officer is detaining any person under section 312, the officer may call upon any person in the vicinity for assistance.
-(3) Every person so called upon is justified in assisting, and he or she has all the protection and privileges of an immigration officer when giving his or her assistance, unless that person knows that there is no reasonable ground for the arrest.
+(3) Every person so called upon is justified (as defined in section 2(1) of the Crimes Act 1961) in assisting, and he or she has all the protection and privileges of an immigration officer when giving his or her assistance, unless that person knows that there is no reasonable ground for the arrest or detention.
 
 **Form of custody**
 
@@ -4369,18 +4511,18 @@ The chief executive may approve any premises for the purpose of detention under 
 
 ### 331 Form of custody of persons detained without warrant overnight
 Every person who is placed in custody under section 313 and is to be detained overnight must be detained,—
-  (a) in the case of a person under 18 years of age, in—
+  (a) in the case of a person under 18 years of age who is not married or in a civil union, in—
     (i) a residence (within the meaning of section 2(1) of the Children, Young Persons, and Their Families Act 1989) or other premises under the control of, or approved by, the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
-    (ii) if the person is not married or in a civil union, any other premises agreed to by an immigration officer and the person’s parent, guardian, or responsible adult; or
+    (ii) any other premises agreed to by an immigration officer and the person’s parent, guardian, or responsible adult; or
   (b) in any other case, in—
     (i) premises approved by the chief executive under section 330; or
     (ii) a police station.
 
 ### 332 Form of custody of persons detained under warrant of commitment
 Every person who is to be detained in custody under a warrant of commitment must be detained,—
-  (a) in the case of a person under 18 years of age, in a place approved for the purpose by the District Court Judge before whom the person is brought, being—
+  (a) in the case of a person under 18 years of age who is not married or in a civil union, in a place approved for the purpose by the District Court Judge before whom the person is brought, being—
     (i) a residence (within the meaning of section 2(1) of the Children, Young Persons, and Their Families Act 1989) or other premises under the control of, or approved by, the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
-    (ii) if the person is not married or in a civil union, any other premises agreed to by an immigration officer and the person's parent, guardian, or responsible adult; or
+    (ii) any other premises agreed to by an immigration officer and the person's parent, guardian, or responsible adult; or
     (iii) premises approved by the chief executive under section 330; or
   (b) in any other case,—
     (i) in a prison; or
@@ -4445,10 +4587,10 @@ Every person who is to be detained in custody under a warrant of commitment must
 (2) While an epidemic management notice is in force, it is a sufficient compliance with a requirement to which subsection (1) applies if, at intervals of not more than 28 days, a District Court Judge considers or further considers the question concerned.
 (3) If the notice applies to only stated parts of New Zealand, subsection (2) applies within those parts only.
 
-### 339 During epidemic certain warrants and extensions to have effect for 28 days
+### 339 During epidemic certain warrants to have effect for 28 days
 (1) If a warrant of commitment issued under this Act was in force immediately before the commencement of an epidemic management notice, it has effect as if it had authorised the detention of the person named in it for a period of 28 days.
 (2) Subsection (1) overrides every provision of this Act to the contrary.
-(3) In subsection (1), warrant of commitment does not include a mass arrival warrant issued under section 317B (in respect of all or specified members of a mass arrival group) for a period of more than 28 days.
+(2A) In subsection (1), warrant of commitment does not include a mass arrival warrant issued under section 317B (in respect of all or specified members of a mass arrival group) for a period of more than 28 days.
 (3) If the notice applies to only stated parts of New Zealand, subsections (1) and (2) apply within those parts only.
 
 ### 340 Application of section 320 during epidemic
@@ -4475,7 +4617,7 @@ Every person who is to be detained in custody under a warrant of commitment must
     (iii) any appeal or application in the nature of an appeal to the Minister or the Tribunal; or
   (b) produces or surrenders any document or supplies any information to an immigration officer or a refugee and protection officer knowing that it is false or misleading in any material respect; or
   (c) completes any document required as part of a border requirement in a manner that the person knows to be false or misleading in any particular, or fails to comply with any of his or her other responsibilities under section 103.
-(2) To avoid doubt, no proceedings under subsection (1)(b) may be brought if the documents or information are supplied in the circumstances to which Article 31.1 of the Refugee Convention applies.
+(2) To avoid doubt, no proceedings under subsection (1)⁠(b) may be brought if the documents or information are supplied in the circumstances to which Article 31.1 of the Refugee Convention applies.
 
 ### 343 Aiding and abetting
 (1) Every person commits an offence against this Act who,—
@@ -4489,19 +4631,17 @@ Every person who is to be detained in custody under a warrant of commitment must
     (iii) any request for variation, waiver, or cancellation of the conditions of a visa; or
     (iv) any appeal or application in the nature of an appeal to the Minister or the Tribunal; or
   (d) aids, abets, incites, counsels, or procures any other person to be or to remain unlawfully in New Zealand or to breach any condition of a visa granted to the other person under this Act.
-(2) In subsection (1)(a), for a material benefit has the same meaning as in section 2(1) of the Crimes Act 1961.
-(3) For the purposes of subsection (1)(b), a person unlawfully enters New Zealand if the person—
+(2) In subsection (1)⁠(a), for a material benefit has the same meaning as in section 2(1) of the Crimes Act 1961.
+(3) For the purposes of subsection (1)⁠(b), a person unlawfully enters New Zealand if the person—
   (a) arrives in New Zealand in a manner that does not comply with section 103; or
   (b) arrives in New Zealand without holding a visa, if the person requires a visa to travel to New Zealand; or
-  (c) arrives in New Zealand as the holder of a visa but the visa was—
-    (i) granted in a false identity; or
-    (ii) procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
-  (d) is granted a visa on arrival in New Zealand but the visa is—
-    (i) granted in a false identity; or
-    (ii) procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
-  (e) is granted entry permission but the entry permission is—
-    (i) granted on the basis of a visa granted in a false identity; or
-    (ii) procured through fraud, forgery, false or misleading representation, or concealment of relevant information; or
+  (c) arrives in New Zealand as the holder of a visa, or is granted a visa on arrival in New Zealand, but—
+    (i) the visa was or is granted in a false identity; or
+    (ii) any of the information provided in relation to the person's application for the visa was fraudulent, forged, false, or misleading, or relevant information was concealed; or
+  (d) is granted entry permission but—
+    (i) the entry permission was or is granted on the basis of a visa granted in a false identity; or
+    (ii) any of the information provided in relation to the person's application for the entry permission was fraudulent, forged, false, or misleading, or relevant information was concealed; or
+  (e)
   (f) enters New Zealand in any other manner and, in doing so, does not comply with the requirements of this Act.
 (4) To avoid doubt, a person unlawfully enters New Zealand within the meaning of subsection (3) whether or not any action has been taken under this Act in relation to the visa or entry permission used by the person for the purpose of entering (for example, conviction of the person for procuring a visa by fraud or revocation of the person's entry permission).
 
@@ -4509,7 +4649,7 @@ Every person who is to be detained in custody under a warrant of commitment must
 Every person commits an offence against this Act who,—
   (a) without reasonable excuse, refuses or fails to produce or surrender any document, or to supply any information, when required to do so by an immigration officer or a refugee and protection officer in accordance with any of the provisions of this Act; or
   (b) after being warned in accordance with section 279, refuses or fails without reasonable excuse to comply with any requirement of an immigration officer under that section; or
-  (c) fails to remain in an immigration control area when required to do so, or to follow an immigration officer’s instructions while in an immigration control area; or
+  (c) fails to remain in an immigration control area or other prescribed place when required to do so, or to follow an immigration officer's instructions while in an immigration control area or other prescribed place; or
   (d) resists or intentionally obstructs any immigration officer, refugee and protection officer, or constable in the exercise of the powers of that officer or constable under this Act; or
   (e) refuses or fails to provide biometric information under section 104, 111, or 120; or
   (f) refuses or fails to provide biometric information in accordance with a compulsion order.
@@ -4554,13 +4694,13 @@ Every person commits an offence against this Act who, not being an immigration o
 (1) Every carrier, or person in charge, of a commercial craft commits an offence who—
   (a) fails without reasonable excuse to comply with any of the carrier's or the person's responsibilities under section 96(2); or
   (b) allows a person to travel to New Zealand before a decision has been made by the chief executive under section 97(1); or
-  (c) having been notified under section 97(2) of a decision made by the chief executive under section 97(1)(b) or (c), without reasonable excuse fails to ensure that the person to whom the decision relates complies with it; or
-  (d) fails without reasonable excuse to provide the chief executive with information under section 102(2)(a); or
-  (e) fails without reasonable excuse to ensure the chief executive has access to information under section 102(2)(b).
+  (c) having been notified under section 97(2) of a decision made by the chief executive under section 97(1)⁠(b) or (c), without reasonable excuse fails to ensure that the person to whom the decision relates complies with it; or
+  (d) fails without reasonable excuse to provide the chief executive with information under section 102(2)⁠(a); or
+  (e) fails without reasonable excuse to ensure the chief executive has access to information under section 102(2)⁠(b).
 (2) Every carrier, or person in charge, of a craft commits an offence who fails without reasonable excuse to comply with any of the requirements of—
-  (a) section 101(1)(a); or
-  (b) section 118(1)(a); or
-  (c) sections 101(1)(b), (c), and (d), 101(2), and 118(1)(b) and (c).
+  (a) section 101(1)⁠(a); or
+  (b) section 118(1)⁠(a); or
+  (c) sections 101(1)⁠(b), (c), and (d), 101(2), and 118(1)⁠(b) and (c).
 (3) Every person in charge of a craft commits an offence who fails without reasonable excuse to comply with section 101(3).
 (4) Every carrier of a craft commits an offence who fails to comply with section 118(2).
 (5) To avoid doubt, proceedings in respect of an offence against subsection (1), (2), or (3) may be taken—
@@ -4571,31 +4711,31 @@ Every person commits an offence against this Act who, not being an immigration o
 (1) Every employer commits an offence against this Act who—
   (a) allows or continues to allow any person to work in that employer’s service, knowing that the person is not entitled under this Act to do that work; or
   (b) allows a person who is not entitled under this Act to work in the employer’s service to do that work.
-(2) Subsection (1)(a) applies whether the person commenced work in the employer’s service before or after the commencement of this section.
-(3) It is a defence to a charge under subsection (1)(b) that the employer—
+(2) Subsection (1)⁠(a) applies whether the person commenced work in the employer’s service before or after the commencement of this section.
+(3) It is a defence to a charge under subsection (1)⁠(b) that the employer—
   (a) did not know that the person was not entitled to do the work; and
   (b) took reasonable precautions and exercised due diligence to ascertain whether the person was entitled to do the work.
-(4) Except as provided in subsection (3), it is not a defence to a charge under subsection (1)(b) that the employer did not know that the person was not entitled under this Act to do that work.
+(4) Except as provided in subsection (3), it is not a defence to a charge under subsection (1)⁠(b) that the employer did not know that the person was not entitled under this Act to do that work.
 (5) A charge alleging an offence against this section may specify any day on which it is alleged the person was working for the employer, and need not state the day on which that work is alleged to have commenced.
 (6) For the purposes of this section, an employer is treated as knowing that an employee is not entitled under this Act to do any particular work if, at any time in the preceding 12 months (whether before or after the commencement of this section), the employer has been informed of that fact in writing by an immigration officer.
 (7) No employer is liable for an offence against this section in respect of any period during which the employer continues to allow any person to work in the employer's service in compliance with the minimum requirements of any employment agreement (within the meaning of the Employment Relations Act 2000) relating to the giving of notice on termination of employment.
 
-### 351 Exploitation of persons not legally entitled to work
+### 351 Exploitation of unlawful employees and temporary workers
 (1) Every employer commits an offence against this Act who,—
-  (a) while allowing an unlawful employee to work in the employer’s service,—
-    (i) is responsible for a serious failure to pay to the employee money payable under the Holidays Act 2003; or
-    (ii) is in serious default under the Minimum Wage Act 1983 in respect of the employee; or
-    (iii) is responsible for a serious contravention of the Wages Protection Act 1983 in respect of the employee; or
-  (b) while allowing an unlawful employee to work in the employer’s service, takes an action with the intention of preventing or hindering the employee from—
+  (a) while allowing an unlawful employee or temporary worker to work in the employer’s service,—
+    (i) is responsible for a serious failure to pay to the employee or worker money payable under the Holidays Act 2003; or
+    (ii) is in serious default under the Minimum Wage Act 1983 in respect of the employee or worker; or
+    (iii) is responsible for a serious contravention of the Wages Protection Act 1983 in respect of the employee or worker; or
+  (b) while allowing an unlawful employee or temporary worker to work in the employer’s service, takes an action with the intention of preventing or hindering the employee or worker from—
     (i) leaving the employer’s service; or
     (ii) leaving New Zealand; or
     (iii) ascertaining or seeking his or her entitlements under the law of New Zealand; or
     (iv) disclosing to any person the circumstances of his or her work for the employer.
-(2) For the purposes of subsection (1)(a), the following are questions of fact:
+(2) For the purposes of subsection (1)⁠(a), the following are questions of fact:
   (a) whether a failure to pay to a person money payable under the Holidays Act 2003 is serious:
   (b) whether a default under the Minimum Wage Act 1983 in respect of a person is serious:
   (c) whether a contravention of the Wages Protection Act 1983 in respect of a person is serious.
-(3) For the purposes of subsection (1)(a), the following matters may be taken into account in deciding whether a failure, default, or contravention is serious:
+(3) For the purposes of subsection (1)⁠(a), the following matters may be taken into account in deciding whether a failure, default, or contravention is serious:
   (a) the amount of money involved:
   (b) whether it comprises a single instance or a series of instances:
   (c) if it comprises a series of instances,—
@@ -4604,7 +4744,7 @@ Every person commits an offence against this Act who, not being an immigration o
   (d) whether or not it was intentional:
   (e) whether the employer concerned has complied with the record-keeping obligations imposed by the Act concerned:
   (f) any other relevant matter.
-(4) The following are examples of actions of the kind referred to in subsection (1)(b):
+(4) The following are examples of actions of the kind referred to in subsection (1)⁠(b):
   (a) taking or retaining possession or control of a person’s passport, any other travel or identity document, or travel tickets:
   (b) preventing or hindering a person from—
     (i) having access to a telephone; or
@@ -4613,21 +4753,29 @@ Every person commits an offence against this Act who, not being an immigration o
     (iv) leaving premises; or
     (v) leaving premises unaccompanied:
   (c) preventing or hindering a labour inspector (within the meaning of the Employment Relations Act 2000) from entering or having access to any place or premises to which he or she is entitled to have access under any enactment.
-(5) Subsection (4) does not limit subsection (1)(b).
+(5) Subsection (4) does not limit subsection (1)⁠(b).
 (6) A charge alleging an offence against subsection (1) may specify any day on which it is alleged the person was working for the employer, and need not state the day on which that work is alleged to have commenced.
-(7) For the purposes of this section, an employer is treated as knowing that an employee is not entitled under this Act to do any particular work if, at any time in the preceding 12 months (whether before or after the commencement of this section), the employer has been informed of that fact in writing by an immigration officer.
-(8) In this section, unlawful employee, in relation to an employer, means a person who the employer knows is not entitled under this Act to work in the employer’s service.
+(7) For the purposes of this section, an employer is treated as knowing—
+  (a) that an employee is not entitled under this Act to do any particular work if, at any time in the preceding 12 months (whether before or after the commencement of this subsection) the employer has been informed of that fact in writing by an immigration officer; and
+  (b) that a worker holds a temporary entry class visa if, at any time in the preceding 12 months (whether before or after the commencement of this subsection) the employer has been informed of that fact in writing by an immigration officer.
+(8) In this section, in relation to an employer,—
+  - **temporary worker** means a person—
+    (a) who the employer knows holds a temporary entry class visa; or
+    (b) who holds a temporary entry class visa and in respect of whom the employer is reckless as to whether or not the person holds a temporary entry class visa
+  - **unlawful employee** means a person who undertakes work for the employer that—
+    (a) the employer knows, under this Act, the person is not entitled to undertake; or
+    (b) the person is, under this Act, not entitled to undertake and in respect of which the employer is reckless as to whether or not the person is entitled to undertake the work.
 
 ### 352 Offences by education providers
 (1) Every education provider commits an offence against this Act who—
   (a) allows or continues to allow any other person to undertake a course of study knowing that the person is not entitled under this Act to undertake the course; or
   (b) allows any other person to undertake a course of study if the person is not entitled under this Act to undertake the course.
-(2) Subsection (1)(a) applies whether the person commenced the course of study before or after the commencement of this section.
+(2) Subsection (1)⁠(a) applies whether the person commenced the course of study before or after the commencement of this section.
 (3) No person commits an offence under subsection (1) by reason of allowing or continuing to allow a person who is not entitled to study in New Zealand to undertake compulsory education.
-(4) It is a defence to a charge under subsection (1)(b) that the education provider—
+(4) It is a defence to a charge under subsection (1)⁠(b) that the education provider—
   (a) did not know that the person was not entitled to undertake the course of study; and
   (b) took reasonable precautions and exercised due diligence to ascertain whether the person was entitled to undertake that course.
-(5) Except as provided in subsection (4), it is not a defence to a charge under subsection (1)(b) that the education provider did not know that the person was not entitled under this Act to undertake that course of study.
+(5) Except as provided in subsection (4), it is not a defence to a charge under subsection (1)⁠(b) that the education provider did not know that the person was not entitled under this Act to undertake that course of study.
 (6) A charge alleging an offence against this section may specify any day on which it is alleged the person was undertaking the course of study, and need not state the day on which it is alleged that the person commenced the course.
 (7) For the purposes of this section, allowing a person to undertake a course of study includes accepting the person for enrolment in the course.
 (8) For the purposes of this section, a person is treated as knowing that another person is not entitled under this Act to study in New Zealand if, at any time in the preceding 12 months (whether before or after the commencement of this section), the person has been informed of that fact in writing by an immigration officer.
@@ -4638,8 +4786,8 @@ Every person commits an offence against this Act who, not being an immigration o
   (b) refuses to be sworn or to give evidence, or having been sworn refuses to answer any question that the person is lawfully required by the Tribunal or any member of it to answer; or
   (c) fails to produce any such paper, document, record, or thing.
 (2) Every person commits an offence who—
-  (a) intentionally obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things under clause 10(1)(a) of Schedule 2; or
-  (b) without sufficient cause, fails to comply with any requirement of the Tribunal or any authorised person made under clause 10(1)(b) or (c) of Schedule 2; or
+  (a) intentionally obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things under clause 10(1)⁠(a) of Schedule 2; or
+  (b) without sufficient cause, fails to comply with any requirement of the Tribunal or any authorised person made under clause 10(1)⁠(b) or (c) of Schedule 2; or
   (c) without sufficient cause, acts in contravention of or fails to comply with any order made by the Tribunal under clause 10(3) of Schedule 2 or any term or condition of the order.
 (3) No person summoned to attend before the Tribunal may be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which the person was required to attend, there was made to the person a payment or tender of the amount determined under clause 16 of Schedule 2.
 
@@ -4651,39 +4799,44 @@ Every person commits an offence who, without reasonable excuse,—
 **Penalties**
 
 ### 355 Penalties: general
-(1) A person convicted of an offence against section 342(1)(b), 343(1)(a), 345, or 348 is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both.
-(2) A person convicted of an offence against section 343(1)(b) or (c)(i) is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both, for each person in respect of whom the offence was committed.
-(3) A person convicted of an offence against section 342(1)(c), 343(1)(d), 344(c) or (d), or 354 is liable to imprisonment for a term not exceeding 3 months, a fine not exceeding $10,000, or both.
+(1) A person convicted of an offence against section 342(1)⁠(b), 343(1)⁠(a), 345, or 348 is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both.
+(2) A person convicted of an offence against section 343(1)⁠(b) or (c)⁠(i) is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both, for each person in respect of whom the offence was committed.
+(3) A person convicted of an offence against section 342(1)⁠(c), 343(1)⁠(d), 344(c) or (d), or 354 is liable to imprisonment for a term not exceeding 3 months, a fine not exceeding $10,000, or both.
 (4) A person convicted of an offence against section 346 is liable to imprisonment for a term not exceeding 12 months, a fine not exceeding $15,000, or both.
-(5) A person convicted of an offence against this Act or against any regulations made under this Act for which no penalty is provided elsewhere than in this section or in section 356, 357, or 358 is liable to a fine not exceeding $5,000.
-(6) Where any person is convicted of an offence against section 343(1)(d) in respect of any person who is or was unlawfully in New Zealand, the court may, instead of or in addition to any other sentence that it may impose in respect of the offence, order that the offender pay the whole or any specified portion of the costs incurred or likely to be incurred in deporting the person in relation to whom the offence was committed.
+(5) A person convicted of an offence against this Act, or against any regulations made under this Act, for which no specific penalty is provided in the Act or regulations is liable to a fine not exceeding $5,000.
+(6) Where any person is convicted of an offence against section 343(1)⁠(d) in respect of any person who is or was unlawfully in New Zealand, the court may, instead of or in addition to any other sentence that it may impose in respect of the offence, order that the offender pay the whole or any specified portion of the costs incurred or likely to be incurred in deporting the person in relation to whom the offence was committed.
 (7) For the purposes of subsection (6), the costs incurred or likely to be incurred in deporting a person include—
   (a) the costs of locating, detaining, and maintaining the person; and
   (b) internal travel costs for the person; and
   (c) external travel costs for the person.
 
 ### 356 Penalties: carriers, and persons in charge, of craft
-(1) A person convicted of an offence against section 349 (except section 349(2)(b)) is liable,—
+(1) A person convicted of an offence against section 349 (except section 349(2)⁠(b)) is liable,—
   (a) in the case of a carrier of a craft, to imprisonment for a term not exceeding 3 months, a fine not exceeding $50,000, or both:
   (b) in the case of a person in charge of a craft, to imprisonment for a term not exceeding 3 months, a fine not exceeding $25,000, or both.
-(2) A person convicted of an offence against section 349(2)(b) is liable,—
+(2) A person convicted of an offence against section 349(2)⁠(b) is liable,—
   (a) in the case of a carrier of a craft, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $20,000:
   (b) in the case of a person in charge of a craft, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $10,000.
 
 ### 357 Penalties: employers
-(1) A person convicted of an offence against section 350(1)(a) is liable to a fine not exceeding $50,000.
-(2) A person convicted of an offence against section 350(1)(b) is liable to a fine not exceeding $10,000.
-(3) A person convicted of an offence against section 351(1) is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both.
+(1) A person convicted of an offence against section 350(1)⁠(a) is liable to a fine not exceeding $50,000.
+(2) A person convicted of an offence against section 350(1)⁠(b) is liable to a fine not exceeding $10,000.
+(3) A person convicted of an offence against section 351(1) is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both, if the offence relates to—
+  (a) a temporary worker within the meaning of paragraph (a) of the definition of temporary worker in section 351(8); or
+  (b) an unlawful employee within the meaning of paragraph (a) of the definition of unlawful employee in section 351(8).
+(4) A person convicted of an offence against section 351(1) is liable to imprisonment for a term not exceeding 5 years, a fine not exceeding $100,000, or both, if the offence relates to—
+  (a) a temporary worker within the meaning of paragraph (b) of the definition of temporary worker in section 351(8); or
+  (b) an unlawful employee within the meaning of paragraph (b) of the definition of unlawful employee in section 351(8).
 
 ### 358 Penalties: education providers
-(1) A person convicted of an offence against section 352(1)(a) is liable to a fine not exceeding $50,000.
-(2) A person convicted of an offence against section 352(1)(b) is liable to a fine not exceeding $30,000.
+(1) A person convicted of an offence against section 352(1)⁠(a) is liable to a fine not exceeding $50,000.
+(2) A person convicted of an offence against section 352(1)⁠(b) is liable to a fine not exceeding $30,000.
 
 **Infringement offences for carriers, or persons in charge, of craft**
 
 ### 359 Infringement offences
 In this Act, infringement offence means—
-  (a) an offence against section 349(1) or 349(2)(a):
+  (a) an offence against section 349(1) or 349(2)⁠(a):
   (b) an offence prescribed as an infringement offence for the purposes of this Act by regulations made under section 400.
 
 ### 360 Proceedings for infringement offences
@@ -4697,7 +4850,9 @@ When considering whether to issue an infringement notice, an immigration officer
   (b) the date of birth of the person in charge of the craft:
   (c) the full residential address and, if different, the full postal address of the person in charge of the craft:
   (d) the legal name of the carrier of the craft:
-  (e) the full postal address of the carrier of the craft.
+  (e) the full postal address of the carrier of the craft:
+  (f) an electronic address for service for the carrier:
+  (g) an electronic address for service for the person in charge of the craft.
 
 ### 362 Infringement notices
 (1) If an immigration officer believes on reasonable grounds that a carrier, or a person in charge, of a craft has committed an infringement offence, the immigration officer may issue an infringement notice to the carrier, or the person in charge, of the craft.
@@ -4710,10 +4865,8 @@ When considering whether to issue an infringement notice, an immigration officer
   (f) a statement that the person has a right to request a hearing:
   (g) a statement of the consequences if the person does not pay the infringement fee and does not request a hearing:
   (h) any other prescribed matters.
-(3) An infringement notice may be served—
-  (a) by personal delivery to the carrier, or person in charge, of the craft who appears to have committed the infringement offence; or
-  (b) by sending it by post to the last known place of residence or business of the carrier, or person in charge, of the craft.
-(4) An infringement notice sent by post is deemed to have been served on the carrier, or the person in charge, of the craft on the date it was posted.
+(3) Every infringement notice must be served on the carrier, or person in charge, of the craft who appears to have committed the infringement offence.
+(4)
 (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957 and, in that case, the provisions of that section apply with all necessary modifications.
 
 ### 363 Reminder notices
@@ -4726,9 +4879,22 @@ Regulations made under section 400 may prescribe the form of reminder notices to
 (2) All infringement fees are payable to the chief executive, and the chief executive must pay all infringement fees received into a Crown Bank Account.
 
 ### 365 Revocation of infringement notices
-An immigration officer may, by written notice to the person to whom the notice was issued, revoke an infringement notice at any time before—
+An immigration officer may, by written notice served on the person to whom the infringement notice was issued, revoke an infringement notice at any time before—
   (a) the infringement fee is paid; or
   (b) an order for payment of a fine is made by a court under section 21 of the Summary Proceedings Act 1957.
+
+### 365A Service of notices
+(1) This section applies to the following notices:
+  (a) an infringement notice served under section 362:
+  (b) a reminder notice referred to in section 363:
+  (c) a notice served under section 365 that revokes an infringement notice.
+(2) Every notice to which this section applies must be served by way of—
+  (a) sending it to the electronic address for service of the recipient, in which case it is deemed to be received by the recipient on the date on which it was sent; or
+  (b) personal service on the recipient; or
+  (c) sending it by registered post to the recipient's last known place of residence or business, in which case it is deemed to be received by the recipient on the date on which it was posted.
+(3) Subsection (2) applies despite anything in section 24 of the Summary Proceedings Act 1957, and,—
+  (a) if service is effected in accordance with subsection (2), the recipient is deemed to have consented to service in that way (despite sections 16 and 20(1)⁠(b) of the Electronic Transactions Act 2002); and
+  (b) in any case, for the purpose of sections 387 and 389 of the Companies Act 1993, the service is deemed to have been service by way of leaving the notice at the recipient's address for service.
 
 **Evidence in proceedings**
 
@@ -4748,6 +4914,7 @@ An immigration officer may, by written notice to the person to whom the notice w
   (11) an automated electronic system was or was not applying criteria predetermined in accordance with immigration instructions or by the chief executive; or
   (12) the result of the process described in paragraph (11) was or was not applied as the basis for a decision; or
   (13) the person was served with a deportation liability notice on a specified date, or was deported from New Zealand on a specified date, or that there is or was, at any material time, a deportation order in force in respect of that person; or
+  (13A) the person was removed from New Zealand on a specified date; or
   (14) the person was, at a specified time or for a specified period, liable for deportation; or
   (15) for the purpose of obtaining any visa, the person while outside New Zealand made any statement or supplied any information to an immigration officer that was false or misleading in any material respect, or produced or surrendered to an immigration officer any passport or certificate of identity or other document that was forged or obtained fraudulently; or
   (16) the person produced or surrendered to an immigration officer, while in New Zealand, any passport, certificate of identity, or other document that was forged or obtained fraudulently or that contained any evidence of a visa that was forged or so obtained, for the purpose of—
@@ -4761,8 +4928,8 @@ An immigration officer may, by written notice to the person to whom the notice w
   (20) the person is or is not an excluded person; or
   (21) the person travelled to New Zealand on a certain commercial craft at a certain time; or
   (22) the person did or did not travel to New Zealand before a decision was made by the chief executive under section 97(1); or
-  (23) the person travelled to New Zealand contrary to a decision made by the chief executive under section 97(1)(b) or (c); or
-  (24) the person did not provide or supply access to information requested by the chief executive under section 102; or
+  (23) the person travelled to New Zealand contrary to a decision made by the chief executive under section 97(1)⁠(b) or (c); or
+  (24) the person did not provide, or otherwise make available, to the chief executive the information prescribed for the purposes of section 102(2); or
   (25) the person has or has not, at any material time,—
     (a) claimed to be a refugee in New Zealand or elsewhere; or
     (b) been recognised as a refugee in New Zealand or elsewhere; or
@@ -4792,7 +4959,7 @@ For the purposes of any proceedings relating to any matter under this Act, wheth
 
 ### 368 Evidence in respect of matters occurring and documents executed outside New Zealand
 (1) The court, Tribunal, or other person or body conducting or in charge of any proceedings under this Act may, if it considers it fair and equitable to do so, receive as evidence any statement, document, or information tendered in respect of a document executed outside New Zealand, whether or not it would be normally admissible in a court of law.
-(2) Where a certificate under section 366 contains a statement as to any matter specified in section 366(2)(15) or (3), the court, Tribunal, or other person or body conducting or in charge of the proceedings may receive as evidence any statement, document, or information tendered by or on behalf of the person named in the certificate in rebuttal of that statement, whether or not it would be otherwise admissible in a court of law.
+(2) Where a certificate under section 366 contains a statement as to any matter specified in section 366(2)⁠(15) or (3), the court, Tribunal, or other person or body conducting or in charge of the proceedings may receive as evidence any statement, document, or information tendered by or on behalf of the person named in the certificate in rebuttal of that statement, whether or not it would be otherwise admissible in a court of law.
 (3) Where a statement, document, or information is received as evidence under subsection (1) or (2), the court, Tribunal, or other person or body conducting or in charge of the proceedings may determine the credibility or weight (if any) to be given in the proceedings to the document, statement, or information concerned.
 
 ### 369 Presumption that certificates duly authorised
@@ -4814,7 +4981,7 @@ For the purposes of section 370(3), or any other proceedings under this Act, it 
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the earlier of—
   (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an immigration officer; or
   (b) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to an immigration officer.
-(2) Subsection (1) does not apply to the offences set out in sections 342(1)(b), 343(1)(a), (b), or (c)(i), 345, 348, and 351.
+(2) Subsection (1) does not apply to the offences set out in sections 342(1)⁠(b), 343(1)⁠(a), (b), or (c)⁠(i), 345, 348, and 351.
 
 ## Part 11 — Miscellaneous provisions
 
@@ -4896,10 +5063,10 @@ In any proceedings or process of a kind referred to in section 375(2) in relatio
   (a) any person, visa, or document; or
   (b) any 2 or more persons, visas, or documents where by reason of any specific event, occurrence, or unusual circumstances there is a common link between those persons, visas, or documents.
 (2) The Minister may give in writing a special direction—
-  (a) waiving the requirement to hold a visa permitting travel to New Zealand in relation to any class of persons, in accordance with section 69(2)(a):
-  (b) suspending, under section 69(2)(b), a visa waiver made in accordance with section 69(1):
-  (c) classifying persons to whom a transit visa waiver applies, in accordance with section 86(4)(a):
-  (d) suspending, under section 86(4)(b), a transit visa waiver made in accordance with section 86(2)(a).
+  (a) waiving the requirement to hold a visa permitting travel to New Zealand in relation to any class of persons, in accordance with section 69(2)⁠(a):
+  (b) suspending, under section 69(2)⁠(b), a visa waiver made in accordance with section 69(1):
+  (c) classifying persons to whom a transit visa waiver applies, in accordance with section 86(4)⁠(a):
+  (d) suspending, under section 86(4)⁠(b), a transit visa waiver made in accordance with section 86(2)⁠(a).
 (3) A special direction comes into force on the day on which it is made, or any later date specified in the direction.
 (4) Where a special direction is given orally, the chief executive or immigration officer must as soon as possible make a written record of the content and date of the direction.
 (5) A special direction may be subject to such conditions as the Minister thinks fit.
@@ -4920,7 +5087,7 @@ Any decision made, or discretion exercised, under this Act by an immigration off
   (a) this power of delegation; and
   (b) the power to certify immigration instructions under section 22; and
   (c) the powers referred to in section 33(1) and (2) (which relate to the use of classified information); and
-  (d) the power to make a special direction under section 69(2)(a) or (b) (which relates to waiving the requirement for classes of persons to hold a visa permitting travel to New Zealand); and
+  (d) the power to make a special direction under section 69(2)⁠(a) or (b) (which relates to waiving the requirement for classes of persons to hold a visa permitting travel to New Zealand); and
   (e) the power to make a special direction under section 86(4) in relation to transit visas; and
   (f) the power to certify under section 163(1) that a person constitutes a threat or risk to security; and
   (g) the power to make a decision of a kind referred to in section 139 or 199 in relation to a protected person who has committed certain crimes or been guilty of certain acts.
@@ -4936,7 +5103,7 @@ Any decision made, or discretion exercised, under this Act by an immigration off
 ### 381 Chief executive may approve forms
 (1) The chief executive may approve and issue application forms and any other forms that the chief executive considers necessary for the purposes of this Act, not being forms prescribed or to be prescribed by regulations made under this Act.
 (2) Every document purporting to be in a form approved and issued by the chief executive under and for the purposes of this Act is deemed to have been so approved and issued unless the chief executive, an immigration officer, or a refugee and protection officer otherwise certifies.
-(3) The chief executive referred to in clause 5(2) of Schedule 2 may approve and issue forms relating to appeals—
+(3) The chief executive referred to in clause 5(2) of Schedule 2 may approve and issue forms relating to appeals or matters (as defined in section 183) in the Tribunal—
   (a) that he or she considers necessary for the purposes of this Act; and
   (b) for which no forms are currently prescribed.
 (4) Every document purporting to be in a form approved and issued by the chief executive referred to in clause 5(2) of Schedule 2 under this section is deemed to have been so approved and issued unless that chief executive otherwise certifies.
@@ -4985,40 +5152,66 @@ Any decision made, or discretion exercised, under this Act by an immigration off
 
 **Notice requirements and addresses for communications**
 
-### 386 Giving notice, service of notice, etc
+### 386 Serving and giving notices, etc, to Minister and officers
 (1) If under this Act any notice or other document is to be served on or supplied to the Minister, it must be delivered to the Minister’s office or to an immigration officer at an office of the Department.
 (2) If under this Act any notice or other document is to be served on or supplied to an immigration officer or a refugee and protection officer, it must be delivered personally to an immigration officer or a refugee and protection officer or sent by registered post to an immigration officer or a refugee and protection officer at an office of the Department.
-(3) If under this Act any document is to be served on or supplied to any other person, or the person is to be notified of any decision, matter, or other thing, the document must be served on or supplied to the person, or the notification must be given in writing,—
-  (a) by personal service; or
-  (b) by registered post addressed to the person at the person's New Zealand address; or
-  (c) by service on the person's lawyer or agent in accordance with subsection (4); or
-  (d) at the address supplied under section 57(2), if it relates to an application for a visa.
-(4) If a lawyer or agent represents that he or she is authorised to accept service of any notice or document on behalf of any person, it is sufficient service to deliver the notice or document to the lawyer or agent if he or she signs a memorandum stating that he or she accepts service of the notice or document on behalf of the person.
-(5) If under this Act any notice or other document is to be given to, served on, or supplied to the holder of any temporary entry class visa, or any person who is, or is believed to be, unlawfully in New Zealand, by registered post addressed to that person’s New Zealand address, the notice or other document is treated as having been given to, served on, or received by the person 7 days after the date on which it was posted.
-(6) Except in a case to which subsection (5) applies, if under this Act any notice or other document is to be given to, served on, or supplied to any person in New Zealand by registered post, the notice or other document is treated as having been given, served on, or received by that person 7 days after the date on which it was posted unless the person proves that, otherwise than through fault on the person’s part, the notice or other document was not so given, served, or received.
-(7) If a notice or other document is to be given to, served on, or supplied to a person by registered post addressed to an address supplied under section 57(2) and that address is outside New Zealand, the notice or document must be treated as having been given to, served on, or received by the person 14 days after the date on which it was posted unless the person proves that, otherwise than through fault on the person's part, the notice or other document was not so given, served, or received.
+(3)
+(4)
+(5)
+(6)
+(7)
 (8) This section applies unless a provision in this Act expressly provides otherwise.
 
-### 387 New Zealand address
-(1) In this Act, New Zealand address, in relation to a person who holds a visa and is in New Zealand, means the last known of the following addresses:
-  (a) the address for the time being nominated by the person under section 57(2), if that address is within New Zealand:
-  (b) the address for the time being nominated by the person under section 110 (or under section 37 of the former Act):
-  (c) if applicable, the person's New Zealand address within the meaning of subsection (2), (3), (4), (5), or (6).
-(2) In this Act, New Zealand address, in relation to a person who is a claimant under Part 5, means the last known of the following addresses:
-  (a) the latest address supplied by the person under section 133(5) (or under section 129G(4) of the former Act):
-  (b) if applicable, the person's New Zealand address within the meaning of subsection (1), (3), (4), (5), or (6).
-(3) In this Act, New Zealand address, in relation to a person who has appealed to the Tribunal under Part 7, means the last known of the following addresses:
-  (a) the address supplied to the Tribunal under section 225(2)(a)(i):
-  (b) if applicable, the person's New Zealand address within the meaning of subsection (1), (2), (4), (5), or (6).
-(4) In this Act, New Zealand address, in relation to a person who is subject to any residence or reporting requirement under section 315 or 320, means the last known of the following addresses:
-  (a) the address at which the person has currently agreed or been required to reside under the section concerned:
-  (b) if applicable, the person's New Zealand address within the meaning of subsection (1), (2), (3), or (6).
-(5) In this Act, New Zealand address, in relation to a person who is in custody under Part 9 (or pursuant to a warrant of commitment issued under the former Act), means the last known of the following addresses:
-  (a) the place where the person is held in custody:
-  (b) if applicable, the person's New Zealand address within the meaning of subsection (6).
-(6) In this Act, New Zealand address, in relation to a person under 18 years of age who is named in a deportation liability notice and is not married or in a civil union, means,—
-  (a) if the person is named as a dependent child of another person named in the notice, the New Zealand address of the other person:
-  (b) if a responsible adult has been determined or nominated under section 375 (or under section 141B of the former Act), to represent the person's interests, the latest address supplied by the responsible adult under section 375(7) (or under section 141B(7) of the former Act).
+### 386A Serving and giving notices, etc, to other people
+(1) This section applies where, under this Act or any regulations made under it, a notice or other document is required to be served on, or supplied, notified, or in any other way given to, a person other than a person referred to in section 386(1) or (2).
+(2) A notice or other document that is required to be served on a person must be in writing and must be served by—
+  (a) personal service on the person; or
+  (b) sending it by registered post to the person's address for service; but if the address for service is the address of a lawyer or agent, service is effected only if the lawyer or agent signs a memorandum stating that he or she accepts service of the notice or document on behalf of the person.
+(3) If a notice or other document is required to be supplied, notified, or in any other way given to a person, the notice or other document must be in writing and must be either given to the person personally or sent to the person's contact address, in which case,—
+  (a) if the address is a physical address, it must be sent by registered post to that address; and
+  (b) if the address is an electronic address, it must be sent by electronic means to that address.
+(4) A notice or document served or sent by registered post is deemed to be received by the person to whom it is addressed,—
+  (a) if the address is in New Zealand, 7 days after the date on which it was sent; and
+  (b) if the address is outside New Zealand, 14 days after the date on which it was sent.
+(5) A notice or other document sent to an electronic address is deemed to be received by the person to whom it is addressed 3 working days after the date on which it was sent.
+(6) Subsection (4) applies unless the intended recipient proves that he or she did not receive the notice or document and the failure to receive it was not a result of fault on his or her part, and—
+  (a) he or she is—
+    (i) the holder of a residence class visa; or
+    (ii) a person described in section 187(1)⁠(a) to (c); or
+  (b) the address to which the notice or document was sent is an address outside New Zealand.
+
+### 387 Address for service
+(1) A person's address for service is, unless any of subsections (2) to (4) apply, either of the following provided by the person:
+  (a) the person's physical address (whether in or outside New Zealand):
+  (b) a physical address in New Zealand of a lawyer or other person who is acting as an agent for the person and is authorised by the person to accept service on his or her behalf.
+(2) If the address provided by a person as his or her address for service is known not to be an address at which service can properly be effected, and if subsections (3) and (4) do not apply, the person's address for service is the person's contact address, if that address is a postal address.
+(3) If a person is under 18 years of age and is not married or in a civil union, the person's address for service is,—
+  (a) if, in the notice or other document that is being sent, the person is named as a dependent child of another person, the address for service of that other person; or
+  (b) if a responsible adult has been determined or nominated under section 375 (or under section 141B of the former Act) to represent the person's interests, the address supplied by the responsible adult under section 375(7) (or under section 141B of the former Act).
+(4) If a person is detained in custody or is required under an enactment to reside at a particular address, and if subsection (3) does not apply, the person's address for service is the postal address of the place where the person is detained or required to reside.
+(5) A person who has provided an address for service may at any time substitute a different address for service by giving written notice of the new address to an immigration officer, a refugee and protection officer, or the Tribunal, as the case requires.
+(6) Subsection (7) applies if the latest address provided by a person was provided before section 97 of the Immigration Amendment Act 2015 came into force.
+(7) Despite subsection (1), the person's address for service is the person’s New Zealand address (within the meaning of the Act as in force before section 97 of the Immigration Amendment Act 2015 came into force), unless any of subsections (2) to (4) applies.
+
+### 387A Contact address
+(1) A person's contact address is whichever of the following addresses the person has designated as his or her contact address, unless any of subsections (2) to (4) applies:
+  (a) the person's postal address:
+  (b) an electronic address for the person:
+  (c) the postal address or electronic address of a lawyer or other person who is acting as an agent for the person.
+(2) If a person's designated contact address is known not to be an address at which the person can be contacted, and if subsections (3) and (4) do not apply, the person's contact address is whichever of the following addresses is considered most likely to be the address at which the person can be contacted:
+  (a) any other address referred to in subsection (1) that has been provided by the person:
+  (b) any address for the person that is obtained, after this section comes into force, as a result of the exercise by an immigration officer or constable of any of the powers under section 274, 276, 277, 278, or 280.
+(3) If a person is under 18 years of age and is not married or in a civil union, the person's contact address is,—
+  (a) if, in the notice or other document that is being sent, the person is named as a dependent child of another person, the contact address of that other person; or
+  (b) if a responsible adult has been determined or nominated under section 375 (or under section 141B of the former Act) to represent the person's interests, the address supplied by the responsible adult under section 375(7) (or under section 141B of the former Act).
+(4) If a person is detained in custody or is required under an enactment to reside at a particular address, and if subsection (3) does not apply, the person's contact address is the postal address of the place where the person is detained or required to reside.
+(5) If a person's contact address is an electronic address, the person is deemed to have consented to receive at that address all notices or other documents required to be supplied, notified, or in any other way given to the person, but only if the person provides the address after this section comes into force.
+(6) A person who has designated an address as a contact address may at any time substitute a different contact address by written notice to an immigration officer, a refugee and protection officer, or the Tribunal, as the case requires.
+(7) Subsection (8) applies if the latest address provided by a person was provided before section 97 of the Immigration Amendment Act 2015 came into force.
+(8) Despite subsection (1), the person's contact address is the person’s New Zealand address (within the meaning of the Act as in force before section 97 of the Immigration Amendment Act 2015 came into force), unless any of subsections (2) to (4) applies.
+
+### 387B Departures from sections 386A to 387A
+Sections 386A to 387A are default rules that apply subject to any other provision of this Act, or any regulations made under it, that provide requirements for the manner of service or giving of notices and other documents in specific situations or circumstances.
 
 **Immigration officers and refugee and protection officers**
 
@@ -5031,11 +5224,11 @@ Any decision made, or discretion exercised, under this Act by an immigration off
 (2) The chief executive must specify which functions and powers an immigration officer is authorised to exercise under this Act, and an officer may not perform any functions or exercise any powers under this Act unless specifically authorised by the chief executive.
 (3) An immigration officer authorised to exercise 1 or more of the following powers must be issued with a warrant of designation, signed by the chief executive, specifying which of those powers the officer may exercise:
   (a) the power to deport a person under section 178:
-  (b) the power of entry and inspection under sections 276, 277, and 278:
-  (c) the powers under sections 279, 280, 281, and 288 to require information or documents for the purpose of ensuring compliance with this Act:
-  (d) the powers under sections 282, 283, 284, and 285 at a border:
+  (b) the power of entry and inspection under sections 276, 277, 277A, and 278:
+  (c) the powers under sections 279, 280, 281, 281A, and 281B to require information or documents for the purpose of ensuring compliance with this Act:
+  (d) the powers under sections 282, 283, 284, 285, and 285A at a border:
   (e) the power of entry and search under section 286:
-  (f) the power to obtain certain information pending a person's deportation under section 287:
+  (f) the power to require biometric information, special biometric information, or both under section 288:
   (g) the power to detain a person under section 312.
 (4) A warrant is sufficient evidence of the officer’s designation as an immigration officer, and the officer’s authorisation to perform the functions and exercise the powers specified in it.
 (5) To avoid doubt, the chief executive need not be issued with a warrant of designation, and may perform or exercise all the powers and functions of an immigration officer under this Act.
@@ -5044,7 +5237,7 @@ Any decision made, or discretion exercised, under this Act by an immigration off
   (a) must produce his or her warrant of designation; and
   (b) if called upon to do so, must state the provision or provisions of this Act under which he or she is entitled to enter the premises, building, or craft or exercise a power of detention.
 (8) An immigration officer (including a constable exercising the powers of an immigration officer) who, in exercising a power described in subsection (3), orally makes a request, requirement, or demand of a person must also produce his or her warrant of designation if called upon to do so by the person.
-(9) It is sufficient compliance with subsections (7)(a) and (8) if, in the case of a constable, he or she is in uniform or produces his or her badge or other evidence of being a constable.
+(9) It is sufficient compliance with subsections (7)⁠(a) and (8) if, in the case of a constable, he or she is in uniform or produces his or her badge or other evidence of being a constable.
 
 ### 389 Immigration officers’ functions and powers
 (1) An immigration officer may be authorised to perform or exercise individual functions and powers, or functions and powers of 1 or more classes.
@@ -5057,7 +5250,7 @@ Any decision made, or discretion exercised, under this Act by an immigration off
 ### 390 Designation of refugee and protection officers
 (1) The chief executive may designate as refugee and protection officers the persons employed in the Department that the chief executive considers necessary for the purposes of this Act.
 (2) A person designated as a refugee and protection officer may perform all the functions and exercise all the powers of a refugee and protection officer.
-(3) Subsection (2) is subject to section 33(2)(b).
+(3) Subsection (2) is subject to section 33(2)⁠(b).
 
 ### 391 Revocation or lapsing of designations
 (1) Every designation by the chief executive of a person as an immigration officer or a refugee and protection officer, or for any other purpose under this Act, is revocable in writing at will.
@@ -5081,8 +5274,8 @@ Any decision made, or discretion exercised, under this Act by an immigration off
     (i) the content or application of this Act or any regulations made under this Act; or
     (ii) the content or application of any immigration instructions made in accordance with section 22:
   (b) the Human Rights Commission may not, in relation to any matter referred to in paragraph (a),—
-    (i) bring any proceedings of a kind referred to in section 5(2)(i) of the Human Rights Act 1993; or
-    (ii) exercise in relation to any proceedings the powers conferred by section 5(2)(j) of that Act (which relates to applications to a court or tribunal to be appointed as intervener or counsel, or taking part in proceedings in any other way).
+    (i) bring any proceedings of a kind referred to in section 5(2)⁠(i) of the Human Rights Act 1993; or
+    (ii) exercise in relation to any proceedings the powers conferred by section 5(2)⁠(j) of that Act (which relates to applications to a court or tribunal to be appointed as intervener or counsel, or taking part in proceedings in any other way).
 (3) This section recognises that immigration matters inherently involve different treatment on the basis of personal characteristics.
 
 **Fees, bonds, levies, etc**
@@ -5095,7 +5288,8 @@ Any decision made, or discretion exercised, under this Act by an immigration off
     (iii) whether or not any other fee is payable in respect of some other aspect of the same matter:
     (iv) whether or not it relates to a visa, special direction, waiver, or other exercise of powers under this Act:
   (b) the regulations may prescribe any manner in which fees may or may not be payable:
-  (c) the regulations may prescribe to whom the fees or charges are payable and, in the case of any fees or charges payable to the Department, may provide for, or allow, the fee or charge to be payable to a third person on behalf of the Department.
+  (c) the regulations may prescribe to whom the fees or charges are payable and, in the case of any fees or charges payable to the Department, may provide for, or allow, the fee or charge to be payable to a third person on behalf of the Department:
+  (d) the regulations may prescribe fees payable by a third party (not being an applicant for, or a holder of, a visa or entry permission) in connection with a status or approval that, under the immigration instructions, the third party requires, or wishes to obtain or keep, where that status or approval is relevant to applicants for a visa or entry permission.
 (2) Fees may apply to an individual person or application, or to a group of persons or applications, or otherwise.
 (3) Fees may not be imposed on claimants for any matter relating to refugee status or protection status.
 (4) Fees may be prescribed in a way, or at a level or levels, or using 1 or more methods of calculation, that reflects the variable nature of the costs or potential costs that give rise to the need for each fee, and the range of factors that influence those costs.
@@ -5115,7 +5309,7 @@ Any decision made, or discretion exercised, under this Act by an immigration off
   (a) a fee may be set in New Zealand dollars or in a foreign currency; and
   (b) if the fee is set in New Zealand dollars, the method of determining the amount payable at any time in currency other than New Zealand dollars is to be determined by the chief executive.
 (9) A fee may also be required by the regulations in question to be paid in New Zealand dollars only.
-(10) All fees prescribed under this Act and received by the Department or any other government department must be paid into a Crown Bank Account.
+(10) All fees prescribed under this Act and received by the Department or any other government department must be paid into a Departmental Bank Account.
 
 ### 394 Other charges
 (1) Nothing in section 393 or 396 prevents the Department from charging persons for any of the services the Department provides in relation to the administration of this Act, other than services to which a fee applies under the other provisions of this Act.
@@ -5129,16 +5323,16 @@ Any decision made, or discretion exercised, under this Act by an immigration off
   (f) charge for access to any library or research services provided in relation to immigration, refugee, or protection matters:
   (g) charge any person for services requested by (and provided to) that person in relation to immigration matters, other than services provided in an immigration control area:
   (h) charge any person for the supply of forms to the person in quantity, where it is apparent that the forms are not for the person’s own personal use.
-(4) All such charges received by the Department must be paid into a Crown Bank Account.
-(5) Nothing in subsection (1) or (3)(g) authorises the charging of any person who operates a place that is, or contains, an immigration control area for services provided in relation to immigration or refugee or protection matters.
-(6) Nothing in subsection (3)(g) affects the ability to recover costs under section 398.
+(4) All such charges received by the Department must be paid into a Departmental Bank Account.
+(5) Nothing in subsection (1) or (3)⁠(g) authorises the charging of any person who operates a place that is, or contains, an immigration control area for services provided in relation to immigration or refugee or protection matters.
+(6) Nothing in subsection (3)⁠(g) affects the ability to recover costs under section 398.
 (7) If the Department is not the department referred to in clause 5 of Schedule 2, the department that is referred to in that clause may, in relation to appeals to or matters before the Tribunal,—
   (a) charge persons for the cost of mailing or couriering information to them (including information that is transcripts or recordings of hearings):
   (b) charge for the cost of transcripts and recordings of hearings, or copies of records and papers, of the Tribunal (unless the material is required by any enactment to be provided free of charge):
   (c) charge for access to any library or research services provided in relation to immigration, refugee, or protection matters:
   (d) charge a person for the supply of forms to the person in quantity, if it is apparent that the forms are not for the person's own personal use:
   (e) charge for the reasonable costs of providing any other service associated with an appeal or matter before the Tribunal.
-(8) All charges received by a department under subsection (7) must be paid into a Crown Bank Account.
+(8) All charges received by a department under subsection (7) must be paid into a Departmental Bank Account.
 
 ### 395 Exemptions and refunds
 (1) Regulations made under this Act may provide for exemptions from or refunds of any fee or charge payable under this Act, in whole or in part, in any class of case.
@@ -5181,14 +5375,14 @@ Any decision made, or discretion exercised, under this Act by an immigration off
   (b) that person has in New Zealand a spouse, civil union partner, de facto partner, or dependent child; and
   (c) the Minister is satisfied that the effect of the deportation or repatriation has been or will be to separate the person from the spouse, partner, or dependent child.
 (3) The Minister may provide the person or the person’s spouse or partner with such assistance as the Minister thinks fit for the purpose of reuniting the spouse, partner, or dependent child with the person in the country to which the person has been or is to be deported or repatriated, and any such assistance may include the grant of a sum out of a Crown Bank Account to meet all or part of the travelling or other costs that will be incurred in any such exercise.
-(4) The following costs incurred by the Crown in deporting or repatriating a person are recoverable as a debt due to the Crown:
-  (a) the actual or estimated costs incurred in deporting the person that a deportation order specifies as requiring to be repaid:
-  (b) the actual costs incurred in repatriating a person:
-  (c) any sum fixed by a court on application under subsection (5).
-(5) The Minister or an immigration officer may, at any time before a person is deported or repatriated from New Zealand, apply to a court of competent jurisdiction to fix a sum that in the opinion of the court represents any reasonable costs incurred or likely to be incurred by the Crown in deporting or repatriating the person, and the sum is recoverable as a debt due to the Crown by the person.
-(6) For the purposes of this section, the costs incurred or likely to be incurred in deporting or repatriating a person include the following costs pending the person’s deportation or repatriation from New Zealand:
-  (a) the costs of locating, detaining, and maintaining the person; and
-  (b) travel costs for the person.
+(4) The costs incurred by the Crown in deporting or repatriating a person are recoverable as a debt due to the Crown, and those costs include (without limitation) costs incurred—
+  (a) in locating, detaining, transporting, and maintaining the person pending his or her deportation or repatriation; and
+  (b) in paying for travel for the person outside New Zealand.
+(5) The costs recoverable by the Crown may be the actual costs (determined after the deportation or repatriation has been effected), or an estimate of those costs determined by,—
+  (a) in the case of deportation costs only, an immigration officer, in which case the estimate must be noted on the deportation order along with a statement requiring those costs to be paid; or
+  (b) in the case of either deportation costs or repatriation costs, a court of competent jurisdiction, on application by the Minister or an immigration officer.
+(6) Where the estimated costs of deportation or repatriation are recovered from a person, if the amount recovered exceeds the actual costs of the deportation or repatriation, the excess must, on application by the person in the prescribed manner, be refunded to the person.
+(6A) If the person deported or repatriated is under 18 years of age and not married or in a civil union, the costs of his or her deportation or repatriation are recoverable from the person's parent or guardian.
 (7) Any costs recovered under this section must be paid into a Crown Bank Account.
 (8) Nothing in this section or in section 55, 118, or 355 authorises the Crown to recover any particular cost more than once.
 
@@ -5214,6 +5408,7 @@ Any decision made, or discretion exercised, under this Act by an immigration off
 ### 400 Regulations generally
 The Governor-General may, by Order in Council, make regulations for 1 or more of the following purposes:
   (a) prescribing the manner of application and any procedural matters in relation to any applications for visas or other applications under this Act:
+  (ab) providing that the chief executive may require that certain applications for visas must be made electronically, in which case the chief executive must maintain a list of such requirements and the regulations must prescribe how that list is to be publicly available:
   (b) prescribing other matters in respect of visas or expressions of interest, including matters provided for in section 401:
   (c) prescribing requirements and procedures in respect of arrivals in and departures from New Zealand, including matters provided for in section 402:
   (d) prescribing procedures to be followed for the purposes of Part 5, or such other matters as are contemplated by or necessary for giving full effect to the Refugee Convention, including matters provided for in section 403:
@@ -5226,9 +5421,10 @@ The Governor-General may, by Order in Council, make regulations for 1 or more of
     (iii) in the case of a person in charge of a craft, may not exceed $2,500; and
     (iv) in the case of a carrier of a craft, may not exceed $5,000:
   (i) prescribing forms for the purposes of this Act, including the form of infringement notices and infringement offence reminder notices:
-  (j) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made for the purposes of this Act, and the maximum amounts of fines that may be imposed in respect of those offences (which maximum amounts may not exceed $2,000):
+  (j) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made for the purposes of this Act, and the maximum amounts of fines that may be imposed in respect of those offences (which maximum amounts may not exceed $5,000):
   (k) providing for transitional and related matters, as provided in section 472:
-  (l) exempting classes of persons from the requirement to allow biometric data to be collected from them:
+  (ka) providing requirements, which may differ from the requirements of sections 386A to 387A, for the manner of service or giving of notices and other documents in specific situations or circumstances:
+  (l) exempting classes of persons from the requirement to allow biometric information to be collected from them:
   (m) providing for such other matters as are contemplated by or necessary for giving effect to the provisions of this Act and for its due administration.
 
 ### 401 Regulations relating to visas and expressions of interest
@@ -5243,11 +5439,13 @@ Without limiting section 400, regulations made under that section may—
 
 ### 402 Regulations relating to procedures and requirements in relation to arrivals in and departures from New Zealand
 Without limiting the generality of section 400, regulations made under that section may—
-  (a) prescribe the information that must be obtained for the purposes of section 96(2)(a) from every person who intends to board a commercial craft for the purposes of travelling to New Zealand:
-  (b) prescribe the information that must be provided to the chief executive for the purposes of section 96(2)(b):
+  (a) prescribe the information that must be obtained for the purposes of section 96(2)⁠(a) from every person who intends to board a commercial craft for the purposes of travelling to New Zealand:
+  (b) prescribe the information that must be provided to the chief executive for the purposes of section 96(2)⁠(b), which may include, without limitation,—
+    (i) a description of the location of the information prescribed for the purposes of section 102(2); and
+    (ii) if applicable, the electronic address for the information referred to in subparagraph (i):
   (c) exempt carriers, and persons in charge, of craft from any of the obligations under section 101 in relation to craft en route to or arriving in New Zealand, and specify any requirements that apply in relation to an exemption:
-  (d) prescribe the documentation that persons en route to New Zealand must have for the purposes of section 101(1)(a):
-  (e) prescribe the documents that may be required to be produced to an immigration officer under section 101(1)(b)(i):
+  (d) prescribe the documentation that persons en route to New Zealand must have for the purposes of section 101(1)⁠(a):
+  (e) prescribe the documents that may be required to be produced to an immigration officer under section 101(1)⁠(b)⁠(i):
   (f) prescribe the information that must be provided for the purposes of section 102(2):
   (g) prescribe the manner and place in which, and the time within which, a person must present himself or herself on arrival in New Zealand:
   (h) exempt persons arriving in New Zealand from any of the obligations under section 103, and specify any requirements that apply in relation to an exemption:
@@ -5257,7 +5455,7 @@ Without limiting the generality of section 400, regulations made under that sect
   (l) exempt New Zealand citizens from the requirement to allow a photograph to be taken in any class of case:
   (m) prescribe documents that may be demanded by an immigration officer for the purposes of section 106:
   (n) exempt carriers, and persons in charge, of craft from any of the obligations under section 118 in relation to craft leaving New Zealand, and specify any requirements that apply in relation to an exemption:
-  (o) prescribe classes of persons in respect of whom details must be reported for the purposes of section 118(1)(c):
+  (o) prescribe classes of persons in respect of whom details must be reported for the purposes of section 118(1)⁠(c):
   (p) exempt persons leaving New Zealand from any of the obligations under section 119, and specify any requirements that apply in relation to an exemption:
   (q) prescribe the place at which a person leaving New Zealand must present himself or herself:
   (r) prescribe the information and documentation required from persons leaving New Zealand.
@@ -5265,7 +5463,7 @@ Without limiting the generality of section 400, regulations made under that sect
 ### 403 Regulations in respect of refugee and protection matters
 (1) Without limiting the generality of section 400, regulations made under that section may, in relation to refugee and protection matters,—
   (a) specify the manner in which any claim, appeal, or application is to be made:
-  (b) provide for the manner of service of notices and documents, which may differ from the requirements of section 386, and provide for when they will be treated as having been received:
+  (b)
   (c) provide for the availability and use of interpreters:
   (d) provide for matters relating to communications with claimants or other persons concerned:
   (e) specify the information that must be supplied to claimants or other persons concerned, including information concerning their rights and concerning procedures under Part 5:
@@ -5280,14 +5478,22 @@ Without limiting the generality of section 400, regulations made under that sect
     (ii) common circumstances or common characteristics of the claimants making the claims:
   (l) provide for any special matters relating to the handling of claims, appeals, or other matters when the claimant or other person concerned is in custody:
   (m) specify the procedures to be followed in relation to claims, appeals, and other matters not completed before the commencement of this section.
-(2) No regulations may be made under section 400 in respect of the matters specified in subsection (1)(ka) of this section unless the Minister—
+(2) No regulations may be made under section 400 in respect of the matters specified in subsection (1)⁠(ka) of this section unless the Minister—
   (a) has recommended the making of the regulations to the Governor-General; and
   (b) before doing so, is satisfied that the regulations are necessary for 1 or both of the following reasons:
     (i) there are problems in accessing information or assessing information that is relevant to determining or making a decision on the claims to be specified in the regulations:
     (ii) the circumstances to which the claims to be specified in the regulations relate, or the circumstances of the claimants making those claims, are otherwise of a nature, or subject to such a degree of change or uncertainty, that determination or decision of the claims under sections 136 to 138 is unlikely to produce a robust outcome.
-(3) Regulations made under section 400 in respect of the matters specified in subsection (1)(ka) of this section—
+(3) Regulations made under section 400 in respect of the matters specified in subsection (1)⁠(ka) of this section—
   (a) are deemed to be revoked on the date that is 6 months after their commencement or on any earlier date specified in the regulations; and
   (b) have no continuing effect after the date on which they expire.
+
+### 403A Regulations made on recommendation of Minister
+(1) Regulations made under this Part may be made only on the recommendation of the Minister, except as provided in subsection (2).
+(2) Any regulations made under the following provisions may, if they relate to appeals or other matters in the Tribunal, be made only on the recommendation of the Minister for Courts, after consultation with the Minister:
+  (a) section 400(d):
+  (b) section 400(e):
+  (c) section 400(f):
+  (d) section 400(i).
 
 ## Part 12 — Repeals, transitional provisions, saving provisions, and related matters
 
@@ -5354,7 +5560,7 @@ On and from the commencement of section 404 of this Act, general instructions gi
 **Existing applications, expressions of interest, and invitations**
 
 ### 412 Existing applications for visas and permits
-(1) An application for a visa or a permit of a type described in the first column of the following table (the former type) that was made under the former Act but not determined before the commencement of section 404 of this Act must be treated as an application made under this Act for a visa of the type described opposite the former type in the second column of the following table:Application under former ActTo be treated as application under this ActResidence visaResident visa (but determined in accordance with the Government residence policy in force at the time the application was made under the former Act)Residence permitResident visa (but determined in accordance with the Government residence policy in force at the time the application was made under the former Act)Temporary visaTemporary visaWork permitTemporary visa that allows the holder to work in New Zealand (including the territorial sea) or the exclusive economic zone of New ZealandStudent permitTemporary visa that allows the holder to study in New ZealandVisitor permitTemporary visa that does not allow the holder to work in New Zealand (including the territorial sea) or the exclusive economic zone of New Zealand or study unless the conditions of the permit granted under the former Act allow work or studyLimited purpose visaLimited visaLimited purpose permitLimited visaTransit visaTransit visaTemporary permit to which section 27A of the former Act appliedLimited visa to which section 83 appliesReturning resident visa by person other than New Zealand citizenVariation of travel conditions of resident visa under section 51Returning resident visa by New Zealand citizenEndorsement under section 384(4)
+(1) An application for a visa or a permit of a type described in the first column of the following table (the former type) that was made under the former Act but not determined before the commencement of section 404 of this Act must be treated as an application made under this Act for a visa of the type described opposite the former type in the second column of the following table:The following table is small in size and has 2 columns. Column 1 is headed Application under former Act. Column 2 is headed To be treated as application under this Act.Application under former ActTo be treated as application under this ActResidence visaResident visa (but determined in accordance with the Government residence policy in force at the time the application was made under the former Act)Residence permitResident visa (but determined in accordance with the Government residence policy in force at the time the application was made under the former Act)Temporary visaTemporary visaWork permitTemporary visa that allows the holder to work in New Zealand (including the territorial sea) or the exclusive economic zone of New ZealandStudent permitTemporary visa that allows the holder to study in New ZealandVisitor permitTemporary visa that does not allow the holder to work in New Zealand (including the territorial sea) or the exclusive economic zone of New Zealand or study unless the conditions of the permit granted under the former Act allow work or studyLimited purpose visaLimited visaLimited purpose permitLimited visaTransit visaTransit visaTemporary permit to which section 27A of the former Act appliedLimited visa to which section 83 appliesReturning resident visa by person other than New Zealand citizenVariation of travel conditions of resident visa under section 51Returning resident visa by New Zealand citizenEndorsement under section 384(4)
 (2) For the purposes of subsection (1), this Act applies accordingly with any necessary modifications, unless—
   (a) expressly stated otherwise in the table; or
   (b) any special direction directs otherwise; or
@@ -5410,15 +5616,15 @@ Despite section 404 of this Act, an immigration officer may treat a returning re
 (1) This section applies to a person to whom section 125AA of the former Act applies if, before the commencement of section 404 of this Act,—
   (a) the chief executive made a request to the person for information under section 125AD of the former Act; and
   (b) the 24-hour period referred to in subsection (4) of that section had not expired.
-(2) The obligations under section 125AD(3) and (4) of the former Act continue to apply to the person until the end of the 24-hour period referred to in subsection (1)(b) as if those provisions had not been repealed by section 404 of this Act.
+(2) The obligations under section 125AD(3) and (4) of the former Act continue to apply to the person until the end of the 24-hour period referred to in subsection (1)⁠(b) as if those provisions had not been repealed by section 404 of this Act.
 (3) To avoid doubt, the chief executive may also request information from the person under section 102 of this Act if the craft in fact arrives after the commencement of section 404 of this Act.
 
 ### 421 Reporting obligations of carriers, and persons in charge, of craft leaving New Zealand
 (1) This section applies in respect of a person if,—
   (a) before the commencement of section 404 of this Act, the person was on board a craft when it arrived in New Zealand; and
-  (b) on arrival, the person was exempt under section 11(1)(c), (d), or (e) of the former Act from the requirement to hold a permit to be in New Zealand; and
+  (b) on arrival, the person was exempt under section 11(1)⁠(c), (d), or (e) of the former Act from the requirement to hold a permit to be in New Zealand; and
   (c) on or after the commencement of section 404 of this Act, the person is not aboard the craft when the craft is leaving New Zealand.
-(2) The obligations of the carrier, and the person in charge, of the craft to report to an immigration officer under section 118(1)(c) of this Act apply in respect of a person described in subsection (1) as if the person were a member of the crew or a person of a class prescribed for the purposes of that section, as the case may be.
+(2) The obligations of the carrier, and the person in charge, of the craft to report to an immigration officer under section 118(1)⁠(c) of this Act apply in respect of a person described in subsection (1) as if the person were a member of the crew or a person of a class prescribed for the purposes of that section, as the case may be.
 
 ### 422 Obligations of carriers of craft leaving New Zealand to provide passage
 (1) This section applies to a carrier of a craft if, before the commencement of section 404 of this Act,—
@@ -5426,13 +5632,13 @@ Despite section 404 of this Act, an immigration officer may treat a returning re
     (i) not being the holder of a visa under the former Act, was on board the craft, or any other craft operated by the carrier, when it arrived in New Zealand and neither was exempt under that Act from the requirement to hold a permit nor was granted a permit or pre-cleared permit on or before arrival in New Zealand; or
     (ii) arrived in New Zealand as a member of the crew of the craft, or any other craft operated by the carrier, and, otherwise than in accordance with the former Act, remained in New Zealand after the departure of that craft; and
   (b) the person has not left New Zealand.
-(2) On and from the commencement of section 404 of this Act, the obligations of the carrier under section 118(2)(a) of this Act to provide passage from New Zealand at the cost in all respects of the carrier, or to bear the cost of passage from New Zealand by any other carrier, apply in respect of the person as if the person were a person described in section 118(2)(a) of this Act.
-(3) On and from the commencement of section 404 of this Act, the obligations of the carrier under section 118(2)(b) of this Act to pay all costs incurred by the Crown in detaining and maintaining a person pending the person’s departure from New Zealand apply in respect of a person described in subsection (1) as if the person were a person described in section 118(2)(a) of this Act, and regardless of whether the Crown incurred the costs before or after the commencement of section 404 of this Act.
+(2) On and from the commencement of section 404 of this Act, the obligations of the carrier under section 118(2)⁠(a) of this Act to provide passage from New Zealand at the cost in all respects of the carrier, or to bear the cost of passage from New Zealand by any other carrier, apply in respect of the person as if the person were a person described in section 118(2)⁠(a) of this Act.
+(3) On and from the commencement of section 404 of this Act, the obligations of the carrier under section 118(2)⁠(b) of this Act to pay all costs incurred by the Crown in detaining and maintaining a person pending the person’s departure from New Zealand apply in respect of a person described in subsection (1) as if the person were a person described in section 118(2)⁠(a) of this Act, and regardless of whether the Crown incurred the costs before or after the commencement of section 404 of this Act.
 
 ### 423 Responsibilities of carrier, and person in charge, of craft en route to New Zealand
-(1) On and from the commencement of section 404 of this Act, a demand by an immigration officer under section 125(2)(c) of the former Act for a list giving specified details that has not been complied with as at the date of that commencement must be treated for the purposes of this Act as a demand by an immigration officer for a list under section 101(2)(a) of this Act.
-(2) On and from the commencement of section 404 of this Act, information required by an immigration officer under section 125(2)(d) of the former Act that has not been provided as at the date of that commencement must be treated for the purposes of this Act as information required by an immigration officer under section 101(2)(b) of this Act.
-(3) For the purposes of this section, if a craft arrives, or is to arrive, in New Zealand otherwise than at a place that is or contains an immigration control area because of weather conditions or other unforeseen circumstances, the prescribed time referred to in section 101(1)(c) of this Act must be calculated including any time that has elapsed between the arrival of the craft and the commencement of section 404 of this Act.
+(1) On and from the commencement of section 404 of this Act, a demand by an immigration officer under section 125(2)⁠(c) of the former Act for a list giving specified details that has not been complied with as at the date of that commencement must be treated for the purposes of this Act as a demand by an immigration officer for a list under section 101(2)⁠(a) of this Act.
+(2) On and from the commencement of section 404 of this Act, information required by an immigration officer under section 125(2)⁠(d) of the former Act that has not been provided as at the date of that commencement must be treated for the purposes of this Act as information required by an immigration officer under section 101(2)⁠(b) of this Act.
+(3) For the purposes of this section, if a craft arrives, or is to arrive, in New Zealand otherwise than at a place that is or contains an immigration control area because of weather conditions or other unforeseen circumstances, the prescribed time referred to in section 101(1)⁠(c) of this Act must be calculated including any time that has elapsed between the arrival of the craft and the commencement of section 404 of this Act.
 
 **Refugee and protection status**
 
@@ -5465,11 +5671,11 @@ For the purposes of determining a claim (including a subsequent claim), or deter
 ### 428 Certain persons who under section 129L of former Act cease to be recognised as refugee liable for deportation under this Act
 (1) This section applies to a person if the person is not a New Zealand citizen and,—
   (a) before the commencement of section 404 of this Act,—
-    (i) a refugee status officer had determined under section 129L(1)(b) of the former Act that the person should cease to be recognised as a refugee and the person did not appeal against that determination within the time set out in section 129O(3) of the former Act (calculated including any time that has elapsed before the commencement of section 404 of this Act); or
-    (ii) a refugee status officer had determined under section 129L(1)(c) of the former Act that the person should be excluded from the protection of the Refugee Convention and the person did not appeal against that determination within the time set out in section 129O(3) of the former Act (calculated including any time that has elapsed before the commencement of section 404 of this Act); or
-    (iii) the Refugee Status Appeals Authority has ceased to recognise the person as a refugee or excluded the person from the protection of the Refugee Convention under section 129L(1)(f)(ii) or (iii) of the former Act; or
+    (i) a refugee status officer had determined under section 129L(1)⁠(b) of the former Act that the person should cease to be recognised as a refugee and the person did not appeal against that determination within the time set out in section 129O(3) of the former Act (calculated including any time that has elapsed before the commencement of section 404 of this Act); or
+    (ii) a refugee status officer had determined under section 129L(1)⁠(c) of the former Act that the person should be excluded from the protection of the Refugee Convention and the person did not appeal against that determination within the time set out in section 129O(3) of the former Act (calculated including any time that has elapsed before the commencement of section 404 of this Act); or
+    (iii) the Refugee Status Appeals Authority has ceased to recognise the person as a refugee or excluded the person from the protection of the Refugee Convention under section 129L(1)⁠(f)⁠(ii) or (iii) of the former Act; or
   (b) after the commencement of section 404 of this Act, the person ceases to be recognised as a refugee, or his or her refugee status is cancelled, by the Tribunal in accordance with section 448(5) of this Act.
-(2) On and from the commencement of section 404 of this Act or the date on which subsection (1)(b) applies, as the case may be, the person must be treated as being liable for deportation under section 162 of this Act, and this Act applies accordingly with any necessary modifications.
+(2) On and from the commencement of section 404 of this Act or the date on which subsection (1)⁠(b) applies, as the case may be, the person must be treated as being liable for deportation under section 162 of this Act, and this Act applies accordingly with any necessary modifications.
 (3) Despite subsection (2), the Tribunal must not determine whether the person is currently a refugee or a protected person in terms of sections 129 to 131 of this Act, if the person appeals against his or her liability for deportation.
 
 ### 429 Persons subject to section 129U of former Act
@@ -5502,7 +5708,7 @@ A person who, immediately before the commencement of section 404 of this Act, wa
 (4) Section 447 of this Act applies to any appeal by a person to whom subsection (1) applies if—
   (a) immediately before the commencement of section 404 of this Act, the person was eligible to appeal to an appeals body (other than the Refugee Status Appeals Authority) under the former Act; and
   (b) the person has not yet lodged an appeal.
-(5) If a person to whom subsection (1)(b) or (c) applies does not lodge an appeal, or is unsuccessful on appeal, the person may be removed or deported (as the case may be) from New Zealand, and—
+(5) If a person to whom subsection (1)⁠(b) or (c) applies does not lodge an appeal, or is unsuccessful on appeal, the person may be removed or deported (as the case may be) from New Zealand, and—
   (a) the removal or deportation must be effected as if it were a deportation being executed under this Act, and this Act applies accordingly with any necessary modifications; and
   (b) the person is liable for arrest and detention under Part 9 of this Act pending his or her deportation being executed.
 (6) For the purposes of this section, any time periods specified in the former Act must be calculated including any time that has elapsed before the commencement of section 404 of this Act.
@@ -5533,10 +5739,10 @@ A person who, immediately before the commencement of section 404 of this Act, wa
 (2) The person remains subject to the relevant conditions, and the former Act continues to apply in respect of that person’s release, until—
   (a) the person leaves New Zealand; or
   (b) in the case of a person to whom section 128AA of the former Act applies, the date on which the order for the person's conditional release from custody expires, or the occurrence of the event upon which it expires.
-(3) If subsection (2)(b) applies, the person must deliver himself or herself to an immigration officer at the location stated in the order, and an immigration officer may—
+(3) If subsection (2)⁠(b) applies, the person must deliver himself or herself to an immigration officer at the location stated in the order, and an immigration officer may—
   (a) detain the person under section 312 of this Act or cause the person to be arrested and detained under section 313 of this Act, and this Act then applies accordingly; or
   (b) agree to residence and reporting requirements under section 315 of this Act, and this Act then applies accordingly.
-(4) If subsection (2)(b) applies and the person fails to deliver himself or herself to an immigration officer as required, the person may be detained under section 312 of this Act or arrested and detained under section 313 of this Act, and this Act then applies accordingly.
+(4) If subsection (2)⁠(b) applies and the person fails to deliver himself or herself to an immigration officer as required, the person may be detained under section 312 of this Act or arrested and detained under section 313 of this Act, and this Act then applies accordingly.
 (5) To avoid doubt, an immigration officer may apply for a warrant of commitment or a further warrant of commitment under section 316 of this Act in respect of a person to whom this section applies.
 
 ### 436 Person subject to residence and reporting requirements under former Act
@@ -5615,7 +5821,7 @@ Section 323 of this Act applies to a person regardless of whether the person was
 (4) If the appeal has already been allocated to a member of an appeals body (other than the Deportation Review Tribunal), the matter must be completed by that member (and, for this purpose only, the member is deemed to be a member of the Tribunal and has all the powers and functions of a member of the Tribunal that are necessary to determine the appeal).
 (5) If the appeal has not been set down for hearing by the Deportation Review Tribunal or allocated to a member of an appeals body (other than the Deportation Review Tribunal), the appeal must be determined by a member of the Tribunal.
 (6) Subsections (3), (4), and (5) apply unless the chair of the Tribunal determines otherwise.
-(7) If, on completion of the appeal, the person concerned is entitled, under the former Act, to be issued with a visa or granted a permit of a type described in the first column of the following table, the person must be granted a visa under this Act of the corresponding type described in the second column of the following table:Visa to be issued or permit to be granted under former ActVisa to be granted under this ActResidence visaResident visa allowing travel to New ZealandResidence permitResident visa allowing stay in New ZealandTemporary permitTemporary visa
+(7) If, on completion of the appeal, the person concerned is entitled, under the former Act, to be issued with a visa or granted a permit of a type described in the first column of the following table, the person must be granted a visa under this Act of the corresponding type described in the second column of the following table:The following table is small in size and has 2 columns. Column 1 is headed Visa to be issued or permit to be granted under former Act. Column 2 is headed Visa to be granted under this Act.Visa to be issued or permit to be granted under former ActVisa to be granted under this ActResidence visaResident visa allowing travel to New ZealandResidence permitResident visa allowing stay in New ZealandTemporary permitTemporary visa
 
 ### 447 Persons eligible to appeal to appeals body (other than Refugee Status Appeals Authority) before former Act repealed
 (1) This section applies to any appeal by a person who,—
@@ -5625,7 +5831,7 @@ Section 323 of this Act applies to a person regardless of whether the person was
   (a) the person must lodge the appeal in accordance with the time frames specified for an appeal of that type under the former Act; and
   (b) the appeal must be determined by the Tribunal in accordance with the relevant provisions of the former Act; and
   (c) for that purpose, the Tribunal is deemed to have all the necessary powers and functions of the appeals body under the former Act.
-(3) If, on completion of the appeal, the person concerned is entitled, under the former Act, to be issued with a visa or granted a permit of a type described in the first column of the following table, the person must be granted a visa under this Act of the corresponding type described in the second column of the following table:Visa to be issued or permit to be granted under former ActVisa to be granted under this ActResidence visaResident visa allowing travel to New ZealandResidence permitResident visa allowing stay in New ZealandTemporary permitTemporary visa
+(3) If, on completion of the appeal, the person concerned is entitled, under the former Act, to be issued with a visa or granted a permit of a type described in the first column of the following table, the person must be granted a visa under this Act of the corresponding type described in the second column of the following table:The following table is small in size and has 2 columns. Column 1 is headed Visa to be issued or permit to be granted under former Act. Column 2 is headed Visa to be granted under this Act.Visa to be issued or permit to be granted under former ActVisa to be granted under this ActResidence visaResident visa allowing travel to New ZealandResidence permitResident visa allowing stay in New ZealandTemporary permitTemporary visa
 
 ### 448 Appeals and matters not determined by Refugee Status Appeals Authority before former Act repealed
 (1) Subsection (2) applies to the completion of an appeal lodged with the Refugee Status Appeals Authority under the former Act but not determined before the commencement of section 404 of this Act.
@@ -5633,13 +5839,13 @@ Section 323 of this Act applies to a person regardless of whether the person was
 (3) Subsection (2) applies—
   (a) whether the person concerned is or is not a New Zealand citizen; but
   (b) subject to subsections (7) and (8).
-(4) Subsection (5) applies to an application by a refugee status officer under section 129L(1)(f) of the former Act to the Refugee Status Appeals Authority made but not determined before the commencement of section 404 of this Act.
+(4) Subsection (5) applies to an application by a refugee status officer under section 129L(1)⁠(f) of the former Act to the Refugee Status Appeals Authority made but not determined before the commencement of section 404 of this Act.
 (5) The Tribunal must determine the application as if it were an application to the Tribunal under section 144 or 147 of this Act, as the case may be.
 (6) Subsection (5) applies—
   (a) whether the person concerned is or is not a New Zealand citizen; but
   (b) subject to subsections (7) and (8).
 (7) Subsection (8) applies if the appeal is in respect of a decision by a refugee status officer to refuse to consider a subsequent claim (within the meaning of section 129B of the former Act) on the grounds that the circumstances in the person concerned's home country have not changed to such an extent that the subsequent claim is based on significantly different grounds to a previous claim.
-(8) The Tribunal must determine the appeal in accordance with the relevant provisions of the former Act and, for that purpose, the Tribunal, in addition to its powers and functions under this Act, is deemed to have all the necessary powers and functions of the Refugee Status Appeals Authority. However, if the Tribunal determines that the subsequent claim should be considered, the Tribunal must then determine the matter as if it were an appeal to the Tribunal under section 194(1)(c) of this Act.
+(8) The Tribunal must determine the appeal in accordance with the relevant provisions of the former Act and, for that purpose, the Tribunal, in addition to its powers and functions under this Act, is deemed to have all the necessary powers and functions of the Refugee Status Appeals Authority. However, if the Tribunal determines that the subsequent claim should be considered, the Tribunal must then determine the matter as if it were an appeal to the Tribunal under section 194(1)⁠(c) of this Act.
 (9) If an appeal to which this section applies has already been allocated to a member of the Refugee Status Appeals Authority before the commencement of this section, the matter must be completed by that member and, for this purpose only, the member is deemed to be a member of the Tribunal and has all the powers and functions of a member of the Tribunal that are necessary to determine the appeal.
 (10) Subsection (9) applies unless the chair of the Tribunal determines otherwise.
 
@@ -5651,7 +5857,7 @@ Section 323 of this Act applies to a person regardless of whether the person was
   (a) lodged in accordance with the time frames specified for an appeal of that type under the former Act; but
   (b) determined by the Tribunal as if it were an appeal to the Tribunal under section 194(1) or 195, as the case may be.
 (3) Subsection (2) is subject to subsection (4).
-(4) If the person's appeal is in respect of a decision by a refugee status officer to refuse to consider a subsequent claim (within the meaning of section 129B of the former Act) on the grounds that the circumstances in the person's home country have not changed to such an extent that the subsequent claim is based on significantly different grounds to a previous claim, the Tribunal must determine the appeal in accordance with the relevant provisions of the former Act and, for that purpose, the Tribunal is, in addition to its powers and functions under this Act, deemed to have all the necessary powers and functions of the Refugee Status Appeals Authority. However, if the Tribunal determines that the subsequent claim should be considered, the Tribunal must then determine the matter as if it were an appeal to the Tribunal under section 194(1)(c) of this Act.
+(4) If the person's appeal is in respect of a decision by a refugee status officer to refuse to consider a subsequent claim (within the meaning of section 129B of the former Act) on the grounds that the circumstances in the person's home country have not changed to such an extent that the subsequent claim is based on significantly different grounds to a previous claim, the Tribunal must determine the appeal in accordance with the relevant provisions of the former Act and, for that purpose, the Tribunal is, in addition to its powers and functions under this Act, deemed to have all the necessary powers and functions of the Refugee Status Appeals Authority. However, if the Tribunal determines that the subsequent claim should be considered, the Tribunal must then determine the matter as if it were an appeal to the Tribunal under section 194(1)⁠(c) of this Act.
 
 ### 450 Appeals not determined by court before former Act repealed
 (1) Despite section 404 of this Act, an appeal lodged under the former Act with a court but not determined before the commencement of that section must be determined by the court in accordance with the relevant provisions of the former Act.
@@ -5694,7 +5900,7 @@ Any appeal against, or review proceedings in respect of, a decision of the Tribu
 **Offences, evidence, and classified information**
 
 ### 455 Offences
-(1) A person commits an offence against this Act under section 343(1)(d) whether the condition concerned was—
+(1) A person commits an offence against this Act under section 343(1)⁠(d) whether the condition concerned was—
   (a) imposed (or deemed to be imposed) under this Act; or
   (b) imposed under the former Act (whether as a requirement or a condition).
 (2) A person commits an offence against section 344(a) of this Act whether the document or information was required by an immigration officer—
@@ -5706,7 +5912,7 @@ Any appeal against, or review proceedings in respect of, a decision of the Tribu
   (a) an employer allowed a person to undertake employment in the employer’s service; and
   (b) at the time that the person commenced employment in the employer’s service, the employer had a reasonable excuse under section 39(1B) of the former Act for allowing the person to undertake that employment; and
   (c) the person is not entitled under this Act to undertake that employment.
-(2) No employer to whom subsection (1) applies is liable for an offence against section 350(1)(b) of this Act in respect of any period after the commencement of section 404 of this Act during which the employer continues to employ the employee, unless, at any time in the preceding 12 months, the employer has been informed in writing by an immigration officer (under either Act) that the employee is not entitled to undertake that employment.
+(2) No employer to whom subsection (1) applies is liable for an offence against section 350(1)⁠(b) of this Act in respect of any period after the commencement of section 404 of this Act during which the employer continues to employ the employee, unless, at any time in the preceding 12 months, the employer has been informed in writing by an immigration officer (under either Act) that the employee is not entitled to undertake that employment.
 
 ### 457 Evidence in proceedings
 In any proceedings relating to any matter under this Act, whether before the Tribunal or a court, a certificate signed by an immigration officer and containing a statement in relation to any person to the effect of 1 or more of the matters described in section 143(1) of the former Act is deemed to be proof of the truth of the statement, in the absence of proof to the contrary established on the balance of probabilities.
@@ -5737,6 +5943,7 @@ For the purposes of this Act, any person who has been nominated as a responsible
 (1) Despite section 462(1) of this Act, an immigration officer designated by the chief executive for the purpose of section 54 of the former Act—
   (a) may continue to make removal orders under that section if the making of an order is necessary for the purposes of completing any matter to which this Part applies; and
   (b) may continue to cancel removal orders under section 58 of the former Act if the cancelling of an order is necessary for the purposes of completing any matter to which this Part applies.
+(1A) Privacy principle 6 (which relates to access to personal information and is set out in section 6 of the Privacy Act 1993) does not apply to any reasons for any decision made by an immigration officer under section 58 of the former Act.
 (2) To avoid doubt, this section applies to an immigration officer only if his or her designation is current immediately before the commencement of section 404 of this Act.
 
 ### 464 Acts or things done by immigration officer under former Act not required to be repeated
@@ -5746,7 +5953,7 @@ For the purposes of completing any matter to which this Part applies, an immigra
 
 ### 465 Exercise of certain powers by customs officers
 (1) Despite section 2(2) of this Act, a customs officer undertaking immigration duties may exercise the powers in sections 283, 284, and 285 of this Act on and from the date referred to in section 2(4) of this Act until the date those sections are brought into force, and sections 283, 284, and 285 of this Act apply accordingly, as if references to an immigration officer were references to a customs officer.
-(2) It is sufficient compliance with section 327(1)(b) of this Act if the officer exercising powers in accordance with this section produces his or her identity card or other means of identification provided for in section 7 of the Customs and Excise Act 1996.
+(2) It is sufficient compliance with section 327(1)⁠(b) of this Act if the officer exercising powers in accordance with this section produces his or her identity card or other means of identification provided for in section 7 of the Customs and Excise Act 1996.
 
 ### 466 Exercise of certain powers by Police
 Despite section 2(2) of this Act, a constable may exercise the powers in sections 278 and 283 to 287 of this Act on and from the date referred to in section 2(4) of this Act, and this Act applies accordingly as if a reference to an immigration officer were a reference to a constable.
@@ -5767,7 +5974,7 @@ On and from the commencement of section 404 of this Act, a form approved under s
   (a) a person has supplied a written undertaking relating to the employment, accommodation, maintenance, or repatriation of an applicant for a visa or permit under the former Act (whether under section 28 of that Act or otherwise); and
   (b) the undertaking is in force immediately before the commencement of section 404 of this Act.
 (2) The undertaking must be treated as an undertaking to which section 55 of this Act applies, and this Act applies accordingly with any necessary modifications.
-(3) Despite subsection (2), nothing in section 55(3)(b) applies to an undertaking to which this section applies.
+(3) Despite subsection (2), nothing in section 55(3)⁠(b) applies to an undertaking to which this section applies.
 
 ### 471 Files of appeals bodies
 As from the commencement of this section, the department of State referred to in clause 5 of Schedule 2 is the owner of, and responsible for, all the files of the appeals bodies.
@@ -5806,11 +6013,11 @@ Immigration instructions certified under section 22 of this Act may make any app
   (f) to designate under section 383 places outside New Zealand where an immigration officer may grant entry permission to a person before the person travels to New Zealand:
   (g) to approve and issue forms under section 381(1):
   (h) to designate immigration officers under section 388(1) and authorise their functions and powers under that section and section 389:
-  (i) to designate refugee and protection officers under section 390(1) and, for each officer, designate whether he or she is an officer for the purposes of making decisions relying on classified information under section 33(2)(b).
+  (i) to designate refugee and protection officers under section 390(1) and, for each officer, designate whether he or she is an officer for the purposes of making decisions relying on classified information under section 33(2)⁠(b).
 (5) Despite section 2(1) of this Act, on and from the commencement of this section, the chief executive referred to in clause 5(2) of Schedule 2 may approve and issue forms under section 381(3).
 (6) Despite section 2(1) of this Act, on and from the commencement of this section, the chair of the Tribunal may undertake 1 or more of the matters described in section 220 of this Act.
-(7) Despite section 2(1) of this Act, on and from the commencement of this section, the chair of the Tribunal and the Attorney-General may agree on any general practices and procedures that may be necessary under section 260(1)(a) of this Act.
-(8) Despite section 2(1) of this Act, on and from the commencement of this section, the Chief Justice and the Attorney-General may agree on any general practices and procedures that may be necessary under section 260(1)(b) of this Act before that section comes into force or takes effect.
+(7) Despite section 2(1) of this Act, on and from the commencement of this section, the chair of the Tribunal and the Attorney-General may agree on any general practices and procedures that may be necessary under section 260(1)⁠(a) of this Act.
+(8) Despite section 2(1) of this Act, on and from the commencement of this section, the Chief Justice and the Attorney-General may agree on any general practices and procedures that may be necessary under section 260(1)⁠(b) of this Act before that section comes into force or takes effect.
 (9) Despite section 2(1) of this Act, on and from the commencement of this section, an agency designated by the Prime Minister under section 264(1) of this Act may recognise persons as special advocates.
 (10) Despite section 2(1) of this Act, on and from the commencement of this section, the chief executive of a department of State or other relevant person may make arrangements with the chief executive of the Department for the disclosure or exchange of information under sections 294 to 306 of this Act.
 (11) Subsections (1) to (10) apply as if the provision under which the power or function is exercised or performed and any other provision of this Act that relates to the provision that is not in force when the power or function is exercised or performed were in force when the power or function is exercised.
@@ -5851,7 +6058,7 @@ The following section is inserted after section 141A:Disclosure of information t
   (5) Where the chief executive discloses information under this section to an employer, the employer must be informed of the requirement to comply with the Privacy Act 1993 in relation to that information.
 
 ### 478 Interpretation
-The definition of fine in section 141AD is amended by adding the following paragraph:.
+The definition of fine in section 141AD is amended by adding the following paragraph:
   (d) any levy payable under the Sentencing Act 2002
 
 ## Schedule 1 — Convention Relating to the Status of Refugees
@@ -5995,7 +6202,7 @@ Nothing in sections 214 to 243 limits or affects any provision of the Immigratio
     (a) information concerning—
       (i) any person who the chief executive of the responsible department believes is unlawfully in New Zealand; or
       (ii) any person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type; and
-    (b) information that, in relation to any person described in paragraph (a)(i) or (ii), is as follows:
+    (b) information that, in relation to any person described in paragraph (a)⁠(i) or (ii), is as follows:
       (i) the person’s full name:
       (ii) any aliases known to be used by that person:
       (iii) the person’s date of birth:
@@ -6069,8 +6276,8 @@ The following apply to an offender released and deported under sections 55 and 5
 (1) This section applies to the holder of a limited visa (or further limited visa) granted in accordance with section 10 if—
   (a) an immigration officer is, under section 84(2) of the Immigration Act 2009 (as applied by section 10 of this Act), to give the holder a notice specifying an expiry date for the visa that is a date earlier than the latest date on which the visa will expire; or
   (b) the holder of the visa is determined to be liable for deportation under section 157(1) of the Immigration Act 2009 (as applied by section 10 of this Act).
-(2) In the situation in subsection (1)(a), the notice specifying an earlier expiry date for the visa may, despite section 84(2) of the Immigration Act 2009, specify an earlier expiry date that is a date (for example, the date upon which the notice is given to the holder) sooner than 14 days after the notice is given to the holder.
-(3) In the situation in subsection (1)(b), the deportation liability notice given under section 170 of the Immigration Act 2009 must notify the holder that the holder is immediately liable for deportation.
+(2) In the situation in subsection (1)⁠(a), the notice specifying an earlier expiry date for the visa may, despite section 84(2) of the Immigration Act 2009, specify an earlier expiry date that is a date (for example, the date upon which the notice is given to the holder) sooner than 14 days after the notice is given to the holder.
+(3) In the situation in subsection (1)⁠(b), the deportation liability notice given under section 170 of the Immigration Act 2009 must notify the holder that the holder is immediately liable for deportation.
 
 | Immigration Act 2009 | Sections 294, 295, 298, 299, and 300 |
 | --- | --- |
@@ -6084,16 +6291,16 @@ The following apply to an offender released and deported under sections 55 and 5
   (a) provide commercial sexual services; or
   (b) act as an operator of a New Zealand business of prostitution; or
   (c) invest in a New Zealand business of prostitution.
-(3) It is sufficient reason for the Minister of Immigration or an immigration officer to determine that a temporary entry class visa holder is liable for deportation under section 157 of the Immigration Act 2009 if the Minister or the officer believes, on reasonable grounds, that the holder is engaged in any of the things listed in subsection (2)(a) to (c) of this section.
+(3) It is sufficient reason for the Minister of Immigration or an immigration officer to determine that a temporary entry class visa holder is liable for deportation under section 157 of the Immigration Act 2009 if the Minister or the officer believes, on reasonable grounds, that the holder is engaged in any of the things listed in subsection (2)⁠(a) to (c) of this section.
 (4) Any conditions of a resident visa are deemed not to have been met and the resident is liable for deportation under section 159 of the Immigration Act 2009 if the Minister of Immigration or an immigration officer determines that the holder of a resident visa acts as an operator of, or invests in, a New Zealand business of prostitution.
 (5) This section applies to all visas and permits held and all requirements and conditions imposed under the Immigration Act 1987 or the Immigration Act 2009, whether granted or imposed before or after the commencement of this section.
 
 | Title of Act | Section of Act | Offence |
 | --- | --- | --- |
-| Immigration Act 2009 | 342(1)(b) | Using false or misleading document or information |
-|  | 343(1)(a) | Assisting person to be or remain unlawfully in New Zealand, or breach visa conditions |
-|  | 343(1)(b) | Assisting person to unlawfully enter New Zealand |
-|  | 343(1)(c) | Assisting completion of arrival document in false or misleading manner |
+| Immigration Act 2009 | 342(1)⁠(b) | Using false or misleading document or information |
+|  | 343(1)⁠(a) | Assisting person to be or remain unlawfully in New Zealand, or breach visa conditions |
+|  | 343(1)⁠(b) | Assisting person to unlawfully enter New Zealand |
+|  | 343(1)⁠(c) | Assisting completion of arrival document in false or misleading manner |
 |  | 345 | Improper use of document relating to another person or forged or fraudulently obtained |
 |  | 348 | Modifying form after completion and signing |
 
@@ -6108,7 +6315,7 @@ The following apply to an offender released and deported under sections 55 and 5
   (b) ask the specified person to provide the current address of the victim of the offence to the chief executive if that address—
     (i) has been given or forwarded to the specified person under section 31 or 33; and
     (ii) has not been forwarded by the specified person under section 33.
-(3) Each specified person must, as soon as practicable after receiving a request under subsection (2)(b), consider, respond to, and, if possible, comply with that request.
+(3) Each specified person must, as soon as practicable after receiving a request under subsection (2)⁠(b), consider, respond to, and, if possible, comply with that request.
 (4) For the purposes of subsection (2), each of the following persons is a specified person:
   (a) the Commissioner of Police:
   (b) the chief executive of the Department of Corrections:
@@ -6116,7 +6323,7 @@ The following apply to an offender released and deported under sections 55 and 5
 (5) If the victim’s address is given to the chief executive under subsection (2),—
   (a) the chief executive must, if practicable, give the victim notice that the Minister is considering cancelling or suspending the deportation liability of the offender under section 172 of the Immigration Act 2009; and
   (b) if a deportation liability notice has been served and the offender concerned appeals against that liability for deportation on humanitarian grounds under section 206 of that Act, the chief executive must give the victim’s address to the Immigration and Protection Tribunal, and that Tribunal must give the victim prior notice of the hearing of the appeal.
-(6) Failure to comply with subsection (2) or (5) does not invalidate any decision of the kind referred to in subsection (5)(a) or a decision on an appeal of the kind referred to in subsection (5)(b).
+(6) Failure to comply with subsection (2) or (5) does not invalidate any decision of the kind referred to in subsection (5)⁠(a) or a decision on an appeal of the kind referred to in subsection (5)⁠(b).
 
 ### 48 Victim may make submission on consideration of cancellation or suspension of liability for deportation, or offender’s appeal against deportation
 A victim to whom this section applies may make submissions to the Minister of Immigration and to the Immigration and Protection Tribunal, in accordance with sections 173 and 208 of the Immigration Act 2009.
@@ -6125,9 +6332,9 @@ A victim to whom this section applies may make submissions to the Minister of Im
 
 ### 10A Variation of upper limit for persons awaiting decision on refugee or protected person claims, refugees and protected persons, and certain applicants for residence class visas
 (1) Subclause (2) applies, instead of regulation 10(3), when calculating under regulation 10(1) the amount of temporary additional support that may be granted per week to a person who the chief executive is satisfied is—
-  (a) a person of the kind referred to in section 74A(1)(c) of the Act (a person lawfully present in New Zealand awaiting the outcome of his or her claim for recognition as a refugee or a protected person in New Zealand); or
-  (b) a person referred to in section 74A(1)(d) of the Act (a person who is recognised as a refugee or a protected person in New Zealand); or
-  (c) a person referred to in section 74A(1)(e) of the Act (a person applying for a residence class visa under the Immigration Act 2009 who is compelled to remain in New Zealand through some unforeseen circumstances).
+  (a) a person of the kind referred to in section 74A(1)⁠(c) of the Act (a person lawfully present in New Zealand awaiting the outcome of his or her claim for recognition as a refugee or a protected person in New Zealand); or
+  (b) a person referred to in section 74A(1)⁠(d) of the Act (a person who is recognised as a refugee or a protected person in New Zealand); or
+  (c) a person referred to in section 74A(1)⁠(e) of the Act (a person applying for a residence class visa under the Immigration Act 2009 who is compelled to remain in New Zealand through some unforeseen circumstances).
 (2) The upper limit is the higher of—
   (a) the appropriate maximum rate of accommodation supplement that would be applicable if section 74A(1) of the Act did not prohibit the person receiving a benefit; and
   (b) the upper limit in regulation 10(3).
