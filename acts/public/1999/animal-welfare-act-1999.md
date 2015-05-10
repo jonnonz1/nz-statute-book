@@ -1,7 +1,7 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2015-05-10_
 
-> An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—ito require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
+> An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Animal Welfare Act 1999.
@@ -28,7 +28,7 @@ _Consolidation as at 2015-03-26_
   - **animal establishment** means a place at which animals are used or held in the charge of any person, and which has, as its principal purpose, the using or holding of animals for display, sport, entertainment, temporary care, sale, conservation, scientific study, or other activity
   - **animal welfare export certificate** means an animal welfare export certificate issued under section 46
   - **appointed member** means,—
-    (a) in relation to the National Animal Welfare Advisory Committee, a member of the Committee who is appointed under section 58(2)(a) or section 58(2)(b); and
+    (a) in relation to the National Animal Welfare Advisory Committee, a member of the Committee who is appointed under section 58(2)⁠(a) or section 58(2)⁠(b); and
     (b) in relation to the National Animal Ethics Advisory Committee, any member of the Committee
   - **approved organisation** means an organisation declared, under section 121, to be an approved organisation for the purposes of this Act
   - **associated animal** means, in relation to an animal that is manipulated, an animal that—
@@ -43,8 +43,19 @@ _Consolidation as at 2015-03-26_
   - **controlled surgical procedure** means—
     (a) the develvetting of a deer; or
     (b) any other surgical procedure which is performed on an animal and which is, under section 16, declared to be a controlled surgical procedure
+  - **cosmetic** —
+    (a) means any finished product that is used or represented for use for the primary purpose of cleansing, improving the attractiveness of, changing the appearance of, perfuming, moisturising, or deodorising the skin, hair, nails, or other external parts of the human body, human teeth, or the mucous membranes of the human mouth, whether or not the product is or contains any substance, mixture of substances, or thing; and
+    (b) includes any substance, mixture of substances, or thing declared to be a cosmetic by regulations made for that purpose under section 183; but
+    (c) does not include—
+      (i) a medicine, as defined in section 3 of the Medicines Act 1981; or
+      (ii) a medical device, as defined in section 3A of that Act; or
+      (iii) a related product, as defined in section 94 of that Act; or
+      (iv) an agricultural compound or a veterinary medicine, as those terms are defined in section 2(1) of the Agricultural Compounds and Veterinary Medicines Act 1997; or
+      (v) a food, as defined in section 9 of the Food Act 2014 or a drink within the meaning of that section; or
+      (vi) toothpaste; or
+      (vii) any substance, mixture of substances, or thing declared not to be a cosmetic by regulations made for that purpose under section 183
   - **crops** , in relation to the ears of a dog, means the performance on the pinnae of the ears of the dog of a surgical procedure that is designed to make the ears of the dog stand upright
-  - **device** means any electrical or electronic thing (not being a trap) that is used for the purpose of killing, managing, entrapping, capturing, entangling, restraining, or immobilising an animal; and includes any contraption, process, or thing that is declared by the Governor-General by Order in Council, made on the recommendation of the Minister after consultation in accordance with section 184, to be a device for the purposes of this Act
+  - **device** means any explosive (not being a firearm as defined in section 2 of the Arms Act 1983), incendiary device, or electrical or electronic thing (not being a trap) that is used for the purpose of killing, managing, entrapping, capturing, entangling, restraining, or immobilising an animal; and includes any contraption, process, or thing that is declared by the Governor-General by Order in Council, made on the recommendation of the Minister after consultation in accordance with section 184, to be a device for the purposes of this Act
   - **Director-General** means the chief executive of the Ministry
   - **enforcement order** means an enforcement order made under section 144; and includes an enforcement order made without notice in accordance with section 148
   - **firing** , in relation to a horse, means a procedure which involves the application of thermal cautery to the legs of the horse and which creates tissue damage to, or an inflammatory reaction in, the legs of the horse
@@ -53,17 +64,15 @@ _Consolidation as at 2015-03-26_
     (b) pursuing or disturbing any animal;—
   - **ill-treat** , in relation to an animal, means causing the animal to suffer, by any act or omission, pain or distress that in its kind or degree, or in its object, or in the circumstances in which it is inflicted, is unreasonable or unnecessary
   - **infringement offence** means—
-    (a) an offence against—
-      (i) section 36(2); or
-      (ii) section 157(4); and
-    (b) any offence (being an offence against regulations made under this Act) that is declared, by regulations made under this Act, to be an infringement offence for the purposes of this Act
+    (a) an offence against section 36(3):
+    (b) any other offence created by or under this Act that is declared by regulations made under this Act to be an infringement offence for the purposes of this Act
   - **inspector** means an inspector appointed under section 124(1) or section 124(2); and includes every constable
   - **manipulation** , in relation to an animal, has the meaning given to it by section 3
   - **marae** —
     (a) means—
       (i) land which is set apart for the purposes of a marae or meeting place under section 338 or section 341 of Te Ture Whenua Maori Act 1993 (Maori Land Act 1993) or any corresponding former provision and which is used for the purposes for which it is set apart; or
       (ii) Maori freehold land on which a Maori meeting house is erected; and
-    (b) includes all buildings, such as the wharenui (meeting house), the wharekai (dining room), the ablution blocks, and other associated buildings, situated on, or adjacent to, land of the kind described in paragraph (a)(i) or paragraph (a)(ii) and used for the purposes for which the land is so set apart
+    (b) includes all buildings, such as the wharenui (meeting house), the wharekai (dining room), the ablution blocks, and other associated buildings, situated on, or adjacent to, land of the kind described in paragraph (a)⁠(i) or paragraph (a)⁠(ii) and used for the purposes for which the land is so set apart
   - **marine mammal** has the meaning given to it by section 2(1) of the Marine Mammals Protection Act 1978
   - **marine wildlife** has the meaning given to it by section 2(1) of the Wildlife Act 1953
   - **marking** , in relation to an animal, means—
@@ -94,8 +103,8 @@ _Consolidation as at 2015-03-26_
     (k) any mosquito fish:
     (l) any animal in a wild state that is a pest or unwanted organism within the meaning of the Biosecurity Act 1993
   - **physical, health, and behavioural needs** , in relation to an animal, has the meaning given to it by section 4
-  - **prohibited device** means a device declared under section 32(1)(a) to be a prohibited device for the purposes of this Act
-  - **prohibited trap** means a trap declared under section 32(1)(a) to be a prohibited trap for the purposes of this Act
+  - **prohibited device** means a device declared under section 32(1)⁠(a) to be a prohibited device for the purposes of this Act
+  - **prohibited trap** means a trap declared under section 32(1)⁠(a) to be a prohibited trap for the purposes of this Act
   - **project** means—
     (a) any experiment, or series of related experiments, forming a discrete piece of research; or
     (b) a protocol for the carrying out of routine manipulations within a specified period; or
@@ -110,6 +119,7 @@ _Consolidation as at 2015-03-26_
   - **safari park** has the meaning given to it by section 2(1) of the Wild Animal Control Act 1977
   - **ship** has the meaning given to it by section 2(1) of the Maritime Transport Act 1994
   - **significant surgical procedure** has the meaning given to it by section 6
+  - **substance** , in relation to any cosmetic, has the same meaning as in section 2(1) of the Medicines Act 1981
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **threatened species** has the meaning given to it by section 2(1) of the Biosecurity Act 1993
   - **trap** —
@@ -157,7 +167,8 @@ _Consolidation as at 2015-03-26_
 
 ### 4 Definition of physical, health, and behavioural needs
 In this Act, unless the context otherwise requires, the term physical, health, and behavioural needs, in relation to an animal, includes—being a need which, in each case, is appropriate to the species, environment, and circumstances of the animal.
-  (a) proper and sufficient food and water:
+  (a) proper and sufficient food:
+  (ab) proper and sufficient water:
   (b) adequate shelter:
   (c) opportunity to display normal patterns of behaviour:
   (d) physical handling in a manner which minimises the likelihood of unreasonable or unnecessary pain or distress:
@@ -192,7 +203,7 @@ In this Act, unless the context otherwise requires, the term physical, health, a
 (4) For the purposes of this section, an animal is in the immediate care of a veterinarian if the veterinarian—
   (a) has accepted responsibility for the health and welfare of the animal; and
   (b) is providing the animal with direct and continuing care.
-(5) In the other sections of this Act (except section 57(a)(i)),—
+(5) In the other sections of this Act (except section 57(a)⁠(i)),—
   (a) the term research means any research work that comes within the term defined by subsection (1); and
   (b) the term testing means any testing work that comes within the term defined by subsection (1); and
   (c) the term teaching means any teaching that comes within the term defined by subsection (1).
@@ -234,6 +245,9 @@ In this Act, unless the context otherwise requires, the term physical, health, a
   (b) is, by virtue of any other Act, the owner of any other animal (being an animal in a wild state); or
   (c) has, under any other Act, the responsibility of administering and managing an animal (being an animal in a wild state),—
 
+### 8A Transitional and savings provisions relating to amendments to Act
+The transitional and savings provisions set out in Schedule 4, which relate to amendments made to this Act by the Animal Welfare Amendment Act (No 2) 2015, have effect for the purposes of this Act.
+
 ## Part 1 — Care of animals
 
 ### 9 Purpose
@@ -242,7 +256,7 @@ In this Act, unless the context otherwise requires, the term physical, health, a
   (a) requires owners of animals, and persons in charge of animals, to take all reasonable steps to ensure that the physical, health, and behavioural needs of the animals are met in accordance with both—
     (i) good practice; and
     (ii) scientific knowledge; and
-  (b) requires owners of ill or injured animals, and persons in charge of such animals, to ensure that the animals receive, where practicable, treatment that alleviates any unreasonable or unnecessary pain or distress from which the animals are suffering; and
+  (b) requires owners of ill or injured animals, and persons in charge of such animals, to ensure that the animals receive treatment that alleviates any unreasonable or unnecessary pain or distress from which the animals are suffering; and
   (c) imposes restrictions on the carrying out of surgical procedures on animals; and
   (d) provides for the classification of the types of surgical procedures that may be performed on animals; and
   (e) specifies the persons or classes of persons who may perform each class of such surgical procedures; and
@@ -256,7 +270,7 @@ The owner of an animal, and every person in charge of an animal, must ensure tha
   (b) scientific knowledge.
 
 ### 11 Obligation to alleviate pain or distress of ill or injured animals
-(1) The owner of an animal that is ill or injured, and every person in charge of such an animal, must, where practicable, ensure that the animal receives treatment that alleviates any unreasonable or unnecessary pain or distress being suffered by the animal.
+(1) The owner of an animal that is ill or injured, and every person in charge of such an animal, must ensure that the animal receives treatment that alleviates any unreasonable or unnecessary pain or distress being suffered by the animal.
 (2) This section does not—
   (a) limit section 10; or
   (b) require a person to keep an animal alive when it is in such a condition that it is suffering unreasonable or unnecessary pain or distress.
@@ -282,9 +296,9 @@ A person commits an offence who, being the owner of, or a person in charge of, a
 (3) Except with the leave of the court, subsection (2) does not apply unless, within 7 days after the service of the summons, or within such further time as the court may allow, the defendant has delivered to the prosecutor a written notice—
   (a) stating that the defendant intends to rely on subsection (2); and
   (b) specifying—
-    (i) where the defendant intends to rely on subsection (2)(a), the reasonable steps that the defendant will claim to have taken; or
-    (ii) where the defendant intends to rely on subsection (2)(b), the circumstances of stress or emergency, and the reasons why the act or omission was necessary for the preservation, protection, or maintenance of human life; or
-    (iii) where the defendant intends to rely on subsection (2)(c), the relevant code of welfare that was in existence at the time of the alleged offence, and the facts that show that the minimum standards established by that code of welfare were in all respects equalled or exceeded.
+    (i) where the defendant intends to rely on subsection (2)⁠(a), the reasonable steps that the defendant will claim to have taken; or
+    (ii) where the defendant intends to rely on subsection (2)⁠(b), the circumstances of stress or emergency, and the reasons why the act or omission was necessary for the preservation, protection, or maintenance of human life; or
+    (iii) where the defendant intends to rely on subsection (2)⁠(c), the relevant code of welfare that was in existence at the time of the alleged offence, and the facts that show that the minimum standards established by that code of welfare were in all respects equalled or exceeded.
 
 ### 14 Further animal welfare offences
 (1) A person commits an offence who, being the owner of, or a person in charge of, an animal, without reasonable excuse,—
@@ -297,9 +311,9 @@ A person commits an offence who, being the owner of, or a person in charge of, a
 ### 15 Restriction on performance of surgical procedures
 (1) Except as provided in section 18(1), no person may perform any significant surgical procedure on an animal unless that person is—
   (a) a veterinarian; or
-  (b) a person who is acting under the direct supervision of a veterinarian and who is being taught veterinary science at undergraduate level.
+  (b) a person who is acting under the direct supervision of a veterinarian and who is a student undergoing his or her training to become a veterinarian.
 (2) A veterinarian who, for the purpose of teaching veterinary science, supervises the performance of a significant surgical procedure, must be present throughout the performance of that surgical procedure.
-(3) Any person may, subject to subsection (4) and to Parts 2 and 6, perform on an animal any surgical procedure that is not a significant surgical procedure.
+(3) Any person may, subject to subsection (4) and to Parts 2 and 6 and to any regulations made under section 183B, perform on an animal any surgical procedure that is not a significant surgical procedure.
 (4) No person may, in performing on an animal a surgical procedure that is not a significant surgical procedure, perform that surgical procedure in such a manner that the animal suffers unreasonable or unnecessary pain or distress.
 
 ### 16 Classification of surgical procedures
@@ -404,8 +418,8 @@ A person commits an offence who, being the owner of, or a person in charge of, a
 **Defence and rebuttable evidence**
 
 ### 24 Defence and rebuttable evidence
-(1) In a prosecution for an offence against section 21(1)(b) or section 22(2) or section 23 committed after the commencement of this subsection, evidence that a relevant code of welfare was in existence at the time of the alleged offence and that a relevant minimum standard established by that code was not complied with is rebuttable evidence that the person charged with the offence failed to comply with, or contravened, the provision of this Act to which the offence relates.
-(2) It is a defence in any prosecution for an offence against section 21(1)(b) or section 22(2) or section 23(1) or section 23(2) if the defendant proves—
+(1) In a prosecution for an offence against section 21(1)⁠(b) or section 22(2) or section 23 committed after the commencement of this subsection, evidence that a relevant code of welfare was in existence at the time of the alleged offence and that a relevant minimum standard established by that code was not complied with is rebuttable evidence that the person charged with the offence failed to comply with, or contravened, the provision of this Act to which the offence relates.
+(2) It is a defence in any prosecution for an offence against section 21(1)⁠(b) or section 22(2) or section 23(1) or section 23(2) if the defendant proves—
   (a) that there was in existence at the time of the alleged offence a relevant code of welfare; and
   (b) that the minimum standards established by the code of welfare were in all respects equalled or exceeded.
 
@@ -436,7 +450,7 @@ The purpose of this Part is to state conduct that is or is not permissible in re
   (b) the animal dies; or
   (c) the pain or distress caused to the animal is so great that it is necessary to destroy the animal in order to end its suffering; or
   (d) the animal is seriously injured or impaired.
-(2) For the purposes of subsection (1)(d), an animal is seriously injured or impaired if the injury or impairment—
+(2) For the purposes of subsection (1)⁠(d), an animal is seriously injured or impaired if the injury or impairment—
   (a) involves—
     (i) prolonged pain and suffering; or
     (ii) a substantial risk of death; or
@@ -453,7 +467,7 @@ The purpose of this Part is to state conduct that is or is not permissible in re
   (b) the animal dies; or
   (c) the pain or distress caused to the animal is so great that it is necessary to destroy the animal in order to end its suffering; or
   (d) the animal is seriously injured or impaired.
-(2) For the purposes of subsection (1)(d), an animal is seriously injured or impaired if the injury or impairment—
+(2) For the purposes of subsection (1)⁠(d), an animal is seriously injured or impaired if the injury or impairment—
   (a) involves—
     (i) prolonged pain and suffering; or
     (ii) a substantial risk of death; or
@@ -485,9 +499,58 @@ A person commits an offence who—
 (3) Except with the leave of the court, subsection (2) does not apply unless, within 7 days after the service of the summons, or within such further time as the court may allow, the defendant has delivered to the prosecutor a written notice—
   (a) stating that the defendant intends to rely on subsection (2); and
   (b) specifying—
-    (i) where the defendant intends to rely on subsection (2)(a), the reasonable steps that the defendant will claim to have taken; and
-    (ii) where the defendant intends to rely on subsection (2)(b), the circumstances of stress or emergency, and the reasons why the act or omission was necessary for the preservation, protection, or maintenance of human life; or
-    (iii) where the defendant intends to rely on subsection (2)(c), the relevant code of welfare that was in existence at the time of the alleged offence, and the facts that show that the minimum standards established by that code of welfare were in all respects equalled or exceeded.
+    (i) where the defendant intends to rely on subsection (2)⁠(a), the reasonable steps that the defendant will claim to have taken; and
+    (ii) where the defendant intends to rely on subsection (2)⁠(b), the circumstances of stress or emergency, and the reasons why the act or omission was necessary for the preservation, protection, or maintenance of human life; or
+    (iii) where the defendant intends to rely on subsection (2)⁠(c), the relevant code of welfare that was in existence at the time of the alleged offence, and the facts that show that the minimum standards established by that code of welfare were in all respects equalled or exceeded.
+
+**Ill-treating, hunting, or killing wild animals or animals in wild state**
+
+### 30A Wilful or reckless ill-treatment of wild animals or animals in wild state
+(1) A person commits an offence if the person wilfully ill-treats a wild animal or an animal in a wild state.
+(2) A person commits an offence if the person recklessly ill-treats a wild animal or an animal in a wild state.
+(3) A defendant has a defence to a prosecution for an offence against subsection (1) or (2) if the defendant satisfies the court that the conduct alleged to constitute an offence is or is part of a generally accepted practice in New Zealand for the hunting or killing of wild animals of that type or animals in a wild state of that type.
+(4) In determining whether wilful or reckless ill-treatment of an animal has occurred, a court may treat an act or omission as lawful (and not subject to subsection (1) or (2)) if satisfied that—
+  (a) the act or omission was done in the course of performing functions for the purposes of another Act; and
+  (b) not to treat the act or omission as lawful would be contrary to the purpose and principles of that Act.
+(5) Nothing in subsection (1) or (2) applies to—
+  (a) a wild animal in captivity (other than in captivity in a safari park); or
+  (b) the accidental or inadvertent killing or harming of an animal; or
+  (c) any act or omission necessary to protect a person's life or safety.
+(6) Nothing in subsection (1) or (2) affects section 179 or 181.
+(7) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000, or to both:
+  (b) in the case of a body corporate, to a fine not exceeding $500,000.
+(8) A person who commits an offence against subsection (2) is liable on conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $75,000, or to both:
+  (b) in the case of a body corporate, to a fine not exceeding $350,000.
+
+### 30B Hunting or killing
+(1) Nothing in this Act makes it unlawful to hunt or kill—
+  (a) any animal in a wild state; or
+  (b) any wild animal or pest in accordance with the provisions of—
+    (i) the Wildlife Act 1953; or
+    (ii) the Wild Animal Control Act 1977; or
+    (iii) the Conservation Act 1987; or
+    (iv) the Biosecurity Act 1993; or
+    (v) any other Act; or
+  (c) any other wild animal or pest; or
+  (d) any game animal in accordance with the provisions of the Game Animal Council Act 2013; or
+  (e) any fish caught from a constructed pond.
+(2) Subsection (1) is subject to sections 30A and 30C to 30E and Part 6.
+
+### 30C Hunting in safari parks
+(1) Nothing in this Act makes it unlawful to hunt a wild animal that is available for hunting in a safari park.
+(2) Subsection (1) is subject to subsection (3) and to sections 30A and 30E and Part 6.
+(3) Despite subsection (1) and section 30B, if a person has hunted and captured a wild animal in a safari park (not being an animal that has been captured for the purpose of facilitating its imminent destruction), this Act applies in relation to that person as the person in charge of that animal.
+
+### 30D Captured animals
+(1) If a person has in captivity an animal captured in a wild state (not being an animal that has been captured for the purpose of facilitating its imminent destruction), this Act applies in relation to that person as the person in charge of that animal.
+(2) If a person has in captivity an animal captured in a wild state (not being an animal caught by fishing) for the purpose of facilitating its imminent destruction, section 12(c) applies in relation to the killing of that animal.
+(3) Nothing in subsection (1) or (2) applies in relation to a wild animal that is hunted and captured in a safari park.
+(4) Nothing in section 30B applies to any wild animal or pest that is farmed or kept as a pet (other than a pest fish that is caught from a freshwater fish farm by a recreational fisher).
+
+### 30E Certain provisions relating to traps and devices not excluded
+Sections 30B and 30C do not restrict the application of sections 34 and 36.
 
 **Animal fighting ventures**
 
@@ -541,11 +604,15 @@ A person commits an offence who, without reasonable excuse and for the purpose o
 
 **Inspection of traps**
 
-### 36 Obligation to inspect traps
-(1) A person who, for the purpose of capturing alive a mammal, bird, reptile, or amphibian, sets or causes to be set a trap, must,—
-  (a) inspect that trap, or cause a competent person to inspect that trap, within 12 hours after sunrise on each day the trap remains set, beginning on the day immediately after the day on which the trap is set; and
-  (b) remove, or cause to be removed, any live animal found in that trap or attend properly to the care of any such animal or, without delay, kill any such animal.
-(2) A person commits an offence and is liable on conviction to a fine not exceeding $1,200 who fails, without reasonable excuse, to comply with any provision of subsection (1).
+### 36 Obligations relating to traps
+(1) A person who, for the purpose of capturing alive a mammal, bird, reptile, or amphibian, sets a trap or causes a trap to be set must inspect that trap, or cause a competent person to inspect that trap, within 12 hours after sunrise on each day the trap remains set, beginning on the day immediately after the day on which the trap is set.
+(2) A person who, for the purpose of capturing alive a mammal, bird, reptile, or amphibian, sets a trap or causes a trap to be set must—
+  (a) remove, or cause to be removed, any live animal found in that trap; or
+  (b) attend properly to the care of the animal or, without delay, kill the animal.
+(3) A person who, without reasonable excuse, fails to comply with subsection (1) commits an infringement offence.
+(4) A person who, without reasonable excuse, fails to comply with subsection (2) commits an offence and is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $5,000; or
+  (b) in the case of a body corporate, to a fine not exceeding $25,000.
 
 **Penalties**
 
@@ -557,7 +624,7 @@ A person who commits an offence against section 29 or section 31(1) or section 3
 ## Part 3 — Animal exports
 
 ### 38 Purpose
-The purpose of this Part is to protect the welfare of animals which are being exported from New Zealand and which are being transported by ship or aircraft by ensuring that the risks faced by such animals are minimised.
+The purpose of this Part is to protect the welfare of animals being exported from New Zealand and to protect New Zealand's reputation as a responsible exporter of animals and products made from animals.
 
 ### 39 Effect of this Part
 The provisions of this Part do not limit the other provisions of this Act.
@@ -593,8 +660,8 @@ The provisions of this Part do not limit the other provisions of this Act.
   (b) contain, or be accompanied by, such information as the Director-General requires; and
   (c) be accompanied by the prescribed fee (if any); and
   (d) be made to the Director-General at least 20 working days before the date on which the applicant proposes that the animal leave New Zealand.
-(3) The Director-General may permit an application to be made other than in accordance with subsection (2)(d) if he or she is satisfied that unforeseen or unusual circumstances prevented the application from being made in accordance with subsection (2)(d).
-(4) Where an application made in accordance with subsection (2)(d) or subsection (3) does not comply in any material respect with subsection (2)(a) or subsection (2)(b), the Director-General may request the applicant to make good the deficiencies in the application.
+(3) The Director-General may permit an application to be made other than in accordance with subsection (2)⁠(d) if he or she is satisfied that unforeseen or unusual circumstances prevented the application from being made in accordance with subsection (2)⁠(d).
+(4) Where an application made in accordance with subsection (2)⁠(d) or subsection (3) does not comply in any material respect with subsection (2)⁠(a) or subsection (2)⁠(b), the Director-General may request the applicant to make good the deficiencies in the application.
 (5) If the deficiencies are made good at least 20 working days before the date on which the applicant proposes that the animal leave New Zealand, the Director-General must proceed to deal with the application.
 (6) If the deficiencies are not made good at least 20 working days before the date on which the applicant proposes that the animal leave New Zealand, the Director-General may deal with the application only if he or she is satisfied that there is sufficient time to give proper consideration to the application before that date.
 
@@ -694,7 +761,7 @@ Despite anything in the Conservation Act 1987 or in any Act listed in Schedule 1
   (b) a District Court Judge orders that the animal be delivered to the owner of the animal or to the person charged with the offence against this Act.
 
 ### 54 Offence
-(1) A person commits an offence who, without reasonable excuse, refuses or fails to comply with any requirement of an inspector or authorised person under section 53(1)(c).
+(1) A person commits an offence who, without reasonable excuse, fails to comply with any requirement of an inspector or authorised person under section 53(1)⁠(c).
 (2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
@@ -705,7 +772,8 @@ Despite anything in the Conservation Act 1987 or in any Act listed in Schedule 1
 (1) The purpose of this Part is to establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee.
 (2) The National Animal Welfare Advisory Committee will, among other things,—
   (a) advise the Minister on issues relating to the welfare of animals; and
-  (b) develop, and advise the Minister on, codes of welfare.
+  (b) develop, and advise the Minister on, codes of welfare; and
+  (c) recommend to the Minister that regulations be made under section 183A prescribing animal welfare standards or requirements.
 (3) The National Animal Ethics Advisory Committee will, among other things,—
   (a) advise the Minister and the Director-General on—
     (i) ethical issues and animal welfare issues arising from research, testing, and teaching; and
@@ -728,7 +796,7 @@ The functions of the National Animal Welfare Advisory Committee are—
   (c) to discharge its functions under section 32 in relation to the making of Orders in Council declaring traps or devices to be prohibited or restricted traps or devices:
   (d) to discharge its functions under section 32 in relation to the conditions that should be attached to the sale or use of any restricted trap or restricted device:
   (e) to make recommendations to the Minister concerning the issue, amendment, suspension, revocation, and review of codes of welfare:
-  (f) to promote, and to assist other persons to promote, the development of guidelines in relation to—
+  (f) to develop and promote, and to assist other persons to promote, the development of guidelines in relation to—
     (i) the use of traps or devices or both:
     (ii) the hunting or killing of animals in a wild state.
 
@@ -738,7 +806,7 @@ The functions of the National Animal Welfare Advisory Committee are—
   (a) a chairperson appointed by the Minister; and
   (b) such other members (not exceeding 9) as are appointed by the Minister in accordance with subsection (3); and
   (c) the chairperson of the National Animal Ethics Advisory Committee.
-(3) The Minister must, in making appointments under subsection (2)(b), have regard to the need for the Committee to possess knowledge and experience in the following areas:
+(3) The Minister must, in making appointments under subsection (2)⁠(b), have regard to the need for the Committee to possess knowledge and experience in the following areas:
   (a) veterinary science:
   (b) agricultural science:
   (c) animal science:
@@ -756,7 +824,7 @@ The functions of the National Animal Welfare Advisory Committee are—
   (b) subject to clause 2 of Schedule 1, holds office for such term, not exceeding 3 years, as the Minister specifies in the notice of appointment; and
   (c) takes office from the date of the publication of the notice of appointment in the Gazette or on such later date as may be specified in the notice; and
   (d) is eligible for reappointment from time to time.
-(2) Despite subsection (1)(b), every appointed member of the National Animal Welfare Advisory Committee, unless sooner vacating office under clause 2 of Schedule 1, continues in office until the member's successor comes into office.
+(2) Despite subsection (1)⁠(b), every appointed member of the National Animal Welfare Advisory Committee, unless sooner vacating office under clause 2 of Schedule 1, continues in office until the member's successor comes into office.
 
 ### 60 Annual report
 The National Animal Welfare Advisory Committee must, as soon as practicable after the end of each year ending with 31 December, furnish to the Minister a report of its operations during that year.
@@ -787,7 +855,7 @@ The functions of the National Animal Ethics Advisory Committee are—
 (2) Those members comprise—
   (a) a chairperson appointed by the Minister; and
   (b) such other members (not exceeding 9) as are appointed by the Minister in accordance with subsection (3).
-(3) The Minister must, in making appointments under subsection (2)(b), have regard to—
+(3) The Minister must, in making appointments under subsection (2)⁠(b), have regard to—
   (a) the public interest in relation to the manipulation of animals in research, testing, and teaching; and
   (b) the need for the Committee to possess knowledge and experience in the following areas:
     (i) veterinary science:
@@ -808,7 +876,7 @@ The functions of the National Animal Ethics Advisory Committee are—
   (b) subject to clause 2 of Schedule 1, holds office for such term, not exceeding 3 years, as the Minister specifies in the notice of appointment; and
   (c) takes office from the date of the publication of the notice of appointment in the Gazette or such later date as may be specified in the notice; and
   (d) is eligible for reappointment from time to time.
-(2) Despite subsection (1)(b), the chairperson and every other member of the National Animal Ethics Advisory Committee, unless sooner vacating office under clause 2 of Schedule 1, continues in office until the member's successor comes into office.
+(2) Despite subsection (1)⁠(b), the chairperson and every other member of the National Animal Ethics Advisory Committee, unless sooner vacating office under clause 2 of Schedule 1, continues in office until the member's successor comes into office.
 
 ### 66 Annual report
 The National Animal Ethics Advisory Committee must, as soon as practicable after the end of each year ending with 31 December, furnish to the Minister a report of its operations during that year.
@@ -838,11 +906,16 @@ A code of welfare may relate to 1 or more of the following:
 (2) Where any person other than the National Animal Welfare Advisory Committee prepares a draft code of welfare, that person must forward the draft code to the National Animal Welfare Advisory Committee.
 
 ### 71 Public notification
-(1) Subject to subsection (2), the National Animal Welfare Advisory Committee must publicly notify every draft code of welfare.
-(2) The National Animal Welfare Advisory Committee must not publicly notify a draft code of welfare unless the National Animal Welfare Advisory Committee is satisfied—
-  (a) that the draft code complies with the purposes of this Act; and
-  (b) that the draft code is so clearly written as to be readily understood; and
-  (c) that, in its opinion, the person who prepared the draft code has consulted with representatives of the persons likely to be affected by it.
+(1) The National Animal Welfare Advisory Committee must publicly notify a draft code of welfare if the Committee is satisfied that—
+  (a) the draft should proceed; and
+  (b) the draft complies with the purposes of this Act; and
+  (c) the draft is so clearly written as to be readily understood; and
+  (d) the draft indicates any matters that the Committee considers should be dealt with by regulations under this Act; and
+  (e) representatives of the persons likely to be affected by the draft have been consulted about it; and
+  (f) the Minister has approved the notification of the draft.
+(2) If the Committee decides not to proceed with a draft code prepared by any person other than the Committee, it must—
+  (a) give the person its reasons in writing for not proceeding; and
+  (b) notify the Minister of its decision.
 (3) The National Animal Welfare Advisory Committee must publicly notify the draft code of welfare—
   (a) by publishing, in 1 or more daily newspapers circulating in the cities of Auckland, Wellington, Christchurch, and Dunedin, a notice complying with subsection (4); and
   (b) by giving such further notice (if any) as the National Animal Welfare Advisory Committee considers appropriate, having regard to the persons likely to have an interest in the draft code.
@@ -855,7 +928,7 @@ A code of welfare may relate to 1 or more of the following:
     (iii) the reasons for supporting the aspects supported and the reasons for opposing the aspects opposed; and
     (iv) any alternatives to provisions of the draft code that the person wishes to recommend; and
   (d) a list of the places where the draft code may be obtained or inspected; and
-  (e) the closing date for the receipt by the National Animal Welfare Advisory Committee of submissions on the draft code, being a date no earlier than 30 working days after the date on which the notice is first published in a daily newspaper in accordance with subsection (3)(a); and
+  (e) the closing date for the receipt by the National Animal Welfare Advisory Committee of submissions on the draft code, being a date no earlier than 30 working days after the date on which the notice is first published in a daily newspaper in accordance with subsection (3)⁠(a); and
   (f) the address of the place to which submissions on the draft code may be delivered or sent.
 
 ### 72 Consultation
@@ -871,20 +944,18 @@ A code of welfare may relate to 1 or more of the following:
   (b) good practice and scientific knowledge in relation to the management of the animals to which the code relates; and
   (c) available technology; and
   (d) any other matters considered relevant by the National Animal Welfare Advisory Committee.
-(3) Despite subsection (1), the National Animal Welfare Advisory Committee may, in exceptional circumstances, recommend minimum standards and recommendations for best practice that do not fully meet—
-  (a) the obligations of section 10 or section 11; or
-  (b) the obligations that a person would need to observe in the treatment, transport, or killing of animals if that person were to avoid committing an offence against section 12(c) or section 21(1)(b) or section 22(2) or section 23(1) or section 23(2) or section 29(a).
-(4) The National Animal Welfare Advisory Committee must, in making recommendations under subsection (3), have regard to—
-  (a) the feasibility and practicality of effecting a transition from current practices to new practices and any adverse effects that may result from such a transition:
-  (b) the requirements of religious practices or cultural practices or both:
-  (c) the economic effects of any transition from current practices to new practices.
+(3) In carrying out its functions under subsection (1), the National Animal Welfare Advisory Committee may take into account practicality and economic impact, if relevant.
+(4) The National Animal Welfare Advisory Committee may recommend to the Minister that regulations be made under section 183A(1)⁠(a) (which relates to standards or requirements for the purposes of giving effect to Parts 1 and 2).
+(5) The National Animal Welfare Advisory Committee may recommend to the Minister the making of regulations under section 183A(2) (which relates to prescribing standards or requirements that do not fully meet specified obligations).
+(6) Before making a recommendation under subsection (5), the National Animal Welfare Advisory Committee must consider the relevant provisions of section 183A.
 
 ### 74 Recommendation to Minister
 (1) The National Animal Welfare Advisory Committee must, as soon as reasonably practicable after the closing date for the receipt of submissions in relation to a draft code of welfare, decide whether or not to recommend to the Minister the issue of the code.
 (2) The Committee's recommendations must be accompanied by a report setting out—
   (a) the reasons for the Committee's recommendation; and
   (b) the nature of any significant differences of opinion about the code, or any provision of it, that have been shown by the submissions; and
-  (c) the nature of any significant differences of opinion about the code, or any provision of it, that have occurred within the Committee.
+  (c) the nature of any significant differences of opinion about the code, or any provision of it, that have occurred within the Committee; and
+  (d) if applicable, those matters contained in, or related to, the code that the Committee considers should be dealt with by regulations under this Act.
 (3) The National Animal Welfare Advisory Committee must send to the person who prepared the draft code a copy of its decision and a copy of the report made under subsection (2).
 
 ### 75 Issue of code
@@ -892,16 +963,16 @@ A code of welfare may relate to 1 or more of the following:
   (a) to issue the code of welfare by a notice in the Gazette after making such changes (if any) to the draft code as the Minister considers appropriate; or
   (b) to refer the code of welfare back to the National Animal Welfare Advisory Committee with a request that the Committee reconsider 1 or more of the aspects of the code of welfare; or
   (c) to decline to issue the code of welfare.
-(2) Where the Minister refers the code of welfare back to the National Animal Welfare Advisory Committee under subsection (1)(b), the Committee must, after reconsidering the aspects referred to by the Minister in the Minister's request,—
+(2) Where the Minister refers the code of welfare back to the National Animal Welfare Advisory Committee under subsection (1)⁠(b), the Committee must, after reconsidering the aspects referred to by the Minister in the Minister's request,—
   (a) make a further report to the Minister setting out its recommendations with regard to those aspects of the code and its reasons for its recommendations; and
   (b) supply to the person who prepared the draft code a copy of the report made under paragraph (a).
 (3) Subsection (1) applies, with all necessary modifications, to the recommendations received by the Minister under subsection (2).
-(4) Where the Minister decides, under subsection (1)(c) to decline to issue the code of welfare, the Minister must give to the National Animal Welfare Advisory Committee and to the person who prepared the code of welfare, the Minister's reasons for declining to issue the code of welfare.
-(5) A code of welfare comes into force on the day after the date of the publication under subsection (1)(a) of a notice approving the issue of the code or on such later date as may be specified in that notice.
+(4) Where the Minister decides, under subsection (1)⁠(c) to decline to issue the code of welfare, the Minister must give to the National Animal Welfare Advisory Committee and to the person who prepared the code of welfare, the Minister's reasons for declining to issue the code of welfare.
+(5) A code of welfare comes into force on the day after the date of the publication under subsection (1)⁠(a) of a notice approving the issue of the code or on such later date as may be specified in that notice.
 
 ### 76 Amendment or revocation of code of welfare
 (1) The Minister may from time to time, by notice in the Gazette,—
-  (a) revoke a code of welfare; or
+  (a) revoke a code of welfare or any part of a code of welfare; or
   (b) make amendments of a minor nature to a code of welfare (being minor amendments that would not materially affect the purposes of the code).
 (2) The Minister must, before publishing a notice under subsection (1), consult with the National Animal Welfare Advisory Committee about the proposed revocation or amendments.
 
@@ -912,20 +983,14 @@ A code of welfare may relate to 1 or more of the following:
 (2) The notice by which the code of welfare or the amendment is issued must show, in relation to the code of welfare, or the amendment to which the notice relates, a place at which copies of the code, or, as the case requires, the amendment, are available for inspection free of charge and for purchase.
 
 ### 78 Review of code of welfare
-(1) The National Animal Welfare Advisory Committee may from time to time, and must at intervals of not more than 10 years, review every code of welfare for the time being in force.
+(1) The National Animal Welfare Advisory Committee may at any time review the whole or any part of any code of welfare for the time being in force.
 (2) The National Animal Welfare Advisory Committee must review a code of welfare if required to do so by the Minister by notice in writing.
-(3) Sections 71 to 75 apply, with the necessary modifications, in relation to a review of the code of welfare as if the review were a proposal to make a recommendation to the Minister to issue the code.
-(4) Despite subsection (1), the Governor-General may, by Order in Council made in accordance with section 78A, extend the date at or by which any particular review must be carried out.
-(5) Where the Governor-General does so, subsection (1) then applies to subsequent reviews on the basis of the extended date.
+(3) Sections 71 to 75 apply, with the necessary modifications, in relation to a review of the code of welfare or part of the code as if the review were a proposal to make a recommendation to the Minister to issue the code.
+(4)
+(5)
 
 ### 78A Review date may be extended
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, extend the date at or by which any particular review under section 78 must be carried out.
-(2) In deciding whether to recommend the making of an order under subsection (1), the Minister must—
-  (a) consult in accordance with section 184; and
-  (b) have regard to—
-    (i) the welfare of any affected animals; and
-    (ii) the interests of persons involved in the commercial use of any affected animals; and
-    (iii) any other relevant factor.
+[Repealed]
 
 ### 79 Codes of welfare treated as legislative instruments for purposes of disallowance
 Codes of welfare issued under section 75 and notices amending or revoking codes of welfare are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
@@ -958,6 +1023,7 @@ Codes of welfare issued under section 75 and notices amending or revoking codes 
 ### 81 Effect of this Part
 (1) Nothing in Parts 1 and 2 prevents animals being used in research, testing, or teaching in accordance with this Part.
 (2) The limitation imposed by subsection (1) on the application of Parts 1 and 2 does not apply in any case where any animal is used in research, testing, or teaching other than in accordance with this Part or other than in accordance with the conditions of any project approval.
+(3) To avoid doubt, nothing in this Part applies in relation to the use of animals for any purpose that does not involve research, testing, or teaching.
 
 **Restrictions**
 
@@ -979,6 +1045,14 @@ Codes of welfare issued under section 75 and notices amending or revoking codes 
   (d) the code holder, before the research, testing, or teaching is commenced, gives to the Director-General written notice of the arrangements for the research, testing, or teaching.
 (2) This section has effect despite anything in sections 82 and 83.
 
+### 84A Prohibition on use of animals in research, testing, and teaching for making cosmetic
+(1) A person must not use an animal in any research, testing, or teaching that is for the purpose of—
+  (a) developing, making, or testing a cosmetic; or
+  (b) developing, making, or testing an ingredient that is intended exclusively for use in a cosmetic.
+(2) Subsection (1)⁠(b) does not apply to research, testing, or teaching in relation to an ingredient that is carried out for a purpose unrelated to the intended use of the ingredient in a cosmetic.
+(3) A person commits an offence who contravenes subsection (1).
+(4) In a prosecution for an offence against this section, it is not necessary for the prosecution to prove that the defendant intended to commit the offence.
+
 ### 85 Restrictions on use of non-human hominids
 (1) No person may carry out any research, testing, or teaching involving the use of a non-human hominid unless such use has first been approved by the Director-General and the research, testing, or teaching is carried out in accordance with any conditions imposed by the Director-General.
 (2) The Director-General may, in giving approval under subsection (1), impose, as conditions of that approval, such conditions as the Director-General thinks fit.
@@ -996,13 +1070,13 @@ Codes of welfare issued under section 75 and notices amending or revoking codes 
 
 ### 86 Revocation of approval
 (1) The Director-General may at any time, by notice in writing to the person to whom an approval under section 85(1) was given, revoke that approval if the Director-General is satisfied,—
-  (a) where the approval was given in accordance with section 85(5)(a), that the use of the non-human hominid in the research, testing, or teaching is no longer in the best interests of the non-human hominid; or
-  (b) where the approval was given in accordance with section 85(5)(b), that the use of the non-human hominid in the research, testing, or teaching is no longer in the interests of the species to which the non-human hominid belongs; or
-  (c) where the approval was given in accordance with section 85(5)(b), that the benefits to be derived from the use of the non-human hominid in the research, testing, or teaching (being benefits of the kind described in section 80(1)(b)) are outweighed by the likely harm to the non-human hominid; or
+  (a) where the approval was given in accordance with section 85(5)⁠(a), that the use of the non-human hominid in the research, testing, or teaching is no longer in the best interests of the non-human hominid; or
+  (b) where the approval was given in accordance with section 85(5)⁠(b), that the use of the non-human hominid in the research, testing, or teaching is no longer in the interests of the species to which the non-human hominid belongs; or
+  (c) where the approval was given in accordance with section 85(5)⁠(b), that the benefits to be derived from the use of the non-human hominid in the research, testing, or teaching (being benefits of the kind described in section 80(1)⁠(b)) are outweighed by the likely harm to the non-human hominid; or
   (d) that any condition of the approval is not being complied with; or
   (e) that the person to whom the approval was granted—
     (i) is no longer carrying out research, testing, or teaching; or
-    (ii) has been convicted of an offence against any Act specified in section 96(2)(b); or
+    (ii) has been convicted of an offence against any Act specified in section 96(2)⁠(b); or
     (iii) no longer has the capability and skills to carry out research, testing, or teaching; or
     (iv) has failed to comply in a material respect with this Act or any regulations made under this Act or any code of ethical conduct; or
     (v) has provided in that person's application for the approval information that was false in a material respect.
@@ -1011,9 +1085,14 @@ Codes of welfare issued under section 75 and notices amending or revoking codes 
 **Codes of ethical conduct**
 
 ### 87 Codes of ethical conduct
-Any person who—may apply to the Director-General for approval of a code of ethical conduct in relation to the use of animals.
-  (a) is engaged in, or wishes to be engaged in, research, testing, or teaching; and
-  (b) wishes to use animals in that research, testing, or teaching,—
+(1) Any person referred to in subsection (2) may apply to the Director-General for approval of a code of ethical conduct in relation to the use of animals.
+(2) The persons are—
+  (a) any person who—
+    (i) is engaged in, or wishes to be engaged in, research, testing, or teaching; and
+    (ii) wishes to use animals in that research, testing, or teaching:
+  (b) any person who—
+    (i) is not directly engaged in research, testing, or teaching; but
+    (ii) wishes to enable a teaching organisation to use animals in research, testing, or teaching.
 
 ### 88 Contents of code of ethical conduct
 (1) Each code of ethical conduct must contain provisions that set out, in relation to the carrying out of the research, testing, or teaching to which the code relates, the policies to be adopted and the procedures to be followed,—
@@ -1026,14 +1105,14 @@ Any person who—may apply to the Director-General for approval of a code of eth
   (d) make provision for the code holder to collect the information and to maintain the records required by regulations made under this Act; and
   (e) specify animal management practices and facilities that are such as to enable the purposes of this Part to be met adequately; and
   (f) be such as to ensure that where any member of the animal ethics committee makes a complaint, that complaint may be dealt with fairly and promptly by the animal ethics committee or the code holder; and
-  (g) include, if necessary, the policies and procedures referred to in section 84(1)(b).
+  (g) include, if necessary, the policies and procedures referred to in section 84(1)⁠(b).
 (3) The provisions of each code of ethical conduct must—
   (a) be consistent with this Act and with any standards or policies prescribed by regulations made under this Act; and
   (b) be such as to enable any requirements specified in regulations made under this Act to be met.
 
 ### 89 Application for approval
 (1) Every application under section 87 must be in writing and must contain—
-  (a) information on the general nature and extent of the research, testing, or teaching in which the applicant is engaged or proposes to be engaged; and
+  (a) information on the general nature and extent of the research, testing, or teaching to which the application relates; and
   (b) a statement of the period in respect of which the approval is sought; and
   (c) particulars of any convictions against—
     (i) this Act; or
@@ -1055,7 +1134,7 @@ Any person who—may apply to the Director-General for approval of a code of eth
     (i) made by an accredited reviewer; and
     (ii) showing that the work carried out during the previous period of research, testing, or teaching was satisfactory in terms of section 106(1).
 (3) The Director-General must refer to the National Animal Ethics Advisory Committee for its comments every application made under section 87 and must consult with that Committee with regard to every such application.
-(4) Where a person, who is deemed, by section 192(b)(ii), to be a code holder for the purposes of section 105(3), makes an application under section 87, that application is deemed for the purposes of this section to be an application relating to a second or subsequent period of research, testing, or teaching.
+(4) Where a person, who is deemed, by section 192(b)⁠(ii), to be a code holder for the purposes of section 105(3), makes an application under section 87, that application is deemed for the purposes of this section to be an application relating to a second or subsequent period of research, testing, or teaching.
 
 ### 90 Changes to proposed code
 The Director-General may, before deciding whether to approve, or to refuse to approve, a proposed code of ethical conduct, change the contents of the code if the National Animal Ethics Advisory Committee so recommends after consultation with the applicant.
@@ -1075,8 +1154,8 @@ The Director-General may, before deciding whether to approve, or to refuse to ap
 (1) Subject to subsection (3), the Director-General must, within 40 working days after receiving an application under section 87—
   (a) decide whether to approve the proposed code of ethical conduct, with or without changes, and, if it is to be approved, any conditions to be imposed; and
   (b) give or post to the applicant written notice of the decision on the application.
-(2) If the period specified in subsection (1) expires without the Director-General having approved the proposed code of ethical conduct and without having given a notice under subsection (1)(b), the Director-General is deemed to have refused to approve the proposed code of ethical conduct.
-(3) If, within the period specified in subsection (1), the Director-General notifies the applicant in accordance with subsection (1)(b) that either the Director-General or the National Animal Ethics Advisory Committee either—the period specified in subsection (1) is deemed to be extended by a further 40 working days.
+(2) If the period specified in subsection (1) expires without the Director-General having approved the proposed code of ethical conduct and without having given a notice under subsection (1)⁠(b), the Director-General is deemed to have refused to approve the proposed code of ethical conduct.
+(3) If, within the period specified in subsection (1), the Director-General notifies the applicant in accordance with subsection (1)⁠(b) that either the Director-General or the National Animal Ethics Advisory Committee either—the period specified in subsection (1) is deemed to be extended by a further 40 working days.
   (a) requires more information from the applicant; or
   (b) needs to consult the applicant,—
 
@@ -1104,7 +1183,7 @@ The Director-General may, before deciding whether to approve, or to refuse to ap
   (b) whether scientific developments make it appropriate for the code of ethical conduct to be amended; and
   (c) the consultation conducted under section 95(3).
 (2) The Director-General may, whether or not an application is made under section 95, suspend or revoke the approval of a code of ethical conduct if the Director-General believes, on reasonable grounds, that the code holder—
-  (a) is no longer carrying out research, testing, or teaching; or
+  (a) is no longer carrying out research, testing, or teaching or no longer wishes to enable research, testing, or teaching to be carried out by another person; or
   (b) has been convicted of an offence against—
     (i) this Act; or
     (ii) the Animals Protection Act 1960; or
@@ -1118,7 +1197,7 @@ The Director-General may, before deciding whether to approve, or to refuse to ap
     (x) the Veterinarians Act 2005; or
     (xi) any Act that was replaced by any of the Acts specified in subparagraphs (ii) to (x); or
     (xii) any Act passed in substitution for any of the Acts specified in subparagraphs (iii) to (x); or
-  (c) no longer has the capability and skills necessary to carry out research, testing, or teaching; or
+  (c) no longer has the capability and skills necessary to carry out research, testing, or teaching or to enable research, testing, or teaching to be carried out by another person; or
   (d) has failed to comply in a material respect with this Act or any regulations made under this Act or the code of ethical conduct; or
   (e) has provided in or with the code holder's application under section 87 information that was false in a material respect.
 (3) Except where a code holder applies under section 95(1) for the suspension or revocation of the approval of a code of ethical conduct, the Director-General must, before revoking or suspending the approval of a code of ethical conduct, give the code holder an opportunity to be heard and must consult with the National Animal Ethics Advisory Committee with regard to the proposed revocation or suspension of the code of ethical conduct.
@@ -1139,7 +1218,7 @@ Every code holder must establish and maintain an animal ethics committee.
 ### 99 Functions and powers
 (1) The functions of an animal ethics committee are—
   (a) to consider and determine on behalf of the code holder applications for the approval of projects:
-  (b) to consider and determine, under section 84(1)(a), applications for the approval of projects:
+  (b) to consider and determine, under section 84(1)⁠(a), applications for the approval of projects:
   (c) to set, vary, and revoke conditions of project approvals:
   (d) to monitor compliance with conditions of project approvals:
   (e) to monitor animal management practices and facilities to ensure compliance with the terms of the code of ethical conduct:
@@ -1172,7 +1251,7 @@ In considering any application for the approval of a project and in setting, var
 (3) One member must be—
   (a) the code holder; or
   (b) if the code holder is an organisation, a senior member of the organisation appointed by the chief executive to be a member of the committee.
-(4) Any senior member of an organisation who is appointed under subsection (3)(b) must be a person who is capable of evaluating—
+(4) Any senior member of an organisation who is appointed under subsection (3)⁠(b) must be a person who is capable of evaluating—
   (a) each proposal for a project; and
   (b) the qualifications and skills of the proposer of a project; and
   (c) the scientific value or the teaching value, as the case may require, of a project.
@@ -1307,7 +1386,7 @@ The accredited reviewer must, after conducting a review,—
 **Penalties**
 
 ### 119 Penalties
-A person who commits an offence against section 82(2) or section 83(2) or section 85(7) is liable on conviction,—
+A person who commits an offence against section 82(2) or section 83(2) or section 84A(3) or section 85(7) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $25,000 or to both; and
   (b) in the case of a body corporate, to a fine not exceeding $125,000.
 
@@ -1331,7 +1410,7 @@ The purpose of this Part is to—
 
 ### 122 Criteria
 (1) The Minister must, before declaring an organisation to be an approved organisation for the purposes of this Act, be satisfied, by the production to the Minister of suitable evidence, that—
-  (a) the principal purpose of the organisation is to promote the welfare of animals; and
+  (a) one of the purposes or roles of the organisation concerns the welfare of animals or a particular species of animal; and
   (b) the accountability arrangements, financial arrangements, and management of the organisation are such that, having regard to the interests of the public, the organisation is suitable to be declared to be an approved organisation; and
   (c) the functions and powers of the organisation are not such that the organisation could face a conflict of interest if it were to have both those functions and powers and the functions and powers of an approved organisation; and
   (d) the employment contracts or arrangements between the organisation and the organisation's inspectors and auxiliary officers are such that, having regard to the interests of the public, the organisation is suitable to be declared to be an approved organisation; and
@@ -1339,23 +1418,62 @@ The purpose of this Part is to—
     (i) will have the relevant technical expertise and experience to be able to exercise competently the powers, duties, and functions conferred or imposed on inspectors and auxiliary officers under this Act; and
     (ii) subject to section 126, will be properly answerable to the organisation.
 (2) The Minister may, in making a declaration under section 121, impose, as conditions of the Minister's approval, conditions relating to the establishment by the organisation of performance standards and technical standards for inspectors and auxiliary officers.
+(3) The Minister may, in making a declaration under section 121, specify that the approval is given in respect of—
+  (a) only the species specified in the declaration; or
+  (b) all animals.
+(4) Nothing in this section obliges the Minister to make a declaration under section 121.
+(5) The Minister may, in making a declaration under section 121, impose, as conditions of the Minister's approval, any other conditions or requirements that relate to the organisation’s performance of its functions and powers that he or she considers necessary or desirable.
 
 ### 123 Amendment or revocation of declaration
-(1) The Minister may from time to time, by notice in the Gazette,—
-  (a) revoke any declaration made under section 121 if the Minister is satisfied—
-    (i) that the organisation no longer meets any 1 or more of the criteria set out in section 122; or
-    (ii) that the organisation has failed to comply with any condition imposed under section 122(2).
+(1) The Minister may from time to time, by notice in the Gazette, revoke any declaration made under section 121 if the Minister is satisfied that—
+  (a) the organisation no longer meets any 1 or more of the criteria set out in section 122; or
+  (b) the organisation has failed to comply with any condition imposed under section 122(2); or
+  (c) the organisation has failed to comply with any condition imposed under section 122(5).
 (2) The Minister may from time to time, by notice in the Gazette,—
-  (a) revoke any condition imposed under section 122(2):
-  (b) revoke any condition imposed under section 122(2), and impose another condition in its place:
-  (c) amend any condition imposed under section 122(2) or this section.
+  (a) revoke any condition imposed under section 122(2) or (5):
+  (b) revoke any condition imposed under section 122(2) or (5), and impose another condition in its place:
+  (c) amend any condition imposed under section 122(2) or (5) or this section.
+
+### 123A Appointment of auditors
+(1) The Director-General may appoint auditors to carry out audits of approved organisations for the purposes of this Act.
+(2) The Director-General may appoint as auditors only those persons who have appropriate experience, technical competence, and qualifications relevant to the audits.
+(3) Auditors may, but need not, be persons who are employed under the State Sector Act 1988.
+
+### 123B Audits
+(1) The Director-General must set terms of reference for audits of approved organisations.
+(2) Audits include examinations, investigations, and reviews.
+(3) Auditors conduct audits as to the previous and current positions, and as to the likely future position, of—
+  (a) an organisation’s ability to meet the criteria set out in section 122(1):
+  (b) compliance by an organisation and its inspectors and auxiliary officers with any relevant performance and technical standards for inspectors and auxiliary officers:
+  (c) an organisation's compliance with any memorandum of understanding established between the organisation and the Ministry:
+  (d) the exercise of any power, and the carrying out of any functions or duties, by any inspector or auxiliary officer of an organisation:
+  (e) an organisation's compliance with animal welfare law:
+  (f) compliance by an organisation and its inspectors and auxiliary officers with any direction issued by the Director-General under section 126:
+  (g) any other class or description of audit necessary to audit an organisation’s work or status as an approved organisation under this Act.
+(4) Any inspector, auxiliary officer, or employee of an organisation, and any other inspector or auxiliary officer, may be the subject of an audit.
+
+### 123C Auditors' general duties
+(1) An auditor must use his or her best endeavours to comply with and give effect to relevant performance or technical standards when exercising powers or carrying out functions or duties for the purposes of this Act.
+(2) An auditor must give the approved organisation that is to be audited a written notice of the audit and the terms of reference a reasonable time before the audit starts, unless giving notice would defeat the purpose of the audit.
+(3) The auditor must conduct the audit within the terms of reference.
+
+### 123D Auditors' powers
+(1) An auditor may exercise the powers in this section for the purposes of an audit.
+(2) The Director-General may give the approved organisation that is to be audited a written notice to appear before an auditor at a time and place specified in the notice.
+(3) If the Director-General acts under subsection (2), the auditor may require the approved organisation to answer all questions relating to the audit put to the organisation.
+(4) An auditor may examine the systems, processes, and records of the approved organisation.
+(5) The approved organisation must ensure that the auditor—
+  (a) has full access to all books and records in the possession or under the control of the organisation and to any place where any such books or records are kept; and
+  (b) is able to examine or audit any books or records, and take copies or extracts from them; and
+  (c) has full access to facilities (for example, animal shelters) that are maintained so that the organisation can fulfil its duties under this Act, and is able to take samples and records from facilities and animals kept there as provided in section 127; and
+  (d) has full access to any other thing that relates to the organisation’s performance of duties under this Act and the organisation's ability to meet the criteria set out in section 122(1).
 
 ### 124 Appointment of inspectors
 (1) There may from time to time be appointed under the State Sector Act 1988 suitable persons to be inspectors for the purposes of this Act.
 (2) The Minister may from time to time, on the recommendation of an approved organisation, appoint any person to be an inspector for the purposes of this Act.
 (3) Every inspector appointed under subsection (2)—
   (a) must be appointed either—
-    (i) for particular purposes of this Act (which particular purposes must be specified in the inspector's instrument of appointment); or
+    (i) for particular purposes of this Act specified in the inspector's instrument of appointment, which may include the exercise of particular powers of inspectors under this Act or relate to a particular species; or
     (ii) for the general purposes of this Act; and
   (b) must be appointed either—
     (i) for a particular district or part or parts of New Zealand; or
@@ -1364,10 +1482,19 @@ The purpose of this Part is to—
 (5) Every constable is, by virtue of his or her office, deemed to be an inspector appointed to act generally throughout New Zealand for the general purposes of this Act.
 (6) Every inspector appointed under subsection (2)—
   (a) is appointed for such term, not exceeding 3 years, as the Minister thinks fit, and is eligible for reappointment from time to time:
+  (aa) may at any time be suspended from office by the Minister if he or she considers it desirable to do so pending the investigation of a complaint relating to—
+    (i) the inspector's performance of his or her functions or duties; or
+    (ii) any suspected neglect of duty or misconduct of the inspector:
   (b) may at any time be removed from office by the Minister for incapacity affecting performance of duty, neglect of duty, or misconduct proved to the satisfaction of the Minister:
   (c) may resign his or her office by giving written notice to that effect to the Minister:
   (d) must on the expiration of the term of his or her appointment, or on the sooner expiry of his or her appointment by removal from office or resignation, surrender to the Minister his or her instrument of appointment.
-(7) Without limiting subsection (6)(b), it is declared that where an approved organisation informs the Minister in writing that an inspector who was appointed on the recommendation of that approved organisation is no longer acting for that approved organisation or for an incorporated society that is a branch or member of that approved organisation in that capacity or in the particular district or part or parts of New Zealand for which the inspector was appointed, the Minister may, by written notice to that inspector, invite that inspector to both resign his or her office in accordance with subsection (6)(c) and surrender his or her instrument of appointment in accordance with subsection (6)(d) by a date specified in the notice, and, if that inspector fails to do so by that date, the Minister may revoke that inspector's appointment.
+(6A) If the Minister suspends an inspector under subsection (6)⁠(aa), the Minister must give the inspector a written notice stating—
+  (a) that the inspector's appointment is suspended; and
+  (b) either—
+    (i) the period of the suspension; or
+    (ii) that suspension is for an indefinite period; and
+  (c) the reasons for the suspension.
+(7) Without limiting subsection (6)⁠(b), it is declared that where an approved organisation informs the Minister in writing that an inspector who was appointed on the recommendation of that approved organisation is no longer acting for that approved organisation or for an incorporated society that is a branch or member of that approved organisation in that capacity or in the particular district or part or parts of New Zealand for which the inspector was appointed, the Minister may, by written notice to that inspector, invite that inspector to both resign his or her office in accordance with subsection (6)⁠(c) and surrender his or her instrument of appointment in accordance with subsection (6)⁠(d) by a date specified in the notice, and, if that inspector fails to do so by that date, the Minister may revoke that inspector's appointment.
 (8) No person appointed by the Minister under subsection (2) to be an inspector is by virtue of that appointment employed in the Public Service for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
 (9) The Director-General may from time to time establish performance standards and technical standards for inspectors appointed under subsection (1).
 (10) Every inspector appointed under subsection (1) or subsection (2) must, when performing his or her functions or duties under this Act or exercising his or her powers under this Act, use his or her best endeavours to comply with, and give effect to, the relevant performance standards or technical standards.
@@ -1375,6 +1502,7 @@ The purpose of this Part is to—
 ### 125 Appointment of auxiliary officers
 (1) The Director-General may from time to time, on the recommendation of an approved organisation, appoint any person to be an auxiliary officer for the purposes of this Act.
 (2) No person appointed by the Director-General under this section to be an auxiliary officer is by virtue of that appointment employed in the Public Service for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
+(2A) The Director-General may at any time suspend a person's appointment as an auxiliary officer.
 (3) The Director-General may at any time revoke any appointment made under subsection (1).
 
 ### 126 Inspectors and auxiliary officers to act under direction of Director-General
@@ -1389,12 +1517,18 @@ The purpose of this Part is to—
   (b) in the case of any vehicle, aircraft, or ship, at any reasonable time or times at which the vehicle, aircraft, or ship is stationary,—
 (2) A constable may, for the purpose of exercising the powers conferred by this section or of enabling an inspector to exercise any of the powers conferred by this section, stop any vehicle if the constable has reasonable grounds to believe that an animal on or in that vehicle is suffering or is likely to suffer unreasonable or unnecessary pain or distress.
 (3) No inspector may, under subsection (1), enter in or on any dwelling or marae unless he or she is authorised to do so by a search warrant issued under section 131.
-(4) In the case of a ship that is neither a ship registered under the Ship Registration Act 1992 nor a ship entitled under any provision of that Act (other than section 8(1)(b)) to be registered as a New Zealand ship, the power that an inspector has, under subsection (1), may be exercised only if the ship—
+(4) In the case of a ship that is neither a ship registered under the Ship Registration Act 1992 nor a ship entitled under any provision of that Act (other than section 8(1)⁠(b)) to be registered as a New Zealand ship, the power that an inspector has, under subsection (1), may be exercised only if the ship—
   (a) is in a port, harbour, roadstead, or anchorage in New Zealand; or
   (b) is otherwise within the internal waters of New Zealand as defined by section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
+(4A) If an inspector exercises a power of entry under subsection (1), the inspector may take any photographs, sound or video recordings, drawings, or other records (whether paper-based or electronic) of anything relevant to, and observed during, an inspection.
+(4B) If an inspector exercises a power of entry under subsection (1), the inspector may take—
+  (a) the carcass of or tissue or other bodily samples (for example, blood samples) from any dead animal found during an inspection:
+  (b) tissue or other bodily samples (for example, blood samples) from any live animal found during the inspection.
 (5) Where an inspector who exercises a power of entry under subsection (1) has reasonable grounds to believe, in respect of any animal found on or in the land, premises, or place or in or on the vehicle, aircraft, or ship, that—the inspector may take and maintain possession of the animal, by force if necessary, and convey the animal to another place.
   (a) the animal has been wilfully ill-treated contrary to section 28; or
-  (b) the physical, health, and behavioural needs of the animal or the need for the animal to receive treatment from a veterinarian make it necessary or desirable to remove the animal from the land, premises, or place or the vehicle, aircraft, or ship,—
+  (aa) the owner of the animal is already disqualified from owning an animal under this Act; or
+  (b) the physical, health, and behavioural needs of the animal or the need for the animal to receive treatment from a veterinarian make it necessary or desirable to remove the animal from the land, premises, or place or the vehicle, aircraft, or ship; or
+  (c) the animal is at clear risk of imminent harm,—
 (6) The inspector may keep the animal at a place chosen by the inspector until—
   (a) the animal is, under section 172, forfeited to the Crown or to an approved organisation; or
   (b) a District Court Judge orders that the animal be delivered to the owner of the animal or to the person charged with the offence against this Act.
@@ -1418,7 +1552,17 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
 (1) Where an inspector, either in the course of the exercise of a power of entry under section 127 or at any other time, has reasonable grounds to believe that an animal is suffering or is likely to suffer unreasonable or unnecessary pain or distress, the inspector—
   (a) may take all such steps as the inspector considers are necessary or desirable to prevent or mitigate the suffering of the animal (including, if necessary, destroying or arranging for the destruction of the animal); and
   (b) may, by notice in writing given by the inspector to the owner or the person in charge of the animal or any person appearing to be in charge of the animal, require the person to whom the notice is given to take all such steps as the inspector considers are necessary or desirable to prevent or mitigate the suffering of the animal (including, if necessary, destroying or arranging for the destruction of the animal).
-(2) A person commits an offence who, without reasonable excuse, refuses or fails to comply with any requirement of an inspector under subsection (1)(b).
+(1A) If an inspector proposes to destroy, or require the destruction of, an animal under subsection (1), the inspector must ensure that the process in section 138 is followed before the animal is destroyed (as if that section applied).
+(1B) Without limiting section 185, a notice under subsection (1)⁠(b) may be served on a person by—
+  (a) delivering it personally to the person:
+  (b) delivering it to the person at the person's usual or last-known place of residence or business:
+  (c) sending it by fax or email to the person's fax number or email address:
+  (d) posting it in a letter addressed to the person at the person's usual or last-known place of residence or business.
+(1C) The following provisions apply to service as described in subsection (1B):
+  (a) service on an officer of a body, or on the body's registered office, is deemed to be service on the body:
+  (b) service on any of the partners in a partnership is deemed to be service on the partnership:
+  (c) service by post is deemed to occur at the time at which the notice would have been delivered in the ordinary course of the post.
+(2) A person commits an offence who, without reasonable excuse, fails to comply with any requirement of an inspector under subsection (1)⁠(b).
 (3) A person who commits an offence against subsection (2) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
@@ -1431,7 +1575,7 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
   (b) the suffering of an animal could be prevented or mitigated; or
   (c) there is any thing that is evidence of an offence committed against this Act or any regulations made under this Act; or
   (d) there is any thing which there are reasonable grounds to believe may be evidence of the commission of any offence against this Act or any regulations made under this Act,—
-(2) In the case of a ship that is neither a ship registered under the Ship Registration Act 1992 nor a ship entitled under any provision of that Act (other than section 8(1)(b)) to be registered as a New Zealand ship, the power that a constable or an inspector has, under a search warrant issued under subsection (1), may be exercised only if the ship—
+(2) In the case of a ship that is neither a ship registered under the Ship Registration Act 1992 nor a ship entitled under any provision of that Act (other than section 8(1)⁠(b)) to be registered as a New Zealand ship, the power that a constable or an inspector has, under a search warrant issued under subsection (1), may be exercised only if the ship—
   (a) is in a port, harbour, roadstead, or anchorage in New Zealand; or
   (b) is otherwise within the internal waters of New Zealand as defined by section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
 (3) The provisions of Part 4 of the Search and Surveillance Act 2012 apply, subject to subsection (4) and sections 133(2) and (4), 136, and 136A.
@@ -1447,6 +1591,7 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
 (4) Where an inspector executes a search warrant and the inspector is satisfied an animal is suffering unreasonable or unnecessary pain or distress because—the inspector may take any steps that the inspector considers are necessary or desirable to prevent or mitigate the suffering of the animal (including, if necessary, destroying or arranging for the destruction of the animal).
   (a) the physical, health, and behavioural needs of the animal are not being met; or
   (b) for any other reason,—
+(4A) If an inspector proposes to destroy, or require the destruction of, an animal under subsection (4), the inspector must ensure that the process in section 138 is followed before the animal is destroyed (as if that section applied).
 (5)
 
 ### 134 Production of search warrant
@@ -1460,9 +1605,9 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
 ### 136 Disposal of thing seized
 (1) Subject to subsections (2) and (3) and section 136A, subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of—
   (a) any thing seized by a constable (including any animal seized by a constable under the authority of a search warrant issued under section 131 and any animal of which a constable takes possession under section 137(1)); and
-  (b) with the necessary modifications, any thing seized by an inspector (including any animal seized by an inspector under the authority of a search warrant issued under section 131 and any animal of which an inspector takes possession under section 127(5)).
+  (b) with the necessary modifications, any thing seized by an inspector (including any animal seized by an inspector under the authority of a search warrant issued under section 131 and any animal of which an inspector takes possession under section 127).
 (2) Despite anything in subpart 6 of Part 4 of the Search and Surveillance Act 2012, a constable or an inspector who has custody of an animal may place that animal in the care of any other person.
-(3) If the court orders, under section 154(2)(c) of the Search and Surveillance Act 2012, that any animal or thing seized must be disposed of by way of sale, the proceeds of that sale must be applied—
+(3) If the court orders, under section 154(2)⁠(c) of the Search and Surveillance Act 2012, that any animal or thing seized must be disposed of by way of sale, the proceeds of that sale must be applied—
   (a) first, in the payment of the expenses incurred in arranging the sale:
   (b) secondly, if an animal and equipment are sold,—
     (i) the expenses incurred in caring for that animal before the sale; and
@@ -1471,7 +1616,7 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
 
 ### 136A Disposal of animals seized or taken into custody prior to commencement or determination of proceedings
 (1) This section applies if—
-  (a) 1 or more animals are seized by a constable or an inspector, under the authority of a search warrant issued under section 131, or are taken into possession by an inspector under section 127(5) or a constable under section 137(1); and
+  (a) 1 or more animals are seized by a constable or an inspector, under the authority of a search warrant issued under section 131, or are taken into possession by an inspector under section 127 or a constable under section 137(1); and
   (b) either—
     (i) proceedings for an offence involving that animal or those animals—
       (A) have been commenced but not yet determined; or
@@ -1496,7 +1641,7 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
   (g) whether it is reasonable or practicable for the Ministry or an approved organisation to retain possession of and care for the animal or animals until the determination of the proceedings relating to the animal or animals:
   (h) whether any person will suffer material or other loss, and the extent of that loss, if the animal or animals are sold:
   (i) any other matters the court considers relevant.
-(5) If an animal is sold under the authority of an order under subsection (2)(a), the proceeds of sale (if any) must be held by the Ministry or an approved organisation (after deducting (in order) the costs of sale, any sums required to be paid to a security holder or any other person under a condition of the order for sale, and any costs incurred by the Crown or approved organisation in caring for the animal or animals or providing veterinary treatment to that animal or those animals).
+(5) If an animal is sold under the authority of an order under subsection (2)⁠(a), the proceeds of sale (if any) must be held by the Ministry or an approved organisation (after deducting (in order) the costs of sale, any sums required to be paid to a security holder or any other person under a condition of the order for sale, and any costs incurred by the Crown or approved organisation in caring for the animal or animals or providing veterinary treatment to that animal or those animals).
 (6) The Ministry or approved organisation referred to in subsection (5) must, unless the proceeds of sale are forfeited to the Crown under section 172(1) or the owner of the animal is unknown or cannot be contacted, pay the proceeds of sale to the owner as soon as practicable—
   (a) after the determination of the proceedings for an offence involving that animal or those animals; or
   (b) after a decision is taken not to commence any such proceedings.
@@ -1508,7 +1653,7 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
     (i) conduct a search of the vehicle, aircraft, or ship, or animal, or both, under another provision in this Act or under any other enactment that authorises such a search; or
     (ii) provide humane treatment for any animal that is moved.
 (2)
-(3) In the case of a ship that is neither a ship registered under the Ship Registration Act 1992 nor a ship entitled under any provision of that Act (other than section 8(1)(b)) to be registered as a New Zealand ship, the powers that a constable has, under subsection (1), may be exercised only if the ship—
+(3) In the case of a ship that is neither a ship registered under the Ship Registration Act 1992 nor a ship entitled under any provision of that Act (other than section 8(1)⁠(b)) to be registered as a New Zealand ship, the powers that a constable has, under subsection (1), may be exercised only if the ship—
   (a) is in a port, harbour, roadstead, or anchorage in New Zealand; or
   (b) is otherwise within the internal waters of New Zealand as defined by section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
 
@@ -1526,7 +1671,7 @@ If the person in charge of the land, premises, or place or the vehicle, aircraft
 (3) If the owner of a severely injured or sick animal is found and consulted under subsection (1), and agrees that the animal should be destroyed,—
   (a) the inspector, auxiliary officer, or veterinarian, as the case may be, must, without delay, destroy that animal or cause it to be destroyed; or
   (b) the owner of that animal must, without delay, destroy that animal or cause it to be destroyed.
-(4) If the owner obtains a second opinion under subsection (1)(b), and the other veterinarian agrees that the animal should be destroyed,—
+(4) If the owner obtains a second opinion under subsection (1)⁠(b), and the veterinarian giving that opinion agrees that the animal should be destroyed,—
   (a) the inspector, auxiliary officer, or veterinarian as the case may be, must, without delay, destroy that animal or cause it to be destroyed; or
   (b) the owner of that animal must, without delay, destroy that animal or cause it to be destroyed.
 (5) Where, under this section, an inspector, auxiliary officer, or veterinarian destroys an animal or causes it to be destroyed, he or she may dispose of the carcass in such manner as he or she thinks fit.
@@ -1545,11 +1690,26 @@ If an inspector, auxiliary officer, or veterinarian finds a severely injured or 
 (1) Where a person (other than the owner of an animal) gives that animal into the custody of an approved organisation and that approved organisation accepts custody of that animal, or where an approved organisation takes any animal into its custody, that approved organisation—
   (a) must take reasonable steps to identify the owner of the animal; and
   (b) may take such steps as it considers necessary or desirable to prevent or mitigate any suffering of the animal.
+(1A) Subsection (1B) applies if—
+  (a) an owner of an animal, or a person acting as the agent of an owner of an animal, gives the animal into the temporary custody of an approved organisation; and
+  (b) an arrangement exists for the return of the animal to the owner or the owner's agent; and
+  (c) the owner or the owner's agent does not return to reclaim custody of that animal as agreed.
+(1B) If this subsection applies, the approved organisation may sell, re-home, or dispose of (including destroy) the animal in any manner that an inspector or auxiliary officer acting for the organisation thinks fit if—
+  (a) the approved organisation has taken reasonable steps to locate and contact the owner; and
+  (b) either—
+    (i) the approved organisation has been unable to locate or contact the owner; or
+    (ii) the approved organisation has located and attempted to contact the owner, but the owner will not respond; and
+  (c) the approved organisation has given the owner written notice of its intention to sell, re-home, or otherwise dispose of (including destroy) the animal in accordance with the provisions of subsection (3); and
+  (d) the owner has not, within the period specified in the notice, reclaimed the animal and paid any costs incurred by the organisation and specified in the notice.
 (2) Where the approved organisation cannot identify the owner of the animal, an inspector or auxiliary officer acting for the approved organisation may—
   (a) after the animal has been in the custody of the organisation for at least 7 days,—
     (i) sell the animal; or
     (ii) find a home for the animal; or
     (iii) destroy or otherwise dispose of the animal in such manner as the inspector or auxiliary officer thinks fit:
+  (aa) at any time, sell, re-home, or otherwise dispose of (including destroy) the animal in any manner that the inspector or auxiliary officer thinks fit if—
+    (i) the animal is wild or unsocialised; and
+    (ii) the animal is severely distressed; and
+    (iii) in the opinion of a veterinarian, the animal’s distress is a direct result of being contained to the extent that it would be unreasonable and unnecessary to continue to contain the animal:
   (b) at any time, in any case where the animal is diseased or is suspected of being diseased and the inspector or auxiliary officer has reasonable grounds to believe that the welfare of other animals in the custody of the approved organisation would be compromised if the organisation were to continue to hold that animal in custody,—
     (i) sell the animal; or
     (ii) find a home for the animal; or
@@ -1562,7 +1722,7 @@ If an inspector, auxiliary officer, or veterinarian finds a severely injured or 
   (a) sell the animal; or
   (b) find a home for the animal; or
   (c) destroy or otherwise dispose of the animal in such manner as the inspector or auxiliary officer thinks fit.
-(5) Where an animal is sold under subsection (2) or subsection (4), the approved organisation must, after deducting any costs incurred by the approved organisation in caring for the animal or providing veterinary treatment to the animal, apply the proceeds of the sale towards the costs of the animal welfare work of the approved organisation.
+(5) Where an animal is sold under subsection (1B), (2), or (4), the approved organisation must, after deducting any costs incurred by the approved organisation in caring for the animal or providing veterinary treatment to the animal, apply the proceeds of the sale towards the costs of the animal welfare work of the approved organisation.
 (6) In this section, the term animal does not include—
   (a) a native animal; or
   (b) stock within the meaning of section 2(1) of the Impounding Act 1955.
@@ -1661,6 +1821,102 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
   (a) regulating the practice and procedure of District Courts in proceedings under this Act that relate to enforcement orders:
   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act that relate to enforcement orders.
 
+**Compliance notices**
+
+### 156A Scope
+(1) An inspector may issue a compliance notice to a person.
+(2) A compliance notice may—
+  (a) require the person to cease doing something that the inspector has good cause to suspect contravenes or is likely to contravene this Act or any regulations made under it; or
+  (b) prohibit the person from starting something that the inspector has good cause to suspect contravenes or is likely to contravene this Act or any regulations made under it; or
+  (c) prohibit the person from doing something again that the inspector has good cause to suspect contravenes or is likely to contravene this Act or any regulations made under it; or
+  (d) prohibit the person from having something done on the person's behalf that the inspector has good cause to suspect contravenes or is likely to contravene this Act or any regulations made under it; or
+  (e) prohibit the person from having something done on the person's behalf again that the inspector has good cause to suspect contravenes or is likely to contravene this Act or any regulations made under it; or
+  (f) require the person to do something that the inspector reasonably believes is necessary to ensure that the person complies with this Act or any regulations made under it.
+
+### 156B Content
+A compliance notice must state—
+  (a) the name of the person to whom it is issued; and
+  (b) the reasons why the inspector issued it; and
+  (c) the requirement or prohibition in section 156A(2) imposed by the inspector; and
+  (d) one of the following:
+    (i) for a requirement, the period, if any, within which the requirement must be achieved, which must start on the day on which the notice is served and end after a time that is reasonable for the achievement of the requirement; or
+    (ii) for a prohibition, the time and date, if any, from which the prohibition is to take effect; and
+  (e) the conditions, if any, imposed by the inspector; and
+  (f) the consequences of not complying with the notice; and
+  (g) the rights of appeal in section 156F; and
+  (h) the name and address of the agency whose inspector issued the notice.
+
+### 156C Service
+(1) An inspector who issues a compliance notice must ensure that it is served on the person to whom it is issued.
+(2) Without limiting section 185, a compliance notice may be served by—
+  (a) delivering it personally to the person:
+  (b) delivering it to the person at the person's usual or last-known place of residence or business:
+  (c) sending it by fax or email to the person's fax number or email address:
+  (d) posting it in a letter addressed to the person at the person's usual or last-known place of residence or business.
+(3) The following provisions apply to service as described in subsection (2):
+  (a) service on an officer of a body, or on the body's registered office, is deemed to be service on the body:
+  (b) service on any of the partners in a partnership is deemed to be service on the partnership:
+  (c) service by post is deemed to occur at the time at which the notice would have been delivered in the ordinary course of the post.
+
+### 156D Compliance
+The person to whom a compliance notice is issued must—
+  (a) comply with the notice; and
+  (b) do so within the period stated in the notice, if a period is stated; and
+  (c) pay all the costs and expenses of complying with the notice, unless the order states otherwise.
+
+### 156E Change or cancellation
+(1) A compliance notice may be changed or cancelled under subsection (2) or cancelled under subsection (3) by the Director-General.
+(2) If the Director-General receives a written application from the person to whom the notice was issued to change or cancel the notice, the Director-General—
+  (a) must consider the application as soon as practicable and in any event within 10 working days after the date on which the application is received, having regard to—
+    (i) the purpose for which the notice was issued; and
+    (ii) the effect of a change or cancellation on the purpose; and
+    (iii) any other matter he or she thinks fit:
+  (b) may confirm, change, or cancel the notice:
+  (c) must give the person to whom the notice was issued written notice of the confirmation, change, or cancellation.
+(3) The Director-General—
+  (a) may cancel the notice if he or she considers that the notice is no longer required; and
+  (b) must give the person to whom the notice was issued written notice of the cancellation.
+(4) An application to change or cancel a compliance notice does not operate as a stay of the notice.
+
+### 156F Appeal to District Court
+(1) The following persons may appeal to a District Court:
+  (a) the person to whom a compliance notice was issued under section 156A:
+  (b) a person whose application under section 156E(2) did not succeed.
+(2) The appeal does not operate as a stay of the compliance notice.
+(3) The person may apply to the court for a stay of the compliance notice pending the court's decision on the appeal.
+(4) The court must consider the application for a stay as soon as practicable after the application for it is lodged.
+(5) The court must consider—
+  (a) whether to hear—
+    (i) the person:
+    (ii) the Director-General; and
+  (b) the likely effect on animal welfare of granting a stay; and
+  (c) whether it is unreasonable for the person to comply with the compliance notice pending the decision on the appeal; and
+  (d) any other matters that the court thinks fit.
+(6) The court may grant or refuse a stay and may impose any terms or conditions that the court thinks fit.
+(7) The stay has legal effect once a copy of it is served on the Director-General.
+(8) The stay remains in force until the District Court orders it lifted.
+(9) The rules of procedure under the District Courts Act 1947 apply to the making of an appeal and an application for a stay.
+(10) The District Court may confirm, change, or cancel the compliance notice appealed against.
+
+### 156G Appeal to High Court, Court of Appeal, or Supreme Court
+(1) A party to an appeal under section 156F may appeal to the High Court on a question of law.
+(2) The High Court Rules and sections 74 to 78 of the District Courts Act 1947 apply to an appeal under subsection (1)—
+  (a) as if it were an appeal under section 72 of the District Courts Act 1947; and
+  (b) with all necessary modifications.
+(3) A party to an appeal under subsection (1) may appeal to the Court of Appeal or the Supreme Court against a determination of the High Court on a question of law, with the leave of the court appealed to, and subject to section 14 of the Supreme Court Act 2003.
+(4) The Court of Appeal or the Supreme Court hearing an appeal under this section has the same power to adjudicate on the appeal as the High Court had.
+
+### 156H Effect of appeal
+An appeal under section 156F or 156G has the following effects:
+  (a) the Director-General whose compliance notice is appealed against must not cancel the notice while the notice is the subject of an appeal or while the time for the person's appeal rights is running; and
+  (b) the person who appeals must comply with the notice if compliance is required as the result of the person exercising the person's appeal rights.
+
+### 156I Penalties for non-compliance with compliance notice
+(1) A person commits an offence who, without reasonable excuse, fails to comply with any requirement made or prohibition imposed under section 156A.
+(2) A person who commits an offence against this section is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $5,000; or
+  (b) in the case of a body corporate, to a fine not exceeding $25,000.
+
 **Miscellaneous provisions**
 
 ### 157 Offenders to give name and address
@@ -1669,9 +1925,12 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
   (b) if the inspector has reasonable grounds to believe that that person has committed an offence against this Act or any regulations made under this Act.
 (2) If the inspector believes on reasonable grounds that any details given to the inspector under subsection (1) are false or misleading, the inspector may request the person to give to the inspector such verification of those details as it is reasonable in the circumstances to require the person to provide.
 (3) If any person, without reasonable excuse, refuses or fails to comply with a request made under subsection (1) or subsection (2) and persists in the refusal or failure after being warned by the inspector of the provisions of this subsection, any inspector who is a constable may arrest that person without warrant.
-(4) Every person commits an offence and is liable on conviction to a fine not exceeding $900 who, without reasonable excuse,—
-  (a) refuses or fails to comply with a request made under subsection (1) or subsection (2); or
-  (b) gives to an inspector, in response to a request made under subsection (1) or subsection (2), particulars that are false in a material respect.
+(4) A person commits an offence who, without reasonable excuse,—
+  (a) fails to comply with a request made under subsection (1) or (2); or
+  (b) gives to an inspector, in response to a request made under subsection (1) or (2), particulars that are false in a material respect.
+(5) A person who commits an offence against subsection (4) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $5,000; or
+  (b) in the case of a body corporate, to a fine not exceeding $25,000.
 
 ### 158 Protection of persons acting under authority of Act
 (1) No inspector, auxiliary officer, accredited reviewer, or person assisting an inspector or constable is personally liable for any act done or omitted in good faith by the inspector, auxiliary officer, accredited reviewer, or person in pursuance or intended pursuance of any of the functions, duties, or powers conferred by this Act on the inspector, auxiliary officer, accredited reviewer, or person.
@@ -1696,22 +1955,20 @@ In addition to all other powers conferred by the District Courts Act 1947, the G
 **Infringement offences**
 
 ### 161 Infringement offences
-If a person is alleged to have committed an infringement offence, that person may either—
+(1) If a person is alleged to have committed an infringement offence, that person may either—
   (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided in section 162.
+(2) Despite section 21(1) of the Summary Proceedings Act 1957, leave under that provision is not required in order to file a charging document in respect of an infringement offence under this Act.
 
 ### 162 Infringement notices
 (1) If an inspector has reasonable cause to believe that a person has committed an infringement offence, an infringement notice may be issued to that person by the inspector.
 (2) An infringement notice may be served—
   (a) by delivering it personally to the person who appears to have committed the infringement offence; or
   (b) by sending it by post addressed to the person at the person's last known place of residence or business.
-(3) An infringement notice sent to a person by post under subsection (2)(b) is to be treated as having been served on the person when it was so posted.
+(3) An infringement notice sent to a person by post under subsection (2)⁠(b) is to be treated as having been served on the person when it was so posted.
 (4) An infringement notice must be in the prescribed form and must contain the following particulars:
   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
-  (b) the amount of the infringement fee, which amount is,—
-    (i) in the case of an offence against section 36(2), $400; and
-    (ii) in the case of an offence against section 157(4), $300; and
-    (iii) in the case of an offence against any regulations made under this Act, such amount (not exceeding $200) as is specified in those regulations in relation to that offence; and
+  (b) the amount of the infringement fee (being an amount not exceeding $1,000 prescribed by regulations made under this Act); and
   (c) the address or addresses at which the infringement fee may be paid; and
   (d) the time within which the infringement fee may be paid; and
   (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
@@ -1749,7 +2006,7 @@ Where any body corporate is convicted of an offence against this Act, every dire
 (3) A certificate referred to in subsection (1) is admissible in evidence only if,—
   (a) at least 14 days before the hearing at which the certificate is to be tendered, a copy of that certificate is served, by or on behalf of the prosecutor, on the defendant or the defendant's agent or counsel, and that person is at the same time informed in writing that the prosecutor does not propose to call the person who signed the certificate as a witness at the hearing; and
   (b) the court has not, on the application of the defendant made not less than 7 days before the hearing, ordered, not less than 4 days before the hearing (or such lesser period as the court in the special circumstances of the case thinks fit), that the certificate should not be admissible as evidence in the proceedings.
-(4) The court may not make an order under subsection (3)(b) unless the court is satisfied that there is a reasonable doubt as to the accuracy or validity of the relevant certificate.
+(4) The court may not make an order under subsection (3)⁠(b) unless the court is satisfied that there is a reasonable doubt as to the accuracy or validity of the relevant certificate.
 
 ### 167 Time for filing charging document for offence against section 54 or 130
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against section 54 or 130 of this Act ends on the date that is 2 years after the date on which the offence was committed.
@@ -1767,15 +2024,22 @@ In proceedings for an offence against any of sections 14, 21, 22, 23, 34, 35, 36
   (b) the burden of proving that the defendant had a reasonable excuse lies on the defendant.
 
 ### 169 Court may disqualify person from owning or exercising authority in respect of animals
-(1) A court may (in addition to or in substitution for any other penalty) disqualify a person for any period that it thinks fit from being the owner of, or exercising authority in respect of, an animal or animals of a particular kind or description where the court convicts that person of an offence against—
-  (a) section 28 or 28A; or
-  (b) any section in Part 1 or 2 and the person has previously been convicted of an offence against—
-    (i) any section in Part 1 or 2; or
-    (ii) any of sections 3, 4, and 16(3) of the Animals Protection Act 1960; or
-  (c) any section in Part 1 or 2 and the court considers that by reason of the serious nature of the offence the person should be disqualified under this section; or
-  (d) section 152(1); or
-  (e) section 169B(1).
-(2) In making an order under subsection (1), the court may also specify a minimum disqualification period.
+(1) This section applies if a person is convicted of an offence against—
+  (a) any section in Part 1 or 2; or
+  (b) section 152(1); or
+  (c) section 169B(1).
+(2) This section also applies if a person is charged with an offence against any enactment specified in subsection (1) and is found unfit to stand trial (under the Criminal Procedure (Mentally Impaired Persons) Act 2003).
+(3) If this section applies in relation to a person, the court may (in addition to or in substitution for any other penalty or order) make an order disqualifying that person for any period that it thinks fit from being the owner of, or exercising authority over, or being the person in charge of,—
+  (a) an animal or animals of a particular kind or description; or
+  (b) animals generally.
+(4) In considering whether to make an order under subsection (3), the court must have regard to—
+  (a) the purposes of Parts 1 and 2; and
+  (b) the maximum penalty specified for the charge from which the conviction arose; and
+  (c) the seriousness of the offending, including (without limitation) the nature and gravity of the harm, the number of animals involved, and the frequency of the offending; and
+  (d) the character of the person; and
+  (e) the previous offending history (if any) of the person; and
+  (f) any other circumstances of the case.
+(5) In making an order under subsection (3), the court may also specify a minimum disqualification period.
 
 ### 169A Disqualified person may apply to court for removal or variation of disqualification
 (1) A person who is disqualified under section 169(1) may apply to the court for the removal or variation of the disqualification.
@@ -1784,14 +2048,12 @@ In proceedings for an offence against any of sections 14, 21, 22, 23, 34, 35, 36
   (b) if there is no minimum disqualification period, the expiry of 2 years from the date of the disqualification order.
 (3) The court may order that, as from a date specified in the order, the disqualification be removed or varied, or that the application be refused.
 (4) In deciding an application under this section, the court may have regard to—
-  (a) the character of the applicant; and
-  (b) the applicant's conduct since the disqualification order was made; and
-  (c) the nature of the offence of which the applicant was convicted; and
-  (d) any other circumstance of the case.
+  (a) the matters specified in section 169(4); and
+  (b) the applicant's conduct since the disqualification order was made.
 (5) If the court varies the disqualification or refuses the application, the person who is disqualified may not re-apply under subsection (1) before the expiry of 12 months after the date of the order of variation or the refusal.
 
 ### 169B Offence of contravening disqualification order
-(1) A person commits an offence who, in contravention of an order made under section 169(1), becomes the owner of, or exercises authority in respect of, an animal or animals of a particular kind or description to which the order relates.
+(1) A person commits an offence if the person contravenes a disqualification order made under section 169(3) (under which provision a court can make an order relating to an animal or animals of a particular kind or description or to animals generally).
 (2) A person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $75,000 or to both:
   (b) in the case of a body corporate, to a fine not exceeding $350,000.
@@ -1812,7 +2074,10 @@ Where proceedings for an offence against any provision of this Act are institute
     (ii) any other animals at the date of conviction owned by the offender:
   (b) if it thinks it desirable, order that any proceeds of sale of the animal retained under section 136A be forfeited to the Crown.
 (1A)
-(2) An animal forfeited under this section may be sold or otherwise disposed of as the Minister or the approved organisation, as the case may be, thinks fit.
+(2) If a court finds that a person is unfit to stand trial for an offence against this Act in respect of an animal or animals, the court may make any order provided for in subsection (1) as if it had convicted the person of the offence.
+(3) If an animal is forfeited to the Crown or an approved organisation under this section,—
+  (a) in the case of a person found unfit to stand trial, the proceeds of sale (if any) must be held by the Ministry or an approved organisation (after deducting (in order) the costs of sale, any sums required to be paid to a security holder or any other person under a condition of the order for sale, and any costs incurred by the Crown or approved organisation in caring for the animal or animals or providing veterinary treatment to that animal or those animals), and the Ministry or approved organisation, as the case may be, must pay the proceeds of sale to the owner as soon as practicable:
+  (b) in any other case, the animal may be sold or otherwise disposed of as the Minister or the approved organisation, as the case may be, thinks fit.
 
 ### 173 Expenses incurred by inspectors and territorial authorities
 (1) All expenses reasonably incurred by any person as a result of the exercise of any of the powers conferred by section 53 or section 127(5) to (7) or section 131 or section 133(2) to (4) or section 137 or section 138 or by any person called upon under section 133(5), including in each case the costs of any veterinary treatment reasonably required in respect of an animal and the costs of destroying an animal, are recoverable from the owner or person in charge or appearing to be in charge of the animal.
@@ -1827,33 +2092,16 @@ For the purposes of this Part, and sections 169, 170, 172, and 173, an offence a
 **Exceptions in relation to hunting or killing**
 
 ### 175 Hunting or killing
-Subject to sections 176 to 178 and Part 6, nothing in this Act makes it unlawful to hunt or kill—
-  (a) any animal in a wild state; or
-  (b) any wild animal or pest in accordance with the provisions of—
-    (i) the Wildlife Act 1953; or
-    (ii) the Wild Animal Control Act 1977; or
-    (iii) the Conservation Act 1987; or
-    (iv) the Biosecurity Act 1993; or
-    (v) any other Act; or
-  (c) any wild animal or pest; or
-  (ca) any game animal in accordance with the provisions of the Game Animal Council Act 2013; or
-  (d) any fish caught from a constructed pond.
+[Repealed]
 
 ### 176 Hunting in safari parks
-(1) Subject to section 178 and Part 6, nothing in this Act makes it unlawful to hunt a wild animal that is available for hunting in a safari park.
-(2) Notwithstanding subsection (1) and section 175, where a person has hunted and captured a wild animal in a safari park (not being an animal that has been captured for the purpose of facilitating its imminent destruction), this Act applies in relation to that person as the person in charge of that animal.
+[Repealed]
 
 ### 177 Captured animals
-(1) Notwithstanding section 175, but subject to subsection (2),—
-  (a) where a person has in captivity an animal captured in a wild state (not being an animal that has been captured for the purpose of facilitating its imminent destruction), this Act applies in relation to that person as the person in charge of that animal; and
-  (b) where a person has in captivity an animal captured in a wild state (not being an animal caught by fishing) for the purpose of facilitating its imminent destruction, section 12(c) applies in relation to the killing of that animal.
-(2) Nothing in subsection (1) applies in relation to a wild animal that is hunted and captured in a safari park.
-(3) Nothing in section 175 limits the application of any of the provisions of this Act in relation to—
-  (a) deer kept in captivity for the purposes of farming (not being deer available for hunting on a safari park); or
-  (b) mustelids kept in captivity as pets.
+[Repealed]
 
 ### 178 Certain provisions relating to traps and devices not excluded
-Sections 175 and 176 do not restrict the application of sections 34 and 36.
+[Repealed]
 
 **Exceptions in relation to use of animals to protect human health or safety**
 
@@ -1885,12 +2133,12 @@ Nothing in this Act applies in relation to the use of—
 **Recovery of costs**
 
 ### 182 Criteria in relation to recovery of costs
-(1) The Minister must, in recommending to the Governor-General in Council the making of regulations under section 183(1)(e), have regard to the need to ensure that the costs of administering this Act (being costs that are justifiable and calculated in a transparent way) are recovered in accordance with the principles of equity and efficiency.
+(1) The Minister must, in recommending to the Governor-General in Council the making of regulations under section 183(1)⁠(e), have regard to the need to ensure that the costs of administering this Act (being costs that are justifiable and calculated in a transparent way) are recovered in accordance with the principles of equity and efficiency.
 (2) For the purposes of subsection (1), the costs of administering this Act do not include those costs that are recovered in departmental revenue (within the meaning of the Public Finance Act 1989) generated by the Ministry from the Crown.
-(3) In determining appropriate mechanisms (to be recommended for inclusion in regulations made under section 183(1)(e)) for the recovery of costs of a particular function or service, the Minister must ensure that those mechanisms will result in the recovery of any amount by which the sum of—exceeds any over-recovery of costs in respect of the preceding 2-year period.
+(3) In determining appropriate mechanisms (to be recommended for inclusion in regulations made under section 183(1)⁠(e)) for the recovery of costs of a particular function or service, the Minister must ensure that those mechanisms will result in the recovery of any amount by which the sum of—exceeds any over-recovery of costs in respect of the preceding 2-year period.
   (a) the costs of the function or service in a 2-year period; and
   (b) any shortfall in the recovery of the costs in the preceding 2-year period—
-(4) Regulations made under section 183(1)(e) may provide for the recovery of the costs of administering this Act and of performing the powers, duties, and functions conferred or imposed by or under this Act by 1 or more of the following methods:
+(4) Regulations made under section 183(1)⁠(e) may provide for the recovery of the costs of administering this Act and of performing the powers, duties, and functions conferred or imposed by or under this Act by 1 or more of the following methods:
   (a) fixed charges:
   (b) charges fixed on an hourly or other unit basis:
   (c) estimated charges paid before the provision of the service or performance of the function followed by reconciliation and an appropriate payment or refund after provision of the service or performance of the function:
@@ -1909,23 +2157,111 @@ Nothing in this Act applies in relation to the use of—
     (i) the numbers and types of projects undertaken by the code holder:
     (ii) the numbers and species of animals used:
     (iii) the severity of the manipulation of the animals:
+    (iiia) the killing of animals that were bred, but not used, for the purposes of research, testing, and teaching:
     (iv) such other matters in relation to the research, testing, or teaching carried out under the code of ethical conduct as are specified in the regulations:
   (d) prescribing matters to which animal ethics committees must have regard in considering, under section 100, applications for approval of projects:
+  (da) declaring any substance, mixture of substances, or thing to be, or not to be, a cosmetic for the purpose of the definition of cosmetic in section 2(1):
   (e) prescribing matters in respect of which costs are recoverable under this Act and the regulations made under this Act, the amounts of those costs or the method by which they are to be assessed, the persons liable for payment of the costs, and the circumstances in which the recovery of costs may be remitted or waived (in whole or in part):
   (f) prescribing, for the purposes of proceedings in relation to enforcement orders, the matters in respect of which fees are payable under this Act:
   (g) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act:
-  (h) prescribing the offences against regulations made under this Act that constitute infringement offences against this Act, and the amount of the infringement fee (not exceeding $200) payable in respect of each such infringement offence:
+  (h) prescribing the offences created by or under this Act that constitute infringement offences for the purposes of this Act, and prescribing infringement fees not exceeding $1,000 for each infringement offence, which may be different fees for different offences (including different fees for a first or second or third offence):
   (i) prescribing penalties for offences against regulations made under this Act, not exceeding,—
     (i) in the case of an individual, a fine not exceeding $5,000; or
     (ii) in the case of a body corporate, a fine not exceeding $25,000:
   (j) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
-(2) In subsection (1)(c), the term code holder includes any person carrying out research, testing, or teaching in accordance with section 84 or section 85 or section 118(1) or section 192(4) or section 192(5).
+(2) In subsection (1)⁠(c), the term code holder includes any person carrying out research, testing, or teaching in accordance with section 84 or section 85 or section 118(1) or section 192(4) or section 192(5).
+
+### 183A Regulations relating to standards of care
+(1) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations for all or any of the following purposes:
+  (a) prescribing standards or requirements for the purposes of giving effect to Parts 1 and 2 (other than sections 30A to 30E), including—
+    (i) animal welfare standards or requirements relating to the care of animals by owners or persons in charge of animals:
+    (ii) animal welfare standards or requirements relating to the conduct of those persons towards animals owned by them or in their charge:
+    (iii) the prohibition of specified things or activities:
+  (b) establishing any minimum standard that could be established under Part 5, or amending, revoking, or replacing any minimum standard or any part of a minimum standard established under Part 5.
+(2) Without limiting the generality of subsection (1), regulations made under this section may prescribe standards or requirements that do not fully meet—
+  (a) the obligations of section 10 or 11; or
+  (b) the obligations that a person would need to observe in the treatment, transport, or killing of animals if that person were to avoid committing an offence against section 12(c), 21(b), 22(2), 23(1), 23(2), or 29(a).
+(3) The Minister must not recommend the making of regulations in reliance on subsection (2) unless he or she is satisfied that either or both of the following apply:
+  (a) any adverse effects of a change from current practices to new practices have been considered and there are no feasible or practical alternatives currently available:
+  (b) not to do so would result in an unreasonable impact on a particular industry sector within New Zealand, a sector of the public, or New Zealand’s wider economy.
+(4) In deciding whether any impact is unreasonable under subsection (3)⁠(b), the Minister must have regard to the welfare of any affected animals.
+(5) Any regulations made in reliance on subsection (2) in accordance with the considerations in subsection (3) must provide for the regulations to be in force for a period of time specified in the regulations (the specified period) that—
+  (a) is reasonably necessary to enable a transition from current practice to a practice that fully meets the obligations specified in subsection (2)⁠(a) and (b); and
+  (b) does not exceed 10 years (which period may, however, be extended once under subsection (6)).
+(6) The specified period may be extended once only by up to 5 years by regulations made under this subsection on the recommendation of the Minister if he or she is satisfied that the majority of participants in the sector concerned—
+  (a) have made significant progress towards implementing compliant practice; and
+  (b) cannot reasonably be expected to become compliant before the close of the specified period, taking into account the steps that still need to be completed for implementation of compliant practice; and
+  (c) will become compliant within the extended period.
+(7) Despite subsections (3) to (6), if the Minister considers that requiring a practice to fully meet the obligations specified in subsection (2)⁠(a) and (b) would impose an unjustifiable limitation on the requirements of a religious or cultural practice, the Minister may recommend the making of regulations in reliance on subsection (2) for an indefinite period subject to review at 10-yearly intervals or shorter intervals specified in the regulations.
+(8) In reaching a decision not to recommend the making of regulations in reliance on subsection (2), the Minister may consider any factors that the Minister thinks would make such regulations contrary to New Zealand's overall interests (including, without limitation, health, social, economic, international, or environmental interests).
+(9) Nothing in this section obliges the Minister to recommend the making of regulations in reliance on subsection (2).
+(10) The Minister must consult the National Animal Welfare Advisory Committee before recommending the making of any regulations under this section (other than regulations already proposed by the Committee), but nothing in sections 71 to 75 applies in relation to the making of regulations under subsection (1)⁠(b).
+(11) If a person does or omits to do anything in reliance on regulations made under subsection (2) that would otherwise be a contravention of, or failure to comply with, any provision of Part 1 or 2, the person has a defence to a prosecution for an offence under this Act in respect of the act or omission if the court is satisfied that the act or omission was authorised by the regulations.
+
+### 183B Regulations relating to surgical and painful procedures
+(1) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations for all or any of the following purposes:
+  (a) prohibiting specified surgical procedures or painful procedures from being performed on animals:
+  (b) prescribing requirements in relation to the performance of specified surgical or painful procedures on animals, including (without limitation) regulations that prescribe—
+    (i) the classes of persons who may carry out a specified procedure:
+    (ii) any skills, qualifications, approval, or experience that must be held by a person before he or she is authorised to carry out specified procedures:
+    (iii) the types of pain relief or medication to be used for specified procedures:
+    (iv) the forms of restraint and equipment to be used for specified procedures:
+    (v) the procedures that may be performed only if in the best interests of the animal:
+    (vi) any other standards or restrictions necessary to ensure the welfare of animals during the procedures:
+  (c) declaring that any specified surgical procedure is not a significant surgical procedure for the purposes of this Act.
+(2) Before recommending the making of regulations under this section, the Minister must have regard to—
+  (a) whether the procedure has the potential to—
+    (i) cause significant pain or distress; or
+    (ii) cause serious or lasting harm, or loss of function, if not carried out by a veterinarian in accordance with recognised professional standards; and
+  (b) the nature of the procedure, including whether this involves—
+    (i) a surgical or operative procedure below the surface of the skin, mucous membranes, or teeth or below the gingival margin; or
+    (ii) physical interference with sensitive soft tissue or bone structure; or
+    (iii) significant loss of tissue or loss of significant tissue; and
+  (c) the purpose of the procedure; and
+  (d) the extent (if any) to which the procedure is established in New Zealand; and
+  (e) good practice in relation to the use of the procedure for animal management purposes or in relation to the production of animal products or commercial products; and
+  (f) the likelihood of the procedure being managed adequately by codes of welfare or other instruments under this Act; and
+  (g) any other matter the Minister considers relevant.
+(3) The Minister must consult the National Animal Welfare Advisory Committee before recommending the making of regulations under this section (other than regulations proposed by the Committee).
+(4) In the absence of evidence to the contrary, a particular procedure is presumed to be a surgical procedure or a painful procedure if regulations are made in respect of the procedure under this section.
+
+### 183C Regulations relating to exporting animals
+(1) The Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations prescribing requirements and other matters relating to the exportation of animals, including (without limitation) requirements or matters relating to—
+  (a) the species, age, number, and fitness of animals:
+  (b) the duration and date of journeys:
+  (c) the transport vehicles and associated facilities (such as loading and unloading equipment):
+  (d) the purpose of the exportation:
+  (e) pre-conditions required to be satisfied before travel:
+  (f) the people accompanying the animals:
+  (g) pre-loading facilities:
+  (h) reporting and independent monitoring.
+(2) Any regulations made under subsection (1) may prohibit, either absolutely or conditionally, any specified type of exportation of animals.
+(3) Any regulations imposing any conditional prohibition on a specified type of exportation of animals may—
+  (a) require that the prior approval of the Director-General be obtained before exportation:
+  (b) authorise him or her to impose conditions on any exportation:
+  (c) set out criteria applying to the granting of approval and describe the types of conditions that may be imposed.
 
 **Consultation**
 
 ### 184 Consultation
-(1) The Minister must, before deciding whether or not to recommend the making of an Order in Council under section 2(1) (in relation to the definitions of the terms animal, device, or trap) or section 6 or section 16(1) or section 16(2) or section 32(1) or section 32(6) or section 78A or section 191(4) or section 200(4) or section 202(5) or the making of any regulations under section 183(1)(b) or section 183(1)(d) or section 183(1)(e), consult, to the extent that it is reasonably practicable, having regard to the circumstances of the particular case, such persons as the Minister has reason to believe are representative of interests likely to be substantially affected by the Order in Council or regulations.
-(2) Subsection (1) does not apply in respect of any Order in Council or regulations if the Minister considers it desirable in the public interest that the Order in Council or regulations be made urgently.
+(1) The Minister must consult, to the extent that is reasonably practicable, having regard to the circumstances of the particular case, the persons the Minister has reason to believe are representative of interests likely to be substantially affected by a proposed Order in Council or proposed regulations before deciding whether to recommend—
+  (a) the making of an Order in Council under—
+    (i) section 2(1) (in relation to the definitions of animal, device, or trap); or
+    (ii) section 6; or
+    (iii) section 16(1) or (2); or
+    (iv) section 32(1) or (6); or
+    (v) section 200(4); or
+    (vi) section 202(5); or
+  (b) the making of regulations under—
+    (i) section 183(1)⁠(b), (d), or (e); or
+    (ii) section 183A; or
+    (iii) section 183B; or
+    (iv) section 183C.
+(2) Subsection (1) does not apply in respect of an Order in Council or regulations if—
+  (a) the Minister considers it desirable in the public interest that the Order in Council or regulations be made urgently; or
+  (b) in the case of regulations recommended by the National Animal Welfare Advisory Committee under section 74(2)⁠(d),—
+    (i) the Committee has consulted on the subject matter of the proposed regulations under section 71(1); and
+    (ii) the Minister has not yet issued the relevant draft code of welfare.
 (3) A failure to comply with subsection (1) does not affect the validity of any Order in Council or regulations made under this Act.
 
 **Notices**
@@ -1958,7 +2294,7 @@ Nothing in this Act applies in relation to the use of—
 
 ### 188 Transitional provisions relating to inspectors
 (1) Every person who, immediately before the commencement of this Act, held office as an inspector under section 9(1) of the Animals Protection Act 1960 is an inspector for the purposes of this Act until he or she dies, or resigns, or his or her appointment is revoked by the Director-General.
-(2) Every person who, immediately before the commencement of this Act, held office as an inspector under section 9(2) of the Animals Protection Act 1960 is deemed to be an inspector for the purposes of this Act until the expiry of the term for which that person was appointed (unless that person sooner dies or resigns or is removed from office under section 124(6)(b) or has his or her appointment revoked under section 124(7)).
+(2) Every person who, immediately before the commencement of this Act, held office as an inspector under section 9(2) of the Animals Protection Act 1960 is deemed to be an inspector for the purposes of this Act until the expiry of the term for which that person was appointed (unless that person sooner dies or resigns or is removed from office under section 124(6)⁠(b) or has his or her appointment revoked under section 124(7)).
 
 ### 189 Transitional provision relating to approved organisations
 (1) The organisation known as the Royal New Zealand Society for the Prevention of Cruelty to Animals, Incorporated is an approved organisation for the purposes of this Act.
@@ -1975,26 +2311,13 @@ Nothing in this Act applies in relation to the use of—
 (1) Any incorporated society that is a branch or member of the Royal New Zealand Society for the Prevention of Cruelty to Animals, Incorporated may, through that royal society (in its capacity as an approved organisation) recommend persons—
   (a) for appointment under section 124 as inspectors; or
   (b) for appointment under section 125 as auxiliary officers.
-(2) Where any person is appointed as an inspector or auxiliary officer in accordance with a recommendation made under subsection (1) by an incorporated society to which that subsection applies, that incorporated society is deemed while—to be an approved organisation for the purposes of sections 53(2)(a), 101(6), 126(2), 127(6)(a), 133(3)(a), 141, 142, 171, and 172.
+(2) Where any person is appointed as an inspector or auxiliary officer in accordance with a recommendation made under subsection (1) by an incorporated society to which that subsection applies, that incorporated society is deemed while—to be an approved organisation for the purposes of sections 53(2)⁠(a), 101(6), 126(2), 127(6)⁠(a), 133(3)⁠(a), 141, 142, 171, and 172.
   (a) it continues to be a branch or member of the Royal New Zealand Society for the Prevention of Cruelty to Animals, Incorporated; and
   (b) the Royal New Zealand Society for the Prevention of Cruelty to Animals, Incorporated continues to be an approved organisation for the purposes of this Act; and
   (c) any person appointed in accordance with a recommendation made under subsection (1) by that incorporated society continues to hold office as an inspector or auxiliary officer,—
 
 ### 191 Deemed codes of welfare
-(1) The codes specified in Schedule 4 (being codes approved by the Animal Welfare Advisory Committee referred to in section 186(1) and in force immediately before the commencement of this Act), unless sooner revoked under section 76(1), continue in force, and have effect, for the period of 4 years (or such longer period as may be specified by the Governor-General by Order in Council under subsection (4)) beginning with the date of the commencement of this Act as if those codes were codes of welfare issued under section 75.
-(2) Section 76 and all the other provisions of this Act (including the terms defined by section 2(1)) have effect, with all necessary modifications, in relation to a code continued in force by subsection (1) as if it were a code of welfare issued under section 75.
-(3) Despite subsection (1), where a code continued in force by that subsection contains a provision that would be outside the scope of a code of welfare issued under section 75, no such provision has effect by virtue of that subsection.
-(4) The Governor-General may, by Order in Council made on the recommendation of the Minister, extend the period of 4 years specified in subsection (1) by a period not exceeding 2 years.
-(5) In deciding whether to recommend the making of an order under subsection (4), the Minister must—
-  (a) consult in accordance with section 184; and
-  (b) have regard, to the extent relevant, to—
-    (i) the welfare of any affected animals; and
-    (ii) the interests of persons involved in the commercial use of any affected animals; and
-    (iii) any other relevant factor.
-(6) An Order in Council made under subsection (4),—
-  (a) if made on or before 30 June in any year, expires on the close of 31 December of that year, except so far as it is expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expires on the close of 31 December in the following year, except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
-(7) The expiry of an Order in Council under subsection (6) does not affect the validity of any act done pursuant to or in accordance with the provisions of that Order in Council before the date on which the Order in Council expires in accordance with that subsection.
+[Repealed]
 
 ### 192 Codes of ethical conduct
 (1) Where a code of ethical conduct that has been approved by the Minister under section 19A of the Animals Protection Act 1960 is in force on the commencement of this Act,—
@@ -2010,7 +2333,7 @@ Nothing in this Act applies in relation to the use of—
 (4) Where, at the commencement of this Act, a person (other than a code holder in respect of a code of ethical conduct to which subsection (1) applies) is carrying out research, testing, or teaching without having a code of ethical conduct approved under section 19A of the Animal Protection Act 1960 but is having each of that person's projects approved by an animal ethics committee appointed by such a code holder, that person may, for the period for which the code holder's code of ethical conduct is deemed to be approved under section 91, continue to carry out research, testing, and teaching if each project carried out by that person during that period—
   (a) is approved by that animal ethics committee; and
   (b) is carried out in accordance with that code of ethical conduct.
-(5) Where a code of ethical conduct is deemed by subsection (1)(a) to have been approved by the Director-General under section 91, any person may, for the period for which the code is deemed to have been approved, carry out research, testing, or teaching without obtaining under that section approval of a code of ethical conduct and without appointing an animal ethics committee if—
+(5) Where a code of ethical conduct is deemed by subsection (1)⁠(a) to have been approved by the Director-General under section 91, any person may, for the period for which the code is deemed to have been approved, carry out research, testing, or teaching without obtaining under that section approval of a code of ethical conduct and without appointing an animal ethics committee if—
   (a) each project carried out by that person is approved by an animal ethics committee appointed by the person who is the code holder in respect of that code of ethical conduct; and
   (b) the arrangements in relation to the research, testing, or teaching are agreed on by that person, the code holder in respect of that code of ethical conduct, and the animal ethics committee appointed by that code holder; and
   (c) the code holder in respect of that code of ethical conduct, before the research, testing, or teaching is commenced, gives to the Director-General written notice of the arrangements for the research, testing, or teaching.
@@ -2055,11 +2378,11 @@ The enactments specified in Schedule 6 are repealed.
     (i) farmed deer (except to the extent that any other method has been approved by the Director-General as a safe and humane means of slaughter of deer); and
     (ii) stock as defined in clause 3 of the Meat (Game and Stock) Order 1998:
   (c) regulation 9 of the Slaughter Regulations (which relates to poultry) is excluded from the deemed code, and regulation 8 of those regulations does not apply to poultry:
-  (d) the circular specified in subsection (2)(e) applies only to primary processors of eels or rock lobsters who are required to operate under either a registered risk management programme or a regulated control scheme under the Animal Products Act 1999.
+  (d) the circular specified in subsection (2)⁠(e) applies only to primary processors of eels or rock lobsters who are required to operate under either a registered risk management programme or a regulated control scheme under the Animal Products Act 1999.
 (5) Subsections (2) to (4) apply according to their tenor despite anything in section 13 or any other provision of the Animal Products (Ancillary and Transitional Provisions) Act 1999.
 
 ### 200 Certain bylaws to continue in force
-(1) Despite the repeal of section 684(1)(37) of the Local Government Act 1974 by section 198, bylaws made under that section and in force immediately before the commencement of this Act, unless sooner revoked, continue in force, and have effect, for the period of 6 years (or such longer period as may be specified by the Governor-General by Order in Council under subsection (4)) beginning with the date of the commencement of this Act as if this Act had not been passed.
+(1) Despite the repeal of section 684(1)⁠(37) of the Local Government Act 1974 by section 198, bylaws made under that section and in force immediately before the commencement of this Act, unless sooner revoked, continue in force, and have effect, for the period of 6 years (or such longer period as may be specified by the Governor-General by Order in Council under subsection (4)) beginning with the date of the commencement of this Act as if this Act had not been passed.
 (2) Bylaws continued in force by subsection (1) may be revoked by the local authority by which they were made or by an Order in Council made under section 32(1).
 (3) So far as any bylaws continued in force by subsection (1) are inconsistent with or repugnant to any Order in Council made under section 32(1), the bylaws are subject to the Order in Council.
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister, extend the period of 6 years specified in subsection (1).
@@ -2131,7 +2454,7 @@ In this schedule, advisory committee means the National Animal Welfare Advisory 
 (9) No member of an advisory committee is entitled to be present or vote or otherwise participate in the capacity of a member of the advisory committee at any part of a meeting of the advisory committee where the member has a direct or indirect pecuniary interest in the matter being considered.
 
 ### 6 Assent to resolution without a meeting
-A resolution in writing signed, or assented to by letter, facsimile, electronic mail, telegram, cable, or telex message, by all the members of an advisory committee who are for the time being in New Zealand is as valid and effectual as if it had been passed at a meeting of the advisory committee duly called and constituted.
+A resolution in writing signed, or assented to by letter, facsimile, electronic mail, telegram, cable, or telex message, by at least 6 members is as valid and effectual as if it had been passed at a meeting of the advisory committee duly called and constituted.
 
 ### 7 Teleconference meeting
 (1) The contemporaneous linking together by telephone or other means of communication of a number of members of an advisory committee, being not less than the relevant quorum provided by clause 5(3), whether or not 1 or more of the members is out of New Zealand, is deemed to constitute a meeting of the advisory committee; and all of the provisions of this schedule apply to that meeting, if the following conditions are met:
@@ -2231,17 +2554,27 @@ The Director-General may, if he or she thinks fit, and on payment of the prescri
 
 ## Schedule 4 — Codes continued in force as codes of welfare issued under this Act
 
+### 1 Interpretation
+In this schedule, amendment Act means the Animal Welfare Amendment Act (No 2) 2015.
+
+### 2 Codes of welfare
+(1) Every code of welfare in force at the commencement of this schedule continues in force and, after that commencement, may be amended, reviewed, revoked, or replaced under this Act.
+(2) If the National Animal Welfare Advisory Committee has publicly notified a draft code of welfare under section 71 before the commencement of this schedule and the code has not been issued before that commencement, the Committee need not include in the draft any recommendation for the making of regulations under this Act.
+
+### 3 Certain research, testing, and teaching projects
+(1) Subclause (2) applies to research, testing, and teaching projects approved by an animal ethics committee before the commencement of this schedule that relate to—
+  (a) the killing of animals for the purpose of carrying out research, testing, and teaching on their bodies or tissues; or
+  (b) the breeding of animals with characteristics making them susceptible to increased pain and suffering during their life.
+(2) Approvals of projects to which this subclause applies that are in force on the commencement of this schedule continue in force according to their terms and do not require re-approval because of the operation of any provisions of the amendment Act (such as section 6 of that Act).
+(3) Any projects being carried out lawfully without the approval of an animal ethics committee before the commencement of this schedule do not require approval because of the operation of any provisions of the amendment Act.
+
+### 4 Power of inspector to issue infringement notice for breach of compliance notice
+(1) This clause applies to persons who, immediately before the commencement of section 56 of the Animal Welfare Amendment Act (No 2) 2015, hold an appointment under this Act as an inspector.
+(2) The terms of appointment of inspectors to whom this clause applies may be amended to specifically authorise them to issue any person with an infringement notice under this Act for breach of a compliance notice.
+(3) An inspector to whom this clause applies may not issue an infringement notice for breach of a compliance notice unless the terms of his or her appointment have been amended to authorise him or her to issue such infringement notices.
+
 ## Schedule 5 — Enactments amended
 
 ## Schedule 6 — Enactments repealed
 
 ## Schedule 7 — Regulations continued in force as code of welfare
-
-### 1 Title
-This Act is the Animal Welfare Amendment Act 2010.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 8 Transitional provision in respect of section 169 of principal Act
-Section 169 before amendment by this Act (old section 169) continues in force as if it had not been amended in respect of any person who, on the commencement of this Act, is subject to a disqualification order made under old section 169(1) or under section 16(1) of the Animals Protection Act 1960.
