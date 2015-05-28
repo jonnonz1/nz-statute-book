@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2015-05-07_
+_Consolidation as at 2015-05-28_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -113,7 +113,7 @@ _Consolidation as at 2015-05-07_
     (ba) provisional safeguard duty, safeguard duty, and extended safeguard duty imposed under the Trade (Safeguard Measures) Act 2014:
     (c) a duty imposed pursuant to sections 14, 16, 17, 17A, or 17B of the Dumping and Countervailing Duties Act 1988, including a duty resulting from the application of section 18 or section 19 of that Act; and
     (d) a duty or tax imposed by section 12 of the Goods and Services Tax Act 1985:
-    (e) levies imposed by section 213(2)⁠(c) of the Accident Compensation Act 2001:
+    (e) levies imposed by section 213(2)﻿(c) of the Accident Compensation Act 2001:
     (f) levies imposed by the Energy (Fuels, Levies, and References) Act 1989
   - **electronic publication** means a thing (including, but not limited to, a disc, or an electronic or computer file) on which is recorded or stored information that, by the use of a computer or other electronic device, is capable of being reproduced or shown as 1 or more (or a combination of 1 or more) images, representations, signs, statements, or words
   - **excisable goods** means goods on which excise duty is payable in accordance with Part A of the Excise and Excise-equivalent Duties Table
@@ -131,7 +131,7 @@ _Consolidation as at 2015-05-07_
   - **goods subject to the control of the Customs** has the meaning given to that term by section 20
   - **importation** ,—
     (a) in relation to any goods, means the arrival of the goods in New Zealand in any manner, whether lawfully or unlawfully, from a point outside New Zealand; and
-    (b) in relation to electronic publications referred to in section 54(1)⁠(aa), includes the arrival of the electronic publication in New Zealand by transmission by any means (other than by broadcasting) from a point outside New Zealand
+    (b) in relation to electronic publications referred to in section 54(1)﻿(aa), includes the arrival of the electronic publication in New Zealand by transmission by any means (other than by broadcasting) from a point outside New Zealand
   - **importer** means a person by or for whom goods are imported; and includes the consignee of goods and a person who is or becomes the owner of or entitled to the possession of or beneficially interested in any goods on or at any time after their importation and before they have ceased to be subject to the control of the Customs
   - **international cargo** means any cargo that has arrived from a point outside New Zealand or is destined to be exported from New Zealand
   - **international crew** means the crew or any member of the crew of a craft that is on a journey that—
@@ -158,7 +158,7 @@ _Consolidation as at 2015-05-07_
     (a) means the land and the waters enclosed by the outer limits of the territorial sea of New Zealand (as described in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977); and
     (b) includes the contiguous zone of New Zealand (as described in section 8A of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) in—
       (i) sections 23(1) and (4) and 142; and
-      (ii) sections 22(1)⁠(c) and (d), 28(1), 139(1) and (2), 140(1), 143(1AA), 143(1), and 149(a) and (b), in relation to a craft that is a ship, boat, or other machine or vessel, used or capable of being used for the carriage or transportation of persons or goods, or both, by water or over or under water; and
+      (ii) sections 22(1)﻿(c) and (d), 28(1), 139(1) and (2), 140(1), 143(1AA), 143(1), and 149(a) and (b), in relation to a craft that is a ship, boat, or other machine or vessel, used or capable of being used for the carriage or transportation of persons or goods, or both, by water or over or under water; and
       (iii) section 149(a) and (b) and 149B(2), in relation to a person who has entered into or has arrived in or is about to depart from New Zealand in a craft that is a ship, boat, or other machine or vessel, used or capable of being used for the carriage or transportation of persons or goods, or both, by water or over or under water; and
       (iv) sections 166A and 226(2), in relation to goods found on a ship, boat, or other machine or vessel, used or capable of being used for the carriage or transportation of persons or goods, or both, by water or over or under water
   - **New Zealand Customs Service** means the department of State referred to in section 5
@@ -196,7 +196,7 @@ _Consolidation as at 2015-05-07_
   (c) the expressions percent volume and % vol are used to express alcoholic strength in parts of alcohol per 100 parts of the mixture:
   (d) the term per litre, in respect of the levying of excise duty, for all excise items under the heading Fuels in Part A of the Excise and Excise-equivalent Duties Table, means the quantity of product expressed in litres at a temperature of 15°C:
   (e) the term per litre, in respect of the levying of excise-equivalent duty, for all Tariff items under the heading Fuels in Part B of the Excise and Excise-equivalent Duties Table, means the quantity of product expressed in litres at a temperature of 15°C.
-(3) For the purposes of paragraph (c)⁠(ii) of the definition of manufacture in subsection (1), the term ancillary process, in relation to the manufacture of goods specified in the Excise and Excise-equivalent Duties Table that are neither tobacco nor a fuel, means 1 or more of the following processes:
+(3) For the purposes of paragraph (c)﻿(ii) of the definition of manufacture in subsection (1), the term ancillary process, in relation to the manufacture of goods specified in the Excise and Excise-equivalent Duties Table that are neither tobacco nor a fuel, means 1 or more of the following processes:
   (a) filtering the goods, diluting the goods, or blending the goods with other goods (whether the other goods are the same as, similar to, or different from, the goods):
   (b) putting the goods for the first time into a container (for example, a bag, barrel, bottle, can, cask, drum, or keg) in which they might be presented, or from which they might be dispensed, for sale to the public or any member of the public:
   (c) labelling or marking, for the first time, containers filled with the goods.
@@ -345,7 +345,7 @@ In such circumstances and for such period of time as may be prescribed, no charg
 
 ### 19A Purpose of sections 19B to 19H
 The purpose of sections 19B to 19H is to enable an area to be licensed as a CASE so that—
-  (a) goods to be exported are (under section 20(1)⁠(b) and (c)), from the time they are brought to the area (whether or not the goods are later transported from that area to another area of any kind, and, if the goods are so transported, during the transportation) until they are exported to a point outside New Zealand, subject to the control of the Customs:
+  (a) goods to be exported are (under section 20(1)﻿(b) and (c)), from the time they are brought to the area (whether or not the goods are later transported from that area to another area of any kind, and, if the goods are so transported, during the transportation) until they are exported to a point outside New Zealand, subject to the control of the Customs:
   (b) the Customs may, as provided in section 19E, access the area under section 150:
   (c) the powers in section 151 (which include powers of examination) are available in respect of goods that are subject to the control of the Customs because they are goods—
     (i) to be exported; and
@@ -365,12 +365,12 @@ The purpose of sections 19B to 19H is to enable an area to be licensed as a CASE
   (b) must be made in such form, and contain such particulars, as may be prescribed.
 (2) The following sections apply to an application under this section as if it were an application for the area concerned to be licensed as a Customs controlled area:
   (a) section 11(2) and (3) (which relates to an application for a licence); and
-  (b) section 12 (except subsections (3)⁠(c), (4), and (5)) (which relates to the grant or refusal of a licence).
+  (b) section 12 (except subsections (3)﻿(c), (4), and (5)) (which relates to the grant or refusal of a licence).
 
 ### 19D Licences for CASEs
 (1) If a licence for a CASE is granted under section 12(1) (as applied by section 19C(2)) and is subject to terms, conditions, or restrictions, section 13 (variation or revocation of conditions) applies to those terms, conditions, or restrictions as if the licence were a licence for a Customs controlled area.
 (2) Section 14 (revocation or suspension of licence) applies to a licence for a CASE that is granted under section 12(1) (as applied by section 19C(2)) as if it were a licence for a Customs controlled area.
-(3) However, for the purposes of subsection (2), section 14(1)⁠(b) must be read as if for the words any of the purposes described in paragraphs (a) to (f) of section 10 for which the area is licensed there were substituted the words the purpose in section 19B (whether or not it is used for any other purpose).
+(3) However, for the purposes of subsection (2), section 14(1)﻿(b) must be read as if for the words any of the purposes described in paragraphs (a) to (f) of section 10 for which the area is licensed there were substituted the words the purpose in section 19B (whether or not it is used for any other purpose).
 
 ### 19E Access of Customs officers to CASEs
 Section 150 applies to a CASE as if the area were a Customs controlled area; and section 173 applies accordingly.
@@ -399,7 +399,7 @@ Section 150 applies to a CASE as if the area were a Customs controlled area; and
 ### 20 Goods subject to control of Customs
 (1) Goods are subject to the control of the Customs,—
   (a) where the goods have been imported, from the time of importation until the time the goods are lawfully removed for home consumption or exportation from a Customs controlled area; or
-  (aa) where the goods are lawfully removed from a Customs controlled area under a conditional permit granted pursuant to section 47(1)⁠(c), until such time as the chief executive is satisfied that the conditions of the permit have been met; or
+  (aa) where the goods are lawfully removed from a Customs controlled area under a conditional permit granted pursuant to section 47(1)﻿(c), until such time as the chief executive is satisfied that the conditions of the permit have been met; or
   (ab) where the goods are to be exported (whether under drawback or not) and are in a package in relation to which a Customs seal has been used (whether or not any other paragraph of this subsection applies to the goods), from the time when a Customs seal is first used until the exportation of the goods to a point outside New Zealand; or
   (ac) where the goods are to be exported (whether under drawback or not) under a Customs-approved secure exports scheme (whether or not any other paragraph of this subsection applies to the goods), from the time when the goods are first secured in a Customs-approved secure package until the exportation of the goods to a point outside New Zealand; or
   (b) where the goods are to be exported under drawback, from whichever is the earlier of the following times until the exportation of the goods to a point outside New Zealand:
@@ -427,7 +427,7 @@ Section 150 applies to a CASE as if the area were a Customs controlled area; and
     (vi)
     (vii) the Customs place at which the craft will arrive; and
   (b) on arriving within New Zealand, proceed directly to that Customs place, unless directed elsewhere by a Customs officer.
-(2) The information referred to in subsection (1)⁠(a)—
+(2) The information referred to in subsection (1)﻿(a)—
   (a) may be provided, on behalf of the person in charge of the craft, by—
     (i) the owner or operator of the craft referred to in subsection (1); or
     (ii) an agent of the owner or operator; and
@@ -479,19 +479,19 @@ Section 150 applies to a CASE as if the area were a Customs controlled area; and
 
 ### 25 Craft arriving at place other than nominated Customs place
 (1) Nothing in section 24 applies to a craft—
-  (a) that is required or compelled to berth, land, anchor, or otherwise arrive at a place other than a Customs place, nominated in accordance with section 21(1)⁠(a), if this arrival—
+  (a) that is required or compelled to berth, land, anchor, or otherwise arrive at a place other than a Customs place, nominated in accordance with section 21(1)﻿(a), if this arrival—
     (i) is required by any statutory or other requirement relating to navigation; or
     (ii) is compelled by accident, stress of weather, or other necessity; or
   (b) that is authorised to berth, land, anchor, or otherwise arrive at a place other than a Customs place by the chief executive.
-(1A) An authorisation given under subsection (1)⁠(b) may be granted subject to any conditions the chief executive considers appropriate (for example, conditions about the passengers and goods that may be carried on the craft).
-(1B) The chief executive may not grant any authorisation under subsection (1)⁠(b) without consulting the chief executive of—
+(1A) An authorisation given under subsection (1)﻿(b) may be granted subject to any conditions the chief executive considers appropriate (for example, conditions about the passengers and goods that may be carried on the craft).
+(1B) The chief executive may not grant any authorisation under subsection (1)﻿(b) without consulting the chief executive of—
   (a) the Ministry of Agriculture and Forestry; and
   (b) the Ministry of Health; and
   (c) the New Zealand Police; and
   (d) if the proposed authorisation relates to an aircraft, the Civil Aviation Authority; and
   (e) if the proposed authorisation relates to a ship, the authority known as Maritime New Zealand; and
-  (f) every other department of State whose operations may, in the chief executive’s opinion, be affected by the granting of an authorisation under subsection (1)⁠(b).
-(1C) If any craft berths, lands, anchors, or otherwise arrives at a place other than a Customs place by reason of an authorisation under subsection (1)⁠(b),—
+  (f) every other department of State whose operations may, in the chief executive’s opinion, be affected by the granting of an authorisation under subsection (1)﻿(b).
+(1C) If any craft berths, lands, anchors, or otherwise arrives at a place other than a Customs place by reason of an authorisation under subsection (1)﻿(b),—
   (a) the same powers may be exercised under this Act in relation to that craft as if it had arrived at a Customs place in accordance with Part 3, and the same obligations apply; and
   (b) the same powers may be exercised under this Act in relation to persons and goods on that craft as if those persons or goods were in a Customs controlled area, following arrival of the craft in accordance with Part 3, and the same obligations apply.
 (2) The person in charge of the craft—
@@ -501,7 +501,7 @@ Section 150 applies to a CASE as if the area were a Customs controlled area; and
 (3) Subject to section 43(a), no member of the crew and no passenger on the craft shall without the consent of a Customs officer—and all such persons must comply with any directions given by a Customs officer.
   (a) unload goods from the craft; or
   (b) depart from the vicinity of the craft,—
-(4) Where a craft is directed by a Customs officer pursuant to section 21(1)⁠(b) to arrive at a place other than the Customs place nominated in accordance with section 21(1)⁠(a), no person shall depart from or board the craft unless authorised to do so by a Customs officer.
+(4) Where a craft is directed by a Customs officer pursuant to section 21(1)﻿(b) to arrive at a place other than the Customs place nominated in accordance with section 21(1)﻿(a), no person shall depart from or board the craft unless authorised to do so by a Customs officer.
 
 ### 26 Inward report
 (1) Unless otherwise approved by the chief executive, this section applies to a craft—
@@ -512,7 +512,7 @@ Section 150 applies to a CASE as if the area were a Customs controlled area; and
 (2) On the arrival at a Customs place of craft to which this section applies, the person in charge or the owner of the craft, as the case may be, must—
   (a) deliver to the Customs within such time or times as may be prescribed an inward report in such form and manner and containing such particulars verified by declaration as may be prescribed and accompanied by such supporting documents as the chief executive may require; and
   (b) comply with any Customs direction as to the movement of the craft within the Customs place, and as to the unloading of goods or the disembarkation of crew or passengers from the craft.
-(3) The particulars and supporting documents referred to in subsection (2)⁠(a) need not include information that has already been supplied to the Customs in any form and manner approved in writing by the chief executive under section 21(1)⁠(a) or otherwise.
+(3) The particulars and supporting documents referred to in subsection (2)﻿(a) need not include information that has already been supplied to the Customs in any form and manner approved in writing by the chief executive under section 21(1)﻿(a) or otherwise.
 
 **Arrival of persons**
 
@@ -638,7 +638,7 @@ The advance notice of departure referred to in section 34(a) may be provided, on
   (b) an agent of the owner or operator.
 
 ### 34A Fees and charges relating to granting certificate of clearance
-(1) The Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)⁠(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in granting a certificate of clearance (for example, the costs and expenses incurred by the Customs in determining whether a person in charge of a craft that is departing New Zealand has complied with the requirements stated or referred to in or imposed under section 34).
+(1) The Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)﻿(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in granting a certificate of clearance (for example, the costs and expenses incurred by the Customs in determining whether a person in charge of a craft that is departing New Zealand has complied with the requirements stated or referred to in or imposed under section 34).
 (2) No fees or charges prescribed by regulations of the kind described in subsection (1) may meet or assist in meeting costs or expenses that are—
   (a) incurred by the Customs in granting a certificate of clearance; and
   (b) related to clearance of passengers.
@@ -666,7 +666,7 @@ The person in charge of a craft to whom a certificate of clearance has been gran
     (ii) is compelled by accident, stress of weather, or other necessity; or
   (b) that is authorised to depart for a point outside New Zealand from a place in New Zealand other than a Customs place, by the chief executive.
 (3) The provisions of section 25(1A) to (1C) apply with any necessary modifications in respect of—
-  (a) any authorisation given by the chief executive under subsection (2)⁠(b); and
+  (a) any authorisation given by the chief executive under subsection (2)﻿(b); and
   (b) any departure from a place in New Zealand (other than a Customs place) in reliance on such an authorisation.
 
 ### 37A Outward cargo report
@@ -736,7 +736,7 @@ Section 38D or section 38E applies to a person only if the person—
 (1) A person to whom this section applies must give the Customs access, on and after the date specified in the notice referred to in section 38C(b), to information—
   (a) that is of the kind specified in subsection (2); and
   (b) that the person holds (whether in New Zealand or overseas) or has access to about any border-crossing craft.
-(2) The information referred to in subsection (1)⁠(a) is information about the border-crossing craft, about what it is carrying or transporting, about its journey to or from New Zealand, and about its arrival at, or departure from, New Zealand, whether that journey or arrival or departure has occurred, is occurring, or will occur.
+(2) The information referred to in subsection (1)﻿(a) is information about the border-crossing craft, about what it is carrying or transporting, about its journey to or from New Zealand, and about its arrival at, or departure from, New Zealand, whether that journey or arrival or departure has occurred, is occurring, or will occur.
 (3) That information may include, but is not limited to, the following information about the border-crossing craft:
   (a) if the craft is carrying or transporting goods,—
     (i) loading and discharge details:
@@ -752,7 +752,7 @@ Section 38D or section 38E applies to a person only if the person—
 (1) A person to whom this section applies must give the Customs access, on and after the date specified in the notice referred to in section 38C(b), to information—
   (a) that is of the kind specified in subsection (2); and
   (b) that the person holds (whether in New Zealand or overseas) or has access to about any border-crossing person.
-(2) The information referred to in subsection (1)⁠(a) is information held by the person, or to which the person has access, for the purpose of facilitating the border-crossing person's travel to, or departure from, New Zealand, whether that travel or departure has occurred, is occurring, or will occur.
+(2) The information referred to in subsection (1)﻿(a) is information held by the person, or to which the person has access, for the purpose of facilitating the border-crossing person's travel to, or departure from, New Zealand, whether that travel or departure has occurred, is occurring, or will occur.
 (3) That information may include, but is not limited to, the following information about the border-crossing person:
   (a) the person's name, date of birth, place of birth, nationality, sex, and passport details:
   (b) the person's contact details (including telephone number, address, and email address):
@@ -804,7 +804,7 @@ Section 38D or section 38E applies to a person only if the person—
 (3) In that situation, the Customs may without warrant—
   (a) search information about other travel to determine whether it includes information that relates to the person; and
   (b) view information in accordance with subsection (5).
-(4) However, the search may be conducted only if it can be completed within 14 days after the arrival or departure to which the information about travel within the 28-day period relates (see section 38H(5)⁠(a)).
+(4) However, the search may be conducted only if it can be completed within 14 days after the arrival or departure to which the information about travel within the 28-day period relates (see section 38H(5)﻿(a)).
 (5) The Customs must not view information about other travel unless that information relates to the person and is found as a result of the search.
 (6) Powers under this section of viewing or searching are exercisable in a particular case even though, in the circumstances of that case, the purpose of the viewing or searching would not be, or would not be likely to be, frustrated if the viewing or searching were delayed until a warrant under section 38J could be obtained to authorise it.
 
@@ -824,24 +824,24 @@ Section 38D or section 38E applies to a person only if the person—
 (4) On an application under subsection (2), a District Court Judge may grant a search and viewing warrant in the prescribed form, but only if he or she is satisfied that—
   (a) the reasonable grounds to suspect required by subsection (1) exist; and
   (b) the search criteria specified by the Customs are reasonably related to the information available to the Customs that gives rise to those reasonable grounds to suspect.
-(5) The warrant is sufficient authority for the doing of the things specified in subsection (2)⁠(a) and (b).
-(6) In this section and section 38K, relevant offence means an offence described in section 38B(1)⁠(b), or relevant to the purpose stated in section 38B(1) (except paragraph (b)).
+(5) The warrant is sufficient authority for the doing of the things specified in subsection (2)﻿(a) and (b).
+(6) In this section and section 38K, relevant offence means an offence described in section 38B(1)﻿(b), or relevant to the purpose stated in section 38B(1) (except paragraph (b)).
 
 ### 38K Search and viewing without warrant in emergencies
 (1) This section applies to the following situation:
   (a) the situation specified in section 38J(1) applies:
   (b) the chief executive considers that, if he or she were to apply to a District Court Judge for a search and viewing warrant under section 38J, the District Court Judge would grant the warrant:
   (c) the chief executive also considers that delaying a search and any resulting viewing until a search and viewing warrant can be obtained under section 38J would create a real risk that—
-    (i) the countering of the risk or threat referred to in section 38J(1)⁠(a)⁠(i) would be frustrated; or (as the case requires)
+    (i) the countering of the risk or threat referred to in section 38J(1)﻿(a)﻿(i) would be frustrated; or (as the case requires)
     (ii) the prevention, detection, investigation, prosecution, or punishment of the relevant offence would be frustrated.
-(2) In that situation, the chief executive may, with no further authority than this section, have the things specified in section 38J(2)⁠(a) and (b) done as if the doing of those things were authorised by a search and viewing warrant under section 38J(4).
+(2) In that situation, the chief executive may, with no further authority than this section, have the things specified in section 38J(2)﻿(a) and (b) done as if the doing of those things were authorised by a search and viewing warrant under section 38J(4).
 (3) However, if the chief executive acts under subsection (2), he or she must within 72 hours apply under section 38J(2) for a search and viewing warrant in relation to the matter.
 
 ### 38L Procedure if viewing of information not authorised
 (1) This subsection applies to both of the following situations:
   (a) the 72-hour period referred to in section 38K(3) expires and the chief executive has not made the application required by that subsection:
   (b) the application required by section 38K(3) is made but, in response to it, either no warrant is granted under section 38J(4), or a warrant is granted under section 38J(4) authorising the doing of some only of the things done in reliance on section 38K(2).
-(2) In a situation to which subsection (1) applies, things done in reliance on section 38K(2) must, to the extent that the doing of those things is not authorised by a warrant granted under section 38J(4), be treated for the purposes only of the countering of the risk or threat referred to in section 38J(1)⁠(a)⁠(i) or (as the case requires) of the prevention, detection, investigation, prosecution, or punishment of the relevant offence, as if they were done without the authority of section 38K or of a warrant granted under section 38J(4).
+(2) In a situation to which subsection (1) applies, things done in reliance on section 38K(2) must, to the extent that the doing of those things is not authorised by a warrant granted under section 38J(4), be treated for the purposes only of the countering of the risk or threat referred to in section 38J(1)﻿(a)﻿(i) or (as the case requires) of the prevention, detection, investigation, prosecution, or punishment of the relevant offence, as if they were done without the authority of section 38K or of a warrant granted under section 38J(4).
 (3) In a situation to which subsection (1) applies,—
   (a) the Customs must destroy immediately information viewed by it in reliance on section 38K(2) and that is collected by it for a purpose specified in section 282A if the viewing of that information is not authorised by a warrant granted under section 38J(4); and
   (b) other persons or bodies must destroy immediately information viewed by the Customs in reliance on section 38K(2) and disclosed by it to the other persons or bodies for a purpose specified in section 282A(2) and collected by the other persons or bodies if the viewing of that information is not authorised by a warrant granted under section 38J(4).
@@ -862,11 +862,11 @@ Section 38D or section 38E applies to a person only if the person—
 (11) Despite anything in this section, every District Court Judge or Judge of the High Court who is presiding over any proceedings in which the issue of a warrant under section 38J is in issue is entitled to inspect any relevant document held under subsection (1).
 
 ### 38N Information and disclosure in section 38M(7)
-(1) Information falls within section 38M(7)⁠(a) if it—
+(1) Information falls within section 38M(7)﻿(a) if it—
   (a) might lead to the identification of, or provide details of, the source of the information, the nature, content, or scope of the information, or the nature or type of the assistance or operational methods available to the Customs; or
   (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in pursuance of any of the functions of the Customs; or
   (c) has been provided to the Customs by the government of another country or by an agency of a government of another country or by an international organisation, and is information that cannot be disclosed by the Customs because the government or agency or organisation by which the information has been provided will not consent to the disclosure.
-(2) Disclosure of information falls within section 38M(7)⁠(b) if the disclosure would be likely—
+(2) Disclosure of information falls within section 38M(7)﻿(b) if the disclosure would be likely—
   (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
   (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the government of another country or any agency of such a government, or by any international organisation; or
   (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
@@ -882,7 +882,7 @@ Section 38D or section 38E applies to a person only if the person—
   (a) viewed under any of sections 38G to 38K; and
   (b) collected for a purpose specified in section 282A(2).
 (2) The Customs must, at least once every 6 months after this section comes into force, determine whether the retention of the information by the Customs continues to be necessary for that purpose and, if it is not, must dispose of the information promptly.
-(3) This section does not limit section 38L(3)⁠(a).
+(3) This section does not limit section 38L(3)﻿(a).
 
 ### 38P Protection of persons acting under authority of Part
 Neither the Crown nor the chief executive or a Customs officer or an authorised person is liable for anything done or omitted to be done or purporting to have been done by a person in the exercise of a power conferred by this Part unless the person has not acted in good faith or has acted without reasonable care.
@@ -930,7 +930,7 @@ Without limiting the power to make regulations under section 286, the Governor-G
   (e) for the purposes of section 39A(1), prescribing criteria for determining whether goods cannot reasonably be imported in 1 shipment.
 
 ### 40A Fees and charges relating to importation of goods
-(1) Without limiting the power to make regulations under section 287, the Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)⁠(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in exercising functions or powers, or performing duties, or providing services, under this Act that relate to the importation of goods.
+(1) Without limiting the power to make regulations under section 287, the Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)﻿(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in exercising functions or powers, or performing duties, or providing services, under this Act that relate to the importation of goods.
 (2) The provisions of Part 8 that relate to the collection and recovery of duty apply to fees and charges prescribed by regulations of the kind described in subsection (1), as if those fees and charges were a duty.
 (3) Before making a recommendation under subsection (1) in relation to any proposed regulations, the Minister must be satisfied that the persons that the Minister considers are representative of interests likely to be substantially affected by the proposed regulations have been consulted about the proposed regulations to the extent that is reasonably practicable having regard to the circumstances of the case.
 (4) For the purposes of subsection (3), the Minister may take into account any relevant consultation undertaken by or on behalf of the Minister before this section comes into force.
@@ -966,9 +966,9 @@ Except as otherwise permitted by the chief executive, no goods subject to the co
   (b) subject to subsection (3), with the permission of a Customs officer after entry has been made and passed in the prescribed form and manner; or
   (c) pursuant to a permit or other authorisation granted by the chief executive in respect of those goods, subject to such conditions as the chief executive may determine; or
   (d) by a Customs officer in the performance of his or her duties under this Act.
-(2) The chief executive may, by notice in writing, vary or revoke any conditions to which a permit granted by the chief executive under subsection (1)⁠(c) is subject, or may revoke those conditions and impose new conditions or may revoke the permit completely.
-(3) Notwithstanding subsection (1)⁠(b), while goods remain subject to the control of the Customs, the chief executive may revoke any notice of delivery given in respect of those goods.
-(4) A person who is dissatisfied with a decision of the chief executive under subsection (1)⁠(c) or subsection (2) may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
+(2) The chief executive may, by notice in writing, vary or revoke any conditions to which a permit granted by the chief executive under subsection (1)﻿(c) is subject, or may revoke those conditions and impose new conditions or may revoke the permit completely.
+(3) Notwithstanding subsection (1)﻿(b), while goods remain subject to the control of the Customs, the chief executive may revoke any notice of delivery given in respect of those goods.
+(4) A person who is dissatisfied with a decision of the chief executive under subsection (1)﻿(c) or subsection (2) may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
 
 ### 48 Temporary removal of goods from Customs controlled area
 (1) Subject to section 156 and to any other provisions of this Act, the chief executive may permit goods to be temporarily removed from a Customs controlled area without payment of duty for such time and in such quantities as he or she may approve.
@@ -992,7 +992,7 @@ Except as otherwise permitted by the chief executive, no goods subject to the co
   (c) be accompanied by such supporting documents (being documents each of which is genuine, not erroneous, and not misleading) as the chief executive may require.
 (4) Information supplied under this section is subject to, but this section does not limit, section 204A (offence relating to failing to update information supplied in advance).
 (5) The chief executive must as soon as is reasonably practicable agree to or decline each transhipment request made.
-(6) A transhipment request agreed to by the chief executive authorises (under section 47(1)⁠(a)) removal of the cargo from a Customs controlled area, for the transhipment purposes, and on the conditions (if any), the chief executive specifies when agreeing to the request.
+(6) A transhipment request agreed to by the chief executive authorises (under section 47(1)﻿(a)) removal of the cargo from a Customs controlled area, for the transhipment purposes, and on the conditions (if any), the chief executive specifies when agreeing to the request.
 (7) However, a transhipment request agreed to by the chief executive does not limit or affect enactments in or under other Acts that apply to the cargo (for example, enactments in or under the Biosecurity Act 1993 on uncleared goods).
 (8) A person who is dissatisfied with a decision of the chief executive under subsection (4) may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
 
@@ -1022,7 +1022,7 @@ Without limiting the power to make regulations under section 286, the Governor-G
   (b) prescribing goods or classes of goods that shall be deemed to have been entered under section 49(1) and the circumstances in which and the conditions subject to which those goods shall be so deemed.
 
 ### 50A Fees and charges relating to exportation of goods
-(1) The Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)⁠(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in exercising functions or powers, or performing duties, or providing services, under this Act that relate to the exportation of goods.
+(1) The Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)﻿(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in exercising functions or powers, or performing duties, or providing services, under this Act that relate to the exportation of goods.
 (2) The provisions of Part 8 that relate to the collection and recovery of duty apply to fees and charges prescribed by regulations of the kind described in subsection (1), as if those fees and charges were a duty.
 (3) Before making a recommendation under subsection (1) in relation to any proposed regulations, the Minister must be satisfied that the persons that the Minister considers are representative of interests likely to be substantially affected by the proposed regulations have been consulted about the proposed regulations to the extent that is reasonably practicable having regard to the circumstances of the case.
 (4) For the purposes of subsection (3), the Minister may take into account any relevant consultation undertaken by or on behalf of the Minister before this section comes into force.
@@ -1117,7 +1117,7 @@ A secure exports scheme must include express acknowledgements by the exporter co
 (2) If goods to be exported under a Customs-approved secure exports scheme are exported under drawback, then all conditions (if any) as may be prescribed for allowing drawback of duty must be satisfied, even though satisfying those conditions may involve conveying or handling or storing the goods in a way not specified in the scheme.
 
 ### 53H Use of Customs seals in relation to goods to be exported under Customs-approved secure exports schemes
-(1) Nothing in this Act prevents a Customs seal from being used in relation to a Customs-approved secure package after an approved seal, marking, substance, or device of the kind referred to in section 53E(1)⁠(b) has been used in relation to the package in accordance with the relevant Customs-approved secure exports scheme.
+(1) Nothing in this Act prevents a Customs seal from being used in relation to a Customs-approved secure package after an approved seal, marking, substance, or device of the kind referred to in section 53E(1)﻿(b) has been used in relation to the package in accordance with the relevant Customs-approved secure exports scheme.
 (2) Goods to be exported under a Customs-approved secure exports scheme must not be regarded as no longer to be exported under the scheme just because 1 or more Customs seals have been used in relation to the Customs-approved secure package concerned.
 
 ### 53I Exporters may be involved in exportation of goods outside Customs-approved secure exports scheme
@@ -1134,7 +1134,7 @@ The chief executive may, at any time, review the operation of any Customs-approv
   (a) any of the goods specified in Schedule 1; or
   (aa) all publications as defined in section 2 of the Films, Videos, and Publications Classification Act 1993 that are objectionable within the meaning of that Act in the hands of all persons and for all purposes; and all other indecent or obscene articles; or
   (b) goods the importation of which is prohibited by an Order in Council made under subsection (2).
-(1A) Electronic publications the importation of which is prohibited by subsection (1)⁠(aa) must be treated as if they were goods for the purposes of this Act (except for section 12 of the Goods and Services Tax Act 1985 which is deemed by section 1(3) of that Act to be part of this Act).
+(1A) Electronic publications the importation of which is prohibited by subsection (1)﻿(aa) must be treated as if they were goods for the purposes of this Act (except for section 12 of the Goods and Services Tax Act 1985 which is deemed by section 1(3) of that Act to be part of this Act).
 (2) The Governor-General may from time to time, by Order in Council, prohibit the importation into New Zealand of—if, in the opinion of the Governor-General, the prohibition is necessary in the public interest.
   (a) any specified goods; or
   (b) goods of a specified class or classes,—
@@ -1161,8 +1161,8 @@ The chief executive may, at any time, review the operation of any Customs-approv
 ### 56 Prohibited exports
 (1) It is unlawful to export from New Zealand—
   (a) all publications as defined in section 2 of the Films, Videos, and Publications Classification Act 1993 that are objectionable within the meaning of that Act in the hands of all persons and for all purposes; and
-  (b) goods or electronic publications the exportation of which is prohibited by an order under subsection (2)⁠(a) or (b); and
-  (c) goods or electronic publications the exportation of which the Secretary has determined is prohibited under an order under subsection (2)⁠(c).
+  (b) goods or electronic publications the exportation of which is prohibited by an order under subsection (2)﻿(a) or (b); and
+  (c) goods or electronic publications the exportation of which the Secretary has determined is prohibited under an order under subsection (2)﻿(c).
 (1A) Electronic publications the exportation of which is prohibited by subsection (1) must be treated as if they were goods for the purposes of this Act (except for section 12 of the Goods and Services Tax Act 1985 which is deemed by section 1(3) of that Act to be part of this Act).
 (2) If the Governor-General considers prohibition is necessary in the public interest, the Governor-General may by Order in Council prohibit the exportation from New Zealand of any or all of the following:
   (a) any specified—
@@ -1184,14 +1184,14 @@ The chief executive may, at any time, review the operation of any Customs-approv
     (b) the development, production, or deployment of biological weapons (as defined in section 2 of the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987) and their means of delivery:
     (c) the development, production, or deployment of chemical weapons (as defined in the Schedule of the Chemical Weapons (Prohibition) Act 1996) and their means of delivery:
     (d) military use or applications; or the development, production, or deployment of military goods or other goods that have a civilian use but that are intended for military use or that may have military applications.
-(2B) An order under subsection (2)⁠(c) must describe goods or electronic publications by reference only to uses that relate (directly or indirectly) to either or both of the following:
+(2B) An order under subsection (2)﻿(c) must describe goods or electronic publications by reference only to uses that relate (directly or indirectly) to either or both of the following:
   (a) where contrary to New Zealand's interests, strategic uses:
   (b) terrorist acts (as defined in section 5 of the Terrorism Suppression Act 2002).
-(2C) The Secretary may determine that any goods or electronic publications are goods or electronic publications described by an order under subsection (2)⁠(c).
+(2C) The Secretary may determine that any goods or electronic publications are goods or electronic publications described by an order under subsection (2)﻿(c).
 (2D) As soon as practicable after making a determination under subsection (2C), the Secretary must give notice in writing (which includes, without limitation, by facsimile or electronic means) of the determination to the chief executive and to each relevant exporter.
 (2E) The relevant exporter is deemed to have received the Secretary's notice under subsection (2D) in accordance with section 285.
-(2F) If any person is aware or should reasonably be aware that any goods or electronic publications the person wishes to export are intended for or may have any of the uses described in an order made under subsection (2)⁠(c), the person must, before exporting the goods or electronic publications, inform the Secretary.
-(2G) The Secretary must maintain an up-to-date list of all goods, classes of goods, electronic publications, and classes of electronic publications that are prohibited under subsection (2)⁠(a) and (b) because they have or may have a strategic use.
+(2F) If any person is aware or should reasonably be aware that any goods or electronic publications the person wishes to export are intended for or may have any of the uses described in an order made under subsection (2)﻿(c), the person must, before exporting the goods or electronic publications, inform the Secretary.
+(2G) The Secretary must maintain an up-to-date list of all goods, classes of goods, electronic publications, and classes of electronic publications that are prohibited under subsection (2)﻿(a) and (b) because they have or may have a strategic use.
 (2H) The Secretary must make the list maintained under subsection (2G) available by—
   (a) notifying the chief executive of it; and
   (b) publishing it on the Internet (at all reasonable times) on a website maintained by, or on behalf of, the Secretary.
@@ -1348,7 +1348,7 @@ Section 68 does not apply to the manufacture of biofuel or biofuel blends on lan
   (a) compressed natural gas is deemed to have been manufactured by a licensee of a manufacturing area when natural gas supplied by the licensee to a compressed natural gas fuelling facility is compressed for use as a motor vehicle fuel:
   (b) goods on which work has been done by a contractor shall be deemed to have been manufactured by the contractor:
   (c) biofuel is deemed to have been manufactured by a licensee of a manufacturing area when biofuel supplied by the licensee to a biofuel fuelling facility is blended at the biofuel fuelling facility.
-(2) A licensee of a manufacturing area who supplies biofuel under subsection (1)⁠(c) will be liable for duty under this Act for the biofuel blend that results from blending at a biofuel fuelling facility the biofuel supplied by the licensee.
+(2) A licensee of a manufacturing area who supplies biofuel under subsection (1)﻿(c) will be liable for duty under this Act for the biofuel blend that results from blending at a biofuel fuelling facility the biofuel supplied by the licensee.
 (3) The biofuel blend that results from blending at a biofuel fuelling facility under subsection (2) is, for the purposes of this Part, deemed to be removed for home consumption when the blending is undertaken.
 (4) In this section, biofuel fuelling facility—
   (a) means any installation, facility, or other place that—
@@ -1457,7 +1457,7 @@ In this section and in sections 76B to 76G, unless the context otherwise require
   (a) the Excise and Excise-equivalent Duties Table as from time to time amended, modified, or revoked and replaced on or after 1 January 2010; and
   (b) the 2010 Excise and Excise-equivalent Duties Document; and
   (c) Orders in Council amending or modifying the Excise and Excise-equivalent Duties Table and made under section 77, 78, 79, 79AA(2), or 79A on or after 1 January 2010.
-(3) Every version of the Excise and Excise-equivalent Duties Table referred to in subsection (2)⁠(a) and published or made available under subsection (1) must—
+(3) Every version of the Excise and Excise-equivalent Duties Table referred to in subsection (2)﻿(a) and published or made available under subsection (1) must—
   (a) indicate that it is that Table as in force at the beginning of a stated date; and
   (b) list all Acts and Orders in Council that are enacted on or after 1 January 2010 and before the stated date and that amend, modify, revoke, or revoke and replace some or all of that Table.
 (4) Nothing in section 76B or this section prevents the chief executive from ensuring that other information is published or made available with the Excise and Excise-equivalent Duties Table, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, that table.
@@ -1498,7 +1498,7 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
   (a) revoking, inserting, or amending any heading, heading number, subheading, item, or item number or the title of any Part, section, chapter, or subchapter of the Tariff referred to in the Excise and Excise-equivalent Duties Table in any manner necessary to ensure that that Table conforms to the Tariff; or
   (b) revoking, suspending, or amending a provision of the notes forming part of the Excise and Excise-equivalent Duties Table, or by inserting a new provision in the notes, for the purpose of ensuring the proper operation of the Excise and Excise-equivalent Duties Table; or
   (c) revoking, suspending, inserting, or amending a statistical unit in the Excise and Excise-equivalent Duties Table.
-(2) Despite subsection (1)⁠(c), the chief executive may, by notice in the Gazette, revoke, suspend, insert, or amend a statistical unit in the Excise and Excise-equivalent Duties Table.
+(2) Despite subsection (1)﻿(c), the chief executive may, by notice in the Gazette, revoke, suspend, insert, or amend a statistical unit in the Excise and Excise-equivalent Duties Table.
 (3) No amendment made pursuant to this section may alter the duties or exemptions from duty under this Act applicable to goods classified under an item or heading so amended.
 
 ### 79 Indexation of rates of excise duty and excise-equivalent duty on alcoholic beverages and tobacco products
@@ -1508,7 +1508,7 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
   (a) shall be limited in accordance with this section having regard to movements in the Consumers Price Index All Groups excluding credit services; and
   (b) in the case of a change in the rates of excise duty and excise-equivalent duty for alcoholic beverages, may come into force only on 1 July in any calendar year; and
   (c) in the case of a change in the rates of excise duty and excise-equivalent duty for tobacco products, may come into force only on 1 January in any calendar year.
-(3) No new rate of excise duty or excise-equivalent duty imposed on any goods under subsection (1) shall exceed a rate calculated in accordance with the following formula: a× c b where—ais the Index number of the Consumers Price Index All Groups excluding credit services issued by the Government Statistician for—bis the Index number of the quarterly Consumers Price Index All Groups excluding credit services issued by the Government Statistician for the quarter ending 12 months before, and expressed on the same base quarter as, the relevant quarter specified in item a of this formula; andcis the existing rate of duty in respect of the goods to which the order relates.
+(3) No new rate of excise duty or excise-equivalent duty imposed on any goods under subsection (1) shall exceed a rate calculated in accordance with the following formula:This table contains a formula. a× c b where—ais the Index number of the Consumers Price Index All Groups excluding credit services issued by the Government Statistician for—bis the Index number of the quarterly Consumers Price Index All Groups excluding credit services issued by the Government Statistician for the quarter ending 12 months before, and expressed on the same base quarter as, the relevant quarter specified in item a of this formula; andcis the existing rate of duty in respect of the goods to which the order relates.
   (i) the quarter ending on 31 March in the calendar year in which the order is to come into force, in the case of an order relating to alcoholic beverages; or
   (ii) the quarter ending on 30 September immediately before the calendar year in which the order is to come into force, in the case of an order relating to tobacco products; and
 (3A) If an Order in Council is made under subsection (1), changes the rates of excise duty and excise-equivalent duty for tobacco products, and comes into force on 1 January in 2013, 2014, 2015, or 2016, then despite subsections (1) to (3),—
@@ -1569,7 +1569,7 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
   (a) supplied solely for the use of such organisations, expeditions, or other bodies as may be approved by the chief executive and as may, from time to time, be established or temporarily based in New Zealand under an agreement or arrangement entered into by or on behalf of the Government of New Zealand with the Government of any other country or with the United Nations; or
   (b) supplied solely for the use of persons temporarily resident in New Zealand for the purpose of serving as a member of any such approved organisation, expedition, or other body.
 (2) The chief executive may at any time impose such conditions as he or she thinks fit in respect of goods or a class of goods to which an Order in Council made for the purposes of this section relates.
-(3) An approval that was given by the Minister under subsection (1)⁠(a) (as in force before the commencement of this subsection) and that was in force immediately before that commencement continues in force after that commencement as if it had been given (and may be amended, revoked, or revoked and replaced) by the chief executive under subsection (1)⁠(a) (as in force after that commencement).
+(3) An approval that was given by the Minister under subsection (1)﻿(a) (as in force before the commencement of this subsection) and that was in force immediately before that commencement continues in force after that commencement as if it had been given (and may be amended, revoked, or revoked and replaced) by the chief executive under subsection (1)﻿(a) (as in force after that commencement).
 
 **Miscellaneous duty provisions**
 
@@ -1591,7 +1591,7 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 (7) A person liable for the payment of the excise duty who is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
 
 ### 84 Assessment of excise duty on beer or wine otherwise exempt
-(1) If the chief executive has reasonable cause to suspect that any quantity of beer or wine that has been entered as exempt from excise duty under section 73(2) or (2A), as the case may be, has later been dealt with in any manner otherwise than in accordance with the provisions of section 73(2)⁠(a) or (2A)⁠(a), as the case may require, the chief executive may make an assessment of excise duty.
+(1) If the chief executive has reasonable cause to suspect that any quantity of beer or wine that has been entered as exempt from excise duty under section 73(2) or (2A), as the case may be, has later been dealt with in any manner otherwise than in accordance with the provisions of section 73(2)﻿(a) or (2A)﻿(a), as the case may require, the chief executive may make an assessment of excise duty.
 (2) The duty assessed in accordance with this section is owed by—
   (a) the licensee of the manufacturing area in which the beer or the wine was manufactured; and
   (b) the individual who manufactured the beer or the wine.
@@ -1664,7 +1664,7 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 
 ### 93 Chief executive to pay interest on duty refunded on appeal
 (1) Subject to subsection (5) of this section, where duty is required to be refunded in accordance with section 92(2), there shall be paid by the chief executive interest calculated in accordance with subsection (2) of this section.
-(2) Interest payable in accordance with this section shall be calculated by reference to qualifying periods consisting of 12 consecutive months from 1 April in any year until 31 March in the following year, and shall be the sum of the amounts of interest payable in respect of each applicable qualifying period, the amount of interest in respect of an applicable qualifying period being determined in accordance with the following formula: x × y × z 365 where—xis the number of days in the period that commences on the later of—and ends on the earlier of—yis the amount of any duty being the relevant duty, which, having been paid in accordance with section 91(1), is caused to be refunded in accordance with the outcome of a successful appeal; andzis the specified rate of interest as determined in accordance with subsection (3).
+(2) Interest payable in accordance with this section shall be calculated by reference to qualifying periods consisting of 12 consecutive months from 1 April in any year until 31 March in the following year, and shall be the sum of the amounts of interest payable in respect of each applicable qualifying period, the amount of interest in respect of an applicable qualifying period being determined in accordance with the following formula:This table contains a formula. x × y × z 365 where—xis the number of days in the period that commences on the later of—and ends on the earlier of—yis the amount of any duty being the relevant duty, which, having been paid in accordance with section 91(1), is caused to be refunded in accordance with the outcome of a successful appeal; andzis the specified rate of interest as determined in accordance with subsection (3).
   (a) the day on which the relevant duty is lodged to the credit of the chief executive; or
   (b) the first day of the qualifying period of 12 consecutive months;—
   (c) the day on which the relevant duty is refunded by the chief executive in accordance with this section; or
@@ -1748,14 +1748,14 @@ For the purposes of section 97, one person is related to another person,—
 (2) Every notice under subsection (1) shall be given within 60 days after,—or, if there is a dispute as to whether section 97(3) applies, within 30 days after the dispute is resolved or determined.
   (a) in the case of an individual, the date of the notice in the Gazette that the individual has been adjudicated bankrupt; or
   (b) in the case of a company, the date of the notice in the Gazette of the commencement of the liquidation, or of the appointment of a receiver, as the case may be; or
-  (c) in the case of an unincorporated body of persons described in subsection (1)⁠(d) of section 98, the date of the notice in the Gazette of the commencement of the liquidation; or
-  (d) in the case of an unincorporated body of persons described in subsection (1)⁠(e) of section 98, the date of the notice in the Gazette of the appointment of a receiver—
+  (c) in the case of an unincorporated body of persons described in subsection (1)﻿(d) of section 98, the date of the notice in the Gazette of the commencement of the liquidation; or
+  (d) in the case of an unincorporated body of persons described in subsection (1)﻿(e) of section 98, the date of the notice in the Gazette of the appointment of a receiver—
 (3) If any duty to which this section applies is due and unpaid, the chief executive may—
   (a) realise the property subject to the charge; or
   (b) value the property subject to the charge and claim in the bankruptcy, liquidation, or receivership, as the case may be, in accordance with the provisions of section 101, for the balance of the unpaid duty (if any); or
   (c) realise the property subject to the charge and claim in the bankruptcy, liquidation, or receivership, as the case may be, in accordance with the provisions of section 101, for any balance of the unpaid duty after deducting the amount realised; or
   (d) surrender the charge to the Official Assignee or the liquidator or the receiver, as the case may be, for the general benefit of creditors and claim in the bankruptcy, liquidation, or receivership, as the case may be, in accordance with the provisions of section 101, for the whole debt.
-(4) If the chief executive values the property subject to the charge and claims for the balance of unpaid duty (if any) in accordance with subsection (3)⁠(b), the valuation and claim must—
+(4) If the chief executive values the property subject to the charge and claims for the balance of unpaid duty (if any) in accordance with subsection (3)﻿(b), the valuation and claim must—
   (a) contain full particulars of the valuation and claim; and
   (b) contain full particulars of the charge; and
   (c) identify any documents that substantiate the claim and the charge.
@@ -1767,16 +1767,16 @@ For the purposes of section 97, one person is related to another person,—
     (i) where a valuation and claim is rejected in whole or in part, the chief executive may make a revised valuation and claim within 20 days of receiving notice of the rejection; and
     (ii) the Official Assignee, liquidator, or receiver, as the case may be, may, if he or she subsequently considers that a valuation and claim was wrongly rejected in whole or in part, revoke or amend that decision.
 (8) Where the Official Assignee, liquidator, or receiver, as the case may be,—the Official Assignee, liquidator, or receiver, as the case may be, may, unless the chief executive has realised the property, at any time, redeem the charge on payment of the assessed value.
-  (a) accepts a valuation and claim under subsection (7)⁠(a); or
-  (b) accepts a revised valuation and claim under subsection (7)⁠(b)⁠(i); or
-  (c) accepts a valuation and claim on revoking or amending a decision to reject a claim under subsection (7)⁠(b)⁠(ii),—
+  (a) accepts a valuation and claim under subsection (7)﻿(a); or
+  (b) accepts a revised valuation and claim under subsection (7)﻿(b)﻿(i); or
+  (c) accepts a valuation and claim on revoking or amending a decision to reject a claim under subsection (7)﻿(b)﻿(ii),—
 (9) The Official Assignee, the liquidator, or the receiver, as the case may be, may at any time, by notice in writing, require the chief executive, within 30 days after receipt of the notice, to—
   (a) elect which of the rights referred to in subsection (3) the chief executive wishes to exercise; and
   (b) if the chief executive elects to exercise the right referred to in paragraph (b) or paragraph (c) or paragraph (d) of subsection (3), exercise the right within that period.
-(10) If—the chief executive shall be taken to have surrendered the charge to the Official Assignee, or liquidator, or receiver, as the case may be, under subsection (3)⁠(d) for the general benefit of creditors and the chief executive may claim in the bankruptcy, liquidation, or receivership, as the case may be, in accordance with the provisions of section 101.
+(10) If—the chief executive shall be taken to have surrendered the charge to the Official Assignee, or liquidator, or receiver, as the case may be, under subsection (3)﻿(d) for the general benefit of creditors and the chief executive may claim in the bankruptcy, liquidation, or receivership, as the case may be, in accordance with the provisions of section 101.
   (a) the chief executive fails to give notice to the Official Assignee or the liquidator or the receiver, as the case may be, in accordance with subsection (1) within the time specified in subsection (2); or
   (b) having been required to make an election in accordance with subsection (9), the chief executive fails to do so within the time specified in that subsection,—
-(11) Where the chief executive has surrendered a charge under subsection (3)⁠(d) or is taken as having surrendered a charge under subsection (10), the chief executive may, with the leave of the court or the Official Assignee or the liquidator or the receiver, as the case may be, and subject to such terms and conditions as the court or the Official Assignee or the liquidator or the receiver, as the case may be, thinks fit, at any time before the Official Assignee, liquidator, or receiver, as the case may be, has realised the property charged,—
+(11) Where the chief executive has surrendered a charge under subsection (3)﻿(d) or is taken as having surrendered a charge under subsection (10), the chief executive may, with the leave of the court or the Official Assignee or the liquidator or the receiver, as the case may be, and subject to such terms and conditions as the court or the Official Assignee or the liquidator or the receiver, as the case may be, thinks fit, at any time before the Official Assignee, liquidator, or receiver, as the case may be, has realised the property charged,—
   (a) withdraw the surrender and rely on the charge; or
   (b) submit a new claim under this section.
 
@@ -1903,8 +1903,8 @@ Money refunded by the Customs in error of fact or law is recoverable by action a
   (d) destroyed; or
   (e) dealt with in such manner as the chief executive may allow.
 (3) Where in any case goods temporarily imported are used for industrial or commercial purposes or such other purposes as the chief executive may consider applicable, duty shall be payable in respect of the goods on the amount by which their value for duty, as determined by the chief executive at the time that he or she is satisfied pursuant to subsection (2) that the goods have been dealt with under any of paragraphs (a) to (e) of that subsection, is less than their value for duty, as ascertained in accordance with this Act, at the time of their importation.
-(3A) For the purposes of subsection (3), the chief executive must determine the value for duty of goods that have been dealt with under any of subsection (2)⁠(a) to (e) by using—
-  (a) the straight-line method of calculating an amount of depreciation loss described in section EE 12(2)⁠(b) of the Income Tax Act 2007; and
+(3A) For the purposes of subsection (3), the chief executive must determine the value for duty of goods that have been dealt with under any of subsection (2)﻿(a) to (e) by using—
+  (a) the straight-line method of calculating an amount of depreciation loss described in section EE 12(2)﻿(b) of the Income Tax Act 2007; and
   (b) the depreciation rate for that method determined by the Commissioner of Inland Revenue under section 91AAF or 91AAG of the Tax Administration Act 1994 or the rate specified in the table appended to the General Depreciation Rates published by the Commissioner of Inland Revenue; and
   (c) for duty calculation purposes, the depreciation rate applicable on the date the goods are imported.
 (4) Where an amount of duty is payable in accordance with subsection (3), that duty may be deducted from any deposit of money given as security under subsection (1).
@@ -1936,10 +1936,10 @@ Money refunded by the Customs in error of fact or law is recoverable by action a
 ### 118 Regulations may prescribe minimum duty collectable, value of goods below which duty need not be collected, minimum duty refundable, and minimum drawback allowable
 (1) Without limiting the power to make regulations conferred by section 286, regulations made under that section may prescribe—
   (a) an amount of duty below which that duty need not be collected, and the circumstances in which that duty need not be collected; and
-  (ab) the value of goods below which duty need not be collected, how that value must be determined (despite anything to the contrary in this Act and, in particular, in the definition of Customs value or value in section 2(1), and in sections 60, 61, 63(6)⁠(a), and 229(1)⁠(a), and Schedule 2), and the circumstances in which that duty need not be collected; and
+  (ab) the value of goods below which duty need not be collected, how that value must be determined (despite anything to the contrary in this Act and, in particular, in the definition of Customs value or value in section 2(1), and in sections 60, 61, 63(6)﻿(a), and 229(1)﻿(a), and Schedule 2), and the circumstances in which that duty need not be collected; and
   (b) the minimum amount of duty refundable on goods, and the circumstances in which duty below the prescribed amount shall not be refunded; and
   (c) the minimum amount of drawback of duty allowable on goods, and the circumstances in which drawback below the prescribed amount will not be allowed.
-(2) Regulations made under section 286 and prescribing all or any of the matters specified in subsection (1)⁠(a) or (ab) of this section may be made only on the Minister's recommendation.
+(2) Regulations made under section 286 and prescribing all or any of the matters specified in subsection (1)﻿(a) or (ab) of this section may be made only on the Minister's recommendation.
 (3) Before making a recommendation under subsection (2), the Minister must be satisfied that the persons that the Minister considers are representative of interests likely to be substantially affected by the proposed regulations have been consulted about the proposed regulations to the extent that is reasonably practicable having regard to the circumstances of the case.
 (4) For the purposes of subsection (3), the Minister may take into account any relevant consultation undertaken by or on behalf of the Minister before that subsection comes into force.
 (5) A failure to comply with subsection (3) does not affect the validity of any regulations of the kind described in subsection (2).
@@ -1995,7 +1995,7 @@ The chief executive shall promptly give notice in writing to the applicant of—
   (b) have a particular excise classification under the Excise and Excise-equivalent Duties Table; or
   (c) are or are not, as the case may be in accordance with applicable regulations made under this Act, the produce or manufacture of a particular country, or group of countries, for the purposes of the Tariff Act 1988; or
   (d) are or are not, as the case may be, subject to a specified duty concession under Part 2 of the Tariff.
-(2) Subject to section 125, a Customs ruling in respect of a particular matter in respect of which a ruling has been given under section 120(1)⁠(b) is conclusive evidence for the purposes of this Act and, where applicable, the Tariff Act 1988, of the application of the regulation or regulations on which the ruling was made in relation to that matter.
+(2) Subject to section 125, a Customs ruling in respect of a particular matter in respect of which a ruling has been given under section 120(1)﻿(b) is conclusive evidence for the purposes of this Act and, where applicable, the Tariff Act 1988, of the application of the regulation or regulations on which the ruling was made in relation to that matter.
 
 ### 123 Confirmation of basis of Customs ruling
 At any time after a Customs ruling is made, the chief executive may, by notice in writing, require the applicant to satisfy the chief executive in such manner and within 20 working days or such longer period as the chief executive considers appropriate,—
@@ -2074,7 +2074,7 @@ In this Part,—
 (3) Within 20 working days after the date on which the penalty notice is issued by the chief executive under subsection (1) (the due date), the person to whom it was issued—
   (a) must pay the penalty:
   (b) may request the chief executive to review the decision to issue the notice.
-(4) However, section 129(2) applies if the person to whom the penalty notice was issued requests the chief executive to review the decision to issue the notice under subsection (3)⁠(b).
+(4) However, section 129(2) applies if the person to whom the penalty notice was issued requests the chief executive to review the decision to issue the notice under subsection (3)﻿(b).
 (5) The amount of the penalty, including any additional penalty imposed under section 128C, constitutes a debt due to the Crown and is recoverable by the chief executive in a court of competent jurisdiction.
 (6) A person who pays the amount of the penalty, or for whom that amount is paid, is not liable to prosecution for an offence in relation to the error or omission and the goods in relation to which the error or omission occurred are not liable to seizure under this Act.
 (7) Subsection (6) does not apply to a prosecution or seizure in relation to goods that have been forfeited to the Crown because the importation or exportation of the goods is prohibited or unlawful.
@@ -2094,10 +2094,10 @@ In this Part,—
     (i) 20% of the excess drawback paid or claimed, if the chief executive is satisfied that the error or omission occurred because the person did not take reasonable care; or
     (ii) 40% of the excess drawback paid or claimed, if the chief executive is satisfied that the error or omission occurred because the person was grossly careless; or
     (iii) 100% of the excess drawback paid or claimed, if the chief executive is satisfied that the error or omission was made knowingly.
-(4) If the goods referred to in section 128A(1) and entered under section 39 become free of duty or subject to a lower rate of duty under Part 1 or Part 2 of the Tariff after the entry is made, the amount of the penalty must be calculated under subsection (2)⁠(b) as if the duty liability had not changed.
+(4) If the goods referred to in section 128A(1) and entered under section 39 become free of duty or subject to a lower rate of duty under Part 1 or Part 2 of the Tariff after the entry is made, the amount of the penalty must be calculated under subsection (2)﻿(b) as if the duty liability had not changed.
 
 ### 128C Additional penalty may be imposed
-(1) The additional penalties specified in subsection (2) are imposed (as the case may be) on a person to whom a penalty notice is issued under section 128A(1) if the penalty remains unpaid by the due date referred to in section 128A(3), unless the chief executive decides that the notice should not have been issued following a request for review under section 128A(3)⁠(b).
+(1) The additional penalties specified in subsection (2) are imposed (as the case may be) on a person to whom a penalty notice is issued under section 128A(1) if the penalty remains unpaid by the due date referred to in section 128A(3), unless the chief executive decides that the notice should not have been issued following a request for review under section 128A(3)﻿(b).
 (2) The additional penalties are—
   (a) 5% of the amount of the penalty unpaid by the due date; and
   (b) 2% of the amount of the penalty, including any additional penalty, unpaid at the end of the period of 1 month after the due date; and
@@ -2108,7 +2108,7 @@ In this Part,—
 A person who is dissatisfied with a decision of the chief executive under section 128A, 128B, or 128C may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
 
 ### 129 Obligation to pay penalty not suspended by review or appeal
-(1) The obligation to pay and the right to receive and recover any penalty imposed under section 128A are not suspended by any request for review under section 128A(3)⁠(b) or by any appeal or legal proceedings.
+(1) The obligation to pay and the right to receive and recover any penalty imposed under section 128A are not suspended by any request for review under section 128A(3)﻿(b) or by any appeal or legal proceedings.
 (2) Subject to the provisions of subsection (3), if the person who requested the review, or the appellant, is successful, the amount of the penalty imposed under this section shall forthwith be refunded to the person or the appellant by the chief executive.
 (3) The provisions of section 92(3) and section 93 shall, with all necessary modifications, apply to an administrative penalty required to be refunded under this section as if such penalty were duty.
 
@@ -2156,13 +2156,13 @@ An entity must not access, transmit information to, or receive information from,
 (2) In determining whether the applicant entity (including every nominated representative, if any, of the entity) is fit and proper to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user, the chief executive may consider all relevant information available to the chief executive, and may take into account all or any of the following that apply to, or in respect of, the applicant entity (including every nominated representative, if any, of the entity):
   (a) a serious or repeated failure by or on behalf of the applicant entity to comply with requirements in or under this Act, the Biosecurity Act 1993, the Hazardous Substances and New Organisms Act 1996, or any other enactment that regulates the importation of goods (or with requirements in or under any corresponding overseas laws):
   (b) convictions for any border-related offence, dishonesty offence, or drugs offence (as those terms are defined by section 132B, or for any corresponding offence against overseas laws) entered against all or any individuals who are, or are representatives or other agents or employees of, or are concerned in the management of, the applicant entity:
-  (c) other relevant grounds (including, without limitation, all other relevant grounds prescribed) for considering that the applicant entity (or, as the case requires, a or the nominated representative of the entity) is (in any way, and to any extent) likely to fail to comply with requirements in or under this Act, the Biosecurity Act 1993, or both (including, without limitation, the requirement to comply with conditions imposed under subsection (1)⁠(a)).
-(3) Conditions imposed under subsection (1)⁠(a) may, without limitation, relate to the purposes for which, or otherwise to the extent to which, the applicant entity (including every nominated representative, if any, of the entity) can access, transmit information to, or receive information from, the JBMS.
+  (c) other relevant grounds (including, without limitation, all other relevant grounds prescribed) for considering that the applicant entity (or, as the case requires, a or the nominated representative of the entity) is (in any way, and to any extent) likely to fail to comply with requirements in or under this Act, the Biosecurity Act 1993, or both (including, without limitation, the requirement to comply with conditions imposed under subsection (1)﻿(a)).
+(3) Conditions imposed under subsection (1)﻿(a) may, without limitation, relate to the purposes for which, or otherwise to the extent to which, the applicant entity (including every nominated representative, if any, of the entity) can access, transmit information to, or receive information from, the JBMS.
 (4) The chief executive must give written notice of his or her decision to the applicant entity.
 (5) An applicant entity that is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
 
 ### 132B Border-related offence, dishonesty offence, and drugs offence defined
-(1) Border-related offence, in sections 132A(2)⁠(b) and 135(1)⁠(c), means an offence against this Act, or against an enactment in, or made under, any of the following enactments:
+(1) Border-related offence, in sections 132A(2)﻿(b) and 135(1)﻿(c), means an offence against this Act, or against an enactment in, or made under, any of the following enactments:
   (a) Agricultural Compounds and Veterinary Medicines Act 1997:
   (b) Animal Products Act 1999:
   (c) Biosecurity Act 1993:
@@ -2178,8 +2178,8 @@ An entity must not access, transmit information to, or receive information from,
   (m) regulations under the United Nations Act 1946:
   (n) Wine Act 2003:
   (o) any other enactment involving the unlawful entry into, or unlawful removal from, New Zealand, of a person, matter, or thing.
-(2) Dishonesty offence, in sections 132A(2)⁠(b) and 135(1)⁠(c), means an offence described in Part 10 of the Crimes Act 1961 except for an offence described in sections 267 to 271 of that Act.
-(3) Drugs offence, in sections 132A(2)⁠(b) and 135(1)⁠(c), means an offence against an enactment in, or made under, the Misuse of Drugs Act 1975.
+(2) Dishonesty offence, in sections 132A(2)﻿(b) and 135(1)﻿(c), means an offence described in Part 10 of the Crimes Act 1961 except for an offence described in sections 267 to 271 of that Act.
+(3) Drugs offence, in sections 132A(2)﻿(b) and 135(1)﻿(c), means an offence against an enactment in, or made under, the Misuse of Drugs Act 1975.
 
 ### 133 Assignment, use, and security of unique user identifier
 (1) An applicant entity that is registered as a JBMS user may be assigned by the chief executive a unique user identifier—
@@ -2215,18 +2215,18 @@ An entity must not access, transmit information to, or receive information from,
   (b) for the time being generally approved in writing by the chief executive.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)⁠(j).
+  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j).
 
 ### 135 Cancellation or suspension of registration
 (1) The chief executive may by written notice to a registered JBMS user (which must state grounds for the cancellation) cancel that registered JBMS user's registration if satisfied that the user (or, as the case requires, a or the nominated representative of the user)—
-  (a) has failed to comply with a condition imposed by the chief executive under section 132A(1)⁠(a) or 133(4); or
+  (a) has failed to comply with a condition imposed by the chief executive under section 132A(1)﻿(a) or 133(4); or
   (b) has failed to comply with a condition imposed by the chief executive under section 134A(1) within the applicable time frame specified in section 134A(3) and (4); or
   (c) has been convicted of any border-related offence, dishonesty offence, or drugs offence (as those terms are defined by section 132B); or
   (d) is, on 1 or more prescribed grounds, unfit to continue to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user.
 (2) The chief executive may (despite subsection (1)) by written notice to a registered JBMS user (which must state grounds for the suspension) suspend that registered JBMS user's registration until a date or event specified in the notice if satisfied that the registered JBMS user's registration should not be cancelled, but should instead be suspended until that date or event, because the user (or, as the case requires, a or the nominated representative of the user)—
-  (a) has failed to comply with a condition imposed by the chief executive under section 132A(1)⁠(a) or 133(4); or
+  (a) has failed to comply with a condition imposed by the chief executive under section 132A(1)﻿(a) or 133(4); or
   (b) has failed to comply with a condition imposed by the chief executive under section 134A(1) within the applicable time frame specified in section 134A(3) and (4).
-(3) The date or event specified in the notice under subsection (2) may, but need not, be the date of the event that is or, as the case may be, the event that is, the user's (or, as the case requires, the nominated representative's) compliance with a condition imposed by the chief executive under section 132A(1)⁠(a), 133(4), or 134A(1).
+(3) The date or event specified in the notice under subsection (2) may, but need not, be the date of the event that is or, as the case may be, the event that is, the user's (or, as the case requires, the nominated representative's) compliance with a condition imposed by the chief executive under section 132A(1)﻿(a), 133(4), or 134A(1).
 (4) An entity dissatisfied with a decision of the chief executive under this section to cancel or suspend that entity's registration as a JBMS user may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
 
 ### 136 Customs must keep records of transmissions
@@ -2259,8 +2259,8 @@ A Customs officer or other person in charge of any craft employed in the service
   (b) safe access to any part of the craft; and
   (c) safe means of leaving the craft.
 (4) No charge shall be levied against the Customs for the carriage of a Customs officer who is stationed on board a craft or for his or her accommodation and board.
-(5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)⁠(d).
-(6) Despite subsection (5), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+(5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)﻿(d).
+(6) Despite subsection (5), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 140 Searching of craft
 (1) Any Customs officer may search—for the purpose of performing any function or exercising any power that the officer may be required, authorised, or empowered to perform or exercise under this Act.
@@ -2270,12 +2270,12 @@ A Customs officer or other person in charge of any craft employed in the service
   (d) a craft (not being a craft to which paragraph (a) or paragraph (b) or paragraph (c) applies) that is within New Zealand and that a Customs officer has reasonable cause to suspect—
     (i) is carrying any dutiable, uncustomed, prohibited, or forfeited goods; or
     (ii) has been, is being, or is about to be, involved in the commission of an offence against this Act—
-(2) In the exercise of the power conferred by subsection (1)⁠(a) to (c), any Customs officer may, using such force as in the circumstances is reasonable, enter every part of the craft and open any package, locker, or other place, and may examine all goods found on the craft.
-(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)⁠(d).
-(4) Despite subsection (3), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+(2) In the exercise of the power conferred by subsection (1)﻿(a) to (c), any Customs officer may, using such force as in the circumstances is reasonable, enter every part of the craft and open any package, locker, or other place, and may examine all goods found on the craft.
+(3) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the power conferred by subsection (1)﻿(d).
+(4) Despite subsection (3), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 141 Securing goods on craft
-For the purpose of performing any function or exercising any power that the Customs is required, authorised, or empowered to perform or exercise under this Act, a Customs officer may at any time while boarding or searching any craft under section 139(1)⁠(a) to (c) or 140(1)⁠(a) to (c),—
+For the purpose of performing any function or exercising any power that the Customs is required, authorised, or empowered to perform or exercise under this Act, a Customs officer may at any time while boarding or searching any craft under section 139(1)﻿(a) to (c) or 140(1)﻿(a) to (c),—
   (a) secure, by appropriate means, goods on board that craft; or
   (b) remove goods on board that craft to a secure place.
 
@@ -2313,7 +2313,7 @@ The officer commanding or in charge of any craft in Her Majesty's service having
   (b) may detain the vehicle for such period as may be reasonably necessary for that purpose and for exercising powers under section 151 in relation to any goods of that kind.
 (5) Powers given by any other subsection of this section apply even if the vehicle need not be stopped because it is not moving, and whether or not it is attended, and include the power to use reasonable force, if necessary, to stop, detain, enter in or on, and search the vehicle (or for any of those purposes) as authorised by that other subsection.
 (6) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3) apply in respect of a search undertaken under this section.
-(7) Despite subsection (5), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+(7) Despite subsection (5), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 145 Questioning persons about goods and debt
 (1) This section applies to—
@@ -2338,8 +2338,8 @@ The officer commanding or in charge of any craft in Her Majesty's service having
     (ii) has not, or is suspected of having not, reported to a Customs officer or a Police station on his or her arrival, contrary to section 27:
   (b) a person who is, or is suspected of, attempting to depart from New Zealand from a place other than from a Customs place, contrary to section 30.
 (2) This section and sections 147A and 148A do not apply,—
-  (a) in the case of a person referred to in subsection (1)⁠(a), to a person whose actions are authorised by another section of this Act; and
-  (b) in the case of a person referred to in subsection (1)⁠(b), to a person who is complying with an exemption prescribed by regulations made under this Act or whose actions are authorised by the Customs.
+  (a) in the case of a person referred to in subsection (1)﻿(a), to a person whose actions are authorised by another section of this Act; and
+  (b) in the case of a person referred to in subsection (1)﻿(b), to a person who is complying with an exemption prescribed by regulations made under this Act or whose actions are authorised by the Customs.
 (3) A Customs officer may question a person to whom this section applies as to any 1 or more of the following matters:
   (a) the person's identity:
   (b) the person's residential address:
@@ -2352,26 +2352,26 @@ The officer commanding or in charge of any craft in Her Majesty's service having
   (g) any other person who is, or was, involved in the person's arrival, suspected arrival, departure, attempted departure, or suspected departure, whether or not the other person was on the craft—
     (i) from which the person disembarked or is suspected of disembarking; or
     (ii) on which the person attempted to depart, or is suspected of attempting to depart, from New Zealand.
-(4) A question under subsection (3)⁠(f) may, but need not, relate to the craft's voyage and any persons or goods carried by the craft.
-(5) Section 185(3) does not apply in respect of a question asked under this section (and so it is a reasonable excuse for the purposes of section 185(1)⁠(a) if a person fails or refuses to answer the question on the basis that the person's answer would incriminate or tend to incriminate the person).
+(4) A question under subsection (3)﻿(f) may, but need not, relate to the craft's voyage and any persons or goods carried by the craft.
+(5) Section 185(3) does not apply in respect of a question asked under this section (and so it is a reasonable excuse for the purposes of section 185(1)﻿(a) if a person fails or refuses to answer the question on the basis that the person's answer would incriminate or tend to incriminate the person).
 
 ### 146 Questioning employees of airlines, shipping companies, owners or operators of certain vehicles, etc
 (1) A Customs officer may question any or all of the following about any international cargo or domestic cargo:
   (a) a person who, as an employee of an airline or shipping company, manages or carries out the receipt, handling, custody, or dispatch of international cargo or domestic cargo by that airline or shipping company:
   (b) a person employed by the licensee of a Customs controlled area licensed for—
-    (i) the temporary holding of imported goods for the purposes of the examination of those goods under section 151(including the holding of the goods while they are awaiting examination); or
+    (i) the temporary holding of imported goods for the purposes of the examination of those goods under section 151 (including the holding of the goods while they are awaiting examination); or
     (ii) the processing of craft arriving in or departing from New Zealand or the loading or unloading of goods onto or from such craft:
-  (c) a person (not being a person described in paragraph (a) or (b)) who is in a Customs controlled area licensed for a purpose described in paragraph (b)⁠(i) or (ii).
+  (c) a person (not being a person described in paragraph (a) or (b)) who is in a Customs controlled area licensed for a purpose described in paragraph (b)﻿(i) or (ii).
 (2) A Customs officer may question any or all of the following about any cargo destined to be exported from New Zealand:
   (a) a person who is the owner or operator of a vehicle that a Customs officer has reasonable cause to suspect has in or on it, or has within the previous 72 hours had in or on it, goods subject to the control of the Customs and in a Customs-approved secure package or in a package in relation to which a Customs seal has been used:
   (b) a person who is the owner or occupier of premises that a Customs officer has reasonable cause to suspect have in or on them, or have within the previous 72 hours had in or on them, goods subject to the control of the Customs and in a Customs-approved secure package or in a package in relation to which a Customs seal has been used:
   (c) a person employed by a person described in paragraph (a) or paragraph (b).
 (3) A question under subsection (2) about cargo destined to be exported from New Zealand may relate to any or all of the following:
-  (a) whether, and if so how, goods that are or were some or all of the cargo are or were packed in a package in relation to which a Customs seal was used or in a Customs-approved secure package in relation to which a seal, marking, substance, or device of the kind referred to in section 53E(1)⁠(b) was used:
+  (a) whether, and if so how, goods that are or were some or all of the cargo are or were packed in a package in relation to which a Customs seal was used or in a Customs-approved secure package in relation to which a seal, marking, substance, or device of the kind referred to in section 53E(1)﻿(b) was used:
   (b) the transportation or storage of packages of the kind referred to in paragraph (a) at any time before they are or were exported:
   (c) tampering or interference with a package of the kind referred to in paragraph (a) or with a seal, marking, substance, or device of the kind referred to in that paragraph.
 (4) Subsection (3) does not limit subsection (2).
-(5) Section 185(3) does not apply in respect of a question asked under this section (and so it is a reasonable excuse for the purposes of section 185(1)⁠(a) if a person fails or refuses to answer the question on the basis that the person's answer would incriminate or tend to incriminate the person).
+(5) Section 185(3) does not apply in respect of a question asked under this section (and so it is a reasonable excuse for the purposes of section 185(1)﻿(a) if a person fails or refuses to answer the question on the basis that the person's answer would incriminate or tend to incriminate the person).
 (6) Nothing in this section limits sections 145 and 145A.
 
 ### 147 Evidence of identity and entitlement to travel
@@ -2384,7 +2384,7 @@ The officer commanding or in charge of any craft in Her Majesty's service having
   (b) if required, produce for inspection such prescribed document as the officer may specify; or
   (c) if the person is unable to produce the prescribed document specified, complete a declaration in the prescribed form.
 (3) A demand under paragraph (b) or (c) of subsection (2) may be made of a person only for the purpose of enabling the Customs officer to establish that person's identity or that person's travel movements or that person's entitlement to air or sea travel for a domestic sector, or all of those.
-(4) A document produced by a person to a Customs officer under subsection (2)⁠(b) shall be either—
+(4) A document produced by a person to a Customs officer under subsection (2)﻿(b) shall be either—
   (a) inspected immediately and returned to the person as soon as the inspection has concluded; or
   (b) retained by the Customs officer for as long as is necessary to ascertain whether or not the chief executive wishes to exercise his or her power under section 164 to retain the document.
 (5) This section is subject to section 175B.
@@ -2436,7 +2436,7 @@ The officer commanding or in charge of any craft in Her Majesty's service having
   - **further reasonable period** means a period no longer than is necessary in the circumstances for a Customs officer to do what is specified in subsection (1).
 
 ### 148B Detention of persons committing or about to commit certain offences
-(1) A Customs officer and, in the case of paragraph (b), a constable may detain a person who, the Customs officer or, if applicable, the constable believes on reasonable grounds is committing, or is about to commit, an offence under section 180 or 191(1)⁠(e) by,—
+(1) A Customs officer and, in the case of paragraph (b), a constable may detain a person who, the Customs officer or, if applicable, the constable believes on reasonable grounds is committing, or is about to commit, an offence under section 180 or 191(1)﻿(e) by,—
   (a) if a craft has arrived at a nominated Customs place or a Customs controlled area within that place under section 24, leaving or boarding the craft without the authority of a Customs officer before an inward report is made under section 26 (in contravention of section 24(2)); or
   (b) if the person has arrived in New Zealand, not reporting forthwith to a Customs officer or a Police station (in contravention of section 27(1)); or
   (c) if the person has arrived in New Zealand and reported to a Customs officer or a Police station under section 27(1), leaving the Customs officer or Police station to which he or she reported, despite a Customs officer or, if applicable, a constable requiring the person to remain for a reasonable time in order that the Customs officer or, if applicable, the constable might exercise a power under this Act in relation to that person (in contravention of section 27(2)); or
@@ -2497,7 +2497,7 @@ Sections 149A, 149B(1), and 149BA apply to—
 (2) A preliminary search is a search that—
   (a) involves little or no physical contact between the person conducting the search and the person being searched; and
   (b) is conducted by using an aid or aids such as a Customs dog, or a chemical substance, or x-ray or imaging equipment, or some other mechanical, electrical, or electronic device, or other similar aid, but not by any more invasive means.
-(3) If, after a preliminary search under subsection (1), a Customs officer or constable has reasonable cause to suspect that a person has hidden on or about his or her person any thing described in section 149B(1)⁠(a), (b), or (c), sections 149B to 149C apply.
+(3) If, after a preliminary search under subsection (1), a Customs officer or constable has reasonable cause to suspect that a person has hidden on or about his or her person any thing described in section 149B(1)﻿(a), (b), or (c), sections 149B to 149C apply.
 
 ### 149B Searching of persons if reasonable cause to suspect items hidden
 (1) A Customs officer or a constable may cause to be detained and searched a person to whom this subsection applies if the officer or constable has reasonable cause to suspect that the person has hidden on or about his or her person—
@@ -2508,17 +2508,17 @@ Sections 149A, 149B(1), and 149BA apply to—
   (a) either—
     (i) has, within the preceding 24 hours, arrived in New Zealand at a place other than a Customs place; or
     (ii) is about to depart from New Zealand from any place other than a Customs place; and
-  (b) has hidden on or about his or her person any thing described in subsection (1)⁠(a), (b), or (c).
+  (b) has hidden on or about his or her person any thing described in subsection (1)﻿(a), (b), or (c).
 (3) A Customs officer or constable may also cause a person to be detained and searched if the officer or constable has reasonable cause to believe that the person—
   (a) is not a person described in subsection (2) or section 149; and
   (b) is in a Customs place; and
-  (c) has hidden on or about his or her person any thing described in subsection (1)⁠(a), (b), or (c).
+  (c) has hidden on or about his or her person any thing described in subsection (1)﻿(a), (b), or (c).
 (4)
 (5)
 (6)
 (7) A search of a person may be conducted under this section whether or not that person has earlier been the subject of a preliminary search under section 149A.
 (8) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
-(9) Despite subsection (8), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+(9) Despite subsection (8), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 149BA Searching of persons for dangerous items
 (1) A Customs officer or constable may immediately detain and search a person to whom this section applies if, and only if, the Customs officer or constable has reasonable grounds to suspect that—
@@ -2530,17 +2530,17 @@ Sections 149A, 149B(1), and 149BA apply to—
 (3)
 (4) To avoid doubt, a search may be conducted under this section whether or not the person has earlier been the subject of a search under section 149A or section 149B(1).
 (5) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
-(6) Despite subsection (5), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+(6) Despite subsection (5), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 149C Seizure of items found
 (1) A Customs officer or constable may seize any thing found on or about a person when carrying out a search under section 149B(1), (2), or (3) that the Customs officer or constable has reasonable cause to suspect is—
-  (a) a thing described in section 149B(1)⁠(a), (b), or (c); or
+  (a) a thing described in section 149B(1)﻿(a), (b), or (c); or
   (b) a dangerous item.
 (1A) A Customs officer or constable may seize any thing found on or about a person when carrying out a search under section 149BA that the Customs officer or constable has reasonable cause to suspect is—
   (a) a dangerous item; or
-  (b) a thing described in section 149B(1)⁠(a), (b), or (c).
+  (b) a thing described in section 149B(1)﻿(a), (b), or (c).
 (2) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
-(3) Despite subsection (2), sections 125(4), 131(5)⁠(f), and 133, and subpart 6 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+(3) Despite subsection (2), sections 125(4), 131(5)﻿(f), and 133, and subpart 6 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 
 ### 149D Rights of persons detained under section 149B
 [Repealed]
@@ -2569,7 +2569,7 @@ Subject to section 173, the Customs may, at any time of the day or night, enter 
 (2) The chief executive may require a person who has, or who the chief executive believes has, possession or control of the goods to produce them for inspection by a Customs officer.
 (3) A Customs officer may exercise in respect of the goods all the powers given by section 151.
 (3A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the powers conferred by this section.
-(3B) Despite subsection (3A), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+(3B) Despite subsection (3A), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 (4) A Customs officer may take and retain possession of goods produced under subsection (2) for the purposes of exercising the powers given by subsection (3), and may retain possession of the goods until the completion of the investigation into the grounds for suspecting that the goods—
   (a) are goods in respect of which an offence against this Act has been committed; or
   (b) are goods that are forfeited to the Crown under section 225.
@@ -2694,7 +2694,7 @@ A Customs officer may, without warrant, seize and detain goods if—
   (a) of (or of a dependant of) an individual from whom the cash has been seized; and
   (b) arising on, or within 7 days after, the date on which detention would otherwise be effected.
 (2) Nothing in subsection (1) requires the Customs to return any cash that the Customs is satisfied is not necessary for the purpose specified in that subsection.
-(3) If the 7-day period referred to in section 166D(1)⁠(a) is extended under section 166E, subsection (1) of this section applies to the extension, and the reference in subsection (1)⁠(b) of this section to 7 days must be read as a reference to the number of days (not exceeding 21) of that 7-day period as extended.
+(3) If the 7-day period referred to in section 166D(1)﻿(a) is extended under section 166E, subsection (1) of this section applies to the extension, and the reference in subsection (1)﻿(b) of this section to 7 days must be read as a reference to the number of days (not exceeding 21) of that 7-day period as extended.
 
 ### 166C Further provisions about detention under section 166A
 (1) Reasonable force may be used if it is necessary for any of the following purposes:
@@ -2723,8 +2723,8 @@ A Customs officer may, without warrant, seize and detain goods if—
     (i) section 54 (relating to a request to enforce a foreign restraining order); and
     (ii) section 60 (relating to an interim foreign restraining order).
 
-### 166E Extension of 7-day period in section 166D(1)⁠(a)
-(1) The 7-day period in section 166D(1)⁠(a) may be extended (once only) by order of the High Court for a reasonable period up to a further 14 days if, on an application for the purpose made before the expiry of that 7-day period, that court is satisfied—
+### 166E Extension of 7-day period in section 166D(1)﻿(a)
+(1) The 7-day period in section 166D(1)﻿(a) may be extended (once only) by order of the High Court for a reasonable period up to a further 14 days if, on an application for the purpose made before the expiry of that 7-day period, that court is satisfied—
   (a) that the good cause to suspect required by section 166A(c) exists; and
   (b) that the extension to be granted is necessary to enable investigations in or outside New Zealand in relation to the goods to be completed.
 (2) The application must be made in writing and served on the person from whom the goods were seized (if that person can be identified and located), and must include the following particulars:
@@ -2755,7 +2755,7 @@ A Customs officer may, without warrant, seize and detain goods if—
     (ii) unlawfully exporting or importing goods; or
   (c) any thing that is liable to seizure under this Act.
 (2) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
-(3) Despite subsection (2), sections 125(4), 131(5)⁠(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
+(3) Despite subsection (2), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4 of the Search and Surveillance Act 2012 do not apply to any goods forfeited to the Crown under section 225 of this Act.
 (4)
 
 ### 168 Entry and search under warrant
@@ -2834,13 +2834,13 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
     (i) section 130 of the Animal Products Act 1999:
     (ii) section 98C of the Crimes Act 1961:
     (iii) section 232 or 233 of the Fisheries Act 1996:
-    (iv) section 342(1)⁠(c) or 345(1) of the Immigration Act 2009:
+    (iv) section 342(1)﻿(c) or 345(1) of the Immigration Act 2009:
     (v) section 37 or 43 of the Medicines Act 1981:
     (vi) section 29A, 30, or 31 of the Passports Act 1992.
 (2) A Customs officer who detains goods or documents under subsection (1) must, as soon as practicable, deliver those goods or documents into the custody of the appropriate person specified in subsection (4).
 (3) Once goods or documents have been delivered to a person under subsection (2), responsibility for those goods or documents passes to that person.
 (4) The appropriate person referred to in subsection (2) is—
-  (a) if the Customs officer believes that subsection (1)⁠(b)⁠(ii), (iv), or (vi) applies to the goods or documents, a constable; and
+  (a) if the Customs officer believes that subsection (1)﻿(b)﻿(ii), (iv), or (vi) applies to the goods or documents, a constable; and
   (b) if the Customs officer believes that another provision of subsection (1) applies to the goods or documents, an appropriately authorised officer who holds office under the Act specified in that provision or is employed by the department of State that administers the Act.
 (5) Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3) applies with any necessary modifications.
 
@@ -2853,11 +2853,11 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
   (b) retain the goods or documents pending further investigation:
   (c) treat the goods or documents as forfeited within the meaning of this Act.
 (3) The appropriate person referred to in subsection (2) is,—
-  (a) if the Customs officer believes that subsection (1)⁠(a) applies, a constable; or
-  (b) if the Customs officer believes that subsection (1)⁠(b) applies, an Inspector of Publications within the meaning of the Films, Videos, and Publications Classification Act 1993.
-(4) Once goods or documents have been delivered to a person under subsection (2)⁠(a), responsibility for those goods or documents passes to that person.
+  (a) if the Customs officer believes that subsection (1)﻿(a) applies, a constable; or
+  (b) if the Customs officer believes that subsection (1)﻿(b) applies, an Inspector of Publications within the meaning of the Films, Videos, and Publications Classification Act 1993.
+(4) Once goods or documents have been delivered to a person under subsection (2)﻿(a), responsibility for those goods or documents passes to that person.
 (5) The provisions of subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
-(6) Despite subsection (5), sections 125(4), 131(5)⁠(f), and 133, and subpart 6 of Part 4 of the Search and Surveillance Act 2012 do not apply to any forfeited goods (within the meaning of this Act).
+(6) Despite subsection (5), sections 125(4), 131(5)﻿(f), and 133, and subpart 6 of Part 4 of the Search and Surveillance Act 2012 do not apply to any forfeited goods (within the meaning of this Act).
 
 ## Part 13 — Offences and penalties
 
@@ -2941,13 +2941,13 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
   (a) without reasonable excuse, fails or refuses to answer it; or
   (b) gives an incorrect answer.
 (2) It is a defence to a prosecution for an offence against this section if the person proves that he or she did not, when required to answer the question, have the information required to answer the question in his or her knowledge, possession, or control, or honestly and reasonably believed that the answer he or she gave was, in all the circumstances, correct at that time.
-(3) It is not a reasonable excuse for the purposes of subsection (1)⁠(a) if a person fails or refuses to answer a question on the ground that to answer the question would or might incriminate or tend to incriminate that person.
+(3) It is not a reasonable excuse for the purposes of subsection (1)﻿(a) if a person fails or refuses to answer a question on the ground that to answer the question would or might incriminate or tend to incriminate that person.
 (4) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $1,000; and
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
 
 ### 186 Failure to produce evidence of identity, entitlement to travel, or other matters
-(1) Every person commits an offence who fails without reasonable excuse to comply with a demand made under section 147or section 147A.
+(1) Every person commits an offence who fails without reasonable excuse to comply with a demand made under section 147 or section 147A.
 (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000.
 
 ### 187 Failure to produce or account for goods
@@ -2964,8 +2964,8 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
 
 ### 188A Failure or refusal to remain at place
 (1) A person commits an offence who—
-  (a) fails or refuses to remain at the place that is being searched under section 168(1)⁠(a) until the earlier of the events specified in section 168(3A)⁠(a) and (b); or
-  (b) fails or refuses to remain at the place where that person is being searched under section 168(3)⁠(b) until that search is completed.
+  (a) fails or refuses to remain at the place that is being searched under section 168(1)﻿(a) until the earlier of the events specified in section 168(3A)﻿(a) and (b); or
+  (b) fails or refuses to remain at the place where that person is being searched under section 168(3)﻿(b) until that search is completed.
 (2) Every person who commits an offence against this section is liable on conviction to a term of imprisonment not exceeding 3 months, or to a fine not exceeding $1,000, or both.
 
 **Offences in relation to Customs controlled areas**
@@ -2990,25 +2990,25 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
     (i) to give advance notice of any or all of the matters prescribed; or
     (ii) to give advance notice in the form and manner approved in writing by the chief executive; or
     (iii) to give advance notice within the time prescribed; or
-    (iiia) to ensure that information referred to in section 21(1)⁠(a) is accompanied by the supporting documents required under section 21(2)⁠(b); or
-    (iiib) to ensure that each supporting document that, as required under section 21(2)⁠(b), accompanies information referred to in section 21(1)⁠(a), is genuine, not erroneous in a material particular, and not misleading; or
+    (iiia) to ensure that information referred to in section 21(1)﻿(a) is accompanied by the supporting documents required under section 21(2)﻿(b); or
+    (iiib) to ensure that each supporting document that, as required under section 21(2)﻿(b), accompanies information referred to in section 21(1)﻿(a), is genuine, not erroneous in a material particular, and not misleading; or
     (iv) to proceed to a Customs place; or
     (v) to proceed as directed by a Customs officer:
   (b) being the person in charge of, or the owner of, or a member of the crew of, or a passenger on, any craft,—
-    (i) refuses to answer any question put to that person by a Customs officer under subsection (2)⁠(a) of section 22 (which relates to a requirement to answer questions) or knowingly gives a false answer to the question; or
-    (ii) fails to comply with any request made under subsection (2)⁠(b) of that section:
+    (i) refuses to answer any question put to that person by a Customs officer under subsection (2)﻿(a) of section 22 (which relates to a requirement to answer questions) or knowingly gives a false answer to the question; or
+    (ii) fails to comply with any request made under subsection (2)﻿(b) of that section:
   (c) being the master of a ship, fails to comply with any direction of a Customs officer under subsection (1) or subsection (4) of section 23 (which relates to the bringing to of a ship), or fails to comply with subsection (3) of that section:
   (d) being the person in charge of any craft, fails to comply with section 24(1) (which relates to the arrival of craft at a nominated Customs place only):
   (e) being a member of the crew of, or a passenger on, any craft, or being any other person (other than a Customs officer), acts in contravention of section 24(2):
   (f) being a person in charge of any craft, fails to comply with, or acts in contravention of, section 25(2) (which relates to craft arriving at a place other than a nominated Customs place):
   (g) being a member of the crew of, or a passenger on, any craft, acts in contravention of section 25(3) or (4):
   (h) being the person in charge of or the owner of any craft,—
-    (i) fails to comply with subsection (2)⁠(a) of section 26 (which relates to inward reports); or
-    (ii) fails to obey a Customs direction given under subsection (2)⁠(b) of that section.
+    (i) fails to comply with subsection (2)﻿(a) of section 26 (which relates to inward reports); or
+    (ii) fails to obey a Customs direction given under subsection (2)﻿(b) of that section.
 (2) Every person who commits an offence against paragraph (a), (c), or (d) of subsection (1) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $15,000:
   (b) in the case of a body corporate, to a fine not exceeding $75,000.
-(3) Every person who commits an offence against subsection (1)⁠(b) is liable on conviction,—
+(3) Every person who commits an offence against subsection (1)﻿(b) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $15,000.
 (4) Every person who commits an offence against paragraph (e), (f), (g), or (h) of subsection (1) is liable on conviction to a fine not exceeding $5,000.
@@ -3072,7 +3072,7 @@ Neither the Crown nor a Customs officer, constable, a member of the Armed Forces
 (1) A person who makes, or purports to make, a transhipment request, commits an offence if the person fails to comply with any 1 or more or all of the following requirements in section 48A:
   (a) to make the request to the chief executive before the prescribed deadline:
   (b) to ensure that the request contains such information relating to the cargo (being information that is genuine, not erroneous in a material particular, and not misleading) as may be prescribed:
-  (c) to ensure that each supporting document that, as required under section 48A(3)⁠(c), accompanies a transhipment request is genuine, not erroneous, and not misleading.
+  (c) to ensure that each supporting document that, as required under section 48A(3)﻿(c), accompanies a transhipment request is genuine, not erroneous, and not misleading.
 (2) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $15,000.
@@ -3120,14 +3120,14 @@ It is a defence to any prosecution for an offence against sections 191 to 194C i
 (2) Every person who commits an offence against paragraphs (a) to (d) of subsection (1) (other than an offence under paragraphs (b) to (d) involving goods that are tobacco) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of a body corporate, to a fine not exceeding $25,000.
-(2A) Every person who commits an offence against subsection (1)⁠(b), (c), or (d) involving goods that are tobacco is liable on conviction,—
+(2A) Every person who commits an offence against subsection (1)﻿(b), (c), or (d) involving goods that are tobacco is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $20,000, or to both; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (3) Every person who commits an offence against paragraph (e) of subsection (1) (other than an offence relating to goods that are tobacco) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $25,000; or
   (c) in either case, to a fine of an amount not exceeding 3 times the value of the goods to which the offence relates.
-(4) Every person who commits an offence against subsection (1)⁠(e) involving goods that are tobacco is liable on conviction,—
+(4) Every person who commits an offence against subsection (1)﻿(e) involving goods that are tobacco is liable on conviction,—
   (a) in the case of an individual, to a term of imprisonment not exceeding 6 months or to a fine not exceeding $20,000, or to both; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (5) To avoid doubt, in this section, tobacco means all tobacco (as defined in section 2(1)), whether manufactured or not manufactured.
@@ -3156,8 +3156,8 @@ It is a defence to any prosecution for an offence against sections 191 to 194C i
   (a) fails to make an entry required under this Act:
   (b) makes an entry required under this Act that is erroneous or defective in a material particular.
 (2) It is a defence to a prosecution for an offence against subsection (1) if the person proves—
-  (a) that, in the case of a prosecution for an offence against subsection (1)⁠(a), the person took all reasonable steps to ensure that an entry was made; or
-  (b) that, in the case of a prosecution for an offence against subsection (1)⁠(b), the person took all reasonable steps to ensure that the entry was not erroneous or defective.
+  (a) that, in the case of a prosecution for an offence against subsection (1)﻿(a), the person took all reasonable steps to ensure that an entry was made; or
+  (b) that, in the case of a prosecution for an offence against subsection (1)﻿(b), the person took all reasonable steps to ensure that the entry was not erroneous or defective.
 (3) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $1,000:
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
@@ -3174,7 +3174,7 @@ It is a defence to any prosecution for an offence against sections 191 to 194C i
   (c) produces or delivers to a Customs officer any document that is erroneous in any material particular.
 (2) It is a defence to a prosecution for an offence against subsection (1) if the person proves that the person took all reasonable steps to ensure—
   (a) that the declaration, statement, or document, as the case may be, was not erroneous; or
-  (b) in the case of a prosecution for an offence against subsection (1)⁠(b), that the document was genuine.
+  (b) in the case of a prosecution for an offence against subsection (1)﻿(b), that the document was genuine.
 (3) Every person who commits an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $1,000:
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
@@ -3194,10 +3194,10 @@ It is a defence to any prosecution for an offence against sections 191 to 194C i
 (2) The person commits an offence if the person—
   (a) knows, or ought reasonably to know, that the information has become erroneous or misleading in a material particular; and
   (b) fails to take all reasonable steps to supply to the chief executive, the Customs, or a Customs officer, as soon as is reasonably practicable, replacement information that is not erroneous, or misleading in a material particular.
-(3) Every person who commits an offence against subsection (2), and in doing so under subsection (2)⁠(a) ought reasonably to have known that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+(3) Every person who commits an offence against subsection (2), and in doing so under subsection (2)﻿(a) ought reasonably to have known that the information had become erroneous or misleading in a material particular, is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $1,000; or
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
-(4) Every person who commits an offence against subsection (2), and in doing so under subsection (2)⁠(a) knew that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+(4) Every person who commits an offence against subsection (2), and in doing so under subsection (2)﻿(a) knew that the information had become erroneous or misleading in a material particular, is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -3258,7 +3258,7 @@ For the purposes of this Act,—
   (a) imports into New Zealand or unships or lands in New Zealand goods the importation of which is prohibited by or under section 54; or
   (b) exports, or transports with intent to export, goods from New Zealand the exportation of which is prohibited by or under section 56; or
   (c) is knowingly concerned in any importation, exportation, transportation, shipment, unshipment, or landing of goods (other than objectionable publications) to which paragraph (a) or (b) applies; or
-  (ca) fails, in breach of section 56(2F), to inform the Secretary of Foreign Affairs and Trade that any goods or electronic publications he or she wishes to export are intended for or may have any of the uses described in an order made under section 56(2)⁠(c); or
+  (ca) fails, in breach of section 56(2F), to inform the Secretary of Foreign Affairs and Trade that any goods or electronic publications he or she wishes to export are intended for or may have any of the uses described in an order made under section 56(2)﻿(c); or
   (d) without lawful justification or excuse, removes from a Customs controlled area imported goods the importation of which is prohibited by or under section 54; or
   (e) is knowingly concerned or conspires, in the removal from a Customs controlled area of goods (other than objectionable publications) the importation of which is prohibited by or under section 54; or
   (f) commits a breach of, or fails to comply with, a term or condition on or subject to which a licence, permit, or consent has been granted, under an Order in Council made under section 54(2) or section 56(2); or
@@ -3277,7 +3277,7 @@ For the purposes of this Act,—
   (a) in the case of an individual to a fine not exceeding $5,000; or
   (b) in the case of a body corporate to a fine not exceeding $10,000.
 (4) It is not a defence in a prosecution for an offence referred to in subsection (3) that the defendant had no knowledge or no reasonable cause to believe that the goods in respect of which the offence was committed were prohibited imports or prohibited exports, as the case may be.
-(4A) However, it is a defence in a prosecution for an offence relating to an export of goods prohibited by or under section 56(1)⁠(c) if the defendant proves that, through no fault of the relevant exporter, the relevant exporter did not actually receive the Secretary's notice of the prohibition sent under section 56(2D).
+(4A) However, it is a defence in a prosecution for an offence relating to an export of goods prohibited by or under section 56(1)﻿(c) if the defendant proves that, through no fault of the relevant exporter, the relevant exporter did not actually receive the Secretary's notice of the prohibition sent under section 56(2D).
 (5) Every person who commits an offence against subsection (1A) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 10 years; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
@@ -3285,7 +3285,7 @@ For the purposes of this Act,—
   (a) is an offence to which section 132A of that Act (which specifies an aggravating factor to be taken into account in sentencing, etc, for certain publications offences) applies; and
   (b) is a specified publications offence for the purposes of section 132B of that Act (which specifies a presumption of imprisonment for repeat offenders) if—
     (i) it is committed before or after the commencement of section 132B of that Act; and
-    (ii) the publication that was the subject of the offence is objectionable (within the meaning of that Act) because it does (to any extent) any or all of the things specified in section 132A(2)⁠(a) to (c) of that Act; and
+    (ii) the publication that was the subject of the offence is objectionable (within the meaning of that Act) because it does (to any extent) any or all of the things specified in section 132A(2)﻿(a) to (c) of that Act; and
   (c) is a relevant offence as defined in section 145A(1) of that Act (which relates to extraterritorial jurisdiction).
 
 ### 209A Publications imported or exported in course of official duties
@@ -3300,7 +3300,7 @@ For the purposes of this Act,—
 ### 210 Offences in relation to exportation of goods
 (1) Every person commits an offence who—
   (a) acts in contravention of subsection (1), (5), or (6) of section 49 (which relates to entries required):
-  (b) fails to comply with a request made under section 49(2)⁠(b):
+  (b) fails to comply with a request made under section 49(2)﻿(b):
   (c) fails, or is knowingly concerned in any failure, to comply with section 51 (which requires goods for export to be dealt with according to entry):
   (d) acts in contravention of section 52 (which relates to the requirement for goods for export not to be landed):
   (e) is knowingly concerned in a contravention of section 117(3) (which relates to drawbacks of duty on certain goods).
@@ -3314,10 +3314,10 @@ For the purposes of this Act,—
 (1) Every person commits an offence who, without lawful justification or reasonable excuse,—
   (a) uses a Customs seal in relation to a package of goods otherwise than in accordance with the relevant notice of appointment under section 53A; or
   (b) alters, removes, damages, disposes of, or otherwise interferes with a Customs seal used in relation to a package of goods otherwise than in accordance with the relevant notice of appointment under section 53A; or
-  (c) uses an approved seal or markings of the kind referred to in section 53E(1)⁠(b) in relation to a Customs-approved secure package otherwise than in accordance with the relevant Customs-approved secure exports scheme.
+  (c) uses an approved seal or markings of the kind referred to in section 53E(1)﻿(b) in relation to a Customs-approved secure package otherwise than in accordance with the relevant Customs-approved secure exports scheme.
 (2) This subsection applies to a package if the package is—
   (a) a package in relation to which a Customs seal has been lawfully used; or
-  (b) a Customs-approved secure package in relation to which a seal or marking of the kind referred to in section 53E(1)⁠(b) has been lawfully used.
+  (b) a Customs-approved secure package in relation to which a seal or marking of the kind referred to in section 53E(1)﻿(b) has been lawfully used.
 (3) Every person commits an offence who, without lawful justification or reasonable excuse, tampers or interferes with a package to which subsection (2) applies by adding other goods to the goods in it when it was secured.
 (4) Every person who commits an offence against this section is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $5,000:
@@ -3388,8 +3388,8 @@ For the purposes of this Act,—
   (c) fails to produce any paper, document, record, or thing.
 (4) No person summoned to attend proceedings before an Authority shall be convicted of an offence against subsection (3) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed under section 265(2).
 (5) Every person commits an offence who—
-  (a) wilfully obstructs or hinders an Authority or any person authorised by an Authority in any inspection or examination of papers, documents, records, or things pursuant to section 261(1)⁠(a); or
-  (b) without sufficient cause, fails to comply with any requirement of an Authority or any person authorised by an Authority made under section 261(1)⁠(b); or
+  (a) wilfully obstructs or hinders an Authority or any person authorised by an Authority in any inspection or examination of papers, documents, records, or things pursuant to section 261(1)﻿(a); or
+  (b) without sufficient cause, fails to comply with any requirement of an Authority or any person authorised by an Authority made under section 261(1)﻿(b); or
   (c) without sufficient cause, acts in contravention of or fails to comply with any order made by an Authority under section 261(3) or any term or condition of the order.
 (6) Every person who commits an offence against subsection (3) or subsection (5) is liable on conviction to a fine not exceeding $1,000.
 
@@ -3421,7 +3421,7 @@ An attempt to commit an offence against this Act is an offence punishable in the
   (a) the chief executive; or
   (b) any Customs officer nominated by the chief executive; or
   (c) any person who is not a Customs officer but is an agent or employee of the Customs nominated by the chief executive.
-(2) Any Customs officer or agent or employee of the Customs purporting to act pursuant to a nomination of the chief executive under subsection (1)⁠(b) or (c) is, in the absence of proof to the contrary, presumed to have been so nominated.
+(2) Any Customs officer or agent or employee of the Customs purporting to act pursuant to a nomination of the chief executive under subsection (1)﻿(b) or (c) is, in the absence of proof to the contrary, presumed to have been so nominated.
 (3) Proceedings for an offence against section 216 of this Act must be commenced by the Registrar of a Customs Appeal Authority.
 (4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 5 years after the date on which the offence was committed.
 
@@ -3441,8 +3441,8 @@ An attempt to commit an offence against this Act is an offence punishable in the
   (b) a request that the offence be dealt with summarily by the chief executive; and
   (c) payment of an amount, not exceeding the limit specified in subsection (2B), that the chief executive thinks just in the circumstances of the case in full satisfaction of any fine or other penalty to which the person would otherwise be liable under this Act.
 (2A) For the purposes of subsection (2), the chief executive may indicate to the person at the time of the commission of the alleged offence or as soon as practicable after that whether the chief executive considers that the offence is an offence to which this section applies.
-(2B) The amount referred to in subsection (2)⁠(c) must not exceed one-third of the maximum total monetary penalty to which the person would be liable if the person were convicted of the offence by a court.
-(3) If the chief executive accepts payment of an amount under subsection (2)⁠(c), the offender is not liable to be prosecuted for the offence in respect of which the payment was made.
+(2B) The amount referred to in subsection (2)﻿(c) must not exceed one-third of the maximum total monetary penalty to which the person would be liable if the person were convicted of the offence by a court.
+(3) If the chief executive accepts payment of an amount under subsection (2)﻿(c), the offender is not liable to be prosecuted for the offence in respect of which the payment was made.
 (4) If the chief executive declines to exercise his or her power under subsection (2), the admission in writing made by the offender is not admissible as evidence in any prosecution for that offence.
 
 ## Part 14 — Forfeiture and seizure
@@ -3465,8 +3465,8 @@ This Part shall apply to all forfeitures that arise under this Act.
     (x) section 214 (which relates to possession or control of concealed goods):
   (b) goods dealt with in contravention of section 41, 43, 46, or 47:
   (c) dutiable or prohibited goods found in the possession of any person who, when questioned under section 145 or section 146, denied or failed to disclose the possession of those goods:
-  (d) dutiable or prohibited goods found in the course of a search under section 144 or seized under section 149C(1) or section 149C(1A)⁠(b):
-  (da) dangerous items seized under section 149C(1A)⁠(a)or section 149C(1)⁠(b):
+  (d) dutiable or prohibited goods found in the course of a search under section 144 or seized under section 149C(1) or section 149C(1A)﻿(b):
+  (da) dangerous items seized under section 149C(1A)﻿(a) or section 149C(1)﻿(b):
   (e) goods in respect of which an erroneous statement, declaration, certificate, or claim as to the country of which the goods are the produce or manufacture has been made or produced to any Customs officer:
   (f) dutiable or prohibited goods found on or in any craft, bulk cargo container, or pallet or a similar device that is unlawfully in any place:
   (g) dutiable or prohibited goods found on or in any craft, bulk cargo container, or pallet or a similar device after arrival in any Customs place from a point outside New Zealand, not being goods specified or referred to in the inward report or baggage belonging to the crew or passengers, and not being accounted for to the satisfaction of a Customs officer:
@@ -3479,12 +3479,12 @@ This Part shall apply to all forfeitures that arise under this Act.
   (m) all goods unlawfully exported or in respect of which an attempt to so export has been made:
   (n) all goods that have been unlawfully imported into New Zealand:
   (o) any goods, equipment, or apparatus used or intended for use in contravention of section 68 and any goods manufactured wholly or partly using such goods, equipment, or apparatus.
-(2) Notwithstanding section 53, for the purposes of subsection (1)⁠(m), goods the exportation of which is prohibited under this Act are deemed to have been exported as soon as they are placed in or on any craft for exportation.
+(2) Notwithstanding section 53, for the purposes of subsection (1)﻿(m), goods the exportation of which is prohibited under this Act are deemed to have been exported as soon as they are placed in or on any craft for exportation.
 (3) The forfeiture of goods extends to the forfeiture of the case, covering, or other enclosure, not being a bulk cargo container, pallet or a similar device, in or on which the goods are contained at the time of seizure, importation, or exportation.
 (4) Notwithstanding subsection (3), forfeiture of goods extends to the forfeiture of a bulk cargo container, pallet or a similar device where that bulk cargo container, pallet, or other similar device has been adapted for the purpose of concealing goods.
 (5) Every craft, vehicle, or any other thing, including any machinery or equipment on or in the craft or vehicle or thing, or any animal that is being or has been used for the carriage, handling, deposit, or concealment of any goods referred to in subsection (1), whether at or after the time of any alleged offence in relation to those goods, is also forfeited to the Crown.
 (6) Without limiting subsection (5), a craft is also forfeited to the Crown if—
-  (a) the craft is one in respect of which an offence under section 191(1)⁠(a) or (d) is committed; and
+  (a) the craft is one in respect of which an offence under section 191(1)﻿(a) or (d) is committed; and
   (b) that offence was committed to facilitate non-compliance with a requirement in any of sections 27 to 29 by a person or persons who arrived in New Zealand having been brought (in that craft or in any other craft) from a point outside New Zealand.
 
 ### 226 Procedure for seizure
@@ -3576,7 +3576,7 @@ The matters the chief executive may take into account when deciding whether or n
 [Repealed]
 
 ### 235 Determinations where relief granted
-(1) If the chief executive decides, under section 233(1)⁠(c), to grant relief, the chief executive may do so by making any of the following determinations:
+(1) If the chief executive decides, under section 233(1)﻿(c), to grant relief, the chief executive may do so by making any of the following determinations:
   (a) that the goods be given to the applicant or to another person who, but for the seizure, is entitled to their possession:
   (b) that the goods be sold and that 1 or more of the following persons be paid the part or parts of the proceeds that the chief executive specifies:
     (i) the applicant:
@@ -3608,8 +3608,8 @@ The matters the chief executive may take into account when deciding whether or n
 The goods that are the subject of an appeal under section 235B are condemned to the Crown if—
   (a) the appeal is discontinued; or
   (b) the decision of the Customs Appeal Authority on the appeal neither—
-    (i) disallows the seizure of the goods under section 233(1)⁠(b) (as applied by section 255(1)); nor
-    (ii) grants relief under section 233(1)⁠(c) (as applied by section 255(1)).
+    (i) disallows the seizure of the goods under section 233(1)﻿(b) (as applied by section 255(1)); nor
+    (ii) grants relief under section 233(1)﻿(c) (as applied by section 255(1)).
 
 **General provisions as to forfeiture**
 
@@ -3718,7 +3718,7 @@ Where under this Act a person is entitled to appeal to a Customs Appeal Authorit
 (1) Subject to section 258, as soon as an Authority considers that an appeal is ready to be heard, the Authority shall fix a date, time, and place for the hearing of the appeal and shall notify the appellant and the chief executive of the date, time, and place fixed.
 (2) A notice to the appellant under subsection (1)—
   (a) shall, in addition to the matters referred to in subsection (1), inform the appellant of the provisions of subsections (5) and (6); and
-  (b) shall be served on the appellant by personal service or by post in accordance with section 284(4)⁠(b).
+  (b) shall be served on the appellant by personal service or by post in accordance with section 284(4)﻿(b).
 (3) At the hearing of an appeal before an Authority the appellant and the chief executive may call evidence and shall be given an opportunity to be heard either in person or by a person authorised by the appellant or the chief executive, as the case may be, in that behalf whether or not that person is a barrister or solicitor of the High Court.
 (4) If the appellant or the chief executive, or both, fail to appear before an Authority at the time and place appointed, the Authority may nevertheless, upon proof of service of the notice of the hearing, proceed to determine the appeal.
 (5) Subject to subsection (6), the hearing of an appeal before an Authority shall be in public.
@@ -3754,9 +3754,9 @@ For the purposes of dealing with the matters before it, an Authority may of its 
   (a) by delivering it to the person summoned; or
   (b) by posting it by registered letter addressed to the person summoned at that person's usual place of residence or business.
 (2) The summons shall—
-  (a) where it is served under subsection (1)⁠(a), be served at least 24 hours before the attendance of the witness is required:
-  (b) where it is served under subsection (1)⁠(b), be served at least 10 days before the date on which the attendance of the witness is required.
-(3) If the summons is posted by registered letter it shall be deemed for the purposes of subsection (2)⁠(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
+  (a) where it is served under subsection (1)﻿(a), be served at least 24 hours before the attendance of the witness is required:
+  (b) where it is served under subsection (1)﻿(b), be served at least 10 days before the date on which the attendance of the witness is required.
+(3) If the summons is posted by registered letter it shall be deemed for the purposes of subsection (2)﻿(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
 
 ### 264 Protection of persons appearing
 Every witness giving evidence, and every counsel or agent or other person appearing before the Authority, shall have the same privileges and immunities as witnesses and counsel in courts of law.
@@ -3771,7 +3771,7 @@ Every witness giving evidence, and every counsel or agent or other person appear
 (1) Where a party to the proceedings has requested the issue of a witness summons, that party—
   (a) shall be liable for payment of the witness's fees, allowances, and expenses; and
   (b) shall, on making application for the issue of a witness summons, deposit with the Authority such sums as the Authority thinks sufficient.
-(2) The amounts of a witness's fees, allowances, and expenses shall be paid out of the sum deposited under subsection (1)⁠(b).
+(2) The amounts of a witness's fees, allowances, and expenses shall be paid out of the sum deposited under subsection (1)﻿(b).
 (3) Where the Authority has of its own motion issued the witness summons, the Authority may direct that the amount of those fees, allowances, and travelling expenses shall be paid by the Crown.
 
 ### 267 Grounds of appeal and burden of proof
@@ -3819,7 +3819,7 @@ Any party who is dissatisfied with a decision of the High Court on any case on a
   (a) make a decision; or
   (b) exercise a power, or comply with an obligation; or
   (c) do anything else related to making a decision, exercising a power, or complying with an obligation.
-(2) An arrangement under subsection (1)⁠(a) may (without limitation) involve use of an automated electronic system to make a decision by analysing the information (if any) about a person that is held by the chief executive, or to which the chief executive has access, using criteria predetermined by the chief executive.
+(2) An arrangement under subsection (1)﻿(a) may (without limitation) involve use of an automated electronic system to make a decision by analysing the information (if any) about a person that is held by the chief executive, or to which the chief executive has access, using criteria predetermined by the chief executive.
 (3) The chief executive must not under subsection (1) arrange for use of an automated electronic system in relation to a decision, power, obligation, or related action unless satisfied that—
   (a) the system has the capacity with reasonable reliability to make the decision, exercise the power, comply with the obligation, or take the related action; and
   (b) there are also available for the person affected 1 or more alternative ways of making the decision, exercising the power, complying with the obligation, or taking the related action, and each of those alternative ways involves a person.
@@ -3832,7 +3832,7 @@ Any party who is dissatisfied with a decision of the High Court on any case on a
   (a) Part 3 (arrival and departure of goods, persons, and craft):
   (b) Part 12 (powers of Customs officers):
   (c) Parts 13 to 15 and 17 (offences, forfeiture and seizure, evidence, and miscellaneous provisions):
-  (d) any other provisions of this Act (other than Part 3A) that are declared by regulations under section 286(1)⁠(ii) to be for those purposes part of the designated border processing law.
+  (d) any other provisions of this Act (other than Part 3A) that are declared by regulations under section 286(1)﻿(ii) to be for those purposes part of the designated border processing law.
 
 ### 274B Publication of details of arrangements for use of automated electronic systems
 (1) The chief executive must ensure that details of arrangements under section 274A(1), and variations, revocations, or revocations and replacements of details of that kind, are published promptly—
@@ -3890,7 +3890,7 @@ The Customs may, for the purposes of monitoring the movement of craft and person
 ### 280 Supply of arrival and departure information for benefit and benefit debt recovery purposes
 (1) In this section, unless the context otherwise requires, the term benefit has the same meaning as in section 3(1) of the Social Security Act 1964; and includes—
   (a) a lump sum payable under section 61DA or section 61DC or section 61DD of that Act:
-  (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)⁠(d) or (da) of that Act:
+  (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)﻿(d) or (da) of that Act:
   (c) an allowance established by regulations made under section 303 of the Education Act 1989.
 (2) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the time being responsible for the administration of the Social Security Act 1964 for all or any of the following purposes:
   (a) to verify the entitlement or eligibility of any person to or for any benefit:
@@ -3898,8 +3898,8 @@ The Customs may, for the purposes of monitoring the movement of craft and person
   (c) to enable the recovery of any debt due to the Crown in respect of any benefit.
 (3) For the purposes of this section, the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 may from time to time, in accordance with arrangements made from time to time between that chief executive and the chief executive of the Customs, request the supply, in respect of persons who depart from New Zealand or persons who arrive in New Zealand from another country, or both, of the information specified in subsection (5).
 (4) Nothing in subsection (3) applies in respect of persons who are exempted by regulations or a special direction made under the Immigration Act 2009 from, as the case may require, the requirement to—
-  (a) apply for a visa or entry permission in the prescribed manner under section 103(1)⁠(b), (c), and (d) of that Act; or
-  (b) complete documentation on departure from New Zealand under section 119(1)⁠(c) of that Act.
+  (a) apply for a visa or entry permission in the prescribed manner under section 103(1)﻿(b), (c), and (d) of that Act; or
+  (b) complete documentation on departure from New Zealand under section 119(1)﻿(c) of that Act.
 (5) The information referred to in subsection (3) is as follows:
   (a) the person's full name:
   (b) the person's date of birth:
@@ -3920,12 +3920,12 @@ In section 280B, unless the context otherwise requires,—
   - **social security agreement** means an agreement or convention, or alteration to an agreement or convention, in respect of which an Order in Council has been made under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
 
 ### 280B Disclosure of arrival and departure information for purposes of mutual assistance provision contained in social security agreement
-(1) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision of the kind referred to in section 19A(2)⁠(b) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, to enable compliance with that agreement.
+(1) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision of the kind referred to in section 19A(2)﻿(b) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, to enable compliance with that agreement.
 (2) For the purpose of this section, the chief executive of the department may supply to the chief executive of Customs—
   (a) any identifying information supplied to the department by the Government of that country; and
   (b) any identifying information obtained by the department about a person who has applied for a benefit to which that social security agreement applies.
 (3) If, in relation to any person, identifying information is supplied in accordance with subsection (2), the chief executive of the Customs may compare that information with any arrival and departure information held by the Customs that relates to that person.
-(4) If the Customs has arrival or departure information relating to a person, the chief executive of the Customs may, for the purpose of this section, supply to an authorised officer any of the following information held by the Customs if that information is of a type specified in an agreement made under section 19C(1)⁠(d) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990:
+(4) If the Customs has arrival or departure information relating to a person, the chief executive of the Customs may, for the purpose of this section, supply to an authorised officer any of the following information held by the Customs if that information is of a type specified in an agreement made under section 19C(1)﻿(d) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990:
   (a) the person's full name:
   (b) the person's date of birth:
   (c) the person's sex:
@@ -4146,7 +4146,7 @@ In sections 280K and 280L, unless the context otherwise requires,—
       (iii) information specified in section 282(1):
       (iv) border information (as defined in section 282D):
       (v) information collected or generated by the Customs in the course of preventing, detecting, or investigating border-related offences; but
-    (c) except as provided in paragraph (b)⁠(i) and (iii) to (iv), does not include information which the Customs is not entitled to view under sections 38G to 38K
+    (c) except as provided in paragraph (b)﻿(i) and (iii) to (iv), does not include information which the Customs is not entitled to view under sections 38G to 38K
   - **terrorist act** has the same meaning as in section 5(1) of the Terrorism Suppression Act 2002.
 (7) This section is repealed on 1 April 2017.
 
@@ -4162,10 +4162,10 @@ In sections 280K and 280L, unless the context otherwise requires,—
 (2) The disclosure of information under subsection (1) must be—
   (a) in accordance with an agreement between the chief executive and the agency, body, or person concerned that complies with subsections (3) and (4); or
   (b) in accordance with subsection (8).
-(3) The chief executive must not enter into an agreement for the purpose of subsection (2)⁠(a) unless satisfied that it is justified to help prevent, identify, or respond to violations of New Zealand law or,—
+(3) The chief executive must not enter into an agreement for the purpose of subsection (2)﻿(a) unless satisfied that it is justified to help prevent, identify, or respond to violations of New Zealand law or,—
   (a) in the case of an agreement with an international agency or body, to help prevent, identify, or respond to actions of a kind whose prevention or identification, or responding to which, is among the functions of the agency or body:
   (b) in any other case, to help prevent, identify, or respond to violations of the law of the State concerned.
-(4) For the purposes of subsection (2)⁠(a), an agreement—
+(4) For the purposes of subsection (2)﻿(a), an agreement—
   (a) must be in writing; and
   (b) must state criteria for the disclosure of information under it; and
   (c) must state, in respect of information to be disclosed,—
@@ -4181,9 +4181,9 @@ In sections 280K and 280L, unless the context otherwise requires,—
   (a) must consult the Privacy Commissioner before entering into an agreement under this section, or varying such an agreement; and
   (b) if the Privacy Commissioner so requires, must undertake a review of the agreement under this section, and the arrangements for disclosure under it; and
   (c) as soon as practicable after conducting a review required to be undertaken under paragraph (b), must report the result to the Privacy Commissioner.
-(6) The Privacy Commissioner must not require the chief executive to undertake a review of an agreement under subsection (5)⁠(b) within 12 months of last doing so.
+(6) The Privacy Commissioner must not require the chief executive to undertake a review of an agreement under subsection (5)﻿(b) within 12 months of last doing so.
 (7) This section does not limit the general powers of the chief executive to enter into agreements not related to the disclosure of information with any overseas agency, body, or person.
-(8) The chief executive may disclose information to an overseas agency, body, or person without a written agreement specified in subsection (2)⁠(a) if—
+(8) The chief executive may disclose information to an overseas agency, body, or person without a written agreement specified in subsection (2)﻿(a) if—
   (a) the functions of the agency, body, or person include the prevention, detection, investigation, prosecution, or punishment of customs offences of any kind or of other offences punishable by imprisonment; and
   (b) the information is disclosed subject to conditions stating—
     (i) the use that the agency, body, or person may make of it; and
@@ -4235,7 +4235,7 @@ In sections 280K and 280L, unless the context otherwise requires,—
   (b) the processing of international passengers at the border by public authorities; or
   (c) border security; or
   (d) the protection of the health and safety of members of the public.
-(5) Nothing in this section limits section 38L(3)⁠(a) or section 38O.
+(5) Nothing in this section limits section 38L(3)﻿(a) or section 38O.
 
 ### 282B Access by accessing agency to border information
 (1) The purpose of this section is to facilitate the exchange of information between agencies at the border to enable them to co-ordinate their border protection functions.
@@ -4427,14 +4427,14 @@ Without limiting any other obligation imposed on the chief executive to give not
   (d) prescribing the content of the notice required to be given to the Customs by the person in charge of a craft under section 21, and prescribing the period of advance notice required to be given for the purposes of that section:
   (da) prescribing the deadline before which inward cargo reports must (under section 21A(2)) be given to the Customs under this Act:
   (db) prescribing the deadline before which outward cargo reports must (under section 37A(2)) be given to the Customs under this Act:
-  (e) prescribing the time within which inward reports must (under section 26(2)⁠(a)) be delivered under this Act:
+  (e) prescribing the time within which inward reports must (under section 26(2)﻿(a)) be delivered under this Act:
   (f) prescribing the persons or classes of persons who are exempted from the requirements of sections 28, 29, 30, and 32:
   (g) prescribing the craft or classes of craft that are exempt from the application of section 33 or section 37:
   (ga) prescribing the time within which advance notices of departure required by section 34 must be delivered to the Customs:
   (gb) prescribing, for the purposes of paragraph (e) of the definition of person concerned in the movement of goods, persons, or craft in section 38A, persons, or classes of persons, involved in the carriage, handling, or transportation of goods, or persons, or both, from New Zealand to a point outside New Zealand, or from a point outside New Zealand to New Zealand, for commercial purposes:
   (gc) prescribing the form and manner in which the Customs must be given access to information under section 38D or section 38E or both:
   (h) prescribing the time within which goods to which section 39(1) applies must be entered:
-  (i) prescribing the time within which goods must be claimed for the purposes of section 39(4)⁠(b):
+  (i) prescribing the time within which goods must be claimed for the purposes of section 39(4)﻿(b):
   (j) prescribing the circumstances in which goods subject to the control of the Customs may be unloaded:
   (ja) prescribing the deadline before which transhipment requests must (under section 48A(2)) be made to the Customs under this Act:
   (k) prescribing the time within which goods to which section 49(1) applies must be entered:
@@ -4448,15 +4448,15 @@ Without limiting any other obligation imposed on the chief executive to give not
   (r) prescribing the nature or value of sample goods that may be delivered free of duty and the conditions subject to which sample goods may be delivered free of duty:
   (s) prescribing the conditions subject to which a person may be released from a security given for the payment of duty on goods temporarily imported:
   (t) prescribing the conditions subject to which drawbacks of duty may be allowed, and the amounts of drawback that may be allowed:
-  (u) prescribing the times within which Customs rulings must be made by the chief executive, which time shall, in the case of a ruling described in section 119(1)⁠(c), not exceed 150 days after the requirements specified in section 120(2) have been met:
+  (u) prescribing the times within which Customs rulings must be made by the chief executive, which time shall, in the case of a ruling described in section 119(1)﻿(c), not exceed 150 days after the requirements specified in section 120(2) have been met:
   (v) providing for the manner of taking, use, and disposal of samples of goods taken by Customs officers for the purpose of section 151:
   (w) prescribing the kinds of securities that may be taken under section 156:
   (x)
   (xa)
   (y)
-  (ya) prescribing, for the purposes of section 132A(2)⁠(c), 1 or more other relevant grounds for considering that an applicant entity is likely to fail to comply with requirements in or under this Act, the Biosecurity Act 1993, or both:
-  (yb) prescribing, for the purposes of section 135(1)⁠(d), 1 or more other grounds on which a registered JBMS user (or, as the case requires, a or the nominated representative of a registered JBMS user) may be considered unfit to continue to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user:
-  (yc) prescribing for the purposes of section 136(2)⁠(b) a period other than that specified in section 136(2)⁠(a) for which records of transmissions to or from the JBMS must be kept by the Customs:
+  (ya) prescribing, for the purposes of section 132A(2)﻿(c), 1 or more other relevant grounds for considering that an applicant entity is likely to fail to comply with requirements in or under this Act, the Biosecurity Act 1993, or both:
+  (yb) prescribing, for the purposes of section 135(1)﻿(d), 1 or more other grounds on which a registered JBMS user (or, as the case requires, a or the nominated representative of a registered JBMS user) may be considered unfit to continue to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user:
+  (yc) prescribing for the purposes of section 136(2)﻿(b) a period other than that specified in section 136(2)﻿(a) for which records of transmissions to or from the JBMS must be kept by the Customs:
   (z) prescribing the documents that a Customs officer may require and the form of declaration to be completed under section 147(2):
   (aa)
   (bb) prescribing the procedure to be followed in the making of applications to Customs Appeal Authorities and in the conduct of appeals by Customs Appeal Authorities:
@@ -4467,13 +4467,13 @@ Without limiting any other obligation imposed on the chief executive to give not
   (gg) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act; and prescribing the fines, not exceeding $1,000, that may be imposed in respect of any such offence:
   (hh) conferring or providing for exemptions from any provision of any regulation made under this Act:
   (ii) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
-(1A) Without limiting subsection (1)⁠(a), any regulations made under that provision prescribing areas used for the manufacture or processing of goods (other than tobacco) that are exempted from the requirement of section 10 to be licensed as a Customs controlled area may impose conditions—
+(1A) Without limiting subsection (1)﻿(a), any regulations made under that provision prescribing areas used for the manufacture or processing of goods (other than tobacco) that are exempted from the requirement of section 10 to be licensed as a Customs controlled area may impose conditions—
   (a) as to the nature of the goods being manufactured or processed:
   (b) as to the source of the product being manufactured or processed:
   (c) limiting the use that may be made of the goods (for example, permitting personal use only):
   (d) limiting the age of any person involved in the manufacture or use of the goods:
   (e) limiting the quantity of goods that may be produced by any measure or other form of description.
-(2) Different dates for the payment of excise duty may be prescribed in accordance with subsection (1)⁠(m) in respect of different classes of goods subject to excise duty, or different classes of persons, or on any other differential basis.
+(2) Different dates for the payment of excise duty may be prescribed in accordance with subsection (1)﻿(m) in respect of different classes of goods subject to excise duty, or different classes of persons, or on any other differential basis.
 
 ### 286A Regulations relating to information sharing
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for the purpose of section 282B—
@@ -4511,8 +4511,8 @@ Without limiting any other obligation imposed on the chief executive to give not
   (b) prescribing a rate or rates of charges for the attendance of Customs officers for the purposes of this Act:
   (c) providing for the liability of any person to pay any actual and reasonable expenses incurred by any Customs officer in respect of any attendance by that officer for the purposes of this Act:
   (d) prescribing the person or persons or classes of persons by whom the charges or expenses referred to in paragraphs (b) and (c) shall be paid, or authorising the chief executive to determine the person by whom they shall be paid.
-(2) Different rates of fees or charges, or both, may be prescribed in accordance with subsection (1)⁠(a) in respect of different classes of persons, or different types of Customs controlled areas, or on any other differential basis.
-(3) Different rates of charges may be prescribed in accordance with subsection (1)⁠(b) in respect of attendances during the working hours of the Customs or attendances outside the working hours of the Customs, or on any other differential basis.
+(2) Different rates of fees or charges, or both, may be prescribed in accordance with subsection (1)﻿(a) in respect of different classes of persons, or different types of Customs controlled areas, or on any other differential basis.
+(3) Different rates of charges may be prescribed in accordance with subsection (1)﻿(b) in respect of attendances during the working hours of the Customs or attendances outside the working hours of the Customs, or on any other differential basis.
 (4) Any regulation made under subsection (1) may—
   (a) prescribe the circumstances in which any fee, charge, or expense may be refunded, remitted, or waived, in whole or in part:
   (b) fix a date by which any fee or charge is to be paid.
@@ -4581,16 +4581,16 @@ An amendment to, or replacement of, provisions incorporated under section 287A h
     (iv) goods deemed to be entered for the purposes of section 49(1) by regulations made under section 50(b):
   (j) setting out, for the information of registered JBMS users, the form and manner for the time being generally approved in writing under a border management function Act (as defined in subsection (1A)) for complying with a requirement by or under that Act to supply any border information to the Customs or to the Ministry by using the JBMS.
 (1A) Border management function Act, in this section, means an Act that is—
-  (a) this Act (see section 134B(3)⁠(b) of this Act); or
-  (b) the Biosecurity Act 1993 (see section 7E(3)⁠(b) of that Act); or
-  (c) an Act that is specified by regulations under section 165A of the Biosecurity Act 1993 to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1) of that Act (see section 7E(3)⁠(b) of that Act); or
-  (d) the Agricultural Compounds and Veterinary Medicines Act 1997 (see section 4B(3)⁠(b) of that Act); or
-  (e) the Animal Products Act 1999 (see section 6A(3)⁠(b) of that Act); or
-  (f) the Food Act 1981 (see section 8AAA(3)⁠(b) of that Act); or
-  (g) the Hazardous Substances and New Organisms Act 1996 (see section 97AA(3)⁠(b) of that Act); or
-  (h) the Wine Act 2003 (see section 113A(3)⁠(b) of that Act).
+  (a) this Act (see section 134B(3)﻿(b) of this Act); or
+  (b) the Biosecurity Act 1993 (see section 7E(3)﻿(b) of that Act); or
+  (c) an Act that is specified by regulations under section 165A of the Biosecurity Act 1993 to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1) of that Act (see section 7E(3)﻿(b) of that Act); or
+  (d) the Agricultural Compounds and Veterinary Medicines Act 1997 (see section 4B(3)﻿(b) of that Act); or
+  (e) the Animal Products Act 1999 (see section 6A(3)﻿(b) of that Act); or
+  (f) the Food Act 1981 (see section 8AAA(3)﻿(b) of that Act); or
+  (g) the Hazardous Substances and New Organisms Act 1996 (see section 97AA(3)﻿(b) of that Act); or
+  (h) the Wine Act 2003 (see section 113A(3)﻿(b) of that Act).
 (2) The power to prescribe forms under this section includes the power to prescribe electronic message formats to be used for the electronic transmission of data to or between computers.
-(2A) No rule under subsection (1)⁠(j) setting out the form and manner prescribed by or under a border management function Act (as defined in subsection (1A)) can be made unless that rule has been developed by following a process—
+(2A) No rule under subsection (1)﻿(j) setting out the form and manner prescribed by or under a border management function Act (as defined in subsection (1A)) can be made unless that rule has been developed by following a process—
   (a) agreed in writing between the chief executive and the chief executive of the department of State for the time being responsible for that Act's administration; and
   (b) for the purpose of developing all, or any specified, proposed rules of that kind; and
   (c) promptly after it is agreed or amended, revoked, or revoked and replaced, notified via an Internet site that is, so far as practicable, publicly available free of charge.
@@ -4611,6 +4611,129 @@ An amendment to, or replacement of, provisions incorporated under section 287A h
 A Customs officer must, within 5 working days of using reasonable force under any provision of this Act, give the chief executive a written report on—
   (a) the use of the force; and
   (b) the circumstances in which it was used.
+
+**Levies for recovering border processing costs**
+
+### 288B Levies for recovering border processing costs
+(1) In this section, traveller means any person who arrives in New Zealand from, or departs New Zealand for, any place outside New Zealand.
+(2) Every traveller who on or after 1 January 2016 arrives in or departs New Zealand is liable, while there is a levy order in force under subsection (3), to pay a levy to the chief executive in relation to the costs incurred by the Customs in, or for the purpose of, exercising its powers or performing its functions, under this Act or any other Act, in relation to travellers and their accompanying baggage (or other goods in their possession or under their control).
+(3) The Governor-General may, by Order in Council, on the recommendation of the Minister, make a levy order prescribing—
+  (a) the rate of levy or the basis on which the rate is to be calculated or ascertained; and
+  (b) insofar as the order does not set an actual rate, how the actual rate of the levy is to be set; and
+  (c) when and how the levy is to be paid; and
+  (d) how the rate of the levy, and any variation of the rate, is to be notified.
+(4) The Minister must, before recommending that a levy order be made under this section, consult with such persons, representative groups, government departments, and Crown agencies as he or she considers reasonable and appropriate in the circumstances.
+(5) A levy order must not be made in respect of the costs that are otherwise recovered or otherwise to be recovered under this Act or the Airports (Cost Recovery for Processing of International Travellers) Act 2014.
+(6) A levy order made under this section—
+  (a) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be presented to the House of Representatives under section 41 of that Act.
+
+### 288C Contents of border processing levy order
+(1) A levy order under section 288B may—
+  (a) prescribe different rates of levy, on any differential basis, for different persons or different classes of persons:
+  (b) prescribe a maximum rate or maximum rates of levy:
+  (c) exempt certain persons or classes of persons from the requirement to pay the levy:
+  (d) prescribe persons responsible for collecting the levy from those primarily responsible for paying it:
+  (e) allow persons collecting the levy to recover the costs of collecting the levy and, if so, prescribe the basis on which those costs are to be calculated or ascertained:
+  (f) require that returns be made to the chief executive or some other person or body to enable the amounts of levy payable to be calculated, determined, or verified:
+  (g) provide, subject to such conditions as may be prescribed, for extensions of time for the payment of the levy:
+  (h) provide for the payment of additional or increased levy in the event of late payment or non-payment:
+  (i) provide for circumstances in which levy paid may be refunded:
+  (j) require that levy funds payable be held on trust in separate accounts.
+(2) Every order must,—
+  (a) for the purpose of determining whether an order is being complied with, require any of the following persons to keep statements, accounts, or records of specified classes or descriptions:
+    (i) the chief executive:
+    (ii) persons responsible for collecting the levy:
+    (iii) persons responsible for paying the levy; and
+  (b) provide for those statements, accounts, or records to be retained for a specified period; and
+  (c) provide for the remuneration of auditors under section 288G(2).
+
+### 288D Trust accounts for levy money payable to chief executive
+(1) If a levy order provides that the levy funds payable are to be held on trust in separate accounts, each person responsible for collecting the levy must—
+  (a) keep a bank account at a registered bank; and
+  (b) ensure that the account is so named as to identify that it is a trust account kept by the person responsible for collecting the levy for the purposes of the order; and
+  (c) take all practicable steps to ensure that—
+    (i) the account is used only for holding amounts required to be deposited under this section; and
+    (ii) the balance in the account on any day is not less than the amount outstanding on that day to the chief executive.
+(2) A person responsible for collecting a levy must deposit in a trust account an amount equal to the levy calculated in accordance with the levy order on the day or days specified in, or calculated in accordance with, that order.
+(3) If the amount held in the trust account—
+  (a) is more than the amount of levy money that is outstanding to the chief executive, the amount outstanding is deemed to be held on trust for the chief executive:
+  (b) is the same as or less than the amount that is outstanding, all the money in the account is deemed to be held on trust for the chief executive.
+(4) Money deemed by subsection (3) to be held on trust is not available for the payment of, and is not liable to be attached or taken in execution at the instance of, any creditor of the person responsible for collecting the levy (other than the chief executive).
+(5) A person who ceases to be a person responsible for collecting a levy must continue to maintain the trust account until all the levy money payable to the chief executive, in respect of the period during which that person was responsible for collecting the levy, has been paid.
+(6) Nothing in subsection (5) limits or affects any obligation or liability under this Act of any person who has become responsible for collecting the levy.
+(7) In this section,—
+  - **levy order** means an order under section 288B
+  - **registered bank** has the meaning given to it in section 2(1) of the Reserve Bank of New Zealand Act 1989
+  - **trust account** means the account referred to in subsection (1).
+
+### 288E Effect of levy order
+If a levy order is made under section 288B, the following provisions apply:
+  (a) every person responsible for paying or collecting the levy must do so; and
+  (b) the chief executive may recover the levy in any court of competent jurisdiction as a debt due from any person responsible for paying or collecting it.
+
+### 288F Compliance audits
+(1) While an order under section 288B is in force, the Minister may, at the request of the chief executive, appoint 1 or more auditors to conduct an audit of the affairs of any person responsible for collecting the levy.
+(2) The purpose of an audit under this section is to ascertain—
+  (a) the extent to which persons responsible for paying or collecting the levy concerned are doing or have done so:
+  (b) the extent to which appropriate amounts of the levy concerned are being or have been paid over to the chief executive:
+  (c) the extent to which statements, accounts, and records are being or have been kept or properly kept.
+
+### 288G Auditors
+(1) A person is not qualified to be an auditor for the purpose of section 288F if—
+  (a) the person is not a qualified auditor within the meaning of section 35 of the Financial Reporting Act 2013:
+  (b) the person is an officer or employee of—
+    (i) the chief executive:
+    (ii) any person responsible for collecting the levy concerned:
+    (iii) any person responsible for paying the levy concerned.
+(2) Every person appointed as an auditor is entitled to remuneration paid by the chief executive as provided for in the relevant levy order.
+(3) For the purposes of conducting an audit, an auditor may—
+  (a) require any specified person to produce, and the person must produce, for inspection within a reasonable period specified by the auditor any statements, accounts, and records—
+    (i) that are required to be kept under section 288C(2); and
+    (ii) that are in that person’s possession or under that person’s control:
+  (b) take copies of, or extracts from, those statements, accounts, and records.
+(4) The persons referred to in subsection (3)﻿(a) are—
+  (a) the chief executive:
+  (b) any person responsible for collecting the levy:
+  (c) any employee or officer of a person in paragraph (a) or (b).
+(5) Every direction under subsection (3) must contain—
+  (a) a reference to this section; and
+  (b) the full name of the auditor; and
+  (c) a statement of the powers conferred on the auditor by that subsection.
+(6) An auditor must not disclose to any person other than the Minister (or a person authorised in that behalf by the Minister) any information obtained by the auditor under subsection (3), except in respect of—
+  (a) a prosecution under this Act:
+  (b) an action for the recovery of any amount due under this Act.
+(7) To avoid doubt, the Official Information Act 1982 applies in respect of any information held by a Minister that was obtained pursuant to subsection (6).
+
+### 288H Offences in relation to levy orders
+(1) A person commits an offence against this Act who fails to keep or maintain statements, accounts, or records that are required to be kept or maintained under an order made under section 288B.
+(2) A person commits an offence against this Act who fails to make a return that the person is required to make by an order made under section 288B.
+(3) A person commits an offence against this Act who makes a return that the person is required to make by an order made under section 288B knowing that the return is false or misleading in a material particular.
+(4) A person commits an offence against this Act who fails to comply with a requirement imposed under section 288G(3)﻿(a).
+(5) Every person who commits an offence against subsection (1) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $5,000:
+  (b) in the case of a body corporate, to a fine not exceeding $15,000.
+(6) Every person who commits an offence against subsection (2) or (4) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $1,000:
+  (b) in the case of a body corporate, to a fine not exceeding $3,000.
+(7) Every person who commits an offence against subsection (3) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $10,000:
+  (b) in the case of a body corporate, to a fine not exceeding $30,000.
+
+### 288I Section 288H strict liability offences
+(1) This section applies to the offences in section 288H(1), (2), and (4).
+(2) The offences are strict liability offences and the prosecution is not required to prove that a defendant intended to commit the offence.
+(3) The defendant will have a defence if the defendant proves that—
+  (a) the action or event to which the prosecution relates was due to—
+    (i) the act or omission of another person; or
+    (ii) an accident; or
+    (iii) some other cause or circumstance outside the defendant's control; and
+  (b) the defendant took all reasonable precautions, and exercised due diligence, to avoid the commission of the offence.
+(4) The defence in subsection (3) is only available if the defendant gives a written notice to the prosecutor at least 15 working days before the hearing date, or within such other time as the court allows, that—
+  (a) states the defendant's intention to rely on the defence; and
+  (b) includes facts that support the defence.
+
+**Consequential amendments, revocations, and repeals**
 
 ### 289 Acts and regulations amended
 (1) The Acts specified in Schedule 5 are hereby amended in the manner indicated in that schedule.
@@ -4676,9 +4799,9 @@ Any place that was, immediately before the commencement of this Act, an examinat
 
 ### 298 Staff accommodation, facilities, and transit buildings deemed to be Customs controlled area
 (1) Any place that was, immediately before the commencement of this Act,—shall be deemed for the purposes of this Act to be a Customs controlled area licensed under section 12 for the purposes described in paragraphs (d) and (e) of section 10.
-  (a) staff accommodation or facilities directed by the Minister of Customs to be for the exclusive use of officers of Customs pursuant to section 33(1)⁠(a) of the Customs Act 1966; or
-  (b) a transit building declared by the Minister of Customs to be required pursuant to section 33(1)⁠(b) of the Customs Act 1966—
-(2) Where any area in any place referred to in subsection (1)⁠(a) of this section was, immediately before the commencement of this Act, entitled to be exempt from charges in accordance with section 33(2A) of the Customs Act 1966, that area shall continue to be exempt from those charges until an application in respect of that area has been made in accordance with section 302 of this Act and dealt with in accordance with this Act.
+  (a) staff accommodation or facilities directed by the Minister of Customs to be for the exclusive use of officers of Customs pursuant to section 33(1)﻿(a) of the Customs Act 1966; or
+  (b) a transit building declared by the Minister of Customs to be required pursuant to section 33(1)﻿(b) of the Customs Act 1966—
+(2) Where any area in any place referred to in subsection (1)﻿(a) of this section was, immediately before the commencement of this Act, entitled to be exempt from charges in accordance with section 33(2A) of the Customs Act 1966, that area shall continue to be exempt from those charges until an application in respect of that area has been made in accordance with section 302 of this Act and dealt with in accordance with this Act.
 
 ### 299 Export warehouse deemed to be Customs controlled area
 Any place that was, immediately before the commencement of this Act, an export warehouse licensed under the Customs Act 1966 shall be deemed for the purposes of this Act to be a Customs controlled area licensed under section 12 of this Act for the purpose described in section 10(b) of this Act.
@@ -4713,7 +4836,7 @@ Not later than 40 working days after the commencement of this Act the owner or o
 (2) For the purposes of subsection (1), a reference to this Act—is taken to include a reference to the Customs Act 1966.
   (a) in relation to any offence in sections 152(1), 165(1), 166(1), and 167(1):
   (b) in relation to goods in section 160(1):
-  (c) in relation to a thing in section 167(1)⁠(c),—
+  (c) in relation to a thing in section 167(1)﻿(c),—
 (3) After exercising, by virtue of subsection (1), any power under this Act in relation to a suspected offence against the Customs Act 1966, the chief executive or a Customs officer, as the case may be, must not exercise any corresponding power under the Customs Act 1966 in relation to that suspected offence.
 (4) Nothing in this section limits or affects the application of section 19 of the Interpretation Act 1999 in relation to the prosecution of offences against the Customs Act 1966.
 
@@ -4747,8 +4870,8 @@ Changeover, in clauses 2 and 3, means the beginning of the day immediately after
 (2) An individual to whom subclause (1) applies—
   (a) has, after the changeover, deemed registration as a JBMS user under section 132 (as in force after the changeover); and
   (b) must as soon as practicable after the changeover be assigned a unique user identifier for use in relation to the JBMS under section 133 (as in force after the changeover).
-(3) The deemed registration under subclause (2)⁠(a) is subject to conditions under sections 132A(1)⁠(a), 133(4), and 134A(1) (as in force after the changeover) the same as the conditions (if any) to which the individual was, immediately before the changeover, subject under sections 132(2), 133, or 134A(1) (as in force before the changeover), and may be cancelled or suspended under section 135 (as in force on and after the changeover).
-(4) The conditions referred to in subclause (3) may be amended, revoked, or revoked and replaced under sections 132A(1)⁠(a), 133(4), and 134A(1) (as in force after the changeover).
+(3) The deemed registration under subclause (2)﻿(a) is subject to conditions under sections 132A(1)﻿(a), 133(4), and 134A(1) (as in force after the changeover) the same as the conditions (if any) to which the individual was, immediately before the changeover, subject under sections 132(2), 133, or 134A(1) (as in force before the changeover), and may be cancelled or suspended under section 135 (as in force on and after the changeover).
+(4) The conditions referred to in subclause (3) may be amended, revoked, or revoked and replaced under sections 132A(1)﻿(a), 133(4), and 134A(1) (as in force after the changeover).
 
 ### 3 Applications to be registered user of Customs computerised entry processing system
 (1) This subclause applies to an application that is—
@@ -4848,7 +4971,7 @@ Changeover, in clauses 2 and 3, means the beginning of the day immediately after
     (vi) the value of any materials, component parts, and other goods incorporated in the imported goods for the purpose of repair to, or refurbishment of, those goods prior to export of the goods to New Zealand, and the price paid for the service of repair or refurbishment, as the case may be; and
     (vii) the costs of transportation and insurance of, and the loading, unloading, and handling charges, and other charges and expenses associated with the transportation of, the imported goods until the goods have left the country of export if such costs, charges, and expenses are paid or payable by the buyer, directly or indirectly, to or for the benefit of the seller as a condition of the transaction:
   (b) by deducting therefrom amounts, to the extent that each such amount is otherwise included in the price paid or payable for the goods, equal to—
-    (i) the costs of transportation and insurance of, and the loading, unloading, and handling charges, and other charges and expenses associated with the transportation of, the imported goods from the time the goods have left the country of export, other than any cost, charge, or expense referred to in subparagraph (ii)⁠(B); and
+    (i) the costs of transportation and insurance of, and the loading, unloading, and handling charges, and other charges and expenses associated with the transportation of, the imported goods from the time the goods have left the country of export, other than any cost, charge, or expense referred to in subparagraph (ii)﻿(B); and
     (ii) any of the following costs, charges, or expenses:if the cost, charge, or expense is identified separately from the balance of the price paid or payable for the goods:
       (A) any reasonable cost, charge, or expense that is incurred for the construction, erection, assembly, or maintenance of, or technical assistance provided in respect of, the goods after the goods are imported:
       (B) any reasonable cost, charge, or expense that is incurred in respect of the transportation or insurance of the goods within New Zealand and any reasonable cost, charge, or expense associated therewith:
@@ -4856,7 +4979,7 @@ Changeover, in clauses 2 and 3, means the beginning of the day immediately after
   (c) in respect of carrier media bearing data or instructions, by deducting the value of the data or instructions from the price paid or payable for the goods if:
     (i) the value of the data or instructions is distinguished from the cost or value of the carrier media; and
     (ii) the data or instructions are not incorporated in data processing equipment.
-(2) The value of the goods and services described in subclause (1)⁠(a)⁠(iii) shall be determined—
+(2) The value of the goods and services described in subclause (1)﻿(a)﻿(iii) shall be determined—
   (a) in the case of materials, components, parts and other goods incorporated in the goods being valued or any materials consumed in the production of the goods being valued—
     (i) by ascertaining—
       (A) their cost of acquisition where they were acquired by the buyer from a person who was not related to the buyer at the time of their acquisition; or
@@ -4886,12 +5009,12 @@ Changeover, in clauses 2 and 3, means the beginning of the day immediately after
 (1) Subject to subclauses (2) to (4), where the Customs value of imported goods cannot, in the opinion of the chief executive, be determined under clause 2, the Customs value of the goods shall be the transaction value of identical goods in respect of a sale of those goods for export to New Zealand if that transaction value is the Customs value of the identical goods and the identical goods were exported at the same or substantially the same time as the goods being valued and were sold under the following conditions:
   (a) to a buyer at the same or substantially the same trade level as the buyer of the goods being valued; and
   (b) in the same or substantially the same quantities as the goods being valued.
-(2) Where the Customs value of imported goods cannot be determined under subclause (1) because identical goods were not sold under the conditions described in subclause (1)⁠(a) and (b), there shall be substituted therefor identical goods sold under any of the following conditions:
+(2) Where the Customs value of imported goods cannot be determined under subclause (1) because identical goods were not sold under the conditions described in subclause (1)﻿(a) and (b), there shall be substituted therefor identical goods sold under any of the following conditions:
   (a) to a buyer at the same or substantially the same trade level as the buyer of the goods being valued but in quantities different from the quantities in which those goods were sold; or
   (b) to a buyer at a trade level different from that of the buyer of the goods being valued but in the same or substantially the same quantities as the quantities in which those goods were sold; or
   (c) to a buyer at a trade level different from that of the buyer of the goods being valued and in quantities different from the quantities in which those goods were sold.
 (3) For the purposes of determining the Customs value of imported goods under subclause (1), the transaction value of identical goods shall be adjusted by adding thereto or deducting therefrom, as the case may be, amounts to account for—if each amount can, in the opinion of the chief executive, be determined on the basis of sufficient information. Where any such amount cannot be so determined, the Customs value of the goods being valued shall not be determined on the basis of the transaction value of those identical goods under this clause.
-  (a) commercially significant differences between the costs, charges, and expenses referred to in clause 3(1)⁠(a)⁠(vii) in respect of the identical goods and those costs, charges, and expenses in respect of the goods being valued that are attributable to differences in distances and modes of transport:
+  (a) commercially significant differences between the costs, charges, and expenses referred to in clause 3(1)﻿(a)﻿(vii) in respect of the identical goods and those costs, charges, and expenses in respect of the goods being valued that are attributable to differences in distances and modes of transport:
   (b) where the transaction value is in respect of identical goods sold under the conditions described in any of paragraphs (a) to (c) of subclause (2), differences in the trade levels of the buyers of the identical goods and the goods being valued or the quantities in which the identical goods and the goods being valued were sold or both, as the case may be,—
 (4) Where, in relation to imported goods being valued, there are 2 or more transaction values of identical goods that meet all the requirements set out in subclauses (1) and (3) or where there is no such transaction value but there are 2 or more transaction values of identical goods sold under the conditions described in any of paragraphs (a) to (c) of subclause (2) that meet all the requirements set out in this clause that are applicable by virtue of subclause (2), the Customs value of the goods being valued shall be determined on the basis of the lowest such transaction value.
 
@@ -4908,19 +5031,19 @@ Changeover, in clauses 2 and 3, means the beginning of the day immediately after
 (4) Where the goods being valued or identical goods or similar goods are not sold in New Zealand in the circumstances described in subclause (2) or subclause (3), but the goods being valued, after being assembled, packaged, or further processed in New Zealand, are sold in New Zealand before the expiration of 90 days after the importation thereof and the importer of the goods being valued requests that this subclause be applied in the determination of the Customs value of those goods, the deductive value of the goods being valued shall be the price per unit, in respect of sales described in subclause (5), determined in accordance with that subclause and adjusted in accordance with subclause (6), at which the greatest number of units of the goods being valued are so sold.
 (5) For the purposes of subclauses (2) to (4), the price per unit in respect of any goods being valued or identical goods or similar goods, shall be determined by ascertaining the unit price in respect of sales of the goods at the first trade level after their importation to persons who—at which the greatest number of units of the goods is sold where, in the opinion of the chief executive, a sufficient number of such sales have been made to permit a determination of the price per unit of the goods.
   (a) are not related to the persons from whom they buy the goods at the time the goods are sold to them; and
-  (b) have not supplied, directly or indirectly, free of charge or at a reduced cost for use in connection with the production and sale for export of the goods, any of the goods or services referred to in clause 3(1)⁠(a)⁠(iii),—
+  (b) have not supplied, directly or indirectly, free of charge or at a reduced cost for use in connection with the production and sale for export of the goods, any of the goods or services referred to in clause 3(1)﻿(a)﻿(iii),—
 (6) For the purposes of subclauses (2) to (4), the price per unit in respect of any goods being valued or identical goods or similar goods, shall be adjusted by deducting therefrom an amount equal to the aggregate of—
   (a) an amount, determined in accordance with subclause (7), equal to—in connection with sales in New Zealand of goods of the same class or kind as those goods:
     (i) the amount of commission generally earned on a unit basis; or
     (ii) the amount for profit and general expenses, including all costs of marketing the goods, considered together as a whole, that is generally reflected on a unit basis—
   (b) reasonable costs, charges, and expenses that are incurred in respect of the transportation and insurance of the goods within New Zealand and reasonable costs, charges, and expenses associated therewith to the extent that an amount for such costs, charges, and expenses is not deducted in respect of general expenses under paragraph (a):
-  (c) the costs, charges, and expenses referred to in clause 3(1)⁠(b)⁠(i) incurred in respect of the goods, to the extent that an amount for such costs, charges, and expenses is not deducted in respect of general expenses under paragraph (a) of this subclause:
+  (c) the costs, charges, and expenses referred to in clause 3(1)﻿(b)﻿(i) incurred in respect of the goods, to the extent that an amount for such costs, charges, and expenses is not deducted in respect of general expenses under paragraph (a) of this subclause:
   (d) any Customs duties or other taxes payable in New Zealand by reason of the importation or sale of the goods, to the extent that an amount for such duties and taxes is not deducted in respect of general expenses under paragraph (a):
   (e) where subclause (4) applies, the amount of the value added to the goods that is attributable to the assembly, packaging, or further processing in New Zealand of the goods, if that amount is determined, in the opinion of the chief executive, on the basis of sufficient information.
-(7) The amount considered to be equal to the amount of commission or the amount for profit and general expenses referred to in subclause (6)⁠(a) shall be calculated on a percentage basis and determined on the basis of information prepared in a manner consistent with generally accepted accounting principles that is supplied—
+(7) The amount considered to be equal to the amount of commission or the amount for profit and general expenses referred to in subclause (6)﻿(a) shall be calculated on a percentage basis and determined on the basis of information prepared in a manner consistent with generally accepted accounting principles that is supplied—
   (a) by or on behalf of the importer of the goods being valued; or
   (b) where the information supplied by or on behalf of the importer of the goods being valued is not sufficient information, but an examination of sales in New Zealand of the narrowest group or range of goods of the same class or kind as the goods being valued from which sufficient information can, in the opinion of the chief executive, be obtained.
-(8) Where an amount referred to in subclause (6)⁠(e) in respect of any goods being valued cannot, in the opinion of the chief executive, be determined on the basis of sufficient information, the Customs value of the goods cannot be determined on the basis of the deductive value under subclause (4).
+(8) Where an amount referred to in subclause (6)﻿(e) in respect of any goods being valued cannot, in the opinion of the chief executive, be determined on the basis of sufficient information, the Customs value of the goods cannot be determined on the basis of the deductive value under subclause (4).
 
 ### 7 Computed value as Customs value
 (1) Subject to subclauses (3) and (5) of clause 2, where the Customs value of imported goods cannot, in the opinion of the chief executive be determined under clause 6, the Customs value of the goods shall be the computed value in respect of those goods.
@@ -4930,12 +5053,12 @@ Changeover, in clauses 2 and 3, means the beginning of the day immediately after
     (ii) the production or other processing of the goods being valued,—
     (A) the commercial accounts of the producer of the goods being valued; or
     (B) any other sufficient information relating to the production of the goods being valued—
-    (iii) the costs, charges, and expenses referred to in clause 3(1)⁠(a)⁠(ii):
-    (iv) the value of any of the goods and services referred to in clause 3(1)⁠(a)⁠(iii) and (vi), determined and apportioned to the goods being valued as referred to in that clause, whether or not such goods and services have been supplied free of charge or at a reduced cost:
-    (v) the costs, charges, and expenses incurred by the producer in respect of engineering, development work, artwork, designwork, plans, or sketches undertaken in New Zealand that were supplied, directly or indirectly, by the buyer of the goods being valued for use in connection with the production and sale for export of those goods to the extent that such elements are charged to the producer of the goods, apportioned to the goods being valued as referred to in clause 3(1)⁠(a)⁠(iii):
+    (iii) the costs, charges, and expenses referred to in clause 3(1)﻿(a)﻿(ii):
+    (iv) the value of any of the goods and services referred to in clause 3(1)﻿(a)﻿(iii) and (vi), determined and apportioned to the goods being valued as referred to in that clause, whether or not such goods and services have been supplied free of charge or at a reduced cost:
+    (v) the costs, charges, and expenses incurred by the producer in respect of engineering, development work, artwork, designwork, plans, or sketches undertaken in New Zealand that were supplied, directly or indirectly, by the buyer of the goods being valued for use in connection with the production and sale for export of those goods to the extent that such elements are charged to the producer of the goods, apportioned to the goods being valued as referred to in clause 3(1)﻿(a)﻿(iii):
   (b) the amount, determined in accordance with subclause (4), for profit and general expenses, considered together as a whole, generally reflected in sales for export to New Zealand of goods of the same class or kind as the goods being valued, made by the producers of the goods to buyers in New Zealand who are not related to the producers from whom they buy the goods at the time the goods are sold to them.
-(3) For the purposes of this clause, the expression general expenses means the direct and indirect costs, charges, and expenses of producing and selling goods for export, other than the costs, charges, and expenses referred to in subclause (2)⁠(a).
-(4) The amount of profit and general expenses referred to in subclause (2)⁠(b) shall be calculated on a percentage basis and determined on the basis of information prepared in a manner consistent with generally acceptable accounting principles of the country of production of the goods being valued and that is supplied—
+(3) For the purposes of this clause, the expression general expenses means the direct and indirect costs, charges, and expenses of producing and selling goods for export, other than the costs, charges, and expenses referred to in subclause (2)﻿(a).
+(4) The amount of profit and general expenses referred to in subclause (2)﻿(b) shall be calculated on a percentage basis and determined on the basis of information prepared in a manner consistent with generally acceptable accounting principles of the country of production of the goods being valued and that is supplied—
   (a) by or on behalf of the producer of the goods being valued; or
   (b) where the information supplied by or on behalf of the producer of the goods being valued is not sufficient information, by an examination of sales for export to New Zealand of the narrowest group or range of goods of the same class or kind from which sufficient information can, in the opinion of the chief executive, be obtained.
 
@@ -4956,7 +5079,7 @@ Changeover, in clauses 2 and 3, means the beginning of the day immediately after
 
 ### 1 Value of goods for excise duty
 The value of any goods for the purposes of section 73(3) shall be the price at which the goods are sold exclusive of excise duty and goods and services tax by a person licensed under section 12 if—
-  (a) the sale is a sale in the open market as defined in clause 4(1)⁠(c); and
+  (a) the sale is a sale in the open market as defined in clause 4(1)﻿(c); and
   (b) the sale is made on or prior to the date on which the goods are removed from the manufacturing area.
 
 ### 2 Value of goods manufactured by contractor
@@ -5015,7 +5138,7 @@ This Act is the Customs and Excise Amendment Act (No 3) 2008.
 **Transitional provisions**
 
 ### 23 Transitional provision relating to exemption for tobacco manufactured for personal use
-Until the close of 30 June 2009, section 68A(2)⁠(d) of the principal Act, as inserted by section 8 of this Act, must be read as if for any year ending with 30 June there were substituted the period commencing on 1 October 2008 and ending with the close of 30 June 2009.
+Until the close of 30 June 2009, section 68A(2)﻿(d) of the principal Act, as inserted by section 8 of this Act, must be read as if for any year ending with 30 June there were substituted the period commencing on 1 October 2008 and ending with the close of 30 June 2009.
 
 ### 24 Transitional provision relating to appeals against seizure
 Sections 231 to 235 of the principal Act, as in force before the commencement of section 16 of this Act, continue to apply in respect of goods seized, under section 226 of the principal Act, before the commencement of section 16 of this Act.
