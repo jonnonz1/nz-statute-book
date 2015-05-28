@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2015-05-28_
 
 > Title
 
@@ -19,7 +19,7 @@ In this Act, unless the context otherwise requires,—
     (a) the bonds, stock, debentures, funds, or other securities of the Government of New Zealand; or
     (b) any other securities that are for the time being approved by the Minister for the purposes of this Act
   - **Corporation** means Housing New Zealand Corporation established (as the Housing Corporation of New Zealand) by section 3(1)
-  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)(c) of the Crown Entities Act 2004
+  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)⁠(c) of the Crown Entities Act 2004
   - **existing company** —
     (a) means HNZ or Community Housing Limited (a company that on the commencement of the Housing Corporation Amendment Act 2001 was duly incorporated under the Companies Act 1993); and
     (b) includes any subsidiary (within the meaning of the Companies Act 1993) of an existing company
@@ -48,7 +48,7 @@ In this Act, unless the context otherwise requires,—
 (5)
 
 ### 3AA Membership of Corporation
-(1) The Corporation must have at least 2, but no more than 8, members appointed under section 28(1)(a) of the Crown Entities Act 2004.
+(1) The Corporation must have at least 2, but no more than 8, members appointed under section 28(1)⁠(a) of the Crown Entities Act 2004.
 (2) A person who is employed by a department of State responsible for advising the Minister on the Corporation's performance is disqualified from being a member.
 (3) Subsection (2) does not limit section 30 of the Crown Entities Act 2004.
 (4) Members of the Corporation are the board for the purposes of the Crown Entities Act 2004.
@@ -61,8 +61,8 @@ The Corporation's objectives are—
   (a) to give effect to the Crown's social objectives by providing housing, and services related to housing, in a businesslike manner, and to that end to be an organisation that—
     (i) exhibits a sense of social responsibility by having regard to the interests of the community in which it operates; and
     (ii) exhibits a sense of environmental responsibility by having regard to the environmental implications of its operations; and
-    (iii) operates with good financial oversight and stewardship, and efficiently and effectively manages its assets and liabilities and the Crown's investment; and
-  (b) to ensure that the Minister of Housing receives appropriate policy advice, other advice, and information, on housing and services related to housing.
+    (iii) operates with good financial oversight and stewardship, and efficiently and effectively manages its assets and liabilities and the Crown's investment.
+  (b)
   (c)
 
 ### 3C Communication of the Crown's social objectives
@@ -138,8 +138,8 @@ Schedule 1A applies to the Corporation.
     (i) the Corporation's current statement of intent; or
     (ii) a notice or agreement under section 20; or
     (iii) a plan under section 20A:
-  (j) conducting research into, and monitoring trends in, housing and services related to housing:
-  (k) advising the Minister of Housing on housing and services related to housing:
+  (j) conducting research into, and monitoring trends in, housing and services related to housing (but not for the purpose of advising the Minister of Housing on those matters):
+  (k)
   (l) any other functions conferred on it by this Act or any other enactment.
 (3) In performing any of its functions, the Corporation may consult any person or organisation whose views or knowledge it believes will enhance its performance of the function.
 (4) Subsection (2) does not limit subsection (1).
@@ -183,7 +183,7 @@ Schedule 1A applies to the Corporation.
 
 ### 20A Other provisions relating to directions
 (1) Sections 114 and 115 of the Crown Entities Act 2004 apply to a direction under section 20.
-(2) When complying with section 115(2) of the Crown Entities Act 2004 in respect of a direction under section 20(1)(b), the Minister must also publish in the Gazette and present to the House of Representatives a copy of the agreement entered into with the Corporation in accordance with the direction.
+(2) When complying with section 115(2) of the Crown Entities Act 2004 in respect of a direction under section 20(1)⁠(b), the Minister must also publish in the Gazette and present to the House of Representatives a copy of the agreement entered into with the Corporation in accordance with the direction.
 (3) The Corporation must prepare, and give to the Minister for approval a draft plan stating how it proposes to give effect to the policy of the Government if,—
   (a) pursuant to a direction under section 20, it enters into an agreement with the Minister that does not state how the policy of the Government is to be given effect to; or
   (b) the Minister directs the Corporation to give effect to a government policy under section 103 of the Crown Entities Act 2004.
@@ -192,10 +192,12 @@ Schedule 1A applies to the Corporation.
 ### 20B Compensation of Corporation for providing certain services
 (1) If under section 20 the Minister requires the Corporation to provide housing or services related to housing (or both) to any persons in return for the payment by the Crown of all or part of the price to the Corporation of doing so (as stated in the notice or agreement concerned),—
   (a) the Crown must pay to the Corporation all or part of that price (as the case requires); and
-  (b) if the policy is for the Corporation to provide housing and related services to persons who are to be required to pay income-related rents rather than market rents for the housing, the agreement or notice concerned must state that the services are to be provided in return for the payment by the Crown to the Corporation of the difference between the amounts of market rents for the housing and the income-related rents charged.
+  (b) if the policy is for the Corporation to provide housing and related services to persons who are to be required to pay income-related rents rather than market rents for the housing, the notice or agreement concerned must state that the housing and related services are to be provided in return for the payment by the Crown to the Corporation of either—
+    (i) the difference between the amounts of market rents for the housing and the income-related rents charged; or
+    (ii) an alternative price, set out in that notice or agreement, that has been agreed to by the Corporation.
 (2) If, because its statement of intent requires it to do so, the Corporation provides services that it cannot provide on normal business terms, the Crown may wholly or partly recompense it for doing so.
-(3) In subsection (1)(b), income-related rents and market rents have the meanings given to those terms by section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992.
-(4) After the vesting day in relation to HNZ, every agreement between the Crown and HNZ entered into by virtue of a requirement under section 7 of the Housing Restructuring and Tenancy Matters Act 1992 (or under that section as applied by section 85 of that Act) has effect as if it were an agreement entered into under a direction under section 20(1)(b).
+(3) In subsection (1)⁠(b), income-related rents and market rents have the meanings given to those terms by section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992.
+(4) After the vesting day in relation to HNZ, every agreement between the Crown and HNZ entered into by virtue of a requirement under section 7 of the Housing Restructuring and Tenancy Matters Act 1992 (or under that section as applied by section 85 of that Act) has effect as if it were an agreement entered into under a direction under section 20(1)⁠(b).
 (5) Nothing in this section limits or affects the generality of section 20.
 
 ### 20C Application of sections 20 to 20B to subsidiaries
@@ -336,10 +338,10 @@ So far as concerns any lender or holder,—
 (1) Where, pursuant to paragraph (c) of section 19(4), the Corporation draws or prepares any conveyance, deed, agreement, or lease of a kind mentioned in that paragraph for or on behalf of any other person (hereafter in this section called the client), the solicitor referred to in that paragraph shall, in the drawing or preparing of that document and in the provision of any legal advice or legal service attendant upon that work, be deemed for all purposes to be employed by the client, and shall not be subject to direction by the Corporation or by any employee of the Corporation.
 (2) Nothing in subsection (1) shall affect the right of the solicitor to act for the Corporation or any other person as well as the client.
 (3)
-(4) If, as a result of anything done or omitted to be done by the Corporation in the exercise of any of its powers under section 19(4)(c), the client suffers any loss, the client shall have the same right (if any) to recover in damages as the client would have had if the Corporation were a solicitor acting on behalf of the client.
-(5) Nothing in sections 21, 22, or 24 of the Lawyers and Conveyancers Act 2006 shall apply to anything done by the Corporation in the exercise of any of its powers under section 19(4)(c).
-(6) Notwithstanding anything in section 9 of the Lawyers and Conveyancers Act 2006, no solicitor shall be guilty of misconduct in the solicitor's professional capacity merely because that solicitor is acting in pursuance of the exercise by the Corporation of any of its powers under section 19(4)(c).
-(7) No solicitor employed, engaged, or instructed by the Corporation shall be personally liable for any act done or default made in good faith by the solicitor while acting for the Corporation in the exercise or purported exercise by the Corporation of any of its powers under section 19(4)(c).
+(4) If, as a result of anything done or omitted to be done by the Corporation in the exercise of any of its powers under section 19(4)⁠(c), the client suffers any loss, the client shall have the same right (if any) to recover in damages as the client would have had if the Corporation were a solicitor acting on behalf of the client.
+(5) Nothing in sections 21, 22, or 24 of the Lawyers and Conveyancers Act 2006 shall apply to anything done by the Corporation in the exercise of any of its powers under section 19(4)⁠(c).
+(6) Notwithstanding anything in section 9 of the Lawyers and Conveyancers Act 2006, no solicitor shall be guilty of misconduct in the solicitor's professional capacity merely because that solicitor is acting in pursuance of the exercise by the Corporation of any of its powers under section 19(4)⁠(c).
+(7) No solicitor employed, engaged, or instructed by the Corporation shall be personally liable for any act done or default made in good faith by the solicitor while acting for the Corporation in the exercise or purported exercise by the Corporation of any of its powers under section 19(4)⁠(c).
 
 ### 44 Prohibition of procuration fees
 [Repealed]
@@ -419,7 +421,7 @@ On and after the vesting day,—
   (c) the Corporation has all the rights, obligations, privileges, and immunities of the existing company concerned (and of any officer or employee of that company acting as an officer or employee of that company), and all the rights, obligations, privileges, and immunities of the Crown as aforesaid (other than rights, obligations, privileges, and immunities that the Crown has only by virtue of being the Crown), in relation to all appeals, applications, objections, and other proceedings before any authority, court, tribunal, or person acting judicially, relating to any asset or liability vested by the order concerned.
 
 ### 55 Records and registers
-(1) Except as provided in section 53(1)(c), neither the Registrar-General of Land nor any other person charged with the keeping of any records or registers is obliged solely by reason of any provision of this Part to change any name in those records or registers or in any document.
+(1) Except as provided in section 53(1)⁠(c), neither the Registrar-General of Land nor any other person charged with the keeping of any records or registers is obliged solely by reason of any provision of this Part to change any name in those records or registers or in any document.
 (2) An order under section 53 is sufficient notice to all persons of its effect (and of any effect of section 54); and no specific notice needs to be given to any person or authority.
 (3) In the absence of evidence to the contrary, it is sufficient proof that any asset or liability is vested in the Corporation if a person presents to a registrar or any other person an instrument, whether or not comprising an instrument of transfer,—
   (a) executed or purporting to be executed by or on behalf of the Corporation; and
@@ -433,7 +435,7 @@ On and after the vesting day,—
   (c) the company must be treated as an amalgamating company; and
   (d) the company must be treated as having ceased to exist on the vesting day.
 (2) If the assets and liabilities of an existing company vest in the Corporation under section 53,—
-  (a) section FO 12(1)(b) and (d) of the Income Tax Act 2007 must be treated as having been satisfied; and
+  (a) section FO 12(1)⁠(b) and (d) of the Income Tax Act 2007 must be treated as having been satisfied; and
   (b) for the purposes of section FE 10 of that Act, the company must be treated as having been solvent immediately before the vesting day.
 (3)
 (4) Subsections (1) and (2) apply as if the Corporation were a company within the meaning of the Companies Act 1993.
@@ -673,7 +675,7 @@ A transferred employee is not entitled to receive compensation for redundancy, o
 
 ### 41 Certain powers must not be delegated
 (1) Despite section 73 of the Crown Entities Act 2004, the Corporation must not delegate the power to grant a power of attorney.
-(2) Despite sections 73(4) and 74(1)(b)(i) of the Crown Entities Act 2004,—
+(2) Despite sections 73(4) and 74(1)⁠(b)⁠(i) of the Crown Entities Act 2004,—
   (a) the Corporation may delegate its general power of delegation to the chief executive; but
   (b) the chief executive may not further delegate that power.
 
