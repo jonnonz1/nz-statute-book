@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2014-05-11_
+_Consolidation as at 2015-05-28_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -88,7 +88,7 @@ In this Act, unless the context otherwise requires,—
     (b) includes those local switches or equivalent facilities
   - **fixed radio station** means radio apparatus comprising transmitters or receivers, or a combination of transmitters and receivers, installed at a fixed location, for the purposes of carrying on a radiocommunications service
   - **Forum** means the Telecommunications Industry Forum, which is a group that consists of at least 75% of all persons who are, for the time being, registered with the Commission for the purpose of voting on a draft code under clause 4 of Schedule 2
-  - **liability allocation determination** means a determination of the Commission prepared in accordance with section 87(1)(a)
+  - **liability allocation determination** means a determination of the Commission prepared in accordance with section 87(1)﻿(a)
   - **liable person** means a person who provides a telecommunications service in New Zealand by means of some component of a PTN that is operated by the person
   - **line** —
     (a) means a wire or a conductor of any other kind (including a fibre optic cable) used or intended to be used for the transmission or reception of signs, signals, impulses, writing, images, sounds, instruction, information, or intelligence of any nature by means of any electromagnetic system; and
@@ -115,9 +115,9 @@ In this Act, unless the context otherwise requires,—
   - **price** (except in subpart 6 of Part 2A) includes—
     (a) valuable consideration in any form, whether direct or indirect; and
     (b) any consideration that in effect relates to the acquisition of goods or services or the acquisition or disposition of any interest in land, even though it ostensibly relates to any other matter or thing
-  - **proposed addition** has the meaning set out in clause 8(1)(b) of Schedule 3
+  - **proposed addition** has the meaning set out in clause 8(1)﻿(b) of Schedule 3
   - **proposed alteration** has the meaning set out in clause 1(1) of Schedule 3
-  - **proposed omission** has the meaning set out in clause 8(1)(a) of Schedule 3
+  - **proposed omission** has the meaning set out in clause 8(1)﻿(a) of Schedule 3
   - **PSTN** or means a dial-up telephone network used, or intended for use, in whole or in part, by the public for the purposes of providing telecommunication between telephone devices
   - **PTN** or —
     (a) means a network used, or intended to be used, in whole or in part, by the public for the purpose of telecommunication:
@@ -154,7 +154,7 @@ In this Act, unless the context otherwise requires,—
   - **TSO** or means obligations in relation to a TSO instrument
   - **TSO charges** means the amounts payable to a TSO provider by the Crown under section 94L(1)
   - **TSO cost allocation determination** means a determination prepared by the Commission in accordance with sections 87 to 91
-  - **TSO cost calculation determination** means a determination of the Commission prepared in accordance with section 94J(1)(a)
+  - **TSO cost calculation determination** means a determination of the Commission prepared in accordance with section 94J(1)﻿(a)
   - **TSO instrument** or means—
     (a) an instrument that is declared to be a TSO instrument under section 70:
     (b) a deemed TSO instrument
@@ -194,7 +194,7 @@ This Act binds the Crown.
 (1) There must be a Telecommunications Commissioner.
 (2) The Telecommunications Commissioner is a member of the Commission as provided in section 9(3) of the Commerce Act 1986.
 (3) Subject to subsection (4), the Telecommunications Commissioner must be appointed by the Governor-General on the recommendation of the Minister.
-(3A) Subsection (3) applies despite section 28(1)(b) of the Crown Entities Act 2004.
+(3A) Subsection (3) applies despite section 28(1)﻿(b) of the Crown Entities Act 2004.
 (4) No person may be recommended for appointment as the Telecommunications Commissioner unless, in the opinion of the Minister, that person is qualified for appointment, having regard to the functions and powers of the Commission, whether under this Act or any other enactment.
 (5) For the purposes of subsection (4), a person is qualified for appointment by virtue of that person's knowledge of, or experience in, the telecommunications industry or any other industry, commerce, economics, law, accountancy, public administration, or consumer affairs.
 (6) Subsections (4) and (5) do not limit section 29 of the Crown Entities Act 2004.
@@ -204,7 +204,7 @@ This Act binds the Crown.
   (a) must monitor competition in telecommunications markets and the performance and development of telecommunications markets; and
   (b) may conduct inquiries, reviews, and studies (including international benchmarking) into any matter relating to the telecommunications industry or the long-term benefit of end-users of telecommunications services within New Zealand; and
   (c) must make available reports, summaries, and information about the things referred to in paragraphs (a) and (b).
-(2) The function in subsection (1)(c) does not require the Commission to release all documents that the Commission produces or acquires under this section.
+(2) The function in subsection (1)﻿(c) does not require the Commission to release all documents that the Commission produces or acquires under this section.
 
 ### 10 Performance of Commission's functions
 (1) Subject to subsection (2) and sections 15 and 17,—
@@ -224,7 +224,7 @@ This Act binds the Crown.
   (a) those functions must be performed by the chairperson of the Commission; and
   (b) every reference in this Act to the Telecommunications Commissioner must, unless the context otherwise requires, be read as a reference to the chairperson of the Commission.
 (3) The chairperson of the Commission is responsible for determining which members of the Commission, other than the Telecommunications Commissioner, must perform the functions referred to in subsection (1).
-(4) The quorum requirements in section 15(4) of the Commerce Act 1986 do not apply if the Telecommunications Commissioner is performing functions alone under section 10(1)(c)(i).
+(4) The quorum requirements in section 15(4) of the Commerce Act 1986 do not apply if the Telecommunications Commissioner is performing functions alone under section 10(1)﻿(c)﻿(i).
 
 **Levy**
 
@@ -246,7 +246,7 @@ This Act binds the Crown.
 (1) Every service provider, or class of service providers, specified in regulations made under subsection (3) must pay to the Minister, for the first financial year or part financial year (as the case may require), a levy of an amount stated in, or calculated or set or reset in accordance with, those regulations for, or in connection with,—
   (a) the preparation of the performance of, and the performance of, the Commission's functions and duties under this Act; and
   (b) the preparation of the exercise of, and the exercise of, the Commission's powers under this Act.
-(2) The levy for the first financial year or part financial year may include the costs incurred from 30 June 2001 by the Commission for, or in connection with, the matters set out in subsection (1)(a) or (b).
+(2) The levy for the first financial year or part financial year may include the costs incurred from 30 June 2001 by the Commission for, or in connection with, the matters set out in subsection (1)﻿(a) or (b).
 (3) Subsections (1) and (2) apply irrespective of the fact that the regulations are made and come into effect after the date on which the first financial year or part financial year commences.
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
   (a) specifying the amount of levy payable under this section:
@@ -293,9 +293,9 @@ The following provisions of the Commerce Act 1986 apply with any necessary modif
 ### 16 Application of section 98A of Commerce Act 1986
 A search warrant may be issued under section 98A(2) of the Commerce Act 1986, and powers may be exercised under that warrant, only for the purposes of—
   (a) ascertaining whether a person has done any of the following things:
-    (i) committed an offence against section 46(1)(b) or (c) or section 82(1) of this Act:
-    (ii) contravened section 103 (except subsection (1)(c)) of the Commerce Act 1986:
-  (b) obtaining information and documents that have been requested by the Commission under section 82(b) or 83(1)(a) of this Act or section 98 of the Commerce Act 1986 and that have not been provided within the required time.
+    (i) committed an offence against section 46(1)﻿(b) or (c) or section 82(1) of this Act:
+    (ii) contravened section 103 (except subsection (1)﻿(c)) of the Commerce Act 1986:
+  (b) obtaining information and documents that have been requested by the Commission under section 82(b) or 83(1)﻿(a) of this Act or section 98 of the Commerce Act 1986 and that have not been provided within the required time.
 
 ### 17 Telecommunications Commissioner to consent to delegation of some functions and powers of Commission
 If there is a Telecommunications Commissioner, the Telecommunications Commissioner's consent must be first obtained for the delegation, under section 73 of the Crown Entities Act 2004, of a function or power of the Commission that would normally be performed or exercised by the Telecommunications Commissioner.
@@ -344,8 +344,8 @@ An application by an access seeker or an access provider of a designated access 
   (c) that person has not made reasonable attempts to negotiate the terms of supply of the service with the person who would otherwise be a party to the determination; or
   (ca) the standard terms development process for the service is proceeding or a standard terms determination for the service is in force; or
   (d) the applicable conditions in relation to the service (if any) have not been met.
-(2) However, subsection (1)(ca) does not prevent a person from applying for a residual terms determination under section 30V.
-(3) The Commission may investigate whether subsection (1)(d) applies either at the time—
+(2) However, subsection (1)﻿(ca) does not prevent a person from applying for a residual terms determination under section 30V.
+(3) The Commission may investigate whether subsection (1)﻿(d) applies either at the time—
   (a) it receives an application made under section 20; or
   (b) it prepares a determination under section 27.
 (4) However, if the Commission is satisfied, at any time, that the applicable conditions in relation to the service have not been met, the Commission must discontinue—
@@ -386,7 +386,7 @@ On receiving an application made in accordance with section 23, the Commission m
   (b) give written notice of its decision to the parties:
   (c) give public notice of its decision:
   (d) request the parties to the determination to make submissions on the matter by written notice to the Commission not later than 10 working days after receipt of the notice from the Commission.
-(2) Subsection (1)(d) applies only if the Commission has decided under subsection (1)(a) to investigate the matter.
+(2) Subsection (1)﻿(d) applies only if the Commission has decided under subsection (1)﻿(a) to investigate the matter.
 
 **Consultation**
 
@@ -403,8 +403,8 @@ After investigating the matter, the Commission must—
 
 ### 28 When determination must be prepared
 (1) The Commission must make reasonable efforts to prepare a determination under section 27,—
-  (a) if the determination does not include the price payable for the supply of the service, not later than 40 working days after it gave written notice under section 25(1)(b); or
-  (b) if the determination includes the price payable for the supply of the service, not later than 50 working days after it gave written notice under section 25(1)(b).
+  (a) if the determination does not include the price payable for the supply of the service, not later than 40 working days after it gave written notice under section 25(1)﻿(b); or
+  (b) if the determination includes the price payable for the supply of the service, not later than 50 working days after it gave written notice under section 25(1)﻿(b).
 (2) If, despite making reasonable efforts, the Commission is unable to do the things set out in subsection (1) within the relevant time limit, the Commission must give to the parties concerned written reasons for not meeting the relevant time limit.
 
 ### 29 Requirements for determination
@@ -481,9 +481,9 @@ The Commission must give public notice that it has initiated the standard terms 
 (1) After giving public notice under section 30D and conducting a scoping workshop under section 30E, the Commission must—
   (a) give written notice to 1 or more access providers of the designated access service or specified service requiring them to submit to the Commission, by the date specified in the notice, a standard terms proposal that complies with section 30G; and
   (b) give public notice of that requirement.
-(2) The Commission may include in the written notice under subsection (1)(a) any additional requirements that it thinks fit to specify, having regard to any relevant matters (for example, the terms and conditions of any commercial agreement or regulated terms for any service in New Zealand or overseas).
-(3) An access provider of the designated access service or specified service to whom written notice is given under subsection (1)(a) must comply with the requirement or requirements contained in that notice.
-(4) The written notice under subsection (1)(a) must be accompanied by a copy of—
+(2) The Commission may include in the written notice under subsection (1)﻿(a) any additional requirements that it thinks fit to specify, having regard to any relevant matters (for example, the terms and conditions of any commercial agreement or regulated terms for any service in New Zealand or overseas).
+(3) An access provider of the designated access service or specified service to whom written notice is given under subsection (1)﻿(a) must comply with the requirement or requirements contained in that notice.
+(4) The written notice under subsection (1)﻿(a) must be accompanied by a copy of—
   (a) section 30G; and
   (b) any additional requirements that the Commission specifies under subsection (2).
 
@@ -497,7 +497,7 @@ The Commission must give public notice that it has initiated the standard terms 
   (d) be consistent with the description of the service in Part 2 or Part 3 of Schedule 1, as the case may be; and
   (e) be consistent with the applicable access principles and any limits on those applicable access principles; and
   (f) comply with any additional requirements that the Commission has specified under section 30F(2).
-(2) The terms referred to in subsection (1)(a)—
+(2) The terms referred to in subsection (1)﻿(a)—
   (a) must include the price payable for the supply of the service if that price has been determined in accordance with the applicable initial pricing principle or the applicable final pricing principle in a previous determination made under section 27; or
   (b) must not include that price if that is not the case.
 (3) The Commission may refuse to consider a standard terms proposal that—
@@ -508,7 +508,7 @@ The Commission must give public notice that it has initiated the standard terms 
 (1) If an access provider of a designated access service or specified service fails to submit, in response to a notice under section 30F, a standard terms proposal that complies with section 30G, the Commission may—
   (a) give written notice to another access provider, or an access seeker of the service requesting that access provider or, as the case may be, that access seeker to submit to the Commission, by a further date specified in the notice, a standard terms proposal that complies with section 30G:
   (b) prepare a draft standard terms determination under section 30K even though it has not received a standard terms proposal from an access provider or an access seeker of the service.
-(2) The written notice under subsection (1)(a) must be accompanied by a copy of—
+(2) The written notice under subsection (1)﻿(a) must be accompanied by a copy of—
   (a) section 30G; and
   (b) any additional requirements that the Commission specifies under section 30F(2).
 
@@ -550,7 +550,7 @@ If the Commission considers that persons other than the parties to the determina
 **Standard terms determination**
 
 ### 30M Standard terms determination
-(1) As soon as practicable after completing any consultation or conferences under section 30L, or if there is no consultation or there are no conferences, after the closing date for submissions under section 30K(1)(e), the Commission must—
+(1) As soon as practicable after completing any consultation or conferences under section 30L, or if there is no consultation or there are no conferences, after the closing date for submissions under section 30K(1)﻿(e), the Commission must—
   (a) prepare a standard terms determination; and
   (b) provide a copy of the standard terms determination to all parties to the determination; and
   (c) give public notice of the standard terms determination.
@@ -562,7 +562,7 @@ If the Commission considers that persons other than the parties to the determina
     (i) terms of general application to all the services to which the standard terms determination relates; and
     (ii) a separate schedule for each of those services that includes terms of specific application to that service; or
   (b) a separate standard terms determination for each designated access service or specified service.
-(2) Instead of preparing a standard terms determination in each case, the Commission may also comply with section 30M(a) by adding a separate schedule that contains terms of specific application to a particular designated access service or specified service to an existing standard terms determination of the kind referred to in subsection (1)(a).
+(2) Instead of preparing a standard terms determination in each case, the Commission may also comply with section 30M(a) by adding a separate schedule that contains terms of specific application to a particular designated access service or specified service to an existing standard terms determination of the kind referred to in subsection (1)﻿(a).
 
 ### 30O Matters to be included in standard terms determination: general
 (1) A standard terms determination must—
@@ -655,7 +655,7 @@ A standard terms determination must not include an expiry date for the determina
   (c) that person has previously applied for a residual terms determination for the service and it is less than 18 months since the date on which that determination was made; or
   (d) it is less than 18 months since the date on which the access provider began to supply the service on the terms specified in the standard terms determination in accordance with a request made by the access seeker under section 30S(1); or
   (e) the applicable conditions in relation to the service (if any) have not been met.
-(2) However, subsection (1)(d) does not prevent an access seeker from applying for a residual terms determination at any time before the access provider begins to supply the service on the terms specified in a standard terms determination in accordance with a request made by the access seeker under section 30S(1).
+(2) However, subsection (1)﻿(d) does not prevent an access seeker from applying for a residual terms determination at any time before the access provider begins to supply the service on the terms specified in a standard terms determination in accordance with a request made by the access seeker under section 30S(1).
 
 ### 30X Requirements for application
 An application made under section 30V must—
@@ -676,7 +676,7 @@ On receiving an application made in accordance with section 30X, the Commission 
   (b) give written notice of its decision to the parties:
   (c) give public notice of its decision:
   (d) request the parties to the residual terms determination to make submissions on the matter by written notice to the Commission not later than 10 working days after receipt of the notice of decision from the Commission.
-(2) Subsection (1)(d) applies only if the Commission has decided under subsection (1)(a) to investigate the matter.
+(2) Subsection (1)﻿(d) applies only if the Commission has decided under subsection (1)﻿(a) to investigate the matter.
 
 ### 30ZA Consultation or conferences
 If the Commission considers that persons other than the parties to the determination have a material interest in the residual terms determination, the Commission may either consult those persons or hold conferences in relation to the matter.
@@ -768,7 +768,7 @@ The Commission must make reasonable efforts to do the following things not later
   (d) the terms and conditions on which the determination is proposed to be made; and
   (e) the actions (if any) that a party to the determination must do or refrain from doing; and
   (f) the proposed expiry date of the determination.
-(2) Subsection (1)(a) applies only to the extent that the matters referred to in that paragraph have not already been provided for in an approved code.
+(2) Subsection (1)﻿(a) applies only to the extent that the matters referred to in that paragraph have not already been provided for in an approved code.
 
 ### 38 Consultation, conferences, or public hearing
 The Commission may consult with interested parties, hold conferences, or, if it is satisfied that it is in the public interest to do so, hold a public hearing, in relation to a draft designated multinetwork service determination.
@@ -776,7 +776,7 @@ The Commission may consult with interested parties, hold conferences, or, if it 
 **Determination**
 
 ### 39 Determination
-As soon as practicable after completing any consultation, conferences, or any public hearing under section 38, or if there is no consultation, conferences, or public hearing, after the closing date for submissions under section 36(1)(d)(i), the Commission must,—
+As soon as practicable after completing any consultation, conferences, or any public hearing under section 38, or if there is no consultation, conferences, or public hearing, after the closing date for submissions under section 36(1)﻿(d)﻿(i), the Commission must,—
   (a) prepare a determination; and
   (b) give a copy of the determination to all the parties to the determination; and
   (c) give public notice of the determination.
@@ -791,14 +791,14 @@ As soon as practicable after completing any consultation, conferences, or any pu
   (f) the terms and conditions (if any) on which the determination is made; and
   (g) the actions (if any) that a party to the determination must do or refrain from doing; and
   (h) the expiry date of the determination.
-(2) Subsection (1)(a) applies only to the extent that the matters referred to in that paragraph have not already been provided for in an approved code.
+(2) Subsection (1)﻿(a) applies only to the extent that the matters referred to in that paragraph have not already been provided for in an approved code.
 
 ### 41 Determinations not invalid for certain failures
 (1) If the Commission omits to do any of the things listed in subsection (2), that omission does not in any way affect the validity of the determination to which the omission relates.
 (2) The things referred to in subsection (1) are as follows:
   (a) to notify any party to a determination under section 34(a):
   (b) to provide a copy of an application for a determination to an access provider under section 34(b):
-  (c) to give a copy of the draft determination to a party to the determination under section 36(1)(b):
+  (c) to give a copy of the draft determination to a party to the determination under section 36(1)﻿(b):
   (d) to give a copy of the determination to a party under section 39(b).
 
 ### Subpart 4 — Pricing review determinations for designated access services
@@ -807,7 +807,7 @@ As soon as practicable after completing any consultation, conferences, or any pu
 
 ### 42 Application
 (1) If a determination is made under section 27 or section 30M regarding the price payable for a designated access service, a party to the determination may apply for a review of that part of the determination that relates to the price to be paid for the service.
-(1A) However, subsection (1) does not apply in relation to a determination made under section 30M if the price to be paid for the service was included in that determination under section 30P(1)(a).
+(1A) However, subsection (1) does not apply in relation to a determination made under section 30M if the price to be paid for the service was included in that determination under section 30P(1)﻿(a).
 (2) A determination made under section 27 or section 30M continues to have effect and is enforceable pending the making of a pricing review determination.
 (3) A party to a determination made under section 27 or section 30M that relates to the price payable for a designated access service may apply for a review of any discount specified in the applicable initial pricing principle for the service.
 (4) Subsections (2) and (3) are for the avoidance of doubt.
@@ -1150,12 +1150,12 @@ Telecom and Chorus must each collect and retain information relating to the oper
 (3) The Commission must give written notice of each decision to each party affected by the decision.
 
 ### 69L Application of pecuniary penalty provisions
-(1) Sections 156L and 156M apply to a party to a sharing arrangement who, without reasonable excuse, fails to rectify a non-compliance, or fails to comply with an amendment direction, in respect of which the Commission decides to take enforcement action under section 69K(2)(c).
+(1) Sections 156L and 156M apply to a party to a sharing arrangement who, without reasonable excuse, fails to rectify a non-compliance, or fails to comply with an amendment direction, in respect of which the Commission decides to take enforcement action under section 69K(2)﻿(c).
 (2) See sections 156L(3) and 156M for the maximum penalty of $10 million (and $500,000 per day) for breach of this section.
 
 ### 69M Injunction may be granted by High Court
 (1) If the High Court is satisfied that a non-compliance has not been rectified within 40 working days after the date of a non-compliance notice under section 69I, the court may, on the application of the Commission, grant an injunction restraining Telecom and Chorus from further performing the sharing arrangement or engaging in any conduct for the purpose of giving effect to that arrangement.
-(2) If the High Court is satisfied that there has been a failure to comply with a direction of the Commission given under section 69K(2)(a), the court may, on the application of the Commission, grant an injunction requiring Telecom and Chorus to comply with the direction of the Commission.
+(2) If the High Court is satisfied that there has been a failure to comply with a direction of the Commission given under section 69K(2)﻿(a), the court may, on the application of the Commission, grant an injunction requiring Telecom and Chorus to comply with the direction of the Commission.
 (3) In any proceeding under this section, the Commission, on the order of the court, may obtain discovery and administer interrogatories.
 (4) The court may at any time rescind or vary an order made under this section.
 
@@ -1228,7 +1228,7 @@ Sections 69V (injunctions) and 156B (enforcement actions) apply to Chorus, and a
   (b) a person is not able to exert a substantial degree of influence over another person merely because—
     (i) those persons are in competition in the same market; or
     (ii) one of them supplies goods or services to the other.
-(3) Any sharing of assets, services, and systems between Chorus and Telecom must be disregarded for the purposes of applying subsection (1) to the extent that it is provided for in a sharing arrangement of which a copy has been provided to the Commission under section 69F(1)(a) or (b)(ii).
+(3) Any sharing of assets, services, and systems between Chorus and Telecom must be disregarded for the purposes of applying subsection (1) to the extent that it is provided for in a sharing arrangement of which a copy has been provided to the Commission under section 69F(1)﻿(a) or (b)﻿(ii).
 (4) Without limiting section 69O, Chorus is deemed to participate in the supply of a telecommunications service if a related party of Chorus participates in the supply of the telecommunications service.
 (5) The order of responsibility for remedying breaches is, to the extent practical, that the breach must be remedied first by the party whose activity resulted in the breach.
 
@@ -1342,11 +1342,11 @@ Section 156AO applies with necessary modifications to undertakings under this su
   (a) designations that are to be transferred to Chorus:
   (b) designations that are to be additionally granted back to Telecom.
 (2) On separation day,—
-  (a) all the rights and responsibilities of Telecom in relation to the designations listed in a Gazette notice under subsection (1)(a), as they existed immediately before separation day, are transferred to Chorus for the purposes of section 180 of the Resource Management Act 1991; and
-  (b) the designations listed in a Gazette notice under subsection (1)(b), as they existed immediately before separation day, are (in addition to being transferred to Chorus) granted back to Telecom, with the effect that, subject to subsection (3), Telecom continues to have the same rights and responsibilities as Chorus in relation to the designations.
+  (a) all the rights and responsibilities of Telecom in relation to the designations listed in a Gazette notice under subsection (1)﻿(a), as they existed immediately before separation day, are transferred to Chorus for the purposes of section 180 of the Resource Management Act 1991; and
+  (b) the designations listed in a Gazette notice under subsection (1)﻿(b), as they existed immediately before separation day, are (in addition to being transferred to Chorus) granted back to Telecom, with the effect that, subject to subsection (3), Telecom continues to have the same rights and responsibilities as Chorus in relation to the designations.
 (3) For the purposes of section 177 of the Resource Management Act 1991,—
-  (a) the designations transferred to Chorus under subsection (2)(a) are treated as earlier designations; and
-  (b) the additional designations granted to Telecom under subsection (2)(b) are treated as later designations.
+  (a) the designations transferred to Chorus under subsection (2)﻿(a) are treated as earlier designations; and
+  (b) the additional designations granted to Telecom under subsection (2)﻿(b) are treated as later designations.
 (4) Part 8 of the Resource Management 1991 applies with necessary modifications as if the designations had been transferred or made under that Part.
 
 **Restrictive covenants**
@@ -1414,8 +1414,8 @@ The purpose of this subpart is to ensure that––
   (a) acquiring the relevant ChorusCo share or shares at the same time and for the same purposes as the Telecom Corporation of New Zealand Limited share or shares that give rise to that person's entitlement to the demerger distribution:
   (b) having paid the amount given by subsection (4) for the acquisition of the ChorusCo share or shares:
   (c) having paid the amount given by subsection (5) for the acquisition of the Telecom Corporation of New Zealand Limited share or shares.
-(4) For the purposes of subsection (3)(b), the amount paid for the acquisition is calculated using the following formula:pre-calculation amount paid×Chorus mvcombined mv
-(5) For the purposes of subsection (3)(c), the amount paid for the acquisition is calculated using the following formula:pre-calculation amount paid×Telecom mvcombined mv
+(4) For the purposes of subsection (3)﻿(b), the amount paid for the acquisition is calculated using the following formula:The following table contains a formulapre-calculation amount paid× Chorus mvcombined mv
+(5) For the purposes of subsection (3)﻿(c), the amount paid for the acquisition is calculated using the following formula:The following table contains a formulapre-calculation amount paid× Telecom mvcombined mv
 (6) In the formulas in subsections (4) and (5),––
   (a) pre-calculation amount paid is the person's expenditure or loss incurred in acquiring the relevant Telecom Corporation of New Zealand Limited share or shares, ignoring this section:
   (b) Chorus mv is the market capitalisation of ChorusCo calculated in the manner prescribed in a proposal approved by Order in Council under section 46 of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011, or, if none is prescribed, the number of ChorusCo shares on issue immediately following the demerger distribution multiplied by the volume weighted average price of ChorusCo shares as traded on the NZSX over the first 5 trading days commencing on the date of listing of ChorusCo:
@@ -1547,7 +1547,7 @@ In this Part, unless the context otherwise requires,—
   (i) provide for transitional provisions:
   (j) make requirements from time to time (for example, more than once a year):
   (k) make requirements in respect of all or part of the relevant business.
-(2) Subsection (1)(j) does not limit section 16 of the Interpretation Act 1999.
+(2) Subsection (1)﻿(j) does not limit section 16 of the Interpretation Act 1999.
 
 ### 69ZE Publication of Commission's information disclosure requirements
 The Commission must give public notice of requirements made under this Part.
@@ -1556,7 +1556,7 @@ The Commission must give public notice of requirements made under this Part.
 (1) Every person who is required under this Part to disclose information must supply to the Commission—
   (a) a copy of all information disclosed under this Part, which must be supplied within 5 working days after the information is first disclosed under this Part; and
   (b) any further statements, reports, agreements, particulars, and other information requested in writing by the Commission for the purpose of monitoring the person's compliance with the requirements made under this Part.
-(2) Every person to whom a request is made under subsection (1)(b) must comply with that request within the period specified by the Commission.
+(2) Every person to whom a request is made under subsection (1)﻿(b) must comply with that request within the period specified by the Commission.
 (3) The Commission may require all or any statements, reports, agreements, particulars, and other information supplied under subsection (1) to be either or both—
   (a) audited:
   (b) verified by statutory declaration by the persons and in the form required by the Commission.
@@ -1625,7 +1625,7 @@ A variation of—
   (a) in the case of an instrument that is declared to be a TSO instrument under section 70, if the Governor-General, by Order in Council made on the recommendation of the Minister, revokes the declaration of that TSO instrument; or
   (b) in the case of a deemed TSO instrument, on a date appointed by the Governor-General by Order in Council made on the recommendation of the Minister; or
   (c) if the instrument is terminated in accordance with its terms.
-(2) The Minister must not make a recommendation under subsection (1)(a) or (b) unless,—
+(2) The Minister must not make a recommendation under subsection (1)﻿(a) or (b) unless,—
   (a) in the case of an instrument that is declared to be a TSO instrument under section 70, the service provider to whom that instrument applies agrees to the revocation of the declaration; or
   (b) in the case of a deemed TSO instrument, the service provider to whom that instrument applies agrees to that instrument ceasing to have effect as a deemed TSO instrument.
 
@@ -1645,7 +1645,7 @@ Part 2 of the Commerce Act 1986 does not apply in respect of a TSO instrument or
   (c) all of them are associates of each other; or
   (d) one of them owns or controls shares that in the aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the others; or
   (e) a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
-(2) For the purposes of subsection (1)(c), a body corporate is an associate of another if that body corporate is able, whether directly or indirectly, to exert a substantial degree of influence over the activities of the other.
+(2) For the purposes of subsection (1)﻿(c), a body corporate is an associate of another if that body corporate is able, whether directly or indirectly, to exert a substantial degree of influence over the activities of the other.
 (3) A body corporate is not able to exert a substantial degree of influence over another body corporate for the purposes of subsection (2) just because—
   (a) those bodies corporate are in competition in the same market; or
   (b) one of them supplies goods or services to the other.
@@ -1659,7 +1659,7 @@ In this subpart, unless the context otherwise requires,—
   - **financial statements** ,—
   (a) except if section 79 applies, has the same meaning as in section 6 of the Financial Reporting Act 2013; and
   (b) if section 79 applies, means a consolidated statement of financial performance of the 2 or more bodies corporate required by that section to be treated as 1 person, prepared in accordance with generally accepted accounting practice, as defined in section 8 of the Financial Reporting Act 2013
-  - **minimum telecommunications revenue** means $10 million, or such other amount, as may be prescribed by regulations made under section 101(1)(a), of gross revenue (as may be determined in accordance with any specifications set by the Commission) that a liable person receives during a financial year for supplying either or both of the following (excluding any amount paid to a liable person by the Crown as compensation for the cost of complying with a TSO instrument that contains a specified amount):
+  - **minimum telecommunications revenue** means $10 million, or such other amount, as may be prescribed by regulations made under section 101(1)﻿(a), of gross revenue (as may be determined in accordance with any specifications set by the Commission) that a liable person receives during a financial year for supplying either or both of the following (excluding any amount paid to a liable person by the Crown as compensation for the cost of complying with a TSO instrument that contains a specified amount):
     (a) telecommunications services by means of its PTN:
     (b) telecommunications services by means that rely primarily on the existence of its PTN or any other PTN.
 
@@ -1690,7 +1690,7 @@ Not later than 60 working days before the end of each financial year (financial 
   (b) a report that complies with subsection (2).
 (2) A report complies with this subsection if—
   (a) it is prepared by a qualified auditor; and
-  (b) it includes a statement of the extent to which the information provided by the liable person under subsection (1)(a) is correct and complete.
+  (b) it includes a statement of the extent to which the information provided by the liable person under subsection (1)﻿(a) is correct and complete.
 
 ### 84 Commission to prepare draft liability allocation determination
 (1) The Commission must—
@@ -1704,10 +1704,10 @@ Not later than 60 working days before the end of each financial year (financial 
 ### 85 Matters to be included in draft liability allocation determination
 (1) A draft liability allocation determination must include—
   (a) the amount of each liable person's qualified revenue; and
-  (b) the amount of the telecommunications development levy payable by each liable person for the financial year, calculated in accordance with the following formula:a×cbwhere—ais the amount of the liable person's qualified revenuebis the sum of all liable persons' qualified revenuecis the telecommunications development levy specified for the relevant year in Schedule 3B; and
+  (b) the amount of the telecommunications development levy payable by each liable person for the financial year, calculated in accordance with the following formula:The following table is small and contains a formula.a× cbwhere—ais the amount of the liable person's qualified revenuebis the sum of all liable persons' qualified revenuecis the telecommunications development levy specified for the relevant year in Schedule 3B; and
   (c) the methodology applied by the Commission in preparing the determination; and
   (d) the reasons for the determination.
-(2) To avoid doubt, the Commission may determine what revenue basis to use for the purposes of subsection (1)(a) (for example, a net revenue basis).
+(2) To avoid doubt, the Commission may determine what revenue basis to use for the purposes of subsection (1)﻿(a) (for example, a net revenue basis).
 
 **General provision relating to TSO cost allocation determination and TSO cost calculation determination**
 
@@ -1723,12 +1723,12 @@ The Commission may—
   (a) prepare a final liability allocation determination; and
   (b) give public notice of that final determination; and
   (c) give a copy of that final determination to all liable persons.
-(2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 20 working days after the closing date for submissions specified in accordance with section 84(1)(c).
+(2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 20 working days after the closing date for submissions specified in accordance with section 84(1)﻿(c).
 
 ### 88 Matters to be included in final liability allocation determination
 A final liability allocation determination must include—
   (a) the amount of each liable person's qualified revenue; and
-  (b) the amount of the telecommunications development levy payable by each liable person, calculated in accordance with the formula set out in section 85(1)(b); and
+  (b) the amount of the telecommunications development levy payable by each liable person, calculated in accordance with the formula set out in section 85(1)﻿(b); and
   (c) the methodology applied by the Commission in preparing the determination; and
   (d) the reasons for the determination.
 
@@ -1747,12 +1747,12 @@ A final liability allocation determination must include—
   (b) to pay for non-urban telecommunications infrastructure development:
   (c) to pay for upgrades to the emergency service calling system:
   (d) any other purpose that the Minister considers will facilitate the supply of certain telecommunications services to groups of end-users within New Zealand to whom those telecommunications services may not otherwise be supplied on a commercial basis or at a price that is considered by the Minister to be affordable to those groups of end-users.
-(2) The telecommunications development levy must not be used for a purpose under subsection (1)(d) unless the Minister has first consulted liable persons and any persons and organisations that the Minister considers appropriate having regard to the proposed use of the levy.
+(2) The telecommunications development levy must not be used for a purpose under subsection (1)﻿(d) unless the Minister has first consulted liable persons and any persons and organisations that the Minister considers appropriate having regard to the proposed use of the levy.
 (3) To avoid doubt, except as provided in section 94L, nothing in this section requires the Crown to use any amount paid by liable persons under section 89 within any particular time.
 
 ### 91 Commission must notify final liability allocation determination before notifying TSO cost calculation determination
 (1) The Commission may determine the priority between the preparation of a liability allocation determination and the preparation of a TSO cost calculation determination and, accordingly, may comply with sections 84 to 88 and sections 94F to 94K in the sequence, as between those 2 sets of sections, as it thinks fit.
-(2) However, the Commission must publicly notify a final liability allocation determination for each financial year in accordance with section 87(1)(b) before it publicly notifies any final TSO cost calculation determination for that financial year in accordance with section 94J(1)(b).
+(2) However, the Commission must publicly notify a final liability allocation determination for each financial year in accordance with section 87(1)﻿(b) before it publicly notifies any final TSO cost calculation determination for that financial year in accordance with section 94J(1)﻿(b).
 
 **TSO cost calculation determination**
 
@@ -1807,7 +1807,7 @@ Not later than 60 working days after the end of each financial year, the Commiss
 
 ### 94B Withdrawal of request for TSO cost calculation determination
 (1) A TSO provider who notifies the Commission under section 94 may subsequently withdraw its request for a TSO cost calculation determination.
-(2) The withdrawal must be made by submitting a notice in writing to the Commission before the Commission publicly notifies its final TSO cost calculation determination under section 94J(1)(b).
+(2) The withdrawal must be made by submitting a notice in writing to the Commission before the Commission publicly notifies its final TSO cost calculation determination under section 94J(1)﻿(b).
 (3) A TSO provider who withdraws a request for a TSO cost calculation determination must pay the costs of the Commission (including the costs of any expert advice) relating to as much of the procedure in sections 94F to 94K as has been undertaken in preparing the determination before the withdrawal, as directed by the Commission in writing.
 (4) Section 94A(2) and (3) apply to the enforcement of the direction.
 
@@ -1836,7 +1836,7 @@ If a TSO provider under a TSO instrument that does not contain a specified amoun
   (a) may choose not to include profits from any new telecommunications services that involve significant capital investment and that offer capabilities not available from established telecommunications services; and
   (b) must not include any losses from telecommunications services other than services that the TSO instrument requires the TSO provider to provide; and
   (c) must consider the purpose set out in section 18.
-(4) In calculating the net cost under section 94D, the TSO provider must comply with any requirements of the Commission relating to the application of subsection (3)(a) to (c).
+(4) In calculating the net cost under section 94D, the TSO provider must comply with any requirements of the Commission relating to the application of subsection (3)﻿(a) to (c).
 (5) In this section,—
   - **established telecommunications services** means telecommunications services that are not new telecommunications services
   - **new telecommunications services** means telecommunications services that were first provided in New Zealand within 5 years before the start of the financial year to which the calculation of the net cost relates.
@@ -1855,7 +1855,7 @@ If a TSO provider under a TSO instrument that does not contain a specified amoun
   (a) may choose not to include profits from any new telecommunications services that involve significant capital investment and that offer capabilities not available from established telecommunications services; and
   (b) must not include any losses from telecommunications services other than services that the TSO instrument requires the TSO provider to provide; and
   (c) must consider the purpose set out in section 18.
-(3) In calculating net revenue under section 94EA, the TSO provider must comply with any requirements of the Commission relating to the application of subsection (2)(a) to (c).
+(3) In calculating net revenue under section 94EA, the TSO provider must comply with any requirements of the Commission relating to the application of subsection (2)﻿(a) to (c).
 (4) In this section, established telecommunications services and new telecommunications services have the same meanings as in section 94E.
 
 ### 94F Commission to prepare draft TSO cost calculation determination
@@ -1882,7 +1882,7 @@ A draft TSO cost calculation determination must include,—
   (e) the reasons for the determination.
 
 ### 94H Requirements for draft TSO cost calculation determination
-In preparing a draft TSO cost calculation determination of the matters referred to in section 94G(c), the Commission must consider the steps taken (if any) by the TSO provider to remedy any non-compliance by the TSO provider with the TSO instrument between the date the TSO provider was notified of the non-compliance under section 93(b) and the date that is 15 working days before public notice is given under section 94F(1)(b).
+In preparing a draft TSO cost calculation determination of the matters referred to in section 94G(c), the Commission must consider the steps taken (if any) by the TSO provider to remedy any non-compliance by the TSO provider with the TSO instrument between the date the TSO provider was notified of the non-compliance under section 93(b) and the date that is 15 working days before public notice is given under section 94F(1)﻿(b).
 
 ### 94I Conferences on draft TSO cost calculation determination
 The Commission may—
@@ -1894,7 +1894,7 @@ The Commission may—
   (a) prepare a final TSO cost calculation determination; and
   (b) give public notice of that final determination; and
   (c) give a copy of that final determination to the Minister, all liable persons, and the TSO providers in relation to the TSO instrument.
-(2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 40 working days after the closing date for submissions specified in accordance with section 94F(1)(c).
+(2) The Commission must make reasonable efforts to do the things referred to in subsection (1) not later than 40 working days after the closing date for submissions specified in accordance with section 94F(1)﻿(c).
 (3) This section is subject to sections 94 and 94C.
 
 ### 94K Matters to be included in final TSO cost calculation determination
@@ -1916,12 +1916,12 @@ The Commission may—
   (e) the amount payable by the Crown to the TSO provider in relation to the TSO instrument for the loss of use of the amount referred to in paragraph (d), calculated at the 90-day bank bill rate (as at the date of the final determination) for the period commencing from the end of the financial year and ending with the date of the final TSO cost calculation determination; and
   (f) the methodology used by the Commission in preparing the determination; and
   (g) the reasons for the determination.
-(2) To avoid doubt, if the calculation under subsection (1)(a) or (b) results in a figure that is zero or less, the amount for the purposes of subsection (1)(d) and (e), and that must be included in the determination, is zero.
+(2) To avoid doubt, if the calculation under subsection (1)﻿(a) or (b) results in a figure that is zero or less, the amount for the purposes of subsection (1)﻿(d) and (e), and that must be included in the determination, is zero.
 
 ### 94L Payment by the Crown to TSO provider
 (1) The Crown must pay to the TSO provider, not later than 30 working days after the date that the final TSO cost calculation determination is publicly notified,—
-  (a) the amount set out in the final TSO cost calculation determination in accordance with section 94K(1)(d); and
-  (b) the amount set out in the final TSO cost calculation determination in accordance with section 94K(1)(e).
+  (a) the amount set out in the final TSO cost calculation determination in accordance with section 94K(1)﻿(d); and
+  (b) the amount set out in the final TSO cost calculation determination in accordance with section 94K(1)﻿(e).
 (2) If the Crown does not pay the total of the amounts referred to in subsection (1) on or before the due date, the Crown must pay the TSO provider interest on the unpaid amount at the 90-day bank bill rate (as at 31 working days after the date on which the final cost calculation determination is publicly notified) plus 5% for the period from the time the amount was due until the time at which it is paid.
 
 ### Subpart 3 — Remedies and miscellaneous
@@ -1958,7 +1958,7 @@ None of the following prevents the court from making an order under section 96:
 (1) The following persons and (as applicable) the Crown may appeal to the High Court against the following matters:
   (a) a liable person, against a determination of the Commission, in relation to that person, of the matter referred to in section 88(a):
   (b) a TSO provider, against a direction of the Commission under section 94A(1) or 94B(3):
-  (c) a liable person, TSO provider, or the Crown, against a determination of the Commission in respect of a matter referred to in section 94K(1)(a) to (g).
+  (c) a liable person, TSO provider, or the Crown, against a determination of the Commission in respect of a matter referred to in section 94K(1)﻿(a) to (g).
 (2) An appeal under subsection (1) may be on a question of law only.
 (3) If an appeal or judicial review proceedings are commenced about a liability allocation determination, TSO cost calculation determination, or direction under section 94A(1), the determination or direction continues to have effect and is enforceable as if the proceedings had not been commenced until the proceedings are finally disposed of.
 (4) To avoid doubt, the obligations to pay money imposed by sections 89 and 94L continue to have effect and are enforceable despite any appeal or judicial review proceedings about a determination that relates to those payments, until the proceedings are finally disposed of.
@@ -2002,7 +2002,7 @@ For a determination made under this Part, the Commission—
     (i) the person who supplied it has advised is confidential; or
     (ii) may reasonably be regarded as confidential; and
   (c) the inclusion of that information does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
-(2) However, if the Commission considers that compliance with subsection (1)(a) will, or is likely to, prejudice compliance with subsection (1)(b) or (c), the Commission—
+(2) However, if the Commission considers that compliance with subsection (1)﻿(a) will, or is likely to, prejudice compliance with subsection (1)﻿(b) or (c), the Commission—
   (a) may aggregate the information before it is included under section 100B; and
   (b) may do so in any manner that it thinks fit.
 (3) In complying with section 100BA, the Commission must ensure that satisfactory provision exists to protect the confidentiality of any information that may reasonably be regarded as confidential or commercially sensitive.
@@ -2010,22 +2010,22 @@ For a determination made under this Part, the Commission—
 ### 101 Regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
   (a) determine the amount of the minimum telecommunications revenue for the purposes of section 80:
-  (b) prescribe the information that must be provided to the Commission under section 83(1)(a):
-  (c) provide for the appointment of auditors who may make an auditor's report under section 83(1)(b) or 94D(1)(b):
-  (d) prescribe requirements to which section 94D(1)(b)(i) applies:
-  (da) prescribe requirements to which section 94EA(2)(b)(i) applies:
+  (b) prescribe the information that must be provided to the Commission under section 83(1)﻿(a):
+  (c) provide for the appointment of auditors who may make an auditor's report under section 83(1)﻿(b) or 94D(1)﻿(b):
+  (d) prescribe requirements to which section 94D(1)﻿(b)﻿(i) applies:
+  (da) prescribe requirements to which section 94EA(2)﻿(b)﻿(i) applies:
   (e) provide for any methods for all or any of the following:
-    (i) preparing a draft determination of the amount of qualified revenue referred to in section 85(1)(a):
+    (i) preparing a draft determination of the amount of qualified revenue referred to in section 85(1)﻿(a):
     (ii) determining the amount of qualified revenue referred to in section 88(a):
     (iii) calculating the net cost under section 94D:
     (iiia) calculating the net revenue under section 94EA:
     (iv) preparing a draft determination of the net cost referred to in section 94G(a):
-    (v) determining the net cost referred to in section 94K(1)(a).
-(2) The Minister must not make a recommendation under subsection (1)(b) to (e) unless—
+    (v) determining the net cost referred to in section 94K(1)﻿(a).
+(2) The Minister must not make a recommendation under subsection (1)﻿(b) to (e) unless—
   (a) the Commission has consulted every liable person; and
   (b) the Commission has recommended that the regulations be made.
-(3) The Minister must not recommend the making of regulations under subsection (1)(a) unless the Minister is satisfied that, if the regulations were made, the minimum telecommunications revenue under those regulations would not exceed the maximum telecommunications revenue threshold.
-(4) In this section, maximum telecommunications revenue threshold means the amount calculated in accordance with the following formula:a×cbwhere—ais the CPI index number for the last quarter before the Minister's recommendation would be madebis the CPI index number for the last quarter before the date of commencement of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011cis $10 million.
+(3) The Minister must not recommend the making of regulations under subsection (1)﻿(a) unless the Minister is satisfied that, if the regulations were made, the minimum telecommunications revenue under those regulations would not exceed the maximum telecommunications revenue threshold.
+(4) In this section, maximum telecommunications revenue threshold means the amount calculated in accordance with the following formula:The following table is small and contains a formula.a× cbwhere—ais the CPI index number for the last quarter before the Minister's recommendation would be madebis the CPI index number for the last quarter before the date of commencement of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011cis $10 million.
 
 ### 101A Review of local service TSO arrangements
 (1) The chief executive of the Ministry must,—
@@ -2064,7 +2064,7 @@ For a determination made under this Part, the Commission—
   (c) all of them are associates of each other; or
   (d) one of them owns or controls shares that in the aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the others; or
   (e) a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
-(4) For the purposes of subsection (3)(c), a body corporate is an associate of another if that body corporate is able, whether directly or indirectly, to exert a substantial degree of influence over the activities of the other.
+(4) For the purposes of subsection (3)﻿(c), a body corporate is an associate of another if that body corporate is able, whether directly or indirectly, to exert a substantial degree of influence over the activities of the other.
 (5) A body corporate is not able to exert a substantial degree of influence over another body corporate for the purposes of subsection (4) just because—
   (a) those bodies corporate are in competition in the same market; or
   (b) one of them supplies goods or services to the other.
@@ -2109,9 +2109,9 @@ The Minister must revoke a declaration if the Minister is satisfied that a netwo
 
 ### 109 Regulations
 The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
-  (a) providing for procedures and requirements relating to the publication of applicable standards under section 108(2)(b):
-  (b) providing for procedures and requirements that relate to recognising a body as a competent conformity assessment body for the purposes of assessing compliance with applicable standards under section 108(2)(c):
-  (c) providing for procedures and requirements that relate to assessing compliance with applicable standards under section 108(2)(c):
+  (a) providing for procedures and requirements relating to the publication of applicable standards under section 108(2)﻿(b):
+  (b) providing for procedures and requirements that relate to recognising a body as a competent conformity assessment body for the purposes of assessing compliance with applicable standards under section 108(2)﻿(c):
+  (c) providing for procedures and requirements that relate to assessing compliance with applicable standards under section 108(2)﻿(c):
   (d) providing for any other matters contemplated by section 108, necessary for its administration, or necessary for giving it full effect.
 
 ### 110 Actions for damages for contravention of section 106
@@ -2137,7 +2137,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (2) In this section, major supplier—
   (a) means Telecom; and
   (b) includes a person who is declared by the Governor-General, by Order in Council made on the recommendation of the Minister, to be a major supplier for the purposes of this section.
-(3) The Minister must not make a recommendation under subsection (2)(b) unless the Minister is satisfied that the proposed order to which the recommendation relates is necessary to facilitate New Zealand's compliance with its international obligations.
+(3) The Minister must not make a recommendation under subsection (2)﻿(b) unless the Minister is satisfied that the proposed order to which the recommendation relates is necessary to facilitate New Zealand's compliance with its international obligations.
 
 **Misuse of network**
 
@@ -2192,7 +2192,7 @@ In this subpart, evidence of authority, in relation to an officer, employee, or 
 (2) To avoid doubt, subsection (1) does not apply to notices given in any proceedings in a court.
 
 ### 119 Criteria for setting reasonable conditions
-(1) In setting, varying, or revoking reasonable conditions under section 135(2) or section 142(2)(b), the local authority or other person who has jurisdiction over the road concerned may consider all or any of the following matters:
+(1) In setting, varying, or revoking reasonable conditions under section 135(2) or section 142(2)﻿(b), the local authority or other person who has jurisdiction over the road concerned may consider all or any of the following matters:
   (a) the safe and efficient flow of traffic (whether pedestrian or vehicular):
   (b) the health and safety of any person who is, or class of persons who are, likely to be directly affected by the work on the road:
   (c) the need to lessen the damage that is likely to be caused to property (including structural integrity of the roads) as a result of work on the road:
@@ -2201,7 +2201,7 @@ In this subpart, evidence of authority, in relation to an officer, employee, or 
   (f) the co-ordination of installation of other networks:
   (g) the co-ordination with road construction work by the local authority or other person who has jurisdiction over that road:
   (h) the need of a network operator to establish a telecommunications network in a timely manner.
-(2) Nothing in subsection (1) limits a local authority's or other person's ability to impose reasonable conditions under section 135(2) or section 142(2)(b).
+(2) Nothing in subsection (1) limits a local authority's or other person's ability to impose reasonable conditions under section 135(2) or section 142(2)﻿(b).
 (3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.
 (4) If the cost to the network operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
 
@@ -2334,13 +2334,13 @@ If work is urgent and necessary because of any defective equipment, or other eme
     (ii) any utility operator (as defined in section 4 of the Utilities Access Act 2010) whose pipes, lines, or other structures will or are likely to be affected by the work; and
   (b) comply with any reasonable conditions that are imposed by the local authority or other person who has jurisdiction over that road on which the cabinet or appliance is to be placed; and
   (c) not intentionally place the cabinet or appliance on the road so that it interferes with the ordinary traffic.
-(3) Every notice under subsection (2)(a) must specify where the cabinet or appliance is to be placed on the road and the reasons for it.
+(3) Every notice under subsection (2)﻿(a) must specify where the cabinet or appliance is to be placed on the road and the reasons for it.
 
 ### 143 Network operator to be notified of conditions
-Not later than 15 working days after the receipt of the written notice of the network operator's intention to place a cabinet or appliance on a road under section 142, the local authority or other person who has jurisdiction over that road must notify the network operator in writing of any conditions imposed under section 142(2)(b).
+Not later than 15 working days after the receipt of the written notice of the network operator's intention to place a cabinet or appliance on a road under section 142, the local authority or other person who has jurisdiction over that road must notify the network operator in writing of any conditions imposed under section 142(2)﻿(b).
 
 ### 144 Failure to notify conditions
-If a local authority or other person who has jurisdiction over a road fails to notify the network operator of the conditions imposed under section 142(2)(b) within the 15-working day period referred to in section 143, those conditions may not be imposed and the network operator may commence work.
+If a local authority or other person who has jurisdiction over a road fails to notify the network operator of the conditions imposed under section 142(2)﻿(b) within the 15-working day period referred to in section 143, those conditions may not be imposed and the network operator may commence work.
 
 ### 145 Urgency
 If the telephone cabinet or appliance must be placed on a road urgently and it is necessary because of any defective equipment or other emergency, the network operator—
@@ -2353,7 +2353,7 @@ If the telephone cabinet or appliance must be placed on a road urgently and it i
 (3) In addition to any fine imposed under subsection (2), a court may make any order relating to compensation that it thinks fit.
 
 ### 147 Appeals by network operators to District Court
-(1) A network operator may appeal to a District Court against all or any of the conditions imposed under section 142(2)(b) by the local authority or other person who has jurisdiction over the road.
+(1) A network operator may appeal to a District Court against all or any of the conditions imposed under section 142(2)﻿(b) by the local authority or other person who has jurisdiction over the road.
 (2) An appeal must be made not later than 45 working days after the date of notification of the conditions imposed or within any further time that the District Court may allow.
 (3) In its determination of any appeal, a District Court may confirm, modify, or cancel any or all of the conditions imposed.
 (4) The decision of a District Court in the determination of an appeal under this section is final.
@@ -2380,7 +2380,7 @@ If the telephone cabinet or appliance must be placed on a road urgently and it i
 (4) The following provisions apply if the person requiring the work is the New Zealand Transport Agency or the agent of the Minister of Transport:
   (a) the cost of all lines, cabinets, wireless works, other appliances, and associated equipment that are used in carrying out the required work (other than things used only during the course of construction) must be paid by the network operator:
   (b) if, as a consequence of the requirement, the network operator elects to fix or install any lines, cabinets, wireless works, or other appliances over, under, or through any roading structure (being a bridge, underpass, overpass, culvert, or tunnel) that is being, or is to be, constructed or altered, and if the cost of constructing or altering the roading structure is thereby increased, then the network operator must pay the increase in cost:
-  (c) if, as a consequence of the requirement, the network operator relocates the lines, cabinets, wireless works, or other similar appliances and reconstructs them to specifications different from those of the original lines, cabinets, wireless works, or other appliances, then, if the costs described in paragraph (d)(i) are less than the costs described in paragraph (d)(ii), the network operator is liable to pay the difference:
+  (c) if, as a consequence of the requirement, the network operator relocates the lines, cabinets, wireless works, or other similar appliances and reconstructs them to specifications different from those of the original lines, cabinets, wireless works, or other appliances, then, if the costs described in paragraph (d)﻿(i) are less than the costs described in paragraph (d)﻿(ii), the network operator is liable to pay the difference:
   (d) the costs referred to in paragraph (c) are—
     (i) what it would have cost to relocate and reconstruct the lines, cabinets, wireless works, or other similar appliances as near as reasonably practicable to their original specifications (excluding any costs to which paragraph (a) applies), taking into account—
       (A) any restrictions or conditions imposed by or under any enactment in relation to the relocation and reconstruction; and
@@ -2514,7 +2514,7 @@ Before an FTTP service provider enters, or performs work in, any part of a multi
   (b) comply with the Code; and
   (c) be served on each person who is known by the service provider to be a current owner, and left in a prominent place on the land,—
     (i) no earlier than 10 working days after the earlier of—
-      (A) the expiration of the 20-working-day period referred to in section 155F(2)(d) (or any longer period agreed between the service provider and the owner); or
+      (A) the expiration of the 20-working-day period referred to in section 155F(2)﻿(d) (or any longer period agreed between the service provider and the owner); or
       (B) the date of notification by the owner that the owner consents to the work as proposed in the preliminary notice; and
     (ii) no later than 21 working days before the time proposed in the notice for the start of the work.
 (2) The second notice must give the owner all the key information relating to the proposed work, including—
@@ -2572,7 +2572,7 @@ Before an FTTP service provider enters, or performs work in, any part of a multi
 (2) On the application of the consumer complaints adjudicator or other person responsible for a consumer complaints system, a District Court may require a member of the system to do either or both of the following:
   (a) comply with the rules of the system that relate to complaints about access to multi-unit complexes:
   (b) comply with a binding settlement determined by the system in response to a complaint about access to multi-unit complexes.
-(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)(b) may modify the terms of the binding settlement, but only to the extent that the modification results in a binding settlement that could have been made under the consumer complaints system.
+(3) If a District Court is satisfied that the terms of a binding settlement are manifestly unreasonable, the court's order under subsection (2)﻿(b) may modify the terms of the binding settlement, but only to the extent that the modification results in a binding settlement that could have been made under the consumer complaints system.
 (4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
 (5) A reference in this section to a member includes a reference to a person who was a member of the consumer complaints system at the relevant time but is no longer a member at the time of the application or order.
 
@@ -2866,7 +2866,7 @@ In this subpart, unless the context otherwise requires,—
   (b) any acquisition by a UFB partner of the shares of any telecommunications network company (whether on a minority or an equal basis or otherwise) as part of an arrangement with the Crown, or with the Crown and another UFB partner, under the UFB initiative; and
   (c) any acquisition by the Crown of shares in, or assets of, Telecom pursuant to the selection of Telecom as a UFB partner in a particular region or regions.
 (2) The authorisations do not apply to any acquisition that is made more than 2 years after the date on which this section comes into force.
-(3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under section 67(3)(b) of the Commerce Act 1986 on the date on which this section comes into force.
+(3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under section 67(3)﻿(b) of the Commerce Act 1986 on the date on which this section comes into force.
 (4) Sections 91 to 97 of the Commerce Act 1986 do not apply to the authorisations.
 (5) The effect of the authorisations is the same as that stated in section 69 of the Commerce Act 1986.
 
@@ -2883,8 +2883,8 @@ In this subpart, unless the context otherwise requires,—
   (c) knowingly submits a standard terms proposal that fails to comply with section 30G:
   (d) fails, without reasonable excuse, to comply with a notice under section 45 or a notice requirement (if any) set out in subpart 1 of Part 2 of Schedule 1 in respect of the applicable final pricing principle:
   (e) fails, without reasonable excuse, to provide to the Commission not later than the time specified by it—
-    (i) the statement referred to in section 45(2)(b)(i):
-    (ii) all the information referred to in section 45(2)(b)(ii):
+    (i) the statement referred to in section 45(2)﻿(b)﻿(i):
+    (ii) all the information referred to in section 45(2)﻿(b)﻿(ii):
   (f) knowingly provides false or misleading information or documents under section 45 or under the notice requirement (if any) set out in subpart 1 of Part 2 of Schedule 1 in respect of the applicable final pricing principle:
   (fa) fails, without reasonable excuse, to comply with section 69F:
   (fb) fails, without reasonable excuse, to comply with a notice under section 69H:
@@ -2951,12 +2951,12 @@ In making a decision about what action to take under section 156B, the Commissio
   (a) consider every objection made in accordance with section 156E; and
   (b) decide whether to refuse or accept an objection within 10 working days after the date on which the objection is made; and
   (c) promptly give written notice of its decision and the reasons for its decision to the person who made the objection.
-(2) If the Commission refuses the objection, the notice under subsection (1)(c) must also contain the following particulars:
+(2) If the Commission refuses the objection, the notice under subsection (1)﻿(c) must also contain the following particulars:
   (a) the address at which the pecuniary penalty may be paid or an explanation of how payment of the pecuniary penalty is to be made, or both:
   (b) a time within which the pecuniary penalty must be paid:
   (c) a statement of what may happen if the person does not pay the pecuniary penalty by that time:
   (d) a statement of the person's right to appeal, under section 156I, against the Commission's decision to refuse the objection.
-(3) If the Commission accepts the objection, the notice under subsection (1)(c) must also contain a statement that the civil infringement notice has been withdrawn.
+(3) If the Commission accepts the objection, the notice under subsection (1)﻿(c) must also contain a statement that the civil infringement notice has been withdrawn.
 
 ### 156G Effect of withdrawal of civil infringement notice
 (1) A person who has been served with a civil infringement notice is discharged from any liability for a breach specified in the notice if the Commission withdraws the notice—
@@ -2967,7 +2967,7 @@ In making a decision about what action to take under section 156B, the Commissio
 ### 156H Consequence of not paying pecuniary penalty specified in civil infringement notice
 (1) The consequence specified in subsection (2) applies if a person—
   (a) is served with a civil infringement notice; and
-  (b) fails to pay the whole, or any part, of the pecuniary penalty on or before the later of the time specified in that notice or in the notice under section 156F(1)(c).
+  (b) fails to pay the whole, or any part, of the pecuniary penalty on or before the later of the time specified in that notice or in the notice under section 156F(1)﻿(c).
 (2) The consequence is that the Commission may recover from the person, as a debt due to the Commission, in a District Court,—
   (a) the unpaid portion of the pecuniary penalty; and
   (b) the actual and reasonable costs of recovery awarded against the person by that court.
@@ -2975,7 +2975,7 @@ In making a decision about what action to take under section 156B, the Commissio
 
 ### 156I Right to appeal
 (1) A person may appeal to a District Court if the person is dissatisfied with a decision of the Commission to refuse the person's objection to a civil infringement notice.
-(2) An appeal under subsection (1) must be brought within 20 working days after the date on which the notice under section 156F(1)(c) is given.
+(2) An appeal under subsection (1) must be brought within 20 working days after the date on which the notice under section 156F(1)﻿(c) is given.
 (3) An appeal under subsection (1) does not operate as a stay of the civil infringement notice.
 
 ### 156J Decision on appeal
@@ -3007,10 +3007,10 @@ In making a decision about what action to take under section 156B, the Commissio
   (b) the person has committed a breach of any of the provisions set out in section 156A.
 (2) In determining an appropriate remedy to be imposed under this section, the High Court must have regard to all relevant matters, including—
   (a) the nature and extent of any commercial gain; and
-  (b) if subsection (1)(ab) applies, the size of the service provider.
+  (b) if subsection (1)﻿(ab) applies, the size of the service provider.
 (3) The amount of any pecuniary penalty for each act or omission must not exceed—
-  (a) $10 million for a breach referred to in subsection (1)(a); and
-  (ab) $10 million for a breach referred to in subsection (1)(ab) (Part 4AA undertakings—UFB and RBI); and
+  (a) $10 million for a breach referred to in subsection (1)﻿(a); and
+  (ab) $10 million for a breach referred to in subsection (1)﻿(ab) (Part 4AA undertakings—UFB and RBI); and
   (b) $10 million for a breach referred to in section 69L (failure to comply with or amend sharing arrangements); and
   (ba) $10 million for a breach referred to in section 69T (line of business restrictions); and
   (bb) $10 million for a breach referred to in section 69XG (Chorus undertakings); and
@@ -3024,7 +3024,7 @@ In making a decision about what action to take under section 156B, the Commissio
 
 ### 156M Further penalty may be imposed for continuing breach
 (1) In addition to a pecuniary penalty imposed under section 156L, the High Court may, for a continuing breach of any of the provisions referred to in section 156L(1), impose for each day or part of a day during which the breach continues a further penalty of—
-  (a) $500,000 for a breach referred to in section 156L(1)(a); and
+  (a) $500,000 for a breach referred to in section 156L(1)﻿(a); and
   (aa) $500,000 for a breach referred to in section 69L; and
   (ab) $500,000 for a breach referred to in section 69T; and
   (ac) $50,000 for a breach referred to in section 156A(fa) or (fb); and
@@ -3058,16 +3058,16 @@ In sections 156O to 156R,—
   (b) whether to take either or both of the following actions:
     (i) to amend the enforceable matter for the purpose of making a clarification (if the complaint relates, or appears to relate, to a dispute over the interpretation of the terms or conditions of the enforceable matter and the dispute has not previously been submitted to any dispute resolution procedure that is included in the enforceable matter):
     (ii) to take, or join another party in taking, enforcement action for the enforceable matter in the High Court under section 156P.
-(3) In deciding whether to take the action referred to in subsection (2)(b)(i), the Commission must consult with interested parties.
-(4) In deciding whether to take the action referred to in subsection (2)(b)(ii), the Commission—
+(3) In deciding whether to take the action referred to in subsection (2)﻿(b)﻿(i), the Commission must consult with interested parties.
+(4) In deciding whether to take the action referred to in subsection (2)﻿(b)﻿(ii), the Commission—
   (a) must consider,—
-    (i) in the case of a complaint by a person referred to in subsection (1)(a), the purpose set out in section 18; and
+    (i) in the case of a complaint by a person referred to in subsection (1)﻿(a), the purpose set out in section 18; and
     (ii) in the case of a complaint by a party relating to an undertaking under Part 2A, the purpose set out in section 69W; and
     (iii) in the case of a complaint by a party relating to an undertaking under Part 4AA, the purposes set out in section 156AC; and
   (b) may consider the financial means of the complainant.
-(5) For the purposes of subsection (2)(b)(i), section 58 applies to the enforceable matter with any necessary modifications.
+(5) For the purposes of subsection (2)﻿(b)﻿(i), section 58 applies to the enforceable matter with any necessary modifications.
 (6) The Commission must promptly give written notice to the complainant of the Commission's decision on the complaint.
-(7) Subsection (2)(b)(i) does not apply in the case of an undertaking under Part 2A or 4AA.
+(7) Subsection (2)﻿(b)﻿(i) does not apply in the case of an undertaking under Part 2A or 4AA.
 
 ### 156P Enforcement by High Court
 (1) An enforceable matter may be enforced by a party or the Commission, or both, filing it in the prescribed form in the Wellington Registry of the High Court.
@@ -3123,7 +3123,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) authorising the Commission in its discretion, or on any grounds that may be prescribed, to refund, in whole or in part, any prescribed fee that has been paid under this Act:
   (c) prescribing forms for the purposes of this Act:
   (ca) prescribing the form in which a civil infringement notice must be served under section 156D:
-  (cb) prescribing the amount of the pecuniary penalty that must be specified in a civil infringement notice under section 156D(2)(b) (which may not exceed $2,000):
+  (cb) prescribing the amount of the pecuniary penalty that must be specified in a civil infringement notice under section 156D(2)﻿(b) (which may not exceed $2,000):
   (cc) prescribing the time within and the manner in which a written objection to a civil infringement notice must be made under section 156E and the information to be included in that written objection:
   (cd) prescribing any other information that a notice published by the Commission under section 156K may contain:
   (ce) prescribing the procedures or minimum standards to be followed by a consumer complaints adjudicator in dealing with complaints under a consumer complaints system:
@@ -3144,10 +3144,10 @@ The enactments specified in Schedule 4 are amended in the manner indicated in th
 (1) Despite the repeal of section 2A of the 1987 Act by section 159, every declaration made under section 2A of the 1987 Act and in force immediately before the commencement of this Act continues in force and has full effect until the declaration is revoked,—
   (a) in the case of a declaration made by Order in Council, by the Governor-General by Order in Council made on the recommendation of the Minister; or
   (b) in the case of a declaration made by the Minister, by the Minister by notice in the Gazette.
-(2) The Minister must make a recommendation under subsection (1)(a) or revoke a declaration under subsection (1)(b) (as the case may be) if the Minister is satisfied that the network operator has ceased to provide—
+(2) The Minister must make a recommendation under subsection (1)﻿(a) or revoke a declaration under subsection (1)﻿(b) (as the case may be) if the Minister is satisfied that the network operator has ceased to provide—
   (a) facilities for telecommunication between 10 or more other persons that enable at least 10 of those persons to communicate with each other; or
   (b) facilities for broadcasting to 500 or more other persons that enable programmes to be transmitted along a line or lines to each of those persons.
-(3) A notice in the Gazette under subsection (1)(b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A notice in the Gazette under subsection (1)﻿(b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 161 Transitional provision relating to repeal of section 5C of 1987 Act
 Despite any enactment or rule of law, any requirements under Part 2 or regulation 7 of the Telecommunications (Information Disclosure) Regulations 1999 (SR 1999/383) with which Telecom had to comply before the repeal of section 5C of the 1987 Act cease to have effect as if those regulations had not been made.
@@ -3225,146 +3225,146 @@ The following standard access principles apply to designated access services and
 
 #### Subpart 1 — Designated access services
 
-|  |  | Interconnection with a fixed PSTN |
-| --- | --- | --- |
-|  | Origination and termination (and their associated functions) of voice and data calls (including dial-up Internet calls) on a fixed PSTN | Description of service: |
-|  | Nil | Conditions: |
-|  | A person who operates a fixed PSTN | Access provider: |
-|  | A service provider who seeks access to the service | Access seeker: |
-|  | The standard access principles set out in clause 5 | Access principles: |
-|  | The limits set out in clause 6 | Limits on access principles: |
-|  | Benchmarking against interconnection prices in comparable countries that result from the application to networks that are similar to the access provider's fixed PSTN of—aa forward-looking cost-based pricing method; orbif the Commission considers that a forward-looking cost-based pricing method does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:ia pure bill and keep method; oriia pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and a forward-looking cost-based pricing method applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) | Initial pricing principle: |
-|  | Either—aTSLRIC; orbif the Commission considers that TSLRIC does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:ia pure bill and keep method; oriia pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and TSLRIC applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) | Final pricing principle: |
-|  | If TSLRIC is the final pricing principle, the Commission must, by notice in writing, require the access provider to calculate the price payable for the service in accordance with TSLRIC and any regulations relating to that principle not later than the time specified in the notice | Requirement referred to in section 45 for final pricing principle: |
-|  | In applying the initial pricing principle and final pricing principle, the Commission must consider—aincentives to terminate dial-up Internet traffic and other similar one-way traffic streams must be efficient; andbthe effect of any obligation under the TSO instrument to provide price-capped unlimited calls | Additional matters that must be considered regarding application of section 18: |
-|  |  | Retail services offered by means of a fixed telecommunications network |
-|  | A retail service that satisfies both of the following:aany of the following:ia non-price-capped local access and calling service; oriia non-price-capped retail service (and its associated functions) supplying an access and calling service in a different form to the service described in subparagraph (i) (and including, for the avoidance of doubt, a service supplying ISDN digital access, or Centrex-based access or facsimile); oriiia value-added non-price-capped retail service that is supplied in conjunction with a service described in subparagraph (i) or (ii) above or a price-capped residential local access and calling service; andba retail service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:iall markets in which Telecom faces limited, or is likely to face lessened, competition for that service:iiall, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission | Description of service applicable before the expiry of 3 years from separation day: |
-|  | A retail service that satisfies both of the following:aeither of the following:ia non-price-capped retail service (and its associated functions) supplying an access and calling service in a different form to a local access and calling service (and including, for the avoidance of doubt, a service supplying ISDN digital access, or Centrex-based access or facsimile); oriia value-added non-price-capped retail service that is supplied in conjunction with a service described in subparagraph (i) above or a local access and calling service; andba retail service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:iall markets in which Telecom faces limited, or is likely to face lessened, competition for that service:iiall, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission | Description of service applicable after the expiry of 3 years from separation day: |
-|  | Telecom | Access provider: |
-|  | A service provider who seeks access to the service | Access seeker: |
-|  | The standard access principles set out in clause 5 | Access principles: |
-|  | The limits set out in clause 6 | Limits on access principles: |
-|  | Either—aretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus actual costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service | Initial pricing principle: |
-|  | Either—aaverage or best retail price minus a discount comprising avoided costs saved pricing, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbaverage or best retail minus a discount comprising actual costs saved, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service | Final pricing principle: |
-|  | Nil | Requirement referred to in section 45 or final pricing principle: |
-|  | Nil | Additional matters that must be considered regarding application of section 18: |
-|  |  | Local access and calling service offered by means of fixed telecommunications network |
-|  | A price-capped residential local access and calling service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:aall markets in which Telecom faces limited, or is likely to face lessened, competition for the service:ball, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for price-capped residential local access and calling service as determined by the Commission | Description of service applicable before the expiry of 3 years from separation day: |
-|  | A local access and calling service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:aall markets in which Telecom faces limited, or is likely to face lessened, competition for the service:ball, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for the service as determined by the Commission | Description of service applicable after the expiry of 3 years from separation day: |
-|  | That either—aTelecom faces limited, or is likely to face lessened, competition in a market for a price-capped residential local access and calling service offered by Telecom to end-users; orbTelecom does not face limited, or is not likely to face lessened, competition for a price-capped residential local access and calling service offered by Telecom to end-users, and the Commission has decided to require a local access and calling service to be wholesaled | Conditions applicable before the expiry of 3 years from separation day: |
-|  | That either—aTelecom faces limited, or is likely to face lessened, competition in a market for a local access and calling service offered by Telecom to end-users; orbTelecom does not face limited, or is not likely to face lessened, competition for a local access and calling service offered by Telecom to end-users, and the Commission has decided to require a local access and calling service to be wholesaled | Conditions applicable after the expiry of 3 years from separation day: |
-|  | Telecom | Access provider: |
-|  | A service provider who seeks access to the service | Access seeker: |
-|  | The standard access principles set out in clause 5 | Access principles: |
-|  | The limits set out in clause 6 | Limits on access principles |
-|  | Telecom's standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus 2% | Initial pricing principle applicable before the expiry of 3 years from separation day |
-|  | For a price-capped residential local access and calling service, either—aTelecom’s standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus 2%; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service | Initial pricing principle applicable after the expiry of 3 years from separation day: |
-|  | For a non-price-capped local access and calling service, either—aretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus actual costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service; orcif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service; ordif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (b) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service |  |
-| Final pricing principle applicable before the expiry of 3 years from separation day | Telecom's standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus actual costs saved |  |
-| Final pricing principle applicable after the expiry of 3 years from separation day: | For a price-capped local access and calling service, either—aTelecom’s standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus actual costs saved; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency serviceFor a non-price-capped local access and calling service, either—aaverage or best retail price minus a discount comprising avoided costs saved pricing, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbaverage or best retail price minus a discount comprising actual costs saved, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service; orcif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service; ordif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (b) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service |  |
-| Requirement referred to in section 45 or final pricing principle: | Nil |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |
-|  |  | Retail services offered by means of a fixed telecommunications network as part of bundle of retail services |
-|  | A retail service that—ais, or has previously been, offered separately by Telecom to end-users by means of a fixed telecommunications network; andbis offered by Telecom to end-users as part of a bundle of retail services—iin markets in which Telecom faces limited, or is likely to face lessened, competition for that service; andiiif the effect of the bundled price is likely to significantly reduce the ability of an efficient rival to contest the market | Description of service: |
-|  | Nil | Conditions: |
-|  | Telecom | Access provider: |
-|  | A service provider who seeks access to the service | Access seeker: |
-|  | The standard access principles set out in clause 5 | Access principles: |
-|  | The limits set out in clause 6 | Limits on access principles: |
-|  | The wholesale price for the retail service is—ain the case of Telecom's price-capped residential access and calling service, the amount calculated using the following formula:where—ais the imputed retail price for the service. The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis a 2% discountcis the wholesale pricebin the case of any other telecommunications service offered by Telecom in a bundle of retail services by means of its fixed telecommunications network, the amount calculated using the following formula:where—ais the imputed retail price for the service. The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount (as a percentage) off the imputed retail price for the service. The discount must be benchmarked against discounts applied to comparable retail services in comparable countries that apply retail price minus avoided costs saved or equivalent pricingcis the wholesale price | Initial pricing principle: |
-|  | The wholesale price for the retail service is the amount calculated using the following formula:a − b = cwhere—ais the imputed retail price for the service. The imputed retail price must—abe based on the observed discount of the bundle relative to the total price of the services offered separately; andbtake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount off the imputed retail price for the service. The discount must be determined by using,—ain the case of a non price-capped service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service, avoided costs saved pricing; orbin the case of Telecom's price-capped residential access and calling service in which Telecom faces limited, or is likely to face lessened, competition for that service, actual costs saved pricingcis the wholesale price | Final pricing principle: |
-|  | Nil | Requirement referred to in section 45 for final pricing principle: |
-|  | Nil | Additional matters that must be considered regarding application of section 18: |
-|  |  | Chorus's unbundled bitstream access |
-| Description of service: | A digital subscriber line enabled service (and its associated functions, including the associated functions of operational support systems) that enables access to, and interconnection with, that part of a fixed PDN that connects the end-user’s building (or, where relevant, the building’s distribution frame) to a first data switch (or equivalent facility), other than a digital subscriber line access multiplexer (DSLAM)To avoid doubt, unless otherwise requested by the access seeker, the supply of this service must not be conditional on a requirement that the access seeker, end-users, or any other person must purchase any other service from the access provider |  |
-| Conditions: | That either—aChorus faces limited, or is likely to face lessened, competition in a relevant market; orbChorus does not face limited, or is not likely to face lessened, competition in a relevant market, and the Commission has decided to require Chorus’s unbundled bitstream access to be wholesaled in that market |  |
-| Access provider: | Chorus |  |
-| Access seeker: | A service provider who seeks access to the service |  |
-| Access principles: | The standard access principles set out in clause 5 |  |
-| Limits on access principles: | The limits set out in clause 6 and the additional limit that Chorus is only required to provide access to the trunk side of the first data switch or equivalent facility (for which purpose a DSLAM is not an equivalent facility) |  |
-| Initial pricing principle applicable before the expiry of 3 years from separation day: | Retail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of the servicePlus, if no person is also purchasing a local access and calling service from Telecom in relation to the relevant subscriber line, all or any of the costs of Chorus's local loop network that would usually be recovered by Telecom from an end-user of its local access and calling service, as determined by benchmarking against comparable countries (unless the Commission considers that the price already takes into account all of the relevant costs) |  |
-| Initial pricing principle applicable after the expiry of 3 years from separation day: | The price for the designated access service entitled Chorus's unbundled copper local loop network plus benchmarking additional costs incurred in providing the unbundled bitstream access service against prices in comparable countries that use a forward-looking cost-based pricing method |  |
-| Final pricing principle applicable before the expiry of 3 years from separation day: | Either—aretail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising avoided costs saved, in a case where Chorus faces limited, or is likely to face lessened, competition in a relevant market; orbretail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising actual costs saved, in a case where Chorus does not face limited, or lessened, competition in a relevant marketPlus, in either case, if no person is also purchasing a local access and calling service from Telecom in relation to the relevant subscriber line, all or any of the costs of Chorus's local loop network that would usually be recovered by Telecom from an end-user of its local access and calling service, as determined by identifying the relevant costs (unless the Commission considers that the price already takes into account all of the relevant costs) |  |
-| Final pricing principle applicable after the expiry of 3 years from separation day: | The price for Chorus’s unbundled copper local loop network plus TSLRIC of additional costs incurred in providing the unbundled bitstream access service |  |
-| Requirement referred to in section 45 or final pricing principle: | Nil |  |
-| Additional matters that must be considered regarding application of section 18: | The Commission must consider relativity between this service and Chorus’s unbundled copper local loop network service (to the extent that terms and conditions have been determined for that service) |  |
-|  |  | Chorus's unbundled bitstream access backhaul |
-| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that provides transmission capability (whether the transmission capacity is copper, fibre, or anything else) between the trunk side of a first data (or equivalent facility), other than a DSLAM, that is connected to the end-user’s building (or, where relevant, the building’s distribution frame) and the access seeker’s nearest available point of interconnection |  |
-| Conditions: | That either—aChorus faces limited, or is likely to face lessened, competition in a market for transmission capacity between the first data switch (or equivalent facility) and the access seeker’s nearest available point of interconnection; orbChorus does not face limited, or is not likely to face lessened, competition in a market for transmission capacity between the first data switch (or equivalent facility) and the access seeker's nearest available point of interconnection, and the Commission has decided to require Chorus’s unbundled bitstream access to be wholesaled in that market |  |
-| Access provider: | Chorus |  |
-| Access seeker: | A service provider who seeks access to the service |  |
-| Access principles: | The standard access principles set out in clause 5 |  |
-| Limits on access principles: | The limits set out in clause 6 |  |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |  |
-| Final pricing principle: | TSLRIC |  |
-| Requirement referred to in section 45 or final pricing principle: | Nil |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |
-|  |  | Chorus's unbundled copper local loop network |
-| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that enables access to, and interconnection with, Chorus's copper local loop network (including any relevant line in Chorus's local telephone exchange or distribution cabinet) |  |
-| Conditions: | Nil |  |
-| Access provider: | Chorus |  |
-| Access seeker: | A service provider who seeks access to the service, except, until 3 years after separation day, Telecom |  |
-| Access principles: | The standard access principles set out in clause 5 |  |
-| Limits on access principles: | The limits set out in clause 6 |  |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |  |
-| Final pricing principle: | TSLRIC |  |
-| Requirement referred to in section 45 or final pricing principle: | Nil |  |
-| Additional matters that must be considered regarding application of section 18: | The Commission must consider relativity between this service and Chorus's unbundled bitstream access service (to the extent that the terms and conditions have been determined for that service) |  |
-|  |  | Chorus's unbundled copper local loop network co-location |
-| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that provides co-location facilities for an access seeker’s equipment, and access to the handover point, at Chorus’s local telephone exchange or distribution cabinet (or equivalent facility) for the purposes of providing access to, and interconnection with,—aChorus’s unbundled copper local loop network (including any necessary supporting equipment); andbChorus’s unbundled copper low frequency service (including any necessary supporting equipment)To avoid doubt, the same instance of this service can be used to support both Chorus’s unbundled copper local loop network and Chorus’s unbundled copper low frequency serviceTo avoid doubt, access seeker equipment includes the equipment of any person other than the access seeker (including any line) if that equipment is being used to support the provision of backhaul for the access seekerTo avoid doubt, this service includes access to, and the use of, space in, on, or around Chorus’s local telephone exchange or distribution cabinet (or equivalent facility) for the purposes of installing and maintaining the access seeker’s equipment |  |
-| Conditions: | Nil |  |
-| Access provider: | Chorus |  |
-| Access seeker: | A service provider who seeks access to the service |  |
-| Access principles: | The standard access principles set out in clause 5 |  |
-| Limits on access principles: | The limits set out in clause 6 and the additional limit of the interests of other service providers who are co-located in the relevant facilities |  |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |  |
-| Final pricing principle: | TSLRIC |  |
-| Requirement referred to in section 45 or final pricing principle: | Nil |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |
-|  |  | Chorus's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange) |
-| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that provides transmission capacity in a network (whether the transmission capacity is copper, fibre, or anything else) between the handover point in Chorus’s distribution cabinet (or equivalent facility) and the handover point in Chorus’s local telephone exchange for the purposes of providing access to, and interconnection with, Chorus’s unbundled copper local loop network (including any necessary supporting equipment) |  |
-| Conditions: | Nil |  |
-| Access provider: | Chorus |  |
-| Access seeker: | A service provider who seeks access to the service |  |
-| Access principles: | The standard access principles set out in clause 5 |  |
-| Limits on access principles: | The limits set out in clause 6 |  |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |  |
-| Final pricing principle: | TSLRIC |  |
-| Requirement referred to in section 45 or final pricing principle: | Nil |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |
-|  |  | Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point) |
-| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that provides transmission capacity in a network (whether the transmission capacity is copper, fibre, or anything else) between the handover point in Chorus’s local telephone exchange and the access seeker’s nearest available point of interconnection for the purposes of providing access to, and interconnection with,—aChorus’s unbundled copper local loop network (including any necessary supporting equipment); andbChorus’s unbundled copper low frequency service (including any necessary supporting equipment)To avoid doubt, the same instance of this service can be used to support both Chorus’s unbundled copper local loop network and Chorus’s unbundled copper low frequency service |  |
-| Conditions: | That either—aChorus faces limited, or is likely to face lessened, competition in a market for transmission capacity between Chorus’s local telephone exchange and the access seeker’s nearest available point of interconnection; orbChorus does not face limited, or is not likely to face lessened, competition in a market for transmission capacity between Chorus’s local telephone exchange and the access seeker’s nearest available point of interconnection, and the Commission has decided to require Chorus’s unbundled copper local loop network backhaul (telephone exchange to interconnect point) to be wholesaled in that market |  |
-| Access provider: | Chorus |  |
-| Access seeker: | A service provider who seeks access to the service |  |
-| Access principles: | The standard access principles set out in clause 5 |  |
-| Limits on access principles: | The limits set out in clause 6 |  |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |  |
-| Final pricing principle: | TSLRIC |  |
-| Requirement referred to in section 45 or final pricing principle: | Nil |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |
-|  |  | Chorus's unbundled copper low frequency service |
-| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that enables access to, and interconnection with, the low frequency (being the frequency band between 300 and 3400 Hz) in Chorus’s copper local loop network (including any relevant line in Chorus's local telephone exchange or distribution cabinet) that connects the end-user's building (or, where relevant, the building’s distribution frame) to the handover point in Chorus’s local telephone exchange |  |
-| Conditions | Chorus's unbundled copper low frequency service is only available where Chorus's local loop that connects the end-user's building (or, where relevant, the building's distribution frame) to the handover point in Chorus's local telephone exchange remains in placeTo avoid doubt, there is no obligation on Chorus that Chorus's copper network that connects a cabinet (or equivalent facility) and Chorus's local telephone exchange remain in place or be maintained if that part of Chorus's copper network is only being used to provide Chorus's unbundled copper low frequency services |  |
-| Access provider: | Chorus |  |
-| Access seeker: | A service provider who seeks access to the service |  |
-| Access principles: | The standard access principles set out in clause 5 |  |
-| Limits on access principles: | The limits set out in clause 6 |  |
-| Initial pricing principle: | Either—athe geographically averaged price for Chorus’s full unbundled copper local loop network; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the cost of any additional elements of Chorus’s local loop network that are not recovered in the price for Chorus’s unbundled bitstream access service |  |
-| Final pricing principle: | Either—athe geographically averaged price for Chorus’s full unbundled copper local loop network; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the TSLRIC of any additional elements of Chorus’s local loop network that are not recovered by the price for Chorus’s unbundled bitstream access service |  |
-| Requirement referred to in section 45 or final pricing principle: | Nil |  |
-| Additional matters that must be considered regarding application of section 18: | Nil |  |
-|  |  | Mobile termination access services (MTAS) |
-| Description of service: | Termination (and its associated functions) on a cellular mobile telephone network of any, or any combination, of the following:avoice calls originating on a fixed telephone network:bvoice calls originating on another cellular mobile telephone network:cshort-message-service (SMS) originating on another cellular mobile telephone networkFor the avoidance of doubt, these services include the termination of internationally originated voice calls and SMS, and voice-over-Internet-protocol-originated voice calls, where these are handed over at a mobile switching centre in New Zealand |  |
-| Conditions: | Nil |  |
-| Access provider: | A person who operates a cellular mobile telephone network |  |
-| Access seeker: | A service provider who seeks access to the service |  |
-| Access principles: | The standard access principles set out in clause 5 |  |
-| Limits on access principles: | The limits set out in clause 6 |  |
-| Initial pricing principle: | Benchmarking against the costs of providing similar services in comparable countries that result from the application of—aa forward-looking cost-based methodology; orbif the Commission considers that a forward-looking cost-based methodology does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:ia pure bill and keep method; oriia pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and a forward-looking cost-based methodology applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) |  |
-| Final pricing principle: | Either—aTSLRIC; orbif the Commission considers that TSLRIC does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:ia pure bill and keep method; oriia pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and TSLRIC applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) |  |
-| Requirement referred to in section 45 for final pricing principle: | Nil |  |
-| Additional matters that must be considered regarding the application of section 18: | Nil |  |
+| Interconnection with a fixed PSTN |  |
+| --- | --- |
+| Description of service: | Origination and termination (and their associated functions) of voice and data calls (including dial-up Internet calls) on a fixed PSTN |
+| Conditions: | Nil |
+| Access provider: | A person who operates a fixed PSTN |
+| Access seeker: | A service provider who seeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 |
+| Initial pricing principle: | Benchmarking against interconnection prices in comparable countries that result from the application to networks that are similar to the access provider's fixed PSTN of—aa forward-looking cost-based pricing method; orbif the Commission considers that a forward-looking cost-based pricing method does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:ia pure bill and keep method; oriia pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and a forward-looking cost-based pricing method applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) |
+| Final pricing principle: | Either—aTSLRIC; orbif the Commission considers that TSLRIC does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:ia pure bill and keep method; oriia pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and TSLRIC applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) |
+| Requirement referred to in section 45 for final pricing principle: | If TSLRIC is the final pricing principle, the Commission must, by notice in writing, require the access provider to calculate the price payable for the service in accordance with TSLRIC and any regulations relating to that principle not later than the time specified in the notice |
+| Additional matters that must be considered regarding application of section 18: | In applying the initial pricing principle and final pricing principle, the Commission must consider—aincentives to terminate dial-up Internet traffic and other similar one-way traffic streams must be efficient; andbthe effect of any obligation under the TSO instrument to provide price-capped unlimited calls |
+| Retail services offered by means of a fixed telecommunications network |  |
+| Description of service applicable before the expiry of 3 years from separation day: | A retail service that satisfies both of the following:aany of the following:ia non-price-capped local access and calling service; oriia non-price-capped retail service (and its associated functions) supplying an access and calling service in a different form to the service described in subparagraph (i) (and including, for the avoidance of doubt, a service supplying ISDN digital access, or Centrex-based access or facsimile); oriiia value-added non-price-capped retail service that is supplied in conjunction with a service described in subparagraph (i) or (ii) above or a price-capped residential local access and calling service; andba retail service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:iall markets in which Telecom faces limited, or is likely to face lessened, competition for that service:iiall, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission |
+| Description of service applicable after the expiry of 3 years from separation day: | A retail service that satisfies both of the following:aeither of the following:ia non-price-capped retail service (and its associated functions) supplying an access and calling service in a different form to a local access and calling service (and including, for the avoidance of doubt, a service supplying ISDN digital access, or Centrex-based access or facsimile); oriia value-added non-price-capped retail service that is supplied in conjunction with a service described in subparagraph (i) above or a local access and calling service; andba retail service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:iall markets in which Telecom faces limited, or is likely to face lessened, competition for that service:iiall, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission |
+| Access provider: | Telecom |
+| Access seeker: | A service provider who seeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 |
+| Initial pricing principle: | Either—aretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus actual costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service |
+| Final pricing principle: | Either—aaverage or best retail price minus a discount comprising avoided costs saved pricing, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbaverage or best retail minus a discount comprising actual costs saved, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service |
+| Requirement referred to in section 45 or final pricing principle: | Nil |
+| Additional matters that must be considered regarding application of section 18: | Nil |
+| Local access and calling service offered by means of fixed telecommunications network |  |
+| Description of service applicable before the expiry of 3 years from separation day: | A price-capped residential local access and calling service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:aall markets in which Telecom faces limited, or is likely to face lessened, competition for the service:ball, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for price-capped residential local access and calling service as determined by the Commission |
+| Description of service applicable after the expiry of 3 years from separation day: | A local access and calling service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:aall markets in which Telecom faces limited, or is likely to face lessened, competition for the service:ball, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for the service as determined by the Commission |
+| Conditions applicable before the expiry of 3 years from separation day: | That either—aTelecom faces limited, or is likely to face lessened, competition in a market for a price-capped residential local access and calling service offered by Telecom to end-users; orbTelecom does not face limited, or is not likely to face lessened, competition for a price-capped residential local access and calling service offered by Telecom to end-users, and the Commission has decided to require a local access and calling service to be wholesaled |
+| Conditions applicable after the expiry of 3 years from separation day: | That either—aTelecom faces limited, or is likely to face lessened, competition in a market for a local access and calling service offered by Telecom to end-users; orbTelecom does not face limited, or is not likely to face lessened, competition for a local access and calling service offered by Telecom to end-users, and the Commission has decided to require a local access and calling service to be wholesaled |
+| Access provider: | Telecom |
+| Access seeker: | A service provider who seeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles | The limits set out in clause 6 |
+| Initial pricing principle applicable before the expiry of 3 years from separation day | Telecom's standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus 2% |
+| Initial pricing principle applicable after the expiry of 3 years from separation day: | For a price-capped residential local access and calling service, either—aTelecom’s standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus 2%; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service |
+|  | For a non-price-capped local access and calling service, either—aretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus actual costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service; orcif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service; ordif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (b) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service |
+| Final pricing principle applicable before the expiry of 3 years from separation day | Telecom's standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus actual costs saved |
+| Final pricing principle applicable after the expiry of 3 years from separation day: | For a price-capped local access and calling service, either—aTelecom’s standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus actual costs saved; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency serviceFor a non-price-capped local access and calling service, either—aaverage or best retail price minus a discount comprising avoided costs saved pricing, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbaverage or best retail price minus a discount comprising actual costs saved, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service; orcif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service; ordif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (b) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service |
+| Requirement referred to in section 45 or final pricing principle: | Nil |
+| Additional matters that must be considered regarding application of section 18: | Nil |
+| Retail services offered by means of a fixed telecommunications network as part of bundle of retail services |  |
+| Description of service: | A retail service that—ais, or has previously been, offered separately by Telecom to end-users by means of a fixed telecommunications network; andbis offered by Telecom to end-users as part of a bundle of retail services—iin markets in which Telecom faces limited, or is likely to face lessened, competition for that service; andiiif the effect of the bundled price is likely to significantly reduce the ability of an efficient rival to contest the market |
+| Conditions: | Nil |
+| Access provider: | Telecom |
+| Access seeker: | A service provider who seeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 |
+| Initial pricing principle: | The wholesale price for the retail service is—ain the case of Telecom's price-capped residential access and calling service, the amount calculated using the following formula:where—ais the imputed retail price for the service. The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis a 2% discountcis the wholesale pricebin the case of any other telecommunications service offered by Telecom in a bundle of retail services by means of its fixed telecommunications network, the amount calculated using the following formula:where—ais the imputed retail price for the service. The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount (as a percentage) off the imputed retail price for the service. The discount must be benchmarked against discounts applied to comparable retail services in comparable countries that apply retail price minus avoided costs saved or equivalent pricingcis the wholesale price |
+| Final pricing principle: | The wholesale price for the retail service is the amount calculated using the following formula:a − b = cwhere—ais the imputed retail price for the service. The imputed retail price must—abe based on the observed discount of the bundle relative to the total price of the services offered separately; andbtake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount off the imputed retail price for the service. The discount must be determined by using,—ain the case of a non price-capped service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service, avoided costs saved pricing; orbin the case of Telecom's price-capped residential access and calling service in which Telecom faces limited, or is likely to face lessened, competition for that service, actual costs saved pricingcis the wholesale price |
+| Requirement referred to in section 45 for final pricing principle: | Nil |
+| Additional matters that must be considered regarding application of section 18: | Nil |
+| Chorus's unbundled bitstream access |  |
+| Description of service: | A digital subscriber line enabled service (and its associated functions, including the associated functions of operational support systems) that enables access to, and interconnection with, that part of a fixed PDN that connects the end-user’s building (or, where relevant, the building’s distribution frame) to a first data switch (or equivalent facility), other than a digital subscriber line access multiplexer (DSLAM)To avoid doubt, unless otherwise requested by the access seeker, the supply of this service must not be conditional on a requirement that the access seeker, end-users, or any other person must purchase any other service from the access provider |
+| Conditions: | That either—aChorus faces limited, or is likely to face lessened, competition in a relevant market; orbChorus does not face limited, or is not likely to face lessened, competition in a relevant market, and the Commission has decided to require Chorus’s unbundled bitstream access to be wholesaled in that market |
+| Access provider: | Chorus |
+| Access seeker: | A service provider who seeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 and the additional limit that Chorus is only required to provide access to the trunk side of the first data switch or equivalent facility (for which purpose a DSLAM is not an equivalent facility) |
+| Initial pricing principle applicable before the expiry of 3 years from separation day: | Retail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of the servicePlus, if no person is also purchasing a local access and calling service from Telecom in relation to the relevant subscriber line, all or any of the costs of Chorus's local loop network that would usually be recovered by Telecom from an end-user of its local access and calling service, as determined by benchmarking against comparable countries (unless the Commission considers that the price already takes into account all of the relevant costs) |
+| Initial pricing principle applicable after the expiry of 3 years from separation day: | The price for the designated access service entitled Chorus's unbundled copper local loop network plus benchmarking additional costs incurred in providing the unbundled bitstream access service against prices in comparable countries that use a forward-looking cost-based pricing method |
+| Final pricing principle applicable before the expiry of 3 years from separation day: | Either—aretail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising avoided costs saved, in a case where Chorus faces limited, or is likely to face lessened, competition in a relevant market; orbretail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising actual costs saved, in a case where Chorus does not face limited, or lessened, competition in a relevant marketPlus, in either case, if no person is also purchasing a local access and calling service from Telecom in relation to the relevant subscriber line, all or any of the costs of Chorus's local loop network that would usually be recovered by Telecom from an end-user of its local access and calling service, as determined by identifying the relevant costs (unless the Commission considers that the price already takes into account all of the relevant costs) |
+| Final pricing principle applicable after the expiry of 3 years from separation day: | The price for Chorus’s unbundled copper local loop network plus TSLRIC of additional costs incurred in providing the unbundled bitstream access service |
+| Requirement referred to in section 45 or final pricing principle: | Nil |
+| Additional matters that must be considered regarding application of section 18: | The Commission must consider relativity between this service and Chorus’s unbundled copper local loop network service (to the extent that terms and conditions have been determined for that service) |
+| Chorus's unbundled bitstream access backhaul |  |
+| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that provides transmission capability (whether the transmission capacity is copper, fibre, or anything else) between the trunk side of a first data (or equivalent facility), other than a DSLAM, that is connected to the end-user’s building (or, where relevant, the building’s distribution frame) and the access seeker’s nearest available point of interconnection |
+| Conditions: | That either—aChorus faces limited, or is likely to face lessened, competition in a market for transmission capacity between the first data switch (or equivalent facility) and the access seeker’s nearest available point of interconnection; orbChorus does not face limited, or is not likely to face lessened, competition in a market for transmission capacity between the first data switch (or equivalent facility) and the access seeker's nearest available point of interconnection, and the Commission has decided to require Chorus’s unbundled bitstream access to be wholesaled in that market |
+| Access provider: | Chorus |
+| Access seeker: | A service provider who seeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 |
+| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
+| Final pricing principle: | TSLRIC |
+| Requirement referred to in section 45 or final pricing principle: | Nil |
+| Additional matters that must be considered regarding application of section 18: | Nil |
+| Chorus's unbundled copper local loop network |  |
+| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that enables access to, and interconnection with, Chorus's copper local loop network (including any relevant line in Chorus's local telephone exchange or distribution cabinet) |
+| Conditions: | Nil |
+| Access provider: | Chorus |
+| Access seeker: | A service provider who seeks access to the service, except, until 3 years after separation day, Telecom |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 |
+| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
+| Final pricing principle: | TSLRIC |
+| Requirement referred to in section 45 or final pricing principle: | Nil |
+| Additional matters that must be considered regarding application of section 18: | The Commission must consider relativity between this service and Chorus's unbundled bitstream access service (to the extent that the terms and conditions have been determined for that service) |
+| Chorus's unbundled copper local loop network co-location |  |
+| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that provides co-location facilities for an access seeker’s equipment, and access to the handover point, at Chorus’s local telephone exchange or distribution cabinet (or equivalent facility) for the purposes of providing access to, and interconnection with,—aChorus’s unbundled copper local loop network (including any necessary supporting equipment); andbChorus’s unbundled copper low frequency service (including any necessary supporting equipment)To avoid doubt, the same instance of this service can be used to support both Chorus’s unbundled copper local loop network and Chorus’s unbundled copper low frequency serviceTo avoid doubt, access seeker equipment includes the equipment of any person other than the access seeker (including any line) if that equipment is being used to support the provision of backhaul for the access seekerTo avoid doubt, this service includes access to, and the use of, space in, on, or around Chorus’s local telephone exchange or distribution cabinet (or equivalent facility) for the purposes of installing and maintaining the access seeker’s equipment |
+| Conditions: | Nil |
+| Access provider: | Chorus |
+| Access seeker: | A service provider who seeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 and the additional limit of the interests of other service providers who are co-located in the relevant facilities |
+| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
+| Final pricing principle: | TSLRIC |
+| Requirement referred to in section 45 or final pricing principle: | Nil |
+| Additional matters that must be considered regarding application of section 18: | Nil |
+| Chorus's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange) |  |
+| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that provides transmission capacity in a network (whether the transmission capacity is copper, fibre, or anything else) between the handover point in Chorus’s distribution cabinet (or equivalent facility) and the handover point in Chorus’s local telephone exchange for the purposes of providing access to, and interconnection with, Chorus’s unbundled copper local loop network (including any necessary supporting equipment) |
+| Conditions: | Nil |
+| Access provider: | Chorus |
+| Access seeker: | A service provider who seeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 |
+| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
+| Final pricing principle: | TSLRIC |
+| Requirement referred to in section 45 or final pricing principle: | Nil |
+| Additional matters that must be considered regarding application of section 18: | Nil |
+| Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point) |  |
+| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that provides transmission capacity in a network (whether the transmission capacity is copper, fibre, or anything else) between the handover point in Chorus’s local telephone exchange and the access seeker’s nearest available point of interconnection for the purposes of providing access to, and interconnection with,—aChorus’s unbundled copper local loop network (including any necessary supporting equipment); andbChorus’s unbundled copper low frequency service (including any necessary supporting equipment)To avoid doubt, the same instance of this service can be used to support both Chorus’s unbundled copper local loop network and Chorus’s unbundled copper low frequency service |
+| Conditions: | That either—aChorus faces limited, or is likely to face lessened, competition in a market for transmission capacity between Chorus’s local telephone exchange and the access seeker’s nearest available point of interconnection; orbChorus does not face limited, or is not likely to face lessened, competition in a market for transmission capacity between Chorus’s local telephone exchange and the access seeker’s nearest available point of interconnection, and the Commission has decided to require Chorus’s unbundled copper local loop network backhaul (telephone exchange to interconnect point) to be wholesaled in that market |
+| Access provider: | Chorus |
+| Access seeker: | A service provider who seeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 |
+| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
+| Final pricing principle: | TSLRIC |
+| Requirement referred to in section 45 or final pricing principle: | Nil |
+| Additional matters that must be considered regarding application of section 18: | Nil |
+| Chorus's unbundled copper low frequency service |  |
+| Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that enables access to, and interconnection with, the low frequency (being the frequency band between 300 and 3400 Hz) in Chorus’s copper local loop network (including any relevant line in Chorus's local telephone exchange or distribution cabinet) that connects the end-user's building (or, where relevant, the building’s distribution frame) to the handover point in Chorus’s local telephone exchange |
+| Conditions | Chorus's unbundled copper low frequency service is only available where Chorus's local loop that connects the end-user's building (or, where relevant, the building's distribution frame) to the handover point in Chorus's local telephone exchange remains in placeTo avoid doubt, there is no obligation on Chorus that Chorus's copper network that connects a cabinet (or equivalent facility) and Chorus's local telephone exchange remain in place or be maintained if that part of Chorus's copper network is only being used to provide Chorus's unbundled copper low frequency services |
+| Access provider: | Chorus |
+| Access seeker: | A service provider who seeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 |
+| Initial pricing principle: | Either—athe geographically averaged price for Chorus’s full unbundled copper local loop network; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the cost of any additional elements of Chorus’s local loop network that are not recovered in the price for Chorus’s unbundled bitstream access service |
+| Final pricing principle: | Either—athe geographically averaged price for Chorus’s full unbundled copper local loop network; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the TSLRIC of any additional elements of Chorus’s local loop network that are not recovered by the price for Chorus’s unbundled bitstream access service |
+| Requirement referred to in section 45 or final pricing principle: | Nil |
+| Additional matters that must be considered regarding application of section 18: | Nil |
+| Mobile termination access services (MTAS) |  |
+| Description of service: | Termination (and its associated functions) on a cellular mobile telephone network of any, or any combination, of the following:avoice calls originating on a fixed telephone network:bvoice calls originating on another cellular mobile telephone network:cshort-message-service (SMS) originating on another cellular mobile telephone networkFor the avoidance of doubt, these services include the termination of internationally originated voice calls and SMS, and voice-over-Internet-protocol-originated voice calls, where these are handed over at a mobile switching centre in New Zealand |
+| Conditions: | Nil |
+| Access provider: | A person who operates a cellular mobile telephone network |
+| Access seeker: | A service provider who seeks access to the service |
+| Access principles: | The standard access principles set out in clause 5 |
+| Limits on access principles: | The limits set out in clause 6 |
+| Initial pricing principle: | Benchmarking against the costs of providing similar services in comparable countries that result from the application of—aa forward-looking cost-based methodology; orbif the Commission considers that a forward-looking cost-based methodology does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:ia pure bill and keep method; oriia pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and a forward-looking cost-based methodology applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) |
+| Final pricing principle: | Either—aTSLRIC; orbif the Commission considers that TSLRIC does not best give effect to the purpose set out in section 18, whichever of the following methods that the Commission considers best gives effect to that purpose:ia pure bill and keep method; oriia pure bill and keep method applied to two-way traffic in balance (or to a specified margin of out-of-balance traffic) and TSLRIC applied to out-of-balance traffic (or traffic beyond a specified out-of-balance margin) |
+| Requirement referred to in section 45 for final pricing principle: | Nil |
+| Additional matters that must be considered regarding the application of section 18: | Nil |
 
 #### Subpart 2 — Designated multinetwork services
 
@@ -3379,16 +3379,8 @@ The following standard access principles apply to designated access services and
 | Conditions: | Nil |
 | Access provider: | Every person who operates—aa PSTN to which numbers have been allocated; andba telephone service that relates to that number portability service |
 | Access seeker: | Any person who—aoperates a PSTN to which numbers have been allocated; andboperates a telephone service that relates to that number portability service; andcseeks access to that number portability service |
-| National toll-free telephone number portability service |  |
-| Description of service: | A service that enables an end-user of a national toll-free telephone service to change providers of that service but to retain the same telephone number (including the same national toll-free access code) |
-| Conditions: | Nil |
-| Access provider: | Every person who operates—aa PSTN to which numbers have been allocated; andba telephone service that relates to that number portability service |
-| Access seeker: | Any person who—aoperates a PSTN to which numbers have been allocated; andboperates a telephone service that relates to that number portability service; andcseeks access to that number portability service |
-| Telecom's fixed PSTN to mobile carrier pre-selection service |  |
-| Description of service: | A service that enables an end-user who makes a telephone call originating on Telecom's fixed PSTN to an end-user on a cellular telephone network to use a service provider other than Telecom for a part of the fixed network segment of the telephone call without having to enter an additional number or prefix |
-| Conditions: | Nil |
-| Access provider: | Telecom |
-| Access seeker: | A service provider who seeks access to the service |
+| National toll-free telephone number portability service[Expired] |  |
+| Telecom's fixed PSTN to mobile carrier pre-selection service[Expired] |  |
 
 ### Part 3 — Specified services
 
@@ -3409,14 +3401,7 @@ The following standard access principles apply to designated access services and
 | Access principles: | The standard access principles set out in clause 5 |
 | Limits on access principles: | The limits set out in clause 6 and additional limits, which must be set by taking the following matters into account:athe access provider's current and reasonable forecast requirements for capacity on the relevant facilities:bthe management of existing or potential radio spectrum interference arising from use of the relevant facilities:call relevant requirements under the Resource Management Act 1991:dall relevant health and safety requirements under any enactment:eall existing contractual obligations to third parties, including lessors of land on which relevant facilities are located:fthe interests of third parties who use the relevant facilities |
 | Additional matters that must be considered regarding application of section 18: | Nil |
-| Co-location of equipment for fixed telecommunications services at sites used by Broadcast Communications Limited |  |
-| Description of service: | A service that enables a telecommunications network operator to co-locate transmission and reception equipment (including any necessary supporting equipment), used to provide fixed telecommunications links directly to several end-users of fixed telecommunications services, on or with the following facilities (relevant facilities):aany towers, poles, masts, or other similar structures—ithat are used for the transmission or reception of radiocommunications (as defined in section 2(1) of the Radiocommunications Act 1989); andiithat are owned, managed, or leased by the access provider:ball sites, buildings, or utility services that are associated with the kinds of structures referred to in paragraph (a) |
-| Conditions: | Nil |
-| Access provider: | Broadcast Communications Limited or any of its subsidiaries |
-| Access seeker: | Any person who—aoperates, or is likely to operate, a radio based fixed telecommunications network that offers data transmission capability in excess of voice band capacity to serval end-users of fixed telecommunications services; andbseeks access to the service |
-| Access principles: | The standard access principles set out in clause 5 |
-| Limits on access principles: | The limits set out in clause 6 and additional limits, which are to be set by taking the following matters into account:athe access provider's current and reasonable forecast requirements for capacity on the relevant facilities:bthe management of existing or potential radio spectrum interference arising from use of the relevant facilities:call relevant requirements under the Resource Management Act 1991:dall relevant health and safety requirements under any enactment:eall existing contractual obligations to third parties, including lessors of land on which relevant facilities are located:fthe interests of third parties who use the relevant facilities |
-| Additional matters that must be considered regarding application of section 18: | Nil |
+| Co-location of equipment for fixed telecommunications services at sites used by Broadcast Communications Limited[Expired] |  |
 
 ## Schedule 2 — Telecommunications access codes
 
@@ -3638,11 +3623,11 @@ If, despite making reasonable efforts, the Commission is unable to do all of the
   (b) the Commission must, at the end of that period,—
     (i) prepare a draft report stating that the period has expired and setting out any amendments it wishes to make to the recommendation; or
     (ii) prepare a final report that includes a recommendation that the Minister should accept an undertaking under Schedule 3A and deliver that report to the Minister.
-(2) If subclause (1)(b)(i) applies, the Commission must also—
+(2) If subclause (1)﻿(b)﻿(i) applies, the Commission must also—
   (a) give public notice of the draft report; and
   (b) include in the public notice the closing date for submissions, which must not be later than 20 working days after the date of giving public notice; and
   (c) prepare, as soon as is reasonably practicable after the closing date for submissions, a final report to the Minister that contains the matters set out in the draft report and summarises, and makes recommendations on, the submissions received on the draft report.
-(3) Clause 6 again applies to the report referred to in subclause (1)(b)(ii) or (2)(c), as the case may be.
+(3) Clause 6 again applies to the report referred to in subclause (1)﻿(b)﻿(ii) or (2)﻿(c), as the case may be.
 
 ### Part 2 — Procedure for specified services to become designated services
 
@@ -3716,11 +3701,11 @@ If, despite making reasonable efforts, the Commission is unable to do all of the
   (b) the Commission must, at the end of that period,—
     (i) prepare a draft report stating that the period has expired and setting out any amendments it wishes to make to the recommendation; or
     (ii) prepare a final report that includes a recommendation that the Minister should accept an undertaking under Schedule 3A and deliver that report to the Minister.
-(2) If subclause (1)(b)(i) applies, the Commission must also—
+(2) If subclause (1)﻿(b)﻿(i) applies, the Commission must also—
   (a) give public notice of the draft report; and
   (b) include in the public notice the closing date for submissions, which must not be later than 20 working days after the date of giving public notice; and
   (c) prepare, as soon as is reasonably practicable after the closing date for submissions, a final report to the Minister that contains the matters set out in the draft report and summarises, and makes recommendations on, the submissions received on the draft report.
-(3) Clause 6 applies to the report referred to in subclause (1)(b)(ii) or (2)(c), as the case may be.
+(3) Clause 6 applies to the report referred to in subclause (1)﻿(b)﻿(ii) or (2)﻿(c), as the case may be.
 
 ## Schedule 3A — Undertakings
 
@@ -3733,9 +3718,9 @@ In this schedule, unless the context otherwise requires,—
     (b) includes the Commission's recommendation on—
       (i) a proposed regulatory change:
       (ii) as the case may be, an undertaking
-  - **proposed addition** has the meaning set out in clause 8(1)(b) of Schedule 3
+  - **proposed addition** has the meaning set out in clause 8(1)﻿(b) of Schedule 3
   - **proposed alteration** has the meaning set out in clause 1(1) of Schedule 3
-  - **proposed omission** has the meaning set out in clause 8(1)(a) of Schedule 3
+  - **proposed omission** has the meaning set out in clause 8(1)﻿(a) of Schedule 3
   - **proposed regulatory change** means—
     (a) a proposed alteration; or
     (b) as the case may be,—
@@ -3794,7 +3779,7 @@ If the Minister accepts the Commission's recommendation that the Minister should
 (1) The registration of an undertaking is effective for—
   (a) a period of 5 years from the date of registration; and
   (b) any further period that the Commission and the relevant access provider may agree.
-(2) The Commission must consult with every person who has a material interest in the matter before agreeing to a further period under subclause (1)(b).
+(2) The Commission must consult with every person who has a material interest in the matter before agreeing to a further period under subclause (1)﻿(b).
 (3) Despite subclause (1), the Commission may make a recommendation in the final report to the Minister that, having regard to the matters specified in subclause (4), the registration of an undertaking should expire earlier than the 5-year period referred to in subclause (1).
 (4) The matters are—
   (a) the reasonable needs of potential access seekers; and
@@ -3870,7 +3855,7 @@ An application under clause 13 must—
   (a) give public notice of the application; and
   (b) invite persons who have a material interest in the proposed regulatory change to make written submissions on the application by the closing date specified in the public notice; and
   (c) consider those submissions.
-(2) The closing date for submissions must not be earlier than 10 working days after the date on which public notice is given under subclause (1)(a).
+(2) The closing date for submissions must not be earlier than 10 working days after the date on which public notice is given under subclause (1)﻿(a).
 (3) Before determining the application, the Commission must give the access provider who made the application a reasonable opportunity to amend it in light of any submissions received by the Commission under this clause.
 
 ## Schedule 3B — Annual telecommunications development levy
@@ -3884,12 +3869,15 @@ An application under clause 13 must—
 | 2013/14 | 50 million |
 | 2014/15 | 50 million |
 | 2015/16 | 50 million |
-| 2016/17 | 10 million |
-| 2017/18 and each subsequent financial year | the inflation-adjusted specified telecommunications development levy |
+| 2016/17 | 50 million |
+| 2017/18 | 50 million |
+| 2018/19 | 50 million |
+| 2019/20 | 10 million |
+| 2020/21 and each subsequent financial year | the inflation-adjusted specified telecommunications development levy |
 
-|  | a | × | c |
-| --- | --- | --- | --- |
-| b |  |  |  |
+| a | × c |
+| --- | --- |
+| b |  |
 
 ## Schedule 4 — Enactments amended
 
@@ -3911,7 +3899,7 @@ This Act is the Telecommunications Amendment Act (No 2) 2006.
 (2) The Commission may continue and complete the matter in accordance with—
   (a) subpart 2 of Part 2 of the principal Act (as if this Act had not been enacted); or
   (b) subpart 2A of Part 2 of the principal Act (as inserted by this Act) as if the determination under section 27 were a standard terms determination.
-(3) For the purposes of subsection (2)(b), the provisions of subpart 2A of Part 2 of the principal Act (as inserted by this Act) apply with any necessary modifications.
+(3) For the purposes of subsection (2)﻿(b), the provisions of subpart 2A of Part 2 of the principal Act (as inserted by this Act) apply with any necessary modifications.
 
 ### 63 Transitional provision for TSO determinations
 Despite the amendments made by this Act to the principal Act, the principal Act continues to apply as if those amendments had not been made in respect of any TSO determinations that were commenced, but not completed, before the commencement of this Act.
@@ -3981,7 +3969,7 @@ The principal Act continues to apply, as if this Act had not been passed, to—
     (iii) directory services in respect of PSTN numbers; and
   (e) sections 81(1) and 82 do not apply.
 (3) For the avoidance of doubt,—
-  (a) section 81(2) and (3) apply for the purpose of determining whether a person is a liable person, within the meaning of subsection (2)(b)(i) of this section, to whom subpart 2 of Part 3 of the principal Act applies in respect of the financial year ended 30 June 2011; and
+  (a) section 81(2) and (3) apply for the purpose of determining whether a person is a liable person, within the meaning of subsection (2)﻿(b)﻿(i) of this section, to whom subpart 2 of Part 3 of the principal Act applies in respect of the financial year ended 30 June 2011; and
   (b) except as provided in subsections (1) and (2) of this section, subpart 2 of Part 3 of the principal Act (as substituted by this Act) otherwise applies in respect of the financial year ended 30 June 2011.
 
 ### 30 Transitional provision concerning information about deemed TSO instruments to be included in TSO cost calculation determinations
@@ -4119,7 +4107,7 @@ The Minister may grant an exemption under section 69N of the principal Act (as i
 **Saving and transitional provisions relating to designated access services**
 
 ### 71 Standard terms determinations continue to apply
-(1) Each standard terms determination referred to in the first column of the following table remains in force and continues to apply as if the determination were a determination made by the Commission for the designated access service set out in the second column of that table opposite that determination:Standard terms determinationDesignated access serviceStandard terms determination for Telecom's unbundled bitstream access, 12 December 2007Chorus's unbundled bitstream accessStandard terms determination for Telecom's unbundled bitstream access backhaul service, 27 June 2008Chorus's unbundled bitstream access backhaulStandard terms determination for Telecom's unbundled copper local loop network service, 7 November 2007Standard terms determination for the designated services of Telecom's unbundled copper local loop network service (Sub-loop UCLL), Telecom's unbundled copper local loop network co-location service (Sub-loop Co-location) and Telecom's unbundled copper local loop network backhaul service (Sub-loop backhaul), 18 June 2009 (the Sub-loop services standard terms determination)Chorus's unbundled copper local loop networkStandard terms determination for Telecom’s unbundled copper local loop network co-location service, 7 November 2007Sub-loop services standard terms determinationChorus's unbundled copper local loop network co-locationSub-loop services standard terms determinationChorus's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange)Standard terms determination for Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, 27 June 2008Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point)
+(1) Each standard terms determination referred to in the first column of the following table remains in force and continues to apply as if the determination were a determination made by the Commission for the designated access service set out in the second column of that table opposite that determination:The following table is small in size and has 2 columns. Column 1 is headed Standard terms determination. Column 2 is headed Designated access serviceStandard terms determinationDesignated access serviceStandard terms determination for Telecom's unbundled bitstream access, 12 December 2007Chorus's unbundled bitstream accessStandard terms determination for Telecom's unbundled bitstream access backhaul service, 27 June 2008Chorus's unbundled bitstream access backhaulStandard terms determination for Telecom's unbundled copper local loop network service, 7 November 2007Standard terms determination for the designated services of Telecom's unbundled copper local loop network service (Sub-loop UCLL), Telecom's unbundled copper local loop network co-location service (Sub-loop Co-location) and Telecom's unbundled copper local loop network backhaul service (Sub-loop backhaul), 18 June 2009 (the Sub-loop services standard terms determination)Chorus's unbundled copper local loop networkStandard terms determination for Telecom’s unbundled copper local loop network co-location service, 7 November 2007Sub-loop services standard terms determinationChorus's unbundled copper local loop network co-locationSub-loop services standard terms determinationChorus's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange)Standard terms determination for Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, 27 June 2008Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point)
 (2) Part 2 of the principal Act applies to each standard terms determination accordingly.
 (3) Subsections (1) and (2) are subject to sections 72 to 79.
 
@@ -4144,7 +4132,7 @@ The Minister may grant an exemption under section 69N of the principal Act (as i
   (c) give public notice of the results of each review.
 (3) However, no variation of, addition to, or deletion of terms in the unbundled copper local loop network determination or the Sub-loop services standard terms determination that relates to the implementation of clause 4A of subpart 1 of Part 1 of Schedule 1 may take effect before the expiry of 3 years from separation day.
 (4) To avoid doubt, clause 4A of subpart 1 of Part 1 of Schedule 1 of the principal Act applies to Chorus's unbundled bitstream access service on and after separation day and any changes made to the standard terms determination in accordance with subsection (1) for the purpose of implementing that clause take effect from the close of the day before separation day.
-(5) The table referred to in subsection (2) is—Standard terms determinationDesignated access serviceStandard terms determination for Telecom's unbundled bitstream access, 12 December 2007Chorus's unbundled bitstream access (excluding the initial and the final pricing principles applicable after the expiry of 3 years from separation day)Standard terms determination for Telecom’s unbundled copper local loop network co-location service, 7 November 2007Chorus's unbundled copper local loop network co-locationStandard terms determination for Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, 27 June 2008Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point)
+(5) The table referred to in subsection (2) is—The following table is small in size and has 2 columns. Column 1 is headed Standard terms determination. Column 2 is headed Designated access serviceStandard terms determinationDesignated access serviceStandard terms determination for Telecom's unbundled bitstream access, 12 December 2007Chorus's unbundled bitstream access (excluding the initial and the final pricing principles applicable after the expiry of 3 years from separation day)Standard terms determination for Telecom’s unbundled copper local loop network co-location service, 7 November 2007Chorus's unbundled copper local loop network co-locationStandard terms determination for Telecom's unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, 27 June 2008Chorus's unbundled copper local loop network backhaul (telephone exchange to interconnect point)
 
 ### 74 Commission must make standard terms determination for Chorus's unbundled copper low frequency service before separation day
 (1) The Commission must make reasonable efforts to make a standard terms determination under section 30M for Chorus's unbundled copper low frequency service before separation day.
@@ -4175,8 +4163,8 @@ Despite section 71(2), the following provisions of the principal Act do not appl
 (2) To avoid doubt, no variation of, addition to, or deletion of terms specified in the standard terms determination as a result of the Commission's review in accordance with subsection (1) may take effect before the expiry of 3 years from separation day.
 
 ### 78 Party to standard terms determination for Chorus's unbundled bitstream access service may apply for pricing review
-(1) A party to the standard terms determination for Chorus's unbundled bitstream access service may apply for a pricing review under section 42 as if the review under section 77(1)(a) were a determination made under section 30M regarding the price payable for the service.
-(2) The pricing review application must be made in accordance with section 43, except that section 43(b)(ii) (which relates to the time within which an application under section 42 must be made) does not apply and the application must be given to the Commission not later than 25 working days after the Commission gives public notice of the review in accordance with section 77(1)(b).
+(1) A party to the standard terms determination for Chorus's unbundled bitstream access service may apply for a pricing review under section 42 as if the review under section 77(1)﻿(a) were a determination made under section 30M regarding the price payable for the service.
+(2) The pricing review application must be made in accordance with section 43, except that section 43(b)﻿(ii) (which relates to the time within which an application under section 42 must be made) does not apply and the application must be given to the Commission not later than 25 working days after the Commission gives public notice of the review in accordance with section 77(1)﻿(b).
 (3) The Commission must make reasonable efforts to complete the pricing review determination before the expiry of 3 years from separation day.
 
 ### 79 Chorus's unbundled bitstream access prices grandfathered
