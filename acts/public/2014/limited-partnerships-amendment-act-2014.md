@@ -1,5 +1,5 @@
 # Limited Partnerships Amendment Act 2014
-_Consolidation as at 2014-09-01_
+_Consolidation as at 2015-05-29_
 
 ### 1 Title
 This Act is the Limited Partnerships Amendment Act 2014.
@@ -17,7 +17,7 @@ This Act amends the Limited Partnerships Act 2008.
 ## Part 1 — One or more general partners to live in New Zealand and other measures
 
 ### 4 Interpretation
-Section 4 is amended by inserting the following definitions in their appropriate alphabetical order:.
+Section 4 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **company** has the meaning set out in section 2(1) of the Companies Act 1993
   - **enforcement country** means a country, State, or territory outside New Zealand prescribed for the purposes of section 8(4)
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
@@ -74,33 +74,33 @@ The following sections are inserted after section 19:Qualifications of general p
 Section 19A(2)﻿(f) (as inserted by section 7 of this Act) is amended by omitting the Securities Act 1978, the Securities Markets Act 1988, and substituting the Financial Markets Conduct Act 2013.
 
 ### 9 Application for registration
-(1) Section 52(1) is amended by repealing paragraph (d) and substituting the following paragraphs:.
+(1) Section 52(1) is amended by repealing paragraph (d) and substituting the following paragraphs:
   (d) in relation to every natural person who is a proposed general partner or who is a director, partner, or general partner of a proposed general partner, state—
     (i) his or her full name and date and place of birth; and
     (ii) his or her residential address; and
     (iii) if the residential address is in an enforcement country, whether the natural person is a director of a company that is registered (except as the equivalent of an overseas company) in that enforcement country and, if so, the prescribed information; and
   (da) in relation to every proposed general partner who is not a natural person, state the general partner's name and address; and
-(2) Section 52(1) is amended by repealing paragraph (e) and substituting the following paragraphs:.
+(2) Section 52(1) is amended by repealing paragraph (e) and substituting the following paragraphs:
   (e) contain a list of the full names, residential addresses, and dates and places of birth of the proposed limited partners who are natural persons; and
   (ea) contain a list of the names and addresses of the proposed limited partners who are not natural persons; and
 
 ### 10 Contents of registers
-(1) Section 57(1) is amended by repealing paragraph (e) and substituting the following paragraphs:.
+(1) Section 57(1) is amended by repealing paragraph (e) and substituting the following paragraphs:
   (e) the full name and residential address of—
     (i) every general partner who is a natural person; and
     (ii) every general partner's director, partner, or general partner who is a natural person:
   (ea) the name and address of every general partner who is not a natural person:
-(2) Section 57(1) is amended by repealing paragraph (f) and substituting the following paragraph:.
+(2) Section 57(1) is amended by repealing paragraph (f) and substituting the following paragraph:
   (f) the date and place of birth of—
     (i) every general partner who is a natural person; and
     (ii) every general partner's director, partner, or general partner who is a natural person:
-(3) Section 57(1) is amended by repealing paragraph (g) and substituting the following paragraphs:.
+(3) Section 57(1) is amended by repealing paragraph (g) and substituting the following paragraphs:
   (g) the full name, residential address, and date and place of birth of every limited partner who is a natural person:
   (ga) the name and address of every limited partner who is not a natural person:
 (4) Section 57(2) is amended by omitting and (g) and substituting , (g), and (ga).
 
 ### 11 Searches of register
-(1) Section 64(2) is amended by repealing paragraph (g) and substituting the following paragraphs:.
+(1) Section 64(2) is amended by repealing paragraph (g) and substituting the following paragraphs:
   (g) the name and residential address of—
     (i) a general partner who is a natural person; and
     (ii) a general partner's director, partner, or general partner who is a natural person:
@@ -112,7 +112,7 @@ Section 19A(2)﻿(f) (as inserted by section 7 of this Act) is amended by omitti
     (ii) a general partner's director, partner, or general partner who is a natural person.
 
 ### 12 Records of limited partnership
-Section 74(1) is amended by repealing paragraph (c) and substituting the following paragraphs:.
+Section 74(1) is amended by repealing paragraph (c) and substituting the following paragraphs:
   (c) the full name and residential address of—
     (i) each current partner who is a natural person; and
     (ii) each current partner's director, partner, or general partner who is a natural person:
@@ -127,7 +127,7 @@ Section 74(1) is amended by repealing paragraph (c) and substituting the followi
 Section 109(1) is amended by omitting full.
 
 ### 15 Regulations
-Section 116(1) is amended by inserting the following paragraphs after paragraph (g):.
+Section 116(1) is amended by inserting the following paragraphs after paragraph (g):
   (ga) prescribing a country, State, or territory outside New Zealand as an enforcement country for the purposes of section 8(4) if the country, State, or territory has an agreement with New Zealand that allows for the recognition and enforcement there of New Zealand judgments imposing regulatory regime criminal fines:
   (gb) prescribing countries, States, or territories outside New Zealand for the purposes of section 19A(2)﻿(g):
   (gc) prescribing countries, States, or territories outside New Zealand for the purposes of section 19A(2)﻿(h):
@@ -163,7 +163,7 @@ Schedule 2 of the principal Act (as inserted by Schedule 1 and section 16 of thi
 ## Part 2 — Enhanced powers of Registrar
 
 ### 20 Interpretation
-Section 4 is amended by inserting the following definition in its appropriate alphabetical order:.
+Section 4 is amended by inserting the following definition in its appropriate alphabetical order:
   - **control interest** has the meaning set out in sections 78B to 78E
 
 ### 21 Rectification or correction of register
@@ -182,11 +182,11 @@ The following section is inserted after section 63:Registrar must remove note of
   The Registrar must remove a note of warning inserted under section 63 if the Registrar is satisfied that the reasons for inserting it do not exist.
 
 ### 24 Registrar's powers of inspection
-(1) Section 78(1) is amended by inserting the following paragraph before paragraph (a):.
+(1) Section 78(1) is amended by inserting the following paragraph before paragraph (a):
   (aaa) ascertaining whether information provided to the Registrar is correct; or
 (2) Section 78(1) is amended by adding ; or and also by adding the following paragraph:
   (c) detecting offences against this Act.
-(3) Section 78(2) is amended by inserting the following paragraph before paragraph (a):.
+(3) Section 78(2) is amended by inserting the following paragraph before paragraph (a):
   (aaa) requiring a person, in relation to information provided to the Registrar, to—
     (i) confirm that the information is correct; or
     (ii) correct the information:
@@ -197,7 +197,7 @@ The following section is inserted after section 63:Registrar must remove note of
     (c) whether the confirmation or correction must be verified by the production of original documents or certified copies of original documents or by a statutory declaration.
 
 ### 25 New sections 78A to 78H and headings inserted
-The following sections and headings are inserted after section 78:Registrar's powers to identify controllers of limited partnershipPurpose of sections 78B to 78HControl interests in partnership interests (basic rule)1988 No 234 s 5Extension of basic rule to powers or controls exercisable through trust, agreement, etc1988 No 234 s 5AExtension of basic rule to interests held by other persons under control or acting jointly1988 No 234 s 5B(1)Situations not giving rise to control interests1988 No 234 s 6Registrar may require persons to disclose control interests and powers to get control interests1988 No 234 ss 34, 35; Corporations Act 2001 ss 672A, 672B (Aust)Registrar may require disclosure about controllers or delegates of general partnersRegistrar may specify deadlines, form, and verification for information required under section 78F or 78GOther matters relating to Registrar's powers.
+The following sections and headings are inserted after section 78:Registrar's powers to identify controllers of limited partnershipPurpose of sections 78B to 78HControl interests in partnership interests (basic rule)1988 No 234 s 5Extension of basic rule to powers or controls exercisable through trust, agreement, etc1988 No 234 s 5AExtension of basic rule to interests held by other persons under control or acting jointly1988 No 234 s 5B(1)Situations not giving rise to control interests1988 No 234 s 6Registrar may require persons to disclose control interests and powers to get control interests1988 No 234 ss 34, 35; Corporations Act 2001 ss 672A, 672B (Aust)Registrar may require disclosure about controllers or delegates of general partnersRegistrar may specify deadlines, form, and verification for information required under section 78F or 78GOther matters relating to Registrar's powers
   (1) The purpose of sections 78B to 78H is to ensure that the Registrar may, for law enforcement purposes, obtain adequate, accurate, and timely information on the beneficial ownership and control of limited partnerships in order to conform with New Zealand's obligations under the FATF Recommendations.
   (2) In this section,—
     - **FATF** means the Financial Action Task Force on Money Laundering established in Paris in 1989
@@ -343,7 +343,7 @@ The following section is inserted after section 98:Deregistration by Registrar
     (e) a board were references to the general partners.
 
 ### 30 New heading and sections 103A to 103G inserted
-The following heading and sections are inserted after section 103:Prohibited and disqualified personsPersons prohibited from managing limited partnerships1993 No 105 s 382Court may disqualify general partners1993 No 105 s 383Liability for contravening section 103A or 103B1993 No 105 s 384Registrar or FMA may prohibit persons from managing limited partnerships1993 No 105 s 385Additional power for Registrar or FMA to prohibit persons from being involved in management of limited partnerships1993 No 105 s 385AAAppeals from FMA's exercise of power under section 103D or 103E1993 No 105 s 385ALiability for contravening section 103D or 103E1993 No 105 s 386.
+The following heading and sections are inserted after section 103:Prohibited and disqualified personsPersons prohibited from managing limited partnerships1993 No 105 s 382Court may disqualify general partners1993 No 105 s 383Liability for contravening section 103A or 103B1993 No 105 s 384Registrar or FMA may prohibit persons from managing limited partnerships1993 No 105 s 385Additional power for Registrar or FMA to prohibit persons from being involved in management of limited partnerships1993 No 105 s 385AAAppeals from FMA's exercise of power under section 103D or 103E1993 No 105 s 385ALiability for contravening section 103D or 103E1993 No 105 s 386
   (1) The persons described in subsection (2) must not, during the period of 5 years after the relevant conviction or judgment, be a general partner or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a limited partnership, unless that person first obtains the leave of the court which may be given on such terms and conditions as the court thinks fit.
   (2) Subsection (1) applies to the following persons:
     (a) a person who has been convicted of an offence in connection with the promotion, formation, or management of a company (being an offence that is punishable by a term of imprisonment of not less than 3 months); or
