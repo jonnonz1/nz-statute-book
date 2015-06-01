@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2015-05-27_
+_Consolidation as at 2015-06-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -891,7 +891,7 @@ Part 2 of the Trustee Act 1956 does not apply to the Commissioner in respect of 
 (2) The interest rate calculated using the formula is expressed as a percentage, rounded to 2 decimal places, with numbers at the midpoint or greater being rounded up and other numbers being rounded down.
 
 ### 87 Amount of interest payable
-The amount of interest payable by the Commissioner in respect of a person is calculated in accordance with the following formula:The following table is small in size and contains a formula.(interest rate × contribution) ×interest period365where—
+The amount of interest payable by the Commissioner in respect of a person is calculated in accordance with the following formula:interest rate × contribution × interest period ÷ 365where—
   - **contribution** is the amount of contribution in respect of the person to whom the interest is payable
   - **interest period** is the number of days in the period that begins on the day on which the Commissioner receives, or is treated as receiving, the amount of contribution and ends with the day on which the Commissioner on-pays the amount of contribution to the provider of the person’s KiwiSaver scheme or refunds the amount under this Part (except section 81)
   - **interest rate** is the rate calculated under section 86.
@@ -970,7 +970,7 @@ For the purposes of the Income Tax Act 2007 and the Tax Administration Act 1994,
 (1) This section applies if—
   (a) an employer, for a PAYE period, shows payments of employer contribution under this subpart on a remittance certificate or employer monthly schedule in respect of more than 1 of the employer’s employees; and
   (b) the total amount received by the Commissioner for that PAYE period in respect of employer contribution under this subpart is less than the amounts shown on the remittance certificate and employer monthly schedule in respect of all of those employees.
-(2) For the purposes of this subpart, the amount of employer contribution (gross of any ESCT) that the Commissioner is treated as receiving for any one employee is given by the following formula:The following table is small in size and contains a formulaa × bcwhere—
+(2) For the purposes of this subpart, the amount of employer contribution (gross of any ESCT) that the Commissioner is treated as receiving for any one employee is given by the following formula:a × b ÷ cwhere—
   (a) is the total employer contributions received by the Commissioner under this subpart for all of the employer’s employees for the month to which the employer monthly schedule relates
   (b) is the employer contribution shown on the employer monthly schedule for the relevant employee for the month to which the employer monthly schedule relates
   (c) is the total employer contributions shown on either or both of the remittance certificate or employer monthly schedule for all of the employer’s employees for the month to which the employer monthly schedule relates.
@@ -2299,11 +2299,16 @@ A manager may reasonably require a member who applies to make a permitted withdr
     (i) first, from the member’s accumulation excluding the Crown contribution (disregarding any positive or negative returns for the purpose of calculating the amount of that contribution) paid in respect of the member; and
     (ii) second, from the Crown contribution (including any positive or negative returns for the purpose of calculating the amount of that contribution), less the amount paid under section 226; and
   (b) any withdrawal made under the relevant provision must be paid to a practitioner (within the meaning of section 6 of the Lawyers and Conveyancers Act 2006) acting on behalf of the member; and
-  (c) the manager may require from that practitioner, before payment of the withdrawal,—
+  (c) the manager must require from that practitioner, before payment of the withdrawal,—
     (i) a copy of an agreement for the sale and purchase (the agreement) of the estate in land or of the interest in a dwellinghouse on Maori land, showing the member as purchaser; and
     (ii) for an interest in a dwellinghouse on Maori land, evidence of the member’s right to occupy the Maori land; and
-    (iii) an undertaking that the agreement is unconditional at the time the manager makes the request; and
-    (iv) an undertaking that the funds will be paid to the vendors as part of the purchase price or will be repaid to the manager on account of the member if settlement of the agreement is not completed by the due date or any extended date.
+    (iii) an undertaking that the agreement is unconditional at the time the manager makes the request or, if the agreement is conditional, an undertaking that—
+      (A) payment of any amount of the withdrawal will be held by a stakeholder; and
+      (B) the stakeholder is obliged to hold the amount while the agreement is conditional; and
+    (iv) if the agreement is unconditional at the time the manager makes the request, an undertaking that the amount will be paid to the vendors as part of the purchase price or will be repaid to the manager on account of the member if settlement of the agreement is not completed in accordance with the agreement by the due date or any extended date; and
+    (v) if the agreement is conditional at the time the manager makes the request, an undertaking that—
+      (A) the stakeholder is obliged to repay the amount to the practitioner if settlement of the agreement is not completed in accordance with the agreement by the due date or any extended date (non-completion), but excepting non-completion due to the purchaser’s default; and
+      (B) the practitioner will repay the amount that the practitioner receives from the stakeholder to the manager on account of the member.
 (8) This clause is subject to the terms of any participation agreement that restricts or prevents the withdrawal of employer vested contributions that are not compulsory employer contributions in relation to the member.
 
 ### 9 Withdrawal on death
