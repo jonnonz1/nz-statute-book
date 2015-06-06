@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-06-06_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -30,7 +30,7 @@ In this Part and Parts 2 to 7, unless the context otherwise requires,—
   - **Judge** means a Judge of the High Court
   - **lawyer** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **ordinary resolution** means a resolution of creditors passed in accordance with section 92(1)(a)
+  - **ordinary resolution** means a resolution of creditors passed in accordance with section 92(1)﻿(a)
   - **overseas company** means a company that is incorporated outside New Zealand
   - **prescribed** means prescribed by this Act or by regulations made under this Act or by rules
   - **property** means property of every kind, whether tangible or intangible, real or personal, corporeal or incorporeal, and includes rights, interests, and claims of every kind in relation to property however they arise
@@ -44,7 +44,7 @@ In this Part and Parts 2 to 7, unless the context otherwise requires,—
   - **secured creditor** means a person entitled to a charge on or over property owned by a debtor
   - **shares** includes stock
   - **sheriff** includes any officer who undertakes the execution or process of any court
-  - **special resolution** means a resolution of creditors passed in accordance with section 92(1)(b)
+  - **special resolution** means a resolution of creditors passed in accordance with section 92(1)﻿(b)
   - **spouse** , in relation to a person (), includes a person with whom A has a de facto relationship (whether that person is of the same or a different sex as A) and a civil union partner
   - **student loan balance** means a consolidated loan balance, as that term is defined in section 4(1) of the Student Loan Scheme Act 2011
   - **supervisor** means a person who is appointed under section 345.
@@ -142,20 +142,20 @@ A creditor may only withdraw an application for adjudication with the permission
     (ii) satisfied the court that he or she has a cross claim against the creditor.
 (2) The form that the bankruptcy notice must take is set out in section 29.
 (3) The debtor must have been served with the bankruptcy notice in New Zealand, unless the court gave permission for the service of the notice on the debtor outside New Zealand.
-(4) The time limit referred to in subsection (1)(d) is,—
+(4) The time limit referred to in subsection (1)﻿(d) is,—
   (a) if the debtor is served with the bankruptcy notice in New Zealand, 10 working days after service; or
   (b) if the debtor is served outside New Zealand, the time specified in the order of the court permitting service outside New Zealand.
 (5) In this section, a creditor who has obtained a final judgment or a final order includes a person who is for the time being entitled to enforce a final judgment or final order.
 (6) In this section, if a court has given permission for enforcing an arbitration award that the debtor pay money to the creditor,—
   (a) final order includes the arbitration award; and
   (b) proceedings includes the arbitration proceedings in which the award was made.
-(7) In subsection (1)(d)(ii), cross claim means a counterclaim, set-off, or cross demand that—
+(7) In subsection (1)﻿(d)﻿(ii), cross claim means a counterclaim, set-off, or cross demand that—
   (a) is equal to, or greater than, the judgment debt or the amount that the debtor has been ordered to pay; and
   (b) the debtor could not use as a defence in the action or proceedings in which the judgment or the order, as the case may be, was obtained.
 
 ### 18 Disposition of property to trustee for benefit of creditors
 (1) A debtor commits an act of bankruptcy if, in New Zealand or elsewhere, the debtor disposes of all, or substantially all, of the debtor's property to a trustee for the benefit of all or any of the debtor's creditors.
-(2) This section is subject to section 41(3)(a).
+(2) This section is subject to section 41(3)﻿(a).
 
 ### 19 Fraud or intent to prefer a creditor
 A debtor commits an act of bankruptcy if the debtor takes any of the following steps fraudulently or with an intent to give any creditor an advantage over other creditors:
@@ -179,7 +179,7 @@ A debtor commits an act of bankruptcy if the debtor notifies any of the debtor's
 (1) A debtor commits an act of bankruptcy if the debtor admits at a meeting of creditors that he or she is insolvent and—
   (a) a majority of the creditors present at the meeting requires the debtor to file an application for adjudication; or
   (b) the debtor agrees to file an application for adjudication and does not do so within 2 working days after the meeting.
-(2) In subsection (1)(a), majority means a majority by number of creditors present and the value of their combined debts.
+(2) In subsection (1)﻿(a), majority means a majority by number of creditors present and the value of their combined debts.
 
 ### 24 Possession under execution process
 (1) A debtor commits an act of bankruptcy if—
@@ -191,7 +191,7 @@ A debtor commits an act of bankruptcy if the debtor notifies any of the debtor's
   (b) a writ of possession; or
   (c) a writ of arrest; or
   (d) a writ of sequestration.
-(3) The period of 5 working days in subsection (1)(c) is qualified if an interpleader application has been made in respect of the debtor's property that has been taken into possession. In that case the period of 5 working days does not include the days that elapse between—
+(3) The period of 5 working days in subsection (1)﻿(c) is qualified if an interpleader application has been made in respect of the debtor's property that has been taken into possession. In that case the period of 5 working days does not include the days that elapse between—
   (a) the date when the application is made; and
   (b) the date when the application is finally determined, withdrawn, abandoned, or otherwise resolved.
 
@@ -269,7 +269,7 @@ In sections 31 to 34, execution process means any of the following:
     (i) a writ or warrant for the possession, seizure, or sale of any property:
     (ii) a writ of attachment:
   (b) obtaining a garnishee order in favour of a judgment creditor under rule 638 of the District Courts Rules 1992:
-  (c) obtaining an order that a judgment creditor may sue a subdebtor under rule 639(2)(c) of the District Courts Rules 1992:
+  (c) obtaining an order that a judgment creditor may sue a subdebtor under rule 639(2)﻿(c) of the District Courts Rules 1992:
   (d) having an interim charging order made final under rule 17.59 of the High Court Rules:
   (e) beginning or continuing proceedings in any court for the appointment of a receiver of any property, except an application for the appointment of the Assignee as receiver and manager under section 50:
   (f) exercising any power of re-entry under a lease, or any power terminating a lease:
@@ -488,7 +488,7 @@ At any time after filing a statement of affairs with the Assignee under section 
   (c) any other relevant matters.
 
 ### 74 Notice that first creditors' meeting should not be called
-The Assignee's notice to creditors under section 73(1)(b) must—
+The Assignee's notice to creditors under section 73(1)﻿(b) must—
   (a) state that the Assignee considers that the first creditors' meeting should not be called; and
   (b) give the reasons for not calling the meeting; and
   (c) state that the Assignee will not call the meeting unless a creditor gives the Assignee written notice, within 10 working days after the Assignee's notice was sent, requiring the Assignee to call the meeting.
@@ -614,7 +614,7 @@ A person who is not a creditor of the bankrupt may attend a creditors' meeting w
   (a) by postal vote; or
   (b) by electronic vote, if the voting paper for the resolution allows it, in accordance with the procedure specified in the voting paper.
 (2) A postal or electronic vote must reach the Assignee at least 2 working days before the meeting begins if it is to be counted at the meeting.
-(3) A voting paper for each resolution to be put to a creditors' meeting must accompany the notice of the meeting, together with instructions for returning the voting paper or electronic vote (if allowed by the voting paper under section 93(1)(b)) to the Assignee at least 2 working days before the meeting begins.
+(3) A voting paper for each resolution to be put to a creditors' meeting must accompany the notice of the meeting, together with instructions for returning the voting paper or electronic vote (if allowed by the voting paper under section 93(1)﻿(b)) to the Assignee at least 2 working days before the meeting begins.
 
 ### 94 Who may vote at creditors' meeting
 Creditors of the bankrupt who are entitled to vote, or their representatives, may vote at a creditors' meeting, but this rule is qualified by the provisions of sections 95 to 97.
@@ -791,7 +791,7 @@ A disclaimer by the Assignee—
   (a) claim as a creditor in the bankruptcy for the amount of the loss or damage, taking account of the effect of an order made by the court under paragraph (b):
   (b) apply to the court for an order that the disclaimed property be delivered to, or vested in, that person.
 (2) The bankrupt may also apply for an order that the disclaimed property be delivered to, or vested in, the bankrupt.
-(3) The court may make an order under subsection (1)(b) or (2) if it is satisfied that it is fair that the property should be delivered to, or vested in, the applicant.
+(3) The court may make an order under subsection (1)﻿(b) or (2) if it is satisfied that it is fair that the property should be delivered to, or vested in, the applicant.
 
 ### 120 Assignee may be required to elect whether to disclaim
 The Assignee loses the right to disclaim if—
@@ -813,13 +813,13 @@ The Assignee loses the right to disclaim if—
 (2) The Assignee must—
   (a) register, under the Land Transfer Act 1952, the transmission of the interest in the land to the Assignee; or
   (b) give notice to the mortgagee or other person entitled under the charge that the Assignee cannot, or does not intend to, register transmission of the interest in the land.
-(3) Notice under subsection (2)(b) is notice that the interest has vested in the Assignee, and the mortgagee or person entitled under the charge is, in the event of entering into possession or selling, liable to account to the Assignee as if the Assignee were the registered proprietor of the interest.
+(3) Notice under subsection (2)﻿(b) is notice that the interest has vested in the Assignee, and the mortgagee or person entitled under the charge is, in the event of entering into possession or selling, liable to account to the Assignee as if the Assignee were the registered proprietor of the interest.
 
 ### 123 Assignee cannot claim interest in land if bankrupt remains in possession until discharge
 (1) The Assignee cannot, after the bankrupt's discharge, claim an interest in land to which section 122(1) applies and for which the Assignee has not registered a transmission if the bankrupt—
   (a) was in possession of the interest at the time of adjudication; and
   (b) remained in possession until discharge from bankruptcy.
-(2) Subsection (1) applies whether or not the Assignee gave a notice under section 122(2)(b).
+(2) Subsection (1) applies whether or not the Assignee gave a notice under section 122(2)﻿(b).
 (3) However, the Assignee may apply to the court for an order that the Assignee is entitled, after discharge, to claim the bankrupt's interest in the land, and the court must have regard to—
   (a) the good faith of the bankrupt; and
   (b) the time that has elapsed since adjudication; and
@@ -868,7 +868,7 @@ The Assignee loses the right to disclaim liability under shares if—
 
 ### 129 Meaning of hire purchase terms used in this subpart
 In sections 130 to 133,—
-  - **cash price** , , , , and have the same meanings as in section 2(1) of the Credit (Repossession) Act 1997
+  - **cash price** , , , , and have the same meanings as in section 5 of the Credit Contracts and Consumer Finance Act 2003
   - **hire purchase agreement** has the same meaning as in section 2(1) of the Administration Act 1969 (except that an agreement made otherwise than at retail is not a hire purchase agreement for the purposes of this Act)
   - **purchaser** means the person to whom consumer goods are disposed of under a hire purchase agreement, and, if the rights of that person are transferred by assignment or by operation of law, includes the person for the time being entitled to those rights.
 
@@ -878,25 +878,25 @@ In sections 130 to 133,—
   (b) the creditor either—
     (i) took possession of the goods within 21 days before adjudication, and after adjudication still possesses them; or
     (ii) takes possession of the goods after adjudication.
-(2) The creditor must not sell or dispose of the consumer goods or part with possession of them (except for storage or repair) until 1 month after the date when the creditor serves a postpossession notice on the Assignee (which in this section and section 131 is called the 1-month period).
+(2) The creditor must not sell or dispose of the consumer goods or part with possession of them (except for storage or repair) until 1 month after the date when the creditor serves a post-repossession notice on the Assignee (which in this section and section 131 is called the 1-month period).
 (3) However, subsection (2) does not apply if the Assignee consents in writing to the creditor selling or disposing of or parting with possession of the consumer goods before the expiry of the 1-month period.
 
 ### 131 Assignee's powers in relation to hire-purchase consumer goods
 (1) The Assignee may,—
-  (a) within the 1-month period, exercise the right under section 30 of the Credit (Repossession) Act 1997 to introduce a buyer for consumer goods; or
-  (b) at any time before the creditor sells or agrees to sell consumer goods under section 25 of the Credit (Repossession) Act 1997, settle the bankrupt's obligations as debtor in accordance with section 31 of that Act.
-(2) This section applies no matter what the Credit (Repossession) Act 1997 says.
+  (a) within the 1-month period, exercise the right under section 83ZD of the Credit Contracts and Consumer Finance Act 2003 to introduce a buyer for consumer goods; or
+  (b) at any time before the creditor sells or agrees to sell consumer goods under section 83Y of the Credit Contracts and Consumer Finance Act 2003, settle the bankrupt's obligations as debtor in accordance with section 83ZE.
+(2) This section applies no matter what Part 3A of the Credit Contracts and Consumer Finance Act 2003 says.
 
 ### 132 Creditor in possession of consumer goods may prove in bankruptcy if Assignee has not exercised powers
 (1) This section applies if—
   (a) a creditor has taken possession of consumer goods purchased under a hire purchase agreement, whether before or after the adjudication of the debtor; and
   (b) the Assignee has not acted under section 131 in relation to the goods.
-(2) The creditor may prove in the bankruptcy for the amount (which is subject to the limit in section 35 of the Credit (Repossession) Act 1997) that the creditor was entitled to recover from the bankrupt as debtor.
+(2) The creditor may prove in the bankruptcy for the amount (which is subject to the limit in section 83ZM of the Credit Contracts and Consumer Finance Act 2003) that the creditor was entitled to recover from the bankrupt as debtor.
 (3) If the creditor does prove in the bankruptcy under subsection (2),—
   (a) the creditor must submit the following documents with the creditor's claim form:
-    (i) the relevant post-possession notice; and
-    (ii) the statement of account mentioned in section 33 of the Credit (Repossession) Act 1997; and
-  (b) the Assignee has the rights conferred on a debtor by sections 20 to 36 of the Credit (Repossession) Act 1997.
+    (i) the relevant post-repossession notice; and
+    (ii) the statement of account mentioned in section 83ZI of the Credit Contracts and Consumer Finance Act 2003; and
+  (b) the Assignee has the rights conferred on a debtor by subpart 5 of Part 3A of the Credit Contracts and Consumer Finance Act 2003.
 
 ### 133 Creditor may assign consumer goods to Assignee
 (1) This section applies if—
@@ -1085,7 +1085,7 @@ If the bankrupt defaults in making a payment required under section 147, the onu
 (2) The bank may pay money out of the account if—
   (a) the bank is authorised by an order of the court or instructed by the Assignee to do so; or
   (b) the bank has notified the Assignee of the account and has not, within 1 month of notification, received any instructions from the Assignee.
-(3) At the same time that the bank notifies the Assignee under subsection (1)(a), the bank must as soon as possible notify the customer that it has notified the Assignee.
+(3) At the same time that the bank notifies the Assignee under subsection (1)﻿(a), the bank must as soon as possible notify the customer that it has notified the Assignee.
 
 ### 157 Assignee may require bank to search account records
 (1) The Assignee may, by written notice, require a bank to search its account records by comparing the names of its customers with the names (including any aliases) of undischarged bankrupts contained in or annexed to the notice.
@@ -1103,7 +1103,7 @@ If the bankrupt defaults in making a payment required under section 147, the onu
   (b) necessary household furniture and effects, including clothing, for the bankrupt and his or her relatives and dependants—the maximum value is fixed in the Assignee's discretion:
   (c) motor vehicle—$5,000.
 (4) For the purposes of this section, the value of an asset is the value that the Assignee in his or her discretion places on it.
-(5) The Governor-General may, by Order in Council, amend subsection (3)(c) by increasing the maximum value, to take account of any rise in the all groups index number of the Consumer Price Index.
+(5) The Governor-General may, by Order in Council, amend subsection (3)﻿(c) by increasing the maximum value, to take account of any rise in the all groups index number of the Consumer Price Index.
 
 ### 159 Bankrupt may retain certain assets with consent of creditors
 The bankrupt may retain necessary tools of trade and necessary household furniture and effects that are worth more than the maximum value, if the creditors consent by an ordinary resolution.
@@ -1168,17 +1168,17 @@ A creditor or his or her lawyer may at any reasonable time inspect the record of
 Sections 165 to 169 also apply when the Assignee has been appointed a receiver and manager of all or part of a debtor's property under section 50, and references in sections 165 to 169 to the bankrupt must be read with all necessary modifications as if they were references to the debtor.
 
 ### 171 Assignee may obtain documents
-In addition to the power contained in section 165(1)(b), the Assignee may, by notice in writing, require the bankrupt, the bankrupt's spouse, or any other person to deliver to the Assignee any document relating to the bankrupt's property, conduct, or dealings in that person's possession or under that person's control.
+In addition to the power contained in section 165(1)﻿(b), the Assignee may, by notice in writing, require the bankrupt, the bankrupt's spouse, or any other person to deliver to the Assignee any document relating to the bankrupt's property, conduct, or dealings in that person's possession or under that person's control.
 
 ### 172 No lien over bankrupt's documents and other records
 (1) A person is not entitled as against the Assignee to withhold possession of, or claim a lien over,—
   (a) a deed or instrument that belongs to the bankrupt; or
   (b) business records (which include accounting records, accounts, receipts, bills, invoices, or any other documents relating to the bankrupt's accounts, trade dealings, or business).
-(2) However, a person (A) may claim as a preferential creditor under section 274(2)(f) if—
+(2) However, a person (A) may claim as a preferential creditor under section 274(2)﻿(f) if—
   (a) A has performed services in connection with the bankrupt's business records or a deed or instrument belonging to the bankrupt; and
   (b) A has not been paid, or has not been paid in full, for those services; and
   (c) A would, but for subsection (1), ordinarily have had a lien over the business records, deed, or instrument, as the case may be.
-(3) The limit to which A may claim as a preferential creditor under section 274(2)(f) is 10% of the total value of the services stated in subsection (2), up to a maximum amount of $2,000.
+(3) The limit to which A may claim as a preferential creditor under section 274(2)﻿(f) is 10% of the total value of the services stated in subsection (2), up to a maximum amount of $2,000.
 
 **Bankrupt's public examination**
 
@@ -1238,7 +1238,7 @@ If the bankrupt does not appear for the examination at the appointed time and ha
 (2) The Assignee may—
   (a) examine the documents of the company:
   (b) examine any past or present director, employee, or shareholder of the company on oath about the company's affairs.
-(3) The examination of a person under subsection (2)(b) must be recorded in writing, and the person examined must sign the written record if required to do so by the Assignee.
+(3) The examination of a person under subsection (2)﻿(b) must be recorded in writing, and the person examined must sign the written record if required to do so by the Assignee.
 
 ### 183 Meaning of associate
 In section 182, associate means any of the following:
@@ -1258,7 +1258,7 @@ In section 182, associate means any of the following:
 (1) A statement made by a person examined or questioned under this Act in response to a question is not admissible in criminal proceedings against that person.
 (2) However, the statement is admissible if—
   (a) the person was examined or questioned under oath and is charged with perjury in relation to the statement; or
-  (b) in the case of the bankrupt, the bankrupt is charged with an offence under section 440(1)(b).
+  (b) in the case of the bankrupt, the bankrupt is charged with an offence under section 440(1)﻿(b).
 
 ### 186 Representation
 (1) A person who is examined under this Act may be represented by a lawyer.
@@ -1318,7 +1318,7 @@ The Assignee may recover money paid by a bankrupt, whether before or after adjud
   (d) a disposition of property to which subpart 6 of Part 6 (setting aside of dispositions that prejudice creditors) of the Property Law Act 2007 applies:
   (e) a transaction at undervalue:
   (f) a contribution by the bankrupt to the property of another person.
-(2) Broadly, the effect of this subpart is that the irregular transactions listed in subsection (1)(a) to (d) may be cancelled on the Assignee's initiative, and that, in appropriate cases, the Assignee may recover property or money from a party to an irregular transaction with the bankrupt.
+(2) Broadly, the effect of this subpart is that the irregular transactions listed in subsection (1)﻿(a) to (d) may be cancelled on the Assignee's initiative, and that, in appropriate cases, the Assignee may recover property or money from a party to an irregular transaction with the bankrupt.
 
 ### 193 Extension of 2 years and 6 months periods
 A reference in this subpart to 2 years or to 6 months means 2 years or 6 months (as the case may be) extended as follows:
@@ -1394,7 +1394,7 @@ A gift by a bankrupt to another person may be cancelled on the Assignee's initia
 (1) A gift by a bankrupt to another person may be cancelled on the Assignee's initiative if—
   (a) the bankrupt made the gift within the period beginning 2 years immediately before adjudication and ending 5 years immediately before adjudication; and
   (b) the bankrupt was unable to pay his or her debts.
-(2) A bankrupt is presumed to have been unable to pay his or her debts for the purpose of subsection (1)(b) unless the party claiming under the gift proves that the bankrupt was immediately after the making of the gift, or at any time after that up to his or her adjudication, able to pay his or her debts without the aid of the property that the gift is composed of.
+(2) A bankrupt is presumed to have been unable to pay his or her debts for the purpose of subsection (1)﻿(b) unless the party claiming under the gift proves that the bankrupt was immediately after the making of the gift, or at any time after that up to his or her adjudication, able to pay his or her debts without the aid of the property that the gift is composed of.
 
 **Procedure for cancelling irregular transactions**
 
@@ -1701,7 +1701,7 @@ On an application under section 237, 238, or 239, the court hearing the applicat
   (b) may prove as an unsecured creditor for the whole debt.
 
 ### 245 Assignee not required to act in relation to certain property subject to charge
-The Assignee may, but is not required to, carry out any duty or exercise any power in relation to property that is subject to a charge, except property subject to a charge that has been surrendered under section 243(1)(c) or 244(2)(a).
+The Assignee may, but is not required to, carry out any duty or exercise any power in relation to property that is subject to a charge, except property subject to a charge that has been surrendered under section 243(1)﻿(c) or 244(2)﻿(a).
 
 ### 246 Realisation of property subject to security
 (1) A secured creditor who realises property subject to a charge may prove as an unsecured creditor for any balance due after deducting the net amount realised.
@@ -1718,7 +1718,7 @@ The Assignee may, but is not required to, carry out any duty or exercise any pow
   (b) contain full particulars of the valuation and the debt; and
   (c) contain full particulars of the charge, including the date when it was given; and
   (d) identify any documents that substantiate the debt and the charge.
-(3) The creditor must produce any document identified under subsection (2)(d) if required by the Assignee.
+(3) The creditor must produce any document identified under subsection (2)﻿(d) if required by the Assignee.
 
 ### 248 False claim by secured creditor
 (1) A person commits an offence if that person—
@@ -1738,10 +1738,10 @@ The Assignee may, but is not required to, carry out any duty or exercise any pow
   (b) accepts a valuation and creditor's claim after amending or revoking a decision to reject a valuation and creditor's claim.
 
 ### 250 Secured creditor who surrenders charge may withdraw surrender or submit new creditor's claim
-(1) This section applies to a secured creditor who has surrendered a charge under Option 3 in section 243(1)(c) or under section 244(2).
+(1) This section applies to a secured creditor who has surrendered a charge under Option 3 in section 243(1)﻿(c) or under section 244(2).
 (2) The creditor may, with the leave of the court or the Assignee and subject to the terms and conditions that the court or the Assignee imposes,—
   (a) withdraw the surrender and rely on the charge; or
-  (b) submit a new creditor's claim under section 243(1)(c) or 244(2)(b).
+  (b) submit a new creditor's claim under section 243(1)﻿(c) or 244(2)﻿(b).
 (3) Subsection (2) does not apply if the Assignee has already realised the property subject to the charge.
 
 **Creditors' claims subject to uncertainty**
@@ -1875,7 +1875,7 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
 (2) The company may prove for—
   (a) the amount of unpaid calls on the bankrupt made before adjudication in respect of the bankrupt's shares; and
   (b) the value of the liability to calls to be made in the period of 1 year after adjudication.
-(3) The value referred to in subsection (2)(b) must be estimated—
+(3) The value referred to in subsection (2)﻿(b) must be estimated—
   (a) as agreed by the Assignee and the company; or
   (b) if the Assignee and the company cannot agree, as directed by the court.
 (4) This section does not affect the provisions of sections 103 and 268 of the Companies Act 1993 in the event that the company is put into liquidation.
@@ -1897,7 +1897,7 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
 (2) After paying the preferential claims in accordance with subsection (1), the Assignee must pay any remaining money to the general creditors in accordance with section 280.
 (3) After paying the general creditors in accordance with subsection (2), the Assignee must pay any remaining money to the bankrupt in accordance with section 281.
 (4) Any money received by the Assignee by the realisation of the property of the bankrupt that is not able to be paid in accordance with subsections (1) to (3), must be paid to Public Trust in accordance with section 283.
-(5) Other than as set out in section 275(1)(b) and (3), subsection (1) is subject to—
+(5) Other than as set out in section 275(1)﻿(b) and (3), subsection (1) is subject to—
   (a) the powers of secured creditors referred to in section 4(c); and
   (b) any other enactment.
 
@@ -1916,14 +1916,14 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
   (b) subject to section 276(1), any holiday pay payable to an employee on the termination of his or her employment before, or because of, the adjudication:
   (c) subject to section 276(1), any compensation for redundancy owed to an employee that accrues before, or because of, the adjudication:
   (d) subject to section 276(1), amounts deducted by the bankrupt from the wages or salary of an employee in order to satisfy obligations of the employee (including amounts payable to the Commissioner of Inland Revenue in accordance with section 163(1) of the Child Support Act 1991 and section 167(2) of the Tax Administration Act 1994 as applied by section 70 of the Student Loan Scheme Act 2011):
-  (e) subject to section 276(1), any reimbursement or payment provided for, or ordered by, the Employment Relations Authority, the Employment Court, or the Court of Appeal under section 123(1)(b) or section 128 of the Employment Relations Act 2000, to the extent that the reimbursement or payment does not relate to any matter set out in section 123(1)(c) of the Employment Relations Act 2000, in respect of wages or other money or remuneration lost during the 4 months before the adjudication:
+  (e) subject to section 276(1), any reimbursement or payment provided for, or ordered by, the Employment Relations Authority, the Employment Court, or the Court of Appeal under section 123(1)﻿(b) or section 128 of the Employment Relations Act 2000, to the extent that the reimbursement or payment does not relate to any matter set out in section 123(1)﻿(c) of the Employment Relations Act 2000, in respect of wages or other money or remuneration lost during the 4 months before the adjudication:
   (f) amounts that are preferential claims under section 172(2) and (3):
   (g) all amounts payable to the Commissioner of Inland Revenue in accordance with section 167(2) of the Tax Administration Act 1994 as applied by section 67 of the KiwiSaver Act 2006:
   (h) all sums that, by any other enactment, are required to be paid in accordance with the priority established by this subsection.
 (3) After paying the claims referred to in subsection (2), the Assignee must next pay all sums, for which a buyer is a creditor in the bankruptcy under section 36J of the Fair Trading Act 1986,—
   (a) paid by the buyer to a seller on account of the purchase price of goods; or
   (b) to which the buyer is or becomes entitled to receive from a seller under section 36H of the Fair Trading Act 1986.
-(4) After paying the claims referred to in subsection (3), the Assignee must next pay the amount of any costs referred to in section 333(4)(c).
+(4) After paying the claims referred to in subsection (3), the Assignee must next pay the amount of any costs referred to in section 333(4)﻿(c).
 (5) After paying the claims referred to in subsection (4), the Assignee must next pay, to the extent that it remains unpaid to the Commissioner of Inland Revenue or to the Collector of Customs, as the case may require, the amount of—
   (a) tax payable by the bankrupt in the manner required by Part 3 of the Goods and Services Tax Act 1985; and
   (b) tax deductions made by the bankrupt under the PAYE rules of the Income Tax Act 2007; and
@@ -1940,7 +1940,7 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
       (B) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
       (C) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the date of adjudication and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
     (ii) must be paid accordingly out of any accounts receivable or inventory subject to that security interest (or their proceeds).
-(2) For the purposes of subsection (1)(b), the terms account receivable, inventory, new value, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999.
+(2) For the purposes of subsection (1)﻿(b), the terms account receivable, inventory, new value, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999.
 (3) To the extent that the claims to which subsection (1) applies are paid out of property referred to in paragraph (b) of that subsection, the amount so paid is an unsecured debt due by the bankrupt to the secured party.
 
 ### 276 Provisions concerning preferential payments to employees
@@ -2050,7 +2050,7 @@ The automatic discharge of the bankrupt has the same effect as if the court made
 (2) The bankrupt is automatically discharged on the withdrawal of the objection if—
   (a) the 3-year period referred to in section 290(1) has elapsed; and
   (b) there is no other objection to the discharge that has not been withdrawn; and
-  (c) neither section 290(2)(b) nor (c) applies.
+  (c) neither section 290(2)﻿(b) nor (c) applies.
 
 **Application for discharge from bankruptcy**
 
@@ -2166,14 +2166,14 @@ If the court has refused a bankrupt a discharge or discharged the bankrupt but s
   (b) the court is satisfied that the bankrupt's debts have been fully paid or satisfied and that the Assignee's fees and costs incurred in the bankruptcy have been paid; or
   (c) the court considers that the liability of the bankrupt to pay his or her debts should be revived because there has been a substantial change in the bankrupt's financial circumstances since the date of adjudication; or
   (d) the court has approved a composition under subpart 1 of Part 5.
-(2) In the case of an application on one of the grounds specified in subsection (1)(a) to (c) by an applicant who is not the Assignee,—
+(2) In the case of an application on one of the grounds specified in subsection (1)﻿(a) to (c) by an applicant who is not the Assignee,—
   (a) a copy of the application must be served on the Assignee in the manner and within the time that the court directs; and
   (b) the Assignee may appear on the hearing of the application as if the Assignee were a party to the proceeding.
 (3) The adjudication is annulled—
-  (a) from the date of adjudication, in the case of an application on the ground specified in subsection (1)(a):
-  (b) from the date of the court's order of annulment, in the case of an application on one of the grounds specified in subsection (1)(b) to (d).
+  (a) from the date of adjudication, in the case of an application on the ground specified in subsection (1)﻿(a):
+  (b) from the date of the court's order of annulment, in the case of an application on one of the grounds specified in subsection (1)﻿(b) to (d).
 (4) In the case of an application for annulment on the ground that the adjudication should not have been made because of a defect in form or procedure, the court may, in addition to annulling the adjudication, exercise its powers under section 418 to correct the defect and order that the application for adjudication be reheard as if no adjudication had been made.
-(5) If the court annuls the adjudication on one of the grounds specified in subsection (1)(a) to (c),—
+(5) If the court annuls the adjudication on one of the grounds specified in subsection (1)﻿(a) to (c),—
   (a) the court may, on the Assignee's application, fix an amount as reasonable remuneration for the Assignee's services and order that it be paid, in addition to any costs that may be awarded:
   (b) that amount must be paid into a Crown Bank Account:
   (c) the Assignee is not entitled to remuneration under section 406 for those services.
@@ -2187,8 +2187,8 @@ If the court has refused a bankrupt a discharge or discharged the bankrupt but s
   (d) the court has approved a composition under subpart 1 of Part 5.
 (3) The Assignee may annul the adjudication on the application of any person interested or on the Assignee's own initiative.
 (4) The adjudication is annulled—
-  (a) from the date of adjudication, in the case of an application on the ground specified in subsection (2)(a):
-  (b) from the date of the Assignee's order of annulment, in the case of an application on one of the grounds specified in subsection (2)(b) to (d).
+  (a) from the date of adjudication, in the case of an application on the ground specified in subsection (2)﻿(a):
+  (b) from the date of the Assignee's order of annulment, in the case of an application on one of the grounds specified in subsection (2)﻿(b) to (d).
 
 ### 311 Effect of annulment
 (1) On annulment of the adjudication, all property of the bankrupt vested in the Assignee on bankruptcy and not sold or disposed of by the Assignee revests in the bankrupt without the necessity for any conveyance, transfer, or assignment.
@@ -2256,7 +2256,7 @@ When the court has confirmed the deed and annulled the adjudication,—
     (i) incurred or increased the debt; or
     (ii) on or before the date of the composition, obtained forbearance on the debt; and
   (b) the creditor who has been defrauded has not agreed to the composition.
-(2) For the purposes of subsection (1)(b) a creditor does not agree to the composition merely by proving the debt and accepting payment of a distribution of the assets in the estate.
+(2) For the purposes of subsection (1)﻿(b) a creditor does not agree to the composition merely by proving the debt and accepting payment of a distribution of the assets in the estate.
 
 ### 320 Deadlines for steps to approve composition and execute deed
 (1) The deadlines for steps to approve the composition and execute the deed are—
@@ -2370,7 +2370,7 @@ A person who may represent a creditor under section 91 may represent a creditor 
   (a) those debts that would have priority under this Act if the insolvent was adjudicated bankrupt; and
   (b) the trustee's fees and expenses that are properly incurred by the trustee in respect of the proposal; and
   (c) costs incurred by a person other than the insolvent in organising and conducting a meeting of creditors for the purpose of voting on a proposal.
-(5) Subsection (4)(a) does not apply to the extent that a creditor waives the priority that the debt of that person would otherwise have had.
+(5) Subsection (4)﻿(a) does not apply to the extent that a creditor waives the priority that the debt of that person would otherwise have had.
 (6) When it approves the proposal, the court may correct any formal or accidental error or omission, but must not alter the substance of the proposal.
 
 ### 334 Effect of court approval
@@ -2463,10 +2463,10 @@ The Assignee may make a summary instalment order on the application of—
   (a) the debtor's total unsecured debts (excluding any student loan balance) that would be provable in the debtor's bankruptcy are not more than $40,000; and
   (b) the debtor is unable immediately to pay those debts.
 (2) Before making the order, the Assignee must allow the debtor or a creditor to make representations, if the debtor or creditor wants to do so.
-(3) A summary instalment order is not invalid if the total amount of the debts proved is more than the amount specified in subsection (1)(a), but in that case—
+(3) A summary instalment order is not invalid if the total amount of the debts proved is more than the amount specified in subsection (1)﻿(a), but in that case—
   (a) the supervisor appointed under section 345 may refer the matter to the Assignee; and
   (b) the Assignee may, if the Assignee thinks appropriate, cancel the order.
-(4) The amount in subsection (1)(a) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumer Price Index.
+(4) The amount in subsection (1)﻿(a) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumer Price Index.
 
 ### 344 Additional orders
 In addition to an order for the payment of the debts in instalments, the Assignee may make orders—
@@ -2551,7 +2551,7 @@ A summary instalment order is not current if it has been discharged or all the i
   (b) secondly, the Assignee's costs and fees:
   (c) thirdly, payment of the debts in accordance with the order:
   (d) fourthly, payment of any surplus to the debtor.
-(2) The debtor is discharged from the unsecured debts to which the order relates if the supervisor pays, from the money received under the order, the amounts in subsection (1)(a) to (d) in full.
+(2) The debtor is discharged from the unsecured debts to which the order relates if the supervisor pays, from the money received under the order, the amounts in subsection (1)﻿(a) to (d) in full.
 
 ### 359 Default by debtor
 (1) A debtor who defaults in paying any sum due under a summary instalment order is presumed, unless the contrary is proved, to have—
@@ -2570,8 +2570,8 @@ A summary instalment order is not current if it has been discharged or all the i
     (ii) incurs liability for the time being to any person of $1,000 or more for the purpose of obtaining credit for another person; or
     (iii) enters into a hire purchase agreement under which A is liable to pay $1,000 or more.
 (2) It is a defence if A proves,—
-  (a) in a case to which subsection (1)(b)(i) applies, that before obtaining the credit of $1,000 A informed the person giving the credit that A was affected by a summary instalment order:
-  (b) in a case to which subsection (1)(b)(ii) applies, that before A incurred the liability of $1,000 the person giving the credit was informed that A was affected by a summary instalment order.
+  (a) in a case to which subsection (1)﻿(b)﻿(i) applies, that before obtaining the credit of $1,000 A informed the person giving the credit that A was affected by a summary instalment order:
+  (b) in a case to which subsection (1)﻿(b)﻿(ii) applies, that before A incurred the liability of $1,000 the person giving the credit was informed that A was affected by a summary instalment order.
 (3) A person who commits an offence under this section is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $5,000 or both.
 (4)
 
@@ -2597,7 +2597,7 @@ This subpart sets out a procedure for dealing with a debtor who has no realisabl
   (d) the debtor has total debts (excluding any student loan balance) that are not less than $1,000 and not more than $40,000; and
   (e) under a prescribed means test, the debtor does not have the means of repaying any amount towards those debts.
 (2) In this section, realisable assets does not include the assets that a bankrupt is allowed to retain under section 158, but does include any assets (for example, gifted assets) that might be recoverable by the Assignee if the debtor were adjudicated bankrupt on the date of application for entry to the no asset procedure and if the irregular transaction provisions in subpart 7 of Part 3 applied.
-(3) The amounts in subsection (1)(d) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumer Price Index.
+(3) The amounts in subsection (1)﻿(d) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumer Price Index.
 
 ### 364 Debtor disqualified from entry to no asset procedure in certain cases
 The Assignee must not admit a debtor to the no asset procedure if the Assignee is satisfied, on reasonable grounds, that—
@@ -2642,8 +2642,8 @@ A debtor who has applied for entry to the no asset procedure must not obtain cre
   (b) incurs liability for the time being to any person of $1,000 or more for the purpose of obtaining credit for another person; or
   (c) enters into a hire purchase agreement under which A is liable to pay $1,000 or more.
 (2) It is a defence if A proves,—
-  (a) in a case to which subsection (1)(a) applies, that before obtaining the credit of $1,000 A informed the person giving the credit that A was admitted to the no asset procedure:
-  (b) in a case to which subsection (1)(b) applies, that before A incurred the liability of $1,000 the person giving the credit was informed that A was admitted to the no asset procedure.
+  (a) in a case to which subsection (1)﻿(a) applies, that before obtaining the credit of $1,000 A informed the person giving the credit that A was admitted to the no asset procedure:
+  (b) in a case to which subsection (1)﻿(b) applies, that before A incurred the liability of $1,000 the person giving the credit was informed that A was admitted to the no asset procedure.
 (3) A person who commits an offence under this section is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $5,000 or both.
 (4)
 
@@ -2752,13 +2752,13 @@ A discharge under section 377 does not release any person who, at the date of di
 (2) A creditor or beneficiary may apply for an order if—
   (a) the administrator has not applied under this Part, and after being requested in writing to apply, fails to apply within 15 working days after receiving the request; or
   (b) after 4 months from the date of the debtor's death, no administrator has been appointed and no application has been filed in the court under section 380.
-(3) In the case of an application under subsection (2)(a) for an order that the estate be administered under this Part, the court must not make the order before 2 months have expired after the date when the administration was granted, but this restriction does not apply if—
+(3) In the case of an application under subsection (2)﻿(a) for an order that the estate be administered under this Part, the court must not make the order before 2 months have expired after the date when the administration was granted, but this restriction does not apply if—
   (a) the administrator has consented; or
   (b) the applicant proves that—
     (i) the deceased committed an act of bankruptcy within 3 months before his or her death; or
     (ii) the administrator has favoured or is about to favour any creditor; or
   (c) in the court's opinion the administrator is not properly administering the estate.
-(4) The court may allow an application under subsection (2)(b) to be filed before 4 months after the date of the debtor's death have expired if the court is satisfied that—
+(4) The court may allow an application under subsection (2)﻿(b) to be filed before 4 months after the date of the debtor's death have expired if the court is satisfied that—
   (a) the deceased committed an act of bankruptcy within 3 months before his or her death; or
   (b) the estate that should have been available for the deceased's creditors is reducing.
 
@@ -2779,7 +2779,7 @@ The court, on hearing an application under this Part, may—
   (b) in either case, order costs to be paid by one party to another, or out of the estate.
 
 ### 385 Court may order administration by Assignee or Public Trust
-(1) This section applies if an application has been filed for an order to administer an estate under this Part, and the court thinks that the estate is likely to be better administered by one of the persons mentioned in subsection (2)(b) than by the person who is or may become the administrator.
+(1) This section applies if an application has been filed for an order to administer an estate under this Part, and the court thinks that the estate is likely to be better administered by one of the persons mentioned in subsection (2)﻿(b) than by the person who is or may become the administrator.
 (2) The court may, as part of its original order on the application or by any subsequent order, order that—
   (a) the administrator (if there is one) must no longer administer the estate; and
   (b) the Assignee, Public Trust, or some other person, as the court thinks appropriate, must administer the estate.
@@ -2837,7 +2837,7 @@ The appointee has, in relation to the estate, the same authority, powers, and fu
     (ii) reasonable expenses for hospital care (as defined in section 4(1) of the Health and Disability Services (Safety) Act 2001) provided for the deceased, so far as those expenses are lawfully recoverable:
   (d) fourthly, payment of other claims and interest in accordance with section 274:
   (e) all other claims, which rank equally and abate in proportion if there is insufficient to pay them in full.
-(2) For the purposes of subsection (1)(d), a reference in section 274 to the date of adjudication must be read as a reference to the date of the deceased's death.
+(2) For the purposes of subsection (1)﻿(d), a reference in section 274 to the date of adjudication must be read as a reference to the date of the deceased's death.
 
 ### 394 Payment of surplus
 (1) In this section, surplus means the surplus of assets that remains with the appointee after the appointee has paid in full—
@@ -3045,9 +3045,9 @@ A bankrupt (B) commits an offence if, after an application for B's adjudication 
   (c) prepares to leave New Zealand (either temporarily or permanently), taking with him or her any part of that property.
 
 ### 427 Defence of absence of intent
-(1) A bankrupt (B) does not commit an offence under section 420(1)(a) if B proves that at the material time he or she had no intent to defraud any of B's creditors.
+(1) A bankrupt (B) does not commit an offence under section 420(1)﻿(a) if B proves that at the material time he or she had no intent to defraud any of B's creditors.
 (2) A bankrupt (B) does not commit an offence under any of the following provisions if B proves that at the material time B had no intent to defraud:
-  (a) section 420(2)(a) or (b):
+  (a) section 420(2)﻿(a) or (b):
   (b) section 424(1):
   (c) section 424(2):
   (d) section 426.
@@ -3170,13 +3170,13 @@ No action may be taken against the Assignee for malicious prosecution in relatio
   (q) prescribing the time for giving a notice of opposition under section 297:
   (r) prescribing how instalments under a summary instalment order must be paid:
   (s) providing for the conduct of creditors' meetings under subparts 1 and 2 of Part 5:
-  (t) prescribing the criteria for the means test under section 363(1)(e):
+  (t) prescribing the criteria for the means test under section 363(1)﻿(e):
   (u) prescribing reasons for refusal by the Assignee under section 447(2) of access to a public register:
   (v) prescribing any further information or documents that must be held under a public register under section 449(1):
   (w) regulating the search of public registers (see section 452):
   (x) prescribing any further search criteria under section 453(1):
   (y) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) In subsection (1)(n), prescribing the form includes specifying the content, means of communication, or any other requirement of a statement of affairs, application, or notice without necessarily specifying the use of a particular form.
+(2) In subsection (1)﻿(n), prescribing the form includes specifying the content, means of communication, or any other requirement of a statement of affairs, application, or notice without necessarily specifying the use of a particular form.
 
 ### 442 Rules
 (1) Rules may be made from time to time under the Judicature Act 1908—
@@ -3270,21 +3270,21 @@ This subpart applies to a public register maintained under section 62 or 354 or 
   (h) if P is admitted to the no asset procedure, the date of admission:
   (ha) if P is discharged from the no asset procedure under section 377, the date when P was so discharged:
   (i) if P is a discharged bankrupt, the date, type, and conditions (if any) of discharge:
-  (j) if the bankruptcy was annulled under section 309(1)(b) or (c) or section 310(2)(b) or (c), under which of those provisions it was annulled:
+  (j) if the bankruptcy was annulled under section 309(1)﻿(b) or (c) or section 310(2)﻿(b) or (c), under which of those provisions it was annulled:
   (k) if the court has refused to discharge P from bankruptcy, that information:
   (l) if the court has suspended P's discharge from bankruptcy, that information:
   (m) the place of the office of the Assignee dealing with P's bankruptcy or admission to the no asset procedure and that office's contact number for enquiries:
   (n) in the case of a person subject to a current summary instalment order, the full name and business postal address of the supervisor:
   (o) any other prescribed information or documents.
 (2) Subject to sections 447(2) and 451(1), the information listed in subsection (1) must be available to any member of the public.
-(3) A public register must not contain any information in relation to a person whose bankruptcy was annulled under section 309(1)(a) or 310(2)(a), and the bankruptcy that was so annulled does not count for the purposes of section 449A.
+(3) A public register must not contain any information in relation to a person whose bankruptcy was annulled under section 309(1)﻿(a) or 310(2)﻿(a), and the bankruptcy that was so annulled does not count for the purposes of section 449A.
 (4) All information relating to a person who has been adjudicated bankrupt and discharged from bankruptcy must be removed from the public register maintained under section 62—
   (a) 4 years after the date of discharge; but
   (b) in the case of a conditional discharge, 4 years after the discharge becomes unconditional.
 (4A) All information relating to a person who has been admitted to the no asset procedure must be removed from the public register maintained under section 368—
   (a) 4 years after the date of discharge under section 377; or
   (b) as soon as practicable after a termination under section 372(a), (c), or (d).
-(5) All information relating to a person who has been adjudicated bankrupt but whose bankruptcy has been annulled under section 309(1)(b) or (c) or section 310(2)(b) or (c) must be removed 7 years after the date of adjudication from the public register maintained under section 62.
+(5) All information relating to a person who has been adjudicated bankrupt but whose bankruptcy has been annulled under section 309(1)﻿(b) or (c) or section 310(2)﻿(b) or (c) must be removed 7 years after the date of adjudication from the public register maintained under section 62.
 
 ### 449A Information kept indefinitely on public register after multiple insolvency events
 (1) This section applies in the case of a person who—
@@ -3315,15 +3315,15 @@ A person may only search the public registers in accordance with this Act or reg
   (e) the date of adjudication, summary instalment order, admission to the no asset procedure, or discharge, by reference to a range of dates:
   (f) any combination of the criteria in paragraphs (a) to (e):
   (g) any other prescribed criteria.
-(2) In subsection (1)(d), insolvency status means that a person (P)—
+(2) In subsection (1)﻿(d), insolvency status means that a person (P)—
   (a) is currently bankrupt; or
   (b) is subject to a current summary instalment order; or
   (c) is currently admitted to the no asset procedure; or
   (d) is a discharged bankrupt; or
   (da) is discharged from the no asset procedure under section 377; or
   (e) is a discharged bankrupt subject to conditions of discharge; or
-  (f) was adjudicated bankrupt but the adjudication was annulled under section 309(1)(b) or section 310(2)(b); or
-  (g) was adjudicated bankrupt but the adjudication was annulled under section 309(1)(c) or section 310(2)(c); or
+  (f) was adjudicated bankrupt but the adjudication was annulled under section 309(1)﻿(b) or section 310(2)﻿(b); or
+  (g) was adjudicated bankrupt but the adjudication was annulled under section 309(1)﻿(c) or section 310(2)﻿(c); or
   (h) is subject to section 449A (which relates to permanent retention of information on the register after multiple insolvency events).
 
 ### 454 Search purposes
@@ -3331,7 +3331,7 @@ The public registers may be searched—
   (a) by any individual, or by any person with the consent of that individual, for the purpose of searching for information about that individual:
   (b) by any person for the purpose of ascertaining whether another person is bankrupt, is a discharged bankrupt, is subject to a current summary instalment order, is currently admitted to the no asset procedure, or is discharged from that procedure under section 377:
   (c) by any person for any purpose related to the bankruptcy of a person, the making of a current summary instalment order in respect of a person, or the admission of a person to the no asset procedure:
-  (d) by any person for any of the purposes set out in section 448(4)(a) or (b):
+  (d) by any person for any of the purposes set out in section 448(4)﻿(a) or (b):
   (e) by any person for the purpose of ascertaining whether section 449A applies to another person.
 
 ### 455 Information contained in public registers may be used for statistical or research purposes
@@ -3340,7 +3340,7 @@ Nothing in this subpart prevents the use of information contained in the public 
   (b) is not published in any form that could reasonably be expected to identify any person.
 
 ### 456 When search breaches information privacy principle
-A person who searches a public register for a purpose that is not a purpose set out in section 454 must be treated, for the purposes of Part 8 of the Privacy Act 1993, as if that person has breached an information privacy principle under section 66(1)(a)(i) of that Act.
+A person who searches a public register for a purpose that is not a purpose set out in section 454 must be treated, for the purposes of Part 8 of the Privacy Act 1993, as if that person has breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
 
 ### 457 Crown and Assignee not liable for act or omission
 The Crown and the Assignee cannot be sued for any act or omission in relation to the maintenance of a public register under this subpart done or omitted to be done in good faith and with reasonable care.
