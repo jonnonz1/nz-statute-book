@@ -1,5 +1,5 @@
 # Electronic Transactions Act 2002
-_Consolidation as at 2014-06-17_
+_Consolidation as at 2015-06-06_
 
 ### 1 Title
 This Act is the Electronic Transactions Act 2002.
@@ -126,7 +126,7 @@ An electronic communication is taken to be received at—
 (2) For the purposes of this Part,—
   (a) a person may consent to use, provide, or accept information in an electronic form subject to conditions regarding the form of the information or the means by which the information is produced, sent, received, processed, stored, or displayed:
   (b) consent may be inferred from a person's conduct.
-(3) Subsections (1) and (2)(a) are for the avoidance of doubt.
+(3) Subsections (1) and (2)﻿(a) are for the avoidance of doubt.
 
 ### 17 When integrity of information maintained
 For the purposes of this Part, the integrity of information is maintained only if the information has remained complete and unaltered, other than the addition of any endorsement, or any immaterial change, that arises in the normal course of communication, storage, or display.
@@ -161,7 +161,7 @@ A legal requirement that information be recorded in writing is met by recording 
 
 ### 21 Legal requirements relating to layout and format of certain information and writing materials
 (1) In order to meet a legal requirement to which any of sections 18 to 20 apply by electronic means, it is not necessary to comply with a paper-based format requirement.
-(2) In this section and section 36(b)(ii), paper-based format requirement means a legal requirement of the following kind that applies to information in paper or other non-electronic form:
+(2) In this section and section 36(b)﻿(ii), paper-based format requirement means a legal requirement of the following kind that applies to information in paper or other non-electronic form:
   (a) a legal requirement relating to the format or layout of information:
   (b) a legal requirement relating to the materials to be used for writing information:
   (c) any similar legal requirement.
