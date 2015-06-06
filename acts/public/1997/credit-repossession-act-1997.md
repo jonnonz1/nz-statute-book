@@ -1,5 +1,5 @@
 # Credit (Repossession) Act 1997
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-06-06_
 
 > An Act to govern the taking of possession of consumer goods by a creditor under a security agreement
 
@@ -286,7 +286,7 @@ If the creditor contravenes section 23,—
 (1) Where the right to reinstate the agreement is exercised under section 28,—
   (a) upon the receipt of the required amount, or confirmation of the performance of the accrued obligations and the default being remedied, the creditor must forthwith return the consumer goods to the debtor; and
   (b) the debtor is deemed to receive and hold the returned consumer goods pursuant to the terms of the security agreement as if the default had not occurred and the creditor had not taken possession of the consumer goods.
-(2) Where the consumer goods are returned to the debtor pursuant to subsection (1)(a) and a particular default has not been remedied, the creditor does not have any right, arising out of that default, to take possession of the consumer goods unless,—
+(2) Where the consumer goods are returned to the debtor pursuant to subsection (1)﻿(a) and a particular default has not been remedied, the creditor does not have any right, arising out of that default, to take possession of the consumer goods unless,—
   (a) by notice in writing served on the debtor at the time of the return of the consumer goods, the creditor specifies the default and requires it to be remedied; and
   (b) the debtor fails to remedy the default within a period to be specified in the notice (being a period of not less than 14 days after the service of the notice on the debtor).
 
@@ -314,7 +314,7 @@ If the creditor contravenes section 23,—
   (b) require the creditor to put the consumer goods up for sale by public auction.
 (2) The period of 3 months commences with the date on which the creditor takes possession of the consumer goods.
 (3) Upon application under this section, the court may make such order as it thinks fit.
-(4) The following rules apply to a sale required under subsection (1)(b):
+(4) The following rules apply to a sale required under subsection (1)﻿(b):
   (a) the debtor must require the sale by notice in writing to the creditor, signed by the debtor or the debtor’s agent; and
   (b) the auction must be held within 2 months after the date that notice is given; and
   (c) the auction must be in such manner as may be agreed between the creditor and the debtor, and, failing agreement, in such manner as may be approved by a Registrar of the District Court; and
@@ -346,7 +346,7 @@ Where consumer goods are sold pursuant to section 26 or section 32, the creditor
     (ii) the security interest relating to that registration was subordinate to the security interest of the creditor who sold the consumer goods:
   (b) any other person who has given the creditor notice that that person claims an interest in the consumer goods that are sold and in respect of which the creditor is satisfied that that person has a legally enforceable interest in the consumer goods:
   (c) the debtor.
-(2) The security interests to which subsection (1)(a) applies must be paid in the order of their priority as determined by Part 7 or Part 8 of the Personal Property Securities Act 1999.
+(2) The security interests to which subsection (1)﻿(a) applies must be paid in the order of their priority as determined by Part 7 or Part 8 of the Personal Property Securities Act 1999.
 (3) Subsection (1) applies despite the extinguishment of a security interest under section 32B.
 
 ### 34A Surplus may be paid into court
