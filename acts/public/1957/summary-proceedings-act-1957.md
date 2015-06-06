@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2015-06-06_
 
 > Title
 
@@ -48,6 +48,7 @@ _Consolidation as at 2015-03-26_
     (fb) section 40D of the Fair Trading Act 1986; or
     (g) section 139 of the Land Transport Act 1998; or
     (h) section 260A of the Fisheries Act 1996; or
+    (ha) section 105C of the Credit Contracts and Consumer Finance Act 2003; or
     (i) section 162 of the Animal Welfare Act 1999; or
     (j) section 357 of the Gambling Act 2003; or
     (ja) section 74 of the Psychoactive Substances Act 2013; or
@@ -177,10 +178,10 @@ _Consolidation as at 2015-03-26_
   (a) be entered into before the close of the date that is 6 months from the time when the infringement offence is alleged to have been committed; and
   (b) be completed before the close of the date that is 12 months from the time when the infringement offence is alleged to have been committed.
 (3C) If the informant has entered into an arrangement under subsection (3A), and default is made in the payment of any instalment, the informant may,—
-  (a) despite subsection (3B)(a), enter into another arrangement under subsection (3A) allowing the infringement fee to be paid to the informant by instalments; or
+  (a) despite subsection (3B)﻿(a), enter into another arrangement under subsection (3A) allowing the infringement fee to be paid to the informant by instalments; or
   (b) serve on the defendant or 1 of the defendants served with the infringement notice, or a copy of the infringement notice, a reminder notice in the prescribed form containing the same or substantially the same particulars as the infringement notice.
 (3D) The informant may provide particulars of the reminder notice in accordance with subsections (4) and (4A) if—
-  (a) a reminder notice has been served under subsection (3C)(b); and
+  (a) a reminder notice has been served under subsection (3C)﻿(b); and
   (b) on the expiration of 28 days from the date of service of that notice, the infringement fee for the infringement offence has not been paid to the informant at the address specified in the notice.
 (4) For the purposes of subsections (1), (3), and (3D) and subsections (4A) to (5A), the particulars of a reminder notice are—
   (a) the contents of the reminder notice, or such parts of the reminder notice that are prescribed as the particulars for the purposes of this subsection; and
@@ -189,8 +190,8 @@ _Consolidation as at 2015-03-26_
 (4A) The particulars described in subsection (4)—
   (a) must be provided by the informant in electronic form in a manner and by means of an electronic system approved by the chief executive of the Ministry of Justice; and
   (b) once provided, must, for the purposes of any enactment or rule of law, be treated as information held in a court in relation to its judicial functions.
-(4B) Particulars of a reminder notice provided under subsection (3) or subsection (3D), and in accordance with subsection (4A), must be verified by the Ministry of Justice to ensure they contain the particulars described in subsection (4)(a) and (b), in accordance with a procedure approved by the chief executive of the Ministry of Justice.
-(4C) When particulars of a reminder notice provided under subsection (3) or subsection (3D) are verified under subsection (4B) as containing the particulars described in subsection (4)(a) and (b), the reminder notice is deemed to have been filed in the court appointed for the exercise of the criminal jurisdiction which is the nearest by the most practicable route to the place where the offence was alleged to have been committed.
+(4B) Particulars of a reminder notice provided under subsection (3) or subsection (3D), and in accordance with subsection (4A), must be verified by the Ministry of Justice to ensure they contain the particulars described in subsection (4)﻿(a) and (b), in accordance with a procedure approved by the chief executive of the Ministry of Justice.
+(4C) When particulars of a reminder notice provided under subsection (3) or subsection (3D) are verified under subsection (4B) as containing the particulars described in subsection (4)﻿(a) and (b), the reminder notice is deemed to have been filed in the court appointed for the exercise of the criminal jurisdiction which is the nearest by the most practicable route to the place where the offence was alleged to have been committed.
 (5) If,—then the court in which the reminder notice is deemed, by subsection (4C), to have been filed is also deemed to have made an order (as if on the determination of a charge in respect of the offence) that the defendant pay a fine equal to the amount of the infringement fee then remaining unpaid for the offence together with costs of the prescribed amount.
   (a) under subsection (3), particulars of a reminder notice are provided before the close of the date that is 6 months after the date on which the infringement offence is alleged to have been committed; and
   (b) those particulars are verified under subsection (4B),—
@@ -198,7 +199,7 @@ _Consolidation as at 2015-03-26_
   (a) under subsection (3D), particulars of a reminder notice are provided before the close of the date that is 12 months after the date on which the infringement offence is alleged to have been committed; and
   (b) those particulars are verified under subsection (4B),—
 (5AB) An order under subsection (5) or subsection (5A) is deemed to have been made on the date that the relevant reminder notice is deemed to have been filed under subsection (4C).
-(5B) If the informant has entered into an arrangement under subsection (3A) or subsection (3C)(a), no defendant may give notice requesting a hearing in respect of the infringement offence to which the arrangement applies.
+(5B) If the informant has entered into an arrangement under subsection (3A) or subsection (3C)﻿(a), no defendant may give notice requesting a hearing in respect of the infringement offence to which the arrangement applies.
 (6) A notice requesting a hearing in respect of an infringement offence must—
   (a) be in writing signed by the person or one of the persons served with the infringement notice in respect of the offence, or a copy of the infringement notice; and
   (b) be delivered to the informant at the address specified in the infringement notice before or within 28 days after service of a reminder notice in respect of the offence, or within such further time as the informant may allow.
@@ -218,12 +219,12 @@ _Consolidation as at 2015-03-26_
 (10) In any proceedings for an infringement offence for which an infringement notice has been issued—
   (a) it shall be a defence if the defendant proves that the infringement fee for the offence has been paid to the informant at the address specified in the notice before or within 28 days after service on the defendant of a reminder notice in respect of the offence:
   (b) it shall not be a defence that the infringement fee for the offence has been paid otherwise than as referred to in paragraph (a).
-(11) Where an infringement fee is paid to the informant at the address specified in the infringement notice but not within the time referred to in subsection (10)(a), the amount paid may be held and applied towards any fine or costs that the defendant may become liable to pay in respect of the offence.
+(11) Where an infringement fee is paid to the informant at the address specified in the infringement notice but not within the time referred to in subsection (10)﻿(a), the amount paid may be held and applied towards any fine or costs that the defendant may become liable to pay in respect of the offence.
 (12) In any proceedings for an infringement offence for which an infringement notice has been issued it shall be presumed, unless the contrary is proved, that—
   (a) the infringement notice in respect of the offence has been duly issued, and the notice, or a copy of the notice, has been served on the defendant:
   (b) any reminder notice or copy of a notice of hearing required to have been served on the defendant has been duly served:
   (c) the infringement fee for the offence has not been paid as required under this section.
-(13) If the informant has entered into an arrangement under subsection (3A) or subsection (3C)(a), and default is made in the payment of any instalment, proceedings may be taken as if default had been made in the payment of all instalments then remaining unpaid.
+(13) If the informant has entered into an arrangement under subsection (3A) or subsection (3C)﻿(a), and default is made in the payment of any instalment, proceedings may be taken as if default had been made in the payment of all instalments then remaining unpaid.
 
 ### 21A Evidence of particulars of reminder notice deemed to have been filed in court by electronic means
 In any proceedings, a computer printout of the particulars of a reminder notice deemed to have been filed in a court under section 21(4C), sealed with the seal of the court and purporting to be signed and certified by the Registrar of that court as a printout that may be used for the purposes of this section, is, in all courts, in the absence of evidence to the contrary, sufficient evidence of—
@@ -506,7 +507,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
     (iii) some other irregularity occurred in the procedures leading up to the order for the fine or costs, or both; or
     (iv) the defendant believed on reasonable grounds that he or she had requested a hearing under section 21, but this request was not acted on by the informant; or
     (v) the defendant reasonably believed that he or she had been advised by the informant that action would not be taken under section 21(3); or
-    (vi) the defendant reasonably believed that he or she had been advised by the informant that further time for requesting a hearing would be allowed under section 21(6)(b), but action was taken under section 21(3) before that further time had expired; or
+    (vi) the defendant reasonably believed that he or she had been advised by the informant that further time for requesting a hearing would be allowed under section 21(6)﻿(b), but action was taken under section 21(3) before that further time had expired; or
     (vii) the defendant—
       (A) had, in writing, requested further relevant information from the informant in relation to the infringement offence; and
       (B) had made the request within a time that would reasonably enable the informant to respond before the earliest time at which the informant would be entitled to take action under section 21(3); and
@@ -514,7 +515,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
       (D) was not provided with the information before action was taken under section 21(3); or
     (viii) the defendant paid the infringement fee to the informant at the address specified in the infringement notice before or within 28 days after service on the defendant of a reminder notice in respect of the offence to which the notice relates; or
   (b) the informant applies to a District Court Judge or Registrar to withdraw the reminder notice filed or deemed to have been filed under section 21.
-(1A) No more than 1 application, made in reliance on the ground stated in subsection (1)(a)(ii), may be granted in respect of the same defendant for the same infringement offence.
+(1A) No more than 1 application, made in reliance on the ground stated in subsection (1)﻿(a)﻿(ii), may be granted in respect of the same defendant for the same infringement offence.
 (1B) An application under subsection (1) may be made—
   (a) in writing in a form approved under section 209A; or
   (b) electronically in a manner approved by the chief executive of the Ministry of Justice.
@@ -527,8 +528,8 @@ Where a document is served on any person who is a Maori within the meaning of Te
   (c) grant a hearing or rehearing of the matter, and proceed with the hearing or rehearing immediately if both parties agree, or set it down for a later date:
   (d) set aside or modify the order:
   (e) make any other order as to costs or otherwise that the Judge or Registrar considers appropriate in the circumstances.
-(3) If a Registrar considering an application under subsection (1)(a) is satisfied that any of subparagraphs (i) or (iv) to (vii) of subsection (1)(a) applies, the Registrar must not exercise the power conferred by subsection (2)(a) or (b) except with the consent of the informant.
-(4) A Registrar may not exercise the power conferred by subsection (2)(d) except where the application is made under subsection (1)(a)(viii) or (1)(b).
+(3) If a Registrar considering an application under subsection (1)﻿(a) is satisfied that any of subparagraphs (i) or (iv) to (vii) of subsection (1)﻿(a) applies, the Registrar must not exercise the power conferred by subsection (2)﻿(a) or (b) except with the consent of the informant.
+(4) A Registrar may not exercise the power conferred by subsection (2)﻿(d) except where the application is made under subsection (1)﻿(a)﻿(viii) or (1)﻿(b).
 (4A) A Judge or Registrar must deal with an application under subsection (1) on the papers unless the Judge or Registrar considers that a hearing is necessary.
 (4B) While an application under subsection (1) is pending,—
   (a) no warrant, order, or notice may be issued or take effect to enforce the order to which that application relates; and
@@ -539,23 +540,23 @@ Where a document is served on any person who is a Maori within the meaning of Te
 (4D) If the order to which the application relates continues in effect after the application is determined or is discontinued, the property must be dealt with, and any fees and costs payable under an enactment in respect of the property are payable, as if the application had not been made.
 (4E) If, on the determination of the application, the order is set aside or ceases to have effect in accordance with subsection (5), the owner—
   (a) is entitled to—
-    (i) the return of the property if the property has been retained in accordance with subsection (4C)(a); or
-    (ii) the proceeds of any sale if the proceeds have been retained in accordance with subsection (4C)(b); and
+    (i) the return of the property if the property has been retained in accordance with subsection (4C)﻿(a); or
+    (ii) the proceeds of any sale if the proceeds have been retained in accordance with subsection (4C)﻿(b); and
   (b) is not liable for any fees and costs payable under an enactment in respect of the property.
-(4F) In any case where a Judge or Registrar gives a direction authorising the service of a reminder notice or a copy of a reminder notice under subsection (2)(a) or (b) (a new reminder notice) in replacement of, or by reference to, a previous reminder notice, then—
-  (a) section 21(3)(b), (3D)(b), and (10)(a), if applicable to the case, apply as if the reference to the date of service of the reminder notice were a reference to the date of the direction by the Judge or Registrar; and
-  (b) section 21(3B), (5)(a), (5A)(a), and (8)(d), if applicable to the case, apply as if the reference to the time when the offence is alleged to have been committed were a reference to the date of the direction by the Judge or Registrar.
-(4G) If, under subsection (2)(b), a Judge or Registrar authorises the informant to serve on the defendant a new reminder notice, the defendant may not give notice requesting a hearing in respect of the infringement offence to which the notice relates if the Registrar is satisfied that the notice was filed following the defendant's default in paying 1 or more instalments under an arrangement entered into under section 21(3A) or (3C)(a).
-(4H) If, under subsection (2)(d), an order is set aside following an application made by the informant under subsection (1)(b), the setting aside is not a bar to any other proceedings in the same matter.
-(5) If a Judge or Registrar exercises a power under subsection (2)(a), (b), or (c), the order made or deemed to have been made against the defendant ceases to have effect and the Registrar must take appropriate steps to ensure that the order is not acted on.
+(4F) In any case where a Judge or Registrar gives a direction authorising the service of a reminder notice or a copy of a reminder notice under subsection (2)﻿(a) or (b) (a new reminder notice) in replacement of, or by reference to, a previous reminder notice, then—
+  (a) section 21(3)﻿(b), (3D)﻿(b), and (10)﻿(a), if applicable to the case, apply as if the reference to the date of service of the reminder notice were a reference to the date of the direction by the Judge or Registrar; and
+  (b) section 21(3B), (5)﻿(a), (5A)﻿(a), and (8)﻿(d), if applicable to the case, apply as if the reference to the time when the offence is alleged to have been committed were a reference to the date of the direction by the Judge or Registrar.
+(4G) If, under subsection (2)﻿(b), a Judge or Registrar authorises the informant to serve on the defendant a new reminder notice, the defendant may not give notice requesting a hearing in respect of the infringement offence to which the notice relates if the Registrar is satisfied that the notice was filed following the defendant's default in paying 1 or more instalments under an arrangement entered into under section 21(3A) or (3C)﻿(a).
+(4H) If, under subsection (2)﻿(d), an order is set aside following an application made by the informant under subsection (1)﻿(b), the setting aside is not a bar to any other proceedings in the same matter.
+(5) If a Judge or Registrar exercises a power under subsection (2)﻿(a), (b), or (c), the order made or deemed to have been made against the defendant ceases to have effect and the Registrar must take appropriate steps to ensure that the order is not acted on.
 (6) If a defendant granted a hearing or rehearing under this section does not appear, the court may, if it thinks fit, without hearing or rehearing the matter, direct that the original order be restored.
 
 ### 78C Certain defendants ineligible to rely on non-receipt of reminder notice
-(1) A defendant is not eligible to rely, under section 78B(1)(a)(ii), on the ground that the defendant did not in fact receive a reminder notice if the Registrar is satisfied that the defendant was personally served with the infringement notice to which the reminder notice relates.
+(1) A defendant is not eligible to rely, under section 78B(1)﻿(a)﻿(ii), on the ground that the defendant did not in fact receive a reminder notice if the Registrar is satisfied that the defendant was personally served with the infringement notice to which the reminder notice relates.
 (2) However, even though a defendant has been personally served with an infringement notice relating to an infringement offence, subsection (1) does not apply to the defendant if the defendant—
-  (a) has entered into an arrangement, under section 21(3A) or (3C)(a), in respect of that infringement offence; and
+  (a) has entered into an arrangement, under section 21(3A) or (3C)﻿(a), in respect of that infringement offence; and
   (b) following a default in the payment of 1 or more instalments under that arrangement, has been served by ordinary post with a reminder notice in respect of that infringement offence.
-(3) In the case of an infringement notice issued for an owner liability offence, the defendant is not eligible to rely on the ground stated in section 78B(1)(a)(ii) unless the Registrar is satisfied that, at the date of the commission of that offence, the defendant complied or was not responsible for complying with any applicable obligations imposed on the defendant by Part 17 of the Land Transport Act 1998 and any regulations made under that Act in respect of the motor vehicle to which the infringement notice relates.
+(3) In the case of an infringement notice issued for an owner liability offence, the defendant is not eligible to rely on the ground stated in section 78B(1)﻿(a)﻿(ii) unless the Registrar is satisfied that, at the date of the commission of that offence, the defendant complied or was not responsible for complying with any applicable obligations imposed on the defendant by Part 17 of the Land Transport Act 1998 and any regulations made under that Act in respect of the motor vehicle to which the infringement notice relates.
 (4) The Registrar must be satisfied of the matters referred to in subsection (3) on the basis of documentary evidence of a kind approved by the Registrar.
 (5) In this section, owner liability offence means an offence referred to in section 133 or 133A of the Land Transport Act 1998.
 
@@ -584,7 +585,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
   - **offender levy** means a levy imposed under section 105B of the Sentencing Act 2002
   - **order of reparation** means—
     (a) an order made under section 106, 108, or 110 of the Sentencing Act 2002; or
-    (b) an order made in respect of a child, or any parent or guardian of that child, under section 84(1)(b) of the Children, Young Persons, and Their Families Act 1989; or
+    (b) an order made in respect of a child, or any parent or guardian of that child, under section 84(1)﻿(b) of the Children, Young Persons, and Their Families Act 1989; or
     (c) an order made in respect of a young person, or any parent or guardian of that young person, under section 283(f) or (g) of the Children, Young Persons, and Their Families Act 1989; or
     (d) an order that—
       (i) requires the payment of any amount as compensation or restitution to the victim of an offence against any enactment; and
@@ -597,12 +598,12 @@ Where a document is served on any person who is a Maori within the meaning of Te
   - **resolved** , in relation to a defendant's obligation to pay a fine, means that—
     (a) the fine is being reduced, or is to be reduced,—
       (i) by an arrangement under any of sections 81, 86, and 86C; or
-      (ii) by a deduction notice issued under section 83(1B)(b), 83(2)(c), 87(2)(c), 87B(1A), or 88AE(1)(a); or
-      (iii) by an attachment order issued under section 87(2)(b) or 88AE(1)(a); or
-      (iv) in accordance with a direction given under section 88AE(1)(h); or
+      (ii) by a deduction notice issued under section 83(1B)﻿(b), 83(2)﻿(c), 87(2)﻿(c), 87B(1A), or 88AE(1)﻿(a); or
+      (iii) by an attachment order issued under section 87(2)﻿(b) or 88AE(1)﻿(a); or
+      (iv) in accordance with a direction given under section 88AE(1)﻿(h); or
     (b) the defendant is currently subject to a substituted sentence in respect of that fine; or
-    (c) the fine may not be further enforced because of a direction given under section 88AE(1)(i); or
-    (d) the order to pay the fine is set aside under section 78B(2)(d) or the fine otherwise ceases to be payable as a result of an appeal
+    (c) the fine may not be further enforced because of a direction given under section 88AE(1)﻿(i); or
+    (d) the order to pay the fine is set aside under section 78B(2)﻿(d) or the fine otherwise ceases to be payable as a result of an appeal
   - **salary or wages** includes—
     (a) a retiring allowance or pension or other payment of a similar nature:
     (b) all payments of weekly compensation made by the Accident Compensation Corporation under the Accident Compensation Act 2001:
@@ -613,7 +614,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
   - **secured party** has the same meaning as in section 16 of the Personal Property Securities Act 1999, except that the reference to security interest is a reference to security interest as defined by this subsection
   - **security agreement** has the same meaning as in section 16 of the Personal Property Securities Act 1999, but does not include a lease
   - **security interest** has the same meaning as in section 17 of the Personal Property Securities Act 1999, but does not include a lease
-  - **substituted sentence** means a warrant of commitment issued under section 83(2)(a) or 88AE(1)(b) or any sentence imposed under section 88AE(1)(c) to (e)
+  - **substituted sentence** means a warrant of commitment issued under section 83(2)﻿(a) or 88AE(1)﻿(b) or any sentence imposed under section 88AE(1)﻿(c) to (e)
   - **traffic fine** means a fine payable in respect of a traffic offence
   - **traffic offence** means—
     (a) any offence against the Transport Act 1962, the Road User Charges Act 1977, the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Land Transport Act 1998, or the Land Transport Management Act 2003 or against any regulation, rule, or bylaw made under any of those Acts:
@@ -647,9 +648,9 @@ Where a document is served on any person who is a Maori within the meaning of Te
   (b) by sending the document to the recipient by prepaid post addressed to the recipient's last known place of residence or business:
   (c) if the recipient has a known electronic address, by sending it to the recipient at that address in electronic form:
   (d) if authorised by regulations made under section 212, by the Registrar or the chief executive conveying, in accordance with those regulations, the contents of the document to the recipient orally (including by telephone).
-(2) However, a District Court Judge or Justice or Community Magistrate or the Registrar may, if he or she thinks fit, direct that a document must be served in accordance with subsection (1)(a)(i).
+(2) However, a District Court Judge or Justice or Community Magistrate or the Registrar may, if he or she thinks fit, direct that a document must be served in accordance with subsection (1)﻿(a)﻿(i).
 (3) For recipients to whom section 79B applies, subsection (1) is modified to the extent provided by that section.
-(4) Despite subsection (1), a written caution under section 93 must be served by an authorised process server in accordance with paragraph (a) of that subsection or, where applicable, section 79B(2)(b) or (4).
+(4) Despite subsection (1), a written caution under section 93 must be served by an authorised process server in accordance with paragraph (a) of that subsection or, where applicable, section 79B(2)﻿(b) or (4).
 (5) In this section and in section 79B,—
   - **authorised process server** means a person who is—
   (a) a constable; or
@@ -666,7 +667,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
 ### 79B Service provisions modified in special cases
 (1) If a document is served in accordance with this section, it is, for the purposes of section 79A, taken to be served on the recipient concerned.
 (2) If the recipient is a body corporate or a Crown organisation, a document may be served—
-  (a) if it may be sent under section 79A(1)(b) or (c) by being sent, in accordance with either of those paragraphs, to the body corporate or Crown organisation for the attention of an officer or employee of that body or organisation:
+  (a) if it may be sent under section 79A(1)﻿(b) or (c) by being sent, in accordance with either of those paragraphs, to the body corporate or Crown organisation for the attention of an officer or employee of that body or organisation:
   (b) by an authorised process server delivering the document to an officer or employee of the body corporate or Crown organisation at its head office, principal place of business, or registered office, or bringing it to the officer's notice or the employee's notice if that person refuses to accept it.
 (3) If a solicitor has signed a memorandum stating that the solicitor is authorised to accept service of a document on behalf of the recipient, the document may be served on the solicitor in any way authorised by section 79A.
 (4) In addition to the ways of service authorised by section 79A, an authorised process server may, in the following cases, serve a document by delivering or sending it to, or by leaving it with,—
@@ -688,7 +689,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
   (a) by affidavit or oral evidence made or given by the person who served the document or made the notification, stating the fact, date, time, and mode of service or notification; or
   (b) by an endorsement on a copy of the document or, where applicable, on a printout that records an electronic document, showing the fact, date, time, and mode of service or notification; or
   (c) in any manner prescribed by regulations.
-(2) An endorsement under subsection (1)(b) must be signed by the person who served the document or who made the notification.
+(2) An endorsement under subsection (1)﻿(b) must be signed by the person who served the document or who made the notification.
 (3) Every person who wilfully endorses any false statement of the fact, date, time, or mode of service on a copy of any document or on a computer printout commits an offence, and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000 or to both.
 (4) If a document is served by sending it by prepaid post, then, unless the contrary is shown, the document is served when it would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the letter concerned was properly addressed and posted.
 (5) If a document is served by sending it in electronic form, then, unless the contrary is shown, the document is served at the time the electronic communication first enters an information system outside the control of its originator, and in proving service it is sufficient to prove that the document concerned was properly addressed and sent.
@@ -703,17 +704,17 @@ Except as otherwise provided in this Act or the Sentencing Act 2002, every fine 
     (i) allowing a greater time than 28 days for payment:
     (ii) allowing payment to be made by instalments; or
   (b) direct the Registrar to determine whether to enter into an arrangement with the defendant allowing greater time to pay or to pay by instalments, or both, under section 86.
-(2) If an amount of reparation or an offender levy (whenever imposed) is payable, an order made under subsection (1)(a) or an arrangement entered into under section 86—
+(2) If an amount of reparation or an offender levy (whenever imposed) is payable, an order made under subsection (1)﻿(a) or an arrangement entered into under section 86—
   (a) must include payment of—
     (i) the reparation:
     (ii) the levy; and
   (b) must not result in amounts owed by a defendant being paid in a different order of priority to that set out in section 86E.
-(3) The court may take into account information received from any source about the defendant's financial capacity before making an order under subsection (1)(a).
-(4) If the court makes an order under subsection (1)(a) and the court is subsequently satisfied either that the defendant provided false or misleading information about the defendant's financial capacity before the order was made or that the defendant's financial capacity has changed significantly since the order was made, the court may, after giving the defendant the opportunity to be heard, vary, suspend, or cancel the order.
+(3) The court may take into account information received from any source about the defendant's financial capacity before making an order under subsection (1)﻿(a).
+(4) If the court makes an order under subsection (1)﻿(a) and the court is subsequently satisfied either that the defendant provided false or misleading information about the defendant's financial capacity before the order was made or that the defendant's financial capacity has changed significantly since the order was made, the court may, after giving the defendant the opportunity to be heard, vary, suspend, or cancel the order.
 
 ### 82 Financial capacity of defendant
 (1)
-(2) If a court is considering making an order under section 81(1)(a) or 83(1), or makes a direction under section 81(1)(b) of this Act or section 36(1)(c) of the Sentencing Act 2002, the court may direct that the defendant make a declaration as to financial capacity (in which case sections 42 to 43 of the Sentencing Act 2002 apply with any necessary modifications).
+(2) If a court is considering making an order under section 81(1)﻿(a) or 83(1), or makes a direction under section 81(1)﻿(b) of this Act or section 36(1)﻿(c) of the Sentencing Act 2002, the court may direct that the defendant make a declaration as to financial capacity (in which case sections 42 to 43 of the Sentencing Act 2002 apply with any necessary modifications).
 
 ### 83 Order for immediate payment of fine
 (1) If a fine is payable, the court may order the defendant to pay the fine immediately if,—
@@ -729,13 +730,13 @@ Except as otherwise provided in this Act or the Sentencing Act 2002, every fine 
 (1B) If any order of a Registrar to pay an amount of reparation immediately is not complied with, the Registrar may—
   (a) issue a warrant to seize property in a form approved under section 209A; or
   (b) issue a deduction notice requiring a bank to deduct the amount due from a sum payable or to become payable to the defendant; or
-  (c) refer the matter to a District Court Judge for the Judge to consider whether a warrant of commitment should be issued under subsection (2)(b) (which applies with any necessary modifications).
+  (c) refer the matter to a District Court Judge for the Judge to consider whether a warrant of commitment should be issued under subsection (2)﻿(b) (which applies with any necessary modifications).
 (2) Where any order to pay a fine immediately is not complied with, the court may—
   (a) direct that a warrant to seize property be issued in a form approved under section 209A; or
   (b) subject to subsection (3A), direct that a warrant of commitment be issued in the prescribed form for the imprisonment of the defendant for a period not exceeding the maximum prescribed by section 90; or
   (c) direct that the Registrar issue a deduction notice requiring a bank to deduct the amount due from a sum payable or to become payable to the defendant.
-(2A) Subsection (2)(a) and (b) do not apply if the only amount payable under the order is an offender levy.
-(3) Any warrant of commitment directed to be issued under subsection (2)(b) may be issued by any District Court Judge and may be withdrawn at any time by any District Court Judge.
+(2A) Subsection (2)﻿(a) and (b) do not apply if the only amount payable under the order is an offender levy.
+(3) Any warrant of commitment directed to be issued under subsection (2)﻿(b) may be issued by any District Court Judge and may be withdrawn at any time by any District Court Judge.
 (3A) A District Court Judge shall not issue a warrant of commitment under this section unless—
   (a) the defendant has had the same opportunity for legal representation as is available to a defendant who is liable to a sentence of imprisonment under section 30 of the Sentencing Act 2002; and
   (b) the defendant is before a District Court Judge.
@@ -749,7 +750,7 @@ Except as otherwise provided in this Act or the Sentencing Act 2002, every fine 
   (c) state the times and places at which payment of the fine may be made:
   (d) inform the defendant of the defendant's rights of appeal:
   (e) inform the defendant that a Registrar or bailiff may enter into an arrangement with the defendant for an extension of time to pay, whether by instalments or otherwise:
-  (f) inform the defendant that if the fine is not paid within 28 days after the day on which it was imposed, and no order has been made under section 81(1)(a) and no arrangement has been entered into under section 86 or 86C, the following kinds of enforcement may be taken (which must be explained in general terms):
+  (f) inform the defendant that if the fine is not paid within 28 days after the day on which it was imposed, and no order has been made under section 81(1)﻿(a) and no arrangement has been entered into under section 86 or 86C, the following kinds of enforcement may be taken (which must be explained in general terms):
     (i) a warrant to seize property:
     (ii) an attachment order:
     (iii) a deduction notice:
@@ -760,7 +761,7 @@ Except as otherwise provided in this Act or the Sentencing Act 2002, every fine 
 (4) Despite the requirements of this section, it is the responsibility of the defendant to take all necessary steps to find out the decision of the court, the defendant's obligations under that decision, and the defendant's rights in relation to that decision.
 (5) It is not necessary to comply with the requirements of this section in any case where, before the notice is given,—
   (a) a fine is paid in full; or
-  (b) an order is made under section 81(1)(a) or 83(1); or
+  (b) an order is made under section 81(1)﻿(a) or 83(1); or
   (c) an arrangement is entered into under section 86 or 86C.
 
 ### 85 Final notice of fine
@@ -798,23 +799,23 @@ Except as otherwise provided in this Act or the Sentencing Act 2002, every fine 
 (4) A Registrar may determine that an attachment order be varied, suspended, or cancelled if—
   (a) another fine that is not subject to the attachment order is imposed on the defendant; and
   (b) the defendant defaults in the payment of the subsequent fine.
-(5) If subsection (1)(a) or (b), (2)(b)(ii), or (3)(b)(ii) applies, the Registrar must, before he or she makes a determination in relation to the arrangement,—
+(5) If subsection (1)﻿(a) or (b), (2)﻿(b)﻿(ii), or (3)﻿(b)﻿(ii) applies, the Registrar must, before he or she makes a determination in relation to the arrangement,—
   (a) notify the defendant or, as the case requires, the defendant's representative—
     (i) of the proposed determination and the reasons for the proposed determination; and
     (ii) that the defendant or, as the case requires, the defendant's representative may give reasons, in an oral or written submission to the Registrar, why the proposed determination should not be made; and
     (iii) that, if it is intended to make an oral submission, that intention must be advised to the Registrar within 10 days after the date of the notification and that any such submission must be made at a time specified by the Registrar; and
     (iv) that any written submission must be received by the Registrar within 10 days after the date of the notification; and
   (b) consider any—
-    (i) oral submission made in accordance with paragraph (a)(iii); and
-    (ii) written submissions received within the 10-day period referred to in paragraph (a)(iv).
+    (i) oral submission made in accordance with paragraph (a)﻿(iii); and
+    (ii) written submissions received within the 10-day period referred to in paragraph (a)﻿(iv).
 (6) Any written submissions that may be made under subsection (5) may be made electronically.
 (7) In no case may a fine to which a determination relates remain unpaid for more than 5 years after the date on which the determination takes effect.
 (8) A determination under this section takes effect on the following dates:
-  (a) where subsection (1)(a) or (b), (2)(b)(ii), or (3)(b)(ii) applies,—
-    (i) if the Registrar receives neither a request to make an oral submission nor a written submission within the 10-day period referred to in subsection (5)(a)(iii) or (iv), on the date on which that period expires; or
-    (ii) if after hearing an oral submission in accordance with subsection (5)(a)(iii), or considering a written submission received within the 10-day period referred to in subsection (5)(a)(iv), the Registrar decides to proceed with the proposed determination, on a specified date that the Registrar notifies to the defendant or, as the case requires, the defendant's representative:
-  (b) where subsection (2)(a) or (3)(a) applies, on the date that the Registrar obtains the agreement of the defendant or, as the case requires, the defendant's representative under either of those subsections:
-  (c) where subsection (1)(c) or (d), (2)(b)(i), (3)(b)(i), or (4) applies, on a date specified by the Registrar.
+  (a) where subsection (1)﻿(a) or (b), (2)﻿(b)﻿(ii), or (3)﻿(b)﻿(ii) applies,—
+    (i) if the Registrar receives neither a request to make an oral submission nor a written submission within the 10-day period referred to in subsection (5)﻿(a)﻿(iii) or (iv), on the date on which that period expires; or
+    (ii) if after hearing an oral submission in accordance with subsection (5)﻿(a)﻿(iii), or considering a written submission received within the 10-day period referred to in subsection (5)﻿(a)﻿(iv), the Registrar decides to proceed with the proposed determination, on a specified date that the Registrar notifies to the defendant or, as the case requires, the defendant's representative:
+  (b) where subsection (2)﻿(a) or (3)﻿(a) applies, on the date that the Registrar obtains the agreement of the defendant or, as the case requires, the defendant's representative under either of those subsections:
+  (c) where subsection (1)﻿(c) or (d), (2)﻿(b)﻿(i), (3)﻿(b)﻿(i), or (4) applies, on a date specified by the Registrar.
 (9) In this section and sections 86C, 86D, 87, and 87AA, arrangement extending the time to pay a fine means an arrangement that—
   (a) allows for either or both of the following:
     (i) a greater time to pay a fine:
@@ -854,15 +855,15 @@ Except as otherwise provided in this Act or the Sentencing Act 2002, every fine 
   (b) be suspended or cancelled if the defendant defaults in the payment of the subsequent fine, and—
     (i) the bailiff is unable to contact the representative; or
     (ii) the bailiff contacts the representative but is unable to reach an agreement with the representative as to how the subsequent fine is to be paid.
-(4) If subsection (1), (2)(b)(ii), or (3)(b)(ii) applies, the bailiff must, before he or she makes a determination in relation to the arrangement,—
+(4) If subsection (1), (2)﻿(b)﻿(ii), or (3)﻿(b)﻿(ii) applies, the bailiff must, before he or she makes a determination in relation to the arrangement,—
   (a) notify the defendant or, as the case requires, the representative—
     (i) of the proposed determination and the reasons for the proposed determination; and
     (ii) that the defendant or, as the case requires, the defendant's representative may give reasons, in an oral or a written submission to the bailiff, why the proposed determination should not be made; and
     (iii) that, if it is intended to make an oral submission, that intention must be advised to the bailiff within 10 days after the date of the notification and that any such submission must be made at a time specified by the bailiff; and
     (iv) that any written submission must be received by the bailiff within 10 days after the date of the notification; and
   (b) consider any—
-    (i) oral submission made in accordance with paragraph (a)(iii); and
-    (ii) written submissions received within the 10-day period referred to in paragraph (a)(iv).
+    (i) oral submission made in accordance with paragraph (a)﻿(iii); and
+    (ii) written submissions received within the 10-day period referred to in paragraph (a)﻿(iv).
 (5) Any written submissions that may be made under subsection (4) may be made electronically.
 (6) In no case may a fine to which a determination relates remain unpaid for more than 5 years after the date on which the determination takes effect.
 (7) As soon as practicable after the bailiff makes a determination under this section, the bailiff must notify the Registrar of the determination.
@@ -888,7 +889,7 @@ Except as otherwise provided in this Act or the Sentencing Act 2002, every fine 
   (b) if the liable person is later required to pay an amount of reparation to another person or other persons in relation to another offence; and
   (c) if both the amounts referred to in paragraphs (a) and (b) have not been paid in full; and
   (d) whether the requirements to pay the amounts referred to in paragraphs (a) and (b) arose before or after the commencement of this section.
-(2) For the purpose of subsection (1), it does not matter whether or not the offence referred to in subsection (1)(b) is of the same kind as the offence referred to in subsection (1)(a).
+(2) For the purpose of subsection (1), it does not matter whether or not the offence referred to in subsection (1)﻿(b) is of the same kind as the offence referred to in subsection (1)﻿(a).
 (3) Any payments received from the liable person must, in respect of 1 or more amounts of reparation imposed on the same day in respect of different offences committed by the liable person, be applied (in accordance with section 86F if applicable)—
   (a) as between the persons to whom the defendant is required to pay the reparation; and
   (b) in the proportion that reflects the relative total or proportionate amounts ordered to be paid to each of them.
@@ -911,13 +912,13 @@ The Crown is not liable to any person for any error, omission, or delay in apply
   (c) issue a deduction notice requiring a bank to deduct the amount due from a sum payable or to become payable to the defendant.
 (3) Enforcement procedures commenced under this section must cease on payment of the unpaid amount of the fine.
 (4) If a default is made in the payment of any instalment in respect of a fine that may be paid by instalments, proceedings may be taken as if default had been made in the payment of all instalments that remain unpaid.
-(5) Subsection (2)(a) does not apply if the only amount in default is an offender levy.
+(5) Subsection (2)﻿(a) does not apply if the only amount in default is an offender levy.
 (6) The powers conferred by this section may not be exercised by a Registrar who is a constable.
 
 ### 87AA Power to obtain information in respect of beneficiaries
 (1) If—the Registrar may require the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 (the chief executive) to provide the Registrar with the information specified in subsection (2) that is known to the chief executive.
   (a) the Registrar is—
-    (i) considering whether to make an attachment order under section 87(2)(b) in respect of salary or wages payable or to become payable to a defendant; or
+    (i) considering whether to make an attachment order under section 87(2)﻿(b) in respect of salary or wages payable or to become payable to a defendant; or
     (ia) considering whether an arrangement extending the time to pay a fine or an attachment order is to be varied, suspended, or cancelled under section 86A or 86D; or
     (ii) assessing the amount of the protected earnings rate referred to in section 105(7); and
   (b) the salary or wages of the defendant includes a benefit; and
@@ -940,14 +941,14 @@ The Crown is not liable to any person for any error, omission, or delay in apply
   (c) without imposing a charge.
 (3AA) A requirement under subsection (1) may be made by post or by fax, email, or other electronic means.
 (3A) If the defendant has died and the chief executive is aware of that fact, the chief executive must advise the Registrar accordingly on receipt of a requirement under subsection (1).
-(4) This section does not apply if the Registrar is directed under section 88AE(1)(a) to issue a warrant to seize property or to make an attachment order or to issue a deduction notice.
+(4) This section does not apply if the Registrar is directed under section 88AE(1)﻿(a) to issue a warrant to seize property or to make an attachment order or to issue a deduction notice.
 
 ### 87A Publication of name of fine defaulter
 (1) This section applies if—
   (a) a defendant has been ordered by a court (other than a Youth Court) to pay any fine; and
   (b) the defendant has not made any payment in respect of the fine for at least 3 months before the date on which the Registrar proposes to arrange the publication of a notice under subsection (2) relating to the defendant; and
   (c) the defendant owes not less than $500 in 1 or more unpaid fines; and
-  (d) either the fine is not subject to any arrangement under section 81(1)(a) or 86 or 86C allowing payment of the fine over a specified period or the fine is subject to such an arrangement but the defendant is not for the time being observing the terms of the arrangement; and
+  (d) either the fine is not subject to any arrangement under section 81(1)﻿(a) or 86 or 86C allowing payment of the fine over a specified period or the fine is subject to such an arrangement but the defendant is not for the time being observing the terms of the arrangement; and
   (e) no name suppression order was made in respect of the defendant in the proceedings in which the fine was imposed; and
   (f) the Registrar has been unable to locate the defendant after using reasonably available sources of information; and
   (g) the Registrar has confirmed the identity of the defendant by checking information held in relation to the defendant on any database accessible to the Registrar; and
@@ -961,7 +962,7 @@ The Crown is not liable to any person for any error, omission, or delay in apply
 ### 87B Deduction of fines
 (1) This section applies if—
   (a) a fine is payable by a defendant; and
-  (b) the defendant is, by virtue of an order made under section 81(1)(a) or 83(1), an arrangement made under section 86 or 86C, or a direction given under section 88AE(1)(h),—
+  (b) the defendant is, by virtue of an order made under section 81(1)﻿(a) or 83(1), an arrangement made under section 86 or 86C, or a direction given under section 88AE(1)﻿(h),—
     (i) ordered to pay the fine immediately; or
     (ii) allowed a greater time for payment; or
     (iii) allowed to pay by instalments; and
@@ -1047,7 +1048,7 @@ A person commits an offence and is liable on conviction to a fine not exceeding 
   (a) order that the defendant be brought before the Registrar; or
   (b) refer the matter to a District Court Judge or Community Magistrate with a report on the circumstances of the case.
 (3) If the Registrar refers a matter to a District Court Judge or Community Magistrate, the Registrar may order that the defendant be brought before the Judge or Community Magistrate.
-(4) For the purposes of subsection (2)(a) or (3), the Registrar may, if necessary, issue a warrant for the arrest of the defendant.
+(4) For the purposes of subsection (2)﻿(a) or (3), the Registrar may, if necessary, issue a warrant for the arrest of the defendant.
 (5) Despite subsection (1), this section does not apply if the only amount that remains unpaid is an offender levy.
 
 ### 88AA Form and execution of warrant for arrest
@@ -1061,8 +1062,8 @@ A person commits an offence and is liable on conviction to a fine not exceeding 
 (3) A constable or bailiff may execute a warrant for arrest issued under section 88(4) or a computer printout that, under this section, constitutes a warrant for arrest.
 (4) This section does not limit any other provision of this Act.
 
-### 88AB Provisions for defendant arrested under warrant for arrest issued for purpose of section 88(2)(a)
-If a defendant is arrested under a warrant for arrest issued for the purpose of section 88(2)(a), the following provisions apply:
+### 88AB Provisions for defendant arrested under warrant for arrest issued for purpose of section 88(2)﻿(a)
+If a defendant is arrested under a warrant for arrest issued for the purpose of section 88(2)﻿(a), the following provisions apply:
   (a) the defendant must be brought before the Registrar:
   (b) the defendant is bailable as of right:
   (c) section 168 of the Criminal Procedure Act 2011 and Part 3 of the Bail Act 2000 apply with any necessary modifications as if the appearance before the Registrar constituted part of the hearing of a charge:
@@ -1077,14 +1078,14 @@ If a defendant is arrested under a warrant for arrest issued for the purpose of 
   (e) if the defendant cannot practicably be brought immediately before the Registrar, a District Court Judge, or a Community Magistrate, then a Police employee or a bailiff may grant bail to the defendant, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
 
 ### 88AD Powers of Registrar in relation to defendant brought before Registrar
-(1) If a defendant is brought before a Registrar under section 88(2)(a), the Registrar may examine the defendant as to the defendant's financial position.
+(1) If a defendant is brought before a Registrar under section 88(2)﻿(a), the Registrar may examine the defendant as to the defendant's financial position.
 (2) The Registrar may also—
   (a) invoke 1 or more of the enforcement actions in section 87(2); or
   (b) enter into an arrangement with the defendant under section 86; or
   (c) if the Registrar is satisfied that neither of the actions described in paragraphs (a) and (b) will be effective, refer the defendant to a District Court Judge or Community Magistrate with a report on the case (in which case sections 88(3) and (4), 88AA, and 88AC apply).
 
-### 88AE Powers of District Court Judge or Community Magistrate after considering report of Registrar under section 88(2)(b) or 88AD(2)(c)
-(1) After considering the report of the Registrar prepared under section 88(2)(b) or 88AD(2)(c) and the defendant's financial position (whether determined from a declaration of financial capacity prepared by the defendant or from other sources), a District Court Judge or Community Magistrate may—
+### 88AE Powers of District Court Judge or Community Magistrate after considering report of Registrar under section 88(2)﻿(b) or 88AD(2)﻿(c)
+(1) After considering the report of the Registrar prepared under section 88(2)﻿(b) or 88AD(2)﻿(c) and the defendant's financial position (whether determined from a declaration of financial capacity prepared by the defendant or from other sources), a District Court Judge or Community Magistrate may—
   (a) refer the matter to the Registrar with a direction that 1 or more of the enforcement actions referred to in section 87(2), as specified in the direction, be invoked; or
   (b) subject to section 106E, direct that a warrant of commitment in the prescribed form be issued; or
   (c) subject to sections 80A to 80ZM of the Sentencing Act 2002 and section 106E of this Act, sentence the defendant to a sentence of home detention; or
@@ -1096,8 +1097,8 @@ If a defendant is arrested under a warrant for arrest issued for the purpose of 
   (i) direct that no further enforcement proceedings be taken for the fine for any period or subject to any conditions that the Judge or Community Magistrate may direct; or
   (j) remit the fine or a part of the fine.
 (2) A Community Magistrate may not—
-  (a) direct the issue of a warrant of commitment under subsection (1)(b):
-  (b) sentence a defendant to a sentence of home detention under subsection (1)(c).
+  (a) direct the issue of a warrant of commitment under subsection (1)﻿(b):
+  (b) sentence a defendant to a sentence of home detention under subsection (1)﻿(c).
 (3) If a Community Magistrate considers that the issue of a warrant of commitment or a sentence of home detention is appropriate in any case, the Community Magistrate must refer the matter to a District Court Judge (in which case sections 167 to 170 of the Criminal Procedure Act 2011, to the extent that they are applicable and with the necessary modifications, apply).
 (4) Despite subsection (1), a period of imprisonment or a sentence of home detention must not be imposed on the defendant for a fine if—
   (a) the fine was imposed for a traffic offence (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) not punishable by imprisonment; and
@@ -1107,8 +1108,8 @@ If a defendant is arrested under a warrant for arrest issued for the purpose of 
 
 ### 88AF Further provisions relating to powers of District Court Judge or Community Magistrate in section 88AE
 (1) A warrant of commitment or a sentence of community work, community detention, or home detention may be issued or imposed under section 88AE(1) even though the defendant was not liable to be imprisoned on the determination of the charge for which the fine was imposed.
-(2) Any warrant of commitment directed to be issued under section 88AE(1)(b) may be issued by any District Court Judge and may be withdrawn at any time by any District Court Judge.
-(3) If any direction is given under section 88AE(1)(f), the difference between the amount due under the fine and the amount for which action is directed to be taken under that provision is no longer payable and no proceedings may be taken or continued for its recovery.
+(2) Any warrant of commitment directed to be issued under section 88AE(1)﻿(b) may be issued by any District Court Judge and may be withdrawn at any time by any District Court Judge.
+(3) If any direction is given under section 88AE(1)﻿(f), the difference between the amount due under the fine and the amount for which action is directed to be taken under that provision is no longer payable and no proceedings may be taken or continued for its recovery.
 (4) If a District Court Judge or Community Magistrate makes any order (other than a direction for the issue of a warrant of commitment) under section 88AE, the Judge or Community Magistrate may postpone the issue or defer the operation of the order for any period and subject to any conditions that he or she may direct.
 
 ### 88AG Power of District Court Judge or Community Magistrate to order return of defendant
@@ -1118,7 +1119,7 @@ If a defendant is arrested under a warrant for arrest issued for the purpose of 
 (4) If a defendant is detained in accordance with an order issued under subsection (1), the provisions of section 88AC apply.
 
 ### 88A Civil enforcement of fines
-(1) If, under section 88AE(1)(g), a District Court Judge gives a direction in relation to 1 or more fines, the District Court is deemed to have made, in its civil jurisdiction, an order that the defendant pay the Registrar the total amount of that fine or those fines.
+(1) If, under section 88AE(1)﻿(g), a District Court Judge gives a direction in relation to 1 or more fines, the District Court is deemed to have made, in its civil jurisdiction, an order that the defendant pay the Registrar the total amount of that fine or those fines.
 (2) The order deemed to have been made under subsection (1) may be enforced as if that order were a final order for the payment of money and as if the Registrar were the relevant judgment creditor.
 (3) The Registrar may take steps, under section 66 of the District Courts Act 1947, to have the order deemed to have been made under subsection (1) removed into the High Court.
 (4) Action to enforce the order deemed to have been made under subsection (1) must be taken—
@@ -1160,7 +1161,7 @@ The period of imprisonment imposed under this Act in respect of the non-payment 
 (4) On completion of a term of imprisonment or any sentence referred to in subsection (2), the fine in respect of which the term of imprisonment or the sentence was imposed is remitted.
 
 ### 92 Effect of warrant of commitment
-A warrant of commitment issued under section 83(2)(b) or section 88AE(1)(b) shall require that the defendant be imprisoned in some prison for such time as the District Court Judge considers appropriate (not exceeding the appropriate maximum period specified in section 90, or section 19 of the Crimes Act 1961, as the case may be) unless the fine or any lesser amount directed by the Judge under section 88AE(1)(f) is sooner paid.
+A warrant of commitment issued under section 83(2)﻿(b) or section 88AE(1)﻿(b) shall require that the defendant be imprisoned in some prison for such time as the District Court Judge considers appropriate (not exceeding the appropriate maximum period specified in section 90, or section 19 of the Crimes Act 1961, as the case may be) unless the fine or any lesser amount directed by the Judge under section 88AE(1)﻿(f) is sooner paid.
 
 **Disclosure of default balances to certain authorised persons**
 
@@ -1240,7 +1241,7 @@ A warrant of commitment issued under section 83(2)(b) or section 88AE(1)(b) shal
   (b) for the purposes of an audit conducted under section 92H or to a Registrar under section 100K; or
   (c) in accordance with subsection (2), in any case where the recognised user is a credit reporter.
 (2) A credit reporter may only disclose the information contained in a fine status response to the subscriber who requested the information, and only if the disclosure is made not later than 24 hours after receipt, under section 92E, of that response.
-(3) A person who contravenes this section or who discloses or uses information in contravention of any regulations made under section 92I is, for the purposes of Part 8 of the Privacy Act 1993, taken to have breached an information privacy principle under section 66(1)(a)(i) of that Act.
+(3) A person who contravenes this section or who discloses or uses information in contravention of any regulations made under section 92I is, for the purposes of Part 8 of the Privacy Act 1993, taken to have breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
 
 ### 92G Query subject to be notified of proposed combination of information
 (1) This section applies where—
@@ -1281,7 +1282,7 @@ A warrant of commitment issued under section 83(2)(b) or section 88AE(1)(b) shal
 (2) Before the Minister for Courts recommends the making of regulations under subsection (1), the Minister must—
   (a) consult the Privacy Commissioner; and
   (b) be satisfied that the proposed regulations are consistent with the purpose stated in section 92B(1) and the legislative framework described in section 92B(2).
-(3) Subsection (1)(f) does not apply unless the definition of credit information in the credit reporting code of practice includes driver licence numbers and driver licence card numbers.
+(3) Subsection (1)﻿(f) does not apply unless the definition of credit information in the credit reporting code of practice includes driver licence numbers and driver licence card numbers.
 (4) This section does not limit section 212.
 
 **Written cautions in case of certain traffic fines**
@@ -1316,7 +1317,7 @@ A warrant of commitment issued under section 83(2)(b) or section 88AE(1)(b) shal
 (3) The Judge must conduct the review on the papers unless the Judge considers that a hearing is necessary.
 (4) If the Judge is satisfied that a ground stated in subsection (1) applies, the following provisions apply:
   (a) the Judge must cancel the written caution served on the applicant:
-  (b) if the ground for cancelling the applicant's written caution is that stated in subsection (1)(a) or (d), the Judge must also cancel the written caution served on any other person under the same order that required service of the written caution on the applicant:
+  (b) if the ground for cancelling the applicant's written caution is that stated in subsection (1)﻿(a) or (d), the Judge must also cancel the written caution served on any other person under the same order that required service of the written caution on the applicant:
   (c) the Registrar must notify every person (including the applicant) whose written caution is cancelled of that outcome:
   (d) if a written caution served on a person is cancelled, the written caution is deemed not to have been served on the person.
 
@@ -1341,7 +1342,7 @@ A warrant of commitment issued under section 83(2)(b) or section 88AE(1)(b) shal
 (2) Every application must include a statutory declaration that specifies a ground stated in subsection (1) and why that ground applies.
 (3) The Judge must consider the application on the papers unless the Judge considers that a hearing is necessary.
 (4) The Judge may order the return of the motor vehicle if satisfied that—
-  (a) a ground stated in subsection (1)(a) or (d) applies; or
+  (a) a ground stated in subsection (1)﻿(a) or (d) applies; or
   (b) another ground stated in subsection (1) applies to the applicant and to every other person who is treated as a substitute for the defendant; or
   (c) it would, in the circumstances, be unreasonable for the vehicle to be sold or disposed of.
 
@@ -1353,10 +1354,10 @@ The purposes of sections 98 to 100T are—
   (b) in cases where the fine or fines in default relate to traffic offending, to reduce opportunities for offending of that kind.
 
 ### 98 Warrant to seize property
-(1) If any warrant to seize property is issued under section 83(2)(a), 87(2)(a), or 88AE(1)(a), the warrant applies so as to authorise the seizure of—
+(1) If any warrant to seize property is issued under section 83(2)﻿(a), 87(2)﻿(a), or 88AE(1)﻿(a), the warrant applies so as to authorise the seizure of—
   (a) any property that is apparently the property of the defendant:
   (b) any motor vehicle that is apparently the property of the substitute if the warrant is issued for a traffic fine and there is a substitute for the defendant.
-(2) Every warrant to seize property of the kind described in subsection (1)(a) or (b), or both, must—
+(2) Every warrant to seize property of the kind described in subsection (1)﻿(a) or (b), or both, must—
   (a) be in a form approved under section 209A; and
   (b) contain full details of the fine and the amount remaining unpaid in respect of the fine.
 (3) A warrant to seize property referred to in subsection (1) may be in the form of a computer printout of information entered by a Registrar into a computer system accessible to the Police or a bailiff.
@@ -1428,15 +1429,15 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (b) if the property is a motor vehicle that has been impounded under section 96 or 96A of the Land Transport Act 1998, any impoundment costs:
   (c) all costs incurred in seizing, transporting, and storing the property.
 (2) Subsection (1) applies even though claims under any of sections 100F, 100H, and 100J are pending in respect of the property.
-(3) If the property is a motor vehicle that has been seized from a substitute for the defendant, the only type of fines required to be paid under subsection (1)(a) are ones imposed in respect of traffic offences committed by the defendant in a motor vehicle that, at the time of the commission of the offence, was owned by the substitute or in which the substitute had an interest.
+(3) If the property is a motor vehicle that has been seized from a substitute for the defendant, the only type of fines required to be paid under subsection (1)﻿(a) are ones imposed in respect of traffic offences committed by the defendant in a motor vehicle that, at the time of the commission of the offence, was owned by the substitute or in which the substitute had an interest.
 (4) If the property is a motor vehicle that has been seized while impounded under section 96 or 96A of the Land Transport Act 1998, the motor vehicle may not be released under subsection (1) before the day after the close of the 28-day period for which the vehicle would otherwise be required to be impounded under that Act.
-(5) Subsection (4) is subject to section 100L(1)(a) and (3).
+(5) Subsection (4) is subject to section 100L(1)﻿(a) and (3).
 (6) If an appeal under section 102 or 110 of the Land Transport Act 1998 against the impoundment of the motor vehicle is allowed before the expiry of the 28-day period for which the motor vehicle would otherwise be required to be impounded under section 96 or 96A of that Act,—
   (a) the Registrar must release the motor vehicle to the person who is registered in respect of that vehicle; and
   (b) that person is not liable for any fees and costs payable under an enactment in respect of the motor vehicle.
 (7) Subsection (6)—
   (a) applies despite subsection (1) and sections 100F to 100J, 100L, and 100P; but
-  (b) does not apply if the motor vehicle has already been released to a lessor or secured party under section 100H or 100L(1)(a) or been sold by the court under section 100P.
+  (b) does not apply if the motor vehicle has already been released to a lessor or secured party under section 100H or 100L(1)﻿(a) or been sold by the court under section 100P.
 
 ### 100F Release of property to certain owners
 (1) If satisfied that the defendant does not own the seized property, the Registrar or a District Court Judge must release the property to a person who satisfies the Registrar or the Judge that—
@@ -1451,7 +1452,7 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (a) may not be released under this section unless—
     (i) the 28-day period for which the vehicle would otherwise be required to be impounded under that Act has expired; and
     (ii) any impoundment costs have been paid into court within 7 days after the close of that period or within any longer period specified by the Registrar in writing; and
-  (b) may be sold under section 100P if those costs are not paid in accordance with paragraph (a)(ii).
+  (b) may be sold under section 100P if those costs are not paid in accordance with paragraph (a)﻿(ii).
 
 ### 100G Determination of claim by owners
 (1) In determining a claim under section 100F(2), a District Court Judge may, if the property has not yet been sold, assigned, applied, or otherwise disposed of, release the property to the claimant if satisfied that—
@@ -1468,7 +1469,7 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (a) may not be released under this section unless—
     (i) the 28-day period for which the vehicle would otherwise be required to be impounded under that Act has expired; and
     (ii) any impoundment costs have been paid into court within 7 days after the close of that period or within any longer period specified by the Registrar in writing; and
-  (b) may be sold under section 100P if those costs are not paid in accordance with paragraph (a)(ii).
+  (b) may be sold under section 100P if those costs are not paid in accordance with paragraph (a)﻿(ii).
 (6) If the claimant succeeds in the claim to the property,—
   (a) any deposit paid or security provided must be returned to the person who provided it; and
   (b) a District Court Judge may order the defendant to reimburse any person for any costs that have been paid into court under section 100Q.
@@ -1498,8 +1499,8 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 (5) However, despite subsection (4), section 100R applies subject to the following modifications:
   (a) the proceeds of the sale of the property must be applied in payment to the lessor of the amount to which the lessor would, but for the sale, have been entitled under the lease; and
   (b) the proceeds of the sale of the property must be applied in the manner and order of priority set out in section 100R, except that,—
-    (i) in the case of a lease for a term of 1 year or less, those proceeds must be applied for the payment to the lessor described in paragraph (a) after they are applied for the payments described in section 100R(1)(a) and (b), but before they are applied for the remainder of the payments described in section 100R(1)(c) to (j); and
-    (ii) in the case of a lease for a term of more than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) as if they were payments described in section 100R(1)(c), and section 100R(2) applied.
+    (i) in the case of a lease for a term of 1 year or less, those proceeds must be applied for the payment to the lessor described in paragraph (a) after they are applied for the payments described in section 100R(1)﻿(a) and (b), but before they are applied for the remainder of the payments described in section 100R(1)﻿(c) to (j); and
+    (ii) in the case of a lease for a term of more than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) as if they were payments described in section 100R(1)﻿(c), and section 100R(2) applied.
 (6) On the release of the proceeds of the sale of the property to the lessor, the lease is cancelled.
 
 ### 100J Claims by secured parties
@@ -1538,13 +1539,13 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 (1) When the applicability of a default balance has been ascertained under section 100K, a District Court Judge or the Registrar may, if the property has not yet been sold,—
   (a) release the property to a secured party, at the request of the secured party, and direct the secured party to sell the property and account for the proceeds of sale in accordance with section 100N; or
   (b) order the sale of the property under section 100P.
-(2) If the Judge or Registrar takes action under subsection (1)(a) and 2 or more secured parties have requested the taking of that action, then the Judge or Registrar must release the property to the secured party with the highest-ranking security interest under the order of priority determined by Part 7 or 8 of the Personal Property Securities Act 1999.
-(3) If the property is a motor vehicle that has been seized while impounded under section 96 or 96A of the Land Transport Act 1998, the motor vehicle may also be released under subsection (1)(a) even though the 28-day period of impoundment for which the motor vehicle would otherwise be required to be impounded under that Act has not yet expired.
-(4) A purchaser of property that is sold to the purchaser under a direction given under subsection (1)(a) obtains, by virtue of this section, good title to the property free of all ownership interests and other proprietary interests held in the property before that sale.
-(5) Subsection (1)(a) is subject to section 100M.
+(2) If the Judge or Registrar takes action under subsection (1)﻿(a) and 2 or more secured parties have requested the taking of that action, then the Judge or Registrar must release the property to the secured party with the highest-ranking security interest under the order of priority determined by Part 7 or 8 of the Personal Property Securities Act 1999.
+(3) If the property is a motor vehicle that has been seized while impounded under section 96 or 96A of the Land Transport Act 1998, the motor vehicle may also be released under subsection (1)﻿(a) even though the 28-day period of impoundment for which the motor vehicle would otherwise be required to be impounded under that Act has not yet expired.
+(4) A purchaser of property that is sold to the purchaser under a direction given under subsection (1)﻿(a) obtains, by virtue of this section, good title to the property free of all ownership interests and other proprietary interests held in the property before that sale.
+(5) Subsection (1)﻿(a) is subject to section 100M.
 
 ### 100M Certain payments required before release to lessor or secured party takes effect
-(1) An order for the release of property under section 100H(3) or 100L(1)(a) does not take effect unless the following costs have been paid into court:
+(1) An order for the release of property under section 100H(3) or 100L(1)﻿(a) does not take effect unless the following costs have been paid into court:
   (a) if the property is a motor vehicle that has been impounded under section 96 or 96A of the Land Transport Act 1998, any impoundment costs:
   (b) any costs incurred in seizing, transporting, and storing the property and in complying with the provisions of this Part:
   (c) in the case of a secured party claiming under a security agreement, any applicable default balance certified under section 100K in respect of that agreement.
@@ -1552,20 +1553,20 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 (3) If the payments specified in subsection (1) are not paid in accordance with subsection (2), the property may be sold under section 100P.
 
 ### 100N Application of proceeds of sale by secured party
-(1) A person to whom property is released under section 100L(1)(a) must, on selling the property,—
+(1) A person to whom property is released under section 100L(1)﻿(a) must, on selling the property,—
   (a) account to the Registrar for the proceeds of the sale:
   (b) pay into court the proceeds of the sale, less—
     (i) any amount paid under section 100M; and
     (ii) the amount of the costs and expenses of, and incidental to, the sale.
-(2) The Registrar must then apply the balance remaining in accordance with section 100R(1)(c) to (j) and (2), with all necessary modifications.
+(2) The Registrar must then apply the balance remaining in accordance with section 100R(1)﻿(c) to (j) and (2), with all necessary modifications.
 
 ### 100O Failure by secured party to sell or account for proceeds
-(1) If the secured party fails to comply with a direction under section 100L(1)(a) and has not sold the property,—
+(1) If the secured party fails to comply with a direction under section 100L(1)﻿(a) and has not sold the property,—
   (a) the Registrar must issue, in a form approved by the chief executive, a warrant to recover property; and
   (b) the property may be recovered under that warrant as the property of the defendant or (if the property is a motor vehicle seized from a substitute of the defendant) the substitute for the defendant; and
   (c) section 98 applies in respect of the property with all necessary modifications.
 (2) As soon as practicable after the property is delivered into a Registrar’s custody under subsection (1), the Registrar must arrange for the sale of the property as if it were a sale under section 100P and apply the proceeds of sale in accordance with section 100R(1) or, as the case requires, in accordance with a direction under section 100R(5).
-(3) A secured party who fails, in whole or in part, to pay into court the money required under section 100N(1)(b) is liable to the Crown for any amount not paid, and that amount may be recovered from the secured party as a debt due to the Crown.
+(3) A secured party who fails, in whole or in part, to pay into court the money required under section 100N(1)﻿(b) is liable to the Crown for any amount not paid, and that amount may be recovered from the secured party as a debt due to the Crown.
 
 ### 100P Sale or disposal of property seized
 (1) If any fine in respect of which property has been seized under a warrant to seize property remains unpaid, a District Court Judge or the Registrar may, after the expiry of the relevant period specified in subsection (2), order—
@@ -1604,22 +1605,22 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (e) in payment of any offender levy:
   (f) in payment of the fine specified in the warrant:
   (g) in payment to any secured party or secured parties of the applicable default balance or the applicable default balances certified under section 100K and deducted under paragraph (c):
-  (h) in payment of any fees and accident insurance levies prescribed under section 242(2)(b) of the Land Transport Act 1998 that are outstanding in respect of the vehicle:
+  (h) in payment of any fees and accident insurance levies prescribed under section 242(2)﻿(b) of the Land Transport Act 1998 that are outstanding in respect of the vehicle:
   (i) in payment of any road user charges under Road User Charges Act 2012 that are outstanding in respect of the vehicle:
   (j) to the defendant or, as the case requires, to the substitute for the defendant.
-(2) If any proceeds of sale are required to be applied to 2 or more security interests under subsection (1)(c), those proceeds must be applied in the order of the priority determined for those security interests by Part 7 or 8 of the Personal Property Securities Act 1999.
-(3) If any proceeds of sale are required to be applied to 2 or more default balances under subsection (1)(g), those proceeds must be applied to those default balances in the order of the priority determined for the applicable security interests by Part 7 or 8 of the Personal Property Securities Act 1999.
+(2) If any proceeds of sale are required to be applied to 2 or more security interests under subsection (1)﻿(c), those proceeds must be applied in the order of the priority determined for those security interests by Part 7 or 8 of the Personal Property Securities Act 1999.
+(3) If any proceeds of sale are required to be applied to 2 or more default balances under subsection (1)﻿(g), those proceeds must be applied to those default balances in the order of the priority determined for the applicable security interests by Part 7 or 8 of the Personal Property Securities Act 1999.
 (4) If the proceeds arise out of the sale of a motor vehicle owned by a substitute for the defendant or in which the substitute had an interest, the proceeds must be applied in the manner and order of priority specified in subsection (1), except that the payments described in paragraphs (d) to (f) of that subsection are limited to amounts imposed in respect of traffic offences committed by the defendant in a motor vehicle that, at the time of the commission of the offence, was owned by the substitute or in which the substitute had an interest.
 (5) The Judge may, on application or on his or her own initiative, give any directions as to the application of the proceeds of sale under this section.
 
 ### 100S Remission of fine and costs of sale in certain cases involving motor vehicles
 (1) This section applies if the realisation under section 100N or 100P of any motor vehicle seized in respect of a fine does not result in a reduction of the defendant's fine by more than $100.
 (2) The Registrar must—
-  (a) remit the impoundment costs and the costs of the sale of the motor vehicle (as those costs are described in section 100R(1)(a) and (b)); and
+  (a) remit the impoundment costs and the costs of the sale of the motor vehicle (as those costs are described in section 100R(1)﻿(a) and (b)); and
   (b) remit—ExampleA motor vehicle seized in respect of a fine sells for $350. The impoundment costs and the costs of the sale of that motor vehicle are $300. This leaves a balance of $50 to be deducted from the fine. However, the Registrar must remit a further $50 of the fine in order to comply with the requirement for $100 to be deducted from the fine.
     (i) the entire fine in default for which the motor vehicle was seized, if the amount of that fine is $100 or less; or
     (ii) $100 less any proceeds of that sale that have been applied towards paying the fine in default, if the amount of that fine is greater than $100.
-(3) The reference to fine in subsection (2)(b) excludes—
+(3) The reference to fine in subsection (2)﻿(b) excludes—
   (a) any reparation that the defendant is liable to pay, other than court costs and other costs that have been added to that reparation; and
   (b) any offender levy.
 
@@ -1665,7 +1666,7 @@ No Registrar and no bailiff, constable or other officer shall be personally liab
 (3) The Registrar who issued the warrant may be joined as a defendant in the proceeding and, if the Registrar is joined and judgment is given against the Registrar, the costs to be recovered by the plaintiff against the Registrar must include the costs that the plaintiff is liable to pay to the bailiff.
 
 ### 103 Effect of attachment order
-(1) An attachment order under section 87(2)(b) or section 88AE(1)(a) shall be in a form approved under section 209A and shall be dealt with and have effect as provided in sections 104 to 106B.
+(1) An attachment order under section 87(2)﻿(b) or section 88AE(1)﻿(a) shall be in a form approved under section 209A and shall be dealt with and have effect as provided in sections 104 to 106B.
 (2)
 
 ### 104 Attachment order to be served on employer
@@ -1708,7 +1709,7 @@ No Registrar and no bailiff, constable or other officer shall be personally liab
   - **net earnings** , in relation to an earnings period, means the balance left after deducting from the defendant's salary or wages for the earnings period the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the Income Tax Act 2007 if the salary or wages were the only salary or wages paid to the defendant by the employer for the earnings period
   - **protected earnings rate** , in relation to an earnings period, means the higher of—
     (a) 60% of net earnings for the earnings period; and
-    (b) the amount or percentage stated under subsection (1)(c).
+    (b) the amount or percentage stated under subsection (1)﻿(c).
 
 ### 106 Liability of employer
 (1) As long as an attachment order remains in force, the employer to whom it relates shall from time to time, whenever any money becomes due and payable by the employer to the defendant by way of salary or wages—
@@ -1757,13 +1758,13 @@ If a fine has been ordered to be paid or an order has been made by a court or th
 (5) A District Court Judge or Community Magistrate must not sentence a defendant to a sentence of community detention in accordance with subsection (2) unless—
   (a) a pre-sentence report has been provided in accordance with section 26A of the Sentencing Act 2002; and
   (b) the Judge or Community Magistrate is satisfied of the matters in section 69C of the Sentencing Act 2002.
-(6) A District Court Judge must not sentence a defendant to a sentence of home detention in accordance with subsection (3)(a) unless—
+(6) A District Court Judge must not sentence a defendant to a sentence of home detention in accordance with subsection (3)﻿(a) unless—
   (a) a pre-sentence report has been provided in accordance with section 26A of the Sentencing Act 2002; and
-  (b) the Judge is satisfied of the matters in section 80A(2)(a) of the Sentencing Act 2002; and
+  (b) the Judge is satisfied of the matters in section 80A(2)﻿(a) of the Sentencing Act 2002; and
   (c) either of the following applies:
     (i) the defendant is already undergoing a sentence of home detention or is about to be sentenced to home detention for another offence at the time that the Judge is considering sentencing the defendant for non-payment of 1 or more fines under this Part:
     (ii) the Judge is satisfied that the defendant has the financial capacity to pay the fine or fines.
-(7) A District Court Judge must not issue, or direct the issue of, a warrant of commitment for the imprisonment of a defendant in accordance with subsection (3)(b) unless—
+(7) A District Court Judge must not issue, or direct the issue of, a warrant of commitment for the imprisonment of a defendant in accordance with subsection (3)﻿(b) unless—
   (a) the defendant has had the same opportunity for legal representation as is available to a defendant who is liable to a sentence of imprisonment under section 30 of the Sentencing Act 2002; and
   (b) the warrant of commitment can be executed immediately; and
   (c) either of the following applies:
@@ -1792,10 +1793,10 @@ If a fine has been ordered to be paid or an order has been made by a court or th
 (4) If, on the determination of the review, the Judge confirms the Registrar's decision to issue the warrant to seize property, the property must be dealt with, and any fees and costs payable under an enactment in respect of the property are payable, as if the application had not been made.
 (5) If, on the determination of the review, the Judge rescinds the Registrar's decision to issue the warrant to seize property, the owner—
   (a) is entitled to—
-    (i) the return of the property if the property has been retained in accordance with subsection (3)(a); or
-    (ii) the proceeds of any sale if the proceeds have been retained in accordance with subsection (3)(b); and
+    (i) the return of the property if the property has been retained in accordance with subsection (3)﻿(a); or
+    (ii) the proceeds of any sale if the proceeds have been retained in accordance with subsection (3)﻿(b); and
   (b) is not liable for any fees and costs payable under an enactment in respect of the property.
-(6) On a review of a Registrar's decision to issue a warrant to seize property, the Judge may, subject to subsection (5)(b), make any order on any matter (including costs) that the Judge thinks just, having regard to all the circumstances of the case.
+(6) On a review of a Registrar's decision to issue a warrant to seize property, the Judge may, subject to subsection (5)﻿(b), make any order on any matter (including costs) that the Judge thinks just, having regard to all the circumstances of the case.
 
 ### 106G Actions under warrant to seize pending appeal
 (1) If a warrant to seize property is issued before a notice of appeal or an application for leave to appeal is filed under Part 6 of the Criminal Procedure Act 2011, then—
@@ -1806,8 +1807,8 @@ If a fine has been ordered to be paid or an order has been made by a court or th
 (2) If, on the determination or abandonment of the appeal, the determination in respect of which the warrant was issued continues in effect, the property must be dealt with, and any fees and costs payable under an enactment in respect of the property are payable, as if the notice of appeal had not been given.
 (3) If, on the determination or abandonment of the appeal, the determination in respect of which the warrant was issued is set aside, the owner—
   (a) is entitled to—
-    (i) the return of the property if the property has been retained in accordance with subsection (1)(b)(i); or
-    (ii) the proceeds of any sale if the proceeds have been retained in accordance with subsection (1)(b)(ii); and
+    (i) the return of the property if the property has been retained in accordance with subsection (1)﻿(b)﻿(i); or
+    (ii) the proceeds of any sale if the proceeds have been retained in accordance with subsection (1)﻿(b)﻿(ii); and
   (b) is not liable for any fees and costs payable under an enactment in respect of the property.
 
 ### 106H Application of Criminal Procedure Act 2011
@@ -2427,7 +2428,7 @@ No summons, sentence, order, bond, warrant, or other document under this Act, an
   (a) to any Registrar; or
   (b) to any person nominated by the chief executive of the department for the time being responsible for the administration of this Act as a person who may receive payments under this section; or
   (c) into any trust account administered for the purpose by the department for the time being responsible for the administration of this Act.
-(3) Any sum received under this section by any Registrar or person nominated under subsection (2)(b) must be paid by him or her into a trust account administered by the department for the time being responsible for the administration of this Act, where it may be held until it is paid—
+(3) Any sum received under this section by any Registrar or person nominated under subsection (2)﻿(b) must be paid by him or her into a trust account administered by the department for the time being responsible for the administration of this Act, where it may be held until it is paid—
   (a) to any person who is entitled to it under any enactment or by any order of the court made under an enactment; or
   (b) into another Departmental Bank Account or a Crown Bank Account, in accordance with the Public Finance Act 1989.
 
@@ -2455,8 +2456,8 @@ No summons, sentence, order, bond, warrant, or other document under this Act, an
   (c)
   (ca) prescribing the fees and charges to be paid for the purposes of this Act:
   (d)
-  (daa) providing for documents to be sent in electronic form under section 24(1)(e) or 79A(1)(c), including (without limitation) provisions for the retention of records that evidence the fact that, and the date and time when, such documents were sent to electronic addresses:
-  (dab) specifying, for the purposes of section 79A(1)(d), the kinds of documents that may be served by communicating their contents orally, and prescribing any conditions and restrictions for such communications and the ways in which such communications must be made, including any provisions for the recording of such communications and for the retention, custody, disclosure, use, and destruction of such recordings:
+  (daa) providing for documents to be sent in electronic form under section 24(1)﻿(e) or 79A(1)﻿(c), including (without limitation) provisions for the retention of records that evidence the fact that, and the date and time when, such documents were sent to electronic addresses:
+  (dab) specifying, for the purposes of section 79A(1)﻿(d), the kinds of documents that may be served by communicating their contents orally, and prescribing any conditions and restrictions for such communications and the ways in which such communications must be made, including any provisions for the recording of such communications and for the retention, custody, disclosure, use, and destruction of such recordings:
   (da) prescribing requirements or other matters in relation to the provision of particulars of reminder notices in electronic form under section 21, and any matters in relation to the verification or processing of those particulars:
   (db) regulating the searching of records of 1 or more of the following:
     (i) particulars of reminder notices provided under section 21:
