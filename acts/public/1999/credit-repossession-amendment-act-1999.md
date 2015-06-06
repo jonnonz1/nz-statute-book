@@ -1,5 +1,5 @@
 # Credit (Repossession) Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2015-06-06_
 
 > An Act to amend the Credit (Repossession) Act 1997
 
@@ -106,7 +106,7 @@ The principal Act is amended by repealing section 34, and substituting the follo
       (ii) The security interest relating to that registration was subordinate to the security interest of the creditor who sold the consumer goods:
     (b) Any other person who has given the creditor notice that that person claims an interest in the consumer goods that are sold and in respect of which the creditor is satisfied that that person has a legally enforceable interest in the consumer goods:
     (c) The debtor.
-  (2) The security interests to which subsection (1)(a) applies must be paid in the order of their priority as determined by Part 7 or Part 8 of the Personal Property Securities Act 1999.
+  (2) The security interests to which subsection (1)﻿(a) applies must be paid in the order of their priority as determined by Part 7 or Part 8 of the Personal Property Securities Act 1999.
   (3) Subsection (1) applies despite the extinguishment of a security interest under section 32B.
   (1) The creditor may pay the surplus into court if there is a question as to who is entitled to receive payment under section 34.
   (2) The surplus may be paid out only on an application by a person claiming an entitlement to the surplus.
@@ -125,33 +125,33 @@ The principal Act is amended in the manner indicated in the Schedule.
 
 | Provision | Amendment |
 | --- | --- |
-| Section 2 | By omitting from paragraphs (a), (b), and (d) of the definition of the term amount of credit the words credit agreement, and substituting in each case the words security agreement. By inserting in paragraph (c) of the definition of the term amount of credit before the word goods in each place where it appears, the word consumer. By inserting in the definition of the term cash price, before the word goods in each place where it appears, the word consumer. By inserting in the definition of the term creditor's agent, before the word goods, the word consumer. By omitting from the definition of the term default the words credit agreement, and substituting the words security agreement. By inserting in the definition of the term default, before the word goods, the word consumer. By omitting from paragraph (b) of the definition of the term guarantor the words credit agreement in each place where they appear, and substituting in each case the words security agreement. By inserting in paragraph (b)(ii) of the definition of the term guarantor, before the word goods, the word consumer. By omitting from the definition of the term net balance due the words credit agreement, and substituting the words security agreement. By inserting in the definition of the term net balance due, before the word goods, the word consumer. |
-| Section 4 | By omitting the words credit agreement, and substituting the words security agreement. By inserting, before the word goods, the word consumer. |
-| Section 6 | By omitting from subsection (1) the words credit agreement, and substituting the words security agreement. By inserting in subsections (1) and (2), before the word goods in each place where it appears, the word consumer |
-| Section 7 | By omitting from subsection (1)(a) the words credit agreement, and substituting the words security agreement. By inserting, before the word goods in each place where it appears, the word consumer. |
+| Section 2 | By omitting from paragraphs (a), (b), and (d) of the definition of the term amount of credit the words credit agreement, and substituting in each case the words security agreement.By inserting in paragraph (c) of the definition of the term amount of credit before the word goods in each place where it appears, the word consumer.By inserting in the definition of the term cash price, before the word goods in each place where it appears, the word consumer.By inserting in the definition of the term creditor's agent, before the word goods, the word consumer.By omitting from the definition of the term default the words credit agreement, and substituting the words security agreement.By inserting in the definition of the term default, before the word goods, the word consumer.By omitting from paragraph (b) of the definition of the term guarantor the words credit agreement in each place where they appear, and substituting in each case the words security agreement.By inserting in paragraph (b)﻿(ii) of the definition of the term guarantor, before the word goods, the word consumer.By omitting from the definition of the term net balance due the words credit agreement, and substituting the words security agreement.By inserting in the definition of the term net balance due, before the word goods, the word consumer. |
+| Section 4 | By omitting the words credit agreement, and substituting the words security agreement.By inserting, before the word goods, the word consumer. |
+| Section 6 | By omitting from subsection (1) the words credit agreement, and substituting the words security agreement.By inserting in subsections (1) and (2), before the word goods in each place where it appears, the word consumer |
+| Section 7 | By omitting from subsection (1)﻿(a) the words credit agreement, and substituting the words security agreement.By inserting, before the word goods in each place where it appears, the word consumer. |
 | Section 8(1), (2) | By inserting, before the word goods in each place, where it appears, the word consumer |
 | Section 10 | By inserting, before the word goods, the word consumer. |
 | Section 12(b) | By inserting, before the word goods, the word consumer. |
 | Section 13 | By omitting from subsection (1) the words credit agreement, and substituting the words security agreement. |
-| Section 15(3)(b) | By inserting, before the word goods, the word consumer. |
+| Section 15(3)﻿(b) | By inserting, before the word goods, the word consumer. |
 | Section 16(2), (3) | By inserting, before the word goods in each place where it appears, the word consumer. |
 | Section 17(b) | By inserting, before the word goods, the word consumer. |
-| Section 18(1), (2)(b) | By inserting, before the word goods in each place where it appears, the word consumer. |
+| Section 18(1), (2)﻿(b) | By inserting, before the word goods in each place where it appears, the word consumer. |
 | Section 19 | By inserting, before the word goods, the word consumer. |
 | Section 20 | By inserting, before the word goods, the word consumer. |
 | Section 22(a) | By inserting, before the word goods, the word consumer. |
 | Section 23(1) | By inserting, before the word goods in each place, where it appears, the word consumer. |
-| Section 24 | By omitting from paragraph (a)(i) the words credit agreement, and substituting the words security agreement. |
-| Section 25(1), (2)(b) | By inserting, before the word goods, the word consumer. |
-| Section 26(2), (3), (4), (5)(a) | By inserting, before the word goods in each place where it appears, the word consumer. |
+| Section 24 | By omitting from paragraph (a)﻿(i) the words credit agreement, and substituting the words security agreement. |
+| Section 25(1), (2)﻿(b) | By inserting, before the word goods, the word consumer. |
+| Section 26(2), (3), (4), (5)﻿(a) | By inserting, before the word goods in each place where it appears, the word consumer. |
 | Section 27(1), (2) | By inserting, before the word goods in each place where it appears, the word consumer. |
-| Section 28 | By inserting in subsections (1) and (2), before the word goods in each place where it appears, the word consumer. By omitting from subsection (2)(a) and (b) the words credit agreement, and substituting the words security agreement. |
-| Section 29 | By omitting from subsection (1)(b) the words credit agreement, and substituting the words security agreement. By inserting, before the word goods in each place where it appears, the word consumer. |
+| Section 28 | By inserting in subsections (1) and (2), before the word goods in each place where it appears, the word consumer.By omitting from subsection (2)﻿(a) and (b) the words credit agreement, and substituting the words security agreement. |
+| Section 29 | By omitting from subsection (1)﻿(b) the words credit agreement, and substituting the words security agreement.By inserting, before the word goods in each place where it appears, the word consumer. |
 | Section 30(1) | By inserting, before the word goods in each place where it appears, the word consumer. |
-| Section 31 | By omitting from subsection (1) the words credit agreement, and substituting the words security agreement. By inserting in subsections (1), (2)(c), and (3)(a), before the word goods in each place where it appears, the word consumer. |
+| Section 31 | By omitting from subsection (1) the words credit agreement, and substituting the words security agreement.By inserting in subsections (1), (2)﻿(c), and (3)﻿(a), before the word goods in each place where it appears, the word consumer. |
 | Section 32(1), (2) | By inserting, before the word goods in each place where it appears, the word consumer. |
 | Section 33 | By inserting, before the word goods in both places where it appears, the word consumer. |
-| Section 36 | By omitting the words credit agreement, and substituting the words security agreement. By inserting, before the word goods, the word consumer. |
-| Section 40(2)(c), (d) | By inserting, before the word goods, the word consumer. |
+| Section 36 | By omitting the words credit agreement, and substituting the words security agreement.By inserting, before the word goods, the word consumer. |
+| Section 40(2)﻿(c), (d) | By inserting, before the word goods, the word consumer. |
 | Schedule 1 | By omitting from the pre-possession notice the words credit agreement in each place where they appear, and substituting in each case the words security agreement. |
 | Schedule 2 | By omitting from the post-possession notice the words credit agreement in each place where they appear, and substituting in each case the words security agreement. |
