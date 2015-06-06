@@ -1,5 +1,5 @@
 # Disputes Tribunals Act 1988
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2015-06-06_
 
 > An Act to consolidate and amend the Small Claims Tribunals Act 1976
 
@@ -97,11 +97,11 @@ This Act binds the Crown.
 (1) Where it is proposed to make an appointment or reappointment under section 7, the chief executive of the responsible department shall—
   (a) by notice publicised in the area served or to be served by the Tribunal in respect of which the appointment or reappointment is proposed to be made, invite members of the public to submit to the chief executive of the responsible department the names of any persons whom they consider would be suitable for appointment as Referees; and
   (b) appoint an assessment panel for the purpose of assessing the candidates for appointment or reappointment as Referees.
-(2) Every assessment panel appointed under subsection (1)(b) shall consist of—
+(2) Every assessment panel appointed under subsection (1)﻿(b) shall consist of—
   (a) a Registrar of a District Court; and
   (b) a Referee; and
   (c) not more than 2 other persons, who shall be appointed to the panel by the chief executive of the responsible department by reason of their expertise, training, and experience.
-(3) Every assessment panel appointed under subsection (1)(b) shall, in accordance with the criteria and procedures prescribed in rules made under this Act, assess the candidates for the appointment or reappointment in respect of which that panel was appointed, and shall—
+(3) Every assessment panel appointed under subsection (1)﻿(b) shall, in accordance with the criteria and procedures prescribed in rules made under this Act, assess the candidates for the appointment or reappointment in respect of which that panel was appointed, and shall—
   (a) advise the Minister of the name of the person that it recommends for appointment or reappointment as a Referee; or
   (b) advise the Minister that it makes no recommendation for appointment or reappointment in that particular case.
 
@@ -133,7 +133,7 @@ There shall be paid to every Referee, out of money appropriated by Parliament fo
 (5) The Limitation Act 2010 prescribes defences in respect of claims based on an act or omission after 31 December 2010.
 
 ### 11 Further limitations on jurisdiction
-(1) A debt or liquidated demand may be the subject of a declaration under section 10(1)(b), but, subject to subsection (2) of this section, a claim for a debt or liquidated demand is not within the jurisdiction conferred by section 10(1)(a) unless—
+(1) A debt or liquidated demand may be the subject of a declaration under section 10(1)﻿(b), but, subject to subsection (2) of this section, a claim for a debt or liquidated demand is not within the jurisdiction conferred by section 10(1)﻿(a) unless—
   (a) the applicant satisfies the Registrar, before the claim is lodged in the Tribunal, that the claim, or a part of the claim, is in dispute; or
   (b) the applicant either—that the claim is in the nature of a counterclaim by a respondent against an applicant; or
     (i) satisfies the Registrar before the claim is lodged in a Tribunal; or
@@ -141,7 +141,7 @@ There shall be paid to every Referee, out of money appropriated by Parliament fo
   (c) the claim is transferred to a Tribunal pursuant to section 37.
 (2) Notwithstanding subsection (1), a Tribunal may,—
   (a) where a respondent raises a debt or liquidated demand as a defence by way of set-off, give effect to that defence:
-  (b) where it dismisses a claim for a declaration under section 10(1)(b) in respect of a debt or liquidated demand, make an order under section 19(1)(a) requiring the applicant to pay the debt or liquidated demand, or part of the debt or liquidated demand, to the respondent.
+  (b) where it dismisses a claim for a declaration under section 10(1)﻿(b) in respect of a debt or liquidated demand, make an order under section 19(1)﻿(a) requiring the applicant to pay the debt or liquidated demand, or part of the debt or liquidated demand, to the respondent.
 (3) Subject to subsection (4), no claim shall be heard and determined under this Act in respect of the destruction or loss of any property, or any damage or injury to any property, where any offender has been sentenced, under section 32 of the Sentencing Act 2002, to make reparation to the applicant in respect of that destruction, loss, damage, or injury.
 (4) Nothing in subsection (3) shall apply in respect of any claim under this Act to recover any damages in excess of the amount ordered to be paid to the applicant under any sentence of reparation.
 (5) Except as provided in an enactment referred to in section 10(1A) or (2), a Tribunal shall have no jurisdiction in respect of any claim—
@@ -155,14 +155,14 @@ There shall be paid to every Referee, out of money appropriated by Parliament fo
 (6) In subsection (5) land does not include fixtures.
 (7) Without limiting section 10(1A) or (2), nothing in subsection (1) of that section in so far as it confers jurisdiction in quasi-contract on a Tribunal shall be construed as authorising a claim in respect of money due under any enactment.
 (8) In subsection (7) enactment means a provision of any Act or of any other instrument that has legislative effect and that is authorised by or pursuant to any Act.
-(9) A Tribunal may hear and determine a claim in the nature of a counterclaim to which subsection (1)(b) applies notwithstanding that the original claim is withdrawn, abandoned, or struck out.
+(9) A Tribunal may hear and determine a claim in the nature of a counterclaim to which subsection (1)﻿(b) applies notwithstanding that the original claim is withdrawn, abandoned, or struck out.
 
 ### 12 Recovery of consequential loss
-(1) Any claim under section 10(1)(c) that is lodged with a Tribunal, or transferred to a Tribunal under section 24(3) or (4) or section 37, before 1 June 1991 shall, subject to subsection (2), be limited to the recovery of the property in question or, as the case may require, the cost of repairing or replacing the property, and shall not include any loss or damage of a consequential nature.
+(1) Any claim under section 10(1)﻿(c) that is lodged with a Tribunal, or transferred to a Tribunal under section 24(3) or (4) or section 37, before 1 June 1991 shall, subject to subsection (2), be limited to the recovery of the property in question or, as the case may require, the cost of repairing or replacing the property, and shall not include any loss or damage of a consequential nature.
 (2) Notwithstanding anything in subsection (1), a claim to which that subsection applies may include—
   (a) the loss of a no claims bonus:
   (b) in the case of a claim in respect of the destruction or loss of, or any damage or injury to, any means of transportation, the reasonable cost of using an alternative means of transportation until the means of transportation that was destroyed, lost, damaged, or injured is replaced or, as the case may require, repaired or treated, where that cost is over and above the costs that would have been incurred if that destruction, loss, damage, or injury had not occurred.
-(3) Any claim under section 10(1)(c) that is lodged with a Tribunal, or transferred to a Tribunal under section 24(3) or (4) or section 37, on or after 1 June 1991 may include loss or damage of a consequential nature.
+(3) Any claim under section 10(1)﻿(c) that is lodged with a Tribunal, or transferred to a Tribunal under section 24(3) or (4) or section 37, on or after 1 June 1991 may include loss or damage of a consequential nature.
 
 ### 13 Extension of jurisdiction by agreement between the parties
 (1) If, but for the amount or value of the subject matter claimed or in issue, a claim would be within the jurisdiction conferred by section 10(1), (1A), or (2), and the parties, by memorandum signed by them or by their respective agents, agree that a Tribunal shall have jurisdiction to hear and determine the claim, a Tribunal shall, notwithstanding anything in subsection (3) of that section or in any other enactment, but subject to subsection (2) of this section, have jurisdiction to hear and determine the claim.
@@ -192,10 +192,10 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
 
 ### 17 Exclusion of other jurisdictions
 (1) Where a claim is lodged with a Tribunal, or transferred to a Tribunal under section 24(3) or (4) or section 37, and the claim is within the Tribunal's jurisdiction, the issues in dispute in that claim (whether as shown in the initial claim or as emerging in the course of the hearing) shall not be the subject of proceedings between the same parties in any other court or tribunal unless—
-  (a) any order is made under section 34(1)(e) or under subsection (2) or subsection (3) of section 36 or under section 53(1)(b); or
+  (a) any order is made under section 34(1)﻿(e) or under subsection (2) or subsection (3) of section 36 or under section 53(1)﻿(b); or
   (b) the proceedings before that other court or tribunal were commenced before the claim was lodged with or transferred to the Tribunal; or
   (c) the claim before the Tribunal is withdrawn, abandoned, or struck out.
-(2) Where subsection (1)(b) applies to proceedings before another court or tribunal, the issues in dispute in the claim to which those proceedings relate (whether as shown in the initial claim or emerging in the course of the hearing) shall not be the subject of proceedings between the same parties in a Tribunal unless the proceedings are transferred to a Tribunal under section 37 or the claim before the other court or tribunal is withdrawn, abandoned, or struck out.
+(2) Where subsection (1)﻿(b) applies to proceedings before another court or tribunal, the issues in dispute in the claim to which those proceedings relate (whether as shown in the initial claim or emerging in the course of the hearing) shall not be the subject of proceedings between the same parties in a Tribunal unless the proceedings are transferred to a Tribunal under section 37 or the claim before the other court or tribunal is withdrawn, abandoned, or struck out.
 
 ### 18 Functions of Tribunal
 (1) The Tribunal shall, as regards every claim within its jurisdiction, assess whether, in all the circumstances, it is appropriate for the Tribunal to assist the parties to negotiate an agreed settlement in relation to the claim.
@@ -217,13 +217,13 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
 ### 19 Orders of Tribunal
 (1) A Tribunal may, as regards any claim within its jurisdiction, make 1 or more of the following orders:
   (a) the Tribunal may order a party to the proceedings to pay money to any other party:
-  (b) the Tribunal may make an order declaring that a person is not liable to another in respect of a claim or demand described in section 10(1)(b):
+  (b) the Tribunal may make an order declaring that a person is not liable to another in respect of a claim or demand described in section 10(1)﻿(b):
   (c) the Tribunal may order a party to deliver specific property to another party to the proceedings:
   (d) the Tribunal may make a work order against any party to the proceedings:
   (e) where it appears to the Tribunal that an agreement between the parties, or any term of any such agreement, is harsh or unconscionable, or that any power conferred by an agreement between them has been exercised in a harsh or unconscionable manner, the Tribunal may make an order varying the agreement, or setting it aside (either wholly or in part):
   (f) where it appears to the Tribunal that an agreement between the parties has been induced by fraud, misrepresentation, or mistake, or any writing purporting to express the agreement between the parties does not accord with their true agreement, the Tribunal may make an order varying, or setting aside, the agreement or the writing (either wholly or in part):
   (g) the Tribunal may make an order dismissing the claim.
-(1A) The Tribunal may record in an order made under subsection (1)(a) (a money order) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947 if—
+(1A) The Tribunal may record in an order made under subsection (1)﻿(a) (a money order) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Courts Act 1947 if—
   (a) the money order was made at a hearing at which both parties were present; and
   (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
   (c) both parties agreed on the terms of the attachment order, including the details specified in subsection (1B).
@@ -234,16 +234,16 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
   (d) the amount or percentage below which the net amount paid for the earnings period must not fall; and
   (e) the name and address of the person to whom the amounts deducted are to be paid; and
   (f) that the attachment order is to remain in force until the amount specified in the money order has been paid in full or, if the attachment order is to remain in force for a fixed period, that period.
-(1C) Nothing in subsection (1B)(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3) of the District Courts Act 1947.
+(1C) Nothing in subsection (1B)﻿(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3) of the District Courts Act 1947.
 (1D) If subsection (1B) is complied with, the money order may be filed in any District Court and, if so filed, sections 79(5C) and 84F to 84N of the District Courts Act 1947 apply to the extent they are applicable and subject to any necessary modifications.
 (1E) In this section, employer and salary or wages have the same meanings as in section 84F of the District Courts Act 1947.
 (2) Any order made by a Tribunal may be unconditional, or subject to such conditions (whether as to the time for, or mode of, compliance, or otherwise) as the Tribunal thinks fit to impose.
-(3) Where a Tribunal makes a work order against a party, it shall, where the order is made under section 18(8) or section 46(2), at the same time make an order under subsection (1)(a) of this section to be complied with as an alternative to compliance with the work order.
+(3) Where a Tribunal makes a work order against a party, it shall, where the order is made under section 18(8) or section 46(2), at the same time make an order under subsection (1)﻿(a) of this section to be complied with as an alternative to compliance with the work order.
 (4) Subject to section 20, a Tribunal shall not make an order under this Act that exceeds any of the monetary restrictions specified in subsection (5), and any order that exceeds any such restriction shall be entirely of no effect.
 (5) Subject to subsection (7), the monetary restrictions that apply for the purposes of subsection (4) are as follows:
-  (a) an order under subsection (1)(a) or under section 47(3)(b) shall not require payment of money exceeding $15,000:
-  (b) a declaration under subsection (1)(b) shall not relate to a claim or demand exceeding $15,000:
-  (c) an order under subsection (1)(c) shall not relate to any property exceeding $15,000 in value:
+  (a) an order under subsection (1)﻿(a) or under section 47(3)﻿(b) shall not require payment of money exceeding $15,000:
+  (b) a declaration under subsection (1)﻿(b) shall not relate to a claim or demand exceeding $15,000:
+  (c) an order under subsection (1)﻿(c) shall not relate to any property exceeding $15,000 in value:
   (d) the work to be done or matters to be attended to under a work order shall not exceed $15,000 in value:
   (e) an order under paragraph (e) or paragraph (f) of subsection (1) shall not be made in respect of an agreement if the total amount in respect of which an order of the Tribunal is sought exceeds $15,000.
 (6) Except as provided in subsection (3), and subject to subsection (7), a Tribunal shall not, in respect of a claim, make more than 1 of the orders authorised by paragraphs (a) to (d) of subsection (1), or by any other enactment, if the aggregate amount or value of those orders exceeds $15,000, and every order so made contrary to this subsection shall be entirely of no effect.
@@ -251,11 +251,11 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
 (8) Nothing in subsection (1) shall restrict the making by a Tribunal of any order that it is authorised to make by any other enactment.
 
 ### 20 Power of Tribunal to award interest
-(1) Subject to subsection (2), where a Tribunal makes an order under section 19(1)(a) or section 47(3)(b) that a party to the proceedings pay money to another party to the proceedings, the Tribunal may, if it thinks fit, order that there shall be included in the amount so ordered to be paid interest at such rate, not exceeding the prescribed rate, as it thinks fit on the whole or any part of that amount for the whole or any part of the period between the date when the cause of action arose and the date of the making of the order.
+(1) Subject to subsection (2), where a Tribunal makes an order under section 19(1)﻿(a) or section 47(3)﻿(b) that a party to the proceedings pay money to another party to the proceedings, the Tribunal may, if it thinks fit, order that there shall be included in the amount so ordered to be paid interest at such rate, not exceeding the prescribed rate, as it thinks fit on the whole or any part of that amount for the whole or any part of the period between the date when the cause of action arose and the date of the making of the order.
 (2) Subsection (1) does not—
   (a) authorise the giving of interest upon interest; or
   (b) apply in relation to any debt upon which interest is payable as of right, whether by virtue of any agreement, enactment, or rule of law, or otherwise.
-(3) Where a Tribunal makes an order under section 19(1)(a) in respect of a debt upon which interest is payable as of right, and in respect of which the rate of interest is not agreed upon, prescribed, or ascertained under any agreement, enactment, or rule of law, or otherwise, there shall be included in the amount ordered to be paid interest at such rate, not exceeding the prescribed rate, as the Tribunal thinks fit for the period between the date as from which interest became payable and the date of the making of the order.
+(3) Where a Tribunal makes an order under section 19(1)﻿(a) in respect of a debt upon which interest is payable as of right, and in respect of which the rate of interest is not agreed upon, prescribed, or ascertained under any agreement, enactment, or rule of law, or otherwise, there shall be included in the amount ordered to be paid interest at such rate, not exceeding the prescribed rate, as the Tribunal thinks fit for the period between the date as from which interest became payable and the date of the making of the order.
 (4) The monetary restrictions provided for by section 10(1A) and (3), section 13(2), and subsections (4) to (7) of section 19 do not apply in respect of any interest claimed, payable, or ordered to be paid under this section.
 (5) In this section the term the prescribed rate means the rate of 11% per annum, or such other rate as may from time to time be prescribed for the purposes of this section by the Governor-General by Order in Council.
 
@@ -275,13 +275,13 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
 ### 22 Orders and approved settlements to be recorded in writing
 (1) A Tribunal shall make or cause to be made a written record of the terms of—
   (a) every agreed settlement approved by it under section 18(3):
-  (b) every order made by it under section 18(8) or section 34(1) or section 46(2) or section 47(3)(b):
-  (c) every variation of a term of an agreed settlement under section 47(3)(a).
+  (b) every order made by it under section 18(8) or section 34(1) or section 46(2) or section 47(3)﻿(b):
+  (c) every variation of a term of an agreed settlement under section 47(3)﻿(a).
 (2) The Tribunal shall, at the conclusion of the hearing, provide every party to the proceedings who is present at the hearing with a copy of every record made under subsection (1) in those proceedings.
 (3) The Registrar shall send a copy of every record made under subsection (1) in any proceedings to every party to those proceedings who is not present at the hearing.
 
 ### 23 Decisions of Tribunal to be final
-Every agreed settlement approved by a Tribunal under section 18(3), and every order made by a Tribunal under section 18(8) or section 46(2) or section 47(3)(b), and every variation of a term of an agreed settlement under section 47(3)(a), shall be final and binding on all parties to the proceedings in which that settlement is approved or the order or variation is made, as the case may require, and, except as provided in section 50, no appeal shall lie in respect of any such order or variation or approved settlement.
+Every agreed settlement approved by a Tribunal under section 18(3), and every order made by a Tribunal under section 18(8) or section 46(2) or section 47(3)﻿(b), and every variation of a term of an agreed settlement under section 47(3)﻿(a), shall be final and binding on all parties to the proceedings in which that settlement is approved or the order or variation is made, as the case may require, and, except as provided in section 50, no appeal shall lie in respect of any such order or variation or approved settlement.
 
 ## Part 3 — Proceedings of Tribunals
 
@@ -301,10 +301,10 @@ Every agreed settlement approved by a Tribunal under section 18(3), and every or
     (ii) every other person who appears to the Registrar to have a sufficient connection with the proceedings on the claim in the capacity of an applicant or a respondent.
 (2) Where a Tribunal finds that a person who appears to it to have a sufficient connection with the proceedings on a claim in the capacity of an applicant or a respondent has not been given notice of the proceedings, it may direct the Registrar to give, and the Registrar shall give, to such person notice of the claim, and of the time and place for hearing.
 (3) For the purposes of this section, a person has a sufficient connection with the proceedings on a claim if that person's presence as an applicant or a respondent is necessary to enable the Tribunal to effectually and completely determine the questions in dispute in the claim or to grant the relief that it considers to be due.
-(4) Where a claim to which section 11(1)(b)(ii) applies is made at a hearing, the Tribunal may, in relation to that claim, dispense with the requirements of this section and of section 24(2), or any of those requirements, if it appears to the Tribunal that neither the respondent in the claim nor any other person will be prejudiced thereby.
+(4) Where a claim to which section 11(1)﻿(b)﻿(ii) applies is made at a hearing, the Tribunal may, in relation to that claim, dispense with the requirements of this section and of section 24(2), or any of those requirements, if it appears to the Tribunal that neither the respondent in the claim nor any other person will be prejudiced thereby.
 
 ### 26 Parties
-(1) Subject to subsection (2), the applicant, the respondent, and every person to whom notice of a claim has been given under section 25(1)(b)(ii) or section 25(2) shall be the parties to the proceedings on that claim.
+(1) Subject to subsection (2), the applicant, the respondent, and every person to whom notice of a claim has been given under section 25(1)﻿(b)﻿(ii) or section 25(2) shall be the parties to the proceedings on that claim.
 (2) A Tribunal may, at any time, order that the name of a person who appears to it to have been improperly joined as a party be struck out from the proceedings.
 
 ### 27 Minors
@@ -326,7 +326,7 @@ Every agreed settlement approved by a Tribunal under section 18(3), and every or
 ### 28 Claims for relief where applicant insured
 (1) This section applies to any claim for relief made by an applicant who has been, or is entitled to be, or seeks to be, indemnified (whether in whole or in part) by an insurer (in this section and in sections 29 to 34 referred to as the applicant's insurer) for any loss caused by or arising out of the act, omission, or event on which the claim is based.
 (2) Where, in any proceedings lodged in a Tribunal, or transferred to a Tribunal under section 24(3) or (4) or section 37, the applicant makes a claim for relief to which this section applies, the applicant shall, at the time when the claim is lodged, or, in the case of a claim that is transferred to the Tribunal, as soon as practicable after the claim is transferred, notify the Registrar of the name and address of the applicant's insurer.
-(3) Subject to sections 25(4) and 29(3), where, in any proceedings before a Tribunal, a Registrar receives notice of the name and address of the applicant's insurer under subsection (2), the Registrar shall give notice of the proceedings to that insurer in accordance with section 25(1)(b)(ii).
+(3) Subject to sections 25(4) and 29(3), where, in any proceedings before a Tribunal, a Registrar receives notice of the name and address of the applicant's insurer under subsection (2), the Registrar shall give notice of the proceedings to that insurer in accordance with section 25(1)﻿(b)﻿(ii).
 (4) Where, pursuant to subsection (3), an insurer receives notice of any proceedings before a Tribunal, that insurer shall be deemed, for the purposes of this Act, to be a party to those proceedings.
 (5) Where—the Tribunal or a Registrar shall, on the application of the applicant's insurer, order that that insurer be joined as a party to the proceedings.
   (a) any claim for relief to which this section applies is made in any proceedings before a Tribunal; and
@@ -362,8 +362,8 @@ Notwithstanding anything in section 31, where, in any proceedings before a Tribu
 (1) Where, in any proceedings before a Tribunal,—the Tribunal, where the evidence before it enables it to do so, shall indicate in that order what part of that amount relates to loss for which the applicant has not been indemnified by the applicant's insurer.
   (a) a claim for relief to which section 28 applies is made; and
   (b) the applicant's insurer becomes a party to those proceedings pursuant to section 28(4) or (5) or section 29(3); and
-  (c) the Tribunal makes an order under section 19(1)(a) that a party to the proceedings pay money to any other party,—
-(2) Where, in any order made under section 19(1)(a), a Tribunal indicates that part of the amount ordered to be paid relates to loss for which the applicant has not been indemnified by the applicant's insurer,—
+  (c) the Tribunal makes an order under section 19(1)﻿(a) that a party to the proceedings pay money to any other party,—
+(2) Where, in any order made under section 19(1)﻿(a), a Tribunal indicates that part of the amount ordered to be paid relates to loss for which the applicant has not been indemnified by the applicant's insurer,—
   (a) that part of that amount shall be paid to the applicant, who shall not be required to account for it to the applicant's insurer; and
   (b) the applicant's insurer shall not be entitled to any payment under that order unless paragraph (a) has been complied with.
 
@@ -427,12 +427,12 @@ Notwithstanding anything in section 31, where, in any proceedings before a Tribu
 (5) A Tribunal may permit any person nominated by a party to be present at the hearing and to assist the party in the presentation of his or her case if it appears to the Tribunal to be proper in all the circumstances to so permit, and the Tribunal approves such person.
 (6) No person approved by a Tribunal under subsection (5) shall be entitled to be heard at the hearing, and the Tribunal may exclude any such person from the hearing at any time.
 (7) A Tribunal shall not—any person who is, or has been, enrolled as a barrister and solicitor, or who, in the opinion of the Tribunal, is, or has been, regularly engaged in advocacy work before other tribunals; but this prohibition does not apply where—
-  (a) appoint under section 27(2)(a); or
+  (a) appoint under section 27(2)﻿(a); or
   (b) approve as a representative under subsection (2) or subsection (3); or
   (c) approve under subsection (5)—
   (d) the person proposed for approval under subsection (3) is a person or one of the persons jointly liable or entitled with another or others; or
   (e) the party seeking to be represented is a company and the person proposed for approval under subsection (3) is the majority shareholder of the company.
-(8) Where a Tribunal appoints any person under section 27(2)(a) or approves any person under subsection (2) or subsection (3) or subsection (5) of this section, the Tribunal may impose in respect of any such appointment or approval such conditions as it considers necessary to ensure that any other party to the proceedings is not substantially disadvantaged by that appointment or approval.
+(8) Where a Tribunal appoints any person under section 27(2)﻿(a) or approves any person under subsection (2) or subsection (3) or subsection (5) of this section, the Tribunal may impose in respect of any such appointment or approval such conditions as it considers necessary to ensure that any other party to the proceedings is not substantially disadvantaged by that appointment or approval.
 
 ### 39 Proceedings to be held in private
 (1) All proceedings before a Tribunal shall be held in private.
@@ -511,17 +511,17 @@ Notwithstanding section 113 of the District Courts Act 1947, no filing fee shall
 (1) Subject to subsection (2), a Tribunal may, upon the application of a party to any proceedings, order the rehearing of a claim, to be had upon such terms as it thinks fit.
 (2) A rehearing may be ordered under subsection (1) only—
   (a) where an order has been made under section 18(8); or
-  (b) where an order has been made under section 46(2) or section 47(3)(b), or a term of an agreed settlement has been varied under section 47(3)(a), and, in all such cases, shall be limited to rehearing the enforcement proceedings taken under those sections; or
+  (b) where an order has been made under section 46(2) or section 47(3)﻿(b), or a term of an agreed settlement has been varied under section 47(3)﻿(a), and, in all such cases, shall be limited to rehearing the enforcement proceedings taken under those sections; or
   (c) where an agreed settlement has been approved by a Tribunal under section 18(3) and, after the hearing, a party to the settlement discovers facts directly relevant to the dispute that could not, with reasonable diligence, have been obtained before the hearing and that, if known at the time, would have had a bearing on whether that party agreed to the settlement.
-(3) Every application for a rehearing shall be made within 28 days after the Tribunal's order (or, in the case of an agreed settlement, the Tribunal's approval of the settlement or the variation of a term of that settlement under section 47(3)(a), as the case may require) or within such further time as the Tribunal may, on application, allow, and shall be served upon the other parties to the proceedings.
+(3) Every application for a rehearing shall be made within 28 days after the Tribunal's order (or, in the case of an agreed settlement, the Tribunal's approval of the settlement or the variation of a term of that settlement under section 47(3)﻿(a), as the case may require) or within such further time as the Tribunal may, on application, allow, and shall be served upon the other parties to the proceedings.
 (4) Upon a rehearing being granted,—
   (a) the Registrar shall notify all parties to the proceedings of the making of the order and of the time and place appointed for the rehearing; and
   (b) the order or approval or variation made or given by the Tribunal upon the first hearing shall cease to have effect.
-(5) Notwithstanding subsection (4)(b), if the party on whose application a rehearing is ordered does not appear at the time and place for the rehearing or at any time and place to which the rehearing is adjourned, the Tribunal may, without rehearing or further rehearing the claim, direct that the original order or approval or variation, as the case may be, be restored to full force and effect.
+(5) Notwithstanding subsection (4)﻿(b), if the party on whose application a rehearing is ordered does not appear at the time and place for the rehearing or at any time and place to which the rehearing is adjourned, the Tribunal may, without rehearing or further rehearing the claim, direct that the original order or approval or variation, as the case may be, be restored to full force and effect.
 (6) This Act shall apply to a rehearing in all respects as it applies to an original hearing.
 
 ### 50 Appeals
-(1) Any party to proceedings before a Tribunal may appeal to a District Court against an order made by the Tribunal under section 18(8) or section 46(2) or section 47(3)(b), or against the approval by the Tribunal of an agreed settlement under section 18(3), or against the variation of a term of an agreed settlement under section 47(3)(a), on the grounds that—in a manner that was unfair to the appellant and prejudicially affected the result of the proceedings.
+(1) Any party to proceedings before a Tribunal may appeal to a District Court against an order made by the Tribunal under section 18(8) or section 46(2) or section 47(3)﻿(b), or against the approval by the Tribunal of an agreed settlement under section 18(3), or against the variation of a term of an agreed settlement under section 47(3)﻿(a), on the grounds that—in a manner that was unfair to the appellant and prejudicially affected the result of the proceedings.
   (a) the proceedings were conducted by the Referee; or
   (b) an inquiry was carried out by an Investigator—
 (2) Without limiting the generality of subsection (1), a Referee shall be deemed to have conducted the proceedings in a manner that was unfair to the appellant and prejudicially affected the result if—
@@ -547,7 +547,7 @@ For the avoidance of doubt, it is hereby declared that section 57 of the Distric
   (a) quash the order or the approval or the variation, as the case may be, and order a rehearing of the claim in the Tribunal on such terms as the Judge thinks fit; or
   (b) quash the order or the approval or the variation, as the case may be, and transfer the proceedings to a District Court for hearing; or
   (c) dismiss the appeal.
-(2) In ordering a rehearing under subsection (1)(a), the Judge may give to the Tribunal such directions as the Judge thinks fit as to the conduct of the rehearing.
+(2) In ordering a rehearing under subsection (1)﻿(a), the Judge may give to the Tribunal such directions as the Judge thinks fit as to the conduct of the rehearing.
 (3) An appeal under this section shall be heard by a District Court Judge in chambers and, subject to this Act and to any rules made under this Act, the procedure at any such hearing shall be such as the Judge may determine.
 
 ## Part 5 — Miscellaneous provisions
@@ -563,7 +563,7 @@ A Registrar shall ensure that assistance is reasonably available, either from th
   (a) wilfully assaults, insults, or obstructs a Referee, or any witness or any officer of a Tribunal during a sitting of a Tribunal or while a Referee, a witness, or an officer is going to, or returning from, a sitting of a Tribunal; or
   (b) wilfully assaults, insults, or obstructs any person in attendance at a sitting of a Tribunal; or
   (c) wilfully interrupts, or otherwise misbehaves at, a sitting of a Tribunal; or
-  (d) wilfully and without lawful excuse disobeys any order or direction of a Tribunal (other than an order mentioned in section 18(3) or section 18(8) or section 46(2) or section 47(3)(b)) in the course of the hearing of any proceedings.
+  (d) wilfully and without lawful excuse disobeys any order or direction of a Tribunal (other than an order mentioned in section 18(3) or section 18(8) or section 46(2) or section 47(3)﻿(b)) in the course of the hearing of any proceedings.
 (2) A Referee may order the exclusion from a sitting of a Tribunal of any person whose behaviour, in the opinion of the Referee, constitutes an offence against subsection (1), whether or not such person is charged with the offence; and any Registrar, or officer under a Registrar's control, or constable may take such steps as are reasonably necessary to enforce such exclusion.
 
 ### 57 Publication of orders
