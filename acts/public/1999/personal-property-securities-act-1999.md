@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-06-06_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -269,7 +269,7 @@ For the avoidance of doubt, a beneficial interest in personal property held by a
   (a) the person takes physical possession of the negotiable instrument; or
   (b) in the case of a negotiable instrument that is traded or settled through a clearing house or securities depository, the clearing house or securities depository, as the case may be, records the interest of the person in the negotiable instrument.
 (3) For the purposes of this Act, a secured party is not in possession of collateral that is in the actual or apparent possession or control of the debtor or the debtor's agent.
-(4) For the purposes of subsection (1A)(a), emissions unit certificate does not include a printed search result, or a copy of a printed search result, that purports to be issued by a registrar.
+(4) For the purposes of subsection (1A)﻿(a), emissions unit certificate does not include a printed search result, or a copy of a printed search result, that purports to be issued by a registrar.
 
 ### 19 Meaning of knowledge
 (1) For the purposes of this Act,—
@@ -418,10 +418,10 @@ Except as otherwise provided by this Act or any other Act or rule of law or equi
 (2) To avoid doubt, a security agreement may be enforceable against a third party in respect of particular collateral even though the security agreement is not enforceable against a third party in respect of other collateral to which the security agreement relates.ExamplePerson A sells a motor to person B.The invoice relating to the sale of the motor contains contractual terms, including a retention of title clause.Person B has not signed the invoice.Person A has a security interest in the motor which is enforceable against person B, but is not enforceable against anyone else.
 
 ### 37 Description of collateral as consumer goods or equipment inadequate
-A description is inadequate for the purposes of section 36(1)(b)(i) if it describes the collateral as consumer goods or equipment without further reference to the item or kind of collateral.
+A description is inadequate for the purposes of section 36(1)﻿(b)﻿(i) if it describes the collateral as consumer goods or equipment without further reference to the item or kind of collateral.
 
 ### 38 What constitutes adequate description of collateral held as inventory
-Despite section 36(1)(b)(i), a description of collateral as inventory is adequate only while it is held by the debtor as inventory.
+Despite section 36(1)﻿(b)﻿(i), a description of collateral as inventory is adequate only while it is held by the debtor as inventory.
 
 ### 39 Description of proceeds not required for enforceability against third parties
 Except as otherwise provided in this Act, a security interest in proceeds is enforceable against a third party whether or not the security agreement contains a description of the proceeds.
@@ -434,7 +434,7 @@ Except as otherwise provided in this Act, a security interest in proceeds is enf
   (b) the debtor has rights in the collateral; and
   (c) except for the purpose of enforcing rights between the parties to the security agreement, the security agreement is enforceable against third parties within the meaning of section 36.
 (2) Subsection (1) does not apply if the parties to a security agreement have agreed that a security interest attaches at a later time, in which case the security interest attaches at the time specified in the agreement.
-(3) For the purposes of subsection (1)(b), a debtor has rights in goods that are leased to the debtor, consigned to the debtor, or sold to the debtor under a conditional sale agreement (including an agreement to sell subject to retention of title) no later than when the debtor obtains possession of the goods.
+(3) For the purposes of subsection (1)﻿(b), a debtor has rights in goods that are leased to the debtor, consigned to the debtor, or sold to the debtor under a conditional sale agreement (including an agreement to sell subject to retention of title) no later than when the debtor obtains possession of the goods.
 (4) To avoid doubt, a reference in a security agreement to a floating charge is not an agreement that the security interest created by the floating charge attaches at a later time than the time specified in subsection (1).ExamplePerson A advances $5,000 to person B in return for a security interest in person B's car and person B has signed a written security agreement in respect of that car.
 
 **Perfection of security interests generally**
@@ -778,10 +778,10 @@ Despite section 88, if a security interest is perfected by registration and the 
 (1) Despite section 88, subsection (2) applies where a security interest is perfected by registration and the secured party has knowledge of—
   (a) information required to register a financing change statement disclosing the transferee as the new debtor, where all or part of the debtor's interest in the collateral is transferred; or
   (b) the new name of the debtor, if there has been a change in the debtor's name.
-(2) The security interest, in the transferred collateral where subsection (1)(a) applies, and in the collateral where subsection (1)(b) applies, is subordinate to—
-  (a) an interest, other than a security interest, in that collateral, arising during the period commencing on the expiration of the 15th day after the secured party has knowledge of the information referred to in subsection (1)(a) or the new name of the debtor to the time the secured party amends the registration to disclose the name of the transferee as the debtor, or to disclose the new name of the debtor, or takes possession of the collateral; and
+(2) The security interest, in the transferred collateral where subsection (1)﻿(a) applies, and in the collateral where subsection (1)﻿(b) applies, is subordinate to—
+  (a) an interest, other than a security interest, in that collateral, arising during the period commencing on the expiration of the 15th day after the secured party has knowledge of the information referred to in subsection (1)﻿(a) or the new name of the debtor to the time the secured party amends the registration to disclose the name of the transferee as the debtor, or to disclose the new name of the debtor, or takes possession of the collateral; and
   (b) a perfected security interest in the collateral that is registered or perfected in the period referred to in paragraph (a); and
-  (c) a perfected security interest in the collateral that is registered or perfected after the secured party had knowledge of the information referred to in subsection (1)(a) or the new name of the debtor and before the expiration of the 15th day referred to in paragraph (a), if, before the expiration of the 15 days,—
+  (c) a perfected security interest in the collateral that is registered or perfected after the secured party had knowledge of the information referred to in subsection (1)﻿(a) or the new name of the debtor and before the expiration of the 15th day referred to in paragraph (a), if, before the expiration of the 15 days,—
     (i) the registration of the security interest first referred to in this subsection is not amended to disclose the transferee of the collateral as the new debtor or to disclose the new name of the debtor; or
     (ii) the secured party does not take possession of the collateral.
 
@@ -900,10 +900,10 @@ A perfected security interest in crops is not extinguished or prejudicially affe
 (4) Whether a loss has been incurred and whether a participant has defaulted, for the purposes of this section, must be determined by reference to, and in accordance with, the rules of the designated settlement system.
 (5) This section overrides anything in this Act to the contrary.
 (6) In this section,—
-  - **operator** means an operator of a designated settlement system who is (and at the time in question remains) specified under section 156N(3)(c) of the Reserve Bank of New Zealand Act 1989 as being an operator to whom this section applies
+  - **operator** means an operator of a designated settlement system who is (and at the time in question remains) specified under section 156N(3)﻿(c) of the Reserve Bank of New Zealand Act 1989 as being an operator to whom this section applies
   - **participant** —
     (a) means a person who has agreed to participate in a settlement system in accordance with the rules of that system; and
-    (b) includes an operator of a designated settlement system if the designation under section 156N(3)(b) of the Reserve Bank of New Zealand Act 1989 so provides
+    (b) includes an operator of a designated settlement system if the designation under section 156N(3)﻿(b) of the Reserve Bank of New Zealand Act 1989 so provides
   - **rules** means the rules of a designated settlement system, as that term is defined in paragraph (b) of the definition of rules in section 156M of the Reserve Bank of New Zealand Act 1989.
 (7) In this section, designated settlement system and settlement have the meanings given to them by section 2(1) or 156M of the Reserve Bank of New Zealand Act 1989.
 
@@ -919,23 +919,24 @@ A perfected security interest in crops is not extinguished or prejudicially affe
   (b) a secured party has sold the collateral under section 109, and the net proceeds of the sale exceed the sum of the amounts required to be paid under section 116A (if any) and—
     (i) the amount of the debt owed to the secured party by the debtor (if the collateral secures payment); or
     (ii) the monetary value of the obligation owed to the secured party (if the collateral secures performance of an obligation).
-(2) In subsection (1)(b), net proceeds, in relation to a sale of collateral, means net proceeds of the sale after deducting the reasonable costs and expenses of the secured party of, and incidental to, taking possession of, holding, storing, repairing, maintaining, valuing, and preparing the sale of, and selling, the collateral.
+(2) In subsection (1)﻿(b), net proceeds, in relation to a sale of collateral, means net proceeds of the sale after deducting the reasonable costs and expenses of the secured party of, and incidental to, taking possession of, holding, storing, repairing, maintaining, valuing, and preparing the sale of, and selling, the collateral.
 
 **Application**
 
 ### 105 Application of this Part
-This Part applies only to security interests that—
-  (a) are not security interests in consumer goods to which the Credit (Repossession) Act 1997 applies; and
-  (b) are not created or provided for by—
+(1) Except as provided for in subsection (2), this Part applies to all security interests.
+(2) This Part does not apply to the following security interests:
+  (a) security interests created or provided for by—
     (i) a transfer of an account receivable or chattel paper; or
     (ii) a lease for a term of more than 1 year that does not secure payment or performance of an obligation; or
-    (iii) a commercial consignment that does not secure payment or performance of an obligation.
+    (iii) a commercial consignment that does not secure payment or performance of an obligation:
+  (b) security interests in consumer goods to which Part 3A of the Credit Contracts and Consumer Finance Act 2003 applies, other than security interests in relation to accessions (see section 83I of that Act).
 
 ### 106 Part not to apply to receivers
 This Part does not apply to a receiver within the meaning of section 2(1) of the Receiverships Act 1993.
 
 ### 107 When contracting out of certain provisions in this Part permitted
-(1) The parties to a security agreement may contract out of sections 108, 109, 111(1), 112, 114(1)(a), 120(1), 122, 133, and 134.
+(1) The parties to a security agreement may contract out of sections 108, 109, 111(1), 112, 114(1)﻿(a), 120(1), 122, 133, and 134.
 (2) The parties to a security agreement may contract out of the debtor's right to—
   (a) receive a statement of account under section 116:
   (b)
@@ -1031,7 +1032,7 @@ If collateral is sold by a secured party under section 109, the secured party mu
     (ii) the security interest relating to that registration was subordinate to the security interest of the secured party who applied or sold the collateral:
   (b) any other person who has given the secured party notice that that person claims an interest in the collateral that is sold and in respect of which the secured party is satisfied that that person has a legally enforceable interest in the collateral:
   (c) the debtor.
-(2) The security interests to which subsection (1)(a) applies must be paid in the order of their priority as determined by Part 7 or by Part 8.
+(2) The security interests to which subsection (1)﻿(a) applies must be paid in the order of their priority as determined by Part 7 or by Part 8.
 (3) Subsection (1) applies despite the extinguishment of a security interest under section 115.
 (4) This section is subject to sections 153 and 154 of the Property Law Act 2007.
 
@@ -1334,8 +1335,8 @@ Sections 165 to 167 do not apply to the registration of a security interest prov
   (a) falls within the collateral description included in a registered financing statement (the applicable financing statement); and
   (b) has been sold or disposed of under—
     (i) section 89, 91, or 93 of the District Courts Act 1947; or
-    (ii) section 137(1), 138, or 141(3)(b) of the Sentencing Act 2002; or
-    (iii) section 100L(1)(a) or 100P(1) of the Summary Proceedings Act 1957; or
+    (ii) section 137(1), 138, or 141(3)﻿(b) of the Sentencing Act 2002; or
+    (iii) section 100L(1)﻿(a) or 100P(1) of the Summary Proceedings Act 1957; or
     (iv) a sale order issued under rule 17.63 of the High Court Rules.
 (2) A court registrar may enter in the register a financing change statement that—
   (a) discharges the registration of the applicable financing statement if the collateral description in the applicable financing statement relates exclusively to the personal property; or
@@ -1370,9 +1371,9 @@ A secured party may not charge any fees for compliance with a demand given under
   (a) when the registration is no longer effective; or
   (b) on the registration of a financing change statement discharging or partially discharging the registration; or
   (c) if the Registrar is satisfied that the data is frivolous or vexatious.
-(2) The Registrar must, before he or she makes a decision under subsection (1)(c), give the secured party notice to show cause, within 10 working days of the date on which the notice is given, why the data is not frivolous or vexatious.
+(2) The Registrar must, before he or she makes a decision under subsection (1)﻿(c), give the secured party notice to show cause, within 10 working days of the date on which the notice is given, why the data is not frivolous or vexatious.
 (3) If the secured party fails within 10 working days of the date on which the notice is given to show cause to the Registrar's satisfaction why the data is not frivolous or vexatious, the Registrar may, in the Registrar's discretion, remove the data from the register.
-(4) If data is removed from the register under subsection (1)(c), the court may, on the application of the secured party, make an order directing that the data be restored to the register if it is satisfied that the data is neither frivolous nor vexatious.
+(4) If data is removed from the register under subsection (1)﻿(c), the court may, on the application of the secured party, make an order directing that the data be restored to the register if it is satisfied that the data is neither frivolous nor vexatious.
 (5) The court may make any other orders that it thinks proper for the purpose of giving effect to an order under subsection (4).
 (6) The Registrar must restore the data to the register in accordance with a court order made under subsection (4) as soon as reasonably practicable after receiving the order.
 
