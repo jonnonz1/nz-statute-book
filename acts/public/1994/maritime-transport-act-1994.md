@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2014-10-01_
+_Consolidation as at 2015-06-08_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -193,7 +193,7 @@ Except as provided in section 4, this Act shall bind the Crown.
 (4) Except where the context otherwise requires, where this Act applies to ships, it applies to New Zealand ships wherever they may be.
 
 ### 4A Application of Parts 3 and 5
-Parts 3 and 5 apply, subject to section 42, with all necessary modifications, to each ship that carries coastal cargo under section 198(1)(b) as if that ship were a New Zealand ship.
+Parts 3 and 5 apply, subject to section 42, with all necessary modifications, to each ship that carries coastal cargo under section 198(1)﻿(b) as if that ship were a New Zealand ship.
 
 ### 5 Objectives of Minister
 The objectives of the Minister under this Act are—
@@ -278,16 +278,16 @@ Every person, other than a participant (within the meaning of section 17), who�
   (b) have final authority to control the ship while in command and for the maintenance of discipline by all persons on board; and
   (c) be responsible for compliance with all relevant requirements of this Act and regulations and maritime rules made under this Act, except in an emergency when, in the interests of safety, immediate action in breach of this Act or of regulations or maritime rules made under this Act is necessary; and
   (d) where an emergency requires that in the interests of safety an action is necessary that breaches this Act, or regulations or maritime rules made under this Act, as soon as practicable, notify the Director of the action and the circumstances which necessitated it and, if requested by the Director, provide to the Director a written report in respect of the action.
-(2) For the purposes of subsection (1)(c), a breach of any prescribed requirement is permitted only if—
+(2) For the purposes of subsection (1)﻿(c), a breach of any prescribed requirement is permitted only if—
   (a) the emergency involves a danger to life or property; and
   (b) the extent of the breach of the prescribed requirement goes only as far as is necessary to deal with the emergency; and
   (c) there is no other reasonable means of alleviating, avoiding, or assisting with the emergency; and
   (d) the degree of danger involved in complying with the prescribed requirement is clearly greater than the degree of danger involved in deviating from it.
-(3) Nothing in subsection (1)(c) permits—
+(3) Nothing in subsection (1)﻿(c) permits—
   (a) the breach of any prescribed requirement as to the seaworthiness of a ship; or
   (b) the operation of a ship by a person who does not hold the appropriate maritime document; or
   (c) the operation of a ship by a person who does not have authority to operate that ship.
-(4) Every master commits an offence and is liable on conviction to a fine not exceeding $5,000 who, without reasonable excuse, fails to comply with subsection (1)(d).
+(4) Every master commits an offence and is liable on conviction to a fine not exceeding $5,000 who, without reasonable excuse, fails to comply with subsection (1)﻿(d).
 
 ### 20 Duty to report dismissals
 (1) The employer of any seafarer on a New Zealand ship shall report to the Director any dismissal from employment of a seafarer that is a dismissal related to violence, alcohol, the use, supply, or possession of controlled drugs (as defined in the Misuse of Drugs Act 1975), or the misuse of prescription medicines (as defined in the Medicines Act 1981).
@@ -319,7 +319,7 @@ Every person, other than a participant (within the meaning of section 17), who�
   (a) mutual consent of the employer and the seafarer; or
   (b) death of the seafarer; or
   (c) loss or total unseaworthiness of the ship.
-(3) A seafarer on a New Zealand ship may recover from the seafarer’s employer, or any agent of the employer, the reasonable expenses incurred by the seafarer in returning to his or her own country, or to the port where the crew member was employed, if the employer of that seafarer does not comply with the employer’s obligations under subsection (1)(c).
+(3) A seafarer on a New Zealand ship may recover from the seafarer’s employer, or any agent of the employer, the reasonable expenses incurred by the seafarer in returning to his or her own country, or to the port where the crew member was employed, if the employer of that seafarer does not comply with the employer’s obligations under subsection (1)﻿(c).
 (4) For the purposes of this section,—
   - **overseas voyage** means a voyage to a port outside New Zealand
   - **reasonable expenses** means all reasonable transportation charges, accommodation, and food expenses, in respect of the period commencing when the seafarer was left behind and ending with the end of the return journey; and includes maintenance in respect of the period commencing when the seafarer was left behind and ending with the time fixed for the seafarer’s return journey departure.
@@ -335,7 +335,7 @@ Every person, other than a participant (within the meaning of section 17), who�
 (2) Any wages payable under subsection (1) shall be recoverable in the same manner as wages earned by the seafarer during his or her normal employment.
 
 ### 24 Inspection of provisions
-Without limiting section 54, the Director shall, upon receipt of a written complaint from not less than half the crew of a New Zealand ship, carry out such inspections and audits under that section as he or she considers appropriate to ascertain compliance with section 23(1)(a).
+Without limiting section 54, the Director shall, upon receipt of a written complaint from not less than half the crew of a New Zealand ship, carry out such inspections and audits under that section as he or she considers appropriate to ascertain compliance with section 23(1)﻿(a).
 
 ### 25 Body and effects of deceased seafarer
 (1) Subject to subsection (2), every employer of seafarers on a New Zealand ship shall make suitable arrangements for the body and effects of any seafarer who dies in the course of a voyage, which may include the return of the body to the deceased’s next of kin or the burial or cremation of that body.
@@ -390,11 +390,11 @@ Every employer of seafarers on a New Zealand ship shall maintain (in a form appr
 (2) On receiving a signal that a ship, aircraft, or survival craft is in distress, the master of a ship referred to in subsection (1) shall—
   (a) proceed with all speed to the assistance of the persons in distress and, if possible, inform them of that fact; and
   (b) comply with any requisition to the master’s ship by the master of the ship in distress by continuing to proceed with all speed to the assistance of persons in distress.
-(3) Subsection (2)(a) does not apply if—
+(3) Subsection (2)﻿(a) does not apply if—
   (a) the master is unable, or, in the special circumstances of the case, considers it unreasonable or unnecessary, to proceed to the assistance of the persons in distress; or
   (b) the master is informed that 1 or more ships have been requisitioned and are complying with the requisition.
 (4) Neither paragraph (a) of subsection (2) nor, if the ship has been requisitioned, paragraph (b) of that subsection, shall apply if the master is informed by the persons in distress or by the master of another ship which has reached the persons that assistance is no longer necessary.
-(5) The master of a New Zealand ship that is required to carry a logbook shall enter in the logbook a record of every distress signal received and any reason for failing to go to the assistance of persons in distress in accordance with subsection (3)(a).
+(5) The master of a New Zealand ship that is required to carry a logbook shall enter in the logbook a record of every distress signal received and any reason for failing to go to the assistance of persons in distress in accordance with subsection (3)﻿(a).
 (6) Every person commits an offence who fails to comply with this section and is liable on conviction to—
   (a) imprisonment to a term not exceeding 12 months; or
   (b) a fine not exceeding $100,000; or
@@ -480,7 +480,7 @@ A harbourmaster may exercise the powers and perform the duties conferred by this
   (i) on informing the owner of a ship or seaplane of an alleged offence against this Act (or any regulations, rules, or navigation bylaws made under this Act) involving that ship or seaplane, require the owner to give all information in the owner's possession or obtainable by the owner that may lead to the identification of the person (not being the owner) who it is alleged committed the offence:
   (j) regulate and control traffic and navigation on the occasion of unusual or extraordinary maritime traffic.
 (2) A harbourmaster may exercise the powers under subsection (1) with the assistance of any persons and equipment the harbourmaster reasonably considers necessary in the circumstances.
-(3) A harbourmaster exercising a power under subsection (1)(a) or (b) must—
+(3) A harbourmaster exercising a power under subsection (1)﻿(a) or (b) must—
   (a) announce his or her intention to enter and search the ship or place; and
   (b) identify himself or herself by name; and
   (c) produce evidence of his or her identity.
@@ -489,26 +489,26 @@ A harbourmaster may exercise the powers and perform the duties conferred by this
   (b) compliance with subsection (3) would—
     (i) endanger the safety of any person; or
     (ii) prejudice the successful exercise of the power of entry.
-(5) The expenses incurred by a harbourmaster under subsection (1)(e) or (f) are—
+(5) The expenses incurred by a harbourmaster under subsection (1)﻿(e) or (f) are—
   (a) payable by,—
-    (i) in the case of subsection (1)(e), the master and the owner of the ship:
-    (ii) in the case of subsection (1)(f), the owner of the object; and
+    (i) in the case of subsection (1)﻿(e), the master and the owner of the ship:
+    (ii) in the case of subsection (1)﻿(f), the owner of the object; and
   (b) recoverable as a debt owed to the council.
 (6) Every person who, without reasonable excuse, fails to comply with a direction or requirement given or imposed under subsection (1) commits an offence and is liable,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000:
   (c) in any case, to an additional penalty under section 409.
-(7) Any person affected by a direction given under subsection (1)(c) may appeal against that direction to a District Court under section 424.
+(7) Any person affected by a direction given under subsection (1)﻿(c) may appeal against that direction to a District Court under section 424.
 
 **Enforcement**
 
 ### 33G Enforcement officers, Police, and authorised regional council officials
 For the purpose of ensuring maritime safety or enforcing navigation bylaws, and regulations and rules made under this Act relating to maritime safety,—
   (a) the regional council may appoint enforcement officers and honorary enforcement officers:
-  (b) enforcement officers, and constables, may exercise the powers of a harbourmaster set out in section 33F(1)(a), (b), (g), (h), and (i):
-  (c) enforcement officers, and constables, may exercise the powers set out in section 33F(1)(c) if authorised to do so by the regional council:
-  (d) honorary enforcement officers may exercise the powers set out in section 33F(1)(g) and (h):
-  (e) other persons authorised by the regional council may exercise the powers set out in section 33F(1)(g), (h), and (i).
+  (b) enforcement officers, and constables, may exercise the powers of a harbourmaster set out in section 33F(1)﻿(a), (b), (g), (h), and (i):
+  (c) enforcement officers, and constables, may exercise the powers set out in section 33F(1)﻿(c) if authorised to do so by the regional council:
+  (d) honorary enforcement officers may exercise the powers set out in section 33F(1)﻿(g) and (h):
+  (e) other persons authorised by the regional council may exercise the powers set out in section 33F(1)﻿(g), (h), and (i).
 
 ### 33H Powers of entry
 For the purposes of carrying out his or her duties under this Part, a harbourmaster or enforcement officer is to be taken in sections 453 to 456 to be a person duly authorised by the Director in relation to any ship, building, or place within the region.
@@ -901,7 +901,7 @@ In this Part, unless the context otherwise requires,—
     (a) a person acting in a hospital and who, in the normal course of the person's duties, takes blood specimens; or
     (b) a nurse; or
     (c) a medical laboratory technologist
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **passive breath-testing device** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **positive** , in relation to an evidential breath test, means an evidential breath test that indicates that the proportion of alcohol in the breath of the seafarer who underwent the test exceeds 250 micrograms of alcohol per litre of breath
   - **private analyst** has the same meaning as in section 2(1) of the Land Transport Act 1998
@@ -984,18 +984,18 @@ A seafarer may not perform, or attempt to perform, designated safety, security, 
 (7) An enforcement officer may not require a seafarer who is in a hospital or doctor's surgery as a result of a safety, security, or marine environmental incident involving the use of a ship to undergo an evidential breath test.
 
 ### 40J Seafarer may be required to undergo further evidential breath test if initial test fails to produce result
-(1) If for any reason an evidential breath test carried out under section 40I fails to produce a result, the enforcement officer may, at his or her discretion, either require the seafarer to undergo without delay a further evidential breath test or proceed as if section 40L(1)(c) applies.
+(1) If for any reason an evidential breath test carried out under section 40I fails to produce a result, the enforcement officer may, at his or her discretion, either require the seafarer to undergo without delay a further evidential breath test or proceed as if section 40L(1)﻿(c) applies.
 (2) A requirement made under subsection (1) is deemed to be a requirement under section 40I(4).
 
 ### 40K Right to elect blood test
-If the result of a seafarer's evidential breath test appears to be positive, the seafarer has the right, within 10 minutes of being advised by an enforcement officer of the matters specified in section 40R(3)(a), to elect to have a blood test to assess the proportion of alcohol in his or her blood.
+If the result of a seafarer's evidential breath test appears to be positive, the seafarer has the right, within 10 minutes of being advised by an enforcement officer of the matters specified in section 40R(3)﻿(a), to elect to have a blood test to assess the proportion of alcohol in his or her blood.
 
 ### 40L Who must give blood specimen at places other than hospital or surgery
 (1) A seafarer must permit a medical practitioner or medical officer to take a blood specimen from the seafarer when required to do so by an enforcement officer if—
   (a) the seafarer fails or refuses to undergo without delay an evidential breath test after having been required to do so by an enforcement officer under section 40I; or
   (b) the seafarer has undergone an evidential breath test under section 40I(4), and—
     (i) it appears to the officer that the test is positive; and
-    (ii) within 10 minutes of being advised by an enforcement officer of the matters specified in section 40R(3)(a), the seafarer advises the officer that the seafarer wishes to undergo a blood test; or
+    (ii) within 10 minutes of being advised by an enforcement officer of the matters specified in section 40R(3)﻿(a), the seafarer advises the officer that the seafarer wishes to undergo a blood test; or
   (c) an evidential breath testing device is not readily available at the place to which the seafarer has accompanied an enforcement officer under section 40I (whether or not at the time the requirement was made it was likely that the seafarer could undergo an evidential breath test at that place) or to which the seafarer has been taken under arrest (as the case may be), or for any reason an evidential breath test cannot then be carried out at that place; or
   (d) the officer has arrested the seafarer under section 40U and has good cause to suspect that the seafarer has committed an offence against any of sections 40C to 40E, and—
     (i) a medical practitioner has examined the seafarer and believes that the seafarer may be under the influence of alcohol; or
@@ -1047,7 +1047,7 @@ If the result of a seafarer's evidential breath test appears to be positive, the
     (i) the Commissioner, or a person authorised for the purpose by the Commissioner, must forward a copy of the application to the approved laboratory to which the blood specimen taken from the seafarer was delivered or posted under subsection (2) or (3); and
     (ii) that laboratory must send by registered post, personal delivery, or delivery by courier the blood specimen, held for the purpose, to the private analyst specified in the application.
 (5) If an application under subsection (4) does not comply with subsection (6), the Commissioner or authorised person may refuse to forward a copy of the application to the approved laboratory.
-(6) An application under subsection (4)(a) must—
+(6) An application under subsection (4)﻿(a) must—
   (a) be made in writing to the Commissioner not later than 28 days after—
     (i) the date on which a summons in respect of an offence against this Part (which offence is an offence arising out of the circumstances in respect of which the blood specimen was taken) is served on the defendant; or
     (ii) if the defendant is arrested under a warrant under section 34 of the Criminal Procedure Act 2011 in respect of any such offence, the date on which the defendant is arrested; or
@@ -1079,7 +1079,7 @@ If the result of a seafarer's evidential breath test appears to be positive, the
     (i) told the person that the blood specimen was being or had been taken under section 40M for evidential purposes; or
     (ii) if the person was unconscious when the specimen was taken, notified the person in writing as soon as practicable that the blood specimen was taken under section 40M for evidential purposes.
 (4) This section also applies to a certificate purporting to be signed by a medical practitioner or medical officer and certifying—
-  (a) all the matters referred to in subsection (2)(a) to (d); and
+  (a) all the matters referred to in subsection (2)﻿(a) to (d); and
   (b) that the medical practitioner or medical officer sent or caused to be sent by registered post, personal delivery, or delivery by courier, on a specified date, the specimen to a specified approved laboratory in accordance with section 40N; and
   (c) that, if at the time the blood specimen was taken more than 1 approved laboratory existed, the medical practitioner or medical officer had notified the Commissioner in writing of the approved laboratory to which the specimen was delivered or posted.
 (5) This section also applies to a certificate purporting to be signed by an approved analyst and certifying that—
@@ -1118,7 +1118,7 @@ If the result of a seafarer's evidential breath test appears to be positive, the
   (b) the seafarer who underwent the test—
     (i) advises an enforcement officer, within 10 minutes of being advised of the matters specified in paragraph (a), that the seafarer wishes to undergo a blood test; and
     (ii) complies with section 40L(3).
-(4) Subsection (3)(a) does not apply if the seafarer who underwent the test fails or refuses to remain at the place where the seafarer underwent the test until the seafarer can be advised of the result of the test.
+(4) Subsection (3)﻿(a) does not apply if the seafarer who underwent the test fails or refuses to remain at the place where the seafarer underwent the test until the seafarer can be advised of the result of the test.
 (5) If it is proved in proceedings for an offence against section 40E that the defendant failed or refused, without reasonable cause, to comply with section 40H, 40I, 40J, 40L, or 40M, or any lawful requirement, direction, or request made by an enforcement officer under any of those sections, or any lawful requirement or request made by a medical practitioner or medical officer under section 40L or 40M, the failure or refusal may be treated as supporting any evidence given on behalf of the prosecution, or as rebutting any evidence given on behalf of the defendant, concerning the defendant's condition at the time of the alleged offence.
 
 ### 40S Circumstances in which certificate not admissible in proceedings
@@ -1182,7 +1182,7 @@ An enforcement officer may arrest a seafarer without warrant if the officer has 
 (4) Where a licence, permit, certificate, or other document is recognised by the Director under this section, the Director shall either—
   (a) issue an equivalent maritime document under this section; or
   (b) notify in writing such recognition.
-(5) It shall be a condition of every current maritime document issued or recognised by the Director that the holder shall continue to satisfy the fit and proper person criteria specified in subsection (1)(b)(ii).
+(5) It shall be a condition of every current maritime document issued or recognised by the Director that the holder shall continue to satisfy the fit and proper person criteria specified in subsection (1)﻿(b)﻿(ii).
 (6) Where the Director declines to grant an application under section 35, the applicant may appeal against that decision to a District Court under section 424.
 (7) Nothing in this section applies in respect of any ship, crew, or maritime product in respect of which section 42 applies.
 
@@ -1214,10 +1214,10 @@ An enforcement officer may arrest a seafarer without warrant if the officer has 
   (b) in the case of the imposition of conditions, the conditions no longer apply:
   (c) in the case of the absence of conditions, the close of the 14th day after the date of the suspension.
 (4) On the grounds set out in subsection (1), the Director may,—
-  (a) despite subsection (3)(b) and before the period for a condition expires,—
+  (a) despite subsection (3)﻿(b) and before the period for a condition expires,—
     (i) impose, vary, or lift the condition; or
     (ii) extend the period during which the condition applies for a further specified period:
-  (b) despite subsection (3)(c) and before the 14-day period expires, extend the period of the suspension for a further specified period.
+  (b) despite subsection (3)﻿(c) and before the 14-day period expires, extend the period of the suspension for a further specified period.
 (5) When a maritime document or recognition of a document as a maritime document is suspended or a maritime document is made subject to conditions under this section, the holder of the document or recognition must immediately produce the maritime document or the document of recognition to the Director, and—
   (a) the Director must endorse the document to indicate the action taken under this section; and
   (b) the Director may retain a document while it is suspended.
@@ -1292,7 +1292,7 @@ For the purposes of granting or renewing maritime documents in respect of person
 (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and the following provisions apply:
   (a) in the case of non-disclosure to an individual of information about the individual,—
     (i) the Director must inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)(d) of that Act; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
   (b) in any other case,—
     (i) the Director must inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -1322,7 +1322,7 @@ For the purposes of granting or renewing maritime documents in respect of person
 (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and the following provisions apply:
   (a) in the case of non-disclosure to an individual of information about the individual,—
     (i) the Director must inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)(d) of that Act; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
   (b) in any other case,—
     (i) the Director must inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -1349,12 +1349,12 @@ For the purposes of granting or renewing maritime documents in respect of person
   (a) the notice or copy is supplied to the person to whom the information relates; or
   (b) that person consents to the supply of that information to any other person.
 (5) Where any notice or copy of a notice is given to any person under this section, the following provisions shall apply:
-  (a) it shall be the responsibility of that person to ensure that all information that that person wishes to have considered by the Director in relation to the proposed decision is received by the Director within the period specified in the notice under subsection (2)(c), or within such further period as the Director may allow:
+  (a) it shall be the responsibility of that person to ensure that all information that that person wishes to have considered by the Director in relation to the proposed decision is received by the Director within the period specified in the notice under subsection (2)﻿(c), or within such further period as the Director may allow:
   (b) the Director may consider any information supplied by that person after the expiry of the period referred to in paragraph (a), other than information requested by the Director and supplied by that person within such reasonable time as the Director may specify:
   (c) the Director shall consider any submissions made in accordance with paragraph (a), other than information requested by the Director and supplied pursuant to a request referred to in paragraph (b).
 (6) After considering the matters referred to in subsection (5), the Director shall—
   (a) finally determine whether or not to make the proposed adverse decision; and
-  (b) as soon as practicable thereafter, notify in writing the person directly affected, and any other person of a kind referred to in subsection (3)(a), of—
+  (b) as soon as practicable thereafter, notify in writing the person directly affected, and any other person of a kind referred to in subsection (3)﻿(a), of—
     (i) the Director’s decision and the grounds for the decision; and
     (ii) the date on which the decision will take effect; and
     (iii) in the case of an adverse decision, the consequences of that decision and any applicable right of appeal (being a right of appeal specified in section 41(6) or section 43(7) or section 44(4)).
@@ -1580,7 +1580,7 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
   (a) operates a ship without the prescribed number of seafarers or qualified personnel:
   (b) operates a ship outside its prescribed operating limits:
   (c) knowingly breaches any requirement specified in this Act or in regulations or rules made under this Act for the carriage of dangerous goods.
-(2) Every person who commits an offence against subsection (1)(a), (b), or (c) is liable,—
+(2) Every person who commits an offence against subsection (1)﻿(a), (b), or (c) is liable,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000:
   (b) in the case of a body corporate, to a fine not exceeding $100,000:
   (c) in either case, to an additional penalty under section 409.
@@ -2285,7 +2285,7 @@ Every person who receives any maritime levy shall, on demand, issue to the perso
     (i) that is passing through New Zealand waters while on a continuous journey from a foreign port to another foreign port, and is stopping in New Zealand to load or unload international cargo; and
     (ii) whose carriage of coastal cargo is incidental in relation to the carriage of the international cargo.
   (d)
-(1A) A ship referred to in subsection (1)(c) may only load and unload coastal cargo—
+(1A) A ship referred to in subsection (1)﻿(c) may only load and unload coastal cargo—
   (a) at a New Zealand port at which it loads or unloads international cargo; or
   (b) at a New Zealand port that it is scheduled to pass in the course of its continuous journey.
 (2) If, in any case, the Minister is satisfied that there are no ships of any of the kinds specified in subsection (1) available to carry any coastal cargo, the Minister may authorise the carrying of coastal cargo in that case by any other ship on such conditions as the Minister considers appropriate (including any conditions relating to occupational safety and health); and every authorisation granted under this subsection shall, subject to subsection (5), have effect according to its tenor.
@@ -2414,7 +2414,7 @@ Every person who receives any maritime levy shall, on demand, issue to the perso
   (d) prescribing the infringement fee for each offence prescribed under paragraph (b) and for infringement offences against section 200B, which,—
     (i) in the case of an individual, shall be a fine not exceeding $2,000:
     (ii) in the case of a body corporate, shall be a fine not exceeding $12,000:
-  (e) such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act (other than those referred to in section 394(1)(i)) and for their due administration.
+  (e) such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act (other than those referred to in section 394(1)﻿(i)) and for their due administration.
 (2) Any regulations made under this Act may be so made that different regulations shall apply with respect to different classes of persons, ships, or maritime products, or with respect to the same class of person, ship, or maritime product in different circumstances.
 
 ## Part 15 — Transitional and consequential provisions relating to maritime transport
@@ -2818,7 +2818,7 @@ Every person who commits an offence against section 240, 241, or 242A is liable 
 (1) Notwithstanding any enactment or rule of law to the contrary, if any master or owner of a ship—the Crown may recover as a debt from the agent of the ship such amount of that fine or monetary penalty as remains unpaid.
   (a) is convicted of an offence against section 237; and
   (b) makes default in the payment of any fine or other monetary penalty imposed by the court under section 244,—
-(2) Every agent of a ship who, under subsection (1), pays any fine or other monetary penalty imposed on the master or owner of the ship shall be entitled to recover the amount so paid from that master or owner as a debt or deduct that amount out of or from any money which is or becomes payable by that agent to that master or owner; and any amount so paid by the agent shall, for the purposes of section 4(1)(p) of the Admiralty Act 1973, be deemed to be a disbursement made on account of the ship.
+(2) Every agent of a ship who, under subsection (1), pays any fine or other monetary penalty imposed on the master or owner of the ship shall be entitled to recover the amount so paid from that master or owner as a debt or deduct that amount out of or from any money which is or becomes payable by that agent to that master or owner; and any amount so paid by the agent shall, for the purposes of section 4(1)﻿(p) of the Admiralty Act 1973, be deemed to be a disbursement made on account of the ship.
 (3) Notwithstanding anything in the District Courts Act 1947, any District Court shall have jurisdiction to hear and determine proceedings for the recovery, in accordance with this section, of any money from any agent or master or owner of a ship whatever the amount of money involved.
 
 ## Part 20 — Protection of marine environment from hazardous ships, structures, and offshore operations
@@ -2889,7 +2889,7 @@ The Director must not issue any instructions, or take any measures, under sectio
     (i) to protect the marine environment or marine interests from a harmful substance; or
     (ii) to prevent or reduce the risk of a harmful substance being discharged into the sea; or
   (b) was such that the good done by the action or measure, or the good likely to be done, was disproportionately less than the expense incurred, or the loss or damage suffered, as a result of that action or that measure.
-(2) Where a claim is brought against the Crown for compensation under this section, the court, in determining whether subsection (1)(b) applies, shall take into account—
+(2) Where a claim is brought against the Crown for compensation under this section, the court, in determining whether subsection (1)﻿(b) applies, shall take into account—
   (a) the probability of a harmful substance being discharged into the sea if the action or measure had not been taken; and
   (b) the likelihood of the action or measure taken being effective; and
   (c) the extent of the loss or the damage which has been caused by the action or measure taken.
@@ -2903,7 +2903,7 @@ Every person shall comply with the instructions given by the Director under sect
   (b) wilfully obstructs a person acting in compliance with any instructions issued by the Director under either of those sections; or
   (c) wilfully obstructs the Director in carrying out any of the powers conferred on the Director by either of those sections.
 (2) It shall be a defence to proceedings for an offence against this section to prove that the action, or failure to act, which is alleged to constitute the offence resulted from the need to save life at sea.
-(3) It shall be an additional defence to an offence against subsection (1)(a) to prove that the person charged complied as promptly as possible with the instructions.
+(3) It shall be an additional defence to an offence against subsection (1)﻿(a) to prove that the person charged complied as promptly as possible with the instructions.
 (4) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $200,000 and, if the offence is a continuing one, to a fine not exceeding $10,000 for every day or part of a day on which the offence is continued.
 (5) The court shall not sentence to imprisonment any person who commits an offence against this section unless the court is satisfied that—
   (a) either—
@@ -3036,8 +3036,8 @@ The Director may, in accordance with section 270 and the marine protection rules
 (5) An owner of a controlled offshore installation commits an offence if—
   (a) waste or other matter is dumped from the offshore installation in breach of section 261(1); or
   (b) the controlled offshore installation is dumped in breach of section 261(5).
-(6) The owner and master of a ship, and the owner of a platform or other artificial structure, each commits an offence if waste or other matter is incinerated on it in breach of section 261(6A)(a).
-(7) A person commits an offence if the person exports waste or other matter in breach of section 261(6A)(b).
+(6) The owner and master of a ship, and the owner of a platform or other artificial structure, each commits an offence if waste or other matter is incinerated on it in breach of section 261(6A)﻿(a).
+(7) A person commits an offence if the person exports waste or other matter in breach of section 261(6A)﻿(b).
 
 ### 265 Special defences
 In any prosecution for an offence against section 264, it is a defence if the defendant proves that the act or omission which is alleged to constitute the offence—
@@ -3184,7 +3184,7 @@ Subject to section 267, every person who commits an offence against section 263 
 (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and the following provisions apply:
   (a) in the case of non-disclosure to an individual of information about the individual,—
     (i) the Director must inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)(d) of that Act; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
   (b) in any other case,—
     (i) the Director must inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -3236,7 +3236,7 @@ In this Part, unless the context otherwise requires,—
   - **on-scene commander** means the National On-Scene Commander or any regional on-scene commander
   - **regional marine oil spill contingency plan** means a marine oil spill contingency plan prepared by a regional council and approved by the Director under section 292 or prepared by the Director under section 295
   - **regional on-scene commander** means a regional on-scene commander appointed under section 318
-  - **requisitioned property** means any land, building, vehicle, New Zealand ship, or any other real or personal property requisitioned under section 305(1)(g)
+  - **requisitioned property** means any land, building, vehicle, New Zealand ship, or any other real or personal property requisitioned under section 305(1)﻿(g)
   - **shipboard marine oil spill contingency plan** means a plan prepared under the marine protection rules in respect of a ship and providing for the measures to be taken in respect of marine oil spills from the ship
   - **site marine oil spill contingency plan** means a plan prepared under the marine protection rules in respect of an offshore installation, or oil transfer site, and providing for the measures to be taken in respect of marine oil spills from the offshore installation or oil transfer site, as the case may be.
 
@@ -3402,11 +3402,11 @@ If a regional on-scene commander or the National On-Scene Commander decides that
   (f) carry out such inspections as he or she thinks appropriate in respect of any New Zealand ship, any vehicle, or other thing in an area where a marine oil spill response is being carried out:
   (g) subject to the provisions of section 306, require the owner or person for the time being in control of any land, building, vehicle, New Zealand ship, or any other real or personal property to place that property under his or her control and direction.
 (2) The powers under subsection (1) may be exercised by any on-scene commander, any person authorised by him or her, and any constable.
-(3) Nothing in subsection (1)(g) applies to any land, building, ship, vehicle, or other real or personal property under the control of the New Zealand Defence Force.
+(3) Nothing in subsection (1)﻿(g) applies to any land, building, ship, vehicle, or other real or personal property under the control of the New Zealand Defence Force.
 
 ### 306 Matters to be complied with in requisitioning
-(1) Any person exercising any power conferred by section 305(1)(g) shall give to the owner or person in charge of the requisitioned property a written statement specifying the property being requisitioned and the person under whose control the property is to be placed.
-(2) Where the owner or person for the time being in control of any property that may be requisitioned under section 305(1)(g) cannot immediately be found, an on-scene commander, constable, or person so authorised by an on-scene commander may assume forthwith the control and direction of the requisitioned property.
+(1) Any person exercising any power conferred by section 305(1)﻿(g) shall give to the owner or person in charge of the requisitioned property a written statement specifying the property being requisitioned and the person under whose control the property is to be placed.
+(2) Where the owner or person for the time being in control of any property that may be requisitioned under section 305(1)﻿(g) cannot immediately be found, an on-scene commander, constable, or person so authorised by an on-scene commander may assume forthwith the control and direction of the requisitioned property.
 (3) Where any person assumes the control and direction of requisitioned property under subsection (2), that person shall ensure that, as soon as is reasonably practicable in all the circumstances, a written statement specifying the property that has been requisitioned and the person under whose control it has been placed is given to the owner or person formerly in charge of the requisitioned property.
 
 ### 307 Compensation payable where property requisitioned
@@ -3473,7 +3473,7 @@ Every person who commits an offence against section 314 or section 315 or sectio
 (1) Every regional council shall from time to time appoint—
   (a) a regional on-scene commander for its region; and
   (b) a person or persons, who shall perform the functions and duties and may exercise the powers of a regional on-scene commander, if the office of regional on-scene commander is vacant or the regional on-scene commander is absent, for so long as that vacancy or absence continues.
-(2) Any person appointed under subsection (1)(b) shall, subject to the terms of appointment, be deemed to be a regional on-scene commander during any vacancy or absence.
+(2) Any person appointed under subsection (1)﻿(b) shall, subject to the terms of appointment, be deemed to be a regional on-scene commander during any vacancy or absence.
 (3) The regional on-scene commander of a regional council shall manage and co-ordinate the response of, and direct the use of the resources available to, that regional council, in relation to any marine oil spill in respect of which the council is taking action.
 (4) A regional council shall, in appointing any person or persons under paragraph (a) or paragraph (b) of subsection (1), appoint only such person or persons as are qualified under the marine protection rules to act as regional on-scene commanders.
 (5) If the marine protection rules do not prescribe qualifications for a regional on-scene commander, a regional council shall appoint, under paragraph (a) or paragraph (b) of subsection (1), only those persons who are approved by the Director.
@@ -3482,7 +3482,7 @@ Every person who commits an offence against section 314 or section 315 or sectio
 (1) The Director shall from time to time appoint—
   (a) a National On-Scene Commander; and
   (b) a person or persons, who shall perform the functions and duties and may exercise the powers of the National On-Scene Commander if the office of National On-Scene Commander is vacant or the National On-Scene Commander is absent, for so long as that vacancy or absence continues.
-(2) Any person appointed under subsection (1)(b) shall, during any vacancy or absence, be deemed to be a National On-Scene Commander.
+(2) Any person appointed under subsection (1)﻿(b) shall, during any vacancy or absence, be deemed to be a National On-Scene Commander.
 (3) The National On-Scene Commander shall manage and co-ordinate the response of, and direct the use of resources available to, the Authority in relation to any marine oil spill in respect of which the Authority is taking action.
 
 ### 320 Appointments under section 318 or section 319
@@ -3744,7 +3744,7 @@ Notwithstanding any other provision of this Act, for the purposes of this Part, 
 
 ### 350 Proceedings against third parties in respect of pollution from ships
 (1) Subject to subsection (3), where the owner of a ship avoids liability under section 344 or section 345 or section 346 by proving any of the matters specified in paragraph (b) or paragraph (c) of section 348(1), proceedings may be brought under this section against the person specified in the said paragraph (b) or the said paragraph (c) who has caused the discharge or escape of a harmful substance or waste or other matter, as the case may be.
-(2) If proceedings have been brought under this section against a person specified in section 348(1)(c), that defendant shall be entitled to the same limitation of liability as is available under this Part to the owner of the ship from which the harmful substance or waste or other matter has been discharged or has escaped, as the case may be, and the provisions of section 351 shall apply, with the necessary modifications, to the defendant.
+(2) If proceedings have been brought under this section against a person specified in section 348(1)﻿(c), that defendant shall be entitled to the same limitation of liability as is available under this Part to the owner of the ship from which the harmful substance or waste or other matter has been discharged or has escaped, as the case may be, and the provisions of section 351 shall apply, with the necessary modifications, to the defendant.
 (3) Proceedings shall not be brought under this section against any government other than the Government of New Zealand.
 
 ### 351 Distribution of amounts paid in satisfaction of liability
@@ -3770,7 +3770,7 @@ Where any pollution damage is caused in New Zealand, the internal waters of New 
   (c) no claim in damages may be made under section 345 or section 346 against—in respect of pollution damage caused by that discharge or dumping unless the pollution damage resulted from that person’s personal act or omission, committed with intent to cause pollution damage or recklessly as to whether pollution damage would probably occur.
     (i) the employees or agents of the owner or the members of the crew of the ship; or
     (ii) the pilot or any other person who, without being a member of the crew, performs services for the ship; or
-    (iii) despite paragraph (a)(iii) of the definition of the term owner in section 222(2), any charterer, manager, or operator of the ship; or
+    (iii) despite paragraph (a)﻿(iii) of the definition of the term owner in section 222(2), any charterer, manager, or operator of the ship; or
     (iv) any person performing salvage operations with the consent of the owner or the Director; or
     (v) any person taking measures to prevent pollution damage; or
     (vi) any servant or agent of a person described in subparagraphs (iii) to (v),—
@@ -3851,7 +3851,7 @@ The master of a ship must produce any certificate of insurance required by secti
 **Miscellaneous**
 
 ### 368 Application of admiralty jurisdiction
-(1) The admiralty jurisdiction of the High Court of New Zealand shall extend to any claim under this Part in respect of liability for pollution damage involving a ship, and section 4(1)(d) of the Admiralty Act 1973 (which relates to claims for damage done by a ship) shall be construed as extending to any claim to which this subsection applies, together with all the incidents of such a claim.
+(1) The admiralty jurisdiction of the High Court of New Zealand shall extend to any claim under this Part in respect of liability for pollution damage involving a ship, and section 4(1)﻿(d) of the Admiralty Act 1973 (which relates to claims for damage done by a ship) shall be construed as extending to any claim to which this subsection applies, together with all the incidents of such a claim.
 (2) No action shall be brought in a court to enforce any claim attributable to the discharge of oil causing damage in or to the territory, territorial sea, or exclusive economic zone of a CLC State, other than New Zealand.
 
 ### 369 Reciprocal enforcement of judgments
@@ -3936,11 +3936,11 @@ Where proceedings are brought against the International Oil Pollution Fund under
   (a) either party to the proceedings may serve a notice on the International Oil Pollution Fund or its representative in New Zealand:
   (b) either party may join the International Oil Pollution Fund in the action:
   (c) the International Oil Pollution Fund may apply to the court to be joined in the action.
-(2) A notice served on the International Oil Pollution Fund, or its representative, under subsection (1)(a)—
+(2) A notice served on the International Oil Pollution Fund, or its representative, under subsection (1)﻿(a)—
   (a) shall give sufficient details of the cause of action to allow the International Oil Pollution Fund to decide whether to apply to be joined in the action; and
   (b) shall specify a period of 30 days, or such lesser period as the court may order, for the International Oil Pollution Fund to apply to be joined in the action.
-(3) Where the International Oil Pollution Fund applies to be joined under subsection (1)(c) in any proceedings, the court shall join the International Oil Pollution Fund in those proceedings.
-(4) Where the International Oil Pollution Fund, or its representative, has been served with a notice under subsection (1)(a) but the International Oil Pollution Fund has not been joined in the proceedings, the judgment of the court shall be final and binding on the International Oil Pollution Fund to the extent that the findings of the court may not be challenged by the International Oil Pollution Fund in any proceedings relating to the same cause of action.
+(3) Where the International Oil Pollution Fund applies to be joined under subsection (1)﻿(c) in any proceedings, the court shall join the International Oil Pollution Fund in those proceedings.
+(4) Where the International Oil Pollution Fund, or its representative, has been served with a notice under subsection (1)﻿(a) but the International Oil Pollution Fund has not been joined in the proceedings, the judgment of the court shall be final and binding on the International Oil Pollution Fund to the extent that the findings of the court may not be challenged by the International Oil Pollution Fund in any proceedings relating to the same cause of action.
 
 ### 382 Reciprocal enforcement of judgments against International Oil Pollution Fund
 (1) Part 1 of the Reciprocal Enforcement of Judgments Act 1934 shall apply to any judgment given by a court against the International Oil Pollution Fund in a country in respect of which the Fund Convention is in force.
@@ -4031,7 +4031,7 @@ In this Part, unless the context otherwise requires,—
 (2) For the purposes of subsection (1), claimant includes any employee or agent of the claimant.
 
 ### 385G Proceedings against third parties in respect of pollution damage from marine structures or operations
-Where the owner of a marine structure or the person in charge of any marine operations avoids liability in damages for pollution damage under section 385C or 385D by proving any of the matters specified in section 385E(1)(b) or (c), proceedings for pollution damage may be brought under this section against the person specified in section 385E(1)(b) or (c) who has caused the discharge, escape, or dumping of a harmful substance or waste or other matter, as the case may be.
+Where the owner of a marine structure or the person in charge of any marine operations avoids liability in damages for pollution damage under section 385C or 385D by proving any of the matters specified in section 385E(1)﻿(b) or (c), proceedings for pollution damage may be brought under this section against the person specified in section 385E(1)﻿(b) or (c) who has caused the discharge, escape, or dumping of a harmful substance or waste or other matter, as the case may be.
 
 ### 385H Regulated offshore installations to have certificates of insurance
 (1) A current certificate of insurance issued, recognised, or accepted by the Director under section 270 or 271 is required to be for the time being in force in respect of every regulated offshore installation.
@@ -4371,8 +4371,8 @@ Compliance with any rule or regulation made under this Act shall not excuse the 
   (b) by being sent to the agent of the ship, by registered letter addressed to that agent on behalf of the defendant at that agent’s last known or usual place of residence or that agent’s place of business.
 (2) A District Court Judge or Justice or Community Magistrate or the Registrar may direct that the summons or other document shall be served on the defendant in accordance with rules made under the Criminal Procedure Act 2011, where he or she is satisfied that it would not be impracticable to do so in the particular circumstances.
 (3) Unless the contrary is shown, the time at which service shall be deemed to have been effected on the defendant shall be,—
-  (a) where service is effected in accordance with subsection (1)(a), the time when the summons or other document is personally delivered to the agent of the ship or brought to that agent’s attention, as the case may be; or
-  (b) where service is effected in accordance with subsection (1)(b), the time when the letter would have been delivered to the agent of the ship in the ordinary course of post; and in proving service it shall be sufficient to prove that the letter was properly addressed and posted.
+  (a) where service is effected in accordance with subsection (1)﻿(a), the time when the summons or other document is personally delivered to the agent of the ship or brought to that agent’s attention, as the case may be; or
+  (b) where service is effected in accordance with subsection (1)﻿(b), the time when the letter would have been delivered to the agent of the ship in the ordinary course of post; and in proving service it shall be sufficient to prove that the letter was properly addressed and posted.
 (4)
 (5) Nothing in this section limits anything in section 458.
 
@@ -4471,7 +4471,7 @@ Notwithstanding any other enactment, where a person is convicted of an offence a
 (11) The provisions of Schedule 1 shall apply in relation to the Authority.
 
 ### 429A Membership of Authority
-(1) The Authority must have 5 members appointed under section 28(1)(a) of the Crown Entities Act 2004.
+(1) The Authority must have 5 members appointed under section 28(1)﻿(a) of the Crown Entities Act 2004.
 (2) Members of the Authority are the board for the purposes of the Crown Entities Act 2004.
 (3) The Minister may only appoint as members persons who—
   (a) are New Zealand citizens or permanent residents of New Zealand; and
@@ -4503,10 +4503,10 @@ The objective of the Authority is to undertake its safety, security, marine prot
   (n) to perform such other functions as are conferred on it by this Act or any other Act.
 (2) The Authority shall carry out such other maritime functions, and such maritime duties, as the Minister may from time to time direct in accordance with section 112 of the Crown Entities Act 2004.
 (3) The Authority must, if directed by the Minister under section 14C of the Civil Aviation Act 1990, do any or all of the following:
-  (a) maintain and operate the search and rescue co-ordination centre established under section 14B(1)(a) of the Civil Aviation Act 1990:
-  (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 14B(1)(a) of the Civil Aviation Act 1990:
-  (c) perform, or participate in the performance of, any search and rescue operation specified in section 14B(1)(a) of the Civil Aviation Act 1990:
-  (d) exercise any or all of the powers of the Minister under section 14B(1)(b) and (c) and section 14B(2) of the Civil Aviation Act 1990.
+  (a) maintain and operate the search and rescue co-ordination centre established under section 14B(1)﻿(a) of the Civil Aviation Act 1990:
+  (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 14B(1)﻿(a) of the Civil Aviation Act 1990:
+  (c) perform, or participate in the performance of, any search and rescue operation specified in section 14B(1)﻿(a) of the Civil Aviation Act 1990:
+  (d) exercise any or all of the powers of the Minister under section 14B(1)﻿(b) and (c) and section 14B(2) of the Civil Aviation Act 1990.
 
 ### 432 Authority to comply with policy directions
 [Repealed]
@@ -4541,7 +4541,7 @@ Subject to this Act, the Authority shall, in the course of performing its functi
   (b) details of the procedures to be followed under the service charter by a person who alleges that the standards were not met; and
   (c) details of the remedies that are available under the service charter to the person affected, where it is established by that person, to the satisfaction of the Authority, that the standards were not met; and
   (d) provision for the appointment by the Authority of an appropriate independent person to assist in the resolution of disputes arising in respect of alleged failures to meet the standards of service specified in the service charter.
-(2) The service charter may make provision for a person to be appointed as a deputy to the person appointed under the provision referred to in subsection (1)(d), and for the functions, duties, and powers of the deputy.
+(2) The service charter may make provision for a person to be appointed as a deputy to the person appointed under the provision referred to in subsection (1)﻿(d), and for the functions, duties, and powers of the deputy.
 (3) The Authority, the Director, any employee or agent of the Authority, and any agent of the Director shall have a public duty to observe the provisions of the service charter.
 (4) If the Authority fails to comply with subsection (1), the Minister shall prepare the service charter and shall make it available to the public.
 (5) The Authority (in any case except where the Minister has prepared it) and the Minister (where the Minister has prepared it) may from time to time, in writing, amend the service charter, and shall make such amendments available to the public.
@@ -5152,7 +5152,7 @@ The person appointed as the Maritime Appeal Authority shall cease to hold office
 (c)
 
 ### 4A
-For the purposes of clause 4, disability has the meaning given by section 21(1)(h) of the Human Rights Act 1993.
+For the purposes of clause 4, disability has the meaning given by section 21(1)﻿(h) of the Human Rights Act 1993.
 
 ### 5
 The person appointed as the Maritime Appeal Authority may at any time resign by notice in writing to the Minister.
@@ -5288,7 +5288,7 @@ This Act amends the Maritime Transport Act 1994 (the principal Act).
 ### 87 Savings provisions relating to Local Government Act 1974
 (1) All regulations and bylaws, liability for fees, charges, or expenses, appointments, notices, directions, delegations, transfers, agreements, leases, licences, instruments, rights, other liabilities, and other acts of authority that originated under Part 39A, Part 43, or section 699A, 699B, 699C, or 699D of the Local Government Act 1974 and existed or were in force at the time of the repeal of those provisions by section 85 continue as if they had been made, and are deemed where necessary to have been made, under the corresponding provisions of the Maritime Transport Act 1994.
 (2) All matters, proceedings, actions, and investigations under Part 39A, Part 43, or section 699A, 699B, 699C, or 699D of the Local Government Act 1974 that were pending or in progress at the time of the repeal of those provisions may be continued, completed, and enforced as if those provisions had not been repealed.
-(3) Without limiting subsection (1), the following regulations continue in force and have the same effect as if they had been made under section 201(1)(b) of the Maritime Transport Act 1994:
+(3) Without limiting subsection (1), the following regulations continue in force and have the same effect as if they had been made under section 201(1)﻿(b) of the Maritime Transport Act 1994:
   (a) Lake Taupo (Crown Facilities, Permits and Fees) Regulations 2004:
   (b) Local Government (Infringement Fees for Offences: Auckland Regional Council Navigation Safety Bylaw 2008) Regulations 2009:
   (c) Local Government (Infringement Fees for Offences: Bay of Plenty Regional Navigation Safety Bylaw 2010) Regulations 2010:
