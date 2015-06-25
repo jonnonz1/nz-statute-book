@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2015-05-28_
+_Consolidation as at 2015-06-25_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
