@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2014-08-08_
+_Consolidation as at 2015-06-26_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -201,7 +201,7 @@ Part 5
   (d) any cumulative effect that arises over time or in combination with other effects; and
   (e) any potential effect of high probability; and
   (f) any potential effect of low probability that has a high potential impact.
-(2) Subsection (1)(a) to (d) apply regardless of the scale, intensity, duration, or frequency of the effect.
+(2) Subsection (1)﻿(a) to (d) apply regardless of the scale, intensity, duration, or frequency of the effect.
 
 ### 7 Meaning of marine management regime
 (1) In this Act, unless the context otherwise requires, marine management regime includes the regulations, rules, and policies made and the functions, duties, and powers conferred under an Act that applies to any 1 or more of the following:
@@ -231,7 +231,7 @@ Part 5
 (3) An enforcement order may be made against an instrument of the Crown, in accordance with this Act, only if—
   (a) the instrument of the Crown is a Crown organisation; and
   (b) the order is made against the Crown organisation in its own name.
-(4) Subsection (3) applies despite section 17(1)(a) of the Crown Proceedings Act 1950.
+(4) Subsection (3) applies despite section 17(1)﻿(a) of the Crown Proceedings Act 1950.
 (5) An instrument of the Crown may be prosecuted for an offence against this Act only if—
   (a) the instrument of the Crown is a Crown organisation; and
   (b) the offence is alleged to have been committed by the Crown organisation; and
@@ -426,7 +426,7 @@ The Māori Advisory Committee may provide advice to the Environmental Protection
     (i) training and supervision to all the person's employees who are engaged in an activity in the exclusive economic zone or on the continental shelf in order to ensure compliance with this Act, regulations, and any marine consent; and
     (ii) sufficient resources to the employees to ensure compliance with this Act, regulations, and any marine consent, including establishing appropriate management systems.
 (2) The duties referred to in subsection (1) are not enforceable against any person, and no person is liable to any other person for a breach of a duty.
-(3) However, despite subsection (2), an enforcement order may be made under section 115 or an abatement notice may be served under section 125 to require a person to comply with subsection (1)(a) if adverse effects result or are likely to result from a breach of this Act, regulations, or a marine consent.
+(3) However, despite subsection (2), an enforcement order may be made under section 115 or an abatement notice may be served under section 125 to require a person to comply with subsection (1)﻿(a) if adverse effects result or are likely to result from a breach of this Act, regulations, or a marine consent.
 
 ### 26 Relationship with other legal requirements
 To avoid doubt,—
@@ -504,10 +504,10 @@ To avoid doubt,—
   (f) specify sites at which burial at sea may be approved:
   (g) specify criteria to be considered in deciding an application for a marine dumping consent or an application to change or cancel a condition of a marine dumping consent.
 (5) Regulations may apply to different classes of persons, ships involved in mining activities, offshore installations, or submarine pipelines.
-(6) Despite subsection (2)(b)(ii), the regulations must not provide for the discharge of a harmful substance to be a permitted activity if, in the Minister's opinion,—
+(6) Despite subsection (2)﻿(b)﻿(ii), the regulations must not provide for the discharge of a harmful substance to be a permitted activity if, in the Minister's opinion,—
   (a) the activity has or is likely to have adverse effects on the environment or an existing interest that are significant in the circumstances; and
   (b) it is more appropriate for the adverse effects of the activity to be considered in relation to an application for a marine consent.
-(7) Section 27(2) applies to regulations made under subsection (2)(a).
+(7) Section 27(2) applies to regulations made under subsection (2)﻿(a).
 (8) Section 29(2) and (3) applies to the regulations made under this section.
 
 ### 29B Regulations for emergency dumping
@@ -540,7 +540,7 @@ To avoid doubt,—
   (b) prescribing forms:
   (c) prescribing the amounts of charges payable or the method by which they are to be assessed or calculated, and the persons liable to pay the charges:
   (d) providing for any other matters contemplated by this Act and necessary for its administration or necessary for giving it full effect.
-(2) However, the Minister must not recommend the making of regulations under subsection (1)(a) or (c) unless he or she is satisfied that the requirements of section 32 have been met.
+(2) However, the Minister must not recommend the making of regulations under subsection (1)﻿(a) or (c) unless he or she is satisfied that the requirements of section 32 have been met.
 (3) Nothing in subsection (2) or section 32 requires consultation in relation to specific charges, or the specific levels of charges, so long as the charges set are reasonably within the scope of any general consultation, and a failure to comply with subsection (2) does not affect the validity of any regulations made for the purposes of this Act.
 
 **Provisions applying to all regulations**
@@ -551,7 +551,7 @@ To avoid doubt,—
 (3) Different requirements or standards may apply in relation to different activities and different classes of the same activity.
 
 ### 32 Process for developing or amending regulations
-(1) Before making a recommendation to the Governor-General under section 27 or 30(1)(a) or (c), the Minister must comply with subsection (2).
+(1) Before making a recommendation to the Governor-General under section 27 or 30(1)﻿(a) or (c), the Minister must comply with subsection (2).
 (2) The Minister must—
   (a) notify the public, iwi authorities, regional councils, and persons whose existing interests are likely to be affected of—
     (i) the proposed subject matter of the regulations; and
@@ -634,8 +634,8 @@ To avoid doubt,—
 (2) An impact assessment must contain the information required by subsection (1) in—
   (a) such detail as corresponds to the scale and significance of the effects that the activity may have on the environment and existing interests; and
   (b) sufficient detail to enable the Environmental Protection Authority and persons whose existing interests are or may be affected to understand the nature of the activity and its effects on the environment and existing interests.
-(3) The impact assessment complies with subsection (1)(c) and (d) if the Environmental Protection Authority is satisfied that the applicant has made a reasonable effort to identify the matters described in those paragraphs.
-(4) The measures that must be specified under subsection (1)(h) include any measures required by another marine management regime and any measures required by or under the Health and Safety in Employment Act 1992 that may have the effect of avoiding, remedying, or mitigating the adverse effects of the activity on the environment or existing interests.
+(3) The impact assessment complies with subsection (1)﻿(c) and (d) if the Environmental Protection Authority is satisfied that the applicant has made a reasonable effort to identify the matters described in those paragraphs.
+(4) The measures that must be specified under subsection (1)﻿(h) include any measures required by another marine management regime and any measures required by or under the Health and Safety in Employment Act 1992 that may have the effect of avoiding, remedying, or mitigating the adverse effects of the activity on the environment or existing interests.
 
 ### 40 Obligation to deal with application promptly
 After receiving an application for a marine consent, the Environmental Protection Authority must deal with the application as promptly as is reasonable in the circumstances.
@@ -666,13 +666,13 @@ After receiving an application for a marine consent, the Environmental Protectio
   (a) provide the information; or
   (b) write to the Environmental Protection Authority telling it that the applicant agrees to provide the information; or
   (c) write to the EPA telling it that the applicant refuses to provide the information.
-(2) After the EPA receives the applicant's letter under subsection (1)(b), the EPA must—
+(2) After the EPA receives the applicant's letter under subsection (1)﻿(b), the EPA must—
   (a) set a reasonable time within which the applicant must provide the information; and
   (b) write to the applicant telling it the date by which the applicant must provide the information.
 (3) The EPA must consider the application under section 59 even if the applicant—
   (a) does not respond to the request; or
-  (b) agrees to provide the information under subsection (1)(b) but does not do so; or
-  (c) refuses to provide the information under subsection (1)(c).
+  (b) agrees to provide the information under subsection (1)﻿(b) but does not do so; or
+  (c) refuses to provide the information under subsection (1)﻿(c).
 
 ### 44 Environmental Protection Authority may obtain advice or information
 (1) The Environmental Protection Authority may—
@@ -767,7 +767,7 @@ The Environmental Protection Authority—
 A hearing must be completed not later than 40 working days after the first day of the hearing.
 
 ### 53 Hearings to be public and without unnecessary formality
-(1) A hearing must be held in public unless the Environmental Protection Authority directs, under section 158(3)(a), that the whole or part of a hearing is to be held with the public excluded.
+(1) A hearing must be held in public unless the Environmental Protection Authority directs, under section 158(3)﻿(a), that the whole or part of a hearing is to be held with the public excluded.
 (2) The EPA must establish a procedure for a hearing that is appropriate and fair in the circumstances.
 (3) In determining an appropriate and fair procedure for a hearing, the EPA must—
   (a) avoid unnecessary formality; and
@@ -856,12 +856,12 @@ The Environmental Protection Authority may exercise a power under section 57 or 
   (a) trade competition or the effects of trade competition; or
   (b) the effects on climate change of discharging greenhouse gases into the air; or
   (c) any effects on a person's existing interest if the person has given written approval to the proposed activity.
-(6) Subsection (5)(c) does not apply if the person has given written approval but the person withdraws the approval by giving written notice to the EPA—
+(6) Subsection (5)﻿(c) does not apply if the person has given written approval but the person withdraws the approval by giving written notice to the EPA—
   (a) before the date of the hearing, if there is one; or
   (b) if there is no hearing, before the EPA decides the application.
 
 ### 60 Matters to be considered in deciding extent of adverse effects on existing interests
-In considering the effects of an activity on existing interests under section 59(2)(a), the Environmental Protection Authority must have regard to—
+In considering the effects of an activity on existing interests under section 59(2)﻿(a), the Environmental Protection Authority must have regard to—
   (a) the area that the activity would have in common with the existing interest; and
   (b) the degree to which both the activity and the existing interest must be carried out to the exclusion of other activities; and
   (c) whether the existing interest can be exercised only in the area to which the application relates; and
@@ -906,7 +906,7 @@ In considering the effects of an activity on existing interests under section 59
 (4) A stage may relate to the duration of the consent, the area over which the consent is granted, the scale or intensity of the activity, or the nature of the activity.
 
 ### 65 Bonds
-(1) A bond required under section 63(2)(a)(i) may be given for the performance of any 1 or more conditions of a marine consent that the Environmental Protection Authority considers appropriate and may continue after the expiry of the consent to secure the ongoing performance of conditions relating to long-term effects, including—
+(1) A bond required under section 63(2)﻿(a)﻿(i) may be given for the performance of any 1 or more conditions of a marine consent that the Environmental Protection Authority considers appropriate and may continue after the expiry of the consent to secure the ongoing performance of conditions relating to long-term effects, including—
   (a) a condition relating to the alteration, demolition, or removal of structures:
   (b) a condition relating to remedial, restoration, or maintenance work:
   (c) a condition providing for ongoing monitoring of long-term effects.
@@ -920,7 +920,7 @@ In considering the effects of an activity on existing interests under section 59
 (3) If the EPA considers that an adverse effect may continue or arise at any time after the expiration of a marine consent, the EPA may require that a bond continue for a specified period that the EPA thinks fit.
 
 ### 66 Monitoring conditions
-(1) A condition imposed under section 63(2)(a)(iii) may require the consent holder to do 1 or more of the following:
+(1) A condition imposed under section 63(2)﻿(a)﻿(iii) may require the consent holder to do 1 or more of the following:
   (a) make and record measurements:
   (b) take and supply samples:
   (c) carry out analyses, surveys, investigations, inspections, or other specified tests:
@@ -928,10 +928,10 @@ In considering the effects of an activity on existing interests under section 59
   (e) provide information to the EPA or a person specified by the EPA at a specified time or times:
   (f) provide information to the EPA or a person specified by the EPA in a specified manner:
   (g) comply with the condition at the consent holder's expense.
-(2) This section does not limit section 63(2)(a)(iii).
+(2) This section does not limit section 63(2)﻿(a)﻿(iii).
 
 ### 67 Observers
-(1) A condition imposed under section 63(2)(a)(iv) that requires the holder of a consent to appoint an observer must specify in detail the observer's duties in relation to the activity.
+(1) A condition imposed under section 63(2)﻿(a)﻿(iv) that requires the holder of a consent to appoint an observer must specify in detail the observer's duties in relation to the activity.
 (2) The consent holder may appoint a person to be an observer only if the person is approved by the EPA for that purpose.
 (3) The EPA must approve a person to be an observer in relation to a consent if—
   (a) the person has the appropriate training, skill, and experience to perform the duties; and
@@ -1027,7 +1027,7 @@ Every decision of the EPA on an application for a marine consent must be in writ
     (ii) are of a scale or intensity that was not anticipated when the consent was granted:
   (d) if the information made available to the EPA by the applicant for the consent for the purposes of the application contained inaccuracies that materially influenced the decision made on the application and the effects of the exercise of the consent are such that it is necessary to apply more appropriate conditions:
   (e) if information becomes available to the EPA that was not available to the EPA when the consent was granted and the information shows that more appropriate conditions are necessary to deal with the effects of the exercise of the consent.
-(2) The EPA must serve notice on a consent holder of its intention to review the conditions of a marine consent if required by an order made under section 133(5)(b).
+(2) The EPA must serve notice on a consent holder of its intention to review the conditions of a marine consent if required by an order made under section 133(5)﻿(b).
 (3) A notice of review must comply with section 77.
 
 ### 77 Contents of notice of review
@@ -1035,7 +1035,7 @@ Every decision of the EPA on an application for a marine consent must be in writ
   (a) specify that the duration of the consent is to be reviewed, if that is the case; and
   (b) identify the conditions to be reviewed; and
   (c) give reasons for the review; and
-  (d) specify the information that the Environmental Protection Authority took into account in deciding to review the conditions, if the review is under section 76(1)(d) or (e); and
+  (d) specify the information that the Environmental Protection Authority took into account in deciding to review the conditions, if the review is under section 76(1)﻿(d) or (e); and
   (e) tell the consent holder whether a charge is payable and, if so, the estimated amount of the charge.
 (2) A notice of review may—
   (a) propose new consent conditions; or
@@ -1061,7 +1061,7 @@ If the Environmental Protection Authority serves a notice of review of a non-not
   (a) the notice of review were an application for a marine consent; and
   (b) the consent holder were the applicant for the marine consent.
 (1A) Sections 42 to 44B (and the Schedule) apply, with all necessary modifications, to a review of a marine consent for a non-notified activity as if the notice of review were an application for a marine consent.
-(2) However, section 44(1)(a) does not apply to a review.
+(2) However, section 44(1)﻿(a) does not apply to a review.
 
 ### 80 Matters to be considered in review
 When reviewing the conditions of a marine consent, the Environmental Protection Authority—
@@ -1077,7 +1077,7 @@ When reviewing the conditions of a marine consent, the Environmental Protection 
 (2) Sections 63 to 71 (which relate to conditions, decisions, notification, and commencement) and sections 105 and 113 (which relate to appeals) apply, with all necessary modifications, to a review as if—
   (a) the review were an application for a marine consent; and
   (b) the consent holder were an applicant for a marine consent.
-(3) The EPA may cancel a consent if the review was initiated under section 76(1)(c), (d), (e), or (2) and the activity authorised by the consent has significant adverse effects on the environment or existing interests.
+(3) The EPA may cancel a consent if the review was initiated under section 76(1)﻿(c), (d), (e), or (2) and the activity authorised by the consent has significant adverse effects on the environment or existing interests.
 (4) If the EPA cancels a consent, the EPA may—
   (a) set a timetable for the consent holder to cease the activity; and
   (b) direct the consent holder to take any other action in relation to any structures used for the activity; and
@@ -1113,7 +1113,7 @@ The EPA may issue an amended consent to correct minor mistakes or defects in a c
     (i) whether substantial progress or effort has been, and continues to be, made towards giving effect to the consent; and
     (ii) whether the applicant has obtained approval from persons who may be adversely affected by the granting of an extension; and
     (iii) relevant enactments.
-(2) The consent holder may object, under section 101, to a decision of the EPA under subsection (1)(b) not to extend the period after which the consent lapses.
+(2) The consent holder may object, under section 101, to a decision of the EPA under subsection (1)﻿(b) not to extend the period after which the consent lapses.
 
 ### 86 Cancellation of consent if not exercised
 (1) The Environmental Protection Authority may cancel a marine consent by written notice served on the consent holder if the consent has been exercised in the past but has not been exercised during the preceding 5 years.
@@ -1135,14 +1135,14 @@ The EPA may issue an amended consent to correct minor mistakes or defects in a c
 (4) For the purposes of determining who is adversely affected by the change or cancellation, the EPA must consider, in particular, every person who—
   (a) made a submission on the original application; and
   (b) has an existing interest that may be affected by the change or cancellation.
-(5) If the EPA decides, under subsection (3)(a), not to give public notice of the request, the EPA may, but need not, give public notice of its decision under section 70.
+(5) If the EPA decides, under subsection (3)﻿(a), not to give public notice of the request, the EPA may, but need not, give public notice of its decision under section 70.
 (6) The consent holder may object, under section 101, if the EPA refuses to change or cancel the condition as requested by the consent holder.
 
 ### Subpart 3 — Marine consents for cross-boundary activities
 
 ### 88 Interpretation
 In this subpart, unless the context otherwise requires,—
-  - **assessment of environmental effects** means the assessment of effects on the environment required by section 88(2)(b) of the Resource Management Act 1991
+  - **assessment of environmental effects** means the assessment of effects on the environment required by section 88(2)﻿(b) of the Resource Management Act 1991
   - **coastal marine area** has the meaning given to it by section 2(1) of the Resource Management Act 1991
   - **consent authority** has the meaning given to it by section 2(1) of the Resource Management Act 1991
   - **cross-boundary activity** means an activity that is carried out partly in the exclusive economic zone or in or on the continental shelf and partly in New Zealand
@@ -1170,7 +1170,7 @@ A person who intends to undertake a cross-boundary activity may—
 ### 91 Joint application for consent for cross-boundary activity
 (1) This section applies if a person makes a joint application for consent.
 (2) The joint application must be sent to both the relevant consent authority and the Environmental Protection Authority.
-(3) The joint application must include an assessment of effects that complies with section 88(2)(b) of the Resource Management Act 1991 and section 39 of this Act.
+(3) The joint application must include an assessment of effects that complies with section 88(2)﻿(b) of the Resource Management Act 1991 and section 39 of this Act.
 (4) The joint application may specify that the application for resource consent is lodged with the EPA under section 145 of the Resource Management Act 1991.
 
 ### 92 Separate applications for consents for cross-boundary activity
@@ -1185,7 +1185,7 @@ Subpart 2 applies to an application for a marine consent if a person—
   (a) not to continue with the processing or hearing of the application for a marine consent until the application for resource consent is lodged with it and the relevant consent authority; or
   (b) to return the application for a marine consent to the applicant as incomplete under section 41.
 (4) The EPA must inform the applicant of its decision under subsection (1) as soon as practicable after making the decision.
-(5) If the EPA makes the decision in subsection (3)(a) and the applicant then lodges an application for a resource consent for the cross-boundary activity, the application for resource consent and the application for a marine consent are a new joint application for consent made on the date on which the application for a resource consent was lodged.
+(5) If the EPA makes the decision in subsection (3)﻿(a) and the applicant then lodges an application for a resource consent for the cross-boundary activity, the application for resource consent and the application for a marine consent are a new joint application for consent made on the date on which the application for a resource consent was lodged.
 
 ### 94 Decision to separate joint application for consent
 (1) At any time during the processing of a joint application for consent, the Environmental Protection Authority may decide that the application for a resource consent and the application for a marine consent that comprise the joint application must cease to be processed as a joint application and continue to be processed separately.
@@ -1198,10 +1198,10 @@ Subpart 2 applies to an application for a marine consent if a person—
   (a) the relevant consent authority must resume processing the application for resource consent under the Resource Management Act 1991; and
   (b) the EPA must resume processing the application for a marine consent under subpart 2.
 (4) The EPA must cease processing a joint application for consent if—
-  (a) the Minister for the Environment or the Minister of Conservation (in relation to a proposal of national significance) directs that the application for a resource consent be referred to the Environment Court for decision under section 142(2)(b) or 147(1)(b) of the Resource Management Act 1991; or
+  (a) the Minister for the Environment or the Minister of Conservation (in relation to a proposal of national significance) directs that the application for a resource consent be referred to the Environment Court for decision under section 142(2)﻿(b) or 147(1)﻿(b) of the Resource Management Act 1991; or
   (b) the relevant consent authority agrees to the applicant's request made under section 87D of the Resource Management Act 1991 to allow the application to be determined by the Environment Court.
-(5) In the case described in subsection (4)(a), section 149T of the Resource Management Act 1991 applies to the application for resource consent.
-(6) In the case described in subsection (4)(b), sections 87F(2) to (5) and 87G to 87I of the Resource Management Act 1991 apply to the application for resource consent.
+(5) In the case described in subsection (4)﻿(a), section 149T of the Resource Management Act 1991 applies to the application for resource consent.
+(6) In the case described in subsection (4)﻿(b), sections 87F(2) to (5) and 87G to 87I of the Resource Management Act 1991 apply to the application for resource consent.
 (7) In both cases described in subsection (4), the EPA must resume processing the application for a marine consent under subpart 2.
 
 **Processing of joint application**
@@ -1238,7 +1238,7 @@ Sections 96 and 97 apply to the processing of a joint application for consent wh
 **Nationally significant cross-boundary activities**
 
 ### 99 Application for consent for nationally significant cross-boundary activity referred to board of inquiry
-(1) This section applies if the application for a resource consent for the part of the cross-boundary activity that is to be carried out in the coastal marine area is or is part of a proposal of national significance referred to a board of inquiry under section 142(2)(a) or 147(1)(a) of the Resource Management Act 1991.
+(1) This section applies if the application for a resource consent for the part of the cross-boundary activity that is to be carried out in the coastal marine area is or is part of a proposal of national significance referred to a board of inquiry under section 142(2)﻿(a) or 147(1)﻿(a) of the Resource Management Act 1991.
 (2) The Environmental Protection Authority may delegate to the board of inquiry the EPA's functions in relation to an application for a marine consent that relates to the part of the activity that is to be carried out in the exclusive economic zone or in or on the continental shelf.
 (3) If the EPA delegates its functions under subsection (2), sections 44B, 50 to 58, and 68 of this Act do not apply to the application for a marine consent and, instead,—
   (a) the EPA must process the application for a marine consent together with the associated application for a resource consent; and
@@ -1248,13 +1248,13 @@ Sections 96 and 97 apply to the processing of a joint application for consent wh
     (i) notify the application, if it has not already been notified; and
     (ii) receive submissions made under section 46; and
   (b) the board of inquiry must apply sections 59 to 67 in making its decision on the application as if the board were the EPA.
-(5) The provisions referred to in subsection (3)(b) are—
+(5) The provisions referred to in subsection (3)﻿(b) are—
   (a) section 149L (which deals with the conduct of the inquiry):
-  (b) section 149Q (which requires the board to produce a draft report) except subsections (2)(e) and (f) and (3)(b) and (c):
-  (c) section 149R (which requires the board to produce a final report), but not subsections (3)(e) and (f) and (4)(b) and (c):
+  (b) section 149Q (which requires the board to produce a draft report) except subsections (2)﻿(e) and (f) and (3)﻿(b) and (c):
+  (c) section 149R (which requires the board to produce a final report), but not subsections (3)﻿(e) and (f) and (4)﻿(b) and (c):
   (d) section 149RA(1) and (2) (which allows the board to make minor corrections to board decisions and resource consents):
-  (da) section 149S (which allows the Minister to extend the time by which the board must report), but not subsection (4)(b):
-  (e) section 149V (which provides for appeals against decisions to be on questions of law only) as if the reference to section 149R(4)(a) to (f) were a reference to section 149R(4)(a), (d), (e), and (f).
+  (da) section 149S (which allows the Minister to extend the time by which the board must report), but not subsection (4)﻿(b):
+  (e) section 149V (which provides for appeals against decisions to be on questions of law only) as if the reference to section 149R(4)﻿(a) to (f) were a reference to section 149R(4)﻿(a), (d), (e), and (f).
 (6) An application for a resource consent is associated with an application for a marine consent if the applications relate to the same cross-boundary activity.
 
 ### 100 EPA must provide board of inquiry with necessary information
@@ -1364,7 +1364,7 @@ The parties to an appeal before the High Court are—
 (3) The notice given under subsection (2) must state—
   (a) the proceedings in which the person has an interest; and
   (b) whether the person supports or opposes the proceedings and the reasons for that support or opposition; and
-  (c) if applicable, the grounds for seeking representation under subsection (1)(a); and
+  (c) if applicable, the grounds for seeking representation under subsection (1)﻿(a); and
   (d) an address for service.
 (4) A person who becomes a party to the proceedings under this section may appear and call evidence in accordance with subsection (5).
 (5) Evidence must not be called under subsection (4) unless it is on matters within the scope of the appeal or other proceeding.
@@ -1412,7 +1412,7 @@ Subpart 8 of Part 6 of the Criminal Procedure Act 2011 applies to a decision of 
   (d) changes or cancels a consent if—
     (i) the court is of the opinion that the information provided to the Environmental Protection Authority by the applicant contained inaccuracies relevant to the enforcement order sought that materially influenced the decision to grant the consent; and
     (ii) the effects of the exercise of the consent are such that more appropriate conditions are needed or the consent should be cancelled.
-(2) For the purposes of subsection (1)(c), actual and reasonable costs includes the costs of investigation, supervision, and monitoring of the adverse effect on the environment, and the costs of any actions required to avoid, remedy, or mitigate the adverse effect.
+(2) For the purposes of subsection (1)﻿(c), actual and reasonable costs includes the costs of investigation, supervision, and monitoring of the adverse effect on the environment, and the costs of any actions required to avoid, remedy, or mitigate the adverse effect.
 (3) In subsection (1), an act done or to be done, or any adverse effects caused, by a person includes an act done or to be done, or adverse effects caused, on the person's behalf.
 (4) An enforcement order may be made on such terms and conditions as the Environment Court thinks fit (including the payment of any charge provided for by regulations, the provision of security, or the entry into a bond for performance).
 (5) An enforcement order will, if the court so states, apply to the personal representatives, successors, and assigns of a person to the same extent as it applies to that person.
@@ -1475,12 +1475,12 @@ After considering an application for an enforcement order, the Environment Court
 (3) Sections 117 to 119 (which relate to notification, hearing, and decision) apply to every application under subsection (1) as if it were an application for an enforcement order.
 
 ### 124 Restriction on certain applications for enforcement orders
-(1) No person may apply to the Environment Court for an enforcement order of a kind specified in any of section 115(1)(a) to (c) in respect of anything done or to be done—
+(1) No person may apply to the Environment Court for an enforcement order of a kind specified in any of section 115(1)﻿(a) to (c) in respect of anything done or to be done—
   (a) by or on behalf of the Director of Maritime New Zealand under section 248 or 249 of the Maritime Transport Act 1994; or
   (b) by or on behalf of any person in accordance with any instructions issued under either of those sections of that Act; or
   (c) by or on behalf of any on-scene commander under section 305 or 311 of that Act or in accordance with a direction given under section 310 of that Act; or
   (d) by or on behalf of the master or owner of any ship, or the owner or operator of any oil transfer site or offshore installation, or any other person, in accordance with a direction given under section 305 of that Act.
-(2) No person may apply for an enforcement order of a kind specified in section 115(1)(c) in respect of any actual or reasonable costs where—
+(2) No person may apply for an enforcement order of a kind specified in section 115(1)﻿(c) in respect of any actual or reasonable costs where—
   (a) the costs that a person has incurred or is likely to incur constitute pollution damage (as defined in section 342 of the Maritime Transport Act 1994); and
   (b) in respect of those costs, the person is liable in damages under Part 25 of that Act.
 (3) Neither the Environment Court nor any other court may make an order relating to such damage in any proceedings (including prosecutions for offences) under this Act.
@@ -1648,7 +1648,7 @@ Only an enforcement officer may file a charging document in respect of an offenc
   (b) an abatement notice:
   (c) an enforcement order.
 (4) The power to enter and inspect may only be exercised in relation to a place, vehicle, vessel, or structure described in subsection (1) if the enforcement officer is expressly authorised in writing by the Environmental Protection Authority to enter that place, vehicle, vessel, or structure.
-(5) Before an enforcement officer exercises a power to board and inspect a foreign vessel under subsection (1)(c), the officer must send a copy of the authority described in subsection (4) to the Secretary of Foreign Affairs.
+(5) Before an enforcement officer exercises a power to board and inspect a foreign vessel under subsection (1)﻿(c), the officer must send a copy of the authority described in subsection (4) to the Secretary of Foreign Affairs.
 (6) The provisions of Part 4 (except subparts 2 and 8, and sections 118 and 119) of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
 (7) In this section,—
   - **enter** , in relation to a vessel, means board
@@ -1708,7 +1708,7 @@ Costs may be recovered for the purpose of section 143(1) by 1 or more of the fol
   (b) in the case of an increase or a new charge,—
     (i) appropriate consultation has been carried out with persons or representatives of persons substantially affected by the increase or the new charge; and
     (ii) the Minister is satisfied that those persons, or their representatives, agree or do not substantially disagree with the increase or the new charge.
-(3) Despite subsection (1), regulations may prescribe a charge during the financial year in which this Act commences, and subsection (2)(b)(ii) does not apply.
+(3) Despite subsection (1), regulations may prescribe a charge during the financial year in which this Act commences, and subsection (2)﻿(b)﻿(ii) does not apply.
 (4) Subsection (1) does not prevent the amendment of any regulation prescribing a charge if any substantive alteration effected by the amendment is for the purpose of correcting an error.
 (5) In any financial year, recovery may be made of any shortfall in cost recovery for any of the preceding 4 financial years, and allowance may be made for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
 
@@ -1746,15 +1746,15 @@ Costs may be recovered for the purpose of section 143(1) by 1 or more of the fol
   (a) by delivering it at the organisation's head office or principal place of business; or
   (b) by sending it to the fax number or email address that the organisation has specified for its head office or principal place of business; or
   (c) by a method agreed between the organisation and the person serving the notice or document.
-(8) If a notice or document is sent by post under subsection (1)(c) or (d), it is presumed to be received by the person at the time at which the notice or document would have been delivered in the ordinary course of the post.
+(8) If a notice or document is sent by post under subsection (1)﻿(c) or (d), it is presumed to be received by the person at the time at which the notice or document would have been delivered in the ordinary course of the post.
 
 ### 149 Service on master or owner of ship
-(1) If the master or owner of a ship is a defendant in a prosecution for an offence against section 132(1)(a), service on the defendant of a summons or other document is achieved for the purposes of the Criminal Procedure Act 2011 if the summons or other document is—
+(1) If the master or owner of a ship is a defendant in a prosecution for an offence against section 132(1)﻿(a), service on the defendant of a summons or other document is achieved for the purposes of the Criminal Procedure Act 2011 if the summons or other document is—
   (a) delivered personally to the agent of the ship on behalf of the defendant or is brought to the notice of the agent if the agent refuses to accept it on behalf of the defendant; or
   (b) sent to the agent of the ship by registered letter addressed to that agent on behalf of the defendant at the agent's last known or usual place of residence or business; or
   (c) served in accordance with rules made under the Criminal Procedure Act 2011 if a District Court Judge, Justice, Community Magistrate, or Registrar directs that the document or summons must be served in accordance with those rules.
 (2) Subsection (1) applies despite any other enactment.
-(3) If a summons or document is sent by post under subsection (1)(b), it is presumed to be received by the agent at the time at which the notice or document would have been delivered in the ordinary course of the post.
+(3) If a summons or document is sent by post under subsection (1)﻿(b), it is presumed to be received by the agent at the time at which the notice or document would have been delivered in the ordinary course of the post.
 
 **Incorporation by reference**
 
@@ -1797,9 +1797,9 @@ Material incorporated by reference in regulations that expires or that is revoke
 (3) The chief executive—
   (a) may make copies of the material available in any other way that he or she considers appropriate in the circumstances; and
   (b) must, if paragraph (a) applies, give notice in the Gazette stating that the material is available in other ways and giving details of where or how it can be accessed or obtained.
-(4) The chief executive may comply with subsection (2)(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the department to a copy of the material that is available, free of charge, on an Internet site maintained by or on behalf of someone else.
+(4) The chief executive may comply with subsection (2)﻿(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the department to a copy of the material that is available, free of charge, on an Internet site maintained by or on behalf of someone else.
 (5) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
-(6) For the purposes of subsection (2)(c), the chief executive may not rely on section 66 of the Copyright Act 1994 as authority to make the incorporated material available on an Internet site.
+(6) For the purposes of subsection (2)﻿(c), the chief executive may not rely on section 66 of the Copyright Act 1994 as authority to make the incorporated material available on an Internet site.
 
 ### 155 Application of Standards Act 1988 not affected
 Sections 150 to 154 do not affect the application of sections 22 to 25 of the Standards Act 1988.
@@ -1821,12 +1821,12 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
 (3) The EPA may give a direction for the purpose of subsection (1)—
   (a) requiring the whole or part of any hearing or class of hearing at which the information is likely to be referred to be held with the public excluded:
   (b) prohibiting or restricting the publication or communication of any information supplied to it, or obtained by it, in the course of any proceedings, whether or not the information may be material to an application.
-(4) A direction given under subsection (3)(b) in relation to—
-  (a) any matter described in subsection (1)(a) may be expressed to have effect from the commencement of any proceedings to which it relates and for an indefinite period or until such date as the EPA considers appropriate in the circumstances:
-  (b) any matter described in subsection (1)(b) may be expressed to have effect from the commencement of any proceedings to which it relates but will cease to have any effect at the conclusion of those proceedings.
-(5) On the date that a direction prohibiting or restricting the publication or communication of information is given under subsection (3)(b), the provisions of the Official Information Act 1982 cease to apply to the information while the direction remains in effect.
-(6) Any party to any proceedings or class of proceedings before the EPA may apply to the Environment Court for an order under section 279(3)(a) of the Resource Management Act 1991 cancelling or varying any direction given by the EPA.
-(7) Where, on the application of any party to any proceedings or class of proceedings, the EPA has refused to give a direction described in subsection (3), that party may apply to the Environment Court for an order under section 279(3)(b) of the Resource Management Act 1991.
+(4) A direction given under subsection (3)﻿(b) in relation to—
+  (a) any matter described in subsection (1)﻿(a) may be expressed to have effect from the commencement of any proceedings to which it relates and for an indefinite period or until such date as the EPA considers appropriate in the circumstances:
+  (b) any matter described in subsection (1)﻿(b) may be expressed to have effect from the commencement of any proceedings to which it relates but will cease to have any effect at the conclusion of those proceedings.
+(5) On the date that a direction prohibiting or restricting the publication or communication of information is given under subsection (3)﻿(b), the provisions of the Official Information Act 1982 cease to apply to the information while the direction remains in effect.
+(6) Any party to any proceedings or class of proceedings before the EPA may apply to the Environment Court for an order under section 279(3)﻿(a) of the Resource Management Act 1991 cancelling or varying any direction given by the EPA.
+(7) Where, on the application of any party to any proceedings or class of proceedings, the EPA has refused to give a direction described in subsection (3), that party may apply to the Environment Court for an order under section 279(3)﻿(b) of the Resource Management Act 1991.
 (8) In this section, information includes any document or evidence.
 
 ### 158A EPA and Maritime New Zealand to share information
@@ -1879,18 +1879,18 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
   (b) the prospecting, exploration, or mining for petroleum is authorised by a permit granted under section 25 of the Crown Minerals Act 1991 before this Act comes into force or authorised by an existing privilege preserved under clause 12 of Schedule 1 of that Act; and
   (c) the activity was lawfully established before this Act comes into force.
 (2) However, this section does not apply to an existing activity to which section 162 applies.
-(3) The holder of the permit described in subsection (1)(b) must—
+(3) The holder of the permit described in subsection (1)﻿(b) must—
   (a) prepare an impact assessment for the activity; and
   (b) provide the impact assessment to the EPA no later than 2 months after this Act comes into force.
 (4) Section 41 applies to the impact assessment as if it were an application for a marine consent.
-(5) If the holder of the permit described in subsection (1)(b) complies with subsection (3), the activity may continue without a marine consent after the date on which this Act comes into force only—
+(5) If the holder of the permit described in subsection (1)﻿(b) complies with subsection (3), the activity may continue without a marine consent after the date on which this Act comes into force only—
   (a) until the close of the later of—
     (i) the date that is 6 months after that date; or
     (ii) 1 May 2013; but
   (b) if the person undertaking the activity applied for a marine consent within the period described in paragraph (a), until the application—
     (i) is decided under section 62 and any appeals are determined; or
     (ii) is returned as incomplete by the EPA under section 41 and any objections or appeals are determined.
-(6) If the application for a marine consent described in subsection (5)(b) was returned by the EPA under section 41, subsection (5) applies to any new application that replaces the returned application.
+(6) If the application for a marine consent described in subsection (5)﻿(b) was returned by the EPA under section 41, subsection (5) applies to any new application that replaces the returned application.
 (7) Subsection (5) overrides section 20.
 
 ### 162 Existing petroleum mining activities involving structures or pipelines
@@ -1903,7 +1903,9 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
   (b) any change in the character, intensity, or scale of the activity described in subsection (1) made on or after the date on which this Act comes into force; or
   (c) the alteration, extension, removal, or demolition of an existing structure or existing submarine pipeline associated with the activity described in subsection (1).
 (4) The activity to which this section applies may continue without a marine consent for the term of the permit or privilege as it was on the day before this Act comes into force.
-(5) Subsection (4) overrides section 20.
+(5) Despite subsection (4), if an application for a marine consent for an activity to which this section applies is lodged with and accepted as complete by the Environmental Protection Authority no less than 9 months before the end of the term of the permit or privilege as it was on the day before this Act came into force, the activity may continue without a marine consent until the application is decided under section 62 and any appeals are determined.
+(6) Subsections (4) and (5) override section 20.
+(7) If an application for a marine consent for an activity to which this section applies was accepted as complete by the Environmental Protection Authority in 2015 before the date of commencement of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) (Transitional Provisions) Amendment Act 2015 (whether or not decided under section 62 before that date), subsection (5) is deemed also to apply in that case.
 
 ### 163 Other existing activities that become discretionary
 (1) This section applies to an activity that requires a marine consent as a result of this Act coming into force if—
@@ -1917,7 +1919,7 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
   (b) if the person undertaking the activity applies for a marine consent within the period described in paragraph (a), until the application—
     (i) is decided under section 62 and any appeals are determined; or
     (ii) is returned as incomplete under section 41 and any objections or appeals are determined.
-(4) If the application for a marine consent described in subsection (3)(b) was returned by the EPA under section 41, subsection (3) applies to any new application that replaces the returned application.
+(4) If the application for a marine consent described in subsection (3)﻿(b) was returned by the EPA under section 41, subsection (3) applies to any new application that replaces the returned application.
 (5) Subsection (3) overrides section 20.
 
 ### 164 Existing activities that become prohibited
@@ -1955,7 +1957,7 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
   (b) if the person undertaking the activity applies for a marine consent within the period described in paragraph (a), until the application—
     (i) is decided under section 62 and any appeals are determined; or
     (ii) is returned as incomplete by the EPA under section 41 and any objections or appeals are determined.
-(6) If the application for a marine consent described in subsection (5)(b) was returned by the EPA under section 41, subsection (5) applies to any new application that replaces the returned application.
+(6) If the application for a marine consent described in subsection (5)﻿(b) was returned by the EPA under section 41, subsection (5) applies to any new application that replaces the returned application.
 (7) Subsections (2) and (5) override section 20.
 (8) In this section, planned petroleum activity means an activity involved with the exploration, prospecting, or mining for petroleum if,—
   (a) before the Act comes into force, the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that was granted under section 25 of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under clause 12 of Schedule 1 of that Act; and
@@ -1982,7 +1984,7 @@ Any consultation undertaken before the commencement of this section by the Minis
 Sections 169 and 170 amend the Biosecurity Act 1993.
 
 ### 169 Relationship with other enactments
-(1) In section 7(2)(a), replace (6) and section 7A with (6), and sections 7A to 7D.
+(1) In section 7(2)﻿(a), replace (6) and section 7A with (6), and sections 7A to 7D.
 (2) In section 7(2), replace or the Resource Management Act 1991 with the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
 
 ### 170 Section 7A replaced (Relationship with Resource Management Act 1991)
@@ -2033,13 +2035,13 @@ Replace section 7A with:Relationship with Resource Management Act 1991Relationsh
 
 ### 171 Amendment to Continental Shelf Act 1964
 (1) This section amends the Continental Shelf Act 1964.
-(2) Section 8 is amended by repealing subsection (1)(a), (b), (f), (g), (i), and (j).
+(2) Section 8 is amended by repealing subsection (1)﻿(a), (b), (f), (g), (i), and (j).
 
 **Amendments to Crown Organisations (Criminal Liability) Act 2002**
 
 ### 172 Amendments to Crown Organisations (Criminal Liability) Act 2002
 (1) This section amends the Crown Organisations (Criminal Liability) Act 2002.
-(2) Section 6(1) is amended by adding the following paragraph:.
+(2) Section 6(1) is amended by adding the following paragraph:
   (d) an offence against the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
 (3) Section 7(a) is amended by inserting the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, after the Building Act 2004,.
 
@@ -2047,36 +2049,36 @@ Replace section 7A with:Relationship with Resource Management Act 1991Relationsh
 
 ### 173 Amendment to Environment Act 1986
 (1) This section amends the Environment Act 1986.
-(2) The Schedule is amended by inserting the following item in its appropriate alphabetical order:Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(2) The Schedule is amended by inserting the following item in its appropriate alphabetical order:Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
 
 **Amendment to Environmental Protection Authority Act 2011**
 
 ### 174 Amendment to Environmental Protection Authority Act 2011
 (1) This section amends the Environmental Protection Authority Act 2011.
-(2) The definition of environmental Act in section 5 is amended by inserting the following paragraph after paragraph (a):.
+(2) The definition of environmental Act in section 5 is amended by inserting the following paragraph after paragraph (a):
   (ab) the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012:
 
 **Amendment to Fisheries Act 1996**
 
 ### 175 Amendment to Fisheries Act 1996
 (1) This section amends the Fisheries Act 1996.
-(2) Section 11(2) is amended by inserting the following paragraph after paragraph (c):.
+(2) Section 11(2) is amended by inserting the following paragraph after paragraph (c):
   (ca) regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and
 
 **Amendments to Resource Management Act 1991**
 
 ### 176 Amendments to Resource Management Act 1991
 (1) This section amends the Resource Management Act 1991.
-(2) Section 61(2) is amended by adding ; and and also by adding the following paragraph after paragraph (b):.
+(2) Section 61(2) is amended by adding ; and and also by adding the following paragraph after paragraph (b):
   (c) the extent to which the regional policy statement needs to be consistent with regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and
-(3) Section 66(2) is amended by adding ; and and also by adding the following paragraph after paragraph (d):.
+(3) Section 66(2) is amended by adding ; and and also by adding the following paragraph after paragraph (d):
   (e) to the extent to which the regional plan needs to be consistent with regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and
 
 **Amendment to Search and Surveillance Act 2012**
 
 ### 177 Amendment to Search and Surveillance Act 2012
 (1) This section amends the Search and Surveillance Act 2012.
-(2) In the Schedule, after the item relating to the Electricity Industry Act 2010, insert:Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012141(1) and (2)Enforcement officer may enter and inspect a place, vehicle, vessel, or structure to determine whether Act, regulations, marine consent, abatement notice, or enforcement order are being complied withAll (except subparts 2 and 8 and sections 118 and 119)
+(2) In the Schedule, after the item relating to the Electricity Industry Act 2010, insert:The following table is small in size and has 3 columns. This table is an amendment to the table in the Schedule of the Search and Surveillance Act 2012 and should be read with that table to provide understanding of the context.Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012141(1) and (2)Enforcement officer may enter and inspect a place, vehicle, vessel, or structure to determine whether Act, regulations, marine consent, abatement notice, or enforcement order are being complied withAll (except subparts 2 and 8 and sections 118 and 119)
 
 ## Schedule  — Hearings of applications for marine consents for non-notified activities
 
