@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2015-03-03_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -2753,7 +2753,7 @@ The Secretary may appoint an administrator—
 (6) This section does not prevent money raised by, or paid to, a licensed promoter being paid into the society’s bank account if the payment is permitted by the licensed promoter’s agreement with the society.
 
 ### 212 Trust account must be audited
-A licensed promoter’s trust account must be audited by a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) at the times and in the manner prescribed by regulations made under section 219.
+A licensed promoter’s trust account must be audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013) at the times and in the manner prescribed by regulations made under section 219.
 
 ### 213 Licensed promoter must render account to society
 (1) A licensed promoter must render an account to the society that sets out, in full, particulars of—
@@ -3684,7 +3684,7 @@ Every holder of a class 4 venue licence or casino operator’s licence must,—
 
 ### 320 Calculating levy
 (1) The formula in subsection (2) provides a mechanism for allocating among gambling operators, and collecting from them, the approximate cost of an integrated problem gambling strategy.
-(2) The following formula is to be used to assist in estimating the proposed levy rates payable by gambling operators:levy rate =(((A × W1) + (B × W2)) × C) ± RDwhere—Ais the estimated current player expenditure in a sector divided by the total estimated current player expenditure in all sectors subject to the levyBis the customer presentations to problem gambling services that can be attributed to gambling in a sector divided by total customer presentations to problem gambling services in which a sector that is subject to the levy can be identifiedCis the funding requirement for the period for which the levy is payableDis the forecast player expenditure in a sector for the period during which the levy is payableRis the estimated under-recovery or over-recovery of levy from a sector in previous levy periodsW1 and W2are weights, the sum of which is 1.
+(2) The following formula is to be used to assist in estimating the proposed levy rates payable by gambling operators: levy rate =(((A × W1) + (B × W2)) × C) ± RDwhere—Ais the estimated current player expenditure in a sector divided by the total estimated current player expenditure in all sectors subject to the levyBis the customer presentations to problem gambling services that can be attributed to gambling in a sector divided by total customer presentations to problem gambling services in which a sector that is subject to the levy can be identifiedCis the funding requirement for the period for which the levy is payableDis the forecast player expenditure in a sector for the period during which the levy is payableRis the estimated under-recovery or over-recovery of levy from a sector in previous levy periodsW1 and W2are weights, the sum of which is 1.
 (3) In this section,—
   (a) player expenditure,—
     (i) for the New Zealand Racing Board, has the same meaning as betting profits in section 4(2) and (3) of the Gaming Duties Act 1971; and
