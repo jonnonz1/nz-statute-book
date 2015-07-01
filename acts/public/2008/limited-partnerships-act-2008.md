@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2015-05-29_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -544,7 +544,7 @@ A person who searches a register for personal information for a purpose that is 
 (2) Subject to section 68, the registered office of a limited partnership at a particular time is the place that is described as its registered office in the New Zealand register at that time.
 (3) The description of the registered office must—
   (a) state the address of the registered office; and
-  (b) if the registered office is at the offices of any firm of chartered accountants or lawyers, or at the offices of any other person, state—
+  (b) if the registered office is at the offices of any firm of accountants or lawyers, or at the offices of any other person, state—
     (i) that the registered office of the limited partnership is at the offices of that firm or person; and
     (ii) particulars of the location in any building of those offices; or
   (c) if the registered office is not at the offices of a firm or person referred to in paragraph (b) but is located in a building occupied by persons other than the limited partnership, state particulars of its location in the building.
@@ -574,7 +574,7 @@ A person who searches a register for personal information for a purpose that is 
 (3) A limited partnership’s address for service at any particular time is the address that is described as its address for service in the register at that time.
 (4) The description of the address for service must state that it is at the registered office of the limited partnership or, if it is at another place, must—
   (a) state the address of that place; and
-  (b) if the address for service is at the offices of any firm of chartered accountants or lawyers, or the offices of any other person, state—
+  (b) if the address for service is at the offices of any firm of accountants or lawyers, or the offices of any other person, state—
     (i) that the address for service of the limited partnership is at the offices of that firm or person; and
     (ii) particulars of the location in any building of those offices; or
   (c) if the address for service is not at the offices of a firm or person referred to in paragraph (b) but is located in a building occupied by persons other than the limited partnership, state particulars of its location in the building.
@@ -682,7 +682,7 @@ Sections 75 to 75D do not apply to a limited partnership in relation to an accou
 (1) The general partners of a limited partnership must ensure that there is delivered to the Registrar each year, for registration, during the month allocated to the limited partnership for the purpose, an annual return in the prescribed form that contains as much of the information specified in Schedule 2 as is prescribed.
 (2)
 (3) The annual return must be dated as at a day within the month during which the return is required to be delivered to the Registrar and the information required to be contained in it must be compiled as at that date.
-(4) The annual return must be signed by a general partner of the limited partnership or by a lawyer or chartered accountant authorised for that purpose.
+(4) The annual return must be signed by a general partner of the limited partnership or by a lawyer or qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013) authorised for that purpose.
 (5) On registration of a limited partnership under this Act, the Registrar must allocate a month to the limited partnership for the purposes of this section.
 (6) The Registrar may, by written notice to a limited partnership, alter the month allocated to the limited partnership under subsection (5).
 (7) Notwithstanding subsection (1), a limited partnership need not make an annual return in the calendar year of its registration.
