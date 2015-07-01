@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2015-06-06_
+_Consolidation as at 2015-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -70,9 +70,6 @@ Double tax agreements: subpart BH
 (2) Subpart BH (Double tax agreements) provides for the effect of a double tax agreement.
 
 ### Subpart BC — Calculating and satisfying income tax liabilities
-
-| Flowchart B2: Calculating and satisfying income tax liabilities |
-| --- |
 
 ### BC 1 Non-filing and filing taxpayers
 Non-filing taxpayer
@@ -11878,7 +11875,7 @@ Another exclusion
 ### EE 65 Meaning of maximum pooling value
 Meaning
 (1) Maximum pooling value, for an item of depreciable property, means the greater of—
-  (a) $2,000; and
+  (a) $5,000; and
   (b) the value set in a determination issued under section 91AAL of the Tax Administration Act 1994 applying to the item.
 Increase in specified sum
 (2) The Governor-General may make an Order in Council increasing the sum specified in subsection (1)﻿(a).
@@ -42381,7 +42378,7 @@ Purpose of schedule
 ## Schedule 1 — Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits
 
 ### 1 Taxable income: general
-To the extent to which a person does not have a basic rate under clauses 2 to 10, the basic rate of income tax for the person on each dollar of the person's taxable income is calculated using the formula—tax under table 1 ÷ taxable income:Table 1RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1052$14,001 – $48,0000.1753$48,001 – $70,0000.3004$70,001 upwards0.330How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
+To the extent to which a person does not have a basic rate under clauses 2 to 10, the basic rate of income tax for the person on each dollar of the person's taxable income is calculated using the formula—tax under table 1 ÷ taxable income: Table 1This is a small table having 3 columns. The first row is the headings for the columns.RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1052$14,001 – $48,0000.1753$48,001 – $70,0000.3004$70,001 upwards0.330 How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
   (a) tax under table 1 means the total tax, calculated for each dollar in the person’s taxable income, using table 1:
   (b) taxable income means the number of dollars in the person’s taxable income.
 
@@ -42426,13 +42423,13 @@ The basic rate of income tax on each dollar of taxable income derived by the Cro
 | --- |
 
 ### 1 Amount of tax for section RD 67(a)
-For the purposes of section RD 67(a), the amount of tax is determined by applying the relevant rate given by table 1 to each dollar of an employer’s superannuation contribution.Table 1RowESCT rate threshold amountTax rate1$0 – $16,8000.1052$16,801 – $57,6000.1753$57,601 – $84,0000.3004$84,001 upwards0.330How to use this table:Find the range in the second column for the last dollar of the ESCT rate threshold amount, and apply the relevant rate in the third column.
+For the purposes of section RD 67(a), the amount of tax is determined by applying the relevant rate given by table 1 to each dollar of an employer’s superannuation contribution. Table 1This is a small table having 3 columns. The first row is the headings for the columns.RowESCT rate threshold amountTax rate1$0 – $16,8000.1052$16,801 – $57,6000.1753$57,601 – $84,0000.3004$84,001 upwards0.330 How to use this table:Find the range in the second column for the last dollar of the ESCT rate threshold amount, and apply the relevant rate in the third column.
 
 ### 2 Amount of tax for section RD 67(b)
 [Repealed]
 
 ### 3 Interest: general
-If clause 4 does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2.Table 2RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.3302The payer of the interest—0.3303The payer of the interest—0.3304The payer of the interest—0.3005The payer of the interest—0.1756The payer of the interest—0.1757The payer of the interest—0.1058The payer of the interest—0.105How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+If clause 4 does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2. Table 2This is a medium table on 2 pages having 3 columns. The first row on each page is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs, sometimes with subparagraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.3302The payer of the interest—0.3303The payer of the interest—0.3304The payer of the interest—0.3005The payer of the interest—0.1756The payer of the interest—0.1757The payer of the interest—0.1058The payer of the interest—0.105 How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
   (a) has been supplied with the tax file number of a person who opens a new account after 31 March 2010 and who is paid the interest; and
   (b) has not received a payment rate election from the recipient of the interest:
   (c) is not required to use a rate notified by the Commissioner under section 25A of the Tax Administration Act 1994.
@@ -42462,7 +42459,7 @@ If clause 4 does not apply, the payment rate for a payment of resident passive i
   (ii) on or after 1 October 2010, choosing the 0.105 payment rate.
 
 ### 4 Interest: most companies
-The payment rate for a payment of resident passive income that consists of interest is set out in table 3 if the recipient of the payment is a company that is not a trustee or a Maori authority. However, this restriction does not apply if the trustee is a portfolio investment entity.Table 3RowConditionsPayment rate1The payer of the interest—0.282The payer of the interest—0.283The payer of the interest—0.334The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.33How to use this table:Find the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
+The payment rate for a payment of resident passive income that consists of interest is set out in table 3 if the recipient of the payment is a company that is not a trustee or a Maori authority. However, this restriction does not apply if the trustee is a portfolio investment entity. Table 3This is a small table having 3 columns. The first row is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs, sometimes with subparagraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The payer of the interest—0.282The payer of the interest—0.283The payer of the interest—0.334The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.33 How to use this table:Find the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
   (a) has been supplied with the tax file number of a person who is paid interest; and
   (b) has not received a payment rate election from the recipient of the interest, ignoring the receipt of an election for the 0.33 payment rate before 1 October 2010 (if any).
   (a) has been supplied with the tax file number of a person who is paid interest; and
@@ -42476,12 +42473,12 @@ The payment rate for a payment of resident passive income that consists of inter
 The payment rate for a payment of resident passive income that consists of a dividend, or a replacement payment under a share-lending arrangement, is 0.33.
 
 ### 6 Taxable Maori authority distributions
-The payment rate for a payment of resident passive income that consists of a taxable Maori authority distribution is set out in table 4.Table 4RowConditionsPayment rate1The Maori authority makes a taxable Maori authority distribution and does not meet the condition for the 0.33 payment rate in row 2.0.1752The Maori authority:0.33How to use this table:Find the applicable condition, in the middle column, in order to find the relevant rate to apply, in the right column.
+The payment rate for a payment of resident passive income that consists of a taxable Maori authority distribution is set out in table 4. Table 4This is a small table having 3 columns. The first row is the headings for the columns. The entries in column 2 have more than 1 line of text and 1 has paragraphs and subparagraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The Maori authority makes a taxable Maori authority distribution and does not meet the condition for the 0.33 payment rate in row 2.0.1752The Maori authority:0.33 How to use this table:Find the applicable condition, in the middle column, in order to find the relevant rate to apply, in the right column.
   (a) makes a taxable Maori authority distribution that is more than $200; and
   (b) does not have a record of the tax file number of the member to whom the distribution is made.
 
 ### 7 Retirement scheme contributions
-The payment rate for an amount of a retirement scheme contribution made by a retirement scheme contributor for a person is set out in table 5.Table 5RowConditionsPayment rate1The person responsible for withholding RSCT—0.1052The person is a non-resident and a distribution of no more than $200 is made to them by a retirement scheme contributor that is a Maori authority.0.1053The person responsible for withholding RSCT—0.1754The person responsible for withholding RSCT—0.3005When none of rows 1 to 4 apply.0.330How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+The payment rate for an amount of a retirement scheme contribution made by a retirement scheme contributor for a person is set out in table 5. Table 5This is a small table having 3 columns. The first row is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPayment rate1The person responsible for withholding RSCT—0.1052The person is a non-resident and a distribution of no more than $200 is made to them by a retirement scheme contributor that is a Maori authority.0.1053The person responsible for withholding RSCT—0.1754The person responsible for withholding RSCT—0.3005When none of rows 1 to 4 apply.0.330 How to use this table:Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
   (a) has been notified under section 28C of the Tax Administration Act 1994 that 12.5 or 10.5 cents in the dollar is the person's retirement scheme prescribed rate; and
   (b) has been supplied with the tax file number of the person.
   (a) has been notified under section 28C of the Tax Administration Act 1994 that 21 or 17.5 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and
@@ -42842,7 +42839,7 @@ The minimum tax value of a motor vehicle to which this schedule applies is $8,33
 ## Schedule 6 — Prescribed rates: PIE investments and retirement scheme contributions
 
 ### 1 PIE investments
-The prescribed investor rate for a person who is an investor in a multi-rate PIE is set out in table 1.Table 1RowConditionsPrescribed rate1For a natural person who is resident in New Zealand, other than a person described in row 4 or 6.0.2802For a non-resident person other than a person described in row 7B or 9.0.2803For a person who—0.2804For a natural person who is resident in New Zealand and is not a person described in row 6 and who, in either of the 2 income years before the relevant tax year, derives—0.1755For a person who—0.1756For a natural person who is resident in New Zealand and who, in either of the 2 income years before the relevant tax year, derives—0.1057For a person who—0.1057BFor a non-resident person who is a notified foreign investor in a foreign investment variable-rate PIE, see table 1B for the applicable rate for the amount of income.variable8For a person who is a zero-rated investor or an investor treated under section HM 61 as zero-rated.0.0009For a non-resident person who is a notified foreign investor in a foreign investment zero-rate PIE.0.00010For a transitional resident who is an investor in a foreign investment zero-rate PIE.0.000How to use this tableFind the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
+The prescribed investor rate for a person who is an investor in a multi-rate PIE is set out in table 1. Table 1This is a small table on 2 pages having 3 columns. The first row on each page is the headings for the columns. The entries in column 2 have more than 1 line of text and several have paragraphs. The entries in column 3 are on the same line as the last line of the entry in column 2, except for the row numbered 2.RowConditionsPrescribed rate1For a natural person who is resident in New Zealand, other than a person described in row 4 or 6.0.2802For a non-resident person other than a person described in row 7B or 9.0.2803For a person who—0.2804For a natural person who is resident in New Zealand and is not a person described in row 6 and who, in either of the 2 income years before the relevant tax year, derives—0.1755For a person who—0.1756For a natural person who is resident in New Zealand and who, in either of the 2 income years before the relevant tax year, derives—0.1057For a person who—0.1057BFor a non-resident person who is a notified foreign investor in a foreign investment variable-rate PIE, see table 1B for the applicable rate for the amount of income.variable8For a person who is a zero-rated investor or an investor treated under section HM 61 as zero-rated.0.0009For a non-resident person who is a notified foreign investor in a foreign investment zero-rate PIE.0.00010For a transitional resident who is an investor in a foreign investment zero-rate PIE.0.000 How to use this tableFind the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
   (a) is resident in New Zealand and who derives income for the relevant tax year as a trustee of a trust other than a trust with income that is exempt income under section CW 41 or CW 42; and
   (b) notifies this rate for the relevant tax year.
   (a) $48,000 or less in taxable income; and
@@ -42855,10 +42852,10 @@ The prescribed investor rate for a person who is an investor in a multi-rate PIE
   (b) notifies this rate for the relevant tax year.
 
 ### 1B Foreign investment variable-rate PIEs and notified foreign investors
-A foreign investment variable-rate PIE must apply the prescribed investor rates set out in table 1B in relation to income attributed to notified foreign investors in the PIE.Table 1BRowAmountsPrescribed rate1To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who does not reside in a country with which New Zealand has a double tax agreement.0.30002An amount other than an amount referred to in rows 1, 3 to 7, and 9 that has a source in New Zealand.0.28003To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who resides in a country with which New Zealand has a double tax agreement.0.15004A fully imputed dividend derived from a company resident in New Zealand in relation to which a supplementary dividend is paid.0.15005A supplementary dividend.0.15006Interest derived under a financial arrangement, being an amount referred to in the definition of interest, paragraph (a) or (b), that has a source in New Zealand and is of an amount calculated under subpart EW.0.01447A fully imputed dividend derived from a company resident in New Zealand, other than a dividend in relation to which a supplementary dividend is paid.0.00008A foreign-sourced amount.0.00009An amount derived under a financial arrangement that has a source in New Zealand other than an amount of interest referred to in row 4.0.0000
+A foreign investment variable-rate PIE must apply the prescribed investor rates set out in table 1B in relation to income attributed to notified foreign investors in the PIE. Table 1BThis is a small table having 3 columns. The first row is the headings for the columns. Most of the entries in column 2 have more than 1 line of text. The entries in column 3 are on the same line as the last line of the entry in column 2.RowAmountsPrescribed rate1To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who does not reside in a country with which New Zealand has a double tax agreement.0.30002An amount other than an amount referred to in rows 1, 3 to 7, and 9 that has a source in New Zealand.0.28003To the extent to which it is not fully imputed, a dividend derived from a company resident in New Zealand attributed to an investor who resides in a country with which New Zealand has a double tax agreement.0.15004A fully imputed dividend derived from a company resident in New Zealand in relation to which a supplementary dividend is paid.0.15005A supplementary dividend.0.15006Interest derived under a financial arrangement, being an amount referred to in the definition of interest, paragraph (a) or (b), that has a source in New Zealand and is of an amount calculated under subpart EW.0.01447A fully imputed dividend derived from a company resident in New Zealand, other than a dividend in relation to which a supplementary dividend is paid.0.00008A foreign-sourced amount.0.00009An amount derived under a financial arrangement that has a source in New Zealand other than an amount of interest referred to in row 4.0.0000
 
 ### 2 Retirement scheme contributions
-The retirement scheme prescribed rate for a person in relation to a retirement scheme contribution made for them is set out in table 2.Table 2RowConditionsPrescribed rate1For a person other than a person described in any of rows 2 to 7.0.3302For a person who, in either of the 2 income years before the income year in which the contribution is made, derives more than $48,000 but not more than $70,000 in taxable income.0.3003For a person who is not a person described in row 2 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $14,000 but not more than $48,000 in taxable income.0.1754For a person who is not a person described in row 2 or 3 and who, in either of the 2 income years before the income year in which the contribution is made, derives taxable income of $14,000 or less.0.1055For a non-resident person to whom a distribution of no more than $200 is made by a retirement scheme contributor that is a Maori authority.0.1056For a non-resident person who supplies a retirement scheme contributor that is a Maori authority with a notice under section 28C of the Tax Administration Act 1994.0.1057For a non-resident person in relation to a contribution that consists of non-resident passive income.0.000How to use this tableFind the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+The retirement scheme prescribed rate for a person in relation to a retirement scheme contribution made for them is set out in table 2. Table 2This is a small table having 3 columns. The first row is the headings for the columns. Most of the entries in column 2 have more than 1 line of text. The entries in column 3 are on the same line as the last line of the entry in column 2.RowConditionsPrescribed rate1For a person other than a person described in any of rows 2 to 7.0.3302For a person who, in either of the 2 income years before the income year in which the contribution is made, derives more than $48,000 but not more than $70,000 in taxable income.0.3003For a person who is not a person described in row 2 and who, in either of the 2 income years before the income year in which the contribution is made, derives more than $14,000 but not more than $48,000 in taxable income.0.1754For a person who is not a person described in row 2 or 3 and who, in either of the 2 income years before the income year in which the contribution is made, derives taxable income of $14,000 or less.0.1055For a non-resident person to whom a distribution of no more than $200 is made by a retirement scheme contributor that is a Maori authority.0.1056For a non-resident person who supplies a retirement scheme contributor that is a Maori authority with a notice under section 28C of the Tax Administration Act 1994.0.1057For a non-resident person in relation to a contribution that consists of non-resident passive income.0.000 How to use this tableFind the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
 
 ## Schedule 10 — Straight-line equivalents of diminishing value rates of depreciation
 
@@ -43008,42 +43005,7 @@ The retirement scheme prescribed rate for a person in relation to a retirement s
 
 ## Schedule 13 — Depreciable land improvements
 
-| 1 | airport runways |
-| --- | --- |
-| 2 | bores and wells |
-| 3 | bridges |
-| 4 | chimneys |
-| 5 | culverts |
-| 6 | dams |
-| 7 | fences |
-| 8 | hardstanding |
-| 9 | reservoirs |
-| 10 | retaining walls |
-| 11 | roads |
-| 12 | spillways |
-| 13 | swimming pools |
-| 14 | tanks |
-| 15 | tunnels |
-| 16 | wharves |
-| 17 | pipes |
-| 18 | purpose-built surfaces for outdoor sports facilities |
-
 ## Schedule 14 — Depreciable intangible property
-
-| 1 | the right to use a copyright |
-| --- | --- |
-| 2 | the right to use a design or model, plan, secret formula or process, or other like property or right |
-| 3 | a patent or the right to use a patent |
-| 4 | a patent application with a complete specification lodged on or after 1 April 2005 |
-| 5 | the right to use land |
-| 6 | the right to use plant or machinery |
-| 7 | the copyright in software, the right to use the copyright in software, or the right to use software |
-| 8 | the right to use a trademark |
-| 9 | management rights and licence rights created under the Radiocommunications Act 1989 |
-| 10 | a consent granted under the Resource Management Act 1991 to do something that otherwise would contravene sections 12 to 15B of that Act (other than a consent for a reclamation), being a consent granted in or after—athe 1996–97 tax year, if the consent relates to sections 12 to 15 of that Act; orbthe 2014–15 income year, if the consent relates to sections 15A and 15B of that Act |
-| 11 | the copyright in a sound recording, if the copyright was produced or purchased by the taxpayer on or after 1 July 1997, and copies of the recording have been sold or offered for sale to the public |
-| 12 | plant variety rights granted under the Plant Variety Rights Act 1987 or similar rights given similar protection under the laws of a country or territory other than New Zealand |
-| 13 | a right to use plant variety rights granted under the Plant Variety Rights Act 1987 or a similar right under the laws of a country or territory other than New Zealand |
 
 ## Schedule 17 — Types and classes of livestock
 
@@ -43186,25 +43148,6 @@ expenditure related to the acquisition of land
 ## Schedule 21 — Expenditure and activities related to research and development
 
 ## Schedule 24 — International tax rules: grey list countries
-
-| 1 | Australia, excluding the Territory of Norfolk Island |
-| --- | --- |
-| 2 | Canada |
-| 3 | Federal Republic of Germany |
-| 4 | Japan |
-| 5 | United Kingdom of Great Britain and Northern Ireland |
-| 6 | United States of America, excluding its possessions and territories |
-| 7 | Norway |
-| 8 | Kingdom of Spain |
-
-| 1 | Any exemption from income tax for income derived from business activities carried on outside the country. |
-| --- | --- |
-| 2 | In the case of Australia, any special allowances, reliefs, or exemptions with respect to offshore banking units. |
-| 3 | In the case of Canada, any special allowances, reliefs, or exemptions with respect to international banking centres. |
-| 4 | In the case of the Federal Republic of Germany, any special allowances, reliefs, or exemptions with respect to regional located investment in the former German Democratic Republic or in West Berlin. |
-| 5 | In the case of the United Kingdom of Great Britain and Northern Ireland, any special allowances, reliefs, or exemptions with respect to activities carried on in enterprise zones. |
-| 6 | In the case of Canada, any special allowances, reliefs, or exemptions provided to non-resident owned investment corporations pursuant to section 133 of the Income Tax Act (Canada). |
-| 7 | In the case of the Kingdom of Spain, any special allowances, reliefs, or exemptions with respect to activities that are carried on in, or by an enterprise registered in, the following:aCanary Islands:bCeuta:cMelilla:dAlava:eGuipúzcoa:fVizcaya:gNavarra. |
 
 ## Schedule 25 — Foreign investment funds
 
