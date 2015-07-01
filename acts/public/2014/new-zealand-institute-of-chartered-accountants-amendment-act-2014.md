@@ -1,5 +1,5 @@
 # New Zealand Institute of Chartered Accountants Amendment Act 2014
-_Consolidation as at 2014-11-25_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the New Zealand Institute of Chartered Accountants Amendment Act 2014.
@@ -12,7 +12,7 @@ This Act is the New Zealand Institute of Chartered Accountants Amendment Act 201
 This Act amends the New Zealand Institute of Chartered Accountants Act 1996 (the principal Act).
 
 ### 4 Section 2 amended (Interpretation)
-In section 2, insert in their appropriate alphabetical order:.
+In section 2, insert in their appropriate alphabetical order:
   - **Executive Board** means the Executive Board of the Institute referred to in section 6(1)﻿(e)
   - **specified association** means the association of accountants that is declared to be the specified association under section 8A
 
@@ -21,9 +21,9 @@ After section 2, insert:Transitional, savings, and related provisions
   The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 6 Section 5 amended (Functions of Institute)
-(1) Before section 5(a), insert:.
+(1) Before section 5(a), insert:
   (aa) to carry out the duty imposed under section 5A:
-(2) Replace section 5(b) with:.
+(2) Replace section 5(b) with:
   (b) to promote the profession of accountancy by its members in New Zealand:
 
 ### 7 New sections 5A to 5C inserted
@@ -46,7 +46,7 @@ After section 5, insert:Duty to control and regulate profession of accountancy p
 
 ### 8 Section 6 amended (Rules of Institute)
 (1) Repeal section 6(1)﻿(d).
-(2) After section 6(1)﻿(j), insert:.
+(2) After section 6(1)﻿(j), insert:
   (ja) the recognition of persons for the purposes of sections 36(1)﻿(a) and 36C of the Financial Reporting Act 2013, for keeping such recognition under review, and for the cancellation and suspension of such recognition; and
   (jb) the powers of a person to whom functions are delegated under section 5B(2), the effect of a delegation on the Institute, and the revocation of a delegation; and
 (3) In section 6(4), replace Council with Executive Board.
