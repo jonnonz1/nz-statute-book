@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -34,8 +34,10 @@ The purpose of this Act is to—
   - **accounting period** , in relation to a reporting entity,—
     (a) means a year ending on a balance date of the entity, and if, as a result of the date of the formation or incorporation of the entity or a change of the balance date of the entity, the period ending on that date is longer or shorter than a year, that longer or shorter period is an accounting period; and
     (b) includes, in the case of an entity that is formed or incorporated under, or is affected by, an Act that specifies, refers to, or defines a financial year for the entity, that financial year
+  - **accredited body** means a person that is granted accreditation, or is treated as having been granted accreditation, under subpart 5 of Part 2 of the Auditor Regulation Act 2011
   - **applicable auditing and assurance standard** , in relation to an audit, means an auditing and assurance standard that applies to the audit in accordance with the standard
   - **applicable financial reporting standard** , in relation to a reporting entity and to an accounting period or an interim accounting period of a reporting entity, means a financial reporting standard that applies to the reporting entity and to the accounting period or the interim accounting period in accordance with the financial reporting standard
+  - **approved association** means an association of accountants that is approved for the time being by the Registrar under section 36(1)﻿(c)
   - **auditing and assurance standard** means an auditing and assurance standard issued by the Board under section 12; and includes an amendment to an auditing and assurance standard that is issued by the Board
   - **authoritative notice** means a notice issued under section 12(c); and includes an amendment to an authoritative notice that is issued by the Board
   - **balance date** —
@@ -68,13 +70,19 @@ The purpose of this Act is to—
   - **generally accepted accounting practice** has the meaning given to it by section 8
   - **group** means a group comprising a reporting entity and its subsidiaries
   - **group financial statements** has the meaning given to it by section 7
+  - **Institute** means the New Zealand Institute of Chartered Accountants constituted under the New Zealand Institute of Chartered Accountants Act 1996
   - **interim accounting period** , in relation to a reporting entity, means a period ending on a date other than the balance date of the reporting entity
   - **large** has the meaning given to it by section 45
   - **licensed auditor** has the same meaning as in section 6(1) of the Auditor Regulation Act 2011
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **non-GAAP standard** means a financial reporting standard that is stated in the standard to be a non-GAAP standard
   - **overseas company** means a body corporate that is incorporated outside New Zealand
+  - **qualified statutory accountant** means a person who is—
+    (a) a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
+    (b) a member of an accredited body (other than the Institute) who holds the full professional designation of that body (for example, a certified practising accountant); or
+    (c) recognised under section 36S
   - **registered audit firm** has the same meaning as in section 6(1) of the Auditor Regulation Act 2011
+  - **Registrar** means the Registrar of Companies appointed in accordance with section 357(1) of the Companies Act 1993
   - **reporting entity** means an entity whose financial statements, group financial statements, reports, or other information is required by any enactment to comply, or be prepared in accordance, with generally accepted accounting practice or non-GAAP standards
   - **specified not-for-profit entity** has the meaning given to it by section 46
   - **standard** means—
@@ -104,6 +112,9 @@ In this Act, financial statements, group financial statements, a report, or othe
   (a) an Act that applies to an entity (A) provides that the financial statements of A must comply, or be prepared in accordance with, generally accepted accounting practice; and
   (b) another Act that applies to A provides that the financial statements of A must comply, or be prepared in accordance with, either generally accepted accounting practice or a non-GAAP standard.
 (2) The financial statements of A must comply, or be prepared in accordance with, generally accepted accounting practice.
+
+### 9A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in the Schedule have effect according to their terms.
 
 ### 10 Act binds the Crown
 This Act binds the Crown.
@@ -171,7 +182,7 @@ Except as expressly provided otherwise in this or another Act, the Board must ac
     (iii) the social, environmental, and economic context in which an entity operates:
     (iv) any other matter relating to an entity's performance or position; and
   (b) specify conditions to which the authorisation is subject.
-(3) The Minister may make a recommendation only if he or she is satisfied that it is desirable for standards referred to in subsection (2)(a) to be issued in order to provide for the integrated reporting of an entity's performance or position in terms of both financial and non-financial information.
+(3) The Minister may make a recommendation only if he or she is satisfied that it is desirable for standards referred to in subsection (2)﻿(a) to be issued in order to provide for the integrated reporting of an entity's performance or position in terms of both financial and non-financial information.
 (4) This section does not limit section 15.
 
 ### 18 Non-GAAP standards
@@ -276,7 +287,7 @@ The Board must take reasonable steps to implement the strategy.
 ### 31 Minister may approve variation or replacement of strategy
 (1) The Minister may, after receiving a proposal for the variation or replacement of the strategy prepared by the Board under section 32, either approve or decline to approve the variation or replacement.
 (2) The Minister may decline to approve the variation or replacement only if, in his or her opinion,—
-  (a) the Board has not had sufficient regard to the matters specified in section 32(1)(a); or
+  (a) the Board has not had sufficient regard to the matters specified in section 32(1)﻿(a); or
   (b) the Board has not adequately consulted on the proposal under section 33.
 
 ### 32 Process for preparing proposals to vary or replace strategy
@@ -289,7 +300,7 @@ The Board must take reasonable steps to implement the strategy.
     (i) specifies the qualifying criteria for each tier of financial reporting; and
     (ii) describes the financial reporting requirements that will apply for each tier of financial reporting; and
     (iii) includes any other prescribed matters.
-(2) The description under subsection (1)(b)(ii) may refer to—
+(2) The description under subsection (1)﻿(b)﻿(ii) may refer to—
   (a) a set of standards (for example, International Financial Reporting Standards and International Public Sector Accounting Standards):
   (b) specific standards:
   (c) accounting policies, principles, concepts, or methods (for example, the principles of accrual accounting):
@@ -306,8 +317,9 @@ The Board must take reasonable steps to implement the strategy.
 ### 34 Purpose and application
 (1) The purpose of this subpart is to provide for the following standard provisions to apply for the purposes of various enactments:
   (a) provisions relating to who may be appointed or act as the auditor of an entity:
-  (b) provisions relating to access to information by an auditor.
-(2) This subpart applies to an entity (a specified entity) if an enactment requires or provides for a qualified auditor, as defined in section 35, to be appointed or to act as the auditor of the entity.
+  (b) provisions relating to access to information by an auditor:
+  (c) offences for an unqualified person to act as an auditor or to hold himself, herself, or itself out as being a qualified auditor.
+(2) This subpart applies to an entity (a specified entity) if an enactment requires or provides for a qualified auditor, as defined in section 35, to be appointed or to act as the auditor of the entity or of its financial statements.
 
 **Auditor qualifications**
 
@@ -315,26 +327,262 @@ The Board must take reasonable steps to implement the strategy.
 A person is a qualified auditor in respect of a specified entity if the person is qualified to be appointed or to act as the auditor of the entity under section 36.
 
 ### 36 Qualifications of auditor
-(1) A person is not qualified to be appointed or to act as the auditor of a specified entity unless—
-  (a) the person is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
+(1) A person is not qualified to be appointed or to act as the auditor of a specified entity (or of its financial statements) unless—
+  (a) the person is—
+    (i) a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); and
+    (ii) recognised by the Institute, in accordance with the rules of that body, as being eligible to act as an auditor in respect of entities of the same kind as the specified entity; or
+  (ab) the person is—
+    (i) a member of an accredited body; and
+    (ii) recognised by the accredited body, in accordance with the rules of that body, as being eligible to act as an auditor in respect of entities of the same kind as the specified entity; or
   (b) the person is a licensed auditor; or
   (c) the person is a natural person who is a member, a fellow, or an associate of an association of accountants constituted outside New Zealand and—
-    (i) the association is, by notice in the Gazette, approved for the time being for the purposes of this section by the Registrar of Companies; and
+    (i) the association is, by notice in the Gazette, approved for the time being for the purposes of this section by the Registrar in accordance with section 36A(1); and
+    (ia) the person is recognised by the association, in accordance with the rules of that association, as being eligible to act as an auditor in respect of entities of the same kind as the specified entity; and
     (ii) the person is eligible to act as an auditor in the country, State, or territory in which the association is constituted; or
   (d) the person, not being a person to whom paragraph (c) applies, is a natural person who is—
     (i) eligible to act as an auditor in a country, State, or territory outside New Zealand; and
-    (ii) approved for the time being for the purposes of this section by the Registrar of Companies by notice in the Gazette.
+    (ii) approved for the time being for the purposes of this section by the Registrar by notice in the Gazette in accordance with section 36A(2); or
+  (e) the person is a company, or an overseas company, that is a registered audit firm; or
+  (f) the person is a company that is recognised, in accordance with section 36C, as being eligible to act as an auditor in respect of entities of the same kind as the specified entity; or
+  (g) the person is an overseas company that—
+    (i) is recognised, in accordance with section 36C, as being eligible to act as an auditor in respect of entities of the same kind as the specified entity; and
+    (ii) is incorporated or constituted in a country, State, or territory that is approved for the time being under section 36D; and
+    (iii) has a legal structure that is approved for the time being under section 36D.
 (2) However, if the specified entity is—
-  (a) an FMC reporting entity or a person to whom section 55 applies, a person is not a qualified auditor of the entity unless he or she is a licensed auditor:
+  (a) an FMC reporting entity or a person to whom section 55 applies, a person is not a qualified auditor of the entity unless he, she, or it is a licensed auditor or a body corporate that is a registered audit firm:
   (b) a public entity under the Public Audit Act 2001, the Auditor-General or any other person who may act as the auditor under that Act is the auditor of the entity (and is the only qualified auditor in respect of that entity).
-(3) Subsection (2)(a) is subject to subsection (2)(b).
-(4) None of the following persons is qualified to be appointed or to act as the auditor of a specified entity:
+(3) Subsection (2)﻿(a) is subject to subsection (2)﻿(b).
+(4) None of the following persons is qualified to be appointed or to act as the auditor of a specified entity (or of its financial statements):
   (a) a director or an employee of the specified entity:
   (b) a person who is a partner, or in the employment, of a director or an employee of the specified entity:
   (c) a liquidator or a person who is a receiver in respect of the property of the specified entity:
-  (d) a body corporate:
+  (d) a body corporate (unless the body corporate is a registered audit firm or recognised as referred to in subsection (1)﻿(f) or (g)):
   (e) a person who, by virtue of paragraph (a) or (b), may not be appointed or act as auditor of a related body corporate (within the meaning of section 12(2) of the Financial Markets Conduct Act 2013).
 (5) This section is subject to section 37.
+(6) A notice in the Gazette referred to in this section or section 36D is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+
+### 36A Power of Registrar of Companies to approve associations and auditors
+(1) The Registrar may, after receiving an application from an association of accountants, approve the association under section 36(1)﻿(c)﻿(i) if, after taking into account the prescribed matters (if any), the Registrar is satisfied that the association satisfies the requirements that are prescribed for the purposes of this subsection.
+(2) The Registrar may, after receiving an application from a natural person, approve the person under section 36(1)﻿(d)﻿(ii) if, after taking into account the prescribed matters (if any), the Registrar is satisfied that the person—
+  (a) satisfies the requirements that are prescribed for the purposes of this paragraph; and
+  (b) satisfies the minimum standards that are prescribed for the purposes of this paragraph.
+(3) An application under subsection (1) or (2) must be accompanied by the prescribed fee.
+(4) The Registrar may, by written notice given to an association or other person,—
+  (a) impose conditions on the approval of that association or person under section 36(1)﻿(c)﻿(i) or (d)﻿(ii); and
+  (b) vary, revoke, add to, or substitute any such conditions at any time.
+(5) The Registrar may impose any conditions that the Registrar thinks fit (for example, conditions that impose limits or restrictions on the ability of an approved association to recognise its members or conditions that impose limits or restrictions on the types of audits that a person approved under section 36(1)﻿(d) may carry out).
+
+### 36B Approved associations and persons must report to Registrar
+(1) Every approved association and every person who is approved under section 36(1)﻿(d) must, at the prescribed times or on the occurrence of the prescribed events and otherwise in the prescribed manner, send to the Registrar reports that contain the prescribed information (together with a prescribed fee).
+(2) If an approved association (A) becomes aware that it does not comply, or no longer complies, with the requirements for approval under section 36A(1), A—
+  (a) must, as soon as practicable, give written notice of that non-compliance to the Registrar; and
+  (b) must cease to give recognition under section 36(1)﻿(c)﻿(ia) to any person who applies for or requests recognition after A becomes so aware.
+(3) If a person who is approved under section 36(1)﻿(d) (B) becomes aware that he or she does not comply, or no longer complies, with the requirements or minimum standards for approval under section 36A(2), B—
+  (a) must, as soon as practicable, give written notice of that non-compliance to the Registrar; and
+  (b) must not act as the auditor of a specified entity or of its financial statements.
+(4) If an approved association or a person who is approved under section 36(1)﻿(d) fails to comply with this section, the approval of that association or person is treated as suspended until—
+  (a) a date specified in a notice given by the Registrar to the association or person; or
+  (b) the approval is cancelled under section 36I.
+
+### 36C Institute, accredited bodies, and approved associations may recognise body corporate as eligible to act as auditor
+(1) The Institute, any other accredited body, or an approved association may recognise a company or an overseas company for the purposes of section 36(1)﻿(f) or (g) if, after taking into account the prescribed matters, the Institute, accredited body, or approved association is satisfied that the company or overseas company—
+  (a) satisfies the requirements that are prescribed for the purposes of this paragraph; and
+  (b) satisfies the minimum standards that are prescribed for the purposes of this paragraph; and
+  (c) has at least 1 director who is—
+    (i) a member of the Institute, accredited body, or approved association; and
+    (ii) a qualified auditor under any of paragraphs (a) to (d) of section 36(1) (in respect of all specified entities or 1 or more kinds of specified entities).
+(2) Recognition may relate to all specified entities or to 1 or more kinds of specified entities.
+
+### 36D Registrar of Companies may approve overseas countries and legal structures
+(1) The Registrar may, by notice in the Gazette, approve, for the purposes of section 36(1)﻿(g),—
+  (a) a country, State, or territory; and
+  (b) a specified legal structure of that country, State, or territory (for example, a company incorporated under the law of a particular overseas country).
+(2) The Registrar must, before approving a country, State, or territory and a legal structure, be satisfied that—
+  (a) the law or the regulatory requirements of that country, State, or territory impose requirements relating to auditor independence that are equivalent to, or as satisfactory as, the requirements that apply to New Zealand auditors; and
+  (b) entities that have that legal structure are eligible to act as an auditor in that country, State, or territory.
+(3) The Registrar may not approve as a legal structure any kind of overseas limited partnership (within the meaning of section 4 of the Limited Partnerships Act 2008).
+
+### 36E Institute, accredited bodies, and approved associations must keep recognition under review
+(1) The Institute, any other accredited body, or an approved association that recognises any person for the purposes of section 36(1) must maintain adequate and effective systems for keeping under review the recognition of those persons.
+(2) The purpose of the review is to provide reasonable assurance that the requirements and minimum standards for recognition continue to be satisfied.
+(3) The systems must include an annual review of each person who is recognised (for example, by requiring the person to verify that the requirements and any minimum standards for recognition continue to be satisfied).
+
+### 36F Body corporate must ensure that engagement director is qualified auditor
+(1) If a body corporate (A) referred to in section 36(1)﻿(e), (f), or (g) is appointed or is acting as the auditor of a specified entity or of its financial statements, A must ensure that each engagement director is a qualified auditor under any of paragraphs (a) to (d) of section 36(1).
+(2) In this section, engagement director, in respect of an audit where A is appointed or is acting, means the director or other person in A who is responsible for the audit and the performance of the audit and for the audit report that is issued on behalf of A.
+
+### 36G Recognised body corporate must not act if requirements no longer met
+If a body corporate (A) that is recognised for the purposes of section 36(1)﻿(f) or (g) becomes aware that A does not comply, or no longer complies, with the requirements or minimum standards for recognition under section 36C, A—
+  (a) must not act as the auditor of a specified entity or of its financial statements; and
+  (b) must, as soon as practicable, give written notice of that non-compliance to the Institute, the accredited body, or the approved association that recognised A.
+
+### 36H Offence relating to section 36F or 36G
+(1) If a body corporate (A) fails to comply with section 36F or 36G,—
+  (a) A commits an offence and is liable on conviction to a fine not exceeding $150,000; and
+  (b) every director of A also commits an offence and is liable on conviction to a fine not exceeding $50,000.
+(2) It is a defence to a director charged with an offence in relation to the duty imposed under section 36F or 36G if the director proves that—
+  (a) A took all reasonable and proper steps to ensure that the duty would be complied with; or
+  (b) he or she took all reasonable steps to ensure that A complied with the duty; or
+  (c) in the circumstances, he or she could not reasonably have been expected to take steps to ensure that A complied with the duty.
+
+### 36I Cancellation or suspension of recognition or approval
+(1) The Institute, any other accredited body, or an approved association may, in accordance with its rules, cancel or suspend its recognition of a person for the purposes of section 36(1)﻿(a) or (ab) or (c)﻿(ia) if the Institute, body, or association considers that the grounds for cancellation or suspension specified in its rules are satisfied.
+(2) The Institute or any other accredited body may cancel or suspend the recognition of a person for the purposes of section 36(1)﻿(a) or (ab) if—
+  (a) the person is or was subject to an arrangement referred to in section 36T; and
+  (b) the Institute or body is satisfied that—
+    (i) the person has failed to comply with that arrangement in any material respect; or
+    (ii) the term of the arrangement has ended.
+(3) The Registrar may—
+  (a) cancel or suspend his or her approval of an association for the purposes of section 36(1)﻿(c) if the Registrar considers that the association does not satisfy, or no longer satisfies, the requirements prescribed for the purposes of section 36A(1):
+  (b) cancel or suspend his or her approval of a person for the purposes of section 36(1)﻿(d) if the Registrar considers that the person does not satisfy, or no longer satisfies, the requirements or minimum standards prescribed for the purposes of section 36A(2)﻿(a) or (b):
+  (c) cancel or suspend his or her approval of an association or a person for the purposes of section 36(1)﻿(c) or (d) if the Registrar considers that the association or person has failed to comply with any conditions under section 36A(4):
+  (d) cancel his or her approval of an association or a person for the purposes of section 36(1)﻿(c) or (d) on the written request of the association or person.
+(4) The Institute, any other accredited body, or an approved association may—
+  (a) cancel or suspend its recognition of a person for the purposes of section 36(1)﻿(f) or (g) if the Institute, body, or association considers that the person does not satisfy, or no longer satisfies, the requirements or minimum standards prescribed for the purposes of section 36C(1)﻿(a) or (b):
+  (b) cancel its recognition of a person for the purposes of section 36(1) on the written request of the person.
+(5) A suspension under—
+  (a) subsection (1), (2), or (4) is for the period that the Institute, accredited body, or approved association thinks fit or until the person satisfies any requirements specified by the Institute, body, or association:
+  (b) subsection (3) is for the period that the Registrar thinks fit or until the association or person satisfies any requirements specified by the Registrar.
+(6) If a person that has been recognised for the purposes of section 36(1)﻿(f) or (g) no longer has at least 1 director of the kind referred to in section 36C(1)﻿(c), the recognition is treated as suspended until the person again has at least 1 director of that kind (or the recognition is sooner cancelled).
+(7) If the Institute, an accredited body, an approved association, or the Registrar cancels the recognition or approval of a person (A), the Institute, body, association, or Registrar (as the case may be) may give a written notice to A stating that A may not apply to be re-recognised or re-approved before the expiry of a specified period (and that notice is binding on A).
+
+### 36J Effect of cancellation or suspension of accreditation or approval on recognition under section 36
+(1) If the accreditation of the Institute or of an accredited body (A) is—
+  (a) cancelled under section 59 of the Auditor Regulation Act 2011, any recognition given by A and referred to in section 36(1) is treated as cancelled:
+  (b) suspended under section 59 of that Act, any recognition given by A and referred to in section 36(1) is treated as suspended during the period in which A's accreditation is suspended.
+(2) If the approval of an association (A) as an approved association is—
+  (a) cancelled by the Registrar, any recognition given by A and referred to in section 36(1)﻿(c), (f), or (g) is treated as cancelled:
+  (b) suspended by the Registrar, any recognition given by A and referred to in section 36(1)﻿(c), (f), or (g) is treated as suspended during the period in which A’s approval is suspended.
+(3) Subsection (1) or (2) does not apply if the person who is recognised by A is also recognised by another accredited body or approved association for the purposes of section 36(1).
+
+### 36K Registrar of Companies may authorise person to continue to act in respect of audit despite cancellation or suspension under section 36J
+(1) This section applies if—
+  (a) a person's recognition is cancelled or suspended under section 36J; and
+  (b) the person is acting, or has been appointed to act, as the auditor in respect of an audit at the time that the recognition is cancelled or suspended.
+(2) The Registrar may authorise the person to act, or to continue to act, as the auditor in respect of the audit on the terms and conditions that the Registrar thinks fit.
+(3) The person may act, or continue to act, as the auditor in respect of the audit in accordance with the terms and conditions of the authorisation (and, for the purposes of that audit, the person's recognition must be treated as continuing).
+
+### 36L Notification of recognised and approved persons
+(1) The Institute, any other accredited body, or an approved association must,—
+  (a) as soon as practicable after recognising a person (A) for the purposes of section 36(1), give A written notice of the recognition:
+  (b) as soon as practicable after cancelling or suspending such recognition, give A written notice of the cancellation or suspension.
+(2) The Registrar must,—
+  (a) as soon as practicable after approving a person (B) for the purposes of section 36(1)﻿(c) or (d), give B written notice of the approval:
+  (b) as soon as practicable after cancelling or suspending such approval, give B written notice of the cancellation or suspension.
+(3) Every notice of suspension given under subsection (1)﻿(b) or (2)﻿(b) must specify the period of suspension or the requirements that must be satisfied before the suspension ends.
+
+### 36M Records of recognised persons
+(1) The Institute, any other accredited body, or an approved association must—
+  (a) keep a record of all persons that the Institute, accredited body, or approved association (as the case may be) has recognised for the purposes of section 36(1) and of all cancellations or suspensions of such recognition; and
+  (b) keep available a record of the persons recognised by it, at all reasonable times, on an Internet site maintained by or on behalf of the Institute, body, or association.
+(2) The purpose of subsection (1)﻿(b) is to enable any person to determine whether a person is recognised for the purposes of section 36 and, if so, to obtain relevant information relating to the recognition.
+(3) For the purposes of subsection (1)﻿(b),—
+  (a) the record must include the following information about each recognised person:
+    (i) the full name of the person:
+    (ii) the town or city in which the person's principal place of business in New Zealand is located (unless subparagraph (iii) applies):
+    (iii) in the case of recognition under section 36(1)﻿(c)﻿(ia), the town or city in which the person's principal place of business is located:
+    (iv) the conditions or limitations on the recognition (if any); and
+  (b) the record must be reasonably prominent on the Internet site or the Internet site must contain a reasonably prominent link to the record.
+(4) A record under subsection (1) is required to include information relating to a suspension under section 36I(6) only if the Institute, accredited body, or approved association is aware of the suspension.
+(5) A person that fails to comply with subsection (1) or (3) commits an offence and is liable on conviction to a fine not exceeding $50,000.
+
+### 36N Register of approved persons
+(1) The Registrar must keep a register of all persons that the Registrar has approved for the purposes of section 36(1)﻿(c) or (d).
+(2) The purpose of the register is to enable any person to determine whether a person is approved for the purposes of section 36(1) and, if so, to obtain relevant information relating to the approval.
+(3) The register may—
+  (a) be an electronic register; or
+  (b) be kept in any other manner that the Registrar thinks fit.
+(4) The register must contain the following information about each approved person:
+  (a) the full name of the person:
+  (b) the town or city in which the person's principal place of business is located:
+  (c) the conditions or limitations on the approval (if any):
+  (d) any other prescribed information.
+
+### 36O Search of register
+(1) A person may search the register kept under section 36N in accordance with this Act or the regulations.
+(2) The register may be searched only by reference to the contents of the register required by section 36N or any other prescribed criteria.
+(3) A search of the register may be carried out only by the following persons for the following purposes:
+  (a) a person, for a purpose referred to in section 36N(2):
+  (b) a person, for the purpose of advising another person in connection with any of the purposes referred to in this subsection:
+  (c) an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual.
+
+### 36P Appeals in respect of recognition or approval matters
+(1) A person may appeal to a District Court against any decision of the Institute, an accredited body, an approved association, or the Registrar—
+  (a) to decline to recognise the person for the purposes of section 36(1); or
+  (b) to decline to approve the person for the purposes of section 36(1)﻿(d); or
+  (c) to cancel or suspend that recognition or approval.
+(2) An association may appeal to a District Court against any decision of the Registrar—
+  (a) to decline to approve the association for the purposes of section 36(1)﻿(c)﻿(i); or
+  (b) to cancel or suspend that approval.
+(3) Subsection (1) does not apply to a decision if the rules of the Institute, the accredited body, or the approved association provide for an appeal against the decision to a body established to hear appeals against the decision (for example, the Appeals Council referred to in section 6(1)﻿(h) of the New Zealand Institute of Chartered Accountants Act 1996).
+(4) Subsection (1) does not apply to a decision under sections 36R to 36T.
+(5) An appeal to a District Court under this section must be brought—
+  (a) in accordance with the rules of court; and
+  (b) within 20 working days after notice of the decision is communicated to the appellant, or within any further time a District Court Judge allows on application made before or after the period expires.
+
+### 36Q False declarations and representations
+(1) Every person commits an offence who, for the purpose of obtaining or maintaining recognition or approval for the purposes of section 36(1) either on the person's own behalf or on behalf of any other person,—
+  (a) either orally or in writing, makes any declaration or representation to the Institute, another accredited body, an approved association, or the Registrar that, to the person's knowledge, is false or misleading in any material particular; or
+  (b) provides to the Institute, another accredited body, an approved association, or the Registrar any document knowing that the document—
+    (i) contains any declaration or representation that is false or misleading in any material particular; or
+    (ii) is not genuine; or
+  (c) makes use of any document knowing that the document—
+    (i) contains any declaration or representation that is false or misleading in any material particular; or
+    (ii) is not genuine.
+(2) A person who commits an offence under subsection (1) is liable on conviction to,—
+  (a) in the case of an individual, a fine not exceeding $50,000:
+  (b) in the case of a body corporate, a fine not exceeding $150,000.
+
+### 36R Exemption from membership requirement for certain members of religious societies or orders
+(1) Section 36(1)﻿(a)﻿(i) or (ab)﻿(i) (requirement to be a chartered accountant or member of an accredited body) does not apply to a person (A) if—
+  (a) the relevant body is satisfied that A is a practising member of a religious society or order whose doctrines or beliefs preclude membership of any organisation or body other than the religious society or order of which A is a member; and
+  (b) the relevant body has entered into a written arrangement with A that complies with section 36T.
+(2) The exemption under subsection (1) ceases if—
+  (a) the relevant body ceases to be satisfied as referred to in subsection (1)﻿(a) and gives written notice of that fact to A; or
+  (b) the arrangement is terminated or otherwise comes to an end (unless a subsequent arrangement that complies with section 36T is entered into).
+(3) See also section 36I(2), which provides for the cancellation or suspension of recognition if there has been a material failure to comply with an arrangement.
+(4) In this section, relevant body means,—
+  (a) in relation to section 36(1)﻿(a)﻿(i), the Institute; or
+  (b) in relation to section 36(1)﻿(ab)﻿(i), another accredited body.
+
+### 36S Institute or other accredited body may recognise as qualified statutory accountants certain members of religious societies or orders
+(1) Subsection (2) applies if—
+  (a) the Institute or another accredited body is satisfied that a person (A) is a practising member of a religious society or order whose doctrines or beliefs preclude membership of any organisation or body other than the religious society or order of which A is a member; and
+  (b) the Institute or other accredited body has entered into a written arrangement with A that complies with section 36T; and
+  (c) the Institute or other accredited body is satisfied that A—
+    (i) has satisfactory competence, qualifications, and experience to act as a qualified statutory accountant; and
+    (ii) is otherwise a fit and proper person to be a qualified statutory accountant.
+(2) The Institute or other accredited body may recognise A as a qualified statutory accountant by including a statement of that recognition in or with the arrangement under section 36T.
+(3) The recognition under subsection (2) ceases if—
+  (a) the Institute or other accredited body ceases to be satisfied as referred to in subsection (1)﻿(a) and gives written notice of that fact to A; or
+  (b) the arrangement is terminated or otherwise comes to an end (unless a subsequent arrangement that complies with section 36T is entered into).
+
+### 36T Requirements for arrangement
+(1) For the purposes of section 36R or 36S (or both), the arrangement must—
+  (a) state that the arrangement is entered into for the purposes of this section; and
+  (b) include a binding agreement by A to be subject to the following:
+    (i) the rules relating to the investigation of complaints against a member or former member of the Institute or other accredited body:
+    (ii) the rules relating to the hearing of complaints and other matters by a disciplinary body:
+    (iii) the rules relating to appeals from decisions of a disciplinary body:
+    (iv) the rules relating to the kinds of conduct for which a member or former member of the Institute or other accredited body may be disciplined:
+    (v) the rules relating to the actions that may be taken in respect of, and the penalties that may be imposed on, a member or former member of the Institute or other accredited body for such conduct:
+    (vi) in the case of section 36R, the rules referred to in section 36(1)﻿(a)﻿(ii) or (ab)﻿(ii):
+    (vii) the code of ethics that governs the professional conduct of the members of the Institute or other accredited body.
+(2) The arrangement may provide for any other matters that the Institute or other accredited body thinks fit, including matters—
+  (a) relating to practice reviews:
+  (b) relating to continuing professional development:
+  (c) relating to reports and access to information:
+  (d) to promote compliance with the requirements imposed by or under any enactment that relate to the conduct of audits or other accounting engagements:
+  (e) to promote compliance with auditing and assurance standards and financial reporting standards:
+  (f) to otherwise promote reasonable care, diligence, and skill in the carrying out of audits or other accounting engagements:
+  (g) relating to the payment of fees:
+  (h) relating to the term of the arrangement.
+(3) Without limiting the means of enforcing the arrangement, the arrangement is binding on A as if A were a member of the Institute or other accredited body.
+(4) In this section,—
+  - **disciplinary body** has the same meaning as in section 6(1) of the Auditor Regulation Act 2011
+  - **rules** means the rules of the Institute or other accredited body (as the case may be).
+
+**Appointment of partnership**
 
 ### 37 Appointment of partnership
 (1) A partnership may be appointed by the firm name to be the auditor of a specified entity if,—
@@ -361,6 +609,23 @@ A person is a qualified auditor in respect of a specified entity if the person i
 (3) It is a defence to an employee charged with an offence against subsection (2) if he or she proves that—
   (a) he or she did not have the information required in his or her possession or under his or her control; or
   (b) by reason of the position occupied by him or her or the duties assigned to him or her, he or she was unable to give the explanations required.
+
+**Offences concerning unqualified persons**
+
+### 39A Offence for unqualified auditor to act
+(1) A person who acts as the auditor of a specified entity or of its financial statements commits an offence if the person is not a qualified auditor in respect of the entity.
+(2) A person who commits an offence under subsection (1) is liable on conviction to,—
+  (a) in the case of an individual, a fine not exceeding $50,000:
+  (b) in the case of a body corporate, a fine not exceeding $150,000.
+
+### 39B Offence to hold out as qualified auditor or as approved person
+(1) A person must not hold out that the person is—
+  (a) recognised for the purposes of section 36(1)﻿(a), (ab), (c)﻿(ia), (f), or (g) if the person is not so recognised; or
+  (b) approved for the purposes of section 36(1)﻿(c) or (d) if the person is not so approved; or
+  (c) qualified to act as the auditor of a specified entity or of its financial statements if the person is not a qualified auditor in respect of the entity.
+(2) A person who fails to comply with subsection (1) commits an offence and is liable on conviction to,—
+  (a) in the case of an individual, a fine not exceeding $50,000:
+  (b) in the case of a body corporate, a fine not exceeding $150,000.
 
 ### Subpart 4 — Standard provisions relating to balance dates
 
@@ -400,7 +665,9 @@ The purpose of this subpart is to—
 (2) For the purposes of an enactment that refers to this section, an overseas company or a subsidiary of an overseas company is large in respect of an accounting period if at least 1 of the following paragraphs applies:
   (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the entity and its subsidiaries (if any) exceed $20 million:
   (b) in each of the 2 preceding accounting periods, the total revenue of the entity and its subsidiaries (if any) exceeds $10 million.
-(3) Despite subsections (1) and (2), an entity is not large in respect of an accounting period if it was an inactive entity in respect of that period.
+(3) Despite subsections (1) and (2), an entity is not large in respect of an accounting period (period A) if—
+  (a) the entity was an inactive entity in respect of period A; and
+  (b) the entity, within 5 months after the end of period A, delivers to the Registrar a declaration, in the prescribed form, stating that it was an inactive entity in respect of period A.
 (4) In subsection (3), an entity is an inactive entity in respect of an accounting period if,—
   (a) during that period, the entity—
     (i) has not derived, or been deemed to have derived, any income; and
@@ -416,11 +683,11 @@ The purpose of this subpart is to—
 For the purposes of an enactment that refers to this section, an entity is a specified not-for-profit entity in respect of an accounting period if, in each of the 2 preceding accounting periods of the entity, the total operating payments of the entity are $125,000 or more.
 
 ### 47 Financial reporting standards must be complied with
-A financial reporting standard (or a part of a standard) that is expressed as applying for the purposes of section 45(1)(a) or (b) or (2)(a) or (b) or 46 must be applied in determining whether that provision applies (for example, the standard may define operating payments for the purposes of section 46).
+A financial reporting standard (or a part of a standard) that is expressed as applying for the purposes of section 45(1)﻿(a) or (b) or (2)﻿(a) or (b) or 46 must be applied in determining whether that provision applies (for example, the standard may define operating payments for the purposes of section 46).
 
 ### 48 Minister must regularly review amounts to take into account inflation
 (1) The Minister—
-  (a) must review the monetary amounts specified in sections 45 and 46 of this Act, section 204(3) of the Companies Act 1993, and section 64(2) of the Friendly Societies and Credit Unions Act 1982 for the purpose of determining whether or not to recommend that an adjustment be made to those amounts in order to take into account any increase in the CPI during the period to which the review relates; and
+  (a) must review the monetary amounts specified in sections 45 and 46 of this Act, section 42D of the Charities Act 2005, section 204(3) of the Companies Act 1993, and section 64(2) of the Friendly Societies and Credit Unions Act 1982 for the purpose of determining whether or not to recommend that an adjustment be made to those amounts in order to take into account any increase in the CPI during the period to which the review relates; and
   (b) may, after conducting a review, make a recommendation for the purposes of section 49.
 (2) The first review under this section must be completed on or before the date that is 8 years after the date on which this section comes into force.
 (3) Subsequent reviews under this section must be completed on or before the date that is 8 years after the previous review was completed.
@@ -429,11 +696,12 @@ A financial reporting standard (or a part of a standard) that is expressed as ap
 
 ### 49 Order may amend amounts
 The Governor-General may, by Order in Council, on the recommendation of the Minister, make regulations for all or any of the following purposes:
-  (a) amending the amount specified in section 45(1)(a):
-  (b) amending the amount specified in section 45(1)(b):
+  (a) amending the amount specified in section 45(1)﻿(a):
+  (b) amending the amount specified in section 45(1)﻿(b):
   (c) amending the amounts in the example in section 45(1):
-  (d) amending the amount specified in section 45(2)(a):
-  (e) amending the amount specified in section 45(2)(b):
+  (ca) amending the amounts specified in section 42D of the Charities Act 2005:
+  (d) amending the amount specified in section 45(2)﻿(a):
+  (e) amending the amount specified in section 45(2)﻿(b):
   (f) amending the amount specified in section 46:
   (g) amending the amounts specified in section 204(3) of the Companies Act 1993:
   (h) amending the amount in section 64(2) of the Friendly Societies and Credit Unions Act 1982.
@@ -444,16 +712,46 @@ The Governor-General may, by Order in Council, on the recommendation of the Mini
 
 ### 50 Regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing matters for the purposes of section 32(1)(b)(iii):
-  (b) prescribing classes of persons for the purposes of section 55(1)(b)(ii) and dates, or a method by which dates are to be determined, for the purposes of section 55(3):
+  (a) prescribing matters for the purposes of section 32(1)﻿(b)﻿(iii):
+  (ab) prescribing matters that must be taken into account under section 36A(1) or (2) or 36C:
+  (ac) prescribing requirements for the purposes of section 36A(1) or (2)﻿(a):
+  (ad) prescribing requirements for the purposes of section 36C(1)﻿(a), including (without limitation) requirements relating to a company's or an overseas company's—
+    (i) ownership, including requirements relating to who may be a shareholder or member and who may exercise voting rights (for example, requiring all or a majority of voting rights to be held by members of the Institute, an accredited body, or an approved association):
+    (ii) governance, including requirements relating to who may be a director or senior manager (for example, requiring all or a majority of directors to be members of the Institute, an accredited body, or an approved association):
+    (iii) systems, policies, and procedures that relate to any of the following:
+      (A) promoting compliance with the requirements imposed by or under any enactment that relates to the conduct of audits:
+      (B) promoting compliance with auditing and assurance standards:
+      (C) promoting reasonable care, diligence, and skill in the carrying out of audits:
+    (iv) professional indemnity insurance:
+  (ae) prescribing minimum standards for the purposes of section 36A(2)﻿(b) or 36C(1)﻿(b):
+  (af) prescribing fees payable in respect of applications under section 36A or reports under section 36B(1) (or the manner in which those fees may be calculated):
+  (ag) prescribing matters relating to reports under section 36B, including the times and events referred to in that section and the information that must be contained in the reports (including prescribing the manner in which the information is to be presented, calculated, or prepared):
+  (ah) prescribing procedures, requirements, and other matters, not inconsistent with this Act, for the register kept under section 36N, including matters that relate to—
+    (i) the operation of the register:
+    (ii) the form of the register:
+    (iii) the information to be contained in the register:
+    (iv) access to the register:
+    (v) search criteria for the register:
+    (vi) circumstances in which amendments must be made to the register:
+  (ai) prescribing a form for the purposes of section 45(3):
+  (b) prescribing classes of persons for the purposes of section 55(1)﻿(b)﻿(ii) and dates, or a method by which dates are to be determined, for the purposes of section 55(3):
   (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) Regulations may, for the purposes of section 55(3), prescribe different dates or methods for different classes of persons.
+(2) Any regulations made under subsection (1)﻿(ad) relating to professional indemnity insurance may, without limitation,—
+  (a) specify the terms and conditions upon which insurance is to be available and any circumstances in which the insurance cover may be excluded or modified:
+  (b) specify the minimum terms and conditions that an insurance policy must satisfy:
+  (c) specify circumstances in which a body corporate or any class of bodies corporate are exempt from the requirements:
+  (d) require a body corporate to have arrangements in place that ensure that an accredited body or approved association can ascertain whether the insurance is being maintained in accordance with the regulations.
+(3) For the purposes of subsection (1)﻿(af),—
+  (a) regulations may authorise the Registrar to refund or waive, in whole or in part and on any conditions that may be prescribed, payment of the fee in relation to any person or class of persons:
+  (b) the Registrar may refuse to perform a function or exercise a power until the prescribed fee is paid:
+  (c) any fee payable under the regulations is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Registrar.
+(4) Different requirements, dates, methods, or other matters may be prescribed under the regulations in respect of different classes of persons or different circumstances.
 
 ### 51 Levies
 (1) Every person that is included in a prescribed class of specified persons must pay to the Crown, or to a prescribed person who acts on behalf of the Crown, a levy prescribed by regulations made under section 52.
 (2) If a person is in 2 or more classes of specified persons in respect of which different levies have been prescribed, the person must pay each of those levies (unless the regulations provide otherwise).
 (3) In this subpart, specified persons means—
-  (a) chartered accountants who hold a certificate of public practice or persons who apply for those certificates; and
+  (a) qualified statutory accountants; and
   (b) licensed auditors; and
   (c) registered audit firms; and
   (d) every person who applies for a licence or registration under the Auditor Regulation Act 2011; and
@@ -492,6 +790,14 @@ The Governor-General may, by Order in Council, on the recommendation of the Mini
 (1) The person to whom the levy is payable must ensure that each levy payment is paid into a Crown Bank Account and is separately accounted for.
 (2) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Crown.
 
+### Subpart 1A — Unqualified person must not hold out as qualified statutory accountant
+
+### 53A Offence to hold out as qualified statutory accountant
+(1) If any enactment requires a qualified statutory accountant to act in respect of a matter, a person must not hold out that the person is qualified to act in respect of the matter if the person is not a qualified statutory accountant.
+(2) A person who fails to comply with subsection (1) commits an offence and is liable on conviction to,—
+  (a) in the case of an individual, a fine not exceeding $50,000:
+  (b) in the case of a body corporate, a fine not exceeding $150,000.
+
 ### Subpart 2 — Repeal and revocations
 
 ### 54 Repeal and revocations
@@ -505,19 +811,19 @@ The Governor-General may, by Order in Council, on the recommendation of the Mini
 (1) This section—
   (a) applies to—
     (i) every person who, immediately before the commencement of this section, was an issuer within the meaning of sections 4 to 6 of the Financial Reporting Act 1993; and
-    (ii) every person who, after the commencement of this section, makes an offer of securities under the Securities Act 1978 (whether under Part 1 of Schedule 4 of the Financial Markets Conduct Act 2013 or otherwise) and who, if the Financial Reporting Act 1993 had not been repealed, would have been an issuer under section 4(1)(a) to (b) of that Act; and
-    (iii) every person who, after the commencement of this section, becomes a person referred to in section 4(1)(ba) of the Financial Reporting Act 1993 as a result of an offer referred to in subparagraph (ii); and
-    (iv) every person who, after the commencement of this section, becomes a person referred to in section 4(1)(c) of the Financial Reporting Act 1993; but
+    (ii) every person who, after the commencement of this section, makes an offer of securities under the Securities Act 1978 (whether under Part 1 of Schedule 4 of the Financial Markets Conduct Act 2013 or otherwise) and who, if the Financial Reporting Act 1993 had not been repealed, would have been an issuer under section 4(1)﻿(a) to (b) of that Act; and
+    (iii) every person who, after the commencement of this section, becomes a person referred to in section 4(1)﻿(ba) of the Financial Reporting Act 1993 as a result of an offer referred to in subparagraph (ii); and
+    (iv) every person who, after the commencement of this section, becomes a person referred to in section 4(1)﻿(c) of the Financial Reporting Act 1993; but
   (b) does not apply to either of the following:
-    (i) an operator referred to in section 4(1)(e) of the Financial Reporting Act 1993 (unless the operator would otherwise be an issuer under that section):
+    (i) an operator referred to in section 4(1)﻿(e) of the Financial Reporting Act 1993 (unless the operator would otherwise be an issuer under that section):
     (ii) any other person of a prescribed class.
-(2) The directors of a person to whom this section applies (A) must, in respect of A, continue to comply with the Financial Reporting Act 1993 as if that Act had not been repealed by this Act (and as if A continued to be an issuer) in relation to every accounting period of A.ExampleABC Limited is an issuer under section 4(1)(a) of the Financial Reporting Act 1993 by virtue of an offer of securities to the public.The directors of ABC Limited must continue to prepare and register financial statements and group financial statements for ABC Limited and to have those statements audited in accordance with the Financial Reporting Act 1993. The duty ceases in respect of accounting periods that commence on or after a prescribed date. After the prescribed date, the company may have financial reporting duties under the Financial Markets Conduct Act 2013 or the Companies Act 1993. In addition, the duty under this section will not apply if ABC Limited is required to prepare financial statements under Part 7 of the Financial Markets Conduct Act 2013.
+(2) The directors of a person to whom this section applies (A) must, in respect of A, continue to comply with the Financial Reporting Act 1993 as if that Act had not been repealed by this Act (and as if A continued to be an issuer) in relation to every accounting period of A.ExampleABC Limited is an issuer under section 4(1)﻿(a) of the Financial Reporting Act 1993 by virtue of an offer of securities to the public.The directors of ABC Limited must continue to prepare and register financial statements and group financial statements for ABC Limited and to have those statements audited in accordance with the Financial Reporting Act 1993. The duty ceases in respect of accounting periods that commence on or after a prescribed date. After the prescribed date, the company may have financial reporting duties under the Financial Markets Conduct Act 2013 or the Companies Act 1993. In addition, the duty under this section will not apply if ABC Limited is required to prepare financial statements under Part 7 of the Financial Markets Conduct Act 2013.
 (3) Subsection (2) ceases to apply to accounting periods that commence on or after a date to be prescribed by, or determined in accordance with, regulations made for the purposes of this subsection.
 (4) The Financial Reporting Act 1993 (including sections 36 to 42, which relate to offences) and the Financial Reporting (Fees and Forms) Regulations 2007 continue to apply for the purposes of subsection (2) as if they had not been repealed or revoked by this Act.
 (5) Despite subsections (1) to (4), nothing in the Financial Reporting Act 1993 applies to an FMC reporting entity in relation to an accounting period if financial statements or group financial statements of the FMC reporting entity are required to be prepared for that period under Part 7 of the Financial Markets Conduct Act 2013.
 (6) Despite subsections (1) to (4), if, after this section comes into force, a person to whom this section applies ceases to be an issuer within the meaning of sections 4 to 6 of the Financial Reporting Act 1993 (applied as if that Act were still in force),—
   (a) section 5 of that Act applies; and
-  (b) subsection (2) does not apply to a subsequent accounting period after the accounting period referred to in section 5 of that Act (unless the person becomes an issuer again as referred to in subsection (1)(a)(ii) to (iv)).
+  (b) subsection (2) does not apply to a subsequent accounting period after the accounting period referred to in section 5 of that Act (unless the person becomes an issuer again as referred to in subsection (1)﻿(a)﻿(ii) to (iv)).
 (7) See clause 20 of Schedule 4 of the Financial Markets Conduct Act 2013 (which provides for Part 7 of that Act to apply on and after an effective date for a security).
 (8) This section is repealed on the close of the date that is 5 years after the date on which this section comes into force.
 
@@ -528,7 +834,7 @@ The Governor-General may, by Order in Council, on the recommendation of the Mini
 (2) The relevant transitional provision or section 55(1) to (4) (or both) applies to the entity in relation to the current period (and, accordingly, Part 7 of the Financial Markets Conduct Act 2013 does not apply in relation to the current period).
 (3) However, if the entity is an FMC reporting entity during the current period under section 451(a), (f), or (k) of the Financial Markets Conduct Act 2013 (or as a result of clause 20(2A) of Schedule 4 of that Act), Part 7 of that Act applies to the entity in relation to the current period (rather than the relevant transitional provision or section 55(1) to (4)).
 (4) In this section, relevant transitional provision means any of sections 17(2), 44(2), 86(2), 87(2), 103(2), 108(2), 111(2), and 117(2) of the Financial Reporting (Amendments to Other Enactments) Act 2013.
-ExampleXYZ Credit Union has a financial year of 1 January to 31 December. It is an issuer under the Financial Reporting Act 1993.If this section comes into force on 1 April 2014, the 1 January 2014 to 31 December 2014 financial year is its current period under this section. In addition, XYZ Credit Union becomes an FMC reporting entity on 1 April 2014 under section 451(i) of the Financial Markets Conduct Act 2013 (the FMC Act).Under the transitional provision section 87(2) of the Financial Reporting (Amendments to Other Enactments) Act 2013, the Friendly Societies and Credit Unions Act 1982 (as in force before commencement) continues to apply to the current period. Under the former section 121(2)(c) of that Act (and section 55 of this Act), financial statements must be prepared in accordance with the Financial Reporting Act 1993. These requirements apply to the current period (rather than Part 7 of the FMC Act) even though XYZ Credit Union became an FMC reporting entity on 1 April 2014.However, if XYZ Credit Union makes a regulated offer under the FMC Act on (say) 1 December 2014, it will also be an FMC reporting entity under section 451(a) of the FMC Act. This means that Part 7 of that Act will apply to the current period rather than the requirements of the law in force before commencement.
+ExampleXYZ Credit Union has a financial year of 1 January to 31 December. It is an issuer under the Financial Reporting Act 1993.If this section comes into force on 1 April 2014, the 1 January 2014 to 31 December 2014 financial year is its current period under this section. In addition, XYZ Credit Union becomes an FMC reporting entity on 1 April 2014 under section 451(i) of the Financial Markets Conduct Act 2013 (the FMC Act).Under the transitional provision section 87(2) of the Financial Reporting (Amendments to Other Enactments) Act 2013, the Friendly Societies and Credit Unions Act 1982 (as in force before commencement) continues to apply to the current period. Under the former section 121(2)﻿(c) of that Act (and section 55 of this Act), financial statements must be prepared in accordance with the Financial Reporting Act 1993. These requirements apply to the current period (rather than Part 7 of the FMC Act) even though XYZ Credit Union became an FMC reporting entity on 1 April 2014.However, if XYZ Credit Union makes a regulated offer under the FMC Act on (say) 1 December 2014, it will also be an FMC reporting entity under section 451(a) of the FMC Act. This means that Part 7 of that Act will apply to the current period rather than the requirements of the law in force before commencement.
 
 ### 57 FMC reporting entity that is issuer or trustee of scheme that is not yet registered
 (1) This section applies if—
@@ -552,6 +858,34 @@ Every financial reporting standard or auditing and assurance standard approved o
 In subpart 5 of Part 2, a reference to preceding accounting periods may include an accounting period regardless of whether it commenced before, on, or after the commencement of this section.
 
 ### 61 Approvals for auditors continue in effect
-An approval in effect, immediately before the commencement of this section, under section 199(1)(c) or (d) of the Companies Act 1993—
-  (a) continues in effect as if given under section 36(1)(c) or (d) of this Act (as the case may be); and
+An approval in effect, immediately before the commencement of this section, under section 199(1)﻿(c) or (d) of the Companies Act 1993—
+  (a) continues in effect as if given under section 36(1)﻿(c) or (d) of this Act (as the case may be); and
   (b) may be revoked by the Registrar of Companies by notice in the Gazette.
+
+## Schedule  — Transitional, savings, and related provisions
+
+**Provisions relating to Financial Reporting Amendment Act 2014**
+
+### 1 Interpretation
+In clauses 2 and 3,—
+  - **2014 Amendment Act** means the Financial Reporting Amendment Act 2014
+  - **principal Act** means the Financial Reporting Act 2013.
+
+### 2 New requirements apply to accounting periods that commence on or after commencement of 2014 Amendment Act
+(1) Section 36(1)﻿(a) of the principal Act (as in force after the commencement of section 7(2) of the 2014 Amendment Act) applies to audits of financial statements for accounting periods that commence on or after the commencement of section 7(2) of the 2014 Amendment Act.
+(2) Section 36(1)﻿(a) of the principal Act (as in force before the commencement of section 7(2) of the 2014 Amendment Act) continues to apply to audits of financial statements for accounting periods that commence before the commencement of section 7(2) of the 2014 Amendment Act.
+(3) Section 36(1)﻿(c) of the principal Act (as in force after the commencement of section 7(4) of the 2014 Amendment Act) applies to audits of financial statements for accounting periods that commence on or after the commencement of section 7(4) of the 2014 Amendment Act.
+(4) Section 36(1)﻿(c) of the principal Act (as in force before the commencement of section 7(4) of the 2014 Amendment Act) continues to apply to audits of financial statements for accounting periods that commence before the commencement of section 7(4) of the 2014 Amendment Act.
+(5) Section 45(3) of the principal Act (as in force after the commencement of section 10 of the 2014 Amendment Act) applies to accounting periods that commence on or after 1 April 2014.
+
+### 3 Approval under section 36 continues for 1 year only unless re-approved by Registrar under new requirements
+(1) This clause applies to—
+  (a) an association of accountants that, immediately before the commencement of this clause, has an approval that is in effect under section 36(1)﻿(c); and
+  (b) a person who, immediately before the commencement of this clause, has an approval that is in effect under section 36(1)﻿(d).
+(2) The approval referred to in subclause (1) continues in effect after the commencement of this clause.
+(3) However, that approval ceases to be in effect on the date that is 12 months after the date on which this clause comes into force unless the Registrar has re-approved the association of accountants or person under section 36(1)﻿(c) or (d), as the case may be (in accordance with section 36A).
+(4) Nothing in this clause limits the ability of the Registrar to do either or both of the following in respect of an association or a person referred to in subclause (1):
+  (a) cancel or suspend the approval of the association or person under this Act (and such a cancellation or suspension may take effect before or after the date that is 12 months after the date on which this clause comes into force); or
+  (b) impose, vary, revoke, add to, or substitute any conditions under section 36A at any time.
+(5) However, for the 12-month period referred to in subclause (3), section 36B(2) to (4) does not apply.
+(6) Section 61 is subject to this clause.
