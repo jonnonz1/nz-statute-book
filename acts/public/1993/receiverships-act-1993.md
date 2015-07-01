@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-07-01_
 
 > An Act to reform the law relating to receivers
 
@@ -79,10 +79,10 @@ _Consolidation as at 2014-12-01_
   (a) to a receiver appointed after the coming into force of this Act; and
   (b) with the exceptions and modifications specified in subsection (2), to a receiver holding office on the coming into force of this Act.
 (2) In the application of this Act to a receiver holding office on the coming into force of this Act,—
-  (a) section 5 (except subsections (1)(e) and (2)) does not apply:
+  (a) section 5 (except subsections (1)﻿(e) and (2)) does not apply:
   (b) section 23 does not apply:
-  (c) section 24(1)(a) does not require a receiver to prepare a report in relation to the period of 12 months specified in section 348(2) of the Companies Act 1955 that expires before the coming into force of this Act or that first expires after the commencement of this Act and the provisions of section 348(2) of that Act continue in force in relation to that period notwithstanding the repeal of Part 7 of that Act:
-  (d) section 24(1)(b) does not require a receiver to give a report in respect of a receivership that ended before the commencement of this Act and the provisions of section 348(2) of the Companies Act 1955 shall continue in force notwithstanding the repeal of Part 7 of that Act:
+  (c) section 24(1)﻿(a) does not require a receiver to prepare a report in relation to the period of 12 months specified in section 348(2) of the Companies Act 1955 that expires before the coming into force of this Act or that first expires after the commencement of this Act and the provisions of section 348(2) of that Act continue in force in relation to that period notwithstanding the repeal of Part 7 of that Act:
+  (d) section 24(1)﻿(b) does not require a receiver to give a report in respect of a receivership that ended before the commencement of this Act and the provisions of section 348(2) of the Companies Act 1955 shall continue in force notwithstanding the repeal of Part 7 of that Act:
   (e) section 29 does not apply in respect of a receivership that ended before the commencement of this Act:
   (f) paragraphs (b) and (c) of subsection (1) and subsections (5) and (6) of section 32 do not apply.
 
@@ -104,7 +104,7 @@ _Consolidation as at 2014-12-01_
   (ia)
   (j)
   (k) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
-  (l) a person who is prohibited under section 299(1)(b) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
+  (l) a person who is prohibited under section 299(1)﻿(b) of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
   (m) a person who is disqualified from acting as a receiver by the instrument that confers the power to appoint a receiver.
 (2) A body corporate must not be appointed or act as a receiver.
 (3) A person who contravenes subsection (1) or subsection (2) commits an offence and is liable on conviction to a fine not exceeding $10,000.
@@ -259,7 +259,7 @@ A receiver must keep money relating to the property in receivership separate fro
   (b) amounts owing, as at the date of the report, to any person in whose interests the receiver was appointed; and
   (c) amounts owing, as at the date of the report, to creditors of the grantor having preferential claims; and
   (d) amounts likely to be available as at the date of the report for payment to creditors other than those referred to in paragraph (b) or paragraph (c).
-(3) A receiver may omit from the report required to be prepared in accordance with subsection (1)(a) details of any proposals for disposal of property in receivership if he or she considers that their inclusion would materially prejudice the exercise of his or her functions.
+(3) A receiver may omit from the report required to be prepared in accordance with subsection (1)﻿(a) details of any proposals for disposal of property in receivership if he or she considers that their inclusion would materially prejudice the exercise of his or her functions.
 (4) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 25 Extension of time for preparing reports
@@ -311,9 +311,9 @@ A person to whom a report must be sent in accordance with section 26 is entitled
   (b) secondly, to pay the claims of any person who has—
     (i) a purchase money security interest over all or any of those assets, that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999:
     (ii) a security interest over all or any of those assets, that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
-  (c) thirdly, to pay preferential claims to the extent and in the order of priority specified in Schedule 7 (except clauses 1(1) and 2(1)(b)) of the Companies Act 1993.
-(2A) The receiver must apply the accounts receivable and inventory as set out in subsection (2) before paying the claims of any person under a security interest, other than a security interest referred to in subsection (2)(b).
-(2B) For the purposes of subsection (2)(a), if an amount of an expense or of remuneration—
+  (c) thirdly, to pay preferential claims to the extent and in the order of priority specified in Schedule 7 (except clauses 1(1) and 2(1)﻿(b)) of the Companies Act 1993.
+(2A) The receiver must apply the accounts receivable and inventory as set out in subsection (2) before paying the claims of any person under a security interest, other than a security interest referred to in subsection (2)﻿(b).
+(2B) For the purposes of subsection (2)﻿(a), if an amount of an expense or of remuneration—
   (a) is payable partly in relation to the accounts receivable or inventory concerned and partly in relation to other property,—
     (i) the amount must be fairly and equitably apportioned between the accounts receivable or inventory and the other property; and
     (ii) the proportion relating to the accounts receivable or inventory must be taken into account; and
@@ -324,10 +324,10 @@ A person to whom a report must be sent in accordance with section 26 is entitled
   (a) references to a liquidator are to be read as references to a receiver:
   (b) references to the commencement of the liquidation are to be read as references to the appointment of the receiver:
   (c) references to a company being put into or being in liquidation are to be read as references to the company being put into or being in receivership:
-  (d) the reference to a period of 4 months before the commencement of the liquidation in clause 1(2)(a) is to be read as a reference to a period beginning 4 months before the date of appointment of the receiver and ending either—
+  (d) the reference to a period of 4 months before the commencement of the liquidation in clause 1(2)﻿(a) is to be read as a reference to a period beginning 4 months before the date of appointment of the receiver and ending either—
     (i) 14 days after the date of appointment of the receiver; or
     (ii) if notice of the termination of that employee's employment is lawfully given to the employee within 14 days after the date of appointment of the receiver or by any later date to which the period for giving notice is extended under section 32(3) of the Receiverships Act 1993, on the day on which the contract of employment is terminated:
-  (e) the reference to before, or because of, the commencement of the liquidation in clause 1(2)(b) and (c) is to be read as a reference to before the expiry of 14 days after the date of appointment of the receiver, or because notice of the termination of that employee's employment is lawfully given to the employee within 14 days after the date of appointment of the receiver or by any later date to which the period for giving notice is extended under section 32(3) of the Receiverships Act 1993.
+  (e) the reference to before, or because of, the commencement of the liquidation in clause 1(2)﻿(b) and (c) is to be read as a reference to before the expiry of 14 days after the date of appointment of the receiver, or because notice of the termination of that employee's employment is lawfully given to the employee within 14 days after the date of appointment of the receiver or by any later date to which the period for giving notice is extended under section 32(3) of the Receiverships Act 1993.
 (4)
 (5) The provisions of this section, as in force immediately before the commencement of the Personal Property Securities Act 1999, continue to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
 
@@ -342,7 +342,7 @@ A person to whom a report must be sent in accordance with section 26 is entitled
     (ii) the security interest relating to that registration was subordinate to the security interest of the person in whose interests the receiver was appointed:
   (b) to any other person (A), if the receiver has notice that A had an interest in the property when it was disposed of, and the receiver is satisfied that A's interest was legally enforceable:
   (c) to the grantor.
-(2) Priority as between persons referred to in subsection (1)(a), and as between persons referred to in subsection (1)(b), must be determined according to the applicable law (including Part 7 or Part 8 of the Personal Property Securities Act 1999) as if, in the case of persons referred to in subsection (1)(a), their security interests had not been extinguished.
+(2) Priority as between persons referred to in subsection (1)﻿(a), and as between persons referred to in subsection (1)﻿(b), must be determined according to the applicable law (including Part 7 or Part 8 of the Personal Property Securities Act 1999) as if, in the case of persons referred to in subsection (1)﻿(a), their security interests had not been extinguished.
 (3) If, in the case of a distribution of the surplus to a grantor, the grantor cannot be found after reasonable inquiry by the receiver, the provisions of section 186(2) to (5) of the Property Law Act 2007 apply with all necessary modifications as if references in that section to the mortgagee and the mortgagor were references to the receiver and the grantor respectively.
 
 ### 30C Surplus may be paid into court
@@ -458,7 +458,7 @@ In section 37, failure to comply in relation to a receiver means a failure by a 
   (f) a creditor of the grantor:
   (g) a guarantor of an obligation of the grantor:
   (h) if the grantor is a company, a liquidator of the grantor:
-  (i) if the receiver is a chartered accountant, the President of the New Zealand Institute of Chartered Accountants:
+  (i) if the receiver is a qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013), a member of the governing body of the association of accountants of which the qualified statutory accountant is a member:
   (j) if the receiver is a barrister and solicitor or a solicitor, the President of the New Zealand Law Society:
   (k) if the grantor is a person who has been adjudged bankrupt, the Official Assignee of the estate of the grantor.
 (2) An application for an order under this section may be made by a receiver of the property of a grantor in relation to a failure to comply by another receiver of the property of the grantor.
@@ -466,7 +466,7 @@ In section 37, failure to comply in relation to a receiver means a failure by a 
 (4) If the court is satisfied that there is, or has been, a failure to comply, the court may—
   (a) relieve the receiver of the duty to comply, wholly or in part; or
   (b) without prejudice to any other remedy that may be available in relation to a breach of duty by the receiver, order the receiver to comply to the extent specified in the order.
-(5) The court may, in respect of a person who fails to comply with an order made under subsection (4)(b), or is or becomes disqualified under section 5 to become or remain a receiver,—
+(5) The court may, in respect of a person who fails to comply with an order made under subsection (4)﻿(b), or is or becomes disqualified under section 5 to become or remain a receiver,—
   (a) remove the receiver from office; or
   (b) order that the person may be appointed and act or may continue to act as a receiver, notwithstanding the provisions of section 5.
 (6) If it is shown to the satisfaction of the court that a person is unfit to act as a receiver by reason of—the court must make, in relation to that person, a prohibition order for a period not exceeding 5 years.
@@ -482,11 +482,11 @@ In section 37, failure to comply in relation to a receiver means a failure by a 
 (9) A copy of every order made under subsection (6) must, within 14 days of the order being made, be delivered by the applicant to the Official Assignee for New Zealand who must keep it on a public file indexed by reference to the name of the receiver concerned.
 
 ### 38 Special provisions relating to evidence
-(1) Evidence that, within the preceding 5 years while a person was acting as a receiver or as a liquidator, as the case may be,—is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of section 37(6)(a).
+(1) Evidence that, within the preceding 5 years while a person was acting as a receiver or as a liquidator, as the case may be,—is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of section 37(6)﻿(a).
   (a) the court has, in relation to that person, on 2 or more occasions made an order to comply under section 37; or
   (b) the court has, in relation to that person, on 2 or more occasions made an order to comply under section 286 of the Companies Act 1993; or
   (c) the court has, in relation to that person, made 1 or more orders to comply under section 37 and has also made 1 or more orders to comply under section 286 of the Companies Act 1993,—
-(2) Evidence that, within the preceding 5 years while a person was acting as a receiver or as a liquidator, as the case may be,—and, in each case, the person has complied after the making of the application and before the hearing is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of section 37(6)(a).
+(2) Evidence that, within the preceding 5 years while a person was acting as a receiver or as a liquidator, as the case may be,—and, in each case, the person has complied after the making of the application and before the hearing is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of section 37(6)﻿(a).
   (a) 2 or more applications for an order to comply under section 37 were made in relation to that person; or
   (b) 2 or more applications for an order to comply under section 286 of the Companies Act 1993 were made in relation to that person; or
   (c) 1 or more applications for an order to comply under section 37 and 1 or more applications for an order to comply under section 286 of the Companies Act 1993 were made in relation to that person—
@@ -549,7 +549,7 @@ Subject to the Personal Property Securities Act 1999, and without limiting any o
   (a) a reserve under the Reserves Act 1977; or
   (b) land over which the local authority has no power of disposition; or
   (c) land in respect of which the local authority's power of disposition is conditional,—
-(6) The powers of disposition that a receiver has in respect of any land of the kind described in subsection (5)(c) comprise, in addition to the power specified in subsection (5), the same conditional power of disposition as the local authority.
+(6) The powers of disposition that a receiver has in respect of any land of the kind described in subsection (5)﻿(c) comprise, in addition to the power specified in subsection (5), the same conditional power of disposition as the local authority.
 
 ### 40E Protection for receiver
 (1) Subject to subsection (4), no proceedings lie against any receiver of a local authority for breach of section 40D(1)—
@@ -615,7 +615,7 @@ The general duties imposed on receivers by section 18 are subject to the constra
 The obligation imposed on a receiver by section 28 to report any offence that the receiver considers has been committed against any of the Acts specified in that section includes, in addition, an obligation to report any offence that the receiver considers has been committed against the Local Government Act 2002 or the Local Authorities (Members' Interests) Act 1968.
 
 ### 13 Exceptions in relation to preferential claims
-(1) Section 30(2)(b) applies only to those preferential claims that are applicable to the local authority.
+(1) Section 30(2)﻿(b) applies only to those preferential claims that are applicable to the local authority.
 (2) Section 30(4) does not apply.
 
 ### 14 Section 31 (which relates to liquidation or bankruptcy) does not apply
