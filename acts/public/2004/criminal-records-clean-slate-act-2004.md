@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -41,7 +41,7 @@ In this Act, unless the context otherwise requires,—
         (B) convictions entered (including, without limitation, any item on a list of previous convictions); and
         (C) sentences imposed (including, without limitation, any item on a list of previous sentences); and
         (D) orders imposed on an offender as a result of a conviction; but
-      (ii) does not include details in a marriage certificate or civil union certificate of a conviction for bigamy recorded under section 60 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (or any corresponding provision of an earlier enactment) or section 62F of that Act and included in the certificate under regulations made under section 88(1)(b) of that Act
+      (ii) does not include details in a marriage certificate or civil union certificate of a conviction for bigamy recorded under section 60 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (or any corresponding provision of an earlier enactment) or section 62F of that Act and included in the certificate under regulations made under section 88(1)﻿(b) of that Act
   - **custodial sentence** means a sentence of imprisonment imposed under the Sentencing Act 2002 or under any earlier corresponding enactment; and includes—
     (a) a sentence of corrective training; and
     (b) a sentence of preventive detention; and
@@ -108,13 +108,13 @@ In this Act, unless the context otherwise requires,—
       (ii) section 20 of the Criminal Justice Act 1985; or
       (iii) section 347 of the Crimes Act 1961; or
       (iv) section 42(3) of the Criminal Justice Act 1954; or
-      (v) section 18(1)(b) of the Offenders Probation Act 1920; or
+      (v) section 18(1)﻿(b) of the Offenders Probation Act 1920; or
       (vi) a corresponding provision in any other enactment; or
     (b) an order made by a court in New Zealand, as a result of a conviction for an offence, that an offender appear for sentence if called on to do so under—
       (i) section 110 of the Sentencing Act 2002; or
       (ii) section 21 of the Criminal Justice Act 1985; or
       (iii) section 41 of the Criminal Justice Act 1954; or
-      (iv) section 92(1)(b) of the Justices of the Peace Act 1927; or
+      (iv) section 92(1)﻿(b) of the Justices of the Peace Act 1927; or
       (v) a corresponding provision in any other enactment; or
     (c) an order made by a court in New Zealand under section 112 of the Sentencing Act 2002 or section 28A of the Criminal Justice Act 1985, as a result of a conviction for an offence and instead of passing sentence, that an offender must not associate with a person or class of persons; or
     (d) an order made by a court in New Zealand under section 124 of the Sentencing Act 2002 or section 83 of the Criminal Justice Act 1985, as a result of a conviction for an offence referred to in those sections and instead of passing sentence, that an offender be disqualified from holding or obtaining a driver licence; or
@@ -131,7 +131,7 @@ This Act binds the Crown.
 ## Part 2 — Clean slate scheme
 
 ### 6 Application of clean slate scheme
-(1) The clean slate scheme applies to every question asked about, and every request made for the disclosure of, an eligible individual's criminal record or information about an eligible individual's criminal record whether asked or made on or after the commencement of this Act.
+(1) The clean slate scheme applies (except as provided in section 31(3) of the Vulnerable Children Act 2014) to every question asked about, and every request made for the disclosure of, an eligible individual's criminal record or information about an eligible individual's criminal record whether asked or made on or after the commencement of this Act.
 (2) The clean slate scheme applies—
   (a) to all sentences, whether imposed before or on or after the commencement of this Act; and
   (b) to all specified orders, whether made before or on or after the commencement of this Act.
@@ -140,12 +140,12 @@ This Act binds the Crown.
 (1) An individual is eligible under the clean slate scheme if—
   (a) he or she has completed a rehabilitation period since the date on which a sentence was last imposed, or a specified order was last made, as a result of a conviction for an offence, or he or she is an individual in relation to whom an order has been made under section 9 or section 10(2); and
   (b) no custodial sentence has ever been imposed on him or her; and
-  (c) no order has ever been made in relation to him or her under section 34(1)(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, section 118 of the Criminal Justice Act 1985, or section 39J of the Criminal Justice Act 1954 (being an order imposed, instead of passing sentence, that the offender be treated or cared for in a manner that the offender's mental impairment requires, either in the offender's interest, or for the safety of the public, or for the safety of a person or class of person); and
+  (c) no order has ever been made in relation to him or her under section 34(1)﻿(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, section 118 of the Criminal Justice Act 1985, or section 39J of the Criminal Justice Act 1954 (being an order imposed, instead of passing sentence, that the offender be treated or cared for in a manner that the offender's mental impairment requires, either in the offender's interest, or for the safety of the public, or for the safety of a person or class of person); and
   (d) he or she has not been convicted of a specified offence; and
   (e) in the case of a court having imposed a sentence of a fine or reparation on the individual, the amount owing has been paid in full or has been deemed to have been remitted; and
   (f) in the case of a court having ordered the individual to pay costs or compensation under section 106, section 108, or section 110 of the Sentencing Act 2002 (or a corresponding provision of an earlier enactment), the amount owing has been paid in full or has been deemed to have been remitted; and
   (g) no order has ever been made disqualifying him or her from holding or obtaining a driver licence under section 65 of the Land Transport Act 1998 or a driver's licence under section 30A of the Transport Act 1962.
-(2) An individual in relation to whom a disqualification order has been made under either of the sections referred to in subsection (1)(g) does not become eligible to have the clean slate scheme apply to him or her as a consequence of the Director removing, or having removed, the disqualification under section 100 of the Land Transport Act 1998 or section 30C of the Transport Act 1962.
+(2) An individual in relation to whom a disqualification order has been made under either of the sections referred to in subsection (1)﻿(g) does not become eligible to have the clean slate scheme apply to him or her as a consequence of the Director removing, or having removed, the disqualification under section 100 of the Land Transport Act 1998 or section 30C of the Transport Act 1962.
 
 ### 8 Effect of further conviction on eligibility
 (1) If, at any time after becoming an eligible individual (either under section 7(1) or as a consequence of an order made by the court under section 9, section 10, or section 12), an eligible individual is convicted of an offence, he or she is no longer an eligible individual.
@@ -158,18 +158,18 @@ This Act binds the Crown.
   (a) the last sentence imposed on the individual was a non-custodial sentence as a result of a conviction for an offence; and
   (b) that offence has subsequently been abolished and the act that constituted the abolished offence no longer constitutes an offence; and
   (c) he or she is no longer subject to the non-custodial sentence.
-(2) If an application is made to a District Court under subsection (1), a registrar must make an order that an individual need not complete a rehabilitation period for the purposes of section 7(1)(a) if the applicant provides evidence of the matters in subsection (1)(a) to (c).
+(2) If an application is made to a District Court under subsection (1), a registrar must make an order that an individual need not complete a rehabilitation period for the purposes of section 7(1)﻿(a) if the applicant provides evidence of the matters in subsection (1)﻿(a) to (c).
 
 ### 10 Individual may apply to District Court for order that rehabilitation period need not be completed or conviction be disregarded
 (1) An individual who is otherwise eligible under section 7(1) may apply to a District Court for an order under subsection (2) if—
   (a) the last sentence imposed on the individual was a custodial sentence as a result of a conviction for an offence; and
   (b) that offence has subsequently been abolished and the act that constituted the abolished offence no longer constitutes an offence; and
   (c) he or she is no longer subject to the custodial sentence.
-(2) The court may, if satisfied of the matters in subsection (1)(a) to (c), make an order—
-  (a) that the individual need not complete a rehabilitation period for the purposes of section 7(1)(a); and
-  (b) that the custodial sentence for the offence must be disregarded for the purposes of section 7(1)(b).
+(2) The court may, if satisfied of the matters in subsection (1)﻿(a) to (c), make an order—
+  (a) that the individual need not complete a rehabilitation period for the purposes of section 7(1)﻿(a); and
+  (b) that the custodial sentence for the offence must be disregarded for the purposes of section 7(1)﻿(b).
 (3) An individual who is otherwise eligible under section 7(1) may make an application to a District Court for an order under subsection (4) if a court imposed a non-custodial sentence on the offender for a conviction for a specified offence.
-(4) The court may order that the conviction for the specified offence must be disregarded for the purposes of section 7(1)(d).
+(4) The court may order that the conviction for the specified offence must be disregarded for the purposes of section 7(1)﻿(d).
 (5) In considering an application under this section, a court must balance the interests of individuals in concealing their criminal records against the wider public interest in the safety of the community (recognising that an awareness of an individual's previous convictions is appropriate in certain cases).
 (6) Subject to any rules of court, a court may call for and receive as evidence any statement, document, information, matter, or thing that, in the court's opinion, may assist it to deal effectually with the application.
 (7) On an application under subsection (1) or subsection (3), the court must either make the relevant order under subsection (2) or subsection (4) or decline to do so.
@@ -219,7 +219,7 @@ This Act binds the Crown.
 (2) A chief executive to whom this subsection applies must take all reasonable steps (including, without limitation, the development of policies and procedures) to ensure the government department or law enforcement agency for which he or she is chief executive, and any employee or contractor of that government department or law enforcement agency—
   (a) conceals the criminal records of eligible individuals when requests are made for their disclosure other than by the eligible individuals to whom the criminal records relate; and
   (b) does not use the criminal records of eligible individuals other than for a purpose authorised under this Act.
-(3) Subsection (2)(a) is subject to the exceptions in section 19.
+(3) Subsection (2)﻿(a) is subject to the exceptions in section 19.
 
 ### 16 Effect of clean slate scheme on government departments, law enforcement agencies, employees, and contractors
 (1) A government department or law enforcement agency, or an employee or contractor of a government department or law enforcement agency, that holds or has access to criminal records and that is responding to a request for the disclosure of an eligible individual's criminal record or any information about an eligible individual's criminal record (other than from the eligible individual to whom the request relates) must not disclose the criminal record of the eligible individual.
