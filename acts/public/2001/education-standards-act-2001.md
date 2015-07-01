@@ -1,5 +1,5 @@
 # Education Standards Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 (1) This Act is the Education Standards Act 2001.
@@ -20,7 +20,7 @@ _Consolidation as at 2007-09-03_
 **Regulating school hostels**
 
 ### 3 Interpretation
-Section 2(1) of the principal Act is amended by inserting, after the definition of foreign student, the following definition:.
+Section 2(1) of the principal Act is amended by inserting, after the definition of foreign student, the following definition:
   - **hostel** means a boarding establishment used mainly or solely for the accommodation of students enrolled at a registered school
 
 **Human Rights Act 1993 compliance**
@@ -31,7 +31,7 @@ Section 3A of the principal Act is repealed.
 **Enrolment schemes**
 
 ### 5 Effect of home zone
-Section 11D(2)(b) of the principal Act is amended by adding the word ; or and by adding the following paragraph:
+Section 11D(2)﻿(b) of the principal Act is amended by adding the word ; or and by adding the following paragraph:
   (c) if—
     (i) the student has been excluded or expelled from another school (school A); and
     (ii) the principal of the school at which the student wishes to enrol agrees, by arrangement with the principal of school A, to enrol the student; and
@@ -40,7 +40,7 @@ Section 11D(2)(b) of the principal Act is amended by adding the word ; or and by
 ### 6 Instructions and guidelines on operation of enrolment schemes
 Section 11G of the principal Act is amended by repealing subsection (3), and substituting the following subsection:
   (3) The Secretary may issue guidelines to state schools about any or all of the following matters:
-    (a) the basis on which the Secretary's powers in relation to enrolment schemes may be exercised (including, in particular, the power in section 11P(2)(a) relating to the determination of whether an applicant lives within a home zone or outside it):
+    (a) the basis on which the Secretary's powers in relation to enrolment schemes may be exercised (including, in particular, the power in section 11P(2)﻿(a) relating to the determination of whether an applicant lives within a home zone or outside it):
     (b) the kinds of amendments to enrolment schemes that are minor amendments for the purpose of section 11MA, or the criteria for deciding what is a minor amendment, or both:
     (c) the manner in which schools must conduct reviews under section 11OA (which relates to the review of a student's enrolment).
 
@@ -52,7 +52,7 @@ The principal Act is amended by inserting, after section 11M, the following sect
     (b) on receiving confirmation from the Secretary, give notice of the proposed amendment; and
     (c) forward to the Secretary any written comments or queries received by the school regarding the proposed amendment; and
     (d) adopt the amendment by resolution of the school's Board.
-  (3) A school may not adopt an amendment under subsection (2)(d) unless—
+  (3) A school may not adopt an amendment under subsection (2)﻿(d) unless—
     (a) at least 1 month has passed since notice of the proposal was given; and
     (b) the Secretary has, after that time, given approval for the amendment to be incorporated.
   (4) At any time before the amendment is incorporated into the enrolment scheme, the Secretary may advise the school that the proposed amendment is not minor, in which case the school may not adopt the amendment without going through the process set out in sections 11H to 11J.
@@ -73,7 +73,7 @@ The principal Act is amended by inserting, after section 11O, the following sect
     (a) the student was enrolled at the school on the grounds that he or she lived in the school's home zone; and
     (b) the student has, since enrolling at the school, moved out of the school's home zone; and
     (c) the Board believes on reasonable grounds that the student has used a temporary residence within the school's home zone for the purpose of gaining enrolment at the school.
-  (2) On receipt of a review notice, a parent who wishes to rebut the Board's view may make submissions to the Board in whatever manner he or she considers appropriate, and the Board must, in accordance with any guidelines issued under section 11G(3)(c), give the parent every reasonable opportunity to explain the situation.
+  (2) On receipt of a review notice, a parent who wishes to rebut the Board's view may make submissions to the Board in whatever manner he or she considers appropriate, and the Board must, in accordance with any guidelines issued under section 11G(3)﻿(c), give the parent every reasonable opportunity to explain the situation.
   (3) The Board may exercise its power under section 11O(1A) to annul the student's enrolment if, no earlier than 10 school days after the date on which the review notice was sent, the Board determines that the student has used a temporary residence within the school's home zone for the purpose of gaining enrolment at the school.
   (4) Every review notice must—
     (a) be in writing; and
@@ -85,7 +85,7 @@ The principal Act is amended by inserting, after section 11O, the following sect
   (1) A student aged 16 and above, or the parent of a student aged under 16, may ask the principal to release the student from tuition in a particular class or subject.
   (1A) A request under subsection (1) must be made in writing, and at least 24 hours before the start of the tuition.
   (1B) This section applies only to students enrolled at a state school that is not an integrated school.
-(2) Section 25A(2)(a) of the principal Act is amended by inserting, after the word parent, the words or student (as the case may be).
+(2) Section 25A(2)﻿(a) of the principal Act is amended by inserting, after the word parent, the words or student (as the case may be).
 (3) Section 25A of the principal Act is amended by repealing subsection (3), and substituting the following subsection:
   (3) Upon receiving a request from a parent under subsection (1), the principal must, before agreeing to release the student, take all reasonable steps to find out the student's views on the matter.
 
@@ -100,7 +100,7 @@ The principal Act is amended by inserting, after section 11O, the following sect
 **School planning and reporting**
 
 ### 12 National education guidelines
-(1) Section 60A(1) of the principal Act is amended by repealing paragraph (a), and substituting the following paragraph:.
+(1) Section 60A(1) of the principal Act is amended by repealing paragraph (a), and substituting the following paragraph:
   (a) national education goals, which are—
     (i) statements of desirable achievements by the school system, or by an element of the school system; and
     (ii) statements of government policy objectives for the school system:
@@ -178,7 +178,7 @@ The principal Act is amended by repealing sections 61 to 64, and substituting th
 **Disqualifying interests of school trustees**
 
 ### 15 Certain persons ineligible to be trustees
-Section 103(1) of the principal Act is amended by inserting, after paragraph (da), the following paragraph:.
+Section 103(1) of the principal Act is amended by inserting, after paragraph (da), the following paragraph:
   (db) has been declared by the Secretary to be disqualified under section 103A; or
 
 ### 16 New section 103A inserted
@@ -278,7 +278,7 @@ The principal Act is amended by inserting, after section 78G, the following Part
     (d) the appointment by the Secretary, at the direction of the Minister, of a limited statutory manager:
     (e) the dissolution of a Board by the Minister, and the appointment of a commissioner:
     (f) the dissolution of a Board by the Secretary, and the appointment of a commissioner.
-  (2) The Minister or Secretary (as the case may be) may apply any of the interventions described in subsection (1)(b) to (e) to a school if he or she has reasonable grounds to believe that there is a risk to the operation of the school, or to the welfare or educational performance of its students.
+  (2) The Minister or Secretary (as the case may be) may apply any of the interventions described in subsection (1)﻿(b) to (e) to a school if he or she has reasonable grounds to believe that there is a risk to the operation of the school, or to the welfare or educational performance of its students.
   (3) The Minister or Secretary (as the case may be) may apply any of the interventions described in subsection (1) to a school if either of the following requests an intervention:
     (a) the Board of the school:
     (b) in the case of an integrated school, the school's proprietors.
@@ -355,8 +355,8 @@ The principal Act is consequentially amended by repealing sections 64A, 81B, and
 ### 23 Annual reports
 (1) Section 87 of the principal Act is amended—
   (a) by omitting from subsection (1) the words a report on its operations for the year, and substituting the words an annual report in accordance with this section:
-  (b) by adding to subsection (2)(b) the expression ; and.
-(2) Section 87(2) of the principal Act is amended by adding the following paragraphs:.
+  (b) by adding to subsection (2)﻿(b) the expression ; and.
+(2) Section 87(2) of the principal Act is amended by adding the following paragraphs:
   (c) a report, presented in the manner required by the Minister by notice in the Gazette, on the total remuneration paid to school principals employed by the Board; and
   (d) the Board's annual financial statements; and
   (e) a statement in which schools provide an analysis of any variance between the school's performance and the relevant aims, objectives, directions, priorities, or targets set out in the school charter:
@@ -383,7 +383,7 @@ The principal Act is amended by inserting in Part 8A after section 91M, the foll
 **Teacher registration**
 
 ### 25 Interpretation
-(1) Section 120 of the principal Act is amended by inserting, after the definition of authorisation, the following definitions:.
+(1) Section 120 of the principal Act is amended by inserting, after the definition of authorisation, the following definitions:
   - **early childhood service** means—
     (a) a chartered service, as defined in section 308; and
     (b) an early childhood centre licensed under section 317
@@ -396,17 +396,17 @@ The principal Act is amended by inserting in Part 8A after section 91M, the foll
     (c) the management of an early childhood education and care service
     (d) the Secretary, in his or her capacity as an employer under section 91N
   - **free kindergarten** means an early childhood centre (as defined in section 308) controlled by a free kindergarten association founded for the purpose of establishing and maintaining a kindergarten or kindergartens
-(2) Section 120 of the principal Act is amended by repealing the definition of general education system, and substituting the following definition:.
+(2) Section 120 of the principal Act is amended by repealing the definition of general education system, and substituting the following definition:
   - **general education system** means the system of education provided in—
     (a) registered schools (as defined in section 2); and
     (b) early childhood services; and
     (c) other educational institutions and services established or deemed to have been established, or provided, under this Act or the Education Act 1964
-(3) Section 120 of the principal Act is amended by inserting, after the definition of practising certificate, the following definition:.
+(3) Section 120 of the principal Act is amended by inserting, after the definition of practising certificate, the following definition:
   - **professional leader** means,—
     (a) in the case of a school, the principal:
     (b) in the case of an early childhood service, the professional leader of the service:
     (c) in the case of any other educational institution, the chief executive or person occupying an equivalent position
-(4) Section 120 of the principal Act is amended by repealing paragraph (b) of the definition of teaching position, and substituting the following paragraphs:.
+(4) Section 120 of the principal Act is amended by repealing paragraph (b) of the definition of teaching position, and substituting the following paragraphs:
   (b) is the professional leader, deputy professional leader (however described), or assistant principal of a school; or
   (c) is the professional leader of an early childhood service or other educational institution
 (5) Section 120 of the principal Act is amended by adding, after the definition of teaching position, the following definition:
@@ -511,7 +511,7 @@ Sections 138A and 138B of the principal Act are repealed.
     (c) 1 person appointed by the Minister on the nomination of the New Zealand Educational Institute:
     (d) 1 person appointed by the Minister on the nomination of the New Zealand Post Primary Teachers' Association:
     (e) 1 person appointed by the Minister on the nomination of the New Zealand School Trustees Association.
-  (2) The elected members of the Teachers Council must be elected in accordance with rules made under section 139AJ(1)(a) by registered teachers who each hold a current practising certificate.
+  (2) The elected members of the Teachers Council must be elected in accordance with rules made under section 139AJ(1)﻿(a) by registered teachers who each hold a current practising certificate.
   (3) The first elections for the elected members must be held as soon as practicable after the commencement of this section but, until the date on which the elected members take office following those elections, the positions of the elected members must be filled by persons appointed by the Minister.
   (4) In order to provide for the staggered turnover of members, the Minister may specify, when appointing members to hold office when this section comes into force, which members are to hold office for 3 years (which is the standard term of office), and which are to hold office for 18 months.
   The functions of the Teachers Council are as follows:
@@ -621,7 +621,7 @@ Sections 138A and 138B of the principal Act are repealed.
     (a) made the complaint; or
     (b) is otherwise in a position of conflict of interest.
   (6) When performing their functions and exercising their powers, the disciplinary bodies must act in accordance with the rules of natural justice.
-  (1) A person who wishes to make a complaint about the conduct of a teacher must first make the complaint to the teacher's employer, unless 1 of the circumstances in subsection (2)(a) to (d) applies.
+  (1) A person who wishes to make a complaint about the conduct of a teacher must first make the complaint to the teacher's employer, unless 1 of the circumstances in subsection (2)﻿(a) to (d) applies.
   (2) Any person (including a parent, employer, or member of the Teachers Council) may, at any time, make a written complaint to the Teachers Council about the conduct of a teacher—
     (a) if the complaint is about a teacher who is not currently employed by an employer; or
     (b) if the complainant considers, on reasonable grounds, that the employer will not be able to deal with the complaint effectively because of an actual or perceived conflict of interest; or
@@ -666,7 +666,7 @@ Sections 138A and 138B of the principal Act are repealed.
     (h) require any party to the hearing to pay costs to any other party:
     (i) require any party to pay a sum to the Teachers Council in respect of the costs of conducting the hearing.
   (2) Despite subsection (1), following a hearing that arises out of a report under section 139AP of the conviction of a teacher, the Disciplinary Tribunal may not do any of the things specified in paragraphs (d), (f), (h), or (i) of subsection (1).
-  (3) A fine imposed on a teacher, and a sum ordered to be paid to the Teachers Council under subsection (1)(i), are recoverable as debts due to the Teachers Council.
+  (3) A fine imposed on a teacher, and a sum ordered to be paid to the Teachers Council under subsection (1)﻿(i), are recoverable as debts due to the Teachers Council.
   (1) The Disciplinary Tribunal may—
     (a) receive evidence on oath (and for that purpose an officer or employee of the Teachers Council may administer an oath); and
     (b) permit a person appearing as a witness before it to give evidence by written statement, and verify that statement by oath.
@@ -691,7 +691,7 @@ Sections 138A and 138B of the principal Act are repealed.
   (1) A person who is dissatisfied with all or any part of a decision by the Disciplinary Tribunal under section 139AU(2) or section 139AW, or by the Council under section 139AZC, may appeal to a District Court.
   (2) An appeal under this section must be made within 28 days of receipt of written notice of the decision, or any longer period that the court allows.
   (3) Subsections (3) to (7) of section 126 apply to every appeal under this section as if it were an appeal under subsection (1) of section 126.
-  (1) A person who wishes to make a complaint about a teacher's competence must first make the complaint to the teacher's employer, unless 1 of the circumstances in subsection (2)(a) to (d) applies.
+  (1) A person who wishes to make a complaint about a teacher's competence must first make the complaint to the teacher's employer, unless 1 of the circumstances in subsection (2)﻿(a) to (d) applies.
   (2) Any person (including a parent, employer, or member of the Teachers Council) may, at any time, make a written complaint to the Teachers Council about the competence of a teacher—
     (a) if the complaint is about a teacher who is not currently employed by an employer; or
     (b) if the complainant considers, on reasonable grounds, that the employer will not be able to deal with the complaint effectively because of an actual or perceived conflict of interest; or
@@ -737,7 +737,7 @@ Sections 138A and 138B of the principal Act are repealed.
     (b) ensuring that institutions and students receive relevant resourcing:
     (c) monitoring, and ensuring students' rights in respect of, enrolment and attendance.
 (4) Section 144A(2) of the principal Act is amended by omitting the word statistical.
-(5) Section 144A(2)(b) of the principal Act is repealed.
+(5) Section 144A(2)﻿(b) of the principal Act is repealed.
 
 **Regulating school hostels**
 
@@ -786,7 +786,7 @@ The principal Act is amended by inserting, after section 144A, the following sec
 **Human Rights Act 1993 compliance**
 
 ### 40 Interpretation
-Section 145(1) of the principal Act is amended by inserting, after the definition of Secretary, the following definition:.
+Section 145(1) of the principal Act is amended by inserting, after the definition of Secretary, the following definition:
   - **single sex school** means a school maintained wholly or principally for students of one sex; and includes a school declared by notice under section 146A to be a boys' school or a girls' school
 
 ### 41 Single sex schools
@@ -808,8 +808,8 @@ Section 164(2) of the principal Act is amended by omitting the words specified i
 **Human Rights Act 1993 compliance**
 
 ### 44 Requirements as to constitutions of Councils
-(1) The principal Act is amended by repealing section 171(6)(a).
-(2) The principal Act is amended by repealing section 171(6)(b), and substituting the following paragraph:.
+(1) The principal Act is amended by repealing section 171(6)﻿(a).
+(2) The principal Act is amended by repealing section 171(6)﻿(b), and substituting the following paragraph:
   (b) the person is subject to a compulsory treatment order that is an inpatient order, or becomes a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
 
 **Tertiary education institutions**
@@ -818,7 +818,7 @@ Section 164(2) of the principal Act is amended by omitting the words specified i
 Section 180(a) of the principal Act is amended by adding the words , and to monitor and evaluate his or her performance.
 
 ### 46 Duties of Councils
-Section 181 of the principal Act is amended by repealing paragraph (e), and substituting the following paragraph:.
+Section 181 of the principal Act is amended by repealing paragraph (e), and substituting the following paragraph:
   (e) to ensure that the institution operates in a financially responsible manner that ensures the efficient use of resources and maintains the institution's long-term viability:
 
 ### 47 New heading and sections 195A to 195G inserted
@@ -919,12 +919,12 @@ The principal Act is amended by inserting, after Part 18, the following Part:Cod
   (1) If it finds that a signatory to the code has committed a serious breach of the code of practice, the IEAA may recommend to the review panel that—
     (a) the provider be removed as a signatory to the code; or
     (b) the provider be suspended for a specified period as a signatory to the code.
-  (2) If it finds that a signatory to the code has committed a breach of the code other than a serious breach, the IEAA may impose an appropriate sanction (other than a sanction referred to in subsection (1)(a) or (b)) provided in the code.
+  (2) If it finds that a signatory to the code has committed a breach of the code other than a serious breach, the IEAA may impose an appropriate sanction (other than a sanction referred to in subsection (1)﻿(a) or (b)) provided in the code.
   (3) If it considers that the sanction it has imposed on a provider under subsection (2) has not been complied with to its satisfaction, the IEAA can recommend to the review panel that—
     (a) the provider be removed as a signatory to the code; or
     (b) the provider be suspended for a specified period as a signatory to the code.
   (4) The review panel may—
-    (a) impose the sanction referred to in subsection (1)(a) or (b) that is recommended by the IEAA; or
+    (a) impose the sanction referred to in subsection (1)﻿(a) or (b) that is recommended by the IEAA; or
     (b) substitute the other sanction referred to in subsection (1); or
     (c) substitute an appropriate lesser sanction provided for in the code; or
     (d) set aside the recommendation made by the IEAA.
@@ -939,7 +939,7 @@ The principal Act is amended by inserting, after Part 18, the following Part:Cod
 **Human Rights Act 1993 compliance**
 
 ### 49 Constitution
-The principal Act is amended by repealing section 249(5)(a).
+The principal Act is amended by repealing section 249(5)﻿(a).
 
 **New Zealand Qualifications Authority**
 
@@ -948,9 +948,9 @@ Section 246 of the principal Act is amended by adding the following definition:
   - **secondary school** means a secondary school or composite school, as those terms are defined in section 2.
 
 ### 51 Functions of Authority
-(1) Section 253(1)(e) of the principal Act is amended by inserting, after the word institutions, the words , secondary schools,.
-(2) Section 253(1)(f) of the principal Act is amended by inserting, after the word institutions, the words , secondary schools,.
-(3) Section 253(1) of the principal Act is amended by repealing paragraph (g), and substituting the following paragraph:.
+(1) Section 253(1)﻿(e) of the principal Act is amended by inserting, after the word institutions, the words , secondary schools,.
+(2) Section 253(1)﻿(f) of the principal Act is amended by inserting, after the word institutions, the words , secondary schools,.
+(3) Section 253(1) of the principal Act is amended by repealing paragraph (g), and substituting the following paragraph:
   (g) to assist overseas governments, and agencies of those governments, by—
     (i) conducting examinations and assessments:
     (ii) approving programmes and courses of study:
@@ -986,7 +986,7 @@ Section 254 of the principal Act is amended by adding the following subsection:
 (6) Section 259(6) of the principal Act is amended by omitting the words Council or.
 
 ### 55 Applications for consents by Authority
-(1) The principal Act is amended by repealing section 264(1)(a).
+(1) The principal Act is amended by repealing section 264(1)﻿(a).
 (2) Section 264(2) of the principal Act is amended by omitting the words subsection (3) of this section and.
 (3) The principal Act is amended by repealing section 264(3).
 
@@ -1000,13 +1000,13 @@ The principal Act is amended by inserting, after section 264, the following sect
   (3) In deciding whether to give consent under subsection (1) to the use of the term institute of technology, the relevant characteristics that the Minister must take into account are the characteristics of a polytechnic.
 
 ### 57 Offences
-(1) The principal Act is amended by repealing paragraph (a) of section 292(4), and substituting the following paragraph:.
+(1) The principal Act is amended by repealing paragraph (a) of section 292(4), and substituting the following paragraph:
   (a) except with the consent of the Minister, use of any of the following terms to describe an educational establishment or facility other than an institution:
     (i) university:
     (ii) college of education:
     (iii) polytechnic:
     (iv) institute of technology: or
-(2) Section 292(4)(b) of the principal Act is amended by inserting, after the word Authority, the words or body subject to a delegation under section 254(5).
+(2) Section 292(4)﻿(b) of the principal Act is amended by inserting, after the word Authority, the words or body subject to a delegation under section 254(5).
 
 **Human Rights Act 1993 compliance**
 
@@ -1067,9 +1067,9 @@ Section 322 of the principal Act is amended by repealing subsection (2), and sub
 **Regulating school hostels**
 
 ### 62 Interpretation
-(1) Section 323 of the principal Act is amended by inserting, after the definition of Chief Review Officer, the following definition:.
+(1) Section 323 of the principal Act is amended by inserting, after the definition of Chief Review Officer, the following definition:
   - **hostel** means a boarding establishment used mainly or solely for the accommodation of students enrolled at a registered school
-(2) Section 323 of the principal Act is amended by inserting, after the definition of parent, the following definition:.
+(2) Section 323 of the principal Act is amended by inserting, after the definition of parent, the following definition:
   - **registered school** has the same meaning as it has in section 2(1)
 
 ### 63 New sections 328E to 328H inserted
@@ -1105,8 +1105,8 @@ Schedules 2, 3, 15, 16, 17 and 18 of the principal Act are amended by omitting f
 
 ### 65 Transition to new planning regime
 (1) In this section,—
-  - **new national administration guidelines** means national administration guidelines issued under section 60A(1)(c) of the principal Act as substituted by section 12
-  - **old national administration guidelines** means national administration guidelines that were issued under section 60A(1)(c) of the principal Act, as it read immediately before the date of commencement of section 12, and had effect immediately before that date.
+  - **new national administration guidelines** means national administration guidelines issued under section 60A(1)﻿(c) of the principal Act as substituted by section 12
+  - **old national administration guidelines** means national administration guidelines that were issued under section 60A(1)﻿(c) of the principal Act, as it read immediately before the date of commencement of section 12, and had effect immediately before that date.
 (2) The provisions of old national administration guidelines continue to have effect until replaced or superseded by new national administration guidelines.
 
 ### 66 Transition to new annual reporting requirements
@@ -1132,13 +1132,13 @@ Schedules 2, 3, 15, 16, 17 and 18 of the principal Act are amended by omitting f
 **Transitional provisions relating to teacher registration**
 
 ### 69 Delayed application of teacher registration provisions
-(1) Part 10 of the principal Act does not apply to, or apply in relation to, Kura Kaupapa Maori or any person employed in a teaching position at a Kura Kaupapa Maori, except in accordance with regulations made under subsection (2).
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out 1 or more transition plans for bringing Kura Kaupapa Maori and early childhood services (as defined in section 120 of the principal Act) under Part 10 of the principal Act, including regulations—
-  (a) declaring specified early childhood services, or early childhood services of 1 or more specified types or descriptions, to be early childhood education and care services for the purpose of Part 10 of the principal Act:
-  (b) setting a date or dates on which, or a period or periods within which, specified provisions of Part 10 of the principal Act apply to—
+(1) Part 31 of the principal Act does not apply to, or apply in relation to, Kura Kaupapa Maori or any person employed in a teaching position at a Kura Kaupapa Maori, except in accordance with regulations made under subsection (2).
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out 1 or more transition plans for bringing Kura Kaupapa Maori and early childhood services (as defined in section 348 of the principal Act) under Part 31 of the principal Act, including regulations—
+  (a) declaring specified early childhood services, or early childhood services of 1 or more specified types or descriptions, to be early childhood education and care services for the purpose of Part 31 of the principal Act:
+  (b) setting a date or dates on which, or a period or periods within which, specified provisions of Part 31 of the principal Act apply to—
     (i) Kura Kaupapa Maori, or persons employed in teaching positions at Kura Kaupapa Maori:
     (ii) early childhood services or persons employed in teaching positions at those early childhood services:
-  (c) modifying the definition of teaching position in section 120 of the principal Act for the purposes of applying it to Kura Kaupapa Maori, or early childhood services, or both.
+  (c) modifying the definition of teaching position in section 348 of the principal Act for the purposes of applying it to Kura Kaupapa Maori, or early childhood services, or both.
 
 **Transitional provisions relating to New Zealand Teachers Council**
 
@@ -1182,10 +1182,10 @@ A transferred employee is not entitled to receive any compensation for redundanc
 (2) Until the date on which the first elected members take office, the Teachers Council may not—
   (a) exercise its functions under section 139AE(g), (h), (i) or (j) of the principal Act; and
   (b) prepare a code of ethics under section 139AI of the principal Act; and
-  (c) make the rules referred to in section 139AJ(1)(b) to (e) of the principal Act (which relate to disciplinary functions and mandatory reporting).
+  (c) make the rules referred to in section 139AJ(1)﻿(b) to (e) of the principal Act (which relate to disciplinary functions and mandatory reporting).
 (3) After the date on which the elected members take office, the Teachers Council may do any of the things specified in subsection (2), except exercise its functions under section 139AE(h) of the principal Act (which relates to disciplinary functions).
-(4) The Teachers Council must advise the Minister when it has made rules under section 139AJ(1)(b) to (e) of the principal Act.
-(5) The Governor-General must make an Order in Council bringing the following provisions into force as soon as practicable after the date on which the Teachers Council advises the Minister that it has made rules under section 139AJ(1)(b) to (e) of the principal Act:
+(4) The Teachers Council must advise the Minister when it has made rules under section 139AJ(1)﻿(b) to (e) of the principal Act.
+(5) The Governor-General must make an Order in Council bringing the following provisions into force as soon as practicable after the date on which the Teachers Council advises the Minister that it has made rules under section 139AJ(1)﻿(b) to (e) of the principal Act:
   (a) section 29 (which substitutes a new section 129 of the principal Act dealing with deregistration) and section 32 (which repeals section 130G of the principal Act (cancellation of authorisation)):
   (b) sections 35 and 36 (which repeal sections of the principal Act relating to deregistration and mandatory reporting):
   (c) sections 139AK to 139AZB of the principal Act (as inserted by section 37) (which relate to mandatory reporting and disciplinary provisions):
@@ -1222,7 +1222,7 @@ A transferred employee is not entitled to receive any compensation for redundanc
 **Human Rights Act 1993 compliance**
 
 ### 80 Royal New Zealand Foundation for the Blind Act 1963 amended
-Section 32(1)(g) of the Royal New Zealand Foundation for the Blind Act 1963 is amended by omitting the words wife, widow, and substituting the words spouse, de facto partner.
+Section 32(1)﻿(g) of the Royal New Zealand Foundation for the Blind Act 1963 is amended by omitting the words wife, widow, and substituting the words spouse, de facto partner.
 
 ### 81 Pacific Islands Polynesian Education Foundation Act 1972 amended
 Section 8(6) of the Pacific Islands Polynesian Education Foundation Act 1972 is amended by omitting the word disability, and substituting the words inability to adequately perform the duties of office.
@@ -1240,7 +1240,7 @@ The enactments in Schedule 4 are consequentially amended in the manner indicated
 
 ### 84 Validation of accommodation grant payments to Te Kohanga Reo National Trust Board
 (1) This section applies to the payments made by the Crown to Te Kohanga Reo National Trust Board that—
-  (a) were capital accommodation grants under section 309(1)(a)(ii) of the principal Act for the period beginning on 1 July 1996 and ending with the close of 30 June 2000; and
+  (a) were capital accommodation grants under section 309(1)﻿(a)﻿(ii) of the principal Act for the period beginning on 1 July 1996 and ending with the close of 30 June 2000; and
   (b) were advanced to the constituent kohanga reo by way of loans.
 (2) The payments to which this section applies are validated and are to be treated for all purposes as if they were capital accommodation grants made in accordance with section 309 of the principal Act.
 
@@ -1343,7 +1343,7 @@ On the effective date,—
 (3) If a transfer of an asset or liability under section 86 is registrable, the person responsible for keeping the register must register the transfer immediately after written notice of the transfer is received by him or her from any person authorised for this purpose by the Minister.
 (4) Subsection (2) does not limit sections 86 to 96.
 
-## Schedule  — New Schedule 7 of principal Act substituted
+## Schedule 1 — New Schedule 7 of principal Act substituted
 
 ### Schedule Seventh Schedule — New Zealand Teachers Council and members
 
@@ -1491,8 +1491,8 @@ The chief executive of the Council may appoint whatever other employees he or sh
 (4) Nothing in subclause (2) entitles a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
 (5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the Council is the controlling authority.
 
-## Schedule  — Consequential amendments to principal Act
+## Schedule 2 — Consequential amendments to principal Act
 
-## Schedule  — Further consequential amendments to principal Act
+## Schedule 3 — Further consequential amendments to principal Act
 
-## Schedule  — Consequential amendments to other Acts
+## Schedule 4 — Consequential amendments to other Acts
