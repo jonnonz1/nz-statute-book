@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2015-07-01_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -46,15 +46,15 @@ _Consolidation as at 2014-12-07_
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002.
 (2) For the purposes of paragraph (c) of the definition of the term income in subsection (1), any income of any person allowed by any provision of the Income Tax Act 2007 to be spread back or forward or allowed to be apportioned to a financial year earlier or later than that in which it was derived shall be included in the income of that person for the financial year in which it was derived.
 (3) For the purposes of the rating year commencing on 1 July 1990, the expression immediately preceding rating year shall refer—
-  (a) in sections 3(1)(a)(ii) and 4, to the period of 12 months ending on 30 June 1990:
-  (b) in section 8(1)(a)(i) and (ii), to the period of 12 months ending on 31 March 1990.
+  (a) in sections 3(1)﻿(a)﻿(ii) and 4, to the period of 12 months ending on 30 June 1990:
+  (b) in section 8(1)﻿(a)﻿(i) and (ii), to the period of 12 months ending on 31 March 1990.
 
 ### 3 Rates rebate
 (1) A ratepayer who, at the commencement of a rating year was the ratepayer of a residential property is entitled, on application in that year, to a rebate of—whichever amount is the less.
   (a) so much of the rates payable for that rating year in respect of the property as represents—
     (i) two-thirds of the amount by which those rates exceed $160, reduced by
-    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $24,250, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
-  (b) $605,—
+    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $24,440, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
+  (b) $610,—
 (1A) A ratepayer who, at the commencement of a rating year, was the ratepayer of a residential property, and later during that year becomes the ratepayer of another residential property, is entitled to a rates rebate under subsection (1). The amount of the rebate must be apportioned according to the amount of time the ratepayer was the ratepayer of each residential property during the rating year.
 (2) The Governor-General may from time to time, by Order in Council, amend the provisions of subsection (1) by substituting any amount for any amount specified in that subsection.
 
