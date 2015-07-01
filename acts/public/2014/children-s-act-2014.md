@@ -1,5 +1,5 @@
 # Vulnerable Children Act 2014
-_Consolidation as at 2015-05-07_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Vulnerable Children Act 2014.
