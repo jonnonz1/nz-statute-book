@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2015-06-06_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -32,7 +32,6 @@ In this Act, unless the context otherwise requires,—
   - **broker** has the meaning given by section 77A of the Financial Advisers Act 2008
   - **broking service** has the meaning given by section 77B of the Financial Advisers Act 2008
   - **business** includes any profession, trade, or undertaking, whether or not carried on with the intention of making a pecuniary profit
-  - **chartered accountant** has the same meaning as in section 2 of the Institute of Chartered Accountants of New Zealand Act 1996
   - **chief executive** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **company** means a company, or an overseas company, within the meaning of section 2(1) of the Companies Act 1993
   - **contract of insurance** —
@@ -87,6 +86,7 @@ In this Act, unless the context otherwise requires,—
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **person** includes a corporation sole, a body corporate, and an unincorporated body
   - **prescribed** means prescribed by this Act or by any regulations made under this Act
+  - **qualified statutory accountant** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **real estate agent** means a person who is a licensee under the Real Estate Agents Act 2008
   - **register** means the register of financial service providers established and maintained under section 24
   - **Registrar** means the Registrar of Financial Service Providers appointed under section 35
@@ -131,7 +131,7 @@ In this Act, in the business of providing a financial service means carrying on 
 ### 7 Application of Act
 (1) This Act applies to persons who are in the business of providing a financial service.
 (2) None of the following persons are in the business of providing a financial service for the purposes of this Act to the extent this subsection applies to them:
-  (a) a lawyer, incorporated law firm, conveyancing practitioner, chartered accountant, tax agent, or real estate agent providing a service in the ordinary course of business of the relevant kind:
+  (a) a lawyer, incorporated law firm, conveyancing practitioner, qualified statutory accountant, tax agent, or real estate agent providing a service in the ordinary course of business of the relevant kind:
   (b) a government department listed in Schedule 1 of the State Sector Act 1988:
   (c) the Reserve Bank of New Zealand (and any subsidiaries):
   (d) the statutory entities listed in Schedule 1 of the Crown Entities Act 2004 (other than Public Trust):
