@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2015-03-17_
+_Consolidation as at 2015-07-01_
 
 > Title
 
@@ -150,7 +150,7 @@ Nothing in this Act applies to conduct in relation to any transaction or event r
     (i) are in trade; and
     (ii) agree to contract out of section 9, 12A, 13, or 14(1); and
   (d) it is fair and reasonable that the parties are bound by the provision in the agreement.
-(4) If, in any case, a court is required to decide what is fair and reasonable for the purposes of subsection (3)(d), the court must take account of all the circumstances of the agreement, including—
+(4) If, in any case, a court is required to decide what is fair and reasonable for the purposes of subsection (3)﻿(d), the court must take account of all the circumstances of the agreement, including—
   (a) the subject matter of the agreement; and
   (b) the value of the goods, services, or interest in land; and
   (c) the respective bargaining power of the parties, including—
@@ -333,19 +333,19 @@ No person shall demand or accept payment or other consideration for goods or ser
   (b) must, at any reasonable time during the period of 10 working days after the day on which the recipient receives those goods, make those goods available for collection by, or on behalf of, the sender.
 (2) If the sender is in trade, the sender must, at the time the goods are delivered (whether by the sender or by any other person on behalf of the sender), inform the recipient of the recipient's rights and obligations under subsection (1).
 (3) Subsection (4) applies if—
-  (a) the period referred to in subsection (1)(b) has expired; or
-  (b) a sender has failed to comply with subsection (2) (whether or not the period referred to in subsection (1)(b) has expired).
+  (a) the period referred to in subsection (1)﻿(b) has expired; or
+  (b) a sender has failed to comply with subsection (2) (whether or not the period referred to in subsection (1)﻿(b) has expired).
 (4) If this subsection applies,—
   (a) the recipient takes the goods as an unconditional gift; and
   (b) all interests that any other person had in the goods are extinguished; and
   (c) no action may be taken by any person for the recovery of the goods from the recipient.
 (5) However, subsection (4) does not apply if the recipient—
-  (a) has failed, without reasonable excuse, to comply with subsection (1)(b); or
+  (a) has failed, without reasonable excuse, to comply with subsection (1)﻿(b); or
   (b) knew, or ought reasonably to have known, that—
     (i) the goods were not intended for the recipient; or
     (ii) the sender had no right to send or deliver, or arrange for the delivery of, those goods to the recipient.
 (6) To avoid doubt,—
-  (a) a recipient does not commit an offence by failing to comply with subsection (1)(b); but
+  (a) a recipient does not commit an offence by failing to comply with subsection (1)﻿(b); but
   (b) the consequence of such failure is that the recipient is unable to rely on subsection (4).
 (7) In this section and section 21C, unsolicited goods—
   (a) means goods that have been sent or delivered to a recipient without any request for those goods having been made by, or on behalf of, that recipient; but
@@ -363,13 +363,13 @@ No person shall demand or accept payment or other consideration for goods or ser
 (1) A person must not, in trade,—
   (a) assert, or appear to assert, that the person has a right to payment from another person for unsolicited goods or unsolicited services; or
   (b) send or deliver to another person an invoice or other document that states the amount of a payment for, or sets out the charge for supplying, unsolicited goods or unsolicited services, unless that invoice or document complies with subsection (2).
-(2) The invoice or other document referred to in subsection (1)(b) must—
+(2) The invoice or other document referred to in subsection (1)﻿(b) must—
   (a) contain a statement in the form prescribed in regulations made under section 21D; or
   (b) if no regulations have been made, clearly inform the recipient that the recipient is under no obligation to make any payment for the goods or services.
 
 ### 21D Regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with subsection (2), make regulations, in relation to unsolicited goods or unsolicited services or both, for all or any of the following purposes:
-  (a) prescribing a statement for the purposes of section 21C(2)(a), including the size of the lettering of the words in, and the format of, the statement:
+  (a) prescribing a statement for the purposes of section 21C(2)﻿(a), including the size of the lettering of the words in, and the format of, the statement:
   (b) prescribing how, when, and to whom a statement prescribed under paragraph (a) must be provided.
 (2) The Minister must not make a recommendation under this section unless—
   (a) the Minister has consulted such persons or representatives of such persons as the Minister considers will be substantially affected by any Order in Council made in accordance with the recommendation, and those persons have had the opportunity to comment to the Minister; and
@@ -544,7 +544,7 @@ No provision of this Part limits or affects any other provision of this Part.
   (a) the Ministry has consulted such persons or representatives of such persons as the Ministry considers will be substantially affected by the proposed recommendations, and those persons have had the opportunity to comment to the Ministry; and
   (b) the Ministry has considered any such comments.
 (4) As soon as practicable after receiving the report, the Minister must—
-  (a) consider the recommendations and any comments received by the Ministry under subsection (3)(a); and
+  (a) consider the recommendations and any comments received by the Ministry under subsection (3)﻿(a); and
   (b) decide whether to continue, amend, revoke, or replace the statement; and
   (c) ensure that the Minister's decision is available to the public, at all reasonable times, on an Internet site maintained by or on behalf of the Ministry.
 
@@ -591,7 +591,7 @@ No provision of this Part limits or affects any other provision of this Part.
 (4) The chief executive—
   (a) must ensure that a copy of every notice under this section is available to the public, at all reasonable times, on an Internet site maintained by or on behalf of the Ministry, for at least 2 years after the date on which the voluntary recall was notified to the chief executive in accordance with subsection (2); and
   (b) may make copies of notices available in any other way that the chief executive considers appropriate in the circumstances.
-(5) In subsection (1)(b), government agency means a department or Crown entity.
+(5) In subsection (1)﻿(b), government agency means a department or Crown entity.
 
 ### 32 Compulsory product recall
 (1) Where a person (in this section referred to as the supplier) has in trade supplied goods which—and the supplier has not recalled the goods or taken satisfactory action to recall the goods the Minister may, by notice to the supplier, require the supplier to take the action specified in subsection (3).
@@ -650,7 +650,7 @@ All goods the supply of which would constitute a contravention of this Part are 
     (i) his or her name and address; and
     (ii) the name and address of his or her employer (if any); and
     (iii) the name and address of the owner of the goods, if known.
-(3) If a product safety officer enters a dwellinghouse with the permission of the occupier or under a warrant issued under subsection (4), the product safety officer may, for the purpose described in subsection (1)(b), exercise the powers listed in subsection (2).
+(3) If a product safety officer enters a dwellinghouse with the permission of the occupier or under a warrant issued under subsection (4), the product safety officer may, for the purpose described in subsection (1)﻿(b), exercise the powers listed in subsection (2).
 (4) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may issue a warrant authorising a product safety officer to enter a dwellinghouse if the issuing officer is satisfied, on application made in accordance with subsection (5), that there are reasonable grounds for believing that it is necessary for the product safety officer to enter the dwellinghouse for the purpose of ascertaining—
   (a) whether there are any suspect goods at the dwellinghouse that are or may be available to consumers for supply, or are or may be being dispatched for supply to consumers; and
   (b) if there are, whether the goods are unsafe.
@@ -722,8 +722,8 @@ The purpose of this Part is to set out in one place the rules applying to—
   (b) the price of the goods is to be paid by—
     (i) 3 or more instalments; or
     (ii) if the agreement specifies that it is a layby sale agreement, 2 or more instalments.
-(2) However, a layby sale agreement does not include an agreement for the supply of goods that have a purchase price that is more than $15,000 or, if greater, the amount specified in section 10(1A)(b) of the Disputes Tribunals Act 1988.
-(3) For the purposes of subsection (1)(b), a deposit paid by the consumer for the goods is an instalment.
+(2) However, a layby sale agreement does not include an agreement for the supply of goods that have a purchase price that is more than $15,000 or, if greater, the amount specified in section 10(1A)﻿(b) of the Disputes Tribunals Act 1988.
+(3) For the purposes of subsection (1)﻿(b), a deposit paid by the consumer for the goods is an instalment.
 (4) Despite section 7 of the Credit Contracts and Consumer Finance Act 2003, a layby sale agreement is not a credit contract for the purposes of that Act if no interest charges, and no credit fees, are payable under the layby sale agreement.
 (5) In subsection (4) and in this subsection,—
   - **associated person** has the same meaning as in section 8A of the Credit Contracts and Consumer Finance Act 2003
@@ -748,7 +748,7 @@ The purpose of this Part is to set out in one place the rules applying to—
     (iv) is presented clearly; and
     (v) complies with the requirements of subsection (2); and
   (b) a copy of the agreement is given to the consumer at the time the agreement is entered into.
-(2) The requirements referred to in subsection (1)(a)(v) are that—
+(2) The requirements referred to in subsection (1)﻿(a)﻿(v) are that—
   (a) the following information is set out on the front page of the agreement:
     (i) a clear description of the goods to be supplied under the agreement; and
     (ii) a summary of the consumer's right to cancel the agreement under section 36F(1); and
@@ -778,8 +778,8 @@ The purpose of this Part is to set out in one place the rules applying to—
 (1) A consumer may cancel a layby sale agreement—
   (a) at any time before the consumer takes possession of the goods to which the agreement relates; and
   (b) in any way (including oral or written) that shows the intention of the consumer to cancel or withdraw from the agreement.
-(2) For the purposes of subsection (1)(b), the consumer must communicate with the supplier—
-  (a) by way of the contact details provided in accordance with section 36C(2)(a)(v); or
+(2) For the purposes of subsection (1)﻿(b), the consumer must communicate with the supplier—
+  (a) by way of the contact details provided in accordance with section 36C(2)﻿(a)﻿(v); or
   (b) in any other way agreed to by the consumer and the supplier.
 (3) A supplier must not require the consumer to pay a charge for the cancellation of the agreement (a cancellation charge) unless—
   (a) the agreement is cancelled—
@@ -820,13 +820,13 @@ If a layby sale agreement is cancelled under section 36F or 36G, the supplier—
   (b) have property in the goods to which the agreement relates transferred to him or her; and
   (c) take possession of those goods.
 (3) However, if there are insufficient goods to enable all consumers to complete their agreements in accordance with subsection (2), the agreements must be completed in the same order as they were entered into.
-(4) Subsections (2) and (3) do not apply to a consumer who has, in breach of the agreement, made no payments to the supplier during the 3 months immediately before the relevant event described in subsection (1)(a).
+(4) Subsections (2) and (3) do not apply to a consumer who has, in breach of the agreement, made no payments to the supplier during the 3 months immediately before the relevant event described in subsection (1)﻿(a).
 (5) If a consumer makes a payment under the agreement after an event described in subsection (1), the consumer is entitled to have that payment refunded in full.
 (6) To avoid doubt, subsection (5) does not apply if the agreement is completed in accordance with subsection (2) or (3).
 
 ### 36J Bankruptcy, receivership, or liquidation of supplier: consumer priority
 (1) This section applies if—
-  (a) an event described in section 36I(1)(a)(i) to (iii) has occurred; and
+  (a) an event described in section 36I(1)﻿(a)﻿(i) to (iii) has occurred; and
   (b) the consumer described in section 36I(2)—
     (i) is entitled to a refund under section 36H(a); or
     (ii) has been unable to complete the layby sale agreement in accordance with section 36I(2) or (3), as the case may be.
@@ -835,12 +835,12 @@ If a layby sale agreement is cancelled under section 36F or 36G, the supplier—
   (b) is entitled to recover a sum equal to those payments with priority over—
     (i) all other unsecured creditors; and
     (ii) all creditors secured by a security interest of the kind described in subsection (3).
-(3) The kind of security interest referred to in subsection (2)(b)(ii) is a security interest that is over all or any part of the supplier's accounts receivable and inventory, or all or part of either of them, other than—
+(3) The kind of security interest referred to in subsection (2)﻿(b)﻿(ii) is a security interest that is over all or any part of the supplier's accounts receivable and inventory, or all or part of either of them, other than—
   (a) a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; or
   (b) a security interest that—
-    (i) has been perfected under the Personal Property Securities Act 1999 at the date of the event described in section 36I(1)(a)(i) to (iii); and
+    (i) has been perfected under the Personal Property Securities Act 1999 at the date of the event described in section 36I(1)﻿(a)﻿(i) to (iii); and
     (ii) arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
-(4) Debts to which priority is given by subsection (2)(b) must be paid in accordance with—
+(4) Debts to which priority is given by subsection (2)﻿(b) must be paid in accordance with—
   (a) section 274(3) of the Insolvency Act 2006 (in the case of bankruptcies); or
   (b) section 30 of the Receiverships Act 1993 (in the case of receiverships); or
   (c) section 312 and Schedule 7 of the Companies Act 1993 (in the case of liquidations).
@@ -885,7 +885,7 @@ If a layby sale agreement is cancelled under section 36F or 36G, the supplier—
   (b) a copy of the agreement is given to the consumer—
     (i) at the time the agreement is entered into; or
     (ii) in the case of an agreement entered into over the telephone, within 5 working days after the date on which the agreement was entered into.
-(2) The requirements referred to in subsection (1)(a)(v) are that—
+(2) The requirements referred to in subsection (1)﻿(a)﻿(v) are that—
   (a) the following information is set out on the front page of the agreement:
     (i) a clear description of the goods or services to be supplied under the agreement; and
     (ii) a summary of the consumer's right to cancel the agreement under section 36M(1); and
@@ -912,14 +912,14 @@ If a layby sale agreement is cancelled under section 36F or 36G, the supplier—
   (b) if the supplier has failed to comply with section 36L (except to the extent provided for in section 36N(2)), at any time.
 (2) Notice of cancellation may be expressed in any way (including oral or written) that shows the intention of the consumer to cancel or withdraw from the agreement.
 (3) For the purposes of subsection (2), the consumer must communicate with the supplier—
-  (a) by way of the contact details provided in accordance with section 36L(2)(a)(iii); or
+  (a) by way of the contact details provided in accordance with section 36L(2)﻿(a)﻿(iii); or
   (b) in any other way agreed to by the consumer and the supplier.
 
 ### 36N Enforcement of uninvited direct sale agreement by supplier
 (1) An uninvited direct sale agreement is not enforceable by a supplier unless—
   (a) the supplier has complied with section 36L; and
   (b) the time during which the consumer may cancel the agreement under section 36M has expired, and the consumer has not given notice of cancellation within that time.
-(2) However, subsection (1)(a) does not apply if the failure to comply with section 36L is minor (for example, where a supplier has provided an agreement at a time later than the time specified in section 36L(1)(b)) and does not materially prejudice the consumer.
+(2) However, subsection (1)﻿(a) does not apply if the failure to comply with section 36L is minor (for example, where a supplier has provided an agreement at a time later than the time specified in section 36L(1)﻿(b)) and does not materially prejudice the consumer.
 
 ### 36O Effect of cancellation of uninvited direct sale agreement
 If an uninvited direct sale agreement is cancelled by a consumer (see section 36M),—
@@ -939,7 +939,7 @@ On cancellation of an uninvited direct sale agreement in accordance with section
     (i) from the address provided by the consumer in the agreement; and
     (ii) at any reasonable time requested by the supplier; and
   (b) take reasonable care of those goods, from the time that the consumer took possession of the goods until the end of 10 working days beginning with the date on which notice was given in accordance with section 36M.
-(2) However, if, during the 10 working days referred to in subsection (1)(b), the consumer unreasonably refuses or fails to permit the supplier to take possession of the goods, the consumer's obligation to take reasonable care of the goods continues until the consumer has given the supplier a reasonable opportunity to take possession of the goods.
+(2) However, if, during the 10 working days referred to in subsection (1)﻿(b), the consumer unreasonably refuses or fails to permit the supplier to take possession of the goods, the consumer's obligation to take reasonable care of the goods continues until the consumer has given the supplier a reasonable opportunity to take possession of the goods.
 (3) Despite subsection (1), a consumer may, at the supplier's expense (if the supplier requests the consumer to return the goods and arranges for the goods to be collected from the consumer) or at the consumer's expense (if the consumer chooses to return the goods without a request being made by the supplier), return the goods to the supplier, in which case the consumer's obligation to take care of the goods ceases when the goods are collected from the consumer, or when the consumer sends the goods to the supplier, as the case may be.
 (4) However, the consumer is under an obligation to take reasonable care to ensure that the goods will not be damaged in transit and, if the consumer chooses to return the goods without a request being made by the supplier, to also take reasonable care to ensure that the goods will be delivered to the supplier.
 (5) To avoid doubt, a consumer is under no obligation—
@@ -993,7 +993,7 @@ In this subpart,—
     (iv) is presented clearly; and
     (v) complies with the requirements of subsection (2); and
   (b) a copy of the agreement is given to the consumer at the time the consumer purchases the extended warranty.
-(2) The requirements referred to in subsection (1)(a)(v) are that—
+(2) The requirements referred to in subsection (1)﻿(a)﻿(v) are that—
   (a) the following information is set out on the front page of the agreement:
     (i) a summarised comparison between the relevant Consumer Guarantees Act 1993 guarantees and the protections provided by the extended warranty agreement; and
     (ii) a summary of the consumer's rights and remedies under the Consumer Guarantees Act 1993; and
@@ -1011,13 +1011,13 @@ In this subpart,—
 ### 36V Cancellation of extended warranty agreement
 (1) A consumer may cancel an extended warranty agreement by giving notice of the cancellation to the warrantor—
   (a) within 5 working days after the date on which the consumer receives a copy of the agreement; or
-  (b) if the warrantor has failed to comply with section 36U (except to the extent provided for in subsection (2)(b)), at any time.
+  (b) if the warrantor has failed to comply with section 36U (except to the extent provided for in subsection (2)﻿(b)), at any time.
 (2) However,—
   (a) subsection (1) does not apply in relation to an extended warranty agreement that has been entered into as a condition of a consumer credit contract (as defined in section 11 of the Credit Contracts and Consumer Finance Act 2003); and
-  (b) subsection (1)(b) does not apply if the failure to comply with section 36U is minor (for example, where a warrantor has provided an agreement at a time later than the time specified in section 36U(1)(b)) and does not materially prejudice the consumer.
+  (b) subsection (1)﻿(b) does not apply if the failure to comply with section 36U is minor (for example, where a warrantor has provided an agreement at a time later than the time specified in section 36U(1)﻿(b)) and does not materially prejudice the consumer.
 (3) Notice of cancellation may be expressed in any way (including oral or written) that shows the intention of the consumer to cancel or withdraw from the agreement.
 (4) For the purposes of subsection (3), the consumer must communicate with the warrantor—
-  (a) by way of the contact details provided in accordance with section 36U(2)(a)(iv); or
+  (a) by way of the contact details provided in accordance with section 36U(2)﻿(a)﻿(iv); or
   (b) in any other way agreed to by the consumer and the warrantor.
 (5) On cancellation of an agreement in accordance with subsections (1) to (3), the supplier must immediately repay all additional consideration, in full and without any deductions, to the consumer.
 (6) To avoid doubt, nothing in this section entitles a consumer to cancel any other agreement relating to the goods or services that are the subject of the extended warranty agreement.
@@ -1179,7 +1179,7 @@ In this Act, unless the context otherwise requires,—
 (1) An infringement notice may be served on a person (a recipient) who is alleged to have committed an infringement offence—
   (a) by delivering it, or a copy of it, personally to the recipient; or
   (b) by sending it, or a copy of it, by post, addressed to the recipient at the recipient's last known place of residence or business.
-(2) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent under subsection (1)(b) must be treated as having been served on the recipient on the date it was posted.
+(2) For the purposes of the Summary Proceedings Act 1957, an infringement notice sent under subsection (1)﻿(b) must be treated as having been served on the recipient on the date it was posted.
 (3) An infringement notice must be in the form prescribed by regulations made under section 40H and must contain—
   (a) details of the alleged infringement offence that are sufficient to fully and fairly inform the recipient of the time, place, and nature of the alleged infringement offence; and
   (b) the amount of the infringement fee; and
@@ -1254,10 +1254,10 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (f) an order directing person B to pay to person A the amount of the loss or damage:
   (g) an order directing person B, at person B's own expense, to repair, or to provide parts for, goods that have been supplied by person B to person A:
   (h) an order directing person B, at person B's own expense, to supply specified goods or services to person A.
-(4) In subsection (3)(a) to (d), collateral credit agreement, in relation to a contract for the supply of goods, means a contract or an agreement that—
+(4) In subsection (3)﻿(a) to (d), collateral credit agreement, in relation to a contract for the supply of goods, means a contract or an agreement that—
   (a) is arranged or procured by the supplier of the goods; and
   (b) is for the provision of credit by a person other than the supplier to enable person A to pay, or defer payment, for the goods.
-(5) An order made under subsection (3)(a) to (d) does not prevent proceedings being instituted or commenced under this Part.
+(5) An order made under subsection (3)﻿(a) to (d) does not prevent proceedings being instituted or commenced under this Part.
 (6) This section does not limit or affect—
   (a) the Illegal Contracts Act 1970; or
   (b) section 317 of the Accident Compensation Act 2001.
@@ -1269,14 +1269,14 @@ A person may apply to a court or a Disputes Tribunal for an order under section 
 (1) A District Court must not make an order under section 43 if a value or amount described in subsection (3) exceeds $200,000 or, if greater, the amount specified in section 29 of the District Courts Act 1947.
 (2) A Disputes Tribunal must not make an order under section 43 if a value or amount described in subsection (3) exceeds whichever is the greatest of the following:
   (a) $15,000:
-  (b) the amount specified in section 10(1A)(b) of the Disputes Tribunals Act 1988:
+  (b) the amount specified in section 10(1A)﻿(b) of the Disputes Tribunals Act 1988:
   (c) the amount specified in section 13(2) of the Disputes Tribunals Act 1988, if the jurisdiction of the Disputes Tribunal is extended by an agreement between the parties under section 13 of that Act.
 (3) The values and amounts are as follows:
-  (a) in the case of an order under section 43(3)(a) or (c), the value of the consideration for the promise or act of any party to the contract or collateral arrangement referred to in that paragraph:
-  (b) in the case of an order under section 43(3)(e) directing a person to refund money or return property, the amount of money or the value of the property:
-  (c) in the case of an order under section 43(3)(f) requiring a person to pay an amount, that amount:
-  (d) in the case of an order under section 43(3)(g) directing a person to repair goods or to provide parts for goods, the value of the work required to repair the goods, or the value of the parts, as the case may be:
-  (e) in the case of an order under section 43(3)(h) directing a person to supply services, the value of the services.
+  (a) in the case of an order under section 43(3)﻿(a) or (c), the value of the consideration for the promise or act of any party to the contract or collateral arrangement referred to in that paragraph:
+  (b) in the case of an order under section 43(3)﻿(e) directing a person to refund money or return property, the amount of money or the value of the property:
+  (c) in the case of an order under section 43(3)﻿(f) requiring a person to pay an amount, that amount:
+  (d) in the case of an order under section 43(3)﻿(g) directing a person to repair goods or to provide parts for goods, the value of the work required to repair the goods, or the value of the parts, as the case may be:
+  (e) in the case of an order under section 43(3)﻿(h) directing a person to supply services, the value of the services.
 
 ### 44 Defences
 (1) Subject to this section, it is a defence to a prosecution for an offence against section 40 if the defendant proves—
@@ -1286,10 +1286,10 @@ A person may apply to a court or a Disputes Tribunal for an order under section 
   (c) that—
     (i) the contravention was due to the act or default of another person, or to an accident or to some other cause beyond the defendant's control; and
     (ii) the defendant took reasonable precautions and exercised due diligence to avoid the contravention.
-(2) For the purposes of subsection (1)(b) and (c), the term another person does not include—
+(2) For the purposes of subsection (1)﻿(b) and (c), the term another person does not include—
   (a) a servant or agent of the defendant; or
   (b) where the defendant is a body corporate, a director, servant or agent of the defendant.
-(3) A defendant is not, without the leave of the District Court, entitled to rely on the defence provided by subsection (1)(b) that the contravention was due to reasonable reliance on information supplied by another person, or by subsection (1)(c)(i) that the contravention was due to the act or default of another person, unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying that person.
+(3) A defendant is not, without the leave of the District Court, entitled to rely on the defence provided by subsection (1)﻿(b) that the contravention was due to reasonable reliance on information supplied by another person, or by subsection (1)﻿(c)﻿(i) that the contravention was due to the act or default of another person, unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying that person.
 (4) It is a defence to a prosecution for an offence against section 40, or to any other proceedings under this Part, in relation to a contravention of a provision of this Act committed by the publication of an advertisement, if the defendant proves—
   (a) that the defendant's business is publishing or arranging for the publication of advertisements; and
   (b) that the defendant received the advertisement, or the information contained in the advertisement, as the case may be, in the ordinary course of that business and did not know and had no reason to suspect that the publication of the advertisement or the publication of the advertisement containing that information, as the case may be, would constitute a contravention of the provision.
@@ -1310,7 +1310,7 @@ A person may apply to a court or a Disputes Tribunal for an order under section 
 (5) A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person's reasons for that intention, opinion, belief or purpose.
 
 ### 46 Finding in proceedings to be evidence
-In any application for an order against a person under section 43, a finding of any fact made in proceedings for an injunction under section 41 or for an order under section 40A or section 42, or for an offence under section 40, being proceedings before the High Court or a District Court in which that person was found to have engaged in conduct of the kind referred to in section 43(1)(a) to (e) is prima facie evidence of that fact and the finding may be proved by production of a document under the seal of the High Court or a District Court, as the case may be, in which the finding was made.
+In any application for an order against a person under section 43, a finding of any fact made in proceedings for an injunction under section 41 or for an order under section 40A or section 42, or for an offence under section 40, being proceedings before the High Court or a District Court in which that person was found to have engaged in conduct of the kind referred to in section 43(1)﻿(a) to (e) is prima facie evidence of that fact and the finding may be proved by production of a document under the seal of the High Court or a District Court, as the case may be, in which the finding was made.
 
 **Enforceable undertakings**
 
@@ -1339,7 +1339,7 @@ In any application for an order against a person under section 43, a finding of 
 A management banning order must prohibit the person to whom it applies from being, without the leave of a District Court, a director of, or being in any way (whether directly or indirectly) concerned in or taking part in the management of, an incorporated or unincorporated body that carries on business in New Zealand, for a period specified in the order, which must be no more than 10 years.
 
 ### 46E Offence to breach management banning order
-A person who breaches a management banning order made against him or her commits an offence and is liable on summary conviction to a fine not exceeding $60,000.
+A person who breaches a management banning order made against him or her commits an offence and is liable on conviction to a fine not exceeding $60,000.
 
 ### 46F Procedures relating to management banning order
 (1) An application for a management banning order may be made only by the Commission.
@@ -1396,8 +1396,8 @@ A person who breaches a management banning order made against him or her commits
 (2) In determining whether a term of a consumer contract is unfair, the court may take into account any matters it thinks relevant, but must take into account—
   (a) the extent to which the term is transparent; and
   (b) the contract as a whole.
-(3) For the purpose of subsection (1)(b), a term in a consumer contract must be presumed not to be reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term, unless that party proves otherwise.
-(4) For the purpose of subsection (1)(b), and despite anything in section 46M, in relation to contracts of insurance only, the following terms must be taken to be terms that are reasonably necessary in order to protect the legitimate interests of the insurer:
+(3) For the purpose of subsection (1)﻿(b), a term in a consumer contract must be presumed not to be reasonably necessary in order to protect the legitimate interests of the party who would be advantaged by the term, unless that party proves otherwise.
+(4) For the purpose of subsection (1)﻿(b), and despite anything in section 46M, in relation to contracts of insurance only, the following terms must be taken to be terms that are reasonably necessary in order to protect the legitimate interests of the insurer:
   (a) a term that identifies the uncertain event or that otherwise specifies the subject matter insured or the risk insured against:
   (b) a term that specifies the sum or sums insured or assured:
   (c) a term that excludes or limits the liability of the insurer to indemnify the insured on the happening of certain events or on the existence of certain circumstances:
@@ -1438,7 +1438,7 @@ Without limiting section 46I, the following are examples of the kind of terms th
     (i) conduct that constitutes, or may constitute, a contravention of this Act; or
     (ii) the nature or extent of any conduct that constitutes, or may constitute, a contravention of this Act.
 (3) Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) applies.
-(4) For the purpose of allowing the Commission to provide, under section 48I, compulsorily acquired information and investigative assistance to a recognised overseas regulator, every reference in this section to a contravention of this Act must be taken to include a reference to a contravention of any foreign enactment that is identified (as required by section 48G(1)(b)) in the co-operation arrangement concerning that recognised overseas regulator.
+(4) For the purpose of allowing the Commission to provide, under section 48I, compulsorily acquired information and investigative assistance to a recognised overseas regulator, every reference in this section to a contravention of this Act must be taken to include a reference to a contravention of any foreign enactment that is identified (as required by section 48G(1)﻿(b)) in the co-operation arrangement concerning that recognised overseas regulator.
 
 ### 47A Powers conferred by warrant
 [Repealed]
@@ -1481,7 +1481,7 @@ Without limiting section 46I, the following are examples of the kind of terms th
     (iii) signed by 1 or more of the members of the Commission; or
     (iv) signed by any person purporting to act by direction of the Commission; and
   (c) it is served in accordance with section 47I on the person or persons primarily concerned or on any person or organisation considered by the Commission to represent the person or persons primarily concerned.
-(2) In all courts and in all proceedings under this Act, notices given under section 47G that purport to be signed by, or on behalf of, the Commission or to be sealed with the seal of the Commission must be treated as having been signed or sealed with due authority in accordance with subsection (1)(b) unless the contrary is proved.
+(2) In all courts and in all proceedings under this Act, notices given under section 47G that purport to be signed by, or on behalf of, the Commission or to be sealed with the seal of the Commission must be treated as having been signed or sealed with due authority in accordance with subsection (1)﻿(b) unless the contrary is proved.
 
 ### 47I Service of notices
 (1) Any notice that is authorised to be served on, or given to, any person for the purposes of section 47G may be served or given by—
@@ -1593,7 +1593,7 @@ The Commission must not provide compulsorily acquired information or investigati
 ### 48F Regulator-to-regulator co-operation arrangements
 (1) The Commission may, with the prior written approval of the Minister, enter into a co-operation arrangement with an overseas regulator.
 (2) The Minister may not give approval to a co-operation arrangement under this section unless the Minister—
-  (a) has had regard to the matters specified in section 48E(2)(a) and (b) and has consulted as specified in section 48E(2)(c); and
+  (a) has had regard to the matters specified in section 48E(2)﻿(a) and (b) and has consulted as specified in section 48E(2)﻿(c); and
   (b) is satisfied of the matter specified in section 48E(3).
 
 ### 48G Content of co-operation arrangements
@@ -1627,7 +1627,7 @@ The Commission must not provide compulsorily acquired information or investigati
   (b) the provision of the information or assistance will not be inconsistent with the co-operation arrangement; and
   (c) the provision of the information or assistance will not significantly prejudice New Zealand's international trade interests.
 (3) If the Commission considers, after consultation with the Ministry of Foreign Affairs and Trade, that a request for compulsorily acquired information or investigative assistance may have significant trade consequences for New Zealand, the Commission must refer the matter to the Minister of Trade.
-(4) If a request is referred to the Minister of Trade, the Commission is deemed to be satisfied for the purpose of subsection (2)(c) only if the Minister of Trade states, in writing, that he or she is satisfied that the provision of the information or assistance will not significantly prejudice New Zealand's international trade interests.
+(4) If a request is referred to the Minister of Trade, the Commission is deemed to be satisfied for the purpose of subsection (2)﻿(c) only if the Minister of Trade states, in writing, that he or she is satisfied that the provision of the information or assistance will not significantly prejudice New Zealand's international trade interests.
 (5) In considering whether to provide information or investigative assistance under a co-operation arrangement, the Commission must also consider—
   (a) whether complying with the request will substantially affect the Commission's ability to perform its other functions under this Act or any other enactment; and
   (b) whether the recognised overseas regulator could more conveniently obtain the information or assistance from another source; and
@@ -1681,7 +1681,7 @@ Nothing in sections 48B to 48L or any co-operation arrangement prevents the Comm
 (3) However, a failure to obtain consent under subsection (2) does not affect any proceedings commenced by the Commission.
 (4) The FMA, when considering whether to give its consent, must have regard to the following matters to the extent that the FMA considers that those matters are relevant:
   (a) the purposes of the Financial Markets Conduct Act 2013 specified in sections 3 and 4 of that Act:
-  (b) any warning, report, or guideline issued, or comment or statement made, under section 9(1)(a)(ii) or (v) of the Financial Markets Authority Act 2011:
+  (b) any warning, report, or guideline issued, or comment or statement made, under section 9(1)﻿(a)﻿(ii) or (v) of the Financial Markets Authority Act 2011:
   (c) any undertaking accepted under section 46 of the Financial Markets Authority Act 2011:
   (d) any exemption granted under the Financial Markets Conduct Act 2013:
   (e) any other action that the FMA has taken, or intends to take, in relation to the conduct:
@@ -1690,12 +1690,12 @@ Nothing in sections 48B to 48L or any co-operation arrangement prevents the Comm
 (6) In this section,—
   - **financial product** —
     (a) has the same meaning as in section 7 of the Financial Markets Conduct Act 2013; and
-    (b) includes, in relation to any provision of sections 9 to 13, any class or classes of financial product declared by regulations made under section 548(1)(a) of that Act to be a financial product for the purposes of the provision of Part 2 of that Act that corresponds to that provision of this Act
+    (b) includes, in relation to any provision of sections 9 to 13, any class or classes of financial product declared by regulations made under section 548(1)﻿(a) of that Act to be a financial product for the purposes of the provision of Part 2 of that Act that corresponds to that provision of this Act
   - **financial service** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
 
 ### 48Q No pecuniary penalty and fine for same conduct involving financial products or financial services
 (1) A person cannot be ordered to pay a pecuniary penalty, or be liable for a fine, under the Financial Markets Conduct Act 2013 and be liable for a fine under this Act for the same conduct.
-(2) A person that has, in respect of certain conduct, paid an amount in lieu of a pecuniary penalty under section 46A(1)(b) of the Financial Markets Authority Act 2011 is not liable for a fine under this Act for the same conduct.
+(2) A person that has, in respect of certain conduct, paid an amount in lieu of a pecuniary penalty under section 46A(1)﻿(b) of the Financial Markets Authority Act 2011 is not liable for a fine under this Act for the same conduct.
 
 ### 48R Unsubstantiated representations prohibition does not apply to financial markets disclosure
 (1) The provision of this Act that corresponds to section 23 of the Financial Markets Conduct Act 2013 does not apply to a representation made in a disclosure document or a register entry.
