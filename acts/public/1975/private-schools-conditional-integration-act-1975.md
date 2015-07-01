@@ -1,5 +1,5 @@
 # Private Schools Conditional Integration Act 1975
-_Consolidation as at 2000-07-08_
+_Consolidation as at 2015-07-01_
 
 > An Act to make provision for the conditional and voluntary integration of private schools into the State system of education in New Zealand on a basis which will preserve and safeguard the special character of the education provided by them
 
@@ -116,20 +116,20 @@ Every integration agreement shall be notified in the Gazette, and a copy of ever
   (c) in the absence of an agreement to the contrary, the school is deemed to be provisionally registered as a private school under section 35A of the Education Act 1989.
 
 ### 11A Cancellation by Minister
-The Minister may cancel an integration agreement under section 11(1)(a) if—
+The Minister may cancel an integration agreement under section 11(1)﻿(a) if—
   (a) it appears to the Minister on reasonable grounds that the proprietors or controlling authority of the integrated school are not sufficiently carrying out the functions and obligations accepted by them or it under this Act or under the integration agreement; and
   (b) the Minister has consulted with the proprietors, the controlling authority, and such other interested persons or groups as he or she considers appropriate.
 
 ### 11B Cancellation by proprietors
-(1) The proprietors may give notice of an intention to cancel an agreement under section 11(1)(b) if—
+(1) The proprietors may give notice of an intention to cancel an agreement under section 11(1)﻿(b) if—
   (a) it appears to the proprietors on reasonable grounds that—
     (i) the special character of the integrated school has been or is likely to be jeopardised; or
     (ii) the Minister or any controlling authority is not carrying out the functions and obligations accepted by the Minister or the controlling authority under this Act or the integration agreement; and
   (b) the proprietors have consulted with the Minister, the controlling authority, and such other interested persons or groups as the proprietors consider appropriate.
-(2) The notice of intention to cancel takes effect as a cancellation of the integration agreement under section 11(1)(b) on the date 4 months after the date of the notice.
+(2) The notice of intention to cancel takes effect as a cancellation of the integration agreement under section 11(1)﻿(b) on the date 4 months after the date of the notice.
 
 ### 11C Cancellation by agreement between parties
-The Minister and the proprietors may cancel an integration agreement under section 11(1)(c) by mutual agreement, after consultation with such other interested persons or groups as they consider appropriate.
+The Minister and the proprietors may cancel an integration agreement under section 11(1)﻿(c) by mutual agreement, after consultation with such other interested persons or groups as they consider appropriate.
 
 ### 12 Closure of integrated school
 If it appears to the Minister that for the reason set out in section 11A(a) the school should be closed, the Minister may, after the consultation referred to in section 11A(b), disestablish and close the school.
@@ -238,19 +238,19 @@ In providing, in accordance with section 201B of the Education Act 1964 (as inse
 ### 36 Attendance dues
 (1) If the integration agreement in respect of the school so provides, the proprietors of an integrated school may enter into an agreement with the parents or other persons accepting responsibility for the education of a child providing that, as a condition of the enrolment and attendance of that child at that school, the parents or other person shall pay attendance dues.
 (2) The said dues shall be established in respect of such school or group of schools, and at such rates, and subject to such conditions, as may be approved from time to time by the Minister, by notice in the Gazette.
-(3) Revenue received by the proprietors from attendance dues shall be used solely for the purpose of paying in respect of the school or group of schools in respect of which it is received for such improvements to the school buildings and associated facilities as may be required by any integration agreement or integration agreements pursuant to section 40(2)(c), or for such capital works as may be required by the Minister pursuant to section 40(2)(d), or for meeting debts, mortgages, liens, or other charges associated with the land and the buildings that constitute the premises of the school or schools.
+(3) Revenue received by the proprietors from attendance dues shall be used solely for the purpose of paying in respect of the school or group of schools in respect of which it is received for such improvements to the school buildings and associated facilities as may be required by any integration agreement or integration agreements pursuant to section 40(2)﻿(c), or for such capital works as may be required by the Minister pursuant to section 40(2)﻿(d), or for meeting debts, mortgages, liens, or other charges associated with the land and the buildings that constitute the premises of the school or schools.
 (4) No revenue received by the proprietors from attendance dues shall be used to provide or improve the school buildings and associated facilities to a standard higher than that approved from time to time by the Secretary as appropriate for a comparable State school.
 (5) Should any proprietor use any revenue from attendance dues for any purpose other than one permitted by this section, the Minister may, notwithstanding anything in the integration agreement, by notice in the Gazette, withdraw the right to charge attendance dues, and the controlling authority shall thereafter, while the withdrawal continues, be required to permit the attendance of children without the payment of attendance dues. The Minister may at any time, by notice in the Gazette, cancel any such withdrawal.
 (6) Should any parent or other person who has accepted the responsibility for the education of a child, and has pursuant to subsection (1) entered into an agreement to pay attendance dues, fail to make such payment, any payment not so made shall be recoverable from that parent or person in any court of competent jurisdiction as a debt due to the proprietors.
 (7) Any such failure to make payment shall constitute grounds for the principal of the school to suspend the child from attendance at that school and to remove his name from the school register:
   provided that no child shall be so suspended and have his name removed from the school register until arrangements have been made to the satisfaction of the appropriate District Senior Inspector of Schools for the child to be enrolled at some other school.
-(8) Each proprietor who is permitted to charge attendance dues shall keep accounts in a manner approved by the Secretary showing total receipts of dues and the true disposition of the revenue. These accounts shall be balanced at a date each year approved by the Secretary, and shall be audited by a chartered accountant. The proprietor shall send a true copy of the accounts together with the auditor's report on them to the Secretary by a date to be approved by the Secretary.
+(8) Each proprietor who is permitted to charge attendance dues shall keep accounts in a manner approved by the Secretary showing total receipts of dues and the true disposition of the revenue. These accounts shall be balanced at a date each year approved by the Secretary, and shall be audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013). The proprietor shall send a true copy of the accounts together with the auditor's report on them to the Secretary by a date to be approved by the Secretary.
 
 ### 37 Financial contributions
 (1) In addition to the authority vested in them by section 36, the proprietors of any integrated school may conduct fund-raising activities within the school, inform the parents of the financial obligations of the proprietors in the prospectus and in other ways, and request the parents of pupils attending the school to make regular financial contributions to the proprietors for their benefit in meeting any debts, mortgage, lien, or other charge associated with the land and buildings that constitute the school premises or are associated with the school.
 (2) Financial contributions other than attendance dues shall be made on a voluntary basis and no pupil shall be refused enrolment because of the unwillingness of the parents to make such contributions.
 (3) No controlling authority of any integrated school, nor the principal nor any member of the staff (whether employed or retained as a teacher or in any other capacity), nor any pupil of the school shall take any part during normal school hours as such controlling authority, principal, or staff member, or pupil in any school activity directed to raising funds for the benefit of the proprietors in meeting any debts, mortgage, lien, or other charge associated with the land and buildings that constitute the school premises or are associated with the school.
-(4) The proprietors shall keep accounts of money raised by them and by a controlling authority, principal, staff member, or pupil pursuant to this section, and shall cause such accounts to be audited by a chartered accountant at least once in every period of 12 months, and shall make a true copy of the accounts and of the auditor's report on them available on request to the parents of pupils attending the school and to other contributors.
+(4) The proprietors shall keep accounts of money raised by them and by a controlling authority, principal, staff member, or pupil pursuant to this section, and shall cause such accounts to be audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013) at least once in every period of 12 months, and shall make a true copy of the accounts and of the auditor's report on them available on request to the parents of pupils attending the school and to other contributors.
 
 ### 38 Fund raising
 Subject to the provisions of section 37, the controlling authority, the principal, staff members, and pupils of an integrated school may take part in fund-raising activities in a like manner and for like purposes for the benefit of the pupils of the school as are permitted in the case of State schools.
