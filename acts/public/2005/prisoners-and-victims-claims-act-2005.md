@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -641,7 +641,7 @@ Subject to sections 28 to 44, 46, 59, and 60, the Tribunal may regulate the proc
   (b) may, with the Secretary’s agreement, retain for its own use, instead of all banking charges and fees otherwise payable to it in respect of the account, some or all of the interest payable by it on the account; and
   (c) must pay into the account, for the benefit of the relevant accused or offender, any interest payable by it on the account and that is not retained under paragraph (b).
 (4) The arrangement in subsection (3)﻿(a) is the only permitted and required investment of the money in the account.
-(5) The account must be audited by a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) at the times and in the manner (if any) prescribed by regulations made under section 57.
+(5) The account must be audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013) at the times and in the manner (if any) prescribed by regulations made under section 57.
 
 ### 55 Payments from, and other operation of, account
 The Secretary must ensure that money is paid out of the account, and that the account is otherwise operated, only as permitted or required by this subpart or by regulations made under section 57.
