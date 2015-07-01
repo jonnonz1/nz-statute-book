@@ -1,5 +1,5 @@
 # Game Animal Council Act 2013
-_Consolidation as at 2013-11-27_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Game Animal Council Act 2013.
@@ -103,7 +103,7 @@ This Act binds the Crown.
   (m) to provide any other services to hunters that the Minister is satisfied are ancillary to the Council's other functions:
   (n) to perform any other functions conferred on it under this Act or any other enactment:
   (o) to assess the costs of managing herds of special interest and make recommendations to the Minister on ways to recover those costs.
-(2) In performing functions other than the functions in subsection (1)(a) and (f), the Council must have regard to any views expressed in writing by the Minister to the Council.
+(2) In performing functions other than the functions in subsection (1)﻿(a) and (f), the Council must have regard to any views expressed in writing by the Minister to the Council.
 
 ### 8 Council membership
 (1) The Minister must appoint no fewer than 9, and no more than 11, persons as members of the Council.
@@ -239,15 +239,15 @@ A member of the Council is not personally liable for any act done or omitted to 
   (h) collect and disseminate information relating to the animals and their management:
   (i) promote standards (including behavioural and industry standards) for game animal hunting and game animal management:
   (j) authorise or carry out operations for managing and controlling the size of the population, including the payment of bounties, grants, or subsidies.
-(2) The Minister must not specify a condition under subsection (1)(d) without first consulting with the Director-General and any persons or representative organisations that the Minister considers appropriate.
-(3) A condition specified under subsection (1)(d)—
+(2) The Minister must not specify a condition under subsection (1)﻿(d) without first consulting with the Director-General and any persons or representative organisations that the Minister considers appropriate.
+(3) A condition specified under subsection (1)﻿(d)—
   (a) must be notified in the Gazette; and
   (b) takes effect 28 days after the date of the notice or on a later date (if any) specified in the notice.
 
 ### 19 Herd management plans
 (1) The Minister must make a herd management plan for any herd of special interest (herd management plan).
 (2) The Minister may make a herd management plan for any game animals that the Minister proposes to designate as a herd of special interest.
-(3) The purpose of a herd management plan is to set out objectives and strategies for the management of a herd of special interest to achieve the expected benefits provided for under section 16(3)(e).
+(3) The purpose of a herd management plan is to set out objectives and strategies for the management of a herd of special interest to achieve the expected benefits provided for under section 16(3)﻿(e).
 (4) Herd management plans must be consistent with the overriding considerations.
 (5) Before making or amending a herd management plan, the Minister must—
   (a) publish a notice of his or her intention—
@@ -269,7 +269,7 @@ A member of the Council is not personally liable for any act done or omitted to 
 (9) To avoid doubt, subsection (8) does not affect any power to make any statement, strategy, or plan in paragraphs (b) to (e) of the overriding considerations.
 
 ### 20 Delegation of Minister's powers to Council
-(1) The Minister may delegate in writing to the Council all or any of his or her powers under section 18 except the power under section 18(1)(e) to capture, convey, or liberate animals that are part of a herd of special interest.
+(1) The Minister may delegate in writing to the Council all or any of his or her powers under section 18 except the power under section 18(1)﻿(e) to capture, convey, or liberate animals that are part of a herd of special interest.
 (2) The Council may exercise any powers delegated under this section, subject to any general or special directions given or conditions attached by the Minister, in the same manner and with the same effect as if the powers had been conferred directly by this section and not by delegation.
 (3) Every delegation made under this section is revocable in writing at will.
 (4) No delegation made under this section prevents the exercise of any power by the Minister.
@@ -359,29 +359,29 @@ Compliance with codes of practice made by regulations under this Act is a condit
 
 ### 29 Export of game trophies
 (1) A person commits an offence if the person exports, or attempts to export, a game trophy without paying the prescribed game trophy levy.
-(2) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $5,000.
+(2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $5,000.
 
 ### 30 Hunting or killing animals in herd of special interest
 (1) A person commits an offence who hunts or kills any game animal that is part of a herd of special interest without—
   (a) an authorisation, a licence, or a permit issued for the purpose under this Act or any other Act; or
   (b) complying with the terms of any such authorisation, licence, or permit.
-(2) A person commits an offence who hunts or kills any game animal that is part of a herd of special interest without complying with a condition specified under section 18(1)(d).
-(3) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $5,000.
-(4) A person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $2,500.
+(2) A person commits an offence who hunts or kills any game animal that is part of a herd of special interest without complying with a condition specified under section 18(1)﻿(d).
+(3) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000.
+(4) A person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $2,500.
 
 ### 31 Capturing, conveying, or possessing game animal that is part of herd of special interest
 (1) A person commits an offence who, without the Minister's written authority, captures, conveys, or has in his or her possession any live game animal that is part of a herd of special interest.
-(2) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $5,000.
+(2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $5,000.
 
 ### 32 Restrictions on liberation of game animal that is part of herd of special interest
 (1) A person commits an offence who, without the Minister's written authority, liberates any game animal that is part of a herd of special interest or allows any game animal that is part of a herd of special interest to escape.
-(2) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $50,000.
+(2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $50,000.
 
 ### 33 Failing to produce authorisation, licence, or permit
 (1) A person commits an offence who—
   (a) is stopped by an enforcement officer or honorary enforcement officer who observes the person hunting or killing animals in a herd of special interest; and
   (b) fails, within 5 working days, to produce an authorisation, a licence, or a permit issued for the purpose under this Act or any other Act after being requested to do so by an enforcement officer or honorary enforcement officer.
-(2) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $2,500.
+(2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $2,500.
 
 ### Subpart 2 — Other matters
 
@@ -389,7 +389,7 @@ Compliance with codes of practice made by regulations under this Act is a condit
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, for the purposes of funding services provided, powers exercised, or functions performed by the Council under this Act, make regulations prescribing any or all of the following fees or levies payable to the Council:
   (a) fees for hunting any animal that is part of a herd of special interest:
   (b) game trophy export levies.
-(2) Regulations made under subsection (1)(b)—
+(2) Regulations made under subsection (1)﻿(b)—
   (a) may impose different rates of levies for different classes of game trophies; and
   (b) may exempt the payment of levies in respect of export to any country or countries; but
   (c) must be consistent with New Zealand’s international obligations.
@@ -418,15 +418,15 @@ Before making a recommendation under section 34, the Minister must—
   (e) providing for any matter that is reasonably contemplated by this Act as necessary—
     (i) for giving it full effect; or
     (ii) for its administration.
-(2) Regulations under subsection (1)(b) may prescribe that fees are to be payable to the Council.
-(3) Regulations may be made under subsection (1)(c) only on the recommendation of the Minister, given after—
+(2) Regulations under subsection (1)﻿(b) may prescribe that fees are to be payable to the Council.
+(3) Regulations may be made under subsection (1)﻿(c) only on the recommendation of the Minister, given after—
   (a) the Minister is satisfied that the code will be consistent with—
     (i) the purposes of the Wild Animal Control Act 1977; and
     (ii) the overriding considerations; and
   (b) the Minister has had regard to—
     (i) the likely effects of the code on hunting generally or on any group of hunters or any hunting sector specifically; and
     (ii) New Zealand's reputation as a hunting destination for international tourists.
-(4) Regulations under subsection (1)(d) may, in relation to certified persons, prescribe—
+(4) Regulations under subsection (1)﻿(d) may, in relation to certified persons, prescribe—
   (a) minimum standards:
   (b) codes of conduct:
   (c) complaints and disciplinary processes.
