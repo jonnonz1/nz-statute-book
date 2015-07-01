@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -193,7 +193,7 @@ Registration of a retirement village does not imply approval by the Registrar or
 (4) The operator of a retirement village to which subsection (1) applies must issue a disclosure statement that complies with this Act to every resident, within 12 months after the date on which this section comes into force.
 
 ### 13 Annual return
-(1) An operator of a retirement village must ensure that there is delivered to the Registrar each year, for registration, during the month allocated to the retirement village for the purpose, an annual return for that village signed by the operator or by a solicitor or chartered accountant.
+(1) An operator of a retirement village must ensure that there is delivered to the Registrar each year, for registration, during the month allocated to the retirement village for the purpose, an annual return for that village signed by the operator or by a solicitor or qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013).
 (2) The annual return must be in the prescribed form and must contain the prescribed information for the prescribed period.
 (3) The annual return that is delivered for registration must be accompanied by—
   (a) the certificate referred to in section 16; and
@@ -744,7 +744,7 @@ The disputes panel may conduct the dispute resolution in any manner it thinks fi
 (3) If the panel refuses to hear, or to continue to hear, a dispute under subsection (1)﻿(b), the panel must refer the dispute to the nearest District Court for hearing.
 (4) A District Court to which a dispute is referred under subsection (3)—
   (a) must hear and determine the dispute as if it were a disputes panel, and has all the powers and duties of a disputes panel under this Act:
-  (b) in respect of any matter not otherwise provided for, may hear and determine the dispute in accordance with the District Courts Act 1948 and the District Courts Rules 1992.
+  (b) in respect of any matter not otherwise provided for, may hear and determine the dispute in accordance with the District Courts Act 1947 and the District Courts Rules 1992.
 (5) The panel at its discretion may award costs for the hearing to the point that the panel refuses to continue to hear the dispute, and must take into account the conduct of the parties.
 (6) If the panel refuses to hear, or continue to hear, a dispute under subsection (1)﻿(c), the operator must appoint another panel to hear the dispute.
 (7) Any person against whom costs are awarded under this section must pay them within 28 days of the decision to award them.
@@ -1041,7 +1041,7 @@ In any application for an order against a person under section 82, a finding of 
 (2) The registered office of a retirement village at a particular time is the place that is described as its registered office in the register maintained under Schedule 1 at that time.
 (3) The description of the registered office must—
   (a) state the address of the registered office; and
-  (b) if the registered office is at the offices of any firm of chartered accountants, barristers and solicitors, or any other person, state—
+  (b) if the registered office is at the offices of any firm of accountants, barristers and solicitors, or any other person, state—
     (i) that the registered office of the retirement village is at the offices of that firm or person; and
     (ii) particulars of the location in any building of those offices; or
   (c) if the registered office is not at the offices of any such firm or person but is located in a building occupied by persons other than the retirement village, state particulars of its location in the building.
