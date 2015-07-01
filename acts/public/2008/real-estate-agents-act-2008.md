@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -94,7 +94,7 @@ This Act binds the Crown.
 A person who is registered as an auctioneer under the Auctioneers Act 2013 may sell or offer to sell any land by auction.
 
 ### 9 Exemption under regulations
-A person who is exempted by a regulation made under section 156(1)(a) may, in accordance with that regulation, carry out real estate agency work.
+A person who is exempted by a regulation made under section 156(1)﻿(a) may, in accordance with that regulation, carry out real estate agency work.
 
 ## Part 2 — Real Estate Agents Authority
 
@@ -280,7 +280,7 @@ The grounds for exercising a power conferred by any of sections 26 to 28 in resp
 (3) The following persons may, at any time while an order under section 27 or 28 is in force, apply for an order under subsection (4):
   (a) the administrator or interim administrator:
   (b) the banker with whom the trust account is kept:
-  (c) a person who claims to be entitled to any money held in the trust account, but who has not been served under subsection (1)(c).
+  (c) a person who claims to be entitled to any money held in the trust account, but who has not been served under subsection (1)﻿(c).
 (4) On an application under this section, a High Court Judge may, by order—
   (a) direct the administrator, interim administrator, or the banker on the action to be taken in relation to the administration of the trust account (including the winding-up of that account):
   (b) rescind or vary the order of the Authority by which the administrator or interim administrator was appointed.
@@ -334,7 +334,7 @@ The functions of the Registrar are to—
   (c) a person whose licence or certificate of approval has been cancelled within the preceding 5 years or whose licence is suspended at the time of application under the Real Estate Agents Act 1976:
   (d) a person—
     (i) whose licence has, within the preceding 5 years, been cancelled under section 54(c) to (h); or
-    (ii) whose licence is currently suspended under section 110(2)(c) or 115:
+    (ii) whose licence is currently suspended under section 110(2)﻿(c) or 115:
   (e) a person subject to an order made, or a notice given, under the law of a country, State, or territory outside New Zealand, within the preceding 5 years who is prohibited from acting as an agent, branch manager, or salesperson (or equivalent) in that country, State, or territory, unless the person satisfies the Authority that he or she is a fit and proper person to hold a licence:
   (f) a person who is an officer of a licensee company, a chief executive officer of a licensee company, or a branch manager and who has been disqualified from holding a licence or whose licence has been suspended under the Real Estate Agents Act 1976:
   (g) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated body under the Companies Act 1993, the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
@@ -377,9 +377,9 @@ The applicant must advertise the application for a licence in the prescribed man
   (d) consider the evidence put before him or her, including any written submission in response that is provided by the applicant under section 41.
 
 ### 43 Registrar to license applicant or decline application
-(1) The Registrar must grant a licence to the applicant if, after considering or hearing any objection to the issue of a licence, the Registrar is satisfied that the applicant—
-  (a) is entitled to be licensed as an agent, branch manager, or salesperson under section 36; and
-  (b) is not prohibited from being licensed as an agent, branch manager, or salesperson under section 37; and
+(1) The Registrar must grant a licence to the applicant if, after considering or hearing any objection to the issue of a licence, the Registrar is satisfied that—
+  (a) the applicant is entitled to be licensed as an agent, branch manager, or salesperson under section 36; and
+  (b) the applicant is not prohibited from being licensed as an agent, branch manager, or salesperson under section 37; and
   (c) if the applicant is a company, any person who will be an officer of the company if the application is granted is, by reason of both his or her personal character and his or her financial position, a proper person to be an officer of a licensee company.
 (2) The Registrar, on granting the licence, must—
   (a) issue to the applicant 1 of the following classes of licence:
@@ -408,7 +408,7 @@ A licensee must, if asked by any person, produce for inspection by that person e
 ### 46 Term of licence
 (1) A licence continues in force for a period of 12 months commencing on the date that the Registrar enters the applicant’s name in the register, unless—
   (a) the licence is cancelled under section 54; or
-  (b) the licensee is suspended under section 58, 110(2)(c), or 115;
+  (b) the licensee is suspended under section 58, 110(2)﻿(c), or 115; or
   (c) the licence is surrendered under section 61.
 (2) A licence may be renewed for further periods of 12 months in accordance with section 52.
 
@@ -460,7 +460,7 @@ The Registrar must cancel a person’s licence and remove that person’s name f
   (c) if the person has failed to maintain the prescribed qualifications; or
   (d) if the person has failed to complete any continuing education required by practice rules made by the Authority pursuant to section 15; or
   (e) in accordance with section 99; or
-  (f) in accordance with section 110(2)(b); or
+  (f) in accordance with section 110(2)﻿(b); or
   (g) if the licence was granted on the basis of any false or fraudulent representation or declaration made orally or in writing; or
   (h) if the person has failed to pay any prescribed fees or levies, or payment of the fee or levy has subsequently been dishonoured.
 
@@ -470,33 +470,33 @@ The Registrar must cancel a person’s licence and remove that person’s name f
   (b) the notice must—
     (i) contain or be accompanied by a statement of the Registrar’s reasons for the cancellation; and
     (ii) state that the licensee has 10 working days within which to make written representations to the Registrar as to why the licence should not be cancelled; and
-  (c) if any written representations are made by the licensee in accordance with paragraph (b)(ii), the Registrar must take those representations into account when deciding whether to cancel the licence; and
+  (c) if any written representations are made by the licensee in accordance with paragraph (b)﻿(ii), the Registrar must take those representations into account when deciding whether to cancel the licence; and
   (d) the Registrar must then decide whether to cancel the licence and notify the licensee of the Registrar’s decision as soon as practicable.
 (2) If the Registrar decides to cancel the licence, the Registrar must—
-  (a) include in the notice referred to in subsection (1)(d) the grounds for the decision and the date on which the cancellation takes effect; and
+  (a) include in the notice referred to in subsection (1)﻿(d) the grounds for the decision and the date on which the cancellation takes effect; and
   (b) specify in the notice that the licensee has a right of appeal to the Tribunal under section 112; and
   (c) record the cancellation on the register as soon as practicable.
 
 ### 56 Effective date of cancellation
-The cancellation takes effect on the date specified by the Registrar in the notice given to the licensee under section 55(1)(d), which must be a date after the date of that notice.
+The cancellation takes effect on the date specified by the Registrar in the notice given to the licensee under section 55(1)﻿(d), which must be a date after the date of that notice.
 
 **Suspension of licence**
 
 ### 57 Recording of suspension of licence
-The Registrar must, on receiving notice from the Tribunal that the licence of a licensee has been suspended under section 110(2)(c) or 115, record that suspension on the register for the period specified in the notice.
+The Registrar must, on receiving notice from the Tribunal that the licence of a licensee has been suspended under section 110(2)﻿(c) or 115, record that suspension on the register for the period specified in the notice.
 
 ### 58 Voluntary suspension of licence
 (1) A licensee may, by written notice to the Registrar, request that the Registrar suspend his or her or its licence for a period specified in the notice.
 (2) The Registrar must suspend the person’s licence and record the suspension in the register for that specified period.
 (3) A person whose licence is suspended under this section may, by written notice to the Registrar, request that the Registrar revive that person’s licence.
-(4) The Registrar must then revive that person’s licence unless there is some other ground for cancellation or suspension of that person’s licence under section 54, 110(2)(c), or 115.
+(4) The Registrar must then revive that person’s licence unless there is some other ground for cancellation or suspension of that person’s licence under section 54, 110(2)﻿(c), or 115.
 
 ### 59 Effect of suspension of licence
 (1) A person is not a licensed agent, branch manager, or salesperson for the purposes of this Act for the period during which his or her licence is suspended.
-(2) At the end of the period of suspension the person’s licence is immediately revived unless there is some other ground for cancellation or suspension of that person’s licence under section 54, 110(2)(c), or 115.
+(2) At the end of the period of suspension the person’s licence is immediately revived unless there is some other ground for cancellation or suspension of that person’s licence under section 54, 110(2)﻿(c), or 115.
 
 ### 60 Effective date of suspension
-(1) The suspension of a licence under section 110(2)(c) or 115 takes effect on the date notified in the Tribunal’s decision communicated under section 113 or 115.
+(1) The suspension of a licence under section 110(2)﻿(c) or 115 takes effect on the date notified in the Tribunal’s decision communicated under section 113 or 115.
 (2) The suspension of a licence under section 58 takes effect on the date the suspension is recorded in the register.
 
 **Surrender of licence**
@@ -592,7 +592,7 @@ The Registrar may at any time make any amendments to the register that are neces
 (3) The Registrar must supply copies of all or part of the register on request and on payment of a reasonable charge for the production of the copy if the provision of those copies is consistent with the register’s purposes.
 
 ### 70 When search constitutes interference with privacy of individual
-A person who searches the register for a purpose that is not a purpose set out in section 64 must be treated, for the purposes of Part 8 of the Privacy Act 1993, as if that person has breached an information privacy principle under section 66(1)(a)(i) of that Act.
+A person who searches the register for a purpose that is not a purpose set out in section 64 must be treated, for the purposes of Part 8 of the Privacy Act 1993, as if that person has breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
 
 ## Part 4 — Complaints and discipline
 
@@ -759,7 +759,7 @@ If a Committee makes a determination that the complaint or allegation be determi
 If, under section 91(a), a Committee lays before the Disciplinary Tribunal a charge against a licensee, the Committee may apply to the Tribunal for an order that, pending the determination of the charge, the licence of the licensee be suspended.
 
 ### 93 Power of Committee to make orders
-((1)) If a Committee makes a determination under section 89(2)(b), the Committee may do 1 or more of the following:
+((1)) If a Committee makes a determination under section 89(2)﻿(b), the Committee may do 1 or more of the following:
   (a) make an order censuring or reprimanding the licensee:
   (b) order that all or some of the terms of an agreed settlement between the licensee and the complainant are to have effect, by consent, as all or part of a final determination of the complaint:
   (c) order that the licensee apologise to the complainant:
@@ -810,8 +810,8 @@ If money payable by a person under an order by a Committee or by the Disciplinar
   (a) a person to act as chair of the Tribunal, who must be a barrister or solicitor with not less than 7 years’ legal experience; and
   (b) up to 5 other members, at least one of whom must be a licensee.
 (3) The members of the Tribunal are appointed by the Minister.
-(4) The Minister must consult with REINZ when making the first appointment of a licensee under subsection (2)(b).
-(5) The Minister must designate one of the members referred to in subsection (2)(b) as the deputy chairperson of the Tribunal.
+(4) The Minister must consult with REINZ when making the first appointment of a licensee under subsection (2)﻿(b).
+(5) The Minister must designate one of the members referred to in subsection (2)﻿(b) as the deputy chairperson of the Tribunal.
 
 ### 101 Constitution of Tribunal for hearings
 For the purposes of each hearing, the Tribunal consists of—
@@ -853,7 +853,7 @@ The provisions of Schedule 1 have effect in relation to the Tribunal and its pro
   (b) an order prohibiting the publication of the whole or any part of any books, papers, or documents produced at any hearing:
   (c) an order prohibiting the publication of the name or any particulars of the affairs of the person charged or any other person.
 (2) Unless it is reversed or modified in respect of its currency by the High Court on appeal under section 116, an order made under subsection (1) continues in force as specified in the order, or, if no time is specified, until the Disciplinary Tribunal, in its discretion, revokes it on the application of any party to the proceedings in which the order was made or of any other person.
-(3) Subsection (1)(c) does not apply to any communications between the Disciplinary Tribunal and the Authority.
+(3) Subsection (1)﻿(c) does not apply to any communications between the Disciplinary Tribunal and the Authority.
 
 ### 109 Evidence
 (1) Subject to section 105, the Disciplinary Tribunal may receive as evidence any statement, document, information, or matter that may, in its opinion, assist it to deal effectively with the matters before it, whether or not that statement, document, information, or matter would be admissible in a court of law.
@@ -909,7 +909,7 @@ Any order made by the Tribunal under section 110 may be enforced in all respects
     (i) contain the Tribunal’s reasons for the intended suspension; and
     (ii) state that the licensee has 10 working days within which to make written representations to the Tribunal as to why the licence should not be suspended; and
     (iii) state the proposed period, or otherwise describe the proposed duration, of the suspension; and
-  (c) if any written representations are made by the licensee within the period referred to in paragraph (b)(ii), the Tribunal must take those representations into account in deciding whether to suspend the licence and the period or duration of any suspension; and
+  (c) if any written representations are made by the licensee within the period referred to in paragraph (b)﻿(ii), the Tribunal must take those representations into account in deciding whether to suspend the licence and the period or duration of any suspension; and
   (d) the Tribunal must then decide whether to suspend the licence, and notify the licensee accordingly, as soon as practicable.
 (3) If the Tribunal decides to suspend the licence, the Tribunal must give the licensee and the Registrar written notice of its decision and—
   (a) include in the notice the grounds for the decision, the date on which the suspension takes effect, and the period or duration of the suspension; and
@@ -1020,7 +1020,7 @@ Regulations under section 156 may provide for 1 or more of the following:
   (b) the manner and form in which disclosure is to be made under section 128.
 
 ### 130 Client may cancel sole agency agreement by 5 pm next working day
-(1) A client who is party to a sole agency agreement with an agent may, by 5 pm on the first working day after the day on which a copy of the agreement is given to the client under section 126(1)(c), cancel the agreement by written notice to the agent.
+(1) A client who is party to a sole agency agreement with an agent may, by 5 pm on the first working day after the day on which a copy of the agreement is given to the client under section 126(1)﻿(c), cancel the agreement by written notice to the agent.
 (2) A notice under subsection (1) may be served by fax or email.
 (3) Subsection (1) has effect despite any provision to the contrary in any agreement.
 (4) Even though a sole agency agreement has been cancelled, an agent may rely on that agreement if, before that cancellation,—
@@ -1073,13 +1073,13 @@ As soon as practicable after a person signs a contractual document and gives tha
 (1) For the purposes of section 134(3), the licensee must give the client a valuation made at the licensee’s expense.
 (2) The valuation must have been made by—
   (a) an independent registered valuer; or
-  (b) in the case of a business, by an independent chartered accountant.
+  (b) in the case of a business, by an independent qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013).
 (3) The licensee must give the client the valuation either—
   (a) before seeking the consent of the client; or
   (b) with the agreement of the client, within 14 days after obtaining that consent.
 (4) Every consent given under section 134 without the valuation being supplied to the client in accordance with subsection (3) is ineffective.
 (5) Any contract to which the client is a party and to which the consent relates is voidable at the option of the client if—
-  (a) the client gives his or her consent in accordance with subsection (3)(b); and
+  (a) the client gives his or her consent in accordance with subsection (3)﻿(b); and
   (b) the valuation, when supplied, is greater than the valuation specified in the prescribed form of consent as the provisional valuation.
 
 ### 136 Disclosure of other benefits that licensee stands to gain from transaction
@@ -1219,7 +1219,7 @@ A person commits an offence who, without reasonable excuse,—
   (e) prescribing changes of circumstance that must be notified to the Registrar:
   (f) prescribing the manner and form in which complaints may be made to the Authority about licensees or former licensees:
   (g) prescribing any act or thing necessary to supplement or render more effectual the provisions of this Act as to the conduct of proceedings before the Disciplinary Tribunal:
-  (h) prescribing for the appointment of auditors, auditing requirements, and conferring such powers, including the power of inspection of documents and records, as may be necessary or desirable for the purposes of carrying out an audit; and
+  (h) prescribing for the appointment of auditors, auditing requirements, and conferring such powers, including the power of inspection of documents and records, as may be necessary or desirable for the purposes of carrying out an audit:
   (i) prescribing the form in which a client’s consent must be given for the purposes of section 134:
   (j)
   (k) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and setting the maximum penalty for each offence, which—
@@ -1228,7 +1228,7 @@ A person commits an offence who, without reasonable excuse,—
   (l) prescribing periods of time for the purposes of giving notice, making submissions, and other matters:
   (m) prescribing the manner for giving notice or service under this Act:
   (n) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) Any regulations made under subsection (1)(a) exempting any person or class of persons from the requirement to be licensed under this Act may be made only on the recommendation of the Minister given in accordance with subsection (3).
+(2) Any regulations made under subsection (1)﻿(a) exempting any person or class of persons from the requirement to be licensed under this Act may be made only on the recommendation of the Minister given in accordance with subsection (3).
 (3) The Minister must not make a recommendation under subsection (2) unless the Minister—
   (a) is satisfied that—
     (i) there is no material consumer benefit to be gained by requiring the person or class of persons concerned to be licensed; and
