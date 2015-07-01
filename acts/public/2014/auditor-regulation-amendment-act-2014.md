@@ -1,5 +1,5 @@
 # Auditor Regulation Amendment Act 2014
-_Consolidation as at 2014-11-06_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Auditor Regulation Amendment Act 2014.
@@ -14,13 +14,13 @@ This Act amends the Auditor Regulation Act 2011 (the principal Act).
 ### 4 Section 6 amended (Interpretation)
 (1) In section 6(1), definition of engagement partner, after partner, insert or director.
 (2) In section 6(1), definition of engagement partner, after means the partner, insert , director,.
-(3) In section 6(1), definition of limited partnership, replace paragraph (b) with:.
+(3) In section 6(1), definition of limited partnership, replace paragraph (b) with:
   (b) an overseas limited partnership within the meaning of the Limited Partnerships Act 2008
-(4) In section 6(1), replace the definition of overseas audit firm with:.
+(4) In section 6(1), replace the definition of overseas audit firm with:
   - **overseas audit firm** means an audit firm that is—
     (a) a partnership where a majority of the partners are ordinarily resident in a country, state, or territory outside New Zealand; or
     (b) an overseas company
-(5) In section 6(1), insert in their appropriate alphabetical order:.
+(5) In section 6(1), insert in their appropriate alphabetical order:
   - **company** has the same meaning as in section 2(1) of the Companies Act 1993
   - **overseas company** means a body corporate that is incorporated outside New Zealand
 
@@ -53,7 +53,7 @@ Replace section 25(1) with:
       (iii) the firm satisfies the requirements prescribed for the purposes of this subparagraph.
 
 ### 8 Section 26 amended (FMA may authorise registration of overseas audit firms)
-Replace section 26(1)﻿(a) with:.
+Replace section 26(1)﻿(a) with:
   (a) in the case of a partnership, 1 or more of the partners of the firm are licensed auditors; and
   (ab) in the case of an overseas company,—
     (i) 1 or more of the directors of the firm are licensed auditors; and
@@ -64,9 +64,9 @@ Replace section 26(1)﻿(a) with:.
 ### 9 Section 29 amended (Cancellation of registration)
 (1) In the heading to section 29, after Cancellation, insert or suspension.
 (2) In section 29(1), after cancel, insert or suspend.
-(3) Replace section 29(1)﻿(a) with:.
+(3) Replace section 29(1)﻿(a) with:
   (a) no longer has at least 1 partner or director who is a licensed auditor; or
-(4) After section 29(1)﻿(c), insert:.
+(4) After section 29(1)﻿(c), insert:
   (ca) no longer satisfies the requirements prescribed for the purposes of section 25(1)﻿(b)﻿(iii) or 26(1)﻿(ab)﻿(iv); or
   (cb) no longer satisfies the requirements of section 26(1)﻿(ab)﻿(ii) or (iii) (in the case of an overseas company); or
 (5) Replace section 29(2) with:
@@ -146,18 +146,18 @@ Replace section 78(1) to (3) with:
     (b) the FMA gives A or B or his, her, or its representative an opportunity to make written submissions and to be heard on the matter within that notice period.
 
 ### 21 Section 79 amended (Miscellaneous matters relating to orders)
-Replace section 79(2)﻿(a) and (b) with:.
+Replace section 79(2)﻿(a) and (b) with:
   (a) the licensed auditor or audit firm against which the order is made; and
   (b) the accredited body that issued the licence to that licensed auditor or authorised the registration of that audit firm; and
 
 ### 22 Section 80 amended (FMA may take over and perform regulatory functions)
-Replace section 80(a) with:.
+Replace section 80(a) with:
   (a) the accredited body asks the FMA to act in that manner in relation to—
     (i) a class of its members; or
     (ii) a class of audit firms that the accredited body has authorised the registration of under section 25; and
 
 ### 23 Section 84 amended (Regulations)
-(1) After section 84(1)﻿(c), insert:.
+(1) After section 84(1)﻿(c), insert:
   (ca) prescribing requirements for the purposes of section 25(1)﻿(b)﻿(iii) or 26(1)﻿(ab)﻿(iv), including (without limitation) requirements relating to a company's or an overseas company's—
     (i) ownership, including requirements relating to who may be a shareholder or member and who may exercise voting rights (for example, requiring all or a majority of voting rights to be held by members of the Institute or an accredited body):
     (ii) governance, including requirements relating to who may be a director or senior manager (for example, requiring all or a majority of directors to be members of the Institute or an accredited body):
