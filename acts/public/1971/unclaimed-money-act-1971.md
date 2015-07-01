@@ -1,5 +1,5 @@
 # Unclaimed Money Act 1971
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2015-07-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to unclaimed money
 
@@ -60,7 +60,7 @@ Subject to this Act, there shall be payable to the Crown all money which becomes
   (h) any agent within the meaning of the Real Estate Agents Act 2008, whether or not a company, in respect of money held in a trust account:
   (ha) any conveyancing practitioner within the meaning of the Lawyers and Conveyancers Act 2006, in respect of money held in a trust account:
   (i) any sharebroker within the meaning of the Sharebrokers Act 1908, whether or not a company, in respect of money held on behalf of clients:
-  (j) any chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) in respect of money held on behalf of clients:
+  (j) any qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013) in respect of money held on behalf of clients:
   (k) any motor vehicle trader within the meaning of the Motor Vehicle Sales Act 2003, whether or not a company, for money held on behalf of any person for whom the trader has acted as agent in the course of carrying on the business of motor vehicle trading:
   provided that where any holder referred to in paragraph (e) or paragraph (g) or paragraph (h) or paragraph (i) or paragraph (k) is a company, nothing in those paragraphs shall derogate from the provisions of paragraphs (a) and (b) in relation to that holder.
 (2) Any person, firm, body, or institution may elect to be the holder in respect of such money held or owing by him or it as he or it thinks fit, not being—and in that case he or it shall be deemed to be the holder in respect of that money.
