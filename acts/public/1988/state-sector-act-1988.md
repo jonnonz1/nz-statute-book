@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2015-03-06_
+_Consolidation as at 2015-07-01_
 
 > Title
 
@@ -70,7 +70,7 @@ In this Act, unless the context otherwise requires,—
   - **individual employment agreement** means an employment agreement that is binding on only 1 employer and 1 employee who is not bound by a collective agreement that binds the employer
   - **key position** has the meaning given to it in section 50(2)
   - **lockout** has the meaning given to it by section 82 of the Employment Relations Act 2000
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of State Services
   - **ministerial staff** means employees (including acting, temporary, or casual employees) who are employed on events-based employment agreements—ExampleThe Hon Honour Able's ministerial staff includes 1 Senior Private Secretary, 1 Ministerial Secretary, 1 Ministerial Adviser, 1 Press Secretary, and 1 Private Secretary.An event that could terminate the staff's events-based agreement is Minister Able no longer holding her Ministerial portfolio.
     (a) by the department that is responsible for the employment of ministerial staff across all Ministers' offices; and
@@ -586,7 +586,7 @@ Each chief executive of a department or departmental agency is responsible for�
 
 ### 50 Key positions in Public Service
 (1) After consulting the chief executive of a department or departmental agency, the Commissioner may designate a position in the department or departmental agency that meets the criteria in subsection (2) as a key position.
-(2) For the purposes of this section and section 33(2)(a), key position means a position in a department or departmental agency that, in the opinion of the Commissioner, is key—
+(2) For the purposes of this section and section 33(2)﻿(a), key position means a position in a department or departmental agency that, in the opinion of the Commissioner, is key—
   (a) because of its potential to develop senior leaders; or
   (b) because it is critical to the Public Service.
 (3) The Commissioner must publish a list of key positions on an Internet site maintained by or on behalf of the Commissioner.
@@ -680,7 +680,7 @@ The Commissioner has the following functions in relation to this subpart:
 
 ### 57A Agencies must comply with minimum standards except in particular circumstances
 (1) An agency (including its employees and individuals working as contractors or secondees in relation to a function, duty, or power of the agency) must comply with any standards that apply to it under section 57.
-(2) However, an agency referred to in section 57(1)(b) to (d) may derogate from a particular standard if the agency has—
+(2) However, an agency referred to in section 57(1)﻿(b) to (d) may derogate from a particular standard if the agency has—
   (a) obtained the prior written approval of its responsible Minister to the derogation; and
   (b) sent a copy of the approval to the Commissioner.
 (3) This section does not prevent an agency from applying additional or detailed standards that are consistent with the standards applied to the agency.
@@ -689,7 +689,7 @@ The Commissioner has the following functions in relation to this subpart:
 The Commissioner may advise the responsible Minister if, in the opinion of the Commissioner, a serious breach of any minimum standard applied to an agency under section 57 has occurred, or is likely to occur.
 
 ### 57C Commissioner's powers when setting and enforcing minimum standards
-(1) The Commissioner may, when acting under sections 57 to 57B in respect of any agency referred to in section 57(1)(b) to (d), exercise the powers in sections 7 to 9 that the Commissioner may exercise in respect of departments, including the powers in section 25.
+(1) The Commissioner may, when acting under sections 57 to 57B in respect of any agency referred to in section 57(1)﻿(b) to (d), exercise the powers in sections 7 to 9 that the Commissioner may exercise in respect of departments, including the powers in section 25.
 (2)
 
 ### 58 Equal employment opportunities
@@ -704,12 +704,12 @@ The Commissioner may advise the responsible Minister if, in the opinion of the C
   (c) has, except as expressly provided to the contrary in this Act, the rights, powers, and duties of an employer in respect of the employees of the department.
 (2) In relation to employees of a host department who perform the functions or duties or exercise the powers of a departmental agency, the chief executive of the host department is deemed by this subsection—
   (a) to have delegated to the chief executive of the departmental agency the following rights, duties, and powers:
-    (i) those described in subsection (1)(a), (b), and (c) and section 69(a) and (c); and
+    (i) those described in subsection (1)﻿(a), (b), and (c) and section 69(a) and (c); and
     (ii) those described in sections 60 to 64; and
     (iii) those described in sections 82 and 83; and
   (b) not to have those rights, duties, and powers in relation to those employees.
 (3) The chief executive of a departmental agency may exercise the rights, duties, and powers deemed to have been delegated to him or her under subsection (2) in the same manner, subject to the same restrictions, and with the same effect as if they had been conferred on him or her directly by this Act and not by delegation.
-(4) Appointments under subsection (1)(a) or (2)(a)(i) (except of ministerial staff) are provisional pending the outcome of any review under section 65.
+(4) Appointments under subsection (1)﻿(a) or (2)﻿(a)﻿(i) (except of ministerial staff) are provisional pending the outcome of any review under section 65.
 (5) The chief executive of the department that is responsible for the employment of ministerial staff across all Ministers' offices must have regard to the wishes of the relevant Minister in relation to ministerial staff.
 
 ### 60 Appointments on merit
@@ -859,7 +859,7 @@ Except as otherwise provided in this Act, the Employment Relations Act 2000 appl
 (5) Any direction under subsection (4)—
   (a) may be given to any person responsible for effecting payments or transfers of sums of money required for the remuneration of the employee; and
   (b) must be followed by the person.
-(6) The Commissioner may give any notice that, as a result of a direction under subsection (4)(b), is required to be given to an employee under section 6(3)(b) of the Wages Protection Act 1983.
+(6) The Commissioner may give any notice that, as a result of a direction under subsection (4)﻿(b), is required to be given to an employee under section 6(3)﻿(b) of the Wages Protection Act 1983.
 (7) Subsection (1)—
   (a) overrides section 77E(2); and
   (b) is subject to sections 74AC and 74AD.
@@ -978,7 +978,7 @@ Education service chief executives and employees are immune from liability in ci
 ### 77C Performance of teachers
 (1) The chief executive of the Ministry of Education may from time to time prescribe matters that are to be taken into account by employers in assessing the performance of teachers.
 (2) Before the chief executive of the Ministry of Education prescribes any matters under subsection (1), the chief executive of the Ministry shall consult with—
-  (a) the New Zealand Teachers Council; and
+  (a) the Education Council of Aotearoa New Zealand; and
   (b) the chief executive of the Education Review Office; and
   (c) representatives of employers of teachers; and
   (d) the organisations of teachers that represent teachers who will be subject to the matters prescribed under this section.
@@ -1018,7 +1018,7 @@ Where an employer intends to fill a position that is vacant or is to become vaca
   (d) is on terms and conditions of employment that are no less favourable than those that apply to the employee immediately before the offer of employment (including any service-related redundancy conditions and superannuation conditions); and
   (e) is on terms that treat the period of service with the school in which the previous position was held (and any other period of service recognised for the purposes of the previous position as continuous service) as if it were continuous service for the purposes of the position offered to the employee.
 (3) The Minister of Education may determine whether a school is directly affected by a closure or merger, and that determination is binding on all parties.
-(4) Subsection (1)(b) is subject to any contrary provision in an employment agreement that provides for a payment on the ground that the employee's position has ceased to exist, but only if that payment is less than the amount that would otherwise be payable in any case to which subsection (1) does not apply.
+(4) Subsection (1)﻿(b) is subject to any contrary provision in an employment agreement that provides for a payment on the ground that the employee's position has ceased to exist, but only if that payment is less than the amount that would otherwise be payable in any case to which subsection (1) does not apply.
 (5) A collective employment agreement that binds employees in schools may provide, consistently with subsections (1) and (2), for the manner in which those subsections are to apply to those employees.
 
 ### 77HB Appointment of employees following closure or merger of schools
@@ -1210,7 +1210,7 @@ Every award and every agreement relating to the terms and conditions of employme
 (6) Where, as at the close of 30 June 1988, the only matters not settled in relation to the completion of an award or agreement are matters that have been referred to a disputes committee under subsection (4), that award or agreement may, notwithstanding any of the other provisions of this section, be delivered to the Arbitration Commission for registration forthwith upon the decision of the disputes committee or the Labour Court being advised to the parties.
 (7) Except as provided in subsection (8), every award or agreement registered by the Arbitration Commission under this section shall come into force on 1 July 1988.
 (8) The Commission may make an adjustment, with effect from the commencement of 1 April 1988, to the salaries of any person or group of persons who, at the commencement of this Act,—
-  (a) held positions to which section 12(1)(a) of the Higher Salaries Commission Act 1977 applied; or
+  (a) held positions to which section 12(1)﻿(a) of the Higher Salaries Commission Act 1977 applied; or
   (b) belonged to a group or class of employees whose salary scale had been the subject of an adjustment that took effect on 10 November 1987 but who have not received an adjustment of at least 7% to their salaries as a result of that adjustment.
 (9) Any such adjustment made by the Commission under subsection (8) shall be incorporated into the award or agreement that is to come into force on 1 July 1988.
 (10) Except where there is only 1 employer involved, every document registered under this section shall be an award.
@@ -1252,7 +1252,7 @@ Sections 49 and 52 of the Labour Relations Act 1987 shall not, until 1 April 198
 All matters and proceedings commenced under or in accordance with the State Services Conditions of Employment Act 1977 and pending or in progress at the commencement of this Act may be continued and completed as if this Act had not been passed.
 
 ### 105 Rights of employees of Public Service
-Notwithstanding the repeal of the State Services Act 1962, the provisions of sections 45 to 47, 55 to 59, and 70A and of Part 4 (other than the provisions of section 64(1)(a)) of that Act shall, until the close of 30 June 1988, continue to apply to employees in the Public Service as if this Act had not been passed.
+Notwithstanding the repeal of the State Services Act 1962, the provisions of sections 45 to 47, 55 to 59, and 70A and of Part 4 (other than the provisions of section 64(1)﻿(a)) of that Act shall, until the close of 30 June 1988, continue to apply to employees in the Public Service as if this Act had not been passed.
 
 ### 106 Application of repealed provisions
 (1) The following provisions of the State Services Act 1962, namely, the provisions of—shall continue to apply for the purposes of this Act only to the extent that they are expressly referred to and expressly applied by this Act or any other Act.
@@ -1271,7 +1271,7 @@ Notwithstanding the repeal of the State Services Act 1962, the provisions of sec
 ### 108 Appeal rights of employees of Public Service
 (1) Notwithstanding anything in this Act if, immediately before 1 July 1988, an appeal under section 57 or section 64 of the State Services Act 1962 is pending or if there is a right to such an appeal, either to the State Services Commission or to the Public Service Appeal Board, the provisions of that Act, so far as they are applicable, shall continue to apply to that appeal as if the State Services Act 1962 had not been repealed.
 (2) Notwithstanding anything in this Act, if, immediately before 1 April 1988,—the provisions of that Act, so far as they are applicable, shall continue to apply to that appeal as if the State Services Act 1962 had not been repealed.
-  (a) an appeal under section 64(1)(a) of the State Services Act 1962 is pending; or
+  (a) an appeal under section 64(1)﻿(a) of the State Services Act 1962 is pending; or
   (b) there is a right to such an appeal,—
 (3) The decision on any appeal to which subsection (1) or subsection (2) of this section applies shall be binding on the employee, the Commission, and on any chief executive who may be affected and shall be implemented as if the State Services Act 1962 were still in force.
 
