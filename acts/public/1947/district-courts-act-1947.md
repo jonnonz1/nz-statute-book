@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2015-07-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Criminal Procedure Act 2011 in District Courts
 
@@ -83,7 +83,7 @@ _Consolidation as at 2014-12-07_
 (4) The Attorney-General may authorise a Judge to act on a part-time basis only—
   (a) on the request of the Judge; and
   (b) with the concurrence of the Chief District Court Judge (after consultation with the Principal Environment Judge if the request is from an Environment Judge).
-(5) In considering whether to concur under subsection (4)(b), the Chief District Court Judge must have regard to the ability of the court to discharge its obligations in an orderly and expeditious way.
+(5) In considering whether to concur under subsection (4)﻿(b), the Chief District Court Judge must have regard to the ability of the court to discharge its obligations in an orderly and expeditious way.
 (6) A Judge who is authorised to act on a part-time basis must resume acting on a full-time basis at the end of the authorised part-time period.
 (7) The basis on which a Judge acts must not be altered during the term of the Judge's appointment without the Judge's consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
 (8) This section applies to persons who hold office as District Court Judges regardless of whether they act as District Court Judges, as Environment Judges, or in any other judicial office.
@@ -208,7 +208,7 @@ In any proceeding commenced against a Community Magistrate by a person claiming 
   (a) the Community Magistrate acted in good faith under the belief that he or she had in fact jurisdiction; and
   (b) in all the circumstances the Community Magistrate ought fairly and reasonably to be excused; and
   (c) the amount paid or agreed to be paid was fair and reasonable.
-(5) If the High Court Judge is not satisfied of the matter in subsection (4)(c), the Judge may issue the certificate in respect of any lesser sum that in the Judge's opinion is adequate to settle the plaintiff's claim, and in that case the Community Magistrate must be indemnified by the Crown to the amount specified in the certificate.
+(5) If the High Court Judge is not satisfied of the matter in subsection (4)﻿(c), the Judge may issue the certificate in respect of any lesser sum that in the Judge's opinion is adequate to settle the plaintiff's claim, and in that case the Community Magistrate must be indemnified by the Crown to the amount specified in the certificate.
 (6) Application for a certificate under any of subsections (2), (4), or (5) may be made by a Community Magistrate at any time to a Judge in chambers, and the Judge has power to grant the certificate after considering all evidence that is given before him or her either orally or in the form of affidavits.
 (7) A copy of the application must be served by the Community Magistrate on the Attorney-General, who is entitled to appear and oppose it.
 
@@ -243,9 +243,9 @@ In any proceeding commenced against a Community Magistrate by a person claiming 
   (a) remuneration by way of fees, salary, or allowances at such rates as are determined from time to time by the Governor-General by Order in Council; and
   (b) such additional allowances, being travelling allowances or incidental or minor allowances, as may be determined from time to time by the Governor-General by Order in Council.
 (3) The remuneration of a Community Magistrate is not to be diminished during the continuance of the Community Magistrate's appointment.
-(4) Any Order in Council made under subsection (1)(b) or subsection (2), and any provision of any such order, may be made so as to come into force on a date to be specified in that behalf in the order, being the date of the making of the order or any other date, whether before or after the date of the making of the order.
+(4) Any Order in Council made under subsection (1)﻿(b) or subsection (2), and any provision of any such order, may be made so as to come into force on a date to be specified in that behalf in the order, being the date of the making of the order or any other date, whether before or after the date of the making of the order.
 (5) Every such Order in Council, and any provision of any such order, in respect of which no date is specified as aforesaid, comes into force on the date of the making of the order.
-(6) Every Order in Council made under subsection (1)(b) or (2) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) Every Order in Council made under subsection (1)﻿(b) or (2) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 11H Retired Community Magistrates
 (1) Any person who has retired from office as a Community Magistrate on attaining the age of 70 years, or who has sooner resigned, may be appointed as an acting Community Magistrate by the Governor-General on the advice of the Minister of Justice.
@@ -299,7 +299,7 @@ In any proceeding commenced against a Community Magistrate by a person claiming 
   (d) conform to all rules and regulations affecting the execution of his office, and in other respects be subject to the directions of the Judge or Registrar:
   (e) be answerable for all acts and defaults of himself and those acting under him and by his authority, in like manner as any Sheriff in New Zealand is responsible for the acts and defaults of himself and his officers.
 (2) In executing any process of the court the bailiff shall have such powers and be subject to such liabilities as a Sheriff has or is subject to in like cases in executing the process of the High Court.
-(3) The oath referred to in subsection (1)(a) is as follows:
+(3) The oath referred to in subsection (1)﻿(a) is as follows:
 “English form
 “I, [name], swear that I will faithfully and diligently serve Her (or His) Majesty [specify the name of the reigning Sovereign, as in: Queen Elizabeth the Second], Queen (or King) of New Zealand, her (or his) heirs and successors, as a bailiff at [place], without favour or affection, malice or ill-will. While I hold this office I will, to the best of my power, keep the peace and prevent offences against the peace and will, to the best of my skill and knowledge, perform all the duties of the office of bailiff according to law. So help me God.
 “Māori form
@@ -384,7 +384,7 @@ The courts shall have jurisdiction in relation to—
 (1) Subject to the provisions of this Act, the courts shall have—
   (a) the same equitable jurisdiction as the High Court to hear and determine any proceeding (other than a proceeding in which the amount claimed or the value of the property claimed or in issue is more than $200,000):
   (b) jurisdiction to hear and determine any proceeding for the dissolution or winding up of any partnership (whether or not the existence of the partnership is in dispute), where the whole assets of the partnership do not exceed in amount or value the sum of $200,000.
-(2) Where jurisdiction in respect of any proceeding or class of proceeding is, by virtue of any provision of any Act (not being section 16 of the Judicature Act 1908) that relates expressly to that proceeding or class of proceeding, exercisable by the High Court or any other court (not being a District Court), District Courts shall not by virtue of subsection (1)(a) or section 29(1) have the equitable jurisdiction of the High Court in respect of that proceeding or class of proceeding.
+(2) Where jurisdiction in respect of any proceeding or class of proceeding is, by virtue of any provision of any Act (not being section 16 of the Judicature Act 1908) that relates expressly to that proceeding or class of proceeding, exercisable by the High Court or any other court (not being a District Court), District Courts shall not by virtue of subsection (1)﻿(a) or section 29(1) have the equitable jurisdiction of the High Court in respect of that proceeding or class of proceeding.
 (2A) Notwithstanding subsection (2), the District Courts shall have the power to make orders pursuant to section 49 of the Administration Act 1969.
 (3) No proceeding for the dissolution or winding up of a partnership or order thereon shall prevent any creditor from petitioning for an adjudication of bankruptcy against any member or members thereof.
 
@@ -685,7 +685,7 @@ All appeals under section 72 must be by way of rehearing.
     (ii) to consider or determine (whether for the first time or again) any matters the High Court directs; or
     (iii) to enter judgment for any party to the proceedings concerned the High Court directs:
   (c) make any further or other orders it thinks fit (including any orders as to costs).
-(2) The High Court must state its reasons for giving a direction under subsection (1)(b).
+(2) The High Court must state its reasons for giving a direction under subsection (1)﻿(b).
 (3) The High Court may give the District Court any direction it thinks fit relating to—
   (a) rehearing any proceedings directed to be reheard; or
   (b) considering or determining any matter directed to be considered or determined.
@@ -743,7 +743,7 @@ For the purposes of enforcement proceedings, a judgment or order of the High Cou
   (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
   (c) both parties agreed on the terms of the attachment order, including the details specified in section 84H; and
   (d) the judgment or order includes the details specified in section 84H.
-(5E) Nothing in subsection (5D)(c) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3).
+(5E) Nothing in subsection (5D)﻿(c) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3).
 (5F) For the purposes of subsection (5D), hearing includes a judicial settlement conference held under the rules.
 (6) It is hereby declared that 2 or more proceedings for the enforcement of a judgment or order may be taken concurrently, but the judgment creditor shall not be entitled to recover a greater sum than the amount owing under the judgment or order and the costs and fees of any proceedings for enforcement.
 
@@ -803,7 +803,7 @@ Notice of appeal shall not operate as a stay of proceedings under the decision a
   (a) order any of the judgment debtor's books or other documents to be produced at the hearing:
   (b) order that the hearing be held at a place other than in a court:
   (c) impose such other terms and conditions as the court thinks proper in respect of the hearing.
-(4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)(a) and, at the same time as the summons is served, the judgment debtor must be notified of the court's power to cancel the hearing in the circumstances referred to in subsection (6).
+(4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)﻿(a) and, at the same time as the summons is served, the judgment debtor must be notified of the court's power to cancel the hearing in the circumstances referred to in subsection (6).
 (5) The hearing must not be held until at least 3 working days or any shorter period agreed by the judgment debtor has passed after the date on which the summons was served.
 (6) The court may cancel a hearing if, before the date of the hearing,—
   (a) such information about the judgment debtor's means for satisfying the judgment debt is provided that, in the opinion of the court, it is unnecessary for the hearing to take place; and
@@ -824,7 +824,7 @@ Notice of appeal shall not operate as a stay of proceedings under the decision a
   (a) order any of the judgment debtor's books or other documents to be produced at the hearing:
   (b) order that the hearing be held at a place other than in a court:
   (c) impose such other terms and conditions as the court thinks proper in respect of the hearing.
-(4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)(b).
+(4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)﻿(b).
 (5) The hearing must not be held until at least 3 working days or any shorter period agreed by the parties has passed after the date on which the summons was served.
 (6) The court may cancel a hearing at the request of the judgment creditor.
 (7) The jurisdiction of the court under this section may be exercised by the Registrar.
@@ -897,7 +897,7 @@ In sections 84G to 84M, unless the context otherwise requires,—
   (a) in the circumstances referred to in section 79(5C); or
   (b) in the circumstances referred to in section 84EC(1); or
   (c) on the application of the judgment creditor or judgment debtor.
-(2) If an application is made under subsection (1)(c),—
+(2) If an application is made under subsection (1)﻿(c),—
   (a) the party who makes the application must serve a copy of it on the other party; and
   (b) the court may make the attachment order even though the other party has not had the opportunity to make representations to the court about the application.
 (3) If an attachment order is made, it must be served on the employer to whom the order relates, the judgment creditor, and the judgment debtor.
@@ -918,7 +918,7 @@ An attachment order must be in a form approved by the chief executive of the Min
 (2) The charge so created—
   (a) shall accrue from earnings period to earnings period, and on such day of the earnings period as is specified in the attachment order; and
   (b) shall attach to all salary or wages that become due by the employer to the judgment debtor at any time while the attachment order is in force, whether or not the contract of employment in respect of which the salary or wages so become due existed at the date of the attachment order; and
-  (c) shall be subject to any charge created by an attachment order under the Family Proceedings Act 1980 or the Summary Proceedings Act 1957 and to any item referred to in subsection (5)(a) and (b) (whether created, issued, or authorised before or after the date on which the order referred to in subsection (1) was made); but
+  (c) shall be subject to any charge created by an attachment order under the Family Proceedings Act 1980 or the Summary Proceedings Act 1957 and to any item referred to in subsection (5)﻿(a) and (b) (whether created, issued, or authorised before or after the date on which the order referred to in subsection (1) was made); but
   (d) shall prevail over and have priority to any assignment or charge created by the judgment debtor (whether before or after the making of the attachment order under this Act), and so that the attachment order shall have the same effect as if no such assignment or charge had been made or created by the judgment debtor.
 (3) Despite subsections (1) and (2), no attachment order is to operate so that, when its effect is considered either alone or with the effect of any item referred to in subsection (5), the net amount paid to a judgment debtor for an earnings period is below the protected earnings rate for the earnings period; and, where necessary, the amount to be deducted from the judgment debtor's salary or wages for the earnings period is treated as being reduced or cancelled accordingly.
 (4) Nothing in section 84 of the Social Security Act 1964 applies to an attachment order.
@@ -944,7 +944,7 @@ An attachment order must be in a form approved by the chief executive of the Min
 (6) Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who fails without reasonable excuse to comply with paragraph (a) or paragraph (b) of subsection (1).
 
 ### 84K Wrongful treatment of employee
-Every employer commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who dismisses any employee or alters any employee's position in the employer's business or undertaking to the employee's prejudice by reason of—
+Every employer commits an offence and is liable on conviction to a fine not exceeding $1,000 who dismisses any employee or alters any employee's position in the employer's business or undertaking to the employee's prejudice by reason of—
   (a) the employee having been ordered to pay money owing under 1 or more judgments or orders imposed by a District Court or the High Court for the payment of a sum of money; or
   (b) an attachment order having been served on the employer; or
   (c) the employer becoming aware that an attachment order is being made or has been made in respect of the employee.
@@ -1009,12 +1009,12 @@ Every employer commits an offence and is liable on summary conviction to a fine 
 (1) On receipt of an application under section 84O(3), the Registrar must—
   (a) appoint a time and place for the hearing of the application if satisfied, on the basis of information provided with the application, that the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; or
   (b) if not so satisfied, refer the application to a Judge.
-(2) On the referral of the application under subsection (1)(b), the Judge must—
+(2) On the referral of the application under subsection (1)﻿(b), the Judge must—
   (a) deal with the application on the papers; and
   (b) consider whether he or she is satisfied, on the basis of information provided with the application, that the judgment debtor has sufficient means to pay the judgment debt but refuses to do so.
 (3) If the Judge is so satisfied, he or she must direct the Registrar to appoint a time and place for the hearing of the application.
 (4) If the Judge is not so satisfied, he or she must decline the application.
-(5) If the Registrar appoints a time and place for the hearing of the application under subsection (1)(a) or (3), the judgment debtor must be served with a copy of the application, and a notice of the time and place so appointed, by a person referred to in section 108A(3)(c).
+(5) If the Registrar appoints a time and place for the hearing of the application under subsection (1)﻿(a) or (3), the judgment debtor must be served with a copy of the application, and a notice of the time and place so appointed, by a person referred to in section 108A(3)﻿(c).
 (6) The Registrar must notify the judgment creditor of the time and place so appointed.
 (7) If the application is declined under subsection (4), the Registrar must notify the judgment creditor that the application has been declined.
 
@@ -1228,11 +1228,11 @@ No officer of a court in executing any warrant of the court, and no person at wh
   (b) by sending the document to the recipient by prepaid post addressed to the recipient's last known place of residence or business:
   (c) if the recipient has a known electronic address, by sending it to the recipient at that address in electronic form.
 (2) For recipients to whom section 108B applies, subsection (1) is modified to the extent provided by that section.
-(3) Despite subsection (1), the following documents must be served in accordance with subsection (1)(a) or, where applicable, section 108B(2)(b) or (4):
+(3) Despite subsection (1), the following documents must be served in accordance with subsection (1)﻿(a) or, where applicable, section 108B(2)﻿(b) or (4):
   (a) a summons issued under section 84D, which must be served by an authorised process server:
   (b) a summons issued under section 84E, which must be served by or on behalf of the judgment creditor or by an authorised process server:
   (c) a copy of the application and notice of the time and place appointed for the hearing of the application that is required to be served on the judgment debtor under section 84OA(5), which must be served by or on behalf of the judgment creditor or by an authorised process server.
-(4) This section is subject to section 84L(4)(a).
+(4) This section is subject to section 84L(4)﻿(a).
 (5) In this section and in section 108B,—
   - **authorised process server** means a person who is—
   (a) a constable; or
@@ -1249,7 +1249,7 @@ No officer of a court in executing any warrant of the court, and no person at wh
 ### 108B Service provisions modified in special cases
 (1) If a document is served in accordance with this section, it is, for the purposes of section 108A, taken to be served on the recipient concerned.
 (2) If the recipient is a body corporate or a Crown organisation, a document may be served—
-  (a) if it may be served under section 108A(1)(b) or (c), by being sent, in accordance with either of those paragraphs, to the body corporate or Crown organisation for the attention of an officer or employee of that body or organisation:
+  (a) if it may be served under section 108A(1)﻿(b) or (c), by being sent, in accordance with either of those paragraphs, to the body corporate or Crown organisation for the attention of an officer or employee of that body or organisation:
   (b) by being delivered to an officer or employee of the body corporate or Crown organisation at its head office, principal place of business, or registered office, or bringing it to the officer's notice or the employee's notice if that person refuses to accept it.
 (3) If a solicitor has signed a memorandum stating that the solicitor is authorised to accept service of a document on behalf of the recipient, the document may be served on the solicitor in any way authorised by section 108A.
 (4) In addition to the ways of service authorised by section 108A, a document may be served by delivering or sending it to, or by leaving it with,—
@@ -1312,7 +1312,7 @@ All fees and fines payable in respect of proceedings in courts or before Judges 
 (1) If any summons or any other document is served by a person who is authorised to do so under this Act, the rules, or any other enactment, the service may be proved—
   (a) by an endorsement on a copy of the document or, where applicable, on a printout that records an electronic document, showing the fact, date, time, and mode of service; or
   (b) in any other manner prescribed by the rules.
-(1A) An endorsement under subsection (1)(a) must be signed by the person who served the summons or document.
+(1A) An endorsement under subsection (1)﻿(a) must be signed by the person who served the summons or document.
 (2) A person who wilfully endorses any false statement on a copy of any summons or document commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000, or to both.
 (3) If a document is served by sending it by prepaid post, then, unless the contrary is shown, the document is served when it would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the letter concerned was properly addressed and posted.
 (4) If a document is served by sending it in electronic form, then, unless the contrary is shown, the document is served at the time the electronic communication first enters an information system outside the control of its originator, and in proving service it is sufficient to prove that the document concerned was properly addressed and sent.
@@ -1358,7 +1358,7 @@ No privilege shall be allowed to any solicitor to exempt him from the jurisdicti
   (h)
   (i)
   (ia) prescribing the circumstances in which an order under section 56A or section 56B can be made:
-  (ib) providing for documents to be sent in electronic form under section 108A(1)(c), including (without limitation) provisions for the retention of records that evidence the fact that, and the date and time when, such documents were sent to electronic addresses:
+  (ib) providing for documents to be sent in electronic form under section 108A(1)﻿(c), including (without limitation) provisions for the retention of records that evidence the fact that, and the date and time when, such documents were sent to electronic addresses:
   (j) regulating and providing for any other matters which were regulated or provided for by the District Courts Rules in force on the date of the passing of this Act:
   (k) regulating or providing for any other matters which immediately prior to the coming into force of this Act were regulated or provided for by the enactments (repealed by this Act) which are referred to in Schedule 2:
   (l) providing for any other matters in respect of which rules are contemplated or specially authorized by this Act.
@@ -1384,7 +1384,7 @@ No privilege shall be allowed to any solicitor to exempt him from the jurisdicti
   (bf) amending Schedule 1A by adding offences to, or removing offences from, Part 1 or Part 2 of that schedule:
   (bg) prescribing transitional arrangements for the trial and sentencing of persons charged with offences that are added to or removed from Part 1 or Part 2 of Schedule 1A:
   (c) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
-(2) No fee is payable for an application for the exercise of a power specified in subsection (1)(ba) or (bc).
+(2) No fee is payable for an application for the exercise of a power specified in subsection (1)﻿(ba) or (bc).
 
 ### 123AA Chief executive of Ministry of Justice may approve forms
 (1) The chief executive of the Ministry of Justice may approve and issue forms that the chief executive considers necessary for the purposes of this Act, not being forms required to be prescribed by regulations or rules made under this Act.
@@ -1394,7 +1394,7 @@ No privilege shall be allowed to any solicitor to exempt him from the jurisdicti
 (3) Every document purporting to be a form approved and issued by the chief executive under and for the purposes of this Act is deemed to have been so approved and issued unless the chief executive otherwise certifies.
 
 ### 123A Reviews of decisions of Registrars concerning fees
-(1) Any person who is aggrieved by a decision of a Registrar or Deputy Registrar under regulations made under section 123(1)(ba) may apply to a Judge for a review of that decision.
+(1) Any person who is aggrieved by a decision of a Registrar or Deputy Registrar under regulations made under section 123(1)﻿(ba) may apply to a Judge for a review of that decision.
 (2) An application under subsection (1) may be made within 20 working days after the date on which the applicant is notified of the decision of the Registrar or Deputy Registrar, or within any further time that the Judge allows on application made for that purpose either before or after the expiration of those 20 working days.
 (3) Applications under this section may be made on an informal basis.
 (4) Reviews under this section are—
@@ -1440,7 +1440,7 @@ These regulations are the District Courts (Categorisation of Offences) Regulatio
 These regulations come into force on 18 July 2008.
 
 ### 4 Transitional provision
-(1) This regulation applies if a person charged with an offence under section 6(2)(a), 6(2A)(a), 10(1), or 12C(1)(a) of the Misuse of Drugs Act 1975 was, before the commencement of these regulations, committed to the High Court for trial and is awaiting the commencement of that trial.
+(1) This regulation applies if a person charged with an offence under section 6(2)﻿(a), 6(2A)﻿(a), 10(1), or 12C(1)﻿(a) of the Misuse of Drugs Act 1975 was, before the commencement of these regulations, committed to the High Court for trial and is awaiting the commencement of that trial.
 (2) Section 168AA(2) (or, when it is in force, section 184Q) of the Summary Proceedings Act 1957 applies in respect of a defendant in the circumstances referred to in subclause (1) as if at all material times the offence for which the defendant was committed for trial was an offence to which that section applied.
 
 ### 1 Title
