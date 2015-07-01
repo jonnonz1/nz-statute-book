@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2014-03-31_
+_Consolidation as at 2015-07-01_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -15,13 +15,13 @@ In this Act, unless the context otherwise requires,—
     (a) for the purposes of Part 9A has the meaning given to it by section 108A:
     (b) for any other purpose of this Act, means a Family Court
   - **manager** means a person appointed under section 31 as manager of any property; and includes a trustee corporation that is acting as manager for any person pursuant to section 32 or section 33; but does not include a person appointed under section 11 to administer any property
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **parent** , in relation to any person (A), includes a step-parent; but, if A is under the age of 18 years, only if the step-parent shares responsibility for the day-to-day care of A with a parent of A
   - **person subject to a property order** includes a person for whom a trustee corporation is acting as manager pursuant to section 32 or section 33
   - **personal order** means an order made under section 10 or section 11 or section 12; and includes an interim order made under section 14
   - **property** means any real or personal property; and includes any interest in any property; and also includes any money, any business or undertaking, and any right or power exercisable in respect of any property
   - **property order** means an order made under section 31; and includes a temporary order made under section 30
-  - **psychologist** means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
+  - **psychologist** means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
   - **relative** , in relation to any person, means—
     (a) the spouse, civil union partner, or de facto partner of that person; and
     (b) a parent or grandparent of that person or of the spouse or other person referred to in paragraph (a); and
@@ -172,7 +172,7 @@ On an application for the exercise of a court's jurisdiction under this Part, th
     (i) the person for whom the welfare guardian is acting; and
     (ii) such other persons, as are, in the opinion of the welfare guardian, interested in the welfare of the person and competent to advise the welfare guardian in relation to the personal care and welfare of that person; and
     (iii) a representative of any group that is engaged, otherwise than for commercial gain, in the provision of services and facilities for the welfare of persons in respect of whom the court has jurisdiction in accordance with section 6, and that, in the opinion of the welfare guardian, is interested in the welfare of the person and competent to advise the welfare guardian in relation to the personal care and welfare of that person.
-(5) In addition to subsection (4)(c), where the person for whom the welfare guardian is acting is subject to a property order, the welfare guardian shall consult on a regular basis with the manager of that person's property to ensure that the interests of that person are not prejudiced through any breakdown in communication between the welfare guardian and the manager.
+(5) In addition to subsection (4)﻿(c), where the person for whom the welfare guardian is acting is subject to a property order, the welfare guardian shall consult on a regular basis with the manager of that person's property to ensure that the interests of that person are not prejudiced through any breakdown in communication between the welfare guardian and the manager.
 (6) A welfare guardian may apply to a court for directions relating to the exercise of the powers of the welfare guardian, and the court may give such directions as it thinks fit.
 
 ### 19 Effect of welfare guardian's decisions, etc
@@ -303,7 +303,7 @@ Where a kai tiaki trust is constituted under section 217 of Te Ture Whenua Maori
   (c) be accompanied by—
     (i) certificates from 2 medical practitioners (at least 1 of whom must be independent of the applicant, or a relative of the applicant) as to the extent of the applicant's lack of competence to manage his or her own affairs in relation to his or her property; and
     (ii) a statutory declaration by the applicant that the applicant has received independent legal advice about, and understands the nature, purpose, and consequences of, the application and the applicant's right under section 34(c) to declare that the trustee corporation shall no longer act as manager; and
-  (d) be made to the trustee corporation within 30 days after the date of the earlier of the 2 medical certificates referred to in paragraph (c)(i), or of the date of the statutory declaration referred to in paragraph (c)(ii), whichever is the earlier.
+  (d) be made to the trustee corporation within 30 days after the date of the earlier of the 2 medical certificates referred to in paragraph (c)﻿(i), or of the date of the statutory declaration referred to in paragraph (c)﻿(ii), whichever is the earlier.
 (3) If the trustee corporation is satisfied that—the trustee corporation may accept the application and file a copy of it with a court within 30 days after the making of the application.
   (a) the applicant is not wholly competent to manage his or her own affairs in relation to his or her property; and
   (b) it is in the best interests of that person that a manager act for that person; and
@@ -337,7 +337,7 @@ Where a kai tiaki trust is constituted under section 217 of Te Ture Whenua Maori
   (c) in any case where a trustee corporation is acting as manager pursuant to section 32 or section 33, 7 days after the person for whom the corporation is acting, by notice in writing to the corporation (a copy of which notice the corporation shall forthwith file with the court) declares that the corporation shall no longer act as manager.
 (2) Where—the trustee corporation shall inform the welfare guardian or attorney of the receipt of the notice.
   (a) a trustee corporation is acting as manager pursuant to section 32 or section 33; and
-  (b) the trustee corporation receives from the person for whom it is so acting a notice of a kind referred to in subsection (1)(c); and
+  (b) the trustee corporation receives from the person for whom it is so acting a notice of a kind referred to in subsection (1)﻿(c); and
   (c) the trustee corporation knows that a welfare guardian or an attorney is acting for that person,—
 
 ## Part 4 — Managers
@@ -400,19 +400,20 @@ Where a property order is made in respect of any person subject to a personal or
   (a) within 3 months after the date of the commencement of his or her managership, a statement of the property, as at that date, of the person for whom the manager is acting:
   (b) within 30 days after the expiry of each year during which his or her managership continues, a statement relating to the property, as at the expiry of that year, of the person for whom the manager is acting and to the management of that property by the manager during that year:
   (c) within 30 days after the date on which the manager ceases in accordance with section 52 to hold office as manager, a statement relating to the property, as at that date, of the person for whom the manager was acting and to the management of that property by the manager during the period commencing with the expiry of the last complete year of his or her managership and ending with that date.
-(2A) Notwithstanding anything in subsections (1) and (2)(b), the court may specify both the period of 12 months that, in relation to any managership, is to constitute a year for the purposes of any statement required to be filed under subsection (2)(b) and the transitional arrangements that, in relation to statements required to be filed under subsection (2)(b), are to apply in relation to a change of balance date.
+(2A) Notwithstanding anything in subsections (1) and (2)﻿(b), the court may specify both the period of 12 months that, in relation to any managership, is to constitute a year for the purposes of any statement required to be filed under subsection (2)﻿(b) and the transitional arrangements that, in relation to statements required to be filed under subsection (2)﻿(b), are to apply in relation to a change of balance date.
 (3) Every manager commits an offence and is liable upon conviction to imprisonment for a term not exceeding 3 years who, in a statement filed under this section, includes any particular knowing it to be false.
 (4) Every manager commits an offence and is liable on conviction to a fine not exceeding $1,000 who fails to file a statement when required to do so by subsection (2).
 
 ### 46 Statement to be examined by or on behalf of Public Trust
 (1) Where any statement is filed in a court under section 45 by any manager who is not a trustee corporation, the Registrar of the court shall forthwith transmit 1 copy of the statement to Public Trust, and send the other copy to the person for whom the manager is acting.
-(2) Public Trust, or a chartered accountant appointed by Public Trust for the purposes of this section, shall examine a statement transmitted to Public Trust under subsection (1), and shall prepare a report as to whether the statement is correct and, if not, in what respects it is deficient.
+(2) Public Trust, or a qualified auditor appointed by Public Trust for the purposes of this section, shall examine a statement transmitted to Public Trust under subsection (1), and shall prepare a report as to whether the statement is correct and, if not, in what respects it is deficient.
 (3) A report under subsection (2) shall be filed with the court, and a copy of the report shall be given to the manager who filed the statement.
-(4) Public Trust, or a chartered accountant appointed by Public Trust for the purposes of this section, shall have a right of access to the books, accounts, vouchers, securities, or other documents of the manager or in the manager's custody or under the manager's control, and to any securities and documents of title held by the manager on account of the person for whom he or she is acting as manager, and may require from the manager such information and explanation as may be necessary.
-(5) If any person having the custody or control of any books, accounts, vouchers, securities, or other documents to which Public Trust, or a chartered accountant appointed by Public Trust for the purposes of this section, has a right of access under this section fails or refuses to allow Public Trust or that chartered accountant to exercise such access or in any way obstructs the preparation of a report under subsection (2), a court, on the application of Public Trust or the chartered accountant, may make such order as it thinks appropriate.
-(6) The remuneration and expenses of Public Trust, or any chartered accountant appointed by Public Trust for the purposes of this section, shall be such as may be prescribed or (if not so prescribed) as may be determined by the court, and shall, unless the court otherwise orders, be borne by the property of the person for whom the manager is acting; and where the court orders otherwise, such remuneration and expenses shall be borne by the manager personally or be apportioned between the manager and the property of the person for whom the manager is acting, as the court thinks just.
+(4) Public Trust, or a qualified auditor appointed by Public Trust for the purposes of this section, shall have a right of access to the books, accounts, vouchers, securities, or other documents of the manager or in the manager's custody or under the manager's control, and to any securities and documents of title held by the manager on account of the person for whom he or she is acting as manager, and may require from the manager such information and explanation as may be necessary.
+(5) If any person having the custody or control of any books, accounts, vouchers, securities, or other documents to which Public Trust, or a qualified auditor appointed by Public Trust for the purposes of this section, has a right of access under this section fails or refuses to allow Public Trust or that qualified auditor to exercise such access or in any way obstructs the preparation of a report under subsection (2), a court, on the application of Public Trust or the qualified auditor, may make such order as it thinks appropriate.
+(6) The remuneration and expenses of Public Trust, or any qualified auditor appointed by Public Trust for the purposes of this section, shall be such as may be prescribed or (if not so prescribed) as may be determined by the court, and shall, unless the court otherwise orders, be borne by the property of the person for whom the manager is acting; and where the court orders otherwise, such remuneration and expenses shall be borne by the manager personally or be apportioned between the manager and the property of the person for whom the manager is acting, as the court thinks just.
 (7) All expenses and costs for which the property of a person subject to a property order is liable under this section shall be a charge on that property, and that charge may be enforced in such manner as the court directs.
-(8) Public Trust, or a chartered accountant appointed by Public Trust for the purposes of this section, shall not be liable for any expenses or costs under this section.
+(8) Public Trust, or a qualified auditor appointed by Public Trust for the purposes of this section, shall not be liable for any expenses or costs under this section.
+(9) In this section, qualified auditor has the same meaning as in section 35 of the Financial Reporting Act 2013.
 
 ### 47 Inspection and copying of statements and reports by leave
 Any person may, by leave of the court or of the Registrar, inspect or make a copy of the whole or any part of any statement or report filed in a court under section 45 or section 46.
@@ -569,7 +570,7 @@ Except as provided in sections 54 and 55, nothing in this Act shall affect the l
   (e) if a welfare guardian is acting for that person, that welfare guardian:
   (f) if that person is subject to a property order, the manager of that person's property:
   (g) any other person specified by the court.
-(2) The court may dispense with service under subsection (1)(a) where it is satisfied that—
+(2) The court may dispense with service under subsection (1)﻿(a) where it is satisfied that—
   (a) the person in respect of whom the application is made wholly lacks the capacity to understand the nature and purpose of the proceedings; or
   (b) exceptional circumstances exist of a nature to justify dispensing with service.
 (3) Any person served with proceedings under subsection (1) shall be entitled to appear and be heard as a party to the proceedings.
@@ -606,7 +607,7 @@ In any proceedings under this Act, a court may—
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
 (2) An invoice rendered by a lawyer appointed under section 65A for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
 (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
-(4) Where the fees and expenses of a lawyer appointed under section 65A have been paid under subsection (1)(b), the court may, if it thinks it appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
+(4) Where the fees and expenses of a lawyer appointed under section 65A have been paid under subsection (1)﻿(b), the court may, if it thinks it appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of a District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
 
 **Pre-hearing conferences**
 
@@ -688,7 +689,7 @@ The Family Court Judge who presides over a pre-hearing conference shall be entit
 (5) Fees for reports prepared pursuant to a request under subsection (1), and reasonable expenses incurred,—
   (a) may be determined in accordance with regulations made under this Act; and
   (b) are payable by such party or parties to the proceedings as the court orders or, if the court so decides, are payable out of public money appropriated by Parliament for the purpose.
-(5A) Any amount of any fees and expenses ordered to be paid by any party under subsection (5)(b) shall, if paid by the Crown, be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
+(5A) Any amount of any fees and expenses ordered to be paid by any party under subsection (5)﻿(b) shall, if paid by the Crown, be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
 (6) Any party to the proceedings, or the person in respect of whom the application is made, or any lawyer appointed under section 65A may tender evidence on any matter referred to in any such report.
 (7) The court may call the person making the report as a witness, either of its own motion or on the application of any party or the person in respect of whom the application is made.
 
@@ -714,12 +715,12 @@ The Family Court Judge who presides over a pre-hearing conference shall be entit
   (h) accredited news media reporters:
   (i) persons whom the Judge permits to be present as support persons for any person described in paragraphs (b) and (d):
   (j) any other person whom the Judge permits to be present.
-(2) The Family Court Judge must agree to a request under subsection (1)(i) unless the Judge considers there is a good reason why the named support persons should not be permitted to be present.
+(2) The Family Court Judge must agree to a request under subsection (1)﻿(i) unless the Judge considers there is a good reason why the named support persons should not be permitted to be present.
 (3) No support persons may help a party conduct his or her case.
 (4) If, during a hearing, the Family Court Judge requests a person of any of the following kinds to leave the courtroom, the person must do so:
   (a) a witness:
   (b) an accredited news media reporter:
-  (c) a support person whom the Judge permitted to be present under subsection (1)(i).
+  (c) a support person whom the Judge permitted to be present under subsection (1)﻿(i).
 (5) Nothing in this section limits any other power of the court—
   (a) to hear proceedings in private; or
   (b) to permit a McKenzie friend to be present; or
@@ -785,8 +786,8 @@ A party to an appeal under section 83 may, with the leave of the Court of Appeal
   (a) has filed in a court an application made to the trustee corporation under section 32 or section 33 to act as manager of any property of a person; or
   (b) is deemed by subsection (3) or subsection (4) of section 117 to be a manager appointed under this Act in respect of the property of any person (being property the gross value of which, as at the commencement of this Act, did not exceed $100,000),—
 (1A) The reports required by subsection (1) shall,—
-  (a) where subsection (1)(a) applies, be filed not earlier than 2 years nor later than 3 years after the date of the filing of the application; or
-  (b) where subsection (1)(b) applies, be filed by the date specified in the programme drawn up in accordance with the Protection of Personal and Property Rights Regulations 1988.
+  (a) where subsection (1)﻿(a) applies, be filed not earlier than 2 years nor later than 3 years after the date of the filing of the application; or
+  (b) where subsection (1)﻿(b) applies, be filed by the date specified in the programme drawn up in accordance with the Protection of Personal and Property Rights Regulations 1988.
 (1B) The reports required under subsection (1) comprise—
   (a) a report from each of 2 medical practitioners (at least 1 of whom must be independent of the applicant, or any relative of the applicant) as to the extent to which the person subject to the order has the competence or lacks the competence to manage his or her own affairs in relation to his or her property; and
   (b) a report from the trustee corporation on the current condition of the person subject to the order, which report—
@@ -795,8 +796,8 @@ A party to an appeal under section 83 may, with the leave of the Court of Appeal
 (1C) If, after consideration of the reports filed in accordance with subsection (1), the court is of the opinion—the court may order that the order be discharged or that the order be extended with such variation, if any, as the court may direct.
   (a) that the order should be discharged or that the order should be extended; and
   (b) a full review by the court in accordance with subsections (3) to (10) is unnecessary,—
-(1D) Notwithstanding subsections (1) to (1C), where the reports are filed under subsection (1)(a), the court may if it thinks fit, either on its own motion or on the application of a person specified in subsection (2), direct that a full review of the case be undertaken and subsections (3) to (10) shall apply with any necessary modification to every such review as if the original application filed in the court were an order made by the court.
-(1E) Notwithstanding subsections (1) to (1C), where the reports are filed under subsection (1)(b), the court may if it thinks fit, either on its own motion or on the application of a person specified in subsection (2), direct that a full review of the case be undertaken and subsections (3) to (10) shall apply.
+(1D) Notwithstanding subsections (1) to (1C), where the reports are filed under subsection (1)﻿(a), the court may if it thinks fit, either on its own motion or on the application of a person specified in subsection (2), direct that a full review of the case be undertaken and subsections (3) to (10) shall apply with any necessary modification to every such review as if the original application filed in the court were an order made by the court.
+(1E) Notwithstanding subsections (1) to (1C), where the reports are filed under subsection (1)﻿(b), the court may if it thinks fit, either on its own motion or on the application of a person specified in subsection (2), direct that a full review of the case be undertaken and subsections (3) to (10) shall apply.
 (1F) In any case other than a case in which reports have been filed under subsection (1) in relation to a person subject to a property order, any person who, under a property order, is the manager of any property and who is of the opinion that the property order should be discharged may file in the court—
   (a) a report from each of 2 medical practitioners (at least 1 of whom must be independent of the applicant or any relative of the applicant) as to the extent to which the person subject to the order has the competence to manage his or her own affairs in relation to his or her property; and
   (b) a report from the manager on the current condition of the person subject to the order, which report—
@@ -886,9 +887,9 @@ If it appears to the manager of a person subject to a property order in New Zeal
     (i) to understand the nature of decisions about matters relating to his or her personal care and welfare; and
     (ii) to foresee the consequences of decisions about matters relating to his or her personal care and welfare or of any failure to make such decisions; and
     (iii) to communicate decisions about those matters.
-(2) A person must not be presumed to lack the competence described in subsection (1)(a) just because the person manages or intends to manage his or her own affairs in relation to his or her property in a manner that a person exercising ordinary prudence would not adopt in the same circumstances.
-(3) A person must not be presumed to lack the capacity described in subsection (1)(b) just because the person makes or intends to make a decision in relation to his or her personal care and welfare that a person exercising ordinary prudence would not make in the same circumstances.
-(4) A person must not be presumed to lack the competence described in subsection (1)(a) or, as the case may be, the capacity described in subsection (1)(b), just because the person is subject to compulsory treatment or has special patient status under the Mental Health (Compulsory Assessment and Treatment) Act 1992.
+(2) A person must not be presumed to lack the competence described in subsection (1)﻿(a) just because the person manages or intends to manage his or her own affairs in relation to his or her property in a manner that a person exercising ordinary prudence would not adopt in the same circumstances.
+(3) A person must not be presumed to lack the capacity described in subsection (1)﻿(b) just because the person makes or intends to make a decision in relation to his or her personal care and welfare that a person exercising ordinary prudence would not make in the same circumstances.
+(4) A person must not be presumed to lack the competence described in subsection (1)﻿(a) or, as the case may be, the capacity described in subsection (1)﻿(b), just because the person is subject to compulsory treatment or has special patient status under the Mental Health (Compulsory Assessment and Treatment) Act 1992.
 
 ### 94 Interpretation
 (1) For the purposes of this Part, the donor of an enduring power of attorney is mentally incapable in relation to property if the donor is not wholly competent to manage his or her own affairs in relation to his or her property.
@@ -936,7 +937,7 @@ If it appears to the manager of a person subject to a property order in New Zeal
 (7) The witness to the donor's signature must certify on the prescribed form that—
   (a) the requirements of subsection (6) have been met; and
   (b) the witness has no reason to suspect that the donor was or may have been mentally incapable at the time the donor signed the instrument; and
-  (c) the witness is independent of the attorney (or of each attorney) or that subsection (8)(a) or (b) applies.
+  (c) the witness is independent of the attorney (or of each attorney) or that subsection (8)﻿(a) or (b) applies.
 (8) Despite subsection (4),—
   (a) if the attorney is a trustee corporation, an officer or employee of that corporation authorised by the corporation for the purposes of this subsection may witness the donor's signature:
   (b) if the attorney is appointed in his or her capacity as a lawyer, another lawyer in the attorney's firm or a legal executive in that firm who meets the requirements of subsection (9) may witness the donor's signature.
@@ -968,12 +969,12 @@ An enduring power of attorney shall not be revoked by the donor's subsequent men
 (4) A donor of an enduring power of attorney may—
   (a) authorise the enduring power of attorney to have effect while the donor is mentally capable and to continue to have effect if the donor becomes mentally incapable; or
   (b) authorise the enduring power of attorney to have effect only if the donor becomes mentally incapable.
-(5) If subsection (4)(b) applies, the attorney must not act in relation to the donor's property unless a relevant health practitioner has certified, or the court has determined, that the donor is mentally incapable.
+(5) If subsection (4)﻿(b) applies, the attorney must not act in relation to the donor's property unless a relevant health practitioner has certified, or the court has determined, that the donor is mentally incapable.
 
 ### 97A Exercise of enduring power of attorney in relation to property
 (1) This section applies to an attorney acting under an enduring power of attorney in relation to the donor's property if the donor of the power becomes mentally incapable.
 (2) The paramount consideration of the attorney is to use the donor's property in the promotion and protection of the donor's best interests, while seeking at all times to encourage the donor to develop the donor's competence to manage his or her own affairs in relation to his or her property.
-(3) This section applies regardless of whether the enduring power of attorney is of the type referred to in section 97(4)(a) or (b).
+(3) This section applies regardless of whether the enduring power of attorney is of the type referred to in section 97(4)﻿(a) or (b).
 
 ### 98 Enduring power of attorney in relation to personal care and welfare
 (1) Subject to subsections (3) and (4), a donor of an enduring power of attorney may authorise the attorney to act in relation to the donor's personal care and welfare, either generally or in relation to specific matters, and in either case such authorisation may be given subject to conditions and restrictions.
@@ -985,11 +986,11 @@ An enduring power of attorney shall not be revoked by the donor's subsequent men
   (a) at the time a decision about the matter relating to the donor's personal care and welfare is being made or is proposed to be made; and
   (b) in relation to the personal care and welfare matter concerned.
 (3B) Despite subsection (3A),—
-  (a) if the donor is certified as mentally incapable because of a health condition that is likely to continue indefinitely, no further certificates are required under subsection (3)(a) in relation to any further personal care and welfare matters:
-  (b) if the donor is certified as mentally incapable because of a health condition that is likely to continue for a period specified in the certificate, no further certificates are required under subsection (3)(a) in relation to any further personal care and welfare matters that arise during the specified period.
+  (a) if the donor is certified as mentally incapable because of a health condition that is likely to continue indefinitely, no further certificates are required under subsection (3)﻿(a) in relation to any further personal care and welfare matters:
+  (b) if the donor is certified as mentally incapable because of a health condition that is likely to continue for a period specified in the certificate, no further certificates are required under subsection (3)﻿(a) in relation to any further personal care and welfare matters that arise during the specified period.
 (4) The attorney shall not act in respect of any matter relating to the donor's personal care and welfare where, if the attorney were the welfare guardian of the donor, the attorney would be denied the power to act by section 18.
 (5) Subject to subsections (3) and (4), any action taken by the attorney in relation to the donor's personal care and welfare shall have the same effect as it would have had if it had been taken by the donor and the donor had had full capacity to take it.
-(6) In subsection (3)(a), a significant matter relating to the donor's personal care and welfare means a matter that has, or is likely to have, a significant effect on the health, well-being, or enjoyment of life of the donor (for example, a permanent change in the donor's residence, entering residential care, or undergoing a major medical procedure).
+(6) In subsection (3)﻿(a), a significant matter relating to the donor's personal care and welfare means a matter that has, or is likely to have, a significant effect on the health, well-being, or enjoyment of life of the donor (for example, a permanent change in the donor's residence, entering residential care, or undergoing a major medical procedure).
 
 ### 98A Exercise of enduring power of attorney in relation to personal care and welfare
 (1) This section applies to an attorney acting under an enduring power of attorney in relation to the donor's personal care and welfare.
@@ -1007,7 +1008,7 @@ An enduring power of attorney shall not be revoked by the donor's subsequent men
     (i) in relation to the whole or a specified part of the donor's affairs in relation to his or her property, or to act in relation to specified things on the donor's behalf; and
     (ii) in relation to the donor's personal care and welfare, either generally or in relation to specific matters; or
   (b) giving an enduring power of attorney to any person or persons for the purposes described in subparagraph (i) of paragraph (a), and, whether in the same or in a separate document, to another person for the purposes described in subparagraph (ii) of that paragraph.
-(2) If subsection (1)(b) applies, the attorney responsible for the donor's property must give the attorney responsible for the donor's personal care and welfare any financial support required by that attorney to carry out his or her duties in relation to the donor's personal care and welfare.
+(2) If subsection (1)﻿(b) applies, the attorney responsible for the donor's property must give the attorney responsible for the donor's personal care and welfare any financial support required by that attorney to carry out his or her duties in relation to the donor's personal care and welfare.
 (3) Subsection (2) is subject to—
   (a) the enduring power of attorney; and
   (b) any direction of the court under section 101 made on the application of either attorney.
@@ -1079,7 +1080,7 @@ Where an enduring power of attorney is given by a person who is or who subsequen
   (j) authorise an attorney acting under an enduring power of attorney in relation to a donor's property to execute a will for and on behalf of the donor if the court is satisfied that—
     (i) the donor lacks testamentary capacity; and
     (ii) there is no express provision to the contrary in the enduring power of attorney.
-(2A) For the purposes of any application for the exercise of the court's jurisdiction under subsection (2)(j), section 55 applies as if every reference to a manager were a reference to the attorney, and every reference to a person subject to a property order were a reference to the donor.
+(2A) For the purposes of any application for the exercise of the court's jurisdiction under subsection (2)﻿(j), section 55 applies as if every reference to a manager were a reference to the attorney, and every reference to a person subject to a property order were a reference to the donor.
 (3) Nothing in the foregoing provisions of this section shall limit or affect the jurisdiction of any other court.
 
 ### 102A Persons who may apply for exercise of court's jurisdiction
@@ -1113,7 +1114,7 @@ A person dealing with an attorney acting under an enduring power of attorney in 
   (b) is not affected by notice that the donor or any other person has not concurred.
 
 ### 103C Effect of attorney's actions, etc, before notice of revocation or suspension received
-(1) This section applies, instead of section 20(1) to (4) of the Property Law Act 2007, to enduring powers of attorney executed before or after the commencement of section 18 of the Protection of Personal and Property Rights Amendment Act 2007, but subject to section 20(5)(b) of the Property Law Act 2007.
+(1) This section applies, instead of section 20(1) to (4) of the Property Law Act 2007, to enduring powers of attorney executed before or after the commencement of section 18 of the Protection of Personal and Property Rights Amendment Act 2007, but subject to section 20(5)﻿(b) of the Property Law Act 2007.
 (2) An enduring power of attorney continues in force until notice of an event revoking the power is received by the attorney.
 (3) The authority of an attorney to act under an enduring power of attorney continues in force until notice suspending that authority is received by the attorney.
 (4) Every act or thing within the scope of the enduring power of attorney done by or to the attorney in good faith before he or she receives notice of any event revoking the power of attorney has effect as if the event had not occurred.
@@ -1157,12 +1158,12 @@ A person dealing with an attorney acting under an enduring power of attorney in 
 ### 107 Attorney's power to benefit self and others
 (1) An attorney under an enduring power of attorney must not, at any time while the donor is mentally incapable, act to the benefit of the attorney or of a person other than the donor, or recover any expenses from the donor's property, unless and only to the extent that—
   (a) the donor has specified a power to so act in the enduring power of attorney; or
-  (b) the court authorises the attorney to so act in an order under section 102(2)(g) or (ga); or
+  (b) the court authorises the attorney to so act in an order under section 102(2)﻿(g) or (ga); or
   (c) the attorney's actions relate to 1 or more of the following matters and the enduring power of attorney does not expressly provide otherwise:
     (i) if the attorney and donor are married to, or in a civil union or de facto relationship with, each other, and are living together and sharing their incomes, any action taken by the attorney in respect of real or personal property that the donor and the attorney own jointly and not as tenants in common:
     (ii) any payments of a kind described in subsection (2):
     (iii) if acting under an enduring power of attorney in relation to the donor's property, any loan or advance or other investment of the donor's property that a trustee could make of trust funds under section 13A of the Trustee Act 1956.
-(2) The payments referred to in subsection (1)(c)(ii) are payments (being payments for which receipts or other evidence are provided by the attorney) of—
+(2) The payments referred to in subsection (1)﻿(c)﻿(ii) are payments (being payments for which receipts or other evidence are provided by the attorney) of—
   (a) out-of-pocket expenses (other than lost wages or remuneration) reasonably incurred by an attorney; or
   (b) professional fees and expenses reasonably incurred by an attorney who—
     (i) has accepted appointment in a professional capacity; or
@@ -1291,8 +1292,8 @@ The enactments specified in Schedule 4 are hereby repealed.
 (6) Within 1 year after the commencement of this Act, every trustee corporation who is deemed by subsection (3) or subsection (4) to be a manager appointed under this Act shall notify a court of each case, and the court and the trustee corporation shall draw up a programme in accordance with regulations made under this Act for the progressive review of all such cases.
 (7) The repeal by section 116 of this Act of the Aged and Infirm Persons Protection Act 1912 shall not affect any of the provisions of section 18 of that Act, and those provisions shall continue to apply, in respect of any period that has not expired at the commencement of this Act.
 (8) The repeal by section 116 of this Act of Part 7 of the Mental Health Act 1969 shall not affect any of the provisions of section 90 of that Act, and those provisions shall continue to apply, in respect of any period that has not expired at the commencement of this Act.
-(9) Nothing in section 45(2)(a) shall apply to any person who is deemed by subsection (3) of this section to be a manager appointed under this Act.
-(10) For the purposes of section 45(2)(b),—
+(9) Nothing in section 45(2)﻿(a) shall apply to any person who is deemed by subsection (3) of this section to be a manager appointed under this Act.
+(10) For the purposes of section 45(2)﻿(b),—
   (a) a person who was the manager of the estate of a protected person under the Aged and Infirm Persons Protection Act 1912 and who is deemed by subsection (3) to be a manager appointed under this Act shall be deemed to have been so appointed on the expiry of the period referred to in subsection (7); and
   (b) a person who was the manager of the estate of a protected patient under Part 7 of the Mental Health Act 1969 and who is deemed by subsection (3) to be a manager appointed under this Act shall be deemed to have been so appointed on the expiry of the period referred to in subsection (8).
 
