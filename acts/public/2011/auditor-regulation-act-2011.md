@@ -1,5 +1,5 @@
 # Auditor Regulation Act 2011
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Auditor Regulation Act 2011.
@@ -50,13 +50,14 @@ The FMA's functions under this Act are as follows:
   - **audit regulatory systems** means, in relation to an accredited body, the body's systems and processes for performing its regulatory functions
   - **auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **Auditor-General** has the same meaning as in section 4 of the Public Audit Act 2001
+  - **company** has the same meaning as in section 2(1) of the Companies Act 1993
   - **director** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **disciplinary body** ,—
-    (a) in relation to the Institute, means the Disciplinary Tribunal referred to in section 6(1)(g) of the New Zealand Institute of Chartered Accountants Act 1996:
+    (a) in relation to the Institute, means the Disciplinary Tribunal referred to in section 6(1)﻿(g) of the New Zealand Institute of Chartered Accountants Act 1996:
     (b) in relation to any other accredited body, means the tribunal, committee, or other body that has been—
       (i) set up to take disciplinary action in respect of the members of the accredited body; and
       (ii) approved by the FMA to act as the disciplinary body
-  - **engagement partner** , in respect of an FMC audit where an audit firm is acting, means the partner or other person in the firm who is responsible for the audit and the performance of the audit, and for the audit report that is issued on behalf of the firm
+  - **engagement partner or director** , in respect of an FMC audit where an audit firm is acting, means the partner, director, or other person in the firm who is responsible for the audit and the performance of the audit, and for the audit report that is issued on behalf of the firm
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **FMA** means the Financial Markets Authority established under the Financial Markets Authority Act 2011
   - **FMC audit** —
@@ -80,13 +81,14 @@ The FMA's functions under this Act are as follows:
   - **licensed auditor** means a person who holds, or is treated as holding, a licence
   - **limited partnership** means—
     (a) a limited partnership that is registered under section 51 of the Limited Partnerships Act 2008; or
-    (b) a partnership formed or incorporated outside New Zealand that is—
-      (i) an overseas limited partnership within the meaning of the Limited Partnerships Act 2008; or
-      (ii) a body corporate
+    (b) an overseas limited partnership within the meaning of the Limited Partnerships Act 2008
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **member** means, in relation to an accredited body, a person to whom the accredited body has issued a licence
-  - **overseas audit firm** means an audit firm that is a partnership where a majority of the partners are ordinarily resident in a country, state, or territory outside New Zealand
+  - **overseas audit firm** means an audit firm that is—
+    (a) a partnership where a majority of the partners are ordinarily resident in a country, state, or territory outside New Zealand; or
+    (b) an overseas company
   - **overseas auditor** means a person who is entitled to act as an auditor in a country, state, or territory outside New Zealand that is prescribed for the purposes of this definition
+  - **overseas company** means a body corporate that is incorporated outside New Zealand
   - **prescribed minimum standards** means the prescribed minimum standards for the issue of a licence or for the registration of an audit firm (as the case may be) prescribed under subpart 3 of Part 2
   - **quality review** means a quality review under subpart 6 of Part 2
   - **register** means the register kept under subpart 4 of Part 2
@@ -121,23 +123,25 @@ This Act binds the Crown.
 (2) A person who acts as the auditor in respect of an FMC audit in breach of subsection (1) commits an offence and is liable on conviction to a fine not exceeding $50,000.
 
 ### 9 Audit firms engaged or appointed to act as auditor in respect of FMC audits must be registered
-(1) An audit firm must not accept an engagement or appointment to act as the auditor in respect of an FMC audit unless it is a partnership that is a registered audit firm.
-(2) If an audit firm is engaged or appointed to act as the auditor in respect of an FMC audit,—
-  (a) the partners of the audit firm, from time to time, who are licensed auditors must, for the purposes of this Act, be treated as acting as the auditor or auditors in respect of the FMC audit; and
-  (b) the audit firm must ensure that each engagement partner is a licensed auditor.
-(3) If an audit firm breaches subsection (1) or (2)(b), every partner or director of the audit firm commits an offence and is liable on conviction to a fine not exceeding $50,000 if—
+(1) An audit firm must not accept an engagement or appointment to act as the auditor in respect of an FMC audit unless it is a registered audit firm.
+(2) If an audit firm is engaged or appointed to act as the auditor in respect of an FMC audit, the audit firm must ensure that each engagement partner or director is a licensed auditor whose licence authorises him or her to act as the auditor in respect of that kind of FMC audit.
+(2A) If an audit firm that is a partnership is engaged or appointed to act as the auditor in respect of an FMC audit, each partner of the audit firm, from time to time, who is a licensed auditor and whose licence authorises him or her to act as the auditor in respect of that kind of FMC audit must, for the purposes of this Act, be treated as acting as the auditor in respect of the FMC audit.
+(2B) If an audit firm that is a company or an overseas company is engaged or appointed to act as the auditor in respect of an FMC audit, the company or overseas company must, for the purposes of this Act, be treated as acting as the auditor in respect of the FMC audit.
+(2C) Nothing in this section or section 10 limits the power of the Institute or any other accredited body to make, maintain, and enforce any rules relating to the investigation and hearing of complaints against, and disciplining of, a member or former member in connection with the carrying out of an audit (for example, if a company is treated as acting as the auditor, a director or an employee of that company may be subject to disciplinary action in respect of the audit).
+(3) If an audit firm breaches subsection (1) or (2), every partner or director of the audit firm commits an offence and is liable on conviction to a fine not exceeding $50,000 if—
   (a) the breach took place with his or her authority, permission, or consent; or
   (b) he or she could reasonably have known that the breach was to be or was being made and failed to take all reasonable steps to prevent or stop it.
 
-### 10 Partners who are responsible if FMC audit not carried out in accordance with requirements
+### 10 Partners or directors who are responsible if FMC audit not carried out in accordance with requirements
 (1) Subsection (2) applies if a registered audit firm is engaged or appointed to act as the auditor in respect of an FMC audit and that FMC audit is not being, or has not been, carried out—
   (a) in accordance with this Act or any other enactment that relates to the conduct of an FMC audit; or
   (b) in accordance with auditing and assurance standards; or
   (c) otherwise with reasonable care, diligence, and skill.
-(2) Despite section 9(2)(a), a partner of the registered audit firm may have his or her licence cancelled under section 20(1)(c) or suspended under section 21(1)(b), or be subject to an order under section 78, in relation to the failure to carry out the FMC audit in accordance with the matters referred to in subsection (1)(a) or (b) or otherwise with reasonable care, diligence, and skill only if—
-  (a) he or she was the engagement partner in respect of the FMC audit; or
+(2) Despite section 9(2A) and (2B), a partner or director of the registered audit firm may have his or her licence cancelled under section 20(1)﻿(c) or suspended under section 21(1)﻿(b), or be subject to an order under section 78, in relation to the failure to carry out the FMC audit in accordance with the matters referred to in subsection (1)﻿(a) or (b) or otherwise with reasonable care, diligence, and skill if, and only if,—
+  (a) he or she was the engagement partner or director in respect of the FMC audit; or
   (b) the failure took place with his or her authority, permission, or consent; or
   (c) he or she could reasonably have known of the failure and failed to take all reasonable steps to prevent or stop it.
+(3) For the purposes of subsection (2), sections 20(1)﻿(c) and 21(1)﻿(b) apply as if the FMC audit is carried out by the partner or director to which subsection (2)﻿(a), (b), or (c) applies.
 
 ### 10A Licence and registration requirements do not apply if FMA exemption applies
 Sections 8 and 9 do not apply to an FMC audit if—
@@ -155,7 +159,7 @@ Sections 8 and 9 do not apply to an FMC audit if—
 (1) An accredited body may, on an application made by a natural person, issue a licence to the person if the accredited body is satisfied that the person—
   (a) meets the prescribed minimum standards; and
   (b) is otherwise a fit and proper person to hold a licence.
-(2) The application must be accompanied by payment of the prescribed registration fee (which the accredited body must either send to the Registrar under section 14(1)(c) or refund to the applicant if the licence is not issued).
+(2) The application must be accompanied by payment of the prescribed registration fee (which the accredited body must either send to the Registrar under section 14(1)﻿(c) or refund to the applicant if the licence is not issued).
 
 **Issue of licences by FMA to overseas auditors**
 
@@ -176,7 +180,7 @@ Sections 8 and 9 do not apply to an FMC audit if—
 (3) Applications under subsection (1) must be—
   (a) made in the manner that is specified by the FMA; and
   (b) accompanied by payment of the prescribed fee for the application (if any); and
-  (c) accompanied by payment of the prescribed registration fee (which the FMA must either send to the Registrar under section 14(1)(c) or refund to the applicant if the licence is not issued).
+  (c) accompanied by payment of the prescribed registration fee (which the FMA must either send to the Registrar under section 14(1)﻿(c) or refund to the applicant if the licence is not issued).
 (4) Every applicant under subsection (1) must provide to the FMA the information that is required by the FMA to assist it in determining the application.
 (5) This section does not prevent a licence from being issued to an overseas auditor under section 11.
 
@@ -186,7 +190,7 @@ Sections 8 and 9 do not apply to an FMC audit if—
   (a) means, in relation to a person, a change in the circumstances of the person that result in the person no longer—
     (i) being an overseas auditor; or
     (ii) meeting the prescribed minimum standards; or
-    (iii) being required to comply with the requirements referred to in section 12(1)(c); and
+    (iii) being required to comply with the requirements referred to in section 12(1)﻿(c); and
   (b) includes any change that may be prescribed.
 (3) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
@@ -203,10 +207,10 @@ Sections 8 and 9 do not apply to an FMC audit if—
 
 ### 15 Licence subject to conditions
 (1) A licence issued to a person by an accredited body or the FMA—
-  (a) must be subject to any applicable conditions of the kinds prescribed under section 32(1)(b)(i); and
-  (b) may be subject to any other conditions of a kind prescribed under section 32(1)(b)(ii) that the accredited body or the FMA thinks fit; and
+  (a) must be subject to any applicable conditions of the kinds prescribed under section 32(1)﻿(b)﻿(i); and
+  (b) may be subject to any other conditions of a kind prescribed under section 32(1)﻿(b)﻿(ii) that the accredited body or the FMA thinks fit; and
   (c) must specify a condition relating to the kinds of FMC audits in respect of which the person is authorised to act under the licence.
-(2) The condition under subsection (1)(c) may specify that the person is authorised to act in respect of all kinds of FMC audits.
+(2) The condition under subsection (1)﻿(c) may specify that the person is authorised to act in respect of all kinds of FMC audits.
 (3) The accredited body or the FMA may, at any time after the licence is issued, vary, remove, add to, or substitute any conditions of the licence.
 (4) The accredited body or the FMA must not exercise a power referred to in subsection (3) unless—
   (a) the accredited body or the FMA gives the licensed auditor at least 10 working days' written notice of the following matters before it exercises the power:
@@ -215,7 +219,7 @@ Sections 8 and 9 do not apply to an FMC audit if—
   (b) the accredited body or the FMA gives the licensed auditor or his or her representative an opportunity to make written submissions on the matter within that notice period.
 
 ### 16 FMA must have regard to limits on overseas auditors
-The FMA must, in considering what conditions to impose under section 15(1)(c) in respect of an overseas auditor, have regard to any limitations on the overseas auditor's ability to act in respect of an audit that are imposed by or in relation to any certificate, registration, licence, or other authorisation that entitles the overseas auditor to act as an auditor in a country, state, or territory outside New Zealand.
+The FMA must, in considering what conditions to impose under section 15(1)﻿(c) in respect of an overseas auditor, have regard to any limitations on the overseas auditor's ability to act in respect of an audit that are imposed by or in relation to any certificate, registration, licence, or other authorisation that entitles the overseas auditor to act as an auditor in a country, state, or territory outside New Zealand.
 
 **Duration of licence**
 
@@ -228,10 +232,10 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
 **Ongoing competence requirements**
 
 ### 18 Ongoing competence requirements
-(1) An accredited body must, in accordance with the requirements prescribed under section 32(1)(c),—
+(1) An accredited body must, in accordance with the requirements prescribed under section 32(1)﻿(c),—
   (a) require its members to complete competence programmes to maintain their ongoing competence; and
   (b) otherwise promote, monitor, and review the ongoing competence of its members.
-(2) Every member must comply with the requirements under subsection (1)(a).
+(2) Every member must comply with the requirements under subsection (1)﻿(a).
 (3) Any competence programme may require a member to do 1 or more of the following, within the period, or at the intervals, prescribed in the programme:
   (a) pass an examination or assessment (or both):
   (b) complete a period of practical training:
@@ -276,7 +280,7 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
   (a) that the person—
     (i) has failed to comply with a condition of the licence; or
     (ii) has failed to comply with section 13, 85(3), or 86(3); or
-    (iii) has not satisfied the requirements of a competence programme that he or she is required to complete (in the case of a licence issued under section 11) or has failed to comply with the requirements referred to in section 12(1)(c) (in the case of a licence issued under section 12); or
+    (iii) has not satisfied the requirements of a competence programme that he or she is required to complete (in the case of a licence issued under section 11) or has failed to comply with the requirements referred to in section 12(1)﻿(c) (in the case of a licence issued under section 12); or
   (b) that 1 or more FMC audits carried out by the person are not being, or have not been, carried out—
     (i) in accordance with this Act or any other enactment that relates to the conduct of an FMC audit; or
     (ii) in accordance with auditing and assurance standards; or
@@ -289,7 +293,7 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
   (b) suspended by the FMA under subpart 6 or 7.
 
 ### 22 Procedure relating to exercise of cancellation or suspension powers
-(1) A relevant authority must not cancel a licence under section 20(1)(b)(ii) to (vi) or (c) or suspend a licence under section 21(1) unless—
+(1) A relevant authority must not cancel a licence under section 20(1)﻿(b)﻿(ii) to (vi) or (c) or suspend a licence under section 21(1) unless—
   (a) the relevant authority gives the licensed auditor at least 10 working days' written notice of the following matters before it exercises the power:
     (i) that the relevant body may cancel or suspend the licence; and
     (ii) the reasons why it is considering exercising that power; and
@@ -303,14 +307,14 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
 (1) This section applies if—
   (a) a person's licence is cancelled or suspended; and
   (b) the person is acting, or has been appointed to act, as the auditor in respect of an FMC audit at the time that the licence is cancelled or suspended.
-(2) The FMA may, on an application made under subsection (4), authorise the person whose licence is cancelled or suspended to act, or to continue to act, as the auditor in respect of the FMC audit referred to in subsection (1)(b).
+(2) The FMA may, on an application made under subsection (4), authorise the person whose licence is cancelled or suspended to act, or to continue to act, as the auditor in respect of the FMC audit referred to in subsection (1)﻿(b).
 (3) The FMA may act under subsection (2) only if the FMA is satisfied that the FMC audit will be carried out—
   (a) in accordance with—
     (i) this Act and any other enactment that relates to the conduct of the FMC audit; and
     (ii) auditing and assurance standards; and
   (b) otherwise with reasonable skill, diligence, and care.
 (4) An application—
-  (a) may be made only by the FMC reporting entity in respect of the FMC audit referred to in subsection (1)(b); and
+  (a) may be made only by the FMC reporting entity in respect of the FMC audit referred to in subsection (1)﻿(b); and
   (b) must otherwise be made in the manner that is specified by the FMA; and
   (c) must be accompanied by payment of the prescribed fee for the application (if any).
 (5) The authorisation may be subject to the terms and conditions that the FMA thinks fit.
@@ -321,12 +325,12 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
 ### 24 Appeals in respect of licensing and related matters
 (1) A person may appeal to a District Court against any decision of an accredited body or the FMA to—
   (a) decline to issue a licence to the person; or
-  (b) include conditions under section 15(1)(b) or (c) on the person's licence or proposed licence (or to act under section 15(3)); or
+  (b) include conditions under section 15(1)﻿(b) or (c) on the person's licence or proposed licence (or to act under section 15(3)); or
   (c) suspend or cancel his or her licence; or
   (d) decline to act on an application made by the person under section 23 (or to include terms and conditions on an authorisation following such an application); or
   (e) issue a direction to the person under subpart 6; or
   (f) make any other order under subpart 6 or 7 in respect of the person.
-(2) A person may appeal to a District Court against any decision of a disciplinary body to cancel or suspend his or her licence unless the rules of the accredited body provide for an appeal against the decision to a body established to hear appeals against the decision (for example, the Appeals Council referred to in section 6(1)(h) of the New Zealand Institute of Chartered Accountants Act 1996).
+(2) A person may appeal to a District Court against any decision of a disciplinary body to cancel or suspend his or her licence unless the rules of the accredited body provide for an appeal against the decision to a body established to hear appeals against the decision (for example, the Appeals Council referred to in section 6(1)﻿(h) of the New Zealand Institute of Chartered Accountants Act 1996).
 (3) An appeal to a District Court under this section must be brought—
   (a) in accordance with the rules of court; and
   (b) within 20 working days after notice of the decision is communicated to the appellant, or within any further time a District Court Judge allows on application made before or after the period expires.
@@ -334,15 +338,25 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
 ### Subpart 2 — Registration of audit firms
 
 ### 25 Accredited body may authorise registration of audit firms
-(1) An accredited body may, on an application made by an audit firm that is a partnership, authorise the Registrar to register the audit firm if the accredited body is satisfied that—
-  (a) 1 or more of the partners of the firm are licensed auditors; and
-  (b) the firm meets the prescribed minimum standards.
+(1) An accredited body may, on an application made by an audit firm that is a partnership or a company, authorise the Registrar to register the audit firm if the accredited body is satisfied that,—
+  (a) in the case of a partnership,—
+    (i) 1 or more of the partners of the firm are licensed auditors; and
+    (ii) the firm meets the prescribed minimum standards:
+  (b) in the case of a company,—
+    (i) 1 or more of the directors of the firm are licensed auditors; and
+    (ii) the firm meets the prescribed minimum standards; and
+    (iii) the firm satisfies the requirements prescribed for the purposes of this subparagraph.
 (2) A limited partnership may not apply under subsection (1) (and may not be a registered audit firm).
-(3) The application must be accompanied by payment of the prescribed registration fee (which the accredited body must either send to the Registrar under section 27(1)(c) or refund to the audit firm if it is not registered).
+(3) The application must be accompanied by payment of the prescribed registration fee (which the accredited body must either send to the Registrar under section 27(1)﻿(c) or refund to the audit firm if it is not registered).
 
 ### 26 FMA may authorise registration of overseas audit firms
 (1) The FMA may, on an application made by an overseas audit firm, authorise the Registrar to register the audit firm if the FMA is satisfied that—
-  (a) 1 or more of the partners of the firm are licensed auditors; and
+  (a) in the case of a partnership, 1 or more of the partners of the firm are licensed auditors; and
+  (ab) in the case of an overseas company,—
+    (i) 1 or more of the directors of the firm are licensed auditors; and
+    (ii) the firm is eligible to act as an auditor in the country, State, or territory in which it is incorporated; and
+    (iii) the firm is required, under the law or the regulatory requirements of the country, State, or territory in which it is incorporated, to comply with requirements for maintaining the firm's independence as an auditor, and that those requirements are equivalent to, or as satisfactory as, the requirements that apply to New Zealand auditors; and
+    (iv) the firm satisfies the requirements prescribed for the purposes of this subparagraph; and
   (b) the firm is subject to review arrangements that are equivalent to, or as satisfactory as, the quality review arrangements under subpart 6; and
   (c) the systems, policies, and procedures of the firm are satisfactory in terms of—
     (i) promoting compliance with the requirements imposed by or under this Act and other enactments that relate to the conduct of FMC audits; and
@@ -350,7 +364,7 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
     (iii) otherwise promoting reasonable care, diligence, and skill in the carrying out of FMC audits; and
   (d) the firm meets the prescribed minimum standards.
 (2) A limited partnership may not apply under subsection (1) (and may not be a registered audit firm).
-(3) The application must be accompanied by payment of the prescribed registration fee (which the FMA must either send to the Registrar under section 27(1)(c) or refund to the audit firm if it is not registered).
+(3) The application must be accompanied by payment of the prescribed registration fee (which the FMA must either send to the Registrar under section 27(1)﻿(c) or refund to the audit firm if it is not registered).
 
 ### 27 Registration of audit firm
 (1) An accredited body or the FMA (as the case may be) must, after deciding to authorise the registration of an audit firm, send to the Registrar notification of that decision together with—
@@ -364,21 +378,26 @@ The FMA must, in considering what conditions to impose under section 15(1)(c) in
 (1) The registration of an audit firm is subject to any conditions that the relevant body thinks fit.
 (2) The relevant body may, at any time after the audit firm is registered, vary, remove, add to, or substitute any conditions of registration.
 
-### 29 Cancellation of registration
-(1) The relevant body may give notice to the Registrar to cancel the registration of a registered audit firm if the relevant body is satisfied on reasonable grounds that the audit firm—
-  (a) no longer has at least 1 partner who is a licensed auditor; or
+### 29 Cancellation or suspension of registration
+(1) The relevant body may give notice to the Registrar to cancel or suspend the registration of a registered audit firm if the relevant body is satisfied on reasonable grounds that the audit firm—
+  (a) no longer has at least 1 partner or director who is a licensed auditor; or
   (b) obtained the registration by making a false or misleading representation or declaration (whether oral or written); or
   (c) no longer meets the prescribed minimum standards; or
+  (ca) no longer satisfies the requirements prescribed for the purposes of section 25(1)﻿(b)﻿(iii) or 26(1)﻿(ab)﻿(iv); or
+  (cb) no longer satisfies the requirements of section 26(1)﻿(ab)﻿(ii) or (iii) (in the case of an overseas company); or
   (d) has failed to comply with a condition of its registration; or
   (e) has failed to comply with a direction issued under subpart 6; or
   (f) has failed to comply with section 87(6).
-(2) After receiving the notification under subsection (1), the Registrar must—
-  (a) cancel the registration of the audit firm; and
-  (b) give written notice of the cancellation to the audit firm.
+(2) A suspension under subsection (1) is for the period that the relevant body thinks fit or until the audit firm satisfies any requirements specified by the relevant body (and that period or those requirements must be specified in the notice given under subsection (1)).
+(3) After receiving a notification under subsection (1), the Registrar must—
+  (a) cancel or suspend the registration of the audit firm; and
+  (b) give written notice of the cancellation or suspension to the audit firm.
+(4) The Registrar must, after receiving notification of an order under subpart 7 of the cancellation or suspension of the registration of an audit firm, cancel or suspend the registration of the audit firm.
+(5) The registration of an audit firm may also be treated as cancelled or suspended under section 61(6).
 
 ### 30 Relevant body must give notice before exercising power
 The relevant body must not exercise a power referred to in section 28(2) or 29 unless—
-  (a) the relevant body gives the audit firm (or at least 1 of the partners of the firm) at least 10 working days' written notice of the following matters before it exercises the power:
+  (a) the relevant body gives the audit firm (or at least 1 of the partners or directors of the firm) at least 10 working days' written notice of the following matters before it exercises the power:
     (i) that the relevant body may exercise a power under section 28(2) or 29 (as the case may be); and
     (ii) the reasons why it is considering exercising that power; and
   (b) the relevant body gives the audit firm or a representative of the audit firm an opportunity to make written submissions on the matter within that notice period.
@@ -387,7 +406,7 @@ The relevant body must not exercise a power referred to in section 28(2) or 29 u
 (1) An audit firm may appeal to a District Court against any decision of an accredited body or the FMA to—
   (a) decline to authorise the registration of the firm; or
   (b) include conditions under section 28 on the firm's registration (or to act under section 28(2)); or
-  (c) give notice to the Registrar to cancel the firm's registration.
+  (c) give notice to the Registrar to cancel or suspend the firm's registration.
 (2) An appeal to a District Court under this section must be brought—
   (a) in accordance with the rules of court; and
   (b) within 20 working days after notice of the decision is communicated to the appellant, or within any further time a District Court Judge allows on application made before or after the period expires.
@@ -426,6 +445,7 @@ The relevant body must not exercise a power referred to in section 28(2) or 29 u
     (ii) auditing and assurance standards; and
   (b) otherwise promoting reasonable care, diligence, and skill in the carrying out of FMC audits.
 (2) The FMA may recognise any overseas certificate, registration, licence, or other authorisation as satisfying a particular minimum standard for the registration of an audit firm (in whole or in part) if, in the opinion of the FMA, that overseas certificate, registration, licence, or authorisation is equivalent to, or as satisfactory as, the standard, or part of the standard, that is treated as being satisfied.
+(3) Nothing in regulations made under section 84(1)﻿(ca) limits the FMA's power to prescribe minimum standards for the registration of an audit firm.
 
 ### 35 Principles guiding prescribing of licensing, registration, and other matters
 In prescribing matters under this subpart, the FMA must be guided by the following principles:
@@ -472,7 +492,7 @@ The Registrar must establish and maintain, in accordance with this subpart, a re
 The purpose of the register is—
   (a) to enable any person to—
     (i) determine whether a person is a licensed auditor and, if so, the status and relevant history of the person's licence; and
-    (ii) determine whether a partnership is a registered audit firm and, if so, the status and relevant history of the firm's registration; and
+    (ii) determine whether a partnership, a company, or an overseas company is a registered audit firm and, if so, the status and relevant history of the firm's registration; and
     (iii) choose a suitable person or audit firm to carry out an FMC audit; and
     (iv) know which licensed auditors have been disciplined within the last 7 years; and
   (b) to assist any person in the exercise of the person’s powers or the performance of the person’s functions under this Act or any other enactment.
@@ -492,14 +512,14 @@ The purpose of the register is—
   (a) the full name and business address of the firm; and
   (b) the name and address of the entity that authorised the registration of the firm (being either an accredited body or the FMA); and
   (c) the date of registration; and
-  (d) the names of all of the partners and employees of the firm that are licensed auditors; and
+  (d) the names of all of the partners, directors, and employees of the firm that are licensed auditors; and
   (e) the conditions placed on the registration that are currently in force; and
   (f) any other prescribed information.
 (3) The register may also contain—
   (a) information about former licensed auditors and former registered audit firms; and
   (b) information about licences that have been cancelled or suspended or otherwise expired in the last 7 years; and
   (c) any other information or documentation that the Registrar considers necessary or desirable for the purposes of the register.
-(4) The Registrar must remove from the register information about a former licensed auditor contained in the register under subsection (3)(a) if the last licence held by the person was cancelled or expired more than 7 years ago.
+(4) The Registrar must remove from the register information about a former licensed auditor contained in the register under subsection (3)﻿(a) if the last licence held by the person was cancelled or expired more than 7 years ago.
 
 ### 42 Obligation to notify Registrar of prescribed changes
 (1) Every accredited body and the FMA must give written notice to the Registrar of any prescribed changes within 10 working days after the accredited body or the FMA (as the case may be) first becomes aware of the change.
@@ -542,7 +562,7 @@ The Registrar may refuse to accept a document received by the Registrar under th
 (3) The register may be searched for the following purposes:
   (a) by an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 1993:
   (b) by a person for a purpose referred to in section 40.
-(4) A person who searches the register for personal information in breach of this section must be treated, for the purposes of Part 8 of the Privacy Act 1993, as having breached an information privacy principle under section 66(1)(a)(i) of that Act.
+(4) A person who searches the register for personal information in breach of this section must be treated, for the purposes of Part 8 of the Privacy Act 1993, as having breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act.
 
 ### 47 Power of Registrar to delegate
 (1) The Registrar may delegate to any person, either generally or particularly, any of the Registrar’s functions, duties, and powers under this Part except the power of delegation.
@@ -559,7 +579,7 @@ The Registrar may refuse to accept a document received by the Registrar under th
 ### 48 FMA may grant accreditation
 (1) The FMA may, on an application made by a person, grant accreditation to the person for the purposes of this Act if the FMA is satisfied that the person—
   (a) will implement and maintain audit regulatory systems that are adequate and effective; and
-  (b) meets the minimum standards for the grant of accreditation prescribed under section 32(1)(e); and
+  (b) meets the minimum standards for the grant of accreditation prescribed under section 32(1)﻿(e); and
   (c) is a fit and proper person to perform regulatory functions for the purposes of this Act.
 (2) Applications under subsection (1) must be—
   (a) made in the manner that is specified by the FMA; and
@@ -661,9 +681,9 @@ An accredited body that fails to comply with a direction under section 56 commit
   (e) order the accredited body to pay to the FMA any sum that the FMA considers just and reasonable towards the costs and expenses of, and incidental to, the FMA's consideration of whether an order should be made under this section:
   (f) make an order under section 61.
 (3) However, the FMA may only cancel or suspend the accreditation of an accredited body if the FMA is satisfied on reasonable grounds that—
-  (a) the failure or failures referred to in subsection (1)(a) (as the case may be) are serious or persistent; or
-  (b) in the case of subsection (1)(b), the audit regulatory systems of the accredited body are seriously inadequate or ineffective.
-(4) The FMA may order that an order under subsection (2)(a), (b), or (c) is to take effect immediately or at some later time.
+  (a) the failure or failures referred to in subsection (1)﻿(a) (as the case may be) are serious or persistent; or
+  (b) in the case of subsection (1)﻿(b), the audit regulatory systems of the accredited body are seriously inadequate or ineffective.
+(4) The FMA may order that an order under subsection (2)﻿(a), (b), or (c) is to take effect immediately or at some later time.
 
 ### 60 Miscellaneous matters relating to orders
 An order made under section 59 must—
@@ -679,8 +699,10 @@ An order made under section 59 must—
 (4) The FMA may authorise a person whose licence is suspended or cancelled under subsection (1) to act, or continue to act, in respect of an FMC audit under section 23.
 (5) Subsection (1) is subject to subsections (2) and (4).
 (6) If A was the relevant body under subpart 2 in respect of a registered audit firm,—
-  (a) the cancellation or suspension of A's accreditation under section 59 does not result in the cancellation or suspension of the registration of the audit firm; but
-  (b) the FMA may order, on the terms and conditions that it thinks fit, that another accredited body may act as the relevant body under that subpart (and that other accredited body may be the FMA acting under section 91).
+  (a) the registration of the audit firm must be treated as cancelled if A's accreditation is cancelled under section 59; and
+  (b) the registration of the audit firm must be treated as suspended during the period in which A's accreditation is suspended (if A's accreditation is suspended under section 59); but
+  (c) the FMA may order that paragraph (a) or (b) does not apply in respect of 1 or more classes of audit firm.
+(7) If 1 or more classes of audit firm continue to be registered as the result of an order under subsection (6)﻿(c), the FMA may order, on the terms and conditions that it thinks fit, that another accredited body may act as the relevant body under subpart 2 (and that other accredited body may be the FMA acting under section 91).
 
 ### 62 FMA must give opportunity to make submissions
 The FMA must not exercise a power referred to in section 49(3), 56, or 59 unless—
@@ -695,10 +717,11 @@ The FMA must not exercise a power referred to in section 49(3), 56, or 59 unless
   (b) to include conditions under section 49 on the person's accreditation or proposed accreditation; or
   (c) to give a direction under section 56 in respect of the person's accreditation; or
   (d) to make an order under section 59 in respect of the person's accreditation; or
-  (e) to decline to make an order under section 61(2) in respect of the person's licence.
+  (e) to decline to make an order under section 61(2) or (6)﻿(c) in respect of the person's licence or registration.
 (2) An appeal must be brought—
   (a) in accordance with the rules of court; and
   (b) within 20 working days after notice of the decision is communicated to the appellant, or within any further time a High Court Judge allows on an application made before or after the period expires.
+(3) The High Court may make an order, or otherwise exercise a power, on an appeal under subsection (1)﻿(e) only in respect of 1 or more of the parties to the proceedings.
 
 ### 64 Certain provisions of New Zealand Institute of Chartered Accountants Act 1996 apply to other accredited bodies
 If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Zealand Institute of Chartered Accountants Act 1996 apply to the accredited body with any necessary modifications in relation to persons to whom it has issued a licence as if references to—
@@ -718,8 +741,8 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
     (ii) auditing and assurance standards; and
   (b) otherwise promoting reasonable care, diligence, and skill in the carrying out of FMC audits.
 (3) A quality review must be carried out at least once in every 4-year period during which,—
-  (a) in the case of subsection (1)(a), at least 1 partner, director, or employee of the audit firm holds a licence issued under section 11:
-  (b) in the case of subsection (1)(b), the person holds a licence issued under section 11.
+  (a) in the case of subsection (1)﻿(a), at least 1 partner, director, or employee of the audit firm holds a licence issued under section 11:
+  (b) in the case of subsection (1)﻿(b), the person holds a licence issued under section 11.
 (4) The audit firm or licensed auditor (as the case may be) must pay to the FMA the prescribed fees and charges in respect of a quality review at the prescribed time or times.
 
 ### 66 FMA may make arrangements for quality review to be carried out on its behalf
@@ -746,7 +769,7 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
     (iii) the quantity and quality of resources used:
     (iv) compliance with competence programmes.
 (2) A quality review must otherwise be carried out in the prescribed manner.
-(3) If an audit file has been reviewed under subsection (1)(b), the quality review may include any further inquiries in respect of the FMC audit for the purpose of determining whether the FMC audit has been carried out—
+(3) If an audit file has been reviewed under subsection (1)﻿(b), the quality review may include any further inquiries in respect of the FMC audit for the purpose of determining whether the FMC audit has been carried out—
   (a) in accordance with—
     (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of FMC audits; and
     (ii) auditing and assurance standards; and
@@ -778,7 +801,7 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
     (i) the requirements imposed by or under this Act and other enactments that relate to the conduct of FMC audits; or
     (ii) auditing and assurance standards; or
   (b) otherwise with reasonable care, diligence, and skill.
-(4) The FMA may give directions to the audit firm or the licensed auditor that require the audit firm or the licensed auditor, within the time and in the manner specified by the FMA in the directions, to take reasonable steps to mitigate or remedy the failure to carry out the FMC audit in accordance with the matters referred to in subsection (3)(a) or otherwise with reasonable care, diligence, and skill (for example, by making a public announcement relating to the auditor's report).
+(4) The FMA may give directions to the audit firm or the licensed auditor that require the audit firm or the licensed auditor, within the time and in the manner specified by the FMA in the directions, to take reasonable steps to mitigate or remedy the failure to carry out the FMC audit in accordance with the matters referred to in subsection (3)﻿(a) or otherwise with reasonable care, diligence, and skill (for example, by making a public announcement relating to the auditor's report).
 (5) However, the FMA may not require a person, under subsection (4), to pay compensation to any other person in respect of the failure.
 (6) Subsection (4) does not limit the action that the FMA may take in respect of the matter under subpart 7 (and, for that purpose, the FMA's inquiries under section 68(3) may form part of or constitute the FMA's investigation under that subpart).
 
@@ -790,7 +813,7 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
   (b) the FMA may make an order that the licence of 1 or more of those partners or directors be—
     (i) suspended for the period that the FMA thinks fit; or
     (ii) cancelled; and
-  (c) a notice may be given to the Registrar under section 29 to cancel the registration of the audit firm.
+  (c) a notice may be given to the Registrar under section 29 to cancel or suspend the registration of the audit firm.
 (2) If a licensed auditor fails to comply with a direction given to him or her under section 70,—
   (a) he or she commits an offence and is liable on conviction to a fine not exceeding $25,000; and
   (b) the FMA may make an order that his or her licence be—
@@ -841,7 +864,9 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
     (i) the accredited body has decided not to investigate the matter; or
     (ii) the matter is not being investigated promptly or otherwise in a reasonable manner by, or on behalf of, the accredited body; or
   (b) the accredited body has asked the FMA to act under this subpart in respect of the matter.
-(3) In this subpart, an investigation is an investigation into the conduct of a licensed auditor in respect of 1 or more FMC audits (whether he or she holds a licence issued under section 11 or 12).
+(3) In this subpart, an investigation is an investigation into the conduct of either or both of the following:
+  (a) a licensed auditor in respect of 1 or more FMC audits (whether he or she holds a licence issued under section 11 or 12):
+  (b) a registered audit firm in respect of 1 or more FMC audits (whether the firm's registration is authorised under section 25 or 26).
 (4) This subpart does not limit any other powers of the FMA, under any other enactment, to investigate or inquire into any matter.
 
 ### 76 Relationship between FMA's investigation and other investigations or proceedings
@@ -851,31 +876,35 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
 (2) However, the FMA may not act under this subpart in respect of the conduct of a licensed auditor if the conduct is, or has been, the subject of proceedings before a disciplinary body.
 
 ### 77 Accredited body must give reasonable assistance
-(1) An accredited body must, in respect of an investigation by the FMA involving a member of the accredited body, give all reasonable assistance to the FMA to enable the investigation to be carried out.
+(1) An accredited body must, in respect of the following kinds of investigation, give all reasonable assistance to the FMA to enable the investigation to be carried out:
+  (a) an investigation by the FMA involving a member of the accredited body:
+  (b) an investigation by the FMA involving a registered audit firm that has 1 or more partners, directors, or employees who are members of the accredited body.
 (2) An accredited body commits an offence if the accredited body—
   (a) fails to comply with subsection (1); or
   (b) otherwise hinders, obstructs, or delays the FMA in carrying out an investigation.
 (3) An accredited body that commits an offence under subsection (2) is liable on conviction to a fine not exceeding $100,000.
 
 ### 78 Disciplinary powers of FMA
-(1) The FMA may, after acting under section 75, make 1 or more of the orders specified in subsection (2) if it is satisfied on reasonable grounds that 1 or more FMC audits carried out by the licensed auditor are not being, or have not been, carried out—
+(1) The FMA may, after acting under section 75, make 1 or more of the orders specified in subsection (2) if it is satisfied on reasonable grounds that 1 or more FMC audits carried out by the licensed auditor (A) or registered audit firm (B) (or both) are not being, or have not been, carried out—
   (a) in accordance with—
     (i) the requirements imposed by or under this Act or any other enactments that relate to the conduct of FMC audits; or
     (ii) auditing and assurance standards; or
-  (b) otherwise with reasonable care, diligence, and skill.
+  (b) with reasonable care, diligence, and skill.
 (2) The orders are—
-  (a) an order that the licensed auditor's licence be cancelled:
-  (b) an order that the person whose licence is cancelled may not apply to be relicensed, whether with the same or a different accredited body, before the expiry of a specified period:
-  (c) an order that the licensed auditor's licence be suspended for the period that the FMA thinks fit:
-  (d) an order prohibiting the licensed auditor from acting in respect of a specified FMC audit, or a specified class or classes of FMC audit,—
+  (a) an order that A's licence be cancelled:
+  (b) an order that B's registration be cancelled:
+  (c) an order that the person whose licence or registration is cancelled may not apply to be relicensed or reregistered, whether with the same or a different accredited body, before the expiry of a specified period:
+  (d) an order that A's licence be suspended for the period that the FMA thinks fit:
+  (e) an order that B's registration be suspended for the period that the FMA thinks fit:
+  (f) an order prohibiting A or B (or both) from acting in respect of a specified FMC audit, or a specified class or classes of FMC audit,—
     (i) permanently; or
     (ii) for any period that the FMA thinks fit:
-  (e) an order that the licensed auditor pay to the FMA any sum that the FMA considers just and reasonable towards the costs and expenses of, and incidental to, the FMA's investigation and the proceedings.
-(3) The FMA must not exercise a power referred to in this section unless—
-  (a) the FMA gives the licensed auditor at least 10 working days' written notice of the following matters before it exercises the power:
+  (g) an order that A or B (or both) pay to the FMA any sum that the FMA considers just and reasonable towards the costs and expenses of, and incidental to, the FMA's investigation and the proceedings.
+(3) The FMA must not exercise a power referred to in this section in relation to A or B unless—
+  (a) the FMA gives A or B at least 10 working days' written notice of the following matters before it exercises the power:
     (i) that the FMA may exercise a power under this section; and
     (ii) the reasons why it is considering exercising that power; and
-  (b) the FMA gives the licensed auditor or his or her representative an opportunity to make written submissions and to be heard on the matter within that notice period.
+  (b) the FMA gives A or B or his, her, or its representative an opportunity to make written submissions and to be heard on the matter within that notice period.
 (4) The FMA may order that an order under this section is to take effect immediately or at some later time.
 
 ### 79 Miscellaneous matters relating to orders
@@ -883,15 +912,17 @@ If an accredited body is not the Institute, sections 9 to 13 and 16 of the New Z
   (a) be in writing; and
   (b) state the grounds on which it is made.
 (2) The FMA must give a copy of the order made under section 78 to—
-  (a) the licensed auditor; and
-  (b) the accredited body that issued the licence to the licensed auditor; and
+  (a) the licensed auditor or audit firm against which the order is made; and
+  (b) the accredited body that issued the licence to that licensed auditor or authorised the registration of that audit firm; and
   (c) the Registrar.
 
 ### Subpart 8 — FMA may take over and perform regulatory functions
 
 ### 80 FMA may take over and perform regulatory functions
 The FMA may take over and perform a regulatory function of an accredited body (in whole or in part), or perform a regulatory function of an accredited body (in whole or in part) in conjunction with the accredited body, if—
-  (a) the accredited body asks the FMA to act in that manner in relation to a class of its members; and
+  (a) the accredited body asks the FMA to act in that manner in relation to—
+    (i) a class of its members; or
+    (ii) a class of audit firms that the accredited body has authorised the registration of under section 25; and
   (b) the FMA is satisfied on reasonable grounds that it is necessary or desirable for the FMA to act in that manner in order to promote the recognition of the professional status of New Zealand auditors in overseas jurisdictions.
 
 ### 81 Powers of FMA when acting under this subpart
@@ -920,7 +951,16 @@ The enactments specified in the Schedule are amended in the manner indicated in 
   (a) prescribing countries, states, or territories for the purposes of the definition of overseas auditor:
   (b) prescribing changes for the purposes of sections 13 and 42:
   (c) prescribing information or documents for the purposes of section 14, 27, 43, 51, 85, 86, or 87:
-  (d) prescribing conditions or matters that conditions may relate to for the purposes of section 49(2)(c):
+  (ca) prescribing requirements for the purposes of section 25(1)﻿(b)﻿(iii) or 26(1)﻿(ab)﻿(iv), including (without limitation) requirements relating to a company's or an overseas company's—
+    (i) ownership, including requirements relating to who may be a shareholder or member and who may exercise voting rights (for example, requiring all or a majority of voting rights to be held by members of the Institute or an accredited body):
+    (ii) governance, including requirements relating to who may be a director or senior manager (for example, requiring all or a majority of directors to be members of the Institute or an accredited body):
+    (iii) legal structure:
+    (iv) systems, policies, and procedures that relate to any of the following:
+      (A) promoting compliance with the requirements imposed by or under any enactment that relates to the conduct of FMC audits:
+      (B) promoting compliance with auditing and assurance standards:
+      (C) otherwise promoting reasonable care, diligence, and skill in the carrying out of FMC audits:
+    (v) professional indemnity insurance:
+  (d) prescribing conditions or matters that conditions may relate to for the purposes of section 49(2)﻿(c):
   (e) prescribing the manner in which a quality review must be carried out (including prescribing matters that must be considered, reviewed, or tested):
   (f) prescribing powers for the purposes of subpart 8 of Part 2:
   (g) prescribing forms for the purposes of this Act, and prescribing—
@@ -939,8 +979,13 @@ The enactments specified in the Schedule are amended in the manner indicated in 
     (v) the location of, and hours of access to, the register:
     (vi) search criteria for the register:
   (l) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(1A) Any regulations made under subsection (1)﻿(ca) relating to professional indemnity insurance may, without limitation,—
+  (a) specify the terms and conditions upon which insurance is to be available, and any circumstances in which insurance cover may be excluded or modified:
+  (b) specify the minimum terms and conditions that an insurance policy must satisfy:
+  (c) specify circumstances in which a body corporate or any class of bodies corporate is exempt from the requirements:
+  (d) require a body corporate to have arrangements in place that ensure that an accredited body can ascertain whether the insurance is being maintained in accordance with the regulations.
 (2) The Registrar or the FMA may refuse to perform a function or exercise a power until a prescribed fee, charge, or cost is paid.
-(3) Regulations made under subsection (1)(i) or (j) may—
+(3) Regulations made under subsection (1)﻿(i) or (j) may—
   (a) prescribe the method of payment of a fee, charge, or cost; and
   (b) authorise the Registrar or the FMA to refund or waive, in whole or in part and on any prescribed conditions, payment of a fee, charge, or cost in relation to any person or class of persons.
 (4) Any fee, charge, cost, or other amount payable to the Registrar or the FMA by or under this Act is recoverable by the Registrar or the FMA in any court of competent jurisdiction as a debt due to the Registrar or the FMA.
@@ -950,7 +995,7 @@ The enactments specified in the Schedule are amended in the manner indicated in 
 ### 85 Certain auditors treated as holding licence
 (1) This section applies to a person who,—
   (a) immediately before the commencement of this section, is a chartered accountant who has, at any time within the 2-year period before that commencement, acted as the auditor in respect of an issuer audit; and
-  (b) satisfies the transitional requirements prescribed under section 32(1)(g) for the purposes of this section.
+  (b) satisfies the transitional requirements prescribed under section 32(1)﻿(g) for the purposes of this section.
 (2) The person must, on and after the commencement of this section, be treated as holding a licence issued by the Institute under section 11 that—
   (a) is recorded in the register; and
   (b) is subject to a condition that authorises the person to act as the auditor in respect of all kinds of FMC audits; and
@@ -963,8 +1008,8 @@ The enactments specified in the Schedule are amended in the manner indicated in 
 
 ### 86 Certain overseas auditors treated as holding licence
 (1) This section applies to a person who,—
-  (a) immediately before the commencement of this section, is a person referred to in section 199(1)(c) or (d) of the Companies Act 1993 and who has, at any time within the 2-year period before that commencement, acted as the auditor in respect of an issuer audit; and
-  (b) satisfies the transitional requirements prescribed under section 32(1)(g) for the purposes of this section.
+  (a) immediately before the commencement of this section, is a person referred to in section 199(1)﻿(c) or (d) of the Companies Act 1993 and who has, at any time within the 2-year period before that commencement, acted as the auditor in respect of an issuer audit; and
+  (b) satisfies the transitional requirements prescribed under section 32(1)﻿(g) for the purposes of this section.
 (2) The person must, on and after the commencement of this section, be treated as holding a licence issued by the FMA under section 12 that—
   (a) is recorded in the register; and
   (b) is subject to a condition that authorises the person to act as the auditor in respect of all kinds of FMC audits; and
@@ -979,7 +1024,7 @@ The enactments specified in the Schedule are amended in the manner indicated in 
 (1) This section applies to an audit firm that,—
   (a) immediately after the commencement of section 85, is a partnership that has at least 1 partner who is a licensed auditor; and
   (b) has, at any time within the 2-year period before that commencement, been appointed or engaged to act as the auditor in respect of an issuer audit; and
-  (c) satisfies the transitional requirements prescribed under section 32(1)(g) for the purposes of this section.
+  (c) satisfies the transitional requirements prescribed under section 32(1)﻿(g) for the purposes of this section.
 (2) However, this section does not apply to an overseas audit firm or a limited partnership.
 (3) On and from the commencement of this section, the audit firm must be treated as being a registered audit firm and the Institute must be treated as being the relevant body for the purposes of subpart 2 of Part 2.
 (4) However, the audit firm ceases to be treated as being a registered audit firm under this section on the earliest of—
@@ -993,7 +1038,7 @@ The enactments specified in the Schedule are amended in the manner indicated in 
 ### 88 Transitional provisions do not prevent exercise of powers
 Nothing in section 85 or 86 or 87 prevents—
   (a) the Institute or the FMA (as the case may be) from—
-    (i) varying, removing, adding, or substituting conditions of the licence or registration (including varying the condition referred to in section 85(2)(b) or 86(2)(b)); or
+    (i) varying, removing, adding, or substituting conditions of the licence or registration (including varying the condition referred to in section 85(2)﻿(b) or 86(2)﻿(b)); or
     (ii) cancelling or suspending the licence of a person or giving a notice to the Registrar to cancel the registration of an audit firm; or
     (iii) exercising any other power in relation to that licence or registration under this Act; or
   (b) the FMA from exercising any power in relation to that licence or registration under this Act.
@@ -1037,8 +1082,8 @@ Nothing in section 8 or 9 applies to the Auditor-General (and, accordingly, the 
   (c) by sending it by fax or electronic communication to the person's fax number or electronic address provided by the person for the purpose; or
   (d) in any other manner a District Court Judge directs.
 (2) In the absence of proof to the contrary, a notice, document, or notification sent to a person in accordance with—
-  (a) subsection (1)(b) must be treated as having been given or provided to the person when it would have been delivered in the ordinary course of the post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
-  (b) subsection (1)(c) must be treated as having been given or provided to the person on the second working day after the day on which it is sent.
+  (a) subsection (1)﻿(b) must be treated as having been given or provided to the person when it would have been delivered in the ordinary course of the post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
+  (b) subsection (1)﻿(c) must be treated as having been given or provided to the person on the second working day after the day on which it is sent.
 (3) If a person is absent from New Zealand, a notice, document, or notification given to the person's agent in New Zealand in accordance with subsection (1) must be treated as having been given or provided to the person.
 (4) If a person has died, the notice, document, or notification may be given, in accordance with subsection (1), to his or her personal representative.
 (5) If a notice, document, or notification is required to be given to an audit firm that is a partnership, it may be given to any of the partners; and for the purposes of this Act, giving it to any of the partners must, unless otherwise directed by the FMA, be treated as service on all of those partners.
