@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2014-12-30_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -235,7 +235,7 @@ Any person may commence a proceeding.
 (5) Without limiting subsection (4), the particulars provided under that subsection must include—
   (a) a reference to a provision of an enactment creating the offence that it is alleged that the defendant has committed; and
   (b) if the charge is a representative charge, the information specified in subsection (6).
-(6) The information referred to in subsection (5)(b) is as follows:
+(6) The information referred to in subsection (5)﻿(b) is as follows:
   (a) particulars of the offences of which the charge is representative, including, without limitation, when values, amounts, or quantities are relevant, particulars of the minimum values, amounts, or quantities that the prosecution must establish in order for the charge to be proved; and
   (b) the dates on or between which the offending is alleged to have occurred.
 (7) Subsection (1) is subject to sections 19 and 20.
@@ -302,9 +302,9 @@ A charge may allege several different matters, acts, or omissions in the alterna
 (1) If a person who is proposing to commence a private prosecution seeks to file a charging document, the Registrar may—
   (a) accept the charging document for filing; or
   (b) refer the matter to a District Court Judge for a direction that the person proposing to commence the proceeding file formal statements, and the exhibits referred to in those statements, that form the evidence that the person proposes to call at trial or such part of that evidence that the person considers is sufficient to justify a trial.
-(2) The Registrar must refer formal statements and exhibits that are filed in accordance with subsection (1)(b) to a District Court Judge, who must determine whether the charging document should be accepted for filing.
+(2) The Registrar must refer formal statements and exhibits that are filed in accordance with subsection (1)﻿(b) to a District Court Judge, who must determine whether the charging document should be accepted for filing.
 (3) A Judge may issue a direction that a charging document must not be accepted for filing if he or she considers that—
-  (a) the evidence provided by the proposed private prosecutor in accordance with subsection (1)(b) is insufficient to justify a trial; or
+  (a) the evidence provided by the proposed private prosecutor in accordance with subsection (1)﻿(b) is insufficient to justify a trial; or
   (b) the proposed prosecution is otherwise an abuse of process.
 (4) If the Judge determines under subsection (2) that the charging document should not be accepted for filing, the Registrar must—
   (a) notify the proposed private prosecutor that the charging document will not be accepted for filing; and
@@ -329,7 +329,7 @@ Nothing in this Act prevents a Registrar compiling the information in any 1 or m
 ### 29 Summons following evidential breath test
 (1) An enforcement officer (within the meaning of section 2(1) of the Land Transport Act 1998) may issue and serve a summons on a person if—
   (a) the person undergoes an evidential breath test under section 69 of the Land Transport Act 1998 and the test is positive; and
-  (b) the person does not advise an enforcement officer within 10 minutes of being advised of the matters in section 77(3)(a) of the Land Transport Act 1998 that he or she wishes to undergo a blood test.
+  (b) the person does not advise an enforcement officer within 10 minutes of being advised of the matters in section 77(3)﻿(a) of the Land Transport Act 1998 that he or she wishes to undergo a blood test.
 (2) If this section applies, section 28 does not apply.
 
 ### 30 Provisions relating to summons issued under section 28 or 29
@@ -342,7 +342,7 @@ Nothing in this Act prevents a Registrar compiling the information in any 1 or m
 
 ### 31 Charging document must be filed promptly
 (1) A charging document may be filed before or after a summons is issued or served under section 28 or 29.
-(2) Unless section 32(1)(a) applies, if a charging document has not been filed before a summons is served under section 28 or 29, it must be filed as soon as is reasonably practicable after the summons has been served.
+(2) Unless section 32(1)﻿(a) applies, if a charging document has not been filed before a summons is served under section 28 or 29, it must be filed as soon as is reasonably practicable after the summons has been served.
 (3) A constable or other person who issues a summons must ensure that the charging document required by subsection (2) is filed.
 
 ### 32 Decision to change charge following summons
@@ -350,7 +350,7 @@ Nothing in this Act prevents a Registrar compiling the information in any 1 or m
   (a) a charging document in respect of the summons will not be filed; or
   (b) a charging document in respect of the summons will be filed but will contain a charge that is different from that for which the person was summoned.
 (2) The person who issued the summons must, as soon as is reasonably practicable after a decision in subsection (1) has been made, take all reasonable steps to notify the person summoned of the decision before the date on which the defendant is required by the summons to appear.
-(3) If subsection (1)(a) applies, the person does not need to appear in court on the date specified in the summons.
+(3) If subsection (1)﻿(a) applies, the person does not need to appear in court on the date specified in the summons.
 
 ### 33 Summons to defendant in private prosecution
 If the Registrar accepts a charging document for filing under section 26 or the Judge determines that the charging document should be accepted for filing under section 26, the Judge or the Registrar must issue a summons to the defendant.
@@ -491,7 +491,7 @@ A judicial officer or Registrar may receive an election under section 50 to be t
 (2) A court may grant leave to a defendant to withdraw the defendant's election to be tried by a jury, but only if—
   (a) the court is satisfied that there has been a change in circumstances that might reasonably affect the defendant's decision to elect a trial by jury; or
   (b) the court is satisfied that the withdrawal of the defendant's election is unlikely to cause a delay in the defendant's trial being concluded; or
-  (c) in the case of a defendant who is to be tried by a jury under section 139(2)(a), the defendant's co-defendant is, or co-defendants are, no longer to be tried by a jury.
+  (c) in the case of a defendant who is to be tried by a jury under section 139(2)﻿(a), the defendant's co-defendant is, or co-defendants are, no longer to be tried by a jury.
 (3) The court must not grant leave under subsection (2) after the jury trial has commenced.
 
 ### Subpart 3 — Case management
@@ -504,7 +504,7 @@ A judicial officer or Registrar may receive an election under section 50 to be t
 (1) If the defendant is represented by a lawyer, before the date to which the proceeding is adjourned for case review the prosecutor and defendant must—
   (a) engage in case management discussions to ascertain whether the proceeding will proceed to trial and, if so, make any arrangements necessary for its fair and expeditious resolution; and
   (b) jointly complete a memorandum containing the information specified in section 56 (the case management memorandum).
-(2) If, in accordance with section 138(1)(a), 2 or more charges are to be heard together, a single case management memorandum may be filed in respect of all the charges to be heard together.
+(2) If, in accordance with section 138(1)﻿(a), 2 or more charges are to be heard together, a single case management memorandum may be filed in respect of all the charges to be heard together.
 (3) The case management memorandum must be filed by the defendant by the time prescribed in rules of court.
 
 ### 56 Information to be provided in case management memorandum
@@ -528,7 +528,7 @@ A judicial officer or Registrar may receive an election under section 50 to be t
   (e) any other information required by rules of court.
 
 ### 57 Case review
-(1) At the case review hearing, the court must deal with any matter in section 56(1)(a) to (e) that has been identified in the case management memorandum.
+(1) At the case review hearing, the court must deal with any matter in section 56(1)﻿(a) to (e) that has been identified in the case management memorandum.
 (2) If the defendant is unrepresented, the parties must, as appropriate,—
   (a) inform the court of the matters specified in section 56(1); and
   (b) if the matter is to proceed to a Judge-alone trial, inform the court of the matters referred to in section 56(2).
@@ -544,7 +544,7 @@ A judicial officer or Registrar may receive an election under section 50 to be t
     (iii) the prosecutor does not propose to add any new charge or charges against the defendant; and
     (iv) the defendant does not request a sentence indication; and
     (v) no party has given notice that it intends to make any other pre-trial application; and
-    (vi) no other matter is identified of a kind described in section 56(1)(e).
+    (vi) no other matter is identified of a kind described in section 56(1)﻿(e).
 
 ### 58 Court may give directions about case management procedure
 (1) If the court considers that it will facilitate resolution of the proceeding, or it is otherwise in the interests of justice, the court may—
@@ -610,17 +610,17 @@ The fact that a defendant made a request for a sentence indication is not admiss
 (4) The Chief High Court Judge and the Chief District Court Judge must publish in the Gazette the protocol and the revisions of the protocol.
 
 ### 67 District Court Judge may recommend level of trial court for protocol offence
-(1) If the prosecutor identifies the offence charged as a protocol offence, under section 56(1)(f) or otherwise, a District Court Judge may—
+(1) If the prosecutor identifies the offence charged as a protocol offence, under section 56(1)﻿(f) or otherwise, a District Court Judge may—
   (a) decline to make a recommendation for the purposes of section 68, if he or she considers that the offence is not a protocol offence; or
   (b) if the Judge considers that the offence is a protocol offence,—
     (i) consider whether the trial should be held in the District Court or the High Court; and
     (ii) make a recommendation for the purposes of section 68.
-(2) The District Court Judge must make a recommendation under subsection (1)(b) if—
+(2) The District Court Judge must make a recommendation under subsection (1)﻿(b) if—
   (a) the prosecutor or the defendant seeks to have the trial held in the High Court; or
   (b) the Judge considers that not all of the proceedings that are awaiting trial in the District Court at the place at which the trial would be held are able to be heard within a reasonable timeframe.
 (3) For the purposes of subsection (1), the prosecutor and the defendant may make written submissions to the Judge, but no party is entitled to be heard.
 (4) Before making a recommendation under subsection (1), the Judge must—
-  (a) consider any submissions from the prosecutor and the defendant, including anything submitted to the court under section 56(1)(f)(i) or otherwise provided to the court under section 57(2)(a); and
+  (a) consider any submissions from the prosecutor and the defendant, including anything submitted to the court under section 56(1)﻿(f)﻿(i) or otherwise provided to the court under section 57(2)﻿(a); and
   (b) consider the following matters:
     (i) the nature and seriousness of the offence charged; and
     (ii) the complexity of the factual and legal issues likely to arise in the proceeding; and
@@ -635,7 +635,7 @@ The fact that a defendant made a request for a sentence indication is not admiss
 (2) Before making an order under subsection (1), the High Court Judge must consider—
   (a) any recommendation of the District Court Judge; and
   (b) any submissions made by the prosecutor and the defendant to the District Court Judge; and
-  (c) the matters listed in section 67(4)(b).
+  (c) the matters listed in section 67(4)﻿(b).
 (3) No party may appeal against an order under subsection (1).
 
 ### 69 Proceedings not invalid
@@ -651,7 +651,7 @@ No proceeding that relates to a protocol offence is invalid only because it fail
 (5) Before making an order under subsection (4) the Judge must consider—
   (a) any information provided by the District Court about its capacity to hold the trial; and
   (b) any submissions from the prosecutor and the defendant; and
-  (c) the matters listed in section 67(4)(b).
+  (c) the matters listed in section 67(4)﻿(b).
 (6) No party may appeal against an order under subsection (4).
 
 ### Subpart 6 — Trial court, place of trial, transfer of proceedings to trial court, and procedure for trial
@@ -719,10 +719,10 @@ If, as a result of any decision referred to in section 134(6), 135, or 140, the 
   (b) a notice informing the defendant of the date and time at which the defendant must report to the High Court in which the defendant will be tried.
 (2) If the defendant has been remanded in custody, the High Court Registrar must if necessary, issue a new warrant for the detention of the defendant that accords with the date and time on which, and place to which, the defendant must report.
 (3) If the defendant has been released on bail,—
-  (a) the conditions of the defendant's bail are deemed to be varied in accordance with the notice under subsection (1)(b), and no new notice of bail is required; and
+  (a) the conditions of the defendant's bail are deemed to be varied in accordance with the notice under subsection (1)﻿(b), and no new notice of bail is required; and
   (b) the High Court Registrar must give, or cause to be given, to each surety of the defendant—
     (i) a copy of the order; and
-    (ii) a copy of the notice under subsection (1)(b); and
+    (ii) a copy of the notice under subsection (1)﻿(b); and
   (c) the terms of each surety bond in relation to which paragraph (b) is complied with are deemed to be varied in accordance with the notice.
 (4) The High Court Registrar must ensure that any witness summoned to attend the proceeding is given notice of the date and time at which and the place at which the defendant will be tried.
 (5) The notice given under subsection (4) has the same effect as if it were a summons to attend the court to which the proceeding is transferred.
@@ -742,7 +742,7 @@ If, as a result of any decision referred to in section 134(6), 135, or 140, the 
   (b) the complainant or witness is particularly vulnerable and resolving the admissibility issue is in the interests of justice; or
   (c) the trial is to be in a District Court and the evidence has been obtained under an order made, or warrant issued, by the High Court.
 (5) The court may grant a pre-trial admissibility hearing on any terms and subject to any conditions that the court thinks fit, and may make any order permitted under section 80.
-(6) If a pre-trial admissibility hearing is granted on the ground in subsection (4)(c), that pre-trial hearing must be in the High Court.
+(6) If a pre-trial admissibility hearing is granted on the ground in subsection (4)﻿(c), that pre-trial hearing must be in the High Court.
 
 ### 79 Pre-trial admissibility hearing and order that evidence admissible
 (1) The court at a pre-trial admissibility hearing must give each party an opportunity to be heard.
@@ -775,7 +775,7 @@ This subpart applies to a proceeding—
   (b) the statement contains, or is accompanied by, a declaration by the witness that the statement is true and that the witness made it with the knowledge that it is to be used in court proceedings; and
   (c) the statement complies with subsections (2) and (3) if applicable.
 (2) If a formal statement under subsection (1) is made by a person aged under 18 years, the statement must specify the age of that person.
-(3) If a formal statement under subsection (1) or a declaration required by subsection (1)(b) is made in written form by a person who cannot read it,—
+(3) If a formal statement under subsection (1) or a declaration required by subsection (1)﻿(b) is made in written form by a person who cannot read it,—
   (a) the statement or declaration must be read to that person before the person authenticates it; and
   (b) the reader must attach to the statement or declaration an authenticated statement by that reader to the effect that the statement or declaration was read to the person and that the person to whom it was read appeared to understand its contents.
 (4) When filing a formal statement, the prosecutor may file, in addition to the statement itself, a summary of the parts of it that the prosecutor intends to rely on as evidence at the trial.
@@ -841,7 +841,7 @@ At the trial callover hearing an unrepresented defendant must, if the matter is 
 (3) The requirement under subsection (1) to apply to the court is subject to section 91(b).
 
 ### 91 Application for leave to question undercover Police officer's identity must be dealt with by High Court
-If the defendant wishes to apply, under section 109(1)(d) of the Evidence Act 2006, for leave to put any questions relating to the identity of a witness called by the prosecutor who is an undercover Police officer,—
+If the defendant wishes to apply, under section 109(1)﻿(d) of the Evidence Act 2006, for leave to put any questions relating to the identity of a witness called by the prosecutor who is an undercover Police officer,—
   (a) that application must be made at the same time as the application is made for an oral evidence order allowing the oral examination of the person to whom those questions are proposed to be put; and
   (b) both applications must be determined by a High Court Judge.
 
@@ -875,7 +875,7 @@ If the defendant wishes to apply, under section 109(1)(d) of the Evidence Act 20
 ### 94 Withdrawal of charge if oral evidence order made for examination of undercover Police officer
 (1) Despite section 146, the prosecutor may withdraw a charge without the leave of the court if—
   (a) an oral evidence order is made under section 92 allowing the oral examination of a prosecution witness; and
-  (b) leave is granted to the defendant, on an application under section 109(1)(d) of the Evidence Act 2006, to put any question to that witness relating to the identity of that witness or of another prosecution witness.
+  (b) leave is granted to the defendant, on an application under section 109(1)﻿(d) of the Evidence Act 2006, to put any question to that witness relating to the identity of that witness or of another prosecution witness.
 (2) The withdrawal of a charge is not a bar to any other proceedings in the same matter.
 
 **Procedure for taking oral evidence**
@@ -909,7 +909,7 @@ Despite section 95(1), the oral evidence of a complainant may be taken only by a
   (i) any person expressly permitted by the Judge to be present.
 (2) Before the complainant starts to give evidence, the Judge must—
   (a) ensure that no person other than those referred to in subsection (1) is present; and
-  (b) advise the complainant of the complainant's right to request the presence of any person under subsection (1)(h).
+  (b) advise the complainant of the complainant's right to request the presence of any person under subsection (1)﻿(h).
 
 ### 98 Application of sections 103 to 105 of Evidence Act 2006
 If an oral evidence order is made, sections 103 to 105 of the Evidence Act 2006 apply with any necessary modifications to the taking of the oral evidence.
@@ -925,7 +925,7 @@ If an oral evidence order is made, sections 103 to 105 of the Evidence Act 2006 
 (1) If a person fails to appear to give oral evidence, the court may—
   (a) direct that the oral evidence of that person be taken at a time or place directed by the court; or
   (b) direct that the proceeding continue to trial without the taking of the oral evidence of that person.
-(2) If subsection (1)(a) applies, sections 159 to 164 apply as if the requirement for the person to appear to give oral evidence were a requirement to appear at a hearing.
+(2) If subsection (1)﻿(a) applies, sections 159 to 164 apply as if the requirement for the person to appear to give oral evidence were a requirement to appear at a hearing.
 
 **Pre-trial orders as to admissibility of evidence: jury trial procedure**
 
@@ -953,7 +953,7 @@ If an oral evidence order is made, sections 103 to 105 of the Evidence Act 2006 
 (4) The court must not make an order under subsection (2) unless the prosecutor and the defendant have been given an opportunity to be heard in relation to the application and, following such hearing, the court is satisfied—
   (a) that all reasonable procedural orders (if any), and all other reasonable arrangements (if any), to facilitate the shortening of the trial have been made, but the duration of the trial still seems likely to exceed 20 sitting days; and
   (b) that, in the circumstances of the case, the defendant's right to trial by jury is outweighed by the likelihood that potential jurors will not be able to perform their duties effectively.
-(5) For the purposes of subsection (4)(b) the court must consider the following matters:
+(5) For the purposes of subsection (4)﻿(b) the court must consider the following matters:
   (a) the number and nature of the offences with which the defendant is charged:
   (b) the nature of the issues likely to be involved:
   (c) the volume of evidence likely to be presented:
@@ -1054,7 +1054,7 @@ On a charge of murder, the jury—
 **Dismissal of charge in certain cases**
 
 ### 112 Court must dismiss charge in certain cases
-(1) Where, on an application under section 109(1)(d) of the Evidence Act 2006, leave is granted to the defendant to put any question relating to the identity of a witness called by the prosecutor, the prosecutor may inform the court that the prosecution does not intend to proceed with the charge.
+(1) Where, on an application under section 109(1)﻿(d) of the Evidence Act 2006, leave is granted to the defendant to put any question relating to the identity of a witness called by the prosecutor, the prosecutor may inform the court that the prosecution does not intend to proceed with the charge.
 (2) In a case described in subsection (1), the court must dismiss the charge under section 147.
 
 **Witnesses**
@@ -1120,7 +1120,7 @@ On a charge of murder, the jury—
     (iv) whether 2 or more charges are to be tried together, or whether the charges against 1 defendant are to be tried with charges against 1 or more other defendants:
     (v) an application to take oral evidence under section 90:
     (vi) a matter concerning the admissibility of evidence under sections 78 and 79 or section 101; or
-  (d) the defendant has pleaded guilty by filing a notice in court under section 38 and the hearing is not one that the defendant has indicated under section 38(2)(a) that he or she wishes to attend.
+  (d) the defendant has pleaded guilty by filing a notice in court under section 38 and the hearing is not one that the defendant has indicated under section 38(2)﻿(a) that he or she wishes to attend.
 
 **Powers of court when defendant does not appear**
 
@@ -1194,7 +1194,7 @@ On a charge of murder, the jury—
 (4) If a person is sentenced in his or her absence for a category 1 offence at a hearing at which the defendant was required by section 118 to be present, the court may direct that a notice be served on the defendant advising the defendant that—
   (a) he or she has been sentenced in his or her absence; and
   (b) if he or she wishes to apply for a rehearing under section 126, the application must be filed no later than 15 working days after the date of service of the notice.
-(5) A formal statement admitted as evidence under subsection (2)(c) is to be treated as evidence on oath given in a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
+(5) A formal statement admitted as evidence under subsection (2)﻿(c) is to be treated as evidence on oath given in a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 
 **Retrial or rehearing if defendant found guilty or sentenced in his or her absence**
 
@@ -1203,10 +1203,10 @@ On a charge of murder, the jury—
 (2) The application—
   (a) must be filed in the court in which the defendant's trial was held; and
   (b) must be filed no later than 15 working days after the date on which—
-    (i) a notice is served on the defendant under section 124(3)(a); or
-    (ii) the defendant appears in court pursuant to a warrant issued under section 124(3)(b); and
+    (i) a notice is served on the defendant under section 124(3)﻿(a); or
+    (ii) the defendant appears in court pursuant to a warrant issued under section 124(3)﻿(b); and
   (c) must be determined by the judicial officer who presided over the trial or, if that is impracticable, any Judge.
-(3) If the application is on the ground described in subsection (7)(b), it must be supported by—
+(3) If the application is on the ground described in subsection (7)﻿(b), it must be supported by—
   (a) an outline of the defence on which the defendant intends to rely if a retrial is granted; and
   (b) a formal statement from each witness who the defendant intends to call.
 (4) The Registrar of the court must cause a copy of the application to be served on the prosecutor.
@@ -1218,7 +1218,7 @@ On a charge of murder, the jury—
     (ii) it is in the interests of justice; or
   (b) regardless of whether the defendant had a reasonable excuse for non-attendance, the court is satisfied that the defendant had a defence that would have had a reasonable prospect of success if he or she had attended the trial.
 (8) Despite subsection (7), the court must order a retrial if satisfied that the defendant was not notified of the trial.
-(9) A formal statement provided to the court in accordance with subsection (3)(b) is to be treated as evidence on oath given in a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
+(9) A formal statement provided to the court in accordance with subsection (3)﻿(b) is to be treated as evidence on oath given in a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 
 ### 126 Rehearing if defendant sentenced for category 1 offence in his or her absence
 (1) A defendant who is sentenced for a category 1 offence, following a sentencing hearing at which the defendant was required by section 118 to be present but that proceeded in his or her absence, may apply to a court for a rehearing in relation to the sentence or order imposed on the defendant.
@@ -1235,7 +1235,7 @@ On a charge of murder, the jury—
 (7) Despite subsection (6), the court must order a rehearing in relation to the sentence or order imposed on the defendant if the court is satisfied that the defendant was not notified of the hearing.
 
 ### 127 Registrar may deal with applications in relation to category 1 offences
-Despite section 125(2)(c) or 126(2)(c), a Registrar may exercise the power under section 125 in relation to a category 1 offence or the power under section 126 if—
+Despite section 125(2)﻿(c) or 126(2)﻿(c), a Registrar may exercise the power under section 125 in relation to a category 1 offence or the power under section 126 if—
   (a) the prosecutor does not object; and
   (b) the application for the retrial or rehearing is made on the grounds that the defendant was not notified of the trial or hearing.
 
@@ -1284,7 +1284,7 @@ If a retrial or rehearing is ordered under section 125 or 126,—
 (3) If the defendant entered a plea to the charge before it was amended,—
   (a) the court may ask the defendant to plead to the charge as amended, and subpart 1 of Part 3 applies with all necessary modifications; and
   (b) subpart 3 of Part 3 does not apply in respect of the charge as amended unless the court directs otherwise.
-(4) The court may, under subsection (3)(b),—
+(4) The court may, under subsection (3)﻿(b),—
   (a) direct that all or any of the requirements of sections 54 to 57 apply; or
   (b) give any other directions in relation to the management of the case.
 (5) If the charge is amended to substitute one offence for another and the substituted offence is a category 3 offence, the defendant may make an election under section 50.
@@ -1331,7 +1331,7 @@ If a retrial or rehearing is ordered under section 125 or 126,—
     (ii) the charges against 1 defendant be heard with charges against 1 or more other defendants:
   (b) amend a notification given under paragraph (a).
 (2) Despite subsection (1), if the prosecutor seeks to give or amend a notification involving a charge in respect of which the proceeding has been adjourned after the entry of a not guilty plea, the prosecutor must seek the leave of the court.
-(3) Charges must be heard together in accordance with any notification given under subsection (1)(a) or amended under subsection (1)(b) unless the court—
+(3) Charges must be heard together in accordance with any notification given under subsection (1)﻿(a) or amended under subsection (1)﻿(b) unless the court—
   (a) does not grant leave where the prosecutor seeks leave under subsection (2); or
   (b) makes an order under subsection (4).
 (4) If the court before which the proceeding is being conducted thinks it is in the interests of justice to do so, it may, on its own motion or on the application of a defendant, order that 1 or more charges against the defendant be heard separately.
@@ -1501,7 +1501,7 @@ Where the commission of the offence charged is not proved, but the evidence esta
   (d) the interests of any victim of the specified serious offence alleged to have been committed:
   (e) whether the retrial for which leave is sought can be conducted fairly.
 (3) The Court of Appeal may, if it thinks it just to do so, exclude from its consideration any evidence against the acquitted person that has been obtained in contravention of section 153.
-(4) The Solicitor-General may apply under this section only if satisfied of the matters stated in subsection (1)(a) and (b).
+(4) The Solicitor-General may apply under this section only if satisfied of the matters stated in subsection (1)﻿(a) and (b).
 (5) If the Solicitor-General makes an application under this section,—
   (a) the Solicitor-General must take all reasonable steps to serve a copy of the application on the acquitted person, and must file in the Court of Appeal notice that the copy has been served or that a copy has not been served but all reasonable steps to do so have been taken:
   (b) the acquitted person is entitled to be heard at the hearing of the application, which must be held not less than 10 working days after notice is filed in the office of the Court of Appeal under paragraph (a):
@@ -1604,7 +1604,7 @@ An order for a retrial under section 151 or 154 may be granted subject to—
   (b) must, if he or she so requests, be brought before a District Court Judge for the purpose of making an application for bail, and the Judge may grant or refuse to grant bail on that application.
 (3) If a person is granted bail under subsection (1) or (2), sections 28, 29(3), and 30 to 39 of the Bail Act 2000, as far as they are applicable and with any necessary modifications, apply as if—
   (a) that person were a defendant remanded in custody who had been granted bail; and
-  (b) for the words evading justice in section 35(1)(a) of the Bail Act 2000 there were substituted the words avoiding giving evidence.
+  (b) for the words evading justice in section 35(1)﻿(a) of the Bail Act 2000 there were substituted the words avoiding giving evidence.
 
 **Dealing with witnesses at the court**
 
@@ -1617,7 +1617,7 @@ An order for a retrial under section 151 or 154 may be granted subject to—
 (3) If this subsection applies, the court may—
   (a) order that, unless he or she consents to give evidence or to be sworn or to answer the questions put to him or her, as the case may be, he or she be detained in custody for any period not exceeding 7 days; and
   (b) issue a warrant for his or her arrest and detention in accordance with the order.
-(4) If the person is under the age of 20 years, the warrant issued under subsection (3)(b) may direct that the person be detained in the custody of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989.
+(4) If the person is under the age of 20 years, the warrant issued under subsection (3)﻿(b) may direct that the person be detained in the custody of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989.
 (5) Subsection (6) applies if a person detained under subsection (3), on being brought up at the adjourned hearing, again refuses to give evidence or to be sworn or, having been sworn, to answer the questions put to him or her.
 (6) If this subsection applies, the court, if it thinks fit, may again direct the witness to be detained in custody for the period referred to in subsection (3), until he or she consents to give evidence or to be sworn or to answer as described in subsection (2).
 (7) The power in subsection (6) may be exercised more than once.
@@ -1638,13 +1638,13 @@ The court may if it thinks fit, on its own motion or at the request of any party
   (a) allow the defendant to go at large; or
   (b) grant the defendant bail under the Bail Act 2000; or
   (c) if the defendant is liable on conviction to a sentence of imprisonment or if the defendant has been arrested, remand the defendant in custody.
-(2) A Registrar may exercise the power conferred by subsection (1)(c) to remand a defendant in custody if—
+(2) A Registrar may exercise the power conferred by subsection (1)﻿(c) to remand a defendant in custody if—
   (a) both the defendant and the prosecutor agree to the remand; and
   (b) the defendant—
     (i) is legally represented or has indicated that he or she has received legal advice; or
     (ii) has declined an opportunity to obtain legal advice.
-(3) If a Registrar remands a person in custody under subsection (1)(c) the defendant must be brought before a judicial officer at the earliest opportunity if, at any time during the period of remand, the defendant withdraws his or her agreement under subsection (2)(a) and the judicial officer must declare what action (if any) should be taken under subsection (1) in respect of the defendant.
-(4) If a defendant is remanded in custody under subsection (1)(c), the judicial officer or Registrar must issue a warrant for the detention of the defendant in a prison—
+(3) If a Registrar remands a person in custody under subsection (1)﻿(c) the defendant must be brought before a judicial officer at the earliest opportunity if, at any time during the period of remand, the defendant withdraws his or her agreement under subsection (2)﻿(a) and the judicial officer must declare what action (if any) should be taken under subsection (1) in respect of the defendant.
+(4) If a defendant is remanded in custody under subsection (1)﻿(c), the judicial officer or Registrar must issue a warrant for the detention of the defendant in a prison—
   (a) for the period of the adjournment; or
   (b) pending and during the defendant's trial; or
   (c) pending the defendant being brought up for sentence and during his or her sentencing.
@@ -1693,8 +1693,8 @@ A defendant who has been remanded in custody on any charge may be brought before
 ### 174 Remand of defendant under 17 years for assessment report
 (1) Any court may remand a defendant who is under 17 years in the custody of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989 for the purposes of an assessment report under section 38 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 if—
   (a) the court is satisfied that the chief executive is able and willing to keep the defendant in custody for the purpose of the assessment report for any period, not exceeding 14 days, that the court thinks fit; and
-  (b) the court would (in the absence of section 171 or 172) have remanded the defendant to a prison in accordance with section 38(2)(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 for the purposes of the assessment report.
-(2) If, in any case to which section 38(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 applies, the defendant is under the age of 17 years, the provisions of section 38(2)(c) to (4) and sections 40 to 44 of that Act must be read as if—
+  (b) the court would (in the absence of section 171 or 172) have remanded the defendant to a prison in accordance with section 38(2)﻿(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 for the purposes of the assessment report.
+(2) If, in any case to which section 38(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 applies, the defendant is under the age of 17 years, the provisions of section 38(2)﻿(c) to (4) and sections 40 to 44 of that Act must be read as if—
   (a) any reference to remand to a prison were a reference to remand to the custody of the chief executive; and
   (b) any reference to the manager of a prison were a reference to the chief executive; and
   (c) any reference to penal custody were a reference to the custody of the chief executive.
@@ -1728,7 +1728,7 @@ A defendant who has been remanded in custody on any charge may be brought before
   (b) an order is made under section 106(3) of the Sentencing Act 2002 in relation to a defendant who pleads guilty or is found guilty of—
     (i) a category 1 or 2 offence; or
     (ii) a category 3 offence punishable by a term of imprisonment not exceeding 3 years, if the defendant did not elect a jury trial; or
-  (c) an order is made under section 375(1)(b) in relation to an infringement offence.
+  (c) an order is made under section 375(1)﻿(b) in relation to an infringement offence.
 (2) A court may order—
   (a) a retrial of the charge; or
   (b) a rehearing in relation to the sentence or order imposed on the defendant.
@@ -1895,7 +1895,7 @@ For the purposes of this subpart, publication means publication in the context o
 (4) The power conferred by this section is in substitution for any power to clear the court that a court may have had under any inherent jurisdiction or any rule of law.
 
 ### 198 Exception for members of media
-(1) An order under section 197 may not exclude members of the media except on the ground set out in section 197(2)(a)(ii) (which relates to the security or defence of New Zealand).
+(1) An order under section 197 may not exclude members of the media except on the ground set out in section 197(2)﻿(a)﻿(ii) (which relates to the security or defence of New Zealand).
 (2) For the purposes of this section, member of the media means—
   (a) a person who is in the court for the purpose of reporting on the proceedings and who is either subject to or employed by an organisation that is subject to—
     (i) a code of ethics; and
@@ -1915,7 +1915,7 @@ For the purposes of this subpart, publication means publication in the context o
   (i) any person expressly permitted by the Judge to be present.
 (2) Before the complainant starts to give evidence, the Judge must—
   (a) ensure that no person other than those referred to in subsection (1) is present in the courtroom; and
-  (b) advise the complainant of the complainant's right to request the presence of any person under subsection (1)(h).
+  (b) advise the complainant of the complainant's right to request the presence of any person under subsection (1)﻿(h).
 (3) For the purposes of this section, case of a sexual nature means proceedings in which a person is charged with, or is to be sentenced for, any of the following offences:
   (a) any offence against sections 128 to 142A of the Crimes Act 1961:
   (b) any offence against section 144A of the Crimes Act 1961:
@@ -1936,7 +1936,7 @@ For the purposes of this subpart, publication means publication in the context o
   (f) lead to the identification of another person whose name is suppressed by order or by law; or
   (g) prejudice the maintenance of the law, including the prevention, investigation, and detection of offences; or
   (h) prejudice the security or defence of New Zealand.
-(3) The fact that a defendant is well known does not, of itself, mean that publication of his or her name will result in extreme hardship for the purposes of subsection (2)(a).
+(3) The fact that a defendant is well known does not, of itself, mean that publication of his or her name will result in extreme hardship for the purposes of subsection (2)﻿(a).
 (4) Despite subsection (2), when a person who is charged with an offence first appears before the court the court may make an interim order under subsection (1) if that person advances an arguable case that one of the grounds in subsection (2) applies.
 (5) An interim order made in accordance with subsection (4) expires at the person's next court appearance, and may only be renewed if the court is satisfied that one of the grounds in subsection (2) applies.
 (6) When determining whether to make an order or further order under subsection (1) that is to have effect permanently, a court must take into account any views of a victim of the offence conveyed in accordance with section 28 of the Victims' Rights Act 2002.
@@ -1976,13 +1976,13 @@ For the purposes of this subpart, publication means publication in the context o
 (3) No person may publish the name, address, or occupation of the complainant, unless—
   (a) the complainant is aged 18 years or older; and
   (b) the court, by order, permits such publication.
-(4) The court must make an order referred to in subsection (3)(b) if—
+(4) The court must make an order referred to in subsection (3)﻿(b) if—
   (a) the complainant—
     (i) is aged 18 years or older (whether or not he or she was aged 18 years or older when the offence was, or is alleged to have been, committed); and
     (ii) applies to the court for such an order; and
   (b) the court is satisfied that the complainant understands the nature and effect of his or her decision to apply to the court for the order; and
   (c) in any case where publication of the identity of the complainant may lead to the identification of the person who is charged with or convicted of the offence, no order or further order has been made under section 200 prohibiting publication of the identity of that person.
-(5) An order made under subsection (3)(b) ceases to have effect if—
+(5) An order made under subsection (3)﻿(b) ceases to have effect if—
   (a) publication of the identity of the complainant may lead to the identification of the person who is charged with or convicted of the offence; and
   (b) that person applies to a court for an order or further order under section 200 prohibiting publication of his or her identity; and
   (c) the court makes the order or further order under section 200.
@@ -2022,7 +2022,7 @@ For the purposes of this subpart, publication means publication in the context o
   (b) both parties agree to the making of the order.
 (2) If a Registrar makes an interim order, that order may have effect for a limited period of up to 28 days from the date on which the order is made.
 (3) No Registrar may exercise the power under subsection (1) more than once in relation to any particular charge.
-(4) A Registrar may exercise the power conferred by section 208(1)(b) to renew an order made by the court until the date on which the defendant next appears before the court.
+(4) A Registrar may exercise the power conferred by section 208(1)﻿(b) to renew an order made by the court until the date on which the defendant next appears before the court.
 
 **General provisions relating to suppression orders**
 
@@ -2102,7 +2102,7 @@ The duty of an appeal court to determine an appeal under subparts 2 to 10 is sub
 (2) The defendant or the prosecutor may, with the leave of the first appeal court, appeal to that court against a decision that is one of the following:
   (a) making or refusing to make an order under section 79 (as to admissibility of evidence):
   (b) granting or refusing to grant permission under section 44 of the Evidence Act 2006 (which relates to the cross-examination of a complainant):
-  (c) giving or refusing to give leave on an application under section 109(1)(d) of the Evidence Act 2006 (which relates to the identity of a witness):
+  (c) giving or refusing to give leave on an application under section 109(1)﻿(d) of the Evidence Act 2006 (which relates to the identity of a witness):
   (d) making or refusing to make a witness anonymity order under section 112 of the Evidence Act 2006.
 
 ### 216 Refusal to give leave to appeal under section 215
@@ -2124,7 +2124,7 @@ The duty of an appeal court to determine an appeal under subparts 2 to 10 is sub
   (g) making or refusing to make an order under section 151 (for a person to be retried on ground that acquittal tainted):
   (h) refusing to make an order under section 157 (to transfer proceeding to a court at another place):
   (i) granting or refusing to grant permission under section 44 of the Evidence Act 2006 (relating to the cross-examination of a complainant):
-  (j) giving or refusing to give leave on an application under section 109(1)(d) of the Evidence Act 2006 (relating to the identity of a witness):
+  (j) giving or refusing to give leave on an application under section 109(1)﻿(d) of the Evidence Act 2006 (relating to the identity of a witness):
   (k) making or refusing to make a witness anonymity order under section 112 of the Evidence Act 2006.
 
 ### 218 Right of appeal by defendant only against pre-trial decisions in jury trial case
@@ -2362,7 +2362,7 @@ The first appeal court for an appeal under this subpart is—
   (a) set aside the sentence and impose another sentence (whether more or less severe) that it considers appropriate; or
   (b) vary the sentence, vary any part of the sentence, or vary any condition of the sentence; or
   (c) remit the sentence to the court that imposed it and direct that court to take any action of a kind described in paragraph (a) or (b) as specified by the first appeal court.
-(3) In remitting a sentence under subsection (2)(c), the first appeal court may give the sentencing court any further directions it considers appropriate about the manner in which the specified action is to be taken by the sentencing court.
+(3) In remitting a sentence under subsection (2)﻿(c), the first appeal court may give the sentencing court any further directions it considers appropriate about the manner in which the specified action is to be taken by the sentencing court.
 
 ### 252 Defendant may not withdraw guilty plea after sentence imposed on appeal
 Except with the leave of the appeal court if that court considers it is in the interests of justice, a defendant who has received a sentence indication is not entitled to withdraw his or her guilty plea if a more severe sentence than that indicated is imposed on appeal.
@@ -2838,7 +2838,7 @@ The Solicitor-General may, with the leave of the Supreme Court, refer a question
     (i) an offence that arises from the same incident or series of incidents as the offence to which the prosecutor’s appeal to the Court of Appeal relates; or
     (ii) an offence for which the convicted person was sentenced on the same occasion as that on which the sentencing court imposed the sentence to which the prosecutor’s appeal to the Court of Appeal relates:
   (d) in relation to a first appeal by the convicted person to the Court of Appeal against conviction or sentence or a first appeal by the prosecutor to the Court of Appeal against sentence, means a right of appeal to the High Court against a suppression decision made on conviction for the offence to which the convicted person’s appeal to the Court of Appeal relates.
-(2) In subsection (1)(d), suppression decision means a decision—
+(2) In subsection (1)﻿(d), suppression decision means a decision—
   (a) to make or refuse to make a suppression order within the meaning of section 282; or
   (b) to renew, vary, or revoke a suppression order under section 208.
 
@@ -2981,7 +2981,7 @@ An appeal under this Part to a District Court or the High Court must be dealt wi
   (d) order that a question arising on the appeal be referred to a special commissioner appointed by the court if the court thinks the question involves prolonged examination of documents or accounts, or any scientific or local investigation, and cannot conveniently be conducted before the court, and act on the report of the commissioner so far as the court thinks fit to adopt it:
   (e) order the production of any document, exhibit, or other thing connected with the proceeding if the court considers that its production is necessary:
   (f) appoint any person with special expert knowledge to act as assessor to the court if the court thinks that special knowledge is required for the proper determination of the case.
-(3) Subsection (2)(a) to (d) and (f) do not apply if an appeal or application is determined just on the basis of written material before the appeal court.
+(3) Subsection (2)﻿(a) to (d) and (f) do not apply if an appeal or application is determined just on the basis of written material before the appeal court.
 
 ### 336 Powers of appeal courts
 (1) The Court of Appeal and the Supreme Court may each exercise any other powers that may for the time being be exercised by the court on appeals in civil matters.
@@ -3069,7 +3069,7 @@ No sentence may be suspended just because a person files a notice of appeal or n
 
 ### 347 Reporting requirement where sentence resumed after unsuccessful or abandoned appeal
 (1) This section applies if an appeal is unsuccessful or abandoned, and the convicted person is subject to a sentence of community detention, community work, supervision, or intensive supervision under the Sentencing Act 2002.
-(2) After the sentence is resumed in accordance with section 345, the convicted person must report in accordance with the same reporting requirement that applied to him or her after that sentence was imposed by the sentencing court (as specified in section 49(1)(a), 54F(1)(a), 59(a), or 69E(1)(b) of the Sentencing Act 2002).
+(2) After the sentence is resumed in accordance with section 345, the convicted person must report in accordance with the same reporting requirement that applied to him or her after that sentence was imposed by the sentencing court (as specified in section 49(1)﻿(a), 54F(1)﻿(a), 59(a), or 69E(1)﻿(b) of the Sentencing Act 2002).
 
 ### 348 How appeal affects non-association orders
 (1) On a conviction to which an appeal relates where the court appealed from made a non-association order in respect of the convicted person, the period of non-association ceases to run on the day on which notice of appeal or of application for leave to appeal is filed.
@@ -3136,7 +3136,7 @@ An appellant who has paid a fine or other monetary amount in accordance with a s
 
 ### 356 Jurisdiction of Community Magistrates
 (1) A District Court presided over by 1 or more Community Magistrates has jurisdiction in respect of—
-  (a) a category 1 offence in respect of which a District Court presided over by 1 or more Justices has jurisdiction under section 355(1) or (2)(a); and
+  (a) a category 1 offence in respect of which a District Court presided over by 1 or more Justices has jurisdiction under section 355(1) or (2)﻿(a); and
   (b) a category 1 offence, if the enactment creating the offence or another enactment states that the jurisdiction may be exercised by 1 or more Community Magistrates; and
   (c) a category 1 offence punishable by a fine not exceeding $40,000 unless the offence is prescribed by regulations made under section 387; and
   (d) an infringement offence.
@@ -3163,8 +3163,8 @@ An appellant who has paid a fine or other monetary amount in accordance with a s
   (m) make, under section 128 or 129 of that Act, a confiscation order in respect of a motor vehicle:
   (ma) make, under section 129A of that Act, a confiscation and destruction order in respect of a motor vehicle:
   (mb) make, under section 129B of that Act, an order that a written caution be issued and served:
-  (n) make, under section 131(2)(a) of that Act, an order that prohibits the offender from acquiring any interest in any motor vehicle within 12 months after the date of the order:
-  (o) make, under section 131(3)(a) of that Act, an order that sets aside the disposition by the offender of a motor vehicle or of an interest in a motor vehicle.
+  (n) make, under section 131(2)﻿(a) of that Act, an order that prohibits the offender from acquiring any interest in any motor vehicle within 12 months after the date of the order:
+  (o) make, under section 131(3)﻿(a) of that Act, an order that sets aside the disposition by the offender of a motor vehicle or of an interest in a motor vehicle.
 (3) No District Court presided over by 1 or more Community Magistrates may impose on any person for any offence a sentence of imprisonment (within the meaning of section 4(1) of the Sentencing Act 2002).
 (4) A District Court presided over by 1 or more Community Magistrates does not have any jurisdiction to impose a sentence under this section in respect of a category 1 or 2 offence that is a continuing offence.
 
@@ -3180,8 +3180,8 @@ An appellant who has paid a fine or other monetary amount in accordance with a s
   (g) must, if the offence is one to which section 65 of the Land Transport Act 1998 applies, make, subject to subsection (3) of that section, an order under that section requiring the person to attend an Assessment Centre and disqualifying the person from holding or obtaining a driver licence until the New Zealand Transport Agency makes an order under section 100 of that Act removing that disqualification:
   (ga) may, if that offence is an offence to which section 65A(1) of the Land Transport Act 1998 applies, impose an alcohol interlock licence disqualification:
   (gb) must, if an alcohol interlock licence disqualification is imposed under section 65A of the Land Transport Act 1998,—
-    (i) make, in addition to any other penalties it may impose, an order under section 65A(2)(a) disqualifying the person from holding any driver licence for a period of 3 months; and
-    (ii) make an order under section 65A(2)(b) of the Land Transport Act 1998:
+    (i) make, in addition to any other penalties it may impose, an order under section 65A(2)﻿(a) disqualifying the person from holding any driver licence for a period of 3 months; and
+    (ii) make an order under section 65A(2)﻿(b) of the Land Transport Act 1998:
   (gc) must, if that offence is an offence to which section 65B(1) of the Land Transport Act 1998 applies, make an order authorising the person to apply for a zero alcohol licence that has effect for a period of 3 years from the date on which the licence is issued:
   (h) must, if the offence is one to which section 63 of the Land Transport Act 1998 applies, make, in addition to any other penalty the court may impose, and despite section 94 of that Act, an order under section 63 of that Act disqualifying the person from driving any vehicle being used in a transport service (other than a rental service) for any period exceeding 1 year but not exceeding 10 years that the court thinks fit:
   (i) must, if that offence is an offence to which section 79D of the Land Transport Act 1998 applies, make, in addition to any other penalties it may impose but subject to sections 81 and 94 of that Act, an order under section 79D of that Act disqualifying the person from holding or obtaining a transport service licence for 6 months or more, unless the court, for special reasons relating to the offence, thinks fit to order otherwise.
@@ -3284,7 +3284,7 @@ Any person may apply to a District Court presided over by a District Court Judge
   (a) may be either with or without sureties as the court thinks fit; and
   (b) must be in the sum or sums that the court thinks sufficient; and
   (c) is subject to the condition that, for the period specified by the court, the defendant keep the peace towards the applicant and refrain from doing the act feared or threatened or repeating the conduct complained of.
-(3) The period specified by the court for the purpose of subsection (2)(c) must not exceed 1 year from the date of the bond.
+(3) The period specified by the court for the purpose of subsection (2)﻿(c) must not exceed 1 year from the date of the bond.
 (4) No order may be made under this section, unless—
   (a) in the case of an application under section 366(a), the court is satisfied that the applicant has just cause for his or her fear; or
   (b) in the case of an application under section 366(b), the court is of the opinion that the conduct complained of is likely to be repeated and may tend to provoke a breach of the peace; or
@@ -3336,7 +3336,7 @@ A Registrar who is also a constable has no jurisdiction to exercise any power or
   (a) must not convict the defendant; but
   (b) may order the defendant to pay any fine and costs and may make any other order that the court would be authorised to order or make on convicting the defendant of that offence.
 (2) Every reference in this or any other Act, or in any regulation or bylaw, to a conviction for an offence is, in relation to an infringement offence, deemed to be a reference to—
-  (a) an order that the defendant pay a fine and costs under subsection (1)(b); or
+  (a) an order that the defendant pay a fine and costs under subsection (1)﻿(b); or
   (b) a deemed order that the defendant pay a fine and costs under section 21(5) or (5A) of the Summary Proceedings Act 1957.
 (3) However, sections 229, 244, and 246 do not apply to any deemed order that the defendant pay a fine and costs under section 21(5) or (5A) of the Summary Proceedings Act 1957.
 (4) Subsection (1) overrides any other provision of this Act or any other Act.
@@ -3464,32 +3464,32 @@ A Judge or Registrar may, subject to any terms or conditions that the Judge or R
   (j) prescribing transitional arrangements for the trial and sentencing of persons charged with offences that are added to or removed from Schedule 1:
   (k) prescribing offences for the purposes of section 356(1):
   (l) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) Regulations made under subsection (1)(e) or (f) may—
+(2) Regulations made under subsection (1)﻿(e) or (f) may—
   (a) prescribe different fees in respect of different classes of prosecutor or defendant or categories of offence, or on any other differential basis:
   (b) prescribe different fees in respect of a matter depending on whether electronic or other means are used in a particular circumstance.
-(3) Regulations made under subsection (1)(i) or (j),—
+(3) Regulations made under subsection (1)﻿(i) or (j),—
   (a) if made on or before 30 June in any year, expire on the close of 31 December of that year unless they are expressly confirmed by Act of Parliament passed during that year; and
   (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year unless they are expressly confirmed by Act of Parliament passed before the end of that following year.
-(4) The expiry of regulations made under subsection (1)(i) or (j) does not affect the validity of any act done pursuant to, or in accordance with, the regulations before the regulations expire.
-(5) Regulations made under subsection (1)(k) must not be made without the concurrence of the Chief Justice and the Chief District Court Judge.
+(4) The expiry of regulations made under subsection (1)﻿(i) or (j) does not affect the validity of any act done pursuant to, or in accordance with, the regulations before the regulations expire.
+(5) Regulations made under subsection (1)﻿(k) must not be made without the concurrence of the Chief Justice and the Chief District Court Judge.
 
 ### Subpart 4 — Transitional and savings provisions
 
 **Transitional provisions regarding sentence indications**
 
 ### 388 Application of provisions regarding sentence indications to existing proceedings
-The provisions specified in section 2(1)(b) apply to any proceeding commenced before the commencement of those provisions if the trial, or summary hearing at which the charge will be determined, has not begun.
+The provisions specified in section 2(1)﻿(b) apply to any proceeding commenced before the commencement of those provisions if the trial, or summary hearing at which the charge will be determined, has not begun.
 
 ### 389 Transitional provision regarding terminology in relation to sentence indication provisions
-(1) This section applies if an Order in Council is made under section 2(1) bringing the provisions specified in section 2(1)(b) into force before the date appointed under section 2(2) or provided by section 2(3).
+(1) This section applies if an Order in Council is made under section 2(1) bringing the provisions specified in section 2(1)﻿(b) into force before the date appointed under section 2(2) or provided by section 2(3).
 (2) Until the date appointed under section 2(2) or provided by section 2(3), any reference in those provisions to a charge must be read as a reference to the information or indictment charging the defendant.
 
 **Transitional provisions regarding public access and restrictions on reporting**
 
 ### 390 Transitional provision regarding terminology in relation to public access and restrictions on reporting
-(1) This section applies if an Order in Council is made under section 2(1) bringing the provisions specified in section 2(1)(c) into force before the date appointed under section 2(2) or provided by section 2(3).
+(1) This section applies if an Order in Council is made under section 2(1) bringing the provisions specified in section 2(1)﻿(c) into force before the date appointed under section 2(2) or provided by section 2(3).
 (2) Until the date appointed under section 2(2) or provided by section 2(3), section 196(3) applies as if instead of the reference in that section to section 97 of this Act, there was a reference to section 185C of the Summary Proceedings Act 1957.
-(3) Until the date appointed under section 2(2) or provided by section 2(3), section 206(1) applies as if, instead of paragraph (a) of that subsection, there were the following paragraph:.
+(3) Until the date appointed under section 2(2) or provided by section 2(3), section 206(1) applies as if, instead of paragraph (a) of that subsection, there were the following paragraph:
   (a) the Registrar—
     (i) adjourns the hearing of an information under section 45A of the Summary Proceedings Act 1957; or
     (ii) grants a defendant bail under section 28 of the Bail Act 2000; or
@@ -3505,10 +3505,10 @@ The provisions specified in section 2(1)(b) apply to any proceeding commenced be
 ### 392 Transitional provision regarding appeals by members of media
 (1) This section applies in relation to a proceeding for an offence that was commenced after the commencement of subpart 3 of Part 5 and before the commencement of subpart 7 of Part 6.
 (2) Until the commencement of subpart 7 of Part 6, a person described in section 210(1) may appeal against a decision or order made under subpart 3 of Part 5 to which any of the following enactments apply:
-  (a) section 379A(1)(ba) or 383(1)(b) of the Crimes Act 1961:
+  (a) section 379A(1)﻿(ba) or 383(1)﻿(b) of the Crimes Act 1961:
   (b) section 28E(2B) of the District Courts Act 1947:
   (c) section 115C(1) of the Summary Proceedings Act 1957.
-(3) The enactments referred to in subsection (2)(a) to (c) apply for the purpose of this section with the necessary modifications.
+(3) The enactments referred to in subsection (2)﻿(a) to (c) apply for the purpose of this section with the necessary modifications.
 (4) Section 397(3) (which sets out when a proceeding has commenced) applies for the purpose of this section whether or not section 397(3) has itself been brought into force.
 
 ### 393 Consequential amendments relating to public access and restriction on reporting provisions
@@ -3605,32 +3605,10 @@ The Witnesses and Interpreters Fees Regulations 1974, insofar as they apply to c
 (2) Sections 338 and 339 are deemed to be in force for the purpose of, and to apply to, every appeal to which this section applies.
 
 ### 408 Regulations providing for transitional matters
-(1) The Governor-General may, by Order in Council, make regulations—
-  (a) providing transitional and savings provisions concerning the coming into force of this Act, which may be in addition to or in place of the transitional and savings provisions of this Part and of any of the following enactments:
-    (i) Bail Amendment Act 2011:
-    (ii) Children, Young Persons and Their Families Amendment Act (No 2) 2011:
-    (iii) Crimes Amendment Act (No 4) 2011:
-    (iv) Criminal Procedure (Mentally Impaired Persons) Amendment Act 2011:
-    (v) Summary Proceedings Amendment Act (No 2) 2011:
-  (b) to facilitate the bringing into force of any regulations under this Act:
-  (c) providing that subject to such conditions as are specified in the regulations, during a specified transitional period,—
-    (i) specified provisions of this Act (including definitions) do not apply:
-    (ii) specified terms have the meanings given to them by the regulations:
-    (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply:
-  (d) providing for any other matters necessary for facilitating or ensuring an orderly transition from the provisions of any enactments replaced by this Act to the provisions of this Act.
-(2) No regulations made under this section may be made, or continue in force, later than 2 years after the commencement date as defined in section 394.
+[Repealed]
 
 ### 409 Regulations making consequential amendments
-The Governor-General may, by Order in Council made on the recommendation of the Minister of Justice, make regulations under this section that amend any enactment made or enacted before, on, or after the commencement date as defined in section 394 for the purposes of making that enactment consistent with this Act, by omitting or modifying references to:
-  (a) the Summary Proceedings Act 1957:
-  (b) summary conviction or conviction on indictment or any related terminology:
-  (c) summary offence or any related terminology:
-  (d) the laying of a complaint or any related terminology:
-  (e) an information or an informant or any related terminology:
-  (f) the Crimes Act 1961:
-  (g) indictable or indictment or any related terminology:
-  (h) committal or any related terminology:
-  (i) accused or any related terminology.
+[Repealed]
 
 ### 410 Expiry of sections 408 and 409
 Sections 408 and 409 expire 2 years after the commencement date as defined in section 394.
@@ -3817,7 +3795,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
   (a) a charging document may be filed at any time in respect of an offence against section 29(5), 132(2), or 133(1); and
   (b) the limitation period in respect of any other offence against this Act ends on the date that is 2 years after the date on which evidence, sufficient in the opinion of the Registrar to justify a prosecution for the offence, comes to the Registrar's knowledge.
-(2) Nothing in subsection (1)(b) authorises the filing of a charging document in respect of an offence at a time more than 3 years after the date on which the offence was committed.
+(2) Nothing in subsection (1)﻿(b) authorises the filing of a charging document in respect of an offence at a time more than 3 years after the date on which the offence was committed.
 (3) Subsection (1) is subject to subsection (2).
 
 ### 211 Proceedings must be commenced by Commissioner
@@ -3837,7 +3815,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
 
 ### 65AA Burden of proof of reasonable excuse
-In proceedings for an offence against any of sections 44A(1), 46C(1), 49(1)(b) and (c), 50A(1), 51, 52A, 52B(1), 52C(1), 53, 56A(1)(b), 65P(6), 77I(1), 96B(1) and (2), and 99C(1)(a) and (b),—
+In proceedings for an offence against any of sections 44A(1), 46C(1), 49(1)﻿(b) and (c), 50A(1), 51, 52A, 52B(1), 52C(1), 53, 56A(1)﻿(b), 65P(6), 77I(1), 96B(1) and (2), and 99C(1)﻿(a) and (b),—
   (a) the prosecutor need not assert absence of reasonable excuse in the charging document; and
   (b) the burden of proving that the defendant had a reasonable excuse lies on the defendant.
 
@@ -3846,12 +3824,12 @@ In proceedings for an offence against any of sections 44A(1), 46C(1), 49(1)(b) a
 (2) Any exception, exemption, proviso, excuse, or qualification, whether it does or does not accompany the description of the offence,—
   (a) may be proved by the defendant; but
   (b) need not be negatived in the charging document, and, whether or not it is so negatived, no proof in relation to the matter is required on the part of the prosecutor.
-(3) Subsection (2)(b) is subject to section 17(4) of the Criminal Procedure Act 2011.
+(3) Subsection (2)﻿(b) is subject to section 17(4) of the Criminal Procedure Act 2011.
 
 ### 142 Limitation period for commencement of proceedings
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against—
-  (a) section 131 or 132(1)(a), (b), (g), (h), or (i) ends on the date that is 2 years from the date on which the offence was committed:
-  (b) section 129, 130, or 132(1)(c) to (f) ends on the date that is 7 years from the date on which the offence was committed.
+  (a) section 131 or 132(1)﻿(a), (b), (g), (h), or (i) ends on the date that is 2 years from the date on which the offence was committed:
+  (b) section 129, 130, or 132(1)﻿(c) to (f) ends on the date that is 7 years from the date on which the offence was committed.
 (2) Nothing in subsection (1) affects the application of section 25 of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
 
 ### 105 When proceedings may be commenced for certain offences
@@ -3987,11 +3965,11 @@ If a person who is a carrier, or a person in charge, of any craft is alleged to 
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the earlier of—
   (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an immigration officer; or
   (b) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to an immigration officer.
-(2) Subsection (1) does not apply to the offences set out in sections 342(1)(b), 343(1)(a), (b), or (c)(i), 345, 348, and 351.
+(2) Subsection (1) does not apply to the offences set out in sections 342(1)﻿(b), 343(1)﻿(a), (b), or (c)﻿(i), 345, 348, and 351.
 
 ### 75 Time for filing charging document
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011,—
-  (a) a charging document may be filed at any time in respect of an offence against any of sections 63(1)(a), 64(1), 65(1), 67(1)(a), and 68(1)(a); and
+  (a) a charging document may be filed at any time in respect of an offence against any of sections 63(1)﻿(a), 64(1), 65(1), 67(1)﻿(a), and 68(1)﻿(a); and
   (b) the limitation period in respect of an offence against any other offence against this Act ends on the date that is 2 years after the earlier of—
     (i) the date when the incident, situation, or set of circumstances to which the offence relates first became known to an employee of the Department responsible for the enforcement of this Act; or
     (ii) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to such an employee.
