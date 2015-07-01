@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -35,13 +35,13 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
 
 ### 7 Meaning of Crown entity and categories of Crown entities
 (1) In this Act, Crown entity means an entity within one of the following 5 categories:
-  (a) statutory entities:What are they?DefinitionDifferent typesThese are bodies corporate that are established by or under an ActAn entity or office named in Schedule 1Crown agents (which must give effect to government policy when directed by the responsible Minister). These are named in Part 1 of Schedule 1Autonomous Crown entities (which must have regard to government policy when directed by the responsible Minister). These are named in Part 2 of Schedule 1Independent Crown entities (which are generally independent of government policy). These are named in Part 3 of Schedule 1
-  (b) Crown entity companies:What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are wholly owned by the CrownA company named in Schedule 2
-  (c) Crown entity subsidiaries:What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are controlled by Crown entitiesA company that is—
+  (a) statutory entities:The following table is small in size and has 3 columns. Column 1 is headed What are they?, column 2 is headed Definition, and column 3 is headed Different types.What are they?DefinitionDifferent typesThese are bodies corporate that are established by or under an ActAn entity or office named in Schedule 1Crown agents (which must give effect to government policy when directed by the responsible Minister). These are named in Part 1 of Schedule 1Autonomous Crown entities (which must have regard to government policy when directed by the responsible Minister). These are named in Part 2 of Schedule 1Independent Crown entities (which are generally independent of government policy). These are named in Part 3 of Schedule 1
+  (b) Crown entity companies:The following table is small in size and has 2 columns. Column 1 is headed What are they? and column 2 is headed Definition.What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are wholly owned by the CrownA company named in Schedule 2
+  (c) Crown entity subsidiaries:The following table is small in size and has 2 columns. Column 1 is headed What are they? and column 2 is headed Definition.What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are controlled by Crown entitiesA company that is—
     (a) a subsidiary of another Crown entity under sections 5 to 8 of the Companies Act 1993; or
     (b) a multi-parent subsidiary of 2 or more Crown entities
-  (d) school boards of trustees:What are they?DefinitionThese are boards that are bodies corporate constituted under the Education Act 1989 (including correspondence schools)A body that is a board of trustees constituted under Part 9 of the Education Act 1989 and includes a board of a school designated as a correspondence school by the Minister of Education under section 152 of the Education Act 1989
-  (e) tertiary education institutions:What are they?DefinitionThese are tertiary institutions (for example, colleges of education, polytechnics, specialist colleges, universities, or wananga) that are bodies corporate established under the Education Act 1989An institution established under Part 14 of the Education Act 1989
+  (d) school boards of trustees:The following table is small in size and has 2 columns. Column 1 is headed What are they? and column 2 is headed Definition.What are they?DefinitionThese are boards that are bodies corporate constituted under the Education Act 1989 (including correspondence schools)A body that is a board of trustees constituted under Part 9 of the Education Act 1989 and includes a board of a school designated as a correspondence school by the Minister of Education under section 152 of the Education Act 1989
+  (e) tertiary education institutions:The following table is small in size and has 2 columns. Column 1 is headed What are they? and column 2 is headed Definition.What are they?DefinitionThese are tertiary institutions (for example, colleges of education, polytechnics, specialist colleges, universities, or wananga) that are bodies corporate established under the Education Act 1989An institution established under Part 14 of the Education Act 1989
 (1A) Despite section 5(3) of the Companies Act 1993, a Crown entity subsidiary must be a company incorporated under that Act.
 (2) The words in brackets in subsection (1) about the effect of the different types of statutory entities are intended only as a guide.
 
@@ -50,12 +50,12 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
   (a) the company is not a subsidiary of any one Crown entity; but
   (b) if 2 or more Crown entities were treated as 1 entity (a combined entity), with their rights, entitlements, and interests in relation to the company taken together, the company would be a subsidiary of the combined entity.
 (2) Despite section 5(3) of the Companies Act 1993, a multi-parent subsidiary must be a company incorporated under that Act.
-ExampleCrown entities A, B, and C each own 20% of the issued shares of Company Limited. The remaining issued shares of Company Limited are not owned by Crown entities. Because Crown entities A, B, and C collectively own more than half of the issued shares of Company Limited (see section 5(1)(a)(iii) of the Companies Act 1993), Company Limited is a multi-parent subsidiary.
+ExampleCrown entities A, B, and C each own 20% of the issued shares of Company Limited. The remaining issued shares of Company Limited are not owned by Crown entities. Because Crown entities A, B, and C collectively own more than half of the issued shares of Company Limited (see section 5(1)﻿(a)﻿(iii) of the Companies Act 1993), Company Limited is a multi-parent subsidiary.
 
 ### 8 Meaning of parent Crown entity
 A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B) if—
   (a) A is a statutory entity or Crown entity company or school board of trustees or tertiary education institution; and
-  (b) B is a subsidiary of A, or a multi-parent subsidiary of A and 1 or more other Crown entities, under the definition of Crown entity subsidiaries in the second column of section 7(1)(c).
+  (b) B is a subsidiary of A, or a multi-parent subsidiary of A and 1 or more other Crown entities, under the definition of Crown entity subsidiaries in the second column of section 7(1)﻿(c).
 
 ### 9 Power to amend Schedules 1 and 2
 (1) The Governor-General may, by Order in Council, amend Schedule 1 or Schedule 2 to—
@@ -87,9 +87,9 @@ A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B
   - **committee member** means a member of a committee
   - **Crown agent** means a statutory entity named in Part 1 of Schedule 1
   - **Crown entity** has the meaning set out in section 7(1)
-  - **Crown entity company** has the meaning set out in column 2 of section 7(1)(b)
+  - **Crown entity company** has the meaning set out in column 2 of section 7(1)﻿(b)
   - **Crown entity group** has the meaning set out in section 136
-  - **Crown entity subsidiary** has the meaning given in the second column of section 7(1)(c)
+  - **Crown entity subsidiary** has the meaning given in the second column of section 7(1)﻿(c)
   - **direction** means a direction given by a Minister under this Act or the entity's Act to an entity or to a member or employee or office holder of an entity (for example, a direction on government policy, a direction to perform an additional function, or a direction relating to the entity's statement of intent)
   - **employee** —
     (a) includes the chief executive of a Crown entity (by whatever name called) other than for the process of determining terms and conditions in sections 97(i) and 116; and
@@ -119,7 +119,7 @@ A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B
     (a) means, in relation to a statutory entity that has a board or other governing body under the entity's Act, a person who occupies the position of member of the board of the entity (by whatever name called); and
     (b) means, in relation to a statutory entity that does not have a board or other governing body under the entity's Act, a person who is one of the persons who constitute that entity; and
     (c) means, in relation to a corporation sole, the person who is the sole member of that entity; and
-    (d) means, in relation to a Crown entity company and Crown entity subsidiary, a director within the meaning of section 126(1)(a) of the Companies Act 1993; and
+    (d) means, in relation to a Crown entity company and Crown entity subsidiary, a director within the meaning of section 126(1)﻿(a) of the Companies Act 1993; and
     (e) means, in relation to a school board of trustees, a trustee; and
     (f) means, in relation to a tertiary education institution, a member of its Council; and
     (g) has, for the purposes of sections 120 to 125, the meaning set out in section 126; and
@@ -139,13 +139,13 @@ A Crown entity (A) is a parent Crown entity or parent of another Crown entity (B
       (i) a Minister who is expressly specified, in an Act or a warrant or with the authority of the Prime Minister, to be a Minister who is for the time being responsible for the exercise and performance of the functions, powers, and duties of a responsible Minister in relation to the entity; or
       (ii) if subparagraph (i) does not apply, a Minister who is for the time being responsible, under the authority of an Act or a warrant or with the authority of the Prime Minister, for the administration of the Act, or Part of the Act, by or under which the entity is established; and
     (c) in relation to a Crown entity subsidiary, a responsible Minister of the parent Crown entity of that Crown entity subsidiary
-  - **school board of trustees** has the meaning set out in section 7(1)(d)
+  - **school board of trustees** has the meaning set out in section 7(1)﻿(d)
   - **shareholding Ministers** means the Ministers who hold shares in a Crown entity company under section 79
   - **statutorily independent function** means, in relation to a Crown entity or a member, employee, or office holder of a Crown entity, any matter in respect of which the entity's Act provides that—
     (a) the function must be carried out independently; or
     (b) Ministers of the Crown may not give directions
-  - **statutory entity** has the meaning set out in column 2 of section 7(1)(a)
-  - **tertiary education institution** has the meaning set out in section 7(1)(e).
+  - **statutory entity** has the meaning set out in column 2 of section 7(1)﻿(a)
+  - **tertiary education institution** has the meaning set out in section 7(1)﻿(e).
 (2) In this Act, unless the context otherwise requires, references to a person performing functions and exercising powers, or carrying out responsibilities, includes carrying out duties.
 
 ### 10A Provisions affecting application of amendments to this Act
@@ -332,14 +332,14 @@ The role of the monitor is, in relation to the monitored statutory entity,—
   (e) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more, or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon, served the sentence, or otherwise suffered the penalty imposed on the person:
   (f) a member of Parliament:
   (g) a person who is disqualified under another Act.
-(3) However, subsection (2)(f) does not disqualify a person who is elected (rather than appointed) to office as a member under any other Act.
+(3) However, subsection (2)﻿(f) does not disqualify a person who is elected (rather than appointed) to office as a member under any other Act.
 
 ### 31 Requirements before appointment
 (1) Before a person is appointed as a member of a statutory entity, the person must—
   (a) consent in writing to being a member; and
   (b) certify that he or she is not disqualified from being a member; and
   (c) disclose to the responsible Minister the nature and extent (including monetary value, if quantifiable) of all interests that the person has at that time, or is likely to have, in matters relating to the statutory entity.
-(2) The board of the entity must notify the responsible Minister of a failure to comply with subsection (1)(c) as soon as practicable after becoming aware of the failure.
+(2) The board of the entity must notify the responsible Minister of a failure to comply with subsection (1)﻿(c) as soon as practicable after becoming aware of the failure.
 
 ### 32 Term of office of members
 (1) A member of a statutory entity holds office for—
@@ -353,8 +353,8 @@ The role of the monitor is, in relation to the monitored statutory entity,—
 (4) This section is subject to section 45.
 
 ### 33 Elected, co-opted, etc, members
-(1) Sections 28, 29, 31(1)(a) and (b), and 32 do not apply to a member of a statutory entity who is appointed under the entity's Act by election, co-option, or designation, or by any method other than appointment by a Minister or the Governor-General.
-(2) Section 31(1)(c) does not apply to a member of a statutory entity who is appointed (whether or not by nomination) by any method other than appointment by a Minister or the Governor-General if, under another Act, the member is required to disclose interests in matters relating to the statutory entity before being appointed as a member.
+(1) Sections 28, 29, 31(1)﻿(a) and (b), and 32 do not apply to a member of a statutory entity who is appointed under the entity's Act by election, co-option, or designation, or by any method other than appointment by a Minister or the Governor-General.
+(2) Section 31(1)﻿(c) does not apply to a member of a statutory entity who is appointed (whether or not by nomination) by any method other than appointment by a Minister or the Governor-General if, under another Act, the member is required to disclose interests in matters relating to the statutory entity before being appointed as a member.
 
 ### 34 Validity of members' acts
 The acts of a person as a member, chairperson, or deputy chairperson of a statutory entity are valid even though—
@@ -635,7 +635,7 @@ The avoidance of an act under section 69 does not affect the title or interest o
   (e) any class of persons comprised of any of the persons listed in paragraphs (a) to (d):
   (f) a Crown entity subsidiary of the statutory entity.
 (2) Subsection (1) does not apply to any functions or powers specified in the entity's Act as not being capable of delegation.
-(3) Subsection (1)(f) does not apply to any of the statutory entity's statutorily independent functions.
+(3) Subsection (1)﻿(f) does not apply to any of the statutory entity's statutorily independent functions.
 (4) The board must not delegate the general power of delegation.
 
 ### 74 Powers of delegate
@@ -658,7 +658,7 @@ No delegation in accordance with this Act or the entity's Act—
 (1) A delegation under section 73 may be revoked at will by—
   (a) resolution of the board and written notice to the delegate; or
   (b) any other method provided for in the delegation.
-(2) A delegation under section 74(1)(b) may be revoked at will by written notice of the delegate to the subdelegate.
+(2) A delegation under section 74(1)﻿(b) may be revoked at will by written notice of the delegate to the subdelegate.
 
 **Miscellaneous provisions relating to board**
 
@@ -683,7 +683,7 @@ The provisions set out in Schedule 5 govern the appointment of a chairperson and
 (1) No Minister may—
   (a) sell or otherwise dispose of any shares in a Crown entity company held in the Minister's name; or
   (b) permit shares in a Crown entity company to be allotted or issued to any person other than a shareholding Minister.
-(2) However, despite subsection (1)(a), a Minister may dispose of shares—
+(2) However, despite subsection (1)﻿(a), a Minister may dispose of shares—
   (a) as part of a reconstruction or merger in which the Crown's interest in the shares of the company is not diluted; or
   (b) if an Act authorises the transfer of ownership of shares of a Crown entity company.
 (3) Subsection (1) does not apply to redeemable preference shares that—
@@ -708,7 +708,7 @@ A shareholding Minister of a Crown entity company must present the constitution 
 
 ### 85 Interface with Companies Act 1993 and other Acts
 (1) Section 178 of the Companies Act 1993 (which relates to information for shareholders and, among other things, sets out some reasons for which a company can refuse to provide information) does not entitle a Crown entity company to refuse to provide information that must be provided under this Act or otherwise made available to any person under the Official Information Act 1982.
-(2) Section 161(1)(b) of the Companies Act 1993 (which relates to payment to a director or former director of compensation for loss of office) does not apply to a Crown entity company.
+(2) Section 161(1)﻿(b) of the Companies Act 1993 (which relates to payment to a director or former director of compensation for loss of office) does not apply to a Crown entity company.
 (3) In all other respects, both the Companies Act 1993 and this Act apply to a Crown entity company in respect of a matter, but anything done under one Act counts towards compliance with the other Act.
 
 **Role and accountability of members**
@@ -852,7 +852,7 @@ If there is any doubt as to how section 97, section 98, or sections 161 to 164 a
 
 ### 102 Interface with Companies Act 1993 and other Acts
 (1) Section 178 of the Companies Act 1993 (which relates to information for shareholders and, among other things, sets out some reasons for which a company can refuse to provide information) does not entitle a Crown entity subsidiary to refuse to provide information that must be provided under this Act or otherwise made available to any person under the Official Information Act 1982.
-(2) Section 161(1)(b) of the Companies Act 1993 (which relates to payment to a director or former director of compensation for loss of office) does not apply to Crown entity subsidiaries.
+(2) Section 161(1)﻿(b) of the Companies Act 1993 (which relates to payment to a director or former director of compensation for loss of office) does not apply to Crown entity subsidiaries.
 (3) In all other respects, both the Companies Act 1993 and this Act apply to a Crown entity subsidiary in respect of a matter, but anything done under one Act counts towards compliance with the other Act.
 
 ## Part 3 — Operation of Crown entities
@@ -892,7 +892,7 @@ A responsible Minister of an independent Crown entity or a Crown entity company 
   (c) to a group of Crown entities (whether made up of categories or types) if—
     (i) the group is made up of at least 3 Crown entities; and
     (ii) the entities in the group have in common at least 1 significant characteristic that relates to the direction (for example, the characteristic could relate to the Crown entities' asset holdings or presence in a region).
-(2A) For the purposes of subsection (2)(a), companies named in Schedule 4A of the Public Finance Act 1989 may be treated as a category of Crown entities.
+(2A) For the purposes of subsection (2)﻿(a), companies named in Schedule 4A of the Public Finance Act 1989 may be treated as a category of Crown entities.
 (3) No direction may be given under this section to Crown entity subsidiaries.
 
 ### 108 Process for giving directions under section 107
@@ -958,7 +958,7 @@ Every Crown entity within the category or type or group of Crown entities to whi
   (b) consult any persons that they consider are representative of the interests of persons likely to be substantially affected by the direction.
 (4) As soon as practicable after completing the review, the Minister or Ministers must notify the outcome of the review to—
   (a) the Crown entity or entities to which the direction applies; and
-  (b) persons that were consulted under subsection (3)(b).
+  (b) persons that were consulted under subsection (3)﻿(b).
 (5) This section does not apply, in the case of directions given under another Act, if the other Act contains a procedure for reviewing directions.
 
 **Employees**
@@ -1098,7 +1098,7 @@ Amendment(s) incorporated in the Act(s).
 (1) A request for information under section 133 may be refused if—
   (a) the withholding of the information is necessary to protect the privacy of a person (whether or not a natural person or a deceased person); or
   (b) the supply of the information would limit the ability of the Crown entity, or of any of its employees, members, or office holders, to act judicially, or to carry out the statutorily independent functions of the entity, in relation to a particular matter.
-(2) The reason in subsection (1)(a) applies only if it is not out-weighed by the Minister's need to have the information in order to discharge the Minister's ministerial duties.
+(2) The reason in subsection (1)﻿(a) applies only if it is not out-weighed by the Minister's need to have the information in order to discharge the Minister's ministerial duties.
 (3) The information cannot be withheld other than for the reasons in subsection (1), and cannot be withheld at all if it could not properly be withheld under the Official Information Act 1982.
 (4) Section 178 of the Companies Act 1993 does not entitle a Crown entity company or Crown entity subsidiary to refuse to provide information requested under this subpart.
 
@@ -1111,10 +1111,10 @@ Amendment(s) incorporated in the Act(s).
     (iv) a Crown entity subsidiary that is wholly owned by 1 or more Crown entities referred to in subparagraphs (i) to (iii):
   (b) office holders and employees of—
     (i) a tertiary education institution:
-    (ii) a Crown entity subsidiary that is wholly owned by 1 or more tertiary education institutions or by 1 or more tertiary education institutions and 1 or more Crown entities referred to in paragraph (a)(i) to (iii).
+    (ii) a Crown entity subsidiary that is wholly owned by 1 or more tertiary education institutions or by 1 or more tertiary education institutions and 1 or more Crown entities referred to in paragraph (a)﻿(i) to (iii).
 (1A) In this section, individuals working for the Crown entity as contractors or secondees in relation to a function, duty, or power of the Crown entity are to be treated as if they are employees.
-(1B) This section also applies to a person who was formerly a person described in subsection (1)(a) or (b) or (1A) in respect of any acts or omissions or decisions made—
-  (a) while that person was a person described in subsection (1)(a) or (b) or (1A); and
+(1B) This section also applies to a person who was formerly a person described in subsection (1)﻿(a) or (b) or (1A) in respect of any acts or omissions or decisions made—
+  (a) while that person was a person described in subsection (1)﻿(a) or (b) or (1A); and
   (b) after the commencement of this subsection.
 (2) A person to whom this section applies is an official for the purposes of sections 105 and 105A of the Crimes Act 1961.
 (3) This section does not limit the meaning of official in section 99 of the Crimes Act 1961.
@@ -1203,7 +1203,7 @@ The purpose of a statement of intent is to promote the public accountability of 
 ### 140 Statement of intent for newly established Crown entities
 (1) As soon as practicable after a Crown entity is established, the Crown entity must comply with section 139 as if it were the start of the financial year.
 (2)
-(3) The responsible Minister may give directions to the Crown entity on any matters referred to in section 141(1) and (2)(a), (b), (d), and (e) at any time before the Crown entity's statement of intent is in force under section 144.
+(3) The responsible Minister may give directions to the Crown entity on any matters referred to in section 141(1) and (2)﻿(a), (b), (d), and (e) at any time before the Crown entity's statement of intent is in force under section 144.
 (4) The directions apply as if they were the Crown entity's statement of intent, until the Crown entity's statement of intent is in force.
 (5) Sections 113, 114, and 115 apply to the directions.
 (6)
@@ -1262,7 +1262,7 @@ Ministers may participate in determining the content of statements of intent as 
       (B) if the responsible Minister does not provide comments within the period specified in paragraph (b), not later than 25 working days after the end of that period.
 
 ### 147 Amendments to final statement of intent by responsible Minister
-(1) A responsible Minister of a Crown entity may direct a Crown entity to amend any provision that is included in the entity's final statement of intent under section 141(1) or (2)(a), (b), (d), or (e).
+(1) A responsible Minister of a Crown entity may direct a Crown entity to amend any provision that is included in the entity's final statement of intent under section 141(1) or (2)﻿(a), (b), (d), or (e).
 (2) Sections 113 to 115 (other than section 115(2)) apply to a direction under subsection (1).
 (3) The amendment to the statement of intent, as specified by the Minister, is in force from the effective date of the direction.
 (4) An amendment under this section—
@@ -1311,7 +1311,7 @@ Ministers may participate in determining the content of statements of intent as 
     (ii) need not present the amendment to the House of Representatives in that period; and
   (b) the entity must not publish an amendment to a statement of intent before publishing the statement of intent under section 149; and
   (c) the responsible Minister must not present a copy of an amendment to a statement of intent to the House of Representatives before presenting a copy of the statement of intent to the House of Representatives under section 149; and
-  (d) if Parliament is not in session, subsection (1)(b) does not apply, but the responsible Minister must present a copy of the amendment to the House of Representatives as soon as possible after the commencement of the next session of Parliament.
+  (d) if Parliament is not in session, subsection (1)﻿(b) does not apply, but the responsible Minister must present a copy of the amendment to the House of Representatives as soon as possible after the commencement of the next session of Parliament.
 
 **Planning: statement of performance expectations**
 
@@ -1324,22 +1324,22 @@ The purpose of a statement of performance expectations for a Crown entity is to�
 ### 149C Obligation to prepare statement of performance expectations
 (1) Before the start of each financial year, a Crown entity must prepare a statement of performance expectations for that financial year that complies with section 149E.
 (2) However, if the Crown entity does not propose to supply any reportable classes of outputs in that financial year, the entity's statement of performance expectations—
-  (a) must comply with section 149E(1)(b) to (d) and (3); but
-  (b) need not comply with section 149E(1)(a) or (2).
+  (a) must comply with section 149E(1)﻿(b) to (d) and (3); but
+  (b) need not comply with section 149E(1)﻿(a) or (2).
 
 ### 149D Statement of performance expectations for newly established Crown entities
 (1) As soon as practicable after a Crown entity is established, the Crown entity must comply with section 149C as if it were the start of the financial year.
 (2) However, if the Crown entity is established during the last 4 months of its financial year, the responsible Minister may—
   (a) waive the requirement for the entity to comply with subsection (1); and
   (b) require the entity's first statement of performance expectations to cover the period from the date on which the entity is established until the end of the entity's first full financial year.
-(3) The responsible Minister may, at any time before the entity's first statement of performance expectations becomes final (see section 149E(3)(c)), give directions to the Crown entity on any matters referred to in section 149E, other than the forecast financial statements referred to in section 149E(1)(d).
+(3) The responsible Minister may, at any time before the entity's first statement of performance expectations becomes final (see section 149E(3)﻿(c)), give directions to the Crown entity on any matters referred to in section 149E, other than the forecast financial statements referred to in section 149E(1)﻿(d).
 (4) The directions apply as if they were the Crown entity's statement of performance expectations until the entity's first statement of performance expectations becomes final.
 (5) Sections 113 to 115 apply to the directions.
 
 ### 149E Content of statement of performance expectations
 (1) Each statement of performance expectations must, in relation to a Crown entity and a financial year,—
   (a) identify each reportable class of outputs for the financial year; and
-  (b) identify each exemption granted under section 149F(1)(a) for the financial year; and
+  (b) identify each exemption granted under section 149F(1)﻿(a) for the financial year; and
   (c) state whether the entity proposes to supply any class of outputs in the financial year that is not a reportable class of outputs; and
   (d) contain forecast financial statements that comply with section 149G.
 (2) For each reportable class of outputs, the statement of performance expectations must—
@@ -1354,7 +1354,7 @@ The purpose of a statement of performance expectations for a Crown entity is to�
 ### 149F Exemption for certain outputs
 (1) The Minister of Finance may exempt, for 1 or more financial years or until further notice, 1 or more classes of outputs from—
   (a) any statement of performance expectations required under section 149C or 149D; or
-  (b) any statement of performance required under section 151(1)(b).
+  (b) any statement of performance required under section 151(1)﻿(b).
 (2) The Minister of Finance must not exempt a class of outputs from a statement of performance expectations or a statement of performance unless he or she is satisfied that—
   (a) the class of outputs is not material to the statement; or
   (b) the class of outputs will be adequately reported on to the House of Representatives by a Minister, a department, or another public entity; or
@@ -1434,7 +1434,7 @@ Ministers may participate in determining the contents of statements of performan
     (ii) need not present the amendment to the House of Representatives in that period; and
   (b) the entity must not publish an amendment to a statement of performance expectations before publishing the statement of performance expectations under section 149L; and
   (c) the responsible Minister must not present a copy of an amendment to a statement of performance expectations to the House of Representatives before presenting a copy of the statement of performance expectations to the House of Representatives under section 149L; and
-  (d) if Parliament is not in session, subsection (1)(b) does not apply, but the responsible Minister must present a copy of the amendment to the House of Representatives as soon as possible after the commencement of the next session of Parliament.
+  (d) if Parliament is not in session, subsection (1)﻿(b) does not apply, but the responsible Minister must present a copy of the amendment to the House of Representatives as soon as possible after the commencement of the next session of Parliament.
 
 **Reporting: annual report**
 
@@ -1466,7 +1466,7 @@ Section 150 is subject to subpart 1 of Part 5 of the Public Finance Act 1989, wh
   (i) information required by section 20(3) (which relates to the enforcement of certain natural person transactions); and
   (j) information required by section 68(6) (which relates to permission to act despite being interested in a matter); and
   (k) any matters that relate to or affect the entity's operations that the entity is otherwise required, or has undertaken, or wishes to report on in its annual report.
-(1A) However, subsection (1)(b) does not apply unless the Crown entity supplied 1 or more reportable classes of outputs in that financial year.
+(1A) However, subsection (1)﻿(b) does not apply unless the Crown entity supplied 1 or more reportable classes of outputs in that financial year.
 (1B) An annual report may contain end-of-year performance information that the Crown entity is required to prepare under section 19A of the Public Finance Act 1989.
 (2) The annual report must provide the information that is necessary to enable an informed assessment to be made of the entity's operations and performance for that financial year, including an assessment of the entity's progress in relation to its strategic intentions as set out in the most recent statement of intent.
 (3) An annual report must be in writing, be dated, and be signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member.
@@ -1512,9 +1512,9 @@ The statement of responsibility must—
     (i) the Crown entity's annual financial statements and statement of performance (if applicable); and
     (ii) any end-of-year performance information that the Crown entity is required to provide under section 19A of the Public Finance Act 1989; and
     (iii) any other information that the Auditor-General has agreed, or is required, to audit; and
-  (b) the Crown entity's annual report in a timely manner to enable the Auditor-General to review that report before providing the audit report required under subsection (2)(b).
+  (b) the Crown entity's annual report in a timely manner to enable the Auditor-General to review that report before providing the audit report required under subsection (2)﻿(b).
 (2) The Auditor-General must—
-  (a) audit the statements and information referred to in subsection (1)(a); and
+  (a) audit the statements and information referred to in subsection (1)﻿(a); and
   (b) provide an audit report to the Crown entity within 4 months after the end of each financial year.
 
 **Application of this subpart to Crown entity groups**
@@ -1588,7 +1588,7 @@ The statement of responsibility must—
   (b) a registered bank or registered building society that meets the conditions of any relevant approval given by the Minister of Finance by notice in the Gazette; or
   (c) a bank outside New Zealand that meets the conditions of any relevant approval given by the Minister of Finance by notice in the Gazette; or
   (d) a bank outside New Zealand if the conditions specified in subsection (2) are met.
-(2) The conditions referred to in subsection (1)(d) are—
+(2) The conditions referred to in subsection (1)﻿(d) are—
   (a) the Crown entity, or the class of Crown entities to which the Crown entity belongs, must be authorised to establish, maintain, and operate 1 or more bank accounts at 1 or more banks outside New Zealand by—
     (i) the Minister of Finance in writing; or
     (ii) any regulations made under this Part; and
@@ -1599,7 +1599,7 @@ The statement of responsibility must—
   (a) any regulations made under this Part; and
   (b) if applicable, any conditions of the authorisation or approval given by the Minister of Finance; and
   (c) the entity's Act.
-(4) The Minister of Finance must notify in the Gazette an authorisation or approval given under subsection (2)(a)(i) or, as the case may be, subsection (2)(b)(i).
+(4) The Minister of Finance must notify in the Gazette an authorisation or approval given under subsection (2)﻿(a)﻿(i) or, as the case may be, subsection (2)﻿(b)﻿(i).
 (5) A Crown entity must ensure that it does not establish, maintain, or operate a bank account other than as provided for in subsection (1).
 (6) All money in a bank account at a registered bank or a registered building society must be denominated in New Zealand dollars unless the Minister of Finance allows otherwise.
 (7) A Crown entity must properly authorise the withdrawal or payment of money from a bank account of the Crown entity.
@@ -1622,7 +1622,7 @@ Sections 160 to 164 apply on and after 1 April 2005.
   (c) an entity's Act; and
   (d) an exemption granted in Schedule 1 or Schedule 2.
 (2) Sections 161 to 164 apply to a Crown entity subsidiary in the same way as they apply to its parent.
-(3) The Minister of Finance must notify in the Gazette an approval given under subsection (1)(b).
+(3) The Minister of Finance must notify in the Gazette an approval given under subsection (1)﻿(b).
 
 ### 161 Restrictions on acquisition of financial products
 (1) A Crown entity must not acquire financial products other than—
@@ -1736,7 +1736,7 @@ A responsible Minister may set standards, terms, and conditions in respect of an
 (6) The Minister must notify the instruction in the Gazette, and publish it on the Internet, as soon as practicable after issuing it.
 
 ### 175 Consultation with House of Representatives on reporting standards
-(1) The Minister must prepare and submit to the Speaker of the House of Representatives a draft of any instruction proposed to be issued under section 174(1)(b).
+(1) The Minister must prepare and submit to the Speaker of the House of Representatives a draft of any instruction proposed to be issued under section 174(1)﻿(b).
 (2) The Speaker must present the draft instruction to the House of Representatives as soon as is reasonably practicable.
 (3) The Minister, after considering any comments of the Speaker or any committee of the House of Representatives that considered the draft instruction, may amend the draft instruction as the Minister thinks fit.
 (4) The Minister must, as soon as practicable after issuing an instruction, present it to the House of Representatives.
@@ -1841,7 +1841,7 @@ There is a period of grace of 6 months after section 158 comes into force during
 (1) The reporting requirements and provisions that would have applied if this Act and the Public Finance Amendment Act 2004 had not been enacted continue to apply in respect of each financial year that ends before 1 July 2006 to a Crown entity, rather than the reporting requirements and provisions enacted by this Act.
 (2) Therefore, for example, the Crown entity must comply, in respect of those financial years, with the requirements relating to annual financial statements, annual reports, and audits that were in the Public Finance Act 1989 or the entity's Act, as the case may be, immediately before the commencement of this section.
 (3) Despite subsections (1) and (2),—
-  (a) section 87(2)(ca)(iv) and (v) of the Education Act 1989 applies in respect of each financial year that ends on or after 31 December 2004; and
+  (a) section 87(2)﻿(ca)﻿(iv) and (v) of the Education Act 1989 applies in respect of each financial year that ends on or after 31 December 2004; and
   (b) section 152 applies in respect of the financial year commencing on 1 July 2005 and each subsequent financial year.
 (4) In this section, Crown entity includes any entity that is required by any other Act to report as though it were a Crown entity.
 
@@ -1876,7 +1876,7 @@ In this schedule,—
   - **old provision** means a provision of this Act as in force immediately before its amendment or repeal by the amendment Act, and has a corresponding meaning.
 
 ### 2 Application of new sections 150 and 151 (annual reports)
-New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement date by section 36 of the amendment Act,—
+New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencement date by section 36 of the amendment Act,—
   (a) apply to an annual report for the 2013/14 financial year and subsequent financial years; but
   (b) do not apply to an annual report for any prior financial year.
 
@@ -1897,12 +1897,12 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 | Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
-| Accident Compensation Corporation |  |  |  |  |  |
-| Callaghan Innovation |  |  |  |  |  |
+| Accident Compensation Corporation | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Callaghan Innovation | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Careers New Zealand |  |  |  |  |  |
-| Civil Aviation Authority of New Zealand |  |  |  |  |  |
+| Civil Aviation Authority of New Zealand |  |  |  |  | ✓ |
 | District Health Boards |  |  |  |  |  |
-| Earthquake Commission |  |  |  |  |  |
+| Earthquake Commission | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Education New Zealand |  |  |  |  |  |
 | Energy Efficiency and Conservation Authority |  |  |  |  |  |
 | Environmental Protection Authority |  |  |  |  |  |
@@ -1910,38 +1910,37 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 | Health Quality and Safety Commission |  |  |  |  |  |
 | Health Research Council of New Zealand |  |  |  |  |  |
 | Housing New Zealand Corporation |  |  |  |  |  |
-| Maritime New Zealand |  |  |  |  |  |
+| Maritime New Zealand |  |  |  |  | ✓ |
 | New Zealand Antarctic Institute |  |  |  |  |  |
 | New Zealand Blood Service |  |  |  |  |  |
-| New Zealand Fire Service Commission |  |  |  |  |  |
-| New Zealand Qualifications Authority |  |  |  |  |  |
+| New Zealand Fire Service Commission |  |  |  |  | ✓ |
+| New Zealand Qualifications Authority |  |  |  |  | ✓ |
 | New Zealand Tourism Board |  |  |  |  |  |
 | New Zealand Trade and Enterprise |  |  |  |  |  |
 | New Zealand Transport Agency |  |  |  |  |  |
-| New Zealand Walking Access Commission |  |  |  |  |  |
+| New Zealand Walking Access Commission |  |  |  |  | ✓ |
 | Pharmaceutical Management Agency |  |  |  |  |  |
 | Real Estate Agents Authority |  |  |  |  |  |
 | Social Workers Registration Board |  |  |  |  |  |
-| Sport and Recreation New Zealand |  |  |  |  |  |
+| Sport and Recreation New Zealand |  |  |  |  | ✓ |
 | Tertiary Education Commission |  |  |  |  |  |
-| WorkSafe New Zealand |  |  |  |  |  |
+| WorkSafe New Zealand |  |  |  |  | ✓ |
 
 | Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
-| Arts Council of New Zealand Toi Aotearoa |  |  |  |  |  |
+| Arts Council of New Zealand Toi Aotearoa |  |  |  |  | ✓ |
 | Broadcasting Commission |  |  |  |  |  |
 | Families Commission |  |  |  |  |  |
-| Government Superannuation Fund Authority |  |  |  |  |  |
+| Government Superannuation Fund Authority | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Guardians of New Zealand Superannuation |  |  |  |  |  |
-| Heritage New Zealand Pouhere Taonga |  |  |  |  |  |
+| Heritage New Zealand Pouhere Taonga |  |  |  |  | ✓ |
 | Museum of New Zealand Te Papa Tongarewa Board |  |  |  |  |  |
 | New Zealand Artificial Limb Service |  |  |  |  |  |
-| New Zealand Film Commission |  |  |  |  |  |
-| New Zealand Lotteries Commission |  |  |  |  |  |
+| New Zealand Film Commission |  |  |  |  | ✓ |
+| New Zealand Lotteries Commission | ✓ |  |  |  | ✓ |
 | New Zealand Symphony Orchestra |  |  |  |  |  |
-| New Zealand Teachers Council |  |  |  |  |  |
-| Public Trust |  |  |  |  |  |
+| Public Trust | ✓ | ✓ | ✓ | ✓ |  |
 | Retirement Commissioner |  |  |  |  |  |
 | Standards Council |  |  |  |  |  |
 | Te Reo Whakapuaki Irirangi (Māori Broadcasting Funding Agency) |  |  |  |  |  |
@@ -1956,7 +1955,7 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 | Commerce Commission |  |  |  |  |  |
 | Drug Free Sport New Zealand |  |  |  |  |  |
 | Electoral Commission |  |  |  |  |  |
-| Electricity Authority |  |  |  |  |  |
+| Electricity Authority |  |  |  |  | ✓ |
 | External Reporting Board |  |  |  |  |  |
 | Financial Markets Authority |  |  |  |  |  |
 | Health and Disability Commissioner |  |  |  |  |  |
@@ -1974,11 +1973,11 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 | Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
-| Crown Irrigation Investments Limited |  |  |  |  |  |
-| Crown Research Institutes |  |  |  |  |  |
-| New Zealand Venture Investment Fund Limited |  |  |  |  |  |
-| Radio New Zealand Limited |  |  |  |  |  |
-| Television New Zealand Limited |  |  |  |  |  |
+| Crown Irrigation Investments Limited | ✓ |  |  |  |  |
+| Crown Research Institutes | ✓ | ✓ | ✓ | ✓ | ✓ |
+| New Zealand Venture Investment Fund Limited | ✓ | ✓ | ✓ |  | ✓ |
+| Radio New Zealand Limited |  |  |  |  | ✓ |
+| Television New Zealand Limited | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 ## Schedule 3 — Application of Crown Entities Act 2004 to school boards of trustees
 
@@ -2032,7 +2031,7 @@ New sections 150(3), (5), and (6) and 151(1)(f), as inserted on the commencement
 | Section 220 Education Act 1989 | Laying before House of Representatives of financial statements |
 | Section 167 | Gifts |
 | Section 168(1) and (2) | Accounting records |
-| Sections 171(1)(b) and (2) and 172 | Offences and penalties |
+| Sections 171(1)﻿(b) and (2) and 172 | Offences and penalties |
 | Section 176 | Application of provisions of the Public Finance Act 1989 |
 | Section 178 | Application of Archives Act 1957 |
 | Sections 181, 188, 191, 193, 194, 198, 199, 200 | Transitional and savings provisions and associated consequential amendments |
@@ -2116,7 +2115,7 @@ A meeting of the board may be held—
   (a) if there is a chairperson and he or she is present and is not interested in the matter, the chairperson; or
   (b) if there is no chairperson or he or she is not present or is interested in the matter, the deputy chairperson; or
   (c) in any other case, the temporary deputy chairperson.
-(2) A person referred to in subclause (1)(b) or (c) may exercise all the powers and functions of the chairperson for the purposes of the meeting.
+(2) A person referred to in subclause (1)﻿(b) or (c) may exercise all the powers and functions of the chairperson for the purposes of the meeting.
 
 ### 12 Voting at meetings
 (1) Each member has 1 vote.
@@ -2135,7 +2134,7 @@ A meeting of the board may be held—
 (2) A person must not be appointed as a member of a committee unless, before appointment, he or she discloses to the board the details of any interest the person may have if he or she were a member of that committee.
 
 ### 15 Provisions relating to committee members
-(1) Sections 43, 47, 48, 57, 77, 118, 120 to 126, 135, 152(1)(e), (f), and (2), 189, and 190 apply to each member of a committee who is not a member of the board with necessary modifications.
+(1) Sections 43, 47, 48, 57, 77, 118, 120 to 126, 135, 152(1)﻿(e), (f), and (2), 189, and 190 apply to each member of a committee who is not a member of the board with necessary modifications.
 (2) Sections 62 to 72 apply to each member of a committee who is not a member of the board as if the committee member were a board member and as if the disclosure must be made to both the committee and the board, and with other necessary modifications.
 
 ## Schedule 6 — Amendments to other Acts arising from Crown entity reforms
