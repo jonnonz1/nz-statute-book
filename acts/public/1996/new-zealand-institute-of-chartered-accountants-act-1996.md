@@ -1,5 +1,5 @@
 # New Zealand Institute of Chartered Accountants Act 1996
-_Consolidation as at 2014-11-25_
+_Consolidation as at 2015-07-01_
 
 > An Act to—acontinue the New Zealand Society of Accountants under the name New Zealand Institute of Chartered Accountants; andbrequire the Institute to have rules governing membership, discipline, and other matters and a code of ethics governing the professional conduct of its members; andcprohibit the use of terms implying membership of the Institute by persons who are not members; anddprovide for related matters; anderepeal the New Zealand Society of Accountants Act 1958
 
@@ -10,18 +10,18 @@ _Consolidation as at 2014-11-25_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Appeals Council** means the Appeals Council referred to in section 6(1)(h)
+  - **Appeals Council** means the Appeals Council referred to in section 6(1)﻿(h)
   - **certificate of public practice** means a certificate of public practice issued in accordance with the rules
   - **chartered accountant** means a member of the Institute who, under the rules of the Institute, is entitled to use the designation chartered accountant
   - **code** means the code of ethics of the Institute referred to in section 7
-  - **Council** means the Council of the Institute referred to in section 6(1)(a)
+  - **Council** means the Council of the Institute referred to in section 6(1)﻿(a)
   - **disciplinary body** or means the Disciplinary Tribunal or the Appeals Council
-  - **Disciplinary Tribunal** means the Disciplinary Tribunal referred to in section 6(1)(g)
+  - **Disciplinary Tribunal** means the Disciplinary Tribunal referred to in section 6(1)﻿(g)
   - **document** includes any book or paper
-  - **Executive Board** means the Executive Board of the Institute referred to in section 6(1)(e)
+  - **Executive Board** means the Executive Board of the Institute referred to in section 6(1)﻿(e)
   - **Institute** means the New Zealand Institute of Chartered Accountants constituted under this Act
   - **member** means a person who, under the rules of the Institute, is a full member or provisional member of the Institute
-  - **Professional Conduct Committee** means the Professional Conduct Committee referred to in section 6(1)(f)
+  - **Professional Conduct Committee** means the Professional Conduct Committee referred to in section 6(1)﻿(f)
   - **Registrar** means the Registrar of Companies at Wellington
   - **registration** means registration by the Registrar on a public file
   - **rules** means the rules of the Institute delivered to the Registrar under section 6
@@ -54,7 +54,7 @@ The functions of the Institute are—
 ### 5A Duty to control and regulate profession of accountancy practised by members in New Zealand
 (1) The Institute must, with reasonable skill and care, control and regulate the practice of the profession of accountancy by its members in New Zealand.
 (2) The duty under subsection (1) includes—
-  (a) maintaining, complying with, monitoring compliance with, and enforcing the rules referred to in section 6(1)(f) to (ja) (which relate to the investigation and hearing of complaints and other matters, appeals, disciplinary matters, and the recognition of auditors); and
+  (a) maintaining, complying with, monitoring compliance with, and enforcing the rules referred to in section 6(1)﻿(f) to (ja) (which relate to the investigation and hearing of complaints and other matters, appeals, disciplinary matters, and the recognition of auditors); and
   (b) maintaining, monitoring members' compliance with, and enforcing professional and ethical standards, including the code of ethics required by section 7; and
   (c) monitoring members' compliance with the Auditor Regulation Act 2011 and other enactments that relate to the practice of accountancy; and
   (d) monitoring compliance with, and enforcing, section 14; and
@@ -84,6 +84,8 @@ The functions of the Institute are—
   (h) an Appeals Council to hear appeals from decisions of the Disciplinary Tribunal and the powers and procedure of that Council; and
   (i) the kinds of conduct, including criminal offences, professional misconduct, and financial misconduct, for which a member or former member may be disciplined; and
   (j) the actions that may be taken in respect of, and the penalties that may be imposed on, a member or former member by the Professional Conduct Committee or a disciplinary body for such conduct; and
+  (ja) the recognition of persons for the purposes of sections 36(1)﻿(a) and 36C of the Financial Reporting Act 2013, for keeping such recognition under review, and for the cancellation and suspension of such recognition; and
+  (jb) the powers of a person to whom functions are delegated under section 5B(2), the effect of a delegation on the Institute, and the revocation of a delegation; and
   (k) the amendment and replacement of the rules.
 (2) In addition to the provisions required by subsection (1), the rules may contain any other provisions that are not inconsistent with this Act or any other Act or any rule of law.
 (3) The Council must, no later than 14 days after the day on which this Act comes into force, deliver to the Registrar for registration a document described as, and which shall constitute, the rules of the Institute.
@@ -98,17 +100,17 @@ The functions of the Institute are—
 (6) The code of ethics prescribed by the Council and that is in force immediately before the commencement of this subsection continues in force and may be amended, revoked, or replaced by the Executive Board under subsection (4).
 
 ### 7A Membership rules may require membership of specified association
-(1) The rules that relate to the matters referred to in section 6(1)(b) (admission of members and the cessation of membership) may provide for either or both of the following:
+(1) The rules that relate to the matters referred to in section 6(1)﻿(b) (admission of members and the cessation of membership) may provide for either or both of the following:
   (a) that a person may be admitted as a member of the Institute only if the person is a member of the specified association:
   (b) that a person ceases to be a member of the Institute if the person—
     (i) does not become a member of the specified association in accordance with the rules; or
     (ii) ceases to be a member of the specified association.
-(2) Those rules may provide for a cessation referred to in subsection (1)(b) to be automatic or to occur after a specified process.
-(3) This section does not limit section 6(1)(b) (and, in particular, the ability to provide for other requirements for the admission of members).
+(2) Those rules may provide for a cessation referred to in subsection (1)﻿(b) to be automatic or to occur after a specified process.
+(3) This section does not limit section 6(1)﻿(b) (and, in particular, the ability to provide for other requirements for the admission of members).
 
 ### 8 Application of Part 3 of Legislation Act 2012 to certain rules and code of ethics
 The following are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012:
-  (a) the rules that relate to the matters referred to in sections 5(d), 6(1)(a), (b), and (f) to (j), and 19:
+  (a) the rules that relate to the matters referred to in sections 5(d), 6(1)﻿(a), (b), and (f) to (jb), and 19:
   (b) rules that relate to the entitlement of members to use the designation chartered accountant:
   (c) the code of ethics required by section 7.
 
@@ -154,8 +156,8 @@ In the exercise of their functions and powers, the Professional Conduct Committe
   (a) by delivering it to the person summoned; or
   (b) by posting it to the person summoned at that person’s usual place of residence.
 (7) A summons must,—
-  (a) if it is to be served under subsection (6)(a), be served at least 24 hours before the attendance of the witness is required:
-  (b) if it is to be served under subsection (6)(b), be served at least 10 days before the attendance of the witness is required.
+  (a) if it is to be served under subsection (6)﻿(a), be served at least 24 hours before the attendance of the witness is required:
+  (b) if it is to be served under subsection (6)﻿(b), be served at least 10 days before the attendance of the witness is required.
 (8) A summons that is posted shall be treated as having been served when it would have been served in the ordinary course of post.
 (9) There shall be paid or tendered to the witness by the person requiring the attendance of the witness at the time the summons is served, or at some other reasonable time before the hearing, the sum estimated to be payable to that witness for fees, allowances, and expenses in accordance with the scales for the time being prescribed by regulations under the Criminal Procedure Act 2011.
 
@@ -182,15 +184,7 @@ In the exercise of their functions and powers, the Professional Conduct Committe
 (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000.
 
 ### 15 Accountants and auditors must be qualified
-(1) Subject to subsection (3), every person commits an offence who describes himself or herself or holds himself or herself out publicly as an accountant or auditor unless that person is suitably qualified in accordance with subsection (2) to offer accounting or auditing services to the public.
-(2) For the purposes of this section, a person is suitably qualified if that person holds a certificate, degree, diploma, registration, or similar qualification, whether obtained in New Zealand or elsewhere, that is relevant to the practices of accounting and auditing.
-(3) Nothing in this section prevents—
-  (a) any person who is not offering his or her services to the public as an accountant or auditor or under any similar designation from the use of such a designation in respect of or in relation to his or her salaried employment or occupation:
-  (b) any person from practising publicly and describing himself or herself as a secretary, bookkeeper, or cost consultant, or under any other designation not associated with or conveying the impression that he or she is an accountant or auditor:
-  (c) any person or member of a club, institution, or association which is not carried on with a view to profit from acting as auditor of the club, institution, or association:
-  (d) any Minister of the Crown or officer charged with the administration of any law or the Controller and Auditor-General from appointing, or authorising or approving the appointment of, any person as auditor in respect of any undertaking.
-(4) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $5,000.
-(5) Nothing in this section limits sections 8 and 9 of the Auditor Regulation Act 2011.
+[Repealed]
 
 ### 16 Failure to comply with summons of disciplinary body
 (1) Every person summoned under section 11 to attend a hearing of a disciplinary body commits an offence if he or she, without sufficient cause, does any or all of the following:
