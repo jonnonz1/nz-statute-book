@@ -1,5 +1,5 @@
 # Education Amendment Act 2015
-_Consolidation as at 2015-02-12_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Education Amendment Act 2015.
@@ -102,7 +102,7 @@ Replace sections 171 and 173 with:Constitution to provide for membership of coun
 (1) Replace section 174(1A) with:
   (1A) Subsection (1) does not apply to the chief executive of an institution who has been appointed by its council pursuant to a statute requiring it to appoint the chief executive as a member of the council.
 (2) Repeal section 174(2) and (2A).
-(3) In subsection (3), before paragraph (a), insert:.
+(3) In subsection (3), before paragraph (a), insert:
   (aa) has, after the commencement of section 7 of the Education Amendment Act 2015, been removed as a member of the council of some other institution; or
 
 ### 9 Section 176 replaced (Casual vacancies)
@@ -182,7 +182,7 @@ In section 178(3), replace 5 with 3.
 
 ### 13 Section 194 amended (Statutes)
 (1) Repeal section 194(1)﻿(c) and (d).
-(2) Insert in section 194(1), after paragraph (i):.
+(2) Insert in section 194(1), after paragraph (i):
   (ia) any of the matters stated in section 171C:
 
 ### 14 Sections 222AB, 222AC, 222AE, 222AH, and 222AI repealed
@@ -196,7 +196,7 @@ Repeal sections 222AB, 222AC, 222AE, 222AH, and 222AI.
 (3) In section 233(5)﻿(a) and (b), replace withdraws with cancels.
 
 ### 16 Section 233D amended (Cancellation of registration)
-(1) After section 233D(1)﻿(b), insert:.
+(1) After section 233D(1)﻿(b), insert:
   (ba) if it is satisfied on reasonable grounds that the establishment has failed or refused to comply with any relevant duties or obligations under this Act, including, but not limited to, the obligations relating to student fee protection; or
 (2) In section 233D(4), after registration, insert under this section.
 
@@ -218,7 +218,7 @@ Replace section 233E with:Effect of cancellation
   (6) No notice is required to be given to a registered private training establishment for a withdrawal under subsection (5).
 
 ### 19 Section 234C amended (Interpretation)
-In section 234C(1), replace the definition of refund period with:.
+In section 234C(1), replace the definition of refund period with:
   - **refund period** means,—
     (a) in relation to a domestic student who, on or after 1 January 2015, is enrolled in a programme or part of a programme, or enrolled in a training scheme, the period of time that begins when the student’s fees are paid to the private training establishment (or paid directly to the independent trustee) and ends on the later of 7 days after—
       (i) the first day of the programme or scheme for which the attendance of the student at the establishment is required; or
@@ -236,13 +236,13 @@ Replace section 235A(4) with:
   (4) In this section, refund period means the period that begins when the student’s fees are paid to the private training establishment (or paid directly to the independent trustee) and ends on the date specified in the notice made under section 235B.
 
 ### 22 Section 235B amended (Refund requirements set by Gazette notice)
-Replace section 235B(1)﻿(a) with:.
+Replace section 235B(1)﻿(a) with:
   (a) either—
     (i) the end of the period within which an international student may withdraw from a programme or training scheme of 3 months' duration or more and be entitled to a refund under that section; or
     (ii) a means by which the end of that period may be calculated or ascertained; and
 
 ### 23 Section 236A amended (Duties of private training establishments to maintain student records)
-Replace section 236A(1)﻿(a) with:.
+Replace section 236A(1)﻿(a) with:
   (a) keep accurate enrolment and academic records for each student enrolled in—
     (i) a programme or training scheme provided by the establishment; or
     (ii) standards-based study or training provided by the establishment through a consent to assess against standards granted under section 252; and
@@ -325,7 +325,7 @@ Replace section 238G with:Appointment of code administratorCode administrator ma
   (2) If satisfied that a signatory provider has not complied with a sanction imposed under subsection (1) or a notice under section 238FB, the code administrator may remove the signatory provider as a signatory to the code.
 
 ### 28 Section 238I amended (Purpose and administration of export education levy)
-After subsection (1)﻿(b), insert:.
+After subsection (1)﻿(b), insert:
   (ba) the funding of the operation of the International Student Contract Dispute Resolution Scheme provided for by section 238J:
 
 ### 29 New sections 238J to 238M inserted
@@ -374,7 +374,7 @@ In section 251A(1), replace the rules made under section 253(1)﻿(c) with the r
 (2) In section 252A(1), replace on the approval with on the consent.
 
 ### 34 Section 253 amended (Rules)
-(1) After section 253(1)﻿(p), insert:.
+(1) After section 253(1)﻿(p), insert:
   (pa) prescribing the quality assurance requirements for tertiary education bodies in respect of whom the Authority grants approvals or consents under this Part:
   (pb) prescribing the types of programmes and training schemes that are exempt from the requirements specified in section 234E(1):
 (2) After section 253(3), insert:
