@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2015-06-25_
+_Consolidation as at 2015-07-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -1532,14 +1532,7 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 (3) The rate is on that date replaced with a new rate calculated by adding to the rate an amount equal to 10% of the rate.
 
 ### 79AC Rates of duties on motor spirits increased by 3 cents on 1 July in 2013, 2014, and 2015
-(1) In accordance with section 76G(1), this section amends the Excise and Excise-equivalent Duties Table.
-(2) A rate in that Table is amended by this section only if the rate is one that is—
-  (a) a rate of excise duty or excise-equivalent duty on motor spirits (as defined in subsection (4)); and
-  (b) a rate of that kind expressed either as a rate per l or as a rate per l ms; and
-  (c) not a component of a rate of that kind that is a component expressed as plus a stated amount per g of Pb; and
-  (d) in force immediately before 1 July in 2013, 2014, or 2015.
-(3) The rate is on that date replaced with a new rate calculated by adding to the rate the amount of 3 cents.
-(4) Motor spirits, in this section, means any 1 or more fuels that are, or that contain, motor spirit.
+[Repealed]
 
 ### 79A Power to alter rates of excise duty and excise-equivalent duty on motor spirits by Order in Council
 (1) At any time during the second financial year, or the third financial year, that follows the financial year in which any current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending the Excise and Excise-equivalent Duties Table.
