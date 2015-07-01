@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2015-02-13_
+_Consolidation as at 2015-07-01_
 
 > An Act to reform the administration of education
 
@@ -1111,7 +1111,7 @@ The Secretary may at any time suspend the registration of a school registered un
 ### 35P Providing accounts to Secretary
 As soon as practicable after the end of each financial year during which a school's managers are required by section 35O to keep records, they must—
   (a) have prepared an income and expenditure account, showing all financial transactions for the year records of which are required to be kept; and
-  (b) have the account audited by a chartered accountant; and
+  (b) have the account audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013); and
   (c) give the Secretary copies of the account and the audit report on it.
 
 **Suspensions and expulsions from private schools**
@@ -2504,306 +2504,91 @@ Every reference in any—to the school committee, committee of management, or bo
 ## Part 10 — Teacher registration
 
 ### 120 Interpretation
-In this Part and Schedule 7, unless the context otherwise requires,—
-  - **authorisation** , in relation to any person, means the entry of the person's name on the list of authorised people; and has a corresponding meaning
-  - **early childhood education and care service** means—
-    (a) a free kindergarten that is an early childhood service whose licence permits no child to attend for a period of more than 4 hours on any day; and
-    (b) any other early childhood service that is declared by regulations made under section 69(2) of the Education Standards Act 2001 to be an early childhood education and care service for the purposes of this Part
-  - **early childhood service** means a licensed early childhood service (as defined in section 309)
-  - **employer** means any one of the following who employs, or intends to employ, 1 or more teachers or authorised persons in a teaching position:
-    (a) the board of trustees of a State school:
-    (ab) the sponsor of a partnership school kura hourua:
-    (b) the managers of a school registered under section 35A:
-    (c) the person or body who appoints staff at an early childhood education and care service:
-    (d) the Secretary, in his or her capacity as an employer under section 91N
-  - **free kindergarten** means an early childhood education and care centre (as defined in section 309) controlled by a free kindergarten association founded for the purpose of establishing and maintaining a kindergarten or kindergartens
-  - **general education system** means the system of education provided in—
-    (a) registered schools (as defined in section 2); and
-    (b) early childhood services; and
-    (c) other educational institutions and services established or deemed to have been established, or provided, under this Act or the Education Act 1964
-  - **list of authorised people** means the list kept under section 130F
-  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
-  - **partnership school kura hourua** has the meaning given by section 2(1)
-  - **practising certificate** means a certificate issued under section 130(1A) or (6)
-  - **professional leader** means,—
-    (a) in the case of a school other than a partnership school kura hourua, the principal:
-    (ab) in the case of a partnership school kura hourua, the person to whom the sponsor has assigned the role of supervising teaching practice:
-    (b) in the case of an early childhood service, the professional leader of the service:
-    (c) in the case of any other educational institution, the chief executive or person occupying an equivalent position
-  - **register** means the list kept under section 128
-  - **registration** , in relation to any person, means the entry of the person's name on the register; and has a corresponding meaning
-  - **satisfactory recent teaching experience** , in relation to any person at any time, means—satisfactorily completed by the person during the 5 years before that time
-    (a) an uninterrupted period of employment of 2 years (or some shorter period or periods approved by the Teachers Council for the person) in a teaching position or teaching positions in the general education system; or
-    (b) a period of employment of 2 years (or some shorter period or periods approved by the Teachers Council for the person), in a position (or positions) that (or each of which) was in the Teachers Council's opinion equivalent to a teaching position, in an educational institution in New Zealand approved by the Teachers Council for the purposes of this Part—
-  - **sponsor** has the meaning given by section 2(1)
-  - **Teachers Council** means the New Zealand Teachers Council established under Part 10A
-  - **teaching position** means a position in the general education system that—
-    (a) requires its holder to instruct students; or
-    (b) is the professional leader, deputy professional leader (however described), or assistant principal of a school; or
-    (c) is the professional leader of an early childhood service or other educational institution.
+[Repealed]
 
 **Restrictions on appointment and employment of teaching staff**
 
 ### 120A Restrictions on appointment of teachers
-(1) An employer must not appoint to a teaching position—
-  (a) any person—
-    (i) whose registration has been cancelled; and
-    (ii) who has not since been registered again; or
-  (b) any person whose practising certificate is suspended under section 139AU or 139AW(1)﻿(d); or
-  (c) any person whose authorisation has been cancelled, and who has not since—
-    (i) been authorised again; or
-    (ii) been registered as a teacher; or
-  (d) any person whose limited authority to teach is suspended under section 139AU or 139AW(1)﻿(d).
-(2) No employer, other than a sponsor, shall permanently appoint to any teaching position any person who does not hold a practising certificate.
-(3)
+[Repealed]
 
 ### 120B Restrictions on continued employment of teachers
-(1) An employer must not continue to employ in a teaching position—
-  (a) any person—
-    (i) whose registration has been cancelled; and
-    (ii) who has not since been registered again; or
-  (b) any person whose practising certificate is suspended under section 139AW(1)﻿(d); or
-  (c) any person whose authorisation has been cancelled, and who has not since—
-    (i) been authorised again; or
-    (ii) been registered as a teacher; or
-  (d) any person whose limited authority to teach is suspended under section 139AW(1)﻿(d).
-(2) No employer, other than a sponsor, shall continue to employ in any teaching position any person who holds neither a practising certificate nor an authorisation, if that person is not under the general supervision of a person who holds a practising certificate.
-(3) No employer, other than a sponsor, shall in any calendar year continue to employ in any teaching position any person who holds neither a practising certificate nor an authorisation, if the sum of—is not less than the period specified in subsection (4).
-  (a) the period or periods for which that person has already during that year been employed by the employer in a teaching position or positions; and
-  (b) any period or periods (of which the employer is aware) for which that person has already during that year been employed by any other employer in a teaching position or positions; and
-  (c) any period or periods (of which the employer is aware) for which that person has during that year been employed as a teacher by the employer at an early childhood education and care service,—
-(4) The period referred to in subsection (3) is—each being a half-day on which the school or early childhood education and care service at which the person was then employed was open for instruction.
-  (a) 20 half-days; or
-  (b) any greater number of half-days the Teachers Council has allowed in any particular case,—
-(5)
+[Repealed]
 
 ### 120C Restrictions on activities of teachers whose practising certificate or limited authority to teach subject to interim suspension
-(1) This subsection applies to a person employed in a teaching position if—
-  (a) he or she holds a practising certificate that is suspended under section 139AU; or
-  (b) he or she has a limited authority to teach that is suspended under section 139AU.
-(2) While subsection (1) applies to a person, his or her employer—
-  (a) must ensure that he or she does not carry out any of the duties of the teaching position concerned; and
-  (b) if the person is employed at a registered school (within the meaning of section 2(1)) or an early childhood education and care service, must take all reasonably practicable steps to ensure that he or she does not undertake any activities that might bring him or her into contact with students enrolled at the school or, as the case may be, children who attend the service.
-(3) While subsection (1) applies to a person, he or she must not carry out any of the duties of the teaching position concerned.
+[Repealed]
 
 **Teacher registration**
 
 ### 121 Applications for registration as teacher
-Any person may apply to the Teachers Council, on a form provided by the Teachers Council for the purpose and signed by the applicant, for registration as a teacher.
+[Repealed]
 
 ### 122 Full registration
-The Teachers Council shall register an applicant under section 121 if satisfied that the applicant—
-  (a) is of good character; and
-  (b) is fit to be a teacher; and
-  (c) is satisfactorily trained to teach; and
-  (d) has satisfactory recent teaching experience.
+[Repealed]
 
 ### 123 Provisional registration
-(1) Subject to subsections (2) and (3), the Teachers Council shall register an applicant under section 121 who is not eligible for registration under section 122 or section 124 if satisfied that the applicant—
-  (a) is of good character; and
-  (b) is fit to be a teacher; and
-  (c) is satisfactorily trained to teach; and
-  (d) either—
-    (i) has not previously been registered; or
-    (ii) is likely to be a satisfactory teacher.
-(2) Where the Teachers Council registers a teacher under subsection (1), it shall ensure that the registration shows that the teacher's registration is provisional only.
-(3) Where, before a teacher's registration under subsection (1) expires or is cancelled, the Teachers Council is satisfied that the teacher has satisfactory recent teaching experience, it shall confirm the registration and amend the entry in the register so as to make clear that the registration has been confirmed.
-(4)
+[Repealed]
 
 ### 124 Registration of experienced teachers
-(1) Subject to subsections (2) and (3), the Teachers Council shall register an applicant under section 121 who is not eligible for registration under section 122 if satisfied that the applicant—
-  (a) is of good character; and
-  (b) is fit to be a teacher; and
-  (c) is satisfactorily trained to teach; and
-  (d) either—
-    (i) has not previously been registered under this section; or
-    (ii) is likely to be a satisfactory teacher; and
-  (e) either—
-    (i) has previously been registered (or has been deemed to have been registered) under section 122; or
-    (ii) has had adequate and suitable teaching experience.
-(2) Where the Teachers Council registers a teacher under subsection (1), it shall ensure that the registration shows that the teacher's registration is subject to confirmation.
-(3) Where, before a teacher's registration under subsection (1) expires or is cancelled,—the Teachers Council shall confirm the registration, and amend the entry in the register so as to make clear that the registration has been confirmed.
-  (a) the Teachers Council is satisfied that the teacher—
-    (i) is familiar enough with current curricula and procedures in the general education system; and
-    (ii) is a satisfactory teacher; and
-  (b) either—
-    (i) a year has passed since the registration; or
-    (ii) more than 3 months has passed since the registration, and the professional leader of the school, early childhood service, or other educational institution within the general education system at which the teacher is employed so recommends,—
-(4)
+[Repealed]
 
 ### 124A Determining whether or not training satisfactory
-(1) In determining whether or not a person is satisfactorily trained to teach, the Teachers Council may take into account any relevant matters.
-(2) In determining whether or not a person is satisfactorily trained to teach, the Teachers Council shall take into account—
-  (a) the person's qualifications; and
-  (b) whether or not the person has satisfactorily completed training recognised by the Teachers Council as suitable for people who want to teach.
-(3) Subsection (2) does not affect the generality of subsection (1).
+[Repealed]
 
 ### 124B Determining good character and fitness to be teacher
-(1) For the purpose of determining whether a person is of good character and fit to be a teacher, the Teachers Council must obtain a Police vet of the person.
-(2) Subsection (1) does not limit any other matters that the Teachers Council may take into account in determining character and fitness to be a teacher.
+[Repealed]
 
 ### 125 Determining whether or not employment satisfactorily completed
-(1) In determining whether or not a period of employment was satisfactorily completed by a person, the Teachers Council may take into account any relevant matters.
-(2) In determining whether or not a period of employment at a school, early childhood service, or other educational institution in New Zealand was satisfactorily completed by a person, the Teachers Council may take into account—
-  (a) the views of the professional leader of the school, early childhood service, or other educational institution; or
-  (b) if the person was the professional leader of a school, early childhood service, or other educational institution, the views of his or her employer.
-(3) Subsection (2) does not affect the generality of subsection (1).
+[Repealed]
 
 ### 126 Appeals from decisions of Teachers Council
-(1) A person who is dissatisfied with all or any part of a decision of the Teachers Council under sections 122, 123, 124, 129(1)﻿(a) or (b), or 130 (whether a decision to act or a decision to refuse to act) may, within 28 days of receiving notice of the decision from the Teachers Council or any longer period the court, on application made before or after the end of the period, allows, appeal to a District Court against the decision.
-(2)
-(3) The court shall hear the appeal as soon as is practicable, and may confirm, reverse, or modify the decision concerned, or may refer the matter back to the Teachers Council in accordance with rules of court, or may give any decision that the Teachers Council could have given.
-(4) Nothing in this section gives the court power to review any part of the Teachers Council's decision that the appellant has not appealed against.
-(5) Subject to any order of the court, every decision of the Teachers Council continues in force and has effect pending the determination of an appeal against it.
-(6) On any appeal under this section, the court may order the Teachers Council or the appellant to pay the costs incurred by the other party in respect of the appeal.
-(7) The Teachers Council or the appellant may, with the leave of the High Court or the Court of Appeal, appeal to the Court of Appeal against any decision on a question of law made by the District Court on an appeal under this section.
+[Repealed]
 
 ### 127 Expiry of teacher registration
-(1) A teacher's registration expires,—
-  (a) in the case of a registration under section 124(1) that has not earlier been confirmed under section 124(3), after 3 years:
-  (b) in the case of the registration of a teacher who has never held a practising certificate, after 5 years:
-  (c) in the case of a provisional registration under section 123(1) that has not earlier been confirmed under section 123(3), after—
-    (i) 5 years; or
-    (ii) if the Teachers Council has, before the expiration of 5 years, allowed the teacher a further year, 6 years:
-  (d) in the case of the registration of a teacher who has held a practising certificate but no longer holds one, on the fifth anniversary of the expiry of the practising certificate most recently issued to the teacher:
-  (e) when the teacher dies.
-(2) When a teacher's registration expires, the teacher's name must be removed from the register kept under section 128.
+[Repealed]
 
 ### 127A Voluntary deregistration
-(1) The Teachers Council must deregister a person if—
-  (a) the Teachers Council receives a written request from the person seeking deregistration; and
-  (b) the Teachers Council is satisfied that the person is not the subject of an investigation under Part 10A.
-(2) This section applies to both teachers and holders of limited authorities to teach.
+[Repealed]
 
 ### 128 Teachers Council to keep register
-(1) For the purposes of this Part, the Teachers Council shall keep a list of people for the time being registered as teachers.
-(2) If the Teachers Council is satisfied that any of the information contained in the register is incorrect, the Council must ensure that the error is corrected.
+[Repealed]
 
 ### 128A Matching of register information and information about payment of teacher salaries at payrolled schools
-(1) The purpose of this section is to facilitate the exchange of information between the Ministry and the Teachers Council for the purposes of enabling—
-  (a) the Teachers Council, in regard to people employed in teaching positions, to identify—
-    (i) the person's employer; and
-    (ii) the person's registration status; and
-  (b) the Ministry, in regard to regular teachers and relieving teachers in receipt of salaries at payrolled schools, to identify their salary entitlement or eligibility, if any, for an allowance on the basis of their registration, if any.
-(2) For the purpose set out in subsection (1)﻿(a), the Teachers Council may from time to time, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teachers Council,—
-  (a) require the Secretary to supply all or any of the following information in regard to all or any regular teachers and relieving teachers in receipt of salaries at payrolled schools:
-    (i) surname:
-    (ii) first name:
-    (iii) date of birth:
-    (iv) gender:
-    (v) address:
-    (vi) the school at which the person is employed:
-    (vii) payroll number:
-    (viii) registration number; and
-  (b) compare the information supplied under paragraph (a) with the information contained in the register.
-(3) For the purpose set out in subsection (1)﻿(b), the Secretary may from time to time, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teachers Council,—
-  (a) require the Teachers Council to supply all or any of the following information in regard to all or any people registered as teachers:
-    (i) surname:
-    (ii) first name:
-    (iii) date of birth:
-    (iv) gender:
-    (v) address:
-    (vi) the school at which the person is employed:
-    (vii) registration number:
-    (viii) registration expiry date:
-    (ix) registration classification; and
-  (b) compare the information supplied under paragraph (a) with the information held by the Ministry in regard to regular teachers and relieving teachers in receipt of salaries at payrolled schools.
-(4) In this section, Ministry, payrolled school, regular teacher, relieving teacher, school, and Secretary have the same meanings as in section 91A.
+[Repealed]
 
 ### 129 Cancellation of registration as teacher and cancellation of limited authority to teach
-(1) The Teachers Council must cancel a person's registration or limited authority to teach, if—
-  (a) the Teachers Council is satisfied on reasonable grounds that,—
-    (i) in the case of a teacher, the teacher no longer satisfies the requirements for registration as a teacher (as set out in section 122); or
-    (ii) in the case of an authorised person, the person no longer satisfies the requirements for holding a limited authority to teach (as set out in section 130B(2)); or
-  (b) the Teachers Council is satisfied on reasonable grounds that the registration or authorisation was effected by mistake or obtained by fraud; or
-  (c) the Disciplinary Tribunal has ordered, under section 139AW(1)﻿(g), that the registration or limited authority to teach be cancelled; or
-  (d) the Teachers Council has ordered, under section 139AZCB(b), that the registration or limited authority to teach be cancelled.
-(2) The Teachers Council may not cancel a teacher's registration or an authorised person's limited authority to teach under subsection (1)﻿(a) or (b) without first—
-  (a) taking all reasonable steps to ensure that the teacher or authorised person is given notice of the reasons for the proposed cancellation; and
-  (b) giving the teacher or authorised person a reasonable opportunity to make submissions and be heard, either in person or by counsel or other representative, on the proposed cancellation.
-(3) The fact that a teacher's registration or an authorised person's limited authority to teach has been cancelled does not prevent the teacher or authorised person from again being registered or being given a limited authority to teach.
-(4) If a person's registration is ordered to be cancelled under section 139AZCB(b), and the person later applies for registration or for a limited authority to teach, he or she must be treated as a person who has not held a practising certificate for 5 years.
-(5) The Teachers Council must take all reasonable steps to ensure that employers are informed of the name of every person whose registration or limited authority to teach is cancelled—
-  (a) under this section; or
-  (b) as a result of the Teachers Council refusing to renew the person's registration, or to grant a limited authority to teach, on the ground that the person is not of good character or is not fit to be a teacher.
+[Repealed]
 
 ### 129A Reclassification of teacher's registration
-(1) The Teachers Council may, instead of cancelling a teacher's registration under section 129(1)﻿(a), reclassify the registration if the Teachers Council is satisfied that the only requirement that the teacher does not meet is the requirement for recent teaching experience (as required by section 122(d)).
-(2) If a teacher's registration is reclassified, the registration must show that it is subject to confirmation; and this Act applies as if the teacher were registered under section 124(1).
+[Repealed]
 
 ### 130 Practising certificates
-(1) Any person may apply to the Teachers Council, on a form provided by the Council, for a practising certificate.
-(1A) The Teachers Council must issue a practising certificate to every applicant who—
-  (a) is registered as a teacher; and
-  (b) has had a satisfactory Police vet within the past 3 years.
-(2) A teacher's practising certificate shall show clearly that the teacher is—
-  (a) fully registered; or
-  (b) registered subject to confirmation; or
-  (c) provisionally registered.
-(3) Where a teacher's registration under section 123(1) or section 124(1) is confirmed, the teacher may obtain, in place of a current practising certificate showing that the teacher is registered subject to confirmation or is provisionally registered, a practising certificate showing that the teacher is fully registered.
-(4) Unless it is sooner cancelled or expires—
-  (a) a practising certificate issued under subsection (3) expires when the practising certificate in place of which it was issued would have expired:
-  (b) except as provided in paragraph (a), a practising certificate issued to a teacher who already holds a current practising certificate expires on the third anniversary of the day on which the certificate already held expires:
-  (c) a practising certificate issued to a teacher who does not already hold a current practising certificate expires on the third anniversary of the day it is issued:
-  (d) a practising certificate expires when the holder's registration expires.
-(5) A practising certificate expires when its holder's registration is cancelled.
-(6) If a teacher applies to renew his or her practising certificate, the Teachers Council may issue a renewed practising certificate only if it is satisfied that the teacher—
-  (a) continues to meet the criteria for registration; and
-  (b) has satisfactory recent teaching experience; and
-  (c) has had a satisfactory Police vet within the past 3 years; and
-  (d) has completed satisfactory professional development during the past 3 years.
-(7) This subsection applies to a renewed practising certificate issued to a person if—
-  (a) the practising certificate he or she already holds when the renewed certificate is issued is suspended under section 139AU; or
-  (b) he or she does not already hold a practising certificate when the renewed certificate is issued; but—
-    (i) the practising certificate he or she last held was suspended under section 139AU when it expired; and
-    (ii) its suspension was not due to expire until a time after the issue of the renewed certificate.
-(8) A renewed practising certificate to which subsection (7) applies must be treated as being suspended under section 139AU; and its suspension expires when the suspension of the previous practising certificate held by its holder would have expired.
+[Repealed]
 
 **Limited authority to teach**
 
 ### 130A Purpose of limited authority to teach
-Where any person has skills and experiences that are appropriate to advance the learning of a student or group of students in any particular institution, but who may not have a specific qualification normally associated with teaching, and provided that person meets the tests set out in section 130B, that person shall on application to the Teachers Council, be granted a limited authority to teach.
+[Repealed]
 
 ### 130B Limited authority to teach
-(1) Any person may apply to the Teachers Council, on a form provided by it for the purpose, for limited authority to teach.
-(2) The Teachers Council shall authorise an applicant if (and only if) satisfied that the applicant—
-  (a) is of good character; and
-  (b) is fit to be a teacher; and
-  (c) is likely to be a satisfactory teacher.
-(3) Subject to subsection (2), and subsection (2) of section 130E, a person who has previously been authorised may be authorised again, whether before or after the expiry or cancellation of the previous authorisation.
+[Repealed]
 
 ### 130C Determining character and likely teaching ability
-(1) In determining—the Teachers Council shall take into account and give due weight to—
-  (a) whether or not a person is of good character; or
-  (b) whether or not a person is fit to be a teacher; or
-  (c) whether or not a person is likely to be a satisfactory teacher,—
-  (d) the purpose of the limited authority to teach as set out in section 130A; and
-  (e) the views of the professional leader of the school, early childhood service, or other educational institution at which the person has been employed; and
-  (f) if the person is the professional leader of a school, early childhood service, or other educational institution, the views of his or her employer; and
-  (g) any relevant skills and experiences of the applicant; and
-  (h) any other relevant matters.
-(2) For the purpose of determining whether a person is of good character and fit to be a teacher, the Teachers Council must obtain a Police vet of the person.
-(3) Subsection (2) does not limit any other matters that the Teachers Council may take into account in determining good character and fitness to be a teacher.
+[Repealed]
 
 ### 130D Appeals from decisions
-(1) Any person who is dissatisfied with all or any part of a decision of the Teachers Council under section 130B (whether a decision to act or a decision to refuse to act) may, within 28 days of receiving notice of the decision from the Teachers Council or any longer period the court (on application made before or after the end of the period) allows, appeal against the decision to a District Court.
-(2) Subsections (3) to (7) of section 126 apply to every appeal under subsection (1) of this section as if it is an appeal under subsection (1) of that section.
+[Repealed]
 
 ### 130E Period of authorisation
-(1) Subject to subsection (2), a teacher's authorisation expires after 12 months.
-(2) Notwithstanding subsection (1), the Teachers Council may grant the authorisation for a period longer than 12 months.
+[Repealed]
 
 ### 130F Teachers Council to keep list
-The Teachers Council shall keep a list of people for the time being authorised.
+[Repealed]
 
 ### 130G Cancellation of authorisation
 [Repealed]
 
 ### 130H Fees and costs
-(1) The Teachers Council may from time to time by notice in the Gazette, with the written approval of the Minister, fix fees for the granting of limited authority to teach.
-(2) Notwithstanding anything in this Act, the Teachers Council may refuse to grant any person a limited authority to teach until the appropriate fee has been paid.
-(3) Where the Teachers Council cancels a limited authority to teach, it may, by written notice to the person concerned, require the person to pay the Teachers Council any reasonable costs specified in the notice that were incurred by the Teachers Council in dealing with the proposal to cancel the authority or with the cancellation itself.
-(4) The Teachers Council may recover from any person as a debt due to it costs required by subsection (3) to be paid to the Teachers Council by that person.
+[Repealed]
 
 **Teacher Registration Board**
 
@@ -2823,39 +2608,13 @@ The Teachers Council shall keep a list of people for the time being authorised.
 [Repealed]
 
 ### 135A Teachers Council may disclose certain information
-The management of any registered early childhood centre that is not an early childhood education and care service may ask the Teachers Council to comment on any person who is a prospective employee; and in that case the Teachers Council may—
-  (a) make in respect of that person any inquiry it might have made if that person had applied for registration as a teacher:
-  (b) disclose to the management any information it holds or has obtained about that person.
+[Repealed]
 
 ### 136 Teachers Council may charge fees and impose costs
-(1) The Teachers Council may from time to time by notice in the Gazette, with the written approval of the Minister, fix fees for registration as a teacher or for the issue of practising certificates; and different fees may be fixed—
-  (a) in respect of registration effected in different circumstances; and
-  (b) for practising certificates of different kinds.
-(2) Notwithstanding anything in this Act, the Teachers Council may refuse to register a person as a teacher or issue a practising certificate until the appropriate fee has been paid.
-(3) Where the Teachers Council cancels a teacher's registration it may, by written notice to the teacher, require the teacher to pay the Teachers Council any reasonable costs specified in the notice that were incurred by the Teachers Council in dealing with the proposal to cancel the registration or with the cancellation itself.
-(4) The Teachers Council may recover from a teacher as a debt due to it costs required under subsection (3) to be paid to the Teachers Council by the teacher.
+[Repealed]
 
 ### 137 Offences
-(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who—
-  (a) makes to the Teachers Council any statement as to any person's qualifications or experience that would amount to perjury if made on oath in judicial proceedings; or
-  (b) not being a registered teacher uses, or permits to be used, in connection with the person's name or business, the words registered teacher, or any words or initials intended or likely to make any other person believe that the person is a registered teacher; or
-  (c) wilfully makes, or causes to be made, a false entry in or falsification of the register or a practising certificate; or
-  (d) falsely represents a document that is not a practising certificate to be a practising certificate; or
-  (e) falsely represents a document that is not a limited authority to teach to be a limited authority to teach; or
-  (f) is appointed to or continues to be employed in a position, knowing that the appointment or employment is contrary to section 120A or section 120B; or
-  (fa) being the employer of a person to whom section 120C(1) applies, fails or refuses to ensure that the person does not carry out any of the duties of the teaching position in which he or she is employed; or
-  (fb) being the employer of a person to whom section 120C(1) applies, fails or refuses to take all reasonably practicable steps to ensure that the person does not undertake any activities that might bring him or her into contact with students enrolled at the school or, as the case may be, children who attend the service; or
-  (fc) being a person to whom section 120C(1) applies, carries out any of the duties of the teaching position in which he or she is employed; or
-  (g)
-  (h) being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of an employer other than a sponsor in a teaching position after the sum of—is not less than 20 half-days, or any greater number of half-days the Teachers Council has allowed that person (each being a half-day on which a school or early childhood education and care service at which the person was then employed was open for instruction); or
-    (i) the period or periods for which that person has already during that year been employed by the employer in a teaching position or positions; and
-    (ii) any period or periods for which that person has already during that year been employed by any other employer in a teaching position or positions; and
-    (iii) any period or periods for which that person has during that year been employed as a teacher by the employer at an early childhood education and care service,—
-  (i) being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of the employer at an early childhood education and care service as a teacher after the sum of—is not less than 20 half-days, or any greater number of half-days the Teachers Council has allowed that person (each being a half-day on which an early childhood education and care service or school at which the person was then employed was open for instruction).
-    (i) the period or periods for which that person has already during that year been employed by the employer as a teacher; and
-    (ii) any period or periods for which that person has already during that year been employed by an employer at any other early childhood education and care service as a teacher; and
-    (iii) any period or periods for which that person has during that year been employed in a teaching position by the employer at a State school,—
-(2) Every person commits an offence, and is liable on conviction to a fine not exceeding $5,000, who appoints any person to a position, or continues to employ any person in a position, knowing that the appointment or employment is contrary to section 120A or section 120B.
+[Repealed]
 
 ### 138 Council to notify cancellations
 [Repealed]
@@ -2867,391 +2626,127 @@ The management of any registered early childhood centre that is not an early chi
 [Repealed]
 
 ### 139 Transitional provisions
-(1) This Act shall apply to any period of registration as a teacher under the Education Act 1964 as if it was a period of registration under this Act.
-(2)
-(3)
-(4)
-(5) For the purposes only of sections 122 to 124, employment before the commencement of this section in a registered school (within the meaning of the Education Act 1964) shall be deemed to have been employment in the general education system.
+[Repealed]
 
 ## Part 10A — New Zealand Teachers Council
 
 ### 139AA Purpose of Part
-The purpose of this Part is to provide professional leadership in teaching, enhance the professional status of teachers in schools and early childhood education, and contribute to a safe and high quality teaching and learning environment for children and other learners.
+[Repealed]
 
 ### 139AB Interpretation
-(1) In this Part, unless the context otherwise requires,—
-  - **authorised person** means the holder of an authority
-  - **authority** means a limited authority to teach given under Part 10
-  - **Complaints Assessment Committee** means the Complaints Assessment Committee established by rules
-  - **disciplinary body** means either or both of the Complaints Assessment Committee and the Disciplinary Tribunal
-  - **Disciplinary Tribunal** means the Disciplinary Tribunal established by rules
-  - **rules** means rules made under section 139AJ
-  - **serious misconduct** means conduct by a teacher—
-    (a) that—
-      (i) adversely affects, or is likely to adversely affect, the well-being or learning of 1 or more students; or
-      (ii) reflects adversely on the teacher's fitness to be a teacher; and
-    (b) is of a character or severity that meets the Teachers Council's criteria for reporting serious misconduct
-  - **teacher** includes—
-    (a) a registered teacher; and
-    (b) a former registered teacher; and
-    (c) an authorised person; and
-    (d) a former authorised person.
-(2) Terms in this Part that are defined in section 120 have the meanings given to them by that section.
+[Repealed]
 
 **Teachers Council**
 
 ### 139AC New Zealand Teachers Council established
-(1) The New Zealand Teachers Council (Teachers Council) is established.
-(2) The Teachers Council is owned by the Crown.
-(3) The Teachers Council is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(4) The Crown Entities Act 2004 applies to the Teachers Council except to the extent that this Act expressly provides otherwise.
-(5) The members of the Teachers Council are the board for the purposes of the Crown Entities Act 2004.
+[Repealed]
 
 ### 139AD Composition of Teachers Council
-(1) The Teachers Council comprises 11 members, as follows:
-  (a) 4 members appointed by the Minister:
-  (b) 4 elected members (each of whom must be a registered teacher holding a current practising certificate), being—
-    (i) 1 teacher representing the early childhood sector, elected by teachers from that sector; and
-    (ii) 1 teacher representing the primary sector, elected by teachers from that sector; and
-    (iii) 1 teacher representing the secondary sector, elected by teachers from that sector; and
-    (iv) 1 principal, elected by principals:
-  (c) 1 person appointed by the Minister on the nomination of the New Zealand Educational Institute:
-  (d) 1 person appointed by the Minister on the nomination of the New Zealand Post Primary Teachers' Association:
-  (e) 1 person appointed by the Minister on the nomination of the New Zealand School Trustees Association.
-(1A) The Minister must appoint one of the members appointed under subsection (1)﻿(a) as chairperson, despite clause 1 of Schedule 5 of the Crown Entities Act 2004.
-(2) The elected members of the Teachers Council must be elected in accordance with rules made under section 139AJ(1)﻿(a) by registered teachers who each hold a current practising certificate.
-(3) The first elections for the elected members must be held as soon as practicable after the commencement of this section but, until the date on which the elected members take office following those elections, the positions of the elected members must be filled by persons appointed by the Minister.
-(4) In order to provide for the staggered turnover of members, the Minister may specify, when appointing members to hold office when this section comes into force, which members are to hold office for 3 years (which is the standard term of office), and which are to hold office for 18 months.
-(5) An elected member becomes a member of the Council on the date fixed by the Council as the date on which elected members take office.
-(6) The term of office of every elected member is 3 years.
-(7) Despite subsection (6), every elected member continues in office until his or her successor comes into office.
+[Repealed]
 
 ### 139AE Functions of Teachers Council
-The functions of the Teachers Council are as follows:
-  (a) to provide professional leadership to teachers and others involved in schools and early childhood education:
-  (b) to encourage best teaching practice:
-  (c) to carry out the functions under Part 10 relating to teacher registration:
-  (d) to determine standards for teacher registration and the issue of practising certificates:
-  (e) to establish and maintain standards for qualifications that lead to teacher registration:
-  (f) to conduct, in conjunction with quality assurance agencies, approvals of teacher education programmes on the basis of the standards referred to in paragraph (e):
-  (g) to develop a code of ethics for teachers, after consultation with the State Services Commissioner and after having regard to any code of conduct issued by him or her under section 57 of the State Sector Act 1988:
-  (h) to exercise the disciplinary functions in this Part relating to teacher misconduct and reports of teacher convictions:
-  (i) to set the criteria for reporting serious misconduct and for reporting on competence issues:
-  (j) to exercise the functions in this Part relating to teacher competence:
-  (k) to co-ordinate a system providing for the vetting by the Police of all teachers:
-  (l) to identify research priorities and, where appropriate, to promote and sponsor research according to those priorities:
-  (m) to exercise any other functions conferred on it by this Act, any other enactment, or the Minister in accordance with section 112 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 139AF Powers of Teachers Council
-(1)
-(2)
-(3) The Teachers Council may not charge a commercial rate for any goods and services that it provides unless the Minister has given his or her approval.
-(4) The Teachers Council may, by notice in the Gazette, fix fees for all or any of the following:
-  (a) any addition or alteration to a person's registration as a teacher:
-  (b) any addition or alteration to, or extension of, a person's limited authority to teach:
-  (c) any addition or alteration to a person's practising certificate:
-  (d) inspection of the register of registered teachers or any other register or any other documents kept by the Teachers Council that are open to inspection:
-  (e) the supply of a copy of any entry in a register or other document referred to in paragraph (d):
-  (f) any other matter for which this Act provides that the Teachers Council may charge fees.
+[Repealed]
 
 ### 139AG Ministerial directions
-(1) The Minister may not give directions to the Council in respect of its functions under section 139AE(a) and (b) (which relate to professional leadership and best teaching practice).
-(2) Subsection (1) is an exception to section 104 of the Crown Entities Act 2004.
-(3)
-(4)
-(5)
+[Repealed]
 
 ### 139AH Advisory groups
-(1) The Teachers Council must establish—
-  (a) an early childhood advisory group; and
-  (b) a Maori-medium advisory group.
-(2) The Council may establish any other advisory groups, whether on an ongoing basis or for a fixed term.
-(3) The Council must determine the membership of advisory groups, and their terms of reference, budget, and other matters necessary to ensure their efficient and effective operation.
-(4) The Council must have regard to advice given by an advisory group about any matter within its area of expertise.
+[Repealed]
 
 ### 139AI Code of ethics
-(1) The code of ethics prepared under this section is binding on all teachers who hold a practising certificate and on all authorised persons.
-(2) The Teachers Council must, as soon as practicable after the first elected members of the Council take office, prepare a code of ethics for teachers.
-(3) When preparing the code of ethics (and any amendments to it), the Teachers Council must take all reasonable steps to consult with those who will be bound by it.
-(4) The code of ethics must be signed by the chairperson of the Teachers Council and—
-  (a) notice of it must be given in the Gazette; and
-  (b) the notice must say where copies of the code may be obtained free of charge; and
-  (c) the notice must give the date on which the code comes into force, which must be a date on or after the date of the Gazette notice; and
-  (d) the Teachers Council must take all reasonable steps to ensure that those bound by the code hear of it and are able to obtain copies of it.
-(5) The Council may amend the code of ethics, and every amendment—
-  (a) must be notified in the Gazette; and
-  (b) forms part of the code on the date specified in the notice as the date on which it will come into force.
+[Repealed]
 
 ### 139AJ Teachers Council to make rules
-(1) The Teachers Council must, as soon as practicable after the commencement of this section, make rules providing for—
-  (a) the conduct of elections for elected members and the establishment of rolls for the election of each elected member; and
-  (b) a Complaints Assessment Committee to—
-    (i) investigate complaints of misconduct about, and reports of convictions of, teachers; and
-    (ii) carry out any other function, and exercise any power given under this Act or delegated to it by the Teachers Council; and
-  (c) a Disciplinary Tribunal to conduct hearings relating to misconduct by, and convictions of, individual teachers, and to exercise the powers given under this Act; and
-  (d) the practices and procedures of the disciplinary bodies; and
-  (e) the procedures of the Teachers Council for dealing with reports received under the mandatory reporting provisions in sections 139AK, 139AL, 139AM, 139AN, and 139AP; and
-  (f) the procedures relating to Police vets, and in particular the rights of persons who are vetted; and
-  (g) the amendment and replacement of rules made under this subsection, including any consultation requirements.
-(2) The Teachers Council may make rules for any other purpose relating to the performance of its functions.
-(3) When preparing rules (and any amendments to them), the Teachers Council must take all reasonable steps to consult with those affected by the rules.
-(4) When rules are made under this section,—
-  (a) notice of them must be given in the Gazette; and
-  (b) the notice must say where copies of the rules may be obtained free of charge; and
-  (c) the notice must give the date on which the rules come into force, which must be a date on or after the date of the Gazette notice; and
-  (d) the Teachers Council must take all reasonable steps to ensure that those affected by the rules hear of them and are able to obtain copies of them.
-(5) Rules made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 139AJA Delegations
-(1) The Council may not delegate any of its functions or powers—
-  (a) to make rules:
-  (b) relating to deregistration:
-  (c) to appoint a chief executive.
-(2) This section applies despite section 73 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 139AJB Chief executive
-The Council must from time to time appoint a chief executive, on terms and conditions agreed between the Council and the person appointed, in accordance with section 117 of the Crown Entities Act 2004.
+[Repealed]
 
 ### 139AJC Superannuation
-(1) Any person who, immediately before becoming an employee of the Council, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed for the purpose of that Act to be employed in the Government service so long as he or she continues to be an employee of the Council.
-(2) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the Council were Government service.
-(3) Nothing in subsection (2) entitles a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
-(4) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the Council is the controlling authority.
+[Repealed]
 
 **Mandatory reporting**
 
 ### 139AK Mandatory reporting of dismissals and resignations
-(1) When an employer dismisses a teacher for any reason, the employer must immediately report the dismissal to the Teachers Council.
-(2) An employer must immediately report to the Teachers Council when a teacher resigns from a teaching position if, within the 12 months preceding the resignation, the employer had advised the teacher that it was dissatisfied with, or intended to investigate, any aspect of the conduct of the teacher, or the teacher's competence.
-(3) Every report under this section must be in writing, and must include,—
-  (a) in the case of a report of dismissal, the reason for the dismissal; and
-  (b) in the case of a report of a resignation,—
-    (i) a description of the conduct or competency issues that the employer had been concerned about; and
-    (ii) a report of what action (if any) the employer had taken with respect to the conduct or competency issues.
+[Repealed]
 
 ### 139AL Mandatory reporting of complaints received about former employees
-(1) The former employer of a teacher must immediately report to the Teachers Council if, within 12 months after a teacher ceases to be employed by the employer, the employer receives a complaint about the teacher's conduct or competence while he or she was an employee.
-(2) Every report under this section—
-  (a) must be in writing; and
-  (b) must set out the nature of the complaint; and
-  (c) may include any additional information that the employer considers relevant.
-(3) A former employer must not report a complaint under this section if—
-  (a) it is satisfied that the complaint is malicious, vexatious, or without any foundation; or
-  (b) the complaint is about competence, and the complaint does not meet the Teachers Council's criteria for reporting about competence issues.
+[Repealed]
 
 ### 139AM Mandatory reporting of possible serious misconduct
-(1) The employer of a teacher must immediately report to the Teachers Council if it has reason to believe that the teacher has engaged in serious misconduct.
-(2) Every report under this section must—
-  (a) be in writing; and
-  (b) include a description of the conduct of the teacher that the employer believes to be serious misconduct; and
-  (c) include a description of what action (if any) the employer has taken in relation to it.
+[Repealed]
 
 ### 139AN Mandatory reporting of failure to reach required level of competence
-(1) The employer of a teacher must immediately report to the Teachers Council if it is satisfied that, despite undertaking competency procedures with the teacher, the teacher has not reached the required level of competence.
-(2) Every report under this section must—
-  (a) be in writing; and
-  (b) include a description of the competency issues leading to the report; and
-  (c) include a description of the action that the employer has taken in relation to it.
+[Repealed]
 
 ### 139AO Offence to fail to report
-(1) An employer or former employer commits an offence and is liable on conviction to a fine not exceeding $5,000 if it fails without reasonable justification to report to the Teachers Council as required under any of sections 139AK, 139AL, 139AM, or 139N.
-(2) It is a defence to a charge under subsection (1) against the former employer of a teacher if the former employer proves that it believed on reasonable grounds that, by virtue of section 139AL(3), it was not required to report to the Teachers Council.
+[Repealed]
 
 ### 139AP Mandatory reporting of convictions
-(1) Every teacher who is convicted of an offence punishable by imprisonment for 3 months or more must, within 7 days of conviction, report the conviction to the Teachers Council.
-(2) Failure to report a conviction to the Teachers Council in accordance with subsection (1) is misconduct that may give rise to disciplinary proceedings.
-(3) The Registrar of every court must, unless the court expressly orders otherwise in a particular case, report to the Teachers Council when a person whom the Registrar believes to be, or to have been, a teacher is convicted of an offence punishable by imprisonment for 3 months or more.
-(4) If the Registrar has reported a conviction to the Teachers Council under subsection (3), then, if that conviction is subsequently quashed, the Registrar must notify the Teachers Council of that fact.
+[Repealed]
 
 **Disciplinary functions**
 
 ### 139AQ Disciplinary bodies
-(1) The constitution of the disciplinary bodies must be set out in the rules, and those rules must be consistent with this section.
-(2) Both disciplinary bodies may have members who are not members of the Teachers Council.
-(3) Both disciplinary bodies may operate in panels, and more than 1 panel of each body may operate at any one time.
-(3A) Both disciplinary bodies must include at least 1 member of the Teachers Council.
-(3B) The Disciplinary Tribunal must include at least 1 person who is selected from a list, prepared by the Minister after consultation with the Teachers Council, of people who are neither members of the Teachers Council, nor teachers, employers, or members of an employing body.
-(3C) The majority of members on the Disciplinary Tribunal, and on every panel of the Disciplinary Tribunal, must be registered teachers.
-(4) No member of the Complaints Assessment Committee may be a member of the Disciplinary Tribunal.
-(5) Rules must provide for the replacement of any member of a disciplinary body who, in relation to a particular complaint,—
-  (a) made the complaint; or
-  (b) is otherwise in a position of conflict of interest.
-(6) When performing their functions and exercising their powers, the disciplinary bodies must act in accordance with the rules of natural justice.
+[Repealed]
 
 ### 139AR Complaints of misconduct
-(1) A person who wishes to make a complaint about the conduct of a teacher must first make the complaint to the teacher's employer, unless one of the circumstances in subsection (2)﻿(a) to (d) applies.
-(2) Any person (including a parent, employer, or member of the Teachers Council) may, at any time, make a written complaint to the Teachers Council about the conduct of a teacher—
-  (a) if the complaint is about a teacher who is not currently employed by an employer; or
-  (b) if the complainant considers, on reasonable grounds, that the employer will not be able to deal with the complaint effectively because of an actual or perceived conflict of interest; or
-  (c) if the complaint has been made to the employer, but the complainant is not satisfied with the way in which the complaint is being, or was, dealt with; or
-  (d) in any other exceptional circumstance.
-(3) A complaint under this section by an employer or former employer must include a report of any action that the employer or former employer has taken in relation to it.
+[Repealed]
 
 ### 139AS Complaints and reports relating to teacher conduct
-(1) The Teachers Council must refer to the Complaints Assessment Committee—
-  (a) every report received by it under any of sections 139AK, 139AL, or 139AM that relates to teacher conduct; and
-  (b)
-  (c) every complaint received by it under section 139AR.
-(2) In relation to a complaint received under section 139AR from a person other than the current employer of the teacher concerned,—
-  (a) if the Complaints Assessment Committee considers that the complaint should have been sent first to the teacher's employer, it must refer the matter to the employer; and
-  (b) in any other case, it must notify the employer (if the teacher is currently employed by an employer) that it has received a complaint about the teacher.
-(3) An employer to whom a complaint is referred under subsection (2), or who is required to provide information in the course of an investigation by the Complaints Assessment Committee, must report to the Committee as required by it.
+[Repealed]
 
 ### 139AT Powers of Complaints Assessment Committee
-(1) The Complaints Assessment Committee may investigate any complaint or report referred to it under section 139AS.
-(2) Following an investigation, the Complaints Assessment Committee may, in respect of any matter other than a conviction to which section 139AV relates, do any of the following:
-  (a) dismiss the matter, or resolve to take it no further:
-  (b) refer the teacher concerned to a competency review:
-  (c) refer the teacher concerned to an impairment process which may involve either or both of the following:
-    (i) assessment of an impairment:
-    (ii) assistance with an impairment:
-  (d) by agreement with the teacher and the person who made the complaint or report, do any of the following:
-    (i) censure the teacher:
-    (ii) impose conditions on the teacher's practising certificate or authority, such as (without limitation) requiring the teacher to undergo supervision or professional development:
-    (iii) suspend the teacher's practising certificate or authority for a specified period, or until specified conditions are met:
-    (iv) annotate the register or the list of authorised persons in a specified manner.
-(3) The Complaints Assessment Committee may, at any time, refer a matter to the Disciplinary Tribunal for a hearing.
-(4) The Complaints Assessment Committee must refer a matter concerning a teacher to the Disciplinary Tribunal if it is satisfied on reasonable grounds that—
-  (a) the teacher has engaged in serious misconduct; and
-  (b) the matter should be referred to the Disciplinary Tribunal.
-(5) If a matter is referred to the Disciplinary Tribunal under subsection (4), a notice must be sent to the teacher concerned setting out the charge of misconduct against him or her.
+[Repealed]
 
 ### 139AU Interim suspension until matter about or involving possible serious misconduct concluded
-(1) At any time between when the Complaints Assessment Committee receives a complaint or receives or becomes aware of a report that is about or involves a teacher's possible serious misconduct and when the matter is concluded (as specified in section 139AUA(6)), the Complaints Assessment Committee may apply to the chairperson of the Disciplinary Tribunal for an interim suspension of the teacher's practising certificate or authority.
-(1A)
-(2) On an application under subsection (1) for an interim suspension, the chairperson of the Disciplinary Tribunal may, either with or without a hearing, suspend the teacher's practising certificate or authority.
+[Repealed]
 
 ### 139AUA Duration of interim suspension
-(1) The duration of an interim suspension under section 139AU is initially until the earliest of the following occurs:
-  (a) the expiry of a period, specified by the chairperson of the Disciplinary Tribunal, that is less than 3 months:
-  (b) the expiry of a period of 3 months after the interim suspension commences:
-  (c) any conditions specified by the chairperson of the Disciplinary Tribunal are met:
-  (d) the interim suspension is otherwise lifted or revoked, for example, as the result of a review under subsection (2).
-(2) The chairperson of the Disciplinary Tribunal must review his or her initial interim suspension decision, if the teacher—
-  (a) requests him or her to do so at any time during the initial interim period of suspension; and
-  (b) provides a written explanation or statement in support of the request.
-(3) The Disciplinary Tribunal may renew an interim suspension under section 139AU for further successive periods of no more than 3 months each, if, at the end of the relevant period of interim suspension,—
-  (a) the matter has not been concluded; and
-  (b) the interim suspension has not been otherwise lifted or revoked, for example, as the result of an appeal against it under subsection (4).
-(4) A teacher whose practising certificate or authority is subject to an interim suspension under section 139AU that is renewed under subsection (3) may, at any time during a further period of interim suspension, make representations in respect of the interim suspension to the Disciplinary Tribunal at a hearing, if he or she believes that there is an unreasonable delay in concluding the matter.
-(5) A hearing under subsection (4) is a hearing before the Disciplinary Tribunal, and sections 139AX to 139AZB apply to it.
-(6) For the purposes of this section and section 139AU, a matter is concluded when the latest of the following occurs in relation to the complaint or report:
-  (a) the Complaints Assessment Committee has carried out whatever action it decides to take under section 139AT(2)﻿(a) to (d):
-  (b) the Complaints Assessment Committee has carried out whatever action it decides to take under section 139AV(2)﻿(a) to (d):
-  (c) the Disciplinary Tribunal has carried out whatever action it decides to take under section 139AW(1)﻿(a) to (i), if the Complaints Assessment Committee has referred the matter to the Disciplinary Tribunal under any of sections 139AT(3) or (4) or 139AV(3).
+[Repealed]
 
 ### 139AV Investigation by Complaints Assessment Committee of reports of convictions
-(1) Every report of the conviction of a teacher for an offence punishable by 3 months' or more imprisonment that is received by, or comes to the attention of, the Teachers Council must be investigated by the Complaints Assessment Committee.
-(2) Following the investigation of such a conviction, the Complaints Assessment Committee may do any of the following:
-  (a) dismiss the matter, or resolve to take it no further:
-  (b) refer the teacher concerned to a competency review:
-  (c) refer the teacher concerned to an impairment process which may involve either or both of the following:
-    (i) assessment of an impairment:
-    (ii) assistance with an impairment:
-  (d) by agreement with the teacher, do any of the following:
-    (i) censure the teacher:
-    (ii) impose conditions on the teacher's practising certificate or authority, such as (without limitation) requiring the teacher to undergo supervision or professional development:
-    (iii) annotate the register or the list of authorised persons in a specified manner.
-(3) If the Complaints Assessment Committee considers that the conviction may warrant action by the Disciplinary Tribunal, it must refer the report to the Disciplinary Tribunal for a hearing.
+[Repealed]
 
 ### 139AW Powers of Disciplinary Tribunal
-(1) Following a hearing of a charge of serious misconduct, or a hearing into the conduct of a teacher, the Disciplinary Tribunal may do any 1 or more of the following:
-  (a) any of the things that the Complaints Assessment Committee could have done under section 139AT(2):
-  (b) censure the teacher:
-  (c) impose conditions on the teacher's practising certificate or authority for a specified period:
-  (d) suspend the teacher's practising certificate or authority for a specified period, or until specified conditions are met:
-  (e) annotate the register or the list of authorised persons in a specified manner:
-  (f) impose a fine on the teacher not exceeding $3,000:
-  (g) order that the teacher's registration or authority be cancelled (see section 129(1)):
-  (h) require any party to the hearing to pay costs to any other party:
-  (i) require any party to pay a sum to the Teachers Council in respect of the costs of conducting the hearing.
-(2) Despite subsection (1), following a hearing that arises out of a report under section 139AP of the conviction of a teacher, the Disciplinary Tribunal may not do any of the things specified in paragraphs (d), (f), (h), or (i) of subsection (1).
-(3) A fine imposed on a teacher, and a sum ordered to be paid to the Teachers Council under subsection (1)﻿(i), are recoverable as debts due to the Teachers Council.
+[Repealed]
 
 ### 139AX Evidence at hearings
-(1) The Disciplinary Tribunal may—
-  (a) receive evidence on oath (and for that purpose an officer or employee of the Teachers Council may administer an oath); and
-  (b) permit a person appearing as a witness before it to give evidence by written statement, and verify that statement by oath.
-(2) A hearing before the Disciplinary Tribunal is a judicial proceeding for the purposes of section 109 of the Crimes Act 1961 (which relates to punishment for perjury).
+[Repealed]
 
 ### 139AY Powers of Disciplinary Tribunal in relation to witnesses
-(1) The Disciplinary Tribunal may require a person to do either or both of the following:
-  (a) attend and give evidence at a hearing of the Disciplinary Tribunal:
-  (b) produce any documents, records, or other information in his or her custody or control that relate to the subject matter of the hearing, whether specified by the Disciplinary Tribunal or not.
-(2) A requirement under subsection (1) must be in writing signed by the chairperson of the Disciplinary Tribunal.
-(3) A person required to attend a hearing is entitled to be paid, by the party calling the person (or, if called on the volition of the Disciplinary Tribunal itself, by the Teachers Council), witnesses' fees, allowances, and travelling expenses, according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
+[Repealed]
 
 ### 139AZ Offences
-(1) A person commits an offence, and is liable on conviction to a fine not exceeding $500 who, without lawful justification, fails or refuses—
-  (a) to attend and give evidence when required by the Disciplinary Tribunal; or
-  (b) to answer truly and fully any question put to him or her by a member of the Disciplinary Tribunal; or
-  (c) to produce any document, record, or other information as required by the Disciplinary Tribunal.
-(2) A person commits an offence, and is liable on conviction to a fine not exceeding $1,000, if, without lawful excuse, he or she breaches an order made by the Disciplinary Tribunal under rules made under section 139AJ that—
-  (a) provide for a hearing to be held in private; or
-  (b) provide for evidence at a hearing to be given in private; or
-  (c) impose restrictions on the publication of any information relating to a particular hearing.
+[Repealed]
 
 ### 139AZA Privileges and immunities
-(1) Every person who does any of the following has the same privileges as witnesses have in a court:
-  (a) provides documents, things, or information to a disciplinary body:
-  (b) produces documents or things to a disciplinary body:
-  (c) gives evidence to, or answers questions by, a disciplinary body.
-(2) Every counsel appearing before a disciplinary body has the same privileges and immunities as counsel in a court.
-(3) If a person is represented at a hearing before the Disciplinary Tribunal by a person other than a barrister or solicitor,—
-  (a) any communications between the person and the representative in relation to the hearing are as privileged as they would have been if the representative had been a barrister or solicitor; and
-  (b) the representative is a counsel for the purposes of subsection (2).
+[Repealed]
 
 ### 139AZB Appeals
-(1) The teacher who is the subject of a decision by the Disciplinary Tribunal made under section 139AU(2) or section 139AW, or a decision by the Teachers Council made under section 139AZCB, may appeal that decision to a District Court.
-(1A) The Complaints Assessment Committee may, with the leave of the Teachers Council, appeal to a District Court against a decision of the Disciplinary Tribunal made under section 139AU(2) or section 139AW.
-(2) An appeal under this section must be made within 28 days of receipt of written notice of the decision, or any longer period that the court allows.
-(3) Subsections (3) to (7) of section 126 apply to every appeal under this section as if it were an appeal under subsection (1) of section 126.
+[Repealed]
 
 **Review of competence**
 
 ### 139AZC Complaints about competence
-(1) A person who wishes to make a complaint about a teacher's competence must first make the complaint to the teacher's employer, unless one of the circumstances in subsection (2)﻿(a) to (d) applies.
-(2) Any person (including a parent, employer, or member of the Teachers Council) may, at any time, make a written complaint to the Teachers Council about the competence of a teacher—
-  (a) if the complaint is about a teacher who is not currently employed by an employer; or
-  (b) if the complainant considers, on reasonable grounds, that the employer will not be able to deal with the complaint effectively because of an actual or perceived conflict of interest; or
-  (c) if the complaint has been made to the employer, but the complainant is not satisfied with the way in which the complaint is being, or was, dealt with; or
-  (d) in any other exceptional circumstance.
-(3) A complaint under this section by an employer or former employer must include a description of the competency issues leading to the complaint and the actions (if any) that the employer or former employer has undertaken in relation to them.
-(4) If the Teachers Council considers that a complaint under this section should have been sent first to the teacher's employer, it must refer the matter to the employer; and in any other case, it must notify the employer (if the teacher is currently employed by an employer) that it has received a complaint about the teacher.
-(5) When the Teachers Council refers a complaint to an employer, the employer must report as required by the Teachers Council.
-(6) If the Teachers Council is satisfied that the employer has not responded, or has not been able to respond, to the complaint in a satisfactory way, the Teachers Council may investigate the complaint.
-(7) When a complaint about competence is made by a member of the Teachers Council, that member may not be involved in any investigation of the complaint.
-(8)
+[Repealed]
 
 ### 139AZCA Investigation of mandatory reports about competence
-(1) When investigating a report under section 139AK or 139AN about a teacher's competence, the Teachers Council may ask the teacher's employer or former employer for information in addition to the information supplied in the report.
-(2) When the Teachers Council asks an employer or former employer for information under subsection (1), the employer or former employer must provide the information as requested by the Teachers Council.
-(3) When a report is made under section 139AK or 139AN by a member of the Teachers Council, that member must not be involved in any investigation of the report.
+[Repealed]
 
 ### 139AZCB Powers of Teachers Council after finding required level of competence not attained
-Following an investigation of a complaint under section 139AZC, or following receipt of a report under section 139AK or 139AN and any investigation of the report, the Teachers Council may, if satisfied that the teacher has not attained the required level of competence,—
-  (a) do any 1 or more of the following:
-    (i) impose conditions on the teacher's practising certificate or authority:
-    (ii) refer the teacher to an impairment process which may involve either or both of the following:
-      (A) assessment of an impairment:
-      (B) assistance with an impairment:
-    (iii) annotate the register or the list of authorised persons in a specified manner, in relation to any action taken under subparagraph (i); or
-  (b) order that the teacher's registration or authority be cancelled (see section 129(1)).
+[Repealed]
 
 **Police vetting**
 
 ### 139AZD Teachers Council must co-ordinate Police vetting
-(1) The Teachers Council must establish a system for co-ordinating Police vetting, in relation to—
-  (a) teacher registration and the issue of practising certificates; and
-  (b) the granting of limited authorities to teach.
-(2) A copy of the result of the Police vet of a person must be given to both the person or body that requested it and the person who is the subject of the vet.
-(3)
-(4) The Teachers Council must establish internal procedures for dealing with Police vets requested for its own purposes, which must, in particular,—
-  (a) identify the person or office-holder within the Council to whom Police vets must be sent; and
-  (b) ensure that strict confidentiality is observed for Police vets.
-(5) The Teachers Council may not take adverse action in relation to a person who is the subject of a Police vet until—
-  (a) the person has validated the information contained in the vet; or
-  (b) the person has been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.
+[Repealed]
 
 ## Part 11 — Miscellaneous
 
@@ -3928,7 +3423,7 @@ A sponsor of a partnership school kura hourua must—
 ### 158K Annual financial statements of partnership schools kura hourua
 (1) On a date specified in the partnership school contract, a sponsor of a partnership school kura hourua must give to the Secretary annual financial statements relating to the school for the year ending on a date specified in the contract.
 (2) The financial statements must be prepared in accordance with the partnership school contract.
-(3) The financial statements must have been audited by a chartered accountant.
+(3) The financial statements must have been audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 
 ### 158L Partnership school kura hourua may participate in school risk management scheme
 (1) A sponsor may, with the consent of the Secretary, participate in a school risk management scheme established under section 78D(2).
@@ -4536,7 +4031,7 @@ The Commission may permit more than 1 organisation to prepare and submit a combi
   (a) a financial report of the organisation for that year, including a statement of financial performance, a statement of financial position, a statement of movements in equity, a statement of cash flows, and a statement of service performance that compares the performance of the organisation with the outcomes specified in the organisation's plan as measured by the performance indicators specified in the organisation's plan; and
   (b) any financial reports, or statistical or other information, required by the Commission; and
   (c) any information necessary to demonstrate compliance with any condition attached to the funding.
-(3) A report required under subsection (2)﻿(a) must be prepared in accordance with generally accepted accounting practice and must be audited by an independent chartered accountant.
+(3) A report required under subsection (2)﻿(a) must be prepared in accordance with generally accepted accounting practice and must be audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 (4) The Commission may exempt any organisation, group of organisations, or types of organisation from complying with 1 or more of the requirements set out in subsections (2) and (3).
 (5) In exercising the powers conferred on it by subsection (4), the Commission must have regard to—
   (a) the amount of funding sought by the organisation; and
@@ -4684,7 +4179,7 @@ A significant amendment made to a plan under section 159YM—
   (a) a financial report of the organisation for that year, including a statement of financial performance, a statement of financial position, a statement of movements in equity, a statement of cash flows, and a statement of service performance that compares the performance of the organisation with the outcomes agreed with the Commission as measured by any performance indicators agreed with the Commission; and
   (b) any financial reports, or statistical or other information, required by the Commission; and
   (c) any information necessary to demonstrate compliance with any condition attached to the funding.
-(3) A report required under subsection (2)﻿(a) must be prepared in accordance with generally accepted accounting practice and must be audited by an independent chartered accountant.
+(3) A report required under subsection (2)﻿(a) must be prepared in accordance with generally accepted accounting practice and must be audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 (4) The Commission may exempt any organisation, group of organisations, or type of organisation from complying with 1 or more of the requirements set out in subsections (2) and (3).
 (5) In exercising the powers conferred on it by subsection (4), the Commission must have regard to—
   (a) the amount of funding sought by the organisation; and
@@ -6283,7 +5778,7 @@ Every private training establishment must—
       (i) the first day of the programme or scheme for which the attendance of the student at the establishment is required; or
       (ii) any other day that the establishment permits the student to begin attendance:
     (b) in relation to a domestic student who, before 1 January 2015, is enrolled in a programme or part of a programme, or enrolled in a training scheme, the 7 days after the first day of the programme or scheme for which the attendance of the student at the establishment is required
-  - **trustee** means Public Trust, a trustee company under the Trustee Companies Act 1967, a chartered accountant in public practice, or a lawyer whose practising certificate allows the holding of trust funds.
+  - **trustee** means Public Trust, a trustee company under the Trustee Companies Act 1967, a qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013) in public practice, or a lawyer whose practising certificate allows the holding of trust funds.
 (2) In sections 234D to 235C, the requirement that funds paid by or on behalf of a student be deposited with an independent trustee applies to all components of any fee payable by the student (for example, it includes any component of the fee payable by the student in respect of accommodation costs or agent commissions).
 
 ### 234D Application of rules relating to student fee protection
@@ -7610,6 +7105,9 @@ A delegation to the member who is the general manager continues to have effect,�
 ### 299A Transitional and savings provisions relating to councils of tertiary institutions consequential on enactment of Education Amendment Act 2015
 The transitional and savings provisions relating to councils of tertiary institutions set out in Schedule 19 have effect for the purposes of the Education Amendment Act 2015.
 
+### 299B Transitional and savings provisions relating to other matters consequential on enactment of Education Amendment Act 2015
+The transitional and savings provisions relating to other matters set out in Schedule 20 have effect for the purposes of the Education Amendment Act 2015.
+
 ### 300 Taxes and duties in relation to property of former Authority for Advanced Vocational Awards
 (1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
   (a) the previous Authority referred to in section 299(1) (in this section referred to as the previous Authority) and the Qualifications Authority shall be deemed to be the same person with effect on and from the date on which the real and personal property of the previous Authority vests in the Qualifications Authority pursuant to that section; and
@@ -8484,6 +7982,713 @@ Despite anything in this Part, a person may use or disclose his or her own natio
 (1) The Governor-General may from time to time, by Order in Council, make regulations identifying any agency or body as an authorised user for the purpose of this Part.
 (2) A recommendation for an Order in Council to be made under this section may not be made unless the Privacy Commissioner has been consulted on the recommendation.
 
+## Part 31 — Teacher registration
+
+### 348 Interpretation
+In this Part and Schedule 21, unless the context otherwise requires,—
+  - **authorisation** , in relation to any person, means the entry of the person's name on the list of authorised people, and has a corresponding meaning
+  - **early childhood education and care service** means—
+    (a) a free kindergarten that is an early childhood service whose licence permits no child to attend for a period of more than 4 hours on any day; and
+    (b) any other early childhood service that is declared by regulations made under section 69(2) of the Education Standards Act 2001 to be an early childhood education and care service for the purposes of this Part
+  - **early childhood service** means a licensed early childhood service (as defined in section 309)
+  - **Education Council** means the Education Council of Aotearoa New Zealand established under Part 32
+  - **employer** means any one of the following who employs, or intends to employ, 1 or more teachers or authorised persons in a teaching position:
+    (a) the board of trustees of a State school:
+    (b) the sponsor of a partnership school kura hourua:
+    (c) the managers of a school registered under section 35A:
+    (d) the person or body that appoints staff at an early childhood education and care service:
+    (e) the Secretary, in his or her capacity as an employer under section 91N
+  - **free kindergarten** means an early childhood education and care centre (as defined in section 309) controlled by a free kindergarten association founded for the purpose of establishing and maintaining a kindergarten or kindergartens
+  - **general education system** means the system of education provided in—
+    (a) registered schools; and
+    (b) early childhood services; and
+    (c) other educational institutions and services established or deemed to have been established, or provided, under this Act or the Education Act 1964
+  - **list of authorised people** means the list kept under section 371(1)
+  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
+  - **partnership school kura hourua** has the meaning given by section 2(1)
+  - **practising certificate** means a certificate issued under section 361(2) or (6)
+  - **professional leader** means,—
+    (a) in the case of a school other than a partnership school kura hourua, the principal:
+    (b) in the case of a partnership school kura hourua, the person to whom the sponsor has assigned the role of supervising teaching practice:
+    (c) in the case of an early childhood service, the professional leader of the service:
+    (d) in the case of any other educational institution, the chief executive or person occupying an equivalent position
+  - **register** means the register kept under section 359
+  - **registration** or , in relation to any person, means the entry of the person's name on the register
+  - **satisfactory recent teaching experience** , in relation to any person at any time, means either of the following, satisfactorily completed by the person during the 5 years before that time:
+    (a) an uninterrupted period of employment of 2 years (or some shorter period or periods approved by the Education Council for the person) in a teaching position or teaching positions in the general education system; or
+    (b) a period of employment of 2 years (or some shorter period or periods approved by the Education Council for the person) in a position (or positions) that (or each of which) in the Education Council's opinion was equivalent to a teaching position, in an educational institution in New Zealand approved by the Education Council for the purposes of this Part
+  - **teaching position** means a position in the general education system that—
+    (a) requires its holder to instruct students; or
+    (b) is the professional leader, deputy professional leader (however described), or assistant principal of a school; or
+    (c) is the professional leader of an early childhood service or other educational institution.
+
+**Restrictions on appointment and employment of teaching staff**
+
+### 349 Restrictions on appointment of teachers
+(1) An employer may not appoint to a teaching position—
+  (a) any person—
+    (i) whose registration has been cancelled; and
+    (ii) who has not since been registered again; or
+  (b) any person whose practising certificate is suspended under section 402 or 404(1)﻿(d) or cancelled under section 404(1)﻿(g); or
+  (c) any person whose authorisation has been cancelled and who has not since—
+    (i) been authorised again; or
+    (ii) been registered as a teacher; or
+  (d) any person whose limited authority to teach is suspended under section 402 or 404(1)﻿(d).
+(2) No employer, other than a sponsor, may permanently appoint to any teaching position any person who does not hold a practising certificate.
+
+### 350 Restrictions on continued employment of teachers
+(1) An employer may not continue to employ in a teaching position—
+  (a) any person—
+    (i) whose registration has been cancelled; and
+    (ii) who has not since been registered again; or
+  (b) any person whose practising certificate is suspended under section 404(1)﻿(d); or
+  (c) any person whose authorisation has been cancelled and who has not since—
+    (i) been authorised again; or
+    (ii) been registered as a teacher; or
+  (d) any person whose limited authority to teach is suspended under section 404(1)﻿(d).
+(2) No employer, other than a sponsor, may continue to employ in any teaching position any person who holds neither a practising certificate nor an authorisation, if that person is not under the general supervision of a person who holds a practising certificate.
+(3) No employer, other than a sponsor, may in any calendar year continue to employ in any teaching position a person who holds neither a practising certificate nor an authorisation, if the sum of the following periods is not less than the period specified in subsection (4):
+  (a) the period or periods for which that person has already during that year been employed by the employer in a teaching position or positions; and
+  (b) any period or periods (of which the employer is aware) for which that person has already during that year been employed by any other employer in a teaching position or positions; and
+  (c) any period or periods (of which the employer is aware) for which that person has during that year been employed as a teacher by the employer at an early childhood education and care service.
+(4) The period referred to in subsection (3) is 20 half-days or any greater number of half-days the Education Council has allowed in any particular case, each being a half-day on which the school or early childhood education and care service at which the person was then employed was open for instruction.
+
+### 351 Restrictions on activities of teachers whose practising certificate or limited authority to teach is subject to interim suspension
+(1) This subsection applies to a person employed in a teaching position if—
+  (a) he or she holds a practising certificate that is suspended under section 402; or
+  (b) he or she has a limited authority to teach that is suspended under section 402.
+(2) While subsection (1) applies to a person, his or her employer—
+  (a) must ensure that he or she does not carry out any of the duties of the teaching position concerned; and
+  (b) if the person is employed at a registered school or an early childhood education and care service, must take all reasonably practicable steps to ensure that he or she does not undertake any activities that might bring him or her into contact with students enrolled at the school or, as the case may be, children who attend the service.
+(3) While subsection (1) applies to a person, he or she may not carry out any of the duties of the teaching position concerned.
+
+**Teacher registration**
+
+### 352 Applications for registration as teacher
+Any person may apply to the Education Council, on a form provided by the Education Council for the purpose and signed by the applicant, for registration as a teacher.
+
+### 353 Registration
+The Education Council must register an applicant under section 352 if satisfied that the applicant—
+  (a) is of good character; and
+  (b) is fit to be a teacher; and
+  (c) is satisfactorily trained to teach; and
+  (d) meets the criteria for teacher registration established under section 382(1)﻿(e); and
+  (e) either—
+    (i) has not been convicted of a specified offence as defined in section 23(1) of the Vulnerable Children Act 2014; or
+    (ii) has been granted an exemption under section 35 of the Vulnerable Children Act 2014 in respect of every conviction for a specified offence as defined in section 23(1) of that Act.
+
+### 354 Determining whether training satisfactory
+(1) In determining whether a person is satisfactorily trained to teach, the Education Council may take into account any relevant matters.
+(2) In determining whether a person is satisfactorily trained to teach, the Education Council must take into account—
+  (a) the person's qualifications; and
+  (b) whether the person has satisfactorily completed training recognised by the Education Council as suitable for people who want to teach.
+(3) Subsection (2) does not affect the generality of subsection (1).
+
+### 355 Determining good character and fitness to be teacher
+(1) For the purpose of determining whether a person is of good character and fit to be a teacher, the Education Council must obtain a Police vet of the person.
+(2) Subsection (1) does not limit any other matters that the Education Council may take into account in determining character and fitness to be a teacher.
+
+### 356 Appeals from decisions of Education Council
+(1) A person who is dissatisfied with all or any part of a decision of the Education Council under section 353, 357, or 361 (whether a decision to act or a decision to refuse to act) may, within 28 days after receiving notice of the decision from the Education Council or any longer period the court, on application made before or after the end of the period, allows, appeal to the District Court against the decision.
+(2) The court must hear the appeal as soon as practicable, and may confirm, reverse, or modify the decision concerned, or may refer the matter back to the Education Council in accordance with rules of court, or may give any decision that the Education Council could have given.
+(3) Nothing in this section gives the court power to review any part of the Education Council's decision that the appellant has not appealed against.
+(4) Subject to any order of the court, every decision of the Education Council continues in force and has effect pending the determination of an appeal against it.
+(5) On any appeal under this section, the court may order the Education Council or the appellant to pay the costs incurred by the other party in respect of the appeal.
+(6) The Education Council or the appellant may, with the leave of the High Court or the Court of Appeal, appeal to the Court of Appeal on a question of law against any decision made by the District Court on an appeal under this section.
+
+### 357 Cancellation of registration as teacher
+(1) The Education Council must cancel a person's registration if—
+  (a) the Education Council is satisfied on reasonable grounds that the person no longer satisfies the requirements for registration as a teacher (as set out in section 353); or
+  (b) the Education Council is satisfied on reasonable grounds that the registration was effected by mistake or obtained by fraud; or
+  (c) the Disciplinary Tribunal has ordered, under section 404(1)﻿(g), that the registration be cancelled.
+(2) The Education Council may not cancel a person's registration under subsection (1)﻿(a) or (b) without first—
+  (a) taking all reasonable steps to ensure that the person is given notice of the reasons for the proposed cancellation; and
+  (b) giving the person a reasonable opportunity to make submissions and be heard, either in person or by counsel or other representative, on the proposed cancellation.
+(3) The fact that a person's registration has been cancelled does not prevent the person from again being registered.
+(4) The Education Council must take all reasonable steps to ensure that employers are informed of, and may make public on its Internet site, the name of every person whose registration is cancelled under this section.
+
+### 358 Voluntary deregistration
+The Education Council must deregister a person if—
+  (a) the Education Council receives a written request from the person seeking deregistration; and
+  (b) the Education Council is satisfied that the person is not the subject of an investigation under Part 32.
+
+### 359 Education Council to keep register of people registered as teachers
+(1) For the purposes of this Part, the Education Council must keep a register of people who are registered as teachers.
+(2) If the Education Council is satisfied that any of the information contained in the register is incorrect, the Education Council must ensure that the information is corrected.
+(3) The Education Council may annotate the register following—
+  (a) an interim suspension under section 402(2); or
+  (b) an action by a disciplinary body under section 401, 404, or 412.
+(4) In the case where the register is annotated following an interim suspension, the annotation must be removed or corrected as soon as practicable after the matter is concluded (as specified in section 403(6)).
+
+### 360 Matching of register information and information about payment of teacher salaries at payrolled schools
+(1) The purpose of this section is to facilitate the exchange of information between the Ministry and the Education Council for the purposes of enabling—
+  (a) the Education Council, in regard to any person employed in a teaching position, to identify—
+    (i) the person's employer; and
+    (ii) the person's registration status; and
+    (iii) the status and currency of the person’s practising certificate; and
+  (b) the Ministry, in regard to regular teachers and relieving teachers in receipt of salaries at payrolled schools, to identify their salary entitlement or eligibility (if any) for an allowance on the basis of their registration or practising certificate (if any).
+(2) For the purpose set out in subsection (1)﻿(a), the Education Council may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Education Council,—
+  (a) require the Secretary to supply all or any of the following information about all or any regular teachers and relieving teachers in receipt of salaries at payrolled schools:
+    (i) surname:
+    (ii) first name:
+    (iii) date of birth:
+    (iv) gender:
+    (v) address:
+    (vi) the school at which a teacher is employed:
+    (vii) payroll number:
+    (viii) registration number:
+    (ix) number of half-days employed in a teaching position in any calendar year; and
+  (b) compare the information supplied under paragraph (a) with the information contained in the register.
+(3) For the purpose set out in subsection (1)﻿(b), the Secretary may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Education Council,—
+  (a) require the Education Council to supply all or any of the following information in regard to all or any people registered as teachers:
+    (i) surname:
+    (ii) first name:
+    (iii) date of birth:
+    (iv) gender:
+    (v) address:
+    (vi) the school at which a teacher is employed:
+    (vii) registration number:
+    (viii) registration or practising certificate expiry date:
+    (ix) registration or practising certificate classification; and
+  (b) compare the information supplied under paragraph (a) with the information held by the Ministry in regard to regular teachers and relieving teachers in receipt of salaries at payrolled schools.
+(4) In this section, Ministry, payrolled school, regular teacher, relieving teacher, school, and Secretary have the same meanings as in section 91A.
+
+### 361 Practising certificates
+(1) Any person may apply to the Education Council, on a form provided by the Education Council, for a practising certificate.
+(2) The Education Council must issue a practising certificate to every applicant who—
+  (a) is registered as a teacher; and
+  (b) has had a satisfactory Police vet within the past 3 years; and
+  (c) meets the standards and criteria for the issue of practising certificates maintained by the Education Council under section 382(1)﻿(h).
+(3) A teacher's practising certificate must show clearly that the teacher is registered.
+(4) Unless it is sooner cancelled or expires,—
+  (a) a practising certificate issued to a teacher who already holds a current practising certificate expires—
+    (i) on the third anniversary of the day on which the certificate already held expires; or
+    (ii) at any earlier time that the Education Council specifies, by notice in the Gazette, in respect of all or any kinds of practising certificate:
+  (b) a practising certificate issued to a teacher who does not already hold a current practising certificate expires—
+    (i) on the third anniversary of the day it is issued; or
+    (ii) at any earlier time that the Education Council decides in accordance with the standards and criteria maintained under section 382(1)﻿(h).
+(5) A practising certificate expires when its holder's registration is cancelled.
+(6) If a teacher applies to renew his or her practising certificate, the Education Council may issue a renewed practising certificate only if it is satisfied that the teacher—
+  (a) has satisfactory recent teaching experience; and
+  (b) has had a satisfactory Police vet within the past 3 years; and
+  (c) has completed satisfactory professional development during the past 3 years; and
+  (d) meets the standards and criteria maintained under section 382(1)﻿(h).
+(7) This subsection applies to a renewed practising certificate issued to a person if—
+  (a) the practising certificate he or she already holds when the renewed certificate is issued is suspended under section 402; or
+  (b) he or she does not already hold a practising certificate when the renewed certificate is issued, but—
+    (i) the practising certificate he or she last held was suspended under section 402 when it expired; and
+    (ii) its suspension was not due to expire until a time after the issue of the renewed certificate.
+(8) A renewed practising certificate to which subsection (7) applies must be treated as being suspended under section 402, and its suspension expires when the suspension of the previous practising certificate held by its holder would have expired.
+
+### 362 Cancellation of practising certificate
+(1) The Education Council must cancel a person's practising certificate if—
+  (a) the Education Council is satisfied on reasonable grounds that the person no longer satisfies the requirements for holding a practising certificate (as set out in section 361(2)); or
+  (b) the Education Council is satisfied on reasonable grounds that the practising certificate was issued by mistake or obtained by fraud; or
+  (c) the Disciplinary Tribunal has ordered, under section 404(1)﻿(g), that the practising certificate be cancelled; or
+  (d) the Education Council has determined, under section 412, that the practising certificate be cancelled.
+(2) The Education Council may not cancel a person's practising certificate under subsection (1)﻿(a) or (b) without first—
+  (a) taking all reasonable steps to ensure that the person is given notice of the reasons for the proposed cancellation; and
+  (b) giving the person a reasonable opportunity to make submissions and be heard, either in person or by counsel or other representative, on the proposed cancellation.
+(3) The fact that a person's practising certificate has been cancelled does not prevent the person from again holding a practising certificate.
+(4) The Education Council must take all reasonable steps to ensure that employers are informed of, and may make public on its Internet site, the name of every person whose practising certificate is cancelled under this section.
+
+### 363 Determining whether employment satisfactorily completed
+(1) In determining whether a period of employment was satisfactorily completed by a person, the Education Council may take into account any relevant matters.
+(2) In determining whether a period of employment at a school, early childhood service, or other educational institution in New Zealand was satisfactorily completed by a person, the Education Council may take into account—
+  (a) the views of the professional leader of the school, early childhood service, or other educational institution; or
+  (b) if the person was the professional leader of a school, early childhood service, or other educational institution, the views of his or her employer.
+(3) Subsection (2) does not affect the generality of subsection (1).
+
+### 364 Fees and costs for registration and practising certificates
+(1) The Education Council may, by notice in the Gazette, fix fees for registration as a teacher or for the issue of practising certificates, and different fees may be fixed—
+  (a) in respect of registration effected in different circumstances; and
+  (b) for practising certificates of different kinds.
+(2) A notice under subsection (1)—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be published on a website maintained by the Education Council; and
+  (c) must state where printed copies of it are available free.
+(3) The Education Council must make printed copies of every notice under subsection (1) that is in force available free at the place stated in it.
+(4) Despite anything in this Act, the Education Council may refuse to register a person as a teacher or issue a practising certificate until the appropriate fee has been paid.
+(5) If the Education Council cancels a teacher's registration, it may, by written notice to the teacher, require the teacher to pay the Education Council any reasonable costs specified in the notice that were incurred by the Education Council in dealing with the proposal to cancel the registration or with the cancellation itself.
+(6) The Education Council may recover from a teacher as a debt due to it costs required under subsection (5) to be paid to the Education Council by the teacher.
+
+**Limited authority to teach**
+
+### 365 Purpose of limited authority to teach
+The purpose of granting a limited authority to teach is to enable employers to have access to skills that are in short supply and to enable those with specialist skills but not a teaching qualification to teach.
+
+### 366 Limited authority to teach
+(1) Any person may apply to the Education Council, on a form provided by it for the purpose, for a limited authority to teach.
+(2) The Education Council must grant a limited authority to teach if it considers that the applicant is of a suitable disposition and—
+  (a) the applicant has the skills and experience appropriate to advance the learning of a student or group of students; or
+  (b) the applicant has the skills that are in short supply.
+(3) A person who has previously been authorised may be authorised again, whether before or after the expiry or cancellation of the previous authorisation.
+(4) In this section, suitable disposition, in relation to an applicant, means the applicant—
+  (a) is of good character and fit to hold a limited authority to teach; and
+  (b) either—
+    (i) has not been convicted of a specified offence as defined in section 23(1) of the Vulnerable Children Act 2014; or
+    (ii) has been granted an exemption under section 35 of the Vulnerable Children Act 2014 in respect of every conviction for a specified offence as defined in section 23(1) of that Act.
+
+### 367 Cancellation of limited authority to teach
+(1) The Education Council must cancel a person's limited authority to teach if—
+  (a) the Education Council is satisfied on reasonable grounds that the person no longer satisfies the requirements for holding a limited authority to teach (as set out in section 366(2)); or
+  (b) the Education Council is satisfied on reasonable grounds that the authorisation was granted by mistake or obtained by fraud; or
+  (c) the Disciplinary Tribunal has ordered, under section 404(1)﻿(g), that the limited authority to teach be cancelled; or
+  (d) the Education Council has determined, under section 412, that the limited authority to teach be cancelled.
+(2) The Education Council may not cancel a person's limited authority to teach under subsection (1)﻿(a) or (b) without first—
+  (a) taking all reasonable steps to ensure that the person is given notice of the reasons for the proposed cancellation; and
+  (b) giving the person a reasonable opportunity to make submissions and be heard, either in person or by counsel or other representative, on the proposed cancellation.
+(3) The fact that a person's limited authority to teach has been cancelled does not prevent the person from again being given a limited authority to teach.
+(4) The Education Council must take all reasonable steps to ensure that employers are informed of, and may make public on its Internet site, the name of every person whose limited authority to teach is cancelled—
+  (a) under this section; or
+  (b) as a result of the Education Council refusing to grant a limited authority to teach on the ground that the person is not of good character or is not fit to hold a limited authority to teach.
+
+### 368 Determining character or fitness to hold limited authority to teach
+(1) In determining whether a person is of good character or is fit to hold a limited authority to teach, the Education Council—
+  (a) must take into account and give due weight to—
+    (i) any relevant skills and experience of the applicant; and
+    (ii) any other relevant matters; and
+  (b) if the applicant is currently employed as the professional leader of a school, early childhood service, or other educational institution, must take into account and give due weight to the views of his or her employer; and
+  (c) if the applicant is currently employed at a school, early childhood service, or other educational institution, but not as its professional leader, must take into account and give due weight to the views of the professional leader of the school, service, or institution.
+(2) For the purpose of determining whether a person is of good character and fit to hold a limited authority to teach, the Education Council must obtain a Police vet of the person.
+(3) Subsection (1) does not limit any other matters that the Education Council may take into account in determining good character and fitness to hold a limited authority to teach.
+
+### 369 Appeals from decisions
+(1) Any person who is dissatisfied with all or any part of a decision of the Education Council under section 368 (whether a decision to act or a decision to refuse to act) may, within 28 days of receiving notice of the decision from the Education Council or any longer period the court (on application made before or after the end of the period) allows, appeal against the decision to the District Court.
+(2) Section 356(2) to (6) applies to every appeal under subsection (1) of this section as if it were an appeal under section 356(1).
+
+### 370 Period of authorisation
+(1) Subject to subsection (2), a person's authorisation expires after 3 years.
+(2) Notwithstanding subsection (1), the Education Council may grant the authorisation for a period of less than 3 years.
+
+### 371 Education Council to keep list of persons who have limited authority to teach
+(1) For the purposes of this Part, the Education Council must keep a list of persons who have a limited authority to teach.
+(2) If the Education Council is satisfied that any of the information contained in the list is incorrect, the Education Council must ensure that the information is corrected.
+(3) The Education Council may annotate the list following—
+  (a) an interim suspension under section 402(2); or
+  (b) an action by a disciplinary body under section 401, 404, or 412.
+(4) In the case where the list is annotated following an interim suspension, the annotation must be removed or corrected as soon as practicable after the matter is concluded (as specified in section 403(6)).
+
+### 372 Fees and costs for granting limited authority to teach
+(1) The Education Council may, by notice in the Gazette, fix fees for the granting of a limited authority to teach.
+(2) A notice under subsection (1)—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be published on a website maintained by the Education Council; and
+  (c) must state where printed copies of it are available free.
+(3) The Education Council must make printed copies of every notice under subsection (1) that is in force available free at the place stated in it.
+(4) Despite anything in this Act, the Education Council may refuse to grant any person a limited authority to teach until the appropriate fee has been paid.
+(5) If the Education Council cancels a limited authority to teach, it may, by written notice to the person concerned, require the person to pay the Education Council any reasonable costs specified in the notice that were incurred by the Education Council in dealing with the proposal to cancel the authorisation or with the cancellation itself.
+(6) The Education Council may recover from any person as a debt due to it costs required by subsection (5) to be paid to the Education Council by that person.
+
+**Miscellaneous provisions**
+
+### 373 Education Council may disclose certain information
+If the management of any registered early childhood centre that is not an early childhood education and care service asks the Education Council for information about any person who is a prospective employee, the Education Council may—
+  (a) make any inquiry about that person that it might have made if that person had applied for registration as a teacher; and
+  (b) disclose to the management any information it holds or has obtained about that person.
+
+### 374 Offences
+(1) Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who—
+  (a) makes to the Education Council any statement as to any person's qualifications or experience that would amount to perjury if made on oath in judicial proceedings; or
+  (b) not being a registered teacher, uses, or permits to be used, in connection with the person's name or business, the words registered teacher, or any words or initials intended or likely to make any other person believe that the person is a registered teacher; or
+  (c) wilfully makes, or causes to be made, a false entry in or falsification of the register or a practising certificate; or
+  (d) falsely represents a document that is not a practising certificate to be a practising certificate; or
+  (e) falsely represents a document that is not a limited authority to teach to be a limited authority to teach; or
+  (f) is appointed to or continues to be employed in a position, knowing that the appointment or employment is contrary to section 349 or 350; or
+  (g) being the employer of a person to whom section 351(1) applies, fails or refuses to ensure that the person does not carry out any of the duties of the teaching position in which he or she is employed; or
+  (h) being the employer of a person to whom section 351(1) applies, fails or refuses to take all reasonably practicable steps to ensure that the person does not undertake any activities that might bring him or her into contact with students enrolled at the school or, as the case may be, children who attend the service; or
+  (i) being a person to whom section 351(1) applies, carries out any of the duties of the teaching position in which he or she is employed; or
+  (j) being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of an employer (other than a sponsor) in a teaching position after the sum of the following periods is 20 half-days, or any greater number of half-days the Education Council has allowed that person (each being a half-day on which a school or an early childhood education and care service at which the person was then employed was open for instruction):
+    (i) the period or periods for which that person has already during that year been employed by the employer in a teaching position or teaching positions; and
+    (ii) any period or periods for which that person has already during that year been employed by any other employer in a teaching position or teaching positions; and
+    (iii) any period or periods for which that person has during that year been employed as a teacher by the employer at an early childhood education and care service; or
+  (k) being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of the employer at an early childhood education and care service as a teacher after the sum of the following periods is 20 half-days, or any greater number of half-days the Education Council has allowed that person (each being a half-day on which an early childhood education and care service or a school at which the person was then employed was open for instruction):
+    (i) the period or periods for which that person has already during that year been employed by the employer as a teacher; and
+    (ii) any period or periods for which that person has already during that year been employed by an employer at any other early childhood education and care service as a teacher; and
+    (iii) any period or periods for which that person has during that year been employed in a teaching position by the employer at a State school.
+(2) Every person commits an offence, and is liable on conviction to a fine not exceeding $5,000, who appoints any person to a position, or continues to employ any person in a position, knowing that the appointment or employment is contrary to section 349 or 350.
+
+### 375 Periods of registration before commencement of this section
+This Part applies to any period of registration as a teacher under the Education Act 1964 before the commencement of this section as if it were a period of registration under this Part.
+
+## Part 32 — Education Council
+
+### 376 Purpose of Part
+The purpose of this Part is to establish an Education Council.
+
+### 377 Purpose of Education Council
+The purpose of the Education Council is to ensure safe and high quality leadership, teaching, and learning for children and young people in early childhood, primary, secondary, and senior secondary schooling in English medium and Māori medium settings through raising the status of the profession.
+
+### 378 Interpretation
+(1) In this Part, unless the context otherwise requires,—
+  - **authorised person** means the holder of an authority
+  - **authority** means a limited authority to teach granted under Part 31
+  - **Complaints Assessment Committee** means the Complaints Assessment Committee established by rules
+  - **disciplinary body** means either or both of the Complaints Assessment Committee and the Disciplinary Tribunal
+  - **Disciplinary Tribunal** means the Disciplinary Tribunal established by rules
+  - **rules** means rules made under section 388
+  - **serious misconduct** means conduct by a teacher—
+    (a) that—
+      (i) adversely affects, or is likely to adversely affect, the well-being or learning of 1 or more students; or
+      (ii) reflects adversely on the teacher's fitness to be a teacher; or
+      (iii) may bring the teaching profession into disrepute; and
+    (b) that is of a character or severity that meets the Education Council's criteria for reporting serious misconduct
+  - **teacher** includes—
+    (a) a registered teacher; and
+    (b) a former registered teacher; and
+    (c) an authorised person; and
+    (d) a former authorised person.
+(2) Terms used in this Part that are defined in section 348 have the meanings given to them by that section.
+
+**Education Council**
+
+### 379 Education Council of Aotearoa New Zealand established
+(1) The Education Council of Aotearoa New Zealand (the Education Council) is established.
+(2) The Education Council is a body corporate with perpetual succession and is capable of—
+  (a) holding real and personal property; and
+  (b) suing and being sued; and
+  (c) otherwise doing and suffering all that bodies corporate may lawfully do and suffer.
+(3) Schedule 21 applies to the Education Council.
+
+### 380 Composition of Education Council
+(1) The Education Council must have 9 members appointed in accordance with clause 1 of Schedule 21.
+(2) The Minister must appoint 1 of the members appointed under subsection (1) as chairperson, and that person holds office for the period specified in clause 5 of Schedule 21.
+(3) The term of office of every member is up to 3 years and members may be reappointed for 2 more terms of up to 3 years each.
+(4) Despite subsection (3),—
+  (a) to provide for the staggered turnover of members, the Minister may specify, when appointing members to hold office, different terms of office for members:
+  (b) every member continues in office until his or her successor comes into office.
+
+### 381 Duties of members of Education Council
+The collective and individual duties of members of the Education Council are set out in clauses 7 and 8 of Schedule 21.
+
+### 382 Functions of Education Council
+(1) The functions of the Education Council are as follows:
+  (a) to provide leadership to teachers and direction for the education profession:
+  (b) to enhance the status of teachers and education leaders:
+  (c) to identify and disseminate best practice in teaching and leadership and foster the education profession’s continued development in light of research, and evidence of changes in society and technology:
+  (d) to carry out the functions under Part 31 relating to teacher registration:
+  (e) to establish and maintain any criteria for teacher registration under Part 31 that the Education Council considers necessary or desirable:
+  (f) to establish and maintain standards for qualifications that lead to teacher registration:
+  (g) to conduct, in conjunction with quality assurance agencies, approvals of teacher education programmes:
+  (h) to establish and maintain—
+    (i) standards for ongoing practice; and
+    (ii) criteria for the issue of practising certificates of different kinds:
+  (i) to ensure that appraisals made by professional leaders for the issue and renewal of practising certificates achieve a reasonable and consistent standard, by auditing and moderating the appraisals made for at least 10% of the practising certificates issued or renewed in each year:
+  (j) to establish and maintain a code of conduct for teachers under section 387:
+  (k) to monitor and enforce the requirements relating to mandatory reporting in this Part and Part 31:
+  (l) to perform the disciplinary functions in this Part relating to teacher misconduct and reports of teacher convictions:
+  (m) to set the criteria for reporting serious misconduct and for reporting on competence issues:
+  (n) to perform the functions in this Part relating to teacher competence:
+  (o) to co-ordinate a system providing for the vetting by the Police of all teachers:
+  (p) to perform any other functions conferred on it by this Act or any other enactment.
+(2) The functions specified in subsection (1)﻿(e) and (h) must be performed as soon as practicable but no later than 2 years after the date of commencement of this section.
+(3) When performing its functions and exercising its powers, the Education Council must act in accordance with the rules of natural justice.
+
+### 383 Powers of Education Council
+(1) The Education Council may, by notice in the Gazette, fix fees for all or any of the following:
+  (a) any addition or alteration to a person's registration as a teacher:
+  (b) any addition or alteration to a person's limited authority to teach:
+  (c) any addition or alteration to a person's practising certificate:
+  (d) inspection of the register of registered teachers or any other register or any other documents kept by the Education Council that are open to inspection:
+  (e) the supply of a copy of any entry in a register or other document referred to in paragraph (d):
+  (f) the provision of professional leadership:
+  (g) costs relating to the performance of disciplinary functions:
+  (h) any other matter for which this Act provides that the Education Council may charge fees.
+(2) A notice under subsection (1)—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) must be published on a website maintained by the Education Council; and
+  (c) must state where printed copies of it are available free.
+(3) The Education Council must make printed copies of every notice under subsection (1) that is in force available free at the place stated in it.
+(4) The Education Council may charge a fee for anything that it has fixed a fee for under subsection (1).
+(5) The Education Council may also charge for any goods or services it provides in accordance with its functions.
+(6) The Education Council may, by written notice to a governing body, require the governing body to give the Education Council, within a time specified in the notice, any information specified in the notice, and the governing body must within that time give the Education Council in writing all information so required that is reasonably necessary or desirable for the Education Council to have for the proper administration of this Part and Part 31.
+(7) The Education Council has all other powers conferred by this Act or reasonably necessary to enable it to perform its functions.
+(8) For the purposes of subsection (6), governing body means the board of any State school or the sponsor of any partnership school kura hourua or a service provider who operates any licensed early childhood service (within the meaning of section 309) or any certificated playgroup or managers of any school registered under section 35A.
+
+### 384 Ministerial powers
+(1) For the purpose of ascertaining whether the Education Council is complying, or has complied, with the provisions of this Part and Part 31, the Minister may commission an independent audit of the conduct of the Education Council’s functions.
+(2) The Minister may, by written notice to the Education Council, require the Education Council to provide to the Minister any financial, statistical, or other information, including information relating to the performance of the functions of the Education Council or any of its committees.
+
+### 385 Reports
+(1) At least every 3 years, following consultation with teachers, the Government, and the public, the Education Council must publish a report setting out its strategic direction for the next 5 years.
+(2) The Education Council must present to the House of Representatives an annual report on its operations, including, but not limited to, the audited financial statements of the Education Council.
+
+### 386 Advisory boards
+The Education Council may establish advisory boards for specific aspects of its operation or for particular issues as it sees fit.
+
+### 387 Code of conduct
+(1) The Education Council must, as soon as practicable but not later than 2 years after the date of commencement of this section, establish and maintain a code of conduct for teachers.
+(2) When preparing the code of conduct (and any amendments to it), the Education Council—
+  (a) must take all reasonable steps—
+    (i) to consult those who will be bound by it; and
+    (ii) to consult the State Services Commissioner; and
+  (b) must have regard to any relevant minimum standards of integrity and conduct or code of conduct that the State Services Commissioner sets or issues under section 57 of the State Sector Act 1988.
+(3) The code of conduct must be signed by the chairperson of the Education Council, and—
+  (a) notice of it must be given in the Gazette; and
+  (b) the notice must say where copies of the code may be obtained free of charge; and
+  (c) the notice must give the date on which the code comes into force, which must be a date on or after the date of the Gazette notice; and
+  (d) the Education Council must take all reasonable steps to ensure that those bound by the code are aware of its existence and are able to obtain copies of it, including (but not limited to) publishing the code on its Internet site.
+(4) The Education Council may amend the code of conduct, and every amendment—
+  (a) must be notified in the Gazette; and
+  (b) forms part of the code on the date specified in the notice as the date on which it will come into force.
+(5) The code of conduct, and every amendment of it, is a disallowable instrument for the purposes of the Legislation Act 2012.
+(6) The code of conduct prepared under this section is binding on all teachers who hold a practising certificate and on all authorised persons.
+(7) The code of ethics that the New Zealand Teachers Council prepared and that was in existence immediately before the commencement of this section is to be treated as the code of conduct prepared under this section until a code of conduct is prepared in accordance with subsection (1).
+
+### 388 Education Council to make rules
+(1) The Education Council must, as soon as practicable after the commencement of this section, make rules providing for—
+  (a) a Complaints Assessment Committee to—
+    (i) investigate complaints of misconduct about, and reports of convictions of, teachers; and
+    (ii) carry out any other function, and exercise any power, given under this Act or delegated to it by the Education Council; and
+  (b) a Disciplinary Tribunal to conduct hearings relating to misconduct by, and convictions of, individual teachers, and to exercise the powers given under this Act; and
+  (c) the practices and procedures of the disciplinary bodies; and
+  (d) the procedures of the Education Council for dealing with reports received under the mandatory reporting provisions in sections 392 to 395 and 397; and
+  (e) the procedures relating to Police vetting, and in particular the rights of persons who are vetted.
+(2) The Education Council may make rules for any other purpose relating to the performance of its functions.
+(3) When preparing rules (and any amendments to them), the Education Council must take all reasonable steps to consult with those affected by the rules.
+(4) When rules are made under this section,—
+  (a) notice of them must be given in the Gazette; and
+  (b) the notice must say where copies of the rules may be obtained free of charge; and
+  (c) the notice must give the date on which the rules come into force, which must be a date on or after the date of the Gazette notice; and
+  (d) the Education Council must take all reasonable steps to ensure that those affected by the rules are aware of their existence and are able to obtain copies of them.
+(5) Rules made under this section are a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 389 Delegations
+(1) The Education Council may delegate any of its powers (other than this power of delegation), either generally or specifically, as it sees fit.
+(2) Despite subsection (1), the Education Council may not delegate its powers—
+  (a) to appoint a chief executive:
+  (b) to make rules:
+  (c) relating to voluntary deregistration:
+  (d) relating to cancellation of registration, practising certificates, or limited authorities to teach:
+  (e) to establish and maintain a code of conduct for teachers under section 387.
+
+### 390 Chief executive and employees
+(1) The Education Council may appoint a chief executive and any other employees it thinks necessary for the efficient performance of its functions.
+(2) No person appointed under subsection (1) may be a member of the Education Council.
+
+### 391 Superannuation
+(1) Any person who, immediately before becoming an employee of the Education Council, is a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956 or to the State Sector Retirement Savings Scheme is for the purpose of that Act treated as being employed in the Government service so long as he or she continues to be an employee of the Education Council.
+(2) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the Education Council were government service.
+(3) Nothing in subsection (1) entitles a person to become a contributor to the Government Superannuation Fund or to the State Sector Retirement Savings Scheme if the person has ceased to be a contributor.
+(4) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the Education Council is the controlling authority.
+
+**Mandatory reporting**
+
+### 392 Mandatory reporting of dismissals and resignations
+(1) When an employer dismisses a teacher for any reason, the employer must immediately report the dismissal to the Education Council.
+(2) If, within the 12 months before the resignation of a teacher from a teaching position (including a fixed-term position) or the expiry of the term of a teacher’s fixed-term position, the teacher’s employer had advised the teacher that it was dissatisfied with, or intended to investigate, any aspect of the teacher’s conduct, or the teacher’s competence, the employer must, immediately after the resignation or expiry, report it to the Education Council.
+(3) Every report under this section must be in writing and must include,—
+  (a) in the case of a report of dismissal, the reason for the dismissal; and
+  (b) in the case of a report of a resignation or expiry,—
+    (i) a description of the conduct or competence issues that the employer was concerned about; and
+    (ii) a report of what action (if any) the employer took with respect to the issues.
+
+### 393 Mandatory reporting of complaints received about former employees
+(1) The former employer of a teacher must immediately report to the Education Council if, within 12 months after a teacher ceases to be employed by the employer, the employer receives a complaint about the teacher's conduct or competence while he or she was an employee.
+(2) Every report under this section must be in writing, and must include,—
+  (a) in the case of an oral complaint, a description of aspects of the teacher's conduct or competence complained of; and
+  (b) in the case of a written complaint, a copy of the complaint; and
+  (c) a report of what action (if any) the employer took with respect to the matters complained of.
+
+### 394 Mandatory reporting of possible serious misconduct
+(1) The employer of a teacher must immediately report to the Education Council if it has reason to believe that the teacher has engaged in serious misconduct.
+(2) Every report under this section must—
+  (a) be in writing; and
+  (b) include a description of the conduct of the teacher that the employer believes to be serious misconduct; and
+  (c) include a description of what action (if any) the employer has taken in relation to it.
+
+### 395 Mandatory reporting of failure to reach required level of competence
+(1) The employer of a teacher must immediately report to the Education Council if it is satisfied that, despite undertaking competency procedures with the teacher, the teacher has not reached the required level of competence.
+(2) Every report under this section must—
+  (a) be in writing; and
+  (b) include a description of the competence issues leading to the report; and
+  (c) include a description of the action that the employer has taken in relation to it.
+
+### 396 Offence of failing to report
+(1) An employer or a former employer commits an offence and is liable on conviction to a fine not exceeding $25,000 if it fails without reasonable justification to report to the Education Council in relation to any matter of conduct as required under section 392, 393, or 394.
+(2) An employer or a former employer commits an offence and is liable on conviction to a fine not exceeding $5,000 if it fails without reasonable justification to report to the Education Council in relation to any matter of competence as required under section 392, 393, or 395.
+
+### 397 Mandatory reporting of convictions
+(1) Every holder of a practising certificate and every authorised person who is convicted of an offence punishable by imprisonment for 3 months or more must, within 7 days of conviction, report the conviction to the Education Council.
+(2) Failure to report a conviction to the Education Council in accordance with subsection (1) is misconduct that may give rise to disciplinary proceedings.
+(3) The Registrar of every court must, unless the court expressly orders otherwise, report to the Education Council when a person whom the Registrar believes to be, or to have been, a teacher is convicted of an offence punishable by imprisonment for 3 months or more.
+(4) If the Registrar has reported a conviction to the Education Council under subsection (3), then, if that conviction is subsequently quashed, the Registrar must notify the Education Council of that fact.
+
+**Disciplinary functions**
+
+### 398 Disciplinary bodies
+(1) The constitution of the disciplinary bodies must be set out in the rules, and those rules must be consistent with this section.
+(2) Both disciplinary bodies may operate in panels, and more than 1 panel of each body may operate at any one time.
+(3) The Disciplinary Tribunal must include at least 1 person who is selected from a list, prepared by the Minister after consultation with the Education Council, of people who are not teachers, employers, or members of an employing body.
+(4) The majority of members on the Disciplinary Tribunal, and on every panel of the Disciplinary Tribunal, must be registered teachers.
+(5) No member of the Complaints Assessment Committee may be a member of the Disciplinary Tribunal.
+(6) Rules must provide for the replacement of any member of a disciplinary body who, in relation to a particular complaint,—
+  (a) made the complaint; or
+  (b) is otherwise in a position of conflict of interest.
+(7) When performing their functions and exercising their powers, the disciplinary bodies must act in accordance with the rules of natural justice.
+
+### 399 Complaints about conduct
+(1) A person who wishes to make a complaint about the conduct of a teacher, including complaints about possible breaches of the code of conduct prepared by the Education Council under section 387, must first make the complaint to the teacher's employer, unless one of the circumstances in subsection (2)﻿(a) to (d) applies.
+(2) Any person (including a parent, employer, or member of the Education Council) may, at any time, make a written complaint to the Education Council about the conduct of a teacher—
+  (a) if the complaint is about a teacher who is not currently employed by an employer; or
+  (b) if the complainant considers, on reasonable grounds, that the employer will not be able to deal with the complaint effectively because of an actual or perceived conflict of interest; or
+  (c) if the complaint has been made to the employer, but the complainant is not satisfied with the way in which the complaint is being, or was, dealt with; or
+  (d) in any other exceptional circumstance.
+(3) A complaint under this section by an employer or former employer must include a report of any action that the employer or former employer has taken in relation to it.
+
+### 400 Complaints and reports relating to teacher conduct
+(1) The Education Council may refer to the Complaints Assessment Committee—
+  (a) any report received by it under any of sections 392 to 394 and 397 that relates to teacher conduct; and
+  (b) any complaint received by it under section 399.
+(2) The Education Council may refer to the Complaints Assessment Committee any matters that relate to teacher conduct of its own motion as it sees fit.
+(3) In relation to a complaint received under section 399 from a person other than the current employer of the teacher concerned,—
+  (a) if the Complaints Assessment Committee considers that the complaint should have been sent first to the teacher's employer or former employer, it must refer the matter to the employer or former employer; and
+  (b) if the teacher is currently employed by an employer and it has not already referred the matter to the employer under paragraph (a), it must notify the employer that it has received a complaint about the teacher.
+(4) An employer to whom a complaint is referred under subsection (3), or who is required to provide information in the course of an investigation by the Complaints Assessment Committee, must report to the Complaints Assessment Committee as required by it.
+
+### 401 Powers of Complaints Assessment Committee
+(1) The Complaints Assessment Committee may investigate any report, complaint, or matter referred to it under section 400.
+(2) Following an investigation, the Complaints Assessment Committee may do 1 or more of the following:
+  (a) resolve to take the matter no further:
+  (b) refer the teacher concerned to a competency review:
+  (c) refer the teacher concerned to an impairment process, which may involve either or both of the following:
+    (i) assessment of an impairment:
+    (ii) assistance with an impairment:
+  (d) if there has been made a finding of misconduct that is not serious misconduct, by agreement with the teacher and the person who made the complaint or report or referred the matter, do 1 or more of the following:
+    (i) censure the teacher:
+    (ii) impose conditions on the teacher's practising certificate or authority, such as (without limitation) requiring the teacher to undergo supervision or professional development:
+    (iii) suspend the teacher's practising certificate or authority for a specified period, or until specified conditions are met:
+    (iv) annotate the register or the list of authorised persons in a specified manner:
+    (v) direct the Education Council to impose conditions on any subsequent practising certificate issued to the teacher.
+(3) The Complaints Assessment Committee may, at any time, refer a matter to the Disciplinary Tribunal for a hearing.
+(4) The Complaints Assessment Committee must refer to the Disciplinary Tribunal any matter that the Committee considers may possibly constitute serious misconduct.
+(5) When a matter is referred to the Disciplinary Tribunal under subsection (4), a notice must be sent to the teacher concerned setting out the charge of misconduct against him or her.
+(6) Any person authorised by the Complaints Assessment Committee may require an employer, a former employer, or a government agency to provide information that the person considers necessary for the purposes of an investigation under this section.
+
+### 402 Interim suspension until matter about or involving possible serious misconduct concluded
+(1) At any time between when the Complaints Assessment Committee receives a complaint or receives or becomes aware of a report that is about or involves a teacher's possible serious misconduct and when the matter is concluded (as specified in section 403(6)), the Complaints Assessment Committee may apply to the chairperson of the Disciplinary Tribunal for an interim suspension of the teacher's practising certificate or authority.
+(2) On an application under subsection (1) for an interim suspension, the chairperson of the Disciplinary Tribunal may, having regard primarily to the safety of the children in the school or early childhood education and care service and to the reputation of the teaching profession, either with or without a hearing, suspend the teacher's practising certificate or authority.
+
+### 403 Duration of interim suspension
+(1) The duration of an interim suspension under section 402 is initially until the earliest of the following occurs:
+  (a) the expiry of a period specified by the chairperson of the Disciplinary Tribunal at the time the interim suspension commences:
+  (b) the expiry of a period specified by the chairperson of the Disciplinary Tribunal after the interim suspension commences:
+  (c) any conditions specified by the chairperson of the Disciplinary Tribunal are met:
+  (d) the interim suspension is otherwise lifted or revoked, for example, as the result of a review under subsection (2).
+(2) The chairperson of the Disciplinary Tribunal must review his or her initial interim suspension decision if the teacher—
+  (a) requests him or her to do so at any time during the initial interim period of suspension; and
+  (b) provides a written explanation or statement in support of the request.
+(3) The Disciplinary Tribunal may renew an interim suspension under section 402 for further successive periods specified by the chairperson of the Disciplinary Tribunal, if, at the end of the relevant period of interim suspension,—
+  (a) the matter has not been concluded; and
+  (b) the interim suspension has not been otherwise lifted or revoked, for example, as the result of an appeal against it under subsection (4).
+(4) A teacher whose practising certificate or authority is subject to an interim suspension under section 402 that is renewed under subsection (3) may, at any time during a further period of interim suspension, appeal the interim suspension to the Disciplinary Tribunal at a hearing, if he or she believes that there is an unreasonable delay in concluding the matter.
+(5) A hearing under subsection (4) is a hearing before the Disciplinary Tribunal, and sections 405 to 409 apply to it.
+(6) For the purposes of this section and sections 359(4) and 402(1), a matter is concluded when the later of the following occurs in relation to the complaint or report:
+  (a) the Complaints Assessment Committee has carried out whatever action it decides to take under section 401(2):
+  (b) the Disciplinary Tribunal has carried out whatever action it decides to take under section 404(1), if the Complaints Assessment Committee has referred the matter to the Disciplinary Tribunal under section 401(3) or (4).
+
+### 404 Powers of Disciplinary Tribunal
+(1) Following a hearing of a charge of serious misconduct, or a hearing into any matter referred to it by the Complaints Assessment Committee, the Disciplinary Tribunal may do 1 or more of the following:
+  (a) any of the things that the Complaints Assessment Committee could have done under section 401(2):
+  (b) censure the teacher:
+  (c) impose conditions on the teacher's practising certificate or authority for a specified period:
+  (d) suspend the teacher's practising certificate or authority for a specified period, or until specified conditions are met:
+  (e) annotate the register or the list of authorised persons in a specified manner:
+  (f) impose a fine on the teacher not exceeding $3,000:
+  (g) order that the teacher's registration or authority or practising certificate be cancelled:
+  (h) require any party to the hearing to pay costs to any other party:
+  (i) require any party to pay a sum to the Education Council in respect of the costs of conducting the hearing:
+  (j) direct the Education Council to impose conditions on any subsequent practising certificate issued to the teacher.
+(2) Despite subsection (1), following a hearing that arises out of a report under section 397 of the conviction of a teacher, the Disciplinary Tribunal may not do any of the things specified in subsection (1)﻿(f), (h), or (i).
+(3) A fine imposed on a teacher under subsection (1)﻿(f), and a sum ordered to be paid to the Education Council under subsection (1)﻿(i), are recoverable as debts due to the Education Council.
+
+### 405 Evidence at Disciplinary Tribunal hearings
+(1) The Disciplinary Tribunal may—
+  (a) receive evidence on oath (and for that purpose an officer or employee of the Education Council may administer an oath); and
+  (b) permit a person appearing as a witness before it to give evidence by written statement and verify that statement by oath.
+(2) A hearing before the Disciplinary Tribunal is a judicial proceeding for the purposes of section 109 of the Crimes Act 1961 (which relates to punishment for perjury).
+(3) Except as provided in subsections (4) to (6), every hearing of the Disciplinary Tribunal must be held in public.
+(4) If the Disciplinary Tribunal is of the opinion that it is proper to do so, having regard to the interest of any person (including (without limitation) the privacy of the complainant (if any)) and to the public interest, it may hold a hearing or part of a hearing in private.
+(5) The Disciplinary Tribunal may, in any case, deliberate in private as to its decision or as to any question arising in the course of a hearing.
+(6) If the Disciplinary Tribunal is of the opinion that it is proper to do so, having regard to the interest of any person (including (without limitation) the privacy of the complainant (if any)) and to the public interest, it may make any 1 or more of the following orders:
+  (a) an order prohibiting the publication of any report or account of any part of any proceedings before it, whether held in public or in private:
+  (b) an order prohibiting the publication of the whole or any part of any books, papers, or documents produced at any hearing:
+  (c) an order prohibiting the publication of the name, or any particulars of the affairs, of the person charged or any other person.
+
+### 406 Powers of Disciplinary Tribunal in relation to witnesses
+(1) The Disciplinary Tribunal may require a person to do either or both of the following:
+  (a) attend and give evidence at a hearing of the Disciplinary Tribunal:
+  (b) produce any documents, records, or other information in his or her custody or control that relate to the subject matter of the hearing, whether specified by the Disciplinary Tribunal or not.
+(2) A requirement under subsection (1) must be in writing and signed by the chairperson of the Disciplinary Tribunal.
+(3) A person required to attend a hearing is entitled to be paid, by the party calling the person (or, if called on the volition of the Disciplinary Tribunal itself, by the Education Council), witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
+
+### 407 Offences
+(1) A person commits an offence, and is liable on conviction to a fine not exceeding $500, who, without lawful justification, fails or refuses—
+  (a) to attend and give evidence when required by the Disciplinary Tribunal; or
+  (b) to answer truthfully and fully any question put to him or her by a member of the Disciplinary Tribunal; or
+  (c) to produce any document, record, or other information as required by the Disciplinary Tribunal.
+(2) A person commits an offence, and is liable on conviction to a fine not exceeding $1,000, if, without lawful excuse, he or she breaches an order made by the Disciplinary Tribunal under section 405(6).
+
+### 408 Privileges and immunities
+(1) Every person who does any of the following has the same privileges as witnesses have in a court:
+  (a) provides documents, things, or information to a disciplinary body:
+  (b) produces documents or things to a disciplinary body:
+  (c) gives evidence to, or answers questions from, a disciplinary body.
+(2) Every counsel appearing before a disciplinary body has the same privileges and immunities as counsel in a court.
+(3) If a person is represented at a hearing before a disciplinary body by a person other than a barrister or solicitor,—
+  (a) any communications between the person and the representative in relation to the hearing are as privileged as they would have been if the representative had been a barrister or solicitor; and
+  (b) the representative is treated as counsel for the purposes of subsection (2).
+
+### 409 Appeals
+(1) The teacher who is the subject of a decision by the Disciplinary Tribunal made under section 402(2) or 404, or a decision by the Education Council made under section 412, may appeal against that decision to a District Court.
+(2) The Complaints Assessment Committee may, with the leave of the Education Council, appeal to a District Court against a decision of the Disciplinary Tribunal made under section 402(2) or 404.
+(3) An appeal under this section must be made within 28 days after receipt of written notice of the decision, or any longer period that the court allows.
+(4) Section 356(3) to (6) applies to every appeal under this section as if it were an appeal under section 356(1).
+
+**Review of competence**
+
+### 410 Complaints about competence
+(1) A person who wishes to make a complaint about a teacher's competence must first make the complaint to the teacher's employer, unless one of the circumstances in subsection (2)﻿(a) to (d) applies.
+(2) Any person (including a parent, an employer, or a member of the Education Council) may, at any time, make a written complaint to the Education Council about the competence of a teacher—
+  (a) if the complaint is about a teacher who is not currently employed by an employer; or
+  (b) if the complainant considers, on reasonable grounds, that the employer will not be able to deal with the complaint effectively because of an actual or perceived conflict of interest; or
+  (c) if the complaint has been made to the employer, but the complainant is not satisfied with the way in which the complaint is being, or was, dealt with; or
+  (d) in any other exceptional circumstance.
+(3) The Education Council may investigate any matters that relate to teacher competence of its own motion as it sees fit.
+(4) A complaint under this section by an employer or former employer must include a description of the competence issues leading to the complaint and the actions (if any) that the employer or former employer has undertaken in relation to them.
+(5) If the Education Council considers that a complaint under this section should first have been sent to the teacher's employer, it must refer it to the employer; and, in any other case, it must notify the employer (if the teacher is currently employed by an employer) that—
+  (a) it has received a complaint about the teacher's competence; or (as the case may be)
+  (b) it is investigating the teacher's competence of its own motion.
+(6) When the Education Council refers a complaint to an employer, the employer must report as required by the Education Council.
+(7) If the Education Council is satisfied that the employer has not responded, or has not been able to respond, to the complaint in a satisfactory way, the Education Council may investigate the complaint.
+(8) When a complaint about competence is made by a member of the Education Council, that member may not be involved in any investigation of the complaint.
+
+### 411 Investigation of mandatory reports about competence
+(1) When investigating a report under section 392, 393, or 395, the Education Council may require the teacher's employer or former employer to supply information in addition to the information supplied in the report, and in that case, the employer or former employer must supply it.
+(2) When a report is made under section 392, 393, or 395 by a member of the Education Council, that member must not be involved in any investigation of the report.
+
+### 412 Powers of Education Council after finding required level of competence not attained
+Following an investigation of a complaint under section 410, or following receipt of a report under section 392, 393, or 395 and any investigation of the report, the Education Council may, if satisfied that the teacher has not attained the required level of competence,—
+  (a) do any 1 or more of the following:
+    (i) impose conditions on the teacher's practising certificate or authority:
+    (ii) refer the teacher to an impairment process, which may involve either or both of the following:
+      (A) assessment of an impairment:
+      (B) assistance with an impairment:
+    (iii) annotate the register or the list of authorised persons in a specified manner, in relation to any action taken under subparagraph (i):
+    (iv) impose conditions on any subsequent practising certificate or authority issued to the teacher; or
+  (b) cancel the teacher's practising certificate or authority.
+
+**Police vetting**
+
+### 413 Education Council must co-ordinate Police vetting
+(1) The Education Council must establish a system for co-ordinating Police vetting, in relation to—
+  (a) teacher registration and the issue of practising certificates; and
+  (b) the granting of authorities to teach.
+(2) A copy of the result of the Police vet of a person must be given to the person or body that requested it and the person who is the subject of the vet.
+(3) The Education Council must establish internal procedures for dealing with the Police vet requested for its own purposes that must, in particular,—
+  (a) identify the person or office holder within the Education Council to whom the results of the Police vet must be sent; and
+  (b) ensure that strict confidentiality is observed for the Police vet.
+
 ## Schedule 1 — Transitional provisions relating to special education
 
 ## Schedule 2 — Administrative provisions applying to Board continued by section 37
@@ -8836,6 +9041,192 @@ A constitution of an institution—
   (b) the council must comply with the directions.
 (2) The Minister must consult the council before giving the directions.
 
+## Schedule 20 — Transitional and savings provisions relating to other matters
+
+**Provision disestablishing International Education Appeal Authority and review panel**
+
+### 1 International Education Appeal Authority and review panel disestablished but must dispose of existing complaints
+(1) The International Education Appeal Authority and review panel established by the code of practice established under section 238F of the principal Act—
+  (a) are disestablished; but
+  (b) continue in existence for the purpose of dealing with all complaints made before the commencement of section 29 of the Education Amendment Act 2015.
+(2) This Act applies to complaints made before the commencement of section 29 of the Education Amendment Act 2015 as if sections 24 to 29 of that Act had not been enacted.
+
+**Provisions relating to New Zealand Teachers Council**
+
+### 2 Interpretation
+For the purposes of this schedule, unless the context otherwise requires,—
+  - **assets** means any real or personal property of any kind, whether or not subject to rights, and includes (but is not limited to)—
+    (a) any estate or interest in any land, including all rights of occupation of land or buildings:
+    (b) all buildings, vehicles, plant, equipment, and machinery, and any rights in them:
+    (c) all securities within the meaning of the Securities Act 1978:
+    (d) all rights of any kind, including rights under Acts and agreements, and all applications, objections, submissions, and appeals in respect of those rights:
+    (e) all patents, trade marks, designs, copyright, plant variety rights, and other intellectual property rights of any kind whether enforceable by Act or rule of law:
+    (f) goodwill, and any business undertaking:
+    (g) interests of any kind in any of the foregoing
+  - **liabilities** includes (but is not limited to)—
+    (a) liabilities and obligations under any Act or agreement; and
+    (b) debt securities within the meaning of the Securities Act 1978; and
+    (c) contingent liabilities; and
+    (d) interests of any kind in any of the foregoing
+  - **New Zealand Teachers Council** means the New Zealand Teachers Council established under Part 10A of this Act.
+
+### 3 Dissolution of New Zealand Teachers Council
+(1) The New Zealand Teachers Council is dissolved.
+(2) On the commencement of this clause, subject to subclauses (3) to (5), every employee of the New Zealand Teachers Council, except the chief executive, becomes an employee of the Education Council on the terms and conditions as applied immediately before he or she became an employee of the Education Council.
+(3) For the purposes of every enactment, law, determination, contract, and agreement relating to the employment of a transferred employee,—
+  (a) the employment agreement of that employee is to be treated as unbroken; and
+  (b) the employee’s period of service with the New Zealand Teachers Council, and every other period of service of that employee that is recognised by the New Zealand Teachers Council as continuous service, is to be treated as a period of service with the Education Council.
+(4) To avoid doubt, the employment of a transferred employee by the Education Council does not constitute new employment for the purposes of the KiwiSaver Act 2006.
+(5) A transferred employee is not entitled to receive any payment or benefit from the New Zealand Teachers Council or the Education Council on the grounds that the person's position in the New Zealand Teachers Council has ceased to exist or the person has ceased to be an employee of the New Zealand Teachers Council as a result of the transfer to the Education Council.
+(6) This clause overrides Part 6A of the Employment Relations Act 2000.
+
+### 4 Vesting of assets and liabilities of New Zealand Teachers Council
+The assets and liabilities of the New Zealand Teachers Council vest in the Education Council.
+
+### 5 Proceedings commenced before this clause comes into force
+(1) All proceedings or any other matters involving the New Zealand Teachers Council that are yet to be determined or completed on the commencement of this clause are to be determined or completed by the Education Council in accordance with the provisions of this Act as in force immediately before the commencement of this clause as if the Education Council were the New Zealand Teachers Council.
+(2) Every application to the New Zealand Teachers Council for registration, a practising certificate, or a limited authority to teach that had not been determined or completed on the commencement of this clause must be determined or completed by the Education Council in accordance with the provisions of this Act as amended by section 40 of the Education Amendment Act 2015.
+(3) Subclause (2) overrides subclause (1).
+
+### 6 Certain matters to be treated as having been done under this Act as amended by Education Amendment Act 2015
+Despite anything in clause 3 of Schedule 20,—
+  (a) any teacher who is registered immediately before the commencement of this clause is to be treated as being registered under this Act as amended by section 40 of the Education Amendment Act 2015; and
+  (b) any teacher who, immediately before the commencement of this clause, holds a practising certificate is to be treated as holding a practising certificate under this Act as amended by section 40 of the Education Amendment Act 2015, but that practising certificate expires on the earlier of the following:
+    (i) the date on which the practising certificate would have expired under this Act before it was amended by section 40 of the Education Amendment Act 2015; or
+    (ii) 24 months after the commencement of this clause; and
+  (c) any person who, immediately before the commencement of this clause, holds a limited authority to teach is to be treated as holding a limited authority to teach under this Act as amended by section 40 of the Education Amendment Act 2015; but that limited authority to teach expires when it would have expired under this Act if this Act had not been amended by section 40 of the Education Amendment Act 2015; and
+  (d) where, immediately before the commencement of this clause, a person was provisionally registered under section 123, or registered subject to confirmation under section 124(3), the person’s practising certificate must include a statement to that effect; and
+  (e) every register of teachers or list of holders of limited authorities to teach made by the New Zealand Teachers Council under this Act that is in existence immediately before the commencement of this clause is to be treated as a register or list made by the Education Council under this Act as amended by section 40 of the Education Amendment Act 2015; and
+  (f) any rules made under this Act that are in force immediately before the commencement of this clause (other than the New Zealand Teachers Council Election Rules 2002) are to be treated as rules made under this Act as amended by section 40 of the Education Amendment Act 2015, but expire 12 months after the commencement of this clause if they are not replaced by rules made under this Act after the commencement of this clause; and
+  (g) any system for co-ordinating Police vetting established under this Act that is in existence immediately before the commencement of this clause is to be treated as being established under this Act as amended by section 40 of the Education Amendment Act 2015; and
+  (h) any arrangement to facilitate the matching of register information and information about payment of teacher salaries established under this Act that is in existence immediately before the commencement of this clause is to be treated as an arrangement established under this Act as amended by section 40 of the Education Amendment Act 2015); and
+  (i) any person who was a member of a disciplinary body immediately before the commencement of this clause is to be treated as a person appointed as a member of that disciplinary body under this Act as amended by section 40 of the Education Amendment Act 2015; and
+  (j) any rules described in paragraph (f) that are inconsistent with any provision of this Act after this Act is amended by section 40 of the Education Amendment Act 2015 are to be treated as expired and do not apply; and
+  (k) all standards made under this Act for teacher registration or the issue of practising certificates that were in force immediately before the commencement of this clause are to be treated as standards and criteria for ongoing practice or (as the case may be) the issue of practising certificates made under this Act as amended by section 40 of the Education Amendment Act 2015, but expire on the earlier of—
+    (i) their replacement by standards and criteria made under this Act after the commencement of this clause:
+    (ii) the day 24 months after the commencement of this clause.
+
+### 7 No compensation for loss of office
+A member of the New Zealand Teachers Council is not entitled to any compensation or other payment or benefit relating to his or her ceasing, for any reason, to hold office as a member, including (but not limited to) by reason of the dissolution of the New Zealand Teachers Council.
+
+### 8 Employment in registered schools before commencement of this clause
+For the purposes of section 363, employment before the commencement of this clause in a registered school (within the meaning of this Act or the Education Act 1964) is to be treated as employment in the general education system.
+
+## Schedule 21 — Governance provisions of Education Council
+
+### 1 Appointment as member
+(1) The Minister must appoint all 9 members of the Education Council.
+(2) At least 5 of the members must be people who are registered under section 353, and hold a practising certificate under section 361.
+(3) At least 5 members must be appointed by the Minister from nominations received following notification of the Education Council vacancy in the Gazette.
+(4) The Gazette notice must specify the appointment process and must list the criteria for appointment specified in subclause (5).
+(5) In making an appointment, the Minister must—
+  (a) have regard to the collective skills, experience, and knowledge making up the overall composition of the Education Council; and
+  (b) take into account each candidate's ability to carry out the duties of a member of the Education Council, including (but not limited to) the candidate's—
+    (i) knowledge of education; and
+    (ii) experience of governance; and
+    (iii) leadership experience and skills; and
+    (iv) financial skills; and
+    (v) understanding of the partnership principles of the Treaty of Waitangi.
+(6) The Minister must appoint each member by written notice to the member.
+(7) The notice of appointment must state—
+  (a) the date on which the appointment takes effect; and
+  (b) the term for which the member is appointed.
+
+### 2 Disqualification from office
+The following persons are disqualified from being members:
+  (a) a person who is an undischarged bankrupt:
+  (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under any enactment other than this Act:
+  (c) a person who is subject to a property order under the Protection of Personal and Property Rights Act 1988:
+  (d) a person in respect of whom a personal order has been made under that Act that reflects adversely on the person's—
+    (i) competence to manage his or her own affairs in relation to his or her property; or
+    (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of his or her personal care and welfare:
+  (e) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more, or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon, served the sentence, or otherwise suffered the penalty imposed on the person:
+  (f) a member of Parliament.
+
+### 3 Removal from office
+(1) The Minister may revoke the appointment of a member of the Education Council at any time for just cause.
+(2) The revocation must be made by written notice to the member with a copy to the Education Council.
+(3) The written notice must state—
+  (a) the date on which the removal takes effect, which must not be earlier than the date on which the notice is received; and
+  (b) the reasons for the removal.
+(4) In this clause, just cause—
+  (a) includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the board or the individual duties of members (depending on the seriousness of the breach); and
+  (b) in the case of a member who held a practising certificate under section 361 when appointed, includes—
+    (i) ceasing to hold the certificate; and
+    (ii) the suspension of the certificate.
+(5) The Minister may remove a member with as little formality and technicality, and as much expedition, as is permitted by—
+  (a) the principles of natural justice; and
+  (b) a proper consideration of the matter.
+(6) A Judge may be removed as a member in accordance with the removal provisions of this Act for a breach of the Education Council’s collective duties, but only if all of the other members are being removed for the same breach at the same time (and the removal does not affect his or her tenure as a Judge).
+(7) A member of the Education Council is not entitled to any compensation or other payment or benefit relating to his or her ceasing, for any reason, to hold office as a member.
+
+### 4 Continuation in office
+(1) Each member of the Education Council continues in office (unless he or she ceases to hold office under subclause (4)) until a successor is appointed.
+(2) A member may resign from office by written notice to the Minister (with a copy to the Education Council) signed by the member.
+(3) The resignation is effective on receipt by the Minister of the notice or at any later time specified in the notice.
+(4) A member of the Education Council ceases to hold office if he or she—
+  (a) resigns; or
+  (b) is removed from office; or
+  (c) becomes disqualified from being a member.
+
+### 5 Chairperson
+(1) The Minister must appoint one of the members as chairperson by notice in writing stating the date on which the appointment takes effect.
+(2) The chairperson holds that office until—
+  (a) he or she resigns from that office; or
+  (b) he or she is removed from it by the Minister; or
+  (c) he or she ceases to hold office as a member; or
+  (d) the term of office specified on appointment expires.
+(3) A person may be reappointed as chairperson for a further term.
+(4) The chairperson may, without resigning as a member, resign from that office by written notice to the Minister (with a copy to the Education Council).
+(5) The notice of resignation must state the date on which the resignation takes effect.
+(6) The Minister may, after consultation with the person concerned, remove a chairperson of the Education Council from that office by written notice to the person (with a copy to the Education Council).
+(7) The notice of removal must state the date on which the removal takes effect.
+
+### 6 Administrative provisions
+(1) The powers of the Education Council are not affected by any vacancy in its members.
+(2) The Education Council may appoint committees to advise it on any matters relating to the Education Council’s functions and powers.
+(3) All questions arising at any meeting must be decided by a majority of those members present with the chairperson having a casting vote.
+(4) Except as otherwise provided under this or another Act, the members may regulate their own procedure.
+
+### 7 Collective duties
+(1) The Education Council must act in a manner consistent with its functions, duties, and powers.
+(2) The Education Council must ensure that it performs or exercises its functions, duties, and powers efficiently and effectively.
+(3) The Education Council must ensure that it operates in a financially responsible manner and, for this purpose, that it prudently manages its assets and liabilities.
+
+### 8 Individual duties
+(1) A member of the Education Council must not contravene, or cause the contravention of, or agree to the Education Council contravening, this Act.
+(2) A member of the Education Council must, when acting as a member, act with honesty and integrity.
+(3) A member of the Education Council must, when acting as a member, act in good faith and not pursue his or her own interests at the expense of the Education Council's interests.
+(4) A member of the Education Council must, when acting as a member, exercise the care, diligence, and skill that a reasonable person would exercise in the same circumstances, taking into account (without limitation)—
+  (a) the nature of the Education Council; and
+  (b) the nature of the action; and
+  (c) the position of the member and the nature of the responsibilities undertaken by him or her.
+(5) A member of the Education Council who has information in his or her capacity as a member that would not otherwise be available to him or her must not disclose that information to any person, or make use of, or act on, that information, except—
+  (a) in the performance of the Education Council's functions; or
+  (b) as required or permitted by law; or
+  (c) when the member is first authorised to do so by the Education Council and the disclosure, use, or act in question will not, or will be unlikely to, prejudice the Education Council.
+
+### 9 Members not personally liable
+No member of the Education Council is personally liable for any act done or omitted to be done by the body or any loss to the Education Council arising out of any act done or omitted to be done by the member if the act or omission was (so far as the member’s involvement is concerned) in good faith and in pursuance or intended pursuance of the functions of the Education Council.
+
+### 10 Conflicts of interest
+(1) A person is interested in a matter if he or she—
+  (a) may derive a financial benefit from the matter; or
+  (b) is the spouse, civil union partner, de facto partner, child, or parent of a person who may derive a financial benefit from the matter; or
+  (c) may have a financial interest in a person to whom the matter relates; or
+  (d) is a partner, director, officer, board member, or trustee of a person who may have a financial interest in a person to whom the matter relates; or
+  (e) is otherwise directly or indirectly interested in the matter.
+(2) A member who is interested in a matter relating to the Education Council must disclose to the Education Council details of the interest as soon as practicable after the member becomes aware that he or she is interested.
+(3) The details that must be disclosed are—
+  (a) the nature of the interest and the monetary value of the interest (if the monetary value can be quantified); or
+  (b) the nature and extent of the interest (if the monetary value cannot be quantified).
+(4) A member who is interested in a matter—
+  (a) must not vote or take part in any discussion or decision of the board or any committee relating to the matter, or otherwise participate in any activity of the Education Council that relates to the matter; and
+  (b) must not sign any document relating to the entry into a transaction or the initiation of the matter.
+(5) In this clause, matter means—
+  (a) the Education Council's performance of its functions or exercise of its powers; or
+  (b) an arrangement, agreement, or contract made or entered into, or proposed to be entered into, by the Education Council.
+
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Education Amendment Act (No 4) 1991, and shall be read together with and deemed part of the Education Act 1989 (hereinafter referred to as “the principal Act”).
 (2) Except as provided in sections 5(5), 16(2), 17(2), 18(2), and 34, this Act shall come into force on 1 January 1992.
@@ -8906,13 +9297,13 @@ Every statement (such as a syllabus) corresponding to a national curriculum stat
 **Transitional provisions relating to teacher registration**
 
 ### 69 Delayed application of teacher registration provisions
-(1) Part 10 of the principal Act does not apply to, or apply in relation to, Kura Kaupapa Maori or any person employed in a teaching position at a Kura Kaupapa Maori, except in accordance with regulations made under subsection (2).
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out 1 or more transition plans for bringing Kura Kaupapa Maori and early childhood services (as defined in section 120 of the principal Act) under Part 10 of the principal Act, including regulations—
-  (a) declaring specified early childhood services, or early childhood services of 1 or more specified types or descriptions, to be early childhood education and care services for the purpose of Part 10 of the principal Act:
-  (b) setting a date or dates on which, or a period or periods within which, specified provisions of Part 10 of the principal Act apply to—
+(1) Part 31 of the principal Act does not apply to, or apply in relation to, Kura Kaupapa Maori or any person employed in a teaching position at a Kura Kaupapa Maori, except in accordance with regulations made under subsection (2).
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out 1 or more transition plans for bringing Kura Kaupapa Maori and early childhood services (as defined in section 348 of the principal Act) under Part 31 of the principal Act, including regulations—
+  (a) declaring specified early childhood services, or early childhood services of 1 or more specified types or descriptions, to be early childhood education and care services for the purpose of Part 31 of the principal Act:
+  (b) setting a date or dates on which, or a period or periods within which, specified provisions of Part 31 of the principal Act apply to—
     (i) Kura Kaupapa Maori, or persons employed in teaching positions at Kura Kaupapa Maori:
     (ii) early childhood services or persons employed in teaching positions at those early childhood services:
-  (c) modifying the definition of teaching position in section 120 of the principal Act for the purposes of applying it to Kura Kaupapa Maori, or early childhood services, or both.
+  (c) modifying the definition of teaching position in section 348 of the principal Act for the purposes of applying it to Kura Kaupapa Maori, or early childhood services, or both.
 
 **Transitional provisions relating to New Zealand Teachers Council**
 
