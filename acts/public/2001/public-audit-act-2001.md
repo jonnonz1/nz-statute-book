@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -47,17 +47,17 @@ In this Act, unless the context otherwise requires,—
 ### 5 Meaning of public entity
 (1) In this Act, public entity means each of the following entities:
   (a) the Crown:
-  (b) each office of Parliament, except where another auditor has been appointed for that office under section 45F(1)(b) of the Public Finance Act 1989:
+  (b) each office of Parliament, except where another auditor has been appointed for that office under section 45F(1)﻿(b) of the Public Finance Act 1989:
   (c) an entity of a class described in Schedule 1:
   (d) an entity listed in Schedule 2:
   (e) an entity in respect of which the Auditor-General is the auditor under any other enactment (other than section 19):
   (f) an entity which is controlled by 1 or more entities of the kinds referred to in paragraphs (a) to (e).
-(2) For the purposes of subsection (1)(f), an entity is controlled by 1 or more other entities if—
+(2) For the purposes of subsection (1)﻿(f), an entity is controlled by 1 or more other entities if—
   (a) the entity is a subsidiary of any of those other entities; or
   (b) the other entity or entities together control the entity within the meaning of any relevant financial reporting standard; or
   (c) the other entity or entities can together control directly or indirectly the composition of the board of the entity within the meaning of sections 7 and 8 of the Companies Act 1993 (which, for the purposes of this paragraph, are to be read with all necessary modifications).
 (3) Despite subsections (1) and (2), an entity is not a public entity if,—
-  (a) but for this subsection, it would be a public entity only by virtue of the application of both subsection (1)(f) and subsection (2)(c); and
+  (a) but for this subsection, it would be a public entity only by virtue of the application of both subsection (1)﻿(f) and subsection (2)﻿(c); and
   (b) it is specifically referred to in an enactment (either by name or otherwise); and
   (c) that enactment expressly requires or permits its financial statements to be audited by a person other than the Auditor-General.
 
@@ -132,8 +132,8 @@ The provisions set out in Schedule 3 apply to the Auditor-General, Deputy Audito
   (c) any act or omission of a public entity, in order to determine whether waste has resulted or may have resulted or may result:
   (d) any act or omission showing or appearing to show a lack of probity or financial prudence by a public entity or 1 or more of its members, office holders, and employees.
 (2) An audit under this section may relate to 1 or more public entities.
-(3) Subsection (1)(a) does not apply to the Reserve Bank of New Zealand or any registered bank (as defined in section 2(1) of the Reserve Bank of New Zealand Act 1989).
-(4) If subsection (1)(a) applies and there is an applicable government or local authority policy to which the public entity is required to adhere, the examination is to be limited to the extent to which activities are being carried out effectively and efficiently in a manner consistent with that policy.
+(3) Subsection (1)﻿(a) does not apply to the Reserve Bank of New Zealand or any registered bank (as defined in section 2(1) of the Reserve Bank of New Zealand Act 1989).
+(4) If subsection (1)﻿(a) applies and there is an applicable government or local authority policy to which the public entity is required to adhere, the examination is to be limited to the extent to which activities are being carried out effectively and efficiently in a manner consistent with that policy.
 
 ### 17 Other auditing services
 The Auditor-General may, with the agreement of a public entity, perform for that entity any services of a kind that it is reasonable and appropriate for an auditor to perform.
@@ -234,7 +234,7 @@ For the purpose of obtaining documents, information, or other evidence relevant 
 
 ### 31 Self-incrimination
 (1) A person is not excused from answering a question or giving any information or document under this Act on the ground that to do so may incriminate or tend to incriminate that person.
-(2) A self-incriminating statement or document made or given under this Act is not admissible as evidence in criminal proceedings against that person except on the prosecution of that person for an offence against section 108 of the Crimes Act 1961 or section 39(1)(c) of this Act in relation to that statement or document.
+(2) A self-incriminating statement or document made or given under this Act is not admissible as evidence in criminal proceedings against that person except on the prosecution of that person for an offence against section 108 of the Crimes Act 1961 or section 39(1)﻿(c) of this Act in relation to that statement or document.
 
 ## Part 5 — Appointments and delegations
 
@@ -245,14 +245,16 @@ For the purpose of obtaining documents, information, or other evidence relevant 
   (a) an employee of the Auditor-General:
   (b) a person qualified to be an auditor of an entity under section 36(1) and (4) of the Financial Reporting Act 2013:
   (c) a partnership, if all or some of the partners are persons who are qualified to be appointed as auditors of an entity under section 36(1) and (4) of the Financial Reporting Act 2013.
-(1A) The Auditor-General must, before appointing a person to act as the auditor of an FMC reporting entity under subsection (1)(a) or (b), be satisfied that the person—
-  (a) meets the prescribed minimum standards for the issue of a licence prescribed under subpart 3 of Part 2 of the Auditor Regulation Act 2011; or
-  (b) has the competence, qualifications, and experience that are equivalent to, or as satisfactory as, those standards.
-(1B) The Auditor-General must, before appointing a partnership to act as the auditor of an FMC reporting entity under subsection (1)(c), be satisfied that the partnership—
+(1A) The Auditor-General must, before appointing a person to act as the auditor of an FMC reporting entity under subsection (1)﻿(a) or (b), be satisfied that the person—
+  (a) is a natural person who—
+    (i) meets the prescribed minimum standards for the issue of a licence prescribed under subpart 3 of Part 2 of the Auditor Regulation Act 2011; or
+    (ii) has the competence, qualifications, and experience that are equivalent to, or as satisfactory as, those standards; or
+  (b) is a body corporate that is a registered audit firm (within the meaning of the Auditor Regulation Act 2011).
+(1B) The Auditor-General must, before appointing a partnership to act as the auditor of an FMC reporting entity under subsection (1)﻿(c), be satisfied that the partnership—
   (a) meets the prescribed minimum standards for the registration of an audit firm prescribed under subpart 3 of Part 2 of the Auditor Regulation Act 2011; or
   (b) meets other requirements that are equivalent to, or as satisfactory as, those standards.
 (1C) Subsections (1A) and (1B) apply only after the relevant minimum standards have been prescribed under subpart 3 of Part 2 of the Auditor Regulation Act 2011.
-(2) If a partnership is appointed under subsection (1)(c),—
+(2) If a partnership is appointed under subsection (1)﻿(c),—
   (a) the appointment of the partnership is to be treated as an appointment of all the persons who are partners in the firm from time to time; and
   (b) if the partnership includes persons who are not qualified to be appointed as auditors of an entity under section 36(1) and (4) of the Financial Reporting Act 2013, the persons who are not qualified to be appointed as auditors must not act as auditors.
 (3) An appointment must be in writing and may be made subject to any restrictions and conditions that the Auditor-General thinks fit.
