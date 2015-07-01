@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -93,7 +93,6 @@ In this Act, unless the context otherwise requires,—
     (ja) a DIMS facility, if the investment authority covers only category 2 products; or
     (k) any other product specified by the regulations; or
     (l) a renewal or variation of the terms or conditions of any existing category 2 product
-  - **chartered accountant** has the same meaning as in section 2 of the New Zealand Institute of Chartered Accountants Act 1996
   - **class of financial products** means a group of financial products with similar characteristics
   - **class service** has the meaning set out in section 15(3)
   - **client** has the meaning set out in section 5A
@@ -154,7 +153,7 @@ In this Act, unless the context otherwise requires,—
   - **investment authority** has the meaning set out in section 12(3)
   - **investment-linked contract of insurance** has the meaning set out in the regulations
   - **investment planning service** has the meaning set out in section 11
-  - **issuer** has the same meaning as in section 11(1)(b) of the Financial Markets Conduct Act 2013
+  - **issuer** has the same meaning as in section 11(1)﻿(b) of the Financial Markets Conduct Act 2013
   - **lawyer** has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006
   - **lecturer** means a person who is employed by a university, polytechnic, or college of education to teach or instruct students of the university, polytechnic, or college of education
   - **licensed market** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
@@ -182,13 +181,14 @@ In this Act, unless the context otherwise requires,—
     (ca) the person to whom the investment authority is granted, in the case of a DIMS facility:
     (d) the person specified by regulations, in any other case
   - **promoter** means, in relation to an FMCA financial product, a person who is instrumental in the formulation of a plan or programme pursuant to which the product is offered
-  - **QFE** or means an entity described in section 63(1)(a) or a number of partner entities described in section 63(1)(b)
+  - **QFE** or means an entity described in section 63(1)﻿(a) or a number of partner entities described in section 63(1)﻿(b)
   - **QFE adviser** means an individual who is not an authorised financial adviser and who is—
     (a) an employee of a QFE or any member of a QFE group; or
     (b) a nominated representative of a QFE or a partner entity
   - **QFE group** means a group of entities that consists of—
     (a) the partner entities that are part of a QFE and the associated entities of that QFE, if any; or
     (b) in the case of a QFE that does not come within paragraph (a), that QFE and its associated entities
+  - **qualified statutory accountant** has the same meaning as in section 5(1) of the Financial Reporting Act 2013
   - **real estate agent** means a person who is a licensee under the Real Estate Agents Act 2008
   - **record** includes—
     (a) any file, register, ledger, book of account, or passbook, and any reproduction or copy of them or any entry in any of them; and
@@ -251,7 +251,7 @@ A retail client is a client of a financial adviser or broker who is not a wholes
   (gb) a person who is, in relation to a DIMS facility provided by a DIMS licensee, a wholesale investor under clause 36(b) of Schedule 1 of the Financial Markets Conduct Act 2013 if the service relates to that DIMS facility:
   (h) an eligible investor under section 5D.
 (2) If subsection (1) applies to a person (A), it applies equally to any controlling owner, director, employee, agent, or other person acting in the course of, and for the purposes of, A's business to the same extent as it applies to A.
-(3) The relevant time, for the purposes of applying Schedule 1 of the Financial Markets Conduct Act 2013 under subsection (1)(f), must be treated as the time immediately before the service is received by the client.
+(3) The relevant time, for the purposes of applying Schedule 1 of the Financial Markets Conduct Act 2013 under subsection (1)﻿(f), must be treated as the time immediately before the service is received by the client.
 
 ### 5D Who are eligible investors
 (1) A client is an eligible investor if—
@@ -261,8 +261,8 @@ A retail client is a client of a financial adviser or broker who is not a wholes
     (ii) the client understands the consequences of certifying himself, herself, or itself to be an eligible investor (including that the competency standards and requirements of the code will not be applicable (if relevant) and that the financial adviser or broker may not be a member of an approved dispute resolution scheme); and
   (b) the client states the reasons for this certification; and
   (c) a financial adviser, a QFE, or a broker signs a written acceptance of the certification in accordance with section 5E.
-(2) A certification may be specific to a particular service or class of services or may be general (but is effective only in relation to services provided after all of the requirements of subsection (1)(a) to (c) are met).
-(3) A certification relating only to a discretionary investment management service or a broking service (or both) does not need to certify as to the matters referred to in subsection (1)(a)(i).
+(2) A certification may be specific to a particular service or class of services or may be general (but is effective only in relation to services provided after all of the requirements of subsection (1)﻿(a) to (c) are met).
+(3) A certification relating only to a discretionary investment management service or a broking service (or both) does not need to certify as to the matters referred to in subsection (1)﻿(a)﻿(i).
 
 ### 5E Acceptance of certification
 (1) A financial adviser, a QFE, or a broker must not accept a certification unless he, she, or it, having considered the client's reasons for the certification,—
@@ -347,7 +347,7 @@ This Act binds the Crown.
   (a) decides which FMCA financial products to acquire or dispose of on behalf of a client (B); and
   (b) in doing so is acting under an authority granted to A (or A's employer or principal) to manage some or all of B's holdings of FMCA financial products.
 (2) In determining whether A has that authority, it does not matter if B has the right to be consulted on, or to countermand, A's decisions.
-(3) For the purposes of this Act, the authority referred to in subsection (1)(b) is the investment authority.
+(3) For the purposes of this Act, the authority referred to in subsection (1)﻿(b) is the investment authority.
 
 ### 13 Exemption for incidental service
 (1) A service is not a financial adviser service for the purposes of this Act if the service is provided only as an incidental part of another business that is not otherwise a financial service or does not have, as its principal activity, the provision of another financial service.
@@ -362,7 +362,7 @@ This Act binds the Crown.
   (a) a teacher, lecturer, journalist, or State services employee providing a relevant service in the course of that occupation:
   (b) a Minister of the Crown providing a relevant service in the course of his or her duties as a Minister of the Crown:
   (c) a member of Parliament providing a relevant service in the course of his or her duties as a member of Parliament:
-  (d) a lawyer, incorporated law firm, conveyancing practitioner, chartered accountant, tax agent, real estate agent, registered legal executive, registered valuer, or any other exempted class of service provider (as specified in the regulations) providing a relevant service in the ordinary course of business of that kind:
+  (d) a lawyer, incorporated law firm, conveyancing practitioner, qualified statutory accountant, tax agent, real estate agent, registered legal executive, registered valuer, or any other exempted class of service provider (as specified in the regulations) providing a relevant service in the ordinary course of business of that kind:
   (e) a statutory officer, a Crown organisation (other than Public Trust), or the Reserve Bank of New Zealand—
     (i) discharging any duties or exercising any powers of the statutory officer, the Crown organisation, or the Reserve Bank of New Zealand under any enactment; or
     (ii) doing anything that is incidental to the discharge of the functions of the statutory officer, the Crown organisation, or the Reserve Bank of New Zealand under any enactment:
@@ -376,7 +376,7 @@ This Act binds the Crown.
   (k) an independent adviser providing a relevant service in the course of that person's functions under the Takeovers Code:
   (ka) a person providing a relevant service that is—
     (i) covered by a market services licence for discretionary investment management services under the Financial Markets Conduct Act 2013; or
-    (ii) exempted, by section 389 (other than by section 389(2)(b)) of that Act or otherwise by or under that Act, from the licensing requirement under section 388(c) of that Act:
+    (ii) exempted, by section 389 (other than by section 389(2)﻿(b)) of that Act or otherwise by or under that Act, from the licensing requirement under section 388(c) of that Act:
   (l) an approved rating agency providing a relevant service in connection with a rating given or to be given by it:
   (m) any form of communication made by or on behalf of an issuer or offeror to a person that is contained in, or given in connection with, an offer of FMCA financial products to that person that does not require disclosure under Part 3 of the Financial Markets Conduct Act 2013 because of any 1 or more of clauses 3 to 5 of Schedule 1 of that Act:
   (n)
@@ -387,7 +387,7 @@ This Act binds the Crown.
   (p) a person providing a relevant service to a product provider in connection with a financial product of that provider in the course of an appointment by, or under a contract for services with, the product provider:
   (q) any other person providing a relevant service in circumstances exempted under the regulations.
 (2) If subsection (1) applies to a person (A), it applies equally to any controlling owner, director, employee, agent, or other person acting in the course of, and for the purposes of, A's business to the same extent as it applies to A.
-(2A) However, subsections (1)(ka) and (2) do not limit the application of the terms and conditions of authorisation or the code to an authorised financial adviser (see sections 55(2) and 86(6)).
+(2A) However, subsections (1)﻿(ka) and (2) do not limit the application of the terms and conditions of authorisation or the code to an authorised financial adviser (see sections 55(2) and 86(6)).
 (3) In this section, relevant service means a service that, but for subsection (1), would be a financial adviser service.
 
 **When financial adviser service is personalised service or class service**
@@ -519,7 +519,7 @@ A person (A) who provides a financial adviser service on behalf of the business 
 ### 23 What financial adviser must disclose
 (1) Regulations for the purposes of prescribing disclosure for financial advisers under section 22 may require disclosure,—
   (a) for authorised financial advisers, in relation to any or all of the matters referred to in subsection (2).
-  (b) for other financial advisers, in relation to any or all of the matters referred to in subsection (2)(a) to (g).
+  (b) for other financial advisers, in relation to any or all of the matters referred to in subsection (2)﻿(a) to (g).
 (2) The matters are—
   (a) contact details:
   (b) the type of financial adviser:
@@ -596,7 +596,7 @@ Any advertisement advertising financial adviser services by an authorised financ
 ### 31 Disclosure by 2 or more financial advisers in joint disclosure statement
 (1) Subject to regulations being made under subsection (3), disclosure may be made by 2 or more financial advisers in a joint disclosure statement.
 (2) A joint disclosure statement must—
-  (a) comply with section 24(2)(a) to (c); and
+  (a) comply with section 24(2)﻿(a) to (c); and
   (b) comply with regulations prescribing the form of the joint disclosure statement; and
   (c) be—
     (i) provided to the client; or
@@ -775,7 +775,7 @@ A person (A) is eligible to be authorised for a financial adviser service if—
   (b) providing a personalised DIMS, generally or in specified cases, in relation to any category 1 product, specified category 1 products, or specified classes of category 1 product:
   (c) providing investment planning services generally or in specified cases:
   (d) providing, in any case that is specified in the regulations for the purposes of this paragraph, services of the kind referred to in paragraph (a) or (b) or both, but in relation to any category 2 product, specified category 2 products, or specified classes of category 2 products.
-(1A) If the scope of discretionary investment management services that may be authorised under this Act is limited by the regulations, a new or renewed authorisation for that service under subsection (1)(b) must not exceed that prescribed scope.
+(1A) If the scope of discretionary investment management services that may be authorised under this Act is limited by the regulations, a new or renewed authorisation for that service under subsection (1)﻿(b) must not exceed that prescribed scope.
 (2) The authorisation may be subject to terms and conditions relating to financial adviser services or broking services or to both (and may apply to services provided by an authorised financial adviser even if the adviser is providing that service as, or on behalf of the business of, a DIMS licensee under the Financial Markets Conduct Act 2013).
 (3) If the FMA approves the application, the FMA must notify the applicant in writing of—
   (a) the authorisation; and
@@ -787,7 +787,7 @@ A person (A) is eligible to be authorised for a financial adviser service if—
   (b) notify the applicant in writing of—
     (i) the decision and the reasons for it; and
     (ii) the applicant’s right of appeal against the decision.
-(6) Subsection (1)(d) does not limit or affect anything in section 18.
+(6) Subsection (1)﻿(d) does not limit or affect anything in section 18.
 
 ### 55A Variation of terms and conditions and period of authorisation
 (1) An authorised financial adviser may apply to the FMA for a variation of the terms and conditions of the adviser’s authorisation.
@@ -802,7 +802,7 @@ A person (A) is eligible to be authorised for a financial adviser service if—
   (a) confirm 1 or more of the variations effected by subsection (5):
   (b) cancel 1 or more of the variations effected by subsection (5):
   (c) propose further terms and conditions by giving the authorised financial adviser a notice under subsection (3).
-(8) The FMA must give the authorised financial adviser notice of any decision taken under subsection (7)(a) or (b).
+(8) The FMA must give the authorised financial adviser notice of any decision taken under subsection (7)﻿(a) or (b).
 
 ### 56 FMA must notify Registrar of authorisation
 (1) If the FMA authorises the applicant, the FMA must notify the Registrar in writing of—
@@ -817,7 +817,7 @@ A person (A) is eligible to be authorised for a financial adviser service if—
   (b) the FMA receives a written request from the person requesting the FMA to cancel his or her authorisation; or
   (c) the person ceases to be registered; or
   (d) the FMA cancels his or her authorisation under section 59(2).
-(2) The FMA must notify the Registrar in writing of termination of authorisation under subsection (1)(a), (b), or (d).
+(2) The FMA must notify the Registrar in writing of termination of authorisation under subsection (1)﻿(a), (b), or (d).
 
 ### 58 Renewal of authorisation
 (1) An authorised financial adviser may apply for renewal of authorisation.
@@ -838,7 +838,7 @@ A person (A) is eligible to be authorised for a financial adviser service if—
   (a) has ceased to be eligible for authorisation; or
   (b) has breached or is in breach of this Act (excluding section 37) or the regulations; or
   (c) has breached or is in breach of a term or condition of his or her authorisation; or
-  (d) is the subject of a recommendation by the disciplinary committee under section 101(3)(a), (b), or (c); or
+  (d) is the subject of a recommendation by the disciplinary committee under section 101(3)﻿(a), (b), or (c); or
   (e) has failed to pay a fee as required by this Act or the regulations or a levy as required by section 68 of the Financial Markets Authority Act 2011 or regulations made under that section.
 (2) In any case to which this section applies, the FMA may, after following the procedure set out in section 60 and subject to subsection (3),—
   (a) cancel the authorisation; or
@@ -877,7 +877,7 @@ The FMA must not take any of the actions specified in section 59(2) unless it ha
 (1) A QFE is—
   (a) an entity that is registered and has QFE status; or
   (b) a number of partner entities that are each registered and jointly have QFE status.
-(2) For the purposes of any powers or rights conferred, or obligations or liabilities imposed, on QFEs by this Act, a QFE described in subsection (1)(b) is taken to be a separate entity and a person.
+(2) For the purposes of any powers or rights conferred, or obligations or liabilities imposed, on QFEs by this Act, a QFE described in subsection (1)﻿(b) is taken to be a separate entity and a person.
 (3) Subsection (2) does not limit any obligation or liability imposed on a partner entity.
 
 ### 64 Who may apply for QFE status
@@ -903,7 +903,7 @@ An application may be made to the FMA by—
     (i) discharge its or their ongoing compliance obligations under section 76 and all other obligations on it under this Act or the regulations (other than any broker obligations); and
     (ii) comply with the terms and conditions (if any) of the grant of QFE status; and
     (iii) maintain procedures to ensure that retail clients of the QFE receive adequate consumer protection.
-(2) In determining under subsection (1)(c) whether clients receive adequate consumer protection, the FMA must, in relation to QFE advisers who provide personalised services that relate to category 1 products,—
+(2) In determining under subsection (1)﻿(c) whether clients receive adequate consumer protection, the FMA must, in relation to QFE advisers who provide personalised services that relate to category 1 products,—
   (a) consider whether the clients will receive protection of a similar standard to that provided by advisers who are subject to the code; and
   (b) in doing so, take into account the scope of category 1 products in respect of which those QFE advisers provide financial adviser services.
 
@@ -1014,7 +1014,7 @@ The status of an associated entity terminates when—
   (b) the FMA receives a written request from the QFE or from any partner entity requesting the FMA to cancel the QFE status; or
   (c) the entity that forms, or any of the partner entities that jointly form, the QFE ceases to be registered; or
   (d) the FMA cancels its QFE status under section 75D(2).
-(2) The FMA must notify the Registrar in writing of the termination of QFE status under subsection (1)(a), (b), or (d).
+(2) The FMA must notify the Registrar in writing of the termination of QFE status under subsection (1)﻿(a), (b), or (d).
 
 ### 75B FMA may designate certain QFE products as beyond scope of QFE advisers
 (1) If, because of the complexity of a particular category 1 product, the FMA has concerns about the provision of personalised services in relation to that product by QFE advisers, the FMA may specify those concerns in a notice to the QFE or the partner entity whose QFE advisers provide those services.
@@ -1050,8 +1050,8 @@ The status of an associated entity terminates when—
   (e) order that the QFE pay a fine not exceeding $50,000; or
   (f) censure the QFE; or
   (g) take no further action.
-(3) The FMA may take only 1 of the actions specified in subsection (2), except that it may order the QFE to pay a fine not exceeding $50,000 in addition to taking an action under subsection (2)(d) or (f).
-(4) All partner entities of a QFE are jointly and severally liable for the payment of a fine that the QFE is ordered to pay under subsection (2)(e).
+(3) The FMA may take only 1 of the actions specified in subsection (2), except that it may order the QFE to pay a fine not exceeding $50,000 in addition to taking an action under subsection (2)﻿(d) or (f).
+(4) All partner entities of a QFE are jointly and severally liable for the payment of a fine that the QFE is ordered to pay under subsection (2)﻿(e).
 (5) The FMA must not order the QFE to pay a fine in relation to an act or omission that constitutes an offence for which the QFE or any partner entity of the QFE has been convicted by a court.
 (6) If the FMA cancels or suspends the QFE status of an entity, the FMA must notify the Registrar in writing of the cancellation or suspension, and, in the case of suspension, the period of suspension.
 (7) The FMA may publicly notify the action it takes under subsection (2) as it sees fit.
@@ -1073,7 +1073,7 @@ The FMA must not take any of the actions specified in section 75D(2) unless it h
 (6) Nothing in this section precludes the FMA from exercising any of its other powers under this Act against a QFE.
 
 ### 75G Other provisions concerning FMA's powers in relation to QFE default
-(1) A fine imposed by the FMA under section 75D(2)(e) is recoverable in any court as a debt due to the FMA.
+(1) A fine imposed by the FMA under section 75D(2)﻿(e) is recoverable in any court as a debt due to the FMA.
 (2) At the end of a period of suspension of QFE status, a QFE's status is immediately revived, unless its QFE status has been further suspended or has been cancelled.
 (3) Suspension or cancellation is effective when a written notice of the suspension or cancellation is sent to the QFE by the FMA.
 
@@ -1092,7 +1092,7 @@ The FMA must not take any of the actions specified in section 75D(2) unless it h
   (g) provide an annual report to the FMA in accordance with section 77; and
   (h) comply with a direction by the FMA given under section 75F; and
   (i) comply with its other obligations under this Act and the regulations.
-(2) A contravention of subsection (1)(e) gives rise to the offences described in section 133.
+(2) A contravention of subsection (1)﻿(e) gives rise to the offences described in section 133.
 
 ### 77 QFE must provide annual report to FMA
 (1) Within 5 months after the end of its financial year, a QFE must send to the FMA a written report in respect of that year (the reporting year)—
@@ -1128,12 +1128,12 @@ The FMA must not take any of the actions specified in section 75D(2) unless it h
   - **client property** means property (other than money) to which the following applies:
     (a) the property is a financial product, is a beneficial interest in a financial product, or is received in connection with a financial product; and
     (b) the property is received from, or on account of, the client by a person (A) (and not on A's own account)
-  - **custodial service** means the type of broking service referred to in subsection (1)(b).
+  - **custodial service** means the type of broking service referred to in subsection (1)﻿(b).
 (3) The mere transmission of a non-transferable instrument payable to another person is not a broking service.
 
 ### 77C Other exemptions
 (1) None of the following is a broking service for the purposes of this Act:
-  (a) a lawyer, incorporated law firm, conveyancing practitioner, chartered accountant, tax agent, real estate agent, registered legal executive, or other exempted class of service provider (as specified in the regulations) providing a relevant service in the ordinary course of business of that kind:
+  (a) a lawyer, incorporated law firm, conveyancing practitioner, qualified statutory accountant, tax agent, real estate agent, registered legal executive, or other exempted class of service provider (as specified in the regulations) providing a relevant service in the ordinary course of business of that kind:
   (b) a statutory officer, a Crown organisation (other than Public Trust), or the Reserve Bank of New Zealand—
     (i) discharging any duties or exercising any powers of the statutory officer, the Crown organisation, or the Reserve Bank of New Zealand under any enactment; or
     (ii) doing anything that is incidental to the discharge of the functions of the statutory officer, the Crown organisation, or the Reserve Bank of New Zealand under any enactment:
@@ -1230,7 +1230,7 @@ Disclosure under a disclosure obligation must not be misleading, deceptive, or c
   (b) must ensure that the client money is paid promptly into a bank in New Zealand (or into any other prescribed entity) to—
     (i) a trust account of the broker or of a related person or entity specified in the regulations; or
     (ii) (if section 44 of this Act or section 445 of the Financial Markets Conduct Act 2013 applies) a trust account of a person permitted to hold the money under that section.
-(1A) A broker must ensure that the client money and client property are held separate from money or property held by or for the broker, or other person referred to in subsection (1)(b)(i) or (ii), on its own account.
+(1A) A broker must ensure that the client money and client property are held separate from money or property held by or for the broker, or other person referred to in subsection (1)﻿(b)﻿(i) or (ii), on its own account.
 (1B) A broker must comply with any prescribed duties and other requirements in relation to the client money and client property held on trust under this section.
 (2) Contravention of this section may give rise to an offence (see section 134C).
 
@@ -1327,7 +1327,7 @@ The functions of the code committee are—
 (1) The FMA may at any time—
   (a) appoint a member of the code committee; or
   (b) discharge a member of the code committee.
-(2) The appointment of a member of the code committee must be for a specified period, but a member may be discharged under subsection (1)(b) before his or her period of appointment has expired.
+(2) The appointment of a member of the code committee must be for a specified period, but a member may be discharged under subsection (1)﻿(b) before his or her period of appointment has expired.
 (3) The code committee must have not less than 7 members and not more than 11 members, and the FMA must ensure that the number of current members does not fall below 7.
 (4) The FMA must appoint as members of the code committee—
   (a) 1 person who, in the FMA's opinion, is qualified for appointment by virtue of his or her knowledge of, and experience and competency in relation to, consumer affairs; and
@@ -1469,7 +1469,7 @@ The disciplinary committee's notice of complaint to the financial adviser concer
   (f) order that A undertake training specified in the order:
   (g) order that A must pay a fine not exceeding $10,000:
   (h) take no action.
-(4) No fine may be imposed under subsection (3)(g) in relation to an act or omission that constitutes an offence for which A has been convicted by a court.
+(4) No fine may be imposed under subsection (3)﻿(g) in relation to an act or omission that constitutes an offence for which A has been convicted by a court.
 (5) In any case to which subsection (2) applies, the disciplinary committee may order that A must pay costs and expenses of, and incidental to, the investigation by the FMA and the disciplinary committee’s proceeding.
 (6) The disciplinary committee may publicly notify the action in any way that it thinks fit.
 (7) This section applies whether or not A is an authorised financial adviser at the time of the complaint, the investigation, or the disciplinary proceeding.
@@ -1536,8 +1536,8 @@ The functions of the disciplinary committee are to—
   (a) by delivering it personally to the person summoned; or
   (b) by posting it to the person summoned at that person's usual place of residence.
 (2) A summons must,—
-  (a) if it is to be served under subsection (1)(a), be served at least 48 hours before the attendance of the witness is required:
-  (b) if it is to be served under subsection (1)(b), be served at least 10 days before the attendance of the witness is required.
+  (a) if it is to be served under subsection (1)﻿(a), be served at least 48 hours before the attendance of the witness is required:
+  (b) if it is to be served under subsection (1)﻿(b), be served at least 10 days before the attendance of the witness is required.
 (3) A summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
 
 ### 111 Witnesses' fees, allowances, and expenses
@@ -1623,7 +1623,7 @@ A person who contravenes section 45(1) commits an offence and is liable on convi
 A person who fails to comply with a direction of the FMA given under section 61(3) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 128 Offence of contravening condition of disciplinary committee’s order
-A person who contravenes a condition of an order made by the disciplinary committee under section 101(3)(e) commits an offence and is liable on conviction to a fine not exceeding $5,000.
+A person who contravenes a condition of an order made by the disciplinary committee under section 101(3)﻿(e) commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 **Offences: QFEs and QFE groups only**
 
@@ -1657,7 +1657,7 @@ If a QFE fails to comply with a direction of the FMA given under section 75F(3),
   (b) every partner entity of the QFE.
 
 ### 133 Offence of failing to comply with obligations in relation to authorised financial advisers
-If a QFE or a partner entity contravenes section 76(1)(e), each of the following persons commits an offence and is liable on conviction to a fine not exceeding $50,000:
+If a QFE or a partner entity contravenes section 76(1)﻿(e), each of the following persons commits an offence and is liable on conviction to a fine not exceeding $50,000:
   (a) the QFE:
   (b) every partner entity of the QFE.
 
@@ -1744,8 +1744,8 @@ A person who fails to comply with a direction of the FMA given under section 49(
   (b) it appears to the court that, if an injunction is not granted, it is likely that the person will engage in conduct of that kind.
 (2) In subsection (1), contravention includes aiding, abetting, counselling, or procuring the contravention.
 (3) The court may grant an interim injunction restraining a person from engaging in conduct of a particular kind if in its opinion it is desirable to do so.
-(4) Subsections (1)(a) and (3) apply whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
-(5) Subsections (1)(b) and (3) apply whether or not the person has previously engaged in conduct of that kind or there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
+(4) Subsections (1)﻿(a) and (3) apply whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
+(5) Subsections (1)﻿(b) and (3) apply whether or not the person has previously engaged in conduct of that kind or there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
 (6) In this section, engaging in conduct means doing or refusing to do an act, and includes—
   (a) omitting to do an act; or
   (b) making it known that an act will or will not be done.
@@ -1944,11 +1944,11 @@ On an appeal under this Part, the District Court may order any party to the appe
   (a) make copies of the proposed standard conditions available for inspection during working hours for a reasonable period, free of charge; and
   (b) state where copies of the proposed standard conditions are available for purchase; and
   (c) make copies of the proposed standard conditions available on an Internet site maintained by or on behalf of the FMA; and
-  (d) give notice in the Gazette stating—
-    (i) how the proposed standard conditions can be inspected, purchased, or accessed on the Internet site address; and
+  (d) give notice in the Gazette—
+    (i) stating how the proposed standard conditions can be inspected, purchased, or accessed on the Internet site address; and
     (ii) specifying a period within which any person may make a written submission to the FMA on the proposed standard conditions and, if applicable, on the date on which the standard condition is to be incorporated.
-(2) If the FMA proposes that any standard condition should be incorporated on a specified date, the notice given under subsection (1)(d) must also state why the FMA considers that the standard condition should apply to current authorisations of financial advisers or to current grants of QFE status ahead of the renewal of those authorisations or grants.
-(3) The FMA must consider any submissions received within the period specified under subsection (1)(d)(ii).
+(2) If the FMA proposes that any standard condition should be incorporated on a specified date, the notice given under subsection (1)﻿(d) must also state why the FMA considers that the standard condition should apply to current authorisations of financial advisers or to current grants of QFE status ahead of the renewal of those authorisations or grants.
+(3) The FMA must consider any submissions received within the period specified under subsection (1)﻿(d)﻿(ii).
 
 ### 147C Variation or revocation of standard conditions
 (1) The FMA may approve variations or revocations of any standard conditions under section 147A in the same way as standard conditions are approved under that section.
@@ -2052,7 +2052,7 @@ A provision that is implied into an agreement by the regulations—
   (gb) prescribing the matters that must be contained in a client agreement required for the purposes of section 41 and prescribing provisions to be implied in a client agreement (which may, without limitation, specify duties under the client agreement, including by supplementing, or adding to, any duties prescribed by this Act):
   (gc) prescribing circumstances for the purposes of section 44:
   (gd) prescribing eligibility criteria for authorisation for a service (including any preconditions or requirements that apply, or could be imposed by regulations, in relation to an application for a licence under subpart 2 of Part 6 of the Financial Markets Conduct Act 2013 if the service was a market service):
-  (h) specifying, for the purposes of section 55(1)(d), cases in which an authorisation under that paragraph may be granted and, for the purposes of section 55(1A), limits on the scope of discretionary investment management services (whether by funds under management, number of clients, nature of services, or other matters) that may be authorised under this Act:
+  (h) specifying, for the purposes of section 55(1)﻿(d), cases in which an authorisation under that paragraph may be granted and, for the purposes of section 55(1A), limits on the scope of discretionary investment management services (whether by funds under management, number of clients, nature of services, or other matters) that may be authorised under this Act:
   (i) providing for disclosure by brokers under sections 77E and 77F:
   (j) prescribing when, and subject to what terms and conditions, disclosure may be made in a joint disclosure document (whether by financial advisers or by brokers jointly, or by 1 or more persons in different capacities) and the form of a joint disclosure document:
   (k) prescribing requirements relating to class services provided to retail clients for the purposes of section 36:
@@ -2073,7 +2073,7 @@ A provision that is implied into an agreement by the regulations—
 (2) In subsection (1), prescribing the form includes specifying additional content, means of communication, or any other requirement of form without necessarily specifying the use of a particular form.
 (3) Regulations for the purposes of subsection (1) may make different provision for different classes of financial adviser or broker, financial adviser service or broking service, and client, and for different circumstances in which a financial adviser service or broking service is provided.
 (4) The Minister must consult with the FMA before making a recommendation under subsection (1).
-(5) The Minister must not recommend the making of regulations under subsection (1)(a) or (gc) unless the Minister is satisfied that—
+(5) The Minister must not recommend the making of regulations under subsection (1)﻿(a) or (gc) unless the Minister is satisfied that—
   (a) the regulations are consistent with the purposes of the Act; and
   (b) the costs of compliance with the provision or provisions to which the regulations relate would be unreasonable or not justified by the benefit of compliance; and
   (c) the extent of the exemption, or the extent to which requirements are disapplied, under the regulations is not broader than what is reasonably necessary to address the matters that gave rise to the regulations.
@@ -2132,9 +2132,9 @@ The breach of a term or condition of an exemption provided by regulations made u
 
 ### 163 Securities Act 1978 amended
 (1) This section amends the Securities Act 1978.
-(2) Section 10(1)(b) is amended by inserting financial advisers, after securities, in the first place where it appears.
-(3) Section 10(1)(c) is amended by inserting and financial advisers after securities.
-(4) Section 10(1)(d) is amended by inserting and the law and practice relating to financial advisers after securities.
+(2) Section 10(1)﻿(b) is amended by inserting financial advisers, after securities, in the first place where it appears.
+(3) Section 10(1)﻿(c) is amended by inserting and financial advisers after securities.
+(4) Section 10(1)﻿(d) is amended by inserting and the law and practice relating to financial advisers after securities.
 (5) Section 11(1) is amended by omitting 10 and substituting 11.
 (6) Section 11 is amended by inserting the following subsection after subsection (3B):
   (3C) One of the members must be appointed by the Governor-General as Commissioner for Financial Advisers under section 79(3) of the Financial Advisers Act 2008.
@@ -2145,9 +2145,9 @@ The breach of a term or condition of an exemption provided by regulations made u
 (2) Section 2(1) is amended by repealing the following definitions: advertisement, advice advertisement, broker advertisement, investment advice and advice, investment adviser and adviser, investment advisers' disclosure obligations and investment advisers’ obligations, investment broker and broker, investment brokers’ disclosure obligations and investment brokers’ obligations, investment brokers' service, investment money and money, and investment property and property.
 (3) Paragraph (e) of the definition of security in section 2(1) is repealed.
 (4) Part 4 is repealed.
-(5) Sections 42B(d), 42D, 42E, 42G(3)(b), 42N(b), 42P(c), 42S(f), 42T(2)(b), 42ZC, 42ZD, 43D, 43E(1)(a), 43E(3)(a) and (b), and 43K to 43N are repealed.
+(5) Sections 42B(d), 42D, 42E, 42G(3)﻿(b), 42N(b), 42P(c), 42S(f), 42T(2)﻿(b), 42ZC, 42ZD, 43D, 43E(1)﻿(a), 43E(3)﻿(a) and (b), and 43K to 43N are repealed.
 (6)
-(7) Sections 48(1)(c) and 49C are repealed.
+(7) Sections 48(1)﻿(c) and 49C are repealed.
 
 ### 165 Sharebrokers Act 1908 repealed
 The Sharebrokers Act 1908 (1908 No 176) is repealed.
@@ -2168,7 +2168,7 @@ The Securities Markets (Investment Advisers and Brokers) Regulations 2007 (SR 20
 (1) In this section, transitional period means the period that commences on the commencement of section 55 and ends on the commencement of section 17.
 (2) In the transitional period, the Commission may authorise a person under section 55 even though it has not yet undertaken or completed its inquiries in relation to section 54(b).
 (3) An authorisation granted in reliance on subsection (2) is subject to the condition that it ceases to have effect if, before the expiry of the transitional period, the Commission notifies the applicant for authorisation that he or she is, given section 54(b), ineligible to be authorised.
-(4) If, at any time after the expiry of the transitional period, the Commission is satisfied that an authorised financial adviser is, given section 54(b), ineligible to be authorised, but that the adviser has been granted authorisation in reliance on subsection (2), section 59(1)(a) applies to that adviser as if he or she had ceased to be eligible for authorisation.
+(4) If, at any time after the expiry of the transitional period, the Commission is satisfied that an authorised financial adviser is, given section 54(b), ineligible to be authorised, but that the adviser has been granted authorisation in reliance on subsection (2), section 59(1)﻿(a) applies to that adviser as if he or she had ceased to be eligible for authorisation.
 
 ### 1 Title
 This Act is the Financial Advisers Amendment Act 2011.
