@@ -1,5 +1,5 @@
 # Racing Act 2003
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the Racing Act 2003.
@@ -138,7 +138,7 @@ The objectives of the Board are—
   (c) 1 person appointed by the Minister on the nomination of Harness Racing New Zealand Incorporated; and
   (d) 1 person appointed by the Minister on the nomination of the New Zealand Greyhound Racing Association (Incorporated); and
   (e) 3 persons appointed by the Minister on the advice of the nomination advisory panel referred to in section 12, and following the nomination and consultation process described in that section.
-(2) A person who is a chairperson of a racing code may not be appointed or hold office as a member of the governing body under subsection (1)(b) to (e) unless the person resigns from that position before taking up the appointment, but any other person (including any member of the governing body of a code) may be appointed and hold office as such.
+(2) A person who is a chairperson of a racing code may not be appointed or hold office as a member of the governing body under subsection (1)﻿(b) to (e) unless the person resigns from that position before taking up the appointment, but any other person (including any member of the governing body of a code) may be appointed and hold office as such.
 (3) An appointment under subsection (1) is for a period not exceeding 3 years, but—
   (a) a member continues to hold office until the member is reappointed or the member's successor is appointed; and
   (b) if a vacancy occurs during the period, an appointment may be made by the Minister to fill that vacancy for the remainder of the period.
@@ -151,28 +151,28 @@ The objectives of the Board are—
   (a) the Minister, who will chair the panel; and
   (b) the independent chairperson of the Board; and
   (c) the 3 chairpersons of the racing codes.
-(2) The nomination advisory panel must recommend to the Minister the appointment of 3 persons to the governing body under section 11(1)(e).
+(2) The nomination advisory panel must recommend to the Minister the appointment of 3 persons to the governing body under section 11(1)﻿(e).
 (3) The nomination advisory panel must not recommend the appointment of any person unless—
   (a) the Minister has identified the desired skills and qualifications of nominees and sought the nominations of persons for appointment to the Board:
   (b) the recognised industry organisations have been given a reasonable period, of not less than 4 weeks, during which to make nominations:
   (c) the Minister has distributed a list to the recognised industry organisations of all those persons who have agreed to be nominated to serve on the Board:
   (d) the racing codes have consulted their affiliated recognised industry organisations on the list of those persons nominated to serve, and the codes have given those organisations a reasonable opportunity, of not less than 7 days, to comment:
   (e) the nomination advisory panel has met to consider the nominations, taking into account the outcome of the consultation with the recognised industry organisations and the desired skills and qualifications of nominees.
-(4) For the purposes of subsection (3)(a) and (e), the desired skills and qualifications of nominees include a person's—
+(4) For the purposes of subsection (3)﻿(a) and (e), the desired skills and qualifications of nominees include a person's—
   (a) knowledge of, or experience in, the racing industry; and
   (b) expertise in business, marketing, or economics.
 (5) A meeting of the nomination advisory panel may be held by means of audio, audio and visual, or electronic communication by which all panel members can simultaneously communicate with each other throughout the meeting.
 (5A) If a panel member is unable to participate in a meeting of the panel, the panel member may designate a suitably qualified person to act as a substitute member, who is entitled, in the absence of the panel member,—
   (a) to participate in the meeting in the panel member's place; and
   (b) to be treated as a member of the nomination advisory panel for the purposes of the meeting.
-(6) A person must not be appointed to serve on the Board under section 11(1)(e) without first being considered by the nomination advisory panel.
+(6) A person must not be appointed to serve on the Board under section 11(1)﻿(e) without first being considered by the nomination advisory panel.
 
 **Financial provisions and accountability**
 
 ### 13 Accounts and audit
 (1) The Board must, as soon as practicable after the end of each racing year,—
   (a) prepare financial statements for that year; and
-  (b) have those financial statements audited by a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996).
+  (b) have those financial statements audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 (2) The financial statements of the Board for a racing year must be prepared in accordance with generally accepted accounting practice and must include—
   (a) a statement of financial position at the balance date; and
   (b) a statement of financial performance for the year; and
@@ -232,7 +232,7 @@ The Board must operate in a financially responsible manner and, for this purpose
 (1) The Board must, as soon as practicable after the end of each racing year, deliver to the Minister and each racing code a report of its proceedings and operations during that year.
 (2) The annual report must include—
   (a) the financial statements of the Board and the audit report on those statements; and
-  (b) information on the development and implementation under section 9(1)(f) of programmes relating to problem gambling.
+  (b) information on the development and implementation under section 9(1)﻿(f) of programmes relating to problem gambling.
 (3) The Minister must present the report and statements to the House of Representatives not later than 6 sitting days after they have been received by the Minister.
 
 **Miscellaneous**
@@ -283,10 +283,10 @@ The Board must operate in a financially responsible manner and, for this purpose
   (e) New Zealand Greyhound Racing Association.
 (2) If an Act provides for the registration of any association of persons, the registering authority may refuse registration if, in its opinion, the use of the name by which the association wishes to be registered is prohibited by subsection (1).
 (3) This section applies, with the necessary modifications, to a person carrying on business under any name or style except his or her own.
-(4) Subsection (1)(a) and (b) does not apply to the Board.
-(5) Subsection (1)(c) does not apply to New Zealand Thoroughbred Racing Incorporated.
-(6) Subsection (1)(d) does not apply to Harness Racing New Zealand Incorporated.
-(7) Subsection (1)(e) does not apply to the New Zealand Greyhound Racing Association (Incorporated).
+(4) Subsection (1)﻿(a) and (b) does not apply to the Board.
+(5) Subsection (1)﻿(c) does not apply to New Zealand Thoroughbred Racing Incorporated.
+(6) Subsection (1)﻿(d) does not apply to Harness Racing New Zealand Incorporated.
+(7) Subsection (1)﻿(e) does not apply to the New Zealand Greyhound Racing Association (Incorporated).
 (8) Nothing in this section prevents a racing club from having or using a name containing the word or words racing, thoroughbred racing, harness racing, trotting, or greyhound racing in any form except those specified in subsection (1).
 
 ### 25 Distribution to clubs of funds received from Board
@@ -382,7 +382,7 @@ Sections 37 to 41 and Schedule 3 apply to—
 (1) The Authority consists of the following members:
   (a) a chairperson, being a person who is or has been a barrister and solicitor of the High Court of not less than 7 years' practice, appointed by the unanimous vote of the chairpersons of the racing codes to which this section applies and the Board; and
   (b) for each racing code to which this section applies, 2 members appointed jointly by the chairperson of the Authority and the chairperson of the code.
-(2) If the chairpersons referred to in subsection (1)(b) fail to agree upon the appointment of a member of the Authority, the chairperson of the Board must make the appointment.
+(2) If the chairpersons referred to in subsection (1)﻿(b) fail to agree upon the appointment of a member of the Authority, the chairperson of the Board must make the appointment.
 (3) A person must not hold office as a member of the Authority under subsection (1) if he or she is a member of the governing body of a racing code or a member of the Board.
 (4) In appointing any person under subsection (1), the appointers must have regard to the person's knowledge, experience, and expertise relevant to the functions and powers of the Authority.
 
@@ -444,14 +444,14 @@ A betting licence must not be issued for races on Easter Sunday, Christmas Day, 
 (2) A government inspector may,—
   (a) demand from any officer or employee of a racing club or the Board, any information that he or she considers necessary for the purposes of an inspection:
   (b) at any reasonable time, examine any books, accounts, records, or other documents, or any machine or equipment, used for the purposes of racing betting or sports betting.
-(3) An officer or employee of a racing club or the Board who is required under subsection (2)(a) to provide information must provide that information within 28 days.
+(3) An officer or employee of a racing club or the Board who is required under subsection (2)﻿(a) to provide information must provide that information within 28 days.
 (4) Every government inspector exercising any power under this section must produce his or her authority to act as a government inspector immediately upon request by any person to do so.
 (5) Nothing in this section limits or affects the privilege against self-incrimination.
 
 ### 49 Obstructing inspector
 (1) Every person commits an offence who—
   (a) wilfully hinders or attempts to hinder a government inspector entering, in the execution of his or her duty, any racecourse or premises of the Board; or
-  (b) wilfully refuses, except on the grounds of self-incrimination, to comply with the requirement to provide information that a government inspector has lawfully demanded from him or her under section 48(2)(a); or
+  (b) wilfully refuses, except on the grounds of self-incrimination, to comply with the requirement to provide information that a government inspector has lawfully demanded from him or her under section 48(2)﻿(a); or
   (c) otherwise wilfully hinders or attempts to hinder a government inspector in the execution of any power or duty.
 (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000.
 
@@ -486,7 +486,7 @@ The Board may conduct, either by itself or by means of racing clubs or other age
 (3) Rules made by the Board under this section must provide that, if there is racing betting on a race, the betting must close before the race starts.
 
 ### 53 Application of revenue from racing betting
-(1) The Board must apply the amounts received by it for racing betting, including the net return from bets laid off under any rule in force under section 52(2)(b)(ii), for a racing year in payment of—
+(1) The Board must apply the amounts received by it for racing betting, including the net return from bets laid off under any rule in force under section 52(2)﻿(b)﻿(ii), for a racing year in payment of—
   (a) refunds of bets and winning dividends for that year, including payments to dividend prize pools that will be carried forward and paid out as winning dividends at a future date; and
   (b) goods and services tax; and
   (c) totalisator duty as prescribed by the Gaming Duties Act 1971; and
@@ -507,7 +507,7 @@ The Board may conduct, either by itself or by means of racing clubs or other age
 
 ### 55 Agreements with national sporting organisations
 (1) The Board may not conduct sports betting on any sporting event or events without the written agreement of the appropriate New Zealand national sporting organisation.
-(2) Every agreement entered into under subsection (1) must be on the terms and conditions that are agreed between the Board and the New Zealand national sporting organisation concerned, including payment to the sporting organisation, under section 57(1)(d), of revenue derived from sports betting on the event or events to which the agreement relates.
+(2) Every agreement entered into under subsection (1) must be on the terms and conditions that are agreed between the Board and the New Zealand national sporting organisation concerned, including payment to the sporting organisation, under section 57(1)﻿(d), of revenue derived from sports betting on the event or events to which the agreement relates.
 (3) In this section, New Zealand national sporting organisation means an organisation that meets the criteria laid down by Sport and Recreation New Zealand for receiving financial support from that agency, whether or not the organisation is actually receiving the support.
 
 ### 56 Use of facilities
@@ -517,7 +517,7 @@ The Board may conduct, either by itself or by means of racing clubs or other age
 (2) Subsection (1) does not limit section 7(2).
 
 ### 57 Application of revenue from sports betting
-(1) The Board must apply the amounts received by it for sports betting, including the net return from bets laid off under section 54(2)(b)(ii), for a racing year in payment of—
+(1) The Board must apply the amounts received by it for sports betting, including the net return from bets laid off under section 54(2)﻿(b)﻿(ii), for a racing year in payment of—
   (a) refunds of bets and winning dividends for that year, including payments to dividend prize pools that will be carried forward and paid out as winning dividends at a future date; and
   (b) goods and services tax; and
   (c) totalisator duty as prescribed by the Gaming Duties Act 1971; and
@@ -567,19 +567,19 @@ The Board is authorised to amalgamate the amount available for an event or event
   (a) receives, registers, or takes into account a bet by a person under 18 years, whether the bet is made by that person on his or her own behalf or on behalf of any other person; or
   (b) permits to be received, registered, or taken into account a bet by a person under 18 years, whether the bet is made by that person on his or her own behalf or on behalf of any other person; or
   (c) offers or provides credit to any person if he or she knows, or ought to know, that the credit is intended to be used to make a bet.
-(3) It is a defence to a charge under subsection (2)(a) or (b) if the defendant proves that he or she had reasonable grounds to believe the person to whom the charge relates was 18 years or over.
+(3) It is a defence to a charge under subsection (2)﻿(a) or (b) if the defendant proves that he or she had reasonable grounds to believe the person to whom the charge relates was 18 years or over.
 (4) Without limiting subsection (3), reasonable grounds exist for the purposes of that subsection if the defendant proves that he or she had sighted an evidence of age document of the person to whom the charge relates, indicating that the person was 18 years or over.
 (5) Every person who commits an offence against this section is liable on conviction to,—
-  (a) in the case of an offence against subsection (1)(a), a fine not exceeding $500:
-  (b) in the case of an offence against subsection (1)(b), a fine not exceeding $1,000:
-  (c) in the case of an offence against subsection (2)(a) or (b), a fine not exceeding $5,000:
-  (d) in the case of an offence against subsection (2)(c), a fine not exceeding $10,000.
+  (a) in the case of an offence against subsection (1)﻿(a), a fine not exceeding $500:
+  (b) in the case of an offence against subsection (1)﻿(b), a fine not exceeding $1,000:
+  (c) in the case of an offence against subsection (2)﻿(a) or (b), a fine not exceeding $5,000:
+  (d) in the case of an offence against subsection (2)﻿(c), a fine not exceeding $10,000.
 (6) In this section and section 63A,—
   - **approved evidence of age document** has the meaning given by section 5(1) of the Sale and Supply of Alcohol Act 2012
   - **bet** means a bet made with the Board (whether directly or through a racing club or other agent) or a racing club conducting equalisator betting.
 
 ### 63A Power to require particulars
-(1) If any constable, or any member, officer, agent or employee of a racing club, or of the Board, or of an agent of the Board (as the case may be) has reasonable grounds to believe that a person has committed, is committing, or is attempting to commit an offence under section 63(1)(a), he or she may demand from that person an evidence of age document verifying his or her age.
+(1) If any constable, or any member, officer, agent or employee of a racing club, or of the Board, or of an agent of the Board (as the case may be) has reasonable grounds to believe that a person has committed, is committing, or is attempting to commit an offence under section 63(1)﻿(a), he or she may demand from that person an evidence of age document verifying his or her age.
 (2) Every person commits an offence who, being required under subsection (1) to give information regarding his or her age, fails to give that information, or supplies any false information relating to his or her age.
 (3) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $500.
 
@@ -617,11 +617,11 @@ A territorial authority consent is required if the Board proposes to establish a
   (c) the cumulative effects of additional opportunities for gambling in the district.
 
 ### 65E Adoption and review of Board venue policy
-(1) A policy on Board venues under section 65D must be adopted in accordance with the special consultative procedure in section 83 of the Local Government Act 2002 and, for the purpose of subsection (1)(e) of that section, the territorial authority must give notice of the proposed policy, in a manner that the territorial authority considers appropriate to—
+(1) A policy on Board venues under section 65D must be adopted in accordance with the special consultative procedure in section 83 of the Local Government Act 2002 and, for the purpose of subsection (1)﻿(e) of that section, the territorial authority must give notice of the proposed policy, in a manner that the territorial authority considers appropriate to—
   (a) the Board; and
   (b) organisations representing Māori in the territorial authority district.
 (2) A policy may be amended or replaced only in accordance with the special consultative procedure, and this section applies to that amendment or replacement.
-(3) Subsection (1)(b) does not affect the ability of a territorial authority to take similar action in respect of any other population group.
+(3) Subsection (1)﻿(b) does not affect the ability of a territorial authority to take similar action in respect of any other population group.
 (4) A territorial authority must, as soon as practicable after adopting, amending, or replacing a policy on Board venues, provide a copy of the policy to the Board and the Secretary.
 (5) A territorial authority must complete a review of a policy within 3 years after the policy is adopted and then within 3 years after that review and each subsequent review is completed.
 (6) A policy does not cease to have effect because it is due for review or being reviewed.
@@ -1037,7 +1037,7 @@ The Authority may, with the prior written approval of the Board, borrow money by
 ### 13 Accounts and audit
 (1) The Authority must keep full and correct accounts of all money received and expended by it.
 (2) At the end of every racing year, the Authority must cause to be prepared full and true statements and accounts of all its income and expenditure in that year, together with a balance sheet as at the last day of that year.
-(3) The statement and balance sheet must be audited by a chartered accountant (within the meaning of the New Zealand Institute of Chartered Accountants Act 1996).
+(3) The statement and balance sheet must be audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
 (4) No person who is an officer, agent, employee, or member of the Authority may be appointed as an auditor under subclause (3).
 
 ### 14 Annual report
