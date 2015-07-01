@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2015-04-10_
+_Consolidation as at 2015-07-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -91,7 +91,7 @@ This Act binds the Crown.
 
 ### 8 Residential qualification for New Zealand superannuation
 No person is entitled to New Zealand superannuation unless the person—
-  (a) is ordinarily resident in New Zealand on the date of application for New Zealand superannuation; and
+  (a) is ordinarily resident in New Zealand on the date of application for New Zealand superannuation, unless section 31(4) of this Act or section 191(4) of the Veterans’ Support Act 2014 applies; and
   (b) has been both resident and present in New Zealand for a period or periods aggregating not less than 10 years since attaining the age of 20 years; and
   (c) has also been both resident and present in New Zealand for a period or periods aggregating not less than 5 years since attaining the age of 50 years.
 
@@ -102,7 +102,7 @@ No person is entitled to New Zealand superannuation unless the person—
   (c) in the case of any applicant, any period of absence while serving in any capacity as a member of any naval, military, or air force of any Commonwealth country or serving in connection with any war in which New Zealand forces were involved as a member of any organisation attached to any of those forces:
   (d) in the case of any applicant, any period of absence while serving in any capacity as an accredited volunteer appointed by Volunteer Service Abroad Incorporated.
 (2) Subsection (1) applies only if the chief executive is satisfied that during the absence of the applicant he or she remained ordinarily resident in New Zealand.
-(3) The reference in subsection (1)(d) to Volunteer Service Abroad Incorporated must for all purposes relating to the operation of subsection (1)(d) on or after its commencement on 12 October 2001, and despite any later changes to that body's name, be read as a reference to the body incorporated under the Incorporated Societies Act 1908 on 8 April 1963 as Volunteer Service Abroad Inc.
+(3) The reference in subsection (1)﻿(d) to Volunteer Service Abroad Incorporated must for all purposes relating to the operation of subsection (1)﻿(d) on or after its commencement on 12 October 2001, and despite any later changes to that body's name, be read as a reference to the body incorporated under the Incorporated Societies Act 1908 on 8 April 1963 as Volunteer Service Abroad Inc.
 
 ### 10 Periods of absence as missionary also not counted
 (1) In determining the period an applicant has been present in New Zealand, no account is taken of any period of absence while engaged in missionary work outside New Zealand as a member of, or on behalf of, any religious body or, as the case may be, during any period that the applicant was absent from New Zealand with his or her spouse or partner while that spouse or partner was engaged in that missionary work.
@@ -167,7 +167,7 @@ No person is entitled to New Zealand superannuation unless the person—
 (3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse under Part 4 of that Act.
 
 ### 18 Single living alone rate for spouses or partners of persons in long-term residential care in hospital or rest home
-However, every person to whom section 17(2)(a) or (b) applies is entitled to receive New Zealand superannuation at the single living alone rate if the person is living alone.
+However, every person to whom section 17(2)﻿(a) or (b) applies is entitled to receive New Zealand superannuation at the single living alone rate if the person is living alone.
 
 ### 19 Hospital rates of New Zealand superannuation
 (1) For the purposes of this section, hospital means a hospital provided by a District Health Board within the meaning of the New Zealand Public Health and Disability Act 2000; and includes a psychiatric security institution within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
@@ -178,7 +178,7 @@ However, every person to whom section 17(2)(a) or (b) applies is entitled to rec
 (6) However, the chief executive may, at the chief executive’s discretion,—
   (a) pay to any patient to whom subsection (4) applies a higher rate than the rate stated in clause 3 of Schedule 1 after having regard to the patient’s personal financial circumstances.
   (b)
-(7) If, after 13 weeks’ hospitalisation, the New Zealand superannuation of a person who is married or in a civil union or in a de facto relationship is reduced under subsection (4) or subsection (6)(b), and that person’s spouse or partner is either not in hospital or has been in hospital for less than 13 weeks, any New Zealand superannuation payable to or for the spouse or partner must be increased, on the same date as the effective date of that reduction, by an amount equal to the difference between—
+(7) If, after 13 weeks’ hospitalisation, the New Zealand superannuation of a person who is married or in a civil union or in a de facto relationship is reduced under subsection (4) or subsection (6)﻿(b), and that person’s spouse or partner is either not in hospital or has been in hospital for less than 13 weeks, any New Zealand superannuation payable to or for the spouse or partner must be increased, on the same date as the effective date of that reduction, by an amount equal to the difference between—
   (a) the maximum rate of New Zealand superannuation payable to a single person; and
   (b) the maximum rate of New Zealand superannuation payable to a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is receiving New Zealand superannuation.
 (8) In any case where the rate of New Zealand superannuation has been reduced in accordance with this section and the superannuitant in hospital is absent from the hospital for not more than 28 days, the rate of New Zealand superannuation payable on return to hospital must be determined as if that absence has not occurred.
@@ -234,12 +234,12 @@ If a person who is absent from New Zealand would have become entitled to New Zea
   (b) in the case of a person who has left New Zealand at a time when he or she was intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand, until he or she—
     (i) begins to reside in a country that is not a country to which subsection (1) applies; or
     (ii) returns to New Zealand.
-(3) For the purposes only of subsection (2)(b)(ii), a person does not return to New Zealand if—
+(3) For the purposes only of subsection (2)﻿(b)﻿(ii), a person does not return to New Zealand if—
   (a) he or she—
     (i) interrupts his or her overseas travel, and travels to and stays briefly in New Zealand, in order to attend an event (for example, a wedding or funeral) or to visit a person (for example, a sick or injured family member); and then
     (ii) resumes his or her overseas travel; and
   (b) he or she does not while in New Zealand begin to receive New Zealand superannuation otherwise than under this section.
-(4) Except to the extent provided by paragraphs (a)(i) and (b)(i) of subsection (2), a person does not cease to be entitled to be paid New Zealand superannuation under that subsection by reason only of changing his or her intentions after leaving New Zealand.
+(4) Except to the extent provided by paragraphs (a)﻿(i) and (b)﻿(i) of subsection (2), a person does not cease to be entitled to be paid New Zealand superannuation under that subsection by reason only of changing his or her intentions after leaving New Zealand.
 (5) Subsection (4) is for the avoidance of doubt.
 (6) The rates referred to in subsection (2) are,—
   (a) for a single person, a rate that is a proportion (calculated under section 26A(1)) of the amount stated in clause 1(b) of Schedule 1:
@@ -257,12 +257,12 @@ If a person who is absent from New Zealand would have become entitled to New Zea
   (b) any period of absence from New Zealand—
     (i) while the person was engaged in missionary work as a member of, or on behalf of, any religious body; or
     (ii) while the person's spouse or partner was engaged in missionary work as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
-  (c) any period of absence from New Zealand while the person was treated under section 79(3)(a) of the Social Security Act 1964 as being resident and present in New Zealand; or
-  (d) any period of absence from New Zealand while, as the spouse or partner of a person treated under section 79(3)(a) of the Social Security Act 1964 as being resident and present in New Zealand, the person was also (by virtue of section 79(3)(b) of the Social Security Act 1964) treated as being resident and present in New Zealand.
+  (c) any period of absence from New Zealand while the person was treated under section 79(3)﻿(a) of the Social Security Act 1964 as being resident and present in New Zealand; or
+  (d) any period of absence from New Zealand while, as the spouse or partner of a person treated under section 79(3)﻿(a) of the Social Security Act 1964 as being resident and present in New Zealand, the person was also (by virtue of section 79(3)﻿(b) of the Social Security Act 1964) treated as being resident and present in New Zealand.
 (3) Subsection (2) applies to a period of absence only if the chief executive is satisfied that during it the person concerned remained ordinarily resident in New Zealand.
-(4) Subsection (2)(b) applies to a period of absence only if the chief executive is satisfied that the person concerned either was born in New Zealand or—
-  (a) in the case of a person to whom subsection (2)(b)(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
-  (b) in the case of a person to whom subsection (2)(b)(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.
+(4) Subsection (2)﻿(b) applies to a period of absence only if the chief executive is satisfied that the person concerned either was born in New Zealand or—
+  (a) in the case of a person to whom subsection (2)﻿(b)﻿(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
+  (b) in the case of a person to whom subsection (2)﻿(b)﻿(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.
 
 ### 26B Entitlement
 A person is not entitled to be paid New Zealand superannuation under section 26 unless he or she—
@@ -285,10 +285,10 @@ A person is not entitled to be paid New Zealand superannuation under section 26 
 
 ### 29 Relationship with other benefit provisions
 (1)
-(2) A person who is receiving New Zealand superannuation overseas under section 26 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
+(2) A person who is receiving New Zealand superannuation overseas under section 26 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)﻿(d) of that Act.
 (3) Despite the provisions of section 80 of the Social Security Act 1964, on the death of a person who receives New Zealand superannuation overseas under section 26, the benefit terminates on a date to be determined by the chief executive, being a date not more than 4 weeks after the date of death.
 (4)
-(4A) Except as provided in this section, the Social Security Act 1964 (other than sections 69G to 69I, 70, 74(1)(a), 75, 75A, 76, 77, and 82(7)) applies to New Zealand superannuation being paid under section 26.
+(4A) Except as provided in this section, the Social Security Act 1964 (other than sections 69G to 69I, 70, 74(1)﻿(a), 75, 75A, 76, 77, and 82(7)) applies to New Zealand superannuation being paid under section 26.
 (5)
 
 ### 30 Specified Pacific country
@@ -300,10 +300,10 @@ A person is not entitled to be paid New Zealand superannuation under section 26 
   (b) omitting the former name of a country or territory and substituting its new name.
 (3) The Order in Council must state the date on which it takes effect, which may be a date before the date on which it is made.
 (4) The Order in Council applies to payments of New Zealand superannuation under section 31 payable on or after the date on which the order takes effect.
-(5) Section 61H(3) to (6) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)(a) as if it had been made under that section.
+(5) Section 61H(3) to (6) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)﻿(a) as if it had been made under that section.
 
 ### 31 Entitlement to be paid New Zealand superannuation in specified Pacific country
-(1) A person entitled to receive New Zealand superannuation is entitled to be paid the benefit in a specified Pacific country at a rate calculated under section 32 if subsection (2) or subsection (3) applies to the person.
+(1) A person entitled to receive New Zealand superannuation is entitled to be paid the benefit in a specified Pacific country at a rate calculated under section 32 if subsection (2) or subsection (3) or subsection (4) applies to the person.
 (2) This subsection applies to a person—
   (a) who intends to leave New Zealand to reside for more than 52 weeks in a specified Pacific country; and
   (b) who is resident and present in New Zealand on the date of his or her application to be paid New Zealand superannuation in a specified Pacific country; and
@@ -316,26 +316,38 @@ A person is not entitled to be paid New Zealand superannuation under section 26 
     (i) was being paid New Zealand superannuation while resident in a specified Pacific country immediately before 1 October 1999 under section 17 of the Social Welfare (Transitional Provisions) Act 1990; or
     (ii) was being paid New Zealand superannuation while resident in the Cook Islands, Niue, or Tokelau immediately before 1 October 1999 under section 17B of the Social Welfare (Transitional Provisions) Act 1990 as it was immediately before that date; and
   (b) who is resident in a specified Pacific country when each payment of New Zealand superannuation is due to be made to him or her.
+(4) This subsection applies to a person—
+  (a) who, on or after the date this subsection comes into force, makes an application to be paid New Zealand superannuation in a specified Pacific country; and
+  (b) who is resident in the Cook Islands, Niue, or Tokelau on the date of the application; and
+  (c) who, before he or she left New Zealand to reside in one of the countries or in the territory specified in paragraph (b), met the residential qualifications for New Zealand superannuation set out in section 8(b) and (c); and
+  (d) who is resident in a specified Pacific country when each payment of New Zealand superannuation is due to be paid to him or her.
+(5) If subsection (4) applies, an application to be paid New Zealand superannuation in a specified Pacific country must be made in addition to an application to be paid New Zealand superannuation under section 11D of the Social Security Act 1964.
+(6) The applications referred to in subsection (5) may be made together or separately, and may be made—
+  (a) before an applicant meets the age qualification for New Zealand superannuation in section 7, in anticipation of becoming entitled to be paid that benefit on reaching the qualifying age; or
+  (b) when or after the applicant meets the age qualification.
 
 ### 32 Rates of payment of New Zealand superannuation payable to people resident in specified Pacific countries
 (1) The rate of New Zealand superannuation payable under section 31 is,—
   (a) in the case of a person who has resided in New Zealand for 20 or more years since turning 20 years, the base rate:
-  (b) in the case of a person who has resided in New Zealand for 10 or more years but fewer than 20 years since turning 20 years, an amount calculated using the following formula:a × b20where—ais the base ratebis the whole number of years the person has resided in New Zealand since turning 20 years:
+  (b) in the case of a person who has resided in New Zealand for 10 or more years but fewer than 20 years since turning 20 years, an amount calculated using the following formula: a × b20where—ais the base ratebis the whole number of years the person has resided in New Zealand since turning 20 years:
   (c) in the case of a person who is resident in a specified Pacific country and was being paid New Zealand superannuation immediately before 1 October 1999 under section 17 or section 17B of the Social Welfare (Transitional Provisions) Act 1990 as it was immediately before that date, the higher of—
     (i) the amount he or she was being paid immediately before that date; and
     (ii) the appropriate amount payable under paragraph (a) or paragraph (b).
 (2) For the purposes of this section, the base rate is,—
-  (a) in the case of a single person, the amount stated in clause (1)(b) of Schedule 1; and
-  (b) in the case of a person who is married or in a civil union or in a de facto relationship, the amount stated in clause (1)(c) of that schedule.
+  (a) in the case of a single person, the amount stated in clause (1)﻿(b) of Schedule 1; and
+  (b) in the case of a person who is married or in a civil union or in a de facto relationship, the amount stated in clause (1)﻿(c) of that schedule.
 (3) However, if section 70 of the Social Security Act 1964 applies, that amount must be reduced by the amount deducted in accordance with that section.
 
 ### 33 Commencement and termination of payments
-(1) The commencement date of payment of a benefit under section 31 is the first pay day after the date of the person’s departure from New Zealand.
+(1) The commencement date of payment of a benefit under section 31 is the first pay day after the date of the person’s departure from New Zealand, unless subsection (1A) applies.
+(1A) The commencement date of payment of a benefit to a person to whom section 31(4) applies is the later of—
+  (a) the date that the person meets the age qualification for New Zealand superannuation in section 7; and
+  (b) the date that the application referred to in section 31(4) is made.
 (2) When a person being paid a benefit under section 31 dies, the benefit terminates on a date to be determined by the chief executive, being a date not more than 4 weeks after the date of death.
 
 ### 34 Effect on other benefits
 A person being paid a benefit under section 31 is not entitled to receive—
-  (a) any supplementary or special benefit, temporary additional support, lump sum payment, payment under a welfare programme approved under section 124(1)(d) of the Social Security Act 1964, or any other assistance under that Act.
+  (a) any supplementary or special benefit, temporary additional support, lump sum payment, payment under a welfare programme approved under section 124(1)﻿(d) of the Social Security Act 1964, or any other assistance under that Act.
   (b)
 
 ### 35 Application of this Act and Social Security Act 1964
@@ -372,7 +384,7 @@ The Fund consists of—
 (2) The Guardians must maintain and operate the accounts in accordance with any directions given by the Minister or the Treasury.
 (2A) Sections 114 and 115 of the Crown Entities Act 2004 do not apply to a direction under subsection (2).
 (3) The Guardians must ensure that the accounts are not overdrawn at any time.
-(4) The Public Finance Act 1989 (except sections 65I, 65ZH(1)(g) and (h), 79, and 80) applies to the accounts with necessary modifications.
+(4) The Public Finance Act 1989 (except sections 65I, 65ZH(1)﻿(g) and (h), 79, and 80) applies to the accounts with necessary modifications.
 (5) Money in the accounts is public money for the purpose of the Public Finance Act 1989. Other Fund money is not public money for that purpose.
 
 ### 40 Ownership of Fund
@@ -447,7 +459,7 @@ The Minister may pay any money into the Fund that is additional to that required
   (a) borrow money (in respect of the Fund); nor
   (b) mortgage or charge any of the real or personal property of the Fund, whether present or future, as security; nor
   (c) hold any financial instrument that places or may place a liability or a contingent liability on the Fund, or the Crown.
-(2) The Minister’s approval may be given for any class of transactions in subsection (1)(a) to (c).
+(2) The Minister’s approval may be given for any class of transactions in subsection (1)﻿(a) to (c).
 
 ### 51 Functions
 (1) The functions of the Guardians are to manage and administer the Fund in accordance with this Act.
@@ -463,7 +475,7 @@ The expenses of the Guardians must be met out of money appropriated by Parliamen
 
 ### 54 Membership of board
 (1) The board must consist of at least 5, but not more than 7, board members appointed by the Governor-General on the recommendation of the Minister.
-(2) This section applies despite section 28(1)(a) of the Crown Entities Act 2004.
+(2) This section applies despite section 28(1)﻿(a) of the Crown Entities Act 2004.
 
 **Members’ appointments**
 
@@ -500,7 +512,7 @@ Schedule 3 applies to the board and its members.
   (a) the entity is a subsidiary of the Fund; or
   (b) the Fund controls the entity within the meaning of any relevant financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013); or
   (c) the Fund can control directly or indirectly the composition of the board of the entity within the meaning of sections 7 and 8 of the Companies Act 1993 (which, for the purposes of this paragraph, are to be read with all necessary modifications).
-(4) This section does not prevent the board establishing a Crown entity subsidiary of the Guardians (within the meaning of the second column of section 7(1)(c) of the Crown Entities Act 2004).
+(4) This section does not prevent the board establishing a Crown entity subsidiary of the Guardians (within the meaning of the second column of section 7(1)﻿(c) of the Crown Entities Act 2004).
 
 ### 60 Establishment of investment policies, standards, and procedures
 (1) The Guardians must establish, and adhere to, investment policies, standards, and procedures for the Fund that are consistent with their duty to invest the Fund on a prudent, commercial basis, in accordance with section 58.
@@ -645,8 +657,8 @@ Every person who, immediately before the commencement of this section, was entit
 
 ### 79A References to Volunteer Service Abroad Incorporated
 The references in the following provisions to Volunteer Service Abroad Incorporated must for all purposes relating to the operation of those provisions be read as references to the body incorporated under the Incorporated Societies Act 1908 on 8 April 1963 as Volunteer Service Abroad Inc:
-  (a) section 14(2)(e) of the Social Security Act 1964 (as inserted on 29 September 1969 by section 4 of the Social Security Amendment Act 1969, and repealed on 1 April 1990 by section 14(18) of the Social Welfare (Transitional Provisions) Act 1990):
-  (b) section 4(2)(d) of the Social Welfare (Transitional Provisions) Act 1990 (which commenced on 1 April 1990, and was repealed by section 77 of this Act on 12 October 2001).
+  (a) section 14(2)﻿(e) of the Social Security Act 1964 (as inserted on 29 September 1969 by section 4 of the Social Security Amendment Act 1969, and repealed on 1 April 1990 by section 14(18) of the Social Welfare (Transitional Provisions) Act 1990):
+  (b) section 4(2)﻿(d) of the Social Welfare (Transitional Provisions) Act 1990 (which commenced on 1 April 1990, and was repealed by section 77 of this Act on 12 October 2001).
 
 ## Part 4 — Retirement Commissioner
 
@@ -691,7 +703,7 @@ The functions of the Commissioner are as follows:
 (2) Without limiting subsection (1), the Commissioner may at any time, if he or she considers it appropriate,—
   (a) comment publicly on any matter relating to his or her functions; or
   (b) deliver to the Minister a report in writing on any retirement income issues that he or she considers the Minister should be advised of.
-(3) The Minister must, as soon as practicable after receiving a report under subsection (2)(b), present a copy of that report to the House of Representatives.
+(3) The Minister must, as soon as practicable after receiving a report under subsection (2)﻿(b), present a copy of that report to the House of Representatives.
 
 ### 86 Provisions applying to Commissioner
 The provisions in Schedule 6 apply to the Commissioner.
@@ -736,7 +748,7 @@ This schedule applies to the board and its members.
 [Repealed]
 
 ### 3 Method of appointment
-(1) The Governor-General appoints a member, despite section 28(1)(a) of the Crown Entities Act 2004.
+(1) The Governor-General appoints a member, despite section 28(1)﻿(a) of the Crown Entities Act 2004.
 (2) Section 28(2) and (3) of that Act apply.
 
 ### 4 When appointment takes effect
@@ -879,7 +891,7 @@ The board must delegate a deliberation or decision to a committee if the effect 
 **Delegations**
 
 ### 39 Additional persons to whom delegations can be made
-The board may delegate any of the functions or powers of the board or the entity to all or any of the following, despite section 73(1)(d) of the Crown Entities Act 2004:
+The board may delegate any of the functions or powers of the board or the entity to all or any of the following, despite section 73(1)﻿(d) of the Crown Entities Act 2004:
   (a) a person appointed to undertake the investment of any part of the Fund under section 62:
   (b) a custodian.
 
