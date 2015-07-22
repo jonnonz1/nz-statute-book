@@ -1,11 +1,11 @@
 # Land Transport Act 1998
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2015-07-22_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Land Transport Act 1998.
-(2) Sections 5(4), 23, 24, 25, 28, 31(1)(c), 95, 96(1), (2), (3), and (5), and 199 come into force on a date to be appointed by the Governor-General by Order in Council; and different dates may be appointed by 1 or more Orders in Council for different provisions.
+(2) Sections 5(4), 23, 24, 25, 28, 31(1)﻿(c), 95, 96(1), (2), (3), and (5), and 199 come into force on a date to be appointed by the Governor-General by Order in Council; and different dates may be appointed by 1 or more Orders in Council for different provisions.
 (3) The repeals specified in clauses 1 to 14 of Part 4 of Schedule 2 come into force on a date to be appointed by the Governor-General by Order in Council; and different dates may be appointed by 1 or more Orders in Council for different provisions in that schedule.
 (4)
 (5) The rest of this Act comes into force on 1 March 1999.
@@ -153,12 +153,12 @@ _Consolidation as at 2015-03-26_
   - **logbook** means a logbook that is in a form approved by the Agency in accordance with the rules, and includes any alternative means approved under section 30ZG
   - **mass** , in relation to a vehicle, means the quantity of material contained in or on that vehicle that, when subjected to acceleration due to gravity, will exert downwards on a level surface a force that can be measured as the weight of the vehicle
   - **medical expenses** means the expenses incurred by a medical practitioner or medical officer in taking a blood specimen
-  - **medical laboratory technologist** means a health practitioner who is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
+  - **medical laboratory technologist** means a health practitioner who is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
   - **medical officer** means—
     (a) a person acting in a hospital and who, in the normal course of the person's duties, takes blood specimens; or
     (b) a nurse; or
     (c) a medical laboratory technologist
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member** means a person appointed as a member of the Agency
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or the relevant Part or provision of this Act
   - **Minister of Police** means, subject to any enactment, the Minister who, under authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the Police
@@ -200,10 +200,10 @@ _Consolidation as at 2015-03-26_
     (c) any offence against regulations made under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986 that is declared by regulations under this Act to be a moving vehicle offence for the purposes of this definition; or
     (d) a toll offence
   - **novice driver** has the meaning specified by the rules
-  - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
+  - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **offence against this Act** includes an offence against or prescribed by the regulations
   - **operate** , in relation to a vehicle, means to drive or use the vehicle on a road, or to cause or permit the vehicle to be on a road or to be driven on a road, whether or not the person is present with the vehicle; and has a corresponding meaning
-  - **optometrist** means a health practitioner who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of optometry
+  - **optometrist** means a health practitioner who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of optometry
   - **organised criminal activity** means an activity that—
     (a) involves 2 or more persons; and
     (b) has the acquisition of income or assets by means of a continuing course of criminal conduct as one of its objects
@@ -252,7 +252,7 @@ _Consolidation as at 2015-03-26_
   - **prescription medicine** has the same meaning as in section 3(3) of the Medicines Act 1981
   - **private analyst** means a person qualified by academic or technical training in chemical or biochemical analysis; and includes a body corporate or organisation that employs such a person
   - **proceedings** , in relation to an infringement offence, means proceedings under the Criminal Procedure Act 2011 or the Summary Proceedings Act 1957; and includes the issue of an infringement notice under section 139
-  - **qualifying bylaw** means a bylaw made by a road controlling authority under section 22AB(1)(a) of this Act, or section 145 of the Local Government Act 2002 for the stated purpose of—
+  - **qualifying bylaw** means a bylaw made by a road controlling authority under section 22AB(1)﻿(a) of this Act, or section 145 of the Local Government Act 2002 for the stated purpose of—
     (a) restricting or placing conditions on the racing of motor vehicles or any associated activities:
     (b) controlling or restricting cruising or any associated activities
   - **qualifying drug** —
@@ -296,7 +296,7 @@ _Consolidation as at 2015-03-26_
     (b) includes—
       (i) any controlled drug analogue (within the meaning of controlled drug analogue in section 2(1) of the Misuse of Drugs Act 1975); and
       (ii) any prescription medicine; but
-    (c) excludes any substance, preparation, mixture, or article specified in paragraph (a) or (b)(i) if it is excluded by regulations made under this Act
+    (c) excludes any substance, preparation, mixture, or article specified in paragraph (a) or (b)﻿(i) if it is excluded by regulations made under this Act
   - **rail operator** has the same meaning as in section 4(1) of the Railways Act 2005
   - **rail participant** has the same meaning as in section 4(1) of the Railways Act 2005
   - **rail vehicle** has the same meaning as in section 4(1) of the Railways Act 2005
@@ -340,7 +340,7 @@ _Consolidation as at 2015-03-26_
   - **stationary vehicle offence** means—
     (a) parking in any portion of a road in breach of—
       (i) any Act or regulation; or
-      (ii) any bylaw made under section 22AB(1)(m) to (o):
+      (ii) any bylaw made under section 22AB(1)﻿(m) to (o):
     (b) any offence specified as a stationary vehicle offence in regulations made under this Act
   - **storage provider** means a person who stores vehicles impounded under this Act
   - **taxi** means a motor vehicle that is—
@@ -533,7 +533,7 @@ A person may not drive or attempt to drive a motor vehicle while under the influ
 (2) A person must comply with all lawful requirements, directions, and requests made by an enforcement officer under any of sections 68, 69, 70, 71A, 72, and 73.
 (3) A person must comply with all lawful requirements and requests made by a medical practitioner or medical officer under section 72 or section 73 (which relate to the administration of blood tests).
 (4) A person may not—
-  (a) remove, obscure, or render indistinguishable a notice affixed to a vehicle under section 115, unless current evidence of vehicle inspection has been obtained for the vehicle or (if the notice was given under section 96(1B)) the direction requiring the vehicle not to be driven on a road has been cancelled under section 102(3)(b) or section 110(3)(a)(ii); or
+  (a) remove, obscure, or render indistinguishable a notice affixed to a vehicle under section 115, unless current evidence of vehicle inspection has been obtained for the vehicle or (if the notice was given under section 96(1B)) the direction requiring the vehicle not to be driven on a road has been cancelled under section 102(3)﻿(b) or section 110(3)﻿(a)﻿(ii); or
   (b) drive a vehicle to which a notice given under section 115 applies until current evidence of vehicle inspection has been obtained for, and is displayed on, the vehicle.
 (5) Drivers and other persons must comply with all other lawful requirements, directions, notices, and requests given to, and prohibitions imposed on, them under this Act by an enforcement officer or a dangerous goods enforcement officer.
 
@@ -568,7 +568,7 @@ A person may not, with intent to cause a false record of the distance travelled 
     (i) should not be permitted to drive motor vehicles of a specified class or classes; or
     (ii) should only be permitted to drive motor vehicles subject to such limitations as may be warranted by the mental or physical condition of the licence holder; and
   (b) the licence holder is likely to drive a motor vehicle.
-(2) If this section applies, the medical practitioner or optometrist must as soon as practicable give the Agency written notice of the opinion under subsection (1)(a) and the grounds on which it is based.
+(2) If this section applies, the medical practitioner or optometrist must as soon as practicable give the Agency written notice of the opinion under subsection (1)﻿(a) and the grounds on which it is based.
 (3) A medical practitioner or optometrist who gives a notice under subsection (2) in good faith is not liable to civil or professional liability because of any disclosure of personal medical information in that notice.
 (4)
 
@@ -582,10 +582,10 @@ A person may not, with intent to cause a false record of the distance travelled 
   (b) in any other case, return the licence to the holder or to the person in possession referred to in subsection (2).
 (4) If a person to whom this section applies ceases to be a person referred to in subsection (1) and his or her responsible clinician considers that person to be unfit to hold a driver licence, the responsible clinician must advise the Director of Area Mental Health Services of that opinion and that Director must give the Agency a certificate to that effect and (if it is in his or her possession) return the licence to the Agency; and the licence has no effect unless it is returned to the holder under subsection (5).
 (5) A person referred to in subsection (4) may apply to the Agency for the return of his or her driver licence and the Agency must return the licence if satisfied the holder is fit to drive.
-(6) If—subsection (1)(b) does not apply to that person while that person is absent on leave from the hospital, and, if that person's driver licence is held by the Director of Area Mental Health Services, the licence must be returned to the holder.
+(6) If—subsection (1)﻿(b) does not apply to that person while that person is absent on leave from the hospital, and, if that person's driver licence is held by the Director of Area Mental Health Services, the licence must be returned to the holder.
   (a) a person to whom subsection (1) applies is, under any of sections 31, 50, and 52 of the Mental Health (Compulsory Assessment and Treatment) Act 1992, permitted to be absent on leave from a hospital under that Act; and
   (b) a responsible clinician certifies in writing that, in the clinician's opinion, that person is fit to hold a driver licence,—
-(7) In any case to which subsection (3)(a) applies, once the holder ceases to be subject to this section, the Agency must, as soon as practicable after the Agency is satisfied the holder is eligible to hold the licence, return the licence to the holder or to the person previously in possession referred to in subsection (2).
+(7) In any case to which subsection (3)﻿(a) applies, once the holder ceases to be subject to this section, the Agency must, as soon as practicable after the Agency is satisfied the holder is eligible to hold the licence, return the licence to the holder or to the person previously in possession referred to in subsection (2).
 
 ### 20 Traffic surveys not to be conducted unless approved by Agency
 (1) A person may not, without the prior written consent of the Agency, conduct on a road a traffic survey that is likely to involve the stopping, delay, or diversion of vehicles.
@@ -637,7 +637,9 @@ If an enforcement officer, acting in the course of his or her official duties, b
     (ii) prescribing the period of time that must elapse between each time a driver drives on a specified section of road for the driver to avoid being regarded as cruising:
   (b) prescribing fines, not exceeding $500, for the breach of any bylaw made under this section.
   (c) prohibiting or restricting, absolutely or conditionally, any specified class of traffic (whether heavy traffic or not), or any specified motor vehicles or class of motor vehicle that, by reason of its size or nature or the nature of the goods carried, is unsuitable for use on any road or roads:
-  (d) in the case of Ministers of the Crown only, fixing, for the safety of the public or for the better preservation of the road, the maximum speed of vehicles or of specified classes of vehicles on any road:
+  (d) for the safety of the public or for the better preservation of any road,—
+    (i) fixing the maximum speed of vehicles or of specified classes of vehicles on any road:
+    (ii) designating any area, where that designation will have the effect of determining the speed limit in that area:
   (e) prohibiting or restricting engine braking in any area where the permanent speed limit does not exceed 70 kilometres per hour:
   (f) prohibiting or restricting the use of vehicles on beaches:
   (g) restricting the use of motor vehicles on unformed legal roads for the purposes of protecting the environment, the road and adjoining land, and the safety of road users:
@@ -718,7 +720,8 @@ If an enforcement officer, acting in the course of his or her official duties, b
 (3) Any disallowance under subsection (1) takes effect either on the day of the publication of the notice of disallowance in the Gazette or on a later date that may be specified in the notice.
 
 ### 22AD Consultation
-(1) A road controlling authority that is a local authority may not make a bylaw under section 22AB unless it has used the special consultative procedures set out in section 83 of the Local Government Act 2002.
+(1) Section 156 of the Local Government Act 2002 applies to a bylaw under section 22AB made by a road controlling authority that is a local authority as if that bylaw had been made under that Act.
+(1A) Section 9(4) and (5) of the Airport Authorities Act 1966 applies to any bylaw made under section 22AB by a local authority or an airport authority in respect of an airport operated by that local authority or airport authority.
 (2) A road controlling authority that is not a local authority may not make a bylaw under section 22AB unless it has consulted with—
   (a) the occupiers of any properties adjoining the road to which the proposed bylaw would apply; and
   (b) any affected road controlling authorities that are responsible for roads that join, or are located near, the road to which the proposed bylaw would apply; and
@@ -758,7 +761,7 @@ If an enforcement officer, acting in the course of his or her official duties, b
 (1) A person may not use a traction engine in a public place—
   (a) without an appropriate qualification provided for in the regulations or the rules; or
   (b) if the person is not permitted under this Act to drive a motor vehicle.
-(2) A person who uses a traction engine must produce without delay his or her qualification referred to in subsection (1)(a) for inspection whenever required to do so by an enforcement officer.
+(2) A person who uses a traction engine must produce without delay his or her qualification referred to in subsection (1)﻿(a) for inspection whenever required to do so by an enforcement officer.
 (3) In this section and sections 22C and 36B, public place—
   (a) means a place that is open to, or being used by, the public, whether or not there is a charge for admission; and
   (b) includes a road and any part of a public place.
@@ -798,14 +801,14 @@ If an enforcement officer, acting in the course of his or her official duties, b
   (c) the chief executive, for the purpose of protecting a person who is, has been, or will be—
     (i) a fishery officer; or
     (ii) approved by the chief executive to undertake activities for the Ministry.
-(2) The Agency may create and issue a driver licence for an assumed identity if the Agency receives a request under subsection (1)(a), (b), or (c).
+(2) The Agency may create and issue a driver licence for an assumed identity if the Agency receives a request under subsection (1)﻿(a), (b), or (c).
 (3) New identity information is created by the Agency by omitting, amending, or adding to—
   (a) birth information, description information, name change information, or address information (including, if necessary, the creation of other identities to support the person's new identity information); and
   (b) operational or administrative information as necessary, so that it supports the information described in paragraph (a).
 (4) The Agency may omit, amend, or add information as necessary if the Agency receives notification that the driver licence is no longer required, or has been compromised, from—
-  (a) the Commissioner, in relation to the driver licence created as a result of a request under subsection (1)(a); or
-  (b) the Director of Security, in relation to new identity information created as a result of a request under subsection (1)(b); or
-  (c) the chief executive, in relation to the driver licence created as a result of a request under subsection (1)(c).
+  (a) the Commissioner, in relation to the driver licence created as a result of a request under subsection (1)﻿(a); or
+  (b) the Director of Security, in relation to new identity information created as a result of a request under subsection (1)﻿(b); or
+  (c) the chief executive, in relation to the driver licence created as a result of a request under subsection (1)﻿(c).
 (5) In this section,—
   - **chief executive** , , and have the same meanings as in section 2(1) of the Fisheries Act 1996
   - **Director of Security** , , and have the same meanings as in section 2(1) of the New Zealand Security Intelligence Service Act 1969
@@ -844,21 +847,21 @@ The Agency may suspend or revoke a driver licence in accordance with the regulat
 (2) In addition, a driver licence may show the holder's address if the holder requests that those details be shown.
 (3) A driver licence may not have on it any photographic image, information, or features other than those referred to in subsection (1) or subsection (2).
 (4) This section applies to licences issued or renewed on or after the date this section comes into force, subject to subsections (4A), (4B), and (4C).
-(4A) Without limiting subsection (4), subsection (1)(g) applies to all new driver licences, including—
+(4A) Without limiting subsection (4), subsection (1)﻿(g) applies to all new driver licences, including—
   (a) renewal of a current driver licence; and
   (b) renewal of an expired driver licence, whether the holder—
     (i) was previously suspended or disqualified; or
     (ii) failed to renew his or her driver licence on expiry; and
   (c) a replacement driver licence.
-(4B) Despite subsections (1)(g) and (4),—
+(4B) Despite subsections (1)﻿(g) and (4),—
   (a) in the case of a driver licence that has been revoked, the new driver licence must show the date of issue of the new licence; and
   (b) in the case of a person who applies to convert an overseas licence or permit to a New Zealand full driver licence, the licence must show the date of issue of that person's first New Zealand driver licence; and
   (c) in the case of a learner licence or restricted licence issued under Part 4 of the Land Transport (Driver Licensing) Rule 1999, the original date of issue of the learner licence or restricted licence must be shown on that licence.
-(4C) Subsection (4B)(c) does not apply if the learner licence or the restricted licence adds a class to an existing licence.
+(4C) Subsection (4B)﻿(c) does not apply if the learner licence or the restricted licence adds a class to an existing licence.
 (5) The Agency must store the photographic image used for each licence until the licence expires.
 
 ### 28A Transitional provisions for photographic driver licences
-Despite section 28(1)(g) and (4), the date of issue of a driver licence continues to be shown on an existing licence until that licence is renewed or replaced under Part 12 of the Land Transport (Driver Licensing) Rule 1999.
+Despite section 28(1)﻿(g) and (4), the date of issue of a driver licence continues to be shown on an existing licence until that licence is renewed or replaced under Part 12 of the Land Transport (Driver Licensing) Rule 1999.
 
 ### 29 Certain driver licences have no effect
 (1) A driver licence has no effect if—
@@ -875,7 +878,7 @@ Despite section 28(1)(g) and (4), the date of issue of a driver licence continue
 (2) A passenger endorsement is deemed to be expired and of no effect if held by a person who has been convicted of a specified serious offence on, before, or after the commencement of this section.
 (3) Despite subsection (1), a person may hold a passenger endorsement if—
   (a) the person has not, with respect to a conviction for a specified serious offence, been sentenced to imprisonment for a term exceeding 12 months; and
-  (b) the Agency is, having regard to the criteria in section 29B(2)(b), satisfied that allowing the person to hold a passenger endorsement would not—
+  (b) the Agency is, having regard to the criteria in section 29B(2)﻿(b), satisfied that allowing the person to hold a passenger endorsement would not—
     (i) be contrary to the public interest; and
     (ii) pose an undue risk to public safety or security.
 (4) For the purposes of this section,—
@@ -936,14 +939,14 @@ Despite section 28(1)(g) and (4), the date of issue of a driver licence continue
   (b) the suspension or revocation applies to any endorsement or class specified in the licence but not to the whole licence.
 (3) If the holder of a driver licence is disqualified by order of a court from holding or obtaining a driver licence, the holder must (whether or not a demand is made on him or her) immediately surrender the licence to the court where the order was made or to a constable or at any office of the Agency.
 (3A) If an enforcement officer has suspended a person's driver licence in accordance with section 90(2), the person must immediately surrender his or her licence to the officer.
-(4) A person who receives a driver licence under subsection (3), (3A), (4A)(b) or (c), or (4B) must immediately forward it to the Agency.
+(4) A person who receives a driver licence under subsection (3), (3A), (4A)﻿(b) or (c), or (4B) must immediately forward it to the Agency.
 (4A) The holder of a driver licence must, if that licence is superseded by another driver licence, surrender that driver licence to—
   (a) the Agency; or
   (b) a person appointed by the Agency; or
   (c) a constable.
 (4B) A person on whom a driver licence stop order is imposed must,—
-  (a) if the order is served in a way other than that described in section 91B(1)(a), deliver or post his or her driver licence to an employee or agent of the Ministry of Justice at an office of that Ministry or at a District Court:
-  (b) if the order is served in the way described in section 91B(1)(a), surrender his or her driver licence to the employee or agent of the Ministry of Justice, or to the enforcement officer, who serves the order.
+  (a) if the order is served in a way other than that described in section 91B(1)﻿(a), deliver or post his or her driver licence to an employee or agent of the Ministry of Justice at an office of that Ministry or at a District Court:
+  (b) if the order is served in the way described in section 91B(1)﻿(a), surrender his or her driver licence to the employee or agent of the Ministry of Justice, or to the enforcement officer, who serves the order.
 (5) The Agency must, subject to sections 82A, 83, and 105(6A) and as soon as practicable after being satisfied that a person is entitled to apply for and be granted a driver licence,—
   (a) issue a new driver licence to the person when the disqualification or suspension expires or is removed; or
   (b) in the case where a court authorises the issue of an alcohol interlock licence, issue an alcohol interlock licence to the person; or
@@ -1025,7 +1028,7 @@ If the Agency proposes to take into account any information that is or may be pr
 (2) If the Agency determines not to disclose any information in reliance on subsection (1), the Agency must inform the person of the fact of non-disclosure and,—
   (a) in the case of non-disclosure to an individual of information about the individual,—
     (i) inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information has been withheld in reliance on section 27(1)(d) of that Act; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information has been withheld in reliance on section 27(1)﻿(d) of that Act; and
   (b) in any other case,—
     (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld in reliance on section 6(d) of that Act.
@@ -1174,14 +1177,14 @@ In sections 30W to 30Y, unless the context otherwise requires,—
 
 ### 30X Procedure for consideration of information
 If any notice or copy of a notice is given to any person under section 30W,—
-  (a) it is the responsibility of the person to ensure that all information that the person wishes to have considered by the Agency in relation to the proposed adverse decision is received by the Agency within the period specified in the notice under section 30W(1)(c), or within any further period that the Agency may allow in any case:
+  (a) it is the responsibility of the person to ensure that all information that the person wishes to have considered by the Agency in relation to the proposed adverse decision is received by the Agency within the period specified in the notice under section 30W(1)﻿(c), or within any further period that the Agency may allow in any case:
   (b) the Agency may, but is not obliged to, consider any information supplied by the person after the expiry of the period referred to in paragraph (a), other than information requested by the Agency and supplied by the person within such reasonable time as the Agency may specify:
   (c) the Agency must consider any submissions made in accordance with paragraph (a), and any information supplied pursuant to a request referred to in paragraph (b), but is not obliged to hear any person on the matter.
 
 ### 30Y Agency’s determination
 After considering the matters referred to in section 30X(c), the Agency must—
   (a) finally determine whether or not to make the proposed adverse decision; and
-  (b) as soon as practicable thereafter, notify in writing to the person directly affected, and any other person of a kind referred to in section 30W(2)(a), of—
+  (b) as soon as practicable thereafter, notify in writing to the person directly affected, and any other person of a kind referred to in section 30W(2)﻿(a), of—
     (i) the Agency's decision; and
     (ii) if appropriate, the date on which the decision will take effect; and
     (iii) if appropriate, the right of appeal under section 106.
@@ -1198,7 +1201,7 @@ Nothing in this Part applies in respect of any rail service vehicle.
   (c) approve, in accordance with the rules, an alternative fatigue management scheme that varies the work time restrictions or rest time requirements of any rule for specified drivers covered by the relevant transport service licence.
 (2) A variation or exemption granted, or an approval given under subsection (1), in relation to work time or logbooks may be amended or revoked at any time by the Agency in writing.
 (3) The Agency may revoke, by notice in writing, any exemption from logbook use granted under the rules if the Agency has reason to believe that the person has breached the rules or any conditions imposed under subsection (1).
-(4) Before approving an alternative fatigue management scheme under subsection (1)(c), the Agency must be satisfied that the applicant has consulted any representatives of the drivers covered by the relevant transport licence (including, but not limited to, unions).
+(4) Before approving an alternative fatigue management scheme under subsection (1)﻿(c), the Agency must be satisfied that the applicant has consulted any representatives of the drivers covered by the relevant transport licence (including, but not limited to, unions).
 
 ### Subpart 1 — Work time
 
@@ -1236,7 +1239,7 @@ Nothing in this Part applies in respect of any rail service vehicle.
 (2) The person who keeps the records required under subsection (1) must—
   (a) keep each record for 12 months from the date it is made; and
   (b) make all relevant time records, fuel records and receipts, accommodation records and receipts, wage records, and other related employment records in the possession or control of that person available for immediate inspection on demand at any reasonable time by an enforcement officer.
-(3) Every enforcement officer to whom records are made available for inspection under subsection (2)(b) is entitled to make copies of those records.
+(3) Every enforcement officer to whom records are made available for inspection under subsection (2)﻿(b) is entitled to make copies of those records.
 
 ### Subpart 2 — Logbooks
 
@@ -1286,7 +1289,7 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 
 ### 30ZI Evidence in proceedings for offences against subpart 1 or subpart 2
 (1) In proceedings for an offence against subpart 1 or subpart 2, the following is sufficient evidence of the contents of a log-book, unless the contrary is proved by production to the court of the logbook or of an identical copy of the logbook made simultaneously with the original logbook,—
-  (a) evidence given by an enforcement officer authorised to demand the production of logbooks under section 30ZH(2)(b), or by any person who had that status at the time when the alleged offence was committed, as to the contents of any logbook as seen and recorded by that person at the time it was produced; and
+  (a) evidence given by an enforcement officer authorised to demand the production of logbooks under section 30ZH(2)﻿(b), or by any person who had that status at the time when the alleged offence was committed, as to the contents of any logbook as seen and recorded by that person at the time it was produced; and
   (b) an identical copy of any logbook removed, or a copy of any logbook made, by an enforcement officer in accordance with section 30ZH(3) or section 30ZH(4).
 (2) In any proceedings in respect of an offence against subpart 1 it is presumed, until the contrary is proved, that the contents of any logbook produced to an enforcement officer authorised to demand production of the logbook or removed by an enforcement officer from an accident scene where the driver is incapacitated are an accurate statement of the truth of the matter required to be recorded in the logbook by section 30ZF.
 
@@ -1294,7 +1297,7 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 
 **Offences relating to driver licensing**
 
-### 31 Contravention of sections 5(1)(a), 5(1)(b), 5(4), 30(2), 30(3), or 30(4A)
+### 31 Contravention of sections 5(1)﻿(a), 5(1)﻿(b), 5(4), 30(2), 30(3), or 30(4A)
 (1) A person commits an offence if the person—
   (a) drives a motor vehicle on a road—
     (i) with an expired driver licence; or
@@ -1304,7 +1307,7 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
   (d) fails to return his or her driver licence to the Agency, a person appointed by the Agency, or a constable when required to do so by subsection (2) or subsection (3) or subsection (4A) of section 30.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $1,000.
 
-### 32 Contravention of section 5(1)(c)
+### 32 Contravention of section 5(1)﻿(c)
 (1) A person commits an offence if the person drives a motor vehicle on a road—
   (a) while disqualified from holding or obtaining a driver licence; or
   (b) contrary to an alcohol interlock licence, a zero alcohol licence, or a limited licence; or
@@ -1379,14 +1382,14 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
     (i) any petrol, oil, or diesel fuel; or
     (ii) any other substance likely to cause a vehicle to undergo loss of traction; or
   (c) without reasonable excuse, operates a motor vehicle on a road in a manner that causes the vehicle to undergo sustained loss of traction in contravention of section 22A(3).
-(2) A person who commits an offence against subsection (1)(a) or (c) and by that act or omission causes an injury to another person—
+(2) A person who commits an offence against subsection (1)﻿(a) or (c) and by that act or omission causes an injury to another person—
   (a) is liable on conviction to imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
-(3) A person who commits an offence against subsection (1)(a) or (c) and by the act or omission causes the death of another person—
+(3) A person who commits an offence against subsection (1)﻿(a) or (c) and by the act or omission causes the death of another person—
   (a) is liable on conviction to imprisonment for a term not exceeding 10 years or a fine not exceeding $20,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
-(4) A person who commits an offence against subsection (1)(a) or (c) but does not, by that act or omission, cause injury to, or the death of, another person is liable on conviction to the penalties set out in section 35(2), and section 35(2) and (3) apply as if the offence were an offence against section 35(1)(a) (operating a motor vehicle recklessly on a road).
-(5) A person who commits an offence against subsection (1)(b) is liable on conviction to a fine not exceeding $3,000.
+(4) A person who commits an offence against subsection (1)﻿(a) or (c) but does not, by that act or omission, cause injury to, or the death of, another person is liable on conviction to the penalties set out in section 35(2), and section 35(2) and (3) apply as if the offence were an offence against section 35(1)﻿(a) (operating a motor vehicle recklessly on a road).
+(5) A person who commits an offence against subsection (1)﻿(b) is liable on conviction to a fine not exceeding $3,000.
 (6) The imposition of a mandatory disqualification under this section is subject to section 81.
 
 ### 36AB Contravention of sections 7 and 114
@@ -1501,7 +1504,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 ### 52 Contravening notices, requirements, etc, given or imposed by enforcement officers
 (1) A person commits an offence if the person—
   (aa) is the driver of a vehicle that is stopped and fails to remain stopped in accordance with section 114(2A); or
-  (a) removes, obscures, or renders indistinguishable a notice affixed to a vehicle under section 115, unless new evidence of vehicle inspection has been obtained for the vehicle or (if the notice was given under section 96(1B)) the direction requiring the vehicle not to be driven on a road has been cancelled under section 102(3)(b) or section 110(3)(a)(ii) or, if section 115(2A) applies, the enforcement officer has been notified in writing that the vehicle complies with the regulations and the rules; or
+  (a) removes, obscures, or renders indistinguishable a notice affixed to a vehicle under section 115, unless new evidence of vehicle inspection has been obtained for the vehicle or (if the notice was given under section 96(1B)) the direction requiring the vehicle not to be driven on a road has been cancelled under section 102(3)﻿(b) or section 110(3)﻿(a)﻿(ii) or, if section 115(2A) applies, the enforcement officer has been notified in writing that the vehicle complies with the regulations and the rules; or
   (b) drives a vehicle to which a notice under section 115 applies (other than when driving in compliance with a condition imposed under subsection (4) or subsection (5) of that section or under section 96(1D)) before new evidence of vehicle inspection has been obtained for, and is displayed on, the vehicle; or
   (c) fails or refuses to comply with any lawful requirement, direction, notice, request, or prohibition given to or imposed on him or her under this Act by an enforcement officer or a dangerous goods enforcement officer; or
   (d) whether or not he or she is the person to whom the direction was given, knowingly drives a heavy motor vehicle on a road in breach of a direction given by an enforcement officer under section 128.
@@ -1537,10 +1540,10 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) If this section applies,—
   (a) the person who holds the alcohol interlock licence to which the alcohol interlock device applies commits an offence; or
   (b) the person who tampered with, or attempted to tamper with, the alcohol interlock device or used the alcohol interlock device in contravention of an order made under section 65A(2) commits an offence.
-(3) It is a defence to proceedings for an offence against subsection (2)(a) if the person who holds an alcohol interlock licence establishes that the person—
+(3) It is a defence to proceedings for an offence against subsection (2)﻿(a) if the person who holds an alcohol interlock licence establishes that the person—
   (a) did not tamper with, or attempt to tamper with, the alcohol interlock device or use the alcohol interlock device in contravention of an order made under section 65A(2); and
-  (b) was not involved in the commission of the offence against subsection (2)(b).
-(4) The maximum penalty on conviction for an offence against subsection (2)(a) or (b) is a fine not exceeding $3,000.
+  (b) was not involved in the commission of the offence against subsection (2)﻿(b).
+(4) The maximum penalty on conviction for an offence against subsection (2)﻿(a) or (b) is a fine not exceeding $3,000.
 
 ## Part 6 — Driving offences involving drink or drugs, and penalties and procedures
 
@@ -1550,17 +1553,17 @@ A court may impose a fine for an infringement offence, other than an overloading
 (1) A person commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 400 micrograms of alcohol per litre of breath.
 (1A) A person commits an infringement offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 250 micrograms of alcohol per litre of breath but does not exceed 400 micrograms of alcohol per litre of breath.
 (2) A person commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or section 73, exceeds 80 milligrams of alcohol per 100 millilitres of blood.
-(2A) A person commits an infringement offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72(1)(b) to (e) or 73, exceeds 50 milligrams of alcohol per 100 millilitres of blood but does not exceed 80 milligrams of alcohol per 100 millilitres of blood.
+(2A) A person commits an infringement offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72(1)﻿(b) to (e) or 73, exceeds 50 milligrams of alcohol per 100 millilitres of blood but does not exceed 80 milligrams of alcohol per 100 millilitres of blood.
 (2B) A person commits an infringement offence if—
   (a) the person fails or refuses to undergo an evidential breath test after having been required to do so under section 69; and
-  (b) analysis of a blood specimen subsequently taken from the person under section 72(1)(a) indicates that the person drove or attempted to drive a motor vehicle on a road while the proportion of alcohol in the person's blood exceeded 50 milligrams of alcohol per 100 millilitres of blood but did not exceed 80 milligrams of alcohol per 100 millilitres of blood.
+  (b) analysis of a blood specimen subsequently taken from the person under section 72(1)﻿(a) indicates that the person drove or attempted to drive a motor vehicle on a road while the proportion of alcohol in the person's blood exceeded 50 milligrams of alcohol per 100 millilitres of blood but did not exceed 80 milligrams of alcohol per 100 millilitres of blood.
 (3) If a person is convicted of a first or second offence against subsection (1) or subsection (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
 (4) If a person is convicted of a third or subsequent offence against subsection (1) or subsection (2), or any of sections 57A(1), 58(1), 60(1), or 61(1) or (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
-(4A) Subsection (4)(b) does not apply if an order is made under section 65.
+(4A) Subsection (4)﻿(b) does not apply if an order is made under section 65.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence specified in subsection (4) is to be treated as a conviction for an offence specified in that subsection.
 (6) The imposition of a mandatory disqualification under this section is subject to section 81.
 
@@ -1597,7 +1600,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 58(1), 60(1), 61(1), and 61(2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
-(4) Subsection (3)(b) does not apply if an order is made under section 65.
+(4) Subsection (3)﻿(b) does not apply if an order is made under section 65.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
 (6) The imposition of a mandatory disqualification under this section is subject to section 81.
 
@@ -1605,14 +1608,14 @@ A court may impose a fine for an infringement offence, other than an overloading
 (1) A person commits an offence if the person drives or attempts to drive a motor vehicle on a road—
   (a) while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle; or
   (b) if the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975.
-(1A) To avoid doubt, subsection (1)(b) does not limit subsection (1)(a).
+(1A) To avoid doubt, subsection (1)﻿(b) does not limit subsection (1)﻿(a).
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
 (3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 60(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
-(3A) Subsection (3)(b) does not apply if an order is made under section 65.
+(3A) Subsection (3)﻿(b) does not apply if an order is made under section 65.
 (4) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
 (5) The imposition of a mandatory disqualification under this section is subject to section 81.
 
@@ -1640,10 +1643,10 @@ A court may impose a fine for an infringement offence, other than an overloading
 (3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 58(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
-(3A) Subsection (3)(b) does not apply if an order is made under section 65.
+(3A) Subsection (3)﻿(b) does not apply if an order is made under section 65.
 (3B) Subsection (3C) applies to a person who—
-  (a) is required to permit a blood specimen to be taken under section 72(1)(a), (b), or (e); and
-  (b) when required, on a previous occasion, to permit a blood specimen to be taken under section 72(1)(a), (b), or (e), was medically or physically unable to provide a blood specimen.
+  (a) is required to permit a blood specimen to be taken under section 72(1)﻿(a), (b), or (e); and
+  (b) when required, on a previous occasion, to permit a blood specimen to be taken under section 72(1)﻿(a), (b), or (e), was medically or physically unable to provide a blood specimen.
 (3C) A person described in subsection (3B) who is medically or physically unable to provide a blood specimen is presumed, in the absence of proof to the contrary, to have refused to permit a blood specimen to be taken.
 (4) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
 (5) The imposition of a mandatory disqualification under this section is subject to section 81.
@@ -1658,7 +1661,7 @@ A court may impose a fine for an infringement offence, other than an overloading
   (c) if—
     (i) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A; and
     (ii) the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken under section 72 or 73, contains evidence of the use of a qualifying drug.
-(2A) To avoid doubt, subsection (2)(b) or (2)(c) does not limit subsection (2)(a).
+(2A) To avoid doubt, subsection (2)﻿(b) or (2)﻿(c) does not limit subsection (2)﻿(a).
 (3) If a person is convicted of an offence against subsection (1) or (2) that causes bodily injury to another person,—
   (a) the maximum penalty is imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more in the case of a first or second offence against this section or section 56(1) or (2), or section 58(1), or section 60(1).
@@ -1674,7 +1677,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (1) A person commits an offence if the person causes bodily injury to or the death of a person by carelessly driving a motor vehicle (in a manner that is not an offence against section 61)—
   (a) while under the influence of drink or a drug, or both; or
   (b) if the blood of the person driving, as ascertained from an analysis of a blood specimen subsequently taken under section 73, contains evidence of the use of a controlled drug specified in Schedule 1 of the Misuse of Drugs Act 1975.
-(1A) To avoid doubt, subsection (1)(b) does not limit subsection (1)(a).
+(1A) To avoid doubt, subsection (1)﻿(b) does not limit subsection (1)﻿(a).
 (1B) A person commits an offence if—
   (a) the person causes bodily injury to, or the death of, a person by driving or attempting to drive a motor vehicle; and
   (b) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A; and
@@ -1699,11 +1702,11 @@ A court may impose a fine for an infringement offence, other than an overloading
     (i) a current and valid prescription written for that person by a health practitioner; and
     (ii) any instructions from a health practitioner or from the manufacturer of the qualifying drug; or
   (b) because it was administered by a health practitioner, provided that the person complied with the instructions (if any) that the health practitioner has given.
-(1B) It is a defence to proceedings for an offence against section 60(1)(d) if the court is satisfied that the person's failure or refusal to undergo a compulsory impairment test is because of—
+(1B) It is a defence to proceedings for an offence against section 60(1)﻿(d) if the court is satisfied that the person's failure or refusal to undergo a compulsory impairment test is because of—
   (a) a pre-existing medical condition or pre-existing disability that precludes undergoing the test:
   (b) an injury, sustained in a motor vehicle accident giving rise to an obligation to undergo the test, that precludes undergoing the test.
 (2) It is no defence to proceedings for an offence that a provision forming part of sections 68 to 75A, and 77 has not been strictly complied with or has not been complied with at all, provided there has been reasonable compliance with such of those provisions as apply.
-(3) In any proceedings against any person for an offence against section 52(1)(c) arising out of circumstances in which an enforcement officer exercised powers under section 121(2) and in respect of which a breath screening test or an evidential breath test or a blood test was undergone by the person, it is no defence that—
+(3) In any proceedings against any person for an offence against section 52(1)﻿(c) arising out of circumstances in which an enforcement officer exercised powers under section 121(2) and in respect of which a breath screening test or an evidential breath test or a blood test was undergone by the person, it is no defence that—
   (a) the breath screening test or evidential breath test indicated that,—
     (i) in the case of a person apparently younger than 20, the person’s breath did not contain alcohol; or
     (ii) in the case of a person who holds an alcohol interlock licence or a zero alcohol licence, the person's breath did not contain alcohol; or
@@ -1741,7 +1744,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 65A Alcohol interlock requirements for repeat offences or certain first time offences involving use of alcohol
 (1) This section applies if—
-  (a) a court convicts a person of an offence involving the use of alcohol against any of sections 56(1), 56(2), 57(1), 57(2), 58(1)(a), 60(1)(a) to (c), 61(1), 61(2), and 62(1)(a); and
+  (a) a court convicts a person of an offence involving the use of alcohol against any of sections 56(1), 56(2), 57(1), 57(2), 58(1)﻿(a), 60(1)﻿(a) to (c), 61(1), 61(2), and 62(1)﻿(a); and
   (b) either—
     (i) the person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court; or
     (ii) the offence for which the person is convicted under paragraph (a) involves either or both of the following:
@@ -1764,12 +1767,12 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 65B Mandatory zero alcohol requirements for repeat offences involving use of alcohol
 (1) This section applies if—
-  (a) a court convicts a person of an offence against any of sections 56(1), 56(2), 57(1), 57(2), 57AA, 58(1)(a), 60(1)(a) to (c), 61(1), 61(2), and 62(1)(a); and
+  (a) a court convicts a person of an offence against any of sections 56(1), 56(2), 57(1), 57(2), 57AA, 58(1)﻿(a), 60(1)﻿(a) to (c), 61(1), 61(2), and 62(1)﻿(a); and
   (b) the person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court.
 (2) If this section applies, the court must make an order authorising the person to apply for a zero alcohol licence that has effect for a period of 3 years from the issue of the licence.
 (3) A person authorised under subsection (2) may apply for a zero alcohol licence,—
   (a) in the case of a person who is subject to 1 or more orders of disqualification, no earlier than the day after the end of the last period of disqualification to which the person is subject; or
-  (b) in the case of a person who is subject to an order made under section 65A(2)(b), when the Agency makes an order under section 100A(1).
+  (b) in the case of a person who is subject to an order made under section 65A(2)﻿(b), when the Agency makes an order under section 100A(1).
 (4) A person who is subject to an order under subsection (2) and does not apply for a zero alcohol licence is to be treated as a person with a licence of no effect under section 29(1).
 
 **Name suppression**
@@ -1783,16 +1786,16 @@ A court may impose a fine for an infringement offence, other than an overloading
 (1) The following persons who undergo a blood test are liable to pay the blood test fee that applied on the date of that test and any associated medical expenses:
   (a) any person who—
     (i) elects or is required to undergo the blood test under section 70A(1) or 72(1); and
-    (ii) before undergoing the blood test is advised in accordance with section 69(4A)(d), 72(1D), or 72(1E):
+    (ii) before undergoing the blood test is advised in accordance with section 69(4A)﻿(d), 72(1D), or 72(1E):
   (b) any person who undergoes a blood test under section 73.
 (1A) Subsection (1) does not apply if the result of the blood test indicates that the person has committed an infringement offence against section 56(2B).
 (1B) The blood test fee and any associated medical expenses payable by a person under subsection (1),—
-  (a) in the case of a person who is convicted of an offence against any of sections 56(2), 57(2), 57AA, 57A, 58, 61(1)(b), 61(2), and 62, are deemed to be a fine imposed on the conviction of the person for that offence; and
+  (a) in the case of a person who is convicted of an offence against any of sections 56(2), 57(2), 57AA, 57A, 58, 61(1)﻿(b), 61(2), and 62, are deemed to be a fine imposed on the conviction of the person for that offence; and
   (b) in all other cases, are recoverable from the person as a debt due to the Crown.
 (1C) An enforcement officer may waive or refund the blood test fee and any associated medical expenses payable or paid by a person under subsection (1) if—
   (a) the result of the blood test does not indicate that the person contravened a specified blood-alcohol limit; and
   (b) the blood test—
-    (i) was taken under section 72(1)(a) and the enforcement officer is satisfied, on the evidence of a medical practitioner, that the person's failure or refusal to undergo an evidential breath test was because of—
+    (i) was taken under section 72(1)﻿(a) and the enforcement officer is satisfied, on the evidence of a medical practitioner, that the person's failure or refusal to undergo an evidential breath test was because of—
       (A) a pre-existing medical condition or pre-existing disability that precluded undergoing the test; or
       (B) an injury, sustained in a motor vehicle accident that gave rise to the obligation to undergo the test; or
     (ii) was taken under section 73.
@@ -1829,7 +1832,7 @@ A court may impose a fine for an infringement offence, other than an overloading
   (a) has accompanied an enforcement officer to a place under this section; or
   (b) has been arrested under subsection (6) and taken to or detained at a place,—
 (4A) An enforcement officer who requires a person to undergo an evidential breath test under subsection (4) must, without delay, advise the person—
-  (a) that if the person fails or refuses to undergo the evidential breath test, the person will be required to permit the taking of a blood specimen under section 72(1)(a); and
+  (a) that if the person fails or refuses to undergo the evidential breath test, the person will be required to permit the taking of a blood specimen under section 72(1)﻿(a); and
   (b) that if the result of a blood test indicates the presence of alcohol in the person’s blood the person may be issued with an infringement offence notice or charged with an offence, depending on the proportion of alcohol; and
   (c) of the infringement fee payable for a breach of section 56(2B); and
   (d) that the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of the blood test establishes that the person has committed an offence against this Act.
@@ -1841,11 +1844,11 @@ A court may impose a fine for an infringement offence, other than an overloading
 (7) An enforcement officer may not require a person who is in a hospital or doctor's surgery as a result of an accident involving a motor vehicle to undergo an evidential breath test.
 
 ### 70 Person may be required to undergo further evidential breath test if initial test fails to produce result
-(1) If for any reason an evidential breath test carried out under section 69 by an enforcement officer fails to produce a result, the enforcement officer may, at his or her discretion, either require the person to undergo without delay a further evidential breath test or proceed as if section 72(1)(c) applies.
+(1) If for any reason an evidential breath test carried out under section 69 by an enforcement officer fails to produce a result, the enforcement officer may, at his or her discretion, either require the person to undergo without delay a further evidential breath test or proceed as if section 72(1)﻿(c) applies.
 (2) A requirement made under subsection (1) is deemed to be a requirement under section 69(4).
 
 ### 70A Right to elect blood test
-(1) A person has the right, within 10 minutes of being advised by an enforcement officer of the matters specified in section 77(3)(a) (which sets out the conditions of the admissibility of the test), to elect to have a blood test to assess the proportion of alcohol in his or her blood, if the result of that person's evidential breath test appears to be positive, and—
+(1) A person has the right, within 10 minutes of being advised by an enforcement officer of the matters specified in section 77(3)﻿(a) (which sets out the conditions of the admissibility of the test), to elect to have a blood test to assess the proportion of alcohol in his or her blood, if the result of that person's evidential breath test appears to be positive, and—
   (a) the result of the person's evidential breath test indicates that the proportion of alcohol in the person's breath exceeds 400 micrograms of alcohol per litre of breath; or
   (b) the person is apparently younger than 20; or
   (c) the person holds an alcohol interlock licence or a zero alcohol licence.
@@ -1853,7 +1856,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (3) Subsection (2) does not apply to a person who is apparently younger than 20 or who holds an alcohol interlock licence or a zero alcohol licence.
 
 ### 71 Meaning of apparently younger than 20
-(1) For the purposes of section 69(1)(aa), an enforcement officer is entitled to regard a person as being younger than 20 if—
+(1) For the purposes of section 69(1)﻿(aa), an enforcement officer is entitled to regard a person as being younger than 20 if—
   (a) the person produces a driver licence showing that the person is younger than 20; or
   (b) the person produces a driver licence showing that the person is 20 or older, but the officer has good cause to suspect that the licence has been issued to some other person or is invalid or that the person who produced the licence is younger than 20; or
   (c) the person fails to produce a driver licence and is unable to satisfy the officer by some other means that the person is 20 or older.
@@ -1878,18 +1881,18 @@ A court may impose a fine for an infringement offence, other than an overloading
   (a) the person fails or refuses to undergo without delay an evidential breath test after having been required to do so by an enforcement officer under section 69; or
   (b) the person has undergone an evidential breath test under section 69(4), and—
     (i) it appears to the officer that the test is positive; and
-    (ii) within 10 minutes of being advised by an enforcement officer of the matters specified in section 77(3)(a) (which sets out the conditions of the admissibility of the test), the person advises the officer that the person wishes to undergo a blood test; or
+    (ii) within 10 minutes of being advised by an enforcement officer of the matters specified in section 77(3)﻿(a) (which sets out the conditions of the admissibility of the test), the person advises the officer that the person wishes to undergo a blood test; or
   (c) an evidential breath testing device is not readily available at the place to which the person has accompanied an enforcement officer under section 69 (whether or not at the time the requirement was made it was likely that the person could undergo an evidential breath test at that place) or to which the person has been taken under arrest (as the case may be), or for any reason an evidential breath test cannot then be carried out at that place; or
   (d) the officer has arrested the person under section 120(1) and has good cause to suspect that the person has committed an offence against any of sections 56 to 62, and either—
     (i) a medical practitioner has examined the person and believes that the person may be under the influence of drink or a drug, or both; or
     (ii) the person has refused to be examined by a medical practitioner for the purposes of this paragraph; or
   (e) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A.
-(1AA) Subsection (1)(b) does not apply in the case of a person (other than a person who is apparently younger than 20 or who holds an alcohol interlock licence or a zero alcohol licence) if the result of the evidential breath test under section 69(4) indicates that the proportion of alcohol in the person's breath exceeds 250 micrograms of alcohol per litre of breath but does not exceed 400 micrograms of alcohol per litre of breath.
-(1A) Subsection (1)(e) only applies if an enforcement officer has good cause to suspect that the person has consumed a drug or drugs.
-(1B) Subsection (1)(e) applies regardless of whether the person has failed any breath screening tests under section 68 or evidential breath tests under section 69 and regardless of the outcome of any such tests.
+(1AA) Subsection (1)﻿(b) does not apply in the case of a person (other than a person who is apparently younger than 20 or who holds an alcohol interlock licence or a zero alcohol licence) if the result of the evidential breath test under section 69(4) indicates that the proportion of alcohol in the person's breath exceeds 250 micrograms of alcohol per litre of breath but does not exceed 400 micrograms of alcohol per litre of breath.
+(1A) Subsection (1)﻿(e) only applies if an enforcement officer has good cause to suspect that the person has consumed a drug or drugs.
+(1B) Subsection (1)﻿(e) applies regardless of whether the person has failed any breath screening tests under section 68 or evidential breath tests under section 69 and regardless of the outcome of any such tests.
 (1C) An enforcement officer may exercise the powers in subsections (1) and (2) in addition to any breath screening tests under section 68 or evidential breath tests under section 69.
-(1D) An enforcement officer who advises a person of the matters specified in section 77(3)(a) (which sets out the conditions of the admissibility of an evidential breath test) must also, without delay, advise the person that if the person elects to have a blood test the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of that blood test establishes that the person has committed an offence against this Act.
-(1E) An enforcement officer who requires a person to permit the taking of a blood specimen under subsection (1)(c), (d), or (e) must advise the person that the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of the blood test establishes that the person has committed an offence against this Act.
+(1D) An enforcement officer who advises a person of the matters specified in section 77(3)﻿(a) (which sets out the conditions of the admissibility of an evidential breath test) must also, without delay, advise the person that if the person elects to have a blood test the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of that blood test establishes that the person has committed an offence against this Act.
+(1E) An enforcement officer who requires a person to permit the taking of a blood specimen under subsection (1)﻿(c), (d), or (e) must advise the person that the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of the blood test establishes that the person has committed an offence against this Act.
 (2) A person who has been required by an enforcement officer under subsection (1) to permit the taking of a blood specimen must, without delay after being requested to do so by a medical practitioner or medical officer, permit that practitioner or medical officer to take a blood specimen from that person.
 (3) If it is not practicable for a blood specimen to be taken from a person by a medical practitioner or medical officer at a place where the person has been required under this section to permit the taking of a blood specimen, the person must accompany an enforcement officer to any other place where it is likely that a blood specimen can be taken from the person by a medical practitioner or medical officer if the officer requires the person to do so.
 (4) If a blood specimen taken under this section is insufficient for the purposes of the relevant blood specimen collecting procedure,—
@@ -1938,7 +1941,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
     (i) the Commissioner, or a person authorised for the purpose by the Commissioner, must forward a copy of the application to the approved laboratory to whom the blood specimen taken from the person was delivered or posted under subsection (3) or subsection (4); and
     (ii) that laboratory must send by registered post, personal delivery, or delivery by courier the blood specimen, held for the purpose, to the private analyst specified in the application.
 (6) If an application under subsection (5) does not comply with subsection (7), the Commissioner or authorised person may refuse to forward a copy of the application to the approved laboratory.
-(7) An application under subsection (5)(a) must—
+(7) An application under subsection (5)﻿(a) must—
   (a) be made in writing to the Commissioner not later than 28 days after—
     (i) the date on which a summons in respect of an offence against this Act (which offence is an offence arising out of the circumstances in respect of which the blood specimen was taken) is served on the defendant; or
     (ii) if the defendant is arrested under a warrant under section 34 of the Criminal Procedure Act 2011 in respect of any such offence, the date on which the defendant is so arrested; or
@@ -2012,14 +2015,14 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
   (b) the person who underwent the test—
     (i) advises an enforcement officer, within 10 minutes of being advised of the matters specified in paragraph (a), that the person wishes to undergo a blood test; and
     (ii) complies with section 72(2).
-(3A) The consequences referred to in subsection (3)(a)(ii) are—
+(3A) The consequences referred to in subsection (3)﻿(a)﻿(ii) are—
   (a) that the positive test could of itself be conclusive evidence to lead to that person's conviction for an offence against this Act if—
     (i) the test indicates that the proportion of alcohol in the person's breath exceeds 400 micrograms of alcohol per litre of breath; or
     (ii) the person is younger than 20 and the proportion of alcohol in the person's breath exceeds 150 micrograms of alcohol per litre of breath; or
     (iii) the person holds an alcohol interlock licence or a zero alcohol licence:
   (b) that the positive test could of itself be conclusive evidence that the person has committed an infringement offence against this Act if the person is younger than 20 and the test indicates that the person's breath contains alcohol but the proportion of alcohol does not exceed 150 micrograms of alcohol per litre of breath.
 (3B) Subsection (3) does not apply if the result of a positive evidential breath test indicates that the proportion of alcohol in a person's breath (other than a person who is apparently younger than 20 or who holds an alcohol interlock licence or a zero alcohol licence) exceeds 250 micrograms of alcohol per litre of breath, but does not exceed 400 micrograms of alcohol per litre of breath.
-(4) Subsection (3)(a) does not apply if the person who underwent the test fails or refuses to remain at the place where the person underwent the test until the person can be advised of the result of the test.
+(4) Subsection (3)﻿(a) does not apply if the person who underwent the test fails or refuses to remain at the place where the person underwent the test until the person can be advised of the result of the test.
 (5)
 (6) If it is proved in proceedings for an offence against section 60 that the defendant failed or refused to comply with section 13 without reasonable cause, that failure or refusal may be treated as supporting any evidence given on behalf of the prosecution, or as rebutting any evidence given on behalf of the defendant, concerning the defendant's condition at the time of the alleged offence.
 
@@ -2085,10 +2088,10 @@ A licence holder or person having control of a transport service who notifies th
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
 
 ### 79G Contravention of section 87G
-(1) A person commits an offence if the person, having been prohibited under section 87G(1)(b) from driving a transport service vehicle, drives during the currency of the prohibition any vehicle being used in a transport service (other than a rental service) or a specified class of transport service.
-(2) A person commits an offence if the person, having been prohibited under section 87G(1)(c) from carrying out duties or activities of a driving instructor or testing officer, does so during the currency of the prohibition.
+(1) A person commits an offence if the person, having been prohibited under section 87G(1)﻿(b) from driving a transport service vehicle, drives during the currency of the prohibition any vehicle being used in a transport service (other than a rental service) or a specified class of transport service.
+(2) A person commits an offence if the person, having been prohibited under section 87G(1)﻿(c) from carrying out duties or activities of a driving instructor or testing officer, does so during the currency of the prohibition.
 (3) The maximum penalty on conviction for an offence against subsections (1) and (2) is a fine not exceeding $2,000 and disqualification from holding or obtaining a driver licence for such period (if any) as the court thinks fit.
-(4) A person commits an offence if the person applies for or obtains a driver licence, other than a driver licence that relates principally to the use of private motor vehicles, while the person is disqualified under section 87G(1)(a) from obtaining the licence.
+(4) A person commits an offence if the person applies for or obtains a driver licence, other than a driver licence that relates principally to the use of private motor vehicles, while the person is disqualified under section 87G(1)﻿(a) from obtaining the licence.
 (5) The maximum penalty on conviction for an offence against subsection (4) is a fine not exceeding $500.
 
 ### 79H Contravention of section 128A
@@ -2126,7 +2129,7 @@ The court may require a transport service licence holder to sit, or re-sit, the 
 ### Subpart 1 — Work time
 
 ### 79N Failure to keep or produce records or comply with conditions of exemption or approval
-Every person commits an offence who fails or refuses to comply with any of the requirements of section 30ZD or the conditions of any exemption granted or approval given under section 30ZA(1)(a) or (c), and is liable on conviction,—
+Every person commits an offence who fails or refuses to comply with any of the requirements of section 30ZD or the conditions of any exemption granted or approval given under section 30ZA(1)﻿(a) or (c), and is liable on conviction,—
   (a) in the case of a driver, to a fine not exceeding $2,000, and the person may, for a period of 1 calendar month or such greater period as the court thinks fit, be disqualified from holding or obtaining a licence to drive any vehicle that—
     (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); or
     (ii) is used in the relevant transport service; or
@@ -2204,7 +2207,7 @@ Every person who fails or refuses to comply with any requirement of or demand ma
 
 ### 79S Defences to logbook offences
 (1) It is a defence to a charge under section 79R(1) or section 79R(2) or section 79R(3) if the defendant proves that the proceedings relate to a motor vehicle or service or individual that has been exempted from the requirement to maintain a logbook under this Act, the rules, or regulations.
-(2) In the case of a defendant who was not the driver of the vehicle to which the charge relates, it is a defence to a charge under section 79R(1) or section 79R(3)(b) or section 79R(3)(c) if the defendant proves that—
+(2) In the case of a defendant who was not the driver of the vehicle to which the charge relates, it is a defence to a charge under section 79R(1) or section 79R(3)﻿(b) or section 79R(3)﻿(c) if the defendant proves that—
   (a) reasonable steps were taken by the defendant to prevent the false statement or material omission in the logbook; and
   (b) as soon as reasonably practicable after the false statement or material omission was drawn to the person's attention by any enforcement officer authorised to demand the production of logbooks under section 30ZH(2), the person produced to the enforcement officer a logbook containing no false statement or material omission.
 (3) Except as provided in subsection (4), subsection (2) does not apply unless within 7 days after the service of the summons, or within such further time as the court may allow, the defendant has delivered to the prosecutor a written notice—
@@ -2291,7 +2294,7 @@ To avoid doubt, section 82A applies if a period of disqualification or suspensio
 
 ### 85 When disqualification starts
 (1) If an order is made by a court under any Act disqualifying a person from holding or obtaining a driver licence, the period of disqualification starts on the day the order is made unless the court otherwise directs or that Act otherwise provides.
-(2) The person disqualified does not commit the offence of driving while disqualified contrary to section 32(1)(a) merely because, on the day of the making of the order, he or she drove a motor vehicle on a road on that day before the making of the order.
+(2) The person disqualified does not commit the offence of driving while disqualified contrary to section 32(1)﻿(a) merely because, on the day of the making of the order, he or she drove a motor vehicle on a road on that day before the making of the order.
 (3) In the case of a person who is at the time of the order already disqualified from holding or obtaining a driver licence, the period of disqualification ordered starts when the order or the last of the orders to which the person is already subject ceases to have effect.
 
 ### 86 Term of disqualification if person already disqualified
@@ -2303,7 +2306,7 @@ To avoid doubt, section 82A applies if a period of disqualification or suspensio
 ### 87 Particulars of certain court orders to be sent to Agency and offender
 (1) This section applies to the following orders:
   (a) an order disqualifying a person from holding or obtaining a driver licence:
-  (b) an order under section 65A(2)(b)(i) (authorising the person to apply for an alcohol interlock licence):
+  (b) an order under section 65A(2)﻿(b)﻿(i) (authorising the person to apply for an alcohol interlock licence):
   (c) an order under section 65B(2) (authorising the person to apply for a zero alcohol licence):
   (d) an order under section 99 (reducing a disqualification):
   (e) an order under section 105 (authorising the issue of a limited licence).
@@ -2349,7 +2352,7 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 ### 87F Term of suspension
 (1) A suspension under section 87D may take effect either immediately or from any date that the Agency may specify.
 (2) The Agency may at any time withdraw a suspension imposed under section 87D.
-(3) If any suspension has been imposed in respect of a person to whom section 87D(2)(b) applies, the suspension ceases immediately if—
+(3) If any suspension has been imposed in respect of a person to whom section 87D(2)﻿(b) applies, the suspension ceases immediately if—
   (a) the charge is withdrawn in circumstances where it is not replaced with another charge based on the same circumstances; or
   (b) the person is found not guilty of the offence charged.
 
@@ -2414,7 +2417,7 @@ Subpart 5 of Part 4A applies to a decision to disqualify a person under section 
 In this section and in sections 91C to 91H, unless the context otherwise requires,—
   - **defendant** means the person who is required to pay a traffic fine, and includes a young person within the meaning of the Children, Young Persons, and Their Families Act 1989
   - **resolved** , in relation to a defendant's obligation to pay a traffic fine, has the same meaning as in section 79 of the Summary Proceedings Act 1957
-  - **served personally** , in relation to a warning notice or a driver licence stop order, means served in the way described in section 91B(1)(a)
+  - **served personally** , in relation to a warning notice or a driver licence stop order, means served in the way described in section 91B(1)﻿(a)
   - **traffic fine** —
     (a) means any amount of money that a person is for the time being obliged to pay under a sentence imposed or an order made, or deemed to be made, by a court in respect of a traffic offence, whether the amount payable under that sentence or order is described as a fine or as costs, levies, expenses, fees, reparation, or otherwise; and
     (b) includes an offender levy imposed under section 105B of the Sentencing Act 2002 for a traffic offence and any prescribed costs, expenses, or fees payable in respect of the enforcement of any amount of money described in paragraph (a); but
@@ -2432,7 +2435,7 @@ In this section and in sections 91C to 91H, unless the context otherwise require
   (d) by the chief executive of the Ministry of Justice sending it to the defendant by prepaid post addressed to the defendant at the defendant's last known place of residence or business or place of work:
   (e) if the defendant has a known electronic address, by the chief executive of the Ministry of Justice sending it to the defendant at that address in electronic form.
 (2) An endorsement on a copy of a warning notice or a driver licence stop order, or, where applicable, on a printout that records an electronic document, stating the fact, mode, date and time of service and purporting to be signed by an employee or agent of the Ministry of Justice or by an enforcement officer is, in the absence of evidence to the contrary, sufficient proof of service of the notice or order.
-(3) If a warning notice or driver licence stop order is served in the way described in subsection (1)(d), then, unless the contrary is shown, the notice or order is served when it would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the letter concerned was properly addressed and posted.
+(3) If a warning notice or driver licence stop order is served in the way described in subsection (1)﻿(d), then, unless the contrary is shown, the notice or order is served when it would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the letter concerned was properly addressed and posted.
 
 ### 91C Liability to driver licence stop order
 A defendant who is obliged to pay a traffic fine is liable to the imposition of a driver licence stop order if—
@@ -2504,7 +2507,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (a) within 21 days after being required to do so, pay to the person in charge of the course the fee usually charged for that course; and
   (b) within 90 days after being required to do so, complete the course; and
   (c) if the person has successfully completed the course, provide the court with evidence that verifies that the person has successfully completed the course.
-(5) Despite subsection (4)(b), if a person is unable to complete an appropriate driving improvement course approved by the Agency owing to factors beyond the person's control, the court may—
+(5) Despite subsection (4)﻿(b), if a person is unable to complete an appropriate driving improvement course approved by the Agency owing to factors beyond the person's control, the court may—
   (a) grant an extension as the court considers appropriate in the circumstances; or
   (b) suspend or cancel the order requiring the person to complete the course.
 
@@ -2514,7 +2517,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (3) The following provisions apply to the tests and examinations:
   (a) the Agency must give the person who is to be tested or examined not less than 14 clear days' notice of the date, time, and place of each test and examination:
   (b) the tests and examinations must be carried out under the supervision of the Agency.
-(4) The driver licence of a person who fails to pass the approved tests and examinations is suspended until the person passes the tests and examinations, and, if a person fails without reasonable excuse to attend on the date and at the time and place specified in a notice given under subsection (3)(a), the person's licence is to be treated as having been suspended until the person presents himself or herself for the purpose of undergoing the approved tests and examinations.
+(4) The driver licence of a person who fails to pass the approved tests and examinations is suspended until the person passes the tests and examinations, and, if a person fails without reasonable excuse to attend on the date and at the time and place specified in a notice given under subsection (3)﻿(a), the person's licence is to be treated as having been suspended until the person presents himself or herself for the purpose of undergoing the approved tests and examinations.
 (5) A person whose driver licence has been suspended under this section is disqualified from holding or obtaining a driver licence until such time as he or she passes the approved tests and examinations.
 (6) If a person passes the approved tests and examinations, the Agency may issue a new licence to have effect in place of the suspended licence or endorse the suspended licence.
 (7) If a person undergoes any tests and examinations under an order made under this section, that person is liable to pay the same fees as the person would be liable to pay if the person were an applicant for a licence.
@@ -2533,13 +2536,13 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (a) the court must impose a community-based sentence on the offender; and
   (b) the imposition of such a sentence does not limit or affect the power of the court to impose any other sentence for the offence that, in accordance with the provisions of the Sentencing Act 2002, it may impose in addition to the community-based sentence; and
   (c) in determining the appropriate sentence to be imposed on the offender in respect of the offence, the court must take into account the gravity of the offence and the fact that the offender would otherwise have been liable to disqualification from holding or obtaining a driver licence.
-(3A) For the purposes of subsection (3)(a), the court may impose a sentence of supervision or intensive supervision as a community-based sentence if—
+(3A) For the purposes of subsection (3)﻿(a), the court may impose a sentence of supervision or intensive supervision as a community-based sentence if—
   (a) that sentence is appropriate; and
   (b) a suitable programme is available; and
   (c) the offender attends a suitable programme.
 (4) This section does not apply if—
   (a) section 63 or section 65 applies; or
-  (b) the offender is prohibited from applying for a limited licence under section 103(2)(a), (b), or (d).
+  (b) the offender is prohibited from applying for a limited licence under section 103(2)﻿(a), (b), or (d).
 
 **Mandatory suspension of driver licence**
 
@@ -2557,8 +2560,8 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (i) the applicable permanent posted speed limit by more than 40 km an hour (which speed was detected by a means other than approved vehicle surveillance equipment); or
     (ii) any other speed limit by more than 50 km an hour (which speed was detected by a means other than approved vehicle surveillance equipment).
 (1A) If an enforcement officer believes on reasonable grounds that a person has undergone an evidential breath test and has been found to have a breath alcohol concentration exceeding 650 micrograms of alcohol per litre of breath,—
-  (a) the enforcement officer must give the person a notice under subsection (1)(a) even though the person has the right under section 70A to elect to have a blood test; and
-  (b) a further notice is not required and must not be given under subsection (1)(a) if the person undergoes a blood test and is found to have a blood alcohol concentration exceeding 130 milligrams of alcohol per 100 millilitres of blood.
+  (a) the enforcement officer must give the person a notice under subsection (1)﻿(a) even though the person has the right under section 70A to elect to have a blood test; and
+  (b) a further notice is not required and must not be given under subsection (1)﻿(a) if the person undergoes a blood test and is found to have a blood alcohol concentration exceeding 130 milligrams of alcohol per 100 millilitres of blood.
 (2) A notice under this section must—
   (a) be in a form prescribed by regulations made under this Act or in a form to the same effect; and
   (b) tell the person to whom it is given that his or her driver licence is suspended for 28 days; and
@@ -2567,7 +2570,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (3) A suspension under this section starts immediately after the notice is given to the person to whom it applies.
 (4) A person whose driver licence is suspended under this section has the rights of appeal conferred by sections 101 and 109.
 (5) Nothing in this section affects or limits any power of a court to impose a penalty.
-(6) Subsection (1)(c) does not apply if the vehicle—
+(6) Subsection (1)﻿(c) does not apply if the vehicle—
   (a) was an ambulance fitted with a siren or bell, and at the time was being used on urgent ambulance service; or
   (b) was conveying a constable in the execution of urgent duty, if compliance with the speed limit would be likely to prevent or hinder the execution of that duty; or
   (c) was being used by a fire brigade for attendance at fires or other emergencies, and at the time was being used on urgent fire brigade service.
@@ -2580,7 +2583,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (9) For the purposes of this section, driver licence includes a foreign driver licence.
 
 ### 95A Extension of 28-day suspension period of driver licence under section 95
-(1) A Police employee holding the office of constable and who is of or above the position of inspector may, after giving notice in writing to the person whose driver licence has been suspended, apply to a District Court Judge for an order extending the 28-day suspension period referred to in section 95(2)(b).
+(1) A Police employee holding the office of constable and who is of or above the position of inspector may, after giving notice in writing to the person whose driver licence has been suspended, apply to a District Court Judge for an order extending the 28-day suspension period referred to in section 95(2)﻿(b).
 (2) An application must specify the circumstances that make it necessary to extend the 28-day suspension period.
 (3) The maximum number of applications that may be made under this section in respect of a suspended driver licence is 3.
 (4) A District Court may order that the driver licence be suspended for a further period not exceeding 28 days.
@@ -2653,7 +2656,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (i) released; or
     (ii) seized under the Summary Proceedings Act 1957; or
     (iii) confiscated under the Sentencing Act 2002.
-(6A) A vehicle to which a notice under this section relates must be released to the owner when the result of the blood test (if any) is notified to the person who drove the vehicle in circumstances referred to in subsection (1)(d) if—
+(6A) A vehicle to which a notice under this section relates must be released to the owner when the result of the blood test (if any) is notified to the person who drove the vehicle in circumstances referred to in subsection (1)﻿(d) if—
   (a) the blood test shows that he or she had a blood alcohol concentration of, or less than, 80 milligrams of alcohol per 100 millilitres of blood; and
   (b) the vehicle has not already been released.
 (7) Nothing in this section authorises the seizure or impoundment of a trailer or any other vehicle without motive power that is being towed by or is attached to a motor vehicle.
@@ -2796,9 +2799,9 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (1) A person (the applicant) who by order of a court is disqualified from holding or obtaining a driver licence may from time to time apply to a court to reduce the disqualification or disqualifications if the person, on the date that the application is made,—
   (a) has more than 1 year of an existing disqualification or disqualifications left to serve; and
   (b) has not been convicted in the previous 2 years of offences against any of the following sections of this Act:
-    (i) section 35(1)(a) or (b):
+    (i) section 35(1)﻿(a) or (b):
     (ii) section 36(1):
-    (iii) section 36A(1)(a) or (c):
+    (iii) section 36A(1)﻿(a) or (c):
     (iv) section 36A(2) or (3):
     (v) section 39(1):
     (vi) section 56(1) or (2):
@@ -2808,8 +2811,8 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (ix) section 61(1) or (2):
     (x) section 62(1) or (1B); and
   (c) has not been convicted in the previous 2 years or concurrently of an offence against section 171 of the Crimes Act 1961 (manslaughter) in which the manslaughter was the result of driving a motor vehicle; and
-  (d) has not been convicted of offences against section 32(1)(a) or (b) or (c) in the last 6 months.
-(1A) For the purposes of subsection (1)(b), (c), and (d), the date on which a person has been convicted is the date on which a conviction has been entered against that person.
+  (d) has not been convicted of offences against section 32(1)﻿(a) or (b) or (c) in the last 6 months.
+(1A) For the purposes of subsection (1)﻿(b), (c), and (d), the date on which a person has been convicted is the date on which a conviction has been entered against that person.
 (2) On an application under subsection (1), the court may, having regard to the character of the applicant and the applicant's conduct since the order was made, the nature of the offence, and any other circumstances of the case, either—
   (a) reduce the disqualification as from such date as may be specified in the order or refuse the application; or
   (b) treat the application as an application for an order under section 105 (for the grant of a limited licence) and make an order accordingly under that section.
@@ -2858,7 +2861,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (3) The Agency must, within 5 working days after an appeal under this section is lodged, either—
   (a) remove the suspension immediately, if satisfied that a ground referred to in subsection (1) has been established; or
   (b) dismiss the appeal.
-(4) If a suspension is removed under subsection (3)(a), the suspension ceases to have effect when that decision is made and the Agency must return the licence to the holder's last known place of residence or business or postal address, or to the holder at an office of the Agency.
+(4) If a suspension is removed under subsection (3)﻿(a), the suspension ceases to have effect when that decision is made and the Agency must return the licence to the holder's last known place of residence or business or postal address, or to the holder at an office of the Agency.
 (5) The Agency may refuse to consider an appeal under this section if satisfied that the appeal is frivolous or vexatious, or that the appellant has provided insufficient information.
 
 ### 102 Appeal to Police against impoundment of vehicle
@@ -2879,7 +2882,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (a) the authorised officer must direct that the vehicle be released immediately to the owner or a person authorised by the owner; and
   (b) if a direction in respect of the vehicle has been given under section 96(1B), the authorised officer must cancel the direction unless he or she believes on reasonable grounds that the vehicle does not comply with the provisions of the regulations or the rules.
 (4) The authorised officer must consider and determine the appeal as soon as reasonably practicable, and,—
-  (a) in the case of an appeal lodged on the ground set out in subsection (1)(a), determine the appeal not later than 2 working days after the day of lodgement:
+  (a) in the case of an appeal lodged on the ground set out in subsection (1)﻿(a), determine the appeal not later than 2 working days after the day of lodgement:
   (b) in any other case, determine the appeal not later than 5 working days after the day of lodgement.
 (5) The authorised officer may refuse to consider an appeal under this section if satisfied that the appeal is frivolous or vexatious, or that the appellant has provided insufficient information.
 
@@ -2949,7 +2952,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) may, when a driver licence stop order is cancelled under section 91G or terminated under section 91H, be reissued or issued (as the case may be) unless the person is otherwise disqualified from holding a limited licence.
 (8) The holder of a limited licence that is revoked under subsection (7) must immediately, and whether demand is made on the holder or not, surrender his or her photographic driver licence to the court by which he or she is convicted or to an enforcement officer or at an office of the Agency.
 (8A) The holder of a limited licence that is revoked under subsection (7A) must immediately, and whether demand is made on the holder or not, surrender his or her photographic driver licence to an employee or agent of the Ministry of Justice or at an office of that Ministry or at the court.
-(9) Despite section 104(3)(b), the court may not make an order under this section unless the applicant satisfies the court that no more than 20 of the demerit points were accumulated while driving in a passenger service.
+(9) Despite section 104(3)﻿(b), the court may not make an order under this section unless the applicant satisfies the court that no more than 20 of the demerit points were accumulated while driving in a passenger service.
 
 **Rights of appeal**
 
@@ -3104,7 +3107,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) move a vehicle to a place where it does not constitute a traffic hazard; or
   (c) impound a vehicle—
 (2) A person who—must release the vehicle to that person immediately.
-  (a) has possession of a vehicle as a result of its being moved under section 113(2)(c); and
+  (a) has possession of a vehicle as a result of its being moved under section 113(2)﻿(c); and
   (b) when requested at a reasonable time to do so by a person who produces satisfactory evidence to the effect that he or she was lawfully entitled to possession of the vehicle immediately before it was moved,—
 
 ### 118 Owner or hirer or licence holder to give information as to identity of driver or passenger
@@ -3121,7 +3124,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (1) An enforcement officer may exercise the powers conferred by subsection (2) if the enforcement officer—
   (a) has good cause to suspect that a person—
     (i) has contravened a request or requirement or demand made under section 114 (other than subsection (1)); and
-    (ii) has also committed or is committing an offence against section 35(1)(a) or section 35(1)(b) (which relate to reckless or dangerous driving offences), or is, or has recently been, driving under the influence of drink or a drug, or both; and
+    (ii) has also committed or is committing an offence against section 35(1)﻿(a) or section 35(1)﻿(b) (which relate to reckless or dangerous driving offences), or is, or has recently been, driving under the influence of drink or a drug, or both; and
   (b) is freshly pursuing that person.
 (2) The enforcement officer may, without warrant, in the course of the pursuit enter, by force if necessary, any premises which the person has entered, for either or both of the following purposes:
   (a) determining whether or not a power conferred on an enforcement officer by section 68 or section 69 should be exercised in respect of that person:
@@ -3132,7 +3135,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (i) an enforcement officer has been freshly pursuing the vehicle; or
     (ii) it is likely that a person was about to remove, conceal, destroy, or dispose of the vehicle; or
     (iii) an enforcement officer believes on reasonable grounds that the vehicle was about to be used in the commission of a crime; and
-  (b) if, because of the time of the day or the locality, it was impracticable to obtain a warrant without creating an opportunity for the person to do anything referred to in paragraph (a)(ii) or (iii).
+  (b) if, because of the time of the day or the locality, it was impracticable to obtain a warrant without creating an opportunity for the person to do anything referred to in paragraph (a)﻿(ii) or (iii).
 (4) For the purposes of seizing and impounding a vehicle under section 96 or section 96A or section 123 in any case where subsection (3) does not apply, an enforcement officer may enter a building or place where a vehicle to which that section applies is being stored or kept only with the consent of the occupier or under a warrant issued under subsection (5).
 (5) An enforcement officer may apply, in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, to an issuing officer (within the meaning of section 3 of that Act), for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which section 96 or section 96A or section 123 applies is being stored or kept in the building or place, the Judge may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
 (6) The provisions of Part 4 of the Search and Surveillance Act 2012 apply in respect of the powers in subsections (3) and (5) (except for subpart 3 of that Part in relation to subsection (3)).
@@ -3143,7 +3146,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (a) has committed an offence against any of sections 58 to 62; or
   (b) has assaulted that or any other enforcement officer while the officer was acting in the course of the officer's official duties.
 (1A) An enforcement officer may arrest a person without warrant if the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A.
-(2) A person assisting an enforcement officer may arrest without warrant a person referred to in subsection (1)(b).
+(2) A person assisting an enforcement officer may arrest without warrant a person referred to in subsection (1)﻿(b).
 (3) A person other than a constable who exercises any power of arrest conferred by this section must, as soon as practicable, deliver the arrested person into the custody of a constable.
 (4) The obligation in subsection (3) does not apply until the completion of the exercise of any powers that may be exercised under this Act in respect of the arrested person or any vehicle driven by that person.
 (5) The powers conferred by this section are in addition to any other powers of arrest under this Act.
@@ -3162,7 +3165,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) direct the person to drive the vehicle to a specified place where the driver may obtain rest, or where the load on the vehicle or other conditions make it appropriate that the driver should drive to that place:
   (c) take possession of all ignition or other keys of the vehicle, and for that purpose require that person to deliver up immediately all such keys:
   (d) take such steps as may be necessary to render the vehicle immobile or to remove it to a place where it does not constitute a traffic hazard.
-(3) The period for which an enforcement officer forbids a person to drive under subsection (2)(a) must, where the person has undergone an evidential breath test and it appears to the enforcement officer that the test is positive, be a period of 12 hours, unless the enforcement officer is satisfied that there is good reason for imposing a shorter prohibition.
+(3) The period for which an enforcement officer forbids a person to drive under subsection (2)﻿(a) must, where the person has undergone an evidential breath test and it appears to the enforcement officer that the test is positive, be a period of 12 hours, unless the enforcement officer is satisfied that there is good reason for imposing a shorter prohibition.
 (4) An enforcement officer may arrest without warrant a person who fails to comply with a direction given under this section or does or attempts to do any act that is for the time being forbidden under this section.
 
 ### 121A Enforcement officer may give directions or immobilise vehicle if driver breaches certain licence conditions
@@ -3173,7 +3176,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (c) take possession of all ignition or other keys of the vehicle, and for that purpose require the person to deliver up immediately all such keys:
   (d) take any steps that may be necessary to make the motor vehicle immobile or to move the motor vehicle to a place where it does not constitute a traffic hazard.
 (3) An enforcement officer may arrest without warrant a person who fails to comply with a power exercised under subsection (2).
-(4) The power to take possession under subsection (2)(c) or to immobilise or move under subsection (2)(d) continues until—
+(4) The power to take possession under subsection (2)﻿(c) or to immobilise or move under subsection (2)﻿(d) continues until—
   (a) the driver is able to drive the vehicle without breaching the conditions of that driver's licence; or
   (b) another person is able to drive the vehicle without breaching—
     (i) that person's licence:
@@ -3208,7 +3211,7 @@ An enforcement officer may, at a reasonable time, exercise all or any of the fol
   (a) inspect the load on the vehicle:
   (b) measure, or require to be measured, the weight of the vehicle or the weight on any of its axles:
   (c) direct the driver or person in charge of the vehicle to drive the vehicle to a site and on to a weighing device specified by the enforcement officer for the purpose of enforcing the provisions of this Act or the Road User Charges Act 2012 or any other enactment, even though the driver may not otherwise be permitted to drive the vehicle to that site.
-(2) The power conferred by subsection (1)(c) is also exercisable in respect of a vehicle an enforcement officer believes to be a heavy motor vehicle or transport service vehicle (other than a light rental service vehicle).
+(2) The power conferred by subsection (1)﻿(c) is also exercisable in respect of a vehicle an enforcement officer believes to be a heavy motor vehicle or transport service vehicle (other than a light rental service vehicle).
 (3) Except where the driver has failed to stop when directed under subsection (4), nothing in subsection (1) authorises an enforcement officer to direct the driver or person in charge, in order to drive the vehicle to a site or weighing device, to travel a distance that would increase the total length of the journey by—
   (a) more than 5 km; or
   (b) more than 20 km, if the officer has good cause to suspect that the driver has detoured from the normal route for the purpose of avoiding being required to have the weight of the vehicle or on any axle of the vehicle measured.
@@ -3281,12 +3284,12 @@ Any enforcement officer who is in uniform or who produces evidence of identity a
     (i) enter, or authorise another person to enter, the vehicle for the purpose of moving it or preparing it for movement; and
     (ii) move, or authorise another person to move, the vehicle to any place where it does not constitute a traffic hazard.
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
-  (a) fails to comply with any direction given under subsection (1)(b); or
-  (b) gives, in response to a direction given under subsection (1)(b), any information that the person knows to be false.
+  (a) fails to comply with any direction given under subsection (1)﻿(b); or
+  (b) gives, in response to a direction given under subsection (1)﻿(b), any information that the person knows to be false.
 (3) Every person to whom any direction is given under the authority of subsection (1) must comply with the direction, and no person may do any act that is for the time being forbidden by any direction given under the authority of subsection (1).
 (4) A person who is authorised by a parking warden to enter a vehicle for the purpose of moving it or preparing it for movement or to move a vehicle to a place where it does not constitute a traffic hazard may do so, but must do everything reasonably necessary to ensure that the vehicle is not damaged while doing so.
 (5) Every person commits an offence and is liable on conviction for a fine not exceeding $1,000 if the person—
-  (a) has possession of a vehicle as a result of its being moved under subsection (1)(d); and
+  (a) has possession of a vehicle as a result of its being moved under subsection (1)﻿(d); and
   (b) fails to deliver possession of the vehicle, as soon as practicable, to a person who produces satisfactory evidence, at any reasonable time, to the effect that the person was lawfully entitled to possession of the vehicle immediately before it was moved.
 
 **Dangerous goods**
@@ -3368,11 +3371,11 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
     (i) was registered as the owner, or one of the owners, of the vehicle involved in the offence in a register kept under section 18 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986; or
     (ii) was the registered person in respect of the vehicle under Part 17 of this Act:
   (c) the person who, at the time of the alleged offence, was lawfully entitled to possession of the vehicle involved in the offence (whether or not jointly with any other person).
-(2) Subject to subsection (4), in any proceedings taken against a person under subsection (1)(b) or (c), in the absence of proof to the contrary, it must be presumed that—
+(2) Subject to subsection (4), in any proceedings taken against a person under subsection (1)﻿(b) or (c), in the absence of proof to the contrary, it must be presumed that—
   (a) the person was the driver, person in charge, and user of the vehicle at the time of the alleged offence (whether or not the person is an individual); and
   (b) the acts or omissions of the driver, person in charge, or user of the vehicle at that time were the acts or omissions of the first-mentioned person.
 (3) It is a defence to proceedings taken against a person for a stationary vehicle offence if the person proves that another person has, by virtue of an order under the Criminal Procedure Act 2011 or the Summary Proceedings Act 1957, become liable to pay a fine or costs, or both, in respect of the offence.
-(4) It is a defence to proceedings taken against a person under subsection (1)(b) or (c) if—
+(4) It is a defence to proceedings taken against a person under subsection (1)﻿(b) or (c) if—
   (a) the person proves that, at the time the alleged offence was committed,—
     (i) he or she was not lawfully entitled to possession of the vehicle (either jointly with any other person or individually); or
     (ii) another person was unlawfully in charge of the vehicle; and
@@ -3442,14 +3445,14 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (c) by sending it, or a copy of it, by post addressed to him or her at his or her last known place of residence or business or postal address; or
   (d) if the person is a holder of a land transport document, by serving it, or a copy of it, by post on that person at his or her last address for service provided for the purposes of that document.
 (3) An infringement notice that—
-  (a) is attached to a vehicle under subsection (2)(a) must be treated as having been served when it is attached to the vehicle:
-  (b) is sent to a person by post under subsection (2)(c) or (d) must be treated as having been served on the person when it would have been delivered in the ordinary course of post.
+  (a) is attached to a vehicle under subsection (2)﻿(a) must be treated as having been served when it is attached to the vehicle:
+  (b) is sent to a person by post under subsection (2)﻿(c) or (d) must be treated as having been served on the person when it would have been delivered in the ordinary course of post.
 (4)
 (5)
 (6) If a parking warden has reason to believe that the user of a vehicle has committed an infringement offence that may be enforced by a parking warden under section 128E,—
   (a) the user of the vehicle may be proceeded against for the alleged offence under the Criminal Procedure Act 2011; or
   (b) the parking warden may issue an infringement notice in respect of the alleged offence.
-(7) For the purposes of any proceedings in respect of an infringement offence that is an offence against a bylaw made under section 9(1)(e) or (g) of the Airport Authorities Act 1966, enforcement officer includes officers appointed by an airport authority.
+(7) For the purposes of any proceedings in respect of an infringement offence that is an offence against a bylaw made under section 9(1)﻿(e) or (g) of the Airport Authorities Act 1966, enforcement officer includes officers appointed by an airport authority.
 
 ### 139A Towage fees if parking offences prosecuted
 (1) The court must order the defendant to pay, in addition to any fine and any costs ordered by the court, the amount of the appropriate towage fee if, in proceedings in respect of a parking offence,—
@@ -3517,7 +3520,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 (1) In proceedings for an offence against this Act relating to the driving of motor vehicles, whether by way of hearing in the first instance or by way of appeal or otherwise, the court may receive as evidence—
   (a) an affidavit filed in the court by or on behalf of the defendant:
   (b) evidence adduced by or on behalf of the defendant that the court thinks fit, whether or not it would, apart from this paragraph, be legally admissible evidence.
-(2) Except by special direction of the court, subsection (1)(a) does not apply in any case where it appears to the court that the deponent's usual place of residence is less than 80 km by road from the place of hearing.
+(2) Except by special direction of the court, subsection (1)﻿(a) does not apply in any case where it appears to the court that the deponent's usual place of residence is less than 80 km by road from the place of hearing.
 (3) A copy of the Gazette containing an appointment, warrant, order, or other act of authority made under this Act is evidence in all courts that the appointment, warrant, order, or other act has been duly made or performed under the authority of this Act.
 
 ### 145 Evidence of approved vehicle surveillance equipment
@@ -3610,7 +3613,7 @@ The Minister may make rules (ordinary rules) for all or any of the following pur
 ### 152A Governor-General may make ordinary rules
 (1) Despite anything in this Part, the Governor-General may, by Order in Council, on the recommendation of the Minister, make, amend, or revoke an ordinary rule for any of the purposes for which the Minister may make, amend, or revoke an ordinary rule under this Part.
 (2) The Minister must have regard to the criteria specified in section 164(2) before making a recommendation under subsection (1).
-(3) Section 161(1)(a) and (2) do not apply to an ordinary rule made by Order in Council under subsection (1).
+(3) Section 161(1)﻿(a) and (2) do not apply to an ordinary rule made by Order in Council under subsection (1).
 (4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must be published as if the Minister had made the rule or the amendment to the rule.
 (5) The Minister may amend or revoke an ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) as if the Minister had made the ordinary rule or the amendment to the ordinary rule under this Part.
 (6) An Order in Council made under subsection (1)—
@@ -3864,7 +3867,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (ia) specifying the criteria that—
     (i) a person must meet to install or remove an alcohol interlock device:
     (ii) a person with an alcohol interlock licence must meet to apply for the removal of an alcohol interlock device from the person's vehicle:
-  (ib) specifying the circumstances in which the Agency may authorise the removal of an alcohol interlock device, whether or not the relevant person has met any criteria specified under paragraph (ia)(ii):
+  (ib) specifying the circumstances in which the Agency may authorise the removal of an alcohol interlock device, whether or not the relevant person has met any criteria specified under paragraph (ia)﻿(ii):
   (j) specifying the matters for which fees or charges are to be paid under this Act or any other enactment concerning land transport:
   (k) providing for the collection of land transport related fees and charges:
   (l) prescribing forms for the purposes of this Act:
@@ -3888,13 +3891,13 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (b) is 50 demerit points in the case of any other offence.
 
 ### 168 Regulations relating to fees and charges for land transport
-(1) Without limiting the generality of section 167(1)(j), regulations may be made under that provision prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
+(1) Without limiting the generality of section 167(1)﻿(j), regulations may be made under that provision prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
   (a) to provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Railways Act 2005, the Government Roading Powers Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
   (b) to meet, or assist in meeting, the costs and expenses incurred by the Agency or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under any enactment specified in paragraph (a) or any other enactment relating to land transport:
   (c) to meet, or assist in meeting, the costs incurred by a regional council in processing notifications of the commencement, variation, or withdrawal of exempt services under the Land Transport Management Act 2003.
 (2) Different rates of fees or charges, or both, may be so prescribed or fixed in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis.
-(3) Regulations under section 167(1)(j) may authorise persons carrying out statutory functions concerning land transport (such as persons issuing evidence of vehicle inspection) to charge a reasonable fee for the service or work performed.
-(4) Any regulation under section 167(1)(j) may—
+(3) Regulations under section 167(1)﻿(j) may authorise persons carrying out statutory functions concerning land transport (such as persons issuing evidence of vehicle inspection) to charge a reasonable fee for the service or work performed.
+(4) Any regulation under section 167(1)﻿(j) may—
   (a) specify the persons by whom, and to whom, any fees or charges, or both, are payable:
   (b) prescribe, or provide for the fixing of, additional fees or charges, or both, for services or work carried out outside normal working hours, at weekends, or on statutory holidays:
   (c) prescribe, or provide for the fixing of, charges for reimbursement of travelling time, accommodation, and other expenses:
@@ -4063,8 +4066,8 @@ The functions of the Minister under this Act are—
   (p) information about demerit points recorded under this Act or any other enactment against the holder for any offence:
   (q) organ donor information about the holder.
 (3) The national register must also show information identifying whether a person is disqualified from holding or obtaining a driver licence.
-(4) A person (being the licence holder or another person who obtains the consent of the licence holder) who applies to the Agency and pays the prescribed fee (if any), is entitled to information about the driver licence that is referred to in subsection (2)(b) or (p).
-(5) A medical practitioner is entitled (without payment of a fee) to information about any driver licence holder referred to in subsection (2)(q).
+(4) A person (being the licence holder or another person who obtains the consent of the licence holder) who applies to the Agency and pays the prescribed fee (if any), is entitled to information about the driver licence that is referred to in subsection (2)﻿(b) or (p).
+(5) A medical practitioner is entitled (without payment of a fee) to information about any driver licence holder referred to in subsection (2)﻿(q).
 (6) A person who applies to the Agency and pays the prescribed fee (if any) is entitled to the following information stored in the national register in respect of a person named in the application:
   (a) any information specified in paragraph (d) or paragraph (e) of subsection (2):
   (b) any information specified in paragraphs (f) to (na) of subsection (2) that is current at the date of the application.
@@ -4101,8 +4104,8 @@ The functions of the Minister under this Act are—
 (4) A person who applies to the Agency and pays the prescribed fee (if any)—
   (a) is, with the consent of the holder of the transport service licence named in the application, entitled to the information stored in the register in respect of the licence holder; but
   (b) is, without the consent of the holder of the transport service licence named in the application, entitled only to the information stored in the register in respect of the licence holder that is—
-    (i) specified in subsection (2)(a) and (g) to (l); and
-    (ii) in the case of an approved taxi organisation, specified in subsection (3)(a) to (c) and (e) to (g).
+    (i) specified in subsection (2)﻿(a) and (g) to (l); and
+    (ii) in the case of an approved taxi organisation, specified in subsection (3)﻿(a) to (c) and (e) to (g).
 (5) An application under subsection (4)—
   (a) may be made in writing or electronically or orally; and
   (b) must describe the person named with sufficient particularity to enable the Agency to identify the person and the licences concerned.
@@ -4167,7 +4170,7 @@ The functions of the Minister under this Act are—
 (2) The Commissioner may, by warrant, appoint any constable to be a dangerous goods enforcement officer.
 (3) The Agency may, by warrant, appoint an employee of the Agency to be—
   (a) an enforcement officer for the purposes of—
-    (i) any of Parts 4A, 4B, 6A, and 6B, including any rules or regulations made in relation to transport services, or sections 22B, 22C, 36B, 113(2)(f), 113A, 115, 118(6), 124, 128A, 128B, 135(1A), 138, and 139:
+    (i) any of Parts 4A, 4B, 6A, and 6B, including any rules or regulations made in relation to transport services, or sections 22B, 22C, 36B, 113(2)﻿(f), 113A, 115, 118(6), 124, 128A, 128B, 135(1A), 138, and 139:
     (ii) Part 5 of the Land Transport Management Act 2003:
     (iii) any provision in the Land Transport Management Act 2003 relating to tolls; or
   (b) a dangerous goods enforcement officer.
@@ -4353,7 +4356,7 @@ An application pending under any provision of the Transport Act 1962 that is rep
 (5) If any person makes an application under section 74 for a part of a blood specimen to which this section applies to be sent to a private analyst,—
   (a) the approved analyst who for the time being has custody of the blood specimen is deemed, for the purposes of section 74(5), to be the approved analyst to whom the blood specimen had been delivered or posted in accordance with subsection (3) or subsection (4) of that section; and
   (b) the approved analyst having such custody may give a certificate of the kind referred to in section 75(6), and no certificate so given is invalid on the ground that it was given by an approved analyst and not by a ministry analyst (within the meaning of the Transport Act 1962).
-(6) Where a certificate of the kind referred to in section 58G(1)(d) of the Transport Act 1962 has been issued for any blood specimen to which this section applies, a certificate under section 75 may, from time to time, after the commencement of this section, be issued in respect of that blood specimen by any approved analyst who has available to him or her the information that is necessary to enable that analyst to fully complete that certificate.
+(6) Where a certificate of the kind referred to in section 58G(1)﻿(d) of the Transport Act 1962 has been issued for any blood specimen to which this section applies, a certificate under section 75 may, from time to time, after the commencement of this section, be issued in respect of that blood specimen by any approved analyst who has available to him or her the information that is necessary to enable that analyst to fully complete that certificate.
 (7) Section 58G(1) of the Transport Act 1962 applies in respect of any certificate issued under the authority of subsection (6) as if the certificate had been signed, before the commencement of this Act, by a ministry analyst (within the meaning of the Transport Act 1962).
 
 ### 232 Savings relating to blood specimens taken under this Act and posted in accordance with Transport Act 1962
@@ -4362,7 +4365,7 @@ An application pending under any provision of the Transport Act 1962 that is rep
   (b) is received by an approved analyst (or person employed by an approved laboratory and approved for the purpose by an approved analyst).
 (2) Sections 74 and 75 apply in all respects to a blood specimen to which this section applies as if—
   (a) that blood specimen had been delivered to an approved analyst (or a person employed by an approved laboratory and approved for the purpose by an approved analyst) in a package properly addressed to the approved analyst; and
-  (b) that approved analyst is deemed to be the approved analyst notified under section 74(4)(b); and
+  (b) that approved analyst is deemed to be the approved analyst notified under section 74(4)﻿(b); and
   (c) any certificate of the kind referred to in section 75(4) that certifies that the blood specimen was sent or caused to be sent by registered post to a ministry analyst (within the meaning of the Transport Act 1962) is deemed to certify that the specimen was sent or caused to be sent to a specified approved analyst in accordance with section 74.
 
 ## Part 17 — Motor vehicle registration and licensing
@@ -4377,7 +4380,7 @@ An application pending under any provision of the Transport Act 1962 that is rep
     (b) the Agency, if an infringement notice is issued by an employee of the Agency or by a person acting on behalf of the Agency:
     (c) a local authority, if an infringement notice is issued by an employee of the local authority or by a person acting on behalf of the local authority:
     (d) the Registrar
-  - **motor vehicle (synthetic greenhouse gas) levy** means the levy payable under section 227(1)(a) of the Climate Change Response Act 2002
+  - **motor vehicle (synthetic greenhouse gas) levy** means the levy payable under section 227(1)﻿(a) of the Climate Change Response Act 2002
   - **ordinary plate** means a registration plate that must be displayed on a motor vehicle unless a personalised plate or a trade plate is issued for display on the motor vehicle
   - **personal information** means the name and address (and, in the case of an individual, the date of birth and driver licence number) and any other information about a person registered or previously registered in respect of a motor vehicle
   - **personalised plate** means a registration plate with a single letter or number or combination of letters, numbers, or letters and numbers allocated under section 259
@@ -4439,12 +4442,12 @@ The purposes of the register are to facilitate—
   (b) the Registrar is satisfied that satisfactory arrangements have been made for payment of that fee.
 (4) The Registrar must, at the request of an individual, supply to the individual—
   (a) the name of any person to whom personal information about the individual has been disclosed under—
-    (i) subsection (2)(c); or
-    (ii) subsection (2)(d), but only if the enactment in question was the Official Information Act 1982 or the Privacy Act 1993; and
+    (i) subsection (2)﻿(c); or
+    (ii) subsection (2)﻿(d), but only if the enactment in question was the Official Information Act 1982 or the Privacy Act 1993; and
   (b) the purpose of any such disclosure.
 
 ### 238 Registrar may confirm or deny match of information
-(1) If an application is made under section 236(1)(b) for confirmation of personal information, the Registrar may confirm or deny that the person specified by the applicant is registered in respect of the motor vehicle specified by the applicant.
+(1) If an application is made under section 236(1)﻿(b) for confirmation of personal information, the Registrar may confirm or deny that the person specified by the applicant is registered in respect of the motor vehicle specified by the applicant.
 (2) To avoid doubt, the Registrar—
   (a) may use associated data provided by the applicant such as (in the case of an individual) the date of birth or driver licence number for the purpose of confirming or denying that a specified person is registered in respect of a specified motor vehicle; but
   (b) may only confirm or deny, as permitted by subsection (1).
@@ -4463,7 +4466,7 @@ The purposes of the register are to facilitate—
   (b) must be released if disclosure is—
     (i) required by another enactment; or
     (ii) to the Police at the request of the Commissioner of Police.
-(5) In considering under subsection (4)(a) whether to approve a supply of information, the Registrar must—
+(5) In considering under subsection (4)﻿(a) whether to approve a supply of information, the Registrar must—
   (a) consult any agency that provided advice in support of the granting of confidential status in respect of the vehicle or vehicles to which the information relates; and
   (b) have regard to the reasons for which that status was granted.
 
@@ -4514,7 +4517,7 @@ The purposes of the register are to facilitate—
   (b) accompanied by—
     (i) the prescribed fee; and
     (ii) an application for a licence for the motor vehicle.
-(1A) An application for registration of a motor vehicle must also be accompanied by the amount of the motor vehicle (synthetic greenhouse gas) levy for the motor vehicle if required under section 227(1)(a) of the Climate Change Response Act 2002.
+(1A) An application for registration of a motor vehicle must also be accompanied by the amount of the motor vehicle (synthetic greenhouse gas) levy for the motor vehicle if required under section 227(1)﻿(a) of the Climate Change Response Act 2002.
 (2) The only persons who may be registered in respect of motor vehicles are—
   (a) a natural person of or over 15 years of age; or
   (b) a body corporate; or
@@ -4713,7 +4716,7 @@ Registration plates issued under the Transport (Vehicle and Driver Registration 
   (c) have been issued in error or are being used (or are likely to be used) unlawfully; or
   (d) have been ordered by the Registrar to be surrendered under subsection (1) or in accordance with any regulations.
 (3) An enforcement officer may seize and destroy any facsimile plates.
-(4) For the purposes of subsections (1)(c) and (3), facsimile plate means any thing that is not a registration plate but is made to appear as if it is a registration plate.
+(4) For the purposes of subsections (1)﻿(c) and (3), facsimile plate means any thing that is not a registration plate but is made to appear as if it is a registration plate.
 
 ### 266 Registrar may prohibit or decline to issue plates
 The Registrar may, in accordance with regulations made under this Part,—
@@ -4805,13 +4808,13 @@ An enforcement authority may, in relation to infringement offences against regul
   (b) provide that if a registered person applies for an exemption from the requirement in section 242(2) later than 60 days after the expiry of the latest licence issued for the relevant motor vehicle, the person is liable to pay the proportion of the annual licence fee for that motor vehicle for the period—
     (i) commencing on the day after the date of expiry of the former licence; and
     (ii) ending on the close of the day immediately before the date when the application for an exemption is lodged:
-  (c) authorise the Registrar to grant an exemption from any requirements or prescribed fees referred to in subsection (1)(b) if the Registrar is satisfied that for any reason the motor vehicle to which the application relates will not be operated on a road while the exemption has effect:
-  (d) provide that exemptions referred to in subsection (1)(b) have effect, in each case, for the period that the Registrar thinks fit, unless any limitations are imposed by the regulations made under this Part:
+  (c) authorise the Registrar to grant an exemption from any requirements or prescribed fees referred to in subsection (1)﻿(b) if the Registrar is satisfied that for any reason the motor vehicle to which the application relates will not be operated on a road while the exemption has effect:
+  (d) provide that exemptions referred to in subsection (1)﻿(b) have effect, in each case, for the period that the Registrar thinks fit, unless any limitations are imposed by the regulations made under this Part:
   (e) provide that exemptions from the requirements in section 242(1) or (2) have no effect while a motor vehicle is being operated on a road, even if the exemption is conferred by or under the regulations made under this Part:
-  (f) provide for the renewal or revocation of exemptions referred to in subsection (1)(b) that are granted by the Registrar:
+  (f) provide for the renewal or revocation of exemptions referred to in subsection (1)﻿(b) that are granted by the Registrar:
   (g) prescribe specific types of numbers, letters, or distinguishing marks for specified classes of motor vehicles, or for motor vehicles operated by persons holding specified office or by persons, governments, or organisations with a specified status, immunity, or privilege:
   (h) prescribe higher fees, if the costs warrant, for the production and issuing of any kind of licence or registration plate.
-(3) Section 168 applies to regulations made under subsection (1)(p) or (q) of this section as it applies to regulations made under section 167(1)(j).
+(3) Section 168 applies to regulations made under subsection (1)﻿(p) or (q) of this section as it applies to regulations made under section 167(1)﻿(j).
 (4) Without limiting the generality of subsection (3), the following are exempt from any fee or charge payable under this Part for the supply of information from the register of motor vehicles:
   (a) the New Zealand Police:
   (b) a statutory entity (within the meaning of the Crown Entities Act 2004):
