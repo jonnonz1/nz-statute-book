@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2013-10-04_
+_Consolidation as at 2015-08-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -244,7 +244,7 @@ This Act binds the Crown.
 (4) The Crown may, without further appropriation than this subsection, incur expenses or capital expenditure in any financial year up to any positive amount calculated under subsection (5) for—
   (a) activities and combinations of activities approved under section 20; and
   (b) expenses resulting from, and repayment of, any borrowing in accordance with section 10(1)﻿(b).
-(5) The amount referred to in subsection (4) is to be calculated in accordance with the following formula:a − b = cwhere—ais land transport revenue from any previous financial years; andbis the expenses and capital expenditure incurred under subsections (1), (2), (3), and (4) for those previous financial years; and cis the calculated amount.
+(5) The amount referred to in subsection (4) is to be calculated in accordance with the following formula:a − b = cwhere—ais land transport revenue from any previous financial years; andbis the expenses and capital expenditure incurred under subsections (1), (2), (3), and (4) for those previous financial years; andcis the calculated amount.
 
 **National land transport account**
 
@@ -816,6 +816,15 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (a) recommend or decline to recommend the making of an order under section 46(1):
   (b) after consulting the public road controlling authority about his or her proposal, recommend the making of an order under section 46(1) that contains provisions different from those requested by the public road controlling authority.
 (5)
+
+### 48A Authority to establish road tolling scheme for Route K
+Despite section 46(1), the Governor-General may, by Order in Council made on the recommendation of the Minister, establish a road tolling scheme for Route K as if it were a new road and sections 46 and 50 to 55 apply with the necessary modifications.
+
+### 48B When tolling power is exercisable for Route K
+(1) The power of a public road controlling authority or toll operator to begin tolling a road or part of it in accordance with an Order in Council made under section 48A is exercisable from the date that the order commences.
+(2) The power of a public road controlling authority or toll operator to continue tolling a road or part of it in accordance with an order made under section 48A is exercisable—
+  (a) during the period specified for the purpose in the order; or
+  (b) if no period is specified in the order, while the toll-setting provisions of the order remain in force.
 
 ### 49 Consultation requirements
 [Repealed]
@@ -2050,7 +2059,7 @@ Other transitional and savings provisions relating to the coming into force of t
 Subject to clause 42, approvals in effect under sections 20 and 21 of the Land Transport Management Act 2003 immediately before 1 August 2008 continue to have effect.
 
 ### 14 Approval of certain activities or combinations of activities
-(1) The new Agency must approve activities and combinations of activities as qualifying for payment from the national land transport fund up to the amount, which is subject to subclause (2), and by the financial year specified in the second column of the following table in order to fulfil the Crown’s commitment described in the first column of that table opposite that amount and financial year:The Crown’s commitmentAmount (which is subject to subclause (2)) and financial year by which amount is to be approved ($)Auckland Land Transport—contribution to implementing Auckland’s regional land transport strategy: the Crown’s commitment was originally $898,000,000 over 2004/05–2014/15, including rail funding130,000,000 by 2012/13Bay of Plenty—to address congestion and improve access and safety through investment in strategic roading, passenger transport, transport demand management, and walking and cycling: the Crown’s commitment was originally $150,000,000 over 2006/07–2014/15135,000,000 by 2015/16Waikato Land Transport—contribution to implementing Waikato’s regional land transport strategy: the Crown’s commitment was originally $215,000,000 over 2007/08–​2016/17, including rail funding188,000,000 by 2017/18Wellington Land Transport—contribution to implementing Wellington's regional land transport strategy: the Crown's commitment was originally $225,000,000 over 2005/06–2014/1591,951,000 by 2015/16Wellington Land Transport (Western Corridor)—contribution to improve safety and access reliability of the Wellington Western Corridor: the Crown's commitment was originally $660,000,000 over 2006/07–2015/16625,152,000 by 2016/17 made up as follows:
+(1) The new Agency must approve activities and combinations of activities as qualifying for payment from the national land transport fund up to the amount, which is subject to subclause (2), and by the financial year specified in the second column of the following table in order to fulfil the Crown’s commitment described in the first column of that table opposite that amount and financial year:The following table is small in size and has 2 columns. Column 1 is headed The Crown’s commitment and column 2 is headed Amount (which is subject to subclause (2)) and financial year by which amount is to be approved.The Crown’s commitmentAmount (which is subject to subclause (2)) and financial year by which amount is to be approved($)Auckland Land Transport—contribution to implementing Auckland’s regional land transport strategy: the Crown’s commitment was originally $898,000,000 over 2004/05–2014/15, including rail funding130,000,000 by 2012/13Bay of Plenty—to address congestion and improve access and safety through investment in strategic roading, passenger transport, transport demand management, and walking and cycling: the Crown’s commitment was originally $150,000,000 over 2006/07–2014/15135,000,000 by 2015/16Waikato Land Transport—contribution to implementing Waikato’s regional land transport strategy: the Crown’s commitment was originally $215,000,000 over 2007/08–​2016/17, including rail funding188,000,000 by 2017/18Wellington Land Transport—contribution to implementing Wellington's regional land transport strategy: the Crown's commitment was originally $225,000,000 over 2005/06–2014/1591,951,000 by 2015/16Wellington Land Transport (Western Corridor)—contribution to improve safety and access reliability of the Wellington Western Corridor: the Crown's commitment was originally $660,000,000 over 2006/07–2015/16625,152,000 by 2016/17 made up as follows:
   (a) up to 405,000,000 to be applied to advance a long-term solution to address access reliability for State Highway 1 between Kapiti and Wellington
   (b) up to 220,152,000 to be applied to passenger transport and roading to address congestion and to improve safety and access reliability of the Wellington Western Corridor.
 (2) The Governor-General may, by Order in Council, increase any or all of the amounts or periods specified in the second column of the table in subclause (1).
