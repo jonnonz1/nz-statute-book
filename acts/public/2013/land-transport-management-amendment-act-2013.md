@@ -1,5 +1,5 @@
 # Land Transport Management Amendment Act 2013
-_Consolidation as at 2013-06-12_
+_Consolidation as at 2015-08-01_
 
 ### 1 Title
 This Act is the Land Transport Management Amendment Act 2013.
@@ -22,13 +22,13 @@ Replace section 3 with:Purpose
 In section 4, replace 49, 59, 65H, 65I, 78, and 100(1)﻿(f) and clause 6 of Schedule 7 with and 100(1)﻿(f).
 
 ### 6 Section 5 amended (Interpretation)
-(1) In section 5(1), replace the definition of activity with:.
+(1) In section 5(1), replace the definition of activity with:
   - **activity** —
     (a) means a land transport output or capital project; and
     (b) includes any combination of activities
-(2) In section 5(1), replace the definition of Auckland Council with:.
+(2) In section 5(1), replace the definition of Auckland Council with:
   - **Auckland Council** means the governing body of the Auckland Council
-(3) In section 5(1), insert in their appropriate alphabetical order:.
+(3) In section 5(1), insert in their appropriate alphabetical order:
   - **bus service** means a service—
     (a) for the carriage of passengers for hire or reward by means of—
       (i) a large passenger service vehicle; or
@@ -73,7 +73,7 @@ In section 4, replace 49, 59, 65H, 65I, 78, and 100(1)﻿(f) and clause 6 of Sch
     (c) that includes all of the public transport services operating to a timetable that applies to the entire route or routes specified for the unit
   - **working day** has the same meaning as in section 5(1) of the Local Government Act 2002
 (4) In section 5(1), definition of national land transport programme, replace section 19 with section 19A.
-(5) In section 5(1), replace the definition of public transport service with:.
+(5) In section 5(1), replace the definition of public transport service with:
   - **public transport service** —
     (a) means, subject to paragraph (b), a service for the carriage of passengers for hire or reward by means of—
       (i) a large passenger service vehicle; or
@@ -85,24 +85,24 @@ In section 4, replace 49, 59, 65H, 65I, 78, and 100(1)﻿(f) and clause 6 of Sch
     (b) in relation to Part 5, does not include—
       (i) an excluded passenger service; or
       (ii) a shuttle service
-(6) In section 5(1), replace the definition of regional council with:.
+(6) In section 5(1), replace the definition of regional council with:
   - **regional council** —
     (a) means a regional council within the meaning of section 5(1) of the Local Government Act 2002; but
     (b) when used in—
       (i) Parts 2 and 4, includes a unitary authority except the Auckland Council:
       (ii) Part 3, includes a unitary authority:
       (iii) Part 5, includes Auckland Transport, a unitary authority except the Auckland Council, and any territorial authority to which the regional council has transferred the functions, powers, and duties of a regional council under that Part
-(7) In section 5(1), replace the definition of regional land transport programme with:.
+(7) In section 5(1), replace the definition of regional land transport programme with:
   - **regional land transport plan** means a regional land transport plan prepared under Part 2, as from time to time amended or varied
-(8) In section 5(1), replace the definition of regional public transport plan with:.
+(8) In section 5(1), replace the definition of regional public transport plan with:
   - **regional public transport plan** means a regional public transport plan adopted under section 119, as from time to time varied or renewed
-(9) In section 5(1), replace the definition of regional transport committee with:.
+(9) In section 5(1), replace the definition of regional transport committee with:
   - **regional transport committee** means—
     (a) a regional transport committee established under section 105; or
     (b) in the case of Auckland,—
       (i) the governing body of Auckland Transport; or
       (ii) a joint regional transport committee that includes Auckland Transport as a member
-(10) In section 5(1), replace the definition of road with:.
+(10) In section 5(1), replace the definition of road with:
   - **road** —
     (a) means a road as defined in section 2(1) of the Government Roading Powers Act 1989; and
     (b) despite the terms of that definition, includes a motorway as defined in that section; and
@@ -110,7 +110,7 @@ In section 4, replace 49, 59, 65H, 65I, 78, and 100(1)﻿(f) and clause 6 of Sch
 (11) In section 5(1), repeal the definitions of affected community, concession agreement, concession road, concessionaire, GPS, national land transport strategy, regional land transport strategy, and registered service.
 (12) In section 5(1), definition of State highway, paragraph (c), replace programmes with plans.
 (13) In section 5(1), definition of State highway, paragraph (c), after highway, insert “; and”.
-(14) In section 5(1), definition of State highway, after paragraph (c), insert:.
+(14) In section 5(1), definition of State highway, after paragraph (c), insert:
   (d) land that becomes a State highway under section 88(2) of the Government Roading Powers Act 1989
 (15) After section 5(5), insert:
   (6) All references to a regional land transport programme in any other Act, or in any regulation, rule, bylaw, order, or other enactment, or in any contract, agreement, deed, instrument, application, licence, notice, declaration, or other document are, unless inconsistent with the context or with the provisions of this Act, to be read as references to a regional land transport plan.
@@ -135,7 +135,7 @@ Replace section 9(2) with:
 
 ### 9 Section 10 amended (National land transport fund)
 (1) In section 10(1)﻿(b), replace cashflow for the national land transport programme with the national land transport programme, including (but not limited to) its cashflow,.
-(2) After section 10(2)﻿(b), insert:.
+(2) After section 10(2)﻿(b), insert:
   (ba) any toll revenue collected in respect of a road tolling scheme if—
     (i) the Minister has approved that toll revenue inflow in writing; and
     (ii) the activities to be funded by that toll revenue inflow are specified, in accordance with section 46(3)﻿(g), in an Order in Council made under section 46(1)﻿(a):
@@ -259,7 +259,7 @@ Replace section 18C with:Reasons for not including activities in Auckland's regi
 
 ### 24 Section 18F amended (Availability of regional land transport programmes)
 (1) In the heading to section 18F, replace programmes with plans.
-(2) After section 18F(1)﻿(a)﻿(iv), insert:.
+(2) After section 18F(1)﻿(a)﻿(iv), insert:
   (v) in the case of Auckland, the Auckland Council; and
 (3) In section 18F(1) and (2), replace programme with plan in each place.
 
@@ -282,7 +282,7 @@ Repeal section 19.
 (3) In section 19A(4), replace subsection (3) with this section.
 
 ### 29 Section 19B amended (Core requirements for national land transport programme)
-(1) Replace section 19B(a)﻿(i) with:.
+(1) Replace section 19B(a)﻿(i) with:
   (i) contributes to the purpose of this Act; and
 (2) Repeal section 19B(a)﻿(ii).
 (3) In section 19B(a)﻿(iii), replace relevant GPS with GPS on land transport.
@@ -301,11 +301,11 @@ Replace section 19E(3) with:
   (3) If the GPS on land transport is amended under section 90(1), the Agency must vary the national land transport programme as soon as practicable if necessary to give effect to the amendment.
 
 ### 33 Section 20 amended (Approval of activities and combinations of activities)
-(1) Replace section 20(2)﻿(c) with:.
+(1) Replace section 20(2)﻿(c) with:
   (c) the activity or combination of activities is—
     (i) consistent with the GPS on land transport; and
     (ii) efficient and effective; and
-(2) Replace section 20(2)﻿(d) with:.
+(2) Replace section 20(2)﻿(d) with:
   (d) the activity or combination of activities contributes to the Agency’s objective; and
 (3) Replace section 20(3) with:
   (3) In approving a proposed activity or combination of activities, the Agency must—
@@ -320,7 +320,7 @@ Replace section 19E(3) with:
 In section 22(3), replace programme with plan.
 
 ### 35 Section 26 amended (Payments exempt from procurement procedure)
-Replace section 26(e) with:.
+Replace section 26(e) with:
   (e) made in respect of any public transport service identified as integral to a public transport network in relation to any 12-month period that follows the withdrawal or proposed withdrawal of the operator from the provision of the service; or
 
 ### 36 Section 35 amended (Needs of transport disadvantaged must be considered)
@@ -338,7 +338,7 @@ Repeal section 40.
 In the subpart 2 heading in Part 2, delete and concession agreements.
 
 ### 40 Section 46 amended (Authority to establish road tolling scheme)
-Replace section 46(3)﻿(g) with:.
+Replace section 46(3)﻿(g) with:
   (g) specify, in relation to a new road, the purposes under subsection (1) for which toll revenue inflow may be used (including reimbursement of the costs related to the new road):
 
 ### 41 Section 48 amended (Procedure for recommending making of order under section 46)
@@ -394,7 +394,7 @@ Repeal section 51(3).
 In section 54(1), delete refuses or.
 
 ### 48 Cross-heading above section 56 replaced
-Replace the cross-heading above section 56 with:Delegation.
+Replace the cross-heading above section 56 with:Delegation
 
 ### 49 Sections 56 to 60 repealed
 Repeal sections 56 to 60.
@@ -419,7 +419,7 @@ In section 62(4), replace on the terms and conditions agreed in the relevant con
 (1) Replace section 63(1) with:
   (1) A road controlling authority may, for the purpose of enabling another person to construct or operate a new road and with the prior written approval of the Minister, grant a lease for a term not longer than 49 years over any land under the control of the road controlling authority.
 (2) Repeal section 63(2).
-(3) Replace section 63(3)﻿(b) with:.
+(3) Replace section 63(3)﻿(b) with:
   (b) an existing road or a new road or a portion of an existing road or a new road; and
 (4) Repeal section 63(4)﻿(a).
 (5) In section 63(4)﻿(b), replace concession with written.
@@ -508,28 +508,28 @@ Replace section 90 with:Amending GPS on land transport
 (1) In the heading to section 91, replace GPS with amended GPS on land transport.
 (2) In section 91, replace a GPS with an amended GPS on land transport.
 (3) In section 91(a) to (c), replace the GPS with the amended GPS on land transport.
-(4) Replace section 91(b)﻿(iv) with:.
+(4) Replace section 91(b)﻿(iv) with:
   (iv) every approved organisation:
   (v) the Auckland Council; and
 
 ### 59 Section 92 amended (Overview)
-(1) Replace section 92(2)﻿(b) with:.
+(1) Replace section 92(2)﻿(b) with:
   (b) section 16, which concerns the form and content of regional land transport plans, and includes procedures for the Agency to propose activities for inclusion in a plan; and
-(2) Replace section 92(2)﻿(e) with:.
+(2) Replace section 92(2)﻿(e) with:
   (e) section 70, which concerns the requirement for the Agency to give effect to the GPS on land transport when exercising its functions under subpart 1 of Part 2; and
 
 ### 60 Section 94 amended (Objective of Agency)
 In section 94, replace an affordable, integrated, safe, responsive, and sustainable land transport system with an effective, efficient, and safe land transport system in the public interest.
 
 ### 61 Section 95 amended (Functions of Agency)
-(1) Replace section 95(1)﻿(a) with:.
+(1) Replace section 95(1)﻿(a) with:
   (a) to contribute to an effective, efficient, and safe land transport system in the public interest:
-(2) Replace section 95(1)﻿(d) with:.
+(2) Replace section 95(1)﻿(d) with:
   (d) to deliver or manage the delivery of its other activities, including (but not limited to) those relating to research, education, and training:
 (3) In section 95(1)﻿(e)﻿(i), delete and regional fuel taxes.
 
 ### 62 Section 96 amended (Operating principles)
-Replace section 96(1)﻿(a) with:.
+Replace section 96(1)﻿(a) with:
   (a) exhibit a sense of social and environmental responsibility; and
 
 ### 63 Section 100 amended (Statement of intent)
@@ -557,7 +557,7 @@ In section 100(1)﻿(a), replace GPS with GPS on land transport.
 
 ### 67 Section 105 amended (Regional transport committees)
 (1) Repeal section 105(2)﻿(d) to (i).
-(2) Replace section 105(3)﻿(a) with:.
+(2) Replace section 105(3)﻿(a) with:
   (a) 4 persons to represent the unitary authority; and
 (3) Repeal section 105(3)﻿(c) to (h).
 (4) Repeal section 105(5) and (8).
