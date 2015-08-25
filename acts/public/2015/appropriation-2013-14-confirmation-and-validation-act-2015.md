@@ -1,5 +1,5 @@
 # Appropriation (2013/14 Confirmation and Validation) Act 2015
-_Consolidation as at 2015-05-06_
+_Consolidation as at 2015-08-25_
 
 ### 1 Title
 This Act is the Appropriation (2013/14 Confirmation and Validation) Act 2015.
@@ -60,7 +60,7 @@ The Public Finance (Transfers Between Outputs) Order 2014 is confirmed.
   (a) the Inland Revenue Department incurred benefits and other unrequited expenses of $2 million for the financial year ending with 30 June 2003; and
   (b) the amount referred to in paragraph (a)—
     (i) was incurred for paid parental leave payments in respect of Vote Revenue without appropriation, or other authority, by or under an Act; and
-    (ii) is in addition to the amount referred to in section 9(2)⁠(a)⁠(i) of the Appropriation (2012/13 Financial Review) Act 2014.
+    (ii) is in addition to the amount referred to in section 9(2)﻿(a)﻿(i) of the Appropriation (2012/13 Financial Review) Act 2014.
 
 ### 11 Validation of unappropriated expenses incurred without authority in respect of Vote Attorney-General
 (1) The incurring of expenses by the Crown Law Office in the circumstances set out in subsection (2) is validated.
