@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2015-09-01_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -215,6 +215,11 @@ This Act is the Sale and Supply of Alcohol Act 2012.
     (b) a day in the period commencing on 20 December in one year and ending with 15 January in the next year.
 (2) Any term or expression that is defined in the Local Electoral Act 2001 and used in any of sections 300 to 396 (which relate to licensing trusts and community trusts), but not defined in this Act, has the same meaning as in the Local Electoral Act 2001.
 
+### 5A Status of examples
+An example provided in this Act of the operation of a provision of an enactment—
+  (a) does not limit the provision; and
+  (b) may extend the operation of the provision.
+
 ### 6 Use of electronic records
 (1) To the extent that this Act makes provision to the effect that any person must or may record, register, or make or keep a record or register of, any information or matter, the person may instead record the information or matter electronically; and this Act must be interpreted accordingly.
 (2) Subsection (1) does not limit or affect any obligation under this Act to display a notice or sign.
@@ -385,7 +390,7 @@ Sections 28 and 30 are subject to subpart 7 of this Part.
   (d) for premises where (in the opinion of the licensing authority or licensing committee concerned) the principal business carried on is the manufacture of alcohol; or
   (e) for premises that (in the opinion of the licensing authority or licensing committee concerned) are a supermarket with a floor area of at least 1 000 m2 (including any separate departments set aside for such foodstuffs as fresh meat, fresh fruit and vegetables, and delicatessen items); or
   (f) for premises that (in the opinion of the licensing authority or licensing committee concerned) are a grocery store.
-(2) Premises for which (by virtue of section 350(b)(i)) an off-licence must not be issued except to a licensing trust can still be premises for which (by virtue of subsection (1)) an off-licence may be issued.
+(2) Premises for which (by virtue of section 350(b)﻿(i)) an off-licence must not be issued except to a licensing trust can still be premises for which (by virtue of subsection (1)) an off-licence may be issued.
 (3) Section 36 overrides subsection (1).
 
 ### 33 Determining whether premises are grocery store
@@ -417,7 +422,7 @@ Sections 28 and 30 are subject to subpart 7 of this Part.
 
 ### 34 Exception for certain areas where some licensed premises not economic
 (1) The licensing authority or licensing committee concerned may direct that an off-licence should be issued for premises not of a kind described in section 32(1) if satisfied—
-  (a) that, in the area where they are situated, the sale of alcohol in premises of a kind described in section 32(1)(b), (d), (e), or (f) would not be economic; and
+  (a) that, in the area where they are situated, the sale of alcohol in premises of a kind described in section 32(1)﻿(b), (d), (e), or (f) would not be economic; and
   (b) that the granting of the licence would not cause any significant increase in alcohol-related harm.
 (2) Subsection (1) overrides section 32(1) but is overridden by section 36.
 
@@ -492,6 +497,7 @@ A special licence must not be issued in circumstances where (in the opinion of t
 (2) The trading hours permitted for any licensed premises are the more restrictive maximum trading hours concerned if—
   (a) the premises are situated in a district where there is not in force a local alcohol policy containing an element that has the effect of stating maximum trading hours for the premises; but
   (b) the licence has been issued subject to a condition or conditions to the effect that some more restrictive maximum trading hours must be observed.
+(3) This section is overridden by sections 45A to 45G (Rugby World Cup 2015 extended trading hours).
 
 ### 45 Permitted trading hours for premises with relevant local alcohol policy
 (1) The trading hours permitted for any licensed premises are the applicable maximum trading hours stated for the premises in the local alcohol policy concerned if—
@@ -500,6 +506,93 @@ A special licence must not be issued in circumstances where (in the opinion of t
 (2) The trading hours permitted for any licensed premises are the more restrictive maximum trading hours concerned if—
   (a) the premises are situated in a district where there is in force a local alcohol policy containing an element that has the effect of stating maximum trading hours for the premises; but
   (b) the licence has been issued subject to a condition or conditions to the effect that some more restrictive maximum trading hours must be observed.
+(3) This section is overridden by sections 45A to 45G (Rugby World Cup 2015 extended trading hours).
+
+**Rugby World Cup 2015 extended trading hours**
+
+### 45A Purpose
+The purpose of sections 45B to 45G is to facilitate extended trading hours (and related adjustments to one-way door restrictions) for some premises—
+  (a) for which an on-licence or a club licence is held; and
+  (b) in which the licensee intends to televise, and televises, on a particular night, a notified game or games.
+
+### 45B Game, and other terms, defined
+(1) In section 45A, this section, and sections 45C to 45G,—
+  - **game** means a game of the Rugby World Cup 2015 tournament (the eighth quadrennial international rugby world championship, to be held in England and Wales, from 18 September 2015 (British Summer Time) to 31 October 2015 (Greenwich Mean Time), game details for which are set out, for public information and reference purposes only, in Schedule 4)
+  - **night** , for licensed premises, means a period all or some of which is outside the permitted trading hours
+  - **televise** , for a game, means to show customers the game via a live audiovisual communication—
+    (a) in any form, on any basis (for example, subscription to a television channel or service, or on-demand), and using any medium or media (for example, satellite television broadcast, or Internet video streaming); and
+    (b) to or for, or to or for a class of, the public.
+(2) Permitted trading hours, and other terms defined in section 5(1), have, in section 45A, this section, and sections 45C to 45G, the same meanings given to them by section 5(1).
+
+### 45C Eligible premises
+(1) Sections 45D to 45F apply to any licensed premises for which an on-licence or a club licence—
+  (a) is held, and not suspended or cancelled, immediately before a night—
+    (i) on or after 19 September 2015 (New Zealand standard time); and
+    (ii) before or on 1 November 2015 (New Zealand daylight time); and
+  (b) has not been varied or suspended under section 280 within 12 months before the date on which the licensee gives notice under this section.
+(2) However, sections 45D to 45F apply to the premises only if the licensee has given the licensing committee concerned and the Police at least 7 days’ written notice—
+  (a) that the licensee intends to televise in the premises on the night the game, all games, or any 1 or more stated games, on the night; and
+  (b) of the details of the noise management plan that is, or the other arrangements for managing noise levels that are, appropriate to the locality, and that the licensee is to have in place during every proposed extension under section 45D to the permitted trading hours.
+(3) The details under subsection (2)﻿(b) must state how the licensee will comply with the noise level management conditions in section 45E(1)﻿(c).
+(4) The notification to the Police must be sent to the constable in charge of the police station nearest to the premises for which the licence is held.
+(5) Sections 45D to 45F cease to apply to the premises if—
+  (a) an application for an order under section 280 suspending or cancelling the licence is made on the grounds, expressly stated in the application, that the premises have clearly been conducted in breach, without reasonable excuse, of any of sections 45D to 45F; and
+  (b) a copy of the application is sent to, and received by, the licensee.
+
+### 45D Trading hours extended
+(1) The licensee has the extension provided in this section to the permitted trading hours, but only if the primary or sole purpose of the premises being open on the night is to allow customers to watch the televised game or games notified by the licensee under section 45C.
+(2) The premises can open 1 hour before the start of each game to be televised.
+(3) However, if the first or only game to be televised is to start no more than 2 hours after the end of the last period of permitted trading hours for the premises, the premises can stay open after that period, and until that game starts.
+(4) The premises can be open during each game televised.
+(5) The premises are required to close for the sale of alcohol 30 minutes after the end of each game televised (unless that 30-minute period ends after the start of the 1-hour period under subsection (2) for the next game to be televised).
+(6) Sections 255 and 256 make it an offence for a person to whom section 255(1) applies to be found in (and for the licensee or a manager of the premises to allow the person to be on) any part of the premises, if they are on-licence premises used principally or exclusively for the sale, supply, or consumption of alcohol, at any time that—
+  (a) is not a time when a special licence applies to the premises; and
+  (b) is not between 6 am and the time when the next period of permitted trading hours for the premises begins; and
+  (c) is—
+    (i) more than 30 minutes after the premises are required to close for the sale of alcohol; or
+    (ii) a time when the premises are required to be closed for the sale of alcohol.
+Example 1—single game, not more than 2 hours after trading hoursThe licensee notifies the Samoa v Japan game on 4 October at 2.30 NZDT.The last period of permitted trading hours for the premises ends at 0.30 NZDT.The premises can open 1 hour before the game (at 1.30 NZDT).However, as the game is to start no more than 2 hours after 0.30 NZDT, the premises can stay open after 0.30 NZDT until the game starts at or about 2.30 NZDT.The premises can be open during the game televised, which ends at 4.15 NZDT.The premises are required to be closed for the sale of alcohol at 4.45 NZDT.The premises are on-licence premises used mainly or only for the sale, supply, or consumption of alcohol, so no customer can be found in, or allowed to be on, the premises after 5.15 NZDT and before 6.00 NZDT.
+Example 2—successive gamesThe licensee notifies the first, second, and third of these 3 games on 12 October:the Argentina v Namibia game to start at 0.00 NZDT:the Italy v Romania game to start at 2.30 NZDT:the France v Ireland game to start at 4.45 NZDT.The last period of permitted trading hours for the premises ends at 0.30 NZDT.The premises can be open from 0.30 NZDT (the end of the last period of permitted trading hours) to the end of the third game, because—The third game ends at 6.30 NZDT.The premises are required to be closed for the sale of alcohol at 7.00 NZDT.The premises are on-licence premises used mainly or only for the sale, supply, or consumption of alcohol, so customers can be found in, or allowed on, the premises, after 6.00 NZDT and until the next period of permitted trading hours for the premises begins.
+(a) the gaps between the games are both less than 1 hour; and
+(b) the premises can open 1 hour before the start of each game to be televised.
+Example 3—non-successive gamesThe licensee notifies the first and third, but not the second, of these 3 games on 12 October:the Argentina v Namibia game to start at 0.00 NZDT:the Italy v Romania game to start at 2.30 NZDT:the France v Ireland game to start at 4.45 NZDT.The last period of permitted trading hours for the premises ends at 0.30 NZDT.The premises can be open from 0.30 NZDT (the end of the last period of permitted trading hours) to the end of the first game, at 1.45 NZDT.The premises are required to be closed for the sale of alcohol at 2.15 NZDT.The premises are on-licence premises used mainly or only for the sale, supply, or consumption of alcohol, so no customers can be found in, or allowed on, the premises after 2.45 NZDT.The premises can open at 3.45 NZDT (1 hour before the start of the third game).The third game ends at 6.30 NZDT.The premises are required to be closed for the sale of alcohol at 7.00 NZDT.The premises are on-licence premises used mainly or only for the sale, supply, or consumption of alcohol, so customers can be found in, or allowed on, the premises, after 6.00 NZDT and until the next period of permitted trading hours for the premises begins.
+
+### 45E Effect of extensions (on one-way door restrictions, etc)
+(1) While the premises are open under an extension under section 45D,—
+  (a) the licensee has, for the purposes of section 247(1), the authority of this Act to do any of the following things:
+    (i) sell or supply alcohol on the premises for consumption there; or
+    (ii) let people consume alcohol on the premises; and
+  (b) sections 46 to 63 and 259(1) require the licensee to comply with all applicable requirements and restrictions imposed by or under this Act, and with every (and, in particular, with the most restrictive relevant applicable) condition subject to which the licence has been issued or renewed, except so far as those requirements, restrictions, or conditions are overridden under subsection (4)﻿(a); and
+  (c) the licensee must comply with the following conditions:
+    (i) outside areas cannot be used for any purpose (despite section 12 of the Smoke-free Environments Act 1990):
+    (ii) outside audio equipment (for example, loudspeakers, amplifiers, or audio relay equipment) cannot be used:
+    (iii) bottles, or other rubbish, cannot be disposed of, or left for collection.
+(2) An extension under section 45D—
+  (a) must be treated as if it were part of the permitted trading hours (for example, under sections 46(1) and 259(1)﻿(a)) on a day on which alcohol may be sold and supplied; and
+  (b) is not (for example, under sections 255(1)﻿(c)﻿(i) and (ii) and 256), while it operates, a time when the premises are required to close, or to be closed, for the sale of alcohol.
+(3) Any one-way door restriction (whether imposed on the licence, or in a relevant local alcohol policy) applicable to the premises during the permitted trading hours does not operate—
+  (a) within 1 hour before an extension starts under section 45D(3); or
+  (b) during an extension under section 45D to the permitted trading hours; or
+  (c) within 1 hour and 30 minutes after the premises are required under section 45D(5) to close for the sale of alcohol.
+(4) Section 45D and this section—
+  (a) override any contrary provisions of this Act, of a relevant local alcohol policy, or of a condition of the licence; and
+  (b) do not affect closure under section 265 or 266 of the premises, or the operation of subpart 9 of Part 2 (Other enforcement provisions) in respect of the premises.
+(5) A person’s use of land must be treated as not contravening section 9 of the Resource Management Act 1991 if—
+  (a) it complies with section 45D and the rest of this section; and
+  (b) it would comply with section 9 of the Resource Management Act 1991 if it occurred only during permitted trading hours.
+
+### 45F Display of information about extensions
+(1) If sections 45D and 45E apply, under section 45C, to licensed premises, the licensee must display promptly a general statement about how sections 45D and 45E may be, and are to be, used in respect of the premises.
+(2) The statement must be displayed in the way section 57(1) or (2) requires display of a statement of all conditions subject to which the licence is issued.
+
+### 45G Special licences unaffected, and not limiting, but do not apply if notice given
+(1) Sections 45A to 45F and this section do not limit or affect—
+  (a) an application for a special licence issued in respect of an event related to a game or games; or
+  (b) the operation of a special licence of that kind.
+(2) Section 45C(1) applies to premises even if a special licence is also held for the premises, and has been issued in respect of an event related to all or any games that the licensee intends to televise in those premises in reliance instead on sections 45D and 45E.
+(3) However, if the holder of the special licence gives notice under section 45C(2) that the licensee intends to televise 1 or more games in reliance on sections 45D and 45E,—
+  (a) sections 45D to 45F apply to the premises; and
+  (b) for the period of the extension provided by section 45D, the special licence does not apply to the premises.
 
 **Restrictions relating to trading hours**
 
@@ -542,6 +635,7 @@ The holder of an off-licence must ensure that—
 ### 50 One-way door restrictions in local alcohol policies to be complied with
 (1) The holder of an on-licence or club licence must ensure that every applicable one-way door restriction in any relevant local alcohol policy is complied with.
 (2) The fact that elements of a one-way door restriction imposed on the licence are less restrictive than the equivalent elements of an applicable one-way door restriction in a relevant local alcohol policy does not limit or affect the holder's obligation to comply with subsection (1).
+(3) This section is overridden by sections 45A to 45G (Rugby World Cup 2015 extended trading hours).
 
 ### 51 Non-alcoholic drinks to be available
 The holder of an on-licence or club licence must ensure that, at all times when the premises are open for the sale and supply of alcohol, there is available for sale and consumption on the premises, at reasonable prices, a reasonable range of non-alcoholic drinks.
@@ -773,7 +867,7 @@ Two or more territorial authorities may adopt a single local alcohol policy for 
   (f) the overall health indicators of the district's residents; and
   (g) the nature and severity of the alcohol-related problems arising in the district.
 (3) For the purposes of subsection (2), a district's residents include people who have holiday homes there.
-(4) The authority must not produce a draft policy without having consulted the Police, inspectors, and Medical Officers of Health, each of whom must, if asked by the authority to do so, make reasonable efforts to give the authority any information they hold relating to any of the matters stated in subsection (2)(c) to (g).
+(4) The authority must not produce a draft policy without having consulted the Police, inspectors, and Medical Officers of Health, each of whom must, if asked by the authority to do so, make reasonable efforts to give the authority any information they hold relating to any of the matters stated in subsection (2)﻿(c) to (g).
 
 ### 79 Territorial authority must produce provisional policy by consulting on draft policy using special consultative procedure
 (1) If, after producing a draft policy under section 78, a territorial authority continues to wish to have a local alcohol policy, it must produce a provisional policy by using the special consultative procedure to consult on the draft policy.
@@ -824,14 +918,14 @@ The licensing authority must deal with every appeal under section 81 by way of p
   (c) abandon the provisional policy.
 
 ### 86 Effect of resubmission of provisional policy to licensing authority
-(1) The licensing authority must deal with the resubmission of a provisional local alcohol policy under section 84(1)(b) or 85(2)(b) as if it were an appeal against every new or amended element that has replaced an earlier element appealed against; and sections 81 to 85 apply accordingly.
+(1) The licensing authority must deal with the resubmission of a provisional local alcohol policy under section 84(1)﻿(b) or 85(2)﻿(b) as if it were an appeal against every new or amended element that has replaced an earlier element appealed against; and sections 81 to 85 apply accordingly.
 (2) The licensing authority may deal with all or any part of the resubmission in private.
 (3) Subsection (2) overrides subsection (1) and section 82.
 
 ### 87 When local alcohol policy adopted
 (1) If no appeal against any element of a provisional local alcohol policy is made earlier, the policy is adopted 30 days after its public notification.
 (2) If appeals against elements of a provisional local alcohol policy have been made but they have all been dismissed by the licensing authority, the policy is adopted 30 days after the last of them is dismissed.
-(3) If a provisional local alcohol policy has been resubmitted to the licensing authority under section 84(1)(b) or 85(2)(b) and the licensing authority decides that it is satisfied that every element it asked the territorial authority to reconsider (other than an element in respect of which the High Court has overturned the licensing authority's finding that it is unreasonable in the light of the object of this Act) has been either deleted or replaced by a new or amended element that is not unreasonable in the light of the object of this Act, the resubmitted policy is adopted when the licensing authority makes its decision.
+(3) If a provisional local alcohol policy has been resubmitted to the licensing authority under section 84(1)﻿(b) or 85(2)﻿(b) and the licensing authority decides that it is satisfied that every element it asked the territorial authority to reconsider (other than an element in respect of which the High Court has overturned the licensing authority's finding that it is unreasonable in the light of the object of this Act) has been either deleted or replaced by a new or amended element that is not unreasonable in the light of the object of this Act, the resubmitted policy is adopted when the licensing authority makes its decision.
 (4) If the High Court has overturned every finding of the licensing authority that an element of a provisional local alcohol policy is unreasonable in the light of the object of this Act, the policy is adopted when the High Court makes its decision.
 (5) A provisional local alcohol policy ceases to be provisional when it is adopted.
 (6) Even after it has been adopted, a local alcohol policy or amendment of a local alcohol policy has no effect until it is brought into force.
@@ -852,8 +946,8 @@ The licensing authority must deal with every appeal under section 81 by way of p
   (a) must give public notice of its adoption; and
   (b) may then bring it into force on a day stated by resolution.
 (2) If subsection (6) applies to a local alcohol policy (or an amendment of a local alcohol policy),—
-  (a) the element or elements (or modification or modifications) by virtue of which that subsection applies must not be brought into effect under subsection (1)(b) on a day earlier than the day 3 months after the day on which public notice of its adoption was given; but
-  (b) the rest of the policy or amendment may be brought into effect under subsection (1)(b) on any day stated by resolution.
+  (a) the element or elements (or modification or modifications) by virtue of which that subsection applies must not be brought into effect under subsection (1)﻿(b) on a day earlier than the day 3 months after the day on which public notice of its adoption was given; but
+  (b) the rest of the policy or amendment may be brought into effect under subsection (1)﻿(b) on any day stated by resolution.
 (3) Subsection (2) overrides subsection (1).
 (4) Regulations prescribing the manner in which public notice of the adoption of a local alcohol policy must be given may require publication of the whole of a local alcohol policy adopted (or, in the case of an amendment of a local alcohol policy, the whole of the policy as amended).
 (5) Promptly after adopting a local alcohol policy or an amendment of a local alcohol policy to which subsection (6) applies, the territorial authority must take all reasonably practicable steps to give licensees affected by an element by virtue of which the subsection applies written notice of the adoption of the policy or amendment, and a brief written description of the effect of the element.
@@ -979,7 +1073,7 @@ An applicant for a licence must,—
 (2) The authority or committee must not take into account any prejudicial effect that the issue of the licence may have on the business conducted pursuant to any other licence.
 
 ### 106 Considering effects of issue or renewal of licence on amenity and good order of locality
-(1) In forming for the purposes of section 105(1)(h) an opinion on whether the amenity and good order of a locality would be likely to be reduced, by more than a minor extent, by the effects of the issue of a licence, the licensing authority or a licensing committee must have regard to—
+(1) In forming for the purposes of section 105(1)﻿(h) an opinion on whether the amenity and good order of a locality would be likely to be reduced, by more than a minor extent, by the effects of the issue of a licence, the licensing authority or a licensing committee must have regard to—
   (a) the following matters (as they relate to the locality):
     (i) current, and possible future, noise levels:
     (ii) current, and possible future, levels of nuisance and vandalism:
@@ -987,7 +1081,7 @@ An applicant for a licence must,—
   (b) the extent to which the following purposes are compatible:
     (i) the purposes for which land near the premises concerned is used:
     (ii) the purposes for which those premises will be used if the licence is issued.
-(2) In forming for the purposes of section 131(1)(b) an opinion on whether the amenity and good order of a locality would be likely to be increased, by more than a minor extent, by the effects of a refusal to renew a licence, the licensing authority or a licensing committee must have regard to the following matters (as they relate to the locality):
+(2) In forming for the purposes of section 131(1)﻿(b) an opinion on whether the amenity and good order of a locality would be likely to be increased, by more than a minor extent, by the effects of a refusal to renew a licence, the licensing authority or a licensing committee must have regard to the following matters (as they relate to the locality):
   (a) current, and possible future, noise levels:
   (b) current, and possible future, levels of nuisance and vandalism.
 
@@ -1015,8 +1109,8 @@ The licensing authority or licensing committee concerned may issue a licence sub
   (a) stating the days on which and the hours during which alcohol may be sold and supplied; and
   (b) if there are in force regulations under this Act empowering the authority or committee to determine different levels of licensing fee prescribed by the regulations for premises of different kinds, stating the fees payable for the licensing of the premises concerned; and
   (c) stating (directly or by description) a place or places on the premises at which drinking water is to be freely available to customers while the premises are open for business.
-(3) In deciding the conditions under subsection (2)(a) subject to which a licence is to be issued, the licensing authority or licensing committee concerned may have regard to the site of the premises in relation to neighbouring land use.
-(4) Subsection (1)(c) is subject to the Human Rights Act 1993.
+(3) In deciding the conditions under subsection (2)﻿(a) subject to which a licence is to be issued, the licensing authority or licensing committee concerned may have regard to the site of the premises in relation to neighbouring land use.
+(4) Subsection (1)﻿(c) is subject to the Human Rights Act 1993.
 
 ### 111 Imposition of one-way door restrictions by condition
 (1) A condition imposing one-way door restriction on a licence may be created simply by issuing or renewing the licence subject to a condition—
@@ -1072,7 +1166,7 @@ The licensing authority or licensing committee concerned may issue a licence sub
     (i) a sign (consistent with other general signage in the supermarket or grocery store concerned) giving directions to, or describing the location of, an area where alcohol is available for purchase:
     (ii) a newspaper, magazine, or catalogue containing a promotion of or advertisement for alcohol; and
   (b) described means described under section 113; and
-  (c) designated means designated under section 113(3)(b).
+  (c) designated means designated under section 113(3)﻿(b).
 
 ### 115 Application of single-area conditions can be delayed for some renewals
 (1) In this section, new single-area condition means a single-area condition—
@@ -1095,8 +1189,8 @@ The licensing authority or licensing committee concerned may issue a licence sub
   (a) stating the days on which and the hours during which alcohol may be sold or delivered; and
   (b) if there are in force regulations under this Act empowering the authority or committee to determine for premises of different kinds different levels of licensing fee prescribed by the regulations, stating the fees payable for the licensing of the premises concerned; and
   (c) stating (directly or by description) a place or places on the premises at which drinking water is to be freely available to customers, while alcohol is being supplied free as a sample on the premises.
-(3) In deciding the conditions under subsection (2)(a) subject to which a licence is to be issued, the licensing authority or licensing committee concerned may have regard to the site of the premises in relation to neighbouring land use.
-(4) Subsection (1)(b) is subject to the Human Rights Act 1993.
+(3) In deciding the conditions under subsection (2)﻿(a) subject to which a licence is to be issued, the licensing authority or licensing committee concerned may have regard to the site of the premises in relation to neighbouring land use.
+(4) Subsection (1)﻿(b) is subject to the Human Rights Act 1993.
 
 ### 117 Other discretionary conditions
 (1) The licensing authority or licensing committee concerned may issue any licence subject to any reasonable conditions not inconsistent with this Act.
@@ -1334,8 +1428,8 @@ An applicant for a special licence—
   (b) require the applicant to provide the committee with a certificate by the territorial authority that the proposed use of the premises meets the requirements of the Resource Management Act 1991 and of the building code:
   (c) require the applicant to liaise with the Police and the territorial authority on planning for the event.
 (2) In deciding whether to issue a special licence, the licensing committee concerned may have regard to the following matters (in addition to the matters stated in section 142(1)):
-  (a) whether, and how well, the applicant has complied with any requirement under subsection (1)(a):
-  (b) whether, and how well, the applicant has complied with any requirement under subsection (1)(c), and whether the Police and the territorial authority are satisfied with any liaison that has taken place.
+  (a) whether, and how well, the applicant has complied with any requirement under subsection (1)﻿(a):
+  (b) whether, and how well, the applicant has complied with any requirement under subsection (1)﻿(c), and whether the Police and the territorial authority are satisfied with any liaison that has taken place.
 
 ### 144 Licensing committee may refuse special licence of own motion
 The licensing committee concerned may, having regard to any matter stated in section 142, refuse to issue a special licence, even if no objection was filed against the application for it under section 140 and no report was filed under section 141 opposing that application.
@@ -1370,8 +1464,8 @@ The licensing committee concerned may issue a special licence subject to particu
 (3) The licensing committee concerned must ensure that every special licence it issues is issued subject to conditions—
   (a) stating the days on which and the hours during which alcohol may be sold or delivered; and
   (b) stating (directly or by description) a place or places on the premises at which drinking water is to be freely available to customers while the event (or any of the events) described in it is taking place.
-(4) In deciding the conditions under subsection (3)(a) subject to which a licence is to be issued, the licensing committee concerned may have regard to the site of the premises in relation to neighbouring land use.
-(5) Subsection (1)(b) is subject to the Human Rights Act 1993.
+(4) In deciding the conditions under subsection (3)﻿(a) subject to which a licence is to be issued, the licensing committee concerned may have regard to the site of the premises in relation to neighbouring land use.
+(5) Subsection (1)﻿(b) is subject to the Human Rights Act 1993.
 
 ### 148 Different conditions may apply in certain cases
 (1) A special licence may be issued subject to conditions applying differently to different parts of the premises concerned.
@@ -1849,7 +1943,7 @@ Where any person has neglected or omitted to do any act or thing in the precise 
   (a) the applicant; and
   (b) each objector who appeared at the hearing; and
   (c) any other objector who requests a copy; and
-  (d) each person referred to in section 202(4)(c).
+  (d) each person referred to in section 202(4)﻿(c).
 (4) The licensing authority must take all reasonably practicable steps to ensure that copies of its decisions are publicly available.
 (5) Every territorial authority must take all reasonably practicable steps to ensure that copies of all the decisions of its licensing committees are publicly available.
 (6) A decision takes effect on the date stated in the decision (or, if no date is stated, on the date the decision is given).
@@ -2022,7 +2116,7 @@ In considering an application for the renewal of a manager's certificate, the li
     (i) the premises, where the licence is in force for any premises; or
     (ii) the office of the licensing committee with which the application was filed, where the licence is in force for a conveyance.
 (3) It is not necessary to comply with subsection (1) in respect of the appointment of a temporary manager or an acting manager for any period not exceeding 48 consecutive hours.
-(4) The licensing committee may, within 5 working days after receiving a notice of the appointment of any temporary manager or acting manager, notify the licensee that it does not approve the appointment, in which case it must give a copy of the notice to the constable referred to in subsection (2)(b).
+(4) The licensing committee may, within 5 working days after receiving a notice of the appointment of any temporary manager or acting manager, notify the licensee that it does not approve the appointment, in which case it must give a copy of the notice to the constable referred to in subsection (2)﻿(b).
 (5) On receiving notice under subsection (4), the licensee must terminate the appointment with effect from a date not later than 5 working days after the date of the notice.
 
 ### 232 Licensees to keep record of managers, acting managers, and temporary managers
@@ -2077,7 +2171,7 @@ In considering an application for the renewal of a manager's certificate, the li
     (ii) by a promotion or advertisement within licensed premises that cannot be seen (or, in the case of an audible promotion or advertisement, heard) from outside the premises); or
   (e) offers (otherwise than by means of an offer made only on licensed premises, and made only in relation to the buying of alcohol on those premises) any goods or services, or the opportunity to obtain any goods or services, or the opportunity to win a prize, on the condition that alcohol is bought; or
   (f) promotes or advertises alcohol in a manner aimed at, or that has, or is likely to have, special appeal to, minors.
-(2) Subsection (1)(e) does not apply to a loyalty programme that provides rewards or discounts, unless the rewards or discounts apply only or primarily to alcohol.
+(2) Subsection (1)﻿(e) does not apply to a loyalty programme that provides rewards or discounts, unless the rewards or discounts apply only or primarily to alcohol.
 (3) A person who commits an offence against this section is liable on conviction,—
   (a) in the case of a licensee, to either or both of the following:
     (i) a fine of not more than $10,000:
@@ -2128,7 +2222,7 @@ Section 239(1) and (2) do not apply to the supply of alcohol on licensed premise
   (b) believes on reasonable grounds that the minor is not a minor; or
   (c) believes on reasonable grounds that subsection (7) applies to the minor, and supplies the alcohol in a responsible manner; or
   (d) believes on reasonable grounds that he or she has the express consent of the parent or guardian of the minor, and supplies the alcohol in a responsible manner.
-(4) When considering for the purposes of subsection (3)(a), (c), or (d) whether alcohol was supplied to any person in a responsible manner, the court may, in relation to the occasion on which the alcohol was supplied, take into account the following:
+(4) When considering for the purposes of subsection (3)﻿(a), (c), or (d) whether alcohol was supplied to any person in a responsible manner, the court may, in relation to the occasion on which the alcohol was supplied, take into account the following:
   (a) the steps taken by the supplier to supervise the consumption of alcohol:
   (b) whether food was provided with the alcohol:
   (c) whether a choice of low-alcohol or non-alcoholic beverages, or both, was offered:
@@ -2300,7 +2394,7 @@ For the purposes of this Act, a person is a minor's guardian only if he or she i
 ### 259 Failure to comply with certain requirements and restrictions imposed by or under this Act
 (1) A person commits an offence who fails or refuses to comply with—
   (a) any of sections 46 to 63, 150(2), and 231(1); or
-  (b) any requirement or prohibition imposed by regulations of a kind described in section 398(2) or 401 made under section 397(1)(f).
+  (b) any requirement or prohibition imposed by regulations of a kind described in section 398(2) or 401 made under section 397(1)﻿(f).
 (2) A person who commits an offence against subsection (1) is liable on conviction to a fine of not more than $5,000.
 
 **Infringement offences**
@@ -2310,10 +2404,10 @@ In sections 261 to 264,—
   - **infringement fee** , in relation to an infringement offence, means an amount not exceeding $1,000, prescribed for the purposes of this section in regulations made under this Act
   - **infringement offence** means an offence that is—
     (a) an offence against any of sections 243, 244, 245, 250, 251, 254, 257, and 259; or
-    (b) an offence against section 258(1)(b) relating to a breach of section 214(3)
+    (b) an offence against section 258(1)﻿(b) relating to a breach of section 214(3)
   - **specified infringement offence** means an offence that is—
     (a) an offence against any of sections 250, 254, and 259; or
-    (b) an offence against section 258(1)(b) relating to a breach of section 214(3).
+    (b) an offence against section 258(1)﻿(b) relating to a breach of section 214(3).
 
 ### 261 Commission of infringement offences
 (1) A person who is alleged to have committed an infringement offence (other than an offence against section 259) may either—
@@ -2392,8 +2486,8 @@ The Governor-General may, by Order in Council made on the advice of the Minister
   (a) refuses or fails to admit to any licensed premises any constable or inspector who demands entry under this section; or
   (b) delays unreasonably in admitting to any licensed premises any constable or inspector who demands entry under this section.
 (5) A person commits an offence and is liable on conviction to a fine of not more than $2,000 who, being the licensee or a manager of any licensed premises, without reasonable excuse, refuses or fails—
-  (a) to produce the licence or any document when required to do so under subsection (3)(a); or
-  (b) to provide any assistance or information when required to do so under subsection (3)(b).
+  (a) to produce the licence or any document when required to do so under subsection (3)﻿(a); or
+  (b) to provide any assistance or information when required to do so under subsection (3)﻿(b).
 
 ### 268 Power to seize samples of alcohol
 (1) This section applies where a constable or inspector has entered and is conducting an inspection of any licensed premises under section 267.
@@ -2516,7 +2610,7 @@ A District Court presided over by 1 or more Community Magistrates has jurisdicti
   (d) give at least 10 working days' notice of the date, time, and place of the hearing to the Police and the licensee.
 
 ### 282 Hearing for suspension or cancellation under section 281
-(1) A certificate of the conviction included in the report of the Police under section 281(3)(a) is conclusive evidence that the licensee or manager or person committed the offence referred to in the certificate.
+(1) A certificate of the conviction included in the report of the Police under section 281(3)﻿(a) is conclusive evidence that the licensee or manager or person committed the offence referred to in the certificate.
 (2) At the conclusion of the hearing, the licensing authority may make an order under subsection (3) if—
   (a) it is satisfied of either or both of the following matters:
     (i) that the licensed premises concerned have been conducted in breach of the provisions of this Act or of any conditions of the licence or otherwise in an improper manner:
@@ -2622,7 +2716,7 @@ A licence for which the annual fee prescribed by regulations made under this Act
   (b) 2 negative holdings have been made in relation to the licensee in respect of incidents occurring during the period of 3 years ending immediately before the day on which the incident giving rise to the application referred to in paragraph (a) occurred; and
   (c) the application and the 2 previous holdings all relate to the same premises.
 (2) The licensing authority may cancel the licensee's licence if—
-  (a) the licensing authority makes a negative holding that is the subject of the application referred to in subsection (1)(a) in relation to the licensee; and
+  (a) the licensing authority makes a negative holding that is the subject of the application referred to in subsection (1)﻿(a) in relation to the licensee; and
   (b) 2 other negative holdings have been made in relation to the licensee in respect of incidents occurring during the period of 3 years ending immediately before the day on which the incident giving rise to the negative holding referred to in paragraph (a) occurred; and
   (c) all the negative holdings relate to the same premises.
 (3) A cancellation of a licence takes effect on the date specified in the order, which date must not be more than 3 months after the date of the third holding.
@@ -2834,7 +2928,7 @@ A licensing trust may pay the president and each member of the trust fees, trave
 (1) A person is disqualified from election or appointment as a member of a licensing trust if he or she—
   (a) is not a residential elector of the trust district or, in the case of the election or appointment of any member for a ward of a divided trust district, is not a residential elector entitled to vote at elections of members for that ward:
   (b) has (directly or by virtue of his or her relationship with another person) such an involvement or appearance of involvement with the alcohol industry that he or she could not perform the duties of a member of a licensing trust without actual bias or the appearance of bias.
-(2) If the effect of the alteration of the boundaries of a trust district or ward on the recommendation of the Local Government Commission under section 304 or 337 is to disqualify a person under subsection (1)(a), he or she is to be treated as if he or she were not disqualified under that subsection for the purposes of the 2 next following triennial general elections of members, unless he or she changes his or her residential address during that period.
+(2) If the effect of the alteration of the boundaries of a trust district or ward on the recommendation of the Local Government Commission under section 304 or 337 is to disqualify a person under subsection (1)﻿(a), he or she is to be treated as if he or she were not disqualified under that subsection for the purposes of the 2 next following triennial general elections of members, unless he or she changes his or her residential address during that period.
 
 ### 323 Disqualification from continuing to be member of licensing trust
 (1) A member of a licensing trust is disqualified from continuing to be a member of the trust if he or she would be disqualified under section 322 from election or appointment as a member.
@@ -2949,7 +3043,7 @@ A licensing trust has the power to enter into a compromise or arrangement with i
   (g) alter the number of members for a ward:
   (h) abolish all the wards of the trust district.
 (2) The boundaries of any ward must coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes (meshblocks).
-(3) In relation to a variation under subsection (1)(d)(ii) or (1)(e), the Minister must give the requisite advice only on the recommendation of the Local Government Commission (the Commission) made in accordance with subsection (4).
+(3) In relation to a variation under subsection (1)﻿(d)﻿(ii) or (1)﻿(e), the Minister must give the requisite advice only on the recommendation of the Local Government Commission (the Commission) made in accordance with subsection (4).
 (4) The Commission may from time to time review the boundaries of wards or proposed wards of a licensing trust and, after consulting with affected persons (including the members of each trust, any affected licensees, and the trust's electoral officer), may recommend,—
   (a) in the case of existing wards, their alteration to coincide with meshblocks; or
   (b) in the case of proposed wards, new boundaries to coincide with meshblocks.
@@ -3019,7 +3113,7 @@ Two or more licensing trusts may be amalgamated into 1 new trust in accordance w
 
 ### 346 Voluntary administration and liquidation under Companies Act 1993
 (1) Parts 15A, 16, and 17 of the Companies Act 1993 apply, with any necessary modifications, to a licensing trust as if it were a company incorporated under that Act.
-(2) However, section 241(2)(a) and (b) of the Companies Act 1993 does not apply to the liquidation of a licensing trust, and instead a liquidator may be appointed by a resolution of the members.
+(2) However, section 241(2)﻿(a) and (b) of the Companies Act 1993 does not apply to the liquidation of a licensing trust, and instead a liquidator may be appointed by a resolution of the members.
 
 ### 347 Distribution of assets
 (1) Any net surplus (whether or not in money) of a licensing trust in liquidation must be distributed to the territorial authority in whose district the trust is situated.
@@ -3057,9 +3151,9 @@ Sections 349 and 350 apply to each of the district and suburban licensing trusts
     (v) any trustee or trustees of a trust in respect of which the licensing trust has the power to appoint any trustee; or
     (vi) any other person, body corporate, or trustee, if the licensing committee or the licensing authority is satisfied that the application by that person, body corporate, or trustees is made pursuant to an arrangement designed to enable the trust to evade the prohibitions set out in subparagraphs (i) to (v):
   (d) the licensing trust must not spend or distribute any of its net profits under section 307 outside the trust district.
-(2) Every off-licence issued under subsection (1)(b)(ia) must be issued subject to a condition that alcohol must not be sold or delivered on or from the premises for which the licence is held unless it is alcohol of a kind that, immediately before the commencement of the Sale of Liquor Act 1989, could have been sold or delivered under a wine reseller's licence granted under the Sale of Liquor Act 1962.
+(2) Every off-licence issued under subsection (1)﻿(b)﻿(ia) must be issued subject to a condition that alcohol must not be sold or delivered on or from the premises for which the licence is held unless it is alcohol of a kind that, immediately before the commencement of the Sale of Liquor Act 1989, could have been sold or delivered under a wine reseller's licence granted under the Sale of Liquor Act 1962.
 (3) A licence must, if renewed, be renewed subject to a condition that alcohol must not be sold or delivered on or from the premises for which the licence is held unless it is alcohol of a kind that, immediately before the commencement of the Sale of Liquor Act 1989, could have been sold or delivered under a wine reseller's licence granted under the Sale of Liquor Act 1962, if it is—
-  (a) an off-licence issued under subsection (1)(b)(ia) of this section or section 216(b)(iii) of the Sale of Liquor Act 1989; or
+  (a) an off-licence issued under subsection (1)﻿(b)﻿(ia) of this section or section 216(b)﻿(iii) of the Sale of Liquor Act 1989; or
   (b) a licence to which subsection (4) applies.
 (4) This subsection applies to a licence if—
   (a) it was granted as a wine reseller's licence under the Sale of Liquor Act 1962; or
@@ -3121,7 +3215,7 @@ Sections 349 and 350 apply to each of the district and suburban licensing trusts
   (c) all money payable to or by the licensing trust is payable to or by the community trust:
   (d) all liabilities, contracts (including employment contracts), and engagements, and all rights and authorities, of the licensing trust are the liabilities, contracts, engagements, rights, and authorities of the community trust:
   (e) all proceedings by or against the licensing trust may be carried on or prosecuted by or against the community trust.
-(4) To avoid doubt, in the case of a licensing trust to which sections 349 and 350 apply, subsection (3)(d) does not apply to the exclusive right referred to in section 349(2).
+(4) To avoid doubt, in the case of a licensing trust to which sections 349 and 350 apply, subsection (3)﻿(d) does not apply to the exclusive right referred to in section 349(2).
 (5) Nothing authorised or effected under this section—
   (a) places the licensing trust or the community trust in breach of, or default under, any contract, or in breach of trust, or in breach of confidence, or otherwise makes it guilty of a civil wrong; or
   (b) gives rise to a right for a person to—
@@ -3361,7 +3455,7 @@ Two or more community trusts may be amalgamated into 1 new trust in accordance w
 
 ### 391 Voluntary administration and liquidation under Companies Act 1993
 (1) Parts 15A, 16, and 17 of the Companies Act 1993 apply, with any necessary modifications, to a community trust as if it were a company incorporated under that Act.
-(2) However, section 241(2)(a) and (b) of the Companies Act 1993 do not apply to the liquidation of a community trust, and instead a liquidator may be appointed by a resolution of the trustees.
+(2) However, section 241(2)﻿(a) and (b) of the Companies Act 1993 do not apply to the liquidation of a community trust, and instead a liquidator may be appointed by a resolution of the trustees.
 
 ### 392 Distribution of assets
 (1) Any net surplus (whether or not in money) of a community trust in liquidation must be distributed to each territorial authority whose district overlaps wholly or partly the trust region.
@@ -3399,13 +3493,13 @@ For the purposes of Parts 1 to 4 of the Local Government Official Information an
   (d) for the purpose only of any investigations to be undertaken in relation to the possibility of introducing minimum pricing schemes for alcohol, requiring persons who sell alcohol to give the chief executive information relating to the quantities of alcohol they have sold over any period and the prices at which they have sold it:
   (e) prescribing the form in which information required to be given by regulations under paragraph (d) must be given:
   (f) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
-(2) Regulations under subsection (1)(d)—
+(2) Regulations under subsection (1)﻿(d)—
   (a) may apply differently to different sales, depending on whether they are made by people in their capacity as manufacturer, wholesaler, holder of an off-licence, or holder of an on-licence or club licence:
   (b) may apply differently to different kinds of alcohol:
   (c) may—
     (i) create offences for failing or refusing to comply with their requirements; and
     (ii) prescribe penalties (being fines not exceeding $20,000) for committing the offences.
-(3) Regulations made under subsection (1)(f) for the purposes of the definition in section 5(1) of public notice may prescribe different requirements for different matters, by reference to either or both of the following:
+(3) Regulations made under subsection (1)﻿(f) for the purposes of the definition in section 5(1) of public notice may prescribe different requirements for different matters, by reference to either or both of the following:
   (a) the kind of licence to which the notice relates:
   (b) the kind of person required to give the notice.
 
@@ -3443,7 +3537,7 @@ Before recommending the making of regulations regulating or prohibiting the sale
   (e) the lack of any ingredient or ingredients:
   (f) the capacity of the container in which it is sold or supplied:
   (g) the state in which it is sold or supplied.
-(4) Subsection (3)(f) does not prevent the description of a kind of product not (or not necessarily) sold or supplied in containers.
+(4) Subsection (3)﻿(f) does not prevent the description of a kind of product not (or not necessarily) sold or supplied in containers.
 (5) Before recommending the making of regulations of a kind described in subsection (1), the Minister must, to the extent that is reasonably practicable having regard to the circumstances of the particular case, consult the persons the Minister has reason to believe are representative of interests likely to be substantially affected by the regulations.
 (6) This subsection applies to regulations—
   (a) declaring any product containing ethanol to be a banned alcohol product; or
@@ -3461,7 +3555,7 @@ Regulations made under section 397 may require licensees to display at or near p
   (b) the potential harmful effects of consuming alcohol (on people in general, people of particular kinds, people in particular situations, or 2 or all of them).
 
 ### 402 Content of fees regulations
-(1) Regulations under section 397(1)(b) or (c)—
+(1) Regulations under section 397(1)﻿(b) or (c)—
   (a) may do anything reasonably necessary to ensure that, so far as is practicable, the total costs of the licensing authority are recovered out of the fees paid to it under this Act:
   (b) may do anything reasonably necessary to ensure that, so far as is practicable, the following are recovered out of the fees paid to territorial authorities under this Act:
     (i) the total costs to territorial authorities of the performance by their district licensing committees of their functions:
@@ -3481,16 +3575,16 @@ Regulations made under section 397 may require licensees to display at or near p
   (h) may provide for the full or partial waiver of fees (or fees of particular kinds) in the case of particular financial hardship of the persons required to pay them:
   (i) may prescribe the manner in which fees are to be collected or paid (either generally, or in particular circumstances).
 (2) Subparagraphs (i) to (vi) of paragraph (c) of subsection (1) do not limit or affect the generality of that paragraph.
-(3) Subsection (1) does not limit or affect the generality of section 397(1)(b) or (c).
+(3) Subsection (1) does not limit or affect the generality of section 397(1)﻿(b) or (c).
 
 ### 403 Consultation on proposed fees regulations
-Before recommending the making of regulations under section 397(1)(b) or (c), the Minister must, to the extent that is reasonably practicable having regard to the circumstances of the particular case, consult the persons the Minister has reason to believe are representative of interests likely to be substantially affected by the regulations.
+Before recommending the making of regulations under section 397(1)﻿(b) or (c), the Minister must, to the extent that is reasonably practicable having regard to the circumstances of the particular case, consult the persons the Minister has reason to believe are representative of interests likely to be substantially affected by the regulations.
 
 ### 404 Fees to be reviewed every 5 years
 (1) Not later than 5 years after the commencement of this section, and not later than 5 years after the most recent review, the chief executive must—
-  (a) undertake and complete a review of all regulations made under section 397(1)(b) or (c) in force when the review begins; and
+  (a) undertake and complete a review of all regulations made under section 397(1)﻿(b) or (c) in force when the review begins; and
   (b) report to the Minister on whether regulations amending or replacing them should be made.
-(2) Not later than 3 months after receiving a report under subsection (1)(b), the Minister must consider whether to recommend to the Governor-General the making of regulations amending or replacing the regulations to which it relates.
+(2) Not later than 3 months after receiving a report under subsection (1)﻿(b), the Minister must consider whether to recommend to the Governor-General the making of regulations amending or replacing the regulations to which it relates.
 
 **Fee-setting by territorial authorities**
 
@@ -3608,8 +3702,8 @@ Before recommending the making of regulations under section 397(1)(b) or (c), th
 (2) Section 272(3) is amended by omitting imprisonment— from paragraph (c) and substituting imprisonment; or and by adding the following paragraph:
   (d) an infringement offence against the Sale and Supply of Alcohol Act 2012 or the Summary Offences Act 1981, or section 239A of the Local Government Act 2002.
 (3) Section 272(5) is amended by—
-  (a) inserting or (d) after (3)(c); and
-  (b) inserting or an infringement offence referred to in subsection (3)(d) after imprisonment.
+  (a) inserting or (d) after (3)﻿(c); and
+  (b) inserting or an infringement offence referred to in subsection (3)﻿(d) after imprisonment.
 
 **Consequential amendments and repeals**
 
@@ -3632,10 +3726,10 @@ Before recommending the making of regulations under section 397(1)(b) or (c), th
   (b) in the case of alcohol bought for consumption on the airport premises, the passenger is of or over the age stated in section 5 of the Sale and Supply of Alcohol Act 2012.
 (2) Unless alcohol sold under the authority of subsection (1) has been entered by the passenger concerned for home consumption in accordance with the Customs and Excise Act 1996, a person must not deliver it by or on behalf of the buyer to any other person within New Zealand, or consume it within New Zealand.
 (3) The Governor-General may, from time to time, by Order in Council, make regulations for either or both of the following purposes:
-  (a) prescribing the circumstances and conditions relating to the control of the sale of alcohol at international airports to passengers on aircraft departing from or arriving in New Zealand who are of or over the age referred to in subsection (1)(a) or (b) (as the case requires):
+  (a) prescribing the circumstances and conditions relating to the control of the sale of alcohol at international airports to passengers on aircraft departing from or arriving in New Zealand who are of or over the age referred to in subsection (1)﻿(a) or (b) (as the case requires):
   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $1,000, that may, on conviction, be imposed in respect of any such offence.
 (4) A person commits an offence who—
-  (a) sells alcohol at any international airport to any passenger on an aircraft departing from or arriving in New Zealand who is under the age referred to in subsection (1)(a) or (b) (as the case requires); or
+  (a) sells alcohol at any international airport to any passenger on an aircraft departing from or arriving in New Zealand who is under the age referred to in subsection (1)﻿(a) or (b) (as the case requires); or
   (b) fails to comply with subsection (2).
 (5) A person who commits an offence against subsection (4) is liable on conviction to a fine not exceeding $1,000.
 (6) Nothing in the Sale and Supply of Alcohol Act 2012 applies to the sale of alcohol under the authority of this section or of any regulations made under it.
@@ -3647,3 +3741,65 @@ Despite the Sale and Supply of Alcohol Act 2012, an on-licence granted under tha
 | --- | --- | --- | --- |
 
 ## Schedule 3 — Consequential amendments to regulations
+
+## Schedule 4 — Rugby World Cup 2015 extended trading hours: game details
+
+| NotesNZST means New Zealand Standard Time, and NZDT means New Zealand Daylight Time.BST means British Summer Time, and GMT means Greenwich Mean Time.Pool games involving New Zealand, and playoff games, are in bold. |
+| --- |
+
+| New Zealand time | UK time | Game (and venue) |
+| --- | --- | --- |
+| Pool games |  |  |
+| Sat 19 Sep, 7:00 NZST | Fri 18 Sep, 20:00 BST | England v Fiji (Twickenham) |
+| Sat 19 Sep, 23:00 NZST | Sat 19 Sep, 12:00 BST | Tonga v Georgia (Gloucester) |
+| Sun 20 Sep, 1:30 NZST | Sat 19 Sep, 14:30 BST | Ireland v Canada (Cardiff) |
+| Sun 20 Sep, 3:45 NZST | Sat 19 Sep, 16:45 BST | South Africa v Japan (Brighton) |
+| Sun 20 Sep, 7:00 NZST | Sat 19 Sep, 20:00 BST | France v Italy (Twickenham) |
+| Sun 20 Sep, 23:00 NZST | Sun 20 Sep, 12:00 BST | Samoa v USA (Brighton) |
+| Mon 21 Sep, 1:30 NZST | Sun 20 Sep, 14:30 BST | Wales v Uruguay (Cardiff) |
+| Mon 21 Sep, 3:45 NZST | Sun 20 Sep, 16:45 BST | New Zealand v Argentina (Wembley) |
+| Thu 24 Sep, 1:30 NZST | Wed 23 Sep, 14:30 BST | Scotland v Japan (Gloucester) |
+| Thu 24 Sep, 3:45 NZST | Wed 23 Sep, 16:45 BST | Australia v Fiji (Cardiff) |
+| Thu 24 Sep, 7:00 NZST | Wed 23 Sep, 20:00 BST | France v Romania (Olympic Stadium) |
+| Fri 25 Sep, 7:00 NZST | Thu 24 Sep, 20:00 BST | New Zealand v Namibia (Olympic Stadium) |
+| Sat 26 Sep, 3:45 NZST | Fri 25 Sep, 16:45 BST | Argentina v Georgia (Gloucester) |
+| Sun 27 Sep, 1:30 NZST | Sat 26 Sep, 14:30 BST | Italy v Canada (Leeds) |
+| (New Zealand transitions from NZST to NZDT on Sun 27 Sep at 2:00 NZST) |  |  |
+| Sun 27 Sep, 4:45 NZDT | Sat 26 Sep, 16:45 BST | South Africa v Samoa (Birmingham) |
+| Sun 27 Sep, 8:00 NZDT | Sat 26 Sep, 20:00 BST | England v Wales (Twickenham) |
+| Mon 28 Sep, 0:00 NZDT | Sun 27 Sep, 12:00 BST | Australia v Uruguay (Villa Park) |
+| Mon 28 Sep, 2:30 NZDT | Sun 27 Sep, 14:30 BST | Scotland v USA (Leeds) |
+| Mon 28 Sep, 4:45 NZDT | Sun 27 Sep, 16:45 BST | Ireland v Romania (Wembley Stadium) |
+| Wed 30 Sep, 4:45 NZDT | Tue 29 Sep, 16:45 BST | Tonga v Namibia (Exeter) |
+| Fri 2 Oct, 4:45 NZDT | Thu 1 Oct, 16:45 BST | Wales v Fiji (Cardiff) |
+| Fri 2 Oct, 8:00 NZDT | Thu 1 Oct, 20:00 BST | France v Canada (Milton Keynes) |
+| Sat 3 Oct, 8:00 NZDT | Fri 2 Oct, 20:00 BST | New Zealand v Georgia (Cardiff) |
+| Sun 4 Oct, 2:30 NZDT | Sat 3 Oct, 14:30 BST | Samoa v Japan (Milton Keynes) |
+| Sun 4 Oct, 4:45 NZDT | Sat 3 Oct, 16:45 BST | South Africa v Scotland (Newcastle) |
+| Sun 4 Oct, 8:00 NZDT | Sat 3 Oct, 20:00 BST | England v Australia (Twickenham) |
+| Mon 5 Oct, 2:30 NZDT | Sun 4 Oct, 14:30 BST | Argentina v Tonga (Leicester) |
+| Mon 5 Oct, 4:45 NZDT | Sun 4 Oct, 16:45 BST | Ireland v Italy (Olympic Stadium) |
+| Wed 7 Oct, 4:45 NZDT | Tue 6 Oct, 16:45 BST | Canada v Romania (Leicester) |
+| Wed 7 Oct, 8:00 NZDT | Tue 6 Oct, 20:00 BST | Fiji v Uruguay (Milton Keynes) |
+| Thu 8 Oct, 4:45 NZDT | Wed 7 Oct, 16:45 BST | South Africa v USA (Olympic Stadium) |
+| Thu 8 Oct, 8:00 NZDT | Wed 7 Oct, 20:00 BST | Namibia v Georgia (Exeter) |
+| Sat 10 Oct, 8:00 NZDT | Fri 9 Oct, 20:00 BST | New Zealand v Tonga (Newcastle) |
+| Sun 11 Oct, 2:30 NZDT | Sat 10 Oct, 14:30 BST | Samoa v Scotland (Newcastle) |
+| Sun 11 Oct, 4:45 NZDT | Sat 10 Oct, 16:45 BST | Australia v Wales (Twickenham) |
+| Sun 11 Oct, 8:00 NZDT | Sat 10 Oct, 20:00 BST | England v Uruguay (Manchester) |
+| Mon 12 Oct, 0:00 NZDT | Sun 11 Oct, 12:00 BST | Argentina v Namibia (Leicester) |
+| Mon 12 Oct, 2:30 NZDT | Sun 11 Oct, 14:30 BST | Italy v Romania (Exeter) |
+| Mon 12 Oct, 4:45 NZDT | Sun 11 Oct, 16:45 BST | France v Ireland (Cardiff) |
+| Mon 12 Oct, 8:00 NZDT | Sun 11 Oct, 20:00 BST | USA v Japan (Gloucester) |
+| Quarter-finals |  |  |
+| Sun 18 Oct, 4:00 NZDT | Sat 17 Oct, 16:00 BST | Winner B v Second A (Twickenham) |
+| Sun 18 Oct, 8:00 NZDT | Sat 17 Oct, 20:00 BST | Winner C v Second D (Cardiff) |
+| Mon 19 Oct, 1:00 NZDT | Sun 18 Oct, 13:00 BST | Winner D v Second C (Cardiff) |
+| Mon 19 Oct, 4:00 NZDT | Sun 18 Oct, 16:00 BST | Winner A v Second B (Twickenham) |
+| Semi-finals |  |  |
+| Sun 25 Oct, 4:00 NZDT | Sat 24 Oct, 16:00 BST | Winner C/Second D v Winner B/Second A (Twickenham) |
+| (The UK transitions from BST to GMT on Sun 25 Oct at 2:00 GMT) |  |  |
+| Mon 26 Oct, 5:00 NZDT | Sun 25 Oct, 16:00 GMT | Winner D /Second C v Winner A/Second B (Twickenham) |
+| Finals |  |  |
+| Sat 31 Oct, 9:00 NZDT | Fri 30 Oct, 20:00 GMT | Bronze medal match (Olympic Stadium) |
+| Sun 1 Nov, 5:00 NZDT | Sat 31 Oct, 16:00 GMT | Final (Twickenham) |
