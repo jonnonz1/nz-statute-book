@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2014-12-12_
+_Consolidation as at 2015-09-02_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -46,6 +46,7 @@ The purpose of this Act is to reform the law relating to the release from detent
   - **prison** means a prison established or deemed to be established under the Corrections Act 2004
   - **release conditions** means the standard release conditions and any special conditions imposed by the Board or the sentencing court and that apply to an offender released from detention
   - **release date** means, in relation to a determinate sentence of imprisonment, the date on which the offender who is subject to the sentence ceases to be liable to be recalled to continue serving that sentence in a prison (see sections 86 and 87)
+  - **relevant activity** is an activity or a programme for the rehabilitation or reintegration of offenders that is specified by the Board under section 21A
   - **residential restrictions** means the special conditions described in section 33
   - **secure facility** means a secure facility within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **sentence expiry date** means the date on which the offender who is subject to the sentence has served its full term and therefore ceases to be subject to it (see sections 82 and 83)
@@ -197,8 +198,8 @@ The chairperson or a panel convenor may, on the application of the person who ap
     (i) in the usual way; or
     (ii) on the basis of documents only, without the presence or submission of any person who would otherwise have the right to be present or make a submission.
 (2) Subsection (1) overrides every provision of this Act to the contrary.
-(3) The taking of a decision in accordance with subsection (1) is not an unattended hearing; and the provisions of this Act relating to unattended hearings (or to decisions on whether a hearing will be unattended or attended) do not apply to it.
-(4) If the notice applies to only stated parts of New Zealand, subsections (1) to (3) apply within those parts only.
+(3) If the notice applies to only stated parts of New Zealand, subsections (1) and (2) apply within those parts only.
+(4)
 
 **Conditions**
 
@@ -215,9 +216,10 @@ The chairperson or a panel convenor may, on the application of the person who ap
   (i) the offender must take part in a rehabilitative and reintegrative needs assessment if and when directed to do so by a probation officer.
 (2)
 (3) In this section, probation area means an area designated by the chief executive for the administration of release conditions, community-based sentences, sentences of home detention (including post-detention conditions), or orders.
+(4) For the purposes of any provision of this Act relating to the imposition of standard release conditions, those conditions must be treated as if they were imposed by the Board.
 
 ### 15 Special conditions
-(1) If the Board imposes standard release conditions on an offender, the Board may (subject to subsections (2) and (4)) impose any 1 or more special conditions on the offender.
+(1) The Board may (subject to subsections (2) and (4)) impose any 1 or more special conditions on an offender.
 (2) A special condition must not be imposed unless it is designed to—
   (a) reduce the risk of reoffending by the offender; or
   (b) facilitate or promote the rehabilitation and reintegration of the offender; or
@@ -276,9 +278,9 @@ For the purposes of section 15, a programme means any of the following:
 
 ### 18 Conditions applying to release at statutory release date
 (1) An offender who is released under section 17 at the release date of a short-term sentence is, on release, subject to any release conditions imposed by the court on that sentence unless subsection (3) or section 19 applies.
-(2) If an offender is released under section 17 at the release date of a long-term sentence, the Board—
-  (a) must impose the standard release conditions for a period of 6 months from the offender's statutory release date; and
-  (b) may impose any special conditions for a period of up to 6 months from the offender's statutory release date.
+(2) If an offender is released under section 17 at the release date of a long-term sentence,—
+  (a) the offender is subject to the standard release conditions for a period of 6 months from the offender's statutory release date; and
+  (b) the Board may impose any special conditions for a period of up to 6 months from the offender's statutory release date.
 (2AA) Despite subsection (2)﻿(a), if the Board imposes any special conditions on the offender that the Board considers incompatible with all or any of the standard release conditions, the Board may suspend the incompatible standard release conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
 (2A) If an offender in respect of whom an extended supervision order is made is released at his or her statutory release date, or released early under section 52, the Board may impose special conditions, the duration of which are determined by section 107L(2A).
 (3) If an offender who is subject to a long-term sentence is, while not on parole or compassionate release, sentenced within the year preceding his or her statutory release date to a short-term sentence whose release date is after that statutory release date, then, if the offender is released at the release date of the short-term sentence, that release date must be treated as if it were the release date of a long-term sentence.
@@ -291,9 +293,11 @@ For the purposes of section 15, a programme means any of the following:
 (2) If subsection (1) applies except that the offender is subject to more than 1 short-term sentence, the offender must be released on the release date of the short-term sentence (including any short-term notional single sentence) that has the latest release date.
 (3) To avoid doubt, subsection (2) does not apply in respect of any short-term sentences that are imposed cumulatively if the resulting notional single sentence is a long-term sentence.
 (4) If an offender is released in accordance with subsection (1) or subsection (2),—
-  (a) the offender is released on parole under section 28 and the Board must impose release conditions under section 29 accordingly; but
+  (a) the offender is released on parole and the Board may—
+    (i) specify a period for which the standard conditions are in force; and
+    (ii) impose special conditions under section 29AA (if any); but
   (b) the actual date of release is determined under sections 51(2) and 52 as if the offender were being released at his or her statutory release date.
-(5) If for any reason an offender is released in accordance with subsection (1) or subsection (2) before the Board has imposed release conditions as required by subsection (4)﻿(a), then,—
+(5) If for any reason an offender is released in accordance with subsection (1) or subsection (2) before the Board has made a determination required under subsection (4)﻿(a), then,—
   (a) if the offender was, at the start date of the sentence (or earliest applicable sentence), subject to any release conditions, the Board is deemed to have reimposed those release conditions for the remainder of the period for which they were originally imposed; and
   (b) if the offender was not, at the start date of the sentence (or earliest applicable sentence), subject to release conditions, the offender is not subject to release conditions when he or she is released under subsection (1) or subsection (2).
 
@@ -319,11 +323,18 @@ For the purposes of section 15, a programme means any of the following:
 
 ### 21 Consideration for parole of offenders detained in prison
 (1) The Board must, as soon as practicable after the parole eligibility date of an offender who is detained in a prison, consider the offender for release on parole.
-(2) The Board must consider for parole every offender who is detained in a prison at least once in every 12 months after the offender's last parole hearing unless, when the offender is due to be considered,—
+(2) The Board must consider for parole every offender who is detained in a prison at least once in every 2 years after the offender's last parole hearing unless, when the offender is due to be considered,—
   (a) the offender has a new parole eligibility date that is more than 12 months after his or her last parole hearing (in which case subsection (1) applies); or
   (b) the offender is subject to a postponement order; or
   (c) the offender is detained following an application for a recall order, or under an interim or final recall order.
 (3) If subsection (2)﻿(c) (but not subsection (2)﻿(a)) applies to an offender, the Board must consider the offender for parole within 12 months of any final recall order that is, or is subsequently, made.
+
+### 21A Board must specify date by which offender must be further considered for parole
+When the Board declines to release an offender on parole, the Board in its decision—
+  (a) must specify a date (the specified date) by which the offender must be further considered for parole; and
+  (b) where the date specified in paragraph (a) is more than 12 months after the date of the current hearing, may specify the relevant activities (if any) that the Board expects will be completed by the specified date; and
+  (c) may specify that the next parole hearing may be brought forward if the manager of the prison in which the offender is detained considers that all of the relevant activities have been completed earlier than the specified date; and
+  (d) may give notice to the offender that the Board may consider making a postponement order at the next parole hearing.
 
 ### 22 Date of hearings
 For the sake of administrative efficiency, the Board may consider an offender for release on parole at any time within the month preceding the date on which the offender is due to be considered by the Board; but in no case may an offender who is considered early under this section be released on parole before his or her parole eligibility date.
@@ -352,23 +363,39 @@ An offender who is unlawfully at large on the date on which he or she is due to 
 
 ### 26 Other times when Board may consider offenders for parole
 (1) The Board may, at any time after an offender's parole eligibility date, consider the offender for release on parole at a time other than when the offender is due to be considered for parole, and may make an order under section 28(1) directing his or her release on parole.
-(2) An offender may, at any time, apply to the Board to exercise its discretion under subsection (1) to consider the offender for parole.
+(2) An offender may apply to the Board at any time for consideration for parole and the chairperson or a panel convenor may refer an offender for consideration for parole under subsection (1).
+(3) If the manager of the prison in which the offender is detained considers that all of the relevant activities specified under section 21A(b) have been completed earlier than the date specified under section 21A(a) or considers that there has been a significant change in the circumstances of an offender that are relevant to release of the offender on parole,—
+  (a) the manager must notify the Board as soon as practicable; and
+  (b) the chairperson or a panel convenor may refer the offender for consideration for parole under subsection (1).
 
-### 27 Postponement of consideration for parole
-(1) If the Board is satisfied that, in the absence of a significant change in the offender's circumstances, an offender will not be suitable for release at the time when he or she is next due to be considered for parole, the Board may make a postponement order in relation to the offender.
-(2) If the Board makes a postponement order, it must specify the date by which the offender must be further considered for parole, which,—
-  (a) in the case of an offender serving an indeterminate sentence, must be within 3 years of the offender's most recent parole hearing; or
-  (b) in the case of an offender serving any other long-term sentence, must be within 2 years of the offender's most recent parole hearing.
-(3) Despite being subject to a postponement order, an offender may at any time apply to the Board requesting consideration for parole on the grounds that there has been a significant change in his or her circumstances.
-(4) A postponement order may be made at—
-  (a) an attended parole hearing; or
-  (b) a special attended hearing convened for the purpose of considering whether to make a postponement order.
-(5) The Board may not make a postponement order in relation to an offender unless it has first—
-  (a) advised the offender, at least 14 days before the hearing, that it is to consider making a postponement order; and
-  (b) given the offender an opportunity to make written submissions to the Board about whether the order should be made; and
-  (c) held a hearing at which the offender (in person or through counsel) has been given an opportunity to make oral submissions.
+### 27 Board may make postponement order
+(1) The Board may make an order postponing consideration of an offender for parole if—
+  (a) the offender is serving—
+    (i) an indeterminate sentence; or
+    (ii) a determinate sentence of 10 years or more; and
+  (b) the Board is satisfied that, in the absence of a significant change in the offender's circumstances, the offender will not be suitable for release for the duration of the postponement order.
+(2) The postponement order must specify a date (the specified date) by which the next parole hearing must be held.
+(3) The specified date must be within 5 years of the offender's most recent parole hearing.
+(4) In making a postponement order, the Board may specify the relevant activities (if any) that the Board expects will be completed by the specified date.
+(5) If the manager of the prison in which the offender is detained considers that all of the relevant activities specified under subsection (4) have been completed earlier than the specified date or considers that there has been a significant change in the circumstances of an offender subject to a postponement order that are relevant to release of the offender on parole,—
+  (a) the manager must notify the Board as soon as practicable; and
+  (b) the chairperson or a panel convenor may refer the offender for consideration for parole at a date earlier than the specified date.
+(6) An offender subject to a postponement order may at any time apply to the Board requesting consideration for parole on the grounds that there has been a significant change in his or her circumstances.
 
-### 27A Consideration of offenders for parole during epidemic
+### 27A Procedure for making postponement order
+(1) The Board may make a postponement order if the Board—
+  (a) has given the offender notice that complies with subsection (3); and
+  (b) has given the offender an opportunity to make written submissions to the Board about whether the postponement order should be made; and
+  (c) at a hearing, has given the offender (in person or through counsel) an opportunity to make oral submissions.
+(2) For the purposes of subsection (1)﻿(c), the hearing may be—
+  (a) a parole hearing, at which the Board also considers the offender for parole; or
+  (b) a special hearing convened for the purpose of considering whether to make a postponement order.
+(3) Notice by the Board of its intention to consider making a postponement order—
+  (a) must be in writing; and
+  (b) must be given to the offender at least 14 days before the hearing referred to in subsection (1)﻿(c); and
+  (c) may be given to the offender in the Board's decision from a prior parole hearing.
+
+### 27B Consideration of offenders for parole during epidemic
 (1) This subsection applies to a requirement in any of sections 21 to 27 for the Board to consider an offender for parole that (but for this section) would have the effect of requiring the Board to consider an offender for parole—
   (a) while an epidemic management notice is in force; or
   (b) after an epidemic management notice has expired, but while (in the Board's opinion) there remains as an effect of the outbreak of the disease referred to in the notice a backlog of offenders who, by virtue of one of those requirements, should have been considered for parole before the offender.
@@ -396,17 +423,22 @@ An offender who is unlawfully at large on the date on which he or she is due to 
 (4) Despite subsection (3)﻿(b), the Board may, in exceptional circumstances, specify a date for release that is a Thursday or a Friday.
 (5) The Board may revoke or amend any direction under this section at any time before the offender is released on parole, but, if it does so, the Board must hold another parole hearing as soon as practicable.
 
-### 29 Release conditions applying to parole
-(1) In releasing an offender on parole, the Board—
-  (a) must impose the standard release conditions on the offender; and
-  (b) may impose any special conditions on that offender that the Board specifies.
-(2) Despite subsection (1)﻿(a), if the Board imposes any special conditions on the offender that the Board considers incompatible with all or any of the standard release conditions, the Board may suspend the incompatible standard release conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
-(3) The standard release conditions imposed on an offender are in force—
-  (a) in the case of an offender who is subject to 1 or more determinate sentences, for the period that the Board specifies; and
+### 29 Standard release conditions
+(1) The standard release conditions apply to every offender who is released on parole.
+(2) In the case of an offender who is subject to 1 or more determinate sentences, the Board may specify a period for which the standard release conditions are in force.
+(3) However, the period specified under subsection (2) may not be less than 6 months and may not extend for more than 6 months after the offender's statutory release date.
+(4) The standard release conditions that apply under subsection (1) are in force,—
+  (a) in the case of an offender who is subject to 1 or more determinate sentences,—
+    (i) if the Board specifies a period under subsection (2), for the specified period:
+    (ii) if the Board imposes any special conditions on the offender under section 29AA(1), for the period that the special conditions are in force:
+    (iii) if the Board does not specify a period, and does not impose any special conditions, for 6 months:
   (b) in the case of an offender who is subject to an indeterminate sentence, for the rest of the offender's life, unless the release conditions are varied or discharged by the Board under section 58.
-(4) The period that the Board specifies under subsection (3)﻿(a) may not be less than 6 months and may not extend for more than 6 months after the offender's statutory release date.
-(5) If the Board imposes special conditions on an offender, the special conditions are in force for the period that the Board specifies for the conditions.
-(6) Special conditions imposed on an offender who is subject to 1 or more determinate sentences may not be in force for a longer period than the offender's standard release conditions.
+
+### 29AA Special release conditions
+(1) In releasing an offender on parole, the Board may impose any special conditions on that offender that the Board specifies.
+(2) Special conditions imposed under subsection (1) are in force for the period that the Board specifies.
+(3) However, special conditions imposed on an offender who is subject to 1 or more determinate sentences may not be in force for a longer period than the offender's standard release conditions are in force.
+(4) Despite section 29(1), if the Board imposes any special condition on the offender that the Board considers incompatible with all or any of the standard release conditions imposed under that section, the Board may suspend the incompatible release conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
 
 ### 29A Release conditions for person to whom extended supervision order applies
 The Board, when directing the release on parole of an offender in respect of whom an extended supervision order is made must—
@@ -421,7 +453,7 @@ The Board, when directing the release on parole of an offender in respect of who
 (3) Each power specified in subsection (2) may be exercised on 1 or more occasions during the specified period, but may not be exercised more frequently than at 3-monthly intervals.
 (4) A hearing that an offender is required to attend under subsection (2)﻿(b)—
   (a) is a special condition imposed on the offender; and
-  (b) is conducted in accordance with any directions given by the Board, including, without limitation, that the offender attend otherwise than in person (for instance, by telephone or video link); and
+  (b) is conducted in accordance with any directions given by the Board; and
   (c) is not subject to sections 43 to 50B; but
   (d) is subject to section 13 (which is about the information to be given to, or withheld from, the offender).
 (5) At a hearing that an offender is required to attend under subsection (2)﻿(b), the Board may, if it considers it appropriate to do so, take 1 or more of the following actions:
@@ -559,7 +591,7 @@ Sections 43 to 50 apply to every hearing of the Board concerning an offender who
   (b) is to be considered for parole.
   (c)
 
-### 43 Start of process
+### 43 Preparation for hearings
 (1) When an offender is due to be released at his or her statutory release date, or to be considered by the Board for parole, the Department of Corrections must provide the Board with—
   (a) copies of all relevant information relating to the offender's current and previous convictions, including (for example) sentencing notes and pre-sentence reports; and
   (b) if the offender has engaged in any restorative justice processes, any reports arising from those processes; and
@@ -579,9 +611,7 @@ Sections 43 to 50 apply to every hearing of the Board concerning an offender who
 (2A) When, under subsection (2)﻿(b), the Board gives notice to a victim that a hearing is pending, the Board must also prepare and send to the victim an explanation of the hearing process and how the victim may participate in that process.
 (3) If the hearing relates to an offender who is subject to a long-term sentence, any victim who is notified must be advised that he or she may request information on the offender under section 44.
 (4) A failure to notify any person listed in subsection (2)﻿(b) to (f), and a failure to obtain all the information referred to in subsection (1)﻿(a), does not invalidate a hearing.
-(5) Any person notified under subsection (2) may write to the Board, by a given date, making submissions on, or giving information relevant to,—
-  (a) the substantive matter to be decided; and
-  (b) whether the hearing should be an unattended hearing or an attended hearing.
+(5) Any person notified under subsection (2) may write to the Board, by a given date, making submissions on, or giving information relevant to, the substantive matter to be decided.
 (6) For the purpose of providing the reports required under subsection (1)﻿(e) and (f), the responsible clinician (or other health professional) referred to in subsection (1)﻿(e), or the chief executive referred to in subsection (1)﻿(f) (as the case may be), must, on request by the chief executive, supply a report on the relevant offender to the chief executive as required.
 
 ### 43A Consultation and disclosure necessary to provide reports
@@ -603,57 +633,21 @@ To avoid doubt, if a person providing a report referred to in section 43 conside
   (b) each subsequent parole hearing, if at the earlier parole hearing the Board does not direct that the offender be released on parole.
 
 ### 45 Decision on type of hearing
-(1) The panel convenor who is allocated to conduct a particular hearing must decide whether that hearing will be an unattended hearing under section 48 or an attended hearing under section 49.
-(2) A decision under subsection (1) may not be made until—
-  (a) the Board has received the information referred to in section 43(1); and
-  (b) the given date referred to in section 43(5) has passed.
-(3) If the panel convenor believes on reasonable grounds that the Board is able to make a proper decision on the basis of the information available to the Board, without the need for any person other than Board members to attend the hearing, the convenor may decide that the hearing will be an unattended hearing.
-(4) In deciding whether to hold an unattended hearing or an attended hearing, the panel convenor must consider—
-  (a) whether and how often the offender has been considered by the Board:
-  (b) the length of time since his or her last attended hearing (if any):
-  (c) whether there are significant efficiencies to be gained by having one type of hearing rather than the other:
-  (d) whether written submissions indicate that there are matters that warrant consideration at an attended hearing:
-  (e) any relevant cultural or personal factors:
-  (f) any other matter that the panel convenor considers relevant.
-(5) The decision on the type of hearing must be notified in writing to the offender and every victim of the offender, and to any other person from whom the Board wishes to receive information in relation to the hearing.
-(6) A panel convenor may, before or during an unattended hearing, determine that the hearing must be an attended one and, in that case, a time for the attended hearing must be fixed and the people referred to in subsection (5) must be notified accordingly.
-(7) Notification under subsection (5) or (6) must include,—
-  (a) if the hearing is to be an unattended one,—
-    (i) a summary of the reasons for the decision that the hearing will be unattended; and
-    (ii) advice on the right under section 46 to seek a review of the decision; and
-    (iii) advice to the offender and victim on the right under section 47 to have an interview; and
-  (b) if the hearing is to be an attended one,—
-    (i) notice of the date of the hearing; and
-    (ii) relevant information about the rights of people attending.
+[Repealed]
 
 ### 46 Review of decision on type of hearing
-(1) A person who has received notice under section 45(5) that the hearing will be an unattended one and who is dissatisfied with the decision may seek a review of that decision.
-(1A) A review is sought under subsection (1) by writing to the Board within 10 days of the date of the notification given under section 45(5).
-(2) A panel convenor other than the one allocated to conduct the particular hearing must review the decision as soon as practicable.
-(3) Following a review, the panel convenor may confirm the decision or determine that the hearing will be an attended hearing.
-(4) If the hearing is to be an attended hearing, the Board must fix a time for the attended hearing and notify the people referred to in section 45(5) accordingly.
-(5) If the hearing is to be an unattended hearing, the Board must notify the person who sought the review.
+[Repealed]
 
 ### 47 Interviews before hearings
-(1) If a hearing is to be an unattended hearing, the offender and every victim of the offender must be given the opportunity to have an interview before the hearing with 1 member of the panel allocated to conduct the hearing.
-(2) The member conducting the interview may conduct the interview at whatever place and in whatever manner he or she considers appropriate, subject to this section.
-(3) In relation to an interview with a victim,—
-  (a) the victim may have a support person with him or her, and the support person may, with the consent of the victim and the permission of the member conducting the interview, speak on behalf of the victim; and
-  (b) if there are special circumstances, and with the consent of the victim and the prior written approval of the Board, the victim may be represented at the interview by another person who must attend the interview in place of the victim; and
-  (c) the interview may not take place at a prison, unless the victim (or his or her representative) consents.
-(4) At an interview with an offender, the offender may have a support person with him or her, and the support person may, with the consent of the offender and the permission of the member conducting the interview, speak in support of the offender.
+[Repealed]
 
 ### 48 Unattended hearings
-(1) At an unattended hearing, the only people who may be present are—
-  (a) the Board members conducting the hearing; and
-  (b) the staff servicing the Board; and
-  (c) any other person whom the Board agrees in writing to allow to be present.
-(2) An unattended hearing may be conducted with any or all of the people mentioned in subsection (1) being present by way of telephone or video link, rather than in person.
+[Repealed]
 
-### 49 Attended hearing
-(1) An attended hearing must be run in the manner of an inquiry, and in an atmosphere that encourages persons appearing before the Board to speak for themselves, and as freely and frankly as possible.
+### 49 Hearings
+(1) A hearing must be run in the manner of an inquiry, and in an atmosphere that encourages persons appearing before the Board to speak for themselves, and as freely and frankly as possible.
 (2) Within that context, the Board may conduct the hearing as it thinks appropriate and, subject to this section, has the following powers:
-  (a) to determine who may attend, and determine whether a person may attend other than in person (for instance, by telephone or video link):
+  (a) to determine who may attend:
   (b) to determine who may speak:
   (c) to impose limits on what a person may talk about and for how long:
   (d) to require any person to leave the hearing, either temporarily or for the remainder of the hearing:
@@ -670,11 +664,28 @@ To avoid doubt, if a person providing a report referred to in section 43 conside
     (i) speak in support of the victim; and
     (ii) with the permission of the victim, speak on behalf of the victim.
 
+### 49A Adjournment to obtain further information
+(1) This section applies if the Board adjourns a hearing to obtain further information before making its decision.
+(2) The Board may conduct the remainder of the hearing (including making its decision) without the offender attending, but the offender is entitled to attend and make oral submissions.
+
+### 49B Hearing to impose release conditions
+(1) This section applies if the Board conducts a hearing solely to impose special release conditions on an offender under section 18 or 19.
+(2) The Board may conduct the hearing without the Board hearing from any person orally unless—
+  (a) the offender has asked to attend and make oral submissions; or
+  (b) the Board wishes to hear from any other person.
+
 ### 50 Decisions must be notified
 (1) After a hearing, every person who was notified under section 43(2) must be advised of—
   (a) whether, and, if so, when, the offender is to be released from detention; and
   (b) any release conditions applying to the offender; and
-  (c) if a postponement order has been made, the duration of the postponement.
+  (c) if the Board has declined to direct the release of the offender on parole,—
+    (i) the date by which the offender must be further considered for parole; and
+    (ii) the relevant activities (if any) specified under section 21A(b); and
+    (iii) notice that the hearing may be brought forward if all of the relevant activities have been completed earlier than expected; and
+  (d) if the Board has made a postponement order,—
+    (i) the date by which the offender must further be considered for parole; and
+    (ii) the relevant activities (if any) specified under section 27(4); and
+    (iii) notice that the hearing may be brought forward if all of the relevant activities have been completed earlier than expected.
 (2) When advising a victim under this section of any release conditions applying to an offender, the Board may withhold advice of a particular condition if disclosing the condition would unduly interfere with the privacy of any other person (other than the offender).
 
 ### 50A Submissions from, and interviews with, certain victims
@@ -683,9 +694,8 @@ To avoid doubt, if a person providing a report referred to in section 43 conside
   (b) is a victim as defined in section 4 of the Victims' Rights Act 2002.
 (2) To avoid doubt, the person—
   (a) may, by writing to the Board, make submissions on, or give information relevant to, the substantive matter to be decided at a hearing referred to in section 42; and
-  (b) if the hearing is an unattended hearing, may, with the leave of the Board, have an interview before the hearing with 1 member of the panel allocated to conduct the hearing, in accordance with section 47(1) to (3); and
-  (c) if the hearing is an attended hearing, may, with the leave of the Board, appear and make oral submissions to the Board, in accordance with section 49(4).
-(3) If the person seeks information from the Board in order to take a step in subsection (2)﻿(a) or (b) or (c), the Board may—
+  (b) may, with the leave of the Board, attend and make oral submissions to the Board, in accordance with section 49(4).
+(3) If the person seeks information from the Board in order to take a step in subsection (2)﻿(a) or (b), the Board may—
   (a) advise the person of the relevant hearing date; and
   (b) give the person any other information that is reasonably necessary to enable the person to take the step.
 (4) Neither the Board nor any other person has any liability for any act done in pursuance, or intended pursuance, of the Board's functions under this section or section 50B, unless the act was done in bad faith.
@@ -693,8 +703,8 @@ To avoid doubt, if a person providing a report referred to in section 43 conside
 ### 50B Decisions to be notified to certain victims
 (1) The following persons must, after the hearing concerned, be advised of the matters in section 50(1)﻿(a) to (c):
   (a) a person who, by writing to the Board, makes submissions or gives relevant information as referred to in section 50A(2)﻿(a):
-  (b) a person who is interviewed as referred to in section 50A(2)﻿(b):
-  (c) a person who appears and makes oral submissions as referred to in section 50A(2)﻿(c).
+  (b)
+  (c) a person who appears and makes oral submissions as referred to in section 50A(2)﻿(b).
 (2) When advising a person under this section of any release conditions, the Board may withhold advice of a particular condition if disclosing the condition would unduly interfere with the privacy of any other person (other than the offender).
 
 **Actual release**
@@ -823,7 +833,7 @@ A recall application is an application for an order that an offender be recalled
   (b) if an interim recall order is made but the Board does not make a final recall order, for the period between the making of the interim recall order and the date of the determination of the application during which the offender was at large.
 (5) When a recall application is made, the sentence to which the recall application relates continues to run as follows:
   (a) for the period (if any) between the lodgement of the application and the date of its determination during which the offender is under legal custody in accordance with the Corrections Act 2004:
-  (b) if an interim recall order is made, for the period between the lodgement of the application and the making of the interim recall order:
+  (b) if an interim recall order is made but the Board does not make a final recall order, for the period between the lodgement of the application and the making of the interim recall order:
   (c) if no interim or final recall order is made, for the period between the lodgement of the application and the date of its determination.
 
 ### 61 Grounds for recall
@@ -909,11 +919,10 @@ Section 44 of the Policing Act 2008 applies to protect constables as if a warran
 ### 67 Review of decisions
 (1) An offender who is the subject of any decision of the Board under this Act (other than a decision under any of the provisions referred to in subsection (2)) may, within 28 days of the decision, apply in writing to the Board for a review of that decision.
 (2) No review under this section may be sought of—
-  (aa) a decision under section 13AB to make, or refuse to make, a confidentiality order; or
-  (aab) a decision under section 13AE to vary or rescind, or to refuse to vary or rescind, a confidentiality order; or
-  (a) a decision under section 45 about the type of hearing; or
-  (b) a decision under section 46 on a review of a decision about the type of hearing; or
-  (c) a review under section 107(6) of—
+  (a) a decision under section 13AB to make, or to refuse to make, a confidentiality order; or
+  (b) a decision under section 13AE to vary or rescind, or to refuse to vary or rescind, a confidentiality order; or
+  (c) a decision under section 21A(b) or 27(4) specifying relevant activities; or
+  (d) a review under section 107(6) of—
     (i) an order made under that section; or
     (ii) an order made under section 105 of the Criminal Justice Act 1985 (as provided for in section 97(8)).
 (3) The grounds for an application for review under this section are that the Board, in making the decision,—
@@ -1808,7 +1817,7 @@ For the purposes of section 6(a) of the Legal Services Act 2000 (which identifie
 (1) Every member who is appointed as a panel convenor must be a District Court Judge, a former District Court Judge, or a barrister or solicitor who has held a practising certificate for at least 7 years.
 (2) Despite subsection (1), at any time there may be appointed as a panel convenor 1 person who is a Judge of the High Court or a former Judge of the High Court.
 (3) The functions of a panel convenor are—
-  (a) to make the decision on whether to hold an attended or an unattended hearing for any decision relating to release conditions or parole; and
+  (a)
   (b) at a hearing,—
     (i) to preside at the hearing; and
     (ii) to determine any matters of procedure that may arise during or in relation to the hearing; and
@@ -1879,6 +1888,12 @@ Every witness giving evidence before the Board has the same privileges and immun
   (b) refuses to be sworn or to give evidence, or having been sworn refuses to answer any question that the person is lawfully required by any member of the Board to answer concerning the subject of the matter before the Board; or
   (c) fails to produce any such book, paper, document, record, or thing.
 (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
+
+**Attendance at hearings**
+
+### 118E Attendance at hearings
+(1) For the purpose of any hearing of the Board, a person (including a member of the Board, the offender, and counsel representing the offender) attends the hearing if he or she is present at the hearing, whether in person or by way of remote access, such as by telephone, video, or Internet link.
+(2) A person may only attend a hearing by remote access if the Board agrees.
 
 **General provisions about Board and members**
 
