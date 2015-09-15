@@ -1,5 +1,5 @@
 # Treaty of Waitangi Act 1975
-_Consolidation as at 2014-12-16_
+_Consolidation as at 2015-09-15_
 
 > An Act to provide for the observance, and confirmation, of the principles of the Treaty of Waitangi by establishing a Tribunal to make recommendations on claims relating to the practical application of the Treaty and to determine whether certain matters are inconsistent with the principles of the Treaty
 
@@ -13,7 +13,7 @@ This Act may be cited as the Treaty of Waitangi Act 1975.
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **historical Treaty claim** means a claim made under section 6(1) that arises from or relates to an enactment referred to in section 6(1)(a) or (b) enacted, or to a policy or practice adopted or an act done or omitted by or on behalf of the Crown, before 21 September 1992
+  - **historical Treaty claim** means a claim made under section 6(1) that arises from or relates to an enactment referred to in section 6(1)﻿(a) or (b) enacted, or to a policy or practice adopted or an act done or omitted by or on behalf of the Crown, before 21 September 1992
   - **Maori** means a person of the Maori race of New Zealand; and includes any descendant of such a person
   - **private land** means any land, or interest in land, held by a person other than—
     (a) the Crown; or
@@ -33,9 +33,9 @@ This Act shall bind the Crown.
 (2A) In considering the suitability of persons for appointment to the Tribunal, the Minister of Maori Affairs—
   (a) shall have regard to the partnership between the 2 parties to the Treaty; and
   (b) shall have regard not only to a person's personal attributes but also to a person's knowledge of and experience in the different aspects of matters likely to come before the Tribunal.
-(2B) The Chairperson of the Tribunal appointed under subsection (2)(a) holds office for such term not exceeding 5 years as the Governor-General specifies in the instrument appointing that Chairperson, and the Chairperson may from time to time be reappointed.
+(2B) The Chairperson of the Tribunal appointed under subsection (2)﻿(a) holds office for such term not exceeding 5 years as the Governor-General specifies in the instrument appointing that Chairperson, and the Chairperson may from time to time be reappointed.
 (2C) Where the Chairperson of the Tribunal is the Chief Judge of the Maori Land Court and he or she ceases to hold office as Chief Judge during the term of his or her appointment as Chairperson, that person's appointment as Chairperson also ceases at that time.
-(3) Every member of the Tribunal appointed under subsection (2)(b) shall hold office for such term as the Governor-General shall specify in his or her appointment, being a term not exceeding 3 years, but may from time to time be reappointed.
+(3) Every member of the Tribunal appointed under subsection (2)﻿(b) shall hold office for such term as the Governor-General shall specify in his or her appointment, being a term not exceeding 3 years, but may from time to time be reappointed.
 (4) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason of his being a member of the Tribunal.
 (5) The Ministry of Justice shall furnish such secretarial, recording, and other services as may be necessary to enable the Tribunal to exercise its functions and powers.
 (6) The provisions of Schedule 2 shall have effect in relation to the Tribunal and its proceedings.
@@ -115,8 +115,8 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
   (b) amend a claim already submitted to the Tribunal that is not, or does not include, a historical Treaty claim by including a historical Treaty claim.
 (2) However, subsection (1) does not prevent a historical Treaty claim submitted to the Tribunal on or before 1 September 2008 from being amended in any way after 1 September 2008.
 (3) The Tribunal does not have jurisdiction (including, but not limited to, the jurisdiction to inquire or further inquire into, or to make any finding or recommendation) in respect of a historical Treaty claim that is—
-  (a) submitted contrary to subsection (1)(a); or
-  (b) included in a claim contrary to subsection (1)(b).
+  (a) submitted contrary to subsection (1)﻿(a); or
+  (b) included in a claim contrary to subsection (1)﻿(b).
 (4) To avoid doubt, if a claim is submitted to the Tribunal contrary to subsection (1), it must be treated for all purposes (including, for example, for the purposes of sections 8A(2), 8C(1), 8HB(1), 8HD(1), and 8HJ) as not having been submitted.
 
 ### 6A Power of Tribunal to state case for Maori Appellate Court or Maori Land Court
@@ -124,13 +124,13 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
   (a) concerning Maori custom or usage; and
   (b) relating to the rights of ownership by Maori of any particular land or fisheries according to customary law principles of take and occupation or use; and
   (c) calling for the determination, to the extent practicable, of Maori tribal boundaries, whether of land or fisheries,—
-(2) Where a question relating to the Maori or group of Maori to whom any land or any part of any land or any interest in land is to be returned pursuant to a recommendation under section 8A(2)(a) arises in proceedings before the Tribunal, the Tribunal may refer that question to the Maori Land Court for decision.
+(2) Where a question relating to the Maori or group of Maori to whom any land or any part of any land or any interest in land is to be returned pursuant to a recommendation under section 8A(2)﻿(a) arises in proceedings before the Tribunal, the Tribunal may refer that question to the Maori Land Court for decision.
 (3) Any question referred to the Maori Appellate Court under subsection (1) or to the Maori Land Court under subsection (2) shall be in the form of a special case to be drawn up by the parties (if any) to the proceedings and, if the parties do not agree, or if there are no parties, to be settled by the Tribunal.
 (4) The Maori Appellate Court shall have jurisdiction—
   (a) to decide any question referred to it under subsection (1); and
   (b) to hear and determine any appeal against any decision of the Maori Land Court on any question referred to that court under subsection (2).
 (5) The Maori Land Court shall have jurisdiction to decide any question referred to it under subsection (2).
-(6) The decision of the Maori Appellate Court on any question referred to it under subsection (1) and on any appeal determined by it pursuant to subsection (4)(b) shall be binding on the Tribunal.
+(6) The decision of the Maori Appellate Court on any question referred to it under subsection (1) and on any appeal determined by it pursuant to subsection (4)﻿(b) shall be binding on the Tribunal.
 (7) Subject to subsection (8), the decision of the Maori Land Court on any question referred to it under subsection (2) shall be binding on the Tribunal.
 (8) An appeal may be brought under section 58 of Te Ture Whenua Maori Act 1993 against any decision of the Maori Land Court on a question referred to it under subsection (2); and section 58 of Te Ture Whenua Maori Act 1993 shall apply in relation to any such appeal as if that decision were a final order of the Maori Land Court.
 (9) The Maori Appellate Court shall inform the Waitangi Tribunal of the decision of the Maori Appellate Court on—
@@ -168,7 +168,7 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
     (ii) that the action to be taken under section 6(3) to compensate for or remove the prejudice caused by the ordinance or Act, or the regulations, order, proclamation, notice, or other statutory instrument, or the policy or practice, or the act or omission that was inconsistent with the principles of the Treaty, should include the return to Maori ownership of the whole or part of that land or of that interest in land,—
   (b) if it finds—recommend to the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 that that land or that part of that land or that interest in land be no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989; or
     (i) that the claim is well-founded; but
-    (ii) that a recommendation for return to Maori ownership is not required, in respect of that land or any part of that land or that interest in land, by paragraph (a)(ii),—
+    (ii) that a recommendation for return to Maori ownership is not required, in respect of that land or any part of that land or that interest in land, by paragraph (a)﻿(ii),—
   (c) if it finds that the claim is not well-founded, recommend to the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 that that land or that part of that land or that interest in land be no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989.
 (3) In deciding whether to recommend the return to Maori ownership of any land or interest in land to which this section applies, the Tribunal shall not have regard to any changes that, since immediately before the date of the transfer of the land or interest in land from the Crown to a State enterprise, or an institution within the meaning of section 159 of the Education Act 1989, have taken place in—
   (a) the condition of the land or of the land in which the interest exists and any improvements to it; or
@@ -180,16 +180,16 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
   (b) an interest in land which was in existence immediately before the land was transferred to an institution within the meaning of section 159 of the Education Act 1989 under section 207 of that Act or vested in such an institution by an Order in Council made under section 215 of that Act but which was not so transferred to or vested in the institution,—
 
 ### 8B Interim recommendations in respect of land transferred to or vested in State enterprise
-(1) Where the recommendations made by the Tribunal include a recommendation made under section 8A(2)(a) or section 8A(2)(b), all of those recommendations shall be in the first instance interim recommendations.
+(1) Where the recommendations made by the Tribunal include a recommendation made under section 8A(2)﻿(a) or section 8A(2)﻿(b), all of those recommendations shall be in the first instance interim recommendations.
 (2) The Tribunal shall cause copies of its interim findings and interim recommendations to be served on the parties to the inquiry.
-(3) Subject to subsection (5), the Tribunal shall not, without the written consent of the parties, confirm any interim recommendations that include a recommendation made under section 8A(2)(a) or section 8A(2)(b), until at least 90 days after the date of the making of the interim recommendations.
-(4) Where any party to the inquiry is served with a copy of any interim recommendations that include a recommendation made under section 8A(2)(a) or section 8A(2)(b), that party—
+(3) Subject to subsection (5), the Tribunal shall not, without the written consent of the parties, confirm any interim recommendations that include a recommendation made under section 8A(2)﻿(a) or section 8A(2)﻿(b), until at least 90 days after the date of the making of the interim recommendations.
+(4) Where any party to the inquiry is served with a copy of any interim recommendations that include a recommendation made under section 8A(2)﻿(a) or section 8A(2)﻿(b), that party—
   (a) may, within 90 days after the date of the making of the interim recommendations, offer to enter into negotiations with the other party for the settlement of the claim; and
   (b) shall, within 90 days after the date of the making of the interim recommendations, inform the Tribunal—
     (i) whether the party accepts or has implemented the interim recommendations; and
     (ii) if the party has made an offer under paragraph (a), the result of that offer.
-(5) If, before the confirmation of any interim recommendations that include a recommendation made under section 8A(2)(a) or section 8A(2)(b), the claimant and the Minister of Maori Affairs settle the claim, the Tribunal shall, as the case may require, cancel or modify the interim recommendations and may make, if necessary, a final recommendation under section 8A(2)(a) or section 8A(2)(b).
-(6) If subsection (5) does not apply in relation to any interim recommendations that include a recommendation made under section 8A(2)(a) or section 8A(2)(b), upon the expiration of the 90th day after the date of the making of the interim recommendations, the interim recommendations shall take effect as final recommendations.
+(5) If, before the confirmation of any interim recommendations that include a recommendation made under section 8A(2)﻿(a) or section 8A(2)﻿(b), the claimant and the Minister of Maori Affairs settle the claim, the Tribunal shall, as the case may require, cancel or modify the interim recommendations and may make, if necessary, a final recommendation under section 8A(2)﻿(a) or section 8A(2)﻿(b).
+(6) If subsection (5) does not apply in relation to any interim recommendations that include a recommendation made under section 8A(2)﻿(a) or section 8A(2)﻿(b), upon the expiration of the 90th day after the date of the making of the interim recommendations, the interim recommendations shall take effect as final recommendations.
 (7) Notwithstanding anything in subsections (1) to (6), if any interim recommendations contain a clerical mistake or an error arising from any accidental slip or omission, whether the mistake, error, slip, or omission was made by an officer of the Tribunal or not, or if any interim recommendations are so drawn up as not to express what was actually decided and intended, the interim recommendations may be corrected by the Tribunal, either of its own motion or on the application of any party.
 (8) Where the interim recommendations are corrected under subsection (7),—
   (a) the Tribunal shall cause copies of the corrected interim recommendations to be served on the parties to the inquiry as soon as practicable; and
@@ -212,14 +212,14 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
   (b) either—
     (i) no claim in relation to that land or interest in land has been submitted to the Tribunal under section 6 before the date specified in the notice; or
     (ii) all the parties to any claim submitted to the Tribunal under section 6 in relation to that land or interest in land have informed the Tribunal in writing that they consent to the making of the recommendation.
-(2) The Tribunal may make a recommendation pursuant to subsection (1)(b)(ii) without being obliged to determine first whether or not the claim is well-founded.
+(2) The Tribunal may make a recommendation pursuant to subsection (1)﻿(b)﻿(ii) without being obliged to determine first whether or not the claim is well-founded.
 (3) The Tribunal may, where it considers it appropriate, consult with a Judge of the Maori Land Court about—in relation to any application under this section.
   (a) the directions to be given under section 8F; or
   (b) the public notice to be given under section 8G,—
 
 ### 8E Issue of certificate on recommendation of Tribunal
 (1) The Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall, on receiving in respect of any land or interest in land a recommendation under—issue a certificate to the effect that the land or interest in land is no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989.
-  (a) section 8A(2)(a) or section 8A(2)(b) or section 8A(2)(c); or
+  (a) section 8A(2)﻿(a) or section 8A(2)﻿(b) or section 8A(2)﻿(c); or
   (b) section 8D(1),—
 (2) Where the land or the land in which the interest in land exists is subject to the Land Transfer Act 1952, the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall cause a copy of the certificate to be lodged with the District Land Registrar of the land registration district within which the land is situated.
 (3) The District Land Registrar shall, without fee,—
@@ -276,7 +276,7 @@ For the purposes of sections 8HB to 8HI, the expressions Crown forestry assets, 
     (ii) that the action to be taken under section 6(3) to compensate for or remove the prejudice caused by the ordinance or Act, or the regulations, order, proclamation, notice, or other statutory instrument, or the policy or practice, or the act or omission that was inconsistent with the principles of the Treaty of Waitangi, should include the return to Maori ownership of the whole or part of that land,—
   (b) if it finds—recommend to the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 that that land or that part of that land not be liable to return to Maori ownership; or
     (i) that the claim is well-founded; but
-    (ii) that a recommendation for return to Maori ownership is not required, in respect of that land or any part of that land by paragraph (a)(ii),—
+    (ii) that a recommendation for return to Maori ownership is not required, in respect of that land or any part of that land by paragraph (a)﻿(ii),—
   (c) if it finds that the claim is not well-founded, recommend to the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 that that land or that part of that land not be liable to return to Maori ownership.
 (2) In deciding whether to recommend the return to Maori ownership of any licensed land, the Tribunal shall not have regard to any changes that have taken place in—that have occurred after or by virtue of the granting of any Crown forestry licence in respect of that land.
   (a) the condition of the land and any improvements to it; or
@@ -285,16 +285,16 @@ For the purposes of sections 8HB to 8HI, the expressions Crown forestry assets, 
 (4) On the making of a recommendation for the return of any land to Maori ownership under subsection (1), sections 40 to 42 of the Public Works Act 1981 shall cease to apply in relation to that land.
 
 ### 8HC Interim recommendations in respect of Crown forest land
-(1) Where the recommendations made by the Tribunal include a recommendation made under section 8HB(1)(a) or section 8HB(1)(b), all of those recommendations shall be in the first instance interim recommendations.
+(1) Where the recommendations made by the Tribunal include a recommendation made under section 8HB(1)﻿(a) or section 8HB(1)﻿(b), all of those recommendations shall be in the first instance interim recommendations.
 (2) The Tribunal shall cause copies of its interim findings and interim recommendations to be served on the parties to the inquiry.
-(3) Subject to subsection (5), the Tribunal shall not, without the written consent of the parties, confirm any interim recommendations that include a recommendation made under section 8HB(1)(a) or section 8HB(1)(b), until at least 90 days after the date of the making of the interim recommendations.
-(4) Where any party to the inquiry is served with a copy of any interim recommendations that include a recommendation made under section 8HB(1)(a) or section 8HB(1)(b), that party—
+(3) Subject to subsection (5), the Tribunal shall not, without the written consent of the parties, confirm any interim recommendations that include a recommendation made under section 8HB(1)﻿(a) or section 8HB(1)﻿(b), until at least 90 days after the date of the making of the interim recommendations.
+(4) Where any party to the inquiry is served with a copy of any interim recommendations that include a recommendation made under section 8HB(1)﻿(a) or section 8HB(1)﻿(b), that party—
   (a) may, within 90 days after the date of the making of the interim recommendations, offer to enter into negotiations with the other party for the settlement of the claim; and
   (b) shall, within 90 days after the date of the making of the interim recommendations, inform the Tribunal—
     (i) whether the party accepts or has implemented the interim recommendations; and
     (ii) if the party has made an offer under paragraph (a), the result of that offer.
-(5) If, before the confirmation of any interim recommendations that include a recommendation made under section 8HB(1)(a) or section 8HB(1)(b), the claimant and the Minister of Maori Affairs settle the claim, the Tribunal shall, as the case may require, cancel or modify the interim recommendations and may make, if necessary, a final recommendation under section 8HB(1)(a) or section 8HB(1)(b).
-(6) If subsection (5) does not apply in relation to any interim recommendations that include a recommendation made under section 8HB(1)(a) or section 8HB(1)(b), upon the expiration of the 90th day after the date of the making of the interim recommendations, the interim recommendations shall become final recommendations.
+(5) If, before the confirmation of any interim recommendations that include a recommendation made under section 8HB(1)﻿(a) or section 8HB(1)﻿(b), the claimant and the Minister of Maori Affairs settle the claim, the Tribunal shall, as the case may require, cancel or modify the interim recommendations and may make, if necessary, a final recommendation under section 8HB(1)﻿(a) or section 8HB(1)﻿(b).
+(6) If subsection (5) does not apply in relation to any interim recommendations that include a recommendation made under section 8HB(1)﻿(a) or section 8HB(1)﻿(b), upon the expiration of the 90th day after the date of the making of the interim recommendations, the interim recommendations shall become final recommendations.
 (7) Notwithstanding anything in subsections (1) to (6), if any interim recommendations contain a clerical mistake or an error arising from any accidental slip or omission, whether the mistake, error, slip, or omission was made by an officer of the Tribunal or not, or if any interim recommendations are so drawn up as not to express what was actually decided and intended, the interim recommendations may be corrected by the Tribunal, either of its own motion or on the application of any party.
 (8) Where the interim recommendations are corrected under subsection (7),—
   (a) the Tribunal shall cause copies of the corrected interim recommendations to be served on the parties to the inquiry as soon as practicable; and
@@ -317,7 +317,7 @@ For the purposes of sections 8HB to 8HI, the expressions Crown forestry assets, 
   (b) either—
     (i) no claim in relation to that land has been submitted to the Tribunal under section 6 before the date specified in the notice; or
     (ii) all the parties to any claim submitted to the Tribunal under section 6 in relation to that land have informed the Tribunal in writing that they consent to the making of the recommendation.
-(2) The Tribunal may make a recommendation pursuant to subsection (1)(b)(ii) without being obliged to determine first whether or not the claim is well-founded.
+(2) The Tribunal may make a recommendation pursuant to subsection (1)﻿(b)﻿(ii) without being obliged to determine first whether or not the claim is well-founded.
 (3) The Tribunal may, where it considers it appropriate, consult with a Judge of the Maori Land Court about—in relation to any application under this section.
   (a) the directions to be given under section 8HG; or
   (b) the public notice to be given under section 8HH,—
@@ -369,8 +369,8 @@ The Tribunal shall cause a sealed copy of its decision and recommendations (if a
 In respect of every claim submitted to the Tribunal under section 6 that relates in whole or in part to land or an interest in land that, immediately before being vested in a Crown transferee company pursuant to section 6 of the New Zealand Railways Corporation Restructuring Act 1990, was land owned by the Crown or an interest owned by the Crown in land, whether or not the land or interest in land is still vested in that company, the provisions of sections 8A to 8H shall apply with such modifications as may be necessary and, in particular, as if—
   (a) the reference in section 8A(1) to land or an interest in land to which that section applies was a reference to land or an interest in land that, immediately before being vested in a Crown transferee company pursuant to section 6 of the New Zealand Railways Corporation Restructuring Act 1990, was land owned by the Crown or an interest owned by the Crown in land, whether or not that land or interest in land is still vested in that company:
   (b) the reference in section 8A(6) to an interest in land was a reference to an interest in land that was vested in a Crown transferee company under section 6 of the New Zealand Railways Corporation Restructuring Act 1990 but where the land itself was not vested in that company:
-  (c) the references in sections 8A(2)(b) and (c), 8D(1), 8E(1) and (3)(b), and 8G(3)(f) to section 27B of the State-Owned Enterprises Act 1986 were references to section 39 of the New Zealand Railways Corporation Restructuring Act 1990:
-  (d) the reference in section 8G(3)(c) to land or an interest in land transferred to or vested in a State enterprise was a reference to land or an interest in land vested in a Crown transferee company pursuant to the New Zealand Railways Corporation Restructuring Act 1990.
+  (c) the references in sections 8A(2)﻿(b) and (c), 8D(1), 8E(1) and (3)﻿(b), and 8G(3)﻿(f) to section 27B of the State-Owned Enterprises Act 1986 were references to section 39 of the New Zealand Railways Corporation Restructuring Act 1990:
+  (d) the reference in section 8G(3)﻿(c) to land or an interest in land transferred to or vested in a State enterprise was a reference to land or an interest in land vested in a Crown transferee company pursuant to the New Zealand Railways Corporation Restructuring Act 1990.
 
 ### 8I Annual report on implementation of recommendations
 The Minister of Maori Affairs shall in each year prepare and lay before the House of Representatives a report on the progress being made in the implementation of recommendations made to the Crown by the Tribunal.
@@ -389,9 +389,9 @@ Nothing in this Act shall affect in any way the right of any person to petition 
 Any member of the Tribunal whose term of office has expired or who has resigned from office shall, whether or not that member's successor has come into office, continue in office for the purpose of completing any proceedings heard by the Tribunal before the expiry of the member's term of office or the member's resignation.
 
 ### 2 Vacation of office
-(1) Any member of the Tribunal appointed under section 4(2)(b) may at any time resign his or her office by delivering a notice in writing to that effect to the Minister.
-(2) A member of the Tribunal appointed under section 4(2)(b) shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
-(3) Any member of the Tribunal appointed under section 4(2)(b) may at any time be removed from office by the Governor-General for inefficiency, inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
+(1) Any member of the Tribunal appointed under section 4(2)﻿(b) may at any time resign his or her office by delivering a notice in writing to that effect to the Minister.
+(2) A member of the Tribunal appointed under section 4(2)﻿(b) shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
+(3) Any member of the Tribunal appointed under section 4(2)﻿(b) may at any time be removed from office by the Governor-General for inefficiency, inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 (4) The powers and functions of the Tribunal shall not be affected by any vacancy in its membership.
 
 ### 3 Remuneration, allowances, and expenses of members of Tribunal
@@ -410,8 +410,8 @@ Any member of the Tribunal whose term of office has expired or who has resigned 
     (ii) a Judge of the Maori Land Court appointed by the Chairperson to act as presiding officer; or
     (iii) a member of the Tribunal appointed by the Chairperson to act as presiding officer; and
   (b) such other members of the Tribunal (being not less than 2 and not more than 6) as are appointed by the Chairperson.
-(2) Only a member of the Tribunal who is a barrister or solicitor of the High Court of at least 7 years' standing, shall be qualified for appointment as presiding officer under subclause (1)(a)(iii).
-(3) Where a Judge of the Maori Land Court acts as presiding officer pursuant to subclause (1)(a)(ii), that Judge shall, while he or she holds office as presiding officer, be deemed to be a member of the Tribunal.
+(2) Only a member of the Tribunal who is a barrister or solicitor of the High Court of at least 7 years' standing, shall be qualified for appointment as presiding officer under subclause (1)﻿(a)﻿(iii).
+(3) Where a Judge of the Maori Land Court acts as presiding officer pursuant to subclause (1)﻿(a)﻿(ii), that Judge shall, while he or she holds office as presiding officer, be deemed to be a member of the Tribunal.
 (4) Sittings of the Tribunal shall be held at such times and places as the Tribunal or the presiding officer from time to time appoints.
 (5) Any sitting of the Tribunal may be adjourned from time to time and from place to place by the Tribunal or the presiding officer.
 (6) The powers conferred on the Tribunal are exercisable notwithstanding the absence from any sitting of the Tribunal of any of the persons constituting the Tribunal for the purposes of the sitting so long as—
@@ -424,11 +424,11 @@ Any member of the Tribunal whose term of office has expired or who has resigned 
 (10) After consulting whoever, in his or her opinion, is appropriate, the Chairperson of the Tribunal may issue practice notes as to the practice and procedure of the Tribunal.
 
 ### 5AA Chairperson may appoint replacement presiding officer
-(1) For the purposes of an inquiry into a particular claim or other matter under section 5(1), the Chairperson may appoint another member of the Tribunal or a Judge of the Maori Land Court to replace a presiding officer or former presiding officer holding office under clause 5(1)(a).
+(1) For the purposes of an inquiry into a particular claim or other matter under section 5(1), the Chairperson may appoint another member of the Tribunal or a Judge of the Maori Land Court to replace a presiding officer or former presiding officer holding office under clause 5(1)﻿(a).
 (2) Clause 5(2) and (3) applies to a replacement appointment under subclause (1).
 
 ### 5AB Chairperson may appoint replacement member
-For the purposes of an inquiry into a particular claim or other matter under section 5(1), the Chairperson may appoint another member of the Tribunal to replace a member or former member holding office under clause 5(1)(b).
+For the purposes of an inquiry into a particular claim or other matter under section 5(1), the Chairperson may appoint another member of the Tribunal to replace a member or former member holding office under clause 5(1)﻿(b).
 
 ### 5AC Conditions applying to replacement appointments
 (1) An appointment made under clause 5AA or clause 5AB may be made before or after the Tribunal has begun to inquire into a particular claim or other matter under section 5(1).
@@ -444,7 +444,7 @@ For the purposes of an inquiry into a particular claim or other matter under sec
 (4) For the avoidance of doubt, the power conferred by clauses 5AA and 5AB may be exercised even if the relevant circumstance under subclause (2) arose before the commencement of the Treaty of Waitangi Amendment Act 2003.
 
 ### 5AD Chairperson may appoint acting presiding officer
-(1) The Chairperson may appoint an acting presiding officer if the presiding officer appointed under clause 5(1)(a) for the purposes of the particular claim or other matter under section 5(1) is temporarily unable to be present for the whole or part of a sitting because of—
+(1) The Chairperson may appoint an acting presiding officer if the presiding officer appointed under clause 5(1)﻿(a) for the purposes of the particular claim or other matter under section 5(1) is temporarily unable to be present for the whole or part of a sitting because of—
   (a) his or her illness; or
   (b) unforeseen circumstances that prevent his or her attendance.
 (2) Only a member of the Tribunal who is a barrister or solicitor of the High Court of at least 7 years' standing is qualified for appointment under subclause (1).
