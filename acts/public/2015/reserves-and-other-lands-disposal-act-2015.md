@@ -89,8 +89,8 @@ In sections 16 and 17,—
 (1) The reservation of the Mahinepua Bay reserve land as a local purpose (esplanade) reserve subject to the Reserves Act 1977 is revoked.
 (2) The Mahinepua Bay reserve land is then set apart as a Māori reservation (esplanade purposes).
 (3) The Mahinepua Bay reserve land then vests in the trustees in trust to hold and administer the land for the common use and benefit of the people of New Zealand.
-(4) For the avoidance of doubt, the vesting of the Mahinepua Bay reserve land under subsection (1) is not a disposition of land by the Crown for the purposes of Part 4A of the Conservation Act 1987.
-(5) The setting apart of the Mahinepua Bay reserve land as a Māori reservation under subsection (1)﻿(a) must be treated as if it had been made under Part 17 of Te Ture Whenua Maori Act 1993 and the requirements of that Part of that Act had been satisfied.
+(4) For the avoidance of doubt, the vesting of the Mahinepua Bay reserve land under subsection (3) is not a disposition of land by the Crown for the purposes of Part 4A of the Conservation Act 1987.
+(5) The setting apart of the Mahinepua Bay reserve land as a Māori reservation under subsection (2) must be treated as if it had been made under Part 17 of Te Ture Whenua Maori Act 1993 and the requirements of that Part of that Act had been satisfied.
 (6) Sections 24 and 25 of the Reserves Act 1977 do not apply to the revocation under subsection (1) of the reserve status of the Mahinepua Bay reserve land.
 
 **Nelson–Marlborough District Health Board land**
