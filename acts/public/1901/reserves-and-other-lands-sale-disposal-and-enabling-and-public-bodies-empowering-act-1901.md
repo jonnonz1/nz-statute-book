@@ -1,5 +1,5 @@
 # Reserves and other Lands Sale, Disposal, and Enabling and Public Bodies Empowering Act 1901
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2015-09-23_
 
 > An Act to make Provision for the Exchange, Sale, Reservation, and other Disposition of certain Reserves, Crown Lands, and Endowments, and to confer certain Powers on certain Public Bodies.
 
@@ -167,8 +167,7 @@ Whereas sections numbered 1 to 14, Block XVIII, Town of Cromwell, containing by 
 The Governor may grant the aforesaid sections to the Cromwell District Hospital Trustees as an estate in fee-simple upon trust for hospital purposes.
 
 ### 45 Grant to Port Chalmers Borough Corporation of land in Port Chalmers
-Whereas the area of land described in Schedule 10 hereto is Crown land, situated in the Town of Port Chalmers, between a street and high-water mark, and it is desirable to place it under the control of the Corporation of the Borough of Port Chalmers in order that it may be improved and maintained as a domain: Be it therefore enacted as follows:—
-The Governor may grant the land described in Schedule 10 hereto to the Corporation of the Borough of Port Chalmers in trust as a domain, and with a restriction that the same shall not be sold or leased.
+[Repealed]
 
 ### 46 Endowment for Winton Athenaeum
 The Governor may grant to any local authority or to any society duly incorporated for the purpose, under Libraries and Mechanics' Institutes Act 1908 section numbered 48 of Block VIII, Winton Hundred, Land District of Southland, containing by admeasurement one hundred and ten acres or thereabouts, for an estate in fee simple, in trust, without power of sale, as an endowment for the Winton Athenaeum: Provided, however, that there shall be reserved to the Governor power to resume the land in the event of the Athenaeum not being satisfactorily conducted in the public interest; the Governor to be sole judge as to whether or not it is satisfactorily conducted.
