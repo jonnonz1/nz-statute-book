@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2015-05-07_
+_Consolidation as at 2015-09-24_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -66,7 +66,7 @@ This Act binds the Crown.
     (d) does not include an other dependant of the claimant
   - **child care** means personal care or supervisory care of a child in New Zealand
   - **chiropractor** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Chiropractic Board continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of chiropractic; and
+    (a) is, or is deemed to be, registered with the Chiropractic Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of chiropractic; and
     (b) holds a current practising certificate
   - **claim** means a claim under section 48
   - **claimant** , in relation to a deceased claimant, includes the spouse or partner, any child, and any other dependants of the deceased claimant
@@ -81,7 +81,7 @@ This Act binds the Crown.
   - **Corporation** means the Accident Compensation Corporation continued by section 259
   - **counsellor** means a counsellor of a type described in regulations made under this Act
   - **cover** has the meaning set out in section 8
-  - **Crown entity subsidiary** has, subject to section 266, the same meaning as in the second column of section 7(1)⁠(c) of the Crown Entities Act 2004
+  - **Crown entity subsidiary** has, subject to section 266, the same meaning as in the second column of section 7(1)﻿(c) of the Crown Entities Act 2004
   - **Crown funding agreement** has the same meaning as in section 10 of the New Zealand Public Health and Disability Act 2000
   - **deceased claimant** means a claimant who dies and whose cover under section 20 or section 22 is for death or for physical injuries from which he or she dies
   - **decision** or includes all or any of the following decisions by the Corporation:
@@ -117,7 +117,7 @@ This Act binds the Crown.
     (a) means a person, other than a person acting for an employer as a PAYE intermediary as defined in section YA 1 of the Income Tax Act 2007, who pays, or is liable to pay,—
       (i) any amount that, in relation to any other person, is treated as income from employment, as defined in paragraph (a) of the definition of income from employment in section YA 1 of the Income Tax Act 2007; and
       (ii) any salary, wages, or other income to which section RD 3(2) to (4) of the Income Tax Act 2007 applies; but
-    (b) does not include, for the purpose of Part 6, a person who is an employer solely by reason of any of section RD 5(1)⁠(b)⁠(iii), (6)⁠(b), or (c) of the Income Tax Act 2007
+    (b) does not include, for the purpose of Part 6, a person who is an employer solely by reason of any of section RD 5(1)﻿(b)﻿(iii), (6)﻿(b), or (c) of the Income Tax Act 2007
   - **employment** —
     (a) means work engaged in or carried out for the purposes of pecuniary gain or profit; and
     (b) in the case of an employee, includes a period of paid leave, other than paid leave on the termination of employment
@@ -139,10 +139,7 @@ This Act binds the Crown.
     (a) an average of at least 30 hours per week; or
     (b) a lesser number of hours, if the lesser number of hours is defined as full-time employment in the employment agreement under which the earner was employed, because of the particular nature of that employment
   - **full-time study** means a course of study recognised as full-time by the place of education that administers it
-  - **fully funded** , in relation to claims, means that the amount of the outstanding claims liability in respect of the claims is offset by an adequate level of assets to fund the cost of those claims, having regard to—
-    (a) uncertainty in forecasting; and
-    (b) the objective of levy stability over time
-  - **government agency** , for the purposes of Part 8 and section 324(4)⁠(b)⁠(ii), includes a government department and a Crown entity
+  - **government agency** , for the purposes of Part 8 and section 324(4)﻿(b)﻿(ii), includes a government department and a Crown entity
   - **health practitioner** —
     (a) means a person who is, or is deemed to be, registered with an authority established or continued by section 114 of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession; but
     (b) in relation to that health profession and to any purpose stated in a relevant notice under section 322A, does not include a person who, for that purpose, is declared not to be a health practitioner
@@ -156,13 +153,13 @@ This Act binds the Crown.
     (a) means a plan under section 75 that provides for a claimant to receive rehabilitation that will assist in accordance with section 70 in restoring the claimant's health, independence, and participation to the maximum practicable extent; and
     (b) includes an individual rehabilitation programme or individual rehabilitation plan entered into under a former Act
   - **medical laboratory technologist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science; and
+    (a) is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science; and
     (b) holds a current practising certificate
   - **medical practitioner** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
+    (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
     (b) holds a current practising certificate
   - **medical radiation technologist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Medical Radiation Technologists Board continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical radiation technology; and
+    (a) is, or is deemed to be, registered with the Medical Radiation Technologists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical radiation technology; and
     (b) holds a current practising certificate
   - **mental injury** has the meaning set out in section 27
   - **midwife** means a health practitioner who—
@@ -182,16 +179,16 @@ This Act binds the Crown.
   - **non-earner** means a natural person who is not an earner
   - **Non-Earners' Account** means the Account described in section 227
   - **nurse** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions; and
+    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions; and
     (b) holds a current practising certificate
   - **nurse practitioner** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of nurse practitioner functions; and
+    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of nurse practitioner functions; and
     (b) holds a current practising certificate
   - **occupational therapist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Occupational Therapy Board continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of occupational therapy; and
+    (a) is, or is deemed to be, registered with the Occupational Therapy Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of occupational therapy; and
     (b) holds a current practising certificate
   - **optometrist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of optometry; and
+    (a) is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of optometry; and
     (b) holds a current practising certificate
   - **ordinarily resident in New Zealand** has the meaning set out in section 17
   - **osteopath** means a health practitioner who—
@@ -206,7 +203,7 @@ This Act binds the Crown.
     (a) claims notified to, and accepted by, the Corporation before that date, in respect of which payments have not been fully made at that date; and
     (b) claims that relate to events that have already occurred, but that have not been notified to, or accepted by, the Corporation as at that date; and
     (c) claims of a type described in paragraph (a) or paragraph (b) that have been taken on by the Corporation, in accordance with section 7 of the Accident Insurance (Transitional Provisions) Act 2000, under an agreement with an insurer
-  - **overpayment** means an overpayment of the type described in section 248(1)⁠(a)
+  - **overpayment** means an overpayment of the type described in section 248(1)﻿(a)
   - **parental leave** has the same meaning as in section 2(1) of the Parental Leave and Employment Protection Act 1987
   - **partner** , in the phrase spouse or partner and in related contexts, has the meaning set out in section 18A(1) to (3); and, in relation to a deceased claimant, has the meaning set out in section 18A(4) to (6)
   - **PAYE income payment** has the same meaning as in section RD 3(1) of the Income Tax Act 2007
@@ -223,7 +220,7 @@ This Act binds the Crown.
     (a) is, or is deemed to be, registered with the Pharmacy Council established by section 114(5) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of pharmacy; and
     (b) holds a current practising certificate
   - **physiotherapist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Physiotherapy Board continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of physiotherapy; and
+    (a) is, or is deemed to be, registered with the Physiotherapy Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of physiotherapy; and
     (b) holds a current practising certificate
   - **place of education** —
     (a) means—
@@ -236,7 +233,7 @@ This Act binds the Crown.
     (b) to which a person has access because of his or her employment; or
     (c) attended by a person for a course of education or training for the purposes of his or her current employment, if he or she receives earnings from that employment for his or her attendance
   - **podiatrist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Podiatrists Board continued by section 114(1)⁠(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of podiatry; and
+    (a) is, or is deemed to be, registered with the Podiatrists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of podiatry; and
     (b) holds a current practising certificate
   - **potential earner** means a claimant who either—
     (a) suffered personal injury before turning 18 years; or
@@ -374,9 +371,9 @@ The Corporation must treat the earnings of a private domestic worker as earnings
   (a) first, determine each of the following amounts:
     (i) an amount that represents reasonable remuneration for the services that the person provides to the company as an employee of the company in the tax year; and
     (ii) an amount that represents reasonable remuneration for the services that the person provides as a director of the company in the tax year; and
-  (b) second, add the amounts described in paragraph (a)⁠(i) and (ii), and the result is the subsection (3) amount.
-(4) The earnings as an employee of the person as an employee of the company are the amount described in subsection (3)⁠(a)⁠(i).
-(5) The director's fees of the person as a director of the company are the amount described in subsection (3)⁠(a)⁠(ii).
+  (b) second, add the amounts described in paragraph (a)﻿(i) and (ii), and the result is the subsection (3) amount.
+(4) The earnings as an employee of the person as an employee of the company are the amount described in subsection (3)﻿(a)﻿(i).
+(5) The director's fees of the person as a director of the company are the amount described in subsection (3)﻿(a)﻿(ii).
 (6) The dividend of the person as a shareholder of the company is determined by the Corporation in the following way:
   (a) first, determine the total amount the company pays or provides to the person in any capacity in the tax year; and
   (b) second, deduct the subsection (3) amount from that total amount, and the result is the dividend of the person as a shareholder of the company and is not earnings of the person.
@@ -390,7 +387,7 @@ The Corporation must treat the earnings of a private domestic worker as earnings
   (e) any installation or drilling rig that—
     (i) is constructed, erected, placed, or used in, on, or above those parts of the continental shelf adjacent to the land territories, islands, and islets referred to in paragraphs (a) and (b); and
     (ii) has the purpose of the exploration of the continental shelf or the exploitation of the mineral or other natural non-living resources of the continental shelf.
-(2) In subsection (1)⁠(e),—
+(2) In subsection (1)﻿(e),—
   (a) continental shelf has the meaning given to it in section 2(1) of the Continental Shelf Act 1964:
   (b) installation and drilling rig include—
     (i) any installation or drilling rig, whether permanent or temporary:
@@ -458,9 +455,9 @@ This Part uses and defines the following key terms:
 ### 20 Cover for personal injury suffered in New Zealand (except mental injury caused by certain criminal acts or work-related mental injury)
 (1) A person has cover for a personal injury if—
   (a) he or she suffers the personal injury in New Zealand on or after 1 April 2002; and
-  (b) the personal injury is any of the kinds of injuries described in section 26(1)⁠(a) or (b) or (c) or (e); and
+  (b) the personal injury is any of the kinds of injuries described in section 26(1)﻿(a) or (b) or (c) or (e); and
   (c) the personal injury is described in any of the paragraphs in subsection (2).
-(2) Subsection (1)⁠(c) applies to—
+(2) Subsection (1)﻿(c) applies to—
   (a) personal injury caused by an accident to the person:
   (b) personal injury that is treatment injury suffered by the person:
   (c) treatment injury in circumstances described in section 32(7):
@@ -473,7 +470,7 @@ This Part uses and defines the following key terms:
   (j) personal injury that is a cardiovascular or cerebrovascular episode that is personal injury suffered by the person to which section 28(3) applies.
 (3) Subsections (1) and (2) are subject to the following qualifications:
   (a) section 23 denies cover to some persons otherwise potentially within the scope of subsection (1):
-  (b) section 24 denies cover to some persons otherwise potentially within the scope of subsections (1) and (2)⁠(e).
+  (b) section 24 denies cover to some persons otherwise potentially within the scope of subsections (1) and (2)﻿(e).
 (4) A person who suffers personal injury that is mental injury in circumstances described in section 21 has cover under section 21, but not under this section.
 
 ### 21 Cover for mental injury caused by certain criminal acts
@@ -481,7 +478,7 @@ This Part uses and defines the following key terms:
   (a) he or she suffers the mental injury inside or outside New Zealand on or after 1 April 2002; and
   (b) the mental injury is caused by an act performed by another person; and
   (c) the act is of a kind described in subsection (2).
-(2) Subsection (1)⁠(c) applies to an act that—
+(2) Subsection (1)﻿(c) applies to an act that—
   (a) is performed on, with, or in relation to the person; and
   (b) is performed—
     (i) in New Zealand; or
@@ -520,13 +517,13 @@ This Part uses and defines the following key terms:
   (d) on the date judgment is given in the proceedings, the plaintiff—
     (i) does not have cover under this section for the injury or injuries to which the proceedings relate; and
     (ii) must advise the Corporation of the judgment:
-  (e) if the plaintiff loses cover by virtue of paragraph (a) or paragraph (d), the Corporation may not recover any part of an amount that is deemed by subsection (4)⁠(a) to be an entitlement paid to the plaintiff under the 1992 Act.
+  (e) if the plaintiff loses cover by virtue of paragraph (a) or paragraph (d), the Corporation may not recover any part of an amount that is deemed by subsection (4)﻿(a) to be an entitlement paid to the plaintiff under the 1992 Act.
 
 ### 21B Cover for work-related mental injury
 (1) A person has cover for a personal injury that is a work-related mental injury if—
   (a) he or she suffers the mental injury inside or outside New Zealand on or after 1 October 2008; and
   (b) the mental injury is caused by a single event of a kind described in subsection (2).
-(2) Subsection (1)⁠(b) applies to an event that—
+(2) Subsection (1)﻿(b) applies to an event that—
   (a) the person experiences, sees, or hears directly in the circumstances described in section 28(1); and
   (b) is an event that could reasonably be expected to cause mental injury to people generally; and
   (c) occurs—
@@ -534,7 +531,7 @@ This Part uses and defines the following key terms:
     (ii) outside New Zealand to a person who is ordinarily resident in New Zealand when the event occurs.
 (3) For the purposes of this section, it is irrelevant whether or not the person is ordinarily resident in New Zealand on the date on which he or she suffers the mental injury.
 (4) Section 36(1) describes how the date referred to in subsection (3) is determined.
-(5) In subsection (2)⁠(a), a person experiences, sees, or hears an event directly if that person—
+(5) In subsection (2)﻿(a), a person experiences, sees, or hears an event directly if that person—
   (a) is involved in or witnesses the event himself or herself; and
   (b) is in close physical proximity to the event at the time it occurs.
 (6) To avoid doubt, a person does not experience, see, or hear an event directly if that person experiences, sees, or hears it through a secondary source, for example, by—
@@ -554,7 +551,7 @@ This Part uses and defines the following key terms:
 ### 22 Cover for personal injury suffered outside New Zealand (except mental injury caused by certain criminal acts or work-related mental injury)
 (1) A person has cover for a personal injury if—
   (a) he or she suffers the personal injury outside New Zealand on or after 1 April 2002; and
-  (b) the personal injury is any of the kinds of injuries described in section 26(1)⁠(a) or (b) or (c) or (e); and
+  (b) the personal injury is any of the kinds of injuries described in section 26(1)﻿(a) or (b) or (c) or (e); and
   (c) the person is ordinarily resident in New Zealand when he or she suffers the personal injury; and
   (d) the personal injury is one for which the person would have cover if he or she had suffered it in New Zealand.
 (2) Subsection (1) applies subject to subsection (3).
@@ -563,7 +560,7 @@ This Part uses and defines the following key terms:
   (a) the treatment is given by a person who has qualifications that are the same as or equivalent to those of a registered health professional; and
   (b) the personal injury would be personal injury caused by treatment if the treatment were given by or at the direction of the equivalent of a registered health professional and the person suffered the injury in New Zealand; and
   (c) the person is ordinarily resident in New Zealand when the treatment is given (whether or not he or she is ordinarily resident in New Zealand on the date on which he or she suffers the personal injury).
-(5) Section 38 describes how the date on which the person suffers the personal injury referred to in subsection (4)⁠(c) is determined.
+(5) Section 38 describes how the date on which the person suffers the personal injury referred to in subsection (4)﻿(c) is determined.
 (6) A person who suffers personal injury that is mental injury in circumstances described in section 21 has cover under section 21, but not under this section.
 (7) A person who suffers personal injury that is work-related mental injury in circumstances described in section 21B has cover under section 21B, but not under this section.
 
@@ -571,11 +568,11 @@ This Part uses and defines the following key terms:
 (1) A person not ordinarily resident in New Zealand does not have cover for a personal injury if he or she suffers it while he or she—
   (a) is on board a ship or aircraft or other means of conveyance described in subsection (2); or
   (b) is embarking or disembarking from any such ship or aircraft or conveyance.
-(2) Subsection (1)⁠(a) relates to the ship, aircraft, or conveyance on which the person—
+(2) Subsection (1)﻿(a) relates to the ship, aircraft, or conveyance on which the person—
   (a) comes to New Zealand; or
   (b) leaves New Zealand; or
   (c) comes to New Zealand, is carried and accommodated in the course of visiting New Zealand, and leaves New Zealand.
-(3) For the purposes of subsection (1)⁠(b),—
+(3) For the purposes of subsection (1)﻿(b),—
   (a) embarking begins as soon as a person is on a gangway, air bridge, or other thing attached to or laid against a ship, aircraft, or other conveyance and available for use in embarking:
   (b) disembarking finishes as soon as a person has left any gangway, air bridge, or other thing attached to or laid against a ship, aircraft, or other conveyance and available for use in disembarking.
 
@@ -584,7 +581,7 @@ This Part uses and defines the following key terms:
   (a) he or she suffers the personal injury because, before 1 April 1974, he or she performed a task, or worked in an environment, in the circumstances described in section 30(2); and
   (b) he or she performed the task, or worked in the environment, outside New Zealand; and
   (c) he or she was not ordinarily resident in New Zealand when he or she performed the task or worked in the environment (whether or not he or she is ordinarily resident in New Zealand on the date on which he or she suffers the personal injury).
-(2) Section 37 describes how the date referred to in subsection (1)⁠(c) is determined.
+(2) Section 37 describes how the date referred to in subsection (1)﻿(c) is determined.
 
 **Key terms relating to cover**
 
@@ -622,12 +619,12 @@ This Part uses and defines the following key terms:
   (a) a personal injury other than a personal injury described in section 20(2); or
   (b) the ageing process; or
   (c) any other factors.
-(2) Personal injury does not include personal injury caused wholly or substantially by a gradual process, disease, or infection unless it is personal injury of a kind described in section 20(2)⁠(e) to (h).
-(3) Personal injury does not include a cardiovascular or cerebrovascular episode unless it is personal injury of a kind described in section 20(2)⁠(i) or (j).
+(2) Personal injury does not include personal injury caused wholly or substantially by a gradual process, disease, or infection unless it is personal injury of a kind described in section 20(2)﻿(e) to (h).
+(3) Personal injury does not include a cardiovascular or cerebrovascular episode unless it is personal injury of a kind described in section 20(2)﻿(i) or (j).
 (4) Personal injury does not include—
   (a) personal injury caused wholly or substantially by the ageing process; or
   (b) personal injury to teeth or dentures caused by the natural use of those teeth or dentures.
-(5) For the purposes of subsection (1)⁠(e) and to avoid doubt, prostheses does not include hearing aids, spectacles, or contact lenses.
+(5) For the purposes of subsection (1)﻿(e) and to avoid doubt, prostheses does not include hearing aids, spectacles, or contact lenses.
 
 ### 27 Mental injury
 Mental injury means a clinically significant behavioural, cognitive, or psychological dysfunction.
@@ -643,7 +640,7 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
   (d) while he or she is travelling, by the most direct practicable route, between his or her place of employment and another place for the purposes of getting treatment for a work-related personal injury, if the treatment—
     (i) is necessary for the injury; and
     (ii) is treatment of a type that the claimant is entitled to under Part 1 of Schedule 1.
-(2) In subsection (1)⁠(d), most direct practicable route does not include those parts of a route that deviate unreasonably from, or interrupt, a journey for purposes unrelated to the employment or the treatment.
+(2) In subsection (1)﻿(d), most direct practicable route does not include those parts of a route that deviate unreasonably from, or interrupt, a journey for purposes unrelated to the employment or the treatment.
 (3) Work-related personal injury includes a cardiovascular or cerebrovascular episode suffered by a person, if the episode is caused by physical effort or physical strain, in performing his or her employment, that is abnormal in application or excessive in intensity for the person.
 (4) Work-related personal injury includes personal injury caused by a work-related gradual process, disease, or infection.
 (4A) Work-related personal injury includes work-related mental injury that is suffered in the circumstances described in section 21B.
@@ -662,10 +659,10 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
 ### 29 Personal injury that is both work-related and motor vehicle injury
 (1) An injury is a work-related personal injury, and is not a motor vehicle injury, if it—
   (a) falls within the definitions of both work-related personal injury and motor vehicle injury; but
-  (b) is suffered in the circumstances described in section 28(1)⁠(c) or (d) that relate to travel to or from employment or a place of treatment.
+  (b) is suffered in the circumstances described in section 28(1)﻿(c) or (d) that relate to travel to or from employment or a place of treatment.
 (2) An injury is a motor vehicle injury, and is not a work-related personal injury, if it—
   (a) falls within the definitions of both motor vehicle injury and work-related personal injury; but
-  (b) is suffered in the circumstances described in section 28(1)⁠(a) or (b).
+  (b) is suffered in the circumstances described in section 28(1)﻿(a) or (b).
 (3) However, a person is entitled to first week compensation if either subsection (1) or subsection (2) applies.
 
 ### 30 Personal injury caused by work-related gradual process, disease, or infection
@@ -692,7 +689,7 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
     (i) that involves exposure, or the prescribed level or extent of exposure, to agents, dusts, compounds, substances, radiation, or things (as the case may be) described in that schedule in relation to that type of personal injury; or
     (ii) in an occupation, industry, or process described in that schedule in relation to that type of personal injury.
 (3A) To avoid doubt, where a claim is lodged for cover for a work-related gradual process, disease, or infection, section 57 applies to require, among other things, the Corporation to investigate the claim at its own expense.
-(4) Personal injury of a type described in subsection (3) does not require an assessment of causation under subsection (1)⁠(b) or (c).
+(4) Personal injury of a type described in subsection (3) does not require an assessment of causation under subsection (1)﻿(b) or (c).
 (4A) This Act covers personal injury caused by a work-related gradual process, disease, or infection only if—
   (a) the exposure to the gradual process, disease, or infection actually occurred in New Zealand; or
   (b) the person concerned was ordinarily resident in New Zealand when the exposure actually occurred.
@@ -760,7 +757,7 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
 (3) Reviews and appeals must be dealt with under the relevant provisions of Part 5 in force immediately before 1 July 2005, if the decision being reviewed or appealed—
   (a) was made before 1 July 2005; or
   (b) is one to which subsection (2) applies.
-(4) Subsection (1)⁠(b) does not apply in relation to a claimant if,—
+(4) Subsection (1)﻿(b) does not apply in relation to a claimant if,—
   (a) before 1 July 2005, the Corporation declined the claimant's claim for cover for personal injury caused by medical misadventure because there was no personal injury; and
   (b) on or after 1 July 2005, the claimant lodges a claim for cover for treatment injury in respect of a personal injury that—
     (i) occurred after the decision to decline the earlier claim (whether before or after 1 July 2005); and
@@ -777,7 +774,7 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
   (a) in the course of loading, unloading, repairing, or servicing a motor vehicle; or
   (b) in the course of any use of a motor vehicle other than as a means of conveyance; or
   (c) in the course of off-road use of a motor vehicle.
-(3) In subsection (2)⁠(c), off-road use does not include use that is off-road as a direct result of the motor vehicle being out of control or having been involved in an accident.
+(3) In subsection (2)﻿(c), off-road use does not include use that is off-road as a direct result of the motor vehicle being out of control or having been involved in an accident.
 (4) This section is subject to section 29 (personal injuries that are both work-related and motor vehicle injuries).
 
 **Relevant dates of injury**
@@ -854,7 +851,7 @@ In sections 40 and 45, Corporation includes—
   (a) by notice in the Gazette, approve the Code; and
   (b) present the Code to the House of Representatives within 12 sitting days after approving the Code; and
   (c) arrange for the approval of the Code to be notified in daily newspapers published in Auckland, Hamilton, Wellington, Christchurch and Dunedin.
-(2) A notice given under subsection (1)⁠(c) must state where copies of the Code may be obtained.
+(2) A notice given under subsection (1)﻿(c) must state where copies of the Code may be obtained.
 (3) The Code comes into force—
   (a) on the date specified for that purpose in the Code, being a date after the date on which the Code is approved; or
   (b) if no such date is specified, the day after the date on which the Code is approved.
@@ -939,8 +936,8 @@ The Corporation must make every decision on a claim on reasonable grounds, and i
   (b) either—
     (i) make its decision on the claim and give notice of it under section 64; or
     (ii) decide that it cannot make its decision on the claim, or any other decision, without additional information, extend the time for making its decision, and tell the person making the claim about the extension.
-(3) Except where it decides under subsection (2)⁠(b)⁠(ii) that it needs additional information, section 58 applies if the Corporation does not make its decision within 21 days after the claim was lodged.
-(4) If subsection (2)⁠(b)⁠(ii) applies, the Corporation must take the following steps as soon as practicable:
+(3) Except where it decides under subsection (2)﻿(b)﻿(ii) that it needs additional information, section 58 applies if the Corporation does not make its decision within 21 days after the claim was lodged.
+(4) If subsection (2)﻿(b)﻿(ii) applies, the Corporation must take the following steps as soon as practicable:
   (a) make a reasonable request to the person, or decide to make a request to another person, for the additional information; and
   (b) if the Corporation makes a request to another person for the additional information, tell the person making the claim about the making of the request and its nature; and
   (c) make its decision on the claim and give notice of it under section 64.
@@ -1032,7 +1029,7 @@ A claimant who has suffered a personal injury is entitled to 1 or more entitleme
 (1) The Corporation provides entitlements to claimants in accordance with this Act.
 (2) If any provision of this Act requires the Corporation to provide an entitlement (regardless of how that requirement is expressed), the Corporation is required to provide the entitlement only to the extent required by this Act.
 (3) However, the Corporation may, at its own discretion, provide an entitlement or a payment to a claimant if it is satisfied that—
-  (a) the entitlement or payment could be provided but for a requirement in section 127(4) or section 129 or section 379(2), or in any of clauses 4, 13, 15, 17, 19(3)⁠(e), 19(3)⁠(i), 19(3)⁠(j), 22(1), 22(2)⁠(b), 22(2)⁠(c), 22(2)⁠(e), or 22(2)⁠(f) of Schedule 1; and
+  (a) the entitlement or payment could be provided but for a requirement in section 127(4) or section 129 or section 379(2), or in any of clauses 4, 13, 15, 17, 19(3)﻿(e), 19(3)﻿(i), 19(3)﻿(j), 22(1), 22(2)﻿(b), 22(2)﻿(c), 22(2)﻿(e), or 22(2)﻿(f) of Schedule 1; and
   (b) the provision of the entitlement or payment would be consistent with the purpose of this Act.
 (4) The exercise of a discretion under subsection (3) is subject to section 134(1A).
 
@@ -1052,7 +1049,7 @@ A claimant who has suffered personal injury for which he or she has cover—
 
 ### 71 Employer's obligations in relation to rehabilitation
 (1) This section applies to an employer if—
-  (a) the Corporation decides, under section 86(2)⁠(a), that it is reasonably practicable to return the claimant to the same employment in which the claimant was engaged, and with the employer who was employing the claimant, when the claimant's incapacity commenced; and
+  (a) the Corporation decides, under section 86(2)﻿(a), that it is reasonably practicable to return the claimant to the same employment in which the claimant was engaged, and with the employer who was employing the claimant, when the claimant's incapacity commenced; and
   (b) the Corporation gives the employer notice, in writing, of the decision.
 (2) The employer must take all practicable steps to assist the claimant with the claimant's vocational rehabilitation under his or her individual rehabilitation plan.
 
@@ -1120,10 +1117,10 @@ Within 13 weeks after the Corporation accepts the claimant's claim for cover, th
   (b) identify the assessments to be done; and
   (c) identify services appropriate to those needs, whether or not the Corporation is liable to provide any or all of those services; and
   (d) specify which of the services identified under paragraph (c) that the Corporation will provide, pay for, or contribute to.
-(3) For the purposes of subsection (2)⁠(a), the Corporation must assess a claimant's needs for—
+(3) For the purposes of subsection (2)﻿(a), the Corporation must assess a claimant's needs for—
   (a) social rehabilitation under section 84 and clauses 13 to 23 of Schedule 1; and
   (b) for vocational rehabilitation under sections 89 to 96.
-(4) However, the Corporation is not required to assess a claimant's needs under subclause (3)⁠(b) if the claimant's needs are solely related to maintaining employment.
+(4) However, the Corporation is not required to assess a claimant's needs under subclause (3)﻿(b) if the claimant's needs are solely related to maintaining employment.
 
 ### 78 Individual rehabilitation plan must be updated
 An individual rehabilitation plan must be updated from time to time to reflect the outcome of assessments done and progress made under the plan.
@@ -1152,7 +1149,7 @@ The purpose of social rehabilitation is to assist in restoring a claimant's inde
   (f) modifications to the home:
   (g) training for independence:
   (h) transport for independence.
-(2) Terms in subsection (1)⁠(a), (b), and (d) to (h) have the same meaning as in clause 12 of Schedule 1.
+(2) Terms in subsection (1)﻿(a), (b), and (d) to (h) have the same meaning as in clause 12 of Schedule 1.
 (3) The Corporation is liable to provide a key aspect of social rehabilitation to a claimant—
   (a) if the conditions in subsection (4) are met; but
   (b) not earlier than a date determined in accordance with section 83.
@@ -1220,7 +1217,7 @@ The purpose of social rehabilitation is to assist in restoring a claimant's inde
     (i) entitled to weekly compensation; or
     (ii) likely, unless he or she has vocational rehabilitation, to be entitled to weekly compensation; or
     (iii) on parental leave.
-(2) Despite subsection (1)⁠(b)⁠(i), the Corporation is liable to provide vocational rehabilitation to a person who was entitled to weekly compensation and who would, but for clause 52 of Schedule 1 (relationship between weekly compensation and New Zealand superannuation), continue to be entitled to weekly compensation.
+(2) Despite subsection (1)﻿(b)﻿(i), the Corporation is liable to provide vocational rehabilitation to a person who was entitled to weekly compensation and who would, but for clause 52 of Schedule 1 (relationship between weekly compensation and New Zealand superannuation), continue to be entitled to weekly compensation.
 
 ### 86 Matters to be considered in deciding whether to provide vocational rehabilitation
 (1) In deciding whether to provide vocational rehabilitation, the Corporation must have regard to the matters in section 87.
@@ -1243,7 +1240,7 @@ The purpose of social rehabilitation is to assist in restoring a claimant's inde
   (a) the vocational rehabilitation would be likely to achieve its purpose under the claimant’s individual rehabilitation plan; and
   (b) the vocational rehabilitation would be likely to be cost-effective, having regard to the likelihood that costs of entitlements under this Act will be reduced as a result of the provision of vocational rehabilitation; and
   (c) the vocational rehabilitation would be appropriate in the circumstances.
-(2C) However, despite subsections (1)⁠(b) and (2B)⁠(b), the Corporation must not take into account as a factor against providing vocational rehabilitation that the claimant is, or may become, a person to whom clause 52 of Schedule 1 (relationship between weekly compensation and New Zealand superannuation) applies.
+(2C) However, despite subsections (1)﻿(b) and (2B)﻿(b), the Corporation must not take into account as a factor against providing vocational rehabilitation that the claimant is, or may become, a person to whom clause 52 of Schedule 1 (relationship between weekly compensation and New Zealand superannuation) applies.
 (3) This section is subject to any regulations made under section 324.
 
 ### 88 Vocational rehabilitation may start or resume if circumstances change
@@ -1268,7 +1265,7 @@ An occupational assessment must be undertaken by an assessor whom the Corporatio
   (a) take into account information provided by the Corporation and the claimant; and
   (b) discuss with the claimant all the types of work that are available in New Zealand and suitable for the claimant; and
   (c) consider any comments the claimant makes to the assessor about those types of work.
-(1A) In considering the suitability of the types of work referred to in subsection (1)⁠(b), the occupational assessor may take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
+(1A) In considering the suitability of the types of work referred to in subsection (1)﻿(b), the occupational assessor may take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
 (2) The Corporation must provide to an occupational assessor all information the Corporation has that is relevant to an initial occupational assessment.
 
 ### 92 Report on initial occupational assessment
@@ -1334,7 +1331,7 @@ An occupational assessment must be undertaken by an assessor whom the Corporatio
 (4) The presumption can be rebutted by proof to the contrary.
 
 ### 98 Employer's duty to pay first week compensation
-(1) The employer in whose employment the claimant suffered the work-related personal injury or the motor vehicle injury referred to in section 97(1)⁠(a)⁠(ii) is liable to pay all the first week compensation to which the claimant is entitled.
+(1) The employer in whose employment the claimant suffered the work-related personal injury or the motor vehicle injury referred to in section 97(1)﻿(a)﻿(ii) is liable to pay all the first week compensation to which the claimant is entitled.
 (2) Before paying first week compensation, the employer may require the employee to meet reasonable requirements as to the production of evidence of the personal injury such as, for example, the production of a certificate by a registered health professional nominated and paid by the employer.
 (3) An employer who fails to comply with subsection (1) commits an offence.
 
@@ -1436,7 +1433,7 @@ If the Corporation determines under section 105(2) that the claimant is able to 
     (ii) a capacity for work under section 89 of the Accident Insurance Act 1998; or
     (iii) a capacity for work under section 51 of the Accident Rehabilitation and Compensation Insurance Act 1992; and
   (b) the Corporation believes, or has reasonable grounds for believing, that the claimant's vocational independence or capacity for work may have deteriorated due to the injuries that were assessed in the previous vocational independence or capacity for work assessment.
-(3) The claimant may give the Corporation information to assist the Corporation to reach a belief under subsection (2)⁠(b).
+(3) The claimant may give the Corporation information to assist the Corporation to reach a belief under subsection (2)﻿(b).
 
 ### 110 Notice to claimant in relation to assessment of vocational independence
 (1) The Corporation must give written notice to a claimant required by the Corporation to participate in an assessment of his or her vocational independence.
@@ -1451,8 +1448,8 @@ If the Corporation determines under section 105(2) that the claimant is able to 
 
 ### 111 How determination that claimant has vocational independence is to be regarded
 If the Corporation determines under section 107 that a claimant has vocational independence, the determination is to be regarded as—
-  (a) a determination under section 103 that the claimant no longer has an incapacity for employment, in relation to a claimant to whom that section applies, but section 112 applies instead of section 104(a)⁠(i); or
-  (b) a determination under section 105 that the claimant is able to engage in work for which he or she is suited by reason of experience, education, or training, or any combination of those things, in relation to a claimant to whom that section applies, but section 112 applies instead of section 106(a)⁠(i).
+  (a) a determination under section 103 that the claimant no longer has an incapacity for employment, in relation to a claimant to whom that section applies, but section 112 applies instead of section 104(a)﻿(i); or
+  (b) a determination under section 105 that the claimant is able to engage in work for which he or she is suited by reason of experience, education, or training, or any combination of those things, in relation to a claimant to whom that section applies, but section 112 applies instead of section 106(a)﻿(i).
 
 ### 112 Claimant with vocational independence loses entitlement to weekly compensation
 If the Corporation determines under section 107 that a claimant has vocational independence, the claimant loses his or her entitlement to weekly compensation 3 months after the date on which he or she is notified of the determination.
@@ -1597,7 +1594,7 @@ If the Corporation determines under section 107 that a claimant has vocational i
     (iii) the Corporation, if the Corporation is liable to provide the allowance and the Corporation agrees to the assignment; or
   (c) sections 4 and 5 of the Maori Housing Act 1935; or
   (d) sections 84F to 84M of the District Courts Act 1947; or
-  (e) sections 87(2)⁠(b), 88AE(1)⁠(a), 103, 104, 105, 106, 106A, and 106B of the Summary Proceedings Act 1957; or
+  (e) sections 87(2)﻿(b), 88AE(1)﻿(a), 103, 104, 105, 106, 106A, and 106B of the Summary Proceedings Act 1957; or
   (f) section 27Y of the Social Security Act 1964 (as saved by section 256(1) of the Child Support Act 1991) or sections 71 and 86A of the Social Security Act 1964; or
   (g) sections 105, 110, 118, and 121 of the Family Proceedings Act 1980 (as saved by section 259(1) of the Child Support Act 1991); or
   (h) the Child Support Act 1991; or
@@ -1651,7 +1648,7 @@ The Corporation must not pay for costs incurred outside New Zealand for any reha
 (3) The Corporation may open an account at a bank in New Zealand in the claimant's name, and at his or her expense, for that purpose.
 
 ### 131 Advances of compensation and grants
-(1) Except as provided in this section, section 123(2)⁠(b), and clause 67 of Schedule 1, the Corporation must not pay any compensation, grant, or allowance in advance.
+(1) Except as provided in this section, section 123(2)﻿(b), and clause 67 of Schedule 1, the Corporation must not pay any compensation, grant, or allowance in advance.
 (2) The Corporation may pay weekly compensation or a survivor's grant without the full details necessary to support the relevant claim if—
   (a) details of earnings of any person are not available, and their unavailability is not due to the fault of that person; or
   (b) a person is missing and the Corporation is satisfied—
@@ -1704,7 +1701,7 @@ If any amount is payable by the Corporation under this Act on a weekly basis and
     (ii) the date on which the Corporation gives notice under section 64; or
     (iii) in the case of a decision under the Code, the date on which the claimant is notified of the decision:
   (g) in the case of a review application relating to a claim for entitlement, not be made less than 21 days after the date the claim for entitlement is made.
-(3) Despite subsection (2)⁠(f) and (g) and any time frame prescribed in regulations made under section 328A for the lodgement of a review application, the Corporation must accept a late application if satisfied that there are extenuating circumstances that affected the ability of the claimant to meet the time limits, such as—
+(3) Despite subsection (2)﻿(f) and (g) and any time frame prescribed in regulations made under section 328A for the lodgement of a review application, the Corporation must accept a late application if satisfied that there are extenuating circumstances that affected the ability of the claimant to meet the time limits, such as—
   (a) where the claimant was so affected or traumatised by the personal injury giving rise to the review that he or she was unable to consider his or her review rights; or
   (b) where the claimant made reasonable arrangements to have the application made on his or her behalf by an agent of the claimant, and the agent unreasonably failed to ensure that the application was made within the required time; or
   (c) where the Corporation failed to notify the claimant of the obligations of persons making an application.
@@ -1792,8 +1789,8 @@ The following persons are entitled to be present at the hearing, with a represen
   (a) dismiss the application; or
   (b) modify the Corporation's decision; or
   (c) quash the Corporation's decision; or
-  (d) direct the Corporation to make a decision within a time frame specified by the reviewer if the Corporation has not made the decision in a timely manner as contemplated by sections 54 and 134(1)⁠(b); or
-  (e) make the decision for the Corporation if it has not made a decision in a timely manner as contemplated by sections 54 and 134(1)⁠(b).
+  (d) direct the Corporation to make a decision within a time frame specified by the reviewer if the Corporation has not made the decision in a timely manner as contemplated by sections 54 and 134(1)﻿(b); or
+  (e) make the decision for the Corporation if it has not made a decision in a timely manner as contemplated by sections 54 and 134(1)﻿(b).
 (4) If the reviewer quashes the Corporation's decision, the reviewer must—
   (a) substitute the reviewer's decision for that of the Corporation; or
   (b) require the Corporation to make the decision again in accordance with directions the reviewer gives.
@@ -1822,7 +1819,7 @@ The following persons are entitled to be present at the hearing, with a represen
   (a) must award the applicant costs and expenses, if the reviewer makes a review decision fully or partly in favour of the applicant:
   (b) may award the applicant costs and expenses, if the reviewer does not make a review decision in favour of the applicant but considers that the applicant acted reasonably in applying for the review:
   (c) may award any other person costs and expenses, if the reviewer makes a review decision in favour of the person.
-(3) If a review application is made and the Corporation revises its decision fully or partly in favour of the applicant for review before a review is heard, whether before or after a reviewer is appointed and whether or not a review hearing has been scheduled, the Corporation must award costs and expenses on the same basis as a reviewer would under subsection (2)⁠(a).
+(3) If a review application is made and the Corporation revises its decision fully or partly in favour of the applicant for review before a review is heard, whether before or after a reviewer is appointed and whether or not a review hearing has been scheduled, the Corporation must award costs and expenses on the same basis as a reviewer would under subsection (2)﻿(a).
 (4) The award of costs and expenses under this section must be in accordance with regulations made for the purpose.
 (5) If any costs and expenses are awarded against the Corporation under this section, the Corporation is liable to pay them within 28 days of the decision to award them.
 
@@ -1933,7 +1930,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
     (i) a party to the appeal; or
     (ii) a person who is entitled to appear and be heard; or
     (iii) a witness.
-(2) The court may make an order under subsection (1) if it is of the opinion that it is necessary and appropriate to do so to protect the privacy of a person referred to in subsection (1)⁠(b), but the court may not make the order to protect the Corporation.
+(2) The court may make an order under subsection (1) if it is of the opinion that it is necessary and appropriate to do so to protect the privacy of a person referred to in subsection (1)﻿(b), but the court may not make the order to protect the Corporation.
 (3) An order under subsection (1)—
   (a) may be made for a limited period or permanently; and
   (b) if made for a limited period, may be renewed for a further period or periods; and
@@ -2001,6 +1998,28 @@ An appeal under section 149 is dealt with in accordance with the District Courts
   (g) a Treatment Injury Account for the purpose set out in section 228.
 (2) This Part and Part 7 apply in respect of the management of the Accounts.
 
+### 166A Principles of financial responsibility in relation to Accounts
+(1) The cost of all claims under the levied Accounts are to be fully funded by meeting the outstanding claims liability in respect of the claims by offsetting an adequate level of assets to fund the cost of those claims.
+(2) When making recommendations in respect of regulations made under section 329 setting levies, the Minister must have regard to the following principles:
+  (a) the levies derived for each Account should meet the lifetime cost of claims in relation to injuries that occur in a particular year:
+  (b) if an Account has a deficit of funds to meet the costs described in subsection (1), or has accumulated surplus funds, that deficit or surplus should be corrected by the setting of levies at an appropriate rate for a subsequent year or years:
+  (c) large changes in levies should be avoided.
+
+### 166B Funding policy statement
+(1) Within 12 months after the commencement of this section, the Minister must issue a funding policy statement.
+(2) The funding policy statement must specify—
+  (a) a target level or band for the funding of each Account; and
+  (b) an approach to managing deviations from the target level or band for the funding of each Account over a period of time; and
+  (c) limits (if any) on any annual levy changes for all or any of the Accounts; and
+  (d) the circumstances (if any) in which levy changes are not required.
+(3) The funding policy statement must be consistent with, and explain how it is consistent with, the financial responsibility principles in section 166A.
+(4) The funding policy statement may prescribe specific actions for the Corporation to take to the extent that any such action is consistent with the Corporation’s functions under section 262.
+(5) Sections 113 and 114 of the Crown Entities Act 2004 do not apply in respect of a funding policy statement.
+
+### 166C Consultation, publication, and amendment of funding policy statement
+(1) Section 115(1) to (3A) of the Crown Entities Act 2004 applies to the making of a funding policy statement as if it were a ministerial direction.
+(2) The Minister must consult such persons or organisations as the Minister considers appropriate before issuing the funding policy statement.
+
 **Work Account**
 
 ### 167 Application and source of funds
@@ -2023,8 +2042,8 @@ An appeal under section 149 is dealt with in accordance with the District Courts
   (g) audits and assessments referred to in section 175; and
   (h) any other expenditure authorised by this Act.
 (4) Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies payable under sections 168, 168A, 168B, and 211 to provide for or, to the extent that it is necessary, to provide separately for,—
-  (a) the purposes of subsection (3)⁠(a) to (d) and (f) to (h):
-  (b) the purposes of subsection (3)⁠(e), (f), and (h) and the purpose specified in section 169AA(1)⁠(a).
+  (a) the purposes of subsection (3)﻿(a) to (d) and (f) to (h):
+  (b) the purposes of subsection (3)﻿(e), (f), and (h) and the purpose specified in section 169AA(1)﻿(a).
 (5) Those regulations may also relate to the same or different prescribed periods.
 
 ### 168 Employers to pay levies
@@ -2056,7 +2075,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
     (ii) risk sharing between employers, private domestic workers, or self-employed persons, on the one hand, and the Corporation on the other; and
   (b) adjust the levies under sections 168, 168A, 168B, and 211 in relation to a particular employer, private domestic worker, or self-employed person on the basis of that system or those systems.
 (3) The systems referred to in subsection (2) may include no-claims bonuses, higher or lower levies, and claim thresholds.
-(4) None of the following applies, or can be made to apply, to the portion of the levies payable under sections 168, 168A, 168B, and 211 that is necessary to achieve the purpose specified in section 169AA(1)⁠(a):
+(4) None of the following applies, or can be made to apply, to the portion of the levies payable under sections 168, 168A, 168B, and 211 that is necessary to achieve the purpose specified in section 169AA(1)﻿(a):
   (a) any of the systems referred to in subsection (2):
   (b) section 175.
 
@@ -2065,7 +2084,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
   (a) the residual amount is to be completely paid off or funded no later than 31 March 2019:
   (b) the cost of all claims under the Work Account is fully funded.
 (2) The Minister may, by notice in the Gazette, specify the residual amount.
-(3) The Minister's power under subsection (2) may be exercised only once.
+(3)
 (4) In this section, residual amount means the amount that—
   (a) is specified by the Minister; and
   (b) represents, among other things, as at 30 June 2009, the sum of—
@@ -2083,7 +2102,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
 ### 170 Classification of industries or risks
 (1) The Corporation must classify an employer and a self-employed person in an industry or risk class that most accurately describes their activity, being an industry or risk class set out in regulations made under this Act for the following purposes:
   (a) setting levies payable under sections 168, 168B, and 211:
-  (b) setting those levies to include a portion that is necessary to achieve the purpose specified in section 169AA(1)⁠(a).
+  (b) setting those levies to include a portion that is necessary to achieve the purpose specified in section 169AA(1)﻿(a).
 (2) If an employer is engaged in 2 or more activities, the Corporation must classify all the employer's employees in the classification unit for whichever of those activities attracts the highest levy rate under the regulations.
 (3) Despite subsection (2), the Corporation may classify the employer's employees in separate classification units for different activities if the employer meets the threshold (if any) specified in regulations and if—
   (a) the employer so requests; and
@@ -2093,7 +2112,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
     (i) demonstrate the separate management and operation of each activity; and
     (ii) allocate to each activity the earnings of employees engaged solely in that activity.
 (4) Regulations made under this Act must prescribe a Work Account levy for each industry or risk class defined under subsection (1).
-(4A) The regulations referred to in subsection (4) that relate to an industry or risk class defined under subsection (1)⁠(a)—
+(4A) The regulations referred to in subsection (4) that relate to an industry or risk class defined under subsection (1)﻿(a)—
   (a) may, until the end of the 2009–10 tax year, prescribe the levies at different rates for employers and self-employed persons classified in the same industry or risk class; and
   (b) must, until the end of the 2009–10 tax year, prescribe the levies at a rate that does not increase or decrease the levy rate payable by employers or self-employed persons in a particular industry or particular risk class by more than 25% of the rate payable in the previous tax year; and
   (c) must, after the end of the 2009–10 tax year, prescribe the levies at the same rate for employers and self-employed persons classified in the same industry or risk class.
@@ -2117,7 +2136,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
     (a) is the total earnings on which the levy is paid by the employer in respect of that employee
     (b) is the total earnings on which the levy is paid by all employers in respect of that employee
     (c) is the total excess levy paid by all employers in respect of that employee.
-(3) An employer is not entitled to a refund under subsection (2)⁠(b) after the expiry of a period of 4 years beginning from the close of the tax year in respect of which the relevant Work Account levy was payable.
+(3) An employer is not entitled to a refund under subsection (2)﻿(b) after the expiry of a period of 4 years beginning from the close of the tax year in respect of which the relevant Work Account levy was payable.
 
 ### 172A Work Account levy not payable on earnings of self-employed person over specified maximum
 Nothing in this Act requires a self-employed person to pay a Work Account levy on earnings that exceed the specified maximum.
@@ -2150,7 +2169,7 @@ Nothing in this Act requires a self-employed person to pay a Work Account levy o
   (b) measure safety management practice or safety management capability, as the case may be, against independent New Zealand or foreign standards.
 (5) If any upward adjustment of levies under subsection (3) is to occur for a particular employer, sections 178 to 180 apply.
 (6) Adjustments to levies may be reassessed on the basis of any new audits or assessments.
-(7) Regulations made for the purposes of subsection (1)⁠(a) or (3) must, and regulations made for the purposes of subsection (1)⁠(b) may, provide for the following matters:
+(7) Regulations made for the purposes of subsection (1)﻿(a) or (3) must, and regulations made for the purposes of subsection (1)﻿(b) may, provide for the following matters:
   (a) the level or levels of levy adjustment for different levels of compliance assessed by the audit tool or tools:
   (b) the basis and conditions on which, and periods for which, Work Account levies may be adjusted:
   (c) the frequency of, and circumstances under which, there may be additional audits or assessments of an employer's or a self-employed person's safety management practices or capabilities:
@@ -2414,14 +2433,14 @@ A self-employed person who purchases weekly compensation under section 209 must 
 ### 213 Application and source of funds
 (1) The purpose of the Motor Vehicle Account is to—
   (a) finance entitlements provided under this Act in respect of motor vehicle injuries; and
-  (b) finance the cost of programmes to improve the safety of moped and motorcycle riders from the levy referred to in subsection (2)⁠(d).
+  (b) finance the cost of programmes to improve the safety of moped and motorcycle riders from the levy referred to in subsection (2)﻿(d).
 (2) The funds for the Motor Vehicle Account are to be derived from—
   (a) levies to be paid by every person registered under Part 17 of the Land Transport Act 1998 in respect of a motor vehicle; and
   (b) levies to be paid by every person who holds a trade plate issued under section 262(3) of that Act; and
   (c) a levy to be paid in accordance with section 214(4); and
   (d) the prescribed Motorcycle Safety levy; and
   (e) premiums payable under Part 11 that relate to motor vehicle injuries.
-(3) The levy payable under subsection (2)⁠(c) is payable—
+(3) The levy payable under subsection (2)﻿(c) is payable—
   (a) on any fuel (or any category of fuel) specified in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) that is prescribed by regulations made under this Act; or
   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), on any motor spirit in respect of which excise duty or excise-equivalent duty is for the time being payable under the Customs and Excise Act 1996.
 (4)
@@ -2432,25 +2451,25 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (c) administering the Account; and
   (d) any other expenditure authorised by this Act.
 (6) To avoid doubt,—
-  (a) subsection (1)⁠(b) does not limit or affect section 263; and
-  (b) section 263 (except section 263(3)⁠(b)) applies to the programmes referred to in subsection (1)⁠(b) as if the references to measures in section 263 were references to the programmes.
+  (a) subsection (1)﻿(b) does not limit or affect section 263; and
+  (b) section 263 (except section 263(3)﻿(b)) applies to the programmes referred to in subsection (1)﻿(b) as if the references to measures in section 263 were references to the programmes.
 (7) Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies (except the Motorcycle Safety levy) to provide for or, to the extent that it is necessary, to provide separately for,—
-  (a) the purposes of subsection (5)⁠(a), (b), (c), and (d):
-  (b) the purposes of subsection (5)⁠(ba), (c), and (d) and the purpose specified in section 215(1)⁠(a).
+  (a) the purposes of subsection (5)﻿(a), (b), (c), and (d):
+  (b) the purposes of subsection (5)﻿(ba), (c), and (d) and the purpose specified in section 215(1)﻿(a).
 
 ### 214 Rate of levies
 (1) A person registered under Part 17 of the Land Transport Act 1998 in respect of a motor vehicle must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
 (2) A person who holds a trade plate issued under section 262(3) of the Land Transport Act 1998 must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
 (3) A registered owner of a motor vehicle that is a moped or motorcycle must pay, in accordance with this Act and regulations made under it, the prescribed Motorcycle Safety levy.
 (3A) Subsection (3) does not limit or affect subsection (1).
-(4) The levy payable under section 213(2)⁠(c) is payable—
+(4) The levy payable under section 213(2)﻿(c) is payable—
   (a) at the rate or rates per litre or other unit prescribed by regulations made under this Act; or
   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), at the rate of 5.08 cents per litre of motor spirit in respect of which excise duty or excise-equivalent duty is payable under the Customs and Excise Act 1996.
 (4A) In this section and in section 213, a reference to excise duty or excise-equivalent duty being payable includes a reference to excise duty or excise-equivalent duty being payable except that the rate of duty is zero.
 (4B) The levy must be paid to the New Zealand Customs Service—
   (a) by the person who would be liable to pay excise duty or excise-equivalent duty if any were payable; and
   (b) when any excise duty or excise-equivalent duty would be paid if any were payable.
-(5) The rate or rates of the levy prescribed by regulations made under this Act, and the rate prescribed by subsection (4)⁠(b), are exclusive of goods and services tax.
+(5) The rate or rates of the levy prescribed by regulations made under this Act, and the rate prescribed by subsection (4)﻿(b), are exclusive of goods and services tax.
 
 ### 215 Basis on which funds to be calculated
 (1) The extent of funds to be derived under section 213(2) is to be calculated to achieve the following purposes:
@@ -2458,17 +2477,17 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (b) the cost of all claims under the Motor Vehicle Account is to be fully funded.
 (2) Subsection (1) does not apply to the Motorcycle Safety levy.
 (3) The Minister may, by notice in the Gazette, specify the residual amount.
-(4) The Minister's power under subsection (3) may be exercised only once.
+(4)
 (5) In this section, residual amount means the amount that—
   (a) is specified by the Minister; and
-  (b) represents, among other things, as at 30 June 2009, the estimated value of the outstanding claims liability for the Motor Vehicle Account (minus the value of any accrued assets) in respect of the claims described in section 213(5)⁠(ba).
+  (b) represents, among other things, as at 30 June 2009, the estimated value of the outstanding claims liability for the Motor Vehicle Account (minus the value of any accrued assets) in respect of the claims described in section 213(5)﻿(ba).
 
 ### 216 Levy categories
 (1) Regulations made under this Act may establish a system for differential levies in relation to all or any of the following or categories of the following:
   (a) motor vehicles:
   (b) persons registered under Part 17 of the Land Transport Act 1998 in respect of motor vehicles:
   (c) persons who hold trade plates under section 262(3) of the Land Transport Act 1998.
-  (d) fuel in respect of which a levy is payable under section 213(2)⁠(c).
+  (d) fuel in respect of which a levy is payable under section 213(2)﻿(c).
 (2) The regulations may also classify all or any of the following, or categories of the following, into classes that most accurately describe their risk rating and may impose levies at different rates in relation to those classes in accordance with the system of differential levies referred to in subsection (1):
   (a) motor vehicles:
   (b) registered owners of motor vehicles:
@@ -2477,16 +2496,16 @@ A self-employed person who purchases weekly compensation under section 209 must 
 
 ### 217 Collection of levies
 (1) The levies payable under section 214(1) or (2) are payable on application for a motor vehicle licence under section 244 of the Land Transport Act 1998 or on application for a trade plate under section 262 of that Act (as the case may require) or in any other prescribed manner.
-(2) The levy payable under section 213(2)⁠(c) on any fuel is payable—
+(2) The levy payable under section 213(2)﻿(c) on any fuel is payable—
   (a) in the manner prescribed by regulations made under this Act; or
   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), with any excise or excise-equivalent duty that is payable on that fuel.
 (3) The Motorcycle Safety levy is payable in the prescribed manner.
 (4) Any person who receives any payment of any motor vehicle levy payable to the Corporation must pay that levy to the Corporation not later than the end of the month after the month in which that levy is received.
-(4A) However, in the case of the levy payable under section 213(2)⁠(c), an agent who collects any amount of the levy on the Corporation's behalf must pay that amount to the Corporation—
+(4A) However, in the case of the levy payable under section 213(2)﻿(c), an agent who collects any amount of the levy on the Corporation's behalf must pay that amount to the Corporation—
   (a) in the manner prescribed by regulations made under this Act; or
   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), in the manner agreed by the Corporation and the agent.
 (5) No penalty is payable in respect of any amount due under this section if the person satisfies the Corporation that the motor vehicle was not used on a road during the period for which the levy was due but not paid.
-(6) Subsection (5) does not apply to the levy payable under section 213(2)⁠(c).
+(6) Subsection (5) does not apply to the levy payable under section 213(2)﻿(c).
 
 **Earners' Account**
 
@@ -2512,8 +2531,8 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (f) administering the Account; and
   (g) any other expenditure authorised by this Act.
 (5) Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies to provide for or, to the extent that it is necessary, to provide separately for,—
-  (a) the purposes of subsection (4)⁠(a) to (e), (f), and (g):
-  (b) the purposes of subsection (4)⁠(ea), (f), and (g) and the purpose specified in section 220A(1)⁠(a).
+  (a) the purposes of subsection (4)﻿(a) to (e), (f), and (g):
+  (b) the purposes of subsection (4)﻿(ea), (f), and (g) and the purpose specified in section 220A(1)﻿(a).
 
 ### 219 Earners to pay levies
 (1) An earner must pay, in accordance with this Act and regulations made under it, levies to fund the Earners' Account.
@@ -2529,10 +2548,10 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (a) the residual amount is to be completely paid off or funded no later than 31 March 2019:
   (b) the cost of all claims under the Earners' Account is to be fully funded by levies.
 (2) The Minister may, by notice in the Gazette, specify the residual amount.
-(3) The Minister's power under subsection (2) may be exercised only once.
+(3)
 (4) In this section, residual amount means the amount that—
   (a) is specified by the Minister; and
-  (b) represents, among other things, as at 30 June 2009, the estimated value of the outstanding claims liability for the Earners' Account (minus the value of any accrued assets) in respect of the claims described in section 218(4)⁠(ea).
+  (b) represents, among other things, as at 30 June 2009, the estimated value of the outstanding claims liability for the Earners' Account (minus the value of any accrued assets) in respect of the claims described in section 218(4)﻿(ea).
 
 ### 221 Collection of levies by deduction from employee earnings
 (1) For the purpose of enabling the collection of the levies payable under section 219 by instalments,—
@@ -2557,12 +2576,12 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (b) the period for which the application is applicable, which may not be more than 2 years; and
   (c) an amount that is to be regarded as the earnings of the person for the purpose of the application, which may not exceed the weekly earnings of the person calculated under Schedule 1 as if—
     (i) the person were in permanent employment; and
-    (ii) the person had an incapacity that commenced on the last full day of the employment referred to in subsection (2)⁠(a) and that resulted from a personal injury for which he or she had cover; and
+    (ii) the person had an incapacity that commenced on the last full day of the employment referred to in subsection (2)﻿(a) and that resulted from a personal injury for which he or she had cover; and
     (iia) the weekly earnings were to be calculated for a period of incapacity after the first 5 weeks of incapacity; and
     (iii) the person would have continued to derive earnings from that employment but for that incapacity.
 (4) The application has no effect in respect of any personal injury suffered before the application is made.
 (5) A person who has cover under this section for any period is entitled to renew his or her cover if he or she does not return to work before that cover period expires.
-(6) A person who is on parental leave within the meaning of the Parental Leave and Employment Protection Act 1987, or who has had an application for parental leave approved under that Act, is regarded as being still in employment for the purposes of subsection (2) and, for the purposes of subsection (3)⁠(c), the person’s weekly earnings are to be calculated as if the period of incapacity was before the commencement of the person’s parental leave.
+(6) A person who is on parental leave within the meaning of the Parental Leave and Employment Protection Act 1987, or who has had an application for parental leave approved under that Act, is regarded as being still in employment for the purposes of subsection (2) and, for the purposes of subsection (3)﻿(c), the person’s weekly earnings are to be calculated as if the period of incapacity was before the commencement of the person’s parental leave.
 
 ### 224 Compensation for persons who purchase weekly compensation
 (1) A person who has purchased the right to receive weekly compensation under section 223 is entitled to weekly compensation for loss of potential earning capacity as if that person had earnings at the rate specified in the relevant agreement between the person and the Corporation, and Part 4 and Parts 2 and 4 of Schedule 1 apply accordingly, if the person—
@@ -2590,7 +2609,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
 (3) The funds in the Non-Earners' Account must be applied to meet the costs of—
   (a) entitlements in respect of non-earners who have cover for personal injury (other than motor vehicle injury or treatment injury); and
   (b) entitlements in respect of employees of foreign representatives who suffer work-related personal injury in their employment with that foreign representative; and
-  (c) entitlements required to be funded in accordance with section 228(2)⁠(b); and
+  (c) entitlements required to be funded in accordance with section 228(2)﻿(b); and
   (d) entitlements that are required to be provided in accordance with Part 11 in respect of persons whose entitlements would have been provided from the Non-Earner's Account under the Accident Insurance Act 1998; and
   (e) administering the Account; and
   (f) any other expenditure authorised by this Act.
@@ -2652,7 +2671,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (b) pay to the Corporation, on or before the due date,—
     (i) the Work Account levy, at the rate prescribed, to the extent that it applied to the person's earnings as a self-employed person in that tax year; and
     (ii) the earner levy, at the rate prescribed, to the extent that it applied to the person's earnings as a self-employed person in that tax year.
-(2) The provisions of this section (other than subsection (1)⁠(b)⁠(ii)) and sections 239 and 329(1)⁠(b) apply, with any necessary modifications, to private domestic workers.
+(2) The provisions of this section (other than subsection (1)﻿(b)﻿(ii)) and sections 239 and 329(1)﻿(b) apply, with any necessary modifications, to private domestic workers.
 
 ### 234 Levies may be collected by instalments
 (1) The Corporation may collect any levy by instalments if the person liable to pay the levy agrees.
@@ -2664,7 +2683,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
 
 ### 236 Challenges to levies
 (1) Any person who is dissatisfied with any decision of the Corporation in respect of any levy paid or payable or claimed to be payable under this Part by that person may seek a review by the Corporation of that decision within 3 months after the person is notified of the decision.
-(2) However, no right of review exists under this Act in respect of the calculation for the purposes of the Income Tax Act 2007 of the taxable income of any person or in respect of the levy payable under section 213(2)⁠(c).
+(2) However, no right of review exists under this Act in respect of the calculation for the purposes of the Income Tax Act 2007 of the taxable income of any person or in respect of the levy payable under section 213(2)﻿(c).
 (3) The entitlements that have been given or are to be given to any person under this Act may not be challenged in any review under subsection (1).
 (4) A review brought under subsection (1) must be dealt with by the Corporation under Part 5, and that Part (including the provisions relating to appeals) applies with any necessary modifications.
 
@@ -2779,9 +2798,9 @@ If any person (with the consent of the Commissioner) changes the date of the ann
   (a) any unpaid levy; and
   (b) any unpaid instalment payment in respect of any levy; and
   (c) any unpaid interest that has been charged already.
-(4) If the total amount referred to in subsection (3)⁠(a) to (c) has not been paid within 210 days after the due date, the person is liable to pay to the Corporation a further penalty at the rate of 10% in respect of the total unpaid amount; and, every 180 days after that 210-day period, the person is liable to pay to the Corporation a further penalty at the rate of 10% in respect of the total amount that remains unpaid.
+(4) If the total amount referred to in subsection (3)﻿(a) to (c) has not been paid within 210 days after the due date, the person is liable to pay to the Corporation a further penalty at the rate of 10% in respect of the total unpaid amount; and, every 180 days after that 210-day period, the person is liable to pay to the Corporation a further penalty at the rate of 10% in respect of the total amount that remains unpaid.
 (5) The Corporation must give a person to whom subsection (4) applies at least 15 days' notice of—
-  (a) the total amount referred to in subsection (3)⁠(a) to (c); and
+  (a) the total amount referred to in subsection (3)﻿(a) to (c); and
   (b) the rate of penalty; and
   (c) the date on and from which the penalty is to be applied.
 (6) A person to whom this section applies is not liable to pay interest and penalties under this section more than an amount equal to 3 times the amount of the unpaid levy or overdue instalment debt.
@@ -2833,8 +2852,8 @@ If any person (with the consent of the Commissioner) changes the date of the ann
 (1) If the Corporation is satisfied that a levy payable under this Act has been paid in excess of the amount properly payable, the Corporation must—
   (a) refund the amount paid in excess; or
   (b) credit any amount so paid in excess on account against the amount of any other levy or other amount that may for the time being be due and payable by the person by whom the payment in excess was made, and notify the person accordingly.
-(1A) Levies paid under section 213(2)⁠(c) are refundable to the persons or classes of person, to the extent, and in the manner, prescribed by regulations made under this Act, and any refundable amount must be paid by the Corporation or an agent of the Corporation in accordance with the regulations.
-(2) The Corporation may refrain from making a refund under subsection (1)⁠(a), or notifying the crediting of an amount under subsection (1)⁠(b) or making a refund under subsection (1A), if the amount of the refund or credit is less than $20.
+(1A) Levies paid under section 213(2)﻿(c) are refundable to the persons or classes of person, to the extent, and in the manner, prescribed by regulations made under this Act, and any refundable amount must be paid by the Corporation or an agent of the Corporation in accordance with the regulations.
+(2) The Corporation may refrain from making a refund under subsection (1)﻿(a), or notifying the crediting of an amount under subsection (1)﻿(b) or making a refund under subsection (1A), if the amount of the refund or credit is less than $20.
 (3) No amount collected under this Act by the Commissioner may be refunded or credited under this section after the expiration of the period of 8 years immediately after the end of the year in which the relevant levy was payable.
 
 ### 256 Application of payments
@@ -2893,7 +2912,7 @@ Except as otherwise specified in this Act or as required by virtue of any delega
 (5) The Corporation must ensure that such measures are co-ordinated with similar activities of other government agencies to contribute to the overall injury prevention objectives in an efficient and effective way.
 
 ### 264 Money expended or received for injury prevention to be managed through Accounts
-All money received by the Corporation for injury prevention purposes under section 263(3)⁠(b) and (c), and the expenditure of any money under section 263, must be allocated and managed through the Account or Accounts maintained and operated by the Corporation under section 166 in respect of which a reduction in levy rates or expenditure is expected.
+All money received by the Corporation for injury prevention purposes under section 263(3)﻿(b) and (c), and the expenditure of any money under section 263, must be allocated and managed through the Account or Accounts maintained and operated by the Corporation under section 166 in respect of which a reduction in levy rates or expenditure is expected.
 
 ### 265 Ancillary powers of Corporation
 (1) In addition to services required to be provided under this Act, the Corporation may provide services under subsection (2) or (4)—
@@ -2922,7 +2941,7 @@ All money received by the Corporation for injury prevention purposes under secti
 (4) The returns generated by the activities of any Crown entity subsidiary must be applied by the Corporation on a basis determined in the statement of intent under section 272 or (in the absence of such a determination) in a policy direction under section 103 of the Crown Entities Act 2004.
 
 ### 267 Board of Corporation
-(1) The Board of the Corporation consists of not more than 8 members appointed by the Minister under section 28(1)⁠(a) of the Crown Entities Act 2004.
+(1) The Board of the Corporation consists of not more than 8 members appointed by the Minister under section 28(1)﻿(a) of the Crown Entities Act 2004.
 (2) A person is not interested in a matter for the purposes of section 62(2) of the Crown Entities Act 2004 only because he or she is a taxpayer or private motorist.
 (3)
 (4)
@@ -3052,9 +3071,9 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
   (i) levy setting:
   (j) scheme management.
 (2) The Corporation must collect—
-  (a) such information as is prescribed for the purposes set out in subsection (1)⁠(a) to (i) by regulations made under this Act:
+  (a) such information as is prescribed for the purposes set out in subsection (1)﻿(a) to (i) by regulations made under this Act:
   (b) information for such of the purposes set out in section 287 that are prescribed by regulations made under this Act.
-(3) Information prescribed for the purpose set out in subsection (1)⁠(a) must include information about the circumstances of the personal injury, the nature and severity of the personal injury, and its consequences.
+(3) Information prescribed for the purpose set out in subsection (1)﻿(a) must include information about the circumstances of the personal injury, the nature and severity of the personal injury, and its consequences.
 
 **Disclosure of information**
 
@@ -3073,7 +3092,7 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 ### 281 Disclosure of information by Corporation for benefit and benefit debt recovery purposes
 (1) In this section, unless the context otherwise requires, benefit has the same meaning as in section 3(1) of the Social Security Act 1964; and includes—
   (a) a lump sum payable under any of sections 61DB, 61DC, and 61DD of that Act:
-  (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)⁠(d) or (da) of that Act.
+  (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)﻿(d) or (da) of that Act.
   (c) an allowance established by regulations made under section 303 of the Education Act 1989.
 (2) The purpose of this section is to facilitate the disclosure of information by the Corporation to the department for the time being responsible for the administration of the Social Security Act 1964 for all or any of the following purposes:
   (a) to verify the entitlement or eligibility of any person to or for any benefit:
@@ -3110,7 +3129,7 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 ### 284 Reporting of risk of harm to public
 (1) This section applies to information collected by the Corporation in the course of processing claims—
   (a) for treatment injury; or
-  (b) for personal injury of a type described in section 20(2)⁠(d); or
+  (b) for personal injury of a type described in section 20(2)﻿(d); or
   (c) for personal injury caused by medical misadventure; or
   (d) that are in the nature of claims for treatment injury, but are caused by a person who is not a registered health professional.
 (2) If the Corporation believes, from information referred to in subsection (1), there is a risk of harm to the public, the Corporation must report the risk, and any other relevant information, to the authority responsible for patient safety in relation to the treatment that caused the personal injury.
@@ -3133,7 +3152,7 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
   (c) to ensure appropriate co-ordination of activities with the Corporation and other relevant agencies:
   (d) in the case of the Ministry of Business, Innovation, and Employment, to support the Ministry’s responsibilities for workforce development and employment creation.
 (3) The power conferred on the chief executive of the Ministry of Business, Innovation, and Employment and on WorkSafe by subsection (2) includes (without limitation) power to provide information received under this section to any agency designated under section 28B of the Health and Safety in Employment Act 1992, but only for the purpose of supporting the agency’s functions under that Act.
-(4) The Corporation must provide the information in accordance with the agreement referred to in subsection (1)⁠(b).
+(4) The Corporation must provide the information in accordance with the agreement referred to in subsection (1)﻿(b).
 (5) In subsection (2), relevant Acts means—
   (a) Disabled Persons Employment Promotion Act 1960:
   (b) Employment Relations Act 2000:
@@ -3223,8 +3242,8 @@ An information manager's operations are to be funded by either or both of the fo
   (c) the Corporation must provide any treatment in accordance with this Act required as a result of the subsequent injury:
   (d) the Corporation must ensure that the claimant receives any other entitlements, whether arising from the subsequent injury or the previous injury:
   (e) unless the Corporation is satisfied that the subsequent injury does not have a material impact on entitlements from the previous injury, the insurer and the Corporation must jointly consider the situation arising from the fact that there have been 2 personal injuries to the claimant and seek to reach an agreement on the appropriate mix of obligations they will have in respect of the claimant's entitlements, both in terms of managing the claimant's claims and rehabilitation and in terms of financial responsibility for the claimant's entitlements.
-(2) In seeking to reach agreement under subsection (1)⁠(e), the insurer and the Corporation must be guided by the purpose set out in section 294(2).
-(3) An agreement under subsection (1)⁠(e)—
+(2) In seeking to reach agreement under subsection (1)﻿(e), the insurer and the Corporation must be guided by the purpose set out in section 294(2).
+(3) An agreement under subsection (1)﻿(e)—
   (a) either—
     (i) must normally include provision for one of the parties to take sole management responsibility for the claims in return for certain payments by the other; or
     (ii) may include provision for the parties to share management of the claims, but only if it is necessary for the claimant's successful rehabilitation and it does not unreasonably inconvenience the claimant; and
@@ -3234,8 +3253,8 @@ An information manager's operations are to be funded by either or both of the fo
 (5) Despite the Privacy Act 1993, both the insurer and the Corporation must exchange personal information about the claimant necessary to enable them to reach an appropriate agreement and to provide entitlements.
 
 ### 296 Failure to reach agreement
-(1) If the insurer and the Corporation are unable to reach an agreement under section 295(1)⁠(e) within 3 months of the subsequent injury being suffered, they must jointly engage a mediator in an endeavour to reach an agreement.
-(2) If the insurer and the Corporation are still unable to reach an agreement under section 295(1)⁠(e) at the conclusion of the mediation, either party may apply to the District Court for a determination as to how the claimant's entitlements should be managed and paid for.
+(1) If the insurer and the Corporation are unable to reach an agreement under section 295(1)﻿(e) within 3 months of the subsequent injury being suffered, they must jointly engage a mediator in an endeavour to reach an agreement.
+(2) If the insurer and the Corporation are still unable to reach an agreement under section 295(1)﻿(e) at the conclusion of the mediation, either party may apply to the District Court for a determination as to how the claimant's entitlements should be managed and paid for.
 (3) Any application to the District Court under this section must be made to the District Court specified in regulations for that purpose and must be made in the prescribed manner.
 (4) In determining an application under this section, the District Court must have regard to the purpose set out in section 294(2) and must make a determination about which party or parties is or are liable to provide or manage the claimant's entitlements in respect of both the previous injury and the subsequent injury, and in doing so must incorporate any matters that have already been agreed between the parties.
 (5) A determination of the District Court may allocate responsibility on a specified basis to either the insurer and the Corporation or to both, including in relation to entitlements that have already been provided and in relation to entitlements that are to be provided.
@@ -3326,11 +3345,11 @@ The Minister of Health acts on behalf of the Crown under sections 301 and 302.
   (b) posting it to a usual address of the person; or
   (c) sending it to the person by fax or some other electronic means; or
   (d) providing it to the person in a manner approved by the person.
-(4) A document personally delivered under subsection (3)⁠(a) must, if delivered to a corporate body, be delivered to the corporate body's offices during working hours.
-(5) A document posted under subsection (3)⁠(b) is deemed to have been delivered to the person at the time it would have been delivered in the ordinary course of post. For the purposes of proving delivery,—
+(4) A document personally delivered under subsection (3)﻿(a) must, if delivered to a corporate body, be delivered to the corporate body's offices during working hours.
+(5) A document posted under subsection (3)﻿(b) is deemed to have been delivered to the person at the time it would have been delivered in the ordinary course of post. For the purposes of proving delivery,—
   (a) it is sufficient to prove that the document was properly addressed; and
   (b) the document is presumed, in the absence of proof to the contrary, to have been posted on the day on which it was dated.
-(6) A document sent under subsection (3)⁠(c) is deemed, in the absence of proof to the contrary, to be delivered on the day after the day on which it is sent, and it is sufficient proof of sending that a correct machine-generated acknowledgement of receipt exists.
+(6) A document sent under subsection (3)﻿(c) is deemed, in the absence of proof to the contrary, to be delivered on the day after the day on which it is sent, and it is sufficient proof of sending that a correct machine-generated acknowledgement of receipt exists.
 (7) This section is subject to section 52 and to any provision of this Act that specifically provides how a document is to be given.
 
 **Offences and penalties generally**
@@ -3403,8 +3422,8 @@ A person who commits an offence against this Act or any regulations made under i
   (c) knowingly provides altered, false, incomplete, or misleading information to the Corporation or any other person in respect of any matter or thing affecting a deduction required to be made under section 221; or
   (d) causes or attempts to cause any employer, any PAYE intermediary or a private domestic worker or other person to refrain from making a deduction required to be made under section 221 or to make a lesser deduction than the deduction required to be made under section 221; or
   (e) obtains or attempts to obtain, for the person's own advantage or benefit, credit with respect to, or a payment of, the whole or any part of the amount of a deduction made in accordance with section 221 from an amount included in the earnings of any other person.
-(2) A person may not be convicted of an offence under subsection (1)⁠(a) if the person satisfies the court that the amount of the deduction required to be made under section 221 has been paid to the Corporation or an agent of the Corporation, and that the person's failure to make payment of the deduction within the prescribed time was due to illness, accident, or other cause beyond the person's control.
-(3) A person who commits an offence against subsection (1)⁠(b) is liable, on each occasion the person is convicted, to imprisonment for a term not exceeding 5 years or a fine not exceeding $50,000.
+(2) A person may not be convicted of an offence under subsection (1)﻿(a) if the person satisfies the court that the amount of the deduction required to be made under section 221 has been paid to the Corporation or an agent of the Corporation, and that the person's failure to make payment of the deduction within the prescribed time was due to illness, accident, or other cause beyond the person's control.
+(3) A person who commits an offence against subsection (1)﻿(b) is liable, on each occasion the person is convicted, to imprisonment for a term not exceeding 5 years or a fine not exceeding $50,000.
 (4) A person who commits an offence against any of paragraphs (a), (c), (d), and (e) of subsection (1) is liable,—
   (a) the first time the person is convicted in relation to a particular type of offence, to a fine not exceeding $25,000:
   (b) on every other occasion the person is convicted for the same type of offence, to a fine not exceeding $50,000.
@@ -3622,7 +3641,7 @@ For the purposes of Part 5, the Governor-General may, on the recommendation of t
   (a) setting out a framework or rules (or both) governing the conduct of alternative dispute resolution:
   (b) requiring the Corporation to pay costs to claimants at the appropriate rate or scale specified in the regulations, which costs may apply whether or not regulations are for the time being in force under paragraph (a):
   (c) prescribing the time frames for the lodging of review applications about matters under Part 5 that undergo an alternative dispute resolution procedure, which time frames may be longer (but not less) than those set out in section 135(2).
-(2) In the absence of regulations for the time being in force under subsection (1)⁠(a), the use of alternative dispute resolution and the manner in which it is to be conducted is a matter for agreement between the Corporation and the claimant.
+(2) In the absence of regulations for the time being in force under subsection (1)﻿(a), the use of alternative dispute resolution and the manner in which it is to be conducted is a matter for agreement between the Corporation and the claimant.
 
 ### 329 Regulations relating to levies
 (1) For the purposes of Part 6, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
@@ -3639,7 +3658,7 @@ For the purposes of Part 5, the Governor-General may, on the recommendation of t
   (h) specifying the threshold that must be met for the purpose of multiple classification in section 170, being a threshold based on the liable earnings of groups of employees or the overall levy payable by the employer:
   (i) prescribing the rate of interest payable on any amount under section 250(3) and the method by which the prescribed rate is to be applied (for example, 7.5% compounding monthly on the outstanding amount unpaid):
   (j) providing for levy adjustments and any matters relating to audits of safety management practices referred to in section 175(7):
-  (k) prescribing, in relation to the levy payable under section 213(2)⁠(c),—
+  (k) prescribing, in relation to the levy payable under section 213(2)﻿(c),—
     (i) the fuels in respect of which the levy is payable:
     (ii) the category or categories of any fuel in respect of which the levy is payable:
     (iii) the rate or rates at which the levy is payable:
@@ -3649,41 +3668,48 @@ For the purposes of Part 5, the Governor-General may, on the recommendation of t
     (i) section 216(1); or
     (ii) section 216(2):
   (m) setting, in relation to a prescribed period, a portion of the Work Account, the Motor Vehicle Account, or the Earners' Account that is necessary to achieve,—
-    (i) in the case of the Work Account, the purpose specified in section 169AA(1)⁠(a); and
-    (ii) in the case of the Motor Vehicle Account, the purpose specified in section 215(1)⁠(a); and
-    (iii) in the case of the Earners' Account, the purpose specified in section 220A(1)⁠(a):
+    (i) in the case of the Work Account, the purpose specified in section 169AA(1)﻿(a); and
+    (ii) in the case of the Motor Vehicle Account, the purpose specified in section 215(1)﻿(a); and
+    (iii) in the case of the Earners' Account, the purpose specified in section 220A(1)﻿(a):
   (ma) prescribing the manner of payment of the Motorcycle Safety levy for the purposes of section 217(3):
   (n) prescribing classes of levy payers for the purposes of the Treatment Injury Account:
   (o) prescribing exempt amounts of levy for the purpose of section 244, which amounts may differ depending on whether the amount invoiced is for—
     (i) a single type of levy; or
     (ii) 2 or more different types of levies; or
     (iii) both.
-(2) Regulations made under subsection (1)⁠(ca) may—
+(2) Regulations made under subsection (1)﻿(ca) may—
   (a) specify the types of claims to which the system or systems of experience rating or of risk sharing referred to in section 169(2) apply; and
   (b) make different provision for different classes of levy payers or in respect of different industries or levies.
 
 ### 330 Consultation requirements for regulations relating to classifications, risk rating, or treatment injury
-The Minister may not make any recommendation in respect of regulations made under section 329(f) or (g) or (l)⁠(i) or (ma), or in relation to the Treatment Injury Account, without first consulting such persons or organisations as the Minister considers appropriate having regard to the subject matter of the proposed regulations.
+The Minister may not make any recommendation in respect of regulations made under section 329(f) or (g) or (l)﻿(i) or (ma), or in relation to the Treatment Injury Account, without first consulting such persons or organisations as the Minister considers appropriate having regard to the subject matter of the proposed regulations.
 
-### 331 Consultation requirements for regulations relating to levy setting
+### 331 Consultation and other requirements for regulations relating to levy setting
 (1) The Minister may not recommend the making of regulations under this Act prescribing the rates of levies unless the Minister has first received and considered a recommendation from the Corporation made in accordance with the provisions of this section.
 (2) The Corporation must consult levy payers before recommending to the Minister that such regulations be made, and that obligation to consult is satisfied if—
   (a) the Corporation publicly notifies its intention to recommend to the Minister that such regulations be made by publishing in the Gazette, and in a daily newspaper circulating in each of the cities of Auckland, Hamilton, Wellington, Christchurch, and Dunedin, a notice—
     (i) stating that the Corporation is proposing to recommend that such regulations be made; and
     (ii)
     (iii) explaining the Corporation's proposal to recommend the making of the proposed regulations, or stating where a copy of that explanation may be obtained; and
-    (iv) stating where copies of the Corporation's policy on fully funding outstanding claims liabilities may be obtained; and
+    (iv)
     (v) stating where copies of any actuarial valuation on which levies are based may be obtained; and
     (vi) inviting members of the public to make written submissions on the proposed regulations; and
     (vii) stating the last date on which the Corporation will receive written submissions on the proposed regulations (which date must be not less than 28 days after the date of the publication of the notice in the Gazette); and
-  (b) the Corporation considers all submissions on the proposed regulations that are received by the Corporation not later than the date stated under paragraph (a)⁠(vii).
-(3) The Corporation must, before recommending to the Minister the making of regulations under this Act prescribing the rates of levies,—
-  (a) develop a policy on fully funding the outstanding claims liability for the relevant Account; and
-  (b) have regard to that policy, in particular the funding requirements for the relevant Account, and any relevant policy direction given under section 103 of the Crown Entities Act 2004.
+  (b) the Corporation considers all submissions on the proposed regulations that are received by the Corporation not later than the date stated under paragraph (a)﻿(vii).
+(3) The Corporation must, when recommending to the Minister the making of regulations under this Act prescribing the rates of levies, give effect to—
+  (a) the funding policy statement issued under section 166B; and
+  (b) any relevant policy direction given under section 103 of the Crown Entities Act 2004.
 (4) The Corporation must, after recommending to the Minister the making of regulations under this Act prescribing the rates of levies, publish in the Gazette, and in a daily newspaper circulating in each of the cities of Auckland, Hamilton, Wellington, Christchurch, and Dunedin, a notice—
   (a) stating that such a recommendation has been made; and
   (b) stating where copies of the recommendation, and any information that accompanied the recommendation, may be obtained.
 (5) Nothing in this section obliges the Minister to accept the Corporation's recommendation or prevents the Minister recommending that the regulations prescribe rates of levies different from the rates recommended by the Corporation.
+(5A) The Corporation must prepare a report in relation to the rates of levies prescribed.
+(5B) The report required by subsection (5A) must—
+  (a) include, without limitation,—
+    (i) the long-term projections for the relevant Account of solvency rates, levy rates, Account balances, and the lifetime costs of claims in relation to injuries that occur in the year for which the levies apply; and
+    (ii) the key assumptions on which the projections are based, including the assumptions made about claims numbers, trends in underlying costs, growth of the units to which levy rates apply (for example, numbers of vehicles), investment returns, and assumptions about economic conditions and rehabilitation performance; and
+  (b) be prepared in accordance with generally accepted practice within the insurance sector in New Zealand; and
+  (c) be published at the time the regulations prescribing the rates of levies are made in the Gazette and on an Internet site maintained by or on behalf of the Corporation.
 (6) The consultation procedure contained in subsection (2) constitutes a code that sets out all the obligations of the Corporation in relation to consultation over the process of recommending to the Minister that regulations be made.
 
 ### 332 Regulations relating to information
@@ -3722,6 +3748,41 @@ The Governor-General may, on the recommendation of the Minister, by Order in Cou
     (ii) occupations, industries, or processes; or
   (b) updating the schedule in order that the schedule may conform with the terminology or recommended practices of any international organisation.
 (2) The Minister must not make any recommendation under subsection (1) without first consulting the persons or organisations the Minister considers appropriate, having regard to the subject matter of the proposed order.
+
+**Repeal of and amendments to provisions relating to residual levies**
+
+### 336A Repeal of and amendments to provisions relating to residual levies for Work Account
+(1) In this section, effective date means the earlier of—
+  (a) 1 April 2019; and
+  (b) a date appointed by the Minister by notice.
+(2) On the effective date,—
+  (a) in section 167(4)﻿(b), delete and the purpose specified in section 169AA(1)﻿(a):
+  (b) repeal section 169AA:
+  (c) repeal section 169(4):
+  (d) repeal section 329(1)﻿(m)﻿(i).
+(3) On the effective date, replace section 170(1) with:
+  (1) For the purpose of setting levies payable under sections 168, 168B, and 211, the Corporation must classify an employer and a self-employed person in an industry or risk class that most accurately describes their activity, being an industry or risk class set out in regulations made under this Act.
+(4) A notice under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 336B Repeal of and amendments to provisions relating to residual levies for Motor Vehicle Account
+(1) In this section, effective date means the earlier of—
+  (a) 1 July 2019; and
+  (b) a date appointed by the Minister by notice.
+(2) On the effective date,—
+  (a) in section 213(7)﻿(b), delete and the purpose specified in section 215(1)﻿(a):
+  (b) repeal section 215:
+  (c) repeal section 329(1)﻿(m)﻿(ii).
+(3) A notice under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 336C Repeal of and amendments to provisions relating to residual levies for Earners’ Account
+(1) In this section, effective date means the earlier of—
+  (a) 1 April 2019; and
+  (b) a date appointed by the Minister by notice.
+(2) On the effective date,—
+  (a) in section 218(5)﻿(b), delete and the purpose specified in section 220A(1)﻿(a):
+  (b) repeal section 220A:
+  (c) repeal section 329(1)﻿(m)﻿(iii).
+(3) A notice under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Consequential amendments, repeals, and revocations**
 
@@ -3784,7 +3845,7 @@ The purpose of this Part is to ensure that, despite the repeal of the 1998 Act a
 (2) The Regulator may, in respect of periods on and after 1 April 2002, impose administrative sanctions on insurers in respect of any failure to comply with the insurer's obligations under the 1998 Act by—
   (a) requiring an insurer to remedy the default within a period specified by the Regulator; and
   (b) requiring an insurer to meet any costs reasonably incurred by the Regulator in carrying out that function or in remedying any default that an insurer fails to remedy.
-(3) The costs in subsection (2)⁠(b) are recoverable as a debt due to the Regulator in any court of competent jurisdiction together with any interest on that amount that may be specified by the Regulator.
+(3) The costs in subsection (2)﻿(b) are recoverable as a debt due to the Regulator in any court of competent jurisdiction together with any interest on that amount that may be specified by the Regulator.
 
 ### 345 Regulator's functions in respect of Non-Compliers Fund
 (1) The Minister may direct the Corporation to assume the Regulator's role in relation to the Non-Compliers Fund.
@@ -3816,12 +3877,12 @@ The purpose of this Part is to ensure that, despite the repeal of the 1998 Act a
   (d) prescribing rates of interest under the 1998 Act:
   (e) providing for the levy referred to in section 236 of the 1998 Act in respect of the 2000/2001 financial year:
   (f) prescribing transitional and savings provisions for the purpose of ensuring that the rights and obligations of insurers, employers, and insureds arising under the 1998 Act and the 2000 Act continue.
-(2) The Minister must not make a recommendation under subsection (1)⁠(b) without first consulting insurers.
-(3) Regulations made under subsection (1)⁠(f) may (without limitation) provide that, subject to any conditions specified in the regulations,—
+(2) The Minister must not make a recommendation under subsection (1)﻿(b) without first consulting insurers.
+(3) Regulations made under subsection (1)﻿(f) may (without limitation) provide that, subject to any conditions specified in the regulations,—
   (a) specified provisions of the 1998 Act do not apply:
   (b) specified provisions of the 1998 Act continue to apply, with any specified amendments, during a specified transitional period:
   (c) specified provisions of any regulations, Orders in Council, or notices made or given under the 1998 Act continue to apply, with any specified amendments, during a specified transitional period.
-(4) No regulations may be made under subsection (1)⁠(f) after 31 March 2005.
+(4) No regulations may be made under subsection (1)﻿(f) after 31 March 2005.
 
 ## Part 11 — Transitional provisions relating to entitlements provided by Corporation (but not under Part 10)
 
@@ -3970,11 +4031,11 @@ Schedule 1 of the Accident Insurance Act 1998 continues to apply to treatment if
   (a) the person's weekly compensation is not based on weekly earnings from all employments in which he or she was engaged at the date of commencement of any period of incapacity for which he or she is receiving weekly compensation immediately before 1 April 2002; and
   (b) a period of incapacity commences on or after 1 April 2002 for 1 or more of the employments referred to in paragraph (a).
 (3) The weekly compensation must be recalculated—
-  (a) by recalculating weekly earnings as if the person were incapacitated for all employments engaged in at the commencement of the period of incapacity referred to in subsection (2)⁠(a); and
+  (a) by recalculating weekly earnings as if the person were incapacitated for all employments engaged in at the commencement of the period of incapacity referred to in subsection (2)﻿(a); and
   (b) by applying the method of calculation provided for in whichever of the former Acts applied at the commencement of that period of incapacity; and
   (c) by multiplying the weekly earnings calculated under paragraph (a) by 80%.
 (4) The weekly compensation recalculated under subsection (3) must be adjusted in accordance with any Orders in Council and any regulations that apply since the weekly earnings were first calculated.
-(5) Weekly compensation recalculated under subsection (3) is payable only from the date of the commencement of the period of incapacity referred to in subsection (2)⁠(b).
+(5) Weekly compensation recalculated under subsection (3) is payable only from the date of the commencement of the period of incapacity referred to in subsection (2)﻿(b).
 
 ### 368 Weekly payments for permanent incapacity under 1972 and 1982 Acts
 (1) Section 369 and clause 51 of Schedule 1 do not apply to any payment calculated under section 114 of the Accident Compensation Act 1972 or section 60 of the Accident Compensation Act 1982.
@@ -4028,13 +4089,13 @@ In relation to vocational rehabilitation provided to a person before 1 April 200
     (i) attendant care, meaning personal care and mobility assistance necessary for the injured person; or
     (ii) household help, meaning provision of assistance for domestic activities that would be performed by the injured person if not injured and that is necessary to enable the person to remain in or take up suitable residence; and
   (c) the compensation was payable because of section 149(3) or (4) of the Accident Rehabilitation and Compensation Insurance Act 1992.
-(2) The sections referred to in subsection (1)⁠(b)—
+(2) The sections referred to in subsection (1)﻿(b)—
   (a) continue to apply to the person and to his or her entitlement to attendant care or household help; and
   (b) can be used from time to time to reassess the person's entitlement to attendant care or household help.
 (3) The person—
   (a) is not entitled to receive attendant care or home help under clauses 12 to 23 of Schedule 1; but
   (b) is entitled, not more than once in any 12-month period, to elect to be assessed for entitlement to attendant care or home help under clauses 12 to 23 of Schedule 1.
-(4) A person who has had an assessment under subsection (3)⁠(b) may irrevocably elect to have his or her entitlements to attendant care and home help determined from then on under clauses 12 to 23 of Schedule 1, in which case subsection (3) no longer applies to him or her.
+(4) A person who has had an assessment under subsection (3)﻿(b) may irrevocably elect to have his or her entitlements to attendant care and home help determined from then on under clauses 12 to 23 of Schedule 1, in which case subsection (3) no longer applies to him or her.
 (5) For the purposes of subsection (1), a person was receiving compensation immediately before 1 July 1992 if he or she was entitled to do so because of a decision on review or appeal given on or after that date on an application for review made before 1 October 1992.
 
 ### 375 Compensation payable outside New Zealand for pecuniary loss not related to earnings under 1982 Act: attendant care
@@ -4129,13 +4190,13 @@ Section 447 of the Accident Insurance Act 1998 continues to apply in respect of 
   (a) immediately before 1 July 1992, a person (person A) was receiving compensation for child care that another person (person B), who subsequently died, had been providing on a regular basis for a family or household of which person B was a member; and
   (b) the compensation was payable under section 121 of the Accident Compensation Act 1972 or section 80 of the Accident Compensation Act 1982; and
   (c) the compensation was payable because of section 149(7) of the Accident Rehabilitation and Compensation Insurance Act 1992.
-(2) The sections referred to in subsection (1)⁠(b) (as applied by section 449 of the Accident Insurance Act 1998)—
+(2) The sections referred to in subsection (1)﻿(b) (as applied by section 449 of the Accident Insurance Act 1998)—
   (a) continue to apply to person A and to his or her entitlement to child care, but not other loss of quantifiable service; and
   (b) may be used from time to time to reassess person A's entitlement to child care.
 (3) Person A—
   (a) is not entitled to receive a payment for child care under clause 76 of Schedule 1; but
   (b) is entitled, not more than once in any 12-month period, to elect to be assessed for entitlement to a payment for child care under clause 76 of Schedule 1.
-(4) A person who has had an assessment under subsection (3)⁠(b) may irrevocably elect to have his or her entitlement to a payment for child care determined from then on under clause 76 of Schedule 1, in which case subsection (3) no longer applies to him or her.
+(4) A person who has had an assessment under subsection (3)﻿(b) may irrevocably elect to have his or her entitlement to a payment for child care determined from then on under clause 76 of Schedule 1, in which case subsection (3) no longer applies to him or her.
 (5) A person was receiving compensation immediately before 1 July 1992 if he or she was entitled to do so because of a decision on review or appeal given on or after that date on an application for review made before 1 October 1992.
 
 ### 388 Indexation of certain entitlements payable under former Acts
@@ -4258,7 +4319,7 @@ From the commencement of this Act,—
   (a) to the extent required or permitted under an agreement or contract with any person for the provision of treatment; or
   (b) if no such agreement or contract applies, to the extent required or permitted by regulations made under this Act; or
   (c) if paragraphs (a) and (b) do not apply, the cost of the treatment.
-(2) In subclause (1)⁠(c), cost means the cost—
+(2) In subclause (1)﻿(c), cost means the cost—
   (a) that is appropriate in the circumstances; and
   (b) as agreed by the Corporation and the treatment provider.
 
@@ -4270,7 +4331,7 @@ From the commencement of this Act,—
   (d) is of a type normally provided by a treatment provider; and
   (e) is provided by a treatment provider of a type who is qualified to provide that treatment and who normally provides that treatment; and
   (f) has been provided after the Corporation has agreed to the treatment, unless clause 4(2) applies.
-(2) In deciding whether subclause (1)⁠(a) to (e) applies to the claimant's treatment, the Corporation must take into account—
+(2) In deciding whether subclause (1)﻿(a) to (e) applies to the claimant's treatment, the Corporation must take into account—
   (a) the nature and severity of the injury; and
   (b) the generally accepted means of treatment for such an injury in New Zealand; and
   (c) the other options available in New Zealand for the treatment of such an injury; and
@@ -4293,7 +4354,7 @@ From the commencement of this Act,—
   (c) of a type specified in regulations made under this Act as treatment that does not require the Corporation's prior approval; or
   (d) of a type specified in or under an agreement or contract between the Corporation and a treatment provider as treatment that does not require the Corporation's prior approval, and the treatment is to be provided by the treatment provider.
 (3) In deciding whether to give its prior agreement to treatment, the Corporation—
-  (a) must take into account the matters in clause 2(1)⁠(a) to (e); and
+  (a) must take into account the matters in clause 2(1)﻿(a) to (e); and
   (b) may make its agreement subject to prior compliance with any requirements relating to those matters.
 
 ### 5 Corporation may require claimant to supply information about treatment
@@ -4315,7 +4376,7 @@ From the commencement of this Act,—
   (a) the claimant has not paid or refuses to pay any part of the treatment provider's fee that is a part that the Corporation is liable to pay:
   (b) the claimant has not agreed to get the treatment from a particular treatment provider, unless the treatment is an assessment required by this Act or a second opinion.
 (2) To assist a claimant in choosing a treatment provider, the Corporation may advise the claimant that treatment from a named treatment provider will result in the claimant contributing less or nothing to the cost of treatment.
-(3) Subclause (2) applies subject to subclause (1)⁠(b).
+(3) Subclause (2) applies subject to subclause (1)﻿(b).
 
 **Individual rehabilitation plans**
 
@@ -4340,7 +4401,7 @@ From the commencement of this Act,—
 (1) The Corporation must then ask the claimant to agree to the plan prepared for the claimant under clause 7.
 (2) If, after a reasonable time, the claimant declines to agree to the plan, the Corporation may advise the claimant that the plan is finalised, and the plan is then to be regarded as if the claimant had agreed to it.
 (3) When the plan is agreed or finalised, the Corporation must implement the plan.
-(4) The Corporation is liable to fund the provision to the claimant of the services it has specified under section 77(2)⁠(d).
+(4) The Corporation is liable to fund the provision to the claimant of the services it has specified under section 77(2)﻿(d).
 
 ### 9 Disputes about plan
 (1) For the purposes of Part 5 of this Act, the Corporation makes a decision when—
@@ -4382,7 +4443,7 @@ In clauses 13 to 23,—
     (a) entitled to free enrolment and free education under the Education Act 1989 and is—
       (i) enrolled at a registered school within the meaning of that Act; or
       (ii) exempted under section 21 or 22A of that Act from the requirement to be enrolled; or
-      (iii) exempted under section 26 (but not subsection (1)⁠(b)⁠(iii)) of that Act from attending a school; or
+      (iii) exempted under section 26 (but not subsection (1)﻿(b)﻿(iii)) of that Act from attending a school; or
     (b) attending a licensed early childhood service within the meaning of section 309 of the Education Act 1989; or
     (c) enrolled at a State school, special school, special class, or special clinic, under an agreement to which section 9 of the Education Act 1989 applies
   - **home** —
@@ -4508,7 +4569,7 @@ In deciding whether to provide or contribute to the cost of attendant care, the 
   (e) if the home is not owned by the claimant, whether the owner agrees to the modifications being done; and
   (f) the likely cost of reasonable alternative living arrangements; and
   (g) the likely duration of the limitations arising from the personal injury for which the claimant has cover.
-(2) For the purposes of subclause (1)⁠(b)⁠(iii), the assessment of whether a claimant is living independently is not affected by whether the claimant lives with others.
+(2) For the purposes of subclause (1)﻿(b)﻿(iii), the assessment of whether a claimant is living independently is not affected by whether the claimant lives with others.
 
 ### 19 Modifications to home: rights and responsibilities
 (1) The Corporation is responsible for—
@@ -4603,7 +4664,7 @@ An occupational assessment must be undertaken by an assessor whom the Corporatio
   (b) consider the individual rehabilitation plan prepared for the claimant and review the vocational rehabilitation carried out under the plan; and
   (c) discuss with the claimant all the types of work that the assessor identifies as suitable for the claimant; and
   (d) consider any comments the claimant makes to the assessor about those types of work.
-(1A) In considering the suitability of the types of work referred to in subclause (1)⁠(c), the occupational assessor may take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
+(1A) In considering the suitability of the types of work referred to in subclause (1)﻿(c), the occupational assessor may take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
 (2) The Corporation must provide to an occupational assessor all information the Corporation has that is relevant to an occupational assessment.
 
 ### 26 Report on occupational assessment
@@ -4728,8 +4789,8 @@ If the Corporation is determining earnings under this Part in relation to a self
     (ii) the claimant did receive earnings as a self-employed person or as a shareholder-employee; and
     (iii) those earnings ceased before the commencement of the claimant's incapacity:
   (d) any earnings in respect of any period under paragraph (a), (b), or (c).
-(4) In item b of the formula set out in subclause (2), the expression 52 is adjusted by deducting from it any number of weekly periods that subclause (3)⁠(a), (b), or (c) applies to.
-(5) For the purposes of subclause (3)⁠(c), the Corporation may determine the number of weeks that fairly and reasonably represent the period during which the claimant received earnings as a self-employed person or as a shareholder-employee.
+(4) In item b of the formula set out in subclause (2), the expression 52 is adjusted by deducting from it any number of weekly periods that subclause (3)﻿(a), (b), or (c) applies to.
+(5) For the purposes of subclause (3)﻿(c), the Corporation may determine the number of weeks that fairly and reasonably represent the period during which the claimant received earnings as a self-employed person or as a shareholder-employee.
 
 **Self-employed claimant**
 
@@ -4739,7 +4800,7 @@ If the Corporation is determining earnings under this Part in relation to a self
 (3) For the purposes of clause 38, if the claimant's income tax return for the relevant year is not available, the income tax return for the next previous year must be used for the calculation of weekly earnings until the earlier of the following events:
   (a) the first-mentioned income tax return is available; or
   (b) 3 months have passed after the incapacity commenced.
-(4) If the claimant's income tax return for the relevant year remains unavailable at the end of the 3-month period in subclause (3)⁠(b), the Corporation can pay weekly compensation only as an advance under section 131.
+(4) If the claimant's income tax return for the relevant year remains unavailable at the end of the 3-month period in subclause (3)﻿(b), the Corporation can pay weekly compensation only as an advance under section 131.
 (5) If the Corporation—the Corporation may recover the difference, either as a debt due to it or by deducting it from any entitlement otherwise payable to the claimant (whether or not in respect of the same personal injury).
   (a) applies subclause (3); and
   (b) pays weekly compensation; and
@@ -4823,11 +4884,11 @@ If the Corporation is determining earnings under this Part in relation to a self
 (1) Claimants to whom clause 38 applies, and to whom clauses 33 to 36 apply because they have earnings as an employee at the time their incapacity commences, may—
   (a) have their weekly earnings calculated under clause 38 with the inclusion of their earnings as an employee; or
   (b) have their weekly earnings calculated under clause 38 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 33 to 36 and aggregated under subclause (5).
-(2) If a claimant's weekly earnings are calculated in accordance with subclause (1)⁠(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
+(2) If a claimant's weekly earnings are calculated in accordance with subclause (1)﻿(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
 (3) Claimants to whom clause 39 applies, and to whom clauses 33 to 36 apply because they have earnings as an employee at the time their incapacity commences, may—
   (a) have their weekly earnings calculated under clause 39 with the inclusion of their earnings as an employee; or
   (b) have their weekly earnings calculated under clause 39 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 33 to 36 and aggregated under subclause (5).
-(4) If a claimant's weekly earnings are calculated in accordance with subclause (3)⁠(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
+(4) If a claimant's weekly earnings are calculated in accordance with subclause (3)﻿(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
 (5) If a claimant is not prohibited from doing so by subclause (2) or subclause (4), and would have more than 1 amount of weekly earnings from different employment situations because of the operation of clause 34 or clause 36 or clause 38 or clause 39, the claimant's weekly earnings are to be calculated by doing the relevant calculations under those clauses separately and then aggregating the results.
 (6) However, a claimant's weekly earnings calculated under clause 34 or clause 36 must not be aggregated with the claimant's weekly earnings under clause 39 if the claimant's weekly earnings under clause 39 are his or her earnings under clause 34 or clause 36.
 
@@ -4866,12 +4927,12 @@ If the Corporation is determining earnings under this Part in relation to a self
     (i) had been in employment within 28 days before his or her incapacity commenced; and
     (ii) would have been an employee within the period specified in subclause (3) after the date on which his or her incapacity commenced, but for the incapacity; or
   (b) the period for which payments that the claimant is entitled to receive on ceasing employment and on which earner levy is payable constitute earnings under subclause (4).
-(3) For the purposes of subclause (2)⁠(a)⁠(ii), the period is,—
+(3) For the purposes of subclause (2)﻿(a)﻿(ii), the period is,—
   (a) unless paragraph (b) applies, 3 months if the claimant had entered into an employment agreement, or had arranged to enter into an employment agreement, before the incapacity commenced; or
   (b) 12 months if—
     (i) the claimant was employed in seasonal employment with the same employer as he or she had been employed in the 2 seasons before the claimant’s incapacity commenced; and
     (ii) the employer confirms that the claimant could reasonably have expected to be re-employed in the season after the claimant’s incapacity commenced.
-(4) A claimant, who is deemed by subclause (2)⁠(b) to continue to be in employment, is also deemed to be deriving earnings at the same rate as he or she derived earnings while in employment immediately before he or she ceased to be an employee, a self-employed person, or a shareholder-employee, as the case may be.
+(4) A claimant, who is deemed by subclause (2)﻿(b) to continue to be in employment, is also deemed to be deriving earnings at the same rate as he or she derived earnings while in employment immediately before he or she ceased to be an employee, a self-employed person, or a shareholder-employee, as the case may be.
 (5) For the purposes of calculating the claimant’s weekly earnings, the date his or her incapacity commenced is deemed to be the last date on which the claimant was in employment.
 (6) Unless the personal injury is a motor vehicle injury, a work-related personal injury, or a treatment injury, payments under this clause come from the Earners’ Account.
 (7) In this clause—
@@ -4903,7 +4964,7 @@ If the Corporation is determining earnings under this Part in relation to a self
 (3) For the purposes of clauses 38 to 40, in order to calculate the claimant's weekly earnings under this Part, the Corporation may estimate an amount that represents reasonable remuneration for the claimant until the earlier of—
   (a) the income tax return for the relevant year is available; or
   (b) 3 months have passed after the incapacity commenced.
-(4) If the claimant's income tax return for the relevant year remains unavailable at the end of the 3-month period in subclause (3)⁠(b), the Corporation can pay weekly compensation only as an advance under section 131.
+(4) If the claimant's income tax return for the relevant year remains unavailable at the end of the 3-month period in subclause (3)﻿(b), the Corporation can pay weekly compensation only as an advance under section 131.
 (5) In doing an estimate under subclause (3), the Corporation must have regard to—
   (a) the evidence available of the claimant's earnings; and
   (b) the nature of the claimant's employment immediately before his or her incapacity commenced; and
@@ -4928,7 +4989,7 @@ If the Corporation is determining earnings under this Part in relation to a self
   (c) is 18 years or over; and
   (d) is not engaged in full-time study or training; and
   (e) does not have earnings in excess of the amount of minimum weekly earnings determined under clause 42(3).
-(1A) For the purposes of subclause (1)⁠(d), full-time study or training—
+(1A) For the purposes of subclause (1)﻿(d), full-time study or training—
   (a) includes any full-time course or training leading to an educational or vocational qualification approved by the New Zealand Qualifications Authority that would be likely to enhance the employment prospects, either generally or in respect of any particular profession or occupation, of a person who has attained that qualification; but
   (b) does not include full-time study or training in living or social skills.
 (2) The weekly compensation payable is 80% of the claimant's weekly earnings calculated under this clause.
@@ -4944,7 +5005,7 @@ If the Corporation is determining earnings under this Part in relation to a self
 (1) This clause applies to a claimant who—
   (a) is already entitled to receive weekly compensation; and
   (b) suffers incapacity from a further personal injury for which the claimant has cover under this Act.
-(2) If it is necessary to recalculate the claimant's entitlement to weekly compensation, the claimant's entitlement to weekly compensation in respect of incapacity from both personal injuries is calculated using the weekly earnings assessed when calculating the weekly compensation referred to in subclause (1)⁠(a).
+(2) If it is necessary to recalculate the claimant's entitlement to weekly compensation, the claimant's entitlement to weekly compensation in respect of incapacity from both personal injuries is calculated using the weekly earnings assessed when calculating the weekly compensation referred to in subclause (1)﻿(a).
 (3) Subclause (2) does not apply to any subsequent periods of incapacity.
 
 **Abatement**
@@ -5014,7 +5075,7 @@ If the Corporation is determining earnings under this Part in relation to a self
 (2) To avoid doubt, there is no entitlement to lump sum compensation in respect of personal injury suffered before 1 April 2002 or in respect of any subsequent consequences of any such personal injury.
 
 ### 55 Transitional limits on eligibility for lump sum entitlements
-(1) A person who suffers mental injury caused by an act to which section 21(1)⁠(c) applies is not entitled to lump sum compensation for permanent impairment under this schedule if the act last occurred before 1 April 2002.
+(1) A person who suffers mental injury caused by an act to which section 21(1)﻿(c) applies is not entitled to lump sum compensation for permanent impairment under this schedule if the act last occurred before 1 April 2002.
 (2) A person who suffers personal injury caused by a work-related gradual process, disease, or infection in the circumstances described in section 30(2) is not entitled to lump sum compensation for permanent impairment if one of the following dates preceded 1 April 2002:
   (a) the date on which the person last performed the task or was employed in the environment in those circumstances:
   (b) the date on which the person first received treatment for the personal injury as that personal injury:
@@ -5042,8 +5103,8 @@ If the Corporation is determining earnings under this Part in relation to a self
 (4) A person who is assessed as having an entitlement to either lump sum compensation or an independence allowance—
   (a) may, within 60 days of being given notification in accordance with section 64, elect which entitlement he or she wishes to receive; or
   (b) is, if no election is made within 60 days, deemed to have elected to receive an independence allowance.
-(5) An election under subclause (4)⁠(a) must be made in writing to the Corporation.
-(6) Section 37 applies for the purposes of subclause (2)⁠(c).
+(5) An election under subclause (4)﻿(a) must be made in writing to the Corporation.
+(6) Section 37 applies for the purposes of subclause (2)﻿(c).
 (7) Section 64 applies to a notification by the Corporation under this clause as if the notification were a notice of a decision on a claim.
 
 ### 55B Certain persons may elect to receive either lump sum compensation or independence allowance: persons not entitled to make election under clause 55A
@@ -5063,20 +5124,20 @@ If the Corporation is determining earnings under this Part in relation to a self
   (a) the person has been reassessed under clause 61 of Schedule 1 of the Accident Insurance Act 1998, and the reassessment indicates that the person’s degree of whole-person impairment has changed:
   (b) a review of the Corporation’s decision (under section 134), or an appeal (under section 149), has resulted in a change to the assessment of the person’s degree of whole-person impairment.
 (3) If either of the situations in subclause (2) apply, the Corporation must—
-  (a) provide the person with the information specified in clause 55A(3)⁠(b), updated to take account of the change in circumstances; and
+  (a) provide the person with the information specified in clause 55A(3)﻿(b), updated to take account of the change in circumstances; and
   (b) inform the person—
     (i) that he or she is entitled to make a further election, in light of the reassessment, as to which of the entitlements he or she wishes to receive; and
     (ii) of the matters specified in subclause (4).
 (4) A person to whom either of the situations in subclause (2) applies—
   (a) may, within 60 days of being given the information specified in subclause (3), make a further election as to which entitlement he or she wishes to receive; or
   (b) is, if no election is made within 60 days, deemed to have elected to continue to receive an independence allowance.
-(5) An election under subclause (4)⁠(a) must be made in writing to the Corporation.
+(5) An election under subclause (4)﻿(a) must be made in writing to the Corporation.
 
 ### 55D Certain persons may elect to receive either lump sum compensation or independence allowance: general
-(1) The information referred to in clause 55C(3)⁠(a) must, in relation to the amount of lump sum compensation payable, take into account any amount of independence allowance paid to the person following his or her initial election, or deemed election, as the case may be, under clause 55A(4) or 55C(4).
-(2) If a claimant makes a further election, in accordance with clause 55C(4)⁠(a), in which he or she elects to receive lump sum compensation, the amount of lump sum compensation payable must be reduced by any amount of independence allowance paid to the person—
+(1) The information referred to in clause 55C(3)﻿(a) must, in relation to the amount of lump sum compensation payable, take into account any amount of independence allowance paid to the person following his or her initial election, or deemed election, as the case may be, under clause 55A(4) or 55C(4).
+(2) If a claimant makes a further election, in accordance with clause 55C(4)﻿(a), in which he or she elects to receive lump sum compensation, the amount of lump sum compensation payable must be reduced by any amount of independence allowance paid to the person—
   (a) following his or her initial election, or deemed election, as the case may be, under clause 55A(4) or 55C(4):
-  (b) in accordance with clause 55B(1)⁠(b).
+  (b) in accordance with clause 55B(1)﻿(b).
 (3) A person is not entitled to receive both a lump sum payment and an independence allowance in respect of the same personal injury.
 (4) However, subclause (3) does not apply to a person who has received—
   (a) both entitlements (at different times) as a result of a further election made in accordance with clause 55C:
@@ -5137,8 +5198,8 @@ If the Corporation is determining earnings under this Part in relation to a self
 ### 61 Reassessment of entitlement to lump sum compensation
 (1) Clauses 54 to 60 apply to reassessments under this clause.
 (2) The Corporation must arrange for an assessor to reassess a claimant if—
-  (a) the claimant was assessed after the Corporation received a certificate under clause 57(1)⁠(b) and before the Corporation received a certificate under clause 57(1)⁠(a); and
-  (b) the Corporation then receives a certificate under clause 57(1)⁠(a).
+  (a) the claimant was assessed after the Corporation received a certificate under clause 57(1)﻿(b) and before the Corporation received a certificate under clause 57(1)﻿(a); and
+  (b) the Corporation then receives a certificate under clause 57(1)﻿(a).
 (3) A reassessment under subclause (2) is not a reassessment for the purposes of subclause (7).
 (4) The Corporation must arrange for an assessor to reassess a claimant who produces to the Corporation a certificate from a medical practitioner indicating that the claimant's permanent impairment is likely to have increased since the date of assessment.
 (5) Subclause (4) is subject to subclauses (6) and (7).
@@ -5291,7 +5352,7 @@ For the purposes of this Part, any child of the claimant who is born within 12 m
     (i) child turns 14 years; or
     (ii) if the child is older and needs child care because of his or her physical or mental condition, the child ceases to need child care.
 (3) A child who, immediately before the deceased claimant's death, was entitled to payments for child care because of the death of another deceased claimant has no entitlement for the subsequent death.
-(4) However, the Corporation must start counting the 5-year period referred to in subclause (2)⁠(a) at the date of the subsequent death.
+(4) However, the Corporation must start counting the 5-year period referred to in subclause (2)﻿(a) at the date of the subsequent death.
 (5) This clause applies despite anything in this schedule.
 
 ### 78 Child care payments made to caregiver
@@ -5514,7 +5575,7 @@ The Corporation must ensure that all employees maintain proper standards of inte
 **Delegations**
 
 ### 25 Additional persons to whom delegations can be made
-Despite section 73(1)⁠(d) of the Crown Entities Act 2004, the Corporation need not obtain the approval of the Minister before delegating services provided under this Act to any person referred to in paragraph (d) of that section.
+Despite section 73(1)﻿(d) of the Crown Entities Act 2004, the Corporation need not obtain the approval of the Minister before delegating services provided under this Act to any person referred to in paragraph (d) of that section.
 
 ## Schedule 6 — Consequential amendments
 
@@ -5552,7 +5613,7 @@ The purpose of this Act is to—
 
 ### 2 Commencement
 (1) Sections 3(3), (4), and (6), 4, 5, 6, 7, 9 to 20, 24 to 33, 35, 36 to 43, 46 to 49, 52(2), 55, 56(1), 59, 60(1) to (5) and (7), Schedule 1, and Part 2 of Schedule 2 come into force on 1 July 2005.
-(2) Sections 3(2), (5), and (7), 52(1), and 53 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes, including different dates for different repeals set out in section 3(2)⁠(a) to (t).
+(2) Sections 3(2), (5), and (7), 52(1), and 53 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and different purposes, including different dates for different repeals set out in section 3(2)﻿(a) to (t).
 (3) Sections 44 and 56(2) come into force on 1 April 2006.
 (4) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
 
@@ -5642,7 +5703,7 @@ This Act amends the Injury Prevention, Rehabilitation, and Compensation Act 2001
 ### 33 Schedule 1 amended
 (1) Amendment(s) incorporated in the Act(s).
 (2) The amendments set out in the Schedule that relate to clauses 33 to 36 and clause 43 of Schedule 1 of the principal Act apply only in respect of claimants whose incapacity commenced on or after the commencement of this section.
-(3) The amendments set out in the Schedule that relate to clauses 42(1)⁠(c) and (2), 47(4), 49, and 51 of Schedule 1 of the principal Act apply only in respect of—
+(3) The amendments set out in the Schedule that relate to clauses 42(1)﻿(c) and (2), 47(4), 49, and 51 of Schedule 1 of the principal Act apply only in respect of—
   (a) claimants who are entitled to the relevant weekly compensation on or after the commencement of this section; and
   (b) weekly compensation payable for a period beginning on or after the commencement of this section.
 
@@ -5726,7 +5787,7 @@ To avoid doubt, this Act applies to disentitle a claimant for a wilfully self-in
 An assessment of a claimant's vocational independence that has been commenced, but not determined, before the commencement of this section must, on or after that commencement, be considered and determined in all respects as if sections 6(2), 11, and 47 (to the extent that it relates to clause 25 of Schedule 1 of the principal Act) of this Act had not been enacted.
 
 ### 58 Calculations of weekly earnings for weekly compensation
-To avoid doubt, sections 223(3)⁠(c)⁠(i) and clauses 33, 34, 35, 36, 38, 39, 41, and 42 of Schedule 1 of the principal Act (as amended by this Act) apply to the calculation of weekly earnings for the purposes of weekly compensation that is payable in respect of a period of incapacity that commences only on or after the commencement of this section.
+To avoid doubt, sections 223(3)﻿(c)﻿(i) and clauses 33, 34, 35, 36, 38, 39, 41, and 42 of Schedule 1 of the principal Act (as amended by this Act) apply to the calculation of weekly earnings for the purposes of weekly compensation that is payable in respect of a period of incapacity that commences only on or after the commencement of this section.
 
 ### 59 Calculations of weekly compensation for loss of potential earning capacity
 (1) This section applies to—
