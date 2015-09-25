@@ -1,5 +1,5 @@
 # New Zealand Flag Referendums Act 2015
-_Consolidation as at 2015-08-14_
+_Consolidation as at 2015-09-25_
 
 ### 1 Title
 This Act is the New Zealand Flag Referendums Act 2015.
@@ -37,7 +37,7 @@ In this Act, unless the context otherwise requires,—
   - **Minister** means the Minister of the Crown who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **official description** , in relation to a flag or flag design, means the description of that flag or flag design prescribed under section 13(2)﻿(a) or 14(3)
   - **option** means,—
-    (a) in relation to the first flag referendum, any of the 4 alternative flag designs for which a vote may be cast:
+    (a) in relation to the first flag referendum, any of the 5 alternative flag designs for which a vote may be cast:
     (b) in relation to the second flag referendum, either of the 2 options (the current New Zealand Flag and the alternative flag design referred to in section 14(1)﻿(a)) for which a vote may be cast
   - **panel** means any panel appointed by the Minister to conduct, on behalf of the New Zealand Government, a publicity campaign or other activity in relation to a referendum or referendums
   - **Preferential Voting** means the electoral system described generally in section 6
@@ -110,12 +110,12 @@ The Governor-General must, by Orders in Council made on the recommendation of th
   (b) revoke any Order in Council made under section 21(2) of the 2000 Act as that provision applies to this Act, and appoint a later date for the closing of the referendum roll.
 
 ### 13 Alternative flag designs
-(1) The Governor-General must, by Order in Council made on the recommendation of the Minister, at least 60 days before the commencement of the voting period for the first flag referendum, prescribe 4 alternative flag designs to appear on the voting paper.
+(1) The Governor-General must, by Order in Council made on the recommendation of the Minister, at least 40 days before the commencement of the voting period for the first flag referendum, prescribe 5 alternative flag designs to appear on the voting paper.
 (2) For each of the alternative flag designs prescribed, the Order in Council must include—
   (a) an official description of the design, to be used for the purposes of dictating the relevant parts of the voting paper under section 24(4)﻿(c); and
   (b) an image of the design, to be used for the purposes of subsection (3) and section 14(1); and
   (c) the technical specifications of the design, including the colours, dimensions, and proportions of the design and of any shapes or images in it.
-(3) When producing voting papers for the first flag referendum, the Electoral Commission must ensure that the 4 alternative flag designs prescribed under subsection (1) are inserted in the spaces indicated on the form in Schedule 1.
+(3) When producing voting papers for the first flag referendum, the Electoral Commission must ensure that the 5 alternative flag designs prescribed under subsection (1) are inserted in the spaces indicated on the form in Schedule 1.
 (4) For the purposes of subsection (3), the Electoral Commission must arrange the alternative flag designs on the voting paper in random order.
 
 ### 14 Voting paper in second flag referendum
@@ -865,11 +865,11 @@ In carrying out the operations in Part 1 of this schedule, do not recognise—
 
 ### 12
 A voting paper that expresses these preferences—
-This table is small in size and contains 3 columnsOption A1Option B2Option C3Option D2Not uniquegenerates the following preferences for the purposes of counting votes:This table is small in size and contains 2 columnsFirst preferenceOption ASecond preferenceNoneThird preferenceNoneFourth preferenceNone.
+The following table is small in size and has 3 columns with no headings.Option A1Option B2Option C3Option D2Not uniqueOption E4generates the following preferences for the purposes of counting votes:The following table is small in size and contains 2 columns with no headings.First preferenceOption ASecond preferenceNoneThird preferenceNoneFourth preferenceNoneFifth preferenceNone
 
 ### 13
 A voting paper that expresses these preferences—
-This table is small in size and contains 3 columnsOption A1Option B4Not consecutiveOption C5Option D2generates the following preferences for the purposes of counting votes:This table is small in size and contains 2 columnsFirst preferenceOption ASecond preferenceOption DThird preferenceNoneFourth preferenceNone.
+The following table is small in size and contains 3 columns with no headings.Option A1Option B4Not consecutiveOption C5Option D2Option E6generates the following preferences for the purposes of counting votes:The following table is small in size and contains 2 columns with no headings.First preferenceOption ASecond preferenceOption DThird preferenceNoneFourth preferenceNoneFifth preferenceNone
 
 ### 14
 To use the AAFD method, determine which tied option, or options, does not have more votes than the other tied option or options at the earliest point at which the options had different numbers of votes. If one option is identified, exclude that option.
@@ -879,7 +879,7 @@ Allocate a unique pseudo-random whole number (a PRN) for each option at each sta
 
 ### 16
 To generate PRNs, calculate x, y, and z using the following formulas:
-x = 9y = 1z = [v + 1 000 (v rem 10)] rem 30 323where—vis the total number of valid voting papersremis the remainder operator such that a rem b gives the remainder of dividing whole number a by whole number b.
+x = 10y = 1z = [v + 1 000 (v rem 10)] rem 30 323where—vis the total number of valid voting papersremis the remainder operator such that a rem b gives the remainder of dividing whole number a by whole number b.
 
 ### 17
 Generate a random whole number rc using the following formulas:
