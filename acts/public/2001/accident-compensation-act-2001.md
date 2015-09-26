@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2015-09-24_
+_Consolidation as at 2015-09-26_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -2043,7 +2043,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
   (h) any other expenditure authorised by this Act.
 (4) Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies payable under sections 168, 168A, 168B, and 211 to provide for or, to the extent that it is necessary, to provide separately for,—
   (a) the purposes of subsection (3)﻿(a) to (d) and (f) to (h):
-  (b) the purposes of subsection (3)﻿(e), (f), and (h) and the purpose specified in section 169AA(1)﻿(a).
+  (b) the purposes of subsection (3)﻿(e), (f), and (h).
 (5) Those regulations may also relate to the same or different prescribed periods.
 
 ### 168 Employers to pay levies
@@ -2075,23 +2075,10 @@ An appeal under section 149 is dealt with in accordance with the District Courts
     (ii) risk sharing between employers, private domestic workers, or self-employed persons, on the one hand, and the Corporation on the other; and
   (b) adjust the levies under sections 168, 168A, 168B, and 211 in relation to a particular employer, private domestic worker, or self-employed person on the basis of that system or those systems.
 (3) The systems referred to in subsection (2) may include no-claims bonuses, higher or lower levies, and claim thresholds.
-(4) None of the following applies, or can be made to apply, to the portion of the levies payable under sections 168, 168A, 168B, and 211 that is necessary to achieve the purpose specified in section 169AA(1)﻿(a):
-  (a) any of the systems referred to in subsection (2):
-  (b) section 175.
+(4)
 
 ### 169AA Basis on which funds to be calculated
-(1) The extent of funds to be derived from levies under sections 168, 168A, and 168B is to be calculated to achieve the following purposes:
-  (a) the residual amount is to be completely paid off or funded no later than 31 March 2019:
-  (b) the cost of all claims under the Work Account is fully funded.
-(2) The Minister may, by notice in the Gazette, specify the residual amount.
-(3)
-(4) In this section, residual amount means the amount that—
-  (a) is specified by the Minister; and
-  (b) represents, among other things, as at 30 June 2009, the sum of—
-    (i) the estimated value of the outstanding claims liability for the Residual Claims Account (minus the value of any accrued assets); and
-    (ii) the estimated value of the Corporation's potential liability (minus the value of any accrued assets) in respect of future claims for cover for personal injury caused by work-related gradual process, disease, or infection by persons who,—
-      (A) before 1 July 1999, may have been exposed to a particular property or characteristic of their employment tasks or environment that causes, or contributes to the cause of, the personal injury; but
-      (B) by 30 June 2009, have not suffered the personal injury.
+[Repealed]
 
 ### 169A Limit on offsets in case of earnings as self-employed person
 (1) In determining a person's earnings as a self-employed person, no offset may be allowed for the amount of—
@@ -2100,9 +2087,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
 (2) If the result of the calculation of a person's earnings as a self-employed person is a negative amount and the person also derives earnings as an employee, the person's earnings as an employee must not be reduced by the negative amount.
 
 ### 170 Classification of industries or risks
-(1) The Corporation must classify an employer and a self-employed person in an industry or risk class that most accurately describes their activity, being an industry or risk class set out in regulations made under this Act for the following purposes:
-  (a) setting levies payable under sections 168, 168B, and 211:
-  (b) setting those levies to include a portion that is necessary to achieve the purpose specified in section 169AA(1)﻿(a).
+(1) For the purpose of setting levies payable under sections 168, 168B, and 211, the Corporation must classify an employer and a self-employed person in an industry or risk class that most accurately describes their activity, being an industry or risk class set out in regulations made under this Act.
 (2) If an employer is engaged in 2 or more activities, the Corporation must classify all the employer's employees in the classification unit for whichever of those activities attracts the highest levy rate under the regulations.
 (3) Despite subsection (2), the Corporation may classify the employer's employees in separate classification units for different activities if the employer meets the threshold (if any) specified in regulations and if—
   (a) the employer so requests; and
@@ -2455,7 +2440,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (b) section 263 (except section 263(3)﻿(b)) applies to the programmes referred to in subsection (1)﻿(b) as if the references to measures in section 263 were references to the programmes.
 (7) Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies (except the Motorcycle Safety levy) to provide for or, to the extent that it is necessary, to provide separately for,—
   (a) the purposes of subsection (5)﻿(a), (b), (c), and (d):
-  (b) the purposes of subsection (5)﻿(ba), (c), and (d) and the purpose specified in section 215(1)﻿(a).
+  (b) the purposes of subsection (5)﻿(ba), (c), and (d).
 
 ### 214 Rate of levies
 (1) A person registered under Part 17 of the Land Transport Act 1998 in respect of a motor vehicle must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
@@ -2472,15 +2457,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
 (5) The rate or rates of the levy prescribed by regulations made under this Act, and the rate prescribed by subsection (4)﻿(b), are exclusive of goods and services tax.
 
 ### 215 Basis on which funds to be calculated
-(1) The extent of funds to be derived under section 213(2) is to be calculated to achieve the following purposes:
-  (a) the residual amount is to be completely paid off or funded no later than 30 June 2019:
-  (b) the cost of all claims under the Motor Vehicle Account is to be fully funded.
-(2) Subsection (1) does not apply to the Motorcycle Safety levy.
-(3) The Minister may, by notice in the Gazette, specify the residual amount.
-(4)
-(5) In this section, residual amount means the amount that—
-  (a) is specified by the Minister; and
-  (b) represents, among other things, as at 30 June 2009, the estimated value of the outstanding claims liability for the Motor Vehicle Account (minus the value of any accrued assets) in respect of the claims described in section 213(5)﻿(ba).
+[Repealed]
 
 ### 216 Levy categories
 (1) Regulations made under this Act may establish a system for differential levies in relation to all or any of the following or categories of the following:
@@ -2532,7 +2509,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (g) any other expenditure authorised by this Act.
 (5) Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies to provide for or, to the extent that it is necessary, to provide separately for,—
   (a) the purposes of subsection (4)﻿(a) to (e), (f), and (g):
-  (b) the purposes of subsection (4)﻿(ea), (f), and (g) and the purpose specified in section 220A(1)﻿(a).
+  (b) the purposes of subsection (4)﻿(ea), (f), and (g).
 
 ### 219 Earners to pay levies
 (1) An earner must pay, in accordance with this Act and regulations made under it, levies to fund the Earners' Account.
@@ -2544,14 +2521,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
 (2)
 
 ### 220A Basis on which funds to be calculated
-(1) The extent of funds to be derived from levies under section 219 is to be calculated to achieve the following purposes:
-  (a) the residual amount is to be completely paid off or funded no later than 31 March 2019:
-  (b) the cost of all claims under the Earners' Account is to be fully funded by levies.
-(2) The Minister may, by notice in the Gazette, specify the residual amount.
-(3)
-(4) In this section, residual amount means the amount that—
-  (a) is specified by the Minister; and
-  (b) represents, among other things, as at 30 June 2009, the estimated value of the outstanding claims liability for the Earners' Account (minus the value of any accrued assets) in respect of the claims described in section 218(4)﻿(ea).
+[Repealed]
 
 ### 221 Collection of levies by deduction from employee earnings
 (1) For the purpose of enabling the collection of the levies payable under section 219 by instalments,—
@@ -3668,9 +3638,9 @@ For the purposes of Part 5, the Governor-General may, on the recommendation of t
     (i) section 216(1); or
     (ii) section 216(2):
   (m) setting, in relation to a prescribed period, a portion of the Work Account, the Motor Vehicle Account, or the Earners' Account that is necessary to achieve,—
-    (i) in the case of the Work Account, the purpose specified in section 169AA(1)﻿(a); and
-    (ii) in the case of the Motor Vehicle Account, the purpose specified in section 215(1)﻿(a); and
-    (iii) in the case of the Earners' Account, the purpose specified in section 220A(1)﻿(a):
+    (i)
+    (ii)
+    (iii)
   (ma) prescribing the manner of payment of the Motorcycle Safety levy for the purposes of section 217(3):
   (n) prescribing classes of levy payers for the purposes of the Treatment Injury Account:
   (o) prescribing exempt amounts of levy for the purpose of section 244, which amounts may differ depending on whether the amount invoiced is for—
