@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2015-06-06_
+_Consolidation as at 2015-09-30_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1944,7 +1944,7 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
 (3) To the extent that the claims to which subsection (1) applies are paid out of property referred to in paragraph (b) of that subsection, the amount so paid is an unsecured debt due by the bankrupt to the secured party.
 
 ### 276 Provisions concerning preferential payments to employees
-(1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of section 274(2) must not, in the case of any one employee, exceed $18,700 or any greater amount that is prescribed under subsection (2) at the date of adjudication.
+(1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of section 274(2) must not, in the case of any one employee, exceed $22,160 or any greater amount that is prescribed under subsection (2) at the date of adjudication.
 (2) The sum stated in subsection (1) must be adjusted as follows:
   (a) subject to paragraph (d), an adjustment must be made, by the Governor-General by Order in Council, after the 3-year period starting on 1 July 2006 and ending on 30 June 2009 and after every 3-year period following that (an adjustment period):
   (b) subject to paragraph (d), the Order in Council must be made within 3 months of the end of an adjustment period:
