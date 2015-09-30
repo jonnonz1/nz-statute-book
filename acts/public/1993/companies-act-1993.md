@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-09-30_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -6791,7 +6791,7 @@ Except as provided in this schedule and in any regulations made under this Act, 
 (4) Clause 9 of this schedule, as was in force immediately before the commencement of the Personal Property Securities Act 1999, continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
 
 ### 3 Provisions concerning preferential payments to employees
-(1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of clause 1(2) must not, in the case of any one employee, exceed $20,340 or any greater amount that is prescribed under subclause (2) at the commencement of the liquidation.
+(1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of clause 1(2) must not, in the case of any one employee, exceed $22,160 or any greater amount that is prescribed under subclause (2) at the commencement of the liquidation.
 (2) The sum stated in subclause (1) must be adjusted as follows:
   (a) subject to paragraph (d), an adjustment must be made, by the Governor-General by Order in Council, after the 3-year period starting on 1 July 2006 and ending on 30 June 2009 and after every 3-year period following that (an adjustment period):
   (b) subject to paragraph (d), the Order in Council must be made within 3 months of the end of an adjustment period:
