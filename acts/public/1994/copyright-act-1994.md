@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2015-09-30_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -281,7 +281,7 @@ In this Act, the term commercial publication, in relation to a literary, dramati
 (5) In this Act, an infringing copy includes a copy falling to be treated as an infringing copy under any of the following provisions of this Act:
   (a) section 85(4) (which relates to incidental recording for the purposes of a communication work):
   (b) section 93(1) (which relates to subsequent dealings with copies made under Part 3).
-(5A) An object that a person imports or proposes to import into New Zealand is not an infringing copy under subsection (3)(b) if—
+(5A) An object that a person imports or proposes to import into New Zealand is not an infringing copy under subsection (3)﻿(b) if—
   (a) it was made by or with the consent of the owner of the copyright, or other equivalent intellectual property right, in the work in question in the country in which the object was made; or
   (b) where no person owned the copyright, or other equivalent intellectual property right, in the work in question in the country in which the object was made, any of the following applies:
     (i) the copyright protection (or other equivalent intellectual property right protection) formerly afforded to the work in question in that country has expired:
@@ -619,7 +619,7 @@ A reproduction of a work does not infringe copyright in the work if the reproduc
   (f) subject to subsection (4), either,—
     (i) in the period beginning with the commencement of this Act and ending with the close of 31 December 1997, the copying is of no more than the greater of 5% of the work or edition or 5 pages of the work or edition; or
     (ii) on and after 1 January 1998, the copying is of no more than the greater of 3% of the work or edition or 3 pages of the work or edition.
-(4) If the effect of subparagraph (i) or subparagraph (ii) of subsection (3)(f) would be that the whole of a work or edition is copied, those subparagraphs shall not apply and the copying that is permitted under subsection (3) shall be of no more than 50% of the whole work or edition.
+(4) If the effect of subparagraph (i) or subparagraph (ii) of subsection (3)﻿(f) would be that the whole of a work or edition is copied, those subparagraphs shall not apply and the copying that is permitted under subsection (3) shall be of no more than 50% of the whole work or edition.
 (4A) A copy of a work made in accordance with subsections (3) and (4) may be communicated to a person who is a student or other person who is to receive, is receiving, or has received, a lesson that relates to the work.
 (5) Copyright in an artistic work is not infringed by the copying, by means of a reprographic process or by any other means, of the whole or a part of that work if the artistic work is included within the part of any work or edition copied under subsection (3).
 (6) Where any part of a work or edition is copied under subsection (3) by or on behalf of an educational establishment,—
@@ -691,8 +691,8 @@ A reproduction of a work does not infringe copyright in the work if the reproduc
 (1) This section applies when a copy of a communication work is—
   (a) made or communicated by or on behalf of an educational establishment; or
   (b) made and supplied by an educational resource supplier to an educational establishment.
-(2) In any case to which subsection (1)(a) applies, the making or communication of a copy of the communication work by or on behalf of an educational establishment, and the subsequent communication of the copy within the educational establishment, does not infringe copyright in the communication work or in any work included in it if the copy is made or communicated for the educational establishment’s educational purposes.
-(3) In any case to which subsection (1)(b) applies, the making and supply of a copy of the communication work by an educational resource supplier does not infringe copyright in the communication work or in any work included in it if the copy is made and supplied for the educational purposes of the educational establishment to which it is supplied.
+(2) In any case to which subsection (1)﻿(a) applies, the making or communication of a copy of the communication work by or on behalf of an educational establishment, and the subsequent communication of the copy within the educational establishment, does not infringe copyright in the communication work or in any work included in it if the copy is made or communicated for the educational establishment’s educational purposes.
+(3) In any case to which subsection (1)﻿(b) applies, the making and supply of a copy of the communication work by an educational resource supplier does not infringe copyright in the communication work or in any work included in it if the copy is made and supplied for the educational purposes of the educational establishment to which it is supplied.
 (4) However, the exclusions from infringement of copyright in subsections (2) and (3) do not apply to—
   (a) the copying of a communication work if or to the extent that—
     (i) licences authorising the copying of the communication work by or on behalf of educational establishments or by educational resource suppliers are available under a licensing scheme; and
@@ -768,7 +768,7 @@ Copyright is not infringed by anything done for the purposes of an examination, 
   (b) makes and keeps a record sufficient to identify the work copied; and
   (c) permits the inspection of the record by the copyright owner during normal office hours; and
   (d) pays, on demand, equitable remuneration to the copyright owner for the work copied.
-(3) In subsection (2)(d), the term equitable remuneration means a sum agreed by the librarian and the copyright owner or, in the absence of agreement, a sum determined by the Tribunal on an application under section 168.
+(3) In subsection (2)﻿(d), the term equitable remuneration means a sum agreed by the librarian and the copyright owner or, in the absence of agreement, a sum determined by the Tribunal on an application under section 168.
 (4) This section does not apply to a literary work that is a computer program.
 (5) In this section, copy includes a digital copy, but in that case section 56C applies as well.
 
@@ -906,14 +906,14 @@ A copy of a work to which section 53 or 54 applies must not be supplied in a dig
   (b) it is reasonable to assume—
     (i) that copyright has expired; or
     (ii) that the author died 50 years or more before the beginning of the calendar year in which the act is done or the arrangements are made.
-(2) Subsection (1)(b)(ii) does not apply in relation to—
+(2) Subsection (1)﻿(b)﻿(ii) does not apply in relation to—
   (a) a work in which Crown copyright exists under section 26; or
   (b) a work—
     (i) in which copyright originally vested in an international organisation under section 28; and
     (ii) in respect of which an order made under that section specifies a copyright period longer than 50 years.
 (3) In relation to a work of joint authorship,—
-  (a) the reference in subsection (1)(a) to its being possible to ascertain the identity of the author shall be construed as a reference to its being possible to ascertain the identity of any of the authors; and
-  (b) the reference in subsection (1)(b)(ii) to the author having died shall be construed as a reference to all the authors having died.
+  (a) the reference in subsection (1)﻿(a) to its being possible to ascertain the identity of the author shall be construed as a reference to its being possible to ascertain the identity of any of the authors; and
+  (b) the reference in subsection (1)﻿(b)﻿(ii) to the author having died shall be construed as a reference to all the authors having died.
 
 ### 68 Use of recording of spoken words in certain cases
 (1) Where a recording of spoken words is made, in writing or otherwise, for the purpose of—it is not an infringement of copyright in the words as a literary work to use the recording or material taken from it (or to copy the recording, or any such material, and use the copy) for that purpose, if the conditions in subsection (2) are complied with.
@@ -1118,7 +1118,7 @@ ExampleA records a movie to be screened on television because she will be at wor
   (a) that the recording, film, photograph, or copy is not used for any other purpose; and
   (b) that the recording, film, photograph, or copy is destroyed within 6 months of being first used for communicating the work to the public, unless the Minister has authorised the preservation of any recording, film, photograph, or copy in the records of a government department or in Archives New Zealand (Te Rua Mahara o te Kāwanatanga) because of its documentary character or exceptional importance.
 (4) A recording, film, photograph, or copy made in accordance with this section shall be treated as an infringing copy—
-  (a) for the purposes of any use in breach of the condition contained in subsection (3)(a); and
+  (a) for the purposes of any use in breach of the condition contained in subsection (3)﻿(a); and
   (b) for all purposes after either of the conditions contained in subsection (3) is broken.
 
 ### 86 Photographs of television broadcasts or cable programmes
@@ -1136,8 +1136,8 @@ ExampleA records a movie to be screened on television because she will be at wor
     (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
     (ii) exceed those usually charged there and that are partly attributable to those facilities; or
   (c) the venue is a hotel, motel, camping ground, or any other place that admits persons for a fee for purposes of temporary accommodation, and the audience is made up of persons residing at that hotel, motel, camping ground, or other place.
-(3) For the purposes of subsection (2)(a), the following persons must not be treated as having paid for admission to the venue:
-  (a) a person admitted as a resident or an inmate of a place (other than a hotel, motel, camping ground, or any other place to which subsection (2)(c) applies):
+(3) For the purposes of subsection (2)﻿(a), the following persons must not be treated as having paid for admission to the venue:
+  (a) a person admitted as a resident or an inmate of a place (other than a hotel, motel, camping ground, or any other place to which subsection (2)﻿(c) applies):
   (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
 
 ### 87A Free public playing or showing of communication work that is simultaneous with reception
@@ -1153,7 +1153,7 @@ ExampleA records a movie to be screened on television because she will be at wor
   (b) goods or services are supplied at the venue or a place of which it forms part at prices that—
     (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
     (ii) exceed those usually charged there and that are partly attributable to those facilities.
-(4) For the purposes of subsection (3)(a), the following persons must not be treated as having paid for admission to the venue:
+(4) For the purposes of subsection (3)﻿(a), the following persons must not be treated as having paid for admission to the venue:
   (a) a person admitted as a resident or an inmate of a place (including a person residing in a hotel, motel, camping ground, or any other place that admits persons for a fee for the purpose of temporary accommodation):
   (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
 
@@ -1197,7 +1197,7 @@ Where the making of a communication work is an infringement of copyright, the fa
     (i) by or on behalf of the person who made the recording; and
     (ii) for the use of that person or in response to a request from another person for a copy of a transcript of the recording; and
   (d) that the person who made the recording pays equitable remuneration to the copyright owner.
-(3) In subsection (2)(d), the term equitable remuneration means a sum agreed by the person who makes the recording and the copyright owner or, in the absence of agreement, a sum determined by the Tribunal on an application under section 168.
+(3) In subsection (2)﻿(d), the term equitable remuneration means a sum agreed by the person who makes the recording and the copyright owner or, in the absence of agreement, a sum determined by the Tribunal on an application under section 168.
 (4) This section does not apply if or to the extent that licences authorising the recording of the communication work and the making of transcripts of the recordings are available under a licensing scheme and the person making the recording knew that fact.
 
 **Adaptations**
@@ -1344,10 +1344,10 @@ A notice referred to in section 92C(3) must—
   (a) by ensuring that when the author or other first owner of copyright parts with possession of the original, or of a copy made by him or her or under his or her direction or control, the author is identified as the author on the original or copy, or on a frame, mount, or other thing to which it is attached; or
   (b) by including in any licence by which the author or other first owner of copyright authorises the making of copies of the work a statement signed by or on behalf of the author or other first owner of the copyright that the author asserts his or her right to be identified as the author in the event of the public exhibition of a copy made in pursuance of the licence.
 (4) The persons bound by an assertion of the right under subsection (2) or subsection (3) are,—
-  (a) in the case of an assertion under subsection (2)(a), the assignee and anyone claiming through the assignee, whether or not the person claiming through the assignee has notice of the assertion; and
-  (b) in the case of an assertion under subsection (2)(b), anyone to whose notice the assertion is brought; and
-  (c) in the case of an assertion under subsection (3)(a), anyone into whose hands that original or copy comes, whether or not the identification is still present or visible; and
-  (d) in the case of an assertion under subsection (3)(b), the person to whom the licence is granted and any person into whose hands a copy made in pursuance of the licence comes, whether or not the person has notice of the assertion.
+  (a) in the case of an assertion under subsection (2)﻿(a), the assignee and anyone claiming through the assignee, whether or not the person claiming through the assignee has notice of the assertion; and
+  (b) in the case of an assertion under subsection (2)﻿(b), anyone to whose notice the assertion is brought; and
+  (c) in the case of an assertion under subsection (3)﻿(a), anyone into whose hands that original or copy comes, whether or not the identification is still present or visible; and
+  (d) in the case of an assertion under subsection (3)﻿(b), the person to whom the licence is granted and any person into whose hands a copy made in pursuance of the licence comes, whether or not the person has notice of the assertion.
 (5) In an action for infringement of the right, the court shall, in considering remedies, take into account any delay in asserting the right.
 
 ### 97 Exceptions to right to be identified
@@ -1369,7 +1369,7 @@ A notice referred to in section 92C(3) must—
 (5) The right does not apply in relation to the publication, in—of a literary, dramatic, musical, or artistic work made for the purposes of such publication or made available with the consent of the author for the purposes of such publication.
   (a) a newspaper, magazine, or similar periodical; or
   (b) an encyclopaedia, dictionary, yearbook, or other collective work of reference,—
-(6) The right does not apply to any act done by or with the licence of the copyright owner in relation to a work in which copyright first vested in the author's employer under section 21(2) or in the director's employer under section 5(2)(b), if—
+(6) The right does not apply to any act done by or with the licence of the copyright owner in relation to a work in which copyright first vested in the author's employer under section 21(2) or in the director's employer under section 5(2)﻿(b), if—
   (a) the author or director cannot readily be identified at the time of the act; or
   (b) in the case of a literary, dramatic, musical, or artistic work—
     (i) more than 2 persons were involved in the creation of the work and it is impracticable at the time of the act to identify the respective contributions of each person to the work; and
@@ -1465,7 +1465,7 @@ A notice referred to in section 92C(3) must—
   (c) where the director is identified at the time of the act, there is a clear and reasonably prominent indication, given at the time of the act and appearing with the identification, that the film has been subjected to treatment to which the director has not consented; or
   (d) where the director has previously been identified in or on published copies of the work, there is a clear and reasonably prominent indication, given at the time of the act, that the film has been subjected to treatment to which the director has not consented.
 (4) The right does not apply to any act done, by or with the licence of the copyright owner, in relation to—unless the director—
-  (a) a film in which copyright first vested in the director's employer under section 5(2)(b); or
+  (a) a film in which copyright first vested in the director's employer under section 5(2)﻿(b); or
   (b) a film in which Crown copyright exists under section 26; or
   (c) a film in which copyright first vested in an international organisation under section 28—
   (d) is identified at the time of the act; or
@@ -1691,7 +1691,7 @@ The rights conferred by Part 4 are not assignable.
   (b) if there is no such direction but the copyright in the work in question forms part of the estate, the right passes to the person to whom the copyright passes; or
   (c) if or to the extent that the right does not pass under paragraph (a) or paragraph (b), the right is exercisable by the personal representatives.
 (2) Where—the right shall pass in the same manner as the copyright.
-  (a) under subsection (1)(b) any right passes to the person to whom the copyright passes; and
+  (a) under subsection (1)﻿(b) any right passes to the person to whom the copyright passes; and
   (b) the copyright passes in part to one person and in part to another,—
 (3) Where under paragraph (a) or paragraph (b) of subsection (1) a right becomes exercisable by more than 1 person,—
   (a) in the case of the right conferred by section 94, the right may be asserted by any of those persons; and
@@ -1785,14 +1785,14 @@ The rights conferred by Part 4 are not assignable.
   (a) match the IP address with the account holder to whom it related at the time of the infringement; and
   (b) issue the appropriate infringement notice to the account holder no later than 7 days after receiving the information.
 (2) If information from a rights owner indicates that more than 1 infringement against the rights owner has occurred, any infringement notice sent to the account holder must identify the infringement that triggers that infringement notice, which must be the earliest recorded infringement for which the infringement notice could be issued.
-(3) An IPAP need not comply with the obligation in subsection (1)(a) to match IP addresses if—
+(3) An IPAP need not comply with the obligation in subsection (1)﻿(a) to match IP addresses if—
   (a) the alleged infringement occurred more than 21 days before the IPAP received the relevant information from the rights owner; or
   (b) the alleged infringement occurred after an infringement that triggered a detection notice but before the date of that detection notice; or
   (c) the alleged infringement occurred during a quarantine period applying to the account holder with respect to the rights owner; or
   (d) the rights owner has not complied with regulations made under section 234 that impose requirements on the information, or form of information, to be provided for the purposes of subsection (1); or
   (e) the rights owner has not paid, or has not agreed to pay, a fee required by the IPAP, as permitted by section 122U.
-(4) An IPAP need not comply with the obligation in subsection (1)(b) to issue notices if—
-  (a) any of subsection (3)(a) to (e) applies; or
+(4) An IPAP need not comply with the obligation in subsection (1)﻿(b) to issue notices if—
+  (a) any of subsection (3)﻿(a) to (e) applies; or
   (b) the alleged infringement occurred within an on-notice period applying to the account holder with respect to the rights owner; or
   (c) the rights owner agrees, or asks, that a notice not be issued.
 (5) Notices issued to account holders must be sent by whatever method the IPAP uses to communicate with the account holder for billing purposes, unless the account holder and IPAP agree in writing to use a different method.
@@ -1979,7 +1979,7 @@ The rights conferred by Part 4 are not assignable.
 
 ### 122S Application of section 122C to cellular mobile networks
 (1) An IPAP need not comply with either of the obligations in section 122C(1) in respect of the services it provides by way of a cellular mobile network.
-(2) Subsection (1) is repealed with the close of 30 September 2015 (but see subsection (3)(c)).
+(2)
 (3) The Governor-General may, by Order in Council made on the recommendation of the Minister, do all or any of the following:
   (a) repeal this section:
   (b) repeal subsection (2):
@@ -2108,7 +2108,7 @@ In proceedings brought under this Act with respect to a literary, dramatic, or m
 (5) Every person who commits an offence against this section is liable on conviction—
   (a) in the case of an offence against subsection (1), to a fine not exceeding $10,000 for every infringing copy to which the offence relates, but not exceeding $150,000 in respect of the same transaction, or to imprisonment for a term not exceeding 5 years:
   (b) in the case of an offence against subsection (2) or subsection (3), to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 5 years.
-(6) Where any person is convicted of an offence against this section in circumstances where that offence involves the making of profit or gain, that offence shall be deemed to have caused a loss of property for the purposes of section 32(1)(a) of the Sentencing Act 2002, and the provisions of that Act relating to the imposition of the sentence of reparation shall apply accordingly.
+(6) Where any person is convicted of an offence against this section in circumstances where that offence involves the making of profit or gain, that offence shall be deemed to have caused a loss of property for the purposes of section 32(1)﻿(a) of the Sentencing Act 2002, and the provisions of that Act relating to the imposition of the sentence of reparation shall apply accordingly.
 (7) Sections 126 to 129 (which relate to presumptions) do not apply to proceedings for an offence against this section.
 (8)
 
@@ -2208,9 +2208,9 @@ An enforcement officer must, to the extent that is reasonably practicable, promo
   (d) take photographs or sound or video recordings of the place, and of any thing found in that place, if the enforcement officer has reasonable grounds to believe that the photographs or sound or video recordings may be relevant in any proceedings (including future proceedings) related to the entry and examination:
   (e) take any person to the place to assist him or her with the examination.
 (2) A person who assists an enforcement officer exercising the power of entry and examination may, under the direction of the enforcement officer,—
-  (a) exercise any of the powers described in subsection (1)(a), (c), and (d); and
+  (a) exercise any of the powers described in subsection (1)﻿(a), (c), and (d); and
   (b) seize any thing that the enforcement officer determines may lawfully be seized.
-(3) If an enforcement officer enters and examines a place under section 134D(1)(c) and the occupier revokes his or her consent, the officer and any person assisting the enforcement officer must immediately stop the examination and leave the place.
+(3) If an enforcement officer enters and examines a place under section 134D(1)﻿(c) and the occupier revokes his or her consent, the officer and any person assisting the enforcement officer must immediately stop the examination and leave the place.
 (4) Subsection (3) is subject to subsection (5).
 (5) The enforcement officer may, before leaving the place, seize any thing already identified by him or her before the revocation of consent as a thing that he or she has reasonable grounds to believe is evidence of, or of significant relevance to the investigation of, an offence under this Act.
 (6) If a member of the Police assists an enforcement officer, nothing in this section prevents that member of the Police from exercising any power ordinarily exercisable by him or her.
@@ -2272,7 +2272,7 @@ An enforcement officer must, to the extent that is reasonably practicable, promo
   (g) the period during which the warrant may be executed, being—
     (i) a period specified by the issuing officer not exceeding 14 days from the date of issue; or
     (ii) if the issuing officer is satisfied that a period of longer than 14 days is necessary for execution, a period specified by the issuing officer not exceeding 30 days from the date of issue:
-  (h) any conditions specified by the issuing officer under subsection (3)(b):
+  (h) any conditions specified by the issuing officer under subsection (3)﻿(b):
   (i) if the warrant may be executed on more than 1 occasion, the number of times that the warrant may be executed.
 
 ### 134J Transmission of search warrant
@@ -2281,7 +2281,7 @@ If it is not possible for the person charged with executing the warrant to have 
   (b) a copy of the text of a warrant, made at the direction of the issuing officer, and endorsed to that effect by the person who made the copy.
 
 ### 134K Retention of documents
-(1) A copy of every written application for a search warrant or, in the case of a verbal application, the written record of the application made by the issuing officer, must be retained at the District Court at which, or the District Court that is closest to the place at which, the application was made, until,—
+(1) A copy of every written application for a search warrant or, in the case of a verbal application, the written record of the application made by the issuing officer must be retained at the District Court at which, or the District Court that is closest to the place at which, the application was made, until,—
   (a) in a case where a search warrant is issued, the completion of any proceedings in respect of which the search warrant may be in issue; and
   (b) in any other case, the expiry of 2 years after the documents were first retained by the District Court.
 (2) An applicant to whom a search warrant is issued must retain the warrant, a copy of the application (if made in written form), and all documents tendered by the applicant in support of the application until,—
@@ -2305,7 +2305,7 @@ A search warrant is executed when the person executing the warrant—
 (2) The person executing the warrant may, in a manner and for the duration that is reasonable for the purposes of carrying out the search,—
   (a) secure the place or thing searched, any area within that place or thing, or any thing found within that place or thing; and
   (b) exclude any person from the place or thing searched, or from any area within the place or thing, or give any other reasonable direction to such a person, if the person carrying out the search has reasonable grounds to believe that the person will obstruct or hinder the exercise of the power.
-(3) The powers conferred by this section are subject to any conditions imposed under section 134I(3)(b).
+(3) The powers conferred by this section are subject to any conditions imposed under section 134I(3)﻿(b).
 (4) Section 198B of the Summary Proceedings Act 1957 applies with all necessary modifications as if for each reference to a constable there were substituted a reference to the person authorised to execute the search warrant.
 
 ### 134N Powers of persons called to assist
@@ -2350,8 +2350,8 @@ A search warrant is executed when the person executing the warrant—
   (a) subsection (2) applies; or
   (b) following a request, the person present refuses entry or does not allow entry within a reasonable time.
 (4) If the occupier is not present at any time during the exercise of a power of entry and search, the person carrying out the search must,—
-  (a) on completion of the search, leave a copy of the authority referred to in subsection (1)(b)(i) and the notice referred to in subsection (5) in a prominent position at the place or on the thing; or
-  (b) if this is not reasonably practicable, provide the copy of the authority referred to in subsection (1)(b)(i) and the notice referred to in subsection (5) to the occupier no later than 7 days after the execution of the warrant.
+  (a) on completion of the search, leave a copy of the authority referred to in subsection (1)﻿(b)﻿(i) and the notice referred to in subsection (5) in a prominent position at the place or on the thing; or
+  (b) if this is not reasonably practicable, provide the copy of the authority referred to in subsection (1)﻿(b)﻿(i) and the notice referred to in subsection (5) to the occupier no later than 7 days after the execution of the warrant.
 (5) The notice required by subsection (4) is a written notice containing the following particulars:
   (a) the date and time of the commencement and completion of the search:
   (b) the name or unique identifier of the person who had overall responsibility for that search:
@@ -2364,14 +2364,14 @@ A search warrant is executed when the person executing the warrant—
 ### 134Q Inventory of things seized
 (1) A person who exercises a power of entry and search or a power of entry and examination must, at the time he or she seizes any thing, or as soon as practicable after the seizure of any thing, and in any case not later than 7 days after that seizure, provide to the occupier, and to every other person whom the person who carried out the search or examination has reason to believe is the owner of the thing that was seized,—
   (a) written notice specifying what was seized; and
-  (b) a copy of the authority referred to in section 134P(1)(b)(i).
-(2) A written notice referred to in subsection (1)(a)—
+  (b) a copy of the authority referred to in section 134P(1)﻿(b)﻿(i).
+(2) A written notice referred to in subsection (1)﻿(a)—
   (a) must contain information about the extent to which a person from whom a thing was seized or the owner of the thing has a right—
     (i) to have access to the thing; and
     (ii) to have access to any document relating to the application for a search warrant or the exercise of the power of entry and examination that led to the seizure; and
   (b) must contain information about the right to bring a claim that any privileged or confidential information has been seized; but
   (c) need not be provided to the occupier if the person who carries out the search or examination is satisfied that none of the things seized are owned by the occupier.
-(3) If the occupier is not present at the time of seizure, the written notice referred to in subsection (1)(a) and a copy of the authority referred to in section 134P(1)(b)(i) may be provided to the occupier by leaving the notice in a prominent position at the place or on the thing.
+(3) If the occupier is not present at the time of seizure, the written notice referred to in subsection (1)﻿(a) and a copy of the authority referred to in section 134P(1)﻿(b)﻿(i) may be provided to the occupier by leaving the notice in a prominent position at the place or on the thing.
 (4) A person who exercises a power of entry and search or a power of entry and examination must make reasonable inquiries for the purposes of complying with subsections (1) and (2).
 (5) Subsection (1) is subject to subsections (2) and (3).
 (6) This section is subject to sections 134R and 134S.
@@ -2421,8 +2421,8 @@ A search warrant is executed when the person executing the warrant—
   (c) if a person is convicted of an offence to which the thing relates,—
     (i) that the thing be forfeited to the copyright owner; or
     (ii) that the thing be destroyed or otherwise disposed of as the court directs at the expense of the convicted person.
-(2) In considering what order, if any, should be made under subsection (1)(c)(ii), the court must consider the need to ensure that no infringing goods are disposed of in a manner that would adversely affect the copyright owner.
-(3) If the court makes an order under subsection (1)(c), it may order that the convicted person pay any reasonable costs incurred by the Commissioner of Police or chief executive in retaining the thing for the purpose of the proceedings.
+(2) In considering what order, if any, should be made under subsection (1)﻿(c)﻿(ii), the court must consider the need to ensure that no infringing goods are disposed of in a manner that would adversely affect the copyright owner.
+(3) If the court makes an order under subsection (1)﻿(c), it may order that the convicted person pay any reasonable costs incurred by the Commissioner of Police or chief executive in retaining the thing for the purpose of the proceedings.
 (4) If no order for delivery, forfeiture, destruction, or other disposal is made in respect of a thing seized and retained for the purpose of proceedings, it must, on completion of the proceedings, be returned by the Commissioner of Police or chief executive to the person entitled to it.
 (5) The Commissioner of Police or chief executive may apply to the court for an order for directions as to the disposal of the thing if—
   (a) the person who is entitled to it cannot be found; or
@@ -2529,7 +2529,7 @@ In this Part, unless the context otherwise requires,—
     (b) includes any illicit recording within the meaning of section 169, including any illicit recording that is a copyright work sold in a country other than New Zealand by or with the licence of the owner of the copyright in the work in that country; but
     (c) does not include—
       (i) any other copyright work sold in a country other than New Zealand by or with the licence of the owner of the copyright in the work in that country; or
-      (ia) any other work that is not an infringing copy within the meaning of section 12; or
+      (ia) any other work that is not an infringing copy within the meaning of section 12.
       (ii)
 
 ### 136 Notice may be given to chief executive
@@ -2563,7 +2563,7 @@ In this Part, unless the context otherwise requires,—
   (b) by posting it to the most recent address for that person that has been notified to the chief executive.
 
 ### 136B Notice of suspension
-(1) If the chief executive decides to suspend an accepted notice, the chief executive must give written notice of the suspension to the person referred to in section 136A(2)(a).
+(1) If the chief executive decides to suspend an accepted notice, the chief executive must give written notice of the suspension to the person referred to in section 136A(2)﻿(a).
 (2) The notice of suspension may be given—
   (a) by delivering it to that person; or
   (b) by posting it to the most recent address for that person that has been notified to the chief executive.
@@ -2579,7 +2579,7 @@ The chief executive may reinstate an accepted notice suspended under section 136
 
 ### 137 Determination whether item is pirated copy
 (1) Where—the chief executive may conduct such investigation as he or she considers necessary in order to establish whether or not the item appears to be a pirated copy to which the notice relates.
-  (a) a notice that has been accepted under section 136(3)(a) is in force; and
+  (a) a notice that has been accepted under section 136(3)﻿(a) is in force; and
   (b) the chief executive forms the opinion that any item that has been imported and that is in the control of the Customs may be a pirated copy to which the notice relates,—
 (2) Where the chief executive conducts an investigation, he or she may, subject to section 138, require—to supply such information as the chief executive may specify for the purpose of the investigation, within 10 working days of being required to do so.
   (a) the claimant; or
@@ -2605,20 +2605,20 @@ The chief executive may reinstate an accepted notice suspended under section 136
 (3) The detention of any item under section 140 is not rendered illegal by a failure to serve notice under subsection (1).
 
 ### 140 Detention of pirated copy
-(1) Where the chief executive has formed an opinion that an item that has been imported and that is in the control of the Customs may be a pirated copy to which a notice accepted under section 136(3)(a) relates, that item shall be detained in the custody of the chief executive or any Customs officer until—whereupon the item shall, subject to subsection (3), be released to the person entitled to it.
+(1) Where the chief executive has formed an opinion that an item that has been imported and that is in the control of the Customs may be a pirated copy to which a notice accepted under section 136(3)﻿(a) relates, that item shall be detained in the custody of the chief executive or any Customs officer until—whereupon the item shall, subject to subsection (3), be released to the person entitled to it.
   (a) the chief executive is served with an order made in proceedings under section 141(1) that the notice be discharged; or
   (b) the chief executive is served with an order made in proceedings under section 141(2) that the item be released; or
   (c) any proceedings under section 141(3) in respect of that item (including any appeal) are determined by a decision that the item is not a pirated copy that has been imported other than for private and domestic use; or
   (d) any proceedings under section 141(3) in respect of that item, including any appeal, are abandoned; or
   (e) 10 working days have elapsed since notice was served under section 139 and the chief executive has not been served with notice of proceedings brought under section 141(3) by a person other than the importer or consignee;—
-(2) The chief executive may in any particular case extend the period referred to in subsection (1)(e) to 20 working days if he or she considers it appropriate to do so in all the circumstances.
+(2) The chief executive may in any particular case extend the period referred to in subsection (1)﻿(e) to 20 working days if he or she considers it appropriate to do so in all the circumstances.
 (3) The chief executive or any Customs officer shall not release any item under subsection (1) unless—
   (a) any other legal requirements as to importation of the item are satisfied; and
   (b) any requirements made pursuant to any regulations made under this Act requiring the deposit of a security have been satisfied; and
   (c) the release of the item is not otherwise contrary to law.
 
 ### 141 Proceedings
-(1) Any person may apply to the court for an order that a notice accepted under section 136(3)(a) be discharged, and the court may make such an order accordingly.
+(1) Any person may apply to the court for an order that a notice accepted under section 136(3)﻿(a) be discharged, and the court may make such an order accordingly.
 (2) Any person may apply to the court for an order that an item detained under section 140 be released, and the court may make such an order accordingly.
 (3) Any person may apply to the court for a decision on whether or not an item the subject of a determination made under section 137(3) is a pirated copy that has been imported other than for private and domestic use, and the court shall make such a decision accordingly.
 (4) Notice of proceedings under subsection (3) shall be served on the chief executive.
@@ -2656,7 +2656,7 @@ If any pirated copies have been detained in the custody of the chief executive o
 **Enforcement powers of Customs officers**
 
 ### 144 Customs officer may seize goods in control of Customs
-(1) A Customs officer may seize any imported goods that are in the control of the Customs if the officer has reasonable cause to believe that they are evidence of, or of significant relevance to the investigation of, an offence against section 131(1)(b), 198(1)(b), or 226C(1).
+(1) A Customs officer may seize any imported goods that are in the control of the Customs if the officer has reasonable cause to believe that they are evidence of, or of significant relevance to the investigation of, an offence against section 131(1)﻿(b), 198(1)﻿(b), or 226C(1).
 (2) The provisions of sections 134T to 134W apply with all necessary modifications in respect of any imported goods seized under this section and in applying those provisions every reference to the chief executive must be read as a reference to the chief executive of the New Zealand Customs Service.
 
 ### 144A Chief executive may require person to produce documents concerning goods in control of Customs
@@ -2669,7 +2669,7 @@ If any pirated copies have been detained in the custody of the chief executive o
     (i) delivering it to him or her in person; or
     (ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
+    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
 (3) A Customs officer to whom a document is produced for inspection may do 1 or more of the following:
   (a) inspect the document:
   (b) take extracts from the document:
@@ -2685,7 +2685,7 @@ If any pirated copies have been detained in the custody of the chief executive o
     (i) delivering it to him or her in person; or
     (ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
+    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
 
 ### 144C Customs officer may apply for production order
 (1) If a Customs officer believes on reasonable grounds that a person has in his or her possession, custody, or control, 1 or more documents that are evidence of, or may be of significant relevance to the investigation of, an offence against section 131, 198, or 226C in respect of imported goods, the Customs officer may apply to a District Court Judge for an order requiring the person to produce the documents for inspection by a Customs officer.
@@ -2832,7 +2832,7 @@ Sections 149 to 155 apply to—and in those sections the term licensing scheme m
 (3) The Tribunal may direct that the order, so far as it varies the amount of charges payable, has effect from a date before that on which the order is made, but not earlier than the date on which the reference was made or, if later, on which the scheme came into operation.
 (4) If such a direction is made,—
   (a) any necessary repayments, or further payments, shall be made in respect of charges already paid; and
-  (b) the reference in subsection (2)(a) to the charges payable under the scheme shall be construed as a reference to the charges so payable under the order.
+  (b) the reference in subsection (2)﻿(a) to the charges payable under the scheme shall be construed as a reference to the charges so payable under the order.
 
 **Applications with respect to licensing schemes**
 
@@ -2901,7 +2901,7 @@ Sections 157 to 160 apply to the following descriptions of licences granted by a
 (3) The Tribunal may direct that an order made under section 157 or section 158, or an order made under section 159 varying such an order, so far as it varies the amount of charges payable, has effect from a date before that on which the order is made, but not earlier than the date on which the reference or application was made or, if later, on which the licence was granted or, as the case may be, was due to expire.
 (4) If such a direction is made,—
   (a) any necessary repayments, or further payments, shall be made in respect of charges already paid; and
-  (b) the reference in subsection (1)(a) to the charges payable in accordance with the order shall be construed, where the order is varied by a later order, as a reference to the charges so payable under the later order.
+  (b) the reference in subsection (1)﻿(a) to the charges payable in accordance with the order shall be construed, where the order is varied by a later order, as a reference to the charges so payable under the later order.
 
 **Factors to be taken into account in certain classes of cases**
 
@@ -2958,11 +2958,11 @@ Where a reference or application is made under this Part relating to the licensi
 
 ### 168 Determination of equitable remuneration
 (1) Where—either party may apply to the Tribunal to determine the remuneration to be paid.
-  (a) a copyright owner and a librarian cannot agree as to the remuneration to be paid to the copyright owner under section 54(2)(d); or
+  (a) a copyright owner and a librarian cannot agree as to the remuneration to be paid to the copyright owner under section 54(2)﻿(d); or
   (b) a copyright owner and the Crown cannot agree as to the remuneration to be paid to the copyright owner under section 63(2); or
   (c) an exclusive licensee and the Crown cannot agree as to the remuneration to be paid to the exclusive licensee under section 64(2); or
   (d) a licensee and the copyright owner or the exclusive licensee, as the case may be, cannot agree on the part of the payment to be paid to the licensee under section 64(3); or
-  (e) a copyright owner and a person who makes a recording of a communication work cannot agree as to the remuneration to be paid to the copyright owner under section 91(2)(d),—
+  (e) a copyright owner and a person who makes a recording of a communication work cannot agree as to the remuneration to be paid to the copyright owner under section 91(2)﻿(d),—
 (2) The Tribunal shall consider the matter and make such order as it may determine to be reasonable in the circumstances.
 (3) Either party to an order made under this section may apply to the Tribunal to review its order.
 (4) Except with the special leave of the Tribunal, an application under subsection (3) shall not be made earlier than the end of the period of 12 months from the date of the original order or of the order on a previous application under that subsection.
@@ -3151,7 +3151,7 @@ The rights conferred by this Part are not infringed by anything done for the pur
   (a) must only be used for communicating it to the public in circumstances not infringing rights under this Part; and
   (b) must be destroyed within 6 months after first being communicated to the public, unless the Minister has authorised the preservation of the recording in the records of a government department or in the national archives because of its documentary character or exceptional importance.
 (3) A recording made in accordance with this section is treated as an illicit recording—
-  (a) for the purposes of any use in breach of the condition in subsection (2)(a); and
+  (a) for the purposes of any use in breach of the condition in subsection (2)﻿(a); and
   (b) for all purposes after either of the conditions in subsection (2) is broken.
 
 ### 188 Free public playing or showing of communication work
@@ -3166,8 +3166,8 @@ The rights conferred by this Part are not infringed by anything done for the pur
     (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
     (ii) exceed those usually charged there and that are partly attributable to those facilities; or
   (c) the venue is a hotel, motel, camping ground, or any other place that admits persons for a fee for the purposes of temporary accommodation, and the audience is made up of persons residing at that hotel, motel, camping ground, or other place.
-(3) For the purposes of subsection (2)(a), the following persons must not be treated as having paid for admission to the venue:
-  (a) a person admitted as a resident or an inmate of a place (other than a hotel, motel, camping ground, or any other place to which subsection (2)(c) applies):
+(3) For the purposes of subsection (2)﻿(a), the following persons must not be treated as having paid for admission to the venue:
+  (a) a person admitted as a resident or an inmate of a place (other than a hotel, motel, camping ground, or any other place to which subsection (2)﻿(c) applies):
   (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
 
 ### 188A Free public playing or showing of communication work that is simultaneous with reception
@@ -3183,7 +3183,7 @@ The rights conferred by this Part are not infringed by anything done for the pur
   (b) goods or services are supplied at the venue or a place of which it forms part at prices that—
     (i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
     (ii) exceed those usually charged there and that are partly attributable to those facilities.
-(4) For the purposes of subsection (3)(a), the following persons must not be treated as having paid for admission to the venue:
+(4) For the purposes of subsection (3)﻿(a), the following persons must not be treated as having paid for admission to the venue:
   (a) a person admitted as a resident or an inmate of a place (including a person residing in a hotel, motel, camping ground, or any other place that admits persons for a fee) for the purpose of temporary accommodation:
   (b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
 
@@ -3228,7 +3228,7 @@ The rights conferred by this Part exist in relation to a performance until the e
 (2) On the death of a person entitled to performers' rights,—and references in this Part to the performer, in the context of the person having performers' rights, shall be construed as references to the person for the time being entitled to exercise those rights.
   (a) the rights pass to such person or persons as he or she may by testamentary disposition specifically direct; and
   (b) if or to the extent that there is no such direction, the rights are exercisable by his or her personal representatives;—
-(3) Where, under subsection (2)(a), a right becomes exercisable by more than 1 person, it is exercisable by each of them independently of the other or others.
+(3) Where, under subsection (2)﻿(a), a right becomes exercisable by more than 1 person, it is exercisable by each of them independently of the other or others.
 (4) Any damages recovered by personal representatives pursuant to this section in respect of an infringement after a person's death shall devolve as part of his or her estate as if the right of action had existed and been vested in him or her immediately before his or her death.
 
 **Consent**
@@ -3282,7 +3282,7 @@ The rights conferred by this Part exist in relation to a performance until the e
 (4) Every person who commits an offence against subsection (1) or subsection (2) or subsection (3) is liable on conviction,—
   (a) in the case of an offence against subsection (1), to a fine not exceeding $5,000 for every illicit recording to which the offence relates, but not exceeding $50,000 in respect of the same transaction, or to imprisonment for a term not exceeding 3 months:
   (b) in the case of an offence against subsection (2) or subsection (3), to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 months.
-(5) Where any person is convicted of an offence against this section in circumstances where that offence involves the making of profit or gain, that offence shall be deemed to have caused a loss of property for the purposes of section 32(1)(a) of the Sentencing Act 2002, and the provisions of that Act relating to the imposition of the sentence of reparation shall apply accordingly.
+(5) Where any person is convicted of an offence against this section in circumstances where that offence involves the making of profit or gain, that offence shall be deemed to have caused a loss of property for the purposes of section 32(1)﻿(a) of the Sentencing Act 2002, and the provisions of that Act relating to the imposition of the sentence of reparation shall apply accordingly.
 
 ### 199 Order for delivery up in criminal proceedings
 (1) The court before which proceedings are brought against a person for an offence against section 198 may, if satisfied that, at the time of the defendant's arrest or charge, the defendant had in his possession, custody, or control in the course of a business an illicit recording, order that the recording be delivered up to a person having performers' rights in relation to the performance or to such other person as the court may direct.
@@ -3421,9 +3421,9 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
   (a) by delivering it personally to the person summoned; or
   (b) by posting it by registered letter addressed to the person summoned at that person's usual place of residence.
 (2) The summons shall,—
-  (a) where it is served under subsection (1)(a), be served at least 24 hours before the attendance of the witness is required; or
-  (b) where it is served under subsection (1)(b), be served at least 10 days before the date on which the attendance of the witness is required.
-(3) If the summons is posted by registered letter, it shall be deemed for the purposes of subsection (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
+  (a) where it is served under subsection (1)﻿(a), be served at least 24 hours before the attendance of the witness is required; or
+  (b) where it is served under subsection (1)﻿(b), be served at least 10 days before the date on which the attendance of the witness is required.
+(3) If the summons is posted by registered letter, it shall be deemed for the purposes of subsection (2)﻿(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
 
 ### 218 Witnesses' allowances
 (1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations shall apply accordingly.
@@ -3592,12 +3592,12 @@ A copyright owner or licensee of a work has the same rights in relation to a con
   (b) sends encrypted transmissions of any other description from a place in New Zealand—
 (2) A person to whom subsection (1) applies—
   (a) has the same rights and remedies against a person referred to in subsection (3) as a copyright owner has in respect of an infringement of copyright; and
-  (b) has the same rights under section 122 or section 132 in relation to any apparatus or device (of the kind referred to in subsection (3)(a)) as a copyright owner has in relation to an infringing copy.
+  (b) has the same rights under section 122 or section 132 in relation to any apparatus or device (of the kind referred to in subsection (3)﻿(a)) as a copyright owner has in relation to an infringing copy.
 (3) The person referred to in subsection (2) is a person who—
   (a) makes, imports, sells, or lets for hire any apparatus or device designed or adapted to enable or assist persons to receive the programmes or other transmissions when they are not entitled to do so; or
   (b) publishes any information that is calculated to enable or assist persons to receive the programmes or other transmissions when they are not entitled to do so.
 (4) In section 121(1) as it applies to proceedings for infringement of the rights conferred by this section, the reference to the defendant not knowing or having reason to believe that copyright existed in the work shall be construed as a reference to not knowing or having reason to believe that the acts complained of infringed the rights conferred by this section.
-(5) Section 134 applies, with all necessary modifications, in relation to the disposal of anything delivered up under subsection (2)(b).
+(5) Section 134 applies, with all necessary modifications, in relation to the disposal of anything delivered up under subsection (2)﻿(b).
 
 **Other countries**
 
@@ -3751,7 +3751,7 @@ The transitional provisions in Schedule 1 shall have effect for the purposes of 
   (a) under section 19; or
   (b) under section 230; or
   (c) under an Order in Council made under section 232.
-(2) A work first published in New Zealand before 1 April 1963 does not qualify for copyright under section 19(1)(a) if the work was published elsewhere more than 14 days before the publication in New Zealand.
+(2) A work first published in New Zealand before 1 April 1963 does not qualify for copyright under section 19(1)﻿(a) if the work was published elsewhere more than 14 days before the publication in New Zealand.
 
 ### 6 No copyright under new copyright provisions in certain works
 (1) No copyright exists, under the new copyright provisions, in the following works:
@@ -3764,7 +3764,7 @@ The transitional provisions in Schedule 1 shall have effect for the purposes of 
 
 ### 7 Meaning of author
 The question of authorship of a work made before commencement shall be determined in accordance with—
-  (a) clause 11(3)(b) in relation to a soundtrack associated with a cinematograph film within the meaning of the 1962 Act:
+  (a) clause 11(3)﻿(b) in relation to a soundtrack associated with a cinematograph film within the meaning of the 1962 Act:
   (b) clause 12(1) in relation to a film made before 1 April 1963:
   (c) the new copyright provisions for the purposes of the rights conferred by Part 4:
   (d) the law in force at the time the work was made, for all other works and purposes.
@@ -3825,7 +3825,7 @@ For the purposes of section 12, the question of whether the making of an object 
 The question of first ownership of copyright in a work made before commencement shall be determined in accordance with the law in force at the time the work was made.
 
 ### 15 Certain literary works made before 1 April 1963
-Where a literary work—the ownership of copyright in the work, under section 8(1)(b) of the 1913 Act, by the person by whom the author was employed shall be subject to a right in the author to restrain the publication of the work otherwise than as part of a newspaper, magazine, or similar periodical (being the right referred to in paragraph (b) of the proviso to section 8(1) of the 1913 Act).
+Where a literary work—the ownership of copyright in the work, under section 8(1)﻿(b) of the 1913 Act, by the person by whom the author was employed shall be subject to a right in the author to restrain the publication of the work otherwise than as part of a newspaper, magazine, or similar periodical (being the right referred to in paragraph (b) of the proviso to section 8(1) of the 1913 Act).
   (a) was made before 1 April 1963; and
   (b) was made in the course of the author's employment;—
 
@@ -3851,7 +3851,7 @@ Where a literary work—any copyright in that work under the new copyright provi
     (i) if the work was published before commencement, subsections (3) to (5) of section 22 apply; and
     (ii) if the work was unpublished before commencement, copyright exists until the end of the period of 50 years from the end of the calendar year in which the new copyright provisions come into force or, if during that period the work is first made available to the public within the meaning of subsection (4) of section 22, the date on which copyright expires under subsection (3) of that section; and
   (e) a literary, dramatic, musical, or artistic work made before commencement, other than a work to which paragraphs (a) to (d) or clause 18 or clause 19 applies, section 22(1) applies.
-(3) If, in any case to which subclause (2)(d)(ii) applies, the identity of the author becomes known before the date on which the copyright would otherwise have expired, copyright expires in accordance with section 22(1).
+(3) If, in any case to which subclause (2)﻿(d)﻿(ii) applies, the identity of the author becomes known before the date on which the copyright would otherwise have expired, copyright expires in accordance with section 22(1).
 (4) In relation to—
   (a) a sound recording made before commencement, section 23(1) applies; and
   (b) a cinematograph film, within the meaning of the 1962 Act, made on or after 1 April 1963 and before the commencement, section 23(1) applies; and
@@ -3911,10 +3911,10 @@ For the purposes of section 35, if a person knows or has reason to believe that 
 **Acts permitted in relation to copyright works**
 
 ### 25 Incidental copying of copyright work
-Where the acts described in section 41(1)(b) or (c) are done after commencement, it shall be assumed that all the provisions of section 41 were in force at all material times.
+Where the acts described in section 41(1)﻿(b) or (c) are done after commencement, it shall be assumed that all the provisions of section 41 were in force at all material times.
 
 ### 26 Acts permitted on assumptions as to expiry of copyright or death of author in relation to anonymous or pseudonymous works
-Section 67(1)(b)(ii) applies—
+Section 67(1)﻿(b)﻿(ii) applies—
   (a) to a work of unknown authorship that was unpublished before commencement, being a literary, dramatic, musical, or artistic work (other than a photograph), only after the end of the period of 50 years from the end of the calendar year in which the new copyright provisions come into force; and
   (b) to a work referred to in clause 17, if the work is one to which, under that clause, a section of this Act applies.
 
@@ -3928,7 +3928,7 @@ Where the acts described in section 73(3) are done after commencement, it shall 
   (a) was made before 1 April 1963; and
   (b) at the time when the work was made, constituted a design capable of registration under the Designs Act 1953 or under the enactments repealed by that Act; and
   (c) has been used as a model or pattern to be multiplied by an industrial process or is intended to be so used.
-(2) For the purposes of subclause (1)(c), a design shall be deemed to have been used, or to be intended to be used, as a model or pattern to be multiplied by any industrial process—
+(2) For the purposes of subclause (1)﻿(c), a design shall be deemed to have been used, or to be intended to be used, as a model or pattern to be multiplied by any industrial process—
   (a) when the design is copied or is intended to be copied on more than 50 single objects, unless all the objects in which the design is copied or intended to be copied together form only a single set of articles as defined in section 2(1) of the Designs Act 1953; or
   (b) when the design is applied to, or is intended to be applied to,—
     (i) printed paper hangings; or
@@ -4059,7 +4059,7 @@ Section 111(2) does not apply in relation to an exclusive licence granted before
 **Effect of notices given under section 22 or section 29 of the Copyright Act 1962**
 
 ### 42 Records of musical works
-(1) Where, before commencement, a person gave notice under section 22(1)(b) of the 1962 Act of his or her intention to make or import a record of a musical work, any making or importing of the record by that person after commencement shall not be an infringement of any copyright in the musical work if the conditions set out in section 22 of the 1962 Act are fulfilled.
+(1) Where, before commencement, a person gave notice under section 22(1)﻿(b) of the 1962 Act of his or her intention to make or import a record of a musical work, any making or importing of the record by that person after commencement shall not be an infringement of any copyright in the musical work if the conditions set out in section 22 of the 1962 Act are fulfilled.
 (2) The provisions of—that are in force immediately before commencement shall continue to apply for the purpose of completing or perfecting any matter in progress immediately before commencement.
   (a) sections 22 and 23 of the 1962 Act; and
   (b) regulations 3(2) and 4 to 7 of the Copyright (Record Royalties) Regulations 1963—
