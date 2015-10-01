@@ -1,5 +1,5 @@
 # Land Transfer Act 1952
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2015-10-01_
 
 > An Act to consolidate and amend certain enactments relating to the registration and transfer of title to land
 
@@ -9,7 +9,7 @@ This Act may be cited as the Land Transfer Act 1952, and shall come into force o
 ### 2 Interpretation
 In this Act, and in all instruments purporting to be made and executed under this Act, unless the context otherwise requires,—
   - **bankruptcy** means the vesting in any person or persons of any estate or interest of a debtor for the benefit of creditors generally, by deed of arrangement or otherwise, under authority of any court of competent jurisdiction
-  - **computer register** has the same meaning as in the section 4 of Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002
+  - **computer register** has the same meaning as in section 4 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002
   - **Crown grant** means the grant of any land by the Crown, and includes certificates of title issued in lieu of grant
   - **dealing** means every transfer, transmission, mortgage, lease, or encumbrance of any estate or interest under this Act
   - **department** means Land Information New Zealand, or such other department or ministry as has, with the authority of the Prime Minister, for the time being assumed responsibility for the administration of this Act
@@ -45,6 +45,9 @@ In this Act, and in all instruments purporting to be made and executed under thi
   - **Surveyor-General** means the person holding office with that title under the Cadastral Survey Act 2002 or otherwise
   - **transmission** means the acquirement of title to an estate or interest by operation of law
   - **working day** means a day on which the Land Registry Office is to be open to the public in accordance with regulations made under this Act.
+
+### 2AA Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 2A Act binds the Crown
 This Act binds the Crown.
@@ -117,8 +120,8 @@ Land over which the Maori title has been extinguished since the constitution of 
   (a) issue a certificate of title for the land in form 1 of Schedule 1; or
   (b) create a computer register for the land and, if the land is not electronic transactions land, issue a certificate of title accordingly.
 (2) The—has the force and effect of a Crown grant.
-  (a) issue of a certificate of title under subsection (1)(a), when signed and registered; or
-  (b) recording of information in the register under subsection (1)(b), when effected,—
+  (a) issue of a certificate of title under subsection (1)﻿(a), when signed and registered; or
+  (b) recording of information in the register under subsection (1)﻿(b), when effected,—
 (3) This section and sections 14, 17, and 18 are subject to section 116 of the Land Act 1948, and—may be varied as required by the operation of that section.
   (a) the form of a certificate of title; or
   (b) the form in which information is recorded in the register,—
@@ -182,7 +185,7 @@ If it appears to the satisfaction of the Registrar that the land in respect of w
 If it appears that the applicant is the original grantee from the Crown, and that no instrument, matter, or thing affecting the title to the land other than the Crown grant has been registered, the Registrar may dispense with the aforesaid advertisement, and in that case the Registrar may proceed forthwith to bring the land under this Act by issuing to the applicant, or to such person as he by writing under his hand directs, a certificate of title in form 2 of Schedule 1.
 
 ### 25 When Registrar may reject application or order service of notices
-If it appears to the Registrar that any person interested (otherwise than as a lessee under a lease for years) is not a party to any application, or that the evidence adduced by the applicant in support of his claim or of any matters which he is required to prove is deficient in any essential particular, the Registrar may either reject the application, or at discretion may limit a time, by advertisement as aforesaid, within which caveat may be lodged forbidding the bringing of the land under this Act, and in such latter case may direct that such notices shall be served by the applicant upon such persons and in such form and manner as the Registrar deem necessary, and that, in addition to the advertisements prescribed in section 23, notice of the application be advertised at the cost of the applicant in any gazette or newspaper published in New Zealand or elsewhere.
+If it appears to the Registrar that any person interested (otherwise than as a lessee under a lease for years) is not a party to any application, or that the evidence adduced by the applicant in support of his claim or of any matters which he is required to prove is deficient in any essential particular, the Registrar may either reject the application, or at discretion may limit a time, by advertisement as aforesaid, within which caveat may be lodged forbidding the bringing of the land under this Act, and in such latter case may direct that such notices shall be served by the applicant upon such persons and in such form and manner as the Registrar deems necessary, and that, in addition to the advertisements prescribed in section 23, notice of the application be advertised at the cost of the applicant in any gazette or newspaper published in New Zealand or elsewhere.
 
 ### 26 Notice of application to be posted in an appropriate office of the Registrar
 The Registrar shall, in addition to the notices aforesaid, cause notice of every such application as last mentioned to be posted in a conspicuous place in an appropriate office of the Registrar, and in such other places as he may deem expedient, and shall forward a copy of the notice addressed to each of the persons (if any) stated by the applicant to be in occupation of the land, or to be occupiers or proprietors of land adjoining.
@@ -274,13 +277,13 @@ No Registrar shall register any instrument purporting to transfer or otherwise t
 (1) Subject to any regulations under this Act, where any instrument lodged for registration with the Registrar is found not to be in order for registration, he may—
   (a) return the instrument and all other instruments lodged in connection therewith, or such of them as he thinks fit, to the person by whom they were lodged or, where that person is not available, to such other person as may, in the opinion of the Registrar, be entitled to receive them; or
   (b) retain the instrument in his office pending rectification of any matter required by the Registrar to be rectified.
-(1A) Where the Registrar makes a finding under subsection (1), but has already returned the instrument lodged for registration (other than pursuant to subsection (1)(a)), the Registrar must give a notice to the person by whom the instrument was lodged specifying that—and the instrument must be treated as so returned or retained for the purposes of this section.
-  (a) the return of the instrument is to be regarded as having been made under subsection (1)(a); or
-  (b) the instrument is to be regarded as having been retained pursuant to subsection (1)(b),—
+(1A) Where the Registrar makes a finding under subsection (1), but has already returned the instrument lodged for registration (other than pursuant to subsection (1)﻿(a)), the Registrar must give a notice to the person by whom the instrument was lodged specifying that—and the instrument must be treated as so returned or retained for the purposes of this section.
+  (a) the return of the instrument is to be regarded as having been made under subsection (1)﻿(a); or
+  (b) the instrument is to be regarded as having been retained pursuant to subsection (1)﻿(b),—
 (2) If any requisition made by the Registrar in respect of any instrument retained for rectification as aforesaid is not complied with within such time as the Registrar may specify in that behalf in a notice forwarded to the person who lodged the instrument, or to the person entitled under the instrument, the Registrar—
   (a) may refuse to complete or proceed with the registration of the instrument or to do any act or make any entry in relation thereto; and
   (b) may thereupon return the instrument and all other instruments lodged in connection therewith, or such of those instruments as he thinks fit, to the person by whom they were lodged or, where that person is not available, to such other person as may, in the opinion of the Registrar, be entitled to receive them.
-(3) If any instrument is returned as provided in subsection (1)(a), the Registrar may determine that either—
+(3) If any instrument is returned as provided in subsection (1)﻿(a), the Registrar may determine that either—
   (a) any fees paid to the Registrar in respect of the instrument are forfeited; or
   (b) any fees paid to the Registrar are forfeited unless any matter required to be rectified to enable the instrument to be registered is so rectified and the instrument is again lodged with the Registrar within a period specified by the Registrar.
 (4) Where any instrument is returned as provided in paragraph (b) of subsection (2), any fees paid to the Registrar in respect of that instrument shall be forfeited.
@@ -308,9 +311,9 @@ Any person may have access to the register for the purpose of inspection during 
   (c) by posting it to that office.
 (2) For the purpose of subsection (1), designated land registry office means any land registry office designated for that purpose by the Registrar.
 (3) Subject to subsections (4), (5), and (6), an instrument presented for registration under this section has priority as provided for in section 37.
-(4) An instrument presented in the manner provided for in subsection (1)(b) or (c) is deemed to have been presented for registration on the business day after the day on which it is received by the Registrar and before any other matter presented on the day of registration in relation to the same land.
-(5) Any caveat of any kind or notice of claim under the Property (Relationships) Act 1976 that is presented to the Registrar in the manner provided for in subsection (1)(b) or (c) is deemed to have been presented for entry after any other instrument presented to the Registrar in the same manner on the same day.
-(6) Except where subsection (5) applies, if 2 or more instruments are received in the manner provided for in subsection (1)(b) or (c), they have priority as between themselves,—
+(4) An instrument presented in the manner provided for in subsection (1)﻿(b) or (c) is deemed to have been presented for registration on the business day after the day on which it is received by the Registrar and before any other matter presented on the day of registration in relation to the same land.
+(5) Any caveat of any kind or notice of claim under the Property (Relationships) Act 1976 that is presented to the Registrar in the manner provided for in subsection (1)﻿(b) or (c) is deemed to have been presented for entry after any other instrument presented to the Registrar in the same manner on the same day.
+(6) Except where subsection (5) applies, if 2 or more instruments are received in the manner provided for in subsection (1)﻿(b) or (c), they have priority as between themselves,—
   (a) if section 41(2) applies to the instruments, in accordance with that provision:
   (b) if section 41(2) does not apply to the instruments, in the order in which they were date and time stamped as received by the Registrar.
 
@@ -619,7 +622,7 @@ Where the Registrar issues a certificate of title for any access strip under sec
   (d) substituting rights and powers for any implied rights and powers.
 (4) Subsection (3) does not apply to easements created under section 90B.
 (5) The rights and powers that apply by virtue of this section become binding on the grantor and the grantee on the registration of the easement.
-(6) The provisions of this section are in addition to, and not in derogation, of the provisions of sections 26(4), 27(3), and 28(3) of the Housing Act 1955.
+(6) The provisions of this section are in addition to, and not in derogation of, the provisions of sections 26(4), 27(3), and 28(3) of the Housing Act 1955.
 
 ### 90E General provisions relating to easements
 (1) Despite any rule of law or equity to the contrary, an easement may be created under any of sections 90, 90A, or 90B, or varied under section 90C, even though the same person is the registered proprietor of both the dominant and servient tenements or is both the grantor and grantee.
@@ -644,7 +647,7 @@ Where the Registrar issues a certificate of title for any access strip under sec
 (2) Sections 90A to 90E apply with any necessary modifications to covenants created under subsection (1), subject to the following exceptions:
   (a) sections 90A(5) and 90B(6) operate only to create covenants with effect only as a deed inter partes:
   (b) sections 90A(6) and 90B(7) do not apply.
-(3) Sections 4, 8(1) and (2)(c), 23(2), 275 to 279, 301 to 307, and 316 to 318 of the Property Law Act 2007 apply to covenants created under subsection (1).
+(3) Sections 4, 8(1) and (2)﻿(c), 23(2), 275 to 279, 301 to 307, and 316 to 318 of the Property Law Act 2007 apply to covenants created under subsection (1).
 (4) A notification under section 307 of the Property Law Act 2007 does not give a covenant created under subsection (1) any greater force than it would have had if created in some other way.
 (5) Subsection (4) is for the avoidance of doubt.
 
@@ -659,7 +662,7 @@ The Registrar, upon cancelling any grant or certificate by endorsement as afores
 
 ### 94 Certificate for balance not transferred may remain valid
 (1) When any certificate of title is partially cancelled by endorsement thereon of a memorial of transfer of a portion of the land, the Registrar may, at his discretion, allow the person entitled to the untransferred balance of the land to retain the certificate, and the same shall, as to the untransferred balance, remain in full force and effect; provided that the memorial shall clearly define what portion of the land has been transferred.
-(2) In the case of a transfer of a road line to Her Majesty the Registrar may mark the road line upon the plan on the certificate, or upon a new plan upon the certificate, and endorse a description of the road line upon the said certificate; and in any such case it shall not be necessary to issue a certificate for the road line, but the old certificate, or a new one, may be reissued with the road line marked thereon, with a memorandum that the transfer has been registered.
+(2) In the case of a transfer of a road line to Her Majesty, the Registrar may mark the road line upon the plan on the certificate, or upon a new plan upon the certificate, and endorse a description of the road line upon the said certificate; and in any such case it shall not be necessary to issue a certificate for the road line, but the old certificate, or a new one, may be reissued with the road line marked thereon, with a memorandum that the transfer has been registered.
 
 ### 95 Estates for life, or in reversion, or remainder
 (1) The registered proprietor of land under this Act may create or execute any powers of appointment, or limit any estates, whether by remainder or in reversion or by way of executory limitation, and whether contingent or otherwise, and for that purpose may modify or alter any form of transfer hereby prescribed.
@@ -884,7 +887,7 @@ No lease of mortgaged or encumbered land shall be binding upon the mortgagee exc
 (3) A reference in this section to a right to occupy or use a specified office or residential flat includes a reference to any rights conferred by the constitution of the company or the licence to use any garage, outbuilding or other structure, or any passages, stairways, or other appurtenances, services or conveniences of the building of which the flat or office forms part, or the land appurtenant to that building.
 
 ### 121B Issue of share certificates
-(1) Every flat or office owning company must issue to every shareholder in the company a share certificate that complies with the requirements of section 95(1)(a), (b), and (c) of the Companies Act 1993.
+(1) Every flat or office owning company must issue to every shareholder in the company a share certificate that complies with the requirements of section 95(1)﻿(a), (b), and (c) of the Companies Act 1993.
 (2) Where a company acts in contravention of or fails to comply with subsection (1),—
   (a) the company commits an offence and is liable on conviction to a fine not exceeding $5,000:
   (b) every director of the company commits an offence, and is liable on conviction to a fine not exceeding $5,000, unless the director shows that—
@@ -1108,7 +1111,7 @@ So long as a caveat under section 136 remains in force the Registrar shall not p
     (i) a power of sale conferred on the transferor by virtue of a registered mortgage of that estate or interest; or
     (ii) the power conferred on the Registrar of the High Court by section 196 of the Property Law Act 2007 in respect of a registered mortgage of that estate or interest—
   (b) the caveat was lodged after the registration of the empowering mortgage; and
-  (c) the estate or interest claimed by the caveator arises under an unregistered mortgage or an agreement to mortgage, dated later than the date of registration of the empowering mortgage and relating to the same estate or interest to which the empowering mortgage relates; and
+  (c) the estate or interest claimed by the caveator arises under an unregistered mortgage or an agreement to mortgage, dated later than the date of registration of the empowering mortgage and relating to the same estate or interest to which the empowering mortgage relates.
   (d)
 (4) In any case to which subsection (3) applies, the caveat shall, upon the registration of the transfer, be deemed to have lapsed and the estate or interest of the mortgagor therein expressed to be transferred shall pass to and vest in the purchaser freed and discharged of the estate or interest claimed by the caveator; and the Registrar may make on the register any entry necessary to show that the caveat has lapsed.
 (5) Without limiting subsection (3), a caveat under section 137 does not prevent the Registrar making an entry to give effect to—
@@ -1215,6 +1218,129 @@ In every instrument charging, creating, or transferring any estate or interest u
 ### 156 Action for breach of covenant
 In any action for a breach of any implied covenant, the covenant alleged to be broken may be set forth in the statement of claim, and it may be alleged that the party against whom the action is brought did so covenant precisely in the same manner as if the covenant had been expressed in words in the instrument, any law or practice to the contrary notwithstanding.
 
+**Tax statement required for registration of instrument to transfer some estates in land**
+
+### 156A Interpretation
+(1) For the purpose of this section and sections 156B to 156J, unless the context otherwise requires,—
+  - **certifier** means a person who provides the certification for a transferor or a transferee in accordance with section 164A for a transfer of a specified estate in land
+  - **chief executive** means the chief executive of the department
+  - **main home** means, for a person, the 1 dwelling—
+    (a) that is mainly used as a residence by the person (a home); and
+    (b) with which the person has the greatest connection, if they have more than 1 home
+  - **nominee** has the meaning given to it in section YB 21(2) of the Income Tax Act 2007
+  - **offshore person** has the meaning given to it in section 3(1) of the Tax Administration Act 1994
+  - **specified estate in land** means—
+    (a) freehold estates, including fee simple and life estates; and
+    (b) leasehold estates; and
+    (c) stratum estates in freehold within the meaning of the Unit Titles Act 2010; and
+    (d) stratum estates in leasehold within the meaning of the Unit Titles Act 2010; and
+    (e) licences to occupy (as defined in section 121A(1)); and
+    (f) any other estate in land declared to be a specified estate in land by regulations made under this Act
+  - **tax information** means the information specified in a tax statement in accordance with—
+    (a) section 156C(1)﻿(b) to (g) and (if applicable) (2); and
+    (b) if applicable, section 156D
+  - **tax statement** means a statement that is completed and given in accordance with—
+    (a) sections 156B and 156C; and
+    (b) if applicable, section 156D.
+(2) For the purpose of this section and sections 156B to 156J, non-notifiable transfer—
+  (a) means,—
+    (i) in relation to a transferee who is a natural person, the transfer of land that is intended to be used predominantly for a dwelling that will be the transferee’s main home:
+    (ii) in relation to a transferor who is a natural person, the transfer of land that has been used predominantly, for most of the time the transferor owned the land, for a dwelling that was the transferor’s main home:
+    (iii) any other transfer specified in regulations made under this Act as a non-notifiable transfer; but
+  (b) does not include—
+    (i) a transfer described in paragraph (a)﻿(i) if the transferee will own the land as a trustee:
+    (ii) a transfer described in paragraph (a)﻿(ii) if the transferor owned the land as a trustee:
+    (iii) a transfer described in paragraph (a)﻿(ii) if the transferor has relied on that paragraph at least 2 times within the 2 years immediately preceding the date of the transfer to claim that transfers were non-notifiable transfers:
+    (iv) any transfer, in relation to a transferee or a transferor who is an offshore person.
+
+### 156B Transferors and transferees must provide tax statement stating that transfer non-notifiable or providing tax information
+(1) An instrument to transfer a specified estate in land is not in order for registration unless—
+  (a) each of the transferors and transferees completes a tax statement; and
+  (b) the tax information in that statement is given to the chief executive in accordance with subsection (2) or (3).
+(2) If the instrument is an electronic instrument,—
+  (a) the transferor or transferee must give the tax statement to the certifier; and
+  (b) the certifier must give the tax information in that statement to the chief executive by lodging the information in an electronic workspace facility approved by the Registrar under section 22 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 when lodging the instrument for registration.
+(3) If the instrument is a paper instrument, the tax statement must be attached to the instrument when the instrument is lodged for registration in accordance with section 47.
+
+### 156C Content of tax statement
+(1) A tax statement completed by or on behalf of a transferor or transferee must—
+  (a) be signed by the transferor or transferee; and
+  (b) be dated on the date on which it was signed; and
+  (c) state the transferor or transferee’s full name; and
+  (d) state whether the transfer is of land that has a home on it; and
+  (e) state whether the transferor or, as the case may be, the transferee, or a member of that person’s immediate family, is a New Zealand citizen or a holder of a resident visa, work visa, or student visa; and
+  (f) in the case of a transferee, if the transferee or a member of the transferee’s immediate family is a holder of a work visa or student visa, state whether the transferee or a member of the transferee’s immediate family intends living on the land; and
+  (g) either—
+    (i) state that the transfer instrument is for a non-notifiable transfer (or, as the case may be, is, in respect of the transferor or transferee making the statement, a non-notifiable transfer) and specify the category of that non-notifiable transfer; or
+    (ii) provide all of the information set out in subsection (2).
+(2) The information must include all of the following:
+  (a) the transferor or transferee’s IRD number; and
+  (b) whether the transferor or transferee (without taking into account any double tax agreement that would otherwise apply) is, or is not, treated as tax resident in a jurisdiction other than New Zealand as at the date of the statement; and
+  (c) if the transferor or transferee is (without taking into account any double tax agreement that would otherwise apply) treated as tax resident in a jurisdiction other than New Zealand as at the date of the statement,—
+    (i) the name of that jurisdiction; and
+    (ii) the country code for that jurisdiction as prescribed by the Commissioner of Inland Revenue; and
+    (iii) the equivalent of the transferor or transferee’s IRD number in that jurisdiction.
+(3) However, if a transferor or transferee is—
+  (a) acting in the capacity of the trustee of a trust, the information must relate to the trustee in that capacity; or
+  (b) acting as a nominee or under a power of attorney, the information must relate to the person who made the nomination or granted the power of attorney; or
+  (c) acting in the capacity of a partner in a partnership, the information must relate to the partnership; or
+  (d) a person acting on behalf of an unincorporated body, the information must relate to the unincorporated body.
+(4) To avoid doubt, a transferor or transferee who does not have an IRD number must request one for the purpose of providing the information required by subsection (2)﻿(a).
+(5) In this section, IRD number has the meaning given to tax file number by section 3(1) of the Tax Administration Act 1994.
+(6) For the purpose of subsection (1)﻿(d), home means a dwelling mainly used as a residence.
+
+### 156D Omissions and errors
+(1) An omission or error in any tax information provided in accordance with section 156B(2) or (3) must be corrected as follows:
+  (a) if the tax information in a tax statement was incorrect, the transferor or transferee must complete a corrected tax statement in accordance with section 156C and, if applicable, give it to the relevant certifier in accordance with section 156B(2)﻿(a):
+  (b) if the incorrect tax information was given to the chief executive by lodging the information in an electronic workspace facility in accordance with section 156B(2)﻿(b), the certifier must lodge the corrected tax information in an electronic workspace facility:
+  (c) if the incorrect tax information was given to the chief executive by attaching a tax statement to an instrument in accordance with section 156B(3), the corrected tax statement must be given to the chief executive.
+(2) An omission or error in any tax information provided in accordance with section 156B(2) or (3), or any other failure to comply with sections 156B and 156C, does not—
+  (a) affect the validity of any registration of an instrument to transfer a specified estate in land; or
+  (b) give rise to any liability of, or claim for compensation from, the chief executive, the Registrar-General, or the Crown.
+
+### 156E Offence to provide false or misleading tax information
+(1) A person commits an offence if the person gives a tax statement to a certifier or the chief executive in accordance with section 156B(2) or (3) or section 156D that, to the person's knowledge or with intent to deceive, contains false or misleading tax information.
+(2) A person who commits an offence under subsection (1) is liable,—
+  (a) the first time the person is convicted, to a fine not exceeding $25,000; and
+  (b) on every other occasion the person is convicted, to a fine not exceeding $50,000.
+
+### 156F Chief executive must supply tax information to Commissioner of Inland Revenue
+(1) The chief executive must supply to the Commissioner of Inland Revenue tax information and details about the transfer or transfers to which the tax information relates that are held by Land Information New Zealand.
+(2) The chief executive and the Commissioner may, for the purpose of this section, determine by written agreement between them, in relation to the information that must be supplied under subsection (1),—
+  (a) the frequency with which the information must be supplied; and
+  (b) the form in which the information must be supplied; and
+  (c) the method by which the information must be supplied.
+(3) Subsection (1) applies despite anything in the Domestic Violence Act 1995.
+
+### 156G Other provisions concerning use of tax information
+The chief executive may release the information specified in section 156C(1)﻿(d), (e), (f), and (g), (2)﻿(b), and (c)﻿(i) and (ii) that is held by Land Information New Zealand, or give that information to any person as soon as practicable after receiving a request in writing from the person, provided that information is given—
+  (a) in aggregate form only; and
+  (b) in a manner that prevents any particular person, estate in land, or transaction from being identified.
+
+### 156H Certifier and chief executive must hold tax statement and provide copies
+(1) A certifier must—
+  (a) retain each tax statement given to him or her in accordance with section 156B(2) or 156D for 10 years; and
+  (b) give a copy of that statement to the Commissioner of Inland Revenue as soon as practicable after receiving a request in writing from the Commissioner.
+(2) The chief executive must—
+  (a) retain each tax statement given to him or her in accordance with section 156B(3) or 156D for 10 years; and
+  (b) give a copy of that statement to the Commissioner of Inland Revenue as soon as practicable after receiving a request in writing from the Commissioner.
+
+### 156I Status of tax information
+(1) The chief executive and certifiers must not use tax information, or disclose tax information to any person, except as set out in sections 156B, 156D, 156F, 156G, 156H, and 156J, or as authorised or required by order of a court.
+(2) Tax information does not form part of the register and must not be made accessible to the public.
+
+### 156J Disclosure of information between authorised persons
+(1) No obligation as to secrecy or other restrictions imposed by an enactment or otherwise on the disclosure of information prevents—
+  (a) an authorised person from disclosing tax information to another authorised person for the purpose of sections 156B, 156D, 156F, 156G, and 156H; or
+  (b) an authorised person from disclosing to another authorised person any information for the purpose of verifying tax information; or
+  (c) an authorised person from disclosing to another authorised person any information for the purpose of administering the Inland Revenue Acts, to the extent that the administration of those Acts concerns tax information; or
+  (d) an authorised person from disclosing to another authorised person any information for the purpose of detecting, investigating, or prosecuting a potential offence under section 156E.
+(2) In this section,—
+  - **authorised person** means—
+    (a) the Commissioner of Inland Revenue or an Inland Revenue officer who is authorised by the Commissioner to disclose and receive information under this section; or
+    (b) the chief executive, or an employee of the department who is authorised by the chief executive to disclose and receive information under this section
+  - **Inland Revenue Acts** has the meaning given in section 3(1) of the Tax Administration Act 1994.
+
 **Execution of instruments**
 
 ### 157 Paper instruments to be executed
@@ -1263,11 +1389,11 @@ Every paper instrument executed and registered under this Act is presumed to hav
 (2) The Registrar may revoke a person's right to give a certification under section 164A at any time if he or she believes on reasonable grounds that the person—
   (a) has given a fraudulent certification; or
   (b) has given a certification that is materially incorrect; or
-  (c) has failed to comply with any requirement under section 164C.
+  (c) has failed to comply with any requirement under section 156B(2)﻿(b), 156D(1)﻿(b), 156H, or 164C.
 (3) The Registrar must give notice as soon as possible to any person whose ability to give certifications is removed under subsection (2).
 (4) The Registrar may reinstate the right of a person to give certifications if the Registrar is satisfied that the person will—
-  (a) give certifications that are not of the kinds referred to in subsection (2)(a) and (b); and
-  (b) comply with requirements under section 164C.
+  (a) give certifications that are not of the kinds referred to in subsection (2)﻿(a) and (b); and
+  (b) comply with requirements under sections 156B(2)﻿(b), 156D(1)﻿(b), 156H, and 164C.
 
 ### 164C Retention of evidence and audit of certifications
 (1) Any person who gives a certification must retain evidence showing the truth of the certification for the period prescribed for the purpose by regulations made under this Act.
@@ -1347,7 +1473,7 @@ If a certification has been given in relation to an instrument to which section 
   (a) that links it to the plan that is allowed to be deposited; and
   (b) gives to the person approving or consenting appropriate information about the effect of the depositing of the plan; and
   (c) indicates that person's approval or consent to the deposit of the plan.
-(7) For the purposes of regulations made under section 236(1)(d), and for the purposes of sections 20 to 25 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, a form specified under subsection (1)—
+(7) For the purposes of regulations made under section 236(1)﻿(d), and for the purposes of sections 20 to 25 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, a form specified under subsection (1)—
   (a) may take the form of an electronic instrument; but
   (b) must not be registered.
 
@@ -1577,7 +1703,7 @@ Any deed affecting any land brought under this Act in pursuance of the provision
 **Additional powers of Registrar**
 
 ### 211 Registrar may require production of instruments, etc
-Every Registrar, in addition to the powers otherwise conferred by this or any other Act in him, may exercise all or any of the powers following, that is to say:
+Every Registrar, in addition to the powers otherwise conferred by this or any other Act on him, may exercise all or any of the powers following, that is to say:
   (a) he may require the proprietor or other person making or concurring in any application under this Act to produce any deed or instrument in his possession or control relating to the land the subject of the application, and, if necessary, to attend and give any information or explanation concerning any such deed or instrument:
   (b) he may by notice require any person having in his possession or control any grant, certificate, or other instrument upon which any memorial or entry is required to be endorsed for the purposes of this Act to produce that instrument within a reasonable time to be fixed by the notice, and to deposit the instrument in the Land Registry Office of his district for such time as may be necessary for the making of that endorsement or entry:
   (c) he may, if in his opinion the number or nature of the entries on any folium of the register renders it expedient to close the folium, or if any document of title has become worn, defaced, or mutilated so as to justify his so doing, require the holder of the outstanding duplicate of title to surrender that duplicate for cancellation; and upon cancellation a new certificate shall be issued to the person entitled thereto:
@@ -1745,17 +1871,21 @@ Where any person fraudulently—he shall be deemed for the purposes of the Crime
   (f) prescribing the form of any memorandum to be registered under section 155A and of any instrument intended for use in conjunction with a memorandum under that section:
   (g) specifying different classes of easements, and the rights and powers to be implied in them, for the purposes of section 90D:
   (h) specifying, for the purposes of section 99B, instruments under this Act that are available for adoption (with or without modification) by any other enactment:
+  (ha) for the purposes of sections 156A and 156B (and where the conditions in subsection (4) of this section are satisfied),—
+    (i) specifying transfers of specified estates in land that are exempt from the requirements of section 156B, including by reference to the nature of the transferor, transferee, transaction, type of estate in land, class of estate in land, or otherwise:
+    (ii) specifying transfers of specified estates in land that are non-notifiable transfers (which may be non-notifiable in relation to the transferee, the transferor, or both), including by reference to the nature of the transferor, transferee, transaction, type of estate in land, class of estate in land, or otherwise:
+  (hb) declaring estates in land that are specified estates in land for the purposes of section 156A:
   (i) prescribing the manner in which paper instruments must be executed, witnessed, or attested for the purposes of section 157:
-  (j) specifying classes of paper instrument that may be certified under section 164A(2)(b):
-  (k) specifying the parties for the purpose of section 164A(3)(a) (which relates to a certifier's authority to act):
-  (l) prescribing time periods for which evidence must be held under section 164A(3)(d):
+  (j) specifying classes of paper instrument that may be certified under section 164A(2)﻿(b):
+  (k) specifying the parties for the purpose of section 164A(3)﻿(a) (which relates to a certifier's authority to act):
+  (l) prescribing time periods for which evidence must be held under section 164A(3)﻿(d):
   (m) prescribing the form of certifications under section 164A:
   (n) specifying the parties for the purpose of section 164E(1) (which provides that a certified instrument has effect as a deed executed by those parties):
   (o) prescribing the physical properties of paper instruments:
   (p) prescribing forms of paper instruments for the purpose of section 238(1):
   (q) prescribing forms for notices and consents under this Act:
   (r) providing for any other matters contemplated by this Act or the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, necessary for their administration, or necessary for giving them full effect.
-(2) Without limiting subsection (1)(d), regulations made under that provision may—
+(2) Without limiting subsection (1)﻿(d), regulations made under that provision may—
   (a) express a specification in terms of how an instrument is associated with other instruments when presented for registration:
   (b) specify classes of instrument by reference to—
     (i) how instruments are dealt with:
@@ -1763,7 +1893,10 @@ Where any person fraudulently—he shall be deemed for the purposes of the Crime
     (iii) whether all the interests comprised and described in a certificate of title are affected by the instrument:
     (iv) the enactment that provides for an instrument:
     (v) the purpose for which an interest is held.
-(3) In subsection (2)(b), interest includes land, estates, rights, covenants, and conditions.
+(3) In subsection (2)﻿(b), interest includes land, estates, rights, covenants, and conditions.
+(4) Regulations may be made under subsection (1)﻿(ha) only on the recommendation of the Minister for Land Information, if the Minister is satisfied that—
+  (a) requiring persons to comply with the requirements of section 156B in the case of the transfers proposed to be specified as exempt or non-notifiable would be impractical or involve high compliance costs; or
+  (b) there is a low risk of tax avoidance in relation to the transfers proposed to be specified as exempt or non-notifiable.
 
 ### 237 When paper instrument is in acceptable form
 (1) A paper instrument is in an acceptable form if—
@@ -1820,7 +1953,7 @@ If this Act specifies that a person must give a notice to the Registrar but does
   (a) in the case of notices sent by post, at the time when the letter would in the ordinary course of post be delivered; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
   (b) if sent by fax, at the time indicated on a record of its transmission:
   (c) if sent by electronic mail or similar means or to or from an electronic workspace facility, at the time a record of the transmission indicates it was received in the relevant electronic communications system.
-(2) For the purposes of subsection (1)(c),—
+(2) For the purposes of subsection (1)﻿(c),—
   (a) relevant electronic communications system means,—
     (i) in the case of an electronic mail or similar address, the electronic communications system associated with that address; or
     (ii) in the case of an electronic workspace facility, the electronic communications system by which users of the facility can receive electronic communications:
@@ -1833,7 +1966,7 @@ If this Act specifies that a person must give a notice to the Registrar but does
 (1) Neither the Registrar nor any delegate of the Registrar is obliged to—
   (a) produce any register or other instrument in his or her custody as the Registrar or Registrar's delegate in any court or place other than an office of the department except by order of the High Court; or
   (b) attend any court or other hearing or proceeding, except by order of the High Court.
-(2) The High Court may not make an order under subsection (1)(a) or subsection (1)(b) unless the court is satisfied that production or personal attendance is necessary and that the required evidence cannot be given by certified copy of the register or instrument.
+(2) The High Court may not make an order under subsection (1)﻿(a) or subsection (1)﻿(b) unless the court is satisfied that production or personal attendance is necessary and that the required evidence cannot be given by certified copy of the register or instrument.
 
 ### 242 Persons qualified to take declarations
 Any declaration made for the purposes of this Act may be made before a Justice of the Peace, or a solicitor of the High Court, or a notary public, or any other person authorised by law to take statutory declarations in New Zealand.
@@ -1852,6 +1985,15 @@ Any declaration made for the purposes of this Act may be made before a Justice o
 (4) In the case of any mortgage executed prior to 1 January 1903 (being the date of commencement of the Land Transfer Amendment Act 1902), the provisions of the Acts in force on the commencement of the Land Transfer Act 1908 in respect to that mortgage shall continue to apply to that mortgage in so far as those provisions conflict with the provisions of this Act.
 (5) In the case of any submortgage executed prior to 1 March 1914 (being the date of commencement of the Land Transfer Amendment Act 1913), the provisions of the Acts in force when that submortgage was registered shall continue to apply to that submortgage in so far as those provisions conflict with the provisions of this Act.
 (6) Where in any document made before the commencement of this Act reference is made to any former Land Transfer Act, that reference shall be construed and shall operate as if it had been made to this Act, or to such of the provisions of this Act as correspond to those of the Act so referred to.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Land Transfer Amendment Act 2015
+
+### 1 Application of sections 156A to 156J
+Sections 156A to 156J do not apply to any transfer of land if—
+  (a) the contract for the transfer of the land was entered into before 1 October 2015; and
+  (b) the transfer is registered on or before 1 April 2016.
 
 ## Schedule 1 — Certificates of title
 
@@ -2367,7 +2509,7 @@ A computer register may be held or stored in any medium or combination of media 
 
 ### 15 Issue of certificates of title for land that is not electronic transactions land
 (1) This section applies to land subject to this Act that is not electronic transactions land.
-(2) When acting under section 16(2), (3), (4)(a), or (4)(b), the Registrar must—
+(2) When acting under section 16(2), (3), (4)﻿(a), or (4)﻿(b), the Registrar must—
   (a) prepare a new certificate of title; and
   (b) cancel any other relevant certificate of title relating to the land that is in the Registrar's custody and issue the new certificate in its place; and
   (c) give the new certificate to the person who would otherwise be entitled to receive the certificate of title.
@@ -2452,10 +2594,11 @@ A computer register may be held or stored in any medium or combination of media 
 (1) An electronic instrument is in order for registration if—
   (a) the instrument has been prepared in an electronic workspace facility approved by the Registrar; and
   (b) the instrument is in an acceptable form; and
+  (ba) the instrument is associated with the information required under section 156B(2) of the principal Act; and
   (c) the instrument contains or is associated with a certification under section 164A of the principal Act; and
   (d) in respect of any matter not provided for in this Act, the instrument is in order for registration under the principal Act.
 (2) If an electronic instrument is not in order for registration,—
-  (a) the Registrar must notify the person who submitted the instrument, and that notification constitutes an effective return of the instrument under section 43(1)(a) of the principal Act; and
+  (a) the Registrar must notify the person who submitted the instrument, and that notification constitutes an effective return of the instrument under section 43(1)﻿(a) of the principal Act; and
   (b) section 43 of the principal Act applies with any necessary modifications.
 
 ### 24 Electronic lodgement may be made compulsory for practitioners
