@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2015-04-01_
+_Consolidation as at 2015-10-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -49,6 +49,9 @@ _Consolidation as at 2015-04-01_
   - **authorised savings institution** , in section 56, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **award** is defined in section 130(6) for the purposes of that section
   - **bank** is defined in section 157(10) for the purposes of that section
+  - **bank account** means, for a person, the identifying number of an account—
+    (a) that the person holds with a registered bank, or with a licensed NBDT as defined in section 4 of the Non-bank Deposit Takers Act 2013; and
+    (b) for which the relevant reporting entity, under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (the Act), has obtained identity information and completed verification of identity in accordance with the Act, if customer due diligence is required under that Act for the person
   - **base amount** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **basis of exemption** , in section 208(1)﻿(f), is the basis of exemption referred to in section 32E(2)
   - **beneficiary** —
@@ -245,11 +248,17 @@ _Consolidation as at 2015-04-01_
     (c) a liquidator of the corporate body
   - **officer of the department** includes any person employed in the service of the department and any person employed in the service of the Government of any overseas country or territory who is for the time being attached or seconded to the department
   - **offshore payment** is defined in section 21(8) for the purposes of that section
+  - **offshore person** means,—
+    (a) for an individual,—
+      (i) a New Zealand citizen who is outside New Zealand and has not been in New Zealand within the last 3 years:
+      (ii) a person who holds a residence class visa granted under the Immigration Act 2009, and who is outside New Zealand and has not been in New Zealand within the last 12 months:
+      (iii) a person who is not a New Zealand citizen and who does not hold a residence class visa granted under the Immigration Act 2009:
+    (b) for a body corporate or an unincorporated body of persons, including a trust or a unit trust, a person who would be an overseas person under section 7(2)﻿(b) to (f) of the Overseas Investment Act 2005, treating references to an overseas person or persons in that section as including a person or persons described in paragraph (a) of this definition
   - **on time** , for the purposes of performing a tax obligation, means—
     (a) except if paragraph (b) applies, on or before the relevant due date:
     (b) if the Commissioner sets a new due date for performing the tax obligation, on or before the new due date
   - **outstanding tax** , in sections 139BA, 176, 177, 177A, 177B and 177C, means tax that is payable before or after a due date
-  - **PAYE period** means first payment period or second payment period, as applicable
+  - **PAYE period** means or , as applicable
   - **payment** , in sections 67 and 120U, has a corresponding meaning to paragraph (a) of the definition of pay in section YA 1 of the Income Tax Act 2007
   - **period of deferral** , in respect of deferrable tax, means the period that starts on the later of—and ends at the expiry of the day that, in relation to the deferrable tax, is the day of determination of final liability
     (a) the day on which the notice of an assessment of tax, to which a competent objection is made under Part 8 or in relation to which proceedings challenging the assessment are issued under Part 8A, is given to the taxpayer or the Commissioner; and
@@ -399,6 +408,7 @@ _Consolidation as at 2015-04-01_
   - **tax code certificate** means a tax code certificate under section 24I(2)
   - **tax code notification** means a tax code notification under section 24I(1)
   - **tax contextual information** is defined in section 20F(3)
+  - **tax file number** means an identification number that the Commissioner allocates to a person
   - **tax form** means a form or document a taxpayer is required by a tax law—
     (a) to complete; and
     (b) to provide to a person other than the Commissioner
@@ -1247,6 +1257,15 @@ An information holder who is required to disclose information in relation to a p
   (b) the employer must keep a proper record of the employer's payments to the person of salary or wages in respect of the employee.
 (2) Every employer or PAYE intermediary shall take all reasonable precautions for the safe custody of all records that the employer or the PAYE intermediary is required to keep under this section, and of all pay sheets, receipts for PAYE income payments, withholding certificates, tax code notifications, tax code certificates, and certificates of entitlement, and shall retain all such records, pay sheets, receipts, tax code declarations, tax code certificates, and certificates of entitlement for not less than 7 years after the making of the payments to which they relate except and to the extent that the employer or the PAYE intermediary is required by this Act or the Income Tax Act 2007 to deliver to the Commissioner or to any other person the signed withholding certificates, tax code notifications, tax code certificates, and any certificate of entitlement:
   provided that this subsection shall not require retention of any records, pay sheets, receipts, tax code notifications, tax code certificates, or certificates of entitlement in respect of which the Commissioner has notified the employer or the PAYE intermediary that retention is not required.
+
+**Offshore persons’ bank accounts and tax file numbers**
+
+### 24BA Offshore persons’ bank accounts and tax file numbers
+(1) The Commissioner must not allocate a tax file number in response to an offshore person’s request unless the Commissioner first receives a current bank account number for the offshore person.
+(2) A person must give their current bank account number to the Commissioner immediately if—
+  (a) the person has a tax file number; and
+  (b) the person becomes, after 1 October 2015, an offshore person under paragraph (b) of the definition of offshore person; and
+  (c) the person has not yet provided their current bank account number to the Commissioner.
 
 **PAYE tax codes**
 
@@ -3221,7 +3240,8 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (i) that the person is authorised by the Commissioner of Police to receive; and
     (ii) that is communicated to that person for the purposes of section 85K:
   (t) communicating to any person who is an employee of the Treasury (as defined in section 2 of the Public Finance Act 1989), any information communicated to that person for the purposes of section LH 15 of the Income Tax Act 2007:
-  (u) communicating to a person's fund provider under section 220B of the KiwiSaver Act 2006 any information specified in that section for the purposes set out in the section.
+  (u) communicating to a person's fund provider under section 220B of the KiwiSaver Act 2006 any information specified in that section for the purposes set out in the section:
+  (v) communicating to the chief executive, or an authorised employee, of Land Information New Zealand under section 156J of the Land Transfer Act 1952 any information specified in subsection (1) of that section for the purpose set out in that subsection.
 (5) For the purposes of this section, unless the context otherwise requires, every reference to the New Zealand Superannuation Act 1974 shall be deemed to include a reference to Part 1 of the Superannuation Schemes Act 1976, and every reference to the New Zealand Superannuation Corporation shall be deemed to include a reference to the National Provident Fund Board in relation to its functions under Part 1 of the Superannuation Schemes Act 1976.
 (6) In this section, unless the context otherwise requires, legal personal representative, in relation to any person, means—
   (a) the executor, original or by representation, or an administrator for the time being of a deceased person:
