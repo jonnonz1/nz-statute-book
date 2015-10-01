@@ -1,5 +1,5 @@
 # Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002
-_Consolidation as at 2011-06-20_
+_Consolidation as at 2015-10-01_
 
 ### 1 Title
 (1) This Act is the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002.
@@ -30,7 +30,7 @@ In this Act, unless the context otherwise requires,—
   - **computer interest register** means a computer interest register created by the Registrar under section 9
   - **computer register** means all or any of a computer freehold register, computer interest register, or computer unit title register, as the case requires
   - **computer unit title register** means a computer unit title register created by the Registrar under section 11
-  - **electronic instrument** means an instrument of a class specified in regulations made under section 236(1)(d) of the principal Act that has been prepared in an electronic workspace facility
+  - **electronic instrument** means an instrument of a class specified in regulations made under section 236(1)﻿(d) of the principal Act that has been prepared in an electronic workspace facility
   - **electronic transactions land** has the meaning set out in section 25
   - **electronic workspace facility** means a facility approved under section 22(1) for use in preparing electronic instruments for presentation to the Registrar
   - **medium** includes—
@@ -142,7 +142,7 @@ A computer register may be held or stored in any medium or combination of media 
 
 ### 15 Issue of certificates of title for land that is not electronic transactions land
 (1) This section applies to land subject to this Act that is not electronic transactions land.
-(2) When acting under section 16(2), (3), (4)(a), or (4)(b), the Registrar must—
+(2) When acting under section 16(2), (3), (4)﻿(a), or (4)﻿(b), the Registrar must—
   (a) prepare a new certificate of title; and
   (b) cancel any other relevant certificate of title relating to the land that is in the Registrar's custody and issue the new certificate in its place; and
   (c) give the new certificate to the person who would otherwise be entitled to receive the certificate of title.
@@ -227,10 +227,11 @@ A computer register may be held or stored in any medium or combination of media 
 (1) An electronic instrument is in order for registration if—
   (a) the instrument has been prepared in an electronic workspace facility approved by the Registrar; and
   (b) the instrument is in an acceptable form; and
+  (ba) the instrument is associated with the information required under section 156B(2) of the principal Act; and
   (c) the instrument contains or is associated with a certification under section 164A of the principal Act; and
   (d) in respect of any matter not provided for in this Act, the instrument is in order for registration under the principal Act.
 (2) If an electronic instrument is not in order for registration,—
-  (a) the Registrar must notify the person who submitted the instrument, and that notification constitutes an effective return of the instrument under section 43(1)(a) of the principal Act; and
+  (a) the Registrar must notify the person who submitted the instrument, and that notification constitutes an effective return of the instrument under section 43(1)﻿(a) of the principal Act; and
   (b) section 43 of the principal Act applies with any necessary modifications.
 
 ### 24 Electronic lodgement may be made compulsory for practitioners
@@ -388,9 +389,9 @@ The principal Act is amended by inserting, after section 46, the following secti
     (c) by posting it to that office.
   (2) For the purpose of subsection (1), designated land transfer office means any land transfer office designated for that purpose by the Registrar.
   (3) Subject to subsections (4), (5), and (6), an instrument presented for registration under this section has priority as provided for in section 37.
-  (4) An instrument presented in the manner provided for in subsection (1)(b) or (c) is deemed to have been presented for registration on the business day after the day on which it is received by the Registrar and before any other matter presented on the day of registration in relation to the same land.
-  (5) Any caveat of any kind or notice of claim under the Property (Relationships) Act 1976 that is presented to the Registrar in the manner provided for in subsection (1)(b) or (c) is deemed to have been presented for entry after any other instrument presented to the Registrar in the same manner on the same day.
-  (6) Except where subsection (5) applies, if 2 or more instruments are received in the manner provided for in subsection (1)(b) or (c), they have priority as between themselves,—
+  (4) An instrument presented in the manner provided for in subsection (1)﻿(b) or (c) is deemed to have been presented for registration on the business day after the day on which it is received by the Registrar and before any other matter presented on the day of registration in relation to the same land.
+  (5) Any caveat of any kind or notice of claim under the Property (Relationships) Act 1976 that is presented to the Registrar in the manner provided for in subsection (1)﻿(b) or (c) is deemed to have been presented for entry after any other instrument presented to the Registrar in the same manner on the same day.
+  (6) Except where subsection (5) applies, if 2 or more instruments are received in the manner provided for in subsection (1)﻿(b) or (c), they have priority as between themselves,—
     (a) if section 41(2) applies to the instruments, in accordance with that provision:
     (b) if section 41(2) does not apply to the instruments, in the order in which they were date and time stamped as received by the Registrar.
 
@@ -617,7 +618,7 @@ The principal Act is amended by repealing sections 136 to 139, and substituting 
   (4) Caveats under this section must be entered on the register as of the day and hour of their receipt by the Registrar.
 
 ### 50 Effect of caveat against dealings
-(1) Section 141(3)(d) of the principal Act is repealed.
+(1) Section 141(3)﻿(d) of the principal Act is repealed.
 (2) Section 141 of the principal Act is amended by adding the following subsection:
   (5) Without limiting subsection (3), a caveat under section 137 does not prevent the Registrar making an entry to give effect to—
     (a) a transmission to an executor, administrator, or trustee in respect of the estate or interest of a deceased registered proprietor; or
@@ -688,7 +689,7 @@ The principal Act is amended by inserting, after section 164, the following sect
     (c) has failed to comply with any requirement under section 164C.
   (3) The Registrar must give notice as soon as possible to any person whose ability to give certifications is removed under subsection (2).
   (4) The Registrar may reinstate the right of a person to give certifications if the Registrar is satisfied that the person will—
-    (a) give certifications that are not of the kinds referred to in subsection (2)(a) and (b); and
+    (a) give certifications that are not of the kinds referred to in subsection (2)﻿(a) and (b); and
     (b) comply with requirements under section 164C.
   (1) Any person who gives a certification must retain evidence showing the truth of the certification for the period prescribed for the purpose by regulations made under this Act.
   (2) Without limiting what may be considered to show the truth of certifications, the Registrar may specify requirements that, if met, must be regarded as satisfying the obligation in subsection (1).
@@ -727,7 +728,7 @@ The principal Act is amended by inserting, after section 167, the following sect
     (a) that links it to the plan that is allowed to be deposited; and
     (b) gives to the person approving or consenting appropriate information about the effect of the depositing of the plan; and
     (c) indicates that person's approval or consent to the deposit of the plan.
-  (7) For the purposes of regulations made under section 236(1)(d), and for the purposes of sections 20 to 25 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, a form specified under subsection (1)—
+  (7) For the purposes of regulations made under section 236(1)﻿(d), and for the purposes of sections 20 to 25 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, a form specified under subsection (1)—
     (a) may take the form of an electronic instrument; but
     (b) must not be registered.
 
@@ -776,16 +777,16 @@ The principal Act is amended by repealing section 236, and substituting the foll
     (g) specifying different classes of easements, and the rights and powers to be implied in them, for the purposes of section 90D:
     (h) specifying, for the purposes of section 99B, instruments under this Act that are available for adoption (with or without modification) by any other enactment:
     (i) prescribing the manner in which paper instruments must be executed, witnessed, or attested for the purposes of section 157:
-    (j) specifying classes of paper instrument that may be certified under section 164A(2)(b):
-    (k) specifying the parties for the purpose of section 164A(3)(a) (which relates to a certifier's authority to act):
-    (l) prescribing time periods for which evidence must be held under section 164A(3)(d):
+    (j) specifying classes of paper instrument that may be certified under section 164A(2)﻿(b):
+    (k) specifying the parties for the purpose of section 164A(3)﻿(a) (which relates to a certifier's authority to act):
+    (l) prescribing time periods for which evidence must be held under section 164A(3)﻿(d):
     (m) prescribing the form of certifications under section 164A:
     (n) specifying the parties for the purpose of section 164E(1) (which provides that a certified instrument has effect as a deed executed by those parties):
     (o) prescribing the physical properties of paper instruments:
     (p) prescribing forms of paper instruments for the purpose of section 238(1):
     (q) prescribing forms for notices and consents under this Act:
     (r) providing for any other matters contemplated by this Act or the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, necessary for their administration, or necessary for giving them full effect.
-  (2) Without limiting subsection (1)(d), regulations made under that provision may—
+  (2) Without limiting subsection (1)﻿(d), regulations made under that provision may—
     (a) express a specification in terms of how an instrument is associated with other instruments when presented for registration:
     (b) specify classes of instrument by reference to—
       (i) how instruments are dealt with:
@@ -793,7 +794,7 @@ The principal Act is amended by repealing section 236, and substituting the foll
       (iii) whether all the interests comprised and described in a certificate of title are affected by the instrument:
       (iv) the enactment that provides for an instrument:
       (v) the purpose for which an interest is held.
-  (3) In subsection (2)(b), interest includes land, estates, rights, covenants, and conditions.
+  (3) In subsection (2)﻿(b), interest includes land, estates, rights, covenants, and conditions.
 
 ### 62 New sections 237 and 238 substituted
 The principal Act is amended by repealing sections 237 and 238, and substituting the following sections:When paper instrument is in acceptable formContent of paper forms
@@ -840,7 +841,7 @@ The principal Act is amended by repealing sections 239 and 240, and substituting
     (a) in the case of notices sent by post, at the time when the letter would in the ordinary course of post be delivered; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted:
     (b) if sent by fax, at the time indicated on a record of its transmission:
     (c) if sent by electronic mail or similar means or to or from an electronic workspace facility, at the time a record of the transmission indicates it was received in the relevant electronic communications system.
-  (2) For the purposes of subsection (1)(c),—
+  (2) For the purposes of subsection (1)﻿(c),—
     (a) relevant electronic communications system means,—
       (i) in the case of an electronic mail or similar address, the electronic communications system associated with that address; or
       (ii) in the case of an electronic workspace facility, the electronic communications system by which users of the facility can receive electronic communications:
