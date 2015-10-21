@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-10-21_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -35,13 +35,13 @@ The purpose of this Act is to reform the law relating to Crown entities to provi
 
 ### 7 Meaning of Crown entity and categories of Crown entities
 (1) In this Act, Crown entity means an entity within one of the following 5 categories:
-  (a) statutory entities:The following table is small in size and has 3 columns. Column 1 is headed What are they?, column 2 is headed Definition, and column 3 is headed Different types.What are they?DefinitionDifferent typesThese are bodies corporate that are established by or under an ActAn entity or office named in Schedule 1Crown agents (which must give effect to government policy when directed by the responsible Minister). These are named in Part 1 of Schedule 1Autonomous Crown entities (which must have regard to government policy when directed by the responsible Minister). These are named in Part 2 of Schedule 1Independent Crown entities (which are generally independent of government policy). These are named in Part 3 of Schedule 1
-  (b) Crown entity companies:The following table is small in size and has 2 columns. Column 1 is headed What are they? and column 2 is headed Definition.What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are wholly owned by the CrownA company named in Schedule 2
-  (c) Crown entity subsidiaries:The following table is small in size and has 2 columns. Column 1 is headed What are they? and column 2 is headed Definition.What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are controlled by Crown entitiesA company that is—
+  (a) statutory entities:The following table is small in size and has 3 columns. Column 1 is headed What are they? Column 2 is headed Definition. Column 3 is headed Different types.What are they?DefinitionDifferent typesThese are bodies corporate that are established by or under an ActAn entity or office named in Schedule 1Crown agents (which must give effect to government policy when directed by the responsible Minister). These are named in Part 1 of Schedule 1Autonomous Crown entities (which must have regard to government policy when directed by the responsible Minister). These are named in Part 2 of Schedule 1Independent Crown entities (which are generally independent of government policy). These are named in Part 3 of Schedule 1
+  (b) Crown entity companies:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are wholly owned by the CrownA company named in Schedule 2
+  (c) Crown entity subsidiaries:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are companies incorporated under the Companies Act 1993 that are controlled by Crown entitiesA company that is—
     (a) a subsidiary of another Crown entity under sections 5 to 8 of the Companies Act 1993; or
     (b) a multi-parent subsidiary of 2 or more Crown entities
-  (d) school boards of trustees:The following table is small in size and has 2 columns. Column 1 is headed What are they? and column 2 is headed Definition.What are they?DefinitionThese are boards that are bodies corporate constituted under the Education Act 1989 (including correspondence schools)A body that is a board of trustees constituted under Part 9 of the Education Act 1989 and includes a board of a school designated as a correspondence school by the Minister of Education under section 152 of the Education Act 1989
-  (e) tertiary education institutions:The following table is small in size and has 2 columns. Column 1 is headed What are they? and column 2 is headed Definition.What are they?DefinitionThese are tertiary institutions (for example, colleges of education, polytechnics, specialist colleges, universities, or wananga) that are bodies corporate established under the Education Act 1989An institution established under Part 14 of the Education Act 1989
+  (d) school boards of trustees:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are boards that are bodies corporate constituted under the Education Act 1989 (including correspondence schools)A body that is a board of trustees constituted under Part 9 of the Education Act 1989 and includes a board of a school designated as a correspondence school by the Minister of Education under section 152 of the Education Act 1989
+  (e) tertiary education institutions:The following table is small in size and has 2 columns. Column 1 is headed What are they? Column 2 is headed Definition.What are they?DefinitionThese are tertiary institutions (for example, colleges of education, polytechnics, specialist colleges, universities, or wananga) that are bodies corporate established under the Education Act 1989An institution established under Part 14 of the Education Act 1989
 (1A) Despite section 5(3) of the Companies Act 1993, a Crown entity subsidiary must be a company incorporated under that Act.
 (2) The words in brackets in subsection (1) about the effect of the different types of statutory entities are intended only as a guide.
 
@@ -1929,6 +1929,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
+| Accreditation Council |  |  |  |  |  |
 | Arts Council of New Zealand Toi Aotearoa |  |  |  |  | ✓ |
 | Broadcasting Commission |  |  |  |  |  |
 | Families Commission |  |  |  |  |  |
@@ -1945,7 +1946,6 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Standards Council |  |  |  |  |  |
 | Te Reo Whakapuaki Irirangi (Māori Broadcasting Funding Agency) |  |  |  |  |  |
 | Te Taura Whiri I Te Reo Māori (Māori Language Commission) |  |  |  |  |  |
-| Testing Laboratory Registration Council |  |  |  |  |  |
 
 | Name | Exemption from acquisition of financial products, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
