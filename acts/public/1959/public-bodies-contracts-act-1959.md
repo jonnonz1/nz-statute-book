@@ -1,5 +1,5 @@
 # Public Bodies Contracts Act 1959
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2015-10-21_
 
 > An Act to make provision for the making of contracts by local authorities and other public bodies
 
@@ -71,6 +71,7 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 | Name of public body | Enactment by which constituted |
 | --- | --- |
 | Accident Compensation Corporation | Accident Compensation Act 2001 (2001 No 49) |
+| Accreditation Council | Standards and Accreditation Act 2015 |
 | Aotea Centre Board of Management | Auckland Aotea Centre Empowering Act 1985 (1985 No 9 (L)) |
 | Arts Council of New Zealand Toi Aotearoa | Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1) |
 | Broadcasting Commission | Broadcasting Act 1989 (1989 No 25) |
@@ -102,7 +103,6 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 | South Canterbury Wallaby Board | Agricultural Pests Destruction Amendment Act 1971 (1971 No 74) |
 | Sport and Recreation New Zealand | Sport and Recreation New Zealand Act 2002 (2002 No 38) |
 | Standards Council | Standards Act 1988 (1988 No 5) |
-| Testing Laboratory Registration Council | Testing Laboratory Registration Act 1972 (1972 No 36) |
 | University Grants Committee | Universities Act 1961 (1961 No 54) |
 | Veterinary Council of New Zealand | Veterinarians Act 2005 (2005 No 126) |
 | Wairarapa Cadet Training Farm Trust Board | Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138) |
