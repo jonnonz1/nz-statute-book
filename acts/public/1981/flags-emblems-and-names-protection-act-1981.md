@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2014-09-13_
+_Consolidation as at 2015-10-21_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -66,8 +66,8 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
   (a) of the New Zealand White Ensign instead of the New Zealand Flag where such use would have naval significance; or
   (b) of the New Zealand Red Ensign instead of the New Zealand Flag where such use would have maritime significance.
 (2) The Governor-General may authorise the use of a flag under subsection (1) only on the joint recommendation of the Minister and—
-  (a) the Minister of Defence if subsection (1)(a) applies; or
-  (b) the Minister of Transport if subsection (1)(b) applies.
+  (a) the Minister of Defence if subsection (1)﻿(a) applies; or
+  (b) the Minister of Transport if subsection (1)﻿(b) applies.
 (3) Nothing in this Part or in any other Act shall limit or affect the customary use of the New Zealand Red Ensign (with or without the placement thereon of any letter, emblem, or representation) on places or occasions of Maori significance.
 
 ### 10 Rules relating to flying of New Zealand Flag
@@ -134,7 +134,7 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
     (ii) Her Majesty, in any case to which subparagraph (i) of paragraph (c) of that subsection applies; or
     (iii) the Governor-General, in any case to which subparagraph (ii) of that paragraph applies; or
     (iv) the Speaker of the House of Representatives, in any case to which subparagraph (iii) of that paragraph applies; or
-    (v) the Minister if subsection (3)(b) or (c)(iv) applies; or
+    (v) the Minister if subsection (3)﻿(b) or (c)﻿(iv) applies; or
     (vi) the appropriate Minister of the Crown, in any case to which subparagraph (v) or subparagraph (vi) of paragraph (c) of subsection (3) applies; or
   (b) that comprises the whole or part of the proper name of any town or road or other place, and that name is or is to be used in full by the association or (as the case may be) the person engaging in the business, trade, or occupation; or
   (c) that is the surname (not being a surname taken or used for the purpose of defeating the intention of this section) of a foundation member of the association or (as the case may be) of the person engaging in the business, trade, or occupation.
@@ -176,7 +176,7 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
   (c) by any association that was registered before the passing of the Police Offences Amendment Act 1956 if the association was formed under the name, title, style, or designation or was using the name, title, style, or designation immediately before the passing of that Act.
 
 ### 18A Unauthorised use of words and emblems relating to 28th Māori Battalion
-(1) Subject to subsection (3), every person commits an offence against this Act who, in any business, trade, or occupation and in order to obtain money (or other property) or credit, displays, exhibits, or otherwise uses any of the following in such a manner as to be likely to cause anyone to believe that the display, exhibition, or use is under the authority, sanction, approval, appointment, or patronage of an association described in subsection (3)(b)(i) or (iii):
+(1) Subject to subsection (3), every person commits an offence against this Act who, in any business, trade, or occupation and in order to obtain money (or other property) or credit, displays, exhibits, or otherwise uses any of the following in such a manner as to be likely to cause anyone to believe that the display, exhibition, or use is under the authority, sanction, approval, appointment, or patronage of an association described in subsection (3)﻿(b)﻿(i) or (iii):
   (a) an emblem in Schedule 2A; or
   (b) an emblem that so closely resembles one of the emblems in Schedule 2A as to be likely to deceive or confuse any person; or
   (c) any of the following combinations of words:
@@ -190,8 +190,8 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
     (viii) Te Hokowhitu Māori 28; or
   (d) words that so closely resemble the combinations of words quoted in paragraph (c) as to be likely to deceive or confuse any person.
 (2) Subject to subsection (3),—
-  (a) every person commits an offence against this Act who causes an incorporated or unincorporated body to be formed under any name, title, style, or designation that includes any of the combinations of words referred to in subsection (1)(c) or (d); and
-  (b) every association (whether incorporated or unincorporated) commits an offence against this Act that carries on its activities under any name, title, style, or designation that includes any of the combinations of words referred to in subsection (1)(c) or (d).
+  (a) every person commits an offence against this Act who causes an incorporated or unincorporated body to be formed under any name, title, style, or designation that includes any of the combinations of words referred to in subsection (1)﻿(c) or (d); and
+  (b) every association (whether incorporated or unincorporated) commits an offence against this Act that carries on its activities under any name, title, style, or designation that includes any of the combinations of words referred to in subsection (1)﻿(c) or (d).
 (3) Subsections (1) and (2) do not apply to the use of any emblem, words, name, title, style, or designation—
   (a) that has been authorised by the Governor-General by Order in Council; or
   (b) by any of the following:
@@ -320,7 +320,6 @@ The Governor-General may, from time to time, by Order in Council,—
 | Returned Services Associations Badge Order 1950 (Gazette 1950, p 1870) | Badge of the Returned Services Associations |
 | Scout Association of New Zealand Amendment Act 1967: section 5 | Scout Association |
 | Sport and Recreation New Zealand Act 2002: section 12 | Sport and Recreation New Zealand |
-| Testing Laboratory Registration Act 1972: section 29 | Testing Laboratory Registration |
 | Tourist Hotel Corporation Act 1974: section 3 | Tourist Hotel Corporation of New Zealand |
 
 ## Schedule 4 — Enactments consequentially amended
