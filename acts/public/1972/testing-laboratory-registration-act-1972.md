@@ -1,5 +1,5 @@
 # Testing Laboratory Registration Act 1972
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-10-21_
 
 > Title
 
@@ -32,7 +32,7 @@ This Act binds the Crown.
 
 ### 4 Membership of Council
 (1) The Council consists of 9 members of whom—
-  (a) 5 members must be appointed by the Minister under section 28(1)(a) of the Crown Entities Act 2004; and
+  (a) 5 members must be appointed by the Minister under section 28(1)﻿(a) of the Crown Entities Act 2004; and
   (b) 4 members must be appointed by the Council itself.
 (2) In exercising the power of appointment, the Minister shall have regard to—
   (a) nominations put forward by persons or bodies involved or interested in the development and use of conformity assessment:
