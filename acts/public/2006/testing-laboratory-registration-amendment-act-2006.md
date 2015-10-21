@@ -1,5 +1,5 @@
 # Testing Laboratory Registration Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2015-10-21_
 
 ### 1 Title
 This Act is the Testing Laboratory Registration Amendment Act 2006.
@@ -29,8 +29,8 @@ The following section is inserted after section 2:Act binds the Crown
   This Act binds the Crown.
 
 ### 8 Membership of Council
-(1) Section 4(2)(a) is amended by omitting testing procedures, quality assurance, and industrial design and substituting conformity assessment.
-(2) Section 4(2)(b) is amended by omitting the testing of products and materials, quality assurance, and industrial design and substituting conformity assessment.
+(1) Section 4(2)﻿(a) is amended by omitting testing procedures, quality assurance, and industrial design and substituting conformity assessment.
+(2) Section 4(2)﻿(b) is amended by omitting the testing of products and materials, quality assurance, and industrial design and substituting conformity assessment.
 
 ### 9 New section 12 substituted
 Section 12 is repealed and the following section substituted:Functions of Council
@@ -48,13 +48,13 @@ Section 12 is repealed and the following section substituted:Functions of Counci
   (d) authorise the endorsement, in the name of the Council, of conformity assessment documents issued for services that are services—
     (i) offered by a conformity assessment body registered under this Act; and
     (ii) for which the body is registered:
-(2) Section 13(2)(h) is amended by omitting testing procedures and substituting conformity assessment practices.
-(3) Section 13(2)(l) to (n) is repealed and the following paragraphs are substituted:.
+(2) Section 13(2)﻿(h) is amended by omitting testing procedures and substituting conformity assessment practices.
+(3) Section 13(2)﻿(l) to (n) is repealed and the following paragraphs are substituted:.
   (l) collect and disseminate information relating to conformity assessment, including the publication of reports, pamphlets, books, journals, and other publications:
   (m) provide advisory and other services in respect of conformity assessment:
   (n) promote research into the methods of conformity assessment:
-(4) Section 13(2)(q) to (t) is repealed.
-(5) Section 13(2)(u) is amended by omitting design centres,.
+(4) Section 13(2)﻿(q) to (t) is repealed.
+(5) Section 13(2)﻿(u) is amended by omitting design centres,.
 
 ### 11 Transitional provision for registrations by Council of certification bodies before commencement of this Act
 (1) This Act does not affect registrations of certification bodies if the registrations were given by the Council before the commencement of this Act.
