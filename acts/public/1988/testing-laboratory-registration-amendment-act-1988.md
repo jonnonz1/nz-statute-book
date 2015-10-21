@@ -1,5 +1,5 @@
 # Testing Laboratory Registration Amendment Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2015-10-21_
 
 > An Act to amend the Testing Laboratory Registration Act 1972 and to repeal the Industrial Design Act 1966
 
