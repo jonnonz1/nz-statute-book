@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2014-09-05_
+_Consolidation as at 2015-10-21_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -1323,7 +1323,7 @@ If any thing is seized by a drinking-water assessor or designated officer under 
   (b) the drinking-water standards.
 (2) The Director-General must not recognise a laboratory under subsection (1) unless that laboratory—
   (a) is—
-    (i) registered under the Testing Laboratory Registration Act 1972; or
+    (i) accredited under subpart 3 of Part 1 of the Standards and Accreditation Act 2015; or
     (ii) accredited by International Accreditation New Zealand (IANZ) or any other prescribed body, for the purposes of this section; or
     (iii) recognised by the International Organization for Standardization (ISO) or the International Electrotechnical Commission (IEC) as meeting the ISO/IEC 17025: 1999 (General requirements for the competence of testing and calibration laboratories) standard or an equivalent standard, for the purposes of this section; and
   (b) complies with any criteria for the recognition of laboratories that are specified in regulations made under section 69ZZY(1)﻿(d).
