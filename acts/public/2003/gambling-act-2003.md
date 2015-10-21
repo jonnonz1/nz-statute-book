@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-10-21_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -183,15 +183,21 @@ The purpose of this Act is to—
     (a) in relation to a class 4 operator’s licence, a person who—
       (i) is a trustee or other officer of a corporate society that is an applicant for, or holder of, a class 4 operator’s licence:
       (ii) is the chief executive (or performs that function) of a corporate society that is an applicant for, or holder of, a class 4 operator’s licence:
-      (iii) exercises significant influence in the management of a corporate society that is an applicant for, or holder of, a class 4 operator’s licence; and
+      (iii) exercises significant influence in the management of a corporate society that is an applicant for, or a holder of, a class 4 operator’s licence:
+      (iv) is a management services provider for a corporate society that is an applicant for, or a holder of, a class 4 operator’s licence:
+      (v) is the chief executive (or performs that function) of a management services provider for a corporate society that is an applicant for, or a holder of, a class 4 operator’s licence:
+      (vi) exercises significant influence in the management of a management services provider for a corporate society that is an applicant for, or a holder of, a class 4 operator’s licence; and
     (b) in relation to a class 4 venue licence,—
       (i) a venue manager:
       (ii) venue personnel:
       (iii) a venue operator:
       (iv) a person who is a director, chief executive, or senior manager of a venue operator:
-      (iva) any other person whom the Secretary reasonably believes to have a significant interest in the management, ownership, or operation of a venue operator, except for the following persons holding office, elected, or appointed under the Sale and Supply of Alcohol Act 2012:
+      (iva) a person who has a significant interest in the management, ownership, or operation of a venue operator, except for the following persons holding office, elected, or appointed under the Sale and Supply of Alcohol Act 2012:
         (A) a member of a licensing trust elected in accordance with sections 308 to 314 of that Act or appointed under section 315 of that Act; or
         (B) a trustee of a community trust holding office under section 369 of that Act or elected in accordance with sections 370 to 373 of that Act or appointed under section 374 of that Act:
+      (ivb) a person who has the ability, directly or indirectly, to exert a significant degree of influence over the management or operations of a venue operator, except for the following persons holding office, elected, or appointed under the Sale and Supply of Alcohol Act 2012:
+        (A) a member of a licensing trust elected in accordance with sections 308 to 314 of that Act or appointed under section 315 of that Act; or
+        (B) a trustee of a community trust holding office under section 369 of that Act or elected in accordance with sections 370 to 373 of that Act or appointed under section 374 of that Act; and
       (v) a person who services gambling equipment at a class 4 venue; and
     (c) in relation to a licensed promoter’s licence, a person who—
       (i) is a director of, or holds office in, a company that is an applicant for, or holder of, a licensed promoter’s licence:
@@ -208,20 +214,17 @@ The purpose of this Act is to—
       (ii) prizes of money are distributed according to a draw that takes place after all participants have entered; and
     (b) includes lotto, raffles, and sweepstakes
   - **lottery prize fund account** means the account referred to in section 252
+  - **management services provider** , in relation to a corporate society that is an applicant for, or a holder of, a class 4 operator’s licence, means a person who, under a contract or arrangement, provides to the corporate society ongoing services that—
+    (a) directly relate to the conduct of class 4 gambling; and
+    (b) are not solely confined to servicing gambling equipment at a class 4 venue; and
+    (c) would, in the absence of that contract or arrangement, be performed by the corporate society itself
   - **minimum standards** means minimum standards for the design, manufacture, and performance of gambling equipment prescribed by the Secretary under section 327
   - **Minister** means the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or the relevant Part or provision of this Act
   - **money** includes—
     (a) money’s worth, whether or not convertible into money; and
     (b) the right to money; and
     (c) deferral or cancellation of some or all of an obligation to pay money
-  - **net proceeds** , in relation to gambling, means the turnover of the gambling (less prizes) plus interest or other investment return on that turnover plus any gain above the book value from the sale of gambling assets less—
-    (a) the actual, reasonable, and necessary costs, levies, and taxes incurred in conducting the gambling; and
-    (b) the actual, reasonable, and necessary costs incurred in complying with whichever of the following apply to the gambling:
-      (i) this Act or any other relevant Act:
-      (ii) an operator’s licence:
-      (iii) a venue licence; and
-    (c) the amount by which any gambling asset is depreciated in each year in accordance with generally accepted accounting practice (as defined in section 108) and, where applicable, the depreciation rates set under section 116; and
-    (d) any loss from selling or disposing of a gambling asset at a price or value below the gambling asset's book value at the time of the sale or disposal
+  - **net proceeds** has the meaning given by section 5A
   - **New Zealand lottery** —
     (a) means a form of gambling conducted by the Lotteries Commission under subpart 2 of Part 3 that is—
       (i) a lottery; or
@@ -346,6 +349,24 @@ In this Act, conduct, in relation to gambling, includes any of the following act
   (d) promoting gambling:
   (e) assisting in activities described in paragraphs (a) to (d).
 
+### 5A Meaning of net proceeds
+(1) In this Act, net proceeds, in relation to any gambling, means—
+  (a) the sum of the amounts described in subsection (2); less
+  (b) the sum of the amounts described in subsection (3).
+(2) The amounts referred to in subsection (1)﻿(a) are—
+  (a) the turnover of the gambling concerned (less prizes):
+  (b) any interest or other investment return on that turnover:
+  (c) any gain from selling or disposing of a gambling asset at a price or value above the gambling asset’s book value at the time of the sale or disposal.
+(3) The amounts referred to in subsection (1)﻿(b) are—
+  (a) the actual, reasonable, and necessary costs, levies, and taxes incurred in conducting the gambling; and
+  (b) the actual, reasonable, and necessary costs incurred in complying with any of the following in relation to the gambling:
+    (i) this Act or any other relevant enactment:
+    (ii) an operator’s licence:
+    (iii) a venue licence; and
+  (c) the amount by which any gambling asset is depreciated in each year in accordance with generally accepted accounting practice (as defined in section 108) and, where applicable, the depreciation rates set under section 116; and
+  (d) any loss from selling or disposing of a gambling asset at a price or value below the gambling asset’s book value at the time of the sale or disposal; and
+  (e) any payments made in compliance with regulations made under section 371(1)﻿(dd).
+
 ### 6 Multi-terminal and multi-player gaming machines
 In this Act, each terminal or player station of a multi-terminal or multi-player gaming machine must be treated as 1 gaming machine.
 
@@ -363,6 +384,9 @@ In this Act, each terminal or player station of a multi-terminal or multi-player
 (2) The person believed to have a significant influence in a casino or other person to whom the Secretary has given advice may provide the Secretary with information and submissions about that belief within 1 month of receiving advice of that belief.
 (3) The Secretary may then determine whether or not the person has a significant influence in a casino, having regard to submissions and information provided under subsection (2).
 (4) A determination under subsection (3) that a person has a significant influence in a casino from a particular date does not prevent the Secretary deciding that a person had a significant influence before that date.
+
+### 8AA Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 8A Act binds the Crown
 This Act binds the Crown.
@@ -606,6 +630,9 @@ Class 4 gambling may be conducted only by a corporate society that holds—
 (2) A class 4 venue licence may be issued to the New Zealand Racing Board or a racing club to conduct class 4 gambling only at—
   (a) a venue owned or leased by the New Zealand Racing Board and used mainly for racing betting or sports betting; or
   (b) a racecourse.
+(3) However, a class 4 venue licence may not be issued to the New Zealand Racing Board or a racing club if another corporate society (other than the New Zealand Racing Board or that racing club)—
+  (a) holds a class 4 venue licence for the venue; or
+  (b) held a class 4 venue licence for the venue at any time during the 5-year period immediately before the date on which the application for the licence is made.
 
 ### 34 Meaning of casino gambling
 In this Act, casino gambling—
@@ -807,13 +834,15 @@ Every society that holds a class 3 operator’s licence must, in relation to cla
 (4) The Gambling Commission may then—
   (a) confirm, vary, or reverse the decision of the Secretary; or
   (b) refer the matter back to the Secretary with directions to reconsider the decision.
-(5) The Gambling Commission must give notice of its decision, with reasons, to both the society and the Secretary.
+(5) The Gambling Commission must give notice of—
+  (a) its decision, with reasons, to both the society and the Secretary; and
+  (b) the date on which its decision takes effect (which may be a date that is later than the date on which it makes the decision).
 
 ### 47 Consequences of appeal regarding class 3 operator’s licence
 (1) The conditions of a class 3 operator’s licence remain unchanged pending the outcome of an appeal if the appellant appeals an amendment or revocation of a condition or the addition of a new condition under section 46(1)﻿(b).
 (2) A class 3 operator’s licence remains in force until—
   (a) the expiry of the period for an appeal under section 46(2); or
-  (b) the outcome of an appeal, if the appellant—
+  (b) the date that the Gambling Commission specifies under section 46(5), if the appellant—
     (i) appeals a refusal to renew or amend the licence under section 46(1)﻿(c) or (d); or
     (ii) appeals a decision to suspend or cancel the licence under section 46(1)﻿(e).
 
@@ -888,7 +917,8 @@ A class 3 operator’s licence is not transferable.
     (i) this Act, minimum standards, game rules, Gazette notices, and licence conditions; and
     (ii) the Racing Act 2003 or the Racing Act 1971 (and any rules of racing made under either of those Acts); and
     (iii) previous gaming Acts, and regulations made under previous gaming Acts; and
-    (iv) a licence or a site approval issued under a previous gaming Act.
+    (iv) a licence or a site approval issued under a previous gaming Act; and
+    (d) any other matter that the Secretary considers relevant.
 (5) The Secretary may take into account matters of a similar nature to those listed in subsection (4) that occurred outside New Zealand.
 (6) If the Secretary decides to refuse to grant a class 4 operator’s licence, the Secretary must notify the applicant of—
   (a) the reason for the decision; and
@@ -907,9 +937,10 @@ A class 3 operator’s licence is not transferable.
 ### 53 Content and conditions of class 4 operator’s licence
 (1) A class 4 operator’s licence must include the following information and conditions:
   (a) the name of the corporate society that holds the licence; and
-  (b) the commencement date and expiry date (which must be not later than 18 months after the commencement date) of the licence; and
+  (b) the commencement date and expiry date of the licence; and
   (c) a specific description of the authorised purposes to or for which net proceeds from the class 4 gambling are intended to be applied or distributed; and
   (d) any other information or conditions added by the Secretary.
+(1A) The Secretary may specify any expiry date for a class 4 operator’s licence that is not more than 3 years after the commencement date of that licence.
 (2) The conditions that the Secretary may add to a class 4 operator’s licence include—
   (a) conditions intended to minimise the risk of problem gambling:
   (b) conditions concerning the management of the gambling, including the records that must be maintained and reporting requirements:
@@ -1047,6 +1078,7 @@ Every corporate society that holds a class 4 operator’s licence must, in relat
   (c) refuse an application by the corporate society for the renewal of a class 4 operator’s licence; or
   (d) refuse to amend a class 4 operator’s licence held by the corporate society; or
   (e) suspend or cancel a class 4 operator’s licence held by the corporate society.
+(1A) To avoid doubt, the specification of an expiry date under section 53(1A) is not a decision that may be appealed to the Gambling Commission.
 (2) An appeal must be in writing and must be made within—
   (a) 15 working days after the date of the notice of the Secretary’s decision; or
   (b) any longer period that the Gambling Commission allows if an application for an extension is made within the time period specified in paragraph (a).
@@ -1058,13 +1090,15 @@ Every corporate society that holds a class 4 operator’s licence must, in relat
 (4) The Gambling Commission may then—
   (a) confirm, vary, or reverse the decision of the Secretary; or
   (b) refer the matter back to the Secretary with directions to reconsider the decision.
-(5) The Gambling Commission must give notice of its decision, with reasons, to both the corporate society and the Secretary.
+(5) The Gambling Commission must give notice of—
+  (a) its decision, with reasons, to both the corporate society and the Secretary; and
+  (b) the date on which its decision takes effect (which may be a date that is later than the date on which it makes the decision).
 
 ### 62 Consequences of appeal regarding class 4 operator’s licence
 (1) The conditions of a class 4 operator’s licence remain unchanged pending the outcome of an appeal if the appellant appeals an amendment or revocation of a condition or the addition of a new condition under section 61(1)﻿(b).
 (2) A class 4 operator’s licence remains in force until—
   (a) the expiry of the period for an appeal under section 61(2); or
-  (b) the outcome of an appeal, if the appellant—
+  (b) the date that the Gambling Commission specifies under section 61(5), if the appellant—
     (i) appeals a refusal to renew or amend the licence under section 61(1)﻿(c) or (d); or
     (ii) appeals a decision to suspend or cancel the licence under section 61(1)﻿(e).
 
@@ -1166,7 +1200,8 @@ A class 4 operator’s licence is not transferable.
     (i) this Act, minimum standards, game rules, Gazette notices, and licence conditions; and
     (ii) the Racing Act 2003 or the Racing Act 1971 (and any rules of racing made under either of those Acts); and
     (iii) previous gaming Acts, and regulations made under previous gaming Acts; and
-    (iv) a licence or a site approval issued under a previous gaming Act.
+    (iv) a licence or a site approval issued under a previous gaming Act; and
+  (d) any other matter that the Secretary considers relevant.
 (2) The Secretary may take into account matters of a similar nature to those listed in subsection (1) that occurred outside New Zealand.
 
 ### 69 Form and content of class 4 venue agreement
@@ -1193,7 +1228,7 @@ A corporate society that holds a class 4 venue licence must, in relation to clas
 ### 70 Content and conditions of class 4 venue licence
 (1) A class 4 venue licence must include the following information and conditions:
   (a) the name of the corporate society that holds the licence; and
-  (b) the commencement date and expiry date (which must be not later than 18 months after the commencement date) of the licence; and
+  (b) the commencement date and expiry date of the licence; and
   (c) the authorised purpose of the corporate society; and
   (ca) the name of the class 4 venue; and
   (d) the name of the venue operator; and
@@ -1203,6 +1238,7 @@ A corporate society that holds a class 4 venue licence must, in relation to clas
   (h) details of the gambling equipment that may be operated at the venue; and
   (i) conditions to prevent class 4 gambling being conducted at the venue unless the primary activity of the venue is offered and available at that time; and
   (j) any other conditions added by the Secretary.
+(1A) The Secretary may specify any expiry date for a class 4 venue licence that is not more than 3 years after the commencement date of that licence.
 (2) The conditions that the Secretary may add to a class 4 venue licence include—
   (a) conditions to ensure that both the venue operator and the venue manager can supervise effectively—
     (i) the class 4 gambling at the venue; and
@@ -1330,6 +1366,7 @@ A corporate society that holds a class 4 venue licence must, in relation to clas
   (c) refuse an application by the corporate society for the renewal of a class 4 venue licence; or
   (d) refuse to amend a class 4 venue licence held by the corporate society; or
   (e) suspend or cancel a class 4 venue licence held by the corporate society.
+(1A) To avoid doubt, the specification of an expiry date under section 70(1A) is not a decision that may be appealed to the Gambling Commission.
 (2) An appeal must be in writing and must be made within—
   (a) 15 working days after the date of the notice of the Secretary’s decision; or
   (b) any longer period that the Gambling Commission allows if an application for an extension is made within the time period specified in paragraph (a).
@@ -1341,13 +1378,15 @@ A corporate society that holds a class 4 venue licence must, in relation to clas
 (4) The Gambling Commission may—
   (a) confirm, vary, or reverse the decision of the Secretary; or
   (b) refer the matter back to the Secretary with directions to reconsider the decision.
-(5) The Gambling Commission must give notice of its decision, with reasons, to the corporate society, or the parties to the venue agreement, and the venue manager and the Secretary.
+(5) The Gambling Commission must give notice of—
+  (a) its decision, with reasons, to the corporate society, or the parties to the venue agreement, and the venue manager and the Secretary; and
+  (b) the date on which its decision takes effect (which may be a date that is later than the date on which it makes the decision).
 
 ### 78 Consequences of appeal regarding class 4 venue licence
 (1) The conditions of a class 4 venue licence remain unchanged pending the outcome of an appeal if the appellant appeals an amendment or revocation of a condition or the addition of a new condition under section 77(1)﻿(b).
 (2) A class 4 venue licence remains in force until—
   (a) the expiry of the period for an appeal under section 77(2); or
-  (b) the outcome of an appeal, if the appellant—
+  (b) the date that the Gambling Commission specifies under section 77(5), if the appellant—
     (i) appeals a refusal to renew or amend the licence under section 77(1)﻿(c) or (d); or
     (ii) appeals a decision to suspend or cancel the licence under section 77(1)﻿(e).
 
@@ -1625,7 +1664,7 @@ On request from a territorial authority, the Secretary must provide—
 **Net proceeds and costs of class 4 gambling**
 
 ### 104 Gaming machine profits must be banked
-(1) A venue manager must bank all gaming machine profits from class 4 gambling directly into a dedicated account for gaming machine profits specified by, and in the name of, the holder of the class 4 operator’s licence at a registered bank in New Zealand.
+(1) A venue manager must bank all gaming machine profits from class 4 gambling into a dedicated account for gaming machine profits specified by, and in the name of, the holder of the class 4 operator’s licence at a registered bank in New Zealand.
 (2) The venue manager must bank the gaming machine profits within the time frame specified in regulations made under section 371 or, if no time frame is specified, as soon as reasonably practicable.
 (3) If a venue manager contravenes subsection (1) or (2), the holder of the class 4 operator’s licence—
   (a) must advise the Secretary of the contravention as soon as possible after becoming aware of the contravention; and
@@ -1759,18 +1798,25 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
   (b) prescribing a time period within which the application or distribution to or for authorised purposes of net proceeds from class 4 gambling must occur:
   (c) prescribing requirements for advertising the availability of net proceeds from class 4 gambling for distribution:
   (d) prescribing requirements for the methods and processes used to deal with applications for the distribution of net proceeds from class 4 gambling:
-  (e) prescribing requirements for the publication of information about the application and distribution of net proceeds from class 4 gambling, including what amounts to publication for the purposes of section 110:
-  (f) prescribing other requirements concerning the management, application, or distribution of net proceeds.
+  (e) prescribing requirements for the publication of information about the application and distribution of net proceeds from class 4 gambling, which may, without limitation, include requirements that information of that kind, or any class of information of that kind, be published—
+    (i) in a stated manner, location, or form:
+    (ii) in an electronic form as well as, or instead of, a non-electronic form:
+  (f) prescribing any matter to be disclosed in a statement published under section 110(4), and the form in which those matters must be disclosed in that statement:
+  (g) prescribing the form of the electronic version required to be provided under section 110(4B) and the manner in which, and the time within which, it must be provided:
+  (h) specifying the reporting period to which a statement published under section 110(4) must relate, and different reporting periods may be specified for different cases:
+  (i) specifying intervals that are shorter than 12 months at which a statement under section 110(4) must be published, and different intervals may be specified for different cases:
+  (j) requiring that a portion of the proceeds of class 4 gambling (which may be specified or determined by a specified formula or definition) be applied or distributed to or for authorised purposes in, or operating in, the geographical area from which those proceeds were derived:
+  (k) setting out how geographical areas are to be identified or defined for the purposes of the regulations, and different definitions may be adopted for different purposes:
+  (l) prescribing the criteria or circumstances under which a corporate society may retain net proceeds to maintain financial viability:
+  (m) limiting the amount of the net proceeds of class 4 gambling that may be applied or distributed to or for authorised purposes in, or operating in, any specified geographical areas, or all geographical areas, that are outside the geographical area from which those net proceeds were derived:
+  (n) imposing rules about the application or distribution of net proceeds that are not required to be, or are not prohibited from being, applied or distributed to or for authorised purposes in, or operating in, a particular geographical area:
+  (o) prescribing any other matters concerning the management, application, or distribution of net proceeds.
 (2) Regulations made under subsection (1) may apply—
   (a) to specified licence holders or classes of licence holder; or
   (b) in respect of specified venues or classes of venue; or
   (c) in respect of specified gambling equipment or classes of gambling equipment; or
   (d) in respect of specified games or classes of games.
-(3) Regulations may also be made under subsection (1) for the following purposes:
-  (a) requiring that a specified portion of the net proceeds of class 4 gambling be applied or distributed to or for authorised purposes in, or operating in, the geographical area from which those net proceeds were derived:
-  (b) limiting the amount of the proceeds of class 4 gambling that may be applied or distributed to or for authorised purposes in, or operating in, any specified geographical areas, or all geographical areas, that are outside the geographical area from which those net proceeds were derived:
-  (c) setting out how geographical areas are to be identified or defined for the purposes of the regulations; and different definitions may be adopted for different purposes:
-  (d) imposing rules about the application or distribution of net proceeds that are not required to be, or are not prohibited from being, applied or distributed to or for authorised purposes in, or operating in, a particular geographical area.
+(3)
 
 ### 115 Payment of commission prohibited
 (1) The payment of, or receipt of, commission by any person for conducting class 4 gambling is prohibited.
@@ -1802,10 +1848,11 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
 (5) A contract or other arrangement or obligation entered into by a corporate society, whether before or after the passage of this Act, that does not comply with limits set under subsection (1) is an illegal contract for the purposes of the Illegal Contracts Act 1970.
 (6) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
-### 117 Secretary may investigate and audit licensees, grant recipients, and businesses at class 4 venues
+### 117 Secretary may investigate and audit licensees, grant recipients, management services providers, and businesses at class 4 venues
 (1) The Secretary may, to the extent that is necessary to determine compliance with this Act, investigate and audit the generation, application, and distribution of the proceeds from class 4 gambling, which may include—
   (a) an investigation and audit of the holder of a class 4 operator’s licence or a class 4 venue licence:
   (b) an investigation and audit of a grant recipient:
+  (ba) an investigation and audit of a management services provider:
   (c) an investigation and audit of a business operating at a class 4 venue.
 (2) The persons referred to in subsection (1) must provide any information required by the Secretary for the purpose of carrying out an investigation or audit under that subsection.
 (3) The Secretary may publish, or require the corporate society to publish, in the form that the Secretary considers appropriate—
@@ -1814,24 +1861,25 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
 (4) The Secretary may recover the costs of investigating or auditing from the holder of class 4 operator’s licences in accordance with regulations made under section 370.
 (5) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
-### 118 Certain persons must not seek, receive, or offer benefits with conditions attached
-(1) A holder of, or key person in relation to, a class 4 operator’s licence or a class 4 venue licence must not knowingly receive or seek money, a benefit, an advantage, a privilege, or a gift from the following persons if the receipt has a condition attached to it and whether the receipt or condition is direct, indirect, formal, informal, or otherwise:
+### 118 Certain persons must not seek, receive, or offer benefits with improper conditions attached
+(1) A holder of, or key person in relation to, a class 4 operator’s licence or a class 4 venue licence must not knowingly receive or seek money, a benefit, an advantage, a privilege, or a gift from the following persons if the receipt has an improper condition attached to it and whether the receipt or condition is direct, indirect, formal, informal, or otherwise:
   (a) a grant recipient or potential grant recipient:
   (b) a person that sells, repairs, services, or maintains gambling equipment.
-(2) A key person in relation to a class 4 venue licence must not knowingly receive or seek money, a benefit, an advantage, privilege, or gift from the following persons, if the receipt has a condition attached to it and whether the receipt or condition is direct, indirect, formal, informal, or otherwise:
-  (a) a holder of a class 4 operator’s licence if the holder operates at that venue:
-  (b) a key person in relation to a class 4 operator’s licence if the holder operates at that venue.
-(3) A holder of, or key person in relation to, a class 4 operator’s licence, or person that sells, repairs, services or maintains gambling equipment must not knowingly offer money, a benefit, an advantage, a privilege, or a gift to the following persons if the receipt has a condition attached to it and whether the receipt or condition is direct, indirect, formal, informal, or otherwise:
+(2) A key person in relation to a class 4 venue licence must not knowingly receive or seek money, a benefit, an advantage, privilege, or gift from the following persons, if the receipt has an improper condition attached to it and whether the receipt or condition is direct, indirect, formal, informal, or otherwise:
+  (a) a holder of a class 4 operator’s licence:
+  (b) a key person in relation to a class 4 operator’s licence.
+(3) A holder of, or key person in relation to, a class 4 operator’s licence, or person that sells, repairs, services or maintains gambling equipment must not knowingly offer money, a benefit, an advantage, a privilege, or a gift to the following persons if the receipt has an improper condition attached to it and whether the receipt or condition is direct, indirect, formal, informal, or otherwise:
   (a) a grant recipient or potential grant recipient:
   (b) a key person in relation to a class 4 venue licence.
-(3A) Any other person involved in making decisions on grant applications made to the holder of a class 4 operator’s licence must not knowingly receive or seek money, a benefit, an advantage, a privilege, or a gift from a grant recipient (or potential grant recipient) if the receipt has a condition attached to it, and whether the receipt or condition is direct, indirect, formal, informal, or otherwise.
-(4) Subsections (2) and (3) do not prevent the holder of a class 4 operator’s licence paying a key person in relation to a class 4 venue costs associated with the class 4 venue if the costs—
-  (a) do not exceed the amounts specified in any venue agreement; and
-  (b) do not exceed the limits in section 116; and
-  (c) are otherwise lawful.
+(3A) Any other person involved in making decisions on grant applications made to the holder of a class 4 operator’s licence must not knowingly receive or seek money, a benefit, an advantage, a privilege, or a gift from a grant recipient (or potential grant recipient) if the receipt has an improper condition attached to it, and whether the receipt or condition is direct, indirect, formal, informal, or otherwise.
+(3B) A holder of a class 4 operator's licence or a class 4 venue licence, or a key person in relation to a class 4 operator's licence or a class 4 venue licence, must not knowingly receive any money, a benefit, an advantage, a privilege, or a gift that could reasonably be perceived as influencing decisions taken, or to be taken, on applications for grants, whether the receipt is direct, indirect, formal, informal, or otherwise.
+(4) To avoid doubt, subsections (2) and (3) do not prevent the holder of a class 4 operator’s licence from paying a key person in relation to a class 4 venue the costs associated with the class 4 venue if the payment—
+  (a) complies with section 115 and regulations made under section 371; and
+  (b) is consistent with the relevant venue agreement; and
+  (c) is otherwise lawful.
 (5) A person who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $10,000.
 (6) To avoid doubt, this section applies whether—
-  (a) the condition is attached either before or after the money, benefit, advantage, privilege, or gift is received by the person concerned; or
+  (a) where an improper condition is an element of an offence, the condition is attached either before or after the money, benefit, advantage, privilege, or gift is received by the person concerned; or
   (b) any money, benefit, advantage, privilege, or gift is actually received by the person concerned.
 
 ### Subpart 5 — Licensing of casino gambling
@@ -2976,6 +3024,20 @@ Schedule 3 applies to the Gambling Commission.
 (4A) To avoid doubt, a casino licence remains in force (unless it expires or is surrendered) until all appeals are decided, or the period for appeal expires.
 (5) There is no appeal to a court against a decision of the Gambling Commission in performing the functions in section 224(1)﻿(g) to (q).
 
+### 235A No review of Secretary's decisions concerning class 3 or class 4 gambling until right of appeal exercised
+(1) A person who has a right to appeal to the Gambling Commission against 1 or more of the decisions specified in subsection (2) is not entitled to apply for judicial review of the decision unless—
+  (a) that person exercises that right of appeal; and
+  (b) the appeal is finally determined.
+(2) The decisions referred to in subsection (1) are—
+  (a) a decision by the Secretary to refuse to grant a class 3 operator’s licence, class 4 operator’s licence, or class 4 venue licence:
+  (b) a decision by the Secretary to cancel or suspend a class 3 operator’s licence, class 4 operator’s licence, or class 4 venue licence:
+  (c) a decision by the Secretary to amend or revoke a condition of, or add a new condition to, a class 3 operator’s licence, class 4 operator’s licence, or class 4 venue licence:
+  (d) a decision by the Secretary to refuse to renew a class 3 operator’s licence, class 4 operator’s licence, or class 4 venue licence:
+  (e) a decision by the Secretary to refuse to amend a class 3 operator’s licence, class 4 operator’s licence, or class 4 venue licence.
+(3) In this section, apply for judicial review means—
+  (a) to make an application for review of the decision under Part 1 of the Judicature Amendment Act 1972; or
+  (b) to institute proceedings seeking any writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in respect of that decision.
+
 ### Subpart 2 — New Zealand Lotteries Commission
 
 **New Zealand Lotteries Commission**
@@ -3966,6 +4028,7 @@ To avoid doubt, this Part does not prevent the Secretary from exercising his or 
 
 ### 355 Proceedings for offences
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 2 years after the date on which the offence was committed.
+(1A) Despite subsection (1), the limitation period in respect of an offence against section 113 or 118 ends on the date that is 5 years after the date on which the offence was committed.
 (2) Only a gambling inspector or a constable may file a charging document for an offence against this Act.
 
 **Infringement offences**
@@ -4132,6 +4195,12 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (d) specifying the time frame within which, and the accounts into which, the profits from gambling must be banked:
   (da) specifying the time frame within which, and the accounts from which, the costs incurred in conducting gambling must be met:
   (db) specifying the time frame within which, and the accounts from which, funds must be applied to or distributed for authorised purposes:
+  (dc) prescribing requirements relating to the presentation of financial reports by holders of class 4 operator’s licences, and specifying matters that must be included in those reports, including, without limitation, key indicators of operational efficiency:
+  (dd) prescribing the payments that corporate societies may make to venue operators and, for that purpose, providing for 1 or more of the following:
+    (i) the matters for which venue operators may or may not be paid, including (but not limited to) costs:
+    (ii) any limit on the payment for a matter of a particular kind:
+    (iii) that, subject to any conditions that may be prescribed, the payment for 1 or more matters may be up to an amount that does not exceed a specified percentage of the turnover (exclusive of prizes and goods and services tax) of the class 4 gambling, for a stated period, at the venue:
+  (de) prescribing the manner in which payments prescribed under paragraph (dd) are to be set out in class 4 venue agreements:
   (e) prescribing systems or processes to ensure compliance with this Act:
   (f) prescribing classes of persons who are casino employees who require a certificate of approval:
   (g) prohibiting junkets or specifying the terms on which the holder of a casino licence may associate with a junket organiser or may participate in a junket:
@@ -4180,6 +4249,24 @@ The Acts specified in Schedules 8 and 9 are amended in the manner set out in tho
 (4) An application concerning class 4 gambling that is decided in the period from the date of repeal of the previous gaming Acts and until the date on which all of subpart 4 of Part 2 of this Act comes into force must be based on the previous gaming Acts and the relevant parts of this Act then in force.
 (5) An application concerning class 4 gambling that is not decided before all of subpart 4 of Part 2 comes into force must be decided solely on the basis of this Act.
 (6) For the purposes of subsections (2) and (4), if there is any inconsistency between the provisions of this Act and any provisions of the previous gaming Acts, this Act prevails.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+**Transitional provisions relating to Gambling Amendment Act (No 2) 2015**
+
+### 1 Annual reports
+Section 108 of the principal Act as in force before the commencement of section 21 of the Gambling Amendment Act (No 2) 2015 continues to apply to any annual report that relates to a period that commenced before that commencement.
+
+### 2 Publication requirements
+A corporate society may, in respect of any matter that occurred before the commencement of section 22 of the Gambling Amendment Act (No 2) 2015, choose to comply with section 110 of the principal Act as in force before that commencement instead of section 110 of the principal Act as in force on that commencement.
+
+### 3 Certain venue agreements deemed to be amended
+A venue agreement that is in force on the commencement of regulations made under section 371(1)﻿(dd) is, to the extent of any inconsistency with those regulations, deemed, on and from that commencement, to be amended so as to make that agreement consistent with those regulations, and, in particular, any provision in that agreement—
+  (a) is deemed to be deleted so far as it provides for the payment of a matter for which the venue operator may not be paid under those regulations; and
+  (b) that provides for payment in excess of a limit prescribed by those regulations is deemed to be reduced so as not to exceed that limit.
+
+### 4 No judicial review unless and until appeal rights exercised
+Section 235A of the principal Act as inserted by section 28 of the Gambling Amendment Act (No 2) 2015 applies to decisions by the Secretary made on or after the commencement of that section 28, but does not apply to decisions made before that commencement.
 
 ## Schedule 1 — Conditions that may attach to casino licence
 
