@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2015-10-21_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -54,8 +54,8 @@ _Consolidation as at 2015-03-26_
       (ii) a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908; or
       (iii) a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, and not by, any provision of an Act, to inquire into a specified matter; and
     (ha) does not include—
-      (i) any matter subject to an order under section 15(1)(a) of the Inquiries Act 2013; or
-      (ii) documents referred to in section 32(2)(b) of the Inquiries Act 2013; and
+      (i) any matter subject to an order under section 15(1)﻿(a) of the Inquiries Act 2013; or
+      (ii) documents referred to in section 32(2)﻿(b) of the Inquiries Act 2013; and
     (i) does not include information contained in any correspondence or communication which has taken place between the office of the Ombudsmen and any department or Minister of the Crown or organisation and which relates to an investigation conducted by an Ombudsman under this Act or under the Ombudsmen Act 1975, other than information that came into existence before the commencement of that investigation; and
     (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any department or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 1993, other than information that came into existence before the commencement of that investigation:
     (k) does not include information contained in a victim impact statement (as defined in section 17AA of the Victims' Rights Act 2002)
@@ -182,7 +182,7 @@ Good reason for withholding information exists, for the purpose of section 5, if
   (k) prevent the disclosure or use of official information for improper gain or improper advantage.
 
 ### 10 Information concerning existence of certain information
-Where a request under this Act relates to information to which section 6 or section 7 or section 9(2)(b) applies, or would, if it existed, apply, the department or Minister of the Crown or organisation dealing with the request may, if it or he is satisfied that the interest protected by section 6 or section 7 or section 9(2)(b) would be likely to be prejudiced by the disclosure of the existence or non-existence of such information, give notice in writing to the applicant that it or he neither confirms nor denies the existence or non-existence of that information.
+Where a request under this Act relates to information to which section 6 or section 7 or section 9(2)﻿(b) applies, or would, if it existed, apply, the department or Minister of the Crown or organisation dealing with the request may, if it or he is satisfied that the interest protected by section 6 or section 7 or section 9(2)﻿(b) would be likely to be prejudiced by the disclosure of the existence or non-existence of such information, give notice in writing to the applicant that it or he neither confirms nor denies the existence or non-existence of that information.
 
 ### 11 Exclusion of public interest immunity
 (1) Subject to subsection (2), the rule of law which authorises or requires the withholding of any document, or the refusal to answer any question, on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest shall not apply in respect of—but not so as to give any party any information that he would not, apart from this section, be entitled to.
@@ -205,7 +205,7 @@ Where a request under this Act relates to information to which section 6 or sect
 (1AA) A request under subsection (1)—
   (a) may be made in any form and communicated by any means (including orally); and
   (b) does not need to refer to this Act.
-(1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to subclause (1)(b) of principle 6 of the Privacy Act 1993, and shall be dealt with accordingly, and nothing in this Part or in Part 5 shall apply in relation to any such request.
+(1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to subclause (1)﻿(b) of principle 6 of the Privacy Act 1993, and shall be dealt with accordingly, and nothing in this Part or in Part 5 shall apply in relation to any such request.
 (2) The official information requested shall be specified with due particularity in the request.
 (3) If the person making the request asks that his request be treated as urgent, he shall give his reasons for seeking the information urgently.
 (4) A department or Minister of the Crown or organisation to which an oral request is made under subsection (1) may, if written clarification is reasonably necessary, ask the person making the request to put the request in writing to clarify the request.
@@ -321,7 +321,7 @@ Where a request made in accordance with section 12 is refused, the department or
 (2A) In complying with subsection (2), the Ministry of Justice may publish a new edition or supplementary material on an Internet website and in an electronic form that is publicly accessible (at all reasonable times), so long as the Ministry also publishes that edition or material in any other manner and form that is necessary in the light of the need specified in subsection (4).
 (3) Each department and each organisation shall assist the Ministry of Justice to comply with subsections (1) and (2) and shall supply to the Ministry of Justice such information as it requires for the purposes of those subsections.
 (4) In complying with subsections (1) and (2), the Ministry of Justice shall have regard, among other things, to the need to assist members of the public to obtain official information and to effectively exercise their rights under this Act.
-(5) Where there is good reason under section 6 or section 7 or section 9(2)(b) for withholding official information, nothing in this section requires the publication of that official information.
+(5) Where there is good reason under section 6 or section 7 or section 9(2)﻿(b) for withholding official information, nothing in this section requires the publication of that official information.
 
 ### 21 Right of access to certain official information
 (1) Every person has a right to and shall, on request made under this subsection, be given access to the latest edition of the publication published under section 20 and to any published supplementary material bringing that edition up-to-date.
@@ -334,7 +334,7 @@ Where a request made in accordance with section 12 is refused, the department or
 (3) The giving of access to any official information to which subsection (2) applies shall be subject to the provisions of any regulations made under this Act.
 
 ### 22 Right of access to internal rules affecting decisions
-(1) Subject to section 6(a) to (d), section 7, section 9(2)(a), (b), (ba), (i), and (j), and section 10 and to subsections (2) and (6), every person has a right to and shall, on request made under this section, be given access to any document (including a manual) which is held by a department or Minister of the Crown or organisation and which contains policies, principles, rules, or guidelines in accordance with which decisions or recommendations are made in respect of any person or body of persons in his or its personal capacity.
+(1) Subject to section 6(a) to (d), section 7, section 9(2)﻿(a), (b), (ba), (i), and (j), and section 10 and to subsections (2) and (6), every person has a right to and shall, on request made under this section, be given access to any document (including a manual) which is held by a department or Minister of the Crown or organisation and which contains policies, principles, rules, or guidelines in accordance with which decisions or recommendations are made in respect of any person or body of persons in his or its personal capacity.
 (2) The right conferred by subsection (1) may be exercised only by—
   (a) a New Zealand citizen; or
   (b) a permanent resident of New Zealand; or
@@ -342,18 +342,18 @@ Where a request made in accordance with section 12 is refused, the department or
   (d) a body corporate which is incorporated in New Zealand; or
   (e) a body corporate which is incorporated outside New Zealand but which has a place of business in New Zealand.
 (3) Sections 12(2) and (3), 13 to 15A, and 19 shall apply, with all necessary modifications, to a request made under subsection (1).
-(4) Where, by virtue of any of the provisions of section 6(a) to (d), section 7, section 9(2)(a), (b), (ba), (i), and (j), there is good reason for withholding some of the information contained in a document to which subsection (1) relates, the department or Minister of the Crown or organisation shall, unless it is impracticable to do so, either—
+(4) Where, by virtue of any of the provisions of section 6(a) to (d), section 7, section 9(2)﻿(a), (b), (ba), (i), and (j), there is good reason for withholding some of the information contained in a document to which subsection (1) relates, the department or Minister of the Crown or organisation shall, unless it is impracticable to do so, either—
   (a) make a copy of that document available with such deletions or alterations as are necessary; or
   (b) provide another document stating the substance and effect of the document except as it relates to the information withheld.
 (5) Where a document is made available under subsection (4), the department or Minister of the Crown or organisation shall, subject to section 10, give to the applicant—
   (a) the reason for withholding the information; and
-  (b) if the applicant so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by section 6(a) to (d) or section 7 or section 9(2)(a) or (b) or (ba) or (i) or (j) and (in the case of the interests protected by section 9(2)(a) or (b) or (ba) or (i) or (j)) there is no countervailing public interest.
+  (b) if the applicant so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by section 6(a) to (d) or section 7 or section 9(2)﻿(a) or (b) or (ba) or (i) or (j) and (in the case of the interests protected by section 9(2)﻿(a) or (b) or (ba) or (i) or (j)) there is no countervailing public interest.
 (6) Nothing in this section authorises or permits Public Trust or the Maori Trust Office to make available any information that is contained in a document to which subsection (1) relates but that relates to the making of decisions or recommendations by Public Trust or the Maori Trustee—
   (a) in their capacity as trustee within the meaning of the Trustee Act 1956; or
   (b) in any other fiduciary capacity.
 
 ### 23 Right of access by person to reasons for decisions affecting that person
-(1) Subject to section 6(a) to (d), section 7, section 9(2)(b), and section 10 and to subsections (2), (4), and (5), where a department or Minister of the Crown or organisation makes, on or after 1 July 1983, a decision or recommendation in respect of any person, being a decision or recommendation in respect of that person in his or its personal capacity, that person has the right to and shall, on request made within a reasonable time of the making of the decision or recommendation, be given a written statement of—
+(1) Subject to section 6(a) to (d), section 7, section 9(2)﻿(b), and section 10 and to subsections (2), (4), and (5), where a department or Minister of the Crown or organisation makes, on or after 1 July 1983, a decision or recommendation in respect of any person, being a decision or recommendation in respect of that person in his or its personal capacity, that person has the right to and shall, on request made within a reasonable time of the making of the decision or recommendation, be given a written statement of—
   (a) the findings on material issues of fact; and
   (b) subject to subsection (2A), a reference to the information on which the findings were based; and
   (c) the reasons for the decision or recommendation.
@@ -363,7 +363,7 @@ Where a request made in accordance with section 12 is refused, the department or
   (c) a person who is in New Zealand; or
   (d) a body corporate which is incorporated in New Zealand; or
   (e) a body corporate which is incorporated outside New Zealand but which has a place of business in New Zealand.
-(2A) A reference to the information on which any findings were based need not be given under subsection (1)(b) if—
+(2A) A reference to the information on which any findings were based need not be given under subsection (1)﻿(b) if—
   (a) the disclosure of the information or of information identifying the person who supplied it, being evaluative material, would breach an express or implied promise—
     (i) which was made to the person who supplied the information; and
     (ii) which was to the effect that the information or the identity of the person who supplied it or both would be held in confidence; or
@@ -385,7 +385,7 @@ Where a request made in accordance with section 12 is refused, the department or
 (5) Nothing in this section applies in respect of any decision or recommendation by Public Trust or the Maori Trustee—
   (a) in their capacity as trustee within the meaning of the Trustee Act 1956; or
   (b) in any other fiduciary capacity.
-(6) In subsection (2A)(b), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+(6) In subsection (2A)﻿(b), medical practitioner means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
 
 ## Part 4 — Right of access to personal information
 
@@ -424,7 +424,7 @@ Where a request is made under section 24(1), the department or Minister of the C
 
 ### 27 Reasons for refusal of requests for personal information
 (1) A department or Minister of the Crown or organisation may refuse to disclose any personal information requested under section 24(1) if, and only if,—
-  (a) the disclosure of the information would be likely to prejudice any of the interests protected by section 6(a) to (d) or section 7 or section 9(2)(b) and (in the case of the interests protected by section 9(2)(b)) there is no countervailing public interest; or
+  (a) the disclosure of the information would be likely to prejudice any of the interests protected by section 6(a) to (d) or section 7 or section 9(2)﻿(b) and (in the case of the interests protected by section 9(2)﻿(b)) there is no countervailing public interest; or
   (b) the disclosure of the information would involve the unwarranted disclosure of the affairs of another person or of a deceased person; or
   (c) the disclosure of the information or of information identifying the person who supplied it, being evaluative material, would breach an express or implied promise—
     (i) which was made to the person who supplied the information; and
@@ -435,7 +435,7 @@ Where a request is made under section 24(1), the department or Minister of the C
   (g) the disclosure of the information would breach legal professional privilege; or
   (h) the request is frivolous or vexatious, or the information requested is trivial.
 (1A) No reasons other than 1 or more of the reasons set out in subsection (1) justifies a refusal to disclose any personal information requested under section 24(1).
-(2) For the purposes of subsection (1)(c), the term evaluative material means evaluative or opinion material compiled solely—
+(2) For the purposes of subsection (1)﻿(c), the term evaluative material means evaluative or opinion material compiled solely—
   (a) for the purpose of determining the suitability, eligibility, or qualifications of the person to whom the material relates for the awarding of contracts, awards, or other benefits; or
   (b) for the purpose of determining whether any contract, award, or benefit should be continued, modified, or cancelled; or
   (c) for the purpose of deciding whether to insure any person or property or to continue or renew the insurance of any person or property.
@@ -453,7 +453,7 @@ Where a request is made under section 24(1), the department or Minister of the C
 (2) It shall be a function of the Ombudsmen to investigate and review any decision by which the chief executive of a department or an officer or an employee of a department authorised by its chief executive or a Minister of the Crown or an organisation extends any time limit under section 15A.
 (3) An investigation and review under subsection (1) or subsection (2) may be made by an Ombudsman only on complaint being made to an Ombudsman in writing or orally.
 (3A) A complaint made orally must be put in writing as soon as practicable.
-(4) For the purposes of subsection (1)(a), a refusal to make official information available includes, without limitation, a failure by a department or Minister of the Crown or organisation to comply with section 15(1)—
+(4) For the purposes of subsection (1)﻿(a), a refusal to make official information available includes, without limitation, a failure by a department or Minister of the Crown or organisation to comply with section 15(1)—
   (a) as soon as is reasonably practicable, or at the latest within 20 working days, after receiving a request; or
   (b) within an extended time limit notified under section 15A(3) to the person who requested the information.
 (5) Undue delay in making official information available in response to a request for that information, shall be deemed, for the purposes of subsection (1), to be a refusal to make that information available.
@@ -479,7 +479,7 @@ Where a request is made under section 24(1), the department or Minister of the C
 (7) Notwithstanding anything in this section, an Ombudsman shall not, in any report made under subsection (6), make any comment that is adverse to any person unless the person has first been given an opportunity to be heard.
 
 ### 29B Consultation with Privacy Commissioner
-Where an Ombudsman investigates a complaint made under section 28 in relation to a refusal to make official information available in reliance on section 9(2)(a), the Ombudsman shall, before forming a final opinion under section 30 in relation to the merits of refusing that request on that ground, consult with the Privacy Commissioner under the Privacy Act 1993.
+Where an Ombudsman investigates a complaint made under section 28 in relation to a refusal to make official information available in reliance on section 9(2)﻿(a), the Ombudsman shall, before forming a final opinion under section 30 in relation to the merits of refusing that request on that ground, consult with the Privacy Commissioner under the Privacy Act 1993.
 
 ### 30 Procedure after investigation
 (1) Where, after making an investigation of a complaint made under section 28, an Ombudsman is of the opinion—the Ombudsman shall, subject to subsection (3) of this section,—
@@ -546,7 +546,7 @@ Any party to an application under section 32B who is dissatisfied with any final
 The Ombudsman who investigates a complaint made for the purposes of section 28(3) shall inform the complainant, in such manner and at such time as he thinks proper, of the result of the investigation.
 
 ### 34 Restriction on application for review
-Where any person makes a request under this Act that official information be made available to him and a decision to which section 28(1)or section 28(2) applies is made in relation to that request, that person—unless a complaint made by that person in respect of that decision has first been determined under this Part.
+Where any person makes a request under this Act that official information be made available to him and a decision to which section 28(1) or section 28(2) applies is made in relation to that request, that person—unless a complaint made by that person in respect of that decision has first been determined under this Part.
   (a) shall not make an application under section 4(1) of the Judicature Amendment Act 1972 for the review of that decision; and
   (b) shall not commence any proceedings in which that decision is sought to be challenged, quashed, or called in question in any court,—
 
@@ -649,7 +649,7 @@ As from the close of 30 June 1988—
     (ii) Part 6; and
     (iii) paragraph (a) of section 47; and
     (iv) Schedule 2,—
-  (b) section 11(1)(a) shall be amended by omitting the words or the Authority; and
+  (b) section 11(1)﻿(a) shall be amended by omitting the words or the Authority; and
   (c) the Authority shall be dissolved; and
   (d) all real and personal property belonging to the Authority shall become vested in the Crown; and
   (e) all money payable to the Authority shall become payable to the Crown; and
