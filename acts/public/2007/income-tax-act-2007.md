@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-10-23_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -3933,7 +3933,9 @@ Exclusion: certain public authorities
 (5) Subsection (2) does not apply to an amount of income derived by the following public authorities:
   (a) Public Trust:
   (b) State enterprises:
-  (c) Crown Research Institutes.
+  (c) Crown Research Institutes:
+  (d) a Fund investment vehicle as referred to in section 59A of the New Zealand Superannuation and Retirement Income Act 2001:
+  (e) a company that is treated as being wholly owned by the Crown under section HR 4B (Activities relating to New Zealand Superannuation Fund).
 Exclusion: mixed-ownership enterprises
 (5B) Subsection (2) does not apply to an amount of income derived by a mixed-ownership enterprise.
 Meaning of public authority
@@ -4889,11 +4891,13 @@ An amount of share-lending collateral derived by a person under a share-lending 
 What this section applies to
 (1) This section applies in an income year to the following entities unless the entity is assured, under an arrangement with another person, of having a gain on the disposal:
   (a) a portfolio investment entity other than a life fund PIE:
-  (b) the New Zealand Superannuation Fund:
+  (b) the Crown as owner of the New Zealand Superannuation Fund:
+  (bb) a Fund investment vehicle, as referred to in section 59A of the New Zealand Superannuation and Retirement Income Act 2001, that is treated as being wholly owned by the Crown under section HR 4B (Activities relating to New Zealand Superannuation Fund):
+  (bc) a company that is treated as being wholly owned by the Crown under section HR 4B:
   (c) a life insurer.
 Excluded income
 (2) An amount that the entity derives from the disposal in the income year of a share issued by a company referred to in subsection (3) is—
-  (a) excluded income of the entity for the income year, if the entity is described in subsection (1)﻿(a) or (b); or
+  (a) excluded income of the entity for the income year, if the entity is described in subsection (1)﻿(a), (b), (bb), or (bc); or
   (b) excluded income of the entity for the income year to the extent to which the amount is actuarially determined to be policyholder base income, if the entity is a life insurer.
 Particular company
 (3) The company referred to in subsection (2) is,—
@@ -26787,11 +26791,15 @@ Pre-1983 investments
 ### HR 4 Government Superannuation Fund
 The Government Superannuation Fund Authority is treated for income tax purposes as if the Government Superannuation Fund were a superannuation scheme that is a trust and the Authority the trustee of that scheme.
 
-### HR 4B Crown activities through New Zealand Superannuation Fund
-Amounts of income derived and expenditure incurred by the Crown in relation to the activities of its New Zealand Superannuation Fund are determined using the rules in this Act that apply to companies. This treatment applies to determine—
-  (a) how the amounts derived and incurred are quantified and timed:
-  (b) whether income is treated as exempt income or excluded income:
-  (c) any other matter concerning an activity of the Fund.
+### HR 4B Activities relating to New Zealand Superannuation Fund
+When this section applies
+(1) This section applies to determine for this Act the rules that determine the amounts of income derived and expenditure incurred by the Crown as owner of the New Zealand Superannuation Fund (the Fund).
+Activities of the Crown relating to Fund
+(2) Amounts of income derived and expenditure incurred by the Crown in activities relating to the Fund are determined as if the amounts were being derived or incurred by a company (the Fund company), other than a public authority, that was a special corporate entity wholly owned by the Minister of the Crown who was for the time being responsible for the administration of the New Zealand Superannuation and Retirement Income Act 2001, Parts 2 and 3.
+Fund investment vehicles
+(3) The consolidation rules, continuity provisions, and other rules relating to groups of companies apply to the Crown as owner of the Fund, to a Fund investment vehicle as referred to in section 59A of the New Zealand Superannuation and Retirement Income Act 2001, and to a company in which the Guardians of New Zealand Superannuation (the Guardians) hold interests for the Crown, as if—
+  (a) the Crown were the Fund company; and
+  (b) interests in the Fund investment vehicle or company held by the Guardians were owned by the Crown as the Fund company.
 
 ### HR 5 Airport operators: general
 When this section applies
