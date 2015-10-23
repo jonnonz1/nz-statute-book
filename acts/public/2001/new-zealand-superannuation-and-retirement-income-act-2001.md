@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-10-23_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -329,7 +329,7 @@ A person is not entitled to be paid New Zealand superannuation under section 26 
 ### 32 Rates of payment of New Zealand superannuation payable to people resident in specified Pacific countries
 (1) The rate of New Zealand superannuation payable under section 31 is,—
   (a) in the case of a person who has resided in New Zealand for 20 or more years since turning 20 years, the base rate:
-  (b) in the case of a person who has resided in New Zealand for 10 or more years but fewer than 20 years since turning 20 years, an amount calculated using the following formula: a × b20where—ais the base ratebis the whole number of years the person has resided in New Zealand since turning 20 years:
+  (b) in the case of a person who has resided in New Zealand for 10 or more years but fewer than 20 years since turning 20 years, an amount calculated using the following formula:The following table contains a formulaa × b20where—ais the base ratebis the whole number of years the person has resided in New Zealand since turning 20 years:
   (c) in the case of a person who is resident in a specified Pacific country and was being paid New Zealand superannuation immediately before 1 October 1999 under section 17 or section 17B of the Social Welfare (Transitional Provisions) Act 1990 as it was immediately before that date, the higher of—
     (i) the amount he or she was being paid immediately before that date; and
     (ii) the appropriate amount payable under paragraph (a) or paragraph (b).
@@ -371,13 +371,15 @@ This Part—
 This section establishes the New Zealand Superannuation Fund (the Fund).
 
 ### 38 Property of Fund
-The Fund consists of—
+(1) The Fund consists of—
   (a) the capital contributions payable under this Act:
   (b) money payable under section 45 to cover the expected net cost of New Zealand superannuation entitlements that are payable in the current year:
   (c) Fund investments:
   (d) money accruing from the investment of the Fund:
   (e) any other money that may be lawfully payable into the Fund:
   (f) money in a Crown Bank Account opened under section 39.
+(2) The Fund is not an entity separate from the Crown.
+(3) However, subsection (2) does not limit section 66(2) or 67(1).
 
 ### 39 Crown Bank Account
 (1) The Treasury must open a Crown Bank Account for the Fund at any bank or banks that the Minister may direct.
@@ -454,6 +456,14 @@ The Minister may pay any money into the Fund that is additional to that required
 (4) There are no restrictions on the Guardians’ power to invest the Fund, other than as provided by sections 58, 59, and 64.
 (5) This section is subject to section 50 (borrowing).
 
+### 49A Saving of certain transactions
+(1) A failure by the Guardians to comply with any provision of this Act or the Crown Entities Act 2004 does not affect the validity or enforceability of any deed, agreement, right, or obligation that is entered into, obtained, or incurred by—
+  (a) the Guardians; or
+  (b) a Fund investment vehicle referred to in section 59A; or
+  (c) a Crown entity subsidiary of the Guardians.
+(2) This section applies only to the extent that the deed, agreement, right, or obligation is entered into, obtained, or incurred for the purpose of performing the functions of the Guardians.
+(3) This section applies despite anything to the contrary in this Act or the Crown Entities Act 2004 or any other enactment or rule of law.
+
 ### 50 Borrowing
 (1) The Guardians may not, except with the approval of the Minister of Finance,—
   (a) borrow money (in respect of the Fund); nor
@@ -513,6 +523,16 @@ Schedule 3 applies to the board and its members.
   (b) the Fund controls the entity within the meaning of any relevant financial reporting standard (within the meaning of section 5 of the Financial Reporting Act 2013); or
   (c) the Fund can control directly or indirectly the composition of the board of the entity within the meaning of sections 7 and 8 of the Companies Act 1993 (which, for the purposes of this paragraph, are to be read with all necessary modifications).
 (4) This section does not prevent the board establishing a Crown entity subsidiary of the Guardians (within the meaning of the second column of section 7(1)﻿(c) of the Crown Entities Act 2004).
+(5) This section—
+  (a) does not apply to a Fund investment vehicle referred to in section 59A; but
+  (b) does apply to an entity in which a Fund investment vehicle has an interest, as if the investments of the Fund that are held, facilitated, or managed by the Fund investment vehicle were held directly by the Guardians as manager and administrator of the Fund.
+
+### 59A Fund investment vehicles
+(1) All or any of the investments of the Fund may be held in an entity that is formed or controlled by the Guardians for the purpose of holding, facilitating, or managing the investments of the Fund (a Fund investment vehicle).
+(2) A Fund investment vehicle is not a Crown entity subsidiary for the purposes of section 7(1)﻿(c) of the Crown Entities Act 2004.
+(3) Interests in Fund investment vehicles are Fund investments and part of the Fund.
+(4) To avoid doubt, the Official Information Act 1982 and the Ombudsmen Act 1975 do not apply to Fund investment vehicles, but the Official Information Act 1982 applies to the Guardians in respect of information held by the Guardians about Fund investment vehicles.
+(5) Subsection (1) applies despite anything to the contrary in the Crown Entities Act 2004, this Act, or any other enactment.
 
 ### 60 Establishment of investment policies, standards, and procedures
 (1) The Guardians must establish, and adhere to, investment policies, standards, and procedures for the Fund that are consistent with their duty to invest the Fund on a prudent, commercial basis, in accordance with section 58.
@@ -526,6 +546,7 @@ A statement of investment policies, standards, and procedures must cover (but is
   (d) ethical investment, including policies, standards, or procedures for avoiding prejudice to New Zealand’s reputation as a responsible member of the world community; and
   (e) the balance between risk and return in the overall Fund portfolio; and
   (f) the fund management structure; and
+  (fa) the governance framework for the implementation and operation of Fund investment vehicles referred to in section 59A; and
   (g) the use of options, futures, and other derivative financial instruments; and
   (h) the management of credit, liquidity, operational, currency, market, and other financial risks; and
   (i) the retention, exercise, or delegation of voting rights acquired through investments; and
@@ -893,15 +914,11 @@ The board must delegate a deliberation or decision to a committee if the effect 
 ### 39 Additional persons to whom delegations can be made
 The board may delegate any of the functions or powers of the board or the entity to all or any of the following, despite section 73(1)﻿(d) of the Crown Entities Act 2004:
   (a) a person appointed to undertake the investment of any part of the Fund under section 62:
-  (b) a custodian.
+  (b) a custodian:
+  (c) a Fund investment vehicle that is formed or controlled under section 59A.
 
 ### 40 Certain powers must not be delegated
-(1) The board must not delegate any of the following powers:
-  (a)
-  (b) the power to grant a power of attorney:
-  (c) the power to appoint an investment manager in section 62:
-  (d) the power to appoint a custodian in terms of section 63.
-(2) This clause does not limit sections 62 and 63 of this Act or clause 23 or clause 24 of this schedule or section 73(4) of the Crown Entities Act 2004.
+[Repealed]
 
 ### 41 Effect of delegation
 [Repealed]
