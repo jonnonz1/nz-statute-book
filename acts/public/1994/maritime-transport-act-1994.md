@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2015-06-08_
+_Consolidation as at 2015-10-31_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -2547,6 +2547,7 @@ Sections 222 and 224, Parts 19 to 27, and sections 469, 470, 471(2), 472, 473, 4
   - **controlled offshore installation** has the meaning given to it by section 257
   - **discharge** has the meaning given to it by section 225
   - **dumping** has the meaning given to it by section 257
+  - **emergency dumping permit** has the meaning given in section 257
   - **exclusive economic zone of New Zealand** has the meaning given to it by section 9 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977; and has the same meaning
   - **Fund Convention** has the meaning given to it by section 370
   - **harmful substance** has the meaning given to it by section 225
@@ -2556,13 +2557,15 @@ Sections 222 and 224, Parts 19 to 27, and sections 469, 470, 471(2), 472, 473, 4
   - **marine operations** means any operations or operation for, or connected with, the exploration for, or the exploitation or associated processing of, any mineral in the sea or the seabed
   - **marine protection convention** , in relation to this Part and Parts 19 to 27, means any international convention, protocol, or agreement relating to the protection of the marine environment from pollution that is declared for the purposes of any such Part by Order in Council pursuant to subsection (4); and includes every amendment to, or revision of, any such instrument, being an amendment or revision to which New Zealand is a party that is declared in the same manner
   - **marine protection document** means—
-    (a) any permit issued by the Director under section 262:
+    (a) any permit issued by the Director under section 262 or 262A:
     (b) any certificate of insurance issued, recognised, or accepted by the Director under section 363, 363A, or 385H:
     (c) any permit, certificate, licence, or other document issued or recognised by the Director under section 270 or any permit, certificate, licence, or other document issued by another person and accepted by the Director under section 271
   - **marine protection product** has the meaning given to it by section 225
   - **marine protection rules** means the marine protection rules made by the Minister or the Director under Part 27
   - **MARPOL** has the meaning given to it by section 225
   - **mineral** has the same meaning as in section 2(1) of the Crown Minerals Act 1991
+  - **mining activity** has the meaning given in section 225
+  - **mining discharge** has the meaning given in section 225
   - **National On-Scene Commander** has the meaning given to it by section 281
   - **New Zealand aircraft** has the same meaning as the term New Zealand registered aircraft is given by section 2 of the Civil Aviation Act 1990
   - **New Zealand continental waters** means—
@@ -2572,6 +2575,7 @@ Sections 222 and 224, Parts 19 to 27, and sections 469, 470, 471(2), 472, 473, 4
     (a) the territorial sea of New Zealand; and
     (b) the waters of the exclusive economic zone of New Zealand
   - **New Zealand Oil Pollution Fund** has the meaning given to it by section 281
+  - **New Zealand structure** has the meaning given in section 257
   - **noxious liquid substance** has the meaning given to it by section 225
   - **offshore installation** or includes any artificial structure (including a floating structure other than a ship) used or intended to be used in or on, or anchored or attached to, the seabed for the purpose of the exploration for, or the exploitation or associated processing of, any mineral; but does not include a pipeline
   - **offshore terminal** means any place in the sea where cargo is loaded or unloaded
@@ -2592,6 +2596,7 @@ Sections 222 and 224, Parts 19 to 27, and sections 469, 470, 471(2), 472, 473, 4
   - **seabed** includes the subsoil of the seabed
   - **shipboard marine oil spill contingency plan** has the meaning given to it by section 281
   - **site marine oil spill contingency plan** has the meaning given to it by section 281
+  - **structure** has the meaning given in section 257
   - **toxic or hazardous waste** has the meaning given to it by section 257
   - **transfer** , in relation to oil or any other harmful substance, means transfer to or from a cargo or fuel tank
   - **transfer facility** has the meaning given to it by section 225
@@ -2625,6 +2630,23 @@ Without limiting section 4(2), Parts 19 to 27 shall apply to every warship and e
 
 ## Part 19 — Protection of marine environment from harmful substances
 
+### 224A Regulation under this Part and Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 of discharges
+(1) This section describes how the discharge of harmful substances is regulated under this Part and the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, but it does not affect the interpretation or the application of this Part or that enactment.
+(2) This Part regulates—
+  (a) the discharge of harmful substances (other than a mining discharge) from a ship into the sea or seabed of the exclusive economic zone:
+  (b) the discharge of harmful substances (other than a mining discharge) into the sea above the continental shelf beyond the exclusive economic zone and the seabed below that sea from a New Zealand ship or from a foreign ship involved in a mining activity:
+  (c) the discharge of harmful substances from a New Zealand ship into the sea beyond the continental shelf or the seabed below that sea.
+(3) In relation to the discharge of harmful substances, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 regulates—
+  (a) discharges into the exclusive economic zone and into or onto the seabed below it from—
+    (i) structures:
+    (ii) submarine pipelines:
+    (iii) ships, if the discharge is a mining discharge:
+  (b) discharges into or onto the continental shelf beyond the exclusive economic zone or into the sea above that part of the continental shelf from—
+    (i) New Zealand structures:
+    (ii) structures (other than New Zealand structures) involved in a mining activity:
+    (iii) submarine pipelines:
+    (iv) ships, if the discharge is a mining discharge.
+
 ### 225 Interpretation
 In this Part, unless the context otherwise requires,—
   - **discharge** includes any release, disposal, spilling, leaking, pumping, emitting, or emptying; but does not include—and and have corresponding meanings
@@ -2637,43 +2659,61 @@ In this Part, unless the context otherwise requires,—
       (ii) any plant or equipment that monitors or is intended to monitor the discharge or escape of a harmful substance; and
     (b) any substance used or intended to be used for the dispersal or emulsification of a harmful substance in the sea;—
   - **MARPOL** means the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto; and includes any subsequent protocol or amendment to, or revision of, that convention accepted or ratified by New Zealand
+  - **mining activity** means an activity carried out for, or in connection with,—
+    (a) the identification of areas of the seabed likely to contain mineral deposits; or
+    (b) the identification of mineral deposits; or
+    (c) the taking or extraction of minerals from the sea or seabed, and associated processing of those minerals
+    - **mining discharge** , in relation to a harmful substance, means a discharge made as an integral part of, or as a direct result of, mining activity
   - **noxious liquid substance** means any substance specified as a noxious liquid substance for the purposes of this definition by the marine protection rules
-  - **pollution incident** means an event involving the probable discharge or escape into the sea or seabed of a harmful substance in contravention of this Act or the Resource Management Act 1991
+  - **pollution incident** means an event involving the probable discharge or escape into the sea or seabed of a harmful substance in contravention of this Act or the Resource Management Act 1991 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
   - **reception facility** means a facility for the reception of harmful substances from ships
   - **transfer facility** means any facility, structure, or building for transferring liquids to or from a ship or an offshore installation; and includes any storage tanks or pipelines connected to the facility.
 
 **Obligations to protect marine environment from harmful substances**
 
 ### 226 Harmful substances not to be discharged into sea or seabed of exclusive economic zone or continental shelf
-Harmful substances shall not be discharged or escape, otherwise than in accordance with the marine protection rules,—
-  (a) from any ship, offshore installation, or pipeline—
-    (i) into the sea within the exclusive economic zone of New Zealand; or
-    (ii) onto or into the seabed below that sea; or
-  (b) from any ship or offshore installation involved with the exploration or exploitation of the sea or the seabed, or any pipeline,—
-    (i) into the sea beyond the outer limits of the exclusive economic zone of New Zealand but over the continental shelf of New Zealand; or
-    (ii) onto or into the seabed below that sea; or
-  (c) from any New Zealand ship—
-    (i) into the sea beyond the outer limits of the exclusive economic zone of New Zealand; or
-    (ii) onto or into the seabed below that sea; or
-  (d) as a result of any marine operations,—
-    (i) into the sea within the exclusive economic zone of New Zealand or beyond the outer limits of that exclusive economic zone but over the continental shelf of New Zealand; or
-    (ii) onto or into the seabed below that sea.
+(1) This section applies to the discharge of harmful substances (other than a mining discharge).
+(2) Harmful substances must not be discharged from a ship—
+  (a) into the sea within the exclusive economic zone; or
+  (b) into or onto the seabed below that sea.
+(3) Harmful substances must not be discharged from a New Zealand ship or from a foreign ship that is involved in mining activity—
+  (a) into the sea beyond the outer limits of the exclusive economic zone but over the continental shelf; or
+  (b) into or onto the seabed below that sea.
+(4) However, a harmful substance may be discharged if the substance is discharged in accordance with the marine protection rules.
+
+### 226A Harmful substances not to be discharged into sea or seabed beyond New Zealand continental waters from New Zealand ships
+(1) Harmful substances must not be discharged from a New Zealand ship—
+  (a) into the sea beyond New Zealand continental waters; or
+  (b) onto or into the seabed below that sea.
+(2) However, a harmful substance may be discharged if the substance is discharged in accordance with the marine protection rules.
 
 ### 227 Duty to report discharge or escape of harmful substances
-(1) Notice of any discharge or escape of a harmful substance into the sea, or onto or into the seabed, in breach of section 226 of this Act or of section 15B of the Resource Management Act 1991 shall, forthwith after such discharge or escape, be given in accordance with the requirements of the marine protection rules (and whether or not any defence may be available under this Act or the Resource Management Act 1991) to the Director or, where a discharge or escape has occurred within the internal waters or the territorial sea of New Zealand, the Director or the regional council within whose region the discharge or escape has occurred.
-(2) Each of the following persons shall be under a duty to give notice of a discharge or escape of a harmful substance in accordance with subsection (1), namely,—
+(1) This section applies to the discharge or escape of a harmful substance into the sea, or onto or into the seabed, in breach of—
+  (a) section 226 or 226A; or
+  (b) section 15B of the Resource Management Act 1991; or
+  (c) section 20B or 20C of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(2) Notice of the discharge or escape must be given,—
+  (a) if the discharge or escape occurred beyond New Zealand continental waters, to the Director; or
+  (b) if the discharge or escape occurred within the internal waters or the territorial sea, to the Director and the regional council within whose region the discharge or escape occurred; or
+  (c) if the discharge or escape occurred in the exclusive economic zone or in relation to the continental shelf, to the Director and the Environmental Protection Authority.
+(3) Each of the following persons is under a duty to give notice of the discharge or escape of a harmful substance:
   (a) if the discharge or escape was from a ship, the owner and the master of the ship:
-  (b) if the discharge or escape was from an offshore installation, the owner of the offshore installation:
+  (b) if the discharge or escape was from an offshore installation, the owner of the installation:
   (c) if the discharge or escape was from a pipeline, the owner of the pipeline:
-  (d) if the discharge or escape was a result of any marine operations, the person in charge of and the person carrying on such operations.
-(3) The giving of notice of a discharge or escape in accordance with subsection (2) by one person shall be sufficient to relieve every other person from a duty to give such notice in respect of that discharge or escape.
-(4) Where any discharge or escape of a harmful substance in breach of section 226(c) occurs, the master of the ship shall, as soon as is practicable, report the discharge or escape to the appropriate authority of the nearest State.
+  (d) if the discharge or escape was a result of a marine operation, the person in charge of and the person carrying on the operation.
+(4) If one person gives notice of the discharge or escape of a harmful substance in accordance with subsection (3), no other person is required to give notice of the discharge or escape.
+(5) If the discharge or escape of a harmful substance breaches section 226A, the master of the ship must, as soon as practicable, report the discharge or escape to the appropriate authority of the nearest State.
+(6) This section applies whether or not a defence may be available under this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
 
 ### 228 Notice of pollution incidents
-(1) The Director or, where a pollution incident occurs within the internal waters or the territorial sea of New Zealand, the Director or the regional council within whose region the incident occurs, shall be given notice in accordance with the requirements of the marine protection rules, of any pollution incident involving—
+(1) This section applies to a pollution incident involving—
   (a) a ship in the internal waters of New Zealand or New Zealand marine waters; or
   (b) a ship involved with marine operations or an offshore installation or pipeline within New Zealand continental waters; or
   (c) any marine operations within New Zealand continental waters.
+(1A) Notice of the pollution incident must be given—
+  (a) to the Director; or
+  (b) if the incident occurs in the internal waters or the territorial sea, to the Director and the regional council in whose region the incident occurs; or
+  (c) if the incident occurs in the exclusive economic zone or in relation to the continental shelf, to the Director and the Environmental Protection Authority.
 (2) Each of the following persons shall be under a duty to give notice of the occurrence of a pollution incident in accordance with subsection (1):
   (a) if a ship is involved, the master of the ship:
   (b) if an offshore installation is involved, the owner of the offshore installation:
@@ -2690,19 +2730,26 @@ No oil or noxious liquid substance—unless notice has been given by the master 
   (a) carried in bulk by a ship shall be transferred from that ship in the internal waters, territorial sea, or exclusive economic zone of New Zealand; or
   (b) shall be transferred to a ship in the internal waters, territorial sea, or exclusive economic zone of New Zealand to be carried in bulk by that ship,—
 
-### 231 Obligations of Director and regional councils to share information concerning notices
-Where any notice is given under any of sections 227, 228, 229, 230, and 299—
-  (a) to a regional council, the regional council shall forthwith inform the Director of the matters about which it has been notified; or
-  (b) to the Director, the Director shall, where the matters about which he or she has been notified have occurred or may occur within the region of a regional council, forthwith inform the relevant regional council of the matters about which he or she has been notified.
+### 231 Obligations of Director, Environmental Protection Authority, and regional councils to share information concerning notices
+(1) This section applies if a notice is given under any of sections 227, 228, 229, 230, and 299 to a regional council, the Environmental Protection Authority, or the Director.
+(2) The regional council must, without delay, inform the Director of the matters about which it has been notified.
+(3) The Environmental Protection Authority must, without delay, inform the Director of the matters about which it has been notified.
+(4) The Director must, without delay, inform—
+  (a) a regional council of the matters about which the Director has been notified if the matters have occurred or may occur in the region of the council; or
+  (b) the Environmental Protection Authority of the matters about which the Director has been notified if the matters have occurred or may occur in New Zealand continental waters.
 
 **Powers of Director in relation to protection of marine environment from harmful substances**
 
 ### 232 Director may require provision of financial security
-(1) If the Director has reasonable cause to believe that a harmful substance has been discharged or has escaped from a ship in breach of this Act or the Resource Management Act 1991, the Director may require the owner of that ship to provide a contract of insurance or other financial security of a kind and for an amount that is sufficient security for the payment of any amounts that may be payable by the owner, or the master of the ship, under this Act or the Resource Management Act 1991, in respect of that discharge or escape.
-(2) The Director shall not exercise his or her powers under subsection (1) in relation to a ship in respect of which an insurance certificate under section 363 or the marine protection rules has been issued, recognised, or accepted.
+(1) This section applies if the Director has reasonable cause to believe that a harmful substance has been discharged or has escaped from a ship in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(1A) The Director may require the owner of the ship to provide a contract of insurance or other financial security of a kind and for an amount that is sufficient security for the payment of any amounts that may be payable by the owner, or the master of the ship, under this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge or escape.
+(2) The Director shall not exercise his or her powers under subsection (1A) in relation to a ship in respect of which an insurance certificate under section 363 or the marine protection rules has been issued, recognised, or accepted.
 
 ### 233 Rectification of hazardous conditions
-(1) The Director may require the owner of any ship, offshore installation, or pipeline to take all necessary steps to rectify any conditions on the ship, offshore installation, or pipeline that the Director believes on reasonable grounds have been or are likely to be responsible for a discharge or escape of a harmful substance into the sea or onto or into the seabed in breach of this Act or the Resource Management Act 1991 or pose an unreasonable threat of harm to the marine environment.
+(1) This section applies if the Director believes on reasonable grounds that the conditions on a ship, offshore installation, or pipeline—
+  (a) have been or are likely to be responsible for a discharge or escape of a harmful substance into the sea or onto or into the seabed in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+  (b) pose an unreasonable threat of harm to the marine environment.
+(1A) The Director may require the owner of the ship, offshore installation, or pipeline to take all necessary steps to rectify the conditions.
 (2) Any owner of any ship, offshore installation, or pipeline whom the Director requires to do anything under this section may appeal against that requirement to a District Court under section 424.
 
 ### 233A Power to prohibit transfer of oil or noxious liquid substance
@@ -2714,7 +2761,7 @@ Where any notice is given under any of sections 227, 228, 229, 230, and 299—
 (2) An owner of a ship whom the Director requires to do anything under this section may appeal against that requirement to a District Court under section 424.
 
 ### 235 Powers of investigation of Director
-(1) The Director may investigate any discharge or escape of a harmful substance in breach of this Act or the Resource Management Act 1991, or any pollution incident.
+(1) The Director may investigate any discharge or escape of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, or any pollution incident.
 (2) For the purposes of carrying out an investigation under this section, the Director (or a person authorised for the purpose by the Director) may—
   (a) make inquiries from any person who he or she has reason to believe is in possession of information that may lead to discovery of the cause of the discharge or escape or pollution incident:
   (b) issue in writing a summons requiring any person to attend at the time and place specified in the summons and to give evidence, and to produce any documents or things in that person’s possession or under that person’s control that are relevant to the subject of the investigation:
@@ -2740,13 +2787,9 @@ The Director may from time to time, by notice in writing, require any person who
 
 **Offences in respect of discharge or escape of harmful substances into sea or seabed**
 
-### 237 Discharge or escape of harmful substances into sea or seabed
-If any harmful substance is discharged or escapes into the sea or onto or into the seabed in breach of section 226, the following persons commit an offence:
-  (a) if the discharge or escape is from a ship, the master and owner of the ship:
-  (b) if the discharge or escape is from an offshore installation, the owner of the offshore installation:
-  (c) if the discharge or escape is from a pipeline, the owner of the pipeline:
-  (d) if the discharge or escape is as a result of any marine operations, the person in charge of and the person carrying on such marine operations:
-  (e) if the discharge or escape is of a kind referred to in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (d), and results from intentional damage caused by a person not referred to in that paragraph, the person who committed the damage.
+### 237 Discharge or escape of harmful substances from ship into sea or seabed
+(1) If a harmful substance is discharged or escapes from a ship into the sea or onto or into the seabed in breach of section 226 or 226A, the master and the owner of the ship each commit an offence.
+(2) If the discharge or escape results from intentional damage caused by a person other than the master or the owner of the ship, the person who caused the damage commits an offence.
 
 ### 238 Failure to report discharge of harmful substance into sea or seabed
 If, without reasonable excuse, notice of discharge or escape of a harmful substance is not given in accordance with section 227, the following persons commit an offence:
@@ -2783,11 +2826,11 @@ If, without reasonable excuse, any oil or noxious liquid substance is transferre
 **Defences**
 
 ### 243 Defences to offence against section 237
-It shall be a defence to proceedings for an offence against section 237 if the defendant proves that—
-  (a) the harmful substance was discharged for the purpose of securing the safety of a ship or offshore installation or for the purpose of saving life, and the discharge was a reasonable step to take to effect that purpose; or
-  (b) the harmful substance escaped as a consequence of damage to a ship or its equipment, to an offshore installation or its equipment, to a pipeline, or to any apparatus (other than a ship) used in connection with any marine operations; and—
-    (i) such damage occurred without the negligence or deliberate act of the defendant; and
-    (ii) as soon as practicable after that damage occurred, all reasonable steps were taken to prevent the escape of the harmful substance or, if any such escape could not be prevented, to minimise the escape.
+It is a defence to proceedings for an offence against section 237 if the defendant proves that—
+  (a) the harmful substance was discharged for the purpose of securing the safety of a ship or for the purpose of saving life, and the discharge was a reasonable step to take to effect that purpose; or
+  (b) the harmful substance escaped as a consequence of damage to the ship or its equipment and—
+    (i) the damage occurred without the negligence or deliberate act of the defendant; and
+    (ii) as soon as practicable after the damage occurred, all reasonable steps were taken to prevent the escape of the harmful substance or, if an escape could not be prevented, to minimise the escape.
 
 **Penalties**
 
@@ -2879,9 +2922,10 @@ In this Part, unless the context otherwise requires,—
 (4) The Director shall use reasonable endeavours to notify the owner of a structure, or the owner or person in charge of marine operations, of any measures the Director proposes to take under this section with respect to the structure or marine operations, but the Director shall not be obliged to give such notification where in his or her opinion the urgency of the situation is such that the measures must be taken immediately.
 
 ### 250 Exercise of power by Director
-The Director must not issue any instructions, or take any measures, under section 248 or 249 unless the Director considers the issue of such instructions, or the taking of such measures, necessary to avoid, reduce, or remedy pollution, or a significant risk of pollution, by—
+(1) The Director must not issue any instructions, or take any measures, under section 248 or 249 unless the Director considers the issue of such instructions, or the taking of such measures, necessary to avoid, reduce, or remedy pollution, or a significant risk of pollution, by—
   (a) a hazardous substance other than oil; or
   (b) oil or any other harmful substance that is causing, will cause, or will be likely to cause serious harmful consequences to the marine environment or marine interests.
+(2) The Director must notify the Environmental Protection Authority as soon as practicable after the Director decides to issue instructions or take measures if the instructions or measures (which the Director intends to issue or take) affect the exclusive economic zone or New Zealand continental waters.
 
 ### 251 Right to compensation
 (1) Any person who has incurred expense, or suffered loss or damage, as a result of any action duly taken under instructions issued by the Director under section 248 or section 249, or as a result of any measure taken by the Director under either of those sections, may recover compensation from the Crown if the action or measure—
@@ -2933,7 +2977,7 @@ Every person shall comply with the instructions given by the Director under sect
 (2) Section 121 of the Crown Entities Act 2004 does not limit this section.
 (3) Nothing in subsection (1) affects the liability of any person under section 344, 345, or 346.
 
-## Part 21 — Protection of marine environment from dumping, incineration, and storing of wastes
+## Part 21 — Protection of marine environment beyond New Zealand continental waters from dumping, incineration, and storing of wastes
 
 ### 257 Interpretation
 In this Part, unless the context otherwise requires,—
@@ -2952,6 +2996,7 @@ In this Part, unless the context otherwise requires,—
       (ii) placement of matter for a purpose other than the mere disposal of them, provided that such placement is not contrary to the aims of the 1996 Protocol to the London Convention; or
       (iii) abandonment in the sea of matter (for example cables, pipelines, and marine research devices) placed for a purpose other than the mere disposal of them; and
     (c) does not include the disposal or storage of wastes or other matter directly arising from, or related to, the exploration, exploitation, and associated offshore processing of seabed mineral resources
+  - **emergency dumping permit** means a permit granted under section 262A
   - **incinerated at sea** —
     (a) means the deliberate disposal of waste or other matter by thermal destruction on board a ship, platform, or other artificial structure at sea; but
     (b) does not include the incineration on board a ship, platform, or other artificial structure at sea of waste or other matter generated during the normal operation of that ship, platform, or other structure at sea
@@ -2961,83 +3006,122 @@ In this Part, unless the context otherwise requires,—
     (a) a New Zealand citizen; or
     (b) a person who is ordinarily resident in New Zealand; or
     (c) a company registered under the Companies Act 1993
+  - **New Zealand structure** means a structure that is owned by—
+    (a) a New Zealand citizen; or
+    (b) a person who is ordinarily resident in New Zealand; or
+    (c) a company registered under the Companies Act 1993
   - **radioactive waste or other radioactive matter** means any waste or other matter containing any radioactive material within the meaning of the Radiation Protection Act 1965
+  - **structure** includes an offshore installation, artificial island, or floating platform, but does not include a submarine pipeline
   - **toxic or hazardous waste** means any waste or other matter specified as toxic or hazardous waste for the purposes of this definition by the marine protection rules
   - **waste or other matter** means material and substances of any kind, form, or description.
+
+### 257A Regulation under this Part and Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 of dumping
+(1) This section describes how the dumping of waste or other matter is regulated under this Part and the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, but it does not affect the interpretation or the application of this Part or that enactment.
+(2) This Part regulates the dumping of waste or other matter into the waters beyond the continental shelf.
+(3) In relation to the exclusive economic zone and the continental shelf, the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012—
+  (a) prohibits—
+    (i) the dumping of radioactive waste or other radioactive matter:
+    (ii) the dumping of toxic or hazardous waste:
+    (iii) the incineration of waste or other matter at sea; and
+  (b) regulates—
+    (i) the disposal of human remains other than ashes:
+    (ii) the dumping of waste or other matter (other than waste or other matter described in paragraph (a)).
 
 **Obligations in respect of dumping, storing, and incineration of wastes**
 
 ### 258 Dumping of radioactive waste or other radioactive matter
-Radioactive waste or other radioactive matter shall not be—
+(1) Radioactive waste or other radioactive matter shall not be—
   (a) taken on board any ship or aircraft in New Zealand or in the internal waters of New Zealand or in New Zealand marine waters for the purpose of dumping that radioactive waste or other radioactive matter; or
   (b) taken on board any ship or aircraft at any controlled offshore installation for the purpose of dumping that radioactive waste or other radioactive matter; or
-  (c) dumped from any ship or aircraft into the sea or onto or into the seabed within the exclusive economic zone of New Zealand or onto or into the continental shelf of New Zealand beyond the outer limits of that exclusive economic zone or the sea above that continental shelf; or
-  (d) dumped from a controlled offshore installation; or
+  (c) dumped from any ship or aircraft into the sea above the continental shelf beyond the outer limits of the exclusive economic zone; or
+  (d)
   (e) dumped from any New Zealand ship or any New Zealand aircraft into the sea or onto or into the seabed beyond New Zealand continental waters.
+(2) No person may incinerate radioactive waste or other radioactive matter at sea—
+  (a) in the internal waters of New Zealand; or
+  (b) beyond New Zealand continental waters on a New Zealand ship, a New Zealand structure, or a New Zealand aircraft.
+(3) No person may export radioactive waste or other radioactive matter to another country for dumping at sea or incineration at sea.
 
 ### 259 Storing of radioactive waste or other radioactive matter
-Radioactive waste or other radioactive matter shall not be stored in the sea or in or on the seabed within the exclusive economic zone of New Zealand or in the continental shelf of New Zealand beyond the outer limits of that exclusive economic zone or the sea above that continental shelf.
+[Repealed]
 
 ### 260 Storing of toxic or hazardous waste
-Toxic or hazardous waste shall not be stored in the sea or in or on the seabed within the exclusive economic zone of New Zealand or in the continental shelf of New Zealand beyond the outer limits of that exclusive economic zone or in the sea above that continental shelf.
+[Repealed]
 
 ### 261 Dumping and incineration of waste or other matter
-(1) Unless authorised by and done in accordance with a permit issued by the Director under section 262, waste or other matter may not be dumped from a ship, aircraft, or controlled offshore installation—
-  (a) into the sea, or onto or into the seabed, within the exclusive economic zone of New Zealand; or
-  (b) onto or into the continental shelf of New Zealand beyond the outer limits of that exclusive economic zone, or into the sea above that part of the continental shelf.
-(2) Waste or other matter may not be taken on board a ship or aircraft in New Zealand, or within the internal waters of New Zealand or New Zealand continental waters, for the purpose of dumping that waste or other matter into the sea within any of those waters unless that dumping is authorised by a permit issued by the Director under section 262 or a resource consent under the Resource Management Act 1991.
-(3) Unless authorised by and done in accordance with a permit issued by the Director under section 262 or a permit issued under the corresponding law of a Convention State, waste or other matter may not be dumped from a New Zealand ship or New Zealand aircraft into the sea, or onto or into the seabed, beyond New Zealand continental waters.
-(4) No ship or aircraft shall be dumped into the sea or onto or into the seabed within the exclusive economic zone of New Zealand otherwise than in accordance with a permit issued by the Director under section 262.
-(5) No offshore installation shall be dumped into the sea or onto or into the seabed within the exclusive economic zone of New Zealand, or onto or into the continental shelf of New Zealand beyond the outer limits of that exclusive economic zone or the sea above that continental shelf, otherwise than in accordance with a permit issued by the Director under section 262.
-(6) No New Zealand ship or New Zealand aircraft shall be dumped into the sea or onto or into the seabed beyond the exclusive economic zone of New Zealand otherwise than in accordance with a permit issued under section 262 or a permit issued under the corresponding law of a Convention State.
-(6A) Waste or other matter may not be—
-  (a) incinerated at sea in the internal waters of New Zealand or New Zealand continental waters, or on a New Zealand ship or New Zealand aircraft beyond New Zealand continental waters; or
-  (b) exported to another country for dumping at sea or incineration at sea.
-(7) Nothing in this section limits section 258.
-(8) Nothing in this section shall be read as—
-  (a) obliging the Director to obtain a permit under section 262 before exercising any power conferred by section 248 or section 249; or
-  (b) making the exercise of any such power subject to section 262.
+(1) No person may dump waste or other matter from a New Zealand ship or a New Zealand aircraft or a New Zealand structure into the sea, or into or onto the seabed, beyond New Zealand continental waters, unless the dumping is authorised by—
+  (a) a permit issued under section 262; or
+  (b) a permit issued by a Convention State; or
+  (c) an emergency dumping permit issued under section 262A.
+(2) No person may dump a New Zealand ship or a New Zealand aircraft or a New Zealand structure into the sea or onto or into the seabed beyond New Zealand continental waters, unless the dumping is authorised by—
+  (a) a permit issued under section 262; or
+  (b) a permit issued by a Convention State; or
+  (c) an emergency dumping permit issued under section 262A.
+(3) No person may incinerate waste or other matter at sea—
+  (a) in the internal waters of New Zealand; or
+  (b) beyond New Zealand continental waters on a New Zealand ship, a New Zealand structure, or a New Zealand aircraft.
+(4) No person may export waste or other matter to another country for dumping at sea or incineration at sea.
+(5) No person may take waste or other matter on board a ship or an aircraft in New Zealand, or within the internal waters of New Zealand or New Zealand continental waters, for the purpose of dumping that waste or other matter within any of those waters unless the dumping is authorised by—
+  (a) a resource consent granted under the Resource Management Act 1991; or
+  (b) a marine consent granted under section 87F of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+  (c) a permit granted under section 262.
+(6) This section does not—
+  (a) require the Director to obtain a permit under section 262 or 262A before he or she exercises a power conferred by section 248 or 249; or
+  (b) apply to the exercise of any of those powers by the Director.
 
-### 262 Power of Director to issue permits for dumping of waste or other matter
-The Director may, in accordance with section 270 and the marine protection rules, issue permits authorising the dumping of any waste or other matter, ship, aircraft, or offshore installation.
+### 262 Permits for dumping waste or other matter
+The Director may, in accordance with section 270 and the marine protection rules, issue permits authorising the dumping of any waste or other matter (including ships, aircraft, or offshore installations) from a New Zealand ship, or a New Zealand aircraft, beyond New Zealand continental waters.
+
+### 262A Emergency dumping permit
+(1) This section and section 262B apply if a situation arises which poses an unacceptable risk to human health, human safety, or the marine environment (an emergency).
+(2) Any person may apply to the Director, in an emergency, for an emergency dumping permit to dump waste or other matter into the sea beyond New Zealand continental waters (which would otherwise contravene section 261).
+(3) The Director may issue the permit in accordance with section 270 and the marine protection rules, if he or she is satisfied that—
+  (a) an emergency exists; and
+  (b) the dumping of the waste or other matter is necessary to remove or reduce the risk; and
+  (c) there is no practical alternative to the dumping of the waste or other matter.
+(4) Before the Director issues a permit under subsection (3), the Director must—
+  (a) consult with the appropriate competent authority of any country that is likely to be affected by the dumping of the waste or other matter; and
+  (b) notify the International Maritime Organization that he or she has received an application for an emergency dumping permit.
+
+### 262B Conditions of emergency dumping permit
+(1) An emergency dumping permit may be granted subject to conditions.
+(2) The Director must include as a condition on an emergency dumping permit a requirement that the person granted the permit complies with any procedures for dumping recommended by the International Maritime Organization and specified on the permit.
+(3) Subsection (2) applies only to the extent that the Director considers the conditions practicable after taking into account the urgency of the situation.
+(4) The Director may include any conditions that he or she considers appropriate to deal with the effects of the dumping of waste or other matter on the environment or on human health or safety, including conditions that require the person issued with the permit to—
+  (a) monitor, and report to the Director on, the exercise of the permit and the effects of the dumping on the environment and human health and safety:
+  (b) keep and maintain records of the waste or other matter dumped and the location of the dumping:
+  (c) provide the Director with any specified information that relates to the permit or its exercise.
 
 **Offences**
 
-### 263 Offences in respect of radioactive waste, other radioactive matter, toxic waste, and hazardous waste
+### 263 Offences in respect of radioactive waste and other radioactive matter
 (1) The master and the owner of a ship each commits an offence if radioactive waste or other radioactive matter is—
-  (a) taken on board the ship in breach of paragraph (a) or paragraph (b) of section 258; or
-  (b) dumped from the ship in breach of section 258(c); or
-  (c) dumped from the ship (being a New Zealand ship) in breach of section 258(e).
+  (a) taken on board the ship in breach of paragraph (a) or paragraph (b) of section 258(1); or
+  (b) dumped from the ship in breach of section 258(1)﻿(c); or
+  (c) dumped from the ship (being a New Zealand ship) in breach of section 258(1)﻿(e).
 (2) The person in possession of, and the owner of, an aircraft each commits an offence if radioactive waste or other radioactive matter is—
-  (a) taken on board the aircraft in breach of paragraph (a) or paragraph (b) of section 258; or
-  (b) dumped from the aircraft in breach of section 258(c); or
-  (c) dumped from the aircraft (being a New Zealand aircraft) in breach of section 258(e).
-(3) The owner of a controlled offshore installation commits an offence if radioactive waste or other radioactive matter is—
-  (a) taken on board any ship or aircraft at the offshore installation in breach of section 258(b); or
-  (b) dumped from the offshore installation in breach of section 258(d).
-(4) Every person commits an offence who stores radioactive waste or other radioactive matter in breach of section 259.
-(5) Every person commits an offence who stores toxic or hazardous waste in breach of section 260.
+  (a) taken on board the aircraft in breach of paragraph (a) or paragraph (b) of section 258(1); or
+  (b) dumped from the aircraft in breach of section 258(1)﻿(c); or
+  (c) dumped from the aircraft (being a New Zealand aircraft) in breach of section 258(1)﻿(e).
+(3) The owner of a controlled offshore installation commits an offence if radioactive waste or other radioactive matter is taken on board any ship or aircraft at the offshore installation in breach of section 258(1)﻿(b).
+(4)
+(5)
 
 ### 264 Offences in respect of dumping and incineration of waste and other matter
 (1) The master and the owner of a ship each commits an offence if waste or other matter is—
-  (a) taken on board the ship in breach of section 261(2); or
-  (b) dumped from the ship in breach of section 261(1); or
-  (c) dumped from the ship (being a New Zealand ship) in breach of section 261(3).
-(2) The master and the owner of a ship each commits an offence if—
-  (a) the ship is dumped in breach of section 261(4); or
-  (b) the ship (being a New Zealand ship) is dumped in breach of section 261(6).
+  (a) taken on board the ship in breach of section 261(5); or
+  (b)
+  (c) dumped from the ship (being a New Zealand ship) in breach of section 261(1).
+(2) The master and owner of a ship each commits an offence if the ship (being a New Zealand ship) is dumped in breach of section 261(2).
 (3) A person in possession, and the owner, of an aircraft each commits an offence if waste or other matter is—
-  (a) taken on board the aircraft in breach of section 261(2); or
-  (b) dumped from the aircraft in breach of section 261(1); or
-  (c) dumped from the aircraft (being a New Zealand aircraft) in breach of section 261(3).
-(4) A person in possession, and the owner, of an aircraft each commits an offence if—
-  (a) the aircraft is dumped in breach of section 261(4); or
-  (b) the aircraft (being a New Zealand aircraft) is dumped in breach of section 261(6).
-(5) An owner of a controlled offshore installation commits an offence if—
-  (a) waste or other matter is dumped from the offshore installation in breach of section 261(1); or
-  (b) the controlled offshore installation is dumped in breach of section 261(5).
-(6) The owner and master of a ship, and the owner of a platform or other artificial structure, each commits an offence if waste or other matter is incinerated on it in breach of section 261(6A)﻿(a).
-(7) A person commits an offence if the person exports waste or other matter in breach of section 261(6A)﻿(b).
+  (a) taken on board the aircraft in breach of section 261(5); or
+  (b)
+  (c) dumped from the aircraft (being a New Zealand aircraft) in breach of section 261(1).
+(4) A person in possession, and the owner, of an aircraft each commits an offence if the aircraft (being a New Zealand aircraft) is dumped in breach of section 261(2).
+(5)
+(6) The owner and master of a ship, and the owner of a platform or other artificial structure, each commits an offence if waste or other matter is incinerated on it in breach of section 261(3).
+(7) A person commits an offence if the person exports waste or other matter in breach of section 261(4).
+(8) The master and the owner of a ship who are authorised to dump waste or other matter from the ship by an emergency dumping permit each commits an offence if a condition of the permit is breached.
+(9) The person in possession of an aircraft and the owner of the aircraft who are authorised to dump waste or other matter from the aircraft by an emergency dumping permit each commits an offence if a condition of the permit is breached.
 
 ### 265 Special defences
 In any prosecution for an offence against section 264, it is a defence if the defendant proves that the act or omission which is alleged to constitute the offence—
@@ -3127,6 +3211,8 @@ Subject to section 267, every person who commits an offence against section 263 
     (ii) any regulations or marine protection rules made under this Act; or
     (iii) section 15A or section 15B or section 15C of the Resource Management Act 1991; or
     (iv) any regulations made under any of paragraphs (ha) to (he) of section 360(1) of the Resource Management Act 1991; or
+    (v) section 20B or 20C of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+    (vi) any regulations made under section 29A or 29B of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
   (f) considers that the privileges or duties for which the marine protection document has been granted, or the relevant document has been recognised as a marine protection document, are being or have been carried out by the holder in a careless or incompetent manner.
 (2) The suspension of any marine protection document, or the suspension of recognition of any document as a marine protection document, or the imposition of conditions in respect of any such document, by the Director, shall remain in force until the Director has determined, after due investigation, the action to be taken in respect of the causes requiring the suspension or imposition of conditions, but the duration of any such suspension or conditions shall not exceed 14 days unless the Director directs that a further specified period is necessary for the purposes of the investigation.
 (3) If, after investigation, the Director considers such action to be warranted, he or she may suspend for a further period the marine protection document, or the recognition of a document as a marine protection document, or impose further conditions, and he or she shall cause the appropriate endorsement to be made on the marine protection document (if the document is issued under this Act or the marine protection rules) or on the notification of recognition, as the case may require.
@@ -3166,11 +3252,11 @@ Subject to section 267, every person who commits an offence against section 263 
 ### 276 Criteria for action under section 272 or section 273
 (1) The provisions of this section shall apply for the purpose of determining whether a marine protection document, or recognition of a document as a marine protection document, should be suspended or made subject to conditions under section 272 or revoked under section 273.
 (2) Where this section applies, the Director may have regard to, and give such weight as the Director considers appropriate to, the following matters:
-  (a) the person’s compliance history with any regulatory requirements relating to protection of the sea from harmful substances and the person’s compliance history with the Resource Management Act 1991 in respect of the discharge of harmful substances:
+  (a) the person’s compliance history with any regulatory requirements relating to protection of the sea from harmful substances and the person’s compliance history with the Resource Management Act 1991 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge of harmful substances:
   (b) any conviction for any offence related to the discharge of harmful substances into the sea, whether or not—
     (i) the conviction was in a New Zealand court; or
     (ii) the offence was committed before the commencement of this Act:
-  (c) any conviction for any offence under the Resource Management Act 1991 in respect of the discharge of harmful substances.
+  (c) any conviction for any offence under the Resource Management Act 1991 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge of harmful substances.
 (3) The Director shall not be confined to consideration of the matters specified in subsection (2) and may take into account such other matters and evidence as may be relevant.
 (4) The Director may—
   (a) seek and receive such information as the Director thinks fit; or
@@ -4064,7 +4150,7 @@ The owner and person in charge of a regulated offshore installation each commits
   (a) New Zealand ships:
   (b) foreign ships:
   (c) offshore installations:
-  (d) pipelines:
+  (d)
   (e) marine incineration facilities:
   (f) oil transfer sites:
   (g) cargo loading and unloading terminals:
@@ -4092,7 +4178,7 @@ The Minister may from time to time make marine protection rules for all or any o
   (f) prescribing areas of ships where harmful substances, or any specified harmful substance, or ballast water, may not be held:
   (g) prescribing the maximum quantities of harmful substances, or any specified harmful substance, that may be held on ships or any class of ship:
   (h) prescribing standards and requirements in respect of marine protection products and reception facilities:
-  (i) regulating or prohibiting, in relation to ships and offshore installations, all or any of the following:
+  (i) regulating or prohibiting, in relation to ships, all or any of the following:
     (i) the discharge of harmful substances or any specified harmful substance, whether generally or in any specified area:
     (ii) the removal or retention on board of harmful substances:
     (iii) the stowage, packaging, containment, marking, labelling, documentation, and notification of harmful substances carried in packaged form:
@@ -4104,18 +4190,22 @@ The Minister may from time to time make marine protection rules for all or any o
     (iv) surveys and inspections:
     (v) records to be kept in respect of activities involving harmful substances or any specified harmful substance:
   (k) prescribing shipping exclusion zones and navigation and shipping lanes within the territorial sea of New Zealand:
-  (l) prescribing the requirements and procedures for the discharge or escape of water produced from geologic formations by marine operations in New Zealand continental waters:
+  (l) prescribing the requirements and procedures for the discharge or escape of water produced from geologic formations by marine operations in the high seas:
   (m) prescribing the requirements and procedures for the transfer of oil or noxious liquid substances to or from transfer facilities or ships.
 
 ### 389 Marine protection rules in relation to waste or other matter
 (1) The Minister may from time to time make marine protection rules for all or any of the following purposes:
   (a) to specify the types of waste or other matter that are toxic or hazardous wastes for the purposes of section 257:
-  (b) to specify the types of waste or other matter for which permits, or any class of permit, may not be granted under section 262:
-  (c) to specify the types of waste or other matter for which permits, or any class of permit, may be granted under section 262:
-  (d) to specify the application procedure for permits, or any class of permit, under section 262, including the persons (if any) who are to receive notice of the application:
-  (e) to specify the procedure for the persons (if any) who are to receive notice of an application for a permit under section 262 to make submissions:
+  (b) to specify the types of waste or other matter for which permits, or any class of permit, may not be granted under section 262 or 262A:
+  (c) to specify the types of waste or other matter for which permits, or any class of permit, may be granted under section 262 or 262A:
+  (d) to specify the application procedure for permits, or any class of permit, under section 262 or 262A, including the persons (if any) who are to receive notice of the application:
+  (e) to specify the procedure for the persons (if any) who are to receive notice of an application for a permit under section 262 or 262A to make submissions:
   (f) to specify the requirements to be satisfied for a permit, or any class of permit, under section 262 to be issued:
-  (g) to specify the terms and conditions, and maximum period of validity, of permits or any class of permit granted under section 262:
+  (g) to specify the terms and conditions of permits or any class of permit granted under section 262:
+  (ga) to specify the maximum duration of permits or any class of permit granted under section 262 or 262A:
+  (gb) to authorise the Director to specify the duration of a permit granted under section 262 or 262A by reference to—
+    (i) a period of time that must be no longer than the maximum duration specified for the permit under paragraph (ga) (if one is specified); or
+    (ii) the duration of the dumping operation authorised by the permit:
   (h) to specify the persons (if any) with whom the Director must consult before granting a permit or any class of permit under section 262:
   (i) to provide for the issue or renewal of permits or any class of permit granted under section 262:
   (j) to provide for the operational requirements in respect of, and for the survey, testing, and monitoring of, marine incineration facilities.
@@ -4223,9 +4313,9 @@ The provisions of sections 446 to 452 apply in relation to marine protection rul
   (d) impose conditions on the release from detention of the ship or the release from seizure of a marine protection product:
   (e) prohibit a ship from entering a port or calling at an offshore terminal.
 (2) The powers under subsection (1) may be exercised where the Director believes on clear grounds that—
-  (a) there is an existing discharge from the ship of a harmful substance in breach of this Act or of the Resource Management Act 1991; or
-  (b) there is likely to be a discharge from the ship of a harmful substance in breach of this Act or of the Resource Management Act 1991; or
-  (c) ships of a particular class are likely to give rise to a discharge of a harmful substance in breach of this Act or of the Resource Management Act 1991; or
+  (a) there is an existing discharge from the ship of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+  (b) there is likely to be a discharge from the ship of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+  (c) ships of a particular class are likely to give rise to a discharge of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
   (d) there has not been issued in respect of the ship or the marine protection product, as the case may be, a marine protection document as required by this Act or any regulations or marine protection rules made under this Act; or
   (e) a marine protection document in respect of the ship or marine protection product, as the case may be, has expired; or
   (f) any provision or condition of a marine protection document in respect of the ship, or marine protection product, as the case may be, is not being met; or
@@ -4235,7 +4325,7 @@ The provisions of sections 446 to 452 apply in relation to marine protection rul
 (4) Without limiting the generality of subsection (2), the Director may detain any ship to which section 232 applies if the owner of that ship has not provided a contract of insurance or other financial security in accordance with the provisions of that section.
 (5) Nothing in this section shall permit the Director to detain a foreign ship where that detention would constitute a breach of any marine protection convention.
 (6) Subject to subsections (7) and (8), any detention or seizure under subsection (1) shall be maintained for only such time as the grounds under subsection (2) which gave rise to the detention or seizure continue.
-(7) If ships, marine protection products, or parts thereof are required for the purpose of evidence in any prosecution under a provision in this Act or the Resource Management Act 1991, those ships, products, or parts thereof may be retained by the Director for such period as the Director considers necessary for that purpose.
+(7) If ships, marine protection products, or parts thereof are required for the purpose of evidence in any prosecution under a provision in this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012, those ships, products, or parts thereof may be retained by the Director for such period as the Director considers necessary for that purpose.
 (8) Any detention under subsection (4) shall be maintained until the Director is satisfied that either—
   (a) the owner of the ship has complied with the obligation under section 232 to provide a contract of insurance or financial security; or
   (b) such obligation to provide a contract of insurance or financial security is no longer appropriate as it has been determined that there is no liability to pay the amounts in respect of which the security was sought or all such amounts have been paid.
@@ -4812,17 +4902,24 @@ Where for the purposes of this Act any document is to be served on, or any notic
 
 ### 463 Detention in lieu of security for civil claims
 (1) For the purposes of this section, where the owner of a ship is a corporation, it shall be deemed to reside in New Zealand if it has an office in New Zealand at which service can be effected.
-(2) Subject to subsection (3), where a person has been convicted of an offence under this Act in respect of the discharge of a harmful substance from a ship or convicted of an offence of contravening or permitting a contravention of section 15B of the Resource Management Act 1991 in respect of the discharge of a harmful marine substance and,—a District Court Judge may, on being satisfied as to the matters in paragraphs (a) and (b), order any Customs officer or other officer named by the District Court Judge to detain that ship until such time as security for costs, damages, or other money that may be payable as a result of any civil proceedings has been given.
-  (a) property has been or is likely to be damaged by that discharge; and
-  (b) none of the owners of that ship reside in New Zealand,—
-(3) A certificate issued under section 363 or a certificate complying with the terms of Article VII of the Civil Liability Convention shall be sufficient security for the purposes of this section.
+(2) A District Court Judge may order a Customs officer or another officer named by the Judge to detain a ship if—
+  (a) a person has been convicted of an offence described in subsection (2B) in relation to the ship; and
+  (b) property has been, or is likely to be, damaged by the discharge; and
+  (c) none of the owners of the ship reside in New Zealand.
+(2A) The ship may be detained until security has been provided for costs, damages, or other money that may be payable as a result of civil proceedings.
+(2B) The offences relate to—
+  (a) the discharge of a harmful substance from a ship in breach of this Act:
+  (b) contravening or permitting a contravention of section 15B of the Resource Management Act 1991:
+  (c) a breach of section 20C of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(3) Despite subsection (2), a certificate issued under section 363 or a certificate complying with the terms of Article VII of the Civil Liability Convention shall be sufficient security for the purposes of this section.
 (4) On any order being made under subsection (2), the officer to whom the order is directed shall detain the ship.
 (5) Procedure on an application for an order under subsection (2) shall be as the District Court Judge considers appropriate.
 (6) Any person affected by an order made under subsection (2) may appeal against that order to the High Court.
 
-### 464 Agents’ contracts of indemnity
-(1) Where any person enters into an agreement to act as the agent in New Zealand of the owner, charterer, manager, or operator of a ship, he or she shall be entitled to enter into a contract of indemnity whereby the owner, charterer, manager, or operator agrees to indemnify the agent for any sum for which the agent may become liable as a result of any proceedings (whether civil or criminal) against the agent, in the capacity of such agency, in any court under any provision of this Act or the Resource Management Act 1991, or both.
-(2) Where any proceedings are brought in a New Zealand court by an agent seeking to enforce a contract of indemnity entered into with the owner, charterer, manager, or operator of a ship, the court may enforce the contract of indemnity except where the proceedings have resulted from the wilful act or neglect or default of the agent.
+### 464 Agents' contracts of indemnity
+(1) This section applies to a person (the agent) who enters into an agreement to act as the agent in New Zealand of the owner, charterer, manager, or operator of a ship.
+(2) The agent may enter into a contract of indemnity under which the owner, charterer, manager, or operator agrees to indemnify the agent for any sum for which the agent may become liable as a result of proceedings (whether civil or criminal) against the agent, in that capacity, in any court under any provision of any 1 or more of this Act, the Resource Management Act 1991, and the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(3) A New Zealand court may enforce the contract of indemnity only if the proceedings do not result from the wilful act or neglect or default of the agent.
 
 ### 465 Designation of parties to conventions
 (1) The Minister shall keep a list of and may give a certificate stating—
@@ -4844,6 +4941,15 @@ The provisions of sections 9, 12, 13, 14, 15, 15A, 15B, and 15C of the Resource 
   (d) anything done—under section 305 or section 311.
     (i) by or on behalf of the Director; or
     (ii) by any person in accordance with any instructions issued by the Director—
+
+### 467A Provisions of Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 not to apply
+Section 20 and subpart 2 of Part 2 of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 do not apply to—
+  (a) anything done by or on behalf of the Director under section 248 or 249 or by or on behalf of any person in accordance with any instructions under either of those sections; or
+  (b) anything done by or on behalf of an on-scene commander—
+    (i) under section 305 or 311; or
+    (ii) in accordance with a direction given under section 310; or
+  (c) anything done by or on behalf of the master or owner of any ship, or the owner or operator of any oil storage or transfer site or offshore installation or any other person in accordance with a direction given under section 305 or 311; or
+  (d) anything done by or on behalf of the Director, or by any person in accordance with any instruction issued by the Director, under section 305 or 311.
 
 ## Part 31 — Consequential amendments, transitional provisions, and repeals
 
