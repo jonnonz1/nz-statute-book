@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013
-_Consolidation as at 2014-02-28_
+_Consolidation as at 2015-10-31_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013.
