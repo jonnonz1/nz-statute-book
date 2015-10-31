@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2015-06-26_
+_Consolidation as at 2015-10-31_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -27,12 +27,15 @@ Part 1
   (a) the Minister's power to direct the EPA in relation to certain powers, duties, or functions exercised or performed by the EPA; and
   (b) the EPA's power to delegate its decision-making function in relation to applications for marine consents to a committee or a board of inquiry hearing a resource consent application in relation to the same cross-boundary activity.
 Part 2
-(5) Part 2 sets out the duties and restrictions imposed by this Act, including,—
-  (a) in section 20, restrictions on activities; and
-  (b) in sections 21 and 23, ongoing transitional provision for activities that are being carried out when the regulations that apply to them are amended or replaced and a marine consent is required as a result. The activities may continue in specified circumstances; and
-  (c) in section 22, provision for petroleum activities that, although authorised, had not commenced when new regulations come into force that change the rules for those activities and a marine consent is required as a result. An activity may commence if the person planning to undertake the activity first provides an impact assessment to the EPA; and
-  (d) in section 25, a duty on every person to avoid, remedy, or mitigate the adverse effects of their activities on the environment and a duty to provide sufficient training, supervision, and resources to their employees to ensure compliance with the Act; and
-  (e) clarification in section 26 that compliance with the Act does not mean a person need not comply with other legal requirements and vice versa.
+(5) Subpart 1 sets out restrictions imposed by this Act on activities other than discharges and dumping.
+(5A) Subpart 2 sets out restrictions and prohibitions on the discharge of harmful substances and the dumping of waste and other matter.
+(5B) Subpart 3—
+  (a) sets out, in sections 21 and 23, ongoing transitional provisions for activities that are being carried out when the regulations that apply to them are amended or replaced and require a marine consent as a result; and
+  (b) provides, in section 22, for petroleum activities that, although authorised, have not commenced when new regulations come into force that change the rules for those activities and require a marine consent as a result. An activity may commence if the person planning to undertake the activity first provides an impact assessment to the EPA; and
+  (c) requires, in section 24, a person undertaking an activity to stop undertaking it once it is no longer authorised.
+(5C) Subpart 4—
+  (a) imposes, in section 25, a duty on every person to avoid, remedy, or mitigate the adverse effects of their activities on the environment and a duty to provide sufficient training, supervision, and resources to their employees (if any) to ensure compliance with the Act; and
+  (b) clarifies, in section 26, that compliance with the Act does not mean a person need not comply with other legal requirements and vice versa.
 Part 3
 (6) Subpart 1 provides for the making of regulations—
   (a) prescribing standards for activities, the effects of activities, and the environment; and
@@ -44,13 +47,14 @@ Part 3
   (b) matters that the Minister must take into account in developing regulations; and
   (c) information principles that apply to the Minister in developing regulations.
 (8) Subpart 2 sets out the standard process for applying for a marine consent for a non-notified activity, the standard process for applying for a marine consent for a publicly notifiable activity, and matters that the EPA must consider in deciding whether to grant or refuse to grant a consent, and provides for the review of the conditions and duration of consents.
+(8A) Subpart 3 adapts the standard process for obtaining a marine consent for marine discharge consents and marine dumping consents.
 (9) Subpart 3 sets out the process for applying for consent for an activity that straddles the boundary between the territorial sea and the exclusive economic zone, including a cross-boundary activity that includes a matter of national significance.
 Part 4
 (10) Subpart 1 provides for objections to the EPA and appeals to the High Court on a question of law.
 (11) Subpart 2 provides for enforcement of the Act by providing for—
   (a) the Environment Court to issue enforcement orders under section 115; and
   (b) enforcement officers to serve abatement notices under section 125; and
-  (c) offences and penalties under sections 132 and 133; and
+  (c) offences and penalties; and
   (d) the appointment of enforcement officers under section 138 and their powers.
 Part 5
 (12) Subpart 1 deals with miscellaneous matters, including—
@@ -61,14 +65,16 @@ Part 5
   (e) protection of sensitive information; and
   (f) waivers and extension of time limits.
 (13) Subpart 2 sets out transitional arrangements.
-(14) Subpart 3 makes a number of amendments to other Acts.
+(14) Subpart 3 makes a number of amendments to other Acts, regulations, and marine protection rules.
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **abatement notice** means a notice served under section 125
-  - **activity** means an activity restricted by section 20
+  - **activity** ,—
+    (a) in relation to the exclusive economic zone and continental shelf, means an activity described in section 20 or subpart 2 of Part 2; and
+    (b) in relation to the sea above the continental shelf beyond the outer limits of the exclusive economic zone, means an activity described in subpart 2 of Part 2
   - **adaptive management approach** has the meaning given in section 64(2)
-  - **applicant** means a person who makes an application for a marine consent under section 38
+  - **applicant** means a person who makes an application for a marine consent under section 38 or 87B
   - **chief executive** means the chief executive of the department
   - **consent holder** or , in relation to a consent, means the person who has been granted a consent under section 62 or to whom a consent has been transferred under section 75
   - **continental shelf** has the same meaning as in section 2(1) of the Continental Shelf Act 1964
@@ -112,7 +118,9 @@ Part 5
   - **information** includes analysis
   - **information principles** means the information principles set out in sections 34 and 61
   - **Māori Advisory Committee** means the committee established under section 18 of the Environmental Protection Authority Act 2011
-  - **marine consent** or means a consent granted under section 62
+  - **marine consent** or means—
+    (a) a marine consent granted under section 62; or
+    (b) an emergency dumping consent, a marine discharge consent, or a marine dumping consent
   - **marine discharge consent** means a marine consent granted under section 87F to discharge harmful substances
   - **marine dumping consent** means a marine consent granted under section 87F to dump waste or other matter
   - **mineral** has the meaning given in section 2(1) of the Crown Minerals Act 1991
@@ -164,9 +172,7 @@ Part 5
   - **standard** means a standard prescribed by regulations made under section 27
   - **structure** —
     (a) means any building, equipment, or device; and
-    (b) includes—
-      (i) an offshore installation, artificial island, or floating platform; and
-      (ii) a ship used in connection with any offshore installation, artificial island, or floating platform; but
+    (b) includes an offshore installation, an artificial island, or a floating platform; but
     (c) does not include a submarine pipeline
   - **submarine cable** has the same meaning as in section 2 of the Submarine Cables and Pipelines Protection Act 1996
   - **submarine pipeline** has the same meaning as in section 2 of the Submarine Cables and Pipelines Protection Act 1996
@@ -178,7 +184,7 @@ Part 5
   - **toxic or hazardous waste** means any waste or other matter specified as toxic or hazardous waste by regulations made under this Act
   - **wāhi tapu** has the same meaning as in section 6 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **warship** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
-  - **waste or other matter** has the same meaning as in section 257 of the Maritime Transport Act 1994.
+  - **waste or other matter** means material and substances of any kind, form, or description
   - **working day** means a day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
@@ -256,12 +262,19 @@ Part 5
   (e) any ship owned or operated by any State other than New Zealand, if the ship is being used by the State for wholly governmental purposes:
   (f) the master and crew of any warship, aircraft, or ship referred to in paragraphs (a) to (e):
   (g) defence areas as defined in section 2 of the Defence Act 1990.
+(1A) However, the following provisions of this Act do apply to warships and other ships of the New Zealand Defence Force:
+  (a) subparts 2 (as if those ships were New Zealand ships), 3, and 4 of Part 2:
+  (b) regulations made under sections 29A and 29C:
+  (c) subpart 2A of Part 3:
+  (d) sections 134 to 134M.
 (2) In this section, a ship that is being used for commercial purposes, or both commercial and governmental purposes, is not being used for wholly governmental purposes.
 
 ### Subpart 2 — Purpose and principles
 
 ### 10 Purpose
-(1) The purpose of this Act is to promote the sustainable management of the natural resources of the exclusive economic zone and the continental shelf.
+(1) The purpose of this Act is—
+  (a) to promote the sustainable management of the natural resources of the exclusive economic zone and the continental shelf; and
+  (b) in relation to the exclusive economic zone, the continental shelf, and the waters above the continental shelf beyond the outer limits of the exclusive economic zone, to protect the environment from pollution by regulating or prohibiting the discharge of harmful substances and the dumping or incineration of waste or other matter.
 (2) In this Act, sustainable management means managing the use, development, and protection of natural resources in a way, or at a rate, that enables people to provide for their economic well-being while—
   (a) sustaining the potential of natural resources (excluding minerals) to meet the reasonably foreseeable needs of future generations; and
   (b) safeguarding the life-supporting capacity of the environment; and
@@ -273,7 +286,9 @@ Part 5
 ### 11 International obligations
 This Act continues or enables the implementation of New Zealand's obligations under various international conventions relating to the marine environment, including—
   (a) the United Nations Convention on the Law of the Sea 1982:
-  (b) the Convention on Biological Diversity 1992.
+  (b) the Convention on Biological Diversity 1992:
+  (c) the International Convention for the Prevention of Pollution from Ships, 1973 (MARPOL):
+  (d) the Convention on the Prevention of Marine Pollution by Dumping Wastes and Other Matter, 1972 (the London Convention).
 
 ### 12 Treaty of Waitangi
 In order to recognise and respect the Crown's responsibility to give effect to the principles of the Treaty of Waitangi for the purposes of this Act,—
@@ -292,7 +307,7 @@ In order to recognise and respect the Crown's responsibility to give effect to t
   (b) to monitor compliance with this Act:
   (c) to enforce the requirements of this Act, and of regulations made and consents granted under it:
   (d) to approve forms for the purposes of—
-    (i) subparts 2 and 3 of Part 3, which deal with marine consents:
+    (i) subparts 2, 2A, and 3 of Part 3, which deal with marine consents:
     (ii) sections 101 to 103, which deal with objections:
     (iii) sections 125 to 128, which deal with abatement notices:
   (e) to promote public awareness of the requirements of this Act:
@@ -306,7 +321,7 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
 The Environmental Protection Authority has all the powers that are reasonably necessary to enable it to carry out its functions under this Act.
 
 ### 16 Restriction on Environmental Protection Authority's power to delegate
-Despite section 17 of the Environmental Protection Authority Act 2011, the Environmental Protection Authority must not delegate its power to decide an application for a marine consent or make a decision on a review of a consent under section 62, 81, or 82 (as appropriate), except to—
+Despite section 17 of the Environmental Protection Authority Act 2011, the Environmental Protection Authority must not delegate its power to decide an application for a marine consent under section 62 or to make a decision under section 81 or 82 on a review of a consent granted under section 62, except to—
   (a) a committee appointed under clause 14 of Schedule 5 of the Crown Entities Act 2004; or
   (b) a board of inquiry as provided for in section 99(2).
 
@@ -340,10 +355,12 @@ The Māori Advisory Committee may provide advice to the Environmental Protection
 (2) The Minister must not declare a marine species to be threatened or at-risk unless the species is classified as threatened or at-risk under the New Zealand Threat Classification System.
 (3) In this section, New Zealand Threat Classification System means the system maintained by the Department of Conservation for assessing the risk of extinction of New Zealand species and classifying the species according to that risk.
 
-## Part 2 — Duties and restrictions
+## Part 2 — Duties, restrictions, and prohibitions
 
-### 20 Restrictions on activities in exclusive economic zone and in or on continental shelf
-(1) No person may undertake an activity described in subsection (2) in the exclusive economic zone or in or on the continental shelf unless the activity is a permitted activity, authorised by a marine consent, or authorised by section 21, 22, or 23.
+### Subpart 1 — Restrictions on activities other than discharges and dumping
+
+### 20 Restriction on activities other than discharges and dumping
+(1) No person may undertake an activity described in subsection (2) in the exclusive economic zone or in or on the continental shelf unless the activity is a permitted activity or authorised by a marine consent or section 21, 22, or 23.
 (2) The activities referred to in subsection (1) are—
   (a) the construction, placement, alteration, extension, removal, or demolition of a structure on or under the seabed:
   (b) the construction, placement, alteration, extension, removal, or demolition of a submarine pipeline on or under the seabed:
@@ -352,36 +369,146 @@ The Māori Advisory Committee may provide advice to the Environmental Protection
   (e) the disturbance of the seabed or subsoil in a manner that is likely to have an adverse effect on the seabed or subsoil:
   (f) the deposit of any thing or organism in, on, or under the seabed:
   (g) the destruction, damage, or disturbance of the seabed or subsoil in a manner that is likely to have an adverse effect on marine species or their habitat.
-(3) No person may undertake an activity described in subsection (4) in the waters of the exclusive economic zone unless the activity is a permitted activity, authorised by a marine consent, or authorised by section 21, 22, or 23.
+(3) No person may undertake an activity described in subsection (4) in the sea of the exclusive economic zone unless the activity is a permitted activity or authorised by a marine consent or section 21, 22, or 23.
 (4) The activities referred to in subsection (3) are—
-  (a) the construction, mooring or anchoring long-term, placement, alteration, extension, removal, or demolition of a structure or part of a structure:
-  (b) the causing of vibrations (other than vibrations caused by the normal operation of a ship) in a manner that is likely to have an adverse effect on marine life:
+  (a) the construction, mooring or anchoring long-term, placement, alteration, extension, removal, or demolition of a structure, part of a structure, or a ship used in connection with a structure:
+  (b) the causing of vibrations (other than vibrations caused by the propulsion of a ship) in a manner that is likely to have an adverse effect on marine life:
   (c) the causing of an explosion.
-(5) However, this section—
-  (a) does not apply to lawful fishing for wild fish under the Fisheries Act 1996; and
-  (b) does not affect the following activities that are regulated or prohibited by the Maritime Transport Act 1994:
-    (i) the dumping or storing of radioactive waste or other radioactive matter; or
-    (ii) the storing of toxic or hazardous waste; or
-    (iii) the dumping of waste or other matter.
+(5) However, this section does not apply to—
+  (a) the discharge of harmful substances; or
+  (b) the dumping of waste or other matter; or
+  (c) lawful fishing for wild fish under the Fisheries Act 1996.
 
-**Existing activities and planned petroleum activities**
+### Subpart 2 — Restrictions and prohibitions on discharges and dumping
+
+**Discharge of harmful substances**
+
+### 20A Regulation under this subpart and Maritime Transport Act 1994 of discharges
+(1) This section describes how the discharge of harmful substances is regulated under this subpart and the Maritime Transport Act 1994, but it does not affect the interpretation or the application of this subpart or that Act.
+(2) In relation to the discharge of harmful substances, this subpart regulates—
+  (a) discharges into the exclusive economic zone and into or onto the seabed below it from—
+    (i) structures:
+    (ii) submarine pipelines:
+    (iii) ships, if the discharge is a mining discharge:
+  (b) discharges into or onto the continental shelf beyond the exclusive economic zone or into the sea above that part of the continental shelf from—
+    (i) New Zealand structures:
+    (ii) structures (other than New Zealand structures) involved in a mining activity:
+    (iii) submarine pipelines:
+    (iv) ships, if the discharge is a mining discharge.
+(3) The Maritime Transport Act 1994 regulates—
+  (a) the discharge of harmful substances (other than a mining discharge) from a ship into the sea or seabed of the exclusive economic zone:
+  (b) the discharge of harmful substances (other than a mining discharge) into the sea above the continental shelf beyond the exclusive economic zone and the seabed below that sea from a New Zealand ship or from a foreign ship involved in a mining activity:
+  (c) the discharge of harmful substances from a New Zealand ship into the sea beyond the continental shelf or the seabed below that sea.
+
+### 20B Restriction on discharges of harmful substances from structures and submarine pipelines
+(1) No person may discharge a harmful substance from a structure or from a submarine pipeline into the sea or into or onto the seabed of the exclusive economic zone.
+(2) No person may discharge a harmful substance into or onto the continental shelf beyond the outer limits of the exclusive economic zone or into the sea above that part of the continental shelf from—
+  (a) a New Zealand structure; or
+  (b) a structure (other than a New Zealand structure) involved in a mining activity; or
+  (c) a submarine pipeline.
+(3) However, a person may discharge a harmful substance if the discharge is a permitted activity or authorised by a marine consent or section 21, 22, or 23.
+
+### 20C Restriction on mining discharges from ships
+(1) No person may discharge a harmful substance (if the discharge is a mining discharge) from a ship—
+  (a) into the sea of the exclusive economic zone or above the continental shelf beyond the outer limits of the exclusive economic zone; or
+  (b) into or onto the continental shelf.
+(2) However, a person may discharge the harmful substance in the circumstance described in subsection (1) if the discharge is a permitted activity or authorised by a marine consent or section 21, 22, or 23.
+
+**Dumping of waste or other matter**
+
+### 20D Regulation under this subpart and Maritime Transport Act 1994 of dumping
+(1) This section describes how the dumping of waste or other matter is regulated under this subpart and the Maritime Transport Act 1994, but it does not affect the interpretation or the application of this subpart or that Act.
+(2) In relation to the exclusive economic zone and the continental shelf, this subpart—
+  (a) prohibits—
+    (i) the dumping of radioactive waste or other radioactive matter:
+    (ii) the dumping of toxic or hazardous waste:
+    (iii) the incineration of waste or other matter at sea; and
+  (b) regulates—
+    (i) the disposal of human remains other than ashes:
+    (ii) the dumping of waste or other matter (other than waste or other matter described in paragraph (a)).
+(3) The Maritime Transport Act 1994 regulates the dumping of waste or other matter into the waters beyond the continental shelf.
+
+### 20E Prohibition on dumping radioactive waste or other radioactive matter
+No person may dump radioactive waste or other radioactive matter—
+  (a) into the sea within the exclusive economic zone or above the continental shelf beyond the outer limits of the exclusive economic zone; or
+  (b) into or onto the continental shelf.
+
+### 20F Prohibition on dumping toxic or hazardous waste
+No person may dump toxic or hazardous waste—
+  (a) into the sea within the exclusive economic zone or above the continental shelf beyond the outer limits of the exclusive economic zone; or
+  (b) into or onto the continental shelf.
+
+### 20G Restriction on dumping waste or other matter
+(1) This section applies to waste or other matter other than—
+  (a) radioactive waste or other radioactive matter:
+  (b) toxic or hazardous waste:
+  (c) human remains.
+(2) No person may dump waste or other matter (including ships, aircraft, or structures)—
+  (a) into the sea within the exclusive economic zone or above the continental shelf beyond the outer limits of the exclusive economic zone; or
+  (b) into or onto the continental shelf.
+(3) However, a person may dump waste or other matter (including ships, aircraft, or structures) if—
+  (a) regulations allow the dumping to be authorised by a marine consent and the dumping is authorised by a marine consent; or
+  (b) the dumping is authorised by an emergency dumping consent and complies with any regulations for emergency dumping made under section 29B; or
+  (c) the dumping is in accordance with section 248 or 249 of the Maritime Transport Act 1994.
+
+### 20H Emergency dumping
+(1) Any person may apply to the Environmental Protection Authority for an emergency dumping consent to dump waste or other matter in an emergency—
+  (a) into the waters of the exclusive economic zone:
+  (b) into waters beyond the outer limits of the exclusive economic zone but over the continental shelf.
+(2) The EPA may issue an emergency dumping consent, in accordance with this section and regulations under section 29B, if it is satisfied that—
+  (a) an emergency exists; and
+  (b) the emergency poses an unacceptable risk to human health, safety, or the marine environment; and
+  (c) the dumping of the waste or other matter is necessary to remove or reduce the risk; and
+  (d) there is no feasible alternative to the dumping of the waste or other matter.
+(3) Before the EPA grants an emergency dumping consent, it must—
+  (a) consult Maritime New Zealand and the appropriate competent authority of any country that is likely to be affected by the dumping of the waste or other matter; and
+  (b) notify the International Maritime Organization that it has received an application for an emergency dumping consent.
+(4) The EPA may grant an emergency dumping consent subject to conditions.
+(5) The EPA may impose any conditions that it considers appropriate to deal with the effects of the dumping of waste or other matter on the environment or on human health or safety, including conditions that require the person issued with the consent to—
+  (a) monitor, and report to the EPA on, the exercise of the permit and the effects of the dumping on the environment and human health and safety:
+  (b) keep and maintain records of the waste or other matter dumped and the location of the dumping:
+  (c) provide the EPA with any specified information that relates to the permit or its exercise.
+(6) The EPA may impose as a condition a requirement that the person granted the emergency dumping consent complies with—
+  (a) any procedures for dumping recommended by the International Maritime Organization:
+  (b) any procedures for dumping specified in the consent.
+(7) Before imposing a condition under subsection (6), the EPA must consider whether the condition is feasible in the circumstances after taking into account the urgency of the situation.
+(8) The EPA must make its decision on an application for an emergency dumping consent as soon as is reasonably practicable after the EPA is satisfied that the application is complete.
+(9) The EPA must notify the International Maritime Organization of every decision it makes under subsection (8) to grant or refuse an application for an emergency dumping consent.
+
+### 20I Prohibition on incinerating waste or other matter at sea
+(1) No person may incinerate waste or other matter in the exclusive economic zone.
+(2) No person may incinerate waste or other matter on a New Zealand ship or a New Zealand structure in the sea above the continental shelf beyond the outer limits of the exclusive economic zone.
+(3) However, a person may incinerate waste or other matter on a New Zealand ship or a New Zealand structure if the waste or other matter was generated during the normal operation of the ship or structure.
+
+**Burial at sea**
+
+### 20J Burial at sea
+(1) No person may dispose of human remains in the exclusive economic zone, or into or onto the continental shelf, unless—
+  (a) the disposal complies with regulations made under this Act; and
+  (b) the Environmental Protection Authority certifies, in writing, that the proposed disposal complies with the regulations.
+(2) However, subsection (1) does not apply to human remains that are ashes resulting from the cremation of human remains.
+
+### Subpart 3 — Existing activities and planned petroleum activities
 
 ### 21 Certain existing activities may continue
 (1) This section applies to an existing activity if—
-  (a) the activity was classified as a permitted activity by regulations; and
+  (a) the activity is classified as a permitted activity by regulations; and
   (b) new regulations come into force that amend or replace the regulations described in paragraph (a) (the new regulations); and
-  (c) the activity was lawfully established before the new regulations come into force; and
-  (d) the effects of the activity on the environment and existing interests are of the same or similar character, intensity, and scale as the effects that existed before the new regulations came into force; and
+  (c) the activity is lawfully established before the new regulations come into force; and
+  (d) the effects of the activity on the environment and existing interests are of the same or similar character, intensity, and scale as the effects that existed before the coming into force of the new regulations; and
   (e) the activity requires a marine consent as a result of the amendment or replacement of the regulations described in paragraph (a).
 (2) The activity may continue without a marine consent for a prescribed period or, if no period is prescribed for the activity, for 6 months from the date on which the new regulations come into force.
-(3) If the person undertaking the activity applies for a marine consent within the period described in subsection (2), the activity may continue after the period has expired until the application—
-  (a) is decided under section 62 and any appeals are determined; or
-  (b) is returned as incomplete under section 41 and any objections and appeals are determined.
-(4) If the application for a marine consent described in subsection (3) was returned by the EPA under section 41, subsection (3) applies to any new application that replaces the returned application.
+(3) If the activity is one that is described in section 20 and the person undertaking the activity applies for a marine consent within the period described in subsection (2), the activity may continue after the period has expired until—
+  (a) the application is decided under section 62 and any appeals are determined; or
+  (b) the application is returned as incomplete by the EPA under section 41 and any objections and appeals are determined.
+(4) If the activity is a discharge of a harmful substance and the person undertaking the activity applies for a marine consent within the period described in subsection (2), the activity may continue after the period has expired until—
+  (a) the application is decided under section 87F and any appeals are determined; or
+  (b) the application is returned as incomplete by the EPA under section 41 and any objections and appeals are determined.
+(5) If the application for a marine consent described in subsection (3) or (4) is returned by the EPA under section 41, subsection (3) or (4) (as the case requires) applies to any new application that replaces the returned application.
 
-### 22 Planned petroleum activities may commence and continue
+### 22 Planned petroleum activities may commence
 (1) This section applies to a planned petroleum activity if—
-  (a) the activity was classified as a permitted activity by regulations; and
+  (a) the activity is classified as a permitted activity by regulations; and
   (b) new regulations come into force that amend or replace the regulations described in paragraph (a) (the new regulations); and
   (c) the activity requires a marine consent as a result of the amendment or replacement of the regulations described in paragraph (a).
 (2) The activity may commence without a marine consent after the new regulations come into force.
@@ -389,21 +516,24 @@ The Māori Advisory Committee may provide advice to the Environmental Protection
   (a) prepare an impact assessment for the activity; and
   (b) provide the impact assessment to the EPA.
 (4) Section 41 applies to the impact assessment as if it were an application for a marine consent.
-(5) If the person undertaking the activity complies with subsection (3), the activity may continue without a marine consent for a prescribed period or, if no period is prescribed for the activity, for 6 months from the date on which the new regulations come into force.
+(5) If the person intending to undertake the activity complies with subsection (3), the activity may continue for a prescribed period or, if no period is prescribed for the activity, for 6 months from the date on which the new regulations come into force.
 (6) If the person undertaking the activity applies for a marine consent within the period described in subsection (5), the activity may continue after the period has expired until the application—
   (a) is decided under section 62 and any appeals are determined; or
   (b) is returned as incomplete by the EPA under section 41 and any objections and appeals are determined.
-(7) If the application for a marine consent described in subsection (6) was returned by the EPA under section 41, subsection (6) applies to any new application that replaces the returned application.
-(8) In this section, planned petroleum activity means an activity involved with the exploration, prospecting, or mining for petroleum if, before the new regulations come into force,—
+(7) If the activity is a discharge of a harmful substance and the person undertaking the activity applies for a marine consent within the period described in subsection (5), the activity may continue after the period has expired until—
+  (a) the application is decided under section 87F and any appeals are determined; or
+  (b) the application is returned as incomplete by the EPA under section 41 and any objections and appeals are determined.
+(8) If the application for a marine consent described in subsection (6) or (7) was returned by the EPA under section 41, subsection (6) or (7) (as the case requires) applies to any new application that replaces the returned application.
+(9) In this section, planned petroleum activity means a mining activity undertaken in relation to petroleum if, before the new regulations come into force,—
   (a) the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that is granted under section 25 of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under clause 12 of Schedule 1 of that Act; and
-  (b) the activity has not commenced.
+  (b) the activity had not commenced.
 
 ### 23 Certain existing activities that become prohibited may continue
 (1) This section applies to an existing activity if—
-  (a) the activity was classified as a permitted activity by regulations, or was authorised by a marine consent in accordance with the regulations; and
+  (a) the activity is classified as a permitted activity by regulations, or was authorised by a marine consent in accordance with the regulations; and
   (b) new regulations come into force that amend or replace the regulations described in paragraph (a) (the new regulations); and
   (c) the activity becomes a prohibited activity as a result of the amendment or replacement of the regulations described in paragraph (a); and
-  (d) the activity was lawfully established before the new regulations come into force.
+  (d) the activity is lawfully established before the new regulations come into force.
 (2) The activity may continue—
   (a) for the duration of the consent, if the activity is authorised by a marine consent; or
   (b) for a period prescribed by regulations, if the activity is not authorised by a consent.
@@ -415,18 +545,19 @@ The Māori Advisory Committee may provide advice to the Environmental Protection
 (2) The person undertaking the activity must—
   (a) stop the activity; and
   (b) in stopping the activity, comply with any regulations or consent conditions that apply to the stopping of the activity; and
-  (c) comply with any instructions of the Environmental Protection Authority that relate to the stopping of the activity.
+  (c) comply with any instructions of the Environmental Protection Authority that relate to stopping the activity.
 
-**General matters**
+### Subpart 4 — General matters
 
 ### 25 Duty of persons operating in exclusive economic zone or on continental shelf
-(1) Every person carrying out, or proposing to carry out, an activity in the exclusive economic zone or on the continental shelf has—
+(1) This section applies to every person who carries out or proposes to carry out an activity in the exclusive economic zone, in or on the seabed of the continental shelf, or in the sea above the continental shelf beyond the outer limits of the exclusive economic zone.
+(2) The person has—
   (a) a general duty to avoid, remedy, or mitigate the adverse effects of the activity on the environment; and
   (b) a duty to provide—
-    (i) training and supervision to all the person's employees who are engaged in an activity in the exclusive economic zone or on the continental shelf in order to ensure compliance with this Act, regulations, and any marine consent; and
-    (ii) sufficient resources to the employees to ensure compliance with this Act, regulations, and any marine consent, including establishing appropriate management systems.
-(2) The duties referred to in subsection (1) are not enforceable against any person, and no person is liable to any other person for a breach of a duty.
-(3) However, despite subsection (2), an enforcement order may be made under section 115 or an abatement notice may be served under section 125 to require a person to comply with subsection (1)﻿(a) if adverse effects result or are likely to result from a breach of this Act, regulations, or a marine consent.
+    (i) training and supervision to all of the person's employees who are engaged in the activity in order to ensure compliance with this Act, regulations, and any marine consent; and
+    (ii) sufficient resources to the person's employees to ensure compliance with this Act, regulations, and any marine consent, including establishing appropriate management systems.
+(3) The duties referred to in subsection (2) are not enforceable against any person, and no person is liable to any other person for a breach of a duty.
+(4) However, despite subsection (3), an enforcement order may be made or an abatement notice may be served under Part 3 to require a person to comply with subsection (2)﻿(a) if adverse effects result or are likely to result from a breach of this Act, regulations, or a marine consent.
 
 ### 26 Relationship with other legal requirements
 To avoid doubt,—
@@ -437,12 +568,12 @@ To avoid doubt,—
 
 ### Subpart 1 — Regulations
 
-**Regulation of activities and environment of exclusive economic zone and continental shelf**
+**Regulation of certain activities and areas**
 
 ### 27 Regulations prescribing standards, methods, or requirements
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that prescribe requirements, methods, or technical standards for—
-  (a) activities that are carried out in the exclusive economic zone or in or on the continental shelf:
-  (b) the effects of activities carried out in the exclusive economic zone or in or on the continental shelf, including effects that occur in the territorial sea or in the waters above and beyond the continental shelf:
+  (a) activities described in section 20 that are carried out in the exclusive economic zone or in or on the continental shelf:
+  (b) the effects of the activities referred to in paragraph (a), including effects that occur in the territorial sea or in the sea above and beyond the continental shelf:
   (c) assessing the state of the environment of the exclusive economic zone and the continental shelf.
 (2) The regulations may include—
   (a) qualitative or quantitative standards:
@@ -455,13 +586,13 @@ To avoid doubt,—
 (3) However, the Minister must not recommend the making of regulations unless he or she is satisfied that the requirements of sections 32 to 34 have been met.
 
 ### 28 Regulations classifying areas of exclusive economic zone or continental shelf
-(1) Regulations made under section 27 may identify and provide for areas of the exclusive economic zone or the continental shelf that—
+(1) Regulations made under section 27 or 29A may identify and provide for areas of the exclusive economic zone or the continental shelf that—
   (a) are important or especially vulnerable because of their biophysical characteristics; or
   (b) are important for specific uses; or
   (c) must be managed in co-ordination with other marine management regimes; or
   (d) are, or are likely to be, the subject of competition or conflict arising from the incompatibility of different activities; or
   (e) are experiencing, or likely to experience, cumulative adverse environmental effects.
-(2) The regulations may close an area of the exclusive economic zone or the continental shelf to all or any activities described in section 20.
+(2) The regulations may close an area of the exclusive economic zone or the continental shelf to all or any activities described in section 20 or subpart 2 of Part 2.
 
 ### 29 Regulations classifying activities
 (1) Regulations made under section 27 may—
@@ -546,16 +677,19 @@ To avoid doubt,—
 **Provisions applying to all regulations**
 
 ### 31 Application of regulations
-(1) A regulation may apply to all or any part of the exclusive economic zone and the continental shelf and to any or all activities described in section 20 that are carried out in the exclusive economic zone or in or on the continental shelf.
-(2) A regulation may apply to the effects of an activity even if the effects occur in the territorial sea or the waters beyond the exclusive economic zone.
+(1) A regulation made under section 27 may apply to all or any part of the exclusive economic zone and the continental shelf and to any or all activities described in section 20 that are carried out in the exclusive economic zone or in or on the continental shelf.
+(2) A regulation made under section 29A may apply to—
+  (a) all or any part of the exclusive economic zone, the continental shelf, and the sea above the continental shelf beyond the outer limits of the exclusive economic zone; and
+  (b) any or all of the activities described in subpart 2 of Part 2.
+(2A) A regulation made under section 27 or 29A may apply to the effects of an activity even if the effects occur outside the area to which the regulation applies.
 (3) Different requirements or standards may apply in relation to different activities and different classes of the same activity.
 
 ### 32 Process for developing or amending regulations
-(1) Before making a recommendation to the Governor-General under section 27 or 30(1)﻿(a) or (c), the Minister must comply with subsection (2).
+(1) Before making a recommendation to the Governor-General under section 27, 29A, or 30(1)﻿(a) or (c), the Minister must comply with subsection (2).
 (2) The Minister must—
   (a) notify the public, iwi authorities, regional councils, and persons whose existing interests are likely to be affected of—
     (i) the proposed subject matter of the regulations; and
-    (ii) in the case of regulations to which section 27 applies, the Minister's reasons for considering that the regulations are consistent with the purpose of the Act; and
+    (ii) in the case of regulations to which section 27 or 29A applies, the Minister's reasons for considering that the regulations are consistent with the purpose of the Act; and
   (b) establish a process that the Minister considers gives the public, iwi authorities, and persons whose existing interests are likely to be affected adequate time and opportunity to comment on the subject matter of the proposed regulations.
 (3) However, the Minister need not comply with subsection (2) if the Minister is recommending the making of an amendment to regulations that has no more than a minor effect or that corrects errors or makes minor technical changes.
 
@@ -581,13 +715,23 @@ To avoid doubt,—
   (l) any other relevant matter.
 
 ### 34 Information principles
-(1) When developing regulations under section 27, the Minister must—
+(1) When developing regulations under sections 27, 29A, and 29B, the Minister must—
   (a) make full use of the information and other resources available to him or her; and
   (b) base decisions on the best available information; and
   (c) take into account any uncertainty or inadequacy in the information available.
 (2) If, in relation to the making of a decision under this Act, the information available is uncertain or inadequate, the Minister must favour caution and environmental protection.
 (3) If favouring caution and environmental protection means that an activity is likely to be prohibited, the Minister must first consider whether providing for an adaptive management approach would allow the activity to be classified as discretionary.
 (4) In this section, best available information means the best information that, in the particular circumstances, is available without unreasonable cost, effort, or time.
+
+### 34A Matters to be considered for regulations relating to discharges and dumping
+(1) This section applies when the Minister is developing regulations for the purpose of section 29A.
+(2) The Minister must have regard to any comments made under section 32(2).
+(3) The Minister must take into account—
+  (a) the matters described in section 33(3), except paragraphs (c), (g), (h), and (j); and
+  (b) the effects of the discharge or dumping on human health if the discharge or dumping takes place; and
+  (c) in relation to the dumping of waste or other matter,—
+    (i) any alternative methods of disposal that could be used; and
+    (ii) whether there are practical opportunities to reuse, recycle, or treat the waste.
 
 **Types of activity**
 
@@ -597,7 +741,7 @@ To avoid doubt,—
 (3) A person intending to undertake a permitted activity must notify the Environmental Protection Authority before undertaking the activity if required to do so by regulations made under this Act.
 
 ### 36 Discretionary activities
-(1) An activity is a discretionary activity if regulations—
+(1) An activity is a discretionary activity if this Act or regulations—
   (a) describe the activity as discretionary; or
   (b) allow the activity with a marine consent; or
   (c) do not classify the activity as permitted, discretionary, or prohibited.
@@ -605,12 +749,15 @@ To avoid doubt,—
 (3) Subsection (2) is subject to section 21.
 
 ### 37 Prohibited activities
-(1) An activity is a prohibited activity if it is described in regulations as a prohibited activity.
+(1) An activity is a prohibited activity if it is described in this Act or regulations as a prohibited activity.
 (2) No person may apply for a marine consent for a prohibited activity and a consent for a prohibited activity must not be granted.
 (3) No person may undertake a prohibited activity.
 (4) Subsection (3) is subject to section 23.
 
 ### Subpart 2 — Marine consents
+
+### 37A Application of this subpart
+This subpart applies only in relation to an activity described in section 20.
 
 **Application for marine consent**
 
@@ -620,6 +767,9 @@ To avoid doubt,—
   (a) be made in the prescribed form; and
   (b) fully describe the proposal; and
   (c) include an impact assessment prepared in accordance with section 39.
+(3) This section does not apply to the following activities:
+  (a) the discharge of harmful substances:
+  (b) the dumping of waste or other matter.
 
 ### 39 Impact assessment
 (1) An impact assessment must—
@@ -1138,6 +1288,87 @@ The EPA may issue an amended consent to correct minor mistakes or defects in a c
 (5) If the EPA decides, under subsection (3)﻿(a), not to give public notice of the request, the EPA may, but need not, give public notice of its decision under section 70.
 (6) The consent holder may object, under section 101, if the EPA refuses to change or cancel the condition as requested by the consent holder.
 
+### Subpart 2A — Marine discharge consents and marine dumping consents
+
+### 87A Application
+(1) This subpart applies in relation to an activity described in subpart 2 of Part 2.
+(2) Subpart 2 of this Part applies in relation to an activity described in subsection (1) only as set out in this subpart.
+
+### 87B Application for marine discharge consent or marine dumping consent
+(1) Any person may apply to the Environmental Protection Authority for a marine discharge consent or a marine dumping consent to undertake a discretionary activity.
+(2) An application must—
+  (a) be made in the prescribed form; and
+  (b) fully describe the proposal; and
+  (c) include an impact assessment prepared in accordance with section 39 and any regulations.
+
+### 87C Process before Environmental Protection Authority makes decision
+(1) Sections 40 to 58 apply to an application made under section 87B.
+(2) However, section 43(3) applies as if the reference to section 59 were a reference to section 87D.
+
+### 87D Environmental Protection Authority's consideration of application
+(1) This section and sections 87E and 87F apply when the Environmental Protection Authority is considering an application for a marine discharge consent or a marine dumping consent and submissions on the application.
+(2) The EPA must take into account,—
+  (a) in relation to the discharge of harmful substances,—
+    (i) the matters described in section 59(2), except paragraph (c); and
+    (ii) the effects on human health of the discharge of harmful substances if consent is granted; and
+  (b) in relation to the dumping of waste or other matter,—
+    (i) the matters described in section 59(2), except paragraphs (c), (f), (g), and (i); and
+    (ii) the effects on human health of the dumping of waste or other matter if consent is granted; and
+    (iii) any alternative methods of disposal that could be used; and
+    (iv) whether there are practical opportunities to reuse, recycle, or treat the waste.
+(3) Section 59(3) applies to the application for a marine discharge consent or a marine dumping consent.
+
+### 87E Information principles relating to discharges and dumping
+(1) When considering an application for a marine dumping consent or a marine discharge consent, the Environmental Protection Authority must—
+  (a) make full use of its powers to request information from the applicant, obtain advice, and commission a review or a report; and
+  (b) base decisions on the best available information; and
+  (c) take into account any uncertainty or inadequacy in the information available.
+(2) If, in relation to making a decision on the application, the information available is uncertain or inadequate, the EPA must favour caution and environmental protection.
+(3) In this section, best available information means the best information that, in the particular circumstances, is available without unreasonable cost, effort, or time.
+
+### 87F Decision on application for marine discharge consent or marine dumping consent
+(1) After complying with sections 87D and 87E, the Environmental Protection Authority may—
+  (a) grant an application for a marine discharge consent or a marine dumping consent, in whole or in part, and issue a consent; or
+  (b) refuse the application.
+(2) However, the EPA must refuse an application for a marine dumping consent if—
+  (a) the EPA considers that the waste or other matter may be reused, recycled, or treated without—
+    (i) adverse effects on human health or the environment that are more than minor; or
+    (ii) imposing costs on the applicant that are unreasonable in the circumstances; or
+  (b) the waste or other matter is identified in such a way that it is not possible to assess the potential effects of dumping the waste or other matter on human health or the environment; or
+  (c) the EPA considers that dumping the waste or other matter is not the best approach to the disposal of the waste or other matter in the circumstances.
+(3) To avoid doubt, the EPA may refuse an application for a marine discharge consent or a marine dumping consent if the EPA considers that it does not have adequate information to determine the application.
+(4) If the EPA grants the application, it may issue the consent subject to conditions under section 63, but not under section 63(2)﻿(b).
+
+### 87G Conditions and decision-making process
+The following provisions apply to a marine dumping consent or a marine discharge consent granted under section 87F:
+  (a) sections 65 to 67, which relate to conditions:
+  (b) sections 68 to 72, which relate to time limits for making decisions, the form and notification of the decision, commencement of the consent, and the nature of the consent.
+
+### 87H Duration of marine discharge consents and marine dumping consents
+(1) The duration of a marine discharge consent or a marine dumping consent is the term specified in the consent.
+(2) However, the duration must not be more than 35 years.
+(3) If no duration is specified in a consent, its duration is 5 years.
+(4) When determining the duration of a consent, the Environmental Protection Authority must comply with sections 73(2)﻿(b) and (c), 87D, and 87E.
+
+### 87I Exercise of consents, transfer, review, and minor changes
+(1) The following provisions apply to a marine dumping consent or a marine discharge consent granted under section 87F:
+  (a) sections 74 and 75, which relate to the exercise of a consent while applying for a new consent and the transfer of consents:
+  (b) sections 76 to 82, which relate to the review of the conditions and duration of consents:
+  (c) sections 83 to 86, which relate to minor changes and corrections to consent conditions, and the lapsing and cancellation of consents not exercised.
+(2) However,—
+  (a) section 80(a) applies as if—
+    (i) the reference to sections 59 and 60 were a reference to section 87D; and
+    (ii) the reference to section 61 were a reference to section 87E; and
+  (b) section 81(2) applies as if Sections 63 to 71 were replaced with Sections 63 (but not subsection (2)﻿(b)) and 65 to 71.
+
+### 87J Change or cancellation of marine dumping consent or marine discharge consent on application by consent holder
+(1) The holder of a marine dumping consent or a marine discharge consent granted under section 87F may request the Environmental Protection Authority to change or cancel a condition of the consent.
+(2) Sections 87B to 87G apply, with all necessary modifications, as if—
+  (a) the request were an application for a marine dumping consent or a marine discharge consent; and
+  (b) the references to a marine dumping consent or a marine discharge consent were references only to the change or cancellation of a condition; and
+  (c) the references to the activity were references only to the effects of the change or cancellation.
+(3) Section 87(3) to (6) apply to the request.
+
 ### Subpart 3 — Marine consents for cross-boundary activities
 
 ### 88 Interpretation
@@ -1539,36 +1770,30 @@ No person may serve an abatement notice on a person in respect of anything done 
 ### 131 Proceedings in Environment Court
 Sections 299 to 308 of the Resource Management Act 1991 apply to proceedings in the Environment Court under this Act.
 
-**Offences and penalties**
+**Offences and defences in relation to activities regulated under section 20**
 
-### 132 Offences
-(1) A person commits an offence against this Act who breaches, or permits a breach of, any of the following:
-  (a) section 20 (which imposes restrictions on activities):
-  (b) an enforcement order:
-  (c) an abatement notice:
-  (d) section 24 or 167 (which require a person to comply with the EPA's instructions when stopping an activity).
-(2) A person commits an offence against this Act who breaches, or permits a breach of, any of the following:
-  (a) a requirement under section 35(3) to notify the Environmental Protection Authority of permitted activities to be undertaken:
-  (b) a requirement to provide certain information to an enforcement officer under section 140:
-  (c) a direction given by the EPA under section 158 in relation to the protection of sensitive information:
-  (d) an order (other than an enforcement order) made by the Environment Court or the High Court.
-(3) Every person commits an offence against this Act who—
-  (a) wilfully obstructs, hinders, resists, or deceives any person in the execution of any powers conferred on that person by or under this Act; or
-  (b) contravenes or permits a contravention of any summons or order to give evidence issued or made under section 55.
+### 132 Offences in relation to activities regulated under section 20
+(1) This section applies if an activity described in section 20(2) or (4) is carried out in breach of section 20(1) or (3) (as applicable).
+(2) The following persons commit an offence:
+  (a) if the activity involves a structure, the owner of the structure:
+  (b) if the activity involves a ship, the master and owner of the ship:
+  (c) if the activity involves a submarine pipeline, the owner of the pipeline:
+  (d) if the activity involves a submarine cable, the owner of the cable:
+  (e) if the activity is one described in section 20(2)﻿(d) to (g), the person who carried out the activity:
+  (f) if the activity is one described in section 20(4)﻿(b) or (c), the person who carried out the activity.
+(3) In this section and sections 134 and 134B to 134D, owner,—
+  (a) in relation to a ship, includes—
+    (i) a person who is the legal or equitable owner, or both, of the ship; and
+    (ii) a person in possession of the ship; and
+    (iii) a charterer, a manager, or an operator of the ship, or any other person (other than a pilot) responsible for the navigation or management of the ship:
+  (b) in relation to an offshore installation, includes—
+    (i) the person having a right, privilege, or licence to explore for or exploit minerals in connection with which the installation is being, has been, or is to be used; and
+    (ii) the manager, lessee, licensee, or operator of the installation; and
+    (iii) any agent or employee of the owner, manager, lessee, licensee, or operator of the installation, or the person in charge of any operations connected with the installation:
+  (c) in relation to a structure other than an offshore installation, includes any manager, lessee, licensee, or operator of the structure, or the person in charge of the structure:
+  (d) in relation to a submarine pipeline or submarine cable, includes any manager, lessee, licensee, or operator of the pipeline or cable.
 
-### 133 Penalties
-(1) A person who commits an offence against section 132(1) is liable on conviction,—
-  (a) in the case of a natural person, to a fine not exceeding $300,000:
-  (b) in the case of a person other than a natural person, to a fine not exceeding $10 million.
-(2) Every person who commits an offence against section 132(1) is also liable on conviction, if the offence is a continuing one, to a fine not exceeding $10,000 for every day or part of a day during which the offence continues.
-(3) A person who commits an offence against section 132(2) is liable on conviction to a fine not exceeding $10,000, and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
-(4) A person who commits an offence against section 132(3) is liable on conviction to a fine not exceeding $1,500.
-(5) If a person is convicted of an offence against section 132, the court may, instead of or in addition to imposing a fine, make 1 or more of the following orders:
-  (a) an order specified in section 115:
-  (b) an order requiring the Environmental Protection Authority to serve notice, under section 76(2), of the review of a marine consent held by the person, but only if the offence involves an act or omission that breaches the consent.
-(6) The continued existence of anything, or the intermittent repetition of any actions, contrary to any provision of this Act is a continuing offence.
-
-### 134 Strict liability and defences
+### 133 Strict liability and defences
 (1) In a prosecution for an offence of breaching, or permitting a breach of, section 20, it is not necessary to prove that the defendant intended to commit the offence.
 (2) It is a defence to a prosecution of the kind referred to in subsection (1) if the defendant proves—
   (a) that—
@@ -1582,6 +1807,119 @@ Sections 299 to 308 of the Resource Management Act 1991 apply to proceedings in 
   (a) stating that the defendant intends to rely on subsection (2); and
   (b) specifying the facts that support his or her reliance on subsection (2).
 (4) However, the court may grant leave to the defendant to rely on subsection (2) even if the defendant does not comply with subsection (3).
+
+**Offences and defences in relation to discharge or escape of harmful substances**
+
+### 134 Offences in relation to discharge of harmful substances
+(1) This section applies if a harmful substance is discharged into the sea or onto or into the seabed in breach of 1 or more of sections 20B and 20C.
+(2) The following persons commit an offence:
+  (a) if the discharge is from an offshore installation, the owner of the offshore installation:
+  (b) if the discharge is from a submarine pipeline, the owner of the pipeline:
+  (c) if the discharge is from a ship, the master and the owner of the ship:
+  (d) if the discharge is as a result of mining activity, the person in charge of and the person carrying on the mining activity:
+  (e) if the discharge is of a kind referred to in paragraph (a), (b), or (c), and results from intentional damage caused by a person not referred to in that paragraph, the person who committed the damage.
+
+### 134A Defence
+It is a defence to proceedings for an offence against section 134 if the defendant proves that—
+  (a) the harmful substance was discharged for the purpose of securing the safety of a ship or offshore installation or for the purpose of saving life, and the discharge was a reasonable step to take to effect that purpose; or
+  (b) the harmful substance escaped as a consequence of damage to the ship or its equipment, to an offshore installation or its equipment, to a pipeline, or to any apparatus (other than a ship) used in connection with any mining activity and—
+    (i) the damage occurred without the negligence or deliberate act of the defendant; and
+    (ii) as soon as practicable after the damage occurred, all reasonable steps were taken to prevent the escape of the harmful substance or, if any escape could not be prevented, to minimise the escape.
+
+**Offences and defences in relation to dumping**
+
+### 134B Offences in relation to dumping of radioactive waste or other radioactive matter
+The following persons each commit an offence if radioactive waste or other radioactive matter is dumped in breach of section 20E:
+  (a) the master and the owner of a ship, if the dumping is from the ship:
+  (b) the person in possession of, and the owner of, an aircraft, if the dumping is from the aircraft:
+  (c) the owner of an offshore installation, if the dumping is from the offshore installation.
+
+### 134C Offences in relation to dumping of toxic or hazardous waste
+The following persons each commit an offence if toxic or hazardous waste is dumped in breach of section 20F:
+  (a) the master and the owner of a ship, if the dumping is from the ship:
+  (b) the person in possession of, and the owner of, an aircraft, if the dumping is from the aircraft:
+  (c) the owner of an offshore installation, if the dumping is from the offshore installation.
+
+### 134D Offences in relation to dumping and incineration of waste and other matter
+(1) The master and the owner of a ship each commits an offence if—
+  (a) waste or other matter is dumped from the ship in breach of section 20G; or
+  (b) the ship is dumped in breach of section 20G.
+(2) The person in possession of, and the owner of, an aircraft each commits an offence if—
+  (a) waste or other matter is dumped from the aircraft in breach of section 20G; or
+  (b) the aircraft is dumped in breach of section 20G.
+(3) The owner of an offshore installation commits an offence if—
+  (a) waste or other matter is dumped from the offshore installation in breach of section 20G; or
+  (b) the offshore installation is dumped in breach of section 20G.
+(4) The following persons each commit an offence if waste or other matter is incinerated at sea in breach of section 20I:
+  (a) the owner and master of a ship, if the incineration occurs on the ship; or
+  (b) the owner of a structure, if the incineration occurs on the structure.
+(5) The following persons each commit an offence if human remains are disposed of in breach of section 20J:
+  (a) the owner and master of a ship, if the remains are disposed of from the ship:
+  (b) the person in possession of, and the owner of, an aircraft, if the remains are disposed of from the aircraft:
+  (c) the owner of a structure, if the remains are disposed of from the structure.
+
+### 134E Defence in relation to dumping of waste or other matter
+In a prosecution for an offence against section 134D, it is a defence if the defendant proves that the act or omission that is alleged to constitute the offence—
+  (a) was necessary—
+    (i) to save or prevent danger to human health or safety, or the marine environment; or
+    (ii) to avert a serious threat to the ship, aircraft, or offshore installation; or
+    (iii) in the case of force majeure caused by stress of weather, to secure the safety of the ship, aircraft, or offshore installation; and
+  (b) was a reasonable step to take in all the circumstances; and
+  (c) was likely to result in less damage than would otherwise have occurred; and
+  (d) was taken or omitted in such a way that the likelihood of damage to human or marine life was minimised.
+
+**Other offences**
+
+### 134F Offence in relation to enforcement order, abatement notice, section 24, or section 167
+A person commits an offence against this Act who breaches, or permits a breach of, any of the following:
+  (a) an enforcement order or an abatement notice:
+  (b) section 24 or 167 (which require a person to comply with the EPA’s instructions when stopping an activity).
+
+### 134G Other offences
+(1) A person commits an offence against this Act who breaches, or permits a breach of, any of the following:
+  (a) a requirement under section 35(3) to notify the Environmental Protection Authority of a permitted activity to be undertaken:
+  (b) a requirement to provide certain information to an enforcement officer under section 140:
+  (c) a direction given by the EPA under section 158 in relation to the protection of sensitive information:
+  (d) an order (other than an enforcement order) made by the Environment Court or the High Court.
+(2) A person commits an offence against this Act who—
+  (a) wilfully obstructs, hinders, resists, or deceives any person in the execution of a power conferred on that person by or under this Act; or
+  (b) contravenes or permits a contravention of a summons or order to give evidence issued or made under section 55.
+
+**Penalties**
+
+### 134H Penalties
+(1) A person who commits an offence against this Act (other than against section 134G) is liable on conviction,—
+  (a) in the case of a natural person, to a fine not exceeding $300,000:
+  (b) in the case of a person other than a natural person, to a fine not exceeding $10 million.
+(2) The person is also liable on conviction, if the offence is a continuing one, to a fine not exceeding $10,000 for every day or part of a day during which the offence continues.
+(3) The continued existence of anything, or the intermittent repetition of any actions, contrary to any provision of this Act is a continuing offence.
+
+### 134I Additional penalties for discharge and dumping offences
+A person who commits an offence against section 134, 134B, 134C, or 134D is also liable on conviction to pay such amounts as the court may assess in respect of the costs incurred in respect of or associated with—
+  (a) removing, containing, rendering harmless, or dispersing any harmful substance to which the offence relates; and
+  (b) removing or dispersing any waste or other matter to which the offence relates.
+
+### 134J Penalties for section 134G offences
+(1) A person who commits an offence against section 134G(1) is liable on conviction to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
+(2) A person who commits an offence against section 134G(2) is liable on conviction to a fine not exceeding $1,500.
+
+### 134K Court orders
+(1) This section applies if a person is convicted of an offence against this Act.
+(2) The court may, instead of or in addition to imposing a fine, make 1 or more of the following orders:
+  (a) an order specified in section 115:
+  (b) an order requiring the Environmental Protection Authority to serve notice, under section 76(2), of the review of a marine consent held by the person, but only if the offence involves an act or omission that breaches the consent.
+
+### 134L Additional penalty for offence involving commercial gain
+(1) A court may order a person convicted of an offence against this Act to pay an amount not exceeding 3 times the value of any commercial gain resulting from the commission of the offence if the court is satisfied that the offence was committed in the course of producing commercial gain.
+(2) The penalty imposed under subsection (1) is in addition to any other penalty the court may impose under this Act.
+(3) The court must assess the value of any gain for the purpose of subsection (1).
+(4) The amount of the additional penalty imposed under subsection (1) is recoverable in the same manner as a fine.
+
+### 134M Application of fines for discharge and dumping offences
+(1) A court that convicts a person for an offence against section 134, 134B, 134C, or 134D may order that the whole or part of the fine, or other monetary penalty, imposed on the person under this Act be paid to another person specified by the court.
+(2) The specified person must apply the money towards meeting the costs of either or both—
+  (a) removing, containing, rendering harmless, or dispersing the harmful substance or waste or other matter:
+  (b) repairing the damage resulting from the discharge of the harmful substance or dumping of waste or matter.
 
 ### 135 Liability of principal for acts of agents
 (1) The consequence specified in subsection (2) applies if a person (the agent) commits an offence against this Act while—
@@ -1602,7 +1940,18 @@ Sections 299 to 308 of the Resource Management Act 1991 apply to proceedings in 
   (b) he or she knew, or could reasonably be expected to have known, that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
 ### 136 Commencement of offence proceedings
-Only an enforcement officer may file a charging document in respect of an offence under this Act.
+Only an enforcement officer may file a charging document in respect of an offence against this Act.
+
+### 136A Commencement of proceedings against natural person
+(1) Criminal proceedings may not be commenced against a natural person in relation to an offence under this Act unless—
+  (a) the natural person is—
+    (i) a New Zealand citizen; or
+    (ii) a person who is ordinarily resident in New Zealand; or
+  (b) in the case of any other person, the Attorney-General consents to the commencement of the proceedings and certifies that it is expedient to do so.
+(2) However, before the Attorney-General's consent has been obtained,—
+  (a) a person described in subsection (1)﻿(b) may be arrested or a warrant for the person's arrest may be issued and executed; and
+  (b) the person may be remanded in custody or on bail.
+(3) This section overrides any other enactment that is inconsistent with this section.
 
 ### 137 Limitation period
 (1) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the breach giving rise to the offence first became known, or should have become known, to the enforcement officer.
@@ -1928,6 +2277,44 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
   (b) was lawfully established before the Act comes into force.
 (2) The activity may continue for a prescribed period.
 (3) Subsection (2) overrides sections 20 and 37(3).
+
+**Transitional provisions relating to discharges and dumping**
+
+### 164A Dumping permits issued under Maritime Transport Act 1994
+A permit issued before the commencement of this section by the Director of Maritime New Zealand under section 262 of the Maritime Transport Act 1994 must be treated as if it were a marine dumping consent granted under section 87F of this Act on the same terms and conditions as apply to the permit.
+
+### 164B Provisions of discharge management plans approved under Maritime Transport Act 1994 become marine discharge consents
+(1) This section applies to a discharge management plan for an offshore installation approved before the commencement of this section by the Director of Maritime New Zealand in accordance with rule 200.7 of Part 200 of the Marine Protection Rules.
+(2) The provisions of the discharge management plan that specify the following matters must be treated as if they were a marine discharge consent granted under section 87F for a term that is the same as the remaining duration of the discharge management plan:
+  (a) harmful substances that may be discharged in accordance with the discharge management plan:
+  (b) a method for continuously measuring the oil content of production water, displacement water, or offshore processing drainage discharged from the offshore installation:
+  (c) procedures for reporting oil spills:
+  (d) environmental monitoring methods for identifying the environmental impacts of discharges:
+  (e) matters described in clause 1(2) to (6) of Schedule 1 of Part 200 of the Marine Protection Rules as if the words in a form acceptable to the Director were replaced with in the prescribed form:
+  (f) matters described in Schedule 2 of Part 200 of the Marine Protection Rules other than in clause 5(f).
+(3) Part 200 of the Marine Protection Rules does not apply to the provisions of the discharge management plan that are to be treated as a marine discharge consent under subsection (2).
+(4) Despite subsection (3), the following marine protection rules, as they were on the day before this section comes into force, must be treated as if they were conditions of the consent:
+  (a) rule 200.13:
+  (b) rule 200.14(1), (2), and (5)﻿(a), as if a reference to the Director in those provisions were a reference to the Environmental Protection Authority, and (8):
+  (c) rule 200.15:
+  (d) rule 200.16(1):
+  (e) rule 200.17, as if the reference to rule 200.19 were a reference to that rule as it was before this section comes into force:
+  (f) rule 200.18:
+  (g) rule 200.22, as if—
+    (i) the words in a form approved by the Director in subrule (1) were replaced with in the prescribed form:
+    (ii) the reference in subrule (4) to the Director were a reference to the Environmental Protection Authority:
+  (h) rule 200.23(1) and (3), as if in each case paragraph (b) were replaced with:
+    (b) the Environmental Protection Authority and the Director, if the spill occurs in the exclusive economic zone; or
+    (c) the Director, if the spill occurs beyond the exclusive economic zone,
+  (i) rule 200.24 as if the reference to the Director in subrule (2)﻿(a) included a reference to the Environmental Protection Authority:
+  (j) rule 200.25 as if the reference to the Director in subrule (2) were a reference to the Environmental Protection Authority.
+(5) The marine protection rules described in subsection (4) and treated as conditions of a marine discharge consent by that subsection may be amended, cancelled, or replaced as if they were conditions imposed under this Act.
+
+### 164C Completion of certain matters pending at commencement of sections 164A and 164B
+(1) If a person makes an application for a permit under section 262 of the Maritime Transport Act 1994 and it has not been decided before section 164A comes into force, the application is to be continued and completed under that Act as it was before section 164A comes into force.
+(2) Section 164A applies to a permit issued after being continued and completed under subsection (1).
+(3) If a person makes an application for the approval of a discharge management plan under rule 200.5 of Part 200 of the Marine Protection Rules and that application has not been decided before section 164B comes into force, the application is to be continued and completed under the marine protection rules as they were before section 164B comes into force.
+(4) Section 164B applies to a discharge management plan approved after being continued and completed under subsection (3).
 
 **Mineral prospecting and exploration under Continental Shelf Act 1964**
 
