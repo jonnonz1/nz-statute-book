@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-11-01_
 
 > An Act to reform the administration of education
 
@@ -1924,7 +1924,7 @@ Notwithstanding sections 79 to 81,—
 
 ### 91A Interpretation
 (1) In this Part, unless the context otherwise requires,—
-  - **application period** means the period commencing on the commencement of the Education Amendment Act 1992, and ending with 31 December 2015 (as from time to time extended under section 91M(1))
+  - **application period** means the period commencing on the commencement of the Education Amendment Act 1992, and ending with 31 December 2018 (as from time to time extended under section 91M(1))
   - **board** means a board of trustees constituted under Part 9; and, in relation to a school, means the school's board
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
