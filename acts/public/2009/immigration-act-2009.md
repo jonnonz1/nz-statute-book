@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2015-06-06_
+_Consolidation as at 2015-11-06_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -231,7 +231,8 @@ In this Act, unless the context otherwise requires,—
     (b) includes restricted temporary entry instructions
   - **territorial sea of New Zealand** has the same meaning as in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **transit instructions** means immigration instructions that relate to the grant of transit visas
-  - **transit period** means the period prescribed for the purposes of section 88(1)
+  - **transit passenger** means a person who arrives in New Zealand from another country while in transit to another overseas destination, not intending to enter or remain in New Zealand
+  - **transit period** means the period prescribed in accordance with section 401(d) for the purpose of section 86A
   - **travelling to New Zealand** includes, but is not limited to, travelling to New Zealand from another country in transit to another destination outside New Zealand
   - **Tribunal** means the Immigration and Protection Tribunal established by section 217
   - **turnaround** means to effect, under section 178(2), the departure from New Zealand of a person to whom section 115 applies, as if the person were a person who had been served with a deportation order
@@ -1240,19 +1241,20 @@ The following persons may apply for a limited visa:
   (b) expires at the end of the period of 3 months following the day on which it was made, unless sooner cancelled by the Minister by a further special direction, or by regulations; and
   (c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (6) A special direction made under subsection (4) may not be effectively continued in force by the making of a further special direction to the same or similar effect.
-(7) In this section, transit passenger means a person who—
-  (a) arrives in New Zealand from another country while in transit to another overseas destination; and
-  (b) throughout the entire period during which he or she is in New Zealand, remains—
-    (i) on board the craft concerned; or
-    (ii) in an immigration control area; or
-    (iii) in the custody of the Police.
+(7)
+
+### 86A Obligation of transit passenger
+(1) During the transit period applying to a transit passenger, the transit passenger must remain—
+  (a) on the craft concerned; or
+  (b) in an immigration control area; or
+  (c) in the custody of the Police.
+(2) If a transit passenger fails to comply with subsection (1), the relevant transit period immediately expires (and section 115(1)﻿(f) therefore applies).
 
 ### 87 Transit visa may be granted as exception to immigration instructions
 The Minister or an immigration officer may, in his or her absolute discretion, grant a transit visa to a person as an exception to immigration instructions.
 
-### 88 Currency and nature of transit visa
-(1) Regulations made under section 400 may prescribe the period for which a person may be in New Zealand as the holder of a transit visa.
-(2) A transit visa is current for the period or until the date specified in it, and may be expressed to be effective for any number of journeys to New Zealand in that period or before that date.
+### 88 Currency of transit visa
+A transit visa is current for the period or until the date specified in it, and may be expressed to be effective for any number of journeys to New Zealand in that period or until that date.
 
 ### 89 Limitations on holders of transit visa
 (1) The holder of a transit visa may not apply for entry permission or any class or type of visa while in New Zealand during the transit period.
@@ -1262,10 +1264,9 @@ The Minister or an immigration officer may, in his or her absolute discretion, g
 An immigration officer may cancel a transit visa at any time but, if he or she cancels the visa after the holder of the visa has arrived in New Zealand, the person is liable for turnaround.
 
 ### 91 Expiry of transit period
-(1) Where the holder of a transit visa is still in New Zealand on the expiry of the transit period, an immigration officer may, in his or her absolute discretion,—
-  (a) extend the period for which the person may remain in New Zealand as the holder of the visa; or
-  (b) grant the person a visa and entry permission.
-(2) If the immigration officer does neither of the things referred to in subsection (1), the person is liable for turnaround.
+At any time before the transit period of a transit passenger expires, an immigration officer may, in his or her absolute discretion,—
+  (a) extend the transit passenger's transit period beyond the transit period prescribed under section 401(d); or
+  (b) grant the transit passenger a visa and entry permission.
 
 **Invitation to apply for visa**
 
@@ -1424,7 +1425,7 @@ An immigration officer may cancel a transit visa at any time but, if he or she c
     (i) the person is a New Zealand citizen and holds and produces a New Zealand passport; or
     (ii) the person is a New Zealand citizen and holds and produces a foreign passport containing an endorsement of a type described in section 384; or
     (iii) the person is a New Zealand citizen and holds and produces a foreign passport containing a returning resident's visa (within the meaning of section 2(1) of the former Act); or
-    (iv) the person is a transit passenger (within the meaning of section 86(7)):
+    (iv) the person is a transit passenger who holds a transit visa or is a person to whom a transit visa waiver applies:
   (da) to produce, on demand by an immigration officer, the person's passport or certificate of identity and any travel tickets held by the person:
   (e) in the case of a New Zealand citizen who is entering New Zealand as a New Zealand citizen, to comply with any requirements prescribed for the purpose of confirming the person’s status as a New Zealand citizen:
   (f) to comply with any direction of an immigration officer to remain in the immigration control area or other prescribed place, or a specified part of the area or place:
@@ -1597,7 +1598,7 @@ A constable may arrest a person, and present him or her to an immigration office
     (ii) the visa is cancelled under section 67 while the person is in an immigration control area (unless some other visa is granted to the person or the person is a New Zealand citizen); or
   (d) is a stowaway; or
   (e) after arriving in New Zealand, is a person whose transit visa is cancelled by an immigration officer under section 90; or
-  (f) is the holder of a transit visa and the transit period concerned has expired.
+  (f) is a transit passenger who holds a transit visa or is a person to whom a transit visa waiver applies, and the transit period concerned has expired.
 (2) The person—
   (a) is, for the purposes of this Act, unlawfully in New Zealand; and
   (b) does not have any rights of appeal on humanitarian grounds so long as this section applies to the person; and
@@ -5425,7 +5426,7 @@ Without limiting section 400, regulations made under that section may—
     (i) at a place designated by the chief executive under section 383; or
     (ii) on arrival in New Zealand at an immigration control area or other prescribed place:
   (c) classify persons to whom a transit visa waiver applies for the purposes of section 86:
-  (d) prescribe the period for which a person may be in New Zealand as the holder of a transit visa for the purposes of section 88(1):
+  (d) prescribe 1 or more transit periods, and different periods may be prescribed for the holders of transit visas and persons to whom a transit visa waiver applies:
   (e) prescribe the manner in which an expression of interest must be made for the purposes of section 92(1).
 
 ### 402 Regulations relating to procedures and requirements in relation to arrivals in and departures from New Zealand
