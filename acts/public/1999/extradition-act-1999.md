@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2015-11-07_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -66,7 +66,7 @@ In this Act, a person is an extraditable person in relation to an extradition co
 (1) In this Act, extradition offence means, subject to an extradition treaty,—
   (a) in relation to an extradition country, an offence punishable under the law of the extradition country for which the maximum penalty is imprisonment for not less than 12 months or any more severe penalty, and which satisfies the condition in subsection (2):
   (b) in relation to a request by New Zealand, an offence punishable under the law of New Zealand for which the maximum penalty is imprisonment for not less than 12 months or any more severe penalty.
-(2) The condition referred to in subsection (1)(a) is that if the conduct of the person constituting the offence in relation to the extradition country, or equivalent conduct, had occurred within the jurisdiction of New Zealand at the relevant time it would, if proved, have constituted an offence punishable under the law of New Zealand for which the maximum penalty is imprisonment for not less than 12 months or any more severe penalty.
+(2) The condition referred to in subsection (1)﻿(a) is that if the conduct of the person constituting the offence in relation to the extradition country, or equivalent conduct, had occurred within the jurisdiction of New Zealand at the relevant time it would, if proved, have constituted an offence punishable under the law of New Zealand for which the maximum penalty is imprisonment for not less than 12 months or any more severe penalty.
 (3) For the purposes of determining whether the condition in subsection (2) is satisfied in relation to a particular application for surrender of a person, the relevant time referred to in subsection (2) is the time at which the conduct is alleged to have occurred.
 (4) In determining the maximum penalty for an offence against the law of any foreign country for which no statutory penalty is imposed, regard must be had to the level of penalty that can be imposed by a court for the offence.
 
@@ -124,8 +124,8 @@ This Act binds the Crown.
 (1) If there is an extradition treaty in force between New Zealand and an extradition country, the provisions of this Act must be construed to give effect to the treaty.
 (2) Despite subsection (1), no treaty may be construed to override—
   (a) section 7; or
-  (b) section 24(2)(d) or section 45(5); or
-  (c) subsection (2)(b) or subsection (3)(a) of section 30 (including where those provisions are applied under section 49); or
+  (b) section 24(2)﻿(d) or section 45(5); or
+  (c) subsection (2)﻿(b) or subsection (3)﻿(a) of section 30 (including where those provisions are applied under section 49); or
   (d) any provision conferring a particular function or power on the Minister or a court.
 (3) This section is subject to section 105.
 
@@ -245,7 +245,7 @@ This Part applies to—
   (c) if the court does not receive the notice—the court must discharge the person:
     (i) within the time prescribed in an extradition treaty that is in force between the extradition country and New Zealand; or
     (ii) if no time is prescribed in a treaty, or no treaty is in force, within such reasonable time as the court may fix,—
-  (d) the court may from time to time, in its discretion, extend any time fixed by it under paragraph (c)(ii).
+  (d) the court may from time to time, in its discretion, extend any time fixed by it under paragraph (c)﻿(ii).
 (5) In subsection (3),—
   (a) section 31 of the Bail Act 2000 must be read as it read immediately before section 7 of the Bail Amendment Act 2011 came into force; and
   (b) section 49 of the Bail Act 2000 must be read as it read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
@@ -263,7 +263,7 @@ This Part applies to—
     (ii) in the case of a person alleged to have been convicted of an extradition offence, prove that the person was so convicted.
 (3) The person is not eligible for surrender if the person satisfies the court—
   (a) that a mandatory restriction on the surrender of the person applies under section 7; or
-  (b) except in relation to a matter referred to in section 30(2)(ab), that the person's surrender would not be in accordance with the provisions of the treaty (if any) between New Zealand and the extradition country.
+  (b) except in relation to a matter referred to in section 30(2)﻿(ab), that the person's surrender would not be in accordance with the provisions of the treaty (if any) between New Zealand and the extradition country.
 (4) The court may determine that the person is not eligible for surrender if the person satisfies the court that a discretionary restriction on the surrender of the person applies under section 8.
 (5) Subsections (3) and (4) are subject to section 105.
 (6) Without limiting the circumstances in which the court may adjourn a hearing, if—the court may adjourn the hearing for such period as it considers reasonable to allow the deficiency or deficiencies to be remedied.
@@ -271,20 +271,20 @@ This Part applies to—
   (b) the court considers the deficiency or deficiencies to be minor in nature,—
 
 ### 25 Record of case may be submitted by exempted country at hearing
-(1) For the purposes of any determination under section 24(2)(d)(i), a record of the case may be submitted by or on behalf of an exempted country.
+(1) For the purposes of any determination under section 24(2)﻿(d)﻿(i), a record of the case may be submitted by or on behalf of an exempted country.
 (2) A record of the case must be prepared by an investigating authority or a prosecutor in an exempted country and must contain—
   (a) a summary of the evidence acquired to support the request for the surrender of the person; and
   (b) other relevant documents, including photographs and copies of documents.
 (3) The record of the case is admissible as evidence if it is accompanied by—
   (a) an affidavit of an officer of the investigating authority, or of the prosecutor, as the case may be, stating that the record of the case was prepared by, or under the direction of, that officer or that prosecutor and that the evidence has been preserved for use in the person's trial; and
   (b) a certificate by a person described in subsection (3A) stating that, in his or her opinion, the record of the case discloses the existence of evidence that is sufficient under the law of the exempted country to justify a prosecution in that country.
-(3A) A person referred to in subsection (3)(b) is—
+(3A) A person referred to in subsection (3)﻿(b) is—
   (a) the Attorney-General or principal law officer of the exempted country, or his or her deputy or delegate; or
   (b) any other person who has, under the law of the exempted country, control over the decision to prosecute.
 (4) Nothing in this section—
-  (a) prevents an exempted country from satisfying the test in section 24(2)(d)(i) in accordance with the provisions of this Act that are applicable to countries that are not exempted; or
+  (a) prevents an exempted country from satisfying the test in section 24(2)﻿(d)﻿(i) in accordance with the provisions of this Act that are applicable to countries that are not exempted; or
   (b) limits the evidence that may be admitted at any hearing to determine whether a defendant is eligible for surrender.
-(5) A court to which a certificate under subsection (3)(b) is produced must take judicial notice of the signature on it of a person described in subsection (3A).
+(5) A court to which a certificate under subsection (3)﻿(b) is produced must take judicial notice of the signature on it of a person described in subsection (3A).
 
 ### 26 Procedure following court's determination of whether person eligible for surrender
 (1) If the court determines under section 24 that the person is eligible for surrender, it must—
@@ -298,7 +298,7 @@ This Part applies to—
 (2) If the court issues a warrant under subsection (1), the court may grant bail to the person.
 (3) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of section 31 of the Bail Act 2000 (as applied by section 52 of that Act).
 (4) If the court is not satisfied under section 24 that the person is eligible for surrender, it must discharge the person unless under section 70(1) it orders that the person continue to be detained, or issues a warrant for the arrest and detention of the person, pending the determination of an appeal under Part 8.
-(5) Enactments other than this Act and its provisions that are specified in subsection (1)(a) must be read as they read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
+(5) Enactments other than this Act and its provisions that are specified in subsection (1)﻿(a) must be read as they read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
 (6) In subsection (3),—
   (a) section 31 of the Bail Act 2000 must be read as it read immediately before section 7 of the Bail Amendment Act 2011 came into force; and
   (b) section 52 of the Bail Act 2000 must be read as it read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
@@ -323,7 +323,7 @@ If the court orders the detention of the person at any time under this Part, but
 (4) Nothing in subsections (1) to (3) prevents a person from giving notice to the Minister after the court orders the detention of the person under section 26 that the person consents to surrender.
 (5) If the court issues a warrant under subsection (2), the court may grant bail to the person.
 (6) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of section 31 of the Bail Act 2000 (as applied by section 52 of that Act).
-(7) Enactments other than this Act and its provisions that are specified in subsection (2)(a) must be read as they read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
+(7) Enactments other than this Act and its provisions that are specified in subsection (2)﻿(a) must be read as they read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
 (8) In subsection (6),—
   (a) section 31 of the Bail Act 2000 must be read as it read immediately before section 7 of the Bail Amendment Act 2011 came into force; and
   (b) section 52 of the Bail Act 2000 must be read as it read immediately before the commencement date as defined in section 394 of the Criminal Procedure Act 2011.
@@ -336,7 +336,7 @@ If the court orders the detention of the person at any time under this Part, but
     (i) the court determines under section 24 that a person is eligible for surrender to an extradition country in relation to an extradition offence or extradition offences; or
     (ii) a person consents under section 28 to being surrendered to an extradition country in relation to an extradition offence or extradition offences; and
   (b) the extradition country has requested that the person also be surrendered for an offence that is not an extradition offence or offences that are not extradition offences,—
-(2) If the person gives his or her consent under this section to being surrendered for an offence or offences referred to in subsection (1)(b), the court must notify the Minister in writing of the offence or offences in respect of which the person has consented.
+(2) If the person gives his or her consent under this section to being surrendered for an offence or offences referred to in subsection (1)﻿(b), the court must notify the Minister in writing of the offence or offences in respect of which the person has consented.
 (3) The court must not notify the Minister under subsection (2) unless—
   (a) the person was before the court when he or she consented to surrender for the offence or offences; and
   (b) the person has been legally represented in the proceedings; and
@@ -345,7 +345,7 @@ If the court orders the detention of the person at any time under this Part, but
 **Surrender and temporary surrender**
 
 ### 30 Minister must determine whether person to be surrendered
-(1) If the court issues a warrant for the detention of a person under section 26(1)(a) or section 28(2)(a), the Minister must determine in accordance with this section whether the person is to be surrendered.
+(1) If the court issues a warrant for the detention of a person under section 26(1)﻿(a) or section 28(2)﻿(a), the Minister must determine in accordance with this section whether the person is to be surrendered.
 (2) The Minister must not determine that the person is to be surrendered—
   (a) if the Minister is satisfied that a mandatory restriction on the surrender of the person applies under section 7; or
   (ab) if the Minister is satisfied that a mandatory restriction on the surrender of the person applies under the provisions of the treaty (if any) between New Zealand and the extradition country; or
@@ -365,7 +365,7 @@ If the court orders the detention of the person at any time under this Part, but
     (iii) if there is no applicable treaty or Order in Council in relation to the extradition country, any undertakings or arrangement in relation to extradition between New Zealand and the extradition country do not preclude the surrender of New Zealand citizens—
   (d) without limiting section 32(4), it appears to the Minister that compelling or extraordinary circumstances of the person including, without limitation, those relating to the age or health of the person, exist that would make it unjust or oppressive to surrender the person; or
   (e) for any other reason the Minister considers that the person should not be surrendered.
-(4) Subsection (3)(c) applies even if the person is a citizen of both New Zealand and the extradition country.
+(4) Subsection (3)﻿(c) applies even if the person is a citizen of both New Zealand and the extradition country.
 (5) The Minister must not determine that the person is to be surrendered unless by virtue of—the person, after being surrendered to the country, will not, unless the person has left or had the opportunity of leaving the country,—
   (a) the law of the extradition country; or
   (b) a provision of an extradition treaty in force between New Zealand and the extradition country; or
@@ -379,7 +379,7 @@ If the court orders the detention of the person at any time under this Part, but
 (6) For the purposes of determining under this section whether the person is to be surrendered, the Minister may seek any undertakings from the extradition country that the Minister thinks fit.
 
 ### 31 Surrender order
-(1) If the Minister determines under section 30 that the person is to be surrendered, the Minister must, subject to section 32(2)(b) and unless the Minister makes a temporary surrender order, make a surrender order in respect of the person.
+(1) If the Minister determines under section 30 that the person is to be surrendered, the Minister must, subject to section 32(2)﻿(b) and unless the Minister makes a temporary surrender order, make a surrender order in respect of the person.
 (2) The Minister must not make a surrender order in respect of a person—whichever is the later.
   (a) until the expiration of 15 days after the date of the issue of the warrant of detention of that person under section 26; or
   (b) if an appeal, or an application for review or habeas corpus, in respect of a determination under this Act, or any appeal from such an appeal or application, is pending, until after the date that the proceedings are finally determined and the result is that the person is eligible to be surrendered,—
@@ -419,12 +419,12 @@ If the court orders the detention of the person at any time under this Part, but
     (iii) the custody of the person while travelling to and from and while in the extradition country; and
     (iv) other matters (if any) that the Minister thinks appropriate.
 (3) If a person who is subject to a sentence of imprisonment is released from a New Zealand prison under a temporary surrender order made under this section, so long as the person is in custody in connection with the request (including custody outside New Zealand), the person is deemed to be continuing to serve that sentence.
-(4) If, while a person is in the extradition country under the temporary surrender order, the person ceases to be liable to be detained in New Zealand, the Minister must inform the extradition country that the undertakings referred to in subsection (2)(b) are no longer required to be complied with.
+(4) If, while a person is in the extradition country under the temporary surrender order, the person ceases to be liable to be detained in New Zealand, the Minister must inform the extradition country that the undertakings referred to in subsection (2)﻿(b) are no longer required to be complied with.
 
 ### 34 Request for return after temporary surrender
 (1) If—the Minister may, subject to subsection (2), make a surrender order in relation to the person.
   (a) a person is surrendered to an extradition country under a temporary surrender order; and
-  (b) the person is returned to New Zealand in accordance with the undertakings referred to in section 33(2)(b)(ii); and
+  (b) the person is returned to New Zealand in accordance with the undertakings referred to in section 33(2)﻿(b)﻿(ii); and
   (c) the extradition country makes a request at any time before the person has ceased to be liable to be detained in a prison in New Zealand, that, when he or she ceases to be so liable, the person be surrendered to serve any sentence that was imposed as a result of the person having been temporarily surrendered to that country,—
 (2) Before making an order under subsection (1), the Minister must determine in accordance with the grounds set out in subsections (2) to (6) of section 30 that the person is to be surrendered.
 (3) If a surrender order is made under this section, the order takes effect in accordance with section 67 on the same day that the person ceases to be liable to be detained in a prison in New Zealand in respect of the sentence of imprisonment.
@@ -432,21 +432,21 @@ If the court orders the detention of the person at any time under this Part, but
 **Discharge of person**
 
 ### 35 Discharge of person if Minister declines to order surrender
-If the Minister determines under section 30 that the person is not to be surrendered, or declines to order the surrender of the person under section 32(2)(b) or section 33, the person must be discharged from custody forthwith unless the person is subject to any other order for detention.
+If the Minister determines under section 30 that the person is not to be surrendered, or declines to order the surrender of the person under section 32(2)﻿(b) or section 33, the person must be discharged from custody forthwith unless the person is subject to any other order for detention.
 
 ### 36 Discharge of person if not surrendered within 2 months
 (1) This section applies if a person is not surrendered and conveyed out of New Zealand under a surrender order or a temporary surrender order made under this Part within 2 months—
   (a) after the date of the issue of the warrant for the detention of the person under section 26 or section 28(2) pending surrender, if no appeal or application for review or habeas corpus, in respect of a determination under this Act, or any appeal from such an appeal or application, is pending; or
   (b) if an appeal, or an application for review or habeas corpus, in respect of a determination under this Act, or any appeal from such an appeal or application, is pending, after the date that the proceedings are finally determined; or
-  (c) if a surrender order is made under section 32(2)(a) or section 32(4), after the date that the order takes effect.
+  (c) if a surrender order is made under section 32(2)﻿(a) or section 32(4), after the date that the order takes effect.
 (2) If this section applies, the person may apply to a Judge of the High Court to be discharged.
 (3) If an application to be discharged is made under subsection (2), the Judge may, on proof that reasonable notice of the intention to make the application has been given to the Minister, unless sufficient cause is shown against the discharge,—
   (a) discharge the surrender order or temporary surrender order, as the case may be; and
   (b) order the discharge of the person from the place where the person is detained, if the person is not liable to be detained under any other order for detention.
 (4) Despite subsection (1), no order may be made under this section for the discharge of a person if—
   (a) it appears to the court that another request has been made under this Act for the surrender of the person, that request having been received—
-    (i) on or before the date on which the warrant referred to in subsection (1)(a) was issued; or
-    (ii) if an appeal or application referred to in subsection (1)(b) was made, on or before the date that the proceedings were finally determined; and
+    (i) on or before the date on which the warrant referred to in subsection (1)﻿(a) was issued; or
+    (ii) if an appeal or application referred to in subsection (1)﻿(b) was made, on or before the date that the proceedings were finally determined; and
   (b) a final decision on the surrender of the person in relation to that request has not been made.
 (5) For the purposes of subsection (4), request includes a warrant produced for endorsement under Part 4.
 
@@ -489,7 +489,7 @@ This Part applies to—
     (i) the person has left, or has had an opportunity of leaving, the designated country; or
     (ii) the Minister consents to the person's detention in the designated country and the person's surrender to any other specified country in respect of any specified offence.
 (4) Subsection (3) does not limit the Minister's discretion to consider any other matters that the Minister thinks fit in relation to recommending or not recommending the making of an Order in Council under subsection (1) or subsection (2).
-(5) An Order in Council made under subsection (1) or subsection (2) may provide that if a person whose surrender is sought is a New Zealand citizen a court must not refer the proceedings to the Minister under section 48(1)(a).
+(5) An Order in Council made under subsection (1) or subsection (2) may provide that if a person whose surrender is sought is a New Zealand citizen a court must not refer the proceedings to the Minister under section 48(1)﻿(a).
 (6) If an extradition treaty is in force between New Zealand and the country,—
   (a) the Order in Council made under subsection (2) must recite the terms of the treaty; and
   (b) the Order in Council ceases to have effect when the treaty ceases to be in force.
@@ -549,7 +549,7 @@ This Part applies to—
 (4) The court may determine that the person is not eligible for surrender if the person satisfies the court that a discretionary restriction on the surrender of the person applies under section 8.
 (5) In the proceedings under this section,—
   (a) the person to whom the proceedings relate is not entitled to adduce, and the court is not entitled to receive, evidence to contradict an allegation that the person has engaged in conduct that constitutes the offence for which surrender is sought; and
-  (b) nothing in this section requires evidence to be produced or given at the hearing to establish the matters described in subparagraphs (i) and (ii) of section 24(2)(d).
+  (b) nothing in this section requires evidence to be produced or given at the hearing to establish the matters described in subparagraphs (i) and (ii) of section 24(2)﻿(d).
 (6) Without limiting the circumstances in which the court may adjourn a hearing, if—the court may adjourn the hearing for such period as it considers reasonable to allow the deficiency or deficiencies to be remedied.
   (a) a document or documents containing a deficiency or deficiencies of relevance to the proceedings are produced; and
   (b) the court considers the deficiency or deficiencies to be of a minor nature,—
@@ -566,12 +566,12 @@ This Part applies to—
 (4) If the court is not satisfied that the person is eligible for surrender, it must discharge the person, unless under section 70(1) it orders that the person continue to be detained, or issues a warrant for the arrest and detention of the person, pending the determination of an appeal under Part 8.
 
 ### 47 Court must make surrender order immediately if case not referred to Minister
-(1) If the court does not refer the person's case to the Minister under section 48(1) or section 48(4), the court must, immediately after issuing the warrant for the detention of the person under section 46(1)(a), make a surrender order in respect of the person.
+(1) If the court does not refer the person's case to the Minister under section 48(1) or section 48(4), the court must, immediately after issuing the warrant for the detention of the person under section 46(1)﻿(a), make a surrender order in respect of the person.
 (2) A surrender order made under subsection (1) does not take effect—whichever is the later.
   (a) until the expiration of 15 days after the date of the issue of the warrant of detention; or
   (b) if an appeal, or an application for review or habeas corpus, in respect of a determination under this Act, or any appeal from such an appeal or application, is pending, until after the date that the proceedings are finally determined and the result is that the person is eligible to be surrendered,—
 (3) Nothing in subsection (2) applies to—
-  (a) a person in respect of whom the court makes an order under section 53(2)(a); or
+  (a) a person in respect of whom the court makes an order under section 53(2)﻿(a); or
   (b) a person who in accordance with section 71 has waived—
     (i) the right to make an application for a writ of habeas corpus within 15 days after the date of the issue of the warrant; and
     (ii) the right, in relation to every offence for which the court has determined the person is eligible to be surrendered, to lodge an appeal under Part 8; or
@@ -588,9 +588,9 @@ This Part applies to—
     (ii) the person has been sentenced to death or may be sentenced to death by the appropriate authority in the extradition country; or
   (c) in the case of a person whose surrender is sought for an extradition offence of which the person has been convicted, the person is liable to be detained in a prison because of a sentence of imprisonment imposed for an offence against the law of New Zealand; or
   (d) it appears to the court that another request has been made under this Act for the surrender of the person, and a final decision on the surrender of the person in relation to that request has not been made,—
-(1A) For the purposes of subsection (1)(d), request includes a warrant produced for endorsement under this Part.
-(2) Subsection (1)(a) applies even if the person is a citizen of both New Zealand and the extradition country.
-(3) The court is not required to refer the case to the Minister under subsection (1)(a) if—
+(1A) For the purposes of subsection (1)﻿(d), request includes a warrant produced for endorsement under this Part.
+(2) Subsection (1)﻿(a) applies even if the person is a citizen of both New Zealand and the extradition country.
+(3) The court is not required to refer the case to the Minister under subsection (1)﻿(a) if—
   (a) Australia is the extradition country; or
   (b) the extradition country is a designated country and the relevant Order in Council under section 40 contains a provision described in section 40(5).
 (4) If—the court may refer the case to the Minister in accordance with subsection (5).
@@ -601,16 +601,16 @@ This Part applies to—
 (5) If the court refers the case to the Minister under subsection (1) or subsection (4), the court must send to the Minister a copy of the warrant of detention together with a copy of all other documents before the court in the case, and such report on the case as the court thinks fit.
 
 ### 49 Minister must determine if person to be surrendered if case referred
-(1) If a case is referred to the Minister under section 48(1)(a) or (b), or section 48(4), or section 53, the Minister must determine in accordance with the grounds set out in subsections (2) to (4) of section 30 whether the person is to be surrendered, as if the case had been referred to the Minister under section 26.
+(1) If a case is referred to the Minister under section 48(1)﻿(a) or (b), or section 48(4), or section 53, the Minister must determine in accordance with the grounds set out in subsections (2) to (4) of section 30 whether the person is to be surrendered, as if the case had been referred to the Minister under section 26.
 (2) For the purposes of determining under this section whether the person is to be surrendered, the Minister may seek any undertakings from the extradition country that the Minister thinks fit.
 
 ### 50 Surrender order
-(1) If the Minister determines under section 49 that the person is to be surrendered to an extradition country in relation to an extradition offence or extradition offences, the Minister must, subject to section 51(2)(b) and unless the Minister makes a temporary surrender order, make a surrender order in respect of the person.
+(1) If the Minister determines under section 49 that the person is to be surrendered to an extradition country in relation to an extradition offence or extradition offences, the Minister must, subject to section 51(2)﻿(b) and unless the Minister makes a temporary surrender order, make a surrender order in respect of the person.
 (2) The Minister must not make a surrender order in respect of a person whose case has been referred to the Minister under section 48—whichever is the later.
-  (a) until the expiration of 15 days after the date of the issue of the warrant of detention of that person under section 46(1)(a); or
+  (a) until the expiration of 15 days after the date of the issue of the warrant of detention of that person under section 46(1)﻿(a); or
   (b) if an appeal, or an application for review or habeas corpus, in respect of a determination under this Act, or any appeal from such an appeal or application, is pending, until after the date that the proceedings are finally determined and the result is that the person is eligible to be surrendered,—
 (3) Nothing in subsection (2) applies to—
-  (a) a person in respect of whom the court makes an order under section 53(2)(b); or
+  (a) a person in respect of whom the court makes an order under section 53(2)﻿(b); or
   (b) a person who has given notice to the Minister after the court ordered the detention of the person under section 46 that the person consents to surrender; or
   (c) a person who in accordance with section 71 has waived—
     (i) the right to make an application for a writ of habeas corpus within 15 days after the date of the issue of the warrant; and
@@ -651,7 +651,7 @@ If the court orders the detention of the person at any time under this Part, but
   (b) the person has been legally represented in the proceedings; and
   (c) the court is satisfied that the person has freely consented to the surrender for the offence or offences in full knowledge of its consequences.
 (4) Nothing in subsections (1) to (3) prevents a person whose case is referred to the Minister under section 48(1) from giving notice to the Minister after the court orders the detention of the person under section 46 that the person consents to surrender.
-(5) If the court issues a warrant for the detention of a person under subsection (2)(b)(i), then subsections (2) and (3) of section 46 apply as if the person had been found eligible for surrender.
+(5) If the court issues a warrant for the detention of a person under subsection (2)﻿(b)﻿(i), then subsections (2) and (3) of section 46 apply as if the person had been found eligible for surrender.
 
 **Temporary surrender**
 
@@ -674,14 +674,14 @@ If the court orders the detention of the person at any time under this Part, but
     (iii) the custody of the person while travelling to and from and while in the extradition country; and
     (iv) other matters (if any) that the Minister thinks appropriate; and
   (c) in a case to which subsection (2) applies, the Minister determines in accordance with the grounds set out in subsections (2) to (4) of section 30 that the person is to be surrendered.
-(5) For the purposes of making a determination under subsection (4)(c), the Minister may seek any undertakings from the extradition country that the Minister thinks fit.
+(5) For the purposes of making a determination under subsection (4)﻿(c), the Minister may seek any undertakings from the extradition country that the Minister thinks fit.
 (6) If a person who is subject to a sentence of imprisonment is released from a New Zealand prison under a temporary surrender order made under this section, so long as the person is in custody in connection with the request (including custody outside New Zealand), the person is deemed to be continuing to serve that sentence.
-(7) If, while a person is in the extradition country under the temporary surrender order, the person ceases to be liable to be detained in New Zealand, the Minister must inform the extradition country that the undertakings referred to in subsection (4)(b) are no longer required to be complied with.
+(7) If, while a person is in the extradition country under the temporary surrender order, the person ceases to be liable to be detained in New Zealand, the Minister must inform the extradition country that the undertakings referred to in subsection (4)﻿(b) are no longer required to be complied with.
 
 ### 55 Request for return after temporary surrender
 (1) If—the Minister may, subject to subsection (2), make a surrender order in relation to the person.
   (a) a person is surrendered to an extradition country under a temporary surrender order; and
-  (b) the person is returned to New Zealand in accordance with the undertakings referred to in section 54(4)(b)(ii); and
+  (b) the person is returned to New Zealand in accordance with the undertakings referred to in section 54(4)﻿(b)﻿(ii); and
   (c) the extradition country makes a request at any time before the person has ceased to be liable to be detained in a prison in New Zealand, that, when he or she ceases to be so liable, the person be surrendered to serve any sentence that was imposed as a result of the person having been temporarily surrendered to that country,—
 (2) Before making an order under subsection (1), the Minister must determine in accordance with the grounds set out in subsections (2) to (4) of section 30 that the person is to be surrendered.
 (3) For the purposes of making a determination under subsection (2), the Minister may seek any undertakings from the extradition country that the Minister thinks fit.
@@ -690,21 +690,21 @@ If the court orders the detention of the person at any time under this Part, but
 **Discharge of person**
 
 ### 56 Discharge of person if Minister declines to order surrender
-If the Minister determines under section 49 that the person is not to be surrendered, or declines to order the surrender of the person under section 51(2)(b) or section 54, the person must be discharged from custody forthwith unless the person is subject to any other order for detention.
+If the Minister determines under section 49 that the person is not to be surrendered, or declines to order the surrender of the person under section 51(2)﻿(b) or section 54, the person must be discharged from custody forthwith unless the person is subject to any other order for detention.
 
 ### 57 Discharge of person if not surrendered within 2 months
 (1) This section applies if a person is not surrendered and conveyed out of New Zealand under a surrender order or a temporary surrender order made under this Part within 2 months—
-  (a) after the date of the issue of the warrant under section 46(1)(a) or section 53(2)(b)(i) pending surrender, if no appeal or application for review or habeas corpus in respect of a determination under this Act, or any appeal from such an appeal or application, is pending; or
+  (a) after the date of the issue of the warrant under section 46(1)﻿(a) or section 53(2)﻿(b)﻿(i) pending surrender, if no appeal or application for review or habeas corpus in respect of a determination under this Act, or any appeal from such an appeal or application, is pending; or
   (b) if an appeal, or an application for review or habeas corpus, in respect of a determination under this Act, or any appeal from such an appeal or application, is pending, after the date that the proceedings are finally determined; or
-  (c) if a surrender order is made under section 51(2)(a) or section 51(4), after the date that the order takes effect.
+  (c) if a surrender order is made under section 51(2)﻿(a) or section 51(4), after the date that the order takes effect.
 (2) If this section applies, the person may apply to a Judge of the High Court to be discharged.
 (3) If an application to be discharged is made under subsection (2), the Judge may, on proof that reasonable notice of the intention to make the application has been given to the Minister, unless sufficient cause is shown against the discharge,—
   (a) discharge the surrender order or temporary surrender order, as the case may be; and
   (b) order the discharge of the person from the place where the person is detained, if the person is not liable to be detained under any other order for detention.
 (4) Despite subsection (1), no order may be made under this section for the discharge of a person if the case has been referred to the Minister under section 48 and—
   (a) it appears to the court that another request has been made under this Act for the surrender of the person, that request having been received—
-    (i) on or before the date on which the warrant referred to in subsection (1)(a) was issued; or
-    (ii) if an appeal or application referred to in subsection (1)(b) was made, on or before the date that the proceedings were finally determined; and
+    (i) on or before the date on which the warrant referred to in subsection (1)﻿(a) was issued; or
+    (ii) if an appeal or application referred to in subsection (1)﻿(b) was made, on or before the date that the proceedings were finally determined; and
   (b) a final decision on the surrender of the person in relation to that request has not been made.
 (5) For the purposes of subsection (4), request includes a warrant produced for endorsement under this Part.
 
@@ -761,7 +761,7 @@ To avoid doubt, the discharge of a person under any provision of this Part or un
 (3) Nothing in subsection (1) or subsection (2) prevents—
   (a) a treaty or arrangement that is made with a country from prescribing a procedure for making requests that is different or supplementary to the procedure set out in subsections (1) and (2); or
   (b) a request being made in a manner permitted by the law of the other country if no different or supplementary procedure described in paragraph (a) applies.
-(4) If subsection (3)(a) applies, the different or supplementary procedure must be used.
+(4) If subsection (3)﻿(a) applies, the different or supplementary procedure must be used.
 
 ### 62 Request for information about time spent in custody overseas
 (1) If a request is made for the surrender of a person to New Zealand, the Minister or other authorised person may, at the time of making the request or at any later time, ask the competent authority in the country to which the request is or was made to provide, at the time of the surrender of the person or as soon as possible after that, a duly authenticated certificate recording—
@@ -913,6 +913,7 @@ An Order in Council made under section 15 or section 16 or section 40 that recit
 (1) If a person is arrested on a warrant issued or endorsed under this Act, a constable may search, without further warrant, the person arrested and may seize any thing, including any sum of money, found on the person or in the person's possession if the constable believes on reasonable grounds that the thing on the person or in the person's possession may be evidence as to the commission of any offence in relation to which the warrant to arrest was issued or endorsed or for which the surrender of the person is sought by the extradition country concerned.
 (2) If there is no suitable searcher available at the place where the search is to take place, the person to be searched may be taken to another place to be searched.
 (3) Nothing in this section limits or affects any power under section 11 of the Search and Surveillance Act 2012.
+(4) If a person is arrested on a warrant issued or endorsed under this Act, a constable may take the identifying particulars of that person in accordance with section 32 of the Policing Act 2008 as if that person is detained in lawful custody for committing an offence against New Zealand law.
 
 ### 83 Search warrants
 (1) This section applies if—
@@ -974,7 +975,7 @@ Section 93 applies if—
   (c) a person who is surrendered to New Zealand in relation to an extradition offence is discharged without conviction.
 
 ### 93 Minister must make removal order or issue certificate
-(1) If this section applies, the Minister must make a removal order under section 96 in respect of the person unless, the Minister is satisfied that, because of special circumstances in relation to the person, it would be inappropriate to order the removal of the person.
+(1) If this section applies, the Minister must make a removal order under section 96 in respect of the person unless the Minister is satisfied that, because of special circumstances in relation to the person, it would be inappropriate to order the removal of the person.
 (2) If the Minister does not make a removal order in respect of the person, the Minister must issue a certificate under section 94.
 
 ### 94 Certificate giving temporary authority for person to remain in New Zealand
@@ -995,7 +996,7 @@ Section 93 applies if—
 (3) If a person is brought before a District Court Judge under subsection (2), the Judge may, if the Judge is satisfied that the person is the person named in the certificate,—
   (a) issue a warrant for the detention of the person in custody if the Judge is satisfied that, if not detained, the person is likely to abscond; or
   (b) order the release of the person subject to such conditions (if any) that the Judge thinks fit.
-(4) A warrant for the detention of the person issued under subsection (3)(a) may authorise the detention of the person in a prison or any other place in which the person could be detained under section 26(1)(a) if the person were subject to proceedings under Part 3.
+(4) A warrant for the detention of the person issued under subsection (3)﻿(a) may authorise the detention of the person in a prison or any other place in which the person could be detained under section 26(1)﻿(a) if the person were subject to proceedings under Part 3.
 
 ### 96 Removal order
 (1) A removal order made by the Minister under this section—
@@ -1006,13 +1007,13 @@ Section 93 applies if—
   (c) may authorise the detention in custody of the person while awaiting removal from New Zealand.
 (2) The removal order must be served on the person named in the order in the manner prescribed by regulations made under this Act.
 (3) If the removal order authorises the detention of the person in custody, the person may be detained—
-  (a) in a prison or any other place in which the person could be detained under section 26(1)(a) if the person were subject to proceedings under Part 3; or
+  (a) in a prison or any other place in which the person could be detained under section 26(1)﻿(a) if the person were subject to proceedings under Part 3; or
   (b) at a seaport or airport.
 (4) If a person is not able to be conveyed out of New Zealand within 48 hours after service of the removal order, the person must be brought before a District Court Judge to determine in accordance with subsection (5) whether the person should be detained in custody or released pending that person's removal from New Zealand.
 (5) If a person is brought before a District Court Judge under subsection (4), the Judge may, if the Judge is satisfied that the person is the person named in the order,—
   (a) issue a warrant for the detention of the person in custody if the Judge is satisfied that, if not detained, the person is likely to abscond; or
   (b) order the release of the person subject to such conditions (if any) that the Judge thinks fit.
-(6) A warrant for the detention of the person issued under subsection (5)(a) may authorise the detention of the person in a prison or any other place in which the person could be detained under section 26(1)(a) if the person were subject to proceedings under Part 3.
+(6) A warrant for the detention of the person issued under subsection (5)﻿(a) may authorise the detention of the person in a prison or any other place in which the person could be detained under section 26(1)﻿(a) if the person were subject to proceedings under Part 3.
 (7) A removal order made under this section continues in force until it is executed or is cancelled.
 (8) Nothing in the Immigration Act 2009 applies to the person named in the removal order while the order is in force.
 
@@ -1099,7 +1100,7 @@ An extradition treaty made between New Zealand and another country after the com
     (iv) the circumstances in which the court may appoint an expert witness, the procedure to be followed after the expert witness is appointed, the rights of the parties in relation to the evidence given by the expert witness, and the manner in which the expert witness is to be remunerated:
   (f) prescribing the manner of serving removal orders under Part 11, and other documents for the purposes of this Act:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
-(2) Regulations made under subsection (1)(e) may provide for different practice and procedure in relation to proceedings under Part 3 than in relation to proceedings under Part 4.
+(2) Regulations made under subsection (1)﻿(e) may provide for different practice and procedure in relation to proceedings under Part 3 than in relation to proceedings under Part 4.
 
 ### 103 Rules relating to appeals
 Rules regulating the practice and procedure in appeals to the High Court under this Act may be made in the manner in which rules of court are made under the Judicature Act 1908.
@@ -1116,9 +1117,9 @@ Rules regulating the practice and procedure in appeals to the High Court under t
 (1) Subsection (2) applies to any Order in Council referred to in subsection (1) or subsection (2) of section 104 that has not been amended and has not ceased to have effect since the commencement of this Act.
 (2) If this subsection applies,—
   (a) this Act applies in relation to the extradition country to which the Order in Council relates subject to the conditions to which the extradition country was subject—
-    (i) under subsections (1) to (6) of section 5, section 5A, and section 9(1)(f) of the Extradition Act 1965; or
+    (i) under subsections (1) to (6) of section 5, section 5A, and section 9(1)﻿(f) of the Extradition Act 1965; or
     (ii) by virtue of the operation of section 5(7) of that Act; and
-  (b) sections 7, 8, and 30(3)(d) (including where section 30(3)(d) is applied under section 49) of this Act do not apply in relation to the extradition country to the extent that they are inconsistent with any provision of the relevant extradition treaty.
+  (b) sections 7, 8, and 30(3)﻿(d) (including where section 30(3)﻿(d) is applied under section 49) of this Act do not apply in relation to the extradition country to the extent that they are inconsistent with any provision of the relevant extradition treaty.
 
 ### 106 Warrants, orders, and proceedings under Fugitive Offenders Act 1881 (Imp) or Extradition Act 1965
 (1) A warrant issued or endorsed in New Zealand under the Fugitive Offenders Act 1881 of the United Kingdom Parliament, and in force immediately before the commencement of this Act in respect of a person from a Commonwealth country to which Part 3 or Part 4 applies on the commencement of this Act, has effect as if it had been issued in accordance with the applicable Part of this Act by a person having authority under that Part to issue such a warrant.
