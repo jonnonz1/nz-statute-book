@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-11-07_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -136,7 +136,7 @@ This Act comes into force on 1 December 2009.
   (a) the person has been charged with or convicted of an offence in connection with the activity; or
   (b) the person has been acquitted of an offence in connection with the activity; or
   (c) the person’s conviction for an offence in connection with the activity has been quashed or set aside.
-(3) Any expenses or outgoings used in connection with an activity of the kind described in subsection (1) must be disregarded for the purposes of calculating the value of any property, proceeds, or benefits under subsection (1)(b).
+(3) Any expenses or outgoings used in connection with an activity of the kind described in subsection (1) must be disregarded for the purposes of calculating the value of any property, proceeds, or benefits under subsection (1)﻿(b).
 
 ### 7 Meaning of unlawfully benefited from significant criminal activity
 In this Act, unless the context otherwise requires, a person has unlawfully benefited from significant criminal activity if the person has knowingly, directly or indirectly, derived a benefit from significant criminal activity (whether or not that person undertook or was involved in the significant criminal activity).
@@ -197,7 +197,7 @@ The significant criminal activity or significant foreign criminal activity on wh
   (a) assets forfeiture orders:
   (b) instrument forfeiture orders:
   (c) profit forfeiture orders.
-(2) Subsection (1) is subject to section 54(1)(b).
+(2) Subsection (1) is subject to section 54(1)﻿(b).
 (3) Nothing in this Act restricts a court from registering 1 or more foreign forfeiture orders in New Zealand in relation to the same instance of significant foreign criminal activity.
 
 ### Subpart 2 — Restraining orders
@@ -231,7 +231,7 @@ An application for a restraining order must be made to,—
 (2) The court hearing an application for a restraining order may, at any time before the application is finally determined, direct the applicant to serve a copy of the application on a specified person or class of persons, in the manner and within the time that the court thinks fit.
 
 ### 22 Application for restraining order without notice
-(1) A court that receives an application for a restraining order may, on the request of the applicant, consider the application without notice being given to any or all of the persons mentioned in section 21(1)(a) if the court is satisfied that there is a risk of the proposed restrained property being destroyed, disposed of, altered, or concealed if notice were given to the person or those persons.
+(1) A court that receives an application for a restraining order may, on the request of the applicant, consider the application without notice being given to any or all of the persons mentioned in section 21(1)﻿(a) if the court is satisfied that there is a risk of the proposed restrained property being destroyed, disposed of, altered, or concealed if notice were given to the person or those persons.
 (2) If an application is made for a restraining order without notice, the court must, so far as it is practicable and consistent with the interests of justice, ensure that the application is dealt with speedily.
 (3) Any provisions of this subpart that relate to restraining orders applied for on notice apply, with any necessary modifications, to restraining orders applied for without notice.
 
@@ -290,7 +290,7 @@ An application for a restraining order must be made to,—
   (b) the reasonable business expenses of the respondent:
   (c) the payment of any specified debt incurred by the respondent in good faith:
   (d) any other expenses allowed by the court.
-(2) Despite subsection (1)(d), a court may not allow any legal expenses to be met out of a respondent’s restrained property.
+(2) Despite subsection (1)﻿(d), a court may not allow any legal expenses to be met out of a respondent’s restrained property.
 (3) In determining whether or not to make a restraining order subject to a condition, the court must have regard to the ability of a respondent to meet the reasonable living costs, expenses, or debt concerned out of property that is not restrained property.
 (4) In this section a dependant is a person who is dependent on the respondent and who is either or both—
   (a) a child of the respondent:
@@ -375,10 +375,10 @@ Without limiting the generality of section 34(1), a court may, on an application
     (vi) directs the Official Assignee to make mortgage payments or payments in respect of any other encumbrance from the restrained property.
 
 ### 36 Impact of certain further orders
-(1) A person to whom an order made under section 35(c) or (e)(iii) or (iv) applies, is not excused from answering any question, or furnishing any information, on the ground that compliance with that requirement could or would tend to incriminate that person or subject that person to any penalty or forfeiture.
-(2) An examination by the Official Assignee under an order made under section 35(e)(iii) is a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
-(3) A person required to be examined under an order made under section 35(c) or (e)(iii) must, before being required to comply with any requirements imposed by the order, be given a reasonable opportunity to arrange for a lawyer to accompany the person.
-(4) The proceeds of a sale resulting from an order made under section 35(e)(v) are restrained property, despite the proceeds from the sale not being the property that the court originally restrained.
+(1) A person to whom an order made under section 35(c) or (e)﻿(iii) or (iv) applies, is not excused from answering any question, or furnishing any information, on the ground that compliance with that requirement could or would tend to incriminate that person or subject that person to any penalty or forfeiture.
+(2) An examination by the Official Assignee under an order made under section 35(e)﻿(iii) is a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
+(3) A person required to be examined under an order made under section 35(c) or (e)﻿(iii) must, before being required to comply with any requirements imposed by the order, be given a reasonable opportunity to arrange for a lawyer to accompany the person.
+(4) The proceeds of a sale resulting from an order made under section 35(e)﻿(v) are restrained property, despite the proceeds from the sale not being the property that the court originally restrained.
 
 **Duration of restraining orders and further orders**
 
@@ -395,7 +395,7 @@ Without limiting the generality of section 34(1), a court may, on an application
 (3) On the expiry of a restraining order, any further order associated with that restraining order also expires.
 
 ### 38 Duration of restraining order when application for forfeiture order declined
-A restraining order that is in force at the time that a court declines to make a forfeiture order that is associated with the same property does not expire, if section 37(2)(a) applies, until—
+A restraining order that is in force at the time that a court declines to make a forfeiture order that is associated with the same property does not expire, if section 37(2)﻿(a) applies, until—
   (a) the date that is the end of a period of 7 working days from the date of that decision, if an appeal has not been lodged in the court by that date; or
   (b) if an appeal has been lodged in the court by that date, on the date of the withdrawal or determination of that appeal, or, if a further appeal is lodged, on the date of the withdrawal or determination of that further appeal.
 
@@ -406,11 +406,11 @@ A restraining order that is in force at the time that a court declines to make a
 (4) If an application is made for restraining order B, the court must, so far as it is practicable and consistent with the interests of justice, ensure that the application is dealt with speedily.
 
 ### 40 Duration of restraining order relating to instrument of crime in certain circumstances
-(1) A restraining order that relates to an instrument of crime made under section 26(2)(b) expires at the end of the period of 48 hours after the making of the order (the 48-hour period) if the defendant has not been charged with the offence, or a related qualifying instrument forfeiture offence, with which the instrument of crime is associated before the expiry of the 48-hour period.
+(1) A restraining order that relates to an instrument of crime made under section 26(2)﻿(b) expires at the end of the period of 48 hours after the making of the order (the 48-hour period) if the defendant has not been charged with the offence, or a related qualifying instrument forfeiture offence, with which the instrument of crime is associated before the expiry of the 48-hour period.
 (2) Subsection (3) applies if—
   (a) a restraining order is made in reliance on—
-    (i) a person’s conviction for a qualifying instrument forfeiture offence under section 26(2)(a) or the charging of a person with a qualifying instrument forfeiture offence; or
-    (ii) the proposed charging of a person with a qualifying instrument forfeiture offence under section 26(2)(b), and the person is, within the 48-hour period, charged with the offence or a related qualifying instrument forfeiture offence; and
+    (i) a person’s conviction for a qualifying instrument forfeiture offence under section 26(2)﻿(a) or the charging of a person with a qualifying instrument forfeiture offence; or
+    (ii) the proposed charging of a person with a qualifying instrument forfeiture offence under section 26(2)﻿(b), and the person is, within the 48-hour period, charged with the offence or a related qualifying instrument forfeiture offence; and
   (b) either of the following occurs:
     (i) the charge is withdrawn and the person is not charged with a related qualifying instrument forfeiture offence by the time the charge is withdrawn:
     (ii) the person is acquitted of the charge or the conviction is quashed and the person has not been charged with a related qualifying instrument forfeiture offence by the time of the acquittal or quashing.
@@ -525,7 +525,7 @@ An application for a profit forfeiture order must—
 (1) Before the High Court makes a profit forfeiture order, the Court must determine the maximum recoverable amount by—
   (a) taking the value of the benefit determined in accordance with section 53; and
   (b) deducting from that the value of any property forfeited to the Crown as a result of an assets forfeiture order made in relation to the same significant criminal activity to which the profit forfeiture order relates.
-(2) In determining the value of any property under subsection (1)(b), the Court may, at its own discretion or at the request of either party to the proceedings, seek an independent valuation as to the value of the property.
+(2) In determining the value of any property under subsection (1)﻿(b), the Court may, at its own discretion or at the request of either party to the proceedings, seek an independent valuation as to the value of the property.
 (3) If an assets forfeiture order relating to a determination under this section is discharged on appeal, the Court may, on application by the Commissioner, vary the maximum recoverable amount in the profit forfeiture order to reflect that there is no longer a deduction to be made on account of the assets forfeiture order.
 
 ### 55 Making profit forfeiture order
@@ -540,12 +540,12 @@ An application for a profit forfeiture order must—
 (4) A profit forfeiture order is enforceable as an order made as a result of civil proceedings instituted by the Crown against the person to recover a debt due to it, and the maximum recoverable amount is recoverable from the respondent by the Official Assignee on behalf of the Crown as a debt due to the Crown.
 
 ### 56 Exclusion of respondent’s property from profit forfeiture order because of undue hardship
-(1) The High Court may, on an application made by the respondent before a profit forfeiture order is made, exclude certain property from being able to be realised under section 55(2)(c) if it considers that, having regard to all of the circumstances, undue hardship is reasonably likely to be caused to the respondent if the property were realised.
+(1) The High Court may, on an application made by the respondent before a profit forfeiture order is made, exclude certain property from being able to be realised under section 55(2)﻿(c) if it considers that, having regard to all of the circumstances, undue hardship is reasonably likely to be caused to the respondent if the property were realised.
 (2) The circumstances the Court may have regard to under subsection (1) include, without limitation,—
   (a) the use that is ordinarily made, or was intended to be made, of the property that is, or is proposed to be, the subject of the profit forfeiture order; and
   (b) the nature and extent of the respondent’s interest in the property; and
   (c) the circumstances of the significant criminal activity to which the profit forfeiture order relates.
-(3) After a profit forfeiture order is made, nothing in this section prohibits a respondent from realising the property that was excluded from being able to be realised under section 55(2)(c) if—
+(3) After a profit forfeiture order is made, nothing in this section prohibits a respondent from realising the property that was excluded from being able to be realised under section 55(2)﻿(c) if—
   (a) after realising other property under that section there is still a debt owed to the Crown under section 55(4); and
   (b) the respondent agrees to realise the excluded property in order to pay all or part of that debt.
 
@@ -575,7 +575,7 @@ An application for a profit forfeiture order must—
 (1) In making a civil forfeiture order, the High Court may do either or both of the following:
   (a) declare the nature, extent, and value of any person’s interest in property specified in the civil forfeiture order:
   (b) give any directions that may be necessary and convenient for giving effect to the civil forfeiture order.
-(2) Without limiting the generality of subsection (1)(b), if a Court makes a civil forfeiture order against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the Court may direct an officer of the Court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
+(2) Without limiting the generality of subsection (1)﻿(b), if a Court makes a civil forfeiture order against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the Court may direct an officer of the Court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
 (3) Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
 
 ### 60 Civil forfeiture order relating to land
@@ -651,7 +651,7 @@ A High Court that grants relief from a civil forfeiture order under section 66 o
 (1) In making an instrument forfeiture order, the court may do all or any of the following:
   (a) declare the nature, extent, and value of any person’s interest in property specified in the order:
   (b) give any directions that may be necessary and convenient for giving effect to the instrument forfeiture order.
-(2) Without limiting the generality of subsection (1)(b), if a court makes an instrument forfeiture order against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the court may direct an officer of the court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
+(2) Without limiting the generality of subsection (1)﻿(b), if a court makes an instrument forfeiture order against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the court may direct an officer of the court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
 (3) Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
 
 ### 72 Instrument forfeiture order relating to land
@@ -686,7 +686,7 @@ A High Court that grants relief from a civil forfeiture order under section 66 o
   (c) every person who claims an interest in the application is entitled to appear and to adduce evidence at the hearing of the application.
 
 ### 76 Double benefit not permitted
-If, on any application for relief made under section 142J of the Sentencing Act 2002 in respect of any interest in any property, a court has made an order under section 142L(2)(b)(ii) or 142M(2)(a) of that Act, an amount equal to the amount payable by the Crown under that order must be deducted from any amount required to be paid, under section 74(3)(b), to that applicant in respect of that interest.
+If, on any application for relief made under section 142J of the Sentencing Act 2002 in respect of any interest in any property, a court has made an order under section 142L(2)﻿(b)﻿(ii) or 142M(2)﻿(a) of that Act, an amount equal to the amount payable by the Crown under that order must be deducted from any amount required to be paid, under section 74(3)﻿(b), to that applicant in respect of that interest.
 
 **Applications for relief relating to instrument forfeiture order**
 
@@ -775,7 +775,7 @@ If an appeal by any person against the making of an instrument forfeiture order 
 (3) Despite subsections (1) and (2), if the period for bringing an appeal against the profit forfeiture order has expired and no appeal has been filed or all appeals have been withdrawn or finally determined, the Official Assignee—
   (a) may realise any asset that makes up the property that is the subject of the profit forfeiture order; but
   (b) must, if he or she does so, hold the proceeds of realising those assets until the expiry of the specified period.
-(4) Subsection (1)(d)(ii) does not prevent the Official Assignee from recovering, by any lawful means, the balance of the maximum recoverable amount that remains due to the Crown, after the Crown is paid a sum less than the maximum recoverable amount under the provision.
+(4) Subsection (1)﻿(d)﻿(ii) does not prevent the Official Assignee from recovering, by any lawful means, the balance of the maximum recoverable amount that remains due to the Crown, after the Crown is paid a sum less than the maximum recoverable amount under the provision.
 (5) This section is subject to section 84 and any regulations made under section 173(d).
 
 ### 84 Bankruptcy in relation to profit forfeiture order
@@ -914,7 +914,7 @@ The provisions of the Policing Act 2008 relating to the delegation of powers, fu
 (2) No obligation as to secrecy or other restrictions imposed by any enactment or otherwise on the disclosure of information prevents—
   (a) an authorised person referred to in paragraph (b) of the definition of authorised person in subsection (1) from disclosing the name of any person to an authorised person referred to in paragraph (a) of that definition:
   (b) an authorised person referred to in paragraph (a) of the definition of authorised person in subsection (1) from disclosing any information held by the Department of Inland Revenue about a person whose name is supplied under paragraph (a) of this subsection to an authorised person referred to in paragraph (b) of that definition who requires the information for the purpose of establishing whether a prima facie case exists for taking civil recovery action under this Act.
-(3) Information obtained under subsection (2)(b) must not be disclosed, except—
+(3) Information obtained under subsection (2)﻿(b) must not be disclosed, except—
   (a) to an authorised person; or
   (b) to the person in respect of whom the information was obtained; or
   (c) in connection with proceedings taken or to be taken under this Act.
@@ -1045,7 +1045,7 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
     (iv) the service of an order under section 105 or 107 might seriously prejudice the investigation; and
   (b) that there are reasonable grounds for believing that there is, at the place or thing specified in the application, or will come into or onto the place or thing, while the warrant is in force—
     (i) any document or information required to be produced or supplied under section 105 or 107; or
-    (ii) if paragraph (a)(iv) applies, any document or information that could have been sought under section 105 or 107.
+    (ii) if paragraph (a)﻿(iv) applies, any document or information that could have been sought under section 105 or 107.
 
 ### 109 Immunity from liability for disclosure of information under this Act
 (1) This section applies if—
@@ -1059,7 +1059,7 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
 ### 110 Official Assignee may apply for warrant to search for and seize property
 (1) Any Judge may issue a warrant to search any place or thing if, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, the Judge is satisfied—
   (a) that there are reasonable grounds for believing that property of the kind referred to in subsection (2) is in or on the place or thing, or will come into or onto the place or thing, while the warrant is in force; and
-  (b) in the case of property referred to in subsection (2)(a), that the Official Assignee has complied with subsection (4).
+  (b) in the case of property referred to in subsection (2)﻿(a), that the Official Assignee has complied with subsection (4).
 (2) The property in respect of which a search warrant may be issued under subsection (1) is—
   (a) any proposed restrained property that is the subject of an application for a restraining order:
   (b) any property that is the subject of a restraining order:
@@ -1067,7 +1067,7 @@ If any property is seized pursuant to a warrant issued under section 101 or 102(
 (3) An application for a warrant under subsection (1) may be made—
   (a) by the Official Assignee:
   (b) before, on, or after the making of a restraining order or a forfeiture order.
-(4) The Official Assignee may not make an application under subsection (1) in respect of any property referred to in subsection (2)(a) unless—
+(4) The Official Assignee may not make an application under subsection (1) in respect of any property referred to in subsection (2)﻿(a) unless—
   (a) the Official Assignee wishes to assess the nature and condition of any property that is the subject of an application for a restraining order to ensure that it is not at risk of damage, alteration, removal, or being treated in any other way to diminish its value; or
   (b) the Official Assignee has reasonable grounds to believe that any property of that kind is at risk of damage, alteration, removal, or being treated in any other way to diminish its value.
 
@@ -1077,7 +1077,7 @@ If property is seized pursuant to a warrant issued under section 110, or transfe
 ### 112 Return of seized property
 (1) If any property is seized pursuant to a warrant issued under section 110 or transferred to the Official Assignee under section 103 the property must, unless it is the subject of a forfeiture order, be returned to the person,—
   (a) if the property was subject to a restraining order when the relevant search warrant was issued, after the expiry of the restraining order to which the property relates:
-  (b) if the property is property referred to in section 101(2)(b) or 102(2)(a) that was not the subject of a restraining order when the relevant search warrant was issued, after—
+  (b) if the property is property referred to in section 101(2)﻿(b) or 102(2)﻿(a) that was not the subject of a restraining order when the relevant search warrant was issued, after—
     (i) the expiry of 28 days from the date on which the property comes into the control or custody of the Official Assignee; or
     (ii) if a restraining order is obtained in respect of the property before the expiry of the period referred to in subparagraph (i), the expiry of the restraining order to which the property relates; or
     (iii) if a restraining order is not obtained in respect of the property before the expiry of the period referred to in subparagraph (i) but an application for a forfeiture order is made within that period, the determination of that application.
@@ -1094,7 +1094,7 @@ If property is seized pursuant to a warrant issued under section 110, or transfe
 
 ### 114 Application of Part 4 of Search and Surveillance Act 2012
 (1) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 6) apply in respect of every search warrant applied for, or issued, under this Act.
-(2) The provisions of subpart 6 of Part 4 of that Act apply to evidence seized under sections 101(2)(a), and 102(2)(b) and (c).
+(2) The provisions of subpart 6 of Part 4 of that Act apply to evidence seized under sections 101(2)﻿(a), and 102(2)﻿(b) and (c).
 
 ### 115 Application for search warrant
 [Repealed]
@@ -1136,15 +1136,15 @@ If property is seized pursuant to a warrant issued under section 110, or transfe
 **Warrants and powers associated with foreign restraining orders and foreign forfeiture orders**
 
 ### 124 Warrants associated with foreign restraining orders and foreign forfeiture orders
-(1) A member of the police, if authorised under section 59(2)(a) of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under section 101, may apply for a search warrant of that kind.
+(1) A member of the police, if authorised under section 59(2)﻿(a) of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under section 101, may apply for a search warrant of that kind.
 (2) Sections 101(1) to (3), 103, 112, and 113 apply, with any necessary modifications, to an application under subsection (1).
 
 ### 125 Powers of Commissioner in relation to warrants associated with foreign restraining orders and foreign forfeiture orders
-(1) The Commissioner, if authorised under section 59(2)(b) of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under section 102, may apply for a search warrant of that kind.
+(1) The Commissioner, if authorised under section 59(2)﻿(b) of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under section 102, may apply for a search warrant of that kind.
 (2) Sections 102, 103, 112, and 113 apply, with any necessary modifications, to an application under subsection (1).
 
 ### 126 Powers of Official Assignee in relation to warrants associated with foreign restraining orders and foreign forfeiture orders
-(1) The Official Assignee, if authorised under section 59(2)(c) of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under section 110, may apply for a search warrant of that kind.
+(1) The Official Assignee, if authorised under section 59(2)﻿(c) of the Mutual Assistance in Criminal Matters Act 1992 to apply for a search warrant under section 110, may apply for a search warrant of that kind.
 (2) Sections 110 to 113 apply, with any necessary modifications, to an application under subsection (1).
 
 ### 127 Provisions associated with foreign restraining orders and foreign forfeiture orders
@@ -1193,6 +1193,7 @@ If authorised to register a foreign restraining order in New Zealand under secti
 (1) The following sections of subpart 2 of Part 2 apply, with all necessary modifications, if an application is made to register a foreign restraining order in New Zealand under section 54 of the Mutual Assistance in Criminal Matters Act 1992 or an application is made to register a restraining order under section 112(2) of the International Crimes and International Criminal Court Act 2000:
   (a) section 19 (application to identify proposed restrained property, respondent (if any), and interest holders):
   (b) section 21 (application for restraining order on notice):
+  (ba) section 22 (application for restraining order without notice):
   (c) section 27 (registration of restraining orders on registers):
   (d) section 28(1), (3), and (4) (conditions on restraining order):
   (e) section 29 (undertakings as to damage or costs in relation to restraining orders):
@@ -1211,7 +1212,7 @@ If authorised to register a foreign restraining order in New Zealand under secti
   (a) in a case where the foreign restraining order was made without a hearing in a court in the foreign country where it was made, was given no opportunity to make representations to the person or body that made the foreign restraining order:
   (b) in a case where the foreign restraining order was made at a hearing of a court in the foreign country where it was made, was not served with any notice of, and did not appear at, the hearing held in the court:
   (c) in any other case, obtains the leave of the court to appear at the hearing of the application.
-(5) The court may grant special leave under subsection (3)(c) or (4)(c) if—
+(5) The court may grant special leave under subsection (3)﻿(c) or (4)﻿(c) if—
   (a) the applicant for relief or the person who is the subject of the foreign restraining order had good reasons—
     (i) for failing to make representations to the decision-making person or body who made the order in the foreign country; or
     (ii) in a case where the order was made by a court in the foreign country, for failing to attend the hearing at which the foreign restraining order was made; or
@@ -1239,6 +1240,7 @@ If authorised to register a foreign restraining order in New Zealand under secti
 ### 137 Extension of duration of registration of foreign restraining order
 (1) If the High Court has registered a foreign restraining order in New Zealand, the applicant for that order may, before the registration of the restraining order expires, apply to the High Court for an extension of the duration of the registration of the foreign restraining order in New Zealand.
 (2) If an application is made under subsection (1), the High Court may order that the registration of a foreign restraining order be extended for a further period not exceeding 1 year.
+(2A) The duration of the registration of a foreign restraining order may be extended more than once under this section.
 (3) If an application is granted under this section, the registration of the foreign restraining order in New Zealand ceases at the time specified in the Court’s order.
 
 ### 138 Additional matters relating to extension of registration of foreign restraining order
@@ -1280,7 +1282,7 @@ If authorised to apply to register a foreign forfeiture order in New Zealand und
   (a) in a case where the foreign forfeiture order was made without a hearing in a court in the foreign country where it was made, was given no opportunity to make representations to the person or body that made the foreign forfeiture order:
   (b) in a case where the foreign forfeiture order was made at a hearing of a court in the foreign country where it was made, was not served with any notice of, and did not appear at, the hearing held in the court:
   (c) in any other case, obtains the leave of the court to appear at the hearing of the application.
-(4) The court may grant special leave under subsection (2)(c) or (3)(c) if—
+(4) The court may grant special leave under subsection (2)﻿(c) or (3)﻿(c) if—
   (a) the applicant for relief or the person who is the subject of the foreign forfeiture order had good reasons—
     (i) for failing to make representations to the decision-making person or body who made the order in the foreign country; or
     (ii) in a case where the order was made by a court in the foreign country, for failing to attend the hearing at which the foreign forfeiture order was made; or
@@ -1307,7 +1309,7 @@ The effect of registering a foreign forfeiture order in New Zealand under sectio
 (1) On registering a foreign forfeiture order in New Zealand, the High Court may do either or both of the following:
   (a) declare the nature, extent, and value of any person’s interest in property specified in the order:
   (b) give any directions that may be necessary and convenient for giving effect to the foreign forfeiture order.
-(2) Without limiting the generality of subsection (1)(b), if a Court registers a foreign forfeiture order in New Zealand against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the Court may direct an officer of the Court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
+(2) Without limiting the generality of subsection (1)﻿(b), if a Court registers a foreign forfeiture order in New Zealand against any property the title to which is passed by registration on a register maintained under any New Zealand enactment, the Court may direct an officer of the Court to do anything reasonably necessary to obtain possession of any document required to effect the transfer of the property and for that purpose may, by warrant, authorise an officer to enter and search any place or thing and seize any document.
 (3) Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
 
 ### 147 Registering foreign forfeiture order relating to land
@@ -1317,7 +1319,7 @@ The effect of registering a foreign forfeiture order in New Zealand under sectio
 **Relief from foreign forfeiture order registered in New Zealand**
 
 ### 148 Relief from foreign forfeiture order registered in New Zealand
-A person who claims an interest in property sought to be forfeited under a foreign forfeiture order registered in New Zealand may, before the date that is 6 months from the date on which the foreign forfeiture order is registered, apply to the High Court for an order if the person is a person to whom section 143(2)(a), (b), or (c) applies.
+A person who claims an interest in property sought to be forfeited under a foreign forfeiture order registered in New Zealand may, before the date that is 6 months from the date on which the foreign forfeiture order is registered, apply to the High Court for an order if the person is a person to whom section 143(2)﻿(a), (b), or (c) applies.
 
 ### 149 High Court may grant relief from foreign forfeiture order registered in New Zealand
 (1) The High Court may make an order of the kind described in subsection (2) if it is satisfied—
@@ -1362,13 +1364,13 @@ A person who claims an interest in property sought to be forfeited under a forei
   (a) the Commissioner or a member of the police who is authorised by the Commissioner to receive the information; or
   (b) an officer or agent of the institution, for the purposes of ensuring compliance with the order; or
   (c) a lawyer, for the purpose of obtaining legal advice or representation in relation to the order.
-(2) A person referred to in subsection (1)(a) must not disclose the existence or operation of the order except—
+(2) A person referred to in subsection (1)﻿(a) must not disclose the existence or operation of the order except—
   (a) to another person referred to in subsection (1); and
   (b) for the purpose of the performance of his or her duties.
-(3) A person referred to in subsection (1)(b) must not disclose the existence or operation of the order except—
+(3) A person referred to in subsection (1)﻿(b) must not disclose the existence or operation of the order except—
   (a) to another person referred to in subsection (1); and
   (b) for the purpose of ensuring that the order is complied with or obtaining legal advice or representation in relation to the order.
-(4) A person referred to in subsection (1)(c) must not disclose the existence or operation of the order except—
+(4) A person referred to in subsection (1)﻿(c) must not disclose the existence or operation of the order except—
   (a) to another person referred to in subsection (1); and
   (b) for the purpose of giving legal advice or making representations in relation to the order.
 (5) Nothing in subsections (1) to (4) prevents the disclosure of the existence or operation of a search order in connection with, or in the course of, proceedings before a court.
@@ -1502,7 +1504,7 @@ No person is excused from answering any question, supplying any information, pro
   (c) by sending it by pre-paid post addressed to the person at the usual or last known place of residence or business of the person.
 (2) If a notice or other document is to be given to a corporation for the purposes of this Act, service on an officer of the corporation, or on the registered office of the corporation, in accordance with subsection (1) is deemed to be service on the corporation.
 (3) If a notice or other document is to be given to a partnership for the purposes of this Act, service on any one of the partners in accordance with subsections (1) and (2) is deemed to be service on the partnership.
-(4) If a notice or other document is sent by post to a person in accordance with subsection (1)(c), it is deemed, in the absence of proof to the contrary, to have been given on the third day after the day on which it was posted.
+(4) If a notice or other document is sent by post to a person in accordance with subsection (1)﻿(c), it is deemed, in the absence of proof to the contrary, to have been given on the third day after the day on which it was posted.
 
 **Effect of death**
 
@@ -1575,10 +1577,10 @@ Sections 180 to 182 amend the Customs and Excise Act 1996.
   (c) he or she has good cause to suspect that the goods are an instrument of crime or tainted property (as those terms are defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009).
 
 ### 181 Further provisions about detention under section 166A
-Section 166C(4)(d) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+Section 166C(4)﻿(d) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
 
 ### 182 Return of goods detained under section 166A
-Section 166D(3) is amended by repealing paragraph (a) and substituting the following paragraph:.
+Section 166D(3) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) an information is laid in respect of the relevant qualifying instrument forfeiture offence (as defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009); or
 
 **Amendments to Evidence Act 2006**
@@ -1602,29 +1604,29 @@ The Long Title is amended by omitting Proceeds of Crime Act 1991 and substitutin
 
 ### 187 Verification of identity where money laundering or proceeds of crime suspected
 (1) The heading to section 11 is amended by omitting proceeds of crime and substituting proceeds of significant criminal activity.
-(2) Section 11(1)(b)(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+(2) Section 11(1)﻿(b)﻿(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
 
 ### 188 Offences
-Section 13(1)(j)(ii)(B) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+Section 13(1)﻿(j)﻿(ii)﻿(B) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
 
 ### 189 Financial institutions to report suspicious transactions
-Section 15(1)(b)(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+Section 15(1)﻿(b)﻿(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
 
 ### 190 Auditors may report suspicious transactions
 Section 16(b) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
 
 ### 191 Protection of identity of persons making suspicious transaction reports
-(1) Section 21(2)(b) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+(1) Section 21(2)﻿(b) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
 (2) Section 21(2) is amended by repealing paragraphs (c) and (d) and substituting the following paragraphs:
   (c) any activity relating to an application for a restraining order, assets forfeiture order, or profit forfeiture order under the Criminal Proceeds (Recovery) Act 2009:
   (d) any activity relating to the making of an instrument forfeiture order under section 142N of the Sentencing Act 2002:
   (e) the administration of the Mutual Assistance in Criminal Matters Act 1992.
 
 ### 192 Offences
-Section 22(1)(b)(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+Section 22(1)﻿(b)﻿(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
 
 ### 193 Commissioner to issue guidelines relating to reporting of suspicious transactions
-Section 24(1)(a)(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+Section 24(1)﻿(a)﻿(ii) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
 
 ### 194 Application of Privacy Act 1993
 (1) Section 28(c) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
@@ -1695,7 +1697,7 @@ Section 43 is repealed and the following section substituted:Effect of registrat
   Subject to sections 44 to 47, a forfeiture order registered in accordance with section 42 has effect and may be enforced as if it were a profit forfeiture order made by the High Court under the Criminal Proceeds (Recovery) Act 2009 and entered on the date of registration.
 
 ### 204 Registered forfeiture orders
-Section 44 is amended by repealing paragraph (a) and substituting the following paragraph:.
+Section 44 is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) subpart 3 of Part 2 of the Criminal Proceeds (Recovery) Act 2009 so far as is applicable and with any necessary modifications, and except to the extent that this Act provides otherwise, applies in relation to the order; and
 
 ### 205 Cancellation of registration of forfeiture order
@@ -1723,7 +1725,7 @@ Section 9 is amended by adding the following subsections:
   (13) Subsections (3) and (4) do not apply to an application for legal aid in respect of a civil proceeding under the Criminal Proceeds (Recovery) Act 2009.
 
 ### 210 Schedule 1 amended
-Schedule 1 is amended by repealing clause 3(1)(f) and substituting the following paragraphs:
+Schedule 1 is amended by repealing clause 3(1)﻿(f) and substituting the following paragraphs:
   (f) the value of the subject matter of the proceedings, unless the Agency determines a proportion of that value that should be included in the assessment of the person’s total assets:
   (g) the value of any property that is the subject of a restraining order under the Criminal Proceeds (Recovery) Act 2009.
 
@@ -1733,7 +1735,7 @@ Schedule 1 is amended by repealing clause 3(1)(f) and substituting the following
 Section 212 amends the Misuse of Drugs Act 1975.
 
 ### 212 Laundering proceeds of drug offences
-Section 12B(6)(b) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
+Section 12B(6)﻿(b) is amended by omitting Proceeds of Crime Act 1991 and substituting Criminal Proceeds (Recovery) Act 2009.
 
 **Amendment to Summary Proceedings Act 1957**
 
@@ -1742,7 +1744,7 @@ Section 214 amends the Summary Proceedings Act 1957.
 
 ### 214 Part 2 of Schedule 1 amended
 (1) Part 2 of Schedule 1 is amended by omitting the item relating to the Proceeds of Crime Act 1991.
-(2) Part 2 of Schedule 1 is amended by inserting the following item after the item relating to the Criminal Investigations (Bodily Samples) Act 1995:Criminal Proceeds (Recovery) Act 2009150Contravention of restraining orders or foreign restraining orders151Contravention of forfeiture orders or foreign forfeiture orders152Failing to comply with orders and search warrants154Offence to disclose existence or operation of search order155Offence of obstruction
+(2) Part 2 of Schedule 1 is amended by inserting the following item after the item relating to the Criminal Investigations (Bodily Samples) Act 1995:The following table is small in size and has 3 columns. This table amends Part 2 of Schedule 1 of the Criminal Investigations (Bodily Samples) Act 1995 and should be read with that table to provide understanding of the context.Criminal Proceeds (Recovery) Act 2009150Contravention of restraining orders or foreign restraining orders151Contravention of forfeiture orders or foreign forfeiture orders152Failing to comply with orders and search warrants154Offence to disclose existence or operation of search order155Offence of obstruction
 
 **Amendments to Tax Administration Act 1994**
 
@@ -1750,13 +1752,13 @@ Section 214 amends the Summary Proceedings Act 1957.
 Sections 216 and 217 amend the Tax Administration Act 1994.
 
 ### 216 Officers to maintain secrecy
-Section 81(4) is amended by inserting the following paragraph after paragraph (gb):.
-  (gc) communicating to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009) any information required for the purpose specified in subsection (2)(b) of that section:
+Section 81(4) is amended by inserting the following paragraph after paragraph (gb):
+  (gc) communicating to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009) any information required for the purpose specified in subsection (2)﻿(b) of that section:
 
 ### 217 Further secrecy requirements
-(1) Section 87(4) is amended by inserting the following paragraph after paragraph (db):.
+(1) Section 87(4) is amended by inserting the following paragraph after paragraph (db):
   (dc) where it is given to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009), be kept by the Commissioner as a permanent record:
-(2) Section 87(5)(a)(i) is amended by inserting (gc), after (gb),.
+(2) Section 87(5)﻿(a)﻿(i) is amended by inserting (gc), after (gb),.
 
 **Amendments to Terrorism Suppression Act 2002**
 
@@ -1764,13 +1766,13 @@ Section 81(4) is amended by inserting the following paragraph after paragraph (g
 Sections 219 to 225 amend the Terrorism Suppression Act 2002.
 
 ### 219 Prohibition on dealing with property of, or derived or generated from property of, terrorist and associated entities
-Section 9(3)(b) is amended by omitting section 50 of the Proceeds of Crime Act 1991 and substituting section 80 of the Criminal Proceeds (Recovery) Act 2009.
+Section 9(3)﻿(b) is amended by omitting section 50 of the Proceeds of Crime Act 1991 and substituting section 80 of the Criminal Proceeds (Recovery) Act 2009.
 
 ### 220 Further provisions about detention under section 47A
-Section 47C(5)(d) is amended by omitting Proceeds of Crime Act 1991, and substituting Criminal Proceeds (Recovery) Act 2009.
+Section 47C(5)﻿(d) is amended by omitting Proceeds of Crime Act 1991, and substituting Criminal Proceeds (Recovery) Act 2009.
 
 ### 221 Variation, revocation, or expiry of direction
-Section 50(3)(b) is repealed and the following paragraph substituted:
+Section 50(3)﻿(b) is repealed and the following paragraph substituted:
   (b) on a forfeiture order being made under section 55 in relation to the property concerned, in which case section 85 of the Criminal Proceeds (Recovery) Act 2009 (as modified and applied by section 57(b) of this Act) applies.
 
 ### 222 New section 51 substituted
@@ -1794,7 +1796,7 @@ Section 57 is repealed and the following section substituted:Further provisions 
     (b) section 85 of the Criminal Proceeds (Recovery) Act 2009 (which relates to the Official Assignee discharging the order), except that the relevant appeal period in relation to the making of an order under section 35(2) or section 55 of this Act means the period ending—
       (i) when the time for bringing an appeal against the decision of the Court expires, if no such appeal has been brought; or
       (ii) if an appeal against the decision of the Court has been brought, when the appeal is finally determined or withdrawn, whichever occurs first:
-    (c) section 142N(3)(a), (4), and (5) of the Sentencing Act 2002 (which relate to the terms of the order and to any directions that are necessary and convenient for giving effect to it).
+    (c) section 142N(3)﻿(a), (4), and (5) of the Sentencing Act 2002 (which relate to the terms of the order and to any directions that are necessary and convenient for giving effect to it).
 
 ### 224 New section 71 substituted
 Section 71 is repealed and the following section substituted:Criminal Proceeds (Recovery) Act 2009 not affected
