@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-11-07_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -1133,6 +1133,10 @@ The chief executive may, at any time, review the operation of any Customs-approv
 (1) It is unlawful to import into New Zealand—
   (a) any of the goods specified in Schedule 1; or
   (aa) all publications as defined in section 2 of the Films, Videos, and Publications Classification Act 1993 that are objectionable within the meaning of that Act in the hands of all persons and for all purposes; and all other indecent or obscene articles; or
+  (ab) goods designed, manufactured, or adapted with intent to facilitate the commission of a crime involving dishonesty; or
+  (ac) goods that, having regard to all relevant circumstances, can reasonably be considered—
+    (i) part of, or involved in, an attempt to commit a crime involving dishonesty to which section 72 of the Crimes Act 1961 applies; or
+    (ii) related to a conspiracy to commit a crime involving dishonesty to which section 310 of the Crimes Act 1961 applies; or
   (b) goods the importation of which is prohibited by an Order in Council made under subsection (2).
 (1A) Electronic publications the importation of which is prohibited by subsection (1)﻿(aa) must be treated as if they were goods for the purposes of this Act (except for section 12 of the Goods and Services Tax Act 1985 which is deemed by section 1(3) of that Act to be part of this Act).
 (2) The Governor-General may from time to time, by Order in Council, prohibit the importation into New Zealand of—if, in the opinion of the Governor-General, the prohibition is necessary in the public interest.
@@ -1151,6 +1155,7 @@ The chief executive may, at any time, review the operation of any Customs-approv
 (6) The expiry of an Order in Council under subsection (5) shall not affect the validity of any act done pursuant to or in accordance with the provisions of that Order in Council before the date on which the Order in Council expires in accordance with that subsection.
 (7) No goods otherwise dutiable are exempt from duty because their importation is unlawful.
 (8) All Orders in Council made under the Customs Act 1966 in force at the commencement of this Act prohibiting the importation of goods into New Zealand are deemed to have been made and confirmed under this section and shall continue in force in accordance with the provisions of section 55.
+(9) In this section, crime involving dishonesty has the same meaning as in section 2(1) of the Crimes Act 1961.
 
 ### 55 Duration of Orders in Council prohibiting imports
 (1) Subject to subsection (2), an Order in Council made under section 54 shall expire 3 years after the date on which it comes into force.
@@ -1161,6 +1166,10 @@ The chief executive may, at any time, review the operation of any Customs-approv
 ### 56 Prohibited exports
 (1) It is unlawful to export from New Zealand—
   (a) all publications as defined in section 2 of the Films, Videos, and Publications Classification Act 1993 that are objectionable within the meaning of that Act in the hands of all persons and for all purposes; and
+  (ab) goods designed, manufactured, or adapted with intent to facilitate the commission of a crime involving dishonesty; and
+  (ac) goods that, having regard to all relevant circumstances, can reasonably be considered—
+    (i) part of, or involved in, an attempt to commit a crime involving dishonesty to which section 72 of the Crimes Act 1961 applies; or
+    (ii) related to a conspiracy to commit a crime involving dishonesty to which section 310 of the Crimes Act 1961 applies; and
   (b) goods or electronic publications the exportation of which is prohibited by an order under subsection (2)﻿(a) or (b); and
   (c) goods or electronic publications the exportation of which the Secretary has determined is prohibited under an order under subsection (2)﻿(c).
 (1A) Electronic publications the exportation of which is prohibited by subsection (1) must be treated as if they were goods for the purposes of this Act (except for section 12 of the Goods and Services Tax Act 1985 which is deemed by section 1(3) of that Act to be part of this Act).
@@ -1176,6 +1185,7 @@ The chief executive may, at any time, review the operation of any Customs-approv
     (ii) any information recorded on them may be put; or
     (iii) any information capable of being derived from them may be put.
 (2A) For the purposes of this section,—
+  - **crime involving dishonesty** has the same meaning as in section 2(1) of the Crimes Act 1961
   - **military** includes any armed force, paramilitary force, Police force, or militia
   - **Secretary** means the Secretary of Foreign Affairs and Trade
   - **software** is, depending on its form, either goods or an electronic publication
@@ -3250,8 +3260,13 @@ For the purposes of this Act,—
 (1) Every person commits an offence who—
   (a) imports into New Zealand or unships or lands in New Zealand goods the importation of which is prohibited by or under section 54; or
   (b) exports, or transports with intent to export, goods from New Zealand the exportation of which is prohibited by or under section 56; or
-  (c) is knowingly concerned in any importation, exportation, transportation, shipment, unshipment, or landing of goods (other than objectionable publications) to which paragraph (a) or (b) applies; or
+  (c) except for the conduct described in paragraph (cab), is knowingly concerned in any importation, exportation, transportation, shipment, unshipment, or landing of goods (other than objectionable publications) to which paragraph (a) or (b) applies; or
   (ca) fails, in breach of section 56(2F), to inform the Secretary of Foreign Affairs and Trade that any goods or electronic publications he or she wishes to export are intended for or may have any of the uses described in an order made under section 56(2)﻿(c); or
+  (cab) is knowingly concerned in any importation or exportation of—
+    (i) goods that are designed, manufactured, or adapted with intent to facilitate the commission of a crime involving dishonesty; or
+    (ii) goods that, having regard to all relevant circumstances, can reasonably be considered—
+      (A) part of, or involved in, an attempt to commit a crime involving dishonesty to which section 72 of the Crimes Act 1961 applies; or
+      (B) related to a conspiracy to commit a crime involving dishonesty to which section 310 of the Crimes Act 1961 applies; or
   (d) without lawful justification or excuse, removes from a Customs controlled area imported goods the importation of which is prohibited by or under section 54; or
   (e) is knowingly concerned or conspires, in the removal from a Customs controlled area of goods (other than objectionable publications) the importation of which is prohibited by or under section 54; or
   (f) commits a breach of, or fails to comply with, a term or condition on or subject to which a licence, permit, or consent has been granted, under an Order in Council made under section 54(2) or section 56(2); or
@@ -3266,6 +3281,7 @@ For the purposes of this Act,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $50,000; or
   (c) in either case, to a fine of an amount not exceeding 3 times the value of the goods to which the offence relates.
+(2A) Every person who commits an offence against subsection (1)﻿(cab) is liable on conviction to imprisonment for a term not exceeding 3 years.
 (3) Every person who commits an offence against paragraph (a), (b), (ca), (d), or (f) of subsection (1) is liable on conviction,—
   (a) in the case of an individual to a fine not exceeding $5,000; or
   (b) in the case of a body corporate to a fine not exceeding $10,000.
@@ -3280,6 +3296,7 @@ For the purposes of this Act,—
     (i) it is committed before or after the commencement of section 132B of that Act; and
     (ii) the publication that was the subject of the offence is objectionable (within the meaning of that Act) because it does (to any extent) any or all of the things specified in section 132A(2)﻿(a) to (c) of that Act; and
   (c) is a relevant offence as defined in section 145A(1) of that Act (which relates to extraterritorial jurisdiction).
+(7) In this section, crime involving dishonesty has the same meaning as in section 2(1) of the Crimes Act 1961.
 
 ### 209A Publications imported or exported in course of official duties
 (1) Nothing in section 209 makes it an offence for a New Zealand official to do either or both of the following things for the purpose of, and in connection with, his or her official duties:
