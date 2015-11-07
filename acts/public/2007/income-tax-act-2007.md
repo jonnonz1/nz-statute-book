@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2015-10-23_
+_Consolidation as at 2015-11-07_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -6207,29 +6207,15 @@ Meaning of restitution
 Link with subpart DA
 (4) This section supplements the general permission and overrides the capital limitation and the private limitation. The other general limitations still apply.
 
-### DB 45 Bribes paid to public officials
+### DB 45 Bribes
 When this section applies
-(1) This section applies when—
-  (a) a person (person A) corruptly gives a bribe to another person; and
-  (b) person A gives the bribe intending to influence a public official to act, or to fail to act, in their official capacity in order to—
-    (i) obtain or retain business for person A; or
-    (ii) obtain an improper advantage for person A in the conduct of business; and
-  (c) the official either has or does not have the authority to act or to fail to act.
+(1) This section applies when a person (person A) gives or offers, or agrees to give, a bribe in the circumstances specified in section 101, 102(2), 103(2), 104(2), 105(2), 105C, or 105D(1) of the Crimes Act 1961.
 No deduction
 (2) Person A is denied a deduction for the amount of the bribe.
 Exclusions
-(3) This section does not apply if—
-  (a) person A gives the bribe outside New Zealand and, at the time, the bribe is not an offence under the laws of the foreign country where the principal office of the person, organisation, or other body that employs the foreign public official or for whom the official provides services is situated:
-  (b) the bribe is given wholly or mainly to ensure or expedite the performance by a foreign public official of a routine government action when the value of the benefit is small.
-Some definitions
-(4) In this section,—
-  - **benefit** , , and are defined in section 105C of the Crimes Act 1961
-  - **bribe** is defined in section 99 of the Crimes Act 1961
-  - **public official** means—
-    (a) a member of Parliament or a Minister of the Crown; and
-    (b) a judicial officer, a law enforcement officer, or an official, as those terms are defined in section 99 of the Crimes Act 1961; and
-    (c) a foreign public official
-  - **routine government action** is defined in section 105C of the Crimes Act 1961.
+(3) This section does not apply in the circumstances specified in section 105C(3) of the Crimes Act 1961.
+Definition
+(4) In this section, bribe is defined in section 99 of the Crimes Act 1961.
 Link with subpart DA
 (5) This section overrides the general permission.
 
@@ -38234,7 +38220,7 @@ In this Act, unless the context requires otherwise,—
   - **beneficial interest** includes an interest that is contingent, discretionary or unvested
   - **beneficiary** is defined in section DX 1(5) (Testamentary annuities) for the purposes of that section
   - **beneficiary income** is defined in section HC 6 (Beneficiary income)
-  - **benefit** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
+  - **benefit**
   - **benefit fund PIE** means a defined benefit fund that—
     (a) meets the requirements of section HM 7 (Requirements); and
     (b) chooses to become a PIE under section HM 71 (Choosing to become PIE); and
@@ -38270,7 +38256,7 @@ In this Act, unless the context requires otherwise,—
   - **branch equivalent tax account** means the account maintained by a BETA person under section OE 17(3) (Person choosing to become BETA person)
   - **branch equivalent tax credit** means a credit referred to in section OA 5(5) (Credits)
   - **branch equivalent tax debit** means a debit referred to in section OA 6(5) (Debits)
-  - **bribe** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
+  - **bribe** is defined in section DB 45(4) (Bribes) for the purposes of that section
   - **broodmare** means a broodmare that is bloodstock
   - **building** , in subparts EE and EZ, does not include—
     (a) a grandparented structure:
@@ -39190,7 +39176,7 @@ In this Act, unless the context requires otherwise,—
   - **foreign corporate limited partnership** means an entity or group of persons that—
     (a) meets the definition of overseas limited partnership in section 4 of the Limited Partnerships Act 2008; and
     (b) is treated as a separate legal entity under the laws (other than taxation laws) of the country, territory, or jurisdiction where it is established
-  - **foreign country** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
+  - **foreign country** is defined in section DB 45(4) (Bribes) for the purposes of that section
   - **foreign crew of fishing vessels instructions** means the immigration instructions for foreign crew of fishing vessels, certified under section 22(1) of the Immigration Act 2009
   - **foreign defined contribution scheme** means a foreign superannuation scheme that operates on the principle of allocating contributions to the scheme on a defined basis to individual members
   - **foreign dividend**
@@ -39220,7 +39206,7 @@ In this Act, unless the context requires otherwise,—
     (b) is not a dividend; and
     (c) is not FIF income calculated under the fair dividend rate method
   - **foreign PIE equivalent** is defined in section HM 3 (Foreign PIE equivalents)
-  - **foreign public official** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
+  - **foreign public official**
   - **foreign source income** is defined in section EG 1(10) (Election to use balance date used in foreign country) for the purposes of that section
   - **foreign-sourced amount** means an amount of income that is not treated as having a source in New Zealand under sections YD 4 (Classes of income treated as having New Zealand source) and YZ 1 (Source rule for interest)
   - **foreign superannuation scheme** means a superannuation scheme constituted outside New Zealand
@@ -40553,7 +40539,7 @@ In this Act, unless the context requires otherwise,—
     (d) is further defined in section CW 38(6) (Public authorities) for the purposes of that section; and
     (e) does not include a mixed-ownership enterprise
   - **public entertainer** is defined in section CW 19(3) (Amounts derived during short-term visits) for the purposes of that section
-  - **public official** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
+  - **public official**
   - **public unit trust** means—
     (a) a unit trust in respect of which regulated offers are made under the Financial Markets Conduct Act 2013 and that has 100 or more unit holders, treating all associated persons as 1 person, who are—
       (i) unit trust managers who hold units in the ordinary course of their activities in relation to the unit trust; or
@@ -40770,7 +40756,7 @@ In this Act, unless the context requires otherwise,—
   - **ring-fenced tax loss** means an amount referred to in section IA 7 (Restrictions relating to ring-fenced tax losses)
   - **RMBS special purpose vehicle**
   - **rolling average value** is defined in section EZ 4(5) (Valuation of livestock bailed or leased as at 2 September 1992) for the purposes of that section
-  - **routine government action** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
+  - **routine government action**
   - **royalty** is defined in section CC 9(2) and (3) (Royalties)
   - **RSCT** means retirement scheme contribution tax
   - **RSCT rules** is defined in section RH 1 (RSCT rules and their application)
