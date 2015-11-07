@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2015-07-03_
+_Consolidation as at 2015-11-07_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -17,7 +17,10 @@ _Consolidation as at 2015-07-03_
   - **Commonwealth country** means a country that is a member of the Commonwealth of Nations; and includes every territory for whose international relations the Government of any such country is responsible
   - **Commonwealth ship** means a ship registered or required to be registered in any Commonwealth country, or recognised by the law of any Commonwealth country as a ship belonging to that country; and includes any ship for the time being used as a ship of any of the armed forces of any Commonwealth country
   - **constable** has the meaning given in section 4 of the Policing Act 2008
-  - **crime involving dishonesty** means any crime described in Part 10 except the crimes described in sections 267 to 272
+  - **crime involving dishonesty** means any of the crimes or offences described in—
+    (a) sections 100 to 105F:
+    (b) Part 10, except sections 267 to 272, 298A, and 298B:
+    (c) the Secret Commissions Act 1910
   - **criminally responsible** means liable to punishment for an offence
   - **day** , or , means the interval between 6 o'clock in the morning of any day and 9 o'clock at night of the same day
   - **firearm** has the same meaning as in the Arms Act 1983
@@ -849,15 +852,24 @@ In sections 98C to 98F, unless the context otherwise requires,—
 (4) Proceedings may be brought under subsection (1) even if the unauthorised migrant did not in fact enter the State concerned.
 (5) Proceedings may be brought under subsection (2) even if the unauthorised migrant was not in fact brought to the State concerned.
 
-### 98D Trafficking in people by means of coercion or deception
-(1) Every one is liable to the penalty stated in subsection (2) who—
-  (a) arranges the entry of a person into New Zealand or any other State by 1 or more acts of coercion against the person, 1 or more acts of deception of the person, or both; or
-  (b) arranges, organises, or procures the reception, concealment, or harbouring in New Zealand or any other State of a person, knowing that the person's entry into New Zealand or that State was arranged by 1 or more acts of coercion against the person, 1 or more acts of deception of the person, or both.
+### 98D Trafficking in persons
+(1) Every person is liable to the penalty stated in subsection (2) who arranges, organises, or procures—
+  (a) the entry of a person into, or the exit of a person out of, New Zealand or any other State—
+    (i) for the purpose of exploiting or facilitating the exploitation of the person; or
+    (ii) knowing that the entry or exit of the person involves 1 or more acts of coercion against the person, 1 or more acts of deception of the person, or both; or
+  (b) the reception, recruitment, transport, transfer, concealment, or harbouring of a person in New Zealand or any other State—
+    (i) for the purpose of exploiting or facilitating the exploitation of the person; or
+    (ii) knowing that the reception, recruitment, transport, transfer, concealment, or harbouring of the person involves 1 or more acts of coercion against the person, 1 or more acts of deception of the person, or both.
 (2) The penalty is imprisonment for a term not exceeding 20 years, a fine not exceeding $500,000, or both.
-(3) Proceedings may be brought under this section even if the person coerced or deceived—
-  (a) did not in fact enter the State concerned; or (as the case may be)
-  (b) was not in fact received, concealed, or harboured in the State concerned.
-(4) Proceedings may be brought under this section even if parts of the process by which the person coerced or deceived was brought or came to or towards the State concerned were accomplished without an act of coercion or deception.
+(3) Proceedings may be brought under this section even if—
+  (a) parts of the process by which the person was exploited, coerced, or deceived were accomplished without an act of exploitation, coercion, or deception:
+  (b) the person exploited, coerced, or deceived—
+    (i) did not in fact enter or exit the State concerned; or
+    (ii) was not in fact received, recruited, transported, transferred, concealed, or harboured in the State concerned.
+(4) For the purposes of this section, exploit, in relation to a person, means to cause, or to have caused, that person, by an act of deception or coercion, to be involved in—
+  (a) prostitution or other sexual services:
+  (b) slavery, practices similar to slavery, servitude, forced labour, or other forced services:
+  (c) the removal of organs.
 
 ### 98E Aggravating factors
 (1) When determining the sentence to be imposed on, or other way of dealing with, a person convicted of an offence against section 98C or section 98D, a court must take into account—
@@ -926,6 +938,8 @@ Every official is liable to imprisonment for a term not exceeding 7 years who, w
 ### 105C Bribery of foreign public official
 (1) In this section and in sections 105D and 105E,—
   - **benefit** means any money, valuable consideration, office, or employment, or any benefit, whether direct or indirect
+  - **business** includes the provision of international aid
+  - **employee** , in relation to a body corporate or corporation sole, means an individual who is an employee, agent, director, or officer of that body corporate or corporation sole
   - **foreign country** includes—
     (a) a territory for whose international relations the Government of a foreign country is responsible; and
     (b) an organised foreign area or entity including an autonomous territory or a separate Customs territory
@@ -952,14 +966,29 @@ Every official is liable to imprisonment for a term not exceeding 7 years who, w
       (i) whether to award new business; or
       (ii) whether to continue existing business with any particular person or body; or
       (iii) the terms of new business or existing business; or
-    (b) any action that is outside the scope of the ordinary duties of that official.
-(2) Every one is liable to imprisonment for a term not exceeding 7 years who corruptly gives or offers or agrees to give a bribe to a person with intent to influence a foreign public official in respect of any act or omission by that official in his or her official capacity (whether or not the act or omission is within the scope of the official's authority) in order to—
+    (b) any action that is outside the scope of the ordinary duties of that official; or
+    (c) any action that provides—
+      (i) an undue material benefit to a person who makes a payment; or
+      (ii) an undue material disadvantage to any other person.
+(2) Every person commits an offence who corruptly gives or offers or agrees to give a bribe to a person with intent to influence a foreign public official in respect of any act or omission by that official in his or her official capacity (whether or not the act or omission is within the scope of the official's authority) in order to—
   (a) obtain or retain business; or
   (b) obtain any improper advantage in the conduct of business.
+(2A) A body corporate or corporation sole commits an offence against subsection (2) if—
+  (a) an employee of the body corporate or corporation sole does an act that would constitute an offence under subsection (2); and
+  (b) the employee does the act, in whole or in part, with the intent to benefit the body corporate or corporation sole; and
+  (c) the employee, in doing the act, is acting within the scope of their authority as an employee of the body corporate or corporation sole.
+(2B) A body corporate or corporation sole does not commit an offence under subsection (2) if it has taken reasonable steps to prevent the offence.
+(2C) If a body corporate or corporation sole is charged with an offence under subsection (2), it is to be presumed, unless the body corporate or corporation sole puts the matter at issue, that it did not take reasonable steps.
+(2D) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 7 years, or a fine, or both.
+(2E) A fine imposed under subsection (2D) cannot exceed the greater of—
+  (a) $5 million; or
+  (b) if a court is satisfied that an offence occurred in the course of producing a commercial gain, and if the value of that commercial gain can be readily ascertained, 3 times the value of that commercial gain.
 (3) This section does not apply if—
   (a) the act that is alleged to constitute the offence was committed for the sole or primary purpose of ensuring or expediting the performance by a foreign public official of a routine government action; and
   (b) the value of the benefit is small.
-(4) This section is subject to section 105E.
+(4) Subsections (2A), (2B), and (2C)—
+  (a) apply only in respect of offences under subsection (2) and section 105D; and
+  (b) do not preclude the liability of a body corporate or corporation sole under any other provision of this Act.
 
 ### 105D Bribery outside New Zealand of foreign public official
 (1) Every one commits an offence who, being a person described in subsection (2), does, outside New Zealand, any act that would, if done in New Zealand, constitute an offence against section 105C.
@@ -969,16 +998,24 @@ Every official is liable to imprisonment for a term not exceeding 7 years who, w
   (c) a body corporate incorporated in New Zealand; or
   (d) a corporation sole incorporated in New Zealand.
 (3) Every one who commits an offence against this section is liable to the same penalty to which the person would have been liable if the person had been convicted of an offence against section 105C.
-(4) This section is subject to section 105E.
+(4)
 
-### 105E Exception for acts lawful in country of foreign public official
-(1) Sections 105C and 105D do not apply if the act that is alleged to constitute an offence under either of those sections—
-  (a) was done outside New Zealand; and
-  (b) was not, at the time of its commission, an offence under the laws of the foreign country in which the principal office of the person, organisation, or other body for whom the foreign public official is employed or otherwise provides services, is situated.
-(2) If a person is charged with an offence under section 105C or section 105D, it is to be presumed, unless the person charged puts the matter at issue, that the act was an offence under the laws of the foreign country referred to in subsection (1)﻿(b).
+### 105E Corruption of foreign public officials
+(1) Every person specified in subsection (2) who corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for that person or another person in respect of any act or omission by an official in the official's official capacity (whether or not the act or omission is within the scope of the official's authority) is liable to imprisonment for a term not exceeding 7 years.
+(2) Subsection (1) applies to—
+  (a) any foreign public official who has committed the offence while in New Zealand:
+  (b) any person employed as a foreign public official who has committed the offence while outside New Zealand if the person is—
+    (i) a New Zealand citizen; or
+    (ii) ordinarily resident in New Zealand; or
+    (iii) a body corporate incorporated in New Zealand; or
+    (iv) a corporation sole incorporated in New Zealand.
+(3) Nothing in this section limits any immunity that a foreign public official or person has under this Act or any other enactment.
+
+### 105F Trading in influence
+Every person is liable to imprisonment for a term not exceeding 7 years who corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for that person or another person with intent to influence an official in respect of any act or omission by that official in the official's official capacity (whether or not the act or omission is within the scope of the official's authority).
 
 ### 106 Restrictions on prosecution
-(1) No one shall be prosecuted for an offence against any of the provisions of sections 100, 101, 104, 105, 105A, 105B, 105C, and 105D without the leave of the Attorney-General, who before giving leave may make such inquiries as he or she thinks fit.
+(1) No one shall be prosecuted for an offence against any of the provisions of sections 100, 101, 104, 105, 105A, 105B, 105C, 105D, 105E, and 105F without the leave of the Attorney-General, who before giving leave may make such inquiries as he or she thinks fit.
 (2) No Judge who holds his or her office subject to a power of removal by the Sovereign on an address of the House of Representatives shall be prosecuted for any such offence except by the Attorney-General in pursuance of a resolution of that House.
 
 **Contravention of statute**
@@ -2113,9 +2150,21 @@ Every one who commits theft is liable as follows:
 Every one is liable to imprisonment for a term not exceeding 1 year who, without lawful authority or excuse, has in his or her possession any instrument capable of being used for taking or converting any vehicle, ship, or aircraft with intent to use it for such a purpose.
 
 ### 228 Dishonestly taking or using document
-Every one is liable to imprisonment for a term not exceeding 7 years who, with intent to obtain any property, service, pecuniary advantage, or valuable consideration,—
+(1) Every one is liable to imprisonment for a term not exceeding 7 years who, with intent to obtain any property, service, pecuniary advantage, or valuable consideration,—
   (a) dishonestly and without claim of right, takes or obtains any document; or
   (b) dishonestly and without claim of right, uses or attempts to use any document.
+(2) Every person is liable to imprisonment for a term not exceeding 3 years who, without reasonable excuse, sells, transfers, or otherwise makes available any document knowing that—
+  (a) the document was, dishonestly and without claim of right, taken, obtained, or used; and
+  (b) the document was dealt with in the manner specified in paragraph (a) with intent to obtain any property, service, pecuniary advantage, or valuable consideration.
+
+### 228A Designing, manufacturing, or adapting goods with intent to facilitate commission of crimes involving dishonesty
+Every person is liable to imprisonment for a term not exceeding 3 years who designs, manufactures, or adapts goods with intent to facilitate the commission of a crime involving dishonesty.
+
+### 228B Possessing, selling, or disposing of goods designed, manufactured, or adapted with intent to facilitate commission of crimes involving dishonesty
+Every person is liable to imprisonment for a term not exceeding 3 years who, without lawful authority or excuse, possesses, sells, or disposes of any goods designed, manufactured, or adapted to facilitate the commission of a crime involving dishonesty, with intent to use, or to enable another person to use, the goods to facilitate the commission of a crime involving dishonesty.
+
+### 228C Possessing goods capable of being used to facilitate crimes involving dishonesty with intent to facilitate commission of those offences
+Every person is liable to imprisonment for a term not exceeding 3 years who, without lawful authority or excuse, possesses any goods capable of being used to facilitate the commission of a crime involving dishonesty (other than those specified in sections 227, 233, and 264) with intent to use the goods to facilitate the commission of that offence.
 
 ### 229 Criminal breach of trust
 (1) Every one is guilty of a criminal breach of trust who, as a trustee of any trust, dishonestly and contrary to the terms of that trust, converts anything to any use not authorised by the trust.
@@ -2195,6 +2244,7 @@ Every one who commits blackmail is liable to imprisonment for a term not exceedi
   (b) in incurring any debt or liability, obtains credit; or
   (c) induces or causes any other person to deliver over, execute, make, accept, endorse, destroy, or alter any document or thing capable of being used to derive a pecuniary advantage; or
   (d) causes loss to any other person.
+(1A) Every person is liable to imprisonment for a term not exceeding 3 years who, without reasonable excuse, sells, transfers, or otherwise makes available any document or thing capable of being used to derive a pecuniary advantage knowing that, by deception and without claim of right, the document or thing was, or was caused to be, delivered, executed, made, accepted, endorsed, or altered.
 (2) In this section, deception means—
   (a) a false representation, whether oral, documentary, or by conduct, where the person making the representation intends to deceive any other person and—
     (i) knows that it is false in a material particular; or
@@ -2230,6 +2280,7 @@ Every one who is guilty of obtaining by deception or causing loss by deception i
 
 ### 243 Money laundering
 (1) For the purposes of this section and sections 243A, 244 and 245,—
+  - **act** includes an omission
   - **conceal** , in relation to property, means to conceal or disguise the property; and includes, without limitation,—
     (a) to convert the property from one form to another:
     (b) to conceal or disguise the nature, source, location, disposition, or ownership of the property or of any interest in the property
@@ -2241,37 +2292,43 @@ Every one who is guilty of obtaining by deception or causing loss by deception i
   - **interest** , in relation to property, means—
     (a) a legal or equitable estate or interest in the property; or
     (b) a right, power, or privilege in connection with the property
-  - **proceeds** , in relation to a serious offence, means any property that is derived or realised, directly or indirectly, by any person from the commission of the offence
-  - **property** means real or personal property of any description, whether situated in New Zealand or elsewhere and whether tangible or intangible; and includes an interest in any such real or personal property
-  - **serious offence** means an offence punishable by imprisonment for a term of 5 years or more; and includes any act, wherever committed, that, if committed in New Zealand, would constitute an offence punishable by imprisonment for a term of 5 years or more.
-(2) Subject to sections 244 and 245, every one is liable to imprisonment for a term not exceeding 7 years who, in respect of any property that is the proceeds of a serious offence, engages in a money laundering transaction, knowing or believing that all or part of the property is the proceeds of a serious offence, or being reckless as to whether or not the property is the proceeds of a serious offence.
-(3) Subject to sections 244 and 245, every one is liable to imprisonment for a term not exceeding 5 years who obtains or has in his or her possession any property (being property that is the proceeds of a serious offence committed by another person)—
+  - **offence** means an offence (or any offence described as a crime) that is punishable under New Zealand law, including any act, wherever committed, that would be an offence in New Zealand if committed in New Zealand
+  - **proceeds** , in relation to an offence, means any property that is derived or realised, directly or indirectly, by any person from the commission of the offence
+  - **property** means real or personal property of any description, whether situated in New Zealand or elsewhere and whether tangible or intangible; and includes an interest in any such real or personal property.
+(2) Subject to sections 244 and 245, every one is liable to imprisonment for a term not exceeding 7 years who, in respect of any property that is the proceeds of an offence, engages in a money laundering transaction, knowing or believing that all or part of the property is the proceeds of an offence, or being reckless as to whether or not the property is the proceeds of an offence.
+(3) Subject to sections 244 and 245, every one is liable to imprisonment for a term not exceeding 5 years who obtains or has in his or her possession any property (being property that is the proceeds of an offence committed by another person)—
   (a) with intent to engage in a money laundering transaction in respect of that property; and
-  (b) knowing or believing that all or part of the property is the proceeds of a serious offence, or being reckless as to whether or not the property is the proceeds of a serious offence.
-(4) For the purposes of this section, a person engages in a money laundering transaction if, for the purpose of concealing any property or enabling another person to conceal any property, that person—
+  (b) knowing or believing that all or part of the property is the proceeds of an offence, or being reckless as to whether or not the property is the proceeds of an offence.
+(4) For the purposes of this section, a person engages in a money laundering transaction if, in concealing any property or by enabling any person to conceal any property, that person—
   (a) deals with that property; or
   (b) assists any other person, whether directly or indirectly, to deal with that property.
+(4A) Despite anything in subsection (4), the prosecution is not required to prove that the defendant had an intent to—
+  (a) conceal any property; or
+  (b) enable any person to conceal any property.
 (5) In any prosecution for an offence against subsection (2) or subsection (3),—
-  (a) it is not necessary for the prosecution to prove that the defendant knew or believed that the property was the proceeds of a particular serious offence or a particular class of serious offence:
-  (b) it is no defence that the defendant believed any property to be the proceeds of a particular serious offence when in fact the property was the proceeds of another serious offence.
+  (a) it is not necessary for the prosecution to prove that the defendant knew or believed that the property was the proceeds of a particular offence or a particular class of offence:
+  (b) it is no defence that the defendant believed any property to be the proceeds of a particular offence when in fact the property was the proceeds of another offence.
 (6) Nothing in this section or in sections 244 or 245 limits or restricts the operation of any other provision of this Act or any other enactment.
+(7) To avoid doubt, for the purposes of the definition of offence in subsection (1), New Zealand law includes, but is not limited to, the Misuse of Drugs Act 1975.
 
 ### 243A Charges for money laundering
-A person charged with an offence against section 243(2) or (3) of this Act or section 12B of the Misuse of Drugs Act 1975 in respect of any property that is the proceeds of a serious offence may be charged whether or not the person who committed that serious offence has been charged or convicted or is amenable to justice.
+A person may be charged under section 243(2) or (3) in respect of any property that is the proceeds of an offence to which section 243(2) or (3) applies even though the person who committed the offence—
+  (a) has not been charged with that offence; or
+  (b) has not been convicted of that offence.
 
 ### 244 Defence of enforcement of enactment
 It is a defence to a charge under section 243 if the person charged proves that the act to which the charge relates was done by that person, in good faith, for the purpose of, or in connection with,—
-  (a) the enforcement or intended enforcement of this section, any other provision of this Act, or any other enactment relating to a serious offence; or
+  (a) the enforcement or intended enforcement of section 243; or
   (b) the enforcement or intended enforcement of the Criminal Proceeds (Recovery) Act 2009; or
   (ba) the enforcement or intended enforcement of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
   (c) the enforcement or intended enforcement of the Financial Transactions Reporting Act 1996.
 
-### 245 Section 243 not to apply to certain acts committed outside New Zealand
-(1) Subject to subsection (2), section 243 does not apply if—
-  (a) any property is alleged to be the proceeds of a serious offence; and
-  (b) the act that is alleged to constitute that serious offence was committed outside New Zealand; and
-  (c) the act was not, at the time of its commission, an offence under the law of the place where the act was done.
-(2) If a person is charged with an offence under this section and the act that is alleged to constitute the serious offence resulting in the proceeds was committed outside New Zealand, it is to be presumed, unless the person charged puts the matter at issue, that the act was an offence under the law of the place where the act was done.
+### 245 Application of section 243 to acts outside New Zealand
+(1) Section 243 applies to an act that has occurred outside New Zealand and that is alleged to constitute an offence resulting in proceeds only if—
+  (a) the act was an offence under the law of the place where and when it occurred; or
+  (b) it is an act to which section 7 or 7A of this Act applies; or
+  (c) an enactment provides that the act is an offence in New Zealand, and no additional requirement exists for the act to be an offence in the place where and when it occurred.
+(2) If a person is charged with an offence under section 243 and subsection (1)﻿(a) applies, it is to be presumed, unless that person puts the matter at issue, that the act was an offence under the law of the place where and when it occurred.
 
 **Receiving**
 
@@ -2358,6 +2415,7 @@ For the purposes of this section and sections 256 and 263,—
 (2) Every one is liable to imprisonment for a term not exceeding 3 years who makes a false document, knowing it to be false, with the intent that it in any way be used or acted upon, whether in New Zealand or elsewhere, as genuine.
 (3) Forgery is complete as soon as the document is made with the intent described in subsection (1) or with the knowledge and intent described in subsection (2).
 (4) Forgery is complete even though the false document may be incomplete, or may not purport to be such a document as would be binding or sufficient in law, if it is so made and is such as to indicate that it was intended to be acted upon as genuine.
+(5) Every person is liable to imprisonment for a term not exceeding 3 years who, without reasonable excuse, sells, transfers, or otherwise makes available any false document knowing it to be false and to have been made with the intention that it be used or acted on (in New Zealand or elsewhere) as genuine.
 
 ### 257 Using forged documents
 (1) Every one is liable to imprisonment for a term not exceeding 10 years who, knowing a document to be forged,—
@@ -2374,6 +2432,11 @@ For the purposes of this section and sections 256 and 263,—
   (a) use or act upon the document altered or made; or
   (b) act on the basis of the absence of the document concealed or destroyed; or
   (c) be induced to do or refrain from doing anything.
+(3) Every person is liable to imprisonment for a term not exceeding 3 years who, without reasonable excuse, sells, transfers, or otherwise makes available any document knowing that—
+  (a) the document was altered, concealed, or made, in whole or in part, as a reproduction of another document; and
+  (b) the document was dealt with in the manner specified in paragraph (a) with intent to—
+    (i) obtain any property, privilege, service, pecuniary advantage, benefit, or valuable consideration; or
+    (ii) cause loss to any other person.
 
 ### 259 Using altered or reproduced document with intent to deceive
 (1) Every one is liable to imprisonment for a term not exceeding 10 years who, knowing any document to have been made or altered in the manner and with the intent referred to in section 258, with intent to obtain by deception any property, privilege, service, pecuniary advantage, benefit, or valuable consideration, or to cause loss to any other person,—
@@ -2634,6 +2697,77 @@ Every one is liable to imprisonment for a term not exceeding 2 years who conspir
 Every one who is accessory after the fact to any imprisonable offence, being an offence in respect of which no express provision is made by this Act or by some other enactment for the punishment of an accessory after the fact, is liable to imprisonment for a term not exceeding 7 years if the maximum punishment for that offence is imprisonment for life, and not exceeding 5 years if such maximum punishment is imprisonment for 10 or more years; and in any other case is liable to not more than half the maximum punishment to which he or she would have been liable if he or she had committed the offence.
 
 ## Part 11A — Obtaining evidence by interception devices
+
+**Interpretation**
+
+### 312A Interpretation
+[Repealed]
+
+**Applications for interception warrants in relation to organised criminal enterprises**
+
+### 312B Application by Police for warrant to intercept private communications
+[Repealed]
+
+### 312C Matters on which Judge must be satisfied in respect of applications
+[Repealed]
+
+**Applications for interception warrants in relation to serious violent offences**
+
+### 312CA Application by Police for warrant to intercept private communications in relation to serious violent offences
+[Repealed]
+
+### 312CB Matters on which Judge must be satisfied in respect of applications relating to serious violent offences
+[Repealed]
+
+### 312CC Application by Police for warrant to intercept private communications relating to terrorist offences
+[Repealed]
+
+### 312CD Matters of which Judge must be satisfied in respect of applications relating to terrorist offences
+[Repealed]
+
+**General provisions**
+
+### 312D Contents and term of warrant
+[Repealed]
+
+### 312E Effect of warrant
+[Repealed]
+
+### 312F Renewal of warrants
+[Repealed]
+
+### 312G Emergency permits
+[Repealed]
+
+### 312H Security of applications
+[Repealed]
+
+### 312I Destruction of irrelevant records made by use of interception device
+[Repealed]
+
+### 312J Destruction of relevant records made by use of interception device
+[Repealed]
+
+### 312K Prohibition on disclosure of private communications lawfully intercepted
+[Repealed]
+
+### 312L Notice to be given of intention to produce evidence of private communication
+[Repealed]
+
+### 312M Inadmissibility of evidence of private communications unlawfully intercepted
+[Repealed]
+
+### 312N Restriction on admissibility of evidence of private communications lawfully intercepted
+[Repealed]
+
+### 312O Privileged evidence
+[Repealed]
+
+### 312P Report to be made to Judge on use of warrant or permit
+[Repealed]
+
+### 312Q Commissioner of Police to give information to Parliament
+[Repealed]
 
 ## Part 12 — Procedure
 
