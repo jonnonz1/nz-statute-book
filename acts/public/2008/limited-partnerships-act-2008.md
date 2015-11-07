@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-11-07_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -851,7 +851,7 @@ When exercising a power described in section 78F or 78G, the Registrar (or a per
       (ii) any offence under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
       (iii) a money laundering offence (within the meaning of section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009); or
       (iv) any offence under section 143B of the Tax Administration Act 1994; or
-      (v) any serious offence (within the meaning of section 243(1) of the Crimes Act 1961):
+      (v) any offence that is punishable by imprisonment for a term of 5 years or more and includes any act, wherever committed, that if committed in New Zealand would constitute an offence punishable by imprisonment for a term of 5 years or more:
     (c) the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009:
     (d) the enforcement of the Misuse of Drugs Act 1975:
     (e) the enforcement of the Terrorism Suppression Act 2002:
