@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2015-11-07_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -360,7 +360,7 @@ Without limiting section 17, where,—then, notwithstanding that the disclosure 
 (2) No Police employee shall disclose any information to which this section applies except for 1 or more of the following purposes:
   (a) the detection, investigation, and prosecution of—
     (i) money laundering offences; and
-    (ii) any serious offence (within the meaning of section 243 of the Crimes Act 1961), in any case where any property (being property that is suspected of being connected with any money laundering transaction) is suspected of being the proceeds of that serious offence:
+    (ii) an offence within the meaning of section 243 of the Crimes Act 1961, in any case where any property (being property that is suspected of being connected with any money laundering transaction) is suspected of being the proceeds of that offence:
   (ab) the enforcement of the Terrorism Suppression Act 2002:
   (b) the enforcement of the Criminal Proceeds (Recovery) Act 2009:
   (c) any activity relating to an application for a restraining order, assets forfeiture order, or profit forfeiture order under the Criminal Proceeds (Recovery) Act 2009:
@@ -451,7 +451,7 @@ Any information contained in a suspicious transaction report or supplied in conn
   (a) the detection, investigation, and prosecution of offences against this Act:
   (b) the detection, investigation, and prosecution of—
     (i) money laundering offences; and
-    (ii) any serious offence (within the meaning of section 243 of the Crimes Act 1961), in any case where any property (being property that is suspected of being connected with any money laundering transaction) is suspected of being the proceeds of that serious offence:
+    (ii) an offence within the meaning of section 243 of the Crimes Act 1961, in any case where any property (being property that is suspected of being connected with any money laundering transaction) is suspected of being the proceeds of that offence:
   (c) the enforcement of the Criminal Proceeds (Recovery) Act 2009:
   (d) any activity relating to an application for a restraining order, assets forfeiture order, or profit forfeiture order under the Criminal Proceeds (Recovery) Act 2009:
   (da) the enforcement of the Terrorism Suppression Act 2002:
