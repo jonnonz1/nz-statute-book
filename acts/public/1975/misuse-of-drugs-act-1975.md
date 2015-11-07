@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2015-11-07_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -24,17 +24,17 @@ _Consolidation as at 2014-07-01_
   - **dependent** means being in a state of periodic or chronic intoxication, produced by the repeated consumption, smoking, or other use of a controlled drug detrimental to the person in relation to whom the word is used, and involving a compulsive desire to continue consuming, smoking, or otherwise using the drug or a tendency to increase the dose of the drug; and has a corresponding meaning
   - **designated prescriber** has the same meaning as it has in section 2(1) of the Medicines Act 1981
   - **Medical Officer of Health** means a Medical Officer of Health within the meaning of the Health Act 1956; and includes the officers referred to in section 22 of that Act
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
   - **Minister** means the Minister of Health
   - **nurse practitioner** means a health practitioner—
     (a) who is, or is deemed to be, registered with the Nursing Council as a practitioner of the profession of nursing; and
     (b) for whom the Nursing Council has authorised a scope of practice that includes prescribing medicines
-  - **Nursing Council** means the Nursing Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003
+  - **Nursing Council** means the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003
   - **optometrist** means a person—
     (a) who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board as a practitioner of optometry; and
     (b) for whom the Optometrists and Dispensing Opticians Board has authorised a scope of practice that includes prescribing medicines
-  - **Optometrists and Dispensing Opticians Board** means the Optometrists and Dispensing Opticians Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003
+  - **Optometrists and Dispensing Opticians Board** means the Optometrists and Dispensing Opticians Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003
   - **pharmacist** means a health practitioner who is, or is deemed to be, registered with the Pharmacy Council established by section 114(5) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of pharmacy
   - **precursor substance** means any substance specified or described in Part 1 or Part 2 or Part 3 of Schedule 4
   - **produce** includes compound; and has a corresponding meaning
@@ -80,8 +80,8 @@ The classification of a drug under this Act is based on the risk of harm the dru
 (1B) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, amend Schedule 5 by doing any of the following:
   (a) altering the amount, level, or quantity at and over which any controlled drug is presumed to be for supply:
   (b) adding any substance, preparation, mixture, or article that is to be classified as a controlled drug to clause 1 of Schedule 5 and the amount, level, or quantity at and over which it is presumed to be for supply.
-(1C) An Order in Council may not be made under subsection (1B)(a) in relation to a controlled drug unless the name or description of the controlled drug is, at the same time, being moved from Schedule 1, 2, or 3, or from a Part or clause of Schedule 1, 2, or 3 to another of those schedules, Parts, or clauses.
-(1D) An Order in Council may not be made under subsection (1B)(b) in relation to a substance, preparation, mixture, or article unless its name or description is, at the same time, being added to Schedule 1, 2, or 3.
+(1C) An Order in Council may not be made under subsection (1B)﻿(a) in relation to a controlled drug unless the name or description of the controlled drug is, at the same time, being moved from Schedule 1, 2, or 3, or from a Part or clause of Schedule 1, 2, or 3 to another of those schedules, Parts, or clauses.
+(1D) An Order in Council may not be made under subsection (1B)﻿(b) in relation to a substance, preparation, mixture, or article unless its name or description is, at the same time, being added to Schedule 1, 2, or 3.
 (2) An Order in Council made under subsection (1) or subsection (1B) may not come into force except in accordance with a commencement order made under section 4A.
 (3) An Order in Council made under subsection (1) or (1B) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4) The Governor-General may, by Order in Council,—
@@ -104,7 +104,7 @@ The classification of a drug under this Act is based on the risk of harm the dru
 (1) Before recommending to the Governor-General that an Order in Council be made under section 4(1), the Minister must, in respect of each substance, preparation, mixture, or article (drug) referred to in the proposed Order in Council,—
   (a) consult with, and consider any advice given by, the Expert Advisory Committee on Drugs established under section 5AA, about the drug; and
   (b) have regard to the matters set out in subsection (2).
-(2) The matters that the Minister must have regard to under subsection (1)(b), and on which the Expert Advisory Committee on Drugs must give advice, are—
+(2) The matters that the Minister must have regard to under subsection (1)﻿(b), and on which the Expert Advisory Committee on Drugs must give advice, are—
   (a) the likelihood or evidence of drug abuse, including such matters as the prevalence of the drug, levels of consumption, drug seizure trends, and the potential appeal to vulnerable populations; and
   (b) the specific effects of the drug, including pharmacological, psychoactive, and toxicological effects; and
   (c) the risks, if any, to public health; and
@@ -116,7 +116,7 @@ The classification of a drug under this Act is based on the risk of harm the dru
 (3) Before recommending to the Governor-General that an Order in Council be made under section 4(1B), the Minister must, in relation to the amount, level, or quantity at and over which any controlled drug is to be presumed to be for supply in the proposed Order in Council,—
   (a) consult with, and consider any advice given by, the Expert Advisory Committee on Drugs established under section 5AA, about the amount, level, or quantity at and over which a controlled drug might be presumed to be for supply; and
   (b) have regard to the matters in subsection (4).
-(4) The matters that the Minister must have regard to under subsection (3)(b), and on which the Expert Advisory Committee on Drugs may give advice, are—
+(4) The matters that the Minister must have regard to under subsection (3)﻿(b), and on which the Expert Advisory Committee on Drugs may give advice, are—
   (a) the amount of the drug that could reasonably be possessed for personal use, including, without limitation, levels of consumption, the ability of the drug to create physical or psychological dependence, and the specific effects of the drug; and
   (b) the amount, level, or quantity at and over which the drug is presumed to be for supply in other jurisdictions; and
   (c) any other matters that the Minister considers relevant.
@@ -193,7 +193,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
   (b) against paragraph (a) or paragraph (b) of subsection (1) committed in circumstances indicating to the Judge or court an intention to offend against paragraph (c) of that subsection,—
 (4A) Without limiting anything in subsection (4) or in Part 1 or section 39 or section 81 of the Sentencing Act 2002, where any person is convicted of an offence relating to a Class A controlled drug or a Class B controlled drug against any of paragraphs (a), (b), (c), and (f) of subsection (1), the Judge or court, if he or it decides to impose a sentence of imprisonment, shall consider whether or not he or it should also impose a fine.
 (5) For the purposes of paragraph (e) of subsection (1), if it is proved that a person has supplied a controlled drug to another person he shall until the contrary is proved be deemed to have sold that controlled drug to that other person.
-(6) For the purposes of subsection (1)(f), a person is presumed until the contrary is proved to be in possession of a controlled drug for any of the purposes in subsection (1)(c), (d), or (e) if he or she is in possession of the controlled drug in an amount, level, or quantity at or over which the controlled drug is presumed to be for supply (see section 2(1A)).
+(6) For the purposes of subsection (1)﻿(f), a person is presumed until the contrary is proved to be in possession of a controlled drug for any of the purposes in subsection (1)﻿(c), (d), or (e) if he or she is in possession of the controlled drug in an amount, level, or quantity at or over which the controlled drug is presumed to be for supply (see section 2(1A)).
 (7)
 
 ### 7 Possession and use of controlled drugs
@@ -279,10 +279,10 @@ For the purposes of this Act, the functions of the Minister include the provisio
 
 ### 12A Equipment, material, and substances used in production or cultivation of controlled drugs
 (1) Every person commits an offence against this Act who supplies, produces, or manufactures—knowing that the equipment, material, or substance is to be used in, or for, the commission of an offence against those provisions.
-  (a) any equipment or material that is capable of being used in, or for, the commission of an offence against section 6(1)(b) or section 9; or
+  (a) any equipment or material that is capable of being used in, or for, the commission of an offence against section 6(1)﻿(b) or section 9; or
   (b) any precursor substance—
 (2) Every person commits an offence against this Act who has in his or her possession—with the intention that the equipment, material, or substance is to be used in, or for, the commission of an offence against that provision.
-  (a) any equipment or material that is capable of being used in, or for, the commission of an offence against section 6(1)(b) or section 9; or
+  (a) any equipment or material that is capable of being used in, or for, the commission of an offence against section 6(1)﻿(b) or section 9; or
   (b) any precursor substance—
 (3) Every person who commits an offence against this section is liable on conviction,—
   (a) in the case of an offence against subsection (1), to imprisonment for a term not exceeding 7 years:
@@ -291,8 +291,8 @@ For the purposes of this Act, the functions of the Minister include the provisio
 
 ### 12AB Offence to knowingly import or export precursor substances for unlawful use
 (1) Every person commits an offence who—
-  (a) imports into New Zealand any precursor substance knowing that it will be used to commit an offence under section 6(1)(b) (which is the offence of producing or manufacturing any controlled drug); or
-  (b) exports from New Zealand any precursor substance knowing that it will be used to commit an offence under a provision of the law of the country to which the precursor substance is being exported that corresponds to an offence under section 6(1)(b).
+  (a) imports into New Zealand any precursor substance knowing that it will be used to commit an offence under section 6(1)﻿(b) (which is the offence of producing or manufacturing any controlled drug); or
+  (b) exports from New Zealand any precursor substance knowing that it will be used to commit an offence under a provision of the law of the country to which the precursor substance is being exported that corresponds to an offence under section 6(1)﻿(b).
 (2) A person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 7 years.
 (3)
 
@@ -300,8 +300,8 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (1) Every person commits an offence who, without reasonable excuse, imports into, or exports from, New Zealand any precursor substance.
 (2) Without limiting the circumstances under subsection (1) in which a person may have a reasonable excuse, a person has a reasonable excuse if—
   (a) he or she imports a precursor substance into New Zealand in order that—
-    (i) a medical practitioner, dentist, or veterinarian may, in the circumstances referred to in section 8(2)(a), produce or manufacture a controlled drug from the precursor substance; or
-    (ii) a pharmacist or any person with the authority and under the immediate supervision of a pharmacist may, in any of the circumstances referred to in section 8(2)(b), produce or manufacture a controlled drug from the precursor substance; or
+    (i) a medical practitioner, dentist, or veterinarian may, in the circumstances referred to in section 8(2)﻿(a), produce or manufacture a controlled drug from the precursor substance; or
+    (ii) a pharmacist or any person with the authority and under the immediate supervision of a pharmacist may, in any of the circumstances referred to in section 8(2)﻿(b), produce or manufacture a controlled drug from the precursor substance; or
     (iii) the precursor substance be used for a lawful purpose (including, without limitation, an agricultural, commercial, or industrial purpose); or
   (b) the precursor substance that he or she is importing into, or exporting from, New Zealand has been lawfully supplied to that person for his or her own medical use; or
   (c) he or she exports a precursor substance from New Zealand in order that the precursor substance be used for a purpose that is authorised or lawful under the law of the country to which it is being exported.
@@ -310,64 +310,18 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (5) A person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $1,000, or both.
 
 ### 12B Laundering proceeds of drug offences
-(1) In this section and section 12BA,—
-  - **conceal** , in relation to property,—
-    (a) means to conceal or disguise the property; and
-    (b) includes (without limitation)—
-      (i) to convert the property from one form to another:
-      (ii) to conceal or disguise the nature, source, location, disposition, or ownership of the property or of any interest in the property
-  - **deal with** , in relation to property,—
-    (a) means to deal with the property in any manner and by any means; and
-    (b) includes (without limitation)—
-      (i) to dispose of the property, whether by way of sale, purchase, gift, or otherwise:
-      (ii) to transfer possession of the property:
-      (iii) to bring the property into New Zealand:
-      (iv) to remove property from New Zealand
-  - **interest** , in relation to property, means—
-    (a) a legal or equitable estate or interest in the property:
-    (b) a right, power, or privilege in connection with the property
-  - **proceeds** , in relation to a specified drug offence, means any property that is derived or realised, directly or indirectly, by any person from the commission of the offence
-  - **property** —
-    (a) means real or personal property of any description, whether situated in New Zealand or elsewhere and whether tangible or intangible; and
-    (b) includes an interest in any such real or personal property
-  - **serious offence** has the same meaning as it has in section 243 of the Crimes Act 1961
-  - **specified drug offence** —
-    (a) means an offence against section 6 or section 9 or section 12A or section 12AB; and
-    (b) includes any act, wherever committed, which if committed in New Zealand would constitute an offence against any of those sections.
-(2) Subject to subsections (6) to (8), every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in respect of any property that is the proceeds of a specified drug offence, engages in a money laundering transaction, knowing or believing that all or part of the property is the proceeds of a specified drug offence, or being reckless as to whether or not the property is the proceeds of a specified drug offence.
-(3) Subject to subsections (6) to (8), every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who obtains or has in his or her possession any property (which property is the proceeds of a specified drug offence committed by another person)—
-  (a) with intent to engage in a money laundering transaction concerning that property; and
-  (b) knowing or believing that all or part of the property is the proceeds of a specified drug offence, or being reckless as to whether or not the property is the proceeds of a specified drug offence.
-(4) For the purposes of this section, a person engages in a money laundering transaction if that person—for the purpose of—
-  (a) deals with any property; or
-  (b) assists any other person, whether directly or indirectly, to deal with any property—
-  (c) concealing that property; or
-  (d) enabling another person to conceal that property.
-(5) In any prosecution for an offence against subsection (2) or subsection (3),—
-  (a) it is not necessary for the prosecution to prove that the defendant knew or believed that the property was the proceeds of a particular specified drug offence or a particular class of specified drug offence:
-  (b) it is no defence that the defendant believed any property to be the proceeds of a particular specified drug offence, when in fact the property was the proceeds of another specified drug offence.
-(6) It is a defence to a charge under this section if the act to which the charge relates was done by that person, in good faith, for the purpose of or in connection with—
-  (a) the enforcement or intended enforcement of this section or any other provision of this Act or any other enactment relating to a specified drug offence or any other serious offence; or
-  (b) the enforcement or intended enforcement of the Criminal Proceeds (Recovery) Act 2009; or
-  (ba) the enforcement or intended enforcement of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
-  (c) the enforcement or intended enforcement of the Financial Transactions Reporting Act 1996.
-(7) Subject to subsection (8), this section does not apply if—
-  (a) any property is alleged to be the proceeds of a serious offence; and
-  (b) the act that is alleged to constitute that serious offence was committed outside New Zealand; and
-  (c) the act was not, at the time of its commission, an offence under the law of the place where the act was done.
-(8) If a person is charged with an offence against this section and the act that is alleged to constitute the serious offence resulting in proceeds was committed outside New Zealand, it is to be presumed, unless the person charged puts the matter at issue, that the act was an offence under the law of the place where the act was done.
-(9) Nothing in this section limits or restricts the operation of any other provision of this Act or any other enactment.
+[Repealed]
 
 ### 12BA Charges for money laundering
-A person charged with an offence against section 12B or section 243(2) or (3) of the Crimes Act 1961 in respect of any property that is the proceeds of a serious offence may be charged whether or not the person who committed that serious offence has been charged or convicted or is amenable to justice.
+[Repealed]
 
 ### 12C Commission of offences outside New Zealand
 (1) Subject to subsection (2), every person commits an offence against this Act who, outside New Zealand, does or omits to do any act that would, if done or omitted in New Zealand, constitute an offence against—
   (a) section 6; or
   (b) section 9; or
   (c) section 12A; or
-  (ca) section 12AB; or
-  (d) section 12B.
+  (ca) section 12AB.
+  (d)
 (2) No proceedings for an offence against subsection (1) may be brought unless—
   (a) the person to be charged is a New Zealand citizen; or
   (b) the person to be charged is present in New Zealand.
@@ -514,24 +468,24 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
   (b) otherwise than in accordance with subsection (2).
 (1A) Every midwife, nurse practitioner, optometrist, or designated prescriber commits an offence against this Act who prescribes, administers, or supplies a controlled drug for or to a person who the midwife or prescriber has reason to believe is dependent on that or any other controlled drug, in the course of, or for the purpose of, the treatment of the person for dependency.
 (2) In the course or for the purpose of the treatment for dependency of a person who the practitioner has reason to believe is dependent on that or any other controlled drug, a medical practitioner may prescribe, administer, or provide a controlled drug for or to the person if the medical practitioner—
-  (a) is for the time being specified under subsection (7)(a); or
+  (a) is for the time being specified under subsection (7)﻿(a); or
   (b) is—
-    (i) working in an institution, clinic, or place for the time being specified under subsection (7)(b); and
-    (ii) for the time being authorised in writing to prescribe controlled drugs by a medical practitioner working in that institution, clinic, or place who is for the time being specified under subsection (7)(a); and
+    (i) working in an institution, clinic, or place for the time being specified under subsection (7)﻿(b); and
+    (ii) for the time being authorised in writing to prescribe controlled drugs by a medical practitioner working in that institution, clinic, or place who is for the time being specified under subsection (7)﻿(a); and
   (c) is—
-    (i) acting in the medical practitioner’s capacity as a medical officer employed by a hospital care operator within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001 for the time being specified under subsection (7)(b); and
+    (i) acting in the medical practitioner’s capacity as a medical officer employed by a hospital care operator within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001 for the time being specified under subsection (7)﻿(b); and
     (ii) for the time being authorised in writing by the person in charge of that institution, acting under the general or specific directions of a Medical Officer of Health, to prescribe controlled drugs; or
   (d) is acting—
     (i) with the permission in writing, given in relation to that particular person, of a medical practitioner for the time being authorised by paragraph (a) or paragraph (b) or paragraph (c) to do so; and
     (ii) during the period, and in accordance with the terms and conditions (if any), specified or imposed in the permission, or in any written modification of the permission, given by that medical practitioner.
-(3) Except with the concurrence of the Medical Officer of Health, no permission under subsection (2)(d) may specify a period longer than 3 months.
-(4) A permission under subsection (2)(d) may from time to time be renewed by the person who gave it, or any other medical practitioner authorised by that paragraph to give such a permission.
-(5) Except with the concurrence of the Medical Officer of Health, no renewal under subsection (4) of a permission under subsection (2)(d) may be for a period longer than 3 months.
+(3) Except with the concurrence of the Medical Officer of Health, no permission under subsection (2)﻿(d) may specify a period longer than 3 months.
+(4) A permission under subsection (2)﻿(d) may from time to time be renewed by the person who gave it, or any other medical practitioner authorised by that paragraph to give such a permission.
+(5) Except with the concurrence of the Medical Officer of Health, no renewal under subsection (4) of a permission under subsection (2)﻿(d) may be for a period longer than 3 months.
 (6) An authority or permission given or renewed under subsection (2) or subsection (4)—
   (a) may at any time be withdrawn by the person who gave or renewed it, by written notice to the person to whom it was given; and
   (b) is deemed to have been withdrawn when, as the case may be,—
-    (i) the notice under subsection (7)(a) specifying the medical practitioner by whom the authority or permission was given is revoked; or
-    (ii) the notice under subsection (7)(b) specifying the institution, clinic, or place, in respect of which the authority or permission concerned was given or renewed is revoked; or
+    (i) the notice under subsection (7)﻿(a) specifying the medical practitioner by whom the authority or permission was given is revoked; or
+    (ii) the notice under subsection (7)﻿(b) specifying the institution, clinic, or place, in respect of which the authority or permission concerned was given or renewed is revoked; or
     (iii) the medical practitioner by whom the authority or permission was given dies, or ceases to work in the premises, clinic, or place to which the authority relates.
 (7) The Minister may from time to time, by notice in the Gazette,—
   (a) specify any medical practitioner (by name) as a medical practitioner who may, subject to any general or specific conditions imposed by the Minister on the recommendation of the Director-General of Health, prescribe, administer, or supply controlled drugs for the purposes of this section:
@@ -628,9 +582,9 @@ In any proceedings against any person in respect of any offence against this Act
 (5) If the court is considering whether to make an order for forfeiture under subsection (4), sections 128(5), 130, and 131 of the Sentencing Act 2002 apply to the extent that they are applicable and subject to any necessary modifications.
 (6) If an order for forfeiture is made under subsection (4), the following provisions of the Sentencing Act 2002 apply to the extent that they are applicable and subject to any necessary modifications and the exception in paragraph (b):
   (a) sections 132 to 136:
-  (b) section 137, except that section 137(3)(c) and (g) do not apply and, instead, any proceeds of sale remaining after payment in accordance with section 137(3)(a), (b), and (d) to (fb) must be paid into a Crown Bank Account:
+  (b) section 137, except that section 137(3)﻿(c) and (g) do not apply and, instead, any proceeds of sale remaining after payment in accordance with section 137(3)﻿(a), (b), and (d) to (fb) must be paid into a Crown Bank Account:
   (c) sections 138, 138A, and 140:
-  (d) section 140A (including section 140A(4), which applies despite section 137(3)(c) not otherwise being applicable):
+  (d) section 140A (including section 140A(4), which applies despite section 137(3)﻿(c) not otherwise being applicable):
   (e) sections 141A and 142.
 
 ### 33 Notification of conviction of medical practitioners, etc
@@ -1163,7 +1117,7 @@ The salts of the substances listed in clause 1 whenever the existence of such sa
 
 ### 1
 The controlled drugs listed in the first column are presumed to be for supply at and over the amount, level, or quantity listed in the second column.
-Amphetamine5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMorphine5 grams, whether or not contained in a substance, preparation, or mixtureCocainehalf a gram, whether or not contained in a substance, preparation, or mixtureHeroinhalf a gram, whether or not contained in a substance, preparation, or mixtureKetamine (2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone)10 grams, whether or not contained in a substance, preparation, or mixtureLysergidetwo and a half milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugDOB (2-amino-1-(4-bromo-2,5-dimethoxyphenyl)propane) (also known as bromo-DMA)100 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDMA (2-methylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugN-ETHYL MDA (2-ethylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDA (2-amino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTetrahydrocannabinol (as described in Schedule 2)250 milligrams, whether or not contained in a substance, preparation, or mixtureAny cannabis preparation (as described in Schedule 2)5 grams or 100 cigarettes containing the drugCannabis plant (as described in Schedule 3)28 grams or 100 cigarettes containing the drugBZP (1-benzylpiperazine or A2 benzylpiperazine or N-benzylpiperazine (1-benzyl-1,4-diazacyclohexane))5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTFMPP (1-(3-trifluoromethylphenyl)piperazine or N-(3-trifluoromethylphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugpFPP (1-(4-fluorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMeOPP (1-(4-methoxyphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugmCPP (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMBZP (1-methyl-4-benzylpiperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMethamphetamine5 grams, whether or not contained in a substance, preparation, or mixtureEphedrine10 grams, whether or not contained in a substance, preparation, or mixturePseudoephedrine10 grams, whether or not contained in a substance, preparation, or mixture
+The following table is small in size and has 2 columns without headings.Amphetamine5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMorphine5 grams, whether or not contained in a substance, preparation, or mixtureCocainehalf a gram, whether or not contained in a substance, preparation, or mixtureHeroinhalf a gram, whether or not contained in a substance, preparation, or mixtureKetamine (2-(2-chlorophenyl)-2-(methylamino)-cyclohexanone)10 grams, whether or not contained in a substance, preparation, or mixtureLysergidetwo and a half milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugDOB (2-amino-1-(4-bromo-2,5-dimethoxyphenyl)propane) (also known as bromo-DMA)100 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDMA (2-methylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugN-ETHYL MDA (2-ethylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDA (2-amino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTetrahydrocannabinol (as described in Schedule 2)250 milligrams, whether or not contained in a substance, preparation, or mixtureAny cannabis preparation (as described in Schedule 2)5 grams or 100 cigarettes containing the drugCannabis plant (as described in Schedule 3)28 grams or 100 cigarettes containing the drugBZP (1-benzylpiperazine or A2 benzylpiperazine or N-benzylpiperazine (1-benzyl-1,4-diazacyclohexane))5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTFMPP (1-(3-trifluoromethylphenyl)piperazine or N-(3-trifluoromethylphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugpFPP (1-(4-fluorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMeOPP (1-(4-methoxyphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugmCPP (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMBZP (1-methyl-4-benzylpiperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMethamphetamine5 grams, whether or not contained in a substance, preparation, or mixtureEphedrine10 grams, whether or not contained in a substance, preparation, or mixturePseudoephedrine10 grams, whether or not contained in a substance, preparation, or mixture
 
 ### 2
 Any controlled drug not specified in clause 1 is presumed to be for supply at and over the level of 56 grams.
@@ -1179,7 +1133,7 @@ This Act may be cited as the Misuse of Drugs Amendment Act 1978, and shall be re
     (a) dealing (in any of the ways referred to in section 6(1) of the principal Act) with a substantial amount of a controlled drug in respect of which a prescribed cannabis offence may be committed:
     (b) cultivation of a prohibited plant (being a prohibited plant in respect of which a prescribed cannabis offence may be committed) on a substantial scale
   - **drug dealing offence** means,—in relation to a Class A controlled drug or a Class B controlled drug
-    (a) in sections 30, 34, 38 to 41, 43, and 47, any offence against section 12C(1)(a) of the principal Act:
+    (a) in sections 30, 34, 38 to 41, 43, and 47, any offence against section 12C(1)﻿(a) of the principal Act:
     (b) any offence against section 6 of the principal Act—
   - **emergency permit** means a permit granted under section 19 to intercept a private communication by means of an interception device
   - **facility** means an electronic address, phone number, or similar facility that enables private communications to—
@@ -1212,7 +1166,7 @@ This Part shall apply notwithstanding anything in the Postal Services Act 1998 o
 **Special powers of Police and Customs officers**
 
 ### 12 Allowing delivery of unlawfully imported drugs or precursor substances for purpose of detection, etc
-(1) Where any Customs officer acting in the course of his or her official duties believes on reasonable grounds that there is in or on any craft, package, mail, vehicle, or goods any controlled drug or precursor substance that has been imported into New Zealand in contravention of section 6(1)(a) or section 12AB of the principal Act, he or she may, for the purpose of his or her investigation of the matter, leave or replace that drug or precursor substance, or any portion of it, in or on the craft, package, mail, vehicle, or goods and may, in the same manner as if there had been delivery from Customs control,—as the case may require.
+(1) Where any Customs officer acting in the course of his or her official duties believes on reasonable grounds that there is in or on any craft, package, mail, vehicle, or goods any controlled drug or precursor substance that has been imported into New Zealand in contravention of section 6(1)﻿(a) or section 12AB of the principal Act, he or she may, for the purpose of his or her investigation of the matter, leave or replace that drug or precursor substance, or any portion of it, in or on the craft, package, mail, vehicle, or goods and may, in the same manner as if there had been delivery from Customs control,—as the case may require.
   (a) allow the craft or vehicle to leave; or
   (b) allow the package, goods, or mail to be collected by or delivered to or on behalf of the consignee; or
   (ba) allow the package, goods, or mail to be delivered by a person who has agreed to co-operate with Customs; or
@@ -1224,11 +1178,11 @@ This Part shall apply notwithstanding anything in the Postal Services Act 1998 o
 (1) In this section, an international controlled delivery means allowing a controlled drug or precursor substance (or substance substituted in the place of a controlled drug or precursor substance) to pass through or into the territory of 1 or more countries—
   (a) with the agreement of the relevant law enforcement agencies of the countries which it is to pass through or into; and
   (b) with a view to identifying persons involved in the commission of an offence—
-    (i) under section 6(1)(a) or section 12AB of the principal Act; or
+    (i) under section 6(1)﻿(a) or section 12AB of the principal Act; or
     (ii) that would, if done or committed in New Zealand, be an offence under either of those sections.
-(2) Nothing in subsection (3) affects the liability of any person charged with an offence under section 6(1)(a) or section 12AB or section 12AC of the principal Act.
-(3) Any constable, Customs officer, or officer of a relevant law enforcement agency with which there is an agreement under subsection (1)(a) who is involved in an international controlled delivery—
-  (a) does not commit an offence under section 6(1)(a), 12AB, or 12AC of the principal Act by reason of taking part in that international controlled delivery; and
+(2) Nothing in subsection (3) affects the liability of any person charged with an offence under section 6(1)﻿(a) or section 12AB or section 12AC of the principal Act.
+(3) Any constable, Customs officer, or officer of a relevant law enforcement agency with which there is an agreement under subsection (1)﻿(a) who is involved in an international controlled delivery—
+  (a) does not commit an offence under section 6(1)﻿(a), 12AB, or 12AC of the principal Act by reason of taking part in that international controlled delivery; and
   (b) unless he or she is acting in bad faith, is not subject to any criminal or civil liability as a result of taking part in that international controlled delivery.
 
 **Internal concealment**
@@ -1341,7 +1295,7 @@ On causing any person to be detained under section 13A, a constable or an office
 (4) A strip search of a person must not be carried out in view of any other person who is detained or being searched.
 
 ### 13EE Reporting search associated with detention warrant
-A constable or a Customs officer who undertakes a search under section 13EA must, within 3 working days of the search, give a written report of the search, the circumstances in which it was conducted, and the matters that gave rise to the reasonable cause to suspect required by section 13EA(2)(b) to,—
+A constable or a Customs officer who undertakes a search under section 13EA must, within 3 working days of the search, give a written report of the search, the circumstances in which it was conducted, and the matters that gave rise to the reasonable cause to suspect required by section 13EA(2)﻿(b) to,—
   (a) in the case of a constable, the Commissioner of Police; and
   (b) in the case of a Customs officer, the Chief Executive of the New Zealand Customs Service.
 
@@ -1455,7 +1409,7 @@ In any case where any person is convicted of a drug dealing offence and the cour
 
 ### 41 Inability of offender to explain source of money or assets may be evidence
 (1) Where, in any case to which section 38 applies, the offender fails to explain to the court’s satisfaction the source of any money or assets owned by him, the court may accept that as evidence that the money or assets was or were derived by the offender from the offence.
-(2) Where, on any application for the exercise of the court’s power under section 39, the court is satisfied in accordance with subsection (1)(a) of that section that the offender has committed any previous drug dealing offence, and the offender fails to explain to the court’s satisfaction the source of any money or assets owned by him, the court may accept that as evidence that the money or assets was or were derived by the offender from that previous drug dealing offence.
+(2) Where, on any application for the exercise of the court’s power under section 39, the court is satisfied in accordance with subsection (1)﻿(a) of that section that the offender has committed any previous drug dealing offence, and the offender fails to explain to the court’s satisfaction the source of any money or assets owned by him, the court may accept that as evidence that the money or assets was or were derived by the offender from that previous drug dealing offence.
 
 ### 42 Court may treat alienated property as offender’s
 Where, in any case to which section 38 or section 39 applies, it appears to the court that any disposition of money or assets has been made, whether for value or not, by or on behalf of or by direction of or in the interests of the defendant to defeat the exercise of the court’s power under those sections, the court may, on the application of the prosecutor or of its own motion, treat the money or assets as belonging to the offender for the purposes of those sections.
@@ -1499,7 +1453,7 @@ This Part shall be administered by the Ministry of Justice.
   (c) after the commencement of this section, the substance, preparation, mixture, or article may be analysed, or the analysis of that substance, preparation, mixture, or article may be completed, as the case requires, by any analyst within the meaning of subsection (1) of section 31 of the principal Act (as amended by section 5):
   (d) a certificate of the kind referred to in section 31(2) of the principal Act may, after the commencement of this section, be issued in respect of that substance, preparation, mixture, or article by any such analyst:
   (e) no such analysis, and no certificate so issued, shall be invalid on the ground—
-    (i) that, in the case of any substance, preparation, mixture, or article to which paragraph (b)(i) applies, the person to whom the substance, preparation, mixture, or article was addressed was, before the commencement of this section, an analyst within the meaning of subsection (1) of section 31 of the principal Act (as that subsection existed immediately before the commencement of this section) and either ceased to be such an analyst on or before the commencement of this section or was, after the commencement of this section, an analyst within the meaning of that subsection (as amended by section 5); or
+    (i) that, in the case of any substance, preparation, mixture, or article to which paragraph (b)﻿(i) applies, the person to whom the substance, preparation, mixture, or article was addressed was, before the commencement of this section, an analyst within the meaning of subsection (1) of section 31 of the principal Act (as that subsection existed immediately before the commencement of this section) and either ceased to be such an analyst on or before the commencement of this section or was, after the commencement of this section, an analyst within the meaning of that subsection (as amended by section 5); or
     (ii) that the analysis was done or completed, or the certificate was issued, by an analyst who was not the analyst to whom the substance, preparation, mixture, or article was delivered or posted, pursuant to section 31 of the principal Act, before the commencement of this section; or
     (iii) that the person who carried out or completed the analysis or issued the certificate either was not, before the commencement of this section, an analyst within the meaning of subsection (1) of section 31 of the principal Act (as that subsection existed immediately before the commencement of this section), or was such an analyst before the commencement of this section and was, after the commencement of this section, an analyst within the meaning of that subsection (as amended by section 5).
 (3) Notwithstanding anything in section 31 of the principal Act, where, before the commencement of this section, any certificate of the kind referred to in subsection (2) of that section has been issued in respect of the analysis of any substance, preparation, mixture, or article, a certificate of that kind may, from time to time, after the commencement of this section, be issued by any analyst within the meaning of subsection (1) of that section (as amended by section 5) in any case where that analyst has available to him or her such information as is necessary to enable that analyst to fully complete that certificate.
