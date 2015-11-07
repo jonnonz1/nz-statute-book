@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-11-07_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -212,7 +212,7 @@ A person is qualified to be registered as a financial service provider if—
     (ii) being a promoter of an overseas company:
     (iii) being concerned in or taking part in the management of an overseas company:
   (d) a person who has been convicted of an offence against section 11, 12, or 41 within the past 5 years:
-  (e) a person who has been convicted of an offence under sections 217 to 266 of the Crimes Act 1961 within the past 5 years:
+  (e) a person who has been convicted of a crime involving dishonesty as defined in section 2(1) of the Crimes Act 1961 within the past 5 years:
   (ea) a person who has been convicted within the past 5 years, in a country other than New Zealand, of an offence that is substantially similar to an offence specified in paragraph (e):
   (f) a person who has been convicted of a money laundering offence or an offence relating to the financing of terrorism, whether in New Zealand or elsewhere:
   (g) a person who is subject to a confiscation order under the Proceeds of Crime Act 1991.
@@ -881,8 +881,8 @@ The person responsible for an approved dispute resolution scheme must notify the
 (1) The person responsible for an approved dispute resolution scheme must—
   (a) co-operate with other approved dispute resolution schemes if a complaint involves members of those other schemes (disclosing personal information in accordance with the Privacy Act 1993 and protecting information that is subject to an obligation of confidence); and
   (b) co-operate with the Registrar, including by communicating information to the Registrar in accordance with sections 17 and 34; and
-  (c) if there is a series of material complaints about a particular licensed provider or class of licensed provider, communicate that fact to the relevant licensing authority:
-  (ca) if there is a series of material complaints about a particular creditor under a consumer credit contract or class of such creditors, communicate that fact to the Commerce Commission:
+  (c) if there is a series of material complaints about a particular licensed provider or class of licensed provider, communicate that fact to the relevant licensing authority; and
+  (ca) if there is a series of material complaints about a particular creditor under a consumer credit contract or class of such creditors, communicate that fact to the Commerce Commission; and
   (d) if there is a series of material complaints about a particular broker or class of broker, communicate that fact to the FMA.
 (2) In subsection (1)﻿(ca), consumer credit contract—
   (a) has the same meaning as in section 11 of the Credit Contracts and Consumer Finance Act 2003; and
