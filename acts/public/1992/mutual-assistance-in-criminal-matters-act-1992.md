@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-11-07_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -245,14 +245,14 @@ Where—the Minister shall direct that the person be released from custody.
     (i) the purpose to which the request relates; or
     (ii) the purpose of giving evidence in any criminal proceedings in New Zealand certified by the Attorney-General, in writing, to be proceedings in which it is desirable that the person give evidence; or
     (iii) the purpose of giving assistance in relation to an investigation in New Zealand certified by the Attorney-General, in writing, to be an investigation in relation to which it is desirable that the person give assistance.
-(4) A certificate given by the Attorney-General for the purposes of subparagraph (ii) or subparagraph (iii) of subsection (3)(b) has effect from the day specified in the certificate (which may be a day before the day on which the certificate is given).
+(4) A certificate given by the Attorney-General for the purposes of subparagraph (ii) or subparagraph (iii) of subsection (3)﻿(b) has effect from the day specified in the certificate (which may be a day before the day on which the certificate is given).
 
 ### 18 Limitation on use of evidence
 Where—that evidence shall not be admitted or otherwise used in any prosecution of the person for any offence against the law of New Zealand, except on the trial of the person for perjury within the meaning of the Crimes Act 1961 in respect of the giving of that evidence.
   (a) a person is in New Zealand pursuant to a request made under section 12; and
   (b) that person gives evidence in any criminal proceedings, being—
     (i) the criminal proceedings to which the request relates or any criminal proceedings consequent on the investigation to which the request relates; or
-    (ii) criminal proceedings certified by the Attorney-General pursuant to section 17(3)(b)(ii) in relation to that person,—
+    (ii) criminal proceedings certified by the Attorney-General pursuant to section 17(3)﻿(b)﻿(ii) in relation to that person,—
 
 **Assistance in serving documents**
 
@@ -326,7 +326,7 @@ If a convention country requests assistance under this Part in accordance with a
 (1) Every request by a foreign country for assistance in a criminal matter pursuant to this Part shall be made—
   (a) to the Attorney-General; or
   (b) to a person authorised by the Attorney-General, in writing, to receive requests by foreign countries under this Part.
-(2) Where a request by a foreign country is made to a person authorised under subsection (1)(b), the request shall be taken, for the purposes of this Act, to have been made to the Attorney-General.
+(2) Where a request by a foreign country is made to a person authorised under subsection (1)﻿(b), the request shall be taken, for the purposes of this Act, to have been made to the Attorney-General.
 
 ### 25A Ad hoc requests for assistance
 (1) This section applies where a foreign country requests assistance under this Part and that country—
@@ -397,10 +397,10 @@ Every request by a foreign country for assistance under this Part shall—
     (i) would impose an excessive burden on the resources of New Zealand; or
     (ii) relates to a matter that is trivial in nature; or
   (h) the request does not comply with the requirements of section 26.
-(3) No request shall be refused solely on the grounds contained in subsection (2)(g) unless—
+(3) No request shall be refused solely on the grounds contained in subsection (2)﻿(g) unless—
   (a) the Attorney-General has first consulted with the Central Authority of the requesting country about the terms and conditions on which the request may be complied with; and
   (b) the Attorney-General has been unable to reach agreement with the Authority in that regard.
-(4) No request shall be refused solely on the grounds contained in subsection (2)(h) unless the Attorney-General has first requested further information from the requesting country and that country has failed or refused to provide that information.
+(4) No request shall be refused solely on the grounds contained in subsection (2)﻿(h) unless the Attorney-General has first requested further information from the requesting country and that country has failed or refused to provide that information.
 (5) Subject to subsection (1), the Attorney-General may grant a request even though the request does not comply with the requirements of section 26.
 
 ### 28 Notification of refusal
@@ -450,7 +450,7 @@ Assistance under this Part may be provided to a requesting country subject to su
   (a) the person to whom the proceedings in the foreign country relate:
   (b) any other person giving evidence or producing documents or other articles at the hearing:
   (c) the relevant authority of the foreign country.
-(2) The certificate by the Judge under section 31(3)(a) shall state whether or not any of the persons listed in subsection (1) of this section were present at the hearing and, if so, whether or not they were legally represented.
+(2) The certificate by the Judge under section 31(3)﻿(a) shall state whether or not any of the persons listed in subsection (1) of this section were present at the hearing and, if so, whether or not they were legally represented.
 
 ### 35 Powers of Judge may be exercised by Registrar
 (1) Any Judge may authorise a Registrar of the High Court to exercise the powers of a Judge under section 31 in respect of any particular case.
@@ -490,8 +490,8 @@ Nothing in this Act limits or affects the Evidence Act 2006.
 (3) Where assistance is authorised in accordance with subsection (2), the Attorney-General may,—
   (a) in the case of a person who is a prisoner, direct that the prisoner be released from the prison in which that person is detained for the purpose of travelling to the foreign country to give evidence at the hearing, and may make arrangements for the prisoner to travel to the foreign country in the custody of a constable or a prison officer:
   (b) in the case of any other person, approve and arrange the travel of the person to the foreign country to give evidence at the hearing, and may obtain such approvals, authorities, and permissions as are required for the purpose, including the variation, discharge, or suspension of the conditions of the person’s release, or the variation, cancellation, or suspension of the person’s sentence, or of the conditions of the person’s sentence.
-(4) A direction given, pursuant to subsection (3)(a), by the Attorney-General in respect of a prisoner shall be sufficient authority for the release of the prisoner from the penal institution in which he or she is detained for the purposes of the direction.
-(5) Every person released under a direction given pursuant to subsection (3)(a) shall, while that person is in New Zealand during the period of that release, be deemed, for the purposes of section 120 of the Crimes Act 1961 (which relates to escaping from lawful custody) and for that purpose only, to continue to be in the legal custody of the person in whose custody he or she was when in the prison from which he or she is so released.
+(4) A direction given, pursuant to subsection (3)﻿(a), by the Attorney-General in respect of a prisoner shall be sufficient authority for the release of the prisoner from the penal institution in which he or she is detained for the purposes of the direction.
+(5) Every person released under a direction given pursuant to subsection (3)﻿(a) shall, while that person is in New Zealand during the period of that release, be deemed, for the purposes of section 120 of the Crimes Act 1961 (which relates to escaping from lawful custody) and for that purpose only, to continue to be in the legal custody of the person in whose custody he or she was when in the prison from which he or she is so released.
 
 ### 39 Undertakings required from foreign country
 Where, pursuant to section 37 or section 38, a foreign country requests the assistance of the Attorney-General in arranging the attendance, in that country, of a person to whom either of those sections applies, the Attorney-General shall, before authorising assistance in accordance with either of those sections in that case, obtain undertakings from the foreign country in relation to the following matters:
@@ -742,167 +742,195 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
   (e) providing for the payment of fees, travelling allowances, and expenses to any person in New Zealand who gives or provides evidence or assistance pursuant to a request made under this Act:
   (f) prescribing conditions for the protection of any property sent to or by a foreign country pursuant to a request made under this Act; and making provision for the return of property in New Zealand pursuant to a request:
   (g) providing for such other matters as are contemplated by or are necessary for giving full effect to this Act and for its due administration.
-(2) Regulations made pursuant to subsection (1)(a) may state that the application of Part 3 to a prescribed foreign country may—
+(2) Regulations made pursuant to subsection (1)﻿(a) may state that the application of Part 3 to a prescribed foreign country may—
   (a) be subject to such conditions, exceptions, or qualifications as are specified in the regulations:
   (b) be subject to such limitations, conditions, exceptions, or qualifications as are necessary to give effect to a treaty between New Zealand and that country and relating (in whole or in part) to the provision of assistance in criminal matters, being a treaty a copy of which is set out in the regulations.
 
 ## Schedule 1 — Limitations on requests by convention countries
 
-|  |  |  |  | Convention under which request made | New Zealand offence that convention country offence would correspond to |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1The Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, Including Diplomatic Agents, opened for signature at New York on 14 December 1973or2The Convention on the Safety of United Nations and Associated Personnel, opened for signature at New York on 9 December 1994 |  |  |  |  | An offence against any of the following sections of the Crimes Act 1961: |  |
-|  | section |  | subject matter |  |  |  |
-|  |  |  |  |  | 128 | sexual violation |
-|  |  |  |  |  | 129 | attempt to commit sexual violation |
-|  |  |  |  |  | 142A | compelling indecent act with animal |
-|  |  |  |  |  | 167, 168 | murder |
-|  |  |  |  |  | 171 | manslaughter |
-|  |  |  |  |  | 173 | attempt to murder |
-|  |  |  |  |  | 174 | counselling or attempting to procure murder |
-|  |  |  |  |  | 176 | accessory after the fact to murder |
-|  |  |  |  |  | 188(1) | wounding with intent to cause grievous bodily harm |
-|  |  |  |  |  | 188(2) | wounding with intent to injure |
-|  |  |  |  |  | 189(1) | injuring with intent to cause grievous bodily harm |
-|  |  |  |  |  | 189(2) | injuring with intent to injure, or with reckless disregard for the safety of others |
-|  |  |  |  |  | 191(1) | aggravated wounding |
-|  |  |  |  |  | 191(2) | aggravated injury |
-|  |  |  |  |  | 192 | aggravated assault |
-|  |  |  |  |  | 197 | disabling |
-|  |  |  |  |  | 198 | discharging firearm or doing dangerous act with intent |
-|  |  |  |  |  | 199 | acid throwing |
-|  |  |  |  |  | 200 | poisoning with intent |
-|  |  |  |  |  | 201 | infecting with disease |
-|  |  |  |  |  | 209 | kidnapping |
-|  |  |  |  |  | 294 | arson |
-|  |  |  |  |  | 295 | attempted arson |
-|  |  |  |  |  | 296 | damage to other property by fire or explosive |
-|  |  |  |  |  | 297 | attempt to damage property by fire or explosive |
-|  |  |  |  |  | 298 | wilful damage |
-|  |  |  |  |  | 300 | interfering with means of transport |
-|  |  |  |  |  | An offence against any of the following sections of the Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 3 | crimes against persons |
-|  |  |  |  |  | 4 | crimes against premises or vehicles |
-|  |  |  |  |  | 5 | threats against persons |
-|  |  |  |  |  | 6 | threats against premises or vehicles |
-|  |  |  |  | 3The Convention Against the Taking of Hostages, opened for signature at New York on 18 December 1979 | An offence against the following section of the Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 8 | hostage taking |
-|  |  |  |  | 4The United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, adopted in Vienna on 19 December 1988 | An offence against any of the following sections of the Misuse of Drugs Act 1975: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 6 | dealing with controlled drugs |
-|  |  |  |  |  | 9 | cultivation of prohibited plants |
-|  |  |  |  |  | 10 | aiding offences against corresponding law of another country |
-|  |  |  |  |  | 12A | equipment, material, and substances used in production or cultivation of controlled drugs |
-|  | 12AB |  | Offence to knowingly import or export precursor substances for unlawful use |  |  |  |
-|  |  |  |  |  | 12B | laundering proceeds of drug offences |
-|  |  |  |  |  | 12C | commission of offences outside New Zealand |
-|  |  |  |  | 5The Single Convention on Narcotic Drugs, done at New York on 30 March 1961or6The Protocol to the Single Convention on Narcotic Drugs, done at Geneva on 25 March 1972or7The Convention on Psychotropic Substances, done at Vienna on 21 February 1971 | An offence against any of the following sections of the Misuse of Drugs Act 1975: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 6 | dealing with controlled drugs |
-|  |  |  |  |  | 9 | cultivation of prohibited plants |
-|  |  |  |  | 8The Convention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment, adopted by the General Assembly of the United Nations on 10 December 1984 | An offence against the following section of the Crimes of Torture Act 1989: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 3 | acts of torture |
-|  |  |  |  | 9The Convention for the Suppression of Unlawful Seizure of Aircraft, done at the Hague on 16 December 1970 | An offence against any of the following sections of the Aviation Crimes Act 1972: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 3 | hijacking |
-|  |  |  |  |  | 4 | crimes in connection with hijacking |
-|  |  |  |  | 10The Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation, done at Montreal on 23 September 1971 | An offence against the following section of the Aviation Crimes Act 1972: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 5 | other crimes relating to aircraft |
-|  |  |  |  | 11The Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, done at Montreal on 24 February 1988 | An offence against the following section of the Aviation Crimes Act 1972: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 5A | crimes relating to international airports |
-|  |  |  |  | 12The Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation, done at Rome on 10 March 1988 | An offence against the following section of the Maritime Crimes Act 1999: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 4 | crimes relating to ships |
-|  |  |  |  | 13The Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf, done at Rome on 10 March 1988 | An offence against the following section of the Maritime Crimes Act 1999: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 5 | crimes relating to fixed platforms |
-|  |  |  |  | 14The Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, done at Paris on 17 December 1997 | An offence against any of the following sections of the Crimes Act 1961: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 105C | bribery of foreign public official |
-|  |  |  |  |  | 105D | bribery outside New Zealand of foreign public official |
-|  |  |  |  | 15The Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field, adopted at Geneva on 12 August 1949 | An offence against the following section of the Geneva Conventions Act 1958: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 3 | punishment for grave breaches of Conventions or First Protocol |
-|  |  |  |  | 16The Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea, adopted at Geneva on 12 August 1949 | An offence against the following section of the Geneva Conventions Act 1958: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 3 | punishment for grave breaches of Conventions or First Protocol |
-|  |  |  |  | 17The Geneva Convention Relative to the Treatment of Prisoners of War, adopted at Geneva on 12 August 1949 | An offence against the following section of the Geneva Conventions Act 1958: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 3 | punishment for grave breaches of Conventions or First Protocol |
-|  |  |  |  | 18The Geneva Convention Relative to the Protection of Civilian Persons in Time of War, adopted at Geneva on 12 August 1949 | An offence against the following section of the Geneva Conventions Act 1958: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 3 | punishment for grave breaches of Conventions or First Protocol |
-|  |  |  |  | 19The Protocol Additional to the Geneva Conventions of 12 August 1949, and Relating to the Protection of Victims of International Armed Conflicts, adopted at Geneva on 8 June 1977 | An offence against the following section of the Geneva Conventions Act 1958: |  |
-|  |  |  |  |  | section | subject matter |
-|  |  |  |  |  | 3 | punishment for grave breaches of Conventions or First Protocol |
-| 20The United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000 |  |  |  |  | An offence against any of the following sections of the Crimes Act 1961: |  |
-|  | section |  | subject matter |  |  |  |
-|  | 98A |  | participation in organised criminal group |  |  |  |
-|  | 100 |  | judicial corruption |  |  |  |
-|  | 101 |  | bribery of judicial officer, etc |  |  |  |
-|  | 102 |  | corruption and bribery of Minister of the Crown |  |  |  |
-|  | 103 |  | corruption and bribery of member of Parliament |  |  |  |
-|  | 104 |  | corruption and bribery of law enforcement officer |  |  |  |
-|  | 105 |  | corruption and bribery of official |  |  |  |
-|  | 116 |  | conspiring to defeat justice |  |  |  |
-|  | 117 |  | corrupting juries and witnesses |  |  |  |
-|  | 257A |  | money laundering |  |  |  |
-|  |  |  |  |  | Any offence against any Act if—ait is punishable by imprisonment for a term of 4 years or more; andbthere are reasonable grounds to suspect that it is transnational in nature (as defined in Articles 3(2) and 18(1) of the convention referred to in column 1) and involves an organised criminal group (as defined in Article 2(a) of that convention) |  |
-| 21The Protocol against the Smuggling of Migrants, by Land, Sea and Air, supplementing the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000 |  |  |  |  | An offence against the, following section of the Crimes Act 1961: |  |
-|  | section |  | subject matter |  |  |  |
-|  | 98C |  | smuggling migrants |  |  |  |
-|  |  |  |  |  | An offence against any of the following sections of the Passports Act 1992: |  |
-|  | 29A |  | forged and false New Zealand travel documents |  |  |  |
-|  | 30 |  | offences relating to passport information and material |  |  |  |
-|  | 30A |  | improper issue of New Zealand travel document |  |  |  |
-|  | 31(1) |  | other offences |  |  |  |
-|  | 31(2) |  | defacing or destroying document |  |  |  |
-|  | 32 |  | false representations |  |  |  |
-| 22The Protocol to Prevent, Suppress and Punish Trafficking of Persons, especially Women and Children, supplementing the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000 |  |  |  |  | An offence against the following section of the Crimes Act 1961: |  |
-|  | section |  | subject matter |  |  |  |
-|  | 98D |  | trafficking in people by means of coercion or deception |  |  |  |
-| 23The International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations at New York on 15 December 1997 |  |  |  |  | An offence against the following section of the Terrorism Suppression Act 2002: |  |
-|  | section |  | subject matter |  |  |  |
-|  | 7(1) |  | terrorist bombing |  |  |  |
-| 24The International Convention for the Suppression of the Financing of Terrorism, adopted by the General Assembly of the United Nations at New York on 9 December 1999 |  |  |  |  | An offence—aagainst the following section of the Terrorism Suppression Act 2002:sectionsubject matter8(1)financing of terrorism; and |  |
-| section |  | subject matter |  |  |  |  |
-| 8(1) |  | financing of terrorism; and |  |  |  |  |
-|  |  |  |  |  | bthat involves a terrorist act of a kind referred to in section 5(1)(b) or (c) of that Act |  |
-| 27The Convention on the Physical Protection of Nuclear Materials done at Vienna on 26 October 1979 |  |  |  |  | An offence against the following section of the Terrorism Suppression Act 2002: |  |
-|  | section |  | subject matter |  |  |  |
-|  | 13C |  | offences involving the physical protection of nuclear materials |  |  |  |
-| 28The International Convention against the Recruitment, Use, Financing and Training of Mercenaries, done at New York on 4 December 1989 |  |  |  |  | An offence against the following sections of the Mercenary Activities (Prohibition) Act 2004: |  |
-|  | section |  | subject matter |  |  |  |
-|  | 7 |  | recruiting person to be mercenary |  |  |  |
-|  | 8 |  | using mercenary |  |  |  |
-|  | 9 |  | financing mercenary |  |  |  |
-|  | 10 |  | training prospective mercenary |  |  |  |
-|  | 11 |  | training mercenary |  |  |  |
-|  | 12 |  | mercenary taking part in hostilities or concerted act of violence |  |  |  |
-| 29The Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution and Child Pornography, adopted by the General Assembly of the United Nations at New York on 25 May 2000 |  |  |  |  | An offence against the following section of the Adoption Act 1955: |  |
-|  | section |  | subject matter |  |  |  |
-|  | 27A |  | Offence to induce consent |  |  |  |
-|  |  |  |  |  | An offence—aagainst any of the following sections of the Films, Videos, and Publications Classification Act 1993:sectionsubject matter124(1)knowingly making or supplying objectionable publications, etc127(4)knowing exhibition to persons under 18129(3)knowing distribution of objectionable publication in public place131A(1)knowingly having possession of objectionable publication; and |  |
-| section |  | subject matter |  |  |  |  |
-| 124(1) |  | knowingly making or supplying objectionable publications, etc |  |  |  |  |
-| 127(4) |  | knowing exhibition to persons under 18 |  |  |  |  |
-| 129(3) |  | knowing distribution of objectionable publication in public place |  |  |  |  |
-| 131A(1) |  | knowingly having possession of objectionable publication; and |  |  |  |  |
-|  |  |  |  |  | bthat involves child pornography (as defined in section 145A(1) of that Act) |  |
-|  |  |  |  |  | An offence—aagainst the following section of the Customs and Excise Act 1996:sectionsubject matter209(1A)knowing importation or exportation of objectionable publications; and |  |
-| section |  | subject matter |  |  |  |  |
-| 209(1A) |  | knowing importation or exportation of objectionable publications; and |  |  |  |  |
-|  |  |  |  |  | bthat involves child pornography (as defined section 145A(1) of the Films, Videos, and Publications Classification Act 1993) |  |
-| 30The Convention for the Suppression of Acts of Nuclear Terrorism, adopted by the General Assembly of the United Nations at New York on 13 April 2005 |  |  |  |  | An offence against the following section of the Terrorism Suppression Act 2002 |  |
-|  | section |  | subject matter |  |  |  |
-|  | 13E |  | offences involving radioactive material and radioactive devices |  |  |  |
-| 31The Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict, done at The Hague on 26 March 1999. |  |  |  |  | An offence against the following section of the Cultural Property (Protection in Armed Conflict) Act 2012: |  |
-|  | section |  | subject matter |  |  |  |
-|  | 7 |  | Serious violations of the Second Protocol. |  |  |  |
+|  |  |  |  |  | Convention under which request made | New Zealand offence that convention country offence would correspond to |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1The Convention on the Prevention and Punishment of Crimes Against Internationally Protected Persons, Including Diplomatic Agents, opened for signature at New York on 14 December 1973or2The Convention on the Safety of United Nations and Associated Personnel, opened for signature at New York on 9 December 1994 |  |  |  |  |  | An offence against any of the following sections of the Crimes Act 1961: |  |
+|  | section |  | subject matter |  |  |  |  |
+|  |  |  |  |  |  | 128 | sexual violation |
+|  |  |  |  |  |  | 129 | attempt to commit sexual violation |
+|  |  |  |  |  |  | 142A | compelling indecent act with animal |
+|  |  |  |  |  |  | 167, 168 | murder |
+|  |  |  |  |  |  | 171 | manslaughter |
+|  |  |  |  |  |  | 173 | attempt to murder |
+|  |  |  |  |  |  | 174 | counselling or attempting to procure murder |
+|  |  |  |  |  |  | 176 | accessory after the fact to murder |
+|  |  |  |  |  |  | 188(1) | wounding with intent to cause grievous bodily harm |
+|  |  |  |  |  |  | 188(2) | wounding with intent to injure |
+|  |  |  |  |  |  | 189(1) | injuring with intent to cause grievous bodily harm |
+|  |  |  |  |  |  | 189(2) | injuring with intent to injure, or with reckless disregard for the safety of others |
+|  |  |  |  |  |  | 191(1) | aggravated wounding |
+|  |  |  |  |  |  | 191(2) | aggravated injury |
+|  |  |  |  |  |  | 192 | aggravated assault |
+|  |  |  |  |  |  | 197 | disabling |
+|  |  |  |  |  |  | 198 | discharging firearm or doing dangerous act with intent |
+|  |  |  |  |  |  | 199 | acid throwing |
+|  |  |  |  |  |  | 200 | poisoning with intent |
+|  |  |  |  |  |  | 201 | infecting with disease |
+|  |  |  |  |  |  | 209 | kidnapping |
+|  |  |  |  |  |  | 294 | arson |
+|  |  |  |  |  |  | 295 | attempted arson |
+|  |  |  |  |  |  | 296 | damage to other property by fire or explosive |
+|  |  |  |  |  |  | 297 | attempt to damage property by fire or explosive |
+|  |  |  |  |  |  | 298 | wilful damage |
+|  |  |  |  |  |  | 300 | interfering with means of transport |
+|  |  |  |  |  |  | An offence against any of the following sections of the Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 3 | crimes against persons |
+|  |  |  |  |  |  | 4 | crimes against premises or vehicles |
+|  |  |  |  |  |  | 5 | threats against persons |
+|  |  |  |  |  |  | 6 | threats against premises or vehicles |
+|  |  |  |  |  | 3The Convention Against the Taking of Hostages, opened for signature at New York on 18 December 1979 | An offence against the following section of the Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 8 | hostage taking |
+|  |  |  |  |  | 4The United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, adopted in Vienna on 19 December 1988 | An offence against any of the following sections of the Misuse of Drugs Act 1975: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 6 | dealing with controlled drugs |
+|  |  |  |  |  |  | 9 | cultivation of prohibited plants |
+|  |  |  |  |  |  | 10 | aiding offences against corresponding law of another country |
+|  |  |  |  |  |  | 12A | equipment, material, and substances used in production or cultivation of controlled drugs |
+|  | 12AB |  | Offence to knowingly import or export precursor substances for unlawful use |  |  |  |  |
+|  |  |  |  |  |  | 12B | laundering proceeds of drug offences |
+|  |  |  |  |  |  | 12C | commission of offences outside New Zealand |
+|  |  |  |  |  | 5The Single Convention on Narcotic Drugs, done at New York on 30 March 1961or6The Protocol to the Single Convention on Narcotic Drugs, done at Geneva on 25 March 1972or7The Convention on Psychotropic Substances, done at Vienna on 21 February 1971 | An offence against any of the following sections of the Misuse of Drugs Act 1975: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 6 | dealing with controlled drugs |
+|  |  |  |  |  |  | 9 | cultivation of prohibited plants |
+|  |  |  |  |  | 8The Convention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment, adopted by the General Assembly of the United Nations on 10 December 1984 | An offence against the following section of the Crimes of Torture Act 1989: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 3 | acts of torture |
+|  |  |  |  |  | 9The Convention for the Suppression of Unlawful Seizure of Aircraft, done at the Hague on 16 December 1970 | An offence against any of the following sections of the Aviation Crimes Act 1972: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 3 | hijacking |
+|  |  |  |  |  |  | 4 | crimes in connection with hijacking |
+|  |  |  |  |  | 10The Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation, done at Montreal on 23 September 1971 | An offence against the following section of the Aviation Crimes Act 1972: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 5 | other crimes relating to aircraft |
+|  |  |  |  |  | 11The Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, done at Montreal on 24 February 1988 | An offence against the following section of the Aviation Crimes Act 1972: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 5A | crimes relating to international airports |
+|  |  |  |  |  | 12The Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation, done at Rome on 10 March 1988 | An offence against the following section of the Maritime Crimes Act 1999: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 4 | crimes relating to ships |
+|  |  |  |  |  | 13The Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf, done at Rome on 10 March 1988 | An offence against the following section of the Maritime Crimes Act 1999: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 5 | crimes relating to fixed platforms |
+|  |  |  |  |  | 14The Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, done at Paris on 17 December 1997 | An offence against any of the following sections of the Crimes Act 1961: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 105C | bribery of foreign public official |
+|  |  |  |  |  |  | 105D | bribery outside New Zealand of foreign public official |
+|  |  |  |  |  | 15The Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field, adopted at Geneva on 12 August 1949 | An offence against the following section of the Geneva Conventions Act 1958: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 3 | punishment for grave breaches of Conventions or First Protocol |
+|  |  |  |  |  | 16The Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea, adopted at Geneva on 12 August 1949 | An offence against the following section of the Geneva Conventions Act 1958: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 3 | punishment for grave breaches of Conventions or First Protocol |
+|  |  |  |  |  | 17The Geneva Convention Relative to the Treatment of Prisoners of War, adopted at Geneva on 12 August 1949 | An offence against the following section of the Geneva Conventions Act 1958: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 3 | punishment for grave breaches of Conventions or First Protocol |
+|  |  |  |  |  | 18The Geneva Convention Relative to the Protection of Civilian Persons in Time of War, adopted at Geneva on 12 August 1949 | An offence against the following section of the Geneva Conventions Act 1958: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 3 | punishment for grave breaches of Conventions or First Protocol |
+|  |  |  |  |  | 19The Protocol Additional to the Geneva Conventions of 12 August 1949, and Relating to the Protection of Victims of International Armed Conflicts, adopted at Geneva on 8 June 1977 | An offence against the following section of the Geneva Conventions Act 1958: |  |
+|  |  |  |  |  |  | section | subject matter |
+|  |  |  |  |  |  | 3 | punishment for grave breaches of Conventions or First Protocol |
+| 20The United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000 |  |  |  |  |  | An offence against any of the following sections of the Crimes Act 1961: |  |
+|  | section |  | subject matter |  |  |  |  |
+|  | 98A |  | participation in organised criminal group |  |  |  |  |
+|  | 100 |  | judicial corruption |  |  |  |  |
+|  | 101 |  | bribery of judicial officer, etc |  |  |  |  |
+|  | 102 |  | corruption and bribery of Minister of the Crown |  |  |  |  |
+|  | 103 |  | corruption and bribery of member of Parliament |  |  |  |  |
+|  | 104 |  | corruption and bribery of law enforcement officer |  |  |  |  |
+|  | 105 |  | corruption and bribery of official |  |  |  |  |
+|  | 116 |  | conspiring to defeat justice |  |  |  |  |
+|  | 117 |  | corrupting juries and witnesses |  |  |  |  |
+|  | 257A |  | money laundering |  |  |  |  |
+|  |  |  |  |  |  | Any offence against any Act if—ait is punishable by imprisonment for a term of 4 years or more; andbthere are reasonable grounds to suspect that it is transnational in nature (as defined in Articles 3(2) and 18(1) of the convention referred to in column 1) and involves an organised criminal group (as defined in Article 2(a) of that convention) |  |
+| 21The Protocol against the Smuggling of Migrants, by Land, Sea and Air, supplementing the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000 |  |  |  |  |  | An offence against the, following section of the Crimes Act 1961: |  |
+|  | section |  | subject matter |  |  |  |  |
+|  | 98C |  | smuggling migrants |  |  |  |  |
+|  |  |  |  |  |  | An offence against any of the following sections of the Passports Act 1992: |  |
+|  | 29A |  | forged and false New Zealand travel documents |  |  |  |  |
+|  | 30 |  | offences relating to passport information and material |  |  |  |  |
+|  | 30A |  | improper issue of New Zealand travel document |  |  |  |  |
+|  | 31(1) |  | other offences |  |  |  |  |
+|  | 31(2) |  | defacing or destroying document |  |  |  |  |
+|  | 32 |  | false representations |  |  |  |  |
+| 22The Protocol to Prevent, Suppress and Punish Trafficking of Persons, especially Women and Children, supplementing the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000 |  |  |  |  |  | An offence against the following section of the Crimes Act 1961: |  |
+|  | section |  | subject matter |  |  |  |  |
+|  | 98D |  | trafficking in people by means of coercion or deception |  |  |  |  |
+| 23The International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations at New York on 15 December 1997 |  |  |  |  |  | An offence against the following section of the Terrorism Suppression Act 2002: |  |
+|  | section |  | subject matter |  |  |  |  |
+|  | 7(1) |  | terrorist bombing |  |  |  |  |
+| 24The International Convention for the Suppression of the Financing of Terrorism, adopted by the General Assembly of the United Nations at New York on 9 December 1999 |  |  |  |  |  | An offence—aagainst the following section of the Terrorism Suppression Act 2002:sectionsubject matter8(1)financing of terrorism; and |  |
+| section |  | subject matter |  |  |  |  |  |
+| 8(1) |  | financing of terrorism; and |  |  |  |  |  |
+|  |  |  |  |  |  | bthat involves a terrorist act of a kind referred to in section 5(1)﻿(b) or (c) of that Act |  |
+| 27The Convention on the Physical Protection of Nuclear Materials done at Vienna on 26 October 1979 |  |  |  |  |  | An offence against the following section of the Terrorism Suppression Act 2002: |  |
+|  | section |  | subject matter |  |  |  |  |
+|  | 13C |  | offences involving the physical protection of nuclear materials |  |  |  |  |
+| 28The International Convention against the Recruitment, Use, Financing and Training of Mercenaries, done at New York on 4 December 1989 |  |  |  |  |  | An offence against the following sections of the Mercenary Activities (Prohibition) Act 2004: |  |
+|  | section |  | subject matter |  |  |  |  |
+|  | 7 |  | recruiting person to be mercenary |  |  |  |  |
+|  | 8 |  | using mercenary |  |  |  |  |
+|  | 9 |  | financing mercenary |  |  |  |  |
+|  | 10 |  | training prospective mercenary |  |  |  |  |
+|  | 11 |  | training mercenary |  |  |  |  |
+|  | 12 |  | mercenary taking part in hostilities or concerted act of violence |  |  |  |  |
+| 29The Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution and Child Pornography, adopted by the General Assembly of the United Nations at New York on 25 May 2000 |  |  |  |  |  | An offence against the following section of the Adoption Act 1955: |  |
+|  | section |  | subject matter |  |  |  |  |
+|  | 27A |  | Offence to induce consent |  |  |  |  |
+|  |  |  |  |  |  | An offence—aagainst any of the following sections of the Films, Videos, and Publications Classification Act 1993:sectionsubject matter124(1)knowingly making or supplying objectionable publications, etc127(4)knowing exhibition to persons under 18129(3)knowing distribution of objectionable publication in public place131A(1)knowingly having possession of objectionable publication; and |  |
+| section |  | subject matter |  |  |  |  |  |
+| 124(1) |  | knowingly making or supplying objectionable publications, etc |  |  |  |  |  |
+| 127(4) |  | knowing exhibition to persons under 18 |  |  |  |  |  |
+| 129(3) |  | knowing distribution of objectionable publication in public place |  |  |  |  |  |
+| 131A(1) |  | knowingly having possession of objectionable publication; and |  |  |  |  |  |
+|  |  |  |  |  |  | bthat involves child pornography (as defined in section 145A(1) of that Act) |  |
+|  |  |  |  |  |  | An offence—aagainst the following section of the Customs and Excise Act 1996:sectionsubject matter209(1A)knowing importation or exportation of objectionable publications; and |  |
+| section |  | subject matter |  |  |  |  |  |
+| 209(1A) |  | knowing importation or exportation of objectionable publications; and |  |  |  |  |  |
+|  |  |  |  |  |  | bthat involves child pornography (as defined section 145A(1) of the Films, Videos, and Publications Classification Act 1993) |  |
+| 30The Convention for the Suppression of Acts of Nuclear Terrorism, adopted by the General Assembly of the United Nations at New York on 13 April 2005 |  |  |  |  |  | An offence against the following section of the Terrorism Suppression Act 2002 |  |
+|  | section |  | subject matter |  |  |  |  |
+|  | 13E |  | offences involving radioactive material and radioactive devices |  |  |  |  |
+| 31The Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property in the Event of Armed Conflict, done at The Hague on 26 March 1999. |  |  |  |  |  | An offence against the following section of the Cultural Property (Protection in Armed Conflict) Act 2012: |  |
+|  | section |  | subject matter |  |  |  |  |
+|  | 7 |  | Serious violations of the Second Protocol. |  |  |  |  |
+| 32The United Nations Convention against Corruption (2003) |  |  |  |  |  | An offence against any of the following sections of the Crimes Act 1961: |  |
+|  | section |  | subject matter |  |  |  |  |
+|  | 100 |  | judicial corruption |  |  |  |  |
+|  | 101 |  | bribery of judicial officer, etc |  |  |  |  |
+|  | 102 |  | corruption and bribery of Minister of the Crown |  |  |  |  |
+|  | 103 |  | corruption and bribery of member of Parliament |  |  |  |  |
+|  | 104 |  | corruption and bribery of law enforcement officer |  |  |  |  |
+|  |  | 105 |  | corruption and bribery of official |  |  |  |
+|  |  | 105A |  | corrupt use of official information |  |  |  |
+|  |  | 105B |  | use or disclosure of personal information disclosed in breach of section 105A |  |  |  |
+|  |  | 105C |  | bribery of foreign public official |  |  |  |
+|  |  | 105D |  | bribery outside New Zealand of foreign public official |  |  |  |
+|  |  | 105E |  | corruption of foreign public officials |  |  |  |
+|  |  | 105F |  | trading in influence |  |  |  |
+|  |  | 116 |  | conspiring to defeat justice |  |  |  |
+|  |  | 117 |  | corrupting juries and witnesses |  |  |  |
+|  |  | 219 |  | theft or stealing |  |  |  |
+|  |  | 220 |  | theft by person in special relationship |  |  |  |
+|  |  | 228 |  | dishonestly taking or using document |  |  |  |
+|  |  | 240 |  | obtaining by deception or causing loss by deception |  |  |  |
+|  |  | 243 |  | money laundering |  |  |  |
+|  |  | 246 |  | receiving |  |  |  |
+|  |  | 249 |  | accessing computer system for dishonest purpose |  |  |  |
+|  |  |  |  |  |  | An offence against any of the following sections of the Secret Commissions Act 1910: |  |
+|  |  | section |  | subject matter |  |  |  |
+|  |  | 3 |  | gifts to agent without consent of principal an offence |  |  |  |
+|  |  | 4 |  | acceptance of such gifts by agent an offence |  |  |  |
+|  |  | 8 |  | receiving secret reward for procuring contracts an offence |  |  |  |
 
 ## Schedule 2
 
