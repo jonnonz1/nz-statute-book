@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2015-09-30_
+_Consolidation as at 2015-11-07_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -2138,6 +2138,7 @@ In proceedings against a company for breach of a pre-incorporation contract whic
   (a) correctly record the transactions of the company; and
   (b) will enable the company to ensure that the financial statements or group financial statements of the company comply with generally accepted accounting practice (if the company is required to prepare such statements under this Act or any other enactment); and
   (c) will enable the financial statements or group financial statements of the company to be readily and properly audited (if those statements are required to be audited).
+(1A) For the purpose of subsection (1), the transactions of the company include any transaction that constitutes an act of the type described in section 105C(3) of the Crimes Act 1961.
 (2) The board of a company must establish and maintain a satisfactory system of control of its accounting records.
 (3) The accounting records must be kept—
   (a) in written form in English; or
@@ -3950,7 +3951,7 @@ If there is a time before which, or a period during which, an act for any purpos
 
 ### 239AEG Mutual credit and set-off
 Where there have been mutual credits, mutual debts, or other mutual dealings between a company and a person who seeks or, but for the operation of this section, would seek to have a claim admitted under a deed of company arrangement,—
-  (a) an account must be taken of what is due from the one party to the other in respect of those credits, debts, or dealings; and
+  (a) an account must be taken of what is due from one party to the other in respect of those credits, debts, or dealings; and
   (b) an amount due from one party must be set off against an amount due from the other party; and
   (c) only the balance of the account may be admitted under the deed of company arrangement, or is payable to the company, as the case may be.
 
@@ -4856,7 +4857,7 @@ If a transaction or charge is set aside under section 294, the court may make 1 
   (c) another company that was, at the time of the disposition, provision, or issue, controlled by a director of the company, or a nominee or relative of or a trustee for, or a trustee for a relative of, a director of the company; or
   (d) another company that, at the time of the disposition, provision, or issue, was a related company,—
 (3) For the purposes of this section,—
-  (a) the value of a business or property includes the value of any goodwill attaching to the business or property;
+  (a) the value of a business or property includes the value of any goodwill attaching to the business or property; and
   (b) the provisions of section 7 apply with such modifications as may be necessary to determine control of a company.
 (4) For the purposes of subsections (1) and (2), specified period means—
   (a) the period of 3 years before the date of commencement of the liquidation together with the period commencing on that date and ending at the time at which the liquidator is appointed; and
@@ -5096,8 +5097,8 @@ The filing of a notice under section 294 in respect of any transaction that is s
 ### 310L Matters that Bank must or may have regard to when making, varying, or revoking declaration under section 310K
 (1) In determining whether a declaration should be made, varied, or revoked under section 310K, the Bank must have regard to the extent to which the application of sections 310A to 310O to any multilateral netting agreement that is subject to the rules of that clearing house would assist in promoting the soundness or efficiency of the financial system.
 (2) In determining whether a declaration should be made, varied, or revoked under section 310K, the Bank may have regard to any of the following matters:
-  (a) the type of transactions that may be effected through the clearing house; and
-  (b) any laws or regulatory requirements relating to the operation of that clearing house and compliance with those laws or regulatory requirements; and
+  (a) the type of transactions that may be effected through the clearing house; or
+  (b) any laws or regulatory requirements relating to the operation of that clearing house and compliance with those laws or regulatory requirements; or
   (c) any other matters that the Bank may, in any particular case, consider appropriate.
 
 ### 310M Bank may impose conditions in declaration under section 310K
@@ -5910,7 +5911,7 @@ When exercising a power described in section 365F or 365G, the Registrar (or a p
       (ii) any offence under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
       (iii) a money laundering offence (within the meaning of section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009); or
       (iv) any offence under section 143B of the Tax Administration Act 1994; or
-      (v) any serious offence (within the meaning of section 243(1) of the Crimes Act 1961):
+      (v) any offence that is punishable by imprisonment for a term of 5 years or more and includes any act, wherever committed, that if committed in New Zealand would constitute an offence punishable by imprisonment for a term of 5 years or more:
     (c) the enforcement of the Proceeds of Crime Act 1991 or the Criminal Proceeds (Recovery) Act 2009:
     (d) the enforcement of the Misuse of Drugs Act 1975:
     (e) the enforcement of the Terrorism Suppression Act 2002:
