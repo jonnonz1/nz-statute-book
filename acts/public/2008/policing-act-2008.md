@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2013-12-18_
+_Consolidation as at 2015-11-07_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -30,7 +30,7 @@ In this Act, unless the context otherwise requires,—
   - **health practitioner** means a person who is or is deemed to be registered with an authority as a practitioner of a particular health profession under the Health Practitioners Competence Assurance Act 2003
   - **Judge** means a Judge of any court
   - **judicial officer** means a Judge, Justice of the Peace, or Community Magistrate
-  - **medical practitioner** means a health practitioner who is or is deemed to be registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is or is deemed to be registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **Police** means the instrument of the Crown continued in existence by section 7(1)
   - **Police article** means any crest, badge, emblem, design, logogram, or other distinguishing article used, worn, or carried by any Police employee while on duty and described in regulations made under this Act
@@ -212,10 +212,10 @@ The State Services Commissioner—
 (3) The Commissioner may at any time, by written notice to a person authorised under subsection (1), withdraw the authorisation by withdrawing the warrant.
 
 ### 25 Powers conferred on Police employee authorised to perform policing role
-A Police employee authorised under section 24(1)(b) to perform a policing role has the powers specified in Schedule 1 in relation to that role.
+A Police employee authorised under section 24(1)﻿(b) to perform a policing role has the powers specified in Schedule 1 in relation to that role.
 
 ### 26 Provisions relating to powers conferred on authorised officers
-If an authorised officer is, under section 24(1)(a) or under section 25 and Schedule 1, given the powers of a constable to do a particular thing, the authorised officer is deemed to be a constable when doing that thing for the purpose of—
+If an authorised officer is, under section 24(1)﻿(a) or under section 25 and Schedule 1, given the powers of a constable to do a particular thing, the authorised officer is deemed to be a constable when doing that thing for the purpose of—
   (a) any ancillary or incidental powers that a constable would have under any enactment or rule of law:
   (b) any requirements under any enactment or rule of law that would apply in relation to the doing of that thing by a constable:
   (c) any protections from liability that a constable would have under any enactment or rule of law.
@@ -244,7 +244,7 @@ If an authorised officer is, under section 24(1)(a) or under section 25 and Sche
 (2) A general instruction is taken to have been communicated to a Police employee when the instruction has been—
   (a) published in a magazine that is published under the authority of the Commissioner and distributed to all Police employees; or
   (b) brought to the personal notice of a Police employee.
-(3) Any communication referred to in subsection (2)(a) or (b) may be made in 1 or more of the following ways:
+(3) Any communication referred to in subsection (2)﻿(a) or (b) may be made in 1 or more of the following ways:
   (a) electronic communication (for example, by electronic mail):
   (b) in non-electronic form (for example, by distributing the publication in a paper-based format):
   (c) by distribution by any other form of technology that allows the dissemination of the material in question to Police employees.
@@ -318,7 +318,7 @@ If an authorised officer is, under section 24(1)(a) or under section 25 and Sche
   - **the offence for which the particulars were taken** includes (without limitation) an offence that arose from the same event or series of events as, and that replaces, that offence.
 
 ### 34A Outcomes authorising continued storage of certain particulars
-The outcomes mentioned in section 34(2)(b) are as follows:
+The outcomes mentioned in section 34(2)﻿(b) are as follows:
   (a) the person admits to, and completes a programme of diversion (being a programme conducted by the Police) for, the offence for which the particulars were taken:
   (b) the person is convicted of the offence for which the particulars were taken (for example, by virtue of a District Court or the High Court entering a conviction, or a Youth Court entering a conviction and making an order under section 283(o) of the Children, Young Persons, and Their Families Act 1989):
   (c) the Youth Court makes an order under any of paragraphs (a) to (n) of section 283 of the Children, Young Persons, and Their Families Act 1989 in respect of the person and the offence for which the particulars were taken:
@@ -549,7 +549,7 @@ Section 65 of the State Sector Act 1988 (which relates to review of appointments
     (vi) for substantial welfare or personal reasons:
   (e) locate a person who is rejoining the Police as an employee.
 (2) Subsection (3) applies if—
-  (a) the Commissioner assigns a person to a temporary position under subsection (1)(a) or assigns a person to a position under subsection (1)(b) without complying with sections 59(1) and 60(1); and
+  (a) the Commissioner assigns a person to a temporary position under subsection (1)﻿(a) or assigns a person to a position under subsection (1)﻿(b) without complying with sections 59(1) and 60(1); and
   (b) the person has occupied that position or been on that secondment for a period of at least 14 months.
 (3) The position occupied, or the secondment, must be considered to have been vacated by that person and, subject to any applicable employment agreement, any further assignment to or secondment of that position must be dealt with in compliance with sections 59(1) and 60(1).
 
@@ -640,7 +640,7 @@ If a Police employee is convicted of an offence against section 47 (gaining empl
 ### 77 Commissioner must consult Government Superannuation Fund, etc, before nominating health practitioners if employee is member of scheme
 (1) The Commissioner must consult the Government Superannuation Fund Authority and the trustees of any State services superannuation scheme about the health practitioners that the Authority or the trustees approves to be nominated from time to time under sections 74 and 76.
 (2) Subsection (3) applies if the Police employee in question in section 74 or 76 is a member of the Government Superannuation Fund Police Sub-Scheme or a State services superannuation scheme.
-(3) The Commissioner may nominate under section 74(2)(b) or 76(2)(a) only health practitioners approved under subsection (1).
+(3) The Commissioner may nominate under section 74(2)﻿(b) or 76(2)﻿(a) only health practitioners approved under subsection (1).
 
 ### 78 Entitlement to allowances, etc
 A person who ceases to be a Police employee under section 74 or 76 is entitled to receive the allowances and other benefits that may be prescribed by or under the Government Superannuation Fund Act 1956 or the State services superannuation scheme to which that person belongs, as the case may require.
@@ -713,7 +713,7 @@ The Commissioner must ensure every bodily sample obtained under section 81 or 82
   (b) in the case of a person who is a Police employee or Police associate,—
     (i) promptly after the person asks the Commissioner in writing to delete or destroy it; and
     (ii) in any event, no later than 12 months after the person ceases to be a Police employee or Police associate.
-(2) The Commissioner must ensure that, promptly after the deletion or destruction of information under subsection (1) or section 82(6)(b), the person to whom the information relates (or his or her personal representative) is given written notice of its deletion or destruction.
+(2) The Commissioner must ensure that, promptly after the deletion or destruction of information under subsection (1) or section 82(6)﻿(b), the person to whom the information relates (or his or her personal representative) is given written notice of its deletion or destruction.
 
 ### Subpart 2 — International policing
 
@@ -774,6 +774,61 @@ Any employee whose act or omission would, if it had occurred in New Zealand, be 
 
 ### 95 Saving of jurisdiction
 Nothing in sections 91 to 94 limits or affects the provisions of any enactment or rule of law relating to the liability of persons in respect of acts done or omitted beyond New Zealand.
+
+**International policing: information sharing to assist corresponding overseas agency**
+
+### 95A Interpretation
+In this section and in sections 95B to 95F, unless the context otherwise requires,—
+  - **agency-to-agency agreement** means an international disclosure instrument that is an agreement between the Police and 1 or more corresponding overseas agencies
+  - **biometric information** means information that relates to an individual, whether or not currently identifiable, that is 1 or more of the following:
+    (a) fingerprints:
+    (b) palm-prints:
+    (c) an iris scan
+  - **corresponding overseas agency** —
+    (a) means an overseas person, body, or agency that is empowered to perform functions that correspond, wholly or partly, to any of the functions set out in section 9; and
+    (b) includes Interpol and every overseas person, body, or agency appointed under article 32 of the constitution of Interpol to co-operate with Interpol
+  - **international disclosure instrument** means an instrument that provides for the disclosure of personal information to a corresponding overseas agency, being an instrument that is—
+    (a) an international arrangement or agreement to which the Government of New Zealand is a party; or
+    (b) an agency-to-agency agreement; or
+    (c) the constitution of Interpol and any instrument adopted under article 44 of that constitution
+  - **Interpol** means the International Criminal Police Organization
+  - **personal information** means information about an identifiable individual and includes biometric information.
+
+### 95B Disclosure of personal information
+(1) If the requirements of this section are met, the Commissioner may disclose any personal information held by the Police to a corresponding overseas agency.
+(2) The disclosure of the personal information must be reasonably necessary to enable the corresponding overseas agency to perform a function in its jurisdiction that the Police perform in New Zealand under section 9.
+(3) Personal information under this section may be disclosed only—
+  (a) in accordance with an international disclosure instrument; or
+  (b) in accordance with directions issued by the Commissioner under section 95C for the disclosure of personal information outside of an international disclosure instrument.
+(4) For the purposes of this section, personal information may be disclosed to a corresponding overseas agency by disclosing the information to an overseas person, body, or agency that is authorised to act on behalf of the corresponding overseas agency.
+(5) Subsections (1) to (4) do not affect any other enactment that requires or allows disclosure of personal information (whether or not of a particular kind and whether or not disclosure is required to be made in a prescribed manner).
+(6) For the purposes of Part 8 of the Privacy Act 1993, a person is taken to have breached an information privacy principle under section 66(1)﻿(a)﻿(i) of that Act if the person contravenes a provision of this section.
+
+### 95C Commissioner may issue directions to certain Police employees
+(1) The Commissioner may issue written directions relating to the disclosure of personal information outside of an international disclosure instrument under section 95B to any Police employees authorised to make that disclosure under delegated authority.
+(2) The directions must identify authorised Police employees but need not identify particular individuals and may instead identify the positions that the employees hold or the groups to which they belong.
+(3) Without limiting the generality of subsection (1), the directions may do either or both of the following:
+  (a) describe the circumstances in which personal information may be disclosed without a request from the corresponding overseas agency:
+  (b) set out any criteria in addition to those stated in section 95B for disclosing any personal information.
+
+### 95D Agency-to-agency agreements subject to consultation with Privacy Commissioner
+The Commissioner must consult the Privacy Commissioner before any agency-to-agency agreement is entered into or varied.
+
+### 95E Publication of certain agency-to-agency agreements and directions
+(1) As soon as practicable after an agency-to-agency agreement enters into force at any time after the commencement of this section, the Commissioner must make a copy of the agreement publicly available.
+(2) When an agency-to-agency agreement that is in effect before the commencement of this section is first reviewed following that commencement, the Commissioner must, as soon as practicable after that review, make a copy of the agreement (as modified or proposed to be modified by the review) publicly available.
+(3) As soon as practicable after issuing any directions under section 95C, the Commissioner must make a copy of the directions publicly available.
+(4) However, this section does not apply to—
+  (a) an agency-to-agency agreement, or to any directions, that may be withheld under the Official Information Act 1982 or whose existence need not be confirmed or denied under that Act:
+  (b) any provision of an agency-to-agency agreement, or of any directions, that may be withheld under the Official Information Act 1982.
+(5) For the purposes of this section, a copy is publicly available if it is—
+  (a) available for inspection, free of charge, at the Police National Headquarters on any working day; and
+  (b) accessible, free of charge, on an Internet site maintained by or on behalf of the Commissioner.
+
+### 95F Saving for existing international disclosure instruments
+(1) Sections 95B to 95E do not affect an international disclosure instrument that entered into force before the commencement of this section and every such instrument continues in force according to its tenor until it expires or is terminated.
+(2) Despite subsection (1), an agency-to-agency agreement that entered into force before the commencement of this section becomes subject to sections 95B to 95E immediately after the conclusion of the first review of the agreement that is, in accordance with the provisions of that agreement, undertaken after that commencement.
+(3) Despite subsection (1), an agency-to-agency agreement that entered into force before the commencement of this section expires on the close of the day that is the 5th anniversary of the commencement of this section if the agreement has not been reviewed before that anniversary.
 
 ### Subpart 3 — Miscellaneous provisions
 
@@ -935,7 +990,7 @@ In any enactment other than this Act, unless the context otherwise requires, con
 (2) Section 17(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) have the powers of a constable and take the oath in either of the forms set out in subsection (3) before any Justice:
 (3) Section 17 is amended by adding the following subsection:
-  (3) The oath referred to in subsection (1)(a) is as follows:
+  (3) The oath referred to in subsection (1)﻿(a) is as follows:
     English form
     I, [name], swear that I will faithfully and diligently serve Her (or His) Majesty [specify the name of the reigning Sovereign, as in: Queen Elizabeth the Second], Queen (or King) of New Zealand, her (or his) heirs and successors, as a bailiff at [place], without favour or affection, malice or ill-will. While I hold this office I will, to the best of my power, keep the peace and prevent offences against the peace and will, to the best of my skill and knowledge, perform all the duties of the office of bailiff according to law. So help me God.
     Māori form
@@ -972,7 +1027,7 @@ The Schedule 1C set out in Schedule 3 of this Act is inserted after Schedule 1B.
 
 ### 123 Amendment to Criminal Records (Clean Slate) Act 2004
 (1) This section amends the Criminal Records (Clean Slate) Act 2004.
-(2) Section 19(3)(d)(iii) is amended by omitting member of the police and substituting Police employee.
+(2) Section 19(3)﻿(d)﻿(iii) is amended by omitting member of the police and substituting Police employee.
 
 **Amendments to Land Transport Act 1998**
 
@@ -994,11 +1049,11 @@ The Schedule 1C set out in Schedule 3 of this Act is inserted after Schedule 1B.
 Sections 127 and 128 amend the Summary Offences Act 1981.
 
 ### 127 Interpretation
-(1) Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:.
+(1) Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **authorised officer** has the meaning given in section 4 of the Policing Act 2008
   - **Police dog** has the meaning given in section 4 of the Policing Act 2008
   - **Police dog handler** has the meaning given in section 4 of the Policing Act 2008
-(2) Section 2 is amended by repealing the definition of constable and inserting the following definition in its appropriate alphabetical order:.
+(2) Section 2 is amended by repealing the definition of constable and inserting the following definition in its appropriate alphabetical order:
   - **constable** has the meaning given in section 4 of the Policing Act 2008
 
 ### 128 Resisting Police, prison, or traffic officer
@@ -1021,7 +1076,7 @@ Sections 127 and 128 amend the Summary Offences Act 1981.
 
 ### 130 Consequential amendments and repeals
 (1) The Acts specified in Schedule 4 are amended in the manner set out in that Schedule.
-(2) Section 46F(2)(b)(i) of the Burial and Cremation Act 1964 is amended by omitting member of the police and substituting constable.
+(2) Section 46F(2)﻿(b)﻿(i) of the Burial and Cremation Act 1964 is amended by omitting member of the police and substituting constable.
 (3) The regulations specified in Schedule 5 are amended in the manner set out in that Schedule.
 (4) The enactments specified in Part 1 of Schedule 6 are repealed.
 (5) The enactments specified in Part 2 of Schedule 6 are revoked.
@@ -1076,7 +1131,7 @@ ExampleA Police employee working as a forensic accountant.A Police employee work
 ### 8
 A Police employee warranted as a Police transport enforcement officer has the following powers:
 (a)
-(b) the powers of a constable under sections 113(2)(a), (c), and (d), 113(3), and 114(1), (2), and (3) of the Land Transport Act 1998:
+(b) the powers of a constable under sections 113(2)﻿(a), (c), and (d), 113(3), and 114(1), (2), and (3) of the Land Transport Act 1998:
 (c) the powers of a constable under section 32, 33, 35, and 36 of this Act:
 (d) the powers of a constable to execute any unexecuted process for the arrest of any person without having the process in his or her possession:
 (e) the powers of a constable under sections 12, 13, and 15 of the Aviation Crimes Act 1972:
@@ -1095,7 +1150,7 @@ A Police employee warranted as a Police transport enforcement officer has the fo
   (b) a person to chair the committee, who is to be either—
     (i) a person mutually agreed by the appropriate service organisation and the Commissioner; or
     (ii) a person designated by the chief executive of the Department of Labour.
-(3) If the service organisation or the Commissioner fails to make nominations for the purposes of subclause (2)(a) or act in such a way that the committee cannot be established in accordance with subclause (2), the chief executive of the Department of Labour must appoint as members of the committee the people that the chief executive thinks fit.
+(3) If the service organisation or the Commissioner fails to make nominations for the purposes of subclause (2)﻿(a) or act in such a way that the committee cannot be established in accordance with subclause (2), the chief executive of the Department of Labour must appoint as members of the committee the people that the chief executive thinks fit.
 
 ### 2 Statement as to state of negotiations
 The appropriate service organisation and the Commissioner must each provide the arbitrating body with a signed statement as to—
@@ -1147,7 +1202,7 @@ The arbitrating body in its discretion may waive any technical irregularity or o
   (d) other employers to the extent that they provide services to the Police:
   (e) employees of the employers referred to in paragraph (d) to the extent that they are engaged in providing services to the Police:
   (f) unions whose members are employees referred to in paragraph (e) (other unions).
-(2) However, to avoid doubt, subclause (1)(d) and (e) applies in relation to the provision of services only if the services are provided to the Police in its role as a provider of Police emergency response services.
+(2) However, to avoid doubt, subclause (1)﻿(d) and (e) applies in relation to the provision of services only if the services are provided to the Police in its role as a provider of Police emergency response services.
 (3) Before the Police enters into an agreement or arrangement with another employer for the provision of services to the Police, it must notify the employer that this code will apply to the employer in relation to the provision of those services.
 (4) However, failure to comply with subclause (3) does not affect the validity of an agreement or arrangement referred to in that subclause.
 
@@ -1193,7 +1248,7 @@ In this schedule, unless the context otherwise requires,—
 **Collective bargaining**
 
 ### 5 Agreement on suitable person
-As part of the arrangement required under section 32(1)(a), the parties must make every endeavour to agree on a suitable person for the purposes of clause 11(1).
+As part of the arrangement required under section 32(1)﻿(a), the parties must make every endeavour to agree on a suitable person for the purposes of clause 11(1).
 
 ### 6 Collective bargaining and collective agreements
 (1) The parties must support collective bargaining where it is practical and reasonable to do so.
