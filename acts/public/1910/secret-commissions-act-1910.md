@@ -1,5 +1,5 @@
 # Secret Commissions Act 1910
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-11-07_
 
 > An Act for the prohibition of secret commissions
 
@@ -9,6 +9,7 @@ This Act may be cited as the Secret Commissions Act 1910, and shall come into op
 ### 2 Interpretation
 In this Act, unless a contrary intention appears,—
   - **agent** includes any person who is or has been, or desires or intends to be, employed by or acting for any other person, whether as agent, servant, broker, auctioneer, architect, solicitor, director, or in any other capacity whatever, either alone or jointly with any other person
+  - **child of any agent** includes a child of a spouse or a civil union partner or a de facto partner of an agent and in section 5(2) has a corresponding meaning
   - **principal** includes any person by whom an agent is or has been, or intends or desires to be, employed, or for whom an agent acts or has acted, or intends or desires to act
   - **consideration** means valuable consideration of any kind; and particularly includes discounts, commissions, rebates, bonuses, deductions, percentages, employment, payment of money (whether by way of loan, gift, or otherwise howsoever), and forbearance to demand any money or valuable thing.
 
@@ -53,7 +54,7 @@ Every person is guilty of an offence who, with or without authority, does on beh
   (b) dismiss the charge.
 
 ### 13 Penalty on conviction
-Any person convicted of an offence against this Act is liable, if a corporation, to a fine not exceeding $2,000; and if any other person, to imprisonment for any period not exceeding 2 years or to a fine not exceeding $1,000.
+A person who commits an offence against this Act is liable to imprisonment for a term not exceeding 7 years.
 
 ### 14 Proceedings to be before District Court Judge only
 [Repealed]
