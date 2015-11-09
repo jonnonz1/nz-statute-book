@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2015-08-09_
+_Consolidation as at 2015-11-09_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -1235,6 +1235,9 @@ In considering any application for the approval of a project and in setting, var
   (d) the harm to, or the distress felt by, the animals as a result of the manipulation, and the extent to which that harm or distress can be alleviated by any means (including, where the pain or distress cannot be held within reasonable levels, the abandonment of the manipulation or the humane destruction of animals); and
   (e) whether the design of the experiment or demonstration is such that it is reasonable to expect that the objectives of the experiment or demonstration will be met; and
   (f) the factors that have been taken into account in the choice of animal species; and
+  (fa) the extent to which there has been—
+    (i) assessment of the suitability of using non-sentient or non-living alternatives in the project; and
+    (ii) replacement of animals as subjects with suitable non-sentient or non-living alternatives; and
   (g) whether the number of animals to be used is the minimum necessary to ensure a meaningful interpretation of the findings and the statistical validity of the findings; and
   (h) whether adequate measures will be taken to ensure the general health and welfare of animals before, during, and after manipulation; and
   (i) whether suitably qualified persons will be engaged in supervising and undertaking the research, testing, or teaching; and
