@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2015-11-07_
+_Consolidation as at 2015-11-16_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -316,6 +316,38 @@ An amount that a person derives from disposing of personal property is income of
 ### CB 5 Business of dealing in personal property
 An amount that a person derives from disposing of personal property is income of the person if their business is to deal in property of that kind.
 
+### CB 6A Disposal within 2 years: bright-line test for residential land
+Disposal within 2 years
+(1) An amount that a person derives from disposing of residential land is income of the person, if the bright-line date for the residential land is within 2 years of—
+  (a) the date on which the instrument to transfer the land to the person was registered––
+    (i) under the Land Transfer Act 1952; or
+    (ii) under foreign laws of a similar nature to the Land Transfer Act 1952, if the land is outside New Zealand; or
+  (b) their date of acquisition of the land, if an instrument to transfer the land to the person is not registered on or before the bright-line date.
+Subdivision
+(2) Despite subsection (1), an amount that a person derives from disposing of residential land that results from the person subdividing other land (the undivided land) is income of the person if the bright-line date for the residential land is within 2 years of—
+  (a) the date on which the instrument to transfer the undivided land to the person was registered––
+    (i) under the Land Transfer Act 1952; or
+    (ii) under foreign laws of a similar nature to the Land Transfer Act 1952, if the land is outside New Zealand; or
+  (b) their date of acquisition of the undivided land, if the land is not registered as described in paragraph (a) at the bright-line date.
+Leases with perpetual right of renewal
+(3) Despite subsection (1), an amount that a person derives from disposing of a freehold estate in land, acquired as the owner of a leasehold estate with a perpetual right of renewal, is income if the bright-line date for the freehold estate is within 2 years of the grant of the leasehold estate.
+Contingent interest
+(4) Despite subsection (1), an amount that a person derives from disposing of a freehold estate in land, acquired as the result of the completion of a land development or subdivision, is income if the bright-line date for the freehold estate is within 2 years of the person acquiring an interest, in relation to the land, that is contingent upon the completion of the land development or subdivision.
+Exception: disposal of land by executor, administrator, or beneficiary
+(5) This section does not apply to an amount that an executor or administrator described in section FC 1(1)﻿(a) (What this subpart does), or a beneficiary described in section FC 1(1)﻿(b), derives from disposing of residential land that was transferred to them on the death of a person.
+Relationship with subject matter
+(6) This section applies if none of sections CB 6 to CB 12 apply.
+Some definitions
+(7) In this section and section CB 16A,—
+  - **bright-line date** means, for a disposal of residential land,—
+    (a) the earliest of—
+      (i) the date that the person enters into an agreement for the disposal:
+      (ii) the date on which the person makes a gift of the residential land:
+      (iii) the date on which the person’s residential land is compulsorily acquired under any Act by the Crown, a local authority, or a public authority:
+      (iv) if there is a mortgage secured on the residential land, the date on which the land is disposed of by or for the mortgagee as a result of the mortgagor’s defaulting; or
+    (b) if none of paragraph (a)﻿(i) to (iv) apply, the date on which the estate or interest in the residential land is disposed of
+  - **date of acquisition** means the latest date on which the person acquires the estate or interest in the residential land.
+
 ### CB 6 Disposal: land acquired for purpose or with intention of disposal
 Income
 (1) An amount that a person derives from disposing of land is income of the person if they acquired the land—
@@ -406,7 +438,7 @@ Exclusions
 ### CB 13 Disposal: amount from major development or division and not already in income
 Income
 (1) An amount that a person derives from disposing of land is income of the person if—
-  (a) the amount is not income under any of sections CB 6 to CB 12 and CB 14; and
+  (a) the amount is not income under any of sections CB 6A to CB 12 and CB 14; and
   (b) the amount is derived in the following circumstances:
     (i) an undertaking or scheme, which is not necessarily in the nature of a business, is carried on; and
     (ii) the undertaking or scheme involves the development of the land or the division of the land into lots; and
@@ -420,7 +452,7 @@ Relationship with section DB 27
 ### CB 14 Disposal: amount from land affected by change and not already in income
 Income
 (1) An amount that a person derives from disposing of land is income of the person if—
-  (a) the amount is not income under any of sections CB 6 to CB 12; and
+  (a) the amount is not income under any of sections CB 6A to CB 12; and
   (b) the person disposed of the land within 10 years of acquiring it; and
   (c) the total amount that they derive from its disposal is more than the cost of the land; and
   (d) at least 20% of the excess arises from a factor, or more than 1 factor, that—
@@ -456,7 +488,7 @@ Date on which some transferees acquire land
 
 ### CB 15B When land acquired
 General rule
-(1) For the purposes of this subpart, a person acquires an estate, interest, or option that is land (the land) on the date that begins a period in which the person has an estate or interest in, or an option to acquire, the land, alone or jointly or in common with another person.
+(1) For the purposes of this subpart except section CB 6A, a person acquires an estate, interest, or option that is land (the land) on the date that begins a period in which the person has an estate or interest in, or an option to acquire, the land, alone or jointly or in common with another person.
 First exception: acquisition of land by company to be formed
 (2) If a person, on behalf of a company to be formed, enters an agreement under which the company will have land, the company is treated, for the purposes of this subpart in relation to the land, as existing from when the person enters the agreement.
 Second exception: further land from exercise of option
@@ -465,6 +497,20 @@ Relationship with subparts FB and FC
 (4) Subsections (1) to (3) are overridden, for a transaction, by a provision in subpart FB or FC (which relate to transfers of property) providing for the timing of the transaction.
 
 **Exclusions for residential land**
+
+### CB 16A Main home exclusion for disposal within 2 years
+Main home exclusion
+(1) Section CB 6A does not apply to a person who disposes of residential land, if the land has been used predominantly, for most of the time the person owns the land, for a dwelling that was the main home for––
+  (a) the person; or
+  (b) a beneficiary of a trust, if the person is a trustee of the trust and––
+    (i) a principal settlor of the trust does not have a main home; or
+    (ii) if a principal settlor of the trust does have a main home, it is that main home which the person is disposing of.
+When this section does not apply
+(2) The exclusion in subsection (1) does not apply to a person who disposes of residential land if—
+  (a) the exclusion has been used by the person 2 or more times within the 2 years immediately preceding the bright-line date for the residential land:
+  (b) the person has engaged in a regular pattern of acquiring and disposing of residential land.
+A definition
+(3) In this section, principal settlor means, for a trust, a settlor whose settlements for the trust are the greatest or greatest equal, by market value.
 
 ### CB 16 Residential exclusion from sections CB 6 to CB 11
 Exclusion
@@ -559,7 +605,7 @@ Sections CB 12 and CB 13 do not apply if—
   (b) the development, division, or improvement is for use in, and for the purposes of, the person’s deriving from the land income of the kind described in section CC 1 (Land).
 
 ### CB 23B Land partially sold or sold with other land
-Sections CB 6 to CB 23 apply to an amount derived from the disposal of land if the land is—
+Sections CB 6A to CB 23 apply to an amount derived from the disposal of land if the land is—
   (a) part of the land to which the relevant section applies:
   (b) the whole of the land to which the relevant section applies:
   (c) disposed of together with other land.
@@ -5743,6 +5789,30 @@ A person is allowed a deduction for—
   (a) the amount of expenditure incurred as a replacement payment under a share-lending arrangement:
   (b) the amount of imputation credit attached under sections OB 64 (Replacement payments) and RE 25 (When amount of tax treated as imputation credit) to the replacement payment.
 
+### DB 18A Ring-fenced allocations: disposal of residential land within 2 years
+When this section applies
+(1) This section applies to an amount of a person’s deductions (bright-line deductions) under section DB 23, for an income year, that relate to residential land for which the person derives income solely under section CB 6A (Disposal within 2 years: bright-line test for residential land).
+Basis for allocation of deductions: formula
+(2) The amount of bright-line deductions allocated to an income year, including an amount that has been carried forward and allocated under subsection (4), is no more than the amount calculated by the formula—bright-line income + land net income.
+Definition of items in formula
+(3) In the formula,––
+  (a) bright-line income is income derived solely under section CB 6A:
+  (b) land net income is the amount of net income for the year that the person would have if the only income they derived was from the disposal of land under sections CB 6 to CB 14 (which relate to income from land).
+Excess allocations: carried forward and reinstated next year
+(4) Any excess deductions not allocated to the income year because of subsection (2) are carried forward and treated as––
+  (a) deductions under section DB 23 that relate to residential land for which the person derives income solely under section CB 6A; and
+  (b) allocated to the next income year.
+Restriction on reinstating excess allocations: continuity for companies
+(5) Despite subsection (3), the excess is not allocated to the next income year, and no deduction is allowed or allocated to any income year for the excess, if sections IA 5 and IP 3 (which relate to the carrying forward of tax losses for companies) would not have allowed the excess to be carried forward to that next income year in a loss balance, treating the excess as a tax loss component arising on the last day of the income year.
+
+### DB 18AB Deduction cap: disposal of residential land within 2 years to associated persons
+When this section applies
+(1) This section applies to a person (person A) if, for an income year,—
+  (a) person A derives income solely under section CB 6A (Disposal within 2 years: bright-line test for residential land) from disposing of residential land to an associated person; and
+  (b) person A has deductions for expenditure or loss in relation to the disposal of the land (residential land deductions).
+Deduction cap for person A and transfer to associated person
+(2) The total residential land deductions that person A is allowed are no more than the amount of income they derive under section CB 6A from the disposal of the land. Deductions not allowed to person A under this section are treated as expenditure that the associated person has in relation to acquiring the land.
+
 ### DB 18 Transaction costs: leases
 Deduction
 (1) A person is allowed a deduction for expenditure that they incur for the preparation and registration, or the renewal, of a lease of property.
@@ -5925,7 +5995,7 @@ Link with subpart DA
 (7) This section supplements the general permission. The general limitations still apply.
 
 ### DB 29 Apportionment when land acquired with other property
-If a person derives income under sections CB 6 to CB 14 (which relate to the disposal of land) from the disposal of land, and the land is acquired together with other property, the cost of acquisition must be apportioned between the land and the other property.
+If a person derives income under sections CB 6A to CB 14 (which relate to the disposal of land) from the disposal of land, and the land is acquired together with other property, the cost of acquisition must be apportioned between the land and the other property.
 
 ### DB 30 Cost of certain minerals
 When this section applies
@@ -20120,6 +20190,14 @@ Transfer at cost
 Further disposal treated as dealing
 (3) If, after the transfer, the transferee disposes of the property, they are treated in relation to the disposal as carrying on a business of dealing in the property.
 
+### FB 3A Residential land
+When this section applies
+(1) This section applies for the purposes of section CB 6A (Disposal within 2 years: bright-line test for residential land) and Part D (Deductions) when residential land is transferred on a settlement of relationship property.
+Transfer at cost
+(2) The transfer is treated as a disposal and acquisition for an amount that equals the total cost of the residential land to the transferor at the date of transfer.
+Date of acquisition
+(3) The transferee is treated as having acquired property in the residential land on the relevant date, for the transferor’s acquisition, in section CB 6A(1)﻿(a) or (b).
+
 ### FB 3 Land acquired for certain purposes or under certain conditions
 When this section applies
 (1) This section applies for the purposes of sections CB 6 to CB 12, CB 14, CB 17, CB 20, and CB 23 (which relate to the disposal of land) and Part D (Deductions) when land was acquired for a purpose set out in or under the conditions set out in any of those sections, and the land is transferred on a settlement of relationship property.
@@ -20351,6 +20429,8 @@ When this section applies
   (b) a person who is not a close relative of the deceased person is beneficially entitled under the will or intestacy to other property that is tax-base property.
 Disposal to spouse or partner
 (2) The transfer of property to the surviving spouse, civil union partner, or de facto partner of the deceased person, including any intervening transfer to an executor or administrator, is treated as a transfer of property under a settlement of relationship property under subpart FB (Transfers of relationship property).
+Relationship with subject matter
+(3) Section FC 9 overrides this section for certain transfers of residential land.
 
 ### FC 4 Property transferred to charities or to close relatives and others
 When this section applies
@@ -20364,6 +20444,8 @@ Treated as transfer under settlement of relationship property
   (c) while the administration of the estate is continuing, the net income of the estate is distributed to the extent allowed—
     (i) under the will or the rules governing intestacy; and
     (ii) by the trustee’s legal obligations.
+Relationship with subject matter
+(3) Section FC 9 overrides this section for certain transfers of residential land.
 
 ### FC 5 Land transferred to close relatives
 What this section applies to
@@ -20394,6 +20476,16 @@ What this section applies to
 (1) This section applies, in the circumstances described in section FC 1(1)﻿(a) or (b), to a transfer of a financial arrangement on a person’s death.
 Financial arrangements: cash basis person
 (2) If the deceased person was a cash basis person and the trustee of the deceased person’s estate is a cash basis person under section EW 60(1) (Trustee of deceased’s estate), the property must be valued at cost.
+
+### FC 9 Residential land transferred to executor, administrator, or beneficiary on death of person
+What this section applies to
+(1) This section applies in the circumstances described in section FC 1(1)﻿(a) or (b) when residential land is transferred on a person’s death and section FC 5 does not apply.
+Residential land
+(2) Section CB 6A (Disposal within 2 years: bright-line test for residential land) does not apply to the transfer of the residential land, including any intervening transfer to an executor or administrator.
+Cost of residential land
+(3) If the residential land is transferred to a person who disposes of it, and the person derives income, the cost of the land to the person is—
+  (a) the cost of the land incurred by the deceased person; and
+  (b) all other expenditure incurred by the person, the deceased person, or the administrator or executor of the deceased person, as applicable, for which no deduction has been allowed.
 
 ### Subpart FE — Interest apportionment on thin capitalisation
 
@@ -22158,7 +22250,7 @@ Timing and consideration
 Trading stock
 (5) If the property is trading stock for both the amalgamating company and the amalgamated company, the consideration for the disposal and acquisition is taken as the value of the trading stock to the amalgamating company determined under subpart EB (Valuation of trading stock (including dealer’s livestock)) at the time of the amalgamation.
 Revenue account property
-(6) If the property is revenue account property of the amalgamating company but not revenue account property of the amalgamated company, the consideration for the disposal and acquisition is taken as the market value of the property at the time of the amalgamation. But this subsection does not apply to land that is revenue account property merely because of the 10-year rule in sections CB 9 to CB 11and CB 14 (which relate to the disposal of land), in which case section FO 17(3) may apply.
+(6) If the property is revenue account property of the amalgamating company but not revenue account property of the amalgamated company, the consideration for the disposal and acquisition is taken as the market value of the property at the time of the amalgamation. But this subsection does not apply to land that is revenue account property merely because of the 2-year bright-line test or the 10-year rule in any of sections CB 6A, CB 9 to CB 11, and CB 14 (which relate to the disposal of land), in which case section FO 17(3) may apply.
 Depreciation loss
 (7) An amalgamating company is allowed a deduction under section DV 15(3) (Amalgamated companies: property passing on resident’s restricted amalgamation) for an amount of depreciation loss for property transferred to the amalgamated company for the period beginning on the first day of the income year of amalgamation and ending on the day before the date of the amalgamation.
 
@@ -22229,9 +22321,11 @@ Deductions for depreciation loss
 When this section applies
 (1) This section applies when land belonging to an amalgamating company passes to the amalgamated company on a resident’s restricted amalgamation.
 Disposal at market value
-(2) If the land is not revenue account property of the amalgamating company, but the disposal of the land would give rise to income for the amalgamated company under any of sections CB 6 to CB 14 (which relate to the disposal of land), the amalgamating company is treated as having disposed of the land to the amalgamated company at the market value of the land at the date of the amalgamation.
-Disposal of land within 10-year period
-(3) If the land is, or may be, revenue account property of the amalgamating company because of the 10-year rule in any of sections CB 9 to CB 11and CB 14, and the amalgamated company disposes of the land within the 10-year period after the amalgamating company acquired it, an amount derived from the disposal is income of the amalgamated company under whichever is applicable of sections CB 6 to CB 14.
+(2) The amalgamating company is treated as having disposed of the land to the amalgamated company at the market value of the land at the date of the amalgamation if––
+  (a) the land is not revenue account property of the amalgamating company, and the disposal of the land would give rise to income for the amalgamated company under any of sections CB 6A to CB 14 (which relate to the disposal of land):
+  (b) the land is revenue account property of the amalgamating company but not merely because of the 2-year bright-line test or the 10-year rule in any of sections CB 6A, CB 9 to CB 11, and CB 14, and the land is, or may be, revenue account property of the amalgamated company because of the 2-year bright-line test or the 10-year rule in any of sections CB 6A, CB 9 to CB 11, and CB 14.
+Disposal of land within 2-year bright-line test or 10-year rule
+(3) If the land is, or may be, revenue account property of the amalgamating company because of the 2-year bright-line test or the 10-year rule in any of sections CB 6A, CB 9 to CB 11, and CB 14, and the amalgamated company disposes of the land within the relevant 2-year or 10-year period after the amalgamating company acquired it, an amount derived from the disposal is income of the amalgamated company under whichever is applicable of sections CB 6A to CB 14.
 
 ### FO 18 When amalgamating companies are parties to financial arrangement
 When this section applies
@@ -23290,6 +23384,28 @@ When this section applies
   (c) the arrangement has an effect of defeating the intent and application of subpart FE (Interest apportionment on thin capitalisation).
 Arrangement disregarded
 (2) The effect of the arrangement on the proportionality between the level of an ownership interest in the company relating to the person and the company's debt relating to the person is disregarded for the purposes of subpart FE.
+
+**Arrangements involving residential land**
+
+### GB 52 Arrangements involving residential land: companies’ shares
+When this section applies
+(1) This section applies when––
+  (a) a company owns residential land directly or indirectly for which the relevant date in sections CB 6A(1)﻿(a) or (b) (Disposal within 2 years: bright-line test for residential land) is within 2 years of a disposal of shares that paragraph (c) of this section applies to (company residential land); and
+  (b) residential land owned directly or indirectly by the company makes up 50% or more, by market value, of the assets of the company; and
+  (c) 50% or more of the shares in the company, by market value, are disposed of within a 12-month period, with a purpose or effect of defeating the intent and application of section CB 6A.
+Disposal at cost, reacquisition at market
+(2) The company is treated as disposing of the relevant shareholder portion of company residential land to the relevant shareholder for an amount of consideration equal to the total cost to the company of the portion, and the shareholder is treated as acquiring the portion for that total cost and then disposing of it, back to the company, for an amount of consideration equal to the market value of the portion. The company is treated as reacquiring the portion for the market value.
+A definition
+(3) In this section, shareholder portion means the proportion that the market value of the shares disposed of by a shareholder bears to the total market value of the shares in the company.
+
+### GB 53 Arrangements involving residential land: trusts
+When this section applies
+(1) This section applies when—
+  (a) the trustees of a trust own residential land directly or indirectly (trust residential land); and
+  (b) trust residential land makes up 50% or more, by market value, of the assets of the trust; and
+  (c) the trust’s trust deed changes, a decision-maker under the trust deed changes, or an arrangement under the trust changes, with a purpose or effect of defeating the intent and application of section CB 6A (Disposal within 2 years: bright-line test for residential land).
+Market value disposal
+(2) The trustees are treated as disposing of the trust residential land affected by a change described in subsection (1)﻿(c) for an amount of consideration equal to the market value of the land at the time of the change.
 
 ### Subpart GC — Market value substituted
 
@@ -38257,6 +38373,7 @@ In this Act, unless the context requires otherwise,—
   - **branch equivalent tax credit** means a credit referred to in section OA 5(5) (Credits)
   - **branch equivalent tax debit** means a debit referred to in section OA 6(5) (Debits)
   - **bribe** is defined in section DB 45(4) (Bribes) for the purposes of that section
+  - **bright-line date** is defined in section CB 6A (Disposal within 2 years: bright-line test for residential land) for the purposes of that section and section CB 16A (Main home exclusion for disposal within 2 years)
   - **broodmare** means a broodmare that is bloodstock
   - **building** , in subparts EE and EZ, does not include—
     (a) a grandparented structure:
@@ -38600,6 +38717,7 @@ In this Act, unless the context requires otherwise,—
   - **CTRA**
   - **current accounting year**
   - **current value** is defined in section HR 3(4) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
+  - **date of acquisition** is defined in section CB 6A (Disposal within 2 years: bright-line test for residential land) for the purposes of that section and section CB 16A (Main home exclusion for disposal within 2 years)
   - **date of transfer** , in subpart FB (Transfers of relationship property), and in the definitions of , for property transferred under a relationship agreement, means the date on which the property was transferred
   - **date the deposit ends** —
     (a) is defined in section EH 36 (Other definitions) for the purposes of the main income equalisation scheme:
@@ -38694,7 +38812,7 @@ In this Act, unless the context requires otherwise,—
   - **discontinuance profit formula** means the formula in section EY 37 (Discontinuance profit formula (existing policies)) or the formula in section EY 38 (Discontinuance profit formula (new policies))
   - **discount payment date** is defined in section EZ 30(3) (Base premium for 1998–99 premium year under Accident Insurance Act 1998) for the purposes of that section
   - **dispose** ,—
-    (a) in sections CB 6 to CB 16, CB 18, CB 19, CB 21, and CB 22 (which relate to the disposal of land), for land, includes—
+    (a) in sections CB 6A to CB 16, CB 18, CB 19, CB 21, and CB 22 (which relate to the disposal of land), for land, includes—
       (i) compulsory acquisition under any Act by the Crown, a local authority, or a public authority:
       (ii) if there is a mortgage secured on the land, a disposal by or for the mortgagee as a result of the mortgagor’s defaulting under the mortgage:
     (b) in sections CB 24 (Disposal of timber or right to take timber), CB 25 (Disposal of land with standing timber), DP 10 (Cost of acquiring timber or right to take timber: other cases), DP 11 (Cost of timber), and GC 2 (Disposals of timber rights or standing timber), includes—
@@ -38753,13 +38871,16 @@ In this Act, unless the context requires otherwise,—
   - **double tax agreement** is defined in section BH 1 (Double tax agreements)
   - **dwelling** —
     (a) means any place used predominantly as a place of residence or abode, including any appurtenances belonging to or enjoyed with the place; but
-    (b) does not include any of the following:
+    (b) does not include any of the following, in whole or part:
       (i) a hospital:
       (ii) a hotel, motel, inn, hostel, or boardinghouse:
       (iii) a serviced apartment for which paid services in addition to the supply of accommodation are provided to a resident, and in relation to which a resident does not have quiet enjoyment, as that term is used in section 38 of the Residential Tenancies Act 1986:
       (iv) a convalescent home, nursing home, or hospice:
       (v) a rest home or retirement village, except to the extent that, in relation to a relevant place, it is, or can reasonably be foreseen to be, occupied as a person's principal place of residence for independent living:
       (vi) a camping ground
+    (c) despite paragraph (b)﻿(iii) and (v), for the purposes of section CB 16A (Main home exclusion for disposal within 2 years) and the definition of residential land—
+      (i) includes a serviced apartment described in paragraph (b)﻿(iii):
+      (ii) does not include, in whole or part, a rest home or retirement village
   - **early balance date** has the meaning given in section YE 1(6) (References to balance dates and years)
   - **early life regime application day** means, for a life insurer that chooses to apply the new life insurance rules, as provided in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009, for an income year that includes 1 July 2010, the first day of that income year
   - **early-payment discount** is defined in section RC 40 (Some definitions) for the purposes of sections RC 37 to RC 39 (which relate to discounts of income tax)
@@ -38877,13 +38998,13 @@ In this Act, unless the context requires otherwise,—
       (ii) the gross amount of employer’s superannuation contributions before ESCT is withheld that the employer estimates that they will pay on behalf of the employee in the tax year in which the contribution is paid
   - **ESCT rules** means the provisions listed in section RD 64 (ESCT rules and their application)
   - **established activity** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
-  - **estate** , for land,—
-    (a) means an estate in the land, whether legal or equitable, and whether vested or contingent, in possession, reversion, or remainder; and
-    (b) includes a right, whether direct or through a trustee or otherwise, to—
-      (i) the possession of the land:
+  - **estate** in relation to land, in relation to land, , , , and similar terms––
+    (a) mean an estate or interest in the land, whether legal or equitable, and whether vested or contingent, in possession, reversion, or remainder; and
+    (b) include a right, whether direct or through a trustee or otherwise, to—
+      (i) the possession of the land (for example: a licence to occupy, as that term is defined in section 121A(1) of the Land Transfer Act 1952):
       (ii) the receipt of the rents or profits from the land:
       (iii) the proceeds of the disposal of the land; and
-    (c) does not include a mortgage
+    (c) do not include a mortgage
   - **estimated residual market value** ,—
     (a) for an item of depreciable property, is defined in section EE 67 (Other definitions):
     (b) for high-priced livestock, means its market value at the end of its estimated useful life, estimated reasonably as at the date of acquisition and based upon an assumption of normal and reasonable maintenance over its estimated useful life
@@ -38994,6 +39115,9 @@ In this Act, unless the context requires otherwise,—
       (ix) become entitled to a rental, royalty, or other consideration of whatever nature calculated by reference to the profits, however, measured, from petroleum or a listed industrial mineral, as applicable, from the permit area of the farm-out party's permit:
     (b) is defined in section CZ 8(2) (Farm-out arrangements for petroleum mining before 16 December 1991) for the purposes of that section:
     (c) is defined in section DZ 5(6) (Farm-out arrangements for petroleum mining before 16 December 1991) for the purposes of that section
+  - **farmland** means land that––
+    (a) is being worked in the farming or agricultural business of the land’s owner:
+    (b) because of its area and nature, is capable of being worked as a farming or agricultural business
   - **FBT** has the same meaning as
   - **FBT rules** means the provisions listed in section RD 25 (FBT rules and their application), and has the same meaning
   - **FDP** means and refers to an amount payable under the FDP rules to the Commissioner in relation to a foreign dividend
@@ -39503,7 +39627,7 @@ In this Act, unless the context requires otherwise,—
     (c) in sections DB 6 (Interest: not capital expenditure), DB 7 (Interest: most companies need no nexus with income), and DB 8 (Interest: money borrowed to acquire shares in group companies),—
       (i) includes expenditure incurred under the financial arrangements rules or the old financial arrangements rules; and
       (ii) does not include interest to which section DB 1(1)﻿(e) (Taxes, other than GST, and penalties) applies:
-    (d) for land, has the same meaning as estate
+    (d) in relation to land, interest in land, estate or interest in land, and similar terms are defined under the definition of estate
   - **interest expenditure** is defined in section DG 5 (Meaning and treatment of interest expenditure for this subpart) for the purposes of subpart DG (Expenditure related to use of certain assets)
   - **interest instalment date** means an instalment date—
     (a) on which an instalment of provisional tax is due and payable under section RC 9 (Provisional tax payable in instalments); and
@@ -39789,6 +39913,9 @@ In this Act, unless the context requires otherwise,—
   - **lump sum payment** is defined in section EI 3(6) (Assigning or granting copyright) for the purposes of that section
   - **MACA** means
   - **main deposit** is defined in section EH 36 (Other definitions)
+  - **main home** means, for a person, the 1 dwelling—
+    (a) that is mainly used as a residence by the person (a home); and
+    (b) with which the person has the greatest connection, if they have more than 1 home
   - **main income equalisation account** is defined in section EH 36 (Other definitions)
   - **main income equalisation scheme** means the scheme referred to in section EH 1(2)﻿(a) (Income equalisation schemes)
   - **main maximum deposit** is defined in section EH 35 (Meaning of main maximum deposit)
@@ -40458,6 +40585,7 @@ In this Act, unless the context requires otherwise,—
     (c) in sections RD 42 and RD 43 (which relate to goods provided with staff discount), for a registered person who may claim input tax for goods provided to an employee, means the GST-inclusive price
   - **primary producer co-operative company** is defined in section CZ 7(4) (Primary producer co-operative companies: 1987–88 income year) for the purposes of that section
   - **principal caregiver** is defined in section MC 10 (Principal caregiver) for the purposes of the child tax credit, WFF tax credit, in-work tax credit, and parental tax credit
+  - **principal settlor** is defined in section CB 16A (Main home exclusion for disposal within 2 years) for the purposes of that section
   - **private domestic worker** means a person employed by any other person if—
     (a) the employer is the occupier, or 1 of the occupiers, of a dwellinghouse or other premises used exclusively for residential purposes; and
     (b) the employment is for the performance of work in or about the dwellinghouse or premises or the garden or grounds belonging to the dwellinghouse or premises; and
@@ -40690,6 +40818,14 @@ In this Act, unless the context requires otherwise,—
   - **resident passive income** —
     (a) is defined in section RE 2(1) (Resident passive income); and
     (b) unless the context otherwise requires, includes RWT required to be withheld under the RWT rules
+  - **residential land** ,—
+    (a) means—
+      (i) land that has a dwelling on it:
+      (ii) land for which the owner has an arrangement that relates to erecting a dwelling:
+      (iii) bare land that may be used for erecting a dwelling under rules in the relevant operative district plan; but
+    (b) does not include land that is—
+      (i) used predominantly as business premises:
+      (ii) farmland
   - **residential mortgage backed security** means a security that is backed by New Zealand-originated first mortgages on New Zealand residential property
   - **residential purposes** is defined in section CB 18(3) (Residential exclusion from section CB 14) for the purposes of that section
   - **resident’s restricted amalgamation** is defined in section FO 3(1) (Resident’s restricted amalgamations) for the purposes of the amalgamation rules
@@ -40824,7 +40960,13 @@ In this Act, unless the context requires otherwise,—
     (a) means—
       (i) an act or failure to act on the part of a person that has the effect of making the person a settlor; or
       (ii) a transaction or series of transactions that a person enters into and that has the effect of making the person a settlor; and
-    (b) includes a settlement that a person is treated as making because the person is treated as being a settlor of the settlement
+    (b) includes a settlement that a person is treated as making because the person is treated as being a settlor of the settlement; but
+    (c) in the definition of principal settlor in section CB 16A(3) (Main home exclusion for disposal within 2 years), does not include either services provided to a trust for less than market value, or a transfer of value except if that value is transferred by 1 or more of the following:
+      (i) a beneficiary:
+      (ii) a trustee:
+      (iii) a person with power of appointment or removal of trustees:
+      (iv) a person with a contingent interest in the trust property, in the case that the trust fails:
+      (v) a decision-maker under the trust
   - **settlement of relationship property** is defined in section FB 1(3) (What this subpart does) for the purposes of subpart FB (Transfers of relationship property)
   - **settlor** ,—
     (a) is defined in section HC 27 (Who is a settlor?):
@@ -40892,6 +41034,7 @@ In this Act, unless the context requires otherwise,—
       (ii) a person to whom section RD 3(2) to (4) applies:
     (c) does not include an owner of a look-through company or a person who has a look-through interest for a look-through company
   - **shareholder FDP ratio** is defined in section OC 39 (Meaning of shareholder FDP ratio) for the purposes of sections OC 23 and OC 36 (which relate to FDP credits and debits)
+  - **shareholder portion** is defined in section GB 52 (Arrangements involving residential land: companies’ shares) for the purposes of that section
   - **shares of the same class** means any 2 or more shares of a company—
     (a) that carry the same shareholder decision-making rights; and
     (b) that carry the same rights, in terms of priority, amount payable per share, and otherwise, to be paid profits distributed by the company and distributions of assets of the company on a cancellation of its shares; and
@@ -41216,7 +41359,7 @@ In this Act, unless the context requires otherwise,—
       (ii) includes anything acquired for the purposes of manufacture or disposal:
       (iii) includes livestock:
       (iv) includes timber or a right to take timber:
-      (v) includes land whose disposal would produce income under any of sections CB 6 to CB 15 (which relate to income from land):
+      (v) includes land whose disposal would produce income under any of sections CB 6A to CB 15 (which relate to income from land):
       (vi) includes any thing for which expenditure is incurred and which would be trading stock if possession of it were taken:
       (vii) does not include a financial arrangement to which the financial arrangements rules or the old financial arrangements rules apply:
     (c) for the purposes of section GC 1 (Disposals of trading stock at below market value), has an expanded meaning as set out in section GC 1(4):
@@ -41253,7 +41396,7 @@ In this Act, unless the context requires otherwise,—
     (e) subpart HC (Trusts):
     (f) subpart HZ (Terminating provisions):
     (g) sections LE 4, LE 5, LF 2, LF 3, and LO 2 (which relate to tax credits for beneficiary minors):
-    (h) sections 59 and 93B of the Tax Administration Act 1994
+    (h) sections 43B, 59, and 93B of the Tax Administration Act 1994
   - **trustee** ,—
     (a) for a trust,—
       (i) means the trustee only in the capacity of trustee of the trust; and
