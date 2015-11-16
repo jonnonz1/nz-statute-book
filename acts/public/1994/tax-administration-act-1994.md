@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2015-10-01_
+_Consolidation as at 2015-11-16_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -279,6 +279,7 @@ _Consolidation as at 2015-10-01_
     (c) the payment is derived in the pay period and is of the same amount as another payment that the employee chooses, if the employee derives payments in the period from 2 or more employers and 2 or more of the payments are of the same amount
   - **private dwelling** is defined in section 16(7) for the purposes of that section
   - **proceedings** means proceedings commenced before a hearing authority under Part 8 or Part 8A; and includes a document that a tax law requires to be filed with a hearing authority, or to be served on a person, in connection with the proceedings
+  - **professional trustee** , in section 43B, means a person whose profession, employment, or business is or includes acting as a trustee or investing money on behalf of others
   - **promoter** is defined in section 141EC
   - **property** , in section 90, has the same meaning as in paragraph (b) of the definition of that term in section YA 1 of the Income Tax Act 2007
   - **proposed adjustment** means—for the purposes of 1 or more return periods; and, where the context permits, an is to include a proposed adjustment
@@ -2174,6 +2175,29 @@ An employer that is not required to furnish an employer monthly schedule electro
     (ii) whether or not there has been any change of ownership in the company since that time, whether direct or indirect; and
     (iii) whether or not the application of any of the continuity provisions would preclude the carrying forward, offsetting, or other utilisation of any tax loss or loss balance or credit balance of the company referred to in subparagraph (i).
 (7) Notwithstanding subsections (1), (4), and (5), a non-active company shall furnish a return of income or an annual ICA return if required by the Commissioner to do so.
+
+### 43B Non-active trusts may be excused from filing returns
+(1) A trustee of a trust is not required to furnish a return of income for the trust for a tax year if—
+  (a) throughout that tax year; the trust is—
+    (i) a non-active trust; and
+    (ii) a complying trust as described in section HC 10 of the Income Tax Act 2007; and
+  (b) a trustee of the trust has made and furnished to the Commissioner, in a form approved by the Commissioner,—
+    (i) a declaration that the trust is a non-active trust, and that it will notify the Commissioner if it stops being a non-active trust; and
+    (ii) a statement of such other matters as the Commissioner may require; and
+  (c) the trust has not since the making of the declaration stopped being a non-active trust.
+(2) For the purposes of this section, a trust is a non-active trust for a tax year if, throughout that tax year, the trustee of the trust—
+  (a) has not derived or been deemed to have derived any income; and
+  (b) has no deductions; and
+  (c) has not been a party to or perpetuated or continued with any transactions with assets of the trust which, during the tax year,—
+    (i) give rise to income in any person’s hands; or
+    (ii) give rise to fringe benefits to any employee or to any former employee.
+(3) In determining whether a trust complies with the requirements of subsection (2), no account shall be taken of any—
+  (a) reasonable fees paid to professional trustees to administer the trust; or
+  (b) bank charges or other minimal administration costs totalling not more than $200 in the tax year; or
+  (c) interest earned on trust assets in any bank account during the tax year, to the extent to which the total interest does not exceed $200; or
+  (d) insurance, rates, and other expenditure incidental to the occupation of a dwelling owned by the trust and incurred by the beneficiaries of the trust.
+(4) Where at any time any paragraph of subsection (2) ceases to apply to a trust for which a declaration under this section has been made, a trustee of the trust must notify the Commissioner that the trust has ceased to be a non-active trust.
+(5) Despite subsection (1), trustees of a non-active trust shall furnish a return of income if required by the Commissioner to do so.
 
 ### 44 Commissioner may in certain cases demand special returns, and make special assessments
 (1) This section applies to the following persons:
