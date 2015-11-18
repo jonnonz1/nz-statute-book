@@ -1,5 +1,5 @@
 # Public Safety (Public Protection Orders) Act 2014
-_Consolidation as at 2014-12-11_
+_Consolidation as at 2015-11-18_
 
 ### 1 Title
 This Act is the Public Safety (Public Protection Orders) Act 2014.
@@ -35,7 +35,7 @@ In this Act, unless the context otherwise requires,—
     (c) includes any device that enables or facilitates the functioning of an electronic communication device (for example, a recharger or charging device)
   - **guidelines or instructions** means guidelines or instructions provided under section 120
   - **health assessor** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine, and who is a practising psychiatrist; or
+    (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine, and who is a practising psychiatrist; or
     (b) is a registered psychologist
   - **imminent** , in relation to the commission of serious sexual or violent offences by a person, means that the person is expected to commit such an offence as soon as he or she has a suitable opportunity to do so
   - **inspector** means an inspector appointed under section 127
@@ -67,7 +67,7 @@ In this Act, unless the context otherwise requires,—
     (p) any other article or substance that the resident is not permitted to possess under rules made under section 119
   - **protective supervision order** means an order made under section 93
   - **public protection order** means an order made under section 13
-  - **registered psychologist** means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
+  - **registered psychologist** means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
   - **residence** means a residence established under section 114
   - **residence management contract** means a contract for the management of a residence entered into under section 130
   - **residence manager** or means a person appointed or engaged as the manager of a residence under section 115, and includes a deputy residence manager appointed under that section
@@ -82,7 +82,7 @@ In this Act, unless the context otherwise requires,—
       (ii) an offence against any of sections 172 to 177, 188, 189(1), 191, 198 to 199, 208 to 210, 234, 235, and 236 of the Crimes Act 1961; or
     (b) is committed overseas and would come within the description of paragraph (a) if it had been committed in New Zealand
   - **serious sexual or violent offending** means the commission of 1 or more serious sexual or violent offences
-  - **staff member** , in relation to a residence, means a person appointed under section 115(1)(c) or (2)(c)
+  - **staff member** , in relation to a residence, means a person appointed under section 115(1)﻿(c) or (2)﻿(c)
   - **strip search** has the same meaning as in section 90 of the Corrections Act 2004
   - **threshold** , in relation to a public protection order, has the meaning given to it by section 7
   - **victim** means a person—
@@ -117,12 +117,18 @@ This Act binds the Crown.
     (ii) must be released from detention not later than 6 months after the date on which the chief executive applies for a public protection order against the person; or
   (b) the person is subject to an extended supervision order and—
     (i) is, or has been, subject to a condition of full-time accompaniment and monitoring imposed under section 107K of the Parole Act 2002; or
-    (ii) is subject to a condition of long-term full-time placement in the care of an appropriate agency, person, or persons for the purposes of a programme under sections 15(3)(b) and 16(c) of the Parole Act 2002; or
+    (ii) is subject to a condition of long-term full-time placement in the care of an appropriate agency, person, or persons for the purposes of a programme under sections 15(3)﻿(b) and 16(c) of the Parole Act 2002; or
   (c) the person is subject to a protective supervision order; or
   (d) the person—
     (i) has arrived in New Zealand within 6 months of ceasing to be subject to any sentence, supervision conditions, or order imposed on the person for a serious sexual or violent offence by an overseas court; and
     (ii) has, since that arrival, been in New Zealand for less than 6 months; and
-    (iii) resides or intends to reside in New Zealand.
+    (iii) resides or intends to reside in New Zealand; or
+  (e) the person—
+    (i) has committed a serious sexual or violent offence; and
+    (ii) in respect of that offence,—
+      (A) has been determined to be a returning prisoner under the Returning Offenders (Management and Information) Act 2015; or
+      (B) is a returning offender to whom subpart 3 of Part 2 of that Act applies; and
+    (iii) is subject to release conditions under the Returning Offenders (Management and Information) Act 2015.
 (2) For the purposes of this Act, a person meets the threshold for a public protection order if the person meets the threshold at the time that the chief executive applies for that order against the person.
 (3) In this section, extended supervision order means an order imposed, whether before, on, or after the commencement of this section, under section 107I of the Parole Act 2002 on a person who was an eligible offender (within the meaning of section 107C(1) of that Act) because the person had been sentenced to imprisonment for a relevant offence (within the meaning of that section) that is also a serious sexual or violent offence (within the meaning of section 3).
 
@@ -160,7 +166,7 @@ A Judge or the Registrar of the High Court may from time to time issue a summons
   (b) there is a very high risk of imminent serious sexual or violent offending by the respondent if,—
     (i) where the respondent is detained in a prison, the respondent is released from prison into the community; or
     (ii) in any other case, the respondent is left unsupervised.
-(2) The court may not make a finding of the kind described in subsection (1)(b) unless satisfied that the respondent exhibits a severe disturbance in behavioural functioning established by evidence to a high level of each of the following characteristics:
+(2) The court may not make a finding of the kind described in subsection (1)﻿(b) unless satisfied that the respondent exhibits a severe disturbance in behavioural functioning established by evidence to a high level of each of the following characteristics:
   (a) an intense drive or urge to commit a particular form of offending:
   (b) limited self-regulatory capacity, evidenced by general impulsiveness, high emotional reactivity, and inability to cope with, or manage, stress and difficulties:
   (c) absence of understanding or concern for the impact of the respondent's offending on actual or potential victims (within the general sense of that term and not merely as defined in section 3):
@@ -190,7 +196,7 @@ As soon as practicable after an application for a public protection order is det
   (b) then, within 5 years after the first review; and
   (c) then, at intervals of not more than 5 years; and
   (d) whenever the review panel directs the chief executive to apply.
-(2) Despite subsection (1)(c), the court may direct that the chief executive apply for any subsequent reviews at intervals of not more than 10 years.
+(2) Despite subsection (1)﻿(c), the court may direct that the chief executive apply for any subsequent reviews at intervals of not more than 10 years.
 (3) For the purpose of calculating any period specified in subsection (1) or (2), if the court grants leave for an application under section 17, the period is suspended until the application is determined or withdrawn.
 (4) As soon as practicable after an application is made under subsection (1), the chief executive must advise every victim of the person subject to the public protection order that the application has been made.
 
@@ -271,7 +277,7 @@ A resident may be transferred, on the direction of the chief executive given aft
   (c) to attend any other hearings in a proceeding if the attendance of the resident is required by the court or under an enactment:
   (d) to attend a rehabilitation programme identified in the resident's management plan:
   (e) for humanitarian reasons.
-(2) In deciding whether to grant leave under subsection (1)(d) and (e), the chief executive must have regard to—
+(2) In deciding whether to grant leave under subsection (1)﻿(d) and (e), the chief executive must have regard to—
   (a) whether the risk of serious sexual or violent offending during the duration of the leave is reasonably manageable; and
   (b) the extent to which the resident must be supervised while absent; and
   (c) the benefit of the proposed leave to the resident and others.
@@ -392,7 +398,7 @@ A resident is entitled to be dealt with in a manner that respects the resident's
   (c) whenever the manager receives a request, made by or on behalf of the resident, that the management plan be changed, unless the manager is satisfied that the request is frivolous or vexatious or is not made in good faith; and
   (d) whenever the manager considers that a change in the circumstances of the resident is likely to require a change to the management plan.
 (2) If, following a review under subsection (1), the manager proposes to make a change to the management plan, the manager must consult the resident about the proposed change.
-(3) Where the review has been requested under subsection (1)(c) on behalf of the resident by another person, the consultation under subsection (2) must also include that other person.
+(3) Where the review has been requested under subsection (1)﻿(c) on behalf of the resident by another person, the consultation under subsection (2) must also include that other person.
 (4) After taking into account any views expressed in the course of the consultation under subsection (2), the manager may change any matter in the management plan that was the subject of that consultation.
 
 **Monitoring of written communications**
@@ -431,7 +437,7 @@ An item may not be delivered to a residence for a resident unless the delivery i
     (i) contravene the resident's management plan; or
     (ii) be otherwise detrimental to the interests and treatment of the resident or of other persons.
 (3) If the manager is satisfied, under subsection (2), that an item inspected is a prohibited item (other than an item that the resident concerned is permitted to possess under rules made under section 119), the manager must deal with the item in accordance with section 23(2) and (3).
-(4) If the manager considers that subsection (2)(b) applies to the item, the manager may direct that the item be withheld from the resident or not be dispatched, as the case requires.
+(4) If the manager considers that subsection (2)﻿(b) applies to the item, the manager may direct that the item be withheld from the resident or not be dispatched, as the case requires.
 
 **Written communications or items withheld or not sent**
 
@@ -716,9 +722,9 @@ If, under section 68, a resident submits to a test, the manager must ensure that
     (ii) damaging, or continuing to damage, property; and
   (b) detain and take to a prison any resident who appears to pose such an unacceptably high risk to the resident or to others, or to both, that the resident cannot be safely managed in the residence.
 (3) An officer who uses physical force for any of the purposes referred to in subsection (2) may not use any more physical force than is reasonably necessary in the circumstances.
-(4) A resident who is taken to a prison under subsection (2)(b) may be detained in the prison, but if the resident's detention exceeds a period of 24 hours, the chief executive must, within the next working day after the day on which that period of 24 hours expires, apply to the court, in respect of the resident, for a prison detention order and an order under subsection (5).
+(4) A resident who is taken to a prison under subsection (2)﻿(b) may be detained in the prison, but if the resident's detention exceeds a period of 24 hours, the chief executive must, within the next working day after the day on which that period of 24 hours expires, apply to the court, in respect of the resident, for a prison detention order and an order under subsection (5).
 (5) If it appears to the court on the papers that the application for a prison detention order against the resident is properly made, the court may make an order (an interim prison detention order) ordering that, while that application is pending, the resident continue to be detained in the prison.
-(6) Section 86 applies to a person who is taken to a prison under subsection (2)(b) or who is subject to an interim prison detention order as if the person were subject to a prison detention order.
+(6) Section 86 applies to a person who is taken to a prison under subsection (2)﻿(b) or who is subject to an interim prison detention order as if the person were subject to a prison detention order.
 (7) The interim prison detention order ceases to have effect when the application for the prison detention order is finally determined or is discontinued.
 (8) If the court declines to grant an interim prison detention order, the resident must be immediately returned to a residence.
 (9) In this section, security emergency means a state of affairs, brought about by the conduct of 1 or more persons in a residence, that leads the residence manager reasonably to believe that persons or property in the residence cannot be protected from harm or damage without assistance.
@@ -774,10 +780,10 @@ If, under section 68, a resident submits to a test, the manager must ensure that
 (3) If, after investigating the complaint, the inspector is satisfied that the complaint has substance, the inspector must, as soon as is reasonable in the circumstances,—
   (a) conduct an inquiry under section 83 into the complaint; or
   (b) report the matter, together with any recommendations, to the manager.
-(4) The inspector must send a copy of any report prepared under subsection (3)(b) to the chief executive.
+(4) The inspector must send a copy of any report prepared under subsection (3)﻿(b) to the chief executive.
 
 ### 82 Resident to be informed of outcome of investigation
-(1) On receiving a report on an investigation under section 81(3)(b), the manager must report in writing the outcome of the investigation to—
+(1) On receiving a report on an investigation under section 81(3)﻿(b), the manager must report in writing the outcome of the investigation to—
   (a) the resident whose rights were in issue in the investigation; and
   (b) any person who complained on behalf of the resident.
 (2) If the resident is not satisfied with the outcome of the complaint, he or she may request the chief executive to examine the complaint, and the chief executive must consider if further investigation is warranted.
@@ -792,7 +798,7 @@ If, under section 68, a resident submits to a test, the manager must ensure that
   (c) if applicable, any person who complained on behalf of the resident.
 
 ### 84 Duty of manager to correct deficiencies
-On receiving a report under section 81(3)(b) or 83(4)(a), the manager must take all steps reasonably necessary to correct every deficiency identified in the report.
+On receiving a report under section 81(3)﻿(b) or 83(4)﻿(a), the manager must take all steps reasonably necessary to correct every deficiency identified in the report.
 
 ### Subpart 6 — Prison detention orders
 
@@ -935,10 +941,10 @@ The following applications must be made by originating application:
 ### 107 Court may order interim detention of, or interim imposition of conditions on, respondent
 (1) This section applies when, before an application for a public protection order is finally determined, 1 or more of the following events occur:
   (a) a respondent is released from detention:
-  (b) a respondent who is subject to an extended supervision order ceases to be subject to conditions of the kind referred to in section 7(1)(b) or (c):
+  (b) a respondent who is subject to an extended supervision order ceases to be subject to conditions of the kind referred to in section 7(1)﻿(b) or (c):
   (c) the respondent is brought before the court under section 106:
   (d) the court gives a direction under section 12(2):
-  (e) a respondent to whom section 7(1)(d) applies arrives in New Zealand.
+  (e) a respondent to whom section 7(1)﻿(d) applies arrives in New Zealand.
 (2) The court may, on an application by the chief executive, order that, until the application for a public protection order is finally determined, the respondent is to be detained by a person, and in a place, specified in the order.
 (3) When the court makes an order under subsection (2) (an interim detention order), the court may suspend that order subject to any conditions that the court thinks fit.
 (4) An order under this section ceases to have effect when the application for a public protection order is finally determined or discontinued.
@@ -978,7 +984,7 @@ The court may determine whether to hold any hearing related to a public protecti
   (d) in the case of a person subject to a prison detention order, a report by the manager of the prison; and
   (e) in the case of a person currently detained in, or on leave from, a hospital under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or a facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, a report from the responsible clinician (or the most suitable other health professional to provide such a report) concerning the person and any care programmes that the hospital has put, or intends to put, in place for the person; and
   (f) any further or supplementary reports requested by the review panel, to be provided by any person, including the chief executive, the manager of the prison or the residence in which the person is detained, and any health assessor.
-(2) The responsible clinician (or other health professional) referred to in subsection (1)(e) must, on request by the chief executive, supply a report on the person to the chief executive.
+(2) The responsible clinician (or other health professional) referred to in subsection (1)﻿(e) must, on request by the chief executive, supply a report on the person to the chief executive.
 
 ### 113 Interview of person
 For the purposes of any review under section 15 or 87, the review panel must interview the person who is subject to a public protection order or prison detention order, unless the person indicates to the review panel that he or she does not wish to be interviewed.
@@ -1222,14 +1228,14 @@ A person is not a person under control or supervision within the meaning of sect
 
 ### 141 Amendment to Crimes Act 1961
 (1) This section amends the Crimes Act 1961.
-(2) After section 120(1)(ba), insert:.
+(2) After section 120(1)﻿(ba), insert:
   (bb) being subject to a public protection order made under the Public Safety (Public Protection Orders) Act 2014, escapes from the residence in which he or she is required to stay under that Act; or
 
 **Legal aid**
 
 ### 142 Amendment to Legal Services Act 2011
 (1) This section amends the Legal Services Act 2011.
-(2) In section 4(1), definition of specified application, after paragraph (c), insert:.
+(2) In section 4(1), definition of specified application, after paragraph (c), insert:
   (ca) by a person who is a respondent to an application under the Public Safety (Public Protection Orders) Act 2014, or who is subject to an order under that Act, in respect of an application under that Act; or
 
 **Access to protection orders and restraining orders**
@@ -1237,7 +1243,7 @@ A person is not a person under control or supervision within the meaning of sect
 ### 143 Amendments to Privacy Act 1993
 (1) This section amends the Privacy Act 1993.
 (2) In Schedule 5, under the heading Police records, items relating to protection orders and restraining orders, paragraph (d), after conditions, insert ; or.
-(3) In Schedule 5, under the heading Police records, items relating to protection orders and restraining orders, after paragraph (d), insert:.
+(3) In Schedule 5, under the heading Police records, items relating to protection orders and restraining orders, after paragraph (d), insert:
   (e) a public protection order, a prison detention order, or a protective supervision order under the Public Safety (Public Protection Orders) Act 2014
 (4) In Schedule 5, under the heading Police records, items relating to protection orders and restraining orders, replace offender's sentence and any post-sentence conditions with offender's sentence, any post-sentence conditions, or any order under the Public Safety (Public Protection Orders) Act 2014.
 
