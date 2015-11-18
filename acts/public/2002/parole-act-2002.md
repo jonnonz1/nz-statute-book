@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2015-09-02_
+_Consolidation as at 2015-11-18_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -1356,7 +1356,9 @@ This Part—
   (b) is a person who—
     (i) has arrived in New Zealand within 6 months of ceasing to be subject to any sentence, supervision conditions, or order imposed on the person for a relevant offence by an overseas court; and
     (ii) has, since that arrival, been in New Zealand for less than 6 months; and
-    (iii) resides or intends to reside in New Zealand.
+    (iii) resides or intends to reside in New Zealand; or
+  (c) has been convicted of a relevant offence and in respect of that offence has been determined to be a returning prisoner under the Returning Offenders (Management and Information) Act 2015:
+  (d) is a person to whom subpart 3 of Part 2 of the Returning Offenders (Management and Information) Act 2015 applies.
 (2) To avoid doubt, and to confirm the retrospective application of this provision, despite any enactment or rule of law, an offender may be an eligible offender even if he or she committed a relevant offence, was most recently convicted, or became subject to release conditions or an extended supervision order before this Part and any amendments to it came into force.
 
 ### 107D Meaning of sentencing court
@@ -1373,7 +1375,8 @@ In this Part, sentencing court, in relation to an offender, means the High Court
     (i) the sentence expiry date of the sentence to which the offender is subject that has the latest sentence expiry date, regardless of whether that sentence is for a relevant offence; and
     (ii) the date on which the offender ceases to be subject to any release conditions; or
   (b) where the offender is subject to an extended supervision order, at any time before the expiry of the order; or
-  (c) where the offender is a person described in section 107C(1)﻿(b), at any time within 6 months of the person’s arrival in New Zealand.
+  (c) where the offender is a person described in section 107C(1)﻿(b), at any time within 6 months of the person’s arrival in New Zealand; or
+  (d) where the offender is a person described in section 107C(1)﻿(c) or (d), at any time before the end of the period for which the offender is subject to release conditions under the Returning Offenders (Management and Information) Act 2015.
 (2) An application under this section must be accompanied by a report by a health assessor (as defined in section 4 of the Sentencing Act 2002).
 (2A) Every health assessor’s report must address one or both of the following questions:
   (a) whether—
