@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-11-19_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -501,7 +501,7 @@ A delegation under section 20C may be revoked at will by—
 (9) The powers conferred on the Electoral Commission by subsections (1) and (6) include the power to appoint a Registrar or a Deputy Registrar for a named electoral district—
   (a) that is not yet in being; or
   (b) in respect of which a roll has not been compiled.
-(10) All appointments made under section 22 as repealed on 1 July 2012 by section 31 of the Electoral (Administration) Act 2011 and in force at the close of 30 June 2012 continue on and after 1 July 2012, and may be amended, revoked, or revoked and replaced, as if they had been made under this section.
+(10) All appointments made under section 22 as repealed on 1 July 2012 by section 31 of the Electoral (Administration) Amendment Act 2011 and in force at the close of 30 June 2012 continue on and after 1 July 2012, and may be amended, revoked, or revoked and replaced, as if they had been made under this section.
 
 ### 23 Appropriation of expenses of New Zealand Post Limited
 [Repealed]
@@ -770,7 +770,7 @@ A member of Parliament ceasing to be registered as an elector shall not from tha
 (1) Where an election is held for any electoral district, the person whose name is endorsed on the writ issued for the election as the person declared to be elected shall, subject to this Act,—
   (a) come into office as the member of Parliament for that electoral district on the day after the day of the return of that writ; and
   (b) vacate that office at the close of polling day at the next general election.
-(2) Where any person whose name is entered on a party list submitted pursuant to section 127, is declared by the Electoral Commission to be elected as a member of Parliament, the person shall, subject to this Act,—
+(2) Where any person whose name is entered on a party list submitted pursuant to section 127 is declared by the Electoral Commission to be elected as a member of Parliament, the person shall, subject to this Act,—
   (a) come into office on the date after the date of the return made by the Electoral Commission pursuant to section 193; and
   (b) vacate that office at the close of polling day at the next general election.
 
@@ -791,7 +791,7 @@ A member of Parliament ceasing to be registered as an elector shall not from tha
   (f) if he or she resigns his or her seat by signing a written notice that is addressed and delivered to the Speaker; or
   (g) if on an election petition the High Court or Court of Appeal declares his or her election void; or
   (h) if he or she dies; or
-  (i) if he or she becomes mentally disordered, as provided in section 56; or
+  (i) if he or she becomes mentally disordered, as provided in section 56.
   (j)
 (2) Notwithstanding anything in subsection (1)﻿(c), where a member of Parliament marries a person who is a subject or citizen of a foreign State or Power and the laws of that foreign State or Power confer on that member of Parliament by reason of that marriage, citizenship of that foreign State or Power or the rights, privileges, or immunities of a subject or citizen of that foreign State or Power, the seat of a member of Parliament shall not become vacant by reason only of the marriage.
 
@@ -950,7 +950,7 @@ The Electoral Commission shall refuse an application for the registration of a p
   (b) to notify the Electoral Commission of any changes in the address for service of correspondence; and
   (c) to notify the Electoral Commission whenever a new secretary of the party is appointed; and
   (d) to notify the Electoral Commission if the number of current financial members of the party who are eligible to enrol as electors falls below 500; and
-  (e) subject to subsection (4), to notify the Electoral Commission by way of a declaration in the manner provided by section 9 of the Oaths and Declarations Act 1957 whenever there is any change in the details recorded in the Register of Political Parties in respect of the party under subsection (1)﻿(a)﻿(iii); and
+  (e) subject to subsection (4), to notify the Electoral Commission by way of a declaration in the manner provided by section 9 of the Oaths and Declarations Act 1957 whenever there is any change in the details recorded in the Register of Political Parties in respect of the party under subsection (1)﻿(a)﻿(iii).
   (f)
 (4)
 
@@ -3248,7 +3248,7 @@ In this Part, unless the context otherwise requires,—
   (a) a party secretary:
   (b) a candidate:
   (c) a registered promoter:
-  (d) an unregistered promoter who does not incur advertising expenses exceeding $12,500 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
+  (d) an unregistered promoter who does not incur advertising expenses exceeding $12,600 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
 (2) The amount in subsection (1)﻿(d) is inclusive of goods and services tax.
 (3) Every person who wilfully promotes an election advertisement without being entitled to do so under subsection (1) is guilty of an illegal practice.
 
@@ -3442,7 +3442,7 @@ Every person is guilty of—
 ### 205C Maximum amount of candidate's total election expenses
 (1) The total election expenses of a candidate in respect of any regulated period must not exceed—
   (a) $26,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
-  (b) $52,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
+  (b) $52,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
 (2) The amounts in subsection (1) are inclusive of goods and services tax.
 
 ### 205D Apportionment of advertising expenses for publication of candidate advertisement both before and during regulated period
@@ -3581,7 +3581,7 @@ Every person is guilty of—
 
 ### 206C Maximum amount of party's total election expenses
 (1) If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed—
-  (a) $1,109,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+  (a) $1,111,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
   (b) $26,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
 (2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $26,100 for each electoral district contested by a candidate for the party.
 (3) The amounts in subsections (1) and (2) are inclusive of goods and services tax.
@@ -4736,7 +4736,7 @@ On the hearing of a petition presented pursuant to section 258, no decision shal
   (d) that corrupt or illegal practices prevailed at the election.
 
 ### 261 Provisions applied
-Where any petition is presented under section 258, the provisions of sections 232 to 235, subsections (1) to (3) and (8) of section 236, sections 240 to 242, sections 245 to 250, and section 252 (other than subsection (2)), shall apply, with any necessary modifications, as if references to the High Court were references to the Court of Appeal.
+Where any petition is presented under section 258, the provisions of sections 232 to 235, subsections (1) to (3) and (8) of section 236, sections 240 to 242, sections 245 to 250, and section 252 (other than subsection (2)) shall apply, with any necessary modifications, as if references to the High Court were references to the Court of Appeal.
 
 ### 262 Certificate of court as to result of petitions
 At the conclusion of the trial of an election petition to which section 258 applies, the Court of Appeal shall—
