@@ -1,5 +1,5 @@
 # Waitangi National Trust Board Act 1932
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2015-11-24_
 
 > An Act to incorporate the Waitangi National Trust Board, to vest certain lands in the said Board, to confer certain powers upon the said Board, and for other purposes
 
@@ -13,18 +13,46 @@ This Act may be cited as the Waitangi National Trust Board Act 1932.
 ### 2 Waitangi National Trust Board incorporated
 (1) The parties to the deed or declaration of trust set out in Schedule 1 are hereby declared to be a body corporate under the name of the Waitangi National Trust Board (hereinafter called the Board) with perpetual succession and a common seal and power to do and suffer all such acts and things as bodies corporate may lawfully do and suffer.
 (2) The Board shall as soon as practicable after the commencement of this subsection appoint as a representative member of the Board a suitable person as a representative of the family of the late James Busby. The appointment shall be made by resolution duly passed at a meeting specially called for the purpose and confirmed at a subsequent meeting of the Board, and upon that confirmation all the provisions of the said declaration or deed of trust relating to members of the Board shall, as far as they are applicable and with any necessary modifications, apply with respect to the person so appointed as if he had been appointed by the said declaration or deed of trust to be a representative member of the Board.
+(3) When the term of office of the representative member holding the position first held by Riri Maihi Kawiti ends in accordance with section 11(2) of the Waitangi National Trust Board Amendment Act 2015,—
+  (a) that position is disestablished; and
+  (b) the Board must appoint as representative members of the Board—
+    (i) a member of the family of Hone Heke; and
+    (ii) a member of the family of Maihi Kawiti; and
+    (iii) a member of the family of Tamati Waka Nene; and
+    (iv) a member of the family of Pomare.
+(4) The appointments referred to in subsection (3)﻿(b) must be—
+  (a) made by resolution duly passed at a meeting of the Board specially called for the purpose; and
+  (b) confirmed at a subsequent meeting of the Board.
+(5) Upon confirmation of the appointments referred to in subsection (3)﻿(b), all the provisions of the declaration or deed of trust relating to members of the Board (as far as they are applicable and with any necessary modifications) apply with respect to the persons appointed as if they had been appointed by the declaration or deed of trust to be representative members of the Board.
 
 ### 3 Powers of Board
 (1) The Board shall have all the powers, authorities, and discretions set out in the said deed or declaration of trust.
-(2) In addition to the powers conferred on the Board by paragraph (xviii) of clause 15 of the said declaration or deed of trust, the Board may pay the actual charges for accommodation and meals incurred and disbursed by any member of the Board in travelling from or to his usual place of residence to or from a meeting of the Board.
+(2)
 (3) In addition to the powers conferred on the Board by paragraph (xii) of clause 15 of the said declaration or deed of trust, and notwithstanding the provisions of the said declaration or deed of trust, the Board may, in respect of any land for the time being vested in it and in such manner as it thinks fit, grant leases for a term not exceeding 33 years, with or without a right of renewal, perpetual or otherwise, but with no right of acquiring the fee simple, and at such rent and upon such terms and conditions as the Board thinks fit; and the Board may accept surrenders of any such leases on such conditions as it thinks fit.
 (4) The Board may, by resolution, fix reasonable charges for any admission of persons, horses, and vehicles to any lands or premises for the time being vested in the Board or under its control.
 (5) The Board may grant easements over any part of the land vested in it.
 
 ### 4 Effect of deed of trust
 (1) All the provisions of the said deed or declaration of trust shall enure and take effect as fully in all respects as if they were expressly hereby enacted.
-(2) However, the deed or declaration of trust has effect for these purposes as if, in place of paragraph (c) of clause 8, there were substituted the following paragraph:.
-  (c) become subject to a property order made under section 31 of the Protection of Personal and Property Rights Act 1988; or
+(2)
+
+### 4A Crown representatives group
+(1) The Crown representatives group in relation to the Board comprises—
+  (a) the Prime Minister; and
+  (b) the Minister for Arts, Culture and Heritage; and
+  (c) the Minister for Māori Development.
+(2) The functions of the Crown representatives group are—
+  (a) to foster good relations between the Government and the Board; and
+  (b) to facilitate the exchange of information between the Government and the Board on matters relevant to the trust.
+
+### 4B Nominated members of Board
+(1) The nominated members of the Board consist of—
+  (a) 1 member appointed by the Prime Minister to represent the Government; and
+  (b) 1 member appointed by the Leader of the Opposition, following consultation with the leader of each party that is not in Government or in coalition with the Government.
+(2) A nominated member's term ends—
+  (a) if he or she is appointed to the Executive Council; or
+  (b) at the end of the parliamentary term in which he or she is appointed to the Board.
+(3) Despite subsection (2), a nominated member ceases to be a member of the Board if he or she ceases to be a member of the House of Representatives.
 
 ### 5 Office of Board
 (1) The Board shall establish and maintain and publicly notify a place or office at which notices and other documents may be served on the Board, and may from time to time change such place or office.
@@ -72,32 +100,30 @@ Upon payment by or on behalf of the Board to the Public Account as a credit in a
 ### 10 Land of Board not rateable
 All land from time to time vested in the Board is not rateable under the Local Government (Rating) Act 2002.
 
+### 11 Act binds the Crown
+This Act binds the Crown.
+
 ## Schedule 1 — Copy of Trust Deed
 
-### 1. Power to obtain incorporation
+### 1 Power to obtain incorporation
 The Trustees shall have power to seek and obtain either under some general statute or by a special Act of Parliament incorporation as a corporate body or board of trustees (hereinafter referred to as the Board).
 
-### 2. First members
+### 2 First members
 The first members of the Board shall be the Trustees or the survivors of them at the time of incorporation.
 
-### 3. Life members
-The following shall be life members of the Board:—
-  (i) The said Charles, Baron Bledisloe;
-  (ii) The said Alina Kate Elaine, Lady Bledisloe.
+### 3 Life members
+[Repealed]
 
-### 4. Ex officio members
-The following shall be ex officio members of the Board during and by virtue of their tenure of the offices by which they are hereunder described:—
-  (i) The said George William Forbes, Prime Minister of New Zealand:
-  (ii) The said Ethelbert Alfred Ransom, the Minister charged for the time being with the administration of the Scenery Preservation Act 1908:
-  (iii) The said Sir Apirana Turupa Ngata, the Native Minister (that is to say, the Member of the Executive Council charged with the administration of Native Affairs).
+### 4 Nominated members
+The nominated members of the Board shall consist of 2 members of the House of Representatives appointed under section 4B of the Waitangi National Trust Board Act 1932.
 
-### 5.
-At all times after the expiration of the term of office as Governor-General of the said Charles, Baron Bledisloe, the Governor-General of New Zealand for the time being shall, on his signifying in writing his willingness to act, be ex officio a member of the Board during and by virtue of his tenure of that office.
+### 5 Honorary patron
+The Governor-General shall, at his or her pleasure, be an honorary patron of the trust.
 
-### 6. Succession of ex officio members
-Upon ceasing to hold the office by which he is described every ex officio member of the Board shall cease to be a member of the Board, and his successor in office for the time being shall be ex officio a member of the Board during and by virtue of his tenure of office.
+### 6 Succession of ex officio members
+[Repealed]
 
-### 7. Representative members
+### 7 Representative members
 The following shall be deemed representative members of the Board in the capacities in which they are hereunder described:—
   (i) The said Kenneth Stuart Williams, as a member of the family of the late Archdeacon Henry Williams:
   (ii) The said Riri Maihi Kawiti, as a member chosen from the Hone Heke and Maihi Kawiti and Tamati Waka Nene and Pomare families:
@@ -108,34 +134,54 @@ The following shall be deemed representative members of the Board in the capacit
   (vii) The said Sir Francis Henry Dillon Bell, as a representative of the family of the late Edward Gibbon Wakefield:
   (viii) The said Joseph Gordon Coates, as a person prominent in the life of the country as a statesman.
 
-### 8. Vacancy in position of representative member
-Whenever either before or after the incorporation of the Board any Trustee declared to be a representative member of the Board or any person hereafter becoming a representative member of the Board shall—the position on the Board of such trustee or other member shall become vacant.
-  (a) Become bankrupt within the meaning of the laws relating to bankruptcy;
-  (b) Be convicted of any crime punishable by imprisonment for a term of one year or upwards; or
-  (c) Become mentally defective and be received or detained in any mental hospital or other place as a mentally defective person under any Act in force relating to mental defectives; or
-  (d) Resign by writing under his hand addressed and delivered to the Chairman; or
-  (e) Be absent from the Dominion longer than two years without the consent of the majority of his co-trustees or co-members; or
-  (f) Die,—
+### 8 Terms of office of representative member
+(1) A representative member holds office for a term of 3 years unless the member's position becomes vacant at an earlier date under subclause (2).
+(2) A representative member's term in office ends, and the position of that member becomes vacant, if he or she—
+  (a) becomes bankrupt:
+  (b) becomes a person prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under any of the following:
+    (i) Companies Act 1993:
+    (ii) Securities Act 1978:
+    (iii) Securities Markets Act 1988:
+    (iv) Takeovers Act 1993:
+  (c) becomes subject to a property order under section 31 of the Protection of Personal and Property Rights Act 1988:
+  (d) is convicted of an offence punishable by imprisonment for a term of 1 year or more:
+  (e) is sentenced to imprisonment for any offence:
+  (f) resigns in writing to the Chairman:
+  (g) is absent without leave of the Board from 3 consecutive Board meetings:
+  (h) dies.
+(3) Except where a representative member's position becomes vacant under subclause (2), the representative member continues in office after the expiry of his or her term in office until a successor is appointed (or the member is reappointed) under clause 9.
 
-### 9. Succession to representative members
+### 9 Succession to representative members
 Whenever the position on the Board of a representative member so becomes vacant the Board shall, as soon as circumstances conveniently permit, by resolution duly passed at a meeting specially called for the purpose and confirmed at a subsequent meeting, appoint another person who in the opinion of the Board is qualified for the particular representative position to be filled to be a representative member of the Board in the place of the member whose position has become vacant as aforesaid.
 
-### 10.
+### 9A Eligibility to be representative member
+A person is ineligible to be a representative member if he or she—
+  (a) is an undischarged bankrupt:
+  (b) is a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under any of the following:
+    (i) Companies Act 1993:
+    (ii) Securities Act 1978:
+    (iii) Securities Markets Act 1988:
+    (iv) Takeovers Act 1993:
+  (c) is subject to a property order under section 31 of the Protection of Personal and Property Rights Act 1988:
+  (d) has been convicted of an offence punishable by imprisonment for a term of 1 year or more, or has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon, served the sentence, or otherwise suffered the penalty that was imposed:
+  (e) has served as a representative member for 9 or more years.
+
+### 10 Succession to Joseph Gordon Coates
 Upon a vacancy in the position first held by the said Joseph Gordon Coates such position shall be filled by the appointment of a person who in the opinion of the Board is a person prominent in the life of the country as a statesman, historian, archaeologist, natural historian, or otherwise.
 
-### 11. Validation of proceedings during vacancy or irregular membership
+### 11 Validation of proceedings during vacancy or irregular membership
 Subject to the next succeeding clause hereof, no act or proceeding of the Board or of any person acting as a member of the Board shall be invalidated in consequence of there being a vacancy in the membership of the Board at the time of such act or proceeding, or by reason of the fact that there was some defect in the appointment of any person so acting, or that any person purporting to act as a member of the Board was not qualified so to act.
 
-### 12. Vacancies to be filled
-If the number of members of the Board other than life members and ex officio members should at any time fall below four, then the Board shall not exercise any of the powers hereby conferred upon it, save the power of making appointments to membership of the Board and any ancillary powers:Provided always that no person dealing or contracting with the Board or taking any assurance from the Board shall be affected by the provisions of this clause or be affected by any notice or information as to the number of members of the Board.
+### 12 Vacancies to be filled
+If the number of representative members should at any time fall below four, then the Board shall not exercise any of the powers hereby conferred upon it, save the power of making appointments to membership of the Board and any ancillary powers:Provided always that no person dealing or contracting with the Board or taking any assurance from the Board shall be affected by the provisions of this clause or be affected by any notice or information as to the number of members of the Board.
 
-### 13. Trust of lands
+### 13 Trust of lands
 The said lands, when assured or vested as hereinafter provided, shall be held by the Board under the name of The Waitangi National Trust upon trust as a place of historic interest, recreation, enjoyment, and benefit for the people of the Dominion of New Zealand.
 
-### 14. Vesting of lands
+### 14 Vesting of lands
 The Board shall have power to accept an assurance of the said lands or otherwise to procure the said lands to be vested in the Board.
 
-### 15. General powers
+### 15 General powers
 The Board in furtherance of the purposes and objects of the trust may—
   (i) Repair, rehabilitate, add to, and maintain the house on the said lands of the late James Busby, at one time British Resident:
   (ii) Erect or build or permit the erection or building of any monuments, statuary, museum, art-gallery, library, baths, ornamental or other buildings which in the opinion of the Board are consistent with the purposes of the trust:
@@ -154,47 +200,66 @@ The Board in furtherance of the purposes and objects of the trust may—
   (xv) Delegate to any responsible person all or any of the powers of management of the trust property, or any part thereof hereinbefore set out, without being liable for any loss occasioned by the acts or defaults of the person to whom such powers are delegated:
   (xvi) Apply for and promote legislation for the furtherance of any of the purposes of these presents, or for compelling the observance of any by-laws, orders, or regulations with respect to the trust property, or for punishing the non-observance thereof:
   (xvii) From time to time appoint expert advisory committees for the purpose of furnishing the Board with expert or technical advice in relation to Maori life and customs and to archaeological, artistic, agricultural, pastoral, forestal, geological, botanical, recreational, or other matters incidental to the use, development, improvement, or equipment of the trust property, and to determine such appointment or appointments as to the Board may seem meet:
-  (xviii) Pay the actual locomotion-expenses incurred and disbursed by any member of the Board in travelling from or to his usual place of residence to or from a meeting of the Board.
+  (xviii) pay the actual and reasonable costs of travel, accommodation, and meals incurred by any member of the Board in travelling from or to his or her usual place of residence to or from a meeting of the Board.
 
-### 16. Trusts of revenue
+### 16 Trusts of revenue
 All moneys received by the Board by way of revenue shall be applied in managing, administering, and improving the trust property and generally in carrying into execution the purposes and objects of these presents in such manner as the Board in its absolute discretion may think fit, and, pending disbursement thereof, may be accumulated by the Board (so far as legally may be) by investment in such securities as are permitted to trustees by the law for the time being in force.
 
-### 17. Exclusion of public
+### 17 Exclusion of public
 For the better government, regulation, management, and control by the Board of the trust property the Board may wholly or partially close the said lands and buildings or any part thereof when and as the Board from time to time may think fit; and, notwithstanding anything contained in these presents, no person shall be entitled to be admitted to or to use the said lands, buildings, and premises without the permission of the Board, or against the will of the Board, or contrary to the desire, instructions, directions, or regulations of the Board; and, without limiting the general powers hereby conferred, the Board may refuse to allow any person whom the Board may consider objectionable or undesirable to enter or come, or be or remain in or upon, or to use any of the aforesaid lands, buildings, and premises, or any part of the trust property; and the Board may, if and when in its absolute and uncontrolled discretion it thinks proper, expel and exclude, or cause to be expelled and excluded, any person or persons therefrom.
 
-### 18. Meetings
+### 18 Meetings
 The Board shall hold meetings at such times and places as the Board may from time to time decide, or it may at any time delegate to one or more of its members the power to call meetings and fix the place and time thereof.
 
-### 19. Annual meeting
+### 19 Annual meeting
 The Board shall hold an annual meeting as soon as conveniently may be after the annual date on which the books of account are to be closed, and shall thereat consider the audited accounts of the trust and conduct a periodic survey of the affairs of the trust.
 
-### 20. Chairman
+### 20 Chairman
 The Board shall, as soon as conveniently may be, elect from among its members a Chairman and Deputy Chairman, who shall hold office till the close of the annual meeting held next after the meeting at which they are elected, and shall at every annual meeting proceed to the election of a Chairman and Deputy Chairman.
 
-### 21.
+### 21
 At every meeting of the Board the Chairman or in his absence the Deputy Chairman shall preside, and in the absence of both of them the members present shall choose one of their number to preside, and in the case of an equality of votes the person presiding shall, in addition to a deliberative vote, have a second or casting vote.
 
-### 22. Proxies
+### 22 Proxies
 Any member of the Board absent from a meeting may in writing given either generally or for a particular meeting or for a particular matter appoint any other member of the Board to cast a vote on his behalf at a meeting of the Board.
 
-### 23. Minutes
+### 23 Minutes
 The Board shall cause minutes to be kept of all its meetings and proceedings in relation to the trust premises, and the production of any minute so recorded purporting to be signed in confirmation thereof by the Chairman, Deputy Chairman, or other member presiding at a meeting at which such minute was confirmed shall be prima facie evidence, whether in favour of the Board or of any other person, of the correctness of the record contained therein, and that the matter referred to therein was authorized, done, or passed by the Board.
 
-### 24. Standing orders
+### 24 Standing orders
 Subject to the foregoing provisions, the Board may from time to time, by resolution, make provision for the conduct of its meetings, the fixing of a quorum for business or any class of business, the regulation of its proceedings, and generally for all matters affecting its administration of the trust property.
 
-### 25. Accounts
+### 25 Accounts
 The Board shall cause proper books of account to be kept for all matters relating to the trust property.
 
-### 26. Annual balance
+### 26 Annual balance
 The Board shall from time to time appoint an annual date for the closing of the books of account, and prepare a statement of the revenue and expenditure of the trust for the year then closed and a balance-sheet of the assets and liabilities of the trust at the end of such year.
 
-### 27. Audit
+### 27 Audit
 The Board shall procure its books of account and the aforesaid annual statement of revenue and expenditure and balance-sheet of assets and liabilities to be audited by a qualified Auditor, whose report shall be laid before the annual meeting of the Board, together with the said accounts.
 
-### 28. Headings and marginal notes excluded
+### 28 Headings and marginal notes excluded
 The headings prefixed and marginal notes affixed to the clauses hereof, being intended solely for convenience of reference, shall not be deemed part hereof or in any way control or affect the interpretation hereof.
 
 ## Schedule 2 — Closed roads
 
 ## Schedule 3 — Historic reserve
+
+### 1 Title
+This Act is the Waitangi National Trust Board Amendment Act 2015.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Principal Act
+This Act amends the Waitangi National Trust Board Act 1932 (the principal Act).
+
+## Part 2 — Miscellaneous provisions
+
+### 10 Effect of amendments
+The deed or declaration of trust referred to in the principal Act has effect as if amended directly in the manner provided in the Schedule of this Act.
+
+### 11 Transitional provisions
+(1) This section applies to any person who was a representative member of the Board on the day immediately before the day on which this Act comes into force.
+(2) That person's term in office ends on the next triennial anniversary of his or her appointment to office that occurs after the coming into force of this Act or in accordance with clause 8(2) of the declaration or deed of trust.
+(3) A person who, at the end of his or her term in office under subsection (2), has served 9 or more years as a representative member is eligible for reappointment for 1 further term of 3 years despite clause 9A(e) of the trust deed.
