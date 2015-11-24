@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-11-24_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -2698,9 +2698,9 @@ In this section and in sections 80BA to 80BC and in Schedule 28—
   (b) if the person's employment terminated or the person is given notice of termination of employment before he or she applied for the benefit, the day after the date the person's employment ceased.
 (4) If a stand down period applies under this section, benefits commence as follows:
   (a) benefits except those described in paragraph (b) commence on the later of—
-    (i) the day on which the stand down period ends; or
+    (i) the day after the stand down period ends; or
     (ii) the day on which the application for the benefit is received:
-  (b) a benefit commences on the day on which the stand down period ends if the application for the benefit is received within 28 days after the date on which the person becomes entitled to the benefit, and the benefit is—
+  (b) a benefit commences on the day after the stand down period ends if the application for the benefit is received within 28 days after the date on which the person becomes entitled to the benefit, and the benefit is—
     (i) sole parent support; or
     (ii) a supported living payment; or
     (iii) jobseeker support granted on the ground of sickness, injury, or disability; or
