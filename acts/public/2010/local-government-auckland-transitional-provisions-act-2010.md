@@ -1,5 +1,5 @@
 # Local Government (Auckland Transitional Provisions) Act 2010
-_Consolidation as at 2013-11-01_
+_Consolidation as at 2015-11-24_
 
 ### 1 Title
 This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
@@ -112,7 +112,7 @@ The October 2013 triennial general elections for the Auckland Council must be he
   (f) the property is operational plant or equipment and, during the reorganisation, has been identified as surplus to the Council's requirements.
 (3) Despite subsection (1), the Council may lease, rent, or otherwise authorise the use of any land or building formerly used by an existing local authority or a council-controlled organisation of an existing local authority as offices, as a service centre, or for local service delivery purposes that has been identified, during the reorganisation, as surplus to the Council's requirement.
 (4) In this section,—
-  - **Auckland Council** or (except in subsection (2)(a)) includes—
+  - **Auckland Council** or (except in subsection (2)﻿(a)) includes—
     (a) a council-controlled organisation of the Auckland Council; and
     (b) a subsidiary of a council-controlled organisation of the Auckland Council
   - **moratorium** means the period beginning on 1 November 2010 and ending at the close of 30 July 2012.
@@ -156,7 +156,7 @@ Until the end of 30 June 2012, Watercare Services Limited—
   (c) must, in its financial statements, identify clearly and separately—
     (i) the financial position of its reticulated water-supply, waterworks, and bulk water supply activities; and
     (ii) the financial position of its activities in relation to sewerage and the collection, treatment, and disposal of sewage and trade wastes:
-  (d) must ensure that the activities described in paragraph (c)(i) and (ii) are costed and priced separately:
+  (d) must ensure that the activities described in paragraph (c)﻿(i) and (ii) are costed and priced separately:
   (e) must, at least 4 months before the end of each financial year, prepare and supply to the Auckland Council an indicative asset management plan for the next financial year that must describe the projected condition of its significant assets at the commencement of that year and outline the rationale for and nature, extent, and estimated costs of its proposed activities in respect of—
     (i) the maintenance and repair of existing assets; and
     (ii) the renewal of existing assets; and
@@ -170,7 +170,7 @@ Until the end of 30 June 2012, Watercare Services Limited—
   (g) must, in preparing its draft statement of corporate intent under section 20 of this Act,—
     (i) consider any written submissions made by the Auckland Council on the asset management plan prepared under paragraph (e) or the funding plan prepared under paragraph (f) within 40 working days of the supply of the plan; and
     (ii) include in the draft statement of corporate intent a summary of its proposals for the matters dealt with in the plans referred to in subparagraph (i):
-  (h) must include in the statement of corporate intent completed under section 21 of this Act its decisions in respect of the matters dealt with in the plans referred to in paragraph (g)(i):
+  (h) must include in the statement of corporate intent completed under section 21 of this Act its decisions in respect of the matters dealt with in the plans referred to in paragraph (g)﻿(i):
   (i) must give written notice to the Auckland Council of any proposed modifications of its then current statement of corporate intent and consider comments on the proposed modifications made by the Council:
   (j) must—
     (i) promptly decide, for any year in which a surplus arises, whether or not to return the surplus to its customers; and
@@ -216,7 +216,7 @@ Until the end of 30 June 2012, the directors of Watercare Services Limited—
   (c) an operating statement in respect of each significant activity; and
   (d) a statement of cash flows; and
   (e) any other statements that may be necessary to fairly reflect the financial position of Watercare Services Limited and any subsidiaries of Watercare Services Limited, the resources available to them, and the financial results of their operations.
-(6) Every report under subsection (4)(a) must contain the information necessary to enable an informed assessment of the operations of Watercare Services Limited and any subsidiaries of Watercare Services Limited, including a comparison of the performance of Watercare Services Limited and any subsidiaries with any relevant statement of corporate intent.
+(6) Every report under subsection (4)﻿(a) must contain the information necessary to enable an informed assessment of the operations of Watercare Services Limited and any subsidiaries of Watercare Services Limited, including a comparison of the performance of Watercare Services Limited and any subsidiaries with any relevant statement of corporate intent.
 
 ### 23 Members, local board members, and employees of Auckland Council must not be directors of Watercare Services Limited
 (1) This section applies until the end of 30 June 2012.
@@ -345,7 +345,7 @@ Nothing in the Takeovers Code in force under the Takeovers Act 1993 applies in r
 
 ### 37 Payment of rates for 2010/2011 and 2011/2012 financial years
 (1) Until the close of 30 June 2012, the Auckland Council is not required to accept payment of rates in respect of a rating unit at any office outside the former district of the existing local authority in which the rating unit is located.
-(2) This section prevails over section 52(1)(a) of the Local Government (Rating) Act 2002.
+(2) This section prevails over section 52(1)﻿(a) of the Local Government (Rating) Act 2002.
 
 **General rate for 2012/2013 financial year**
 
@@ -381,7 +381,7 @@ In sections 41 to 43,—
 (2) The policy must identify the change limit for each rating year, being the maximum change in rating liability permitted under the policy in relation to an unchanged rating unit in a rating year.
 (3) The change limit may be—
   (a) uniform (so that the same change limit applies to increases and decreases in rating liability); or
-  (b) differential (so that the change limit that applies to increases in rating liability is different from the change limit that applies to decreases in rating liability), but only if the difference is calculated so that the expected net impact referred to in subsection (5)(c) is zero.
+  (b) differential (so that the change limit that applies to increases in rating liability is different from the change limit that applies to decreases in rating liability), but only if the difference is calculated so that the expected net impact referred to in subsection (5)﻿(c) is zero.
 (4) The change limit may be an actual amount or a proportion of the previous rates, or both, and, if a differential change limit, the positive and negative components may differ in amount or proportion, or both.
 (5) The policy must also describe the estimated impact of the policy, for each rating year, in terms of—
   (a) the proportion of rating units for which the policy will result in a reduction in rates liability, and the expected range of reductions; and
@@ -428,13 +428,13 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
 
 ### 46 Policies included in planning document treated as policies of Council
 (1) On and from 1 November 2010, the policies referred to in clause 4 of Schedule 2 of the Reorganisation Act, included in the planning document prepared by the Transition Agency under section 19A of that Act, must be treated as the policies of the Auckland Council, and may be amended in accordance with section 93 of the Local Government Act 2002.
-(2) However, the development contributions policies referred to in clause 4(3)(a) of that schedule must be amended in accordance with section 54 of this Act.
+(2) However, the development contributions policies referred to in clause 4(3)﻿(a) of that schedule must be amended in accordance with section 54 of this Act.
 
 ### 47 Certain policies have effect only in former districts and must be replaced by 30 June 2012
 (1) This section applies to—
   (a) the policies of the existing local authorities included in the planning document prepared by the Transition Agency under section 19A of the Reorganisation Act in accordance with clause 4(3) of Schedule 2 of that Act; and
   (b) any policies of the existing local authorities included in the planning document prepared by the Transition Agency under section 19A of the Reorganisation Act in accordance with clause 4(4) of Schedule 2 of that Act; and
-  (c) any policies or adjusted policies of the existing local authorities included in the planning document prepared by the Transition Agency under section 19A of the Reorganisation Act in accordance with clause 4(5)(b) or (c) of Schedule 2 of that Act.
+  (c) any policies or adjusted policies of the existing local authorities included in the planning document prepared by the Transition Agency under section 19A of the Reorganisation Act in accordance with clause 4(5)﻿(b) or (c) of Schedule 2 of that Act.
 (2) The policies have effect only within the former district of each of the existing local authorities.
 (3) If there is any inconsistency between a policy made by the Auckland Regional Council and a policy made by any of the other existing local authorities, the policy made by the Auckland Regional Council prevails.
 (4) The policies must be replaced by the Council with a single integrated policy no later than 30 June 2012.
@@ -453,17 +453,17 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
 **First local board plans and agreements**
 
 ### 49 First local board plans
-(1) This section applies to the local board plans required to be adopted by each local board by 31 October 2011 in accordance with section 20(1)(a) of the Local Government (Auckland Council) Act 2009.
+(1) This section applies to the local board plans required to be adopted by each local board by 31 October 2011 in accordance with section 20(1)﻿(a) of the Local Government (Auckland Council) Act 2009.
 (2) Section 20 of that Act applies to each local board plan as if—
   (a) the references to default levels of service in subsection (3) of that section were references to the levels of service for local activities provided in each local board area in the 2010/2011 financial year; and
-  (b) the reference to estimated funding allocation in subsection (4)(b)(iii) of that section were a reference to the funding level in the budget estimated under section 19A(2)(b) of the Reorganisation Act.
+  (b) the reference to estimated funding allocation in subsection (4)﻿(b)﻿(iii) of that section were a reference to the funding level in the budget estimated under section 19A(2)﻿(b) of the Reorganisation Act.
 
 ### 50 First local board agreements
 (1) This section applies to the local board agreements required to be included in the Council's annual plan for the 2011/2012 financial year in accordance with section 22 of the Local Government (Auckland Council) Act 2009.
 (2) Section 21 of that Act applies to each local board agreement as if—
   (a) the words in the local board's plan in subsection (2) of that section were replaced with of the communities in the local board area; and
   (b) subsection (3) of that section were omitted; and
-  (c) the reference to the local board's estimated funding allocation in subsection (5)(c) of that section were a reference to the funding level in the budget estimated under section 19A(2)(b) of the Reorganisation Act.
+  (c) the reference to the local board's estimated funding allocation in subsection (5)﻿(c) of that section were a reference to the funding level in the budget estimated under section 19A(2)﻿(b) of the Reorganisation Act.
 
 **Reports prepared by existing local authorities under section 29C of Reorganisation Act**
 
@@ -486,7 +486,7 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
 (3) However, if the development contributions are held, owed, or required for water supply or wastewater services infrastructure, section 55 applies.
 
 ### 54 Interim development contributions policies
-(1) This section applies to the development contributions policies referred to in clause 4(3)(a) of Schedule 2 of the Reorganisation Act.
+(1) This section applies to the development contributions policies referred to in clause 4(3)﻿(a) of Schedule 2 of the Reorganisation Act.
 (2) Each policy must be amended to remove any power of the Auckland Council to require a development contribution for water supply or wastewater services infrastructure, in accordance with the following procedure:
   (a) the amendment must be made by resolution of the governing body of the Auckland Council:
   (b) the amendment is not required to be made as described in section 106(6) of the Local Government Act 2002:
@@ -503,7 +503,7 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
 (3) Sections 204 and 209 of the Local Government Act 2002 apply in relation to the development contribution as if—
   (a) the contribution were paid or made to the Auckland Council; and
   (b) the capital expenditure of Watercare Services Limited were the capital expenditure of the Auckland Council.
-(4) If the development contribution is not used for the purpose for which it was required by the close of 30 June 2019, the Auckland Council must refund or return it under section 209(1)(d) of the Local Government Act 2002.
+(4) If the development contribution is not used for the purpose for which it was required by the close of 30 June 2019, the Auckland Council must refund or return it under section 209(1)﻿(d) of the Local Government Act 2002.
 (5) Watercare Services Limited must reimburse the Auckland Council for any development contribution refunded or returned under section 209 of the Local Government Act 2002.
 
 ### 56 Limitations on requiring further contribution for water supply or wastewater services infrastructure
@@ -568,8 +568,8 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
   (a) the Auckland Council confirms it, in which case the confirmed bylaw becomes a bylaw made by the Auckland Council and remains in force until it expires or is revoked; or
   (b) the Auckland Council amends it, in which case the bylaw as amended becomes a bylaw made by the Auckland Council and remains in force until it expires or is revoked; or
   (c) the Auckland Council revokes it.
-(4) The Auckland Council must use the special consultative procedure before confirming, amending, or revoking a bylaw under subsection (3)(a), (b), or (c).
-(5) Section 58 of the Waste Minimisation Act 2008 applies to any bylaw described in subsection (1)(a)(i) confirmed or amended under this section as if the date of the confirmation or amendment of the bylaw were the date of the last review of the bylaw.
+(4) The Auckland Council must use the special consultative procedure before confirming, amending, or revoking a bylaw under subsection (3)﻿(a), (b), or (c).
+(5) Section 58 of the Waste Minimisation Act 2008 applies to any bylaw described in subsection (1)﻿(a)﻿(i) confirmed or amended under this section as if the date of the confirmation or amendment of the bylaw were the date of the last review of the bylaw.
 (6) In this section, bylaw includes—
   (a) a set of bylaws; and
   (b) an individual bylaw in a set of bylaws; and
@@ -585,7 +585,7 @@ To avoid doubt, nothing in this Part affects the ability of the Council to charg
   (a) the Auckland Council confirms it, in which case the confirmed bylaw becomes a bylaw made by the Auckland Council and remains in force until it expires or is revoked; or
   (b) the Auckland Council amends it, in which case the bylaw as amended becomes a bylaw made by the Auckland Council and remains in force until it expires or is revoked; or
   (c) the Auckland Council revokes it.
-(4) The Auckland Council must use the special consultative procedure before confirming, amending, or revoking a bylaw under subsection (3)(a), (b), or (c).
+(4) The Auckland Council must use the special consultative procedure before confirming, amending, or revoking a bylaw under subsection (3)﻿(a), (b), or (c).
 (5) If section 159 of the Local Government Act 2002 applies to a bylaw confirmed or amended under this section, for the purposes of that section the date of the confirmation or amendment of the bylaw must be treated as if it were the date of the initial last review of the bylaw.
 (6) In this section, bylaw includes—
   (a) a set of bylaws; and
@@ -698,7 +698,7 @@ The standing orders prescribed by any Order in Council made under section 46 of 
 
 ### 71 Delegations under Resource Management Act 1991
 (1) On and from 1 November 2010, the chief executive of the Auckland Council holds all the responsibilities, duties, and powers of the Council that the Resource Management Act 1991 allows a local authority to delegate to an officer of the local authority.
-(2) Despite section 34A(1)(b) of that Act, on and from 1 November 2010, the chief executive may delegate some or all of the responsibilities, duties, and powers to—
+(2) Despite section 34A(1)﻿(b) of that Act, on and from 1 November 2010, the chief executive may delegate some or all of the responsibilities, duties, and powers to—
   (a) an officer or employee of the Auckland Council:
   (b) a hearings commissioner appointed by the Auckland Council (who may or may not be a member of the Council).
 (3) A person to whom the chief executive delegates a function, power, or duty under subsection (2) must not subdelegate it.
@@ -725,18 +725,18 @@ The standing orders prescribed by any Order in Council made under section 46 of 
   (b) ends on the earlier of the following:
     (i) the date on which the chief executive, having applied sections 191 to 197 of the Building Act 2004, enters the Council's name in the register:
     (ii) 31 October 2011.
-(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, extend the date in subsection (2)(b)(ii).
+(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, extend the date in subsection (2)﻿(b)﻿(ii).
 (4) On 1 November 2010, the chief executive must remove from the register of building consent authorities the names of any existing local authorities that are in it.
 (5) In this section,—
   - **chief executive** means the chief executive of the Ministry that is responsible for the administration of the Building Act 2004
-  - **register of building consent authorities** means the register of building consent authorities kept under section 273(1)(a) of the Building Act 2004.
+  - **register of building consent authorities** means the register of building consent authorities kept under section 273(1)﻿(a) of the Building Act 2004.
 
 **Civil defence emergency management**
 
 ### 74 Civil defence emergency management
 (1) This section applies to the Civil Defence Emergency Management Group established by the existing local authorities under the Civil Defence Emergency Management Act 2002 (CDEMG).
 (2) The Civil Defence Emergency Management Co-ordinating Executive Group established by the CDEMG under section 20 of the Civil Defence Emergency Management Act 2002 continues to perform its functions as if—
-  (a) section 20(1)(a) said the chief executive of the Auckland Council or a person acting on the chief executive's behalf; and
+  (a) section 20(1)﻿(a) said the chief executive of the Auckland Council or a person acting on the chief executive's behalf; and
   (b) the CDEMG had not been dissolved on 1 November 2010.
 (3) Anything done by the CDEMG in the performance of its functions or the exercise of its powers continues to have effect on and from 1 November 2010 as if the CDEMG had not been dissolved on 1 November 2010.
 (4) Subsection (3) ceases to have effect when the Civil Defence Emergency Management Group established by the Auckland Council (ACCDEMG) under section 22(2) of the Civil Defence Emergency Management Act 2002 replaces the thing done by the CDEMG in the performance of its functions or the exercise of its powers with a thing done by the ACCDEMG.
@@ -824,7 +824,7 @@ Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland 
 (1) This section applies to an appeal under the Resource Management Act 1991, lodged before the commencement of this section, against a change or variation to an Auckland planning document prepared and publicly notified under sections 39 and 40 of the Local Government (Auckland) Amendment Act 2004.
 (2) The appeal must be determined as if—
   (a) sections 38 to 43 of the Local Government (Auckland) Amendment Act 2004 had not been repealed by this Act; and
-  (b) the Auckland Council had not adopted a spatial plan under Part 6 of the Local Government (Auckland Council) Act 2009 (so that section 80(2)(a) to (d) of this Act applies).
+  (b) the Auckland Council had not adopted a spatial plan under Part 6 of the Local Government (Auckland Council) Act 2009 (so that section 80(2)﻿(a) to (d) of this Act applies).
 
 ### 82 Existing regional land transport programme and regional land transport strategy for Auckland continue in effect
 (1) The Auckland regional land transport programme prepared by the Auckland Regional Transport Authority under Part 2 of the Land Transport Management Act 2003 for the 3 financial years commencing 1 July 2009—
@@ -884,13 +884,13 @@ Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland 
 ### 84 Solid waste
 (1) Subsection (2) applies to the existing local authorities' waste management and minimisation plans to which Part 4 of the Waste Minimisation Act 2008 applies.
 (2) On and from 1 November 2010, the plans are deemed to be the Auckland Council's waste management and minimisation plan (ACWMMP).
-(3) Not later than 1 May 2011, the Auckland Council must consider and decide on proposals prepared for it under section 13(1)(cb)(iii) of the Reorganisation Act.
+(3) Not later than 1 May 2011, the Auckland Council must consider and decide on proposals prepared for it under section 13(1)﻿(cb)﻿(iii) of the Reorganisation Act.
 (4) Not later than 1 July 2012, the Auckland Council must review the ACWMMP in the manner required by the Waste Minimisation Act 2008.
-(5) For the purposes of the review, the Council may rely on any work carried out by the Transition Agency and the existing local authorities under section 13(1)(cb) of the Reorganisation Act, to the extent that it satisfies the requirements of sections 50(2) and 51 of the Waste Minimisation Act 2008.
+(5) For the purposes of the review, the Council may rely on any work carried out by the Transition Agency and the existing local authorities under section 13(1)﻿(cb) of the Reorganisation Act, to the extent that it satisfies the requirements of sections 50(2) and 51 of the Waste Minimisation Act 2008.
 (6) Subsection (7) applies to the Council when, after the review, and in accordance with section 50(3) of the Waste Minimisation Act 2008, it is acting under section 44(d) and (e) of that Act.
-(7) The Council is not required to consult on matters that have already been the subject of consultation by the existing local authorities acting under section 13(1)(cb) of the Reorganisation Act if their consultation satisfied the requirements of section 44(d) and (e) of the Waste Minimisation Act 2008.
-(8) Subsection (9) applies to the Council when, after the review, and in accordance with section 50(3) of the Waste Minimisation Act 2008, it is acting under section 50(3)(b) of that Act.
-(9) The Council is not required to consult on matters that have already been the subject of consultation by the existing local authorities acting under section 13(1)(cb) of the Reorganisation Act if their consultation satisfied the requirements of section 50(3)(b) of the Waste Minimisation Act 2008.
+(7) The Council is not required to consult on matters that have already been the subject of consultation by the existing local authorities acting under section 13(1)﻿(cb) of the Reorganisation Act if their consultation satisfied the requirements of section 44(d) and (e) of the Waste Minimisation Act 2008.
+(8) Subsection (9) applies to the Council when, after the review, and in accordance with section 50(3) of the Waste Minimisation Act 2008, it is acting under section 50(3)﻿(b) of that Act.
+(9) The Council is not required to consult on matters that have already been the subject of consultation by the existing local authorities acting under section 13(1)﻿(cb) of the Reorganisation Act if their consultation satisfied the requirements of section 50(3)﻿(b) of the Waste Minimisation Act 2008.
 (10) In relation to the levy money that the Auckland Council receives on or about 20 January 2011 (including the levy money it receives by operation of section 35 of the Reorganisation Act), the Council may spend it under section 32 of the Waste Minimisation Act 2008 without regard to the former boundaries of the existing local authorities.
 (11) In relation to the levy money that the Auckland Council receives in the period from 20 April 2011 until the date on which it completes its review of the ACWMMP, the Council may spend the money in one or both of the following ways:
   (a) under section 32 of the Waste Minimisation Act 2008:
@@ -927,7 +927,7 @@ Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland 
 (4) On 1 November 2013,—
   (a) the requirements of subsection (1) cease to have effect; and
   (b) the Pacific Peoples Advisory Panel and the Ethnic Peoples Advisory Panel are disestablished.
-(5) Nothing in this section limits or affects the mayor's powers under section 9(3)(a) of the Local Government (Auckland Council) Act 2009 (which include re-establishing, after 1 November 2013, a Pacific peoples advisory panel or an ethnic peoples advisory panel, or both, in the same or a modified form).
+(5) Nothing in this section limits or affects the mayor's powers under section 9(3)﻿(a) of the Local Government (Auckland Council) Act 2009 (which include re-establishing, after 1 November 2013, a Pacific peoples advisory panel or an ethnic peoples advisory panel, or both, in the same or a modified form).
 
 **Remuneration Authority determination**
 
@@ -1074,7 +1074,7 @@ Anything done before the commencement of this Part that would have complied with
 ### Subpart 2 — Review of employment positions
 
 ### 100 Review of employment positions
-(1) The chief executive must, in accordance with the change management plan developed in accordance with section 13(2)(b) of the Reorganisation Act,—
+(1) The chief executive must, in accordance with the change management plan developed in accordance with section 13(2)﻿(b) of the Reorganisation Act,—
   (a) review the position of persons employed by existing employers; and
   (b) decide in relation to each employee whether—
     (i) to offer the employee the same or a substantially similar position with a new employer; or
@@ -1087,7 +1087,7 @@ Anything done before the commencement of this Part that would have complied with
 (3) If the chief executive proposes to decide that a person's new employer is to be other than the Auckland Council, the chief executive must not make a decision unless he or she has consulted the chief executive or interim chief executive (as the case may be) of the other new employer.
 (4) The chief executive must, by 30 September 2010,—
   (a) complete the review and make the necessary decisions under subsections (1) and (2); and
-  (b) notify in writing each employee and the employee's existing employer of the decision made in relation to the employee in the terms of subsection (1)(b); and
+  (b) notify in writing each employee and the employee's existing employer of the decision made in relation to the employee in the terms of subsection (1)﻿(b); and
   (c) in the case of employees who are being offered positions with a new employer, notify each employee concerned—
     (i) of who the new employer is; and
     (ii) whether the employee is being offered the same or a substantially similar position with the new employer; and
@@ -1101,21 +1101,21 @@ Anything done before the commencement of this Part that would have complied with
     (ii) neither accepted nor declined an offer of the same or a substantially similar position with a new employer on and from 1 November 2010; and
   (b) employees who have been notified in accordance with section 100(4) and accepted an offer of a position that is not the same or a substantially similar position with a new employer on and from 1 November 2010; and
   (c) employees whose employment position is subject to review under section 100, but who have received no notification in accordance with section 100(4).
-(2) Every employee referred to in subsection (1)(a) or (c) becomes an employee of his or her new employer, on and from 1 November 2010, on the same terms and conditions as applied immediately before he or she became an employee of his or her new employer.
-(3) Every employee referred to in subsection (1)(b) becomes an employee of his or her new employer, on and from 1 November 2010, on the terms and conditions notified under section 100(4)(c).
+(2) Every employee referred to in subsection (1)﻿(a) or (c) becomes an employee of his or her new employer, on and from 1 November 2010, on the same terms and conditions as applied immediately before he or she became an employee of his or her new employer.
+(3) Every employee referred to in subsection (1)﻿(b) becomes an employee of his or her new employer, on and from 1 November 2010, on the terms and conditions notified under section 100(4)﻿(c).
 (4) The terms and conditions of employment of an employee referred to in subsection (2) or (3) continue to apply in relation to the employee until—
   (a) the terms and conditions are varied—
     (i) by agreement between the employee and his or her new employer; or
     (ii) in accordance with the employee's terms and conditions of employment; or
-    (iii) because of the application of section 61(1)(b) of the Employment Relations Act 2000; or
+    (iii) because of the application of section 61(1)﻿(b) of the Employment Relations Act 2000; or
   (b) the employee accepts a subsequent position with his or her new employer.
 (5) To avoid doubt, subsections (2) and (3) apply,—
-  (a) in the case of an employee bound by an applicable collective agreement, subject to section 61(1)(b) of the Employment Relations Act 2000 and, without limiting this paragraph, subject to an applicable collective agreement or variation of an applicable collective agreement that comes into force on 1 November 2010; and
+  (a) in the case of an employee bound by an applicable collective agreement, subject to section 61(1)﻿(b) of the Employment Relations Act 2000 and, without limiting this paragraph, subject to an applicable collective agreement or variation of an applicable collective agreement that comes into force on 1 November 2010; and
   (b) in the case of an employee not bound by an applicable collective agreement, subject to any variation in terms and conditions of employment agreed to before 1 November 2010, but to come into force on that date.
 (6) This section applies subject to an employee resigning before 1 November 2010 or his or her employment being terminated before 1 November 2010.
 
 ### 102 Employees who neither accept nor decline offer of position that is not same or substantially similar or position at different location
-(1) This section applies to employees who have been notified in accordance with section 100(4) and have neither accepted nor declined (by the date specified under section 100(4)(c)(iv)) an offer of a position—
+(1) This section applies to employees who have been notified in accordance with section 100(4) and have neither accepted nor declined (by the date specified under section 100(4)﻿(c)﻿(iv)) an offer of a position—
   (a) that is not the same or substantially similar with a new employer:
   (b) that is at a different location.
 (2) The employment of the employees is terminated on and from 1 November 2010.
@@ -1130,7 +1130,7 @@ Except as provided in this subpart, an employee of an existing employer is not e
   (c) the employee's employer ceases to exist.
 
 ### 104 Whether employees entitled to redundancy or other compensation
-(1) The following table specifies whether and to what extent an employee of an existing employer is entitled to compensation because his or her position with an existing employer has ceased to exist or his or her employer has ceased to exist:Employee offered same or substantially similar position with new employerEmployee accepts offerany relocation compensation payable under section 105no compensation payableEmployee declines offercontractual compensation (if any) payableno compensation payableEmployee offered position that is not same or substantially similarEmployee accepts offerany relocation compensation payable under section 105payment of remuneration during the 6 months beginning on 1 November 2010 (or any later date agreed to) at rate not less than rate payable to employee immediately before close of 31 October 2010no compensation payableEmployee declines offer–contractual compensation (if any) payableEmployee notified that employment terminated as at close of 31 October 2010––contractual compensation (if any) payable
+(1) The following table specifies whether and to what extent an employee of an existing employer is entitled to compensation because his or her position with an existing employer has ceased to exist or his or her employer has ceased to exist:The following table is small in size and has 3 columns. Columns 1 to 3 are grouped under the heading Employee offered same or substantially similar position with new employer.Employee offered same or substantially similar position with new employerEmployee accepts offerany relocation compensation payable under section 105no compensation payableEmployee declines offercontractual compensation (if any) payableno compensation payableThe following table is small in size and has 3 columns. Columns 1 to 3 are grouped under the heading Employee offered position that is not same or substantially similar.Employee offered position that is not same or substantially similarEmployee accepts offerany relocation compensation payable under section 105payment of remuneration during the 6 months beginning on 1 November 2010 (or any later date agreed to) at rate not less than rate payable to employee immediately before close of 31 October 2010no compensation payableEmployee declines offer–contractual compensation (if any) payableThe following table is small in size and has 3 columns. Columns 1 to 3 are grouped under the heading Employee notified that employment terminated as at close of 31 October 2010.Employee notified that employment terminated as at close of 31 October 2010––contractual compensation (if any) payable
   (a) position is at new location
   (b) position is at same location
   (a) position is at different location
@@ -1148,10 +1148,10 @@ Except as provided in this subpart, an employee of an existing employer is not e
 (3) This section applies subject to section 106.
 
 ### 105 Compensation if employee accepts position at new location
-(1) If an employee referred to in section 101(1)(a) or (b) takes up a position at a new location (whether or not the new location is a different location as defined in section 98), the employee is entitled to—
+(1) If an employee referred to in section 101(1)﻿(a) or (b) takes up a position at a new location (whether or not the new location is a different location as defined in section 98), the employee is entitled to—
   (a) any compensation otherwise payable under the terms and conditions of employment applicable immediately before the close of 31 October 2010 as if the employee had continued to be employed by his or her existing employer; but
-  (b) if no compensation is payable under paragraph (a) or any compensation payable under paragraph (a) is less favourable than the compensation provided in the following table, compensation by way of a single amount in accordance with the following table:Distance differentialAmount payableless than 2 kmsnil2 kms or more, but less than 8 kms$5008 kms or more, but less than 12 kms$90012 kms or more, but less than 20 kms$1,35020 kms or more$2,000
-(2) In the table in subsection (1)(b),—
+  (b) if no compensation is payable under paragraph (a) or any compensation payable under paragraph (a) is less favourable than the compensation provided in the following table, compensation by way of a single amount in accordance with the following table:The following table is small in size and has 2 columns. Column 1 is headed Distance differential. Column 2 is headed Amount payable.Distance differentialAmount payableless than 2 kmsnil2 kms or more, but less than 8 kms$5008 kms or more, but less than 12 kms$90012 kms or more, but less than 20 kms$1,35020 kms or more$2,000
+(2) In the table in subsection (1)﻿(b),—
   - **distance** means the shortest distance by road
   - **distance differential** means the difference derived by subtracting the distance referred to in paragraph (a) from the difference referred to in paragraph (b):
     (a) the distance as at 31 October 2010 from the employee's normal residence to the employee's place of work with his or her existing employer; and
@@ -1204,8 +1204,8 @@ Part 6A of the Employment Relations Act 2000—
     (ii) has neither accepted nor declined an offer notified under section 100; or
     (iii) has not received notice of an offer under section 100; and
   (b) the following work comes within the coverage clause in the collective agreement—
-    (i) work to be done by the person for his or her new employer (if paragraph (a)(i) applies):
-    (ii) work done by the person for his or her existing employer (if paragraph (a)(ii) or (iii) applies).
+    (i) work to be done by the person for his or her new employer (if paragraph (a)﻿(i) applies):
+    (ii) work done by the person for his or her existing employer (if paragraph (a)﻿(ii) or (iii) applies).
 (4) A person whose employment is subject to review under section 100 ceases to be an employee for the purposes of this section if the person has been notified under section 100 and—
   (a) has declined an offer of a position with a new employer; or
   (b) has been notified that his or her employment is to be terminated on and from 1 November 2010; or
@@ -1231,7 +1231,7 @@ Part 6A of the Employment Relations Act 2000—
 
 ### 113 Consequential amendments
 (1) The enactments listed in the Schedule are amended, repealed, or revoked in the manner indicated in that schedule.
-(2) Section 6(4)(g) of the Local Government Act 2002 is repealed.
+(2) Section 6(4)﻿(g) of the Local Government Act 2002 is repealed.
 
 ### 114 Repeal of Auckland Metropolitan Drainage Act 1960
 (1) The Auckland Metropolitan Drainage Act 1960 (1960 No 15 (L)) is repealed.
@@ -1251,8 +1251,9 @@ Part 6A of the Employment Relations Act 2000—
   (g) the Council then forwards all relevant information obtained up to this point to a specialist Hearings Panel appointed by the Minister for the Environment and the Minister of Conservation:
   (h) the Hearings Panel holds a Hearing into submissions on the proposed plan by means of hearing sessions conducted in accordance with the procedural and other requirements of this Part:
   (i) the Council must attend the hearing sessions and otherwise assist the Hearings Panel with the task of the Hearing:
-  (j) on the completion of the hearing of submissions, but no later than 50 working days before the expiry of 3 years from the date the Council notifies the proposed plan, the Hearings Panel must make recommendations to the Council on the proposed plan (unless that period is extended by the Minister for the Environment by up to 1 year):
-  (k) the Council must make decisions on the recommendations of the Hearings Panel no later than 20 working days after receiving the recommendations (unless that period is extended by the Minister for the Environment by up to a further 20 working days) and publicly notify the recommendations of the Hearings Panel and the Council's decisions on the recommendations:
+  (j) no later than 50 working days before the expiry of 3 years from the date the Council notifies the proposed plan, the Hearings Panel must make recommendations to the Council on the proposed plan (unless that period is extended by the Minister for the Environment by up to 1 year):
+  (ja) the Hearings Panel may make recommendations to the Council in respect of a particular topic once it has finished hearing submissions on that topic:
+  (k) after it has received all of the Hearings Panel’s recommendations, the Council must make decisions on the recommendations within 20 working days (unless that period is extended by the Minister for the Environment by up to a further 20 working days) and publicly notify the recommendations of the Hearings Panel and the Council's decisions on the recommendations:
   (l) the proposed plan is amended in accordance with the Council's decisions on the recommendations and is deemed, subject to the appeal rights of submitters, to be approved or adopted, as the case may be:
   (m) submitters on the proposed plan may appeal to the Environment Court on those recommendations of the Hearings Panel that the Council rejects:
   (n) submitters on the proposed plan may appeal to the High Court, on a point of law only, on those recommendations of the Hearings Panel that the Council accepts:
@@ -1297,7 +1298,7 @@ Part 6A of the Employment Relations Act 2000—
   (b) would have complied with the provisions listed in subsection (2) had they been performed after the commencement of this Part.
 (2) The provisions are as follows:
   (a) clauses 1 to 4 of Schedule 1 of the RMA, as applied by section 123 (which relate to some initial preparation of the proposed plan):
-  (b) section 126(3)(a) and (b) (which relate to criteria for an audit of the evaluation report and a related report on the proposed plan).
+  (b) section 126(3)﻿(a) and (b) (which relate to criteria for an audit of the evaluation report and a related report on the proposed plan).
 (3) The actions must be treated as actions performed under this Part.
 
 ### 119 Regulations relating to preparation of Auckland combined plan
@@ -1339,23 +1340,23 @@ Part 6A of the Employment Relations Act 2000—
 ### 123 Initial preparation of Auckland combined plan
 (1) A reference in this section to a clause is to a clause of Schedule 1 of the RMA.
 (2) The Auckland Council must initially prepare the Auckland combined plan in accordance with clauses 1 to 8A, as modified by this section.
-(3) The Auckland Council must comply with section 126 after preparing the evaluation report under section 32 of the RMA (referred to in clause 5(1)(a)) and the report under section 165H(1A) of the RMA.
+(3) The Auckland Council must comply with section 126 after preparing the evaluation report under section 32 of the RMA (referred to in clause 5(1)﻿(a)) and the report under section 165H(1A) of the RMA.
 (4) Clause 5(1A) and (1C) do not apply (meaning that copies of the public notice about the plan need not be sent to ratepayers or other persons).
 (5) Clause 5(1B) is modified so that notice must be given only to owners and occupiers of land to which the designation or heritage order applies.
-(6) Clause 5(2)(e) is modified so that the public notice must state—
+(6) Clause 5(2)﻿(e) is modified so that the public notice must state—
   (a) an address for service for written submissions; and
   (b) an email address for service for electronic submissions.
-(7) Clause 5(3)(a) is modified so that its closing date for submissions is 60 working days after public notification.
-(8) Clause 7(1)(c) is modified so that its closing date for further submissions is 30 working days after the day on which the public notice is given.
+(7) Clause 5(3)﻿(a) is modified so that its closing date for submissions is 60 working days after public notification.
+(8) Clause 7(1)﻿(c) is modified so that its closing date for further submissions is 30 working days after the day on which the public notice is given.
 (9) Clause 1(2), and section 37 of the RMA, do not apply to the closing dates for submissions or further submissions (meaning that the Council cannot extend the dates, or waive a failure to comply with the dates, under those provisions).
 (10) A person who makes an electronic submission under clause 6 or 8 is to be treated as having specified as an address for service the email address from which the submission is received.
 
 ### 124 Restriction on amendments or variations to Auckland combined plan
-(1) This section and section 125 specify the only ways in which the Auckland combined plan may be amended or varied before the Auckland Council publicly notifies its decisions on the recommendations of the Hearings Panel under section 148(4)(a).
+(1) This section and section 125 specify the only ways in which the Auckland combined plan may be amended or varied before the Auckland Council publicly notifies its decisions on the recommendations of the Hearings Panel under section 148(4)﻿(a).
 (2) The Auckland Council may amend the proposed plan—
   (a) under any provision of the RMA or another enactment that provides for amendments to be made to a proposed regional policy statement or proposed plan without using the process in Schedule 1 of the RMA; or
   (b) as a result of the Council's decisions on the recommendations of the Hearings Panel.
-(3) If the Auckland Council amends the proposed plan under a provision described in subsection (2)(a), the Council must—
+(3) If the Auckland Council amends the proposed plan under a provision described in subsection (2)﻿(a), the Council must—
   (a) give notice of the amendments to the Hearings Panel; and
   (b) make the amendments available for inspection on its Internet site and at its offices; and
   (c) if the provision requires public notice of the amendment, give public notice in accordance with the provision.
@@ -1365,19 +1366,19 @@ Part 6A of the Employment Relations Act 2000—
     (i) to give effect to a provision in a national policy statement, or New Zealand coastal policy statement, that affects the proposed plan; or
     (ii) to give effect, in the provisions of the proposed plan comprising the regional plan or district plan, to the provisions of the proposed plan comprising the regional policy statement; or
     (iii) to correct a substantial error in the proposed plan; and
-  (b) the Panel is able to deal with the variation as provided in subsection (7) before the deadline for providing its report under section 146 or 147.
+  (b) the Panel is able to deal with the variation as provided in subsection (7) before the deadline for providing its report (or reports) under section 146 or 147.
 (6) The Auckland Council must deal with the variation under section 125.
-(7) The Hearings Panel must deal with the variation under sections 128 to 145 as if the variation were the proposed plan, except that in section 145(1)(d) the proposed plan includes the variation.
-(8) Clause 16B(1) and (2) of Schedule 1 of the RMA apply to the variation, and the variation must be merged in and become part of the proposed plan in time for the Hearings Panel's report under section 144(5) to provide recommendations on the proposed plan as varied.
+(7) The Hearings Panel must deal with the variation under sections 128 to 145 as if the variation were the proposed plan, except that in section 145(1)﻿(d) the proposed plan includes the variation.
+(8) Clause 16B(1) and (2) of Schedule 1 of the RMA apply to the variation, and the variation must be merged in and become part of the proposed plan in time for the Hearings Panel to provide, in a report under section 144(7), recommendations on the proposed plan as varied.
 (9) In sections 148 to 159, references to the proposed plan include references to the variation.
 
 ### 125 Variation to Auckland combined plan
 (1) This section specifies the initial process for a variation to the Auckland combined plan that is permitted by section 124(4).
 (2) A reference in this section to a clause is to a clause of Schedule 1 of the RMA.
 (3) The Auckland Council must deal with the variation in accordance with clauses 1 to 8A and 16A(2), as modified by this section.
-(4) Section 126 does not apply to the evaluation report prepared under section 32 of the RMA (referred to in clause 5(1)(a)), or any report prepared under section 165H(1A) of the RMA, in relation to the variation.
+(4) Section 126 does not apply to the evaluation report prepared under section 32 of the RMA (referred to in clause 5(1)﻿(a)), or any report prepared under section 165H(1A) of the RMA, in relation to the variation.
 (5) Clause 5(1A) and (1C) do not apply (meaning that copies of the public notice about the proposed variation need not be sent to ratepayers or other persons).
-(6) Clause 5(2)(e) is modified so that the public notice must state—
+(6) Clause 5(2)﻿(e) is modified so that the public notice must state—
   (a) an address for service for written submissions; and
   (b) an email address for service for electronic submissions.
 (7) Clause 1(2), and section 37 of the RMA, do not apply to the closing dates for submissions or further submissions (meaning that the Council cannot extend the dates, or waive a failure to comply with the dates, under those provisions).
@@ -1406,7 +1407,7 @@ Part 6A of the Employment Relations Act 2000—
   (h) the further submissions on the proposed plan received by the closing date for further submissions:
   (i) any submissions or further submissions received after the relevant closing date, along with information about when the submissions were received:
   (j) the planning documents that are recognised by an iwi authority and lodged with the Council:
-  (k) any amendments the Council makes to the proposed plan under section 124(2)(a):
+  (k) any amendments the Council makes to the proposed plan under section 124(2)﻿(a):
   (l) any other relevant information held by the Council that is requested by the Hearings Panel.
 (2) If the Council makes a variation under section 125, it must also provide copies of the following to the Hearings Panel:
   (a) the variation that was publicly notified:
@@ -1468,7 +1469,7 @@ The Hearings Panel must give no less than 10 working days' notice of the dates, 
 (3) The facilitator of a conference must, after the conference, prepare a report on the conference and provide it in writing or electronically to—
   (a) the Hearings Panel; and
   (b) the persons who attended the conference.
-(4) A facilitator must act under subsection (3)(a) or (b) only if the Hearings Panel requires him or her to do so.
+(4) A facilitator must act under subsection (3)﻿(a) or (b) only if the Hearings Panel requires him or her to do so.
 (5) A report prepared under subsection (3) must not, without a person's consent, include any material that the person communicated or made available at the conference on a without-prejudice basis.
 (6) To avoid doubt, the Council may attend a conference under this section only if authorised to do so by the Hearings Panel.
 
@@ -1498,7 +1499,7 @@ The Hearings Panel must give no less than 10 working days' notice of the dates, 
 **Hearing procedure**
 
 ### 136 Hearing procedure
-(1) At each hearing session, no fewer than 3 members of the Hearings Panel must be present.
+(1) At each hearing session, no fewer than 2 members of the Hearings Panel must be present.
 (2) If the chairperson is not present, he or she must appoint another member as chairperson for the purposes of the hearing session.
 (3) At the hearing session, the Hearings Panel—
   (a) may permit a party to question any other party or witness; and
@@ -1588,30 +1589,34 @@ The Hearings Panel must give no less than 10 working days' notice of the dates, 
 
 ### 143 Evidence and reports must be made available
 (1) The Hearings Panel must require the Auckland Council to make available for inspection, on its Internet site and at its offices,—
-  (a) any written or electronic evidence, including further information provided under section 140(1)(d), received by the Panel during the Hearing; and
+  (a) any written or electronic evidence, including further information provided under section 140(1)﻿(d), received by the Panel during the Hearing; and
   (b) any written or electronic report provided to the Panel under section 131, 133, or 134.
 (2) However, this section does not apply to any evidence or part of a report that the Hearings Panel considers it is not reasonable to make available for inspection.
 
 **Recommendations of Hearings Panel**
 
 ### 144 Hearings Panel must make recommendations to Council on proposed plan
-(1) The Hearings Panel must make recommendations on the proposed plan after it has finished hearing submissions, including any recommended changes to the proposed plan.
-(2) The recommendations must include recommendations on any provision included in the proposed plan under clause 4(5) or (6) of Schedule 1 of the RMA, as applied by section 123 of this Part (which relate to designations and heritage orders).
-(3) However, the Hearings Panel—
+(1) The Hearings Panel must make recommendations on the proposed plan, including any recommended changes to the proposed plan.
+(2) The Hearings Panel may make recommendations in respect of a particular topic after it has finished hearing submissions on that topic.
+(3) The Hearings Panel must make any remaining recommendations after it has finished hearing all of the submissions that will be heard on the proposed plan.
+Scope of recommendations
+(4) The Hearings Panel must make recommendations on any provision included in the proposed plan under clause 4(5) or (6) of Schedule 1 of the RMA (which relates to designations and heritage orders), as applied by section 123.
+(5) However, the Hearings Panel—
   (a) is not limited to making recommendations only within the scope of the submissions made on the proposed plan; and
   (b) may make recommendations on any other matters relating to the proposed plan identified by the Panel or any other person during the Hearing.
-(4) The Hearings Panel must not make a recommendation on any existing designations or heritage orders that are included in the proposed plan without modification and on which no submissions are received.
-(5) The Hearings Panel must provide the recommendations, in a report, to the Council.
-(6) The report must include—
-  (a) the Panel's recommendations, and identify any recommendations that are beyond the scope of the submissions made on the proposed plan; and
-  (b) the Panel's decisions on the provisions and matters raised in submissions; and
+(6) The Hearings Panel must not make a recommendation on any existing designations or heritage orders that are included in the proposed plan without modification and on which no submissions are received.
+Recommendations must be provided in reports
+(7) The Hearings Panel must provide its recommendations to the Council in 1 or more reports.
+(8) Each report must include—
+  (a) the Panel’s recommendations on the topic or topics covered by the report, and identify any recommendations that are beyond the scope of the submissions made in respect of that topic or those topics; and
+  (b) the Panel’s decisions on the provisions and matters raised in submissions made in respect of the topic or topics covered by the report; and
   (c) the reasons for accepting or rejecting submissions and, for this purpose, may address the submissions by grouping them according to—
     (i) the provisions of the proposed plan to which they relate; or
     (ii) the matters to which they relate.
-(7) The report may also include—
+(9) Each report may also include—
   (a) matters relating to any consequential alterations necessary to the proposed plan arising from submissions; and
   (b) any other matter that the Hearings Panel considers relevant to the proposed plan that arises from submissions or otherwise.
-(8) To avoid doubt, the Hearings Panel is not required to make recommendations that address each submission individually.
+(10) To avoid doubt, the Hearings Panel is not required to make recommendations that address each submission individually.
 
 ### 145 Matters that affect recommendations
 (1) The Hearings Panel, in formulating its recommendations, must—
@@ -1623,10 +1628,10 @@ The Hearings Panel must give no less than 10 working days' notice of the dates, 
   (f) ensure that, were the Auckland Council to accept the recommendations, the following would be complied with:
     (i) sections 43B(3), 61, 62, 66 to 70B, 74 to 77D, 85A, 85B(2), 165F, 165G, 168A(3), 171, 189A(10), and 191 of the RMA:
     (ii) any other provision of the RMA, or another enactment, that applies to the Council's preparation of the plan.
-(2) To avoid doubt, when complying with subsection (1)(f) in respect of section 66 of the RMA, the Hearings Panel must ensure that regard has been had to the spatial plan for Auckland prepared and adopted under section 79 of the Local Government (Auckland Council) Act 2009.
+(2) To avoid doubt, when complying with subsection (1)﻿(f) in respect of section 66 of the RMA, the Hearings Panel must ensure that regard has been had to the spatial plan for Auckland prepared and adopted under section 79 of the Local Government (Auckland Council) Act 2009.
 
 ### 146 Deadline for recommendations
-The Hearings Panel must provide its report under section 144(5) to the Auckland Council no later than the date that is 50 working days before the expiry of 3 years from the date on which the Council has notified the proposed plan in accordance with section 123, unless section 147 applies.
+The Hearings Panel must provide its report or reports under section 144(7) to the Auckland Council no later than the date that is 50 working days before the expiry of 3 years from the date on which the Council has notified the proposed plan in accordance with section 123, unless section 147 applies.
 
 ### 147 Extension of deadline for recommendations
 (1) The Hearings Panel or the Auckland Council, or both, may request the Minister for the Environment to extend the deadline referred to in section 146 (the original deadline).
@@ -1647,16 +1652,16 @@ The Hearings Panel must provide its report under section 144(5) to the Auckland 
     (ii) must be within the scope of the submissions.
 (2) When making decisions under subsection (1),—
   (a) the Council is not required to consult any person or consider submissions or other evidence from any person; and
-  (b) the Council must not consider any submission or other evidence that was not made available to the Hearings Panel.
+  (b) the Council must not consider any submission or other evidence unless it was made available to the Hearings Panel before the Panel made the recommendation that is the subject of the Council’s decision.
 (3) To avoid doubt, the Council may accept recommendations of the Hearings Panel that are beyond the scope of the submissions made on the proposed plan.
-(4) The Council must, no later than 20 working days after it is provided with the report under section 146,—
+(4) The Council must, no later than 20 working days after it is provided with the report (or, if there is more than 1 report, the last of the reports) under section 146,—
   (a) publicly notify its decisions under subsection (1) in a way that sets out the following information:
     (i) each recommendation of the Hearings Panel that it accepts; and
     (ii) each recommendation of the Hearings Panel that it rejects and the reasons for doing so; and
     (iii) the alternative solution for each rejected recommendation; and
   (b) electronically notify each requiring authority affected by the decisions of the Council under subsection (1) of the information referred to in paragraph (a) that specifically relates to the decision recommending that the authority confirm, modify, impose conditions on, or withdraw the designation or heritage protection order concerned.
 (5) Subsection (6) applies if the Council decides that it wishes to accept a recommendation but alter the recommendation in a way that has a minor effect or to correct a minor error.
-(6) The Council may notify the recommendation as accepted, but only if, when complying with subsection (4)(a)(i), it sets out the alterations to the recommendation.
+(6) The Council may notify the recommendation as accepted, but only if, when complying with subsection (4)﻿(a)﻿(i), it sets out the alterations to the recommendation.
 (7) A recommendation to which subsection (5) applies must, for all purposes, be treated as a recommendation of the Hearings Panel accepted by the Council.
 (8) Subsection (4) is subject to section 149.
 
@@ -1668,14 +1673,14 @@ The Hearings Panel must provide its report under section 144(5) to the Auckland 
 (5) Section 37 of the RMA does not apply to the original deadline or to an extended deadline (meaning that the Council cannot extend the deadline, or waive a failure to comply with the deadline, under that provision).
 
 ### 150 Auckland Council to release Hearings Panel report
-At the same time as the Auckland Council publicly notifies its decisions under section 148(4)(a), the Council must make the report of the Hearings Panel required under section 144(5) available—
+At the same time as the Auckland Council publicly notifies its decisions under section 148(4)﻿(a), the Council must make the report or reports provided by the Hearings Panel under section 144(7) available—
   (a) on the Council's Internet site; and
   (b) for inspection during working hours, free of charge, at the offices of the Council and anywhere else that the Council determines is appropriate.
 
 **Designations and heritage orders of requiring authorities other than Auckland Council**
 
 ### 151 Designations and heritage orders of requiring authorities other than Auckland Council
-(1) A decision of the Auckland Council that is notified to a requiring authority under section 148(4)(b) must be treated as if it were a recommendation notified under clause 9(1) of Schedule 1 of the RMA.
+(1) A decision of the Auckland Council that is notified to a requiring authority under section 148(4)﻿(b) must be treated as if it were a recommendation notified under clause 9(1) of Schedule 1 of the RMA.
 (2) The requiring authority must notify the Auckland Council as to whether it accepts or rejects the recommendation in whole or in part within 30 working days after the day on which it receives the recommendation.
 (3) The requiring authority may modify the requirement only if the modification is recommended by the Auckland Council or is not inconsistent with the requirement as notified.
 (4) If the requiring authority rejects the recommendation in whole or in part, or modifies the requirement, it must give reasons for its decision.
@@ -1690,7 +1695,7 @@ At the same time as the Auckland Council publicly notifies its decisions under s
 **Proposed plan deemed approved or adopted**
 
 ### 152 Proposed plan deemed approved or adopted on and from certain dates
-(1) This section applies to the proposed plan once the Auckland Council publicly notifies its decisions on the recommendations of the Hearings Panel under section 148(4)(a).
+(1) This section applies to the proposed plan once the Auckland Council publicly notifies its decisions on the recommendations of the Hearings Panel under section 148(4)﻿(a).
 (2) Each part of the proposed plan, other than the parts relating to the coastal marine area, designations, and heritage orders,—
   (a) is amended in accordance with the decisions of the Council; and
   (b) is deemed to have been approved by the Council under clause 17(1) of Schedule 1 of the RMA on and from—
@@ -1704,17 +1709,17 @@ At the same time as the Auckland Council publicly notifies its decisions under s
 (4) The part of the proposed plan relating to a designation or heritage order—
   (a) is amended in accordance with the decision about the designation or heritage order—
     (i) notified by the requiring authority under section 151(2), for a designation or heritage order of a requiring authority other than the Auckland Council; or
-    (ii) notified by the Council under section 148(4)(a), for a designation or heritage order of the Council; and
+    (ii) notified by the Council under section 148(4)﻿(a), for a designation or heritage order of the Council; and
   (b) is deemed to have been approved by the Council under clause 17(1) of Schedule 1 of the RMA on and from—
     (i) the date on which the appeal period expires, if no appeals relating to the designation or heritage order are made under section 157 of this Part; or
     (ii) the date on which all appeals, including further appeals, relating to the designation or heritage order are determined, if appeals are made under that section.
-(5) However, the parts of the proposed plan relating to any existing designations or heritage orders that were included in the proposed plan without modification, and on which no submissions were received, are deemed to have been approved by the Council under clause 17(1) of Schedule 1 of the RMA on and from the date on which the Auckland Council publicly notifies its decisions under section 148(4)(a).
+(5) However, the parts of the proposed plan relating to any existing designations or heritage orders that were included in the proposed plan without modification, and on which no submissions were received, are deemed to have been approved by the Council under clause 17(1) of Schedule 1 of the RMA on and from the date on which the Auckland Council publicly notifies its decisions under section 148(4)﻿(a).
 
 **RMA provisions relating to legal effect of rules apply**
 
 ### 153 RMA provisions relating to legal effect of rules apply
 (1) Sections 86A to 86G of the RMA apply, with all necessary modifications, to a rule contained in the proposed plan.
-(2) Without limiting subsection (1), every reference to clause 10(4) of Schedule 1 must be read as a reference to section 148(4)(a).
+(2) Without limiting subsection (1), every reference to clause 10(4) of Schedule 1 must be read as a reference to section 148(4)﻿(a).
 
 **Objections, appeals, and judicial review**
 
@@ -1750,26 +1755,26 @@ The only appeal rights available in respect of the proposed plan are as follows:
   (b) the Hearings Panel had identified the recommendation as being beyond the scope of the submissions made on the proposed plan; and
   (c) the person is, was, or will be unduly prejudiced by the inclusion of the provision or exclusion of the matter.
 (4) The Environment Court must treat an appeal under this section as if it were a hearing under clause 15 of Schedule 1 of the RMA and, except as otherwise provided in this section, clauses 14(5) and 15 of Schedule 1 of the RMA and Parts 11 and 11A of the RMA apply to the appeal (including, to avoid doubt, sections 299 to 308).
-(5) Notice of the appeal must be in the prescribed form and lodged with the Environment Court, and served on the Auckland Council, no later than 20 working days after the Council notifies the matters under section 148(4)(a).
+(5) Notice of the appeal must be in the prescribed form and lodged with the Environment Court, and served on the Auckland Council, no later than 20 working days after the Council notifies the matters under section 148(4)﻿(a).
 (6) If the subject matter of the notice of appeal relates to the coastal marine area, the person must also serve a copy of the notice on the Minister of Conservation no later than 5 working days after the notice is lodged with the Environment Court.
 
 ### 157 Right of appeal to Environment Court (designations and heritage orders)
-(1) A person has a right of appeal to the Environment Court against any aspect of a decision referred to in section 152(4)(a) of a requiring authority or the Auckland Council if—
+(1) A person has a right of appeal to the Environment Court against any aspect of a decision referred to in section 152(4)﻿(a) of a requiring authority or the Auckland Council if—
   (a) the person is an owner or occupier of land to which the designation or heritage order applies; and
   (b) the person made a submission on the requirement that referred to that aspect of the decision.
-(2) A person has a right of appeal to the Environment Court against any aspect of a decision referred to in section 152(4)(a) of a requiring authority other than the Auckland Council if—
+(2) A person has a right of appeal to the Environment Court against any aspect of a decision referred to in section 152(4)﻿(a) of a requiring authority other than the Auckland Council if—
   (a) the person is not an owner or occupier of land to which the designation or heritage order applies; and
   (b) the person made a submission on the requirement that referred to that aspect of the decision; and
   (c) in that aspect of the decision, the requiring authority rejected the Auckland Council's recommendation on the matter.
-(3) The Auckland Council has a right of appeal to the Environment Court against any aspect of a decision referred to in section 152(4)(a) of a requiring authority other than the Auckland Council.
-(4) A person has a right of appeal to the Environment Court against any aspect of a decision referred to in section 152(4)(a) of the Auckland Council if—
+(3) The Auckland Council has a right of appeal to the Environment Court against any aspect of a decision referred to in section 152(4)﻿(a) of a requiring authority other than the Auckland Council.
+(4) A person has a right of appeal to the Environment Court against any aspect of a decision referred to in section 152(4)﻿(a) of the Auckland Council if—
   (a) the person is not an owner or occupier of land to which the designation or heritage order applies; and
   (b) the person made a submission on the requirement that referred to that aspect of the decision; and
   (c) in that aspect of the decision, the Council rejected the Hearings Panel's recommendation on the matter.
 (5) An appeal must be treated as if it were an appeal under section 174 of the RMA, and that section and Parts 11 and 11A of the RMA apply to the appeal (including, to avoid doubt, sections 299 to 308).
-(6) Despite subsection (5), notice of an appeal may be lodged and served under section 174(2)(c) of the RMA no later than 30 working days after the date on which the Auckland Council gives notice of the decision about the requirement under—
+(6) Despite subsection (5), notice of an appeal may be lodged and served under section 174(2)﻿(c) of the RMA no later than 30 working days after the date on which the Auckland Council gives notice of the decision about the requirement under—
   (a) section 151(5), for a designation or heritage order of a requiring authority other than the Council; or
-  (b) section 148(4)(a), for a designation or heritage order of the Council.
+  (b) section 148(4)﻿(a), for a designation or heritage order of the Council.
 
 ### 158 Right of appeal to High Court on question of law
 (1) A person who made a submission on the proposed plan may appeal to the High Court in respect of a provision or matter relating to the proposed plan—
@@ -1777,17 +1782,19 @@ The only appeal rights available in respect of the proposed plan are as follows:
   (b) in relation to which the Council accepted a recommendation of the Hearings Panel, which resulted in—
     (i) a provision being included in the proposed plan; or
     (ii) a matter being excluded from the proposed plan.
-(2) A person may appeal to the High Court against any aspect of a decision referred to in section 152(4)(a) of a requiring authority other than the Auckland Council if—
+(2) A person may appeal to the High Court against any aspect of a decision referred to in section 152(4)﻿(a) of a requiring authority other than the Auckland Council if—
   (a) the person is not an owner or occupier of land to which the designation or heritage order applies; and
   (b) the person made a submission on the requirement that referred to that aspect of the decision; and
   (c) in that aspect of the decision, the requiring authority accepted the Auckland Council's recommendation on the matter.
-(3) A person may appeal to the High Court against any aspect of a decision referred to in section 152(4)(a) of the Auckland Council if—
+(3) A person may appeal to the High Court against any aspect of a decision referred to in section 152(4)﻿(a) of the Auckland Council if—
   (a) the person is not an owner or occupier of land to which the designation or heritage order applies; and
   (b) the person made a submission on the requirement that referred to that aspect of the decision; and
   (c) in that aspect of the decision, the Council accepted the Hearings Panel's recommendation on the matter.
 (4) However, an appeal under this section may only be on a question of law.
 (5) Except as otherwise provided in this section, sections 299(2) and 300 to 307 of the RMA apply, with all necessary modifications, to an appeal under this section.
-(6) Notice of the appeal must be filed with the High Court, and served on the Auckland Council, no later than 20 working days after the Council notifies the matters under section 148(4)(a).
+(6) Notice of the appeal must be filed with the High Court, and served on the Auckland Council, no later than 20 working days after the Council notifies the matters under—
+  (a) section 148(4)﻿(a), in the case of an appeal under subsection (1) or (3); or
+  (b) section 151(5), in the case of an appeal under subsection (2).
 (7) If the subject matter of the notice of appeal relates to the coastal marine area, the person must also serve a copy of the notice on the Minister of Conservation no later than 5 working days after the notice is filed with the High Court.
 
 ### 159 Judicial review
@@ -1806,7 +1813,7 @@ The Auckland Council must notify the date on which the plan, or each part of the
 (1) The Minister for the Environment and the Minister of Conservation must establish a Hearings Panel.
 (2) The Hearings Panel comprises—
   (a) a chairperson; and
-  (b) 3 to 7 other members.
+  (b) 3 to 10 other members.
 (3) The chairperson and other members must be appointed jointly by the Ministers after consulting the Auckland Council and the Independent Māori Statutory Board.
 (4) The Ministers must appoint members who collectively have knowledge of, and expertise in relation to, the following:
   (a) the RMA; and
@@ -1816,8 +1823,9 @@ The Auckland Council must notify the date on which the plan, or each part of the
   (e) the management of legal proceedings, including cross-examination.
 (5) However, a failure to comply with subsection (4) does not affect the validity of the appointment of a member once made.
 (6) A member must be appointed in accordance with section 162.
-(7) To avoid doubt, the Ministers may appoint additional members after the initial appointment of members so long as the total number is no more than 7 members and a chairperson.
+(7) To avoid doubt, the Ministers may appoint additional members after the initial appointment of members so long as the total number is no more than 10 members and a chairperson.
 (8) The Ministers may appoint a member to replace a member who ceases to hold office.
+(8A) The Ministers may appoint an additional member or a replacement member only after consulting the Auckland Council, the Independent Māori Statutory Board, and the chairperson of the Hearings Panel (or the existing members of the Hearings Panel if there is no chairperson).
 (9) Subsections (4) to (6) apply to the appointment of an additional member or a replacement member.
 (10) As soon as practicable after establishing the Hearings Panel and appointing its initial members,—
   (a) the Minister for the Environment must notify the Panel's establishment on the Internet site of the Ministry; and
@@ -1858,7 +1866,8 @@ The Hearings Panel has the following functions and powers for the purposes of ho
 ### 165 Powers of chairperson
 The chairperson of the Hearings Panel has the following powers:
   (a) to decide how many, and which, members of the Hearings Panel are to be present at each hearing session:
-  (b) to appoint another member to act as chairperson for any hearing sessions at which he or she will not be present:
+  (aa) to direct that the Hearings Panel hold 2 or more hearing sessions concurrently:
+  (b) to appoint another member to act as chairperson for the purposes of any hearing session at which he or she will not be present for any reason, including because hearing sessions are being held concurrently:
   (c) to decide whether to accept any late submissions:
   (d) to deal with any complaints in respect of the Hearings Panel or any member of the Panel.
 
@@ -1881,6 +1890,19 @@ A member is not liable for anything the member does, or omits to do, in good fai
 
 ### 169 Application of Local Government Official Information and Meetings Act 1987
 The Local Government Official Information and Meetings Act 1987 applies, with any necessary modifications, to the Hearings Panel as if it were a board of inquiry given authority to conduct a hearing under section 149J of the RMA.
+
+**Validations**
+
+### 170 Closing date for submissions to Council on proposed plan
+Despite section 123(7) and (9), 28 February 2014 must be treated as if it is, and always was, the closing date for submissions on the proposed plan (other than further submissions) for the purposes of this Act.
+
+### 171 Concurrent hearing sessions held before 2015 amendments
+(1) This section applies to any hearing session that was held concurrently with another hearing session before the commencement of the Local Government (Auckland Transitional Provisions) Amendment Act 2015 (the 2015 Act).
+(2) The hearing session must be treated as if—
+  (a) this Act as amended by the 2015 Act applied in relation to the hearing session; and
+  (b) the hearing session was—
+    (i) held in accordance with a direction given under section 165(aa) (as inserted by the 2015 Act); and
+    (ii) chaired by a chairperson appointed under section 165(b) (as amended by the 2015 Act) if the hearing session was chaired by a member other than the chairperson of the Hearings Panel appointed under section 161.
 
 ## Schedule  — Enactments amended, repealed, or revoked
 
@@ -1921,8 +1943,8 @@ The Auckland Council must store the Forum's records and make them available when
   (i) a summary of the policy relating to significance adopted by Auckland Transport under section 106(2); and
   (j) any other relevant matters.
 (4) To include activities or combinations of activities in a national land transport programme, the programme must be in the form and contain the detail that the Agency prescribes in writing to Auckland Transport.
-(5) The assessment under subsection (1)(d) must be in a form and contain the detail required by Auckland Transport, taking account of any prescription made by the Agency under subsection (4).
-(6) The assessment under subsection (1)(e) must be in a form and contain the detail required by Auckland Transport.
+(5) The assessment under subsection (1)﻿(d) must be in a form and contain the detail required by Auckland Transport, taking account of any prescription made by the Agency under subsection (4).
+(6) The assessment under subsection (1)﻿(e) must be in a form and contain the detail required by Auckland Transport.
 
 ### 38AA Duty to co-operate
 (1) It is the duty of the Secretary, the Agency, and approved organisations to give reasonable assistance to each other to enable them to perform their respective functions and duties, and exercise their respective powers, under this Act.
