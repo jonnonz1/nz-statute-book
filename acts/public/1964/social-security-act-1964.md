@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2015-11-24_
+_Consolidation as at 2015-11-26_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -5213,11 +5213,11 @@ In determining the base rate in relation to a person in respect of any period th
 
 ### 1 Applicable asset thresholds
 (1) This clause specifies the applicable asset thresholds that apply annually for the year 1 July 2012 to 30 June 2013 and for all later years beginning on 1 July.
-(2) Threshold A is $218,598 and applies to every resident assessed as requiring care—
+(2) Threshold A is $218,973 and applies to every resident assessed as requiring care—
   (a) who has no spouse or partner; or
   (b) whose spouse or partner is also a resident assessed as requiring care; or
   (c) whose spouse or partner is not a resident assessed as requiring care but who has elected, under clause 2, to have Threshold A apply to him or her rather than Threshold B.
-(3) Threshold B is $119,709 and applies to every resident assessed as requiring care—
+(3) Threshold B is $119,915 and applies to every resident assessed as requiring care—
   (a) whose spouse or partner is not a resident assessed as requiring care; and
   (b) who has not elected, under clause 2, to have Threshold A apply to him or her.
 
