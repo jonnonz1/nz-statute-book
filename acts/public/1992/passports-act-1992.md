@@ -1,5 +1,5 @@
 # Passports Act 1992
-_Consolidation as at 2014-12-12_
+_Consolidation as at 2015-11-30_
 
 > An Act to give proper recognition to New Zealand passports and to the right of New Zealand citizens to such passports, and to consolidate and amend the law relating to passports, certificates of identity, emergency travel documents, and refugee travel documents
 
@@ -12,12 +12,13 @@ In this Act, unless the context otherwise requires,—
   - **certificate of identity** means a document (other than a passport or an emergency travel document or a refugee travel document) issued by the Government of any country to any person for the purposes of facilitating his or her entry into or exit from any country, and purporting to establish the identity but not the nationality of that person
   - **emergency travel document** means a document (other than a passport or a certificate of identity or a refugee travel document) issued, pursuant to section 23, by or on behalf of the Government of New Zealand to any person who may be a New Zealand citizen for the purposes of urgently facilitating his or her entry into or exit from any country, and purporting to establish the identity but not the nationality of that person
   - **holder** , in relation to a New Zealand travel document, means the person in whose name the document has been issued
-  - **Minister** means the Minister of Internal Affairs
+  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **New Zealand passport** means a passport issued by or on behalf of the Government of New Zealand to a New Zealand citizen
   - **New Zealand refugee travel document** means a document (other than a passport, certificate of identity, or emergency travel document) issued by or on behalf of the Government of New Zealand to a refugee to facilitate international travel
   - **New Zealand travel document** means a document that is a New Zealand passport, a New Zealand certificate of identity, an emergency travel document, or a New Zealand refugee travel document
-  - **officer** means an officer of the Department of Internal Affairs; and includes an overseas representative, an officer of Customs, and a constable; and also includes a person or a member of a class of persons authorised by the Minister to exercise the powers conferred on officers by this Act
-  - **passport** means a document that is issued by or on behalf of the Government of any country, and that purports to establish the identity and nationality of the holder; but does not include such a document that has expired and is incapable of being renewed, or that has been cancelled
+  - **New Zealand travel document database** means a file, register, or device in or on which information is or is to be recorded, whether electronically or otherwise, for the purposes of this Act
+  - **officer** means an officer of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act; and includes an overseas representative, an officer of Customs, and a constable; and also includes a person or a member of a class of persons authorised by the Minister to exercise the powers conferred on officers by this Act
+  - **passport** means a document that is issued by or on behalf of the Government of any country, and that purports to establish the identity and nationality of the holder; but does not include such a document that has expired or that has been cancelled
   - **refugee** means a person who—
     (a) has been—
       (i) recognised by a refugee and protection officer or the Immigration and Protection Tribunal as a refugee within the meaning of the Immigration Act 2009; or
@@ -30,9 +31,12 @@ In this Act, unless the context otherwise requires,—
   - **surrendered passport** means a passport that has been surrendered under section 12
   - **temporary passport** means a passport issued under section 13.
 
-## Part 1 — Issue, renewal, and cancellation of New Zealand travel documents
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
-**Issue, renewal, and endorsement of passports**
+## Part 1 — Issue and cancellation of New Zealand travel documents
+
+**Issue of passports**
 
 ### 3 Citizen's right to passport
 Except as provided in this Act, every New Zealand citizen is entitled as of right to a New Zealand passport.
@@ -63,22 +67,22 @@ Except as provided in this Act, every New Zealand citizen is entitled as of righ
 (2) If the Minister refuses to issue a passport under this section,—
   (a) the Minister must notify the person in writing of the refusal, and the reasons for it; and
   (b) the person is not entitled to obtain a New Zealand passport during the 12-month period starting with the date of the notice, unless the Minister's decision under this section is revoked by the Minister or by a court.
-(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain a New Zealand passport.
+(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)﻿(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain a New Zealand passport.
 (4) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that paragraphs (a), (b), and (c) of subsection (1) still apply in relation to the person concerned.
 
 ### 5 Life of passport
-(1) Subject to subsections (1A) and (2), every New Zealand passport is valid for 5 years from the date of issue, unless sooner cancelled under this Act.
+(1) Unless cancelled sooner under this Act,—
+  (a) every New Zealand passport issued to a person who is at least 16 years old is valid for 10 years from the date of issue:
+  (b) every New Zealand passport issued to a person who is less than 16 years old is valid for 5 years from the date of issue.
 (1A) Despite subsection (1),—
-  (a) a New Zealand passport issued before the date of commencement of this section continues to be valid for the period for which it was issued, unless sooner cancelled under this Act:
+  (a) a New Zealand passport issued before the date of commencement of section 8 of the Passports Amendment Act 2015 continues to be valid for the period for which it was issued, unless sooner cancelled under this Act:
   (b) a New Zealand passport applied for before that commencement date must be issued in accordance with section 5(1) and (2) of the principal Act as in force before that date, and continues to be valid for the period for which it was issued unless sooner cancelled under this Act.
-(2) Notwithstanding subsection (1), the Minister may, in any particular case, if satisfied that good reasons exist and that it would be in the interests of the proper administration of this Act to do so, determine that any New Zealand passport shall be issued for a period shorter than that stated in that subsection.
+(2) Despite subsection (1), the Minister may, in any particular case, if satisfied that good reasons exist and that it would be in the interests of the proper administration of this Act to do so, determine that any New Zealand passport shall be issued for a period shorter than that stated in that subsection.
 
 ### 6 Renewal of passport
-(1) No New Zealand passport that was issued for a term of 5 years or more may be renewed.
-(2) On the application of the holder of a New Zealand passport that was issued for a term of less than 5 years, the Minister may from time to time renew that passport, but so that the original period for which the passport was issued plus the renewed period does not exceed 5 years.
-(3) Subject to section 4(3), in any case where the Minister refuses to renew a passport under subsection (2), the Minister shall, on the application of the holder of that passport, issue another New Zealand passport to replace that passport.
+[Repealed]
 
 ### 7 Endorsement of passport
 [Repealed]
@@ -93,7 +97,7 @@ Except as provided in this Act, every New Zealand citizen is entitled as of righ
   (d) where the holder has renounced New Zealand citizenship under section 15 of the Citizenship Act 1977; or
   (e) where the holder has been deprived of New Zealand citizenship under section 16 or section 17 of the Citizenship Act 1977; or
   (f) where 2 or more valid New Zealand passports are in existence in respect of the holder and there is no longer any sufficient reason why that should continue to be the case.
-(2)
+(2) This section is subject to section 27I.
 
 ### 8A Cancellation of passport on grounds of national security
 (1) The Minister may, by notice in writing, recall any New Zealand passport, and cancel it or retain possession of it, if the Minister believes on reasonable grounds that—
@@ -103,10 +107,11 @@ Except as provided in this Act, every New Zealand citizen is entitled as of righ
     (iii) any unlawful activity designed or likely to cause devastating or serious economic damage to New Zealand, carried out for purposes of commercial or economic gain; and
   (b) the danger to the security of New Zealand cannot be effectively averted by other means; and
   (c) the cancellation of the passport, or its retention by the Minister, will prevent or effectively impede the ability of the person to carry out the intended action.
+(1A) This section is subject to section 27I.
 (2) If the Minister cancels or retains possession of a passport under this section,—
   (a) the Minister must notify the person in writing of the cancellation or retention, and the reasons for it; and
   (b) the person is not entitled to obtain that passport or another New Zealand passport during the 12-month period starting with the date of the notice, unless the Minister's decision under this section is revoked by the Minister or by a court.
-(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the passport or another New Zealand passport.
+(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)﻿(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the passport or another New Zealand passport.
 (4) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that paragraphs (a), (b), and (c) of subsection (1) still apply in relation to the person concerned.
@@ -114,14 +119,17 @@ Except as provided in this Act, every New Zealand citizen is entitled as of righ
 ### 9 Cancellation of passport on other grounds
 (1) The Minister may, by notice in writing, recall any New Zealand passport, and cancel it or retain possession of it, where—
   (a) it is produced in support of an application for the issue of another passport in substitution for the first one; or
-  (b) it has expired and is incapable of being renewed; or
+  (b) it has expired; or
   (c) it has been so damaged or defaced as to render it, in the opinion of the Minister, unsuitable for use; or
   (d) there is reasonable cause to believe that particulars recorded in it are incorrect; or
-  (e) there is reasonable cause to believe that the passport, or any renewal or endorsement of the passport, has been obtained by means of any false representation or any statement that is false in a material particular.
+  (e) there is reasonable cause to believe that the passport has been obtained by means of any false representation or any statement that is false in a material particular.
+(1A) The Minister may cancel a New Zealand passport if the holder of the passport states, in a declaration that is made in a manner approved by the Secretary, that the passport has been lost or stolen.
 (2) Subject to sections 3 and 4, where the Minister retains or cancels a passport under this section, the Minister shall, on the application of the holder of that passport, issue, as soon as practicable, another New Zealand passport to replace that passport.
+(3) This section is subject to section 27I.
 
 ### 9A Cancellation of passport pursuant to court order
-The Minister must recall a New Zealand passport by notice in writing, and cancel it, if an order that it must be cancelled is made under section 32A.
+(1) The Minister must recall a New Zealand passport by notice in writing, and cancel it, if an order that it must be cancelled is made under section 32A.
+(2) This section is subject to section 27I.
 
 ### 10 Retention of passport by Minister on other grounds
 (1) The Minister may, by notice in writing, recall any New Zealand passport and retain possession of it—
@@ -129,12 +137,19 @@ The Minister must recall a New Zealand passport by notice in writing, and cancel
   (b) where there is reasonable cause to believe—
     (i) that the passport is in the wrongful possession of any person other than the holder; or
     (ii) that the passport is in the possession of a person who is not the holder, as a security, pledge, or deposit or other encumbrance entered into in contravention of section 33(3).
-(2) Where the Minister has recalled a passport under subsection (1)(a), the Minister shall return that passport to the holder as soon as practicable after the warrant is executed or withdrawn.
-(3) Where the Minister has recalled a passport under subsection (1)(b), the Minister shall, unless the holder has been issued with a new passport, forthwith return that passport to the holder.
+(2) Where the Minister has recalled a passport under subsection (1)﻿(a), the Minister shall return that passport to the holder as soon as practicable after the warrant is executed or withdrawn.
+(3) Where the Minister has recalled a passport under subsection (1)﻿(b), the Minister shall, unless the holder has been issued with a new passport, forthwith return that passport to the holder.
 
 ### 11 Delivery of recalled passport
 (1) Where the Minister recalls any passport under any of sections 8 to 10, the holder or other person who has the passport in his or her possession or under his or her control shall, on demand by an officer, deliver the passport to the officer.
 (2) Every person commits an offence against this Act who knowingly fails without reasonable excuse to comply with subsection (1).
+
+**Warnings on New Zealand travel document database**
+
+### 11A Warnings on New Zealand travel document database
+The Minister may mark the electronic record of a New Zealand travel document on a New Zealand travel document database with a warning to indicate that—
+  (a) the New Zealand travel document has been, or is to be, recalled under any of sections 10, 21, 26, and 27F:
+  (b) the holder of the New Zealand travel document is, by a court order or the conditions of his or her bail, required to surrender the document or to remain in New Zealand.
 
 **Surrender of passports where proceedings for deprivation of citizenship commenced**
 
@@ -151,7 +166,7 @@ The Minister must recall a New Zealand passport by notice in writing, and cancel
 
 ### 13 Issue of temporary passport where passport surrendered
 (1) Every person who has surrendered a passport under section 12 shall be entitled, on application to the Minister in the form provided by the Secretary, to a temporary New Zealand passport unless the surrendered passport has sooner expired or been cancelled or returned.
-(2) Every temporary New Zealand passport shall be valid for 6 months from the date of issue, unless it is sooner cancelled under this Act.
+(2) Despite section 5, every temporary New Zealand passport is, unless sooner cancelled under this Act, valid for the period for which it is issued, which may not exceed 2 years.
 (3) Subject to section 4(3), at the expiry of a temporary New Zealand passport, the Minister shall issue another temporary New Zealand passport to the holder unless the surrendered passport has been sooner returned or a new passport has been issued.
 (4) No fee shall be payable in respect of any application for, or upon the issue of, any temporary New Zealand passport under this section.
 
@@ -170,18 +185,16 @@ The Minister must recall a New Zealand passport by notice in writing, and cancel
 (3) Every person commits an offence against this Act who knowingly fails without reasonable excuse to comply with subsection (2).
 (4) Nothing in this section shall apply if the surrendered passport has sooner expired.
 
-**Issue, renewal, and endorsement of certificates of identity**
+**Issue of certificates of identity**
 
 ### 16 Issue of certificate of identity
 The Minister may issue a certificate of identity to any person, not being a New Zealand citizen, if the Minister is satisfied that the person is unable for any reason to obtain a travel document from the Government or other appropriate authority in the country of his or her nationality.
 
 ### 17 Life of certificate of identity
-A certificate of identity shall be valid for 4 years or such shorter time as the Minister may determine in a particular case.
+A certificate of identity shall be valid for 2 years or such shorter time as the Minister may determine in a particular case.
 
 ### 18 Renewal of certificate of identity
-(1) No certificate of identity that was issued for a term of 4 years may be renewed.
-(2) On the application of the holder of a certificate of identity that was issued for a term of less than 4 years, the Minister may from time to time renew that certificate, but so that the original period for which the certificate was issued plus the renewed period does not exceed 4 years.
-(3) Subject to section 16, in any case where the Minister refuses to renew a certificate under subsection (2), the Minister may, on the application of the holder of that certificate, issue another certificate of identity to replace that certificate.
+[Repealed]
 
 ### 19 Endorsement of certificate of identity
 [Repealed]
@@ -191,13 +204,15 @@ A certificate of identity shall be valid for 4 years or such shorter time as the
 ### 20 Cancellation of certificate of identity
 (1) The Minister may, by notice in writing, recall any certificate of identity issued to any person by or on behalf of the Government of New Zealand, and cancel it or retain possession of it, where—
   (a) the Minister issues to the holder another certificate of identity in substitution for the first one; or
-  (b) the certificate has expired and is incapable of being renewed; or
+  (b) the certificate has expired; or
   (c) the certificate has been so damaged or defaced as to render it, in the opinion of the Minister, unsuitable for use; or
   (d) there is reasonable cause to believe that any particulars recorded in it are incorrect; or
   (e) there is reasonable cause to believe that the certificate of identity has been obtained by means of any false representation or any statement that is false in a material particular; or
-  (f) 2 or more valid certificates of identity are in existence in respect of the holder and there is no longer any sufficient reason why that should continue to be the case.
+  (f) 2 or more valid certificates of identity are in existence in respect of the holder and there is no longer any sufficient reason why that should continue to be the case; or
   (g) a New Zealand passport has been issued to the person.
-(2) Subject to section 16, where the Minister retains or cancels a certificate of identity under any of paragraphs (b) to (e) of subsection (1), the Minister may, on the application of the holder of the certificate, issue another certificate of identity to replace that certificate.
+(1A) The Minister may cancel a certificate of identity if the holder of the certificate states, in a declaration that is made in a manner approved by the Secretary, that the certificate has been lost or stolen.
+(2) Subject to section 16, where the Minister retains or cancels a certificate of identity under any of paragraphs (b) to (e) of subsection (1) or cancels the certificate under subsection (1A), the Minister may, on the application of the holder of the certificate, issue another certificate of identity to replace that certificate.
+(3) This section is subject to section 27I.
 
 ### 20A Cancellation of certificate of identity on grounds of national security
 (1) The Minister may, by notice in writing, recall any certificate of identity issued to any person by or on behalf of the New Zealand Government, and cancel it or retain possession of it, if the Minister believes on reasonable grounds that—
@@ -207,10 +222,11 @@ A certificate of identity shall be valid for 4 years or such shorter time as the
     (iii) any unlawful activity designed or likely to cause devastating or serious economic damage to New Zealand, carried out for purposes of commercial or economic gain; and
   (b) the danger to the security of New Zealand cannot be effectively averted by other means; and
   (c) the cancellation of the certificate of identity, or its retention by the Minister, will prevent or effectively impede the ability of the person to carry out the intended action.
+(1A) Subsection (1) is subject to section 27I.
 (2) If the Minister cancels or retains possession of a certificate of identity under this section,—
   (a) the Minister must notify the person in writing of the cancellation or retention, and the reasons for it; and
   (b) the person is not entitled to obtain that certificate of identity or another New Zealand travel document during the 12-month period starting with the date of the notice, unless the Minister's decision under this section is revoked by the Minister or by a court.
-(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the certificate of identity or another New Zealand travel document.
+(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)﻿(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the certificate of identity or another New Zealand travel document.
 (4) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that paragraphs (a), (b), and (c) of subsection (1) still apply in relation to the person concerned.
@@ -221,8 +237,8 @@ A certificate of identity shall be valid for 4 years or such shorter time as the
   (b) where there is reasonable cause to believe—
     (i) that the certificate of identity is in the wrongful possession of any person other than the holder; or
     (ii) that the certificate of identity is in the possession of a person who is not the holder, as a security, pledge, or deposit or other encumbrance entered into in contravention of section 33(3).
-(2) Where the Minister has recalled a certificate of identity under subsection (1)(a), the Minister shall return that certificate to the holder as soon as practicable after the warrant is executed or withdrawn.
-(3) Where the Minister has recalled a certificate of identity under subsection (1)(b), the Minister shall, unless the holder has been issued with a new certificate, forthwith return that certificate to the holder.
+(2) Where the Minister has recalled a certificate of identity under subsection (1)﻿(a), the Minister shall return that certificate to the holder as soon as practicable after the warrant is executed or withdrawn.
+(3) Where the Minister has recalled a certificate of identity under subsection (1)﻿(b), the Minister shall, unless the holder has been issued with a new certificate, forthwith return that certificate to the holder.
 
 ### 22 Delivery of recalled certificate of identity
 (1) Where the Minister recalls any certificate of identity under section 20 or section 20A or section 21, the holder or other person who has the certificate in his or her possession or under his or her control shall, on demand by an officer, deliver the certificate to the officer.
@@ -261,7 +277,9 @@ An emergency travel document is valid for—
   (e) there is reasonable cause to believe that any particulars recorded in it are incorrect; or
   (f) there is reasonable cause to believe that it has been obtained by means of any false statement or any statement that is false in a material particular; or
   (g) 2 or more valid New Zealand emergency travel documents are in existence in respect of the holder and there is no longer any sufficient reason why that should continue to be the case.
-(2) Subject to section 23, where the Minister retains or cancels an emergency travel document under any of paragraphs (c) to (f) of subsection (1), the Minister may, on the application of the holder of the document, issue another document to replace that document.
+(1A) The Minister may cancel an emergency travel document if the holder of the document states, in a declaration that is made in a manner approved by the Secretary, that the document has been lost or stolen.
+(2) Subject to section 23, where the Minister retains or cancels an emergency travel document under any of paragraphs (c) to (f) of subsection (1) or cancels the document under subsection (1A), the Minister may, on the application of the holder of the document, issue another document to replace that document.
+(3) This section is subject to section 27I.
 
 ### 25A Cancellation of emergency travel document on grounds of national security
 (1) The Minister may, by notice in writing, recall any emergency travel document (other than a journey-specific emergency travel document issued under section 23(3)), and cancel it or retain possession of it, if the Minister believes on reasonable grounds that—
@@ -271,10 +289,11 @@ An emergency travel document is valid for—
     (iii) any unlawful activity designed or likely to cause devastating or serious economic damage to New Zealand, carried out for purposes of commercial or economic gain; and
   (b) the danger to the security of New Zealand cannot be effectively averted by other means; and
   (c) the cancellation of the emergency travel document, or its retention by the Minister, will prevent or effectively impede the ability of the person to carry out the intended action.
+(1A) Subsection (1) is subject to section 27I.
 (2) If the Minister cancels or retains possession of an emergency travel document under this section,—
   (a) the Minister must notify the person in writing of the cancellation or retention, and the reasons for it; and
   (b) the person is not entitled to obtain that emergency travel document or another New Zealand travel document (other than a journey-specific emergency travel document issued under section 23(3)) during the 12-month period starting with the date of the notice, unless the Minister's decision under this section is revoked by the Minister or by a court.
-(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the emergency travel document or another New Zealand travel document.
+(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)﻿(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the emergency travel document or another New Zealand travel document.
 (4) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that paragraphs (a), (b), and (c) of subsection (1) still apply in relation to the person concerned.
@@ -285,8 +304,8 @@ An emergency travel document is valid for—
   (b) where there is reasonable cause to believe—
     (i) that it is in the wrongful possession of any person other than the holder; or
     (ii) that it is in the possession of a person not the holder, and is used as a security, pledge, or deposit or other encumbrance in contravention of section 33(3).
-(2) Where the Minister has recalled an emergency travel document under subsection (1)(a), the Minister shall return that document to the holder as soon as practicable after the warrant is executed or withdrawn.
-(3) Where the Minister has recalled an emergency travel document under subsection (1)(b), the Minister shall, unless the holder has been issued with a new document, forthwith return that document to the holder.
+(2) Where the Minister has recalled an emergency travel document under subsection (1)﻿(a), the Minister shall return that document to the holder as soon as practicable after the warrant is executed or withdrawn.
+(3) Where the Minister has recalled an emergency travel document under subsection (1)﻿(b), the Minister shall, unless the holder has been issued with a new document, forthwith return that document to the holder.
 
 ### 27 Delivery of recalled emergency travel document
 (1) Where the Minister recalls any emergency travel document under section 25 or section 25A or section 26, the holder or other person who has the document in his or her possession or under his or her control shall, on demand by an officer, deliver the document to the officer.
@@ -304,7 +323,7 @@ An emergency travel document is valid for—
     (i) on bail; or
     (ii) subject to a community-based sentence under the Sentencing Act 2002; or
     (iii) released under subpart 2 of Part 1 of the Parole Act 2002; or
-    (iv) subject to a sentence of home detention under the Sentencing Act 2002:
+    (iv) subject to a sentence of home detention under the Sentencing Act 2002; or
   (e) the applicant is subject to—
     (i) an order made by a New Zealand court that requires the applicant to remain in New Zealand, or the effect of which requires the applicant to remain in New Zealand; or
     (ii) a sentence imposed by a New Zealand court, the effect of which requires the applicant to remain in New Zealand.
@@ -320,19 +339,19 @@ An emergency travel document is valid for—
 (2) If the Minister refuses to issue a refugee travel document under this section,—
   (a) the Minister must notify the person in writing of the refusal, and the reasons for it; and
   (b) the person is not entitled to obtain a New Zealand refugee travel document during the 12-month period starting with the date of the notice, unless the Minister's decision under this section is revoked by the Minister or by a court.
-(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain a New Zealand refugee travel document.
+(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)﻿(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain a New Zealand refugee travel document.
 (4) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that paragraphs (a), (b) and (c) of subsection (1) still apply in relation to the person concerned.
 
 ### 27C Life of refugee travel document
-(1) A New Zealand refugee travel document is valid for 2 years, unless sooner cancelled under this Act.
-(2) A New Zealand refugee travel document may on application be renewed, once only, for a further period not exceeding 2 years.
+(1) A New Zealand refugee travel document is valid for 5 years, unless sooner cancelled under this Act.
+(2)
 
 ### 27D Cancellation of refugee travel document
 (1) The Minister may, by notice in writing, recall any New Zealand refugee travel document, and cancel it or retain possession of it, where—
   (a) the Minister issues to the holder another refugee travel document in substitution for the first one; or
-  (b) the document has expired and is incapable of being renewed; or
+  (b) the document has expired; or
   (c) the document has been so damaged or defaced as to render it, in the opinion of the Minister, unsuitable for use; or
   (d) there is reasonable cause to believe that any particulars recorded in it are incorrect; or
   (e) there is reasonable cause to believe that the document has been obtained by means of a false representation or a statement that is false in a material particular; or
@@ -340,7 +359,9 @@ An emergency travel document is valid for—
   (g) a New Zealand passport has been issued to the person; or
   (h) the holder is no longer recognised as being a refugee; or
   (i) the document was issued to the holder in the mistaken belief that the holder was, at the time of issue, a refugee.
-(2) Subject to section 27A, where the Minister retains or cancels a refugee travel document under any of paragraphs (b) to (e) of subsection (1), the Minister may, on the application of the document's holder, issue another refugee travel document to replace that document.
+(1A) The Minister may cancel a refugee travel document if the holder of the document states, in a declaration that is made in a manner approved by the Secretary, that the document has been lost or stolen.
+(2) Subject to section 27A, where the Minister retains or cancels a refugee travel document under any of paragraphs (b) to (e) of subsection (1) or cancels the document under subsection (1A), the Minister may, on the application of the document's holder, issue another refugee travel document to replace that document.
+(3) This section is subject to section 27I.
 
 ### 27E Cancellation of refugee travel document on grounds of national security
 (1) The Minister may, by notice in writing, recall any New Zealand refugee travel document, and cancel it or retain possession of it, if the Minister believes on reasonable grounds that—
@@ -350,10 +371,11 @@ An emergency travel document is valid for—
     (iii) any unlawful activity designed or likely to cause devastating or serious economic damage to New Zealand, carried out for purposes of commercial or economic gain; and
   (b) the danger to the security of New Zealand cannot be effectively averted by other means; and
   (c) the cancellation of the refugee travel document, or its retention by the Minister, will prevent or effectively impede the ability of the person to carry out the intended action.
+(1A) Subsection (1) is subject to section 27I.
 (2) If the Minister cancels or retains possession of a refugee travel document under this section,—
   (a) the Minister must notify the person in writing of the cancellation or retention, and the reasons for it; and
   (b) the person is not entitled to obtain that refugee travel document or another New Zealand refugee travel document during the 12-month period starting with the date of the notice, unless the Minister's decision under this section is revoked by the Minister or by a court.
-(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the refugee travel document or another New Zealand refugee travel document.
+(3) The Minister may, at any time before the expiry of the 12-month period referred to in subsection (2)﻿(b), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the refugee travel document or another New Zealand refugee travel document.
 (4) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that paragraphs (a), (b), and (c) of subsection (1) still apply in relation to the person concerned.
@@ -365,8 +387,8 @@ An emergency travel document is valid for—
   (b) if there is reasonable cause to believe—
     (i) that the refugee travel document is in the wrongful possession of any person other than the holder; or
     (ii) that the refugee travel document is in the possession of a person who is not the holder, as security, pledge, or deposit or other encumbrance entered into in contravention of section 33(3).
-(2) Where the Minister has recalled a refugee travel document under subsection (1)(a), the Minister must return that document to the holder as soon as practicable after the warrant is executed or withdrawn.
-(3) Where the Minister has recalled a refugee travel document under subsection (1)(b), the Minister must, unless the holder has been issued with a new document, forthwith return that document to the holder.
+(2) Where the Minister has recalled a refugee travel document under subsection (1)﻿(a), the Minister must return that document to the holder as soon as practicable after the warrant is executed or withdrawn.
+(3) Where the Minister has recalled a refugee travel document under subsection (1)﻿(b), the Minister must, unless the holder has been issued with a new document, forthwith return that document to the holder.
 
 ### 27G Delivery of recalled refugee travel document
 (1) Where the Minister recalls any refugee travel document under section 27D or section 27E or section 27F, the holder or other person who has the document in his or her possession or under his or her control must, on demand by an officer, deliver the document to the officer.
@@ -376,8 +398,16 @@ An emergency travel document is valid for—
 
 ### 27H Death of holder of New Zealand travel document
 (1) If the Minister has reasonable grounds to believe that the holder of a New Zealand travel document has died, the Minister may cancel that holder's New Zealand travel document.
-(2) Cancellation of a holder's New Zealand travel document under subsection (1) may be effected by cancelling the electronic record of that document stored in or on a passport database.
-(3) For the purposes of subsection (2), passport database has the meaning given in section 30(3).
+(2) This section is subject to section 27I.
+(3)
+
+**Electronic cancellation of New Zealand travel documents**
+
+### 27I Electronic cancellation of New Zealand travel documents
+(1) The Minister may cancel a New Zealand travel document under any of sections 8, 8A, 9, 9A, 20, 20A, 25, 25A, 27D, 27E, and 27H by electronically recording the cancellation of that travel document on a New Zealand travel document database.
+(2) Despite any provision in any of sections 8, 8A, 9, 9A, 20, 20A, 25, 25A, 27D, and 27E, the Minister need not recall a New Zealand travel document, under the relevant section, nor have possession of the document, before cancelling it in accordance with subsection (1).
+(3) Where the Minister has cancelled a New Zealand travel document in accordance with subsection (1) but has not recalled it, the Minister must promptly take reasonable steps to notify the person concerned in writing of the cancellation.
+(4) Despite subsection (3), the Minister is not required to notify a person whose New Zealand travel document has been cancelled under section 9(1)﻿(b), 9(1A), 20(1)﻿(b), 20(1A), 25(1)﻿(c), 25(1A), 27D(1)﻿(b), 27D(1A), or 27H(1).
 
 ## Part 2 — Miscellaneous provisions
 
@@ -385,7 +415,7 @@ An emergency travel document is valid for—
 
 ### 28 Appeal to High Court
 (1) Every person who, being—is dissatisfied with any decision of the Minister made in relation to the application or document under Part 1 may appeal to the High Court against that decision.
-  (a) the applicant for the issue or renewal of a New Zealand travel document; or
+  (a) the applicant for the issue of a New Zealand travel document; or
   (b) the holder of a New Zealand travel document,—
 (2) Every appeal under this section shall be filed within 28 days after the date on which notice of the decision that is the subject of the appeal has been received by the person seeking to bring the appeal, or within such extended time as the court may allow.
 (3) On any appeal under this section, the court may confirm, modify, or quash the decision that is the subject of the appeal, and may give all such directions (if any) to the Minister or any other person concerned as may be necessary to give effect to the court's decision.
@@ -411,31 +441,31 @@ An emergency travel document is valid for—
   (a) any application to the High Court by the Minister under section 4A(3), section 8A(3), section 20A(3), section 25A(3), section 27B(3), or section 27E(3) for an order extending the period during which a person is not entitled to obtain a New Zealand travel document, and any appeal under section 29(1A) against such an order:
   (b) any appeal under section 28 or section 29 relating to a decision of the Minister under any of sections 4A, 8A, 20A, 25A, 27B, and 27E to refuse to issue a New Zealand passport or refugee travel document, or to cancel or retain a New Zealand travel document:
   (c) any appeal under section 28 or section 29 relating to a decision of the Minister to refuse to issue a certificate of identity under section 16 or an emergency travel document under section 23, where the Minister certifies that the refusal was based on a belief on reasonable grounds that—
-    (i) the person was a danger to the security of New Zealand because the person intended to engage in or facilitate an action or matter of a kind described in section 4A(1)(a); and
+    (i) the person was a danger to the security of New Zealand because the person intended to engage in or facilitate an action or matter of a kind described in section 4A(1)﻿(a); and
     (ii) the danger to the security of New Zealand could not be effectively averted by other means; and
     (iii) the refusal to issue the certificate of identity or emergency travel document would prevent or effectively impede the ability of the person to carry out the intended action.
 (2) In hearing an appeal to which this section applies, the court must determine whether—
   (a) the information that led to the decision is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that—
-    (i) the person concerned is a danger to the security of New Zealand because the person intends to engage in, or facilitate, an action or matter of a kind referred to in sections 4A(1)(a), 8A(1)(a), 20A(1)(a), 25A(1)(a), 27B(1)(a), and 27E(1)(a); and
+    (i) the person concerned is a danger to the security of New Zealand because the person intends to engage in, or facilitate, an action or matter of a kind referred to in sections 4A(1)﻿(a), 8A(1)﻿(a), 20A(1)﻿(a), 25A(1)﻿(a), 27B(1)﻿(a), and 27E(1)﻿(a); and
     (ii) the refusal to issue the New Zealand travel document concerned, or to cancel or retain the New Zealand travel document, will prevent or effectively impede the ability of the person to carry out or facilitate the action or matter concerned; and
     (iii) the danger to the security of New Zealand cannot be effectively averted by other means.
 (3) Where the appeal relates to a matter within the discretion of the Minister, the court may substitute its own discretion for that of the Minister.
 (4) If information presented or proposed to be presented in proceedings to which this section applies includes classified security information, then section 29AB applies.
 (5) In this section and sections 29AB and 29AC, classified security information means information—
   (a) relevant to whether there are or may be grounds for believing that—
-    (i) the person concerned is a danger to the security of New Zealand because the person intends to engage in or facilitate, an action or matter of a kind referred to in sections 4A(1)(a), 8A(1)(a), 20A(1)(a), 25A(1)(a), 27B(1)(a), and 27E(1)(a); or
+    (i) the person concerned is a danger to the security of New Zealand because the person intends to engage in or facilitate, an action or matter of a kind referred to in sections 4A(1)﻿(a), 8A(1)﻿(a), 20A(1)﻿(a), 25A(1)﻿(a), 27B(1)﻿(a), and 27E(1)﻿(a); or
     (ii) a refusal to issue the New Zealand travel document concerned, or to cancel or retain the New Zealand travel document concerned, will prevent or effectively impede the ability of the person to carry out or facilitate the action or matter concerned; or
     (iii) the danger to the security of New Zealand cannot be effectively averted by other means; and
   (b) held by an intelligence and security agency (as defined in section 4(1) of the Terrorism Suppression Act 2002) or by the New Zealand Police; and
   (c) that the head of the specified agency, or the New Zealand Police, certifies in writing cannot be disclosed except to the extent provided in section 29AB because, in the opinion of the head of the specified agency,—
     (i) the information is information of a kind specified in subsection (6); and
     (ii) disclosure of the information would be disclosure of a kind specified in subsection (7).
-(6) Information falls within subsection (5)(c)(i) if it—
+(6) Information falls within subsection (5)﻿(c)﻿(i) if it—
   (a) might lead to the identification of, or provide details of, the source of the information, the nature, content, or scope of the information, or the nature or type of the assistance or operational methods available to the agency or the Police; or
   (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in pursuance of any of the functions of the agency or the Police; or
   (c) has been provided to the agency or the Police by the Government of another country or by an agency of a Government of another country or by an international organisation, and is information that cannot be disclosed by the agency or the Police because the Government or agency or organisation by which the information has been provided will not consent to the disclosure.
-(7) Disclosure of information falls within subsection (5)(c)(ii) if the disclosure would be likely—
+(7) Disclosure of information falls within subsection (5)﻿(c)﻿(ii) if the disclosure would be likely—
   (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
   (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the Government of another country or any agency of such a Government, or by any international organisation; or
   (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
@@ -481,23 +511,23 @@ An emergency travel document is valid for—
   - **forges** and have meanings corresponding to the meaning given to forgery by section 256 of the Crimes Act 1961.
 (3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
 
-### 30 Offences relating to passport information and material
+### 30 Offences relating to New Zealand travel document information and material
 (1) Every person commits an offence who knowingly, and without lawful authority or reasonable excuse,—
-  (a) deletes, alters, or copies any information recorded in or on a passport database; or
-  (b) allows any information recorded in or on a passport database to be deleted, altered, or copied; or
-  (c) records any information (whether correct or incorrect) in or on a passport database; or
-  (d) allows any information (whether correct or incorrect) to be recorded in or on a passport database; or
+  (a) deletes, alters, or copies any information recorded in or on a New Zealand travel document database; or
+  (b) allows any information recorded in or on a New Zealand travel document database to be deleted, altered, or copied; or
+  (c) records any information (whether correct or incorrect) in or on a New Zealand travel document database; or
+  (d) allows any information (whether correct or incorrect) to be recorded in or on a New Zealand travel document database; or
   (e) takes from where it is officially kept—
     (i) a New Zealand travel document or a blank or incomplete New Zealand travel document; or
     (ii) a seal, stamp, or other authenticating device or thing, that he or she knows is specially used by the proper authorities for a purpose relating to New Zealand travel documents; or
     (iii) any paper or other material that he or she knows is specially provided by the proper authorities for a purpose relating to New Zealand travel documents; or
   (f) takes from where it is officially kept a file or register in or on which information is or is to be recorded by officers for the purposes of this Act.
 (2) Paragraphs (a) to (d) of subsection (1)—
-  (a) apply to the deletion or alteration of information recorded in an electronic passport database, or the recording of information in an electronic passport database, whether it is achieved—
+  (a) apply to the deletion or alteration of information recorded in an electronic New Zealand travel document database, or the recording of information in an electronic New Zealand travel document database, whether it is achieved—
     (i) directly; or
     (ii) by altering or damaging the database, its programming, another device, the programming of another device, or any electronic storage; and
-  (b) apply to the copying of information recorded in an electronic passport database whether it is achieved directly from the database, by means of another device, by the interception or copying of an electronic message, or from any form of electronic storage.
-(3) In subsection (1), passport database means a file, register, or device in or on which information is or is to be recorded by officers for the purposes of this Act.
+  (b) apply to the copying of information recorded in an electronic New Zealand travel document database whether it is achieved directly from the database, by means of another device, by the interception or copying of an electronic message, or from any form of electronic storage.
+(3)
 (4) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
 
 ### 30A Improper issue of New Zealand travel document
@@ -519,13 +549,16 @@ An emergency travel document is valid for—
 (4) Every person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### 31A Jurisdiction in respect of actions taken outside New Zealand
-Proceedings may be brought for an offence against section 29A(1), section 30(1), section 30A(1), or any of paragraphs (a) to (d) of section 31(1), even if the act or omission alleged to constitute the offence did not occur in New Zealand.
+[Repealed]
 
 ### 32 False representations
 (1) Every person commits an offence who, for the purpose of procuring a New Zealand travel document, or a renewal or endorsement of a New Zealand travel document, whether for his or her benefit or for the benefit of any other person,—
-  (a) makes a written or oral statement that he or she knows to be false or misleading in a material particular; or
-  (b) recklessly makes a written or oral statement that is false or misleading in a material particular.
+  (a) makes any statement that he or she knows to be false or misleading in a material particular; or
+  (b) recklessly makes any statement that is false or misleading in a material particular.
 (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 5 years, a fine not exceeding $15,000, or both.
+
+### 32AA Jurisdiction in respect of actions taken outside New Zealand
+Proceedings may be brought for an offence against section 29A(1), 30(1), or 30A(1), any of paragraphs (a) to (d) of section 31(1), or section 32(1) even if the act or omission alleged to constitute the offence did not occur in New Zealand.
 
 ### 32A Court may forbid issue of passport
 (1) When sentencing a person in respect of an offence against this Act, a court may, in addition to any other sentence or order imposed or made, if satisfied that it is desirable for reasons of passport security and integrity, make an order that—
@@ -582,7 +615,7 @@ Proceedings may be brought for an offence against section 29A(1), section 30(1),
   (g) the photograph of the holder:
   (h) the place of birth of the holder:
   (i) the document type:
-  (j) the passports database key number:
+  (j) the New Zealand travel document database key number:
   (k) the passport or document number:
   (l) the date of issue of the passport or document:
   (m) the date of expiry of the passport or document:
@@ -610,71 +643,75 @@ Nothing in this Act limits access to information that is recorded under this Act
 **Regulations**
 
 ### 40 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) requiring the payment of fees, and prescribing the amount of such fees, in respect of—which fees may differ depending on the time and place at which an application is lodged and depending on whether or not a special service is provided:
-    (i) applications for and the issue of passports, certificates of identity, emergency travel documents, and refugee travel documents; and
-    (ii) applications for the renewal of any such document; and
-    (iii) applications for a set of additional pages for any such document,—
-  (b) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+  (a) requiring the payment of fees, and prescribing the amount of such fees, in respect of applications for and the issue of passports, certificates of identity, emergency travel documents, and refugee travel documents:
+  (b) requiring the payment of fees, and prescribing the amount of such fees, in respect of the provision of any administrative service specified in the regulations, such as the certification of a New Zealand travel document:
+  (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Any fees set under subsection (1) may differ depending on—
+  (a) the time at which the application is lodged:
+  (b) the type of travel document:
+  (c) whether the application is lodged in New Zealand or overseas:
+  (d) whether the application is for—
+    (i) a new travel document; or
+    (ii) a replacement for a lost or stolen travel document:
+  (e) in the case of an application lodged overseas, the overseas place where the application is lodged:
+  (f) the manner in which the application is lodged, for example, whether the application is lodged in paper form or electronically via an Internet site maintained by or on behalf of the Secretary:
+  (g) whether the applicant is, or is not, under the age of 16 years.
 
 **Repeals**
 
 ### 41 Repeals
-The following enactments are hereby repealed:
-  (a) the Passports Act 1980:
-  (b) Amendment(s) incorporated in the Act(s):
-  (c) Amendment(s) incorporated in the Act(s):
-  (d) the Passports Amendment Act 1987:
-  (e) the Passports Amendment Act 1991.
+[Repealed]
 
 **Transitional provisions**
 
 ### 42 Provisions relating to endorsement of name of child on passport of parent or guardian
-(1) Where, prior to the commencement of this Act, the name of a child was endorsed on the passport of a parent or guardian, that endorsement shall continue to have effect until either—whichever first occurs, and the Minister shall then cancel the endorsement.
-  (a) the child attains the age of 16 years; or
-  (b) upon application by the parent or guardian, a separate passport is issued in the name of the child,—
-(2) For the purposes of the cancellation of any endorsement, the holder or other person who has the endorsed passport in his or her possession or under his or her control, shall, on demand by an officer, deliver the passport to the officer.
-(3) Every person commits an offence against this Act who knowingly fails without reasonable excuse to comply with subsection (2).
+[Repealed]
 
 **Saving**
 
 ### 43 Existing passports, etc, to continue in force
-Without limiting section 20A of the Acts Interpretation Act 1924, every passport and certificate of identity, and every renewal or endorsement of a passport or certificate of identity, issued, granted, or made by or on behalf of the Government of New Zealand before the commencement of this Act shall continue in full force and effect as if it were issued, granted, or made under this Act, and the provisions of this Act shall apply to it accordingly.
+[Repealed]
 
 **Validation**
 
 ### 44 Validation of certain prescribed fees
-The imposition and recovery of fees under regulation 8 of the Passports Regulations 1981 in respect of a set of additional pages are hereby validated and deemed to have been lawfully imposed and recovered.
+[Repealed]
 
 **Application**
 
-### 45 Application of temporary provisions in Schedule
-(1) The temporary provisions set out in the Schedule apply during the period—
+### 45 Application of temporary provisions in Schedule 2
+(1) The temporary provisions set out in Schedule 2 apply during the period—
   (a) beginning on 12 December 2014; and
   (b) ending with the close of 31 March 2017.
 (2) The temporary provisions have the following effect while they apply:
-  (a) clause 1 of the Schedule replaces section 4A:
-  (b) clause 2 of the Schedule replaces section 8A:
-  (c) clause 3 of the Schedule replaces section 20A:
-  (d) clause 4 of the Schedule replaces section 25A:
-  (e) clause 5 of the Schedule replaces section 27B:
-  (f) clause 6 of the Schedule replaces section 27E:
-  (g) clauses 7 to 9 of the Schedule supplement the provisions set out in the body of this Act.
+  (a) clause 1 of Schedule 2 replaces section 4A:
+  (b) clause 2 of Schedule 2 replaces section 8A:
+  (c) clause 3 of Schedule 2 replaces section 20A:
+  (d) clause 4 of Schedule 2 replaces section 25A:
+  (e) clause 5 of Schedule 2 replaces section 27B:
+  (f) clause 6 of Schedule 2 replaces section 27E:
+  (g) clauses 7 to 9 of Schedule 2 supplement the provisions set out in the body of this Act.
 (3) If a temporary provision replaces a provision in the body of this Act, the application of the replaced provision is suspended.
 (4) If a temporary provision duplicates, modifies, supplements, or is inconsistent with a provision in the body of this Act, the temporary provision prevails.
 (5) To avoid doubt,—
   (a) any replaced provision continues to apply with respect to any relevant matter arising before the commencement of this section:
   (b) any cross-reference in this Act or any other enactment or document to a replaced provision is to be treated as a cross-reference to the corresponding replacement provision with respect to any relevant matter arising on or after the commencement of this section:
-  (c) sections 28 and 29 apply to clauses 1 to 6 of the Schedule as if those clauses were in Part 1.
-(6) This section and the Schedule are repealed on 1 April 2017.
+  (c) sections 28 and 29 apply to clauses 1 to 6 of Schedule 2 as if those clauses were in Part 1.
+(6) This section and Schedule 2 are repealed on 1 April 2017.
 
 ### 46 Transitional provision
-(1) On or after 1 April 2017, any person whose New Zealand travel document was recalled under clause 2, 3, 4, or 6 of the Schedule (as inserted by the Passports Amendment Act 2014) may, 12 months after the date on which that person’s New Zealand travel document was recalled, apply for—
+(1) On or after 1 April 2017, any person whose New Zealand travel document was recalled under clause 2, 3, 4, or 6 of Schedule 2 (as inserted by the Passports Amendment Act 2014) may, 12 months after the date on which that person’s New Zealand travel document was recalled, apply for—
   (a) the return of that New Zealand travel document; or
   (b) a new New Zealand travel document.
 (2) This section is repealed on 1 April 2018.
 
-## Schedule  — Temporary provisions
+## Schedule 1 — Transitional, savings, and related provisions
+
+### 1 Savings
+Nothing in this Act affects the validity or period of validity of any New Zealand travel document issued or renewed before the commencement of the Passports Amendment Act 2015.
+
+## Schedule 2 — Temporary provisions
 
 ### 1 Refusal to issue passport on grounds of national security
 (1) The Minister may refuse to issue a New Zealand passport to a person if the Minister believes on reasonable grounds that—
@@ -694,16 +731,16 @@ The imposition and recovery of fees under regulation 8 of the Passports Regulati
 (4) If the Minister refuses to issue a passport under this clause,—
   (a) the Minister must notify the person in writing of the refusal, and the reasons for it; and
   (b) the person is not entitled to obtain a New Zealand passport during the 12-month period starting with the date of the decision, unless the Minister's decision under this clause is revoked by the Minister or by a court.
-(5) Despite subclause (4)(a),—
+(5) Despite subclause (4)﻿(a),—
   (a) the Minister may defer notifying the person for a period not exceeding 30 days if the Minister is satisfied that giving notice sooner would prejudice an ongoing investigation or put the security or safety of any person at risk:
   (b) notice is to be treated as given if the Minister has taken all practicable steps to provide it.
-(6) Despite subclause (4)(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
+(6) Despite subclause (4)﻿(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
 (7) If the period exceeds 12 months,—
   (a) the person may, within 30 days after the date on which the notice was issued, make a written submission to the Minister about the length of the period and, if a submission is made, the Minister must review the length of the period, having regard to the person’s submission; and
   (b) the Minister must, every 12 months after the date on which the notice was issued (if yet to expire), review the decision by—
     (i) inviting the person to make a written submission to the Minister about the decision; and
     (ii) determining whether the decision should be revoked, having regard to the person’s submission (if any).
-(8) The Minister may, at any time before the expiry of the period referred to in subclause (4)(b) or (6), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain a New Zealand passport.
+(8) The Minister may, at any time before the expiry of the period referred to in subclause (4)﻿(b) or (6), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain a New Zealand passport.
 (9) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that subclause (1) or (2) still applies in relation to the person concerned.
@@ -726,16 +763,16 @@ The imposition and recovery of fees under regulation 8 of the Passports Regulati
 (4) If the Minister cancels or retains possession of a passport under this clause,—
   (a) the Minister must notify the person in writing of the cancellation or retention, and the reasons for it; and
   (b) the person is not entitled to obtain that passport or another New Zealand passport during the 12-month period starting with the date of the decision, unless the Minister's decision under this clause is revoked by the Minister or by a court.
-(5) Despite subclause (4)(a),—
+(5) Despite subclause (4)﻿(a),—
   (a) the Minister may defer notifying the person for a period not exceeding 30 days if the Minister is satisfied that giving notice sooner would prejudice an ongoing investigation or put the security or safety of any person at risk:
   (b) notice is to be treated as given if the Minister has taken all practicable steps to provide it.
-(6) Despite subclause (4)(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
+(6) Despite subclause (4)﻿(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
 (7) If the period exceeds 12 months,—
   (a) the person may, within 30 days after the date on which the notice was issued, make a written submission to the Minister about the length of the period and, if a submission is made, the Minister must review the length of the period, having regard to the person’s submission; and
   (b) the Minister must, every 12 months after the date on which the notice was issued (if yet to expire), review the decision by—
     (i) inviting the person to make a written submission to the Minister about the decision; and
     (ii) determining whether the decision should be revoked, having regard to the person’s submission (if any).
-(8) The Minister may, at any time before the expiry of the period referred to in subclause (4)(b) or (6), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the passport or another New Zealand passport.
+(8) The Minister may, at any time before the expiry of the period referred to in subclause (4)﻿(b) or (6), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the passport or another New Zealand passport.
 (9) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that subclause (1) or (2) still applies in relation to the person concerned.
@@ -758,16 +795,16 @@ The imposition and recovery of fees under regulation 8 of the Passports Regulati
 (4) If the Minister cancels or retains possession of a certificate of identity under this clause,—
   (a) the Minister must notify the person in writing of the cancellation or retention, and the reasons for it; and
   (b) the person is not entitled to obtain that certificate of identity or another New Zealand travel document during the 12-month period starting with the date of the decision, unless the Minister's decision under this clause is revoked by the Minister or by a court.
-(5) Despite subclause (4)(a),—
+(5) Despite subclause (4)﻿(a),—
   (a) the Minister may defer notifying the person for a period not exceeding 30 days if the Minister is satisfied that giving notice sooner would prejudice an ongoing investigation or put the security or safety of any person at risk:
   (b) notice is to be treated as given if the Minister has taken all practicable steps to provide it.
-(6) Despite subclause (4)(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
+(6) Despite subclause (4)﻿(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
 (7) If the period exceeds 12 months,—
   (a) the person may, within 30 days after the date on which the notice was issued, make a written submission to the Minister about the length of the period and, if a submission is made, the Minister must review the length of the period, having regard to the person’s submission; and
   (b) the Minister must, every 12 months after the date on which the notice was issued (if yet to expire), review the decision by—
     (i) inviting the person to make a written submission to the Minister about the decision; and
     (ii) determining whether the decision should be revoked, having regard to the person’s submission (if any).
-(8) The Minister may, at any time before the expiry of the period referred to in subclause (4)(b) or (6), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the certificate of identity or another New Zealand travel document.
+(8) The Minister may, at any time before the expiry of the period referred to in subclause (4)﻿(b) or (6), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the certificate of identity or another New Zealand travel document.
 (9) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that subclause (1) or (2) still applies in relation to the person concerned.
@@ -790,16 +827,16 @@ The imposition and recovery of fees under regulation 8 of the Passports Regulati
 (4) If the Minister cancels or retains possession of an emergency travel document under this clause,—
   (a) the Minister must notify the person in writing of the cancellation or retention, and the reasons for it; and
   (b) the person is not entitled to obtain that emergency travel document or another New Zealand travel document (other than a journey-specific emergency travel document issued under section 23(3)) during the 12-month period starting with the date of the decision, unless the Minister's decision under this clause is revoked by the Minister or by a court.
-(5) Despite subclause (4)(a),—
+(5) Despite subclause (4)﻿(a),—
   (a) the Minister may defer notifying the person for a period not exceeding 30 days if the Minister is satisfied that giving notice sooner would prejudice an ongoing investigation or put the security or safety of any person at risk:
   (b) notice is to be treated as given if the Minister has taken all practicable steps to provide it.
-(6) Despite subclause (4)(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
+(6) Despite subclause (4)﻿(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
 (7) If the period exceeds 12 months,—
   (a) the person may, within 30 days after the date on which the notice was issued, make a written submission to the Minister about the length of the period and, if a submission is made, the Minister must review the length of the period, having regard to the person’s submission; and
   (b) the Minister must, every 12 months after the date on which the notice was issued (if yet to expire), review the decision by—
     (i) inviting the person to make a written submission to the Minister about the decision; and
     (ii) determining whether the decision should be revoked, having regard to the person’s submission (if any).
-(8) The Minister may, at any time before the expiry of the period referred to in subclause (4)(b) or (6), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the emergency travel document or another New Zealand travel document.
+(8) The Minister may, at any time before the expiry of the period referred to in subclause (4)﻿(b) or (6), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the emergency travel document or another New Zealand travel document.
 (9) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that subclause (1) or (2) still applies in relation to the person concerned.
@@ -822,16 +859,16 @@ The imposition and recovery of fees under regulation 8 of the Passports Regulati
 (4) If the Minister refuses to issue a New Zealand refugee travel document under this clause,—
   (a) the Minister must notify the person in writing of the refusal, and the reasons for it; and
   (b) the person is not entitled to obtain a New Zealand refugee travel document during the 12-month period starting with the date of the decision, unless the Minister's decision under this clause is revoked by the Minister or by a court.
-(5) Despite subclause (4)(a),—
+(5) Despite subclause (4)﻿(a),—
   (a) the Minister may defer notifying the person for a period not exceeding 30 days if the Minister is satisfied that giving notice sooner would prejudice an ongoing investigation or put the security or safety of any person at risk:
   (b) notice is to be treated as given if the Minister has taken all practicable steps to provide it.
-(6) Despite subclause (4)(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
+(6) Despite subclause (4)﻿(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
 (7) If the period exceeds 12 months,—
   (a) the person may, within 30 days after the date on which the notice was issued, make a written submission to the Minister about the length of the period and, if a submission is made, the Minister must review the length of the period, having regard to the person’s submission; and
   (b) the Minister must, every 12 months after the date on which the notice was issued (if yet to expire), review the decision by—
     (i) inviting the person to make a written submission to the Minister about the decision; and
     (ii) determining whether the decision should be revoked, having regard to the person’s submission (if any).
-(8) The Minister may, at any time before the expiry of the period referred to in subclause (4)(b) or (6), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain a New Zealand refugee travel document.
+(8) The Minister may, at any time before the expiry of the period referred to in subclause (4)﻿(b) or (6), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain a New Zealand refugee travel document.
 (9) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that subclause (1) or (2) still applies in relation to the person concerned.
@@ -853,16 +890,16 @@ The imposition and recovery of fees under regulation 8 of the Passports Regulati
 (3) If the Minister cancels or retains possession of a New Zealand refugee travel document under this section,—
   (a) the Minister must notify the person in writing of the cancellation or retention, and the reasons for it; and
   (b) the person is not entitled to obtain that New Zealand refugee travel document or another New Zealand refugee travel document during the 12-month period starting with the date of the decision, unless the Minister's decision under this section is revoked by the Minister or by a court.
-(4) Despite subclause (3)(a),—
+(4) Despite subclause (3)﻿(a),—
   (a) the Minister may defer notifying the person for a period not exceeding 30 days if the Minister is satisfied that giving notice sooner would prejudice an ongoing investigation or put the security or safety of any person at risk:
   (b) notice is to be treated as given if the Minister has taken all practicable steps to provide it.
-(5) Despite subclause (3)(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
+(5) Despite subclause (3)﻿(b), the Minister may specify a longer period in the notice, not exceeding 36 months, if the Minister is satisfied that the person would continue to pose a danger to New Zealand or any other country.
 (6) If the period exceeds 12 months,—
   (a) the person may, within 30 days after the date on which the notice was issued, make a written submission to the Minister about the length of the period and, if a submission is made, the Minister must review the length of the period, having regard to the person’s submission; and
   (b) the Minister must, every 12 months after the date on which the notice was issued (if yet to expire), review the decision by—
     (i) inviting the person to make a written submission to the Minister about the decision; and
     (ii) determining whether the decision should be revoked, having regard to the person’s submission (if any).
-(7) The Minister may, at any time before the expiry of the period referred to in subclause (3)(b) or (5), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the New Zealand refugee travel document or another New Zealand refugee travel document.
+(7) The Minister may, at any time before the expiry of the period referred to in subclause (3)﻿(b) or (5), apply to a Judge of the High Court for an order to extend for a further period not exceeding 12 months the period during which the person is not entitled to obtain the New Zealand refugee travel document or another New Zealand refugee travel document.
 (8) The Judge must make the order applied for if satisfied that—
   (a) the information presented in support of the application is credible, having regard to its source or sources; and
   (b) the information reasonably supports a finding that subclause (1) or (2) still applies in relation to the person concerned.
@@ -875,6 +912,7 @@ The imposition and recovery of fees under regulation 8 of the Passports Regulati
 (2) If, during the preparation of the report, it becomes apparent that the grounds for cancellation (as specified in clause 2, 3, 4, or 6) cannot be established,—
   (a) the Minister must be notified immediately; and
   (b) the suspension lapses when the Minister is notified.
+(3) The Minister may mark the electronic record of a New Zealand travel document on a New Zealand travel document database with a warning to indicate that the New Zealand travel document has been suspended.
 
 ### 8 Proceedings where national security involved
 (1) Sections 29AA to 29AC also apply to—
@@ -903,4 +941,4 @@ This Act comes into force on the day after the date on which it receives the Roy
 (1) Amendment(s) incorporated in the Act(s).
 (2) An agreement entered into under section 35 or section 36 of the principal Act that was in existence immediately before the commencement of this Act—
   (a) is deemed to be an agreement with an appropriate agency entered into, after consultation with the Privacy Commissioner, under section 36 of the principal Act as substituted by this section; and
-  (b) is deemed to apply to information of the kind described in section 37(1)(p).
+  (b) is deemed to apply to information of the kind described in section 37(1)﻿(p).
