@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2015-12-01_
 
 > Title
 
@@ -1350,11 +1350,11 @@ Sections 30H and 30I of the State Sector Act 1988 apply to things coming into fo
 
 ### 7 Transitional provision relating to 2012 Budget documents
 (1) To avoid doubt, any reference in the following documents to any of the former departments and ministries or to the Ministry of Consumer Affairs must, on and after 1 July 2012, be read as a reference to the Ministry of Business, Innovation, and Employment or to part of the Ministry of Business, Innovation, and Employment, as the context requires:
-  (a) The Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5):
-  (b) Information Supporting the Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5A).
+  (a) The Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B﻿.﻿5):
+  (b) Information Supporting the Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B﻿.﻿5A).
 (2) To avoid doubt, any reference in the following documents to the Responsible Minister for any of the former departments and ministries must, on and after 1 July 2012, be read as a reference to the Responsible Minister for the Ministry of Business, Innovation, and Employment:
-  (a) The Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5):
-  (b) Information Supporting the Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B.5A).
+  (a) The Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B﻿.﻿5):
+  (b) Information Supporting the Estimates of Appropriations for the Government of New Zealand for the year ending 30 June 2013 (B﻿.﻿5A).
 (3) The statements of intent for 2012–2015 for the former departments and ministries must be taken to be the Statement of Intent for 2012–2015 for the Ministry of Business, Innovation, and Employment.
 
 ### 1 Title
@@ -1367,3 +1367,21 @@ This order comes into force on 1 February 2015.
 ((1), (2)) Amendment(s) incorporated in the Act(s).
 (3) Sections 30E and 30F of the State Sector Act 1988 apply to the transfer of functions from the department Canterbury Earthquake Recovery Authority to the departmental agency Canterbury Earthquake Recovery Authority.
 (4) Sections 30H and 30I of the State Sector Act 1988 apply to things coming into force, entered into, or created during the transitional period beginning on 1 February 2015 and ending on 18 April 2016 after the transfer of functions referred to in subclause (3).
+
+### 1 Title
+This order is the State Sector (Ministry for Pacific Peoples) Order 2015.
+
+### 2 Commencement
+This order comes into force on 1 December 2015.
+
+### 4 Application of consequential changes to reference provisions
+Sections 30H and 30I of the State Sector Act 1988 apply to enactments or other things coming into force, entered into, or created during the transitional period beginning 1 December 2015 and ending on 1 October 2016, after the name of the Ministry of Pacific Island Affairs is changed to the Ministry for Pacific Peoples.
+
+### 1 Title
+This order is the State Sector (Ministry for Women) Order 2015.
+
+### 2 Commencement
+This order comes into force on 1 December 2015.
+
+### 4 Application of consequential changes to reference provisions
+Sections 30H and 30I of the State Sector Act 1988 apply to enactments or other things coming into force, entered into, or created during the transitional period beginning 1 December 2015 and ending on 1 October 2016, after the name of the Ministry of Women’s Affairs is changed to the Ministry for Women.
