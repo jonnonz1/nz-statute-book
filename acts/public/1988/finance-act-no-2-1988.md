@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1988
-_Consolidation as at 2012-06-30_
+_Consolidation as at 2015-12-01_
 
 > An Act to make provision with respect to public finances and other matters
 
