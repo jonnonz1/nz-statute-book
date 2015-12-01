@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2015-11-16_
+_Consolidation as at 2015-12-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
