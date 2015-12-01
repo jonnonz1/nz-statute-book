@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2015-12-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -201,11 +201,11 @@ In order to recognise and respect the Crown's responsibility to take appropriate
 (5) In this section, terms not defined in this Act, but defined in the Companies Act 1993, have the same meaning as in that Act.
 
 ### 7 Exempted organisations
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, exempt an organisation for the purposes of section 6(4)(i).
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, exempt an organisation for the purposes of section 6(4)﻿(i).
 (2) The Minister may make a recommendation only if—
   (a) the organisation is subject to monitoring and reporting requirements under an enactment; and
   (b) in the Minister's opinion, the organisation's accountability under that enactment is of a similar nature and effect to that required of a council-controlled organisation under this Act.
-(3) A local authority may, after having taken account of the matters specified in subsection (5), exempt a small organisation that is not a council-controlled trading organisation, for the purposes of section 6(4)(i).
+(3) A local authority may, after having taken account of the matters specified in subsection (5), exempt a small organisation that is not a council-controlled trading organisation, for the purposes of section 6(4)﻿(i).
 (4) An exemption must be granted by resolution of the local authority.
 (5) The matters are—
   (a) the nature and scope of the activities provided by the organisation; and
@@ -303,7 +303,7 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
     (i) the social, economic, and cultural interests of people and communities; and
     (ii) the need to maintain and enhance the quality of the environment; and
     (iii) the reasonably foreseeable needs of future generations.
-(2) If any of these principles conflict in any particular case, the local authority should resolve the conflict in accordance with the principle in subsection (1)(a)(i).
+(2) If any of these principles conflict in any particular case, the local authority should resolve the conflict in accordance with the principle in subsection (1)﻿(a)﻿(i).
 
 ### Subpart 3 — Co-ordination of responsibilities of local authorities
 
@@ -395,7 +395,7 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
   (a) in conjunction with consideration of any significant change to relevant service levels; and
   (b) within 2 years before the expiry of any contract or other binding agreement relating to the delivery of that infrastructure, service, or regulatory function; and
   (c) at such other times as the local authority considers desirable, but not later than 6 years following the last review under subsection (1).
-(3) Despite subsection (2)(c), a local authority is not required to undertake a review under subsection (1) in relation to the governance, funding, and delivery of any infrastructure, service, or regulatory function—
+(3) Despite subsection (2)﻿(c), a local authority is not required to undertake a review under subsection (1) in relation to the governance, funding, and delivery of any infrastructure, service, or regulatory function—
   (a) to the extent that the delivery of that infrastructure, service, or regulatory function is governed by legislation, contract, or other binding agreement such that it cannot reasonably be altered within the following 2 years; or
   (b) if the local authority is satisfied that the potential benefits of undertaking a review in relation to that infrastructure, service, or regulatory function do not justify the costs of undertaking the review.
 (4) A review under subsection (1) must consider options for the governance, funding, and delivery of infrastructure, services, and regulatory functions, including, but not limited to, the following options:
@@ -405,7 +405,7 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
     (ii) a council-controlled organisation in which the local authority is one of several shareholders; or
     (iii) another local authority; or
     (iv) another person or agency:
-  (c) responsibility for governance and funding is delegated to a joint committee or other shared governance arrangement, and responsibility for delivery is exercised by an entity or a person listed in paragraph (b)(i) to (iv).
+  (c) responsibility for governance and funding is delegated to a joint committee or other shared governance arrangement, and responsibility for delivery is exercised by an entity or a person listed in paragraph (b)﻿(i) to (iv).
 (5) If responsibility for delivery of infrastructure, services, or regulatory functions is to be undertaken by a different entity from that responsible for governance, the entity that is responsible for governance must ensure that there is a contract or other binding agreement that clearly specifies—
   (a) the required service levels; and
   (b) the performance measures and targets to be used to assess compliance with the required service levels; and
@@ -496,12 +496,12 @@ The purpose of the local government reorganisation provisions of this Act is to 
 
 ### 24A Transitional modification or suspension of certain statutory requirements after issue of final proposal for reorganisation
 (1) The purpose of this section is to authorise the extension or postponement of certain statutory requirements after public notice of a final proposal relating to local government reorganisation is given under clause 22 of Schedule 3, but before the fate of the final proposal is known.
-(2) This section applies to a final reorganisation proposal only if the proposal provides for any of the matters specified in section 24(1)(a), (b), (c), or (f).
+(2) This section applies to a final reorganisation proposal only if the proposal provides for any of the matters specified in section 24(1)﻿(a), (b), (c), or (f).
 (3) The Governor-General may, by Order in Council, in relation to an affected local authority,—
   (a) extend, for a period not exceeding 12 months, the time by which the local authority would otherwise have to complete, within the specified period, any action relating to the preparation or adoption of any plan, policy, or strategy required by or under any enactment:
   (b) extend the time by which the local authority would otherwise have to complete anything relating to, and dependent or consequential on, the action in relation to which the period has been extended under paragraph (a):
   (c) postpone, to a date not more than 12 months after the date determined under section 10 of the Local Electoral Act 2001, the next triennial general election of members of the local authority.
-(4) However, the power under subsection (3)(c) may be exercised only if the triennial election, or any action or process preliminary to holding it, would otherwise be required to be held or taken in the specified period.
+(4) However, the power under subsection (3)﻿(c) may be exercised only if the triennial election, or any action or process preliminary to holding it, would otherwise be required to be held or taken in the specified period.
 (5) An Order in Council may be made only—
   (a) during the specified period; and
   (b) on the recommendation of the Minister; and
@@ -528,7 +528,7 @@ The purpose of the local government reorganisation provisions of this Act is to 
 (3) An Order in Council made under subsection (1) may, if appropriate, amend Part 1 or 2 of Schedule 2.
 (4) A reorganisation scheme—
   (a) is given effect to by Order in Council; and
-  (b) has effect on and from the date specified by Order in Council made under subsection (1)(a).
+  (b) has effect on and from the date specified by Order in Council made under subsection (1)﻿(a).
 (5) An Order in Council giving effect to a final proposal or reorganisation scheme is not invalid because it is inconsistent with the provisions of the final proposal or scheme if the inconsistency relates—
   (a) to corrections of clerical, grammatical, or typographical errors; or
   (b) to matters of a format or referential nature that do not alter the substance or effect of the final proposal or scheme.
@@ -716,15 +716,15 @@ A local authority must act in accordance with the following principles in relati
     (i) may make the appointment before the other members of the committee are determined; and
     (ii) may appoint himself or herself.
 (4) However, nothing in subsection (3) limits or prevents a territorial authority from—
-  (a) removing, in accordance with clause 18 of Schedule 7, a deputy mayor appointed by the mayor under subsection (3)(a); or
-  (b) discharging or reconstituting, in accordance with clause 30 of Schedule 7, a committee established by the mayor under subsection (3)(b); or
-  (c) appointing, in accordance with clause 30 of Schedule 7, 1 or more committees in addition to any established by the mayor under subsection (3)(b); or
-  (d) discharging, in accordance with clause 31 of Schedule 7, a chairperson appointed by the mayor under subsection (3)(c).
+  (a) removing, in accordance with clause 18 of Schedule 7, a deputy mayor appointed by the mayor under subsection (3)﻿(a); or
+  (b) discharging or reconstituting, in accordance with clause 30 of Schedule 7, a committee established by the mayor under subsection (3)﻿(b); or
+  (c) appointing, in accordance with clause 30 of Schedule 7, 1 or more committees in addition to any established by the mayor under subsection (3)﻿(b); or
+  (d) discharging, in accordance with clause 31 of Schedule 7, a chairperson appointed by the mayor under subsection (3)﻿(c).
 (5) A mayor is a member of each committee of a territorial authority.
 (6) To avoid doubt, a mayor must not delegate any of his or her powers under subsection (3).
 (7) To avoid doubt,—
-  (a) clause 17(1) of Schedule 7 does not apply to the election of a deputy mayor of a territorial authority unless the mayor of the territorial authority declines to exercise the power in subsection (3)(a):
-  (b) clauses 25 and 26(3) of Schedule 7 do not apply to the appointment of the chairperson of a committee of a territorial authority established under subsection (3)(b) unless the mayor of the territorial authority declines to exercise the power in subsection (3)(c) in respect of that committee.
+  (a) clause 17(1) of Schedule 7 does not apply to the election of a deputy mayor of a territorial authority unless the mayor of the territorial authority declines to exercise the power in subsection (3)﻿(a):
+  (b) clauses 25 and 26(3) of Schedule 7 do not apply to the appointment of the chairperson of a committee of a territorial authority established under subsection (3)﻿(b) unless the mayor of the territorial authority declines to exercise the power in subsection (3)﻿(c) in respect of that committee.
 
 ### 42 Chief executive
 (1) A local authority must, in accordance with clauses 33 and 34 of Schedule 7, appoint a chief executive.
@@ -840,7 +840,7 @@ The purpose of a local board, in relation to its local board area, is to—
 ### 48E Membership of local boards
 The membership of a local board consists of—
   (a) members elected in accordance with the Local Electoral Act 2001; and
-  (b) if an Order in Council under section 25 so provides, members appointed by the governing body in accordance with section 19EA(1)(c) of the Local Electoral Act 2001; and
+  (b) if an Order in Council under section 25 so provides, members appointed by the governing body in accordance with section 19EA(1)﻿(c) of the Local Electoral Act 2001; and
   (c) a chairperson—
     (i) elected by the members of the local board from among themselves using one of the systems of voting set out in clause 25(3) and (4) of Schedule 7; or
     (ii) if an Order in Council under section 25 so provides, directly elected to that office by the electors of the local board area in accordance with section 19EB of the Local Electoral Act 2001.
@@ -887,7 +887,7 @@ The membership of a local board consists of—
   (d) the decision making of the unitary authority in relation to the governance of its council-controlled organisations; and
   (e) the decision making of the unitary authority in relation to compliance with section 101 (which relates to the financial management of a local authority); and
   (f) reaching agreement with each local board (as set out in each local board agreement) in respect of local activities for the local board areas.
-(2) Before making a decision described in subsection (1)(a) to (d), the governing body must—
+(2) Before making a decision described in subsection (1)﻿(a) to (d), the governing body must—
   (a) comply with any requirement of this Act; and
   (b) comply with any requirements of any other enactment; and
   (c) consider any views and preferences expressed by a local board if the decision affects or may affect the responsibilities or operation of the local board or the well-being of communities within its local board area.
@@ -923,12 +923,12 @@ The membership of a local board consists of—
   (b) the formula by which the total funds allocated by the unitary authority for meeting the cost of funding local activities are to be allocated to each local board; and
   (c) the formula by which the total funds allocated by the unitary authority for meeting the cost of funding the administrative support to local boards are to be allocated to each local board.
 (3) The local boards funding policy must also identify any funding (except funding dedicated to particular purposes) that may be available to local boards for local activities and the criteria or process by which it may be allocated to them.
-(4) The formula referred to in subsection (2)(b) must allocate funds to each local board in a way that provides an equitable capacity for the local board to enhance the well-being of the communities in its local board area, having regard to the following factors:
+(4) The formula referred to in subsection (2)﻿(b) must allocate funds to each local board in a way that provides an equitable capacity for the local board to enhance the well-being of the communities in its local board area, having regard to the following factors:
   (a) the level of dependence on local government services and facilities in each local board area and in other parts of the district (as informed by information available to the unitary authority by reasonable means, and relating to the socio-economic, population, age profile, and other demographic characteristics of each local board area and other part of the district); and
   (b) the costs of achieving and maintaining the identified levels of service provision for local activities in each local board area; and
   (c) the rates revenue and any other revenue derived from each local board area in relation to local activities; and
   (d) any other factor identified by the unitary authority as significantly affecting the nature and level of services needed in any local board area or any other part of the district (for example, the geographic isolation of a particular local board area or part of the district).
-(5) The formula referred to in subsection (2)(c) must allocate funds to each local board in a way that provides equitable resources and support to that local board, having regard to the following factors:
+(5) The formula referred to in subsection (2)﻿(c) must allocate funds to each local board in a way that provides equitable resources and support to that local board, having regard to the following factors:
   (a) the number of elected members on the local board; and
   (b) the size of the local board area; and
   (c) any other factor identified by the unitary authority as significantly affecting the operational costs of the local board; and
@@ -943,7 +943,7 @@ The membership of a local board consists of—
   (b) not later than 31 October in the year immediately after the year of that election.
 (2) The purpose of a local board plan is—
   (a) to reflect the priorities and preferences of the communities within the local board area in respect of the level and nature of local activities to be provided by the unitary authority over the next 3 years; and
-  (b) to identify and describe the interests and preferences of the people within the local board area for the purpose of enabling the local board to communicate those interests and preferences for the purposes of section 48K(1)(b); and
+  (b) to identify and describe the interests and preferences of the people within the local board area for the purpose of enabling the local board to communicate those interests and preferences for the purposes of section 48K(1)﻿(b); and
   (c) to provide a basis for developing the local board agreement for the next 3 years; and
   (d) to inform the development of the next long-term plan, particularly in relation to the identification of the non-regulatory activities of the unitary authority for which decision-making responsibility should be allocated to the local board; and
   (e) to provide a basis for accountability of the local board to the communities in the local board area; and
@@ -963,7 +963,7 @@ The membership of a local board consists of—
   (a) funded in each local board funding allocation; and
   (b) specified in the long-term plan (in accordance with clause 4 of Schedule 10)
   - **following year** means the year commencing on the next 1 July.
-(6) In subsection (3)(d)(ii), local revenue sources include—
+(6) In subsection (3)﻿(d)﻿(ii), local revenue sources include—
   (a) a targeted rate for all or part of the local board area; and
   (b) a fee or charge relating to a local activity; and
   (c) any other revenue connected with a local activity.
@@ -979,7 +979,7 @@ The membership of a local board consists of—
   (b) the governing body determines that the indicative budget in the plan is, or has become, significantly inaccurate; or
   (c) consistency with the plan would be contrary to any enactment.
 (4) A local board agreement must not be inconsistent with the adopted strategies, plans, policies, and objectives of the governing body.
-(5) For the purposes of subsection (2)(a), a local board agreement must, in respect of the local activities to be provided in the local board area in the year to which the agreement relates, include—
+(5) For the purposes of subsection (2)﻿(a), a local board agreement must, in respect of the local activities to be provided in the local board area in the year to which the agreement relates, include—
   (a) a statement of the intended levels of service provision that specifies—
     (i) any performance measures specified in a rule made under section 261B for each activity described in clause 2(2) of Schedule 10; and
     (ii) the performance measures that the unitary authority considers will enable the public to assess the level of service for major aspects of an activity for which performance measures have not been specified as described in subparagraph (i); and
@@ -1002,7 +1002,7 @@ The membership of a local board consists of—
 ### 48R Disputes about allocation of decision-making responsibilities or proposed bylaws
 (1) Subsection (2) applies if—
   (a) 1 or more local boards are dissatisfied with a decision of the governing body under section 48L(1); or
-  (b) a local board is dissatisfied with a decision of the governing body under section 150B(3)(b) or 150E(3)(b).
+  (b) a local board is dissatisfied with a decision of the governing body under section 150B(3)﻿(b) or 150E(3)﻿(b).
 (2) The local board or boards concerned and the governing body must make reasonable efforts to reach a mutually acceptable and timely resolution of the dispute, having regard to—
   (a) the requirements of this Act; and
   (b) the current and future well-being of the communities of the district, and the interests and preferences of the communities within each affected local board area.
@@ -1104,7 +1104,7 @@ This Part establishes—
   (b) be a good employer; and
   (c) exhibit a sense of social and environmental responsibility by having regard to the interests of the community in which it operates and by endeavouring to accommodate or encourage these when able to do so; and
   (d) if the council-controlled organisation is a council-controlled trading organisation, conduct its affairs in accordance with sound business practice.
-(2) In subsection (1)(b), good employer has the same meaning as in clause 36 of Schedule 7.
+(2) In subsection (1)﻿(b), good employer has the same meaning as in clause 36 of Schedule 7.
 
 ### 60 Decisions relating to operation of council-controlled organisations
 All decisions relating to the operation of a council-controlled organisation must be made by, or under the authority of, the board of the organisation in accordance with—
@@ -1167,7 +1167,7 @@ A report on the operations of a council-controlled organisation under section 67
   (b) an auditor's report on—
     (i) those financial statements; and
     (ii) the performance targets and other measures by which performance was judged in relation to that organisation's objectives.
-(2) The audited financial statements under subsection (1)(a) must be prepared in accordance with generally accepted accounting practice.
+(2) The audited financial statements under subsection (1)﻿(a) must be prepared in accordance with generally accepted accounting practice.
 
 ### 70 Auditor-General is auditor of council-controlled organisations
 Despite sections 207P to 207V of the Companies Act 1993, a council-controlled organisation or a subsidiary of a council-controlled organisation is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
@@ -1273,7 +1273,7 @@ This Part—
   (a) the principles set out in section 14; and
   (b) the extent of the local authority's resources; and
   (c) the extent to which the nature of a decision, or the circumstances in which a decision is taken, allow the local authority scope and opportunity to consider a range of options or the views and preferences of other persons.
-(3) The nature and circumstances of a decision referred to in subsection (2)(c) include the extent to which the requirements for such decision-making are prescribed in or under any other enactment (for example, the Resource Management Act 1991).
+(3) The nature and circumstances of a decision referred to in subsection (2)﻿(c) include the extent to which the requirements for such decision-making are prescribed in or under any other enactment (for example, the Resource Management Act 1991).
 (4) Subsection (3) is for the avoidance of doubt.
 
 ### 80 Identification of inconsistent decisions
@@ -1314,7 +1314,7 @@ This Part—
 
 ### 82A Information requirements for consultation required under this Act
 (1) This section applies if this Act requires a local authority to consult in accordance with, or using a process or a manner that gives effect to, the requirements of section 82.
-(2) The local authority must, for the purposes of section 82(1)(a) and (c), make the following publicly available:
+(2) The local authority must, for the purposes of section 82(1)﻿(a) and (c), make the following publicly available:
   (a) the proposal and the reasons for the proposal; and
   (b) an analysis of the reasonably practicable options, including the proposal, identified under section 77(1); and
   (c) if a plan or policy or similar document is proposed to be adopted, a draft of the proposed plan, policy, or other document; and
@@ -1330,14 +1330,14 @@ This Part—
     (ii) if the local authority considers on reasonable grounds that it is necessary to enable public understanding of the proposal, a summary of the information contained in the statement of proposal (which summary must comply with section 83AA); and
   (b) ensure that the following is publicly available:
     (i) the statement of proposal; and
-    (ii) a description of how the local authority will provide persons interested in the proposal with an opportunity to present their views to the local authority in accordance with section 82(1)(d); and
+    (ii) a description of how the local authority will provide persons interested in the proposal with an opportunity to present their views to the local authority in accordance with section 82(1)﻿(d); and
     (iii) a statement of the period within which views on the proposal may be provided to the local authority (the period being not less than 1 month from the date the statement is issued); and
-  (c) make the summary of the information contained in the statement of proposal prepared in accordance with paragraph (a)(ii) (or the statement of proposal, if a summary is not prepared) as widely available as is reasonably practicable as a basis for consultation; and
+  (c) make the summary of the information contained in the statement of proposal prepared in accordance with paragraph (a)﻿(ii) (or the statement of proposal, if a summary is not prepared) as widely available as is reasonably practicable as a basis for consultation; and
   (d) provide an opportunity for persons to present their views to the local authority in a manner that enables spoken (or New Zealand sign language) interaction between the person and the local authority, or any representatives to whom an appropriate delegation has been made in accordance with Schedule 7; and
   (e) ensure that any person who wishes to present his or her views to the local authority or its representatives as described in paragraph (d)—
     (i) is given a reasonable opportunity to do so; and
     (ii) is informed about how and when he or she may take up that opportunity.
-(2) For the purpose of, but without limiting, subsection (1)(d), a local authority may allow any person to present his or her views to the local authority by way of audio link or audiovisual link.
+(2) For the purpose of, but without limiting, subsection (1)﻿(d), a local authority may allow any person to present his or her views to the local authority by way of audio link or audiovisual link.
 (3) This section does not prevent a local authority from requesting or considering, before making a decision, comment or advice from an officer of the local authority or any other person in respect of the proposal or any views on the proposal, or both.
 
 ### 83AA Summary of information
@@ -1360,8 +1360,8 @@ A summary of the information contained in a statement of proposal must—
 [Repealed]
 
 ### 86 Use of special consultative procedure in relation to making, amending, or revoking bylaws
-(1) This section applies if, in accordance with section 156(1)(a), the special consultative procedure is required to be used in relation to the making, amending, or revoking of a bylaw.
-(2) The statement of proposal referred to in section 83(1)(a) must include,—
+(1) This section applies if, in accordance with section 156(1)﻿(a), the special consultative procedure is required to be used in relation to the making, amending, or revoking of a bylaw.
+(2) The statement of proposal referred to in section 83(1)﻿(a) must include,—
   (a) as the case may be,—
     (i) a draft of the bylaw as proposed to be made or amended; or
     (ii) a statement that the bylaw is to be revoked; and
@@ -1372,10 +1372,10 @@ A summary of the information contained in a statement of proposal must—
 (1) This section applies in any case where—
   (a) neither section 86 nor 93A applies but a local authority is required to use or adopt the special consultative procedure; or
   (b) a local authority chooses to use the special consultative procedure.
-(2) In any case to which this section applies, the statement of proposal referred to in section 83(1)(a) is,—
+(2) In any case to which this section applies, the statement of proposal referred to in section 83(1)﻿(a) is,—
   (a) if a plan or policy or similar document is proposed to be adopted, a draft of the proposed plan, policy, or document; and
   (b) in any other case, a detailed statement of the proposal.
-(3) A statement of proposal under subsection (2)(b) must include—
+(3) A statement of proposal under subsection (2)﻿(b) must include—
   (a) a statement of the reasons for the proposal; and
   (b) an analysis of the reasonably practicable options, including the proposal, identified under section 77(1); and
   (c) any other information that the local authority identifies as relevant.
@@ -1429,7 +1429,7 @@ A summary of the information contained in a statement of proposal must—
 
 ### 93A Use of special consultative procedure in relation to long-term plan
 (1) Where the special consultative procedure is used in relation to the adoption or amendment of a long-term plan under section 93—
-  (a) for the purpose of section 83(1)(a), instead of a statement of proposal and a summary of the information contained in the statement of proposal, a consultation document must be prepared and adopted in accordance with sections 93B to 93G; and
+  (a) for the purpose of section 83(1)﻿(a), instead of a statement of proposal and a summary of the information contained in the statement of proposal, a consultation document must be prepared and adopted in accordance with sections 93B to 93G; and
   (b) section 83 applies as if references to “the statement of proposal” or “the proposal” or a “summary” were references to the consultation document.
 (2) To avoid doubt, a draft long-term plan must not be used as an alternative to the consultation document.
 
@@ -1529,7 +1529,7 @@ Before adopting a consultation document under section 93A, the local authority m
   (a) be prepared in accordance with the principles and procedures that apply to the preparation of the financial statements and funding impact statement included in the long-term plan; and
   (b) contain appropriate references to the long-term plan in which the local authority's activities for the financial year covered by the annual plan are set out; and
   (c) include the information required by Part 2 of Schedule 10.
-(6A) Except where subsection (5) requires otherwise, the local authority must comply with subsection (6)(b) and (c) by means of reference to, rather than duplication of, the long-term plan.
+(6A) Except where subsection (5) requires otherwise, the local authority must comply with subsection (6)﻿(b) and (c) by means of reference to, rather than duplication of, the long-term plan.
 (7) A local authority must, within 1 month after the adoption of its annual plan,—
   (a) make its annual plan publicly available; and
   (b) send copies of that plan to—
@@ -1556,7 +1556,7 @@ Before adopting a consultation document under section 93A, the local authority m
     (iii) any detailed information, whether described in Part 2 of Schedule 10 or otherwise, that is not necessary or desirable for the purposes of subsections (1) and (2); and
   (c) must state where members of the public may obtain the information held by the local authority that is relied on by the content of the consultation document, including by providing links or references to the relevant information on an Internet site maintained by or on behalf of the local authority; and
   (d) may be given the title of the local authority’s choice, provided that the title or subtitle make reference to this being a consultation document for the proposed annual plan for the relevant year.
-(4) The local authority must adopt the information that is relied on by the content of the consultation document, as referred to in subsection (3)(c), before it adopts the consultation document.
+(4) The local authority must adopt the information that is relied on by the content of the consultation document, as referred to in subsection (3)﻿(c), before it adopts the consultation document.
 (5) For the purposes of this section, a difference, variation, or departure is material if it could, itself or in conjunction with other differences, influence the decisions or assessments of those reading or responding to the consultation document.
 
 ### 95B Combined or concurrent consultation on long-term plan and annual plan
@@ -1580,7 +1580,7 @@ If a local authority carries out consultation in relation to an amendment to a l
 (2) A local authority must not make a decision to which this section relates unless—
   (a) the decision is explicitly provided for in its long-term plan; and
   (b) the proposal to provide for the decision was included in a consultation document in accordance with section 93E.
-(3) Nothing in this section applies to a decision of a local authority to fund a capital project by lump sum contributions if the local authority has complied with section 117B(3)(c)(i) of the Local Government (Rating) Act 2002.
+(3) Nothing in this section applies to a decision of a local authority to fund a capital project by lump sum contributions if the local authority has complied with section 117B(3)﻿(c)﻿(i) of the Local Government (Rating) Act 2002.
 
 ### Subpart 2 — Reporting
 
@@ -1594,7 +1594,7 @@ If a local authority carries out consultation in relation to an amendment to a l
   (a) its annual report; and
   (b) a summary of the information contained in its annual report.
 (5) The summary must represent, fairly and consistently, the information regarding the major matters dealt with in the annual report.
-(6) A local authority must, within 1 month after the adoption of its annual report, send copies of that report and of the summary prepared under subsection (4)(b) to—
+(6) A local authority must, within 1 month after the adoption of its annual report, send copies of that report and of the summary prepared under subsection (4)﻿(b) to—
   (a) the Secretary; and
   (b) the Auditor-General; and
   (c) the Parliamentary Library.
@@ -1605,12 +1605,12 @@ If a local authority carries out consultation in relation to an amendment to a l
   (b) the statement about budgeted and actual capital expenditure referred to in clause 24 of Schedule 10; and
   (c) the funding impact statement referred to in clause 30 of Schedule 10; and
   (d) the local authority's compliance with the requirements of Schedule 10 that are applicable to the annual report.
-(2) In addition to the information required by section 98(5), the summary required by section 98(4)(b) must contain the Auditor-General's report on whether the summary represents, fairly and consistently, the information regarding the major matters dealt with in the annual report.
+(2) In addition to the information required by section 98(5), the summary required by section 98(4)﻿(b) must contain the Auditor-General's report on whether the summary represents, fairly and consistently, the information regarding the major matters dealt with in the annual report.
 
 ### 99A Pre-election report
 (1) The chief executive of a local authority must prepare a pre-election report containing the information required by clause 36 of Schedule 10.
-(2) However, the chief executive of a local authority that has an ordinarily resident population of fewer than 20 000 people need not comply with clause 36(1)(a) and (2) of Schedule 10 for the financial year ending in the same year as the election.
-(3) Instead of complying with clause 36(1)(a) and (2) of Schedule 10, the chief executive of the local authority referred to in subsection (2) may include in a pre-election report the information set out in clause 37 of Schedule 10.
+(2) However, the chief executive of a local authority that has an ordinarily resident population of fewer than 20 000 people need not comply with clause 36(1)﻿(a) and (2) of Schedule 10 for the financial year ending in the same year as the election.
+(3) Instead of complying with clause 36(1)﻿(a) and (2) of Schedule 10, the chief executive of the local authority referred to in subsection (2) may include in a pre-election report the information set out in clause 37 of Schedule 10.
 (4) The purpose of a pre-election report is to provide information to promote public discussion about the issues facing the local authority.
 (5) A pre-election report must be completed and published no later than the day that is 2 weeks before the nomination day for a triennial general election of members of a local authority under the Local Electoral Act 2001.
 (6) A pre-election report must not contain a statement by, or a photograph of, an elected member of the local authority.
@@ -1794,21 +1794,21 @@ A policy adopted under section 102(1) must state the local authority's policies 
 (5) For the purposes of this section, the term rates includes penalties payable on unpaid rates.
 
 ### 109 Rates remission policy
-(1) A policy adopted under section 102(3)(a) must state—
+(1) A policy adopted under section 102(3)﻿(a) must state—
   (a) the objectives sought to be achieved by the remission of rates; and
   (b) the conditions and criteria to be met in order for rates to be remitted.
-(2) In determining a policy under section 102(3)(a), the local authority may consider the matters set out in Schedule 11.
-(2A) If a policy is adopted under section 102(3)(a), the policy—
+(2) In determining a policy under section 102(3)﻿(a), the local authority may consider the matters set out in Schedule 11.
+(2A) If a policy is adopted under section 102(3)﻿(a), the policy—
   (a) must be reviewed at least once every 6 years using a consultation process that gives effect to the requirements of section 82; and
   (b) may be revoked following the review under paragraph (a).
 (3) For the purposes of this section, the term rates includes penalties payable on unpaid rates.
 
 ### 110 Rates postponement policy
-(1) A policy adopted under section 102(3)(b) must state—
+(1) A policy adopted under section 102(3)﻿(b) must state—
   (a) the objectives sought to be achieved by a postponement of the requirement to pay rates; and
   (b) the conditions and criteria to be met in order for the requirement to pay rates to be postponed.
-(2) In determining a policy under section 102(3)(b), the local authority may consider the matters set out in Schedule 11.
-(2A) If a policy is adopted under section 102(3)(b), the policy—
+(2) In determining a policy under section 102(3)﻿(b), the local authority may consider the matters set out in Schedule 11.
+(2A) If a policy is adopted under section 102(3)﻿(b), the policy—
   (a) must be reviewed at least once every 6 years using a consultation process that gives effect to the requirements of section 82; and
   (b) may be revoked following the review under paragraph (a).
 (3) For the purposes of this section, the term rates includes penalties payable on unpaid rates.
@@ -1930,7 +1930,7 @@ In this Part,—
     (a) an assessment of water services and other sanitary services available to communities in the district of the territorial authority; but
     (b) does not include assessments in relation to individual properties
   - **local government organisation** means a local authority, council-controlled organisation, or a subsidiary of a council-controlled organisation, that provides water services
-  - **sanitary services** has the same meaning as sanitary works in section 25(1)(a), (b), (d), (h), and (i) of the Health Act 1956
+  - **sanitary services** has the same meaning as sanitary works in section 25(1)﻿(a), (b), (d), (h), and (i) of the Health Act 1956
   - **wastewater services** means sewerage, treatment and disposal of sewage, and stormwater drainage
   - **water services** means water supply and wastewater services
   - **water supply** means the provision of drinking water to communities by network reticulation to the point of supply of each dwellinghouse and commercial premise to which drinking water is supplied.
@@ -1994,20 +1994,20 @@ The purpose of an assessment under section 125 is to assess, from a public healt
   (d) the proposal is supported, in a binding referendum conducted under section 9 of the Local Electoral Act 2001 using the First Past the Post electoral system,—
     (i) in the case of a proposal to close down a water service, by 75% or more of the votes cast in accordance with subsection (3); and
     (ii) in the case of a proposal to transfer a water service, by more than 50% of the votes cast in accordance with section 132.
-(3) For the purpose of subsection (2)(a), a certificate signed by the chief executive of the local government organisation as to the number of persons to whom the water service is delivered in the district, region, or other subdivision at any date is conclusive evidence of that number.
+(3) For the purpose of subsection (2)﻿(a), a certificate signed by the chief executive of the local government organisation as to the number of persons to whom the water service is delivered in the district, region, or other subdivision at any date is conclusive evidence of that number.
 
 ### 132 Eligibility to vote in referendum
-A person is eligible to vote in a referendum conducted under section 131(2)(d) if the person is qualified as either—
+A person is eligible to vote in a referendum conducted under section 131(2)﻿(d) if the person is qualified as either—
   (a) a residential elector under section 23 of the Local Electoral Act 2001 and the address in respect of which the person is registered as a parliamentary elector is a property serviced by the water service that is the subject of the referendum; or
-  (b) a ratepayer elector under section 24 of the Local Electoral Act 2001 and the property, for the purposes of section 24(1)(a) or (b) of that Act, is a property serviced by the water service that is the subject of the referendum.
+  (b) a ratepayer elector under section 24 of the Local Electoral Act 2001 and the property, for the purposes of section 24(1)﻿(a) or (b) of that Act, is a property serviced by the water service that is the subject of the referendum.
 
 ### 133 Responsibility for conduct of referendum
-(1) The territorial authority that is responsible for conducting a referendum under section 131(2)(d) is the territorial authority in whose district the majority of persons eligible to vote in that referendum is on the roll of electors of that territorial authority.
+(1) The territorial authority that is responsible for conducting a referendum under section 131(2)﻿(d) is the territorial authority in whose district the majority of persons eligible to vote in that referendum is on the roll of electors of that territorial authority.
 (2) The electoral officer of a territorial authority responsible for conducting a referendum under subsection (1) must prepare a special roll of the persons eligible to vote under section 132.
-(3) The provisions of the Local Electoral Act 2001 apply, with any necessary modifications, to the conduct of a referendum under section 131(2)(d).
+(3) The provisions of the Local Electoral Act 2001 apply, with any necessary modifications, to the conduct of a referendum under section 131(2)﻿(d).
 
 ### 134 Criteria for closure of water service
-A local government organisation may only close down a water service under section 131(1)(a) if it has first—
+A local government organisation may only close down a water service under section 131(1)﻿(a) if it has first—
   (a) reviewed the likely effect of the closure on—
     (i) the public health of the community that would be affected by the closure; and
     (ii) the environment in the district of that community; and
@@ -2015,7 +2015,7 @@ A local government organisation may only close down a water service under sectio
   (c) compared the quality and adequacy of the existing water service with the likely quality and adequacy of the alternative service referred to in paragraph (b).
 
 ### 135 Criteria for transfer of water service
-A local government organisation may only transfer a water service under section 131(1)(b) if it has first—
+A local government organisation may only transfer a water service under section 131(1)﻿(b) if it has first—
   (a) developed a draft management plan under which the entity representative of the community would maintain and operate the water service; and
   (b) assessed the likely future capital and operating costs of the entity representative of the community to maintain and operate the water service; and
   (c) assessed the ability of the entity representative of the community to maintain and operate the water service satisfactorily.
@@ -2044,7 +2044,7 @@ A local government organisation may only transfer a water service under section 
   (a) in the case of a local government organisation that is a local authority, have undertaken consultation in accordance with the procedures set out in Part 6; and
   (b) in the case of a local government organisation that is not a local authority, have undertaken consultation in accordance with the procedures set out in Part 6 as if it were a local authority.
   (c)
-(4) If a local government organisation enters into a joint arrangement under subsection (2)(a), it must—
+(4) If a local government organisation enters into a joint arrangement under subsection (2)﻿(a), it must—
   (a) continue to be legally responsible for providing the water services; and
   (b) retain control over the following matters:
     (i) the pricing of water services; and
@@ -2085,7 +2085,7 @@ A local government organisation may only transfer a water service under section 
 (5) However, subsection (4) applies only if—
   (a) the retention of the land would not materially enhance the conservation or recreational value of the park; and
   (b) the regional council has consulted in a manner that gives effect to the requirements of section 82 in determining whether to dispose of the land.
-(6) Any land within the meaning of subsection (1)(b) that is included in an Order in Council—
+(6) Any land within the meaning of subsection (1)﻿(b) that is included in an Order in Council—
   (a) retains its classification under the Reserves Act 1977; and
   (b) remains subject to that Act; and
   (c) if the land is to be sold or disposed of under subsection (4) of this section, must first be dealt with under sections 24 and 25 of that Act.
@@ -2112,14 +2112,14 @@ A local government organisation may only transfer a water service under section 
   (b) unless expressly prohibited by the instrument that vested the property in the local authority, the local authority may sell or exchange the property and use the proceeds of the sale or exchange for a purpose identified by the local authority in accordance with section 141.
 
 ### 141 Conditions applying to sale or exchange of endowment property
-(1) A local authority must not exercise the power in section 140(4)(b) unless—
+(1) A local authority must not exercise the power in section 140(4)﻿(b) unless—
   (a) the proposed use of the proceeds of sale of the property, or of the property received in exchange, is consistent with the purpose of the endowment; and
   (b)
   (c) in a case where the Crown was the donor of the property, the local authority has notified the Minister for Land Information and the Minister in Charge of Treaty of Waitangi Negotiations of the local authority's proposal to sell or exchange the endowment land; and
   (d) in other cases, the local authority has—
     (i) made a reasonable attempt to notify the donor of the property, or his or her successor, as the case may be, that the local authority intends to sell or exchange the property; and
     (ii) provided the donor with a reasonable opportunity to comment on the intended sale or exchange.
-(2) To avoid doubt, notification of a proposal to sell or exchange a property under subsection (1)(c) does not oblige a Minister to take any action in relation to the proposal to sell or exchange the property.
+(2) To avoid doubt, notification of a proposal to sell or exchange a property under subsection (1)﻿(c) does not oblige a Minister to take any action in relation to the proposal to sell or exchange the property.
 (3) If the local authority is subject to reorganisation, the proceeds of a sale or exchange of property must be applied to the district or districts of the new local authority or authorities arising from the reorganisation of which the local authority formed part.
 
 ### Subpart 4 — Public libraries
@@ -2221,7 +2221,7 @@ Regulations under section 259 may do any or all of the following:
   (c) prescribe particular forms for particular kinds of sign required to be erected and maintained (including, without limitation, content, size, lettering, symbols, and colouring).
 
 ### 148 Special requirements for bylaws relating to trade wastes
-(1) Before making bylaws under section 146(a)(iii), a territorial authority must send a copy of the proposed bylaws to the Minister of Health for his or her comments.
+(1) Before making bylaws under section 146(a)﻿(iii), a territorial authority must send a copy of the proposed bylaws to the Minister of Health for his or her comments.
 (2) Before sending proposed bylaws to the Minister of Health under subsection (1), the territorial authority must, at least 2 months before the making of the bylaws, give public notice of its intention to make the bylaws, stating—
   (a) the trade wastes to which the bylaws will relate; and
   (b) that copies of the draft bylaws may be inspected free of charge at the place specified in the notice and may be obtained on payment of the charge specified in the notice; and
@@ -2292,13 +2292,13 @@ Regulations under section 259 may do any or all of the following:
   (b) a reference to the unitary authority in relation to a local board means the unitary authority for the district that includes the local board area of that local board.
 
 ### 150C Local board must consult on proposed bylaw
-(1) This section applies if a local board has received notice under section 150B(3)(a) from a governing body in respect of a bylaw that the local board has proposed.
+(1) This section applies if a local board has received notice under section 150B(3)﻿(a) from a governing body in respect of a bylaw that the local board has proposed.
 (2) The local board must consult the public within the local board area on the proposed bylaw and, for that purpose, section 156(1) applies, with any necessary modifications, as if the local board were a local authority.
 (3) If, after acting under subsection (2), the local board confirms the proposed bylaw, it must give written notice of its decision to the governing body, and the governing body must adopt the bylaw by resolution.
 (4) If, after acting under subsection (2), the local board modifies the proposed bylaw, it must given written notice of its decision to the governing body, and the governing body must,—
   (a) if satisfied that the proposed bylaw meets the requirements of section 150B(2), adopt the bylaw by resolution; or
-  (b) if not satisfied that the proposed bylaw meets the requirements of section 150B(2), give notice to the local board under section 150B(3)(b).
-(5) Where the unitary authority adopts under subsection (3) or (4)(a) a bylaw that is made under this Act, the requirements of sections 86, 155, and 156 are deemed to be satisfied in respect of that bylaw.
+  (b) if not satisfied that the proposed bylaw meets the requirements of section 150B(2), give notice to the local board under section 150B(3)﻿(b).
+(5) Where the unitary authority adopts under subsection (3) or (4)﻿(a) a bylaw that is made under this Act, the requirements of sections 86, 155, and 156 are deemed to be satisfied in respect of that bylaw.
 
 ### 150D Local board may propose amendment to bylaw
 (1) A local board may propose to the governing body, in writing, that a bylaw that applies only in, or only in any part of, its local board area be amended.
@@ -2313,7 +2313,7 @@ Regulations under section 259 may do any or all of the following:
 (3) If the governing body decides that a proposed revocation—
   (a) meets the requirements of subsection (2), it must give written notice of its decision to the local board:
   (b) does not meet the requirements of subsection (2), it must give written notice of its decision (with reasons) to the local board.
-(4) If the local board receives notice under subsection (3)(a), section 150C(2), (3), and (5) applies, with any necessary modifications, as if the proposed revocation were a proposed bylaw.
+(4) If the local board receives notice under subsection (3)﻿(a), section 150C(2), (3), and (5) applies, with any necessary modifications, as if the proposed revocation were a proposed bylaw.
 
 ### 150F Joint bylaw proposals
 (1) Two or more local boards may propose to the governing body, in writing, the making of a bylaw to apply only in, or only in any part of, the local boards' areas.
@@ -2338,10 +2338,10 @@ Regulations under section 259 may do any or all of the following:
 
 ### 153 The Crown bound by certain bylaws
 (1) The Crown is bound by bylaws made by a local authority under any of the following provisions:
-  (a) section 146(a)(iii), in relation to trade wastes:
-  (b) section 146(a)(iv), in relation to solid wastes:
-  (c) section 146(b)(ii), in relation to water supply:
-  (d) section 146(b)(iii), in relation to stormwater from any building and drainage from any infrastructure:
+  (a) section 146(a)﻿(iii), in relation to trade wastes:
+  (b) section 146(a)﻿(iv), in relation to solid wastes:
+  (c) section 146(b)﻿(ii), in relation to water supply:
+  (d) section 146(b)﻿(iii), in relation to stormwater from any building and drainage from any infrastructure:
   (e) section 146(c), in relation to fires in the open air.
 (2) The Crown is not bound by bylaws made by a local authority under any other provision of this Part.
 (3) However, the Crown is bound by any bylaw if non-compliance with that bylaw by the Crown would be likely to have an adverse effect on public health or safety.
@@ -2402,7 +2402,7 @@ A local authority must review a bylaw made by it under this Act, the Maritime Tr
       (A) the bylaw concerns a matter identified in the local authority’s policy under section 76AA as being of significant interest to the public; or
       (B) the local authority considers that there is, or is likely to be, a significant impact on the public due to the proposed continuation of the bylaw; and
     (ii) in any other case, consult on the proposed continuation of the bylaw in a manner that gives effect to the requirements of section 82.
-(4) For the purpose of the consultation required under subsection (3)(b), the local authority must make available—
+(4) For the purpose of the consultation required under subsection (3)﻿(b), the local authority must make available—
   (a) a copy of the bylaw to be continued; and
   (b) the reasons for the proposal; and
   (c) a report of any relevant determinations by the local authority under section 155.
@@ -2452,7 +2452,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
     (i) directed (orally or in writing) the person committing the offence to stop committing the offence; and
     (ii) has advised (orally or in writing) the person committing the offence that, if he or she does not stop committing the offence, the enforcement officer has power to seize and impound the property; and
     (iii) provided the person with a reasonable opportunity to stop committing the offence.
-(2) However, if the property is not in the possession of a person at the time the enforcement officer proposes to seize and impound the property, the enforcement officer does not have to comply with subsection (1)(c).
+(2) However, if the property is not in the possession of a person at the time the enforcement officer proposes to seize and impound the property, the enforcement officer does not have to comply with subsection (1)﻿(c).
 (3) As soon as practicable after seizing and impounding property, an enforcement officer must give a notice in the prescribed form—
   (a) to the person in possession of the property at the time it was seized and impounded; or
   (b) if paragraph (a) does not apply, to any person who the enforcement officer can ascertain is the owner of, or has an interest in, the property.
@@ -2514,7 +2514,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
   (d) arrest any person who has refused to comply with a request by a constable—
     (i) to leave a restricted place; or
     (ii) to surrender to a constable any alcohol that, in breach of an alcohol ban is in the person's possession.
-(3) Alcohol or a container seized under subsection (2)(b) is forfeited to the Crown if the person from whom the alcohol or container is seized pays the infringement fee.
+(3) Alcohol or a container seized under subsection (2)﻿(b) is forfeited to the Crown if the person from whom the alcohol or container is seized pays the infringement fee.
 
 **Matters of proof in relation to bylaws prohibiting alcohol in public place**
 
@@ -2529,10 +2529,10 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
   (b) has served on the prosecution notice in writing at least 20 working days before the hearing that he or she disputes that the substance was alcohol.
 
 ### 170 Conditions relating to power of search
-(1) Before exercising the power of search under section 169(2)(a) in relation to a container or a vehicle, a constable must—
+(1) Before exercising the power of search under section 169(2)﻿(a) in relation to a container or a vehicle, a constable must—
   (a) inform the person in possession of the container or the vehicle, as the case may be, that he or she has the opportunity of removing the container or the vehicle from the public place; and
   (b) provide the person with a reasonable opportunity to remove the container or the vehicle, as the case may be, from the public place.
-(2) However, on specified dates or in relation to specified events, notified in accordance with subsection (3), a constable may, immediately and without further notice, exercise the power under section 169(2)(a) to search a container or a vehicle.
+(2) However, on specified dates or in relation to specified events, notified in accordance with subsection (3), a constable may, immediately and without further notice, exercise the power under section 169(2)﻿(a) to search a container or a vehicle.
 (3) Before a constable may exercise the power of search under subsection (2), the territorial authority must—
   (a) specify the public place (within the meaning of section 169(1)) where, and the period when, this power may be exercised by the Police by public notice given 14 days in advance in accordance with this Act; and
   (b) indicate the location of the public place by 1 or more clearly legible notices affixed in 1 or more conspicuous places on, or adjacent to, the place to which the notice relates, unless it is impracticable or unreasonable to do so.
@@ -2555,7 +2555,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
 (3) The power in subsection (1) to enter a dwellinghouse must not be exercised unless—
   (a) the entry is authorised by a warrant given by an issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act; and
   (b) when exercising the power, the enforcement officer is accompanied by a constable.
-(4) Subject to subsections (3)(b) and (5), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
+(4) Subject to subsections (3)﻿(b) and (5), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
 (5) Despite subsection (4), sections 118 and 119 of the Search and Surveillance Act 2012 apply only in respect of a constable.
 
 ### 173 Power of entry in cases of emergency
@@ -2731,7 +2731,7 @@ If, under this Act or any other enactment, money paid for expenses incurred by t
   (a) taken under the authority of this Act for any public work; or
   (b) injuriously affected by any public work; or
   (c) suffering any damage from the exercise of any of the powers given by this Act.
-(2) A person is entitled to full compensation from the local authority for the matters referred to in subsection (1)(a), (b), or (c) to the extent provided in the Public Works Act 1981.
+(2) A person is entitled to full compensation from the local authority for the matters referred to in subsection (1)﻿(a), (b), or (c) to the extent provided in the Public Works Act 1981.
 (3) The compensation may be claimed and must be determined in the manner provided by the Public Works Act 1981.
 
 **Nuisance**
@@ -2838,13 +2838,13 @@ All persons exercising duties and functions under this subpart must take into ac
   (c) an authorisation for a service connection is granted.
 (2) A territorial authority may only require the development contribution as provided for in a policy adopted under section 102(1) that is consistent with section 201.
 (2A) For the purposes of subsection (2), a development contribution must be consistent with the content of the policy adopted under section 102(1) that was in force at the time that the application for a resource consent, building consent, or service connection was submitted, accompanied by all required information.
-(3) A requirement for a development contribution under subsection (1)(a) or (1)(b) is not—
+(3) A requirement for a development contribution under subsection (1)﻿(a) or (1)﻿(b) is not—
   (a) a condition of a resource consent that gives rise to any right of objection or appeal; or
   (b) as the case may be, a matter that gives rise to any right to apply to the chief executive for a determination under the Building Act 2004.
 (4) Subsection (3) is for the avoidance of doubt.
-(4A) If a development contribution policy provides for a development contribution under subsection (1)(b), the territorial authority may require that development contribution to be made when granting a certificate of acceptance under section 98 of the Building Act 2004 if a development contribution would have been required had a building consent been granted for the building work in respect of which the certificate is granted.
+(4A) If a development contribution policy provides for a development contribution under subsection (1)﻿(b), the territorial authority may require that development contribution to be made when granting a certificate of acceptance under section 98 of the Building Act 2004 if a development contribution would have been required had a building consent been granted for the building work in respect of which the certificate is granted.
 (5) In this section,—
-  - **building consent authority** means a person whose name is entered in the register referred to in section 273(1)(a) of the Building Act 2004
+  - **building consent authority** means a person whose name is entered in the register referred to in section 273(1)﻿(a) of the Building Act 2004
   - **chief executive** has the meaning given to it in section 7 of the Building Act 2004.
 
 ### 198A Restrictions on power to require contributions for reserves
@@ -2921,7 +2921,7 @@ The Minister may remove any development contributions commissioner from the regi
     (i) the objection relates to matters that require skills or knowledge that is not available from persons named in the register who are available to deal with the objection; and
     (ii) another suitable person with such skills or knowledge is available to deal with the objection; and
   (b) the Minister approves the territorial authority's selection of that other person to decide the objection.
-(3) A person approved by the Minister under subsection (2)(b) must be treated as a development contributions commissioner for the period necessary to enable the person to decide the relevant objection.
+(3) A person approved by the Minister under subsection (2)﻿(b) must be treated as a development contributions commissioner for the period necessary to enable the person to decide the relevant objection.
 
 ### 199I Development contribution objection hearings
 (1) The applicable fees and allowances for a witness appearing at a development contribution objection hearing must be paid by the party on whose behalf the witness is called.
@@ -2974,7 +2974,7 @@ A territorial authority must supply all secretarial and administrative services 
 
 ### 200 Limitations applying to requirement for development contribution
 (1) A territorial authority must not require a development contribution for a reserve, network infrastructure, or community infrastructure if, and to the extent that—
-  (a) it has, under section 108(2)(a) of the Resource Management Act 1991, imposed a condition on a resource consent in relation to the same development for the same purpose; or
+  (a) it has, under section 108(2)﻿(a) of the Resource Management Act 1991, imposed a condition on a resource consent in relation to the same development for the same purpose; or
   (b) the developer will fund or otherwise provide for the same reserve, network infrastructure, or community infrastructure; or
   (ba) the territorial authority has already required a development contribution for the same purpose in respect of the same building work, whether on the granting of a building consent or a certificate of acceptance; or
   (c) a third party has funded or provided, or undertaken to fund or provide, the same reserve, network infrastructure, or community infrastructure.
@@ -2987,7 +2987,7 @@ A territorial authority must supply all secretarial and administrative services 
     (iv) borrowings:
     (v) proceeds from asset sales; or
   (b) a person required to make the development contribution is also a ratepayer in the territorial authority’s district or has paid or will pay fees or charges in respect of the facilities.
-(4) Despite subsection (1)(ba), a territorial authority may require another development contribution to be made for the same purpose if the further development contribution is required to reflect an increase in the scale or intensity of the development since the original contribution was required.
+(4) Despite subsection (1)﻿(ba), a territorial authority may require another development contribution to be made for the same purpose if the further development contribution is required to reflect an increase in the scale or intensity of the development since the original contribution was required.
 
 **Development contributions policy**
 
@@ -3032,7 +3032,7 @@ A territorial authority must supply all secretarial and administrative services 
 (3) The specifications required under subsection (1) or subsection (2) must be given separately in relation to each activity or group of activities for which separate development contributions are required.
 
 ### 202A Reconsideration process to be in development contributions policy
-(1) If a territorial authority has determined to seek funding for community facilities under this subpart, the policy required by section 102 must, in addition to the matters set out in sections 106 and 201 to 202, and subject to any regulations made under section 259(1)(e) or (f), set out the process for requesting reconsideration of a requirement under section 199A.
+(1) If a territorial authority has determined to seek funding for community facilities under this subpart, the policy required by section 102 must, in addition to the matters set out in sections 106 and 201 to 202, and subject to any regulations made under section 259(1)﻿(e) or (f), set out the process for requesting reconsideration of a requirement under section 199A.
 (2) The process for reconsideration must set out—
   (a) how the request can be lodged with the territorial authority; and
   (b) the steps in the process that the territorial authority will apply when reconsidering the requirement to make a development contribution.
@@ -3070,7 +3070,7 @@ A territorial authority must use a development contribution received for reserve
 Despite sections 197AB(d) and 205, if the territorial authority considers that the district in which the development is situated has adequate reserves, or that it is impracticable to purchase or develop reserves in that locality, it may, if it considers it will benefit the residents in the district in which the development is situated, use the development contributions—
   (a) to add to, improve, or develop land outside the district that is vested in, or controlled by, the territorial authority for public recreation purposes:
   (b) with the consent of the Minister and subject to the terms and conditions the Minister thinks fit, to make payments or advance money to a local authority or public body to add to, improve, or develop land outside the district that is vested in, or controlled by, the local authority or public body for public recreation purposes:
-  (c) if the territorial authority has control of the foreshore or the bed of a lake or a harbour under a coastal permit by virtue of section 384(1)(b) or section 425(3)(a) of the Resource Management Act 1991,—
+  (c) if the territorial authority has control of the foreshore or the bed of a lake or a harbour under a coastal permit by virtue of section 384(1)﻿(b) or section 425(3)﻿(a) of the Resource Management Act 1991,—
     (i) to improve or develop the foreshore (whether within or outside the district) for public recreational purposes:
     (ii) to erect, improve, or develop for public recreational purposes—
       (A) the bed of the harbour or of the sea immediately contiguous to the foreshore; or
@@ -3154,12 +3154,12 @@ Despite sections 197AB(d) and 205, if the territorial authority considers that t
 
 ### 208 Powers of territorial authority if development contributions not paid or made
 Until a development contribution required in relation to a development has been paid or made under section 198, a territorial authority may,—
-  (a) in the case of a development contribution required under section 198(1)(a),—
+  (a) in the case of a development contribution required under section 198(1)﻿(a),—
     (i) withhold a certificate under section 224(c) of the Resource Management Act 1991:
     (ii) prevent the commencement of a resource consent under the Resource Management Act 1991:
-  (b) in the case of a development contribution required under section 198(1)(b), withhold a code compliance certificate under section 95 of the Building Act 2004:
+  (b) in the case of a development contribution required under section 198(1)﻿(b), withhold a code compliance certificate under section 95 of the Building Act 2004:
   (ba) in the case of a development contribution required under section 198(4A), withhold a certificate of acceptance under section 99 of the Building Act 2004:
-  (c) in the case of a development contribution required under section 198(1)(c), withhold a service connection to the development:
+  (c) in the case of a development contribution required under section 198(1)﻿(c), withhold a service connection to the development:
   (d) in each case, register the development contribution under the Statutory Land Charges Registration Act 1928, as a charge on the title of the land in respect of which the development contribution was required.
 
 **Refund of development contributions**
@@ -3279,7 +3279,7 @@ If a party to proceedings under this subpart appeals to the High Court under Par
   (b) remove or alter the fence, structure, or vegetation, or arrange for its removal or alteration in accordance with the terms of the removal order; and
   (c) sell or otherwise dispose of structures or materials salvaged in complying with the order; and
   (d) after allowing for any money received under paragraph (c), recover the costs and expenses incurred in carrying out the terms of the removal order as a debt from the respondent.
-(3) Costs or expenses that remain unpaid under subsection (2)(d) may be registered under the Statutory Land Charges Registration Act 1928 as a charge on a property in respect of which a removal order is made.
+(3) Costs or expenses that remain unpaid under subsection (2)﻿(d) may be registered under the Statutory Land Charges Registration Act 1928 as a charge on a property in respect of which a removal order is made.
 (4) Section 40 of the Building Act 2004 does not apply to the removal or alteration of a fence, structure, or vegetation in accordance with this section.
 
 ### 221 Limits to power of entry to enforce compliance
@@ -3291,7 +3291,7 @@ If a party to proceedings under this subpart appeals to the High Court under Par
   (b) entry must be made at reasonable times; and
   (c) a person entering the property must carry evidence of his or her identity and authority to enter, and must produce that evidence to the owner or occupier, if present, on initial entry and subsequently if required to do so; and
   (d) as soon as practicable after entry is made, the applicant must give notice in writing, in the prescribed form and manner, to the owner and to the occupier of the property of the entry and the reasons for it.
-(2) Compensation or damages must not be awarded in civil proceedings brought against a person referred to in subsection (1)(a) for any act done in good faith by that person under section 220(2).
+(2) Compensation or damages must not be awarded in civil proceedings brought against a person referred to in subsection (1)﻿(a) for any act done in good faith by that person under section 220(2).
 
 **Application of certain other Acts**
 
@@ -3327,12 +3327,12 @@ Every person who contravenes section 192 and continues to waste water or allow i
     (i) notifying the local authority of the intention to carry out the work; and
     (ii) obtaining written authorisation from the local authority, with terms or conditions the local authority thinks fit.
   (e)
-(2) It is not an offence under subsection (1) if the work referred to in subsection (1)(d) or (e)—
+(2) It is not an offence under subsection (1) if the work referred to in subsection (1)﻿(d) or (e)—
   (a) is authorised by a valid consent granted under—
     (i) the Building Act 2004, regulations made under that Act, or the Building Code; or
     (ii) the Resource Management Act 1991 or regulations made under that Act; or
   (b) was carried out in accordance with a valid building, plumbing, or drainage consent.
-(3) It is a defence to an offence under subsection (1)(d) or (e) if the work—
+(3) It is a defence to an offence under subsection (1)﻿(d) or (e) if the work—
   (a) was necessary to avoid an emergency, or to mitigate or remedy the effects of an emergency; and
   (b) was carried out by a person appropriately registered to undertake the work.
 
@@ -3451,7 +3451,7 @@ Every person who wilfully contravenes clause 11(2) of Schedule 7—
   (a) under this Act, or the bylaw or regulation made under this Act; or
   (b) under any other Act; but
   (c) must not be punished both under this Act, or under any bylaw or regulation made under this Act, and also under any other Act in respect of the same act or failure.
-(4) In this section direction includes a request by a constable under section 169(2)(d).
+(4) In this section direction includes a request by a constable under section 169(2)﻿(d).
 
 **Offences against bylaws**
 
@@ -3464,7 +3464,7 @@ Every person commits an offence and is liable on conviction to the penalty set o
   (b) the person who has committed the breach has committed the offence; and
   (c) the references in subsection (9) of that section to a defendant's being found guilty of, or pleading guilty to, an infringement offence for which an infringement notice has been issued were references to the person's being found to have committed, or admitting to having committed, the breach;—
 (2) Proceedings in respect of a breach of a bylaw made under section 147 cannot be commenced by filing a charging document under section 14 of the Criminal Procedure Act 2011.
-(3) Subsection (2) overrides subsection (1) and section 21(1)(a) of the Summary Proceedings Act 1957.
+(3) Subsection (2) overrides subsection (1) and section 21(1)﻿(a) of the Summary Proceedings Act 1957.
 
 **Defences**
 
@@ -3493,7 +3493,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (2) A person who is convicted of an offence under section 224, sections 229 to 231, or sections 233 to 238 is liable to a fine not exceeding $5,000.
 (3) A person who is convicted of an offence under section 232(2) is liable to imprisonment for a term not exceeding 3 years or to a fine not exceeding $20,000 or both.
 (4) A person who is convicted of an offence against a bylaw made under Part 8 (other than a bylaw made under Part 8 referred to in subsection (5)) is liable to a fine not exceeding $20,000.
-(5) A person who is convicted of an offence against a bylaw made under section 146(a)(iii) (which relates to trade wastes) is liable to a fine not exceeding $200,000.
+(5) A person who is convicted of an offence against a bylaw made under section 146(a)﻿(iii) (which relates to trade wastes) is liable to a fine not exceeding $200,000.
 
 ### Subpart 3 — Infringement offences
 
@@ -3528,7 +3528,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (a) by a constable personally delivering it to the person alleged to have committed the breach; or
   (b) by a constable personally delivering it, at a time after the person alleged to have committed the breach has been arrested for committing it, to the person; or
   (c) by post addressed to the last known place of residence or business of the person alleged to have committed the breach.
-(3) An infringement notice sent to a person under subsection (2)(b) must be treated as having been served on that person when it was posted.
+(3) An infringement notice sent to a person under subsection (2)﻿(b) must be treated as having been served on that person when it was posted.
 (4) An infringement notice must be in the prescribed form and must contain the following particulars:
   (a) details of the alleged infringement offence sufficient to inform fairly a person of the time, place, and nature of the alleged offence:
   (b) the amount of the infringement fee specified for that offence:
@@ -3624,7 +3624,7 @@ In this Part,—
       (iii) the consequences of a state of emergency (within the meaning of section 4 of the Civil Defence Emergency Management Act 2002) affecting, or recently affecting, the local authority's district or region; and
     (b) includes—
       (i) a failure by the local authority to demonstrate prudent management of its revenues, expenses, assets, liabilities, investments, or general financial dealings; and
-      (ii) a potential problem within the meaning of paragraph (a)(i) or (ii); and
+      (ii) a potential problem within the meaning of paragraph (a)﻿(i) or (ii); and
       (iii) to avoid doubt, 2 or more problems within the meaning of paragraph (a) or subparagraph (i) or (ii) of this paragraph
   - **public notice** , in relation to notice given by the Minister,
     (a) means a notice published—
@@ -3824,12 +3824,12 @@ The Minister must appoint a Crown Manager by notice in writing. The notice must 
   (b) before the term of the Commission ends,—
     (i) call a general election of the local authority by notice in the Gazette; and
     (ii) give public notice of the calling of the election.
-(4) Each notice given under subsection (3)(b)—
+(4) Each notice given under subsection (3)﻿(b)—
   (a) must specify the date on which the election is to be held, which must be no later than 7 days before the date on which the term of the Commission ends; and
   (b) if section 258J applies, must include a statement setting out the effect of the Minister's decision under that section.
 (5) The Local Electoral Act 2001 applies, with any necessary modifications, to the conduct of an election called by the Minister under this section as if the election were a triennial general election.
 (6) Despite subsection (5), the electoral officer responsible for the election must give notice of the election under section 52 of the Local Electoral Act 2001—
-  (a) no later than 7 days after the Minister gives notice of the election under subsection (3)(b); and
+  (a) no later than 7 days after the Minister gives notice of the election under subsection (3)﻿(b); and
   (b) if section 258J applies, must include a statement in the notice setting out the effect of the Minister's decision under that section.
 
 ### 258J Timing of election following postponed election
@@ -3850,7 +3850,7 @@ The Minister must appoint a Crown Manager by notice in writing. The notice must 
   (b) a triennial general election is held for the local authority under section 10 of the Local Electoral Act 2001, in which case the member vacates office in accordance with section 116 of that Act:
   (c) a general election is held for the local authority under section 258I, in which case the member vacates office on the date that the member would have vacated office in accordance with section 116 of the Local Electoral Act 2001 had the triennial general election not been postponed:
   (d) a general election is held for the local authority under section 258M, in which case the member vacates office in accordance with section 116 of the Local Electoral Act 2001:
-  (e) the member vacates his or her office in accordance with clause 5(1)(a), (b), (c), or (e) of Schedule 7.
+  (e) the member vacates his or her office in accordance with clause 5(1)﻿(a), (b), (c), or (e) of Schedule 7.
 (3) However, if a Commission appoints a member to a committee or subcommittee in accordance with Schedule 7, the person—
   (a) may accept the appointment, in the capacity as a person who has the skills, attributes, or knowledge that will assist the work of the committee or subcommittee; and
   (b) is entitled to receive payment for holding office as a member of the committee or subcommittee in that capacity.
@@ -4016,15 +4016,15 @@ The Minister must notify any change in the membership of a Ministerial body by n
   (e) prescribing the form or content of applications, notices, or any other documentation or information relating to the reconsideration of requirements for development contributions or to development contribution objections, and the manner in which any document or information is to be made available or provided:
   (f) prescribing, in addition to any matters prescribed under paragraph (e), the practice and procedure for hearing and deciding development contribution objections:
   (g) providing for any matters that are contemplated by this Act, necessary for giving it full effect, or necessary for its due administration.
-(2) Regulations made under subsection (1)(db) may specify in greater detail the information required to be included in a funding impact statement by Schedule 10.
-(3) Regulations made under subsection (1)(dc) may—
+(2) Regulations made under subsection (1)﻿(db) may specify in greater detail the information required to be included in a funding impact statement by Schedule 10.
+(3) Regulations made under subsection (1)﻿(dc) may—
   (a) prescribe parameters or benchmarks in any manner, including by—
     (i) reference to fixed terms (for example, the debt of a local authority in a financial year, generally, should not exceed a fixed sum per resident):
     (ii) the use of ratios, factors, or other relative terms (for example, the expenditure of a local authority in a financial year, generally, should not increase by more than the ratio of population growth multiplied by the rate of increase of the Consumers Price Index):
     (iii) reference to circumstances, statistics, or other publicly available information, whether only concerning local authorities and their districts and regions or otherwise; and
   (b) prescribe parameters or benchmarks in a way that differentiates between different types or classes of local authority (for example, regional councils, territorial authorities, and local authorities with a population, assets, or an average income of its population over or under a specified figure); and
   (c) prescribe parameters or benchmarks in a way that includes or excludes subsidiaries, including council-controlled organisations, council-controlled trading organisations, and council organisations, of a local authority.
-(4) The Minister may recommend the making of regulations under subsection (1)(dc) only if the content of the recommendation has been developed in consultation with the New Zealand Local Government Association Incorporated.
+(4) The Minister may recommend the making of regulations under subsection (1)﻿(dc) only if the content of the recommendation has been developed in consultation with the New Zealand Local Government Association Incorporated.
 
 ### 259A Levy to fund rules for performance measures
 (1) Regulations may be made under section 259 providing for the imposition and collection of a levy on local authorities.
@@ -4044,18 +4044,18 @@ The Minister must notify any change in the membership of a Ministerial body by n
 The Secretary may refund the whole or any part of the levy if the Secretary is satisfied that the amount of levy money collected exceeds the amount necessary to fulfil the purpose of the levy stated in section 259A(2).
 
 ### 259C Auditor-General must report on disclosures made under certain regulations
-(1) This section applies to the Auditor-General if regulations are made under section 259(1)(dd) that require disclosure of the matters set out in that paragraph in a long-term plan or an annual report.
+(1) This section applies to the Auditor-General if regulations are made under section 259(1)﻿(dd) that require disclosure of the matters set out in that paragraph in a long-term plan or an annual report.
 (2) The Auditor-General must report on the completeness and accuracy of the disclosures made by each local authority in the report required from him or her under section 94(1) or 99(1), as the case may be.
 
 ### 259D Regulations may incorporate financial reporting standards by reference
-(1) Regulations made under section 259(1)(dc) may incorporate financial reporting standards in effect under the Financial Reporting Act 2013, as those standards are defined in section 5(1) of that Act.
+(1) Regulations made under section 259(1)﻿(dc) may incorporate financial reporting standards in effect under the Financial Reporting Act 2013, as those standards are defined in section 5(1) of that Act.
 (2) Financial reporting standards may be incorporated by reference in the regulations—
   (a) in whole or in part; and
   (b) with modifications, additions, or variations specified in the regulations.
-(3) Financial reporting standards incorporated by reference in regulations made under section 259(1)(dc) have legal effect as part of those regulations.
+(3) Financial reporting standards incorporated by reference in regulations made under section 259(1)﻿(dc) have legal effect as part of those regulations.
 
 ### 259E Effect of amendments to, or replacement of, standards incorporated by reference in regulations
-(1) An amendment to, or replacement of, a financial reporting standard incorporated by reference in regulations made under section 259(1)(dc) (the initial regulations) has legal effect, and commences to apply, as part of the initial regulations on and from the dates referred to in subsection (2) if—
+(1) An amendment to, or replacement of, a financial reporting standard incorporated by reference in regulations made under section 259(1)﻿(dc) (the initial regulations) has legal effect, and commences to apply, as part of the initial regulations on and from the dates referred to in subsection (2) if—
   (a) the amendment or replacement is made by the External Reporting Board in accordance with the Financial Reporting Act 2013; and
   (b) the amendment or replacement is of the same general character as the standard amended or replaced; and
   (c) the initial regulations state that amendments or replacements have this effect.
@@ -4068,20 +4068,20 @@ The Secretary may refund the whole or any part of the levy if the Secretary is s
 (2) The production in proceedings of a certified copy of the financial reporting standards is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the regulations of the standards.
 
 ### 259G Effect of expiry or revocation of standards incorporated by reference
-Financial reporting standards incorporated by reference in regulations made under section 259(1)(dc) that expire or that are revoked or that cease to have effect cease to have legal effect as part of those regulations only if regulations made under that section state that the standards cease to have legal effect.
+Financial reporting standards incorporated by reference in regulations made under section 259(1)﻿(dc) that expire or that are revoked or that cease to have effect cease to have legal effect as part of those regulations only if regulations made under that section state that the standards cease to have legal effect.
 
 ### 259H Access to standards incorporated by reference
 (1) The department responsible for the administration of this Act must—
-  (a) provide electronic access to any financial reporting standards incorporated by reference in regulations made under section 259(1)(dc); and
+  (a) provide electronic access to any financial reporting standards incorporated by reference in regulations made under section 259(1)﻿(dc); and
   (b) make the standards available for inspection during working hours, free of charge, at the department's head office and at any other place that the Secretary determines is appropriate.
-(2) A failure to comply with this section does not invalidate regulations that incorporate any financial reporting standards incorporated by reference in regulations made under section 259(1)(dc).
+(2) A failure to comply with this section does not invalidate regulations that incorporate any financial reporting standards incorporated by reference in regulations made under section 259(1)﻿(dc).
 
 ### 259I Application of Legislation Act 2012 to standards incorporated by reference
 (1) Part 2 of the Legislation Act 2012 does not apply to—
-  (a) financial reporting standards incorporated by reference in regulations made under section 259(1)(dc); or
+  (a) financial reporting standards incorporated by reference in regulations made under section 259(1)﻿(dc); or
   (b) an amendment to, or replacement of, those standards.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations made under section 259(1)(dc) that incorporate financial reporting standards by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under section 259(1)(dc) to be presented to the House of Representatives.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations made under section 259(1)﻿(dc) that incorporate financial reporting standards by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under section 259(1)﻿(dc) to be presented to the House of Representatives.
 
 ### 259J Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
 [Repealed]
@@ -4161,7 +4161,7 @@ A rule made under section 261B is a disallowable instrument, but not a legislati
   (a) an amendment to, or a replacement of, material incorporated by reference in a rule:
   (b) material incorporated by reference in a rule if the material expires, is revoked, or ceases to have effect.
 (2) The amendment or replacement has legal effect as part of the rule only if the rule is varied to state that the amendment or replacement has that effect.
-(3) The material described in subsection (1)(b) ceases to have legal effect as part of the rule only if the rule is varied to state that the material ceases to have effect.
+(3) The material described in subsection (1)﻿(b) ceases to have legal effect as part of the rule only if the rule is varied to state that the material ceases to have effect.
 
 ### 261G Consultation on proposal to incorporate material by reference
 (1) Before a rule is made under section 261B, the Secretary—
@@ -4254,7 +4254,7 @@ Every local authority that is in existence on the passing of this Act must, befo
 (1) Every council-controlled organisation that is, immediately before 1 July 2003, a local authority trading enterprise within the meaning of section 594B of the Local Government Act 1974—
   (a) must, subject to section 64(2) of this Act, have in respect of the financial year beginning on 1 July 2003, a statement of intent in accordance with section 64(1) of this Act; and
   (b) must, despite the repeal of sections 594Z to 594ZC of the Local Government Act 1974, comply with those sections in respect of the financial year ending on 30 June 2003.
-(2) For the purposes of subsection (1)(b), sections 594Z to 594ZC of the Local Government Act 1974 apply with all necessary modifications as if those sections were still in force.
+(2) For the purposes of subsection (1)﻿(b), sections 594Z to 594ZC of the Local Government Act 1974 apply with all necessary modifications as if those sections were still in force.
 
 ### 277 First statement of intent of other council-controlled organisations
 Every council-controlled organisation (other than one to which section 276 applies) that is in existence on 1 July 2003 must, subject to section 64(2), have, in respect of the financial year beginning on 1 July 2004, a statement of intent in accordance with section 64(1).
@@ -4353,7 +4353,7 @@ The power that a local authority has, under section 198, to require a developmen
 A community constituted under section 101ZG of the Local Government Act 1974, and in existence immediately before 1 July 2003, and the community board established for any such community, and in existence immediately before 1 July 2003, continue in existence for all purposes as fully and effectually as if they had originated under the corresponding provisions of this Act, and are, where necessary, deemed to have so originated.
 
 ### 296 Chief executive
-(1) A person who, immediately before the commencement of this section, holds office under section 119C(1)(a) of the Local Government Act 1974 as the chief executive officer of a local authority is, without further appointment, the chief executive of that local authority and is deemed to have been appointed as chief executive under section 42 for the unexpired portion of his or her term of office as the chief executive officer and on the same terms and conditions as those on which that person was employed immediately before that commencement.
+(1) A person who, immediately before the commencement of this section, holds office under section 119C(1)﻿(a) of the Local Government Act 1974 as the chief executive officer of a local authority is, without further appointment, the chief executive of that local authority and is deemed to have been appointed as chief executive under section 42 for the unexpired portion of his or her term of office as the chief executive officer and on the same terms and conditions as those on which that person was employed immediately before that commencement.
 (2) Nothing in subsection (1) prevents any terms or conditions of employment continued in force by that subsection from being varied or superseded by agreement.
 
 ### 297 Members of Commission
@@ -4372,7 +4372,7 @@ A community constituted under section 101ZG of the Local Government Act 1974, an
 (1) Despite the repeal of section 122ZAA of the Local Government Act 1974 by this Act, a local authority may—
   (a) borrow from the Commissioners of any sinking fund established by the local authority under the Local Authorities Loans Act 1956 or any former enactment; and
   (b) meet the costs of the borrowing (including interest and principal) from the proceeds of any rate.
-(2) Section 86(6) of the Local Authorities Loans Act 1956 does not limit subsection (1)(a).
+(2) Section 86(6) of the Local Authorities Loans Act 1956 does not limit subsection (1)﻿(a).
 
 ### 300 Cancellation of part of loan in respect of which sinking fund is held
 If a local authority has, before the commencement of this section, established a sinking fund to provide for the repayment of any loan, and if, after the commencement of this section, it repurchases and cancels or redeems or otherwise repays in part any loan in respect of which the sinking fund is held before its stated maturity, the local authority may, with the consent in writing of the Auditor-General, require the release to the local authority of such amount of the sinking fund as will leave it (with probable accumulations of interest) sufficient to repay the balance of the loan at maturity.
@@ -4425,10 +4425,10 @@ All applications, actions, appeals, proceedings, and other matters under any Act
 (2) Subsection (1) does not limit the provisions of the Interpretation Act 1999.
 
 ### 310 Saving in respect of bylaws of Transit New Zealand
-The repeal of section 684(1)(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by Transit New Zealand under section 61(3) of the Transit New Zealand Act 1989 or the power of the New Zealand Transport Agency to make further bylaws under section 61(3) of Government Roading Powers Act 1989.
+The repeal of section 684(1)﻿(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by Transit New Zealand under section 61(3) of the Transit New Zealand Act 1989 or the power of the New Zealand Transport Agency to make further bylaws under section 61(3) of Government Roading Powers Act 1989.
 
 ### 311 Savings in respect of bylaws made in respect of government roads
-The repeal of section 684(1)(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by the Minister of Transport under section 48(2) of the Transit New Zealand Act 1989 or the power of the Minister of Transport to make further bylaws under section 48(2) of that Act.
+The repeal of section 684(1)﻿(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by the Minister of Transport under section 48(2) of the Transit New Zealand Act 1989 or the power of the Minister of Transport to make further bylaws under section 48(2) of that Act.
 
 ### 312 Savings and validation in respect of remuneration, allowances, and expenses of elected members
 (1) Every determination, resolution, or other document which was in force under Part 4C of the Local Government Act 1974 immediately before the commencement of section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001—
@@ -4480,7 +4480,7 @@ The repeal of section 684(1)(38) to (40) and of section 684(2) of the Local Gove
 (3) Until a policy is adopted under section 76AA, every reference to such a policy must be treated as a reference to a policy on significance adopted under section 90.
 
 ### 5 Requirement to enter into agreement under clause 30A of Schedule 7
-(1) This clause applies to a local authority that appointed a joint committee under clause 30(1)(b) of Schedule 7 before the date of commencement of clause 30A of Schedule 7 if that committee remains in existence after that date.
+(1) This clause applies to a local authority that appointed a joint committee under clause 30(1)﻿(b) of Schedule 7 before the date of commencement of clause 30A of Schedule 7 if that committee remains in existence after that date.
 (2) The local authority must, within 12 months of the date of commencement of clause 30A of Schedule 7, enter into an agreement under that clause with every other local authority or public body that has appointed members to that joint committee.
 (3) If an agreement under clause 30A of Schedule 7 is not entered into within the period specified in subclause (2), the joint committee is deemed to be discharged by the local authority.
 (4) Nothing in this clause applies if the joint committee referred to in subclause (1) was constituted or continued by, or required to be constituted or continued by, an enactment other than this Act.
@@ -4621,11 +4621,11 @@ The amendments to Schedule 10 made by the 10th to 13th items in Schedule 5 of th
 | Wairoa District Council | Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334 |
 | Waitaki District Council | Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408 |
 | Waitomo District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
-| Wanganui District Council | Local Government (Manawatu–Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
 | Wellington City Council | Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491 |
 | Western Bay of Plenty District Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
 | Westland District Council | Local Government (West Coast Region) Reorganisation Order 1989, Gazette 1989, p 2517 |
 | Whakatane District Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
+| Whanganui District Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
 | Whangarei District Council | Local Government (Northland Region) Reorganisation Order 1989, Gazette 1989, p 2391 |
 
 ### 1 Boundaries of regions
@@ -4705,8 +4705,8 @@ In this schedule, unless the context otherwise requires,—
     (a) a person who is a residential elector (within the meaning of section 23 of the Local Electoral Act 2001), if the address in respect of which the person is registered is in an affected area:
     (b) a person who is a ratepayer elector (within the meaning of section 24 of the Local Electoral Act 2001), if the person is qualified as a ratepayer elector in respect of a rating unit in an affected area
   - **applicant** means the person making a reorganisation application
-  - **implementation date** means the date specified in an Order in Council made under section 25(1)(b) as the date on which the local government reorganisation described in the final proposal takes effect
-  - **local board reorganisation application** means a reorganisation application that does not propose changes other than 1 or more of the changes described in section 24(1)(g) to (k) within the district of a unitary authority
+  - **implementation date** means the date specified in an Order in Council made under section 25(1)﻿(b) as the date on which the local government reorganisation described in the final proposal takes effect
+  - **local board reorganisation application** means a reorganisation application that does not propose changes other than 1 or more of the changes described in section 24(1)﻿(g) to (k) within the district of a unitary authority
   - **public notice** , in relation to a notice of a reorganisation application, draft proposal, or final proposal given by the Commission,—
     (a) means a notice published—
       (i) in 1 or more newspapers circulating in the affected area; and
@@ -4798,15 +4798,15 @@ The Commission may decline to assess a reorganisation application on 1 or more o
   (c) indicate where further information about the application can be obtained; and
   (d) invite persons, bodies, and groups to submit, by a date specified in the notice, alternative applications in relation to the affected area; and
   (e) indicate that any alternative applications received after the date specified under paragraph (d) may be declined.
-(3) The date specified by the Commission under subclause (2)(d) for the receipt of alternative applications must not be earlier than 20 working days after the last notice given under subclause (1).
+(3) The date specified by the Commission under subclause (2)﻿(d) for the receipt of alternative applications must not be earlier than 20 working days after the last notice given under subclause (1).
 (4) In the case of a local board reorganisation application, the Commission—
   (a) must give notice under subclause (1) to any community boards and local boards within the district of the affected local authority; and
   (b) must, in every notice under subclause (1), outline the limitation on the scope of alternative applications set out in clause 10(2); but
-  (c) is not required to give notice under subclause (1)(b)(ii).
+  (c) is not required to give notice under subclause (1)﻿(b)﻿(ii).
 
 ### 10 Alternative applications
 (1) An alternative application must comply with clause 5 as if it were a reorganisation application.
-(2) However, an alternative application is not required to comply with clause 5(1)(f) in relation to a district of a territorial authority in which community support has been demonstrated in the reorganisation application received under clause 3.
+(2) However, an alternative application is not required to comply with clause 5(1)﻿(f) in relation to a district of a territorial authority in which community support has been demonstrated in the reorganisation application received under clause 3.
 (3) In the case of a local board reorganisation application, an alternative application may not propose the abolition or union of the affected local authority, or any changes to the boundaries or functions of that local authority.
 
 ### 11 Commission to determine preferred option
@@ -4855,7 +4855,7 @@ The Commission may decline to assess a reorganisation application on 1 or more o
     (i) efficiencies and cost savings; and
     (ii) productivity improvements, both within the local authorities and for the businesses and households that interact with those local authorities; and
     (iii) simplified planning processes within and across the affected area through, for example, the integration of statutory plans or a reduction in the number of plans to be prepared or approved by a local authority.
-(2) For the purposes of clause 11(8)(a), the Commission must be satisfied that its preferred option—
+(2) For the purposes of clause 11(8)﻿(a), the Commission must be satisfied that its preferred option—
   (a) will best promote, in the affected area, the purpose of local government as specified in section 10; and
   (b) will best promote the interests of the communities in the district in terms of—
     (i) the benefits to all communities of a consistent or co-ordinated approach in the district; and
@@ -4867,7 +4867,7 @@ The Commission may decline to assess a reorganisation application on 1 or more o
     (i) each applicant; and
     (ii) every affected local authority; and
   (b) proceed under clause 14 to develop a draft reorganisation proposal to give effect to the preferred option.
-(2) However, subclause (1)(b) does not apply if the Commission's preferred option, under clause 11, is the existing arrangements for local government.
+(2) However, subclause (1)﻿(b) does not apply if the Commission's preferred option, under clause 11, is the existing arrangements for local government.
 
 ### Part 2 — Reorganisation proposals
 
@@ -4917,14 +4917,14 @@ The Commission may decline to assess a reorganisation application on 1 or more o
   (e) for each local board, whether the chairperson of the local board is to be—
     (i) elected by the members of the local board from among themselves using one of the systems of voting set out in clause 25(3) and (4) of Schedule 7; or
     (ii) directly elected to that office by the electors of the local board area.
-(5) In determining the matters referred to in subclause (4)(a), (b), (c), or (d), the Commission must ensure that—
+(5) In determining the matters referred to in subclause (4)﻿(a), (b), (c), or (d), the Commission must ensure that—
   (a) the boundaries of the local board areas will—
     (i) enable democratic local decision making by, and on behalf of, communities throughout the district; and
     (ii) enable equitable provision to be made for the current and future well-being of all communities within the affected area; and
   (b) the boundaries of local board areas and any subdivisions of those areas coincide with boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes; and
   (c) so far as is practicable, local board area boundaries coincide with ward boundaries.
 (6) Clause 14(4) does not apply to a draft proposal under subclause (2).
-(7) To avoid doubt, clauses 14(3)(f) and 19 do not apply to any local board area included in a draft proposal under subclause (2).
+(7) To avoid doubt, clauses 14(3)﻿(f) and 19 do not apply to any local board area included in a draft proposal under subclause (2).
 
 ### 16 Cities
 A draft proposal may not provide that a territorial authority is to be called a city council unless the district of the territorial authority—
@@ -4969,7 +4969,7 @@ When preparing a draft proposal or (if clause 14(4) applies) a reorganisation sc
     (vii) the chief executive of Te Puni Kōkiri; and
     (viii) the Commissioner of Inland Revenue; and
     (ix) the chief executive of a department of State that—
-      (A) is responsible for administering legislation that confers the statutory obligations referred to in clause 14(2)(c)(v); or
+      (A) is responsible for administering legislation that confers the statutory obligations referred to in clause 14(2)﻿(c)﻿(v); or
       (B) may, in the opinion of the Commission, have an interest in or be affected by the proposal; and
     (x) any affected iwi and Māori organisations identified by Te Puni Kōkiri; and
     (xi) each local authority whose district or region adjoins the district or region of an affected local authority; and
@@ -4997,11 +4997,11 @@ When preparing a draft proposal or (if clause 14(4) applies) a reorganisation sc
     (iii) the degree of community support for the draft proposal already demonstrated to the Commission; and
     (iv) the potential benefits and disadvantages of modified proposals or alternative options; and
     (v) the desirability of early certainty about local government organisation in the affected area.
-(3) The Commission must not issue a final proposal under subclause (1)(b) unless the Commission is satisfied that it has sufficient information about the views of the persons referred to in clause 20(1)(c).
-(4) A final proposal must comply with clauses 14(2), (3), (4), and (5)(a) and 16 to 19 as if references in those provisions to a draft proposal were references to a final proposal.
+(3) The Commission must not issue a final proposal under subclause (1)﻿(b) unless the Commission is satisfied that it has sufficient information about the views of the persons referred to in clause 20(1)﻿(c).
+(4) A final proposal must comply with clauses 14(2), (3), (4), and (5)﻿(a) and 16 to 19 as if references in those provisions to a draft proposal were references to a final proposal.
 (5) A final proposal may, for the purposes of clause 4, specify a period or periods in relation to any or all of the matters specified in section 24.
 (6) Before deciding to issue a final proposal, the Commission must be satisfied that the final proposal is likely to have demonstrable community support in the district of each affected territorial authority.
-(7) For the purposes of subclause (6), clause 8(2) and (3)(b) apply in relation to a final proposal.
+(7) For the purposes of subclause (6), clause 8(2) and (3)﻿(b) apply in relation to a final proposal.
 
 ### 22 Notification of final proposal
 (1) As soon as practicable after issuing a final proposal, the Commission must—
@@ -5017,16 +5017,16 @@ When preparing a draft proposal or (if clause 14(4) applies) a reorganisation sc
 #### Subpart 2 — Polls
 
 ### 23 Application of this subpart
-This subpart applies to a final proposal that provides for any of the matters specified in section 24(1)(a), (b), (c), and (f).
+This subpart applies to a final proposal that provides for any of the matters specified in section 24(1)﻿(a), (b), (c), and (f).
 
 ### 24 Petition to require poll
-(1) If a final proposal has been issued under clause 21(1)(a) or (b), affected electors may demand a poll to determine whether or not the final proposal is to proceed and become a reorganisation scheme.
+(1) If a final proposal has been issued under clause 21(1)﻿(a) or (b), affected electors may demand a poll to determine whether or not the final proposal is to proceed and become a reorganisation scheme.
 (2) A poll may be demanded under subclause (1) by a petition of 10% or more of affected electors enrolled in the district of a territorial authority.
 (3) A petition must be in the prescribed form (if any).
-(4) The Commission must, in the public notice of a final proposal under clause 22(1)(a), advise electors of—
+(4) The Commission must, in the public notice of a final proposal under clause 22(1)﻿(a), advise electors of—
   (a) the opportunity to demand a poll under this clause; and
   (b) the requirements relating to the submission of a petition under this clause; and
-  (c) the date by which a petition must be received by the Commission, being the close of the 60th working day after the first publication of the notice under clause 22(1)(a); and
+  (c) the date by which a petition must be received by the Commission, being the close of the 60th working day after the first publication of the notice under clause 22(1)﻿(a); and
   (d) the affected area.
 (5) Each person who signs a petition must state, against his or her signature, the person's name and address in sufficient detail to enable the person to be identified as an elector.
 (6) The chief executive officer of the Commission must send a copy of the petition to the electoral officer of each affected territorial authority, and the electoral officers must advise the Commission, within the time frame required by the Commission, of—
@@ -5089,7 +5089,7 @@ In this subpart, unless the context otherwise requires,—
     (b) excludes addressing 1 or more persons face to face
   - **specified period** means,—
     (a) if a poll is required to be held under clause 25, the period commencing on the day after the date on which public notice of the final proposal is first given and ending with the close of the day on which the poll is held:
-    (b) if a poll is not required to be held under clause 25, the period commencing on the day after the date on which public notice of the final proposal is given and ending with the close of the day specified by the Commission for the purposes of clause 24(4)(c).
+    (b) if a poll is not required to be held under clause 25, the period commencing on the day after the date on which public notice of the final proposal is given and ending with the close of the day specified by the Commission for the purposes of clause 24(4)﻿(c).
 
 ### 30 Advertising in relation to polls
 (1) A local authority affected by a final proposal may not, at any time in a specified period, do anything (including publishing any advertising) that—
@@ -5126,7 +5126,7 @@ In this subpart, unless the context otherwise requires,—
 This subpart applies to a final proposal that is issued under clause 21 and notified under clause 22 and in relation to which—
   (a) a poll, under clause 25,—
     (i) has not been held because—
-      (A) the reorganisation proposal does not include any of the matters specified in section 24(1)(a), (b), (c), or (f); or
+      (A) the reorganisation proposal does not include any of the matters specified in section 24(1)﻿(a), (b), (c), or (f); or
       (B) the requirements for a petition under clause 24 have not been met; or
     (ii) has been held and more than 50% of the valid votes cast in the poll are for the final proposal; and
   (b) an Order in Council giving effect to the final proposal is to be made under section 25(1).
@@ -5204,12 +5204,12 @@ This subpart applies to a final proposal that is issued under clause 21 and noti
   (b) employ, on behalf of the local authority, staff for the local authority with a start date on or after the implementation date; and
   (c) on behalf of the local authority, enter into contracts, leases, and other agreements to enable the local authority to operate efficiently and effectively on and from the implementation date; and
   (d) exercise the duties of a chief executive under clause 21 of Schedule 7 to call, before the implementation date, the first meeting of the local authority to be held on or after that date.
-(2) The chief executive must exercise the powers in subclause (1) in accordance with the change management plan developed under clause 36(1)(b) and any other protocols or processes developed by the Commission.
+(2) The chief executive must exercise the powers in subclause (1) in accordance with the change management plan developed under clause 36(1)﻿(b) and any other protocols or processes developed by the Commission.
 (3) For the purposes of this clause, the chief executive must exercise the powers and perform the functions described in this clause as if the local authority were established, and—
-  (a) any appointment under subclause (1)(a) and (b) made by him or her before the implementation date is—
+  (a) any appointment under subclause (1)﻿(a) and (b) made by him or her before the implementation date is—
     (i) deemed to be made with the express authority of the local authority; and
     (ii) valid and enforceable; and
-  (b) any contract, lease, or other agreement entered into under subclause (1)(c) by him or her before the implementation date is—
+  (b) any contract, lease, or other agreement entered into under subclause (1)﻿(c) by him or her before the implementation date is—
     (i) deemed to be entered into with the express authority of the local authority; and
     (ii) valid and enforceable.
 (4) Despite subclause (3), all costs and other obligations associated with any appointment, contract, lease, or other agreement made by the chief executive under subclause (1) and incurred before the implementation date must be apportioned between the affected local authorities in accordance with the determination of the Commission under clause 40.
@@ -5236,7 +5236,7 @@ This subpart applies to a final proposal that is issued under clause 21 and noti
 (3) In preparing a reorganisation scheme, the Commission—
   (a) must consult the Secretary; and
   (b) may consult or make inquiries of any other persons, bodies, or groups that it thinks fit.
-(4) The Commission may delegate, wholly or in part, to a transition body the responsibility for preparing a reorganisation scheme, but the Commission retains responsibility for ensuring, before the Commission issues it, that the reorganisation scheme complies with subclause (2)(a) to (c).
+(4) The Commission may delegate, wholly or in part, to a transition body the responsibility for preparing a reorganisation scheme, but the Commission retains responsibility for ensuring, before the Commission issues it, that the reorganisation scheme complies with subclause (2)﻿(a) to (c).
 
 #### Subpart 2 — Contents of and provisions that apply to reorganisation schemes
 
@@ -5338,7 +5338,7 @@ The following provisions apply to a reorganisation scheme unless amended by the 
   (a) the local authority assuming jurisdiction of the area confirms the bylaw, in which case the confirmed bylaw becomes a bylaw made by that local authority and remains in force until it expires or is revoked; or
   (b) the local authority assuming jurisdiction of the area amends the bylaw, in which case the bylaw as amended becomes a bylaw made by that local authority and remains in force until it expires or is revoked; or
   (c) the local authority assuming jurisdiction of the area revokes the bylaw.
-(6) The local authority assuming jurisdiction of the area must use the special consultative procedure before confirming, amending, or revoking a bylaw under subclause (5)(a), (b), or (c).
+(6) The local authority assuming jurisdiction of the area must use the special consultative procedure before confirming, amending, or revoking a bylaw under subclause (5)﻿(a), (b), or (c).
 (7) If section 159 applies to a bylaw confirmed or amended under this clause, for the purposes of that section the date of the confirmation or amendment of the bylaw must be treated as if it were the date of the last review of the bylaw.
 (8) In this clause, bylaw includes—
   (a) a set of bylaws; and
@@ -5740,7 +5740,7 @@ In deciding whether or not to constitute a community, the territorial authority 
 (1) A person's office as member of a local authority is vacated if the person, while holding office as a member of the local authority,—
   (a) ceases to be an elector or becomes disqualified for registration as an elector under the Electoral Act 1993; or
   (b) is convicted of an offence punishable by a term of imprisonment of 2 years or more.
-(2) If subclause (1)(b) applies,—
+(2) If subclause (1)﻿(b) applies,—
   (a) the disqualification does not take effect—
     (i) until the expiration of the time for appealing against the conviction or decision; or
     (ii) if there is an appeal against the conviction or decision, until the appeal is determined; and
@@ -5810,7 +5810,7 @@ In deciding whether or not to constitute a community, the territorial authority 
     (ii) between persons occupying equivalent positions in the same local authorities, community boards, or local boards:
   (d) make determinations that apply to individuals, or groups, occupying equivalent positions:
   (e) approve rules proposed by a local authority for reimbursing expenses incurred by members, subject to any conditions that the Authority thinks fit.
-(4) The Remuneration Authority may direct a local authority to make publicly available any rules it has approved under subclause (3)(e).
+(4) The Remuneration Authority may direct a local authority to make publicly available any rules it has approved under subclause (3)﻿(e).
 (5) The Remuneration Authority may issue separate determinations, at different times, for the different positions listed in subclauses (1) and (2).
 (6) Clause 7A applies to determinations made under this clause.
 (7) A determination by the Remuneration Authority under this clause is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
@@ -5895,7 +5895,7 @@ In clauses 6, 7, 8, and 9, remuneration includes—
   (c) a member of the local authority; or
   (d) the chief executive of the local authority; or
   (e) in the absence of the chief executive, some other officer appointed by the chief executive.
-(3) The form of the declaration must consist of the following elements:Declaration by mayor or chairperson or member“I, AB, declare that I will faithfully and impartially, and according to the best of my skill and judgment, execute and perform, in the best interests of [region or district], the powers, authorities, and duties vested in, or imposed upon, me as [mayor or chairperson or member] of the [local authority] by virtue of the Local Government Act 2002, the Local Government Official Information and Meetings Act 1987, or any other ActDated at: [place, date]Signature:Signed in the presence of:CD, [mayor or chairperson or member or chief executive of local authority]”.
+(3) The form of the declaration must consist of the following elements: Declaration by mayor or chairperson or member“I, AB, declare that I will faithfully and impartially, and according to the best of my skill and judgment, execute and perform, in the best interests of [region or district], the powers, authorities, and duties vested in, or imposed upon, me as [mayor or chairperson or member] of the [local authority] by virtue of the Local Government Act 2002, the Local Government Official Information and Meetings Act 1987, or any other ActDated at: [place, date]Signature:Signed in the presence of:CD, [mayor or chairperson or member or chief executive of local authority]”.
 
 ### 15 Code of conduct
 (1) A local authority must adopt a code of conduct for members of the local authority as soon as practicable after the commencement of this Act.
@@ -6089,7 +6089,7 @@ In clauses 6, 7, 8, and 9, remuneration includes—
 (2) The standing orders of a local authority must not contravene this Act, the Local Government Official Information and Meetings Act 1987, or any other Act.
 (3) After the adoption of the first standing orders of the local authority, an amendment of the standing orders or the adoption of a new set of standing orders requires, in every case, a vote of not less than 75% of the members present.
 (4) A local authority or committee may temporarily suspend standing orders during a meeting by a vote of not less than 75% of the members present and voting, and the reason for the suspension must be stated in the resolution of suspension.
-(5) Where a local authority wishes to permit the use of audio link or audiovisual link for the purposes of clause 25A(1)(a), the local authority—
+(5) Where a local authority wishes to permit the use of audio link or audiovisual link for the purposes of clause 25A(1)﻿(a), the local authority—
   (a) must first provide for this matter in its standing orders; and
   (b) may include in its standing orders matters concerning the use of audio links or audiovisual links at meetings, including, without limitation,—
     (i) specifying the type or types of meeting at which members may participate by way of audio link or audiovisual link; and
@@ -6128,7 +6128,7 @@ An act or proceeding of a local authority or committee, or of a person acting as
 (10)
 
 ### 30A Joint committees
-(1) A local authority may not appoint a joint committee under clause 30(1)(b) unless it has first reached agreement with every other local authority or public body that is to appoint members of the committee.
+(1) A local authority may not appoint a joint committee under clause 30(1)﻿(b) unless it has first reached agreement with every other local authority or public body that is to appoint members of the committee.
 (2) An agreement under subclause (1) must specify—
   (a) the number of members each local authority or public body may appoint to the committee; and
   (b) how the chairperson and deputy chairperson of the committee are to be appointed; and
@@ -6137,7 +6137,7 @@ An act or proceeding of a local authority or committee, or of a person acting as
   (e) how the agreement may be varied.
 (3) An agreement under subclause (1) may also specify any other matter relating to the appointment, operation, or responsibilities of the committee that the parties agree.
 (4) A local authority or public body must not enter into an agreement under subclause (1) that is inconsistent with any enactment applying to that local authority or public body, or its members.
-(5) A joint committee appointed under clause 30(1)(b) is deemed to be both a committee of the appointing local authority and a committee of each other local authority or public body that has appointed members to the committee.
+(5) A joint committee appointed under clause 30(1)﻿(b) is deemed to be both a committee of the appointing local authority and a committee of each other local authority or public body that has appointed members to the committee.
 (6) This Part applies to a joint committee except that—
   (a) the powers to discharge any individual member and appoint another in his or her stead must be exercised by the local authority or public body that made the appointment; and
   (b) the quorum at a meeting of the committee consists of—
@@ -6236,7 +6236,7 @@ The local authority must, in making an appointment under section 42, have regard
   (a) the performance of the chief executive; and
   (b) the mix of skills and attributes possessed by the chief executive, and the degree to which they are consistent with the skills and attributes that the local authority considers necessary for the future; and
   (c) any other factors that the local authority considers relevant.
-(3) To avoid doubt, responsibility for determining the degree to which any factors in subclause (2)(a) and (b) apply to a review, and the relevance of any additional factors under subclause (2)(c), rests solely with the local authority.
+(3) To avoid doubt, responsibility for determining the degree to which any factors in subclause (2)﻿(a) and (b) apply to a review, and the relevance of any additional factors under subclause (2)﻿(c), rests solely with the local authority.
 (4) Subclause (1) does not apply if the incumbent chief executive declares in writing to the local authority that he or she does not wish to be considered for appointment to a second term.
 
 ### 36 Local authority to be good employer
@@ -6269,8 +6269,8 @@ The local authority must, in making an appointment under section 42, have regard
 Each member of each local board must comply with the code of conduct adopted by the governing body under clause 15.
 
 ### 36C Delegations to local boards from governing body
-(1) The governing body may delegate to a local board any of its responsibilities, duties, and powers, except the powers described in clause 32(1)(a) to (f).
-(2) However, nothing in subclause (1) restricts the governing body's power to delegate to a local board the power to do anything precedent to the exercise by the governing body of any power referred to in clause 32(1)(a) to (f).
+(1) The governing body may delegate to a local board any of its responsibilities, duties, and powers, except the powers described in clause 32(1)﻿(a) to (f).
+(2) However, nothing in subclause (1) restricts the governing body's power to delegate to a local board the power to do anything precedent to the exercise by the governing body of any power referred to in clause 32(1)﻿(a) to (f).
 (3) In deciding whether to make a delegation, the governing body must weigh the benefits of reflecting local circumstances and preferences (through a delegation) against the importance and benefits of using a single approach in the district (through itself retaining the responsibility, duty, or power concerned).
 (4) A local board to which the governing body has delegated a responsibility, duty, or power may, without confirmation by the governing body, exercise or perform the responsibility, duty, or power in the same manner and with the same effect as the governing body could have exercised or performed it.
 (5) No delegation under this section relieves the governing body of the liability or legal responsibility to perform or ensure the performance of any responsibility or duty.
@@ -6330,7 +6330,7 @@ The board may, by written notice, modify a statement of intent at any time if th
     (ii) any shorter period that the shareholders may agree.
 
 ### 5 Modifications of statements of intent by resolution of shareholders
-(1) Despite any other provision of the Act or of the constitution of any council-controlled organisation, the shareholders of a council-controlled organisation may, by resolution, require the board to modify the statement of intent by including or omitting any provision or provisions of the kind referred to in clause 9(1)(a) to (i), and any board to whom notice of the resolution is given must comply with the resolution.
+(1) Despite any other provision of the Act or of the constitution of any council-controlled organisation, the shareholders of a council-controlled organisation may, by resolution, require the board to modify the statement of intent by including or omitting any provision or provisions of the kind referred to in clause 9(1)﻿(a) to (i), and any board to whom notice of the resolution is given must comply with the resolution.
 (2) Before giving notice of the resolution to the board, the shareholders must consult the board concerned as to the matters to be referred to in the notice.
 
 ### 6 Statement of intent required if exemption granted under section 7 revoked
@@ -6467,7 +6467,7 @@ A long-term plan must, in relation to each council-controlled organisation,—
     (iii) the key performance targets and other measures by which performance is to be judged.
 
 ### 8 Development of Māori capacity to contribute to decision-making processes
-A long-term plan must set out any steps that the local authority intends to take, having undertaken the consideration required by section 81(1)(b), to foster the development of Māori capacity to contribute to the decision-making processes of the local authority over the period covered by that plan.
+A long-term plan must set out any steps that the local authority intends to take, having undertaken the consideration required by section 81(1)﻿(b), to foster the development of Māori capacity to contribute to the decision-making processes of the local authority over the period covered by that plan.
 
 ### 9 Financial strategy and infrastructure strategy
 A long-term plan must include a local authority's financial strategy described under section 101A and infrastructure strategy described under section 101B.
@@ -6516,7 +6516,7 @@ If the local authority has resolved, under section 100(2), not to balance its op
   (d) if the targeted rate is set differentially, state the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category; and
   (e) state whether lump sum contributions will be invited in respect of the targeted rate.
 (5) If the sources of funding include a general rate or a targeted rate, the funding impact statement must, for the first year covered by the long-term plan, include examples of the impact of the rating proposals in subclauses (3) and (4) on the rates assessed on different categories of rateable land with a range of property values.
-(6) If the same source of funding is to be used in more than 1 of the years covered by the long-term plan, in order to comply with subclauses (2)(a), (3), and (4) with respect to that source, it is sufficient—
+(6) If the same source of funding is to be used in more than 1 of the years covered by the long-term plan, in order to comply with subclauses (2)﻿(a), (3), and (4) with respect to that source, it is sufficient—
   (a) to comply with those subclauses in relation to 1 of those years; and
   (b) for the funding impact statement to specify the other years in respect of which that source is to be used.
 
@@ -6641,7 +6641,7 @@ An annual report must include an audited statement that—
   (b) compare the information in paragraph (a) with information included in the long-term plan in accordance with clause 5(2).
 
 ### 27 Internal borrowing
-(1) This clause applies to borrowing of the type described in paragraph (b)(iii) of the definition of borrowing in section 112 (internal borrowing).
+(1) This clause applies to borrowing of the type described in paragraph (b)﻿(iii) of the definition of borrowing in section 112 (internal borrowing).
 (2) In relation to each group of activities of the local authority, an annual report must include—
   (a) a statement of the amount of internal borrowing used for the purpose of the group of activities; and
   (b) the amount of funds borrowed and repaid during the year; and
@@ -6659,7 +6659,7 @@ An annual report must include, in relation to each council-controlled organisati
   (b) audited consolidated financial statements for the financial year; and
   (c) such other information as is necessary to enable an informed assessment of the operations of each entity reported on; and
   (d) the numerical information from the statements described in paragraphs (a) and (b) for the financial year before the financial year to which the report relates.
-(2) The numerical information described in subclause (1)(d) must be presented in a way that allows the public to compare the information with the numerical information contained in the forecast financial statements for the financial year covered by the report.
+(2) The numerical information described in subclause (1)﻿(d) must be presented in a way that allows the public to compare the information with the numerical information contained in the forecast financial statements for the financial year covered by the report.
 
 ### 30 Funding impact statement
 (1) An annual report must include an audited funding impact statement for the financial year to which the report relates.
@@ -6707,7 +6707,7 @@ An annual report must state, as at the end of the financial year,—
   (b) the full-time equivalent number of all other employees; and
   (c) the number of employees receiving total annual remuneration of less than $60,000; and
   (d) the number of employees receiving total annual remuneration of $60,000 or more, expressed in bands of $20,000.
-(3) However, if the number of employees in any band to which subclause (2)(d) applies is 5 or fewer, the number for that band must be combined with the next-highest band and the statement in the report in relation to that subclause must be adjusted accordingly.
+(3) However, if the number of employees in any band to which subclause (2)﻿(d) applies is 5 or fewer, the number for that band must be combined with the next-highest band and the statement in the report in relation to that subclause must be adjusted accordingly.
 (4) In subclause (2), total annual remuneration includes the value of any non-financial benefit that, during the year, was paid to an employee, or was payable to an employee, by the local authority.
 (5) The report requirement in this clause applies to—
   (a) the financial year ending 30 June 2013; and
@@ -6746,15 +6746,15 @@ An annual report must include a report on the activities that the local authorit
 (1) A pre-election report must include,—
   (a) for the 3 financial years immediately preceding the date of the election,—
     (i) the funding impact statement referred to in clause 30; and
-    (ii) a summary balance sheet based on the financial statements referred to in clause 29(1)(a) that discloses public debt and financial assets separately; and
+    (ii) a summary balance sheet based on the financial statements referred to in clause 29(1)﻿(a) that discloses public debt and financial assets separately; and
     (iii) a statement that compares—
       (A) rates, rate increases, and borrowing with the quantified limits specified in the financial strategy; and
       (B) returns on investments with the quantified targets for returns on those investments specified in the financial strategy; and
   (b) for the 3 financial years immediately following the date of the election,—
-    (i) the information included in the funding impact statement in accordance with clause 15(2)(b) and (c); and
+    (i) the information included in the funding impact statement in accordance with clause 15(2)﻿(b) and (c); and
     (ii) a summary balance sheet based on the forecast financial statements referred to in clause 12(1) that discloses public debt and financial assets separately; and
   (c) the major projects planned for the 3 financial years immediately following the date of the election.
-(2) Despite subclause (1)(a), the information to be included in the pre-election report for the financial year ending in the same year as the election in accordance with that subclause may—
+(2) Despite subclause (1)﻿(a), the information to be included in the pre-election report for the financial year ending in the same year as the election in accordance with that subclause may—
   (a) be based on estimated information; and
   (b) need not be audited.
 
@@ -6766,7 +6766,7 @@ An annual report must include a report on the activities that the local authorit
   (c) a statement that compares—
     (i) rates, rate increases, and borrowing with the quantified limits specified in the financial strategy; and
     (ii) returns on investments with the quantified targets for returns on those investments specified in the financial strategy.
-(3) The pre-election report must comply with this clause only if it does not comply with clause 36(1)(a) and (2).
+(3) The pre-election report must comply with this clause only if it does not comply with clause 36(1)﻿(a) and (2).
 
 ## Schedule 11 — Matters relating to rates relief on Māori freehold land
 
@@ -6795,7 +6795,7 @@ The objectives referred to in clause 1 are—
 ## Schedule 12 — Conditions of constructing or undertaking works on private land without the owner's consent
 
 ### 1
-For the purposes of section 181(3)(b), the requirements are as follows:
+For the purposes of section 181(3)﻿(b), the requirements are as follows:
 (a) a description of the works, accompanied by a plan (in the case of any works to be constructed), showing how they affect any land or building, must be deposited for public inspection at a place within the district in which the works are to be undertaken:
 (b) the territorial authority must give notice in writing of the intention to construct the works (referring to a plan and description of the works and where the plan and description can be viewed)—
   (i) to the occupier of the land or building unless there is no occupier or, after all reasonable steps have been taken, the occupier cannot be found; and
@@ -6938,9 +6938,9 @@ A hearing on an objection need not be held if—
   (a) by delivering it to the person summoned; or
   (b) by posting it by registered letter addressed to the person summoned at that person's usual place of abode.
 (2) The summons must,—
-  (a) if served under subclause (1)(a), be served at least 24 hours before the attendance of the witness is required:
-  (b) if served under subclause (1)(b), be served at least 10 days before the date on which the attendance of the witness is required.
-(3) If the summons is posted by registered letter, it must be treated for the purposes of subclause (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
+  (a) if served under subclause (1)﻿(a), be served at least 24 hours before the attendance of the witness is required:
+  (b) if served under subclause (1)﻿(b), be served at least 10 days before the date on which the attendance of the witness is required.
+(3) If the summons is posted by registered letter, it must be treated for the purposes of subclause (2)﻿(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
 
 ### 14 Service of notices
 (1) Where a notice or other document is to be served on a person for the purpose of section 199I or this schedule, it may be given—
@@ -6949,7 +6949,7 @@ A hearing on an objection need not be held if—
   (c) by sending it by prepaid post addressed to the person at the usual or last known place of residence or business of the person.
 (2) Where a notice or document is to be served on a corporation for the purposes of section 199I or this schedule, service on an officer of the corporation, or on the registered office of the corporation, in accordance with subclause (1) is deemed to be service on the corporation.
 (3) Where a notice or document is to be served on a partnership for the purposes of section 199I or this schedule, service on any one of the partners in accordance with subclause (1) or (2) is deemed to be service on the partnership.
-(4) Where a notice or document is sent by post to a person in accordance with subclause (1)(c), the notice or document is deemed, in the absence of proof to the contrary, to have been given on the third day after the day on which it was posted.
+(4) Where a notice or document is sent by post to a person in accordance with subclause (1)﻿(c), the notice or document is deemed, in the absence of proof to the contrary, to have been given on the third day after the day on which it was posted.
 
 ### 15 Evidence
 The development contributions commissioners may, for the purposes of a hearing,—
@@ -6975,7 +6975,7 @@ If the District Court makes a removal order under section 216, it may—
 ### 2 Service of removal order
 If a removal order is made under section 216, the Judge may, on application or on his or her own motion, give directions—
   (a) as to the manner in which the order must be served on any person on whom the order must be served under clause 3(a); and
-  (b) that the order must be served on any person not referred to in clause 3(a)(i) to (iv) who is likely to be affected by the outcome of the proceedings; and
+  (b) that the order must be served on any person not referred to in clause 3(a)﻿(i) to (iv) who is likely to be affected by the outcome of the proceedings; and
   (c) as to any other matter relating to service of the order on any person.
 
 ### 3 Basis for removal order taking effect
@@ -7016,7 +7016,7 @@ A removal order may be made under section 216 even if the fence, structure, or v
 (2) Subject to subclause (4), the Registrar must assign a date for an oral hearing of any objection as soon as practicable if the respondent or, if the respondent is not the owner of the property to which the order relates, the owner of the property—
   (a) objects to the making of the order; and
   (b) notifies the court that he or she wishes to be heard in person or to be represented by his or her lawyer.
-(3) If a person described in clause 3(a)(iii), (iv), or (v) objects to the making of the order and notifies the court that he or she wishes to be heard in person or to be represented by his or her lawyer, the court may,—
+(3) If a person described in clause 3(a)﻿(iii), (iv), or (v) objects to the making of the order and notifies the court that he or she wishes to be heard in person or to be represented by his or her lawyer, the court may,—
   (a) if the court is satisfied that there should be an oral hearing, assign a date for the hearing of the objection, which date, subject to subclause (4), must be as soon as practicable; or
   (b) if the court thinks fit, decide the objection without holding an oral hearing.
 (4) If an oral hearing is to be held in accordance with subclause (2), or if the court decides under subclause (3) that there should be an oral hearing, the court may assign a date for the objections to be heard together.
@@ -7076,7 +7076,7 @@ This Act is the Local Government Act 2002 Amendment Act 2010.
 (1) This section applies to an annual plan that relates to the period—
   (a) 1 July 2010 to 30 June 2011; or
   (b) 1 July 2011 to 30 June 2012.
-(2) The amendments made by this Act to section 85(2)(a) and Schedule 10 of the principal Act do not apply to an annual plan specified in subsection (1), and nothing in this Act requires that annual plan to be amended to ensure it complies with the requirements of the principal Act as amended by this Act.
+(2) The amendments made by this Act to section 85(2)﻿(a) and Schedule 10 of the principal Act do not apply to an annual plan specified in subsection (1), and nothing in this Act requires that annual plan to be amended to ensure it complies with the requirements of the principal Act as amended by this Act.
 
 ### 53 Transitional provision for audit of information in annual report and summary
 (1) This section applies to an annual report that relates to the period—
@@ -7087,7 +7087,7 @@ This Act is the Local Government Act 2002 Amendment Act 2010.
 (3) The amendments made by this Act to section 99 of the principal Act do not apply to the auditor's report on the annual reports specified in subsection (1).
 
 ### 54 Transitional provision for pre-election report
-(1) Despite section 99A of the principal Act (as inserted by section 17 of this Act), a pre-election report required in relation to the triennial general election of local authorities in 2013 need not comply with clause 36(1)(a)(i) and (iii) of Schedule 10 of the principal Act (as substituted by this Act), but must instead include—
+(1) Despite section 99A of the principal Act (as inserted by section 17 of this Act), a pre-election report required in relation to the triennial general election of local authorities in 2013 need not comply with clause 36(1)﻿(a)﻿(i) and (iii) of Schedule 10 of the principal Act (as substituted by this Act), but must instead include—
   (a) the funding impact statement referred to in clause 30 of Schedule 10 of the principal Act (as substituted by this Act) for the financial year ending in 2013; and
   (b) a summary of cash flows based on the financial statements referred to in clause 29 of Schedule 10 of the principal Act (as substituted by this Act) for the last 3 years ending before the date of the election in 2013.
 (2) The summary of cash flows must disclose income from rates and payments for property, plant, equipment, and intangible assets separately.
