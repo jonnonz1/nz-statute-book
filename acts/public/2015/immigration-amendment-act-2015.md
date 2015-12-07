@@ -1,5 +1,5 @@
 # Immigration Amendment Act 2015
-_Consolidation as at 2015-05-06_
+_Consolidation as at 2015-12-07_
 
 ### 1 Title
 This Act is the Immigration Amendment Act 2015.
@@ -882,7 +882,7 @@ After section 463(1), insert:
 Sections 111 and 112 amend the Immigration (Certificate, Warrant, and Other Forms) Regulations 2010.
 
 ### 111 New regulation 5A inserted (Certificate requiring surrender of documents held by third party)
-After regulation 5, insert: Certificate requiring surrender of documents held by third party
+After regulation 5, insert:Certificate requiring surrender of documents held by third party
   A certificate given by an immigration officer for the purpose in section 281A(1)﻿(c) of the Act (for the surrender of a document by a third party) must be in form 2A of the Schedule.
 
 ### 112 New form 2A inserted in Schedule
