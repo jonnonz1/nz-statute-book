@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2015-11-06_
+_Consolidation as at 2015-12-07_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -5378,22 +5378,41 @@ Sections 386A to 387A are default rules that apply subject to any other provisio
 (7) Any costs recovered under this section must be paid into a Crown Bank Account.
 (8) Nothing in this section or in section 55, 118, or 355 authorises the Crown to recover any particular cost more than once.
 
-### 399 Migrant levy
-(1) Any regulations made under section 400 may provide for the imposition and collection of a migrant levy on persons who are granted a visa.
+### 399 Immigration levy
+(1) Any regulations made under section 400 may provide for the imposition and collection of an immigration levy on applicants for a visa.
 (2) The purpose of the levy is to fund, or contribute to the funding of,—
   (a) the provision of programmes intended to assist the successful settlement of migrants or categories of migrants; and
-  (b) the carrying out of research into settlement issues and the impacts of immigration.
+  (b) the carrying out of research into settlement issues and the impacts of immigration; and
+  (c) the infrastructure required for, and the operation of, the immigration system, including (without limitation) for the following purposes:
+    (i) establishing and verifying the identity of persons:
+    (ii) managing risk to the integrity of the immigration system:
+    (iii) managing immigration risk to the safety and security of New Zealand:
+    (iv) managing compliance with the immigration system; and
+  (d) activities aimed at attracting migrants to New Zealand; and
+  (e) the Immigration Advisers Authority, to the extent that it is not otherwise funded.
 (3) Regulations made for the purposes of this section may—
-  (a) specify the categories or classes of migrant who are liable to pay the migrant levy:
+  (a) specify the categories or classes of applicants who are liable to pay the immigration levy:
   (b) prescribe the amount or method of calculation of the levy:
-  (c) prescribe different amounts or methods of calculation of the levy in respect of different categories or classes of migrant:
+  (c) prescribe different amounts or methods of calculation of the levy in respect of different categories or classes of applicants:
   (d) provide for exemptions from or refunds of the levy, in whole or in part, in any class of case:
-  (e) provide for the manner of collection of the levy, including provision for the relevant amount of levy to be deposited with the chief executive pending the grant of a visa.
+  (e) provide for the manner of collection of the levy, including provision for the relevant amount of levy to be deposited with the chief executive.
+(3A) The Minister may, by special direction,—
+  (a) exempt any person or persons from the obligation to pay all or part of the levy; or
+  (b) refund all or part of a levy paid.
 (4) All levy money collected under this section must be paid into a Crown Bank Account.
 (5) Not later than 1 October in each year, the chief executive must provide to the Minister a report setting out, in respect of the financial year ending on the preceding 30 June,—
-  (a) the amount collected through the migrant levy; and
-  (b) how the amount of the migrant levy was applied.
+  (a) the amount collected through the immigration levy; and
+  (b) how the amount of the immigration levy was applied.
 (6) The Minister must present the report to the House of Representatives not later than 15 sitting days after its receipt.
+(7) In this subsection and subsection (8),—
+  - **commencement date** means that date on which section 102 of the Immigration Amendment Act 2015 came into force
+  - **migrant levy** means the levy payable under this section immediately before the commencement date
+  - **relevant person** means a person who, immediately before the commencement date, was a person who—
+    (a) had applied for, but had not yet been granted, a visa; and
+    (b) would have been liable to pay the migrant levy if the visa had been granted before the commencement date.
+(8) On and after the commencement date,—
+  (a) a relevant person is not liable to pay, in respect of an application for a visa made before the commencement date, the immigration levy imposed by regulations that apply after the commencement date; but
+  (b) if the relevant person is granted a visa on the basis of that application, he or she is liable to pay the migrant levy that would have been payable if section 102 of the Immigration Amendment Act 2015 had not come into force.
 
 **Regulations**
 
@@ -6054,10 +6073,6 @@ The definition of fine in section 141AD is amended by adding the following parag
   (d) any levy payable under the Sentencing Act 2002
 
 ## Schedule 1 — Convention Relating to the Status of Refugees
-
-| Entry into force: 22 April 1954, in accordance with Article 43 |
-| --- |
-| Text: United Nations Treaty Series No. 2545, Vol. 189, p. 137 |
 
 | Entry into force: 4 October 1967, in accordance with Article VIII |
 | --- |
