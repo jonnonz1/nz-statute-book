@@ -1,5 +1,5 @@
 # Subordinate Legislation (Confirmation and Validation) Act 2014
-_Consolidation as at 2014-12-11_
+_Consolidation as at 2015-12-11_
 
 ### 1 Title
 This Act is the Subordinate Legislation (Confirmation and Validation) Act 2014.
