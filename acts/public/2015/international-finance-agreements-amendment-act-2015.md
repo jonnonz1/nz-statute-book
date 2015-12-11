@@ -1,5 +1,5 @@
 # International Finance Agreements Amendment Act 2015
-_Consolidation as at 2015-11-16_
+_Consolidation as at 2015-12-11_
 
 ### 1 Title
 This Act is the International Finance Agreements Amendment Act 2015.
