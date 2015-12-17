@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2014-07-28_
+_Consolidation as at 2015-12-17_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -41,19 +41,7 @@ _Consolidation as at 2014-07-28_
 **Aupouri Maori Trust Board**
 
 ### 5 Aupouri Maori Trust Board
-(1) The body corporate constituted pursuant to section 21 of the Maori Purposes Act 1953, under the name of the Aupouri Trust Board, shall continue to exist and shall henceforth be known as the Aupouri Maori Trust Board.
-(2) The beneficiaries of the Board are hereby declared to be the members of the Aupouri tribe and their descendants.
-(3) The Māori Trustee shall, from time to time, pay to the Board:
-  (a) the income derived from the investment of the money held by the Māori Trustee, being the proceeds of the sale of certain of the communal businesses and undertakings at Te Kao and elsewhere and referred to in subsection (1) of section 10 of the Maori Purposes Act 1946; and
-  (b) the income derived from the lands at Te Kao and elsewhere, described in subsection (4), and the income derived from the investment of the purchase money obtained from the sale by the Māori Trustee of the said lands or any part of the said lands.
-(4) The lands to which paragraph (b) of subsection (3) relates are particularly described as follows:
-  (a) 2 840 acres, more or less, situate in Blocks IV and VIII, Muriwhenua Survey District, and known as Parengarenga 5B 1, vested in the Māori Trustee under section 8 of the Maori Purposes Act 1943 by an order of the Maori Land Court dated 11 December 1947; and
-  (b) 1 acre 3 roods and 16 perches, more or less, being part of Te Kao No 71, vested in the Māori Trustee under section 10 of the Maori Purposes Act 1946 by an order of the Maori Land Court dated 23 September 1952.
-(5) The trustees in whom for the time being the land or any part thereof described in subsection (6) is vested shall, from time to time, pay to the Board the income derived from the said land and the income derived from the investment of the purchase money obtained from the sale by the trustees of the said land or any part of the said land.
-(6) The land to which subsection (5) relates is particularly described as follows:865 acres 3 roods and 32 perches, more or less, being Sections 4, 5, 6, 7, and 8, Block XVI, Muriwhenua Survey District, known locally as part of Wairahi, vested in trustees by an order of the Maori Land Court under section 29 of the Maori Land Act 1931 dated 30 April 1953.
-(7) Where pursuant to the foregoing provisions of this section any income derived from any property is payable to the Board, all or any part of the property, whether real or personal, may, on the application of the Board or of the Māori Trustee, be vested in the Board by order of the Maori Land Court.
-(8) Any property vested in it under subsection (7) shall become assets of the Board and shall be administered in accordance with this Act.
-(9) All property which immediately before the date of the vesting order was held by the Māori Trustee as a capital asset shall, when vested in the Board, become a capital asset of the Board.
+[Repealed]
 
 **Ngaitahu Maori Trust Board**
 
@@ -97,7 +85,7 @@ _Consolidation as at 2014-07-28_
 ### 11 Wairoa-Waikaremoana Maori Trust Board
 (1) The body corporate constituted pursuant to section 29 of the Maori Purposes Act 1949, under the name of the Wairoa-Waikaremoana Maori Trust Board, shall continue to exist under that name.
 (2) The beneficiaries of the Board are hereby declared to be the members of the Ngati Kahungunu tribe residing in the Borough of Wairoa or the County of Wairoa together with the persons (wherever resident) whose names are comprised in the Ngati Kahungunu portion of the list of owners of Lake Waikaremoana, as certified by the Registrar of the Maori Land Court pursuant to subsection (3) of section 9 of the Lake Waikaremoana Act 1971, and the descendants (wherever resident) of those persons.
-(3) The sum of 20,000 pounds of the Board's funds shall be invested by the Board in any manner authorized by or under the Trustee Act 1908 or any other Act for the investment of trust funds.
+(3) The sum of 20,000 pounds of the Board's funds shall be invested by the Board in any manner authorised by or under the Trustee Act 1908 or any other Act for the investment of trust funds.
 (4) Any investment made pursuant to subsection (3) may, with the approval of the Minister, be converted into money for expenditure by the Board on purposes approved by him.
 
 **Whakatohea Maori Trust Board**
@@ -223,15 +211,15 @@ Each committee shall be subject in all things to the control of the Board by whi
 (2) Without limiting the general provisions hereinbefore contained, it is hereby declared that each Board may, from time to time, subject to the provisions of this Act, apply money towards all or any of the following purposes:
   (a) the promotion of health:
     (i) by installing or making grants or loans towards the cost of installing water supplies, sanitation works, and drainage in Maori settlements;
-    (ii) by promoting, carrying out, or subsidizing housing schemes, or by making grants or loans for any such schemes; or
-    (iii) by providing, subsidizing, or making grants for medical, nursing, or dental services:
+    (ii) by promoting, carrying out, or subsidising housing schemes, or by making grants or loans for any such schemes; or
+    (iii) by providing, subsidising, or making grants for medical, nursing, or dental services:
   (b) the promotion of social and economic welfare:
     (i) by making grants or loans for the relief of indigence or distress;
-    (ii) by developing, subsidizing, or making grants or loans for farming or other industries;
+    (ii) by developing, subsidising, or making grants or loans for farming or other industries;
     (iii) by making grants or loans towards the cost of the construction, establishment, management, maintenance, repair, or improvement of Maori meeting houses, halls, churches and church halls, villages, maraes, or cemeteries;
     (iv) by establishing, maintaining, and equipping hostels for the purpose of providing either permanent or temporary accommodation;
     (v) by making grants or loans towards the establishment of recreational centres for the common use of any Maori community and for such other uses as the Board thinks fit;
-    (vi) by promoting, carrying out, or subsidizing roading schemes, power schemes, or such other schemes as the Board thinks fit, or by making grants or loans for any such schemes; or
+    (vi) by promoting, carrying out, or subsidising roading schemes, power schemes, or such other schemes as the Board thinks fit, or by making grants or loans for any such schemes; or
     (vii) by purchasing, acquiring, holding, selling, disposing of, or otherwise turning to account shares in any body corporate that has as one of its principal objects the economic or social advancement of Maoris, or the development of land:
   (c) the promotion of education and vocational training:
     (i) by assisting in the establishment of schools, and in the equipping, managing, and conducting of schools; by making grants of money, equipment, or material to schools or other educational or training institutions; or by making grants to funds established or bodies formed for the promotion of the education of Maoris or for assisting Maoris to obtain training or practical experience necessary or desirable for any trade or occupation;
@@ -267,7 +255,7 @@ Notwithstanding anything in any other provision of this Act, a Board may accept 
 (2) In any case to which subsection (1) applies, the Board may do anything required of it by the terms of any contract or the conditions of any grant, notwithstanding any other provisions of this Act.
 
 ### 24E Board may be appointed in place of committee of management
-A Board may accept appointment by the Maori Land Court under section 61(6)(c) of the Maori Affairs Amendment Act 1967 to exercise all the powers of a committee of management of a Maori incorporation if the shareholders in the incorporation, or a majority of them, are beneficiaries of the Board.
+A Board may accept appointment by the Maori Land Court under section 61(6)﻿(c) of the Maori Affairs Amendment Act 1967 to exercise all the powers of a committee of management of a Maori incorporation if the shareholders in the incorporation, or a majority of them, are beneficiaries of the Board.
 
 ### 24F Board may contract to provide services to other bodies
 A Board may contract to provide administrative, secretarial, accounting, or other services to any Maori incorporation, trust, or other body if the shareholders, beneficiaries, or members of the incorporation, trust, or other body, or a majority of them, are beneficiaries of the Board.
@@ -300,12 +288,12 @@ For any of the purposes of this Act, each Board may, from time to time,—
 (1) Subject to any express provisions in this or any other enactment, all money belonging to each Board shall, within 14 days of receipt, be paid into a bank account to be called The [name of Board] Maori Trust Board Account.
 (2) No money shall be withdrawn from a Maori Trust Board Account except with the authority of the Board and by cheque or other instrument signed by 2 members or by 1 member and the Secretary.
 
-### 29 Minister may authorize countersigning officer
+### 29 Minister may authorise countersigning officer
 [Repealed]
 
 ### 30 Books of account
 (1) Each Board shall cause full and accurate accounts to be kept of all money received and paid by it.
-(2) Any member or any duly authorized officer of a Board, or any person duly authorized in that behalf by the Minister, or any beneficiary, may at all reasonable times inspect the books of the Board and take copies of or extracts from them free of charge.
+(2) Any member or any duly authorised officer of a Board, or any person duly authorised in that behalf by the Minister, or any beneficiary, may at all reasonable times inspect the books of the Board and take copies of or extracts from them free of charge.
 
 ### 30A Auditor-General to be auditor of Board
 [Repealed]
@@ -353,7 +341,7 @@ Before the start of an accounting period, a Board must prepare a budget for the 
   (a) recommend the removal from office of any member or members of the Board under section 16:
   (b) require the Board to terminate the employment or appointment of any of its servants or officers:
   (c) require the Board to exercise any power or do any act which it may lawfully exercise or do.
-(8) If within 1 month after the receipt by the Board of a requisition in writing by the Minister under paragraph (b) or paragraph (c) of subsection (7), the Board fails or neglects to comply with the requisition, or, having commenced any action required, at any time thereafter fails or neglects to complete the action to the satisfaction of the Minister, the Minister may, by writing under his hand, authorize some officer of the Public Service to take action in the name of the Board to fulfil the requisition.
+(8) If within 1 month after the receipt by the Board of a requisition in writing by the Minister under paragraph (b) or paragraph (c) of subsection (7), the Board fails or neglects to comply with the requisition, or, having commenced any action required, at any time thereafter fails or neglects to complete the action to the satisfaction of the Minister, the Minister may, by writing under his hand, authorise some officer of the Public Service to take action in the name of the Board to fulfil the requisition.
 (9) Every act done pursuant to an authority given by the Minister under subsection (8) shall have the same force and effect as if it had been done by the Board concerned, and every instrument of alienation executed pursuant to any such authority shall have the same force and effect and may be registered in the same manner as if it had been lawfully executed by the Board.
 (10) Where during any investigation directed under subsection (1), a Board or any of its members, servants, officers, or agents fails or neglects to comply with the requirements of subsection (6), the Minister shall have and may exercise the powers conferred on him by subsections (7) and (8), notwithstanding that the investigation is not completed and that no report thereon has been delivered to the Minister.
 
@@ -492,7 +480,7 @@ Where in the opinion of the Governor-General irregularities have occurred in res
   (b) providing for the representation of specific sections or divisions of the beneficiaries of a Board by individual members thereof:
   (c) providing for the method of election by beneficiaries of a Board, of candidates for membership of the Board:
   (d) limiting or regulating the rights of persons who do not reside in the appropriate area to stand for election, or to nominate any candidate for election, or to vote in an election.
-(3A) Any regulations made pursuant to subsection (3)(d) shall have effect according to their tenor notwithstanding anything to the contrary in this Act.
+(3A) Any regulations made pursuant to subsection (3)﻿(d) shall have effect according to their tenor notwithstanding anything to the contrary in this Act.
 (4)
 
 ### 57 Repeals and savings
@@ -550,6 +538,6 @@ This order comes into force on 10 August 2012.
 
 ### 3 Transition dates for specified Māori Trust Boards
 For the purpose of implementing sections 23C, 23D, and 31 to 32 of the Maori Trust Boards Act 1955 (as amended by the Maori Trust Boards Amendment Act 2011), the transition date for—
-  (a) the Tauranga Māori Trust Board is 1 July 2012:
+  (a) the Tauranga Moana Māori Trust Board is 1 July 2012:
   (b) the Tūwharetoa Māori Trust Board is 1 July 2012:
   (c) the Whakatōhea Māori Trust Board is 1 July 2012.
