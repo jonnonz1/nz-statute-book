@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2015-12-20_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -19,8 +19,8 @@ _Consolidation as at 2015-03-26_
   - **goods** means all kinds of movable personal property, including animals
   - **imported** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
   - **importer** means any person by or for whom any goods are imported; and includes the consignee of any goods and any person who is or becomes the owner of or entitled to the possession of or beneficially interested in any goods on or at any time after their importation and before they have ceased to be subject to the control of the Customs
-  - **least developed country** means any country for the time being declared by Order in Council, under section 7A(1)(c), to be a least developed country for the purposes of this Act
-  - **less developed country** means any country for the time being declared by an Order in Council, under section 7A(1)(d), to be a less developed country for the purposes of this Act
+  - **least developed country** means any country for the time being declared by Order in Council, under section 7A(1)﻿(c), to be a least developed country for the purposes of this Act
+  - **less developed country** means any country for the time being declared by an Order in Council, under section 7A(1)﻿(d), to be a less developed country for the purposes of this Act
   - **manufacturing area** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
   - **Minister** , in any provision, means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of that provision
   - **Normal Tariff** means the rates of duty and the exemptions from duty specified in the column headed Normal Tariff in the Tariff; and includes any modification or amendment thereof that may hereafter be made
@@ -32,8 +32,8 @@ _Consolidation as at 2015-03-26_
   - **ship** means any kind of vessel used in navigation, not propelled by oars only
   - **shipment** includes loading into an aircraft; and and cognate expressions have corresponding meanings
   - **South Pacific Regional Trade and Economic Co-operation Agreement** means the agreement of that name done at Tarawa on 14 July 1980; and includes any modification or amendment of it made after that day
-  - **specified AANZFTA party** means a country that is for the time being declared by Order in Council under section 7A(1)(a) to be a specified AANZFTA party for the purposes of this Act
-  - **specified TPA party** means a country that is for the time being declared by Order in Council under section 7A(1)(b) to be a specified TPA party for the purposes of this Act
+  - **specified AANZFTA party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(a) to be a specified AANZFTA party for the purposes of this Act
+  - **specified TPA party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(b) to be a specified TPA party for the purposes of this Act
   - **Standard Tariff** means Standard Tariff comprised in Part 1 of the Tariff; and includes any modification or amendment thereof that may hereafter be made
   - **statistical key** means the code number and unit identified by 2 numeric and 1 alphabetical digits shown under the heading Statistical Key in the Standard Tariff and includes all the descriptions shown beside such numbers preceded by dots
   - **Tariff** —
@@ -94,10 +94,10 @@ Subject to this Act, the duty (if any) payable under the Normal Tariff shall be 
 (2) The Governor-General may, by an Order in Council making a declaration under subsection (1) about a country or any other Order in Council relating to that country,—
   (a) declare that, in relation to any specified Tariff items, any rate of duty or exemption from duty otherwise applicable to that country is not to apply to that country:
   (b) modify, in whole or in part, the Tariff rates of duty applicable to goods from that country.
-(3) No modification under subsection (2)(b) relating to a specified TPA party or a specified AANZFTA party may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that the modification is—
+(3) No modification under subsection (2)﻿(b) relating to a specified TPA party or a specified AANZFTA party may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that the modification is—
   (a) necessary or advisable in the public interest; and
   (b) consistent with New Zealand's international obligations.
-(4) No modification under subsection (2)(b) relating to a less developed country or a least developed country may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff.
+(4) No modification under subsection (2)﻿(b) relating to a less developed country or a least developed country may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff.
 
 ### 7B Evidence of whether South Pacific Regional Trade and Economic Co-operation Agreement is in force in relation to country
 (1) A certificate given by the Secretary of Foreign Affairs and Trade to the effect that any country is or is not one in relation to which, at the time of the importation or entry of the goods into New Zealand, the South Pacific Regional Trade and Economic Co-operation Agreement was in force for the purposes of this Act is conclusive evidence of that fact.
@@ -181,7 +181,7 @@ An amendment to, or replacement of, provisions incorporated under section 7C has
   (a) the Tariff as from time to time amended, modified, or revoked and replaced on or after 1 January 2010; and
   (b) the 2010 Tariff Document; and
   (c) Orders in Council amending or modifying the Tariff and made under section 9 or 10 on or after 1 January 2010.
-(3) Every version of the Tariff referred to in subsection (2)(a) and published or made available under subsection (1) must—
+(3) Every version of the Tariff referred to in subsection (2)﻿(a) and published or made available under subsection (1) must—
   (a) indicate that it is the Tariff as in force at the beginning of a stated date; and
   (b) list all Acts and Orders in Council that are enacted on or after 1 January 2010 and before the stated date and that amend, modify, revoke, or revoke and replace some or all of the Tariff.
 (4) Nothing in section 9A or this section prevents the chief executive from ensuring that other information is published or made available with the Tariff, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, the Tariff.ExampleExamples of other information are—the Excise and Excise-equivalent Duties Table (as that term is defined in the Customs and Excise Act 1996):details of prohibited imports:tables explaining the correlation between former and current Tariff items.
@@ -215,7 +215,7 @@ Every reference in the following to the Tariff or to Schedule 1 of the Tariff Ac
   (a) by revoking, or amending any heading, heading number, subheading, item, or item number, or the title of any Part, section, chapter, or subchapter of the Tariff, or by inserting any new heading, heading number, subheading, item, or item number, or title, in such manner as is necessary for the purpose of ensuring that the Tariff conforms to any international nomenclature; or
   (b) by revoking, suspending, or amending any provision of the notes forming part of the Tariff, or by inserting any new provision in the notes, for the purpose of ensuring the proper operation of the Tariff; or
   (c) by revoking, suspending, or amending any statistical requirements of the Tariff.
-(2) Notwithstanding anything in subsection (1)(c), the Minister may, by notice in the Gazette, revoke, suspend, or amend any statistical requirement of the Tariff.
+(2) Notwithstanding anything in subsection (1)﻿(c), the Minister may, by notice in the Gazette, revoke, suspend, or amend any statistical requirement of the Tariff.
 (3) The statistical requirements of the Tariff shall be those set out in the columns headed Statistical Key in the Tariff, including any amendment thereof that may hereafter be made.
 (4) No amendment made pursuant to this section shall alter the duties or exemptions from duty applicable to goods classified under any item or heading so amended.
 
@@ -253,7 +253,8 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
     (a) the Thai FTA; or
     (b) the China FTA; or
     (c) the AANZFTA and AANZFTA side instruments that relate to safeguards; or
-    (d) the Malaysia FTA
+    (d) the Malaysia FTA; or
+    (e) the Republic of Korea FTA
   - **industry** , in relation to any goods, means—
     (a) the New Zealand producers, as a whole, of like or directly competitive goods; or
     (b) the New Zealand producers of like or directly competitive goods whose collective output constitutes a major proportion of the total production of those goods
@@ -262,6 +263,7 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
     (b) in the absence of goods referred to in paragraph (a), goods that have characteristics closely resembling those goods
   - **Malaysia FTA** means the Malaysia–New Zealand Free Trade Agreement done at Kuala Lumpur on 26 October 2009
   - **provisional transitional safeguard measure** means a provisional transitional safeguard measure applied under section 15H
+  - **Republic of Korea FTA** means the Free Trade Agreement between New Zealand and the Republic of Korea done at Seoul on 23 March 2015
   - **serious injury** means a significant overall impairment in the position of a domestic industry
   - **Thai FTA** means the New Zealand–Thailand Closer Economic Partnership Agreement done at Bangkok on 19 April 2005
   - **transitional safeguard measure** means a transitional safeguard measure applied under section 15F.
@@ -330,7 +332,7 @@ The Minister may extend a transitional safeguard measure applied under section 1
     (ii) are causing, or threatening to cause, serious injury to an industry producing a like or directly competitive good; and
   (b) there exist,—
     (i) in relation to a provisional transitional safeguard measure to be applied under the Thai FTA, highly unusual and critical circumstances; or
-    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA, the AANZFTA, or the Malaysia FTA, critical circumstances; and
+    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA, the AANZFTA, the Malaysia FTA, or the Republic of Korea FTA, critical circumstances; and
   (c) the delay in applying a transitional safeguard measure under section 15F would cause serious injury to the industry which would be difficult to repair.
 (2) A provisional transitional safeguard measure applies on and from—
   (a) the date specified in the measure (which may be a date before, on, or after the date on which the determination is made); or
@@ -345,7 +347,7 @@ The Minister may extend a transitional safeguard measure applied under section 1
 (6) A provisional transitional safeguard measure, in the form of a duty, applied under subsection (3)—
   (a) is due and payable on the demand of the Customs on and from the date on which the measure applies under subsection (2):
   (b) must be refunded by the Customs in the circumstances specified in subsection (7).
-(7) The circumstances referred to in subsection (6)(b) are—
+(7) The circumstances referred to in subsection (6)﻿(b) are—
   (a) if an investigation under section 15B concludes that no serious injury has been caused to an industry; or
   (b) in any other case, to the extent (if any) that the Minister requires the duty to be refunded.
 
