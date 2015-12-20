@@ -1,5 +1,5 @@
 # Tariff (Free Trade Agreement between New Zealand and the Republic of Korea) Amendment Act 2015
-_Consolidation as at 2015-09-28_
+_Consolidation as at 2015-12-20_
 
 ### 1 Title
 This Act is the Tariff (Free Trade Agreement between New Zealand and the Republic of Korea) Amendment Act 2015.
