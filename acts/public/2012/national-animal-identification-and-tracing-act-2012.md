@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -899,19 +899,11 @@ In making decisions under section 57, the Minister must have regard to the follo
     (ii) the financial results of all of the organisation's activities involving the use of the money paid as levy in the year or the use of assets the organisation has at the end of the year as a result of money paid as levy in the year.
 (2) The NAIT organisation must ensure that the statements are audited within 5 months after the end of the year.
 
-### 64 Levy regulations to be confirmed
-(1) Subsection (2) applies to regulations under section 62 that—
-  (a) are made on or after 1 January and before 1 July in the same year; and
-  (b) are not revoked with effect before or on 1 July in the next year; and
-  (c) are not stopped from having effect before or on 1 July in the next year by the application of section 42 of the Legislation Act 2012; and
-  (d) will not be stopped from having effect before or on 1 July in the next year by the application of section 42 of the Legislation Act 2012.
-(2) The regulations are deemed to have been revoked at the close of 30 June in the next year unless they have been confirmed by an Act of Parliament passed before or on that day.
-(3) Subsection (4) applies to regulations under section 62 that—
-  (a) are made on or after 1 July and before or on 31 December in the same year; and
-  (b) are not revoked with effect before or on 1 January in the year after the next year; and
-  (c) are not stopped from having effect before or on 1 January in the year after the next year by the application of section 42 of the Legislation Act 2012; and
-  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of section 42 of the Legislation Act 2012.
-(4) The regulations are deemed to have been revoked at the close of 31 December in the year after the year in which they were made unless they have been confirmed by an Act of Parliament passed before or on that day.
+### 64 Levy regulations are confirmable instruments
+The explanatory note of regulations made under section 62 must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 65 Failure to pay
 (1) This section applies if a fee, charge, or levy imposed by regulations made under section 61 or 62 is wholly or partly unpaid 20 working days after a request for payment.
@@ -979,20 +971,11 @@ Second scenario: not industry-led initiative
     (i) at least 5 years have passed since the species or sub-group of species was added to the schedule; and
     (ii) the presence of the species or sub-group of species in the schedule is no longer necessary to meet any of the purposes specified in section 3.
 
-### 68 Orders in Council to be confirmed
-(1) This section applies to an Order in Council made under section 67(2).
-(2) Subsection (3) applies to an order that—
-  (a) is made on or after 1 January and before 1 July in the same year; and
-  (b) is not revoked with effect before or on 1 July in the next year; and
-  (c) is not stopped from having effect before or on 1 July in the next year by the application of section 42 of the Legislation Act 2012; and
-  (d) will not be stopped from having effect before or on 1 July in the next year by the application of section 42 of the Legislation Act 2012.
-(3) The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
-(4) Subsection (5) applies to an order that—
-  (a) is made on or after 1 July and before or on 31 December in the same year; and
-  (b) is not revoked with effect before or on 1 January in the year after the next year; and
-  (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of section 42 of the Legislation Act 2012; and
-  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of section 42 of the Legislation Act 2012.
-(5) The order is deemed to have been revoked at the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed before or on that day.
+### 68 Orders are confirmable instruments
+The explanatory note of an Order in Council made under section 67(2) must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 69 Other regulations
 (1) The Governor-General may, by Order in Council and on the recommendation of the Minister, make regulations for any of the purposes set out in subsection (3).
