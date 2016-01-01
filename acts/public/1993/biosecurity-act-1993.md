@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2015-05-28_
+_Consolidation as at 2016-01-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -2815,19 +2815,11 @@ A management agency must not spend funds to meet the costs of implementing a pla
     (ii) the financial results of all of the agency's activities involving the use of money paid as levy in the year or the use of assets the agency has at the end of the year as a result of money paid as levy in the year.
 (2) The management agency must ensure that the statements are audited within 5 months after the end of the year.
 
-### 100S Orders to be confirmed
-(1) Subsection (2) applies to a levy order that—
-  (a) is made on or after 1 January and before 1 July in the same year; and
-  (b) is not revoked with effect before or on 1 July in the next year; and
-  (c) is not stopped from having effect before or on 1 July in the next year by the application of Part 3 of the Legislation Act 2012; and
-  (d) will not be stopped from having effect before or on 1 July in the next year by the application of Part 3 of the Legislation Act 2012.
-(2) The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
-(3) Subsection (4) applies to a levy order that—
-  (a) is made on or after 1 July and before or on 31 December in the same year; and
-  (b) is not revoked with effect before or on 1 January in the year after the next year; and
-  (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of Part 3 of the Legislation Act 2012; and
-  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of Part 3 of the Legislation Act 2012.
-(4) The order is deemed to have been revoked at the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed before or on that day.
+### 100S Orders are confirmable instruments
+The explanatory note of a levy order made under section 100L must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 **Funding from rates**
 
@@ -3102,19 +3094,11 @@ The purpose of this Part is to provide a framework that enables the government a
   (e) for the purposes of an action for the recovery of an amount due under this Act.
 (5) The Official Information Act 1982 applies to information held by a Minister that was obtained under this section.
 
-### 100ZH Orders to be confirmed
-(1) Subsection (2) applies to a readiness or response levy order that—
-  (a) is made on or after 1 January and before 1 July in the same year; and
-  (b) is not revoked with effect before or on 1 July in the next year; and
-  (c) is not stopped from having effect before or on 1 July in the next year by the application of Part 3 of the Legislation Act 2012; and
-  (d) will not be stopped from having effect before or on 1 July in the next year by the application of Part 3 of the Legislation Act 2012.
-(2) The order is deemed to have been revoked at the close of 30 June in the next year unless it has been confirmed by an Act of Parliament passed before or on that day.
-(3) Subsection (4) applies to a readiness or response levy order that—
-  (a) is made on or after 1 July and before or on 31 December in the same year; and
-  (b) is not revoked with effect before or on 1 January in the year after the next year; and
-  (c) is not stopped from having effect before or on 1 January in the year after the next year by the application of Part 3 of the Legislation Act 2012; and
-  (d) will not be stopped from having effect before or on 1 January in the year after the next year by the application of Part 3 of the Legislation Act 2012.
-(4) The order is deemed to have been revoked at the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed before or on that day.
+### 100ZH Orders are confirmable instruments
+The explanatory note of a readiness or response levy order made under section 100ZB must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ## Part 6 — Administrative provisions
 
@@ -3702,13 +3686,11 @@ A declaration of a restricted place or a controlled area shall remain in force u
   (a) it is imposed to wholly or partly fund a readiness or response activity; and
   (b) it is imposed on a sector that is not specified in a Gazette notice under section 100ZA.
 
-### 138 Orders to be confirmed
-(1) Where in any year an order under section 137 has been made on or after 1 January and before 1 July, and—it shall be deemed to have been revoked with the close of 30 June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
-  (a) has not been revoked with effect on or before 1 July in the next year; and
-  (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
-(2) Where in any year an order under section 137 has been made after 30 June and on or before 31 December, and—it shall be deemed to have been revoked with the close of 31 December in the year after the year in which it was made, unless it has been confirmed by an Act of Parliament passed on or before that day.
-  (a) has not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
+### 138 Orders are confirmable instruments
+The explanatory note of a levy order made under section 137 must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 139 Restrictions on levies
 The Minister shall not recommend the making of an order under section 137 unless the Director-General has satisfied the Minister that—
@@ -4234,13 +4216,11 @@ Definition for this section
 (4) A biosecurity emergency regulation comes into force at the time at which the regulation is made, or the time specified in the regulation, whichever is the later.
 (5) The responsible Minister shall lay all biosecurity emergency regulations before the House of Representatives not later than the second sitting day after they are made.
 
-### 151 Emergency regulations to be confirmed
-(1) Where in any year regulations under section 150 have been made on or after 1 January and before 1 July, and—they shall be deemed to have been revoked with the close of 30 June in that next year unless they have been confirmed by an Act of Parliament passed on or before that day.
-  (a) have not been revoked with effect on or before 1 July in the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
-(2) Where in any year regulations under section 150 have been made after 30 June and on or before 31 December, and—they shall be deemed to have been revoked with the close of 31 December in the year after the year in which they were made, unless they have been confirmed by an Act of Parliament passed on or before that day.
-  (a) have not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
+### 151 Emergency regulations are confirmable instruments
+The explanatory note of regulations made under section 150 must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 152 Provisional control action
 (1) If a Minister suspects on reasonable grounds that a pest or unwanted organism may be present in New Zealand but is unable to confirm the suspicion until further information is available to enable identification of the organism and consideration of the appropriate means of eradicating or managing the organism, and the Minister believes on reasonable grounds that sufficient powers are not otherwise available under this Act to prevent the spread or development of the organism, the Minister may by written notice to a chief technical officer declare a provisional control programme.
