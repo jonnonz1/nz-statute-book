@@ -1,5 +1,5 @@
 # Waste Minimisation Act 2008
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the Waste Minimisation Act 2008.
@@ -21,7 +21,7 @@ This Act binds the Crown.
 ### 5 Interpretation
 (1) In this Act, unless the context requires another meaning,—
   - **accredited scheme** means a product stewardship scheme accredited by the Minister under section 15
-  - **appointed levy collector** means a person appointed in accordance with section 40(1)(a) to collect the levy
+  - **appointed levy collector** means a person appointed in accordance with section 40(1)﻿(a) to collect the levy
   - **auditor** means a person appointed under section 87(1)
   - **disposal** has the meaning set out in section 6
   - **disposal facility** has the meaning set out in section 7
@@ -40,7 +40,7 @@ This Act binds the Crown.
   - **Medical Officer of Health** has the same meaning as in section 2(1) of the Health Act 1956
   - **Minister** means the Minister for the Environment
   - **nuisance** has the same meaning as in section 29 of the Health Act 1956
-  - **objectives** , in relation to a product stewardship scheme, means the objectives for the product to which the scheme relates as set under section 14(c)(i)
+  - **objectives** , in relation to a product stewardship scheme, means the objectives for the product to which the scheme relates as set under section 14(c)﻿(i)
   - **operator** means the person in control of a disposal facility or other facility
   - **prescribed** means prescribed by regulations made under this Act
   - **priority product** means a product declared to be a priority product in accordance with section 9
@@ -87,8 +87,8 @@ This Act binds the Crown.
 (1) In this Act, unless the context requires another meaning, disposal means—
   (a) the final (or more than short-term) deposit of waste into or onto land set apart for that purpose; or
   (b) the incineration of waste.
-(2) In subsection (1)(a), for all purposes relating to the levy, final (or more than short-term) deposit of waste means any deposit of waste other than a deposit referred to in section 26(3).
-(3) In subsection (1)(b), incineration means the deliberate burning of waste to destroy it, but not to recover energy from it.
+(2) In subsection (1)﻿(a), for all purposes relating to the levy, final (or more than short-term) deposit of waste means any deposit of waste other than a deposit referred to in section 26(3).
+(3) In subsection (1)﻿(b), incineration means the deliberate burning of waste to destroy it, but not to recover energy from it.
 
 ### 7 Meaning of disposal facility
 (1) In this Act, unless the context requires another meaning, disposal facility means—
@@ -97,7 +97,7 @@ This Act binds the Crown.
     (ii) at which the waste disposed of includes household waste; and
     (iii) that operates, at least in part, as a business to dispose of waste; and
   (b) any other facility or class of facility at which waste is disposed of that is prescribed as a disposal facility.
-(2) In subsection (1)(a)(ii), household waste means waste from a household that is not entirely from construction, renovation, or demolition of the house.
+(2) In subsection (1)﻿(a)﻿(ii), household waste means waste from a household that is not entirely from construction, renovation, or demolition of the house.
 
 ## Part 2 — Product stewardship
 
@@ -186,7 +186,7 @@ To qualify for accreditation, a product stewardship scheme must—
   (c) is likely to promote waste minimisation or reduce the environmental harm from disposing of the product to which the scheme relates without, in either case, causing greater environmental harm over the life cycle of the product; and
   (d) is consistent with New Zealand’s international obligations; and
   (e) if the scheme relates to a priority product, is consistent with any guidelines published under section 12.
-(2) Despite subsection (1)(e), the Minister may accredit a product stewardship scheme that is not consistent with any guidelines published under section 12 if, before accrediting the scheme, he or she has obtained and considered the advice of the Waste Advisory Board.
+(2) Despite subsection (1)﻿(e), the Minister may accredit a product stewardship scheme that is not consistent with any guidelines published under section 12 if, before accrediting the scheme, he or she has obtained and considered the advice of the Waste Advisory Board.
 (3) Before deciding whether to accredit a product stewardship scheme, the Minister may seek further information from—
   (a) the scheme manager; or
   (b) any other person who, in the Minister's opinion, is likely to be significantly affected by the scheme.
@@ -239,16 +239,16 @@ Any charge payable to the Secretary under section 20 is recoverable as a debt by
   (c) prescribing the information to be included in an application for accreditation:
   (d) prescribing the fee payable for an application for accreditation (which may include the reasonable costs in assessing and accrediting a scheme):
   (e) prescribing the charges payable to the Secretary for the monitoring of an accredited scheme.
-(2) Before recommending the making of regulations under subsection (1)(a), the Minister must—
+(2) Before recommending the making of regulations under subsection (1)﻿(a), the Minister must—
   (a) obtain and consider the advice of the Waste Advisory Board; and
   (b) be satisfied that—
     (i) there has been adequate consultation with persons or organisations who may be significantly affected by the regulations; and
     (ii) without the regulations, it is likely that either—
       (A) the objectives of any relevant accredited scheme cannot be met; or
-      (B) the matters referred to in section 12(3)(b) or (d) that are included in any guidelines published under section 12 cannot be met; and
+      (B) the matters referred to in section 12(3)﻿(b) or (d) that are included in any guidelines published under section 12 cannot be met; and
     (iii) the benefits expected from implementing the regulations exceed the costs expected from implementing the regulations; and
     (iv) the regulations are consistent with New Zealand’s international obligations.
-(3) For the purposes of subsection (1)(e), regulations may provide for charges payable to the Secretary using 1 or more of the following methods:
+(3) For the purposes of subsection (1)﻿(e), regulations may provide for charges payable to the Secretary using 1 or more of the following methods:
   (a) fixed charges:
   (b) charges fixed on an hourly or other unit basis:
   (c) estimated charges paid before any monitoring, followed by reconciliation and an appropriate payment or refund after the monitoring:
@@ -274,8 +274,8 @@ Any charge payable to the Secretary under section 20 is recoverable as a debt by
   (i) requiring specified persons or specified classes of person to collect, and provide to the Secretary, information about any requirements imposed in regulations made under paragraph (a), (b), (c), (d), or (e):
   (j) providing for any other matter contemplated by this Part.
 (2) The Minister must not recommend the making of regulations—
-  (a) under subsection (1)(a), unless he or she is satisfied that there is adequate infrastructure and facilities in place to provide a reasonably practicable alternative to disposal or, if not, that a reasonable time is provided before the regulations come into force for adequate infrastructure and facilities to be put in place:
-  (b) under subsection (1)(b), unless a reasonably practicable alternative to the specified materials is available.
+  (a) under subsection (1)﻿(a), unless he or she is satisfied that there is adequate infrastructure and facilities in place to provide a reasonably practicable alternative to disposal or, if not, that a reasonable time is provided before the regulations come into force for adequate infrastructure and facilities to be put in place:
+  (b) under subsection (1)﻿(b), unless a reasonably practicable alternative to the specified materials is available.
 (3) Before recommending the making of regulations under subsection (1), the Minister must—
   (a) obtain and consider the advice of the Waste Advisory Board; and
   (b) be satisfied that—
@@ -329,7 +329,7 @@ The Secretary may waive, in writing, the requirement for an operator to pay any 
 
 ### 30 Secretary must distribute and spend levy money
 The Secretary must distribute and spend all levy money received by—
-  (a) paying any refunds to operators in accordance with regulations made under section 41(1)(k); and
+  (a) paying any refunds to operators in accordance with regulations made under section 41(1)﻿(k); and
   (b) paying shares to territorial authorities in accordance with sections 31 and 33; and
   (c) spending the remainder on 1 or more of the following:
     (i) collecting and administering the levy:
@@ -338,7 +338,7 @@ The Secretary must distribute and spend all levy money received by—
 
 ### 31 Territorial authorities to receive share
 (1) The Secretary must pay each territorial authority a share of the total levy money collected in respect of a financial year.
-(2) A territorial authority’s share is calculated using the following formula:territorial authority’s share = (levy collected − levy refunded)×district’s population2total populationwhere—levy collectedis the total levy money collected in respect of the financial yearlevy refundedis the total levy money refunded in respect of the financial year in accordance with regulations made under section 41(1)(k)district’s populationis—(a)the population of the district of the territorial authority as shown by the census of population published most recently before the start of the financial year; or(b)if the district was constituted, or its boundaries were altered, after that census was published, the population of the district assessed by the Government Statistician as at the date of the district’s constitution or boundary alterationtotal populationis the total of all districts’ populations.
+(2) A territorial authority’s share is calculated using the following formula:The following table is small in size and contains a formula.territorial authority’s share = (levy collected − levy refunded)×district’s population2total population where—levy collectedis the total levy money collected in respect of the financial yearlevy refundedis the total levy money refunded in respect of the financial year in accordance with regulations made under section 41(1)﻿(k)district’s populationis—(a)the population of the district of the territorial authority as shown by the census of population published most recently before the start of the financial year; or(b)if the district was constituted, or its boundaries were altered, after that census was published, the population of the district assessed by the Government Statistician as at the date of the district’s constitution or boundary alterationtotal populationis the total of all districts’ populations.
 (3) The territorial authority’s share must be paid to the territorial authority in the prescribed manner and at the prescribed times.
 (4) This section is subject to section 33.
 
@@ -368,7 +368,7 @@ The Secretary must distribute and spend all levy money received by—
 (3) Once the written demand is made, the estimated amount must be treated as the correct amount of levy payable by the operator under section 28.
 
 ### 35 Interest on unpaid levy
-(1) If the operator of a disposal facility does not fully pay an amount of levy (the original amount) by the close of the due day for payment, the levy owing is to be treated as having been increased by an amount calculated daily using the following formula:amount of increase = unpaid amount × prescribed ratewhere—unpaid amountis any part of the original amount that remains unpaid on the day of calculationprescribed rate has the same meaning as in section 87(3) of the Judicature Act 1908.
+(1) If the operator of a disposal facility does not fully pay an amount of levy (the original amount) by the close of the due day for payment, the levy owing is to be treated as having been increased by an amount calculated daily using the following formula:amount of increase = unpaid amount × prescribed rate where—unpaid amountis any part of the original amount that remains unpaid on the day of calculationprescribed rate has the same meaning as in section 87(3) of the Judicature Act 1908.
 (2) Any amount of increase calculated under subsection (1) is not itself subject to an increase under that subsection.
 
 ### 36 Unpaid levy is debt
@@ -431,15 +431,19 @@ The Minister may direct the Secretary to retain 1 or more payments of levy money
   (k) providing for the refund of all or part of a payment of levy money in any specific case or type of case:
   (l) prescribing the manner in which, and the times at which, the Secretary must pay a share of levy money to a territorial authority:
   (m) providing for any other matter contemplated by this Part.
-(2) Before recommending the making of regulations under subsection (1)(a), (b), (c), (d), or (e), the Minister must—
+(2) Before recommending the making of regulations under subsection (1)﻿(a), (b), (c), (d), or (e), the Minister must—
   (a) obtain and consider the advice of the Waste Advisory Board; and
   (b) be satisfied that there has been adequate consultation with persons or organisations who may be significantly affected by the regulations; and
   (c) consider the costs and benefits expected from implementing the regulations.
-(3) The Minister must not recommend the making of regulations under subsection (1)(b), (c), or (k) unless he or she is satisfied that exceptional circumstances justify the exemption or refund.
-(4) Regulations made under subsection (1)(e),—
-  (a) if made on or before 30 June in any year, expire on the close of 30 June in the following year, unless Parliament passes an Act confirming the regulations before they expire:
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year, unless Parliament passes an Act confirming the regulations before they expire.
-(5) To avoid doubt, if regulations expire under subsection (4), the levy rate specified in the regulations remains valid in respect of the period before expiry.
+(3) The Minister must not recommend the making of regulations under subsection (1)﻿(b), (c), or (k) unless he or she is satisfied that exceptional circumstances justify the exemption or refund.
+(4)
+(5)
+
+### 41A Regulations under section 41(1)﻿(e) are confirmable instruments
+The explanatory note of regulations made under section 41(1)﻿(e) must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ## Part 4 — Responsibilities of territorial authorities in relation to waste management and minimisation
 
@@ -527,7 +531,7 @@ Two or more territorial authorities may jointly prepare and adopt a waste manage
   (b) the costs of, and difficulty in, obtaining the information; and
   (c) the extent of the territorial authority's resources; and
   (d) the possibility that the territorial authority may be directed under the Health Act 1956 to provide the services referred to in that Act.
-(4) However, an assessment must indicate whether and, if so, to what extent, the matters referred to in subsection (3)(b) and (c) have impacted materially on the completeness of the assessment.
+(4) However, an assessment must indicate whether and, if so, to what extent, the matters referred to in subsection (3)﻿(b) and (c) have impacted materially on the completeness of the assessment.
 (5) In making an assessment, the territorial authority must—
   (a) use its best endeavours to make a full and balanced assessment; and
   (b) consult the Medical Officer of Health.
@@ -577,7 +581,7 @@ A territorial authority that provides a service that collects waste, or any pers
     (i) the occupier of the property from which the waste in the receptacle has come; or
     (ii) a person authorised by the territorial authority to remove the waste.
 (2) A bylaw must not be inconsistent with the territorial authority's waste management and minimisation plan.
-(3) Bylaws made under subsection (1)(b) may provide for the licensing of persons who carry out the collection and transportation of waste, and the conditions specified in the bylaws as conditions of the licences may include conditions requiring each licensee—
+(3) Bylaws made under subsection (1)﻿(b) may provide for the licensing of persons who carry out the collection and transportation of waste, and the conditions specified in the bylaws as conditions of the licences may include conditions requiring each licensee—
   (a) to provide a performance bond or security, or both, for the performance of the work licensed:
   (b) to provide to the territorial authority, at times or periods specified in the bylaws, reports setting out the quantity, composition, and destination of waste collected and transported by the licensee (for example, household waste to a disposal facility).
 (4) In subsection (3), persons—
@@ -622,10 +626,10 @@ Part 31 of the Local Government Act 1974 is consequentially repealed.
 
 ### 62 Sanitary services
 (1) The definition of sanitary services in section 124 of the Local Government Act 2002 is amended by omitting (c),.
-(2) Section 128(3)(b) of the Local Government Act 2002 is repealed.
+(2) Section 128(3)﻿(b) of the Local Government Act 2002 is repealed.
 
 ### 63 Waste management plans
-(1) Clause 3(1)(b) of Part 1 of Schedule 10 of the Local Government Act 2002 is amended by omitting plan in force under section 539 of the Local Government Act 1974 and substituting and minimisation plan in force under section 43 of the Waste Minimisation Act 2008.
+(1) Clause 3(1)﻿(b) of Part 1 of Schedule 10 of the Local Government Act 2002 is amended by omitting plan in force under section 539 of the Local Government Act 1974 and substituting and minimisation plan in force under section 43 of the Waste Minimisation Act 2008.
 (2) Clause 3(2) of Part 1 of Schedule 10 of the Local Government Act 2002 is amended by omitting waste management plan in each place where it appears and substituting in each case waste management and minimisation plan.
 (3) Clause 3(3) of Part 1 of Schedule 10 of the Local Government Act 2002 is amended by omitting waste management plan and substituting waste management and minimisation plan.
 
@@ -639,12 +643,12 @@ Part 31 of the Local Government Act 1974 is consequentially repealed.
 
 ### 65 Offences
 (1) The following persons commit an offence and are liable on conviction to a fine not exceeding $100,000:
-  (a) a producer who contravenes regulations made under section 22(1)(a):
-  (b) any person (other than a producer) who knowingly contravenes regulations made under section 22(1)(a):
-  (c) a person who contravenes regulations made under section 23(1)(c), (d), (e), (f), or (i):
-  (d) a person who knowingly contravenes regulations made under section 23(1)(a), (b), (g), or (h):
-  (e) a person who contravenes regulations made under section 86(1)(a) or (b):
-  (f) a person who, in providing records or other information required by regulations made under section 23(1)(i) or 86(1)(a), (b), or (c), knowingly—
+  (a) a producer who contravenes regulations made under section 22(1)﻿(a):
+  (b) any person (other than a producer) who knowingly contravenes regulations made under section 22(1)﻿(a):
+  (c) a person who contravenes regulations made under section 23(1)﻿(c), (d), (e), (f), or (i):
+  (d) a person who knowingly contravenes regulations made under section 23(1)﻿(a), (b), (g), or (h):
+  (e) a person who contravenes regulations made under section 86(1)﻿(a) or (b):
+  (f) a person who, in providing records or other information required by regulations made under section 23(1)﻿(i) or 86(1)﻿(a), (b), or (c), knowingly—
     (i) supplies false or misleading information; or
     (ii) makes any material omission.
 (2) A territorial authority that fails to comply with section 55(3) commits an offence and is liable on conviction to a fine not exceeding $20,000.
@@ -668,7 +672,7 @@ Every person commits an offence who breaches a bylaw made under section 56 and i
 **Strict liability and defences**
 
 ### 68 Strict liability
-In any prosecution for an offence specified in section 65(1)(a), (c), or (e), 65(2), or 66, it is not necessary to prove that the defendant intended to commit the offence.
+In any prosecution for an offence specified in section 65(1)﻿(a), (c), or (e), 65(2), or 66, it is not necessary to prove that the defendant intended to commit the offence.
 
 ### 69 Defences
 (1) It is a defence to an offence against this Act, or a bylaw made under section 56, if the court is satisfied—
@@ -683,7 +687,7 @@ In any prosecution for an offence specified in section 65(1)(a), (c), or (e), 65
     (i) the act or omission giving rise to the offence was due to an action or event beyond the control of the defendant; and
     (ii) the action or event could not reasonably have been foreseen or prevented by the defendant; and
     (iii) the effects of the defendant’s act or omission were adequately remedied or mitigated by the defendant after the offence occurred.
-(2) It is a defence to an offence against section 65(1)(a), (c), or (e) if the court is satisfied that—
+(2) It is a defence to an offence against section 65(1)﻿(a), (c), or (e) if the court is satisfied that—
   (a) the defendant took all reasonable steps to prevent or stop the commission of the offence; and
   (b) the effects of the defendant’s act or omission giving rise to the offence were adequately remedied or mitigated by the defendant after the offence occurred.
 
@@ -736,7 +740,7 @@ A person who is alleged to have committed an infringement offence may either—
 (2) An infringement notice may be served—
   (a) by an enforcement officer (not necessarily the person who issued the notice) personally delivering it (or a copy of it) to the person alleged to have committed the infringement offence; or
   (b) by post addressed to the person’s last known place of residence or business.
-(3) An infringement notice sent to a person under subsection (2)(b) must be treated as having been served on the person when it was posted.
+(3) An infringement notice sent to a person under subsection (2)﻿(b) must be treated as having been served on the person when it was posted.
 (4) An infringement notice must be in the prescribed form and must contain the following particulars:
   (a) details of the alleged infringement offence sufficient to fairly inform a person of the time, place, and nature of the alleged offence:
   (b) the amount of the infringement fee specified for the offence:
@@ -757,10 +761,10 @@ A territorial authority may retain the infringement fees received by it for any 
 
 ### 76 Enforcement officers
 (1) The Secretary may appoint—
-  (a) a person to be an enforcement officer for the purposes of ensuring compliance with regulations made under this Act (except any regulations made under section 23(1)(a)); or
-  (b) an auditor to be an enforcement officer for the purposes of exercising the power of entry under section 79(1)(a) in relation to an audit.
+  (a) a person to be an enforcement officer for the purposes of ensuring compliance with regulations made under this Act (except any regulations made under section 23(1)﻿(a)); or
+  (b) an auditor to be an enforcement officer for the purposes of exercising the power of entry under section 79(1)﻿(a) in relation to an audit.
 (2) A territorial authority may appoint a person to be an enforcement officer in its district—
-  (a) for the purposes of ensuring compliance with any regulations made under section 23(1)(a):
+  (a) for the purposes of ensuring compliance with any regulations made under section 23(1)﻿(a):
   (b) for the purposes of ensuring compliance with any bylaw made by the territorial authority under section 56.
 (3) A person must not be appointed as an enforcement officer unless the person has appropriate experience, technical competence, and qualifications relevant to the area of responsibilities proposed to be allocated to that person.
 (4) The Secretary or the territorial authority, as the case may be, must supply each enforcement officer with a warrant that states—
@@ -781,12 +785,12 @@ A territorial authority may retain the infringement fees received by it for any 
   (a) enter any land, building, or place at any reasonable time:
   (b) inspect and examine any property and any books, accounts, records, or documents (including records or documents held in electronic or any other form):
   (c) require any person to produce any books, accounts, records, or documents (including records or documents held in electronic or any other form) in that person’s possession or under that person’s control, and allow copies of or extracts from those books, accounts, records, or documents to be made or taken.
-(2) Before exercising the power in subsection (1)(a), the officer must, if practicable, give reasonable notice to the occupier of the land, building, or place of the intention to exercise the power, unless the giving of notice would defeat the purpose of the entry.
+(2) Before exercising the power in subsection (1)﻿(a), the officer must, if practicable, give reasonable notice to the occupier of the land, building, or place of the intention to exercise the power, unless the giving of notice would defeat the purpose of the entry.
 (2A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3 and sections 118 and 119) apply.
 (3) This section is subject to section 80.
 
 ### 80 Consent or warrant required to inspect dwellinghouse or marae
-(1) An enforcement officer may not exercise the power of entry under section 79(1)(a) in relation to a dwellinghouse or marae—
+(1) An enforcement officer may not exercise the power of entry under section 79(1)﻿(a) in relation to a dwellinghouse or marae—
   (a) except with the consent of the occupier of the dwellinghouse or marae; or
   (b) unless—
     (i) authorised to do so by a warrant issued under subsection (2); and
@@ -794,7 +798,7 @@ A territorial authority may retain the infringement fees received by it for any 
 (2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on the application of an enforcement officer made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, issue a warrant authorising the enforcement officer to enter the dwellinghouse or marae specified in the application.
 (3) The issuing officer may issue a warrant under subsection (2)—
   (a) only if he or she is satisfied that—
-    (i) the proposed entry is necessary for the purposes of section 79(1)(a); and
+    (i) the proposed entry is necessary for the purposes of section 79(1)﻿(a); and
     (ii) the enforcement officer has taken all reasonable steps to obtain the consent of the occupier to the proposed entry.
   (b)
 (3A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except sections 118 and 119) apply as if a warrant issued under subsection (2) were a search warrant.
@@ -817,7 +821,7 @@ A territorial authority may retain the infringement fees received by it for any 
 (2) As soon as practicable after seizing and impounding property, an enforcement officer must give notice—
   (a) to the person in possession of the property at the time it was seized and impounded; or
   (b) to any person who the enforcement officer can ascertain is the owner of, or has an interest in, the property, if paragraph (a) does not apply.
-(3) A notice given in accordance with subsection (2)(b) must be delivered, or sent by registered mail, not later than 7 working days after the property concerned was seized.
+(3) A notice given in accordance with subsection (2)﻿(b) must be delivered, or sent by registered mail, not later than 7 working days after the property concerned was seized.
 (4) A notice must—
   (a) include a description of the property seized; and
   (b) state the date and time that the property was seized; and
@@ -887,7 +891,7 @@ A territorial authority may retain the infringement fees received by it for any 
   (a) obtain and consider the advice of the Waste Advisory Board; and
   (b) be satisfied that there has been adequate consultation with persons or organisations who may be significantly affected by the regulations; and
   (c) consider the costs and benefits expected from implementing the regulations.
-(3) Before recommending the making of regulations under subsection (1)(b), the Minister must also consult the Government Statistician.
+(3) Before recommending the making of regulations under subsection (1)﻿(b), the Minister must also consult the Government Statistician.
 
 **Audits**
 
@@ -905,12 +909,12 @@ A territorial authority may retain the infringement fees received by it for any 
   (b) any person, in respect of the person’s compliance with any prescribed requirement to keep or provide records or other information:
   (c) an appointed levy collector, in respect of the collection of levy that the collector is appointed to collect:
   (d) a territorial authority that receives levy money, in respect of the spending of the levy money:
-  (e) any person who is paid levy money under section 30(c)(ii), in respect of the spending of the levy money:
+  (e) any person who is paid levy money under section 30(c)﻿(ii), in respect of the spending of the levy money:
   (f) the scheme manager of an accredited scheme, or any person who has agreed to participate in the scheme, in respect of their compliance with the scheme’s requirements to keep records or make reports:
-  (g) any person, in respect of the person’s compliance with regulations made under section 22(1)(a) or 23.
+  (g) any person, in respect of the person’s compliance with regulations made under section 22(1)﻿(a) or 23.
 (2) For the purposes of subsection (1), an auditor may exercise—
-  (a) the power of entry under section 79(1)(a) only if appointed an enforcement officer under section 76(1)(b); or
-  (b) the powers of an enforcement officer under section 79(1)(b) or (c), despite not being an enforcement officer, but must produce evidence of his or her identity and appointment as an auditor whenever reasonably required to do so.
+  (a) the power of entry under section 79(1)﻿(a) only if appointed an enforcement officer under section 76(1)﻿(b); or
+  (b) the powers of an enforcement officer under section 79(1)﻿(b) or (c), despite not being an enforcement officer, but must produce evidence of his or her identity and appointment as an auditor whenever reasonably required to do so.
 (3) An auditor must not disclose to any person information obtained in the exercise of the auditor’s powers, except—
   (a) in a prosecution under this Act; or
   (b) in an action for the recovery of any amount due under this Act; or
@@ -923,15 +927,15 @@ This section establishes the Waste Advisory Board.
 
 ### 90 Function of Board
 (1) The function of the Board is to provide advice to the Minister upon request, including advice about—
-  (a) declaring a product to be a priority product (under section 9(3)(a)):
-  (b) making guidelines about the contents and expected effects of product stewardship schemes for priority products (under section 12(4)(a)):
+  (a) declaring a product to be a priority product (under section 9(3)﻿(a)):
+  (b) making guidelines about the contents and expected effects of product stewardship schemes for priority products (under section 12(4)﻿(a)):
   (c) accrediting a product stewardship scheme that is not consistent with any guidelines published under section 12 (under section 15(2)):
-  (d) recommending the making of regulations prohibiting the sale of a priority product except in accordance with an accredited scheme (under section 22(2)(a)):
-  (e) recommending the making of regulations in relation to products (whether or not priority products), materials, and waste (under section 23(3)(a)):
+  (d) recommending the making of regulations prohibiting the sale of a priority product except in accordance with an accredited scheme (under section 22(2)﻿(a)):
+  (e) recommending the making of regulations in relation to products (whether or not priority products), materials, and waste (under section 23(3)﻿(a)):
   (f) setting or varying criteria for approving funding of a project (under section 38(5)):
-  (g) reviewing the effectiveness of the levy (under section 39(2)(a)):
-  (h) recommending the making of regulations in relation to the imposition of the waste disposal levy or the rate of the levy (under section 41(2)(a)):
-  (i) recommending the making of regulations in relation to records, information, and reports (under section 86(2)(a)).
+  (g) reviewing the effectiveness of the levy (under section 39(2)﻿(a)):
+  (h) recommending the making of regulations in relation to the imposition of the waste disposal levy or the rate of the levy (under section 41(2)﻿(a)):
+  (i) recommending the making of regulations in relation to records, information, and reports (under section 86(2)﻿(a)).
 (2) The advice is to relate to waste minimisation or the functions of the Secretary or the Minister under this Act.
 (3) The Board must provide advice within terms of reference set by the Minister.
 
