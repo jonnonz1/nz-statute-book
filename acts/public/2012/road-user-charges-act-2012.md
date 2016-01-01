@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -948,11 +948,15 @@ Sections 139 and 140 of the Land Transport Act 1998 apply with any necessary mod
 (3) Regulations made under subsection (1)—
   (a) come into force 42 days after the date of their notification in the Gazette, or on any later date that may be specified in the order, unless, in the case of an increase to any existing rate, the increase relates only to the GST payable on the rate; and
   (b) must be presented to the House of Representatives no later than 16 sitting days after the date on which they are made.
-(4) Regulations made under subsection (1),—
-  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year unless they are expressly confirmed by an Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year unless they are expressly confirmed by Act of Parliament passed before the end of that following year.
-(5) If any regulations expire by virtue of subsection (4)﻿(a) or (b), any road user charges collected under those regulations in excess of the road user charges otherwise payable must, except as far as any other provision is made by an Act of Parliament, be refunded.
-(6) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming regulations made under subsection (1) does not, unless there is any express provision to the contrary, affect the validity or confirmation of the Order in Council.
+(4)
+(5)
+(6)
+
+### 85A Regulations are confirmable instruments
+The explanatory note of regulations made under section 85(1) must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 86 Licence for heavy RUC vehicle invalid 1 month after road user charges rate increased
 (1) This section applies if a road user charges rate is increased by regulations made under section 85(1), unless the increase relates only to the GST payable on the rate.
