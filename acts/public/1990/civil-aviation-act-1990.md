@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2014-07-01_
+_Consolidation as at 2016-01-01_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -47,7 +47,7 @@ _Consolidation as at 2014-07-01_
   - **aircraft flying in the vicinity of an aerodrome** means any aircraft that is in, entering, or leaving an aerodrome traffic circuit
   - **alerting service** means an air traffic service provided to notify appropriate organisations regarding aircraft in need of search and rescue aid, and to assist such organisations as required
   - **ANZA** means Australia New Zealand Aviation
-  - **ANZA mutual recognition agreements** means the agreements or arrangements specified in regulations made under section 100(1)(ed)
+  - **ANZA mutual recognition agreements** means the agreements or arrangements specified in regulations made under section 100(1)﻿(ed)
   - **approach control service** means an air traffic control service for arriving or departing controlled flights
   - **area control service** means an air traffic control service provided for controlled flights in controlled airspace
   - **Australia** means the Commonwealth of Australia; and, when used in a geographical sense, includes any external territory of Australia
@@ -55,10 +55,10 @@ _Consolidation as at 2014-07-01_
   - **Australian temporary stop notice** has the same meaning as in section 3(1) of the Civil Aviation Act 1988 (Aust)
   - **Authority** means the Civil Aviation Authority of New Zealand established by section 72A
   - **aviation document** means any licence, permit, certificate, or other document issued under this Act to or in respect of any person, aircraft, aerodrome, aeronautical procedure, aeronautical product, or aviation related service
-  - **aviation examiner** means a health professional; and includes any medical practitioner to whom the Director has issued an aviation document under section 27F(2) or section 27Q(2)(c) to conduct specified examinations under Part 2A
+  - **aviation examiner** means a health professional; and includes any medical practitioner to whom the Director has issued an aviation document under section 27F(2) or section 27Q(2)﻿(c) to conduct specified examinations under Part 2A
   - **aviation related service** means any equipment, facility, or service (including any air traffic service but excluding any service of the Transport Accident Investigation Commission) operated in support of or in conjunction with the civil aviation system; and includes the provision of aeronautical products
   - **aviation security officer** means a person for the time being employed as such in the Aviation Security Service
-  - **Aviation Security Service** means the Aviation Security Service established under section 72B(2)(ca)
+  - **Aviation Security Service** means the Aviation Security Service established under section 72B(2)﻿(ca)
   - **CASA** means—
     (a) the Civil Aviation Safety Authority established by the Civil Aviation Act 1988 (Aust); and
     (b) any successor of that Authority
@@ -88,9 +88,9 @@ _Consolidation as at 2014-07-01_
   - **manoeuvring area** —
     (a) means that part of an aerodrome to be used for the take-off and landing of aircraft and for the surface movement of aircraft associated with take-off and landing; but
     (b) does not include areas set aside for loading, unloading, or maintenance of aircraft
-  - **medical examiner** means a medical practitioner to whom the Director has issued an aviation document under section 27F(1) or section 27Q(2)(b) to conduct examinations under section 27D
+  - **medical examiner** means a medical practitioner to whom the Director has issued an aviation document under section 27F(1) or section 27Q(2)﻿(b) to conduct examinations under section 27D
   - **medical practitioner** means—
-    (a) a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; or
+    (a) a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; or
     (b) a person in a jurisdiction other than New Zealand who is entitled, licensed, or registered to practise medicine in that jurisdiction
   - **member** means a member of the Authority
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or the relevant Part or provision of this Act
@@ -100,7 +100,7 @@ _Consolidation as at 2014-07-01_
     (b) includes any land adjacent to any such building, facility, work, apparatus, equipment, or place, and used in connection therewith
   - **New Zealand AOC with ANZA privileges** has the meaning set out in section 11G
   - **New Zealand Register of Aircraft** means the register of that name that is established under section 73
-  - **New Zealand registered aircraft** means any aircraft that is for the time being registered by the Director under section 6(1)(a)
+  - **New Zealand registered aircraft** means any aircraft that is for the time being registered by the Director under section 6(1)﻿(a)
   - **New Zealand temporary stop notice** means a notice issued under section 11C(1)
   - **operate** , in relation to an aircraft, means to fly or use the aircraft, or to cause or permit the aircraft to fly, be used, or be in any place, whether or not the person is present with the aircraft; and has a corresponding meaning
   - **owner** , in relation to any aircraft, includes any person lawfully entitled to the possession of the aircraft for 28 days or longer
@@ -203,7 +203,7 @@ _Consolidation as at 2014-07-01_
     (ii) the applicant meets or will meet the conditions in section 11G(4); and
   (c) it is not contrary to the interests of aviation safety for the document to be granted or renewed.
 (2) For the purpose of granting or renewing an aviation document, the Director may, subject to any provisions in the rules, accept such foreign qualifications or recognise such foreign certifications as he or she considers appropriate in each case.
-(3) It shall be a condition of every current aviation document that the holder and any person who has or is likely to have control over the exercise of the privileges under the document continue to satisfy the fit and proper person test specified in subsection (1)(b)(ii).
+(3) It shall be a condition of every current aviation document that the holder and any person who has or is likely to have control over the exercise of the privileges under the document continue to satisfy the fit and proper person test specified in subsection (1)﻿(b)﻿(ii).
 (4) Where the Director declines to grant an application for the grant or renewal of an aviation document under this section, the applicant may appeal against that decision to a District Court under section 66.
 
 ### 10 Criteria for fit and proper person test
@@ -229,7 +229,7 @@ _Consolidation as at 2014-07-01_
 (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and,—
   (a) in the case of non-disclosure to an individual of information about the individual,—
     (i) inform the individual that he or she may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)(d) of that Act; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
   (b) in any other case,—
     (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -256,12 +256,12 @@ _Consolidation as at 2014-07-01_
   (a) the notice or copy is supplied to the person to whom the information relates; or
   (b) that person consents to the supply of that information to any other person.
 (5) Where any notice or copy of a notice is given to any person under this section, the following provisions shall apply:
-  (a) it shall be the responsibility of that person to ensure that all information that that person wishes to have considered by the Director in relation to the proposed decision is received by the Director within the period specified in the notice under subsection (2)(c), or within such further period as the Director may allow:
+  (a) it shall be the responsibility of that person to ensure that all information that that person wishes to have considered by the Director in relation to the proposed decision is received by the Director within the period specified in the notice under subsection (2)﻿(c), or within such further period as the Director may allow:
   (b) the Director may consider any information supplied by that person after the expiry of the period referred to in paragraph (a), other than information requested by the Director and supplied by that person within such reasonable time as the Director may specify:
   (c) the Director shall consider any submissions made in accordance with paragraph (a), other than information requested by the Director and supplied pursuant to a request referred to in paragraph (b).
 (6) After considering the matters referred to in subsection (5), the Director shall—
   (a) finally determine whether or not to make the proposed adverse decision; and
-  (b) as soon as practicable thereafter, notify in writing the person directly affected, and any other person of a kind referred to in subsection (3)(a), of—
+  (b) as soon as practicable thereafter, notify in writing the person directly affected, and any other person of a kind referred to in subsection (3)﻿(a), of—
     (i) the Director's decision and the grounds for the decision; and
     (ii) the date on which the decision will take effect; and
     (iii) in the case of an adverse decision, the consequences of that decision and any applicable right of appeal (being a right of appeal specified in section 9(4) or section 17(7) or section 18(4)).
@@ -430,15 +430,15 @@ The functions of the Minister under this Act are—
     (ii) to implement any international convention or agreement relating to search and rescue to which New Zealand is a party; and
   (c) may appoint persons to, either generally or in any particular case, participate in or co-ordinate a search and rescue operation specified in paragraph (a).
 (2) The Minister may authorise the payment, out of money appropriated for the purpose by Parliament, of an amount that the Minister considers appropriate to—
-  (a) any person who assisted in a search and rescue operation specified in subsection (1)(a) at the request of a person appointed under subsection (1)(c); or
-  (b) the owner of any vehicle, ship, or aircraft used in a search and rescue operation specified in subsection (1)(a) in response to a request by a person appointed under subsection (1)(c).
+  (a) any person who assisted in a search and rescue operation specified in subsection (1)﻿(a) at the request of a person appointed under subsection (1)﻿(c); or
+  (b) the owner of any vehicle, ship, or aircraft used in a search and rescue operation specified in subsection (1)﻿(a) in response to a request by a person appointed under subsection (1)﻿(c).
 
 ### 14C Minister may direct agencies with respect to search and rescue operations
 The Minister may direct the Civil Aviation Authority or Maritime New Zealand, or any other Crown entity or government agency for which the Minister is responsible and whose functions are consistent with search and rescue operations, to do any or all of the following:
-  (a) operate and maintain the search and rescue co-ordination centre established under section 14B(1)(a):
-  (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 14B(1)(a):
-  (c) perform, or participate in the performance of, any search and rescue operation specified in section 14B(1)(a):
-  (d) exercise any or all of the powers of the Minister under section 14B(1)(b) and (c) and section 14B(2).
+  (a) operate and maintain the search and rescue co-ordination centre established under section 14B(1)﻿(a):
+  (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 14B(1)﻿(a):
+  (c) perform, or participate in the performance of, any search and rescue operation specified in section 14B(1)﻿(a):
+  (d) exercise any or all of the powers of the Minister under section 14B(1)﻿(b) and (c) and section 14B(2).
 
 ### 15 Director may require or carry out safety and security inspections and monitoring
 (1) The Director may in writing require any person who—to undergo or carry out such inspections and such monitoring as the Director considers necessary in the interests of civil aviation safety and security.
@@ -516,7 +516,7 @@ The Minister may direct the Civil Aviation Authority or Maritime New Zealand, or
 (7) If the Director determines not to disclose any information in reliance on subsection (6), the Director must inform the person of the fact of non-disclosure and,—
   (a) in the case of non-disclosure to an individual of information about the individual,—
     (i) inform the individual that the individual may, under the Privacy Act 1993, complain to the Privacy Commissioner about that non-disclosure; and
-    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)(d) of that Act; and
+    (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 27(1)﻿(d) of that Act; and
   (b) in any other case,—
     (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the Official Information Act 1982; and
     (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under section 6(d) of that Act.
@@ -691,14 +691,14 @@ Notwithstanding sections 23 to 23B of this Act or section 73 of the Crown Entiti
   (b) may require the applicant, at the applicant's expense, to undertake any other tests, examinations, or re-examinations conducted by any suitably qualified and experienced person, or to provide any medical information, as the Director reasonably considers necessary to assess the applicant.
 (6) If the Director requires an applicant to undertake any other test, examination, or re-examination, or to provide any medical information, the period in which the Director must make a decision in relation to the medical certificate under this section does not include the number of days that are required to conduct and deliver the results of the test, examination, or re-examination, or to provide the medical information, to the Director.
 (7) The Director must maintain a register of current medical certificates issued under this section.
-(8) Any decision made under this section by the Director in relation to a medical certificate other than a decision under sub- section (5)(b) is subject to section 27L (review of decisions regarding medical certificates or applications).
+(8) Any decision made under this section by the Director in relation to a medical certificate other than a decision under sub- section (5)﻿(b) is subject to section 27L (review of decisions regarding medical certificates or applications).
 
 ### 27C Changes in medical condition of licence holder
-(1) Subject to any directions that the Director may issue under section 27G(1)(b), if a licence holder is aware of, or has reasonable grounds to suspect, any change in his or her medical condition or the existence of any previously undetected medical condition that may interfere with the safe exercise of the privileges to which his or her medical certificate relates, the licence holder—
+(1) Subject to any directions that the Director may issue under section 27G(1)﻿(b), if a licence holder is aware of, or has reasonable grounds to suspect, any change in his or her medical condition or the existence of any previously undetected medical condition that may interfere with the safe exercise of the privileges to which his or her medical certificate relates, the licence holder—
   (a) must advise the Director of the change as soon as practicable; and
   (b) may not exercise the privileges to which the licence holder's medical certificate relates.
-(2) Subject to any directions that the Director may issue under section 27G(1)(b), if an aviation examiner or medical examiner or operator is aware of, or has reasonable grounds to suspect, any change in the medical condition of a licence holder or the existence of any previously undetected medical condition in the licence holder that may interfere with the safe exercise of the privileges to which the licence holder's medical certificate relates, the aviation examiner or medical examiner or operator must advise both the licence holder and the Director of the change as soon as practicable.
-(3) Subject to any directions that the Director may issue under section 27G(1)(b), if a medical practitioner has reasonable grounds to believe that a person is a licence holder and is aware, or has reasonable grounds to suspect, that the licence holder has a medical condition that may interfere with the safe exercise of the privileges to which the licence holder's medical certificate relates, the medical practitioner must, as soon as practicable,—
+(2) Subject to any directions that the Director may issue under section 27G(1)﻿(b), if an aviation examiner or medical examiner or operator is aware of, or has reasonable grounds to suspect, any change in the medical condition of a licence holder or the existence of any previously undetected medical condition in the licence holder that may interfere with the safe exercise of the privileges to which the licence holder's medical certificate relates, the aviation examiner or medical examiner or operator must advise both the licence holder and the Director of the change as soon as practicable.
+(3) Subject to any directions that the Director may issue under section 27G(1)﻿(b), if a medical practitioner has reasonable grounds to believe that a person is a licence holder and is aware, or has reasonable grounds to suspect, that the licence holder has a medical condition that may interfere with the safe exercise of the privileges to which the licence holder's medical certificate relates, the medical practitioner must, as soon as practicable,—
   (a) inform the licence holder that the Director will be advised of the condition; and
   (b) advise the Director of the condition.
 (4) An aviation examiner or medical examiner or a medical practitioner is not subject to any civil or criminal liability for—
@@ -737,7 +737,7 @@ The Director may, on receiving an application for a medical certificate from a l
     (ii) the interpretation and analysis of results of examinations:
     (iii) the significance of results of examinations for the purpose of determining whether or not an applicant is eligible for a medical certificate under section 27B.
 (2) Before issuing general directions under subsection (1), the Director must consult with those persons, health professionals with aviation medical experience, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies that he or she considers appropriate.
-(3) General directions issued in relation to the matters specified in subsection (1)(a) or (c) must be—
+(3) General directions issued in relation to the matters specified in subsection (1)﻿(a) or (c) must be—
   (a) notified in writing to aviation examiners or medical examiners; and
   (b) incorporated in a medical manual issued by the Director.
 (4) The Director may issue directives in emergency situations without consultation or prior notice in the Gazette, but those directives—
@@ -775,15 +775,15 @@ The Director may, on receiving an application for a medical certificate from a l
     (iii) impose or amend any conditions, restrictions, or endorsements on any medical certificate issued to the licence holder; and
   (b) may, by written notice to the person with delegated authority, revoke that person's delegated authority.
 (4) Any notice issued under this section must state the grounds for the Director's decision.
-(5) A notice of suspension issued under subsection (1)(a) or subsection (2)(a) or subsection (3)(a)(i) remains in force until the Director determines what action, if any, referred to in subsection (7) is to be taken, but any such suspension expires 10 working days after the date that the suspension is imposed unless, before the expiry of that 10-working-day period, the Director extends the suspension for a further specified period not exceeding 10 working days (the aggregate suspension period may not exceed 20 working days after the date on which the suspension is imposed).
-(6) Any conditions, restrictions, or endorsements that are imposed or made under subsection (1)(b) or subsection (2)(c) or subsection (3)(a)(iii) remain in force until the Director determines what action, if any, referred to in subsection (7) is to be taken, but any of those conditions, restrictions, or endorsements expire 10 working days after the date that they are imposed unless, before the expiry of that 10-working-day period, the Director extends the conditions, restrictions, or endorsements for a further specified period not exceeding 10 working days (the aggregate period may not exceed 20 working days after the date on which the conditions, restrictions, or endorsements are imposed).
+(5) A notice of suspension issued under subsection (1)﻿(a) or subsection (2)﻿(a) or subsection (3)﻿(a)﻿(i) remains in force until the Director determines what action, if any, referred to in subsection (7) is to be taken, but any such suspension expires 10 working days after the date that the suspension is imposed unless, before the expiry of that 10-working-day period, the Director extends the suspension for a further specified period not exceeding 10 working days (the aggregate suspension period may not exceed 20 working days after the date on which the suspension is imposed).
+(6) Any conditions, restrictions, or endorsements that are imposed or made under subsection (1)﻿(b) or subsection (2)﻿(c) or subsection (3)﻿(a)﻿(iii) remain in force until the Director determines what action, if any, referred to in subsection (7) is to be taken, but any of those conditions, restrictions, or endorsements expire 10 working days after the date that they are imposed unless, before the expiry of that 10-working-day period, the Director extends the conditions, restrictions, or endorsements for a further specified period not exceeding 10 working days (the aggregate period may not exceed 20 working days after the date on which the conditions, restrictions, or endorsements are imposed).
 (7) If a notice is issued under subsection (1) or subsection (2) or subsection (3), the Director may, by written notice, take 1 or more of the following actions:
   (a) impose or amend conditions, restrictions, or endorsements for a specified period:
   (b) withdraw any conditions, restrictions, or endorsements:
   (c) disqualify the licence holder from holding the medical certificate for a specified period:
   (d) revoke the medical certificate:
   (e) cancel the suspension.
-(8) If the Director revokes a medical certificate under subsection (2)(b) or subsection (3)(a)(ii) or subsection (7)(d) or subsection (11) or imposes any conditions, restrictions, or endorsements on a medical certificate under subsection (7)(a) or disqualifies a licence holder under subsection (7)(c), the licence holder has 20 working days from the date of the decision to ask the convener to review the decision under section 27L, after which time the decision may not be referred to the convener.
+(8) If the Director revokes a medical certificate under subsection (2)﻿(b) or subsection (3)﻿(a)﻿(ii) or subsection (7)﻿(d) or subsection (11) or imposes any conditions, restrictions, or endorsements on a medical certificate under subsection (7)﻿(a) or disqualifies a licence holder under subsection (7)﻿(c), the licence holder has 20 working days from the date of the decision to ask the convener to review the decision under section 27L, after which time the decision may not be referred to the convener.
 (9) A person who has had his or her medical certificate revoked, withdrawn, or suspended or who is disqualified from holding the medical certificate for a specified period must surrender the medical certificate to the Director, a person authorised by the Director, or a constable.
 (10) If the Director issues a notice under this section, the Director—
   (a) must also, if practicable, notify any aviation document holder affected by the notice, other than the licence holder, if the Director reasonably considers it necessary for reasons of aviation safety; and
@@ -820,13 +820,13 @@ The Director may, on receiving an application for a medical certificate from a l
 
 ### 27L Review of decisions regarding medical certificates or applications
 (1) A licence holder or an applicant may, within 20 working days of a decision being made, ask the convener in writing to review the following decisions made by the Director about that person's medical certificate or application:
-  (a) any decision made under section 27B, other than a decision made under section 27B(5)(b):
+  (a) any decision made under section 27B, other than a decision made under section 27B(5)﻿(b):
   (b) any decision made under section 27I, other than a decision made under—
     (i) section 27I(1); or
-    (ii) section 27I(2)(a); or
-    (iii) section 27I(2)(c); or
-    (iv) section 27I(3)(a)(i); or
-    (v) section 27I(3)(a)(iii).
+    (ii) section 27I(2)﻿(a); or
+    (iii) section 27I(2)﻿(c); or
+    (iv) section 27I(3)﻿(a)﻿(i); or
+    (v) section 27I(3)﻿(a)﻿(iii).
 (2) If such a request is made, the convener must, as soon as practicable, review the decision.
 (3) The convener—
   (a) must draw on the advice and expertise of at least 1 person who the convener is satisfied is suitably qualified and experienced to assist the convener in his or her assessment of the decision that is under review; and
@@ -886,7 +886,7 @@ The Director may, on receiving an application for a medical certificate from a l
 (10) The Director may not delegate under this section any of his or her functions or powers under section 27L or section 27M.
 
 ### 27P Right of appeal to District Court
-Any person affected by a decision of the Director under section 27B (other than a decision made under section 27B(5)(b)), section 27I(7), section 27I(11), section 27L, or section 27M has a right of appeal to a District Court under section 66.
+Any person affected by a decision of the Director under section 27B (other than a decision made under section 27B(5)﻿(b)), section 27I(7), section 27I(11), section 27L, or section 27M has a right of appeal to a District Court under section 66.
 
 ### 27Q Transitional provisions
 (1) Part 67 of the rules (as it read immediately before the commencement of this Part) continues to apply to—
@@ -899,7 +899,7 @@ Any person affected by a decision of the Director under section 27B (other than 
     (iii) relating to the classification of aviation examiners and medical examiners and any related standards and restrictions on the exercise of their functions and powers; and
   (b) the Director must designate, by issuing an aviation document under section 9, 1 or more medical examiners to conduct examinations under section 27D; and
   (c) the Director may designate, by issuing an aviation document under section 9, 1 or more aviation examiners to conduct specified examinations that the Director may require under this Part.
-(3) In the absence of rules under section 30(b)(x) or section 30(b)(xi), the Minister must establish the criteria for the grant of delegations, including—
+(3) In the absence of rules under section 30(b)﻿(x) or section 30(b)﻿(xi), the Minister must establish the criteria for the grant of delegations, including—
   (a) any requirements for the grant of delegations by the Director under section 27O(2); and
   (b) any requirements for the purposes of determining suitably qualified medical examiners and establishing the criteria for standard medical assessments under section 27O(2).
 
@@ -1051,7 +1051,7 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 ### 34A Governor-General may make ordinary rules
 (1) Despite anything in this Part, the Governor-General may, by Order in Council, on the recommendation of the Minister, make, amend, or revoke an ordinary rule for any of the purposes for which the Minister may make, amend, or revoke an ordinary rule under this Part.
 (2) The Minister must have regard to the criteria specified in section 33(2) before making a recommendation under subsection (1).
-(3) Sections 32(1)(a) and 34(1) do not apply to an ordinary rule made by Order in Council under subsection (1).
+(3) Sections 32(1)﻿(a) and 34(1) do not apply to an ordinary rule made by Order in Council under subsection (1).
 (4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must be published as part of the rules as if the Minister had made the rule or the amendment to the rule.
 (5) The Minister may amend or revoke an ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) as if the Minister had made the ordinary rule or the amendment to the ordinary rule under this Part.
 (6) An Order in Council made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
@@ -1180,17 +1180,18 @@ Without limiting the power conferred by section 28, the Minister may make ordina
     (iii) any aviation related service; or
     (iv) any privileges exercisable under any aviation document.
 
-### 42C Levy orders to be confirmed
+### 42C Levy orders are confirmable instruments
 (1) Every Order in Council made under section 42A shall be laid before the House of Representatives not later than the 16th sitting day of the House of Representatives after the day on which it is made.
-(2) Every such Order in Council shall—
-  (a) where the order is made on or before 30 June in any year, expire on the close of 31 December of that year except so far as it is expressly validated or confirmed by Act of Parliament passed during that year; and
-  (b) where the order is made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as it is expressly validated or confirmed by Act of Parliament passed before the end of that following year.
-(3) Where an Order in Council made under section 42A expires by virtue of subsection (2), the following provisions shall apply:
+(2) The explanatory note of every such Order in Council must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+(3) Where an Order in Council made under section 42A is revoked by section 47C(1)﻿(a) or (b) of the Legislation Act 2012, the following provisions shall apply:
   (a) every levy imposed or increased or decreased by the order shall thereupon cease to be payable:
-  (b) the expiry of the order does not affect the liability of any person to pay any amount under the order, so long as the liability was incurred while the order was in force:
+  (b) the revocation of the order does not affect the liability of any person to pay any amount under the order, so long as the liability was incurred while the order was in force:
   (c) where a payment of a levy under the order has been made in error or in excess of the amount payable, then, except so far as any other provision is made by any other Act in respect thereof, the person in respect of whom the payment was made shall, upon application made to the Authority, be entitled to a refund of the amount paid in error or in excess of the amount payable.
-(4) Every application under subsection (3)(c) shall be in a form provided for the purpose by the Authority and shall contain such information as the Authority considers necessary to enable the refund to be made in accordance with this section.
-(5) The repeal of any Act passed for the purpose of expressly validating or confirming any Orders in Council pursuant to subsection (2) shall not, unless there is any express provision to the contrary, affect the validity or confirmation of those orders.
+(4) Every application under subsection (3)﻿(c) shall be in a form provided for the purpose by the Authority and shall contain such information as the Authority considers necessary to enable the refund to be made in accordance with this section.
+(5)
 
 ### 42D Other provisions relating to levies
 (1) Every levy imposed under section 42A shall be paid to the Authority to be applied by the Authority in performing its functions under this Act.
@@ -1474,7 +1475,7 @@ Where a court makes an order disqualifying a person from holding or obtaining an
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
 
 ### 65AA Burden of proof of reasonable excuse
-In proceedings for an offence against any of sections 44A(1), 46C(1), 49(1)(b) and (c), 50A(1), 51, 52A, 52B(1), 52C(1), 53, 56A(1)(b), 65P(6), 77I(1), 96B(1) and (2), and 99C(1)(a) and (b),—
+In proceedings for an offence against any of sections 44A(1), 46C(1), 49(1)﻿(b) and (c), 50A(1), 51, 52A, 52B(1), 52C(1), 53, 56A(1)﻿(b), 65P(6), 77I(1), 96B(1) and (2), and 99C(1)﻿(a) and (b),—
   (a) the prosecutor need not assert absence of reasonable excuse in the charging document; and
   (b) the burden of proving that the defendant had a reasonable excuse lies on the defendant.
 
@@ -1508,7 +1509,7 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
     (ii) provides an undertaking in the prescribed form that he or she (or the operator of the aircraft) has not made or will not make a similar request to the authorities of any other State; and
   (b) in the case of proceedings, the Attorney-General consents.
 (2) To avoid doubt, a person may, in respect of an unruly passenger offence, be arrested, charged, remanded in custody, or released on bail before the Attorney-General decides whether or not to consent to proceedings.
-(3) Despite subsection (1)(b), proceedings for an unruly passenger offence committed on a foreign aircraft outside of New Zealand may be commenced without the Attorney-General's consent if—
+(3) Despite subsection (1)﻿(b), proceedings for an unruly passenger offence committed on a foreign aircraft outside of New Zealand may be commenced without the Attorney-General's consent if—
   (a) a copy of the infringement notice is filed or particulars of the infringement notice are provided under section 65S(1); or
   (b) the defendant requests a hearing in respect of the infringement offence to which the infringement notice relates.
 (4) In any proceedings for an offence under this Part, the pilot-in-command's request and undertaking, if made in the prescribed form or forms, are—
@@ -1518,7 +1519,7 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
 ### 65E Proceedings for offences
 (1)
 (2)
-(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 the limitation period in respect of the offences specified in this Part (except sections 65F and 65G(1)(d)) ends on the date that is 12 months after the date on which the offence was committed.
+(3) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011 the limitation period in respect of the offences specified in this Part (except sections 65F and 65G(1)﻿(d)) ends on the date that is 12 months after the date on which the offence was committed.
 (4) Subject to section 65C, nothing in this Part affects the liability of any person under any other enactment.
 
 **Unruly passenger offences**
@@ -1533,9 +1534,9 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
   (b) behaves in a threatening, offensive, insulting, or disorderly manner towards a crew member; or
   (c) behaves in a manner that interferes with the performance by a crew member of his or her duties; or
   (d) intentionally interferes with the performance by a crew member of his or her duties.
-(2) Every person who commits an offence against subsection (1)(a) or (b) or (c) is liable on conviction to a fine not exceeding $5,000.
-(3) Every person who commits an offence against subsection (1)(d) is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000.
-(4) It is a defence in a prosecution under subsection (1)(a) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard by a crew member.
+(2) Every person who commits an offence against subsection (1)﻿(a) or (b) or (c) is liable on conviction to a fine not exceeding $5,000.
+(3) Every person who commits an offence against subsection (1)﻿(d) is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000.
+(4) It is a defence in a prosecution under subsection (1)﻿(a) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard by a crew member.
 
 ### 65H Interference with aircraft
 (1) Every person commits an offence who tampers or interferes with any aircraft, any component of an aircraft, or its equipment, including, but not limited to, smoke detectors.
@@ -1549,8 +1550,8 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
   (a) the prosecutor need not assert, in the charging document, that the defendant was not a person under medical care; and
   (b) the burden of proving that the defendant was under medical care lies on the defendant.
 (2) Every person who commits an offence against—
-  (a) subsection (1)(a) is liable on conviction to a fine not exceeding $5,000:
-  (b) subsection (1)(b) is liable on conviction to a fine not exceeding $3,000.
+  (a) subsection (1)﻿(a) is liable on conviction to a fine not exceeding $5,000:
+  (b) subsection (1)﻿(b) is liable on conviction to a fine not exceeding $3,000.
 (3) For the purposes of this section, a person is intoxicated if the pilot-in-command (or senior flight attendant authorised by the pilot-in-command for this purpose) has reasonable grounds to believe that the person is under the influence of alcohol (within the meaning of section 5(1) of the Sale and Supply of Alcohol Act 2012) or an intoxicating substance to such an extent as to—
   (a) be incapable of properly looking after himself or herself; or
   (b) actively present a hazard to the aircraft or to persons on the aircraft; or
@@ -1568,7 +1569,7 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
   (a) behaves in a threatening, offensive, insulting, or disorderly manner; or
   (b) uses threatening, offensive, or insulting words.
 (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500.
-(3) It is a defence in a prosecution under subsection (1)(b) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard.
+(3) It is a defence in a prosecution under subsection (1)﻿(b) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard.
 
 ### 65L Portable electronic devices not to be operated
 (1) Every person commits an offence who operates a portable electronic device on board an aircraft in breach of the rules.
@@ -1599,7 +1600,7 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
 (2) If the Director or a person authorised by the Director has reason to believe that a defendant has committed any offence specified in section 65Q(2),—
   (a) the defendant may be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) the Director or the person authorised by the Director may issue an infringement notice in respect of the alleged offence.
-(3) If the Director or a person authorised by the Director has reasonable cause to suspect that a person has committed any offence specified in section 65G(1)(a) to (c) or section 65H or section 65J or section 65K or section 65Q(2), he or she may require the person to give his or her full name, address, and date of birth.
+(3) If the Director or a person authorised by the Director has reasonable cause to suspect that a person has committed any offence specified in section 65G(1)﻿(a) to (c) or section 65H or section 65J or section 65K or section 65Q(2), he or she may require the person to give his or her full name, address, and date of birth.
 (4) If the Director or the person authorised by the Director has reasonable grounds to suppose that any details provided under subsection (3) are false or misleading, he or she may require the person to give such verification of those details as it is reasonable in the circumstances to require that person to provide.
 (5) If the person, without reasonable excuse, refuses or fails to comply with a request under subsection (3) or subsection (4), and persists in that refusal or failure after being warned by the Director or a person authorised by the Director that he or she may be arrested for committing an offence by that refusal or failure, a constable may arrest that person without warrant.
 (6) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, without reasonable excuse,—
@@ -1622,8 +1623,8 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
   (h) a statement of the consequences if the defendant neither pays the fee nor requests a hearing; and
   (i) any other particulars as are prescribed by regulations made under this Act.
 (2) The infringement fee is,—
-  (a) in the case of an offence against section 65I(1)(a), $1,000:
-  (b) in the case of an offence against section 65I(1)(b), $600:
+  (a) in the case of an offence against section 65I(1)﻿(a), $1,000:
+  (b) in the case of an offence against section 65I(1)﻿(b), $600:
   (c) in the case of an offence against section 65L, $500:
   (d) in the case of an offence against section 65M, $500:
   (e) in the case of an offence against section 65N, $500:
@@ -1638,15 +1639,15 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
   (a) the infringement fee for the offence has not by then been paid to the Director as specified in the notice; and
   (b) the Director has not by then received at the address specified in the notice a notice requesting a hearing in respect of that offence.
 (2) If an infringement notice under section 65P has been issued and served under this section, the Summary Proceedings Act 1957 applies as if that notice were a reminder notice served under section 21(2) of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if—
-  (a) the reference in section 21(1)(b) to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (1) of this section; and
+  (a) the reference in section 21(1)﻿(b) to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (1) of this section; and
   (b) subsection (1) of this section were in the place of section 21(3); and
   (c) the reference in section 21(3A) to the particulars of a reminder notice not having been provided under section 21(3) were a reference to the particulars of the infringement notice not having been provided under subsection (1) of this section; and
   (d) every reference in section 21(4), (4A), and (4B) to particulars of a reminder notice were a reference to the particulars of an infringement notice and every reference to the contents of a reminder notice were a reference to the contents of an infringement notice; and
-  (e) the reference in section 21(4)(a) to parts of the reminder notice were a reference to parts of the infringement notice; and
+  (e) the reference in section 21(4)﻿(a) to parts of the reminder notice were a reference to parts of the infringement notice; and
   (f) the reference in section 21(4C) to particulars of a reminder notice were a reference to particulars of an infringement notice; and
   (g) the reference in section 21(4C) to the reminder notice were a reference to the infringement notice; and
   (h) the reference in section 21(5) to the verification of particulars of a reminder notice provided under section 21(3) were a reference to the verification of particulars of an infringement notice provided under subsection (1) of this section; and
-  (i) the reference in section 21(6)(b) and in section 21(10)(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
+  (i) the reference in section 21(6)﻿(b) and in section 21(10)﻿(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
   (j) each reference in section 21A and section 78B to a reminder notice were a reference to an infringement notice and each reference in section 21A and section 78B to the reminder notice were a reference to the infringement notice; and
   (k) the references to reminder notices in the definition of defendant in section 2, and in section 212, and in any other relevant provisions of that Act or in any regulations made under that Act, were references to the infringement notice.
 (3)
@@ -1676,10 +1677,10 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
   (b) to impose conditions on an aviation document:
   (c) to exercise powers under section 21:
   (d) to decline to register an aircraft under section 6.
-  (e) concerning the issue of a medical certificate under section 27B (other than a decision under subsection (5)(b) of that section):
-  (f) to impose or amend conditions, restrictions, or endorsements on a medical certificate under section 27I(7)(a):
-  (g) to disqualify a licence holder under section 27I(7)(c):
-  (h) to revoke a medical certificate under section 27I(7)(d) and (11):
+  (e) concerning the issue of a medical certificate under section 27B (other than a decision under subsection (5)﻿(b) of that section):
+  (f) to impose or amend conditions, restrictions, or endorsements on a medical certificate under section 27I(7)﻿(a):
+  (g) to disqualify a licence holder under section 27I(7)﻿(c):
+  (h) to revoke a medical certificate under section 27I(7)﻿(d) and (11):
   (i) concerning the implementation of the results of a report by the convener under section 27L or section 27M:
   (j) to amend an AOC with ANZA privileges or withdraw those privileges under section 11I(3).
 
@@ -1723,7 +1724,7 @@ Any person who commits an act or omission on an aircraft in flight outside New Z
 (1) There is hereby established an authority to be known as the Civil Aviation Authority of New Zealand.
 (1A) The Authority is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
 (1B) The Crown Entities Act 2004 applies to the Authority except to the extent that this Act expressly provides otherwise.
-(2) The Authority shall consist of 5 members appointed in accordance with section 28(1)(a) of the Crown Entities Act 2004.
+(2) The Authority shall consist of 5 members appointed in accordance with section 28(1)﻿(a) of the Crown Entities Act 2004.
 (2A) Members of the Authority are the board for the purposes of the Crown Entities Act 2004.
 (3)
 (4) The Minister shall appoint as members persons who the Minister considers will represent the public interest in civil aviation.
@@ -1756,10 +1757,10 @@ The objective of the Authority is to undertake its safety, security, and other f
   (ia) to provide information and advice with respect to civil aviation, and to foster appropriate information education programmes with respect to civil aviation, that promote its objective:
   (j) to enter into technical or operational arrangements, or both, with civil aviation authorities of other countries.
 (2A) The Authority must, if directed to do so by the Minister under section 14C, do any or all of the following:
-  (a) operate and maintain the search and rescue co-ordination centre established under section 14B(1)(a):
-  (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 14B(1)(a):
-  (c) perform, or participate in the performance of, any search and rescue operation specified in section 14B(1)(a):
-  (d) exercise any or all of the powers of the Minister under section 14B(1)(b) and (c) and section 14B(2).
+  (a) operate and maintain the search and rescue co-ordination centre established under section 14B(1)﻿(a):
+  (b) co-ordinate, or participate in the co-ordination of, any search and rescue operation specified in section 14B(1)﻿(a):
+  (c) perform, or participate in the performance of, any search and rescue operation specified in section 14B(1)﻿(a):
+  (d) exercise any or all of the powers of the Minister under section 14B(1)﻿(b) and (c) and section 14B(2).
 (3) The Authority must carry out any other civil aviation functions and duties that—
   (a) are conferred on it by this Act or any other Act; and
   (b) the Minister may direct in accordance with section 112 of the Crown Entities Act 2004.
@@ -1790,7 +1791,7 @@ Subject to this Act, the Authority shall, in the course of performing its functi
   (b) details of the procedures to be followed under the service charter by a person who alleges that the standards were not met; and
   (c) details of the remedies that are available under the service charter to the person affected where it is established by that person to the satisfaction of the Authority that the standards were not met; and
   (d) provision for the appointment by the Authority of an appropriate independent person to assist in the resolution of disputes arising in respect of alleged failures to meet the standards of service specified in the service charter.
-(2) The service charter may make provision for a person to be appointed as a deputy to the person appointed under the provision referred to in subsection (1)(d), and for the functions, duties, and powers of the deputy.
+(2) The service charter may make provision for a person to be appointed as a deputy to the person appointed under the provision referred to in subsection (1)﻿(d), and for the functions, duties, and powers of the deputy.
 (3) The Authority, the Director, any employee or agent of the Authority, and any agent of the Director shall have a public duty to observe the provisions of the service charter.
 (4) If the Authority fails to comply with subsection (1), the Minister shall prepare the service charter and shall make it available to the public.
 (5) The Authority (in any case) and the Minister (where the Minister has prepared it) may from time to time, in writing, amend the service charter, and shall make such amendments available to the public.
@@ -1858,7 +1859,7 @@ For the purposes of granting or renewing aviation documents under this Act, the 
 (2) Nothing in subsection (1) shall apply to the Aviation Security Service or the Authority or to any person who is appropriately authorised by the Authority.
 
 ### 72O References to Director to be read as General Manager of Aviation Security Service in certain circumstances
-(1) Every reference in sections 23A, 23B, 42, 49(1)(a), and 50 to the Director shall be read as a reference to the General Manager in so far as the subject matter relates to aviation security services, the Aviation Security Service, or the office of the General Manager.
+(1) Every reference in sections 23A, 23B, 42, 49(1)﻿(a), and 50 to the Director shall be read as a reference to the General Manager in so far as the subject matter relates to aviation security services, the Aviation Security Service, or the office of the General Manager.
 (2) Where any doubt arises as to whether or not any subject matter relates to aviation security services, the Aviation Security Service, or the office of the General Manager, or relates to any other matter to which this Act relates, the issue shall be determined by the Authority.
 (3) No act, omission, or proceeding shall be called into question or declared invalid on the ground that the Director or the General Manager was not the appropriate person to be involved in the act, omission, or proceeding if it is clear that either the Director or the General Manager was the appropriate person to be so involved.
 
@@ -1866,7 +1867,7 @@ For the purposes of granting or renewing aviation documents under this Act, the 
 
 ### 73 New Zealand Register of Aircraft
 (1) The Authority shall establish a register to be called the New Zealand Register of Aircraft.
-(2) The Authority shall enter in the Register such particulars as may be prescribed of every aircraft registered under section 6(1)(a).
+(2) The Authority shall enter in the Register such particulars as may be prescribed of every aircraft registered under section 6(1)﻿(a).
 
 ### 74 Civil Aviation Registry
 (1) The Authority shall establish a Civil Aviation Registry.
@@ -1935,7 +1936,7 @@ The Minister shall ensure that aviation security services are provided at all se
   (c) has notified all affected parties (other than persons boarding an aircraft) before that date.
 (4) If a direction takes effect on a date before the notice is published in the Gazette,—
   (a) the direction expires 28 days after that date unless the notice is published in the Gazette within 28 days of that date; and
-  (b) if the notice is published in the Gazette within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Minister, after complying with subsection (3)(b) and (c), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
+  (b) if the notice is published in the Gazette within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Minister, after complying with subsection (3)﻿(b) and (c), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
 (5) A direction that takes effect on a date on or after the notice is published in the Gazette is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5A) No direction made under subsection (1) is a legislative instrument for the purposes of the Legislation Act 2012.
 (6) The Minister may rescind a direction made under subsection (1).
@@ -1976,7 +1977,7 @@ The Minister shall ensure that aviation security services are provided at all se
   (b) has notified all affected parties (other than persons boarding an aircraft) before that date.
 (4) If a direction takes effect on a date before the notice is published in the Gazette,—
   (a) the direction expires 28 days after that date unless the notice is published in the Gazette within 28 days of that date; and
-  (b) if the notice is published in the Gazette within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Director, after complying with subsection (3)(b), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
+  (b) if the notice is published in the Gazette within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Director, after complying with subsection (3)﻿(b), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
 (5) A direction that takes effect on a date on or after the notice is published in the Gazette is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (5A) No direction made under subsection (1) is a legislative instrument for the purposes of the Legislation Act 2012.
 (6) The Director may rescind a direction made under subsection (1).
@@ -1997,7 +1998,7 @@ The Minister shall ensure that aviation security services are provided at all se
 (2) If a person refuses consent to a security check under subsection (1), the person may not be granted any authorisation under the rules if the rules require a favourable security check determination.
 (3) The Director may grant a favourable security check determination if the Director decides that the person has undergone an alternative security check that is acceptable to the Director.
 (4) For the purpose of determining whether a person poses a threat to aviation security, the Director may—
-  (a) seek and receive any information that the Director considers relevant, including (but not limited to) a recommendation made by the New Zealand Security Intelligence Service under section 4(1)(bb) of the New Zealand Security Intelligence Service Act 1969; and
+  (a) seek and receive any information that the Director considers relevant, including (but not limited to) a recommendation made by the New Zealand Security Intelligence Service under section 4(1)﻿(bb) of the New Zealand Security Intelligence Service Act 1969; and
   (b) give weight to any component of the information as the Director considers appropriate in the circumstances.
 (5) If the Director determines that a person does not pose a threat to aviation security, the Director must advise the person of the favourable security check determination.
 (6) The Director may reconsider any previous security check determination that the Director has made if—
@@ -2016,7 +2017,7 @@ The Minister shall ensure that aviation security services are provided at all se
 (8) Nothing in this section limits the power of the Director to grant an exemption under section 37.
 
 ### 77G Review procedures for security check determinations
-(1) If the Director makes an adverse security check determination with respect to a New Zealand person based on a recommendation made by the New Zealand Security Intelligence Service under section 4(1)(bb) of the New Zealand Security Intelligence Service Act 1969, the Director must advise the New Zealand person that the person may lodge a complaint regarding the recommendation with the Inspector-General of Intelligence and Security in accordance with sections 11 and 16 of the Inspector-General of Intelligence and Security Act 1996.
+(1) If the Director makes an adverse security check determination with respect to a New Zealand person based on a recommendation made by the New Zealand Security Intelligence Service under section 4(1)﻿(bb) of the New Zealand Security Intelligence Service Act 1969, the Director must advise the New Zealand person that the person may lodge a complaint regarding the recommendation with the Inspector-General of Intelligence and Security in accordance with sections 11 and 16 of the Inspector-General of Intelligence and Security Act 1996.
 (2) If the Director proposes to make an adverse security check determination with respect to a person based on information other than a recommendation made by the New Zealand Security Intelligence Service, the Director must—
   (a) advise the person of the proposed determination and the reasons for the proposed determination; and
   (b) give the person written notice that, within 20 working days of the date of the notice, the person may—
@@ -2044,14 +2045,14 @@ The Minister shall ensure that aviation security services are provided at all se
 
 ### 77H Offence to carry out activity while authorisation withdrawn or after authorisation revoked
 (1) Every person commits an offence who carries out an activity that requires an authorisation—
-  (a) during a period when that authorisation has been withdrawn under section 77F(7)(d) or (e); or
+  (a) during a period when that authorisation has been withdrawn under section 77F(7)﻿(d) or (e); or
   (b) if that authorisation has been revoked under section 77G(4).
 (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000.
 
 ### 77I Offence to fail to comply with Director's requirement to withdraw or revoke authorisation
 (1) Every person commits an offence who fails, without reasonable excuse, to comply with the Director's requirement to—
-  (a) withdraw an authorisation under section 77F(7)(e); or
-  (b) revoke an authorisation under section 77G(4)(b).
+  (a) withdraw an authorisation under section 77F(7)﻿(e); or
+  (b) revoke an authorisation under section 77G(4)﻿(b).
 (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
 
 ### 78 Aviation Security Service
@@ -2110,7 +2111,7 @@ Without limiting the powers, functions, duties, or responsibilities of the Polic
   (a) detain the item or substance until it is dealt with in accordance with paragraph (b) or (c); or
   (b) dispose of or destroy the item or substance; or
   (c) deliver the item or substance to a constable.
-(6) If an aviation security officer delivers an item or substance to a constable under subsection (5)(c), the aviation security officer must record the delivery and the relevant details of the seizure.
+(6) If an aviation security officer delivers an item or substance to a constable under subsection (5)﻿(c), the aviation security officer must record the delivery and the relevant details of the seizure.
 (7) Despite anything in this section, if the aviation security officer has reasonable grounds to believe that an item or substance poses an imminent risk to safety, the aviation security officer may destroy or otherwise dispose of the item or substance.
 
 ### 80C Powers and duties of aviation security officers relating to security enhanced areas
@@ -2152,8 +2153,8 @@ Without limiting the powers, functions, duties, or responsibilities of the Polic
     (ii) a search of the person refusing to consent is likely to disclose evidence that an offence against the Aviation Crimes Act 1972 has been, is being, or is likely to be, committed, whether by that person or any other person.
 (4) A person detained under subsection (3) must be delivered to a constable as soon as practicable.
 (5) An aviation security officer, or any person assisting an aviation security officer, may use reasonable force, or any assistance that is reasonably necessary in the circumstances, to—
-  (a) prevent a person from entering a security enhanced area under subsection (2)(a):
-  (b) remove a person from a security enhanced area under subsection (2)(b):
+  (a) prevent a person from entering a security enhanced area under subsection (2)﻿(a):
+  (b) remove a person from a security enhanced area under subsection (2)﻿(b):
   (c) detain a person under subsection (3).
 
 ### 80F Searches of persons refusing consent to be searched
@@ -2245,7 +2246,7 @@ Nothing done by an aviation security officer under sections 80B(3) to (7) and 80
   (b) search a person under subsection (1A):
   (c) seize an item or substance under subsection (1A).
 (1C) To avoid doubt, an aviation security officer may search a person under this section whether or not an aviation security officer has previously searched the person under another section of this Act or under the Aviation Crimes Act 1972.
-(1D) An aviation security officer who undertakes a search under this section must, within 3 working days of the search, give the Director a written report of the search, the circumstances in which it was conducted, and the matters that gave rise to the reasonable grounds to believe required by subsection (1A)(b).
+(1D) An aviation security officer who undertakes a search under this section must, within 3 working days of the search, give the Director a written report of the search, the circumstances in which it was conducted, and the matters that gave rise to the reasonable grounds to believe required by subsection (1A)﻿(b).
 (2) Any person called upon to do so by an aviation security officer is justified in assisting him or her in good faith to arrest any person.
 (3) An aviation security officer shall as soon as may be practicable deliver any person he or she arrests, and any item or substance he or she seizes, to a constable.
 (4) An aviation security officer may seize an item or substance in the possession of a person that the aviation security officer arrests if the aviation security officer has reasonable grounds to believe that the item or substance is evidence of an offence against an enactment specified in subsection (1).
@@ -2300,7 +2301,7 @@ The Minister shall be the licensing authority to grant scheduled international a
   (d) the likelihood of the applicant carrying on the proposed service satisfactorily:
   (e) any written representations received by the Minister in relation to the application:
   (f) such other matters as the Minister thinks fit.
-(2) If the granting of the licence would be contrary to any agreement, convention, or arrangement referred to in subsection (1)(a), the Minister shall refuse to grant the licence.
+(2) If the granting of the licence would be contrary to any agreement, convention, or arrangement referred to in subsection (1)﻿(a), the Minister shall refuse to grant the licence.
 
 ### 87G Scheduled international air service licence may be granted subject to conditions
 (1) The Minister, after giving consideration to the application in accordance with section 87F, may refuse it, or may grant it wholly or partly, and subject to such conditions as the Minister thinks fit.
@@ -2351,7 +2352,7 @@ The Minister shall be the licensing authority to grant scheduled international a
   (a) any relevant air services agreement and associated arrangements, and any other international agreement, convention, or arrangement to which New Zealand is a party:
   (b) the safety and security requirements of the Director:
   (c) such other matters as the Minister thinks fit and has determined in writing should be taken into account.
-(2) If the granting of the licence would be contrary to any agreement, arrangement, or convention referred to in subsection (1)(a), the Secretary shall refuse to grant the licence.
+(2) If the granting of the licence would be contrary to any agreement, arrangement, or convention referred to in subsection (1)﻿(a), the Secretary shall refuse to grant the licence.
 
 ### 87N Scheduled international air service licence may be granted subject to conditions
 (1) The Secretary, after giving consideration to the application in accordance with section 87M, may refuse it, or may grant it wholly or partly, and subject to such conditions as the Secretary thinks fit.
@@ -2396,7 +2397,7 @@ The Secretary shall be the licensing authority to grant open aviation market lic
   (a) any relevant air services agreement and associated arrangements, and any other international agreement, convention, or arrangement to which New Zealand is a party:
   (b) the safety and security requirements of the Director:
   (c) such other matters as the Minister thinks fit and has determined in writing should be taken into account.
-(2) If the granting of the open aviation market licence would be contrary to any agreement, convention, or arrangement referred to in subsection (1)(a), the Secretary shall refuse to grant the licence.
+(2) If the granting of the open aviation market licence would be contrary to any agreement, convention, or arrangement referred to in subsection (1)﻿(a), the Secretary shall refuse to grant the licence.
 
 ### 87U Open aviation market licence may be granted subject to conditions
 (1) The Secretary, after giving consideration to the application in accordance with section 87T, may refuse it, or may grant it wholly or partly, and subject to such conditions as the Secretary thinks fit.
@@ -2620,8 +2621,8 @@ For the purposes of Article 20 of the Montreal Convention or Article 21 of the a
     (vi) the Parties to Protocol No 4; or
     (vii) the High Contracting Parties to the Warsaw Convention; or
     (viii) the Parties to the Montreal Convention; or
-  (b) the territories in respect of which the parties referred to in paragraph (a)(i), (ii), (iii), (iv), (v), (vi), (vii), or (viii) are respectively parties; or
-  (c) to what extent the parties referred to in paragraph (a)(i), (ii), (iii), (iv), (v), (vi), or (vii) have availed themselves of the Additional Protocol, which appears before the Additional Provisions of the Hague Protocol affecting the Warsaw Convention in the amended Convention, as set out in Schedule 4.
+  (b) the territories in respect of which the parties referred to in paragraph (a)﻿(i), (ii), (iii), (iv), (v), (vi), (vii), or (viii) are respectively parties; or
+  (c) to what extent the parties referred to in paragraph (a)﻿(i), (ii), (iii), (iv), (v), (vi), or (vii) have availed themselves of the Additional Protocol, which appears before the Additional Provisions of the Hague Protocol affecting the Warsaw Convention in the amended Convention, as set out in Schedule 4.
 (2) An Order in Council under this section is, except in so far as it has been superseded by a subsequent order, sufficient evidence of the matters so certified.
 (3) An Order in Council under this section may contain such transitional and other consequential provisions as the Governor-General considers to be desirable.
 (4) An Order in Council under this section certifying who are the High Contracting Parties to the amended Convention or the Parties to the Guadalajara Convention or the Parties to the Hague Protocol or the Parties to Additional Protocol No 1 or No 2 or to Protocol No 4 or the High Contracting Parties to the Warsaw Convention or the Parties to the Montreal Convention, must specify the date on and from which any such Party became or ceased to be a Party.
@@ -2731,7 +2732,7 @@ This Part does not apply so as to affect rights or liabilities arising out of an
   (b) the acts and omissions of the actual carrier, and of the actual carrier's servants and agents acting within the scope of their employment, must, in relation to the carriage performed by the actual carrier, be treated as also those of the contracting carrier:
   (c) the acts and omissions of the contracting carrier, and of the contracting carrier's servants and agents acting within the scope of their employment, must, in relation to the carriage performed by the actual carrier, be treated as also those of the actual carrier:
   (d) any special agreement under which the contracting carrier assumes obligations not imposed by this Part, or any waiver of rights conferred by this Part, does not affect the actual carrier unless agreed to by the actual carrier.
-(2) An act or omission specified in subsection (1)(c) does not subject the actual carrier to liability exceeding the limits specified in section 91ZC.
+(2) An act or omission specified in subsection (1)﻿(c) does not subject the actual carrier to liability exceeding the limits specified in section 91ZC.
 
 ### 91Y Provisions if carriage performed by successive carriers
 If carriage is performed or is to be performed by successive carriers, the contracting carrier who is liable is the successive carrier who performed or was to perform the carriage where the delay occurred.
@@ -2870,10 +2871,10 @@ In this Part, the expression joint venture airport means an aerodrome or airport
   (b) in the case of alcohol bought for consumption on the airport premises, the passenger is of or over the age stated in section 5 of the Sale and Supply of Alcohol Act 2012.
 (2) Unless alcohol sold under the authority of subsection (1) has been entered by the passenger concerned for home consumption in accordance with the Customs and Excise Act 1996, a person must not deliver it by or on behalf of the buyer to any other person within New Zealand, or consume it within New Zealand.
 (3) The Governor-General may, from time to time, by Order in Council, make regulations for either or both of the following purposes:
-  (a) prescribing the circumstances and conditions relating to the control of the sale of alcohol at international airports to passengers on aircraft departing from or arriving in New Zealand who are of or over the age referred to in subsection (1)(a) or (b) (as the case requires):
+  (a) prescribing the circumstances and conditions relating to the control of the sale of alcohol at international airports to passengers on aircraft departing from or arriving in New Zealand who are of or over the age referred to in subsection (1)﻿(a) or (b) (as the case requires):
   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $1,000, that may, on conviction, be imposed in respect of any such offence.
 (4) A person commits an offence who—
-  (a) sells alcohol at any international airport to any passenger on an aircraft departing from or arriving in New Zealand who is under the age referred to in subsection (1)(a) or (b) (as the case requires); or
+  (a) sells alcohol at any international airport to any passenger on an aircraft departing from or arriving in New Zealand who is under the age referred to in subsection (1)﻿(a) or (b) (as the case requires); or
   (b) fails to comply with subsection (2).
 (5) A person who commits an offence against subsection (4) is liable on conviction to a fine not exceeding $1,000.
 (6) Nothing in the Sale and Supply of Alcohol Act 2012 applies to the sale of alcohol under the authority of this section or of any regulations made under it.
@@ -2992,16 +2993,16 @@ Without limiting section 100, the Governor-General may from time to time, by Ord
       (B) direction made under section 77A:
   (f) such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Any regulations made under this Act may be so made that different regulations shall apply with respect to different classes of persons, aerodromes, aircraft, aeronautical products, aviation related services, or aeronautical procedures, or with respect to the same class of person, aerodrome, aircraft, aeronautical product, aviation related service, or aeronautical procedure in different circumstances.
-(3) To the extent that a rule made under section 28, 29, 29A, or 30 or a direction made under section 77A is inconsistent with a regulation made under subsection (1)(ee), the rule or direction is subject to the regulation.
-(4) No regulation made under subsection (1)(ee) may be considered invalid because it confers any discretion upon or allows any matter to be determined or approved by the Authority or the Director or any other person, or allows the Authority or the Director or any other person to impose requirements as to the performance of any activities.
-(5) So far as the bylaws of any local authority are inconsistent with or repugnant to any regulation made under subsection (1)(ee) in force in the same locality, the bylaws must be construed subject to the regulations made under subsection (1)(ee).
+(3) To the extent that a rule made under section 28, 29, 29A, or 30 or a direction made under section 77A is inconsistent with a regulation made under subsection (1)﻿(ee), the rule or direction is subject to the regulation.
+(4) No regulation made under subsection (1)﻿(ee) may be considered invalid because it confers any discretion upon or allows any matter to be determined or approved by the Authority or the Director or any other person, or allows the Authority or the Director or any other person to impose requirements as to the performance of any activities.
+(5) So far as the bylaws of any local authority are inconsistent with or repugnant to any regulation made under subsection (1)﻿(ee) in force in the same locality, the bylaws must be construed subject to the regulations made under subsection (1)﻿(ee).
 
 ### 100A Burden of proof of exceptions, etc, for offences in rules and regulations
 (1) This section applies to any offence contained in rules or regulations made pursuant to this Act.
 (2) Any exception, exemption, proviso, excuse, or qualification, whether it does or does not accompany the description of the offence,—
   (a) may be proved by the defendant; but
   (b) need not be negatived in the charging document, and, whether or not it is so negatived, no proof in relation to the matter is required on the part of the prosecutor.
-(3) Subsection (2)(b) is subject to section 17(4) of the Criminal Procedure Act 2011.
+(3) Subsection (2)﻿(b) is subject to section 17(4) of the Criminal Procedure Act 2011.
 
 ### 101 Repeals, revocation, amendments, and savings
 (1) The enactments specified in Schedule 1 are hereby repealed.
@@ -3324,8 +3325,8 @@ Any remedy set out in sub-paragraph (a), (b) or (c) of paragraph 1 or by Article
 
 ### 4.
 A chargee proposing to sell or grant a lease of an object under paragraph 1 shall give reasonable prior notice in writing of the proposed sale or lease to:
-(a) interested persons specified in Article 1(m)(i) and (ii); and
-(b) interested persons specified in Article 1(m)(iii) who have given notice of their rights to the chargee within a reasonable time prior to the sale or lease.
+(a) interested persons specified in Article 1(m)﻿(i) and (ii); and
+(b) interested persons specified in Article 1(m)﻿(iii) who have given notice of their rights to the chargee within a reasonable time prior to the sale or lease.
 
 ### 5.
 Any sum collected or received by the chargee as a result of exercise of any of the remedies set out in paragraph 1 or 2 shall be applied towards discharge of the amount of the secured obligations.
@@ -3343,10 +3344,10 @@ The court may on the application of the chargee order that ownership of (or any 
 The court shall grant an application under the preceding paragraph only if the amount of the secured obligations to be satisfied by such vesting is commensurate with the value of the object after taking account of any payment to be made by the chargee to any of the interested persons.
 
 ### 4.
-At any time after default as provided in Article 11 and before sale of the charged object or the making of an order under paragraph 2, the chargor or any interested person may discharge the security interest by paying in full the amount secured, subject to any lease granted by the chargee under Article 8(1)(b) or ordered under Article 8(2). Where, after such default, the payment of the amount secured is made in full by an interested person other than the debtor, that person is subrogated to the rights of the chargee.
+At any time after default as provided in Article 11 and before sale of the charged object or the making of an order under paragraph 2, the chargor or any interested person may discharge the security interest by paying in full the amount secured, subject to any lease granted by the chargee under Article 8(1)﻿(b) or ordered under Article 8(2). Where, after such default, the payment of the amount secured is made in full by an interested person other than the debtor, that person is subrogated to the rights of the chargee.
 
 ### 5.
-Ownership or any other interest of the chargor passing on a sale under Article 8(1)(b) or passing under paragraph 1 or 2 of this Article is free from any other interest over which the chargee’s security interest has priority under the provisions of Article 29.
+Ownership or any other interest of the chargor passing on a sale under Article 8(1)﻿(b) or passing under paragraph 1 or 2 of this Article is free from any other interest over which the chargee’s security interest has priority under the provisions of Article 29.
 
 ### 1.
 The debtor and the creditor may at any time agree in writing as to the events that constitute a default or otherwise give rise to the rights and remedies specified in Articles 8 to 10 and 13.
@@ -3655,10 +3656,10 @@ Subject to Articles 43 and 44, the courts of a Contracting State chosen by the p
 Any such agreement shall be in writing or otherwise concluded in accordance with the formal requirements of the law of the chosen forum.
 
 ### 1.
-The courts of a Contracting State chosen by the parties and the courts of the Contracting State on the territory of which the object is situated have jurisdiction to grant relief under Article 13(1)(a), (b), (c) and Article 13(4) in respect of that object.
+The courts of a Contracting State chosen by the parties and the courts of the Contracting State on the territory of which the object is situated have jurisdiction to grant relief under Article 13(1)﻿(a), (b), (c) and Article 13(4) in respect of that object.
 
 ### 2.
-Jurisdiction to grant relief under Article 13(1)(d) or other interim relief by virtue of Article 13(4) may be exercised either:
+Jurisdiction to grant relief under Article 13(1)﻿(d) or other interim relief by virtue of Article 13(4) may be exercised either:
 (a) by the courts chosen by the parties; or
 (b) by the courts of a Contracting State on the territory of which the debtor is situated, being relief which, by the terms of the order granting it, is enforceable only in the territory of that Contracting State.
 
@@ -3922,8 +3923,8 @@ The registry authority in a Contracting State shall, subject to any applicable s
 
 ### 6.
 A chargee proposing to procure the de-registration and export of an aircraft under paragraph 1 otherwise than pursuant to a court order shall give reasonable prior notice in writing of the proposed de-registration and export to:
-(a) interested persons specified in Article 1(m)(i) and (ii) of the Convention; and
-(b) interested persons specified in Article 1(m)(iii) of the Convention who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.
+(a) interested persons specified in Article 1(m)﻿(i) and (ii) of the Convention; and
+(b) interested persons specified in Article 1(m)﻿(iii) of the Convention who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.
 
 ### 1.
 This Article applies only where a Contracting State has made a declaration under Article XXX(2) and to the extent stated in such declaration.
@@ -3932,7 +3933,7 @@ This Article applies only where a Contracting State has made a declaration under
 For the purposes of Article 13(1) of the Convention, speedy in the context of obtaining relief means within such number of working days from the date of filing of the application for relief as is specified in a declaration made by the Contracting State in which the application is made.
 
 ### 3.
-Article 13(1) of the Convention applies with the following being added immediately after sub-paragraph (d):and Article 43(2) applies with the insertion after the words Article 13(1)(d) of the words and (e).
+Article 13(1) of the Convention applies with the following being added immediately after sub-paragraph (d):and Article 43(2) applies with the insertion after the words Article 13(1)﻿(d) of the words and (e).
 (“(e)) if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom”,
 
 ### 4.
@@ -4077,7 +4078,7 @@ For the purposes of Article 19(6) of the Convention, the search criteria for an 
 For the purposes of Article 25(2) of the Convention and in the circumstances there described, the holder of a registered prospective international interest or a registered prospective assignment of an international interest or the person in whose favour a prospective sale has been registered shall take such steps as are within its power to procure the discharge of the registration no later than five working days after the receipt of the demand described in such paragraph.
 
 ### 3.
-The fees referred to in Article 17(2)(h) of the Convention shall be determined so as to recover the reasonable costs of establishing, operating and regulating the International Registry and the reasonable costs of the Supervisory Authority associated with the performance of the functions, exercise of the powers, and discharge of the duties contemplated by Article 17(2) of the Convention.
+The fees referred to in Article 17(2)﻿(h) of the Convention shall be determined so as to recover the reasonable costs of establishing, operating and regulating the International Registry and the reasonable costs of the Supervisory Authority associated with the performance of the functions, exercise of the powers, and discharge of the duties contemplated by Article 17(2) of the Convention.
 
 ### 4.
 The centralised functions of the International Registry shall be operated and administered by the Registrar on a twenty-four hour basis. The various entry points shall be operated at least during working hours in their respective territories.
