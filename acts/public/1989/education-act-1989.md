@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2015-12-10_
+_Consolidation as at 2016-01-01_
 
 > An Act to reform the administration of education
 
@@ -79,10 +79,11 @@ _Consolidation as at 2015-12-10_
 (2) In this Part, and Parts 2 and 3, unless the context otherwise requires, a special school, special class, special clinic, or special service means a school, class, clinic, or service established under section 98(1) of the Education Act 1964 as a special school, special class, special clinic, or special service respectively.
 (3)
 (4) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student in subsection (1).
-(5) Regulations made under subsection (4),—
-  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year unless they are expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year unless they are expressly confirmed by Act of Parliament passed before the end of that following year.
-(6) The expiry of regulations made under subsection (4) does not affect the validity of any act done pursuant to, or in accordance with, the regulations before the date on which the regulations expire.
+(5) The explanatory note of regulations made under subsection (4) must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+(6)
 
 ### 3 Right to free primary and secondary education
 Except as provided in this Act or the Private Schools Conditional Integration Act 1975, every person who is not an international student is entitled to free enrolment and free education at any State school or partnership school kura hourua during the period beginning on the person's fifth birthday and ending on 1 January after the person's 19th birthday.
@@ -3658,10 +3659,11 @@ The Official Information Act 1982 does not apply to a sponsor of a partnership s
   (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be, in New Zealand to study under an exchange programme approved by the New Zealand Government,—
 (3) The definitions of the terms college of education, polytechnic, specialist college, university and wananga do not apply for the purposes of subsections (1), (2), and (4) of section 162.
 (4) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence class visa granted under the Immigration Act 2009 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student in subsection (1).
-(5) Regulations made under subsection (4),—
-  (a) if made on or before 30 June in any year, expire on the close of December of that year unless they are expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year unless they are expressly confirmed by Act of Parliament passed before the end of that following year.
-(6) The expiry of regulations made under subsection (4) does not affect the validity of any act done pursuant to, or in accordance with, the regulations before the date on which the regulations expire.
+(5) The explanatory note of regulations made under subsection (4) must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+(6)
 
 ### 159AA Tertiary education strategy
 (1) The Minister must, from time to time, issue a tertiary education strategy that sets out—
