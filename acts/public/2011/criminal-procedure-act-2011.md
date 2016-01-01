@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -3467,11 +3467,15 @@ A Judge or Registrar may, subject to any terms or conditions that the Judge or R
 (2) Regulations made under subsection (1)﻿(e) or (f) may—
   (a) prescribe different fees in respect of different classes of prosecutor or defendant or categories of offence, or on any other differential basis:
   (b) prescribe different fees in respect of a matter depending on whether electronic or other means are used in a particular circumstance.
-(3) Regulations made under subsection (1)﻿(i) or (j),—
-  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year unless they are expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year unless they are expressly confirmed by Act of Parliament passed before the end of that following year.
-(4) The expiry of regulations made under subsection (1)﻿(i) or (j) does not affect the validity of any act done pursuant to, or in accordance with, the regulations before the regulations expire.
+(3)
+(4)
 (5) Regulations made under subsection (1)﻿(k) must not be made without the concurrence of the Chief Justice and the Chief District Court Judge.
+
+### 387A Regulations under section 387(1)﻿(i) or (j) are confirmable instruments
+The explanatory note of regulations made under section 387(1)﻿(i) or (j) must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### Subpart 4 — Transitional and savings provisions
 
