@@ -1,5 +1,5 @@
 # Primary Products Marketing Act 1953
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2016-01-01_
 
 > An Act to provide for the establishment of Marketing Authorities for the purpose of regulating the marketing of primary products and to make provisions with respect to those Authorities
 
@@ -58,7 +58,7 @@ In this Act, unless the context otherwise requires,—
     (i) it is used only for holding amounts required by the regulations to be paid into it; and
     (ii) the balance in it on any day is not less than an amount calculated or ascertained in accordance with the regulations.
 (8) There is deemed to be held in trust for a Marketing Authority by a person required to keep a trust account—
-  (a) the amount referred to in subsection (7)(c)(ii) held in the account; or
+  (a) the amount referred to in subsection (7)﻿(c)﻿(ii) held in the account; or
   (b) where the amount held in the account is less than that amount, all the money in the account.
 (9) Money in a trust account that is deemed by subsection (8) to be held in trust for a Marketing Authority—any creditor of the person required to keep the account.
   (a) is not available for the payment of; and
@@ -68,9 +68,11 @@ In this Act, unless the context otherwise requires,—
   (a) would otherwise cease to be required by those regulations to keep a trust account; but
   (b) is required by those regulations to continue to maintain it until all money required to be paid to the Marketing Authority concerned has been paid to it.
 
-### 4 Regulations to expire unless confirmed by Act
-(1) All regulations laid before the House of Representatives in any session of Parliament pursuant to section 3 shall expire on the close of the last day of that session except so far as they are expressly validated or confirmed by an Act of Parliament passed during that session.
-(2) Unless otherwise provided, the repeal of any Act passed pursuant to subsection (1) shall not, of itself, affect the validity of any regulation validated or confirmed by the Act repealed.
+### 4 Regulations are confirmable instruments
+The explanatory note of regulations made under section 3(1) must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 5 Marketing Authorities to be bodies corporate
 Every Marketing Authority is a body corporate, with perpetual succession and a common seal.
