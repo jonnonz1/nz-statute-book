@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2016-01-01_
 
 > Title
 
@@ -1062,11 +1062,18 @@ Part 10 of the Employment Relations Act 2000 applies to the extent applicable an
   (c) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) No regulations may be made under this section about parental leave payments unless they are made in accordance with a recommendation of the Minister.
 (3) The Minister must not make that recommendation without first consulting with any persons or organisations that the Minister considers appropriate, having regard to the subject matter of the proposed regulations.
-(4) Regulations made under subsection (1)﻿(ad) or (ae),—
-  (a) if made on or before 30 June in any year, expire on the close of December of that year except in so far as they are expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year except in so far as they are expressly confirmed by Act of Parliament passed before the end of that following year.
-(5) The expiry of regulations under subsection (4) does not affect the validity of any act done pursuant to, or in accordance with, the regulations before the date on which the regulations expire.
+(4)
+(5)
 (6) A failure to comply with subsection (3) does not affect the validity of any regulation made under this Act.
+
+### 73A Regulations are confirmable instruments
+(1) This section applies to regulations if they are—
+  (a) regulations made under sections 71O and 73(1)﻿(ad); or
+  (b) regulations made under section 73(1)﻿(ae).
+(2) The explanatory note of the regulations must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 74 Repeal
 The Maternity Leave and Employment Protection Act 1980 is hereby repealed.
