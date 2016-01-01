@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2015-07-22_
+_Consolidation as at 2016-01-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -4834,15 +4834,18 @@ An enforcement authority may, in relation to infringement offences against regul
 
 ### 270 Fees and charges identified as land transport revenue
 (1) This section applies to regulations made by Order in Council under section 269 or 269A that prescribe fees or charges that are identified or to be treated as land transport revenue for the purposes of the Land Transport Management Act 2003 (relevant regulations).
-(2) If relevant regulations are made on or before 30 June in any year, they expire on the close of 31 December of that year except so far as they are expressly confirmed by Act of Parliament passed during that year.
-(3) If relevant regulations are made on or after 1 July in any year, they expire on the close of 31 December in the following year except so far as they are expressly confirmed by Act of Parliament passed before the end of that following year.
-(4) If relevant regulations expire by virtue of subsection (2) or (3), the fees or charges replaced or altered by those regulations are, from the expiry of those regulations and until the fees or charges are again replaced or altered, the same as they were immediately before those regulations came into force.
+(2) The explanatory note of relevant regulations must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+(3)
+(4) If relevant regulations are revoked by section 47C(1)﻿(a) or (b) of the Legislation Act 2012, the fees or charges replaced or altered by those regulations are, from the revocation of those regulations and until the fees or charges are again replaced or altered, the same as they were immediately before those regulations came into force.
 (5) The reference in subsection (4) to fees or charges replaced or altered by relevant regulations includes fees or charges—
   (a) prescribed (or having effect as if prescribed) under section 167 or 168B in respect of the same or substantially the same matter; and
   (b) in force immediately before the commencement of this section.
-(6) If relevant regulations expire by virtue of subsection (2) or (3), any fees and charges collected by virtue of those regulations in excess of the fees and charges otherwise payable must, except in so far as any other provision is made by an Act of Parliament, be refunded.
+(6) If relevant regulations are revoked by section 47C(1)﻿(a) or (b) of the Legislation Act 2012, any fees and charges collected by virtue of those regulations in excess of the fees and charges otherwise payable must, except in so far as any other provision is made by an Act of Parliament, be refunded.
 (7) Relevant regulations that the House of Representatives resolves should be revoked or varied are revoked or varied in accordance with the terms of the resolution, and any fees and charges collected under the relevant regulations in excess of the fees and charges otherwise payable are, so far as that resolution provides, to be refunded.
-(8) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming relevant regulations under subsection (2) or (3) does not, unless there is any express provision to the contrary, affect the validity or confirmation of the relevant regulations in question.
+(8)
 
 **Appointment**
 
