@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2015-11-07_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -226,10 +226,14 @@ If an authorised officer is, under section 24(1)﻿(a) or under section 25 and S
   (b) add a new policing role and specify powers in relation to it:
   (c) omit a specified policing role.
 (2) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) An Order in Council made under subsection (1),—
-  (a) if made on or before 30 June in any year, expires on the close of 31 December of that year unless it is expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expires on the close of 31 December in the following year unless it is expressly confirmed by Act of Parliament passed before the end of that following year.
-(4) The expiry of an Order in Council made under subsection (1) does not affect the validity of any act done pursuant to, or in accordance with, the Order in Council before the Order in Council expires.
+(3)
+(4)
+
+### 27A Orders are confirmable instruments
+The explanatory note of an Order in Council made under section 27(1) must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### Subpart 4 — General instructions
 
