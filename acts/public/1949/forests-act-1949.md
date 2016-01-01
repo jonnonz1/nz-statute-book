@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2016-01-01_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -125,7 +125,7 @@ This Act may be cited as the Forests Act 1949 and shall come into force on 1 Jan
 [Repealed]
 
 ### 13 Protection of forestry officers, etc
-Nothing done by any forestry officer, by an employee of the Ministry, or by any person appointed to a committee under section 15(2)(b) or to an Authority under section 71A shall, if done in good faith in the exercise of powers or in the performance of duties under this Act, subject that person to any personal liability in respect thereof.
+Nothing done by any forestry officer, by an employee of the Ministry, or by any person appointed to a committee under section 15(2)﻿(b) or to an Authority under section 71A shall, if done in good faith in the exercise of powers or in the performance of duties under this Act, subject that person to any personal liability in respect thereof.
 
 ### 14 Functions of the Forest Service
 [Repealed]
@@ -400,7 +400,7 @@ The purpose of this Part is to promote the sustainable forest management of indi
     (i) from a planted indigenous forest, if that timber is, or is from, a shrub, bush, seedling, or sapling; or
     (ii) other than indigenous timber to which subparagraph (i) applies, if the Secretary has stated in writing that he or she is satisfied that the timber has been harvested from a planted indigenous forest; or
     (iii) harvested from a forest subject to a forest sink covenant established in accordance with Part 3B.
-(2) Before giving approval under subsection (1)(f)(ii), the Secretary must be satisfied that the area concerned can continue to supply an annual or periodic non-diminishing yield of tree fern trunks in perpetuity.
+(2) Before giving approval under subsection (1)﻿(f)﻿(ii), the Secretary must be satisfied that the area concerned can continue to supply an annual or periodic non-diminishing yield of tree fern trunks in perpetuity.
 (3) No indigenous timber (other than personal effects and any finished or manufactured indigenous timber products) may be exported from New Zealand—
   (a) unless—
     (i) a notice of intention to export has been given to the Secretary in a form approved by the Secretary; and
@@ -432,13 +432,13 @@ The purpose of this Part is to promote the sustainable forest management of indi
   (c) the timber is a tree fern trunk, or is from a tree fern trunk, and the Secretary has stated in writing that he or she is satisfied that the timber has been or will be harvested from an area of land that is not indigenous forest land:
   (d) the timber is a tree fern trunk, or is from a tree fern trunk, and has been or will be harvested, with the prior written approval of the Secretary, from an area of land that is not subject to either a registered sustainable forest management plan or a registered sustainable forest management permit:
   (e) the timber has been seized under section 67R and sold, released, or disposed of in accordance with section 67S and the provisions of subparts 1, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 and the Secretary has stated in writing that the person to whom the timber is sold, released, or disposed was not involved in the felling and harvesting of the timber in contravention of this Part.
-(2) Before giving an approval under subsection (1)(d), the Secretary must be satisfied that the area concerned can continue to supply an annual or periodic non-diminishing yield of tree fern trunks in perpetuity, and that yield must include the harvesting of windthrown ferns or dead ferns as they become available.
+(2) Before giving an approval under subsection (1)﻿(d), the Secretary must be satisfied that the area concerned can continue to supply an annual or periodic non-diminishing yield of tree fern trunks in perpetuity, and that yield must include the harvesting of windthrown ferns or dead ferns as they become available.
 (3) On the application of the owner of any area of land not subject to a sustainable forest management plan or a sustainable forest management permit, the Secretary may, in consultation with the Director-General of Conservation,—
   (a) approve the harvesting and milling, for the owner's personal use, of not more than 50 cubic metres of indigenous timber (being roundwood) in any 10-year period; and
   (b) define the area from which the timber may be harvested and milled.
 
 ### 67DA Forests on specified Maori land to which sawmill controls apply
-(1) The Governor-General may from time to time, by Order in Council, specify forests on specified Maori land to which section 67D(1)(b)(i)(A) does not apply.
+(1) The Governor-General may from time to time, by Order in Council, specify forests on specified Maori land to which section 67D(1)﻿(b)﻿(i)﻿(A) does not apply.
 (2) The Governor-General may make an Order in Council under subsection (1) in relation to a forest only if he or she is satisfied that the owner of the forest has agreed with the Minister to—
   (a) surrender the right to mill indigenous timber harvested from the forest; or
   (b) surrender the right to mill indigenous timber harvested from the forest other than in accordance with a registered sustainable forest management plan or a registered sustainable forest management permit.
@@ -462,7 +462,7 @@ Where any land is specified in a registered sustainable forest management plan o
 ### 67F Procedure for approval of sustainable forest management plans
 (1) The owner of a landholding for an area of indigenous forest land may apply to the Secretary for approval of a draft sustainable forest management plan for all or part of that area.
 (1A) An application may be made by lodging the draft plan at a Ministry office.
-(2) As soon as practicable after lodgment of a draft plan and before making a decision in respect of the draft, the Secretary shall consult the Director-General of Conservation in every case, and shall also consult the chief executive of the Ministry of Maori Development if the area of indigenous forest land specified in the plan as the area of land to which the plan applies includes any Maori land.
+(2) As soon as practicable after lodgement of a draft plan and before making a decision in respect of the draft, the Secretary shall consult the Director-General of Conservation in every case, and shall also consult the chief executive of the Ministry of Maori Development if the area of indigenous forest land specified in the plan as the area of land to which the plan applies includes any Maori land.
 (3) The Secretary may require the owner to incorporate in the draft plan such amendments as the Secretary may specify in writing.
 (4) The Secretary may approve the draft plan with or without amendments.
 
@@ -553,14 +553,14 @@ The approval or registration of a sustainable forest management plan shall not c
   (b) to every permit under this section as if it were a sustainable forest management plan.
 
 ### 67N Provisions relating to representative area to be set aside
-The representative area that may be set aside and accordingly be unavailable for harvesting in accordance with clause 10(2)(a) of Schedule 2 may be determined by the Secretary in accordance with the following provisions:
+The representative area that may be set aside and accordingly be unavailable for harvesting in accordance with clause 10(2)﻿(a) of Schedule 2 may be determined by the Secretary in accordance with the following provisions:
   (a) in exercising his or her discretion to determine the representative area in any case, the Secretary shall have regard to the flora, fauna, and other conservation values within the total area that is subject to, or is to be subject to, the plan:
   (b) the Secretary may determine a representative area if satisfied that—
     (i) the area is of an adequate size and location to be accurately representative in the region concerned and adequately protective of such flora, fauna, and other conservation values in that region; or
     (ii) the flora, fauna, and other conservation values are adequately protected in the representative area together with any indigenous forest land protected under any Act in the region concerned.
 
 ### 67O Beech coupe size
-(1) Notwithstanding anything in clause 10(2)(c) of Schedule 2, an owner may apply to the Secretary for approval of the felling of beech in coupes having an area exceeding 0.5 hectares.
+(1) Notwithstanding anything in clause 10(2)﻿(c) of Schedule 2, an owner may apply to the Secretary for approval of the felling of beech in coupes having an area exceeding 0.5 hectares.
 (2) Subject to subsection (3), the Secretary may approve the felling of beech in coupes of such area not exceeding 20 hectares as he or she thinks appropriate.
 (3) In considering an application under this section, the Secretary shall have regard to whether coupes exceeding 0.5 hectares would result in any of the following:
   (a) a significant adverse impact on flora and fauna, or other natural values:
@@ -595,7 +595,7 @@ The representative area that may be set aside and accordingly be unavailable for
 
 ### 67S Forfeiture of seized indigenous timber
 (1)
-(2) If satisfied that any indigenous timber seized under this Part may perish, rot, or spoil, the Secretary may arrange for its sale (at a price that is reasonable in the circumstances) in any manner, the Secretary thinks fit.
+(2) If satisfied that any indigenous timber seized under this Part may perish, rot, or spoil, the Secretary may arrange for its sale (at a price that is reasonable in the circumstances) in any manner the Secretary thinks fit.
 (3)
 (4)
 (5)
@@ -612,7 +612,7 @@ Every person commits an offence who—
   (d) contravenes any provision of a registered sustainable forest management plan or registered sustainable forest management permit; or
   (e) wilfully damages any indigenous timber in an area subject to a registered sustainable forest management plan or registered sustainable forest management permit; or
   (f) carries out work for the harvesting of timber (including, but not limited to, the felling of timber and the construction of roads, tracks, or landings) on an area of land subject to a registered sustainable forest management plan, or a registered sustainable forest management permit, other than in accordance with an annual logging plan approved under section 67H; or
-  (fa) transports, mills (other than under section 67D(1)(e)), chips, cuts for firewood, or pulps any timber harvested from an indigenous forest, knowing that the timber is about to be, is being, or has been felled, harvested, milled, or exported in contravention of this Part; or
+  (fa) transports, mills (other than under section 67D(1)﻿(e)), chips, cuts for firewood, or pulps any timber harvested from an indigenous forest, knowing that the timber is about to be, is being, or has been felled, harvested, milled, or exported in contravention of this Part; or
   (fb) fells any indigenous timber on land subject to a registered sustainable forest management plan, or a registered sustainable forest management permit, other than in accordance with that plan or permit; or
   (fc) harvests or mills indigenous timber that is subject to an approval under section 67D(3) other than in accordance with the approval; or
   (g) fails to keep records required under section 67Q; or
@@ -661,16 +661,16 @@ In this Part, unless the context otherwise requires,—
   (ja) prescribe the persons or organisations, or classes of persons or organisations, who have been recognised under section 92 of the Climate Change Response Act 2002 as being able to carry out verification functions under that Act, and who may carry out verification functions in relation to a forest sink or forest sink covenant:
   (k) prescribe records, returns, or information in relation to a forest sink covenant that a person or class of persons must keep or provide to the Minister:
   (l) prescribe requirements, including (but not limited to) ongoing obligations, or criteria for a landowner to provide a guarantor or insurer, or any other risk management arrangement that the Minister considers appropriate, to meet any obligations of the landowner under the Act or the forest sink covenant in the event of the landowner's default.
-(2) Without limiting subsection (1)(a), the framework may permit the Minister, on behalf of the Crown, to negotiate, and enter into, a forest sink covenant.
-(2A) Regulations made under subsection (1)(b) may incorporate by reference any relevant—
-  (a) methodologies prescribed in regulations made under section 163(1)(b) of the Climate Change Response Act 2002; or
-  (b) guidelines or standards issued under regulations made under section 163(1)(d) of the Climate Change Response Act 2002.
-(3) Despite subsection (1)(h), a penalty—
+(2) Without limiting subsection (1)﻿(a), the framework may permit the Minister, on behalf of the Crown, to negotiate, and enter into, a forest sink covenant.
+(2A) Regulations made under subsection (1)﻿(b) may incorporate by reference any relevant—
+  (a) methodologies prescribed in regulations made under section 163(1)﻿(b) of the Climate Change Response Act 2002; or
+  (b) guidelines or standards issued under regulations made under section 163(1)﻿(d) of the Climate Change Response Act 2002.
+(3) Despite subsection (1)﻿(h), a penalty—
   (a) may only be imposed in respect of the proportion of forest on land subject to a forest sink covenant that is harvested in breach of the covenant; and
   (b) may not exceed the sum of—
     (i) all units received in respect of that proportion of the forest (or their monetary equivalent); and
     (ii) any additional units calculated on the basis of an annual compounding rate of 10% applied to each year's carbon sequestration from that proportion of the forest for the period beginning on the date that the covenant came into force and ending on the date that the breach occurred (or their monetary equivalent).
-(3A) Regulations made under subsection (1)(k) may incorporate by reference any form or format for a record, return, or information prescribed under section 90 of the Climate Change Response Act 2002, or in regulations made under section 168(1)(k) of that Act, or in any guidelines or standards issued under regulations made under section 163(1)(d) of that Act.
+(3A) Regulations made under subsection (1)﻿(k) may incorporate by reference any form or format for a record, return, or information prescribed under section 90 of the Climate Change Response Act 2002, or in regulations made under section 168(1)﻿(k) of that Act, or in any guidelines or standards issued under regulations made under section 163(1)﻿(d) of that Act.
 (4) However, nothing in this Part requires the Minister to negotiate, enter into, or enforce any provisions of, any forest sink covenant.
 
 ### 67Z Content of forest sink covenants
@@ -842,7 +842,7 @@ The methods by which costs may be recovered under this subpart are as follows:
   (a) any amount held in such an account that is due to be paid to the Secretary by the levy collector is to be treated as levy money held on trust for the Secretary; and
   (b) any amount so held on trust is not available for the payment of a creditor (other than the Secretary) of the levy collector, and is not liable to be attached or taken in execution at the instance of that creditor; and
   (c) a person who ceases to be a person responsible for collecting a levy must continue to maintain the trust account until all the levy money payable to the Secretary in respect of the period during which the person was responsible for collecting the levy has been paid.
-(2) Nothing in subsection (1)(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
+(2) Nothing in subsection (1)﻿(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
 
 ### 67ZP Exemptions, waivers, and refunds
 Regulations made under this subpart may—
@@ -857,19 +857,17 @@ Any fee, levy, or charge that has become payable is a debt due to the Secretary,
   (a) section 14 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
   (b) section 15 of that Act applies to allow the Secretary, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
   (c) section 16 of that Act applies to allow the Secretary to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
-(2) For the purposes of subsection (1)(c) and section 16 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of section 16 of that Act, the references in those provisions to the refusal to provide any service are to be treated as also authorising the Secretary, in an appropriate case, to refuse to perform any function under this Act leading to the issue of units in relation to the person in default.
+(2) For the purposes of subsection (1)﻿(c) and section 16 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of section 16 of that Act, the references in those provisions to the refusal to provide any service are to be treated as also authorising the Secretary, in an appropriate case, to refuse to perform any function under this Act leading to the issue of units in relation to the person in default.
 (3) If the refusal requires the Secretary to provide any further service, or perform any further function involved in the refusal, the Secretary may recover any reasonable amount for the additional service, function, or costs as a debt due from the person who owns or is responsible for the operation concerned.
 
 ### 67ZS Obligation to pay fee, levy, charge, or penalty not suspended by dispute
 The obligation of a person to pay any fee, levy, charge, or penalty under this subpart, and the right of the Secretary to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Secretary regarding the person's liability to pay the fee, levy, charge, or penalty, or the amount of the fee, levy, charge, or penalty.
 
-### 67ZT Levy orders to be confirmed
-(1) If a levy order imposing a levy has been made under this subpart on or after 1 January in any year and before 1 July in that year, and—they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
-  (a) have not been revoked with effect on or before 1 July in the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
-(2) If any levy order imposing a levy has been made under this subpart after 30 June in any year and on or before 31 December in that year, and—they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
-  (a) have not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
+### 67ZT Levy orders are confirmable instruments
+The explanatory note of a levy order made under section 67ZM must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 67ZU Relationship of Part with Resource Management Act 1991
 Nothing in this Part derogates from any provision of the Resource Management Act 1991.
@@ -934,7 +932,7 @@ Nothing in this Part derogates from any provision of the Resource Management Act
 (4)
 
 ### 72A Remuneration and expenses
-There shall be paid out of money appropriated by Parliament for the purpose to the members of any Authority constituted under section 71A or to any person appointed to a committee under section 15(2)(b) remuneration by way of fees, salary, or allowances, and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if any such authority or committee were a statutory Board within the meaning of that Act.
+There shall be paid out of money appropriated by Parliament for the purpose to the members of any Authority constituted under section 71A or to any person appointed to a committee under section 15(2)﻿(b) remuneration by way of fees, salary, or allowances, and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if any such authority or committee were a statutory Board within the meaning of that Act.
 
 ### 73 Repeals and savings
 (1) The enactments mentioned in Schedule 1 are hereby repealed to the extent mentioned in that schedule.
