@@ -1,5 +1,5 @@
 # Petroleum Demand Restraint Act 1981
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2016-01-01_
 
 > An Act to make provision for the imposition of measures restraining the demand for petroleum products or ensuring the equitable distribution in New Zealand of petroleum products that are, or are likely to be, in short supply in New Zealand
 
@@ -32,7 +32,7 @@ In this Act, unless the context otherwise requires,—
       (x) petroleum coke:
       (xi) liquefied petroleum gas separated from natural gas:
       (xii) methanol derived from the conversion of natural gas; but
-    (c) subject to paragraph (b)(xi) and (xii), does not include natural gas
+    (c) subject to paragraph (b)﻿(xi) and (xii), does not include natural gas
   - **production** , in relation to petroleum, includes processing; and has a corresponding meaning
   - **Secretary** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **undertaking** includes a business, and also any activity carried on by a body of persons, whether corporate or unincorporate.
@@ -74,19 +74,25 @@ This Act shall bind the Crown.
     (i) in New Zealand; or
     (ii) in the case of regulations that apply only within a specified part or subdivision of a district of a local authority or within any specified part of New Zealand, in the area to which the regulations apply,—
   (b) the regulations provide (to the extent that they are not administrative regulations) that they shall come into force on a date to be appointed by Order in Council.
-(2) No Order in Council shall be made under any provision to which subsection (1)(b) applies unless the Governor-General in Council is satisfied, in respect of the regulations to which the order relates, as to the matters specified in subparagraph (i) or subparagraph (ii) of subsection (1)(a), and so recites in the Order in Council.
+(2) No Order in Council shall be made under any provision to which subsection (1)﻿(b) applies unless the Governor-General in Council is satisfied, in respect of the regulations to which the order relates, as to the matters specified in subparagraph (i) or subparagraph (ii) of subsection (1)﻿(a), and so recites in the Order in Council.
 (3) Section 24 of the Interpretation Act 1999 has effect subject to subsections (1) and (2).
 
-### 6 Regulations to expire unless confirmed by Act
-(1) All regulations laid before the House of Representatives in any session pursuant to section 4(5) shall expire on the close of the last day of that session except so far as they are expressly validated or confirmed by an Act of Parliament passed during that session.
+### 6 Regulations to have force of law
+(1)
 (2) Subject to sections 9 and 10, all petroleum demand restraint regulations shall, while they continue in force, have the force of law.
-(3) Unless otherwise provided, the repeal of any Act passed pursuant to subsection (1) shall not, of itself, affect the validity of any regulation validated or confirmed by the Act repealed.
+(3)
+
+### 6A Regulations are confirmable instruments
+The explanatory note of regulations made under section 4(1) must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 7 Power of Minister to give directions
 (1) Petroleum demand restraint regulations may authorise the Minister, after he has held appropriate consultations, to give, or revoke or vary, for the purposes of those regulations, directions—
   (a) to any person carrying on an undertaking in the course of which he acquires, supplies, or distributes petroleum products or engine fuel, as to the acquisition, supply, or distribution thereof by him in New Zealand:
   (b) to any person carrying on an undertaking which involves the use of petroleum products or engine fuel, as to the use thereof by him, whether for purposes specified by the Minister or during periods specified by him or otherwise.
-(2) Without restricting the generality of subsection (1)(b), petroleum demand restraint regulations may authorise the giving, for the purposes of those regulations, of a direction which—
+(2) Without restricting the generality of subsection (1)﻿(b), petroleum demand restraint regulations may authorise the giving, for the purposes of those regulations, of a direction which—
   (a) prohibits or restricts the acquisition, supply, or distribution of petroleum products or engine fuel by or to persons specified by the Minister:
   (b) requires the supply or distribution of petroleum products or engine fuel to persons specified by the Minister in accordance with requirements specified by him.
 (3) For the purpose of subsection (1), appropriate consultations means such consultations as the Minister thinks practicable and appropriate—
