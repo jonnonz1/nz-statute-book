@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2015-06-01_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -136,7 +136,7 @@ This Act is the KiwiSaver Act 2006.
       (i) salary or wages described in section RD 5(4), (6)﻿(b) to (bc), (6)﻿(c), and (8) and RD 68 of the Income Tax Act 2007; and
       (ia) a payment under a Voluntary Bonding Scheme that is funded by the Ministry for Primary Industries, the Ministry of Health, or the Ministry of Education; and
       (ib)
-      (ii) payments that are income under section CF (1)﻿(b) to (e), (g), or (h) of that Act; and
+      (ii) payments that are income under section CF1 (1)﻿(b) to (e), (g), or (h) of that Act; and
       (iii) expenditure on account of an employee and allowances calculated by reference to reasonable actual costs, if the expenditure or allowances are for accommodation overseas or other costs of living overseas; and
       (iv) for the purposes of contributions to complying superannuation funds, bonuses, commissions, and other amounts not included in an employee’s gross base salary or wages by the relevant complying superannuation fund; and
       (v) for the purposes of subpart 3A of Part 3 of this Act,—
@@ -372,18 +372,18 @@ A person may opt in at any time provided—
 
 ### 35 Opting in by persons under 18
 (1) A person who is less than 18 years may only opt in in accordance with this section.
-(2) A person who is less than 16 years may opt in if all their guardians contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as––
+(2) A person who is less than 16 years may opt in if all their guardians contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
   (a) contracting directly with the provider; and
   (b) 18 years for the purposes of the Minors' Contracts Act 1969; and
   (c) opting in under section 34(1)﻿(a).
-(3) A person who is 16 or 17 years old with a guardian or a CYPFA guardian may opt in if the person and 1 of their guardians or CYPFA guardians jointly contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as––
+(3) A person who is 16 or 17 years old with a guardian or a CYPFA guardian may opt in if the person and 1 of their guardians or CYPFA guardians jointly contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
   (a) contracting directly with the provider; and
   (b) 18 years for the purposes of the Minors' Contracts Act 1969; and
   (c) opting in under section 34(1)﻿(a).
-(4) A person who is 16 or 17 years old with no guardian may opt in if the person contracts directly with a provider. If the provider accepts the person, then the person is treated as––
+(4) A person who is 16 or 17 years old with no guardian may opt in if the person contracts directly with a provider. If the provider accepts the person, then the person is treated as—
   (a) 18 years for the purposes of the Minors' Contracts Act 1969:
   (b) opting in under section 34(1)﻿(a).
-(5) A person who is less than 16 years with a CYPFA guardian may opt in if the CYPFA guardian (independently from the person, and from all other, if any, CYPFA guardians, guardians, or both, of the person) contracts directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as––
+(5) A person who is less than 16 years with a CYPFA guardian may opt in if the CYPFA guardian (independently from the person, and from all other, if any, CYPFA guardians, guardians, or both, of the person) contracts directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
   (a) contracting directly with the provider; and
   (b) 18 years for the purposes of the Minors' Contracts Act 1969; and
   (c) opting in under section 34(1)﻿(a).
@@ -518,7 +518,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
 (6)
 (7) The Commissioner must, as soon as practicable, give notice to the provider of the scheme of the employee’s name, address, date of birth (if known to the Commissioner), tax file number, and any other personal information that the Commissioner considers relevant.
 
-### 49 Effect on existing members of change, etc, in employer chosen scheme
+### 49 Effect on existing members of change, etc, in employer’s chosen KiwiSaver scheme
 (1) A notice under section 47(2)﻿(b) does not affect any person who became a member of a KiwiSaver scheme while the scheme was the employer’s chosen KiwiSaver scheme.
 (2) However, subsection (1) does not limit section 181 of the Financial Markets Conduct Act 2013 (which provides for transfers with FMA consent in certain circumstances).
 
@@ -549,7 +549,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
 (1B) Despite subsection (1), subsections (4) and (5) do not apply if section 50(4)﻿(b) or (bb) applies. Instead, the allocation under section 50(3) is treated as completed on the day on which it occurs.
 (2) The Commissioner must give notice to A that the allocation of A is now completed as per the provisional allocation.
 (3) The Commissioner must give notice to the provider of the default KiwiSaver scheme that A has been allocated to the scheme, and A’s name, address, date of birth (if known to the Commissioner), tax file number, and any other personal information that the Commissioner considers relevant.
-(4) The final allocation date is—
+(4) The final allocation date is,—
   (a) in the case of a person referred to in section 50(1)﻿(a) or (b), as soon as practicable after 3 months after the Commissioner receives the first contribution in respect of A:
   (b) in the case of a person referred to in section 50(4)﻿(a), (c), or (d), 3 months after the date on which the Commissioner receives that notice.
 (5) However, if a dispute in relation to Part 2 or 3 is underway under section 212 or 213 as at the date which would otherwise be the final allocation date, the final allocation date is the effective date of the notice given by the Commissioner to the effect that the dispute has been resolved or has otherwise been terminated.
@@ -602,7 +602,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
     (i) of the date on which the member first became a member of a KiwiSaver scheme, if the old scheme is a KiwiSaver scheme; and
     (ii) as to whether the member has made a withdrawal for the purpose of the purchase of a first home under clause 8 of the KiwiSaver scheme rules; and
     (iii) of any contribution holidays in force; and
-    (iv) as to whether the Crown contribution under section 226 is included in the member’s accumulation transferred to the new scheme.
+    (iv) as to whether the Crown contribution under section 226 is included in the member’s accumulation transferred to the new scheme; and
     (v)
     (vi) of any information held by a provider of the old scheme that would be relevant to a provider of the new scheme making a claim under section 68C of the Tax Administration Act 1994, including information as to the periods for which claims have already been made.
 (4) The provider must comply with subsection (3) within 35 days of receiving that notice or any longer period agreed between the providers of the old and new schemes.
@@ -666,12 +666,12 @@ This subpart applies when, because of a mistake,—
 ### 59D What happens when initial back-dated validation ends, with no confirmed back-dated validation?
 (1) This section applies when the period of initial back-dated validation under section 59B ends, and confirmed back-dated validation under section 59C has not occurred.
 (2) The relevant provider must immediately—
-  (a) provide the Commissioner with a notice stating, for the relevant person:
+  (a) provide the Commissioner with a notice stating, for the relevant person,—
     (i) the amount of contributions received directly by the provider (not via the Commissioner), when they were received, and (if available) who they were paid by; and
     (ii) the amounts paid out by the provider under a mortgage diversion facility, and when they were paid out; and
     (iii) the amounts paid out by the provider to the person as permitted withdrawals, when they were paid out, the types of permitted withdrawals, and the amount of Crown contributions included in the permitted withdrawals; and
   (b) pay the amount of the member's accumulation, less the amount that was transferred from an Australian complying superannuation scheme, for the person to the Commissioner, if the provider has not already done so; and
-  (c) pay the amount that was transferred from an Australian complying superannuation scheme (the transferor scheme) or the amount of the member's accumulation (whichever amount is smaller), for the person to––
+  (c) pay the amount that was transferred from an Australian complying superannuation scheme (the transferor scheme) or the amount of the member's accumulation (whichever amount is smaller), for the person to—
     (i) the transferor scheme; or
     (ii) an Australian complying superannuation scheme chosen by the person; or
     (iii) an Australian complying superannuation scheme chosen by the Commissioner, if the person does not choose one and it is not appropriate to pay to the transferor scheme.
@@ -725,7 +725,7 @@ For the purposes of this subpart, a private domestic worker who is an employer u
 
 ### 64 Contribution rate
 (1) The contribution rate, in relation to an employee and to an employer and to each payment of salary or wages, is—
-  (a) 3% of the employee's gross salary or wages, if––
+  (a) 3% of the employee's gross salary or wages, if—
     (i) section 60(1)﻿(a), (b) or (c) first applied in respect of the employee on or after 1 April 2009 and the employee has not given his or her employer a notice under subsection (2); or
     (ii) section 66A applied in respect of the employee immediately before 1 April 2009; or
     (iii) the employee is on a 2% contribution rate immediately before the first pay period that starts on or after 1 April 2013 because they chose 2% under subsection (2); or
@@ -741,9 +741,15 @@ For the purposes of this subpart, a private domestic worker who is an employer u
   (b) provide for additional rates at which employees may contribute under this subpart, instead of at the rates under that section.
 (2) The Order in Council must state the date from which the rate or rates is to have effect (which must be the first day of a tax year (as defined in section YA 1 of the Income Tax Act 2007)).
 (3) The Order in Council must state how it will apply (for example, whether it applies to the persons to whom this subpart already applies).
-(4) Every Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012 expires with the close of the 12-month period commencing on the date on which it was so laid, except in so far as it is expressly validated and confirmed by an Act of Parliament passed before that expiry date.
+(4)
 (5) Every Order in Council made under this section has the force of law as if it were enacted by this Act.
-(6) The validity of any Order in Council made under this section is not affected by reason only of the repeal of an Act of Parliament validating and confirming it.
+(6)
+
+### 65A Orders are confirmable instruments
+The explanatory note of an Order in Council made under section 65 must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 66 Obligation to make deductions: general rule
 The employer must make deductions of contributions from each payment of the employee’s gross salary or wages of an amount equal to the contribution rate.
@@ -1005,7 +1011,7 @@ If an employee opts out after an employer contribution is paid to the Commission
   (a) compulsory contributions must be paid in addition to an employee’s gross salary or wages described in section 101D(3), in accordance with the purpose of this section described in subsection (1); and
   (b) subsections (2) and (3) apply.
 (5) For the avoidance of doubt,—
-  (a) the duty of good faith described in section 4 of the Employment Relations Act 2000 always applies when parties to an employment relationship bargain for terms and conditions relating to compulsory contributions and associated matters; and
+  (a) the duty of good faith described in section 4 of the Employment Relations Act 2000 always applies when parties to an employment relationship bargain for terms and conditions relating to compulsory contributions and associated matters.
   (b)
 (6) In this section, compulsory contributions means an amount of employer contributions equal to the amount of compulsory employer contributions that would be required by this subpart in the absence of section 101D(5)﻿(a).
 
@@ -2029,7 +2035,7 @@ Despite anything in any other Act, nothing prevents the Commissioner or any offi
 (1)
 (1A) The contribution must be paid as soon as practicable after the date provided by subsection (1B) or (1C).
 (1B) Unless subsection (1C) applies, the date for the purposes of subsection (1A) is the last day of the 3-month period that starts on either the date under paragraph (a) or the date under paragraph (b)—
-  (a) the date under this paragraph is the earlier of––
+  (a) the date under this paragraph is the earlier of—
     (i) the date, decided by the Commissioner, when the Commissioner receives the first contribution in respect of A, if A is a person to whom subpart 1 of Part 3 applies:
     (ii) the date that the Commissioner is given notice or otherwise knows that A is a member of the KiwiSaver scheme:
   (b) the date under this paragraph is the date, decided by the Commissioner, when A is first a member or must first become a member as provided by section 15(1)﻿(b) or 36(1)﻿(b).
@@ -2162,7 +2168,7 @@ Non-compliance with an enactment related to securities is ignored if the non-com
   (c) if the non-compliance relates to a product disclosure statement referred to in paragraph (b)﻿(iii), the period of the non-compliance ends before 1 April 2016.
 
 ### 240 Protection from non-compliance: KiwiSaver Budget Measures Act 2015
-Non-compliance with either financial markets legislation, as defined in section 6(1) of the Financial Markets Conduct Act 2013, or the Fair Trading Act 1986 is ignored if the non-compliance results from the enactment of the KiwiSaver Budget Measures Act 2015 and either the non-compliance does not continue on or after 22 July 2015 or the non-compliance––
+Non-compliance with either financial markets legislation, as defined in section 6(1) of the Financial Markets Conduct Act 2013, or the Fair Trading Act 1986 is ignored if the non-compliance results from the enactment of the KiwiSaver Budget Measures Act 2015 and either the non-compliance does not continue on or after 22 July 2015 or the non-compliance—
   (a) relates to a prospectus that is registered under the Securities Act 1978 and,—
     (i) the prospectus is registered on or before 21 May 2015; and
     (ii) the issuer takes reasonable steps to ensure that copies of the prospectus that are distributed on or after 22 July 2015 by or on behalf of the issuer include or are accompanied by written notice of the effect of the enactment of the KiwiSaver Budget Measures Act 2015; or
@@ -2220,14 +2226,14 @@ The KiwiSaver scheme rules apply to all KiwiSaver schemes.
 (1) Subject to other permitted withdrawals, a member may not make a withdrawal from the KiwiSaver scheme until the KiwiSaver end payment date or a date after that date.
 (2) For the purposes of subclause (1), the KiwiSaver end payment date is the later of—
   (a) the date on which the member reaches the New Zealand superannuation qualification age; or
-  (b) the 5 year qualification date; or
+  (b) the 5 year qualification date.
   (c)
 (3) A member is entitled to withdraw an amount not more than the member’s accumulation on the later date referred to in subclause (2).
 (4) Nothing in this clause requires a member to withdraw from the KiwiSaver scheme on the date specified in subclause (2).
 (5) A person ceases, at the option of the provider of the KiwiSaver scheme, to be a member of the KiwiSaver scheme if—
   (a) the balance in all of the member’s accounts reaches zero; and
   (b) the provider gives notice to the member that the person’s membership is terminated.
-(6) For the purposes of these rules, 5 year qualification date means the earliest of––
+(6) For the purposes of these rules, 5 year qualification date means the earliest of—
   (a) the date that is 5 years after the day on which the member first became a member of a KiwiSaver scheme; or
   (b) the date that is 5 years after the day, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member; or
   (c) the date that is 5 years after the day on which the member first became a member of a complying superannuation fund, if the member has become a member of the KiwiSaver scheme as a result of a transfer from a complying superannuation fund.
@@ -2259,7 +2265,7 @@ A manager may reasonably require a member who applies to make a permitted withdr
 (2) A requirement to release funds from the KiwiSaver scheme under any enactment includes a requirement by order of any court under any enactment (including an order made under section 31 of the Property (Relationships) Act 1976).
 
 ### 8 Withdrawal for purpose of purchase of first home
-(1) This clause applies to a member if the member has not made a withdrawal under this clause before (whether or not from the member's current KiwiSaver scheme or from a KiwiSaver scheme to which the person previously belonged) and,––
+(1) This clause applies to a member if the member has not made a withdrawal under this clause before (whether or not from the member's current KiwiSaver scheme or from a KiwiSaver scheme to which the person previously belonged) and,—
   (a) at least 3 years have expired after the Commissioner received the first contribution in respect of the person (whether or not a contribution in relation to the scheme of which the member is currently a member); or
   (ab)
   (b) the person has been a member of 1 or more KiwiSaver schemes or complying superannuation funds for a combined total period of 3 years or more.
@@ -2290,7 +2296,7 @@ A manager may reasonably require a member who applies to make a permitted withdr
   (b) the person holds the estate in land as a trustee who—
     (i) is a discretionary, contingent, or vested beneficiary under the relevant trust; but
     (ii) has no reasonable expectation of being entitled to occupy the land as the principal place of residence for the person or the person’s family until the death of the person who currently occupies the land (the occupier) or the death of the occupier’s survivor.
-(6) In this clause,––
+(6) In this clause,—
   - **dwellinghouse** means a building that is intended to have as its principal use occupation as a private residence
   - **estate** means a fee simple estate, a leasehold estate, or a stratum estate
   - **Maori land** has the same meaning as in the Te Ture Whenua Maori Act 1993.
@@ -2312,7 +2318,7 @@ A manager may reasonably require a member who applies to make a permitted withdr
 (8) This clause is subject to the terms of any participation agreement that restricts or prevents the withdrawal of employer vested contributions that are not compulsory employer contributions in relation to the member.
 
 ### 9 Withdrawal on death
-If a member dies, the manager must,––
+If a member dies, the manager must,—
   (a) on application by the member's personal representative, pay to that person an amount that is equal to the value of the member's accumulation at the date on which the application is accepted as part of the member's estate; or
   (b) if the requirements of section 65 of the Administration Act 1969 are met, pay to the relevant person any sum authorised by that section, subject to that Act.
 
@@ -2366,9 +2372,9 @@ If a member dies, the manager must,––
 (1) This clause applies for a KiwiSaver scheme (but not for a complying superannuation fund) after a member’s permanent emigration to Australia.
 (2) At any time after the member's permanent emigration to Australia, a member may, on application to the manager, have the manager transfer the member's accumulation to an Australian complying superannuation scheme.
 (3) As soon as practicable after receiving a satisfactory application, the manager must transfer the whole of the member's accumulation to the relevant Australian complying superannuation scheme and provide that scheme with any necessary information it reasonably requires.
-(4) An application under subclause (2) must be in the form required by the manager and must include––
+(4) An application under subclause (2) must be in the form required by the manager and must include—
   (a) a completed statutory declaration in respect of the member to the effect that the member has permanently emigrated to Australia; and
-  (b) proof to the satisfaction of the manager––
+  (b) proof to the satisfaction of the manager—
     (i) of the member's departure from New Zealand (see, for examples of proof: clause 14(3)﻿(b)﻿(i)); and
     (ii) that the member has resided at an Australian address at some time following the member's departure from New Zealand.
 (5) The manager may require that any other documents, things, or information produced in an application under subclause (2) be verified by oath, statutory declaration, or otherwise.
@@ -2393,7 +2399,7 @@ If a member dies, the manager must,––
   (b) if payment to a person other than the member is possible, pay to the Commissioner the amount of the withdrawal.
 
 ### 15 Contributions holiday
-A employee member may, at any time, take a contributions holiday in accordance with subpart 4 of Part 3.
+An employee member may, at any time, take a contributions holiday in accordance with subpart 4 of Part 3.
 
 ### 16 Transfer of members
 (1) A member may, at any time during that person’s membership of a KiwiSaver scheme, on application to the manager, apply to have the manager transfer the member’s accumulation to another KiwiSaver scheme.
