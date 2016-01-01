@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2015-12-20_
+_Consolidation as at 2016-01-01_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -74,9 +74,9 @@ Except as otherwise expressly provided in this Act, the value of any imported go
 Subject to this Act, the duty (if any) payable under the Normal Tariff shall be paid on all goods imported into New Zealand or entered therein for home consumption or entered therein for delivery to a manufacturing area.
 
 ### 7 Application of Tariff
-(1) The Tariff applies to goods in a Tariff item that are the product or manufacture of a preferential country at the rate—
+(1) The Tariff applies to goods in a Tariff item that are the produce or manufacture of a preferential country at the rate—
   (a) specified after the preferential abbreviation (if any) in the column of the Tariff headed Preferential Tariff; or
-  (b) specified in some other way (for example, in a footnote or other indicator) in the Tariff by reference to the preferential country or the preferential abbreviation.
+  (b) specified in some other way (for example, in a footnote or other indicator) in the Tariff by reference to the preferential country or the preferential abbreviation; or
   (c) specified in an agreement or document incorporated into an Order in Council in reliance on section 7C by reference to the preferential abbreviation or to the preferential country.
 (2) The liability to duty of any goods that are the produce or manufacture of a country must, for the purposes of this section, be determined according to the status of that country at the time when the goods are imported into New Zealand.
 (3) In this section, unless the context otherwise requires,—
@@ -219,12 +219,16 @@ Every reference in the following to the Tariff or to Schedule 1 of the Tariff Ac
 (3) The statistical requirements of the Tariff shall be those set out in the columns headed Statistical Key in the Tariff, including any amendment thereof that may hereafter be made.
 (4) No amendment made pursuant to this section shall alter the duties or exemptions from duty applicable to goods classified under any item or heading so amended.
 
-### 11 Orders in Council relating to Tariff
-(1) Every Order in Council made under section 9 and presented to the House of Representatives under the Legislation Act 2012 expires on the close of 31 December in the calendar year following the calendar year during which it was presented to the House, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
-(2) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (1), any duty collected under that Order in Council shall, except in so far as any other provision is made by an Act of Parliament in respect thereof, be refunded.
-(3) If the House of Representatives resolves that any Order in Council made under this Act (other than an Order in Council made under section 9) presented to it under the Legislation Act 2012 should be revoked or varied, it must be treated as having been revoked or varied in accordance with the terms of the resolution, and any duty payable must, so far as that resolution provides, be refunded.
-(4) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming any Orders in Council pursuant to subsection (1) shall not, unless there is any express provision to the contrary, affect the validity or confirmation of those Orders in Council.
-(5) Any Order in Council made under section 124 of the Customs Act 1966 may be validated and confirmed, as if that Order in Council had been made under section 9.
+### 11 Orders in Council relating to Tariff are confirmable instruments
+The explanatory note of an Order in Council made under section 9 must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+
+### 11A Orders in Council may be revoked or varied by resolution of House of Representatives
+If the House of Representatives resolves that any Order in Council made under this Act (other than an Order in Council made under section 9) should be revoked or varied,—
+  (a) the order must be treated as having been revoked or varied in accordance with the terms of the resolution; and
+  (b) any duty payable must, so far as that resolution provides, be refunded.
 
 ### 12 Actions pending alteration of Tariff
 (1) When any resolution in favour of an alteration of the Tariff has in any session of Parliament been passed by the House of Representatives or any committee thereof, that resolution shall be deemed to have the force of law until such time as it is validated by an Act of Parliament or, where no such Act is enacted, the last day of that session and no action shall lie against the Crown, any Minister, or any person to whom the powers under this Act have been delegated, or constable, by reason only that they had acted in accordance with any such resolution as if it had the force of law according to its tenor.
