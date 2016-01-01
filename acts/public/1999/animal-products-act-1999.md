@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2015-10-21_
+_Consolidation as at 2016-01-01_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -1984,13 +1984,11 @@ Any fee, levy, or charge that has become payable is a debt due to the Director-G
 ### 124 Obligation to pay fee, levy, or charge not suspended by dispute
 The obligation of a person to pay any fee, levy, or charge under this Act (including any penalty referred to in section 123), and the right of the Director-General to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Director-General regarding the person's liability to pay the fee, levy, or charge, or the amount of the fee, levy, or charge.
 
-### 125 Levy regulations to be confirmed
-(1) Where in any year any regulations imposing a levy have been made under this Part on or after 1 January in any year and before 1 July in that year, and—they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
-  (a) have not been revoked with effect on or before 1 July in the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
-(2) Where in any year any regulations imposing a levy have been made under this Part after 30 June in any year and on or before 31 December in that year, and—they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
-  (a) have not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
+### 125 Levy regulations are confirmable instruments
+The explanatory note of regulations made under section 118 must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ## Part 10 — Offences, penalties, and proceedings
 
