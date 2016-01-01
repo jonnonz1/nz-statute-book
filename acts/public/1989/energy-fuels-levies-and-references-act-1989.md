@@ -1,5 +1,5 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2015-02-24_
+_Consolidation as at 2016-01-01_
 
 > Title
 
@@ -204,9 +204,13 @@ All money payable to the Secretary or the New Zealand Customs Service under this
   (b) formulas for calculating amounts or rates of the levies.
 (2) However, an amount or rate prescribed, or calculated using a prescribed formula, must not exceed any maximum amount or rate set out in this Part.
 (3) Before recommending that regulations be made under this section, the Minister must consult persons or organisations considered by the Minister to represent the persons affected by the levy concerned.
-(4) Regulations made under subsection (1),—
-  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year unless they are expressly confirmed by an Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year unless they are expressly confirmed by an Act of Parliament passed before the end of that following year.
+(4)
+
+### 33A Levy regulations are confirmable instruments
+The explanatory note of regulations made under section 33(1) must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 34 Amount of goods and services tax excluded
 It is hereby declared that the levies payable under this Part are exclusive of goods and services tax under the Goods and Services Tax Act 1985.
