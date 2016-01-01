@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2016-01-01_
 
 > Title
 
@@ -25,7 +25,7 @@ _Consolidation as at 2014-12-01_
   - **director** , except in relation to the Bank, means—
     (a) a person occupying the position of director by whatever name called:
     (b) in the case of an entity that does not have directors as such, any trustee, manager, or other person who acts in relation to that entity in the same or a similar fashion as a director would act were that entity a company incorporated in New Zealand under the Companies Act 1993
-  - **disclosure statement** means the document referred to in section 81(2)(a)
+  - **disclosure statement** means the document referred to in section 81(2)﻿(a)
   - **document** means a document in any form, whether signed or initialled or otherwise authenticated by its maker or not; and includes—
     (a) any writing on any material:
     (b) any information recorded or stored by means of any tape-recorder, computer, or other device; and any material subsequently derived from information so recorded or stored:
@@ -75,7 +75,7 @@ _Consolidation as at 2014-12-01_
   - **parent bank** means an overseas bank that is a holding company of a registered bank
   - **participant** , in relation to either a settlement system or a payment system,—
     (a) means a person who has agreed to participate in either a settlement system or a payment system in accordance with the rules of that system; and
-    (b) in the case of a designated settlement system, includes an operator of the settlement system if the designation under section 156N(3)(b) so provides
+    (b) in the case of a designated settlement system, includes an operator of the settlement system if the designation under section 156N(3)﻿(b) so provides
   - **payment system** —
     (a) means a system or arrangement for—
       (i) the clearing or settlement of payment obligations; or
@@ -100,7 +100,7 @@ _Consolidation as at 2014-12-01_
     (b) a direct or indirect qualifying interest in 10% or more of the voting securities issued or allotted by the registered bank
   - **specified operator** has the meaning set out in section 156M
   - **specified security** has the meaning given to security in section 6(1) of the Overseas Investment Act 2005
-  - **subsidiary** means a subsidiary within the meaning of section 5(1)(a)(iii) and (b) of the Companies Act 1993
+  - **subsidiary** means a subsidiary within the meaning of section 5(1)﻿(a)﻿(iii) and (b) of the Companies Act 1993
   - **trade mark** has the meaning given to it by section 5(1) of the Trade Marks Act 2002
   - **voting right** , in relation to any body,—
     (a) means a currently exercisable right to cast a vote at meetings of shareholders or members of that body; but
@@ -189,7 +189,7 @@ It is the duty of the Governor to ensure that the actions of the Bank in impleme
   (b) the Minister and the Governor shall,—
     (i) within 30 days of the making of the order, or the making of an Order in Council under subsection (3), as the case may be, fix new policy targets for the period that the order remains in force; and
     (ii) within 30 days of the expiry or revocation of the order, fix new policy targets for the carrying out by the Bank of its primary function.
-(8) Subsections (4) and (5) of section 9 shall apply in relation to any policy targets fixed under subsection (7)(b) of this section.
+(8) Subsections (4) and (5) of section 9 shall apply in relation to any policy targets fixed under subsection (7)﻿(b) of this section.
 
 ### 13 Bank's primary function not affected
 Except as provided in sections 9 to 12, nothing in this Act or in any other Act whether passed before or after the commencement of this Act limits or affects the obligation of the Bank to carry out its primary function.
@@ -237,7 +237,7 @@ For the purposes of performing its functions and fulfilling its obligations unde
 (1) If the Governor considers that the giving effect to by the Bank of a direction under either section 17 or section 18 would, while not being inconsistent with the economic objective of monetary policy, be inconsistent with achieving the policy targets fixed under section 9, the Governor may, by notice in writing to the Minister, advise the Minister that the Bank will, in giving effect to the direction, be unable to achieve those policy targets and request new policy targets to be fixed.
 (2) Where a notice is given under this section—
   (a) the Bank is not required to achieve the existing policy targets:
-  (b) the Minister and the Governor shall, within 1 month after the notice is given, substitute new policy targets in accordance with section 9(4)(b) and, in that event, the provisions of section 9(5) shall apply to those policy targets.
+  (b) the Minister and the Governor shall, within 1 month after the notice is given, substitute new policy targets in accordance with section 9(4)﻿(b) and, in that event, the provisions of section 9(5) shall apply to those policy targets.
 
 ### 20 Effect of directions on monetary policy
 (1) If the Governor considers that the giving effect to by the Bank of a direction under either section 17 or section 18 would be inconsistent with the economic objective of monetary policy the Governor may, by notice in writing, advise the Minister that the Bank does not propose to give effect to the direction.
@@ -346,7 +346,7 @@ The Bank may provide settlement account services for financial institutions on s
 (3) A notice given pursuant to this section may, by a subsequent notice, be revoked, varied, or amended by the Bank.
 (4) Information and data required to be supplied pursuant to this section shall be supplied to the Bank at such place in New Zealand and at such time as are specified in the notice.
 (5) A financial institution shall not be required to supply data or information under this section relating to the affairs of a particular customer or client.
-(6) Sections 156G to 156I and 156J(2)(c) and (d) (which relate to the publication or disclosure of information or data supplied to the Bank) apply with all necessary modifications in respect of information and data supplied to the Bank under this section as if for each reference to section 156C in sections 156G(1) and (3) and 156J(2)(c) there were substituted a reference to section 36.
+(6) Sections 156G to 156I and 156J(2)﻿(c) and (d) (which relate to the publication or disclosure of information or data supplied to the Bank) apply with all necessary modifications in respect of information and data supplied to the Bank under this section as if for each reference to section 156C in sections 156G(1) and (3) and 156J(2)﻿(c) there were substituted a reference to section 36.
 
 ### 37 Failure to supply information
 Every financial institution commits an offence against this Act if, without lawful justification or excuse, it—
@@ -445,9 +445,9 @@ Without limiting section 5 or any other provision of this Act, the Non-bank Depo
   (a) that the Bank is not adequately carrying out its functions; or
   (b) that the Governor has not adequately discharged the responsibilities of office; or
   (c) that the Governor has obstructed, hindered, or prevented the Board from discharging its responsibilities under this Act; or
-  (d) that the performance of the Governor in ensuring that the Bank achieves the policy targets fixed under section 9 or section 12(7)(b) has been inadequate; or
-  (e) that, in a case where section 9(2) or subparagraph (i) or subparagraph (ii) of section 12(7)(b) applies, the Minister and the Governor have not been able, within the time prescribed, to agree on new policy targets; or
-  (f) that a policy statement made pursuant to section 15 is inconsistent in a material respect with the Bank's primary function or any policy target fixed under section 9 or section 12(7)(b); or
+  (d) that the performance of the Governor in ensuring that the Bank achieves the policy targets fixed under section 9 or section 12(7)﻿(b) has been inadequate; or
+  (e) that, in a case where section 9(2) or subparagraph (i) or subparagraph (ii) of section 12(7)﻿(b) applies, the Minister and the Governor have not been able, within the time prescribed, to agree on new policy targets; or
+  (f) that a policy statement made pursuant to section 15 is inconsistent in a material respect with the Bank's primary function or any policy target fixed under section 9 or section 12(7)﻿(b); or
   (g) that the resources of the Bank have not been properly or effectively managed; or
   (h) that the Governor, except as provided in his or her conditions of employment, has, while holding office as Governor,—
     (i) held any other office of profit; or
@@ -501,15 +501,15 @@ There shall be a board of directors of the Bank.
     (ii) its functions relating to promoting the maintenance of a sound and efficient financial system; and
     (iii) its other functions under this Act or any other enactment:
   (b) keep under constant review the performance of the Governor in discharging the responsibilities of that office:
-  (c) keep under constant review the performance of the Governor in ensuring that the Bank achieves the policy targets agreed to with the Minister under section 9 or section 12(7)(b):
-  (d) determine whether policy statements made pursuant to section 15 are consistent with the Bank's primary function and the policy targets agreed to with the Minister under section 9 or section 12(7)(b):
+  (c) keep under constant review the performance of the Governor in ensuring that the Bank achieves the policy targets agreed to with the Minister under section 9 or section 12(7)﻿(b):
+  (d) determine whether policy statements made pursuant to section 15 are consistent with the Bank's primary function and the policy targets agreed to with the Minister under section 9 or section 12(7)﻿(b):
   (e) keep under constant review the use of the Bank's resources.
 (2) The Board may give advice to the Governor on any matter relating to the performance of the Bank's functions and the exercise of its powers.
 (3) If the Board is satisfied—the Board shall advise the Minister in writing and may recommend to the Minister that the Governor be removed from office.
   (a) that the Bank is not adequately carrying out its functions; or
   (b) that the Governor has not adequately discharged the responsibilities of that office; or
-  (c) that the performance of the Governor in ensuring that the Bank achieves the policy targets fixed under section 9 or section 12(7)(b) has been inadequate; or
-  (d) that a policy statement made pursuant to section 15 is inconsistent in a material respect with the Bank's primary function or any policy target fixed under section 9 or section 12(7)(b); or
+  (c) that the performance of the Governor in ensuring that the Bank achieves the policy targets fixed under section 9 or section 12(7)﻿(b) has been inadequate; or
+  (d) that a policy statement made pursuant to section 15 is inconsistent in a material respect with the Bank's primary function or any policy target fixed under section 9 or section 12(7)﻿(b); or
   (e) that the resources of the Bank have not been properly or effectively managed; or
   (f) that the Governor, except as provided in his or her conditions of employment has, while holding office as Governor,—
     (i) held any other office of profit; or
@@ -579,8 +579,8 @@ No person shall be appointed, or reappointed, to the office of non-executive dir
 (1) The non-executive directors of the Bank must appoint 1 of their number, by majority vote, to be chairperson of the Board.
 (2) A chairperson holds that office for a term of 12 months unless he or she—
   (a) resigns from that office; or
-    (b) is removed from that office, at any time, by a majority vote of the non-executive directors; or
-    (c) ceases to be a non-executive director.
+  (b) is removed from that office, at any time, by a majority vote of the non-executive directors; or
+  (c) ceases to be a non-executive director.
 (3) A chairperson whose term of office has expired—
   (a) is eligible for reappointment so long as he or she continues to be a non-executive director; and
   (b) continues to hold that office until a successor is appointed.
@@ -609,7 +609,7 @@ A resolution is as valid and effectual as if it had been passed at a meeting of 
   (a) indicate the business to be transacted at the meeting; and
   (b) be given in writing or, if the director to whom the notice is to be given agrees, orally.
 (3) A notice in writing may be given by personal delivery, by post, or by electronic transmission (for example, by fax or email).
-(4) At a meeting of the Board, any director may, with the leave of the chairperson or the majority of the directors present, raise any matter for the consideration of the Board, even though that matter has not been included in the notice of meeting under subsection (2)(a).
+(4) At a meeting of the Board, any director may, with the leave of the chairperson or the majority of the directors present, raise any matter for the consideration of the Board, even though that matter has not been included in the notice of meeting under subsection (2)﻿(a).
 (5) For the purposes of subsection (1), it is enough if the person or persons calling a meeting made all reasonable efforts to ensure each director was given the notice by the time required under that subsection.
 
 ### 60C Who presides at meetings of Board
@@ -658,11 +658,11 @@ A resolution is as valid and effectual as if it had been passed at a meeting of 
   (b) a registered bank; or
   (c) any person who is authorised by the Bank under section 65 to use a name or title that includes a restricted word but only to the extent that the person is acting within the scope of that authorisation; or
   (d) any person who is exempted under section 66 but only to the extent that the person is acting within the scope of that exemption.
-(3) Despite subsection (2)(b), a registered bank must not use, without an authorisation from the Bank under section 65(1)(e), a name or title that includes a restricted word in respect of a managed investment scheme of which the registered bank is a supervisor or a manager within the meaning of section 6(1) of the Financial Markets Conduct Act 2013.
-(4) Subsection (2)(b) does not extend to a person carrying on any activity by means of, or through the agency of, a registered bank.
+(3) Despite subsection (2)﻿(b), a registered bank must not use, without an authorisation from the Bank under section 65(1)﻿(e), a name or title that includes a restricted word in respect of a managed investment scheme of which the registered bank is a supervisor or a manager within the meaning of section 6(1) of the Financial Markets Conduct Act 2013.
+(4) Subsection (2)﻿(b) does not extend to a person carrying on any activity by means of, or through the agency of, a registered bank.
 (5) A person commits an offence if the person contravenes this section.
 (6) The penalty for an offence against this section is set out in section 66M.
-(7) In this section (except subsection (1)(a) to (c)) and sections 65 and 66, use, in relation to a restricted word, means act in a manner prohibited by subsection (1)(a) to (c) (as the context requires).
+(7) In this section (except subsection (1)﻿(a) to (c)) and sections 65 and 66, use, in relation to a restricted word, means act in a manner prohibited by subsection (1)﻿(a) to (c) (as the context requires).
 
 ### 65 Bank may authorise use of restricted words in name or title
 (1) The Bank may authorise any of the following persons to use a name or title that includes a restricted word:
@@ -674,15 +674,15 @@ A resolution is as valid and effectual as if it had been passed at a meeting of 
   (d) an associated person of a registered bank:
   (e) a registered bank or an associated person of a registered bank that intends to use a name or title that includes a restricted word in respect of a managed investment scheme of which the registered bank or the associated person is a supervisor or a manager within the meaning of section 6(1) of the Financial Markets Conduct Act 2013:
   (f) a person that is not a financial institution.
-(2) In the case of an authorisation under subsection (1)(a), the Bank must—
+(2) In the case of an authorisation under subsection (1)﻿(a), the Bank must—
   (a) give the authorisation by notice in writing to the person; and
   (b) impose both of the following conditions:
     (i) the condition that the person use a particular name or title approved by the Bank; and
     (ii) the condition that the person carry on in New Zealand only those activities specified by the Bank in the notice.
-(3) In the case of an authorisation under subsection (1)(b), the Bank must—
+(3) In the case of an authorisation under subsection (1)﻿(b), the Bank must—
   (a) give the authorisation by notice in the Gazette ; and
   (b) impose the condition that each member of the class of persons carries on in New Zealand only those activities specified by the Bank in the notice in the Gazette in respect of the class to which that member belongs.
-(4) In the case of an authorisation under subsection (1)(c) to (f), the Bank must—
+(4) In the case of an authorisation under subsection (1)﻿(c) to (f), the Bank must—
   (a) give the authorisation by notice in writing to the person; and
   (b) impose the condition that the person uses a particular name or title approved by the Bank.
 (5) Nothing in subsections (2) to (4) prevents the Bank from imposing any other conditions to the authorisation that it thinks fit.
@@ -770,7 +770,7 @@ Nothing in sections 65 and 66 affects or limits the following sections of the Co
   (d) in connection with any investigation or inquiry (whether or not preliminary to any proceedings) in respect of, or any proceedings for, an offence against this Act or any other Act; or
   (e) to any central bank, authority, or body in any other country that exercises functions that correspond with, or are similar to, those conferred on the Bank under this Act or under the Non-bank Deposit Takers Act 2013 for the purposes of the exercise by that central bank, authority, or body of those functions; or
   (f) to any person who the Bank is satisfied has a proper interest in receiving the information.
-(3) The Bank, any officer or employee of the Bank, or a person appointed under section 66E(2) must not publish or disclose any information or documents under subsection (2)(e) or (f) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of that information or those documents.
+(3) The Bank, any officer or employee of the Bank, or a person appointed under section 66E(2) must not publish or disclose any information or documents under subsection (2)﻿(e) or (f) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of that information or those documents.
 (4) A person referred to in subsection (5) commits an offence if the person contravenes this section.
 (5) The persons are—
   (a) any officer or employee of the Bank; or
@@ -779,11 +779,11 @@ Nothing in sections 65 and 66 affects or limits the following sections of the Co
 
 ### 66H Limits on further disclosure of information or documents published or disclosed under section 66G
 (1) A person to whom any information or documents are published or disclosed under section 66G must not publish, disclose, or use that information or those documents unless the publication, disclosure, or use is,—
-  (a) in the case of a publication or disclosure under section 66G(2)(a), in accordance with the terms and conditions of the consent referred to in that paragraph:
-  (b) in the case of a publication or disclosure under section 66G(2)(c),—
+  (a) in the case of a publication or disclosure under section 66G(2)﻿(a), in accordance with the terms and conditions of the consent referred to in that paragraph:
+  (b) in the case of a publication or disclosure under section 66G(2)﻿(c),—
     (i) for the purposes of, or in connection with, the exercise of powers conferred by this Part; and
     (ii) in accordance with any conditions that the Bank may have imposed:
-  (c) in the case of a publication or disclosure under section 66G(2)(f),—
+  (c) in the case of a publication or disclosure under section 66G(2)﻿(f),—
     (i) authorised by the Bank and in accordance with any conditions that the Bank may have imposed; or
     (ii) necessary or desirable for the performance of any function or exercise of any power conferred by any enactment.
 (2) A person commits an offence if the person contravenes this section.
@@ -893,14 +893,14 @@ The powers conferred on the Governor-General, the Minister, and the Bank by this
   (a) remove the name of the registered bank from the register on the date specified in the notice; and
   (b) within 7 days after that date, arrange for the publication in the Gazette of a notice that indicates the removal of that name.
 (4) Except with the consent of the Bank, a registered bank shall not give a notice under subsection (1) if—
-  (a) a notice has been given to that registered bank under section 99(2)(a); or
-  (b) a person has been appointed under section 99(2)(b) to exercise, in relation to that registered bank, the powers conferred by that paragraph; or
+  (a) a notice has been given to that registered bank under section 99(2)﻿(a); or
+  (b) a person has been appointed under section 99(2)﻿(b) to exercise, in relation to that registered bank, the powers conferred by that paragraph; or
   (c) a person has been appointed under section 101 to carry out an investigation of the affairs of that registered bank; or
   (d) a direction is in force under section 113 in relation to that registered bank; or
   (e) the registered bank is subject to statutory management.
 (5) The Bank may refuse to remove the name of a registered bank from the register if—
-  (a) a notice has been given to the registered bank under section 99(2)(a); or
-  (b) a person has been appointed under section 99(2)(b) to exercise, in relation to that registered bank, the powers conferred by that paragraph; or
+  (a) a notice has been given to the registered bank under section 99(2)﻿(a); or
+  (b) a person has been appointed under section 99(2)﻿(b) to exercise, in relation to that registered bank, the powers conferred by that paragraph; or
   (c) a person has been appointed under section 101 to carry out an investigation into the affairs of that registered bank; or
   (d) a direction is in force under section 113 in relation to that registered bank; or
   (e) the registered bank is subject to statutory management.
@@ -921,7 +921,7 @@ The powers conferred on the Governor-General, the Minister, and the Bank by this
   (e) the suitability for their positions of the directors and senior managers of the applicant; and
   (f) the standing of the owner of the applicant in the financial markets; and
   (g) any other matters that may be prescribed in regulations.
-(3) For the purposes of subsection (2)(g), the Governor-General may, from time to time, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations prescribing additional matters to which the Bank shall have regard in considering applications for registration.
+(3) For the purposes of subsection (2)﻿(g), the Governor-General may, from time to time, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations prescribing additional matters to which the Bank shall have regard in considering applications for registration.
 (4) The Bank shall give notice in the Gazette of the registration of any person as a registered bank under this section.
 
 ### 73A Further matters to which Bank must have regard if applicant is overseas person
@@ -954,7 +954,7 @@ In determining an application from a subsidiary of an overseas person, the Bank 
   (c) the registered bank has a reasonable opportunity to make submissions to the Bank; and
   (d) the Bank has regard to those submissions.
 (4) The Bank may impose conditions that relate to any of the following matters:
-  (a) the matters to which the Bank must have regard under sections 73 to 73B in determining an application for registration, including any matters prescribed by regulations made under section 73(2)(g); and
+  (a) the matters to which the Bank must have regard under sections 73 to 73B in determining an application for registration, including any matters prescribed by regulations made under section 73(2)﻿(g); and
   (b) the matters referred to in section 78, including any matters prescribed by regulations made under that section; and
   (c) the matters referred to in section 81, including any matters prescribed by an Order in Council made under that section.
 (5) A registered bank commits an offence if the registered bank fails to comply with a condition of registration imposed by the Bank under this section.
@@ -975,7 +975,7 @@ The Bank shall publish the principles on which it acts, or proposes to act,—
 (2) The Bank shall not make a recommendation under subsection (1) unless it is satisfied—
   (a) that the registered bank was registered on information that was false or misleading in a material particular; or
   (b) that, in relation to a registered bank,—
-    (i) there has been a change in any of the matters to which the Bank must have regard under section 73 (including a change in any of the matters prescribed by regulations made under section 73(2)(g)); and
+    (i) there has been a change in any of the matters to which the Bank must have regard under section 73 (including a change in any of the matters prescribed by regulations made under section 73(2)﻿(g)); and
     (ii) the Bank considers the change to be materially adverse to the registered bank's standing or financial position; or
   (ba) that, in relation to a registered bank,—
     (i) there has been a transfer of direct or indirect control of the registered bank; and
@@ -1024,8 +1024,8 @@ Nothing in section 77A invalidates any contract, or transfer of ownership, made 
 
 ### 78 Carrying on business in prudent manner
 (1) In—the Bank shall confine its consideration to the following matters:
-  (a) having regard, under section 73(2)(c), to the ability of an applicant for registration as a registered bank to carry on its business or proposed business in a prudent manner; or
-  (b) determining under section 77(2)(f) or section 113(1)(e) that a registered bank has not carried on its business in a prudent manner,—
+  (a) having regard, under section 73(2)﻿(c), to the ability of an applicant for registration as a registered bank to carry on its business or proposed business in a prudent manner; or
+  (b) determining under section 77(2)﻿(f) or section 113(1)﻿(e) that a registered bank has not carried on its business in a prudent manner,—
   (c) capital in relation to the size and nature of the business or proposed business:
   (d) loan concentration or proposed loan concentration and risk exposures or proposed risk exposures:
   (e) separation of the business or proposed business from other business and from other interests of any person owning or controlling the applicant or registered bank:
@@ -1033,7 +1033,7 @@ Nothing in section 77A invalidates any contract, or transfer of ownership, made 
   (fa) risk management systems and policies or proposed risk management systems and policies:
   (fb) arrangements for any business, or functions relating to any business, of the applicant or registered bank to be carried on by any person other than the applicant or the registered bank:
   (g) such other matters as may from time to time be prescribed in regulations.
-(2) The Governor-General may, from time to time, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations prescribing additional matters for the purposes of subsection (1)(g).
+(2) The Governor-General may, from time to time, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations prescribing additional matters for the purposes of subsection (1)﻿(g).
 (3) The Governor may, from time to time, issue, in such manner as the Governor may determine, guidelines for the purpose of interpreting any of the matters referred to in paragraphs (c) to (g) of subsection (1).
 
 ### 79 Annual fee
@@ -1064,7 +1064,7 @@ Nothing in section 77A invalidates any contract, or transfer of ownership, made 
 (4) The Order in Council must be published in the Gazette.
 (5) An Order in Council made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
-### 81AA Further matters that maybe prescribed
+### 81AA Further matters that may be prescribed
 (1) An Order in Council made under section 81 may, in addition to the matters referred to in section 81(3), require a registered bank to disclose information or data—
   (a) about an associated person of the registered bank if the associated person is incorporated, domiciled, or resident in New Zealand:
   (b) about an associated person of the registered bank if the information or data is publicly available in the country in which the associated person is incorporated, domiciled, or resident and if that country is not New Zealand:
@@ -1249,7 +1249,7 @@ The Bank may, by notice under section 93, require a registered bank or a specifi
   (e) any of the matters referred to in paragraphs (a) to (d) in relation to—
     (i) any associated person of the registered bank:
     (ii) a body incorporated in New Zealand, or an overseas company registered under section 337 of the Companies Act 1993, in which a holding company of the registered bank has a substantial interest.
-(2) A person referred to in subsection (1)(e)(i) or (e)(ii) must, if required to do so by a registered bank, supply information relating to that person in order to enable the registered bank to comply with a notice under this section.
+(2) A person referred to in subsection (1)﻿(e)﻿(i) or (e)﻿(ii) must, if required to do so by a registered bank, supply information relating to that person in order to enable the registered bank to comply with a notice under this section.
 (3) A person commits an offence if, without lawful justification or excuse, the person fails to comply with this section.
 (4) The penalty for an offence against this section is set out in section 156AC.
 
@@ -1318,14 +1318,14 @@ Every auditor shall, before disclosing any information to the Bank under section
   (b) appoint, in writing, any suitably qualified person to enter and search any premises and inspect, remove, and take copies of any documents in the possession, custody, or control of any person and, if necessary, require the reproduction in usable form of any information recorded or stored in those documents.
 (3) A person commits an offence if, without lawful justification or excuse, the person hinders, obstructs, or delays, in the conduct of an inspection under this section, any person duly authorised to make that inspection.
 (4) A registered bank or person commits an offence if, without lawful justification or excuse, the registered bank or person—
-  (a) fails to comply with any requirement of the Bank under subsection (2)(a); or
-  (b) supplies any information or data that is required to be supplied under subsection (2)(a) that is false or misleading in a material particular.
+  (a) fails to comply with any requirement of the Bank under subsection (2)﻿(a); or
+  (b) supplies any information or data that is required to be supplied under subsection (2)﻿(a) that is false or misleading in a material particular.
 (5) The penalty for an offence against this section is set out,—
   (a) in the case of an offence against subsection (3), in section 156AB; and
   (b) in the case of an offence against subsection (4), in section 156AC.
 
 ### 100 Requirements on entering and searching premises
-(1) No person appointed pursuant to section 99(2)(b) shall enter and search any premises, or inspect, remove, or take copies of any documents, or extracts from documents, in the possession of, or under the control of, any person, or require the reproduction in usable form of any information recorded or stored in any documents, unless—
+(1) No person appointed pursuant to section 99(2)﻿(b) shall enter and search any premises, or inspect, remove, or take copies of any documents, or extracts from documents, in the possession of, or under the control of, any person, or require the reproduction in usable form of any information recorded or stored in any documents, unless—
   (a) the occupier of the premises, or the person who has possession of the documents, agrees; or
   (b) that person obtains a warrant under section 106.
 (2) Every person authorised to enter and search any premises pursuant to a warrant obtained under section 106 shall, on first entering those premises, and, if requested, at any subsequent time, produce—
@@ -1345,7 +1345,7 @@ Where the Bank is satisfied that it is necessary or desirable for the purpose of
     (iii) where necessary, reproduce in usable form any information recorded or stored in such documents:
   (b) take copies of any documents produced for inspection under paragraph (a):
   (c) require any officer or employee of that registered bank or associated person, or any other person, to answer any question relating to the business, operation, and management of that registered bank or associated person.
-(1A) Any questioning under subsection (1)(c) may be carried out by any person appointed under section 101, or a barrister or solicitor acting on behalf of that person, who may require the person who is subject to the questioning to take an oath or make an affirmation.
+(1A) Any questioning under subsection (1)﻿(c) may be carried out by any person appointed under section 101, or a barrister or solicitor acting on behalf of that person, who may require the person who is subject to the questioning to take an oath or make an affirmation.
 (2) Subject to section 104, any person appointed under section 101 may, for the purposes of carrying out an investigation of the affairs of the registered bank or associated person, at any time,—
   (a) enter and search any premises:
   (b) inspect, remove, and take copies of any documents, or extracts from documents, relating to the business, operation, and management of that registered bank or associated person in the possession, or under the control, of any person:
@@ -1376,10 +1376,10 @@ Where the Bank is satisfied that it is necessary or desirable for the purpose of
 (1) This section applies to—
   (a) information, data, and forecasts supplied or disclosed to, or obtained by,—under, or for the purposes of, or in connection with the exercise of powers conferred by, this Part:
     (i) the Bank:
-    (ii) a person appointed under section 99(2)(b), section 101, or section 119—
+    (ii) a person appointed under section 99(2)﻿(b), section 101, or section 119—
   (b) information and data derived from or based upon information, data, and forecasts referred to in paragraph (a):
   (c) information relating to the exercise, or possible exercise, of the powers conferred by this Part.
-(2) Information, data, and forecasts to which this section applies shall not be published or disclosed by the Bank, any officer or employee of the Bank, or a person appointed under section 99(2)(b), section 101, or section 119, except—
+(2) Information, data, and forecasts to which this section applies shall not be published or disclosed by the Bank, any officer or employee of the Bank, or a person appointed under section 99(2)﻿(b), section 101, or section 119, except—
   (a) with the consent of the person to whom the information relates:
   (b) to the extent that the information is available to the public under any Act, other than the Official Information Act 1982, or is otherwise publicly available information:
   (c) in statistical or summary form arranged in such a manner as to prevent any information published or disclosed from being identified by any person as relating to any particular person:
@@ -1388,22 +1388,22 @@ Where the Bank is satisfied that it is necessary or desirable for the purpose of
   (f) to any central bank, authority, or body in any other country which exercises functions corresponding to or similar to those conferred on the Bank under this Part for the purposes of the exercise by that central bank, authority, or body of those functions:
   (g) to any person whom the Bank is satisfied has a proper interest in receiving such information.
 (3) No information, data, or forecasts shall be published or disclosed pursuant to paragraph (f) or paragraph (g) of subsection (2) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of the information, data, or forecasts published or disclosed.
-(4) No officer or employee of the Bank and no person appointed under section 99(2)(b), section 101, or section 119 shall use any information, data, or forecasts to which this section applies for a purpose not connected with the purpose for which such information, data, or forecasts was, or were, supplied, disclosed, or obtained.
-(5) No person to whom any information, data, or forecasts to which this section applies is or are published or disclosed pursuant to subsection (2)(d) shall publish, disclose, or use such information, data, or forecasts except—
+(4) No officer or employee of the Bank and no person appointed under section 99(2)﻿(b), section 101, or section 119 shall use any information, data, or forecasts to which this section applies for a purpose not connected with the purpose for which such information, data, or forecasts was, or were, supplied, disclosed, or obtained.
+(5) No person to whom any information, data, or forecasts to which this section applies is or are published or disclosed pursuant to subsection (2)﻿(d) shall publish, disclose, or use such information, data, or forecasts except—
   (a) for the purposes of, or in connection with the exercise of powers conferred by, this Part; and
   (b) in accordance with such conditions as may be specified by the Bank.
-(6) No person to whom any information, data, or forecasts to which this section applies is or are published or disclosed pursuant to subsection (2)(a) or subsection (2)(g), shall publish, disclose, or use such information, data, or forecasts unless the publication, disclosure, or use is—
+(6) No person to whom any information, data, or forecasts to which this section applies is or are published or disclosed pursuant to subsection (2)﻿(a) or subsection (2)﻿(g), shall publish, disclose, or use such information, data, or forecasts unless the publication, disclosure, or use is—
   (a) authorised by the Bank; or
   (b) necessary or desirable in connection with the exercise of any function or power conferred by any enactment.
 (7) A person referred to in subsection (7A) commits an offence if the person contravenes this section.
 (7A) The persons are—
   (a) any officer or employee of the Bank; or
-  (b) a person appointed under section 99(2)(b), section 101, or section 119.
+  (b) a person appointed under section 99(2)﻿(b), section 101, or section 119.
 (7B) The penalty for an offence against this section is set out in section 156AA.
 (8) Nothing in the Official Information Act 1982 or any other Act, other than this Act, applies to information, data, and forecasts to which this section applies whether or not such information, data, and forecasts has or have been published or disclosed to any person pursuant to this section.
 
 ### 106 Procedure for obtaining warrants
-(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on application made in the manner provided in subpart 3 of Part 4 of that Act, that there are reasonable grounds for believing—may issue a warrant, in terms of section 107, to a person appointed pursuant to section 99(2)(b).
+(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on application made in the manner provided in subpart 3 of Part 4 of that Act, that there are reasonable grounds for believing—may issue a warrant, in terms of section 107, to a person appointed pursuant to section 99(2)﻿(b).
   (aaa) that any information or data published in a disclosure statement by a registered bank under section 81 or section 83 is false or misleading in a material particular; or
   (aa) that a registered bank has failed to publish information that it is required to publish in a disclosure statement under section 81 or section 83; or
   (a) that any information or data supplied to the Bank by a registered bank pursuant to section 93 is false or misleading in a material particular; or
@@ -1429,21 +1429,21 @@ Where the Bank is satisfied that it is necessary or desirable for the purpose of
 ### 109 Effect of final decision that exercise of powers under section 99 unlawful
 In any case where it is declared in a final decision given in any proceedings in respect of the exercise of powers conferred by section 99 that the exercise of any powers conferred by that section is unlawful, to the extent to which the exercise of those powers is declared unlawful,—
   (a) the Bank shall ensure that forthwith after the decision of the court is given—
-    (i) any information and data supplied by the registered bank pursuant to subsection (2)(a) of that section is destroyed:
-    (ii) any documents or extracts from documents obtained pursuant to an inspection made under subsection (2)(b) of that section are returned to the person previously having possession of those documents or previously having them under his or her control and any copies of such documents or extracts are destroyed:
+    (i) any information and data supplied by the registered bank pursuant to subsection (2)﻿(a) of that section is destroyed:
+    (ii) any documents or extracts from documents obtained pursuant to an inspection made under subsection (2)﻿(b) of that section are returned to the person previously having possession of those documents or previously having them under his or her control and any copies of such documents or extracts are destroyed:
     (iii) any information derived from or based upon any such information and data or documents or extracts is destroyed:
-  (b) no information and data supplied by the registered bank pursuant to subsection (2)(a) of that section, and no documents or extracts from documents obtained pursuant to an inspection made under subsection (2)(b) of that section, shall be—
+  (b) no information and data supplied by the registered bank pursuant to subsection (2)﻿(a) of that section, and no documents or extracts from documents obtained pursuant to an inspection made under subsection (2)﻿(b) of that section, shall be—
     (i) admissible in evidence in any proceedings:
     (ii) used in connection with the exercise of any power conferred by section 113 or section 117.
 
 ### 110 Effect of final decision that exercise of powers under section 101 or section 102 unlawful
 In any case where it is declared in a final decision given in any proceedings in respect of the exercise of powers conferred by section 101 or section 102 that the exercise of any powers conferred by those sections is unlawful, to the extent to which the exercise of those powers is declared unlawful,—
   (a) the Bank shall ensure that forthwith after the decision of the court is given—
-    (i) any information or data obtained pursuant to section 102(1)(a) is destroyed:
-    (ii) any documents produced for inspection pursuant to section 102(1)(a) are returned to the person previously having possession of the documents or previously having the documents under his or her control and any copies of such documents or extracts from documents are destroyed:
+    (i) any information or data obtained pursuant to section 102(1)﻿(a) is destroyed:
+    (ii) any documents produced for inspection pursuant to section 102(1)﻿(a) are returned to the person previously having possession of the documents or previously having the documents under his or her control and any copies of such documents or extracts from documents are destroyed:
     (iii) any documents or extracts from documents obtained pursuant to an inspection made under section 102(2) are returned to the person previously having possession of those documents or previously having them under his or her control and any copies of such documents or extracts from documents are destroyed:
     (iv) any information derived from or based upon any such information, documents, or extracts is destroyed:
-  (b) no information or data obtained or documents produced for inspection pursuant to section 102(1)(a) and no documents or extracts from documents obtained pursuant to an inspection made under section 102(2) shall be—
+  (b) no information or data obtained or documents produced for inspection pursuant to section 102(1)﻿(a) and no documents or extracts from documents obtained pursuant to an inspection made under section 102(2) shall be—
     (i) admissible in evidence in any proceedings:
     (ii) used in connection with the exercise of any power conferred by section 113 or section 117.
 
@@ -1503,7 +1503,7 @@ A direction given under section 113 may require a registered bank or an associat
   (b) exercise that power by giving notice in writing to—
     (i) the director or the person concerned; and
     (ii) if applicable, the Registrar of Companies.
-(4) A notice given under subsection (3)(b)(ii) is sufficient compliance with section 159 of the Companies Act 1993 as long as the notice is accompanied by the form of consent and certificate required under section 152 of that Act.
+(4) A notice given under subsection (3)﻿(b)﻿(ii) is sufficient compliance with section 159 of the Companies Act 1993 as long as the notice is accompanied by the form of consent and certificate required under section 152 of that Act.
 (5) This section has effect despite any enactment, rule of law, or the terms of the constitution of, or the instrument or contract creating, a registered bank or an associated person of a registered bank.
 
 ### 114 Offence to contravene directions
@@ -1542,15 +1542,15 @@ A direction given under section 113 may require a registered bank or an associat
 (3) Where a registered bank or an associated person of a registered bank that is declared to be subject to statutory management or a subsidiary of a registered bank that becomes subject to statutory management under subsection (2), is incorporated outside New Zealand or is an unincorporated body having its head office or principal place of business outside New Zealand, the provisions of this Part relating to statutory management shall apply to the property, rights, assets and liabilities relating to its New Zealand business.
 (4) Every Order in Council made under subsection (1) must specify the date on which, and the time at which, the Order in Council comes into force.
 (5) The date and time as specified must not be earlier than the date on which, and the time at which, the Order in Council is made.
-(6) A person appointed under subsection (1)(b) has all the rights and powers conferred, and all the duties imposed, on a person appointed under section 101 and, without limitation, the following provisions apply, with any necessary modifications, as if that person were appointed under section 101:
+(6) A person appointed under subsection (1)﻿(b) has all the rights and powers conferred, and all the duties imposed, on a person appointed under section 101 and, without limitation, the following provisions apply, with any necessary modifications, as if that person were appointed under section 101:
   (a) section 102 (which relates to powers to carry out an investigation of the affairs of a registered bank); and
   (b) section 103 (which sets out offences in relation to investigations); and
   (c) section 104 (which sets out the requirements that must be complied with by a person carrying out an investigation).
-(7) Subsections (1)(a) and (2) are subject to section 139J(4).
+(7) Subsections (1)﻿(a) and (2) are subject to section 139J(4).
 
 ### 118 Grounds on which registered bank may be declared to be subject to statutory management
 (1) The Bank must not make a recommendation under section 117 unless—
-  (a) it is satisfied on reasonable grounds that 1 or more of the circumstances listed in section 113(1)(a) to (e) exist; or
+  (a) it is satisfied on reasonable grounds that 1 or more of the circumstances listed in section 113(1)﻿(a) to (e) exist; or
   (b) a registered bank or an associated person of a registered bank has failed to comply with a direction given under section 113.
 (2) The Bank shall, as soon as practicable after the making of an Order in Council declaring a registered bank or associated person to be subject to statutory management, give written notice to the registered bank or associated person stating the grounds on which the recommendation made by the Bank was made.
 
@@ -1581,7 +1581,7 @@ Subject to section 142, every statutory manager of a registered bank shall compl
   (a) consult with the Bank, to the extent required by the Bank, as to the exercise of those powers:
   (b) provide the reports that the Bank may require as to the state of the affairs, business, and statutory management of the registered bank to persons specified by the Bank (including, but not limited to, the Bank) in the form and with the frequency that the Bank may require:
   (c) provide the information that an advisory committee appointed under section 119 may reasonably require as to the affairs, business, and statutory management of the registered bank.
-(3) A statutory manager may refuse to supply information to an advisory committee under subsection (2)(c) if the Bank considers that the refusal is appropriate and gives its written approval to the statutory manager accordingly.
+(3) A statutory manager may refuse to supply information to an advisory committee under subsection (2)﻿(c) if the Bank considers that the refusal is appropriate and gives its written approval to the statutory manager accordingly.
 
 ### 121A Statutory manager to avoid actions likely to have detrimental effect
 (1) A statutory manager who has reasonable cause to believe that an action he or she proposes to take is an action that is likely to have a detrimental effect on financial system stability in Australia must—
@@ -1606,10 +1606,10 @@ Subject to section 142, every statutory manager of a registered bank shall compl
 (2) Notwithstanding subsection (1), an action or proceeding may be commenced or continued against a registered bank for the purpose of determining whether any right or liability exists if the leave of the statutory manager or the High Court is first obtained.
 (3) Notwithstanding subsection (1), a statutory manager may waive the application in whole or in part of that subsection (except paragraph (c)) to any creditor or class of creditors in respect of the whole or part of any claim of, or security held by, that creditor or class of creditors.
 (4) Subject to this Act, nothing in subsection (1) affects the existence of any security over the property of any registered bank or its priority over other debts.
-(5) Nothing in subsection (1)(a), (b), and (d) to (h) limits or prevents any person from taking any of the actions specified in those paragraphs in relation to an obligation incurred or a right granted under a deed, instrument, trust, or contract entered into by a registered bank after the date on which, and the time at which, that registered bank was declared to be subject to statutory management.
+(5) Nothing in subsection (1)﻿(a), (b), and (d) to (h) limits or prevents any person from taking any of the actions specified in those paragraphs in relation to an obligation incurred or a right granted under a deed, instrument, trust, or contract entered into by a registered bank after the date on which, and the time at which, that registered bank was declared to be subject to statutory management.
 (6)
 (7) In the case of a netting agreement to which sections 310A to 310O of the Companies Act 1993 or sections 255 to 263 of the Insolvency Act 2006 apply,—
-  (a) nothing in subsection (1)(h) applies to any right of set-off provided for in the netting agreement; and
+  (a) nothing in subsection (1)﻿(h) applies to any right of set-off provided for in the netting agreement; and
   (b) nothing in subsection (1) limits or prevents the exercise of any of the following rights under the netting agreement:
     (i) the termination, in accordance with the netting agreement, of all or any transactions that are subject to the netting agreement by reason of the occurrence of an event specified in the netting agreement, being an event (including the appointment of a statutory manager) occurring not later than the commencement of statutory management; or
     (ii) the taking of an account, in accordance with the netting agreement, of all money due between the parties to the netting agreement in respect of transactions affected by the termination; and
@@ -1690,24 +1690,24 @@ Subject to this Part, a statutory manager of a registered bank shall, for the pu
   (e) sell all or any of the shares, or the whole or any part of the business undertaking, of that body corporate to such person and upon such terms and conditions as the statutory manager thinks fit.
 (3) The statutory manager shall not sell or otherwise dispose of—unless the statutory manager has consulted with the Bank and the Bank, with the consent of the Minister, has given approval in writing to the sale or other disposition and the terms and conditions of it.
   (a) the whole or any substantial part of the business undertaking of a registered bank pursuant to subsection (1):
-  (b) any of the shares of any body corporate formed and registered pursuant to subsection (2)(a):
-  (c) the whole or any substantial part of the business undertaking of any body corporate formed and registered pursuant to subsection (2)(a),—
+  (b) any of the shares of any body corporate formed and registered pursuant to subsection (2)﻿(a):
+  (c) the whole or any substantial part of the business undertaking of any body corporate formed and registered pursuant to subsection (2)﻿(a),—
 
 ### 133 Consents not required under other Acts
 The provisions of any enactment or agreement requiring any consent, licence, permission, clearance or other authority shall not have any application in respect of—being a sale or disposition to which the Bank has, with the consent of the Minister, given its approval under section 132(3).
   (a) the sale or other disposition of the whole or any part of the business undertaking of a registered bank pursuant to section 132(1):
-  (b) the sale or other disposition pursuant to section 132(2)(e) of any of the shares of any body corporate formed and registered pursuant to subsection (2)(a) of that section:
-  (c) the sale or other disposition pursuant to section 132(2)(e) of the whole or any part of the business undertaking of that body corporate—
+  (b) the sale or other disposition pursuant to section 132(2)﻿(e) of any of the shares of any body corporate formed and registered pursuant to subsection (2)﻿(a) of that section:
+  (c) the sale or other disposition pursuant to section 132(2)﻿(e) of the whole or any part of the business undertaking of that body corporate—
 
 ### 134 Sale of property or assets subject to a security
 (1) A statutory manager may—notwithstanding the existence, or the terms and conditions, of any security over the property or those assets in favour of any other person.
   (a) sell or otherwise dispose of any property or assets of a registered bank pursuant to section 132(1); or
-  (b) sell or otherwise dispose of any property or assets of a registered bank to any body corporate formed and registered pursuant to section 132(2)(a); or
-  (c) sell or otherwise dispose of any shares, or property or assets, of a body corporate formed and registered pursuant to section 132(2)(a)—
+  (b) sell or otherwise dispose of any property or assets of a registered bank to any body corporate formed and registered pursuant to section 132(2)﻿(a); or
+  (c) sell or otherwise dispose of any shares, or property or assets, of a body corporate formed and registered pursuant to section 132(2)﻿(a)—
 (2) If the statutory manager of a registered bank sells or otherwise disposes of any property or assets of that bank under section 132(1), being property or assets subject to a security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the property or assets.
-(3) Where a statutory manager of a registered bank sells or otherwise disposes of any property or assets of that registered bank to any body corporate formed and registered pursuant to section 132(2)(a), being property or assets subject to a security in favour of any other person, the property or those assets shall continue to be subject to that security.
-(4) If a statutory manager of a registered bank sells or otherwise disposes of any shares in a body corporate formed and registered under section 132(2)(a), any property or assets of which are subject to a security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the shares.
-(5) If a statutory manager of a registered bank sells or otherwise disposes of any property or assets of a body corporate formed and registered under section 132(2)(a), being property or assets subject to security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the property or assets.
+(3) Where a statutory manager of a registered bank sells or otherwise disposes of any property or assets of that registered bank to any body corporate formed and registered pursuant to section 132(2)﻿(a), being property or assets subject to a security in favour of any other person, the property or those assets shall continue to be subject to that security.
+(4) If a statutory manager of a registered bank sells or otherwise disposes of any shares in a body corporate formed and registered under section 132(2)﻿(a), any property or assets of which are subject to a security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the shares.
+(5) If a statutory manager of a registered bank sells or otherwise disposes of any property or assets of a body corporate formed and registered under section 132(2)﻿(a), being property or assets subject to security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the property or assets.
 (6) The kind of security interest referred to in this section is a security interest that—
   (a) is over all or any part of the bank's or body corporate's (as the case may be) accounts receivable and inventory or all or any part of either of them; and
   (b) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
@@ -1715,10 +1715,10 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 (7) In this section, account receivable, inventory, new value, purchase money security interest, proceeds, and security interest have the same meanings as in the Personal Property Securities Act 1999.
 
 ### 135 Proof of transactions
-(1) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a registered bank or any shares in, or property or assets of, any company incorporated pursuant to section 132(2)(a)—shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
+(1) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a registered bank or any shares in, or property or assets of, any company incorporated pursuant to section 132(2)﻿(a)—shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
   (a) executed or purporting to be executed by or on behalf of the registered bank or company; and
   (b) containing a recital that the transfer or other disposition of the property or assets of the registered bank, or the shares in, or property or assets of, the company, is made pursuant to section 132—
-(2) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers of a certificate signed by the statutory manager that the amount secured by a charge over any property or assets of a registered bank or any company formed and registered pursuant to section 132(2)(a) has been paid shall, in the absence of evidence to the contrary, be sufficient proof that the amount secured by the charge has been repaid.
+(2) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers of a certificate signed by the statutory manager that the amount secured by a charge over any property or assets of a registered bank or any company formed and registered pursuant to section 132(2)﻿(a) has been paid shall, in the absence of evidence to the contrary, be sufficient proof that the amount secured by the charge has been repaid.
 
 ### 136 Liquidation of registered banks
 (1) Subject to this Part, a statutory manager of a registered bank may, with the prior approval of the Bank,—
@@ -1734,7 +1734,7 @@ The provisions of any enactment or agreement requiring any consent, licence, per
   (a) the registered bank shall, as from the date of such sale or other disposition, be relieved from all its obligations in respect of that liability, or part of it; and
   (b) the person entitled to performance in respect of that liability shall be entitled to enforce performance of that liability or part of it against the person to whom the business undertaking is sold or otherwise disposed of in the same manner and to the same extent as that person was entitled to enforce performance against the registered bank; and
   (c) the inclusion of part of a liability shall not relieve the registered bank from any obligation in respect of any part of the liability not included in the sale or other disposition.
-(2) Where all or any part of any liability of a body corporate formed and registered under section 123(1), or all or any part of any liability relating to the business carried on by a branch of any body corporate incorporated outside New Zealand or, as the case may be, any unincorporated body having its head office or principal place of business outside New Zealand, is included in such a sale or other disposition, nothing in subsection (1)(a) shall relieve any body corporate incorporated outside New Zealand or, as the case may be, any unincorporated body having its head office or principal place of business outside New Zealand from any obligation in respect of that liability.
+(2) Where all or any part of any liability of a body corporate formed and registered under section 123(1), or all or any part of any liability relating to the business carried on by a branch of any body corporate incorporated outside New Zealand or, as the case may be, any unincorporated body having its head office or principal place of business outside New Zealand, is included in such a sale or other disposition, nothing in subsection (1)﻿(a) shall relieve any body corporate incorporated outside New Zealand or, as the case may be, any unincorporated body having its head office or principal place of business outside New Zealand from any obligation in respect of that liability.
 
 ### 138 Power to trace property improperly disposed of
 (1) In any case where, whether before or after the passing of this Act,—the court may, if it thinks fit, make an order—
@@ -1784,8 +1784,8 @@ In this section and in sections 139B to 139J, unless the context otherwise requi
 (1) For the purposes of sections 139A to 139J, issuer—
   (a) means—
     (i) a registered bank that issues or intends to issue covered bonds, or guarantees such covered bonds:
-    (ii) an entity, or a member of a class of entities, specified in regulations made under section 139F(3)(a) that issues or intends to issue covered bonds, or guarantees such covered bonds; and
-  (b) includes a bank referred to in paragraph (a)(i) that—
+    (ii) an entity, or a member of a class of entities, specified in regulations made under section 139F(3)﻿(a) that issues or intends to issue covered bonds, or guarantees such covered bonds; and
+  (b) includes a bank referred to in paragraph (a)﻿(i) that—
     (i) has had its registration cancelled under section 77; and
     (ii) has a registered covered bond programme.
 (2) However, if an issuer (issuer A) transfers all of the rights and obligations relating to a covered bond programme to another issuer (issuer B), issuer B is, from the time of the transfer, the issuer for the purposes of sections 139A to 139J.
@@ -1836,18 +1836,18 @@ In this section and in sections 139B to 139J, unless the context otherwise requi
   (c) that a register of cover pool assets will be maintained; and
   (d) that the covered bond programme specifies, or refers to documents that specify, procedures and internal controls that ensure—
     (i) the up-to-date and accurate keeping of that register; and
-    (ii) that the assets in the cover pool remain consistent with any asset class designation under section 139D(2)(b); and
+    (ii) that the assets in the cover pool remain consistent with any asset class designation under section 139D(2)﻿(b); and
   (e) that the covered bond programme specifies a test, or tests, to determine, in accordance with any procedures specified in that programme, whether the value of the cover pool assets is at least equal to the principal amount outstanding on the covered bonds; and
-  (f) that the covered bond programme provides for the covered bond SPV to perform, or arrange to have performed on its behalf, the requirements of section 139H(1)(a) and (b)(i)—
+  (f) that the covered bond programme provides for the covered bond SPV to perform, or arrange to have performed on its behalf, the requirements of section 139H(1)﻿(a) and (b)﻿(i)—
     (i) in the event that any amounts become due and payable by the covered bond SPV under the covered bond programme; and
     (ii) until the security interest over the cover pool assets has been enforced; and
   (g) that the issuer is in compliance with all other requirements imposed in relation to covered bonds by, or under,—
     (i) section 74; or
     (ii) regulations made under subsection (3).
 (3) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations—
-  (a) specifying entities, or classes of entities, for the purposes of section 139C(1)(a)(ii):
-  (b) specifying persons or partnerships, or classes of persons or partnerships, for the purposes of subsection (2)(a)(ii):
-  (c) prescribing additional requirements for the purposes of subsection (2)(g)(ii):
+  (a) specifying entities, or classes of entities, for the purposes of section 139C(1)﻿(a)﻿(ii):
+  (b) specifying persons or partnerships, or classes of persons or partnerships, for the purposes of subsection (2)﻿(a)﻿(ii):
+  (c) prescribing additional requirements for the purposes of subsection (2)﻿(g)﻿(ii):
   (d) prescribing conditions in relation to the entities, persons, or partnerships referred to in paragraphs (a) and (b).
 
 ### 139G Bank must approve or decline application
@@ -1868,21 +1868,21 @@ In this section and in sections 139B to 139J, unless the context otherwise requi
 
 ### 139H Requirements relating to registered covered bond programmes
 (1) Every issuer must, in relation to a registered covered bond programme,—
-  (a) ensure that the test or tests specified in section 139F(2)(e) are carried out at intervals of not more than 12 months and notify the Bank if the result of such test or tests is that the value of the cover pool assets is less than the principal amount outstanding on the covered bonds; and
+  (a) ensure that the test or tests specified in section 139F(2)﻿(e) are carried out at intervals of not more than 12 months and notify the Bank if the result of such test or tests is that the value of the cover pool assets is less than the principal amount outstanding on the covered bonds; and
   (b) ensure that—
     (i) a register of cover pool assets is maintained; and
-    (ii) it complies with the procedures and internal controls referred to in section 139F(2)(d); and
+    (ii) it complies with the procedures and internal controls referred to in section 139F(2)﻿(d); and
   (c) notify the Bank—
     (i) of every covered bond issued; and
     (ii) of any material changes to the registered covered bond programme that would be likely to result in the registered covered bond programme failing to comply with the requirements of section 139F(2); and
-    (iii) if the covered bond programme or the cover pool no longer complies with any asset class designation under section 139D(2)(b); and
+    (iii) if the covered bond programme or the cover pool no longer complies with any asset class designation under section 139D(2)﻿(b); and
   (d) provide the Bank with any further information it requests in relation to the covered bond programme; and
   (e) ensure that—
     (i) the registered covered bond programme complies with the requirements of section 139F(2); and
-    (ii) the reports referred to in section 139I(1)(c)(ii) are provided to any bond trustee and security trustee appointed under the covered bond programme; and
+    (ii) the reports referred to in section 139I(1)﻿(c)﻿(ii) are provided to any bond trustee and security trustee appointed under the covered bond programme; and
     (iii) the Bank is provided with a copy of—
-      (A) every report prepared by the cover pool monitor in accordance with section 139I(1)(c)(iii) and (iv); and
-      (B) if requested by the Bank, any other report prepared by the cover pool monitor in accordance with section 139I(1)(c)(ii).
+      (A) every report prepared by the cover pool monitor in accordance with section 139I(1)﻿(c)﻿(iii) and (iv); and
+      (B) if requested by the Bank, any other report prepared by the cover pool monitor in accordance with section 139I(1)﻿(c)﻿(ii).
 (2) However, if any amounts become due and payable by the covered bond SPV under the covered bond programme,—
   (a) the issuer is not required to comply with subsection (1); and
   (b) the covered bond SPV must provide the Bank with any information it requests in relation to that covered bond programme.
@@ -1901,15 +1901,15 @@ In this section and in sections 139B to 139J, unless the context otherwise requi
     (iii) a member of any other class of persons or firms that has been approved by the Bank; and
   (c) required, under its contract of appointment, to—
     (i) assess, at a given point in time, and in accordance with any agreed procedures specified in the covered bond programme,—
-      (A) the arithmetical accuracy of the tests carried out in accordance with section 139H(1)(a); and
-      (B) the issuer's compliance with the requirements of section 139H(1)(b); and
-    (ii) provide the issuer with reports on the matters required under paragraph (c)(i) at intervals of not more than 12 months; and
+      (A) the arithmetical accuracy of the tests carried out in accordance with section 139H(1)﻿(a); and
+      (B) the issuer's compliance with the requirements of section 139H(1)﻿(b); and
+    (ii) provide the issuer with reports on the matters required under paragraph (c)﻿(i) at intervals of not more than 12 months; and
     (iii) provide reports at intervals of not more than 3 months if the cover pool monitor is not satisfied—
-      (A) as to the arithmetical accuracy of the tests carried out in accordance with section 139H(1)(a); or
-      (B) that the issuer has complied with the requirements of section 139H(1)(b); and
+      (A) as to the arithmetical accuracy of the tests carried out in accordance with section 139H(1)﻿(a); or
+      (B) that the issuer has complied with the requirements of section 139H(1)﻿(b); and
     (iv) if subparagraph (iii) applies, continue to provide 3-monthly reports until the cover pool monitor is satisfied that the issuer has remedied those matters; and
     (v) report on any other matters required by regulations made under subsection (2).
-(2) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations specifying additional matters that the cover pool monitor must be required to report on, and the information to be provided with such a report, for the purposes of subsection (1)(c)(v).
+(2) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations specifying additional matters that the cover pool monitor must be required to report on, and the information to be provided with such a report, for the purposes of subsection (1)﻿(c)﻿(v).
 (3) For the purposes of this section, independent means independent of both the issuer and any associated person of the issuer.
 (4) However, to avoid doubt, a person's appointment as auditor does not affect his, her, or its independence.
 
@@ -1930,7 +1930,7 @@ In this section and in sections 139B to 139J, unless the context otherwise requi
   (a) the covered bond SPV is the owner of the assets in the cover pool; and
   (b) the covered bond programme is registered under section 139G.
 (4) A covered bond SPV is not—
-  (a) an associated person for the purposes of section 117(1)(a) of this Act, section 38(1)(a) of the Corporations (Investigation and Management) Act 1989, or section 170(1)(b) of the Insurance (Prudential Supervision) Act 2010; or
+  (a) an associated person for the purposes of section 117(1)﻿(a) of this Act, section 38(1)﻿(a) of the Corporations (Investigation and Management) Act 1989, or section 170(1)﻿(b) of the Insurance (Prudential Supervision) Act 2010; or
   (b) a subsidiary for the purposes of section 117(2) of this Act, section 38(2) of the Corporations (Investigation and Management) Act 1989, or section 170(2) of the Insurance (Prudential Supervision) Act 2010; or
   (c) a related company for the purposes of section 271 of the Companies Act 1993.
 
@@ -2027,10 +2027,15 @@ Except as otherwise provided in this Part, no registered bank, associated person
 ### 152 Regulations relating to powers of Bank and statutory manager
 (1) The Governor-General may, from time to time, by Order in Council, make regulations under section 173 conferring on the Bank, or a statutory manager of a registered bank, ancillary or additional powers necessary or desirable for the purposes of this Part.
 (2) The regulations shall be laid before the House of Representatives within 12 sitting days after the date on which they are made if the House of Representatives is then in session, and, if not, shall be laid before the House of Representatives within 12 days after the commencement of the next ensuing session.
-(3) Regulations laid before the House of Representatives in any session pursuant to subsection (2) shall expire on the close of the earlier of—unless the regulations are expressly validated or confirmed by an Act of Parliament passed before they expire.
-  (a) the end of the session in which the regulations are made:
-  (b) the end of the calendar year following the year in which the regulations were made—
-(4) Unless otherwise provided, the repeal of any Act passed pursuant to subsection (3) shall not, of itself, affect the validity of any regulations validated or confirmed by the Act repealed.
+(3)
+(4)
+
+### 152A Regulations are confirmable instruments
+(1) This section applies to regulations made under both of sections 152 and 173, but only if the regulations confer on the Bank, or a statutory manager of a registered bank, ancillary or additional powers necessary or desirable for the purposes of Part 5.
+(2) The explanatory note of the regulations must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 153 Application of other Acts
 (1) Subject to subsection (2), all the provisions of the Companies Act 1993 and all rules and regulations under that Act shall, so far as they are applicable, and with the necessary modifications, apply to a registered bank that is a company within the meaning of section 2 of that Act and that is subject to statutory management.
@@ -2080,8 +2085,8 @@ Except as otherwise provided in this Part, no registered bank, associated person
 (2) The provisions are—
   (a) section 77A (which relates to failing to comply with the requirement for consent to be sought from the Bank in the event of a significant change of ownership):
   (b) section 94 (which relates to failing to comply with a requirement from the Bank that information, data, or forecasts be audited):
-  (c) section 98B(2)(a) (which relates to failing to comply with the requirements notified by the Bank in relation to a home country supervisor):
-  (d) section 98B(2)(b) (which relates to supplying any information or data to a home country supervisor that is false or misleading in a material particular):
+  (c) section 98B(2)﻿(a) (which relates to failing to comply with the requirements notified by the Bank in relation to a home country supervisor):
+  (d) section 98B(2)﻿(b) (which relates to supplying any information or data to a home country supervisor that is false or misleading in a material particular):
   (e) section 105 (which relates to the misuse of confidential information):
   (f) section 115 (which relates to the unauthorised disclosure of the fact that a direction has been given).
 
@@ -2096,9 +2101,9 @@ Except as otherwise provided in this Part, no registered bank, associated person
   (d) section 93B (which relates to a person failing, after being required by a registered bank to do so, to supply the registered bank with information, data, or forecasts relating to that person in order to enable the registered bank to comply with a notice under section 93):
   (e) section 93C (which relates to a person failing to comply with provisions concerning the supply of information for the purposes of prudential supervision and to supplying information that is false or misleading in a material particular):
   (f) section 99(3) (which relates to hindering, obstructing, or delaying the conduct of an inspection).
-  (g) section 139E(5)(a) (which relates to issuing a covered bond other than under a registered covered bond programme):
-  (h) section 139E(5)(b) (which relates to permitting the issue of a covered bond other than under a registered covered bond programme):
-  (i) section 139E(5)(c) (which relates to providing false or misleading information to the Bank in relation to an application to register a covered bond programme):
+  (g) section 139E(5)﻿(a) (which relates to issuing a covered bond other than under a registered covered bond programme):
+  (h) section 139E(5)﻿(b) (which relates to permitting the issue of a covered bond other than under a registered covered bond programme):
+  (i) section 139E(5)﻿(c) (which relates to providing false or misleading information to the Bank in relation to an application to register a covered bond programme):
   (j) section 139H(4) (which relates to failing to comply with a notice issued by the Bank in relation to the requirements relating to a registered covered bond programme).
 
 ### 156AC Penalty for offences relating to registration of banks, disclosure statements, prudential supervision of registered banks, etc
@@ -2112,9 +2117,9 @@ Except as otherwise provided in this Part, no registered bank, associated person
   (d) section 81AC (which relates to failing to supply information or data to a registered bank to enable the registered bank to comply with an Order in Council made under section 81):
   (e) section 89 (which relates to failing to publish information that is required to be published in a disclosure statement):
   (f) section 89A (which relates to publishing a disclosure statement that includes information that is false or misleading):
-  (g) section 89C(1)(a) (which relates to failing to publish a disclosure statement that does not contain false or misleading information after being required to do so under section 83):
-  (h) section 89C(1)(b) (which relates to failing to publish a disclosure statement that contains information that was previously omitted after being required to do so under section 83):
-  (i) section 9C(1)(c) (which relates to failing to take the corrective action specified by the Bank in a notice given under section 83 after being required to do so under that section):
+  (g) section 89C(1)﻿(a) (which relates to failing to publish a disclosure statement that does not contain false or misleading information after being required to do so under section 83):
+  (h) section 89C(1)﻿(b) (which relates to failing to publish a disclosure statement that contains information that was previously omitted after being required to do so under section 83):
+  (i) section 9C(1)﻿(c) (which relates to failing to take the corrective action specified by the Bank in a notice given under section 83 after being required to do so under that section):
   (j) section 95 (which relates to failing to supply a report required by the Bank):
   (k) section 95A (which relates to failing to forward a report prepared under section 95 as required by the Bank):
   (l) section 99(4) (which relates to failing to comply with a requirement from the Bank to supply information for the purposes of an inspection and to supplying information that is false or misleading in a material particular):
@@ -2124,8 +2129,8 @@ Except as otherwise provided in this Part, no registered bank, associated person
   (p) section 114(2) (which relates to obstructing or hindering, etc, a registered bank from giving effect to a direction):
   (q) section 126 (which relates to transferring or removing from New Zealand any property or assets of a registered bank that is subject to statutory management):
   (r) section 150 (which relates to failing to deliver books, records, etc, to a statutory manager):
-  (s) section 151(1)(a) (which relates to destroying, altering, etc, any book, document, or record relating to a registered bank that is subject to statutory management):
-  (t) section 151(1)(b) (which relates to failing or refusing to answer a statutory manager's question about any book, document, etc, relating to a registered bank that is subject to statutory management, and giving a false answer to that question).
+  (s) section 151(1)﻿(a) (which relates to destroying, altering, etc, any book, document, or record relating to a registered bank that is subject to statutory management):
+  (t) section 151(1)﻿(b) (which relates to failing or refusing to answer a statutory manager's question about any book, document, etc, relating to a registered bank that is subject to statutory management, and giving a false answer to that question).
 
 ## Part 5A — Retention of documents by banks
 
@@ -2135,9 +2140,9 @@ Except as otherwise provided in this Part, no registered bank, associated person
   (b) the Reserve Bank of New Zealand:
   (c) any other person carrying on in New Zealand the business of banking.
 (2) Subject to this section, every bank—
-  (a) shall retain, until the expiration of the period specified in subsection (3)(a), every cheque or bank draft that is drawn on that bank and that is presented to it for payment; and may thereafter destroy it:
-  (b) shall retain, until the expiration of the period specified in subsection (3)(a), every bill of exchange or promissory note that is made payable at that bank and that is presented to it for payment; and may thereafter destroy it:
-  (c) shall retain, until the expiration of the period specified in subsection (3)(b), every voucher used in connection with account transactions at a bank or branch of a bank (including every deposit or withdrawal slip); and may thereafter destroy it.
+  (a) shall retain, until the expiration of the period specified in subsection (3)﻿(a), every cheque or bank draft that is drawn on that bank and that is presented to it for payment; and may thereafter destroy it:
+  (b) shall retain, until the expiration of the period specified in subsection (3)﻿(a), every bill of exchange or promissory note that is made payable at that bank and that is presented to it for payment; and may thereafter destroy it:
+  (c) shall retain, until the expiration of the period specified in subsection (3)﻿(b), every voucher used in connection with account transactions at a bank or branch of a bank (including every deposit or withdrawal slip); and may thereafter destroy it.
 (3) For the purposes of subsection (2),—
   (a) the period applicable in respect of a document to which paragraph (a) or paragraph (b) of that subsection applies shall be,—
     (i) in the case of a document payable on demand, the period of 7 years beginning with the date of the document; and
@@ -2147,10 +2152,10 @@ Except as otherwise provided in this Part, no registered bank, associated person
   (a) a copy of the document has been made by the bank on microfilm, microfiche, tape, disc, electronic or photographic storage media, or other means; and
   (b) the copy is able to be reproduced therefrom in a form that can be produced in evidence under the Evidence Act 2006; and
   (c) the copy is retained by the bank for the same period as the document is required to be retained pursuant to that subsection.
-(5) It is sufficient compliance with the duty to retain imposed by subsection (2), in the case of a cheque that has been presented for payment in accordance with section 7D(1)(b)(iii) of the Cheques Act 1960, if—
+(5) It is sufficient compliance with the duty to retain imposed by subsection (2), in the case of a cheque that has been presented for payment in accordance with section 7D(1)﻿(b)﻿(iii) of the Cheques Act 1960, if—
   (a) the paying bank arranges, in accordance with the rules of an inter-bank clearing system (within the meaning of section 7A of that Act), for the retention, on behalf of the paying bank, of the cheque or a copy of it in accordance with subsection (4); and
   (b) the paying bank is entitled to obtain possession of the cheque or the copy; and
-  (c) the cheque or copy is retained on behalf of the paying bank for the period specified in subsection (3)(a).
+  (c) the cheque or copy is retained on behalf of the paying bank for the period specified in subsection (3)﻿(a).
 (6) No document shall be destroyed pursuant to this section at any time after a demand for the delivery of the document has been made to the bank by the person entitled to it.
 (7) A copy of a document made pursuant to this section is admissible in evidence in legal proceedings to the same extent as the document of which it is a copy would have been admissible.
 (8) This section applies to cheques, drafts, bills, and promissory notes received by a bank and vouchers in the possession of a bank either before or after the coming into operation of this section.
@@ -2199,20 +2204,20 @@ The powers conferred on the Bank by this Part must be exercised for the purpose 
   (d) the publication or disclosure of the information or data is to any central bank, authority, or body in any other country that exercises functions that correspond with, or are similar to, those conferred on the Bank under this Act, and the Bank is satisfied that the information or data will be used by that central bank, authority, or body for the purpose of exercising those functions; or
   (e) the publication or disclosure of the information or data is to any person who the Bank is satisfied has a proper interest in receiving the information; or
   (f) the publication or disclosure of the information or data is with the consent of the person to whom the information relates or of the person to whom the information is confidential.
-(2) The Bank must not publish or disclose information or data under subsection (1)(d) or (e) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of that information or data.
+(2) The Bank must not publish or disclose information or data under subsection (1)﻿(d) or (e) unless the Bank is satisfied that satisfactory provision exists to protect the confidentiality of that information or data.
 (3) An officer or employee of the Bank must not publish or disclose any information or data supplied in accordance with section 156C except for the purposes of, or in connection with, the exercise of powers conferred by this Act.
 (4) An officer or employee of the Bank commits an offence if the officer or employee contravenes this section.
 (5) The penalty for an offence against this section is set out in section 156J.
 
 ### 156H Limits on further disclosure of information
 (1) A person to whom any information or data is published or disclosed must not publish, disclose, or use that information or data unless the publication, disclosure, or use is,—
-  (a) in the case of a publication or disclosure under section 156G(1)(c),—
+  (a) in the case of a publication or disclosure under section 156G(1)﻿(c),—
     (i) for the purposes of, or in connection with, the exercise of powers conferred by this Act; and
     (ii) in accordance with any conditions that may be imposed by the Bank:
-  (b) in the case of a publication or disclosure under section 156G(1)(e),—
+  (b) in the case of a publication or disclosure under section 156G(1)﻿(e),—
     (i) authorised by the Bank and in accordance with any conditions that the Bank may have imposed; or
     (ii) necessary or desirable for the exercise of any function or power conferred by any enactment:
-  (c) in the case of a publication or disclosure under section 156G(1)(f), in accordance with the terms and conditions of the consent referred to in that paragraph.
+  (c) in the case of a publication or disclosure under section 156G(1)﻿(f), in accordance with the terms and conditions of the consent referred to in that paragraph.
 (2) A person commits an offence if the person contravenes this section.
 (3) The penalty for an offence against this section is set out in section 156J.
 
@@ -2253,7 +2258,7 @@ For the purposes of this Part, the FMA may exercise its powers under subpart 1 o
 
 ### 156M Definitions for this Part
 (1) In this Part, unless the context otherwise requires,—
-  - **contact person** , in relation to a settlement system, means the person specified under section 156N(2)(d)
+  - **contact person** , in relation to a settlement system, means the person specified under section 156N(2)﻿(d)
   - **designated settlement system** means a settlement system that is declared to be a designated settlement system under section 156N
   - **joint regulators** means—
     (a) the Bank; and
@@ -2266,7 +2271,7 @@ For the purposes of this Part, the FMA may exercise its powers under subpart 1 o
     (c) whether or not the obligations or claims constitute mutual credits, mutual debts, or other mutual dealings; and
     (d) whether or not the obligations or claims are denominated in New Zealand currency
   - **property** means personal property
-  - **pure payment system** means a designated settlement system that is a payment system that is declared to be a pure payment system in accordance with section 156N(3)(d)
+  - **pure payment system** means a designated settlement system that is a payment system that is declared to be a pure payment system in accordance with section 156N(3)﻿(d)
   - **rules** ,—
     (a) in relation to a settlement system, means the rules of the settlement system (whether made under bylaws, agreements, procedures, contracts, or other documents) that are evidenced in writing and that provide, among other things, for—
       (i) the basis on which settlement instructions are given or received; and
@@ -2291,7 +2296,7 @@ For the purposes of this Part, the FMA may exercise its powers under subpart 1 o
   - **settlement system** —
     (a) means a system or arrangement for effecting settlements or processing settlement instructions in accordance with rules; and
     (b) includes a payment system
-  - **specified operator** means the operator of a settlement system specified in an Order in Council in accordance with section 156N(2)(c).
+  - **specified operator** means the operator of a settlement system specified in an Order in Council in accordance with section 156N(2)﻿(c).
 (2) In this Part, a participant becomes subject to an insolvency event on the date on which, and (if specified) the time at which,—
   (a) in the case of a company or other body corporate,—
     (i) a liquidator is appointed in respect of a liquidation under Part 16 of the Companies Act 1993 or under any other Act; or
@@ -2316,10 +2321,10 @@ For the purposes of this Part, the FMA may exercise its powers under subpart 1 o
 (3) The order may also specify all or any of the following:
   (a) conditions to which the designation is subject:
   (b) that a particular operator is a participant in the settlement system that is the subject of the designation:
-  (c) that the operator specified in accordance with subsection (2)(c) is an operator to whom section 103A of the Personal Property Securities Act 1999 applies:
+  (c) that the operator specified in accordance with subsection (2)﻿(c) is an operator to whom section 103A of the Personal Property Securities Act 1999 applies:
   (d) that the settlement system that is the subject of the designation is a pure payment system.
 (4) Both of the joint regulators must, as soon as practicable after a settlement system has been declared to be a designated settlement system, post on their respective Internet sites the contact details and the name or title of the contact person of that designated settlement system.
-(5) However, the FMA does not have to comply with subsection (4) if a settlement system is specified to be a pure payment system in accordance with subsection (3)(d).
+(5) However, the FMA does not have to comply with subsection (4) if a settlement system is specified to be a pure payment system in accordance with subsection (3)﻿(d).
 (6) To avoid doubt,—
   (a) rules are neither legislative instruments nor disallowable instruments for the purposes of the Legislation Act 2012 (and do not have to be presented to the House of Representatives under section 41 of that Act); and
   (b) a breach of a condition to which the designation of a settlement system is subject does not affect the application of section 156Q, 156R, 156T, or 156X of this Act or section 103A of the Personal Property Securities Act 1999.
@@ -2332,7 +2337,7 @@ The procedure set out in sections 156Y to 156ZA must be followed by the joint re
 **Effect of designation**
 
 ### 156P Application of this Part to pure payment systems
-(1) If a designated settlement system is specified to be a pure payment system in accordance with section 156N(3)(d), then this Part applies to that designated settlement system as follows:
+(1) If a designated settlement system is specified to be a pure payment system in accordance with section 156N(3)﻿(d), then this Part applies to that designated settlement system as follows:
   (a) all references to a settlement must be read as if they were references to a settlement as defined in subsection (4); and
   (b) for the purposes of sections 156K, 156M, and 156ZB to 156ZQ, the Bank is the sole regulator of that settlement system; and
   (c) all references to the joint regulators in sections 156K, 156M, and 156ZB to 156ZQ must be read as if they were references to the Bank; and
@@ -2343,7 +2348,7 @@ The procedure set out in sections 156Y to 156ZA must be followed by the joint re
   (h) this Part must be interpreted with all necessary modifications in order to give effect to this section.
 (2) However, if the Bank intends to recommend, in accordance with section 156ZD (applied as set out in subsection (1)), that a designated settlement system's designation is varied so that it is no longer specified to be a pure payment system, the Bank must consult with the FMA before making that recommendation.
 (3) This section ceases to apply to a designated settlement system if, in accordance with section 156ZD (applied as set out in subsection (1)), that settlement system's designation is varied so that it is no longer specified to be a pure payment system.
-(4) For the purposes of subsection (1)(a), settlement means—
+(4) For the purposes of subsection (1)﻿(a), settlement means—
   (a) the making of a payment—
     (i) that is done in accordance with, or to give effect to, a settlement instruction; and
     (ii) that is on a gross basis or that uses netting; and
@@ -2381,7 +2386,7 @@ The procedure set out in sections 156Y to 156ZA must be followed by the joint re
   (b) an administrator appointed in accordance with subpart 2 of Part 15A of the Companies Act 1993; or
   (c) a statutory manager appointed in accordance with section 38 of the Corporations (Investigation and Management) Act 1989; or
   (d) a statutory manager appointed in accordance with section 117 of this Act; or
-  (e) a person who performs a role similar to those set out in paragraphs (a) to (d) in respect of a process in New Zealand or in any other country in which the insolvent participant was incorporated, created, or established that is similar to those set out in section 156M(2)(a)(i) to (v); or
+  (e) a person who performs a role similar to those set out in paragraphs (a) to (d) in respect of a process in New Zealand or in any other country in which the insolvent participant was incorporated, created, or established that is similar to those set out in section 156M(2)﻿(a)﻿(i) to (v); or
   (f) a person who is authorised to do so under any enactment or rule of law of New Zealand or of any other country in which the insolvent participant was incorporated, created, or established; or
   (g) the Assignee nominated under section 59 of the Insolvency Act 2006 to be the Assignee of a bankrupt's property or any person who performs a similar role in respect of a process (whether in New Zealand or in another country) that is, or is similar to, bankruptcy.
 
@@ -2463,7 +2468,7 @@ If the rules of a designated settlement system provide for netting, any netting 
 (1) After considering an application, the joint regulators must, together, either—
   (a) make a joint recommendation to both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 that the settlement system to which the application relates be declared to be a designated settlement system under section 156N; or
   (b) refuse to make that recommendation.
-(2) If subsection (1)(b) applies, the joint regulators must together give notice in writing to the applicant stating—
+(2) If subsection (1)﻿(b) applies, the joint regulators must together give notice in writing to the applicant stating—
   (a) that the joint regulators refuse to make a recommendation that the settlement system to which the application relates be declared to be a designated settlement system under section 156N; and
   (b) the reasons for the joint regulators' refusal.
 
@@ -2488,7 +2493,7 @@ If the rules of a designated settlement system provide for netting, any netting 
 
 ### 156ZD Variation of designation
 The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the Financial Markets Conduct Act 2013 given in accordance with a joint recommendation of the joint regulators, vary any designation made under section 156N—
-  (a) by amending any of the matters referred to in section 156N(2)(b) to (d) and (3)(b) to (d); or
+  (a) by amending any of the matters referred to in section 156N(2)﻿(b) to (d) and (3)﻿(b) to (d); or
   (b) by making the designation subject to a requirement that an amendment be made to the documents that evidence the rules of the settlement system that is the subject of the designation; or
   (c) by revoking or amending any condition to which the designation is subject; or
   (d) by making the designation subject to a new condition.
@@ -2531,7 +2536,7 @@ The variation or revocation of a designation made under section 156N does not af
     (ii) the fact that the contact person may make submissions to the joint regulators in relation to the proposed variation or revocation; and
   (b) give the contact person an opportunity to make those submissions within a time period that the joint regulators consider reasonable in the circumstances; and
   (c) consider any submissions made by the contact person during that time period.
-(2) The notice referred to in subsection (1)(a) may be given either in writing or orally depending on the circumstances of the particular case.
+(2) The notice referred to in subsection (1)﻿(a) may be given either in writing or orally depending on the circumstances of the particular case.
 
 **Obligations to give notice and supply information**
 
@@ -2567,27 +2572,27 @@ The variation or revocation of a designation made under section 156N does not af
   (b) that is disclosed by the Bank or the FMA in order to enable them to perform their functions and duties, or exercise their powers, under this Part.
 
 ### 156ZN Disclosure of information to third parties
-(1) The joint regulators may publish or disclose any information or data supplied in accordance with section 156Y(3)(b) or 156ZL only if—
+(1) The joint regulators may publish or disclose any information or data supplied in accordance with section 156Y(3)﻿(b) or 156ZL only if—
   (a) the information or data is available to the public under any Act or is otherwise publicly available information; or
   (b) the information or data is in a statistical or summary form; or
   (c) the publication or disclosure of the information or data is for the purposes of, or in connection with, the exercise of powers conferred by this Act; or
   (d) the publication or disclosure of the information or data is to any central bank, authority, or body in any other country that performs functions and duties that correspond with, or are similar to, those conferred on the joint regulators under this Part, and the joint regulators are satisfied that the information or data will be used by that central bank, authority, or body for the purpose of performing those functions or duties; or
   (e) the publication or disclosure of the information or data is to any person who the joint regulators are satisfied has a proper interest in receiving the information; or
   (f) the publication or disclosure of the information or data is with the consent of the person to whom the information relates or of the person to whom the information is confidential.
-(2) The joint regulators must not publish or disclose information or data under subsection (1)(d) or (e) unless the joint regulators are satisfied that satisfactory provision exists to protect the confidentiality of that information or data.
-(3) An officer or employee of either of the joint regulators must not publish or disclose any information or data supplied in accordance with section 156Y(3)(b) or 156ZL except for the purposes of, or in connection with, the exercise of powers conferred by this Act.
+(2) The joint regulators must not publish or disclose information or data under subsection (1)﻿(d) or (e) unless the joint regulators are satisfied that satisfactory provision exists to protect the confidentiality of that information or data.
+(3) An officer or employee of either of the joint regulators must not publish or disclose any information or data supplied in accordance with section 156Y(3)﻿(b) or 156ZL except for the purposes of, or in connection with, the exercise of powers conferred by this Act.
 (4) An officer or employee of either of the joint regulators commits an offence if the officer or employee contravenes this section.
 (5) The penalty for an offence against this section is set out in section 156ZQ.
 
 ### 156ZO Limits on further disclosure of information
 (1) A person to whom any information or data is published or disclosed must not publish, disclose, or use that information or data unless the publication, disclosure, or use is,—
-  (a) in the case of a publication or disclosure under section 156ZN(1)(c),—
+  (a) in the case of a publication or disclosure under section 156ZN(1)﻿(c),—
     (i) for the purposes of, or in connection with, the exercise of powers conferred by this Act; and
     (ii) in accordance with any conditions that may be imposed by the joint regulators:
-  (b) in the case of a publication or disclosure under section 156ZN(1)(e),—
+  (b) in the case of a publication or disclosure under section 156ZN(1)﻿(e),—
     (i) authorised by the joint regulators and in accordance with any conditions that may be imposed by the joint regulators; or
     (ii) necessary or desirable for the performance of any function or duty, or the exercise of any power, conferred by any enactment:
-  (c) in the case of a publication or disclosure under section 156ZN(1)(f), in accordance with the terms and conditions (if any) of the consent referred to in that paragraph.
+  (c) in the case of a publication or disclosure under section 156ZN(1)﻿(f), in accordance with the terms and conditions (if any) of the consent referred to in that paragraph.
 (2) A person commits an offence if the person contravenes this section.
 (3) The penalty for an offence against this section is set out in section 156ZQ.
 
@@ -2895,7 +2900,7 @@ The Bank must, in each financial year, provide to the Minister a statement of in
 (2) If the Minister’s comments include comment on the financial sector regulatory outcomes set out in the Bank’s draft statement of intent, the Bank must, when providing its final statement of intent to the Minister, also provide a response to the Minister’s comments that demonstrates how the Bank has taken those comments into account in formulating its objectives.
 
 ### 162D Amendments by Bank to statement of intent
-(1) The Bank must amend its statement of intent if any matters arise that significantly affect or alter the information contained in the statement that relates to section 162B(1)(b), (d), or (e).
+(1) The Bank must amend its statement of intent if any matters arise that significantly affect or alter the information contained in the statement that relates to section 162B(1)﻿(b), (d), or (e).
 (2) To amend its statement of intent, the Bank must—
   (a) provide a draft amendment to the Minister; and
   (b) consider the Minister's comments (if any) and provide the final amendment to the Minister as soon as practicable.
@@ -3000,7 +3005,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (d) authorising the Minister or the Bank or any other person to exercise any discretionary power or authority for the purposes of any such regulations:
   (e) providing for the delegation of any of the powers or functions of the Minister (including the power of delegation) or the Bank under any such regulations:
   (f) providing for and regulating the issue, registration, transfer, control, and redemption of any financial products issued by the Bank:
-  (fa) prescribing information for the purposes of section 69(2A)(c):
+  (fa) prescribing information for the purposes of section 69(2A)﻿(c):
   (g) pescribing forms for the purposes of this Act or of any such regulations, in any case where a form is not prescribed by this Act:
   (h) providing for and regulating the giving or service of notices for the purposes of this Act or of any such regulations, and the effect of such notices:
   (i) prescribing fees to be charged by the Bank in respect of any matter under this Act:
@@ -3154,7 +3159,7 @@ The provisions of sections 40 to 45 and section 46 of the Reserve Bank of New Ze
 (2) This Act shall come into force on 1 July 1994.
 
 ### 5 Transitional provisions
-Nothing in section 4 applies to or affects—and, in any such case, sections 308 (except subsection (1)(d)), 309 to 311C, and 319 to 321 of the Companies Act 1955, as in force before the commencement of this Act, shall continue to apply to the registered bank in all respects and with such modifications as may be necessary, as if—
+Nothing in section 4 applies to or affects—and, in any such case, sections 308 (except subsection (1)﻿(d)), 309 to 311C, and 319 to 321 of the Companies Act 1955, as in force before the commencement of this Act, shall continue to apply to the registered bank in all respects and with such modifications as may be necessary, as if—
   (a) a registered bank that was subject to statutory management under the principal Act immediately before the commencement of this Act:
   (b) any transaction entered into by a registered bank or anything done by any person before the commencement of this Act—
   (c) the registered bank were a company that was being wound up under the Companies Act 1955; and
@@ -3198,7 +3203,7 @@ This Act amends the Reserve Bank of New Zealand Act 1989 (the principal Act).
 ### 11 Transitional provisions
 (1) The amendments made by this Act apply in relation to existing covered bond programmes and issuers on and from the date that is 9 months after this Act comes into force.
 (2) However, despite subsection (1), an issuer may, in relation to an existing covered bond programme, make an application under section 139E of the principal Act (as inserted by section 9 of this Act) at any time on or after the date on which this Act comes into force and, in that case,—
-  (a) section 139E(4) and (5)(a) and (b) of the principal Act (as inserted by section 9 of this Act) apply on and from the date on which the application is approved or declined under section 139G of the principal Act (as inserted by section 9 of this Act); and
+  (a) section 139E(4) and (5)﻿(a) and (b) of the principal Act (as inserted by section 9 of this Act) apply on and from the date on which the application is approved or declined under section 139G of the principal Act (as inserted by section 9 of this Act); and
   (b) all other amendments made by this Act apply on and from the date of the application.
 (3) To avoid doubt, on and from the date specified in subsection (1),—
   (a) all amendments made by this Act apply in relation to existing covered bond programmes; and
