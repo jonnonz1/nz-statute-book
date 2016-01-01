@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2014-06-06_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -2331,15 +2331,11 @@ A dispute between a person and the chief executive about the person’s liabilit
   (a) the obligation of the person to pay the fee, charge, levy, or penalty; or
   (b) the right of the chief executive to receive and recover the fee, charge, levy, or penalty.
 
-### 214 Levy regulations to be confirmed
-(1) Subsection (2) applies if, in any year, regulations imposing a levy have been made under this subpart on or after 1 January in any year and before 1 July in that year, and—
-  (a) have not been revoked with effect on or before 1 July in the following year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 July in the following year by virtue of Part 3 of the Legislation Act 2012.
-(2) Regulations described in subsection (1) are to be treated as having been revoked with the close of 30 June in the year after the year in which they were made unless confirmed by an Act of Parliament passed on or before that day.
-(3) Subsection (4) applies if, in any year, regulations imposing a levy have been made under this subpart after 30 June in any year and on or before 31 December in that year, and—
-  (a) have not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012.
-(4) Regulations described in subsection (3) are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made unless confirmed by an Act of Parliament passed on or before that day.
+### 214 Levy regulations are confirmable instruments
+The explanatory note of regulations made under section 207 must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### Subpart 4 — Payment of statutory debt
 
