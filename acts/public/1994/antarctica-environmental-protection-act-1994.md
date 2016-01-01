@@ -1,5 +1,5 @@
 # Antarctica (Environmental Protection) Act 1994
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2016-01-01_
 
 > An Act to provide for the comprehensive protection of the Antarctic environment and to recognise Antarctica as a natural reserve devoted to peace and science and to implement the Protocol on Environmental Protection to the Antarctic Treaty
 
@@ -189,7 +189,7 @@ The Minister may, if he or she considers it desirable to do so for the purpose o
 
 ### 23 Exemptions from this Part
 (1) The Minister may, in his or her discretion, exempt any person from the requirements of this Part if satisfied that another Contracting Party is applying, or has applied, or will apply, the environmental assessment procedures set out in Annex I of the Protocol to the activity.
-(2) No person exempted under subsection (1) shall be liable for any offence under this Part other than an offence under section 24(1)(e).
+(2) No person exempted under subsection (1) shall be liable for any offence under this Part other than an offence under section 24(1)﻿(e).
 
 ### 24 Offences
 (1) Every person commits an offence who,—
@@ -201,7 +201,7 @@ The Minister may, if he or she considers it desirable to do so for the purpose o
     (i) makes a statement that is false or misleading in a material particular knowing it to be false or misleading; or
     (ii) omits any matter knowing that the omission makes the document false or misleading in a material particular; or
   (f) without reasonable excuse fails to supply any information required to be supplied under section 22.
-(2) Subsection (1)(a) and subsection (1)(d) apply only to a person—
+(2) Subsection (1)﻿(a) and subsection (1)﻿(d) apply only to a person—
   (a) who is responsible for organising any expedition to Antarctica which is organised in New Zealand or which proceeds from New Zealand as its final point of departure for Antarctica; or
   (b) who is a New Zealand citizen or a person ordinarily resident in New Zealand.
 (3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000.
@@ -241,7 +241,7 @@ In this Part, unless the context otherwise requires,—
   (e) introduce onto land or ice shelves or sea ice or into water in Antarctica any living organism (including, but not limited to, any species of animal, plant, or micro-organism) not native to that area; or
   (ea) introduce onto land or ice shelves or sea ice or into water in Antarctica any living bird; or
   (f) import any non-sterile soil into Antarctica,—
-(2) Subsection (1)(e) shall not prevent any person introducing food into Antarctica to the extent permitted by, and that is in accordance with the requirements of, the Protocol.
+(2) Subsection (1)﻿(e) shall not prevent any person introducing food into Antarctica to the extent permitted by, and that is in accordance with the requirements of, the Protocol.
 (3) No person shall import into Antarctica any poultry or avian products knowing that an inspection in accordance with the Protocol revealed evidence of any disease referred to in Annex II to the Protocol.
 (4) Every person commits an offence who does any act in contravention of this section.
 
@@ -429,8 +429,8 @@ Where any person causes an inspector to incur any expense that the inspector wou
   (c) that a ship or aircraft was, or was not, operating, whether exclusively or not, in support of any official expedition of another Contracting Party:
   (d) any fact relevant to any question whether or not any person is or was an observer or exchanged scientist, or a member of the staff accompanying an observer or exchanged scientist, or whether or not any immunity has been waived under section 5.
 (2) In any proceedings for an offence against this Act,—
-  (a) a certificate given under subsection (1)(a) is prima facie evidence of the matters specified in the certificate:
-  (b) a certificate given under subsection (1)(b) or (c) or (d) is conclusive evidence of the matters specified in the certificate.
+  (a) a certificate given under subsection (1)﻿(a) is prima facie evidence of the matters specified in the certificate:
+  (b) a certificate given under subsection (1)﻿(b) or (c) or (d) is conclusive evidence of the matters specified in the certificate.
 (3) For the purposes of this section, a document purporting to be a certificate under this section shall, unless the contrary is proved, be deemed to be such a certificate and to have been duly given.
 
 ### 53 No derogation from certain enactments
@@ -466,11 +466,15 @@ Nothing in this Act shall derogate from the provisions of—
 (2) The Governor-General may from time to time, by Order in Council,—
   (a) amend Schedule 2 by making such amendments to the text of the Protocol set out in that schedule as are required to bring that text up to date:
   (b) revoke Schedule 2, and substitute a new Schedule 2 setting out in an up-to-date form the text of the Protocol set out in that schedule.
-(3) Any regulations made under subsection (2) shall,—
-  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year except so far as they are expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as they are expressly confirmed by Act of Parliament passed before the end of that following year.
+(3)
 (4) Any regulations made under this section may prescribe offences for contravention of, or non-compliance with, their provisions and penalties, on the conviction of any offender, not exceeding in any case a fine of $5,000.
-(5) No Order in Council shall be made under subsection (1)(g) except on the advice of the Minister given after consultation by that Minister with the Minister for the Environment and the Minister of Conservation and such other Ministers and persons as the Minister considers appropriate.
+(5) No Order in Council shall be made under subsection (1)﻿(g) except on the advice of the Minister given after consultation by that Minister with the Minister for the Environment and the Minister of Conservation and such other Ministers and persons as the Minister considers appropriate.
+
+### 55A Regulations under section 55(2) are confirmable instruments
+The explanatory note of regulations made under section 55(2) must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 56 Amendments to other Acts
 (1) The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
