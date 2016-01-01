@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2015-10-21_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -161,7 +161,7 @@ The purpose of this Act is to—
     (a) means harm or distress of any kind arising from, or caused or exacerbated by, a person’s gambling; and
     (b) includes personal, social, or economic harm suffered—
       (i) by the person; or
-      (ii) the person’s spouse, civil union partner, de facto partner, family, whanau, or wider community; or
+      (ii) by the person’s spouse, civil union partner, de facto partner, family, whanau, or wider community; or
       (iii) in the workplace; or
       (iv) by society at large
   - **housie** —
@@ -596,7 +596,7 @@ In this Act, class 3 gambling is gambling that satisfies the following criteria:
 (4) In this section, gambling is conducted regularly if it is conducted in sessions of more than 1 game.
 
 ### 29 Existing licences class 3 operators’ licences
-A licence issued under section 8 of the Gaming and Lotteries Act 1977 (except for an existing gaming machine licence), or section 26, or section 35 of that Act becomes, and must be treated as if it were a class 3 operator’s licence.
+A licence issued under section 8 of the Gaming and Lotteries Act 1977 (except for an existing gaming machine licence), or section 26, or section 35 of that Act becomes, and must be treated as if it were, a class 3 operator’s licence.
 
 **Class 4 gambling**
 
@@ -799,7 +799,7 @@ Every society that holds a class 3 operator’s licence must, in relation to cla
 (4A) Where the licence is suspended because of a continuing breach, the Secretary must notify the society of—
   (a) the matters to be dealt with in order for the Secretary to consider withdrawing the suspension before the end of the suspension period; and
   (b) the consequences of not dealing with the matters identified.
-(5) If the Secretary decides to cancel or refuse to amend or renew a licence, the Secretary must notify the society of—
+(5) If the Secretary decides to cancel or refuse to amend or renew a licence, the Secretary must notify the society of,—
   (a) for a cancellation, the date on which the cancellation takes effect and the reason for the cancellation:
   (b) for a refusal to amend or renew, the reason for the refusal.
 (6) If subsection (4) or subsection (5) applies, the Secretary must also notify the society of—
@@ -1858,7 +1858,7 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
 (3) The Secretary may publish, or require the corporate society to publish, in the form that the Secretary considers appropriate—
   (a) the results of the investigation and audit:
   (b) a summary of the results of the investigation and audit with details of where to obtain the full results.
-(4) The Secretary may recover the costs of investigating or auditing from the holder of class 4 operator’s licences in accordance with regulations made under section 370.
+(4) The Secretary may recover the costs of investigating or auditing from the holder of class 4 operators’ licences in accordance with regulations made under section 370.
 (5) A person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $5,000.
 
 ### 118 Certain persons must not seek, receive, or offer benefits with improper conditions attached
@@ -2909,7 +2909,7 @@ A Gambling Commission is established.
 
 ### 224 Functions of Gambling Commission
 (1) The Gambling Commission’s functions are to—
-  (a) consider and decide whether to grant applications for casino operator’s licences:
+  (a) consider and decide whether to grant applications for casino operators’ licences:
   (b) consider and decide whether to grant applications for the renewal of casino venue licences:
   (c) consider and decide applications by the Secretary for orders to suspend or cancel a casino licence:
   (d) consider and decide whether to approve—
@@ -3739,10 +3739,14 @@ Every holder of a class 4 venue licence or casino operator’s licence must,—
   (e) the time by which a levy must be paid, and a penalty for late payment:
   (f) the value of items W1 and W2 in the formula in section 320:
   (g) any other matters necessary or desirable to calculate, administer, collect, and enforce the levy.
-(4) Regulations made under subsection (1),—
-  (a) if made on or before 30 June in any year, expire on 30 June in the following year except in so far as they are expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on 31 December in the following year except in so far as they are expressly confirmed by Act of Parliament passed before the end of that following year.
-(5) The expiry of regulations under subsection (4) does not affect the validity of an act done pursuant to, or in accordance with, the regulations before the date on which the regulations expire.
+(4)
+(5)
+
+### 319A Problem gambling levy regulations are confirmable instrument
+The explanatory note of regulations made under section 319(1) must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 320 Calculating levy
 (1) The formula in subsection (2) provides a mechanism for allocating among gambling operators, and collecting from them, the approximate cost of an integrated problem gambling strategy.
@@ -4117,7 +4121,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 
 ### 365 Information gathering
 (1) The Secretary may require information from the following persons for research, and policy analysis and development, associated with the purposes of this Act:
-  (a) holders of class 3 operator’s licences, class 4 operators’ licences, class 4 venue licences, casino licences, licensed promoters’ licences, and certificates of approval; and
+  (a) holders of class 3 operators’ licences, class 4 operators’ licences, class 4 venue licences, casino licences, licensed promoters’ licences, and certificates of approval; and
   (b) any other person who conducts gambling authorised by this Act or the Racing Act 2003.
 (2) The Secretary may require the information necessary to calculate, administer, and collect levies and fees under this Act from the following persons:
   (a) holders of venue licences and operators’ licences; and
@@ -4195,7 +4199,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (d) specifying the time frame within which, and the accounts into which, the profits from gambling must be banked:
   (da) specifying the time frame within which, and the accounts from which, the costs incurred in conducting gambling must be met:
   (db) specifying the time frame within which, and the accounts from which, funds must be applied to or distributed for authorised purposes:
-  (dc) prescribing requirements relating to the presentation of financial reports by holders of class 4 operator’s licences, and specifying matters that must be included in those reports, including, without limitation, key indicators of operational efficiency:
+  (dc) prescribing requirements relating to the presentation of financial reports by holders of class 4 operators’ licences, and specifying matters that must be included in those reports, including, without limitation, key indicators of operational efficiency:
   (dd) prescribing the payments that corporate societies may make to venue operators and, for that purpose, providing for 1 or more of the following:
     (i) the matters for which venue operators may or may not be paid, including (but not limited to) costs:
     (ii) any limit on the payment for a matter of a particular kind:
