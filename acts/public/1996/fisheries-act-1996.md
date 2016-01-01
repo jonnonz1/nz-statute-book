@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2014-10-01_
+_Consolidation as at 2016-01-01_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -14,7 +14,7 @@ _Consolidation as at 2014-10-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **annual catch entitlement** means an annual catch entitlement allocated under any of sections 67, 67A, 68, 340, and 340A
-  - **Annual Catch Entitlement Register** means the relevant Annual Catch Entitlement Register kept under section 124(1)(b)
+  - **Annual Catch Entitlement Register** means the relevant Annual Catch Entitlement Register kept under section 124(1)﻿(b)
   - **Aotearoa Fisheries Limited** has the meaning given to it in section 5 of the Maori Fisheries Act 2004
   - **appointed day** has the meaning given to it in section 5 of the Maori Fisheries Act 2004
   - **approved** means approved by the chief executive
@@ -142,7 +142,7 @@ _Consolidation as at 2014-10-01_
   - **high seas** means the waters outside the national fisheries jurisdiction of any country
   - **high seas fishery inspector** means a person who is a high seas fishery inspector under section 113Q
   - **high seas fishing permit** means a permit issued under section 113H
-  - **High Seas Permit Register** means the High Seas Permit Register kept under section 98(1)(c)
+  - **High Seas Permit Register** means the High Seas Permit Register kept under section 98(1)﻿(c)
   - **highly migratory species** means a species or stock listed in Schedule 4B
   - **holder** , in relation to any permit, authority, approval, permission, licence, or certificate, means the person to whom the permit, authority, approval, permission, licence, or certificate has been issued, granted, or given; and and have corresponding meanings
   - **honorary fishery officer** means a person appointed under section 197 to be an honorary fishery officer and holding a warrant under section 198
@@ -155,8 +155,8 @@ _Consolidation as at 2014-10-01_
     (a) scientific, customary Maori, social, or economic information; and
     (b) any analysis of any such information
   - **information principles** means the information principles set out in section 10
-  - **infringement fee** , in relation to an infringement offence, means the appropriate infringement fee set in respect of that offence by regulations made under section 297(1)(nc)
-  - **infringement offence** means an offence prescribed as an infringement offence against this Act by regulations made under section 297(1)(na)
+  - **infringement fee** , in relation to an infringement offence, means the appropriate infringement fee set in respect of that offence by regulations made under section 297(1)﻿(nc)
+  - **infringement offence** means an offence prescribed as an infringement offence against this Act by regulations made under section 297(1)﻿(na)
   - **interest in fishing quota** , in sections 56 to 58B, has the meaning set out in section 57A(1)
   - **internal waters of New Zealand** means all internal waters of New Zealand as defined by section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **international fisheries organisation** means an organisation or arrangement that is defined as a global, regional, or sub-regional fisheries organisation or arrangement under section 113B
@@ -228,7 +228,7 @@ _Consolidation as at 2014-10-01_
   - **quota management area** means any area declared by or under this Act to be a quota management area
   - **quota management stock** means any stock subject to the quota management system
   - **quota management system** means the quota management system established under Part 4
-  - **Quota Register** means the relevant Quota Register kept under section 124(1)(a)
+  - **Quota Register** means the relevant Quota Register kept under section 124(1)﻿(a)
   - **quota share** has the meaning given to it by section 42
   - **quota weight equivalent** , in relation to any quota share, means the figure in kilogrammes (or, in the case of Foveaux Strait dredge oysters, the figure in oyster numbers) arrived at by dividing by 100 000 000 the total allowable commercial catch for the stock to which the quota share relates; and, consequently, the quota weight equivalent of a parcel of shares is the quota weight equivalent of 1 share multiplied by the number of shares in the parcel
   - **record** includes any document, whether or not it has been completed
@@ -337,7 +337,7 @@ This Act shall be interpreted, and all persons exercising or performing function
   (a) the allocation to 1 or more fishing sectors in preference to any other fishing sector of access to any fisheries resources in the coastal marine area; or
   (b) the conferral on any fisher of a right to occupy any land in the coastal marine area or any related part of the coastal marine area, if the right to occupy would exclude any other fisher from fishing in any part of the coastal marine area.
 (2) Subsection (1) does not—
-  (a) prevent a regional council from taking into account the effects of aquaculture activities on fishing or fisheries resources when carrying out its functions under section 30(1)(d) of the Resource Management Act 1991; or
+  (a) prevent a regional council from taking into account the effects of aquaculture activities on fishing or fisheries resources when carrying out its functions under section 30(1)﻿(d) of the Resource Management Act 1991; or
   (b) prevent any coastal permit authorising aquaculture activities from being granted.
 (3) In this section—
   - **fishing sector** means—
@@ -403,7 +403,7 @@ All persons exercising or performing functions, duties, or powers under this Act
   (b) implement any sustainability measure or the variation of any sustainability measure, as set or varied under subsection (1),—
     (i) by notice in the Gazette; or
     (ii) by recommending the making of regulations under section 298.
-(5) Without limiting subsection (4)(a), when setting or varying a catch limit (including a commercial catch limit) for any stock not within the quota management system, the Minister shall have regard to the matters referred to in section 13(2) or section 21(1) or both those sections, as the case may require.
+(5) Without limiting subsection (4)﻿(a), when setting or varying a catch limit (including a commercial catch limit) for any stock not within the quota management system, the Minister shall have regard to the matters referred to in section 13(2) or section 21(1) or both those sections, as the case may require.
 
 ### 11A Fisheries plans
 (1) The Minister may from time to time approve, amend, or revoke a fisheries plan.
@@ -441,7 +441,7 @@ All persons exercising or performing functions, duties, or powers under this Act
   (c) set a total allowable catch—
     (i) using the best available information; and
     (ii) that is not inconsistent with the objective of maintaining the stock at or above, or moving the stock towards or above, a level that can produce the maximum sustainable yield.
-(3) In considering the way in which and rate at which a stock is moved towards or above a level that can produce maximum sustainable yield under subsection (2)(b) or (c), or (2A) (if applicable), the Minister shall have regard to such social, cultural, and economic factors as he or she considers relevant.
+(3) In considering the way in which and rate at which a stock is moved towards or above a level that can produce maximum sustainable yield under subsection (2)﻿(b) or (c), or (2A) (if applicable), the Minister shall have regard to such social, cultural, and economic factors as he or she considers relevant.
 (4) The Minister may from time to time, by notice in the Gazette, vary any total allowable catch set for any quota management stock under this section by increasing or reducing the total allowable catch. When considering any variation, the Minister is to have regard to the matters specified in subsections (2), (2A) (if applicable), and (3).
 (5) Without limiting subsection (1) or subsection (4), the Minister may set or vary any total allowable catch at, or to, zero.
 (6) Except as provided in subsection (7), every setting or variation of a total allowable catch shall have effect on and from the first day of the next fishing year for the stock concerned.
@@ -507,7 +507,7 @@ All persons exercising or performing functions, duties, or powers under this Act
 (3) The Minister may require, or authorise the chief executive to require, any person or class of persons listed in section 189 to give to the Minister or the chief executive such information relating to fishing-related mortality as the Minister or chief executive, as the case may be, considers necessary, and may require, or authorise the chief executive to require, such information to be given in the approved manner and form.
 (4) The Minister may recommend the making of such regulations under section 298 as the Minister considers necessary or expedient for the purpose of implementing any measures referred to in subsection (1) or subsection (2) or subsection (3).
 (5) The Minister may, by notice in the Gazette, prohibit all or any fishing or fishing methods in an area either—
-  (a) under subsection (1)(a), for the purpose of ensuring the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded; or
+  (a) under subsection (1)﻿(a), for the purpose of ensuring the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded; or
   (b) under subsection (2), for the purpose of ensuring that any limit on fishing-related mortality is not exceeded.
 (6) Every person commits an offence and is liable to the penalty set out in section 252(5) who fails to comply with any notice given under subsection (5).
 
@@ -556,7 +556,7 @@ All persons exercising or performing functions, duties, or powers under this Act
   (a) is not ensuring the sustainability of the stock or species; or
   (b) is not providing for the utilisation of the stock or species.
 (2) The Minister must determine to make the stock or species concerned subject to the quota management system, unless he or she determines that the purpose of this Act would be better met by setting 1 or more sustainability measures under section 11 (other than a total allowable catch set under section 13 or section 14).
-(3) Before determining whether the criteria in subsection (1)(a) or (b) have been satisfied, and before making a determination under subsection (2) the Minister must consult those persons or organisations considered by the Minister to be representative of the classes of persons who have an interest in the relevant determination.
+(3) Before determining whether the criteria in subsection (1)﻿(a) or (b) have been satisfied, and before making a determination under subsection (2) the Minister must consult those persons or organisations considered by the Minister to be representative of the classes of persons who have an interest in the relevant determination.
 (4) As soon as practicable after making a determination under subsection (2), the Minister must give his or her reasons for the determination in writing to any persons or organisations consulted under subsection (3).
 (5) In the case of a stock or species listed in Schedule 4C,—
   (a) the Minister may make a determination under subsection (2), regardless of whether or not the Minister is satisfied of the matters specified in subsection (1); and
@@ -591,8 +591,8 @@ If the Minister determines under section 17B to make a stock subject to the quot
   (a) the Minister varying, by notice in the Gazette, any date set under section 18, if the variation is published before that date; or
   (b) any alteration under section 25; or
   (c) any amendment to a notice under section 18 that involves a minor or technical correction only.
-(5A) Without limiting subsection (5)(c), the Minister may amend a declaration under section 18 at any time before the allocation of provisional catch history under section 36, if the declaration was made on the basis of incorrect or misleading information, or as a result of a mistake.
-(6) A provision in a regulation made under this Act, or in a notice given under section 15 or section 16 or a regulation made under section 186(2)(b), shall not be construed as altering a quota management area merely because it prohibits, limits, or restricts fishing in the quota management area.
+(5A) Without limiting subsection (5)﻿(c), the Minister may amend a declaration under section 18 at any time before the allocation of provisional catch history under section 36, if the declaration was made on the basis of incorrect or misleading information, or as a result of a mistake.
+(6) A provision in a regulation made under this Act, or in a notice given under section 15 or section 16 or a regulation made under section 186(2)﻿(b), shall not be construed as altering a quota management area merely because it prohibits, limits, or restricts fishing in the quota management area.
 (7) Before making a declaration under section 18 or amending a declaration under subsection (5A), the Minister must consult the persons or organisations considered by the Minister to be representative of those classes of persons having an interest in the matters referred to in subsection (1).
 (8)
 
@@ -637,7 +637,7 @@ If the Minister determines under section 17B to make a stock subject to the quot
 (2) Immediately after deducting quota shares under subsection (1), the chief executive shall transfer to each eligible person a number of quota shares which shall be calculated in accordance with the following formula:a ÷ b × c × 100 000 000 ÷ (d + c) = ewhere—ais the eligible person's current preferential allocation rights for the stock (in kilogrammes); andbis the total of all preferential allocation rights for the stock (in kilogrammes); andcis the lesser of—dis the total allowable commercial catch for the stock (in kilogrammes) applying immediately before the increase takes effect; andeis the number of quota shares to be transferred from the Crown to the eligible person in accordance with this section.
   (a) the amount of the increase in the total allowable commercial catch for the stock (in kilogrammes):
   (b) the total of all preferential allocation rights for the stock (in kilogrammes); and
-(3) Every person who was, immediately before the commencement of this section, entitled to quota under section 28OE(1)(a) of the Fisheries Act 1983 is entitled to a preferential allocation right equivalent to the amount (in kilogrammes) of the reduction in that person's provisional maximum individual transferable quota for the stock under section 28N of that Act less the amount (in kilogrammes) of any quota allocated to that person under section 28OE(1)(a) of that Act, but that preferential allocation right (which entitles the holder to receive quota shares under subsection (2))—
+(3) Every person who was, immediately before the commencement of this section, entitled to quota under section 28OE(1)﻿(a) of the Fisheries Act 1983 is entitled to a preferential allocation right equivalent to the amount (in kilogrammes) of the reduction in that person's provisional maximum individual transferable quota for the stock under section 28N of that Act less the amount (in kilogrammes) of any quota allocated to that person under section 28OE(1)﻿(a) of that Act, but that preferential allocation right (which entitles the holder to receive quota shares under subsection (2))—
   (a) shall have effect only while that person continues to be registered on the Quota Register as the owner of shares for that stock, and those shares have been continuously owned by that person since the commencement of this section; and
   (b) is personal to the eligible person who holds the right and is not transferable in any circumstances.
 (4) The amount of an eligible person's preferential allocation right must be reduced in accordance with the following formula:where—ais the eligible person's current preferential allocation right for the stock (in kilogrammes)bis the total of all preferential allocation rights for the stock (in kilogrammes)cis the lesser of—dis the amount of the reduction in the eligible person's preferential allocation right (in kilogrammes).
@@ -692,7 +692,7 @@ If the Minister determines under section 17B to make a stock subject to the quot
   (b) the memorial is to the effect that the stock will be affected by the alteration.
 
 ### 25A Alteration of quota management areas with agreement of quota owners
-(1) The Minister may not recommend the alteration of any quota management area under section 25(1) in response to a request referred to in section 25(2)(a) unless the Minister is satisfied that—
+(1) The Minister may not recommend the alteration of any quota management area under section 25(1) in response to a request referred to in section 25(2)﻿(a) unless the Minister is satisfied that—
   (a) the purpose of this Act would be achieved better by altering the quota management area or areas; and
   (b) the alteration would not unduly prejudice any quota owner who—
     (i) owns quota shares for the stock or stocks in the quota management area or areas concerned; and
@@ -714,7 +714,7 @@ If the Minister determines under section 17B to make a stock subject to the quot
 (3) The agreement must include provisions to resolve any grievance of a quota owner who holds quota shares in any area affected by the proposed alteration only if required by the Minister.
 
 ### 25B Alteration of quota management areas without agreement of quota owners
-The Minister may recommend the alteration of any quota management area under section 25(1) without receiving a request from quota owners in accordance with section 25(2)(a) if the Minister—
+The Minister may recommend the alteration of any quota management area under section 25(1) without receiving a request from quota owners in accordance with section 25(2)﻿(a) if the Minister—
   (a) has approved a plan that provides for all of the following matters:
     (i) the boundaries of the proposed quota management area or areas:
     (ii) the species that comprise the stock or stocks after the alteration:
@@ -754,7 +754,7 @@ The Minister may recommend the alteration of any quota management area under sec
 ### 29A Basis for allocation of quota
 (1) Except as provided in this section, quota must be allocated in accordance with section 29B.
 (2) Quota for the following stocks must be allocated on the basis of provisional catch history:
-  (a) any stock or species listed in Schedule 4C, or any stock or species the subject of a Gazette notice under section 17B(5)(b), that is brought into the quota management system on or before 1 October 2009:
+  (a) any stock or species listed in Schedule 4C, or any stock or species the subject of a Gazette notice under section 17B(5)﻿(b), that is brought into the quota management system on or before 1 October 2009:
   (b) any stock or species listed in Schedule 4D that is brought into the quota management system on or before 1 October 2009:
   (c) tuna inside New Zealand fisheries waters:
   (d) highly migratory species outside New Zealand fisheries waters.
@@ -787,11 +787,11 @@ The Minister may recommend the alteration of any quota management area under sec
   (b) in any case, is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire provisional catch history or quota or is exempt from the requirement for that consent,—
 (2) For the purposes of this Part, an eligible return—
   (a) means a lawfully completed catch landing return or a catch, effort, and landing return as referred to in the Fisheries (Reporting) Regulations 2001 or the Fisheries (Reporting) Regulations 1990 that—
-    (i) in the case of any stock referred to in subparagraph (ii) or subparagraph (iii) of subsection (1)(a), was given to the chief executive on or before the 15th day after the close of each applicable qualifying year; or
+    (i) in the case of any stock referred to in subparagraph (ii) or subparagraph (iii) of subsection (1)﻿(a), was given to the chief executive on or before the 15th day after the close of each applicable qualifying year; or
     (ii) in any other case, was given to the chief executive on or before 15 October 1994:
   (b) includes, in relation to any highly migratory species, any lawfully completed return that—
-    (i) is of a kind required by or under section 113K, or recognised for the purposes of this section by regulations made under section 297(1)(ha); and
-    (ii) was given to the chief executive on or before the 15th day after the close of each applicable qualifying year, or on or before such later date as may be specified for the purpose by regulations made under section 297(1)(ha).
+    (i) is of a kind required by or under section 113K, or recognised for the purposes of this section by regulations made under section 297(1)﻿(ha); and
+    (ii) was given to the chief executive on or before the 15th day after the close of each applicable qualifying year, or on or before such later date as may be specified for the purpose by regulations made under section 297(1)﻿(ha).
 
 ### 32A Application of Part 4 to estate of deceased fishing permit holder
 (1) Subsections (2) and (3) apply for the purposes of this Part, in relation to any fishing permit other than a fishing permit to which section 63A of the Fisheries Act 1983 or section 93A of this Act relates, where the holder of the fishing permit has died.
@@ -804,23 +804,23 @@ The Minister may recommend the alteration of any quota management area under sec
 
 ### 33 Qualifying years
 For the purposes of this Part, the qualifying year or qualifying years are,—
-  (a) in the case of a person eligible under section 32(1)(a)(ii) to receive provisional catch history by virtue of a fishing permit issued under section 2(2) of the Fisheries Amendment Act 1994, either—
+  (a) in the case of a person eligible under section 32(1)﻿(a)﻿(ii) to receive provisional catch history by virtue of a fishing permit issued under section 2(2) of the Fisheries Amendment Act 1994, either—
     (i) the first consecutive 12 months following the date of issue of the fishing permit; or
     (ii) the fishing years commencing respectively on 1 October 1990 and 1 October 1991:
-  (b) in the case of a person eligible to receive provisional catch history under section 32(1)(a)(iii), such fishing year or fishing years as the Minister may from time to time set for the purpose by notice in the Gazette:
+  (b) in the case of a person eligible to receive provisional catch history under section 32(1)﻿(a)﻿(iii), such fishing year or fishing years as the Minister may from time to time set for the purpose by notice in the Gazette:
   (c) in any other case, the fishing years commencing respectively on 1 October 1990 and 1 October 1991.
 
 ### 34 Calculation of provisional catch history
 (1) The provisional catch history of a person is,—
-  (a) if the qualifying year is the one referred to in section 33(a)(i) and the person is eligible to receive provisional catch history under section 32(1)(a)(ii) for any stock, the total weight of eligible catch reported in the person's eligible returns:
-  (b) subject to subsection (1A), if the qualifying year or years are set under section 33(b) and the person is eligible to receive provisional catch history under section 32(1)(a)(iii) for any stock, the total weight of eligible catch reported in the person's eligible returns in respect of the period of 12 consecutive months within the qualifying years relating to the person, which period shall be—
-    (i) chosen by the person in accordance with section 35(3)(c)(iv) or section 35(4)(b); or
-    (ii) if the person has not made such a choice, chosen by the chief executive in accordance with section 35(1)(d):
-  (c) in the case of any other person who is eligible to receive provisional catch history under paragraph (a)(i) or paragraph (a)(iv) of section 32(1), the total weight of eligible catch reported in the person's eligible returns in respect of a period of 12 consecutive months within the qualifying years relating to the person, which period shall be—
-    (i) chosen by the person in accordance with section 35(3)(c)(iv) or section 35(4)(b); or
-    (ii) if the person has not made such a choice, chosen by the chief executive in accordance with section 35(1)(d).
-(1A) Despite subsection (1)(b), the provisional catch history of a person in respect of highly migratory species (other than southern bluefin tuna) taken outside New Zealand fisheries waters—
-  (a) must be calculated in the prescribed manner (if any) in accordance with regulations made under section 297(1)(hb) for the purpose of ensuring consistency of the calculation with the method used by the relevant international fisheries organisation in determining New Zealand's national allocation; and
+  (a) if the qualifying year is the one referred to in section 33(a)﻿(i) and the person is eligible to receive provisional catch history under section 32(1)﻿(a)﻿(ii) for any stock, the total weight of eligible catch reported in the person's eligible returns:
+  (b) subject to subsection (1A), if the qualifying year or years are set under section 33(b) and the person is eligible to receive provisional catch history under section 32(1)﻿(a)﻿(iii) for any stock, the total weight of eligible catch reported in the person's eligible returns in respect of the period of 12 consecutive months within the qualifying years relating to the person, which period shall be—
+    (i) chosen by the person in accordance with section 35(3)﻿(c)﻿(iv) or section 35(4)﻿(b); or
+    (ii) if the person has not made such a choice, chosen by the chief executive in accordance with section 35(1)﻿(d):
+  (c) in the case of any other person who is eligible to receive provisional catch history under paragraph (a)﻿(i) or paragraph (a)﻿(iv) of section 32(1), the total weight of eligible catch reported in the person's eligible returns in respect of a period of 12 consecutive months within the qualifying years relating to the person, which period shall be—
+    (i) chosen by the person in accordance with section 35(3)﻿(c)﻿(iv) or section 35(4)﻿(b); or
+    (ii) if the person has not made such a choice, chosen by the chief executive in accordance with section 35(1)﻿(d).
+(1A) Despite subsection (1)﻿(b), the provisional catch history of a person in respect of highly migratory species (other than southern bluefin tuna) taken outside New Zealand fisheries waters—
+  (a) must be calculated in the prescribed manner (if any) in accordance with regulations made under section 297(1)﻿(hb) for the purpose of ensuring consistency of the calculation with the method used by the relevant international fisheries organisation in determining New Zealand's national allocation; and
   (b) subject to paragraph (a), is the total weight of eligible catch reported in the person's eligible returns divided by the number of qualifying years.
 (2) For the purposes of this Part and Part 15, the term eligible catch means the total weight of all the catch of the relevant stock lawfully taken and lawfully reported as landed or otherwise lawfully disposed of by a person eligible to receive provisional catch history under section 32 during the applicable qualifying years; and also includes fish, aquatic life, or seaweed of that stock reported as taken and used as bait; but does not include—
   (a) fish, aquatic life, or seaweed seized by a fishery officer under section 80 of the Fisheries Act 1983 or section 207 of this Act, if the fish, aquatic life, or seaweed (or the proceeds of sale thereof) were forfeit to the Crown:
@@ -835,8 +835,8 @@ For the purposes of this Part, the qualifying year or qualifying years are,—
     (ii) in any other case,—
       (A) the person was a holder of a fishing permit as at the date of the publication of the notice declaring the stock to be subject to the quota management system; and
       (B) the person is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire provisional catch history or quota or is exempt from the requirement for that consent; and
-  (c) if section 33(a)(i) applies, determine both the relevant period of 12 consecutive months that is to be the person's qualifying year and the quantum of the person's eligible catch during that period; and
-  (d) if paragraph (a)(ii) or paragraph (b) or paragraph (c) of section 33 applies, decide the period of 12 consecutive months within the qualifying years which the chief executive will nominate for the purpose of calculating the person's provisional catch history (which period is to maximise the person's eligible catch) and the quantum of the person's eligible catch during that period.
+  (c) if section 33(a)﻿(i) applies, determine both the relevant period of 12 consecutive months that is to be the person's qualifying year and the quantum of the person's eligible catch during that period; and
+  (d) if paragraph (a)﻿(ii) or paragraph (b) or paragraph (c) of section 33 applies, decide the period of 12 consecutive months within the qualifying years which the chief executive will nominate for the purpose of calculating the person's provisional catch history (which period is to maximise the person's eligible catch) and the quantum of the person's eligible catch during that period.
 (2) The chief executive shall, as soon as practicable after deciding or determining the matters referred to in subsection (1), notify in writing every person whom the chief executive considers to be eligible for provisional catch history of the following matters:
   (a) the chief executive's decisions and determinations in respect of that person under subsection (1):
   (b) the applicable qualifying years for the stock for which that person is eligible to receive provisional catch history:
@@ -845,7 +845,7 @@ For the purposes of this Part, the qualifying year or qualifying years are,—
   (e) the date on which the notice under this section is issued:
   (ea) the date by which objections must be lodged (which date must be at least 60 working days after the date specified under paragraph (e)):
   (f) such other matters as the chief executive thinks relevant.
-(3) Within 10 working days after the date specified in subsection (2)(e), the chief executive must publicly notify—
+(3) Within 10 working days after the date specified in subsection (2)﻿(e), the chief executive must publicly notify—
   (a) that eligibility for provisional catch history for the stock has been determined and notified under subsection (2); and
   (b) the location where information on the criteria of eligibility for an allocation of provisional catch history and quota can be found; and
   (c) the location where information on the process for notifying the chief executive of an objection to the non-allocation of provisional catch history can be found; and
@@ -870,19 +870,19 @@ For the purposes of this Part, the qualifying year or qualifying years are,—
   (c) revoke a notice published under section 35(3):
   (d) issue a new notice under section 35(2):
   (e) publish a new notice under section 35(3).
-(2) If the chief executive revokes a notice under subsection (1)(b),—
+(2) If the chief executive revokes a notice under subsection (1)﻿(b),—
   (a) the chief executive must notify, in writing, the person who was issued the notice of—
     (i) the revocation; and
     (ii) the reasons for the revocation; and
   (b) all objections lodged under section 35(4) in respect of that notice must be treated as having been withdrawn.
-(3) If the chief executive revokes a notice under subsection (1)(c),—
+(3) If the chief executive revokes a notice under subsection (1)﻿(c),—
   (a) the chief executive must publicly notify—
     (i) the revocation; and
     (ii) the reasons for the revocation; and
   (b) all notifications received under section 35(5) in respect of that notice must be treated as having been withdrawn.
 
 ### 36 Notification of allocation of provisional catch history
-(1) As soon as practicable after the specified date referred to in section 35(2)(ea), the chief executive shall—
+(1) As soon as practicable after the specified date referred to in section 35(2)﻿(ea), the chief executive shall—
   (a) complete his or her determination of any objection or notification received under section 35:
   (b) in the case of any person whom the chief executive considers to be eligible to receive provisional catch history for a stock, allocate the amount of such provisional catch history as the chief executive considers the person is eligible to receive:
   (c) notify the person concerned,—
@@ -890,17 +890,17 @@ For the purposes of this Part, the qualifying year or qualifying years are,—
     (ii) in all cases, of the result of any determination under paragraph (a).
 (2) Every notification under subsection (1) shall be sent to the person's last known address and shall state—
   (a) both—
-    (i) the person's right to appeal under section 51(1)(b); and
+    (i) the person's right to appeal under section 51(1)﻿(b); and
     (ii) that the appeal must be lodged not later than the date specified for the purpose in the notice; and
-  (b) if the chief executive considers under section 35(1)(b) that the person is not eligible to receive quota, that unless the person lodges an appeal not later than the date specified under paragraph (a)(ii) the person may transfer the person's provisional catch history within the period of 20 working days commencing on the day after that specified date, and that, if the provisional catch history is not transferred within that period, it shall be deemed to be cancelled on the expiration of that period; and
-  (c) if the chief executive considers, under section 35(1)(b)(ii)(B), that the person is not eligible to receive quota,—
-    (i) the person's right to appeal under section 51(1)(b) and apply for a declaration under section 51(2); and
-    (ii) that any appeal to the Catch History Review Committee or application for a declaration to the High Court must be lodged not later than the date specified under paragraph (a)(ii).
-(3) The date referred to in paragraphs (a)(ii) and (c)(ii) of subsection (2) and specified in a notification under subsection (1) shall be not less than 60 working days after the date of the notification.
+  (b) if the chief executive considers under section 35(1)﻿(b) that the person is not eligible to receive quota, that unless the person lodges an appeal not later than the date specified under paragraph (a)﻿(ii) the person may transfer the person's provisional catch history within the period of 20 working days commencing on the day after that specified date, and that, if the provisional catch history is not transferred within that period, it shall be deemed to be cancelled on the expiration of that period; and
+  (c) if the chief executive considers, under section 35(1)﻿(b)﻿(ii)﻿(B), that the person is not eligible to receive quota,—
+    (i) the person's right to appeal under section 51(1)﻿(b) and apply for a declaration under section 51(2); and
+    (ii) that any appeal to the Catch History Review Committee or application for a declaration to the High Court must be lodged not later than the date specified under paragraph (a)﻿(ii).
+(3) The date referred to in paragraphs (a)﻿(ii) and (c)﻿(ii) of subsection (2) and specified in a notification under subsection (1) shall be not less than 60 working days after the date of the notification.
 (4) As soon as practicable after notifying persons under subsection (1), the chief executive shall notify the Registrar of Quota of—
   (a) the amount of provisional catch history the chief executive has allocated to each person; and
   (b) the name of every person allocated provisional catch history for the stock who the chief executive believes is not eligible to receive quota.
-(5) As soon as practicable after the specified date referred to in subsection (2)(c)(ii), the chief executive shall notify the Registrar of Quota of whether any person or the chief executive has appealed to the Catch History Review Committee under section 51 in respect of any provisional catch history.
+(5) As soon as practicable after the specified date referred to in subsection (2)﻿(c)﻿(ii), the chief executive shall notify the Registrar of Quota of whether any person or the chief executive has appealed to the Catch History Review Committee under section 51 in respect of any provisional catch history.
 
 ### 37 Transfer of provisional catch history
 (1) Provisional catch history in respect of any stock, other than a stock to which section 40 applies, may be transferred only if—
@@ -910,10 +910,10 @@ For the purposes of this Part, the qualifying year or qualifying years are,—
   (d) the transfer takes effect during the transfer period and the chief executive has been notified on the approved form of the transfer during that period; and
   (e) the transfer is for an amount of provisional catch history expressed in whole kilogrammes.
 (2) For the purposes of subsections (1) and (3), the transfer period is—
-  (a) the transfer period referred to in section 36(2)(b); or
+  (a) the transfer period referred to in section 36(2)﻿(b); or
   (b) a period of 20 working days commencing on the later of the following:
     (i) the day following the date of the final determination or withdrawal of any appeal in respect of the provisional catch history being transferred:
-    (ii) if section 54(1)(b) applies, the day following the day of the determination of the proceedings referred to in that section.
+    (ii) if section 54(1)﻿(b) applies, the day following the day of the determination of the proceedings referred to in that section.
 (3) If provisional catch history for any stock is allocated to any person who is not eligible to receive quota under section 45 for the stock, then, unless a transfer of the provisional catch history is notified to the chief executive within the transfer period or the referral of a dispute to the court is notified to the chief executive within the transfer period, that provisional catch history shall be deemed to be cancelled on the expiration of the transfer period.
 (4) A transferee shall lodge a copy of the transfer, together with the prescribed fee (if any) with the Registrar of Quota and the Registrar shall record the transfer in the register and shall notify the chief executive, the transferor, and the transferee accordingly.
 
@@ -964,7 +964,7 @@ If a fishing permit or high seas fishing permit has been suspended under this Ac
 (1) As soon as practicable after the relevant date referred to in section 36(3), or at any time after the relevant date referred to in section 41(2), as the case may be, the chief executive shall allocate to every person who is eligible to receive quota an amount of provisional individual transferable quota or individual transferable quota, as the case may be, for the stock concerned, which amount shall be expressed as shares and, subject to section 43 and to subsection (1A), be the lesser of—
   (a) the number of shares the quota weight equivalent of which is equivalent to the person's provisional catch history for the stock:
   (b) the number of shares that bears the same proportion to the 80 000 000 shares of quota available for allocation for the stock as the person's provisional catch history bears to the total provisional catch history held by persons who are eligible to receive quota for the stock.
-(1A) If the total allowable commercial catch for a stock is equal to zero, then the amount of provisional individual transferable quota or individual transferable quota to be allocated under subsection (1) must be determined in accordance with subsection (1)(b).
+(1A) If the total allowable commercial catch for a stock is equal to zero, then the amount of provisional individual transferable quota or individual transferable quota to be allocated under subsection (1) must be determined in accordance with subsection (1)﻿(b).
 (2) If an appeal has been lodged in respect of a person's provisional catch history and that person is eligible to receive quota for that stock, then the quota allocated to that person shall be provisional individual transferable quota.
 (3) Except as provided in subsection (2), the quota allocated shall be individual transferable quota.
 (4) After the allocation of quota under subsection (1), the chief executive shall notify the Registrar of Quota, in respect of each person eligible to receive quota, of the amount of individual transferable quota, or provisional individual transferable quota, as the case may be, the chief executive has allocated to that person.
@@ -986,7 +986,7 @@ If a fishing permit or high seas fishing permit has been suspended under this Ac
   (a) in the form of provisional individual transferable quota; or
   (b) if no appeals under section 51 have been lodged in respect of that stock, in the form of individual transferable quota.
 (2) After the allocation of quota under subsection (1), the chief executive shall notify the Registrar of Quota of the amount of individual transferable quota, or provisional individual transferable quota, as the case may be, allocated to the Crown.
-(3) Quota allocated to the Crown under subsection (1)(a) shall be held as unencumbered provisional individual transferable quota until all disputes of a kind referred to in subsection (1)(b) and all appeals in respect of the allocation of provisional catch history or quota for that stock have been finally determined and those determinations have been given effect, and, at that time, such provisional individual transferable quota held by the Crown shall become individual transferable quota.
+(3) Quota allocated to the Crown under subsection (1)﻿(a) shall be held as unencumbered provisional individual transferable quota until all disputes of a kind referred to in subsection (1)﻿(b) and all appeals in respect of the allocation of provisional catch history or quota for that stock have been finally determined and those determinations have been given effect, and, at that time, such provisional individual transferable quota held by the Crown shall become individual transferable quota.
 (4) When any quota for a Chatham Islands quota management area, created in accordance with section 19, is allocated to the Crown under subsection (1) and becomes individual transferable quota, the Crown shall transfer that quota to the Chatham Islands Enterprise Trust.
 
 ### 49A Surrender of quota to Crown
@@ -1032,14 +1032,14 @@ Any owner of quota who does not also hold any fishing permit, high seas fishing 
 (1) Any person, including the chief executive, may, subject to subsection (3) and on or before the date specified for the purpose in the relevant notice under section 36, appeal to the Catch History Review Committee against,—
   (a)
   (b) in any case,—
-    (i) a decision of the chief executive to the effect that the person is or is not eligible to receive provisional catch history under section 32(1)(a) either because that person held or did not hold a fishing permit or high seas fishing permit (or authorisation referred to in section 45(a)(i)) or controlled fishery licence at any time during the applicable qualifying year or years; or
+    (i) a decision of the chief executive to the effect that the person is or is not eligible to receive provisional catch history under section 32(1)﻿(a) either because that person held or did not hold a fishing permit or high seas fishing permit (or authorisation referred to in section 45(a)﻿(i)) or controlled fishery licence at any time during the applicable qualifying year or years; or
     (ii) a decision of the chief executive to the effect that the person has, or does not have, eligible catch in the qualifying year or years entitling the person to be allocated provisional catch history; or
     (iii) a decision of the chief executive as to the quantum of eligible catch reported in any eligible returns made by any person eligible to receive provisional catch history, on the ground that—
       (A) the information on the relevant returns held by the chief executive has been incorrectly recorded by the chief executive; or
       (B) the chief executive has excluded fish, aquatic life, or seaweed that was lawfully taken and lawfully reported in eligible returns from the person's eligible catch; or
-    (iv) a decision of the chief executive to the effect that the person is or is not eligible to be allocated quota under paragraph (b)(i) or paragraph (b)(ii)(A) of section 35(1) either because that person held or did not hold a fishing permit or high seas fishing permit (or authorisation referred to in section 45(a)(i)) or controlled fishery licence as at the date of the publication of the notice under section 18 declaring the stock to be a quota management stock; or
+    (iv) a decision of the chief executive to the effect that the person is or is not eligible to be allocated quota under paragraph (b)﻿(i) or paragraph (b)﻿(ii)﻿(A) of section 35(1) either because that person held or did not hold a fishing permit or high seas fishing permit (or authorisation referred to in section 45(a)﻿(i)) or controlled fishery licence as at the date of the publication of the notice under section 18 declaring the stock to be a quota management stock; or
     (v) an allocation of provisional catch history that is different from the amount to which the person is entitled under section 34.
-(2) Any person notified by the chief executive under section 36(1)(c)(ii) that he or she is not eligible to receive provisional catch history because of the operation of section 32(1)(b) may, on or before the date specified in the notification to that person,—
+(2) Any person notified by the chief executive under section 36(1)﻿(c)﻿(ii) that he or she is not eligible to receive provisional catch history because of the operation of section 32(1)﻿(b) may, on or before the date specified in the notification to that person,—
   (a) apply to the High Court for a declaration as to whether that person is, or is not, an overseas person; and
   (b) appeal to the Committee against the chief executive's decision and any other relevant action referred to in subsection (1).
 (3) Any appeal lodged under this section shall be in the approved form and shall be available to the public once received by the Committee, but the Committee may—
@@ -1058,17 +1058,17 @@ Any owner of quota who does not also hold any fishing permit, high seas fishing 
   (c) either,—
     (i) if the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, transfer to the person in the form of individual transferable quota such amount of its own provisional individual transferable quota as is sufficient to satisfy that entitlement; or
     (ii) if the Crown does not have sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, deduct from all quota owners (including the Crown in respect of its encumbered quota and unencumbered individual transferable quota) on a pro rata basis sufficient quota so that, after adding the quota so obtained to the Crown's unencumbered provisional individual transferable quota holdings, the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to quota for the stock, and then transfer to the person in the form of individual transferable quota such amount of quota as is sufficient to satisfy that entitlement; and
-  (d) if any appeals result in persons being entitled to less individual transferable quota than the amount of provisional individual transferable quota that was transferred to the Crown under paragraph (a) and quota for that stock was allocated under section 47(1)(b), from the amount of quota remaining after making all allocations required under paragraph (c),—
-    (i) calculate, on a pro rata basis, for all persons (other than persons subject to the appeals and Te Ohu Kai Moana Trustee Limited) who received an allocation under section 47(1)(b), the amount of additional quota to which each person is entitled up to the amount each person would receive under section 53(1); and
-    (ii) after making the calculation in subparagraph (i), allocate to all persons (other than the persons subject to the appeals and Te Ohu Kai Moana Trustee Limited) who received an allocation in accordance with section 47(1)(b) and who have continuously owned and continue to be registered on the Quota Register as the owner of quota for that stock, their additional allocation of quota as calculated under subparagraph (i); and
-    (iii) if any quota remains after allocation under subparagraph (ii) as a result of ineligibility of persons who have not continuously owned and continue to be registered on the Quota Register as the owner of quota, allocate on a pro rata basis to all persons (other than Te Ohu Kai Moana Trustee Limited) who received an allocation in accordance with section 47(1)(b) and who have continuously owned and continue to be registered on the Quota Register as the owner of quota for that stock up to the amount each person would receive under section 53(1).
+  (d) if any appeals result in persons being entitled to less individual transferable quota than the amount of provisional individual transferable quota that was transferred to the Crown under paragraph (a) and quota for that stock was allocated under section 47(1)﻿(b), from the amount of quota remaining after making all allocations required under paragraph (c),—
+    (i) calculate, on a pro rata basis, for all persons (other than persons subject to the appeals and Te Ohu Kai Moana Trustee Limited) who received an allocation under section 47(1)﻿(b), the amount of additional quota to which each person is entitled up to the amount each person would receive under section 53(1); and
+    (ii) after making the calculation in subparagraph (i), allocate to all persons (other than the persons subject to the appeals and Te Ohu Kai Moana Trustee Limited) who received an allocation in accordance with section 47(1)﻿(b) and who have continuously owned and continue to be registered on the Quota Register as the owner of quota for that stock, their additional allocation of quota as calculated under subparagraph (i); and
+    (iii) if any quota remains after allocation under subparagraph (ii) as a result of ineligibility of persons who have not continuously owned and continue to be registered on the Quota Register as the owner of quota, allocate on a pro rata basis to all persons (other than Te Ohu Kai Moana Trustee Limited) who received an allocation in accordance with section 47(1)﻿(b) and who have continuously owned and continue to be registered on the Quota Register as the owner of quota for that stock up to the amount each person would receive under section 53(1).
 (4) Subject to section 54, at the close of the last day of a fishing year in which provisional catch history has been transferred to a person (which fishing year shall be a fishing year after the year in which quota was allocated for that stock under section 47), the chief executive shall—
   (a) calculate, in the manner set out in section 53, the amount of individual transferable quota for the stock (if any) to which the person is entitled by virtue of the provisional catch history transferred to that person; and
   (b) either,—
     (i) if the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, transfer to the person in the form of individual transferable quota such amount of its own provisional individual transferable quota as is sufficient to satisfy that entitlement; or
     (ii) if the Crown does not have sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, deduct from all quota owners (including the Crown in respect of its encumbered quota and unencumbered individual transferable quota) on a pro rata basis sufficient quota so that, after adding the quota so obtained to the Crown's unencumbered provisional individual transferable quota holdings, the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to quota for the stock, and then transfer to the person in the form of individual transferable quota such amount of quota as is sufficient to satisfy that entitlement.
   (c)
-(4A) Any quota remaining unallocated under subsection (3)(d) is the property of the Crown subject to section 49.
+(4A) Any quota remaining unallocated under subsection (3)﻿(d) is the property of the Crown subject to section 49.
 (5) If the provisional catch history of more than 1 person has been adjusted under this section, then, in taking the steps set out in subsection (3) or subsection (4), the chief executive shall (so far as is possible) take those steps simultaneously in respect of all such persons.
 (6) The provisional catch history of every person whose provisional catch history has been finalised and registered under subsection (1) shall, on and from the date of registration, be conclusive and shall be permanently fixed for all purposes.
 (7) For the purposes of this section, a person registered as the owner of provisional individual transferable quota by virtue of section 162 is treated as the owner of the provisional catch history to which the quota relates.
@@ -1076,8 +1076,8 @@ Any owner of quota who does not also hold any fishing permit, high seas fishing 
 ### 53 Calculation of entitlement to quota following appeal
 (1) Every person entitled to receive a transfer of individual transferable quota under section 52 must receive—
   (a) an amount of individual transferable quota for the stock concerned equivalent to the number of shares the person would have received under section 47 if the person (and all other persons whose provisional catch history has since been altered) had owned the revised amount of provisional catch history on the date on which quota was allocated for that stock under section 47; and
-  (b) an amount of shares equal to any shares that would have been transferred by the chief executive under section 22(1), where there has been a reduction in the total allowable commercial catch between the date of the original allocation of those shares under section 47 and the date of this calculation, as if that person had owned the revised amount of shares determined under section 53(1)(a).
-(2) If—the person is entitled to a transfer of the amount of quota for the new quota management area, calculated in accordance with subsection (1) or subsection (3), as the case may be, that the person would have been allocated on the date of the alteration of the quota management area if the person had on that date owned quota for the original stock, and the chief executive has all the powers under subsections (3)(c) and (4)(b) of section 52 necessary to give effect to that entitlement.
+  (b) an amount of shares equal to any shares that would have been transferred by the chief executive under section 22(1), where there has been a reduction in the total allowable commercial catch between the date of the original allocation of those shares under section 47 and the date of this calculation, as if that person had owned the revised amount of shares determined under section 53(1)﻿(a).
+(2) If—the person is entitled to a transfer of the amount of quota for the new quota management area, calculated in accordance with subsection (1) or subsection (3), as the case may be, that the person would have been allocated on the date of the alteration of the quota management area if the person had on that date owned quota for the original stock, and the chief executive has all the powers under subsections (3)﻿(c) and (4)﻿(b) of section 52 necessary to give effect to that entitlement.
   (a) any person is entitled to receive a transfer of individual transferable quota under section 52 for any stock; and
   (b) the quota management area for that stock has been altered under section 25,—
 (3)
@@ -1168,12 +1168,12 @@ An overseas investment in fishing quota is the acquisition by an overseas person
   (e) none of the individuals with control of the relevant overseas person are individuals of the kind referred to in section 15 or 16 of the Immigration Act 2009 (which list certain persons not eligible for visas or entry permission under that Act):
   (f) the interest in fishing quota is capable of being registered in the Quota Register or the Annual Catch Entitlement Register:
   (g) the granting of consent is in the national interest, as determined by the relevant Ministers under section 57H.
-(2) See section 57I in relation to subsection (1)(d) and (e).
+(2) See section 57I in relation to subsection (1)﻿(d) and (e).
 
 ### 57H Factors for determining whether or not overseas investment in fishing quota is in national interest
 (1) The relevant Ministers—
   (a) must consider all the factors in subsection (2) to determine which factor or factors (or parts of them) are relevant to the overseas investment; and
-  (b) must determine whether the criterion in section 57G(1)(g) is met after having regard to those relevant factors; and
+  (b) must determine whether the criterion in section 57G(1)﻿(g) is met after having regard to those relevant factors; and
   (c) may, in doing so, determine the relative importance to be given to each relevant factor (or part).
 (2) The factors are—
   (a) whether the overseas investment will, or is likely to, result in—
@@ -1186,10 +1186,10 @@ An overseas investment in fishing quota is the acquisition by an overseas person
   (b) any other factors that are set out in regulations under the Overseas Investment Act 2005 or that the relevant Ministers, having regard to the circumstances and the nature of the application, think fit.
 
 ### 57I Applying good character and Immigration Act 2009 criteria
-(1) For the purposes of section 57G(1)(d), the relevant Ministers must take the following factors into account (without limitation) in assessing whether or not a person (A) is of good character:
+(1) For the purposes of section 57G(1)﻿(d), the relevant Ministers must take the following factors into account (without limitation) in assessing whether or not a person (A) is of good character:
   (a) offences or contraventions of the law by A, or by any person in which A has, or had at the time of the offence or contravention, a 25% or more ownership or control interest (whether convicted or not):
   (b) any other matter that reflects adversely on the person's fitness to have the particular overseas investment.
-(2) For the purposes of section 57G(1)(e), an individual is not an individual of the kind referred to in section 15 or 16 of the Immigration Act 2009 if a special direction referred to in section 17(1)(a) of that Act has been made permitting a visa and entry permission to be granted to that individual under that Act.
+(2) For the purposes of section 57G(1)﻿(e), an individual is not an individual of the kind referred to in section 15 or 16 of the Immigration Act 2009 if a special direction referred to in section 17(1)﻿(a) of that Act has been made permitting a visa and entry permission to be granted to that individual under that Act.
 
 ### 57J Who administers overseas investment fishing provisions
 The regulator as defined in section 30 of the Overseas Investment Act 2005 administers the overseas investment fishing provisions (except sections 57K to 58B).
@@ -1205,11 +1205,11 @@ An overseas person that does not obtain consent when required under the overseas
 (3) A notice of forfeiture must—
   (a) state that the interest in fishing quota that has been obtained without consent under the overseas investment fishing provisions will be forfeited to the Crown without compensation unless A applies to the High Court for a declaration as to whether A is an overseas person; and
   (b) state the period, which must not be less than 60 clear days after the notice is given, for A to make the application.
-(4) A caveat that is directed to be registered under subsection (2)(a) must remain on the register until removed by direction of the chief executive or order of the court pursuant to an application by A for a declaration under subsection (3)(a).
+(4) A caveat that is directed to be registered under subsection (2)﻿(a) must remain on the register until removed by direction of the chief executive or order of the court pursuant to an application by A for a declaration under subsection (3)﻿(a).
 (5) If A fails to apply for a declaration within the time stipulated in the notice, the relevant interest in fishing quota is forfeit to the Crown without compensation at the end of that period.
 
 ### 58A Powers of court on application for declaration under section 58
-(1) This section applies if, on an application for a declaration by a person (A) under section 58(3)(a), the court declares A to be an overseas person.
+(1) This section applies if, on an application for a declaration by a person (A) under section 58(3)﻿(a), the court declares A to be an overseas person.
 (2) In that case, the court may also order—
   (a) that the relevant interest in fishing quota be forfeit to the Crown without compensation; or
   (b) the disposal by A of the relevant interest in fishing quota within a specified period that,—
@@ -1231,7 +1231,7 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
 (4) Nothing in subsection (1) prevents any person who has quota shares transferred to that person under section 22 or section 23 or section 52 from holding those shares; but, except as may be permitted by any consent granted under section 60, no such person may acquire any more such quota.
 (5) If any person acquires any provisional catch history other than by allocation for any stock, the person is not entitled to be allocated any quota in respect of that provisional catch history to the extent that the allocation of such quota would result in the person being in breach of this section, and such provisional catch history shall be cancelled.
 (6)
-(6A) For the purposes of subsection (1)(e) and section 60(1)(c), in determining the aggregate percentage ownership of any person in relation to both Foveaux Strait dredge oysters and any other dredge oyster stock,—
+(6A) For the purposes of subsection (1)﻿(e) and section 60(1)﻿(c), in determining the aggregate percentage ownership of any person in relation to both Foveaux Strait dredge oysters and any other dredge oyster stock,—
   (a) 980 Foveaux Strait dredge oysters (or such other number as may be fixed by the Minister under section 188(5) of this Act or section 3A(6) of the Fisheries Act 1983) are to be treated as equivalent to 100 kilogrammes; and
   (b) the total allowable commercial catch for Foveaux Strait dredge oysters and the quota weight equivalent of quota shares held by any person for Foveaux Strait dredge oysters are to be calculated in kilogrammes accordingly before being aggregated with the relevant weight-related figures in respect of the other dredge oyster stock.
 (7) The Governor-General may, by Order in Council made on the recommendation of the Minister, following consultation with such persons or organisations who are representative of those classes of persons the Minister considers have an interest in this section, add the name of any new species to, or delete the name of any existing species from, Schedule 5.
@@ -1252,9 +1252,9 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
   (c) any person who is a relative of the person as defined in paragraph (c) of the definition of that term, as it was before the enactment of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in section YA 1 of the Income Tax Act 2007:
   (d) any person who would be an associated person under subpart YB of the Income Tax Act 2007 as it was before the enactment of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009, to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions, with the exception that paragraph (e) of the definition of market value circumstance in section YA 1 of that Act does not apply.
   (e) any beneficiary or trustee of any trust of which the person is a trustee or beneficiary.
-(10A) For the purposes of subsection (10)(b) and (e), a person is not a person referred to in that subsection solely because the person is—
-  (a) in the case of subsection (10)(b), a director of Te Ohu Kai Moana Trustee Limited, Te Putea Whakatupu Trustee Limited, or Te Wai Maori Trustee Limited; or
-  (b) in the case of subsection (10)(e), a beneficiary, director, trustee, or officeholder, as the case may be, of—
+(10A) For the purposes of subsection (10)﻿(b) and (e), a person is not a person referred to in that subsection solely because the person is—
+  (a) in the case of subsection (10)﻿(b), a director of Te Ohu Kai Moana Trustee Limited, Te Putea Whakatupu Trustee Limited, or Te Wai Maori Trustee Limited; or
+  (b) in the case of subsection (10)﻿(e), a beneficiary, director, trustee, or officeholder, as the case may be, of—
     (i) Te Ohu Kai Moana, Te Putea Whakatupu Trust, or Te Wai Maori Trust; or
     (ii) a mandated iwi organisation or an asset-holding company; or
     (iii) any trust of which the settlor is Aotearoa Fisheries Limited or a subcompany.
@@ -1285,7 +1285,7 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
 (1) If the chief executive believes on reasonable grounds that any person has acquired any quota in breach of section 59 or any consent given by the Minister under section 60, the chief executive—
   (a) may direct that a caveat be registered in the appropriate register under Part 8 in respect of all quota owned by that person; and
   (b) shall notify in writing the owner that quota acquired in breach of section 59 or any consent given by the Minister under section 60 shall be forfeit to the Crown without compensation unless, within 60 working days after the date specified in the notice, the owner applies to the High Court for a declaration as to whether that quota was acquired in breach of section 59 or any consent given by the Minister under section 60.
-(2) Any caveat directed to be registered under subsection (1)(a) shall remain on the register until removed by direction of the chief executive or order of a court pursuant to any proceedings referred to in subsection (1)(b).
+(2) Any caveat directed to be registered under subsection (1)﻿(a) shall remain on the register until removed by direction of the chief executive or order of a court pursuant to any proceedings referred to in subsection (1)﻿(b).
 (3) If any person whose quota has been caveated under subsection (1) fails to apply to the High Court under that subsection or the High Court declares the quota to have been acquired in breach of section 59 or any consent given by the Minister under section 60, then any quota held in breach of those sections (which quota shall be the quota acquired most recently in time) shall be forfeit to the Crown without compensation.
 (4) Any quota forfeit to the Crown under subsection (3) shall be dealt with in accordance with section 62.
 (5) In this section, person has the same meaning as in section 59(10) and (11).
@@ -1341,7 +1341,7 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
 **Order of transactions**
 
 ### 63 Order of transactions
-If any regulations made under section 297(1)(sa) provide that any transactions must be actioned in a specified order, the chief executive must action those transactions in accordance with this Act in the specified order.
+If any regulations made under section 297(1)﻿(sa) provide that any transactions must be actioned in a specified order, the chief executive must action those transactions in accordance with this Act in the specified order.
 
 ### 64 Order of transactions on first day of new fishing year
 [Repealed]
@@ -1376,11 +1376,11 @@ If any regulations made under section 297(1)(sa) provide that any transactions m
 (1) As soon as practicable after the 15th day after the end of the fishing year for each stock (the first fishing year), the chief executive must, for each person who, as at that date, owns annual catch entitlement for the first fishing year for that stock, compare—
   (a) the annual catch entitlement for that stock (other than annual catch entitlement created under section 68) for the first fishing year owned by the person as at the close of the 15th day after the end of that fishing year; and
   (b) the reported catch (if any) for that stock, calculated in accordance with regulations made for that purpose under section 297, taken by that person during the first fishing year.
-(2) If the amount of annual catch entitlement referred to in subsection (1)(a) is greater than the reported catch referred to in subsection (1)(b), the chief executive must—
+(2) If the amount of annual catch entitlement referred to in subsection (1)﻿(a) is greater than the reported catch referred to in subsection (1)﻿(b), the chief executive must—
   (a) calculate the difference between that annual catch entitlement and that reported catch; and
   (b) subject to subsection (5), allocate to the person an amount of annual catch entitlement for the stock for the fishing year after the first fishing year (the second fishing year) that is the lesser of the following:
     (i) the amount calculated under paragraph (a):
-    (ii) 10% of the amount of annual catch entitlement referred to in subsection (1)(a).
+    (ii) 10% of the amount of annual catch entitlement referred to in subsection (1)﻿(a).
 (3) This section does not apply to—
   (a) a stock listed in Schedule 5A; or
   (b) a stock for which the total allowable commercial catch at the beginning of the second fishing year is less than the total allowable commercial catch applying at the close of the first fishing year.
@@ -1440,7 +1440,7 @@ If any regulations made under section 297(1)(sa) provide that any transactions m
     (ii) the fishery officer or observer authorised the return or abandonment of the fish, aquatic life, or seaweed; and
     (iii) the commercial fisher returned or abandoned the fish, aquatic life, or seaweed under the supervision of the fishery officer or observer, and complied with any directions of the fishery officer or observer; and
     (iv) the amount of fish, aquatic life, or seaweed was included in the returns for the appropriate period that are required to be made by the commercial fisher under this Act.
-(6) Any fish, aquatic life, or seaweed returned or abandoned in accordance with subsection (5)(c) shall be included in the commercial fisher's reported catch for the purposes of section 76.
+(6) Any fish, aquatic life, or seaweed returned or abandoned in accordance with subsection (5)﻿(c) shall be included in the commercial fisher's reported catch for the purposes of section 76.
 (7) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, add or omit from Schedule 6 the name of any stock, or amend any provision in that schedule or add new provisions to that schedule.
 
 ### 73 Offence to transfer used annual catch entitlement
@@ -1470,14 +1470,18 @@ If any regulations made under section 297(1)(sa) provide that any transactions m
 (9A) The Minister may make a recommendation under subsection (9)—
   (a) on the Minister's own initiative; or
   (b) on request by quota owners who hold in the aggregate at least 75 000 000 quota shares in that stock.
-(9B) A request under subsection (9A)(b) must—
+(9B) A request under subsection (9A)﻿(b) must—
   (a) specify the concerns (if any) of the quota owners who do not support the proposal; and
   (b) specify what arrangements are in place to address those concerns.
-(10) Every such order shall,—
-  (a) if it is made on or before 30 June in any year, expire with the close of 31 December in that year except so far as it is expressly confirmed by Act of Parliament passed during that year:
-  (b) if it is made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
+(10)
 (11)
 (12) If a person contravenes subsection (1) or subsection (2), the person commits an offence and is liable to the penalty set out in section 252(5).
+
+### 74A Orders under section 74(7) are confirmable instruments
+The explanatory note of an Order in Council made under section 74(7) must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 **Deemed values**
 
@@ -1515,12 +1519,12 @@ Before setting any interim deemed value rate or annual deemed value rate under s
   (a) compare—
     (i) the annual catch entitlement for each stock (if any) for the fishing year owned by that commercial fisher as at the close of the 15th day of that month; and
     (ii) the reported catch for that stock (in kilogrammes) calculated in accordance with regulations made for that purpose under section 297, taken by that commercial fisher during the fishing year up to the end of the preceding month; and
-  (b) calculate, in respect of each stock, whether that commercial fisher's annual catch entitlement referred to in paragraph (a)(i) exceeds that commercial fisher's reported catch referred to in paragraph (a)(ii).
+  (b) calculate, in respect of each stock, whether that commercial fisher's annual catch entitlement referred to in paragraph (a)﻿(i) exceeds that commercial fisher's reported catch referred to in paragraph (a)﻿(ii).
 (1B) As soon as practicable after the 15th day after the end of the fishing year for each stock, the chief executive must, in accordance with regulations made for that purpose under section 297, in respect of every commercial fisher,—
   (a) compare—
     (i) the annual catch entitlement for each stock (if any) for the relevant fishing year owned by that commercial fisher as at the close of the 15th day after the end of the fishing year; and
     (ii) the reported catch for that stock (in kilogrammes), calculated in accordance with regulations made for that purpose under section 297, taken by that commercial fisher during the fishing year up to the end of the fishing year; and
-  (b) calculate, in respect of each stock, whether that commercial fisher's annual catch entitlement referred to in paragraph (a)(i) exceeds that commercial fisher's reported catch referred to in paragraph (a)(ii).
+  (b) calculate, in respect of each stock, whether that commercial fisher's annual catch entitlement referred to in paragraph (a)﻿(i) exceeds that commercial fisher's reported catch referred to in paragraph (a)﻿(ii).
 (2) Following the calculation referred to in subsection (1A), the chief executive shall calculate the amount of interim deemed value that is to be demanded from, or remitted to, that commercial fisher in accordance with regulations made for the purpose under section 297 and thereafter shall demand or remit the amount, as the case may be.
 (2A) Subject to subsection (2B), following the calculation referred to in subsection (1B), the chief executive must calculate the amount of annual deemed value (if any) that is to be demanded from the commercial fisher in accordance with regulations made for the purpose under section 297, and must demand the amount.
 (2B) In calculating the amount of annual deemed value to be demanded from a commercial fisher, the chief executive must credit the commercial fisher with interim deemed value amounts demanded in respect of the relevant stock in the relevant fishing year (other than demanded amounts that have been remitted under subsection (2)).
@@ -1569,7 +1573,7 @@ Before setting any interim deemed value rate or annual deemed value rate under s
   (b) include in the written notice given to the applicant under section 76A(6) notice of the annual deemed value amount, recalculated under paragraph (a), for which the applicant is liable; and
   (c) remit to the applicant the difference between the annual deemed value amount previously calculated and the amount recalculated under paragraph (a).
 (2) For the purpose of section 79(1),—
-  (a) any reduction in the annual deemed value amount owed by an applicant that results from the recalculation under subsection (1)(a) takes effect on the date that written notice of the recalculated amount is given under subsection (1)(b); and
+  (a) any reduction in the annual deemed value amount owed by an applicant that results from the recalculation under subsection (1)﻿(a) takes effect on the date that written notice of the recalculated amount is given under subsection (1)﻿(b); and
   (b) if a fishing permit ceases to be suspended because of the recalculation, the suspension ends no earlier than the date the written notice of the recalculated amount is given.
 
 ### 77 Over-fishing thresholds
@@ -1648,9 +1652,9 @@ Before making a recommendation under section 77(1), the Minister may have regard
   (a) give notice to person B of the condition imposed under subsection (1) and a copy of the grounds for imposing the condition as given on oath; and
   (b) record on the Permit Register details of the imposition of the condition.
 (5) Any condition imposed under subsection (1) takes effect from the date of notification.
-(6) Subsections (6), (7), (8), and (10) of section 78 apply to person B and person B's fishing permit as if the condition had been imposed on person B under subsection (2) of that section (and conditions imposed on person B under this section or section 78(6)(b) are not affected by decisions under section 78(6) in relation to person A).
+(6) Subsections (6), (7), (8), and (10) of section 78 apply to person B and person B's fishing permit as if the condition had been imposed on person B under subsection (2) of that section (and conditions imposed on person B under this section or section 78(6)﻿(b) are not affected by decisions under section 78(6) in relation to person A).
 (7) Any conditions imposed on person B under this section or section 78(6) cease to apply—whichever happens first.
-  (a) when the commercial fisher referred to in section 78(1) complies with section 78(9)(a); or
+  (a) when the commercial fisher referred to in section 78(1) complies with section 78(9)﻿(a); or
   (b) at the close of the relevant fishing year,—
 (8) If—then each of person A and person B commits an offence and is liable to the penalty set out in section 252(3).
   (a) a person (person B) is, in respect of commercial fishing, in substance the same person as a person (person A) who has had a condition imposed on their fishing permit by section 78(2); and
@@ -1711,7 +1715,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
 (1) This section applies to any person—
   (a) whose permit has been suspended under section 79(1) in their capacity as a person included with a commercial fisher under section 79(5); or
   (b) whose permit has been suspended under section 79A(1); or
-  (c) who has been refused a permit under section 91(6)(c).
+  (c) who has been refused a permit under section 91(6)﻿(c).
 (2) Such a person may apply to a District Court to—on the grounds that the situation relied upon under section 79(1) and (5) or section 79A(1) never existed or no longer exists.
   (a) direct that the suspension be removed, either permanently or pending the final determination of the application; or
   (b) direct that the permit be issued,—
@@ -1753,20 +1757,20 @@ Before making a recommendation under section 77(1), the Minister may have regard
   (b) the portion of the total catch limit (if any) for any stock not subject to the quota management system (including any highly migratory stock) that may be taken within the exclusive economic zone; and
   (c) the foreign allowable catch for a stock in the exclusive economic zone.
 (2) The foreign allowable catch for any quota management stock shall be the lesser of—
-  (a) the portion of the total allowable commercial catch for the time being determined for the stock under subsection (1)(a):
+  (a) the portion of the total allowable commercial catch for the time being determined for the stock under subsection (1)﻿(a):
   (b) the Crown's available annual catch entitlement for the stock.
-(3) For the purposes of subsection (2)(b), the Crown's available annual catch entitlement for a stock is the Crown's holding of annual catch entitlement for the stock that—
+(3) For the purposes of subsection (2)﻿(b), the Crown's available annual catch entitlement for a stock is the Crown's holding of annual catch entitlement for the stock that—
   (a) is generated from unencumbered quota held by the Crown; and
   (b) remains unsold after the Crown has offered the annual catch entitlement for sale to persons entitled to own quota.
 (4) The foreign allowable catch for any stock not subject to the quota management system shall be the lesser of—
-  (a) the portion of the total catch limit (if any) for the time being determined under subsection (1)(b):
+  (a) the portion of the total catch limit (if any) for the time being determined under subsection (1)﻿(b):
   (b) a catch that is sustainable after taking into account the total catch limit (if any) for, and the domestic harvesting capacity of, the stock.
 (5) For the purposes of this section, the term domestic harvesting capacity, in relation to any stock not subject to the quota management system, means the total domestic commercial catch reported as having been taken in the previous fishing year for the stock by New Zealand fishing vessels within New Zealand fisheries waters, with an appropriate adjustment to allow for—
   (a) any changes in the harvesting capacity of the domestic commercial fishing fleet due to—
     (i) recent investment in fishing vessels and fishing equipment; and
     (ii) catch trends; and
   (b) non-commercial take and scientific take.
-(6) If the foreign allowable catch for any quota management stock has been determined under subsection (1)(c) in accordance with subsection (2), the Minister shall set aside an amount of the Crown's holding of annual catch entitlement for the stock that is equivalent to the amount of the foreign allowable catch, and such annual catch entitlement shall not be used for fishing.
+(6) If the foreign allowable catch for any quota management stock has been determined under subsection (1)﻿(c) in accordance with subsection (2), the Minister shall set aside an amount of the Crown's holding of annual catch entitlement for the stock that is equivalent to the amount of the foreign allowable catch, and such annual catch entitlement shall not be used for fishing.
 (7) Nothing in this section applies in relation to any highly migratory species.
 
 ### 82 Apportionment of foreign allowable catch for foreign fishing vessels
@@ -1819,9 +1823,9 @@ Before making a recommendation under section 77(1), the Minister may have regard
     (i) a licence issued under section 83; or
     (ii) if the vessel is used for the purposes of fisheries research or experimentation (including gear and equipment trials) or recreation, the prior written consent of the Minister; and
   (b) in accordance with any conditions of that licence or consent.
-(2) Consent under subsection (1)(a)(ii) may be given unconditionally or upon or subject to such conditions, including the payment of fees, as the Minister thinks fit.
-(3) Every person commits an offence and is liable to the penalty set out in section 252(2) who contravenes subsection (1)(a).
-(4) Every person commits an offence and is liable to the penalty set out in section 252(3) who contravenes subsection (1)(b).
+(2) Consent under subsection (1)﻿(a)﻿(ii) may be given unconditionally or upon or subject to such conditions, including the payment of fees, as the Minister thinks fit.
+(3) Every person commits an offence and is liable to the penalty set out in section 252(2) who contravenes subsection (1)﻿(a).
+(4) Every person commits an offence and is liable to the penalty set out in section 252(3) who contravenes subsection (1)﻿(b).
 
 ### 85 Fees, royalties, and charges
 Every person to whom a licence has been issued under this Part shall pay to the Crown, in such manner as may be prescribed, such fees, royalties, and charges as may be prescribed under section 297 or section 299.
@@ -1932,7 +1936,7 @@ Section 89(1) does not apply to the taking of fish, aquatic life, or seaweed if�
   (a) any stocks that are subject to the quota management system; and
   (b) any stocks or species that are neither subject to the quota management system nor listed in Schedule 4C; and
   (c) any stocks or species listed in Schedule 4C that are listed on a fishing permit held by the commercial fisher.
-(4) Despite section 93 but subject to section 306 of the Ngāi Tahu Claims Settlement Act 1998, the chief executive may issue a fishing permit under this section for any beach cast seaweed, except seaweed to which section 89(2)(f) applies.
+(4) Despite section 93 but subject to section 306 of the Ngāi Tahu Claims Settlement Act 1998, the chief executive may issue a fishing permit under this section for any beach cast seaweed, except seaweed to which section 89(2)﻿(f) applies.
 (5) Before issuing a fishing permit to an applicant, the chief executive may require the applicant to provide a suitable third party guarantee, or bond, in an amount specified by the chief executive.
 (6) No fishing permit may be issued to any person who—
   (a) is a person who has unpaid deemed value amounts in excess of $1,000 that are overdue, or is a person who is treated by section 79(5) as included with that person; or
@@ -1971,9 +1975,9 @@ Section 89(1) does not apply to the taking of fish, aquatic life, or seaweed if�
   (b) a fishing permit was issued to that person under section 2(2) of the Fisheries Amendment Act 1994.
 (2) A fishing permit issued under subsection (1) shall not authorise a person to take a stock or species listed in Schedule 4C, unless either—
   (a) the stock—
-    (i) is of the same species as 1 or more of the stocks referred to in subsection (1)(a)(iii)(A) that were caught as a target stock (other than bycatch) during the period referred to in subsection (1)(a)(ii); and
+    (i) is of the same species as 1 or more of the stocks referred to in subsection (1)﻿(a)﻿(iii)﻿(A) that were caught as a target stock (other than bycatch) during the period referred to in subsection (1)﻿(a)﻿(ii); and
     (ii) was named in the fishing permit held by that person on 30 September 1992; or
-  (b) in the case of a fishing permit issued to a person referred to in subsection (1)(b), the stock was named on the permit issued to that person under section 2(2) of the Fisheries Amendment Act 1994.
+  (b) in the case of a fishing permit issued to a person referred to in subsection (1)﻿(b), the stock was named on the permit issued to that person under section 2(2) of the Fisheries Amendment Act 1994.
 (3) In satisfying himself or herself on any matter under this section, the chief executive shall only have regard to information from fishing records or returns duly completed and provided before 15 October 1992 in the prescribed manner or in accordance with requirements made under section 66(3) of the Fisheries Act 1983.
 (4) This section does not apply to tuna.
 
@@ -2074,8 +2078,8 @@ The High Seas Permit Register must contain all the particulars required by regul
     (ii) in any other case, the person from whom the operator has, by virtue of a lease, a sublease, a charter, a subcharter, or otherwise, for the time being obtained possession and control of the vessel:
   (c) for the purpose of determining whether the payment to any person engaged or employed to do work on any such vessel meets the requirements of the Minimum Wage Act 1983, the hours of work of, the payments received by, and the entitlements to payment of that person shall be assessed in relation to the whole of each period of such engagement or employment in New Zealand fisheries waters:
   (d) Labour Inspectors within the meaning of the Employment Relations Act 2000 may exercise their powers under that Act and under the enactments referred to in paragraph (a) within New Zealand fisheries waters in respect of any person deemed to be an employee or employer by virtue of paragraph (a) or paragraph (b):
-  (e) if the operator of any vessel is not the employer by virtue of paragraph (b), then, notwithstanding any responsibility that may rest with the employer, the authorised agent referred to in subsection (2)(c) shall be responsible under the enactments referred to in paragraph (a) for providing any information and records to any Labour Inspector exercising powers under those Acts:
-  (f) the authorised agent referred to in subsection (2)(c) may be served with any documents requiring service under any of the enactments referred to in paragraph (a), and such service shall be deemed to be service on the employer:
+  (e) if the operator of any vessel is not the employer by virtue of paragraph (b), then, notwithstanding any responsibility that may rest with the employer, the authorised agent referred to in subsection (2)﻿(c) shall be responsible under the enactments referred to in paragraph (a) for providing any information and records to any Labour Inspector exercising powers under those Acts:
+  (f) the authorised agent referred to in subsection (2)﻿(c) may be served with any documents requiring service under any of the enactments referred to in paragraph (a), and such service shall be deemed to be service on the employer:
   (g) the Employment Relations Authority and the Employment Court may exercise jurisdiction in respect of any employment relationship that arises by virtue of paragraph (a) or paragraph (b) as if it were a lawful employment relationship subject to New Zealand law.
 (6) Without limiting anything in subsection (5), in considering whether to consent to the registration of a vessel owned or operated by an overseas person referred to in subsection (4), the chief executive shall have regard to—
   (a) the previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, foreign charterparty, notified user, master, or crew; and
@@ -2148,8 +2152,8 @@ The High Seas Permit Register must contain all the particulars required by regul
     (ii) the period of the suspension; and
     (iii) the conditions and requirements imposed under subsection (6) (if any); and
     (iv) the rights of review and appeal available to a person directly affected under section 106B.
-(8) A period of suspension may be extended by the chief executive from time to time if he or she is satisfied that any conditions and requirements referred to in subsection (7)(b)(iii) have not been met, and subsection (7) (except paragraph (b)(iv)) (with the necessary modifications) applies to any extension of the suspension.
-(9) The chief executive may lift the suspension of consent if satisfied that suspension conditions and requirements referred to in subsection (7)(b)(iii) have been met.
+(8) A period of suspension may be extended by the chief executive from time to time if he or she is satisfied that any conditions and requirements referred to in subsection (7)﻿(b)﻿(iii) have not been met, and subsection (7) (except paragraph (b)﻿(iv)) (with the necessary modifications) applies to any extension of the suspension.
+(9) The chief executive may lift the suspension of consent if satisfied that suspension conditions and requirements referred to in subsection (7)﻿(b)﻿(iii) have been met.
 (10) A person commits an offence and is liable to the penalty set out in section 252(5) if the person uses a fishing vessel, or any tender of that fishing vessel, to take fish, aquatic life, or seaweed for sale while the chief executive's consent to registration of the vessel is suspended.
 (11) Nothing in this section requires the chief executive to remit or refund any fees, charges, or levies paid or payable by the operator under this Act for the period from the date of registration to the close of the period of suspension.
 (12) For the purposes of section 103(1), a vessel must be treated as being not registered while the chief executive's consent to its registration is suspended under this section.
@@ -2178,7 +2182,7 @@ The High Seas Permit Register must contain all the particulars required by regul
   (b) the chief executive has decided, on reasonable grounds and after receipt of advice from the Secretary of Labour, that a breach of any statutory provision referred to in section 103(5) has occurred.
 (7) For the purposes of subsection (6), reasonable grounds for a belief that a breach has occurred includes—
   (a) advice from the Secretary of Labour that a decision or order of the Employment Relations Authority or Employment Court has been made to that effect:
-  (b) advice from the Secretary of Labour to the effect that any information or records requested, whether from an authorised agent in accordance with section 103(5)(d) or from the employer, have not been provided.
+  (b) advice from the Secretary of Labour to the effect that any information or records requested, whether from an authorised agent in accordance with section 103(5)﻿(d) or from the employer, have not been provided.
 (8) If the ownership of any vessel registered under this Act changes to such an extent that the consent of the chief executive under section 103 or section 105 would be required to register that vessel, the operator shall immediately notify the chief executive of that occurrence and the chief executive shall immediately cancel the registration of the vessel.
 (9) Every person commits an offence and is liable to the penalty set out in section 252(5) who contravenes any requirement to notify the chief executive of any matter under subsection (4) or subsection (5) or subsection (8).
 
@@ -2465,7 +2469,7 @@ For the purposes of the administration and enforcement of this Part, a high seas
   (a) give the master of the vessel evidence of the inspector's identity and of the fact that he or she is a high seas fishery inspector; and
   (b) provide to the master of the vessel a copy of a report on the boarding and inspection, including any objection or statement that the master has advised the high seas fishery inspector that the master wishes to have included in the report; and
   (c) promptly leave the vessel after completing the inspection unless he or she finds evidence that the vessel has committed a serious violation.
-(2) The chief executive must provide a copy of the report referred to in subsection (1)(b) to the authorities of the flag State of the vessel.
+(2) The chief executive must provide a copy of the report referred to in subsection (1)﻿(b) to the authorities of the flag State of the vessel.
 (3) At the time of a boarding and inspection under section 113S(1), the chief executive must initiate action to give notice of the boarding and inspection to the authorities of the flag State of a vessel that is boarded and inspected.
 (4) A high seas fishery inspector must not interfere with any attempt by the master of the vessel to communicate with the authorities of the flag State of the vessel during the boarding and inspection.
 (5) When undertaking a boarding and inspection under section 113S(1), a high seas fishery inspector is authorised, in order to verify compliance by the vessel with the relevant international conservation and management measures, to inspect—
@@ -2596,7 +2600,7 @@ A person on whom a notice under section 113Z is served who does not require that
 
 ### 113ZF Authorised agent
 A document required to be served on the holder of a high seas fishing permit is deemed to have been duly served if it is—
-  (a) delivered to a representative person for the time being specified under section 103(2)(c) or section 105(2)(c) in relation to the vessel; or
+  (a) delivered to a representative person for the time being specified under section 103(2)﻿(c) or section 105(2)﻿(c) in relation to the vessel; or
   (b) sent to that person by post at the address notified or last notified to the chief executive; or
   (c) left for that person at that address.
 
@@ -2923,7 +2927,7 @@ A caveat may, subject to section 149(2), be registered over any quota shares or 
   (c) the chief executive directs that a caveat be lodged under section 58 or section 61 or section 214 or section 268,—
 (2) Except as otherwise provided by this Act, the chief executive shall register under section 159 a caveat over quota shares or annual catch entitlement, as the case may be, only if—
   (a) the person whose quota shares or annual catch entitlement is being caveated owns a number of quota shares or an amount of annual catch entitlement, as the case may be, in the relevant stock equal to or greater than the number of quota shares or amount of annual catch entitlement over which the caveat is to be registered; and
-  (b) in the case of a caveat lodged under subsection (1)(a), the quota shares or annual catch entitlement to be the subject of the caveat are not already subject to any other caveat registered under this Act.
+  (b) in the case of a caveat lodged under subsection (1)﻿(a), the quota shares or annual catch entitlement to be the subject of the caveat are not already subject to any other caveat registered under this Act.
 
 ### 150 Caveat may be withdrawn
 (1) Any caveat may, either as to the whole or any part of the quota or annual catch entitlement protected by the caveat, be withdrawn by the person whose interests are protected by the caveat or by the person's attorney or agent under a written authority.
@@ -2968,12 +2972,12 @@ The chief executive must register a settlement quota interest against the quota 
     (i) a transfer of quota shares in any stock to any person holding preferential allocation rights under section 23 necessitates a deduction of quota shares under that section from any quota owner; or
     (ii) any determination of an appeal under section 51 necessitates a deduction of quota shares under section 52 from any quota owner (other than the quota owner involved in the appeal); and
   (b) as a result of the deduction, the number of quota shares in that stock held by the owner is less than the total number of quota shares in that stock subject to a mortgage or caveat immediately before the deduction.
-(2) Where a deduction referred to in subsection (1)(a)(i) is required and there are 1 or more mortgages or caveats registered over the quota shares owned by the quota owner, then the number of shares secured by any 1 or more of those mortgages or caveats must be reduced in the manner prescribed by regulations made under this Act in accordance with the quota share reduction principles set out in subsection (4).
+(2) Where a deduction referred to in subsection (1)﻿(a)﻿(i) is required and there are 1 or more mortgages or caveats registered over the quota shares owned by the quota owner, then the number of shares secured by any 1 or more of those mortgages or caveats must be reduced in the manner prescribed by regulations made under this Act in accordance with the quota share reduction principles set out in subsection (4).
 (3) If any quota owner, or the chief executive, has appealed under section 51 in relation to any stock, then, when the appeal is finally determined,—
   (a) all provisional individual transferable quota for the relevant stock owned by that quota owner must, at the chief executive's direction, be transferred to the Crown in accordance with section 52; and
   (b) if any provisional individual transferable quota shares so transferred were subject to a mortgage or caveat, the mortgage or caveat ceases to apply to the transferred provisional individual transferable quota shares, and instead applies to the same number of individual transferable quota shares transferred to that quota owner under section 52 (if possible); and
   (c) if, as a result of such transfers, the number of individual transferable quota shares in the relevant stock owned by the quota owner is less than the number of provisional individual transferable quota shares that were subject to the mortgage or caveat and there are 1 or more mortgages or caveats registered over the provisional individual transferable quota shares owned by the quota owner, then the number of shares secured by any 1 or more of those mortgages or caveats must be reduced in the manner prescribed by regulations made under this Act in accordance with the quota share reduction principles set out in subsection (4).
-(4) The quota share reduction principles referred to in subsections (2) and (3)(c) are as follows:
+(4) The quota share reduction principles referred to in subsections (2) and (3)﻿(c) are as follows:
   (a) the total number of shares subject to any individual caveat may not exceed the total number of shares owned by the quota owner concerned:
   (b) the total number of shares subject to all caveats may exceed the total number of shares owned by the quota owner:
   (c) where quota shares subject to caveats must be reduced, they must be reduced to equal the number of shares owned by the quota owner:
@@ -3015,7 +3019,7 @@ Every application to register a transaction shall—
   (c) forward the registration notice to the person who presented the instrument for registration and forward duplicates of the notice to each of the other parties to the transaction; and
   (d) if a caveat is registered over any quota shares, give notice of the registration of the caveat to the owner (if not otherwise notified) and any mortgagee of those shares and to any other caveator of those shares; and
   (e) if a caveat is registered over any annual catch entitlement, give notice of the registration of the caveat to the owner (if not otherwise notified) and any other caveator of that annual catch entitlement.
-(2) For the purposes of subsection (1)(c), the mortgagor is treated as a party to a transaction that is an assignment.
+(2) For the purposes of subsection (1)﻿(c), the mortgagor is treated as a party to a transaction that is an assignment.
 
 ### 160 Provisions relating to defective applications for registration
 (1) If—is found not to be in order for the purposes of registration, the chief executive may return that document or those other documents to the person by whom they were lodged or, if that person is not available, to such other person as may, in the opinion of the chief executive, be entitled to receive them.
@@ -3036,7 +3040,7 @@ Every application to register a transaction shall—
 ### 162 Procedure on application
 (1) If, on any application under section 161, the chief executive is satisfied that the requirements of this Act for registration are met, the chief executive shall register under section 159 the applicant as the owner, mortgagee, or caveator of any quota, or as the holder of any provisional catch history, or as the owner or caveator of any annual catch entitlement, as the case may be.
 (2) After registration under subsection (1), the quota or annual catch entitlement remains subject to any registered caveat or mortgage.
-(3) This section overrides sections 132(1)(b), 133(1)(b), 136(2), and 148(1).
+(3) This section overrides sections 132(1)﻿(b), 133(1)﻿(b), 136(2), and 148(1).
 
 ### 163 Chief executive may transfer quota or annual catch entitlement
 (1) The power of the chief executive to transfer any quota shares or annual catch entitlement to the Crown or any other person as a consequence of—may be exercised notwithstanding the existence of any mortgage or caveat or settlement quota interest over any quota shares or annual catch entitlement.
@@ -3052,7 +3056,7 @@ Every application to register a transaction shall—
 (2) Every application made under subsection (1) shall—
   (a) be made within 14 days after the registration notice issued under section 159(b) is forwarded to that person; and
   (b) be in the approved form (if any); and
-  (c) include a copy of the registration notice issued under section 159(1)(b) that relates to the record on the register to which the application relates.
+  (c) include a copy of the registration notice issued under section 159(1)﻿(b) that relates to the record on the register to which the application relates.
 
 ### 165 Correction of register
 (1) If, upon receipt of an application under section 164, the chief executive is satisfied that the register does not record accurately the particulars set out in the instrument to which the application relates or is incorrect for any other reason specified for the purpose in any regulations made under section 297, the chief executive shall correct the register accordingly and—
@@ -3061,14 +3065,14 @@ Every application to register a transaction shall—
 (2) If the chief executive is satisfied that the register does not record accurately the particulars set out in the instrument to which the record on the register relates or, subject to any regulations made under section 297, is for any other reason incorrect, the chief executive may, of the chief executive's own motion, after notifying those persons whom the chief executive considers will be affected, correct the register accordingly and record on the register the nature of the correction and the time at which the correction was made.
 (3) Without limiting the generality of subsection (2), the power conferred by that subsection is exercisable if—
   (a) a registration notice has been issued in error or an entry or endorsement has been made in error:
-  (b) a misdescription has occurred in any entry in the register or any registration notice issued under section 159(1)(b):
+  (b) a misdescription has occurred in any entry in the register or any registration notice issued under section 159(1)﻿(b):
   (c) an instrument has been obtained fraudulently or wrongfully, or retained fraudulently or wrongfully.
 (4) No correction may be made under this section to the extent that the correction prejudices any bona fide purchaser for value, or any mortgagee for valuable consideration, unless that person makes a statutory declaration confirming his or her consent to the correction of the register.
 
 ### 166 Certified copies of register to be evidence
 (1) The chief executive shall, upon application and payment of the prescribed fee (if any), provide to any person a certified copy of any record in the register.
 (2) Every such certified copy in hard copy form signed by or on behalf of the chief executive, and sealed with the chief executive's seal, shall be received in evidence for all purposes as conclusive evidence that the particulars shown on the certified copy have been duly registered.
-(3) This section does not apply to any record entered on a register in accordance with section 128(1)(g).
+(3) This section does not apply to any record entered on a register in accordance with section 128(1)﻿(g).
 
 ### 167 Registrar not bound to attend court or produce register without court order
 [Repealed]
@@ -3118,7 +3122,7 @@ Every application to register a transaction shall—
 
 ### 172 Notice of action to be served on Attorney-General and Registrar
 (1) Notice in writing of—shall be served upon the Attorney-General, and also upon the Registrar, at least 20 working days before the commencement of the action, and the Registrar shall notify the chief executive of any such action served on the Registrar.
-  (a) every action against the Crown under section 171(1A)(a); and
+  (a) every action against the Crown under section 171(1A)﻿(a); and
   (b) the cause of the action; and
   (c) the amount claimed—
 (2) If those officers concur that the claim ought to be admitted, as to the whole or any part of the claim, without suit or action, and jointly certify to that effect, the amount of the claim may, without further appropriation than this section, be paid, out of public money appropriated by Parliament, in whole or in part to the person entitled to that amount in accordance with the certificate.
@@ -3241,7 +3245,7 @@ If a proposal for the establishment of a taiapure-local fishery has been made un
   (c) provide for such matters as may be necessary or desirable to achieve the purpose of this Act in relation to mataitai reserves, including general restrictions and prohibitions in respect of the taking of fish, aquatic life, or seaweed:
   (d) empower any Maori Committee constituted by or under the Maori Community Development Act 1962, any marae committee, or any kaitiaki of the tangata whenua to make bylaws restricting or prohibiting the taking of fish, aquatic life, or seaweed:
   (e) empower any such Maori Committee, marae committee, or kaitiaki to allow the taking of fish, aquatic life, or seaweed to continue for purposes which sustain the functions of the marae concerned, notwithstanding any such bylaws.
-(3) The following provisions apply in relation to bylaws made under regulations made under subsection (2)(d):
+(3) The following provisions apply in relation to bylaws made under regulations made under subsection (2)﻿(d):
   (a) every restriction and every prohibition imposed on individuals by such bylaws shall apply generally to all individuals:
   (b) bylaws shall not come into force until they have been approved by the Minister and have been published in the Gazette:
   (c) the publication in the Gazette of bylaws purporting to have been approved under this subsection shall be conclusive evidence that the bylaws have been duly made and approved under this section.
@@ -3253,12 +3257,12 @@ If a proposal for the establishment of a taiapure-local fishery has been made un
 (2) The Minister may impose such a closure, restriction, or prohibition only if he or she is satisfied that it will recognise and make provision for the use and management practices of tangata whenua in the exercise of non-commercial fishing rights by—
   (a) improving the availability or size (or both) of a species of fish, aquatic life, or seaweed in the area subject to the closure, restriction, or prohibition; or
   (b) recognising a customary fishing practice in that area.
-(3) Before imposing a fishing method restriction or prohibition under subsection (1)(b), the Minister must be satisfied that the method is having an adverse effect on the use and management practices of tangata whenua in the exercise of non-commercial fishing rights.
+(3) Before imposing a fishing method restriction or prohibition under subsection (1)﻿(b), the Minister must be satisfied that the method is having an adverse effect on the use and management practices of tangata whenua in the exercise of non-commercial fishing rights.
 (4) A notice given under subsection (1) must be publicly notified.
 (5) A notice given under subsection (1)—
   (a) may not be in force beyond 2 years after the date of its notification in the Gazette:
   (b) subject to paragraph (a), may be expressed to be in force for any particular year or period, or for any particular date or dates, or for any particular month or months of the year, week or weeks of the month, or day or days of the week.
-(6) Nothing in subsection (5)(a) prevents a further notice being given under subsection (1) in respect of any species and area before or on or about the expiry of an existing notice that relates to that species and area.
+(6) Nothing in subsection (5)﻿(a) prevents a further notice being given under subsection (1) in respect of any species and area before or on or about the expiry of an existing notice that relates to that species and area.
 (7) Before giving a notice under subsection (1), the Minister must—
   (a) consult such persons as the Minister considers are representative of persons having an interest in the species concerned or in the effects of fishing in the area concerned, including tangata whenua, environmental, commercial, recreational, and local community interests; and
   (b) provide for the input and participation in the decision-making process of tangata whenua with a non-commercial interest in the species or the effects of fishing in the area concerned, having particular regard to kaitiakitanga.
@@ -3282,7 +3286,7 @@ If a proposal for the establishment of a taiapure-local fishery has been made un
 (4) A notice given under subsection (1)—
   (a) may not be in force beyond 2 years after the date of its notification in the Gazette:
   (b) subject to paragraph (a), may be expressed to be in force for any particular year or period, or for any particular date or dates, or for any particular month or months of the year, week or weeks of the month, or day or days of the week.
-(5) Nothing in subsection (4)(a) prevents a further notice being given under subsection (1) in respect of any stock and area before or on or about the expiry of an existing notice that relates to that stock and area.
+(5) Nothing in subsection (4)﻿(a) prevents a further notice being given under subsection (1) in respect of any stock and area before or on or about the expiry of an existing notice that relates to that stock and area.
 (6) Before giving a notice under subsection (1), the chief executive must—
   (a) consult such persons as the chief executive considers are representative of persons having an interest in the stock concerned or in the effects of fishing in the area concerned, including tāngata whenua, environmental, commercial, recreational, and local community interests; and
   (b) provide for the participation in the decision-making process of tāngata whenua with a non-commercial interest in the stock or the effects of fishing in the area concerned, having regard to kaitiakitanga.
@@ -3390,15 +3394,15 @@ The chief executive must not make an aquaculture decision in relation to—
   (a) whether the reservation relates to customary, recreational, or commercial fishing, or a combination of them; and
   (b) if the reservation relates to commercial fishing, the stocks and areas concerned, specifying any stocks subject to the quota management system and any other stock not subject to the quota management system; and
   (c) any other matters required by regulations to be included.
-(5) The chief executive must include, in the notification under subsection (1)(d),—
-  (a) the information specified in subsections (1)(b) and (c), (3), and (4), as appropriate; and
+(5) The chief executive must include, in the notification under subsection (1)﻿(d),—
+  (a) the information specified in subsections (1)﻿(b) and (c), (3), and (4), as appropriate; and
   (b) information about where a copy of the determination or reservation can be obtained.
 
 ### 186I Appeal against aquaculture decision
 [Repealed]
 
 ### 186J Judicial review of aquaculture decision
-(1) Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 30 working days after the notification of the decision under section 186H(2)(a).
+(1) Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 30 working days after the notification of the decision under section 186H(2)﻿(a).
 (2) The chief executive must notify the relevant regional council of—
   (a) any proceedings brought to seek judicial review of an aquaculture decision; and
   (b) the result of those proceedings, including any appeals.
@@ -3440,7 +3444,7 @@ A fish farmer may not transfer, lease, or assign his or her registration as a fi
 (2) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in section 252(5).
 
 ### 186Q Exemptions
-(1) The chief executive may, by notice in the Gazette, grant an exemption for the purposes of section 186P(1)(b).
+(1) The chief executive may, by notice in the Gazette, grant an exemption for the purposes of section 186P(1)﻿(b).
 (2) In deciding whether to grant an exemption, the chief executive must have regard to—
   (a) the scale of the fish farmer's proposed fish farming operations, including the number of sites and the quantity of fish, aquatic life, or seaweed involved; and
   (b) the species of the fish, aquatic life, or seaweed proposed to be farmed; and
@@ -3519,7 +3523,7 @@ A District Court may at any time on application by a fish farmer whose registrat
 (1) The chief executive must revoke the registration of a fish farmer if—
   (a) the fish farmer concerned requests the chief executive to do so; or
   (b) the chief executive is satisfied that the fish farmer has ceased to be entitled to be registered.
-(2) The chief executive must not revoke the registration of a fish farmer under subsection (1)(b) unless the chief executive has—
+(2) The chief executive must not revoke the registration of a fish farmer under subsection (1)﻿(b) unless the chief executive has—
   (a) given the fish farmer concerned notice in writing of the proposed revocation and the grounds on which it is based; and
   (b) given the fish farmer a reasonable opportunity to make submissions to the chief executive.
 (3) If the chief executive revokes the registration of a fish farmer under this section, the chief executive must give the fish farmer a notice in writing of the revocation and the date on which the revocation takes effect.
@@ -3575,7 +3579,7 @@ In this subpart, unless the context otherwise requires,—
   (a) the consents of the registered quota owners of the stock holding not less than 75% of the quota shares for the stock; and
   (b) to the extent that the consents referred to in paragraph (a) are given by persons holding 75% or more but less than 100% of the quota shares for the stock, the consent of the High Court in relation to the persons who did not consent.
 (3) After an aquaculture agreement is registered, no person whose consent is contained in the agreement may revoke the consent, but the consent and the aquaculture agreement itself come to an end when the coastal permit to which they relate comes to an end, unless the coastal permit is replaced by a new permit in accordance with section 165ZH of the Resource Management Act 1991.
-(4) For the purposes of this section, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which the chief executive gives notice of a reservation under section 186H(2)(a) in relation to the coastal permit concerned.
+(4) For the purposes of this section, subsection (2) applies to the persons specified in that subsection as at 5 pm on the date on which the chief executive gives notice of a reservation under section 186H(2)﻿(a) in relation to the coastal permit concerned.
 
 ### 186ZG High Court may consent to aquaculture agreement on behalf of non-consenting persons
 (1) A person wishing to lodge an aquaculture agreement with the chief executive may, for the purposes of section 186ZF(2), apply to the High Court for its consent to the lodging of the agreement.
@@ -3612,14 +3616,14 @@ In this subpart, unless the context otherwise requires,—
 ### 186ZI Period within which aquaculture agreements must be lodged for registration
 (1) An aquaculture agreement must be lodged with the chief executive for registration—
   (a) on the approved form and be accompanied by the prescribed fee; and
-  (b) within 6 months after the notification of the reservation under section 186H(2)(a) in relation to the coastal permit concerned.
+  (b) within 6 months after the notification of the reservation under section 186H(2)﻿(a) in relation to the coastal permit concerned.
 (2) However, the chief executive may give a person a further 3 months to lodge an aquaculture agreement if the chief executive is satisfied that—
   (a) the person has taken reasonable steps to obtain the consents required; and
   (b) the person requires further time to obtain all the consents.
 (3) An extension of time may be granted under subsection (2) only—
   (a) once to a person in respect of aquaculture activities in the same area; and
-  (b) if the person concerned applies in writing to the chief executive not later than 1 month before the expiry of the 6-month period specified in subsection (1)(b).
-(4) The period of 6 months referred to in subsection (1)(b) does not include—
+  (b) if the person concerned applies in writing to the chief executive not later than 1 month before the expiry of the 6-month period specified in subsection (1)﻿(b).
+(4) The period of 6 months referred to in subsection (1)﻿(b) does not include—
   (a) any extension of the time granted under subsection (2); and
   (b) the period beginning with the day on which an application to the High Court is made under section 186ZG(1) and ending on the day on which the High Court gives its decision; and
   (c) the period beginning with the day on which proceedings are brought seeking judicial review of the chief executive's aquaculture decision and ending on the day on which the proceedings are finally disposed of.
@@ -3628,16 +3632,16 @@ In this subpart, unless the context otherwise requires,—
 ### 186ZIA Period within which compensation declaration must be lodged for registration
 (1) A compensation declaration must be lodged with the chief executive for registration—
   (a) on the approved form and be accompanied by the prescribed fees; and
-  (b) within 6 months after the date of the notification of the reservation under section 186H(2)(a) in relation to the coastal permit concerned.
+  (b) within 6 months after the date of the notification of the reservation under section 186H(2)﻿(a) in relation to the coastal permit concerned.
 (2) However, the chief executive may give a person a further 3 months to lodge a compensation declaration if the chief executive is satisfied that—
   (a) the person has taken reasonable steps to provide compensation to quota owners in accordance with sections 186ZN and 186ZQ; and
   (b) the person requires further time to provide the compensation.
 (3) An extension of time may be granted under subsection (2) only—
   (a) once to a person in respect of aquaculture activities in the same area; and
-  (b) if the person concerned applies in writing to the chief executive not later than 1 month before the expiry of the 6-month period specified in subsection (1)(b).
-(4) The period of 6 months referred to in subsection (1)(b) does not include—
+  (b) if the person concerned applies in writing to the chief executive not later than 1 month before the expiry of the 6-month period specified in subsection (1)﻿(b).
+(4) The period of 6 months referred to in subsection (1)﻿(b) does not include—
   (a) any extension of time granted under subsection (2); and
-  (b) the period beginning on the day on which arbitration proceedings are commenced and ending on the day on which the arbitrator makes a determination under section 186ZP(5) or, if the arbitrator does not make a determination under that provision, the day on which the arbitrator makes a determination or decision under section 186ZP(6)(a) or (b); and
+  (b) the period beginning on the day on which arbitration proceedings are commenced and ending on the day on which the arbitrator makes a determination under section 186ZP(5) or, if the arbitrator does not make a determination under that provision, the day on which the arbitrator makes a determination or decision under section 186ZP(6)﻿(a) or (b); and
   (c) the period beginning with the day on which proceedings are brought seeking judicial review of the chief executive's aquaculture decision and ending on the day on which the proceedings are finally disposed of.
 
 ### 186ZJ No proceedings to be taken against chief executive
@@ -3657,12 +3661,12 @@ In this subpart, unless the context otherwise requires,—
 
 ### 186ZL Memorials
 (1) Subsection (2) applies if the chief executive makes a reservation in relation to commercial fishing for stocks subject to the quota management system under section 186E or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
-(2) The chief executive must ensure that a memorial is recorded in the appropriate register against all quota for the stocks specified in a notice given by the chief executive under section 186H or section 41 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the reservation on the date of the notification under section 186H(2)(a).
+(2) The chief executive must ensure that a memorial is recorded in the appropriate register against all quota for the stocks specified in a notice given by the chief executive under section 186H or section 41 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 in relation to the reservation on the date of the notification under section 186H(2)﻿(a).
 (3) A memorial must be to the effect that—
   (a) the chief executive has made a reservation in relation to commercial fishing for stocks subject to the quota management system under section 186E or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; and
   (b) as a result, an aquaculture agreement, or compensation declaration, can be registered under this Part; and
   (c) if an agreement or a declaration is registered, fishing may be affected by aquaculture activities being undertaken in the area subject to the reservation.
-(4) A memorial recorded in a register under subsection (2) must be cancelled on the expiry of the period specified in section 186ZI(1)(b) or 186ZIA(1)(b) or any extension of those periods under section 186ZI(4) or 186ZIA(4).
+(4) A memorial recorded in a register under subsection (2) must be cancelled on the expiry of the period specified in section 186ZI(1)﻿(b) or 186ZIA(1)﻿(b) or any extension of those periods under section 186ZI(4) or 186ZIA(4).
 (5)
 
 **Pre-request aquaculture agreements**
@@ -3690,9 +3694,9 @@ In this subpart, unless the context otherwise requires,—
 ### 186ZN Compensation to be provided by coastal permit holder to affected quota owners if aquaculture agreement not lodged
 (1) This section applies if—
   (a) the chief executive has, in relation to a coastal permit, made a reservation in relation to commercial fishing of quota management stock; and
-  (b) the holder of the coastal permit has not lodged an aquaculture agreement in respect of the stock before the expiry of the period specified in section 186ZI(1)(b) or any extension of that period under section 186ZI(2), subject in either case to section 186ZI(4).
+  (b) the holder of the coastal permit has not lodged an aquaculture agreement in respect of the stock before the expiry of the period specified in section 186ZI(1)﻿(b) or any extension of that period under section 186ZI(2), subject in either case to section 186ZI(4).
 (2) If the holder of the permit wishes to undertake aquaculture activities authorised by the permit, the holder must provide to each affected quota owner compensation for the loss of value of the owner's affected quota as determined by an arbitrator appointed in accordance with section 186ZO.
-(3) In subsection (2), quota owner means a person who is a registered quota owner as at 5 pm on the date on which the relevant reservation is notified in the Gazette under section 186H(2)(a).
+(3) In subsection (2), quota owner means a person who is a registered quota owner as at 5 pm on the date on which the relevant reservation is notified in the Gazette under section 186H(2)﻿(a).
 
 ### 186ZO Submission to arbitration
 (1) The holder of a coastal permit may submit to an arbitrator a request to determine the amount of compensation to be provided under section 186ZN and the provisions of the Arbitration Act 1996 (other than those relating to the appointment of an arbitrator) apply as if this section were an arbitration agreement.
@@ -3708,15 +3712,15 @@ In this subpart, unless the context otherwise requires,—
 (3) The arbitrator must determine the question on the basis of data and analysis provided by—
   (a) the holder of the coastal permit; and
   (b) the quota owners concerned.
-(4) In determining the question, the arbitrator must follow the methodology specified in any regulations made under section 186ZR(1)(a).
+(4) In determining the question, the arbitrator must follow the methodology specified in any regulations made under section 186ZR(1)﻿(a).
 (5) The arbitrator must determine the compensation payable to quota owners if the arbitrator determines the question in favour of the proposed aquaculture activities.
 (6) The arbitrator must not determine the compensation payable to quota owners if the arbitrator—
   (a) determines the question in favour of the fishing in relation to which the chief executive has made a reservation; or
   (b) decides that the question cannot be determined one way or the other.
 
 ### 186ZQ Determination of compensation
-(1) In determining the compensation to be awarded to quota owners, an arbitrator must follow the methodology specified in any regulations made under section 186ZR(1)(b).
-(2) For the purposes of section 186ZR(3)(a)(ii), the holder of the coastal permit and quota owners may submit proposals to the arbitrator that set out the maximum extent to which complementary use may be made of the site concerned for particular quota stocks and aquaculture activities.
+(1) In determining the compensation to be awarded to quota owners, an arbitrator must follow the methodology specified in any regulations made under section 186ZR(1)﻿(b).
+(2) For the purposes of section 186ZR(3)﻿(a)﻿(ii), the holder of the coastal permit and quota owners may submit proposals to the arbitrator that set out the maximum extent to which complementary use may be made of the site concerned for particular quota stocks and aquaculture activities.
 (3) The level of compensation provided under subsection (1) must be the same for each quota share for each quota stock.
 (4) The compensation awarded under subsection (1) must—
   (a) be provided to the persons holding quota for the fish stock subject to the reservation; and
@@ -3727,8 +3731,8 @@ In this subpart, unless the context otherwise requires,—
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing—
   (a) a methodology for determining the question in section 186ZP(2); and
   (b) for the purposes of section 186ZQ, a methodology for calculating the loss in value of affected quota due to the aquaculture activities authorised by a coastal permit.
-(2) The methodology prescribed under subsection (1)(a) must set out the type of data and analysis required for determining whether the proposed aquaculture activities or the fishing in respect of which the chief executive has made a reservation is of greater economic value to New Zealand.
-(3) The methodology prescribed under subsection (1)(b) must—
+(2) The methodology prescribed under subsection (1)﻿(a) must set out the type of data and analysis required for determining whether the proposed aquaculture activities or the fishing in respect of which the chief executive has made a reservation is of greater economic value to New Zealand.
+(3) The methodology prescribed under subsection (1)﻿(b) must—
   (a) provide for compensation to be calculated in proportion to the impact on fishing, including—
     (i) increased fishing costs and any consequential disruption costs as a result of the proposed aquaculture activities, including a sum by way of solatium to fishing interests for any adjustments required as a result of the impact of the aquaculture activities; and
     (ii) any complementary uses that might exist for the site in accordance with any submissions made under section 186ZQ(2); and
@@ -3785,7 +3789,7 @@ The following persons shall keep such accounts and records, and provide to the c
 (1) For the purpose of this Act, the chief executive may, in any particular case or class of cases,—
   (a) require accounts, records, returns, and other information additional to those specified in regulations made under this Act to be kept and provided to the chief executive, by any person referred to in section 189; and
   (b) specify the manner and form in which such accounts, records, returns, and other information are to be kept and provided.
-(2) Every person who fails to comply with a specification of the chief executive under subsection (1)(b) commits an offence and is liable to the penalty specified in section 252(3).
+(2) Every person who fails to comply with a specification of the chief executive under subsection (1)﻿(b) commits an offence and is liable to the penalty specified in section 252(3).
 
 **Disposal of fish**
 
@@ -3809,7 +3813,7 @@ The following persons shall keep such accounts and records, and provide to the c
 (6) Every commercial fisher commits an offence and is liable to the penalty set out in section 252(3) who contravenes any provision of this section.
 (7) In proceedings for an offence relating to a contravention of subsection (1),—
   (a) the prosecutor need not assert in the charging document that any exception or excuse in subsection (2) or (5) does not apply; and
-  (b) the burden of proving that the exception set out in subsection (5)(d) applies lies on the defendant.
+  (b) the burden of proving that the exception set out in subsection (5)﻿(d) applies lies on the defendant.
 
 ### 192 Restrictions on purchase or acquisition of fish by certain persons
 (1) No commercial fisher shall purchase, acquire, or be in possession of any fish, aquatic life, or seaweed for the purpose of sale, unless the fish, aquatic life, or seaweed was—
@@ -3834,7 +3838,7 @@ The following persons shall keep such accounts and records, and provide to the c
 (6A) In proceedings for an offence relating to a contravention of any of subsections (1) to (5),—
   (a) the prosecutor need not assert in the charging document that any exception or excuse in those subsections does not apply; and
   (b) the burden of proving that any exception or excuse applies lies on the defendant.
-(7) For the purposes of subsection (2)(c), fish, aquatic life, or seaweed is acquired or possessed by a licensed fish receiver in accordance with this subsection if the fish, aquatic life, or seaweed—
+(7) For the purposes of subsection (2)﻿(c), fish, aquatic life, or seaweed is acquired or possessed by a licensed fish receiver in accordance with this subsection if the fish, aquatic life, or seaweed—
   (a) is held by the licensed fish receiver for a person for storage or processing; and
   (b) was taken by that person in accordance with any relevant amateur or Maori customary non-commercial fishing regulations made under this Act; and
   (c) is held by the licensed fish receiver with the approval in writing of the chief executive (which approval may be granted either generally or particularly) but was not so held before that approval was granted; and
@@ -3915,7 +3919,7 @@ For the purpose of this Act, any person in possession of any fish, aquatic life,
     (ii) the area or areas to which the warrant relates:
     (iii) if appropriate, the species or stock of fish, aquatic life, or seaweed to which the warrant relates:
   (c) to any person appointed under section 222 to be an examiner a warrant specifying such of the powers conferred on fishery officers under this Act as the person may exercise.
-(1A) Except as otherwise specified in the warrant, a warrant issued to an honorary fishery officer under subsection (1)(b) applies to all species or stocks of fish, aquatic life, or seaweed.
+(1A) Except as otherwise specified in the warrant, a warrant issued to an honorary fishery officer under subsection (1)﻿(b) applies to all species or stocks of fish, aquatic life, or seaweed.
 (2) On the termination of a person's appointment as a fishery officer, honorary fishery officer, or examiner under this Act, the person shall surrender to the chief executive any warrant issued to the person in respect of that appointment.
 
 ### 198A Powers may be exercised outside New Zealand fisheries waters
@@ -3931,7 +3935,7 @@ To avoid doubt, the powers of a fishery officer conferred by or under this Part 
     (iii) examine any record, authority, approval, permission, licence, or authority in that thing or at that place that may be relevant to monitoring compliance with this Act or any regulations made under this Act; or
     (iv) examine any article, gear, container, apparatus, device, or thing relating to the taking, sale, purchase, farming, or possession of any fish, aquatic life, or seaweed that is in that thing or at that place:
   (b) enter, pass across, or remain upon any land for the purpose of observing any public place, including by the use of a visual surveillance device:
-  (c) stop any person and examine any thing referred to in paragraph (a)(i) to (iv) that is in the possession of that person:
+  (c) stop any person and examine any thing referred to in paragraph (a)﻿(i) to (iv) that is in the possession of that person:
   (d) for the purposes of any examination under paragraph (a) or (c),—
     (i) open, or direct any person to open, any thing that may be examined; and
     (ii) take any sample of a thing that may be examined, for forensic or other scientific testing:
@@ -4047,11 +4051,11 @@ If, in the opinion of the chief executive, any fish, aquatic life, seaweed, or o
   (a) any person has been charged with an offence under this Act and conviction for that offence may result in forfeiture of quota under section 255C or section 255D; or
   (b) a fishery officer believes on reasonable grounds that any person has committed such an offence,—
 (2) A court may at any time, on application by the owner of any quota or the owner of any quota alleged to be associated quota, order that any caveat registered in respect of quota in accordance with a direction under subsection (1) shall not apply in respect of the quota or any part of the quota, whether generally or in respect of any specified dealing in the quota, and any such order may be subject to such sureties and conditions as the court may specify.
-(3) A caveat registered in respect of quota in accordance with a direction to which subsection (1)(a) applies shall have effect until all proceedings in respect of the relevant offence have been finally determined.
-(4) A caveat registered in respect of quota in accordance with a direction to which subsection (1)(b) applies shall lapse on the expiry of the 30th day after the date of its registration, or at such earlier date as may, at the direction of the chief executive, be specified in the caveat.
-(5) Upon application to a court by the chief executive, or any fishery officer, the court may extend the duration of any caveat, registered in respect of quota in accordance with a direction to which subsection (1)(b) applies, for a period of up to 60 days from the date on which the caveat would otherwise expire, and upon such conditions as the court may specify.
+(3) A caveat registered in respect of quota in accordance with a direction to which subsection (1)﻿(a) applies shall have effect until all proceedings in respect of the relevant offence have been finally determined.
+(4) A caveat registered in respect of quota in accordance with a direction to which subsection (1)﻿(b) applies shall lapse on the expiry of the 30th day after the date of its registration, or at such earlier date as may, at the direction of the chief executive, be specified in the caveat.
+(5) Upon application to a court by the chief executive, or any fishery officer, the court may extend the duration of any caveat, registered in respect of quota in accordance with a direction to which subsection (1)﻿(b) applies, for a period of up to 60 days from the date on which the caveat would otherwise expire, and upon such conditions as the court may specify.
 (6) Any application under subsection (5) shall be made before the expiry of the current caveat and the application shall have the effect of extending the duration of the current caveat until the court makes an order determining the application.
-(7) No application under subsection (5) shall be heard by the court unless it is satisfied that notice of the application has been served on any owner of quota, in respect of which quota a caveat has been registered in accordance with a direction to which subsection (1)(b) applies, at least 7 days before the hearing of the application.
+(7) No application under subsection (5) shall be heard by the court unless it is satisfied that notice of the application has been served on any owner of quota, in respect of which quota a caveat has been registered in accordance with a direction to which subsection (1)﻿(b) applies, at least 7 days before the hearing of the application.
 (8) On any decision being made not to file a charging document against the person, the chief executive must immediately arrange for any caveat registered in accordance with a direction under subsection (1) to be cancelled.
 (9) In this section, except for subsection (1), the terms quota and quota shares include associated quota as defined in section 255.
 
@@ -4063,7 +4067,7 @@ If, in the opinion of the chief executive, any fish, aquatic life, seaweed, or o
   (a) within New Zealand:
   (b) in New Zealand fisheries waters:
   (c) beyond New Zealand fisheries waters.
-(3) Subsection (2)(c) does not authorise a fishery officer to exercise any powers under this Act in respect of any foreign vessel or any person aboard any such vessel unless the fishery officer—
+(3) Subsection (2)﻿(c) does not authorise a fishery officer to exercise any powers under this Act in respect of any foreign vessel or any person aboard any such vessel unless the fishery officer—
   (a) believes on reasonable grounds that any person on board the vessel has committed an offence in New Zealand fisheries waters; and
   (b) is in fresh pursuit of, or has freshly pursued, the vessel; and
   (c) commenced that pursuit in New Zealand fisheries waters.
@@ -4102,7 +4106,7 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 (5) The chief executive must, after receiving the investigator's report and after giving the fishery officer or high seas fishery inspector concerned the opportunity to comment on it,—
   (a) decide whether the complaint should be upheld in whole or in part; and
   (b) notify the fishery officer, or high seas fishery inspector, and the complainant of the chief executive's decision.
-(6) If the chief executive is satisfied that a complaint may, if proven, amount to serious misconduct or serious neglect of duty, the investigator appointed under subsection (3)(b) to inquire into the complaint and report in accordance with subsection (4) shall be a person who—
+(6) If the chief executive is satisfied that a complaint may, if proven, amount to serious misconduct or serious neglect of duty, the investigator appointed under subsection (3)﻿(b) to inquire into the complaint and report in accordance with subsection (4) shall be a person who—
   (a) is not an employee of the Ministry; and
   (b) has held a practising certificate as a barrister or solicitor for at least 7 years.
 (7) The investigator referred to in subsection (6) has the same powers as are conferred on a Commission of Inquiry by the Commissions of Inquiry Act 1908, and all the provisions of that Act, except sections 11 and 12 (which relate to costs), shall apply accordingly.
@@ -4177,13 +4181,13 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 (4) Every person commits an offence and is liable to the penalty set out in section 252(3) who contravenes or fails to comply with subsection (1).
 
 ### 227A Installation and maintenance of equipment on vessels may be required
-The chief executive may require, in relation to any vessel, that specified equipment to observe fishing and transportation be installed and maintained on the vessel in accordance with regulations made under section 297(1)(ca).
+The chief executive may require, in relation to any vessel, that specified equipment to observe fishing and transportation be installed and maintained on the vessel in accordance with regulations made under section 297(1)﻿(ca).
 
 ## Part 13 — Offences and penalties
 
 ### 228 Breach of conditions or requirements
 (1) Every person commits an offence who contravenes, or fails to comply with,—
-  (a) any sustainability measure implemented by notice in the Gazette under section 11(4)(b)(i); or
+  (a) any sustainability measure implemented by notice in the Gazette under section 11(4)﻿(b)﻿(i); or
   (b) any condition or requirement imposed by the chief executive in respect of any consent, approval, authority, permission, or certificate issued or granted under this Act (other than a requirement to pay a sum of money).
 (2) Every person who commits an offence against subsection (1) is liable to the penalty set out in section 252(5).
 
@@ -4276,10 +4280,10 @@ The chief executive may require, in relation to any vessel, that specified equip
 (3) All such charges shall be heard together unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
 
 ### 240 Strict liability
-In any proceedings for an offence against this Act it is not necessary for the prosecution to prove that the defendant intended to commit the offence, except in the case of an offence against any of sections 78A(8) and (9), 79A(8) and (9), 231, 233, 235, 257(2), 296B(5), and 296ZC(3)(b) and (c).
+In any proceedings for an offence against this Act it is not necessary for the prosecution to prove that the defendant intended to commit the offence, except in the case of an offence against any of sections 78A(8) and (9), 79A(8) and (9), 231, 233, 235, 257(2), 296B(5), and 296ZC(3)﻿(b) and (c).
 
 ### 241 Defence available under this Act
-(1) Subject to this section, it is a defence in any proceedings for an offence against this Act (other than an offence against section 231 or section 233 or section 235 or section 257(2) or section 296B(5) or section 296ZC(3)(b) or (c)), if the defendant proves—
+(1) Subject to this section, it is a defence in any proceedings for an offence against this Act (other than an offence against section 231 or section 233 or section 235 or section 257(2) or section 296B(5) or section 296ZC(3)﻿(b) or (c)), if the defendant proves—
   (a) that—
     (i) the contravention was due to the act or default of another person, or to an accident or to some other cause beyond the defendant's control; and
     (ii) the defendant took reasonable precautions and exercised due diligence to avoid the contravention; and
@@ -4287,7 +4291,7 @@ In any proceedings for an offence against this Act it is not necessary for the p
     (i) the defendant immediately returned the fish, aquatic life, or seaweed to the waters from which they were taken except where such return was prohibited by this Act; and
     (ii) the defendant complied with all the material requirements of this Act in respect of the recording and reporting of the taking, return, or landing of the fish, aquatic life, or seaweed.
 (2)
-(3) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the person or the nature of the accident or cause relied on by the defendant.
+(3) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)﻿(a) unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the person or the nature of the accident or cause relied on by the defendant.
 
 ### 242 Defence for all quota management stocks
 [Repealed]
@@ -4310,7 +4314,7 @@ If, in the course of any proceedings against a body corporate for an offence aga
   (b) the purpose or motive of the relevant person referred to in paragraph (a) or paragraph (b) of subsection (1) or paragraph (a) or paragraph (b) of subsection (2); and
   (c) the relationship between the person or body corporate and the relevant person referred to in paragraph (a) or paragraph (b) of subsection (1) or paragraph (a) or paragraph (b) of subsection (2), or between the person or body corporate and any person appearing or likely to benefit from the alleged offence; and
   (d) in the case of a body corporate, whether or not any person responsible for, or closely associated with, the management of the body corporate appears to have benefited from the act or omission, or would have been likely to benefit if the alleged offence had remained undetected; and
-  (e) whether or not the person or body corporate had taken all reasonable steps and exercised due diligence to control the activities of the relevant person referred to in subsection (1)(a) or (b) or subsection (2)(a) or (b), to ensure that the act or omission did not occur.
+  (e) whether or not the person or body corporate had taken all reasonable steps and exercised due diligence to control the activities of the relevant person referred to in subsection (1)﻿(a) or (b) or subsection (2)﻿(a) or (b), to ensure that the act or omission did not occur.
 (4) For the purposes of this section,—
   (a) a person may act as an agent of another person or body corporate whether or not the first-mentioned person is employed by the other person or body corporate and whether or not acting for reward:
   (b) any agent or employee of a person acting as an agent shall be deemed to be also acting as an agent for the other person or body corporate referred to in paragraph (a).
@@ -4375,8 +4379,8 @@ If it is provided in this Act that any presumption is to apply in respect of any
   (b) section 231(2) (using a false communication, etc to obtain a benefit):
   (c) section 233(1) and (2) (knowingly acting in contravention of Act to obtain a benefit):
   (d) section 296B(5) (approved service delivery organisation knowingly falsifying information):
-  (e) section 296ZC(3)(b) (approved service delivery organisation knowingly supplying false or misleading information to the Minister):
-  (f) section 296ZC(3)(c) (approved service delivery organisation knowingly omitting material particular in information supplied to the Minister).
+  (e) section 296ZC(3)﻿(b) (approved service delivery organisation knowingly supplying false or misleading information to the Minister):
+  (f) section 296ZC(3)﻿(c) (approved service delivery organisation knowingly omitting material particular in information supplied to the Minister).
 (2) Every person convicted of an offence against section 84(3) (licensing offences by foreign vessels) is liable to a fine not exceeding $500,000.
 (3) Every person convicted of an offence against any of the following provisions of this Act is liable to a fine not exceeding $250,000:
   (a)
@@ -4404,7 +4408,7 @@ If it is provided in this Act that any presumption is to apply in respect of any
   (m) section 230(1) (neglecting or refusing to supply particulars or improperly disclosing information):
   (n) section 232(1) and (2) (buying, selling, or possessing fish contrary to this Act):
   (o) section 271(2) (failure to keep or provide records or returns):
-  (p) section 296ZC(3)(a) (failure by an approved service delivery organisation to supply information to the Minister):
+  (p) section 296ZC(3)﻿(a) (failure by an approved service delivery organisation to supply information to the Minister):
   (q) section 296ZD(2) (failure by an approved service delivery organisation to have information audited).
 (4) Every person convicted of an offence against section 257(2) (prohibition of fishing activity in case of reoffending) is liable to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000.
 (5) Every person convicted of an offence against any of the following provisions of this Act is liable to a fine not exceeding $100,000:
@@ -4481,7 +4485,7 @@ If any person is convicted of an offence against this Act, the court shall, in i
   (b) a copy of a reminder notice in respect of the infringement offence is filed or a reminder notice is deemed to have been filed in a court under section 21 of the Summary Proceedings Act 1957, as the case requires, within 6 months from the time when the offence is alleged to have been committed; or
   (c) the informant and the defendant, in respect of the infringement notice, enter into an arrangement under section 21(3A) of the Summary Proceedings Act 1957 allowing the defendant to pay the relevant infringement fee by instalments; or
   (d) the person is found guilty, or admits the commission, of the infringement offence.
-(2) The following are forfeit to the Crown unless (if subsection (1)(d) applies) the court for special reasons relating to the offence orders otherwise:
+(2) The following are forfeit to the Crown unless (if subsection (1)﻿(d) applies) the court for special reasons relating to the offence orders otherwise:
   (a) any fish of an amount or quantity not exceeding 3 times the amateur individual daily prescribed limit; and
   (b) any proceeds from the sale of that fish.
 
@@ -4496,7 +4500,7 @@ If any person is convicted of an offence against this Act, the court shall, in i
 (2) The following are forfeit to the Crown unless the court for special reasons relating to the offence orders otherwise:
   (a) any fish and any proceeds from the sale of such fish; and
   (b) any illegal fishing gear in respect of which the offence was committed (whether or not seized under section 207).
-(3) On conviction of a person for an offence referred to in subsection (1)(d), the court may order that any property used in the commission of the offence is forfeit to the Crown.
+(3) On conviction of a person for an offence referred to in subsection (1)﻿(d), the court may order that any property used in the commission of the offence is forfeit to the Crown.
 
 ### 255C Forfeiture for section 252(2), (3), and (5) offences, offences carrying fine of $100,000, repeat offences, and serious non-commercial offences
 (1) Subsection (2) applies in the following cases:
@@ -4595,7 +4599,7 @@ If any person is convicted of an offence against this Act, the court shall, in i
   (j) the prevalence of offending of the type from which the forfeiture arose; and
   (k) the cost to the Ministry of the prosecution of the offence which resulted in the forfeiture, and the seizure, holding, and anticipated cost of disposal of the property or quota, including the court proceedings in respect of that seizure, holding, and disposal,—
 (8) No order shall be made under subsection (7) unless—
-  (a) it is necessary to avoid manifest injustice or to satisfy an interest referred to in paragraph (b)(ii) or (iii) of the definition of interest in subsection (1).
+  (a) it is necessary to avoid manifest injustice or to satisfy an interest referred to in paragraph (b)﻿(ii) or (iii) of the definition of interest in subsection (1).
   (b)
 (9)
 (10)
@@ -4735,8 +4739,8 @@ Without limiting anything in section 264, but subject to section 265A, the Minis
 (4) For the purposes of subsections (2) and (3) and section 265, in determining the amount that it would be appropriate to recover by way of levy under this Part before the need (if any) to reduce that amount by any settlement sum,—
   (a) no regard is to be had to the costs of any conservation services or fisheries services incurred by the Crown in any financial year ending on or before 30 September 2002, except where those costs arise from conservation services or fisheries services initiated but not completed on or before 30 September 2002; and
   (b) any previous reduction in the amount of costs recovered or recoverable by virtue of the application of any settlement sum under this section must be disregarded.
-(5) The Minister must, as soon as practicable after making any recommendation under section 264 that has required an adjustment under subsection (1)(b)(i) or subsection (2) or subsection (3), state the remaining balance for each affected stock or grouping by notice in the Gazette.
-(6) In this section, remaining balance means the relevant settlement sum allocated to a stock or grouping under Part 1 of Schedule 9A less all previous adjustments made by the Minister under subsection (1)(b)(i) or subsection (2), and less or plus (as the case may require) any adjustments made by the Minister under subsection (3).
+(5) The Minister must, as soon as practicable after making any recommendation under section 264 that has required an adjustment under subsection (1)﻿(b)﻿(i) or subsection (2) or subsection (3), state the remaining balance for each affected stock or grouping by notice in the Gazette.
+(6) In this section, remaining balance means the relevant settlement sum allocated to a stock or grouping under Part 1 of Schedule 9A less all previous adjustments made by the Minister under subsection (1)﻿(b)﻿(i) or subsection (2), and less or plus (as the case may require) any adjustments made by the Minister under subsection (3).
 
 ### 266 Other fees, charges, or levies
 (1) This part does not—
@@ -4928,20 +4932,20 @@ Except as expressly otherwise provided in this Act, the Catch History Review Com
   (a) whether the function, duty, or power might be more efficiently provided by the chief executive's own employees:
   (b) the desirability of retaining institutional knowledge within the Ministry:
   (c) whether entering into such an arrangement or contract will limit the chief executive's ability to adequately meet his or her statutory obligations.
-(3) In deciding how to perform any function, duty, or power under subsection (1)(b), the chief executive shall give due consideration to the advantages and disadvantages of different options.
-(4) Before entering into any arrangement or contract under subsection (1)(b), the chief executive may, after consultation with the Minister, set contract standards and contract specifications or both which shall be complied with by the other party to the arrangement or contract.
+(3) In deciding how to perform any function, duty, or power under subsection (1)﻿(b), the chief executive shall give due consideration to the advantages and disadvantages of different options.
+(4) Before entering into any arrangement or contract under subsection (1)﻿(b), the chief executive may, after consultation with the Minister, set contract standards and contract specifications or both which shall be complied with by the other party to the arrangement or contract.
 (4A) The chief executive may, after consultation with the Minister and the other party to the arrangement or contract, amend or revoke contract standards and contract specifications set under subsection (4).
-(5) No arrangement or contract under subsection (1)(b) between the chief executive and any other party (other than an agency of the Crown or other instrument of the Crown) may provide for that other party (or person acting on behalf of that other party) to perform or exercise any power that is conferred or imposed on fishery officers (other than honorary fishery officers or examiners) by or under Part 6 of the Fisheries Act 1983 or by or under this Act.
+(5) No arrangement or contract under subsection (1)﻿(b) between the chief executive and any other party (other than an agency of the Crown or other instrument of the Crown) may provide for that other party (or person acting on behalf of that other party) to perform or exercise any power that is conferred or imposed on fishery officers (other than honorary fishery officers or examiners) by or under Part 6 of the Fisheries Act 1983 or by or under this Act.
 (6) Nothing in this section or in any arrangement or contract entered into under the authority of this section relieves the chief executive of the obligation to perform or ensure the performance of any function, duty, or power imposed on the chief executive by this Act or any other Act.
 
 ### 295 Notification of appointments and places for provision of information
 (1) The chief executive may, by notice in the Gazette,—
   (a) notify the appointment of any person or organisation to any position under this Act; and
-  (b) notify that any person or organisation shall perform any of the powers, functions, and duties of the chief executive under any arrangement or contract under section 294(1)(b); and
+  (b) notify that any person or organisation shall perform any of the powers, functions, and duties of the chief executive under any arrangement or contract under section 294(1)﻿(b); and
   (c) appoint places where notices, objections, requests, applications, accounts, records, returns, and other information and documents shall be provided or received under this Act, including places for the purpose of the electronic transmission of accounts, records, returns, transactions, information, notices, objections, requests, applications, and other documents.
 (2) Notwithstanding anything to the contrary in this Act, any notice, objection, request, application, account, record, return, or any other information or document that is required by or under this Act to be provided at any particular place appointed by a notice under subsection (1) shall be deemed not to have been provided until it has been received at that place.
 (3) Notwithstanding anything to the contrary in this Act, any notice, objection, request, application, account, record, return, or any other information or document that is required by or under this Act to be provided in a prescribed or approved manner or form, or accompanied by a prescribed fee, shall be deemed not to have been provided until it has been completed and provided in the prescribed or approved manner or form, or accompanied by the prescribed fee.
-(4) Subject to subsection (4) of section 294, if the chief executive enters into any arrangement or contract under subsection (1)(b) of that section,—
+(4) Subject to subsection (4) of section 294, if the chief executive enters into any arrangement or contract under subsection (1)﻿(b) of that section,—
   (a) any function, duty, or power of the chief executive that forms the subject of the arrangement or contract, and is required by any enactment, regulation, instrument, or document to be performed by the chief executive, may, subject to the terms and conditions of that arrangement, be carried out at such place and by such person with whom the chief executive has entered into the arrangement or contract as the chief executive may specify by notice in the Gazette under subsection (1):
   (b) any person with whom the chief executive has entered into the arrangement or contract may, subject to the terms and conditions of the arrangement or contract, give, provide, or demand any notice, account, record, return, information, demand, or any other thing in relation to any function, duty, or power of the chief executive that forms the subject of the arrangement or contract, and is required by any enactment, regulation, instrument, or document to be given, provided, or demanded by the chief executive.
 
@@ -5030,7 +5034,7 @@ In this Part, unless the context otherwise requires, specified functions, duties
   (a) the approved service delivery organisation has—
     (i) failed to comply with any applicable standards and specifications; or
     (ii) failed to comply with an applicable direction under section 296Q; or
-    (iii) failed to maintain an alternative arrangement under section 296D(1)(b); or
+    (iii) failed to maintain an alternative arrangement under section 296D(1)﻿(b); or
     (iv) failed to comply with a requirement under section 296D(3) to increase the amount of a monetary deposit or bond; or
   (b) there is a serious problem with the organisation within the meaning of section 296ZE(2).
 (4) The Minister must—
@@ -5052,12 +5056,12 @@ The purpose of sections 296H to 296N is to ensure that the chief executive is ab
 (1) If an order made under section 296B expires or is revoked by an order under section 296E (whether or not that order has come into force), the Minister may transfer to the chief executive,—
   (a) by notice in writing to an approved service delivery organisation or any other person, any property of that organisation or person (including intellectual property) that is necessary for the performance or exercise of the functions, duties, and powers for which the organisation is or was responsible under the order made under section 296B; and
   (b) by notice in writing to any person other than an approved service delivery organisation, any rights and obligations of an approved service delivery organisation under any agreement or arrangement (including an employment contract) with that person that relate to the performance or exercise of those functions, duties, or powers.
-(2) The Minister must send a copy of a notice given under subsection (1)(b) to the approved service delivery organisation.
+(2) The Minister must send a copy of a notice given under subsection (1)﻿(b) to the approved service delivery organisation.
 (3) In this section and sections 296I to 296N,—
   - **intellectual property** —
     (a) has the meaning provided for in Article 2 of the Convention establishing the World Intellectual Property Organisation done at Stockholm on 14 July 1967 and in the World Trade Organisation Agreement on the Trade Related Aspects of Intellectual Property Rights done at Marrakesh on 15 April 1994; and
     (b) includes all intellectual property rights, including (without limitation) rights relating to circuit layouts and semi-conductor chip products, confidential information, copyright, geographical indications, patents, plant varieties, registered designs, registered and unregistered trade marks, and service marks
-  - **specified person** means a person to whom a notice is given under subsection (1)(a) or (b) or subsection (2).
+  - **specified person** means a person to whom a notice is given under subsection (1)﻿(a) or (b) or subsection (2).
 
 ### 296I Minister to give notice before transferring property, etc
 The Minister may not give a notice under section 296H unless the Minister—
@@ -5241,7 +5245,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (1) Every approved service delivery organisation must supply to the chief executive,—
   (a) within 5 working days after the statements and information are first made available, a copy of all statements and information made available to the public under regulations made under section 296ZA; and
   (b) any further statements, reports, agreements, particulars, or other information requested in writing by the chief executive that are reasonably necessary for the purpose of monitoring the organisation's compliance with those regulations.
-(2) Every approved service delivery organisation to whom a request is made under subsection (1)(b) must comply with the request within 30 days after receiving it, or within such further period as the chief executive may, in any particular case, allow.
+(2) Every approved service delivery organisation to whom a request is made under subsection (1)﻿(b) must comply with the request within 30 days after receiving it, or within such further period as the chief executive may, in any particular case, allow.
 (3) All statements, reports, agreements, particulars, or information supplied to the chief executive under subsection (1) must be verified by statutory declaration by the persons and in the form prescribed by regulations made under section 296ZA(d).
 
 ### 296ZC Supply of information relating to business of approved service delivery organisation
@@ -5251,8 +5255,8 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (a) fails to comply with any requirements of the Minister under this section; or
   (b) supplies information or data that the organisation is required to supply under this section knowing that it is false or misleading in a material particular; or
   (c) knowingly omits any material particular in any information or data that the organisation is required to supply under this section.
-(4) The penalty on conviction for an offence against subsection (3)(a) is set out in section 252(3).
-(5) The penalty on conviction for an offence against subsection (3)(b) or (c) is set out in section 252(1).
+(4) The penalty on conviction for an offence against subsection (3)﻿(a) is set out in section 252(3).
+(5) The penalty on conviction for an offence against subsection (3)﻿(b) or (c) is set out in section 252(1).
 
 ### 296ZD Requirement that information be audited
 (1) The Minister may, by notice in writing to an approved service delivery organisation, require any information or data that the organisation is required to supply under section 296ZC to be audited by an auditor approved by the Minister.
@@ -5330,7 +5334,7 @@ An auditor must, before disclosing information to the Minister under section 296
     (ii) the time for or within which such accounts, records, returns, and information are to be kept or provided:
     (iii) the person by or to whom such accounts, records, returns, and information are to be kept or provided:
     (iv) the places where such accounts, records, returns, and information are to be kept or provided:
-  (ha) recognising, for the purposes of section 32(2)(b), any form of return or evidence of highly migratory species catch taken in an area outside New Zealand fisheries waters, and specifying any relevant date for the delivery of such return or evidence to the chief executive:
+  (ha) recognising, for the purposes of section 32(2)﻿(b), any form of return or evidence of highly migratory species catch taken in an area outside New Zealand fisheries waters, and specifying any relevant date for the delivery of such return or evidence to the chief executive:
   (hb) providing for the method of calculating provisional catch history for any highly migratory species to ensure consistency with the method used by an international fisheries organisation in determining New Zealand's national allocation for that species:
   (i) making, for the purpose of this Act, rules and other provisions with respect to the manner and order in which catch is to be balanced against annual catch entitlements or individual catch entitlements, including rules—
     (i) prescribing the manner of calculating reported catch and the information or evidence to be used as the basis for calculating such catch:
@@ -5405,7 +5409,7 @@ Without limiting the generality of section 297, the Governor-General may from ti
     (ii) in the case of a licensee or master of a foreign fishing vessel, fines not exceeding $250,000:
   (h) prescribing the forms of notices and the procedures (including procedures and approval methods for the service of notices) to be followed for the purposes of Part 5.
 (2) Regulations made under this section may make different provision for different parts of the exclusive economic zone and for different stocks.
-(3) Regulations made under subsection (1)(e) shall be made on the recommendation of the Minister and, in recommending the making of such regulations, the Minister may take into account the cost of implementing the provisions of this Act with respect to foreign fishing vessels within the exclusive economic zone, including the cost of managing fisheries resources, fisheries research, and the administration and enforcement of this Act and other relevant enactments.
+(3) Regulations made under subsection (1)﻿(e) shall be made on the recommendation of the Minister and, in recommending the making of such regulations, the Minister may take into account the cost of implementing the provisions of this Act with respect to foreign fishing vessels within the exclusive economic zone, including the cost of managing fisheries resources, fisheries research, and the administration and enforcement of this Act and other relevant enactments.
 
 ### 299A Amendments to update Schedule 1A
 (1) The Governor-General may from time to time, by Order in Council,—
@@ -5454,15 +5458,15 @@ Without limiting the generality of section 297, the Governor-General may from ti
     (a) the notice published by the Minister under subsection (1) to replace the revoked notices; or
     (b) the notice published by the chief executive under subsection (2) to replace the revoked notices
   - **revoked notices** means—
-    (a) the 1 or more notices revoked by the Minister's new notice under subsection (1)(a); or
-    (b) the 1 or more notices revoked by the chief executive's new notice under subsection (2)(a).
+    (a) the 1 or more notices revoked by the Minister's new notice under subsection (1)﻿(a); or
+    (b) the 1 or more notices revoked by the chief executive's new notice under subsection (2)﻿(a).
 
 ### 303 Certain notices to have status of regulations
 (1) A notice given under this Act that is required to be published in the Gazette—
   (a) is a regulation for the purposes of the Interpretation Act 1999; and
   (b) is a legislative instrument for the purposes of the Legislation Act 2012, but is not a disallowable instrument for the purposes of that Act and does not have to be presented to the House of Representatives under section 41 of that Act.
 (2) Subsection (1) does not apply to any notice given under any of sections 11, 13, 14, 16, 20, 60, 186K, 186Q, 186ZE, 188, 265A, 283, 295, 296P, 307, 341, 368, and 369.
-(3) A notice given under section 11(4)(b)(i) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) A notice given under section 11(4)﻿(b)﻿(i) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 304 Circulars
 (1) Regulations under this Act may provide for the promulgation from time to time by the chief executive of circulars specifying general criteria for the drawing up, accomplishment, demonstration, carrying on, or provision for any act, plan, proposal, matter, system, process, or thing.
@@ -5474,15 +5478,15 @@ Without limiting the generality of section 297, the Governor-General may from ti
 
 ### 305 Application of Commodity Levies Act 1990
 Notwithstanding anything in the Commodity Levies Act 1990, that Act shall apply to any fish, aquatic life, or seaweed, and any other commodity (as defined in that Act) to which this Act applies with the following modifications:
-  (a) it shall be sufficient compliance with section 5(2)(ac) of that Act if the ballot paper described the proposal clearly, specifying in relation to it all the matters required by section 6(1) of that Act to be specified in a levy order, and the Minister is satisfied that the ballot paper indicated that the imposition of the levy was proposed to be on the basis of 1 or more of the following:
+  (a) it shall be sufficient compliance with section 5(2)﻿(ac) of that Act if the ballot paper described the proposal clearly, specifying in relation to it all the matters required by section 6(1) of that Act to be specified in a levy order, and the Minister is satisfied that the ballot paper indicated that the imposition of the levy was proposed to be on the basis of 1 or more of the following:
     (i) quota shares in respect of the commodity:
     (ii) the landed value of the commodity:
     (iii) the greenweight or meatweight of the commodity:
-  (aa) if it is proposed that the levy will be imposed on the basis of 2 or more of the units of measurement in paragraphs (a)(i) to (iii), the Minister may approve the conversion of 1 or more of those units into another unit, being one of the units in paragraph (a)(i) to (iii) or another unit, if—
+  (aa) if it is proposed that the levy will be imposed on the basis of 2 or more of the units of measurement in paragraphs (a)﻿(i) to (iii), the Minister may approve the conversion of 1 or more of those units into another unit, being one of the units in paragraph (a)﻿(i) to (iii) or another unit, if—
     (i) the Minister is satisfied that it is reasonable to convert to another unit of measurement; and
     (ii) the Minister is satisfied that the method of conversion is reasonable; and
     (iii) the method of conversion is stated in the ballot paper:
-  (b) section 5(2)(af), and (ah) to (ak) of that Act is complied with if the Minister is satisfied that, during any period before the support referendum that the Minister thinks fit, supporters held or landed (as the case may be) more than half of whichever of the following is specified in the ballot paper:
+  (b) section 5(2)﻿(af), and (ah) to (ak) of that Act is complied with if the Minister is satisfied that, during any period before the support referendum that the Minister thinks fit, supporters held or landed (as the case may be) more than half of whichever of the following is specified in the ballot paper:
     (i) the quota shares:
     (ii) the value of the commodity:
     (iii) the greenweight or meatweight of the commodity:
@@ -5697,7 +5701,7 @@ Every licence, permit, approval, authority, notice, certificate, circular, direc
   (b) the applicant for the permit which was the subject of a decision or purported decision referred to in that subsection—a notice requesting the chief executive to review that decision or purported decision.
     (i) has, before the commencement of this section, lodged with the chief executive; or
     (ii) within 12 months after the commencement of this section, lodges with the chief executive—
-(5) Notwithstanding anything in section 93 of this Act or in section 63(13) of the Fisheries Act 1983, if a person has been or is granted a special permit under section 64(1)(c) of that Act or section 97(1)(c) of this Act, being a special permit granted to rectify an administrative error, the following provisions shall apply:
+(5) Notwithstanding anything in section 93 of this Act or in section 63(13) of the Fisheries Act 1983, if a person has been or is granted a special permit under section 64(1)﻿(c) of that Act or section 97(1)﻿(c) of this Act, being a special permit granted to rectify an administrative error, the following provisions shall apply:
   (a) the chief executive may from time to time, but is not obliged to, issue to the person an appropriate fishing permit in place of the special permit:
   (b) upon the commencement of a fishing permit issued to any person under this subsection, the special permit held by that person shall be deemed to be revoked.
 
@@ -5753,23 +5757,23 @@ A provision of any regulation made under this Act, or of any notice made under s
   (b) every person who has been allocated guaranteed minimum individual transferable quota or guaranteed minimum transferable term quota under the Fisheries Act 1983 of the amount of the guaranteed minimum individual transferable quota or guaranteed minimum transferable term quota held by that person as at a date specified in the notice; and
   (c) the persons referred to in paragraph (a) or paragraph (b), of their right to apply to the chief executive, before a date specified by the chief executive in the notice for the purpose, for a review of the details notified to that person under that paragraph.
 (2) Where a person applies to the chief executive for a review of the details notified to that person under subsection (1), in accordance with the notice referred to in paragraph (c) of that subsection, the chief executive shall review those details as soon as reasonably practicable and confirm or modify the details.
-(3) If a person has been notified under subsection (1) of details referred to in that section, but does not seek a review of those details before the close of the date specified in the notice for the purposes of the review, the details notified to the person shall, as from the date specified in the notice under subsection (1)(a), be deemed to be correct.
+(3) If a person has been notified under subsection (1) of details referred to in that section, but does not seek a review of those details before the close of the date specified in the notice for the purposes of the review, the details notified to the person shall, as from the date specified in the notice under subsection (1)﻿(a), be deemed to be correct.
 (4) For the purposes of subsection (1), the chief executive may notify details to the same person on 1 or more occasions and may state details as shown on the relevant register at different dates, but,—then the details which formed the subject of the relevant notification under subsection (1)—
   (a) if those details are deemed under subsection (3) to be correct; or
   (b) if the person applies for a review of those details in accordance with this section and the chief executive confirms those details,—
-  (c) shall not be reviewed under that subsection to the extent that the details relate to any period before the date specified in the notice under subsection (1)(a); and
+  (c) shall not be reviewed under that subsection to the extent that the details relate to any period before the date specified in the notice under subsection (1)﻿(a); and
   (b) shall not be the subject of any review under the Fisheries (Catch Against Quota) Regulations 1993.
 (5) On and from a date to be notified by the chief executive by notice in the Gazette, the chief executive shall refuse to receive for registration—
   (a) any notifications of the transfer or lease of quota (other than a lease of quota for the purposes of section 28ZF or section 28ZG or section 105A(2) of the Fisheries Act 1983, expressed to take effect in the fishing year in which the notice is published, for those stocks in respect of which the fishing year begins on 1 October); and
   (b) documents relating to such transactions or leases.
 (5A) The chief executive must also refuse to receive for registration (whether before or after the date notified under subsection (5)) any notification of the transfer or lease of quota, and any related document, if the transfer, or lease, or related document is expressed to take effect on or after 1 October in the year in which Part 8 comes into force.
 (6) After the date notified in the Gazette under subsection (5), the chief executive may make such entries in the relevant register kept under section 28P of the Fisheries Act 1983 and do such other things as may be necessary for the purposes of—
-  (a) giving effect to any decision under subsection (2) relating to any detail referred to in subsection (1)(a); or
+  (a) giving effect to any decision under subsection (2) relating to any detail referred to in subsection (1)﻿(a); or
   (b) giving effect to any translation of guaranteed maximum individual transferable quota or guaranteed maximum transferable term quota into individual transferable quota under section 342; or
   (c) registering any transaction received by the chief executive before the date notified in the Gazette under subsection (5).
 (7) Notwithstanding anything in this section, if in any year, on or after a date to be notified by the chief executive by notice in the Gazette, the chief executive receives any transfers of annual catch entitlements which are expressed to take effect on 1 October in that year, the chief executive shall forward those transfers to the relevant Registrar of Annual Catch Entitlements on 1 October in that year, in the order in which they were received, as if those transfers were forward transfers under section 133.
 (8) No notice referred to in subsection (7) shall be made before the date of the making of the Order in Council bringing section 66 into effect.
-(9) Notwithstanding anything in the Fisheries Act 1983 or this Act, no transaction or lease referred to in subsection (5)(a) that was entered into at any time after the date specified by notice in the Gazette under subsection (5) shall have any effect under this Act.
+(9) Notwithstanding anything in the Fisheries Act 1983 or this Act, no transaction or lease referred to in subsection (5)﻿(a) that was entered into at any time after the date specified by notice in the Gazette under subsection (5) shall have any effect under this Act.
 
 ### 342 Guaranteed minimum individual transferable quota
 [Repealed]
@@ -5797,7 +5801,7 @@ A provision of any regulation made under this Act, or of any notice made under s
   (b) the quota for the stock concerned is cancelled because of an alteration of a quota management area under section 25.
 (7B) The chief executive must notify the parties to a transfer or lease registered on the Transitional Register if the lease or transfer is cancelled under this Part.
 (8) If—the amount of quota or annual catch entitlement which that other person is entitled to acquire, as recorded on that register, shall be reduced in the same proportion that the deduction of quota shares of the holder of the quota bears to the total quota shares of the holder immediately before the deduction.
-  (a) any determination of an appeal under section 336 necessitates a deduction of quota shares from any person in accordance with subsection (1)(d) of that section; and
+  (a) any determination of an appeal under section 336 necessitates a deduction of quota shares from any person in accordance with subsection (1)﻿(d) of that section; and
   (b) that person has entered into any lease or any other arrangement in relation to quota that is recorded on the Transitional Register whereby any other person is or may become entitled to acquire from that person any amount of quota shares under section 348 or annual catch entitlement under section 347,—
 (8A) The amount of quota or annual catch entitlement to which a lease or other arrangement relates must be reduced in the same proportion as the reduction in the quota holder's quota bears to the total quota shares of the holder immediately before the reduction.
 (8B) Subsection (8A) applies if—
@@ -5822,7 +5826,7 @@ A provision of any regulation made under this Act, or of any notice made under s
   (a) the lessor does not own an amount of annual catch entitlement equal to, or in excess of, the amount of quota that is subject to the lease or sublease (as recorded in the Transitional Register); or
   (b) a caveat is registered over an amount of the lessor's annual catch entitlement preventing the transfer of an amount of annual catch entitlement equal to, or in excess of, the amount of quota that is subject to the lease or sublease (as recorded in the Transitional Register).
 (4) If a lease registered on the Transitional Register under section 345 expires or otherwise ceases to have effect, the lessor is not entitled to receive a transfer back of any annual catch entitlement transferred to the lessee under subsection (1) or subsection (2).
-(5) A transfer of annual catch entitlement under this section must be actioned in the order specified in regulations made under section 297(1)(sa).
+(5) A transfer of annual catch entitlement under this section must be actioned in the order specified in regulations made under section 297(1)﻿(sa).
 (6)
 
 ### 347A Provisions relating to transfer of annual catch entitlement under leases in first fishing year
@@ -5861,9 +5865,9 @@ Notwithstanding the repeal of any provision of the Fisheries Act 1983 by section
 ### 357 Provision relating to minimum quota holdings
 (1) Every person who, immediately before the repeal of section 28S of the Fisheries Act 1983 by section 314, was entitled to take under quota or a lease of quota under the Fisheries Act 1983 an amount of fish, aquatic life, or seaweed less than the applicable minimum holding set out in section 28S(1) of that Act, shall be subject to section 74 as if that amount of quota had been allocated to that person under this Act.
 (2) Every person who—is subject to section 74 as if the amount of quota owned or held by that person immediately prior to the repeal of section 28S of the Fisheries Act 1983 had been allocated to that person under this Act.
-  (a) immediately before the repeal of section 28S of the Fisheries Act 1983 by section 314 of this Act owned or held quota in excess of any minimum holding specified in section 28S(1)(a) or section 28S(1)(b) of the Fisheries Act 1983; and
+  (a) immediately before the repeal of section 28S of the Fisheries Act 1983 by section 314 of this Act owned or held quota in excess of any minimum holding specified in section 28S(1)﻿(a) or section 28S(1)﻿(b) of the Fisheries Act 1983; and
   (b) at the beginning of the fishing year in which this section comes into force is allocated, or has transferred to them under section 347 or section 347A, less annual catch entitlement for a stock listed in Schedule 8 than is specified in section 74(1),—
-(3) Where a lease was the basis for a person's allocation of annual catch entitlement for any stock referred to in subsection (2)(b), whether in whole or in part, subsection (2) ceases to apply in respect of that person and that stock when the lease expires or otherwise ends.
+(3) Where a lease was the basis for a person's allocation of annual catch entitlement for any stock referred to in subsection (2)﻿(b), whether in whole or in part, subsection (2) ceases to apply in respect of that person and that stock when the lease expires or otherwise ends.
 (4) This section is subject to section 340AA.
 
 ### 358 Provisions relating to permissions granted to overseas quota owners under section 28Z of Fisheries Act 1983
@@ -5894,19 +5898,19 @@ Every consent granted under section 28W(3) of the Fisheries Act 1983 and in forc
   (d) any reference in the sections referred to in subsection (1) to the Registrar of Quota shall be read as a reference to the chief executive, and every reference to the Register of Quota shall be read as a reference to the registers maintained under section 28P of the Fisheries Act 1983, in each case until Part 8 comes into force:
   (e) the references in sections 35(6) and 39(2) to the quota weight equivalent of 80 000 000 shares shall be read as references to 80% of the total allowable commercial catch:
   (f) the reference in section 44(1) to 20 000 000 shares of individual transferable quota shall be read as a reference to an amount of individual transferable quota equivalent to 20% of the total allowable commercial catch:
-  (fa) the reference in section 44(3)(a) to 80 000 000 quota shares must be read as a reference to an amount of quota equivalent to 80% of the total allowable commercial catch:
+  (fa) the reference in section 44(3)﻿(a) to 80 000 000 quota shares must be read as a reference to an amount of quota equivalent to 80% of the total allowable commercial catch:
   (g) the reference in section 46 to levies payable under Part 14 or to deemed value amounts shall be read as references to levies payable under the Fisheries Act 1983 and to deemed values demanded under section 28ZD of the Fisheries Act 1983, respectively, until the commencement of Part 14 or Part 4, as the case may be:
-  (h) section 47(1)(a) shall be read as if the words the number of shares the quota weight equivalent of were omitted, and there were substituted the words an amount of individual transferable quota:
-  (i) section 47(1)(b) shall be read as if the words the number of shares that bears the same proportion to the 80 000 000 shares of quota were omitted, and there were substituted the words an amount of individual transferable quota that bears the same proportion to the 80% of the total allowable commercial catch:
-  (j) section 50B(2)(b)(i) must be read as if the words the number of shares the quota weight equivalent of were omitted, and there were substituted the words an amount of quota:
-  (k) the reference in section 50B(2)(b)(ii) to 100 000 000 quota shares must be read as a reference to an amount of quota equivalent to 100% of the total allowable commercial catch:
-  (l) the reference in section 50D(2)(a) to a rate per quota share must be read as a reference to a rate per tonne:
-  (m) the reference in section 50D(2)(b) to 20 000 000 quota shares must be read as a reference to an amount of quota equivalent to 20% of the total allowable commercial catch:
+  (h) section 47(1)﻿(a) shall be read as if the words the number of shares the quota weight equivalent of were omitted, and there were substituted the words an amount of individual transferable quota:
+  (i) section 47(1)﻿(b) shall be read as if the words the number of shares that bears the same proportion to the 80 000 000 shares of quota were omitted, and there were substituted the words an amount of individual transferable quota that bears the same proportion to the 80% of the total allowable commercial catch:
+  (j) section 50B(2)﻿(b)﻿(i) must be read as if the words the number of shares the quota weight equivalent of were omitted, and there were substituted the words an amount of quota:
+  (k) the reference in section 50B(2)﻿(b)﻿(ii) to 100 000 000 quota shares must be read as a reference to an amount of quota equivalent to 100% of the total allowable commercial catch:
+  (l) the reference in section 50D(2)﻿(a) to a rate per quota share must be read as a reference to a rate per tonne:
+  (m) the reference in section 50D(2)﻿(b) to 20 000 000 quota shares must be read as a reference to an amount of quota equivalent to 20% of the total allowable commercial catch:
   (n) the references in sections 50E and 50F(1) to 80 000 000 quota shares must be read as references to an amount of quota equivalent to 80% of the total allowable commercial catch:
   (o) the reference in section 50F(2) to 80 000 000 must be read as a reference to the number of tonnes that is 80% of the total allowable commercial catch:
   (p) the reference in section 50G to the rate per quota share must be read as a reference to the rate per tonne:
-  (q) section 53(3)(a) must be read as if the words the number of shares the quota weight equivalent of were omitted, and there were substituted the words an amount of quota:
-  (r) the reference in section 53(3)(b) to 80 000 000 must be read as a reference to the number of tonnes that is 80% of the current total allowable commercial catch:
+  (q) section 53(3)﻿(a) must be read as if the words the number of shares the quota weight equivalent of were omitted, and there were substituted the words an amount of quota:
+  (r) the reference in section 53(3)﻿(b) to 80 000 000 must be read as a reference to the number of tonnes that is 80% of the current total allowable commercial catch:
   (s) the reference in paragraph (a) of the definition of encumbered in section 2(1)—
     (i) to forfeiture under this Act must be read as if it were a reference to forfeiture under section 107B of the Fisheries Act 1983:
     (ii) to the period of 35 working days referred to in section 62(3) or section 256(3) must be read as a reference to the 30-day period referred to in section 107C of the Fisheries Act 1983.
@@ -5970,7 +5974,7 @@ Every consent granted under section 28W(3) of the Fisheries Act 1983 and in forc
   (b) takes any Foveaux Strait dredge oyster from any prohibited area specified in a notice under subsection (8).
 (10) For the purposes of the application of this Act in relation to the Foveaux Strait dredge oyster fishery,—
   (a) the references to kilogrammes in this Act must be read as references to oyster numbers; and
-  (b) the references to greenweight or meatweight in section 305(a)(iii) must be read as references to oyster numbers.
+  (b) the references to greenweight or meatweight in section 305(a)﻿(iii) must be read as references to oyster numbers.
 (11) Notwithstanding anything in this Act or in any regulations made under this Act or under the Fisheries Act 1983, where any such regulations or any records, returns, or other documents prescribed by or referred to in such regulations contain a weight-related reference or requirement the chief executive may, by notice in the Gazette or by individual written notice to any affected fisher or other person affected, specify that any such reference or requirement is to be treated in any specified situation or for any specified purpose (and requiring the application, if appropriate, of any conversion factor specified under section 188(5) of this Act or section 3A(6) of the Fisheries Act 1983) as a reference to oyster numbers in the case of matters affecting the Foveaux Strait dredge oyster fishery, and the regulations, records, returns, or other documents are to have effect accordingly.
 (12) In this section the term Foveaux Strait dredge oyster season means a season fixed by the Minister under subsection (5).
 
@@ -6075,7 +6079,7 @@ Section 369L(3) expires with the close of 31 January 2007.
   (a) the amount of provisional catch history allocated to the person under section 369O for each of the quota management areas SCI1, SCI2, SCI3, SCI4A, SCI5, SCI6A, and SCI9; and
   (b) the person's right to appeal under section 51(1) (as read in accordance with section 369R(4); and
   (c) the requirement that any appeal to the Catch History Review Committee must be lodged not later than the date specified for that purpose in the notification.
-(2) The date referred to in subsection (1)(c) and specified in the notification must be not less than 20 working days after the date of the notification.
+(2) The date referred to in subsection (1)﻿(c) and specified in the notification must be not less than 20 working days after the date of the notification.
 
 ### 369Q Public notification of provisional catch history allocation
 (1) As soon as practicable after the date on which the Fisheries Amendment Act (No 2) 2004 comes into force, the chief executive must publicly notify—
@@ -6084,19 +6088,19 @@ Section 369L(3) expires with the close of 31 January 2007.
     (i) has not been allocated provisional catch history for scampi; and
     (ii) believes that he or she is or will be entitled to receive provisional catch history on the grounds specified in that section or is entitled to receive quota for scampi; and
   (c) that the appeal must be lodged no later than the date specified for that purpose in the notification.
-(2) The date referred to in subsection (1)(c) and specified in the notification must be not less than 20 working days after the date of the notification.
+(2) The date referred to in subsection (1)﻿(c) and specified in the notification must be not less than 20 working days after the date of the notification.
 
 ### 369R Application of certain provisions to scampi
-(1) Sections 36 and 37 apply in relation to scampi as if the references to 20 working days in sections 36(2)(b) and 37(2)(b) were instead references to 10 working days.
-(2) Sections 42 to 44, 46 to 49, 51 to 53, 54(1)(a), (2), and (3), 55, and 283 to 293 apply to the allocation of individual transferable quota for scampi.
+(1) Sections 36 and 37 apply in relation to scampi as if the references to 20 working days in sections 36(2)﻿(b) and 37(2)﻿(b) were instead references to 10 working days.
+(2) Sections 42 to 44, 46 to 49, 51 to 53, 54(1)﻿(a), (2), and (3), 55, and 283 to 293 apply to the allocation of individual transferable quota for scampi.
 (3) Section 45 applies to scampi as if the declaration in section 369N(1) were a notice in the Gazette under section 18.
 (4) For the purposes of subsection (2), section 51 must be read as if, for subsection (1) of that section, there were substituted the following subsection:
-  (1) Any person, including the chief executive, may, subject to subsection (3) and on or before the date specified in the notification referred to in section 369P(1)(c) or section 396Q(1)(c) appeal to the Catch History Review Committee against the allocation of provisional catch history under section 369O on the ground that the information used to calculate the provisional catch history—
+  (1) Any person, including the chief executive, may, subject to subsection (3) and on or before the date specified in the notification referred to in section 369P(1)﻿(c) or section 396Q(1)﻿(c) appeal to the Catch History Review Committee against the allocation of provisional catch history under section 369O on the ground that the information used to calculate the provisional catch history—
     (a) was incorrectly recorded by the chief executive; or
     (b) excluded scampi that were lawfully taken and lawfully reported as landed or otherwise lawfully disposed of in eligible returns from the person's eligible catch during the period commencing with 1 October 1990 and ending with 30 September 1992.
 (5) For the purposes of this section,—
   (a) eligible catch has the meaning given it by section 34(2), as if—
-    (i) the provisional catch history for scampi allocated under section 369O were calculated in a manner consistent with section 34(1)(c); and
+    (i) the provisional catch history for scampi allocated under section 369O were calculated in a manner consistent with section 34(1)﻿(c); and
     (ii) the applicable qualifying years were the period commencing with 1 October 1990 and ending with 30 September 1992; and
   (b) eligible return has the meaning given it by section 32(2).
 
@@ -7773,7 +7777,7 @@ Despite the repeal of section 262 of the principal Act by this Act, any order un
   (c) section 32(1) of the principal Ac had not been amended in the manner set out in section 10(1) of this Act:
   (d) sections 39 to 41 of the principal Act had not been repealed by section 15 of this Act:
   (e) section 51 of the principal Act had not been amended in the manner set out in section 24of this Act:
-  (f) section 92(1A)(a)(i) of the principal Act (as substituted by section 37 of this Act) read as if it referred to quantities, as well as to areas or methods.
+  (f) section 92(1A)﻿(a)﻿(i) of the principal Act (as substituted by section 37 of this Act) read as if it referred to quantities, as well as to areas or methods.
 (4) The fishstock codes used in subsection (1) have the same meanings as in Parts 1 and 2 of Schedule 3 of the Fisheries (Reporting) Regulations 2001.
 
 ### 1 Title
@@ -7831,4 +7835,4 @@ This Act is the Fisheries Amendment Act 2012.
 This Act comes into force on the day after the date on which it receives the Royal assent.
 
 ### 7 Validation of existing notified users
-Any recognition of a person as a notified user under section 104(2) of the principal Act before the commencement of this Act, to the extent that it did not satisfy the requirement in section 104(3)(b) of the principal Act, is validated and is to be treated as always having been lawful.
+Any recognition of a person as a notified user under section 104(2) of the principal Act before the commencement of this Act, to the extent that it did not satisfy the requirement in section 104(3)﻿(b) of the principal Act, is validated and is to be treated as always having been lawful.
