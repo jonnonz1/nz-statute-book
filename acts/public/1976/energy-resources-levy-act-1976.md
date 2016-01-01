@@ -1,5 +1,5 @@
 # Energy Resources Levy Act 1976
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2016-01-01_
 
 > An Act to make provision for the imposition, assessment, and collection of a levy on certain energy resources produced in New Zealand
 
@@ -49,10 +49,14 @@ This Act shall bind the Crown.
 
 ### 5 Rates of levy may be altered by Order in Council
 (1) The Governor-General may from time to time, by Order in Council, reduce or increase any or all of the rates of levy specified in subsection (2) of section 4:provided that no such rate may be increased under this subsection to such an extent that it would exceed the rate specified in that subsection (2).
-(2) An Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012 in any session expires as follows:
-  (a) if the Order in Council is made on or before 30 June in any calendar year, it expires on the close of the last day of that session except so far as it is expressly validated or confirmed by an Act passed during that session:
-  (b) if the Order in Council is made on or after 1 July in any calendar year, it expires on the close of the last day of the session of Parliament in the following calendar year except so far as it is expressly validated or confirmed by an Act passed during that session or the preceding session.
-(3) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (2), the rate or rates of levy altered by that Order in Council or provision shall, from the expiry of that Order in Council or provision and until it is or they are again altered, be the same as it was or they were immediately before that Order in Council or provision came into force.
+(2)
+(3)
+
+### 5A Orders are confirmable instruments
+The explanatory note of an Order in Council made under section 5(1) must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 6 Exemptions from levy
 (1) Notwithstanding section 4, the levy shall not be payable on—
@@ -107,7 +111,7 @@ A return purporting to be furnished by or on behalf of any person shall for all 
   (b) where an assessment has been made, to alter the assessment at any time so as to increase the amount thereof.
 
 ### 14 Appeal from assessment to High Court
-(1) Where any person is dissatisfied with any assessment or amended assessment made by the Commissioner under this Act, the person may appeal to the High Court against that assessment or amended assessment:provided that, except as otherwise expressly provided in this Act, there shall be no right of appeal with respect to any matter which by any provision of this Act is left to the discretion, judgment, opinion, approval, consent, decision, or determination of the Governor-General, the Minister of Finance, or the Chief Inspector of Coal Mines.
+(1) Where any person is dissatisfied with any assessment or amended assessment made by the Secretary under this Act, the person may appeal to the High Court against that assessment or amended assessment:provided that, except as otherwise expressly provided in this Act, there shall be no right of appeal with respect to any matter which by any provision of this Act is left to the discretion, judgment, opinion, approval, consent, decision, or determination of the Governor-General, the Minister of Finance, or the Chief Inspector of Coal Mines.
 (2) Every appeal under subsection (1) shall be made by giving notice of appeal within 2 months after the date on which the appellant was notified of the assessment or amended assessment appealed against or within such further time as the court may allow on application made either before or after the expiration of those 2 months.
 (3) In its determination of any appeal the court may confirm, modify, or reverse the assessment or amended assessment appealed against.
 (4) Subject to this section, the procedure in respect of any such appeal shall be in accordance with rules of court.
@@ -155,7 +159,7 @@ Any refund of a levy or an additional levy under this Act may be paid from publi
   (b) wilfully or negligently makes any false return, or gives any false information, or misleads or attempts to mislead the Secretary or any other officer or employee of the responsible department of State in relation to any matter or thing affecting his own or any other person's liability to a levy; or
   (c) resists, obstructs, deceives, or attempts to deceive any person acting in the discharge of his duties or functions or in the exercise of his powers under this Act; or
   (d) acts in contravention of or, without lawful justification or excuse, fails to comply in any respect with any provision of this Act or of any regulations made thereunder or any requirement imposed under this Act or the regulations; or
-  (e) aids, abets, or incites any other person to commit any offence against this Act or against any regulations made thereunder; or
+  (e) aids, abets, or incites any other person to commit any offence against this Act or against any regulations made thereunder.
   (f)
 (2) Every person who commits an offence against this Act for which no other penalty is prescribed shall be liable on conviction to a fine not exceeding $1,000.
 
@@ -174,7 +178,7 @@ For the purposes of this Part—
   - **absentee** means—
     (a) any person (other than a company) who is for the time being out of New Zealand:
     (b) any overseas company, unless it has a fixed and permanent place of business in New Zealand at which it carries on business in its own name:
-    (c) any overseas company, which is declared by the Commissioner to be an absentee for the purposes of this Act by notice given to that company or to its agent or attorney in New Zealand, so long as that declaration remains unrevoked
+    (c) any overseas company, which is declared by the Secretary to be an absentee for the purposes of this Act by notice given to that company or to its agent or attorney in New Zealand, so long as that declaration remains unrevoked
   - **overseas company** means any company other than one incorporated in New Zealand.
 
 ### 25 Secretary may declare person to be agent of another person
