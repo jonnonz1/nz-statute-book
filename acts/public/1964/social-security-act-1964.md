@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2015-11-26_
+_Consolidation as at 2016-01-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -2019,10 +2019,10 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
   (d) amend Schedules 3, 3A,16, and 31, and Schedules 4, 6, 9, 18, 19, 22, 23, 26, 27, and 28—
 (1A) An Order in Council made under subsection (1) may not increase the period of a benefit stand down for a given income.
 (2) Every Order in Council made under subsection (1) shall state the date from which it is to have effect (which may be a date before the date on which it was made) and shall apply to benefits, allowances, lump sum payments, subsidy rates, maximum amounts of supplements, asset limits, income exemptions, advances, cash assets tests, benefit stand down income test, and annual and weekly income tests payable or applicable in respect of the period commencing on the date from which it is to have effect and ending with the day before the date of its revocation by a subsequent Order in Council. In respect of lump sum payments on death, the Order in Council shall state that it applies in respect of persons who die on or after such date as may be specified in the Order in Council. Nothing in this subsection shall authorise any payment to be made before the order is made.
-(3) An Order in Council made under this section and presented to the House of Representatives under section 41 of the Legislation Act 2012 expires on the close of the period of 12 months commencing with the date on which it was presented, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
-(4) An Order in Council made under this section that is presented to the House of Representatives under section 41 of the Legislation Act 2012, and that has been revoked by a subsequent Order in Council before the close of 31 December in the calendar year following the calendar year during which it was presented to the House, must be treated as being invalid in respect of the period for which it purported to have effect except so far as it is expressly validated and confirmed in respect of that period by an Act passed before that date.
+(3)
+(4)
 (5) Every Order in Council made under this section shall have the force of law as if it was enacted by this Act.
-(6) The validity of any Order in Council made under this section shall not be affected by reason only of the repeal of an Act of Parliament validating and confirming it.
+(6)
 (7) In this section, subsidy rate means the first percentage figure set out in any particular clause of Part 2 of Schedule 18.
 
 ### 61HA Annual CPI adjustment of rates of certain benefits
@@ -2033,7 +2033,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
   (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
 (4) An adjustment under subsection (2) must not reduce the weekly amounts of benefits payable under those schedules.
 (5) Every Order in Council made under subsection (2) comes into force or is considered to come into force on 1 April of the calendar year in which it is made, and applies to benefits payable on and after that date.
-(6) Section 61H(3) to (6) apply to every Order in Council made under subsection (2) as if that order were made under that section.
+(6) Section 61H(2) and (5) applies to every Order in Council made under subsection (2) as if that order were made under that section.
 
 ### 61I Areas for accommodation supplement purposes may be altered by Order in Council
 (1) The Governor-General may by Order in Council, amend the definitions of the terms Area 1, Area 2, and Area 3—
@@ -2041,8 +2041,15 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
   (b) by omitting any urban area, urban zone, or area unit of New Zealand from the definition of Area 2 or Area 3 and adding it to the definition of Area 1; or
   (c) by omitting any urban area, urban zone, or area unit of New Zealand from the definition of Area 3 and adding it to the definition of Area 2; or
   (d) by making any adjustments that are required to maintain a part of New Zealand within the same accommodation supplement area as a result of any new or altered definition of any urban area, urban zone, or area unit of New Zealand adopted by the Government Statistician.
-(2) The provisions of section 61H(2) to (6) shall apply, with any necessary modifications, to any Order in Council made under subsection (1) as if that order had been made under section 61H(1).
+(2) Section 61H(2) and (5) applies, with any necessary modifications, to any Order in Council made under subsection (1) as if that order had been made under section 61H(1).
 (3) In this section Area 1, Area 2, Area 3, and Area 4 refer to the terms defined in clause 1 of Part 1 of Schedule 18.
+
+### 61IA Orders are confirmable instruments
+(1) This section applies to an Order in Council made under section 61H, 61HA(2), or 61I(1) (including section 61H or 61HA(2) apart from, or with, clause 3(6) of Schedule 32).
+(2) The explanatory note of the Order in Council must indicate that—
+  (a) it is a confirmable instrument, and an annual confirmable instrument, under section 47B of the Legislation Act 2012; and
+  (b) it is revoked, or taken to have been invalid for past operation, at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 **Miscellaneous provisions as to monetary benefits**
 
