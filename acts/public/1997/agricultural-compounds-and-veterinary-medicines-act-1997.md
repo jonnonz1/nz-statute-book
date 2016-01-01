@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2014-06-24_
+_Consolidation as at 2016-01-01_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -1575,13 +1575,11 @@ Any fee, levy, or charge that has become payable is a debt due to the Director-G
 ### 81K Obligation to pay fee, levy, or charge not suspended by dispute
 The obligation of a person to pay any fee, levy, or charge under this Act (including any penalty referred to in section 81J), and the right of the Director-General to receive and recover the fee, levy, charge, or penalty, are not suspended by any dispute between the person and the Director-General regarding the person’s liability to pay the fee, levy, or charge, or the amount of the fee, levy, or charge.
 
-### 81L Levy regulations to be confirmed
-(1) Where regulations imposing a levy have been made under the cost recovery sections on or after 1 January in any year and before 1 July in that year, and—they are to be treated as having been revoked with the close of 30 June in that next year unless confirmed by an Act of Parliament passed on or before that day.
-  (a) have not been revoked with effect on or before 1 July in the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012,—
-(2) Where any regulations imposing a levy have been made under the cost recovery sections after 30 June in any year and on or before 31 December in that year, and—they are to be treated as having been revoked with the close of 31 December in the year after the year in which they were made, unless confirmed by an Act of Parliament passed on or before that day.
-  (a) have not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) have not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012,—
+### 81L Levy regulations are confirmable instruments
+The explanatory note of regulations made under section 81E must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 82 Prohibition of importation or manufacture by registrant for non-payment of fees
 [Repealed]
