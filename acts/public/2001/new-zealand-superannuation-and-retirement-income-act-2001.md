@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2015-10-23_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -144,8 +144,14 @@ No person is entitled to New Zealand superannuation unless the person—
   (a) so that the weekly amounts referred to in section 16 are set in accordance with that section; and
   (b) so that the rate of New Zealand superannuation stated in paragraph (b) of clause 2 of Schedule 1 preserves its proportional relationship (after the deduction of standard tax) to the rates stated in paragraphs (a), (b), and (c) of clause 1 of that schedule.
 (4) An adjustment under this section must not reduce the weekly amounts payable under this section.
-(5) Subsections (3) to (6) of section 61H of the Social Security Act 1964 apply to every Order in Council made under subsection (2) as if that Order in Council were made under that section.
+(5) Section 61H(5) of the Social Security Act 1964 applies to every Order in Council made under subsection (2) as if that Order in Council were made under that section.
 (6) Every Order in Council made under subsection (2) comes into force or is considered to come into force on 1 April of the calendar year in which it is made, and applies to New Zealand superannuation payable on and after that date.
+
+### 15A Orders are confirmable instruments
+The explanatory note of an Order in Council made under section 15(2) must indicate that—
+  (a) it is a confirmable instrument, and an annual confirmable instrument, under section 47B of the Legislation Act 2012; and
+  (b) it is revoked, or taken to have been invalid for past operation, at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 16 Annual adjustment of New Zealand superannuation: relationship to net average wage
 (1) The annual adjustment of New Zealand superannuation under section 15 must ensure that—
@@ -300,7 +306,13 @@ A person is not entitled to be paid New Zealand superannuation under section 26 
   (b) omitting the former name of a country or territory and substituting its new name.
 (3) The Order in Council must state the date on which it takes effect, which may be a date before the date on which it is made.
 (4) The Order in Council applies to payments of New Zealand superannuation under section 31 payable on or after the date on which the order takes effect.
-(5) Section 61H(3) to (6) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)﻿(a) as if it had been made under that section.
+(5) Section 61H(5) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)﻿(a) as if it had been made under that section.
+
+### 30A Orders are confirmable instruments
+The explanatory note of an Order in Council made under section 30(2) must indicate that—
+  (a) it is a confirmable instrument, and an annual confirmable instrument, under section 47B of the Legislation Act 2012; and
+  (b) it is revoked, or taken to have been invalid for past operation, at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 31 Entitlement to be paid New Zealand superannuation in specified Pacific country
 (1) A person entitled to receive New Zealand superannuation is entitled to be paid the benefit in a specified Pacific country at a rate calculated under section 32 if subsection (2) or subsection (3) or subsection (4) applies to the person.
