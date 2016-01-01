@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2016-01-01_
 
 > An Act to consolidate and amend the law relating to firearms and to promote both the safe use and the control of firearms and other weapons
 
@@ -36,7 +36,7 @@ _Consolidation as at 2014-01-01_
       (iv) any specially dangerous airgun
   - **firearms licence** means a firearms licence issued under section 24
   - **imitation firearm** means anything that has the appearance of being a firearm capable of discharging any shot, bullet, missile, or other projectile, whether or not it is capable of discharging any shot, bullet, missile, or other projectile
-  - **kea gun** means a single shot pistol that is chambered for a .410 inch shot cartridge
+  - **kea gun** means a single shot pistol that is chambered for a ﻿.﻿410 inch shot cartridge
   - **licensed dealer** means a holder of a dealer's licence issued under this Act
   - **member of the Police** means a Police employee within the meaning of section 4 of the Policing Act 2008
   - **military style semi-automatic firearm** means a firearm (other than a pistol) that is—
@@ -789,15 +789,11 @@ The Governor-General may by Order in Council do any or all of the following thin
   (c) declare semi-automatic firearms (other than pistols) of a stated description to be military style semi-automatic firearms for the purposes of this Act:
   (d) define or describe features of a semi-automatic firearm (other than a pistol) as features of a military style semi-automatic firearm for the purposes of this Act.
 
-### 74B Certain orders relating to military style semi-automatic firearms to expire unless confirmed
-(1) Where an order under section 74A(b), (c), or (d)—it must be treated as having been revoked with the close of the 30th day of June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
-  (a) has in any year been made on or after 1 January and before 1 July; and
-  (b) has not been revoked with effect on or before 1 July in the next year; and
-  (c) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the Regulations (Disallowance) Act 1989,—
-(2) Where an order under section 74A(b), (c), or (d)—it must be treated as having been revoked with the close of 31 December in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
-  (a) has in any year been made after 30 June and on or before 31 December; and
-  (b) has not been revoked with effect on or before 1 January in the year after the next year; and
-  (c) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the Regulations (Disallowance) Act 1989,—
+### 74B Certain orders relating to military style semi-automatic firearms are confirmable instruments
+The explanatory note of an order made under section 74A(b), (c), or (d) must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 75 Consequential amendment to Summary Proceedings Act 1957
 Amendment(s) incorporated in the Act(s).
