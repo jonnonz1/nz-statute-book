@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2015-11-07_
+_Consolidation as at 2016-01-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -111,7 +111,7 @@ _Consolidation as at 2015-11-07_
     (a) excise duty and excise-equivalent duty imposed under Part 7:
     (b) a duty imposed under the Tariff Act 1988:
     (ba) provisional safeguard duty, safeguard duty, and extended safeguard duty imposed under the Trade (Safeguard Measures) Act 2014:
-    (c) a duty imposed pursuant to sections 14, 16, 17, 17A, or 17B of the Dumping and Countervailing Duties Act 1988, including a duty resulting from the application of section 18 or section 19 of that Act; and
+    (c) a duty imposed pursuant to sections 14, 16, 17, 17A, or 17B of the Dumping and Countervailing Duties Act 1988, including a duty resulting from the application of section 18 or section 19 of that Act:
     (d) a duty or tax imposed by section 12 of the Goods and Services Tax Act 1985:
     (e) levies imposed by section 213(2)﻿(c) of the Accident Compensation Act 2001:
     (f) levies imposed by the Energy (Fuels, Levies, and References) Act 1989
@@ -260,7 +260,7 @@ Schedule 1AA contains transitional and savings provisions—
 ### 8 Customs flag
 The Customs flag shall be the New Zealand Ensign with the addition in the fly of the words NZ Customs Service in bold characters.
 
-## Part 2 — Customs places Customs controlled areas, and Customs-approved areas for storing exports
+## Part 2 — Customs places, Customs controlled areas, and Customs-approved areas for storing exports
 
 **Customs places**
 
@@ -1149,13 +1149,17 @@ The chief executive may, at any time, review the operation of any Customs-approv
 (4) A conditional prohibition may allow the importation of goods—
   (a) under the authority of a licence or a permit (whether granted before or after the importation of the goods), or a consent, to be granted by the chief executive or by any other person named in the Order in Council, on or subject to such terms or conditions (if any) not inconsistent with the provisions of the prohibition, as may be imposed by the chief executive or other person granting the licence, permit, or consent; or
   (b) on or subject to any other prescribed conditions.
-(5) An Order in Council made under subsection (2) shall,—
-  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year except so far as it is expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
-(6) The expiry of an Order in Council under subsection (5) shall not affect the validity of any act done pursuant to or in accordance with the provisions of that Order in Council before the date on which the Order in Council expires in accordance with that subsection.
+(5)
+(6)
 (7) No goods otherwise dutiable are exempt from duty because their importation is unlawful.
 (8) All Orders in Council made under the Customs Act 1966 in force at the commencement of this Act prohibiting the importation of goods into New Zealand are deemed to have been made and confirmed under this section and shall continue in force in accordance with the provisions of section 55.
 (9) In this section, crime involving dishonesty has the same meaning as in section 2(1) of the Crimes Act 1961.
+
+### 54A Orders are confirmable instruments
+The explanatory note of an Order in Council made under section 54(2) must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 55 Duration of Orders in Council prohibiting imports
 (1) Subject to subsection (2), an Order in Council made under section 54 shall expire 3 years after the date on which it comes into force.
@@ -1213,12 +1217,16 @@ The chief executive may, at any time, review the operation of any Customs-approv
 (4) A conditional prohibition may allow the exportation of goods or electronic publications—
   (a) under the authority of a licence, permit, or consent, to be granted by the chief executive or by any other person named in the Order in Council, on or subject to such terms or conditions (if any) not inconsistent with the provisions of the prohibition, as may be imposed by the chief executive or other person granting the licence, permit, or consent; or
   (b) on or subject to any other prescribed conditions.
-(5) An Order in Council made under subsection (2) shall,—
-  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year except so far as it is expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
-(6) The expiry of an Order in Council under subsection (5) shall not affect the validity of any act done pursuant to or in accordance with the provisions of that Order in Council before the date on which the Order in Council expires in accordance with that subsection.
+(5)
+(6)
 (7) No prohibition under this section applies to goods that are already loaded into the exporting craft at the time when the prohibition comes into force.
 (8) Unless otherwise specified in the order, an Order in Council under this section prohibiting the exportation of goods extends to and applies to the shipment of the goods for use as stores by a craft.
+
+### 56A Orders are confirmable instruments
+The explanatory note of an Order in Council made under section 56(2) must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 57 Duration of Orders in Council prohibiting exports
 (1) Subject to subsection (2), an Order in Council made under section 56 shall expire 3 years after the date on which it comes into force.
@@ -1521,9 +1529,7 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 (3) No new rate of excise duty or excise-equivalent duty imposed on any goods under subsection (1) shall exceed a rate calculated in accordance with the following formula:This table contains a formula. a× c b where—ais the Index number of the Consumers Price Index All Groups excluding credit services issued by the Government Statistician for—bis the Index number of the quarterly Consumers Price Index All Groups excluding credit services issued by the Government Statistician for the quarter ending 12 months before, and expressed on the same base quarter as, the relevant quarter specified in item a of this formula; andcis the existing rate of duty in respect of the goods to which the order relates.
   (i) the quarter ending on 31 March in the calendar year in which the order is to come into force, in the case of an order relating to alcoholic beverages; or
   (ii) the quarter ending on 30 September immediately before the calendar year in which the order is to come into force, in the case of an order relating to tobacco products; and
-(3A) If an Order in Council is made under subsection (1), changes the rates of excise duty and excise-equivalent duty for tobacco products, and comes into force on 1 January in 2013, 2014, 2015, or 2016, then despite subsections (1) to (3),—
-  (a) every new rate of excise duty or excise-equivalent duty that the Order in Council imposes on a tobacco product is calculated by adding 10% of the existing rate of duty on the product to the result achieved by applying the formula in subsection (3); and
-  (b) the Order in Council must be called (as the case requires) an Excise and Excise-equivalent Duties Table (Tobacco Products Indexation and Separate 10% Increase) Amendment Order 2012, 2013, 2014, or 2015.
+(3A)
 (4) In this section,—
   - **alcoholic beverages** means goods that are—
     (a) goods specified in headings 22.03, 22.04, 22.05, 22.06, 22.08, 99.10, 99.20, 99.25, 99.30, 99.45, and 99.50 of the Excise and Excise-equivalent Duties Table, not being goods that are exempt from excise duty and excise-equivalent duty; or
@@ -1534,12 +1540,7 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
 [Repealed]
 
 ### 79AB Rates of duties for tobacco products increased by 10% if not indexed on 1 January in 2013 to 2016
-(1) This section, in accordance with section 76G(1), amends the Excise and Excise-equivalent Duties Table.
-(2) A rate in that Table is amended by this section only if the rate is one that is—
-  (a) a rate of excise duty or excise-equivalent duty on a tobacco product (as defined in section 79(4)); and
-  (b) in force immediately before 1 January in 2013, 2014, 2015, or 2016; and
-  (c) not changed on that date by an Order in Council made under section 79(1) and (3A).
-(3) The rate is on that date replaced with a new rate calculated by adding to the rate an amount equal to 10% of the rate.
+[Repealed]
 
 ### 79AC Rates of duties on motor spirits increased by 3 cents on 1 July in 2013, 2014, and 2015
 [Repealed]
@@ -1554,18 +1555,24 @@ Every reference in the following to Schedule 3 must be read as if it were a refe
       (i) excise item numbers 99.75.05F, 99.75.23D, 99.75.29C, 99.75.37D, 99.75.51K, 99.75.59E, 99.75.73L, 99.75.81A, and 99.75.93E; and
       (ii) Tariff items 2207.20.23, 2207.20.35, 2710.12.15, 2710.12.17, 2710.12.19, 2710.12.23, 2710.12.25, 2710.12.29, 2710.19.34, 2710.19.42, 3824.90.87, 3824.90.93, and 3826.00.20.
 
-### 80 Certain Orders in Council subject to confirmation
-(1) This section applies to the following Orders in Council:
+### 80 Orders are confirmable instruments
+(1) This section applies to—
   (a) an Order in Council made under section 77(1); and
   (b) an Order in Council made under section 79(1); and
-  (ba)
   (c) an Order in Council made under section 79A(1) that has the effect of increasing the rates of excise duty or excise-equivalent duty on motor spirits (as defined in section 79A(2)).
-(1A) An Order in Council to which this section applies must,—
-  (a) if made on or before 30 June in any year, expire on the close of 31 December of that year except so far as it is expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
-(2) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (1A), any duty collected under that Order in Council or provision shall, except in so far as any other provision is made by an Act of Parliament in respect thereof, be refunded.
-(3) If the House of Representatives resolves that any Order in Council to which this section applies should be revoked or varied, it shall thereupon be revoked or varied in accordance with the terms of the resolution, and any duty collected thereunder in excess of the duty otherwise payable shall, so far as such resolution provides, be refunded.
-(4) The repeal of any Act of Parliament that expressly confirms pursuant to subsection (1A) any Orders in Council does not, unless there is any express provision to the contrary, affect the validity or confirmation of those Orders in Council.
+(2) The explanatory note of an Order in Council to which this section applies must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+
+### 80A Orders may be revoked or varied by resolution of House of Representatives
+(1) This section applies to—
+  (a) an Order in Council made under section 77(1); and
+  (b) an Order in Council made under section 79(1); and
+  (c) an Order in Council made under section 79A(1) that has the effect of increasing the rates of excise duty or excise-equivalent duty on motor spirits (as defined in section 79A(2)).
+(2) If the House of Representatives resolves that an order to which this section applies should be revoked or varied,—
+  (a) the order must be treated as having been revoked or varied in accordance with the terms of the resolution; and
+  (b) any duty collected under the order in excess of the duty otherwise payable must, so far as that resolution provides, be refunded.
 
 ### 81 Power of Governor-General in Council to suspend, remit, refund, or create exemptions from excise duties and excise-equivalent duties on goods supplied to certain organisations and their members
 (1) The Governor-General may from time to time, by Order in Council, suspend, order the remission or refund of, or create exemptions from, excise duty and excise-equivalent duties in respect of goods or classes of goods manufactured in New Zealand or imported into New Zealand that are—
@@ -3471,7 +3478,7 @@ This Part shall apply to all forfeitures that arise under this Act.
     (vi) section 210 (which relates to offences in relation to exportation of goods):
     (vii) section 211 (which relates to defrauding the revenue of Customs):
     (viii) section 212 (which relates to possession or custody of uncustomed goods or prohibited imports):
-    (ix) section 213 (which relates to purchase, sale, exchange, etc of uncustomed goods or prohibited imports):
+    (ix) section 213 (which relates to purchase, sale, exchange, etc, of uncustomed goods or prohibited imports):
     (x) section 214 (which relates to possession or control of concealed goods):
   (b) goods dealt with in contravention of section 41, 43, 46, or 47:
   (c) dutiable or prohibited goods found in the possession of any person who, when questioned under section 145 or section 146, denied or failed to disclose the possession of those goods:
@@ -4511,9 +4518,11 @@ Without limiting any other obligation imposed on the chief executive to give not
   (b) give public notice of the consultation being undertaken; and
   (c) take the results of the consultation into account.
 
-### 286B Regulations made under section 286A to be confirmed
-(1) Any regulations made under section 286A and laid before the House of Representatives in accordance with the Legislation Act 2012 expire on the close of 31 December in the calendar year following the calendar year during which they were laid, except to the extent that they are expressly confirmed by an Act of Parliament passed before that date.
-(2) The validity of any regulations made under section 286A is not affected merely because of the repeal of an Act of Parliament confirming them.
+### 286B Regulations are confirmable instruments
+The explanatory note of regulations made under section 286A must indicate that—
+  (a) they are a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) they are revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 287 Regulations for fees, charges, and expenses
 (1) Without limiting the power to make regulations conferred by any other section of this Act, but subject to the provisions of this Act, the Governor-General may from time to time, by Order in Council, make regulations—
@@ -5099,7 +5108,7 @@ The value of any goods for the purposes of section 69 that are deemed to have be
 Where the value of the goods cannot be determined under clause 1 for the reason that the goods were not sold under the conditions specified in paragraphs (a) and (b) of that clause, the value shall be the fair market value of those goods as determined under clause 4.
 
 ### 4 Fair market value
-(1) For the purposes of this section,—
+(1) For the purposes of this clause,—
   (a) the expression identical goods means goods that are the same in all respects, including physical characteristics, quality, and reputation, as the goods being valued, except for minor differences (if any) in appearance that do not affect the value of the goods:
   (b) the expression similar goods means goods that closely resemble the goods being valued in respect of component materials and parts and characteristics and are functionally and commercially interchangeable with the goods being valued, having regard to the quality and reputation of the goods being valued:
   (c) a sale in the open market means—
