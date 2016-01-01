@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2015-11-16_
+_Consolidation as at 2016-01-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -7770,7 +7770,13 @@ If a person enters into an arrangement, and a main purpose of the person in ente
   (b) adding types of income for a country or territory outside New Zealand:
   (c) omitting a country or territory outside New Zealand:
   (d) omitting types of income for a country or territory outside New Zealand.
-(2) An amendment by Order in Council under subsection (1)﻿(a) or (b) is repealed on 31 December in the tax year following the tax year in which the Order in Council is made, unless Parliament otherwise enacts.
+(2)
+
+### 225BA Order under section 225B is confirmable instrument
+The explanatory note of an Order in Council made under section 225B(1)﻿(a) or (b) must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 225C Order in Council amending Schedule 38 of Income Tax Act 2007
 The Governor-General may, from time to time, by Order in Council, amend Schedule 38 of the Income Tax Act 2007 by—
