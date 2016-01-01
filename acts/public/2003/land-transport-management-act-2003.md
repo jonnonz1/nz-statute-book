@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2015-08-01_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -1972,18 +1972,7 @@ A public transport service provided under contract to the regional council befor
   (b) the Tauranga City Council must refund any unused prepayment or transponder hire.
 
 ### 159 Transitional regulations
-(1) For the purposes of Part 5, the Governor-General may, by Order in Council on the recommendation of the Minister, make regulations for transitional or savings purposes that—
-  (a) prescribe transitional and savings provisions concerning the coming into force of this Act that may be in addition to, or in place of, the transitional and savings provisions in this Act:
-  (b) provide that, during a specified transitional period and subject to any specified conditions,—
-    (i) specified provisions of this Act (including definitions) do not apply:
-    (ii) specified terms of this Act have the meaning given to them by regulations made under this Act:
-    (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply.
-(2) The Minister must, before making any recommendation,—
-  (a) have regard to the principles specified in section 115; and
-  (b) be satisfied that the proposed regulations are necessary or desirable to facilitate an orderly transition from the provisions of the Public Transport Management Act 2008 to Part 5.
-(3) Any regulations made under this section may, for the transitional or savings purposes specified in subsection (1) (and without limiting that subsection), apply only to, or in respect of, 1 or more specified regions, services, or both.
-(4) Any regulations made under this section are revoked on the close of 31 December 2015.
-(5) This section is repealed on 1 January 2016.
+[Repealed]
 
 ## Schedule 1 — Provisions relating to programmes
 
