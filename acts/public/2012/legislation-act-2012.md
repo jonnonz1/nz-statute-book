@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2014-02-01_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
@@ -15,7 +15,7 @@ This Act is the Legislation Act 2012.
 
 ### 3 Purposes
 The purposes of this Act are—
-  (a) to bring together in this Act the main provisions of New Zealand legislation that relate to the drafting, publication, and reprinting of legislation, and the disallowing of instruments:
+  (a) to bring together in this Act the main provisions of New Zealand legislation that relate to the drafting, publication, and reprinting of legislation, and the disallowing and confirming of instruments:
   (b) to provide for electronic and printed copies of Acts and legislative instruments to be published:
   (c) to provide for official versions of Acts and legislative instruments to be published in electronic form:
   (d) to facilitate the production of up-to-date reprints that are modernised and made consistent with current drafting practice concerning their mode of expression, style, and format:
@@ -30,6 +30,8 @@ The purposes of this Act are—
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **Chief Parliamentary Counsel** means the person who for the time being holds that office under section 66
+  - **confirmable instrument** has the meaning given to it by section 47B
+  - **deadline** , for a confirmable instrument, means the time when (if no exception in section 47C(2) applies) the instrument is revoked by section 47C(1)﻿(a) or (b)
   - **disallowable instrument** has the meaning given to it by section 38
   - **Imperial enactment** means an Imperial enactment that has effect as part of the laws of New Zealand under the Imperial Laws Application Act 1988
   - **Imperial subordinate legislation** means Imperial subordinate legislation that has effect as part of the laws of New Zealand under the Imperial Laws Application Act 1988
@@ -49,6 +51,9 @@ In this Act, unless the context otherwise requires,—
   - **reprint** means a version of legislation that—
     (a) states, as at the date at which it is stated to be reprinted, the law enacted or made by the legislation reprinted and by the amendments (if any) to that legislation; and
     (b) is published under this Act.
+
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -310,7 +315,7 @@ In this subpart, unless the context otherwise requires,—
   (k) omit forms and schedules from the Acts or parts of Acts revised, and instead authorise the matters in those forms and schedules to be prescribed by or under regulations:
   (l) make consequential amendments to enactments that are not incorporated, or are incorporated only in part, in the revision:
   (m) include any necessary repeals, savings, and transitional provisions.
-(3) A revision Bill must not change the effect of the law, except as authorised by subsection (2)(i) or (j).
+(3) A revision Bill must not change the effect of the law, except as authorised by subsection (2)﻿(i) or (j).
 (4) To avoid doubt, the changes that may be made in a revision Bill include (without limitation) any of the changes that may be made in a reprint under subpart 2.
 
 ### 32 Format of revision Bill
@@ -323,7 +328,7 @@ In this subpart, unless the context otherwise requires,—
 (2) The Chief Parliamentary Counsel must submit a revision Bill to the certifiers for certification under this section.
 (3) The certifiers may certify a revision Bill if they are satisfied that—
   (a) the revision powers set out in section 31 have been exercised appropriately in the preparation of the revision; and
-  (b) the revision Bill does not change the effect of the law, except as authorised by section 31(2)(i) or (j).
+  (b) the revision Bill does not change the effect of the law, except as authorised by section 31(2)﻿(i) or (j).
 (4) Before certifying a revision Bill, the certifiers may require the Chief Parliamentary Counsel to make whatever changes they consider necessary.
 (5) When a revision Bill has been certified, the Chief Parliamentary Counsel must give the revision Bill and certificate to the Attorney-General.
 
@@ -349,7 +354,7 @@ In this subpart, unless the context otherwise requires,—
 (3) The Attorney-General must ensure that the persons and organisations that he or she thinks appropriate are consulted during the preparation of the report about the matters to be considered in the report.
 (4) The Attorney-General must present a copy of the report to the House of Representatives as soon as practicable after he or she receives the report.
 
-## Part 3 — Subordinate legislation: Disallowable instruments and incorporation of material by reference
+## Part 3 — Subordinate legislation: Disallowable instruments, confirmable instruments, and incorporation of material by reference
 
 ### Subpart 1 — Disallowable instruments
 
@@ -357,7 +362,6 @@ In this subpart, unless the context otherwise requires,—
 
 ### 37 Interpretation
 In this subpart, unless the context otherwise requires,—
-  - **confirmation provision** , in relation to an instrument made under an enactment, means an enactment that provides that the instrument lapses, expires, or is revoked at a stated time unless the instrument is confirmed, confirmed and validated, or validated by an Act passed or enacted before that time
   - **obligations** includes—
     (a) duties or liabilities:
     (b) obligations to comply with prohibitions:
@@ -387,7 +391,7 @@ In this subpart, unless the context otherwise requires,—
   (b) an instrument that determines or alters the temporal application of the law applying to the public or a class of the public must be treated as having the effect described in paragraph (b) of that subsection.
 (3) In applying subsection (1), the following must be disregarded:
   (a) the description, form, and maker of the instrument:
-  (b) whether a confirmation provision applies to 1 or more of its provisions:
+  (b) whether all or a portion of the instrument makes it a confirmable instrument:
   (c) whether it also contains provisions that are administrative.
 (4) An instrument does not have a significant legislative effect if it explains or interprets rights or obligations in a non-binding way, as long as the instrument does not do anything else that would bring it within subsection (1).
 (5) An instrument that is made in the exercise of a statutory power and imposes obligations in an individual case does not determine or alter the content of the law just because the statutory power applies generally or to a class of persons.
@@ -437,9 +441,13 @@ An instrument that determines or alters the temporal application of rights or ob
 (2) This section is subject to section 45.
 
 ### 45 Effect of disallowance on enactment amended, repealed, or revoked by disallowed instrument
-(1) This section applies if the disallowed instrument or provisions amended any Act or instrument or repealed any Act or revoked any instrument.
-(2) When this section applies, the disallowance of the instrument or provisions has the effect of restoring or reviving the Act or instrument, as it was immediately before it was amended, repealed, or revoked, as if the disallowed instrument or provisions had not been made.
-(3) The restoration or revival of an Act or instrument under subsection (2) takes effect on the day on which the instrument or provisions by which it was amended, repealed, or revoked ceased to have effect.
+(1) This section applies if some or all provisions of a disallowable instrument—
+  (a) amend an Act or instrument, repeal an Act, or revoke an instrument; and
+  (b) are provisions that are later disallowed under section 42 or 43.
+(2) The Act or instrument is restored or revived—
+  (a) as it was immediately before it was amended, repealed, or revoked by the disallowed provisions; and
+  (b) with effect from when the disallowed provisions cease to have effect.
+(3) This section alters an outcome under section 17(1)﻿(d) of the Interpretation Act 1999 (see section 4(1)﻿(a) of that Act).
 
 **Amendment or substitution of instrument by House of Representatives**
 
@@ -465,8 +473,91 @@ An instrument that determines or alters the temporal application of rights or ob
   (c) in the case of a notice of motion, must show—
     (i) the date of the sitting day on which the notice of motion was given; and
     (ii) the date of the 21st sitting day after the giving of the notice of motion.
-(4) The notice is conclusive evidence of the matters stated in subsection (3)(b) and (c).
+(4) The notice is conclusive evidence of the matters stated in subsection (3)﻿(b) and (c).
 (5) The Chief Parliamentary Counsel must arrange for every notice forwarded under subsection (2) to be published under section 6 as if it were a legislative instrument.
+
+### Subpart 1A — Confirmable instruments
+
+### 47A Overview
+(1) This subpart ensures some instruments are revoked by this Act at a deadline unless earlier confirmed by an Act of Parliament.
+(2) The instruments are made under the section or sections listed in Schedule 2 (see section 47B).
+(3) The deadline differs depending on whether the instrument is made in the first or second half of a year (see section 47C).
+(4) If the instrument is one of a subset of confirmable instruments called annual confirmable instruments, and has been revoked before the deadline, then it is invalid for its past operation unless confirmed by an Act (see sections 47B and 47D).
+(5) Revocation by this Act of the instrument generally does not affect the validity of acts done under it before it is revoked (see section 47F).
+(6) Amendments, revocations, or repeals effected by the instrument are undone with effect from when the instrument is revoked by this Act (see section 47G).
+(7) Any duties, levies, or road user charges collected under the instrument must, with some exceptions, be refunded if the instrument is later revoked by this Act (see sections 47H and 47I).
+(8) This section is only a general guide to this subpart, which replaces and standardises former inconsistent confirmation provisions in the Acts listed in Schedule 2.
+
+### 47B Confirmable instruments, etc, defined
+(1) An instrument made under an enactment is a confirmable instrument for the purposes of this Act if all or a portion of the instrument—
+  (a) is made under the empowering section or sections in a row of the table in Schedule 2; and
+  (b) complies with any restriction in that row.
+(2) A confirmable instrument is an annual confirmable instrument for the purposes of this Act if all or a portion of the instrument is made under all or any of the following sections:
+  (a) section 15(2) of the New Zealand Superannuation and Retirement Income Act 2001:
+  (b) section 30(2) of the New Zealand Superannuation and Retirement Income Act 2001:
+  (c) section 61H(1) (apart from, or with, clause 3(6) of Schedule 32) of the Social Security Act 1964:
+  (d) section 61HA(2) (apart from, or with, clause 3(6) of Schedule 32) of the Social Security Act 1964:
+  (e) section 61I(1) of the Social Security Act 1964:
+  (f) section 190(2) of the Veterans’ Support Act 2014.
+
+### 47C Instruments revoked unless confirmed
+(1) A confirmable instrument is revoked at the following applicable deadline:
+  (a) if it is made during the first half of a year, it is revoked at the middle of the next year:
+  (b) if it is made during the second half of a year, it is revoked at the end of the next year.
+(2) However, a confirmable instrument is not revoked by subsection (1)﻿(a) or (b) so far as it—
+  (a) has been revoked, or expires, with effect before or on the deadline; or
+  (b) has ceased, or will cease, to have effect before or on the deadline by virtue of subpart 1 of Part 3 (disallowable instruments); or
+  (c) has before or on the deadline been confirmed by an Act of Parliament.
+(3) In this section,—
+  (a) the first half of a year means the period that starts on 1 January and ends with the close of 30 June in the year; and
+  (b) the second half of a year means the period that starts on 1 July and ends with the close of 31 December in the year; and
+  (c) the middle of the next year means the close of 30 June in the next year; and
+  (d) the end of the next year means the close of 31 December in the next year.
+
+### 47D Operation of annual instruments invalid if revoked before, and not confirmed by, deadline
+(1) This section applies to an annual confirmable instrument so far as it—
+  (a) has been revoked with effect before or on the deadline; and
+  (b) is therefore under section 47C(2)﻿(a) not revoked by section 47C(1)﻿(a) or (b).
+(2) The instrument is, after the deadline, taken to have been invalid in respect of the period for which it purported to have effect.
+(3) Subsection (2) does not apply so far as the instrument has before or on the deadline been confirmed by an Act of Parliament.
+
+### 47E How instrument is confirmed by Act
+(1) A confirmable instrument is for the purposes of this subpart confirmed by an Act of Parliament—
+  (a) only if the Act contains a provision to the effect that the instrument is confirmed; and
+  (b) only on and after that provision’s commencement.
+(2) The later repeal of the Act or provision does not affect the confirmation of the instrument (in line with section 17(1)﻿(c) of the Interpretation Act 1999).
+
+### 47F Effect of revocation: general
+(1) This section applies to the revocation by section 47C(1)﻿(a) or (b) of an instrument.
+(2) That revocation does not affect the previous operation of the instrument or anything done or suffered under it (in line with section 17(1)﻿(e) of the Interpretation Act 1999).
+(3) This section is subject to section 47H.
+
+### 47G Effect of revocation: amendments, etc
+(1) This section applies if a confirmable instrument—
+  (a) amends an Act or instrument, repeals an Act, or revokes an instrument; and
+  (b) is later revoked by section 47C(1)﻿(a) or (b).
+(2) The Act or instrument is restored or revived—
+  (a) as it was immediately before it was amended, repealed, or revoked by the confirmable instrument; and
+  (b) with effect from when the confirmable instrument is later revoked by section 47C(1)﻿(a) or (b).
+(3) This section alters an outcome under section 17(1)﻿(d) of the Interpretation Act 1999 (see section 4(1)﻿(a) of that Act).
+
+### 47H Effect of revocation: duties, levies, or charges
+(1) This section applies if the effect of the instrument revoked by section 47C(1)﻿(a) or (b) is to impose, or vary, any duties, levies, or road user charges.
+(2) Any duties, levies, or road user charges collected under the instrument (or, if the effect of the instrument is to vary any duties, levies, or road user charges, any duties, levies, or road user charges collected after the variation takes effect) must, unless an Act of Parliament provides otherwise, be refunded.
+(3) This section is subject to section 47I.
+
+### 47I Effect of revocation: exceptions to section 47H
+(1) Section 47H(2) does not limit or affect section 42C(3) and (4) of the Civil Aviation Act 1990 (which indicates how levies imposed or increased or decreased by civil aviation safety levy orders are affected by those orders being revoked by section 47C(1)﻿(a) or (b) of this Act).
+(2) Section 47H(2) does not apply to energy resources levy rate orders revoked, and the levy rate specified in those orders remains valid in respect of the period before their revocation, by section 47C(1)﻿(a) or (b).
+(3) Section 47H(2) does not limit or affect section 270(4) to (6) of the Land Transport Act 1998 (which indicates how fees or charges prescribed by land transport fees or charges regulations are affected by those regulations being revoked by section 47C(1)﻿(a) or (b) of this Act).
+(4) Section 47H(2) does not apply to waste minimisation levy rate regulations revoked, and the levy rate specified in those regulations remains valid in respect of the period before their revocation, by section 47C(1)﻿(a) or (b).
+(5) In this section,—
+  - **civil aviation safety levy orders** means orders under section 42A of the Civil Aviation Act 1990
+  - **energy resources levy rate orders** means orders under section 5(1) of the Energy Resources Levy Act 1976
+  - **land transport fees or charges regulations** means regulations—
+    (a) made under section 269 or 269A of the Land Transport Act 1998; and
+    (b) prescribing fees or charges
+  - **waste minimisation levy rate regulations** means regulations made under section 41(1)﻿(e) of the Waste Minimisation Act 2008.
 
 ### Subpart 2 — Incorporation by reference in instruments
 
@@ -516,10 +607,10 @@ An instrument that determines or alters the temporal application of rights or ob
 (2) The chief executive—
   (a) may make copies of the proposed material available in any other way that he or she considers appropriate in the circumstances; and
   (b) must, if paragraph (a) applies, give notice in the Gazette stating that the proposed material is available in other ways and giving details of where or how it can be accessed or obtained.
-(3) The chief executive may comply with subsection (1)(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the department to a copy of the proposed material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
+(3) The chief executive may comply with subsection (1)﻿(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the department to a copy of the proposed material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
 (4) The references in this section to material include, if the material is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
 (5) A failure to comply with this section does not invalidate an instrument that incorporates material by reference in reliance on section 49.
-(6) For the purposes of subsection (1)(c), a chief executive may not rely on section 66 of the Copyright Act 1994 as authority to make the proposed material available on an Internet site.
+(6) For the purposes of subsection (1)﻿(c), a chief executive may not rely on section 66 of the Copyright Act 1994 as authority to make the proposed material available on an Internet site.
 
 ### 52 Access to material incorporated by reference
 (1) This section applies if an instrument incorporating material by reference in reliance on section 49 is made.
@@ -535,12 +626,12 @@ An instrument that determines or alters the temporal application of rights or ob
 (3) The chief executive—
   (a) may make copies of the incorporated material available in any other way that he or she considers appropriate in the circumstances; and
   (b) must, if paragraph (a) applies, give notice in the Gazette stating that the incorporated material is available in other ways and giving details of where or how it can be accessed or obtained.
-(4) The chief executive may comply with subsection (2)(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the administering department to a copy of the incorporated material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
+(4) The chief executive may comply with subsection (2)﻿(c) (if applicable) by providing a hypertext link from an Internet site maintained by or on behalf of the administering department to a copy of the incorporated material that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
 (5) The references in this section to material are to—
   (a) material incorporated by reference in the instrument; and
   (b) if the material is not in an official New Zealand language, the material itself together with an accurate translation in an official New Zealand language of the material.
 (6) A failure to comply with this section does not invalidate an instrument that incorporates material by reference.
-(7) For the purposes of subsection (2)(c), a chief executive may not rely on section 66 of the Copyright Act 1994 as authority to make the incorporated material available on an Internet site.
+(7) For the purposes of subsection (2)﻿(c), a chief executive may not rely on section 66 of the Copyright Act 1994 as authority to make the incorporated material available on an Internet site.
 
 ### 53 Effect of amendments to material incorporated by reference
 (1) This section applies if the material incorporated by reference in reliance on section 49 is amended by the originator of the material after the instrument is made.
@@ -596,7 +687,7 @@ Nothing in this subpart affects the application of sections 22 to 25 of the Stan
   (d) other instruments that the Attorney-General or the Chief Parliamentary Counsel directs in writing be drafted by the PCO.
 
 ### 60 Power to authorise drafting and printing of Government Bills by Inland Revenue Department
-(1) Despite section 59(1)(a), the Governor-General may, by Order in Council made on the recommendation of the Attorney-General, authorise the Inland Revenue Department—
+(1) Despite section 59(1)﻿(a), the Governor-General may, by Order in Council made on the recommendation of the Attorney-General, authorise the Inland Revenue Department—
   (a) to draft (subject to the exceptions specified in the order) the Government Bills (being Bills intended to become Acts administered by that department) that the Minister of the Crown who is responsible for that department may direct be prepared for the consideration of Parliament, and amendments to them; and
   (b) to supervise the printing of the Bills and amendments referred to in paragraph (a).
 (2) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of this Act.
@@ -627,7 +718,7 @@ The Chief Parliamentary Counsel has all the powers that are reasonably necessary
 (6) No delegation under this section affects or prevents the exercise of any function, responsibility, duty, or power by the Chief Parliamentary Counsel, or affects the responsibility of the Chief Parliamentary Counsel for the actions of any person acting under the delegation.
 
 ### 64 Absence or incapacity of Chief Parliamentary Counsel or vacancy
-(1) A person who holds a delegation referred to in section 63(1)(b) may act in place of the Chief Parliamentary Counsel while the Chief Parliamentary Counsel is absent or incapacitated or during any vacancy in the office of Chief Parliamentary Counsel.
+(1) A person who holds a delegation referred to in section 63(1)﻿(b) may act in place of the Chief Parliamentary Counsel while the Chief Parliamentary Counsel is absent or incapacitated or during any vacancy in the office of Chief Parliamentary Counsel.
 (2) No acts done by the person acting in place of the Chief Parliamentary Counsel under subsection (1) may, in any proceedings, be questioned on the ground that the occasion for the authorisation had not arisen or had ceased.
 
 ### 65 Revocation of delegations
@@ -657,7 +748,7 @@ The Chief Parliamentary Counsel has all the powers that are reasonably necessary
 (3) A parliamentary counsel is an employee for the purposes of the Employment Relations Act 2000.
 
 ### 68 Chief Parliamentary Counsel and parliamentary counsel to hold legal qualification
-(1) A person meets the qualification requirement in section 66(3)(a) for the office of Chief Parliamentary Counsel if the person—
+(1) A person meets the qualification requirement in section 66(3)﻿(a) for the office of Chief Parliamentary Counsel if the person—
   (a) is a lawyer as defined in section 6 of the Lawyers and Conveyancers Act 2006; or
   (b) is eligible to practise law in a country or jurisdiction specified by an Order in Council made under subsection (3); or
   (c) holds a qualification that the Attorney-General considers is sufficient for the position.
@@ -665,7 +756,7 @@ The Chief Parliamentary Counsel has all the powers that are reasonably necessary
   (a) is a lawyer as defined in section 6 of the Lawyers and Conveyancers Act 2006; or
   (b) is eligible to practise law in a country or jurisdiction specified by an Order in Council made under subsection (3); or
   (c) holds a qualification that the Chief Parliamentary Counsel considers is sufficient for the position.
-(3) The Governor-General may, by Order in Council made on the recommendation of the Attorney-General, specify countries and jurisdictions for the purposes of subsections (1)(b) and (2)(b).
+(3) The Governor-General may, by Order in Council made on the recommendation of the Attorney-General, specify countries and jurisdictions for the purposes of subsections (1)﻿(b) and (2)﻿(b).
 
 ### 69 Other employees of PCO
 (1) The Chief Parliamentary Counsel may appoint such other employees as he or she thinks necessary for the efficient exercise of the functions, responsibilities, duties, and powers of the Chief Parliamentary Counsel and the PCO.
@@ -708,7 +799,7 @@ The Chief Parliamentary Counsel must put in place a procedure that provides for�
 (1) The Statutes Drafting and Compilation Act 1920 (1920 No 46) is repealed.
 (2) The Acts and Regulations Publication Act 1989 (1989 No 142) and the Regulations (Disallowance) Act 1989 (1989 No 143) are repealed.
 (3) The Acts specified in the Schedule are amended in the manner indicated in that schedule.
-(4) The definition of regulations in section 29 of the Interpretation Act 1999 is amended by repealing paragraph (e) and substituting the following paragraph:.
+(4) The definition of regulations in section 29 of the Interpretation Act 1999 is amended by repealing paragraph (e) and substituting the following paragraph:
   (e) an instrument that is a legislative instrument or a disallowable instrument for the purposes of the Legislation Act 2012:
 (5) The repeal of the Statutes Drafting and Compilation Act 1920 by subsection (1) does not affect the application of section 59 of the Copyright Act 1994 to the PCO.
 (6) Despite the repeal of the Acts and Regulations Publication Act 1989 by subsection (2),—
@@ -724,8 +815,8 @@ The Chief Parliamentary Counsel must put in place a procedure that provides for�
   (b) the office of Compiler of Statutes is abolished:
   (c) the Parliamentary Counsel (other than the Chief Parliamentary Counsel) in the PCO become parliamentary counsel under section 67:
   (d) the other members of the staff of the PCO become employees under section 69.
-(2) The person to whom subsection (1)(a) applies continues to be engaged on the same terms and conditions applying to that person immediately before the commencement of this section.
-(3) Each person to whom subsection (1)(c) applies—
+(2) The person to whom subsection (1)﻿(a) applies continues to be engaged on the same terms and conditions applying to that person immediately before the commencement of this section.
+(3) Each person to whom subsection (1)﻿(c) applies—
   (a) is entitled to terms and conditions of employment no less favourable than the terms and conditions applying to the person immediately before the commencement of this section, except that the person is no longer to be regarded as serving at the Governor-General's pleasure; and
   (b) continues to be entitled to those terms and conditions of employment until those terms and conditions are varied by agreement between the person and the Chief Parliamentary Counsel.
 (4) The employment agreements of all other members of staff of the PCO that were in effect immediately before the commencement of this section continue in effect as if those persons were employed under section 69.
@@ -733,14 +824,31 @@ The Chief Parliamentary Counsel must put in place a procedure that provides for�
 (6) This Act does not affect any entitlement of an office holder or employee of the PCO under the Government Superannuation Fund Act 1956.
 
 ### 79 Continuation of annual regulations series
-(1) This section applies despite sections 11 and 12(2)(d).
+(1) This section applies despite sections 11 and 12(2)﻿(d).
 (2) The Chief Parliamentary Counsel—
   (a) may continue publishing the statutory regulations series until the end of the year in which those provisions come into force:
   (b) must start a legislative instruments series no later than the start of the next year.
 (3) It is sufficient compliance with section 11 if a legislative instrument is given a number for the annual regulations series continued under subsection (2) and is published in that series.
-(4) It is sufficient compliance with section 12(2)(d) if a notice published under that section gives an instrument’s number in the annual regulations series continued under subsection (2).
+(4) It is sufficient compliance with section 12(2)﻿(d) if a notice published under that section gives an instrument’s number in the annual regulations series continued under subsection (2).
 
-## Schedule  — Consequential amendments to Acts
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### 1 Confirmable instruments made or presented 1 July 2015 to 31 December 2015
+(1) Sections 47C and 47D apply to a confirmable instrument (as defined in section 47B) that—
+  (a) is made, or presented to the House of Representatives, after 30 June 2015 and before 1 January 2016; and
+  (b) is an instrument of a kind covered by a former confirmation provision; and
+  (c) would if that provision were not repealed on 1 January 2016 have under that provision lapsed at a time (being a time after 31 December 2015 and stated in that provision) if not earlier confirmed by an Act of Parliament.
+(2) In this clause,—
+  - **confirmation provision** , in relation to an instrument made under an enactment, means an enactment that provides that the instrument lapses, expires, is revoked, or is deemed to have been revoked at a stated time unless the instrument is confirmed by an Act passed or enacted before that time
+  - **confirmed** includes—
+    (a) confirmed and validated; or
+    (b) validated
+  - **former confirmation provision** means a confirmation provision that is repealed or replaced—
+    (a) on 1 January 2016; and
+    (b) by section 14 and Schedule 3 of the Legislation (Confirmable Instruments) Amendment Act 2015
+  - **lapsed** means lapsed, expired, been revoked, or been deemed to have been revoked.
+
+## Schedule 1 — Consequential amendments to Acts
 
 ### 46 Application of Legislation Act 2012 to Code
 The Code is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
@@ -794,8 +902,8 @@ The rules are a legislative instrument and a disallowable instrument for the pur
     (iv) any specific alternatives to the proposed plan that the person making the submission wishes to recommend:
   (e) a list of places where a copy of the proposed plan may be purchased or inspected:
   (f) an address for submissions.
-(3) The Minister may comply with subsection (1)(c) by providing a hypertext link from an Internet site maintained by or on behalf of the responsible department to a copy of the proposed plan that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
-(4) For the purposes of subsection (1)(c), the Minister may not rely on section 66 of the Copyright Act 1994 as authority to make available on an Internet site any material that is proposed to be incorporated by reference.
+(3) The Minister may comply with subsection (1)﻿(c) by providing a hypertext link from an Internet site maintained by or on behalf of the responsible department to a copy of the proposed plan that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
+(4) For the purposes of subsection (1)﻿(c), the Minister may not rely on section 66 of the Copyright Act 1994 as authority to make available on an Internet site any material that is proposed to be incorporated by reference.
 (5) In this section, proposed plan includes material incorporated by reference in the plan under section 40, together with a translation in an official New Zealand language, where that material is not in an official New Zealand language.
 
 ### 175 Application of Legislation Act 2012 to material incorporated by reference
@@ -822,7 +930,7 @@ Orders in Council amending or modifying the Excise and Excise-equivalent Duties 
 (3) However, nothing in section 41 of the Legislation Act 2012 requires material incorporated in regulations to be presented to the House of Representatives.
 
 ### 319AA Application of Legislation Act 2012 to certain material incorporated by reference
-(1) This section applies if section 49 of the Legislation Act 2012 is relied on to incorporate material by reference in criteria prescribed under section 317(2)(b) or 319(1)(b) of this Act.
+(1) This section applies if section 49 of the Legislation Act 2012 is relied on to incorporate material by reference in criteria prescribed under section 317(2)﻿(b) or 319(1)﻿(b) of this Act.
 (2) When this section applies, subpart 2 of Part 3 of the Legislation Act 2012 (other than section 51) applies.
 
 ### 7 Application of Legislation Act 2012
@@ -880,10 +988,10 @@ The rules to which section 100 applies and amendments to those rules are legisla
 
 ### 259I Application of Legislation Act 2012 to standards incorporated by reference
 (1) Part 2 of the Legislation Act 2012 does not apply to—
-  (a) financial reporting standards incorporated by reference in regulations made under section 259(1)(dc); or
+  (a) financial reporting standards incorporated by reference in regulations made under section 259(1)﻿(dc); or
   (b) an amendment to, or replacement of, those standards.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations made under section 259(1)(dc) that incorporate financial reporting standards by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under section 259(1)(dc) to be presented to the House of Representatives.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations made under section 259(1)﻿(dc) that incorporate financial reporting standards by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under section 259(1)﻿(dc) to be presented to the House of Representatives.
 
 ### 261C Status of rules
 A rule made under section 261B is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
@@ -915,7 +1023,7 @@ This Act applies to the extent that it does not conflict with any other enactmen
 
 ### 8 Application of Part 3 of Legislation Act 2012 to certain rules and code of ethics
 The following are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012:
-  (a) the rules that relate to the matters referred to in sections 5(d), 6(1)(a), (b), and (f) to (j), and 19:
+  (a) the rules that relate to the matters referred to in sections 5(d), 6(1)﻿(a), (b), and (f) to (j), and 19:
   (b) rules that relate to the entitlement of members to use the designation chartered accountant:
   (c) the code of ethics required by section 7.
 
@@ -963,13 +1071,13 @@ Regulations made under section 215 or 216 are a legislative instrument and a dis
   (a) any person, transaction, or offer:
   (b) any class of persons, transactions, or offers associated with or involving a particular code company or entity:
   (c) any class of persons, transactions, or offers that is not associated with or does not involve a particular code company or entity.
-(2) An exemption may be granted in respect of past acts or omissions only under subsection (1)(a).
+(2) An exemption may be granted in respect of past acts or omissions only under subsection (1)﻿(a).
 (3) An exemption under this section is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(4) An exemption under subsection (1)(a) or (b) must, as soon as practicable after being granted, be—
+(4) An exemption under subsection (1)﻿(a) or (b) must, as soon as practicable after being granted, be—
   (a) published on an Internet site maintained by or on behalf of the Panel; and
   (b) notified (without incorporating the exemption) in the Gazette; and
   (c) made available in printed form for purchase on request by members of the public.
-(5) An exemption under subsection (1)(c) is of general application and must be published under section 6 of the Legislation Act 2012.
+(5) An exemption under subsection (1)﻿(c) is of general application and must be published under section 6 of the Legislation Act 2012.
 (6) The Panel’s reasons for granting an exemption under this section must be published together with the exemption, and the reasons must include—
   (a) why it is appropriate that the exemption is granted; and
   (b) how the exemption is consistent with the objectives of the takeovers code.
@@ -993,3 +1101,64 @@ Orders in Council amending or modifying the Tariff made under section 9 or 10 on
 
 ### 89 Application of Legislation Act 2012 to Gazette notices
 Every matter approved or prescribed under this Act that is required to be published in the Gazette is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+## Schedule 2 — Confirmable instruments
+
+| Act | Empowering section(s) and restriction (if any) |
+| --- | --- |
+| Agricultural Compounds and Veterinary Medicines Act 1997 | 81E |
+| Animal Products Act 1999 | 118 |
+| Antarctica (Environmental Protection) Act 1994 | 55(2) |
+| Arms Act 1983 | 74A(b) |
+| Arms Act 1983 | 74A(c) |
+| Arms Act 1983 | 74A(d) |
+| Biosecurity Act 1993 | 100L |
+| Biosecurity Act 1993 | 100ZB |
+| Biosecurity Act 1993 | 137 |
+| Biosecurity Act 1993 | 150 |
+| Civil Aviation Act 1990 | 42A |
+| Climate Change Response Act 2002 | 162(1) |
+| Climate Change Response Act 2002 | 202(1) |
+| Commodity Levies Act 1990 | 4 (apart from, or with, section 305 of the Fisheries Act 1996, or section 111 of the Wine Act 2003) |
+| Criminal Procedure Act 2011 | 387(1)﻿(i) |
+| Criminal Procedure Act 2011 | 387(1)﻿(j) |
+| Customs and Excise Act 1996 | 54(2) |
+| Customs and Excise Act 1996 | 56(2) |
+| Customs and Excise Act 1996 | 77(1) |
+| Customs and Excise Act 1996 | 79(1) |
+| Customs and Excise Act 1996 | 79A(1)—restriction: only if the order has the effect of increasing the rates of excise duty or excise-equivalent duty on motor spirits (as defined in section 79A(2)) |
+| Customs and Excise Act 1996 | 286A |
+| Education Act 1989 | 2(4) |
+| Education Act 1989 | 159(4) |
+| Electronic Transactions Act 2002 | 14(3)—restriction: only if the order makes an addition to the Schedule |
+| Energy (Fuels, Levies, and References) Act 1989 | 33(1) |
+| Energy Resources Levy Act 1976 | 5(1) |
+| Fisheries Act 1996 | 74(7) |
+| Food Act 2014 | 207 |
+| Forests Act 1949 | 67ZM |
+| Gambling Act 2003 | 319(1) |
+| Industry Training and Apprenticeships Act 1992 | 26(1) |
+| KiwiSaver Act 2006 | 65(1) |
+| Land Transport Act 1998 | 269 and 270—restriction: only if the regulations prescribe fees or charges that are identified or to be treated as land transport revenue for the purposes of the Land Transport Management Act 2003 |
+| Land Transport Act 1998 | 269A and 270—restriction: only if the regulations prescribe fees or charges that are identified or to be treated as land transport revenue for the purposes of the Land Transport Management Act 2003 |
+| Maritime Security Act 2004 | 78(4)﻿(b) |
+| National Animal Identification and Tracing Act 2012 | 62 |
+| National Animal Identification and Tracing Act 2012 | 67(2) |
+| New Zealand Superannuation and Retirement Income Act 2001 | 15(2) |
+| New Zealand Superannuation and Retirement Income Act 2001 | 30(2) |
+| Parental Leave and Employment Protection Act 1987 | 71O and 73(1)﻿(ad) |
+| Parental Leave and Employment Protection Act 1987 | 73(1)﻿(ae) |
+| Petroleum Demand Restraint Act 1981 | 4(1) |
+| Policing Act 2008 | 27(1) |
+| Primary Products Marketing Act 1953 | 3(1) |
+| Reserve Bank of New Zealand Act 1989 | 152 and 173—restriction: only if the regulations confer on the Bank, or a statutory manager of a registered bank, ancillary or additional powers necessary or desirable for the purposes of Part 5 |
+| Road User Charges Act 2012 | 85(1) |
+| Social Security Act 1964 | 61H(1) (apart from, or with, cl 3(6) of Schedule 32) |
+| Social Security Act 1964 | 61HA(2) (apart from, or with, cl 3(6) of Schedule 32) |
+| Social Security Act 1964 | 61I(1) |
+| Tariff Act 1988 | 9 |
+| Tax Administration Act 1994 | 225B(1)﻿(a) |
+| Tax Administration Act 1994 | 225B(1)﻿(b) |
+| Veterans' Support Act 2014 | 190(2) |
+| Waste Minimisation Act 2008 | 41(1)﻿(e) |
+| Wine Act 2003 | 89 |
