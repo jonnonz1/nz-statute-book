@@ -1,5 +1,5 @@
 # Electronic Transactions Act 2002
-_Consolidation as at 2015-06-06_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the Electronic Transactions Act 2002.
@@ -110,10 +110,15 @@ An electronic communication is taken to be received at—
   (d) the provisions of enactments that are described in Part 3 of the Schedule:
   (e) the provisions of enactments that are described in Part 4 of the Schedule except to the extent that rules of a court, or guidelines issued with the authority of a court or tribunal, specified in that Part of the Schedule, provide for the use of electronic technology in accordance with this Part.
 (3) The Governor-General may, by Order in Council, amend the Schedule or repeal the Schedule and substitute a new schedule.
-(4) Every Order in Council that makes an addition to the Schedule and that is—
-  (a) made on or before 30 June in any year expires on the close of 31 December of that year, except so far as it is expressly confirmed by Act of Parliament passed during that year; or
-  (b) made on or after 1 July in any year expires on the close of 31 December in the following year, except so far as it is expressly confirmed by Act of Parliament passed before the end of the following year.
-(5) The expiry of an Order in Council does not affect the validity of any act done pursuant to, or in accordance with, that Order in Council before the date on which the Order in Council expired.
+(4)
+(5)
+
+### 14A Orders making additions to Schedule are confirmable instruments
+(1) This section applies to an Order in Council made under section 14(3) that makes an addition to the Schedule.
+(2) The explanatory note of the Order in Council must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 15 When legal requirement can be met by electronic means
 (1) A legal requirement can be met by electronic means if the applicable provisions in subpart 2, and any applicable regulations made under section 36, are complied with.
