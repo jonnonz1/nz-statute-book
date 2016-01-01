@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -1844,7 +1844,13 @@ A person is not entitled to be paid a veteran's pension under section 182 unless
   (b) replacing the former name of a country or territory with its new name.
 (3) The Order in Council must state the date on which it takes effect, which may be a date before the date on which it is made.
 (4) The Order in Council applies to payments of the veteran’s pension under section 191 payable on or after the date on which the order takes effect.
-(5) Section 61H(3) to (6) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)﻿(a) as if it had been made under that section.
+(5) Section 61H(5) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)﻿(a) as if it had been made under that section.
+
+### 190A Orders are confirmable instruments
+The explanatory note of an Order in Council made under section 190(2) must indicate that—
+  (a) it is a confirmable instrument, and an annual confirmable instrument, under section 47B of the Legislation Act 2012; and
+  (b) it is revoked, or taken to have been invalid for past operation, at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 191 Entitlement to be paid veteran's pension in specified Pacific country
 (1) A person entitled to a veteran’s pension is entitled to be paid the pension in a specified Pacific country at a rate calculated under section 192 if subsection (2) or (3) or (4) applies to the person.
