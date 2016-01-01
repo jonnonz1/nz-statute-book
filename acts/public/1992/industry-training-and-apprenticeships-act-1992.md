@@ -1,5 +1,5 @@
 # Industry Training and Apprenticeships Act 1992
-_Consolidation as at 2014-04-23_
+_Consolidation as at 2016-01-01_
 
 > Title
 
@@ -553,16 +553,15 @@ Every person who receives commercially sensitive information for the purposes of
 
 **Confirmation and expiry of orders**
 
-### 51 Orders must be confirmed
-(1) Subsection (2) applies to a levy order that is made on or after 1 January and before 1 July in any year, and that—
-  (a) has not been revoked with effect on or before 1 July in the next year; and
-  (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of Part 3 of the Legislation Act 2012.
-(2) If subsection (1) applies to a levy order, the order is deemed to be revoked with the close of 30 June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
-(3) Subsection (4) applies to a levy order that is made after 30 June and on or before 31 December in any year, and that—
-  (a) has not been revoked with effect on or before 1 January in the year after the next year; and
-  (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of Part 3 of the Legislation Act 2012.
-(4) If subsection (3) applies to a levy order, the order is deemed to be revoked with the close of 31 December in the year after the year in which it was made unless it has been confirmed by an Act of Parliament passed on or before that day.
-(5) The Minister on whose recommendation a levy order was made must, by notice published in the Gazette at least 6 months before the day with the close of which the order may (under subsection (2) or subsection (4)) be deemed to have been revoked, indicate the Minister’s intentions with regard to its continuing in force unless the levy order has already been—
+### 51 Orders are confirmable instruments
+(1) The explanatory note of a levy order made under section 26(1) must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+(2)
+(3)
+(4)
+(5) The Minister on whose recommendation a levy order was made must, by notice published in the Gazette at least 6 months before the time at which the order may be revoked by section 47C(1)﻿(a) or (b) of the Legislation Act 2012, indicate the Minister’s intentions with regard to its continuing in force unless the levy order has already been—
   (a) revoked; or
   (b) disallowed under Part 3 of the Legislation Act 2012; or
   (c) confirmed by an Act of Parliament.
