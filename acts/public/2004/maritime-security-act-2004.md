@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2013-10-23_
+_Consolidation as at 2016-01-01_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -38,7 +38,7 @@ In this Act, unless the context otherwise requires,—
     (a) a maritime security officer; or
     (b) a constable; or
     (c) a Customs officer
-  - **certificate** means a valid International Ship Security Certificate issued under section 9(1)(l) or a valid Interim International Ship Security Certificate issued under section 9(1)(l)
+  - **certificate** means a valid International Ship Security Certificate issued under section 9(1)﻿(l) or a valid Interim International Ship Security Certificate issued under section 9(1)﻿(l)
   - **chief executive** means the person who for the time being is the chief executive officer of the Designated Authority
   - **Code** means the International Code for the Security of Ships and of Port Facilities, consisting of Part A (the provisions of which are mandatory) and Part B (the provisions of which are recommendatory), as adopted, on 12 December 2002, by resolution 2 of the Conference of Contracting Governments to the Convention, and as may be amended by the International Maritime Organization, provided that—
     (a) amendments to Part A of the Code are adopted, are brought into force, and take effect in accordance with article VIII of the Convention concerning the amendment procedures applicable under the Annex of the Convention other than Chapter I of that Annex; and
@@ -58,7 +58,7 @@ In this Act, unless the context otherwise requires,—
   - **Designated Authority** means the authority appointed under section 7
   - **high-speed craft** means a craft capable of a maximum speed in metres per second equal to or exceeding—3.70.1667where is the displacement corresponding to the design waterline (m3)
   - **in writing** means printed, typewritten, or otherwise visibly represented, copied, or reproduced, including by fax or email or other electronic means
-  - **International Safety Management Code** means the International Management Code for the Safe Operation of Ships and for Pollution Prevention adopted on 4 November 1993 by the International Maritime Organization by Resolution A.741(18), as amended from time to time by the International Maritime Organization
+  - **International Safety Management Code** means the International Management Code for the Safe Operation of Ships and for Pollution Prevention adopted on 4 November 1993 by the International Maritime Organization by Resolution A﻿.﻿741(18), as amended from time to time by the International Maritime Organization
   - **maritime security document** means a document issued or approved by a party to the Convention for the purposes of the Code
   - **maritime security officer** means an employee of a maritime security organisation who carries out maritime security functions
   - **maritime security organisation** means an organisation appointed by the Governor-General by Order in Council under section 44
@@ -140,7 +140,7 @@ The principal objectives of the Designated Authority are to ensure that—
     (i) any port security assessment carried out by a recognised security organisation in accordance with section 39; and
     (ii) any port facility security plan in accordance with section 41; and
     (iii) any amendment to an approved port facility security plan in accordance with section 41; and
-  (h) exercises the control measures specified in section 31(1) or takes 1 or more steps under section 34(1)(b); and
+  (h) exercises the control measures specified in section 31(1) or takes 1 or more steps under section 34(1)﻿(b); and
   (i) for the purpose of providing further information, publishes standards and codes of practice; and
   (j) authorises recognised security organisations in accordance with regulations made under this Act; and
   (k) undertakes any other functions or duties specified in regulations made under this Act; and
@@ -168,7 +168,7 @@ The chief executive must—
     (ii) any amendment to an approved port facility security assessment; or
     (iii) any port facility security plan; or
     (iv) any amendment to an approved port facility security plan; and
-  (c) exercising the control measures specified in section 31(1) or taking a step under section 34(1)(b); and
+  (c) exercising the control measures specified in section 31(1) or taking a step under section 34(1)﻿(b); and
   (d) specifying the requirements for a declaration of security.
 (3) A delegation—
   (a) must be in writing; and
@@ -349,12 +349,12 @@ The master and the company of a ship must ensure that the ship has on board a sh
     (i) the chief executive has reasonable grounds to believe that the ship poses an immediate threat to the security or safety of persons, ships, or other property; and
     (ii) there are no other appropriate means for removing that threat; and
     (iii) the chief executive has complied with section 36(4).
-(2) A ship may be expelled under subsection (1)(e) despite the provisions of any other enactment.
+(2) A ship may be expelled under subsection (1)﻿(e) despite the provisions of any other enactment.
 (3) A control measure that is imposed under subsection (1)—
   (a) must be proportionate and reasonable, and of the minimum severity and duration necessary to rectify or mitigate any non-compliance; and
   (b) may additionally or alternatively include other lesser administrative or corrective measures.
 (4) A control measure imposed under subsection (1) may continue until the non-compliance that gave rise to the control measure is corrected to the satisfaction of the chief executive, taking into account actions proposed (if any) by the ship or the chief executive.
-(5) If a ship is expelled from a port under subsection (1)(e),—
+(5) If a ship is expelled from a port under subsection (1)﻿(e),—
   (a) the chief executive may require the ship to proceed to a specified location within New Zealand's territorial sea or internal waters or continental waters; and
   (b) the port facility operator must cease providing services to that ship if the chief executive directs the port facility operator to do so; and
   (c) all possible efforts must be made to avoid a ship being unduly detained or delayed; and
@@ -374,15 +374,15 @@ The master and the company of a ship must ensure that the ship has on board a sh
 (3) Despite subsections (1) and (2), the provisions of a ship security plan that are specified as confidential in regulations made under this Act may not be subject to inspection unless agreed to by—
   (a) the chief executive; and
   (b) the ship's administration, if the State is a party to the Convention.
-(4) Despite subsection (3)(b), if the ship is registered in New Zealand or if the ship is registered in a State that is not a party to the Convention, the chief executive may authorise the inspection.
+(4) Despite subsection (3)﻿(b), if the ship is registered in New Zealand or if the ship is registered in a State that is not a party to the Convention, the chief executive may authorise the inspection.
 
 ### 33 Costs of detention
-(1) If a ship is detained under section 31(1)(c),—
+(1) If a ship is detained under section 31(1)﻿(c),—
   (a) the company is liable to pay to the Designated Authority the costs of, and incidental to, the detention and any inspection and audit under this Act, including any costs that the port facility operator has met as the result of the detention; and
   (b) those costs are, without prejudice to any other remedy, recoverable as a debt due to the Designated Authority in a court of competent jurisdiction.
 (2) The Designated Authority is liable to pay to the company compensation for any loss resulting from unduly detaining or unduly delaying the ship.
 (3) The complainant is liable to indemnify the Designated Authority for all costs for which the Designated Authority is liable under subsection (2), if—
-  (a) a ship is detained under section 31(1)(c) on the information of the complainant; and
+  (a) a ship is detained under section 31(1)﻿(c) on the information of the complainant; and
   (b) the information is subsequently found to be false; and
   (c) the complainant knew that the information was false at the time he or she provided it.
 (4) Despite subsection (3), the complainant is not liable to indemnify the Designated Authority for any costs arising from the detention of a ship incurred on or after a date 2 days after the Designated Authority determines that the information provided by the complainant was false.
@@ -398,26 +398,26 @@ The master and the company of a ship must ensure that the ship has on board a sh
       (A) the chief executive has reasonable grounds to believe that the ship poses an immediate threat to the security or safety of persons, ships, or other property; and
       (B) there are no other appropriate means for removing that threat; and
       (C) the chief executive has complied with section 36(4).
-(2) Before taking a step specified in subsection (1)(b), the chief executive must inform the master of the ship of the chief executive's intention to take the step by giving notice to the master as the chief executive considers necessary by means of communications, whether or not of a permanent nature, as the chief executive considers appropriate in the circumstances.
-(3) A step that is taken under subsection (1)(b)—
+(2) Before taking a step specified in subsection (1)﻿(b), the chief executive must inform the master of the ship of the chief executive's intention to take the step by giving notice to the master as the chief executive considers necessary by means of communications, whether or not of a permanent nature, as the chief executive considers appropriate in the circumstances.
+(3) A step that is taken under subsection (1)﻿(b)—
   (a) must be proportionate and reasonable, and of the minimum severity and duration necessary to rectify or mitigate any non-compliance; and
   (b) may additionally or alternatively include other lesser administrative or corrective measures.
-(4) A ship may be denied entry under subsection (1)(b)(iv) despite the provisions of any other enactment.
-(5) If a ship is denied entry under subsection (1)(b)(iv),—
+(4) A ship may be denied entry under subsection (1)﻿(b)﻿(iv) despite the provisions of any other enactment.
+(5) If a ship is denied entry under subsection (1)﻿(b)﻿(iv),—
   (a) all possible efforts must be made to avoid a ship being unduly detained or delayed; and
   (b) a person may be allowed to leave the ship, or access to the ship must be allowed, for—
     (i) humanitarian reasons; or
     (ii) emergency reasons; or
     (iii) security purposes.
 (6) On receiving the notice under subsection (2), the master may withdraw the intention to enter the port.
-(7) If a ship is denied entry to the port under subsection (1)(b)(iv) or section 30(4), a port facility operator must cease providing services to that ship if the chief executive directs the port facility operator to do so.
-(8) A step taken under subsection (1)(b) may be imposed until the non-compliance that gave rise to the step is corrected to the satisfaction of the chief executive, taking into account actions proposed (if any) by the ship or the chief executive.
+(7) If a ship is denied entry to the port under subsection (1)﻿(b)﻿(iv) or section 30(4), a port facility operator must cease providing services to that ship if the chief executive directs the port facility operator to do so.
+(8) A step taken under subsection (1)﻿(b) may be imposed until the non-compliance that gave rise to the step is corrected to the satisfaction of the chief executive, taking into account actions proposed (if any) by the ship or the chief executive.
 
 ### 35 Certain provisions do not apply if master withdraws intention to enter port
 If the master withdraws the intention to enter the port, sections 30(2) and (3) and 34(1) do not apply.
 
 ### 36 Additional requirements
-(1) If a control measure is imposed under section 31(1) or if a step is taken under section 34(1)(b), the chief executive must—
+(1) If a control measure is imposed under section 31(1) or if a step is taken under section 34(1)﻿(b), the chief executive must—
   (a) advise, in writing, the ship's administration of—
     (i) the control measure imposed or step taken; and
     (ii) the reasons for imposing the control measure or taking the step; and
@@ -426,13 +426,13 @@ If the master withdraws the intention to enter the port, sections 30(2) and (3) 
     (ii) either—
       (A) the recognised security organisation that issued a certificate to the ship concerned; or
       (B) if a recognised security organisation did not issue a certificate, the ship's administration.
-(2) If a ship is expelled from a port under section 31(1)(e), or entry into a port is denied under section 34(1)(b)(iv), the chief executive must communicate the appropriate facts to the relevant authorities of—
+(2) If a ship is expelled from a port under section 31(1)﻿(e), or entry into a port is denied under section 34(1)﻿(b)﻿(iv), the chief executive must communicate the appropriate facts to the relevant authorities of—
   (a) the State of the next appropriate port of call, if known; and
   (b) any other appropriate coastal State.
 (3) The communication must—
   (a) take into account any relevant guidelines promulgated by the International Maritime Organization; and
   (b) be secure and confidential.
-(4) The chief executive may not take any action under section 31(1)(e) or section 34(1)(b)(ii) or (iv) without consulting—
+(4) The chief executive may not take any action under section 31(1)﻿(e) or section 34(1)﻿(b)﻿(ii) or (iv) without consulting—
   (a) the chief executives of—
     (i) the New Zealand Police; and
     (ii) the New Zealand Customs Service; and
@@ -451,7 +451,7 @@ If the master withdraws the intention to enter the port, sections 30(2) and (3) 
   (b) may implement temporary security measures commensurate with the prevailing security level; and
   (c) must inform the chief executive as soon as practicable; and
   (d) in the case of a New Zealand ship that enters a port outside the territorial limits of New Zealand, must inform the government of the State in which the port is located.
-(4) If the chief executive is informed under subsection (3)(c), the chief executive must meet with the master of the ship to agree—
+(4) If the chief executive is informed under subsection (3)﻿(c), the chief executive must meet with the master of the ship to agree—
   (a) the nature of the conflict; and
   (b) the most appropriate resolution of the conflict.
 (5) If the conflict identified under subsection (3) involves a port facility, the master and the chief executive must consult the port facility security officer of that port facility before taking the steps specified in subsection (3).
@@ -576,7 +576,7 @@ The chief executive must approve a port facility security plan, or any amendment
       (A) ship or class of ship; or
       (B) port security area.
 (2) The Gazette notice must specify—
-  (a) which of the screenings under subsection (1)(a) and which of the searches under subsection (1)(b) are part of the Minister's directive; and
+  (a) which of the screenings under subsection (1)﻿(a) and which of the searches under subsection (1)﻿(b) are part of the Minister's directive; and
   (b) the permitted extent of those screenings and searches.
 (3) Before directing a maritime security organisation under subsection (1), the Minister must, to determine whether the direction is necessary to improve or enhance maritime security to enable New Zealand to be part of a concerted international response to a threat to maritime security or whether it is in the national interest, consult—
   (a) the chief executive; and
@@ -599,7 +599,7 @@ The chief executive must approve a port facility security plan, or any amendment
       (A) ship or class of ship; or
       (B) port security area.
 (2) The Gazette notice must specify—
-  (a) which of the screenings under subsection (1)(a) and which of the searches under subsection (1)(b) are part of the chief executive's directive; and
+  (a) which of the screenings under subsection (1)﻿(a) and which of the searches under subsection (1)﻿(b) are part of the chief executive's directive; and
   (b) the permitted extent of those screenings and searches.
 (3) Before directing a maritime security organisation under subsection (1), the chief executive must, to determine whether the direction is necessary to meet the maritime security risk, consult, as the chief executive in each case considers appropriate, representative groups in the maritime industry, government departments, Crown entities, and the New Zealand Defence Force.
 
@@ -614,8 +614,8 @@ The chief executive must approve a port facility security plan, or any amendment
 (3) If a direction made under section 47(1) or section 48(1) takes effect on a date before the notice is published in the Gazette,—
   (a) the direction expires 28 days after that date unless the notice is published in the Gazette within 28 days of that date; and
   (b) if the notice is published in the Gazette within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period,—
-    (i) the Minister, after complying with subsection (1)(b) and (c), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days); or
-    (ii) the chief executive, after complying with subsection (2)(b), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
+    (i) the Minister, after complying with subsection (1)﻿(b) and (c), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days); or
+    (ii) the chief executive, after complying with subsection (2)﻿(b), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
 (4) The notice is not a legislative instrument for the purposes of the Legislation Act 2012, but if the direction in the notice takes effect on a date on or after the notice is published in the Gazette, the notice is a disallowable instrument for the purposes of that Act and must be presented to the House of Representatives under section 41 of that Act.
 (5) A direction may,—
   (a) if made under section 47(1), be rescinded by the Minister; or
@@ -655,16 +655,16 @@ The chief executive must approve a port facility security plan, or any amendment
     (i) for the purposes of preventing the commission of an offence against section 50; and
     (ii) at a port security area or on a ship; and
     (iii) in the case of a person, or his or her vehicle or things, who is to be screened or searched, with the consent of that person or the person in control of the vehicle or things; and
-  (b) subsection (1)(b)(i) and (iv) may only be exercised if—
+  (b) subsection (1)﻿(b)﻿(i) and (iv) may only be exercised if—
     (i) the person has consented; or
     (ii) the authorised person has a search warrant; and
-  (c) subsection (1)(b)(v) may only be exercised if—
+  (c) subsection (1)﻿(b)﻿(v) may only be exercised if—
     (i) the company or master has consented; or
     (ii) the authorised person has a search warrant.
 (4) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided in subpart 3 of Part 4 of that Act, is satisfied that there are reasonable grounds to believe that an offence against this Act has been, is being, or is likely to be committed, may issue to an authorised person (named in the warrant) a warrant to search—
-  (a) a person specified in subsection (1)(b)(i); or
-  (b) a person (including that person's personal effects) or vehicle specified in subsection (1)(b)(iv); or
-  (c) a ship specified in subsection (1)(b)(v).
+  (a) a person specified in subsection (1)﻿(b)﻿(i); or
+  (b) a person (including that person's personal effects) or vehicle specified in subsection (1)﻿(b)﻿(iv); or
+  (c) a ship specified in subsection (1)﻿(b)﻿(v).
 (5) If a search is conducted under a search warrant by an authorised person who is not a constable, that authorised person must be accompanied by a constable.
 (6) If a person allows his or her person to be searched or is subject to a search warrant,—
   (a) that person may not be required to remove any article of clothing (other than a coat or similar article) for the purposes of being searched; and
@@ -679,7 +679,7 @@ The chief executive must approve a port facility security plan, or any amendment
   (a) dressed in a uniform that clearly displays that person's identity and employer; or
   (b) who, if not in uniform, provides, if asked, evidence that he or she is an authorised person to the person to be screened or searched.
 (9) To avoid doubt, things, personal effects, and vehicles may be screened or searched without consent if they are unattended.
-(10) Despite subsection (1)(a)(ii) and (b)(ii), goods subject to the control of Customs may not be screened or searched without the authorisation of the New Zealand Customs Service.
+(10) Despite subsection (1)﻿(a)﻿(ii) and (b)﻿(ii), goods subject to the control of Customs may not be screened or searched without the authorisation of the New Zealand Customs Service.
 (11) Subsection (10) does not apply if the chief executive has specified that security level 3 applies to the port facility or ship where the screening or searching is to be done.
 (12)
 
@@ -793,7 +793,7 @@ The chief executive must approve a port facility security plan, or any amendment
 (1) No person, craft, or vessel may enter or leave an exclusion zone unless authorised by the chief executive.
 (2) Subsection (1)—
   (a) applies to all craft and vessels whether or not section 4(1) applies to them; but
-  (b) does not apply to the craft and vessels referred to in section 4(2)(a) and (b).
+  (b) does not apply to the craft and vessels referred to in section 4(2)﻿(a) and (b).
 (3) If necessary to protect an exclusion zone, an authorised person may, with reasonable force, remove, or prevent from leaving, a person or vessel that has entered, or attempted to leave, the exclusion zone without authority.
 
 ## Part 4 — Miscellaneous provisions
@@ -837,7 +837,7 @@ No employee of a port facility or an organisation servicing a port facility, or 
   (a) section 14(2) or section 20 commits an offence and is liable to—
     (i) imprisonment for a term not exceeding 1 year; and
     (ii) a fine not exceeding $20,000:
-  (b) section 29(3)(a) or (b) or section 30(1) or (2) is liable to a fine not exceeding $5,000.
+  (b) section 29(3)﻿(a) or (b) or section 30(1) or (2) is liable to a fine not exceeding $5,000.
 (2) Every master who provides false advice under section 30(2) commits an offence and is liable to a fine not exceeding $5,000.
 
 ### 66 Offences by companies
@@ -850,12 +850,12 @@ Every company that fails to comply with section 21 or section 22 commits an offe
   (a) a ship security plan is not held on board the company's ship as required under section 26; or
   (b) written approval for an amendment to a ship security plan is not held on board the company's ship as required under section 24(2); or
   (c) a certificate is not held on board the company's ship as required under section 29(1).
-(2) If an offence is committed against subsection (1)(a) or (b),—
+(2) If an offence is committed against subsection (1)﻿(a) or (b),—
   (a) the master is liable to a fine not exceeding $5,000; and
   (b) the company is liable,—
     (i) in the case of an individual, to a fine not exceeding $5,000; or
     (ii) in the case of a body corporate, to a fine not exceeding $30,000.
-(3) If an offence is committed against subsection (1)(c),—
+(3) If an offence is committed against subsection (1)﻿(c),—
   (a) the master is liable to a fine not exceeding $5,000; and
   (b) the company is liable,—
     (i) in the case of an individual, to a fine not exceeding $7,500; or
@@ -869,14 +869,14 @@ Every person who, without reasonable excuse, acts in contravention of, or fails 
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
 ### 69 Failure to comply with steps
-Every person who, without reasonable excuse, acts in contravention of, or fails to comply with, a step taken by the chief executive under section 34(1)(b) commits an offence and is liable,—
+Every person who, without reasonable excuse, acts in contravention of, or fails to comply with, a step taken by the chief executive under section 34(1)﻿(b) commits an offence and is liable,—
   (a) in the case of an individual, to—
     (i) a term of imprisonment not exceeding 1 year; and
     (ii) a fine not exceeding $10,000; or
   (b) in the case of a body corporate, to a fine not exceeding $100,000.
 
 ### 70 Offences by port facility operator
-(1) Every port facility operator who fails to comply with section 38(1)(a), (b), (c), or (d) commits an offence and is liable to a fine not exceeding $100,000.
+(1) Every port facility operator who fails to comply with section 38(1)﻿(a), (b), (c), or (d) commits an offence and is liable to a fine not exceeding $100,000.
 (2) Every port facility operator who fails to put in place a port facility security plan under section 40 that complies with a port facility security assessment carried out under section 39 commits an offence and is liable,—
   (a) in the case of an individual, to a fine not exceeding $5,000; or
   (b) in the case of a body corporate, to a fine not exceeding $30,000.
@@ -954,7 +954,7 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
 (4) Following a recommendation by the Designated Authority under subsection (3),—
   (a) in an emergency, the Minister may extend the application of this Act to a ship or port facility by notice in the Gazette; and
   (b) in any other case, the Governor-General, on the recommendation of the Minister, may extend the application of this Act to a ship or port facility by Order in Council.
-(5) For the purposes of subsection (4)(b), the Minister must consult with the affected ship (if any) and the affected port facility (if any).
+(5) For the purposes of subsection (4)﻿(b), the Minister must consult with the affected ship (if any) and the affected port facility (if any).
 (6) A Gazette notice or Order in Council under subsection (4)—
   (a) must—
     (i) clearly identify the ship or port facility concerned; and
@@ -963,16 +963,14 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
   (b) may cover—
     (i) more than 1 ship or port facility; and
     (ii) any combination of ships and port facilities.
-(7) A Gazette notice issued under subsection (4)(a)—
+(7) A Gazette notice issued under subsection (4)﻿(a)—
   (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; and
   (b) expires 90 days after the day on which it is published in the Gazette.
-(8) An Order in Council made under subsection (4)(b),—
-  (a) if made on or before 30 June in any year, expires on the close of 31 December of that year, except so far as it is expressly confirmed by Act of Parliament passed during that year; and
-  (b) if made on or after 1 July in any year, expires on the close of 31 December in the following year, except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
-(9) A Gazette notice issued under subsection (4)(a) may be replaced by an Order in Council made under subsection (4)(b).
+(8)
+(9) A Gazette notice issued under subsection (4)﻿(a) may be replaced by an Order in Council made under subsection (4)﻿(b).
 (10) For the purposes of subsections (1) to (6),—
-  - **port facility** means a port facility that is not included in section 4(1)(b)
-  - **ship** means a ship that is not included in section 4(1)(a).
+  - **port facility** means a port facility that is not included in section 4(1)﻿(b)
+  - **ship** means a ship that is not included in section 4(1)﻿(a).
 (11) To avoid doubt, the Minister may not extend the application of this Act to—
   (a) warships; or
   (b) naval auxiliaries; or
@@ -980,6 +978,12 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
     (i) owned or operated by the Crown; and
     (ii) used on government non-commercial service; or
   (d) pleasure craft (as defined in section 2(1) of the Maritime Transport Act 1994).
+
+### 78A Orders are confirmable instruments
+The explanatory note of an Order in Council made under section 78(4)﻿(b) must indicate that—
+  (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
+  (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
+  (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 **Miscellaneous**
 
@@ -1000,22 +1004,22 @@ For the purposes of any inspection or audit carried out in respect of any person
 
 ### 81 Consequential amendments
 ((1)–(8)) Amendment(s) incorporated in the Act(s).
-(9) The Maritime (Offences) Regulations 1998 (1998/444) are amended in the manner set out in Part 1 of the Schedule.
+(9) The Maritime (Offences) Regulations 1998 (SR 1998/444) are amended in the manner set out in Part 1 of the Schedule.
 (10) The Maritime Rules are amended in the manner set out in Part 2 of the Schedule.
 
 ## Schedule Schedule — Consequential amendments to Maritime Regulations and Maritime Rules
 
-### 40B.33 Automatic identification system
+### 40B﻿.﻿33 Automatic identification system
 (1) The owner of a ship must ensure that an automatic identification system is fitted on board the ship in accordance with the requirements of regulation 19 of Chapter V of SOLAS (as amended in December 2002).
 (2) The master of a ship must ensure that an automatic identification system is in operation at all times.
 (3) The master of a ship is not in breach of clause (2) if the failure to comply is due to reasons beyond the master's control.
 
-### 40B.34 Ship identification number
+### 40B﻿.﻿34 Ship identification number
 The owner of a ship must ensure that the ship is permanently marked with the ship's identification number in accordance with regulation 3 of Chapter XI-1 of SOLAS (as amended in December 2002).
 
-### 40B.35 Continuous synopsis record
+### 40B﻿.﻿35 Continuous synopsis record
 (1) The owner of a ship must ensure that the ship carries a continuous synopsis record in accordance with regulation 5 of Chapter XI-1 of SOLAS (as amended in December 2002).
 (2) The master of a ship must ensure a continuous synopsis record is maintained in accordance with regulation 5 of Chapter XI-1 of SOLAS (as amended in December 2002).
 
-### 40B.36 Ship security alert system
+### 40B﻿.﻿36 Ship security alert system
 The owner of a ship must ensure that the ship is fitted with a ship security alert system in accordance with regulation 6 of Chapter XI-2 of SOLAS (as amended in December 2002).
