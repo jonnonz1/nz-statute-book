@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2016-02-04_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -125,8 +125,8 @@ This Act binds the Crown.
   (a) in a prison; or
   (b) in a residence administered by the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
   (c) in, or on leave from, a hospital—
-    (i) under section 46 of the Mental Health (Compulsory Assessment and Treatment) Act 1993; or
-    (ii) following an application under section 45(2) of the Mental Health (Compulsory Assessment and Treatment) Act 1993; or
+    (i) under section 46 of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
+    (ii) following an application under section 45(2) of the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
     (iii) under an order under section 34(1)﻿(a)﻿(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
   (d) in, or on leave from, a secure facility—
     (i) following an application under section 29(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
@@ -138,7 +138,7 @@ This Act binds the Crown.
   (b) under a concurrent sentence of imprisonment imposed on him or her before he or she was released from an earlier sentence of imprisonment imposed for an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule.
 (3) To avoid doubt, a person is not detained under a sentence of imprisonment under subsection (1) if he or she has been convicted of an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule and in relation to that offence he or she is—
   (a) serving a sentence of imprisonment by way of home detention; or
-  (ab) subject to residential restrictions imposed under section 15 of the Parole Act 2002
+  (ab) subject to residential restrictions imposed under section 15 of the Parole Act 2002; or
   (b) detained in a prison subject to an interim recall order.
 
 ### 4B Approval of agency to determine training criteria for dealing with, and device or other means for taking, buccal samples
@@ -649,7 +649,7 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
 (3) In the case of a profile stored under section 26(ac), the storage of the profile is subject to subsection (4) if—
   (a) the person was a young person on the date of the offence; and
   (b) a Youth Court made an order under section 282 of the Children, Young Persons, and Their Families Act 1989 discharging the charge relating to the offence after finding that the offence was proved.
-(4) The retention periods and effect of certain subsequent offences are as follows:Sentence or orderRetention period for order or convictionRetention period for subsequent offence Section 26(a) or (ab): section 283(a) to (n) order made by a Youth Court10 years after date of that section 283 orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): section 283(o) order made by a Youth Court but no imprisonment10 years after date of section 283(o) orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): convicted by a District Court but no imprisonment10 years after date of convictionIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(ac): section 282 order made after offence proved4 years after date of section 282 orderIf a section 283 order is subsequently made during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If the person is subsequently convicted by a District Court without imprisonment during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If another section 282 order is subsequently made during that 4-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the first 4-year period.
+(4) The retention periods and effect of certain subsequent offences are as follows:The following table is small in size and has 3 columns. Column 1 is headed Sentence or order. Column 2 is headed Retention period for order or conviction. Column 3 is headed Retention period for subsequent offence.Sentence or orderRetention period for order or convictionRetention period for subsequent offenceSection 26(a) or (ab): section 283(a) to (n) order made by a Youth Court10 years after date of that section 283 orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): section 283(o) order made by a Youth Court but no imprisonment10 years after date of section 283(o) orderIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(a) or (ab): convicted by a District Court but no imprisonment10 years after date of convictionIf a section 282 order is subsequently made during that 10-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the 10-year period.Section 26(ac): section 282 order made after offence proved4 years after date of section 282 orderIf a section 283 order is subsequently made during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If the person is subsequently convicted by a District Court without imprisonment during that 4-year period, a further retention period of 10 years applies and runs concurrently with the 4-year period.If another section 282 order is subsequently made during that 4-year period after the offence is proved, a further retention period of 4 years applies and runs concurrently with the first 4-year period.
 (5) A person's DNA profile stored under section 26 may, unless otherwise provided by this Act, be stored indefinitely on a DNA profile databank if any of the following apply:
   (a) if the profile is stored in relation to an offence and a court imposes a sentence of imprisonment for the offence:
   (b) if the profile is stored in relation to an offence and a retention period initially applies to the offence and, during that period, a subsequent order or conviction is made or entered against the person that is not specifically provided for in the third column of the table in subsection (4):ExamplesDuring a 10-year period for a section 283 order, another section 283 order is made against the person or a conviction (with or without imprisonment) is entered against the person by any court.During a 10-year period for a conviction by a District Court, a section 283 order is made against the person or another conviction (with or without imprisonment) is entered against the person by any court.During a 4-year retention period for a section 282 order, 2 further section 282 orders are made against the person.
@@ -673,7 +673,10 @@ Subject to sections 60, 60A, and 62, the following information may be stored on 
 (1) Subject to subsections (2) to (4), no person may have access to any information stored on a DNA profile databank, and no person shall disclose any such information, except for 1 or more of the following purposes:
   (a) for the purpose of forensic comparison in the course of a criminal investigation by the Police:
   (b) for the purpose of making the information available, in accordance with the Privacy Act 1993, to the person to whom the information relates:
-  (c) for the purpose of administering the DNA profile databank.
+  (c) for the purpose of administering the DNA profile databank:
+  (d) for the purpose of responding to a request under the Mutual Assistance in Criminal Matters Act 1992 if—
+    (i) access to the information requested is authorised by the Attorney-General; and
+    (ii) the request relates to an offence that corresponds to an offence in New Zealand that is punishable by a term of imprisonment of more than 1 year.
 (2) Nothing in this section applies in relation to information that does not identify any person.
 (3) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the Privacy Act 1993 to investigate any complaint made under Part 8 of that Act.
 (4) Nothing in this section prohibits access to, or the disclosure of, any information for the purposes of—
@@ -1081,7 +1084,7 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
 (1) This section applies to a person in respect of whom a compulsion order has been made, or a databank compulsion notice has been issued, if that person is detained—
   (a) in the custody of the Police; or
   (b) in the custody of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989; or
-  (c) in custody any prison; or
+  (c) in custody in any prison; or
   (d) in a hospital under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
   (e) in a facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
 (2) A person having custody of, or responsibility for, a person to whom this section applies must cause that person to attend at the place where, and on the date on which, a bodily sample is to be taken pursuant to the compulsion order or databank compulsion notice.
@@ -1115,7 +1118,7 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
 (4) If a place, date, or place and date is varied under subsection (1), the varied place, date, or place and date must be treated for the purposes of the relevant compulsion order or databank compulsion notice, and this Act, as the place, date, or place and date specified in the order or notice.
 (5) A Judge may, if he or she considers it appropriate, on an application under this section, vary a compulsion order or databank compulsion notice in any manner he or she thinks fit, including (without limitation) variation of—
   (a) the application of a condition included in an order under section 24A(2), (3), or (5); or
-  (b) the particulars included in a notice under section 39A(2)﻿(c), or (4).
+  (b) the particulars included in a notice under section 39A(2)﻿(c) or (4).
 (6) To avoid doubt, an application must not be made under subsection (1) to vary a date or place, or date and place, agreed to by the person to whom the compulsion order or databank compulsion notice relates and a constable under section 24A(2) or section 39A(2)﻿(c), or to vary a date agreed to by those persons under section 24A(4)﻿(b) or section 39A(3)﻿(b)﻿(ii), but that date or place, or date and place, may be varied by a further agreement between the parties.
 
 **Procedure for taking bodily samples**
@@ -1136,7 +1139,7 @@ Where subsection (4)﻿(c) or subsection (6)﻿(b) of section 37 applies in resp
     (i) buccal sample, if the Judge has specified under section 24A(1) or section 42(2)﻿(b)﻿(iii) a buccal sample as the method by which the sample is to be taken (because of the person’s state of health); or
     (ii) fingerprick sample, in any other case.
 (6) A constable may indicate to a person making an election under subsection (3) or (4)﻿(a) that the Police prefer a particular method for taking the sample be used.
-(7) If a person has been given a reasonable opportunity under subsection (3) or (4)﻿(a) to chose the method by which the sample is to be taken and has indicated that he or she has no preference as to the method by which the sample is taken, a constable must choose which of the 3 methods is to be used to take the sample.
+(7) If a person has been given a reasonable opportunity under subsection (3) or (4)﻿(a) to choose the method by which the sample is to be taken and has indicated that he or she has no preference as to the method by which the sample is taken, a constable must choose which of the 3 methods is to be used to take the sample.
 (8) Section 54(2) and, if applicable, section 54(3) apply if a person refuses to allow a bodily sample to be taken after a decision has been made by a constable under subsection (7).
 
 ### 48A Method by which bodily sample may be taken: samples under Part 2B
