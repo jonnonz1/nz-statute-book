@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2015-11-07_
+_Consolidation as at 2016-02-04_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -374,7 +374,7 @@ Every request by a foreign country for assistance under this Part shall—
   (e) the request relates to the prosecution or punishment of a person in respect of an act or omission that, if it had occurred in New Zealand, would have constituted an offence under the military law of New Zealand but not also under the ordinary criminal law of New Zealand; or
   (f) the granting of the request would prejudice the sovereignty, security, or national interests of New Zealand; or
   (g) in the case of a request made pursuant to section 37 or section 38 for the attendance of any person in that foreign country, the person to whom the request relates is not prepared to give his or her consent to the transfer; or
-  (h) the request is for assistance of a kind that cannot be given under this Act, or would require steps to be taken for its implementation that could not be lawfully taken; or
+  (h) the request is for assistance of a kind that cannot be given under this Act, or would require steps to be taken for its implementation that could not be lawfully taken.
   (i)
 (2) Subject to subsections (3) and (4), a request by a foreign country for assistance under this Part may be refused if, in the opinion of the Attorney-General,—
   (a) the request relates to the prosecution or punishment of a person in respect of conduct that, if it had occurred in New Zealand, would not have constituted an offence against New Zealand law; or
@@ -426,14 +426,20 @@ Assistance under this Part may be provided to a requesting country subject to su
 ### 31 Assistance in obtaining evidence in New Zealand
 (1) A foreign country may request the Attorney-General to assist in arranging—
   (a) the taking of evidence in New Zealand; or
-  (b) the production of documents or other articles in New Zealand.
-(2) Where, on receipt of a request made under subsection (1) by a foreign country, the Attorney-General is satisfied—the Attorney-General may authorise, in writing, assistance in accordance with this section.
-  (a) that the request relates to criminal proceedings in the foreign country; and
-  (b) that there are reasonable grounds for believing that the evidence can be taken or, as the case may be, the documents or other articles can be produced in New Zealand,—
-(3) Where, under subsection (2), the Attorney-General authorises the taking of evidence, a Judge may, subject to sections 32 and 33 and to any regulations made under this Act, take the evidence on oath of each witness appearing before the Judge, and shall—
-  (a) cause the evidence to be put in writing and certify, in the prescribed form, that the evidence was taken by the Judge; and
-  (b) cause the writing to be sent to the Attorney-General.
-(4) Where, under subsection (2), the Attorney-General authorises the production of documents or other articles, a Judge may, subject to sections 32 and 33 and to any regulations made under this Act, require the production of the documents or other articles, and, unless the Judge otherwise orders, shall cause the documents, or copies of the documents certified by the Judge to be true copies, or the other articles, to be sent to the Attorney-General.
+  (b) the production of documents or other articles in New Zealand; or
+  (c) the undertaking of a forensic comparison under the Criminal Investigations (Bodily Samples) Act 1995 and the production of a document specifying the result of that comparison.
+(2) The Attorney-General may, in writing, authorise the requested assistance if,—
+  (a) in the case of receipt of a request made under subsection (1)﻿(a) or (b) by a foreign country, the Attorney-General is satisfied that—
+    (i) the request relates to criminal proceedings in the foreign country; and
+    (ii) there are reasonable grounds for believing that the evidence can be taken or the documents or other articles can be produced in New Zealand:
+  (b) in the case of receipt of a request made under subsection (1)﻿(c) by a foreign country, the Attorney-General is satisfied that—
+    (i) the request relates to a criminal matter in the foreign country; and
+    (ii) the request is in respect of an offence that corresponds to an offence in New Zealand that is punishable by a term of imprisonment of more than 1 year.
+(3) If, under subsection (2), the Attorney-General authorises—
+  (a) the taking of evidence, a Judge may, subject to sections 32 and 33 and to any regulations made under this Act, take the evidence on oath of each witness appearing before the Judge and must, in this case,—
+    (i) cause the evidence to be put in writing and certify, in the prescribed form, that the evidence was taken by the Judge; and
+    (ii) cause the writing to be sent to the Attorney-General:
+  (b) the production of documents or other articles, a Judge may, subject to sections 32 and 33 and to any regulations made under this Act, require the production of the documents or other articles, and, unless the Judge otherwise orders, must cause the documents, or copies of the documents certified by the Judge to be true copies, or the other articles, to be sent to the Attorney-General.
 
 ### 32 Further provisions relating to obtaining evidence
 (1) Subject to section 33, the laws of New Zealand with respect to the compelling of persons to attend before a Judge, and to give evidence, answer questions, and produce documents or other articles, upon the hearing of a charge against a person for an offence against the law of New Zealand shall apply, so far as they are capable of application and with all necessary modifications, with respect to the compelling of persons to attend before a Judge, and to give evidence, answer questions, and produce documents or other articles, for the purposes of section 31.
@@ -490,7 +496,7 @@ Nothing in this Act limits or affects the Evidence Act 2006.
 (3) Where assistance is authorised in accordance with subsection (2), the Attorney-General may,—
   (a) in the case of a person who is a prisoner, direct that the prisoner be released from the prison in which that person is detained for the purpose of travelling to the foreign country to give evidence at the hearing, and may make arrangements for the prisoner to travel to the foreign country in the custody of a constable or a prison officer:
   (b) in the case of any other person, approve and arrange the travel of the person to the foreign country to give evidence at the hearing, and may obtain such approvals, authorities, and permissions as are required for the purpose, including the variation, discharge, or suspension of the conditions of the person’s release, or the variation, cancellation, or suspension of the person’s sentence, or of the conditions of the person’s sentence.
-(4) A direction given, pursuant to subsection (3)﻿(a), by the Attorney-General in respect of a prisoner shall be sufficient authority for the release of the prisoner from the penal institution in which he or she is detained for the purposes of the direction.
+(4) A direction given, pursuant to subsection (3)﻿(a), by the Attorney-General in respect of a prisoner shall be sufficient authority for the release of the prisoner from the prison in which he or she is detained for the purposes of the direction.
 (5) Every person released under a direction given pursuant to subsection (3)﻿(a) shall, while that person is in New Zealand during the period of that release, be deemed, for the purposes of section 120 of the Crimes Act 1961 (which relates to escaping from lawful custody) and for that purpose only, to continue to be in the legal custody of the person in whose custody he or she was when in the prison from which he or she is so released.
 
 ### 39 Undertakings required from foreign country
@@ -794,7 +800,7 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
 |  |  |  |  |  |  | 9 | cultivation of prohibited plants |
 |  |  |  |  |  |  | 10 | aiding offences against corresponding law of another country |
 |  |  |  |  |  |  | 12A | equipment, material, and substances used in production or cultivation of controlled drugs |
-|  | 12AB |  | Offence to knowingly import or export precursor substances for unlawful use |  |  |  |  |
+|  | 12AB |  | knowingly import or export precursor substances for unlawful use |  |  |  |  |
 |  |  |  |  |  |  | 12B | laundering proceeds of drug offences |
 |  |  |  |  |  |  | 12C | commission of offences outside New Zealand |
 |  |  |  |  |  | 5The Single Convention on Narcotic Drugs, done at New York on 30 March 1961or6The Protocol to the Single Convention on Narcotic Drugs, done at Geneva on 25 March 1972or7The Convention on Psychotropic Substances, done at Vienna on 21 February 1971 | An offence against any of the following sections of the Misuse of Drugs Act 1975: |  |
