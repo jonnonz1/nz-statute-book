@@ -1,5 +1,5 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2016-02-23_
 
 > Title
 
@@ -132,20 +132,12 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
 (6) All gas measurements made for the purpose of supplying a return and calculating the levy payable under this section shall be made by the use of methods approved by the Secretary.
 
 ### 24 Petroleum or engine fuel monitoring levy
-(1) A levy of 0.045 cents, or such lesser amount as may be prescribed, is payable for each complete litre of petroleum or engine fuel that is,—
-  (a) if no Order in Council is in force under paragraph (b), specified in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) as a type of—
-    (i) motor spirit; or
-    (ii) diesel; or
-    (iii) biodiesel; or
-    (iv) ethyl alcohol specified under the heading Fuels in Part A or B of the Excise and Excise-equivalent Duties Table (as so defined); or
-  (b) specified in the Excise and Excise-equivalent Duties Table (as so defined) and prescribed by an Order in Council made on the recommendation of the Minister.
+(1) A levy is payable at the rate prescribed under section 33 for each complete litre of petroleum or engine fuel of a type specified in regulations made under section 35(1)﻿(fa).
 (2) The levy must be paid to the New Zealand Customs Service—
-  (a) by the person who would be liable to pay excise duty or excise-equivalent duty under the Customs and Excise Act 1996 if any were payable; and
+  (a) by the person who would be liable to pay any excise duty or excise-equivalent duty on the petroleum or engine fuel under the Customs and Excise Act 1996 if any were payable; and
   (b) when any excise duty or excise-equivalent duty would be paid if any were payable.
-(3) The New Zealand Customs Service must collect the levy on behalf of the Secretary and must pay the amount collected to the Secretary.
-(4) In respect of the levy,—
-  (a) sections 14, 26, and 29 to 34 apply:
-  (b) sections 27 and 28 do not apply.
+(3) The New Zealand Customs Service must collect the levy on behalf of the Crown.
+(4) Section 28 (which provides a penalty for late payment of a levy) does not apply in respect of the levy.
 
 ### 25 Supplementary levies
 [Repealed]
@@ -167,9 +159,8 @@ All money payable to the Secretary or the New Zealand Customs Service under this
   (a) a debt due to the Crown; and
   (b) recoverable by the Crown in a court of competent jurisdiction.
 
-### 30 Payment of levy into account
-(1) All money received by the Secretary under section 22 or 23 must be paid into a Crown Bank Account.
-(2) All money received by the Secretary under section 24 must be paid into the Departmental Bank Account of the responsible department of State.
+### 30 Payment of levy into Crown Bank Account
+All money received by the Secretary or the New Zealand Customs Service under this Part must be paid into a Crown Bank Account.
 
 ### 31 Power to inspect property, obtain information, and enter land
 (1) For the purpose of obtaining any information that may be required by the Secretary for the purposes of this Part, any person specifically or generally authorised in writing in that behalf by the Secretary may, from time to time—
@@ -391,7 +382,7 @@ Every person commits an offence who,—
   (c) refuses or fails without reasonable excuse to comply with any requirement made under paragraph (c) or (d) of section 35C(2).
 
 ### 36 Power of Minister to require information
-(1) The Minister may, by notice in writing to a person described in subsection (1A), require that person to supply to the Minister, by a date specified in the notice, any information specified in the notice in relation to the following:
+(1) The Minister may, by notice in writing to a person described in subsection (1B), require that person to supply to the Minister, by a date specified in the notice, any information specified in the notice in relation to the following:
   (a) the price, suitability, quantity, or nature of petroleum, refined petroleum products, or engine fuel, or goods capable of being used to make engine fuel either in New Zealand or elsewhere:
   (b)
   (c) the importation, distribution, production, refining, blending, exportation, or selling of petroleum, refined petroleum products, or engine fuel, or goods capable of being used to make engine fuel either in New Zealand or elsewhere:
